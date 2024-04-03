@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Hydromorphone Hydrochloride Injection, USP (HPF) is supplied in single-dose amber vials.
-Each single-dose vial of sterile aqueous solution contains 10 mg per mL of hydromorphone hydrochloride, USP with 0.2% sodium citrate and 0.2% citric acid solution.
-Hydromorphone Hydrochloride Injection, USP (HPF) is preservative free and is supplied as follows:
+Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is supplied in single-dose amber vials.
+Each single-dose vial of sterile aqueous solution contains 10 mg per mL of hydromorphone hydrochloride with 0.2% sodium citrate and 0.2% citric acid solution.
+Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is preservative free and is supplied as follows:
 
 | Unit of Sale | Concentration |
 | --- | --- |
@@ -19,6 +19,6 @@ Store at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
 
 Safety and Handling Instructions
 
-Access to drugs with a potential for abuse such as Hydromorphone Hydrochloride Injection, USP [high potency formulation (HPF)] presents an occupational hazard for addiction in the health care industry.
-Routine procedures for handling controlled substances developed to protect the public may not be adequate to protect health care workers.
+Access to drugs with a potential for abuse such as Hydromorphone Hydrochloride Injection, USP [high potency formulation (HPF)] presents an occupational hazard for addiction in the healthcare industry.
+Routine procedures for handling controlled substances developed to protect the public may not be adequate to protect healthcare workers.
 Implementation of more effective accounting procedures and measures to restrict access to drugs of this class (appropriate to the practice setting) may minimize the risk of self-administration by healthcare providers.

@@ -37,7 +37,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
@@ -49,7 +49,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
 
 Concentration–Adverse Reaction Relationships
@@ -76,7 +76,7 @@ Hydromorphone is extensively metabolized via glucuronidation in the liver, with 
 Excretion
 
 Only a small amount of the hydromorphone dose is excreted unchanged in the urine.
-Most of the dose is excreted as hydromorphone-3-glucoronide along with minor amounts of 6-hydroxy reduction metabolites.
+Most of the dose is excreted as hydromorphone-3-glucuronide along with minor amounts of 6-hydroxy reduction metabolites.
 
 Special Populations
 
@@ -90,7 +90,7 @@ A further increase in Cmax and AUC of hydromorphone in this group is expected an
 Renal Impairment
 
 The pharmacokinetics of hydromorphone following an oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets) are affected by renal impairment.
-Mean exposure to hydromorphone (Cmax and AUC0–∞) is increased by 2-fold in patients with moderate (CLcr = 40 − 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+Mean exposure to hydromorphone (Cmax and AUC0–∞) is increased by 2-fold in patients with moderate (CLcr = 40 − 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr< 30 mL/min) renal impairment compared with normal subjects (CLcr> 80 mL/min).
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
 Patients with renal impairment should be closely monitored during dose titration [see Use in Specific Populations (8.7)].
 

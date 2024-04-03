@@ -1,10 +1,22 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Addiction, Abuse, and Misuse
+
+Inform patients that the use of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)], even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.2)].
+
+Life-Threatening Respiratory Depression
+
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Hyperalgesia and Allodynia
+
+Advise patients to inform their healthcare provider if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.6), Adverse Reactions (6)].
+
 Serotonin Syndrome
 
-Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
-Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications, [see Drug Interactions (7)].
+Inform patients that opioids could cause a rare but potentially life-threatening condition called serotonin syndrome resulting from concomitant administration of serotonergic drugs.
+Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop after discharge from the hospital.
+Instruct patients to inform their healthcare providers if they are taking or plan to take serotonergic medications [see Drug Interactions (7)].
 
 Constipation
 
