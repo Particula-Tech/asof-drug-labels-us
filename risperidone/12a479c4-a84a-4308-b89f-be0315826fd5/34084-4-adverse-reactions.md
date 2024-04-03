@@ -167,10 +167,9 @@ Table 11 lists the adverse reactions reported in 2% or more of risperidone-treat
 Table 11.
 Adverse Reactions in greater than or equal to 2% of Risperidone-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Adjunctive Therapy Trials
 
-| Percentage of Patients Reporting Reaction |  |  |  |
+|  | Percentage of Patients Reporting Reaction |  |  |
 | --- | --- | --- | --- |
-| Risperidone + Mood Stabilizer |  | Placebo + |  |
-| System/Organ Class |  | Mood Stabilizer |  |
+| System/Organ Class | Risperidone + Mood Stabilizer | Placebo + Mood Stabilizer |  |
 | Adverse Reaction | (N=127) | (N=126) |  |
 | Cardiac Disorders |  |  |  |
 | Palpitations | 2 | 0 |  |
@@ -251,7 +250,7 @@ Adverse Reactions in greater than or equal to 5% of Risperidone-Treated Pediatri
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-|  | risperidone |  |
+|  | Risperidone |  |
 | System/Organ Class | 0.5 to 4.0 mg/day | Placebo |
 | Adverse Reaction | (N=107) | (N=115) |
 | Gastrointestinal Disorders |  |  |

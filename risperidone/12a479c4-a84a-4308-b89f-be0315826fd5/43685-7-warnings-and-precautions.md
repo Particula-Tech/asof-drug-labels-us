@@ -17,7 +17,8 @@ Risperidone is not approved for the treatment of dementia-related psychosis [see
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
-In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo. risperidone is not approved for the treatment of patients with dementia-related psychosis.
+In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
+Risperidone is not approved for the treatment of patients with dementia-related psychosis.
 [see Boxed Warningand Warnings and Precautions (5.1)]
 
 ## 5.3 Neuroleptic Malignant Syndrome
@@ -90,7 +91,7 @@ Data from the placebo-controlled 3- to 6-week study in children and adolescents 
 Table 3.
 Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
 
-|  | Placebo | Risperidone0.5 to 6 mg/day |
+|  | Placebo | Risperidone 0.5 to 6 mg/day |
 | --- | --- | --- |
 | Mean change from baseline (mg/dL) |  |  |
 |  | n=76 | n=135 |
@@ -138,7 +139,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 3-to 6-Week, Fixed-Dose 
 | Change from baseline | 1.6 | -1.9 |
 | Triglycerides | n=77 | n=138 |
 | Change from baseline | -9.0 | -2.6 |
-|  | Proportion of patients with shifts |  |
+| Proportion of patients with shifts |  |  |
 | Cholesterol(less than 170 mg/dL to greater than or equal to 200 mg/dL) | 2.4%(1/42) | 3.8%(3/80) |
 | LDL(less than 110 mg/dL to greater than or equal to 130 mg/dL) | 0%(0/16) | 0%(0/16) |
 | HDL(greater than or equal to 40 mg/dL to less than 40 mg/dL) | 0%(0/19) | 10%(2/20) |
@@ -156,9 +157,9 @@ Data on mean changes in body weight and the proportion of subjects meeting a wei
 Table 6.
 Mean Change in Body Weight (kg) and the Proportion of Subjects with greater than or equal to 7% Gain in Body Weight From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
 
-|  | Placebo(n=597) | Risperidone |  |
+|  | Risperidone |  |  |
 | --- | --- | --- | --- |
-| 1 to 8 mg/day(n=769) | Greater than 8 to 16 mg/day(n=158) |  |  |
+| Placebo (n=597) | 1 to 8 mg/day (n=769) | Greater than 8 to 16 mg/day (n=158) |  |
 | Weight (kg) |  |  |  |
 | Change from baseline | -0.3 | 0.7 | 2.2 |
 | Weight Gain |  |  |  |
@@ -171,9 +172,9 @@ Data on mean changes in body weight and the proportion of subjects meeting the c
 Table 7.
 Mean Change in Body Weight (kg) and the Proportion of Subjects With greater than or equal to 7% Gain in Body Weight From Nine Placebo-Controlled, 3- to 8-Week, Fixed-Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5 to 17 Years of Age)
 
-| Placebo |  | Risperidone 0.5 to 6 mg/day |
+|  | Placebo | Risperidone 0.5 to 6 mg/day |
 | --- | --- | --- |
-| (n=375) |  | (n=448) |
+|  | (n=375) | (n=448) |
 | Weight (kg) |  |  |
 | Change from baseline | 0.6 | 2.0 |
 | Weight Gain |  |  |

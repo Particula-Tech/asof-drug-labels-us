@@ -15,7 +15,7 @@ There are risks to the mother associated with untreated schizophrenia or bipolar
 
 Oral administration of risperidone to pregnant mice caused cleft palate at doses 3 to 4 times the maximum recommended human dose (MRHD) with maternal toxicity observed at 4-times MRHD based on mg/m 2body surface area.
 Risperidone was not teratogenic in rats or rabbits at doses up to 6-times the MRHD based on mg/m 2body surface area.
-Increased stillbirths and decreased birth weight occurred after oral risperidone administration to pregnant rats at 1.5-times the MRHD based on mg/m 2body surface area.
+Increased still births and decreased birth weight occurred after oral risperidone administration to pregnant rats at 1.5-times the MRHD based on mg/m 2body surface area.
 Learning was impaired in offspring of rats when the dams were dosed at 0.6-times the MRHD and offspring mortality increased at doses 0.1 to 3 times the MRHD based on mg/m 2body surface area.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -66,8 +66,9 @@ All of these effects occurred at 5 mg/kg which is 3 times the MRHD based on mg/m
 Risk Summary
 
 Limited data from published literature reports the presence of risperidone and its metabolite, 9-hydroxyrisperidone, in human breast milk at relative infant dose ranging between 2.3% and 4.7% of the maternal weight-adjusted dosage.
-There are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to risperidone (see Clinical Considerations).There is no information on the effects of risperidone on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for risperidoneand any potential adverse effects on the breastfed child from risperidoneor from the mother's underlying condition.
+There are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to risperidone (see Clinical Considerations).
+There is no information on the effects of risperidone on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for risperidone and any potential adverse effects on the breastfed child from risperidone or from the mother's underlying condition.
 
 Clinical Considerations
 
@@ -79,7 +80,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of risperidone (D 2receptor antagonism), treatment with risperidonemay result in an increase in serum prolactin levels,which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
+Based on the pharmacologic action of risperidone (D 2receptor antagonism), treatment with risperidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
 
 ## 8.4 Pediatric Use
 
@@ -150,7 +151,7 @@ The long-term effects of risperidone on growth and sexual maturation have not be
 Juvenile Animal Studies
 
 Juvenile dogs were treated with oral risperidone from weeks 10 to 50 of age (equivalent to the period of childhood through adolescence in humans), at doses of 0.31, 1.25, or 5 mg/kg/day, which are 1.2, 3.4, and 13.5 times the MRHD of 6 mg/day for children, based on mg/m 2body surface area.
-Bone length and density were decreased with a no-effect dose of 0.31 mg/kg/day; this dose produced levels AUC of risperidone plus its active metabolite paliperidone (9-hydroxy-risperidone) that were similar to those in children and adolescents receiving the MRHD of 6 mg/day.
+Bone length and density were decreased with a no-effect dose of 0.31 mg/kg/day; this dose produced plasma AUC of risperidone plus its active metabolite paliperidone (9-hydroxy-risperidone) that were similar to those in children and adolescents receiving the MRHD of 6 mg/day.
 In addition, sexual maturation was delayed at all doses in both males and females.
 The above effects showed little or no reversibility in females after a 12 week drug-free recovery period.
 

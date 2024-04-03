@@ -2,27 +2,27 @@
 
 ## 16.1 How Supplied
 
-Risperidone Tablets, USP 0.25 mg are available as light orange, round, biconvex film coated tablets, debossed with “CE” on one side and “128” on other side, packaged as follows:
+Risperidone Tablets, USP 0.25 mg are available as light orange, round, biconvex film coated tablets, debossed with “ CE” on one side and “ 128” on other side, packaged as follows:
 
 Bottles of 60: (NDC - 62135-600-60)
 
-Risperidone Tablets, USP 0.5 mg are available as orange, round, biconvex film coated tablets, debossed with “CE” on one side and “129” on other side, packaged as follows:
+Risperidone Tablets, USP 0.5 mg are available as orange, round, biconvex film coated tablets, debossed with “ CE” on one side and “ 129” on other side, packaged as follows:
 
 Bottles of 60: (NDC- 62135-601-60)
 
-Risperidone Tablets, USP 1 mg are available as white color, circular, biconvex film coated tablets, debossed with “CE” on one side and “130” on other side, packaged as follows:
+Risperidone Tablets, USP 1 mg are available as white color, circular, biconvex film coated tablets, debossed with “ CE” on one side and “ 130” on other side, packaged as follows:
 
 Bottles of 60: (NDC- 62135-602-60)
 
-Risperidone Tablets, USP 2 mg are available as white color, circular, biconvex film coated tablets, debossed with “CE” on one side and “131” on other side, packaged as follows:
+Risperidone Tablets, USP 2 mg are available as white color, circular, biconvex film coated tablets, debossed with “ CE” on one side and “ 131” on other side, packaged as follows:
 
 Bottles of 60: (NDC- 62135-603-60)
 
-Risperidone Tablets, USP 3 mg are available as white color, circular, biconvex film coated tablets, debossed with “CE” on one side and “132” on other side, packaged as follows:
+Risperidone Tablets, USP 3 mg are available as white color, circular, biconvex film coated tablets, debossed with “ CE” on one side and “ 132” on other side, packaged as follows:
 
 Bottles of 60: (NDC- 62135-604-60)
 
-Risperidone Tablets, USP 4 mg are available as white color, circular, biconvex film coated tablets, debossed with “CE” on one side and “133” on other side, packaged as follows:
+Risperidone Tablets, USP 4 mg are available as white color, circular, biconvex film coated tablets, debossed with “ CE” on one side and “ 133” on other side, packaged as follows:
 
 Bottles of 60: (NDC- 62135-605-60)
 

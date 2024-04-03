@@ -31,7 +31,7 @@ Advise them to seek medical attention if they experience any of the following: a
 
 Interference with Cognitive and Motor Performance
 
-Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle until they are reasonably certain that risperidonetherapy does not affect them adversely [see Warnings and Precautions (5.10)].
+Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle until they are reasonably certain that risperidone therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
 Priapism
 
@@ -53,21 +53,21 @@ Advise patients to avoid alcohol while taking risperidone [see Drug Interactions
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with risperidone.
-Advise patients that risperidonemay cause extrapyramidal and/or withdrawal symptoms in a neonate.
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to risperidoneduring pregnancy [see Use in Specific Populations (8.1)].
+Advise patients that risperidone may cause extrapyramidal and/or withdrawal symptoms in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to risperidone during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise breastfeeding women using risperidoneto monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Advise breastfeeding women using risperidone to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise females of reproductive potential that risperidonemay impair fertility due to an increase in serum prolactin levels.
+Advise females of reproductive potential that risperidone may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Manufactured for: Chartwell RX, LLC Congers, NY 10920
 
 Rev.
-02/2024
+03/2024
 
 L71710
