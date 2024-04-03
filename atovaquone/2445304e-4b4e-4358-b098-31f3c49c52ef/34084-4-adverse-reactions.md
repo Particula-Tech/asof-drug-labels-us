@@ -1,13 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in other sections of the labeling: • Hepatotoxicity [see Warnings and Precautions (5.2)].
+The following adverse reaction is discussed in another section of the labeling: • Hepatotoxicity [see Warnings and Precautions(5.2)].
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Additionally, because many subjects who participated in clinical trials with atovaquone had complications of advanced human immunodeficiency virus (HIV) disease, it was often difficult to distinguish adverse reactions caused by atovaquone from those caused by underlying medical conditions.
-PCP Prevention Trials In 2 clinical trials, atovaquone oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
-Dapsone Comparative Trial: In the dapsone comparative trial (n = 1,057), the majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
+PCP Prevention Trials In 2 clinical trials, atovaquone oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm 3or a prior episode of PCP) and unable to tolerate TMP-SMX.
+Dapsone Comparative Trial:In the dapsone comparative trial (n = 1,057), the majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
 Subjects received atovaquone oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521); median durations of exposure were 6.7 and 6.5 months, respectively.
 Adverse reaction data were collected only for adverse reactions requiring discontinuation of treatment, which occurred at similar frequencies in subjects treated with atovaquone oral suspension or dapsone (Table 1).
 Among subjects taking neither dapsone nor atovaquone at enrollment (n = 487), adverse reactions requiring discontinuation of treatment occurred in 43% of subjects treated with dapsone and 20% of subjects treated with atovaquone oral suspension.
@@ -23,9 +23,9 @@ Percentage (>2%) of Subjects with Selected Adverse Reactions Requiring Discontin
 | Diarrhea | 3.2 | 0.2 |
 | Vomiting | 2.2 | 0.6 |
 
-Aerosolized Pentamidine Comparative Trial: In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
-Subjects received atovaquone oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6, and 7.8 months, respectively.
-Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of atovaquone oral suspension or aerosolized pentamidine.
+Aerosolized Pentamidine Comparative Trial:In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
+Subjects received atovaquone oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6.0, and 7.8 months, respectively.
+Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500 mg dose of atovaquone oral suspension or aerosolized pentamidine.
 Rash occurred more often in subjects treated with atovaquone oral suspension (46%) than in subjects treated with aerosolized pentamidine (28%).
 Treatment-limiting adverse reactions occurred in 25% of subjects treated with atovaquone oral suspension 1,500 mg once daily and in 7% of subjects treated with aerosolized pentamidine.
 The most frequent adverse reactions requiring discontinuation of dosing in the group receiving atovaquone oral suspension 1,500 mg once daily were rash (6%), diarrhea (4%), and nausea (3%).
@@ -43,8 +43,8 @@ Percentage (≥20%) of Subjects with Selected Adverse Reactions in the Aerosoliz
 | Rhinitis | 24 | 17 |
 
 Other reactions occurring in ≥10% of subjects receiving the recommended dose of atovaquone oral suspension (1,500 mg once daily) included vomiting, sweating, flu syndrome, sinusitis, pruritus, insomnia, depression, and myalgia.
-PCP Treatment Trials Safety information is presented from 2 clinical efficacy trials of the atovaquone tablet formulation: 1) a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with acquired immunodeficiency syndrome (AIDS) and mild-to-moderate PCP [(A-a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air; 2) a randomized, open-label trial comparing atovaquone tablets with intravenous (IV) pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
-TMP-SMX Comparative Trial: In the TMP-SMX comparative trial (n = 408), the majority of subjects were white (66%) and male (95%); the mean age was 36 years.
+PCP Treatment Trials Safety information is presented from 2 clinical efficacy trials of the atovaquone tablet formulation: 1) a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with acquired immunodeficiency syndrome (AIDS) and mild-to-moderate PCP [(A-a)DO 2] ≤45 mm Hg and PaO 2≥60 mm Hg on room air; 2) a randomized, open-label trial comparing atovaquone tablets with intravenous (IV) pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+TMP-SMX Comparative Trial:In the TMP-SMX comparative trial (n = 408), the majority of subjects were white (66%) and male (95%); the mean age was 36 years.
 Subjects received atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or TMP 320 mg plus SMX 1,600 mg 3 times daily for 21 days; median durations of exposure were 21 and 15 days, respectively.
 Table 3 summarizes all clinical adverse reactions reported by ≥10% of the trial population regardless of attribution.
 Nine percent of subjects who received atovaquone and 24% of subjects who received TMP-SMX discontinued therapy due to an adverse reaction.
@@ -64,8 +64,8 @@ Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX C
 | Insomnia | 10 | 9 |
 
 Two percent of subjects treated with atovaquone and 7% of subjects treated with TMP-SMX had therapy prematurely discontinued due to elevations in ALT/AST.
-Pentamidine Comparative Trial: In the pentamidine comparative trial (n = 174), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
-Subjects received atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or a 3-to 4-mg/kg single pentamidine isethionate IV infusion daily for 21 days; the median durations of exposure were 21 and 14 days, respectively.
+Pentamidine Comparative Trial:In the pentamidine comparative trial (n = 174), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
+Subjects received atovaquone 750 mg (three 250 mg tablets) 3 times daily for 21 days or a 3- to 4-mg/kg single pentamidine isethionate IV infusion daily for 21 days; the median durations of exposure were 21 and 14 days, respectively.
 Table 4 summarizes the clinical adverse reactions reported by ≥10% of the primary therapy trial population regardless of attribution.
 Fewer subjects who received atovaquone reported adverse reactions than subjects who received pentamidine (63% vs. 72%).
 However, only 7% of subjects discontinued treatment with atovaquone due to adverse reactions, while 41% of subjects who received pentamidine discontinued treatment for this reason.
