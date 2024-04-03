@@ -123,6 +123,8 @@ The impact on other oral vaccines and on nasal vaccines in patients is unknown.
 The following adverse reactions have been identified during post-approval use of ENTYVIO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: Anaphylaxis [see Warnings and Precautions (5.1)]
+Immune system disorders: Anaphylaxis [see Warnings and Precautions (5.1)].
 
-Gastrointestinal system disorders: Acute Pancreatitis
+Gastrointestinal system disorders: Acute pancreatitis.
+
+Respiratory, thoracic, and mediastinal disorders: Interstitial lung disease, pneumonitis.
