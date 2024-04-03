@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -7,7 +7,7 @@ NEXLIZET reduces elevated LDL-C through inhibition of cholesterol synthesis in t
 
 Bempedoic acid
 
-Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that lowers low-density lipoprotein cholesterol (LDL-C) by inhibition of cholesterol synthesis in the liver.
+Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that lowers LDL-C by inhibition of cholesterol synthesis in the liver.
 ACL is an enzyme upstream of 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase in the cholesterol biosynthesis pathway.
 Bempedoic acid and its active metabolite, ESP15228, require coenzyme A (CoA) activation by very long-chain acyl-CoA synthetase 1 (ACSVL1) to ETC-1002-CoA and ESP15228-CoA, respectively.
 ACSVL1 is expressed primarily in the liver.
@@ -22,11 +22,10 @@ This causes a reduction of hepatic cholesterol stores and an increase in LDL rec
 
 ## 12.2 Pharmacodynamics
 
-Administration of bempedoic acid and ezetimibe in combination with maximally tolerated statins, with or without other lipid modifying agents, decreases LDL-C, non-high density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (apo B), and total cholesterol (TC) in patients with hyperlipidemia.
+Administration of bempedoic acid and ezetimibe in combination with other lipid modifying agents, decreases LDL-C, non-high density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (apo B), and total cholesterol (TC) in patients with hyperlipidemia.
 
 Cardiac Electrophysiology
 
-A QT trial has been conducted for bempedoic acid.
 At a dose of 240 mg (1.3 times the approved recommended dose), bempedoic acid does not prolong the QT interval to any clinically relevant extent.
 
 The effect of ezetimibe or NEXLIZET on QT interval has not been evaluated.
@@ -45,7 +44,7 @@ Bempedoic acid
 
 Following single oral administration of NEXLIZET (180 mg of bempedoic acid and 10 mg of ezetimibe), mean (± SD) Cmax and AUC of bempedoic acid were 12.6 (± 2.80) µg/mL and 202 (± 43.4) µg.hr/mL, respectively; the median time to maximum concentration (Tmax) was 3.0 hours.
 Following multiple-dose administration of bempedoic acid monotherapy, the steady-state maximum plasma concentration (Cmax) and AUC at 180 mg/day were 20.6 ± 6.1 µg/mL and 289.0 ± 96.4 µg∙h/mL, respectively.
-Bempedoic acid steady-state pharmacokinetics were generally linear over a range of > 60 mg to 220 mg (approximately 33% to 122% of the recommended dosage of 180 mg daily).
+Bempedoic acid steady-state pharmacokinetics were generally linear over a range of >60 mg to 220 mg (approximately 33% to 122% of the recommended dosage of 180 mg daily).
 There were no time-dependent changes in bempedoic acid pharmacokinetics following repeat administration at the recommended dosage, and bempedoic acid steady-state was achieved after 7 days.
 The mean accumulation ratio was approximately 2.3-fold.
 
@@ -76,7 +75,7 @@ Bempedoic acid does not partition into blood cells.
 
 Ezetimibe
 
-Ezetimibe and ezetimibe-glucuronide are highly bound (> 90%) to human plasma proteins.
+Ezetimibe and ezetimibe-glucuronide are highly bound (>90%) to human plasma proteins.
 
 Elimination
 
@@ -106,7 +105,7 @@ Ezetimibe is primarily metabolized in the small intestine and liver via glucuron
 Minimal oxidative metabolism has been observed in all species evaluated.
 
 In humans, ezetimibe is rapidly metabolized to ezetimibe-glucuronide.
-Ezetimibe and ezetimibe-glucuronide are the major drug-derived compounds detected in plasma, constituting approximately 10% to 20% and 80% to 90% of the total drug in plasma, respectively.
+Ezetimibe and ezetimibe- glucuronide are the major drug-derived compounds detected in plasma, constituting approximately 10% to 20% and 80% to 90% of the total drug in plasma, respectively.
 Plasma concentration-time profiles exhibit multiple peaks, suggesting enterohepatic recycling.
 
 Excretion
@@ -134,10 +133,10 @@ Pharmacokinetics of bempedoic acid was evaluated in a single-dose pharmacokineti
 The mean bempedoic acid AUC in subjects with mild renal impairment (n = 8) were 1.5-fold higher compared to those with normal renal function (n = 6).
 Relative to those with normal renal function, mean bempedoic acid AUCs were higher in patients with moderate (n = 5) or severe (n = 5) renal impairment by 2.3-fold and 2.4-fold, respectively.
 
-A population pharmacokinetic analysis was performed on pooled data from all clinical trials (n = 2261) to further evaluate the effects of renal function on the steady-state AUC of bempedoic acid.
+A population pharmacokinetic analysis was performed on pooled data from all clinical trials (n = 2,261) to further evaluate the effects of renal function on the steady-state AUC of bempedoic acid.
 Compared to patients with normal renal function, the mean bempedoic acid exposures were higher in patients with mild or moderate renal impairment by 1.4-fold (90% CI: 1.3, 1.4) and 1.9-fold (90% CI: 1.7, 2.0), respectively.
 These differences were not clinically significant.
-Clinical studies of bempedoic acid did not include patients with severe renal impairment (eGFR < 30 mL/min/1.73 m2) or patients with ESRD on dialysis [see Use in Specific Populations (8.6)].
+Clinical studies of bempedoic acid did not include patients with severe renal impairment (eGFR <30 mL/min/1.73 m2) or patients with ESRD on dialysis [see Use in Specific Populations (8.6)].
 
 Ezetimibe
 
@@ -156,12 +155,13 @@ Compared to patients with normal hepatic function, the bempedoic acid mean Cmax 
 Compared to patients with normal hepatic function, the ESP15228 mean Cmax and AUC were decreased by 13% and 23%, respectively, in patients with mild hepatic impairment and by 24% and 36%, respectively, in patients with moderate hepatic impairment.
 This is not expected to result in lower efficacy.
 
-Bempedoic acid was not studied in patients with severe hepatic impairment (Child Pugh C).
+Bempedoic acid was not studied in patients with severe hepatic impairment (Child-Pugh C).
 
 Ezetimibe
 
-After a single 10 mg dose of ezetimibe, the mean AUC for total ezetimibe increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh A), compared to healthy subjects.
-The mean AUC values for total ezetimibe and ezetimibe increased approximately 3- to 4-fold and 5- to 6-fold, respectively, in patients with moderate (Child-Pugh B) or severe hepatic impairment (Child-Pugh C). In a 14-day, multiple-dose study (10 mg daily) in patients with moderate hepatic impairment, the mean AUC for total ezetimibe and ezetimibe increased approximately 4-fold on Day 1 and Day 14 compared to healthy subjects.
+After a single 10 mg dose of ezetimibe, the mean AUC for total ezetimibe increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh score 5 to 6), compared to healthy subjects.
+The mean AUC values for total ezetimibe and ezetimibe increased approximately 3- to 4-fold and 5- to 6-fold, respectively, in patients with moderate (Child-Pugh score 7 to 9) or severe hepatic impairment (Child-Pugh score 10 to 15).
+In a 14-day, multiple-dose study (10 mg daily) in patients with moderate hepatic impairment, the mean AUC for total ezetimibe and ezetimibe increased approximately 4-fold on day 1 and day 14 compared to healthy subjects.
 
 Other Specific Populations
 
@@ -173,7 +173,7 @@ Ezetimibe
 
 Geriatrics: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were about 2-fold higher in older (≥ 65 years) healthy subjects compared to younger subjects [see Use in Specific Populations (8.5)].
 
-Gender: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were slightly higher (< 20%) in women than in men.
+Gender: In a multiple-dose study with ezetimibe given 10 mg once daily for 10 days, plasma concentrations for total ezetimibe were slightly higher (<20%) in females than in males.
 
 Race: The pharmacokinetics of ezetimibe is not affected by race.
 
@@ -199,7 +199,7 @@ These elevations are not clinically meaningful and do not impact dosing recommen
 
 Statins
 
-The pharmacokinetic interactions between bempedoic acid (at systemic exposure relevant to the indicated ASCVD population) and simvastatin 20 mg, atorvastatin 10 mg, pravastatin 40 mg, and rosuvastatin10 mg were evaluated in clinical trials.
+The pharmacokinetic interactions between bempedoic acid (at systemic exposure relevant to the indicated CVD population) and simvastatin 20 mg, atorvastatin 10 mg, pravastatin 40 mg, and rosuvastatin 10 mg were evaluated in clinical trials.
 
 Simvastatin: Administration of simvastatin 20 mg with 240 mg of bempedoic acid or 40 mg with 180 mg of bempedoic acid in healthy subjects at steady-state resulted in approximately 2-fold (91% for 20 mg and 96% for 40 mg) and 1.5-fold (54% for 20 mg and 52% for 40 mg) increases in simvastatin acid AUC and Cmax, respectively [see Drug Interactions (7)].
 

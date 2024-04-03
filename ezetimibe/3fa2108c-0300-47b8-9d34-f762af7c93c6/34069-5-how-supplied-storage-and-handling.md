@@ -2,7 +2,7 @@
 
 How Supplied
 
-NEXLIZET (bempedoic acid and ezetimibe) tablets are supplied as follows:
+NEXLIZET tablets are supplied as follows:
 
 | Tablet Strength | Description | Package Configuration | NDC No. |
 | --- | --- | --- | --- |

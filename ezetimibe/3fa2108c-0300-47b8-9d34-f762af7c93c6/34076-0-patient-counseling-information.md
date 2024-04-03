@@ -1,12 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients to read the FDA-approved patient labeling.
+Advise patients to read the FDA-approved patient labeling (Patient Information).
 
 Risk of Hyperuricemia
 
 Advise patients of the risk of elevated serum uric acid levels, including development of gout.
 Inform patients that serum uric acid levels may be monitored during treatment with NEXLIZET.
-Patients with signs or symptoms of hyperuricemia should contact their healthcare provider if symptoms occur [See Warnings and Precautions (5.1)].
+Patients with signs or symptoms of hyperuricemia should contact their healthcare provider if symptoms occur [see Warnings and Precautions (5.1)].
 
 Risk of Tendon Rupture
 

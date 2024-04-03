@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 NEXLIZET tablets, for oral use, contain bempedoic acid, an adenosine triphosphate-citrate lyase (ACL) inhibitor, and ezetimibe, a dietary cholesterol absorption inhibitor.
 
@@ -8,7 +8,7 @@ Bempedoic acid is a white to off-white crystalline powder that is highly soluble
 
 Structural formula:
 
-The chemical name for ezetimibe is 1-(4-fluorophenyl)-3(R)-[3-(4-fluorophenyl)-3(S)-hydroxypropyl]-4(S)-(4-hydroxyphenyl)-2-azetidinone.
+The chemical name for ezetimibe is 1-(4-fluorophenyl)-3(R)-[3-(4-fluorophenyl)-3(S)- hydroxypropyl]-4(S)-(4-hydroxyphenyl)-2-azetidinone.
 The molecular formula is C24H21F2NO3 and the molecular weight is 409.4 grams per mole.
 Ezetimibe is a white, crystalline powder that is freely to very soluble in ethanol, methanol, and acetone and practically insoluble in water.
 

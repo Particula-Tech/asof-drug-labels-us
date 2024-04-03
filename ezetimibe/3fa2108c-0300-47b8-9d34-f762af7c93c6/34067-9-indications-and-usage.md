@@ -1,3 +1,11 @@
 # 1 INDICATIONS AND USAGE
 
-NEXLIZET is indicated as an adjunct to diet and statin therapy for the treatment of primary hyperlipidemia in adults with heterozygous familial hypercholesterolemia (HeFH) or atherosclerotic cardiovascular disease, who require additional lowering of LDL-C.
+NEXLIZET, a combination of bempedoic acid and ezetimibe, is indicated:
+
+- As an adjunct to diet, alone or in combination with other low-density lipoprotein cholesterol (LDL-C) lowering therapies, to reduce LDL-C in adults with primary hyperlipidemia, including heterozygous familial hypercholesterolemia (HeFH).
+
+The bempedoic acid component of NEXLIZET is indicated:
+
+- To reduce the risk of myocardial infarction and coronary revascularization in adults who are unable to take recommended statin therapy (including those not taking a statin) with:
+  - established cardiovascular disease (CVD), or
+  - a high risk for a CVD event but without established CVD.
