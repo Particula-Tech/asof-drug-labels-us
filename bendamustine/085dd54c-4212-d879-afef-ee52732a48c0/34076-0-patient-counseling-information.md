@@ -63,6 +63,4 @@ Advise males of reproductive potential that bendamustine hydrochloride injection
 | MSN Laboratories Private Limited, India | Apotex Corp. |
 | ML No. 5/MN/TS/2014/F/G | Weston, Florida USA 33326 |
 
-Revised: February 2024
-
 Rev 2

@@ -35,7 +35,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |
 | Cardiac disorders |  |  |
 | Tachycardia | 13 (7) | 0 |
-| Gastrointestinal Disorders |  |  |
+| Gastrointestinal disorders |  |  |
 | Nausea | 132 (75) | 7 (4) |
 | Vomiting | 71 (40) | 5 (3) |
 | Diarrhea | 65 (37) | 6 (3) |
@@ -82,7 +82,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Headache | 36 (21) | 0 |
 | Dizziness | 25 (14) | 0 |
 | Dysgeusia | 13 (7) | 0 |
-| Psychiatric disorder |  |  |
+| Psychiatric disorders |  |  |
 | Insomnia | 23 (13) | 0 |
 | Anxiety | 14 (8) | 1 (<1) |
 | Depression | 10 (6) | 0 |

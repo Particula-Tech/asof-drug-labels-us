@@ -14,7 +14,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Data
 
-Animal data
+Animal Data
 
 Bendamustine hydrochloride was intraperitoneally administered once to mice from 210 mg/m2 (approximately 1.8 times the MRHD) during organogenesis and caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities) and decreased fetal body weights.
 This dose did not appear to be maternally toxic and lower doses were not evaluated.
@@ -28,7 +28,7 @@ A significant increase in external (effect on tail, head, and herniation of exte
 Risk Summary
 
 There are no data on the presence of bendamustine hydrochloride or its metabolites in either human or animal milk, the effects on the breastfed child, or the effects on milk production.
-Because of the potential for serious adverse reactions in the breastfed child, advise patients that breastfeeding is not recommended during treatment with bendamustine hydrochloride injection, and for 1 week after the last dose.
+Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with bendamustine hydrochloride injection, and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 

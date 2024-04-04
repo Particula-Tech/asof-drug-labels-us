@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.2 Dosing Instructions for NHL
+## 2.1 Dosing Instructions for NHL
 
 Recommended Dosage:
 
@@ -17,7 +17,7 @@ Dosage modifications for hematologic toxicity: for Grade 4 toxicity, reduce the 
 
 Dosage modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
 
-## 2.3 Preparation for Intravenous Administration
+## 2.2 Preparation for Intravenous Administration
 
 Bendamustine hydrochloride injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
@@ -38,7 +38,7 @@ Aseptically withdraw the volume needed for the required dose from the 25 mg/mL s
 
 - 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
 
-The resulting final concentration of bendamustine hydrochloride injection in the infusion bag should be within 0.05 to 0.7 mg/mL.
+The resulting final concentration of bendamustine hydrochloride injection in the infusion bag should be within 0.05 mg/mL to 0.7 mg/mL.
 After transferring, thoroughly mix the contents of the infusion bag.
 The admixture should be a clear and colorless to slightly yellow solution.
 Use either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.
@@ -46,35 +46,35 @@ No other diluents have been shown to be compatible.
 
 Table A: Volume (mL) of Bendamustine Hydrochloride Injection required for dilution into 500 mL of 0.9% Sodium Chloride Injection, USP, or 0.45% Sodium Chloride/2.5% Dextrose Injection, USP for a given dose (mg/m2) and Body Surface Area (m2)
 
-| Body Surface Area (m2) | Volume of Bendamustine Hydrochloride Injection to withdraw (mL) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 120 mg/m2 | 100 mg/m2 | 90 mg/m2 | 60 mg/m2 | 50 mg/m2 | 25 mg/m2 |
-| 1 | 4.8 | 4 | 3.6 | 2.4 | 2 | 1 |
-| 1.1 | 5.3 | 4.4 | 4 | 2.6 | 2.2 | 1.1 |
-| 1.2 | 5.8 | 4.8 | 4.3 | 2.9 | 2.4 | 1.2 |
-| 1.3 | 6.2 | 5.2 | 4.7 | 3.1 | 2.6 | 1.3 |
-| 1.4 | 6.7 | 5.6 | 5 | 3.4 | 2.8 | 1.4 |
-| 1.5 | 7.2 | 6 | 5.4 | 3.6 | 3 | 1.5 |
-| 1.6 | 7.7 | 6.4 | 5.8 | 3.8 | 3.2 | 1.6 |
-| 1.7 | 8.2 | 6.8 | 6.1 | 4.1 | 3.4 | 1.7 |
-| 1.8 | 8.6 | 7.2 | 6.5 | 4.3 | 3.6 | 1.8 |
-| 1.9 | 9.1 | 7.6 | 6.8 | 4.6 | 3.8 | 1.9 |
-| 2 | 9.6 | 8 | 7.2 | 4.8 | 4 | 2 |
-| 2.1 | 10.1 | 8.4 | 7.6 | 5 | 4.2 | 2.1 |
-| 2.2 | 10.6 | 8.8 | 7.9 | 5.3 | 4.4 | 2.2 |
-| 2.3 | 11 | 9.2 | 8.3 | 5.5 | 4.6 | 2.3 |
-| 2.4 | 11.5 | 9.6 | 8.6 | 5.8 | 4.8 | 2.4 |
-| 2.5 | 12 | 10 | 9 | 6 | 5 | 2.5 |
-| 2.6 | 12.5 | 10.4 | 9.4 | 6.2 | 5.2 | 2.6 |
-| 2.7 | 13 | 10.8 | 9.7 | 6.5 | 5.4 | 2.7 |
-| 2.8 | 13.4 | 11.2 | 10.1 | 6.7 | 5.6 | 2.8 |
-| 2.9 | 13.9 | 11.6 | 10.4 | 7 | 5.8 | 2.9 |
-| 3 | 14.4 | 12 | 10.8 | 7.2 | 6 | 3 |
+| Body Surface Area (m2) | Volume of Bendamustine Hydrochloride Injection to withdraw (mL) |  |  |
+| --- | --- | --- | --- |
+|  | 120 mg/m2 | 90 mg/m2 | 60 mg/m2 |
+| 1 | 4.8 | 3.6 | 2.4 |
+| 1.1 | 5.3 | 4 | 2.6 |
+| 1.2 | 5.8 | 4.3 | 2.9 |
+| 1.3 | 6.2 | 4.7 | 3.1 |
+| 1.4 | 6.7 | 5 | 3.4 |
+| 1.5 | 7.2 | 5.4 | 3.6 |
+| 1.6 | 7.7 | 5.8 | 3.8 |
+| 1.7 | 8.2 | 6.1 | 4.1 |
+| 1.8 | 8.6 | 6.5 | 4.3 |
+| 1.9 | 9.1 | 6.8 | 4.6 |
+| 2 | 9.6 | 7.2 | 4.8 |
+| 2.1 | 10.1 | 7.6 | 5 |
+| 2.2 | 10.6 | 7.9 | 5.3 |
+| 2.3 | 11 | 8.3 | 5.5 |
+| 2.4 | 11.5 | 8.6 | 5.8 |
+| 2.5 | 12 | 9 | 6 |
+| 2.6 | 12.5 | 9.4 | 6.2 |
+| 2.7 | 13 | 9.7 | 6.5 |
+| 2.8 | 13.4 | 10.1 | 6.7 |
+| 2.9 | 13.9 | 10.4 | 7 |
+| 3 | 14.4 | 10.8 | 7.2 |
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Any unused solution should be discarded according to institutional procedures for antineoplastics.
 
-## 2.4 Admixture Stability
+## 2.3 Admixture Stability
 
 Bendamustine hydrochloride injection contains no antimicrobial preservative.
 The admixture should be prepared as close as possible to the time of patient administration.
@@ -85,7 +85,7 @@ Administration of diluted bendamustine hydrochloride injection must be completed
 Bendamustine hydrochloride injection is supplied in a multiple-dose vial.
 Retain the partially used vial in original package to protect from light and store refrigerated (2°C to 8°C or 36°F to 46°F) if additional dose withdrawal from the same vial is intended.
 
-## 2.5 Stability of Partially Used Vials (Needle Punched Vials)
+## 2.4 Stability of Partially Used Vials (Needle Punched Vials)
 
 Bendamustine hydrochloride injection is supplied as a multiple-dose vial.
 Although it does not contain any antimicrobial preservative, bendamustine hydrochloride injection is bacteriostatic.

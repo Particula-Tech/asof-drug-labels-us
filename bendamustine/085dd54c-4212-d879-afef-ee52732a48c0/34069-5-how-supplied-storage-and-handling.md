@@ -12,7 +12,7 @@ If bendamustine hydrochloride injection contacts the mucous membranes, flush tho
 
 How Supplied
 
-Bendamustine hydrochloride injection is supplied in individual cartons of 5 mL clear multiple-dose vials containing 100 mg of bendamustine hydrochloride as a clear, and colorless to yellow solution.
+Bendamustine hydrochloride injection is supplied in individual cartons of clear multiple-dose vials containing 100 mg of bendamustine hydrochloride as a clear, and colorless to yellow solution.
 
 NDC 60505-6228-0: 100 mg/4 mL (25 mg/mL).
 
