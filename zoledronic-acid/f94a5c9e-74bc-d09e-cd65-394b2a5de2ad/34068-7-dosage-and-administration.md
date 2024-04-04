@@ -9,6 +9,22 @@ Zoledronic acid injection must be administered as an intravenous infusion over n
 - Intravenous infusion should be followed by a 10 mL normal saline flush of the intravenous line.
 - Administration of acetaminophen following zoledronic acid injection administration may reduce the incidence of acute-phase reaction symptoms.
 
+## 2.2 Treatment of Osteoporosis in Postmenopausal Women
+
+The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
+
+## 2.3 Prevention of Osteoporosis in Postmenopausal Women
+
+The recommended regimen is a 5 mg infusion given once every 2 years intravenously over no less than 15 minutes.
+
+## 2.4 Osteoporosis in Men
+
+The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
+
+## 2.5 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
+
+The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
+
 ## 2.6 Treatment of Paget’s Disease of Bone
 
 The recommended dose is a 5 mg infusion.
@@ -33,6 +49,8 @@ However, re-treatment with zoledronic acid injection may be considered in patien
 
 - Instruct patients being treated for Paget’s disease of bone on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels, and on the symptoms of hypocalcemia.
   All patients should take 1500 mg elemental calcium daily in divided doses (750 mg two times a day, or 500 mg three times a day) and 800 international units vitamin D daily, particularly in the 2 weeks following zoledronic acid injection administration [see Warnings and Precautions (5.2)].
+- Instruct patients being treated for osteoporosis to take supplemental calcium and vitamin D if their dietary intake is inadequate.
+  An average of at least 1200 mg calcium and 800-1000 international units vitamin D daily is recommended.
 
 ## 2.9 Method of Administration
 

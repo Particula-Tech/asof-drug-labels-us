@@ -74,6 +74,13 @@ Your risk of kidney problems is higher if you:
   What is Zoledronic acid injection?
   Zoledronic acid injection is a prescription medicine used to:
 - Treat certain men and women who have Paget’s disease of the bone.
+- Treat or prevent osteoporosis in women after menopause.
+  Zoledronic acid injection helps reduce the chance of having a hip or spinal fracture (break).
+- Increase bone mass in men with osteoporosis.
+- Treat or prevent osteoporosis in either men or women who will be taking corticosteroid medicines for at least one year.
+- Treat certain men and women who have Paget’s disease of the bone.
+  It is not known how long zoledronic acid injection works for the treatment and prevention of osteoporosis.
+  You should see your doctor regularly to determine if zoledronic acid injection is still right for you.
   Zoledronic acid injection is not for use in children.
   Who should not take Zoledronic acid injection?
   Do not take zoledronic acid injection if you:
@@ -110,6 +117,7 @@ Your risk of kidney problems is higher if you:
   Your infusion should last at least 15 minutes.
 - Before you receive zoledronic acid injection, drink at least 2 glasses of fluid (such as water) within a few hours as directed by your doctor.
 - You may eat before your treatment with zoledronic acid injection.
+- If you miss a dose of zoledronic acid injection, call your doctor or healthcare provider to schedule your next dose.
   What are the possible side effects of Zoledronic acid injection?
   Zoledronic acid injection may cause serious side effects.
 - See “What is the most important information I should know about Zoledronic acid injection?”
@@ -136,6 +144,19 @@ Your risk of kidney problems is higher if you:
   For more information, call 1-888-375-3784.
   What are the ingredients in Zoledronic Acid Injection?
   Active ingredient: zoledronic acid monohydrate Inactive ingredients: mannitol and sodium citrate.
-  This Medication Guide has been approved by the U.S. Food and Drug Administration.
-  Zometa is a registered trademark of Novartis Pharmaceuticals Corporation.
-  This Patient Information has been approved by the U.S. Food and Drug Administration.Rx Only Distributor: Dr. Reddy's Laboratories Inc., Princeton, NJ 08540 Made in India Revised: 01/2023
+
+Rx only
+
+Distributor:
+
+Dr. Reddy's Laboratories Inc.,
+
+Princeton, NJ 08540
+
+Made in India
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Zometa is a registered trademark of Novartis Pharmaceuticals Corporation.
+
+Revised: 10/2023

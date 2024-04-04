@@ -23,6 +23,9 @@ On the day of treatment the patient should eat and drink normally, which include
 After getting zoledronic acid injection it is strongly recommended patients with Paget’s disease take calcium in divided doses (for example, 2 to 4 times a day) for a total of 1500 mg calcium a day to prevent low blood calcium levels.
 This is especially important for the two weeks after getting zoledronic acid injection [see Warnings and Precautions (5.2)].
 
+Adequate calcium and vitamin D intake is important in patients with osteoporosis and the current recommended daily intake of calcium is 1200 mg and vitamin D is 800 international units – 1000 international units daily.
+All patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels.
+
 Patients should be aware of the most commonly associated side effects of therapy.
 Patients may experience one or more side effects that could include: fever, flu-like symptoms, myalgia, arthralgia, and headache.
 Most of these side effects occur within the first 3 days following the dose of zoledronic acid injection.

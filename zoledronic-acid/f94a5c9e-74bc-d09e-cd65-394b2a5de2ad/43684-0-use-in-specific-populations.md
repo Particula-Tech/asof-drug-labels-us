@@ -62,7 +62,7 @@ The safety and effectiveness of zoledronic acid was studied in a one-year active
 The enrolled population was subjects with severe osteogenesis imperfecta, aged 1 to 17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
-The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget’s disease of bone including osteonecrosis of the jaw (ONJ) and renal impairment.
+The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget’s disease of bone and treatment of osteoporosis including osteonecrosis of the jaw (ONJ) and renal impairment.
 However, adverse reactions seen more commonly in pediatric patients included pyrexia (61%), arthralgia (26%), hypocalcemia (22%) and headache (22%).
 These reactions, excluding arthralgia, occurred most frequently within three days after the first infusion and became less common with repeat dosing.
 No cases of ONJ or renal impairment were observed in this study.
@@ -74,9 +74,12 @@ The plasma concentration time profile of zoledronic acid in pediatric patients r
 
 ## 8.5 Geriatric Use
 
-Of the patients receiving zoledronic acid injection in the Paget’s disease studies, 132 patients, were 65 years of age or over, while 68 patients, were at least 75 years of age.
+The combined osteoporosis trials included 4863 zoledronic acid injection-treated patients who were at least 65 years of age, while 2101 patients were at least 75 years old.
+No overall differences in efficacy or safety were observed between patients under 75 years of age with those at least 75 years of age, except that the acute phase reactions occurred less frequently in the older patients.
 
-Because decreased renal function occurs more commonly in the elderly, special care should be taken to monitor renal function.
+Of the patients receiving zoledronic acid injection in the osteoporosis study in men, glucocorticoid-induced osteoporosis, and Paget’s disease studies, 83, 116 and 132 patients, respectively were 65 years of age or over, while 68 patients, respectively were at least 75 years of age.
+
+However, because decreased renal function occurs more commonly in the elderly, special care should be taken to monitor renal function.
 
 ## 8.6 Renal Impairment
 

@@ -10,11 +10,18 @@ Intravenously administered zoledronic acid rapidly partitions to bone and locali
 The main molecular target of zoledronic acid in the osteoclast is the enzyme farnesyl pyrophosphate synthase.
 The relatively long duration of action of zoledronic acid is attributable to its high binding affinity to bone mineral.
 
+## 12.2 Pharmacodynamics
+
+In the osteoporosis treatment trial, the effect of zoledronic acid injection treatment on markers of bone resorption (serum beta-Ctelopeptides [b-CTx]) and bone formation (bone specific alkaline phosphatase [BSAP], serum N-terminal propeptide of type I collagen [P1NP]) was evaluated in patients (subsets ranging from 517 to 1246 patients) at periodic intervals.
+
+Treatment with a 5 mg annual dose of zoledronic acid injection reduces bone turnover markers to the pre-menopausal range with an approximate 55% reduction in b-CTx, a 29% reduction in BSAP and a 52% reduction in P1NP over 36 months.
+There was no progressive reduction of bone turnover markers with repeated annual dosing.
+
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic data in patients with Paget's disease of bone are not available.
+Pharmacokinetic data in patients with osteoporosis and Paget's disease of bone are not available.
 
-Distribution: Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
+Distribution:Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
 The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end-of-infusion to less than 1% of Cmax 24 hours post infusion with population half-lives of t1/2α 0.24 hour and t1/2β 1.87 hours for the early disposition phases of the drug.
 The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 post infusion, and a terminal elimination half-life t1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
@@ -23,12 +30,12 @@ The accumulation of zoledronic acid measured over three cycles was low, with mea
 In vitro and ex vivo studies showed low affinity of zoledronic acid for the cellular components of human blood.
 In vitro mean zoledronic acid protein binding in human plasma ranged from 28% at 200 ng/mL to 53% at 50 ng/mL.
 
-Metabolism: Zoledronic acid does not inhibit human P450 enzymes in vitro.
+Metabolism:Zoledronic acid does not inhibit human P450 enzymes in vitro.
 Zoledronic acid does not undergo biotransformation in vivo.
 In animal studies, less than 3% of the administered intravenous dose was found in the feces, with the balance either recovered in the urine or taken up by bone, indicating that the drug is eliminated intact via the kidney.
 Following an intravenous dose of 20 nCi 14C-zoledronic acid in a patient with cancer and bone metastases, only a single radioactive species with chromatographic properties identical to those of parent drug was recovered in urine, which suggests that zoledronic acid is not metabolized.
 
-Excretion: In 64 patients with cancer and bone metastases on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post Day 2.
+Excretion:In 64 patients with cancer and bone metastases on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post Day 2.
 The cumulative percent of drug excreted in the urine over 0 to 24 hours was independent of dose.
 The balance of drug not recovered in urine over 0 to 24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
 The 0 to 24 hour renal clearance of zoledronic acid was 3.7 ± 2 L/h.
@@ -41,13 +48,13 @@ Specific Populations
 
 Pediatrics: Zoledronic acid injection is not indicated for use in children [see Pediatric Use (8.4)].
 
-Geriatrics: The pharmacokinetics of zoledronic acid was not affected by age in patients with cancer and bone metastases whose age ranged from 38 years to 84 years.
+Geriatrics:The pharmacokinetics of zoledronic acid was not affected by age in patients with cancer and bone metastases whose age ranged from 38 years to 84 years.
 
 Race: The pharmacokinetics of zoledronic acid was not affected by race in patients with cancer and bone metastases.
 
-Hepatic Impairment: No clinical studies were conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of zoledronic acid.
+Hepatic Impairment:No clinical studies were conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of zoledronic acid.
 
-Renal Impairment: The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately-impaired renal function.
+Renal Impairment:The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately-impaired renal function.
 Compared to patients with creatinine clearance greater than 80 mL/min (N=37), patients with creatinine clearance = 50 to 80 mL/min (N=15) showed an average increase in plasma AUC of 15%, whereas patients with creatinine clearance = 30 to 50 mL/min (N=11) showed an average increase in plasma AUC of 43%.
 No dosage adjustment is required in patients with a creatinine clearance of greater than or equal to 35 mL/min.
 Zoledronic acid injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment due to an increased risk of renal failure [see Contraindications (4), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
