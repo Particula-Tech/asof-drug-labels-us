@@ -2,9 +2,9 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2,9.3)]
+- Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
 - Hypersensitivity to amphetamine, or other components of EVEKEO ODT [see Contraindications (4)]
-- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
+- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4)and Drug Interactions (7.1)]
 - Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
 - Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
@@ -18,7 +18,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Study 1 was conducted with EVEKEO tablets (i.e., not the ODT formulation) in children ages 6 to 12 years who met Diagnostic and Statistical Manual of Mental Disorders, 4th edition, Text Revision (DSM-IV-TR) criteria for ADHD.
+Study 1 was conducted with EVEKEO tablets (i.e., not the ODT formulation) in children ages 6 to 12 years who met Diagnostic and Statistical Manual of Mental Disorders, 4 thedition, Text Revision (DSM-IV-TR) criteria for ADHD.
 This study began with an 8-week, open-label, dose-optimization phase followed by a 2-week double-blind, placebo-controlled, randomized, crossover phase.
 Adverse reactions reported in > 5% of patients (N=105; doses of 10 to 40 mg/day) during the open-label phase included: decreased appetite (28%), infections (22%), abdominal pain (15%), irritability (14%), headache (13%), nausea (6%), vomiting (6%), affect lability (includes mood swings; 9%), tachycardia (9%), insomnia (10%), fatigue (10%),and dry mouth (6%).
 During the open-label phase, six patients discontinued due to adverse reactions: irritability (n=3), affect lability (n=1), initial insomnia (n=1), and rash (n=1).
@@ -38,7 +38,7 @@ Drug exposures and placebo exposures from cross-over were combined for analysis.
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 3% | 0% |
 | Psychiatric Disorders |  |  |
-| Affect LabilityIncludes mood swings. | 3% | 0% |
+| Affect Lability Includes mood swings. | 3% | 0% |
 | Insomnia | 4% | 0% |
 | Injury, poisoning and procedural complications |  |  |
 | Injury | 3% | 2% |
@@ -48,20 +48,20 @@ Drug exposures and placebo exposures from cross-over were combined for analysis.
 The following adverse reactions have been associated during post approval use of amphetamines.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular: Palpitations, tachycardia, elevation of blood pressure, sudden death, myocardial infarction.
+Cardiovascular:Palpitations, tachycardia, elevation of blood pressure, sudden death, myocardial infarction.
 There have been isolated reports of cardiomyopathy associated with chronic amphetamine use.
 
-Central Nervous System: Psychotic episodes at recommended doses, overstimulation, irritability, restlessness, dizziness, insomnia, euphoria, mood swings, aggression, anger, logorrhea, dermatillomania, dyskinesia, dysphoria, tremor, fatigue, headache, exacerbation of motor and verbal tics and Tourette's syndrome
+Central Nervous System:Psychotic episodes at recommended doses, overstimulation, irritability, restlessness, dizziness, insomnia, euphoria, mood swings, aggression, anger, logorrhea, dermatillomania, dyskinesia, dysphoria, tremor, fatigue, headache, exacerbation of motor and verbal tics and Tourette's syndrome
 
-Gastrointestinal: Dry mouth, unpleasant taste, constipation, nausea, intestinal ischemia, other gastrointestinal disturbances, anorexia, and weight loss.
+Gastrointestinal:Dry mouth, unpleasant taste, constipation, nausea, intestinal ischemia, other gastrointestinal disturbances, anorexia, and weight loss.
 
-Allergic: Urticaria, rash, hypersensitivity reactions, including angioedema and anaphylaxis.
+Allergic:Urticaria, rash, hypersensitivity reactions, including angioedema and anaphylaxis.
 Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necrolysis have been reported.
 
-Endocrine: Impotence, changes in libido, and frequent or prolonged erections.
+Endocrine:Impotence, changes in libido, and frequent or prolonged erections.
 
 Skin: Alopecia.
 
 Vascular Disorders: Raynaud's phenomenon.
 
-Musculoskeletal: Rhabdomyolysis.
+Musculoskeletal:Rhabdomyolysis.

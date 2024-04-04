@@ -33,7 +33,7 @@ Monitor infants born to mothers taking amphetamines for symptoms of withdrawal s
 
 Risk Summary
 
-Based on limited case reports in published literature, amphetamine (d- or dl) is present in human milk at relative infant doses of 2% to 13.8% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.9 and 7.5.
+Based on limited case reports in published literature, amphetamine (d-or dl) is present in human milk at relative infant doses of 2% to 13.8% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.9 and 7.5.
 There are no reports of adverse effects on the breastfed infant.
 Long-term neurodevelopmental effects on infants from amphetamine exposure are unknown.
 It is possible that large dosages of amphetamine might interfere with milk production, especially in women whose lactation is not well established.

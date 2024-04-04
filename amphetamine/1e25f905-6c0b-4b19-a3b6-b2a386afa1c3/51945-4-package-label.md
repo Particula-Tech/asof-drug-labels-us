@@ -16,7 +16,7 @@ Dispenser: Please provide the accompanying Medication Guide to each patient.
 
 Contains 30 Tablets
 
-arbor® PHARMACEUTICALS, LLC
+arbor ® PHARMACEUTICALS, LLC
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Case Label
 
@@ -36,7 +36,7 @@ Dispenser: Please provide the accompanying Medication Guide to each patient.
 
 Contains 30 Tablets
 
-arbor® PHARMACEUTICALS, LLC
+arbor ® PHARMACEUTICALS, LLC
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Tablet Blister Pack Case Label
 
@@ -56,7 +56,7 @@ Dispenser: Please provide the accompanying Medication Guide to each patient.
 
 Contains 30 Tablets
 
-arbor® PHARMACEUTICALS, LLC
+arbor ® PHARMACEUTICALS, LLC
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Tablet Blister Pack Case Label
 
@@ -76,4 +76,4 @@ Dispenser: Please provide the accompanying Medication Guide to each patient.
 
 Contains 15 Tablets
 
-arbor® PHARMACEUTICALS, LLC
+arbor ® PHARMACEUTICALS, LLC

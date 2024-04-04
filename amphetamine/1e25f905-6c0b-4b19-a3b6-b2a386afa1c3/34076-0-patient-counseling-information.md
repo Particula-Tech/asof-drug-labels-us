@@ -44,7 +44,7 @@ Further clinical evaluation (e.g. rheumatology referral) may be appropriate for 
 
 Serotonin Syndrome
 
-Caution patients and their caregivers about the risk of serotonin syndrome with concomitant use of EVEKEO ODT and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.8) and Drug Interactions (7.1)].
+Caution patients and their caregivers about the risk of serotonin syndrome with concomitant use of EVEKEO ODT and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.8)and Drug Interactions (7.1)].
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
 Motor and Verbal Tics, and Worsening of Tourette's Syndrome

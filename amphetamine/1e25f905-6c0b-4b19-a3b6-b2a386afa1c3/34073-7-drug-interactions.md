@@ -22,7 +22,7 @@ Table 2: Drugs Having Clinically Important Interactions with Amphetamines
 | Intervention | Monitor frequently and adjust EVEKEO ODT dose or use alternative therapy based on clinical response. |
 | CYP2D6 Inhibitors |  |
 | Clinical Impact | The concomitant use of EVEKEO ODT and CYP2D6 inhibitors may increase the exposure of EVEKEO ODT compared to the use of the drug alone and increase the risk of serotonin syndrome. |
-| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during EVEKEO ODT initiation and after a dosage increase. If serotonin syndrome occurs, discontinue EVEKEO ODT and the CYP2D6 inhibitor. Alternatively, consider using a drug that does not inhibit CYP2D6 [see Warnings and Precautions (5.8) and Overdosage (10)]. |
+| Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during EVEKEO ODT initiation and after a dosage increase. If serotonin syndrome occurs, discontinue EVEKEO ODT and the CYP2D6 inhibitor. Alternatively, consider using a drug that does not inhibit CYP2D6 [see Warnings and Precautions (5.8)and Overdosage (10)]. |
 
 ## 7.2 Drug-Laboratory Test Interactions
 

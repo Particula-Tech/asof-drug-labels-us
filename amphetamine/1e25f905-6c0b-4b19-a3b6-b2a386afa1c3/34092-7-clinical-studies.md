@@ -16,7 +16,7 @@ SKAMP-Combined scores were statistically significantly better for patients in th
 
 Table 3: Summary of Primary Efficacy Results in Pediatric Patients (6 to 12 years) with ADHD (Study 1)
 
-|  |  | Mean Pre-Dose Score (SD) | LS Mean (SE) at 2 Hours Post-dose | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean. (95% CI) |
+|  |  | Mean Pre-Dose Score (SD) | LS Mean (SE) at 2 Hours Post-dose | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean.(95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: SKAMP-Combined Score at 2 Hours Post-dose |  |  |
 | Study 1 | Evekeo | 18.1 (11.6) | 10.3 (1.09) | -7.9 (-10.1, -5.6) |
