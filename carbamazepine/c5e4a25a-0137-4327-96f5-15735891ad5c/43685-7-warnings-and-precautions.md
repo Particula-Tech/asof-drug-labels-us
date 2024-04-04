@@ -181,8 +181,6 @@ As an example there has been a report of vanishing bile duct syndrome associated
 
 Since a given dose of carbamazepine suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 
-Carbamazepine suspension contains sorbitol and, therefore, should not be administered to patients with rare hereditary problems of fructose intolerance.
-
 ## Information for Patients
 
 Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking carbamazepine.
@@ -237,10 +235,6 @@ Thyroid function tests have been reported to show decreased values with carbamaz
 Interference with some pregnancy tests has been reported.
 
 ## Drug Interactions
-
-There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting carbamazepine suspension immediately followed by Thorazine®* solution.
-Subsequent testing has shown that mixing carbamazepine suspension and chlorpromazine solution (both generic and brand name) as well as carbamazepine suspension and liquid Mellaril®*, resulted in the occurrence of this precipitate.
-Because the extent to which this occurs with other liquid medications is not known, carbamazepine suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION).
 
 Clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following:
 
