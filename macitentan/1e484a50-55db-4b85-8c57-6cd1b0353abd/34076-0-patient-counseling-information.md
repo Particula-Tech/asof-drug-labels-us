@@ -7,10 +7,10 @@ Embryo-Fetal Toxicity
 Counsel female patients of reproductive potential about the need to use reliable methods of contraception during treatment with OPSUMIT and for one month after treatment discontinuation.
 Females of reproductive potential must have monthly pregnancy tests and must use reliable methods of contraception while taking OPSUMIT and for one month after discontinuing OPSUMIT [see Use in Specific Populations (8.1)].
 
-Macitentan REMS Program
+Macitentan-Containing Products REMS
 
-For female patients, OPSUMIT is available only through a restricted program called the Macitentan REMS Program [see Warnings and Precautions (5.2)].
-Male patients are not enrolled in the Macitentan REMS.
+For female patients, OPSUMIT is available only through a restricted program called the Macitentan-Containing Products REMS [see Warnings and Precautions (5.2)].
+Male patients are not enrolled in the Macitentan-Containing Products REMS.
 
 Patients may choose one highly effective form of contraception (intrauterine devices (IUD), contraceptive implants or tubal sterilization) or a combination of methods (hormone method with a barrier method or two barrier methods).
 

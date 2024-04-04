@@ -15,7 +15,7 @@ The clinical impact of dual endothelin blockage is unknown.
 Pulmonary Hemodynamics
 
 The clinical efficacy study in patients with pulmonary arterial hypertension assessed hemodynamic parameters in a subset of patients after 6 months of treatment.
-Patients treated with OPSUMIT 10 mg (N=57) achieved a median reduction of 37% (95% CI 22–49) in pulmonary vascular resistance and an increase of 0.6 L/min/m 2 (95% CI 0.3–0.9) in cardiac index compared to placebo (N=67).
+Patients treated with OPSUMIT 10 mg (N=57) achieved a median reduction of 37% (95% CI 22–49) in pulmonary vascular resistance and an increase of 0.6 L/min/m 2(95% CI 0.3–0.9) in cardiac index compared to placebo (N=67).
 
 Cardiac Electrophysiology
 

@@ -3,24 +3,24 @@
 ## 5.1 Embryo-fetal Toxicity
 
 OPSUMIT may cause fetal harm when administered during pregnancy and is contraindicated for use in females who are pregnant.
-In females of reproductive potential, exclude pregnancy prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see Dosage and Administration (2.2) and Use in Specific Populations (8.1, 8.3)].
+In females of reproductive potential, exclude pregnancy prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see Dosage and Administration (2.2)and Use in Specific Populations (8.1, 8.3)].
 
-OPSUMIT is available for females through the Macitentan REMS Program, a restricted distribution program [see Warnings and Precautions (5.2)].
+OPSUMIT is available for females through the Macitentan-Containing Products REMS, a restricted distribution program [see Warnings and Precautions (5.2)].
 
-## 5.2 Macitentan REMS Program
+## 5.2 Macitentan-Containing Products REMS
 
-For all females, OPSUMIT is available only through a restricted program called the Macitentan REMS Program, because of the risk of embryo-fetal toxicity [see Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
+For all females, OPSUMIT is available only through a restricted program called the Macitentan-Containing Products REMS, because of the risk of embryo-fetal toxicity [see Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
 
-Notable requirements of the Macitentan REMS Program include the following:
+Notable requirements of the Macitentan-Containing Products REMS include the following:
 
-- Prescribers must be certified with the Macitentan REMS Program by enrolling and completing training.
-- All females, regardless of reproductive potential, must enroll in the Macitentan REMS Program prior to initiating OPSUMIT.
+- Prescribers must be certified with the Macitentan-Containing Products REMS by enrolling and completing training.
+- All females, regardless of reproductive potential, must enroll in the Macitentan-Containing Products REMS prior to initiating OPSUMIT.
   Male patients are not enrolled in the REMS.
 - Females of reproductive potential must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)].
-- Pharmacies must be certified with the program and must only dispense to patients who are authorized to receive OPSUMIT.
+- Pharmacies must be certified with the Macitentan-Containing Products REMS and must only dispense to patients who are authorized to receive OPSUMIT.
 
 Further information is available at www.MacitentanREMS.com or 1-888-572-2934.
-Information on OPSUMIT certified pharmacies or wholesale distributors is available at 1-888-572-2934.
+Information on Macitentan-Containing Products REMS certified pharmacies or wholesale distributors is available at 1-888-572-2934.
 
 ## 5.3 Hepatotoxicity
 

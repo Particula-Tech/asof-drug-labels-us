@@ -34,7 +34,7 @@ Table 2: Adverse Reactions
 The following adverse reactions have been identified during post-approval use of OPSUMIT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)
+Immune system disorders:hypersensitivity reactions (angioedema, pruritus and rash)
 
 Vascular disorders: flushing
 
@@ -43,7 +43,7 @@ Respiratory, thoracic and mediastinal disorders: nasal congestion
 Gastrointestinal disorders: Elevations of liver aminotransferases (ALT, AST) and liver injury have been reported with OPSUMIT use; in most cases alternative causes could be identified (heart failure, hepatic congestion, autoimmune hepatitis).
 Endothelin receptor antagonists have been associated with elevations of aminotransferases, hepatotoxicity, and cases of liver failure [see Warnings and Precautions (5.3)].
 
-General disorders and administration site conditions: edema/fluid retention.
+General disorders and administration site conditions:edema/fluid retention.
 Cases of edema and fluid retention occurred within weeks of starting OPSUMIT, some requiring intervention with a diuretic, fluid management or hospitalization for decompensated heart failure.
 [see Warnings and Precautions (5.4)].
 
