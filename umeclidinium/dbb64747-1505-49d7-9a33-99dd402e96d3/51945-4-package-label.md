@@ -18,7 +18,8 @@ Each blister contains 62.5 mcg of umeclidinium, magnesium stearate, and lactose 
 
 Made in Singapore
 
-©2022 GSK group of companies or its licensor
+©2024 GSK group of companies or its licensor
 
-1. 62000000074512 Rev.
-   1/22
+1. 62000000092366 Rev.
+   1/24
+2. 
