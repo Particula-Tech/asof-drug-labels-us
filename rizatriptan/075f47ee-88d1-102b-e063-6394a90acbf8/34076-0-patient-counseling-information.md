@@ -19,4 +19,4 @@ Marketed by:
 
 GSMS, Inc.
 
-Camarillo, CA USA 93012
+Camarillo, CA 93012 USA
