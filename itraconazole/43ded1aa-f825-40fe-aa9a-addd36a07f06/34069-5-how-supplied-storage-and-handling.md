@@ -13,4 +13,4 @@ Keep out of the reach of children.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2024-08
+04-2024-08
