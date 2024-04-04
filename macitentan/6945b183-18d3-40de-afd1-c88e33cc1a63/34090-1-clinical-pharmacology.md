@@ -15,11 +15,11 @@ The clinical impact of dual endothelin blockage is unknown.
 Tadalafil
 
 Tadalafil is an inhibitor of phosphodiesterase type 5 (PDE5), the enzyme responsible for the degradation of cyclic guanosine monophosphate (cGMP).
-Pulmonary arterial hypertension is associated with impaired release of nitric oxide by the vascular endothelium and consequent reduction of cGMP concentrations in the pulmonary vascular smooth muscle.
+PAH is associated with impaired release of nitric oxide by the vascular endothelium and consequent reduction of cGMP concentrations in the pulmonary vascular smooth muscle.
 PDE5 is the predominant phosphodiesterase in the pulmonary vasculature.
 Inhibition of PDE5 by tadalafil increases the concentrations of cGMP resulting in relaxation of pulmonary vascular smooth muscle cells and vasodilation of the pulmonary vascular bed.
 
-Studies in vitrohave shown that tadalafil is a selective inhibitor of PDE5.
+Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
 PDE5 is an enzyme found in corpus cavernosum, vascular smooth muscle, visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
 The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
 Tadalafil is > 10,000-fold more potent for PDE5 than for PDE1, PDE2, PDE4 and PDE7, enzymes which are found in the heart, brain, blood vessels, liver, and other organs.
@@ -35,8 +35,8 @@ As OPSYNVI contains macitentan and tadalafil, the pharmacodynamic effects for ea
 
 Pulmonary Hemodynamics of Macitentan
 
-The SERAPHIN clinical efficacy study in patients with pulmonary arterial hypertension assessed hemodynamic parameters in a subset of patients after 6 months of treatment.
-Patients treated with macitentan 10 mg (N=57) achieved a median reduction of 37% (95% CI 22–49) in pulmonary vascular resistance and an increase of 0.6 L/min/m 2(95% CI 0.3–0.9) in cardiac index compared to placebo (N=67).
+The SERAPHIN clinical efficacy study in patients with PAH assessed hemodynamic parameters in a subset of patients after 6 months of treatment.
+Patients treated with macitentan 10 mg (N=57) achieved a median reduction of 37% (95% CI 22–49) in pulmonary vascular resistance and an increase of 0.6 L/min/m 2 (95% CI 0.3–0.9) in cardiac index compared to placebo (N=67).
 
 Effects on Cardiac Electrophysiology
 
@@ -130,7 +130,7 @@ Tadalafil is predominantly metabolized by CYP3A to a catechol metabolite.
 The catechol metabolite undergoes extensive methylation and glucuronidation to form the methylcatechol and methylcatechol glucuronide conjugate, respectively.
 The major circulating metabolite is the methylcatechol glucuronide.
 Methylcatechol concentrations are less than 10% of glucuronide concentrations.
-In vitrodata suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.
+In vitro data suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.
 
 Elimination
 
@@ -164,7 +164,7 @@ This increase is not considered clinically relevant.
 Tadalafil
 
 In clinical pharmacology studies using single-dose tadalafil (5 to 10 mg), tadalafil exposure (AUC) doubled in subjects with mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 30 to 50 mL/min) renal impairment.
-In subjects with end-stage renal disease on hemodialysis, C maxdoubled and AUC was 2.7 to 4.1 times as high following single-dose administration of 10 or 20 mg tadalafil, respectively.
+In subjects with end-stage renal disease on hemodialysis, C max doubled and AUC was 2.7 to 4.1 times as high following single-dose administration of 10 or 20 mg tadalafil, respectively.
 Exposure to total methylcatechol (unconjugated plus glucuronide) was 2 to 4-times as high in subjects with renal impairment, compared to those with normal renal function.
 Hemodialysis (performed between 24-and 30-hours post-dose) contributed negligibly to tadalafil or metabolite elimination.
 
@@ -189,13 +189,13 @@ There are no clinically relevant effects of age on the pharmacokinetics of macit
 
 Tadalafil
 
-In healthy male elderly subjects (65 years or over) after a 10 mg dose, a lower oral clearance of tadalafil, resulting in 25% higher exposure (AUC) with no effect on C maxwas observed relative to that in healthy subjects 19 to 45 years of age.
+In healthy male elderly subjects (65 years or over) after a 10 mg dose, a lower oral clearance of tadalafil, resulting in 25% higher exposure (AUC) with no effect on C max was observed relative to that in healthy subjects 19 to 45 years of age.
 
 Patients with Diabetes Mellitus
 
 Tadalafil
 
-In male patients with diabetes mellitus after a 10 mg tadalafil dose, exposure (AUC) was reduced approximately 19% and C maxwas 5% lower than that observed in healthy subjects.
+In male patients with diabetes mellitus after a 10 mg tadalafil dose, exposure (AUC) was reduced approximately 19% and C max was 5% lower than that observed in healthy subjects.
 No dose adjustment is warranted.
 
 Race and gender
@@ -237,7 +237,7 @@ A moderate dual inhibitor of CYP3A4 and CYP2C9 such as fluconazole (400 mg once 
 
 Tadalafil
 
-Rifampin (600 mg daily), a CYP3A inducer, reduced tadalafil 10 mg single-dose exposure (AUC) by 88% and C maxby 46%, relative to the values for tadalafil 10 mg alone [see Drug Interactions (7.2)].
+Rifampin (600 mg daily), a CYP3A inducer, reduced tadalafil 10 mg single-dose exposure (AUC) by 88% and C max by 46%, relative to the values for tadalafil 10 mg alone [see Drug Interactions (7.2)].
 
 Bosentan, a substrate of CYP2C9 and CYP3A and a moderate inducer of CYP3A, CYP2C9 and possibly CYP2C19, reduced tadalafil systemic exposure following multiple-dose coadministration.
 Although specific interactions have not been studied, other CYP3A inducers, such as carbamazepine, phenytoin, and phenobarbital, would likely decrease tadalafil exposure [see Drug Interactions (7.2)].
@@ -269,4 +269,4 @@ Exposure changes of drugs following co-administration with tadalafil are shown i
 
 Figure 1: Impact of Tadalafil on the Pharmacokinetics of Other Drugs
 
-aA small augmentation (increase of 3 beats per minute) in heart rate was observed with theophylline. bTadalafil (40 mg qd) had no clinically significant effect on exposure (AUC and C) of bosentan metabolites. c95% CI
+a A small augmentation (increase of 3 beats per minute) in heart rate was observed with theophylline. b Tadalafil (40 mg qd) had no clinically significant effect on exposure (AUC and C) of bosentan metabolites. c 95% CI

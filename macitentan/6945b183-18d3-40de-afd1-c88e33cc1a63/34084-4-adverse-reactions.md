@@ -7,7 +7,7 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Hepatotoxicity [see Warnings and Precautions (5.3)]
 - Hypotension [see Warnings and Precautions (5.4)]
 - Decrease in Hemoglobin [see Warnings and Precautions (5.5)]
-- Visual Loss [see Warnings and Precautions (5.7)and Patient Counseling Information (17)]
+- Visual Loss [see Warnings and Precautions (5.7) and Patient Counseling Information (17)]
 - Hearing loss [see Warnings and Precautions (5.8)]
 - Fluid Retention [see Warnings and Precautions (5.9)]
 - Prolonged Erection [see Warnings and Precautions (5.12)]

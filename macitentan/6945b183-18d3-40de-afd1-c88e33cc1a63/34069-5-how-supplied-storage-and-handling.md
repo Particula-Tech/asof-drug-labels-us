@@ -1,12 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-OPSYNVI ®(macitentan and tadalafil) tablets, 10 mg/20 mg, are supplied as pink, oblong film-coated tablets debossed with "1020" on one side and "MT" on the other side.
+OPSYNVI ® (macitentan and tadalafil) tablets, 10 mg/20 mg, are supplied as pink, oblong film-coated tablets debossed with "1020" on one side and "MT" on the other side.
 
 OPSYNVI 10 mg/20 mg is supplied as follows:
 
 7-count bottles with child-resistant closure NDC 66215-812-07 7-count blister NDC 66215-812-08 30-count bottle with child-resistant closure NDC 66215-812-30
 
-OPSYNVI ®(macitentan and tadalafil) tablets, 10 mg/40 mg, are supplied as white to almost-white, oblong film-coated tablets debossed with "1040" on one side and "MT" on the other side.
+OPSYNVI ® (macitentan and tadalafil) tablets, 10 mg/40 mg, are supplied as white to almost-white, oblong film-coated tablets debossed with "1040" on one side and "MT" on the other side.
 
 OPSYNVI 10 mg/40 mg is supplied as follows:
 

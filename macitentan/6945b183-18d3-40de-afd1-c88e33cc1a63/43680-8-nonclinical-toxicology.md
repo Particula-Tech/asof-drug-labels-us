@@ -17,12 +17,12 @@ Mutagenesis
 
 Macitentan
 
-Macitentan was not genotoxic in a standard battery of in vitroand in vivoassays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivomicronucleus test in rats.
+Macitentan was not genotoxic in a standard battery of in vitro and in vivo assays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivo micronucleus test in rats.
 
 Tadalafil
 
-Tadalafil was not mutagenic in the in vitrobacterial Ames assays or the forward mutation test in mouse lymphoma cells.
-Tadalafil was not clastogenic in the in vitrochromosomal aberration test in human lymphocytes or the in vivorat micronucleus assays.
+Tadalafil was not mutagenic in the in vitro bacterial Ames assays or the forward mutation test in mouse lymphoma cells.
+Tadalafil was not clastogenic in the in vitro chromosomal aberration test in human lymphocytes or the in vivo rat micronucleus assays.
 
 Impairment of Fertility
 

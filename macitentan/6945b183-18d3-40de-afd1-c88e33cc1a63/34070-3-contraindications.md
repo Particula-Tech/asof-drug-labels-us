@@ -5,7 +5,7 @@
 OPSYNVI may cause fetal harm when administered to a pregnant woman.
 OPSYNVI is contraindicated in females who are pregnant.
 Macitentan was consistently shown to have teratogenic effects when administered to animals.
-If OPSYNVI is used during pregnancy, advise the patient of the potential risk to a fetus [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
+If OPSYNVI is used during pregnancy, advise the patient of the potential risk to a fetus [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
 ## 4.2 Hypersensitivity
 

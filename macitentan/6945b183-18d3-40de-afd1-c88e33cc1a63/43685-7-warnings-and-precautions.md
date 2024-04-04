@@ -3,7 +3,7 @@
 ## 5.1 Embryo-fetal Toxicity
 
 OPSYNVI may cause fetal harm when administered during pregnancy and is contraindicated for use in females who are pregnant.
-In females of reproductive potential, exclude pregnancy prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see Dosage and Administration (2.2)and Use in Specific Populations (8.1, 8.3)].
+In females of reproductive potential, exclude pregnancy prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see Dosage and Administration (2.2) and Use in Specific Populations (8.1, 8.3)].
 
 OPSYNVI is available for females through the Macitentan-Containing Products REMS, a restricted distribution program [see Warnings and Precautions (5.2)].
 
@@ -119,7 +119,7 @@ Instruct patients taking OPSYNVI tablets not to take other PDE5 inhibitors.
 ## 5.11 Decreased Sperm Count
 
 Macitentan, like other ERAs, may have an adverse effect on spermatogenesis.
-Counsel men about potential effects on fertility [see Use in Specific Populations (8.3)and Nonclinical Toxicology (13.1)].
+Counsel men about potential effects on fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].
 
 ## 5.12 Prolonged Erection
 

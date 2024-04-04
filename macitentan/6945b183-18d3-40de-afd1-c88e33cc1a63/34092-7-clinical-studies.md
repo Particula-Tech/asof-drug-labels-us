@@ -6,7 +6,7 @@ OPSYNVI
 
 OPSYNVI was demonstrated to reduce pulmonary vascular resistance (PVR) in a multi-national, multi-center, double-blind, adaptive, randomized, active-controlled, parallel-group study [NCT03904693 (A DUE)] in 187 patients with PAH (WHO FC II–III).
 The study was designed to compare the efficacy and safety of OPSYNVI to each monotherapy macitentan or tadalafil.
-Patients with PVR of at least 240 dyn∙s/cm 5were randomized to receive OPSYNVI (n=108), 10 mg macitentan monotherapy (n=35) or 40 mg tadalafil monotherapy (n=44), once daily.
+Patients with PVR of at least 240 dyn∙s/cm 5 were randomized to receive OPSYNVI (n=108), 10 mg macitentan monotherapy (n=35) or 40 mg tadalafil monotherapy (n=44), once daily.
 
 Patients who received treatment during the double-blind treatment period (n=186) were either treatment-naïve (53%) or on an ERA (17%) or a PDE5 inhibitor (30%).
 Patients enrolled had idiopathic PAH (51%), heritable PAH (5%), PAH associated with connective tissue disease (35%), or PAH associated with congenital heart disease (3%).

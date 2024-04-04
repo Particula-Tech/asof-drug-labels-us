@@ -12,5 +12,5 @@ Tadalafil
 
 Single doses of tadalafil up to 500 mg have been given to healthy male subjects, and multiple daily doses up to 100 mg have been given to male patients with erectile dysfunction.
 Adverse reactions were similar to those seen at lower doses.
-Doses greater than 40 mg have not been studied in patients with pulmonary arterial hypertension.
+Doses greater than 40 mg have not been studied in patients with PAH.
 Hemodialysis contributes negligibly to tadalafil elimination.

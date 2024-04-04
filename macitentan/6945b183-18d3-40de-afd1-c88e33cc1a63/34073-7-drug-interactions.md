@@ -25,8 +25,8 @@ Concomitant treatment of both a moderate CYP3A4 inhibitor and moderate CYP2C9 in
 ## 7.5 Alpha-Blockers
 
 PDE5 inhibitors, including tadalafil, and alpha-adrenergic blocking agents are both vasodilators with blood-pressure-lowering effects.
-In patients who are taking alpha 1blockers, concomitant administration of tadalafil may lead to symptomatic hypotension in some patients.
-Therefore, the combination of OPSYNVI and doxazosin is not recommended [see Warnings and Precautions (5.4)and Clinical Pharmacology (12.2)].
+In patients who are taking alpha 1 blockers, concomitant administration of tadalafil may lead to symptomatic hypotension in some patients.
+Therefore, the combination of OPSYNVI and doxazosin is not recommended [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.2)].
 
 ## 7.6 Antihypertensives
 
