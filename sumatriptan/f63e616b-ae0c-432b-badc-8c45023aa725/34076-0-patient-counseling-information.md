@@ -51,7 +51,7 @@ Manufactured by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Manufactured for:
 
@@ -59,4 +59,4 @@ Prasco Laboratories
 
 Mason, OH 45040 USA
 
-SNS-PS:1PI
+SNS-PS:2PI

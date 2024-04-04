@@ -14,10 +14,10 @@
 | How should I store Sumatriptan Nasal Spray? •Store Sumatriptan Nasal Spray between 36°F to 86°F (2°C to 30°C).•Store your medicine away from light. Keep Sumatriptan Nasal Spray and all medicines out of the reach of children. |  |  |
 | General information about the safe and effective use of Sumatriptan Nasal Spray.Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets. Do not use Sumatriptan Nasal Spray for a condition for which it was not prescribed. Do not give Sumatriptan Nasal Spray to other people, even if they have the same symptoms you have. It may harm them.This Patient Information leaflet summarizes the most important information about Sumatriptan Nasal Spray. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about Sumatriptan Nasal Spray that is written for healthcare professionals. |  |  |
 | What are the ingredients in Sumatriptan Nasal Spray?Active ingredient: sumatriptanInactive ingredients: monobasic potassium phosphate NF, anhydrous dibasic sodium phosphate USP, sulfuric acid NF, sodium hydroxide NF, and purified water USP. |  |  |
-| Brands listed are trademarks of their respective owners. Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709Manufactured for:Prasco LaboratoriesMason, OH 45040 USASNS-PS:1PPI |  |  |
+| Brands listed are trademarks of their respective owners. Manufactured by: GlaxoSmithKline Durham, NC 27701Manufactured for:Prasco LaboratoriesMason, OH 45040 USASNS-PS:2PPI |  |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised December 2019
+Revised March 2024
 
 | Instructions for UseSumatriptan Nasal Spray(soo”ma trip’tan) |  |
 | --- | --- |
@@ -37,7 +37,7 @@ Manufactured by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Manufactured for:
 
@@ -45,6 +45,6 @@ Prasco Laboratories
 
 Mason, OH 45040 USA
 
-December 2019
+March 2024
 
-SNS-PS:1PIL
+SNS-PS:2PIL
