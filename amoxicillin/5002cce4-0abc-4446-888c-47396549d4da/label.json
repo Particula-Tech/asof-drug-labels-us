@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA062058"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-824-01",
+    "62135-824-05",
+    "62135-825-05",
+    "62135-825-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    }
+  ],
+  "setid": "5002cce4-0abc-4446-888c-47396549d4da",
+  "source": "dailymed"
+}
