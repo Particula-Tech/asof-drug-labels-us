@@ -54,4 +54,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
 
-Revised: 2/2024 ALP:ALLO:RX
+Revised: 3/2024 ALP:ALLO:R4 (3396/3)
