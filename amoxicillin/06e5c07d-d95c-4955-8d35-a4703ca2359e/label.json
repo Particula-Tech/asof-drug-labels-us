@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA050760"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "USAntibiotics, LLC",
+  "package_ndcs": [
+    "81964-207-50",
+    "81964-207-51",
+    "81964-207-52"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    }
+  ],
+  "setid": "06e5c07d-d95c-4955-8d35-a4703ca2359e",
+  "source": "dailymed"
+}
