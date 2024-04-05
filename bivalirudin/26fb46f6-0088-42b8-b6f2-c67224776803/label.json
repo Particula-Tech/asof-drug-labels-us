@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091602"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-427-91",
+    "71288-427-92"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bivalirudin",
+      "name": "BIVALIRUDIN"
+    }
+  ],
+  "setid": "26fb46f6-0088-42b8-b6f2-c67224776803",
+  "source": "dailymed"
+}
