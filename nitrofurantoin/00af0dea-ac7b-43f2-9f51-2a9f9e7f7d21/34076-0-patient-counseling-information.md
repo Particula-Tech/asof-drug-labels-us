@@ -15,4 +15,4 @@ When FURADANTIN is prescribed to treat a bacterial infection, patients should be
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by FURADANTIN or other antibacterial drugs in the future.
 Change in Urine Color Inform patients that FURADANTIN may impart a brown color to their urine [see Clinical Pharmacology (12.3)].
 
-Manufactured for Casper Pharma, LLC East Brunswick NJ 08816 MADE IN INDIA Code: AP/DRUGS/04/2016 PIB03660-03
+Manufactured for: Casper Pharma, LLC East Brunswick, NJ 08816 MADE IN INDIA Code: AP/DRUGS/04/2016 PIB03660-03

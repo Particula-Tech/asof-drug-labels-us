@@ -21,7 +21,7 @@ Nitrofurantoin is dialyzable.
 Specific Populations The pharmacokinetics of FURADANTIN are unknown for the geriatric patients, pediatric patients, patients with hepatic impairment, or pregnant women.
 Differences between male and female patients, and racial or ethnic groups are unknown.
 Patients with Renal Impairment The reported urinary recoveries of nitrofurantoin after a single 100 mg oral dose and 100 mg four times a day in patients with varying renal function showed approximate linear relationship between the amount of nitrofurantoin recovered and creatinine clearance.
-Drug Interaction Studies Antacids such as magnesium trisilicate In a cross-over study, the in vivo absorption characteristics of nitrofurantoin and nitrofurantoin magnesium trisilicate combination were evaluated in 6 healthy males.
+Drug Interaction Studies Antacids such as magnesium trisilicate In a cross-over study, the in vivo absorption characteristics of nitrofurantoin and nitrofurantoin-magnesium trisilicate combination were evaluated in 6 healthy males.
 The administration of 5 g magnesium trisilicate with 100 mg nitrofurantoin reduced the rate and extent of nitrofurantoin excretion reflecting decrease in both rate and extent of its absorption [see Drug Interaction (7.1)].
 Propantheline In a crossover study, the in vivo absorption characteristics of nitrofurantoin and propantheline (an anticholinergic agent) combination were evaluated in six subjects.
 Administration of 30 mg of propantheline 45 min prior to nitrofurantoin 100 mg administration resulted in a statistically significant increase in nitrofurantoin excretion, however, the clinical significance of this effect is unknown.
