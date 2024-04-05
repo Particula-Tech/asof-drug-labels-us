@@ -7,7 +7,7 @@ Structural Formula:
 
 prednisolone acetate
 
-Each mL of prednisolone acetate ophthalmic suspension 1% contains:
+Each mL of Prednisolone acetate ophthalmic suspension 1% contains:
 
 Active: prednisolone acetate (microfine suspension) 1%
 
