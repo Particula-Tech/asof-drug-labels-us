@@ -192,4 +192,4 @@ Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
 - This Patient Information has been approved by the U.S. Food and Drug Administration
-- September 2023
+- March 2024
