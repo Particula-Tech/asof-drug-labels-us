@@ -11,4 +11,4 @@ LIPITOR tablets are supplied as follows:
 
 Storage
 
-Store at controlled room temperature 20 - 25°C (68 - 77°F).
+Store at controlled room temperature 20-25°C (68-77°F).

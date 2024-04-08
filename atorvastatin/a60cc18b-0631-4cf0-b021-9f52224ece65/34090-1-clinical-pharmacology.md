@@ -58,7 +58,7 @@ Apparent oral clearance of atorvastatin in pediatric subjects appeared similar t
 
 #### Gender
 
-Plasma concentrations of LIPITOR in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with LIPITOR between men and women.
+Plasma concentrations of LIPITOR in females differ from those in males (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with LIPITOR between males and females.
 
 #### Renal Impairment
 
@@ -80,11 +80,11 @@ Atorvastatin is also identified as a substrate of the efflux transporter BCRP, w
 
 Table 5: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-|  | Dose (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs. atorvastatin alone). | Ratio of Cmax |
+|  | Dosage (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs. atorvastatin alone). | Ratio of Cmax |
 | --- | --- | --- | --- |
-| Co-administered drug and dosing regimen | Atorvastatin |  |  |
+| Co-administered drug and dosage regimen | Atorvastatin |  |  |
 | See Sections 5.1 and 7 for clinical significance. Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDOnce daily for 28 days | 8.69 | 10.66 |
-| Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 10 mg SDSingle dose | 9.36 | 8.58 |
+| Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 10 mg SDSingle dosage | 9.36 | 8.58 |
 | Glecaprevir 400 mg QD/pibrentasvir 120 mg QD, 7 days | 10 mg QD for 7 days | 8.28 | 22.00 |
 | Telaprevir 750 mg q8hEvery 8 hours, 10 days | 20 mg SD | 7.88 | 10.60 |
 | , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ritonavir 400 mg BID, 15 days | 40 mg QD for 4 days | 3.93 | 4.31 |
@@ -113,10 +113,10 @@ Table 5: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 Table 6: Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-| Atorvastatin | Co-administered drug and dosing regimen |  |  |
+| Atorvastatin | Co-administered drug and dosage regimen |  |  |
 | --- | --- | --- | --- |
-|  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
-| 80 mg QDOnce daily for 15 days | Antipyrine, 600 mg SDSingle dose | 1.03 | 0.89 |
+|  | Drug/Dosage (mg) | Ratio of AUC | Ratio of Cmax |
+| 80 mg QDOnce daily for 15 days | Antipyrine, 600 mg SDSingle dosage | 1.03 | 0.89 |
 | 80 mg QD for 10 days | See Section 7 for clinical significance. Digoxin 0.25 mg QD, 20 days | 1.15 | 1.20 |
 | 40 mg QD for 22 days | Oral contraceptive QD, 2 months- norethindrone 1 mg- ethinyl estradiol 35 µg | 1.281.19 | 1.231.30 |
 | 10 mg SD | Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 1.08 | 0.96 |

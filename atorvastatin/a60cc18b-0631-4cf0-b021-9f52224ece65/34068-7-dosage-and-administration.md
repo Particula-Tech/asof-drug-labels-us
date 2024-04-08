@@ -4,6 +4,7 @@
 
 - •Take Lipitor orally once daily at any time of the day, with or without food.
 - •Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating LIPITOR, and adjust the dosage if necessary.
+- •If a dose is missed, advise patients not to take the missed dose and resume with the next scheduled dose.
 
 ## 2.2 Recommended Dosage in Adult Patients
 

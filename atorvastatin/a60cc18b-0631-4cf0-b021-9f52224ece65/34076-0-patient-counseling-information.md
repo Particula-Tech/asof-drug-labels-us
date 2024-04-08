@@ -27,12 +27,16 @@ Lactation
 
 Advise patients that breastfeeding is not recommended during treatment with LIPITOR [see Use in Specific Populations (8.2)].
 
+Missed Doses
+
+If a dose is missed, advise patients not to take the missed dose and resume with the next scheduled dose.
+
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2024 Viatris Inc.
 
 LIPITOR is a registered trademark of Upjohn Manufacturing Ireland Unlimited Company, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:LPTR:R1
+UPJ:LPTR:R2

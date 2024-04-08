@@ -2,9 +2,9 @@
 
 Prevention of Cardiovascular Disease
 
-In the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT), the effect of LIPITOR on fatal and non-fatal coronary heart disease was assessed in 10,305 patients with hypertension, 40-80 years of age (mean of 63 years; 19% women; 95% White, 3% Black, 1% South Asian, 1% other), without a previous myocardial infarction and with total cholesterol (TC) levels ≤251 mg/dL.
+In the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT), the effect of LIPITOR on fatal and non-fatal coronary heart disease was assessed in 10,305 patients with hypertension, 40-80 years of age (mean of 63 years; 19% female; 95% White, 3% Black or African American, 1% South Asian, 1% other), without a previous myocardial infarction and with total cholesterol (TC) levels ≤251 mg/dL.
 Additionally, all patients had at least 3 of the following cardiovascular risk factors: male gender (81%), age >55 years (85%), smoking (33%), diabetes (24%), history of CHD in a first-degree relative (26%), TC:HDL >6 (14%), peripheral vascular disease (5%), left ventricular hypertrophy (14%), prior cerebrovascular event (10%), specific ECG abnormality (14%), proteinuria/albuminuria (62%).
-In this double-blind, placebo-controlled trial, patients were treated with anti-hypertensive therapy (goal BP <140/90 mm Hg for patients without diabetes; <130/80 mm Hg for patients with diabetes) and allocated to either LIPITOR 10 mg daily (n=5168) or placebo (n=5137), using a covariate adaptive method which took into account the distribution of nine baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
+In this double-blind, placebo-controlled trial, patients were treated with anti-hypertensive therapy (goal BP <140/90 mm Hg for patients without diabetes; <130/80 mm Hg for patients with diabetes) and allocated to either LIPITOR 10 mg daily (n=5,168) or placebo (n=5,137), using a covariate adaptive method which took into account the distribution of nine baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
 Patients were followed for a median duration of 3.3 years.
 
 The effect of 10 mg/day of LIPITOR on lipid levels was similar to that seen in previous clinical trials.
@@ -17,7 +17,7 @@ LIPITOR also significantly decreased the relative risk for revascularization pro
 Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p=0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for LIPITOR and 2.3% for placebo).
 There was no significant difference between the treatment groups for death due to cardiovascular causes (p=0.51) or noncardiovascular causes (p=0.17).
 
-In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of LIPITOR on cardiovascular disease (CVD) endpoints was assessed in 2838 subjects (94% White, 2% Black, 2% South Asian, 1% other; 68% male), ages 40-75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≤160 mg/dL and triglycerides (TG) ≤600 mg/dL.
+In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of LIPITOR on cardiovascular disease (CVD) endpoints was assessed in 2,838 subjects (94% White, 2% Black or African American, 2% South Asian, 1% other; 68% male), ages 40-75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≤160 mg/dL and triglycerides (TG) ≤600 mg/dL.
 In addition to diabetes, subjects had 1 or more of the following risk factors: current smoking (23%), hypertension (80%), retinopathy (30%), or microalbuminuria (9%) or macroalbuminuria (3%).
 No subjects on hemodialysis were enrolled in the trial.
 In this multicenter, placebo-controlled, double-blind clinical trial, subjects were randomly allocated to either LIPITOR 10 mg daily (1429) or placebo (1411) in a 1:1 ratio and were followed for a median duration of 3.9 years.
@@ -46,7 +46,7 @@ The overall risk reduction was consistent regardless of age (<65, ≥65) or sex.
 
 Table 7: Overview of Efficacy Results in TNT
 
-| Endpoint | Atorvastatin10 mg(N=5006) |  | Atorvastatin80 mg(N=4995) |  | HRAtorvastatin 80 mg: atorvastatin 10 mg (95%CI) |
+| Endpoint | Atorvastatin10 mg(N=5,006) |  | Atorvastatin80 mg(N=4,995) |  | HRAtorvastatin 80 mg: atorvastatin 10 mg (95%CI) |
 | --- | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT | n | (%) | n | (%) |  |
 | First major cardiovascular endpoint | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
@@ -101,7 +101,7 @@ After randomization, patients were treated for 16 weeks with either LIPITOR 10 m
 
 Table 9: Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
 
-| Treatment(Daily Dose) | N | Total‑C | LDL‑C | Apo B | TG | HDL‑C |
+| Treatment(Daily Dosage) | N | Total‑C | LDL‑C | Apo B | TG | HDL‑C |
 | --- | --- | --- | --- | --- | --- | --- |
 | Trial 1 |  |  |  |  |  |  |
 | LIPITOR 10 mg | 707 | -27Significantly different from lovastatin, ANCOVA, p ≤0.05 | -36 | -28 | -17 | +7 |
@@ -116,8 +116,8 @@ Table 9: Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomi
 | Simvastatin 10 mg | 45 | -24 | -30 | -30 | -15 | +7 |
 | 95% CI for Diff |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 |
 
-Table 9 does not contain data comparing the effects of LIPITOR 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
-The drugs compared in the trials summarized in the table are not necessarily interchangeable.
+Table 9 does not contain data comparing the effects of LIPITOR 10 mg and higher dosages of lovastatin, pravastatin, and simvastatin.
+The drugs compared in the trials summarized in the table are not necessarily exchangeable.
 
 Hypertriglyceridemia in Adults
 
@@ -128,7 +128,7 @@ Table 10: Combined Patients with Isolated Elevated TG: Median (min, max) Percent
 
 |  | Placebo(N=12) | LIPITOR 10 mg(N=37) | LIPITOR 20 mg(N=13) | LIPITOR 80 mg(N=14) |
 | --- | --- | --- | --- | --- |
-| Triglycerides | -12.4 (-36.6, 82.7) | -41.0 (-76.2, 49.4) | -38.7 (-62.7, 29.5) | -51.8 (-82.8, 41.3) |
+| TG | -12.4 (-36.6, 82.7) | -41.0 (-76.2, 49.4) | -38.7 (-62.7, 29.5) | -51.8 (-82.8, 41.3) |
 | Total-C | -2.3 (-15.5, 24.4) | -28.2 (-44.9, -6.8) | -34.9 (-49.6, -15.2) | -44.4 (-63.5, -3.8) |
 | LDL-C | 3.6 (-31.3, 31.6) | -26.5 (-57.7, 9.8) | -30.4 (-53.9, 0.3) | -40.5 (-60.6, -13.8) |
 | HDL-C | 3.8 (-18.6, 13.4) | 13.8 (-9.7, 61.5) | 11.0 (-3.2, 25.2) | 7.5 (-10.8, 37.2) |
@@ -138,13 +138,13 @@ Dysbetalipoproteinemia in Adults
 
 The results of an open-label crossover trial of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia are shown in the table below (Table 11).
 
-Table 11: Open-Label Crossover Trial of 16 Patients with Dysbetalipoproteinemia (Fredrickson Type III)
+Table 11: Open-Label Crossover Trial of 16 Patients with Dysbetalipoproteinemia
 
 |  |  | Median % Change (min, max) |  |
 | --- | --- | --- | --- |
 |  | Median (min, max) at Baseline (mg/dL) | LIPITOR10 mg | LIPITOR80 mg |
 | Total-C | 442 (225, 1320) | -37 (-85, 17) | -58 (-90, -31) |
-| Triglycerides | 678 (273, 5990) | -39 (-92, -8) | -53 (-95, -30) |
+| TG | 678 (273, 5990) | -39 (-92, -8) | -53 (-95, -30) |
 | IDL-C + VLDL-C | 215 (111, 613) | -32 (-76, 9) | -63 (-90, -8) |
 | non-HDL-C | 411 (218, 1272) | -43 (-87, -19) | -64 (-92, -36) |
 
@@ -159,15 +159,15 @@ The remaining 3 receptor-negative patients had a mean LDL-C reduction of 22%.
 
 HeFH in Pediatric Patients
 
-In a double-blind, placebo-controlled trial followed by an open-label phase, 187 boys and post-menarchal girls 10 years to 17 years of age (mean age 14.1 years; 31% female; 92% White, 1.6% Blacks, 1.6% Asians, 4.8% other) with heterozygous familial hypercholesterolemia (HeFH) or severe hypercholesterolemia, were randomized to LIPITOR (n=140) or placebo (n=47) for 26 weeks and then all received LIPITOR for 26 weeks.
-Inclusion in the trial required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
+In a double-blind, placebo-controlled trial followed by an open-label phase, 187 males and post-menarchal females 10 years to 17 years of age (mean age 14.1 years; 31% female; 92% White, 1.6% Black or African American, 1.6% Asian, 4.8% other) with heterozygous familial hypercholesterolemia (HeFH) or severe hypercholesterolemia, were randomized to LIPITOR (n=140) or placebo (n=47) for 26 weeks and then all received LIPITOR for 26 weeks.
+Inclusion in the trial required 1) a baseline LDL-C level ≥190 mg/dL or 2) a baseline LDL-C level ≥160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 219 mg/dL (range: 139-385 mg/dL) in the LIPITOR group compared to 230 mg/dL (range: 160-325 mg/dL) in the placebo group.
 The dosage of LIPITOR (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was >130 mg/dL.
 The number of LIPITOR-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (56%).
 
-LIPITOR significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double‑blind phase (see Table 12).
+LIPITOR significantly decreased plasma levels of total-C, LDL-C, TG, and apolipoprotein B during the 26-week double-blind phase (see Table 12).
 
-Table 12: Lipid-altering Effects of LIPITOR in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention‑to‑Treat Population)
+Table 12: Lipid-altering Effects of LIPITOR in Adolescent Males and Females with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention‑to‑Treat Population)
 
 | DOSAGE | N | Total-C | LDL-C | HDL-C | TG | Apolipoprotein B |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -176,9 +176,9 @@ Table 12: Lipid-altering Effects of LIPITOR in Adolescent Boys and Girls with He
 
 The mean achieved LDL-C value was 130.7 mg/dL (range: 70.0-242.0 mg/dL) in the LIPITOR group compared to 228.5 mg/dL (range: 152.0-385.0 mg/dL) in the placebo group during the 26-week double-blind phase.
 
-Atorvastatin was also studied in a three year open-label, uncontrolled trial that included 163 patients with HeFH who were 10 years to 15 years old (82 boys and 81 girls).
+Atorvastatin was also studied in a three year open-label, uncontrolled trial that included 163 patients with HeFH who were 10 years to 15 years old (82 males and 81 females).
 All patients had a clinical diagnosis of HeFH confirmed by genetic analysis (if not already confirmed by family history).
-Approximately 98% were White, and less than 1% were Black or Asian.
+Approximately 98% were White, and less than 1% were Black, African American or Asian.
 Mean LDL-C at baseline was 232 mg/dL.
 The starting atorvastatin dosage was 10 mg once daily and doses were adjusted to achieve a target of <130 mg/dL LDL-C.
 The reductions in LDL-C from baseline were generally consistent across age groups within the trial as well as with previous clinical trials in both adult and pediatric placebo-controlled trials.
