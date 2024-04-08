@@ -1,5 +1,11 @@
-MADE IN CANADA MANUFACTURED BY TARO PHARMACEUTICALS INC. BRAMPTON, ONTARIO, CANADA L6T 1C1
+Manufactured for Padagis® by Taro Pharmaceuticals Inc.
 
-Distributed By Perrigo®
+Brampton, Ontario, Canada L6T 1C1
 
-Allegan, MI 49010 • www.perrigorx.com Rev 10-20B 5212896 24
+www.padagis.com
+
+Rev 01-24
+
+OF400 RC PH6
+
+Made in Canada 5239914 54

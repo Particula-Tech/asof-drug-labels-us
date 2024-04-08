@@ -2,11 +2,9 @@
 
 Rx Only
 
-NDC 45802-257-35
+NDC 45802-257-42
 
 Mometasone Furoate Cream USP, 0.1% For Dermatologic Use Only.
 Not for Ophthalmic Use.
 
-15 g
-
-Perrigo®
+45 g

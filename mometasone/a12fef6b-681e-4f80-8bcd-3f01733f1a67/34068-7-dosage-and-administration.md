@@ -2,7 +2,7 @@
 
 Apply a thin film of mometasone furoate cream to the affected skin areas once daily.
 Mometasone furoate cream may be used in pediatric patients 2 years of age or older.
-Since safety and efficacy of mometasone furoate cream have not been established in pediatric patients below 2 years of age; use in this age group is not recommended [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
+Since safety and efficacy of mometasone furoate cream have not been established in pediatric patients below 2 years of age; use in this age group is not recommended [see Warnings and Precautions (5.1)and Use in Specific Populations (8.4)].
 
 Therapy should be discontinued when control is achieved.
 If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary [see Warnings and Precautions (5.1)].
