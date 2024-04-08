@@ -3,8 +3,8 @@
 The ability of sevelamer to control serum phosphorus in CKD patients on dialysis was predominantly determined from the effects of the hydrochloride salt to bind phosphate.
 Six clinical trials used sevelamer hydrochloride and three clinical trials used sevelamer carbonate.
 The sevelamer hydrochloride studies include one double-blind, placebo-controlled 2-week study (sevelamer N=24); two open-label, uncontrolled, 8-week studies (sevelamer N=220); and three active-controlled open-label studies with treatment durations of 8 to 52 weeks (sevelamer N=256).
-The sevelamer carbonate studies include one double-blind, active-controlled, cross-over study with two 8-week treatment periods using sevelamer carbonate tablets (N=79); one open-label, active-controlled, cross-over study with two 4-week treatment periods using sevelamer carbonate powder (N=31); and one randomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks.
-Six of the active-controlled studies are described here (three sevelamer carbonate and three sevelamer hydrochloride studies).
+The sevelamer carbonate studies include one double-blind, active-controlled, cross-over study with two 8-week treatment periods using sevelamer carbonate tablets (N=79); and one randomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks.
+Five of the active-controlled studies are described here (two sevelamer carbonate and three sevelamer hydrochloride studies).
 
 ## 14.1 Cross-Over Study of Sevelamer Carbonate 800 mg Tablets and Sevelamer Hydrochloride 800 mg Tablets
 
