@@ -7,23 +7,3 @@ Atazanavir capsules are contraindicated:
 - when coadministered with drugs that strongly induce CYP3A and may lead to lower exposure and loss of efficacy of atazanavir capsules (see Table 6).
 
 Table 6 displays drugs that are contraindicated with atazanavir capsules.
-
-Table 6: Drugs Contraindicated with Atazanavir Capsules (Information in the table applies to atazanavir capsules with or without ritonavir, unless otherwise indicated)
-
-| Drug Class | Drugs within class that are contraindicated with Atazanavir capsules |
-| --- | --- |
-| Alpha 1-adrenoreceptor antagonist | Alfuzosin |
-| Antiarrhythmics | Amiodarone (with ritonavir), quinidine (with ritonavir) |
-| Antimycobacterials | Rifampin |
-| Antineoplastics | Irinotecan |
-| Antipsychotics | Lurasidone (with ritonavir), pimozide |
-| Benzodiazepines | Triazolam, orally administered midazolama |
-| Ergot Derivatives | Dihydroergotamine, ergotamine, ergonovine, methylergonovine |
-| GI Motility Agent | Cisapride |
-| Hepatitis C Direct- Acting Antivirals | Elbasvir/grazoprevir; glecaprevir/pibrentasvir |
-| Herbal Products | St. John’s wort (Hypericum perforatum) |
-| Lipid-Modifying Agents: | Lovastatin, simvastatin, lomitapide |
-| Phosphodiesterase-5 (PDE-5) Inhibitor | Sildenafilb when dosed as REVATIO®for the treatment of pulmonary arterial hypertension |
-| Protease Inhibitors | Indinavir |
-| Non-nucleoside Reverse Transcriptase Inhibitors | Nevirapine |
-| a See Drug Interactions, Table 16 (7) for parenterally administered midazolam. b See Drug Interactions, Table 16 (7) for sildenafil when dosed as VIAGRA® for erectile dysfunction. |  |

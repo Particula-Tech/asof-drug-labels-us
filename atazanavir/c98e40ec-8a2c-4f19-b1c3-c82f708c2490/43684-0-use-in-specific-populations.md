@@ -35,7 +35,7 @@ Lack of ethnic diversity was a study limitation.
 In the study population, 33/40 (83%) infants were Black/African American, who have a lower incidence of neonatal hyperbilirubinemia than Caucasians and Asians.
 In addition, women with Rh incompatibility were excluded, as well as women who had a previous infant who developed hemolytic disease and/or had neonatal pathologic jaundice (requiring phototherapy).
 Additionally, of the 38 infants who had glucose samples collected in the first day of life, 3 had adequately collected serum glucose samples with values of less than 40 mg/dL that could not be attributed to maternal glucose intolerance, difficult delivery, or sepsis.
-Based on prospective reports from the APR of approximately 1,600 live births following exposure to atazanavir-containing regimens (including 1,037 live births in infants exposed in the first trimester and 569 exposed in second/third trimesters), there was no difference between atazanavir and overall birth defects compared with the background birth defect rate.
+Based on prospective reports from the APR of approximately 1,600 live births following exposure to atazanavir-containing regimens (including 1,037 live births in infants exposed in the first trimester and 569 exposed in second/third trimesters), there was no difference between atazanavir, and overall birth defects compared with the background birth defect rate.
 In the U.S. general population, the estimated background risk of major birth defects in clinically recognized pregnancies is 2 to 4%.
 Animal Data In animal reproduction studies, there was no evidence of mortality or teratogenicity in offspring born to animals at systemic drug exposure levels (AUC) 0.7 (in rabbits) to 1.2 (in rats) times those observed at the human clinical dose (300 mg/day atazanavir boosted with 100 mg/day ritonavir).
 In pre- and postnatal development studies in the rat, atazanavir caused neonatal growth retardation during lactation that reversed after weaning.
@@ -55,7 +55,7 @@ Because of both the potential for HIV-1 transmission and the potential for serio
 
 ## 8.4 Pediatric Use
 
-Atazanavir is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in pediatric patients 6 years of age and older weighing at least 15 kg.
+Atazanavir is indicated in combination with other antiretroviral agents for the treatment of pediatric patients with HIV-1 infection, 6 years of age and older weighing at least 15 kg.
 Atazanavir is not recommended for use in pediatric patients below the age of 3 months due to the risk of kernicterus [see Indications and Usage (1)].
 All atazanavir contraindications, warnings, and precautions apply to pediatric patients [see Contraindications (4) and Warnings and Precautions (5)].
 The safety, pharmacokinetic profile, and virologic response of atazanavir in pediatric patients 6 years of age and older weighing at least 15 kg were established in an open-label, multicenter clinical trial: PACTG 1020A [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
