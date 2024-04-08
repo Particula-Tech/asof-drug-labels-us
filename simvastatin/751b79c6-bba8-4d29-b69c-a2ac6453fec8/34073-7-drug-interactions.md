@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with simvastatin
+## 7.1 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Simvastatin
 
 Simvastatin is a substrate of CYP3A4 and of the transport protein OATP1B1.Simvastatin exposure can be significantly increased with concomitant administration of inhibitors of CYP3A4 and OATP1B1.
 Table 2 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with simvastatin and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].

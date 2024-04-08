@@ -30,7 +30,6 @@ Drug Interaction Studies Simvastatin acid is a substrate of the transport protei
 Concomitant administration of inhibitors of the transport protein OATP1B1 and/or CYP3A4 may lead to increased exposure of simvastatin acid.
 Cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1 [see Drug Interactions (7)].
 Table 4 displays the effect of coadministered drugs or grapefruit juice on simvastatin systemic exposure [see Drug Interactions (7)].
-
 Table 4: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
 
 | Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice |  | Dosing of Simvastatin | Geometric Mean Ratio (Ratio* with / without coadministered drug) No Effect = 1.00 |  |  |  |
@@ -43,7 +42,7 @@ Table 4: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Gemfibrozil |  | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |  |
 | Grapefruit Juice §(high dose) |  | 200 mL of double-strength TID ¶ | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |  |
 | Grapefruit Juice §(low dose) |  | 8 oz (about 237 mL) of single-strength # | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |  |
-| Verapamil SR |  | 240 mg QD days 1 to 7 then 240 mg BID on Days 8 to 10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |  |
+| Verapamil SR |  | 240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |  |
 | Diltiazem |  | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |  |
 | Diltiazem |  | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |  |
 | Dronedarone |  | 400 mg BID for 14 days | 40 mg QD for 14 days | simvastatin acid simvastatin | 1.96 3.90 | 2.14 3.75 |  |
@@ -52,9 +51,9 @@ Table 4: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Ranolazine SR |  | 1000 mg BID for 7 days | 80 mg on Day 1 and Days 6 to 9 | simvastatin acid simvastatin | 2.26 1.86 | 2.28 1.75 |  |
 | Lomitapide |  | 60 mg QD for 7 days | 40 mg single dose | simvastatin acid simvastatin | 1.7 2 | 1.6 2 |  |
 | Lomitapide |  | 10 mg QD for 7 days | 20 mg single dose | simvastatin acid simvastatin | 1.4 1.6 | 1.4 1.7 |  |
-| Fenofibrate |  | 160 mg QD X 14 days | 80 mg QD on Days 8 to 14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |  |
+| Fenofibrate |  | 160 mg QD x 14 days | 80 mg QD on Days 8 to 14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |  |
 | Niacin extended-release |  | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |  |
-| Propranolol |  | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/ML ↓ from 7.0 to 4.7 ng·eq/mL |  |
+| Propranolol |  | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL ↓ from 7.0 to 4.7 ng·eq/mL |  |
 
 *Results based on a chemical assay except results with propranolol as indicated. †Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. ‡ Simvastatin acid refers to the β-hydroxyacid of simvastatin. §The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. ¶Double-strength: one can of frozen concentrate diluted with one can of water.
 Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. #Single-strength: one can of frozen concentrate diluted with 3 cans of water.

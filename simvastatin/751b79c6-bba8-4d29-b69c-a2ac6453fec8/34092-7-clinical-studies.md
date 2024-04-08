@@ -15,7 +15,7 @@ Patients were randomized to simvastatin or placebo using a covariate adaptive me
 The Study HPS results showed that simvastatin 40 mg/day significantly reduced: total and CHD mortality; and non-fatal MI, stroke, and revascularization procedures (coronary and non-coronary) (see Table 5).
 Table 5: CHD Mortality and Cardiovascular Events in Adult Patients with High Risk of Developing a Major Coronary Event in Study HPS
 
-| End Point | Simvastatin (N=10,269) n (%) * | Placebo (N=10,267) n (%) * | Risk Reduction (%) (95% Cl) | p-Value |
+| Endpoint | Simvastatin(N=10,269) n (%) * | Placebo (N=10,267) n (%) * | Risk Reduction (%) (95% Cl) | p-Value |
 | --- | --- | --- | --- | --- |
 | Primary Mortality CHD mortality | 1,328 (12.9%) 587 (5.7%) | 1,507 (14.7%) 707 (6.9%) | 13 % (6 to 19%) 18 % (8 to 26%) | p=0.0003 p=0.0005 |
 | Secondary Non-fatal MI Stroke | 357 (3.5%) 444 (4.3%) | 574 (5.6%) 585 (5.7%) | 38% (30 to 46%) 25% (15 to 34%) | p<0.0001 p<0.0001 |
@@ -34,16 +34,16 @@ Table 6: Mean Changes in Lipid Levels in Adult Patients with Primary Hyperlipide
 
 | TREATMENT | N | TOTAL-C | LDL-C | HDL-C | TG * |
 | --- | --- | --- | --- | --- | --- |
-| Lower Dosage Comparative Study †(Mean % Change at Week 6) |  |  |  |  |  |
+| Lower Dosage Comparative Study†(Mean % Change at Week 6) |  |  |  |  |  |
 | Simvastatin 5 mg once at night | 109 | -19% | -26% | +10% | -12% |
 | Simvastatin 10 mg once at night | 110 | -23% | -30% | +12% | -15% |
-| Scandinavian simvastatin Survival Study‡(Mean % Change at Week 6) |  |  |  |  |  |
+| Scandinavian Simvastatin Survival Study‡(Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 2223 | -1% | -1% | 0% | -2% |
 | Simvastatin 20 mg once at night | 2221 | -28% | -38% | +8% | -19% |
 | Upper Dosage Comparative Study §(Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
 | Simvastatin 40 mg once at night | 433 | -31% | -41% | +9% | -18% |
-| Simvastatin 80 mg once at night. ¶ | 664 | -36% | -47% | +8% | -24% |
-| Combined Hyperlipidemia Study #(Mean % Change at Week 6) |  |  |  |  |  |
+| Simvastatin 80 mg once at night ¶ | 664 | -36% | -47% | +8% | -24% |
+| Combined Hyperlipidemia Study#(Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 125 123 124 | 1% -25% -31% | 2% -29% -36% | +3% +13% +16% | -4% -28% -33% |
 | Simvastatin 40 mg once at night Simvastatin 80 mg once at night |  |  |  |  |  |
 
@@ -67,7 +67,7 @@ In 12 patients the mean LDL-C changes at 9 weeks for the 40-and 80-mg doses were
 Pediatric Patients 10 Years of Age and Older with HeFH In a double-blind, placebo-controlled study, 175 pediatric patients (99 boys and 76 post-menarchal girls) 10 years of age and older (mean age 14 years old) with heterozygous familial hypercholesterolemia (HeFH) were randomized to simvastatin (n=106) or placebo (n=67) for 24 weeks (base study).
 To be included in the study, patients were required to have a baseline LDL-C level between 160 and 400 mg/dL and at least one parent with an LDL-C level >189 mg/dL.
 The dosage of simvastatin (once daily in the evening) was 10 mg for the first 8 weeks, 20 mg for the second 8 weeks, and 40 mg thereafter.
-In a 24 week extension, 144 patients elected to continue therapy with simvastatin 40 mg or placebo.
+In a 24-week extension, 144 patients elected to continue therapy with simvastatin 40 mg or placebo.
 Simvastatin significantly decreased plasma levels of total-C, LDL-C, and apolipoprotein B (ApoB) (see Table 8) in the HeFH study.
 Results from the extension at 48 weeks were comparable to the results at Week 24.
 The safety and effectiveness of dosages above 40 mg daily have not been studied in pediatric patients with HeFH.

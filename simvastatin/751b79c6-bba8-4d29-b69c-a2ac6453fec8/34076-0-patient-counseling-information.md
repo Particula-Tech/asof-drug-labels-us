@@ -1,7 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
-
 Myopathy and Rhabdomyolysis Advise patients that simvastatin may cause myopathy and rhabdomyolysis.
 Inform patients taking an 80 mg daily dose of simvastatin that they are at an increased risk.
 Inform patients that the risk is also increased when taking certain types of medication or consuming grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
@@ -14,13 +13,11 @@ Encourage patients to optimize lifestyle measures, including regular exercise, m
 Pregnancy Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if simvastatin should be discontinued [see Use in Specific Populations (8.1)].
 Lactation Advise patients that breastfeeding is not recommended during treatment with simvastatin [see Use in Specific Populations (8.2)].
+Missed Dose
 
-Missed Dose Instruct patients to take simvastatin only as prescribed.
+Instruct patients to take simvastatin only as prescribed.
 If a dose is missed, it should be taken as soon as possible.
 Advise patients not to double their next dose.
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
-
-by: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India
-
-Revised: 04/2023
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 by: HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India.
+Revised: 02/2024

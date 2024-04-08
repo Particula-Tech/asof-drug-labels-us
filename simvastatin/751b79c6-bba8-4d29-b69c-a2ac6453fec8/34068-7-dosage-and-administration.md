@@ -3,7 +3,7 @@
 ## 2.1 Important Dosage and Administration Information
 
 • Take simvastatin tablets orally once daily in the evening. •The maximum recommended dosage is simvastatin tablets 40 mg once daily [see Dosage and Administration (2.2, 2.3)].
-An 80 mg daily dosage of simvastatintablets are restricted to patients who have been taking simvastatin 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Warnings and Precautions (5.1)]. • If a dose is missed, take the missed dose as soon as possible.
+An 80 mg daily dosage of simvastatintablets are restricted to patients who have been taking simvastatin 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Warnings and Precautions (5.1)]. • If as dose is missed, take the missed dose as soon as possible.
 Do not double the next dose. • For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets 40 mg daily, prescribe alternative LDL-C-lowering treatment. • Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating simvastatin tablets, and adjust the dosage if necessary.
 
 ## 2.2 Recommended Dosage in Adult Patients
