@@ -24,9 +24,15 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
 
+DRESS/Multiorgan Hypersensitivity
+
+Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+Levetiracetam should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.6)].
+
 Withdrawal of levetiracetam
 
-Advise patients and caregivers not to discontinue use of levetiracetam without consulting with their healthcare provider. levetiracetam should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+Advise patients and caregivers not to discontinue use of levetiracetam without consulting with their healthcare provider.
+Levetiracetam should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.8)].
 
 Pregnancy
 
@@ -37,4 +43,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 09/2023
+Revised: 04/2024

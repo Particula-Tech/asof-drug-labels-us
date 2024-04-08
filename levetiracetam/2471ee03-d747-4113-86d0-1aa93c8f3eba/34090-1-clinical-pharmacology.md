@@ -80,7 +80,7 @@ Simulations were conducted for obese and non-obese pediatric patients ages 4 to 
 However, differences in exposures between obese and non-obese pediatric patients are not expected to be clinically meaningful because the recommended dose titration at initiation of levetiracetam therapy would establish an appropriate dose for each individual patient.
 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 Gender
 

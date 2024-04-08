@@ -81,7 +81,13 @@ Only whole tablets should be administered.
 Levetiracetam tablet dosing must be individualized according to the patient’s renal function status.
 Recommended dosage adjustments for adults are shown in Table 1.
 In order to calculate the dose recommended for patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
-To do this an estimate of the patient’s creatinine clearance (CLcr) in mL/min must first be calculated using the following formula: [140-age (years)] x weight (kg) CLcr = ----------------------------------------------(x 0.85 for female patients) 72 x serum creatinine (mg/dL)
+To do this an estimate of the patient’s creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
+
+[140-age (years)] x weight (kg)
+
+CLcr = ----------------------------------------------(x 0.85 for female patients)
+
+72 x serum creatinine (mg/dL)
 
 Then CLcr is adjusted for body surface area (BSA) as follows: CLcr (mL/min) CLcr (mL/min/1.73 m2) = -------------------------- x 1.73 BSA subject (m2)
 
@@ -94,8 +100,9 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 | Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
 | Severe | < 30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | ---- | 500 to 1,000* | Every 24 hours* |
-| * Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
+
+* Following dialysis, a 250 to 500 mg supplemental dose is recommended.
 
 ## 2.6 Discontinuation of Levetiracetam Tablets
 
-Avoid abrupt withdrawal from levetiracetam tablets in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+Avoid abrupt withdrawal from levetiracetam tablets in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.8)].
