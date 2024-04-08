@@ -35,7 +35,7 @@ Table 3 Clinical Remission and Steroid Withdrawal in Adult Patients with CD (Stu
 Patients in the infliximab maintenance groups (5 mg/kg and 10 mg/kg) had a longer time to loss of response than patients in the placebo maintenance group (Figure 1).
 At Weeks 30 and 54, significant improvement from baseline was seen among the 5 mg/kg and 10 mg/kg groups treated with infliximab compared to the placebo group in the disease-specific inflammatory bowel disease questionnaire (IBDQ), particularly the bowel and systemic components, and in the physical component summary score of the general health-related quality of life questionnaire SF-36.
 
-1. Figure 1 Kaplan-Meier Estimate of the Proportion of Adults with CD Who Had Not Lost Response Through Week 54 (Study Crohn's I)
+Figure 1 Kaplan-Meier Estimate of the Proportion of Adults with CD Who Had Not Lost Response Through Week 54 (Study Crohn's I)
 
 In a subset of 78 patients who had mucosal ulceration at baseline and who participated in an endoscopic substudy, 13 of 43 patients in infliximab maintenance group had endoscopic evidence of mucosal healing compared to 1 of 28 patients in the placebo group at Week 10.
 Of the patients treated with infliximab showing mucosal healing at Week 10, 9 of 12 patients also showed mucosal healing at Week 54.
@@ -71,7 +71,7 @@ Patients randomized to maintenance with infliximab had a longer time to loss of 
 At Week 54, 38% (33/87) of patients treated with infliximab had no draining fistulas compared with 22% (20/90) of placebo-treated patients (P=0.02).
 Compared to placebo maintenance, patients on maintenance treatment with infliximab had a trend toward fewer hospitalizations.
 
-1. Figure 2 Life Table Estimates of the Proportion of Adult CD Patients Who Had Not Lost Fistula Response Through Week 54 (Study Crohn's II)
+Figure 2 Life Table Estimates of the Proportion of Adult CD Patients Who Had Not Lost Fistula Response Through Week 54 (Study Crohn's II)
 
 Patients who achieved a fistula response and subsequently lost response were eligible to receive maintenance therapy with infliximab at a dose that was 5 mg/kg higher than the dose to which they were randomized.
 Of the placebo maintenance patients, 66% (25/38) responded to 5 mg/kg infliximab, and 57% (12/21) of maintenance patients on infliximab responded to 10 mg/kg.
@@ -342,7 +342,7 @@ Doses of 5 mg/kg of infliximab or placebo were administered intravenously at Wee
 At 24 weeks, improvement in the signs and symptoms of AS, as measured by the proportion of patients achieving a 20% improvement in ASAS response criteria (ASAS 20), was seen in 60% of patients in the infliximab-treated group vs. 18% of patients in the placebo group (p<0.001).
 Improvement was observed at Week 2 and maintained through Week 24 (Figure 3 and Table 10).
 
-1. Figure 3 Proportion of Adult AS Patients Who Achieved ASAS 20 Response
+Figure 3 Proportion of Adult AS Patients Who Achieved ASAS 20 Response
 
 At 24 weeks, the proportions of patients achieving a 50% and a 70% improvement in the signs and symptoms of AS, as measured by ASAS response criteria (ASAS 50 and ASAS 70, respectively), were 44% and 28%, respectively, for patients receiving infliximab, compared to 9% and 4%, respectively, for patients receiving placebo (P<0.001, infliximab vs. placebo).
 A low level of disease activity (defined as a value <20 [on a scale of 0 – 100 mm] in each of the 4 ASAS response parameters) was achieved in 22% of patients treated with infliximab vs. 1% in placebo-treated patients (P<0.001).
@@ -503,6 +503,6 @@ In addition, in a subset of patients who had achieved a response at Week 10, mai
 Regardless of whether the maintenance doses are PRN or every 8 weeks, there is a decline in response in a subpopulation of patients in each group over time.
 The results of Study I through Week 50 in the 5 mg/kg every 8 weeks maintenance dose group were similar to the results from Study II.
 
-1. Figure 4 Proportion of Adult Ps Patients Who Achieved ≥75% Improvement in PASI from Baseline through Week 50 (patients randomized at Week 14)
+Figure 4 Proportion of Adult Ps Patients Who Achieved ≥75% Improvement in PASI from Baseline through Week 50 (patients randomized at Week 14)
 
 Efficacy and safety of infliximab treatment beyond 50 weeks have not been evaluated in patients with Ps.
