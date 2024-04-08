@@ -1,0 +1,108 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections
+
+Cyclophosphamide can cause myelosuppression (leukopenia, neutropenia, thrombocytopenia and anemia), bone marrow failure, and severe immunosuppression which may lead to serious and sometimes fatal infections, including sepsis and septic shock.
+Latent infections can be reactivated [see Adverse Reactions (6.2)].
+
+Antimicrobial prophylaxis may be indicated in certain cases of neutropenia at the discretion of the managing physician.
+In case of neutropenic fever, antibiotic therapy is indicated.
+Antimycotics and/or antivirals may also be indicated.
+
+Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed.
+Cyclophosphamide Injection should not be administered to patients with neutrophils ≤1,500/mm3 and platelets < 50,000/mm3.
+Cyclophosphamide Injection treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious infection.
+G-CSF may be administered to reduce the risks of neutropenia complications associated with cyclophosphamide use.
+Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for neutropenia complications.
+The nadirs of the reduction in leukocyte count and thrombocyte count are usually reached in weeks 1 and 2 of treatment.
+Peripheral blood cell counts are expected to normalize after approximately 20 days.
+Bone marrow failure has been reported.
+Severe myelosuppression may be expected particularly in patients pretreated with and/or receiving concomitant chemotherapy and/or radiation therapy.
+
+## 5.2 Urinary Tract and Renal Toxicity
+
+Hemorrhagic cystitis, pyelitis, ureteritis, and hematuria have been reported with cyclophosphamide.
+Medical and/or surgical supportive treatment may be required to treat protracted cases of severe hemorrhagic cystitis.
+Discontinue Cyclophosphamide Injection therapy in case of severe hemorrhagic cystitis.
+Urotoxicity (bladder ulceration, necrosis, fibrosis, contracture and secondary cancer) may require interruption of cyclophosphamide treatment or cystectomy.
+Urotoxicity can be fatal.
+Urotoxicity can occur with short-term or long-term use of cyclophosphamide.
+
+Before starting treatment, exclude or correct any urinary tract obstructions [see Contraindications (4)].
+Urinary sediment should be checked regularly for the presence of erythrocytes and other signs of urotoxicity and/or nephrotoxicity.
+Cyclophosphamide Injection should be used with caution, if at all, in patients with active urinary tract infections.
+Aggressive hydration with forced diuresis and frequent bladder emptying can reduce the frequency and severity of bladder toxicity.
+Mesna has been used to prevent severe bladder toxicity.
+
+## 5.3 Cardiotoxicity
+
+Myocarditis, myopericarditis, pericardial effusion including cardiac tamponade, and congestive heart failure, which may be fatal, have been reported with cyclophosphamide therapy.
+
+Supraventricular arrhythmias (including atrial fibrillation and flutter) and ventricular arrhythmias (including severe QT prolongation associated with ventricular tachyarrhythmia) have been reported after treatment with regimens that included cyclophosphamide.
+
+The risk of cardiotoxicity may be increased with high doses of cyclophosphamide, in patients with advanced age, and in patients with previous radiation treatment to the cardiac region and/or previous or concomitant treatment with other cardiotoxic agents.
+
+Particular caution is necessary in patients with risk factors for cardiotoxicity and in patients with pre-existing cardiac disease.
+
+Monitor patients with risk factors for cardiotoxicity and with pre-existing cardiac disease.
+
+## 5.4 Pulmonary Toxicity
+
+Pneumonitis, pulmonary fibrosis, pulmonary veno-occlusive disease and other forms of pulmonary toxicity leading to respiratory failure have been reported during and following treatment with cyclophosphamide.
+Late onset pneumonitis (greater than 6 months after start of cyclophosphamide) appears to be associated with increased mortality.
+Pneumonitis may develop years after treatment with cyclophosphamide.
+
+Monitor patients for signs and symptoms of pulmonary toxicity.
+
+## 5.5 Secondary Malignancies
+
+Cyclophosphamide is genotoxic [see Nonclinical Toxicology (13.1)].
+Secondary malignancies (urinary tract cancer, myelodysplasia, acute leukemias, lymphomas, thyroid cancer, and sarcomas) have been reported in patients treated with cyclophosphamide-containing regimens.
+The risk of bladder cancer may be reduced by prevention of hemorrhagic cystitis.
+
+## 5.6 Veno-occlusive Liver Disease
+
+Veno-occlusive liver disease (VOD) including fatal outcome has been reported in patients receiving cyclophosphamide-containing regimens.
+A cytoreductive regimen in preparation for bone marrow transplantation that consists of Cyclophosphamide Injection in combination with whole-body irradiation, busulfan, or other agents has been identified as a major risk factor.
+VOD has also been reported to develop gradually in patients receiving long-term low-dose immunosuppressive doses of cyclophosphamide.
+Other risk factors predisposing to the development of VOD include preexisting disturbances of hepatic function, previous radiation therapy of the abdomen, and a low performance status.
+
+## 5.7 Alcohol Content
+
+Due to the alcohol and propylene glycol content of this product, this cyclophosphamide product is not indicated for use in pediatric patients [see Indications and Usage (1) and Use in Specific Populations (8.4)].
+If treatment with cyclophosphamide is indicated for a pediatric patient, use a different cyclophosphamide product.
+
+The alcohol content in a dose of Cyclophosphamide Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+Consideration should be given to the alcohol content in Cyclophosphamide Injection on the ability to drive or use machines immediately after the infusion.
+Each administration of this cyclophosphamide product at 25 mg/kg/day delivers 146.2 mg/kg of ethanol.
+For a patient with a BSA of 70 kg, this would deliver 10.23 grams of ethanol.
+Other cyclophosphamide products may have a different amount of alcohol or no alcohol.
+
+Monitor patients for signs of alcohol intoxication during and after treatment.
+Counsel patients about the possible effects of the alcohol content in this cyclophosphamide product, including possible effects on the central nervous system.
+
+## 5.8 Embryo-Fetal Toxicity
+
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1), and Nonclinical Toxicology (13.1)].
+Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
+Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits, and monkeys.
+
+Advise pregnant women and female patients of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after completion of therapy.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.3)].
+
+## 5.9 Infertility
+
+Male and female reproductive function and fertility may be impaired in patients being treated with cyclophosphamide.
+Cyclophosphamide interferes with oogenesis and spermatogenesis.
+It may cause sterility in both sexes.
+Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
+Cyclophosphamide-induced sterility may be irreversible in some patients.
+Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3 and 8.4)].
+
+## 5.10 Impairment of Wound Healing
+
+Cyclophosphamide may interfere with normal wound healing.
+
+## 5.11 Hyponatremia
+
+Hyponatremia associated with increased total body water, acute water intoxication, and a syndrome resembling SIADH (syndrome of inappropriate secretion of antidiuretic hormone), which may be fatal, has been reported.

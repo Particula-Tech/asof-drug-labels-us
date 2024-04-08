@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA217150"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3528-10",
+    "0781-3528-75",
+    "0781-3529-10",
+    "0781-3529-70",
+    "0781-3530-10",
+    "0781-3530-80"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "cf2f4b95-0327-499a-a5a3-51b1bdef68c5",
+  "source": "dailymed"
+}
