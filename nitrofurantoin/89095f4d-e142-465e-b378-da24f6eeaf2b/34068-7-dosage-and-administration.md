@@ -1,30 +1,20 @@
-# DOSAGE & ADMINISTRATION
+# 2 DOSAGE & ADMINISTRATION
 
-Nitrofurantoin should be given with food to improve drug absorption and, in some patients, tolerance.
-Adults 50 mg to 100 mg four times a day -- the lower dosage level is recommended for uncomplicated urinary tract infections.
-Pediatric Patients (1 month of Age and Older) 5 mg/kg to 7 mg/kg of body weight per 24 hours, given in four divided doses.
-Nitrofurantoin is contraindicated in pediatric patients under one month of age (see CONTRAINDICATIONS).
-Table 1 lists individual dosage volumes for two different strengths of Nitrofurantoin oral suspension (25 mg/5 mL and 50 mg/5 mL) based on body weight for pediatric patients.
+## 2.1 Recommended Dosage and Administration in Adult Patients
 
-Table 1: Furadantin Pediatric Dosing Table for Pediatric Patients 1 month of Age and Older
+The recommended dosage is 50 mg to 100 mg of nitrofurantoin oral suspension four times a day.
+For long-term suppressive therapy in adults, a reduction of dosage to 50 mg to 100 mg at bedtime may be adequate.
+The benefits of long-term suppressive therapy should be balanced against the increased potential for systemic toxicity and for the development of antibacterial resistance [see Warnings and Precautions (5.2, 5.4, 5.6)].
+Administer nitrofurantoin oral suspension with food to improve drug absorption [see Clinical Pharmacology (12.3)] and, in some patients, tolerance.
 
-| Weight in Kilograms (kg) | Pediatric Doses (mL), Frequency: Four times Daily |  |
-| --- | --- | --- |
-| 25 mg/5 mL oral suspension | 50 mg/5 mL oral suspension |  |
-| 4 kg or lower | 1 | 0.5 |
-| Greater than 4 kg to 5 kg | 1.4 | 0.7 |
-| Greater than 5 kg to 7 kg | 1.8 | 0.9 |
-| Greater than 7 kg to 10 kg | 2.5 | 1.25 |
-| Greater than 10 kg to 14 kg | 3.5 | 1.75 |
-| Greater than 14 kg to 20 kg | 5 | 2.5 |
-| Greater than 20 kg to 25 kg | 7 | 3.5 |
-| Greater than 25 kg to 30 kg | 8.5 | 4.25 |
-| Greater than 30 kg to 40 kg | 10 | 5 |
-| 40 kg or greater | See Adult Dose | See Adult Dose |
+## 2.2 Recommended Dosage and Administration in Pediatric Patients (1 month of age and older)
 
-To measure the correct pediatric doses, it is important to administer Nitrofurantoin oral suspension with an appropriate size oral dosing syringe with graduations that align with the volume prescribed.
-Therapy should be continued for one week or for at least 3 days after sterility of the urine is obtained.
+The recommended dosage of nitrofurantoin oral suspension is 5 mg/kg to 7 mg/kg of body weight per 24 hours, given in four divided doses in pediatric patients aged 1 month and older.
+Administer nitrofurantoin oral suspension with food to improve drug absorption [see Clinical Pharmacology (12.3)] and, in some patients, tolerance.
+Table 1 lists individual dosage volumes for two different strengths of nitrofurantoin oral suspension (25 mg/5 mL and 50 mg/5 mL) based on body weight for pediatric patients.
+Table 1: Nitrofurantoin Oral Suspension Pediatric Dosing Table for Pediatric Patients 1 month of Age and Older
+
+To measure the correct pediatric doses, it is important to administer nitrofurantoin oral suspension with an appropriate size oral dosing syringe with graduations that align with the volume prescribed in Table 1 above.
+Continue therapy for one week or for at least 3 days after sterility of the urine is obtained.
 Continued infection indicates the need for reevaluation.
-For long-term suppressive therapy in adults, a reduction of dosage to 50-100 mg at bedtime may be adequate.
-For long-term suppressive therapy in pediatric patients, doses as low as 1 mg/kg per 24 hours, given in a single dose or in two divided doses, may be adequate.
-SEE WARNINGS SECTION REGARDING RISKS ASSOCIATED WITH LONG TERM THERAPY.
+For long-term suppressive therapy in pediatric patients, doses as low as 1 mg/kg per 24 hours, given in a single dose or in two divided doses, may be adequate [see Warnings and Precautions (5.2, 5.4, 5.6)].

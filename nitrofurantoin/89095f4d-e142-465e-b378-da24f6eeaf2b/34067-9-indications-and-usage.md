@@ -1,11 +1,7 @@
-# INDICATIONS & USAGE
+# 1 INDICATIONS & USAGE
 
-Nitrofurantoin is specifically indicated for the treatment of urinary tract infections when due to susceptible strains of Escherichia coli, enterococci, Staphylococcus aureus, and certain susceptible strains of Klebsiella and Enterobacter species.
-
-Nitrofurantoin is not indicated for the treatment of pyelonephritis or perinephric abscesses.
-
-Nitrofurantoins lack the broader tissue distribution of other therapeutic agents approved for urinary tract infections.
-Consequently, many patients who are treated with nitrofurantoin are predisposed to persistence or reappearance of bacteriuria.
-Urine specimens for culture and susceptibility testing should be obtained before and after completion of therapy.
-If persistence or reappearance of bacteriuria occurs after treatment with Nitrofurantoin, other therapeutic agents with broader tissue distribution should be selected.
-In considering the use of Nitrofurantoin, lower eradication rates should be balanced against the increased potential for systemic toxicity and for the development of antimicrobial resistance when agents with broader tissue distribution are utilized.
+Nitrofurantoin oral suspension is indicated in adults and pediatric patients 1 month of age and older for the treatment of urinary tract infections due to susceptible strains of Escherichia coli, Enterococcus species, Staphylococcus aureus, Klebsiella species and Enterobacter species.
+Limitations of Use Nitrofurantoin oral suspension is not indicated for the treatment of pyelonephritis or perinephric abscesses [see Warnings and Precautions (5.7)].
+Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of nitrofurantoin oral suspension and other antibacterial drugs, nitrofurantoin oral suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

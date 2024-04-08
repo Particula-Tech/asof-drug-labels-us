@@ -1,6 +1,6 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Occasional incidents of acute overdosage of Nitrofurantoin have not resulted in any specific symptoms other than vomiting.
+Incidents of acute overdosage of nitrofurantoin have resulted in symptoms such as vomiting.
 Induction of emesis is recommended.
 There is no specific antidote, but a high fluid intake should be maintained to promote urinary excretion of the drug.
-It is dialyzable.
+Nitrofurantoin is dialyzable.
