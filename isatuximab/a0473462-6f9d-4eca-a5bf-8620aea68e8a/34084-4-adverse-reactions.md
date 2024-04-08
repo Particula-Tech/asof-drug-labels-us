@@ -35,10 +35,10 @@ Table 3 summarizes the adverse reactions in ICARIA-MM.
 
 Table 3: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Pomalidomide, and Dexamethasone with a Difference Between Arms of ≥5% Compared to Control Arm in ICARIA-MM Trial
 
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | SARCLISA + Pomalidomide + Dexamethasone (Isa-Pd) |  |  | Pomalidomide + Dexamethasone (Pd) |  |  |
-| (N=152) |  |  | (N=149) |  |  |  |
+|  | (N=152) |  |  | (N=149) |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |  |
 | Infusion-related reactionInfusion-related reaction includes infusion-related reaction, cytokine release syndrome, and drug hypersensitivity. | 38 | 1.3 | 1.3 | 0 | 0 | 0 |
 | Infections |  |  |  |  |  |  |
@@ -58,10 +58,10 @@ Table 4 summarizes the hematology laboratory abnormalities in ICARIA-MM.
 
 Table 4: Hematology Laboratory Abnormalities During the Treatment Period in Patients Receiving Isa-Pd versus Pd in ICARIA-MM
 
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | SARCLISA + Pomalidomide + Dexamethasone (Isa-Pd) |  |  | Pomalidomide + Dexamethasone (Pd) |  |  |
-| (N=152) |  |  | (N=149) |  |  |  |
+|  | (N=152) |  |  | (N=149) |  |  |
 | Hemoglobin decreased | 99 | 32 | 0 | 97 | 28 | 0 |
 | Neutrophils decreased | 96 | 24 | 61 | 92 | 38 | 31 |
 | Lymphocytes decreased | 92 | 42 | 13 | 92 | 35 | 8 |
@@ -91,10 +91,10 @@ Table 5 summarizes the adverse reactions in IKEMA.
 
 Table 5: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Carfilzomib, and Dexamethasone with a Difference Between Arms of ≥5% Compared to Control Arm in IKEMA
 
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | SARCLISA + Carfilzomib + Dexamethasone (Isa-Kd) |  |  | Carfilzomib + Dexamethasone (Kd) |  |  |
-| (N=177) |  |  | (N=122) |  |  |  |
+|  | (N=177) |  |  | (N=122) |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |  |
 | Infusion-related reactionInfusion-related reaction includes infusion-related reaction, cytokine release syndrome, and hypersensitivity. | 46 | 0.6 | 0 | 3.3 | 0 | 0 |
 | FatigueFatigue includes fatigue and asthenia. | 42 | 5 | 0 | 32 | 3.3 | 0 |
@@ -115,10 +115,10 @@ Table 6 summarizes the hematology laboratory abnormalities in IKEMA.
 
 Table 6: Hematology Laboratory Abnormalities During the Treatment Period in Patients Receiving Isa-Kd versus Kd in IKEMA
 
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Parameter | SARCLISA + Carfilzomib + Dexamethasone (Isa-Kd) |  |  | Carfilzomib + Dexamethasone (Kd) |  |  |
-| (N=177) |  |  | (N=122) |  |  |  |
+|  | (N=177) |  |  | (N=122) |  |  |
 | Hemoglobin decreased | 99 | 22 | 0 | 99 | 20 | 0 |
 | Lymphocytes decreased | 94 | 52 | 17 | 95 | 43 | 14 |
 | Platelets decreased | 94 | 19 | 11 | 88 | 16 | 8 |

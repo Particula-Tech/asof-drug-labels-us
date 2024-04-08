@@ -33,9 +33,8 @@ Efficacy results are presented in Table 7 and Kaplan-Meier curve for PFS is prov
 
 Table 7: Efficacy of SARCLISA in Combination with Pomalidomide and Dexamethasone versus Pomalidomide and Dexamethasone in the Treatment of Multiple Myeloma (ICARIA-MM)
 
-|  | N=154 | N=153 |
+| Endpoint | SARCLISA + Pomalidomide + Dexamethasone N=154 | Pomalidomide + Dexamethasone N=153 |
 | --- | --- | --- |
-| Endpoint | SARCLISA + Pomalidomide + Dexamethasone | Pomalidomide + Dexamethasone |
 | Progression-Free Survival |  |  |
 | Median (months) [95% CI] | 11.53 [8.94–13.9] | 6.47 [4.47–8.28] |
 | Hazard ratioStratified-on age (<75 years versus ≥75 years) and number of previous lines of therapy (2 or 3 vs >3) according to IRT. [95% CI] | 0.596 [0.44–0.81] |  |
@@ -86,13 +85,12 @@ Efficacy results are presented in Table 8 and Kaplan-Meier curves for PFS are pr
 
 Table 8Results are based on a prespecified interim analysis.,Median follow-up time 20.7 months.: Efficacy of SARCLISA in Combination with Carfilzomib and Dexamethasone versus Carfilzomib and Dexamethasone in the Treatment of Multiple Myeloma (IKEMA)
 
-|  | N=179 | N=123 |
+| Endpoint | SARCLISA + Carfilzomib + Dexamethasone N=179 | Carfilzomib + Dexamethasone N=123 |
 | --- | --- | --- |
-| Endpoint | SARCLISA + Carfilzomib + Dexamethasone | Carfilzomib + Dexamethasone |
 | Progression-Free SurvivalPFS results were assessed by the IRC based on central laboratory data for M-protein and central radiologic imaging review using the IMWG criteria. A comparison is considered statistically significant if the p-value is <0.008 (efficacy boundary). |  |  |
 | Median (months) [95% CI] | NR [NR– NR] | 20.27 [15.77– NR] |
-| Hazard ratio [95% CI] | 0.548 [0.366–0.822] |  |
-| p-value (stratified log-rank test)Stratified on number of previous lines of therapy (1 versus >1) and R-ISS (I or II versus III versus not classified) according to IRT. | 0.0032 |  |
+| Hazard ratioStratified on number of previous lines of therapy (1 versus >1) and R-ISS (I or II versus III versus not classified) according to IRT. [95% CI] | 0.548 [0.366–0.822] |  |
+| p-value (stratified log-rank test) | 0.0032 |  |
 | Overall Response RatesCR, CR, VGPR, and PR were evaluated by the IRC using the IMWG response criteria. Responders (sCR+CR+VGPR+PR) n (%) [95% CI]Estimated using Clopper-Pearson method. | 155 (86.6) [80.7–91.2] | 102 (82.9) [75.1–89.1] |
 | p-value (stratified Cochran-Mantel-Haenszel) | 0.3859 |  |
 | Complete Response (CR) n (%) | 71 (39.7) | 34 (27.6) |
