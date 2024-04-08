@@ -6,7 +6,7 @@ The structural formula of temozolomide, USP is:
 
 The material is a white to light tan/light pink powder with a molecular formula of C6H6N6O2 and a molecular weight of 194.15.
 The molecule is stable at acidic pH (< 5) and labile at pH > 7; hence temozolomide, USP can be administered orally.
-The prodrug, temozolomide, USP, is rapidly hydrolyzed to the active 5-(3-methyltriazen-1-yl) imidazole-4-carboxamide (MTIC) at neutral and alkaline pH values, with hydrolysis taking place even faster at alkaline pH.
+The prodrug, temozolomide, USP is rapidly hydrolyzed to the active 5-(3-methyltriazen-1-yl) imidazole-4-carboxamide (MTIC) at neutral and alkaline pH values, with hydrolysis taking place even faster at alkaline pH.
 
 Temozolomide capsules, USP:
 

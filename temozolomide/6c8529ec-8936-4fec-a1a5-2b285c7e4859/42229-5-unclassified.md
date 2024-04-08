@@ -6,7 +6,7 @@ Dispense enclosed Patient Package Insert to each patient.
 
 PHARMACIST INFORMATION SHEET
 
-| IMPORTANT DISPENSING INFORMATIONFor every patient, dispense temozolomide in a separate vial or in its original package, making sure each container lists the strength per capsule and that patients take the appropriate number of capsules from each package or vial. Please see the dispensing instructions below for more information. |
+| IMPORTANT DISPENSING INFORMATIONFor every patient, dispense temozolomide in its original package, making sure each container lists the strength per capsule and that patients take the appropriate number of capsules from each package. Please see the dispensing instructions below for more information. |
 | --- |
 
 What is temozolomide?
@@ -15,7 +15,7 @@ What is temozolomide?
 Temozolomide is an oral alkylating agent for the treatment of newly diagnosed glioblastoma multiforme and refractory anaplastic astrocytoma.
 
 How is temozolomide dosed?
-[See Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.1), Recommended Dosage and Dosage Modifications for Refractory Anaplastic Astrocytoma (2.2).]
+[See Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.2), Recommended Dosage and Dosage Modifications for Anaplastic Astrocytoma (2.3).]
 
 The physician calculates the daily dose of temozolomide capsules for a given patient based on the patient’s body surface area (BSA).
 Round off the resulting dose to the nearest 5 mg.
@@ -23,20 +23,20 @@ An example of the dosing may be as follows: the initial daily dose of temozolomi
 Adjust the dose for subsequent cycles according to nadir neutrophil and platelet counts in the previous cycle and at the time of initiating the next cycle.
 
 How might the dose of temozolomide be modified for Refractory Anaplastic Astrocytoma?
-[See Full Prescribing Information, Recommended Dosage and Dosage Modifications for Refractory Anaplastic Astrocytoma (2.2).]
+[See Full Prescribing Information, Recommended Dosage and Dosage Modifications for Anaplastic Astrocytoma (2.3).]
 
 The initial dose is 150 mg/m2 orally once daily for 5 consecutive days per 28-day treatment cycle.
-Increase the temozolomide dose to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle if both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are greater than or equal to 1.5 x 109/L (1500/μL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 x 109/L (100,000/μL).
-During treatment, obtain a complete blood count on Day 22 (21 days after the first dose), and weekly until the ANC is above 1.5 x 109/L (1500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
+Increase the temozolomide dose to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle if both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are greater than or equal to 1.5 x 109/L (1,500/μL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 x 109/L (100,000/μL).
+During treatment, obtain a complete blood count on Day 22 (21 days after the first dose), and weekly until the ANC is above 1.5 x 109/L (1,500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
 Do not start the next cycle of temozolomide until the ANC and platelet count exceed these levels.
-If the ANC falls to less than 1.0 x 109/L (1000/μL) or the platelet count is less than 50 x 109/L (50,000/μL) during any cycle, reduce the dose for the next cycle by 50 mg/m2.
+If the ANC falls to less than 1.0 x 109/L (1,000/μL) or the platelet count is less than 50 x 109/L (50,000/μL) during any cycle, reduce the dose for the next cycle by 50 mg/m2.
 Permanently discontinue temozolomide in patients who are unable to tolerate a dose of 100 mg/m2 per day.
 
 Patients should continue taking temozolomide until their physician determines that their disease has progressed or until unacceptable side effects or toxicities occur.
 In the clinical trial, treatment could be continued for a maximum of 2 years, but the optimum duration of therapy is not known.
 Physicians may alter the treatment regimen for a given patient.
 
-Dosing for Patients with Newly Diagnosed Glioblastoma Multiforme [See Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.1).]
+Dosing for Patients with Newly Diagnosed Glioblastoma Multiforme [See Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.2).]
 
 Concomitant Phase Treatment Schedule
 
@@ -44,7 +44,7 @@ Administer temozolomide orally at 75 mg/m2 daily for 42 days concomitant with fo
 No dose reductions are recommended; however, dose interruptions may occur based on patient tolerance.
 Continue the temozolomide dose throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 x 109/L, platelet count greater than or equal to 100 x109/L, and nonhematological adverse reactions less than or equal to Grade 1 (except for alopecia, nausea and vomiting).
 During treatment, obtain a complete blood count weekly.
-Interrupt or discontinue temozolomide dosing during the concomitant phase according to the hematological and nonhematological toxicity criteria [see Table 1 in the Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.1)].
+Interrupt or discontinue temozolomide dosing during the concomitant phase according to the hematological and nonhematological toxicity criteria [see Table 1 in the Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.2)].
 Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of temozolomide and radiotherapy, and should be continued in patients who develop lymphocytopenia until resolution to Grade 1 or less.
 
 Maintenance Phase Treatment Schedule
@@ -55,13 +55,13 @@ At the start of Cycle 2, escalate the dose to 200 mg/m2, if the nonhematologic a
 If the dose was not escalated at Cycle 2, do not escalate the dose in subsequent cycles.
 Maintain the dose at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 
-During treatment, obtain a complete blood count on Day 22 (21 days after the first dose) and weekly until the ANC is above 1.5 x 109/L (1500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
+During treatment, obtain a complete blood count on Day 22 (21 days after the first dose) and weekly until the ANC is above 1.5 x 109/L (1,500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
 Do not start the next cycle of temozolomide until the ANC and platelet count exceed these levels.
 Base dose reductions during the next cycle on the lowest blood counts and worst nonhematologic adverse reactions during the previous cycle.
-Apply dose reductions or discontinuations during the maintenance phase [see Table 2 in the Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.1)].
+Apply dose reductions or discontinuations during the maintenance phase [see Table 2 in the Full Prescribing Information, Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma (2.2)].
 
 How is temozolomide taken?
-[See Full Prescribing Information, Preparation and Administration, temozolomide capsules (2.3).]
+[See Full Prescribing Information, Preparation and Administration, Temozolomide capsules (2.4).]
 
 Advise patients to take each day’s dose with a full glass of water, preferably on an empty stomach or at bedtime.
 Taking the medication on an empty stomach or at bedtime may help ease nausea.
@@ -115,11 +115,11 @@ The 250 mg capsule strength is available in a 5 count package.
 
 How is temozolomide dispensed?
 
-Dispense each strength of temozolomide in a separate vial or in its original package (one strength per one container).
+Dispense each strength of temozolomide in its original package (one strength per one container).
 Follow the instructions below: Based on the dose prescribed, determine the number of each strength of temozolomide capsules needed for the full 42- or 5-day cycle as prescribed by the physician.
 For example, in a 5-day cycle, 275 mg/day would be dispensed as five 250-mg capsules, five 20-mg capsules and five 5-mg capsules.
 Label each container with the appropriate number of capsules to be taken each day.
-Dispense to the patient, making sure each container lists the strength (mg) per capsule and that he or she understands to take the appropriate number of capsules of temozolomide from each package or vial to equal the total daily dose prescribed by the physician.
+Dispense to the patient, making sure each container lists the strength (mg) per capsule and that he or she understands to take the appropriate number of capsules of temozolomide from each package to equal the total daily dose prescribed by the physician.
 
 How can temozolomide be ordered?
 
@@ -149,13 +149,13 @@ For example:
 References:
 
 “OSHA Hazardous Drugs.”
-OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.
+OSHA. http://www.osha.gov/hazardous-drugs
 
 Distributed by:
 
-Amneal Pharmaceuticals
+Amneal Pharmaceuticals LLC
 
 Bridgewater, NJ 08807
 
 Rev.
-01-2022-03
+02-2024-04
