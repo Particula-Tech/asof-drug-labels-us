@@ -7,8 +7,8 @@ Morphine sulfate extended-release capsules should be prescribed only by healthca
 Morphine sulfate extended-release 100 mg capsules, a single dose greater than 60 mg, or a total daily dose greater than 120 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
 Patients considered opioid-tolerant are those taking, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone daily, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
-- Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5.1)].
-  Reserve titration to higher doses of morphine sulfate extended-release capsules for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+- Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of morphine sulfate extended-release capsules for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
 Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with morphine sulfate extended-release capsules.

@@ -6,7 +6,7 @@ The following serious adverse reactions are described, or described in greater d
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - Risks from Concomitant Use with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.3)]
-- Opioid-Induced Hyperalgesia and Allodynia [See Warnings and Precautions (5.6)]
+- Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.6)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.9)]
 - Severe Hypotension [see Warnings and Precautions (5.10)]
 - Risks of Use in Patients with Gastrointestinal Conditions [see Warnings and Precautions (5.12)]

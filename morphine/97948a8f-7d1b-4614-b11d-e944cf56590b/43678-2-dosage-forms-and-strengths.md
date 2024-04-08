@@ -2,16 +2,16 @@
 
 Morphine sulfate extended-release capsules contain white to off-white or tan colored polymer coated pellets, have an outer opaque capsule with colors as identified below and are available in seven dose strengths:
 
-10 mg size 4 capsule, light blue opaque cap and body printed with "UPSHER-SMITH" over "0225" on the cap and "10 mg" on the body in black ink.
+10 mg, size 4, light blue, opaque capsule printed with "UPSHER-SMITH" over "0225" and "10 mg" in black ink.
 
-20 mg size 4 capsule, yellow opaque cap and body printed with "UPSHER-SMITH" over "0226" on the cap and "20 mg" on the body in black ink.
+20 mg, size 4, yellow, opaque capsule printed with "UPSHER-SMITH" over "0226" and "20 mg" in black ink.
 
-30 mg size 2 capsule, blue violet opaque cap and body printed with "UPSHER-SMITH" over "0227" on the cap and "30 mg" on the body in black ink.
+30 mg, size 2, blue violet, opaque capsule printed with "UPSHER-SMITH" over "0227" and "30 mg" in black ink.
 
-50 mg size 2 capsule, blue opaque cap and body printed with "UPSHER-SMITH" over "0228" on the cap and "50 mg" on the body in black ink.
+50 mg, size 2, blue, opaque capsule printed with "UPSHER-SMITH" over "0228" and "50 mg" in black ink.
 
-60 mg size 1 capsule, pink opaque cap and body printed with "UPSHER-SMITH" over "0229" on the cap and "60 mg" on the body in black ink.
+60 mg, size 1, pink, opaque capsule printed with "UPSHER-SMITH" over "0229" and "60 mg" in black ink.
 
-80 mg size 1 capsule, light orange opaque cap and body printed with "UPSHER-SMITH" over "0230" on the cap and "80 mg" on the body in black ink.
+80 mg, size 1, light orange, opaque capsule printed with "UPSHER-SMITH" over "0230" and "80 mg" in black ink.
 
-100 mg size 0 capsule, green opaque cap and body printed with "UPSHER-SMITH" over "0233" on the cap and "100 mg" on the body in black ink.
+100 mg, size 0, green, opaque capsule printed with "UPSHER-SMITH" over "0233" and "100 mg" in black ink.

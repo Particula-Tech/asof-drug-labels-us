@@ -2,11 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Storage and Disposal
-
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving morphine sulfate extended-release capsules unsecured can pose a deadly risk to others in the home.
-
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused morphine sulfate extended-release capsules should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
 Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
@@ -61,7 +56,7 @@ Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.2), Drug Interactions (7)].
 
 MAOI Interaction
 
@@ -123,3 +118,8 @@ Infertility
 
 Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].
+
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving morphine sulfate extended-release capsules unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].

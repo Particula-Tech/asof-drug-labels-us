@@ -50,11 +50,11 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.3), Patient Counseling Information (17)].
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3), Overdosage (10)].
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of morphine sulfate with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of morphine sulfate with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
@@ -75,7 +75,7 @@ The co-ingestion of alcohol with morphine sulfate extended-release capsules may 
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
-Use of morphine sulfate extended-release capsules during pregnancy can result in withdrawal in the neonate.
+Use of morphine sulfate extended-release capsules for an extended period of time during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
@@ -115,7 +115,7 @@ Patients with Chronic Pulmonary Disease: Morphine sulfate extended-release capsu
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Regularly evaluate patients closely, particularly when initiating and titrating morphine sulfate extended-release capsules and when morphine sulfate extended-release capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Regularly evaluate patients, particularly when initiating and titrating morphine sulfate extended-release capsules and when morphine sulfate extended-release capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## 5.8 Interaction with Monoamine Oxidase Inhibitors

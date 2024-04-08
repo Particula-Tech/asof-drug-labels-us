@@ -112,14 +112,14 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of morphine sulfate extended-release capsules slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
 
 Morphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 Morphine pharmacokinetics have been reported to be significantly altered in patients with cirrhosis.
-Start these patients with a lower than usual dosage of morphine sulfate extended-release capsules and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Start these patients with a lower than usual dosage of morphine sulfate extended-release capsules and titrate slowly while regularly evaluating for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Morphine pharmacokinetics are altered in patients with renal failure.
-Start these patients with a lower than usual dosage of morphine sulfate extended-release capsules and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Start these patients with a lower than usual dosage of morphine sulfate extended-release capsules and titrate slowly while regularly evaluating for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
