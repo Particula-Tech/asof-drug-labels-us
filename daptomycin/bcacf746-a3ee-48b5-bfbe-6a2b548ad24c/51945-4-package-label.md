@@ -18,4 +18,4 @@ One Single-Dose Vial
 
 Discard Unused Portion
 
-CIVICA™
+CIVICA®
