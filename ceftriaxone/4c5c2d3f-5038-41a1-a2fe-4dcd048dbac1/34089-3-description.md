@@ -18,6 +18,6 @@ After thawing, the solution is intended for intravenous use.
 The pH of thawed solutions may range from 6.0 to 8.0.
 See HOW SUPPLIED for package description.
 
-The plastic container for the frozen solution is fabricated from a specially designed multilayer plastic, PL 2040.
+The plastic container for the frozen solution is fabricated from a specially designed multilayer plastic.
 Solutions are in contact with the polyethylene layer of this container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.
 The suitability of the plastic has been confirmed in tests in animals according to the USP biological tests for plastic containers as well as by tissue culture toxicity studies.

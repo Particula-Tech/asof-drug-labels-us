@@ -55,7 +55,7 @@ In addition to the adverse reactions listed above which have been observed in pa
 
 ### Adverse Reactions
 
-Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction, toxic nephropathy, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, hemorrhage, and superinfection.
+Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction, toxic nephropathy, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, hemorrhage, fall in prothrombin activity, and superinfection.
 
 ### Altered Laboratory Tests
 

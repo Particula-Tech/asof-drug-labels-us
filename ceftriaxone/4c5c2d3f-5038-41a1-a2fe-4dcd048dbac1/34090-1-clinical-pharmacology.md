@@ -67,7 +67,7 @@ Table 4
 | Mild (31-60 mL/min) | 12.4 | 0.70 | 13.3 |
 | Patients With Liver Disease | 8.8 | 1.1 | 13.6 |
 
-The elimination of ceftriaxone is not altered when Ceftriaxone Injection, USP is co-administered with probenecid.
+The elimination of ceftriaxone is not altered when Ceftriaxone Injection is co-administered with probenecid.
 
 ## Interaction with Calcium
 
@@ -144,7 +144,7 @@ Clostridium species
 
 Peptostreptococcus species
 
-NOTE: Most strains of Clostridium difficile are resistant.
+NOTE: Most strains of Clostridioides difficile are resistant.
 
 The following in vitro data are available, but their clinical significance is unknown.
 Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤1 mcg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.

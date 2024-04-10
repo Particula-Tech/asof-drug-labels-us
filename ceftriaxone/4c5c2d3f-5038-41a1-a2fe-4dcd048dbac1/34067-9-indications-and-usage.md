@@ -1,13 +1,13 @@
 # INDICATIONS AND USAGE
 
-Before instituting treatment with Ceftriaxone Injection, USP, appropriate specimens should be obtained for isolation of the causative organism and for determination of its susceptibility to the drug.
+Before instituting treatment with Ceftriaxone Injection, appropriate specimens should be obtained for isolation of the causative organism and for determination of its susceptibility to the drug.
 Therapy may be instituted prior to obtaining results of susceptibility testing.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone Injection, USP and other antibacterial drugs, Ceftriaxone Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone Injection and other antibacterial drugs, Ceftriaxone Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-Ceftriaxone Injection, USP is indicated for the treatment of the following infections when caused by susceptible organisms:
+Ceftriaxone Injection is indicated for the treatment of the following infections when caused by susceptible organisms:
 
 LOWER RESPIRATORY TRACT INFECTIONS caused by Streptococcus pneumoniae, Staphylococcus aureus, Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Escherichia coli, Enterobacter aerogenes, Proteus mirabilis or Serratia marcescens.
 
@@ -31,7 +31,7 @@ BACTERIAL SEPTICEMIA caused by Staphylococcus aureus, Streptococcus pneumoniae, 
 
 BONE AND JOINT INFECTIONS caused by Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Proteus mirabilis, Klebsiella pneumoniae or Enterobacter species.
 
-INTRA-ABDOMINAL INFECTIONS caused by Escherichia coli, Klebsiella pneumoniae, Bacteroides fragilis, Clostridium species (Note: most strains of Clostridium difficile are resistant) or Peptostreptococcus species.
+INTRA-ABDOMINAL INFECTIONS caused by Escherichia coli, Klebsiella pneumoniae, Bacteroides fragilis, Clostridium species (Note: most strains of Clostridioides difficile are resistant) or Peptostreptococcus species.
 
 MENINGITIS caused by Haemophilus influenzae, Neisseria meningitidis or Streptococcus pneumoniae.
 Ceftriaxone has also been used successfully in a limited number of cases of meningitis and shunt infection caused by Staphylococcus epidermidis* and Escherichia coli.*

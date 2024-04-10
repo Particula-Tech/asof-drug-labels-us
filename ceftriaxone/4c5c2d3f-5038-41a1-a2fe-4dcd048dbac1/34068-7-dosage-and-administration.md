@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Ceftriaxone Injection, USP is administered intravenously.
+Ceftriaxone Injection is administered intravenously.
 
 Do not further dilute ceftriaxone injection with products containing calcium, such as Ringer’s solution or Hartmann’s solution, because a precipitate can form.
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
@@ -11,7 +11,7 @@ There have been no reports of an interaction between ceftriaxone and oral calciu
 
 ## Neonates
 
-Hyperbilirubinemic neonates, especially prematures, should not be treated with Ceftriaxone Injection, USP (see CONTRAINDICATIONS).
+Hyperbilirubinemic neonates, especially prematures, should not be treated with Ceftriaxone Injection (see CONTRAINDICATIONS).
 
 Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CONTRAINDICATIONS).
 
@@ -38,7 +38,7 @@ If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial cov
 
 For preoperative use (surgical prophylaxis), a single dose of 1 gram administered intravenously 1/2 to 2 hours before surgery is recommended.
 
-Generally, Ceftriaxone Injection, USP therapy should be continued for at least 2 days after the signs and symptoms of infection have disappeared.
+Generally, Ceftriaxone Injection therapy should be continued for at least 2 days after the signs and symptoms of infection have disappeared.
 The usual duration of therapy is 4 to 14 days; in complicated infections, longer therapy may be required.
 
 When treating infections caused by Streptococcus pyogenes, therapy should be continued for at least 10 days.

@@ -2,7 +2,7 @@
 
 ## Hypersensitivity
 
-BEFORE THERAPY WITH CEFTRIAXONE INJECTION, USP IS INSTITUTED, CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEPHALOSPORINS, PENICILLINS OR OTHER DRUGS.
+BEFORE THERAPY WITH CEFTRIAXONE INJECTION IS INSTITUTED, CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEPHALOSPORINS, PENICILLINS OR OTHER DRUGS.
 THIS PRODUCT SHOULD BE GIVEN CAUTIOUSLY TO PENICILLIN-SENSITIVE PATIENTS.
 ANTIBIOTICS SHOULD BE ADMINISTERED WITH CAUTION TO ANY PATIENT WHO HAS DEMONSTRATED SOME FORM OF ALLERGY, PARTICULARLY TO DRUGS.
 SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE THE USE OF SUBCUTANEOUS EPINEPHRINE AND OTHER EMERGENCY MEASURES.
@@ -27,9 +27,9 @@ The neurological adverse reactions were reversible and resolved after discontinu
 If neurological adverse reactions associated with Ceftriaxone Injection therapy occur, discontinue Ceftriaxone Injection and institute appropriate supportive measures.
 Make appropriate dosage adjustments in patients with severe renal impairment (see DOSAGE AND ADMINISTRATION).
 
-## Clostridium difficile
+## Clostridioides difficile
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ceftriaxone Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ceftriaxone Injection and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -50,30 +50,30 @@ If a patient develops anemia while on ceftriaxone, the diagnosis of a cephalospo
 
 ## General
 
-Prescribing Ceftriaxone Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Ceftriaxone Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of Ceftriaxone Injection, USP is similar to that of other cephalosporins.
+Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of Ceftriaxone Injection is similar to that of other cephalosporins.
 
 Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
-Therefore, patients with mild to moderate renal impairment normally require no adjustment in dosage when usual doses of Ceftriaxone Injection, USP are administered.
+Therefore, patients with mild to moderate renal impairment normally require no adjustment in dosage when usual doses of Ceftriaxone Injection are administered.
 
-Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the Ceftriaxone Injection, USP dosage should not exceed 2 gm daily.
+Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the Ceftriaxone Injection dosage should not exceed 2 gm daily.
 
-Alterations in prothrombin times have occurred rarely in patients treated with ceftriaxone.
-Patients with impaired vitamin K synthesis or low vitamin K stores (e.g., chronic hepatic disease and malnutrition) may require monitoring of prothrombin time during Ceftriaxone Injection, USP treatment.
-Vitamin K administration (10 mg weekly) may be necessary if the prothrombin time is prolonged before or during therapy.
+Ceftriaxone has been associated with a fall in prothrombin activity.
+Those at risk include patients with renal or hepatic impairment or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy, and patients previously stabilized on anticoagulant therapy.
+Prothrombin time should be monitored in patients at risk and exogenous vitamin K administered as indicated.
 
-Prolonged use of Ceftriaxone Injection, USP may result in overgrowth of nonsusceptible organisms.
+Prolonged use of Ceftriaxone Injection may result in overgrowth of nonsusceptible organisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 
-Ceftriaxone Injection, USP should be prescribed with caution in individuals with a history of gastrointestinal disease, especially colitis.
+Ceftriaxone Injection should be prescribed with caution in individuals with a history of gastrointestinal disease, especially colitis.
 
 There have been reports of sonographic abnormalities in the gallbladder of patients treated with ceftriaxone; some of these patients also had symptoms of gallbladder disease.
 These abnormalities appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones.
 The chemical nature of the sonographically detected material has been determined to be predominantly a ceftriaxone-calcium salt.
 The condition appears to be transient and reversible upon discontinuation of ceftriaxone and institution of conservative management.
-Therefore, Ceftriaxone Injection, USP should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
+Therefore, Ceftriaxone Injection should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
 
 Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported rarely in patients treated with ceftriaxone.
 Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition).
@@ -84,10 +84,10 @@ A cofactor role of ceftriaxone related biliary precipitation cannot be ruled out
 Advise patients that neurological adverse reactions could occur with Ceftriaxone Injection use.
 Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and nonconvulsive status epilepticus, for immediate treatment, or discontinuation of Ceftriaxone Injection (see WARNINGS AND PRECAUTIONS).
 
-Patients should be counseled that antibacterial drugs including Ceftriaxone Injection, USP should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including Ceftriaxone Injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Ceftriaxone Injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ceftriaxone Injection, USP or other antibacterial drugs in the future.
+When Ceftriaxone Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ceftriaxone Injection or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -126,13 +126,13 @@ In rats, in the Segment I (fertility and general reproduction) and Segment III (
 ## Nursing Mothers
 
 Low concentrations of ceftriaxone are excreted in human milk.
-Caution should be exercised when Ceftriaxone Injection, USP is administered to a nursing woman.
+Caution should be exercised when Ceftriaxone Injection is administered to a nursing woman.
 
 ## Pediatric Use
 
-Safety and effectiveness of Ceftriaxone Injection, USP in neonates, infants and pediatric patients have been established for the dosages described in the DOSAGE AND ADMINISTRATION section.
+Safety and effectiveness of Ceftriaxone Injection in neonates, infants and pediatric patients have been established for the dosages described in the DOSAGE AND ADMINISTRATION section.
 In vitro studies have shown that ceftriaxone, like some other cephalosporins, can displace bilirubin from serum albumin.
-Ceftriaxone Injection, USP should not be administered to hyperbilirubinemic neonates, especially prematures (see CONTRAINDICATIONS).
+Ceftriaxone Injection should not be administered to hyperbilirubinemic neonates, especially prematures (see CONTRAINDICATIONS).
 
 ## Geriatric Use
 

@@ -1,10 +1,10 @@
 Rx Only
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone Injection, USP and other antibacterial drugs, Ceftriaxone Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone Injection and other antibacterial drugs, Ceftriaxone Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # DIRECTIONS FOR USE
 
-Ceftriaxone Injection, USP is for intravenous administration using sterile equipment.
+Ceftriaxone Injection is for intravenous administration using sterile equipment.
 It should be administered intravenously by infusion over a period of 30 minutes.
 
 Do not add supplementary medication.
@@ -49,11 +49,11 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Printed in USA
 
-Baxter and Galaxy are registered trademarks of Baxter International Inc.
+Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.
 
 ATCC is a trademark of the American Type Culture Collection.
 
-07-19-03-865
+07-19-06-948
 
 Rev.
-January 2022
+March 2024
