@@ -12,7 +12,7 @@ PHARMACIST: Dispense in original unit-dose container.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
@@ -29,4 +29,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-K 3/2021
+L 3/2024

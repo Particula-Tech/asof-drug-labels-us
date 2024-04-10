@@ -28,7 +28,7 @@ Based on the historical experience with Sandimmune (Cyclosporine Capsules USP), 
 |  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune (Cyclosporine Capsules USP)) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body System | Adverse Reactions | Sandimmune (Cyclosporine Capsules USP) (N = 227)% | Azathioprine (N = 228)% | Kidney (N = 705)% | Heart (N = 112)% | Liver (N = 75)% |
-| Genitourinary | Renal dysfunction | 32 | 6 | 25 | 38 | 37 |
+| Genitourinary | Renal Dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular | Hypertension | 26 | 18 | 13 | 53 | 27 |
 |  | Cramps | 4 | < 1 | 2 | < 1 | 0 |
 | Skin | Hirsutism | 21 | < 1 | 21 | 28 | 45 |
@@ -36,11 +36,11 @@ Based on the historical experience with Sandimmune (Cyclosporine Capsules USP), 
 | Central Nervous System | Tremor | 12 | 0 | 21 | 31 | 55 |
 |  | Convulsions | 3 | 1 | 1 | 4 | 5 |
 |  | Headache | 2 | < 1 | 2 | 15 | 4 |
-| Gastrointestinal | Gum hyperplasia | 4 | 0 | 9 | 5 | 16 |
+| Gastrointestinal | Gum Hyperplasia | 4 | 0 | 9 | 5 | 16 |
 |  | Diarrhea | 3 | < 1 | 3 | 4 | 8 |
 |  | Nausea/ Vomiting | 2 | < 1 | 4 | 10 | 4 |
 |  | Hepatotoxicity | < 1 | < 1 | 4 | 7 | 4 |
-|  | Abdominal discomfort | < 1 | 0 | < 1 | 7 | 0 |
+|  | Abdominal Discomfort | < 1 | 0 | < 1 | 7 | 0 |
 | Autonomic Nervous System | Paresthesia | 3 | 0 | 1 | 2 | 1 |
 |  | Flushing | < 1 | 0 | 4 | 0 | 4 |
 | Hematopoietic | Leukopenia | 2 | 19 | < 1 | 6 | 0 |
@@ -48,7 +48,7 @@ Based on the historical experience with Sandimmune (Cyclosporine Capsules USP), 
 | Respiratory | Sinusitis | < 1 | 0 | 4 | 3 | 7 |
 | Miscellaneous | Gynecomastia | < 1 | 0 | < 1 | 4 | 3 |
 
-Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
+Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
 
 The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (Cyclosporine Capsules USP MODIFIED), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
 
@@ -59,26 +59,25 @@ Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
 Fatal outcomes have been reported (see WARNINGS).
 
-Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune (Cyclosporine Capsules USP)
-
-| Complication | Cyclosporine Treatment (N = 227) % of Complications | Azathioprine with Steroids1 (N = 228) % of Complications |
+| Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune (Cyclosporine Capsules USP) |  |  |
 | --- | --- | --- |
+| Complication | Cyclosporine Treatment (N=227) % of Complications | Azathioprine with Steroids* (N=228) % of Complications |
 | Septicemia | 5.3 | 4.8 |
 | Abscesses | 4.4 | 5.3 |
-| Systemic fungal infection | 2.2 | 3.9 |
-| Local fungal infection | 7.5 | 9.6 |
+| Systemic Fungal Infection | 2.2 | 3.9 |
+| Local Fungal Infection | 7.5 | 9.6 |
 | Cytomegalovirus | 4.8 | 12.3 |
-| Other viral infections | 15.9 | 18.4 |
-| Urinary tract infections | 21.1 | 20.2 |
-| Wound and skin infections | 7 | 10.1 |
+| Other Viral Infections | 15.9 | 18.4 |
+| Urinary Tract Infections | 21.1 | 20.2 |
+| Wound and Skin Infections | 7.0 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
-| Some patients also received ALG |  |  |
+| *Some patients also received ALG. |  |  |
 
 ## Postmarketing Experience, Kidney, Liver and Heart Transplantation
 
 ### Hepatotoxicity
 
-Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
+Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
 
 ### Increased Risk of Infections
 
@@ -105,18 +104,15 @@ These elevations are likely to become more pronounced without dose reduction or 
 
 The following adverse events occurred in controlled clinical trials:
 
-Cyclosporine Capsules USP MODIFIED / Sandimmune (Cyclosporine Capsules USP) Rheumatoid Arthritis
-
-Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Group
-
-|  |  | Studies 651 + 652 + 2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies 651 + 652 + 2008 |
+| Cyclosporine Capsules USP MODIFIED/Sandimmune (Cyclosporine Capsules USP) Rheumatoid Arthritis Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Group |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Preferred Term | Sandimmune1 (Cyclosporine Capsules USP) (N = 269) | Sandimmune (Cyclosporine Capsules USP) (N = 155) | Methotrexate & Sandimmune (Cyclosporine Capsules USP) (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine Capsules USP MODIFIED (N = 143) | Placebo (N = 201) |
+|  |  | Studies 651 + 652 + 2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies 651 + 652 + 2008 |
+| Body System | Preferred Term | Sandimmune† (Cyclosporine Capsules USP) (N = 269) | Sandimmune (Cyclosporine Capsules USP) (N = 155) | Methotrexate & Sandimmune (Cyclosporine Capsules USP) (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine Capsules USP MODIFIED (N = 143) | Placebo (N = 201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
-| Body As a Whole-General Disorders |  |  |  |  |  |  |  |
-|  | Accidental trauma | 0% | 1% | 10% | 4% | 4% | 0% |
-|  | Edema NOS2 | 5% | 14% | 12% | 4% | 10% | < 1% |
+| Body As A Whole-General Disorders |  |  |  |  |  |  |  |
+|  | Accidental Trauma | 0% | 1% | 10% | 4% | 4% | 0% |
+|  | Edema NOS* | 5% | 14% | 12% | 4% | 10% | < 1% |
 |  | Fatigue | 6% | 3% | 8% | 12% | 3% | 7% |
 |  | Fever | 2% | 3% | 0% | 0% | 2% | 4% |
 |  | Influenza-like symptoms | < 1% | 6% | 1% | 0% | 3% | 2% |
@@ -124,7 +120,7 @@ Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Gr
 |  | Rigors | 1% | 1% | 4% | 0% | 3% | 1% |
 | Cardiovascular Disorders |  |  |  |  |  |  |  |
 |  | Arrhythmia | 2% | 5% | 5% | 6% | 2% | 1% |
-|  | Chest pain | 4% | 5% | 1% | 1% | 6% | 1% |
+|  | Chest Pain | 4% | 5% | 1% | 1% | 6% | 1% |
 |  | Hypertension | 8% | 26% | 16% | 12% | 25% | 2% |
 | Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Dizziness | 8% | 6% | 7% | 3% | 8% | 3% |
@@ -133,58 +129,58 @@ Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Gr
 |  | Paresthesia | 8% | 7% | 8% | 4% | 11% | 1% |
 |  | Tremor | 8% | 7% | 7% | 3% | 13% | 4% |
 | Gastrointestinal System Disorders |  |  |  |  |  |  |  |
-|  | Abdominal pain | 15% | 15% | 15% | 7% | 15% | 10% |
+|  | Abdominal Pain | 15% | 15% | 15% | 7% | 15% | 10% |
 |  | Anorexia | 3% | 3% | 1% | 0% | 3% | 3% |
 |  | Diarrhea | 12% | 12% | 18% | 15% | 13% | 8% |
 |  | Dyspepsia | 12% | 12% | 10% | 8% | 8% | 4% |
 |  | Flatulence | 5% | 5% | 5% | 4% | 4% | 1% |
-|  | Gastrointestinal disorder NOS2 | 0% | 2% | 1% | 4% | 4% | 0% |
+|  | Gastrointestinal Disorder NOS* | 0% | 2% | 1% | 4% | 4% | 0% |
 |  | Gingivitis | 4% | 3% | 0% | 0% | 0% | 1% |
-|  | Gum hyperplasia | 2% | 4% | 1% | 3% | 4% | 1% |
+|  | Gum Hyperplasia | 2% | 4% | 1% | 3% | 4% | 1% |
 |  | Nausea | 23% | 14% | 24% | 15% | 18% | 14% |
-|  | Rectal hemorrhage | 0% | 3% | 0% | 0% | 1% | 1% |
+|  | Rectal Hemorrhage | 0% | 3% | 0% | 0% | 1% | 1% |
 |  | Stomatitis | 7% | 5% | 16% | 12% | 6% | 8% |
 |  | Vomiting | 9% | 8% | 14% | 7% | 6% | 5% |
 | Hearing and Vestibular Disorders |  |  |  |  |  |  |  |
-|  | Ear disorder NOS2 | 0% | 5% | 0% | 0% | 1% | 0% |
+|  | Ear Disorder NOS* | 0% | 5% | 0% | 0% | 1% | 0% |
 | Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |
 |  | Hypomagnesemia | 0% | 4% | 0% | 0% | 6% | 0% |
 | Musculoskeletal System Disorders |  |  |  |  |  |  |  |
 |  | Arthropathy | 0% | 5% | 0% | 1% | 4% | 0% |
-|  | Leg cramps/ involuntary muscle contractions | 2% | 11% | 11% | 3% | 12% | 1% |
+|  | Leg Cramps / Involuntary Muscle Contractions | 2% | 11% | 11% | 3% | 12% | 1% |
 | Psychiatric Disorders |  |  |  |  |  |  |  |
 |  | Depression | 3% | 6% | 3% | 1% | 1% | 2% |
 |  | Insomnia | 4% | 1% | 1% | 0% | 3% | 2% |
 | Renal |  |  |  |  |  |  |  |
 |  | Creatinine elevations ≥ 30% | 43% | 39% | 55% | 19% | 48% | 13% |
 |  | Creatinine elevations ≥ 50% | 24% | 18% | 26% | 8% | 18% | 3% |
-| Reproduction Disorders, Female |  |  |  |  |  |  |  |
+| Reproductive Disorders, Female |  |  |  |  |  |  |  |
 |  | Leukorrhea | 1% | 0% | 4% | 0% | 1% | 0% |
-|  | Menstrual disorder | 3% | 2% | 1% | 0% | 1% | 1% |
+|  | Menstrual Disorder | 3% | 2% | 1% | 0% | 1% | 1% |
 | Respiratory System Disorders |  |  |  |  |  |  |  |
 |  | Bronchitis | 1% | 3% | 1% | 0% | 1% | 3% |
 |  | Coughing | 5% | 3% | 5% | 7% | 4% | 4% |
 |  | Dyspnea | 5% | 1% | 3% | 3% | 1% | 2% |
-|  | Infection NOS2 | 9% | 5% | 0% | 7% | 3% | 10% |
+|  | Infection NOS* | 9% | 5% | 0% | 7% | 3% | 10% |
 |  | Pharyngitis | 3% | 5% | 5% | 6% | 4% | 4% |
 |  | Pneumonia | 1% | 0% | 4% | 0% | 1% | 1% |
 |  | Rhinitis | 0% | 3% | 11% | 10% | 1% | 0% |
 |  | Sinusitis | 4% | 4% | 8% | 4% | 3% | 3% |
-|  | Upper respiratory tract | 0% | 14% | 23% | 15% | 13% | 0% |
+|  | Upper Respiratory Tract | 0% | 14% | 23% | 15% | 13% | 0% |
 | Skin and Appendages Disorders |  |  |  |  |  |  |  |
 |  | Alopecia | 3% | 0% | 1% | 1% | 4% | 4% |
-|  | Bullous eruption | 1% | 0% | 4% | 1% | 1% | 1% |
+|  | Bullous Eruption | 1% | 0% | 4% | 1% | 1% | 1% |
 |  | Hypertrichosis | 19% | 17% | 12% | 0% | 15% | 3% |
 |  | Rash | 7% | 12% | 10% | 7% | 8% | 10% |
-|  | Skin ulceration | 1% | 1% | 3% | 4% | 0% | 2% |
+|  | Skin Ulceration | 1% | 1% | 3% | 4% | 0% | 2% |
 | Urinary System Disorders |  |  |  |  |  |  |  |
 |  | Dysuria | 0% | 0% | 11% | 3% | 1% | 2% |
-|  | Micturition frequency | 2% | 4% | 3% | 1% | 2% | 2% |
-|  | NPN, increased | 0% | 19% | 12% | 0% | 18% | 0% |
-|  | Urinary tract infection | 0% | 3% | 5% | 4% | 3% | 0% |
+|  | Micturition Frequency | 2% | 4% | 3% | 1% | 2% | 2% |
+|  | NPN, Increased | 0% | 19% | 12% | 0% | 18% | 0% |
+|  | Urinary Tract Infection | 0% | 3% | 5% | 4% | 3% | 0% |
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |
 |  | Purpura | 3% | 4% | 1% | 1% | 2% | 0% |
-| Includes patients in 2.5 mg/kg/day dose group only.NOS = Not Otherwise Specified. |  |  |  |  |  |  |  |
+| †Includes patients in 2.5 mg/kg/day dose group only. *NOS = Not Otherwise Specified. |  |  |  |  |  |  |  |
 
 In addition, the following adverse events have been reported in 1% to < 3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
@@ -266,7 +262,7 @@ Abnormal urine, hematuria, increased BUN, micturition urgency, nocturia, polyuri
 
 The principal adverse reactions associated with the use of cyclosporine in patients with psoriasis are renal dysfunction, headache, hypertension, hypertriglyceridemia, hirsutism/hypertrichosis, paresthesia or hyperesthesia, influenza-like symptoms, nausea/vomiting, diarrhea, abdominal discomfort, lethargy, and musculoskeletal or joint pain.
 
-In psoriasis patients treated in US controlled clinical studies within the recommended dose range, cyclosporine therapy was discontinued in 1% of the patients because of hypertension and in 5.4% of the patients because of increased creatinine.
+In psoriasis patients treated in US controlled clinical studies within the recommended dose range, cyclosporine therapy was discontinued in 1.0% of the patients because of hypertension and in 5.4% of the patients because of increased creatinine.
 In the majority of cases, these changes were reversible after dose reduction or discontinuation of cyclosporine.
 
 There has been one reported death associated with the use of cyclosporine in psoriasis.
@@ -276,40 +272,39 @@ He had progressive renal failure leading to death.
 Frequency and severity of serum creatinine increases with dose and duration of cyclosporine therapy.
 These elevations are likely to become more pronounced and may result in irreversible renal damage without dose reduction or discontinuation.
 
-Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials
-
-| Body System1 | Preferred Term | Cyclosporine Capsules USP MODIFIED (N = 182) | Sandimmune (Cyclosporine Capsules USP) (N = 185) |
+| Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials |  |  |  |
 | --- | --- | --- | --- |
+| Body System* | Preferred Term | Cyclosporine Capsules USP MODIFIED (N = 182) | Sandimmune (Cyclosporine Capsules USP) (N = 185) |
 | Infection or Potential Infection |  | 24.7% | 24.3% |
-|  | Influenza-like symptoms | 9.9% | 8.1% |
-|  | Upper respiratory tract infections | 7.7% | 11.3% |
-| Cardiovascular System |  | 28% | 25.4% |
-|  | Hypertension2 | 27.5% | 25.4% |
+|  | Influenza-Like Symptoms | 9.9% | 8.1% |
+|  | Upper Respiratory Tract Infections | 7.7% | 11.3% |
+| Cardiovascular System |  | 28.0% | 25.4% |
+|  | Hypertension** | 27.5% | 25.4% |
 | Urinary System |  | 24.2% | 16.2% |
-|  | Increased creatinine | 19.8% | 15.7% |
+|  | Increased Creatinine | 19.8% | 15.7% |
 | Central and Peripheral Nervous System |  | 26.4% | 20.5% |
-|  | Headache | 15.9% | 14% |
+|  | Headache | 15.9% | 14.0% |
 |  | Paresthesia | 7.1% | 4.8% |
 | Musculoskeletal System |  | 13.2% | 8.7% |
-|  | Arthralgia | 6% | 1.1% |
-| Body as a Whole – General |  | 29.1% | 22.2% |
+|  | Arthralgia | 6.0% | 1.1% |
+| Body As a Whole–General |  | 29.1% | 22.2% |
 |  | Pain | 4.4% | 3.2% |
 | Metabolic and Nutritional |  | 9.3% | 9.7% |
 | Reproductive, Female |  | 8.5% (4 of 47 females) | 11.5% (6 of 52 females) |
 | Resistance Mechanism |  | 18.7% | 21.1% |
 | Skin and Appendages |  | 17.6% | 15.1% |
 |  | Hypertrichosis | 6.6% | 5.4% |
-| Respiratory System |  | 5% | 6.5% |
-|  | Bronchospasm, coughing, dyspnea, rhinitis | 5% | 4.9% |
-| Psychiatric |  | 5% | 3.8% |
+| Respiratory System |  | 5.0% | 6.5% |
+|  | Bronchospasm, Coughing, Dyspnea, Rhinitis | 5.0% | 4.9% |
+| Psychiatric |  | 5.0% | 3.8% |
 | Gastrointestinal System |  | 19.8% | 28.7% |
-|  | Abdominal pain | 2.7% | 6% |
-|  | Diarrhea | 5% | 5.9% |
+|  | Abdominal Pain | 2.7% | 6.0% |
+|  | Diarrhea | 5.0% | 5.9% |
 |  | Dyspepsia | 2.2% | 3.2% |
-|  | Gum hyperplasia | 3.8% | 6% |
+|  | Gum Hyperplasia | 3.8% | 6.0% |
 |  | Nausea | 5.5% | 5.9% |
 | White cell and RES |  | 4.4% | 2.7% |
-| Total percentage of events within the systemNewly occurring hypertension = SBP ≥ 160 mm Hg and/or DBP ≥ 90 mm Hg |  |  |  |
+| *Total percentage of events within the system.**Newly occurring hypertension = SBP ≥ 160 mm Hg and/or DBP ≥ 90 mm Hg. |  |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 
@@ -367,3 +362,5 @@ Generally these laboratory abnormalities are reversible upon dose reduction or d
 ## Postmarketing Experience, Psoriasis
 
 Cases of transformation to erythrodermic psoriasis or generalized pustular psoriasis upon either withdrawal or reduction of cyclosporine in patients with chronic plaque psoriasis have been reported.
+
+To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.

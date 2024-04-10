@@ -15,4 +15,4 @@ For a given trough concentration, cyclosporine exposure will be greater with Cyc
 If a patient who is receiving exceptionally high doses of Sandimmune (Cyclosporine Capsules USP) is converted to Cyclosporine Capsules USP MODIFIED, particular caution should be exercised.
 Cyclosporine blood concentrations should be monitored in transplant and rheumatoid arthritis patients taking Cyclosporine Capsules USP MODIFIED to avoid toxicity due to high concentrations.
 Dose adjustments should be made in transplant patients to minimize possible organ rejection due to low concentrations.
-Comparison of blood concentrations in the published literature with blood concentrations obtained using current assays must be done with detailed knowledge of the assay methods employed.
+Comparison of blood concentrations in the published literature with blood concentrations obtained using current assays must be done with detailed knowledge of the assay methods employed (see DOSAGE AND ADMINISTRATION).

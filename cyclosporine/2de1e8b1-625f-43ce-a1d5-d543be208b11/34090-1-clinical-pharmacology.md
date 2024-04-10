@@ -6,7 +6,7 @@ Cyclosporine has been demonstrated to suppress some humoral immunity and to a gr
 The effectiveness of cyclosporine results from specific and reversible inhibition of immunocompetent lymphocytes in the G0- and G1-phase of the cell cycle.
 T-lymphocytes are preferentially inhibited.
 The T-helper cell is the main target, although the T-suppressor cell may also be suppressed.
-Cyclosporine also inhibits lymphokine production and release including interleukin-2.
+Cyclosporine also inhibits lymphokine production and release, including interleukin-2.
 
 No effects on phagocytic function (changes in enzyme secretions, chemotactic migration of granulocytes, macrophage migration, carbon clearance in vivo) have been detected in animals.
 Cyclosporine does not cause bone marrow suppression in animal models or man.
@@ -39,24 +39,23 @@ The dose normalized AUC in de novo liver transplant patients administered Cyclos
 AUC and Cmax are also increased (Cyclosporine Capsules USP MODIFIED relative to Sandimmune (Cyclosporine Capsules USP)) in heart transplant patients, but data are very limited.
 Although the AUC and Cmax values are higher on Cyclosporine Capsules USP MODIFIED relative to Sandimmune (Cyclosporine Capsules USP), the predose trough concentrations (dose-normalized) are similar for the two formulations.
 
-Following oral administration of Cyclosporine Capsules USP MODIFIED, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2 hours.
+Following oral administration of Cyclosporine Capsules USP MODIFIED, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
 The administration of food with Cyclosporine Capsules USP MODIFIED decreases the cyclosporine AUC and Cmax.
 A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before Cyclosporine Capsules USP MODIFIED administration decreased the AUC by 13% and Cmax by 33%.
-The effects of a low fat meal (667 kcal, 15 grams fat) were similar.
+The effects of a low-fat meal (667 kcal, 15 grams fat) were similar.
 
 The effect of T-tube diversion of bile on the absorption of cyclosporine from Cyclosporine Capsules USP MODIFIED was investigated in eleven de novo liver transplant patients.
-When the patients were administered Cyclosporine Capsules USP MODIFIED with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range -55% to 68%).
+When the patients were administered Cyclosporine Capsules USP MODIFIED with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range 55% to 68%).
 
-Pharmacokinetic Parameters (mean ± SD)
-
-| Patient Population | Dose/day1 (mg/d) | Dose/weight (mg/kg/d) | AUC2 (ng•hr/mL) |  |  | Cmax (ng/mL) | Trough3 (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| De novo renal transplant4 Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 |  |  | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |  |
-| Stable renal transplant4 (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 |  |  | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |  |
-| De novo liver transplant5 Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 |  |  | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |  |
-| De novo rheumatoid arthritis6 (N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 |  |  | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |  |
-| De novo psoriasis6 Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 |  |  | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |  |
-| Total daily dose was divided into two doses administered every 12 hoursAUC was measured over one dosing intervalTrough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous doseAssay: TDx specific monoclonal fluorescence polarization immunoassayAssay: Cyclo-trac specific monoclonal radioimmunoassayAssay: INCSTAR specific monoclonal radioimmunoassay |  |  |  |  |  |  |  |  |  |  |
+| Pharmacokinetic Parameters (mean ± SD) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Patient Population | Dose/day1 (mg/d) | Dose/weight (mg/kg/d) | AUC2 (ng•hr/mL) | Cmax (ng/mL) | Trough3 (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |  |
+| De novo renal transplant4 Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |  |
+| Stable renal transplant4 (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |  |
+| De novo liver transplant5 Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |  |
+| De novo rheumatoid arthritis6 (N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |  |
+| De novo psoriasis6 Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |  |
+| 1Total daily dose was divided into two doses administered every 12 hours.2AUC was measured over one dosing interval.3Trough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose.4Assay: TDx specific monoclonal fluorescence polarization immunoassay.5Assay: Cyclo-trac specific monoclonal radioimmunoassay.6Assay: INCSTAR specific monoclonal radioimmunoassay. |  |  |  |  |  |  |  |  |
 
 ## Distribution
 
@@ -114,19 +113,18 @@ In 9 liver transplant patients aged 0.6 to 5.6 years, clearance was 9.3 ± 5.4 m
 In the pediatric population, Cyclosporine Capsules USP MODIFIED also demonstrate an increased bioavailability as compared to Sandimmune (Cyclosporine Capsules USP).
 In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of Cyclosporine Capsules USP MODIFIED was 43% (range 30% to 68%) and for Sandimmune (Cyclosporine Capsules USP) in the same individuals absolute bioavailability was 28% (range 17% to 42%).
 
-Pediatric Pharmacokinetic Parameters (mean ± SD)
-
-| Patient Population | Dose/ day (mg/d) | Dose/weight (mg/kg/d) |  | AUC1 (ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
+| Pediatric Pharmacokinetic Parameters (mean ± SD) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Patient Population | Dose/day (mg/d) | Dose/weight (mg/kg/d) |  | AUC1 (ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | Stable liver transplant2 |  |  |  |  |  |  |  |
 | Age 2 to 8, Dosed TID (N = 9) | 101 ± 25 | 5.95 ± 1.32 |  | 2163 ± 801 | 629 ± 219 | 285 ± 94 | 16.6 ± 4.3 |
-| Age 8 to 15, Dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 |  | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4 |
+| Age 8 to 15, Dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 |  | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4.0 |
 | Stable liver transplant3 |  |  |  |  |  |  |  |
 | Age 3, Dosed BID (N = 1) | 120 | 8.33 |  | 5832 | 1050 | 171 | 11.9 |
-| Age 8 to 15, Dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 |  | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11 ± 1.9 |
+| Age 8 to 15, Dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 |  | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11.0 ± 1.9 |
 | Stable renal transplant3 |  |  |  |  |  |  |  |
 | Age 7 to 15, Dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 |  | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
-| AUC was measured over one dosing intervalAssay: Cyclo-trac specific monoclonal radioimmunoassayAssay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |  |
+| 1AUC was measured over one dosing interval.2Assay: Cyclo-trac specific monoclonal radioimmunoassay.3Assay: TDx specific monoclonal fluorescence polarization immunoassay. |  |  |  |  |  |  |  |
 
 ### Geriatric Population
 

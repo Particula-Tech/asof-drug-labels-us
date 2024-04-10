@@ -39,7 +39,7 @@ Lower Cyclosporine Capsules USP MODIFIED doses may be sufficient as maintenance 
 
 Adjunct therapy with adrenal corticosteroids is recommended initially.
 Different tapering dosage schedules of prednisone appear to achieve similar results.
-A representative dosage schedule based on the patient’s weight started with 2 mg/kg/day for the first 4 days tapered to 1 mg/kg/day by 1 week, 0.6 mg/kg/day by 2 weeks, 0.3 mg/kg/day by 1 month, and 0.15 mg/kg/day by 2 months and thereafter as a maintenance dose.
+A representative dosage schedule based on the patient’s weight started with 2.0 mg/kg/day for the first 4 days tapered to 1.0 mg/kg/day by 1 week, 0.6 mg/kg/day by 2 weeks, 0.3 mg/kg/day by 1 month, and 0.15 mg/kg/day by 2 months and thereafter as a maintenance dose.
 Steroid doses may be further tapered on an individualized basis depending on status of patient and function of graft.
 Adjustments in dosage of prednisone must be made according to the clinical situation.
 
@@ -52,7 +52,7 @@ Patients with suspected poor absorption of Sandimmune (Cyclosporine Capsules USP
 In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
 
 Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Cyclosporine Capsules USP MODIFIED.
-In addition, clinical safety parameters such as serum creatinine and blood pressure should be monitored every two weeks during the first two months after conversion.
+In addition, clinical safety parameters, such as serum creatinine and blood pressure, should be monitored every two weeks during the first two months after conversion.
 If the blood trough concentrations are outside the desired range and/or if the clinical safety parameters worsen, the dosage of Cyclosporine Capsules USP MODIFIED must be adjusted accordingly.
 
 ## Transplant Patients with Poor Absorption of Sandimmune (Cyclosporine Capsules USP)
@@ -86,8 +86,8 @@ Recurrence of rheumatoid arthritis disease activity is generally apparent within
 The initial dose of Cyclosporine Capsules USP MODIFIED should be 2.5 mg/kg/day.
 Cyclosporine Capsules USP MODIFIED should be taken twice daily, as a divided (1.25 mg/kg BID) oral dose.
 Patients should be kept at that dose for at least 4 weeks, barring adverse events.
-If significant clinical improvement has not occurred in patients by that time, the patient’s dosage should be increased at 2 week intervals.
-Based on patient response, dose increases of approximately 0.5 mg/kg/day should be made to a maximum of 4 mg/kg/day.
+If significant clinical improvement has not occurred in patients by that time, the patient’s dosage should be increased at 2-week intervals.
+Based on patient response, dose increases of approximately 0.5 mg/kg/day should be made to a maximum of 4.0 mg/kg/day.
 
 Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension, elevations in serum creatinine (≥ 25% above the patient’s pretreatment level), or clinically significant laboratory abnormalities.
 If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Cyclosporine Capsules USP MODIFIED should be discontinued (see Special Monitoring for Psoriasis Patients).
@@ -117,7 +117,7 @@ Various assays have been used to measure blood concentrations of cyclosporine.
 Older studies using a nonspecific assay often cited concentrations that were roughly twice those of the specific assays.
 Therefore, comparison between concentrations in the published literature and an individual patient concentration using current assays must be made with detailed knowledge of the assay methods employed.
 Current assay results are also not interchangeable and their use should be guided by their approved labeling.
-A discussion of the different assay methods is contained in Annals of Clinical Biochemistry 1994;31:420-446.
+A discussion of the different assay methods is contained in Annals of Clinical Biochemistry 1994; 31: 420-446.
 While several assays and assay matrices are available, there is a consensus that parent-compound-specific assays correlate best with clinical events.
 Of these, HPLC is the standard reference, but the monoclonal antibody RIAs and the monoclonal antibody FPIA offer sensitivity, reproducibility, and convenience.
 Most clinicians base their monitoring on trough cyclosporine concentrations.
