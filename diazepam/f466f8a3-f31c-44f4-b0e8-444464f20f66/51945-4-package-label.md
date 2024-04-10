@@ -23,5 +23,3 @@ Diazepam Injection, USP
 For Intravenous or Intramuscular Use
 
 10 x 10 mL Multiple-Dose Vial
-
-# SERIALIZATION IMAGE
