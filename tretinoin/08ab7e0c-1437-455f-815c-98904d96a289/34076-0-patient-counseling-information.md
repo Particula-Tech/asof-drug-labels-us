@@ -9,3 +9,16 @@ Do not use more than the recommended amount and do not apply Retin-A Micro more 
 
 Minimize exposure to sunlight, including sunlamps.
 Recommend the use of sunscreen products and protective apparel (e.g., hat) when exposure cannot be avoided.
+
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
+
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8 Canada
+
+Retin-A Micro is a trademark of Bausch Health Companies Inc. or its affiliates.
+
+Microsponge is a registered trademark of AMCOL International Corporation.
+All other product/brand names and/or logos are trademarks of the respective owners.
+
+© 2023 Bausch Health Companies Inc. or its affiliates
+
+9470905

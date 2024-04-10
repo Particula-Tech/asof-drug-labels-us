@@ -27,7 +27,7 @@ Before using Retin-A Micro, tell your doctor about all of your medical condition
 - are breastfeeding or plan to breastfeed.
   It is not known if Retin-A Micro passes into your breast milk.
 
-Tell your doctor about all of the medicines you take,including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
+Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
 
 Especially tell your doctor if you use any other medicines to treat your acne, including medicated cleansers or soaps.
 Using other topical acne products may increase the irritation of your skin when used with Retin-A Micro.
@@ -98,7 +98,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Retin-A Micro?
 
-- Store Retin-A Micro at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store Retin-A Micro at room temperature between 68° to 77°F (20° to 25°C).
 - Store Retin-A Micro pump upright.
 
 Keep Retin-A Micro and all medicines out of the reach of children.
@@ -121,28 +121,19 @@ Active ingredient:tretinoin
 
 Inactive ingredients:benzyl alcohol, butylated hydroxytoluene, carbomer 974P, cyclomethicone and dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid and trolamine
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured for:
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-By:
-
-Valeant Pharmaceuticals International, Inc.
-
-Laval, Quebec H7L 4A8, Canada
-
-Retin-A Micro is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Retin-A Micro is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 Microsponge is a registered trademark of AMCOL International Corporation.
-Any other product/brand
+All other product/brand names and/or logos are trademarks of the respective owners.
 
-names are trademarks of their respective owners.
+© 2023 Bausch Health Companies Inc. or its affiliates
 
-© Valeant Pharmaceuticals North America LLC
-
-9470903 50105473D
+9470905
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised - 10/2017
+
+Revised: 10/2023
