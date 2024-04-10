@@ -56,3 +56,6 @@ Hypersensitivity/Anaphylactic Reactions There have been reports of urticaria and
 Anaphylaxis has been reported.
 
 Injection Site Reactions Injection site reactions including pain, erythema, and swelling, commonly due to extravasation, have been reported.
+
+Hepatotoxicity Cases of hepatotoxicity following the use of intravenous dantrolene products have been reported.
+Elevated liver enzymes have occurred hours to days following use of intravenous dantrolene, though many of these cases were observed in patients with comorbidities (e.g., critical illness).
