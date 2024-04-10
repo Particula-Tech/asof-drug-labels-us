@@ -4,13 +4,14 @@ The following adverse reactions are discussed in greater detail in other section
 
 - •Known hypersensitivity to amphetamine products or other ingredients of lisdexamfetamine dimesylate capsules [see Contraindications (4)]
 - •Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
-- •Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
-- •Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- •Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- •Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
+- •Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
+- •Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - •Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- •Suppression of Growth [see Warnings and Precautions (5.5)]
+- •Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.5)]
 - •Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
 - •Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- •Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,7 +21,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The safety data in this section is based on data from the 4-week controlled parallel-group clinical studies of lisdexamfetamine dimesylate in pediatric and adult patients with ADHD [see Clinical Studies (14.1)].
 
-### Adverse Reactions Associated with Discontinuation of Treatment in ADHD Clinical Trials
+#### Adverse Reactions Associated with Discontinuation of Treatment in ADHD Clinical Trials
 
 In the controlled trial in pediatric patients ages 6 to 12 years (Study 1), 8% (18/218) of lisdexamfetamine dimesylate-treated patients discontinued due to adverse reactions compared to 0% (0/72) of placebo-treated patients.
 The most frequently reported adverse reactions (1% or more and twice rate of placebo) were ECG voltage criteria for ventricular hypertrophy, tic, vomiting, psychomotor hyperactivity, insomnia, decreased appetite and rash [2 instances for each adverse reaction, i.e., 2/218 (1%)].
@@ -34,17 +35,17 @@ In the controlled adult trial (Study 7), 6% (21/358) of lisdexamfetamine dimesyl
 The most frequently reported adverse reactions (1% or more and twice rate of placebo) were insomnia (8/358; 2%), tachycardia (3/358; 1%), irritability (2/358; 1%), hypertension (4/358; 1%), headache (2/358; 1%), anxiety (2/358; 1%), and dyspnea (3/358; 1%).
 Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included palpitations, diarrhea, nausea, decreased appetite, dizziness, agitation, depression, paranoia and restlessness.
 
-### Adverse Reactions Occurring at an Incidence of ≥ 5% or More Among Lisdexamfetamine Dimesylate-Treated Patients with ADHD in Clinical Trials
+#### Adverse Reactions Occurring at an Incidence of ≥ 5% or More Among Lisdexamfetamine Dimesylate Treated Patients with ADHD in Clinical Trials
 
 The most common adverse reactions (incidence ≥ 5% and at a rate at least twice placebo) reported in pediatric patients ages 6 to 17 years, and/or adults were anorexia, anxiety, decreased appetite, decreased weight, diarrhea, dizziness, dry mouth, irritability, insomnia, nausea, upper abdominal pain, and vomiting.
 
-### Adverse Reactions Occurring at an Incidence of 2% or More Among Lisdexamfetamine Dimesylate-Treated Patients with ADHD in Clinical Trials
+#### Adverse Reactions Occurring at an Incidence of 2% or More Among Lisdexamfetamine Dimesylate Treated Patients with ADHD in Clinical Trials
 
 Adverse reactions reported in the controlled trials in pediatric patients ages 6 to 12 years (Study 1), pediatric patients ages 13 to 17 years (Study 4), and adult patients (Study 7) treated with lisdexamfetamine dimesylate or placebo are presented in Tables 1, 2 and 3 below.
 
 Table 1: Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 6 to 12 Years with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 1)
 
-|  | Lisdexamfetamine Dimesylate(n = 218) | Placebo(n = 72) |
+|  | Lisdexamfetamine Dimesylate (n = 218) | Placebo (n = 72) |
 | --- | --- | --- |
 | Decreased Appetite | 39% | 4% |
 | Insomnia | 22% | 3% |
@@ -64,7 +65,7 @@ Table 1: Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 6 t
 
 Table 2: Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 13 to 17 Years with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 4)
 
-|  | Lisdexamfetamine Dimesylate(n = 233) | Placebo(n = 77) |
+|  | Lisdexamfetamine Dimesylate (n = 233) | Placebo (n = 77) |
 | --- | --- | --- |
 | Decreased Appetite | 34% | 3% |
 | Insomnia | 13% | 4% |
@@ -76,7 +77,7 @@ Table 2: Adverse Reactions Reported by 2% or More of Pediatric Patients Ages 13 
 
 Table 3: Adverse Reactions Reported by 2% or More of Adult Patients with ADHD Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 7)
 
-|  | Lisdexamfetamine Dimesylate(n = 358) | Placebo(n = 62) |
+|  | Lisdexamfetamine Dimesylate(n = 358) | Placebo (n = 62) |
 | --- | --- | --- |
 | Decreased Appetite | 27% | 2% |
 | Insomnia | 27% | 8% |
@@ -98,7 +99,7 @@ Table 3: Adverse Reactions Reported by 2% or More of Adult Patients with ADHD Ta
 
 In addition, in the adult population erectile dysfunction was observed in 2.6% of males on lisdexamfetamine dimesylate and 0% on placebo; decreased libido was observed in 1.4% of subjects on lisdexamfetamine dimesylate and 0% on placebo.
 
-### Weight Loss and Slowing Growth Rate in Pediatric Patients with ADHD
+#### Weight Loss and Slowing Growth Rate in Pediatric Patients with ADHD
 
 In a controlled trial of lisdexamfetamine dimesylate in pediatric patients ages 6 to 12 years (Study 1), mean weight loss from baseline after 4 weeks of therapy was -0.9, -1.9, and -2.5 pounds, respectively, for patients receiving 30 mg, 50 mg, and 70 mg of lisdexamfetamine dimesylate, compared to a 1 pound weight gain for patients receiving placebo.
 Higher doses were associated with greater weight loss with 4 weeks of treatment.
@@ -109,7 +110,7 @@ Careful follow-up of weight and height in pediatric patients ages 7 to 10 years 
 In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in pediatric patients ages 13 to 17 years, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 pounds and -2.8 pounds, respectively, for patients receiving 10 mg and 20 mg of amphetamine.
 Higher doses were associated with greater weight loss within the initial 4 weeks of treatment [see Warnings and Precautions (5.5)].
 
-### Weight Loss in Adults with ADHD
+#### Weight Loss in Adults with ADHD
 
 In the controlled adult trial (Study 7), mean weight loss after 4 weeks of therapy was 2.8 pounds, 3.1 pounds, and 4.3 pounds, for patients receiving final doses of 30 mg, 50 mg, and 70 mg of lisdexamfetamine dimesylate, respectively, compared to a mean weight gain of 0.5 pounds for patients receiving placebo.
 
@@ -134,7 +135,7 @@ Adverse reactions reported in the pooled controlled trials in adult patients (St
 
 Table 4: Adverse Reactions Reported by 2% or More of Adult Patients with BED Taking Lisdexamfetamine Dimesylate and Greater than or Equal to Twice the Incidence in Patients Taking Placebo in 12-Week Clinical Trials (Study 11 and 12)
 
-|  | Lisdexamfetamine Dimesylate(N = 373) | Placebo(N = 372) |
+|  | Lisdexamfetamine Dimesylate (N = 373) | Placebo (N = 372) |
 | --- | --- | --- |
 | Dry Mouth | 36% | 7% |
 | InsomniaIncludes all preferred terms containing the word “insomnia.” | 20% | 8% |
@@ -159,6 +160,6 @@ Table 4: Adverse Reactions Reported by 2% or More of Adult Patients with BED Tak
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of lisdexamfetamine dimesylate.
+The following adverse reactions have been identified during post-approval use of lisdexamfetamine dimesylate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events are as follows: cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, chest pain, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, rhabdomyolysis, and intestinal ischemia.
+These events are as follows: cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, dysgeusia, motor and verbal tics, bruxism, depression, dermatillomania, alopecia, aggression, Stevens-Johnson Syndrome, chest pain, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, constipation, rhabdomyolysis, and intestinal ischemia.

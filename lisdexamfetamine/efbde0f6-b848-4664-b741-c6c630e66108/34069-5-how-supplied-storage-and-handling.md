@@ -56,6 +56,3 @@ Protect from light.
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 PHARMACIST: Dispense a Medication Guide with each prescription.
-
-Disposal: Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired lisdexamfetamine dimesylate capsules by a medicine take-back program.

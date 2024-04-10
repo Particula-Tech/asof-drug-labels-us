@@ -186,8 +186,6 @@ GTIN 00303786859771
 
 # PRINCIPAL DISPLAY PANEL – 70 mg
 
-NDC 0378-6860-77
-
 Lisdexamfetamine Dimesylate Capsules CII 70 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.

@@ -21,9 +21,9 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-#### Clinical Considerations
+### Clinical Considerations
 
-##### Fetal/Neonatal Adverse Reactions
+#### Fetal/Neonatal Adverse Reactions
 
 Amphetamines, such as lisdexamfetamine dimesylate, cause vasoconstriction and thereby may decrease placental perfusion.
 In addition, amphetamines can stimulate uterine contractions increasing the risk of premature delivery.
@@ -31,9 +31,9 @@ Infants born to amphetamine-dependent mothers have an increased risk of prematur
 
 Monitor infants born to mothers taking amphetamines for symptoms of withdrawal such as feeding difficulties, irritability, agitation, and excessive drowsiness.
 
-#### Data
+### Data
 
-##### Animal Data
+#### Animal Data
 
 Lisdexamfetamine dimesylate had no apparent effects on embryo-fetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 40 and 120 mg/kg/day, respectively.
 These doses are approximately 5.5 and 33 times, respectively, the maximum recommended human dose (MRHD) of 70 mg/day given to adults, on a mg/m2 body surface area basis.
@@ -45,7 +45,7 @@ A decrease in pup body weight was seen at 6 and 10 mg/kg which correlated with d
 Increased pup locomotor activity was seen at 10 mg/kg on day 22 postpartum but not at 5 weeks postweaning.
 When pups were tested for reproductive performance at maturation, gestational weight gain, number of implantations, and number of delivered pups were decreased in the group whose mothers had been given 10 mg/kg.
 
-A number of studies from the literature in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d,l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
+A number of studies from the literature in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d, l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
 Reported behavioral effects include learning and memory deficits, altered locomotor activity, and changes in sexual function.
 
 ## 8.2 Lactation
@@ -74,7 +74,7 @@ With the same lisdexamfetamine dimesylate dose, mean steady state exposure of de
 
 ### BED
 
-Safety and effectiveness of lisdexamfetamine dimesylate have not been established in patients less than 18 years of age.
+Safety and effectiveness of lisdexamfetamine dimesylate have not been established in pediatric patients with BED less than 18 years of age.
 
 ### Growth Suppression
 

@@ -9,7 +9,7 @@ No evidence of carcinogenicity was found in studies in which d-, l-amphetamine (
 
 ### Mutagenesis
 
-Lisdexamfetamine dimesylate was not clastogenic in the mouse bone marrow micronucleus test in vivo and was negative when tested in the E. coli and S. typhimurium components of the Ames test and in the L5178Y/TK+- mouse lymphoma assay in vitro.
+Lisdexamfetamine dimesylate was not clastogenic in the mouse bone marrow micronucleus test in vivo and was negative when tested in the E. coli and S. typhimurium components of the Ames test and in the L5178Y/TK+/- mouse lymphoma assay in vitro.
 
 ### Impairment of Fertility
 
@@ -17,5 +17,5 @@ Amphetamine (d- to l-enantiomer ratio of 3:1) did not adversely affect fertility
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Acute administration of high doses of amphetamine (d- or d,l-) has been shown to produce long-lasting neurotoxic effects, including irreversible nerve fiber damage, in rodents.
+Acute administration of high doses of amphetamine (d- or d, l-) has been shown to produce long-lasting neurotoxic effects, including irreversible nerve fiber damage, in rodents.
 The significance of these findings to humans is unknown.
