@@ -1,17 +1,17 @@
 # Package/Label Display Panel
 
-NDC68682-513-84 Rx only
+NDC68682-513-85 Rx only
 
 TRETINOIN Gel microsphere 0.1% For Topical Use Only Net Wt.
 45 g
 
 OCEANSIDE PHARMACEUTICALS
 
-9515102 20001067C
+9515704 20001068E
 
 # Package/Label Display Panel
 
-NDC 68682-514-95 Rx only
+NDC68682-514-95 Rx only
 
 TRETINOIN Gel microsphere 0.04% PUMP
 
@@ -20,11 +20,11 @@ OCEANSIDE PHARMACEUTICALS
 For Topical Use Only Net Wt.
 50 g
 
-9515503 20001605D
+9515504 20001605E
 
 # Package/Label Display Panel
 
-NDC 68682-515-95
+NDC68682-515-95
 
 TRETINOIN GEL MICROSPHERE 0.08% PUMP For Topical Use Only
 
