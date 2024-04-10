@@ -1,0 +1,3 @@
+# 14 CLINICAL STUDIES
+
+The effectiveness of XROMI has been established for the indication, “to reduce the frequency of painful crises and to reduce the need for blood transfusions in pediatric patients aged 6 months to less than 2 years with sickle cell anemia with recurrent moderate to severe painful crises” based on an adequate and well-controlled study of hydroxyurea capsules in adult patients with sickle cell anemia with recurrent moderate to severe pain crises and additional pharmacokinetic data from a single-arm, open-label study of XROMI in pediatric patients aged 10 months to less than 2 years with sickle cell anemia, who were treatment naïve or had not received hydroxyurea in the 6 months prior to enrollment: HUPK study [see Adverse Reactions (6.1)].

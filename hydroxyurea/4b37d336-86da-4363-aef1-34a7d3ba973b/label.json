@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216593"
+  ],
+  "inn": "hydroxyurea",
+  "labeler": "Nova Laboratories, Ltd.",
+  "package_ndcs": [
+    "62484-0015-1",
+    "62484-0015-2"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydroxyurea",
+      "name": "XROMI"
+    }
+  ],
+  "setid": "4b37d336-86da-4363-aef1-34a7d3ba973b",
+  "source": "dailymed"
+}
