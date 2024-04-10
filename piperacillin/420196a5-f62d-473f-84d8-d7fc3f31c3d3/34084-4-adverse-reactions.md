@@ -100,7 +100,7 @@ Hepatobiliary—hepatitis, jaundice
 
 Hematologic—hemolytic anemia, agranulocytosis, pancytopenia
 
-Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), hemophagocytic lymphohistiocytosis (HLH)
+Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), hemophagocytic lymphohistiocytosis (HLH), acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction
 
 Renal—interstitial nephritis
 
@@ -110,7 +110,7 @@ Psychiatric disorders-delirium
 
 Respiratory—eosinophilic pneumonia
 
-Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
+Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative, and linear IgA bullous dermatosis.
 
 Postmarketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.
 
