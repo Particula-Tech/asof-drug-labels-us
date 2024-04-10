@@ -49,5 +49,3 @@ HCl Injection, USP
 For deep Intramuscular use
 
 25 x 2 mL Ampuls
-
-# SERIALIZATION IMAGE
