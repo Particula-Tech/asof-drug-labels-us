@@ -71,5 +71,3 @@ For Intravenous Use
 Ready to Use - Do NOT Dilute
 
 10 x 10 mL Single-Dose Vials
-
-# SERIALIZATION IMAGE
