@@ -19,5 +19,3 @@ Atropine Sulfate Injection, USP
 For intravenous, intramuscular, subcutaneous, intraosseous, or endotracheal use.
 
 10 x 20 mL Multiple Dose Vial
-
-# SERIALIZATION IMAGE
