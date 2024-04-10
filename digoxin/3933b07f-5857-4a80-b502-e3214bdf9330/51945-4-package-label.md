@@ -27,5 +27,3 @@ deep Intramuscular use
 Dilution is not required
 
 25 x 2 mL Ampuls
-
-# SERIALIZATION IMAGE
