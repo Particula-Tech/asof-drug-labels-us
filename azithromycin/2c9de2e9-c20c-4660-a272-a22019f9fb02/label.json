@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA065488"
+  ],
+  "inn": "azithromycin",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-704-51",
+    "62135-705-43",
+    "62135-705-51",
+    "62135-705-52"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "azithromycin",
+      "name": "Azithromycin"
+    }
+  ],
+  "setid": "2c9de2e9-c20c-4660-a272-a22019f9fb02",
+  "source": "dailymed"
+}
