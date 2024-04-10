@@ -27,5 +27,3 @@ NDC 0641-6047-01 Rx only Lorazepam Injection, USP CIV 40 mg per 10 mL (4 mg/mL) 
 
 NDC 0641-6047-10 Rx only Lorazepam Injection, USP CIV 40 mg per 10 mL (4 mg/mL) For Intramuscular use For Intravenous use, dilution required; see insert.
 Refrigerate 10 x 10 mL Multiple Dose Vials
-
-# SERIALIZATION IMAGE

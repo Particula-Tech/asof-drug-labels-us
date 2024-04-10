@@ -20,12 +20,10 @@ An inspection of these frequencies, however, does provide the prescribing physic
 
 Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam Injection in a dose-comparison trial of lorazepam 1 mg, 2 mg, and 4 mg.
 
-TABLE 1.
-NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL
-
-| Body System Event |  | Lorazepam Injection (n=130)One hundred and thirty (130) patients received Lorazepam Injection. |
+| Body SystemEvent |  | Lorazepam Injection(n=130)* |
 | --- | --- | --- |
-| Any Study Event (1 or more)Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  | 16 (12.3%) |
+| TABLE 1. NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL |  |  |
+| Any Study Event(1 or more)† |  | 16 (12.3%) |
 | Body as a whole |  |  |
 | Infection |  | 1 (<1%) |
 | Cardiovascular system |  |  |
@@ -58,12 +56,10 @@ Safety was determined from all treatment episodes for all intent-to-treat patien
 Table 2 lists the treatment-emergent adverse events that occurred in at least 1% of the patient-episodes in which Lorazepam Injection or diazepam was given.
 The table represents the pooling of results from the two controlled trials.
 
-TABLE 2.
-NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL
-
-| Body System Event |  | Lorazepam Injection (n=85)The number indicates the number of “patient-episodes.” Patient-episodes were used rather than “patients” because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam Injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions. | Diazepam (n=80) |
+| Body SystemEvent |  | Lorazepam Injection(n=85)* | Diazepam(n=80)* |
 | --- | --- | --- | --- |
-| Any Study Event (1 or more)Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  | 14 (16.5%) | 11 (13.8%) |
+| TABLE 2. NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL |  |  |  |
+| Any Study Event(1 or more)† |  | 14 (16.5%) | 11 (13.8%) |
 | Body as a whole |  |  |  |
 | Headache |  | 1 (1.2%) | 1 (1.3%) |
 | Cardiovascular system |  |  |  |
