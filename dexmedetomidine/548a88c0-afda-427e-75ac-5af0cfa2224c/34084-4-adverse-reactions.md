@@ -16,8 +16,7 @@ Intensive Care Unit Sedation
 Adverse reaction information is derived from the continuous infusion trials of PRECEDEX for sedation in the Intensive Care Unit setting in which 1,007 adult patients received PRECEDEX.
 The mean total dose was 7.4 mcg/kg (range: 0.8 to 84.1), mean dose per hour was 0.5 mcg/kg/hr (range: 0.1 to 6.0) and the mean duration of infusion of 15.9 hours (range: 0.2 to 157.2).
 The population was between 17 to 88 years of age, 43% ≥65 years of age, 77% male and 93% Caucasian.
-Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Error!
-Hyperlink reference not valid..
+Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 3.
 The most frequent adverse reactions were hypotension, bradycardia and dry mouth [see Warnings and Precautions (5.2)].
 
 Table 3: Adverse Reactions with an Incidence >2%-Adult Intensive Care Unit Sedation Population <24 hours26 subjects in the all PRECEDEX group and 10 subjects in the randomized PRECEDEX group had exposure for greater than 24 hours.
