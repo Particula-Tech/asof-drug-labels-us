@@ -39,5 +39,3 @@ NOT for Lock Flush Rx only NDC 0641-6204-10 Heparin Sodium Injection, USP 5,000 
 1 mL Single Dose Syringe NOT for Lock Flush Rx only Heparin Sodium Injection, USP 5,000 USP units/mL For IV or SC Use Preservative-Free NDC 0641-6199-01
 
 NOT for Lock Flush Rx only NDC 0641-6199-10 Heparin Sodium Injection, USP 5,000 USP units/mL 10 x 1 mL Prefilled Single Dose Syringes For Intravenous or Subcutaneous Use Preservative-Free From Porcine Intestines
-
-# SERIALIZATION IMAGE
