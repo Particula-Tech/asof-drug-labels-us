@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 As soon as the malignant hyperthermia reaction is recognized, all anesthetic agents should be discontinued; the administration of 100% oxygen is recommended.
 Dantrium Intravenous should be administered by continuous rapid intravenous push beginning at a minimum dose of 1 mg/kg, and continuing until symptoms subside or the maximum cumulative dose of 10 mg/kg has been reached.
@@ -7,36 +7,34 @@ If the physiologic and metabolic abnormalities reappear, the regimen may be repe
 It is important to note that administration of Dantrium Intravenous should be continuous until symptoms subside.
 The effective dose to reverse the crisis is directly dependent upon the individual's degree of susceptibility to malignant hyperthermia, the amount and time of exposure to the triggering agent, and the time elapsed between onset of the crisis and initiation of treatment.
 
-## Pediatric Dose
+## Pediatric Dose:
 
 Experience to date indicates that the dose of Dantrium Intravenous for pediatric patients is the same as for adults.
 
-## Preoperatively
+## Preoperatively:
 
 Dantrium Intravenous and/or Dantrium Capsules may be administered preoperatively to patients judged malignant hyperthermia susceptible as part of the overall patient management to prevent or attenuate the development of clinical and laboratory signs of malignant hyperthermia.
 
-### Dantrium Intravenous
-
-The recommended prophylactic dose of Dantrium Intravenous is 2.5 mg/kg, starting approximately 1-1/4 hours before anticipated anesthesia and infused over approximately 1 hour.
+Dantrium Intravenous: The recommended prophylactic dose of Dantrium Intravenous is 2.5 mg/kg, starting approximately 1-1/4 hours before anticipated anesthesia and infused over approximately 1 hour.
 This dose should prevent or attenuate the development of clinical and laboratory signs of malignant hyperthermia provided that the usual precautions, such as avoidance of established malignant hyperthermia triggering agents, are followed.
 
 Additional Dantrium Intravenous may be indicated during anesthesia and surgery because of the appearance of early clinical and/or blood gas signs of malignant hyperthermia or because of prolonged surgery (see also CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 Additional doses must be individualized.
 
-### Oral Administration of Dantrium Capsules
+### Oral Administration of Dantrium Capsules:
 
-Administer 4 to 8 mg/kg/day of oral Dantrium in three or four divided doses for 1 or 2 days prior to surgery, with the last dose being given with a minimum of water approximately 3 to 4 hours before scheduled surgery.
+Administer 4 to 8 mg/kg/day of oral Dantrium Capsules in three or four divided doses for 1 or 2 days prior to surgery, with the last dose being given with a minimum of water approximately 3 to 4 hours before scheduled surgery.
 Adjustment can usually be made within the recommended dosage range to avoid incapacitation (weakness, drowsiness, etc.) or excessive gastrointestinal irritation (nausea and/or vomiting).
 See also the package insert for Dantrium Capsules.
 
-## Post Crisis Follow-Up
+## Post Crisis Follow-Up:
 
 Dantrium Capsules, 4 to 8 mg/kg/day, in four divided doses should be administered for 1 to 3 days following a malignant hyperthermia crisis to prevent recurrence of the manifestations of malignant hyperthermia.
 
-Intravenous Dantrium may be used postoperatively to prevent or attenuate the recurrence of signs of malignant hyperthermia when oral Dantrium administration is not practical.
-The i.v. dose of Dantrium in the postoperative period must be individualized, starting with 1 mg/kg or more as the clinical situation dictates.
+Dantrium Intravenous may be used postoperatively to prevent or attenuate the recurrence of signs of malignant hyperthermia when oral administration of Dantrium Capsules is not practical.
+The dose of Dantrium Intravenous in the postoperative period must be individualized, starting with 1 mg/kg or more as the clinical situation dictates.
 
-## PREPARATION
+## PREPARATION:
 
 Each vial of Dantrium Intravenous should be reconstituted by adding 60 mL of sterile water for injection USP (without a bacteriostatic agent), and the vial shaken until the solution is clear.
 5% Dextrose Injection USP, 0.9% Sodium Chloride Injection USP, and other acidic solutions are not compatible with Dantrium Intravenous and should not be used.

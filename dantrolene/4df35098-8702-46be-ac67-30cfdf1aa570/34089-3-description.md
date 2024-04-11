@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Dantrium Intravenous is a sterile, non-pyrogenic, lyophilized formulation of dantrolene sodium for injection.
 Dantrium Intravenous is supplied in 70 mL vials containing 20 mg dantrolene sodium, 3000 mg mannitol, and sufficient sodium hydroxide to yield a pH of approximately 9.5 when reconstituted with 60 mL sterile water for injection USP (without a bacteriostatic agent).

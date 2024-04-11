@@ -1,6 +1,6 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
-Because Dantrium Intravenous must be administered at a low concentration in a large volume of fluid, acute toxicity of Dantrium could not be assessed in animals.
+Because Dantrium Intravenous must be administered at a low concentration in a large volume of fluid, acute toxicity of Dantrium Intravenous could not be assessed in animals.
 In 14-day (subacute) studies, the intravenous formulation of Dantrium was relatively non-toxic to rats at doses of 10 mg/kg/day and 20 mg/kg/day.
 While 10 mg/kg/day in dogs for 14 days evoked little toxicity, 20 mg/kg/day for 14 days caused hepatic changes of questionable biologic significance.
 
