@@ -133,4 +133,4 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054
 
-©2023 Teva Pharmaceuticals USA, Inc.
+©2024 Teva Pharmaceuticals USA, Inc.
