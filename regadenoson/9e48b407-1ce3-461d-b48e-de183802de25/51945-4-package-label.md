@@ -25,5 +25,3 @@ Pharmacologic Stress Agent
 For Diagnostic Purpose Only
 
 Single-Dose Pre-filled Syringe
-
-# SERIALIZATION IMAGE
