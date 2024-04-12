@@ -23,9 +23,17 @@ Table 4 Established and Other Potentially Significant Drug InteractionsThis tabl
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease. | Clinical Comment |
 | --- | --- | --- |
-| Anticonvulsants: CarbamazepineIndicates that a drug interaction study was conducted.P-gp inducer Oxcarbazepine Phenobarbital Phenytoin | ↓ tenofovir alafenamide | When coadministered with carbamazepine, the tenofovir alafenamide dose should be increased to two tablets once daily. Coadministration of VEMLIDY with oxcarbazepine, phenobarbital, or phenytoin is not recommended. |
-| Antimycobacterials: Rifabutin Rifampin Rifapentine | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with rifabutin, rifampin or rifapentine is not recommended. |
-| Herbal Products: St. John's wort (Hypericum perforatum) | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
+| Anticonvulsants: | ↓ tenofovir alafenamide | When coadministered with carbamazepine, the tenofovir alafenamide dose should be increased to two tablets once daily. Coadministration of VEMLIDY with oxcarbazepine, phenobarbital, or phenytoin is not recommended. |
+| CarbamazepineIndicates that a drug interaction study was conducted.P-gp inducer |  |  |
+| Oxcarbazepine |  |  |
+| Phenobarbital |  |  |
+| Phenytoin |  |  |
+| Antimycobacterials: | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with rifabutin, rifampin or rifapentine is not recommended. |
+| Rifabutin |  |  |
+| Rifampin |  |  |
+| Rifapentine |  |  |
+| Herbal Products: | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
+| St. John's wort (Hypericum perforatum) |  |  |
 
 ## 7.4 Drugs without Clinically Significant Interactions with VEMLIDY
 

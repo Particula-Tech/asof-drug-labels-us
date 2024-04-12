@@ -8,9 +8,9 @@ VEMLIDY alone should not be used in patients with HIV-1 infection [see Warnings 
 Prior to or when initiating VEMLIDY, and during treatment with VEMLIDY on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.3)].
 
-## 2.2 Recommended Dosage in Adults and Pediatric Patients 12 Years of Age and Older
+## 2.2 Recommended Dosage in Adults and Pediatric Patients 6 Years of Age and Older and Weighing at Least 25 kg
 
-The recommended dosage of VEMLIDY in adults and pediatric patients 12 years of age and older is one 25 mg tablet taken orally once daily with food [see Clinical Pharmacology (12.3)].
+The recommended dosage of VEMLIDY in adults and pediatric patients 6 years of age and older and weighing at least 25 kg is one 25 mg tablet taken orally once daily with food [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Dosage in Patients with Renal Impairment
 

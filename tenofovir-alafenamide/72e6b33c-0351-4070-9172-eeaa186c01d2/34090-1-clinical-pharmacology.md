@@ -53,16 +53,19 @@ No clinically relevant differences in tenofovir alafenamide or tenofovir pharmac
 
 Pediatric Patients
 
-Steady-state pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir were evaluated in HBV-infected pediatric subjects aged 12 to less than 18 years (Table 7).
+Steady-state pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir were evaluated in HBV-infected pediatric subjects aged 6 to less than 18 years (Table 7).
 
-Table 7 Multiple Dose PK Parameters of Tenofovir Alafenamide and Tenofovir Following Oral Administration of VEMLIDY 25 mg in HBV-Infected Pediatric Subjects Aged 12 to less than 18 Years
+Table 7 Multiple Dose PK Parameters of Tenofovir Alafenamide and Tenofovir Following Oral Administration of VEMLIDY 25 mg in HBV-Infected Pediatric Subjects Aged 6 to less than 18 Years
 
-| Parameter Mean (CV%) | Tenofovir AlafenamideFrom Intensive PK analyses in Trial 1092 (N=13 except N=11 for AUCtau). | TenofovirFrom Intensive PK analyses in Trial 1092 (N=12 except N=13 for Cmax). |
-| --- | --- | --- |
-| Cmax (mcg per mL) | 0.188 (45.0) | 0.015 (23.5) |
-| AUCtau (mcg∙hour per mL) | 0.254 (36.4) | 0.203 (27.9) |
-| Ctrough (mcg per mL) | NA | 0.0041 (39.5) |
-| CV = coefficient of variation; NA = not applicable |  |  |
+| Age Group | Parameter Mean (CV%) | Tenofovir AlafenamideFrom Intensive PK analyses in Trial 1092: Cohort 1, N=13 except N=11 for AUCtau; Cohort 2, Group 1, N=5. | TenofovirFrom Intensive PK analyses in Trial 1092: Cohort 1, N=13; Cohort 2, Group 1, N=5. |
+| --- | --- | --- | --- |
+| 12 to <18 Years weighing ≥35 kg | Cmax (mcg per mL) | 0.188 (45.0) | 0.015 (23.5) |
+| AUCtau (mcg∙hour per mL) | 0.254 (36.4) | 0.244 (28.3) |  |
+| Ctrough (mcg per mL) | NA | 0.0079 (35.0) |  |
+| 6 to <12 Years weighing ≥25 kg | Cmax (mcg per mL) | 0.388 (96.9) | 0.017 (19.6) |
+| AUCtau (mcg∙hour per mL) | 0.313 (64.8) | 0.272 (17.5) |  |
+| Ctrough (mcg per mL) | NA | 0.0089 (10.2) |  |
+| CV = coefficient of variation; NA = not applicable |  |  |  |
 
 Patients with Renal Impairment
 
@@ -81,7 +84,7 @@ Table 8 Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir i
 | AUC (mcg∙hour per mL) | 0.27 (49.2)AUCinf. | 0.51 (47.3) | 0.30 (26.7)AUClast. | 0.23 (53.2) |
 | Cmax (mcg per mL) | 0.20 (62.1) | 0.36 (65.7) | 0.23 (48.4) | 0.25 (75.4) |
 | Tenofovir |  |  |  |  |
-| AUC (mcg∙hour per mL) | 0.34 (27.2) | 2.07 (47.1) | 18.8 (30.4)AUCtau. | 8.72 (39.4),N=10. |
+| AUC (mcg∙hour per mL) | 0.34 (27.2) | 2.07 (47.1) | 18.8 (30.4)AUCtau. | 8.72 (39.4), N=10. |
 | Cmax (mcg per mL) | 0.01 (36.5) | 0.03 (32.4) | 0.89 (26.4) | 0.44 (40.9) |
 | C24h (mcg per mL) | 0.004 (25.6) | 0.02 (41.9) | 0.89 (26.4) | 0.26 (73.2) |
 | CV = coefficient of variation |  |  |  |  |
@@ -111,7 +114,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir A
 | CobicistatA representative inhibitor of P-glycoprotein. | 150 once daily | 8 once daily | 12 | 2.83 (2.20, 3.65) | 2.65 (2.29, 3.07) | NC |
 | Ledipasvir/ Sofosbuvir | 90/400 once daily | 25 once dailyStudy conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NC |
 | Sertraline | 50 single dose | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.00 (0.86, 1.16) | 0.96 (0.89, 1.03) | NC |
-| Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100+ 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 1.32 (1.17, 1.48) | 1.52 (1.43, 1.61) | NC |
+| Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100+100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 1.32 (1.17, 1.48) | 1.52 (1.43, 1.61) | NC |
 | NC = not calculated |  |  |  |  |  |  |
 
 Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir AlafenamideAll interaction studies conducted in healthy subjects.
@@ -161,9 +164,9 @@ In a pooled analysis of treatment-naïve and treatment-experienced subjects rece
 
 In virologically suppressed subjects receiving VEMLIDY in Trial 4018 [see Clinical Studies (14.3)], no subjects qualified for resistance analysis through 48 weeks of VEMLIDY treatment.
 
-In pediatric Trial 1092, 30/47 subjects aged 12 to less than 18 years receiving VEMLIDY qualified for resistance analysis at Week 24.
-Results were obtained for 27/30 qualified subjects.
-No HBV amino acid substitutions known to be associated with resistance to tenofovir alafenamide were detected through 24 weeks of treatment [see Clinical Studies (14.5)].
+In pediatric Trial 1092, 17/70 subjects in Cohort 1 (aged 12 to less than 18 years) and 7/18 subjects in Cohort 2, Group 1 (aged 6 to less than 12 years) receiving VEMLIDY qualified for resistance analysis at Week 96.
+Results were obtained from 19/24 qualified subjects.
+No HBV amino acid substitutions known to be associated with resistance to tenofovir alafenamide were detected through 96 weeks of treatment [see Clinical Studies (14.5)].
 
 Cross-Resistance
 

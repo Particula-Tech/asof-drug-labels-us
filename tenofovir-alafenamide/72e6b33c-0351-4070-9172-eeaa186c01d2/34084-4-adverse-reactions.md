@@ -97,10 +97,10 @@ Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, tr
 
 Table 3 Lipid Abnormalities: Mean Change from Baseline in Lipid Parameters in Patients with Chronic HBV Infection and Compensated Liver Disease in Trials 108 and 110 (Week 96 analysis)
 
-|  | mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 96 values. | mg/dL | Change |
+| mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 96 values. | mg/dL | Change |  |
 | --- | --- | --- | --- | --- |
 |  | VEMLIDY (N=866) |  | TDF (N=432) |  |
-|  | Baseline | Week 96 | Baseline | Week 96 |
+| Baseline | Week 96 | Baseline | Week 96 |  |
 | Total Cholesterol (fasted) | 188 [n=835] | -1 [n=742] | 193 [n=423] | -25 [n=368] |
 | HDL-Cholesterol (fasted) | 60 [n=835] | -5 [n=740] | 61 [n=423] | -12 [n=368] |
 | LDL-Cholesterol (fasted) | 116 [n=835] | +7 [n=741] | 120 [n=423] | -10 [n=368] |
@@ -126,13 +126,18 @@ The safety of VEMLIDY, including changes from baseline in renal function, BMD, a
 
 Adverse Reactions in Pediatric Subjects with Chronic Hepatitis B
 
-The safety of VEMLIDY was evaluated in HBV-infected treatment-naïve and treatment-experienced pediatric subjects between the ages of 12 to less than 18 years (Cohort 1; N=70) through Week 24 in a randomized, double-blind, placebo-controlled clinical trial (Trial 1092) [see Clinical Studies (14.5)].
+The safety of VEMLIDY was evaluated in HBV-infected treatment-naïve and treatment-experienced pediatric subjects between the ages of 12 to less than 18 years and weighing at least 35 kg (Cohort 1; N=70) and 6 to less than 12 years and weighing at least 25 kg (Cohort 2, Group 1: N=18) through Week 24 in a randomized, double-blind, placebo-controlled clinical trial (Trial 1092).
+Subjects were then eligible to roll over to receive open-label VEMLIDY.
+Safety data are available through Week 96 [see Clinical Studies (14.5)].
 The safety profile of VEMLIDY was similar to that in adults.
 
 Bone Mineral Density Effects
 
-Among the Cohort 1 subjects treated with VEMLIDY and placebo, the mean percent change in BMD from baseline to Week 24 was 2.4% (N=37) and 1.9% (N=18) for lumbar spine, and 1.5% (N=39) and 1.9% (N=18) for whole body, respectively.
-At Week 24, mean changes from baseline BMD Z-scores were -0.03 and -0.09 for lumbar spine, and -0.05 and -0.01 for whole body, for the Cohort 1 VEMLIDY and placebo groups, respectively.
+Among the Cohort 1 and Cohort 2, Group 1 subjects treated with VEMLIDY and placebo, the mean percent change in BMD from baseline to Week 24 was 1.6% (N=48) and 1.9% (N=23) for lumbar spine, and 1.9% (N=50) and 2.0% (N=23) for whole body, respectively.
+At Week 24, mean changes from baseline BMD Z-scores were 0.01 and -0.07 for lumbar spine, and -0.04 and -0.04 for whole body, for the VEMLIDY and placebo groups, respectively.
+At Week 24, BMD declines of 4% or greater at lumbar spine and whole body were experienced by 6% and 2% of VEMLIDY subjects, respectively.
+
+In the open-label phase, mean percentage change in lumbar spine and whole body BMD and BMD Z-scores from baseline to Week 96 was similar in subjects who remained on VEMLIDY compared to those who switched from placebo to VEMLIDY.
 
 ## 6.2 Postmarketing Experience
 

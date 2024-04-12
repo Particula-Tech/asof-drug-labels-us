@@ -20,7 +20,7 @@ Data
 
 Human Data
 
-Based on prospective reports to the APR of over 800 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 650 exposed in the first trimester and over 150 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.5% (95% CI: 2.3% to 5.2%) and 3.3% (95% CI: 1.1% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+Based on prospective reports to the APR of over 1330 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 1080 exposed in the first trimester and over 240 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.9% (95% CI: 2.8% to 5.2%) and 4.8% (95% CI: 2.5% to 8.3%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 Methodologic limitations of the APR include the use of MACDP as the external comparator group.
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
@@ -40,23 +40,18 @@ Doses up to 600 mg/kg/day were administered through lactation; no adverse effect
 
 Risk Summary
 
-It is not known whether VEMLIDY and its metabolites are present in human breast milk, affect human milk production, or have effects on the breastfed infant.
-Tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF (see Data).
-It is not known if tenofovir alafenamide can be present in animal milk.
+Data from the published literature report the presence of TAF and tenofovir in human milk.
+Data from the published literature have not reported adverse effects of TAF on a breastfed child.
+There are no data on the effects of TAF on milk production.
+
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for VEMLIDY and any potential adverse effects on the breastfed infant from VEMLIDY or from the underlying maternal condition.
-
-Data
-
-Studies in rats and monkeys have demonstrated that tenofovir is secreted in milk.
-Tenofovir was excreted into the milk of lactating rats following oral administration of TDF (up to 600 mg/kg/day) at up to approximately 24% of the median plasma concentration in the highest dosed animals at lactation day 11 (see Data 8.1).
-Tenofovir was excreted into the milk of lactating monkeys following a single subcutaneous (30 mg/kg) dose of tenofovir at concentrations up to approximately 4% of plasma concentration, resulting in exposure (AUC) of approximately 20% of plasma exposure.
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety, and effectiveness of VEMLIDY for the treatment of chronic HBV infection have been established in pediatric patients between the ages of 12 to less than 18 years (N=47) in Trial 1092 for 24 weeks.
+The pharmacokinetics, safety, and effectiveness of VEMLIDY for the treatment of chronic HBV infection have been established in pediatric patients between the ages of 6 to less than 18 years and weighing at least 25 kg (N=59) in Trial 1092 up to 96 weeks.
 No clinically meaningful differences in pharmacokinetics or safety were observed in comparison to those observed in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
 
-Safety and effectiveness of VEMLIDY has not been established in pediatric patients with chronic HBV infection who are less than 12 years of age.
+Safety and effectiveness of VEMLIDY has not been established in pediatric patients with chronic HBV infection who are less than 6 years of age or weigh less than 25 kg.
 
 ## 8.5 Geriatric Use
 
