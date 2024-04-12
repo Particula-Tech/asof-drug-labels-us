@@ -261,7 +261,7 @@ Observed values for patients completing each scheduled visit, and estimates with
 
 1. Figure 8Change from baseline (%) in body weight (Study 4 on left and Study 5a on right)
 
-Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI) aChange from week 0 was not a primary endpoint in study 4.
+Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI) aChange from week 0 was not a primary endpoint in study 5.
 Dotted line indicates time of randomization.
 Randomized patients (shown) do not include 99 patients that discontinued during the 20-week run-in period.
 
