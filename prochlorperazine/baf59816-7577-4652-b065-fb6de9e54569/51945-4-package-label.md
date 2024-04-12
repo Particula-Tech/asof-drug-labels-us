@@ -46,5 +46,3 @@ Discard contents
 if markedly discolored.
 
 25 x 2 mL vial
-
-# SERIALIZATION IMAGE
