@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-ZEPBOUND™ is indicated as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management in adults with an initial body mass index (BMI) of:
+ZEPBOUND® is indicated as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management in adults with an initial body mass index (BMI) of:
 
 - 30 kg/m2 or greater (obesity) or
 - 27 kg/m2 or greater (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidemia, type 2 diabetes mellitus, obstructive sleep apnea, or cardiovascular disease).

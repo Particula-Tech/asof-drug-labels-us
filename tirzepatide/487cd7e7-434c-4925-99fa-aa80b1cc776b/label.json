@@ -5,6 +5,12 @@
   "inn": "tirzepatide",
   "labeler": "Eli Lilly and Company",
   "package_ndcs": [
+    "0002-0152-01",
+    "0002-0243-01",
+    "0002-1214-01",
+    "0002-1340-01",
+    "0002-1423-01",
+    "0002-2002-01",
     "0002-2457-01",
     "0002-2457-80",
     "0002-2460-01",
@@ -24,6 +30,11 @@
       "form": "INJECTION, SOLUTION",
       "generic": "tirzepatide",
       "name": "ZEPBOUND"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tirzepatide",
+      "name": "Zepbound"
     }
   ],
   "setid": "487cd7e7-434c-4925-99fa-aa80b1cc776b",

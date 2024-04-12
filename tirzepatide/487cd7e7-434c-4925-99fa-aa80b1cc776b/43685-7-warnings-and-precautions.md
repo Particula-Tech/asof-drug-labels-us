@@ -16,7 +16,7 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Severe Gastrointestinal Disease
 
-Use of ZEPBOUND has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions 6.1].
+Use of ZEPBOUND has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
 In clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving ZEPBOUND (5 mg 1.7%, 10 mg 2.5%, 15 mg 3.1%) than placebo (1%).
 ZEPBOUND has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and is therefore not recommended in these patients.
 

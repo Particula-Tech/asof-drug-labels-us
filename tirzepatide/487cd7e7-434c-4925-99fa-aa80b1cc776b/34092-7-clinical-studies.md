@@ -4,7 +4,7 @@
 
 Overview of Clinical Studies
 
-The efficacy of ZEPBOUND for chronic weight management (weight reduction and maintenance) in conjunction with a reduced-calorie diet and increased physical activity was studied in two randomized, double-blind, placebo-controlled trials (Study 1 and Study 2), in which weight reduction was assessed after 72 weeks of treatment (at least 52 weeks at maintenance dose).
+The efficacy of ZEPBOUND for chronic weight management (weight reduction and maintenance) in conjunction with a reduced-calorie diet and increased physical activity was studied in two randomized, double-blind, placebo-controlled trials (Study 1 and Study 2) in adults aged 18 years and older, in which weight reduction was assessed after 72 weeks of treatment (at least 52 weeks at maintenance dose).
 In Study 1, the dose of ZEPBOUND or matching placebo was escalated to 5 mg, 10 mg, or 15 mg subcutaneously once weekly during a 20-week titration period followed by the maintenance period.
 In Study 2, the dose of ZEPBOUND or matching placebo was escalated to 10 mg or 15 mg subcutaneously once weekly during a 20-week titration period followed by the maintenance period.
 

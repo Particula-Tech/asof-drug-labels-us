@@ -57,6 +57,11 @@ Contraception
 Use of ZEPBOUND may reduce the efficacy of oral hormonal contraceptives.
 Advise patients using oral hormonal contraceptives to switch to a non-oral contraceptive method or add a barrier method of contraception for 4 weeks after initiation with ZEPBOUND and for 4 weeks after each dose escalation [see Drug Interactions (7.2), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)].
 
+Administration
+
+Instruct patients how to prepare and administer the correct dose of ZEPBOUND and assess their ability to inject subcutaneously to ensure the proper administration of ZEPBOUND.
+Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.4)].
+
 Missed Doses
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 4 days after the missed dose.
@@ -65,7 +70,7 @@ In each case, inform patients to resume their regular once weekly dosing schedul
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2023, Eli Lilly and Company.
+Copyright © 2023, 2024, Eli Lilly and Company.
 All rights reserved.
 
-ZEP-0001-USPI-20231108
+ZEP-0002-USPI-20240328

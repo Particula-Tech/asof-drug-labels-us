@@ -30,6 +30,7 @@ Table 1: BMI Conversion Chart
 
 - Prior to initiation of ZEPBOUND, train patients and caregivers on proper injection technique.
   Refer to the accompanying Instructions for Use for complete administration instructions with illustrations.
+- Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose).
 - Inspect ZEPBOUND visually before use.
   It should appear clear and colorless to slightly yellow.
   Do not use ZEPBOUND if particulate matter or discoloration is seen.

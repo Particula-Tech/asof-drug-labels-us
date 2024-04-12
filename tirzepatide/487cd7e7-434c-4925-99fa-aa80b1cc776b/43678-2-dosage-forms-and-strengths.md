@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: Clear, colorless to slightly yellow solution available in pre-filled single-dose pens of the following strengths:
+Injection: Clear, colorless to slightly yellow solution in pre-filled single-dose pens or single-dose vials, each available in the following strengths:
 
 - 2.5 mg/0.5 mL
 - 5 mg/0.5 mL

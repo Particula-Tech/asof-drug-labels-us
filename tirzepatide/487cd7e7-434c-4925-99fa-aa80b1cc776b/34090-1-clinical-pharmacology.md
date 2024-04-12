@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Tirzepatide is a GIP receptor and GLP-1 receptor agonist.
-It is an amino acid sequence including a C20 fatty diacid moiety that enables albumin binding and prolongs the half-life.
+It contains a C20 fatty diacid that enables albumin binding and prolongs the half-life.
 Tirzepatide selectively binds to and activates both the GIP and GLP-1 receptors, the targets for native GIP and GLP-1.
 
 GLP-1 is a physiological regulator of appetite and caloric intake.
@@ -44,7 +44,7 @@ The apparent population mean clearance (CV%) of tirzepatide in patients with ove
 
 Metabolism
 
-Tirzepatide is metabolized by proteolytic cleavage of the peptide backbone, beta-oxidation of the C20 fatty diacid moiety, and amide hydrolysis.
+Tirzepatide is metabolized by proteolytic cleavage of the peptide backbone, beta-oxidation of the C20 fatty diacid, and amide hydrolysis.
 
 Excretion
 

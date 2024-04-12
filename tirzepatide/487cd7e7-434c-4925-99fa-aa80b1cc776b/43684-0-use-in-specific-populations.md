@@ -31,7 +31,7 @@ Data
 
 Animal Data
 
-In pregnant rats given twice weekly subcutaneous doses of 0.02, 0.1, and 0.5 mg/kg tirzepatide (0.03-, 0.07-, and 0.5-fold the maximum recommended human dose (MRHD) of 15 mg once weekly based on AUC) during organogenesis, increased incidences of external, visceral, and skeletal malformations, increased incidences of visceral and skeletal developmental variations, and decreased fetal weights coincided with pharmacologically-mediated reductions in maternal body weights and food consumption at 0.5 mg/kg.
+In pregnant rats given twice weekly subcutaneous doses of 0.02, 0.1, and 0.5 mg/kg tirzepatide [0.03-, 0.07-, and 0.5-fold the maximum recommended human dose (MRHD) of 15 mg once weekly based on AUC] during organogenesis, increased incidences of external, visceral, and skeletal malformations, increased incidences of visceral and skeletal developmental variations, and decreased fetal weights coincided with pharmacologically-mediated reductions in maternal body weights and food consumption at 0.5 mg/kg.
 In pregnant rabbits given once weekly subcutaneous doses of 0.01, 0.03, or 0.1 mg/kg tirzepatide (0.01-, 0.06-, and 0.2-fold the MRHD) during organogenesis, pharmacologically mediated effects on the gastrointestinal system resulting in maternal mortality or abortion in a few rabbits occurred at all dose levels.
 Reduced fetal weights associated with decreased maternal food consumption and body weights were observed at 0.1 mg/kg.
 In a pre- and post-natal study in rats administered subcutaneous doses of 0.02, 0.10, or 0.25 mg/kg tirzepatide twice weekly from implantation through lactation, F1 pups from F0 maternal rats given 0.25 mg/kg tirzepatide had statistically significant lower mean body weight when compared to controls from post-natal day 7 through post-natal day 126 for males and post-natal day 56 for females.
@@ -53,7 +53,7 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ZEPBOUND have not been established in pediatric patients less than 18 years of age.
+The safety and effectiveness of ZEPBOUND have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
