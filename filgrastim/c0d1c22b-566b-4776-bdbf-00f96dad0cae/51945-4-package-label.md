@@ -35,8 +35,6 @@ Rx only
 
 SANDOZ
 
-A Novartis Division
-
 # 480 mcg Carton
 
 Zarxio®
@@ -73,5 +71,3 @@ Which May Cause Allergic Reaction.
 Rx only
 
 SANDOZ
-
-A Novartis Division

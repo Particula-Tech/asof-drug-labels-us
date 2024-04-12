@@ -69,8 +69,8 @@ The visibility of these markings is necessary to accurately measure doses of ZAR
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
 
 ZARXIO is supplied in single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
-Prior to use‚ remove the prefilled syringe from the refrigerator and allow ZARXIO to reach room temperature for a minimum of 30 minutes and a maximum of 4 days.
-Discard any prefilled syringe left at room temperature for greater than 4 days.
+Prior to use‚ remove the prefilled syringe from the refrigerator and allow ZARXIO to reach room temperature for a minimum of 30 minutes and a maximum of 8 days.
+Discard any prefilled syringe left at room temperature for greater than 8 days.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration (the solution is clear and colorless to slightly yellowish).
 Do not administer ZARXIO if particulates or discoloration are observed.
 

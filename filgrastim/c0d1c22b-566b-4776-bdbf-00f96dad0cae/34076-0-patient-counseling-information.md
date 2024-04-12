@@ -50,8 +50,6 @@ US License No. 2003
 
 At:
 
-Sandoz GmbH
+Novartis Pharmaceutical Manufacturing GmbH
 
 Langkampfen, Austria
-
-Product of Austria
