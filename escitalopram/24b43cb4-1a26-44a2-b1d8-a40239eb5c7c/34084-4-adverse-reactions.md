@@ -201,6 +201,9 @@ Special Senses - vision blurred, tinnitus.
 
 Urinary System Disorders - urinary frequency, urinary tract infection.
 
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets and LEXAPRO (escitalopram) oral solution.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Post-Marketing Experience
 
 Adverse Reactions Reported Subsequent to the Marketing of Escitalopram The following adverse reactions have been identified during post-approval use of escitalopram.Because these reacations are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

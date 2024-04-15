@@ -31,7 +31,7 @@ What is Escitalopram tablets?
 
 Escitalopram tablets is a prescription medicine used to treat: • a certain type of depression called Major Depressive Disorder (MDD) in adults and children 12 years of age and older • Generalized Anxiety Disorder (GAD) in adults
 
-It is not known if escitalopram tablets is safe and effective for use in children under 12 years of age with MDD.
+It is not known if escitalopram tablets is safe and effective for use in children under 12 years of age with MDD or children under 7 years of age with GAD.
 
 Do not take Escitalopram Tablets if you or your child: • are taking, or have stopped taking within the last 14 days, a medicine called a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid or intravenous methylene blue • are taking the antipsychotic medicine pimozide • are allergic to escitalopram or citalopram or any of the ingredients in escitalopram tablets.
 See the end of this Medication Guide for a complete list of ingredients in escitalopram tablets.
@@ -221,4 +221,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Medication Guide available at:www.macleodspharma.com/usa
 
-Revised: September 2023
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets and LEXAPRO (escitalopram) oral solution.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
+Revised: November 2023

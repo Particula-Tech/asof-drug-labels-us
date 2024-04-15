@@ -69,3 +69,6 @@ As with other psychotropic medications, the use of alcohol by patients taking es
 Warfarin Administration of 40 mg/day racemic citalopram for 21 days did not affect the pharmacokinetics of warfarin, a CYP3A4 substrate.
 Prothrombin time was increased by 5%.
 The clinical significance of these findings is unknown.
+
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets and LEXAPRO (escitalopram) oral solution.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

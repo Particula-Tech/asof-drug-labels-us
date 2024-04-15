@@ -28,3 +28,6 @@ Adults The efficacy of escitalopram in the treatment of generalized anxiety diso
 In all three studies, escitalopram showed statistically significant greater mean improvement compared to placebo on the Hamilton Anxiety Scale (HAM-A).
 There were too few patients in differing ethnic and age groups to adequately assess whether or not escitalopram has differential effects in these groups.
 There was no difference in response to escitalopram between men and women.
+
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets and LEXAPRO (escitalopram) oral solution.
+However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
