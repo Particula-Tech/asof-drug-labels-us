@@ -68,11 +68,11 @@ The results of this study indicated that the mean dose-normalized AUC of docetax
 
 Effect of Combination Therapies
 
-- • Dexamethasone: Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
-- • Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
+- •Dexamethasone: Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
+- •Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
   The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
-- • Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
-- • Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
-- • Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2) when administered in combination.
+- •Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
+- •Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
+- •Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2) when administered in combination.
   The coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only.
   In addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.

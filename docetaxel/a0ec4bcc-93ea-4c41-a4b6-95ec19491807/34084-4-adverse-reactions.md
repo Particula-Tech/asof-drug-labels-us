@@ -408,7 +408,7 @@ Combination Therapy with Docetaxel in Chemotherapy-Naïve Advanced Unresectable 
 Table 8 presents safety data from two arms of an open label, randomized controlled trial (TAX326) that enrolled patients with unresectable stage IIIB or IV non-small cell lung cancer and no history of prior chemotherapy.
 Adverse reactions were described using the NCI Common Toxicity Criteria except where otherwise noted.
 
-Table: Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy-Naïve Advanced Non-small Cell Lung Cancer Patients Receiving Docetaxel in Combination with Cisplatin
+Table 8: Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy-Naïve Advanced Non-small Cell Lung Cancer Patients Receiving Docetaxel in Combination with Cisplatin
 
 | Adverse Reaction | Docetaxel 75 mg/m2 + Cisplatin 75 mg/m2 n=406 % | Vinorelbine 25 mg/m2 + Cisplatin 100 mg/m2 n=396 % |
 | --- | --- | --- |
