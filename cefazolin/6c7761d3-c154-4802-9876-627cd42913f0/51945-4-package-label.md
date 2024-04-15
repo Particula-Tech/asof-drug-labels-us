@@ -49,5 +49,3 @@ FOR INTRAVENOUS INFUSION ONLY
 25 x 3 gram Single-Dose Vials
 
 Discard Unused Portion
-
-# Serialization Image
