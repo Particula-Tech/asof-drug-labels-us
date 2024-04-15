@@ -17,5 +17,3 @@ AcetaZOLAMIDE for Injection, USP
 500 mg* per vial
 
 For Intravenous Use
-
-# SERIALIZATION IMAGE
