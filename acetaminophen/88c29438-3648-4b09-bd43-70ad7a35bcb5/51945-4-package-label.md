@@ -19,5 +19,3 @@ Acetaminophen Injection
 1,000 mg per 100 mL (10 mg/mL)
 
 For Intravenous Use Only
-
-# Representative Serialization Image
