@@ -33,5 +33,3 @@ For Intramuscular or
 Intravenous use
 
 25 x 2 mL Multiple-Dose Vials
-
-# SERIALIZATION IMAGE
