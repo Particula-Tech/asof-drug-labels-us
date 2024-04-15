@@ -53,8 +53,8 @@ Table 1: CRESTOR Dosage Modifications Due to Drug Interactions
 | Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
 | Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily. |
 | Antiviral Medications |  |
-| ∘Sofbuvir/velpatasvir/voxilaprevir∘Ledipasvir/sofosbuvir | Concomitant use not recommended. |
-| ∘Simeprevir∘Dasabuvir/ombitasvir/paritaprevir/ritonavir∘Elbasvir/Grazoprevir∘Sofosbuvir/Velpatasvir∘Glecaprevir/Pibrentasvir∘Atazanavir/Ritonavir∘Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
+| •Sofbuvir/velpatasvir/voxilaprevir•Ledipasvir/sofosbuvir | Concomitant use not recommended. |
+| •Simeprevir•Dasabuvir/ombitasvir/paritaprevir/ritonavir•Elbasvir/Grazoprevir•Sofosbuvir/Velpatasvir•Glecaprevir/Pibrentasvir•Atazanavir/Ritonavir•Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
 | Darolutamide | Do not exceed 5 mg once daily. |
 | Regorafenib | Do not exceed 10 mg once daily. |
 
