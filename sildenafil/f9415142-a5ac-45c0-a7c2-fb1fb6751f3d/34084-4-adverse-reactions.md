@@ -20,7 +20,7 @@ The overall frequency of discontinuation for placebo was 3%.
 Table 1.
 Most Common Adverse Reactions in Patients Treated with Sildenafil 20 mg, 40 mg, 80 mg and Placebo three times per day in SUPER-1 (More Frequent in Sildenafil -Treated Patients than Placebo-Treated Patients)
 
-|  | Sildenafil 20 mg (n = 69) | Sildenafil 40 mg (n = 67) | Sildenafil 80 mg (n = 71) | Placebo (n = 70) |
+|  | Sildenafil 20 mg (n = 69) | Sildenafil 40 mg (n = 67) | Sildenafil 80 mg (n = 71) | Placebo (n= 70) |
 | --- | --- | --- | --- | --- |
 | Headache | 46% | 42% | 49% | 39% |
 | Flushing | 10% | 9% | 16% | 4% |
@@ -32,14 +32,8 @@ Most Common Adverse Reactions in Patients Treated with Sildenafil 20 mg, 40 mg, 
 
 In a placebo-controlled fixed dose titration study (PACES-1) of sildenafil (starting with recommended dose of 20 mg and increased to 40 mg and then 80 mg all three times a day) as an adjunct to intravenous epoprostenol in patients with PAH, no new safety issues were identified except for edema, which occurred in 25% of subjects in the combined sildenafil+ epoprostenol group compared with 13% of subjects in the epoprostenol group [see Clinical Studies (14)].
 
-In a study to assess the effects of multiple doses of sildenafil on mortality in adults with PAH (StudyA1481324), the lower dose 5 mg TID group showed a higher observed number of deaths (all related to underlying disease/disease under study), serious adverse events, and severe adverse events than the 20 mg and 80 mg TID groups [see Clinical Studies (14)].
-Overall, the safety data for sildenafil 80 mg TID dose in Study A1481324 was consistent with the established safety profile of sildenafil in previous adult PAH studies.
-
-Pediatric Patients
-
-Sildenafil was studied in a total of 234 PAH pediatric patients 1 to 17 years of age in a 16-week, double-blind placebo-controlled study (STARTS-1); 220 patients continued in a long- term extension study (STARTS-2).
-Erection increased was observed in 9% of patients treated with sildenafil in STARTS-1.
-No other new adverse reactions were identified in pediatric patients [see Use in Specific Populations (8.4)].
+Pediatric use information is approved for Viatris Specialty LLC’s, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 

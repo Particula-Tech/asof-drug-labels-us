@@ -18,7 +18,7 @@ The incidence of epistaxis was 13% in patients taking sildenafil with PAH second
 This effect was not seen in idiopathic PAH (sildenafil 3%, placebo 2%) patients.
 The incidence of epistaxis was also higher in sildenafil -treated patients with a concomitant oral vitamin K antagonist (9% versus 2% in those not treated with concomitant vitamin K antagonist).
 
-The safety of sildenafil is unknown in patients with bleeding disorders or active peptic ulceration
+The safety of sildenafil is unknown in patients with bleeding disorders or active peptic ulceration.
 
 ## 5.4 Visual Loss
 
@@ -39,7 +39,7 @@ It is not possible to determine whether these reported events are related direct
 
 Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking PDE-5 inhibitors, including sildenafil.
 
-## 5.6 Combination with otherPDE-5 Inhibitors
+## 5.6 Combination with Other PDE-5 inhibitors
 
 Sildenafil is also marketed as VIAGRA ®.
 The safety and efficacy of combinations of sildenafil with VIAGRA or other PDE-5 inhibitors have not been studied.
@@ -51,7 +51,7 @@ Use sildenafil with caution in patients with anatomical deformation of the penis
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.
 If priapism (painful erection greater than 6 hours in duration) is not treated immediately, penile tissue damage and permanent loss of potency could result.
 
-## 5.8 Vaso-occlusive Crisisin Patients with Pulmonary Hypertension Secondary to Sickle Cell Disease
+## 5.8 Vaso-occlusive Crisis in Patients with Pulmonary Hypertension Secondary to Sickle Cell Disease
 
-In a small, prematurely terminated study of patients with pulmonary hypertension (PH) secondary to sickle cell disease, vaso-occlusive crises requiring hospitalization were more commonly reported by patients who received sildenafilthan by those randomized to placebo.
-The effectiveness and safety of sildenafilin the treatment of PH secondary to sickle cell disease has not been established.
+In a small, prematurely terminated study of patients with pulmonary hypertension (PH) secondary to sickle cell disease, vaso-occlusive crises requiring hospitalization were more commonly reported by patients who received sildenafil than by those randomized to placebo.
+The effectiveness and safety of sildenafil in the treatment of PH secondary to sickle cell disease has not been established.

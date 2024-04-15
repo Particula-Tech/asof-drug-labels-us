@@ -5,8 +5,7 @@
 Risk Summary
 
 Limited published data from randomized controlled trials, case-controlled trials, and case series do not report a clear association with sildenafil and major birth defects, miscarriage, or adverse maternal or fetal outcomes when sildenafil is used during pregnancy.
-There are risks to the mother and fetus from untreated pulmonary arterial hypertension (see Clinical Considerations).
-Animal reproduction studies conducted with sildenafil showed no evidence of embryo-fetal toxicity or teratogenicity at doses up to 32- and 65-times the recommended human dose (RHD) of 20 mg three times a day in rats and rabbits, respectively (see Data).
+There are risks to the mother and fetus from untreated pulmonary arterial hypertension (see Clinical Considerations).Animal reproduction studies conducted with sildenafil showed no evidence of embryo-fetal toxicity or teratogenicity at doses up to 32- and 65-times the recommended human dose (RHD) of 20 mg three times a day in rats and rabbits, respectively (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -22,8 +21,8 @@ Data
 
 Animal Data
 
-No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m 2 basis, 32- and 65-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
-In a rat pre- and postnatal development study, the no-observed-adverse-effect dose was 30 mg/kg/day (equivalent to 5-times the RHD on a mg/m 2 basis).
+No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m 2basis, 32- and 65-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
+In a rat pre- and postnatal development study, the no-observed-adverse-effect dose was 30 mg/kg/day (equivalent to 5-times the RHD on a mg/m 2basis).
 
 ## 8.2 Lactation
 
@@ -35,13 +34,10 @@ Limited clinical data during lactation preclude a clear determination of the ris
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of sildenafil have been established in pediatric patients 1 to 17 years old, for the treatment of PAH (WHO Group I) to improve exercise ability and, in patients too young to perform standard exercising testing, pulmonary hemodynamics thought to underly improvements in exercise Use of sildenafil for this indication is supported by evidence from adequate and well-controlled studies in adults with additional PK and safety data in pediatric patients aged 1 year and older [see Adverse Reactions (6.1), Clinical Studies (14)].
 The safety and effectiveness of sildenafil have not been established in pediatric patients younger than 1 year of age.
 
-During the conduct of the pediatric studies (STARTS-1 and STARTS-2) [see Clinical Studies (14)], an imbalance in the number of deaths was noted: 5/55 (9.1%), 10/74 (13.5%), and 22/100 (22%) in the sildenafil low, medium, and high dose groups, respectively.
-The causes of death were related to the progression of PAH.
-This safety observation in pediatrics was not confirmed in a study conducted in adults designed to evaluate this risk (Study A1481324).
-Given the beneficial effects on clinical worsening and death observed in adults with increasing doses (Study A1481324) and the expected similarity of disease in pediatrics and adults, a causal association for the observed dose-related effect on mortality in pediatric patients is unlikely, and therefore, the available data support dosing in pediatric patients >45 kg up to a maximum of 40 mg three times a day.
+Pediatric use information is approved for Viatris Specialty LLC’s, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

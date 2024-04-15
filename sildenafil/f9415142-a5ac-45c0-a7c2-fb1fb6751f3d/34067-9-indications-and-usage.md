@@ -4,6 +4,5 @@ Adults
 
 Sildenafil tablets are indicated for the treatment of pulmonary arterial hypertension (PAH) (World Health Organization [WHO] Group I) in adults to improve exercise ability and delay clinical worsening [see Clinical Studies (14)].
 
-Pediatric Patients (1 to 17 Years old)
-
-Sildenafil tablets are indicated in pediatric patients 1 to 17 years old for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) to improve exercise ability and, in pediatric patients too young to perform standardized exercise testing, pulmonary hemodynamics thought to underly improvements in exercise [see Clinical Studies (14)].
+Pediatric use information is approved for Viatris Specialty LLC’s, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.

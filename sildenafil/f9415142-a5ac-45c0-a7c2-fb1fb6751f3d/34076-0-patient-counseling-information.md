@@ -10,5 +10,5 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking sildenafil.
   These events may be accompanied by tinnitus and dizziness.
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
-Revised: 03/2023
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar - 509 301, India.
+Revised: 02/2024
