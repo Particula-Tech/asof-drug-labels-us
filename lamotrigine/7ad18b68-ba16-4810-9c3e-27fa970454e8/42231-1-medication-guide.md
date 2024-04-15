@@ -98,8 +98,7 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Meningitis has many causes other than SUBVENITE, which your doctor would check for if you developed meningitis while taking SUBVENITE.
 
-SUBVENITE can cause other serious side effects.
-For more information ask your healthcare provider or pharmacist.
+SUBVENITE can cause other serious side effects.For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled "What are the possible side effects of SUBVENITE?"
 
@@ -232,7 +231,7 @@ You can ask your healthcare provider or pharmacist for information about SUBVENI
 For more information, call 1-800-273-6729.
 
 What are the ingredients in SUBVENITE?
-SUBVENITE (lamotrigine) tablets, USP
+SUBVENITE (lamotrigine)tablets, USP
 
 Active ingredient: lamotrigine, USP.
 

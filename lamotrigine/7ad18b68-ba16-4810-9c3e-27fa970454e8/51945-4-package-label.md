@@ -24,9 +24,9 @@ SUBVENITE TM
 
 (lamotrigine tablets, USP) 100 mg
 
-CAUTION: Verify Product Dispensed
+CAUTION:Verify Product Dispensed
 
-ATTENTION: Dispense the accompanying Medication Guide to each patient
+ATTENTION:Dispense the accompanying Medication Guide to each patient
 
 Rx Only
 
@@ -40,9 +40,9 @@ SUBVENITE TM
 
 (lamotrigine tablets, USP) 150 mg
 
-CAUTION: Verify Product Dispensed
+CAUTION:Verify Product Dispensed
 
-ATTENTION: Dispense the accompanying Medication Guide to each patient
+ATTENTION:Dispense the accompanying Medication Guide to each patient
 
 Rx Only
 
@@ -56,9 +56,9 @@ SUBVENITE TM
 
 (lamotrigine tablets, USP) 200 mg
 
-CAUTION: Verify Product Dispensed
+CAUTION:Verify Product Dispensed
 
-ATTENTION: Dispense the accompanying Medication Guide to each patient
+ATTENTION:Dispense the accompanying Medication Guide to each patient
 
 Rx Only
 

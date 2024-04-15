@@ -14,7 +14,7 @@ Criteria for escape relative to baseline were: (1) doubling of average monthly s
 The primary efficacy variable was the proportion of patients in each treatment group who met escape criteria.
 
 The percentages of patients who met escape criteria were 42% (32/76) in the group receiving SUBVENITE and 69% (55/80) in the valproate group.
-The difference in the percentage of patients meeting escape criteria was statistically significant (P= 0.0012) in favor of SUBVENITE.
+The difference in the percentage of patients meeting escape criteria was statistically significant (P=0.0012) in favor of SUBVENITE.
 No differences in efficacy based on age, sex, or race were detected.
 
 Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this trial was to demonstrate the effectiveness and safety of monotherapy with SUBVENITE, and cannot be interpreted to imply the superiority of SUBVENITE to an adequate dose of valproate.
@@ -74,7 +74,7 @@ Patients with at least 3 PGTC seizures during an 8-week baseline phase were rand
 Patients were dosed on a fixed-dose regimen, with target doses ranging from 3 to 12 mg/kg/day for pediatric patients and from 200 to 400 mg/day for adult patients based on concomitant AEDs.
 
 The primary efficacy endpoint was percentage change from baseline in PGTC seizures.
-For the intent-to-treat population, the median percent reduction in PGTC seizures was 66% in patients treated with SUBVENITE and 34% on placebo, a difference that was statistically significant (P = 0.006).
+For the intent-to-treat population, the median percent reduction in PGTC seizures was 66% in patients treated with SUBVENITE and 34% on placebo, a difference that was statistically significant (P= 0.006).
 
 ## 14.2 Bipolar Disorder
 
