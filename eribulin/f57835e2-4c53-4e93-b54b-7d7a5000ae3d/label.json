@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218047"
+  ],
+  "inn": "eribulin",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-592-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "eribulin mesylate",
+      "name": "eribulin mesylate"
+    }
+  ],
+  "setid": "f57835e2-4c53-4e93-b54b-7d7a5000ae3d",
+  "source": "dailymed"
+}
