@@ -50,6 +50,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of SOVUNA have been established in pediatric patients for the treatment of uncomplicated malaria due to P. falciparum, P. malariae, P. vivax, and P. ovale, as well as for the prophylaxis of malaria in geographic areas where chloroquine resistance is not reported.
+However, this product cannot be directly administered to pediatric patients weighing less than 23 kg because the lowest possible dose of 150 mg (half of the scored 300 mg tablet) exceeds the recommended dose for these patients [see Dosage and Administration (2.2)].
 
 The safety and effectiveness of SOVUNA have not been established in pediatric patients for the treatment of rheumatoid arthritis, chronic discoid lupus erythematosus, or systemic lupus erythematosus.
 

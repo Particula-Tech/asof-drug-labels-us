@@ -20,7 +20,7 @@ Avoid SOVUNA administration in patients with congenital or documented acquired Q
 - Proarrhythmic conditions, e.g., bradycardia (< 50 bpm).
 - History of ventricular dysrhythmias.
 - Uncorrected hypokalemia and/or hypomagnesemia.
-- Concomitant administration with QT interval prolonging agents [see Drug Interactions (7.1)] as this may lead to an increased risk for ventricular arrhythmias.
+- Concomitant administration with QT interval prolonging agents as this may lead to an increased risk for ventricular arrhythmias [see Drug Interactions (7.1)].
 
 Therefore, SOVUNA is not recommended in patients taking other drugs that have the potential to prolong the QT interval.
 Correct electrolyte imbalances prior to use.
@@ -45,7 +45,7 @@ If ocular toxicity is suspected, discontinue SOVUNA and monitor the patient clos
 
 Serious adverse reactions have been reported with the use of SOVUNA including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS syndrome), acute generalized exanthematous pustulosis (AGEP).
 Monitor for serious skin reactions, especially in patients receiving a drug that may also induce dermatitis.
-Advise patients to seek medical attention promptly if they experience signs and symptoms of serious skin reactions such as blisters on the skin, eyes, lips or in the mouth, itching or burning, with or without fever [see Warnings and Precautions (5.4), Adverse Reactions (6)].
+Advise patients to seek medical attention promptly if they experience signs and symptoms of serious skin reactions such as blisters on the skin, eyes, lips or in the mouth, itching or burning, with or without fever [see Warnings and Precautions (5.4,5.5), Adverse Reactions (6)].
 Discontinue SOVUNA if these severe reactions occur.
 
 ## 5.4 Worsening of Psoriasis
@@ -55,7 +55,7 @@ Avoid SOVUNA in patients with psoriasis, unless the benefit to the patient outwe
 
 ## 5.5 Risks Associated with Use in Porphyria
 
-Administration of SOVUNA in patients with porphyria may exacerbate porphyria.
+Administration of SOVUNA to patients with porphyria may exacerbate porphyria.
 Avoid SOVUNA in patients with porphyria.
 
 Hepatotoxicity Associated with Porphyria Cutanea Tarda

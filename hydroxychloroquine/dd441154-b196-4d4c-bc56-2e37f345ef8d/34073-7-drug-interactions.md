@@ -4,7 +4,7 @@
 
 SOVUNA prolongs the QT interval.
 There may be an increased risk of inducing ventricular arrhythmias if SOVUNA is used concomitantly with other arrhythmogenic drugs.
-Therefore, SOVUNA is not recommended in patients taking other drugs that have the potential to prolong the QT interval or are arrhythmogenic [see Warnings and Precautions (5.1].
+Therefore, SOVUNA is not recommended in patients taking other drugs that have the potential to prolong the QT interval or are arrhythmogenic [see Warnings and Precautions (5.1)].
 
 ## 7.2 Insulin or Other Antidiabetic Drugs
 

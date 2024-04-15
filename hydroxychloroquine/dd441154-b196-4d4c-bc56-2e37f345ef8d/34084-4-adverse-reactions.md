@@ -12,6 +12,7 @@ The following adverse reactions are described in greater detail in other section
 - Skeletal Muscle Myopathy or Neuropathy [see Warnings and Precautions (5.8)]
 - Neuropsychiatric Reactions Including Suicidality [see Warnings and Precautions (5.9)]
 - Hypoglycemia [see Warnings and Precautions (5.10)]
+- Renal Toxicity [see Warnings and Precautions (5.11)]
 
 The following adverse reactions have been identified during post-approval use of 4­ aminoquinoline drugs, including SOVUNA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
