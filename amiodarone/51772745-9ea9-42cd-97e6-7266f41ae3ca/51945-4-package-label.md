@@ -37,5 +37,3 @@ Amiodarone Hydrochloride Injection, USP
 For Intravenous use ONLY
 
 10 x 3mL Single Dose Vials
-
-# SERIALIZATION IMAGE
