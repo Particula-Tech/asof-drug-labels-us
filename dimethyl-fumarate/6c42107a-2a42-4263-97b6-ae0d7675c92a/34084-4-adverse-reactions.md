@@ -27,7 +27,7 @@ The most common adverse reactions (incidence ≥10% and ≥2% more than placebo)
 
 Table 1: Adverse Reactions in Study 1 and 2 reported for dimethyl fumarate 240 mg BID at ≥ 2% higher incidence than placebo
 
-|  | Dimethyl fumarate N=769 % | Placebo N=771 % |
+|  | Dimethyl fumarate | Placebo |
 | --- | --- | --- |
 | Flushing | 40 | 6 |
 | Abdominal pain | 18 | 10 |

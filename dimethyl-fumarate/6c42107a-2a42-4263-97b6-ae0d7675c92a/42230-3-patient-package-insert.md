@@ -1,6 +1,8 @@
+# SPL PATIENT PACKAGE INSERT SECTION
+
 Patient Information
 
-Dimethyl Fumarate (dye meth' il fue' ma rate)
+Dimethyl Fumarate (dye meth’ il fue’ ma rate)
 
 delayed-release capsules
 
@@ -21,12 +23,9 @@ Before taking and while you take dimethyl fumarate delayed-release capsules, tel
 
 Tell your doctor if you are:
 
-pregnant or plan to become pregnant.
-It is not known if dimethyl fumarate will harm your unborn baby.
-
-- If you become pregnant while taking dimethyl fumarate delayed-release capsules, talk to your doctor about enrolling in the dimethyl fumarate delayed-release capsules Pregnancy Registry.
-  You can enroll in this registry by calling 1-866-604-3268.
-  The purpose of this registry is to monitor the health of you and your baby.
+- pregnant or plan to become pregnant.
+  It is not known if dimethyl fumarate will harm your unborn baby.
+  You and your doctor will have to decide if you should take dimethyl fumarate while you are pregnant or if you plan to become pregnant.
 
 - breastfeeding or plan to breastfeed.
   It is not known if dimethyl fumarate passes into your breast milk.
@@ -73,7 +72,7 @@ Dimethyl fumarate may cause serious side effects including:
   - Coughing up blood or blood clots
   - Vomiting blood or your vomit looks like “coffee grounds”
 
-The most common side effects of dimethyl fumarate include:
+The most common side effects ofdimethyl fumarate include:
 
 - flushing, redness, itching, or rash
 - nausea, vomiting, diarrhea, stomach pain, or indigestion.
@@ -101,9 +100,9 @@ What are the ingredients in dimethyl fumarate delayed-release capsules?
 
 Active ingredient: dimethyl fumarate
 
-Inactive ingredients: silicified microcrystalline cellulose, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, methacrylic acid and methyl methacrylate copolymer, triethyl citrate, iso propyl alcohol, methacrylic acid and ethyl acrylate copolymer dispersion, talc, simethicon emulsion, sodium lauryl sulphate and polysorbate 80.
+Inactive ingredients: silicified microcrystalline cellulose, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, methacrylic acid and methyl methacrylate copolymer, triethyl citrate, methacrylic acid and ethyl acrylate copolymer dispersion, talc, simethicon emulsion, sodium lauryl sulphate and polysorbate 80.
 
-Capsule Shell: gelatin, titanium dioxide, FD&C blue 1, yellow iron oxide, black iron oxide, shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution and potassium hydroxide.
+Capsule Shell: gelatin, titanium dioxide, FD&C blue 1, yellow iron oxide, black iron oxide, shellac, propylene glycol, strong ammonia solution and potassium hydroxide.
 
 Manufactured by:
 
@@ -125,4 +124,4 @@ www.ciplausa.com or call 1-866-604-3268
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2023
+Revised: 03/2024

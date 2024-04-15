@@ -49,13 +49,6 @@ Inform patients that GI events (abdominal pain, diarrhea, and nausea) are some o
 Some patients may experience more severe GI events.
 Advise patients to immediately contact their healthcare provider and discontinue dimethyl fumarate delayed-release capsules if they experience gastrointestinal bleeding (e.g., rectal bleeding, bloody diarrhea, hematemesis) or other serious gastrointestinal adverse events (e.g., severe abdominal pain, severe vomiting and/or diarrhea) [see Warnings and Precautions (5.7)].
 
-Pregnancy and Pregnancy Registry
-
-Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate delayed-release capsules they should inform their physician.
-
-Encourage patients to enroll in the dimethyl fumarate delayed-release capsules Pregnancy Registry if they become pregnant while taking dimethyl fumarate delayed-release capsules.
-Advise patients to call 1-866-604-3268 for more information [see Use in Specific Populations (8.1)].
-
 Manufactured by:
 
 MSN Laboratories Private Limited,
@@ -72,4 +65,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 12/2023
+Revised: 03/2024
