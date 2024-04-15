@@ -73,7 +73,7 @@ Blood and Lymphatic System Disorders: anemia, thrombocytopenia, leukopenia, hemo
 
 Gastrointestinal Disorders: pancreatitis, nausea, vomiting
 
-Hepatobiliary Disorders: cholelithiasis, cholecystitis, elevations in liver transaminases, hepatitis/jaundice, fatal and non-fatal hepatic failure
+Hepatobiliary Disorders: cholelithiasis, cholecystitis, elevations in liver transaminases including elevations more than 5 X ULN, hepatitis/jaundice, fatal and non-fatal hepatic failure
 
 Immune System Disorders: hypersensitivity syndrome including: anaphylaxis, angioedema, lupus erythematous-like syndrome, dermatomyositis, vasculitis
 

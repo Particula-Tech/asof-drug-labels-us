@@ -14,7 +14,7 @@
 
 The recommended dosage range of VYTORIN 10/10 mg to 10/40 mg once a day.
 
-## 2.3 Recommended Dosage in Pediatric Patients10 Years of Age and Older with HeFH
+## 2.3 Recommended Dosage in Pediatric Patients 10 Years of Age and Older with HeFH
 
 The recommended dosage range of VYTORIN 10/10 mg to 10/40 mg once a day.
 

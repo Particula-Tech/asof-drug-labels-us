@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-VYTORIN contains ezetimibe, a selective inhibitor of intestinal cholesterol and related phytosterol absorption, and simvastatin, an HMG-CoA reductase inhibitor.
+VYTORIN contains ezetimibe, a dietary cholesterol absorption inhibitor, and simvastatin, an HMG CoA reductase inhibitor.
 
 The chemical name of ezetimibe is 1-(4-fluorophenyl)-3(R)-[3-(4-fluorophenyl)-3(S)-hydroxypropyl]-4(S)-(4-hydroxyphenyl)-2-azetidinone.
 The empirical formula is C24H21F2NO3 and its molecular weight is 409.4.

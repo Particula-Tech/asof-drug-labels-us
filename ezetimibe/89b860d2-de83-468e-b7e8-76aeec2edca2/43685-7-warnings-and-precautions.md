@@ -71,7 +71,7 @@ Consider liver enzyme testing before VYTORIN initiation and when clinically indi
 VYTORIN is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].
 If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue VYTORIN.
 
-## 5.4 Increases in HBA1c and Fasting Serum Glucose Levels
+## 5.4 Increases in HbA1c and Fasting Serum Glucose Levels
 
 Increases in HbA1c and fasting serum glucose levels have been reported with statins, including VYTORIN.
 Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
