@@ -1,23 +1,17 @@
 # Package/Label Display Panel
 
-Fluticasone Propionate Nasal Spray, USP
+NDC 0054-3270-99 16 g net fill weight Fluticasone Propionate Nasal Spray, USP
 
-50mcg
-
-NDC# 0054-3270-99
+50 mcg For Intranasal Use Only Rx only
 
 # Package/Label Display Panel
 
-Fluticasone Propionate Nasal Spray, USP
+NDC 0054-3270-99 16 g net fill weight Fluticasone Propionate Nasal Spray, USP
 
-50mcg
-
-NDC# 0054-3270-99
+50 mcg For Intranasal Use Only Rx only
 
 # Package/Label Display Panel
 
-Fluticasone Propionate Nasal Spray, USP
+NDC 0054-3270-99 16 g net fill weight Fluticasone Propionate Nasal Spray, USP
 
-50mcg
-
-NDC# 0054-3270-99
+50 mcg For Intranasal Use Only Rx only
