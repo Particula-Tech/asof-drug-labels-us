@@ -57,7 +57,7 @@ Make sure your skin:
 4.
 How to apply DAYTRANA
 
-- Open the sealed tray or outer pouch and throw away the small packet (drying agent).
+- Open the sealed tray and throw away the small packet (drying agent).
 - Each patch is sealed in its own protective pouch.
 - Carefully cut the protective pouch open with scissors, being careful not to cut the patch.
   Do not use patches that have been cut or damaged in any way (See Figure B).

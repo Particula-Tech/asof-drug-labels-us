@@ -29,7 +29,7 @@ Patients converting from another formulation of methylphenidate should follow th
 
 The parent or caregiver should be encouraged to use the administration chart included with each carton of DAYTRANA to monitor application and removal time, and method of disposal.
 It is recommended that parents or caregivers apply and remove the transdermal system for children; responsible adolescents may apply or remove the transdermal system themselves if appropriate.
-If a transdermal system was removed without the parent or caregiver's knowledge, or if a transdermal system is missing from the tray or outer pouch, the parent or caregiver should be encouraged to ask the child when and how the transdermal system was removed.
+If a transdermal system was removed without the parent or caregiver's knowledge, or if a transdermal system is missing from the tray, the parent or caregiver should be encouraged to ask the child when and how the transdermal system was removed.
 The Medication Guide includes a timetable to calculate when to remove DAYTRANA, based on the 9-hour application time.
 
 The adhesive side of DAYTRANA should be placed on a clean, dry area of the hip.

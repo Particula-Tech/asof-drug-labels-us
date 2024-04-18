@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-DAYTRANA is supplied in a sealed tray or outer pouch containing 30 individually pouched transdermal systems.
+DAYTRANA is supplied in a sealed tray containing 30 individually pouched transdermal systems.
 See the chart below for information regarding available strengths.
 
 | Nominal Dose Delivered (mg) Over 9 Hours | Dosage Rate* (mg/hr) | Transdermal System Size (cm 2) | Methylphenidate Content per Transdermal System** (mg) | Transdermal Systems Per Carton | NDC Number |
