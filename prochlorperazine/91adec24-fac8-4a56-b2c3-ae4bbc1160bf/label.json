@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040101"
+  ],
+  "inn": "prochlorperazine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-673-90",
+    "62135-674-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "prochlorperazine maleate",
+      "name": "Prochlorperazine Maleate"
+    }
+  ],
+  "setid": "91adec24-fac8-4a56-b2c3-ae4bbc1160bf",
+  "source": "dailymed"
+}
