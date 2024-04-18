@@ -20,7 +20,7 @@ Each system is printed in blue with the "Buprenorphine Transdermal System" and 1
 NDC 42858-586-40
 
 20 mcg/hour: square, beige-colored adhesive patches measuring 72 mm by 72 mm.
-Each system is printed in blue with the "Buprenorphine Transdermal System" and 20mcg/hr.
+Each system is printed in blue with the "Buprenorphine Transdermal System" and 20 mcg/hr.
 NDC 42858-839-40
 
 Store buprenorphine transdermal system securely and dispose of properly [see Patient Counseling Information (17)].

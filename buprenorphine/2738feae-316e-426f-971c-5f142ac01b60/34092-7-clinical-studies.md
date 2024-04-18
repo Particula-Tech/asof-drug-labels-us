@@ -7,7 +7,7 @@ One study in low back pain and one study in osteoarthritis did not show a statis
 12-Week Study in Opioid-Naïve Patients with Chronic Low Back Pain
 
 A total of 1,024 patients with chronic low back pain who were suboptimally responsive to their non-opioid therapy entered an open-label, dose-titration period for up to four weeks.
-Patients initiated therapy with three days of treatment with Buprenorphine transdermal system 5 mcg/hour.
+Patients initiated therapy with three days of treatment with buprenorphine transdermal system 5 mcg/hour.
 After three days, if adverse events were tolerated, the dose was increased to buprenorphine transdermal system 10 mcg/hour.
 If adverse effects were tolerated but adequate analgesia was not reached, the dose was increased to buprenorphine transdermal system 20 mcg/hour for an additional 10 to 12 days.
 Patients who achieved adequate analgesia and tolerable adverse effects on buprenorphine transdermal system 10 or 20 mcg/hour were then randomized to remain on their titrated dose of buprenorphine transdermal system or matching placebo.

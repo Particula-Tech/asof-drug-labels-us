@@ -1,4 +1,4 @@
-Healthcare professionals can telephone Rhodes Pharmaceuticals' Medical Services Department (1-888-726-7535) for information on this product.
+Healthcare professionals can telephone Rhodes Pharmaceuticals' Medical Services Department (1-888-827-0616) for information on this product.
 
 Marketed by: Rhodes Pharmaceuticals, Wilson, NC 27893
 

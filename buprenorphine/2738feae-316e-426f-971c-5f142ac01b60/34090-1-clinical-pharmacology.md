@@ -21,7 +21,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid- induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
@@ -144,7 +144,7 @@ Drug Interaction Studies
 
 Effect of CYP3A4 inhibitors
 
-In a drug-drug interaction study, buprenorphine transdermal system 10 mcg/hour (single dose × 7 days) was co- administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
+In a drug-drug interaction study, buprenorphine transdermal system 10 mcg/hour (single dose × 7 days) was co-administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
 Plasma buprenorphine concentrations did not accumulate during co-medication with ketoconazole 200 mg twice daily.
 Based on the results from this study, metabolism during therapy with buprenorphine transdermal system is not expected to be affected by co-administration of CYP3A4 inhibitors [see Drug Interactions (7)].
 
@@ -189,4 +189,4 @@ In an independent study, the effect of impaired renal function on buprenorphine 
 It was found that plasma buprenorphine concentrations were similar in patients with normal renal function and in patients with impaired renal function or renal failure.
 In a separate investigation of the effect of intermittent hemodialysis on buprenorphine plasma concentrations in chronic pain patients with end-stage renal disease who were treated with a transdermal buprenorphine product (marketed outside the US) up to 70 mcg/hour, no significant differences in buprenorphine plasma concentrations before or after hemodialysis were observed.
 
-No notable relationship was observed between estimated creatinine clearance rates and steady- state buprenorphine concentrations among patients during buprenorphine transdermal system therapy.
+No notable relationship was observed between estimated creatinine clearance rates and steady-state buprenorphine concentrations among patients during buprenorphine transdermal system therapy.

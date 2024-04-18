@@ -81,7 +81,7 @@ In a clinical trial, buprenorphine transdermal system 40 mcg/hour (given as two 
 Patients who experience breakthrough pain may require dosage adjustment increase of buprenorphine transdermal system, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the buprenorphine transdermal system dose.
-If after increasing the dosage, unacceptable opioid- related adverse reactions are observed (including an increase in pain after dosage increase) consider reducing the dosage [see Warnings and Precautions (5)].
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase) consider reducing the dosage [see Warnings and Precautions (5)].
 Adjust the dosage to obtain an appropriate balance between the management of pain and opioid-related adverse reactions.
 
 Because steady-state plasma concentrations are achieved within 72 hours, buprenorphine transdermal system dosage may be adjusted every 3 days.
@@ -96,7 +96,7 @@ Rapid discontinuation of opioid analgesics in patients who are physically depend
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-When a decision has been made to decrease the dose or discontinue therapy in an opioid- dependent patient taking buprenorphine transdermal system, there are a variety of factors that should be considered, including the total daily dose of opioid (including buprenorphine transdermal system) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking buprenorphine transdermal system, there are a variety of factors that should be considered, including the total daily dose of opioid (including buprenorphine transdermal system) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
