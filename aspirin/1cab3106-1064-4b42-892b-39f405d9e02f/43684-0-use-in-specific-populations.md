@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.6)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Use of NSAIDs, including aspirin, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 Because of these risks, limit dose and duration of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP use between about 20 and 30 weeks of gestation, and avoid Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP use at about 30 weeks of gestation and later in pregnancy [see Clinical Considerations, Data].
 
@@ -31,11 +31,17 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+
+Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women about 30 weeks gestation and later in pregnancy, because NSAIDs, including Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, can cause premature closure of the fetal ductus arteriosus (see Data).
+
+Oligohydramnios/Neonatal Renal Impairment: If NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP and follow up according to clinical practice [see Data].
 
 Labor or Delivery
 
@@ -106,7 +112,7 @@ Women who are ultra-rapid metabolizers of codeine achieve higher than expected s
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
 
 There is no information on the effects of the codeine on milk production.
-Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP [see Warnings and Precautions, 5.7].
+Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP [see Warnings and Precautions, (5.7)].
 
 The aspirin and caffeine in Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP are also excreted in breast milk in small amounts.
 
@@ -125,7 +131,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclincical Toxicology (13.1)].
 
 Females
@@ -143,7 +149,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 The safety and effectiveness of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP in pediatric patients have not been established.
 
-Life-threatening respiratory depression and death have occurred in children who received codeine [see Warnings and Precautions (5.5)].
+Life-threatening respiratory depression and death have occurred in children who received codeine [see Warnings and Precautions (5.6)].
 In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
 Because of the risk of life-threatening respiratory depression and death:
@@ -152,7 +158,7 @@ Because of the risk of life-threatening respiratory depression and death:
 - Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 - Avoid the use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-  [see Warnings and Precautions (5.5)].
+  [see Warnings and Precautions (5.6)].
 
 ## 8.5Geriatric Use
 
@@ -167,9 +173,9 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to Buta
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
+Titrate the dosage of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.9)].
 
-Components of this product are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+This product is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
