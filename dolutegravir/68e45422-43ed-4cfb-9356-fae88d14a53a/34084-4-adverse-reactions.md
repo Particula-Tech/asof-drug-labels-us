@@ -108,7 +108,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4; Week 144 Pooled Analyses) in G
 Table 4.
 Mean Change from Baseline in Fasted Lipid Values (Week 144 Pooled Analysesa) in GEMINI-1 and GEMINI-2 Trials
 
-| Laboratory Parameter Preferred Term | TIVICAY plus EPIVIR(n = 716) | TIVICAY plus TRUVADA(n = 717) |  |  |  |  |  |  |
+| Laboratory ParameterPreferred Term | TIVICAY plus EPIVIR(n = 716) | TIVICAY plus TRUVADA(n = 717) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cholesterol (mg/dL) | 15 | -2 |  |  |  |  |  |  |
 | HDL cholesterol (mg/dL) | 7 | 4 |  |  |  |  |  |  |
@@ -122,6 +122,11 @@ Changes in Serum Creatinine: Dolutegravir has been shown to increase serum creat
 Increases in serum creatinine occurred within the first 4 weeks of treatment in both arms and remained stable through 144 weeks.
 A mean change from baseline of 0.144 mg/dL and 0.176 mg/dL was observed after 144 weeks of treatment with TIVICAY plus EPIVIR and TIVICAY plus TRUVADA, respectively.
 These changes are not considered to be clinically relevant.
+
+Clinical Trial Experience in Adolescents
+
+The safety of DOVATO was evaluated in HIV-1–infected treatment-naïve subjects between the ages of 12 to less than 18 years and weighing at least 25 kg (N = 32) through Week 48, in an open label clinical trial, DANCE (Trial 205861).
+Overall, the observed safety profile in adolescent subjects was similar to those seen in adults [see Use in Specific Populations (8.4), and Clinical Studies (14.4)].
 
 ## 6.2 Postmarketing Experience
 

@@ -50,7 +50,7 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV‑1–negative infants), (2) developing viral resistance (in HIV‑1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].
 
 Missed Dose
 
@@ -66,6 +66,6 @@ Manufactured for:
 
 ViiV Healthcare Durham, NC 27701
 
-©2023 ViiV Healthcare group of companies or its licensor.
+©2024 ViiV Healthcare group of companies or its licensor.
 
-DVT:12PI
+DVT:13PI

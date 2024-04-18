@@ -1,12 +1,12 @@
 Principal Display Panel
 
-NDC 49702-246-13
+NDC 49702-246-33
 
 Dovato
 
 (dolutegravir and lamivudine)
 
-Tablets
+Tablets, for oral use
 
 50 mg/300 mg
 
@@ -18,16 +18,15 @@ Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with DOVATO.
 
-30 tablets
-
-Each tablet contains 50 mg of dolutegravir (equivalent to 52.6 mg of dolutegravir sodium) and 300 mg of lamivudine.
-
-This package is child-resistant.
-Keep out of reach of children.
-
-Store below 30°C (86°F).
-
 See prescribing information for dosage information.
+
+Contents:
+
+- •4 blisters of 7 tablets and 1 blister of 2 tablets
+- •Prescribing Information
+- •Patient Information
+
+30 tablets
 
 Do not accept if membrane seal under cap is missing or broken.
 
@@ -41,13 +40,11 @@ by: GlaxoSmithKline,
 
 Durham, NC 27701
 
-Trademarks owned or licensed by ViiV Healthcare.
+Trademarks owned or licensed by ViiV Healthcare group of companies.
 
-©2023 ViiV Healthcare or licensor.
-
-www.dovato.com
+©2023 ViiV Healthcare group of companies or its licensor.
 
 Rev.
-1/23
+10/23
 
-62000000084478
+62000000089925-

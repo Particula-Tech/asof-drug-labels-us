@@ -14,8 +14,7 @@ As defects related to closure of the neural tube occur from conception through t
 
 Advise individuals of childbearing potential, including those actively trying to become pregnant, of the potential risk of neural tube defects with use of DOVATO.
 Assess the risks and benefits of DOVATO and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester.
-A benefit-risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development.
-[See Warnings and Precautions (5.4)].
+A benefit-risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development [see Warnings and Precautions (5.4)].
 
 There are insufficient human data on the use of DOVATO during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
 The background risk for major birth defects for the indicated population is unknown.
@@ -26,7 +25,7 @@ Oral administration of lamivudine to pregnant rabbits during organogenesis resul
 
 Data
 
-Human Data: Dolutegravir: In a birth outcome surveillance study in Botswana, there were 7 cases of neural tube defects reported out of 3,591 deliveries (0.19%) to women who were exposed to dolutegravir-containing regimens at the time of conception.
+Human Data:Dolutegravir: In a birth outcome surveillance study in Botswana, there were 7 cases of neural tube defects reported out of 3,591 deliveries (0.19%) to women who were exposed to dolutegravir-containing regimens at the time of conception.
 In comparison, the neural tube defect prevalence rates were 0.11% (21/19,361 deliveries) in the non-dolutegravir arm and 0.07% (87/119,630 deliveries) in the HIV-uninfected arm.
 Seven cases reported with dolutegravir included 3 cases of myelomeningocele, 2 cases of encephalocele, and one case each of anencephaly and iniencephaly.
 In the same study, no increased risk of neural tube defects was identified in women who started dolutegravir during pregnancy.
@@ -71,12 +70,10 @@ In the study, development of the offspring, including fertility and reproductive
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommends that HIV‑1–infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
-
 Dolutegravir and lamivudine are present in human milk.
 There is no information on the effects of DOVATO or the components of DOVATO on the breastfed infant or the effects of the drugs on milk production.
 
-Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving DOVATO.
+Potential risks of breastfeeding include: (1) HIV‑1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -92,7 +89,11 @@ Individuals of childbearing potential who are taking DOVATO should be counseled 
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of DOVATO have not been established in pediatric patients.
+The safety and efficacy of DOVATO for the treatment of HIV-1 infection have been established in adolescents 12 years of age and older and weighing at least 25 kg.
+Use of DOVATO for this indication is supported by DANCE trial in treatment-naïve adolescents and evidence from adequate and well-controlled trials in adults, GEMINI-1, GEMINI-2 (treatment-naïve adults) and TANGO (virologically-suppressed adults) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
+Overall, the safety and efficacy data in adolescent subjects from the DANCE trial were comparable to those observed in adults, and there was no clinically significant difference in exposure for the components of DOVATO [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+
+The safety and efficacy of DOVATO have not been established in pediatric patients less than 12 years of age or weighing less than 25 kg.
 
 ## 8.5 Geriatric Use
 

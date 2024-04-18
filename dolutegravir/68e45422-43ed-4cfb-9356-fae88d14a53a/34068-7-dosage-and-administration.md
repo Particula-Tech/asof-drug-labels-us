@@ -9,7 +9,7 @@ Pregnancy testing is recommended before initiation of DOVATO in individuals of c
 ## 2.2 Recommended Dosage
 
 DOVATO is a fixed-dose combination product containing 50 mg of dolutegravir and 300 mg of lamivudine.
-The recommended dosage regimen of DOVATO in adults is one tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
+The recommended dosage regimen of DOVATO in adults and adolescents 12 years of age and older and weighing at least 25 kg is one tablet taken orally once daily with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Recommended Dosage with Certain Coadministered Drugs
 
@@ -24,7 +24,7 @@ Dosing Recommendations for DOVATO with Coadministered Drugs
 
 ## 2.4 Not Recommended in Patients with Renal Impairment
 
-Because DOVATO is a fixed-dose tablet and cannot be dose adjusted, DOVATO is not recommended in patients with creatinine clearance less than 30 mL per minute [see Use in Specific Populations (8.6)].
+Because DOVATO is a fixed-dose tablet and cannot be dose adjusted, DOVATO is not recommended in patients with creatinine clearance less than 30 mL/min [see Use in Specific Populations (8.6)].
 
 ## 2.5 Not Recommended in Patients with Severe Hepatic Impairment
 
