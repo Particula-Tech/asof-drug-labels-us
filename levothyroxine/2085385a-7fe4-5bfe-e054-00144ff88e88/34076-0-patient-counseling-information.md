@@ -17,9 +17,7 @@ Inform the patient of the following information to aid in the safe and effective
 - Inform patients that the levothyroxine in LEVO-T is intended to replace a hormone that is normally produced by the thyroid gland.
   Generally, replacement therapy is to be taken for life.
 - Inform patients that LEVO-T should not be used as a primary or adjunctive therapy in a weight control program.
-
-Instruct patients to notify their healthcare provider if they are taking any other medications, including prescription and over-the-counter preparations.
-
+- Instruct patients to notify their healthcare provider if they are taking any other medications, including prescription and over-the-counter preparations.
 - Instruct patients to discontinue biotin or any biotin-containing supplements for at least 2 days before thyroid function testing is conducted.
 - Instruct patients to notify their physician of any other medical conditions they may have, particularly heart disease, diabetes, clotting disorders, and adrenal or pituitary gland problems, as the dose of medications used to control these other conditions may need to be adjusted while they are taking LEVO-T.
   If they have diabetes, instruct patients to monitor their blood and/or urinary glucose levels as directed by their physician and immediately report any changes to their physician.
