@@ -327,7 +327,7 @@ Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weaknes
 
 Hematologic
 
-Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
+Relative lymphocytosis, macrocytosis, leukopenia, acquired Pelger-Huet anomaly, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Endocrine
 
