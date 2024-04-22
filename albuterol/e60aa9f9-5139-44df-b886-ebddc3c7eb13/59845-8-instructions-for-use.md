@@ -1,6 +1,6 @@
 # Instructions for Use
 
-AIRSUPRATM (ayr soo' prah) (albuterol and budesonide) inhalation aerosol, for oral inhalation use 120-inhalation canister
+AIRSUPRA® (ayr soo' prah) (albuterol and budesonide) inhalation aerosol, for oral inhalation use 120-inhalation canister
 
 Read this Instructions for Use before you start using AIRSUPRA and each time you get a new refill.
 There may be new information.
@@ -29,7 +29,7 @@ Before using your AIRSUPRA inhaler
 | 1. Write the Use by date |  |
 | --- | --- |
 | Write the Use By Date (12 months after you open the foil pouch) on the actuator label using permanent ink. |  |
-|  | Write the Use By Date on actuator label. |
+|  | Write the Use By Date on the actuator label. |
 
 | 2. Prime your AIRSUPRA inhaler before first use |  |  |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ Weekly rinse - Rinsing your actuator 1 time each week
 
 | 1. Remove canister. |
 | --- |
-| Remove canister and set it aside. Take the cover off the mouthpiece. |
+| Remove the canister and set it aside. Take the cover off the mouthpiece. |
 
 | 2. Rinse through both ends |  |
 | --- | --- |
@@ -97,22 +97,22 @@ Throwing away your AIRSUPRA inhaler
 
 Throw away your AIRSUPRA inhaler in the household trash:
 
-- •when the dose indicator reaches zero “0” or 12 months after you open the foil pouch, whichever comes first.
+- •when the puff indicator reaches zero “0” or 12 months after you open the foil pouch, whichever comes first.
 
 Do not reuse or use the actuator with medicine canisters from other inhalers.
 Do not puncture or throw the canister into a fire or incinerator.
 
 Ordering a new AIRSUPRA inhaler
 
-- •Order a new AIRSUPRA inhaler when the pointer on the dose indicator is in the yellow zone.
+- •Order a new AIRSUPRA inhaler when the pointer on the puff indicator is in the yellow zone.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: January 2023
+Issued: March 2024
 
 # Instructions for Use
 
-AIRSUPRATM (ayr soo' prah) (albuterol and budesonide) inhalation aerosol, for oral inhalation use 28-inhalation canister
+AIRSUPRA® (ayr soo' prah) (albuterol and budesonide) inhalation aerosol, for oral inhalation use 28-inhalation canister
 
 Read this Instructions for Use before you start using AIRSUPRA and each time you get a new refill.
 There may be new information.
@@ -141,7 +141,7 @@ Before using your AIRSUPRA inhaler
 | 1. Write the Use by date |  |
 | --- | --- |
 | Write the Use By Date (6 months after you open the foil pouch) on the actuator label using permanent ink. |  |
-|  | Write the Use By Date on actuator label. |
+|  | Write the Use By Date on the actuator label. |
 
 | 2. Prime your AIRSUPRA inhaler before first use |  |  |
 | --- | --- | --- |
@@ -179,7 +179,7 @@ Weekly rinse - Rinsing your actuator 1 time each week
 
 | 1. Remove canister |
 | --- |
-| Remove canister and set it aside. Take the cover off the mouthpiece. |
+| Remove the canister and set it aside. Take the cover off the mouthpiece. |
 
 | 2. Rinse through both ends |  |
 | --- | --- |
@@ -209,15 +209,15 @@ Throwing away your AIRSUPRA inhaler
 
 Throw away your AIRSUPRA inhaler in the household trash:
 
-- •when the dose indicator reaches zero “0” or 6 months after you open the foil pouch, whichever comes first.
+- •when the puff indicator reaches zero “0” or 6 months after you open the foil pouch, whichever comes first.
 
 Do not reuse or use the actuator with medicine canisters from other inhalers.
 Do not puncture or throw the canister into a fire or incinerator.
 
 Ordering a new AIRSUPRA inhaler
 
-- •Order a new AIRSUPRA inhaler when the pointer on the dose indicator is in the yellow zone.
+- •Order a new AIRSUPRA inhaler when the pointer on the puff indicator is in the yellow zone.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: January 2023
+Issued: March 2024

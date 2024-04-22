@@ -15,7 +15,7 @@ Do not take more than 6 doses (12 inhalations) in a 24-hour period [see Warnings
 
 ## 2.3 Dose Counter
 
-The canister has an attached dose indicator which indicates how many inhalations remain.
+The canister has an attached dose indicator (also known as puff indicator) which indicates how many inhalations (puffs) remain.
 The dose indicator pointer will move after every actuation.
 The pointer will show the number of inhalations remaining in the canister.
 When nearing the end of the usable inhalations, the color behind the number in the dose indicator display window changes to yellow.

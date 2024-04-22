@@ -54,6 +54,6 @@ Pregnancy
 
 Advise pregnant women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy and to contact the MotherToBaby Pregnancy Studies at 1-877-311-8972 or visit https://mothertobaby.org/ongoing-study/asthma/.
 
-Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850 Manufactured by: AstraZeneca Dunkerque Production (AZDP) Dunkerque, France
+Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850 Manufactured by: AstraZeneca Dunkerque Production (AZDP), Dunkerque, France
 
-AIRSUPRA is a trademark of the AstraZeneca group of companies. ©AstraZeneca 2023
+AIRSUPRA is a registered trademark of the AstraZeneca group of companies. ©AstraZeneca 2024

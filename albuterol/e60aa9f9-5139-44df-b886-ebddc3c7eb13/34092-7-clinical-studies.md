@@ -23,6 +23,9 @@ Efficacy results are shown for only the approved adult population.
 Treatment with AIRSUPRA, compared with AS MDI 180 mcg, demonstrated statistically significant reductions in the risk of severe asthma exacerbations among adult patients, as assessed by the time to first severe asthma exacerbation as described in Figure 1.
 Compared with AS MDI 180 mcg, patients receiving AIRSUPRA experienced a statistically significant 28% reduction (Hazard Ratio [HR] 0.72; 95% CI: 0.60, 0.86) in the risk of a severe asthma exacerbation (p<0.001).
 
+Figure 1.
+Kaplan-Meier Cumulative Incidence Curve for Time to First Exacerbation1
+
 There were reductions in severe asthma exacerbation risk regardless of exacerbation history (1 or > 1 in the past year), baseline lung function, and asthma severity (defined by background maintenance therapy) compared with AS MDI 180 mcg.
 
 Treatment with AIRSUPRA 180 mcg/160 mcg statistically significantly reduced the annual rate of severe asthma exacerbations by 24% compared with AS MDI 180 mcg as shown in Table 2.

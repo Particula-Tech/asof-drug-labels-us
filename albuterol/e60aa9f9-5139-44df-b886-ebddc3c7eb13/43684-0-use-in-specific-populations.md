@@ -96,8 +96,7 @@ There were 11 patients with severe exacerbation events in 41 patients 4 to 11 ye
 These data are inadequate to make a determination regarding the safety or effectiveness of AIRSUPRA or AS-BD 180 mcg/80 mcg in pediatric patients 4 to 17 years of age [see Clinical Studies (14)].
 
 Controlled clinical studies have shown that ICS agents, including budesonide, one of the components of AIRSUPRA, may cause a reduction in growth velocity in pediatric patients.
-The effects of long-term treatment of pediatric patients with ICS on final adult height are not known.
-[see Warnings and Precautions (5.14)]
+The effects of long-term treatment of pediatric patients with ICS on final adult height are not known [see Warnings and Precautions (5.14)].
 
 ## 8.5 Geriatric Use
 
