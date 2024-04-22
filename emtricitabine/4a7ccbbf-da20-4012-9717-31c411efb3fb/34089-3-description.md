@@ -5,7 +5,7 @@ FTC is a synthetic nucleoside analog of cytidine.
 TDF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
 Both FTC and tenofovir exhibit inhibitory activity against HIV-1 reverse transcriptase.
 
-Emtricitabine: The chemical name of FTC is 4-Amino-5-fluoro-1-[(2R,5S)-2-(hydroxyl methyl)-1,3-oxathiolan-5-yl]-2(1H)-pyrimidinone.
+Emtricitabine: The chemical name of FTC is 4-Amino-5-fluoro-1-[(2R,5S)-2-(hydroxylmethyl)-1,3-oxathiolan-5-yl]-2(1H)-pyrimidinone.
 FTC is the (-) enantiomer of a thio analog of cytidine, which differs from other cytidine analogs in that it has a fluorine in the 5-position.
 
 It has a molecular formula of C8H10FN3O3S and a molecular weight of 247.30.

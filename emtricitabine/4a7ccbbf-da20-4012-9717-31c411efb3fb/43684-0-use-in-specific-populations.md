@@ -82,7 +82,7 @@ Safety and effectiveness of emtricitabine and tenofovir disoproxil fumarate for 
 
 ## 8.5 Geriatric Use
 
-Clinical trials of FTC, TDF or emtricitabine and tenofovir disoproxil fumarate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials of FTC, TDF, or emtricitabine and tenofovir disoproxil fumarate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 ## 8.6 Renal Impairment
 
@@ -94,4 +94,4 @@ Emtricitabine and tenofovir disoproxil fumarate is not recommended in individual
 HIV-1 PrEP
 
 Emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP is not recommended in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP, evaluate potential causes and reassess potential risks and benefits of continued use [see Dosage and Administration (2.6)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Dosage and Administration (2.6)].

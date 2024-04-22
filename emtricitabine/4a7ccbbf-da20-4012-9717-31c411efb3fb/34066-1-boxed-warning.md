@@ -1,4 +1,4 @@
-# WARNING: POSTTREATMENT ACUTE EXACERBATION OF HEPATITIS B and RISK OF DRUG RESISTANCE WITH USE OF EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE TABLETS FOR HIV-1 PRE-EXPOSURE PROPHYLAXIS (PrEP) IN UNDIAGNOSED EARLY HIV-1 INFECTION
+# WARNING: POSTTREATMENT ACUTE EXACERBATION OF HEPATITIS B and RISK OF DRUG RESISTANCE WITH USE OF EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE TABLETS FOR PRE-EXPOSURE PROPHYLAXIS (PrEP) IN UNDIAGNOSED EARLY HIV-1 INFECTION
 
 Severe acute exacerbations of hepatitis B (HBV) have been reported in HBV-infected individuals who have discontinued emtricitabine and tenofovir disoproxil fumarate.
 Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in individuals who are infected with HBV and discontinue emtricitabine and tenofovir disoproxil fumarate.

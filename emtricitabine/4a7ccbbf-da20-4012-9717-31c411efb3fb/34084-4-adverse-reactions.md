@@ -14,12 +14,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions from Clinical Trials Experience in HIV-1 Infected Subjects
 
-Clinical Trials in Adult Subjects
-
-In Study 934, 511 antiretroviral-naïve subjects received efavirenz (EFV) administered in combination with either FTC+TDF (N= 257) or zidovudine (AZT)/lamivudine (3TC) (N=254) for 144 weeks.
+Clinical Trials in Adult Subjects In Study 934, 511 antiretroviral-naïve subjects received efavirenz (EFV) administered in combination with either FTC+TDF (N=257) or zidovudine (AZT)/lamivudine (3TC) (N=254) for 144 weeks.
 The most common adverse reactions (incidence greater than or equal to 10%, all grades) included diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
 Table 3 provides the treatment-emergent adverse reactions (Grades 2 to 4) occurring in greater than or equal to 5% of subjects treated in any treatment group.
-
 Skin discoloration, manifested by hyperpigmentation, occurred in 3% of subjects taking FTC+TDF, and was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
@@ -62,7 +59,7 @@ Table 4 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 | Glycosuria (≥3+) | <1% | 1% |
 | Neutrophils (<750/mm3) | 3% | 5% |
 | Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
-| a. From Weeks 96 to 144 of the trial, subjects received emtricitabine and tenofovir disoproxil fumarate tablets with efavirenz in place of TDF + FTC with efavirenz. |  |  |
+| a. From Weeks 96 to 144 of the trial, subjects received emtricitabine and tenofovir disoproxil fumarate tablets with efavirenz in place of FTC + TDF with efavirenz. |  |  |
 
 Clinical Trials in Pediatric Subjects
 
@@ -94,9 +91,7 @@ Table 5 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment 
 
 |  | FTC/TDF (N=1,251) | Placebo (N=1,248) |
 | --- | --- | --- |
-| Headache | 7% | 6% |
-| Abdominal pain | 4% | 2% |
-| Weight decreased | 3% | 2% |
+| Headache Abdominal pain Weight decreased | 7% 4% 3% | 6% 2% 2% |
 
 In the Partners PrEP trial, the frequency of adverse events in the emtricitabine and tenofovir disoproxil fumarate treatment group was generally either less than or the same as in the placebo group.
 
@@ -125,7 +120,9 @@ Bone fractures were reported in 1.7% of the emtricitabine and tenofovir disoprox
 No correlation between BMD and fractures was noted [see Clinical Studies (14.3)].
 The Partners PrEP trial found similar fracture rates between the treatment and placebo groups (0.8% and 0.6%,respectively); no BMD evaluations were performed in this trial [see Clinical Studies (14.4)].
 
-Clinical Trials in Adolescent Subjects In a single-arm, open-label clinical trial (ATN113), in which 67 HIV-1 uninfected adolescent (15 to 18 years of age) men who have sex with men received emtricitabine and tenofovir disoproxil fumarate once daily for HIV-1 PrEP, the safety profile of emtricitabine and tenofovir disoproxil fumarate was similar to that observed in adults.
+Clinical Trials in Adolescent Subjects
+
+In a single-arm, open-label clinical trial (ATN113), in which 67 HIV-1 uninfected adolescent (15 to 18 years of age) men who have sex with men received emtricitabine and tenofovir disoproxil fumarate once daily for HIV-1 PrEP, the safety profile of emtricitabine and tenofovir disoproxil fumarate was similar to that observed in adults.
 Median duration to exposure of emtricitabine and tenofovir disoproxil fumarate was 47 weeks [see Use in Specific Populations (8.4)].
 In the ATN113 trial, median BMD increased from baseline to Week 48, +2.58% for lumbar spine and +0.72% for total body.
 One subject had significant (greater than or equal to 4%) total body BMD loss at Week 24.

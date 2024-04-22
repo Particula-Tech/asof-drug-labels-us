@@ -9,8 +9,8 @@ In individuals with chronic kidney disease, also assess serum phosphorus [see Wa
 
 ## 2.2 HIV-1 Screening for Individuals Receiving Emtricitabine and Tenofovir Disoproxil Fumarate Tablets for HIV-1 PrEP
 
-Screen all individuals for HIV-1 infection immediately prior to initiating emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP and at least once every 3 months while taking emtricitabine and tenofovir disoproxil fumarate tablets, and upon diagnosis of any other sexually transmitted infections (STIs) [see Indications and Usage (1.2), Contraindications (4) and Warnings and Precautions (5.2)].
-If recent (<1 month) exposure to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection [see Warnings and Precautions (5.2), Use in Specific Populations (8.4), and Clinical Studies (14.3 and 14.4)].
+Screen all individuals for HIV-1 infection immediately prior to initiating emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP and at least once every 3 months while taking emtricitabine and tenofovir disoproxil fumarate tablets, and upon diagnosis of any other sexually transmitted infections (STIs) [see Indications and Usage (1.2), Contraindications (4), and Warnings and Precautions (5.2)].
+If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection [see Warnings and Precautions (5.2), Use in Specific Populations (8.4), and Clinical Studies (14.3 and 14.4)].
 
 ## 2.3 Recommended Dosage for Treatment of HIV-1 Infection in Adults and Pediatric Patients Weighing at Least 35 kg
 
@@ -50,9 +50,8 @@ Table 2 Dosage Interval Adjustment for HIV-1 Infected Adult Patients with Altere
 |  | Creatinine Clearance (mL/min)a |  |  |
 | --- | --- | --- | --- |
 | ≥50 | 30 to 49 | <30 (Including Patients Requiring Hemodialysis) |  |
-| Recommended Dosing Interval | Every 24 hours | Every 48 hours | Emtricitabine and tenofovir disoproxil fumarate is not recommended. |
-
-a. Calculated using ideal (lean) body weight
+| Recommended Dosing Interval | Every 24 hours | Every 48 hours | Emtricitabine and tenofovir disoproxil fumarate tablets are not recommended. |
+| a. Calculated using ideal (lean) body weight |  |  |  |
 
 HIV-1 PrEP
 

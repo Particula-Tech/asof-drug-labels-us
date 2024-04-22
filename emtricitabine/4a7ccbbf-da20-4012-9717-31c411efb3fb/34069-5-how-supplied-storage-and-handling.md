@@ -11,3 +11,4 @@ Store at 20째 to 25째C (68째 to 77째F), excursions permitted between 15째 to 30�
 
 - Keep container tightly closed.
 - Dispense only in original container.
+- Tablets should be used within 6 weeks after first opening the bottle.

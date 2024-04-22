@@ -20,7 +20,6 @@ HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 i
 
 - Some HIV-1 tests only detect anti-HIV antibodies and may not identify HIV-1 during the acute stage of infection.
   Prior to initiating emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP, ask seronegative individuals about recent (in past month) potential exposure events (e.g., condomless sex or condom breaking during sex with a partner of unknown HIV-1 status or unknown viremic status, or a recent STI), and evaluate for current or recent signs or symptoms consistent with acute HIV-1 infection (e.g., fever, fatigue, myalgia, skin rash).
-
 - If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
 
 While using emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP, HIV-1 testing should be repeated at least every 3 months, and upon diagnosis of any other STIs.
@@ -62,7 +61,7 @@ If a decrease in estimated creatinine clearance is observed while using emtricit
 Immune reconstitution syndrome has been reported in HIV-1 infected patients treated with combination antiretroviral therapy, including emtricitabine and tenofovir disoproxil fumarate.
 During the initial phase of combination antiretroviral treatment, HIV-1 infected patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
 
 ## 5.5 Bone Loss and Mineralization Defects
 

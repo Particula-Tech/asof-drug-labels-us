@@ -2,12 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Emtricitabine and tenofovir disoproxil fumarate tablets is a fixed-dose combination of antiviral drugs FTC and TDF [see Microbiology (12.4)].
+Emtricitabine and tenofovir disoproxil fumarate tablets are a fixed-dose combination of antiviral drugs FTC and TDF [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
 Emtricitabine and tenofovir disoproxil fumarate: One emtricitabine and tenofovir disoproxil fumarate tablet was comparable to one FTC capsule (200 mg) plus one TDF tablet (300 mg) following single-dose administration to fasting healthy subjects (N=39).
-
 Emtricitabine: The pharmacokinetic properties of FTC are summarized in Table 8.
 Following oral administration of FTC, FTC is rapidly absorbed with peak plasma concentrations occurring at 1 to 2 hours postdose.
 Less than 4% of FTC binds to human plasma proteins in vitro, and the binding is independent of concentration over the range of 0.02 to 200 mcg/mL.
@@ -15,7 +14,6 @@ Following administration of radiolabelled FTC, approximately 86% is recovered in
 The metabolites of FTC include 3′-sulfoxide diastereomers and their glucuronic acid conjugate.
 Emtricitabine is eliminated by a combination of glomerular filtration and active tubular secretion.
 Following a single oral dose of FTC, the plasma FTC half-life is approximately 10 hours.
-
 Tenofovir Disoproxil Fumarate: The pharmacokinetic properties of TDF are summarized in Table 8.
 Following oral administration of TDF, maximum tenofovir serum concentrations are achieved in 1.0 ± 0.4 hour.
 Less than 0.7% of tenofovir binds to human plasma proteins in vitro, and the binding is independent of concentration over the range of 0.01 to 25 mcg/mL.
@@ -31,7 +29,7 @@ Table 8 Single Dose Pharmacokinetic Parameters for FTC and Tenofovir in Adultsa
 | Plasma Terminal Elimination Half-Lifeb (hr) | 10 (7.4 to 18.0) | 17 (12.0 to 25.7) |
 | Cmaxc (mcg/mL) | 1.8±0.72d | 0.30±0.09 |
 | AUCc (mcg·hr/mL) | 10.0±3.12d | 2.29±0.69 |
-| CL/Fc (mL/min) | 302±94 | 1043±115 |
+| CL/Fc (mL/min) | 302±94 | 1,043±115 |
 | CLrenal­­­c (mL/min) | 213±89 | 243±33 |
 | a. NC=Not calculated b. Median (range) c. Mean (± SD) d. Data presented as steady state values |  |  |
 
@@ -42,13 +40,11 @@ Administration of emtricitabine and tenofovir disoproxil fumarate following a hi
 The mean increases in tenofovir AUC and Cmax were approximately 35% and 15%, respectively, when administered with a high fat or light meal, compared to administration in the fasted state.
 In previous safety and efficacy trials, TDF (tenofovir) was taken under fed conditions.
 FTC systemic exposures (AUC and Cmax) were unaffected when emtricitabine and tenofovir disoproxil fumarate was administered with either a high fat or a light meal.
-
 Specific Populations
 
 Race
 
 Emtricitabine: No pharmacokinetic differences due to race have been identified following the administration of FTC.
-
 Tenofovir Disoproxil Fumarate: There were insufficient numbers from racial and ethnic groups other than Caucasian to adequately determine potential pharmacokinetic differences among these populations following the administration of TDF.
 
 Gender
@@ -60,7 +56,6 @@ Pediatric Patients
 Treatment of HIV-1 Infection: The pharmacokinetic data for tenofovir and FTC following administration of emtricitabine and tenofovir disoproxil fumarate in pediatric subjects weighing 17 kg and above are not available.
 The dosage recommendations of emtricitabine and tenofovir disoproxil fumarate in this population are based on the dosage recommendations of FTC and TDF in this population.
 Refer to the EMTRIVA and VIREAD prescribing information for pharmacokinetic information on the individual products in pediatric patients.
-
 HIV-1 PrEP: The pharmacokinetic data for tenofovir and FTC following administration of emtricitabine and tenofovir disoproxil fumarate in HIV-1 uninfected adolescents weighing 35 kg and above are not available.
 The dosage recommendations of emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP in this population are based on safety and adherence data from the ATN113 trial [see Use in Specific Populations (8.4)] and known pharmacokinetic information in HIV-infected adolescents taking TDF and FTC for treatment.
 
@@ -71,7 +66,7 @@ Pharmacokinetics of FTC and tenofovir have not been fully evaluated in the elder
 Patients with Renal Impairment
 
 The pharmacokinetics of FTC and tenofovir are altered in subjects with renal impairment [see Warnings and Precautions (5.3)].
-In adult subjects with creatinine clearance below 50 mL/min, Cmax and AUC0-∞ of FTC and tenofovir were increased.
+In adult subjects with creatinine clearance below 50 mL/min, Cmax and AUC0 to ∞ of FTC and tenofovir were increased.
 No data are available to make dosage recommendations in pediatric patients with renal impairment.
 
 Patients with Hepatic Impairment
@@ -83,12 +78,9 @@ The pharmacokinetics of emtricitabine and tenofovir disoproxil fumarate or FTC h
 Assessment of Drug Interactions
 
 The steady state pharmacokinetics of FTC and tenofovir were unaffected when FTC and TDF were administered together versus each agent dosed alone.
-
 In vitro studies and clinical pharmacokinetic drug-drug interaction trials have shown that the potential for CYP mediated interactions involving FTC and tenofovir with other medicinal products is low.
-
 TDF is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) transporters.
 When TDF is coadministered with an inhibitor of these transporters, an increase in absorption may be observed.
-
 No clinically significant drug interactions have been observed between FTC and famciclovir, indinavir, stavudine, TDF, and zidovudine (Tables 9 and 10).
 Similarly, no clinically significant drug interactions have been observed between TDF and efavirenz, methadone, nelfinavir, oral contraceptives, ribavirin, or sofosbuvir in trials conducted in healthy volunteers (Tables 11 and 12).
 
@@ -135,11 +127,11 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 | Sofosbuvirk | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | ⇔ | ⇔ |
 | Sofosbuvir/ Velpatasvirl | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
 | Sofosbuvir/ Velpatasvirm | 400/100 once daily | 30 | ↑ 46 (↑ 39 to ↑ 54) | ↑ 40 (↑ 34 to ↑ 45) | ↑ 70 (↑ 61 to ↑ 79) |
-| Sofosbuvir/ Velpatasvir/ Voxilaprevirn | 400/100/100 + Voxilapreviro 100 once daily | 29 | ↑ 48 (↑ 39 to ↑ 61) | ↑ 39 (↑ 32 to ↑ 46) | ↑ 47 (↑ 38 to ↑ 56) |
+| Sofosbuvir/ Velpatasvir/ Voxilaprevirn | 400/100/100 + Voxilapreviro 100 once daily | 29 | ↑ 48 (↑ 36 to ↑ 61) | ↑ 39 (↑ 32 to ↑ 46) | ↑ 47 (↑ 38 to ↑ 56) |
 | Tacrolimus | 0.05 mg/kg twice daily x 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | ⇔ | ⇔ |
 | Tipranavir/ Ritonavirp | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
 | 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
-| a. Subjects received VIREAD 300 mg once daily. b. Increase = ↑; Decrease = ↓; No Effect = ⇔ c. Reyataz Prescribing Information. d. Prezista Prescribing Information. e. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. g. Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. h. Study conducted with ATRIPLA (efavirenz/ FTC/TDF) coadministered with HARVONI. i. Study conducted with COMPLERA (FTC/rilpivirine/TDF) coadministered with HARVONI. j. Study conducted with FTC/TDF + dolutegravir coadministered with HARVONI. k. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). l. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, FTC/TDF + atazanavir/ritonavir, or FTC/TDF + darunavir/ritonavir. m. Administered as raltegravir + FTC/TDF. n. Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. o. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients p. Aptivus Prescribing Information |  |  |  |  |  |
+| a. Subjects received VIREAD 300 mg once daily. b. Increase = ↑; Decrease = ↓; No Effect = ⇔ c. Reyataz Prescribing Information. d. Prezista Prescribing Information. e. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. g. Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. h. Study conducted with ATRIPLA (efavirenz/FTC/TDF) coadministered with HARVONI. i. Study conducted with COMPLERA (FTC/rilpivirine/TDF) coadministered with HARVONI. j. Study conducted with FTC/TDF + dolutegravir coadministered with HARVONI. k. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). l. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, FTC/TDF + atazanavir/ritonavir, or FTC/TDF + darunavir/ritonavir. m. Administered as raltegravir + FTC/TDF. n. Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. o. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients p. Aptivus Prescribing Information |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with emtricitabine and tenofovir disoproxil fumarate: abacavir, didanosine (buffered tablets), FTC, entecavir, and lamivudine.
 
@@ -173,7 +165,7 @@ FTC-TP is a weak inhibitor of mammalian DNA polymerases α, β, ε and mitochond
 
 Tenofovir Disoproxil Fumarate: TDF is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
 TDF requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate (TFV-DP), which inhibits the activity of HIV-1 RT by competing with the natural substrate deoxyadenosine 5′-triphosphate and, after incorporation into DNA, by DNA chain termination.
-TFV-DP is a weak inhibitor of mammalian DNA polymerases α, β and mitochondrial DNA polymerase γ.
+TFV-DP is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
 Antiviral Activity
 
@@ -223,7 +215,7 @@ The M184V/I substitutions associated with resistance to FTC were observed in 3 o
 One of the two subjects in the emtricitabine and tenofovir disoproxil fumarate group harbored wild type virus at enrollment and developed the M184V substitution 4 weeks after enrollment.
 The other subject had indeterminate resistance at enrollment but was found to have the M184I substitution 4 weeks after enrollment.
 
-Partners PrEP Trial: In the Partners PrEP Trial, a clinical trial of HIV-1 seronegative adult subjects [see Clinical Studies (14.4)], no variants expressing amino acid substitutions associated with resistance to FTC or TDF were detected at the time of seroconversion among 12 subjects in the emtricitabine and tenofovir disoproxil fumarate group, 15 subjects in the TDF group, and 51 subjects in the placebo group.
+Partners PrEP Trial: In the Partners PrEP trial, a clinical trial of HIV-1 seronegative adult subjects [see Clinical Studies (14.4)], no variants expressing amino acid substitutions associated with resistance to FTC or TDF were detected at the time of seroconversion among 12 subjects in the emtricitabine and tenofovir disoproxil fumarate group, 15 subjects in the TDF group, and 51 subjects in the placebo group.
 Fourteen subjects were observed to be HIV-1 infected at the time of enrollment (3 in the emtricitabine and tenofovir disoproxil fumarate group, 5 in the TDF group, and 6 in the placebo group).
 One of the three subjects in the emtricitabine and tenofovir disoproxil fumarate group who was infected with wild type virus at enrollment selected an M184V expressing virus by Week 12.
 Two of the five subjects in the TDF group had tenofovir-resistant viruses at the time of seroconversion; one subject infected with wild type virus at enrollment developed a K65R substitution by Week 16, while the second subject had virus expressing the combination of D67N and K70R substitutions upon seroconversion at Week 60, although baseline virus was not genotyped and it is unclear if the resistance emerged or was transmitted.

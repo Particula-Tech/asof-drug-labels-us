@@ -22,7 +22,7 @@ Advise HIV-uninfected individuals about the following [see Warnings and Precauti
 
 Severe Acute Exacerbation of Hepatitis B in Patients Infected with HBV
 
-Inform individuals that severe acute exacerbations of hepatitis B have been reported in patients who are infected with HBV who have discontinued emtricitabine and tenofovir disoproxil fumarate [see Warnings and Precautions (5.1)].
+Inform individuals that severe acute exacerbations of hepatitis B have been reported in patients who are infected with HBV and have discontinued emtricitabine and tenofovir disoproxil fumarate [see Warnings and Precautions (5.1)].
 Advise HBV-infected individuals to not discontinue emtricitabine and tenofovir disoproxil fumarate without first informing their healthcare provider.
 
 New Onset or Worsening Renal Impairment

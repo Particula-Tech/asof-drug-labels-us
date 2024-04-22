@@ -11,7 +11,7 @@ Table 13 Trials Conducted with Emtricitabine and Tenofovir Disoproxil Fumarate f
 | Study 934b (NCT00112047) | HIV-infected, treatment-naïve adults | FTC+TDF + efavirenz (257) zidovudine/lamivudine + efavirenz (254) | 48 Weeks |
 | iPrExc (NCT00458393) | HIV-seronegative men or transgender women who have sex with men | FTC+TDF (1,251) Placebo (1,248) | 4,237 person-years |
 | Partners PrEPc (NCT00557245) | HIV serodiscordant heterosexual couples | FTC+TDF (1,583) Placebo (1,586) | 7,827 person-years |
-| a. Randomized and dosed. b. Randomized, open label, active-controlled trial. c. Randomized, double-blind, placebo-controlled trial |  |  |  |
+| a. Randomized and dosed. b. Randomized, open label, active-controlled trial. c. Randomized, double-blind, placebo-controlled trial. |  |  |  |
 
 ## 14.2 Clinical Trial Results for Treatment of HIV-1: Study 934
 
@@ -48,11 +48,9 @@ Through 48 weeks, 7 subjects in the FTC+TDF group and 5 subjects in the AZT/3TC 
 
 The iPrEx trial was a randomized, double-blind, placebo-controlled multinational study evaluating emtricitabine and tenofovir disoproxil fumarate in 2,499 HIV-seronegative men or transgender women who have sex with men and with evidence of high-risk behavior for HIV-1 infection.
 Evidence of high-risk behavior included any one of the following reported to have occurred up to six months prior to study screening: no condom use during anal intercourse with an HIV-1 positive partner or a partner of unknown HIV status; anal intercourse with more than 3 sex partners; exchange of money, gifts, shelter, or drugs for anal sex; sex with male partner and diagnosis of sexually transmitted infection; no consistent use of condoms with sex partner known to be HIV-1 positive.
-
 All subjects received monthly HIV-1 testing, risk-reduction counseling, condoms, and management of sexually transmitted infections.
 Of the 2,499 enrolled subjects, 1,251 received emtricitabine and tenofovir disoproxil fumarate and 1,248 received placebo.
 The mean age of subjects was 27 years; 5% were Asian, 9% Black, 18% White, and 72% Hispanic/Latino.
-
 Subjects were followed for 4,237 person-years.
 The primary outcome measure was the incidence of documented HIV seroconversion.
 At the end of treatment, emergent HIV-1 seroconversion was observed in 131 subjects, of which 48 occurred in the emtricitabine and tenofovir disoproxil fumarate group and 83 occurred in the placebo group, indicating a 42% (95% CI: 18 to 60%) reduction in risk.
@@ -63,12 +61,10 @@ Efficacy was therefore strongly correlated with adherence.
 ## 14.4 Clinical Trial Results for HIV-1 PrEP: Partners PrEP
 
 The Partners PrEP trial was a randomized, double-blind, placebo-controlled 3-arm trial conducted in 4,758 HIV-1 serodiscordant heterosexual couples in Kenya and Uganda to evaluate the efficacy and safety of TDF (N=1,589) and FTC/TDF (N=1,583) versus (parallel comparison) placebo (N=1,586) in preventing HIV-1 acquisition by the uninfected partner.
-
 All uninfected partner subjects received monthly HIV-1 testing, evaluation of adherence, assessment of sexual behavior, and safety evaluations.
 Women were also tested monthly for pregnancy.
 Women who became pregnant during the trial had study drug interrupted for the duration of the pregnancy and while breastfeeding.
 The uninfected partner subjects were predominantly male (61 to 64% across study drug groups) and had a mean age of 33 to 34 years.
-
 Following 7,827 person-years of follow-up, 82 emergent HIV-1 seroconversions were reported, with an overall observed seroincidence rate of 1.05 per 100 person-years.
 Of the 82 seroconversions, 13 and 52 occurred in partner subjects randomized to emtricitabine and tenofovir disoproxil fumarate and placebo, respectively.
 Two of the 13 seroconversions in the emtricitabine and tenofovir disoproxil fumarate arm and 3 of the 52 seroconversions in the placebo arm occurred in women during treatment interruptions for pregnancy.
