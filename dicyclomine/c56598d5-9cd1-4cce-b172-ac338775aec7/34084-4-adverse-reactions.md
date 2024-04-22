@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The pattern of adverse effects seen with dicylomine is mostly related to its pharmacological actions at muscarinic receptors [see Clinical Pharmacology (12)].
+The pattern of adverse effects seen with dicyclomine is mostly related to its pharmacological actions at muscarinic receptors [see Clinical Pharmacology (12)].
 They are a consequence of the inhibitory effect on muscarinic receptors within the autonomic nervous system.
 These effects are dose-related and are usually reversible when treatment is discontinued.
 
