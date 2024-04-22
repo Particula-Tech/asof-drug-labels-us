@@ -61,3 +61,5 @@ Patients who have severe diarrhea or vomiting should be monitored closely for br
 Concomitant administration of posaconazole, a strong CYP3A4 inhibitor, with venetoclax may increase venetoclax toxicities, including the risk of tumor lysis syndrome (TLS), neutropenia, and serious infections.
 In patients with CLL/SLL, administration of posaconazole during initiation and the ramp-up phase of venetoclax is contraindicated [see Contraindications (4.6)].
 Refer to the venetoclax labeling for safety monitoring and dose reduction in the steady daily dosing phase in CLL/SLL patients.
+For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering posaconazole with venetoclax [see Drug Interactions (7.16)].
+Refer to the venetoclax prescribing information for dosing instructions.

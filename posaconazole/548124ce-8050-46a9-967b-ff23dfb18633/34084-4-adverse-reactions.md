@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trial Experience in Adults
 
-Clinical Trial Experience with Posaconazole Delayed-Release Tablets
+Clinical Trial Experience with Posaconazole Delayed-Release Tablets for Prophylaxis
 
 The safety of posaconazole delayed-release tablets has been assessed in 230 patients in clinical trials.
 Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole delayed-release tablets when given as antifungal prophylaxis (Posaconazole Delayed-Release Tablet Study).
@@ -21,7 +21,7 @@ This patient population was 62% male, had a mean age of 51 years (range 19-78 ye
 Posaconazole therapy was given for a median duration of 28 days.
 Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following twice daily dosing on Day 1 in each cohort).
 
-Table 9: presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of > 10% in posaconazole delayed-release tablet study.
+Table 9 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of >10% in posaconazole delayed-release tablet study.
 
 Table 9: Posaconazole Delayed-Release Tablet Study: Adverse Reactions in at Least 10% of Subjects Treated with 300 mg Daily Dose
 

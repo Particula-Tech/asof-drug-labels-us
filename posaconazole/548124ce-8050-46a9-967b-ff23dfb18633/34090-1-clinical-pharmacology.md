@@ -6,7 +6,7 @@ Posaconazole is an azole antifungal agent [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Exposure Response Relationship: In clinical studies of neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) or hematopoietic stem cell transplant (HSCT) recipients with Graft versus Host Disease (GVHD), a wide range of plasma exposures to posaconazole was noted following administration of posaconazole oral suspension.
+Exposure Response Relationship Prophylaxis: In clinical studies of neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) or hematopoietic stem cell transplant (HSCT) recipients with Graft versus Host Disease (GVHD), a wide range of plasma exposures to posaconazole was noted following administration of posaconazole oral suspension.
 A pharmacokinetic-pharmacodynamic analysis of patient data revealed an apparent association between average posaconazole concentrations (Cavg) and prophylactic efficacy (Table 17).
 A lower Cavg may be associated with an increased risk of treatment failure, defined as treatment discontinuation, use of empiric systemic antifungal therapy (SAF), or occurrence of breakthrough invasive fungal infections.
 
@@ -123,9 +123,30 @@ Additional clinical studies demonstrated that no clinically significant effects 
 
 Excretion:
 
-Posaconazole delayed-release tablets are eliminated with a mean half-life (t½) ranging between 26 to 31 hours.
+Following administration of Noxafil® oral suspension, posaconazole is predominantly eliminated in the feces (71% of the radiolabeled dose up to 120 hours) with the major component eliminated as parent drug (66% of the radiolabeled dose).
+Renal clearance is a minor elimination pathway, with 13% of the radiolabeled dose excreted in urine up to 120 hours (<0.2% of the radiolabeled dose is parent drug).
+Posaconazole delayed-release tablet is eliminated with a mean half-life (t½) ranging between 26 to 31 hours.
+
+Specific Patients
+
+No clinically significant differences in the pharmacokinetics of posaconazole were observed based on age, sex, renal impairment, and indication (prophylaxis).
+
+Race/Ethnicity:
+
+In a population pharmacokinetic analysis of posaconazole, AUC was found to be 25% higher in Chinese patients relative to patients from other races/ethnicities.
+This higher exposure is not expected to be clinically relevant given the expected variability in posaconazole exposure.
+
+Patients Weighing More Than 120 kg:
+
+Weight has a clinically significant effect on posaconazole clearance.
+Relative to 70 kg patients, the Cavg is decreased by 25% in patients greater than 120 kg.
+Patients administered posaconazole weighing more than 120 kg may be at higher risk for lower posaconazole plasma concentrations compared to lower weight patients [see Use in Specific Populations (8.10)].
 
 Pediatric Patients
+
+A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of Noxafil oral suspension for prophylaxis of invasive fungal infections.
+Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state Cav was similar between these patients and adults (≥18 years of age).
+In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with Noxafil oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2,500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
 
 Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.'s NOXAFIL (posaconazole) delayed-release tablets.
 However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

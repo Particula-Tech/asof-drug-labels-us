@@ -20,6 +20,6 @@ Posaconazole had no effect on fertility of male rats at a dose up to 180 mg/kg (
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 In a nonclinical study using intravenous administration of posaconazole in very young dogs (dosed from 2 to 8 weeks of age), an increase in the incidence of brain ventricle enlargement was observed in treated animals as compared with concurrent control animals.
-No difference in the incidence of brain ventricle enlargement between control and treated animals was observed following the subsequent 5 month treatment-free period.
+No difference in the incidence of brain ventricle enlargement between control and treated animals was observed following the subsequent 5 -month treatment-free period.
 There were no neurologic, behavioral or developmental abnormalities in the dogs with this finding, and a similar brain finding was not seen with oral posaconazole administration to juvenile dogs (4 days to 9 months of age).
 There were no drug-related increases in the incidence of brain ventricle enlargement when treated and control animals were compared in a separate study of 10-week old dogs dosed with intravenous posaconazole for 13 weeks with a 9-week recovery period or a follow-up study of 31-week old dogs dosed for 3 months.

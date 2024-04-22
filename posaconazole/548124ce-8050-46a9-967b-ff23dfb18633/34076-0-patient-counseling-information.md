@@ -4,15 +4,11 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Important Administration Instructions
 
-Advise patients to take posaconazole delayed-release tablets with food.
-
 Advise patients that posaconazole delayed-release tablets must be swallowed whole and not divided, crushed, or chewed.
 
 Instruct patients that if they miss a dose, they should take it as soon as they remember.
 If they do not remember until it is within 12 hours of the next dose, they should be instructed to skip the missed dose and go back to the regular schedule.
-Patients should not double their next dose or
-
-take more than the prescribed dose.
+Patients should not double their next dose or take more than the prescribed dose.
 
 Drug Interactions
 
