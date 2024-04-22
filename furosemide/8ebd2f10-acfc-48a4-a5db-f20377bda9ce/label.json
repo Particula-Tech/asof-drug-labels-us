@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018413"
+  ],
+  "inn": "furosemide",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-753-90",
+    "62135-754-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "8ebd2f10-acfc-48a4-a5db-f20377bda9ce",
+  "source": "dailymed"
+}
