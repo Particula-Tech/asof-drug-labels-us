@@ -1,6 +1,6 @@
 # 17 PATIENT COUNCELING INFORMATION
 
-Patients must be informed that Phentermine Hydrochloride is a short-term (a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity, and that co-administration of Phentermine with other drugs for weight loss is not recommended [see Indications and Usage (1) and Warnings and Precautions (5)].
+Patients must be informed that Phentermine Hydrochloride is a short-term(a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity, and that co-administration of Phentermine with other drugs for weight loss is not recommended [see Indications and Usage (1) and Warnings and Precautions (5)].
 
 Patients must be instructed on how much Phentermine to take, and when and how to take it [see Dosage and Administration (2)].
 Advice pregnant women and nursing mothers not to use Phentermine [see Use in Specific Populations (8.1, 8.3)].
@@ -24,7 +24,7 @@ The patients must also be informed about
 Tell patients to keep Phentermine in a safe place to prevent theft, accidental overdose, misuse or abuse.
 Selling or giving away Phentermine may harm others and is against the law.
 
-Regitine ® is a registered trademark of CIBA PHARMACEUTICAL PRODUCTS, INC.
+Regitine ®is a registered trademark of CIBA PHARMACEUTICAL PRODUCTS, INC.
 
 Manufactured by: KVK-TECH INC. 110 Terry Drive Newtown, PA 18940
 

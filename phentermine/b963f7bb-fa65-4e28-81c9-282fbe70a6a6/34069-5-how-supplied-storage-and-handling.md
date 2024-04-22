@@ -11,7 +11,7 @@ Bottles of 30, NDC 10702-027-03 Bottles of 100, NDC 10702-027-01 Bottles of 1000
 Phentermine Hydrochloride capsules, USP 30 mg are supplied as blue cap, natural body with black imprint “K 28” on both the cap and body, filled with white and blue colored beads.
 Bottles of 30, NDC 10702-028-03 Bottles of 100, NDC 10702-028-01 Bottles of 1000, NDC 10702-028-10
 
-Store at 20° to 25°C (68° to 77°F) with excursions permitted between 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Storeat 20° to 25°C (68° to 77°F) with excursions permitted between 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
-Dispense in a tight, light resistant container as defined in the USP, with a child-resistant closure (as required).
+Dispensein a tight, light resistant container as defined in the USP, with a child-resistant closure (as required).
 Keep out of the reach of children

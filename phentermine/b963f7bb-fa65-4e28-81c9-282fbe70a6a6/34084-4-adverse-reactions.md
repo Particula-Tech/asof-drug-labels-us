@@ -9,12 +9,12 @@ The following adverse reactions are described, or described in greater detail, i
 
 The following adverse reactions to phentermine have been identified:
 
-Cardiovascular: Primary pulmonary hypertension and/or regurgitant cardiac valvular disease, palpitation, tachycardia, elevation of blood pressure, ischemic events.
+Cardiovascular:Primary pulmonary hypertension and/or regurgitant cardiac valvular disease, palpitation, tachycardia, elevation of blood pressure, ischemic events.
 
-Central Nervous System: Overstimulation, restlessness, dizziness, insomnia, euphoria, dysphoria, tremor, headache, psychosis.
+Central Nervous System:Overstimulation, restlessness, dizziness, insomnia, euphoria, dysphoria, tremor, headache, psychosis.
 
-Gastrointestinal: Dryness of the mouth, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances.
+Gastrointestinal:Dryness of the mouth, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances.
 
-Allergic: Urticaria.
+Allergic:Urticaria.
 
-Endocrine: Impotence, changes in libido.
+Endocrine:Impotence, changes in libido.
