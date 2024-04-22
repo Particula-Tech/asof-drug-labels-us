@@ -1,9 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-LEVO-T tablets are available as follows (Table 4):
-
-Table 4.
-LEVO-T Tablet Strengths and Identifying Features
+LEVO-T tablets are available as follows:
 
 | Tablet Strength | Tablet Color/Shape | Tablet Markings |
 | --- | --- | --- |

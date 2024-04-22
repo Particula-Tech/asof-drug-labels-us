@@ -2,20 +2,20 @@
 
 ## 7.1 Drugs Known to Affect Thyroid Hormone Pharmacokinetics
 
-Many drugs can exert effects on thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to LEVO-T (Tables 5 to 8).
+Many drugs can exert effects on thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to LEVO-T (see Tables 2-5 below).
 
-Table 5.
+Table 2.
 Drugs That May Decrease T4 Absorption (Hypothyroidism)
 
 | Potential impact: Concurrent use may reduce the efficacy of LEVO-T by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. |  |
 | --- | --- |
 | Drug or Drug Class | Effect |
-| Phosphate Binders (e.g., calcium carbonate, ferrous sulfate, sevelamer, lanthanum) | Phosphate binders may bind to levothyroxine. Administer LEVO-T at least 4 hours apart from these agents. |
+| Calcium Carbonate Ferrous Sulfate | Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer LEVO-T at least 4 hours apart from these agents. |
 | Orlistat | Monitor patients treated concomitantly with orlistat and LEVO-T for changes in thyroid function. |
-| Bile Acid Sequestrants (e.g., colesevelam, cholestyramine, colestipol)Ion Exchange Resins (e.g., Kayexalate) | Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer LEVO-T at least 4 hours prior to these drugs or monitor TSH levels. |
-| Proton Pump Inhibitors SucralfateAntacids (e.g., aluminum & magnesium hydroxides, simethicone) | Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately. |
+| Bile Acid Sequestrants -Colesevelam -Cholestyramine -Colestipol Ion Exchange Resins -Kayexalate -Sevelamer | Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer LEVO-T at least 4 hours prior to these drugs or monitor TSH levels. |
+| Other drugs: Proton Pump Inhibitors Sucralfate Antacids - Aluminum & Magnesium Hydroxides - Simethicone | Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately. |
 
-Table 6.
+Table 3.
 Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affecting Free Thyroxine (FT4) Concentration (Euthyroidism)
 
 | Drug or Drug Class | Effect |
@@ -26,7 +26,7 @@ Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affect
 | Salicylates (> 2 g/day) | Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%. |
 | Other drugs: Carbamazepine Furosemide (> 80 mg IV) Heparin Hydantoins Non-Steroidal Anti-inflammatory Drugs -Fenamates | These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increase free T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. Closely monitor thyroid hormone parameters. |
 
-Table 7.
+Table 4.
 Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)
 
 | Potential impact: Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased LEVO-T requirements. |  |
@@ -34,7 +34,7 @@ Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)
 | Drug or Drug Class | Effect |
 | Phenobarbital Rifampin | Phenobarbital has been shown to reduce the response to thyroxine. Phenobarbital increases L-thyroxine metabolism by inducing uridine 5'-diphospho-glucuronosyltransferase (UGT) and leads to a lower T4 serum levels. Changes in thyroid status may occur if barbiturates are added or withdrawn from patients being treated for hypothyroidism. Rifampin has been shown to accelerate the metabolism of levothyroxine. |
 
-Table 8.
+Table 5.
 Drugs That May Decrease Conversion of T4 to T3
 
 | Potential impact: Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased. |  |
@@ -90,15 +90,8 @@ Grapefruit juice may delay the absorption of levothyroxine and reduce its bioava
 
 ## 7.10 Drug-Laboratory Test Interactions
 
-### Thyroxine-binding Globulin (TBG)
-
 Consider changes in TBG concentration when interpreting T4 and T3 values.
 Measure and evaluate unbound (free) hormone and/or determine the free-T4 index (FT4I) in this circumstance.
 Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentration.
 Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens, and corticosteroids decrease TBG concentration.
 Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
-
-### Biotin
-
-Biotin supplementation is known to interfere with thyroid hormone immunoassays that are based on a biotin and streptavidin interaction, which may result in erroneous thyroid hormone test results.
-Stop biotin and biotin-containing supplements for at least 2 days prior to thyroid testing.

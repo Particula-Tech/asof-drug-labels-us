@@ -2,19 +2,18 @@
 
 ## 8.1 Pregnancy
 
-### Risk Summary
+Risk Summary
 
-The clinical experience, including data from postmarketing studies, in pregnant women treated with oral levothyroxine to maintain euthyroid state have not reported increased rates of major birth defects, miscarriages, or other adverse maternal or fetal outcomes.
+Experience with levothyroxine use in pregnant women, including data from post-marketing studies, have not reported increased rates of major birth defects or miscarriages [see Data].
 There are risks to the mother and fetus associated with untreated hypothyroidism in pregnancy.
-Since TSH levels may increase during pregnancy, TSH should be monitored and LEVO-T dosage adjusted during pregnancy (see Clinical Considerations).
-Animal reproductive studies have not been conducted with levothyroxine sodium.
+Since TSH levels may increase during pregnancy, TSH should be monitored and LEVO-T dosage adjusted during pregnancy [see Clinical Considerations].
+There are no animal studies conducted with levothyroxine during pregnancy.
 LEVO-T should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-### Clinical Considerations
+Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
@@ -27,41 +26,53 @@ Pregnancy may increase LEVO-T requirements.
 Serum TSH levels should be monitored and the LEVO-T dosage adjusted during pregnancy.
 Since postpartum TSH levels are similar to preconception values, the LEVO-T dosage should return to the pre-pregnancy dose immediately after delivery [see Dosage and Administration (2.3)].
 
-#### Disease-Associated Maternal and/or Embryo/Fetal Risk
+Data
 
-Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, pre-eclampsia, stillbirth, and premature delivery.
-Untreated maternal hypothyroidism may have an adverse effect on fetal neurocognitive development.
+Human Data
 
-#### Dose Adjustments During Pregnancy and the Postpartum Period
-
-Pregnancy may increase LEVO-T requirements.
-Serum TSH levels should be monitored and the LEVO-T dosage adjusted during pregnancy.
-Since postpartum TSH levels are similar to preconception values, the LEVO-T dosage should return to the pre-pregnancy dose immediately after delivery [see Dosage and Administration (2.3)].
+Levothyroxine is approved for use as a replacement therapy for hypothyroidism.
+There is a long experience of levothyroxine use in pregnant women, including data from post-marketing studies that have not reported increased rates of fetal malformations, miscarriages or other adverse maternal or fetal outcomes associated with levothyroxine use in pregnant women.
 
 ## 8.2 Lactation
 
-### Risk Summary
+Risk Summary
 
-Published studies report that levothyroxine is present in human milk following the administration of oral levothyroxine.
-No adverse effects on the breastfed infant have been reported and there is no information on the effects of levothyroxine on milk production.
-Adequate levothyroxine treatment during lactation may normalize milk production in hypothyroid lactating mothers with low milk supply.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for LEVO-T and any potential adverse effects on the breastfed infant from LEVO-T or from the underlying maternal condition.
+Limited published studies report that levothyroxine is present in human milk.
+However, there is insufficient information to determine the effects of Levothyroxine on the breastfed infant and no available information on the effects of levothyroxine on milk production.
+Adequate levothyroxine treatment during lactation may normalize milk production in hypothyroid lactating mothers.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for LEVO-T and any potential adverse effects on the breastfed infant from LEVO-T or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-LEVO-T is indicated in patients from birth to less than 17 years of age:
+The initial dose of LEVO-T varies with age and body weight.
+Dosing adjustments are based on an assessment of the individual patient's clinical and laboratory parameters [see Dosage and Administration (2.3, 2.4)].
 
-- As a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism.
-- As an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer
+In children in whom a diagnosis of permanent hypothyroidism has not been established, discontinue LEVO-T administration for a trial period, but only after the child is at least 3 years of age.
+Obtain serum T4 and TSH levels at the end of the trial period, and use laboratory test results and clinical assessment to guide diagnosis and treatment, if warranted.
 
-Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on cognitive development as well as on overall physical growth and maturation.
+Congenital Hypothyroidism [See Dosage and Administration (2.3, 2.4)]
+
+Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on intellectual development as well as on overall physical growth and maturation.
 Therefore, initiate LEVO-T therapy immediately upon diagnosis.
-Levothyroxine is generally continued for life in these patients [see Warnings and Precautions (5.1)].
+Levothyroxine is generally continued for life in these patients.
 
-Closely monitor infants during the first 2 weeks of LEVO-T therapy for cardiac overload and arrhythmias.
+Closely monitor infants during the first 2 weeks of LEVO-T therapy for cardiac overload, arrhythmias, and aspiration from avid suckling.
+
+Closely monitor patients to avoid undertreatment or overtreatment.
+Undertreatment may have deleterious effects on intellectual development and linear growth.
+Overtreatment is associated with craniosynostosis in infants, may adversely affect the tempo of brain maturation, and may accelerate the bone age and result in premature epiphyseal closure and compromised adult stature.
+
+Acquired Hypothyroidism in Pediatric Patients
+
+Closely monitor patients to avoid undertreatment and overtreatment.
+Undertreatment may result in poor school performance due to impaired concentration and slowed mentation and in reduced adult height.
+Overtreatment may accelerate the bone age and result in premature epiphyseal closure and compromised adult stature.
+
+Treated children may manifest a period of catch-up growth, which may be adequate in some cases to normalize adult height.
+In children with severe or prolonged hypothyroidism, catch-up growth may not be adequate to normalize adult height.
 
 ## 8.5 Geriatric Use
 
-Because of the increased prevalence of cardiovascular disease among the elderly, initiate LEVO-T at less than the full replacement dose [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Because of the increased prevalence of cardiovascular disease among the elderly, initiate LEVO-T at less than the full replacement dose [see Warnings and Precautions (5.1) and Dosage and Administration (2.3)].
 Atrial arrhythmias can occur in elderly patients.
 Atrial fibrillation is the most common of the arrhythmias observed with levothyroxine overtreatment in the elderly.

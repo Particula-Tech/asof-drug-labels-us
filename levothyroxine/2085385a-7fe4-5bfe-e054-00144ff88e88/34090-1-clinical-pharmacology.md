@@ -14,7 +14,7 @@ Oral levothyroxine sodium is a synthetic T4 hormone that exerts the same physiol
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 Absorption of orally administered T4 from the gastrointestinal tract ranges from 40% to 80%.
 The majority of the LEVO-T dose is absorbed from the jejunum and upper ileum.
@@ -24,7 +24,7 @@ Dietary fiber decreases bioavailability of T4.
 Absorption may also decrease with age.
 In addition, many drugs and foods affect T4 absorption [see Drug Interactions (7)].
 
-### Distribution
+Distribution
 
 Circulating thyroid hormones are greater than 99% bound to plasma proteins, including thyroxine-binding globulin (TBG), thyroxine-binding prealbumin (TBPA), and albumin (TBA), whose capacities and affinities vary for each hormone.
 The higher affinity of both TBG and TBPA for T4 partially explains the higher serum levels, slower metabolic clearance, and longer half-life of T4 compared to T3.
@@ -33,11 +33,11 @@ Only unbound hormone is metabolically active.
 Many drugs and physiologic conditions affect the binding of thyroid hormones to serum proteins [see Drug Interactions (7)].
 Thyroid hormones do not readily cross the placental barrier [see Use in Specific Populations (8.1)].
 
-### Elimination
+Elimination
 
-#### Metabolism
+Metabolism
 
-T4 is slowly eliminated (Table 10).
+T4 is slowly eliminated (see Table 7).
 The major pathway of thyroid hormone metabolism is through sequential deiodination.
 Approximately 80% of circulating T3 is derived from peripheral T4 by monodeiodination.
 The liver is the major site of degradation for both T4 and T3, with T4 deiodination also occurring at a number of additional sites, including the kidney and other tissues.
@@ -45,18 +45,18 @@ Approximately 80% of the daily dose of T4 is deiodinated to yield equal amounts 
 T3 and rT3 are further deiodinated to diiodothyronine.
 Thyroid hormones are also metabolized via conjugation with glucuronides and sulfates and excreted directly into the bile and gut where they undergo enterohepatic recirculation.
 
-#### Excretion
+Excretion
 
 Thyroid hormones are primarily eliminated by the kidneys.
 A portion of the conjugated hormone reaches the colon unchanged and is eliminated in the feces.
 Approximately 20% of T4 is eliminated in the stool.
 Urinary excretion of T4 decreases with age.
 
-Table 10.
+Table 7.
 Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 
 | Hormone | Ratio in Thyroglobulin | Biologic Potency | t 1/2 (days) | Protein Binding (%) |
 | --- | --- | --- | --- | --- |
-| Levothyroxine (T4) | 10 - 20 | 1 | 6-7 ** | 99.96 |
+| Levothyroxine (T4) | 10 - 20 | 1 | 6-7 b | 99.96 |
 | Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |
-| *Includes TBG, TBPA, and TBA **3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism |  |  |  |  |
+| a - Includes TBG, TBPA, and TBA b - 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism |  |  |  |  |
