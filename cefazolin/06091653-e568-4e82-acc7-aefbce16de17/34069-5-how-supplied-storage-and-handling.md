@@ -27,6 +27,6 @@ CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered tra
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL) S.A.
 Estrada do Rio da Mó, nº8, 8A and 8B – Fervença 2705-906 Terrugem SNT PORTUGAL
 
-Distributed by: WEST-WARD A HIKMA COMPANY EATONTOWN, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised: September 2018 PIN089-WES/6
+Revised: September 2020 PIN089-WES/7

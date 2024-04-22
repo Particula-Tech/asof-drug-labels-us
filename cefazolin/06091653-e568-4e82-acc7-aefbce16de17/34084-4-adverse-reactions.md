@@ -20,4 +20,4 @@ Some induration has occurred.
 
 Other Reactions: Genital and anal pruritus (including vulvar pruritus, genital moniliasis and vaginitis).
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
