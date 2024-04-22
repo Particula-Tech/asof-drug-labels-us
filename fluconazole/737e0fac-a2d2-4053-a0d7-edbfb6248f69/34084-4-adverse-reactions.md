@@ -64,12 +64,12 @@ Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
 Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens‑Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia.
 
-## Adverse Reactions in Children
+## Adverse Reactions in Pediatric Patients
 
 The pattern and incidence of adverse events and laboratory abnormalities recorded during pediatric clinical trials are comparable to those seen in adults.
 
 In Phase II/III clinical trials conducted in the United States and in Europe, 577 pediatric patients, ages 1 day to 17 years were treated with fluconazole at doses up to 15 mg/kg/day for up to 1,616 days.
-Thirteen percent of children experienced treatment-related adverse events.
+Thirteen percent of pediatric patients experienced treatment-related adverse events.
 The most commonly reported events were vomiting (5%), abdominal pain (3%), nausea (2%), and diarrhea (2%).
 Treatment was discontinued in 2.3% of patients due to adverse clinical events and in 1.4% of patients due to laboratory test abnormalities.
 The majority of treatment-related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.
@@ -83,3 +83,14 @@ Percentage of Patients With Treatment-Related Side Effects
 | Abdominal pain | 2.8 | 1.6 |
 | Nausea | 2.3 | 1.6 |
 | Diarrhea | 2.1 | 2.2 |
+
+Clinical Trials Experience in Pediatric Patients
+
+Safety in Prophylaxis of Invasive Candida Infections in Premature infants weighing less than 750 grams at birth
+
+In a Phase 3 clinical trial of pediatric patients (premature infants weighing less than 750 grams at birth), the incidence of intestinal perforation in infants receiving fluconazole prophylaxis was higher compared to infants receiving placebo (See PRECAUTIONS: Pediatric Use).
+
+Safety in Pediatric Patients Receiving ECMO
+
+A cohort of 20 pediatric patients (1 day to 17 years of age) on ECMO received fluconazole in a prospective, open-label, single-center safety and PK ECMO study.
+The adverse reaction profile of fluconazole in these patients was similar to that of adult and pediatric non-ECMO patients (See PRECAUTIONS: Pediatric Use).

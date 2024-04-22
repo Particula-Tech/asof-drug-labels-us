@@ -44,6 +44,9 @@ Fluconazole Powder for Oral Suspension contains sucrose and should not be used i
 
 When driving vehicles or operating machines, it should be taken into account that occasionally dizziness or seizures may occur.
 
+There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
+Such cases may require alternative antifungal therapy (See CLINICAL PHARMACOLOGY, Microbiology).
+
 ## Single Dose
 
 The convenience and efficacy of the single dose oral tablet of fluconazole regimen for the treatment of vaginal yeast infections should be weighed against the acceptability of a higher incidence of drug related adverse events with fluconazole (26%) versus intravaginal agents (16%) in U.S. comparative clinical studies.
@@ -377,25 +380,67 @@ Caution should be exercised when fluconazole is administered to a nursing woman.
 
 ## Pediatric Use
 
-An open-label, randomized, controlled trial has shown fluconazole to be effective in the treatment of oropharyngeal candidiasis in children 6 months to 13 years of age.
+Use in Pediatric Patients for the Treatment of Oropharyngeal Candidiasis
+
+An open-label, randomized, controlled trial has shown fluconazole to be effective in the treatment of oropharyngeal candidiasis in pediatric patients 6 months to 13 years of age.
 (See CLINICAL STUDIES.)
 
-The use of fluconazole in children with cryptococcal meningitis, Candida esophagitis, or systemic Candida infections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
-In addition, pharmacokinetic studies in children (See CLINICAL PHARMACOLOGY.) have established a dose proportionality between children and adults.
+Use in Pediatric Patients for the Treatment of Candida Esophagitis, Systemic Candida Infections, or Cryptococcal Meningitis
+
+The use of fluconazole in pediatric patients with cryptococcal meningitis, Candida esophagitis, or systemic Candida infections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
+In addition, pharmacokinetic studies in pediatric patients (See CLINICAL PHARMACOLOGY.) have established a dose proportionality between pediatric patients and adults.
 (See DOSAGE AND ADMINISTRATION.)
 
-In a noncomparative study of children with serious systemic fungal infections, most of which were candidemia, the effectiveness of fluconazole was similar to that reported for the treatment of candidemia in adults.
+In a noncomparative study of fluconazole administered to pediatric patients (from birth to less than 17 years) with serious systemic fungal infections, most of which were candidemia, the effectiveness of fluconazole was similar to that reported for the treatment of candidemia in adults.
 Of 17 subjects with culture-confirmed candidemia, 11 of 14 (79%) with baseline symptoms (3 were asymptomatic) had a clinical cure; 13/15 (87%) of evaluable patients had a mycologic cure at the end of treatment but two of these patients relapsed at 10 and 18 days, respectively, following cessation of therapy.
 
-The efficacy of fluconazole for the suppression of cryptococcal meningitis was successful in 4 of 5 children treated in a compassionate-use study of fluconazole for the treatment of life-threatening or serious mycosis.
-There is no information regarding the efficacy of fluconazole for primary treatment of cryptococcal meningitis in children.
+The efficacy of fluconazole for the suppression of cryptococcal meningitis was successful in 4 of 5 pediatric patients (4 years to 10 years of age) treated in a compassionate-use study of fluconazole for the treatment of life-threatening or serious mycosis.
 
-The safety profile of fluconazole in children has been studied in 577 children ages 1 day to 17 years who received doses ranging from 1 to 15 mg/kg/day for 1 to 1,616 days.
+There are limited clinical data to support the efficacy of fluconazole for the primary treatment of cryptococcal meningitis in pediatric patients.
+
+The safety profile of fluconazole has been studied in 577 pediatric patients 1 from 1 day to 17 years of age who received doses ranging from 1 to 15 mg/kg/day for 1 to 1,616 days.
 (See ADVERSE REACTIONS.)
 
-Efficacy of fluconazole has not been established in infants less than 6 months of age.
-(See CLINICAL PHARMACOLOGY.)
-A small number of patients (29) ranging in age from 1 day to 6 months have been treated safely with fluconazole.
+Use in Pediatric Patients on Extracorporeal Membrane Oxygenation (ECMO)
+
+A prospective, open-label, single-center study was conducted to determine the PK and safety of fluconazole in pediatric patients (ages: from birth to 17 years of age) on ECMO (See CLINICAL PHARMACOLOGY).
+A loading dose of 35-mg/kg is recommended in pediatric patients on ECMO due to increased volume of distribution (See DOSAGE AND ADMINISTRATION).
+
+Use in Prophylaxis of Invasive Candida Infections in Pediatric Patients (premature infants weighing less than 750 grams at birth)
+
+Safety and effectiveness of fluconazole for the prophylaxis of invasive candidiasis in pediatric patients (premature infants weighing less than 750 grams at birth) have not been established.
+
+A prospective, randomized, double-blind, placebo-controlled, multicenter trial was conducted in premature infants weighing less than 750 grams at birth to evaluate the efficacy and safety of prophylactic fluconazole 6-mg/kg administered twice weekly for 6 weeks versus placebo (NCT00734539).
+Efficacy was assessed using the endpoint of death or candidiasis by study day 49.
+The results are summarized in Table 4.
+
+Table 4: Death or Candidiasis by Day 49 in Premature Infants Receiving Fluconazole Prophylaxis
+
+|  | Fluconazole(N=188)n (%) | Placebo(N=173)n (%) | P-value | Difference (95% CI) |
+| --- | --- | --- | --- | --- |
+| Death or candidiasis* | 33 (17.6) | 38 (22.0) | 0.2954 | -4.4(-12.6, 3.8) |
+| Components of endpoint**DeathCandidiasisMissing | 27 (14.4)6 (3.2)2 (1.0) | 25 (14.5)16 (9.2)1 (0.5) |  |  |
+
+* Subjects with missing data are imputed as having candidiasis or died.
+
+**Subjects may be counted more than once as two fluconazole subjects and four placebo subjects diagnosed with candidiasis subsequently died by day 49.
+
+The most common fatal serious adverse reactions in the fluconazole vs placebo arms, respectively, were necrotizing enterocolitis (NEC), 9 (5%) vs 9 (5%); neonatal bacterial sepsis, 6 (3%) vs 7 (4%); and neonatal respiratory failure, 4 (2%) vs 2 (0.6%).
+
+The most common serious adverse reactions (>5%), reported in patients receiving fluconazole prophylaxis are displayed in Table 5.
+
+Table 5.
+Serious Adverse Reactions* Occurring in >5% of Infants Receiving Fluconazole Prophylaxis
+
+| Adverse Reaction | Fluconazole(N=188)n(%) | Placebo(N=173)n (%) |
+| --- | --- | --- |
+| Necrotizing Enterocolitis (NEC) | 27 (14) | 28 (16) |
+| Intestinal Perforation (includes ileal/small intestinal perforation) | 13 (7) | 7 (4) |
+| Neonatal Respiratory Arrest/Neonatal Respiratory Failure | 13 (7) | 4 (2) |
+| Bacterial Sepsis, Neonatal | 10 (5) | 12 (7) |
+
+*All serious adverse reactions were assessed and recorded up through 30 days after the final dose of study drug.
+Serious adverse reactions included both fatal and non-fatal outcomes.
 
 ## Geriatric Use
 

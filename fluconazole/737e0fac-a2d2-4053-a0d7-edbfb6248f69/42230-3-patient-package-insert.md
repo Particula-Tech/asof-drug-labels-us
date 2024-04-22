@@ -22,6 +22,8 @@
 | How should I store FLUCONAZOLE? Store FLUCONAZOLE tablets below 86°F (30°C). Keep FLUCONAZOLE and all medicines out of the reach of children. |  |  |  |  |
 | General information about the safe and effective use of FLUCONAZOLE. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use FLUCONAZOLE for a condition for which it was not prescribed. Do not give FLUCONAZOLE to other people, even if they have the same symptoms you have. It may harm them. You can ask your healthcare provider for information about FLUCONAZOLE that is written for health professionals. |  |  |  |  |
 | What are the ingredients in FLUCONAZOLE? Active ingredient: fluconazole Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate anhydrous, povidone, croscarmellose sodium, FD&C Red No. 40 aluminum lake dye, and magnesium stearate. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Revised: 1/2023 |  |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: 1/2023
 
 LAB-0367-17.0
