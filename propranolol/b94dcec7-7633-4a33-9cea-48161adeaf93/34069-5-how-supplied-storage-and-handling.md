@@ -37,13 +37,10 @@ NDC 0378-0185-05 bottles of 500 tablets
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Auro PR Inc. RD 156 Caguas West Industrial Park, Lot 24 Caguas, PR 00725 U.S.A.
-
-Revised: 3/2022 PRAN:R29
+Revised: 6/2023 VPL:PRAN:R1

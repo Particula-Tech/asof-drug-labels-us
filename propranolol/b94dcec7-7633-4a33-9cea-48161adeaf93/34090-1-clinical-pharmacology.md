@@ -77,7 +77,7 @@ Clearance of the pharmacologically active S(-)-propranolol is lower than R(+)-pr
 
 ## Special Populations
 
-### Geriatric
+Geriatric
 
 In a study of 12 elderly (62-79 years old) and 12 young (25-33 years old) healthy subjects, the clearance of S(-)-enantiomer of propranolol was decreased in the elderly.
 Additionally, the half-life of both the R(+)- and S(-)-propranolol were prolonged in the elderly compared with the young (11 hours vs. 5 hours).
