@@ -165,7 +165,7 @@ Medication should be continued until the inflammatory response reaches the erosi
 The usual duration of therapy is from 2 to 4 weeks.
 Complete healing of the lesions may not be evident for 1 to 2 months following cessation of EFUDEX therapy.
 
-Superficial Basal Cell Carcinomas:Only the 5% strength is recommended.
+Superficial Basal Cell Carcinomas: Only the 5% strength is recommended.
 Apply cream or solution twice daily in an amount sufficient to cover the lesions.
 Treatment should be continued for at least 3 to 6 weeks.
 Therapy may be required for as long as 10 to 12 weeks before the lesions are obliterated.
@@ -183,13 +183,15 @@ Distributed by: Bausch Health US, LLC
 
 Bridgewater, NJ 08807 USA
 
-Manufactured by: Mylan Institutional Inc. Sugar Land, TX 77478 USA
+Manufactured by: Kavis Pharma LLC
+
+Sugar Land, TX 77478 USA
 
 EFUDEX is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2021 Bausch Health Companies Inc. or its affiliates
+© 2024 Bausch Health Companies Inc. or its affiliates
 
 - Rev.
-  10/2021
+  03/2024
 
-9734602
+9734603
