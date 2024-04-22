@@ -2,13 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-AKTEN is a local anesthetic agent that stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action.
+Lidocaine hydrochloride is a local anesthetic agent that stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action.
 Anesthesia generally occurs between 20 seconds to 1 minute and persists for 5 to 30 minutes.
 
 ## 12.3 Pharmacokinetics
 
 Lidocaine may be absorbed following topical administration to mucous membranes.
 Its rate and extent of absorption depend upon various factors such as concentration, the specific site of application, viscosity of the agent, and duration of exposure.
+
 The plasma binding of lidocaine is dependent on drug concentration, and the fraction bound decreases with increasing concentration.
 At concentrations of 1 to 4 mcg of free base per mL, 60 to 80 percent of lidocaine is protein bound.
 Binding is also dependent on the plasma concentration of the alpha-1-acid glycoprotein.
