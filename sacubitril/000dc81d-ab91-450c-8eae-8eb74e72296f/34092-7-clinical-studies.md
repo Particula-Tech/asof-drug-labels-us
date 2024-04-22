@@ -8,9 +8,9 @@ PARADIGM-HF
 
 PARADIGM-HF was a multinational, randomized, double-blind trial comparing ENTRESTO and enalapril in 8,442 adult patients with symptomatic chronic heart failure (NYHA class II–IV) and systolic dysfunction (left ventricular ejection fraction ≤ 40%).
 Patients had to have been on an ACE inhibitor or ARB for at least four weeks and on maximally tolerated doses of beta-blockers.
-Patients with a systolic blood pressure of < 100 mmHg at screening were excluded.
+Patients with a systolic blood pressure of less than 100 mmHg at screening were excluded.
 
-The primary objective of PARADIGM-HF was to determine whether ENTRESTO, a combination of sacubitril and a RAS inhibitor (valsartan), was superior to a RAS inhibitor (enalapril) alone in reducing the risk of the combined endpoint of cardiovascular (CV) death or hospitalization for heart failure (HF).
+The primary objective of PARADIGM-HF was to determine whether ENTRESTO, a combination of sacubitril and an RAS inhibitor (valsartan), was superior to an RAS inhibitor (enalapril) alone in reducing the risk of the combined endpoint of cardiovascular (CV) death or hospitalization for heart failure (HF).
 
 After discontinuing their existing ACE inhibitor or ARB therapy, patients entered sequential single-blind run-in periods during which they received enalapril 10 mg twice-daily, followed by ENTRESTO 100 mg twice-daily, increasing to 200 mg twice-daily.
 Patients who successfully completed the sequential run-in periods were randomized to receive either ENTRESTO 200 mg (N = 4,209) twice-daily or enalapril 10 mg (N = 4,233) twice-daily.
@@ -20,18 +20,18 @@ The median follow-up duration was 27 months and patients were treated for up to 
 The population was 66% Caucasian, 18% Asian, and 5% Black; the mean age was 64 years and 78% were male.
 At randomization, 70% of patients were NYHA Class II, 24% were NYHA Class III, and 0.7% were NYHA Class IV.
 The mean left ventricular ejection fraction was 29%.
-The underlying cause of heart failure was coronary artery disease in 60% of patients; 71% had a history of hypertension, 43% had a history of myocardial infarction, 37% had an eGFR < 60 mL/min/1.73m2, and 35% had diabetes mellitus.
+The underlying cause of heart failure was coronary artery disease in 60% of patients; 71% had a history of hypertension, 43% had a history of myocardial infarction, 37% had an eGFR less than 60 mL/min/1.73m2, and 35% had diabetes mellitus.
 Most patients were taking beta-blockers (94%), mineralocorticoid antagonists (58%), and diuretics (82%).
 Few patients had an implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) (15%).
 
-PARADIGM-HF demonstrated that ENTRESTO, a combination of sacubitril and a RAS inhibitor (valsartan), was superior to a RAS inhibitor (enalapril), in reducing the risk of the combined endpoint of cardiovascular death or hospitalization for heart failure, based on a time-to-event analysis (hazard ratio [HR] 0.80; 95% confidence interval [CI], 0.73, 0.87, p < 0.0001).
-The treatment effect reflected a reduction in both cardiovascular death and heart failure hospitalization; see Table 3 and Figure 3.
+PARADIGM-HF demonstrated that ENTRESTO, a combination of sacubitril and an RAS inhibitor (valsartan), was superior to a RAS inhibitor (enalapril), in reducing the risk of the combined endpoint of cardiovascular death or hospitalization for heart failure, based on a time-to-event analysis (hazard ratio [HR] 0.80; 95% confidence interval [CI], 0.73, 0.87, p < 0.0001).
+The treatment effect reflected a reduction in both cardiovascular death and heart failure hospitalization; see Table 4 and Figure 3.
 Sudden death accounted for 45% of cardiovascular deaths, followed by pump failure, which accounted for 26%.
 
-ENTRESTO also improved overall survival (HR 0.84; 95% CI [0.76, 0.93], p = 0.0009) (Table 3).
+ENTRESTO also improved overall survival (HR 0.84; 95% CI [0.76, 0.93], p = 0.0009) (Table 4).
 This finding was driven entirely by a lower incidence of cardiovascular mortality on ENTRESTO.
 
-Table 3: Treatment Effect for the Primary Composite Endpoint, its Components, and All-cause Mortality in PARADIGM-HF
+Table 4: Treatment Effect for the Primary Composite Endpoint, Its Components, and All-cause Mortality in PARADIGM-HF
 
 |  | ENTRESTO N = 4,187 n (%) | Enalapril N = 4,212 n (%) | Hazard Ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
@@ -59,13 +59,13 @@ Apparent homogeneity or heterogeneity among groups should not be over-interprete
 
 PARAGON-HF
 
-PARAGON-HF, was a multicenter, randomized, double-blind trial comparing ENTRESTO and valsartan in 4,796 adult patients with symptomatic heart failure with left ventricular ejection fraction ≥ 45%, and structural heart disease [either left atrial enlargement (LAE) or left ventricular hypertrophy (LVH)].
-Patients with a systolic blood pressure of < 110 mmHg and patients with any prior echocardiographic LVEF < 40% at screening were excluded.
+PARAGON-HF, was a multicenter, randomized, double-blind trial comparing ENTRESTO and valsartan in 4,796 adult patients with symptomatic heart failure with left ventricular ejection fraction greater than or equal to 45%, and structural heart disease [either left atrial enlargement (LAE) or left ventricular hypertrophy (LVH)].
+Patients with a systolic blood pressure of less than 110 mmHg and patients with any prior echocardiographic LVEF less than 40% at screening were excluded.
 
 The primary objective of PARAGON-HF was to determine whether ENTRESTO reduced the rate of the composite endpoint of total (first and recurrent) heart failure (HF) hospitalizations and cardiovascular (CV) death.
 
 After discontinuing their existing ACE inhibitor or ARB therapy, patients entered sequential single-blind run-in periods during which they received valsartan 80 mg twice-daily, followed by ENTRESTO 100 mg twice-daily.
-Patients on prior low doses of an ACEi or ARB began the run-in period receiving valsartan 40 mg twice-daily for 1-2 weeks.
+Patients on prior low doses of an ACEi or ARB began the run-in period receiving valsartan 40 mg twice-daily for 1 to 2 weeks.
 Patients who successfully completed the sequential run-in periods were randomized to receive either ENTRESTO 200 mg (N = 2,419) twice-daily or valsartan 160 mg (N = 2,403) twice-daily.
 The median follow-up duration was 35 months and patients were treated for up to 4.7 years.
 
@@ -73,13 +73,13 @@ The population was 81% Caucasian, 13% Asian, and 2% Black; the mean age was 73 y
 At randomization, 77% of patients were NYHA Class II, 19% were NYHA Class III, and 0.4% were NYHA Class IV.
 The median left ventricular ejection fraction was 57%.
 The underlying cause of heart failure was of ischemic etiology in 36% of patients.
-Furthermore, 96% had a history of hypertension, 23% had a history of myocardial infarction, 46% had an eGFR < 60 mL/min/1.73 m2, and 43% had diabetes mellitus.
+Furthermore, 96% had a history of hypertension, 23% had a history of myocardial infarction, 46% had an eGFR less than 60 mL/min/1.73 m2, and 43% had diabetes mellitus.
 Most patients were taking beta-blockers (80%) and diuretics (95%).
 
-PARAGON-HF demonstrated that ENTRESTO had a numerical reduction in the rate of the composite endpoint of total (first and recurrent) HF hospitalizations and CV death, based on an analysis using a proportional rates model (rate ratio [RR] 0.87; 95% CI [0.75, 1.01], p = 0.06); see Table 4.
+PARAGON-HF demonstrated that ENTRESTO had a numerical reduction in the rate of the composite endpoint of total (first and recurrent) HF hospitalizations and CV death, based on an analysis using a proportional rates model (rate ratio [RR] 0.87; 95% CI [0.75, 1.01], p = 0.06); see Table 5.
 The treatment effect was primarily driven by the reduction in total HF hospitalizations in patients randomized to ENTRESTO (RR 0.85; 95% CI [0.72, 1.00]).
 
-Table 4: Treatment Effect for the Primary Composite Endpoint and its Components in PARAGON-HF
+Table 5: Treatment Effect for the Primary Composite Endpoint and Its Components in PARAGON-HF
 
 |  | ENTRESTO N = 2,407 |  | Valsartan N = 2,389 |  | Effect Size (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -106,14 +106,11 @@ Figure 7: Treatment Effect for the Composite Endpoint of Time to First HF Hospit
 
 ## 14.2 Pediatric Heart Failure
 
-PANORAMA-HF
+The efficacy of ENTRESTO was evaluated in a multinational, randomized, double-blind trial PANORAMA-HF comparing ENTRESTO (n = 187) and enalapril (n = 188) in pediatric patients aged 1 month to less than 18 years old due to systemic left ventricular systolic dysfunction (LVEF ≤ 45% or fractional shortening ≤ 22.5%).
+Patients with systemic right ventricle, single ventricle, restrictive cardiomyopathy or hypertrophic cardiomyopathy were excluded from the trial.
+Efficacy of ENTRESTO in patients less than 1 year old was not established.
+At Week 52, there were 144 ENTRESTO and 133 enalapril patients with a post-baseline assessment of NT-proBNP.
+The estimated least squares mean percent reduction from baseline in NT-proBNP was 65% and 62% in the ENTRESTO and enalapril groups, respectively.
+While the between-group difference was not nominally statistically significant, the reductions for ENTRESTO and enalapril were larger than what was seen in adults; these reductions did not appear to be attributable to post-baseline changes in background therapy.
 
-The efficacy of ENTRESTO was evaluated in a multinational, randomized, double-blind trial comparing ENTRESTO and enalapril based on an analysis in 110 pediatric patients 1 to < 18 years old with heart failure (NYHA/Ross class II-IV) due to systemic left ventricular systolic dysfunction (LVEF ≤ 40%).
-Patients with systemic right ventricles and single ventricles were excluded from the trial.
-The target maintenance dose of ENTRESTO in pediatric patients 1 to < 18 years old was 3.1 mg/kg twice daily.
-
-The endpoint was the between-group difference in the change in plasma NT-proBNP from baseline to 12 weeks.
-The reduction from baseline in NT-proBNP was 44% and 33% in the ENTRESTO and enalapril groups, respectively.
-While the between-group difference was not statistically significant, the reductions for ENTRESTO and enalapril were similar to or larger than what was seen in adults; these reductions did not appear to be attributable to post-baseline changes in background therapy.
-
-Because ENTRESTO improved outcomes and reduced NT-proBNP in PARADIGM-HF, the effect on NT-proBNP was considered a reasonable basis to infer improved cardiovascular outcomes in pediatric patients.
+Because ENTRESTO improved outcomes and reduced NT-proBNP in adults in PARADIGM-HF, the effect on NT-proBNP was the basis to infer improved cardiovascular outcomes in pediatric patients.

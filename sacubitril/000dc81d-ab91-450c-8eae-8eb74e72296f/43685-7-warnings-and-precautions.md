@@ -45,4 +45,4 @@ In patients with renal artery stenosis, monitor renal function.
 
 Through its actions on the RAAS, hyperkalemia may occur with ENTRESTO [see Adverse Reactions (6.1)].
 Monitor serum potassium periodically and treat appropriately, especially in patients with risk factors for hyperkalemia such as severe renal impairment, diabetes, hypoaldosteronism, or a high potassium diet.
-Dosage reduction or interruption of ENTRESTO may be required [see Dosage and Administration (2.6)].
+Dosage reduction or interruption of ENTRESTO may be required [see Dosage and Administration (2.7)].

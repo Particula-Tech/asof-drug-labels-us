@@ -23,9 +23,9 @@ Because of this run-in design, the adverse reaction rates described below are lo
 
 In the double-blind period, safety was evaluated in 4,203 patients treated with ENTRESTO and 4,229 treated with enalapril.
 In PARADIGM-HF, patients randomized to ENTRESTO received treatment for up to 4.3 years, with a median duration of exposure of 24 months; 3,271 patients were treated for more than one year.
-Discontinuation of therapy because of an adverse event during the double-blind period occurred in 450 (10.7%) of ENTRESTO treated patients and 516 (12.2%) of patients receiving enalapril.
+Discontinuation of therapy because of an adverse event during the double-blind period occurred in 450 (10.7%) of ENTRESTO-treated patients and 516 (12.2%) of patients receiving enalapril.
 
-Adverse reactions occurring at an incidence of ≥ 5% in patients who were treated with ENTRESTO in the double-blind period of PARADIGM-HF are shown in Table 2.
+Adverse reactions occurring at an incidence of greater than or equal to 5% in patients who were treated with ENTRESTO in the double-blind period of PARADIGM-HF are shown in Table 3.
 
 In PARADIGM-HF, the incidence of angioedema was 0.1% in both the enalapril and ENTRESTO run-in periods.
 In the double-blind period, the incidence of angioedema was higher in patients treated with ENTRESTO than enalapril (0.5% and 0.2%, respectively).
@@ -34,7 +34,7 @@ The incidence of angioedema in Black patients was 2.4% with ENTRESTO and 0.5% wi
 Orthostasis was reported in 2.1% of patients treated with ENTRESTO compared to 1.1% of patients treated with enalapril during the double-blind period of PARADIGM-HF.
 Falls were reported in 1.9% of patients treated with ENTRESTO compared to 1.3% of patients treated with enalapril.
 
-Table 2: Adverse Reactions Reported in ≥ 5% of Patients Treated with ENTRESTO in the Double-Blind Period of PARADIGM-HF
+Table 3: Adverse Reactions Reported in greater than or equal to 5% of Patients Treated with ENTRESTO in the Double-Blind Period of PARADIGM-HF
 
 |  | ENTRESTO (n = 4,203) % | Enalapril (n = 4,229) % |
 | --- | --- | --- |
@@ -48,24 +48,24 @@ In PARAGON-HF, no new adverse reactions were identified.
 
 Pediatric Heart Failure
 
-The adverse reactions observed in pediatric patients 1 to < 18 years old who received treatment with ENTRESTO were consistent with those observed in adult patients.
+The adverse reactions observed in pediatric patients 1 year to less than 18 years old who received treatment with ENTRESTO were consistent with those observed in adult patients.
 
 Laboratory Abnormalities
 
 Hemoglobin and Hematocrit
 
-Decreases in hemoglobin/hematocrit of > 20% were observed in approximately 5% of both ENTRESTO- and enalapril-treated patients in the double-blind period in PARADIGM-HF.
-Decreases in hemoglobin/hematocrit of >20% were observed in approximately 7% of ENTRESTO-treated patients and 9% of valsartan-treated patients in the double-blind period in PARAGON-HF.
+Decreases in hemoglobin/hematocrit of greater than 20% were observed in approximately 5% of both ENTRESTO- and enalapril-treated patients in the double-blind period in PARADIGM-HF.
+Decreases in hemoglobin/hematocrit of greater than 20% were observed in approximately 7% of ENTRESTO-treated patients and 9% of valsartan-treated patients in the double-blind period in PARAGON-HF.
 
 Serum Creatinine
 
-During the double-blind period in PARADIGM-HF, approximately 16% of both ENTRESTO- and enalapril-treated patients had increases in serum creatinine of > 50%.
-During the double-blind period in PARAGON-HF, approximately 17% of ENTRESTO-treated patients and 21% of valsartan-treated patients had increases in serum creatinine of > 50%.
+During the double-blind period in PARADIGM-HF, approximately 16% of both ENTRESTO- and enalapril-treated patients had increases in serum creatinine of greater than 50%.
+During the double-blind period in PARAGON-HF, approximately 17% of ENTRESTO-treated patients and 21% of valsartan-treated patients had increases in serum creatinine of greater than 50%.
 
 Serum Potassium
 
-During the double-blind period of PARADIGM-HF, approximately 16% of both ENTRESTO- and enalapril-treated patients had potassium concentrations > 5.5 mEq/L.
-During the double-blind period of PARAGON-HF, approximately 18% of ENTRESTO-treated patients and 20% of valsartan-treated patients had potassium concentrations > 5.5 mEq/L.
+During the double-blind period of PARADIGM-HF, approximately 16% of both ENTRESTO- and enalapril-treated patients had potassium concentrations greater than 5.5 mEq/L.
+During the double-blind period of PARAGON-HF, approximately 18% of ENTRESTO-treated patients and 20% of valsartan-treated patients had potassium concentrations greater than 5.5 mEq/L.
 
 ## 6.2 Postmarketing Experience
 

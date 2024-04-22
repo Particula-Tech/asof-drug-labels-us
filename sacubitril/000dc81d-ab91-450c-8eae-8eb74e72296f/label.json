@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA207620"
+    "NDA207620",
+    "NDA218591"
   ],
   "inn": "sacubitril",
   "labeler": "Novartis Pharmaceuticals Corporation",
@@ -17,10 +18,17 @@
     "0078-0777-35",
     "0078-0777-61",
     "0078-0777-67",
+    "0078-1231-20",
+    "0078-1238-20",
     "0078-9659-50",
     "0078-9777-50"
   ],
   "products": [
+    {
+      "form": "PELLET",
+      "generic": "sacubitril and valsartan",
+      "name": "ENTRESTO"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "sacubitril and valsartan",

@@ -7,7 +7,7 @@ Concomitant use of ENTRESTO with an ACE inhibitor is contraindicated because of 
 Avoid use of ENTRESTO with an ARB, because ENTRESTO contains the angiotensin II receptor blocker valsartan.
 
 The concomitant use of ENTRESTO with aliskiren is contraindicated in patients with diabetes [see Contraindications (4)].
-Avoid use with aliskiren in patients with renal impairment (eGFR < 60 mL/min/1.73 m2).
+Avoid use with aliskiren in patients with renal impairment (eGFR less than 60 mL/min/1.73 m2).
 
 ## 7.2 Potassium-Sparing Diuretics
 

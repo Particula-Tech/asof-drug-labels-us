@@ -48,6 +48,46 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
+NDC 0078-1231-20
+
+Entresto® Sprinkle
+
+(sacubitril/valsartan) oral pellets
+
+6 mg/6 mg
+
+Open capsule shell to administer pellets.
+Do Not swallow capsule whole.
+Do Not chew or crush pellets.
+
+Rx only
+
+60 Capsules
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-1238-20
+
+Entresto® Sprinkle
+
+(sacubitril/valsartan) oral pellets
+
+15 mg/16 mg
+
+Open capsule shell to administer pellets.
+Do Not swallow capsule whole.
+Do Not chew or crush pellets.
+
+Rx only
+
+60 Capsules
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
 Physician Sample Not for Sale
 
 Entresto®
