@@ -28,10 +28,10 @@ Advise males with female partners of reproductive potential to use effective con
 
 Lactation: Advise women not to breastfeed during treatment with Pemetrexed for Injection, USP and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2022 Meitheal Pharmaceuticals Inc.
+meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2023 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Jiangsu Hansoh Pharmaceutical Group Co., Ltd. Lianyungang, Jiangsu, China 222069
 
-Revised: September 2022
+Revised: December 2023
 
-600784B02
+602667B01
