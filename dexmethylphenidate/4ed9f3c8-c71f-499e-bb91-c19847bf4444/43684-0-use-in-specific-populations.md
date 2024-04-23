@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Dexmethylphenidate Hydrochloride Extended-release Capsules, during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhdmedications/.
-Risk Summary Dexmethylphenidate is the d-threo enantiomer of racemic methylphenidate.
+Risk Summary Dexmethylphenidate is the d-threoenantiomer of racemic methylphenidate.
 Published studies and post-marketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There may be risks to the fetus associated with the use of CNS stimulants use during pregnancy (see Clinical Considerations).
 Embryo-fetal development studies in rats showed delayed fetal skeletal ossification at doses up to 5 times the maximum recommended human dose (MRHD) of 20 mg/day given to adults based on plasma levels.
@@ -23,7 +23,7 @@ Racemic methylphenidate has been shown to cause malformations (increased inciden
 
 ## 8.2 Lactation
 
-Risk Summary Dexmethylphenidate is the d-threo enantiomer of racemic methylphenidate.
+Risk Summary Dexmethylphenidate is the d-threoenantiomer of racemic methylphenidate.
 Limited published literature, based on milk sampling from seven mothers’ reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
 There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 Long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
@@ -39,10 +39,10 @@ Long Term Suppression of Growth Growth should be monitored during treatment with
 Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
 Juvenile Animal Toxicity Data Rats treated with racemic methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood.
 A deficit in acquisition of a specific learning task was observed in females only.
-The doses at which these findings were observed are at least 6 times the MRHD of 60 mg/day given to children on a mg/m2 basis.
+The doses at which these findings were observed are at least 6 times the MRHD of 60 mg/day given to children on a mg/m 2basis.
 In a study conducted in young rats, racemic methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal Week 10).
-When these animals were tested as adults (postnatal Weeks 13 to14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg/day of racemic methylphenidate given to children on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m2 basis).
-The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (approximately 0.5 times the MRHD given to children on a mg/m2 basis).
+When these animals were tested as adults (postnatal Weeks 13 to14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg/day of racemic methylphenidate given to children on a mg/m 2basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m 2basis).
+The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (approximately 0.5 times the MRHD given to children on a mg/m 2basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 
 ## 8.5 Geriatric Use

@@ -5,7 +5,7 @@ Controlled Substance Status/High Potential for Abuse and Dependence Advise patie
 Instruct patients that they should not give Dexmethylphenidate Hydrochloride Extended-release Capsules to anyone else.
 Advise patients to store Dexmethylphenidate Hydrochloride Extended-release Capsules in a safe place, preferably locked, to prevent abuse.
 Advise patients to comply with laws and regulations on drug disposal.
-Advise patients to dispose of remaining, unused, or expired Dexmethylphenidate Hydrochloride Extended-release Capsules by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.1, 9.2, 9.3), How Supplied/Storage and Handling (16)].
+Advise patients to dispose of remaining, unused, or expired Dexmethylphenidate Hydrochloride Extended-release Capsules by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence(9.1, 9.2, 9.3), How Supplied/Storage and Handling (16)].
 Serious Cardiovascular Risks Advise patients that there is a potential serious cardiovascular risk including sudden death, myocardial infarction, stroke, and hypertension with Dexmethylphenidate Hydrochloride Extended-release Capsules use.
 Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 Blood Pressure and Heart Rate Increases Instruct patients that Dexmethylphenidate Hydrochloride Extended-release Capsules can cause elevations of their blood pressure and pulse rate [see Warnings and Precautions (5.3)].
