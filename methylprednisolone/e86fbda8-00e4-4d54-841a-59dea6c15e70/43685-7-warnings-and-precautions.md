@@ -189,6 +189,11 @@ Ophthalmic
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
+Tumor Lysis Syndrome
+
+In post marketing experience, tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
+Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
+
 Information for Patients
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids, and to seek medical advice at once should they develop fever or other signs of infection.
