@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Instruct patients to clean the affected areas with an appropriate cleanser before applying Atralin Gel.
 
@@ -16,13 +16,22 @@ Caution patients against application of Atralin Gel around the eyes, mouth, para
 Minimize exposure to sunlight, including sunlamps.
 Recommend the use of sunscreen products and protective apparel (e.g., hat) when exposure cannot be avoided.
 
-Rx only
+Distributed by:
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada ©Valeant Pharmaceuticals North America LLC Atralin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Bausch Health US, LLC
 
-All other product/brand names are trademarks of their respective owners.
+Bridgewater, NJ 08807 USA
 
-9549700
+Manufactured by:
 
-Rev.
-07/2016
+Bausch Health Companies Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Atralin is a trademark of Bausch Health Companies Inc. or its affiliates.
+
+All other product/brand names and/or logos are trademarks of the respective owners.
+
+© 2024 Bausch Health Companies Inc. or its affiliates
+
+9549701

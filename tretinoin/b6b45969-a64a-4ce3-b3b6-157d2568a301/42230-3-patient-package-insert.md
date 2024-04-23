@@ -1,4 +1,4 @@
-Patient Information Atralin® (A-truh-lin) (tretinoin) Gel, 0.05% For topical use
+Patient Information Atralin® (A-truh-lin) (tretinoin) Gel, 0.05% for topical use
 
 Important information: Atralin is for use on skin only.
 Do not get Atralin in your mouth, eyes, vagina, or the corners of your nose.
@@ -46,7 +46,7 @@ What should I avoid while using Atralin?
 - •Avoid washing your skin too often and scrubbing the affected skin area.
 - •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with Atralin.
 - •Minimize exposure to sunlight.
-- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with a SPF (sun protection factor) of 15 or more and wear protective clothing, and a wide brimmed hat to cover the treated areas.
+- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with a (SPF) sun protection factor of 15 or more and wear protective clothing, and a wide brimmed hat to cover the treated areas.
 - •If you do get sunburned, stop using Atralin until your skin has healed and is back to normal.
 - •Cold weather and wind may irritate skin treated with Atralin.
   Skin treated with Atralin may dry out or get wind burned more easily.
@@ -85,19 +85,27 @@ What are the ingredients of Atralin?
 
 Active ingredient: tretinoin Inactive ingredients: benzyl alcohol, butylparaben, butylated hydroxytoluene, carbomer homopolymer Type C, ethylparaben, fish collagen hydrolyzates, glycerin, isobutylparaben, methylparaben, octoxynol 9, phenoxyethanol, propylparaben, purified water, sodium hyaluronate, and trolamine.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch Health Companies Inc.
+
+Laval, Quebec H7L 4A8, Canada
 
 For more information, call 1-800-321-4576.
 
-©Valeant Pharmaceuticals North America LLC
+Atralin is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-Atralin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+All other product/brand names and/or logos are trademarks of the respective owners.
 
-All other product/brand names are trademarks of their respective owners.
+© 2024 Bausch Health Companies Inc. or its affiliates
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-9549700 Rev.
-07/2016
+1. Rev.
+   02/2024 9549701

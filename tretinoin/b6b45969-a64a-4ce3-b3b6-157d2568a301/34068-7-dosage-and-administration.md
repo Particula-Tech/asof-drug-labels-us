@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 For topical use only.
-Not for ophthalmic, oral, or intravaginal use.
+Not for oral, ophthalmic, or intravaginal use.
 
 Atralin Gel should be applied once daily, before bedtime, to the skin where acne lesions appear, using a thin layer to cover the entire affected area.
 Atralin Gel should be kept away from the eyes, the mouth, paranasal creases, and mucous membranes.
