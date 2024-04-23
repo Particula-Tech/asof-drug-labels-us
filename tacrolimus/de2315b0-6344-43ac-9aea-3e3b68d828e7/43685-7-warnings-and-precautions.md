@@ -36,11 +36,12 @@ Monitor blood glucose concentrations and treat appropriately [see Adverse Reacti
 
 ## 5.5 Nephrotoxicity due to ENVARSUS XR and Drug Interactions
 
-ENVARSUS XR, like other calcineurin-inhibitors, can cause acute or chronic nephrotoxicity.
-Consider dosage reduction in patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range.
+ENVARSUS XR, like other calcineurin-inhibitors, can cause acute or chronic nephrotoxicity in transplant patients due to its vasoconstrictive effect on renal vasculature, toxic tubulopathy and tubular-interstitial effects.
+Acute renal impairment associated with tacrolimus toxicity can result in high serum creatinine, hyperkalemia, decreased secretion of urea and hyperuricemia, and is usually reversible.
+In patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range, consider dosage reduction or temporary interruption of tacrolimus administration.
 
-The risk for nephrotoxicity may increase when ENVARSUS XR is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors) [see Adverse Reactions (6.1, 6.2), Drug Interactions (7.2)].
-Monitor renal function and consider dosage reduction if nephrotoxicity occurs.
+The risk for nephrotoxicity may increase when ENVARSUS XR is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors).
+When tacrolimus is used concurrently with CYP3A inhibitors or other known nephrotoxic drugs, monitor renal function and tacrolimus blood concentrations, and adjust dose of both tacrolimus and/or concomitant medications during concurrent use [see Adverse Reactions (6.1, 6.2) and Drug Interactions (7.2)].
 
 ## 5.6 Neurotoxicity
 
@@ -65,14 +66,16 @@ Calcium-channel blocking agents may increase tacrolimus blood concentrations and
 The concomitant use of strong CYP3A inducers may increase the metabolism of tacrolimus, leading to lower whole blood trough concentrations and greater risk of rejection.
 In contrast, the concomitant use of strong CYP3A inhibitors may decrease the metabolism of tacrolimus, leading to higher whole blood trough concentrations and greater risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.6, 5.10)].
 Therefore, adjust ENVARSUS XR dose and monitor tacrolimus whole blood trough concentrations when co-administering ENVARSUS XR with strong CYP3A inhibitors (e.g., including but not limited to telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) or strong CYP3A inducers (e.g., including but not limited to rifampin, rifabutin) [see Dosage and Administration (2.4, 2.5), Drug Interactions (7.2)].
+A rapid, sharp rise in tacrolimus levels has been reported after co-administration with strong CYP3A4 inhibitors despite an initial reduction of tacrolimus dose.
+Early and frequent monitoring of tacrolimus whole blood trough levels is recommended [see Drug Interactions (7.2)].
 
 ## 5.10 QT Prolongation
 
-ENVARSUS XR may prolong the QT/QTc interval and cause Torsade de Pointes.
+ENVARSUS XR may prolong the QT/QTc interval and cause Torsades de pointes.
 Avoid ENVARSUS XR in patients with congenital long QT syndrome.
 Consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment in patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other products that lead to QT prolongation, and those with electrolyte disturbances (e.g., hypokalemia, hypocalcemia, or hypomagnesemia).
 
-When co-administering ENVARSUS XR with other substrates and/or inhibitors of CYP3A, a reduction in ENVARSUS XR dosage, monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended [see Dosage and Administration (2.5), Drug Interactions (7.2)].
+When co-administering ENVARSUS XR with other substrates and/or inhibitors of CYP3A, especially those that also have the potential to prolong the QT interval, a reduction in ENVARSUS XR dosage, monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended [see Dosage and Administration (2.5), Drug Interactions (7.2)].
 
 ## 5.11 Immunizations
 
@@ -93,3 +96,13 @@ If PRCA is diagnosed, consider discontinuation of ENVARSUS XR.
 
 When cannabidiol and ENVARSUS XR are co-administered, closely monitor for an increase in tacrolimus blood levels and for adverse reactions suggestive of tacrolimus toxicity.
 A dose reduction of ENVARSUS XR should be considered as needed when ENVARSUS XR is co-administered with cannabidiol [see Dosage and Administration (2.4, 2.5), Drug Interactions (7.3)].
+
+## 5.14 Thrombotic Microangiopathy (TMA) Including Hemolytic Uremic Syndrome and Thrombotic Thrombocytopenic Purpura
+
+Cases of thrombotic microangiopathy (TMA), including hemolytic uremic syndrome (HUS) and thrombotic thrombocytopenic purpura (TTP), have been reported in patients treated with ENVARSUS XR.
+TMA may have a multifactorial etiology.
+Risk factors for TMA that can occur in transplant patients include, for example, severe infections, graft-versus-host disease (GVHD), Human Leukocyte Antigen (HLA) mismatch, the use of calcineurin inhibitors and mammalian target of rapamycin (mTOR) inhibitors.
+These risk factors may, either alone or combined, contribute to the risk of TMA.
+
+In patients with signs and symptoms of TMA, consider ENVARSUS XR as a risk factor.
+Concurrent use of ENVARSUS XR and mTOR inhibitors may contribute to the risk of TMA.

@@ -17,7 +17,6 @@ Advise pregnant women of the potential risk to the fetus.
 Administration of oral tacrolimus to pregnant rabbits and rats throughout the period of organogenesis was associated with maternal toxicity/lethality, and an increased incidence of abortion, malformation and embryofetal death at clinically relevant doses (0.7 to 3.7 times the recommended clinical dose [0.14 mg/kg/day], on a mg/m² basis).
 Administration of oral tacrolimus to pregnant rats after organogenesis and throughout lactation produced maternal toxicity, effects on parturition, reduced pup viability and reduced pup weight at clinically relevant doses (1.2 to 3.7 times the recommended clinical dose, on a mg/m² basis).
 Administration of oral tacrolimus to rats prior to mating, and throughout gestation and lactation produced maternal toxicity/lethality, marked effects on parturition, embryofetal loss, malformations, and reduced pup viability at clinically relevant doses (1.2 to 3.7 times the recommended clinical dose, on a mg/m² basis).
-
 Interventricular septal defects, hydronephrosis, craniofacial malformations and skeletal effects were observed in offspring that died [see Animal Data].
 
 The background risk of major birth defects and miscarriage in the indicated population is unknown.

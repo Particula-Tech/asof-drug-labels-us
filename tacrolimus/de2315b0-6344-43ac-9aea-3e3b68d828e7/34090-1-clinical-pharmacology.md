@@ -61,7 +61,7 @@ In a U.S. trial in which tacrolimus was administered as immediate-release formul
 Metabolism
 
 The desired pharmacological activity of tacrolimus is primarily due to the parent drug.
-Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system 3A (CYP3A).
+Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system 3A (CYP3A4 and CYP3A5).
 A metabolic pathway leading to the formation of 8 possible metabolites has been proposed.
 Demethylation and hydroxylation were identified as the primary mechanisms of biotransformation in vitro.
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.

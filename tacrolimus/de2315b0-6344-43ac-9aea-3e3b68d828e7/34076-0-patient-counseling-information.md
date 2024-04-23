@@ -50,13 +50,19 @@ Monitoring of potassium levels may be necessary, especially with concomitant use
 Inform patients that ENVARSUS XR can cause high blood pressure which may require treatment with anti-hypertensive therapy.
 Advise patients to monitor their blood pressure [see Warnings and Precautions (5.8)].
 
-## 17.9 Drug Interactions
+## 17.9 Thrombotic Microangiopathy
+
+Inform patients that ENVARSUS XR can cause blood clotting problems.
+The risk of this occurring increases when patients take ENVARSUS XR and sirolimus or everolimus concomitantly, or when patients develop certain infections.
+Advise them to seek medical attention promptly if they develop fever, petequiae or bruises, fatigue, confusion, jaundice, oliguria [see Warnings and Precautions (5.13)].
+
+## 17.10 Drug Interactions
 
 Instruct patients to tell their healthcare providers when they start or stop taking any concomitant medications, including prescription and non-prescription medicines, natural or herbal remedies, dietary supplements and vitamins.
 Some medications could alter tacrolimus concentrations in the blood and thus may require the adjustment of the dosage of ENVARSUS XR.
 Advise patients to avoid grapefruit, grapefruit juice and alcoholic beverages [see Warnings and Precautions (5.9, 5.13) and Drug Interactions (7)].
 
-## 17.10 Pregnancy, Lactation and Infertility
+## 17.11 Pregnancy, Lactation and Infertility
 
 Inform women of childbearing potential that ENVARSUS XR can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
@@ -67,7 +73,7 @@ To enroll or register, patients can call the toll-free number 1-877-955-6877 or 
 
 Based on animal studies, ENVARSUS XR may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
-## 17.11 Immunizations
+## 17.12 Immunizations
 
 Inform patients that ENVARSUS XR can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.11)].
 

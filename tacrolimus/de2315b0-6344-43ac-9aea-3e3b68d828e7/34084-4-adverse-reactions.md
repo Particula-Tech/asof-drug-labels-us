@@ -11,6 +11,7 @@ The following clinically significant adverse drug reactions are discussed in gre
 - Hypertension [see Warnings and Precautions (5.8)]
 - QT Prolongation [see Warnings and Precautions (5.10)]
 - Pure Red Cell Aplasia [see Warnings and Precautions (5.12)]
+- Thrombotic Microangiopathy, Including Hemolytic Uremic Syndrome and Thrombotic Thrombocytopenic Purpura [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -160,7 +161,7 @@ The following adverse reactions have been reported from marketing experience wit
 The following reactions have been included due to either their seriousness, frequency of reporting or strength of causal connection to ENVARSUS XR:
 
 - Blood and Lymphatic System Disorders: Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic anemia, hemolytic uremic syndrome, leukopenia, febrile neutropenia, pancytopenia, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precautions (5.12)], thrombocytopenic purpura, thrombotic thrombocytopenic purpura, thrombotic microangiopathy
-- Cardiac Disorders: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial hypertrophy, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, supraventricular extrasystoles, supraventricular tachycardia, Torsade de Pointes, deep limb venous thrombosis, ventricular fibrillation
+- Cardiac Disorders: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial hypertrophy, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, supraventricular extrasystoles, supraventricular tachycardia, Torsades de pointes, deep limb venous thrombosis, ventricular fibrillation
 - Ear Disorders: Hearing loss including deafness
 - Eye Disorders: Blindness, optic neuropathy, photophobia, optic atrophy
 - Gastrointestinal Disorders: Abdominal pain, colitis, dysphagia, gastrointestinal perforation, impaired gastric emptying, intestinal obstruction, mouth ulceration, peritonitis, stomach ulcer

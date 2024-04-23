@@ -6,7 +6,7 @@
   Under or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions [see Warnings and Precautions (5.3)].
   ENVARSUS XR should not be used without the supervision of a physician with experience in immunosuppressive therapy.
 - ENVARSUS XR should be taken on an empty stomach consistently at the same time of the day, preferably in the morning to ensure consistent and maximum possible drug exposure, at least 1 hour before a meal or at least 2 hours after a meal [see Clinical Pharmacology (12.3)].
-- Advise patients to swallow ENVARSUS XR tablets whole with fluid (preferably water); patients must not chew, divide, or crush the tablets.
+- Advise patients to swallow ENVARSUS XR tablets whole with fluid (preferably water); patients must not chew, divide, crush or dissovle the tablets.
 - If a dose is missed, instruct the patient to take it as soon as possible within 15 hours after missing the dose.
   Beyond the 15-hour time frame, instruct the patient to wait until the usual scheduled time to take the next regular daily dose.
   Instruct the patient not to double the next dose.
@@ -40,7 +40,7 @@ Dose adjustments of ENVARSUS XR may be necessary when administered concomitantly
 
 ## 2.5 Therapeutic Drug Monitoring
 
-Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after any change in dosage, after a change in co-administration of CYP3A inducers and/or inhibitors or cannabidiol [see Drug Interactions (7)], or after a change in renal or hepatic function.
+Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after any change in dosage, after a change in co-administration of CYP3A inducers and/or inhibitors or cannabidiol [see Drug Interactions (7)], or after a change in renal or hepatic function [see Use in Specific Populations (8.6, 8.7)].
 When interpreting measured concentrations, consider that the time to achieve tacrolimus steady state is approximately 7 days after initiating or changing the ENVARSUS XR dose.
 
 Monitor tacrolimus whole blood trough concentrations using a validated assay [e.g., immunoassays or high-performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS)].
