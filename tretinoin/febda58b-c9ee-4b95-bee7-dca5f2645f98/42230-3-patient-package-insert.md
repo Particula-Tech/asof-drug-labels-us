@@ -1,4 +1,4 @@
-Patient Information Tretinoin Gel, 0.05% For topical use
+Patient Information Tretinoin Gel, 0.05% for topical use
 
 Important information: Tretinoin Gel is for use on skin only.
 Do not get Tretinoin Gel in your mouth, eyes, vagina, or the corners of your nose.
@@ -46,7 +46,7 @@ What should I avoid while using Tretinoin Gel?
 - •Avoid washing your skin too often and scrubbing the affected skin area.
 - •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with Tretinoin Gel.
 - •Minimize exposure to sunlight.
-- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with a SPF (sun protection factor) of 15 or more and wear protective clothing, and a wide brimmed hat to cover the treated areas.
+- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with a sun protection factor (SPF) of 15 or more and wear protective clothing, and a wide brimmed hat to cover the treated areas.
 - •If you do get sunburned, stop using Tretinoin Gel until your skin has healed and is back to normal.
 - •Cold weather and wind may irritate skin treated with Tretinoin Gel.
   Skin treated with Tretinoin Gel may dry out or get wind burned more easily.
@@ -72,7 +72,7 @@ How should I store Tretinoin Gel?
 
 Keep Tretinoin Gel and all medicines out of the reach of children.
 
-General information about the safe and effective use of Tretinoin Gel
+General information about the safe and effective use of Tretinoin Gel.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use Tretinoin Gel for a condition for which it was not prescribed.
@@ -85,18 +85,19 @@ What are the ingredients of Tretinoin Gel?
 
 Active ingredient: tretinoin Inactive ingredients: benzyl alcohol, butylparaben, butylated hydroxytoluene, carbomer homopolymer Type C, ethylparaben, fish collagen hydrolyzates, glycerin, isobutylparaben, methylparaben, octoxynol 9, phenoxyethanol, propylparaben, purified water, sodium hyaluronate, and trolamine.
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
 For more information, call 1-800-321-4576.
 
-©Valeant Pharmaceuticals North America LLC
+All other product/brand names and/or logos are trademarks of the respective owners.
 
-Product/brand names are trademarks of their respective owners.
+© 2024 Bausch Health Companies Inc. or its affiliates
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-9571700
+9571701
 
 Rev.
-07/2016
+02/2024

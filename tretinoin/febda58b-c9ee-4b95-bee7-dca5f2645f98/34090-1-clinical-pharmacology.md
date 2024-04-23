@@ -11,15 +11,15 @@ Additionally, tretinoin stimulates mitotic activity and increased turnover of fo
 
 ## 12.3 Pharmacokinetics
 
-In two (2) studies, the plasma levels of tretinoin and its major metabolites (13-cis-retinoic acid and 4-oxo-13-cis-retinoic acid) were investigated in a total of 14 patients (age: 13 – 25 years) with severe acne, who applied 4 g ± 0.5 g (range 3.5 g – 4.5 g) of Tretinoin Gel once daily to face, back and chest, as compared to a mean of 0.71 g (range of 0.07 – 3.71 g) applied in the controlled clinical trials.
-Blood samples were taken at baseline and immediately prior to treatment on days 1, 5, 10 and 14.
-On Day 14, the final study day, samples also were taken 1, 2, 4, 6, 8, 10, 12, 16, and 24 hours, post-treatment.
+In two studies, the plasma levels of tretinoin and its major metabolites (13-cis-retinoic acid and 4-oxo-13-cis-retinoic acid) were investigated in a total of 14 patients (age: 13 – 25 years) with severe acne, who applied 4 g ± 0.5 g (range 3.5 g – 4.5 g) of Tretinoin Gel once daily to face, back and chest, as compared to a mean of 0.71 g (range of 0.07 – 3.71 g) applied in the controlled clinical trials.
+Blood samples were taken at baseline and immediately prior to treatment on Days 1, 5, 10 and 14.
+On Day 14, the final study day, samples also were taken 1, 2, 4, 6, 8, 10, 12, 16, and 24 hours post-treatment.
 
 The plasma concentrations of tretinoin and its metabolites could be measured (LOQ = 0.5 ng/mL for all three analytes) in all patients at all time points.
-The range of plasma concentrations of tretinoin and its metabolites, 13-cis-retinoic acid and all-trans-4-oxo-retinoic acid at baseline and after multiple once daily applications of Tretinoin Gel for 14 days are given in Table 2 (below).
+The range of plasma concentrations of tretinoin and its metabolites, 13-cis-retinoic acid and all-trans-4-oxo-retinoic acid at baseline and after multiple once-daily applications of Tretinoin Gel, 0.05% for 14 days are given in Table 2 (below).
 Although some patients had increased concentrations of tretinoin or its metabolites over baseline values, no consistent increase in these concentrations were observed across patients.
 
-Table 2: Concentrations of Active and Metabolites at Baseline and at Day 14 After Exposure to Tretinoin Gel 0.05%
+Table 2: Concentrations of Active and Metabolites at Baseline and at Day 14 After Exposure to Tretinoin Gel, 0.05%
 
 | Compound | Baseline Concentration Range (ng/mL) | Day 14 Concentration Range (ng/mL) |
 | --- | --- | --- |

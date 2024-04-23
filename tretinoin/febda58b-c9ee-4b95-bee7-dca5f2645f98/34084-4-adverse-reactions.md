@@ -15,7 +15,7 @@ In some subjects, the skin-related adverse reactions persist throughout the trea
 
 Table 1: Number of Subjects with Selected Adverse Reactions (Occurring in at Least 1% of Subjects)
 
-| Event | Tretinoin Gel (n = 674) | Vehicle Gel (n = 487) |
+| Event | Tretinoin Gel (N = 674) | Vehicle (N = 487) |
 | --- | --- | --- |
 | Dry Skin | 109 (16%) | 8 (2%) |
 | Peeling/Scaling/Flaking Skin | 78 (12%) | 7 (1%) |

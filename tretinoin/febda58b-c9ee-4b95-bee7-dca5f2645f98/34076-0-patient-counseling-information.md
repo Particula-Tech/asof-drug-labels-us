@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Instruct patients to clean the affected areas with an appropriate cleanser before applying Tretinoin Gel.
 
@@ -16,11 +16,10 @@ Caution patients against application of Tretinoin Gel around the eyes, mouth, pa
 Minimize exposure to sunlight, including sunlamps.
 Recommend the use of sunscreen products and protective apparel (e.g., hat) when exposure cannot be avoided.
 
-Rx only
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada All other product/brand names and/or logos are trademarks of the respective owners.
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada ©Valeant Pharmaceuticals North America LLC Product/brand names are trademarks of their respective owners.
+© 2024 Bausch Health Companies Inc. or its affiliates
 
-9571700 Rev.
-07/2016
+9571701
