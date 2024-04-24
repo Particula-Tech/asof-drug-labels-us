@@ -171,7 +171,7 @@ The efficacy and safety of DUPIXENT was evaluated in a 16-week, multicenter, ran
 Fifty-three (53) percent (N=70/133) of the subjects also had moderate-to-severe AD outside of the hands or feet (IGA global ≥3).
 Eligible subjects had previous inadequate response or intolerance to treatment of hand and/or foot dermatitis with topical AD medications.
 In this trial 67 subjects received DUPIXENT, and 66 subjects received placebo.
-DUPIXENT-treated subjects received the recommended dosage based on their age and body weight [see Dosage and Administration (2.2)].
+DUPIXENT-treated subjects received the recommended dosage based on their age and body weight [see Dosage and Administration (2.3)].
 Subjects were not allowed concomitant use of topical treatments for AD on the hands and feet during the trial, but were allowed the use of topical treatments for AD on other parts of the body with certain restrictions.
 
 In Liberty-AD-HAFT, 38% of subjects were male, 80% were White, 13% were Asian, and 5% were Black or African American.
@@ -393,7 +393,7 @@ Table 21: Efficacy Results of DUPIXENT in VOYAGE
 | --- | --- | --- | --- |
 | Annualized Severe Exacerbations Rate over 52 Weeks |  |  |  |
 |  | N | Rate (95% CI) | Rate Ratio (95% CI) |
-| DUPIXENT 100 mg Q2W (<30 kg)/ 200 mg Q2W (≥30 kg) | 175 | 0.24 (0.16, 0.35) | 0.35 (0.22, 0.56) |
+| DUPIXENT 100 mg Q2WThe effectiveness of DUPIXENT 300 mg Q4W was extrapolated from efficacy of 100 mg Q2W. (<30 kg)/ 200 mg Q2W (≥30 kg) | 175 | 0.24 (0.16, 0.35) | 0.35 (0.22, 0.56) |
 | Placebo | 84 | 0.67 (0.47, 0.95) |  |
 | Mean Change from Baseline in Percent Predicted FEV1 at Week 12 |  |  |  |
 |  | N | LS mean Δ from Baseline | LS mean difference vs. Placebo (95% CI) |
