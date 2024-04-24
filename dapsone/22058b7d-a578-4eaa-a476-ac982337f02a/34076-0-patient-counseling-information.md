@@ -17,9 +17,10 @@ Important Administration Instructions
 
 Distributed by: Almirall, LLC.
 
-101 Lindenwood Drive, Suite 400, Malvern, PA 19355
+Malvern, PA 19355
+
+Aczone® is a registered trademark of Almirall, LLC
 
 © 2019 Almirall, LLC.
 All rights reserved.
-All trademarks are the property of their respective owners.
 Patented.
