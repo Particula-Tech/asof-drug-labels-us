@@ -4,4 +4,4 @@ If applicable, inform patient, family member, or caregiver that certain medical 
 
 Distributed by: Dr. Reddy’s Laboratories Inc., Princeton, NJ 08540 Made in Switzerland
 
-Issued: 09/2022
+Issued: 04/2024

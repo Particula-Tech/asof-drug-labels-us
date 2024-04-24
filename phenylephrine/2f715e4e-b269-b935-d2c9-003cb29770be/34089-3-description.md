@@ -6,12 +6,12 @@ Its structural formula is depicted below:
 
 Phenylephrine hydrochloride is soluble in water and ethanol, and insoluble in chloroform and ethyl ether.
 
-BIORPHEN Injection, 0.1 mg/mL:
+BIORPHEN Injection, 500 mcg/5 mL (100 mcg/mL):
 
-BIORPHEN (phenylephrine hydrochloride) injection, 0.1 mg/mL, is a sterile, nonpyrogenic, clear and colorless solution for intravenous use.
+BIORPHEN (phenylephrine hydrochloride) injection, 500 mcg/5 mL (100 mcg/mL),, is a sterile, nonpyrogenic, clear and colorless solution for intravenous use.
 It MUST NOT BE DILUTED before administration as an intravenous bolus.
 
-Each mL contains: phenylephrine hydrochloride 0.1 mg (equivalent to 0.08 mg of phenylephrine base), sodium chloride 9.0 mg in water for injection.
+Each mL contains: phenylephrine hydrochloride 100 mcg (equivalent to 80 mcg of phenylephrine base), sodium chloride 9.0 mg in water for injection.
 The pH is adjusted with hydrochloric acid if necessary.
 The pH range is 3.0 to 5.0.
 
