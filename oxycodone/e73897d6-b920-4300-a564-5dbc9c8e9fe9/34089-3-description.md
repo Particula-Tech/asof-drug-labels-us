@@ -9,7 +9,7 @@ Oxycodone hydrochloride dissolves in water (1 g in 6 to 7 mL) and is considered 
 
 Chemically, oxycodone hydrochloride is 4, 5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one hydrochloride and has the following structural formula:
 
-Oxycodone hydrochloride tablets, USP contains inactive ingredients: corn starch; lactose monohydrate; microcrystalline cellulose; silicon dioxide; sodium starch glycolate; and magnesium stearate.
+Oxycodone hydrochloride tablets, USP contains inactive ingredients: corn starch; lactose monohydrate; microcrystalline cellulose; silicon dioxide; sodium starch glycolate; and stearic acid.
 The 10 mg tablet also contains D&C Red No. 27 aluminum lake.
 The 15 mg tablet also contains D&C Yellow No. 10 aluminum lake and FD&C Blue No. 2 aluminum lake.
 The 20 mg tablet also contains FD&C Blue No. 2 aluminum lake; FD&C Red No. 40 aluminum lake; and FD&C Yellow No. 6 aluminum lake.

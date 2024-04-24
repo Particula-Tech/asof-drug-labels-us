@@ -94,6 +94,6 @@ KVK-Tech, Inc.
 
 Newtown, PA 18940
 
-Item ID# 6102/06 11/2023
+Item ID# 6102/05 04/18
 
 Manufacturer’s Code: 10702
