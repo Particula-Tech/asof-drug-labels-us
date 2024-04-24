@@ -8,6 +8,8 @@ NDC 0143-9620-10 10 mL Multiple Dose Vial Boxes of 10 Vials
 
 NDC 0143-9619-10 30 mL Multiple Dose Vial Boxes of 10 Vials
 
+NDC 0143-9619-01 30 mL Multiple Dose Vial Box of 1 Vial
+
 ## Storage
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
