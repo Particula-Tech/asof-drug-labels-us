@@ -24,4 +24,4 @@ Advise patients to inform their healthcare provider of a known or suspected preg
 Lactation
 
 Advise patients that breastfeeding is not recommended during treatment with pitavastatin [see Use in Specific Populations (8.2)].
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 12/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 04/2024

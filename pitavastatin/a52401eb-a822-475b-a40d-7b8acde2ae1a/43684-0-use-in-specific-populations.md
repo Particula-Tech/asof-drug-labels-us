@@ -56,7 +56,7 @@ Because of the potential for serious adverse reactions in a breastfed infant, ba
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of pitavastatin as an adjunctive therapy to diet to reduce elevated LDL-C in pediatric patients aged 8 years and older with HeFH have been established.
-Use of pitavastatin for this indication is supported by a 12-week, double-blind, placebo-controlled trial in 82 pediatric patients 8 to 16 years of age with HeFH [see Clinical Studies (14.2)] and a 52-week open-label trial in 85 pediatric patients with HeFH.
+Use of pitavastatin for this indication is supported by a 12-week, double-blind, placebo-controlled trial in 82 pediatric patients 8 to 16 years of age with HeFH [see Clinical Studies (14)] and a 52-week open-label trial in 85 pediatric patients with HeFH.
 
 The safety and effectiveness of pitavastatin have not been established in pediatric patients younger than 8 years of age with heterozygous familial hypercholesterolemia (HeFH) or in pediatric patients with other types of hyperlipidemia (other than HeFH).
 
