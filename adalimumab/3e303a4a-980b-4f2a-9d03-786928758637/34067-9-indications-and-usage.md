@@ -29,9 +29,17 @@ HYRIMOZ is indicated for the treatment of moderately to severely active ulcerati
 
 Limitations of Use:
 
-The effectiveness of adalimumab products has not been established in patients who have lost response to or were intolerant to TNF blockers [see Clinical Studies (14.7)].
+The effectiveness of adalimumab products has not been established in patients who have lost response to or were intolerant to TNF-blockers [see Clinical Studies (14.7)].
 
 ## 1.7 Plaque Psoriasis
 
 HYRIMOZ is indicated for the treatment of adult patients with moderate to severe chronic plaque psoriasis who are candidates for systemic therapy or phototherapy, and when other systemic therapies are medically less appropriate.
 HYRIMOZ should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Warnings and Precautions (5)].
+
+## 1.8 Hidradenitis Suppurativa
+
+HYRIMOZ is indicated for the treatment of moderate to severe hidradenitis suppurativa in adult patients.
+
+## 1.9 Uveitis
+
+HYRIMOZ is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adult patients.

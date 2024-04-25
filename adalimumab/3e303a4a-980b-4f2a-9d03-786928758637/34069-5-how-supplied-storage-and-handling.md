@@ -7,9 +7,9 @@ The following packaging configurations are available.
 
 | 80 mg/0.8 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 83457-107-01 |
 | --- | --- | --- |
-| 80 mg/0.8 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Crohn’s disease and Ulcerative colitis Starter Package Carton of 3 | NDC 83457-113-01 |
-| 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled Sensoready Pens with fixed 29 gauge, ½ inch needle each | Plaque Psoriasis Starter PackageCarton of 3(1x 80 mg/0.8 mL, 2x 40 mg/0.4 mL) | NDC 83457-112-01 |
-| 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled Sensoready Pens with fixed 29 gauge, ½ inch needle each | Crohn’s Disease and Ulcerative Colitis Starter Package Carton of 4(3x 80 mg/0.8 mL, 1x 40 mg/0.4 mL) | NDC 83457-116-01 |
+| 80 mg/0.8 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Crohn’s disease and Ulcerative colitis or Hidradenitis Suppurativa Starter Package Carton of 3 | NDC 83457-113-01 |
+| 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled Sensoready Pens with fixed 29 gauge, ½ inch needle each | Plaque Psoriasis or Uveitis Starter PackageCarton of 3(1x 80 mg/0.8 mL, 2x 40 mg/0.4 mL) | NDC 83457-112-01 |
+| 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled Sensoready Pens with fixed 29 gauge, ½ inch needle each | Crohn’s Disease, Ulcerative Colitis or Hidradenitis Suppurativa Starter Package Carton of 4(3x 80 mg/0.8 mL, 1x 40 mg/0.4 mL) | NDC 83457-116-01 |
 | 80 mg/0.8 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Carton of 2 | NDC 83457-106-01 |
 | 80 mg/0.8 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Starter Pack for Pediatric Crohn’s DiseaseCarton of 3 | NDC 83457-115-01 |
 | 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Starter Pack for Pediatric Crohn’s DiseaseCarton of 2 | NDC 83457-114-01 |

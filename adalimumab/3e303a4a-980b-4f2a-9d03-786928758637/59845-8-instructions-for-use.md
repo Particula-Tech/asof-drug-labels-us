@@ -94,7 +94,7 @@ Contact your pharmacist if:
 - •The recommended injection site is the front of your thighs.
   You may also use the lower abdomen, but not the area 2 inches (5 cm) around your navel (belly button) (see Figure E).
 - •Choose a different site each time you give yourself an injection.
-- •Do not inject into areas where the skin is tender, bruised red, scaly, or hard.
+- •Do not inject into areas where the skin is tender, bruised, red, scaly, or hard.
   Avoid areas with scars or stretch marks.
   If you have psoriasis, you should not inject directly into areas with psoriasis plaques.
 
@@ -131,7 +131,7 @@ Figure F: clean your injection site
    - oproperly labeled to warn of hazardous waste inside the container.
 4. •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container.
    There may be state or local laws about how you should throw away used syringes, needles and prefilled syringe.
-   For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to FDA’s website at: www.fda.gov/safesharpsdisposal.
+   For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal.
 5. •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
    Do not recycle your used sharps disposal container.
 
@@ -146,7 +146,7 @@ US License No. 2003
 All third party trademarks are the property of their respective owners.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 6/2023
+Revised: 11/2023
 
 INSTRUCTIONS FOR USE
 
@@ -294,7 +294,7 @@ US License No. 2003
 All third party trademarks are the property of their respective owners.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 6/2023
+Revised: 11/2023
 
 INSTRUCTIONS FOR USE
 
@@ -473,7 +473,7 @@ US License No. 2003
 
 All third party trademarks are the property of their respective owners.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 6/2023
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
 
 INSTRUCTIONS FOR USE
 
@@ -655,7 +655,7 @@ US License No. 2003
 
 All third party trademarks are the property of their respective owners.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 6/2023
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
 
 INSTRUCTIONS FOR USE
 
@@ -742,7 +742,7 @@ Contact your pharmacist if:
 
 All third party trademarks are the property of their respective owners.
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 6/2023
+1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
 
 INSTRUCTIONS FOR USE
 
@@ -803,7 +803,7 @@ Figure B: items not included in the carton
 Preparing the prefilled syringe
 
 - •For a more comfortable injection, take the outer carton containing the prefilled syringe out of the refrigerator and leave it unopened on your work surface for about 15 to 30 minutes to allow it to reach room temperature.
-- •Do not try to warm the prefilled syringe by using a heat source such as hot water or a microwave.
+- Do not try to warm the prefilled syringe by using a heat source such as hot water or a microwave.
 - •Remove the prefilled syringe out of the carton box and inspect it.
   The solution should be clear and colorless or slightly yellowish.
   Do not use a prefilled syringe if the solution is cloudy, discolored, or has flakes or particles in it.
@@ -830,4 +830,4 @@ Contact your pharmacist if:
 
 All third party trademarks are the property of their respective owners.
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 6/2023
+1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
