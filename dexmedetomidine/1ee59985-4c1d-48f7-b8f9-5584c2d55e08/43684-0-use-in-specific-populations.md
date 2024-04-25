@@ -50,10 +50,18 @@ The relative infant dose was estimated to range from 0.02 to 0.098%.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy have not been established for Procedural or ICU Sedation in pediatric patients.
+Sedation for Non-Invasive Procedures
+
+The safety and effectiveness of dexmedetomidine hydrochloride have not been established in pediatric patients less than 1 month of age.
+
+Pediatric use information is approved for Hospira Inc.’s PRECEDEX™ (dexmedetomidine hydrochloride) injection and PRECEDEX™ (dexmedetomidine hydrochloride) in sodium chloride injection.
+However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
+ICU Sedation
+
+The safety and efficacy of dexmedetomidine hydrochloride have not been established in pediatric patients for ICU sedation.
 One assessor-blinded trial in pediatric patients and two open label studies in neonates were conducted to assess efficacy for ICU sedation.
-These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of dexmedetomidine hydrochloride for this patient population.
-The use of dexmedetomidine hydrochloride for procedural sedation in pediatric patients has not been evaluated.
+These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of dexmedetomidine hydrochloride for these patient populations.
 
 ## 8.5 Geriatric Use
 
@@ -68,21 +76,7 @@ Procedural Sedation
 
 A total of 131 patients in the clinical studies were 65 years of age and over.
 A total of 47 patients were 75 years of age and over.
-Hypotension occurred in a higher incidence in dexmedetomidine -treated patients 65 years or older (72%) and 75 years or older (74%) as compared to patients <65 years (47%).
-A reduced loading dose of 0.5 mcg/kg given over 10 minutes is recommended and a reduction in the maintenance infusion should be considered for patients greater than 65 years of age.
-
-Intensive Care Unit Sedation
-
-A total of 729 patients in the clinical studies were 65 years of age and over.
-A total of 200 patients were 75 years of age and over.
-In patients greater than 65 years of age, a higher incidence of bradycardia and hypotension was observed following administration of dexmedetomidine hydrochloride [see Warnings and Precautions (5.2)].
-Therefore, a dose reduction may be considered in patients over 65 years of age [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)].
-
-Procedural Sedation
-
-A total of 131 patients in the clinical studies were 65 years of age and over.
-A total of 47 patients were 75 years of age and over.
-Hypotension occurred in a higher incidence in dexmedetomidine -treated patients 65 years or older (72%) and 75 years or older (74%) as compared to patients <65 years (47%).
+Hypotension occurred in a higher incidence in dexmedetomidine-treated patients 65 years or older (72%) and 75 years or older (74%) as compared to patients <65 years (47%).
 A reduced loading dose of 0.5 mcg/kg given over 10 minutes is recommended and a reduction in the maintenance infusion should be considered for patients greater than 65 years of age.
 
 ## 8.6 Hepatic Impairment

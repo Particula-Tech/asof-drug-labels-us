@@ -16,7 +16,9 @@ MUST BE DILUTED
 
 # PRINCIPAL DISPLAY PANEL - 20 Pack Carton
 
-NDC 42023-186-20 Rx Only
+NDC 42023-186-20
+
+Rx Only
 
 Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
@@ -26,9 +28,11 @@ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 For Intravenous Infusion
 
-# PRINCIPAL DISPLAY PANEL - 10 Pack Vial Label
+# PRINCIPAL DISPLAY PANEL - 10 Pack Carton
 
-NDC 42023-187-10 Rx Only
+NDC 42023-187-10
+
+Rx Only
 
 Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 

@@ -1,7 +1,5 @@
-Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
+Manufactured for: Endo USA Malvern, PA 19355
 
-R09/2022
+© 2024 Endo, Inc. or one of its affiliates.
 
-OS146J-01-90-07
-
-3003391H
+Revised: 03/2024
