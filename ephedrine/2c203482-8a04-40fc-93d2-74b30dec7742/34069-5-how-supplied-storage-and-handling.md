@@ -17,10 +17,8 @@ Protect from Light
 
 Contains No Preservatives
 
-Distributed by:
+Manufactured for: Endo USA Malvern, PA 19355
 
-Par Pharmaceutical
+© 2024 Endo, Inc. or one of its affiliates.
 
-Chestnut Ridge, NY 10977
-
-R04/2022 OS243J-01-90-XX
+R03/2024

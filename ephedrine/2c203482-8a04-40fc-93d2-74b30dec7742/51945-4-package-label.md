@@ -12,9 +12,7 @@ Rx Only
 
 Ready-To-Use
 
-10 mL single-dose vial
-
-PAR PHARMACEUTICAL
+10 mL single-dose carton
 
 # PRINCIPAL DISPLAY PANEL - 5 x 5 mL Pre-filled Syringe Carton
 
@@ -31,5 +29,3 @@ Rx Only
 Ready-To-Use
 
 5 mL single use prefilled syringe
-
-PAR PHARMACEUTICAL
