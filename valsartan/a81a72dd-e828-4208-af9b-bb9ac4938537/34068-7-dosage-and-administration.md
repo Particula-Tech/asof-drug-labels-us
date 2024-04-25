@@ -8,7 +8,8 @@ The systemic exposure to valsartan (AUC) is 60% higher with the suspension compa
 
 Use of the oral suspension is recommended:
 
-- in patients >6 years of age who cannot swallow tablets and
+- in pediatric patients aged 1 to 5 years
+- in patients >5 years of age who cannot swallow tablets and
 - in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan.
 
 When switching between suspension and tablets, the dose of valsartan may need to be adjusted.
@@ -24,9 +25,6 @@ Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 
 *Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
 
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
-
 ## 2.2 Adult Hypertension
 
 The recommended starting dose of valsartan tablets is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
@@ -39,7 +37,7 @@ Addition of a diuretic has a greater effect than dose increases beyond 80 mg.
 
 Valsartan tablets may be administered with other antihypertensive agents.
 
-## 2.3 Pediatric Hypertension 6 to 16 Years of Age
+## 2.3 Pediatric Hypertension 1 to 16 Years of Age
 
 The usual recommended starting dose is 1 mg/kg once daily (up to 40 mg total).
 A higher starting dose of 2 mg/kg may be considered in selected cases when a greater reduction of blood pressure is needed.
@@ -48,9 +46,6 @@ The dosage should be adjusted according to blood pressure response and tolerabil
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2 [see Use in Specific Populations (8.4)].
 
 Use of valsartan tablets is not recommended in children less than 1 year of age [see Adverse Reactions (6.1), Pediatric Use in Specific Populations (8.4), Nonclinical Toxicology (13.2)].
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Heart Failure
 

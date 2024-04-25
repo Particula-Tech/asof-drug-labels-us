@@ -25,7 +25,21 @@ Patients with an inadequate response to 80 mg once daily were titrated to either
 In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg was similar to that of once-daily enalapril 20 mg or once-daily lisinopril 10 mg.
 There are no trials of valsartan demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
 There was essentially no change in heart rate in valsartan-treated patients in controlled trials.
-Pediatric Hypertension Children Between 6 to 16 Years of Age In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed less than 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
+Pediatric Hypertension
+
+Children Between 1 to Less Than 6 Years of Age
+
+The antihypertensive effect of valsartan in 290 children aged between 1 to less than 6 years of age has been evaluated in three randomized, double-blind clinical studies.
+In the first study in 90 patients, patients who weighed less than 18 kg received 5, 20 or 40 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 18 kg received 10, 40, and 80 mg of valsartan daily (low, medium and high doses).
+At the end of 2 weeks, the three dose levels of valsartan (low, medium and high) reduced systolic blood pressure from the baseline by 8.4, 8.3, and 8.6 mmHg, respectively, but a dose response could not be demonstrated.
+In the second study of 74 patients, higher doses (1 mg/kg and 4 mg/kg daily) of valsartan were associated with numerically greater blood pressure reductions than the lowest dose (0.25 mg/kg) at the end of 6¬ weeks treatment.
+The third study was a 6 week, randomized double-blind study to evaluate the dose response of valsartan in 126 children 1 to 5 years of age with hypertension, with or without chronic kidney disease (CKD) randomized to receive either valsartan 0.25 mg/kg or 4 mg/kg daily.
+At the end of 6 weeks, dose dependent reductions in mean systolic blood pressure (MSBP) were observed.
+The reduction in MSBP was 8.5 mmHg with valsartan 4 mg/kg and 4.1 mmHg with valsartan 0.25 mg/kg.
+Similarly, the CKD subgroup showed reductions in MSBP with valsartan 4 mg/kg compared to 0.25 mg/kg (9.2 mmHg vs 1.2 mmHg).
+Children Between 6 to 16 Years of Age
+
+In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed less than 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
 Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study.
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
 Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by 8, 10, and 12 mm Hg from the baseline, respectively.
@@ -33,8 +47,6 @@ Patients were re-randomized to either continue receiving the same dose of valsar
 In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mm Hg lower than patients who received the placebo treatment.
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 14.2 Heart Failure
 

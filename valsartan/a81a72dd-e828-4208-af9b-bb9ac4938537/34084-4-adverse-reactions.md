@@ -24,9 +24,13 @@ An increase in the incidence of dizziness was observed in patients treated with 
 
 Pediatric Hypertension
 
-Valsartan has been evaluated for safety in over 400 patients aged 6 to 17 years.
+Valsartan has been evaluated for safety in 290 pediatric patients aged 1 to less than 6 years and over 400 patients aged 6 to 17 years.
 No relevant differences were identified between the adverse experience profile for pediatric patients and that previously reported for adult patients.
-Hyperkalemia was more frequently observed in pediatric patients with underlying chronic kidney disease (CKD).
+Hyperkalemia was more frequently observed in pediatric patients aged 1 to 17 years with underlying chronic kidney disease (CKD).
+
+Cases of elevated ALT and/or AST have been reported in pediatric patients 1 to less than 6 years of age.
+These events occurred in a study population which frequently had significant comorbidities; hence, a causal relationship to valsartan could not be established.
+
 Heart Failure
 
 In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
@@ -76,8 +80,6 @@ Neutropenia: Neutropenia was observed in 1.9% of patients treated with valsartan
 Blood Urea Nitrogen (BUN):
 
 In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients [see Warnings and Precautions (5.3)].
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
