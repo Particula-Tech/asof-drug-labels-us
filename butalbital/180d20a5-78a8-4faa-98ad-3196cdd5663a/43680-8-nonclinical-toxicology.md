@@ -1,6 +1,6 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -28,8 +28,8 @@ In the published literature, acetaminophen has been reported to be clastogenic w
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (3.6-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
 Caffeine (as caffeine base) increased the sister chromatid exchange (SCE) SCE/cell metaphase (exposure time dependent) in an in vivo mouse metaphase analysis.
-Caffeine also potentiated the genotoxicity of known mutagens and enhanced the micronuclei formation (5-fold) in folate-deficient mice.
-However, caffeine did not increase chromosomal aberrations in invitro Chinese hamster ovary cell (CHO) and human lymphocyte assays and was not mutagenic in an in vitro CHO/hypoxanthine guanine phosphoribosyltransferase (HGPRT) gene mutation assay, except at cytotoxic concentrations.
+Caffeine also potentiated the genotoxicity of known mutagens and enhanced the micronuclei formation (5-fold) in folate deficient mice.
+However, caffeine did not increase chromosomal aberrations in in vitro Chinese hamster ovary cell (CHO) and human lymphocyte assays and was not mutagenic in an in vitro CHO/hypoxanthine guanine phosphoribosyltransferase (HGPRT) gene mutation assay, except at cytotoxic concentrations.
 In addition, caffeine was not clastogenic in an in vivo mouse micronucleus assay.
 Caffeine was negative in the in vitro bacterial reverse mutation assay (Ames test).
 

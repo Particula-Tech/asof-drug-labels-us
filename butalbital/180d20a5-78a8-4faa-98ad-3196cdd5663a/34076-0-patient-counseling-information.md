@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -11,10 +11,10 @@ Advise patients and caregivers that when medicines are no longer needed, they sh
 Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
 If no take back programs or DEA-registered collectors are available, instruct patients to dispose of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules by following these four steps:
 
-- •Mix Butalbital, Acetaminophen, Caffeine and Codeine Phosphate Capsules (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
-- •Place the mixture in a container such as a sealed plastic bag;
-- •Throw the container in the household trash;
-- •Delete all personal information on the prescription label of the empty bottle.
+- Mix Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Place the mixture in a container such as a sealed plastic bag;
+- Throw the container in the household trash;
+- Delete all personal information on the prescription label of the empty bottle
 
 Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
@@ -40,15 +40,15 @@ Explain to patients and caregivers that naloxone’s effects are temporary, and 
 
 If naloxone is prescribed, also advise patients and caregivers:
 
-- •How to treat with naloxone in the event of an opioid overdose
-- •To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- •To read the Patient Information (or other educational material) that will come with their naloxone.
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death.
-Instruct patients to take steps to store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely and to properly dispose of unused Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in accordance with the local state guidelines and/or regulations [see Warnings and Precautions (5.3)].
+[see Warnings and Precautions (5.3)].
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants (Including Alcohol)
 
@@ -81,12 +81,12 @@ Important Administration Instructions
 
 Instruct patients how to properly take Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, including the following:
 
-- •To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.1, 2.3)].
-- •Do not take more than 4000 milligrams of acetaminophen per day and to call their healthcare provider if they took more than the recommended dose.
+- To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.1, 2.3)].
+- Do not take more than 4000 milligrams of acetaminophen per day and to call their healthcare provider if they took more than the recommended dose.
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Butalbital, Acetaminophen, Caffeine and Codeine Phosphate Capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Severe Hypotension
 
@@ -126,7 +126,12 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-Manufactured by: LGM Pharma Solutions, LLC, Irvine, CA 92614
+Manufactured by:
 
-Rev.
-03/2021
+LGM Pharma Solutions, LLC
+
+Irvine, CA 92614
+
+6670-PD
+
+Rev 03/2021

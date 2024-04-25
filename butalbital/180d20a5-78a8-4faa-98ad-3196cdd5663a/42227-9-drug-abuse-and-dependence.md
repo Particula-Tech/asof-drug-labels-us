@@ -1,11 +1,11 @@
-# 9 DRUG ABUSE AND DEPENDENCE
+# 9DRUG ABUSE AND DEPENDENCE
 
-## 9.1 Controlled Substance
+## 9.1Controlled Substance
 
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules contain codeine.
 Codeine in combination with butalbital, acetaminophen, and caffeine is a Schedule III controlled substance.
 
-## 9.2 Abuse
+## 9.2Abuse
 
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules contains codeine, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
@@ -51,11 +51,11 @@ Treatment of barbiturate dependence consists of cautious and gradual withdrawal 
 Barbiturate-dependent patients can be withdrawn by using a number of different withdrawal regimens.
 One method involves initiating treatment at the patient's regular dosage level and gradually decreasing the daily dosage as tolerated by the patient.
 
-## 9.3 Dependence
+## 9.3Dependence
 
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Tolerance may occur to both the desired and undesired effects of drugs and may develop at different rates for different effects.
+Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
 Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).

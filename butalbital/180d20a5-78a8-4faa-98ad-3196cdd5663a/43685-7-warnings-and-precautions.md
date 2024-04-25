@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Addiction, Abuse, and Misuse
+## 5.1Addiction, Abuse, and Misuse
 
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules contain codeine.
 Codeine in combination with butalbital, acetaminophen, and caffeine is a Schedule III controlled substance.
@@ -21,22 +21,22 @@ Consider these risks when prescribing or dispensing Butalbital, Acetaminophen, C
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+## 5.2Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- •Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
-- •Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
   The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
-- •Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
-- •Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
 The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 
-## 5.3 Life-Threatening Respiratory Depression
+## 5.3Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
@@ -70,7 +70,7 @@ Also consider prescribing naloxone if the patient has household members (includi
 If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
 [see Warnings and Precautions (5.1, 5.4), Patient Counseling Information (17)].
 
-## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## 5.4Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
@@ -89,20 +89,20 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.5 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
+## 5.5Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received codeine.
 Codeine is subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to an increased exposure to the active metabolite morphine.
 Based upon post-marketing reports, children younger than 12 years of age appear to be more susceptible to the respiratory depressant effects of codeine, particularly if there are risk factors for respiratory depression.
-For example, many reported cases of death occurred in the post-operative period following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine.
+For example, many reported cases of death occurred in the post operative period following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine.
 Furthermore, children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to its respiratory depressant effect.
 Because of the risk of life-threatening respiratory depression and death:
 
-- •Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
-- •Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
-- •Avoid the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
+- Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
+- Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+- Avoid the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as post-operative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-- •As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose [see Use in Specific Populations (8), Overdosage (10)].
+- As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose [see Use in Specific Populations (8), Overdosage (10)].
 
 Nursing Mothers
 
@@ -119,19 +119,19 @@ This rapid conversion results in higher than expected serum morphine levels.
 Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
 Therefore, individuals who are ultra-rapid metabolizers should not use Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 
-## 5.6 Neonatal Opioid Withdrawal Syndrome
+## 5.6Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1, 8.2), Patient Counseling Information (17)].
 
-## 5.7 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
+## 5.7Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with codeine are complex.
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules require careful consideration of the effects on codeine and the active metabolite, morphine.
 
-- •Cytochrome P450 3A4 Interaction
+- Cytochrome P450 3A4 Interaction
 
 The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in codeine plasma concentrations with subsequently greater metabolism by cytochrome P450 2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
 
@@ -146,7 +146,7 @@ Monitor patients for respiratory depression and sedation at frequent intervals.
 If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued, consider increasing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage until stable drug effects are achieved.
 Monitor for signs of opioid withdrawal [see Drug Interactions (7)].
 
-- •Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
+- Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
 
 The concomitant use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in codeine plasma concentrations and a decrease in active metabolite morphine plasma concentration which could result in an analgesic efficacy reduction or symptoms of opioid withdrawal.
 
@@ -157,7 +157,7 @@ Follow patients receiving Butalbital, Acetaminophen, Caffeine, and Codeine Phosp
 If concomitant use with a CYP2D6 inhibitor is necessary, follow the patient for signs of reduced efficacy or opioid withdrawal and consider increasing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage.
 After stopping use of a CYP2D6 inhibitor, consider reducing the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage and follow the patient for signs and symptoms of respiratory depression or sedation [see Drug Interactions (7)].
 
-## 5.8 Hepatotoxicity
+## 5.8Hepatotoxicity
 
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules contain acetaminophen.
 Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
@@ -169,7 +169,7 @@ The risk of acute liver failure is higher in individuals with underlying liver d
 Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one product that contains acetaminophen.
 Instruct patients to seek medical attention immediately upon ingestion of more than 4000 milligrams of acetaminophen per day, even if they feel well.
 
-## 5.9 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+## 5.9Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
@@ -180,12 +180,12 @@ Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depres
 Monitor such patients closely, particularly when initiating and titrating Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules and when Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
-## 5.10 Interaction with Monoamine Oxidase Inhibitors
+## 5.10Interaction with Monoamine Oxidase Inhibitors
 
 Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, codeine’s active metabolite, including respiratory depression, coma, and confusion.
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
 
-## 5.11 Adrenal Insufficiency
+## 5.11Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
@@ -195,7 +195,7 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.12 Severe Hypotension
+## 5.12Severe Hypotension
 
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
@@ -203,7 +203,7 @@ Monitor these patients for signs of hypotension after initiating or titrating th
 In patients with circulatory shock, Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in patients with circulatory shock.
 
-## 5.13 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+## 5.13Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
@@ -211,7 +211,7 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in patients with impaired consciousness or coma.
 
-## 5.14 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.14Risks of Use in Patients with Gastrointestinal Conditions
 
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -219,16 +219,16 @@ The codeine in Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsul
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
 
-## 5.15 Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.15Increased Risk of Seizures in Patients with Seizure Disorders
 
 The codeine in Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may increase the frequency of seizures in patients with seizure disorders and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 
 Monitor patients with a history of seizure disorders for worsened seizure control during Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules therapy.
 
-## 5.16 Withdrawal
+## 5.16Withdrawal
 
-Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine in a patient physically dependent on opioids.
-Rapid tapering of Butalbital, Acetaminophen, Caffeine, and Codeine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Capsules in a patient physically dependent on opioids.
+Rapid tapering of Butalbital, Acetaminophen, Caffeine, and Codeine Capsules in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
@@ -236,17 +236,17 @@ In these patients, mixed agonist/antagonist and partial agonist analgesics may r
 When discontinuing Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
 Abrupt discontinuation of butalbital can cause seizures [see Drug Abuse and Dependence (9.3)].
 
-## 5.17 Risks of Driving and Operating Machinery
+## 5.17Risks of Driving and Operating Machinery
 
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules and know how they will react to the medication.
 
-## 5.18 Serious Skin Reactions
+## 5.18Serious Skin Reactions
 
 Rarely, acetaminophen may cause serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
-Patients should be informed about the signs of serious skin reactions and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Patients should be informed about the signs of serious skin reactions, and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-## 5.19 Hypersensitivity/Anaphylaxis
+## 5.19Hypersensitivity/Anaphylaxis
 
 There have been post-marketing reports of hypersensitivity and anaphylaxis associated with the use of acetaminophen.
 Clinical signs included swelling of the face, mouth, and throat, respiratory distress, urticaria, rash, pruritus, and vomiting.
@@ -254,13 +254,8 @@ There were infrequent reports of life-threatening anaphylaxis requiring emergenc
 Instruct patients to discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules immediately and seek medical care if they experience these symptoms.
 Do not prescribe Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules for patients with acetaminophen allergy.
 
-## 5.20 Drug/Laboratory Test Interactions
+## 5.20Drug/Laboratory Test Interactions
 
 Codeine: Codeine may increase serum amylase levels.
 
-Acetaminophen: Acetaminophen may produce false positive test results for urinary 5‑hydroxyindoleacetic acid.
-
-## 5.21 FD&C Yellow No. 5 (Tartrazine)
-
-This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
-Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
+Acetaminophen: Acetaminophen may produce false positive test results for urinary 5 hydroxyindoleacetic acid.

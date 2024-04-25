@@ -1,6 +1,6 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 Butalbital, a barbiturate, is a GABAA receptor agonist and may inhibit excitatory AMPA receptors.
 
@@ -12,12 +12,12 @@ The exact mechanism with respect to the indication is not clear; however, the ef
 Codeine is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine.
 The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 Effects on the Central Nervous System
 
 Butalbital, a barbiturate, is a central nervous system (CNS) depressant that can produce sedation, respiratory depression, and euphoria.
-The potential impact of butalbital on painful stimuli is not clear and in some individuals; barbiturates may increase reaction to painful stimuli.
+The potential impact of butalbital on painful stimuli is not clear and in some individuals barbiturates may increase reaction to painful stimuli.
 
 Codeine produces respiratory depression by direct action on brain stem respiratory centers.
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and to electrical stimulation.
@@ -33,12 +33,11 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Codeine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
 Butalbital may decrease blood pressure and heart rate when administered at sedative and hypnotic doses.
-
 Codeine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating and/or orthostatic hypotension.
 
@@ -66,7 +65,7 @@ Concentration–Adverse Reaction Relationships
 There is a relationship between increasing codeine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 The behavior of the individual components is described below.
 
@@ -109,13 +108,13 @@ The principal cytochrome P450 isoenzyme involved appears to be CYP2E1, with CYP1
 Distribution
 
 Acetaminophen is distributed throughout most body tissues.
-A small fraction (10% - 25%) of acetaminophen is bound to plasma proteins.
+A small fraction (10-25%) of acetaminophen is bound to plasma proteins.
 
 Elimination
 
 Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites.
 Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
-The plasma half-life is 1.25 to 3 hours but may be increased by liver damage and following overdosage.
+The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.
 [See Overdosage (10) for toxicity information].
 
 Caffeine
@@ -136,14 +135,12 @@ Metabolism
 
 Caffeine is mainly metabolized by CYP1A2.
 Other enzymes, including CYP2E1, CYP3A4, CYP2C8 and CYP2C9 may play a minor role in its metabolism.
-Hepatic biotransformation prior to excretion results in about equal amounts of 1-methylxanthine and 1-methyluric acid.
+Hepatic biotransformation prior to excretion results in about equal amounts of 1methylxanthine and 1-methyluric acid.
 
 Excretion
 
 Of the 70% of the dose that is recovered in the urine, only 3% is unchanged drug.
-The plasma half-life is about 3 hours.
-
-[See Overdosage (10) for toxicity information].
+The plasma half-life is about 3 hours [See Overdosage (10) for toxicity information].
 
 Codeine
 
@@ -155,14 +152,14 @@ At therapeutic doses, the analgesic effect reaches a peak within 2 hours and per
 Distribution
 
 Codeine is rapidly distributed from the intravascular spaces to the various body tissues, with preferential uptake by parenchymatous organs such as the liver, spleen and kidney.
-Codeine crosses the blood-brain barrier and is found in fetal tissue and breast milk.
+Codeine crosses the blood-brain barrier, and is found in fetal tissue and breast milk.
 The plasma concentration does not correlate with brain concentration or relief of pain; however, codeine is not bound to plasma proteins and does not accumulate in body tissues.
 
 Elimination
 
 Metabolism
 
-About 70-80% of administered dose of codeine is metabolized by conjugation with glucuronic acid to codeine-6-glucuronide (C6G) and via O-demethylation to morphine (about 5% - 10%) and N-demethylation to norcodeine (about 10%), respectively.
+About 70-80% of administered dose of codeine is metabolized by conjugation with glucuronic acid to codeine-6glucuronide (C6G) and via O-demethylation to morphine (about 5-10%) and N-demethylation to norcodeine (about 10%) respectively.
 UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major enzymes mediating glucuronidation of codeine to C6G.
 Cytochrome P450 2D6 is the major enzyme responsible for conversion of codeine to morphine and P450 3A4 is the major enzyme mediating conversion of codeine to norcodeine.
 Morphine and norcodeine are further metabolized by conjugation with glucuronic acid.

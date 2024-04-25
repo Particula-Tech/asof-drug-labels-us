@@ -1,14 +1,14 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Dosage and Administration Instructions
+## 2.1Important Dosage and Administration Instructions
 
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Initiate the dosing regimen for each patient individually, taking into account the patient’s severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
 Evidence supporting the efficacy and safety of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in the treatment of multiple recurrent headaches is unavailable.
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
 
@@ -20,12 +20,12 @@ The presence of risk factors for overdose should not prevent the proper manageme
 
 Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 
-## 2.3 Dosing Information
+## 2.3Dosing Information
 
 One or two capsules every 4 hours as needed for pain.
 Total daily dosage should not exceed 6 capsules.
 
-## 2.4 Safe Reduction or Discontinuation of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules
+## 2.4Safe Reduction or Discontinuation of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules
 
 Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -34,7 +34,7 @@ Patients may also attempt to treat their pain or withdrawal symptoms with illici
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, there are a variety of factors that should be considered, including the dose of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
-When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate, and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
 Complex patients with co-morbid pain and substance use disorders may benefit from referral to a specialist.
 

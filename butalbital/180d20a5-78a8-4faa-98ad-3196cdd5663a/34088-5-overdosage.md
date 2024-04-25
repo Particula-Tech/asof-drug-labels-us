@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10OVERDOSAGE
 
 Clinical Presentation
 
@@ -15,17 +15,17 @@ Convulsions may occur.
 In acetaminophen overdosage: dose dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necrosis, hypoglycemic coma, and coagulation defects may also occur.
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis, and general malaise.
-Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post ingestion.
+Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post-ingestion.
 Acute caffeine poisoning may cause insomnia, restlessness, tremor, and delirium, tachycardia, and extrasystoles.
 
 Treatment of Overdose
 
-In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
+In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
 Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to codeine phosphate overdose, administer an opioid antagonist.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 Because the duration of opioid reversal is expected to be less than the duration of action of codeine in Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, carefully monitor the patient until spontaneous respiration is reliably re-established.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
@@ -40,7 +40,7 @@ Oxygen, intravenous fluids, vasopressors, and other supportive measures should b
 Assisted or controlled ventilation should also be considered.
 For respiratory depression due to overdosage or unusual sensitivity to codeine, parenteral naloxone is a specific and effective antagonist.
 
-Gastric decontamination with activated charcoal should be administered just prior to N-acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation.
+Gastric decontamination with activated charcoal should be administered just prior to N acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation.
 Serum acetaminophen levels should be obtained immediately if the patient presents 4 hours or more after ingestion to assess potential risk of hepatotoxicity; acetaminophen levels drawn less than 4 hours post-ingestion may be misleading.
 To obtain the best possible outcome, NAC should be administered as soon as possible where impending or evolving liver injury is suspected.
 Intravenous NAC may be administered when circumstances preclude oral administration.
