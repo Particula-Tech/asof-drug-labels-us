@@ -104,16 +104,16 @@ The pharmacokinetic and pharmacodynamic interaction between alprostadil intraven
 Alprostadil had a significant effect on the pharmacodynamics of heparin resulting in a 140% increase in partial thromboplastin time and a 120% increase in thrombin time.
 Therefore, caution should be exercised with concomitant administration of heparin and edex®.
 
-Table 1
-
-| Study No. | Participants | Route and Dose Administration | Drug/ Metabolites | CmaxBaseline-corrected data. (pg/mL) | Tmax (min) | AUCAUC0-150 for intravenous (IV) infusion and AUC0-120 for intracavernous (IC) injection. (pg∙min/mL) | Total ClearanceCalculated as IV dose/AUC0-150 (IV). (L/min) | t1/2Apparent terminal half-life. (min) |
+| Study No. | Participants | Route and Dose Administration | Drug/ Metabolites | Cmax1 (pg/mL) | Tmax (min) | AUC2 (pg∙min/mL) | Total Clearance3 (L/min) | t1/24 (min) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Table 1 |  |  |  |  |  |  |  |  |
 | PHAKI 848 | Erectile Dysfunction Patients | 20 mcg/0.5 hr IV | PGE1 | 7.09 ± 3.12 | 25.5 ± 4.8 | 174 ± 101 | 115 | --- |
 | 15-keto- PGE0 | 471 ± 88 | 30.0 ± 1.2 | 13705 ± 2559 | --- | 15.6 ± 5.6 |  |  |  |
-|  |  |  | PGE0 | 7.10 ± 2.19 | 32.2 ± 2.4 | 380 ± 115 | --- | 39.8 ± 26.3 |
-|  |  | 20 mcg/IC | PGE1 | 16.8 ± 18.9 | 4.8 ± 3.3 | 173 ± 115 | --- | --- |
-|  |  |  | 15-keto- PGE0 | 421 ± 337 | 9.7 ± 7.7 | 10500 ± 4101 | --- | 40.9 ± 16.5 |
-|  |  |  | PGE0 | 3.9 ± 2.3 | 20.3 ± 12.6 | 252 ± 134 | --- | 63.2 ± 31.1 |
+|  | PGE0 | 7.10 ± 2.19 | 32.2 ± 2.4 | 380 ± 115 | --- | 39.8 ± 26.3 |  |  |
+| 20 mcg/IC | PGE1 | 16.8 ± 18.9 | 4.8 ± 3.3 | 173 ± 115 | --- | --- |  |  |
+|  | 15-keto- PGE0 | 421 ± 337 | 9.7 ± 7.7 | 10500 ± 4101 | --- | 40.9 ± 16.5 |  |  |
+|  | PGE0 | 3.9 ± 2.3 | 20.3 ± 12.6 | 252 ± 134 | --- | 63.2 ± 31.1 |  |  |
+| 1 Baseline-corrected data.2 AUC0-150 for intravenous (IV) infusion and AUC0-120 for intracavernous (IC) injection.3 Calculated as IV dose/AUC0-150 (IV).4 Apparent terminal half-life |  |  |  |  |  |  |  |  |
 
 Clinical Studies
 

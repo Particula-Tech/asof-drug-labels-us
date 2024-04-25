@@ -12,7 +12,7 @@ Penile Pain
 With use of up to 24 months, penile pain was reported at least once by 29% of patients during injection, 35% of patients during erection, and by 30% of patients after erection.
 On a per injection basis, 15% of injections were associated with penile pain.
 Penile pain was judged by patients to be mild in intensity for 80% of painful injections, moderate in intensity for 16% of painful injections, and severe in intensity for 4% of painful injections.
-The frequency of penile pain reports decreased over time; 41% of the patients experienced pain during the first 2 months and 3% of the patients experienced pain during months 21-24.
+The frequency of penile pain reports decreased over time; 41% of the patients experienced pain during the first 2 months and 3% of the patients experienced pain during months 21 to 24.
 In placebo-controlled studies, penile pain was reported by 31% of patients after edex® and by 9% of patients after placebo injection.
 
 Prolonged Erection/Priapism
@@ -29,41 +29,46 @@ In patients treated with edex® for up to 24 months, local bleeding, hematoma, a
 In placebo-controlled studies, the frequency of local bleeding was 6% with injection of edex® and 3% with injection of placebo.
 In most cases, these reactions were attributed to faulty injection technique.
 
-Local Adverse Reactions Reported by ≥1% of Patients All Study PeriodsProtocol Numbers KU-620-001, KU-620-002, KU-620-003, F-8653.
-
-|  | N = 1065 n (%) |  | N = 1065 n (%) |
+|  | n (%) |  | n (%) |
 | --- | --- | --- | --- |
+| Local Adverse Reactions Reported by ≥1% of Patients |  |  |  |
+| All Study Periods1 |  |  |  |
 | Local Reaction | edex® | Local Reaction | edex® |
+|  | N = 1065 |  | N = 1065 |
 | Penile pain during injection | 305 (29) | Ecchymosis | 44 (4) |
 | Penile pain during erection | 368 (35) | Penile angulation | 72 (7) |
 | Penile pain after erection | 317 (30) | Penile fibrosis | 52 (5) |
-| Penile pain (other)Penile pain reported without an association to injection site or erection, such as pain in penis and scrotum, pain in glans penis, and burning penile pain. | 116 (11) | Cavernous body fibrosis | 20 (2) |
+| Penile pain (other)2 | 116 (11) | Cavernous body fibrosis | 20 (2) |
 | Prolonged erection |  | Peyronie's disease | 11 (1) |
-| > 4 ≤ 6 Hours | 44 (4) | Faulty injection techniqueExamples include injection into glans penis, urethra or subcutaneously. | 59 (6) |
+| > 4 ≤ 6 Hours | 44 (4) | Faulty injection technique3 | 59 (6) |
 | > 6 Hours | 6 (<1) | Penis disorder | 28 (3) |
 | Bleeding | 158 (15) | Erythema | 17 (2) |
 | Hematoma | 56 (5) |  |  |
+| 1Protocol Numbers KU-620-001, KU-620-002, KU-620-003, F-8653.2Penile pain reported without an association to injection site or erection, such as pain in penis and scrotum, pain in glans penis, and burning penile pain.3Examples include injection into glans penis, urethra or subcutaneously. |  |  |  |
 
 Systemic Adverse Experiences
 
 The following systemic adverse experiences were reported in controlled and uncontrolled studies in ≥1% of patients treated for up to 24 months with edex®.
 
-Systemic Adverse Experiences Reported by ≥1% of PatientsProtocol Numbers KU-620-001, KU-620-002, KU-620-003, F-8653.
+Systemic Adverse Experiences Reported by ≥1% of Patients1
 
-| BODY SYSTEM Adverse Experience | edex® N = 1065 n (%) | BODY SYSTEM Adverse Experience | edex® N = 1065 n (%) | BODY SYSTEM Adverse Experience | edex® N = 1065 n (%) |
+| n (%) | n (%) | n (%) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| BODY SYSTEM | edex® | BODY SYSTEM | edex® | BODY SYSTEM | edex® |
+| Adverse Experience | N = 1065 | Adverse Experience | N = 1065 | Adverse Experience | N = 1065 |
 | RESPIRATORY |  | CARDIOVASCULAR |  | UROGENITAL |  |
 | Upper respiratory tract |  | Hypertension | 17 (2) | Prostate disorder | 15 (1) |
 | infection | 58 (5) | Myocardial infarction | 13 (1) | Testicular pain | 13 (1) |
 | Sinusitis | 14 (1) | Abnormal ECG | 12 (1) | Inguinal hernia | 11 (1) |
 | BODY AS A WHOLE |  |  |  |  |  |
-| Influenza-like symptoms | 35 (3) | METABOLIC/NURITIONAL |  | DERMATOLOGIC |  |
+| Influenza-like symptoms | 35 (3) | METABOLIC/NUTRITIONAL |  | DERMATOLOGIC |  |
 | Headache | 20 (2) | Hypertriglyceridemia | 17 (2) | Skin disorder | 14 (1) |
 | Infection | 18 (2) | Hypercholesterolemia | 12 (1) | SPECIAL SENSES |  |
 | Pain | 16 (2) | Hyperglycemia | 12 (1) | Abnormal vision | 11 (1) |
 | MUSCULOSKELETAL |  |  |  |  |  |
 | Back pain | 23 (2) |  |  |  |  |
 | Leg pain | 13 (1) |  |  |  |  |
+| 1Protocol Numbers KU-620-001, KU-620-002, KU-620-003, F-8653. |  |  |  |  |  |
 
 Hemodynamic changes, manifested as increases or decreases in blood pressure and pulse rate, were observed during clinical studies but did not appear to be dose-dependent.
 Four patients (<1%) reported clinical symptoms of hypotension such as dizziness or syncope.

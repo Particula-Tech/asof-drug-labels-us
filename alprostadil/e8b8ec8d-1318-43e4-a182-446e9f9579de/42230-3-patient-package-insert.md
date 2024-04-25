@@ -86,7 +86,7 @@ One reusable carrying case
 
 Two single-dose, dual-chamber cartridges (one per injection)
 
-Two ½-inch, 29-gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
+Two &frac12;-inch, 29-gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
 
 Four alcohol swabs (two per injection)
 
@@ -101,7 +101,7 @@ One reusable carrying case
 
 Six single-dose, dual-chamber cartridges (one per injection)
 
-Six ½-inch, 29-gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
+Six &frac12;-inch, 29-gauge (0.33 mm x 12.7 mm) sterile needles (one per injection)
 
 Twelve alcohol swabs (two per injection)
 
@@ -235,6 +235,6 @@ Once the injection device is dry, place it in the carrying case.
 As with all prescription medicines, do not allow anyone else to use your medication.
 Proper injection technique and individual dose titration are essential for the safe use of this product.
 
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Manufactured for: Endo USA Malvern, PA 19355
 
-Revised: July 2018
+Revised: March 2024

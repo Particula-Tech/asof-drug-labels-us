@@ -7,7 +7,7 @@ The intracavernous injection should be given over a 5 to 10 second interval.
 In a study with a dose range of 1 to 20 mcg of edex®, the mean dose was 10.7 mcg at the end of the dose titration period.
 In two studies with a dose range of 1 to 40 mcg of edex®, the mean dose was 21.9 mcg at the end of the dose titration period.
 Doses greater than 40 mcg have not been studied.
-A ½ inch, 27 to 30 gauge needle is generally recommended for the intracavernous injection.
+A &frac12;-inch, 27- to 30-gauge needle is generally recommended for the intracavernous injection.
 The patient is advised not to exceed the optimum edex® dose which was determined in the doctor's office.
 The lowest possible effective dose should always be used.
 
@@ -19,7 +19,7 @@ Dosage titration should be initiated at 2.5 mcg of alprostadil.
 If there is a partial response, the dose may be increased by 2.5 mcg to a dose of 5 mcg and then in increments of 5 to 10 mcg, depending upon erectile response, until the dose that produces an erection suitable for intercourse and not exceeding a duration of 1 hour is reached.
 If there is no response to the initial 2.5-mcg dose, the second dose may be increased to 7.5 mcg, followed by increments of 5 to 10 mcg.
 The patient must stay in the physician's office until complete detumescence occurs.
-It there is no response, then the next higher dose may be given within 1 hour.
+If there is no response, then the next higher dose may be given within 1 hour.
 If there is a response, then there should be at least a 1-day interval before the next dose is given.
 
 Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury):
