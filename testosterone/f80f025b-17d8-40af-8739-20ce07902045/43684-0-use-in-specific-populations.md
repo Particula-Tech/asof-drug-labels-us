@@ -46,7 +46,7 @@ Improper use may result in acceleration of bone age and premature closure of epi
 ## 8.5 Geriatric Use
 
 There have not been sufficient numbers of geriatric patients in controlled clinical studies with AVEED to determine whether efficacy or safety in those over 65 years of age differs from younger subjects.
-Of the153 patients enrolled in the pivotal clinical study utilizing AVEED, 26 (17.0%) were over 65 years of age.
+Of the 153 patients enrolled in the pivotal clinical study utilizing AVEED, 26 (17.0%) were over 65 years of age.
 Additionally, there are insufficient long-term safety data in geriatric patients to assess the potentially increased risk of cardiovascular disease and prostate cancer.
 
 Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.3)].

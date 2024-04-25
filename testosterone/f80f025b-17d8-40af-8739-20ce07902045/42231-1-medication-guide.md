@@ -1,3 +1,5 @@
+MEDICATION GUIDE
+
 AVEED® (Uh-Veed) (testosterone undecanoate) injection
 
 Read this Medication Guide before you receive AVEED and before each injection.
@@ -172,10 +174,8 @@ Active ingredient: testosterone undecanoate Inactive ingredients: benzyl benzoat
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Manufactured for: Endo USA Malvern, PA 19355
 
-AVEED is a registered trademark of Endo Pharmaceuticals Inc. or one of its affiliates
+© 2024 Endo, Inc. or one of its affiliates.
 
-© 2020 Endo Pharmaceuticals Inc. All rights reserved.
-
-Revised: 06/2020
+Revised: 03/2024
