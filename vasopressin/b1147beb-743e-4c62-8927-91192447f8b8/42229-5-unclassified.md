@@ -1,5 +1,9 @@
-Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
+Manufactured for:
 
-R02/2023
+Endo USA
 
-Vasostrict® is a registered trademark of Par Pharmaceutical Companies, Inc.
+Malvern, PA 19355
+
+R04/2024
+
+© 2024 Endo, Inc. or one of its affiliates.

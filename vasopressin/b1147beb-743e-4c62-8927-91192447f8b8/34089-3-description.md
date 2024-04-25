@@ -17,7 +17,7 @@ Each mL of the 0.4 unit/mL strength also contains dextrose anhydrous, 0.0546 mg 
 Each mL of the 0.6 unit/mL strength also contains dextrose anhydrous, 0.0546 mg acetic acid, 0.012 mg sodium acetate and Water for Injection, USP.
 Sodium hydroxide and hydrochloric acid are included to adjust to a pH of 3.8.
 
-Each vial of the VASOSTRICT® premixed solutions contains 5% Dextrose in approximately 100 mL Water for Injection.
+Each vial of the Vasostrict® premixed solutions contains 5% Dextrose in approximately 100 mL Water for Injection.
 The chemical name of vasopressin is Cyclo (1-6) L-Cysteinyl-L-Tyrosyl-L-Phenylalanyl-L-Glutaminyl-L-Asparaginyl-L-Cysteinyl-L-Prolyl-L-Arginyl-L-Glycinamide.
 It is a white to off-white amorphous powder, freely soluble in water.
 The structural formula is:
