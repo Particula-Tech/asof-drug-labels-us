@@ -1,11 +1,9 @@
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
-Adrenalin is a registered trademark of Par Pharmaceutical, Inc.
+© 2024 Endo, Inc. or one of its affiliates.
 
-Registered Trademark No. 53,934
-
-R06/2022
+R03/2024

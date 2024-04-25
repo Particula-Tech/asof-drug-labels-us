@@ -6,4 +6,4 @@ Emergency treatment of allergic reactions (Type I), including anaphylaxis, which
 
 ## 1.2 Hypotension associated with Septic Shock
 
-Adrenalinis indicated to increase mean arterial blood pressure in adult patients with hypotension associated with septic shock.
+Adrenalin is indicated to increase mean arterial blood pressure in adult patients with hypotension associated with septic shock.

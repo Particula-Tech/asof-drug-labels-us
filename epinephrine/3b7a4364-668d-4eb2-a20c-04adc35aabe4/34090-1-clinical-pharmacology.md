@@ -31,7 +31,7 @@ Epinephrine causes mydriasis when administered parenterally.
 ## 12.3 Pharmacokinetics
 
 Following intravenous injection, epinephrine is rapidly cleared from the plasma with an effective half-life of < 5 minutes.
-A pharmacokinetic steady state following continuous intravenous infusion is achieved within 10‑15 minutes.
+A pharmacokinetic steady state following continuous intravenous infusion is achieved within 10 to 15 minutes.
 In patients with septic shock, epinephrine displays dose-proportional pharmacokinetics in the infusion dose range of 0.03 to 1.7 mcg/kg/min.
 
 Epinephrine is extensively metabolized with only a small amount excreted unchanged.
