@@ -30,9 +30,11 @@ Inactive ingredients: propylene glycol, lanolin, sorbitan sesquioleate, paraffin
 
 Manufactured by: PHARBIL Waltrop GmbH Im Wirrigen 25 45731 Waltrop Germany
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612 © 2017 Allergan.
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
+
+© 2017 Allergan.
 All rights reserved.
-RECTIV® is a registered trademark of Aptalis Pharma US, Inc. Allergan® and its design are trademarks of Allergan, Inc.
+RECTIV® is a registered trademark of Aptalis Pharma US, Inc. Allergan® and its design are trademarks of Allergan, Inc
 
 Revised: November 2016
 

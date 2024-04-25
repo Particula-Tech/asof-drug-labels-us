@@ -1,6 +1,8 @@
 Patient Information
 
-RECTIV® [REC-tiv] (Nitroglycerin) Ointment 0.4%
+RECTIV® [REC-tiv]
+
+(Nitroglycerin) Ointment 0.4%
 
 | IMPORTANT: For intra-anal use only |
 | --- |
@@ -49,7 +51,7 @@ RECTIV may also affect how other medicines work.
 Specifically, tell your doctor if you are taking any of the following:
 
 - other nitroglycerin containing products
-- a medicine for erectile dysfunction (male impotence), for example sildenafil, tadalafil or vardenafil (see the section above ‘Who should not use RECTIV')
+- a medicine for erectile dysfunction (male impotence), for example sildenafil, tadalafil or vardenafil (see the section above ‘Who should not use RECTIV’)
 - medicines used to treat high blood pressure
 - are taking aspirin, ergotamine (used to treat migraine) or are receiving tissue-type plasminogen activator (used to help dissolve blood clots formed in blood vessels in the heart, lungs and brain)
 - are to be given heparin.
@@ -99,7 +101,7 @@ How should I store RECTIV?
 
 Keep RECTIV out of the reach of children.
 
-Do not use RECTIV after the expiry date which is stated on the label and carton after ‘EXP.'
+Do not use RECTIV after the expiry date which is stated on the label and carton after ‘EXP.’
 The expiry date refers to the last day of that month.
 
 General information about RECTIV

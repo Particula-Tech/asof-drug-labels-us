@@ -12,7 +12,7 @@ Similarly, it is not known which if any of these substances can usefully be remo
 
 No specific antagonist to the vasodilator effects of nitroglycerin is known, and no intervention has been subject to controlled study as a therapy of nitroglycerin overdose.
 Because the hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume.
-Passive elevation of the patient's legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary.
+Passive elevation of the patient’s legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary.
 
 The use of epinephrine or other arterial vasoconstrictors in this setting is not recommended.
 

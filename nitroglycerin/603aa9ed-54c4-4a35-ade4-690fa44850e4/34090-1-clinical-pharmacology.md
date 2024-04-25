@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues.
+Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3’,5’-monophosphate (cyclic GMP) in smooth muscle and other tissues.
 This leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation.
 
 ## 12.2 Pharmacodynamics
