@@ -16,11 +16,11 @@ Each 25 mg tablet contains the following inactive ingredients: lactose, magnesiu
 
 The 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets contain the following inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
 
-Each tablet meets the requirements of the Test 3 Dissolution in the USP monograph for Quetiapine Tablets USP.
-
 Each 25 mg tablet contains 28.75 mg of quetiapine fumarate equivalent to 25 mg quetiapine.
 Each 50 mg tablet contains 57.5 mg of quetiapine fumarate equivalent to 50 mg quetiapine.
 Each 100 mg tablet contains 115.0 mg of quetiapine fumarate equivalent to 100 mg quetiapine.
 Each 200 mg tablet contains 230.0 mg of quetiapine fumarate equivalent to 200 mg quetiapine.
 Each 300 mg tablet contains 345.0 mg of quetiapine fumarate equivalent to 300 mg quetiapine.
 Each 400 mg tablet contains 460.0 mg of quetiapine fumarate equivalent to 400 mg quetiapine.
+
+Each tablet meets the requirements of the Test 3 Dissolution in the USP monograph for Quetiapine Tablets USP.

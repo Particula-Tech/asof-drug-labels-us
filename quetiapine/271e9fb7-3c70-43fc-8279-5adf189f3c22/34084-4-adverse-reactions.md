@@ -371,7 +371,7 @@ In the acute (3 week) bipolar mania trial in children and adolescents, increases
 Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
 In an acute (8-week) quetiapine extended-release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (>110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine extended-release and 1.2% of patients receiving placebo.
-Mean increases in heart rate were 3.4 bpm for quetiapine extended-release, compared to 0.3 bpm in the placebo group [see Warnings andPrecautions (5.7)].
+Mean increases in heart rate were 3.4 bpm for quetiapine extended-release, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
 ## 6.2 Postmarketing Experience
 

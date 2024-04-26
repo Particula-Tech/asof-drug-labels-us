@@ -82,6 +82,6 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000602/01
+C50000602/02-dm
 
-Revised February 2022
+Revised February 2023

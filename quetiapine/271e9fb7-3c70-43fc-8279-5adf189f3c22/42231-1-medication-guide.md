@@ -258,6 +258,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000616/01
+C50000602/02-dm
 
-Revised February 2022
+Revised February 2023

@@ -100,7 +100,7 @@ The pharmacokinetics of the active metabolite, norquetiapine, were similar betwe
 Of the approximately 3,700 patients in clinical studies with quetiapine, 7% (232) were 65 years of age or over.
 In general, there was no indication of any different tolerability of quetiapine in the elderly compared to younger adults.
 Nevertheless, the presence of factors that might decrease pharmacokinetic clearance, increase the pharmacodynamic response to quetiapine, or cause poorer tolerance or orthostasis, should lead to consideration of a lower starting dose, slower titration, and careful monitoring during the initial dosing period in the elderly.
-The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12.3) andDosage and Administration (2.3)].
+The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].
 
 ## 8.6 Renal Impairment
 

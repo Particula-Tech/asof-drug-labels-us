@@ -39,7 +39,7 @@ The dose should be increased daily in increments of 25 mg/day to 50 mg/day to an
 
 ## 2.5 Dose Modifications when used with CYP3A4 Inhibitors
 
-Quetiapine dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of quetiapine should be increased by 6 fold [see Clinical Pharmacology (12.3) and DrugInteractions (7.1)].
+Quetiapine dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of quetiapine should be increased by 6 fold [see Clinical Pharmacology (12.3) andDrugInteractions (7.1)].
 
 ## 2.6 Dose Modifications when used with CYP3A4 Inducers
 
