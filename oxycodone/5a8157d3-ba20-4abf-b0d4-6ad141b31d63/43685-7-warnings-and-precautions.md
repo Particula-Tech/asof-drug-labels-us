@@ -15,7 +15,7 @@ Patients at increased risk may be prescribed opioids such as ROXICODONE, but use
 Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
-Consider these risks when prescribing or dispensing ROXICODINE.
+Consider these risks when prescribing or dispensing ROXICODONE.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and on the proper disposal of unused drugs.
 Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 

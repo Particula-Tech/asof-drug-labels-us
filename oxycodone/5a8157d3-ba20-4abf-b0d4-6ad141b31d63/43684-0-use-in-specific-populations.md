@@ -31,15 +31,24 @@ In published studies, offspring of pregnant rats administered oxycodone during g
 
 ## 8.2 Lactation
 
-Risk Summary Oxycodone is present in breast milk.
-Published lactation studies report variable concentrations of oxycodone in breast milk with administration of immediate-release oxycodone to nursing mothers in the early postpartum period.
-The lactation studies did not assess breastfed infants for potential adverse reactions.
-Lactation studies have not been conducted with ROXICODONE, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+Risk Summary Available data from lactation studies indicate that oxycodone is present in breastmilk and that doses of less than 60 mg/day of the immediate-release formulation are unlikely to result in clinically relevant exposures in breastfed infants.
+A pharmacokinetics study utilizing opportunistic sampling of 76 lactating women receiving oxycodone immediate-release products for postpartum pain management showed that oxycodone concentrates in breastmilk with an average milk to plasma ratio of 3.2.
+The relative infant dose was low, approximately 1.3% of a weight-adjusted maternal dose (see Data).
+
+In the same study, among the 70 infants exposed to oxycodone in breastmilk, no adverse events were attributed to oxycodone.
+However, based on known adverse effects in adults, infants should be monitored for signs of excess sedation and respiratory depression (see Clinical Considerations).
+There are no data on the effects of the oxycodone on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ROXICODONE and any potential adverse effects on the breastfed infant from ROXICODONE or from the underlying maternal condition.
 
 Clinical Considerations Monitor infants exposed to ROXICODONE through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breastfeeding is stopped.
+
+Data Oxycodone concentration data from 76 lactating women receiving immediate-release oxycodone products for postpartum pain management, and 28 infants exposed to oxycodone in breastmilk showed that following a median (range) dose of oxycodone in mothers of 9.2 (5-10) mg/dose or 33.0 (5.4-59.3) mg/day, oxycodone concentrated in breastmilk with a median (range) milk to plasma ratio of 3.2 (1.2-5.3).
+However, when using maternal breastmilk data to estimate the daily and relative infant dose, the infant dose was 0.006 mg/kg/day, which is 1.3% of a weight-adjusted maternal dose of 10 mg every 6 hours.
+These estimates based on maternal breastmilk concentrations were corroborated by the observed infant concentrations, of which over 75% (19/25) were below the limit of quantification.
+Among the 6 infants with quantifiable concentration, the median (range) concentration was 0.2 ng/mL (0.1-0.7).
+These concentrations are 100 to 1000 times lower than concentrations observed in other studies after infants received oxycodone at 0.1 mg/kg/dose (~20-200 ng/mL).
 
 ## 8.3 Females and Males of Reproductive Potential
 

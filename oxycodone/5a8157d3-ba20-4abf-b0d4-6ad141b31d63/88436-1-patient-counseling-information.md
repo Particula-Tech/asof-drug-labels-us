@@ -42,7 +42,7 @@ Warn patients of the symptoms of serotonin syndrome and to seek medical attentio
 Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medication [see Drug Interactions (7)].
 
 MAOI Interaction Inform patients to avoid taking ROXICODONE while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking ROXICIDONE [see Drug Interactions (7)].
+Patients should not start MAOIs while taking ROXICODONE [see Drug Interactions (7)].
 
 Important Administration Instructions Instruct patients how to properly take ROXICODONE.
 Patients should be advised not to adjust the dose of ROXICODONE without consulting the prescribing healthcare provider [see Dosage and Administration (2)].
@@ -72,15 +72,15 @@ Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive poten
 
 Embryo-Fetal Toxicity Inform female patients of reproductive potential that ROXICODONE can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation Advise nursing mothers to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
-Instruct nursing mothers to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Lactation Advise breastfeeding women using ROXICODONE to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Instruct breastfeeding women to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility Inform patients that use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2023 Mallinckrodt.
+© 2024 Mallinckrodt.
 
 Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
@@ -88,7 +88,7 @@ To request medical information or to report suspected adverse reactions, contact
 
 960B00
 
-Rev 12/2023
+Rev 01/2024
 
 Mallinckrodt™ Pharmaceutical
 
