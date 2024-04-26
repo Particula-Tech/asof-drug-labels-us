@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA019777"
+  ],
+  "inn": "lisinopril",
+  "labeler": "TWi Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24979-238-07",
+    "24979-239-07",
+    "24979-240-07",
+    "24979-241-07",
+    "24979-242-07",
+    "24979-243-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril",
+      "name": "Zestril"
+    }
+  ],
+  "setid": "838c2d78-d2d8-4981-9ec9-e50ef9e1a5d8",
+  "source": "dailymed"
+}

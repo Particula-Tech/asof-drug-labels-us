@@ -1,0 +1,55 @@
+NDC 24979-238-07
+
+Rx only
+
+ONCE-DAILY ZESTRIL® (LISINOPRIL)
+
+2.5 mg tablets
+
+90 tablets
+
+NDC 24979-239-07
+
+Rx only
+
+ONCE-DAILY ZESTRIL® (LISINOPRIL)
+
+5 mg tablets
+
+90 tablets
+
+NDC 24979-240-07
+
+Rx only
+
+ONCE-DAILY ZESTRIL® (LISINOPRIL)
+
+10 mg tablets 90 tablets
+
+NDC 24979-241-07
+
+Rx only
+
+ONCE-DAILY ZESTRIL® (LISINOPRIL)
+
+20 mg tablets
+
+90 tablets
+
+NDC 24979-242-07
+
+Rx only
+
+ONCE-DAILY ZESTRIL® (LISINOPRIL)
+
+30 mg tablets 90 tablets
+
+NDC 24979-243-07
+
+Rx only
+
+ONCE-DAILY ZESTRIL® (LISINOPRIL)
+
+40 mg tablets
+
+90 tablets
