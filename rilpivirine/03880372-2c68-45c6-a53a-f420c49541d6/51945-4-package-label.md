@@ -16,12 +16,14 @@ Rx only
 
 NDC 59676-280-90 Rx only
 
-EDURANT ® (rilpivirine) tablets for oral suspension
+EDURANT ® PED
+
+(rilpivirine) tablets for oral suspension
 
 2.5 mg
 
 90 tablets 9 blister cards, 10 tablets each
 
-Read the Prescribing Information before use
+Attention: EDURANT PED is NOT a substitute for EDURANT
 
-DISPERSE IN LIQUID Do not chew Do not swallow whole
+DISPERSE IN DRINKING WATER Do not crush, chew, or swallow whole, se e Instructions for Use
