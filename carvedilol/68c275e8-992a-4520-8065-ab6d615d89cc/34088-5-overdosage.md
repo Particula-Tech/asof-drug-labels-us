@@ -15,7 +15,7 @@ For therapy-resistant bradycardia, pacemaker therapy should be performed.
 For bronchospasm, β-sympathomimetics (as aerosol or IV) or aminophylline IV should be given.
 In the event of seizures, slow IV injection of diazepam or clonazepam is recommended.
 
-NOTE: In the event of severe intoxication where there are symptoms of shock, treatment with antidotes must be continued for a sufficiently long period of time consistent with the 7 to 10 hour half-life of carvedilol.
+NOTE: In the event of severe intoxication where there are symptoms of shock, treatment with antidotes must be continued for a sufficiently long period of time consistent with the 7- to 10-hour half-life of carvedilol.
 
 Cases of overdosage with carvedilol alone or in combination with other drugs have been reported.
 Quantities ingested in some cases exceeded 1,000 milligrams.

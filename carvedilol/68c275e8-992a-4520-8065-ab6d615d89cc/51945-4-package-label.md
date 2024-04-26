@@ -1,12 +1,8 @@
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 3.125 mg 100s Label Text
-
 NDC 0093-0051-01
 
-Carvedilol
-
-Tablets USP
+Carvedilol Tablets USP
 
 3.125 mg
 
@@ -22,13 +18,9 @@ TEVA
 
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 6.25 mg 100s Label Text
-
 NDC 0093-0135-01
 
-Carvedilol
-
-Tablets USP
+Carvedilol Tablets USP
 
 6.25 mg
 
@@ -44,13 +36,9 @@ TEVA
 
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 12.5 mg 100s Label Text
-
 NDC 0093-7295-01
 
-Carvedilol
-
-Tablets USP
+Carvedilol Tablets USP
 
 12.5 mg
 
@@ -66,13 +54,9 @@ TEVA
 
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 25 mg 100s Label Text
-
 NDC 0093-7296-01
 
-Carvedilol
-
-Tablets USP
+Carvedilol Tablets USP
 
 25 mg
 

@@ -1,6 +1,4 @@
-PATIENT INFORMATION
-
-Carvedilol (kar-VE-dil-ol) Tablets USP
+# PATIENT INFORMATION Carvedilol (karˈ ve dil ̎ ol) Tablets
 
 Read the Patient Information that comes with carvedilol tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -15,8 +13,7 @@ Carvedilol tablets are used, often with other medicines, for the following condi
 - to treat patients with certain types of heart failure
 - to treat patients who had a heart attack that worsened how well the heart pumps
 - to treat patients with high blood pressure (hypertension)
-
-Carvedilol tablets are not approved for use in children under 18 years of age.
+- Carvedilol tablets are not approved for use in children under 18 years of age.
 
 Who should not take carvedilol tablets?
 
@@ -119,11 +116,11 @@ This leaflet summarizes the most important information about carvedilol tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about carvedilol tablets that is written for healthcare professionals.
 
-What are the ingredients in carvedilol tablets USP?
+What are the ingredients in carvedilol tablets?
 
-Active Ingredient: carvedilol, USP
+Active Ingredient: carvedilol
 
-Inactive Ingredients: colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, polysorbate, povidone, and titanium dioxide.
+Inactive Ingredients: colloidal silicon dioxide, crospovidone, hypromellose 2910, lactose monohydrate, magnesium stearate, polyethylene glycol 400, polysorbate 80, povidone, and titanium dioxide.
 
 Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
@@ -135,11 +132,10 @@ High blood pressure makes the heart work harder to pump blood through the body a
 Carvedilol tablets can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-Manufactured For:
+Manufactured In India By: Piramal Pharma Limited Plot No. 67-70, Sector 2, Pithampur 454 775, Dist.
+Dhar, Madhya Pradesh, India
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-K 9/2017
+L 3/2024

@@ -13,7 +13,7 @@ The vast majority were on digitalis, diuretics, and an ACE inhibitor at trial en
 Patients were assigned to the trials based upon exercise ability.
 An Australia-New Zealand double-blind, placebo-controlled trial enrolled 415 subjects (half randomized to carvedilol) with less severe heart failure.
 All protocols excluded subjects expected to undergo cardiac transplantation during the 7.5 to 15 months of double-blind follow-up.
-All randomized subjects had tolerated a 2 week course on carvedilol 6.25 mg twice daily.
+All randomized subjects had tolerated a 2-week course on carvedilol 6.25 mg twice daily.
 
 In each trial, there was a primary end point, either progression of heart failure (1 U.S. trial) or exercise tolerance (2 U.S. trials meeting enrollment goals and the Australia-New Zealand trial).
 There were many secondary end points specified in these trials, including NYHA classification, patient and physician global assessments, and cardiovascular hospitalization.
@@ -36,7 +36,7 @@ Exercise tolerance was the primary end point in 3 trials; in none was a statisti
 Subjective Measures: Health-related quality of life, as measured with a standard questionnaire (a primary end point in 1 trial), was unaffected by carvedilol.
 However, patients’ and investigators’ global assessments showed significant improvement in most trials.
 
-Mortality: Death was not a pre-specified end point in any trial, but was analyzed in all trials.
+Mortality: Death was not a pre-specified end point in any trial but was analyzed in all trials.
 Overall, in these 4 U.S. trials, mortality was reduced, nominally significantly so in 2 trials.
 
 The COMET Trial
@@ -64,7 +64,7 @@ Results of COMET
 | All-cause mortality | 34% | 40% | 0.83 | 0.74 to 0.93 |
 | Mortality + all hospitalization | 74% | 76% | 0.94 | 0.86 to 1.02 |
 | Cardiovascular death | 30% | 35% | 0.80 | 0.70 to 0.90 |
-| Sudden death Death due to circulatory failure Death due to stroke | 14%11% 0.9% | 17%13% 2.5% | 0.810.83 0.33 | 0.68 to 0.970.67 to 1.02 0.18 to 0.62 |
+| Sudden death Death due to circulatory failure Death due to stroke | 14%11%0.9% | 17%13%2.5% | 0.810.830.33 | 0.68 to 0.970.67 to 1.020.18 to 0.62 |
 
 It is not known whether this formulation of metoprolol at any dose or this low dose of metoprolol in any formulation has any effect on survival or hospitalization in patients with heart failure.
 Thus, this trial extends the time over which carvedilol manifests benefits on survival in heart failure, but it is not evidence that carvedilol improves outcome over the formulation of metoprolol (TOPROL-XL®) with benefits in heart failure.
@@ -83,7 +83,7 @@ The trial was stopped after a median follow-up of 10 months because of an observ
 The results of COPERNICUS are shown in Table 4.
 
 Table 4.
-Results of COPERNICUS Trial in Subjects With Severe Heart Failure
+Results of COPERNICUS Trial in Subjects with Severe Heart Failure
 
 | End Point | Placebo(n = 1,133) | Carvedilol(n = 1,156) | Hazard Ratio(95% CI) | %Reduction | NominalP value |
 | --- | --- | --- | --- | --- | --- |
@@ -92,6 +92,8 @@ Results of COPERNICUS Trial in Subjects With Severe Heart Failure
 | Mortality + CV hospitalization | 395 | 314 | 0.73(0.63 to 0.84) | 27 | 0.00002 |
 | Mortality + HF hospitalization | 357 | 271 | 0.69(0.59 to 0.81) | 31 | 0.000004 |
 | Cardiovascular = CV; Heart failure = HF. |  |  |  |  |  |
+
+Figure 1: Survival Analysis for COPERNICUS (Intent-to-Treat)
 
 The effect on mortality was principally the result of a reduction in the rate of sudden death among subjects without worsening heart failure.
 
@@ -103,7 +105,9 @@ Fewer subjects on carvedilol than on placebo were hospitalized for any reason (3
 
 Carvedilol had a consistent and beneficial effect on all-cause mortality as well as the combined end points of all-cause mortality plus hospitalization (total, CV, or for heart failure) in the overall trial population and in all subgroups examined, including men and women, elderly and non-elderly, blacks and non-blacks, and diabetics and non-diabetics (see Figure 2).
 
-## 14.2 Left Ventricular Dysfunction Following Myocardial Infarction
+Figure 2: Effects on Mortality for Subgroups in COPERNICUS
+
+## 14.2 Left Ventricular Dysfunction following Myocardial Infarction
 
 CAPRICORN was a double-blind trial comparing carvedilol and placebo in 1,959 subjects with a recent myocardial infarction (within 21 days) and left ventricular ejection fraction of less than or equal to 40%, with (47%) or without symptoms of heart failure.
 Subjects given carvedilol received 6.25 mg twice daily, titrated as tolerated to 25 mg twice daily.
@@ -121,11 +125,15 @@ Another trial end point, total mortality and all-cause hospitalization, did not 
 There was also a significant 40% reduction in fatal or non-fatal myocardial infarction observed in the group treated with carvedilol (95% CI: 11% to 60%, P = 0.01).
 A similar reduction in the risk of myocardial infarction was also observed in a meta-analysis of placebo-controlled trials of carvedilol in heart failure.
 
+Figure 3: Survival Analysis for CAPRICORN (Intent-to-Treat)
+
+Figure 4: Effects on Mortality for Subgroups in CAPRICORN
+
 ## 14.3 Hypertension
 
 Carvedilol was studied in 2 placebo-controlled trials that utilized twice-daily dosing at total daily doses of 12.5 to 50 mg.
 In these and other trials, the starting dose did not exceed 12.5 mg.
-At 50 mg per day, carvedilol reduced sitting trough (12 hour) blood pressure by about 9/5.5 mm Hg; at 25 mg per day the effect was about 7.5/3.5 mm Hg.
+At 50 mg per day, carvedilol reduced sitting trough (12-hour) blood pressure by about 9/5.5 mm Hg; at 25 mg per day the effect was about 7.5/3.5 mm Hg.
 Comparisons of trough-to-peak blood pressure showed a trough-to-peak ratio for blood pressure response of about 65%.
 Heart rate fell by about 7.5 beats per minute at 50 mg per day.
 In general, as is true for other β-blockers, responses were smaller in black than non-black subjects.
@@ -134,7 +142,7 @@ There were no age- or gender-related differences in response.
 The peak antihypertensive effect occurred 1 to 2 hours after a dose.
 The dose-related blood pressure response was accompanied by a dose-related increase in adverse effects [see Adverse Reactions (6)].
 
-## 14.4 Hypertension With Type 2 Diabetes Mellitus
+## 14.4 Hypertension with Type 2 Diabetes Mellitus
 
 In a double-blind trial (GEMINI), carvedilol, added to an ACE inhibitor or angiotensin-receptor blocker, was evaluated in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus.
 The mean HbA1c at baseline was 7.2%.

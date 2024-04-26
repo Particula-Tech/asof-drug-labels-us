@@ -22,7 +22,7 @@ The dose of carvedilol tablets should be reduced if patients experience bradycar
 
 Episodes of dizziness or fluid retention during initiation of carvedilol tablets can generally be managed without discontinuation of treatment and do not preclude subsequent successful titration of, or a favorable response to, carvedilol.
 
-## 2.2 Left Ventricular Dysfunction Following Myocardial Infarction
+## 2.2 Left Ventricular Dysfunction following Myocardial Infarction
 
 DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP-TITRATION.
 Treatment with carvedilol tablets may be started as an inpatient or outpatient and should be started after the patient is hemodynamically stable and fluid retention has been minimized.

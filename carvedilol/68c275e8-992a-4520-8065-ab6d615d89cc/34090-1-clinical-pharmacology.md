@@ -22,7 +22,7 @@ Among 839 subjects with NYHA class II to III heart failure treated for 26 to 52 
 The effects of carvedilol on ejection fraction were related to dose.
 Doses of 6.25 mg twice daily, 12.5 mg twice daily, and 25 mg twice daily were associated with placebo-corrected increases in EF of 5 EF units, 6 EF units, and 8 EF units, respectively; each of these effects were nominally statistically significant.
 
-Left Ventricular Dysfunction Following Myocardial Infarction
+Left Ventricular Dysfunction following Myocardial Infarction
 
 The basis for the beneficial effects of carvedilol in patients with left ventricular dysfunction following an acute myocardial infarction is not established.
 
@@ -72,7 +72,7 @@ The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-ca
 CYP2D6 is thought to be the major enzyme in the 4'- and 5'-hydroxylation of carvedilol, with a potential contribution from 3A4.
 CYP2C9 is thought to be of primary importance in the O-methylation pathway of S(-)-carvedilol.
 
-Carvedilol is subject to the effects of genetic polymorphism with poor metabolizers of debrisoquin (a marker for cytochrome P450 2D6) exhibiting 2 to 3 fold higher plasma concentrations of R(+)-carvedilol compared with extensive metabolizers.
+Carvedilol is subject to the effects of genetic polymorphism with poor metabolizers of debrisoquin (a marker for cytochrome P450 2D6) exhibiting 2- to 3-fold higher plasma concentrations of R(+)-carvedilol compared with extensive metabolizers.
 In contrast, plasma levels of S(-)-carvedilol are increased only about 20% to 25% in poor metabolizers, indicating this enantiomer is metabolized to a lesser extent by cytochrome P450 2D6 than R(+)-carvedilol.
 The pharmacokinetics of carvedilol do not appear to be different in poor metabolizers of S-mephenytoin (patients deficient in cytochrome P450 2C19).
 
@@ -95,7 +95,7 @@ Plasma levels of carvedilol average about 50% higher in the elderly compared wit
 
 Hepatic Impairment
 
-Compared with healthy subjects, patients with severe liver impairment (cirrhosis) exhibit a 4 to 7 fold increase in carvedilol levels.
+Compared with healthy subjects, patients with severe liver impairment (cirrhosis) exhibit a 4- to 7-fold increase in carvedilol levels.
 Carvedilol is contraindicated in patients with severe liver impairment.
 
 Renal Impairment

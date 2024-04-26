@@ -11,20 +11,16 @@ Patients taking carvedilol tablets should be advised of the following:
   Patients should sit or lie down when these symptoms of lowered blood pressure occur.
 - If experiencing dizziness or fatigue, patients should avoid driving or hazardous tasks.
 - Patients should consult a physician if they experience dizziness or faintness, in case the dosage should be adjusted.
-- Diabetic patients should report any changes in blood sugar levels to their physician.
+- Inform patients or caregivers that there is a risk of hypoglycemia when carvedilol tablet is given to patients who are fasting or who are vomiting.
+  Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.6)].
 - Contact lens wearers may experience decreased lacrimation.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are the trademarks of their respective owners.
 
-Manufactured For:
+Manufactured In India By: Piramal Pharma Limited Plot No. 67-70, Sector 2, Pithampur 454 775, Dist.
+Dhar, Madhya Pradesh, India
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-T 9/2017
-
-PHARMACIST - DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
-
----------------------------------------------------------------------------------------------------------------------
+U 3/2024
