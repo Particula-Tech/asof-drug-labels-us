@@ -51,6 +51,4 @@ Princeton, NJ 08540
 
 US License No. 2003
 
-Product of Austria
-
 All third party trademarks are the property of their respective owners.

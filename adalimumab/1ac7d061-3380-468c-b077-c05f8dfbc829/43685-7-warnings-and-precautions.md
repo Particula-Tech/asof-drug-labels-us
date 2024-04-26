@@ -50,35 +50,35 @@ To aid in the management of such patients, consider consultation with a physicia
 
 ## 5.2 Malignancies
 
-Consider the risks and benefits of TNF blocker-treatment including HYRIMOZ prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing a TNF blocker in patients who develop a malignancy.
+Consider the risks and benefits of TNF-blocker treatment including HYRIMOZ prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing a TNF-blocker in patients who develop a malignancy.
 
 Malignancies in Adults
 
-In the controlled portions of clinical trials of some TNF blockers, including adalimumab products, more cases of malignancies have been observed among TNF blocker-treated adult patients compared to control-treated adult patients.
-During the controlled portions of 39 global adalimumab clinical trials in adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), Crohn’s disease (CD), ulcerative colitis (UC), plaque psoriasis (Ps), and other indications, malignancies, other than non melanoma (basal cell and squamous cell) skin cancer, were observed at a rate (95% confidence interval) of 0.7 (0.48, 1.03) per 100 patient-years among 7973 adalimumab-treated patients versus a rate of 0.7 (0.41, 1.17) per 100 patient-years among 4848 control-treated patients (median duration of treatment of 4 months for adalimumab-treated patients and 4 months for control-treated patients).
-In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, and other indications, the most frequently observed malignancies, other than lymphoma and NMSC, were breast, colon, prostate, lung, and melanoma.
+In the controlled portions of clinical trials of some TNF-blockers, including adalimumab products, more cases of malignancies have been observed among TNF-blocker-treated adult patients compared to control-treated adult patients.
+During the controlled portions of 39 global adalimumab clinical trials in adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), Crohn’s disease (CD), ulcerative colitis (UC), plaque psoriasis (Ps), hidradenitis suppurativa (HS) and uveitis (UV), malignancies, other than non-melanoma (basal cell and squamous cell) skin cancer, were observed at a rate (95% confidence interval) of 0.7 (0.48, 1.03) per 100 patient-years among 7973 adalimumab-treated patients versus a rate of 0.7 (0.41, 1.17) per 100 patient-years among 4848 control-treated patients (median duration of treatment of 4 months for adalimumab-treated patients and 4 months for control-treated patients).
+In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, the most frequently observed malignancies, other than lymphoma and NMSC, were breast, colon, prostate, lung, and melanoma.
 The malignancies in adalimumab-treated patients in the controlled and uncontrolled portions of the studies were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1
 
 In controlled trials of other TNF blockers in adult patients at higher risk for malignancies (i.e., patients with COPD with a significant smoking history and cyclophosphamide-treated patients with Wegener’s granulomatosis), a greater portion of malignancies occurred in the TNF blocker group compared to the control group.
 
 Non-Melanoma Skin Cancer
 
-During the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, and other indications, the rate (95% confidence interval) of NMSC was 0.8 (0.52, 1.09) per 100 patient-years among adalimumab-treated patients and 0.2 (0.10, 0.59) per 100 patient-years among control-treated patients.
+During the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, the rate (95% confidence interval) of NMSC was 0.8 (0.52, 1.09) per 100 patient-years among adalimumab-treated patients and 0.2 (0.10, 0.59) per 100 patient-years among control-treated patients.
 Examine all patients, and in particular patients with a medical history of prior prolonged immunosuppressant therapy or psoriasis patients with a history of PUVA treatment for the presence of NMSC prior to and during treatment with HYRIMOZ.
 
 Lymphoma and Leukemia
 
-In the controlled portions of clinical trials of all the TNF blockers in adults, more cases of lymphoma have been observed among TNF blocker-treated patients compared to control-treated patients.
-In the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, and other indications, 2 lymphomas occurred among 7973 adalimumab-treated patients versus 1 among 4848 control-treated patients.
-In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, and other indications with a median duration of approximately 0.7 years, including 24,605 patients and over 40,215 patient-years of adalimumab, the observed rate of lymphomas was approximately 0.11 per 100 patient-years.
-This is approximately 3-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Rates of lymphoma in clinical trials of adalimumab cannot be compared to rates of lymphoma in clinical trials of other TNF blockers and may not predict the rates observed in a broader patient population.
+In the controlled portions of clinical trials of all the TNF-blockers in adults, more cases of lymphoma have been observed among TNF-blocker-treated patients compared to control-treated patients.
+In the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, 2 lymphomas occurred among 7973 adalimumab-treated patients versus 1 among 4848 control-treated patients.
+In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV with a median duration of approximately 0.7 years, including 24,605 patients and over 40,215 patient-years of adalimumab, the observed rate of lymphomas was approximately 0.11 per 100 patient-years.
+This is approximately 3-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Rates of lymphoma in clinical trials of adalimumab cannot be compared to rates of lymphoma in clinical trials of other TNF-blockers and may not predict the rates observed in a broader patient population.
 Patients with RA and other chronic inflammatory diseases, particularly those with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at a higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF blockers.
-Post-marketing cases of acute and chronic leukemia have been reported in association with TNF blocker use in RA and other indications.
-Even in the absence of TNF blocker therapy, patients with RA may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
+Post-marketing cases of acute and chronic leukemia have been reported in association with TNF-blocker use in RA and other indications.
+Even in the absence of TNF-blocker therapy, patients with RA may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
 Malignancies in Pediatric Patients and Young Adults
 
-Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF blockers (initiation of therapy ≤ 18 years of age), of which HYRIMOZ is a member.
+Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blockers (initiation of therapy ≤ 18 years of age), of which HYRIMOZ is a member.
 Approximately half the cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression and malignancies that are not usually observed in children and adolescents.
 The malignancies occurred after a median of 30 months of therapy (range 1 to 84 months).
@@ -115,6 +115,7 @@ Therefore, exercise caution when considering resumption of HYRIMOZ therapy in th
 
 Use of TNF blocking agents, including adalimumab products, has been associated with rare cases of new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disease, including multiple sclerosis (MS) and optic neuritis, and peripheral demyelinating disease, including Guillain-Barré syndrome.
 Exercise caution in considering the use of HYRIMOZ in patients with preexisting or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of HYRIMOZ should be considered if any of these disorders develop.
+There is a known association between intermediate uveitis and central demyelinating disorders.
 
 ## 5.6 Hematological Reactions
 
@@ -126,7 +127,7 @@ Consider discontinuation of HYRIMOZ therapy in patients with confirmed significa
 
 ## 5.7 Increased Risk of Infection When Used with Anakinra
 
-Concurrent use of anakinra (an interleukin-1 antagonist) and another TNF blocker, was associated with a greater proportion of serious infections and neutropenia and no added benefit compared with the TNF blocker alone in patients with RA.
+Concurrent use of anakinra (an interleukin-1 antagonist) and another TNF-blocker, was associated with a greater proportion of serious infections and neutropenia and no added benefit compared with the TNF-blocker alone in patients with RA.
 Therefore, the combination of HYRIMOZ and anakinra is not recommended [see Drug Interactions (7.2)].
 
 ## 5.8 Heart Failure
@@ -157,5 +158,5 @@ Risks and benefits should be considered prior to vaccinating (live or live-atten
 
 ## 5.11 Increased Risk of Infection When Used with Abatacept
 
-In controlled trials, the concurrent administration of TNF blockers and abatacept was associated with a greater proportion of serious infections than the use of a TNF blocker alone; the combination therapy, compared to the use of a TNF blocker alone, has not demonstrated improved clinical benefit in the treatment of RA.
-Therefore, the combination of abatacept with TNF blockers including HYRIMOZ is not recommended [see Drug Interactions (7.2)].
+In controlled trials, the concurrent administration of TNF-blockers and abatacept was associated with a greater proportion of serious infections than the use of a TNF-blocker alone; the combination therapy, compared to the use of a TNF-blocker alone, has not demonstrated improved clinical benefit in the treatment of RA.
+Therefore, the combination of abatacept with TNF-blockers including HYRIMOZ is not recommended [see Drug Interactions (7.2)].

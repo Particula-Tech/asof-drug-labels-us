@@ -126,7 +126,46 @@ Injection
 
 For Subcutaneous Use Only
 
-2Single-Dose Prefilled Sensoready® Pens
+2 Single-Dose Prefilled Sensoready® Pens
+
+# Principal Display Panel
+
+NDC 61314-473-92
+
+Rx Only
+
+Hyrimoz®
+
+(adalimumab-adaz)
+
+Injection
+
+40 mg/0.4 mL
+
+For Subcutaneous Use Only
+
+2 Single-Dose Prefilled Sensoready® Pens
+
+Each patient is required to receive the enclosed Medication Guide.
+
+Sterile solution.
+Contains no preservatives.
+
+Prefilled Syringe and injection device are not made with natural rubber latex.
+
+Carton contains:
+
+2 Single-Dose Prefilled Sensoready® Pen with 29 gauge ½ inch needle
+
+1 Prescribing Information,
+
+1 Medication Guide/Instructions for Use, and
+
+1 Quick Reference Guide.
+
+Physician’s Sample – Not for Sale
+
+ATTENTION: Dispense the enclosed Medication Guide to each patient.
 
 # Principal Display Panel
 
@@ -134,7 +173,9 @@ NDC 61314-454-36
 
 Rx Only
 
-CROHN’S DISEASE AND ULCERATIVE COLITIS STARTER PACK
+CROHN’S DISEASE, ULCERATIVE COLITIS OR
+
+HIDRADENITIS SUPPURATIVA STARTER PACK
 
 Hyrimoz®
 
@@ -144,7 +185,7 @@ Injection
 
 THREE 80 mg/0.8 mL
 
-3Single-Dose Prefilled Sensoready® Pens
+3 Single-Dose Prefilled Sensoready® Pens
 
 For Subcutaneous Use Only
 
@@ -177,7 +218,7 @@ NDC 61314-517-36
 
 Rx Only
 
-PLAQUE PSORIASIS STARTER PACK
+PLAQUE PSORIASIS OR UVEITIS STARTER PACK
 
 Hyrimoz®
 
@@ -191,7 +232,7 @@ TWO 40 mg/0.4 mL
 
 For Subcutaneous Use Only
 
-3Single-Dose Prefilled Sensoready® Pens
+3 Single-Dose Prefilled Sensoready® Pens
 
 Each patient is required to receive the enclosed Medication Guide.
 
@@ -261,7 +302,7 @@ Each dose pack contains:
 
 ATTENTION: Dispense the enclosed Medication Guide to each patient.
 
-# Principal DisplayPanel
+# Principal Display Panel
 
 NDC 61314-531-64
 

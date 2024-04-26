@@ -143,7 +143,7 @@ In studies RA-I through IV, adalimumab showed significantly greater improvement 
 Improvement was seen in both the Physical Component Summary (PCS) and the Mental Component Summary (MCS).
 
 In Study RA-III, the mean (95% CI) improvement in HAQ-DI from baseline at Week 52 was 0.60 (0.55, 0.65) for the adalimumab patients and 0.25 (0.17, 0.33) for placebo/MTX (p<0.001) patients.
-63% of adalimumab-treated patients achieved a 0.5 or greater improvement in HAQ-DI at Week 52 in the double-blind portion of the study.
+Sixty-three percent of adalimumab-treated patients achieved a 0.5 or greater improvement in HAQ-DI at Week 52 in the double-blind portion of the study.
 Eighty-two percent of these patients maintained that improvement through Week 104 and a similar proportion of patients maintained this response through Week 260 (5 years) of open-label treatment.
 Mean improvement in the SF-36 was maintained through the end of measurement at Week 156 (3 years).
 
@@ -303,7 +303,7 @@ The safety and efficacy of multiple doses of adalimumab were assessed in adult p
 Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted, and 79% of patients continued to receive at least one of these medications.
 
 Induction of clinical remission (defined as CDAI <150) was evaluated in two studies.
-In Study CD-I, 299 TNF blocker naïve patients were randomized to one of four treatment groups: the placebo group received placebo at Weeks 0 and 2, the 160/80 group received 160 mg adalimumab at Week 0 and 80 mg at Week 2, the 80/40 group received 80 mg at Week 0 and 40 mg at Week 2, and the 40/20 group received 40 mg at Week 0 and 20 mg at Week 2.
+In Study CD-I, 299 TNF-blocker naïve patients were randomized to one of four treatment groups: the placebo group received placebo at Weeks 0 and 2, the 160/80 group received 160 mg adalimumab at Week 0 and 80 mg at Week 2, the 80/40 group received 80 mg at Week 0 and 40 mg at Week 2, and the 40/20 group received 40 mg at Week 0 and 20 mg at Week 2.
 Clinical results were assessed at Week 4.
 
 In the second induction study, Study CD-II, 325 patients who had lost response to, or were intolerant to, previous infliximab therapy were randomized to receive either 160 mg adalimumab at Week 0 and 80 mg at Week 2, or placebo at Weeks 0 and 2.
@@ -401,8 +401,8 @@ Clinical Remission and Clinical Response in Study PCD-I
 ## 14.7 Adult Ulcerative Colitis
 
 The safety and efficacy of adalimumab were assessed in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12 on a 12-point scale, with an endoscopy subscore of 2 to 3 on a scale of 0 to 3) despite concurrent or prior treatment with immunosuppressants such as corticosteroids, azathioprine, or 6-MP in two randomized, double-blind, placebo-controlled clinical studies (Studies UC-I and UC-II).
-Both studies enrolled TNF blocker naïve patients, but Study UC-II also allowed entry of patients who lost response to or were intolerant to TNF blockers.
-Forty percent (40%) of patients enrolled in Study UC-II had previously used another TNF blocker.
+Both studies enrolled TNF-blocker naïve patients, but Study UC-II also allowed entry of patients who lost response to or were intolerant to TNF-blockers.
+Forty percent (40%) of patients enrolled in Study UC-II had previously used another TNF-blocker.
 
 Concomitant stable doses of aminosalicylates and immunosuppressants were permitted.
 In Studies UC-I and II, patients were receiving aminosalicylates (69%), corticosteroids (59%) and/or azathioprine or 6-MP (37%) at baseline.
@@ -411,7 +411,7 @@ In both studies, 92% of patients received at least one of these medications.
 Induction of clinical remission (defined as Mayo score ≤2 with no individual subscores >1) at Week 8 was evaluated in both studies.
 Clinical remission at Week 52 and sustained clinical remission (defined as clinical remission at both Weeks 8 and 52) were evaluated in Study UC-II.
 
-In Study UC-I, 390 TNF blocker naïve patients were randomized to one of three treatment groups for the primary efficacy analysis.
+In Study UC-I, 390 TNF-blocker naïve patients were randomized to one of three treatment groups for the primary efficacy analysis.
 The placebo group received placebo at Weeks 0, 2, 4 and 6.
 The 160/80 group received 160 mg adalimumab at Week 0 and 80 mg at Week 2, and the 80/40 group received 80 mg adalimumab at Week 0 and 40 mg at Week 2.
 After Week 2, patients in both adalimumab treatment groups received 40 mg every other week.
@@ -422,8 +422,8 @@ Corticosteroid taper was permitted starting at Week 8.
 In both Studies UC-I and UC-II, a greater percentage of the patients treated with 160/80 mg of adalimumab compared to patients treated with placebo achieved induction of clinical remission.
 In Study UC-II, a greater percentage of the patients treated with 160/80 mg of adalimumab compared to patients treated with placebo achieved sustained clinical remission (clinical remission at both Weeks 8 and 52) (Table 15).
 
-- Table 15.
-  Induction of Clinical Remission in Studies UC-I and UC-II and Sustained Clinical Remission in Study UC-II(Percent of Patients)
+1. Table 15.
+   Induction of Clinical Remission in Studies UC-I and UC-II and Sustained Clinical Remission in Study UC-II(Percent of Patients)
 
 |  | Study UC-I |  |  | Study UC-II |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -437,8 +437,8 @@ In Study UC-I, there was no statistically significant difference in clinical rem
 In Study UC-II, 17.3% (43/248) in the adalimumab group were in clinical remission at Week 52 compared to 8.5% (21/246) in the placebo group (treatment difference: 8.8%; 95% confidence interval (CI): [2.8%, 14.5%]; p<0.05).
 
 In the subgroup of patients in Study UC-II with prior TNF blocker use, the treatment difference for induction of clinical remission appeared to be lower than that seen in the whole study population, and the treatment differences for sustained clinical remission and clinical remission at Week 52 appeared to be similar to those seen in the whole study population.
-The subgroup of patients with prior TNF blocker use achieved induction of clinical remission at 9% (9/98) in the adalimumab group versus 7% (7/101) in the placebo group and sustained clinical remission at 5% (5/98) in the adalimumab group versus 1% (1/101) in the placebo group.
-In the subgroup of patients with prior TNF blocker use, 10% (10/98) were in clinical remission at Week 52 in the adalimumab group versus 3% (3/101) in the placebo group.
+The subgroup of patients with prior TNF-blocker use achieved induction of clinical remission at 9% (9/98) in the adalimumab group versus 7% (7/101) in the placebo group and sustained clinical remission at 5% (5/98) in the adalimumab group versus 1% (1/101) in the placebo group.
+In the subgroup of patients with prior TNF-blocker use, 10% (10/98) were in clinical remission at Week 52 in the adalimumab group versus 3% (3/101) in the placebo group.
 
 ## 14.9 Plaque Psoriasis
 
@@ -505,3 +505,67 @@ Efficacy Results at 26 Weeks
 | * Subjects received 80 mg of adalimumab at Week 0, followed by 40 mg every other week starting at Week 1. |  |  |
 
 Nail pain was also evaluated and improvement in nail pain was observed in Study Ps-III.
+
+## 14.10 Hidradenitis Suppurativa
+
+Two randomized, double-blind, placebo-controlled studies (Studies HS-I and II) evaluated the safety and efficacy of adalimumab in a total of 633 adult subjects with moderate to severe hidradenitis suppurativa (HS) with Hurley Stage II or III disease and with at least 3 abscesses or inflammatory nodules.
+In both studies, subjects received placebo or adalimumab at an initial dose of 160 mg at Week 0, 80 mg at Week 2, and 40 mg every week starting at Week 4 and continued through Week 11.
+Subjects used topical antiseptic wash daily.
+Concomitant oral antibiotic use was allowed in Study HS-II.
+
+Both studies evaluated Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12.
+HiSCR was defined as at least a 50% reduction in total abscess and inflammatory nodule count with no increase in abscess count and no increase in draining fistula count relative to baseline (see Table 17).
+Reduction in HS-related skin pain was assessed using a Numeric Rating Scale in patients who entered the study with an initial baseline score of 3 or greater on a 11 point scale.
+
+In both studies, a higher proportion of adalimumab-than placebo-treated subjects achieved HiSCR (see Table 19).
+
+Table 19.
+Efficacy Results at 12 Weeks in Subjects with Moderate to Severe Hidradenitis Suppurativa
+
+|  | HS Study I |  | HS Study II* |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo | Adalimumab 40 mg Weekly | Placebo | Adalimumab 40 mg Weekly |
+| Hidradenitis Suppurativa Clinical Response (HiSCR) | N = 15440 (26 %) | N = 15364 (42 %) | N = 16345 (28 %) | N = 16396 (59 %) |
+| * 19.3 % of subjects in Study HS-II continued baseline oral antibiotic therapy during the study. |  |  |  |  |
+
+In both studies, from Week 12 to Week 35 (Period B), subjects who had received adalimumab were re-randomized to 1 of 3 treatment groups (adalimumab 40 mg every week, adalimumab 40 mg every other week, or placebo).
+Subjects who had been randomized to placebo were assigned to receive adalimumab 40 mg every week (Study HS-I) or placebo (Study HS-II).
+
+During Period B, flare of HS, defined as ≥25% increase from baseline in abscesses and inflammatory nodule counts and with a minimum of 2 additional lesions, was documented in 22 (22%) of the 100 subjects who were withdrawn from adalimumab treatment following the primary efficacy timepoint in two studies.
+
+## 14.11 Adult Uveitis
+
+The safety and efficacy of adalimumab were assessed in adult patients with non-infectious intermediate, posterior and panuveitis excluding patients with isolated anterior uveitis, in two randomized, double-masked, placebo-controlled studies (UV I and II).
+Patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose.
+The primary efficacy endpoint in both studies was ´time to treatment failure´.
+
+Treatment failure was a multi-component outcome defined as the development of new inflammatory chorioretinal and/or inflammatory retinal vascular lesions, an increase in anterior chamber (AC) cell grade or vitreous haze (VH) grade or a decrease in best corrected visual acuity (BCVA).
+
+Study UV I evaluated 217 patients with active uveitis while being treated with corticosteroids (oral prednisone at a dose of 10 to 60 mg/day).
+All patients received a standardized dose of prednisone 60 mg/day at study entry followed by a mandatory taper schedule, with complete corticosteroid discontinuation by Week 15.
+
+Study UV II evaluated 226 patients with inactive uveitis while being treated with corticosteroids (oral prednisone 10 to 35 mg/day) at baseline to control their disease.
+Patients subsequently underwent a mandatory taper schedule, with complete corticosteroid discontinuation by Week 19.
+
+Clinical Response
+
+Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with adalimumab versus patients receiving placebo.
+In both studies, all components of the primary endpoint contributed cumulatively to the overall difference between adalimumab and placebo groups (Table 20).
+
+Table 20.
+Time to Treatment Failure in Studies UV I and UV II
+
+|  | UV I |  |  | UV II |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo(N = 107) | Adalimumab(N = 110) | HR[95% CI]a | Placebo(N = 111) | Adalimumab(N = 115) | HR[95% CI]a |
+| Failureb n (%) | 84 (78.5) | 60 (54.5) | 0.50[0.36, 0.70] | 61 (55.0) | 45 (39.1) | 0.57[0.39, 0.84] |
+| Median Timeto Failure (Months) [95% CI] | 3.0[2.7, 3.7] | 5.6[3.9, 9.2] | N/A | 8.3[4.8, 12.0] | NEc | N/A |
+| a HR of adalimumab versus placebo from proportional hazards regression with treatment as factor. b Treatment failure at or after Week 6 in Study UV I, or at or after Week 2 in Study UV II, was counted as event. Subjects who discontinued the study were censored at the time of dropping out. c NE = not estimable. Fewer than half of at-risk subjects had an event. |  |  |  |  |  |  |
+
+1. Figure 3: Kaplan-Meier Curves Summarizing Time to Treatment Failure on or after Week 6 (Study UV I) or Week 2 (Study UV II)
+
+Study UV I
+
+Study UV II
+
+Note: P# = Placebo (Number of Events/Number at Risk); A# = Adalimumab (Number of Events/Number at Risk).
