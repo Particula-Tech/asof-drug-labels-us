@@ -13,7 +13,3 @@ NDC 0143-9086-01 Rx only DOXOrubicin HCl Injection, USP 50 mg per 25 mL (2 mg/mL
 # Package/Label Display Panel
 
 NDC 0143-9087-01 Rx only DOXOrubicin HCl Injection, USP 200 mg per 100 mL (2 mg/mL) For Intravenous use ONLY Preservative Free STERILE ISOTONIC SOLUTION 100 mL Multiple Dose Vial
-
-# SERIALIZATION IMAGE 100 ML CARTON
-
-# SERIALIZATION IMAGE 5 ML, 10 ML, AND 25 ML CARTON
