@@ -12,14 +12,14 @@ The estimated background risk for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
 Pregnant women with vitamin K deficiency hypoprothrombinemia may be at increased risk for bleeding diatheses during pregnancy and hemorrhagic events at delivery.
 Subclinical vitamin K deficiency during pregnancy has been implicated in rare cases of fetal intracranial hemorrhage.
 
-Data
+### Data
 
 Human Data
 
