@@ -21,15 +21,10 @@ Concomitant Topical Ocular Therapy
 
 Advise patients that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
 
-Distributed by: Allergan USA, Inc.
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-Madison, NJ 07940
-
-© 2021 Allergan.
+© 2024 AbbVie.
 All rights reserved.
+PACIFIC PHARMA and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-All trademarks are the property of their respective owners.
-
-Patented: See www.allergan.com/patents
-
-v2.0USPI0773
+V3.0USPI0773
