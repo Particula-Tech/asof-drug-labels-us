@@ -38,7 +38,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
@@ -49,13 +49,13 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
+The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -128,11 +128,11 @@ Drug Interaction Studies
 CYP3A4 Inhibitors
 
 CYP3A4 is the major enzyme involved in noroxycodone formation.
-A published study showed that the coadministration of voriconazole, a CYP3A4 inhibitor, increased oxycodone AUC and Cmax by 3.6 and 1.7 fold, respectively [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+A published study showed that the coadministration of voriconazole, a CYP3A4 inhibitor, increased oxycodone AUC and Cmax by 3.6 and 1.7 fold, respectively [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 
 CYP3A4 Inducers
 
-A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 
 CYP2D6 Inhibitors
 

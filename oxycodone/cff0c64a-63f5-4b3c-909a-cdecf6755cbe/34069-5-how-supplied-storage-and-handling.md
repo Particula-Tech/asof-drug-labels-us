@@ -14,4 +14,4 @@ Store at 25°C (77°F); with excursions permitted to 15°-30°C (59°-86°F) [Se
 
 Protect from moisture.
 
-Store OXAYDO securely and dispose of properly [see Patient Counseling Information (17)].
+Store OXAYDO securely and dispose of properly.
