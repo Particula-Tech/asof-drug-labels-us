@@ -22,21 +22,26 @@ VIJOICE is not approved for use in the oncology setting.
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of alpelisib has been studied in healthy subjects and adult patients with solid tumors and are presented as mean (% CV) under fed conditions unless otherwise specified.
-Steady-state alpelisib maximum plasma concentration (Cmax) and area under the curve (AUC) increased proportionally over the dose range of 30 mg (0.6 times the lowest approved recommended dosage) to 450 mg (1.8 times the highest approved recommended dosage) under fed conditions.
-The mean accumulation of alpelisib is 1.3 to 1.5 and steady-state plasma concentrations are reached within 3 days following daily dosage.
+Alpelisib maximum plasma concentration (Cmax) was 277 ng/mL (24%) and area under the curve (AUC) was 2,090 hr*ng/mL (24%) following administration of a single 50 mg dose of VIJOICE.
+Steady state alpelisib Cmax and AUC increased proportionally over the dose range of 30 mg (0.6 times the lowest approved recommended dosage) to 450 mg (1.8 times the highest approved recommended dosage) under fed conditions.
+The mean accumulation of alpelisib was 1.3 to 1.5 and steady state plasma concentrations were reached within 3 days following daily dosage.
 
 Absorption
 
 The median time to reach peak plasma concentration (Tmax) ranged between 2.0 to 4.0 hours.
 
-Effect of food
+Effect of Food
 
-A high-fat high-calorie meal (985 calories with 58.1 g of fat) increased alpelisib AUC by 73% and Cmax by 84%, and a low-fat low-calorie meal (334 calories with 8.7 g of fat) increased alpelisib AUC by 77% and Cmax by 145% following a single alpelisib dose of 300 mg.
-No clinically relevant differences in alpelisib AUC were observed between low-fat low-calorie and high-fat high-calorie meals.
+A high-fat high-calorie (HFHC) meal (985 calories with 58.1 g of fat) increased alpelisib AUC by 73% and Cmax by 84%, and a low-fat low-calorie (LFLC) meal (334 calories with 8.7 g of fat) increased alpelisib AUC by 77% and Cmax by 145% following administration of a single 300 mg dose of alpelisib as tablets.
+No clinically relevant differences in alpelisib AUC were observed between LFLC and HFHC meals.
+
+No clinically relevant food effect on alpelisib pharmacokinetics was observed after a single 50 mg oral dose of VIJOICE as granules taken with a LFLC meal as compared to that taken under fasted conditions.
+
+No clinically relevant differences in alpelisib Cmax and AUC were observed following administration of a single 50 mg dose of VIJOICE as granules or tablets taken with a LFLC meal.
 
 Distribution
 
-The apparent volume of distribution of alpelisib at steady-state is 114 L (46%).
+The apparent volume of distribution of alpelisib at steady state is 114 L (46%).
 Protein binding of alpelisib is 89% and is independent of concentration.
 
 Elimination
@@ -46,7 +51,7 @@ The clearance of alpelisib is 9.2 L/hr (21%) under fed conditions.
 
 Metabolism
 
-Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis and to a lesser extent by CYP3A4, in vitro.
+Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and followed by CYP3A4 mediated hydroxylation.
 
 Excretion
 
@@ -71,6 +76,15 @@ Concomitant use of ranitidine decreased alpelisib AUC approximately 30% and Cmax
 In the presence of a low-fat low-calorie meal, AUC was decreased by 21% and Cmax by 36% with ranitidine.
 
 CYP3A4 Substrates: No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when used concurrently with alpelisib.
+
+Effect of CYP3A4 Inducers on Alpelisib: Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single 300 mg dose of alpelisib decreased alpelisib Cmax by 38% and AUC by 57%, respectively.
+Coadministration of rifampin with repeat doses of 300 mg alpelisib decreased alpelisib Cmax by 59% and AUC by 74%, respectively.
+
+Model-Informed Approaches
+
+Coadministration of repeat doses of ketoconazole (a strong CYP3A4 inhibitor) with a single 300 mg dose of alpelisib is expected to increase alpelisib AUC by 37% or less.
+
+Coadministration of repeat doses of efavirenz (a moderate CYP3A4 inducer) with a single 300 mg dose of alpelisib is expected to decrease alpelisib AUC by 30% or less.
 
 In Vitro Studies
 

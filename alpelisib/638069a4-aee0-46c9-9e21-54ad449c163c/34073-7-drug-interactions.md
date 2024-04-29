@@ -4,7 +4,7 @@
 
 CYP3A4 Inducers
 
-Avoid coadministration of VIJOICE with strong CYP3A4 inducers.
+Avoid coadministration of VIJOICE with strong CYP3A4 inducers and consider an alternative concomitant drug with no or minimal potential to induce CYP3A4.
 
 Alpelisib is metabolized by CYP3A4.
 Concomitant use of VIJOICE with a strong CYP3A4 inducer may decrease alpelisib concentration [see Clinical Pharmacology (12.3)], which may decrease alpelisib activity.

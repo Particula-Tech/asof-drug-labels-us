@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA215039"
+    "NDA215039",
+    "NDA218466"
   ],
   "inn": "alpelisib",
   "labeler": "Novartis Pharmaceuticals Corporation",
@@ -16,9 +17,16 @@
     "0078-1035-02",
     "0078-1035-61",
     "0078-1035-92",
-    "0078-1035-94"
+    "0078-1035-94",
+    "0078-1175-19",
+    "0078-1175-51"
   ],
   "products": [
+    {
+      "form": "GRANULE",
+      "generic": "alpelisib",
+      "name": "VIJOICE"
+    },
     {
       "form": "KIT",
       "generic": "alpelisib",

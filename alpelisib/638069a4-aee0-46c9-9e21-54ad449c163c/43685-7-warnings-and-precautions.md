@@ -17,7 +17,7 @@ Consultation with a dermatologist is recommended.
 
 If a SCAR is confirmed, permanently discontinue VIJOICE.
 
-If a SCAR is not confirmed, VIJOICE may require dose modifications, topical corticosteroids, or oral antihistamine treatment, as described in Table 4 [see Dosage and Administration (2.3)].
+If a SCAR is not confirmed, VIJOICE may require dose modifications, topical corticosteroids, or oral antihistamine treatment, as described in Table 4 [see Dosage and Administration (2.5)].
 
 ## 5.3 Hyperglycemia
 
@@ -39,7 +39,7 @@ The safety of VIJOICE in patients with Type 1 and uncontrolled Type 2 diabetes h
 Patients with a history of diabetes mellitus may require intensified hyperglycemic treatment.
 Closely monitor patients with diabetes.
 
-Interrupt, reduce the dose, or permanently discontinue VIJOICE based on the severity as described in Table 5 [see Dosage and Administration (2.3)].
+Interrupt, reduce the dose, or permanently discontinue VIJOICE based on the severity as described in Table 5 [see Dosage and Administration (2.5)].
 
 ## 5.4 Pneumonitis
 
@@ -49,7 +49,7 @@ VIJOICE is not approved for use in the oncology setting.
 In patients who have new or worsening respiratory symptoms or are suspected to have developed pneumonitis, interrupt VIJOICE immediately and evaluate the patient for pneumonitis.
 Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms, such as hypoxia, cough, dyspnea, or interstitial infiltrates on radiologic exams and in whom infectious, neoplastic, and other causes have been excluded by means of appropriate investigations.
 
-Permanently discontinue VIJOICE in all patients with confirmed pneumonitis [see Dosage and Administration (2.3)].
+Permanently discontinue VIJOICE in all patients with confirmed pneumonitis [see Dosage and Administration (2.5)].
 
 ## 5.5 Diarrhea or Colitis
 
@@ -59,9 +59,9 @@ VIJOICE is not approved for use in the oncology setting.
 In the EPIK-P1 study, 16% of patients experienced Grade 1 diarrhea during treatment with VIJOICE [see Adverse Reactions (6.1)].
 
 Monitor patients for diarrhea and additional symptoms of colitis, such as abdominal pain and mucus or blood in stool.
-Interrupt, reduce the dose or permanently discontinue VIJOICE based on the severity of diarrhea or colitis [see Dosage and Administration (2.3)].
+Interrupt, reduce the dose or permanently discontinue VIJOICE based on the severity of diarrhea or colitis [see Dosage and Administration (2.5)].
 
-For patients with colitis, additional treatment, such as enteric-acting and/or systemic steroids, may be required [see Dosage and Administration (2.3)].
+Patients with colitis may require additional treatment, such as enteric-acting and/or systemic steroids [see Dosage and Administration (2.5)].
 
 ## 5.6 Embryo-Fetal Toxicity
 

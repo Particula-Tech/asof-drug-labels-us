@@ -70,3 +70,19 @@ Contains: Two 14-day blister packs each containing 28 tablets:
 50 mg 14 tablets per pack
 
 NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+Rx only
+
+NDC 0078-1175-51
+
+Vijoice® (alpelisib) oral granules
+
+50 mg daily dose
+
+Take one 50 mg packet once daily
+
+28 Packets
+
+NOVARTIS

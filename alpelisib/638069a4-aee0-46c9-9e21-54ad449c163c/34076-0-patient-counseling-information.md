@@ -14,7 +14,7 @@ Advise patients and their caregivers to contact their healthcare provider immedi
 
 Hyperglycemia
 
-Advise patients and their caregivers that VIJOICE may cause hyperglycemia and requires monitoring of fasting glucose periodically during therapy.
+Advise patients and their caregivers that VIJOICE may cause hyperglycemia and the need to monitor fasting glucose periodically during therapy.
 Advise patients and their caregivers of the signs and symptoms of hyperglycemia (e.g., excessive thirst, urinating more often than usual or higher amount of urine than usual, or increased appetite with weight loss) [see Warnings and Precautions (5.3)].
 
 Pneumonitis
@@ -54,17 +54,17 @@ Dosing
 
 Instruct patients and their caregivers of the following:
 
-- Take VIJOICE with food at approximately the same time each day [see Dosage and Administration (2.2)].
-- Swallow the tablets whole (tablets should not be chewed or split prior to swallowing) [see Dosage and Administration (2.2)].
-- For patients unable to swallow, advise how to prepare an oral suspension [see Dosage and Administration (2.2)].
+- Take VIJOICE with food at approximately the same time each day [see Dosage and Administration (2.3)].
+- Swallow the tablets whole (tablets should not be crushed, chewed, or split prior to swallowing) [see Dosage and Administration (2.4)].
+- For patients unable to swallow tablets, advise how to prepare an oral suspension using the tablets or how to take the oral granules (if applicable) [see Dosage and Administration (2.4)].
 - If a dose of VIJOICE is missed, it can be taken with food within 9 hours after the time it is usually taken.
   After more than 9 hours, skip the dose for that day.
   The next day, take VIJOICE at the usual time.
-  Instruct patients not to take 2 doses to make up for a missed dose [see Dosage and Administration (2.2)].
-- If vomiting occurs after taking the dose of VIJOICE, they should not take an additional dose on that day and should resume the usual dosing schedule the next day at the usual time [see Dosage and Administration (2.2)].
+  Instruct patients not to take 2 doses to make up for a missed dose [see Dosage and Administration (2.3)].
+- If vomiting occurs after taking the dose of VIJOICE, they should not take an additional dose on that day and should resume the usual dosing schedule the next day at the usual time [see Dosage and Administration (2.3)].
 
 Distributed by Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2022-66
+T2024-20
