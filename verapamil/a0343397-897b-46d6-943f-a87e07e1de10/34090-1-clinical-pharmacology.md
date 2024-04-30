@@ -26,12 +26,12 @@ Verapamil decreases the frequency of episodes of paroxysmal supraventricular tac
 
 Verapamil does not alter the normal atrial action potential or intraventricular conduction time, but in depressed atrial fibers it decreases amplitude, velocity of depolarization, and conduction velocity.
 Verapamil may shorten the antegrade effective refractory period of the accessory bypass tract.
-Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil (seeWARNINGS).
+Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil (see WARNINGS).
 
 Verapamil has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis.
 It is not known whether this action is important at the doses used in man.
 
-Essential hypertension:Verapamil exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/min) is uncommon (1.4%).
+Essential hypertension: Verapamil exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/min) is uncommon (1.4%).
 During isometric or dynamic exercise, verapamil does not alter systolic cardiac function in patients with normal ventricular function.
 
 Verapamil does not alter total serum calcium levels.

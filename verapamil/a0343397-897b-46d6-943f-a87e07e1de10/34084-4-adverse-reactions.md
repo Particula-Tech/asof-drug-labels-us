@@ -7,12 +7,12 @@ The following reactions to orally administered verapamil occurred at rates great
 
 | Constipation | 7.3% | Dyspnea | 1.4% |
 | --- | --- | --- | --- |
-| Dizziness | 3.3% | Bradycardia (HR<50/min) | 1.4% |
-| Nausea | 2.7% | AV block total (1°, 2°, 3°) 1.2 % | 1.2% |
+| Dizziness | 3.3% | Bradycardia (HR <50/min) | 1.4% |
+| Nausea | 2.7% | AV block total (1°, 2°, 3°) | 1.2% |
 | Hypotension | 2.5% | 2° and 3° | 0.8% |
 | Headache | 2.2% | Rash | 1.2% |
 | Edema | 1.9% | Flushing | 0.6% |
-| CHF,Pulmonary edema | 1.8% |  |  |
+| CHF, Pulmonary edema | 1.8% |  |  |
 | Fatigue | 1.7% |  |  |
 | Elevated liver enzymes (see WARNINGS) |  |  |  |
 
@@ -42,4 +42,4 @@ In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (ph
 If further support is necessary, dopamine hydrochloride or dobutamine hydrochloride may be administered.
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

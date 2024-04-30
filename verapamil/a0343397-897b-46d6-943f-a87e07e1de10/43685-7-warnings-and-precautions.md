@@ -2,7 +2,7 @@
 
 Heart failure: Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema.
-Verapamil should be avoided in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug Interactions).
+Verapamil should be avoided in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug interactions).
 Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment.
 (Note interactions with digoxin under PRECAUTIONS.)
 
@@ -24,7 +24,7 @@ Cardioversion has been used safely and effectively after oral verapamil hydrochl
 Atrioventricular block: The effect of verapamil on AV conduction and the SA node may cause asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms.
 PR-interval prolongation is correlated with verapamil plasma concentrations especially during the early titration phase of therapy.
 Higher degrees of AV block, however, were infrequently (0.8%) observed.
-Marked first-degree block or progressive development to second-or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil hydrochloride and institution of appropriate therapy, depending on the clinical situation.
+Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil hydrochloride and institution of appropriate therapy, depending on the clinical situation.
 
 Patients with hypertrophic cardiomyopathy (IHSS): In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
 Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction.
@@ -62,7 +62,7 @@ Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
 
-Aspirin: In a few reported cases, co-administration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
+Aspirin: In a few reported cases, coadministration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
 
 Grapefruit juice: Grapefruit juice may increase plasma levels of verapamil.
 
@@ -110,7 +110,7 @@ The electrophysiologic effects of quinidine and verapamil on AV conduction were 
 Verapamil significantly counteracted the effects of quinidine on AV conduction.
 There has been a report of increased quinidine levels during verapamil therapy.
 
-Other agents: Nitrates:Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
+Other agents: Nitrates: Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
 The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.
 
 Cimetidine: The interaction between cimetidine and chronically administered verapamil has not been studied.
