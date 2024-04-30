@@ -3,17 +3,17 @@
 ## 5.1 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including lacosamide, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
-Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression,suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Pooled analyses of 199 placebo-controlledclinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking orbehaviorcompared to patients randomized to placebo.
-In these trials, which had a mediantreatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treatedpatients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients,representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
-There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect onsuicide.
-The increased risk of suicidal thoughts orbehavior withAEDs wasobserved as early as one week after starting treatment with AEDs and persisted for the duration of treatment assessed.
-Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could notbe assessed.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk didnotvarysubstantiallyby age (5 to 100 years) in the clinical trials analyzed.
-Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
-Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -22,18 +22,19 @@ Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 | Other | 1.0 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
-The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences weresimilar.
-Anyone considering prescribing lacosamide or any other AEDmust balance this risk with the risk of untreated illness.
-Epilepsy and many other illnessesfor which antiepilepticsareprescribedarethemselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
-Shouldsuicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of thesesymptomsinanygivenpatientmayberelatedtotheillnessbeingtreated.
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar.
+Anyone considering prescribing lacosamide or any other AED must balance this risk with the risk of untreated illness.
+Epilepsy and many other illnesses for which antiepileptics are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of thesesymptomsin any given patient may be related to the illness being treated.
 
 ## 5.2 Dizziness and Ataxia
 
 Lacosamide may cause dizziness and ataxia in adult and pediatric patients.
-In adult patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
+In adult patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide (compared with 8% of placebo patients) and was the adverse reaction most frequently leading to discontinuation (3%).
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
-There was a substantial increase in these adverse events at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
+There was a substantial increase in these adverse reactions at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
+If a loading dose is clinically indicated, administer with medical supervision because of the possibility of increased incidence of adverse reactions, including CNS adverse reactions such as dizziness and ataxia.
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 
@@ -44,6 +45,7 @@ When lacosamide is given with other drugs that prolong the PR interval, further 
 In the postmarketing setting, there have been reports of cardiac arrhythmias in patients treated with lacosamide, including bradycardia, AV block, and ventricular tachyarrhythmia, which have rarely resulted in asystole, cardiac arrest, and death.
 Most, although not all, cases have occurred in patients with underlying proarrhythmic conditions, or in those taking concomitant medications that affect cardiac conduction or prolong the PR interval.
 These events have occurred with both oral and intravenous routes of administration and at prescribed doses as well as in the setting of overdose [see Overdosage (10)].
+In all patients for whom a loading dose is clinically indicated, administer the loading dose with medical supervision because of the possibility of increased incidence of adverse reactions, including cardiovascular adverse reactions.
 Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as known cardiac conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), severe cardiac disease (such as myocardial ischemia or heart failure, or structural heart disease), and cardiac sodium channelopathies (e.g., Brugada Syndrome).
 Lacosamide should also be used with caution in patients on concomitant medications that affect cardiac conduction, including sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers, and medications that prolong the PR interval [see Drug Interactions (7.2)].
 In such patients, obtaining an ECG before beginning lacosamide, and after lacosamide is titrated to steady-state maintenance dose, is recommended.
@@ -65,7 +67,7 @@ These cases were associated with a history of risk factors for cardiac disease a
 
 ## 5.5 Withdrawal of Antiepileptic Drugs (AEDs)
 
-As with all AEDs, lacosamide should be withdrawn gradually (over a minimum of 1 week) to minimize the potential of increased seizurefrequency in patients with seizuredisorders.
+As with all AEDs, lacosamide should be withdrawn gradually (over a minimum of 1 week) to minimize the potential of increased seizure frequency in patients with seizure disorders.
 
 ## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
 

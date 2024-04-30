@@ -1,7 +1,8 @@
 # 11 DESCRIPTION
 
-The chemicalname of lacosamide, the single (R)- enantiomer, is (R)- N- Benzyl-2- acetamido-3- methoxypropionamide.Lacosamide is a functionalized amino acid.
-Its molecularformula is C 13H 18N 2O 3 and its molecular weight is 250.29.
+The chemical name of lacosamide, the single (R)- enantiomer, is (R)- N-Benzyl-2-acetamido-3-methoxypropionamide.
+Lacosamide is a functionalized amino acid.
+Its molecular formula is C 13H 18N 2O 3 and its molecular weight is 250.29.
 The chemical structure is:
 
 Lacosamide, USP is a white to light yellow powder.
