@@ -1,11 +1,16 @@
-Manufactured for: Thea Pharma Inc. Lexington, MA 02420
+Manufactured for: Thea Pharma Inc. Waltham, MA 02451
 
 Made in Switzerland
 
-© 2022.
-Thea Pharma Inc. All rights reserved Rev.
-05/2022
+© 2023.
+Thea Pharma Inc. All rights reserved
 
-N10240C5USA/0522
+Betimol is a registered trademark of Thea Pharma Inc.
 
-82040301
+N10240C5USA/0423
+
+82040302
+
+Revised: 3/2024
+
+Thea Pharma Inc.
