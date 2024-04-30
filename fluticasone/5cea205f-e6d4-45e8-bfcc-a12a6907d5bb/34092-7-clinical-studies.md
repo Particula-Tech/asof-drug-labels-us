@@ -2,7 +2,7 @@
 
 The safety and efficacy of fluticasone propionate inhalation powder [ARMONAIR RESPICLICK, hereafter referred to as fluticasone propionate MDPI] was evaluated in 2130 patients with asthma.
 The development program included 2 confirmatory trials of 12 weeks duration, a 26 week safety trial and two dose-ranging trials of 12 weeks duration.
-The efficacy of Armonair Digihaler is based primarily on the dose-ranging trials and the confirmatory trials described below.
+The efficacy of ArmonAir Digihaler is based primarily on the dose-ranging trials and the confirmatory trials described below.
 
 ## 14.1 Dose-Ranging Trials in Patients with Asthma
 
@@ -63,7 +63,7 @@ Figure 2: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Gr
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
 Supportive evidence of efficacy for fluticasone propionate MDPI compared with placebo was derived from secondary endpoints such as the weekly average of daily trough morning peak expiratory flow and the total daily use of rescue medication.
-The Asthma Quality of Life Questionnaire (AQLQ) for patients age ≥ 18 years or the pediatric AQLQ (PAQLQ) for patients aged 12-17 were assessed in Trial 1.
+The Asthma Quality of Life Questionnaire (AQLQ) for patients age ≥ 18 years or the pediatric AQLQ (PAQLQ) for patients aged 12 to 17 were assessed in Trial 1.
 The responder rate for both measures was defined as an improvement in score of 0.5 or more as threshold.
 In Trial 1, the responder rates for patients receiving fluticasone propionate MDPI 55 mcg and fluticasone propionate MDPI 113 mcg were 46% and 45%, respectively, compared to 40% for patients receiving placebo, with odds ratios of 1.23 (95% CI: 0.74, 2.06) and 1.25 (95% CI: 0.75, 2.08), respectively.
 
@@ -107,7 +107,7 @@ FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
 Supportive evidence of efficacy for fluticasone propionate MDPI compared with placebo was derived from secondary endpoints such as the weekly average of daily trough morning peak expiratory flow and total daily use of rescue medication.
 There were fewer withdrawals due to worsening asthma in patients treated with fluticasone propionate MDPI than with placebo.
-The AQLQ (patients age ≥ 18 years) or the PAQLQ (patients aged 12-17) were assessed in Trial 2.
+The AQLQ (patients age ≥ 18 years) or the PAQLQ (patients aged 12 to 17) were assessed in Trial 2.
 The responder rates for patients receiving fluticasone propionate MDPI 113 mcg and fluticasone propionate MDPI 232 mcg were 38% and 44%, respectively, compared to 27% for patients receiving placebo, with odds ratios of 1.75 (95% CI:1.05, 2.93) and 2.12 (95% CI: 1.27, 3.53), respectively.
 
 Improvements in FEV1 for both fluticasone propionate MDPI dose groups were sustained over the 12 hours of testing at week 12 (Figure 5).

@@ -1,10 +1,10 @@
 # Instructions for Use
 
-ARMONAIR® DIGIHALERTM (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 55 mcg
+ARMONAIR® DIGIHALER® (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 55 mcg
 
-ARMONAIR DIGIHALER (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 113 mcg
+ARMONAIR® DIGIHALER® (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 113 mcg
 
-ARMONAIR DIGIHALER (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 232 mcg
+ARMONAIR® DIGIHALER® (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 232 mcg
 
 for oral inhalation use
 
@@ -115,7 +115,8 @@ How should I store ARMONAIR DIGIHALER?
 - Store ARMONAIR DIGIHALER in the unopened foil pouch and only open when ready for use.
 - Keep the green cap on the inhaler closed during storage.
 - Keep your ARMONAIR DIGIHALER inhaler dry and clean at all times.
-- Keep your ARMONAIR DIGIHALER inhaler and all medicines out of the reach of children.
+
+Keep your ARMONAIR DIGIHALER inhaler and all medicines out of the reach of children.
 
 Cleaning your ARMONAIR DIGIHALER inhaler
 
@@ -153,9 +154,7 @@ Changes or modifications not expressly approved by Teva could void the user’s 
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth
-
-SIG, Inc. and any use of such marks by Teva Respiratory, LLC is under license.
+The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc. and any use of such marks by Teva Respiratory, LLC is under license.
 
 Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 

@@ -22,7 +22,7 @@ Table 1 displays the incidence of most common adverse reactions in pooled Trials
 
 Table 1: Adverse Reactions with ≥ 3% Incidence with Fluticasone Propionate MDPI, and More Common than Placebo in Subjects with Asthma
 
-| Adverse Reaction | Fluticasone Propionate MDPI 55 mcg(n=129)% | Fluticasone Propionate MDPI 113 mcg(n=274)% | Fluticasone Propionate MDPI 232 mcg(n=146)% | Placebo (n=273)% |
+| Adverse Reaction | Fluticasone Propionate MDPI 55 mcg(n=129)% | Fluticasone PropionateMDPI 113 mcg(n=274) % | Fluticasone PropionateMDPI 232 mcg(n=146)% | Placebo(n=273)% |
 | --- | --- | --- | --- | --- |
 | URTI | 5.4 | 4.7 | 5.5 | 4.8 |
 | Nasopharyngitis | 5.4 | 5.8 | 4.8 | 4.4 |
