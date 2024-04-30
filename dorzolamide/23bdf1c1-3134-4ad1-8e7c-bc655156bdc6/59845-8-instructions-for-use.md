@@ -37,11 +37,14 @@ Important Information:
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration | 11/2020
 
-Manufactured for: Thea Pharma Inc. Lexington, MA 02420 Made in Switzerland
+Manufactured for: Thea Pharma Inc. Waltham, MA 02451 Made in Switzerland
 
-© 2022.
+© 2023.
 Thea Pharma Inc. All rights reserved The COSOPT trademarks are owned by Merck Sharp & Dohme Corp. and are being used with permission.
-Rev.
-05/2022
 
-83120301 N10250C10USA/05/22
+Rev.
+05/2023
+
+Revised: 5/2023
+
+Thea Pharma Inc.
