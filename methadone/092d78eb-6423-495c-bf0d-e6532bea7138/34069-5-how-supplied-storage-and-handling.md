@@ -14,6 +14,4 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Alcami Corporation Charleston, SC 29405 U.S.A.
 
-Revised: 12/2023
-
-MI:MTHDIJ:RX10
+PC3374K Revised: 12/2023 MI:MTHDIJ:R9
