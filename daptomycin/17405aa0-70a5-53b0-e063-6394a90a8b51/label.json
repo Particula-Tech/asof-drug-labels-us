@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213645"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Bamboo US BidCo LLC",
+  "package_ndcs": [
+    "83703-035-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "DAPZURA RT"
+    }
+  ],
+  "setid": "17405aa0-70a5-53b0-e063-6394a90a8b51",
+  "source": "dailymed"
+}
