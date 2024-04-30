@@ -119,4 +119,4 @@ Manufactured for: Protega Pharmaceuticals Inc. Princeton, NJ 08540
 
 (C) 2024, Protega Pharmaceuticals Inc.
 
-rev 01/2024 GK-425
+GK-425

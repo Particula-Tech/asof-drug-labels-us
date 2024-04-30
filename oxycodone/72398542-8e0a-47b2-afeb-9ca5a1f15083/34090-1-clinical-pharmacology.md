@@ -68,7 +68,7 @@ In the fasted state, the extent of absorption (AUC) is equivalent, the rate of a
 Table 4.
 Pharmacokinetic Parameters (Mean ± SD)
 
-| Dose\Parameters | AUC0-t (ng∙hr/mL) | AUC0-inf(ng∙hr/mL) | Cmax (ng/mL) | Tmax (hr) | Half Life (hr) |
+| Dose\Parameters | AUC0-t (ng∙hr/mL) | AUC0-inf (ng∙hr/mL) | Cmax (ng/mL) | Tmax (hr) | Half Life (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose Pharmacokinetics Study |  |  |  |  |  |
 | ROXYBOND 5 mg tab (fasted) | 45.5±15.4 | 49.0±16.1 | 8.3±2.1 | 1.5a (0.7 to 5.0) | 3.9±1.2 |
