@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209485"
+  ],
+  "inn": "mirabegron",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-151-06",
+    "68180-151-09",
+    "68180-152-06",
+    "68180-152-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "MIRABEGRON"
+    }
+  ],
+  "setid": "d22d3d12-8466-46db-bc19-d13e87c6115c",
+  "source": "dailymed"
+}
