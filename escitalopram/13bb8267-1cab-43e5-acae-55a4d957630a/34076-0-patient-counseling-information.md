@@ -50,4 +50,4 @@ North Chicago, IL 60064
 Licensed from H. Lundbeck A/S ©2023 AbbVie.
 All rights reserved.
 LEXAPRO and its design are trademarks of H. Lundbeck A/S, used under license by AbbVie.
-20079286 R1
+20085417
