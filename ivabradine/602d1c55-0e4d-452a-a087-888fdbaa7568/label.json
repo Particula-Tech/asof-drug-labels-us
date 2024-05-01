@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213366"
+  ],
+  "inn": "ivabradine",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-053-60",
+    "31722-054-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ivabradine",
+      "name": "Ivabradine"
+    }
+  ],
+  "setid": "602d1c55-0e4d-452a-a087-888fdbaa7568",
+  "source": "dailymed"
+}
