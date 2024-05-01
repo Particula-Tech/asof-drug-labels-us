@@ -1,188 +1,75 @@
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL – 100 mL Bottle Label
 
-Pfizer
+NDC 0049-3371-26
 
-NDC 0049-3410-30
+100 mL Rx only
 
-DIFLUCAN® (Fluconazole Tablets)
+DIFLUCAN® (Fluconazole Injection) (for Intravenous Infusion only) Sterile Solution in 0.9% Sodium Chloride Injection
 
-50 mg
+200 mg/100 mL* (2 mg/mL)
 
-30 Tablets Rx only
+Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL – 200 mL Bottle Label
 
-Pfizer
+NDC 0049-3372-26
 
-NDC 0049-3420-30
+200 mL Rx only
 
-DIFLUCAN® (Fluconazole Tablets)
+DIFLUCAN® (Fluconazole Injection) (for intravenous infusion only) Sterile Solution in 0.9% Sodium Chloride Injection
 
-100 mg
+400 mg/200 mL* (2 mg/mL)
 
-30 Tablets Rx only
+Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack
+# PRINCIPAL DISPLAY PANEL – 100 mL with Sodium chloride - Container Label
 
-DIFLUCAN® (Fluconazole Tablet)
+DIFLUCAN® (fluconazole) injection 200 mg
 
-100 mg
+ISO-OSMOTIC SODIUM CHLORIDE DILUENT
 
-Distributed by ROERIG DIV OF PFIZER INC, NY, NY 10017 MADE IN USA (includes foreign content)
+Pfizer Roerig
 
-13041200
+100 mL (2 mg/mL) *
 
-EXP & LOT AREA
+NDC 0049-3435-26 2B3436 STERILE NONPYROGENIC *EACH 100 mL CONTAINS 200 mg OF FLUCONAZOLE AND 900 mg OF SODIUM CHLORIDE (USP) IN WATER FOR INJECTION (USP) OSMOLARITY 315 mOsmol/L (CALC)
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack Carton
+DOSAGE INYRAVENOUSLY AS DIRECTED BY A PHYSICIAN SEE PACKAGE INSERT
 
-UNIT DOSE
+CAUSTIONS DO NOT ADD SUPPLEMENTARY MEICATION MUST NOT BE USED IN SERIOUS CONNECTIONS DO NOT USE UNLESS SOLUTION IS CLEAR RX ONLY
 
-Pfizer
+# PRINCIPAL DISPLAY PANEL – 200 mL with Sodium chloride - Container Label
 
-NDC 0049-3420-41
+DIFLUCAN® (fluconazole) injection 400 mg
 
-DIFLUCAN® (Fluconazole Tablets)
+ISO-OSMOTIC SODIUM CHLORIDE DILUENT
 
-100 mg
+Pfizer Roerig
 
-For in-institution use only
+200 mL (2 mg/mL) *
 
-100 Tablets Rx only
+NDC 0049-3436-26 2B3436 STERILE NONPYROGENIC *EACH 200 mL CONTAINS 400mg OF FLUCONAZOLE AND 1.8g OF SODIUM CHLORIDE (USP) IN WATER FOR INJECTION (USP) OSMOLARITY 315 mOsmol/L (CALC)
 
-# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Blister Pack
+DOSAGE INYRAVENOUSLY AS DIRECTED BY A PHYSICIAN SEE PACKAGE INSERT
 
-NDC 0049-3500-79
+CAUSTIONS DO NOT ADD SUPPLEMENTARY MEICATION MUST NOT BE USED IN SERIOUS CONNECTIONS DO NOT USE UNLESS SOLUTION IS CLEAR RX ONLY
 
-1 Blister x 1 Tablet
+# PRINCIPAL DISPLAY PANEL – 100 mL with Dextrose - Container Label
 
-Pfizer
+IMAGE NOT AVAILABLE
 
-Diflucan® (fluconazole tablet) 150 mg
+# PRINCIPAL DISPLAY PANEL – 200 mL with Dextrose - Container Label
 
-Directions: Push tablet through foil and take by mouth
+DIFLUCAN® (fluconazole) injection 400 mg
 
-Warning: Do not use if you are pregnant, think you may
+ISO-OSMOTIC DEXTROSE DILUENT
 
-be pregnant or are trying to become pregnant unless
+Pfizer Roerig
 
-directed by your physician.
-If you become pregnant after
+200 mL (2 mg/mL) *
 
-taking this medicine, contact your physician.
+NDC 0049-3438-26 2B3434 STERILE NONPYROGENIC *EACH 200 mL CONTAINS 400mg OF FLUCONAZOLE AND 11.2g OF DEXTROSE HYDROUS (USP) IN WATER FOR INJECTION (USP) OSMOLARITY 289 mOsmol/L (CALC)
 
-You should consider using a reliable means of
+DOSAGE INYRAVENOUSLY AS DIRECTED BY A PHYSICIAN SEE PACKAGE INSERT
 
-contraception for approximately 1 week after the dose.
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 12 x 150 mg Tablet Blister Pack Carton
-
-Pfizer
-
-NDC 0049-3500-79
-
-Diflucan® (fluconazole tablet) 150 mg
-
-12 Blisters x 1 Tablet Rx only
-
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
-
-Pfizer
-
-NDC 0049-3430-30
-
-DIFLUCAN® (Fluconazole Tablets)
-
-200 mg
-
-30 Tablets Rx only
-
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Blister Pack
-
-DIFLUCAN® (Fluconazole Tablet)
-
-200 mg
-
-Distributed by ROERIG DIV OF PFIZER INC, NY, NY 10017 MADE IN USA (includes foreign content)
-
-13041700
-
-EXP & LOT AREA
-
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Blister Pack Carton
-
-UNIT DOSE
-
-Pfizer
-
-NDC 0049-3430-41
-
-DIFLUCAN® (Fluconazole Tablets)
-
-200 mg
-
-For in-institution use only
-
-100 Tablets Rx only
-
-# PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Label
-
-Pfizer
-
-NDC 0049-3440-19
-
-DIFLUCAN® (fluconazole) for Oral Suspension
-
-10 mg/mL
-
-ORANGE FLAVORED 35 mL when reconstituted
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
-
-Pfizer
-
-NDC 0049-3440-19
-
-DIFLUCAN® (fluconazole) for Oral Suspension
-
-10 mg/mL
-
-ORANGE FLAVORED
-
-35 mL when reconstituted
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Label
-
-Pfizer
-
-NDC 0049-3450-19
-
-DIFLUCAN® (fluconazole) for Oral Suspension
-
-40 mg/mL
-
-ORANGE FLAVORED 35 mL when reconstituted
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Carton
-
-Pfizer
-
-NDC 0049-3450-19
-
-DIFLUCAN® (fluconazole) for Oral Suspension
-
-40 mg/mL
-
-ORANGE FLAVORED
-
-35 mL when reconstituted
-
-Rx only
+CAUSTIONS DO NOT ADD SUPPLEMENTARY MEICATION MUST NOT BE USED IN SERIOUS CONNECTIONS DO NOT USE UNLESS SOLUTION IS CLEAR RX ONLY
