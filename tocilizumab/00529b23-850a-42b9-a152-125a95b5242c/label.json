@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761354"
+  ],
+  "inn": "tocilizumab",
+  "labeler": "Biogen Inc.",
+  "package_ndcs": [
+    "64406-022-01",
+    "64406-023-01",
+    "64406-024-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "tocilizumab",
+      "name": "Tofidence"
+    }
+  ],
+  "setid": "00529b23-850a-42b9-a152-125a95b5242c",
+  "source": "dailymed"
+}
