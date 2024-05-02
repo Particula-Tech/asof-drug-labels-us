@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA217813"
+  ],
+  "inn": "deflazacort",
+  "labeler": "Tris Pharma Inc",
+  "package_ndcs": [
+    "27808-249-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "deflazacort oral",
+      "name": "Deflazacort Oral Suspension"
+    }
+  ],
+  "setid": "881785a5-41b4-4679-a29b-5d77ca51ca60",
+  "source": "dailymed"
+}
