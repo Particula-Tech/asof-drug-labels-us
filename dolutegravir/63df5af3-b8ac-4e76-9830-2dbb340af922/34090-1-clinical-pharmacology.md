@@ -35,7 +35,7 @@ Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV-1–Infecte
 | a Based on population pharmacokinetic analyses using data from SPRING-1 and SPRING-2. b Based on population pharmacokinetic analyses using data from VIKING (ING112961) and VIKING-3. |  |  |
 
 TIVICAY tablets and TIVICAY PD tablets for oral suspension are not bioequivalent.
-The relative bioavailability of TIVICAY PD is approximately 1.6-fold higher than TIVICAY; therefore, the 2 dosage forms are not interchangeable on a milligram-per-milligram basis [see Dosage and Administration (2.3)].
+The relative bioavailability of TIVICAY PD is approximately 1.6-fold higher than TIVICAY; therefore, the 2 dosage forms are not substitutable on a milligram-per-milligram basis [see Dosage and Administration (2.3)].
 
 Absorption
 
@@ -55,12 +55,12 @@ Distribution
 Dolutegravir is highly bound (greater than or equal to 98.9%) to human plasma proteins based on in vivo data and binding is independent of plasma concentration of dolutegravir.
 The apparent volume of distribution (Vd/F) following 50-mg once-daily administration is estimated at 17.4 L based on a population pharmacokinetic analysis.
 
-Cerebrospinal Fluid (CSF): In 12 treatment-naïve subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 13.2 ng per mL (range: 3.74 ng per mL to 18.3 ng per mL) 2 to 6 hours postdose after 16 weeks of treatment.
+Cerebrospinal Fluid (CSF): In 12 treatment-naïve subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 13.2 ng/mL (range: 3.74 ng/mL to 18.3 ng/mL) 2 to 6 hours postdose after 16 weeks of treatment.
 The clinical relevance of this finding has not been established.
 
 Elimination
 
-Dolutegravir has a terminal half-life of approximately 14 hours and an apparent clearance (CL/F) of 1.0 L per hour based on population pharmacokinetic analyses.
+Dolutegravir has a terminal half-life of approximately 14 hours and an apparent clearance (CL/F) of 1.0 L/h based on population pharmacokinetic analyses.
 
 Metabolism: Dolutegravir is primarily metabolized via UGT1A1 with some contribution from CYP3A.
 
@@ -97,7 +97,7 @@ Geriatric Patients: Population pharmacokinetic analysis indicated age had no cli
 Patients with Hepatic Impairment: In a trial comparing 8 subjects with moderate hepatic impairment (Child-Pugh Score B) with 8 matched healthy controls, exposure of dolutegravir from a single 50-mg dose was similar between the 2 groups.
 The effect of severe hepatic impairment (Child-Pugh Score C) on the pharmacokinetics of dolutegravir has not been studied.
 
-Patients with Renal Impairment: In a trial evaluating the pharmacokinetics of a single 50-mg tablet of dolutegravir comparing 8 subjects with severe renal impairment (CrCl less than 30 mL per min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were lower by 40%, 23%, and 43%, respectively, compared with those in matched healthy subjects.
+Patients with Renal Impairment: In a trial evaluating the pharmacokinetics of a single 50-mg tablet of dolutegravir comparing 8 subjects with severe renal impairment (CrCl less than 30 mL/min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were lower by 40%, 23%, and 43%, respectively, compared with those in matched healthy subjects.
 Population pharmacokinetic analysis using data from SAILING and VIKING-3 trials indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir.
 There is inadequate information to recommend appropriate dosing of dolutegravir in patients requiring dialysis.
 
@@ -119,7 +119,6 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | Coadministered Drug(s)and Dose(s) | Dose of TIVICAY | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |  |  |  |  |  |  |  |  |  |
 | Elbasvir 50 mg once daily | 50 mgsingle dose | 12 | 0.97(0.89, 1.05) | 0.98(0.93, 1.04) | 0.98(0.93, 1.03) |  |  |  |  |  |  |  |  |  |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |  |  |  |  |  |  |  |  |  |
 | Grazoprevir 200 mg once daily | 50 mgsingle dose | 12 | 0.64(0.44, 0.93) | 0.81(0.67, 0.97) | 0.86(0.79, 0.93) |  |  |  |  |  |  |  |  |  |
@@ -160,7 +159,6 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Carbamazepine 300 mg twice daily | 50 mg once daily | 16a | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.29 (1.07 to 1.57) | 1.33 (1.11 to 1.59) | 1.45 (1.25 to 1.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -181,7 +179,7 @@ Strand transfer biochemical assays using purified HIV-1 integrase and pre-proces
 
 Antiviral Activity in Cell Culture
 
-Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV-1 with mean EC50 values of 0.5 nM (0.21 ng per mL) to 2.1 nM (0.85 ng per mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
+Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV-1 with mean EC50 values of 0.5 nM (0.21 ng/mL) to 2.1 nM (0.85 ng/mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
 Dolutegravir exhibited antiviral activity against 13 clinically diverse clade B isolates with a mean EC50 value of 0.52 nM in a viral integrase susceptibility assay using the integrase coding region from clinical isolates.
 Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV-1 clinical isolates (3 in each group of M clades A, B, C, D, E, F, and G, and 3 in group O) with EC50 values ranging from 0.02 nM to 2.14 nM for HIV-1.
 Dolutegravir EC50 values against 3 HIV-2 clinical isolates in PBMC assays ranged from 0.09 nM to 0.61 nM.
@@ -200,7 +198,7 @@ The additional integrase substitutions included T97A, E138K, G140S, and M154I.
 Passage of mutant viruses containing both G140S and Q148H selected for L74M, E92Q, and N155H.
 
 Treatment-Naïve Subjects: No subject who received dolutegravir 50-mg once-daily in the treatment-naïve trials SPRING-2 (96 weeks) and SINGLE (144 weeks) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 12 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
-Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies per mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
+Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies/mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
 None of these subjects had a corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to the background regimen was observed in the dolutegravir arm in either the SPRING-2 or SINGLE trials.
 No treatment-emergent primary resistance substitutions were observed in either treatment group in the FLAMINGO trial through Week 96.
@@ -264,7 +262,7 @@ Response by Baseline Dolutegravir Phenotype (Fold-Change from Reference) in Subj
 
 Integrase Strand Transfer Inhibitor Treatment-Emergent Resistance
 
-There were 50 subjects with virologic failure on the dolutegravir twice-daily regimen in VIKING-3 with HIV-1 RNA greater than 400 copies per mL at the failure timepoint, Week 48 or beyond, or the last timepoint on trial.
+There were 50 subjects with virologic failure on the dolutegravir twice-daily regimen in VIKING-3 with HIV-1 RNA greater than 400 copies/mL at the failure timepoint, Week 48 or beyond, or the last timepoint on trial.
 Thirty-nine subjects with virologic failure had resistance data that were used in the Week 48 analysis.
 In the Week 48 resistance analysis 85% (33 of 39) of the subjects with virologic failure had treatment-emergent INSTI-resistance substitutions in their isolates.
 The most common treatment-emergent INSTI-resistance substitution was T97A.

@@ -18,19 +18,7 @@ Cases of hepatic toxicity, including elevated serum liver biochemistries, hepati
 Drug-induced liver injury leading to liver transplant has been reported with TRIUMEQ (abacavir, dolutegravir, and lamivudine).
 Monitoring for hepatotoxicity is recommended.
 
-## 5.3 Embryo-Fetal Toxicity
-
-An ongoing observational study showed an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
-As there is limited understanding of the association of reported types of neural tube defects with dolutegravir use, inform adolescents and adults of childbearing potential, including those actively trying to become pregnant, about the potential increased risk of neural tube defects with TIVICAY and TIVICAY PD.
-Assess the risks and benefits of TIVICAY and TIVICAY PD and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester [see Use in Specific Populations (8.1, 8.3)].
-
-Pregnancy testing is recommended before initiation of TIVICAY or TIVICAY PD in adolescents and adults of childbearing potential [see Dosage and Administration (2.1)].
-
-Adolescents and adults of childbearing potential should be counseled on the consistent use of effective contraception [see Use in Specific Populations (8.1, 8.3)].
-
-TIVICAY or TIVICAY PD may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
-
-## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+## 5.3 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 The concomitant use of TIVICAY or TIVICAY PD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4), Drug Interactions (7.3)]:
 
@@ -40,15 +28,15 @@ The concomitant use of TIVICAY or TIVICAY PD and other drugs may result in known
 For concomitant drugs for which the interaction can be mitigated, please see Table 8 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during therapy with TIVICAY or TIVICAY PD; review concomitant medications during therapy with TIVICAY or TIVICAY PD; and monitor for the adverse reactions associated with the concomitant drugs.
 
-## 5.5 Immune Reconstitution Syndrome
+## 5.4 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including TIVICAY or TIVICAY PD.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
 
-## 5.6 Different Formulations Are Not Interchangeable
+## 5.5 Different Formulations Are Not Substitutable
 
-TIVICAY and TIVICAY PD are not bioequivalent and are not interchangeable on a milligram-per-milligram basis [see Clinical Pharmacology (12.3)].
-If a pediatric patient switches from one formulation to the other, the dose must be adjusted for the new dosage formulation [see Dosage and Administration (2.3)].
+TIVICAY and TIVICAY PD are not bioequivalent and are not substitutable on a milligram-per-milligram basis [see Clinical Pharmacology (12.3)].
+If a pediatric patient switches from one formulation to the other, the dose must be adjusted for the new dosage formulation [see Dosage and Administration (2.2)].
 Incorrect dosing of a given formulation may result in underdosing and loss of therapeutic effect and possible development of resistance or possible clinically significant adverse reactions from greater exposure of dolutegravir.

@@ -16,21 +16,14 @@ Hepatotoxicity
 Inform patients that hepatotoxicity has been reported with dolutegravir [see Warnings and Precautions (5.2)].
 Advise patients that laboratory monitoring for hepatoxicity during therapy with TIVICAY or TIVICAY PD is recommended, especially for patients with liver disease, such as hepatitis B or C.
 
-Embryo-Fetal Toxicity
-
-Advise adolescents and adults of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of TIVICAY and TIVICAY PD with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
-If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
-
-Adolescents and adults of childbearing potential taking TIVICAY or TIVICAY PD should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
-
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TIVICAY or TIVICAY PD is started [see Warnings and Precautions (5.5)].
+Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TIVICAY or TIVICAY PD is started [see Warnings and Precautions (5.4)].
 
 Different Formulations Are Not Bioequivalent
 
-Advise patients that TIVICAY and TIVICAY PD are not bioequivalent and are not interchangeable on a milligram-per-milligram basis.
-Advise patients or their care provider that patients switching from one formulation to the other must adjust the dose for the new dosage formulation [see Dosage and Administration (2.3) and Warnings and Precautions (5.6)].
+Advise patients that TIVICAY and TIVICAY PD are not bioequivalent and are not substitutable on a milligram-per-milligram basis.
+Advise patients or their care provider that patients switching from one formulation to the other must adjust the dose for the new dosage formulation [see Dosage and Administration (2.2) and Warnings and Precautions (5.5)].
 
 Pregnancy Registry
 
@@ -38,11 +31,11 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].
 
 Administration Instructions
 
-To avoid a dosing error from using the wrong formulation of dolutegravir, strongly advise patients and caregivers to visually inspect the tablets to verify the correct formulation each time the prescription is filled [see Dosage and Administration (2), Warnings and Precautions (5.6), How Supplied/Storage and Handling (16)].
+To avoid a dosing error from using the wrong formulation of dolutegravir, strongly advise patients and caregivers to visually inspect the tablets to verify the correct formulation each time the prescription is filled [see Dosage and Administration (2), Warnings and Precautions (5.5), How Supplied/Storage and Handling (16)].
 
 Inform patients and caregivers that TIVICAY PD tablets for oral suspension may be swallowed whole or dispersed in drinking water and should not be chewed, cut or crushed.
 The amount of water needed to disperse the tablet will depend on the dose (number of tablets prescribed).
@@ -66,14 +59,8 @@ ViiV Healthcare
 
 Durham, NC 27701
 
-by:
+©2024 ViiV Healthcare group of companies or its licensor.
 
-GlaxoSmithKline
-
-Durham, NC 27701
-
-©2022 ViiV Healthcare group of companies or its licensor.
-
-TVC:18PI
+TVC:19PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

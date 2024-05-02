@@ -54,4 +54,4 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 
 ## 7.4 Drugs without Clinically Significant Interactions with Dolutegravir
 
-Based on drug interaction trial results, the following drugs can be coadministered with dolutegravir without a dose adjustment: atazanavir/ritonavir, darunavir/ritonavir, daclatasvir, elbasvir/grazoprevir, methadone, midazolam, omeprazole, oral contraceptives containing norgestimate and ethinyl estradiol, prednisone, rifabutin, rilpivirine, sofosbuvir/velpatasvir, and tenofovir [see Clinical Pharmacology (12.3)].
+Based on drug interaction trial results, the following drugs can be coadministered with dolutegravir without a dose adjustment: atazanavir/ritonavir, darunavir/ritonavir, elbasvir/grazoprevir, methadone, midazolam, omeprazole, oral contraceptives containing norgestimate and ethinyl estradiol, prednisone, rifabutin, rilpivirine, sofosbuvir/velpatasvir, and tenofovir [see Clinical Pharmacology (12.3)].

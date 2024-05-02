@@ -4,7 +4,7 @@ The following serious adverse drug reactions are discussed in other sections of 
 
 - •Hypersensitivity reactions [see Warnings and Precautions (5.1)].
 - •Hepatotoxicity [see Warnings and Precautions (5.2)].
-- •Immune Reconstitution Syndrome [see Warnings and Precautions (5.5)].
+- •Immune Reconstitution Syndrome [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -46,6 +46,7 @@ Treatment-Emergent Adverse Reactions of at Least Moderate Intensity (Grades 2 to
 | Fatigue | <1% | <1% | 2% | 2% |
 | Ear and Labyrinth |  |  |  |  |
 | Vertigo | 0 | <1% | 0 | 2% |
+| NRTI = Nucleoside Reverse Transcriptase Inhibitor. |  |  |  |  |
 | a Includes pooled terms: rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and drug eruption. |  |  |  |  |
 
 In addition, Grade 1 insomnia was reported by 1% and less than 1% of subjects receiving TIVICAY and raltegravir, respectively, in SPRING-2; whereas in SINGLE the rates were 7% and 4% for TIVICAY and ATRIPLA, respectively.
@@ -99,7 +100,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects i
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily +2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |
+| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |
 | ALT |  |  |  |  |  |  |  |  |  |
 | Grade 2 (>2.5-5.0 x ULN) | 4% | 4% | 3% | 5% |  |  |  |  |  |
 | Grade 3 to 4 (>5.0 x ULN) | 2% | 2% | 1% | <1% |  |  |  |  |  |
@@ -121,19 +122,19 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects i
 | Total neutrophils |  |  |  |  |  |  |  |  |  |
 | Grade 2 (0.75-0.99 x 109) | 4% | 3% | 4% | 5% |  |  |  |  |  |
 | Grade 3 to 4 (<0.75 x 109) | 2% | 2% | 3% | 3% |  |  |  |  |  |
-| ALT = Alanine amino transferase; AST = Aspartate amino tranferase; ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |  |
+| ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; NRTI = Nucleoside Reverse Transcriptase Inhibitor; ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |  |
 
 Table 7.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysisa) and SINGLE Trials (Week 144 Analysisa)
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |  |  |  |  |  |
+| TIVICAY50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |  |  |  |  |  |
 | Cholesterol (mg/dL) | 8.1 | 10.1 | 24.0 | 26.7 |  |  |  |  |  |  |  |  |  |  |
 | HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.4 | 7.2 |  |  |  |  |  |  |  |  |  |  |
 | LDL cholesterol (mg/dL) | 5.1 | 6.1 | 16.0 | 14.6 |  |  |  |  |  |  |  |  |  |  |
 | Triglycerides (mg/dL) | 6.7 | 6.6 | 13.6 | 31.9 |  |  |  |  |  |  |  |  |  |  |
-| HDL = High density lipoprotein; LDL = Low density lipoprotein. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| HDL = High density lipoprotein; LDL = Low density lipoprotein; NRTI = Nucleoside Reverse Transcriptase Inhibitor. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of whether they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36, ATRIPLA n = 36). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Laboratory abnormalities observed in the FLAMINGO trial were generally consistent with observations in SPRING-2 and SINGLE.
@@ -152,7 +153,7 @@ Liver chemistry elevations consistent with immune reconstitution syndrome were o
 
 Changes in Serum Creatinine: Dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred within the first 4 weeks of treatment and remained stable through 96 weeks.
-In treatment-naïve subjects, a mean change from baseline of 0.15 mg per dL (range: -0.32 mg per dL to 0.65 mg per dL) was observed after 96 weeks of treatment.
+In treatment-naïve subjects, a mean change from baseline of 0.15 mg/dL (range: -0.32 mg/dL to 0.65 mg/dL) was observed after 96 weeks of treatment.
 Creatinine increases were comparable by background NRTIs and were similar in treatment-experienced subjects.
 
 Clinical Trials Experience in Pediatric Subjects
