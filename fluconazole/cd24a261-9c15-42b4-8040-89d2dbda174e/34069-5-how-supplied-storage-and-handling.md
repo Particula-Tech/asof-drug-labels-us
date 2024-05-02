@@ -5,14 +5,13 @@ It is supplied in Intravia plastic containers containing volumes of 100 mL or 20
 
 Fluconazole in Sodium Chloride Injection, USP in Intravia Plastic Containers:
 
-| 2J1446 | NDC 0338-6046-48 | Fluconazole in Sodium Chloride Diluent | 200 mg/100 mL x 10 |
-| --- | --- | --- | --- |
-| 2J1445 | NDC 0338-6045-37 | Fluconazole in Sodium Chloride Diluent | 400 mg/200 mL x 10 |
+| NDC 0338-6046-48 | Fluconazole in Sodium Chloride Diluent | 200 mg/100 mL x 10 |
+| --- | --- | --- |
+| NDC 0338-6045-37 | Fluconazole in Sodium Chloride Diluent | 400 mg/200 mL x 10 |
 
 ## Storage
 
-Store between 77°F (25°C) and 41°F (5°C).
-Brief exposure up to 104°F (40°C) does not adversely affect the product.
+Store between 77°F (25°C) and 41°F (5°C) Brief exposure up to 104°F (40°C) does not adversely affect the product.
 Protect from freezing.
 Avoid excessive heat.
 

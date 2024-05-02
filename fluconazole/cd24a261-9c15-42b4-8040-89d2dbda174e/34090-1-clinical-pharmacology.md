@@ -2,13 +2,24 @@
 
 ## Pharmacokinetics and Metabolism
 
-The pharmacokinetic properties of fluconazole are similar following administration by the intravenous or oral routes.
+The pharmacokinetic properties (PK) of fluconazole are similar following administration by the intravenous or oral routes.
 In normal volunteers, the bioavailability of orally administered fluconazole is over 90% compared with intravenous administration.
 Bioequivalence was established between the 100 mg tablet and both suspension strengths when administered as a single 200 mg dose.
 
 Peak plasma concentrations (Cmax) in fasted normal volunteers occur between 1 and 2 hours with a terminal plasma elimination half-life of approximately 30 hours (range: 20 to 50 hours) after oral administration.
 
-In fasted normal volunteers, administration of a single oral 400 mg dose of fluconazole leads to a mean Cmax of 6.72 mcg/mL (range: 4.12 to 8.08 mcg/mL) and after single oral doses of 50 to 400 mg, fluconazole plasma concentrations and area under the plasma concentration-time curve (AUC) are dose proportional.
+In fasted normal volunteers, administration of a single oral 400 mg dose of fluconazole leads to a mean Cmax of 6.72 mcg/mL (range: 4.12 to 8.08 mcg/mL) and after single or multiple oral doses of 50 to 400 mg, fluconazole plasma concentrations and area under the plasma concentration-time curve (AUC) are dose proportional (Table 1).
+
+Table 1: Mean Pharmacokinetic Parameters of Fluconazole in Adult Healthy Volunteers Following the Administration of Fluconazole
+
+| Dose regimen | Cmax (mcg/mL) | AUC0-24 (mcgAUC0-inf. Cmax= Peak plasma concentrations, AUC =area under the plasma concentration time curve.h/mL) | Half-life (hours) |
+| --- | --- | --- | --- |
+| 50 mg oral (once daily x 7 days) | 2.21 | 37.6 | 26.6 |
+| 100 mg oral (once daily x 7 days) | 4.81 | 82.5 | 27.7 |
+| 150 mg single oral | 2.70 | 137* | 34.1 |
+| 200 mg oral (once daily x 14 days) | 10.12 | 169.5 | 31 |
+| 300 mg oral (once daily x 14 days) | 15.98 | 299.4 | 34 |
+| 400 mg oral (once daily x 14 days) | 18.89 | 349.9 | 31 |
 
 Steady-state concentrations are reached within 5 to 10 days following oral doses of 50 to 400 mg given once daily.
 Administration of a loading dose (on Day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
@@ -23,6 +34,9 @@ A single oral 150 mg dose of fluconazole administered to 27 patients penetrated 
 
 A single oral 150 mg dose of fluconazole administered to 14 patients penetrated into vaginal fluid, resulting in fluid: plasma ratios ranging from 0.36 to 0.71 over the first 72 hours following dosing.
 
+Table 2.
+Ratio of Fluconazole Tissue (Fluid)/Plasma Concentration
+
 | Tissue or Fluid | Ratio of Fluconazole Tissue (Fluid)/Plasma ConcentrationRelative to concurrent concentrations in plasma in subjects with normal renal function. |
 | --- | --- |
 | Cerebrospinal fluidIndependent of degree of meningeal inflammation. | 0.5 - 0.9 |
@@ -36,34 +50,46 @@ A single oral 150 mg dose of fluconazole administered to 14 patients penetrated 
 | Vaginal tissue | 1 |
 | Vaginal fluid | 0.4 - 0.7 |
 
+Mean body clearance in adults is reported to be 0.23 (17%) mL/min/kg.
 In normal volunteers, fluconazole is cleared primarily by renal excretion, with approximately 80% of the administered dose appearing in the urine as unchanged drug.
 About 11% of the dose is excreted in the urine as metabolites.
 
 The pharmacokinetics of fluconazole are markedly affected by reduction in renal function.
 There is an inverse relationship between the elimination half-life and creatinine clearance.
-The dose of Fluconazole in Sodium Chloride Injection, USP may need to be reduced in patients with impaired renal function.
+The dose of Fluconazole in Sodium Chloride Injection may need to be reduced in patients with impaired renal function.
 (See DOSAGE AND ADMINISTRATION.)
 A 3-hour hemodialysis session decreases plasma concentrations by approximately 50%.
 
 In normal volunteers, fluconazole administration (doses ranging from 200 mg to 400 mg once daily for up to 14 days) was associated with small and inconsistent effects on testosterone concentrations, endogenous corticosteroid concentrations, and the adrenocorticotropic hormone (ACTH)-stimulated cortisol response.
 
-## Pharmacokinetics in Children
+## Pharmacokinetics in Pediatric Patients
 
-In children, the following pharmacokinetic data {Mean (%cv)} have been reported:
+In pediatric patients from 2 days to 15 years of age, the following pharmacokinetic data have been reported following the administration of fluconazole:
 
-| Age Studied | Dose (mg/kg) | Clearance (mL/min/kg) | Half-life (Hours) | Cmax (mcg/mL) | Vdss (L/kg) |
-| --- | --- | --- | --- | --- | --- |
-| 9 months - 13 years | Single-Oral 2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | — |
-| 9 months - 13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | — |
-| 5-15 years | Multiple Intravenous 2 mg/kg | 0.49 (40%) N=4 | 17.4 | 5.5 (25%) N=5 | 0.722 (36%) N=4 |
-| 5-15 years | Multiple Intravenous 4 mg/kg | 0.59 (64%) N=5 | 15.2 | 11.4 (44%) N=6 | 0.729 (33%) N=5 |
-| 5-15 years | Multiple Intravenous 8 mg/kg | 0.66 (31%) N=7 | 17.6 | 14.1 (22%) N=8 | 1.069 (37%) N=7 |
+Table 3: Pharmacokinetic ParametersData for Clearance, Cmax, AUC and Vdss are presented as arithmetic mean (CV%) and Half-life as arithmetic mean only. *AUC0-inf; ^AUC0-24; Abbreviations:Cmax=Peak plasma concentrations, AUC =area under the plasma concentration time curve; and Vdss=volume of distribution at steady state.
+There are limited data available in patients 61 days to less than 9 months of age. of Fluconazole in Pediatric Patients Following the Administration of Fluconazole
 
-Clearance corrected for body weight was not affected by age in these studies.
-Mean body clearance in adults is reported to be 0.23 (17%) mL/min/kg.
+| Age Studied | Dose(mg/kg) | Clearance(mL/min/kg) | Half-life(Hours) | Cmax(mcg/mL) | AUC (mcgh/mL) | Vdss(L/kg) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 to 60 days | Intravenous 25 mg/kg on day one followed by Intravenous 12 mg/kg once daily | 0.29 (35%) N=8 | 54.2 | 23.4(29%) N=8 | 439 (25%) | 1.13 (31%) |
+| 9 months to 13 years | Single-Oral2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | 94.7 (34%)N=14 | N/A |
+| 9 months to 13 years | Single-Oral8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | 362.5 (58%)N=14 | N/A |
+| 5 to 15 years | Multiple Intravenous 2 mg/kg | 0.49 (40%) N=4 | 17.4 | 5.5 (25%) N=5 | 67.4 (26%)^ N=4 | 0.722 (36%) N=4 |
+| 5 to 15 years | Multiple Intravenous4 mg/kg | 0.59 (64%) N=5 | 15.2 | 11.4 (44%) N=6 | 139.1 (46%)^ N=5 | 0.729 (33%) N=5 |
+| 5 to 15 years | Multiple Intravenous8 mg/kg | 0.66 (31%) N=7 | 17.6 | 14.1 (22%) N=8 | 196.7(25%)^ N=7 | 1.069 (37%) N=7 |
 
-In premature newborns (gestational age 26 to 29 weeks), the mean (%cv) clearance within 36 hours of birth was 0.180 (35%, N=7) mL/min/kg, which increased with time to a mean of 0.218 (31%, N=9) mL/min/kg six days later and 0.333 (56%, N=4) mL/min/kg 12 days later.
-Similarly, the half-life was 73.6 hours, which decreased with time to a mean of 53.2 hours six days later and 46.6 hours 12 days later.
+In pediatric patients (premature newborns; gestational age 26 to 29 weeks and postnatal age from birth to 1 day), the mean (%cv) clearance within 36 hours of birth was 0.180 (35%, N=7) mL/min/kg, which increased with time to a mean of 0.218 (31%, N=9) mL/min/kg 6 days later and 0.333 (56%, N=4) mL/min/kg 12 days later.
+Similarly, the half-life was 73.6 hours, which decreased with time to a mean of 53.2 hours 6 days later and 46.6 hours 12 days later.
+
+In a study of 13 pediatric patients (preterm and term infants with median gestational age (GA) of 37 weeks, GA range 24 to 39 weeks; median postnatal age [PNA] 19 days, PNA range 5 to 262 days) 12 infants received a 25 mg/kg loading dose, and 9/12 (75%) achieved an AUC0-24 of >400-mg*h/L in the first 24 hours.
+A population pharmacokinetic model using data from 55 pediatric patients (GA 23 to 40 weeks, PNA 1-88 days) found that a loading dose of 25 mg/kg is necessary to reach target AUC >400-mg*h/L within 24 hours of initiating therapy in pediatric patients younger than 3 months of age.
+A maintenance dose of 9 mg/kg daily should be used in pediatric patients born at GA less than 30 weeks and 12 mg/kg daily in pediatric patients with GA equal or greater than 30 weeks.
+(See DOSAGE AND ADMINISTRATION.)
+
+A population PK model using data from 21 pediatric patients ages from birth to 17 years supported with extracorporeal membrane oxygenation (ECMO), and 19 pediatric non-ECMO patients ages from birth to 2 years found that clearance was related to serum creatinine while a higher volume of distribution was related to presence of ECMO support.
+The median volume of distribution was 1.3 L/kg in pediatric patients on ECMO and 0.9 L/kg in those not on ECMO.
+Simulations suggested that a loading dose of 35 mg/kg is needed to achieve the target AUC0-24 >400 mg*h/L within the first 24 hours in pediatric patients on ECMO.
+(See DOSAGE AND ADMINISTRATION.)
 
 ## Pharmacokinetics in Elderly
 
@@ -102,7 +128,7 @@ After the administration of cimetidine, there was a significant decrease in fluc
 There was a mean ± SD decrease in fluconazole AUC of 13% ± 11% (range: -3.4 to -31%) and Cmax decreased 19% ± 14% (range: -5 to -40%).
 However, the administration of cimetidine 600 mg to 900 mg intravenously over a four-hour period (from one hour before to 3 hours after a single oral dose of fluconazole 200 mg) did not affect the bioavailability or pharmacokinetics of fluconazole in 24 healthy male volunteers.
 
-Antacid: Administration of Maalox (20 mL) to 14 normal male volunteers immediately prior to a single dose of fluconazole 100 mg had no effect on the absorption or elimination of fluconazole.
+Antacid: Administration of Maalox® (20 mL) to 14 normal male volunteers immediately prior to a single dose of fluconazole 100 mg had no effect on the absorption or elimination of fluconazole.
 
 Hydrochlorothiazide: Concomitant oral administration of 100 mg fluconazole and 50 mg hydrochlorothiazide for 10 days in 13 normal volunteers resulted in a significant increase in fluconazole AUC and Cmax compared to fluconazole given alone.
 There was a mean ± SD increase in fluconazole AUC and Cmax of 45% ± 31% (range: 19 to 114%) and 43% ± 31% (range: 19 to 122%), respectively.
@@ -234,12 +260,6 @@ Upregulation of the MDR gene leads to fluconazole resistance, whereas, upregulat
 Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
 For an isolate where the minimum inhibitory concentration (MIC) is categorized as Intermediate (16 to 32 mcg/mL), the highest fluconazole dose is recommended.
 
-Candida krusei should be considered to be resistant to fluconazole.
-Resistance in C.krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
-
-There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
-Such cases may require alternative antifungal therapy.
-
 ## Antimicrobial Activity
 
 Fluconazole has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections.
@@ -268,9 +288,6 @@ Candida lusitaniae
 
 Candida krusei should be considered to be resistant to fluconazole.
 Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
-
-There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
-Such cases may require alternative antifungal therapy.
 
 ## Susceptibility Testing
 

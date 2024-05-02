@@ -8,8 +8,8 @@ Optimal doses and regimens for patients with acute cryptococcal meningitis and a
 ## Pediatric Studies
 
 Oropharyngeal candidiasis: An open-label, comparative study of the efficacy and safety of fluconazole (2 to 3 mg/kg/day) and oral nystatin (400,000 I.U.
-4 times daily) in immunocompromised children with oropharyngeal candidiasis was conducted.
-Clinical and mycological response rates were higher in the children treated with fluconazole.
+4 times daily) was conducted in immunocompromised pediatric patients from 6 months to 13 years of age with oropharyngeal candidiasis.
+Clinical and mycological response rates were higher in pediatric patients treated with fluconazole.
 
 Clinical cure at the end of treatment was reported for 86% of fluconazole-treated patients compared to 46% of nystatin treated patients.
 Mycologically, 76% of fluconazole treated patients had the infecting organism eradicated compared to 11% for nystatin treated patients.
