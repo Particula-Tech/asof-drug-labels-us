@@ -4,9 +4,9 @@
 
 Brinzolamide ophthalmic suspension 1% is a sulfonamide and although administered topically, it is absorbed systemically.
 Therefore, the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration of brinzolamide ophthalmic suspension 1%.
-Fatalities have occurred, although rarely, due to severe reactions to sulfonamides, including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias.
+Fatalities have occurred, although rarely, due to severe reactions to sulfonamides, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias.
 Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration.
-If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation.
+If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation immediately.
 
 ## 5.2 Corneal Endothelium
 
