@@ -45,4 +45,3 @@ Store at room temperature between 68oF and 77oF (20oC and 25oC). with the mouthp
 
 1. 62000000048002 Rev.
    3/20
-2. 
