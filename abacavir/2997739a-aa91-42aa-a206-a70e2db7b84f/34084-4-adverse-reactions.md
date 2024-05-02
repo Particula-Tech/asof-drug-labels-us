@@ -6,8 +6,8 @@ The following adverse reactions are discussed in other sections of the labeling:
 - •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3)].
 - •Hepatotoxicity [see Warnings and Precautions (5.3)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.4)].
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.7)].
-- •Myocardial infarction [see Warnings and Precautions (5.9)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.6)].
+- •Myocardial infarction [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -139,7 +139,7 @@ See also full prescribing information for TIVICAY.
 
 Changes in Serum Creatinine: Dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred within the first 4 weeks of treatment and remained stable through 144 weeks.
-In SINGLE, a mean change from baseline of 0.14 mg per dL (range: -0.25 mg per dL to 0.81 mg per dL) was observed after 144 weeks of treatment.
+In SINGLE, a mean change from baseline of 0.14 mg/dL (range: -0.25 mg/dL to 0.81 mg/dL) was observed after 144 weeks of treatment.
 Creatinine increases were similar in treatment-experienced subjects.
 
 Abacavir and Lamivudine: Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of creatine phosphokinase (CPK), blood glucose, and triglycerides.

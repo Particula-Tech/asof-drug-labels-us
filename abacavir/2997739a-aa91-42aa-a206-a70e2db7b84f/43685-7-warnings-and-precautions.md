@@ -56,7 +56,7 @@ Severe Acute Exacerbations of HBV in Patients Co-infected with HIV-1 and HBV
 
 Severe acute exacerbations of HBV have been reported in patients who are co-infected with HIV-1 and HBV and have discontinued products containing lamivudine, and may occur with discontinuation of TRIUMEQ or TRIUMEQ PD.
 Patients who are co-infected with HIV-1 and HBV who discontinue TRIUMEQ or TRIUMEQ PD should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with TRIUMEQ or TRIUMEQ PD.
-If appropriate, initiation of anti-HBV therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since posttreatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
+If appropriate, initiation of anti-HBV therapy may be warranted, especially in patients with advanced liver disease or cirrhosis since posttreatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
 ## 5.3 Hepatotoxicity
 
@@ -75,19 +75,7 @@ Female sex and obesity may be risk factors for the development of lactic acidosi
 See full prescribing information for ZIAGEN (abacavir) and EPIVIR (lamivudine).
 Treatment with TRIUMEQ or TRIUMEQ PD should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
-## 5.5 Embryo-Fetal Toxicity
-
-An ongoing observational study showed an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
-As there is limited understanding of the association of reported types of neural tube defects with dolutegravir use, inform adolescents and adults of childbearing potential, including those actively trying to become pregnant, about the potential increased risk of neural tube defects with TRIUMEQ.
-Assess the risks and benefits of TRIUMEQ and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester [see Use in Specific Populations (8.1, 8.3)].
-
-Pregnancy testing is recommended before initiation of TRIUMEQ in adolescents and adults of childbearing potential [see Dosage and Administration (2.2)].
-
-Adolescents and adults of childbearing potential should be counseled on the consistent use of effective contraception [see Use in Specific Populations (8.1, 8.3)].
-
-TRIUMEQ may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
-
-## 5.6 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+## 5.5 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 The concomitant use of TRIUMEQ or TRIUMEQ PD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4), Drug Interactions (7.3)]:
 
@@ -97,20 +85,20 @@ The concomitant use of TRIUMEQ or TRIUMEQ PD and other drugs may result in known
 See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during therapy with TRIUMEQ or TRIUMEQ PD, review concomitant medications during therapy with TRIUMEQ or TRIUMEQ PD, and monitor for the adverse reactions associated with the concomitant drugs.
 
-## 5.7 Immune Reconstitution Syndrome
+## 5.6 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including TRIUMEQ or TRIUMEQ PD.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, Guillain-Barré syndrome, autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.8 Different Formulations Are Not Interchangeable
+## 5.7 Different Formulations Are Not Substitutable
 
-TRIUMEQ and TRIUMEQ PD are not bioequivalent and are not interchangeable on a milligram-per-milligram basis [see Clinical Pharmacology (12.3)].
+TRIUMEQ and TRIUMEQ PD are not bioequivalent and are not substitutable on a milligram-per-milligram basis [see Clinical Pharmacology (12.3)].
 If a pediatric patient switches from the tablets for oral suspension to the tablets, the dosage must be adjusted [see Dosage and Administration (2.3, 2.5)].
 Incorrect dosing of a given formulation may result in underdosing and loss of therapeutic effect and possible development of resistance or possible clinically significant adverse reactions from greater exposure to the individual components.
 
-## 5.9 Myocardial Infarction
+## 5.8 Myocardial Infarction
 
 Several prospective, observational, epidemiological studies have reported an association with the use of abacavir and the risk of myocardial infarction (MI).
 Meta-analyses of randomized, controlled clinical trials have observed no excess risk of MI in abacavir‑treated subjects as compared with control subjects.

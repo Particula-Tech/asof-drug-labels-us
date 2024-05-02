@@ -13,7 +13,7 @@ In vitro, dolutegravir did not inhibit (IC50 >50 microM) the following: cytochro
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
-In drug interaction trials, dolutegravir did not have a clinically relevant effect on the pharmacokinetics of the following drugs: daclatasvir, tenofovir, methadone, midazolam, rilpivirine, and oral contraceptives containing norgestimate and ethinyl estradiol.
+In drug interaction trials, dolutegravir did not have a clinically relevant effect on the pharmacokinetics of the following drugs: tenofovir, methadone, midazolam, rilpivirine, and oral contraceptives containing norgestimate and ethinyl estradiol.
 Using cross-study comparisons to historical pharmacokinetic data for each interacting drug, dolutegravir did not appear to affect the pharmacokinetics of the following drugs: atazanavir, darunavir, efavirenz, etravirine, fosamprenavir, lopinavir, ritonavir, and boceprevir.
 
 ## 7.2 Effect of Other Agents on the Pharmacokinetics of Dolutegravir
@@ -28,7 +28,7 @@ Etravirine significantly reduced plasma concentrations of dolutegravir, but the 
 
 In vitro, dolutegravir was not a substrate of OATP1B1 or OATP1B3.
 
-Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, daclatasvir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
+Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 

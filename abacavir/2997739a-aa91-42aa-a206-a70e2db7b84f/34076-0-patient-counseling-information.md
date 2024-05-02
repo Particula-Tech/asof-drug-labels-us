@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Drug Interactions
 
-TRIUMEQ or TRIUMEQ PD may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.6), Drug Interactions (7)].
+TRIUMEQ or TRIUMEQ PD may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Hypersensitivity Reaction
 
@@ -36,23 +36,16 @@ Advise patients to discuss any changes in regimen with their physician [see Warn
 
 Lactic Acidosis/Hepatomegaly
 
-Inform patients that some HIV medicines, including TRIUMEQ and TRIUMEQ PD, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.5)].
-
-Embryo-Fetal Toxicity
-
-Advise adolescents and adults of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of TRIUMEQ with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
-If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
-
-Adolescents and adults of childbearing potential taking TRIUMEQ should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
+Inform patients that some HIV medicines, including TRIUMEQ and TRIUMEQ PD, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.4)].
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ or TRIUMEQ PD is started [see Warnings and Precautions (5.7)].
+Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ or TRIUMEQ PD is started [see Warnings and Precautions (5.6)].
 
 TRIUMEQ Tablets and TRIUMEQ PD Tablets for Oral Suspension Are Not Bioequivalent
 
-Advise patients that TRIUMEQ and TRIUMEQ PD are not bioequivalent and are not interchangeable on a milligram-per-milligram basis.
-Advise patients or their care provider that patients switching from the tablets for oral suspension to the tablets must adjust the dose [see Dosage and Administration (2.3) and Warnings and Precautions (5.8)].
+Advise patients that TRIUMEQ and TRIUMEQ PD are not bioequivalent and are not substitutable on a milligram-per-milligram basis.
+Advise patients or their care provider that patients switching from the tablets for oral suspension to the tablets must adjust the dose [see Dosage and Administration (2.3) and Warnings and Precautions (5.7)].
 
 Pregnancy Registry
 
@@ -60,13 +53,13 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].
 
 Administration Instructions
 
-To avoid a dosing error from using the wrong formulation of TRIUMEQ, strongly advise patients and caregivers to visually inspect the tablets to verify the correct formulation each time the prescription is filled [see Dosage and Administration (2), Warnings and Precautions (5.8), How Supplied/Storage and Handling (16)].
+To avoid a dosing error from using the wrong formulation of TRIUMEQ, strongly advise patients and caregivers to visually inspect the tablets to verify the correct formulation each time the prescription is filled [see Dosage and Administration (2), Warnings and Precautions (5.7), How Supplied/Storage and Handling (16)].
 
-Inform patients and caregivers that TRIUMEQ PD tablets for oral suspension should be dispersed in drinking water and should not be chewed, cut, crushed or swallowed whole [see Dosage and Administration (2.5)].
+Inform patients and caregivers that TRIUMEQ PD tablets for oral suspension should be dispersed in drinking water and should not be chewed, cut, crushed, or swallowed whole [see Dosage and Administration (2.5)].
 Inform patients and caregivers that an appropriate-sized syringe may be used to administer the oral suspension if the patient is unable to use the supplied cup [see Dosage and Administration (2.5)].
 
 Instruct patients and caregivers that if a dose of TRIUMEQ or TRIUMEQ PD is missed, to take it as soon as they remember.
@@ -95,6 +88,6 @@ ViiV Healthcare
 
 Durham, NC 27701
 
-©2023 ViiV Healthcare group of companies or its licensor.
+©2024 ViiV Healthcare group of companies or its licensor.
 
-TRM:16PI
+TRM:17PI

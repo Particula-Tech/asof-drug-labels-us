@@ -28,7 +28,7 @@ Pharmacokinetics in Adults
 One TRIUMEQ tablet was bioequivalent to one dolutegravir (TIVICAY) tablet (50 mg) plus one abacavir and lamivudine fixed-dose combination tablet (EPZICOM) under fasted conditions in healthy subjects (n = 62).
 
 TRIUMEQ tablets and TRIUMEQ PD tablets for oral suspension are bioequivalent for the abacavir and lamivudine components, but not for the dolutegravir component.
-The relative dolutegravir bioavailability of TRIUMEQ PD is approximately 1.7-fold higher than TRIUMEQ; therefore, the 2 dosage forms are not interchangeable on a milligram-per-milligram basis [see Dosage and Administration (2.3), Warnings and Precautions (5.8)].
+The relative dolutegravir bioavailability of TRIUMEQ PD is approximately 1.7-fold higher than TRIUMEQ; therefore, the 2 dosage forms are not substitutable on a milligram-per-milligram basis [see Dosage and Administration (2.3), Warnings and Precautions (5.7)].
 The relative dolutegravir bioavailability is expected to be similar between TRIUMEQ PD and TIVICAY PD.
 
 Abacavir: Following oral administration, abacavir is rapidly absorbed and extensively distributed.
@@ -74,7 +74,7 @@ Approximately 70% of an intravenous dose of lamivudine is recovered as unchanged
 Metabolism of lamivudine is a minor route of elimination.
 In humans, the only known metabolite is the trans‑sulfoxide metabolite (approximately 5% of an oral dose after 12 hours).
 In most single-dose trials with plasma sampling up to 48 or 72 hours after dosing, the observed mean elimination half-life (t½) ranged from 13 to 19 hours.
-In HIV-1–infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
+In HIV-1–infected subjects, total clearance was 398.5 ± 69.1 mL/min (mean ± SD).
 
 Effect of Food on Oral Absorption
 
@@ -151,7 +151,6 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | Coadministered Drug(s) and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |  |  |  |  |  |  |  |  |  |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |  |  |  |  |  |  |  |  |  |
 | Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | — |  |  |  |  |  |  |  |  |  |
 | Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | — |  |  |  |  |  |  |  |  |  |
@@ -187,7 +186,6 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.29 (1.07 to 1.57) | 1.33 (1.11 to 1.59) | 1.45 (1.25 to 1.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

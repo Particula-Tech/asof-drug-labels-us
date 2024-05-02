@@ -1,21 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Screening for HLA−B*5701 Allele prior to Initiating TRIUMEQ
+
+Screen for the HLA‑B*5701 allele prior to initiating therapy with TRIUMEQ or TRIUMEQ PD [see Boxed Warning, Warnings and Precautions (5.1)].
+
 ## 2.2 Testing prior to or When Initiating Treatment with TRIUMEQ
 
 Prior to or when initiating TRIUMEQ or TRIUMEQ PD, test patients for HBV infection [see Warnings and Precautions (5.2)].
 
-Pregnancy testing is recommended before initiation of TRIUMEQ in adolescents and adults of childbearing potential [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
-
 ## 2.3 Overview of TRIUMEQ Dosage Forms
 
 TRIUMEQ is available in two dosage forms.
-Do not interchange TRIUMEQ tablets and TRIUMEQ PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles for the dolutegravir component [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Do not substitute TRIUMEQ tablets and TRIUMEQ PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles for the dolutegravir component [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
 
 - •TRIUMEQ tablets: 600 mg of abacavir, 50 mg of dolutegravir, and 300 mg of lamivudine.
   TRIUMEQ is recommended in adults and pediatric patients weighing at least 25 kg [see Dosage and Administration (2.4, 2.5)].
 - •TRIUMEQ PD tablets for oral suspension: 60 mg of abacavir, 5 mg of dolutegravir, and 30 mg of lamivudine.
-  TRIUMEQ PD is recommended in pediatric patients weighing 6 kg to less than 25 kg.
-  [see Dosage and Administration (2.5)].
+  TRIUMEQ PD is recommended in pediatric patients weighing 6 kg to less than 25 kg [see Dosage and Administration (2.5)].
 - •Because TRIUMEQ PD is a fixed-dose tablet and the dosage of individual components cannot be adjusted, it may lead to a suboptimal dosing for patients weighing ≥25 kg.
   TRIUMEQ PD is not recommended in patients weighing 25 kg or more [see Dosage and Administration (2.4, 2.5)].
 
@@ -61,7 +62,7 @@ Dosing Recommendations for TRIUMEQ and TRIUMEQ PD with Coadministered Medication
 
 | Coadministered Drug | Dosing Recommendation |
 | --- | --- |
-| Efavirenz, fosamprenavir/ritonavir, tipranavir/ritonavir, carbamazepine, or rifampin | In adults and in pediatric patients weighing at least 25 kg, the recommended dolutegravir dosage regimen is 50 mg twice daily. Thus, an additional TIVICAY 50-mg tablet, separated by 12 hours from TRIUMEQ, should be taken. In pediatric patients weighing 10 kg to <25 kg, an additional weight-based dose of dolutegravir should be given separated by 12 hours from TRIUMEQ PD. •6 to <10 kg: administer an additional 15-mg dose of dolutegravir (3 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD.•10 to <14 kg: administer an additional 20-mg dose of dolutegravir (4 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•14 to <20 kg: administer an additional 25-mg dose of dolutegravir (5 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•20 to <25 kg: administer an additional 30-mg dose of dolutegravir (6 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD. |
+| Efavirenz, fosamprenavir/ritonavir, tipranavir/ritonavir, carbamazepine, or rifampin | In adults and in pediatric patients weighing at least 25 kg, the recommended dolutegravir dosage regimen is 50 mg twice daily. Thus, an additional TIVICAY 50-mg tablet, separated by 12 hours from TRIUMEQ, should be taken. In pediatric patients weighing 6 kg to <25 kg, an additional weight-based dose of dolutegravir should be given separated by 12 hours from TRIUMEQ PD. •6 to <10 kg: administer an additional 15-mg dose of dolutegravir (3 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD.•10 to <14 kg: administer an additional 20-mg dose of dolutegravir (4 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•14 to <20 kg: administer an additional 25-mg dose of dolutegravir (5 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD,•20 to <25 kg: administer an additional 30-mg dose of dolutegravir (6 TIVICAY PD tablets for oral suspension), 12 hours after TRIUMEQ PD. |
 
 ## 2.7 Not Recommended Due to Lack of Dosage Adjustment
 
