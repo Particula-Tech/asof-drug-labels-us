@@ -9,7 +9,7 @@ DOVATO is a fixed-dose combination of the HIV‑1 antiretroviral agents, doluteg
 Cardiac Electrophysiology
 
 The effect of combination therapy as DOVATO or lamivudine given alone on the QT interval has not been studied.
-At a 250-mg suspension dose (exposures approximately 3–fold that of the 50-mg once-daily dose at steady state), dolutegravir given alone did not prolong the QTc interval to any clinically relevant extent.
+At a 250-mg suspension dose (exposures approximately 3-fold that of the 50-mg once-daily dose at steady state), dolutegravir given alone did not prolong the QTc interval to any clinically relevant extent.
 
 Effects of Dolutegravir on Renal Function
 

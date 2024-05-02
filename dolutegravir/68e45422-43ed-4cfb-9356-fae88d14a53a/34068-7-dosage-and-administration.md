@@ -4,8 +4,6 @@
 
 Prior to or when initiating DOVATO, test patients for HBV infection [see Warnings and Precautions (5.1)].
 
-Pregnancy testing is recommended before initiation of DOVATO in individuals of childbearing potential [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
-
 ## 2.2 Recommended Dosage
 
 DOVATO is a fixed-dose combination product containing 50 mg of dolutegravir and 300 mg of lamivudine.

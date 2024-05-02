@@ -5,8 +5,8 @@ The following adverse reactions are discussed in other sections of the labeling:
 - •Patients co-infected with HIV-1 and HBV [see Warnings and Precautions (5.1)]
 - •Hypersensitivity reactions [see Warnings and Precautions (5.2)]
 - •Hepatotoxicity [see Warnings and Precautions (5.3)]
-- •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.5)]
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.7)]
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.4)]
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -80,7 +80,7 @@ The mean change from baseline observed for selected lipid values is presented in
 Table 3.
 Selected Laboratory Abnormalities (Grades 2 to 4; Week 144 Pooled Analyses) in GEMINI-1 and GEMINI-2 Trials
 
-| Laboratory Parameter Abnormality | TIVICAY plus EPIVIR (n = 716) | TIVICAY plus TRUVADA(n = 717) |  |  |  |
+| Laboratory ParameterAbnormality | TIVICAY plus EPIVIR(n = 716) | TIVICAY plus TRUVADA(n = 717) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Alanine aminotransferase (ALT) |  |  |  |  |  |
 | Grade 2 (2.5 to <5.0 x ULN) | 4% | 4% |  |  |  |
@@ -151,7 +151,7 @@ Anemia (including pure red cell aplasia and severe anemias progressing on therap
 
 Hepatic and Pancreatic
 
-Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.5)], pancreatitis, posttreatment exacerbations of HBV [see Warnings and Precautions (5.1)].
+Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.4)], pancreatitis, posttreatment exacerbations of HBV [see Warnings and Precautions (5.1)].
 
 Hepatobiliary Disorders
 

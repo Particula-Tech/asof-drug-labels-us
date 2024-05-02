@@ -9,43 +9,44 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Data from an ongoing birth outcome surveillance study have identified an increased risk of neural tube defects when dolutegravir, a component of DOVATO, is administered at the time of conception.
-As defects related to closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk.
-
-Advise individuals of childbearing potential, including those actively trying to become pregnant, of the potential risk of neural tube defects with use of DOVATO.
-Assess the risks and benefits of DOVATO and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester.
-A benefit-risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development [see Warnings and Precautions (5.4)].
+Data from two, ongoing birth outcome surveillance studies in Botswana and Eswatini which together include over 14,000 individuals evaluated during pregnancy show similar prevalence of neural tube defects among infants born to individuals taking dolutegravir at the time of conception compared to those born to individuals taking non-dolutegravir-containing regimens at conception or infants born to HIV-negative individuals (see Data).
 
 There are insufficient human data on the use of DOVATO during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
+However, available human data from the APR with the individual components of DOVATO do not indicate an increased risk of birth defects (see Data).
 The background risk for major birth defects for the indicated population is unknown.
 In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and 50 times (rats) the exposure in humans at the recommended human dose (RHD) (see Data).
+In animal reproduction studies, no evidence of adverse developmental outcomes (including neural tube defects) was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and 50 times (rats) the exposure in humans at the recommended human dose (RHD) (see Data).
 Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at systemic exposure (AUC) similar to the RHD; however, no adverse developmental effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 35 times the RHD (see Data).
 
 Data
 
-Human Data:Dolutegravir: In a birth outcome surveillance study in Botswana, there were 7 cases of neural tube defects reported out of 3,591 deliveries (0.19%) to women who were exposed to dolutegravir-containing regimens at the time of conception.
-In comparison, the neural tube defect prevalence rates were 0.11% (21/19,361 deliveries) in the non-dolutegravir arm and 0.07% (87/119,630 deliveries) in the HIV-uninfected arm.
-Seven cases reported with dolutegravir included 3 cases of myelomeningocele, 2 cases of encephalocele, and one case each of anencephaly and iniencephaly.
-In the same study, no increased risk of neural tube defects was identified in women who started dolutegravir during pregnancy.
-Two infants out of 4,448 (0.04%) deliveries to women who started dolutegravir during pregnancy had a neural tube defect, compared with 5 infants out of 6,748 (0.07%) deliveries to women who started non-dolutegravir-containing regimens during pregnancy.
-The reported risks of neural tube defects by treatment groups were based on interim analyses from the ongoing surveillance study in Botswana.
-It is unknown if baseline characteristics were balanced between the study treatment groups.
-The observed trends of association could change as data accumulate.
+Human Data:
 
-Data analyzed to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to definitively address the risk of neural tube defects with dolutegravir.
+Dolutegravir:
 
-Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
+Observational studies: The first interim analysis from an ongoing birth outcome surveillance study in Botswana identified an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
+A subsequent analysis was conducted based on a larger cohort from the birth outcome surveillance study in Botswana and included over 9,460 individuals exposed to dolutegravir at conception, 23,664 individuals exposed to non-dolutegravir-containing regimens, and 170,723 HIV-negative pregnant individuals.
+The prevalence of neural tube defects in infants delivered to individuals taking dolutegravir at conception was 0.11% (95% CI: 0.05-0.19%).
+The observed prevalence rate did not differ significantly from that of infants delivered to individuals taking non-dolutegravir-containing regimens (0.11%, 95% CI: 0.07-0.16%), or to HIV-negative individuals (0.06%, 95% CI: 0.05-0.08%).
 
-Based on prospective reports to the APR of 842 exposures to dolutegravir during pregnancy resulting in live births (including 512 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 1.9% to 5.3%) following first-trimester exposure to dolutegravir-containing regimens and 4.8% (95% CI: 2.8% to 7.8%) following second-/third-trimester exposure to dolutegravir-containing regimens.
+The Eswatini birth outcome surveillance study includes 9,743 individuals exposed to dolutegravir at conception, 1,838 individuals exposed to non-dolutegravir-containing regimens, and 32,259 HIV-negative pregnant individuals.
+The prevalence of neural tube defects in infants delivered to individuals taking dolutegravir at conception was 0.08% (95% CI: 0.04-0.16%).
+The observed prevalence rate did not differ significantly from that of infants delivered to individuals taking non-dolutegravir-containing regimens (0.22%, 95% CI: 0.06-0.56%) or to HIV-negative individuals (0.08%, 95% CI: 0.06-0.12%).
+The observed prevalence of neural tube defects in infants delivered to individuals taking non-dolutegravir-containing regimens had a wide confidence interval due to low sample size.
+
+Limitations of these birth outcome surveillance studies include insufficient data to determine if baseline characteristics were balanced between the study groups or to assess other factors such as the use of folic acid during the preconception or first trimester periods.
+
+Antiretroviral Pregnancy Registry:
+
+Based on prospective reports to the APR, of 1,377 exposures to dolutegravir during pregnancy resulting in live births (including 874 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 2.2% to 4.7%) following first-trimester exposure to dolutegravir-containing regimens and 5.0% (95% CI: 3.2% to 7.3%) following second-/third-trimester exposure to dolutegravir-containing regimens.
 In the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP), the background birth defect rate was 2.7%.
 
 Dolutegravir has been shown to cross the placenta.
-In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51-2.11) (n = 15).
+In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51 to 2.11) (n = 15).
 
-Lamivudine: Based on prospective reports to the APR of exposures to lamivudine during pregnancy resulting in live births (including over 5,300 exposed in the first trimester and over 7,400 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in live births was 3.1% (95% CI: 2.7% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
+Lamivudine: Based on prospective reports to the APR of exposures to lamivudine during pregnancy resulting in live births (including over 5,600 exposed in the first trimester and over 7,500 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
 The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, 10 women at 38 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, and 10 women at 38 weeks’ gestation using lamivudine 300 mg twice daily without other antiretrovirals.
@@ -54,7 +55,9 @@ Lamivudine concentrations were generally similar in maternal, neonatal, and umbi
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
 Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9-fold (1.2- to 12.8-fold) greater compared with paired maternal serum concentration (n = 8).
 
-Animal Data: Dolutegravir: Dolutegravir was administered orally to pregnant rats and rabbits (up to 1,000 mg/kg/day) on Gestation Days 6 to 17 and 6 to 18, respectively, and also to rats on Gestation Day 6 to Lactation/Postpartum Day 20.
+Animal Data:
+
+Dolutegravir: Dolutegravir was administered orally to pregnant rats and rabbits (up to 1,000 mg/kg/day) on Gestation Days 6 to 17 and 6 to 18, respectively, and also to rats on Gestation Day 6 to Lactation/Postpartum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) development were observed up to the highest dose tested.
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the RHD and in rats were approximately 50 times the exposure in humans at the RHD.
 In the rat pre/postnatal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 50 times human exposure at the RHD).
@@ -74,18 +77,6 @@ Dolutegravir and lamivudine are present in human milk.
 There is no information on the effects of DOVATO or the components of DOVATO on the breastfed infant or the effects of the drugs on milk production.
 
 Potential risks of breastfeeding include: (1) HIV‑1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
-
-## 8.3 Females and Males of Reproductive Potential
-
-In individuals of childbearing potential currently on DOVATO who are actively trying to become pregnant or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing DOVATO and discuss with the patient if an alternative treatment should be considered [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
-
-Pregnancy Testing
-
-Pregnancy testing is recommended in individuals of childbearing potential before initiation of DOVATO [see Dosage and Administration (2.1)].
-
-Contraception
-
-Individuals of childbearing potential who are taking DOVATO should be counseled on the consistent use of effective contraception.
 
 ## 8.4 Pediatric Use
 

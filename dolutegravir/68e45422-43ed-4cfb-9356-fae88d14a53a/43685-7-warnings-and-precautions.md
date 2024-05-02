@@ -34,19 +34,7 @@ Cases of hepatic toxicity, including elevated serum liver biochemistries, hepati
 Drug-induced liver injury leading to liver transplant has been reported with TRIUMEQ (abacavir, dolutegravir, and lamivudine).
 Monitoring for hepatotoxicity is recommended.
 
-## 5.4 Embryo-Fetal Toxicity
-
-An ongoing observational study showed an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
-As there is limited understanding of the association of reported types of neural tube defects with dolutegravir use, inform individuals of childbearing potential, including those actively trying to become pregnant, about the potential increased risk of neural tube defects with DOVATO.
-Assess the risks and benefits of DOVATO and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester [see Use in Specific Populations (8.1, 8.3)].
-
-Pregnancy testing is recommended before initiation of DOVATO in individuals of childbearing potential [see Dosage and Administration (2.1)].
-
-Individuals of childbearing potential should be counseled on the consistent use of effective contraception [see Use in Specific Populations (8.1, 8.3)].
-
-DOVATO may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
-
-## 5.5 Lactic Acidosis and Severe Hepatomegaly with Steatosis
+## 5.4 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including lamivudine (a component of DOVATO).
 A majority of these cases have been in women.
@@ -54,7 +42,7 @@ Female sex and obesity may be risk factors for the development of lactic acidosi
 Monitor closely when administering DOVATO to any patient with known risk factors for liver disease.
 Treatment with DOVATO should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
-## 5.6 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+## 5.5 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 The coadministration of DOVATO and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4), Drug Interactions (7.4)]:
 
@@ -64,7 +52,7 @@ The coadministration of DOVATO and other drugs may result in known or potentiall
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during therapy with DOVATO, review coadministered drugs during therapy with DOVATO, and monitor for the adverse reactions associated with the coadministered drugs.
 
-## 5.7 Immune Reconstitution Syndrome
+## 5.6 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including DOVATO.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.

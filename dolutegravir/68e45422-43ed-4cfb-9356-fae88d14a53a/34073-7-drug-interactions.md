@@ -3,7 +3,7 @@
 ## 7.1 Coadministration with Other Antiretroviral Drugs
 
 DOVATO is a complete regimen for the treatment of HIV-1 infection; therefore, coadministration with other antiretroviral drugs for the treatment of HIV-1 infection is not recommended [see Indications and Usage (1)].
-Information regarding potential drug-drug interactions with other antiretroviral drugs is not provided [see Contraindications (4), Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
+Information regarding potential drug-drug interactions with other antiretroviral drugs is not provided [see Contraindications (4), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 ## 7.2 Potential for DOVATO to Affect Other Drugs
 
@@ -30,7 +30,7 @@ Established and Other Potentially Significant Drug Interactions for DOVATO: Alte
 
 | Coadministered Drug Class:Drug Name | Effect on Concentration | Clinical Comment |
 | --- | --- | --- |
-| Antiarrhythmic: Dofetilide | ↑Dofetilide | Coadministration is contraindicated with DOVATO [see Contraindications (4)]. |
+| Antiarrhythmic:Dofetilide | ↑Dofetilide | Coadministration is contraindicated with DOVATO [see Contraindications (4)]. |
 | Anticonvulsant:Carbamazepinea | ↓Dolutegravir | An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from DOVATO [see Dosage and Administration (2.3)]. |
 | Anticonvulsants:OxcarbazepinePhenytoin Phenobarbital | ↓Dolutegravir | Avoid coadministration with DOVATO because there are insufficient data to make dosing recommendations. |
 | Antidiabetic:Metformina | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of DOVATO and metformin. |

@@ -25,20 +25,13 @@ Hepatotoxicity
 Inform patients that hepatotoxicity has been reported with dolutegravir, a component of DOVATO [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
 Inform patients that monitoring for hepatotoxicity during therapy with DOVATO is recommended.
 
-Embryo-Fetal Toxicity
-
-Advise individuals of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of DOVATO with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
-If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precaution (5.4), Use in Specific Populations (8.1, 8.3)].
-
-Individuals of childbearing potential taking DOVATO should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
-
 Lactic Acidosis/Hepatomegaly with Steatosis
 
-Inform patients that some HIV medicines, including DOVATO, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Warnings and Precautions (5.5)].
+Inform patients that some HIV medicines, including DOVATO, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Warnings and Precautions (5.4)].
 
 Drug Interactions
 
-DOVATO may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.6), Drug Interactions (7)].
+DOVATO may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Immune Reconstitution Syndrome
 
@@ -61,11 +54,10 @@ DOVATO, EPIVIR, TIVICAY, and TRIUMEQ are trademarks owned by or licensed to the 
 
 The other brand listed is a trademark owned by or licensed to its respective owner and is not owned by or licensed to the ViiV Healthcare group of companies.
 The maker of this brand is not affiliated with and does not endorse the ViiV Healthcare group of companies or its products.
-
 Manufactured for:
 
 ViiV Healthcare Durham, NC 27701
 
 ©2024 ViiV Healthcare group of companies or its licensor.
 
-DVT:13PI
+DVT:14PI
