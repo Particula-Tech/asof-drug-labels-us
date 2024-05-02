@@ -6,12 +6,6 @@ SULFATRIM™ PEDIATRIC SUSPENSION (sulfamethoxazole and trimethoprim oral suspen
 
 CHERRY FLAVOR
 
-Each 5 mL (teaspoonful) contains:
-
-Sulfamethoxazole, USP 200 mg Trimethoprim, USP 40 mg Alcohol NMT 0.5%
-
-Rx Only
-
-16 FL OZ (473 mL)
-
-Pharmaceutical Associates, Inc. Greenville, SC 29605
+Each 5 mL (teaspoonful) contains: Sulfamethoxazole, USP......
+200 mg Trimethoprim, USP..............
+40 mg Alcohol.............................NMT 0.5%

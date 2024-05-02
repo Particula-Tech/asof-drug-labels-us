@@ -128,28 +128,26 @@ The presence of sulfamethoxazole and trimethoprim may also interfere with the Ja
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
-### Carcinogenesis
+Carcinogenesis
 
 Long-term studies in animals to evaluate carcinogenic potential have not been conducted with sulfamethoxazole and trimethoprim.
 
-### Mutagenesis
+Mutagenesis
 
 Bacterial mutagenic studies have not been performed with sulfamethoxazole and trimethoprim in combination.
 Trimethoprim was demonstrated to be nonmutagenic in the Ames assay.
 No chromosomal damage was observed in human leukocytes cultured in vitro with sulfamethoxazole and trimethoprim alone or in combination; the concentrations used exceeded blood levels of these compounds following therapy with sulfamethoxazole and trimethoprim.
 Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities.
 
-### Impairment of Fertility
+Impairment of Fertility
 
 No adverse effects on fertility or general reproductive performance were observed in rats given oral dosages as high as 350 mg/kg/day sulfamethoxazole plus 70 mg/kg/day trimethoprim.
 
 ## Pregnancy
 
-### Teratogenic effects
+Tetatogenic effects
 
-#### Pregnancy Category C
-
-In rats, oral doses of 533 mg/kg or 200 mg/kg produced teratologic effects manifested mainly as cleft palates.
+Pregnancy C. In rats, oral doses of 533 mg/kg or 200 mg/kg produced teratologic effects manifested mainly as cleft palates.
 
 The highest dose which did not cause cleft palates in rats was 512 mg/kg sulfamethoxazole or 192 mg/kg trimethoprim when administered separately.
 In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole was used in combination with 128 mg/kg of trimethoprim.
@@ -157,14 +155,14 @@ In one study, however, cleft palates were observed in one litter out of 9 when 3
 
 In some rabbit studies, an overall increase in fetal loss (dead and resorbed and malformed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose.
 
-While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell, 9 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,9 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly thereafter.
 
 Because sulfamethoxazole and trimethoprim may interfere with folic acid metabolism, sulfamethoxazole and trimethoprim should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic effects
+Nonteratogenic effects
 
 See CONTRAINDICATIONS section.
 
