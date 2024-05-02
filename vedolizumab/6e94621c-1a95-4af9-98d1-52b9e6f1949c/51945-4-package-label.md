@@ -24,6 +24,8 @@ Must be reconstituted and diluted prior to use
 
 Single-Dose Vial - Discard Unused Portion
 
+Takeda
+
 # PRINCIPAL DISPLAY PANEL - 108 mg/0.68 mL Pen Tray Carton
 
 NDC 64764-108-21 Rx only

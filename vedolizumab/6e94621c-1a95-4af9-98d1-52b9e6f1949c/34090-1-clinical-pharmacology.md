@@ -28,17 +28,17 @@ Mean ± SD Vedolizumab Concentrations in PatientsData from patients in UC Trials
 
 | Trough Serum Concentration at Week 6 (mcg/mL) | Trough Serum Concentration at Week 46Steady-state trough serum concentration. (mcg/mL) |  |
 | --- | --- | --- |
-| Patient Population | Weeks 0, 2 and 6 ENTYVIO 300 mg Intravenously | After Week 6 to 52 ENTYVIO 300 mg Intravenously Every 8 Weeks |
+| Patient Population | Weeks 0, 2, and 6 ENTYVIO 300 mg Intravenously | After Week 6 to 52 ENTYVIO 300 mg Intravenously Every 8 Weeks |
 | Ulcerative Colitis | 26.3 ± 12.9 (N=210) | 11.2 ± 7.2 (N=77) |
 | Crohn's Disease | 27.4 ± 19.2 (N=198) | 13.0 ± 9.1 (N=72) |
 
-In ulcerative colitis patients administered 300 mg ENTYVIO as a 30-minute intravenous infusion on weeks 0 and 2, followed by 108 mg ENTYVIO as a subcutaneous injection every 2 weeks starting from week 6, the mean steady state serum trough concentrations were 35.8 mcg/mL (SD ± 15.2).
+In ulcerative colitis and Crohn’s disease patients, administered 300 mg ENTYVIO as a 30-minute intravenous infusion on Weeks 0 and 2, followed by 108 mg ENTYVIO as a subcutaneous injection every 2 weeks starting from Week 6, the mean steady state serum trough concentrations were 35.8 mcg/mL (SD ± 15.2) and 31.4 mcg/mL (SD ± 14.7), respectively.
 
 The bioavailability of vedolizumab following a 108 mg single-dose subcutaneous injection relative to a 300 mg single-dose intravenous infusion in healthy subjects was approximately 75%.
 Following a 108 mg single-dose subcutaneous injection in healthy subjects, the median Tmax was 7 days with a range of 3 to 14 days and the mean Cmax was 15.4 mcg/mL (SD ± 3.2).
 
 Vedolizumab clearance depends on both linear and nonlinear pathways; the nonlinear clearance decreases with increasing concentrations.
-Population pharmacokinetic analyses indicated that the linear clearance was approximately 0.169 L/day, the serum half-life was approximately 24 days at 300 mg dosage, and the distribution volume was approximately 5 L.
+Population pharmacokinetic analyses indicated that the linear clearance was approximately 0.16 L/day, the serum half-life was approximately 26 days, and the distribution volume was approximately 5 L.
 
 Vedolizumab was not detected in the cerebrospinal fluid (CSF) of 14 healthy subjects at five weeks after a single intravenous administration of 450 mg ENTYVIO (1.5 times the recommended dosage).
 
@@ -56,14 +56,14 @@ Differences in assay methods preclude meaningful comparisons of the incidence of
 Adults Treated with Intravenous ENTYVIO
 
 The incidence of anti-drug antibodies to intravenous ENTYVIO using a drug-tolerant electrochemiluminescence (ECL) method for patients in UC Trials I and II and CD Trials I and III who had continuous ENTYVIO treatment administered as an intravenous infusion for 52 weeks was 6% (86 out of 1,427 total ENTYVIO-treated patients).
-Of the 86 patients who tested positive for anti-vedolizumab antibodies, 20 patients were persistently positive (at two or more study visits) and 56 developed neutralizing antibodies to vedolizumab.
+Of the 86 patients who tested positive for anti-vedolizumab antibodies, 20 patients were persistently positive (at two or more consecutive study visits) and 56 developed neutralizing antibodies to vedolizumab.
 
 Among the ENTYVIO-treated patients who developed persistent anti-vedolizumab antibodies, 14/20 patients had serum vedolizumab trough concentrations that were markedly reduced or undetectable and 15/20 patients did not achieve clinical remission at Week 52 in UC Trials I and II and CD Trials I and III.
-Because of the low occurrence of persistent anti-vedolizumab antibodies (1%; 20/1427), the effect of these antibodies on the safety and effectiveness of ENTYVIO in these studies has not been fully characterized.
+Because of the low occurrence of persistent anti-vedolizumab antibodies (1%; 20/1,427), the effect of these antibodies on the safety and effectiveness of ENTYVIO in these studies has not been fully characterized.
 
 Adults Treated with Subcutaneous ENTYVIO
 
-The incidence of anti-drug antibodies to ENTYVIO using a drug-tolerant ECL method for patients in SC UC Trial who had continuous treatment for 52 weeks was 6% (6 out of 106 total patients treated with subcutaneous ENTYVIO).
-Of the 6 patients who tested positive for anti-vedolizumab antibodies, 4 patients were persistently positive (at two or more study visits) and 3 patients developed neutralizing antibodies to vedolizumab.
-None of the 6 patients with positive anti-vedolizumab antibodies achieved clinical remission at Week 52.
-There is insufficient data to assess the effect of anti-drug antibodies on pharmacokinetics, effectiveness, and safety of ENTYVIO in the SC UC Trial.
+The incidence of anti-drug antibodies to ENTYVIO using a drug-tolerant ECL method for patients in SC UC Trial and SC CD Trial who had continuous treatment for 52 weeks was 3.4% (13 out of 381 total patients treated with subcutaneous ENTYVIO).
+Of the 13 patients who tested positive for anti-vedolizumab antibodies, 7 patients were persistently positive (at two or more consecutive study visits) and 7 patients developed neutralizing antibodies to vedolizumab.
+Two of the 7 patients with Crohn’s disease and none of the 6 patients with ulcerative colitis who had positive anti-vedolizumab antibodies achieved clinical remission at Week 52.
+There is insufficient data to assess the effect of anti-drug antibodies on pharmacokinetics, effectiveness, and safety of ENTYVIO in the SC UC and SC CD trials.

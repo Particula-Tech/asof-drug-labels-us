@@ -26,5 +26,5 @@ Storage and Handling
   Do not use ENTYVIO prefilled syringe or ENTYVIO PEN if left out of the refrigerator for more than 7 days.
 - Do not freeze ENTYVIO vial, prefilled syringe, or prefilled pen.
   Do not use ENTYVIO vial, prefilled syringe, or prefilled pen if it has been frozen.
-- Do not shake the ENTYVIO prefilled syringe, or ENTYVIO PEN.
+- Do not shake the ENTYVIO prefilled syringe or ENTYVIO PEN.
 - Retain in original package to protect from light until the time of use.
