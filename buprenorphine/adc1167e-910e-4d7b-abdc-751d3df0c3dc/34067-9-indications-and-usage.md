@@ -8,3 +8,5 @@ Because of the risks of addiction, abuse, and misuse with opioids, even at recom
 
 - Have not been tolerated, or are not expected to be tolerated,
 - Have not provided adequate analgesia, or are not expected to provide adequate analgesia.
+
+Buprenorphine HCl Injection should not be used for an extended period of time unless the pain remains severe enough to require an opioid analgesic and for which alternative treatment options continue to be inadequate.

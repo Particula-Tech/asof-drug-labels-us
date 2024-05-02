@@ -4,7 +4,8 @@ Buprenorphine Hydrochloride Injection is supplied in amber glass vials of 1 mL (
 
 NDC 0143-9246-05; carton of 5 vials.
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (between 59°F and 86°F).
+[USP Controlled Room Temperature].
 Protect from prolonged exposure to light.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
@@ -23,6 +24,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-Revised July 2022
+Revised April 2024
 
-PIN444-WES/4
+PIN444-WES/5

@@ -6,28 +6,33 @@ Buprenorphine HCl Injection contains buprenorphine, a Schedule III controlled su
 
 ## Abuse
 
-Buprenorphine HCl Injection contains buprenorphine, a Schedule III controlled substance with an abuse potential similar to other Schedule III opioids.
-Buprenorphine HCl can be abused and is subject to misuse, addiction and criminal diversion [see BOXED WARNING, WARNINGS, PRECAUTIONS].
+Buprenorphine HCl Injection contains buprenorphine, a substance with high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see WARNINGS].
 
-All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
-Prescription drug abuse is the intentional, non-therapeutic use of prescription drug, even once, for its rewarding psychological or physiological effects.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes physical withdrawal.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
-"Drug seeking" behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of the office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating health care providers.
-“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addictions.
-Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
+Misuse and abuse of buprenorphine HCl increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
+The risk is increased with concurrent abuse of buprenorphine HCl with alcohol and/or other CNS depressants.
+Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and
 
-Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Health care providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
-In addition, abuse of opioids can occur in the absence of true addiction.
+symptoms of physical dependence.
+In addition, abuse of opioids can occur in the absence of addiction.
 
-Buprenorphine HCl, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
-Careful record-keeping of prescribing information, including quantity and frequency, as required by state and federal law, is strongly advised.
+All patients treated with opioids require careful and frequent reevaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Patients at high risk of buprenorphine HCl abuse include those with a history of prolonged use of any opioid, including products containing buprenorphine, those with drug or alcohol abuse, or those who use buprenorphine HCl in combination with other abused drugs.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
+
+Buprenorphine HCl, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
+Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
+
+Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 ### Risks Specific to Abuse of Buprenorphine HCl
 
@@ -39,16 +44,22 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 ## Dependence
 
 Both tolerance and physical dependence can develop during chronic therapy.
-Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
-Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+
+Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
+
+Buprenorphine HCl should not be abruptly discontinued in a physically-dependent patient [see DOSAGE and ADMINISTRATION].
+If buprenorphine HCl is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur, typically characterized by restlessness, lacrimation, rhinorrhea, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Pregnancy].
 
 Buprenorphine HCl should not be abruptly discontinued [see DOSAGE AND ADMINISTRATION].
-If buprenorphine HCl is abruptly discontinued in a physically-dependent patient, an abstinence a withdrawal syndrome may occur.
-Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+If buprenorphine HCl is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur, typically characterized by restlessness, lacrimation, rhinorrhea, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see BOXED WARNING, WARNINGS: Neonatal Opioid Withdrawal Syndrome, PRECAUTIONS: Pregnancy].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Pregnancy].

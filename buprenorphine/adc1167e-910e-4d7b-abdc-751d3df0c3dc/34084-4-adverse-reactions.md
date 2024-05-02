@@ -21,15 +21,15 @@ The following adverse reactions were reported to have occurred in less than 1% o
 
 CNS Effect: confusion, blurred vision, euphoria, weakness/fatigue, dry mouth, nervousness, depression, slurred speech, paresthesia.
 
-Cardiovascular:hypertension, tachycardia, bradycardia.
+Cardiovascular: hypertension, tachycardia, bradycardia.
 
-Gastrointestinal:constipation.
+Gastrointestinal: constipation.
 
 Respiratory: dyspnea, cyanosis.
 
-Dermatological:pruritus.
+Dermatological: pruritus.
 
-Ophthalmological:diplopia, visual abnormalities.
+Ophthalmological: diplopia, visual abnormalities.
 
 Miscellaneous: injection site reaction, urinary retention, dreaming, flushing/warmth, chills/cold, tinnitus, conjunctivitis, Wenckebach block, and psychosis.
 
@@ -37,7 +37,7 @@ Other effects observed infrequently include malaise, hallucinations, depersonali
 
 The following reactions have been reported to occur rarely: loss of appetite, dysphoria/agitation, diarrhea, urticaria, and convulsions/lack of muscle coordination.
 
-Allergic Reactions:Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in the postmarketing experience of buprenorphine HCl injection and other buprenorphine-containing products.
+Allergic Reactions: Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in the postmarketing experience of buprenorphine HCl injection and other buprenorphine-containing products.
 The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 A history of hypersensitivity to buprenorphine is a contraindication to buprenorphine HCl injection.
@@ -53,3 +53,8 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see WARNINGS].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
