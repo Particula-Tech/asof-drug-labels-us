@@ -7,7 +7,7 @@ Proper Preparation and Administration Advise patients or caregivers on proper ha
 Embryo-Fetal Toxicity
 
 - Advise pregnant women of the potential risk to a fetus.
-  Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6), Use in Specific Populations (8.1)].
+  Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.2, 5.6), Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment with PURIXAN and for 6 months after the last dose [see Use in Specific Populations (8.3)].
 - Advise males with female partners of reproductive potential to use effective contraception during treatment with PURIXAN and for 3 months after the last dose [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 
@@ -19,4 +19,4 @@ Manufactured by: Nova Laboratories Ltd Leicester LE 18 4YL United Kingdom
 
 Manufactured for: Rare Disease Therapeutics 2550 Meridian Blvd., Suite 150 Franklin, TN 37067 www.raretx.com
 
-Part Number: D001089/1
+Part Number: D001416/1

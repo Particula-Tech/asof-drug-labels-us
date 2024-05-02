@@ -75,11 +75,14 @@ There are reports of deaths attributed to hepatic necrosis associated with the a
 Hepatic injury can occur with any dosage but seems to occur with greater frequency when the recommended dosage is exceeded.
 In some patients, jaundice has cleared following withdrawal of mercaptopurine and reappeared with rechallenge.
 Usually, clinically detectable jaundice appears early in the course of treatment (1 to 2 months); however, jaundice has been reported as early as 1 week and as late as 8 years after starting mercaptopurine.
-The hepatotoxicity has been associated in some cases with anorexia, diarrhea, jaundice and ascites.
+The hepatotoxicity has been associated in some cases with anorexia, diarrhea, jaundice, ascites and pruritis.
 Hepatic encephalopathy has occurred.
 Monitor serum transaminase levels, alkaline phosphatase, and bilirubin levels at weekly intervals when first beginning therapy and at monthly intervals thereafter.
 Monitor liver tests more frequently in patients who are receiving PURIXAN with other hepatotoxic drugs [see Drug Interactions (7.5)] or with known pre-existing liver disease.
 Withhold PURIXAN at onset of hepatotoxicity.
+Intrahepatic Cholestasis of Pregnancy Postmarketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in patients with inflammatory bowel disease who received mercaptopurine during pregnancy.
+PURIXAN is not indicated for use in inflammatory bowel disease [see Indications and Usage (1.1)].
+Discontinue PURIXAN if ICP develops in a pregnant woman.
 
 ## 5.3 Immunosuppression
 
@@ -137,7 +140,7 @@ Drug fever has been reported with PURIXAN.
 
 The following adverse reactions have been identified during postapproval use of PURIXAN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: photosensitivity, hypoglycemia, and portal hypertension.
+These reactions include: photosensitivity, hypoglycemia, portal hypertension, and intrahepatic cholestasis of pregnancy (ICP).
 
 ## 7 DRUG INTERACTIONS
 
