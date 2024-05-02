@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-## 10.1 Manifestations
+Clinical Presentation
 
 Although rare, deaths may occur from overdosage with AMRIX.
 Multiple drug ingestion (including alcohol) is common in deliberate cyclobenzaprine overdose.
@@ -8,18 +8,18 @@ As management of overdose is complex and changing, it is recommended that the ph
 Signs and symptoms of toxicity may develop rapidly after cyclobenzaprine overdose; therefore, hospital monitoring is required as soon as possible.
 
 The most common effects associated with cyclobenzaprine overdose are drowsiness and tachycardia.
-Less frequent manifestations include tremor, agitation, coma, ataxia, hypertension, slurred speech, confusion, dizziness, nausea, vomiting, and hallucinations.
-Rare but potentially critical manifestations of overdose are cardiac arrest, chest pain, cardiac dysrhythmias, severe hypotension, seizures, and neuroleptic malignant syndrome.
+Less frequent symptoms include tremor, agitation, coma, ataxia, hypertension, slurred speech, confusion, dizziness, nausea, vomiting, and hallucinations.
+Rare but potentially critical symptoms of overdose are cardiac arrest, chest pain, cardiac dysrhythmias, severe hypotension, seizures, cases of neuroleptic malignant syndrome and rhabdomyolysis have been reported.
 Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of cyclobenzaprine toxicity.
 Other potential effects of overdosage include any of the symptoms listed under Adverse Reactions (6).
 
-## 10.2 Management
+Treatment of Overdose
 
 General
 
 As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 
-In order to protect against the rare but potentially critical manifestations described above, obtain an ECG and immediately initiate cardiac monitoring.
+In order to protect against the rare but potentially critical symptoms described above, obtain an ECG and immediately initiate cardiac monitoring.
 Protect the patient’s airway, establish an intravenous line, and initiate gastric decontamination.
 Observation with cardiac monitoring and observation for signs of CNS or respiratory depression, hypotension, cardiac dysrhythmias and/or conduction blocks, and seizures is necessary.
 If signs of toxicity occur at any time during this period, extended monitoring is required.
