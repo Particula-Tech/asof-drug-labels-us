@@ -9,42 +9,41 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Data from an ongoing birth outcome surveillance study has identified an increased risk of neural tube defects when dolutegravir, a component of JULUCA, is administered at the time of conception.
-As defects related to closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk.
-
-Advise individuals of childbearing potential, including those actively trying to become pregnant, of the potential risk of neural tube defects with use of JULUCA.
-Assess the risks and benefits of JULUCA and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester.
-A benefit-risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV‑1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development [see Warnings and Precaution (5.3)].
+Data from two, ongoing birth outcome surveillance studies in Botswana and Eswatini which together include over 14,000 individuals evaluated during pregnancy show similar prevalence of neural tube defects among infants born to individuals taking dolutegravir at the time of conception compared to those born to individuals taking non-dolutegravir-containing regimens at conception or infants born to HIV-negative individuals (see Data).
 
 There are insufficient human data on the use of JULUCA during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
+However, available human data from the APR with the individual components of JULUCA do not indicate an increased risk of birth defects (see Data).
 The background risk for major birth defects for the indicated population is unknown.
 In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed with the components of JULUCA at systemic exposures (AUC) to dolutegravir less than (rabbits) and 38 times (rats) and exposures to rilpivirine 15 (rats) and 70 (rabbits) times the exposure at the recommended human dose (RHD) of JULUCA (see Data).
+In animal reproduction studies, no evidence of adverse developmental outcomes (including neural tube defects) was observed with the components of JULUCA at systemic exposures (AUC) to dolutegravir less than (rabbits) and 38 times (rats) and exposures to rilpivirine 15 (rats) and 70 (rabbits) times the exposure at the recommended human dose (RHD) of JULUCA (see Data).
 
 Data
 
-Human Data: Dolutegravir: In a birth outcome surveillance study in Botswana, there were 7 cases of neural tube defects reported out of 3,591 deliveries (0.19%) to women who were exposed to dolutegravir-containing regimens at the time of conception.
-In comparison, the neural tube defect prevalence rates were 0.11% (21/19,361 deliveries) in the non-dolutegravir arm and 0.07% (87/119,630 deliveries) in the HIV-uninfected arm.
-Seven cases reported with dolutegravir included 3 cases of myelomeningocele, 2 cases of encephalocele, and one case each of anencephaly and iniencephaly.
-In the same study, no increased risk of neural tube defects was identified in women who started dolutegravir during pregnancy.
-Two infants out of 4,448 (0.04%) deliveries to women who started dolutegravir during pregnancy had a neural tube defect, compared with 5 infants out of 6,748 (0.07%) deliveries to women who started non-dolutegravir-containing regimens during pregnancy.
-The reported risks of neural tube defects by treatment groups were based on interim analyses from the ongoing surveillance study in Botswana.
-It is unknown if baseline characteristics were balanced between the study treatment groups.
-The observed trends of association could change as data accumulate.
+Human Data:
 
-Data analyzed to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to definitively address the risk of neural tube defects with dolutegravir.
+Dolutegravir:
 
-Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
+Observational studies: The first interim analysis from an ongoing birth outcome surveillance study in Botswana identified an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
+A subsequent analysis was conducted based on a larger cohort from the birth outcome surveillance study in Botswana and included over 9,460 individuals exposed to dolutegravir at conception, 23,664 individuals exposed to non-dolutegravir-containing regimens, and 170,723 HIV-negative pregnant individuals.
+The prevalence of neural tube defects in infants delivered to individuals taking dolutegravir at conception was 0.11% (95% CI: 0.05-0.19%).
+The observed prevalence rate did not differ significantly from that of infants delivered to individuals taking non-dolutegravir-containing regimens (0.11%, 95% CI: 0.07-0.16%), or to HIV-negative individuals (0.06%, 95% CI: 0.05-0.08%).
 
-Based on prospective reports to the APR of 842 exposures to dolutegravir during pregnancy resulting in live births (including 512 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 1.9% to 5.3%) following first-trimester exposure to dolutegravir-containing regimens and 4.8% (95% CI: 2.8% to 7.8%) following second-/third-trimester exposure to dolutegravir-containing regimens.
+The Eswatini birth outcome surveillance study includes 9,743 individuals exposed to dolutegravir at conception, 1,838 individuals exposed to non-dolutegravir-containing regimens, and 32,259 HIV-negative pregnant individuals.
+The prevalence of neural tube defects in infants delivered to individuals taking dolutegravir at conception was 0.08% (95% CI: 0.04-0.16%).
+The observed prevalence rate did not differ significantly from that of infants delivered to individuals taking non-dolutegravir-containing regimens (0.22%, 95% CI: 0.06-0.56%) or to HIV-negative individuals (0.08%, 95% CI: 0.06-0.12%).
+The observed prevalence of neural tube defects in infants delivered to individuals taking non-dolutegravir-containing regimens had a wide confidence interval due to low sample size.
+
+Limitations of these birth outcome surveillance studies include insufficient data to determine if baseline characteristics were balanced between the study groups or to assess other factors such as the use of folic acid during the preconception or first trimester periods.
+
+Antiretroviral Pregnancy Registry: Based on prospective reports to the APR, of 1,377 exposures to dolutegravir during pregnancy resulting in live births (including 874 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 2.2% to 4.7%) following first-trimester exposure to dolutegravir-containing regimens and 5.0% (95% CI: 3.2% to 7.3%) following second-/third-trimester exposure to dolutegravir-containing regimens.
 In the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP), the background birth defect rate was 2.7%.
 
 Dolutegravir has been shown to cross the placenta.
-In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51-2.11) (n = 15).
+In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51 to 2.11) (n = 15).
 
-Rilpivirine: Based on prospective reports to the APR of over 610 exposures to rilpivirine-containing regimens during pregnancy resulting in live births (including over 420 exposed during the first trimester and over 190 exposed in the second/third trimester), there was no significant difference between the overall risk of birth defects for rilpivirine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in live births was 1.4% (95% CI: 0.5% to 3.0%) and 1.6% (95% CI: 0.3% to 4.5%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
+Rilpivirine: Based on prospective reports to the APR of over 870 exposures to rilpivirine-containing regimens during pregnancy resulting in live births (including over 660 exposed during the first trimester and over 210 exposed in the second/third trimester), there was no significant difference between the overall risk of birth defects for rilpivirine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 2.1% (95% CI: 1.1% to 3.5%) and 0.9% (95% CI: 0.1% to 3.4%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
 
 Rilpivirine in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1–infected pregnant subjects during the second and third trimesters and postpartum.
 Each of the subjects were on a rilpivirine-based regimen at the time of enrollment.
@@ -59,42 +58,30 @@ All 10 infants received antiretroviral prophylactic treatment with zidovudine.
 Rilpivirine was well tolerated during pregnancy and postpartum.
 There were no new safety findings compared with the known safety profile of rilpivirine in HIV-1–infected adults.
 
-Animal Data: Dolutegravir: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to Lactation/Post-partum Day 20.
+Animal Data:
+
+Dolutegravir: Dolutegravir was administered orally at up to 1,000 mg/kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to Lactation/Post-partum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) development were observed at up to the highest dose tested.
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans, and in rats were approximately 38 times the exposure in humans (50 mg once daily).
 In the rat pre/post-natal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 32 times the human exposure with 50 mg once daily).
 
-Rilpivirine: Rilpivirine was administered orally to pregnant rats (40, 120, or 400 mg per kg per day) and rabbits (5, 10, or 20 mg per kg per day) through organogenesis (on Gestation Days 6 through 17, and 6 through 19, respectively).
+Rilpivirine: Rilpivirine was administered orally to pregnant rats (40, 120, or 400 mg/kg/d) and rabbits (5, 10, or 20 mg/kg/day) through organogenesis (on Gestation Days 6 through 17, and 6 through 19, respectively).
 No significant toxicological effects were observed in embryo-fetal toxicity studies performed with rilpivirine in rats and rabbits at exposures 15 (rats) and 70 (rabbits) times higher than the exposure in humans at the recommended dose of 25 mg once daily.
-In a pre/postnatal development study with rilpivirine, where rats were administered up to 400 mg per kg per day through lactation, no significant adverse effects directly related to drug were noted in the offspring.
+In a pre/postnatal development study with rilpivirine, where rats were administered up to 400 mg//kg/day through lactation, no significant adverse effects directly related to drug were noted in the offspring.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
-
 Dolutegravir is present in human milk.
 It is not known whether dolutegravir affects human milk production or have effects on the breastfed infant.
 When administered to lactating rats, rilpivirine was present in milk (see Data).
 
-Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving JULUCA.
+Potential risks of breastfeeding include: (1) HIV‑1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 
-Animal Data: Rilpivirine: In animals, no studies have been conducted to assess the excretion of rilpivirine into milk directly; however, rilpivirine was present in plasma of rat pups exposed through the milk of lactating rats (dosed up to 400 mg per kg per day).
-
-## 8.3 Females and Males of Reproductive Potential
-
-In individuals of childbearing potential currently on JULUCA who are actively trying to become pregnant or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing JULUCA and discuss with the patient if an alternative treatment should be considered [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
-
-Pregnancy Testing
-
-Pregnancy testing is recommended in individuals of childbearing potential before initiation of JULUCA [see Dosage and Administration (2.1)].
-
-Contraception
-
-Individuals of childbearing potential who are taking JULUCA should be counseled on the consistent use of effective contraception.
+Animal Data: Rilpivirine: In animals, no studies have been conducted to assess the excretion of rilpivirine into milk directly; however, rilpivirine was present in plasma of rat pups exposed through the milk of lactating rats (dosed up to 400 mg/kg/day).
 
 ## 8.4 Pediatric Use
 

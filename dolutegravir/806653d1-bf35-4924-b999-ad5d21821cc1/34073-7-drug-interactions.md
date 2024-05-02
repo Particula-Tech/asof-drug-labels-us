@@ -3,7 +3,7 @@
 ## 7.1 Concomitant Use with Other Antiretroviral Medicines
 
 Because JULUCA is a complete regimen, coadministration with other antiretroviral medications for the treatment of HIV-1 infection is not recommended [see Indications and Usage (1)].
-Information regarding potential drug-drug interactions with other antiretroviral medications is not provided [see Contraindications (4), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
+Information regarding potential drug-drug interactions with other antiretroviral medications is not provided [see Contraindications (4), Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
 
 ## 7.2 Potential for JULUCA to Affect Other Drugs
 
@@ -33,7 +33,7 @@ Consider alternatives to JULUCA when coadministered with a drug with a known ris
 ## 7.4 Established and Other Potentially Significant Drug Interactions
 
 Information regarding potential drug interactions with dolutegravir and rilpivirine are provided in Table 4.
-These recommendations are based on either drug interaction trials of individual components or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy [see Contraindications (4), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
+These recommendations are based on either drug interaction trials of individual components or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy [see Contraindications (4), Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
 
 Table 4.
 Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Trials or Predicted Interactionsa
@@ -43,7 +43,7 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 | Antacids (e.g., aluminum or magnesium hydroxide, calcium carbonate) | ↓Rilpivirine | Administer JULUCA 4 hours before or 6 hours after taking antacids. |
 | Antiarrhythmic:Dofetilide | ↑Dofetilide | Coadministration is contraindicated with JULUCA [see Contraindications (4)]. |
 | Anticonvulsants:Carbamazepine OxcarbazepinePhenobarbitalPhenytoin | ↓Dolutegravir↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
-| Antidiabetic: Metforminb | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of JULUCA and metformin. |
+| Antidiabetic:Metforminb | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of JULUCA and metformin. |
 | Antimycobacterials:RifampinRifapentine | ↓Dolutegravir↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
 | Antimycobacterial:Rifabutinb | ↔Dolutegravir↔Rifabutin↓Rilpivirine | An additional rilpivirine 25-mg tablet should be taken with JULUCA once daily with a meal when rifabutin is coadministered. |
 | Glucocorticoid (systemic):Dexamethasone(more than a single-dose treatment) | ↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |

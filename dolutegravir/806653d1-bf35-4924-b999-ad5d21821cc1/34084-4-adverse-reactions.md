@@ -4,7 +4,7 @@ The following adverse reactions are described below and in other sections of the
 
 - •Skin and hypersensitivity reactions [see Warnings and Precautions (5.1)].
 - •Hepatotoxicity [see Warnings and Precautions (5.2)].
-- •Depressive disorders [see Warnings and Precautions (5.4)].
+- •Depressive disorders [see Warnings and Precautions (5.3)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -91,7 +91,7 @@ In the Week 148 pooled analyses, there were no additional selected laboratory ab
 
 Changes in Serum Creatinine: Dolutegravir and rilpivirine have been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred within the first 4 weeks of treatment with dolutegravir plus rilpivirine and remained stable through 148 weeks.
-Mean changes from baseline of 0.093 mg per dL (range: -0.30 to 0.58 mg per dL) and 0.112 mg per dL (range: -0.24 to 0.81 mg per dL) were observed after 48 and 148 weeks of treatment with dolutegravir plus rilpivirine, respectively.
+Mean changes from baseline of 0.093 mg/dL (range: -0.30 to 0.58 mg/dL) and 0.112 mg/dL (range: -0.24 to 0.81 mg/dL) were observed after 48 and 148 weeks of treatment with dolutegravir plus rilpivirine, respectively.
 These changes are not considered to be clinically relevant.
 
 Serum Lipids: At 48 weeks, total cholesterol, HDL cholesterol, LDL cholesterol, triglycerides, and total cholesterol to HDL ratio were similar between the treatment arms, with no further notable changes beyond Week 48.

@@ -10,7 +10,7 @@ Cardiac Electrophysiology
 
 The effect of JULUCA on the QT interval has not been studied.
 
-In a randomized, placebo-controlled, crossover trial, 42 healthy subjects received single-dose oral administration of placebo, dolutegravir 250-mg suspension (exposures approximately 3-fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
+In a randomized, placebo-controlled, crossover trial, 42 healthy subjects received single-dose oral administration of placebo, dolutegravir 250-mg suspension (exposures approximately 3‑fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
 Dolutegravir did not prolong the QTc interval over 24 hours postdose.
 
@@ -110,7 +110,7 @@ Pharmacokinetic Results of Rilpivirine during the 2nd and 3rd Trimesters of Preg
 Drug Interaction Studies
 
 Drug interaction trials were conducted with dolutegravir or rilpivirine as individual components and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions.
-In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, UGT1A1, UGT2B7, P-gp, BCRP, bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, multidrug resistance protein (MRP)2, or MRP4.
+In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, UGT1A1, UGT2B7, P‑gp, BCRP, bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, multidrug resistance protein (MRP)2, or MRP4.
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, or CYP3A4.
 
 In vitro, dolutegravir inhibited the renal OCT2 (IC50 = 1.93 microM) and MATE1 (IC50 = 6.34 microM).
@@ -135,7 +135,6 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without DolutegravirNo Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mgonce daily | 12 | 1.03(0.84 to 1.25) | 0.98(0.83 to 1.15) | 1.06(0.88 to 1.29) |  |  |  |  |  |  |  |  |  |  |
 | Ethinyl estradiol 0.035 mg | 50 mgtwice daily | 15 | 0.99(0.91 to 1.08) | 1.03(0.96 to 1.11) | 1.02(0.93 to 1.11) |  |  |  |  |  |  |  |  |  |  |
 | Metformin 500 mg twice daily | 50 mgonce daily | 15a | 1.66(1.53 to 1.81) | 1.79(1.65 to 1.93) | _ |  |  |  |  |  |  |  |  |  |  |
 | Metformin 500 mg twice daily | 50 mgtwice daily | 15a | 2.11(1.91 to 2.33) | 2.45(2.25 to 2.66) | _ |  |  |  |  |  |  |  |  |  |  |
@@ -156,7 +155,6 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mgsingle dose | 11 | 1.07(0.83 to 1.38) | 1.09(0.84 to 1.43) | 1.08(0.81 to 1.42) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mgsingle dose | 11 | 1.00(0.78 to 1.29) | 0.94(0.72 to 1.23) | 0.90(0.68 to 1.19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Carbamazepine 300 mg twice daily | 50 mgonce daily | 16c | 0.67(0.61 to 0.73) | 0.51(0.48 to 0.55) | 0.27(0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mgonce daily | 12 | 1.29(1.07 to 1.57) | 1.33(1.11 to 1.59) | 1.45(1.25 to 1.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mgsingle dose | 11 | 0.43(0.35 to 0.52) | 0.46(0.38 to 0.56) | 0.44(0.36 to 0.54) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mgsingle dose | 11 | 1.03(0.84 to 1.26) | 0.98(0.81 to 1.20) | 1.00(0.81 to 1.23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mgsingle dose | 10 | 0.99(0.81 to 1.21) | 0.95(0.77 to 1.15) | 0.92(0.74 to 1.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -231,11 +229,11 @@ Rilpivirine does not inhibit the human cellular DNA polymerases α, β, and γ.
 
 Antiviral Activity in Cell Culture
 
-Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV-1 with mean EC50 values of 0.5 nM to 2.1 nM (0.21 to 0.85 ng per mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
+Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV-1 with mean EC50 values of 0.5 nM to 2.1 nM (0.21 to 0.85 ng/mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
 Dolutegravir exhibited antiviral activity against 13 clinically diverse clade B isolates with a mean EC50 value of 0.52 nM in a viral integrase susceptibility assay using the integrase coding region from clinical isolates.
 Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV-1 clinical isolates (3 in each group of M [clades A, B, C, D, E, F, and G] and 3 in group O) with EC50 values ranging from 0.02 nM to 2.14 nM.
 
-Rilpivirine exhibited activity against laboratory strains of wild-type HIV-1 in an acutely infected T-cell line with a median EC50 value for HIV-1IIIB of 0.73 nM (0.27 ng per mL).
+Rilpivirine exhibited activity against laboratory strains of wild-type HIV-1 in an acutely infected T-cell line with a median EC50 value for HIV-1IIIB of 0.73 nM (0.27 ng/mL).
 Rilpivirine demonstrated antiviral activity against a broad panel of HIV-1 group M (clades A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07 nM to 1.01 nM (0.03 to 0.37 ng/mL) and was less active against group O primary isolates with EC50 values ranging from 2.88 to 8.45 nM (1.06 to 3.10 ng/mL).
 
 Antiviral Activity in Combination with Other Antiviral Agents

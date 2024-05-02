@@ -13,21 +13,14 @@ Hepatotoxicity
 Inform patients that hepatotoxicity has been reported with rilpivirine and dolutegravir, components of JULUCA [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
 Inform patients that monitoring for hepatotoxicity is recommended.
 
-Embryo-Fetal Toxicity
-
-Advise individuals of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of JULUCA with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
-If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precaution (5.3), Use in Specific Populations (8.1, 8.3)].
-
-Individuals of childbearing potential taking JULUCA should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
-
 Depressive Disorders
 
 Inform patients that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with the components of JULUCA.
-Advise patients to seek immediate medical evaluation if they experience depressive symptoms [see Warnings and Precautions (5.4), Adverse Reactions (6.1)].
+Advise patients to seek immediate medical evaluation if they experience depressive symptoms [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
 
 Drug Interactions
 
-JULUCA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.5), Drug Interactions (7)].
+JULUCA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.4), Drug Interactions (7)].
 
 Administration Instruction
 
@@ -42,7 +35,7 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
+Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV‑1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults [seeUse in Specific Populations (8.2)].
 
 Storage
 
@@ -58,10 +51,6 @@ Manufactured for:
 
 ViiV Healthcare Durham, NC 27701
 
-by:
+©2024 ViiV Healthcare group of companies or its licensor.
 
-GlaxoSmithKline Durham, NC 27701
-
-©2022 ViiV Healthcare group of companies or its licensor.
-
-JLC:9PI
+JLC:10PI

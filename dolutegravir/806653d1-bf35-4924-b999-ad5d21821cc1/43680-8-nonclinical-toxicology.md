@@ -5,12 +5,12 @@
 Carcinogenesis
 
 Two-year carcinogenicity studies in mice and rats were conducted with dolutegravir.
-Mice were administered doses of up to 500 mg per kg and rats were administered doses of up to 50 mg per kg.
+Mice were administered doses of up to 500 mg/kg and rats were administered doses of up to 50 mg/kg.
 In mice, no significant increases in the incidence of drug-related neoplasms were observed at the highest doses tested, resulting in dolutegravir AUC exposures approximately 20 times higher than those in humans at the recommended dose of 50 mg once daily.
 In rats, no increases in the incidence of drug-related neoplasms were observed at the highest dose tested, resulting in dolutegravir AUC exposures approximately 17 times higher than those in humans at the recommended dose of 50 mg once daily.
 
 Rilpivirine was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.
-Daily doses of 20, 60, and 160 mg per kg per day were administered to mice and doses of 40, 200, 500, and 1,500 mg per kg per day were administered to rats.
+Daily doses of 20, 60, and 160 mg/kg/day were administered to mice and doses of 40, 200, 500, and 1,500 mg/kg/day were administered to rats.
 In rats, there were no drug-related neoplasms.
 In mice, rilpivirine was positive for hepatocellular neoplasms in both males and females.
 The observed hepatocellular findings in mice may be rodent specific.
@@ -28,5 +28,5 @@ Impairment of Fertility
 Dolutegravir did not affect male or female fertility in rats at doses associated with exposures approximately 33 times higher than the exposures in humans at the doses of 50 mg once daily.
 
 No human data on the effect of rilpivirine on fertility are available.
-In a study conducted in rats, there were no effects on mating or fertility with rilpivirine up to 400 mg per kg per day, a dose of rilpivirine that showed maternal toxicity.
+In a study conducted in rats, there were no effects on mating or fertility with rilpivirine up to 400 mg/kg/day, a dose of rilpivirine that showed maternal toxicity.
 This dose is associated with an exposure that is approximately 40 times higher than the exposure in humans at the recommended dose of 25 mg once daily.

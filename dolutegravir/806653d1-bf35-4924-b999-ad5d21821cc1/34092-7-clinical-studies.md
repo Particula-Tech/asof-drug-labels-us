@@ -5,13 +5,13 @@
 The efficacy of JULUCA is supported by data from 2 open-label, controlled trials (SWORD-1 [NCT02429791] and SWORD-2 [NCT02422797]) in virologically suppressed patients switching from their current antiretroviral regimen to dolutegravir plus rilpivirine.
 
 SWORD-1 and SWORD-2 are identical 148-week, Phase 3, randomized, multicenter, parallel-group, non-inferiority trials.
-A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies per mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
+A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies/mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
 Subjects were randomized 1:1 to continue their current antiretroviral regimen (n = 511) or be switched to dolutegravir plus rilpivirine administered once daily (n = 513).
 Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to dolutegravir plus rilpivirine at Week 52 (n = 477).
 
-The primary efficacy endpoint for the SWORD trials was the proportion of subjects with plasma HIV-1 RNA less than 50 copies per mL at Week 48.
+The primary efficacy endpoint for the SWORD trials was the proportion of subjects with plasma HIV-1 RNA less than 50 copies/mL at Week 48.
 
-At baseline, in the pooled analysis, the median age of subjects was 43 years (range: 21 to 79), 22% female, 20% non-white, 11% were CDC Class C (AIDS), and 11% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment arms.
+At baseline, in the pooled analysis, the median age of subjects was 43 years (range: 21 to 79), 22% female, 20% non-white, 11% were CDC Class C (AIDS), and 11% had CD4+ cell count less than 350 cells/mm3; these characteristics were similar between treatment arms.
 In the pooled analysis, 54%, 26%, and 20% of subjects were receiving an NNRTI, PI, or INSTI, respectively, as their baseline third-treatment-agent class prior to randomization.
 This distribution was similar between treatment arms.
 
@@ -27,7 +27,7 @@ Pooled Virologic Outcomes of Randomized Treatment in SWORD-1 and SWORD-2 Trials 
 | HIV-1 RNA <50 copies/mL | 95% | 95% |
 | Treatment Difference | -0.2%(95% CI: -3.0%, 2.5%) |  |
 | HIV-1 RNA ≥50 copies/mL | <1% | 1% |
-| Treatment Difference | -0.6 %(95% CI:-1.7%, 0.6%) |  |
+| Treatment Difference | -0.6%(95% CI: -1.7%, 0.6%) |  |
 | Data in window not <50 copies/mL | 0 | <1% |
 | Discontinued for lack of efficacy | <1% | <1% |
 | Discontinued for other reasons while not <50 copies/mL | <1% | <1% |
