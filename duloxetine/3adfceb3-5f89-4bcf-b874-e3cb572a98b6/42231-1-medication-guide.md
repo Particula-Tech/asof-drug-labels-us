@@ -1,8 +1,8 @@
 # Medication Guide
 
-Duloxetine Delayed-Release Capsules USP
+Duloxetine (doo lox' e teen)
 
-(doo lox' e teen)
+Delayed-Release Capsules USP
 
 Read this Medication Guide before you start taking duloxetine delayed-release capsules and each time you get a refill.
 There may be new information.
@@ -80,8 +80,8 @@ Do Not take duloxetine delayed-release capsules if you:
 
 - take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid or intravenous methylene blue.
-- Do not take an MAOI within 5 days of stopping duloxetine delayed-release capsules unless directed to do so by your healthcare provider.
-- Do not start duloxetine delayed-release capsules if you stopped taking an MAOI in the last 14 days unless directed to do so by your healthcare provider.
+  - Do not take an MAOI within 5 days of stopping duloxetine delayed-release capsules unless directed to do so by your healthcare provider.
+  - Do not start duloxetine delayed-release capsules if you stopped taking an MAOI in the last 14 days unless directed to do so by your healthcare provider.
 
 People who take duloxetine delayed-release capsules close in time to an MAOI may have a serious problem called Serotonin Syndrome (see “What are the possible side effects of duloxetine delayed-release capsules?”).
 
@@ -89,16 +89,17 @@ What should I tell my healthcare provider before taking duloxetine delayed-relea
 
 Before starting duloxetine delayed-release capsules, tell your healthcare provider if you:
 
-- have heart problems or high blood pressure
-- have diabetes (duloxetine delayed-release capsules treatment makes it harder for some people with diabetes to control their blood sugar)
-- have liver problems
-- have kidney problems
-- have glaucoma
-- have or had seizures or convulsions
-- have bipolar disorder or mania
-- have low sodium levels in your blood
-- have delayed stomach emptying
-- have or had bleeding problems
+- 
+  - have heart problems or high blood pressure
+  - have diabetes (duloxetine delayed-release capsules treatment makes it harder for some people with diabetes to control their blood sugar)
+  - have liver problems
+  - have kidney problems
+  - have glaucoma
+  - have or had seizures or convulsions
+  - have bipolar disorder or mania
+  - have low sodium levels in your blood
+  - have delayed stomach emptying
+  - have or had bleeding problems
 - are pregnant or plan to become pregnant.
   Duloxetine delayed-release capsules may harm your unborn baby.
   Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine delayed-release capsules during pregnancy.
@@ -115,19 +116,20 @@ Duloxetine delayed-release capsules and some medicines may interact with each ot
 
 Especially tell your healthcare provider if you take:
 
-- triptans used to treat migraine headache
-- medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- tramadol, fentanyl, meperidine, methadone, or other opioids
-- amphetamines
-- cimetidine
-- the antibiotics ciprofloxacin, enoxacin
-- medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
-- theophylline
-- the blood thinner warfarin (Coumadin, Jantoven)
-- non-steroidal anti-inflammatory drug (NSAID) (like ibuprofen, naproxen or aspirin).
-- over-the-counter supplements such as tryptophan or St. John’s Wort
-- thioridazine (Mellaril).
-  Mellaril together with duloxetine delayed-release capsules can cause serious heart rhythm problems or sudden death.
+- 
+  - triptans used to treat migraine headache
+  - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
+  - tramadol, fentanyl, meperidine, methadone, or other opioids
+  - amphetamines
+  - cimetidine
+  - the antibiotics ciprofloxacin, enoxacin
+  - medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
+  - theophylline
+  - the blood thinner warfarin (Coumadin, Jantoven)
+  - non-steroidal anti-inflammatory drug (NSAID) (like ibuprofen, naproxen or aspirin).
+  - over-the-counter supplements such as tryptophan or St. John’s Wort
+  - thioridazine (Mellaril).
+    Mellaril together with duloxetine delayed-release capsules can cause serious heart rhythm problems or sudden death.
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 Do not take duloxetine delayed-release capsules with any other medicine that contain duloxetine.
@@ -321,4 +323,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2024

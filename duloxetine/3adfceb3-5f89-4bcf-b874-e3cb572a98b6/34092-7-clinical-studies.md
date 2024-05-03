@@ -7,7 +7,7 @@ The efficacy of duloxetine delayed-release capsules has been established in the 
 - Major Depressive Disorder (MDD): 4 short-term (Studies MDD-1, MDD-2, MDD-3, and MDD-4) and 1 maintenance trial (Study MDD-5) in adults [see Clinical Studies (14.2)].
 - Generalized Anxiety Disorder (GAD): 3 short-term trials in adults (Studies GAD-1, GAD-2, and GAD-3), 1 maintenance trial in adults (Study GAD-4), 1 short-term trial in geriatric patients (Study GAD-5), and 1 short-term trial in pediatric patients 7 to 17 years of age (Study GAD-6) [see Clinical Studies (14.3)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults (Studies DPNP-1 and DPNP-2) [see Clinical Studies (14.4)].
-- Fibromyalgia (FM): Two trials in adults (one of 3 months duration and one of 6 months duration) and one 13-week trial in pediatric patients 13 to 17 years of age (Study FM-4) (Studies FM-1 and FM-2) [see Clinical Studies (14.5)].
+- Fibromyalgia (FM): Two trials in adults (one of 3 months duration and one of 6 months duration) (Studies FM-1 and FM-2) and one 13-week trial in pediatric patients 13 to 17 years of age (Study FM-4) [see Clinical Studies (14.5)].
 - Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) (Studies CLBP-1 and CLBP-3) and one 13-week trial in adult patients with chronic pain due to osteoarthritis (OA) (Study OA-1) [see Clinical Studies (14.6)].
 
 Additionally, a summary of the following trials that did not demonstrate efficacy are presented below: Study FM-3 (a 16-week trial in adult patients with fibromyalgia), Study CLBP-2 (a 13-week trial in adult patients with CLBP), and Study OA-2 (a 13-week trial in adult patients with chronic pain due to OA).

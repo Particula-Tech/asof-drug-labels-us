@@ -43,4 +43,4 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Interference with Psychomotor Performance — Duloxetine delayed-release capsules may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine delayed-release capsules therapy does not affect their ability to engage in such activities.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2024 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
