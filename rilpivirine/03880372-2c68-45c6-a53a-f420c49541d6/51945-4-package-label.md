@@ -26,4 +26,4 @@ EDURANT ® PED
 
 Attention: EDURANT PED is NOT a substitute for EDURANT
 
-DISPERSE IN DRINKING WATER Do not crush, chew, or swallow whole, se e Instructions for Use
+DISPERSE IN DRINKING WATER Do not crush, chew, or swallow whole, see Instructions for Use
