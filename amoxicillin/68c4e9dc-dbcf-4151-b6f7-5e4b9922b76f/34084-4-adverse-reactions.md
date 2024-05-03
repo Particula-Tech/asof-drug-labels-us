@@ -4,11 +4,12 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
-- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
-- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.7)]
-- Rash in Patients with Mononucleosis [see Warnings and Precautions (5.8)]
-- Uveitis [see Warnings and Precautions (5.9)]
+- Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.4)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.6)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
+- Rash in Patients with Mononucleosis [see Warnings and Precautions (5.9)]
+- Uveitis [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience with TALICIA
 
@@ -93,7 +94,7 @@ Hematologic: Agranulocytosis, hemolytic anemia, pancytopenia, neutropenia, anemi
 
 Amoxicillin
 
-Gastrointestinal: black hairy tongue
+Gastrointestinal: Drug-induced enterocolitis syndrome (DIES), black hairy tongue
 
 Liver: hepatic dysfunction, cholestatic jaundice, cholestasis, acute cytolytic hepatitis
 
@@ -103,7 +104,7 @@ Hemic and Lymphatic Systems: anemia, hemolytic anemia, thrombocytopenia, thrombo
 
 Central Nervous System: hyperactivity, agitation, anxiety, insomnia, confusion, convulsions, aseptic meningitis, behavioral changes, and/or dizziness
 
-Skin and subcutaneous tissue disorders: SCAR, such as SJS, TEN, DRESS, and AGEP.
+Skin and subcutaneous tissue disorders: SCAR, such as SJS, TEN, DRESS, and AGEP, and linear IgA bullous dermatosis.
 
 Rifabutin
 

@@ -17,16 +17,16 @@ Table 2: Interactions with TALICIA When Co-Administered with Other Drugs and Dia
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |
 | Clinical Impact | Decreased exposure of omeprazole when used concomitantly with strong inducers. |
-| Prevention or Management | St. John’s Wort, rifampin: Avoid concomitant use with TALICIA [see Warnings and Precautions (5.6)].Ritonavir-containing products: See prescribing information for specific drugs. |
+| Prevention or Management | St. John’s Wort, rifampin: Avoid concomitant use with TALICIA [see Warnings and Precautions (5.7)].Ritonavir-containing products: See prescribing information for specific drugs. |
 | CYP2C19 or CYP3A4 Inhibitors |  |
 | Clinical Impact | Increased blood levels of omeprazole and rifabutin. |
 | Prevention or Management | Voriconazole: Concomitant use with TALICIA is contraindicated [see Contraindications (4)].Fluconazole, posaconazole and itraconazole: Avoid concomitant use with TALICIA. If coadministration cannot be avoided, monitor patients for rifabutin associated adverse events, and lack of anti-fungal efficacy. |
 | CYP2C19 Substrates (e.g., Clopidogrel, citalopram, cilostazol, phenytoin, diazepam) |  |
 | Clinical Impact | Increased plasma concentrations of CYP2C19 substrate drugs or decreased/increased plasma concentrations of its active metabolite(s) [see Clinical Pharmacology (12.3)]. |
-| Prevention or Management | Clopidogrel: Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.6)]. Avoid concomitant use with TALICIA. |
+| Prevention or Management | Clopidogrel: Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.7)]. Avoid concomitant use with TALICIA. |
 | Antiretrovirals/Protease Inhibitors |  |
 | Clinical Impact | Antiretrovirals/protease inhibitors may increase rifabutin blood levels.The effect of PPIs (such as omeprazole in TALICIA) on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with omeprazole may reduce antiviral effect and promote the development of drug resistance [see Clinical Pharmacology (12.3)]. Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with omeprazole may increase toxicity [see Clinical Pharmacology (12.3)]. There are other antiretroviral drugs which do not result in clinically relevant interactions with omeprazole. |
-| Prevention or Management | Delavirdine: Combination treatment with TALICIA and delavirdine is contraindicated [see Contraindications (4)].Rilpivirine-containing products: Concomitant use with TALICIA is contraindicated [see Contraindications (4)].Avoid concomitant use of TALICIA with amprenavir, indinavir, lopinavir/ritonavir, saquinavir/ritonavir, ritonavir, tipranavir/ritonavir, fosamprenavir/ritonavir, or nelfinavir [see Warnings and Precautions (5.6)].Other antiretrovirals: See prescribing information for specific antiretroviral drugs. |
+| Prevention or Management | Delavirdine: Combination treatment with TALICIA and delavirdine is contraindicated [see Contraindications (4)].Rilpivirine-containing products: Concomitant use with TALICIA is contraindicated [see Contraindications (4)].Avoid concomitant use of TALICIA with amprenavir, indinavir, lopinavir/ritonavir, saquinavir/ritonavir, ritonavir, tipranavir/ritonavir, fosamprenavir/ritonavir, or nelfinavir [see Warnings and Precautions (5.7)].Other antiretrovirals: See prescribing information for specific antiretroviral drugs. |
 | Probenecid |  |
 | Clinical Impact | Increased and prolonged blood levels of amoxicillin. |
 | Allopurinol |  |
@@ -36,7 +36,7 @@ Table 2: Interactions with TALICIA When Co-Administered with Other Drugs and Dia
 | Clinical Impact | Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported in patients receiving amoxicillin and oral anticoagulants and in patients receiving PPIs, including omeprazole, and warfarin concomitantly.Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Prevention or Management | Monitor INR and prothrombin time and adjust the dose of warfarin or other oral anticoagulants to maintain the desired level of anticoagulation. |
 | Methotrexate |  |
-| Clinical Impact | Concomitant use of omeprazole with methotrexate (primarily at high doses) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities [see Warnings and Precautions (5.6)]. |
+| Clinical Impact | Concomitant use of omeprazole with methotrexate (primarily at high doses) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities [see Warnings and Precautions (5.7)]. |
 | Prevention or Management | Avoid concomitant use of TALICIA in patients receiving high-dose methotrexate. |
 | Digoxin |  |
 | Clinical Impact | Potential for increased digoxin blood levels [see Clinical Pharmacology (12.3)]. |
@@ -51,10 +51,10 @@ Table 2: Interactions with TALICIA When Co-Administered with Other Drugs and Dia
 | Clinical Impact | Interactions are reported with omeprazole and other drugs metabolized via the CYP450 enzymes. |
 | Prevention or Management | Monitor patients to determine if it is necessary to adjust the dosage of these other drugs when taken concomitantly with TALICIA. |
 | Oral Contraceptives |  |
-| Clinical Impact | Concomitant use of amoxicillin and rifabutin with hormonal contraceptives may lead to loss of its efficacy due to lower estrogen reabsorption and decreased ethinylestradiol and norethindrone concentrations, respectively [see Warnings and Precautions (5.4)]. |
+| Clinical Impact | Concomitant use of amoxicillin and rifabutin with hormonal contraceptives may lead to loss of its efficacy due to lower estrogen reabsorption and decreased ethinylestradiol and norethindrone concentrations, respectively [see Warnings and Precautions (5.5)]. |
 | Prevention or Management | Patients should be advised to use additional or alternative non-hormonal methods of contraception. |
 | Diagnostic Investigations for Neuroendocrine Tumors |  |
-| Clinical Impact | PPI-induced decrease in gastric acidity may lead to increased serum chromogranin A (CgA) levels, which may cause false positive results in diagnostics for neuroendocrine tumors [see Warnings and Precautions (5.10)]. |
+| Clinical Impact | PPI-induced decrease in gastric acidity may lead to increased serum chromogranin A (CgA) levels, which may cause false positive results in diagnostics for neuroendocrine tumors [see Warnings and Precautions (5.11)]. |
 | Prevention or Management | Assess CgA levels at least 14 days after stopping TALICIA treatment and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
 | Urine Glucose Test |  |
 | Clinical Impact | High urine concentrations of ampicillin or amoxicillin may result in false-positive reactions when using glucose tests based on the Benedict’s copper reduction reaction that determines the amount of reducing substances like glucose in the urine. |
