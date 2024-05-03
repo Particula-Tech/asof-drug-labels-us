@@ -20,7 +20,7 @@ Corticosteroids are bound to plasma proteins in varying degrees.
 Corticosteroids are metabolized primarily in the liver and are then excreted by the kidneys.
 Some of the topical corticosteroids and their metabolites are also excreted into the bile.
 
-Pharmacokinetic studies in men with Desoximetasone Ointment USP, 0.25% with tagged desoximetasone showed no detectable level (limit of sensitivity: 0.003 μg/mL) in 1 subject and 0.004 and 0.006 μg/mL in the remaining 2 subjects in the blood when it was applied topically on the back followed by occlusion for 24 hours.
+Pharmacokinetic studies in men with desoximetasone ointment USP, 0.25% with tagged desoximetasone showed no detectable level (limit of sensitivity: 0.003 μg/mL) in 1 subject and 0.004 and 0.006 μg/mL in the remaining 2 subjects in the blood when it was applied topically on the back followed by occlusion for 24 hours.
 The extent of absorption for the ointment was 7% based on radioactivity recovered from urine and feces.
 Seven days after application, no further radioactivity was detected in urine or feces.
 Studies with other similarly structured steroids have shown that predominant metabolite reaction occurs through conjugation to form the glucuronide and sulfate ester.

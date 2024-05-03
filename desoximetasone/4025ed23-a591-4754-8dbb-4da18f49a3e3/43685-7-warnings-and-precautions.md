@@ -48,7 +48,7 @@ Patients using topical corticosteroids should receive the following information 
    It is for external use only.
    Avoid contact with the eyes.
 2. 2.Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
-3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
 4. 4.Patients should report any signs of local adverse reactions, especially under occlusive dressings.
 5. 5.Other corticosteroid-containing products should not be used with desoximetasone ointment USP, 0.25% without first consulting with the physician.
    As with other corticosteroids, therapy should be discontinued when control is achieved.If no improvement is seen within 4 weeks, contact the physician.
@@ -61,7 +61,7 @@ Urinary free cortisol test
 
 ACTH stimulation test
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids.
 Desoximetasone was nonmutagenic in the Ames test.
@@ -71,7 +71,7 @@ Desoximetasone was nonmutagenic in the Ames test.
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
-Desoximetasone has been shown to be teratogenic and embryotoxic in mice, rats, and rabbits when given by subcutaneous or dermal routes of administration in doses 3 to 30 times the human dose of desoximetasone ointment USP, 0.25%
+Desoximetasone has been shown to be teratogenic and embryotoxic in mice, rats, and rabbits when given by subcutaneous or dermal routes of administration in doses 3 to 30 times the human dose of desoximetasone ointment USP, 0.25%.
 
 There are no adequate and well-controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids.
 Therefore, desoximetasone ointment USP, 0.25% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -93,4 +93,4 @@ Manifestations of intracranial hypertension include bulging fontanelles, headach
 
 Administration of topical corticosteroids to pediatric patients should be limited to the least amount compatible with an effective therapeutic regimen.
 Chronic corticosteroid therapy may interfere with the growth and development of pediatric patients.
-Safety and effectiveness of Desoximetasone Ointment USP, 0.25% in pediatric patients below the age of 10 have not been established.
+Safety and effectiveness of desoximetasone ointment USP, 0.25% in pediatric patients below the age of 10 have not been established.

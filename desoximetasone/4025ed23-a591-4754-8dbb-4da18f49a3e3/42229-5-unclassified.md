@@ -3,12 +3,16 @@ Not For Oral, Ophthalmic, or Intravaginal Use.
 
 Rx Only
 
-Made in Israel
+Manufactured By Padagis®
 
-Manufactured By Perrigo, Yeruham, Israel
+Yeruham, Israel
 
-Distributed By Perrigo, Allegan, MI 49010 • www.perrigo.com
+Distributed By
 
-Rev 03-20
+Padagis®
 
-4N400 RC J3
+Allegan, MI 49010 • www.padagis.com
+
+Rev 12-22
+
+4N400 RC J4
