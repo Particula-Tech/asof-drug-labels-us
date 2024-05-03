@@ -2,11 +2,12 @@
 
 ## 5.1 Sulfonamide Hypersensitivity
 
-Dorzolamide hydrochloride ophthalmic solution contain dorzolamide, a sulfonamide; and although administered topically, it is absorbed systemically.
+Dorzolamide hydrochloride ophthalmic solution contains dorzolamide, a sulfonamide; and although administered topically, it is absorbed systemically.
+
 Therefore, the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration of dorzolamide hydrochloride ophthalmic solution.
 Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias.
 Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration.
-If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation [see Contraindications (4) and Patient Counseling Information (17.3)].
+If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation [see Contraindications (4)].
 
 ## 5.2 Bacterial Keratitis
 
