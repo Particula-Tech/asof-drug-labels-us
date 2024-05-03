@@ -10,4 +10,4 @@
 | What are the ingredients in posaconazole delayed-release tablets? Active ingredient: posaconazole Inactive ingredients: Hypromellose Acetate Succinate, Microcrystalline Cellulose, Hydroxypropyl Cellulose, Croscarmellose Sodium, Silicon Dioxide, and Magnesium Stearate. The color coating contains (Polyvinyl Alcohol, Titanium Dioxide, Polyethylene Glycol, Talc, Ferric Oxide Yellow, and Ferrosoferric Oxide).Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.’s NOXAFIL (posaconazole) delayed-release tablets. However, due to Merck Sharp & Dohme Corp.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.SpecGx LLC Webster Groves, MO 63119 USA www.mallinckrodt.com or call 1-800-778-7898Mallinckrodt™ |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 04/2022 X30000254
+Revised: 09/2023 X30000254

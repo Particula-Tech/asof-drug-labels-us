@@ -34,7 +34,7 @@ Advise patients to inform their physician immediately if they:
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2022 Mallinckrodt.
+© 2023 Mallinckrodt.
 
 Mylanta, Zantac, Nexium, and Reglan are trademarks of their respective owners.
 
@@ -42,9 +42,9 @@ SpecGx LLC Webster Groves, MO 63119 USA www.mallinckrodt.com or call 1-800-778-7
 
 L20P21
 
-Revised: 05/2022
+Revised: 09/2023
 
 Mallinckrodt™ Pharmaceuticals
 
 PHARMACIST: Dispense separate Patient Information to each patient.
-Patient Information available at: www.mallinckrodt.com/medguide/X30000254 or call 1-800-778-7898
+Patient Information available at: www.mallinckrodt.com/medguide/X30000254.pdf or call 1-800-778-7898
