@@ -67,7 +67,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANC
 | Metabolism and Nutrition Disorders |  |  |  |  |
 | Decreased appetite | 13 | 0.6 | 3.8 | 0 |
 
-Clinically relevant adverse reactions in ADAURA in <10% of patients receiving TAGRISSO were alopecia (6%), epistaxis (6%), interstitial lung disease (3%), palmar-plantar erythrodysesthesia syndrome (1.8%), urticaria (1.5%), keratitis (0.6%), QTc interval prolongation (0.6%), and erythema multiforme (0.3%).
+Clinically relevant adverse reactions in ADAURA in <10% of patients receiving TAGRISSO were alopecia (6%), epistaxis (6%), interstitial lung disease (3%), palmar-plantar erythrodysesthesia syndrome (1.8%), skin hyperpigmentation (1.8%), urticaria (1.5%), keratitis (0.6%), QTc interval prolongation (0.6%), and erythema multiforme (0.3%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
 Table 4.
@@ -134,7 +134,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANC
 | Infection and Infestation Disorders |  |  |  |  |
 | Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |
 
-Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), urticaria (2.2%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), and keratitis (0.4%).
+Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), urticaria (2.2%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), keratitis (0.4%), and skin hyperpigmentation (0.4)%.
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
 Table 6.
@@ -193,7 +193,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURA2N
 | Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 24 | 0 | 31 | 0 |
 | PruritusIncludes pruritus, eyelid pruritus. | 8 | 0 | 11 | 0 |
 
-Clinically relevant adverse reactions in FLAURA2 in <10% of patients receiving TAGRISSO in combination with pemetrexed and platinum-based chemotherapy were alopecia (9%), epistaxis (7%), palmar-plantar erythrodysesthesia syndrome (5%), interstitial lung disease (3.3%), QTc interval prolongation (1.8%), erythema multiforme (1.4%), urticaria (1.4%), and keratitis (0.7%).
+Clinically relevant adverse reactions in FLAURA2 in <10% of patients receiving TAGRISSO in combination with pemetrexed and platinum-based chemotherapy were alopecia (9%), epistaxis (7%), palmar-plantar erythrodysesthesia syndrome (5%), interstitial lung disease (3.3%), skin hyperpigmentation (2.5%), QTc interval prolongation (1.8%), erythema multiforme (1.4%), urticaria (1.4%), and keratitis (0.7%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
 Table 8.
@@ -256,13 +256,13 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
 | Back pain | 10 |  | 0.4 | 9 | 0.7 |
 
-Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiforme (0.7%).
+Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiforme (0.7%), and skin hyperpigmentation (0.4%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
 Table 10.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
-| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |
+| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131). | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |
 | --- | --- | --- | --- | --- | --- |
 | All Grades(%) | Grade 3 or Grade 4(%) | All Grades(%) |  | Grade 3 or Grade 4(%) |  |
 | Hematology |  |  |  |  |  |
@@ -273,9 +273,9 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 | Chemistry |  |  |  |  |  |
 | Hypermagnesemia | 27 | 1.8 |  | 9 | 1.5 |
 | Hyponatremia | 26 | 2.2 |  | 36 | 1.5 |
-| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm) | 20 | 0 |  | NA | NA |
+| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm). | 20 | 0 |  | NA | NA |
 | Hypokalemia | 9 | 1.4 |  | 18 | 1.5 |
-| NA=not applicable |  |  |  |  |  |
+| NA=Not Applicable |  |  |  |  |  |
 
 Clinically relevant laboratory abnormalities in AURA3 that occurred in <20% of patients receiving TAGRISSO included increased blood creatinine (7%).
 
@@ -289,5 +289,5 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - 
-  - •Skin and subcutaneous tissue: Erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis
+  - •Skin and subcutaneous tissue: Erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis, erythema dyschromicum perstans
   - •Blood and lymphatic system disorders: Aplastic anemia

@@ -37,8 +37,8 @@ Efficacy Results in ADAURA according to Investigator Assessment
 | Recurrent disease (%) | 26 (11) | 129 (54) | 37 (11) | 157 (46) |
 | Deaths (%) | 0 | 1 (0.4) | 0 | 2 (0.6) |
 | Median DFS, months (95% CI) | NR (38.8, NE) | 19.6 (16.6, 24.5) | NR (NE, NE) | 27.5 (22.0, 35.0) |
-| Hazard ratio (95% CI)Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM stagingPike estimator | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
-| p-valueStratified log-rank test | <0.0001 |  | <0.0001 |  |
+| Hazard ratio (95% CI)Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM staging.Pike estimator. | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
+| p-valueStratified log-rank test. | <0.0001 |  | <0.0001 |  |
 | Overall Survival (OS) |  |  |  |  |
 | Number of deaths (%) | 35 (15) | 65 (27) | 42 (12) | 82 (24) |
 | Hazard Ratio (95% CI) | 0.49 (0.33, 0.73) |  | 0.49 (0.34, 0.70) |  |
@@ -87,16 +87,16 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Progression-Free Survival (PFS) |  |  |
 | PFS events (%) | 136 (49) | 206 (74) |
 | Progressive disease (%) | 125 (45) | 192 (69) |
-| DeathWithout documented radiological disease progression (%) | 11 (4) | 14 (5) |
+| DeathWithout documented radiological disease progression. (%) | 11 (4) | 14 (5) |
 | Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.1) |
-| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs non-Asian) and mutation status (Ex19del vs L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
-| p-valueStratified log-rank test | <0.0001 |  |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs non-Asian) and mutation status (Ex19del vs L858R).Pike estimator. | 0.46 (0.37, 0.57) |  |
+| p-valueStratified log-rank test. | <0.0001 |  |
 | Overall Survival (OS) |  |  |
 | Number of deaths (%) | 155 (56) | 166 (60) |
 | Median OS in months (95% CI) | 38.6 (34.5, 41.8) | 31.8 (26.6, 36.0) |
 | Hazard Ratio (95% CI) | 0.80 (0.64, 1.00) |  |
 | p-value | 0.0462 |  |
-| Overall Response Rate (ORR)Confirmed responses |  |  |
+| Overall Response Rate (ORR)Confirmed responses. |  |  |
 | ORR, % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 2 | 1 |
 | Partial response, % | 75 | 68 |
@@ -165,7 +165,7 @@ Efficacy Results in FLAURA2 according to Investigator Assessment
 | PFS events (%) | 120 (43) | 166 (60) |
 | Progressive disease (%) | 95 (34) | 158 (57) |
 | DeathWithout documented radiological disease progression. (%) | 25 (9) | 8 (2.9) |
-| Median PFS in months (95% CI)þ | 25.5 (24.7, NE) | 16.7 (14.1, 21.3) |
+| Median PFS in months (95% CI) | 25.5 (24.7, NE) | 16.7 (14.1, 21.3) |
 | Hazard Ratio (95% CI)Stratified by race (Chinese/Asian, non-Chinese/Asian vs non-Asian), WHO performance status (0 or 1) and method of tissue testing (central or local).,Pike estimator. | 0.62 (0.49, 0.79) |  |
 | p-value,Stratified log-rank test. | <0.0001 |  |
 | Overall Response Rate (ORR)Confirmed responses., |  |  |
@@ -228,20 +228,20 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Progression-Free Survival |  |  |  |
 | Number of events (%) | 140 (50) |  | 110 (79) |
 | Progressive disease (%) | 129 (46) |  | 104 (74) |
-| DeathWithout documented radiological disease progression(%) | 11 (4) |  | 6 (4) |
+| DeathWithout documented radiological disease progression.(%) | 11 (4) |  | 6 (4) |
 | Median PFS in months (95% CI) | 10.1 (8.3, 12.3) |  | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |  |
-| p-valueStratified log-rank test | <0.001 |  |  |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs non-Asian).Pike estimator. | 0.30 (0.23,0.41) |  |  |
+| p-valueStratified log-rank test. | <0.001 |  |  |
 | Overall Survival |  |  |  |
 | Number of deaths (%) | 188 (67) | 93 (66) |  |
 | Median OS in months (95% CI) | 26.8 (23.5, 31.5) | 22.5 (20.2, 28.8) |  |
 | Hazard Ratio (95% CI) | 0.87 (0.67, 1.12) |  |  |
 | p-value | 0.277 |  |  |
-| Overall Response RateConfirmed |  |  |  |
+| Overall Response RateConfirmed responses. |  |  |  |
 | ORR, % (95% CI) | 65 (59, 70) |  | 29 (21, 37) |
 | Complete response, % | 1 |  | 1 |
 | Partial response, % | 63 |  | 27 |
-| p-valueLogistic regression analysis | <0.001 |  |  |
+| p-valueLogistic regression analysis. | <0.001 |  |  |
 | Duration of Response (DoR) |  |  |  |
 | Median in months (95% CI) | 11.0 (8.6, 12.6) |  | 4.2 (3.0, 5.9) |
 

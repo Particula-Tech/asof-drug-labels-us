@@ -42,7 +42,8 @@ Recommended Dosage
 
 Table 1 provides the recommended dosage of TAGRISSO by indication.
 
-Table 1: Recommended Dosage of TAGRISSO
+Table 1.
+Recommended Dosage of TAGRISSO
 
 | Indication | Recommended Dosage of TAGRISSO | Duration of Treatment |
 | --- | --- | --- |
