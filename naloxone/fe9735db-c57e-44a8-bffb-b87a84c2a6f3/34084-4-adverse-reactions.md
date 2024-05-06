@@ -9,7 +9,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-In two clinical studies, N002-CL-A3 (Study A3) and N002-CL-A4 (Study A4), which comprised a total of 141 study treatments from 60 subjects, including 55 treatments using 4 mg and 10 mg of Naloxone Hydrochloride nasal spray (IN), the following adverse reactions were observed: oral paraesthesia (3.7%), headache (3.7%).
+In two clinical studies, N002-CL-A3 (Study A3) and N002-CL-A4 (Study A4), which comprised a total of 141 study treatments from 60 subjects, including 55 treatments using 4 mg and 10 mg of REXTOVY nasal spray (IN), the following adverse reactions were observed: oral paraesthesia (3.7%), headache (3.7%).
 
 The following adverse reactions have been observed with other naloxone products: increased blood pressure, constipation, toothache, muscle spasms, musculoskeletal pain, headache, nasal dryness, nasal edema, nasal congestion, nasal inflammation, rhinalgia, xeroderma, abdominal pain, asthenia, dizziness, nasal discomfort, and presyncope.
 

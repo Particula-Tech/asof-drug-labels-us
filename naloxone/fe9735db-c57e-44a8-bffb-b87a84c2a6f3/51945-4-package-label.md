@@ -4,7 +4,7 @@ Principal Display Panel Text:
 
 NDC 76329-3669-2 Rx Only
 
-Naloxone HCl Nasal Spray
+REXTOVY™ (Naloxone HCl) Nasal Spray
 
 4 mg per Device For use in the Nose Only
 
@@ -22,4 +22,4 @@ Store at 20˚C to 25˚C (68˚F to 77˚F); excursions permitted from 4˚C to 40˚
 - Protect from light
 
 INTERNATIONAL MEDICATION SYSTEMS, LIMITED So.
-El Monte, CA 91733, U.S.A. An Amphastar Pharmaceuticals Company www.Amphastar.com 5636690C/2-23 Stock No. 3669
+El Monte, CA 91733, U.S.A. An Amphastar Pharmaceuticals Company www.Amphastar.com 5636690D/3-23 Stock No. 3669

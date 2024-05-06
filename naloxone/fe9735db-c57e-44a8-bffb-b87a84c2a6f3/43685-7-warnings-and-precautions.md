@@ -2,12 +2,12 @@
 
 ## 5.1 Risk of Recurrent Respiratory and Central Nervous System Depression
 
-The duration of action of most opioids may exceed that of Naloxone Hydrochloride Nasal Spray resulting in a return of respiratory and/or central nervous system depression after an initial improvement in symptoms.
-Therefore, it is necessary to seek emergency medical assistance immediately after administration of Naloxone Hydrochloride Nasal Spray and to keep the patient under continued surveillance.
-Administer additional doses of Naloxone Hydrochloride Nasal Spray if the patient is not adequately responding or responds and then relapses back into respiratory depression, as necessary [see Dosage and Administration (2.2)].
+The duration of action of most opioids may exceed that of REXTOVY Nasal Spray resulting in a return of respiratory and/or central nervous system depression after an initial improvement in symptoms.
+Therefore, it is necessary to seek emergency medical assistance immediately after administration of REXTOVY Nasal Spray and to keep the patient under continued surveillance.
+Administer additional doses of REXTOVY Nasal Spray if the patient is not adequately responding or responds and then relapses back into respiratory depression, as necessary [see Dosage and Administration (2.2)].
 Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance.
 
-## 5.2 Limited Efficacy with Partial Agonists or Mixed Agonist/Antagonists
+## 5.2 Risk of Limited Efficacy with Partial Agonists or Mixed Agonist/Antagonists
 
 Reversal of respiratory depression by partial agonists or mixed agonist/antagonists such as buprenorphine and pentazocine, may be incomplete.
 Larger or repeat doses of naloxone hydrochloride may be required to antagonize buprenorphine because the latter has a long duration of action due to its slow rate of binding and subsequent slow dissociation from the opioid receptor [see Dosage and Administration (2.3)].
@@ -15,7 +15,7 @@ Buprenorphine antagonism is characterized by a gradual onset of the reversal eff
 
 ## 5.3 Precipitation of Severe Opioid Withdrawal
 
-The use of Naloxone Hydrochloride Nasal Spray in patients who are opioid-dependent may precipitate opioid withdrawal characterized by the following signs and symptoms: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure.
+The use of REXTOVY Nasal Spray in patients who are opioid dependent may precipitate opioid withdrawal characterized by the following signs and symptoms: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure.
 In neonates, opioid withdrawal may be life-threatening if not recognized and properly treated and may include the following signs and symptoms: convulsions, excessive crying, and hyperactive reflexes.
 Monitor the patient for the development of the signs and symptoms of opioid withdrawal.
 

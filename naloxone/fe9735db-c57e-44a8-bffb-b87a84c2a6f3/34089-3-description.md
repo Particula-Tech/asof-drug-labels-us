@@ -8,8 +8,8 @@ It has the following structural formula:
 Naloxone hydrochloride dihydrate occurs as a white to slightly off-white powder.
 It is soluble in water, in dilute acids, and in strong alkali; slightly soluble in alcohol; practically insoluble in ether and in chloroform.
 
-Naloxone Hydrochloride Nasal Spray is a prefilled unit-dose intranasal spray.
+REXTOVY Nasal Spray is a prefilled unit-dose intranasal spray.
 Naloxone hydrochloride is contained as a solution in a stoppered glass vial within the nasal spray device.
-Each device delivers a single spray containing 4 mg of naloxone hydrochloride (equivalent to 3.6 mg of naloxone) in 0.25 mL of aqueous solution with a pH of 3.5 to 5.0.
+Each REXTOVY device delivers a single spray containing 4 mg of naloxone hydrochloride (equivalent to 3.6 mg of naloxone) in 0.25 mL of aqueous solution with a pH of 3.5 to 5.0.
 
 Inactive ingredients include sodium chloride, sodium hydroxide to adjust pH, and water for injection USP.
