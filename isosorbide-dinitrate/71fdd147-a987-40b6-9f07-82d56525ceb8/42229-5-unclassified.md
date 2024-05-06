@@ -1,12 +1,10 @@
-Distributed by
+Manufactured in India by
 
-Sandoz Inc.
+Sandoz Private Ltd., for
 
-Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540
 
-46299656
-
-MF42026487REV11/21
+46316474
 
 Rev.
-November 2021
+Feb 2023
