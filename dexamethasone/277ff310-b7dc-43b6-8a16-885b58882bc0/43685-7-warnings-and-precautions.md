@@ -17,7 +17,7 @@ IOP should be checked frequently.
 
 The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation.
 
-MAXITROL® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is not for injection.
+MAXITROL ®(neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is not for injection.
 It should never be injected subconjunctivally, nor should it be directly introduced into the anterior chamber of the eye.
 
 Products containing neomycin sulfate may cause cutaneous sensitization.
@@ -30,7 +30,7 @@ Cross-hypersensitivity to other aminoglycosides can occur, and the possibility t
 
 ## General
 
-The initial prescription and renewal of the medication order beyond 20 mL of MAXITROL® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and where appropriate, fluorescein staining.
+The initial prescription and renewal of the medication order beyond 20 mL of MAXITROL ®(neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and where appropriate, fluorescein staining.
 If signs and symptoms fail to improve after two days, the patient should be reevaluated.
 
 As fungal infections of the cornea are particularly prone to develop coincidentally with long-term corticosteroid applications, fungal invasion should be suspected in any persistent corneal ulceration where a corticosteroid has been used or is in use.
@@ -50,7 +50,7 @@ The use of this bottle by more than one person may spread infection.
 Keep bottle tightly closed when not in use.
 Keep out of reach of children.
 
-Patients should be advised that their vision may be temporarily blurred following dosing with MAXITROL® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension).
+Patients should be advised that their vision may be temporarily blurred following dosing with MAXITROL ® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension).
 Care should be exercised in operating machinery or driving a motor vehicle.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -69,14 +69,14 @@ In the rabbit, corticosteroids have produced fetal resorptions and multiple abno
 
 There are no adequate or well-controlled studies in pregnant women.
 However, prolonged or repeated corticoid use during pregnancy has been associated with an increased risk of intra-uterine growth retardation.
-MAXITROL® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the embryo or fetus.
+MAXITROL ® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the embryo or fetus.
 Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be observed carefully for signs of hypoadrenalism.
 
 ## Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk, could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when MAXITROL® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when MAXITROL ®(neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is administered to a nursing woman.
 
 ## Pediatric Use
 
