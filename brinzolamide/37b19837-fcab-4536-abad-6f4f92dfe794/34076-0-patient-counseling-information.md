@@ -27,8 +27,10 @@ Contact Lens Wear
 The preservative in brinzolamide ophthalmic suspension, benzalkonium chloride, may be absorbed by soft contact lenses.
 Contact lenses should be removed during instillation of brinzolamide ophthalmic suspension, but may be reinserted 15 minutes after instillation.
 
+*TRUSOPT is a registered trademark of Merck & Co., Inc.
+
 Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
-© 2023 Bausch & Lomb Incorporated or its affiliates
+© 2024 Bausch & Lomb Incorporated or its affiliates
 
-9441902 (Folded) 9442002 (Flat)
+P/N (Folded) P/N (Flat)
