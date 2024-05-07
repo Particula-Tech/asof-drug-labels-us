@@ -1,63 +1,76 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Hemophilia A and von Willebrand's Disease (Type I)
+## 2.1 Pretreatment Testing and On-Treatment Monitoring
 
-Desmopressin acetate injection is administered as an intravenous infusion at a dose of 0.3 mcg desmopressin acetate/kg body weight diluted in sterile physiological saline and infused slowly over 15 to 30 minutes.
-In adults and children weighing more than 10 kg, 50 mL of diluent is recommended; in children weighing 10 kg or less, 10 mL of diluent is recommended.
-Blood pressure and pulse should be monitored during infusion.
-If desmopressin acetate injection 4 mcg per mL is used preoperatively, it should be administered 30 minutes prior to the scheduled procedure.
+Diabetes Insipidus
 
-The necessity for repeat administration of desmopressin acetate injection or use of any blood products for hemostasis should be determined by laboratory response as well as the clinical condition of the patient.
-The tendency toward tachyphylaxis (lessening of response) with repeated administration given more frequently than every 48 hours should be considered in treating each patient.
+Prior to treatment with desmopressin acetate injection, assess serum sodium, urine volume and osmolality.
+Intermittently during treatment, assess serum sodium, urine volume and osmolality or plasma osmolality.
 
-Fluid restriction should be observed.
-(See WARNINGS, PRECAUTIONS, Pediatric Use and Geriatric Use.)
+Hemophilia A
 
-## Diabetes Insipidus
+Prior to treatment with desmopressin acetate injection, verify that factor VIII coagulant activity levels are >5% and exclude the presence of factor VIII autoantibodies.
+Also assess serum sodium and aPTT prior to treatment.
+In certain clinical situations, it may be justified to try desmopressin acetate injection in patients with factor VIII levels between 2% to 5%; however, these patients should be carefully monitored.
 
-This formulation is administered subcutaneously or by direct intravenous injection.
-Desmopressin acetate injection dosage must be determined for each patient and adjusted according to the pattern of response.
-Response should be estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover.
+von Willebrand's Disease (Type I)
 
-The usual dosage range in adults is 0.5 mL (2 mcg) to 1 mL (4 mcg) daily, administered intravenously or subcutaneously, usually in two divided doses.
+Prior to treatment with desmopressin acetate injection, verify that factor VIII coagulant activity levels are >5% and exclude severe von Willebrand's disease (Type I) and presence of abnormal molecular form of factor VIII antigen.
+During treatment with desmopressin acetate injection, assess serum sodium, bleeding time, factor VIII coagulant activity, ristocetin cofactor activity, and von Willebrand antigen to ensure that adequate levels are being achieved.
+
+For All Patients Receiving Repeated Doses: Restrict free water intake and monitor for hyponatremia.
+Ensure that serum sodium is normal prior to initiating or resuming treatment with desmopressin acetate injection.
+
+## 2.2 Recommended Dosage
+
+Initiate fluid restriction during treatment with desmopressin acetate injection [see Warnings and Precautions (5.1), Use in Specific Populations (8.4, 8.5)].
+
+Diabetes Insipidus
+
+Treatment naïve patients: The recommended starting daily dosage is 2 mcg to 4 mcg administered as one or two divided doses by subcutaneous or intravenous injection.
+Do not dilute desmopressin acetate injection for the Diabetes Insipidus population.
 The morning and evening doses should be separately adjusted for an adequate diurnal rhythm of water turnover.
-For patients who have been controlled on intranasal desmopressin acetate injection and who must be switched to the injection form, either because of poor intranasal absorption or because of the need for surgery, the comparable antidiuretic dose of the injection is about one-tenth the intranasal dose.
+Adjust dose based upon response to treatment estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover.
 
-Fluid restriction should be observed.
-(See WARNINGS, PRECAUTIONS, Pediatric Use and Geriatric Use.)
+Patients changing from intranasal desmopressin: The recommended starting dose of desmopressin acetate injection is 1/10th the daily maintenance intranasal dose administered by subcutaneous or intravenous injection as one or two divided doses
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Hemophilia A and von Willebrand's Disease (Type I)
 
-## Geriatric Use
+The recommended dosage is 0.3 mcg/kg actual body weight (to a maximum of 20 mcg) administered by intravenous infusion over 15 minutes to 30 minutes.
+If used preoperatively, administer 30 minutes prior to the procedure.
+If used to reduce spontaneous or traumatic bleeding, doses may be repeated after 8 hours to 12 hours and once daily thereafter, if needed, based upon clinical condition and von Willebrand factor and factor VIII levels.
+The necessity for repeat administration of desmopressin acetate injection or use of any blood products for hemostasis should be determined by laboratory response as well as the clinical condition of the patient.
 
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics, CONTRAINDICATIONS, and PRECAUTIONS, Geriatric Use.)
+Tachyphylaxis (lessening of response) with repeated administration (i.e., given more frequently than every 48 hours) may occur.
+The initial response is reproducible if desmopressin acetate injection is administered every 2 to 3 days.
 
-## HOW SUPPLIED
+## 2.3 Preparation and Administration for Patients with Hemophilia A and von Willebrand's Disease (Type I)
 
-Desmopressin Acetate Injection, USP is supplied as follows:
+Prepare the solution for infusion using aseptic technique.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Withdraw the necessary volume of desmopressin acetate injection from the vial and dilute by adding to the infusion bag of 0.9% Sodium Chloride Injection, USP per Table 1.
+Dilute desmopressin acetate injection in sterile 0.9% Sodium Chloride Injection, USP and infuse slowly over 15 minutes to 30 minutes.
 
-|  | Desmopressin Acetate Injection, USP |  |
-| --- | --- | --- |
-| NDC | (4 mcg per mL) | Package Factor |
-| 25021-460-01 | 4 mcg per mL Single-Dose Vial | 10 vials per carton |
+The volume of diluent is weight-based.
+See Table 1 for volume of diluent to use.
 
-Desmopressin Acetate Injection, USP is a clear, colorless solution, free from particulate matter filled in a clear glass vial.
+Table 1: Volume of Diluent Required
 
-Storage Conditions Store refrigerated between 2° and 8°C (36° and 46°F).
+| Patient Weight | Volume of 0.9% Sodium Chloride Injection, USP for dilution |
+| --- | --- |
+| 10 kg or less | 10 mL |
+| More than 10 kg | 50 mL |
 
-Discard unused portion.
+Monitor blood pressure and pulse during infusion.
 
-Keep out of the reach of children.
+## 2.4 Switching Between Desmopressin Acetate Formulations
 
-Sterile, Nonpyrogenic, Preservative-free.
-The container closure is not made with natural rubber latex.
+Desmopressin acetate is also available as nasal spray and tablet dosage forms.
 
-SAGENT®
+When switching between formulations, the below text is meant as guidance for starting dose.
+However, dose should always be titrated individually according to the diuresis (antidiuretic response) and electrolyte status (serum sodium) of the patient.
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2017 Sagent Pharmaceuticals, Inc.
+When switching from desmopressin acetate nasal spray to desmopressin acetate injection, the starting dose is one-tenth times the desmopressin acetate nasal spray dose.
 
-July 2017
-
-SAGENT Pharmaceuticals®
+When switching from desmopressin acetate tablets to desmopressin acetate injection, titrate dose individually according to the diuresis (antidiuretic response) and electrolyte status (serum sodium) due to the large variability in both PK and PD.
+Monitor patients closely during the initial dose titration period.

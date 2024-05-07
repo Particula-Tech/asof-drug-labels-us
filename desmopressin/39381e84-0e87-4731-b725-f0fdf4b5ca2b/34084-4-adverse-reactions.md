@@ -1,16 +1,24 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Infrequently, desmopressin acetate has produced transient headache, nausea, mild abdominal cramps and vulval pain.
-These symptoms disappeared with reduction in dosage.
-Occasionally, injection of desmopressin acetate has produced local erythema, swelling or burning pain.
-Occasional facial flushing has been reported with the administration of desmopressin acetate.
-Desmopressin acetate has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate.
-Severe allergic reactions including anaphylaxis have been reported rarely with desmopressin acetate.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-See WARNINGS for the possibility of water intoxication and hyponatremia.
+- Hyponatremia [see Contraindications, Warnings and Precautions (5.1)]
+- Hypotension and Hypertension [see Warnings and Precautions (5.2)]
+- Increased risk of thrombosis in patients with von Willebrand's Disease Type IIB [see Warnings and Precautions (5.3)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.4)]
+- Fluid retention [see Warnings and Precautions (5.5)]
 
-## Post Marketing
+The following adverse reactions have been identified during post-approval use of desmopressin acetate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
+Cardiovascular: Hypertension, hypotension, tachycardia, thrombotic events, fluid retention
 
-To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Digestive: Nausea, abdominal cramps
+
+Immune: Hypersensitivity reactions
+
+Integumentary: Erythema, swelling, burning pain, facial flushing
+
+Laboratory: Hyponatremia
+
+Nervous: Headache, hyponatremic seizures
