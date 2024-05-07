@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA070302",
+    "ANDA070303",
+    "ANDA070304"
+  ],
+  "inn": "diazepam",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-786-90",
+    "62135-787-90",
+    "62135-788-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "diazepam",
+      "name": "Diazepam"
+    }
+  ],
+  "setid": "6cb19468-be02-4219-9e80-94a28e2317b9",
+  "source": "dailymed"
+}
