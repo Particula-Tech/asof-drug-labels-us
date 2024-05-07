@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA205977"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-875-90",
+    "31722-876-90",
+    "31722-877-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin calcium",
+      "name": "pitavastatin calcium"
+    }
+  ],
+  "setid": "e9622824-cee5-49d7-9273-f18b9cc176fd",
+  "source": "dailymed"
+}
