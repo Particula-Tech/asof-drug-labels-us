@@ -39,14 +39,14 @@ When renal function is impaired, a reduced dosage should be employed using the f
 
 The usual adult dosage in the treatment of acute exacerbations of chronic bronchitis is four teaspoonfuls (20 mL) sulfamethoxazole and trimethoprim oral suspension every 12 hours for 14 days.
 
-## Pneumocystis Carinii Pneumonia
+## Pneumocystis CariniiPneumonia
 
 ### Treatment
 
 #### Adults and Children
 
-The recommended dosage for treatment of patients with documented Pneumocystis carinii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.
-10 The following table is a guideline for the upper limit of this dosage:
+The recommended dosage for treatment of patients with documented Pneumocystis cariniipneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.
+10The following table is a guideline for the upper limit of this dosage:
 
 | lb | kg | Teaspoonfuls |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ The recommended dosage for prophylaxis in adults is four teaspoonfuls (20 mL) of
 
 For children, the recommended dose is 750 mg/m 2/day sulfamethoxazole with 150 mg/m 2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
 The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.
-12 The following table is a guideline for the attainment of this dosage in children:
+12The following table is a guideline for the attainment of this dosage in children:
 
 | (m 2) | Teaspoonful |
 | --- | --- |

@@ -10,16 +10,16 @@ The presence of 10 mg percent sulfamethoxazole in plasma decreases the protein b
 
 Peak blood levels for the individual components occur 1 to 4 hours after oral administration.
 The mean serum half-lives of sulfamethoxazole and trimethoprim are 10 and 8 to 10 hours, respectively.
-However, patients with severely impaired renal function exhibit an increase in the half-lives of both components, requiring dosage regimen adjustment (see DOSAGE AND ADMINISTRATION section).
+However, patients with severely impaired renal function exhibit an increase in the half-lives of both components, requiring dosage regimen adjustment (see DOSAGE AND ADMINISTRATIONsection).
 Detectable amounts of sulfamethoxazole and trimethoprim are present in the blood 24 hours after drug administration.
 During administration of 800 mg sulfamethoxazole and 160 mg trimethoprim b.i.d., the mean steady-state plasma concentration of trimethoprim was 1.72 µg/mL.
 The steady-state mean plasma levels of free and total sulfamethoxazole were 57.4 µg/mL and 68.0 µg/mL, respectively.
 These steady-state levels were achieved after three days of drug administration.
-1 Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
+1Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
 Urine concentrations of both sulfamethoxazole and trimethoprim are considerably higher than are the concentrations in the blood.
 The average percentage of the dose recovered in urine from 0 to 72 hours after a single oral dose of sulfamethoxazole and trimethoprim is 84.5% for total sulfonamide and 66.8% for free trimethoprim.
 Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, with the remaining as N 4-acetylated metabolite.
-2 When administered together as sulfamethoxazole and trimethoprim, neither sulfamethoxazole nor trimethoprim affects the urinary excretion pattern of the other.
+2When administered together as sulfamethoxazole and trimethoprim, neither sulfamethoxazole nor trimethoprim affects the urinary excretion pattern of the other.
 
 Both sulfamethoxazole and trimethoprim distribute to sputum, vaginal fluid and middle ear fluid; trimethoprim also distributes to bronchial secretions, and both pass the placental barrier and are excreted in human milk.
 
@@ -37,15 +37,15 @@ Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing 
 Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase.
 Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps in the biosynthesis of nucleic acids and proteins essential to many bacteria.
 
-In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole trimethoprim in combination than with either sulfamethoxazole or trimethoprim alone.
+In vitrostudies have shown that bacterial resistance develops more slowly with both sulfamethoxazole trimethoprim in combination than with either sulfamethoxazole or trimethoprim alone.
 
-Sulfamethoxazole and trimethoprim have been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Sulfamethoxazole and trimethoprim have been shown to be active against most strains of the following microorganisms, both in vitroand in clinical infections as described in the INDICATIONS AND USAGEsection.
 
 Aerobic gram-positive microorganisms: Streptococcus pneumoniae
 
 Aerobic gram-negative microorganisms: Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea)
 
-Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
+Klebsiellaspecies Enterobacterspecies Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
 
 Other Organisms: Pneumocystis carinii
 
@@ -56,7 +56,7 @@ Other Organisms: Pneumocystis carinii
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method 4 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of sulfamethoxazole/trimethoprim powder.
+Standardized procedures are based on a dilution method 4(broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of sulfamethoxazole/trimethoprim powder.
 The MIC values should be interpreted according to the following criteria:
 
 For testing Enterobacteriaceae:
@@ -147,7 +147,7 @@ For the diffusion technique, the 1.25/23.75 µg sulfamethoxazole/ trimethoprim d
 | Haemophilus influenzaeg | ATCC 49247 | 24-32 |
 | Streptococcus pneumoniae h | ATCC 49619 | 20-28 |
 
-* Mueller-Hinton agar should be checked for excessive levels of thymidine or thymine.
+*Mueller-Hinton agar should be checked for excessive levels of thymidine or thymine.
 To determine whether Mueller-Hinton medium has sufficiently low levels of thymidine and thymine, an Enterococcus faecalis (ATCC 29212 or ATCC 33186) may be tested with sulfamethoxazole/trimethoprim disks.
 A zone of inhibition ≥20 mm that is essentially free of fine colonies indicates a sufficiently low level of thymidine and thymine.
 
