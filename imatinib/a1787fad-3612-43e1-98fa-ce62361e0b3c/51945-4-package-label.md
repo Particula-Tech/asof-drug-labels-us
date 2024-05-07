@@ -6,7 +6,7 @@ Imatinib Mesylate Tablets 100 mg*
 
 Rx only 90 Tablets
 
-Each film-coated tablet contains 119.5 mg of imatinib mesylate equivalent to 100 mg of imatinib.
+*Each film-coated tablet contains 119.5 mg of imatinib mesylate equivalent to 100 mg of imatinib.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -25,9 +25,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in Germany
 
-RHPT2245MM
+RHPT2245MM1
 
-51751973-12/22
+51756746-03/24
 
 # PRINCIPAL DISPLAY PANEL – 400 mg
 
@@ -56,4 +56,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in Germany
 
-RHPT2246H 51751974-12/22
+RHPT2246H1
+
+51756747-03/24
