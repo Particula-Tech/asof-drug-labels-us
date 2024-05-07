@@ -4,7 +4,7 @@ Barcode (FPO)
 
 Use 10 mL Sterileor Bacte- riostatic Water for Injection for reconstitution only.
 
-NDC 60977- 145-01 Rx Only
+Rx Only
 
 Store at 20°C to 25°C (68°F to 77°F).
 See package insert for Usual Dosage and storage of reconstituted and further diluted product.
@@ -31,8 +31,6 @@ Baxter Logo
 DAPZURA RT
 
 (daptomycin for injection) 500 mg per vial
-
-NDC 60977- 145-01
 
 DAPZURA RT
 
@@ -63,8 +61,6 @@ Made in the USA
 2VR500 07-01-00-0894
 
 3-6118-520
-
-NDC 60977- 145-01
 
 DAPZURA RT
 
