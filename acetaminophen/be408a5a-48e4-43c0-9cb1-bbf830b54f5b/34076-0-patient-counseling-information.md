@@ -31,4 +31,8 @@ If treatment with COMBOGESIC IV is needed for a pregnant woman between about 20 
 • Use of NSAIDs and Low-Dose Aspirin: Inform patients not to use low-dose aspirin concomitantly with COMBOGESIC IV until they talk to their healthcare provider [see Warnings and Precautions (5.4), see Drug Interactions (7)].
 
 Manufactured by: S.M.
-Farmaceutici SRL, Zona Industriale, 85050 Tito (PZ), Italy Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 Revised: October 2023
+Farmaceutici SRL, Zona Industriale, 85050 Tito (PZ), Italy Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
+
+Information and patents: https://www.combogesiciv.com
+
+Revised: April 2024

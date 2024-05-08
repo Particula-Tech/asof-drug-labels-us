@@ -31,5 +31,3 @@ Single-Dose Vial.
 Discard unused portion.
 
 10 x 100 mL Vials
-
-# SERIALIZATION
