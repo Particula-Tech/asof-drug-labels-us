@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201892"
+  ],
+  "inn": "rasagiline",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-676-30",
+    "62135-677-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rasagiline",
+      "name": "Rasagiline"
+    }
+  ],
+  "setid": "d9168d62-814a-444f-9d70-11674def339d",
+  "source": "dailymed"
+}
