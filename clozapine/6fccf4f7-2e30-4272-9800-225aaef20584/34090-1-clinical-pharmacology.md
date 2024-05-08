@@ -86,3 +86,8 @@ CYP2D6 Poor Metabolizers
 
 A subset (3% to 10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
 These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.
+
+Patients with Pneumonia and Other Inflammatory Conditions
+
+Published case reports describe examples where pneumonia or other inflammatory conditions may increase clozapine concentrations.
+The clinical significance, the impact of treatments to modulate this inflammation, and mechanism of this potential increase in clozapine concentrations have not been fully characterized but may involve reduced cytochrome P450 1A2 activity.

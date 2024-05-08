@@ -108,7 +108,8 @@ Subsequently, the dose can be increased weekly or twice weekly, in increments of
 The maximum dose is 900 mg per day.
 Use cautious titration and a divided dosage schedule to minimize the risk of serious cardiovascular reactions [see Dosage and Administration (2.3)].
 Consider reducing the dose if hypotension occurs.
-When restarting patients who have had even a brief interval off clozapine (i.e., 2 days or more since the last dose), re-initiate treatment at 12.5 mg once daily or twice daily [see Dosage and Administration (2.6)].
+When restarting clozapine orally disintegrating tablets in patients who have had even a brief interruption in treatment with clozapine orally disintegrating tablets, the dosage must be reduced.
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Dosage and Administration (2.6)].
 
 Use clozapine cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
@@ -156,7 +157,7 @@ Clozapine is not approved for the treatment of patients with dementia-related ps
 
 Severe gastrointestinal adverse reactions have occurred with the use of clozapine, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reactions (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reactions (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk for severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
 

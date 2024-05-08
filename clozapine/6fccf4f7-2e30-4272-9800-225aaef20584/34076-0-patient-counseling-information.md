@@ -13,8 +13,8 @@ Discuss the following issues with patients and caregivers:
   - Clozapine is available only from certified pharmacies participating in the program.
     Provide patients (and caregivers) with website information and the telephone number on how to obtain the product [see Warnings and Precautions (5.2)].
 - Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
-  Instruct them to strictly follow the clinician’s instructions for dosage and administration.
-  Advise patients to consult their clinician immediately if they feel faint, lose consciousness, or have signs or symptoms suggestive of bradycardia or arrhythmia [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
+  Instruct them to strictly follow the clinician’s instructions for dosage and administration [see Dosage and Administration (2.3, 2.6)].
+  Advise patients to consult their clinician immediately if they feel faint, lose consciousness, or have signs or symptoms suggestive of bradycardia or arrhythmia [see Warnings and Precautions (5.3)].
 - Falls: Inform patients of the risk of falls, which may lead to fractures or other injuries [see Warnings and Precautions (5.4)].
 - Seizures: Inform patients and caregivers about the significant risk of seizure during clozapine treatment.
   Caution them about driving and any other potentially hazardous activity while taking clozapine [see Warnings and Precautions (5.5)].
@@ -45,4 +45,4 @@ All brand names listed are the registered trademarks of their respective owners 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-D 1/2022
+F 5/2023

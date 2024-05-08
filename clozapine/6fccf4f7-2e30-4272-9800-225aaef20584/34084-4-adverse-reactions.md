@@ -146,7 +146,7 @@ Pseudopheochromocytoma.
 
 ### Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling, megacolon, intestinal ischemia or infarction.
+Acute pancreatitis, dysphagia, salivary gland swelling, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 
 ### Hepatobiliary System
 
