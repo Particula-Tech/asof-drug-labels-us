@@ -42,7 +42,6 @@ Trademark owned or licensed by GSK.
 
 1. 62000000085809 Rev.
    2/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -88,7 +87,6 @@ Trademark owned or licensed by GSK.
 
 1. 62000000085814 Rev.
    2/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
