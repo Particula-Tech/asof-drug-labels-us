@@ -8,21 +8,12 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 Keep out of reach of children.
 
-Store at 20°- 25°C (68°-77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP controlled room temperature.]
 Protect from light, moisture, freezing, -20°C (-4°F).
 Keep container tightly closed.
 
-Rx only
+Manufactured for: Teva Pharmaceuticals Parsippany, NJ 07054
 
-For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 USA 1-888-838-2872
-
-Made in India
-
-Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
-
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
-
-Revised: August 2020
-
-237496-3
+Rev.
+12/2023
