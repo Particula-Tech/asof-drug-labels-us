@@ -23,7 +23,7 @@ Before using Mometasone Furoate Ointment, 0.1%, tell your healthcare provider ab
 - •are pregnant or plan to become pregnant.
   It is not known if Mometasone Furoate Ointment, 0.1% will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Mometasone Furoate Ointment, 0.1% passes into your breast milk.
+  It is not known if mometasone furoate passes into your breast milk.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -81,16 +81,14 @@ Active ingredient: mometasone furoate
 
 Inactive ingredients: hexylene glycol, phosphoric acid, propylene glycol stearate (55% monoester), purified water, white wax, and white petrolatum
 
-Made in Israel
+Manufactured by Padagis®
 
-Manufactured By Perrigo, Yeruham, Israel
+Yeruham, Israel
 
-Distributed By
+www.padagis.com
 
-Perrigo®
+Rev 01-23
 
-Allegan, MI 49010 • www.perrigo.com
-
-Rev 12-18
+1M600 RC PH6
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

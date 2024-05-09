@@ -19,21 +19,21 @@ Mometasone furoate also caused dystocia and related complications when administe
 In mice, mometasone furoate caused cleft palate at subcutaneous doses of 60 mcg/kg and above.
 Fetal survival was reduced at 180 mcg/kg.
 No toxicity was observed at 20 mcg/kg.
-(Doses of 20, 60, and 180 mcg/kg in the mouse are approximately 0.01, 0.02, and 0.05 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis).
+(Doses of 20, 60, and 180 mcg/kg in the mouse are approximately 0.01, 0.02, and 0.05 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis.)
 
 In rats, mometasone furoate produced umbilical hernias at topical doses of 600 mcg/kg and above.
 A dose of 300 mcg/kg produced delays in ossification, but no malformations.
-(Doses of 300 and 600 mcg/kg in the rat are approximately 0.2 and 0.4 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis).
+(Doses of 300 and 600 mcg/kg in the rat are approximately 0.2 and 0.4 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis.)
 
 In rabbits, mometasone furoate caused multiple malformations (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at topical doses of 150 mcg/kg and above (approximately 0.2 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis).
 In an oral study, mometasone furoate increased resorptions and caused cleft palate and/or head malformations (hydrocephaly and domed head) at 700 mcg/kg.
 At 2800 mcg/kg most litters were aborted or resorbed.
 No toxicity was observed at 140 mcg/kg.
-(Doses of 140, 700, and 2800 mcg/kg in the rabbit are approximately 0.2, 0.9, and 3.6 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis).
+(Doses of 140, 700, and 2800 mcg/kg in the rabbit are approximately 0.2, 0.9, and 3.6 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis.)
 
 When rats received subcutaneous doses of mometasone furoate throughout pregnancy or during the later stages of pregnancy, 15 mcg/kg caused prolonged and difficult labor and reduced the number of live births, birth weight, and early pup survival.
 Similar effects were not observed at 7.5 mcg/kg.
-(Doses of 7.5 and 15 mcg/kg in the rat are approximately 0.005 and 0.01 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis).
+(Doses of 7.5 and 15 mcg/kg in the rat are approximately 0.005 and 0.01 times the estimated maximum clinical topical dose from mometasone furoate ointment, 0.1% on a mcg/m2 basis.)
 
 ## 8.3 Nursing Mothers
 

@@ -1,5 +1,7 @@
 # Package/Label Display Panel
 
+NDC 45802-119-37
+
 Rx Only
 
 Mometasone Furoate Ointment USP, 0.1%

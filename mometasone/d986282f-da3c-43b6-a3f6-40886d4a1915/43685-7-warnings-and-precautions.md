@@ -24,7 +24,7 @@ Pediatric patients may be more susceptible to systemic toxicity from equivalent 
 Use of topical corticosteroids may increase the risk of posterior subcapsular cataracts and glaucoma.
 Cataracts and glaucoma have been reported in postmarketing experience with the use of topical corticosteroid products, including the topical mometasone products [see Adverse Reactions (6.2)].
 
-Avoid contact of Mometasone Furate Ointment, 0.1% with eyes.
+Avoid contact of Mometasone Furoate Ointment, 0.1% with eyes.
 Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
 
 ## 5.3 Allergic Contact Dermatitis
