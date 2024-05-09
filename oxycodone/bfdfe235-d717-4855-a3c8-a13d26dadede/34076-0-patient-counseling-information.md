@@ -39,7 +39,7 @@ Inform patients and caregivers about the various ways to obtain naloxone as perm
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
-Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
 
 If naloxone is prescribed, also advise patients and caregivers:
 
@@ -118,11 +118,11 @@ Infertility
 Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
+Healthcare professionals can telephone Purdue Pharma's Medical Services Department (1-888-726-7535) for information on this product.
 
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
 ©2023, Purdue Pharma L.P.
 
-U.S. Patent Numbers 7,129,248; 8,309,060; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,073,933; 9,492,389; 9,492,391; 9,492,392; 9,492,393; 9,522,919; 9,675,610; 9,763,886; 9,763,933; 9,770,416; 9,775,808; 9,775,810; 9,775,811; 9,777,011; 10,130,591; 10,369,109; 10,407,434; 10,675,278 and 10,696,684.
+U.S. Patent Numbers 7,129,248; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,073,933; 9,492,389; 9,492,391; 9,492,392; 9,492,393; 9,522,919; 9,763,886; 9,763,933; 9,770,416; 9,775,808; 9,775,810; 9,775,811; 9,777,011; 10,407,434; 10,696,684; 11,304,908 and 11,304,909.

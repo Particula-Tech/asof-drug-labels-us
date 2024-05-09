@@ -22,9 +22,9 @@ In addition, abuse of opioids can occur in the absence of addiction.
 All patients treated with opioids require careful and frequent reevaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 Patients at high risk of OXYCONTIN abuse include those with a history of prolonged use of any opioid, including products containing oxycodone, those with a history of drug or alcohol abuse, or those who use OXYCONTIN in combination with other abused drugs.
 
-“Drug-seeking” behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
-“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated "loss" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+"Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
 
 OXYCONTIN, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
@@ -50,7 +50,7 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 Abuse Deterrence Studies
 
 OXYCONTIN is formulated with inactive ingredients intended to make the tablet more difficult to manipulate for misuse and abuse.
-For the purposes of describing the results of studies of the abuse-deterrent characteristics of OXYCONTIN resulting from a change in formulation, in this section, the original formulation of OXYCONTIN, which is no longer marketed, will be referred to as “original OxyContin” and the reformulated, currently marketed product will be referred to as “OXYCONTIN".
+For the purposes of describing the results of studies of the abuse-deterrent characteristics of OXYCONTIN resulting from a change in formulation, in this section, the original formulation of OXYCONTIN, which is no longer marketed, will be referred to as "original OxyContin" and the reformulated, currently marketed product will be referred to as "OXYCONTIN".
 
 In Vitro Testing In vitro physical and chemical tablet manipulation studies were performed to evaluate the success of different extraction methods in defeating the extended-release formulation.
 Results support that, relative to original OxyContin, there is an increase in the ability of OXYCONTIN to resist crushing, breaking, and dissolution using a variety of tools and solvents.
@@ -62,10 +62,10 @@ The five treatment arms were finely crushed OXYCONTIN 30 mg tablets, coarsely cr
 Data for finely crushed OXYCONTIN, finely crushed original OxyContin, and powdered oxycodone HCl are described below.
 
 Drug liking was measured on a bipolar drug liking scale of 0 to 100 where 50 represents a neutral response of neither liking nor disliking, 0 represents maximum disliking and 100 represents maximum liking.
-Response to whether the subject would take the study drug again was also measured on a bipolar scale of 0 to 100 where 50 represents a neutral response, 0 represents the strongest negative response (“definitely would not take drug again”) and 100 represents the strongest positive response (“definitely would take drug again”).
+Response to whether the subject would take the study drug again was also measured on a bipolar scale of 0 to 100 where 50 represents a neutral response, 0 represents the strongest negative response ("definitely would not take drug again") and 100 represents the strongest positive response ("definitely would take drug again").
 
 Twenty-seven of the subjects completed the study.
-Incomplete dosing due to granules falling from the subjects’ nostrils occurred in 34% (n = 10) of subjects with finely crushed OXYCONTIN, compared with 7% (n = 2) of subjects with finely crushed original OxyContin and no subjects with powdered oxycodone HCl.
+Incomplete dosing due to granules falling from the subjects' nostrils occurred in 34% (n = 10) of subjects with finely crushed OXYCONTIN, compared with 7% (n = 2) of subjects with finely crushed original OxyContin and no subjects with powdered oxycodone HCl.
 
 The intranasal administration of finely crushed OXYCONTIN was associated with a numerically lower mean and median drug liking score and a lower mean and median score for take drug again, compared to finely crushed original OxyContin or powdered oxycodone HCl as summarized in Table 5.
 

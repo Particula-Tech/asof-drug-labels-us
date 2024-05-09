@@ -21,7 +21,7 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
 Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
@@ -34,14 +34,14 @@ Use of higher starting doses in patients who are not opioid tolerant may cause f
 
 ## 2.4 Conversion from Opioids to OXYCONTIN in Adults
 
-Conversion from Other Oral Oxycodone Formulations to OXYCONTIN If switching from other oral oxycodone formulations to OXYCONTIN, administer one half of the patient’s total daily oral oxycodone dose as OXYCONTIN every 12 hours.
+Conversion from Other Oral Oxycodone Formulations to OXYCONTIN If switching from other oral oxycodone formulations to OXYCONTIN, administer one half of the patient's total daily oral oxycodone dose as OXYCONTIN every 12 hours.
 
 Conversion from Other Opioids to OXYCONTIN When OXYCONTIN therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 
 There are no established conversion ratios for conversion from other opioids to OXYCONTIN defined by clinical trials.
 Initiate dosing using OXYCONTIN 10 mg orally every 12 hours.
 
-It is safer to underestimate a patient’s 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone dosage and manage an adverse reaction due to an overdose.
+It is safer to underestimate a patient's 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone dosage and manage an adverse reaction due to an overdose.
 While useful tables of opioid equivalents are readily available, there is substantial inter-patient variability in the relative potency of different opioids.
 
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
@@ -66,7 +66,7 @@ When OXYCONTIN therapy is initiated, discontinue all other opioid analgesics oth
 
 There is substantial inter-patient variability in the relative potency of different opioid drugs and formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of OXYCONTIN.
-It is safer to underestimate a patient’s 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone requirements and manage an adverse reaction due to an overdose.
+It is safer to underestimate a patient's 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone requirements and manage an adverse reaction due to an overdose.
 
 Consider the following when using the information in Table 1.
 

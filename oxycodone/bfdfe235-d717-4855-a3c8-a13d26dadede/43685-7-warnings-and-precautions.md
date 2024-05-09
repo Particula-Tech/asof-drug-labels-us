@@ -9,7 +9,7 @@ Because extended-release products such as OXYCONTIN deliver the opioid over an e
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed OXYCONTIN.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing OXYCONTIN, and reassess all patients receiving OXYCONTIN for the development of these behaviors and conditions.
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing OXYCONTIN, and reassess all patients receiving OXYCONTIN for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as OXYCONTIN but use in such patients necessitates intensive counseling about the risks and proper use of OXYCONTIN along with frequent reevaluation for signs of addiction, abuse, and misuse.
@@ -26,7 +26,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of OXYCONTIN, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -48,7 +48,7 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered.
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
@@ -193,6 +193,6 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 
 ## 5.17 Laboratory Monitoring
 
-Not every urine drug test for “opioids” or “opiates” detects oxycodone reliably, especially those designed for in-office use.
-Further, many laboratories will report urine drug concentrations below a specified “cut-off” value as “negative”.
+Not every urine drug test for "opioids" or "opiates" detects oxycodone reliably, especially those designed for in-office use.
+Further, many laboratories will report urine drug concentrations below a specified "cut-off" value as "negative".
 Therefore, if urine testing for oxycodone is considered in the clinical management of an individual patient, ensure that the sensitivity and specificity of the assay is appropriate, and consider the limitations of the testing used when interpreting results.

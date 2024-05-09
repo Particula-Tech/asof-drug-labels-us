@@ -49,7 +49,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration –Efficacy Relationships
 
-Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective “drug effect”, analgesia and feelings of relaxation.
+Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective "drug effect", analgesia and feelings of relaxation.
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.6)].
@@ -84,7 +84,7 @@ In a study comparing 10 mg of OXYCONTIN every 12 hours to 5 mg of immediate-rele
 
 TABLE 6 Mean [% coefficient of variation]
 
-| Regimen | Dosage Form | AUC (ng·hr/mL)* | Cmax (ng/mL) | Tmax (hr) |
+| Regimen | Dosage Form | AUC (ng∙hr/mL)* | Cmax (ng/mL) | Tmax (hr) |
 | --- | --- | --- | --- | --- |
 | Single Dose† | 10 mg | 136 [27] | 11.5 [27] | 5.11 [21] |
 |  | 15 mg | 196 [28] | 16.8 [29] | 4.59 [19] |

@@ -1,6 +1,6 @@
 # WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF OXYCONTIN
 
-Addiction, Abuse, and Misuse Because the use of OXYCONTIN exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
+Addiction, Abuse, and Misuse Because the use of OXYCONTIN exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient's risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of OXYCONTIN, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of OXYCONTIN are essential.

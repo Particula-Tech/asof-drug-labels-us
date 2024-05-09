@@ -16,7 +16,7 @@ For clinically significant respiratory or circulatory depression secondary to ox
 
 Because the duration of reversal is expected to be less than the duration of action of oxycodone in OXYCONTIN, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 OXYCONTIN will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
-If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
+If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
