@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074565"
+  ],
+  "inn": "selegiline",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-694-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "selegiline hydrochloride",
+      "name": "Selegiline Hydrochloride"
+    }
+  ],
+  "setid": "189ac32d-28b4-47c5-9de6-318e502eff3b",
+  "source": "dailymed"
+}
