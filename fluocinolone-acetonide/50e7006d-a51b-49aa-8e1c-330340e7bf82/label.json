@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA012787"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-288-15",
+    "62559-288-60",
+    "62559-289-15",
+    "62559-289-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluocinolone acetonide",
+      "name": "fluocinolone acetonide"
+    }
+  ],
+  "setid": "50e7006d-a51b-49aa-8e1c-330340e7bf82",
+  "source": "dailymed"
+}
