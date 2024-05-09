@@ -10,7 +10,7 @@ In patients with chronic kidney disease, also assess serum phosphorus [see Warni
 ## 2.2 Recommended Dosage in Adults and Pediatric Patients Weighing at Least 25 kg
 
 BIKTARVY is a three-drug fixed dose combination product containing bictegravir (BIC), emtricitabine (FTC), and tenofovir alafenamide (TAF).
-The recommended dosage of BIKTARVY is one tablet containing 50 mg of BIC, 200 mg of FTC, and 25 mg of TAF taken orally once daily with or without food in:
+The recommended dosage of BIKTARVY is one tablet containing 50 mg of BIC, 200 mg of FTC, and 25 mg of TAF taken orally once daily with or without food in [see Dosage and Administration (2.4)]:
 
 - adults and pediatric patients weighing at least 25 kg with an estimated creatinine clearance greater than or equal to 30 mL/min; or
 - virologically-suppressed adults with an estimated creatinine clearance below 15 mL/min who are receiving chronic hemodialysis.
@@ -24,7 +24,12 @@ The recommended dosage of BIKTARVY is one tablet containing 30 mg of BIC, 120 mg
 
 For children unable to swallow a whole tablet, the tablet can be split and each part taken separately as long as all parts are ingested within approximately 10 minutes.
 
-## 2.4 Not Recommended in Patients with Severe Renal Impairment
+## 2.4 Recommended Dosage in Pregnant Individuals
+
+The recommended dosage of BIKTARVY in pregnant individuals is one tablet containing 50 mg of BIC, 200 mg of FTC, and 25 mg of TAF taken orally once daily with or without food in pregnant individuals who are virologically-suppressed (HIV-1 RNA less than 50 copies per mL) on a stable antiretroviral regimen with no known substitutions associated with resistance to any of the individual components of BIKTARVY.
+Lower exposures of BIKTARVY were observed during pregnancy; therefore, viral load should be monitored closely [see Drug Interactions (7.5), Use in Specific Populations (8.1), and Clinical Pharmacology (12.3)].
+
+## 2.5 Not Recommended in Patients with Severe Renal Impairment
 
 BIKTARVY is not recommended in patients with [see Dosage and Administration (2.2, 2.3), and Use in Specific Populations (8.6)]:
 
@@ -32,6 +37,6 @@ BIKTARVY is not recommended in patients with [see Dosage and Administration (2.2
 - end stage renal disease (ESRD; estimated creatinine clearance below 15 mL/min who are not receiving chronic hemodialysis; or
 - no antiretroviral treatment history and ESRD who are receiving chronic hemodialysis.
 
-## 2.5 Not Recommended in Patients with Severe Hepatic Impairment
+## 2.6 Not Recommended in Patients with Severe Hepatic Impairment
 
 BIKTARVY is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) [see Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].

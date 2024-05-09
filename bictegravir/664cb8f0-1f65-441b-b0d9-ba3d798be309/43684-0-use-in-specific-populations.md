@@ -4,19 +4,18 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to BIKTARVY during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to BIKTARVY during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
 Risk Summary
 
-There are insufficient human data on the use of BIKTARVY during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
-Dolutegravir, another integrase inhibitor, has been associated with neural tube defects (NTDs) (see Data).
-Discuss the benefit-risk of using BIKTARVY with individuals of childbearing potential, particularly if pregnancy is being planned.
-BIKTARVY use during pregnancy has been evaluated in a limited number of women reported to the APR; consequently, there are insufficient BIC data from the APR to adequately assess the risk of major birth defects.
-Reports of pregnant individuals treated with other drug products containing TAF or FTC contribute to APR's overall risk assessment for these components.
-Available data from the APR show no statistically significant difference in the overall risk of major birth defects for FTC or TAF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+Available data from observational studies and the APR with BIC, FTC and TAF use during pregnancy have not established a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+Reports of pregnant individuals treated with products containing BIC, FTC, or TAF contribute to APR's overall risk assessment for these components.
+Available data from the APR show no statistically significant difference in the overall risk of major birth defects for BIC, FTC, or TAF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
+
+BIKTARVY safety has also been evaluated in an open-label trial that demonstrated safety findings that were consistent with other trials in adults (see Data).
 
 In animal reproduction studies, no evidence of adverse developmental outcomes was observed with the components of BIKTARVY at exposures that were either not maternally toxic (rabbits) or greater than (rats and mice) those in humans at the recommended human dose (RHD) (see Data).
 During organogenesis, systemic exposures (AUC) to BIC were approximately 36 (rats) and 0.6 times (rabbits), to FTC were approximately 60 (mice) and 108 times (rabbits), and to TAF were approximately 2 (rats) and 78 times (rabbits) the exposure at the RHD of BIKTARVY.
@@ -26,26 +25,31 @@ Data
 
 Human Data
 
-Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of BIKTARVY are compared with a U.S. background major birth defect rate.
-Methodological limitations of the APR include the use of MACDP as the external comparator group.
-The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
+BIKTARVY was evaluated in an open-label clinical trial of 33 virologically-suppressed (HIV-1 RNA < 50 copies/mL) pregnant adults with HIV-1 and no known substitutions associated with resistance to BIC, FTC, or TAF.
+Pregnant adults were administered BIKTARVY (containing 50 mg of BIC, 200 mg of FTC and 25 mg of TAF) once daily from the second or third trimester through postpartum.
+Exposures of BIC, FTC, and TAF were lower during pregnancy as compared to postpartum [see Clinical Pharmacology (12.3)].
+All 32 adult participants who completed the study maintained viral suppression during pregnancy, at delivery, and through Week 18 postpartum.
+The median CD4+ cell count at baseline was 558 cells/µL, and the median change in CD4+ cell count from baseline to Week 12 postpartum was 159 cells/μL.
+All 29 neonate participants had negative/nondetectable HIV-1 PCR results at birth and/or at 4 to 8 weeks post-birth.
+The safety findings in this trial were consistent with other trials in adults.
+
+BIKTARVY was only studied in pregnant individuals who were virologically-suppressed, and lower plasma exposures of BIKTARVY were observed during pregnancy compared to post-partum.
+Therefore, BIKTARVY is recommended in pregnant individuals who are virologically-suppressed on a stable antiretroviral regimen with no known substitutions associated with resistance to any of the individual components of BIKTARVY.
 
 Bictegravir (BIC):
 
-Data from an observational study in Botswana showed that dolutegravir, another integrase inhibitor, was associated with increased risk of neural tube defects when administered at the time of conception and in early pregnancy.
-Data available to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address this risk with BIC.
-
-There are an insufficient number of reports to the APR to adequately assess the risk of major birth defects associated with BIC exposure.
-The APR has received prospective reports of 3 birth defects among 100 (3.0%) first trimester exposures to BIC-containing regimens during pregnancy resulting in live births.
-No birth defects were reported among 40 exposures during the second/third trimester.
+Based on prospective reports to the APR of over 500 exposures to a BIC-containing regimen during pregnancy resulting in live births (including 423 exposed in the first trimester and 113 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.3% (95% CI: 2.5% to 6.6%) and 1.8% (0.2%, 6.2%) following first and second/third trimester exposure, respectively, to a BIC-containing regimen.
 
 Emtricitabine (FTC):
 
-Based on prospective reports to the APR of over 5,400 exposures to FTC-containing regimens during pregnancy resulting in live births (including over 3,900 exposed in the first trimester and over 1,500 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.6% (95% CI: 2.2% to 3.2%) and 2.7% (95% CI: 1.9% to 3.7%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
+Based on prospective reports to the APR of over 6,500 exposures to FTC-containing regimens during pregnancy resulting in live births (including over 4,800 exposed in the first trimester and over 1,700 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.9% (95% CI: 2.5% to 3.4%) and 2.8% (95% CI: 2.1% to 3.7%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
 
 Tenofovir Alafenamide (TAF):
 
-Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+Based on prospective reports to the APR of over 1,200 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 1000 exposed in the first trimester and over 200 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.9% (95% CI: 2.8% to 5.2%) and 4.8% (95% CI: 2.5% to 8.3%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+The MACDP population is not disease-specific, evaluates individuals and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
 Animal Data
 
@@ -71,22 +75,12 @@ Doses up to 600 mg/kg/day were administered through lactation; no adverse effect
 
 Risk Summary
 
-It is not known whether BIKTARVY or all of the components of BIKTARVY are present in human breast milk, affects human milk production, or has effects on the breastfed infant.
-Based on published data, FTC has been shown to be present in human breast milk.
-BIC was detected in the plasma of nursing rat pups likely due to the presence of BIC in milk, and tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF (see Data).
-It is unknown if TAF is present in animal milk.
+Data from the published literature report the presence of BIC, FTC, TAF, and tenofovir in human milk.
+There are no data on the effects of BIC on the breastfed child.
+Data from the published literature have not reported adverse effects of FTC or TAF on a breastfed child.
+There are no data on the effects of BIC, FTC or TAF on milk production.
 
-Potential risks of breastfeeding include: (1) HIV-1 transmission to HIV-1 negative infants; (2) developing viral resistance in HIV-1 positive infants; and (3) adverse reactions in a breastfed infant similar to those seen in adults.
-
-Data
-
-Animal Data
-
-Bictegravir: BIC was detected in the plasma of nursing rat pups in the pre/postnatal development study (post-natal day 10), likely due to the presence of BIC in milk.
-
-Tenofovir alafenamide: Studies in rats and monkeys have demonstrated that tenofovir is secreted in milk.
-Tenofovir was excreted into the milk of lactating rats following oral administration of TDF (up to 600 mg/kg/day) at up to approximately 24% of the median plasma concentration in the highest dosed animals at lactation day 11.
-Tenofovir was excreted into the milk of lactating monkeys following a single subcutaneous (30 mg/kg) dose of tenofovir at concentrations up to approximately 4% of plasma concentration, resulting in exposure (AUC) of approximately 20% of plasma exposure.
+Potential risks of breastfeeding include: (1) HIV-1 transmission to HIV-1–negative infants; (2) developing viral resistance in HIV-1–positive infants; and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 ## 8.4 Pediatric Use
 

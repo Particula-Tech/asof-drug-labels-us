@@ -9,7 +9,7 @@ Advise the patient to not discontinue BIKTARVY without first informing their hea
 
 Drug Interactions
 
-BIKTARVY may interact with certain drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or non-prescription medication or herbal products including St. John's wort [see Contraindications (4), and Drug Interactions (7)].
+BIKTARVY may interact with certain drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or non-prescription medication or herbal products including St. John's wort [see Contraindications (4) and Drug Interactions (7)].
 
 Immune Reconstitution Syndrome
 
@@ -35,7 +35,7 @@ Advise caregivers that, for children unable to swallow a whole tablet, the table
 
 Pregnancy Registry
 
-Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to BIKTARVY [see Use in Specific Populations (8.1)].
+Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant individuals exposed to BIKTARVY [see Use in Specific Populations (8.1)].
 
 Lactation
 

@@ -2,9 +2,9 @@
 
 ## 14.1 Description of Clinical Trials
 
-The efficacy and safety of BIKTARVY were evaluated in the trials summarized in Table 12.
+The efficacy and safety of BIKTARVY were evaluated in the trials summarized in Table 13.
 
-Table 12 Trials Conducted with BIKTARVY in Subjects with HIV-1 Infection
+Table 13 Trials Conducted with BIKTARVY in Subjects with HIV-1 Infection
 
 | Trial | Population | Trial Arms (N) | Timepoint (Week) |
 | --- | --- | --- | --- |
@@ -39,9 +39,9 @@ The mean baseline CD4+ cell count was 456 cells per mm3 (range 2–1636) and 12%
 
 In both trials, subjects were stratified by baseline HIV-1 RNA (less than or equal to 100,000 copies per mL, greater than 100,000 copies per mL to less than or equal to 400,000 copies per mL, or greater than 400,000 copies per mL), by CD4 count (less than 50 cells per mm3, 50–199 cells per mm3, or greater than or equal to 200 cells per mm3), and by region (US or ex-US).
 
-Treatment outcomes of Trials 1489 and 1490 through Week 144 are presented in Table 13.
+Treatment outcomes of Trials 1489 and 1490 through Week 144 are presented in Table 14.
 
-Table 13 Virologic Outcomes of Randomized Treatment in Trials 1489 and 1490 at Week 144Week 144 window was between Day 967 and 1050 (inclusive). in Adults with No Antiretroviral Treatment History
+Table 14 Virologic Outcomes of Randomized Treatment in Trials 1489 and 1490 at Week 144Week 144 window was between Day 967 and 1050 (inclusive). in Adults with No Antiretroviral Treatment History
 
 |  | BIKTARVY (N=314) | ABC/DTG/3TC (N=315) | BIKTARVY (N=320) | DTG + FTC/TAF (N=325) |
 | --- | --- | --- | --- | --- |
@@ -76,9 +76,9 @@ The mean baseline CD4+ cell count was 663 cells per mm3 (range 62–2582).
 Subjects were stratified by prior treatment regimen.
 At screening, 15% of subjects were receiving ABC/3TC plus ATV or DRV (given with either cobicistat or ritonavir) and 85% of subjects were receiving FTC/TDF plus ATV or DRV (given with either cobicistat or ritonavir).
 
-Treatment outcomes of Trials 1844 and 1878 through Week 48 are presented in Table 14.
+Treatment outcomes of Trials 1844 and 1878 through Week 48 are presented in Table 15.
 
-Table 14 Virologic Outcomes of Trials 1844 and 1878 at Week 48Week 48 window was between Day 295 and 378 (inclusive). in Virologically-Suppressed Adults who Switched to BIKTARVY
+Table 15 Virologic Outcomes of Trials 1844 and 1878 at Week 48Week 48 window was between Day 295 and 378 (inclusive). in Virologically-Suppressed Adults who Switched to BIKTARVY
 
 |  | BIKTARVY (N=282) | ABC/DTG/3TC (N=281) | BIKTARVY (N=290) | ATV- or DRV-based regimenATV given with cobicistat or ritonavir or DRV given with cobicistat or ritonavir plus either FTC/TDF or ABC/3TC. (N=287) |
 | --- | --- | --- | --- | --- |

@@ -118,6 +118,30 @@ Race and Gender
 
 No clinically relevant changes in the pharmacokinetics of BIC, FTC, and TAF were observed based on gender or race.
 
+Pregnancy
+
+Plasma exposures (Ctrough and AUCtau) of BIC, FTC, and TAF after intake of BIKTARVY 50 mg/200 mg/25 mg were lower during pregnancy as compared to postpartum (Table 9).
+The exposure changes during pregnancy are not considered clinically significant in virologically suppressed pregnant individuals [see Drug Interactions (7.5)].
+
+Table 9 Steady-state PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in Virologically-Suppressed Pregnant Adults with HIV-1 in the Second and Third Trimesters and Week 12 Postpartum
+
+| Parameter Mean (%CV) | Second Trimester (N=21) | Third Trimester (N=30) | Week 12 Postpartum (N=32) |
+| --- | --- | --- | --- |
+| Bictegravir |  |  |  |
+| Cmax (microgram per mL) | 5.82 (30.1) | 5.37 (25.9) | 11.03 (24.9) |
+| AUCtau (microgram∙h per mL) | 62.8 (32.2) | 60.2 (29.1) | 148.3 (28.5) |
+| Unbound AUCtauCalculated by correcting the individual AUCtau estimates by the % unbound fraction. (microgram∙h per mL) | 0.224 (42.0) | 0.219 (33.9) | 0.374 (32.2) |
+| Ctrough (microgram per mL) | 1.05 (45.2) | 1.07 (41.7) | 3.64 (34.1) |
+| Emtricitabine |  |  |  |
+| Cmax (microgram per mL) | 2.64 (36.6) | 2.59 (26.5) | 3.36 (26.9) |
+| AUCtau (microgram∙h per mL) | 10.3 (20.0) | 10.4 (20.3) | 15.3 (21.9) |
+| Ctrough (microgram per mL) | 0.06 (103.9) | 0.05 (27.2) | 0.08 (33.7) |
+| Tenofovir Alafenamide |  |  |  |
+| Cmax (microgram per mL) | 0.33 (52.1) | 0.27 (42.1) | 0.49 (52.5) |
+| AUCtau (microgram∙h per mL) | 0.24 (45.6) | 0.21 (45.0) | 0.30 (31.8) |
+| Unbound AUCtau (microgram∙h per mL) | 0.015 (28.2) | 0.016 (28.4) | 0.017 (23.4) |
+| CV = Coefficient of Variation; NA = Not Available |  |  |  |
+
 Drug Interaction Studies
 
 As BIKTARVY is a complete regimen for the treatment of HIV-1 infection, comprehensive information regarding potential drug-drug interactions with other antiretroviral agents is not provided.
@@ -132,12 +156,12 @@ TAF is a substrate of P-gp and BCRP.
 At clinically relevant concentrations, TAF is not an inhibitor of drug transporters P-gp, BCRP, hepatic transporters OATP1B1, OATP1B3, OCT1, BSEP, renal transporters OAT1, OAT3, OCT2, MATE1, or CYP (including CYP3A) or UGT1A1 enzymes.
 
 Drug interaction studies were conducted with BIKTARVY or its components.
-Tables 9 and 10 summarize the pharmacokinetic effects of other drugs on BIC and TAF, respectively.
-Table 11 summarizes the pharmacokinetic effects of BIKTARVY or its components on other drugs.
+Tables 10 and 11 summarize the pharmacokinetic effects of other drugs on BIC and TAF, respectively.
+Table 12 summarizes the pharmacokinetic effects of BIKTARVY or its components on other drugs.
 
 Effect of Other Drugs on BIKTARVY Components
 
-Table 9 Effect of Other Drugs on BICAll interaction studies conducted in healthy volunteers.
+Table 10 Effect of Other Drugs on BICAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -157,7 +181,7 @@ Table 9 Effect of Other Drugs on BICAll interaction studies conducted in healthy
 | Ferrous fumarate (simultaneous administration, fed) | 324 single dose | 50 single dose | 0.75 (0.65, 0.87) | 0.84 (0.74, 0.95) | NA |
 | NA= Not Applicable |  |  |  |  |  |
 
-Table 10 Effect of Other Drugs on TAFAll interaction studies conducted in healthy volunteers.
+Table 11 Effect of Other Drugs on TAFAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -169,7 +193,7 @@ Table 10 Effect of Other Drugs on TAFAll interaction studies conducted in health
 
 Effect of BIKTARVY Components on Other Drugs
 
-Table 11 Effect of Components of BIKTARVY on Other DrugsAll interaction studies conducted in healthy volunteers.
+Table 12 Effect of Components of BIKTARVY on Other DrugsAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -179,7 +203,7 @@ Table 11 Effect of Components of BIKTARVY on Other DrugsAll interaction studies 
 | GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.10 (1.07, 1.13) | 1.11 (1.08, 1.14) | 1.02 (0.99, 1.06) |  |  |  |
 | Metformin | 500 twice daily | 50 once daily | 25 once daily | 1.28 (1.21, 1.36) | 1.39 (1.31, 1.48) | 1.36 (1.21, 1.53) |
 | Midazolam | 2 single dose | 50 once daily | 25 once daily | 1.03 (0.87, 1.23) | 1.15 (1.00, 1.31) | NA |
-| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily /ethinyl estradiol 0.025 once daily | 75 once daily | - | 1.23 (1.14, 1.32) | 1.08 (1.05, 1.10) | 1.10 (1.05, 1.15) |
+| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | 75 once daily | - | 1.23 (1.14, 1.32) | 1.08 (1.05, 1.10) | 1.10 (1.05, 1.15) |
 | Norgestrel | 1.15 (1.10, 1.21) | 1.13 (1.07, 1.19) | 1.14 (1.06, 1.22) |  |  |  |
 | Ethinyl estradiol | 1.15 (1.03, 1.27) | 1.04 (0.99, 1.10) | 1.05 (0.95, 1.14) |  |  |  |
 | Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | - | 25 once dailyStudy conducted with emtricitabine/tenofovir alafenamide. | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08, 1.24) |
