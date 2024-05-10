@@ -6,13 +6,13 @@ One lamivudine and zidovudine tablet given twice daily is an alternative regimen
 
 The NUCB3007 (CAESAR) trial was conducted using EPIVIR 150-mg tablets (150 mg twice daily) and RETROVIR 100-mg capsules (2 x 100 mg 3 times daily).
 CAESAR was a multi-center, double-blind, placebo-controlled trial comparing continued current therapy (zidovudine alone [62% of subjects] or zidovudine with didanosine or zalcitabine [38% of subjects]) to the addition of EPIVIR or EPIVIR plus an investigational non-nucleoside reverse transcriptase inhibitor, randomized 1:2:1.
-A total of 1,816 HIV-1-infected adults with 25 to 250 (median 122) CD4 cells per mm 3 at baseline were enrolled: median age was 36 years, 87% were male, 84% were nucleoside-experienced, and 16% were therapy-naive.
+A total of 1,816 HIV-1-infected adults with 25 to 250 (median 122) CD4 cells per mm 3at baseline were enrolled: median age was 36 years, 87% were male, 84% were nucleoside-experienced, and 16% were therapy-naive.
 The median duration on trial was 12 months.
 Results are summarized in Table 5.
 Table 5.
 Number of Subjects (%) with at Least 1 HIV-1 Disease-Progression Event or Death
 
-| Endpoint | Current Therapy (n=460) | EPIVIR plus Current Therapy (n = 896) | EPIVIRplus a NNRTI a plus Current Therapy (n = 460) |
+| Endpoint | Current Therapy (n=460) | EPIVIRplus Current Therapy (n = 896) | EPIVIR plus a NNRTI aplus Current Therapy (n = 460) |
 | --- | --- | --- | --- |
 | HIV-1 progression or death | 90 (19.6%) | 86 (9.6%) | 41 (8.9%) |
 | Death | 27 (5.9%) | 23 (2.6%) | 14 (3.0%) |

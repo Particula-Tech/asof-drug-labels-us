@@ -1,9 +1,9 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hemotologic Toxicity/Bone Marrow Suppression
+## 5.1 Hematologic Toxicity/Bone Marrow Suppression
 
 Zidovudine, a component of lamivudine and zidovudine tablet, has been associated with hematologic toxicity including neutropenia and anemia, particularly in patients with advanced HIV-1 disease.
-Lamivudine and zidovudine tablet should be used with caution in patients who have bone marrow compromise evidenced by granulocyte count less than 1,000 cells per mm 3 or hemoglobin less than 9.5 grams per dL [see Adverse Reactions (6.1)].
+Lamivudine and zidovudine tablet should be used with caution in patients who have bone marrow compromise evidenced by granulocyte count less than 1,000 cells per mm 3or hemoglobin less than 9.5 grams per dL [see Adverse Reactions (6.1)].
 Frequent blood counts are strongly recommended in patients with advanced HIV-1 disease who are treated with lamivudine and zidovudine tablet.
 Periodic blood counts are recommended for other HIV-1-infected patients.
 If anemia or neutropenia develops, dosage interruption may be needed.
@@ -29,7 +29,7 @@ Emergence of Lamivudine-Resistant HBV Safety and efficacy of lamivudine have not
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has been reported in HIV-1-infected subjects who have received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 See full prescribing information for EPIVIR (lamivudine).
 
-## 5.5 Use With Interferon- and Ribavirin-Based Regimens
+## 5.5 Use with Interferon- and Ribavirin-Based Regimens
 
 Patients receiving interferon alfa with or without ribavirin and lamivudine and zidovudine tablet should be closely monitored for treatment-associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
 See full prescribing information for RETROVIR (zidovudine).
@@ -47,7 +47,7 @@ Treatment with lamivudine and zidovudine tablet should be stopped immediately if
 ## 5.7 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including lamivudine and zidovudine tablet.
-During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium aviuminfection, cytomegalovirus, Pneumocystis jiroveciipneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.8 Lipoatrophy

@@ -43,7 +43,7 @@ Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in 4
 Pancreatitis was observed in 9 of the 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials [see Warnings and Precautions (5.6)].
 Selected laboratory abnormalities observed during therapy are listed in Table 2.
 Table 2.
-Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day a
+Frequencies of Selected Laboratory Abnormalities among Adults in 4 Controlled Clinical Trials of EPIVIR300 mg per day plus RETROVIR600 mg per day a
 
 | Test (Abnormal Level) | EPIVIR plus RETROVIR % (n) |
 | --- | --- |
@@ -56,7 +56,7 @@ Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Cl
 | Amylase (>2 x ULN) | 4.2% (72) |
 
 ULN = Upper limit of normal.
-ANC = Absolute neutrophil count. n = Number of subjects assessed. a Frequencies of these laboratory abnormalities were higher in subjects with mild laboratory abnormalities at baseline.
+ANC = Absolute neutrophil count. n = Number of subjects assessed. aFrequencies of these laboratory abnormalities were higher in subjects with mild laboratory abnormalities at baseline.
 
 ## 6.2 Postmarketing Experience
 
