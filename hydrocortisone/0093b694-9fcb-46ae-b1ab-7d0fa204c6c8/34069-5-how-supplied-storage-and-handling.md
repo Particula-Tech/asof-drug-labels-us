@@ -10,14 +10,14 @@ Store at controlled room temperature, 20°-25°C (68°-77°F).
 
 DO NOT REFRIGERATE.
 
-Rx only
+Rx Only
 
-Distributed by: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Distributed by: Meda Pharmaceuticals Inc. Canonsburg, PA 15317 U.S.A.
 
-© 2022 Mylan Specialty L.P., a Viatris Company
+© 2024 Mylan Specialty L.P., a Viatris Company
 
 For Medical Inquiries, call toll-free 1-877-848-6608
 
 CORTIFOAM is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 
-IN-683015-0X
+IN-683015-05 141280-0324

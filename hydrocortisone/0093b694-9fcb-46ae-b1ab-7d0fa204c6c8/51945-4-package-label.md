@@ -29,7 +29,7 @@ See back of carton for full directions for use.
 Please see package insert for further information.
 For rectal use only.
 
-117610-0820 UC-683015-04
+117756-0324 UC-683015-05
 
 Caution: Do not insert any part of the aerosol container directly into the anus.
 Apply to anus only with the enclosed applicator.
@@ -44,8 +44,8 @@ Store upright at controlled room temperature 20° - 25°C (68° - 77°F).
 
 DO NOT REFRIGERATE
 
-Distributed by: Meda Pharmaceuticals Inc., Somerset, New Jersey 08873-4120
+Distributed by: Meda Pharmaceuticals Inc., Canonsburg, PA 15317 U.S.A.
 
-©2020 Mylan Specialty L.P.
+© 2024 Mylan Specialty L.P., a Viatris Company
 
-Cortifoam is a registered trademark of Alaven Pharmaceutical LLC, a Mylan company.
+CORTIFOAM is a registered trademark of Alaven Pharmaceutical LLC, a Viatris company.
