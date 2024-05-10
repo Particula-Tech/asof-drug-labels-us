@@ -1,121 +1,129 @@
 # PATIENT INFORMATION
 
-Ezetimibe Tablets, USP 10 mg
+Ezetimibe (e zet' i mibe) Tablets, USP for oral use
 
-Patient Information about Ezetimibe (ĕ-zĕt´-ĕ-mīb) Tablets, USP
-
-Read this information carefully before you start taking Ezetimibe Tablets and each time you get more Ezetimibe Tablets.
+Read this information carefully before you start taking ezetimibe tablets and each time you get more ezetimibe tablets.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
-If you have any questions about Ezetimibe Tablets, ask your doctor.
-Only your doctor can determine if Ezetimibe Tablets is right for you.
+If you have any questions about ezetimibe tablets, ask your doctor.
+Only your doctor can determine if ezetimibe tablets is right for you.
 
-What is Ezetimibe Tablets?
+What is ezetimibe tablets?
 
-Ezetimibe Tablet is a medicine used to lower levels of total cholesterol and LDL (bad) cholesterol in the blood.
-Ezetimibe Tablet is for patients who cannot control their cholesterol levels by diet and exercise alone.
-It can be used by itself or with other medicines to treat high cholesterol.
-You should stay on a cholesterol-lowering diet while taking this medicine.
+Ezetimibe tablets is a medicine used with a cholesterol lowering diet:
 
-Ezetimibe Tablets works to reduce the amount of cholesterol your body absorbs.
-Ezetimibe Tablets does not help you lose weight.
-Ezetimibe Tablets has not been shown to prevent heart disease or heart attacks.
+- and with other cholesterol medicines called a statin, or alone (when additional cholesterol lowering treatments are not possible), to lower elevated low-density lipoprotein cholesterol (LDL-C) or bad cholesterol in adults with primary hyperlipidemia (too many fats in your blood), including heterozygous familial hypercholesterolemia (HeFH).
+  HeFH is an inherited condition that causes high levels of bad cholesterol.
+- and with a statin to lower LDL-C in adults and children 10 years of age and older with HeFH.
+- and with a medicine called fenofibrate to lower elevated LDL-C in adults with mixed hyperlipidemia.
+- to lower elevated sitosterol and campesterol levels in adults and in children 9 years of age and older with homozygous familial sitosterolemia (a rare inherited condition that prevents the body from getting rid of cholesterol from plants).
+  Ezetimibe tablets is also used:
+- with a statin and other cholesterol lowering treatments to lower elevated LDL-C levels in adults and patients 10 years of age and older with homozygous familial hypercholesterolemia (HoFH).
+  HoFH is an inherited condition that causes high levels of bad cholesterol.
+  The safety and effectiveness of ezetimibe tablets has not been established in children:
+- younger than 10 years of age with HeFH or HoFH.
+- younger than 9 years of age with homozygous familial sitosterolemia.
+- with other types of hyperlipemia.
 
-For more information about cholesterol, see the “What should I know about high cholesterol?” section that follows.
+Do not take ezetimibe tablets:
 
-Who should not take Ezetimibe Tablets?
+- if you are allergic to ezetimibe or any of the ingredients in ezetimibe tablets.
+  See the end of this Patient Information leaflet for a complete list of ingredients in ezetimibe tablets.
+  Stop using ezetimibe tablets and get medical help right away if you have symptoms of a serious allergic reaction including:
 
-• Do not take Ezetimibe Tablets if you are allergic to ezetimibe, the active ingredient in Ezetimibe Tablets, or to the inactive ingredients.
-For a list of inactive ingredients, see the “Inactive ingredients” section that follows.
+- swelling of the face, tongue, or throat
+- difficulty breathing or swallowing
+- fainting or feeling dizzy
+- very fast heartbeat
+- severe skin rash, hives, and itching
+- flu-like symptoms including fever, sore throat, cough, tiredness, and joint pain
 
-• If you have active liver disease, do not take Ezetimibe Tablets while taking cholesterol-lowering medicines called statins.
+- with certain statins, fenofibrate, or other LDL-C lowering medicines if your healthcare provider has told you not to take them.
 
-• If you are pregnant or breast-feeding, do not take Ezetimibe Tablets while taking a statin.
+Before you take ezetimibe tablets, tell your healthcare provider about all your medical conditions, including if you:
 
-• If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using Ezetimibe Tablets added to statin therapy.
+- have liver problems.
+  Ezetimibe tablets may not be right for you.
+- are pregnant or plan to become pregnant.
+  It is not known if ezetimibe tablets will harm your unborn baby.
+  You and your healthcare provider should decide if you will take ezetimibe tablets while you are pregnant.
+- are breastfeeding.
+  It is not known if ezetimibe passes into your breast milk.
+  You and your healthcare provider should decide the best way to feed your baby if you take ezetimibe tablets.
 
-Ezetimibe Tablets has not been studied in children under age 10.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the- counter medicines, vitamins, and herbal supplements.
+Talk to your healthcare provider before you start taking any new medicines.
 
-What should I tell my doctor before and while taking Ezetimibe Tablets?
+Taking ezetimibe tablets with certain other medicines may affect each other causing side effects.
+Ezetimibe tablets may affect the way other medicines work, and other medicines may affect how ezetimibe tablets works.
 
-Tell your doctor about any prescription and non-prescription medicines you are taking or plan to take, including natural or herbal remedies.
+Especially tell your healthcare provider if you take:
 
-Tell your doctor about all your medical conditions including allergies.
+- cyclosporine (a medicine for your immune system)
+- fibrates (medicine for lowering cholesterol)
+- bile acid sequestrants (medicine for lowering LDL-C)
 
-Tell your doctor if you:
+Ask your healthcare provider or pharmacist for a list of medicines if you are not sure.
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
-• ever had liver problems.
-Ezetimibe Tablets may not be right for you.
+How should I take ezetimibe tablets?
 
-• are pregnant or plan to become pregnant.
-Your doctor will discuss with you whether Ezetimibe Tablet is right for you.
+- Take ezetimibe tablets 1-time each day, with or without food.
+  It may be easier to remember to take your dose if you do it at the same time every day, such as with breakfast, dinner, or at bedtime.
+  If you also take another medicine to reduce your cholesterol, ask your healthcare provider if you can take them at the same time.
+- If you miss a dose, take it as soon as you remember.
+  If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule.
+  Do not take 2 doses of ezetimibe tablets at the same time.
+- While taking ezetimibe tablets, continue to follow your cholesterol-lowering diet and to exercise as your healthcare provider told you to.
+- If you take a medicine called a bile acid sequestrant, take ezetimibe tablets at least 2 hours before or 4 hours after you take the bile acid sequestrant.
+- Your healthcare provider may do blood tests to check your LDL-C levels as early as 4 weeks after starting treatment with ezetimibe tablets.
+- In case of an overdose, get medical help or contact a live Poison Center expert right away at 1- 800-222-1222.
+  Advice is also available online at poisonhelp.org.
 
-• are breast-feeding.
-We do not know if Ezetimibe Tablets can pass to your baby through your milk.
-Your doctor will discuss with you whether Ezetimibe Tablet is right for you.
+What are the possible side effects of ezetimibe tablets?
 
-• experience unexplained muscle pain, tenderness, or weakness.
+Ezetimibe tablets may cause serious side effects including:
 
-How should I take Ezetimibe Tablets?
+- increased liver enzymes.
+  An increase in liver enzymes can happen in people taking ezetimibe tablets alone or with statins.
+  Your healthcare provider may do blood tests to check your liver before and during treatment.
+  Your healthcare provider may need to change or stop your treatment with ezetimibe tablets because of an increase in liver enzymes.
+- muscle pain, tenderness, and weakness (myopathy).
+  Muscle problems, including muscle breakdown (rhabdomyolysis) can happen.
+  Tell your healthcare provider right away if:Your chances of getting muscle problems are higher if you are also taking statins or fibrates.
+  The most common side effects of ezetimibe tablets taken alone include: upper respiratory tract infection joint pain pain in arms or legs flu-like symptoms diarrhea inflammation of the sinuses feeling tired The most common side effects of ezetimibe tablets taken with a statin include:Tell your healthcare provider if you have any side effect that bothers you or does not go away.
+  These are not all the possible side effects of ezetimibe tablets.
+  Call your doctor for medical advice about side effects.
+  You may report side effects to FDA at 1-800- FDA-1088.
+  - you have unexplained muscle pain, tenderness, weakness, feel more tired than usual, or fever.
+  - you have muscle problems that do not go away even after your healthcare provider has advised you to stop taking ezetimibe tablets.
+    Your healthcare provider may do further tests to diagnose the cause of your muscle problems.
+  - runny nose, sore throat • joint pain • flu-like symptoms
+  - muscle aches and pains • diarrhea • pain in arms or legs
+  - upper respiratory tract infection • back pain • feeling tired
 
-• Take Ezetimibe Tablets once a day, with or without food.
-It may be easier to remember to take your dose if you do it at the same time every day, such as with breakfast, dinner, or at bedtime.
-If you also take another medicine to reduce your cholesterol, ask your doctor if you can take them at the same time.
+How should I store ezetimibe tablets?
 
-• If you forget to take Ezetimibe Tablets, take it as soon as you remember.
-However, do not take more than one dose of Ezetimibe Tablets a day.
+- Store ezetimibe tablets at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
+- Protect from moisture.
 
-• Continue to follow a cholesterol-lowering diet while taking Ezetimibe Tablets.
-Ask your doctor if you need diet information.
+Keep ezetimibe tablets and all medicines out of the reach of children.
 
-• Keep taking Ezetimibe Tablets unless your doctor tells you to stop.
-It is important that you keep taking Ezetimibe Tablets even if you do not feel sick.
+General information about safe and effective use of ezetimibe tablets.
 
-See your doctor regularly to check your cholesterol level and to check for side effects.
-Your doctor may do blood tests to check your liver before you start taking Ezetimibe Tablets with a statin and during treatment.
-
-What are the possible side effects of Ezetimibe Tablets?
-
-In clinical studies patients reported few side effects while taking Ezetimibe Tablets.
-These included diarrhea, joint pains, and feeling tired.
-
-Patients have experienced severe muscle problems while taking Ezetimibe Tablets, usually when Ezetimibe Tablets was added to a statin drug.
-If you experience unexplained muscle pain, tenderness, or weakness while taking Ezetimibe Tablets, contact your doctor immediately.
-You need to do this promptly, because on rare occasions, these muscle problems can be serious, with muscle breakdown resulting in kidney damage.
-
-Additionally, the following side effects have been reported in general use: allergic reactions (which may require treatment right away) including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing, rash, and hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle aches; alterations in some laboratory blood tests; liver problems; stomach pain; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; headache; gallstones; inflammation of the gallbladder.
-
-Tell your doctor if you are having these or any other medical problems while on Ezetimibe Tablets.
-For a complete list of side effects, ask your doctor or pharmacist.
-
-What should I know about high cholesterol?
-
-Cholesterol is a type of fat found in your blood.
-Your total cholesterol is made up of LDL and HDL cholesterol.
-
-LDL cholesterol is called “bad” cholesterol because it can build up in the wall of your arteries and form plaque.
-Over time, plaque build-up can cause a narrowing of the arteries.
-This narrowing can slow or block blood flow to your heart, brain, and other organs.
-High LDL cholesterol is a major cause of heart disease and one of the causes for stroke.
-
-HDL cholesterol is called “good” cholesterol because it keeps the bad cholesterol from building up in the arteries.
-
-Triglycerides also are fats found in your blood.
-
-General information about Ezetimibe Tablets
-
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use Ezetimibe Tablets for a condition for which it was not prescribed.
-Do not give Ezetimibe Tablets to other people, even if they have the same condition you have.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use ezetimibe tablets for a condition for which it was not prescribed.
+Do not give ezetimibe tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This summarizes the most important information about Ezetimibe Tablets.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about Ezetimibe Tablets that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about ezetimibe tablets that is written for health professionals.
 
-Inactive ingredients:
+What are the ingredients in ezetimibe tablets?
 
-Lactose monohydrate, croscarmellose sodium, Hypromellose, sodium lauryl sulfate, crospovidone, microcrystaline cellulose, and magnesium stearate.
+Active ingredient: ezetimibe.
+
+Inactive ingredients: Lactose monohydrate, croscarmellose sodium, Hypromellose, sodium lauryl sulfate, crospovidone, microcrystaline cellulose, and magnesium stearate.
 
 For Patient Information, please visit: http://www.ascendlaboratories.com/pti/ezetimibetablets.pdf
 
@@ -131,4 +139,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: December, 2022 PT 2509-03
+Revised: March, 2024 PT 2508-05
