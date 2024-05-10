@@ -43,12 +43,12 @@ In the 12-month trials, ACR response rates in XELJANZ-treated patients were cons
 
 Table 9: Proportion of Patients with an ACR Response
 
-|  | 122 | 243 | 160 | 321 | 132 | 133 |
+|  | Study I |  | Study IV |  | Study V |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Percent of Patients |  |  |  |  |  |
 |  | Monotherapy in Nonbiologic or Biologic DMARD Inadequate RespondersInadequate response to at least one DMARD (biologic or nonbiologic) due to lack of efficacy or toxicity. |  | MTX Inadequate RespondersInadequate response to MTX defined as the presence of sufficient residual disease activity to meet the entry criteria. |  | TNF Blocker Inadequate RespondersInadequate response to a least one TNF blocker due to lack of efficacy and/or intolerance. |  |
-|  | Study I |  | Study IV |  | Study V |  |
 | NN is number of randomized and treated patients. | PBO | XELJANZ 5 mg Twice Daily | PBO + MTX | XELJANZ 5 mg Twice Daily + MTX | PBO + MTX | XELJANZ 5 mg Twice Daily + MTX |
+|  | 122 | 243 | 160 | 321 | 132 | 133 |
 | ACR20 |  |  |  |  |  |  |
 | Month 3 | 26% | 59% | 27% | 55% | 24% | 41% |
 | Month 6 | NANA Not applicable, as data for placebo treatment is not available beyond 3 months in Studies I and V due to placebo advancement. | 69% | 25% | 50% | NA | 51% |
@@ -78,11 +78,11 @@ Similar results were observed for XELJANZ in Studies RA-I, II, III, V, and VI.
 
 Table 11: Components of ACR Response at Month 3
 
-| Component (mean) Data shown is mean (Standard Deviation) at Month 3. | Baseline | Month 3 | Baseline | Month 3 |
+|  | N=321 |  | N=160 |  |
 | --- | --- | --- | --- | --- |
 |  | Study IV |  |  |  |
 |  | XELJANZ 5 mg Twice Daily + MTX |  | Placebo + MTX |  |
-|  | N=321 |  | N=160 |  |
+| Component (mean) Data shown is mean (Standard Deviation) at Month 3. | Baseline | Month 3 | Baseline | Month 3 |
 | Number of tender joints (0–68) | 24 (14) | 13 (14) | 23 (13) | 18 (14) |
 | Number of swollen joints (0–66) | 14 (8) | 6 (8) | 14 (9) | 10 (9) |
 | PainVisual analog scale: 0 = best, 100 = worst. | 58 (23) | 34 (23) | 55 (24) | 47 (24) |
@@ -168,10 +168,10 @@ At Month 3, patients treated with XELJANZ 5 mg twice daily had higher (p≤0.05)
 Table 13: Proportion of Patients with an ACR Response in Study PsA-ISubjects received one concomitant nonbiologic DMARD.
 [Nonbiologic DMARD Inadequate Responders (TNF Blocker-Naïve)]
 
-|  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
-| --- | --- | --- | --- |
 | Treatment Group | Placebo | XELJANZ 5 mg Twice Daily |  |
+| --- | --- | --- | --- |
 | NN is number of randomized and treated patients. | 105 | 107 |  |
+|  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
 | Month 3 |  |  |  |
 | ACR20 | 33% | 50% | 17.1 (4.1, 30.2) |
 | ACR50 | 10% | 28% | 18.5 (8.3, 28.7) |
@@ -181,10 +181,10 @@ Table 13: Proportion of Patients with an ACR Response in Study PsA-ISubjects rec
 Table 14: Proportion of Patients with an ACR Response in Study PsA-IISubjects received one concomitant nonbiologic DMARD.
 (TNF Blocker Inadequate Responders)
 
-|  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
-| --- | --- | --- | --- |
 | Treatment Group | Placebo | XELJANZ 5 mg Twice Daily |  |
+| --- | --- | --- | --- |
 | NN is number of randomized and treated patients. | 131 | 131 |  |
+|  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
 | Month 3 |  |  |  |
 | ACR20 | 24% | 50% | 26.0 (14.7, 37.2) |
 | ACR50 | 15% | 30% | 15.3 (5.4, 25.2) |
@@ -195,11 +195,11 @@ Improvements from baseline in the ACR response criteria components for both stud
 
 Table 15: Components of ACR Response at Baseline and Month 3 in Studies PsA-I and PsA-II
 
-| N at Baseline | 105 | 107 | 131 | 131 |
+|  | Study PsA-ISubjects received one concomitant nonbiologic DMARD. |  | Study PsA-II |  |
 | --- | --- | --- | --- | --- |
 |  | Nonbiologic DMARD Inadequate Responders (TNF Blocker-Naïve) |  | TNF Blocker Inadequate Responders |  |
-|  | Study PsA-ISubjects received one concomitant nonbiologic DMARD. |  | Study PsA-II |  |
 | Treatment Group | Placebo | XELJANZ 5 mg Twice Daily | Placebo | XELJANZ 5 mg Twice Daily |
+| N at Baseline | 105 | 107 | 131 | 131 |
 | ACR ComponentData shown are mean value at baseline and at Month 3. |  |  |  |  |
 | Number of tender/painful joints (0–68) |  |  |  |  |
 | Baseline | 20.6 | 20.5 | 19.8 | 20.5 |
@@ -240,12 +240,12 @@ Patients receiving XELJANZ 5 mg twice daily demonstrated significantly greater i
 
 Table 16: Change from Baseline in HAQ-DI in Studies PsA-I and PsA-II
 
-| NN is the total number of subjects in the statistical analysis. | 104 | 107 | 131 | 129 |
+| Study PsA-ISubjects received one concomitant nonbiologic DMARD. |  | Study PsA-II |  |  |
 | --- | --- | --- | --- | --- |
 |  | Least Squares Mean Change from Baseline In HAQ-DI at Month 3 |  |  |  |
 | Nonbiologic DMARD Inadequate RespondersInadequate response to at least one nonbiologic DMARD due to lack of efficacy and/or intolerability. (TNF Blocker-Naïve) |  | TNF Blocker Inadequate RespondersInadequate response to at least one TNF blocker due to lack of efficacy and/or intolerability. |  |  |
-| Study PsA-ISubjects received one concomitant nonbiologic DMARD. |  | Study PsA-II |  |  |
 | Treatment Group | Placebo | XELJANZ 5 mg Twice Daily | Placebo | XELJANZ 5 mg Twice Daily |
+| NN is the total number of subjects in the statistical analysis. | 104 | 107 | 131 | 129 |
 | LSM Change from Baseline | -0.18 | -0.35 | -0.14 | -0.39 |
 | Difference from Placebo (95% CI) | - | -0.17 (-0.29, -0.05) | - | -0.25 (-0.38, -0.13) |
 
@@ -301,10 +301,10 @@ Table 18: ASAS Components and Other Measures of Disease Activity at Week 16, Stu
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo (N=136) |  | XELJANZ 5 mg Twice Daily (N=133) |  |  |
 | ASAS Components |  |  |  |  |  |
-| •Patient Global Assessment of Disease Activity (0–10)Measured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.,type I error-controlled. | 7.0 | -1.0 | 6.9 | -2.5 | -1.5 (-2.00, -0.97)p < 0.0001. |
-| •Total spinal pain (0–10), | 6.9 | -1.1 | 6.9 | -2.6 | -1.5 (-2.00, -1.03) |
-| •BASFI (0–10)Bath Ankylosing Spondylitis Functional Index measured on a numerical rating scale with 0 = easy and 10 = impossible., | 5.9 | -0.8 | 5.8 | -2.0 | -1.2 (-1.64, -0.79) |
-| •Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI., | 6.8 | -1.1 | 6.6 | -2.8 | -1.7 (-2.13, -1.18) |
+| -Patient Global Assessment of Disease Activity (0–10)Measured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.,type I error-controlled. | 7.0 | -1.0 | 6.9 | -2.5 | -1.5 (-2.00, -0.97)p < 0.0001. |
+| -Total spinal pain (0–10), | 6.9 | -1.1 | 6.9 | -2.6 | -1.5 (-2.00, -1.03) |
+| -BASFI (0–10)Bath Ankylosing Spondylitis Functional Index measured on a numerical rating scale with 0 = easy and 10 = impossible., | 5.9 | -0.8 | 5.8 | -2.0 | -1.2 (-1.64, -0.79) |
+| -Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI., | 6.8 | -1.1 | 6.6 | -2.8 | -1.7 (-2.13, -1.18) |
 | BASDAI ScoreBath Ankylosing Spondylitis Disease Activity Index total score. | 6.5 | -1.2 | 6.4 | -2.6 | -1.4 (-1.86, -0.98) |
 | BASMIBath Ankylosing Spondylitis Metrology Index., | 4.4 | -0.1 | 4.5 | -0.6 | -0.5 (-0.66, -0.36) |
 | hsCRPHigh sensitivity C-reactive protein., (mg/dL) | 1.8 | -0.1 | 1.6 | -1.1 | -0.9 (-1.17, -0.69) |
@@ -541,7 +541,7 @@ Table 21: Results of RA Safety Study 1
 | HR (95% CI) | 1.13 (0.76, 1.69) | 1.26 (0.85, 1.87) |  |
 | TE | 67 [1.23] | 86 [1.65] | 56 [1.03] |
 | HR (95% CI) | 1.19 (0.84, 1.70) | 1.60 (1.14, 2.23) |  |
-| Note: XELJANZ 10 mg twice daily was discontinued by the Data Monitoring Committee due to safety concerns, and ongoing patients switched from XELJANZ 10 mg to XELJANZ 5 mg. The column "XELJANZ 10 mg Twice Daily" includes all events and follow-up for patients randomized to XELJANZ 10 mg twice daily.A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)]. N indicates number of patients; n indicates number of patients with events. IR indicates incidence rate per 100 person-year (PY). NMSC: Non-melanoma Skin Cancer; MACE: Major Adverse Cardiac Events; HR: Hazard Ratio; DVT: Deep Vein Thrombosis; PE: Pulmonary Embolism; VTE: Venous Thromboembolism, first occurrence of a VTE, defined as the composite of adjudicated DVT and adjudicated PE; ATE: Arterial Thromboembolism; TE: Thromboembolism, first occurrence of a TE, defined as the composite of adjudicated VTE and unadjudicated ATE. |  |  |  |
+| Note: XELJANZ 10 mg twice daily was discontinued by the Data Monitoring Committee due to safety concerns, and ongoing patients switched from XELJANZ 10 mg to XELJANZ 5 mg. The column "XELJANZ 10 mg Twice Daily" includes all events and follow-up for patients randomized to XELJANZ 10 mg twice daily. A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)]. N indicates number of patients; n indicates number of patients with events. IR indicates incidence rate per 100 person-year (PY). NMSC: Non-melanoma Skin Cancer; MACE: Major Adverse Cardiac Events; HR: Hazard Ratio; DVT: Deep Vein Thrombosis; PE: Pulmonary Embolism; VTE: Venous Thromboembolism, first occurrence of a VTE, defined as the composite of adjudicated DVT and adjudicated PE; ATE: Arterial Thromboembolism; TE: Thromboembolism, first occurrence of a TE, defined as the composite of adjudicated VTE and unadjudicated ATE. |  |  |  |
 
 Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with XELJANZ 5 mg twice a day and XELJANZ 10 mg twice a day compared to those treated with TNF blockers.
 Lymphoma was reported for 4 patients receiving XELJANZ 5 mg twice a day, 6 patients receiving XELJANZ 10 mg twice a day, and 1 patient receiving TNF blockers (Incidence Rate [IR] of 0.07, 0.11, and 0.02 per 100 patient-years, respectively).

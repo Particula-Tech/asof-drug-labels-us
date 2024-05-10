@@ -40,9 +40,9 @@ Steady state concentrations are achieved within 48 hours with negligible accumul
 
 Table 7: Pharmacokinetic Parameters of XELJANZ/ XELJANZ XR Following Multiple Oral Dosing
 
-| Dosing Regimen | 5 mg Twice Daily | 10 mg Twice Daily | 11 mg Once Daily | 22 mg Once Daily |
-| --- | --- | --- | --- | --- |
 | PK ParametersValues represent the geometric mean, except T max, for which is the median (range) is shown. (CV%) | XELJANZ |  | XELJANZ XR |  |
+| --- | --- | --- | --- | --- |
+| Dosing Regimen | 5 mg Twice Daily | 10 mg Twice Daily | 11 mg Once Daily | 22 mg Once Daily |
 | AUC24 (ng.hr/mL) | 263.4 (15) | 539.6 (22) | 269.0 (18) | 596.6 (19) |
 | Cmax (ng/mL) | 42.7 (26) | 84.7 (18) | 38.2 (15) | 83.8 (25) |
 | Cmin (ng/mL) | 1.41 (40) | 3.10 (54) | 1.07 (69) | 3.11 (43) |
