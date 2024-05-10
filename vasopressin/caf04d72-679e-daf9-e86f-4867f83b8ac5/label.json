@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213988"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Dr. Reddy's Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-914-11",
+    "43598-914-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin",
+      "name": "vasopressin"
+    }
+  ],
+  "setid": "caf04d72-679e-daf9-e86f-4867f83b8ac5",
+  "source": "dailymed"
+}
