@@ -47,7 +47,9 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
+Manufactured In Bulgaria By: Balkanpharma Dupnitsa AD Dupnitsa 2600, Bulgaria
+
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-E 8/2023
+A 11/2023

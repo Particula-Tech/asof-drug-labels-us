@@ -314,14 +314,16 @@ What are the ingredients in duloxetine delayed-release capsules?
 
 Active ingredient: duloxetine hydrochloride
 
-Inactive ingredients: black iron oxide, gelatin, hydroxypropyl cellulose, hypromellose, hypromellose phthalate, potassium hydroxide, propylene glycol, shellac, strong ammonia solution, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
+Inactive ingredients: black iron oxide, hydroxypropyl cellulose, hypromellose, hypromellose phthalate, potassium hydroxide, propylene glycol, shellac, strong ammonia solution, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 The 20 mg and 30 mg capsules also contain FD&C Blue #1 Aluminum Lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Brands listed are the trademarks of their respective owners.
 
+Manufactured In Bulgaria By: Balkanpharma Dupnitsa AD Dupnitsa 2600, Bulgaria
+
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-E 8/2023
+A 11/2023
