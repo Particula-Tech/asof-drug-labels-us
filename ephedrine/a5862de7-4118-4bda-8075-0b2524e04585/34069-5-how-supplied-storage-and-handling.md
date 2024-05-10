@@ -12,7 +12,7 @@ Store in carton until time of use.
 For single-dose only.
 Discard unused portion.
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
