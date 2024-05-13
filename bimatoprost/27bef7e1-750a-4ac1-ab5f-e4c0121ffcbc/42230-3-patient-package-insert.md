@@ -1,4 +1,8 @@
-# PATIENT INFORMATION Bimatoprost Ophthalmic Solution, 0.03% (bye-MAT-oh-prost)
+# PATIENT INFORMATION
+
+Bimatoprost Ophthalmic Solution, 0.03%
+
+(bye-MAT-oh-prost)
 
 Read the Patient Information that comes with bimatoprost ophthalmic solution before you start using it and each time you get a refill.
 There may be new information.
@@ -114,7 +118,7 @@ Lumigan® is a registered trademark of Allergan, Inc.
 
 Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540
 
-300060164
+300063034
 
 Rev.
-May 2023
+Aug 2023

@@ -1,4 +1,4 @@
-# Bimatoprost Ophthalmic Solution 0.03%, Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0781-6206-93
 
