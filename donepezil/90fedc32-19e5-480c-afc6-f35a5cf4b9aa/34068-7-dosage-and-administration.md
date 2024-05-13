@@ -32,7 +32,7 @@ NAMZARIC capsules should not be divided, chewed, or crushed.
 
 For patients stabilized on donepezil and not currently on memantine:
 
-For patients with severe renal impairment (creatinine clearance 5-29 mL/min, based on the Cockcroft-Gault equation) stabilized on donepezil hydrochloride 10 mg once daily and not currently on memantine hydrochloride, the recommended starting dose of NAMZARIC is 7mg/10 mg taken once a day in the evening.
+For patients with severe renal impairment (creatinine clearance 5-29 mL/min, based on the Cockcroft-Gault equation) stabilized on donepezil hydrochloride 10 mg once daily and not currently on memantine hydrochloride, the recommended starting dose of NAMZARIC is 7 mg/10 mg taken once a day in the evening.
 The dose should be increased to the recommended maintenance dose of 14 mg/10 mg once daily in the evening after a minimum of one week [see Use in Specific Populations (8.6)].
 
 For patients stabilized on both donepezil and memantine:

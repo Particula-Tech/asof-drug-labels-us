@@ -11,7 +11,7 @@ Memantine hydrochloride occurs as a fine white to off-white powder.
 
 Donepezil Hydrochloride
 
-The chemical name for donepezil hydrochloride is 2,3-dihydro-5,6-dimethoxy-2-[[1­(phenylmethyl)-4-piperidinyl]methyl]-1H-inden-1-one hydrochloride.
+The chemical name for donepezil hydrochloride is 2,3-dihydro-5,6-dimethoxy-2-[[1-(phenylmethyl)-4-piperidinyl]methyl]-1H-inden-1-one hydrochloride.
 
 The molecular formula is C24H29NO3•HCl and the molecular weight is 415.96.
 Donepezil hydrochloride is a white crystalline powder.
