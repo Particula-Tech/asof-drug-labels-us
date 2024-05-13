@@ -11,4 +11,4 @@ Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not
 
 For additional information about overdosage treatment contact a poison control center (1-800-222-1222).
 
-Anaphylactic reactions have been reported with therapeutic ingestion of NSAIDs and may occur following an overdose.
+Anaphylactic reactions have been reported with therapeutic ingestion of NSAIDs, and may occur following an overdose.

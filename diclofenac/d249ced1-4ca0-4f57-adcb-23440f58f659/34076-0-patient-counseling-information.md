@@ -14,13 +14,13 @@ Hepatotoxicity
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
 If these occur, instruct patients to stop CAMBIA and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
-Heart Failure and Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (5.5]
+Heart Failure and Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
 
 Anaphylactic Reactions Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
 Serious Skin Reactions, Including DRESS Advise patients to stop taking CAMBIA immediately if they develop any type of rash, blisters, fever or other signs of hypersensitivity such as itching and to contact their healthcare provider as soon as possible.
-CAMBIA, like other NSAIDS, can cause serious skin reactions such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), toxic epidermal necrosis (TEN), and DRESS, which may result in hospitalizations and even death [see Warnings and Precautions (5.9, 5.10)]
+CAMBIA, like other NSAIDS, can cause serious skin reactions such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), toxic epidermal necrosis (TEN), and DRESS, which may result in hospitalizations and even death [see Warnings and Precautions (5.9, 5.10)].
 
 Medication Overuse Headache Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.11)].
 
@@ -33,7 +33,8 @@ Advise patients to notify their healthcare provider if they are breastfeeding or
 
 Female Fertility Advise females of reproductive potential who desire pregnancy that NSAIDs, including CAMBIA, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women [see Use in Specific Populations (8.3)].
 
-Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of CAMBIA with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)] Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
+Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of CAMBIA with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with CAMBIA until they talk to their healthcare provider [see Drug Interactions (7)].
 
@@ -45,6 +46,6 @@ Manufactured and Distributed Under License from APR Applied Pharma Research SA, 
 
 U.S. Patents: 6,974,595; 7,482,377; 7,759,394; 8,097,651
 
-CAM-003-C.7 2020
+CAM-003-C.8
 
-©2020 Assertio Therapeutics, Inc.
+©2023 Assertio Therapeutics, Inc.

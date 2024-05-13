@@ -3,7 +3,7 @@
 ## 2.1 Acute Treatment of Migraine
 
 Administer one packet (50 mg) of CAMBIA for the acute treatment of migraine.
-Empty the contents of one packet into a cup containing 1 to 2 ounces or 2 to 4 tablespoons (30 to 60 mL) of water, mix well and drink immediately.
+Empty the contents of one packet into a cup containing 1 to 2 ounces (30 to 60 mL) of water, mix well and drink immediately.
 
 Do not use liquids other than water.
 

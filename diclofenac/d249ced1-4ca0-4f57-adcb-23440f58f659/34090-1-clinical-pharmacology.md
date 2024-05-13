@@ -14,7 +14,7 @@ Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of actio
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
+Absorption
 
 Diclofenac is 100% absorbed after oral administration compared to intravenous administration as measured by urine recovery.
 However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available.
@@ -23,7 +23,7 @@ Peak plasma levels were achieved at approximately 0.25 hour in fasting normal vo
 High fat food had no significant effect on the extent of diclofenac absorption, but there was a reduction in peak plasma levels of approximately 70% after a high fat meal.
 Decreased Cmax may be associated to decreased effectiveness.
 
-Distribution:
+Distribution
 
 The apparent volume of distribution (V/F) of diclofenac potassium is 1.3 L/kg.
 
