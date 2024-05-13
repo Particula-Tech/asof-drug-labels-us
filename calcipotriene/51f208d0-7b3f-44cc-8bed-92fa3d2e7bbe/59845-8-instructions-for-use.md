@@ -60,4 +60,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Distributed by: Mayne Pharma, Raleigh, NC 27609
 
-Revised: 03/2023
+Revised: 04/2024
