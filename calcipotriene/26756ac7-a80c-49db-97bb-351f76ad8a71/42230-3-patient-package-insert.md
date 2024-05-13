@@ -24,5 +24,5 @@
 | WHAT ARE THE INGREDIENTS IN CALCIPOTRIENE FOAM? |  |
 | Active ingredient: calcipotriene |  |
 | Inactive ingredients: cetyl alcohol, dibasic sodium phosphate, dl-α-tocopherol, edetate disodium, isopropyl myristate, light mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, purified water, stearyl alcohol, and white petrolatum. The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/n-butane/isobutane) propellant. |  |
-| Distributed by: Mayne Pharma Greenville, NC 27834 |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 12/2020 |
+| Distributed by: Mayne Pharma Raleigh, NC 27609 |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 04/2024 |

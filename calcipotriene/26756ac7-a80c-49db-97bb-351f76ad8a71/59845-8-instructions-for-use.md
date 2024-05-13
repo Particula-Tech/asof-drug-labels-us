@@ -57,4 +57,4 @@ See Figure G. Wash your hands after applying calcipotriene foam.
 Figure G
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Distributed by: Mayne Pharma, Greenville, NC 27834 Revised: 12/2020
+Distributed by: Mayne Pharma, Raleigh, NC 27609 Revised: 04/2024
