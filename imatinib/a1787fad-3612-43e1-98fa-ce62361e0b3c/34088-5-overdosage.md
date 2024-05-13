@@ -4,7 +4,9 @@ Experience with doses greater than 800 mg is limited.
 Isolated cases of imatinib mesylate tablets overdose have been reported.
 In the event of overdosage, observe the patient and give appropriate supportive treatment.
 
-Adult Overdose: 1,200 to 1,600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhea, rash erythema, edema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
+Adult Overdose
+
+1,200 to 1,600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhea, rash erythema, edema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
 
 1,800 to 3,200 mg (as high as 3,200 mg daily for 6 days): Weakness, myalgia, increased CPK, increased bilirubin, GI pain.
 
@@ -20,4 +22,6 @@ Complete resolution of muscle cramps occurred following interruption of therapy 
 Another patient that was prescribed 400 mg daily, took 800 mg of imatinib mesylate tablets on Day 1 and 1,200 mg on Day 2.
 Therapy was interrupted, no adverse reactions occurred and the patient resumed therapy.
 
-Pediatric Overdose: One 3 year old male exposed to a single dose of 400 mg experienced vomiting, diarrhea, and anorexia; and another 3 year old male exposed to a single dose of 980 mg experienced decreased white blood cell (WBC) count and diarrhea.
+Pediatric Overdose
+
+One 3 year old male exposed to a single dose of 400 mg experienced vomiting, diarrhea, and anorexia; and another 3 year old male exposed to a single dose of 980 mg experienced decreased white blood cell (WBC) count and diarrhea.

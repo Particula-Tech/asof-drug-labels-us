@@ -1,34 +1,48 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Dosing and Administration: Advise patients to take imatinib mesylate tablets exactly as prescribed, not to change their dose or to stop taking imatinib mesylate tablets unless they are told to do so by their doctor.
+Dosing and Administration
+
+Advise patients to take imatinib mesylate tablets exactly as prescribed, not to change their dose or to stop taking imatinib mesylate tablets unless they are told to do so by their doctor.
 If the patient missed a dose of imatinib mesylate tablets, the patient should take the next scheduled dose at its regular time.
 The patient should not take two doses at the same time.
 Advise patients to take imatinib mesylate tablets with a meal and a large glass of water [see Dosage and Administration (2.1)].
 
-Fluid Retention and Edema: Inform patients of the possibility of developing edema and fluid retention.
+Fluid Retention and Edema
+
+Inform patients of the possibility of developing edema and fluid retention.
 Advise patients to contact their health care provider if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
 
-Hepatotoxicity: Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
+Hepatotoxicity
+
+Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
 Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding, or bruising [see Warnings and Precautions (5.4)].
 
-Pregnancy and Breastfeeding: Advise patients to inform their doctor if they are or think they may be pregnant.
+Pregnancy and Breastfeeding
+
+Advise patients to inform their doctor if they are or think they may be pregnant.
 Advise women of reproductive potential to avoid becoming pregnant while taking imatinib mesylate tablets.
 Female patients of reproductive potential taking imatinib mesylate tablets should use highly effective contraception during treatment and for fourteen days after stopping treatment with imatinib mesylate tablets [see Use in Specific Populations (8.3)].
 Avoid breastfeeding during treatment and for 1 month after the last dose [see Use in Specific Populations (8.2)].
 
-Drug Interactions: Imatinib mesylate tablets and certain other medicines, such as warfarin, erythromycin, and phenytoin, including over-the-counter medications, such as herbal products, can interact with each other.
+Drug Interactions
+
+Imatinib mesylate tablets and certain other medicines, such as warfarin, erythromycin, and phenytoin, including over-the-counter medications, such as herbal products, can interact with each other.
 Advise patients to tell their doctor if they are taking or plan to take iron supplements.
 Avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking imatinib mesylate tablets [see Drug Interactions (7)].
 
-Pediatric: Advise patients that growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate tablets.
+Pediatric
+
+Advise patients that growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate tablets.
 The long term effects of prolonged treatment with imatinib mesylate tablets on growth in children are unknown.
 Therefore, closely monitor growth in children under imatinib mesylate tablet treatment [see Warnings and Precautions (5.11)].
 
-Driving and Using Machines: Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate tablets.
+Driving and Using Machines
+
+Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate tablets.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Haupt Pharma Amareg GmbH Donaustaufer Strasse 378 Regensburg, Bayern, 93055, Germany
 
-Revised: 1/2023 HPT:IMAT:R2
+Revised: 4/2024 HPT:IMAT:R3

@@ -15,7 +15,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 
 ### Data
 
-#### Animal Data
+Animal Data
 
 In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of imatinib mesylate up to 100 mg/kg/day and 60 mg/kg/day, respectively, during the period of organogenesis.
 
@@ -53,7 +53,7 @@ Human postmarketing reports and animal studies have shown imatinib mesylate to b
 
 ### Contraception
 
-#### Females
+Females
 
 Advise female patients of reproductive potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using imatinib mesylate tablets during treatment and for fourteen days after stopping treatment with imatinib mesylate tablets [see Use in Specific Populations (8.1)].
 
@@ -91,9 +91,9 @@ Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage a
 
 Table 16: Liver Function Classification
 
-| Liver Function Test | Normal(n = 14) | Mild(n = 30) | Moderate(n = 20) | Severe(n = 20) |
+| Liver function test | Normal(n = 14) | Mild(n = 30) | Moderate(n = 20) | Severe(n = 20) |
 | --- | --- | --- | --- | --- |
-| Total Bilirubin | less than or equal to ULN | greater than 1.0-1.5 times the ULN | greater than 1.5-3 times the ULN | greater than 3-10 times the ULN |
+| Total bilirubin | less than or equal to ULN | greater than 1.0-1.5 times the ULN | greater than 1.5-3 times the ULN | greater than 3-10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 | Abbreviation: SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); ULN, upper limit of normal for the institution. |  |  |  |  |
 
@@ -106,7 +106,7 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 
 Table 17: Renal Function Classification
 
-| Renal Dysfunction | Renal Function Tests |
+| Renal dysfunction | Renal function tests |
 | --- | --- |
 | Mild | CrCL = 40-59 mL/min |
 | Moderate | CrCL = 20-39 mL/min |

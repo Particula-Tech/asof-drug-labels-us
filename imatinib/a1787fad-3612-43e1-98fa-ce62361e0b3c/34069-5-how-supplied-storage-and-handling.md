@@ -12,7 +12,7 @@ They are available as follows:
 
 NDC 0378-2246-93 bottles of 30 tablets
 
-Storage and Handling: Store at 20° to 25°C (68° to 77°F).
+Storage and Handling Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Protect from moisture.
