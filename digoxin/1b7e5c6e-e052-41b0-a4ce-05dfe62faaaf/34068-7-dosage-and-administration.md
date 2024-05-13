@@ -117,27 +117,27 @@ Table 3: Usual Maintenance DoseThe doses are rounded to whole numbers.Twice dail
 Once daily dosing is recommended for pediatric patients above 10 years of age and adults.
 Requirements (mcg) of Digoxin Based upon Age, Lean Body Weight and Renal Function
 
-| Corrected Ccr (mL/min per 70 kg)Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area. For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. Note: This equation cannot be used for estimating creatinine clearance in infants or pediatric patients. For pediatric patients, the modified Schwartz equation may be used as listed below. The formula was based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr. | Dose to be Given Twice Daily< 10 Years of Age |  |  |  |  |  |  |  | Dose to be Given Once Daily> 10 Years of Age and Adults |  |  |  |  |  |  |  | Number of Days Before Steady State Achieved |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lean Body Weight |  |  |  |  |  |  |  | Lean Body Weight |  |  |  |  |  |  |  |  |  |
-| kglb | 511 | 1022 | 2044 | 3066 | 4088 | 50110 | 60132 |  | 4088 | 50110 | 60132 | 70154 | 80176 | 90198 | 100220 |  |  |
-| 10 |  | 10 | 20 | 40 | 60 | 80 | 100 | 120 |  | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 19 |
-| 20 |  | 11 | 23 | 45 | 68 | 90 | 113 | 135 |  | 90 | 113 | 135 | 158 | 180 | 203 | 225 | 16 |
-| 30 |  | 13 | 25 | 50 | 75 | 100 | 125 | 150 |  | 100 | 125 | 150 | 175 | 200 | 225 | 250 | 14 |
-| 40 |  | 14 | 28 | 55 | 83 | 110 | 138 | 165 |  | 110 | 138 | 165 | 193 | 220 | 248 | 275 | 13 |
-| 50 |  | 15 | 30 | 60 | 90 | 120 | 150 | 180 |  | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 12 |
-| 60 |  | 16 | 33 | 65 | 98 | 130 | 163 | 195 |  | 130 | 163 | 195 | 228 | 260 | 293 | 325 | 11 |
-| 70 |  | 18 | 35 | 70 | 105 | 140 | 175 | 210 |  | 140 | 175 | 210 | 245 | 280 | 315 | 350 | 10 |
-| 80 |  | 19 | 38 | 75 | 113 | 150 | 188 | 225 |  | 150 | 188 | 225 | 263 | 300 | 338 | 375 | 9 |
-| 90 |  | 20 | 40 | 80 | 120 | 160 | 200 | 240 |  | 160 | 200 | 240 | 280 | 320 | 360 | 400 | 8 |
-| 100 |  | 21 | 43 | 85 | 128 | 170 | 213 | 255 |  | 170 | 213 | 255 | 298 | 340 | 383 | 425 | 7 |
+| Corrected Ccr (mL/min per 70 kg)Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area. For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. Note: This equation cannot be used for estimating creatinine clearance in infants or pediatric patients. For pediatric patients, the modified Schwartz equation may be used as listed below. The formula was based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr. | Dose to be Given Twice Daily< 10 Years of Age |  |  |  |  |  |  |  | Dose to be Given Once Daily> 10 Years of Age and Adults |  |  |  |  |  |  | Number of Days Before Steady State Achieved |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lean Body Weight |  |  |  |  |  |  |  | Lean Body Weight |  |  |  |  |  |  |  |  |
+| kglb | 511 | 1022 | 2044 | 3066 | 4088 | 50110 | 60132 | 4088 | 50110 | 60132 | 70154 | 80176 | 90198 | 100220 |  |  |
+| 10 |  | 10 | 20 | 40 | 60 | 80 | 100 | 120 | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 19 |
+| 20 |  | 11 | 23 | 45 | 68 | 90 | 113 | 135 | 90 | 113 | 135 | 158 | 180 | 203 | 225 | 16 |
+| 30 |  | 13 | 25 | 50 | 75 | 100 | 125 | 150 | 100 | 125 | 150 | 175 | 200 | 225 | 250 | 14 |
+| 40 |  | 14 | 28 | 55 | 83 | 110 | 138 | 165 | 110 | 138 | 165 | 193 | 220 | 248 | 275 | 13 |
+| 50 |  | 15 | 30 | 60 | 90 | 120 | 150 | 180 | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 12 |
+| 60 |  | 16 | 33 | 65 | 98 | 130 | 163 | 195 | 130 | 163 | 195 | 228 | 260 | 293 | 325 | 11 |
+| 70 |  | 18 | 35 | 70 | 105 | 140 | 175 | 210 | 140 | 175 | 210 | 245 | 280 | 315 | 350 | 10 |
+| 80 |  | 19 | 38 | 75 | 113 | 150 | 188 | 225 | 150 | 188 | 225 | 263 | 300 | 338 | 375 | 9 |
+| 90 |  | 20 | 40 | 80 | 120 | 160 | 200 | 240 | 160 | 200 | 240 | 280 | 320 | 360 | 400 | 8 |
+| 100 |  | 21 | 43 | 85 | 128 | 170 | 213 | 255 | 170 | 213 | 255 | 298 | 340 | 383 | 425 | 7 |
 
 Determination of the target dose in milliliters of Digoxin Oral Solution based on body weight is shown in Table 4.
 Provided is the volume required per dose, NOT per day.
 
 Table 4: Dosea in Milliliters
 
-|  |  | Volume to be Given in mLb |  |  |  |  |  |  |  |  |  |  |  |  |
+| Target Dose in mcg/kg |  | Volume to be Given in mLb |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 3 | 4 | 5 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 30 |  |  |
 | Weight in kg | 2 | 0.08b | 0.12b | 0.16b | 0.2 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | 0.8 | 1.2 |
@@ -157,7 +157,7 @@ Table 4: Dosea in Milliliters
 | 20 | 0.8 | 1.2 | 1.6 | 2.0 | 2.4 | 3.2 | 4.0 | 4.8 | 5.6 | 6.4 | 7.2 | 8.0 | 12.0 |  |
 | 30 | 1.2 | 1.8 | 2.4 | 3.0 | 3.6 | 4.8 | 6.0 | 7.2 | 8.4 | 9.6 | 10.8 | 12.0 | 18.0 |  |
 | 40 | 1.6 | 2.4 | 3.2 | 4.0 | 4.8 | 6.4 | 8.0 | 9.6 | 11.2 | 12.8 | 14.4 | 16.0 | 24.0 |  |
-| 50 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 8.0 | 10.0 | 12.0 | 14.0 | 16.0 | 18 | 20.0 | 30.0 |  |
+| 50 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 8.0 | 10.0 | 12.0 | 14.0 | 16.0 | 18.0 | 20.0 | 30.0 |  |
 | 60 | 2.4 | 3.6 | 4.8 | 6.0 | 7.2 | 9.6 | 12.0 | 14.4 | 16.8 | 19.2 | 21.6 | 24.0 | 36.0 |  |
 | 70 | 2.8 | 4.2 | 5.6 | 7.0 | 8.4 | 11.2 | 14.0 | 16.8 | 19.6 | 22.4 | 25.2 | 28.0 | 42.0 |  |
 | 80 | 3.2 | 4.8 | 6.4 | 8.0 | 9.6 | 12.8 | 16.0 | 19.2 | 22.4 | 25.6 | 28.8 | 32.0 | 48.0 |  |

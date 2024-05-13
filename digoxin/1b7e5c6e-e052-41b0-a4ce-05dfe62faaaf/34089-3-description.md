@@ -11,5 +11,5 @@ Digoxin is practically insoluble in water and in ether, slightly soluble in 50% 
 Digoxin, USP is a white or almost white powder, or colorless crystals.
 
 Digoxin Oral Solution, USP is formulated for oral administration.
-Each mL contains 50 mcg (0.05 mg digoxin).
+Each mL contains 50 mcg digoxin.
 The lime-flavored solution contains the following inactive ingredients: alcohol 10% (by volume at 60°F), glycerin, lime (imitation), methylparaben 0.1%, propylparaben 0.02%, purified water, sodium citrate and sorbitol solution.

@@ -2,7 +2,7 @@
 
 Digoxin Oral Solution, USP
 
-0.05 mg (50 mcg) per 1 mL is supplied as a (lime-flavored) clear, colorless solution.
+50 mcg per 1 mL is supplied as a (lime-flavored) clear, colorless solution.
 
 NDC 0054-0057-46: Bottle of 60 mL with a calibrated oral syringe
 
