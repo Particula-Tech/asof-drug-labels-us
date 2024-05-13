@@ -2,8 +2,9 @@
 
 ## 2.1 Important Dosage Information
 
-- Take Atorvastatin calcium tablet orally once daily at any time of the day, with or without food.
+- Take atorvastatin calcium tablet orally once daily at any time of the day, with or without food.
 - Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating atorvastatin calcium tablets, and adjust the dosage if necessary.
+- If a dose is missed, advise patients not to take the missed dose and resume with the next scheduled dose.
 
 ## 2.2 Recommended Dosage in Adult Patients
 

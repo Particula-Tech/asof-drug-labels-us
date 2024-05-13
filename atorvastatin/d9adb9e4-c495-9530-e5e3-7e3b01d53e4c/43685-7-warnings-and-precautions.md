@@ -14,7 +14,7 @@ Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 Atorvastatin calcium exposure may be increased by drug interactions due to inhibition of cytochrome P450 enzyme 3A4 (CYP3A4) and/or transporters (e.g., breast cancer resistant protein [BCRP], organic anion-transporting polypeptide [OATP1B1/OATP1B3] and P-glycoprotein [P-gp]), resulting in an increased risk of myopathy and rhabdomyolysis.
 Concomitant use of cyclosporine, gemfibrozil, tipranavir plus ritonavir, or glecaprevir plus pibrentasvir with atorvastatin is not recommended.
 Atorvastatin calcium dosage modifications are recommended for patients taking certain anti-viral, azole antifungals, or macrolide antibiotic medications [see Dosage and Administration (2.5)].
-Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (>1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir.
+Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (>1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir [see Adverse Reactions (6.1)].
 Consider if the benefit of use of these products outweighs the increased risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
 
 Concomitant intake of large quantities, more than 1.2 liters daily, of grapefruit juice is not recommended in patients taking atorvastatin calcium [see Drug Interactions (7.1)].
@@ -54,7 +54,7 @@ Optimize lifestyle measures, including regular exercise, maintaining a healthy b
 
 ## 5.5 Increased Risk of Hemorrhagic Stroke in Patients on Atorvastatin Calcium Tablets 80 mg with Recent Hemorrhagic Stroke
 
-In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial where 2365 adult patients, without CHD who had a stroke or TIA within the preceding 6 months, were treated with atorvastatin calcium 80 mg, a higher incidence of hemorrhagic stroke was seen in the atorvastatin calcium 80 mg group compared to placebo (55, 2.3% atorvastatin calcium vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168).
+In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial where 2,365 adult patients, without CHD who had a stroke or TIA within the preceding 6 months, were treated with atorvastatin calcium 80 mg, a higher incidence of hemorrhagic stroke was seen in the atorvastatin calcium 80 mg group compared to placebo (55, 2.3% atorvastatin calcium vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168).
 The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively).
 The incidence of non-fatal hemorrhagic stroke was significantly higher in the atorvastatin calcium group (38, 1.6%) as compared to the placebo group (16, 0.7%).
 Some baseline characteristics, including hemorrhagic and lacunar stroke on study entry, were associated with a higher incidence of hemorrhagic stroke in the atorvastatin calcium group [see Adverse Reactions (6.1)].

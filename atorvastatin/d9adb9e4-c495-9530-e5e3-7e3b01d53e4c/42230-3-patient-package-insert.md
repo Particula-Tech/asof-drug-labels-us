@@ -1,15 +1,10 @@
 # PATIENT INFORMATION
 
-Atorvastatin Calcium Tablets, USP
-
-(a tor″ va stat′ in kal′ see um)
-
-Patient Information Leaflet available at https://www.apotex.com/products/us/mg.asp
+Atorvastatin Calcium (a tor″ va stat′ in kal′ see um) Tablets, USP for oral use
 
 What are atorvastatin calcium tablets?
 
 Atorvastatin calcium tablets are a prescription medicine that contains cholesterol lowering medicine (statin) called atorvastatin.
-
 Atorvastatin calcium tablets are used:
 
 - to reduce the risk of:
@@ -32,7 +27,7 @@ It is not known if atorvastatin calcium tablets are safe and effective in childr
 Do not take atorvastatin calcium tablets if you:
 
 - have liver problems (acute liver failure or decompensated cirrhosis)
-- are allergic to atorvastatin or any of the ingredients.in atorvastatin calcium tablets.
+- are allergic to atorvastatin or any of the ingredients in atorvastatin calcium tablets.
   Stop using atorvastatin calcium tablets and get medical help right away if you have symptoms of a serious allergic reaction including:
   - swelling of your face, lips, tongue or throat
   - problems breathing or swallowing
@@ -43,7 +38,7 @@ Do not take atorvastatin calcium tablets if you:
 
 See the end of this leaflet for a complete list of ingredients in atorvastatin calcium tablets.
 
-Before you take atorvastatin calcium tablets, tell your doctor about all of your medical conditions, including if you:
+Before you take atorvastatin calcium tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have unexplained muscle aches or weakness
 - drink more than 2 glasses of alcohol daily
@@ -53,15 +48,15 @@ Before you take atorvastatin calcium tablets, tell your doctor about all of your
 - had a stroke
 - are pregnant or plan to become pregnant.
   Atorvastatin may harm your unborn baby.
-  If you become pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
+  If you become pregnant, stop taking atorvastatin calcium tablets and call your healthcare provider right away.
 - are breastfeeding or plan to breastfeed.
-  You and your doctor should decide if you will take atorvastatin calcium tablets or breastfeed.
+  You and your healthcare provider should decide if you will take atorvastatin calcium tablets or breastfeed.
   You should not do both.
-  Talk to your doctor about the best way to feed your baby if you take atorvastatin calcium tablets.
+  Talk to your healthcare provider about the best way to feed your baby if you take atorvastatin calcium tablets.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Atorvastatin calcium tablets and certain other medicines can increase the risk of muscle problem or other side effects.
-Especially tell your doctor if you take medicines for:
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Atorvastatin calcium tablets and certain other medicines can increase the risk of muscle problems or other side effects.
+Especially tell your healthcare provider if you take medicines for:
 
 - your immune system (cyclosporine)
 - cholesterol (gemfibrozil)
@@ -71,7 +66,7 @@ Especially tell your doctor if you take medicines for:
 - gout (colchicine)
 - niacin
 - fibrates
-- viruses that treat HIV AIDS, or hepatitis C (anti-virals)
+- treating HIV, AIDS, or hepatitis C (anti-virals)
   - tipranavir plus ritonavir
   - ledipasvir plus sofosbuvir
   - saquinavir plus ritonavir
@@ -84,25 +79,23 @@ Especially tell your doctor if you take medicines for:
   - fosamprenavir plus ritonavir
   - letermovir
 
-Ask your doctor or pharmacist for a list of medicines if you are not sure.
+Ask your healthcare provider or pharmacist for a list of medicines if you are not sure.
 Know all the medicines you take.
-Keep a list of them to show your doctor and pharmacist.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take atorvastatin calcium tablets?
 
-- Take atorvastatin calcium tablets exactly as your doctor tells you to take it.
-- Do not change your dose or stop atorvastatin calcium tablets without talking to your doctor.
-- Your doctor may do blood tests to check your cholesterol levels during your treatment with atorvastatin calcium tablets.
+- Take atorvastatin calcium tablets exactly as your healthcare provider tells you to take it.
+- Do not change your dose or stop atorvastatin calcium tablets without talking to your healthcare provider.
+- Your healthcare provider may do blood tests to check your cholesterol levels during your treatment with atorvastatin calcium tablets.
   Your dose of atorvastatin calcium tablets may be changed based on these blood test results.
 - Take atorvastatin calcium tablets each day at any time of day.
   Atorvastatin calcium tablets can be taken with or without food.
-- Your doctor should start you on a cholesterol lowering diet before giving you atorvastatin calcium tablets.
+- Your healthcare provider may start you on a cholesterol lowering diet before giving you atorvastatin calcium tablets.
   Stay on this low-fat diet when you take atorvastatin calcium tablets.
-- If you miss a dose of atorvastatin calcium tablets, take it as soon as you remember.
-  Do not take atorvastatin calcium tablets if it has been more than 12 hours since you missed your last dose.
-  Wait and take the next dose at your regular time.
+- If you miss a dose of atorvastatin calcium tablets, wait and take the next dose at your regular time.
   Do not take 2 doses of atorvastatin calcium tablets at the same time.
-  If you take too much atorvastatin calcium or overdose, call your doctor or Poison Control Center at 1-800-222-1222. or go to the nearest emergency room right away.
+- If you take too much atorvastatin calcium or overdose, call your healthcare provider or Poison Control Center at 1-800-222-1222. or go to the nearest emergency room right away.
 
 What should I avoid while taking atorvastatin calcium tablets?
 
@@ -112,23 +105,23 @@ What are the possible side effects of atorvastatin calcium tablets?
 
 Atorvastatin calcium tablets may cause serious side effects including:
 
-Muscle pain, tenderness and weakness (myopathy).
-Muscle problems, including muscle breakdown, can be serious in some people and, rarely, cause kidney damage that can lead to death.
-Tell your doctor right away if you have:
-
-- unexplained muscle pain, tenderness, or weakness, especially if you also have a fever or feel more tired than usual while you take atorvastatin calcium tablets.
-- muscle problems that do not go away after your doctor has told you to stop taking atorvastatin calcium tablets.
-  Your doctor may do further tests to diagnose the cause of your muscle problems.
-  Your chances of getting muscle problems are higher if you:
-- are taking certain other medicines while you take atorvastatin calcium tablets
-- drink large amounts of grapefruit juice
-- are 65 years of age or older o have thyroid problems (hypothyroidism) that are not controlled
-- have kidney problems
-- are taking higher doses of atorvastatin calcium tablets
+- Muscle pain, tenderness and weakness (myopathy).
+  Muscle problems, including muscle breakdown, can be serious in some people and, rarely, cause kidney damage that can lead to death.
+  Tell your healthcare provider right away if you have:
+  - unexplained muscle pain, tenderness, or weakness, especially if you also have a fever or feel more tired than usual while you take atorvastatin calcium tablets.
+  - muscle problems that do not go away after your healthcare provider has told you to stop taking atorvastatin calcium tablets.
+    Your healthcare provider may do further tests to diagnose the cause of your muscle problems.
+    Your chances of getting muscle problems are higher if you:
+  - are taking certain other medicines while you take atorvastatin calcium tablets
+  - drink large amounts of grapefruit juice
+  - are 65 years of age or older
+  - have thyroid problems (hypothyroidism) that are not controlled
+  - have kidney problems
+  - are taking higher doses of atorvastatin calcium tablets
 
 - Liver problems.
-  Your doctor should do blood tests to check your liver before you start taking atorvastatin calcium tablets and if you have symptoms of liver problems while you take atorvastatin calcium tablets.
-  Call your doctor right away if you have the following symptoms of liver problems:
+  Your healthcare provider should do blood tests to check your liver before you start taking atorvastatin calcium tablets and if you have symptoms of liver problems while you take atorvastatin calcium tablets.
+  Call your healthcare provider right away if you have the following symptoms of liver problems:
   - feel tired or weak
   - nausea or vomiting
   - loss of appetite
@@ -154,25 +147,25 @@ The most common side effects of atorvastatin calcium tablets include:
 - musculoskeletal pain
 - trouble sleeping
 
-Talk to your doctor or pharmacist if you have side effects that bother you or that will not go away.
+Talk to your healthcare provider or pharmacist if you have side effects that bother you or that will not go away.
 These are not all the side effects of atorvastatin calcium tablets.
-Call your doctor for medical advice about side effects.
+Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store atorvastatin calcium tablets?
 
-- Store atorvastatin calcium tablets at room temperature, 68°F to 77°F (20°C to 25°C).
+- Store atorvastatin calcium tablets at room temperature 68°F to 77°F (20°C to 25°C).
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep atorvastatin calcium tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of atorvastatin calcium tablets.
 
-Medicines are sometimes prescribed for purposes other than listed in patient information leaflet.
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflet.
 Do not use atorvastatin calcium tablets for a condition for which it was not prescribed.
 Do not give atorvastatin calcium tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
-If you would like more information about atorvastatin calcium tablets, talk with your doctor.
-You can ask your pharmacist or doctor for information about atorvastatin calcium tablets that is written for health professionals.
+If you would like more information about atorvastatin calcium tablets, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about atorvastatin calcium tablets that is written for health professionals.
 
 What are the ingredients in atorvastatin calcium tablets?
 
@@ -186,11 +179,9 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada, M9L 1T9 | 33326 |
+| Canada, M9L 1T9 | USA, 33326 |
 
-Revised: June 2023
+Revised: May 2024
 
 Rev.
-23
-
-This Patient Package Information has been approved by the U.S. Food and Drug Administration 06/2023
+24

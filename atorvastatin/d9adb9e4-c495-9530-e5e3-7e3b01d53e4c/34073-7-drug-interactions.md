@@ -2,7 +2,8 @@
 
 ## 7.1 Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin Calcium
 
-Atorvastatin calcium is a substrate of CYP3A4 and transporters (e.g., OATP1B1/1B3, P-gp, or BCRP). atorvastatin calcium plasma levels can be significantly increased with concomitant administration of inhibitors of CYP3A4 and transporters.
+Atorvastatin calcium is a substrate of CYP3A4 and transporters (e.g., OATP1B1/1B3, P-gp, or BCRP).
+Atorvastatin calcium plasma levels can be significantly increased with concomitant administration of inhibitors of CYP3A4 and transporters.
 Table 2 includes a list of drugs that may increase exposure to atorvastatin and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 Table 2: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin Calcium

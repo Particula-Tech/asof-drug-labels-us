@@ -59,7 +59,7 @@ Apparent oral clearance of atorvastatin in pediatric subjects appeared similar t
 
 Gender
 
-Plasma concentrations of atorvastatin in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin between men and women.
+Plasma concentrations of atorvastatin in females differ from those in males (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin between males and females.
 
 Renal Impairment
 
@@ -81,14 +81,14 @@ Atorvastatin is also identified as a substrate of the efflux transporter BCRP, w
 
 Table 5: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-|  | Dose (mg) | Ratio of AUC& | Ratio of Cmax& |
+|  | Dosage (mg) | Ratio of AUC& | Ratio of Cmax& |
 | --- | --- | --- | --- |
-| Co-administered drug and dosing regimen | Atorvastatin |  |  |
+| Co-administered drug and dosage regimen | Atorvastatin |  |  |
 | #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDa for 28 days | 8.69 | 10.66 |
-| #Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 10 mg, SDc | 9.36 | 8.58 |
+| #Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 10 mg SDc | 9.36 | 8.58 |
 | #Glecaprevir 400 mg QDa/pibrentasvir 120 mg QDa, 7 days | 10 mg QDa for 7 days | 8.28 | 22 |
-| #Telaprevir 750 mg q8hf, 10 days | 20 mg, SDc | 7.88 | 10.60 |
-| #, ‡Saquinavir 400 mg BIDb/ ritonavir 400 mg BIDb, 15 days | 40 mg QDa for 4 days | 3.93 | 4.31 |
+| #Telaprevir 750 mg q8hf, 10 days | 20 mg SDc | 7.88 | 10.60 |
+| #, ‡Saquinavir 400 mg BIDb/ritonavir 400 mg BIDb, 15 days | 40 mg QDa for 4 days | 3.93 | 4.31 |
 | #Elbasvir 50 mg QDa /grazoprevir 200 mg QDa, 13 days | 10 mg SDc | 1.94 | 4.34 |
 | #Simeprevir 150 mg QDa, 10 days | 40 mg SDc | 2.12 | 1.70 |
 | #Clarithromycin 500 mg BIDb, 9 days | 80 mg QDa for 8 days | 4.54 | 5.38 |
@@ -96,12 +96,12 @@ Table 5: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | #Itraconazole 200 mg QDa, 4 days | 40 mg SDc | 3.32 | 1.20 |
 | #Letermovir 480 mg QDa, 10 days | 20 mg SDc | 3.29 | 2.17 |
 | #Fosamprenavir 700 mg BIDb/ritonavir 100 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.53 | 2.84 |
-| #Fosamprenavir 1400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
-| #Nelfinavir 1250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |
-| #Grapefruit Juice, 240 mL QDa * | 40 mg, SDc | 1.37 | 1.16 |
-| Diltiazem 240 mg QDa, 28 days | 40 mg, SDc | 1.51 | 1 |
-| Erythromycin 500 mg QIDe, 7 days | 10 mg, SDc | 1.33 | 1.38 |
-| Amlodipine 10 mg, single dose | 80 mg, SDc | 1.18 | 0.91 |
+| #Fosamprenavir 1,400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
+| #Nelfinavir 1,250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |
+| #Grapefruit Juice, 240 mL QDa * | 40 mg SDc | 1.37 | 1.16 |
+| Diltiazem 240 mg QDa, 28 days | 40 mg SDc | 1.51 | 1 |
+| Erythromycin 500 mg QIDe, 7 days | 10 mg SDc | 1.33 | 1.38 |
+| Amlodipine 10 mg, single dose | 80 mg SDc | 1.18 | 0.91 |
 | Cimetidine 300 mg QIDe, 2 weeks | 10 mg QDa for 2 weeks | 1 | 0.89 |
 | Colestipol 10 g BIDb, 24 weeks | 40 mg QDa for 8 weeks | NA | 0.74** |
 | Maalox TC® 30 mL QIDe, 17 days | 10 mg QDa for 15 days | 0.66 | 0.67 |
@@ -130,7 +130,7 @@ a Once daily
 
 b Twice daily
 
-c Single dose
+c Single dosage
 
 d Three times daily
 
@@ -140,14 +140,14 @@ f Every 8 hours
 
 Table 6: Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-| Atorvastatin | Co-administered drug and dosing regimen |  |  |
+| Atorvastatin | Co-administered drug and dosage regimen |  |  |
 | --- | --- | --- | --- |
-|  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
+|  | Drug/Dosage (mg) | Ratio of AUC | Ratio of Cmax |
 | 80 mg QDa for 15 days | Antipyrine, 600 mg SDc | 1.03 | 0.89 |
 | 80 mg QDa for 10 days | # Digoxin 0.25 mg QDa, 20 days | 1.15 | 1.20 |
 | 40 mg QDa for 22 days | Oral contraceptive QDa, 2 months - norethindrone 1 mg - ethinyl estradiol 35 mcg | 1.28 1.19 | 1.23 1.30 |
-| 10 mg, SDc | Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 1.08 | 0.96 |
-| 10 mg QDa for 4 days | Fosamprenavir 1400 mg BIDb, 14 days | 0.73 | 0.82 |
+| 10 mg SDc | Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 1.08 | 0.96 |
+| 10 mg QDa for 4 days | Fosamprenavir 1,400 mg BIDb, 14 days | 0.73 | 0.82 |
 | 10 mg QDa for 4 days | Fosamprenavir 700 mg BIDb/ritonavir 100 mg BIDb, 14 days | 0.99 | 0.94 |
 
 # See Section 7 for clinical significance.
@@ -156,6 +156,6 @@ a Once daily
 
 b Twice daily
 
-c Single dose
+c Single dosage
 
 Atorvastatin calcium had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.

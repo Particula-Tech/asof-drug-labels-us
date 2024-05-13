@@ -27,12 +27,11 @@ Lactation
 
 Advise patients that breastfeeding is not recommended during treatment with atorvastatin calcium tablets [see Use in Specific Populations (8.2)].
 
+Missed Doses
+
+If a dose is missed, advise patients not to take the missed dose and resume with the next scheduled dose.
+
 All registered trademarks in this document are the property of their respective owners.
-
-This product’s labeling may have been updated.
-For the most recent prescribing information, please visit www1.apotex.com/products/us
-
-Dispense with Patient Information Leaflet available at https://www.apotex.com/products/us/mg.asp
 
 APOTEX INC.
 
@@ -44,7 +43,7 @@ ATORVASTATIN CALCIUM TABLETS, USP
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada, M9L 1T9 | 33326 |
+| Canada, M9L 1T9 | USA, 33326 |
 
 Rev.
-23
+24
