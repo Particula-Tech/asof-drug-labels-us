@@ -19,7 +19,7 @@ If clinicians elect to use percent free PSA as an aid in the detection of prosta
 ## 5.2 Increased Risk of High-Grade Prostate Cancer
 
 Men aged 55 and over with a normal digital rectal examination and PSA ≤3.0 ng/mL at baseline taking finasteride 5 mg/day in the 7-year Prostate Cancer Prevention Trial (PCPT) had an increased risk of Gleason score 8 to 10 prostate cancer (finasteride 1.8% vs placebo 1.1%).
-[See Indications and Usage (1.3) and Adverse Reactions (6.1).]
+[See Indications and Usage (1.3)and Adverse Reactions (6.1).]
 Similar results were observed in a 4-year placebo-controlled clinical trial with another 5α-reductase inhibitor (dutasteride, AVODART) (1% dutasteride vs 0.5% placebo).
 5α-reductase inhibitors may increase the risk of development of high-grade prostate cancer.
 Whether the effect of 5α-reductase inhibitors to reduce prostate volume, or study-related factors, impacted the results of these studies has not been established.
@@ -35,7 +35,7 @@ If a pregnant female comes in contact with crushed or broken finasteride tablets
 
 ## 5.4 Pediatric Patients and Females
 
-Finasteride tablets are not indicated for use in pediatric patients [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)] or females [see also Warnings and Precautions (5.3), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), and How Supplied/Storage and Handling (16)].
+Finasteride tablets are not indicated for use in pediatric patients [see Use in Specific Populations (8.4)and Clinical Pharmacology (12.3)] or females [see also Warnings and Precautions (5.3), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), and How Supplied/Storage and Handling (16)].
 
 ## 5.5 Effect on Semen Characteristics
 

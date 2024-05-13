@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Finasteride tablets, USP 5 mg: blue, 7 mm, round, biconvex, film coated tablets, marked 'F5' on one side and plain on other side.
-They are supplied as follows: NDC 16729-090-10 Bottles of 30 with child resistant closure NDC 16729-090-15 Bottles of 90 with child resistant closure NDC 16729-090-01 Bottles of 100 with child resistant closure NDC 16729-090-16 Bottles of 500 NDC 16729-090-17 Bottles of 1000
+They are supplied as follows: NDC16729-090-10 Bottles of 30 with child resistant closure NDC16729-090-15 Bottles of 90 with child resistant closure NDC16729-090-01 Bottles of 100 with child resistant closure NDC16729-090-16 Bottles of 500 NDC16729-090-17 Bottles of 1000
 
 Storage and Handling
 

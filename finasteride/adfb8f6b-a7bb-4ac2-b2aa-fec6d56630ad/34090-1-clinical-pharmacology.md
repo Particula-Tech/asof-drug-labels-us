@@ -8,7 +8,7 @@ DHT induces androgenic effects by binding to androgen receptors in the cell nucl
 
 Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex.
 Turnover from this complex is extremely slow (t ½~ 30 days).
-This has been demonstrated both in vivo and in vitro.
+This has been demonstrated both in vivoand in vitro.
 Finasteride has no affinity for the androgen receptor.
 In man, the 5α-reduced steroid metabolites in blood and urine are decreased after administration of finasteride.
 
@@ -70,7 +70,7 @@ In healthy young subjects (n=15), mean plasma clearance of finasteride was 165 m
 Following an oral dose of 14C-finasteride in man (n=6), a mean of 39% (range, 32 to 46%) of the dose was excreted in the urine in the form of metabolites; 57% (range, 51 to 64%) was excreted in the feces.
 
 The mean terminal half-life of finasteride in subjects ≥70 years of age was approximately 8 hours (range, 6 to 15 hours; n=12), compared with 6 hours (range, 4 to 12 hours; n=12) in subjects 45 to 60 years of age.
-As a result, mean AUC (0 to 24 hr) after 17 days of dosing was 15% higher in subjects ≥70 years of age than in subjects 45 to 60 years of age (p=0.02).
+As a result, mean AUC (0 to 24 hr)after 17 days of dosing was 15% higher in subjects ≥70 years of age than in subjects 45 to 60 years of age (p=0.02).
 
 |  | Mean (±SD) |
 | --- | --- |
@@ -88,13 +88,13 @@ Finasteride is not indicated for use in pediatric patients [see Warnings and Pre
 
 Gender
 
-Finasteride is not indicated for use in females [see Contraindications (4), Warnings and Precautions (5.3 and 5.4), Use in Specific Populations (8.1), and How Supplied/Storage and Handling (16)].
+Finasteride is not indicated for use in females [see Contraindications (4), Warnings and Precautions (5.3and 5.4), Use in Specific Populations (8.1), and How Supplied/Storage and Handling (16)].
 
 Geriatric
 
 No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
-[See Clinical Pharmacology (12.3) and Use in Specific Populations (8.5)].
+[See Clinical Pharmacology (12.3)and Use in Specific Populations (8.5)].
 
 | 45 to 60 years old (n=12) | ≥70 years old (n=12) |  |
 | --- | --- | --- |

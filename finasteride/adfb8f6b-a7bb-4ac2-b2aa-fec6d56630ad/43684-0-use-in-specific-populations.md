@@ -82,7 +82,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Of the total number of subjects included in a long-term efficacy and safety study, 1480 and 105 subjects were 65 and over and 75 and over, respectively.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-No dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+No dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3)and Clinical Studies (14)].
 
 ## 8.6 Hepatic Impairment
 

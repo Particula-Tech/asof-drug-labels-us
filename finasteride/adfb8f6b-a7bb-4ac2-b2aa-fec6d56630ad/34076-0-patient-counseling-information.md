@@ -10,7 +10,7 @@ Patients should be informed that there was an increase in high-grade prostate ca
 
 Physicians should inform patients that females who are pregnant or may potentially be pregnant should not handle crushed or broken finasteride tablets 5 mg because of the possibility of absorption of finasteride and the subsequent potential risk to the male fetus.
 Finasteride tablets 5 mg are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
-If a female who is pregnant or may potentially be pregnant comes in contact with crushed or broken finasteride tablets 5 mg, the contact area should be washed immediately with soap and water [see Contraindications (4), Warnings and Precautions (5.3), Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
+If a female who is pregnant or may potentially be pregnant comes in contact with crushed or broken finasteride tablets 5 mg, the contact area should be washed immediately with soap and water [see Contraindications (4), Warnings and Precautions (5.3), Use in Specific Populations (8.1)and How Supplied/Storage and Handling (16)].
 
 ## 17.3 Additional Instructions
 
@@ -23,6 +23,6 @@ Breast changes including breast enlargement, tenderness and neoplasm have been r
 
 Physicians should instruct their patients to read the patient package insert before starting therapy with finasteride and to reread it each time the prescription is renewed so that they are aware of current information for patients regarding finasteride.
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
-10 0716 2 6021883 Issued January 2023
+10 0716 2 6021883 Issued March 2024

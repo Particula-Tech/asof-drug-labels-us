@@ -81,7 +81,7 @@ The PCPT trial was a 7-year randomized, double-blind, placebo-controlled trial t
 Men received either finasteride tablets 5 mg or placebo daily.
 Patients were evaluated annually with PSA and digital rectal exams.
 Biopsies were performed for elevated PSA, an abnormal digital rectal exam, or the end of study.
-The incidence of Gleason score 8 to 10 prostate cancer was higher in men treated with finasteride (1.8%) than in those treated with placebo (1.1%) [see Indications and Usage (1.3) and Warnings and Precautions (5.2)].
+The incidence of Gleason score 8 to 10 prostate cancer was higher in men treated with finasteride (1.8%) than in those treated with placebo (1.1%) [see Indications and Usage (1.3)and Warnings and Precautions (5.2)].
 In a 4-year placebo-controlled clinical trial with another 5α-reductase inhibitor (dutasteride, AVODART), similar results for Gleason score 8 to 10 prostate cancer were observed (1% dutasteride vs 0.5% placebo).
 
 No clinical benefit has been demonstrated in patients with prostate cancer treated with finasteride.

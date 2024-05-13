@@ -3,7 +3,7 @@
 Finasteride, a synthetic 4-azasteroid compound, is a specific inhibitor of steroid Type II 5α-reductase, an intracellular enzyme that converts the androgen testosterone into 5α-dihydrotestosterone (DHT).
 
 Finasteride is 4-azaandrost-1-ene-17-carboxamide, N-(1,1-dimethylethyl)-3-oxo-,(5α,17ß)-.
-The empirical formula of finasteride is C 23H 36N 2O 2 and its molecular weight is 372.55.
+The empirical formula of finasteride is C 23H 36N 2O 2and its molecular weight is 372.55.
 Its structural formula is:
 
 Finasteride is a white crystalline powder with a melting point near 250°C.

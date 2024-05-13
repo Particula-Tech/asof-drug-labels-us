@@ -82,13 +82,10 @@ You may report side effects to FDA at: 1-800-FDA-1088.
 
 What you need to know while taking finasteride tablets 5 mg
 
-- You should see your doctor regularly while taking finasteride tablets 5 mg.
-  Follow your doctor's advice about when to have these checkups.
-- Checking for prostate cancer.
-  Your doctor has prescribed finasteride tablets 5 mg for BPH and not for treatment of prostate cancer — but a man can have BPH and prostate cancer at the same time.
+- You should see your doctor regularly while taking finasteride tablets 5 mg.Follow your doctor's advice about when to have these checkups.
+- Checking for prostate cancer.Your doctor has prescribed finasteride tablets 5 mg for BPH and not for treatment of prostate cancer — but a man can have BPH and prostate cancer at the same time.
   Your doctor may continue checking for prostate cancer while you take finasteride tablets 5 mg.
-- About Prostate-Specific Antigen (PSA).
-  Your doctor may have done a blood test called PSA for the screening of prostate cancer.
+- About Prostate-Specific Antigen (PSA).Your doctor may have done a blood test called PSA for the screening of prostate cancer.
   Because finasteride tablets 5 mg decreases PSA levels, you should tell your doctor(s) that you are taking finasteride tablets 5 mg.
   Changes in PSA levels will need to be evaluated by your doctor(s).
   Any increase in follow-up PSA levels from their lowest point may signal the presence of prostate cancer and should be evaluated, even if the test results are still within the normal range.
@@ -111,9 +108,9 @@ For more information about finasteride tablets 5 mg, call Accord Healthcare Inc.
 
 What are the ingredients in finasteride tablets 5 mg?
 
-Active ingredients: finasteride
+Active ingredients:finasteride
 
-Inactive ingredients: lactose monohydrate, microcrystalline cellulose, pregelatinized starch (maize), sodium starch glycolate, hypromellose, titanium dioxide, magnesium stearate, lauryl macrogolglycerides, FD & C Blue # 2 aluminum lake and polyethylene glycol.
+Inactive ingredients:lactose monohydrate, microcrystalline cellulose, pregelatinized starch (maize), sodium starch glycolate, hypromellose, titanium dioxide, magnesium stearate, lauryl macrogolglycerides, FD & C Blue # 2 aluminum lake and polyethylene glycol.
 
 What is BPH?
 BPH is an enlargement of the prostate gland.
@@ -141,7 +138,7 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets 5 mg for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets 5 mg may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
-10 0716 2 6021883 Issued January 2023
+10 0716 2 6021883 Issued March 2024
