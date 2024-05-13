@@ -52,4 +52,4 @@ Renal and Urinary Disorders: Tubulointerstitial nephritis
 
 Respiratory, Thoracic and Mediastinal Disorders: Dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, and urticaria (see CONTRAINDICATIONS and WARNINGS sections).
+Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, StevensJohnson syndrome, angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, urticaria (see CONTRAINDICATIONS and WARNINGS sections), and linear IgA bullous dermatosis.

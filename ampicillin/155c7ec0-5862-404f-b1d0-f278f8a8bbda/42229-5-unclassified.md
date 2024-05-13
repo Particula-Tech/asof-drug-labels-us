@@ -76,3 +76,5 @@ TABLE 6
 While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin/sulbactam therapy in man.
 
 ADD-Vantage® is a registered trademark of Hospira Inc., a Pfizer company.
+
+For medical information about UNASYN, please visit www.pfizermedinfo.com or call 1-800‑438-1985.
