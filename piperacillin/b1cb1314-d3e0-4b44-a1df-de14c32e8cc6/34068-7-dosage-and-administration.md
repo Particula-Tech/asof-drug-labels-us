@@ -16,7 +16,7 @@ Treatment with the aminoglycoside should be continued in patients from whom P. a
 In adult patients with renal impairment (creatinine clearance ≤ 40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced based on the degree of renal impairment.
 The recommended daily dosage of piperacillin and tazobactam for injection for patients with renal impairment administered by intravenous infusion over 30 minutes is described in Table 1.
 
-Table 1: Recommended Dosage of Piperacillin and Tazobactam for Injection in Patients with Normal Renal Function and Renal Impairment (As total grams piperacillin/tazobactam)*
+Table 1: Recommended Dosage of Piperacillin and Tazobactam for Injection in Patients with Normal Renal Function and Renal Impairment (As total grams piperacillin and tazobactam)*
 
 | Creatinine Clearance, mL/min | All Indications (except nosocomial pneumonia) | Nosocomial Pneumonia |
 | --- | --- | --- |
@@ -30,10 +30,10 @@ Table 1: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pati
 
 † Creatinine clearance for patients not receiving hemodialysis
 
-‡ 0.75 g (0.67 g piperacillin/0.08 g tazobactam) should be administered following each hemodialysis session on hemodialysis days
+‡ 0.75 g (0.67 g piperacillin and 0.08 g tazobactam) should be administered following each hemodialysis session on hemodialysis days
 
 For patients on hemodialysis, the maximum dose is 2.25 g every twelve hours for all indications other than nosocomial pneumonia and 2.25 g every eight hours for nosocomial pneumonia.
-Since hemodialysis removes 30% to 40% of the administered dose, an additional dose of 0.75 g piperacillin and tazobactam for injection (0.67 g piperacillin/0.08 g tazobactam) should be administered following each dialysis period on hemodialysis days.
+Since hemodialysis removes 30% to 40% of the administered dose, an additional dose of 0.75 g piperacillin and tazobactam for injection (0.67 g piperacillin and 0.08 g tazobactam) should be administered following each dialysis period on hemodialysis days.
 No additional dosage of piperacillin and tazobactam for injection is necessary for CAPD patients.
 
 ## 2.4 Dosage in Pediatric Patients with Appendicitis/Peritonitis or Nosocomial Pneumonia
