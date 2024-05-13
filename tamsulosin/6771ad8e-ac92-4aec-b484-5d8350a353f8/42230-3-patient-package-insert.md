@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Flomax ® (Flō-max) (tamsulosin hydrochloride, USP) Capsules, 0.4 mg
+Flomax® (Flō-max) (tamsulosin hydrochloride, USP) Capsules, 0.4 mg
 
 Read the Patient Information that comes with FLOMAX capsules before you start taking it and each time you refill your prescription.
 The information may have changed.
@@ -56,8 +56,7 @@ What are the possible side effects of FLOMAX capsules?
 Possible side effects of FLOMAX may include:
 
 - Decreased blood pressure when changing positions.
-  FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
-  Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to FLOMAX capsules.
+  FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to FLOMAX capsules.
   If you begin to feel dizzy, sit or lie down until you feel better.
   If the symptoms are severe or do not improve, call your doctor.
   - Symptoms may include:
@@ -82,6 +81,8 @@ Possible side effects of FLOMAX may include:
 - Eye problems during cataract or glaucoma surgery.
   During cataract or glaucoma surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken FLOMAX capsules.
   If you need to have cataract or glaucoma surgery, be sure to tell your surgeon if you take or have taken FLOMAX capsules.
+- Altered liver function tests: FLOMAX capsules may cause altered liver function tests.
+  If you experience any symptoms of liver injury such as fatigue, abdominal pain, jaundice, dark urine, or itching, be sure to inform your doctor.
 
 Common side effects of FLOMAX capsules may include:
 
@@ -99,7 +100,7 @@ What should I avoid while taking FLOMAX capsules?
 
 Avoid driving, operating machinery, or other dangerous activities, until you know how FLOMAX affects you.
 FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
-See " What are the possible side effects of FLOMAX capsules?"
+See "What are the possible side effects of FLOMAX capsules?"
 
 How do I store FLOMAX capsules?
 
@@ -136,9 +137,9 @@ Distributed by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 Flomax is a registered trademark of and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-© 2019.
+© 2023.
 All rights reserved.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: January 2019
+Revised: November 2023

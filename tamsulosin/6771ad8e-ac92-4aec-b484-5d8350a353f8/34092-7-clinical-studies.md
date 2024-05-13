@@ -12,13 +12,13 @@ The changes from baseline to Week 13 in peak urine flow rate were also significa
 Overall there were no significant differences in improvement observed in total AUA Symptom Scores or peak urine flow rates between the 0.4 mg and the 0.8 mg dose groups with the exception that the 0.8 mg dose in Study 1 had a significantly greater improvement in total AUA Symptom Score compared to the 0.4 mg dose.
 
 Table 3: Mean (±S.D.)
-Changes from Baseline to Week 13 in Total AUA Symptom Score Total AUA Symptom Scores ranged from 0 to 35. and Peak Urine Flow Rate (mL/sec)
+Changes from Baseline to Week 13 in Total AUA Symptom ScoreTotal AUA Symptom Scores ranged from 0 to 35. and Peak Urine Flow Rate (mL/sec)
 
 |  | Mean Baseline Value | Mean Change | Mean Baseline Value | Mean Change |
 | --- | --- | --- | --- | --- |
 |  | Total AUA Symptom Score |  | Peak Urine Flow Rate |  |
-| Study 1 Peak urine flow rate measured 4 to 8 hours post dose at Week 13. |  |  |  |  |
-| FLOMAX capsules 0.8 mg once daily | 19.9 ± 4.9 n=247 | -9.6 Statistically significant difference from placebo (p-value ≤0.050; Bonferroni-Holm multiple test procedure). ± 6.7 n=237 | 9.57 ± 2.51 n=247 | 1.78 ± 3.35 n=247 |
+| Study 1Peak urine flow rate measured 4 to 8 hours post dose at Week 13. |  |  |  |  |
+| FLOMAX capsules 0.8 mg once daily | 19.9 ± 4.9 n=247 | -9.6Statistically significant difference from placebo (p-value ≤0.050; Bonferroni-Holm multiple test procedure). ± 6.7 n=237 | 9.57 ± 2.51 n=247 | 1.78 ± 3.35 n=247 |
 | FLOMAX capsules 0.4 mg once daily | 19.8 ± 5.0 n=254 | -8.3 ± 6.5 n=246 | 9.46 ± 2.49 n=254 | 1.75 ± 3.57 n=254 |
 | Placebo | 19.6 ± 4.9 n=254 | -5.5 ± 6.6 n=246 | 9.75 ± 2.54 n=254 | 0.52 ± 3.39 n=253 |
 | Study 2 Peak urine flow rate measured 24 to 27 hours post dose at Week 13. |  |  |  |  |

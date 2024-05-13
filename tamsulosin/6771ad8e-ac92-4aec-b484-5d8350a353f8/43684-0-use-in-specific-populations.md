@@ -43,8 +43,8 @@ Female fertility in rats was significantly reduced, considered to be due to impa
 
 FLOMAX capsules are not indicated for use in pediatric populations.
 
-Efficacy and positive benefit/risk of tamsulosin hydrochloride was not demonstrated in two studies conducted in patients 2 years to 16 years of age with elevated detrusor leak point pressure (>40 cm H 2O) associated with known neurological disorder (e.g., spina bifida).
-Patients in both studies were treated on a weight-based mg/kg schema (0.025 mg, 0.05 mg, 0.1 mg, 0.2 mg, or 0.4 mg tamsulosin hydrochloride) for the reduction in detrusor leak point pressure below 40 cm H 2O.
+Efficacy and positive benefit/risk of tamsulosin hydrochloride was not demonstrated in two studies conducted in patients 2 years to 16 years of age with elevated detrusor leak point pressure (>40 cm H2O) associated with known neurological disorder (e.g., spina bifida).
+Patients in both studies were treated on a weight-based mg/kg schema (0.025 mg, 0.05 mg, 0.1 mg, 0.2 mg, or 0.4 mg tamsulosin hydrochloride) for the reduction in detrusor leak point pressure below 40 cm H2O.
 In a randomized, double-blind, placebo-controlled, 14-week, pharmacokinetic, safety and efficacy study in 161 patients, no statistically significant difference in the proportion of responders was observed between groups receiving tamsulosin hydrochloride and placebo.
 In an open-label, 12-month safety study, 87 patients were treated with tamsulosin hydrochloride.
 The most frequently reported adverse events (≥5%) from the pooled data of both studies were urinary tract infection, vomiting, pyrexia, headache, nasopharyngitis, cough, pharyngitis, influenza, diarrhea, abdominal pain, and constipation.
@@ -57,7 +57,7 @@ No overall differences in safety or effectiveness were observed between these su
 ## 8.6 Renal Impairment
 
 Patients with renal impairment do not require an adjustment in FLOMAX capsules dosing.
-However, patients with end-stage renal disease (CL cr <10 mL/min/1.73 m 2) have not been studied [see Clinical Pharmacology (12.3)].
+However, patients with end-stage renal disease (CLcr <10 mL/min/1.73 m2) have not been studied [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

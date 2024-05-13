@@ -24,7 +24,7 @@ Caution should be exercised with concomitant administration of warfarin and FLOM
 
 ## 5.3 Priapism
 
-Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha 1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
+Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
 Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition.
 
 ## 5.4 Screening for Prostate Cancer
@@ -33,15 +33,15 @@ Prostate cancer and BPH frequently coexist; therefore, patients should be screen
 
 ## 5.5 Intraoperative Floppy Iris Syndrome
 
-Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract and glaucoma surgery in some patients on or previously treated with alpha 1 blockers, including FLOMAX capsules [see Adverse Reactions (6.2)].
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract and glaucoma surgery in some patients on or previously treated with alpha1 blockers, including FLOMAX capsules [see Adverse Reactions (6.2)].
 
-Most reports were in patients taking the alpha 1 blocker when IFIS occurred, but in some cases, the alpha 1 blocker had been stopped prior to surgery.
-In most of these cases, the alpha 1 blocker had been stopped recently prior to surgery (2 to 14 days), but in a few cases, IFIS was reported after the patient had been off the alpha 1 blocker for a longer period (5 weeks to 9 months).
+Most reports were in patients taking the alpha1 blocker when IFIS occurred, but in some cases, the alpha1 blocker had been stopped prior to surgery.
+In most of these cases, the alpha1 blocker had been stopped recently prior to surgery (2 to 14 days), but in a few cases, IFIS was reported after the patient had been off the alpha1 blocker for a longer period (5 weeks to 9 months).
 IFIS is a variant of small pupil syndrome and is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs and potential prolapse of the iris toward the phacoemulsification incisions.
 The patient's ophthalmologist should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
 
 IFIS may increase the risk of eye complications during and after the operation.
-The benefit of stopping alpha 1 blocker therapy prior to cataract or glaucoma surgery has not been established.
+The benefit of stopping alpha1 blocker therapy prior to cataract or glaucoma surgery has not been established.
 The initiation of therapy with tamsulosin in patients for whom cataract or glaucoma surgery is scheduled is not recommended.
 
 ## 5.6 Sulfa Allergy

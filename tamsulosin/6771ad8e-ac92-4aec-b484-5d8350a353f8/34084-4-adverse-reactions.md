@@ -8,7 +8,7 @@ The incidence of treatment-emergent adverse events has been ascertained from six
 These studies evaluated safety in 1783 patients treated with FLOMAX capsules and 798 patients administered placebo.
 Table 1 summarizes the treatment-emergent adverse events that occurred in ≥2% of patients receiving either FLOMAX capsules 0.4 mg or 0.8 mg and at an incidence numerically higher than that in the placebo group during two 13-week U.S. trials (US92-03A and US93-01) conducted in 1487 men.
 
-Table 1: Treatment-Emergent A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication;The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment.
+Table 1: Treatment-EmergentA treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication;The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment.
 Adverse Events Occurring in ≥2% of FLOMAX Capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
 
 |  | 0.4 mg n=502 | 0.8 mg n=492 | n=493 |
@@ -16,7 +16,7 @@ Adverse Events Occurring in ≥2% of FLOMAX Capsules or Placebo Patients in Two 
 | BODY SYSTEM/ ADVERSE EVENT | FLOMAX CAPSULES GROUPS |  | PLACEBO |
 | BODY AS WHOLE |  |  |  |
 | Headache | 97 (19.3%) | 104 (21.1%) | 99 (20.1%) |
-| Infection Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. | 45 (9.0%) | 53 (10.8%) | 37 (7.5%) |
+| InfectionCoding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. | 45 (9.0%) | 53 (10.8%) | 37 (7.5%) |
 | Asthenia | 39 (7.8%) | 42 (8.5%) | 27 (5.5%) |
 | Back pain | 35 (7.0%) | 41 (8.3%) | 27 (5.5%) |
 | Chest pain | 20 (4.0%) | 20 (4.1%) | 18 (3.7%) |
@@ -26,7 +26,7 @@ Adverse Events Occurring in ≥2% of FLOMAX Capsules or Placebo Patients in Two 
 | Insomnia | 12 (2.4%) | 7 (1.4%) | 3 (0.6%) |
 | Libido decreased | 5 (1.0%) | 10 (2.0%) | 6 (1.2%) |
 | RESPIRATORY SYSTEM |  |  |  |
-| Rhinitis Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. | 66 (13.1%) | 88 (17.9%) | 41 (8.3%) |
+| RhinitisCoding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. | 66 (13.1%) | 88 (17.9%) | 41 (8.3%) |
 | Pharyngitis | 29 (5.8%) | 25 (5.1%) | 23 (4.7%) |
 | Cough increased | 17 (3.4%) | 22 (4.5%) | 12 (2.4%) |
 | Sinusitis | 11 (2.2%) | 18 (3.7%) | 8 (1.6%) |
@@ -75,6 +75,6 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema, and respiratory symptoms have been reported with positive rechallenge in some cases.
 Priapism has been reported rarely.
-Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, erythema multiforme, dermatitis exfoliative, constipation, vomiting, dry mouth, visual impairment, and epistaxis have been received during the postmarketing period.
+Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, erythema multiforme, dermatitis exfoliative, liver injury, abnormal liver function tests, constipation, vomiting, dry mouth, visual impairment, and epistaxis have been received during the postmarketing period.
 
-During cataract and glaucoma surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha 1 blocker therapy [see Warnings and Precautions (5.5)].
+During cataract and glaucoma surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions (5.5)].

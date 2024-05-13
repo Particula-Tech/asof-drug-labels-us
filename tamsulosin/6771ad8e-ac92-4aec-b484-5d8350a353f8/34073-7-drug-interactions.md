@@ -6,10 +6,10 @@ Strong and Moderate Inhibitors of CYP3A4 or CYP2D6
 
 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6.
 
-Concomitant treatment with ketoconazole (a strong inhibitor of CYP3A4) resulted in an increase in the C max and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Concomitant treatment with ketoconazole (a strong inhibitor of CYP3A4) resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of FLOMAX have not been evaluated [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
-Concomitant treatment with paroxetine (a strong inhibitor of CYP2D6) resulted in an increase in the C max and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Concomitant treatment with paroxetine (a strong inhibitor of CYP2D6) resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
 Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when FLOMAX 0.4 mg is coadministered with strong CYP3A4 inhibitors in CYP2D6 PMs, FLOMAX capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
@@ -49,4 +49,4 @@ Dosage adjustments are not necessary when a FLOMAX capsule is administered conco
 ## 7.7 Furosemide
 
 FLOMAX capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
-While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride C max and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the FLOMAX capsules dosage [see Clinical Pharmacology (12.3)].
+While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the FLOMAX capsules dosage [see Clinical Pharmacology (12.3)].
