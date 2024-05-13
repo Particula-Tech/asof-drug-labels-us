@@ -24,7 +24,6 @@ Advise patients experiencing flushing that taking dimethyl fumarate delayed-rele
 Gastrointestinal (GI) Events Inform patients that GI events (abdominal pain, diarrhea, and nausea) are some of the most common adverse reactions, especially at the initiation of therapy, and may decrease over time.
 Some patients may experience more severe GI events.
 Advise patients to immediately contact their healthcare provider and discontinue dimethyl fumarate delayed-release capsules if they experience gastrointestinal bleeding (e.g., rectal bleeding, bloody diarrhea, hematemesis) or other serious gastrointestinal adverse events (e.g., severe abdominal pain, severe vomiting and/or diarrhea) [see Warnings and Precautions (5.7)].
-Pregnancy Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate delayed-release capsules they should inform their physician.
 
 Manufactured for:
 
@@ -32,6 +31,6 @@ Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
 By: HETERO TM HETERO LABS LIMITED 22-110, I.D.A., Jeedimetla,
 
-Hyderabad - 500055, India.
+Hyderabad-500055, India.
 
-Revised: 01/2024
+Revised: 04/2024

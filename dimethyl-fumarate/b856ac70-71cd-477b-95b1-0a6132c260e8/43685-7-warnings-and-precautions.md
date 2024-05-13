@@ -46,12 +46,12 @@ Six percent (6%) of dimethyl fumarate delayed-release capsules patients and <1% 
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with dimethyl fumarate delayed-release capsules or placebo, respectively.
 There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x10 9/L or <0.5x10 9/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x10 9/L for 3.5 years) [see Warnings and Precautions (5.2)].
 
-Incontrolledand uncontrolled clinical trials, 2% of patients experienced prolonged, severe lymphopenia, (defined as lymphocyte counts <0.5 x 10 9/L for at least six months); in this group of patients, themajorityof lymphocyte counts remained <0.5x10 9/L with continued therapy.
-In these patients with prolonged,severelymphopenia, the median time for lymphocyte counts to return to normal after discontinuing dimethyl fumarate delayed-releasecapsuleswas 96.0 weeks.
+In controlled and uncontrolled clinical trials, 2% of patients experienced prolonged, severe lymphopenia, (defined as lymphocyte counts <0.5 x 10 9/L for at least six months); in this group of patients, the majority of lymphocyte counts remained <0.5x10 9/L with continued therapy.
+In these patients with prolonged, severe lymphopenia, the median time for lymphocyte counts to return to normal after discontinuing dimethyl fumarate delayed-release capsules was 96.0 weeks.
 
-In thesecontrolledand uncontrolled clinical studies, among patients who did not experience prolonged, severe lymphopenia during treatment, the median times forlymphocytecounts to return to normal after discontinuing dimethyl fumarate delayed-release capsules were as follows:
+In these controlled and uncontrolled clinical studies, among patients who did not experience prolonged, severe lymphopenia during treatment, the median times for lymphocyte counts to return to normal after discontinuing dimethyl fumarate delayed-release capsules were as follows:
 
-• 4.3weeksin patients with mild lymphopenia (lymphocyte count ≥0.8x10 9/L) at discontinuation, • 10.0 weeks in patients with moderate lymphopenia (lymphocyte count 0.5 to <0.8x10 9/L) at discontinuation, and • 16.7weeksin patients with severe lymphopenia (lymphocyte count <0.5x10 9/L) at discontinuation.
+• 4.3 weeks in patients with mild lymphopenia (lymphocyte count ≥0.8x10 9/L) at discontinuation, • 10.0 weeks in patients with moderate lymphopenia (lymphocyte count 0.5 to <0.8x10 9/L) at discontinuation, and • 16.7 weeks in patients with severe lymphopenia (lymphocyte count <0.5x10 9/L) at discontinuation.
 
 Dimethyl fumarate delayed-release capsules have not been studied in patients with pre-existing low lymphocyte counts.
 Obtain a CBC, including lymphocyte count, before initiating treatment with dimethyl fumarate delayed-release capsules, 6 months after starting treatment, and then every 6 to 12 months thereafter, and as clinically indicated.

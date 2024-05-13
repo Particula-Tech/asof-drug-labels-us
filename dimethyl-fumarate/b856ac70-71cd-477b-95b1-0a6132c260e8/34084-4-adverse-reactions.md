@@ -39,7 +39,7 @@ There were no elevations in transaminases ≥ 3 times the ULN with concomitant e
 Discontinuations due to elevated hepatic transaminases were < 1% and were similar in patients treated with dimethyl fumarate delayed-release capsules or placebo.
 Eosinophilia A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of dimethyl fumarate delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
