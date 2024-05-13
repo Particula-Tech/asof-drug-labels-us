@@ -41,5 +41,3 @@ Discard any unused medicine.
 CLINITEST® is a registered trademark of Miles, Inc.
 
 Manufactured by Sandoz GmbH for Sandoz Inc., Princeton, NJ 08540
-
-46317715

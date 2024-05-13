@@ -42,7 +42,7 @@ Table 2: Dosing Regimens of Amoxicillin and Clavulanate Potassium in Neonates an
 Patients Aged 12 weeks (3 months) and Older and Weighing Less than 40 kg: See dosing regimens provided in Table 3 below.
 
 - •The every 12 hour regimen is recommended as it is associated with significantly less diarrhea [see Clinical Studies (14.2)].
-- •The amoxicillin and clavulanate potassium 200 mg/28.5 mg per 5 mL and amoxicillin and clavulanate potassium 400 mg/57 mg per 5 mL for oral suspension and amoxicillin and clavulanate potassium 200 mg/28.5 mg and amoxicillin and clavulanate potassium 400 mg/57 mg chewable tablets contain aspartame and should not be used by phenylketonurics [see Warnings and Precautions (5.7)].
+- •The amoxicillin and clavulanate potassium 200 mg/28.5 mg per 5 mL and amoxicillin and clavulanate potassium 400 mg/57 mg per 5 mL for oral suspension and amoxicillin and clavulanate potassium 200 mg/28.5 mg and amoxicillin and clavulanate potassium 400 mg/57 mg chewable tablets contain aspartame and should not be used by phenylketonurics [see Warnings and Precautions (5.8)].
 
 Table 3: Dosing in Patients Aged 12 Weeks (3 Months) and Older and Weighing Less than 40 kg
 

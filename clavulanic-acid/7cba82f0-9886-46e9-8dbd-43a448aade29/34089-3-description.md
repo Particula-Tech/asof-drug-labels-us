@@ -32,9 +32,9 @@ Inactive Ingredients
 - •Amoxicillin and Clavulanate Potassium Tablets – Colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, sodium starch glycolate, talc, titanium dioxide, triethyl citrate, ethylcellulose, cetyl alcohol and sodium lauryl sulfate.
   In addition, the 875 mg/125 mg tablet contains crospovidone.
   - ∘Each tablet of amoxicillin and clavulanate potassium contains 0.63 mEq potassium.
-- •Amoxicillin and Clavulanate Potassium for Oral Suspension – Aspartame, colloidal silicon dioxide, hydroxypropyl methylcellulose, mannitol, orange flavoring, precipitated silicon dioxide, succinic acid, xanthan gum, and golden syrup flavoring (caramel) [see Warnings and Precautions (5.7)].
+- •Amoxicillin and Clavulanate Potassium for Oral Suspension – Aspartame, colloidal silicon dioxide, hydroxypropyl methylcellulose, mannitol, orange flavoring, precipitated silicon dioxide, succinic acid, xanthan gum, and golden syrup flavoring (caramel) [see Warnings and Precautions (5.8)].
   - ∘Each 5 mL of reconstituted 200 mg/28.5 mg oral suspension of amoxicillin and clavulanate potassium contains 0.14 mEq potassium
   - ∘Each 5 mL of reconstituted 400 mg/57 mg oral suspension of amoxicillin and clavulanate potassium contains 0.29 mEq potassium
-- •Amoxicillin and Clavulanate Potassium Chewable Tablets – Aspartame, banana flavoring, cherry flavoring, colloidal silicon dioxide, FD&C Red No. 40, magnesium stearate, mannitol, and sodium starch glycolate [see Warnings and Precautions (5.7)].
+- •Amoxicillin and Clavulanate Potassium Chewable Tablets – Aspartame, banana flavoring, cherry flavoring, colloidal silicon dioxide, FD&C Red No. 40, magnesium stearate, mannitol, and sodium starch glycolate [see Warnings and Precautions (5.8)].
   - ∘Each 200 mg/28.5 mg chewable tablet of amoxicillin and clavulanate potassium contains 0.14 mEq potassium
   - ∘Each 400 mg/57 mg chewable tablet of amoxicillin and clavulanate potassium contains 0.29 mEq potassium
