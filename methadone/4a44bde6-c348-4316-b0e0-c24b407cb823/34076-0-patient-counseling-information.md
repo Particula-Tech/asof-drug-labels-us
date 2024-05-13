@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store methadone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see WARNINGS AND PRECAUTIONS (5.1, 5.3), DRUG ABUSE AND DEPENDENCE (9.2)].
-Inform patients that leaving methadone hydrochloride tablets unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store methadone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving methadone hydrochloride tablets unsecured can pose a deadly risk to others in the home [see WARNINGS AND PRECAUTIONS (5.1, 5.2), DRUG ABUSE AND DEPENDENCE (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused methadone hydrochloride tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -13,23 +13,35 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 
 Addiction, Abuse, and Misuse
 
-Inform patients that the use of methadone hydrochloride tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see WARNINGS AND PRECAUTIONS (5.1)].
+Inform patients that the use of methadone hydrochloride tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share methadone hydrochloride tablets with others and to take steps to protect methadone hydrochloride tablets from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting methadone hydrochloride tablets or when the dosage is increased, and that it can occur even at recommended dosages.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see WARNINGS AND PRECAUTIONS (5.3)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
+
+Accidental Ingestion
+
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see WARNINGS AND PRECAUTIONS (5.2)].
+
+Symptoms of Arrhythmia
+
+Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking methadone [see WARNINGS AND PRECAUTIONS (5.4)].
+
+Interactions with Benzodiazepines and Other CNS Depressants
+
+Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see WARNINGS AND PRECAUTIONS (5.3), DRUG INTERACTIONS (7)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.3)].
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.2)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
-Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see OVERDOSAGE (10)].
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
 
 If naloxone is prescribed, also advise patients and caregivers:
 
@@ -38,17 +50,10 @@ If naloxone is prescribed, also advise patients and caregivers:
 - To read the Patient Information (or other educational material) that will come with their naloxone.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
-Accidental Ingestion
+Hyperalgesia and Allodynia
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see WARNINGS AND PRECAUTIONS (5.3)].
-
-Symptoms of Arrhythmia
-
-Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such aspalpitations, near syncope, or syncope) when taking methadone [see WARNINGS AND PRECAUTIONS (5.4)].
-
-Interactions with Benzodiazepines and Other CNS Depressants
-
-Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see WARNINGS AND PRECAUTIONS (5.7), DRUG INTERACTIONS (7)].
+Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
+Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see WARNINGS AND PRECAUTIONS (5.8); ADVERSE REACTIONS (6)].
 
 Serotonin Syndrome
 
@@ -61,26 +66,35 @@ MAOI Interaction
 Inform patients to avoid taking methadone hydrochloride tablets while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking methadone hydrochloride tablets [see WARNINGS AND PRECAUTIONS (5.9), DRUG INTERACTIONS (7)].
 
-Adrenal Insufficiency
-
-Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
-Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see WARNINGS AND PRECAUTIONS (5.10)].
-
 Important Administration Instructions
 
 Instruct patients how to properly take methadone hydrochloride tablets, including the following:
 
-- Use methadone hydrochloride tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see DOSAGE AND ADMINISTRATION (2), WARNINGS AND PRECAUTIONS (5.3)].
+• Use methadone hydrochloride tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see DOSAGE AND ADMINISTRATION (2), WARNINGS AND PRECAUTIONS (5.2)].
 
 Important Discontinuation Instructions
 
 In order to avoid developing withdrawal symptoms, instruct patients not to discontinue methadone hydrochloride tablets without first discussing a tapering plan with the prescriber [see DOSAGE AND ADMINISTRATION (2.6)].
 
+Driving or Operating Heavy Machinery
+
+Inform patients that methadone hydrochloride tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see WARNINGS AND PRECAUTIONS (5.17)].
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see ADVERSE REACTIONS (6), CLINICAL PHARMACOLOGY (12.2).
+
+Adrenal Insufficiency
+
+Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see WARNINGS AND PRECAUTIONS (5.11)].
+
 Hypotension
 
 Inform patients that methadone hydrochloride tablets may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see WARNINGS AND PRECAUTIONS (5.11)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see WARNINGS AND PRECAUTIONS (5.12)].
 
 Anaphylaxis
 
@@ -89,34 +103,29 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome: Advise women that if they are pregnant while being treated with methadone hydrochloride tablets, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see WARNINGS AND PRECAUTIONS (5.5), SPECIFIC POPULATIONS (8.1)].
+Neonatal Opioid Withdrawal Syndrome: Inform female patients of reproductive potential that use of methadone hydrochloride tablets for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see WARNINGS AND PRECAUTIONS (5.5), SPECIFIC POPULATIONS (8.1)].
 
 Embryo-Fetal Toxicity: Inform female patients of reproductive potential that methadone hydrochloride tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see USE IN SPECIFIC POPULATIONS (8.1)].
 
 Lactation
 
-Advise women who are breastfeeding to monitor the infant for increased sleepiness (more than usual), difficulty breathing or limpness.
+Advise women who are breastfeeding to carefully observe the infant for increased sleepiness (more than usual), difficulty breathing or limpness.
 Instruct nursing mothers using methadone hydrochloride tablets to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
 Instruct nursing mothers to talk to the baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) [see USE IN SPECIFIC POPULATIONS (8.2)].
 
 Infertility
 
-Advise patients that chronic use of opioids, such as methadone hydrochloride tablets, may cause reduced fertility.
-It is not known whether these effects on fertility are reversible.
-[see USE IN SPECIFIC POPULATIONS (8.3)].
+Inform patients that use of opioids for an extended period of time, may cause reduced fertility.
+It is not known whether these effects on fertility are reversible [see USE IN SPECIFIC POPULATIONS (8.3)].
 
-Driving or Operating Heavy Machinery
+Hypoglycemia
 
-Inform patients that methadone hydrochloride tablets may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see WARNINGS AND PRECAUTIONS (5.16)].
-
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see ADVERSE REACTIONS (6), CLINICAL PHARMACOLOGY (12.2)].
+Inform patients that methadone may cause hypoglycemia.
+Instruct patients how to recognize the symptoms of low blood glucose and to contact their health care provider if these symptoms occur [see WARNINGS AND PRECAUTIONS (5.18)].
 
 Manufactured for:
 
-VistaPharm, Inc. Largo, FL 33771, USA
+VistaPharm, LLC Largo, FL 33771, USA
 
-VP2002R2 08/2021
+VP2002R3 09/2023

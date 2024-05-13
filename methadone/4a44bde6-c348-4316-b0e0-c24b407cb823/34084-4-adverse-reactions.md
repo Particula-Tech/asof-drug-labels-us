@@ -3,16 +3,17 @@
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see WARNINGS AND PRECAUTIONS (5.1)]
-- Life Threatening Respiratory Depression [see WARNINGS AND PRECAUTIONS (5.3)]
+- Life Threatening Respiratory Depression [see WARNINGS AND PRECAUTIONS (5.2)]
 - QT Prolongation [see WARNINGS AND PRECAUTIONS (5.4)]
 - Neonatal Opioid Withdrawal Syndrome [see WARNINGS AND PRECAUTIONS (5.5)]
-- Interactions with Benzodiazepines and other CNS Depressants [see WARNINGS AND PRECAUTIONS (5.7)]
+- Interactions with Benzodiazepines and other CNS Depressants [see WARNINGS AND PRECAUTIONS (5.3)]
+- Opioid-Induced Hyperalgesia and Allodynia [see WARNINGS AND PRECAUTIONS (5.8)]
 - Serotonin Syndrome [see WARNINGS AND PRECAUTIONS (5.9)]
-- Adrenal Insufficiency [see WARNINGS AND PRECAUTIONS (5.10)]
-- Severe Hypotension [see WARNINGS AND PRECAUTIONS (5.11)]
-- Gastrointestinal Adverse Reactions [see WARNINGS AND PRECAUTIONS (5.13)]
-- Seizures [see WARNINGS AND PRECAUTIONS (5.14)]
-- Withdrawal [see WARNINGS AND PRECAUTIONS (5.15)]
+- Adrenal Insufficiency [see WARNINGS AND PRECAUTIONS (5.11)]
+- Severe Hypotension [see WARNINGS AND PRECAUTIONS (5.12)]
+- Gastrointestinal Adverse Reactions [see WARNINGS AND PRECAUTIONS (5.14)]
+- Seizures [see WARNINGS AND PRECAUTIONS (5.15)]
+- Withdrawal [see WARNINGS AND PRECAUTIONS (5.16)]
 
 The following adverse reactions associated with the use of methadone were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -54,4 +55,8 @@ Serotonin Syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY) (12.2)].
+Androgen Deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see CLINICAL PHARMACOLOGY) (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see WARNINGS AND PRECAUTIONS (5.8)]
+
+Hypoglycemia:Cases of hypoglycemia have been reported in patients taking methadone [see WARNINGS AND PRECAUTIONS (5.18)].
