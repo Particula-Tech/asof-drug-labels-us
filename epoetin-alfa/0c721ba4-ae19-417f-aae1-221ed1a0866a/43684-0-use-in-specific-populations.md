@@ -88,9 +88,9 @@ PROCRIT is indicated in patients 5 to 18 years old for the treatment of anemia d
 Safety and effectiveness in pediatric patients less than 5 years of age have not been established [see Clinical Studies (14.3)].
 The safety data from these studies are similar to those obtained from the studies of PROCRIT in adult patients with cancer [see Warnings and Precautions (5.1, 5.2)and Adverse Reactions (6.1)].
 
-Pediatric Patients With HIV-infection Receiving Zidovudine
+Pediatric Patients with HIV Infection Receiving Zidovudine
 
-Published literature has reported the use of PROCRIT in 20 zidovudine-treated, anemic, pediatric patients with HIV-infection, ages 8 months to 17 years, treated with 50 to 400 Units/kg subcutaneously or intravenously 2 to 3 times per week.
+Published literature has reported the use of PROCRIT in 20 zidovudine-treated, anemic, pediatric patients with HIV Infection, ages 8 months to 17 years, treated with 50 to 400 Units/kg subcutaneously or intravenously 2 to 3 times per week.
 Increases in hemoglobin levels and in reticulocyte counts and decreases in or elimination of RBC transfusions were observed.
 
 Pharmacokinetics in Neonates
@@ -114,4 +114,4 @@ Of the 1085 patients who received PROCRIT, 582 (54%) were age 65 years and over,
 No overall differences in safety or effectiveness were observed between geriatric and younger patients.
 The dose requirements for PROCRIT in geriatric and younger patients within the 4 studies using the 3 times weekly schedule and 2 studies using the weekly schedule were similar.
 
-Insufficient numbers of patients age 65 years or older were enrolled in clinical studies of PROCRIT for the treatment of patients treated with zidovudine for HIV-infection to determine whether they respond differently from younger patients.
+Insufficient numbers of patients age 65 years or older were enrolled in clinical studies of PROCRIT for the treatment of patients treated with zidovudine for HIV Infection to determine whether they respond differently from younger patients.

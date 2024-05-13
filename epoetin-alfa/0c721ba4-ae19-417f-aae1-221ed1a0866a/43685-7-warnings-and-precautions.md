@@ -66,13 +66,13 @@ Deep venous thrombosis prophylaxis is strongly recommended when ESAs are used fo
 Increased mortality was observed in a randomized, placebo-controlled study of PROCRIT in adult patients who were undergoing CABG surgery (7 deaths in 126 patients randomized to PROCRIT versus no deaths among 56 patients receiving placebo).
 Four of these deaths occurred during the period of study drug administration and all 4 deaths were associated with thrombotic events.
 
-## 5.2 Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients With Cancer
+## 5.2 Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients with Cancer
 
 ESAs resulted in decreased locoregional control/progression-free survival (PFS) and/or overall survival (OS) (see Table 2).
 
 Adverse effects on PFS and/or OS were observed in studies of patients receiving chemotherapy for breast cancer (Studies 1, 2, and 4), lymphoid malignancy (Study 3), and cervical cancer (Study 5); in patients with advanced head and neck cancer receiving radiation therapy (Studies 6 and 7); and in patients with non-small cell lung cancer or various malignancies who were not receiving chemotherapy or radiotherapy (Studies 8 and 9).
 
-Table 2: Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregional Control
+Table 2: Randomized, Controlled Studies with Decreased Survival and/or Decreased Locoregional Control
 
 | Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3 Q1=25 th percentile, Q3=75 th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
 | --- | --- | --- | --- | --- |
@@ -185,7 +185,7 @@ PROCRIT from multiple-dose vials contains benzyl alcohol and is contraindicated 
 In addition, do not mix PROCRIT with bacteriostatic saline (which also contains benzyl alcohol) when administering PROCRIT to these patient populations [see Dosage and Administration (2)].
 
 Serious and fatal reactions including "gasping syndrome" can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including PROCRIT multiple-dose vials.
-The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+The "gasping syndrome" is characterized by central nervous system (CNS) depression, metabolic acidosis, and gasping respirations.
 There is a potential for similar risks to fetuses and infants exposed to benzyl alcohol in uteroor in breast-fed milk, respectively.
 PROCRIT multiple-dose vials contain 11 mg of benzyl alcohol per mL.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2, and 8.4)].

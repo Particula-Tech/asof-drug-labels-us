@@ -3,11 +3,11 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
-- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.2)]
+- Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients with Cancer [see Warnings and Precautions (5.2)]
 - Hypertension [see Warnings and Precautions (5.3)]
 - Seizures [see Warnings and Precautions (5.4)]
 - PRCA [see Warnings and Precautions (5.6)]
-- Serious allergic reactions [see Warnings and Precautions (5.7)]
+- Serious Allergic Reactions [see Warnings and Precautions (5.7)]
 - Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trial Experience
@@ -30,7 +30,7 @@ The racial distribution was as follows: 164 (78%) patients were white, 38 (18%) 
 
 The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
 
-Table 3: Adverse Reactions in Patients With CKD on Dialysis
+Table 3: Adverse Reactions in Patients with CKD on Dialysis
 
 | Adverse Reaction | PROCRIT-treated Patients (n=148) | Placebo-treated Patients (n=96) |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ An additional serious adverse reaction that occurred in less than 5% of epoetin 
 
 The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
 
-Table 4: Adverse Reactions in Patients With CKD Not on Dialysis
+Table 4: Adverse Reactions in Patients with CKD Not on Dialysis
 
 | Adverse Reactions | PROCRIT-treated Patients (n=131) | Placebo-treated Patients (n=79) |
 | --- | --- | --- |
@@ -60,18 +60,18 @@ Pediatric Patients
 
 In pediatric patients with CKD on dialysis, the pattern of adverse reactions was similar to that found in adults.
 
-Zidovudine-treated Patients with HIV-infection
+Zidovudine-treated Patients with HIV Infection
 
-A total of 297 zidovudine-treated patients with HIV-infection were studied in 4 placebo-controlled studies.
+A total of 297 zidovudine-treated patients with HIV Infection were studied in 4 placebo-controlled studies.
 A total of 144 (48%) patients were randomly assigned to receive PROCRIT and 153 (52%) patients were randomly assigned to receive placebo.
 PROCRIT was administered at doses between 100 and 200 Units/kg 3 times weekly subcutaneously for up to 12 weeks.
 
 For the combined PROCRIT treatment groups, a total of 141 (98%) men and 3 (2%) women between the ages of 24 and 64 years were enrolled.
 The racial distribution of the combined PROCRIT treatment groups was as follows: 129 (90%) white, 8 (6%) black, 1 (1%) Asian, and 6 (4%) other.
 
-In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated patients with HIV-infection, adverse reactions with an incidence of ≥ 1% in patients treated with PROCRIT were:
+In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated patients with HIV Infection, adverse reactions with an incidence of ≥ 1% in patients treated with PROCRIT were:
 
-Table 5: Adverse Reactions in Zidovudine-treated Patients with HIV-infection
+Table 5: Adverse Reactions in Zidovudine-treated Patients with HIV Infection
 
 | Adverse Reaction | PROCRIT (n=144) | Placebo (n=153) |
 | --- | --- | --- |
@@ -121,7 +121,7 @@ Four hundred sixty-one patients undergoing major orthopedic surgery were studied
 A total of 358 patients were randomly assigned to receive PROCRIT and 103 (22%) patients were randomly assigned to receive placebo.
 PROCRIT was administered daily at a dose of 100 to 300 IU/kg subcutaneously for 15 days or at 600 IU/kg once weekly for 4 weeks.
 
-For the combined PROCRIT treatment groups, a total of 90 (25%) and 268 (75%) women between the ages of 29 and 89 years were enrolled.
+For the combined PROCRIT treatment groups, a total of 90 (25%) men and 268 (75%) women between the ages of 29 and 89 years were enrolled.
 The racial distribution of the combined PROCRIT treatment groups was as follows: 288 (80%) white, 64 (18%) black, 1 (< 1%) Asian, and 5 (1%) other.
 
 The adverse reactions with a reported incidence of ≥ 1% in PROCRIT-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
@@ -152,8 +152,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Seizures [see Warnings and Precautions (5.4)]
 - PRCA [see Warnings and Precautions (5.6)]
-- Serious allergic reactions [see Warnings and Precautions (5.7)]
-- Injection site reactions, including irritation and pain
+- Serious Allergic Reactions [see Warnings and Precautions (5.7)]
+- Injection Site Reactions, including irritation and pain
 - Porphyria
 - Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 

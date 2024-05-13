@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Patients With Chronic Kidney Disease
+## 14.1 Patients with Chronic Kidney Disease
 
 Adult Patients on Dialysis
 
@@ -47,7 +47,7 @@ The proportion of pediatric patients achieving a hemoglobin of 10 g/dL, or an in
 Within 12 weeks of initiating PROCRIT therapy, 92.3% of the pediatric patients were RBC transfusion independent as compared to 65.4% who received placebo.
 Among patients who received 36 weeks of PROCRIT, hemodialysis patients received a higher median maintenance dose [167 Units/kg/week (n=28) vs. 76 Units/kg/week (n=36)] and took longer to achieve a hemoglobin of 10 to 12 g/dL (median time to response 69 days vs. 32 days) than patients undergoing peritoneal dialysis.
 
-Adult Patients With CKD Not Requiring Dialysis
+Adult Patients with CKD Not Requiring Dialysis
 
 Four clinical studies were conducted in patients with CKD not on dialysis involving 181 patients treated with PROCRIT.
 These patients responded to PROCRIT therapy in a manner similar to that observed in patients on dialysis.
@@ -60,15 +60,15 @@ In CHOIR, a randomized open-label study of 1432 patients with CKD not on dialysi
 In each trial, no benefits occurred for the cardiovascular or end-stage renal disease outcomes.
 In each trial, the potential benefit of ESA therapy was offset by worse cardiovascular safety outcomes resulting in an unfavorable benefit-risk profile [see Warnings and Precautions (5.1)].
 
-ESA Effects on rates of death and other serious cardiac adverse reactions
+ESA Effects on Rates of Death and Other Serious Cardiac Adverse Reactions
 
 Three randomized outcome trials (Normal Hematocrit Study [NHS], Correction of Anemia with Epoetin Alfa in Chronic Kidney Disease [CHOIR], and Trial of Darbepoetin Alfa in Type 2 Diabetes and CKD [TREAT]) have been conducted in patients with CKD using Epogen/PROCRIT/Aranesp to target higher vs. lower hemoglobin levels.
 Though these trials were designed to establish a cardiovascular or renal benefit of targeting higher hemoglobin levels, in all 3 studies, patients randomized to the higher hemoglobin target experienced worse cardiovascular outcomes and showed no reduction in progression to ESRD.
 In each trial, the potential benefit of ESA therapy was offset by worse cardiovascular safety outcomes resulting in an unfavorable benefit-risk profile [see Warnings and Precautions (5.1)].
 
-## 14.2 Zidovudine-treated Patients With HIV-infection
+## 14.2 Zidovudine-treated Patients with HIV Infection
 
-The safety and efficacy of PROCRIT were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV-infection receiving concomitant therapy with zidovudine.
+The safety and efficacy of PROCRIT were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV Infection receiving concomitant therapy with zidovudine.
 In the subgroup of patients (89/125 PROCRIT and 88/130 placebo) with pre-study endogenous serum erythropoietin levels ≤ 500 mUnits/mL, PROCRIT reduced the mean cumulative number of units of blood transfused per patient by approximately 40% as compared to the placebo group.
 Among those patients who required RBC transfusions at baseline, 43% of patients treated with PROCRIT versus 18% of placebo-treated patients were RBC transfusion-independent during the second and third months of therapy.
 PROCRIT therapy also resulted in significant increases in hemoglobin in comparison to placebo.

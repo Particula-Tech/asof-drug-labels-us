@@ -19,7 +19,7 @@ In pregnant women, lactating women, neonates, and infants use only single-dose v
 
 ## 2.2 Patients with Chronic Kidney Disease
 
-In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target a hemoglobin level of greater than 11 g/dL.
+In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered ESAs to target a hemoglobin level of greater than 11 g/dL.
 No trial has identified a hemoglobin target level, ESA dose, or dosing strategy that does not increase these risks.
 Individualize dosing and use the lowest dose of PROCRIT sufficient to reduce the need for RBC transfusions [see Warnings and Precautions (5.1)].
 Physicians and patients should weigh the possible benefits of decreasing transfusions against the increased risks of death and other serious cardiovascular adverse reactions [see Boxed Warningand Clinical Studies (14)].
@@ -63,7 +63,7 @@ For pediatric patients with CKD:
 
 When treating patients who have chronic kidney disease and cancer, physicians should refer to Warnings and Precautions (5.1 and 5.2).
 
-## 2.3 Zidovudine-treated Patients with HIV-infection
+## 2.3 Zidovudine-treated Patients with HIV Infection
 
 Starting Dose
 

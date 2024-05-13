@@ -4,11 +4,11 @@
 
 PROCRIT is indicated for the treatment of anemia due to chronic kidney disease (CKD), including patients on dialysis and not on dialysis to decrease the need for red blood cell (RBC) transfusion.
 
-## 1.2 Anemia Due to Zidovudine in Patients with HIV-infection
+## 1.2 Anemia Due to Zidovudine in Patients with HIV Infection
 
-PROCRIT is indicated for the treatment of anemia due to zidovudine administered at ≤ 4200 mg/week in patients with HIV-infection with endogenous serum erythropoietin levels of ≤ 500 mUnits/mL.
+PROCRIT is indicated for the treatment of anemia due to zidovudine administered at ≤ 4200 mg/week in patients with HIV Infection with endogenous serum erythropoietin levels of ≤ 500 mUnits/mL.
 
-## 1.3 Anemia Due to Chemotherapy in Patients With Cancer
+## 1.3 Anemia Due to Chemotherapy in Patients with Cancer
 
 PROCRIT is indicated for the treatment of anemia in patients with non-myeloid malignancies where anemia is due to the effect of concomitant myelosuppressive chemotherapy, and upon initiation, there is a minimum of two additional months of planned chemotherapy.
 

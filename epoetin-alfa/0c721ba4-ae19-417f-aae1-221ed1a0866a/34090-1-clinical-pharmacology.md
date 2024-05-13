@@ -26,4 +26,4 @@ Differences were observed after the 40,000 Units weekly dosing with longer T max
 
 The pharmacokinetic profile of PROCRIT in pediatric patients appeared similar to that of adults.
 
-The pharmacokinetics of PROCRIT has not been studied in patients with HIV-infection.
+The pharmacokinetics of PROCRIT has not been studied in patients with HIV Infection.
