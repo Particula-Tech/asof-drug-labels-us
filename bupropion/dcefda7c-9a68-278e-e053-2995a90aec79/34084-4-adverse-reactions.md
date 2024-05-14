@@ -71,7 +71,7 @@ Bupropion
 Body (General): Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness.
 
-Cardiovascular: Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, and pulmonary embolism.
+Cardiovascular: Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, pulmonary embolism, and Brugada pattern/syndrome.
 
 Digestive: Colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, pancreatitis, and stomach ulcer.
 
@@ -88,7 +88,7 @@ Nervous System: Abnormal electroencephalogram (EEG), aggression, agitation, akin
 
 Respiratory: Pneumonia.
 
-Skin: Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
+Skin and subcutaneous tissue disorders: Alopecia, angioedema, exfoliative dermatitis, hirsutism, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Special Senses: Deafness, increased intraocular pressure, and mydriasis.
 

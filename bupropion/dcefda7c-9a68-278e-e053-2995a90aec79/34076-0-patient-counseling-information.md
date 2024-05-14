@@ -85,6 +85,6 @@ AXSOME THERAPEUTICS and AUVELITY are trademarks or registered trademarks of Axso
 
 For patent information: www.axsome.com/IP
 
-©2022 Axsome Therapeutics, Inc. All rights reserved.
+©2024 Axsome Therapeutics, Inc. All rights reserved.
 
-AUV-USPI-001.003-20221219
+AUV-USPI-002.000-20240513
