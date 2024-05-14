@@ -23,6 +23,4 @@ Manufactured by Sandoz GmbH for
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-March 2020
-
-46266850
+January 2024
