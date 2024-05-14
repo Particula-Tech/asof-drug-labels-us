@@ -32,8 +32,8 @@ Deerfield, IL 60015 USA
 
 Made in USA
 
-Baxter, Galaxy and Zosyn are registered trademarks of Baxter International Inc.
+Baxter, Galaxy and Zosyn are trademarks of Baxter International Inc. or its subsidiaries.
 
 Clinitest is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-04-795
+07-19-07-565
