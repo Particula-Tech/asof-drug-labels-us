@@ -1,4 +1,4 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism
 
@@ -13,7 +13,7 @@
 
 The design and overall results of the 3 large trials comparing higher and lower hemoglobin targets are shown in Table 1.
 
-| Table 1: Randomized Controlled Trials Showing Adverse Cardiovascular Outcomes in Patients With CKD |  |  |  |
+| Table 1. Randomized Controlled Trials Showing Adverse Cardiovascular Outcomes in Patients with CKD |  |  |  |
 | --- | --- | --- | --- |
 |  | Normal Hematocrit Study (NHS) (N = 1265) | CHOIR (N = 1432) | TREAT (N = 4038) |
 | Time Period of Trial | 1993 to 1996 | 2003 to 2006 | 2004 to 2009 |
@@ -65,19 +65,19 @@ Deep venous thrombosis prophylaxis is strongly recommended when ESAs are used fo
 Increased mortality was observed in a randomized, placebo-controlled study of Epogen in adult patients who were undergoing CABG surgery (7 deaths in 126 patients randomized to Epogen versus no deaths among 56 patients receiving placebo).
 Four of these deaths occurred during the period of study drug administration and all 4 deaths were associated with thrombotic events.
 
-## 5.2 Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients With Cancer
+## 5.2 Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients with Cancer
 
 ESAs resulted in decreased locoregional control/progression-free survival (PFS) and/or overall survival (OS) (see Table 2).
 
 Adverse effects on PFS and/or OS were observed in studies of patients receiving chemotherapy for breast cancer (Studies 1, 2, and 4), lymphoid malignancy (Study 3), and cervical cancer (Study 5); in patients with advanced head and neck cancer receiving radiation therapy (Studies 6 and 7); and in patients with non-small cell lung cancer or various malignancies who were not receiving chemotherapy or radiotherapy (Studies 8 and 9).
 
 Table 2.
-Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregional Control
+Randomized, Controlled Studies with Decreased Survival and/or Decreased Locoregional Control
 
 | Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3*) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
-| Study 1 Metastatic breast cancer (n = 2098) | ≤12 g/dL† | 11.6 g/dL; 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
+| Study 1 Metastatic breast cancer (n = 2098) | ≤ 12 g/dL† | 11.6 g/dL; 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
 | Study 2 Metastatic breast cancer (n = 939) | 12-14 g/dL | 12.9 g/dL; 12.2, 13.3 g/dL | 12-month overall survival | Decreased 12- month survival |
 | Study 3 Lymphoid malignancy (n = 344) | 13-15 g/dL (M) 13-14 g/dL (F) | 11 g/dL; 9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
 | Study 4 Early breast cancer (n = 733) | 12.5-13 g/dL | 13.1 g/dL; 12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
@@ -186,7 +186,7 @@ Epogen from multiple-dose vials contains benzyl alcohol and is contraindicated f
 In addition, do not mix Epogen with bacteriostatic saline (which also contains benzyl alcohol) when administering Epogen to these patient populations [see Dosage and Administration (2)].
 
 Serious and fatal reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including Epogen multiple-dose vials.
-The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+The “gasping syndrome” is characterized by central nervous system (CNS) depression, metabolic acidosis, and gasping respirations.
 There is a potential for similar risks to fetuses and infants exposed to benzyl alcohol in utero or in breast-fed milk, respectively.
 Epogen multiple-dose vials contain 11 mg of benzyl alcohol per mL.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2, and 8.4)].

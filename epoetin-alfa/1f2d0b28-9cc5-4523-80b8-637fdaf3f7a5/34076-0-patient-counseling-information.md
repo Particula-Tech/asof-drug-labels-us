@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
@@ -20,6 +20,6 @@ Epogen® (epoetin alfa)
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A. U.S. License Number 1080
 
-©1989-2018 Amgen Inc. All rights reserved.
+©1989-2018, 2024 Amgen Inc. All rights reserved.
 
-1xxxxxx- v33
+1xxxxxx- v34

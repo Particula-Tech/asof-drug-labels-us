@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 Epoetin alfa is a 165-amino acid erythropoiesis-stimulating glycoprotein manufactured by recombinant DNA technology.
 It has a molecular weight of approximately 30,400 daltons and is produced by mammalian cells into which the human erythropoietin gene has been introduced.

@@ -1,4 +1,4 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Epogen (epoetin alfa) injection is a sterile, clear, and colorless solution available as:
 

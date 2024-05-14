@@ -1,13 +1,13 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
-- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.2)]
+- Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients with Cancer [see Warnings and Precautions (5.2)]
 - Hypertension [see Warnings and Precautions (5.3)]
 - Seizures [see Warnings and Precautions (5.4)]
 - PRCA [see Warnings and Precautions (5.6)]
-- Serious allergic reactions [see Warnings and Precautions (5.7)]
+- Serious Allergic Reactions [see Warnings and Precautions (5.7)]
 - Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trial Experience
@@ -51,7 +51,7 @@ The adverse reactions with a reported incidence of ≥ 5% in Epogen-treated pati
 Table 4.
 Adverse Reactions in Patients With CKD Not on Dialysis
 
-| Adverse Reactions | Epogen-treated Patients (n = 131) | Placebo-treated Patients (n = 79) |
+| Adverse Reaction | Epogen-treated Patients (n = 131) | Placebo-treated Patients (n = 79) |
 | --- | --- | --- |
 | Hypertension | 13.7% | 10.1% |
 | Arthralgia | 12.2% | 7.6% |
@@ -62,19 +62,19 @@ Pediatric Patients
 
 In pediatric patients with CKD on dialysis, the pattern of adverse reactions was similar to that found in adults.
 
-Zidovudine-treated Patients with HIV-infection
+Zidovudine-treated Patients with HIV Infection
 
-A total of 297 zidovudine-treated patients with HIV-infection were studied in 4 placebo-controlled studies.
+A total of 297 zidovudine-treated patients with HIV infection were studied in 4 placebo-controlled studies.
 A total of 144 (48%) patients were randomly assigned to receive Epogen and 153 (52%) patients were randomly assigned to receive placebo.
 Epogen was administered at doses between 100 and 200 Units/kg 3 times weekly subcutaneously for up to 12 weeks.
 
 For the combined Epogen treatment groups, a total of 141 (98%) men and 3 (2%) women between the ages of 24 and 64 years were enrolled.
 The racial distribution of the combined Epogen treatment groups was as follows: 129 (90%) white, 8 (6%) black, 1 (1%) Asian, and 6 (4%) other.
 
-In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated patients with HIV-infection, adverse reactions with an incidence of ≥ 1% in patients treated with Epogen were:
+In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated patients with HIV infection, adverse reactions with an incidence of ≥ 1% in patients treated with Epogen were:
 
 Table 5.
-Adverse Reactions in Zidovudine-treated Patients with HIV-infection
+Adverse Reactions in Zidovudine-treated Patients with HIV infection
 
 | Adverse Reaction | Epogen (n = 144) | Placebo (n = 153) |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ Four hundred sixty-one patients undergoing major orthopedic surgery were studied
 A total of 358 patients were randomly assigned to receive Epogen and 103 (22%) patients were randomly assigned to receive placebo.
 Epogen was administered daily at a dose of 100 to 300 IU/kg subcutaneously for 15 days or at 600 IU/kg once weekly for 4 weeks.
 
-For the combined Epogen treatment groups, a total of 90 (25%) and 268 (75%) women between the ages of 29 and 89 years were enrolled.
+For the combined Epogen treatment groups, a total of 90 (25%) men and 268 (75%) women between the ages of 29 and 89 years were enrolled.
 The racial distribution of the combined Epogen treatment groups was as follows: 288 (80%) white, 64 (18%) black, 1 (< 1%) Asian, and 5 (1%) other.
 
 The adverse reactions with a reported incidence of ≥ 1% in Epogen-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
@@ -135,7 +135,7 @@ Adverse Reactions in Surgery Patients
 
 |  | Study S1 |  |  | Study S2 |  |
 | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | Epogen 300 U/kg (n = 112)a | Epogen 100 U/kg (n = 101)a | Placebo (n = 103)a | Epogen 600 U/kg x 4 weeks (n = 73)b | Epogen 300 U/kg x 15 days (n = 72)b |
+| Adverse Reaction | Epogen 300 U/kg (n = 112)a | Epogen 100 U/kg (n = 101)a | Placebo (n = 103)a | Epogen 600 U/kg × 4 weeks (n = 73)b | Epogen 300 U/kg × 15 days (n = 72)b |
 | Nausea | 47% | 43% | 45% | 45% | 56% |
 | Vomiting | 21% | 12% | 14% | 19% | 28% |
 | Pruritus | 16% | 16% | 14% | 12% | 21% |
@@ -157,8 +157,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Seizures [see Warnings and Precautions (5.4)]
 - PRCA [see Warnings and Precautions (5.6)]
-- Serious allergic reactions [see Warnings and Precautions (5.7)]
-- Injection site reactions, including irritation and pain
+- Serious Allergic Reactions [see Warnings and Precautions (5.7)]
+- Injection Site Reactions, including irritation and pain
 - Porphyria
 - Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
