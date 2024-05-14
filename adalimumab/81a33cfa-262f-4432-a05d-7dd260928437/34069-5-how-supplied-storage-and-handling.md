@@ -1,31 +1,26 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ABRILADA™ (adalimumab-afzb) is supplied as a preservative-free, sterile, clear and colorless to very light brown solution for subcutaneous administration.
+The ABRILADA prefilled syringe and prefilled pen are not made with natural rubber latex.
 The following packaging configurations are available.
 
 - •ABRILADA Pen Carton - 40 mg/0.8 mL (One Count) ABRILADA (adalimumab-afzb) injection is supplied in a carton containing two alcohol preps and a single-dose pen.
   The single-dose pen contains a 1 mL prefilled glass syringe with a fixed thin wall, ½ inch needle, providing 40 mg/0.8 mL of ABRILADA.
-  The needle cover is not made with natural rubber latex.
   The NDC numbers are 0069-0325-01 and 0025-0325-01.
 - •ABRILADA Pen Carton - 40 mg/0.8 mL (Two Counts) ABRILADA (adalimumab-afzb) injection is supplied in a carton containing two alcohol preps and two single-dose pens.
   Each single-dose pen contains a 1 mL prefilled glass syringe with a fixed thin wall, ½ inch needle, providing 40 mg/0.8 mL of ABRILADA.
-  The needle cover is not made with natural rubber latex.
   The NDC numbers are 0069-0325-02 and 0025-0325-02.
 - •Prefilled Syringe Carton - 40 mg/0.8 mL (One Count) ABRILADA is supplied in a carton containing two alcohol preps and one dose tray.
   The dose tray consists of a single-dose, 1 mL prefilled glass syringe with a fixed thin wall, ½ inch needle, providing 40 mg/0.8 mL of ABRILADA.
-  The needle cover is not made with natural rubber latex.
   The NDC numbers are 0069-0328-01 and 0025-0328-01.
 - •Prefilled Syringe Carton - 40 mg/0.8 mL (Two Counts) ABRILADA is supplied in a carton containing two alcohol preps and two dose trays.
   Each dose tray consists of a single-dose, 1 mL prefilled glass syringe with a fixed thin wall, ½ inch needle, providing 40 mg/0.8 mL of ABRILADA.
-  The needle cover is not made with natural rubber latex.
   The NDC numbers are 0069-0328-02 and 0025-0328-02.
 - •Prefilled Syringe Carton - 20 mg/0.4 mL (Two Counts) ABRILADA is supplied in a carton containing two alcohol preps and two dose trays.
   Each dose tray consists of a single-dose, 1 mL prefilled glass syringe with a fixed thin wall, ½ inch needle, providing 20 mg/0.4 mL of ABRILADA.
-  The needle cover is not made with natural rubber latex.
   The NDC numbers are 0069-0333-02 and 0025-0333-02.
 - •Prefilled Syringe Carton - 10 mg/0.2 mL (Two Counts) ABRILADA is supplied in a carton containing two alcohol preps and two dose trays.
   Each dose tray consists of a single-dose, 1 mL prefilled glass syringe with a fixed thin wall, ½ inch needle, providing 10 mg/0.2 mL of ABRILADA.
-  The needle cover is not made with natural rubber latex.
   The NDC numbers are 0069-0347-02 and 0025-0347-02.
 - •Single-Dose Institutional Use Vial Carton - 40 mg/0.8 mL ABRILADA is supplied for institutional use only in a carton containing a single-dose, glass vial, providing 40 mg/0.8 mL of ABRILADA.
   The vial stopper is not made with natural rubber latex.

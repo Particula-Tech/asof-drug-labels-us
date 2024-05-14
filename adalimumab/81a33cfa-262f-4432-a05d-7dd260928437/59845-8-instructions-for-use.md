@@ -20,6 +20,8 @@ Storage Information:
 - •Do not store ABRILADA in extreme heat or cold.
 - •Do not use the pen if the liquid is cloudy, discolored, or has flakes or particles in it.
 
+Note: The ABRILADA prefilled pen is not made with natural rubber latex.
+
 Keep ABRILADA, injection supplies, and all other medicines out of the reach of children.
 
 ABRILADA for injection comes in a disposable (throw away) single-use pen that contains a single dose of medicine.
@@ -213,9 +215,9 @@ Distributed by Pfizer Labs Division of Pfizer Inc. New York, NY 10001
 
 US License No. 2001
 
-LAB-1352-3.0
+LAB-1352-4.0
 
-Revised: 06/2023
+Revised: 4/2024
 
 # INSTRUCTIONS FOR USE
 
@@ -242,6 +244,8 @@ Storage Information:
 - •Do not use a prefilled syringe if the liquid is cloudy, discolored, or has flakes or particles in it.
 - •Do not drop or crush ABRILADA.
   The prefilled syringe is glass.
+
+Note: The ABRILADA prefilled syringe is not made with natural rubber latex.
 
 Keep ABRILADA, injection supplies, and all other medicines out of the reach of children.
 
@@ -412,6 +416,6 @@ Distributed by Pfizer Labs Division of Pfizer Inc. New York, NY 10001
 
 US License No. 2001
 
-LAB-1353-3.0
+LAB-1353-4.0
 
-Revised: 06/2023
+Revised: 4/2024
