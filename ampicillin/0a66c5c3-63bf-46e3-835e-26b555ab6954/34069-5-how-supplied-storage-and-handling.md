@@ -24,9 +24,7 @@ Clinistix® is a registered trademark of Bayer Corporation.
 
 Tes-Tape® is a registered trademark of Eli Lilly Company.
 
-Revised: August 2020
-
-46275512
+Revised: January 2024
 
 Manufactured by Sandoz GmbH for
 

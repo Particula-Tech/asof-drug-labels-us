@@ -16,7 +16,7 @@ SANDOZ
 
 # 500 mg Label
 
-NDC 0781-2145-01
+NDC 0781-2145-05
 
 Ampicillin
 
@@ -26,6 +26,6 @@ Capsules, USP
 
 Rx only
 
-100 Capsules
+500 Capsules
 
 SANDOZ

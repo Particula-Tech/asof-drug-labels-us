@@ -12,6 +12,7 @@ Hypersensitivity Reactions: An erythematous, mildly pruritic, maculopapular skin
 The rash, which usually does not develop within the first week of therapy, may cover the entire body including the soles, palms, and oral mucosa.
 The eruption usually disappears in three to seven days.
 Other hypersensitivity reactions that have been reported are: skin rash, pruritus, urticaria, erythema multiforme, and an occasional case of exfoliative dermatitis.
+Linear IgA bullous dermatosis has been reported.
 Anaphylaxis is the most serious reaction experienced and has usually been associated with the parenteral dosage form of the drug.
 
 NOTE: Urticaria, other skin rashes, and serum sickness-like reactions may be controlled by antihistamines, and, if necessary, systemic corticosteroids.
