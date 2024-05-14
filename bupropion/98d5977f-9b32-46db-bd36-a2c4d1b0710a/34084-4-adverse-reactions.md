@@ -136,7 +136,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body (General): chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photosensitivity, and malaise.
 
-Cardiovascular: postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
+Cardiovascular: postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, pulmonary embolism, and Brugada pattern/syndrome.
 
 Digestive: abnormal liver function, bruxism, gastric reflux, gingivitis, glossitis, increased salivation, jaundice, mouth ulcers, stomatitis, thirst, edema of tongue, colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, liver damage, pancreatitis, and stomach ulcer.
 
@@ -153,7 +153,7 @@ Nervous System: abnormal coordination, depersonalization, emotional lability, hy
 
 Respiratory: bronchospasm and pneumonia.
 
-Skin: maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
+Skin and subcutaneous tissue disorders: maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Special Senses: accommodation abnormality, dry eye, deafness, increased intraocular pressure, angle-closure glaucoma, and mydriasis.
 
