@@ -25,12 +25,10 @@ The study drug infusion rate was adjusted to maintain a Ramsay sedation score of
 Patients were allowed to receive "rescue" midazolam as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered for pain as needed.
 The primary outcome measure for this study was the total amount of rescue medication (midazolam) needed to maintain sedation as specified while intubated.
-Patients randomized to placebo received significantly more midazolam than patients randomized to PRECEDEX (see Error!
-Hyperlink reference not valid.).
+Patients randomized to placebo received significantly more midazolam than patients randomized to PRECEDEX (see Table 13).
 
 A second prospective primary analysis assessed the sedative effects of PRECEDEX by comparing the percentage of adult patients who achieved a Ramsay sedation score of ≥3 during intubation without the use of additional rescue medication.
-A significantly greater percentage of adult patients in the PRECEDEX group maintained a Ramsay sedation score of ≥3 without receiving any midazolam rescue compared to the placebo group (see Error!
-Hyperlink reference not valid.).
+A significantly greater percentage of adult patients in the PRECEDEX group maintained a Ramsay sedation score of ≥3 without receiving any midazolam rescue compared to the placebo group (see Table 13).
 
 Table 13: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
@@ -54,11 +52,9 @@ Patients were allowed to receive "rescue" propofol as needed to augment the stud
 In addition, morphine sulfate was administered as needed for pain.
 The primary outcome measure for this study was the total amount of rescue medication (propofol) needed to maintain sedation as specified while intubated.
 
-Adult patients randomized to placebo received significantly more propofol than adult patients randomized to PRECEDEX (see Error!
-Hyperlink reference not valid.4).
+Adult patients randomized to placebo received significantly more propofol than adult patients randomized to PRECEDEX (see Table 14).
 
-A significantly greater percentage of adult patients in the PRECEDEX group compared to the placebo group maintained a Ramsay sedation score of ≥3 without receiving any propofol rescue (see Error!
-Hyperlink reference not valid.).
+A significantly greater percentage of adult patients in the PRECEDEX group compared to the placebo group maintained a Ramsay sedation score of ≥3 without receiving any propofol rescue (see Table 14).
 
 Table 14: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 
@@ -87,8 +83,7 @@ The safety and efficacy of PRECEDEX for sedation of non-intubated adult patients
 Study 1 evaluated the sedative properties of PRECEDEX in adult patients having a variety of elective surgeries/procedures performed under monitored anesthesia care.
 Study 2 evaluated PRECEDEX in adult patients undergoing awake fiberoptic intubation prior to a surgical or diagnostic procedure.
 
-In Study 1, the sedative properties of PRECEDEX were evaluated by comparing the percent of adult patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer's Assessment of Alertness/Sedation Scale (see Error!
-Hyperlink reference not valid.).
+In Study 1, the sedative properties of PRECEDEX were evaluated by comparing the percent of adult patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer's Assessment of Alertness/Sedation Scale (see Table 15).
 
 Table 15: Observer's Assessment of Alertness/Sedation
 
@@ -150,7 +145,7 @@ Table 18: Percent of Pediatric Patients not Requiring Concomitant Propofol by Ag
 
 | Age Group |  | High Dose | Middle Dose | Low Dose | High Dose vs Low Dose |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | n (%)95% CIExtract 95% Cl of proportion of subjects not requiring propofol in each dose level. | n (%)95% CI | n (%)95% CI | Odds Ratio95% CIp-values; Cl is confidence interval of odds ratio. | p-value |
+|  |  | n (%)95% CIExact 95% Cl of proportion of subjects not requiring propofol in each dose level. | n (%)95% CI | n (%)95% CI | Odds Ratio95% CIp-values; Cl is confidence interval of odds ratio. | p-value |
 | 1 month to less than 2 years | N=59 | 9/18 (50.0%)(0.26, 0.74) | 2/21 (9.5%)(0.01, 0.30) | 2/20 (15.0%)(0.03, 0.38) | 0.18 (0.04, 0.82) | 0.022 |
 | 2 to less than 17 years | N=63 | 15/20 (75.0%)(0.51, 0.91) | 13/21 (61.9%)(0.38, 0.82) | 3/22 (13.6%)(0.03, 0.35) | 0.05 (0.01, 0.26) | <0.001 |
 | Overall | N=122 | 24/38 (63.2%)(0.46, 0.78) | 15/42 (35.7%)(0.22, 0.52) | 6/42 (14.3%)(0.05, 0.29) | 0.10 (0.03, 0.29) | <0.001 |

@@ -10,8 +10,7 @@ Available data indicate that dexmedetomidine crosses the placenta.
 
 In animal reproduction studies, fetal toxicity that lower fetal viability and reduced live fetuses occurred with subcutaneous administration of dexmedetomidine to pregnant rats during organogenesis at doses 1.8 times the maximum recommended human dose (MRHD) of 17.8 mcg/kg/day.
 
-Developmental toxicity (low pup weights and adult offspring weights, decreased F1 grip strength, increased early implantation loss and decreased viability of second-generation offspring) occurred when pregnant rats were subcutaneously administered dexmedetomidine at doses less than the clinical dose from late pregnancy through lactation and weaning (see Error!
-Hyperlink reference not valid.).
+Developmental toxicity (low pup weights and adult offspring weights, decreased F1 grip strength, increased early implantation loss and decreased viability of second-generation offspring) occurred when pregnant rats were subcutaneously administered dexmedetomidine at doses less than the clinical dose from late pregnancy through lactation and weaning (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -36,8 +35,7 @@ In a study in the pregnant rat, placental transfer of dexmedetomidine was observ
 
 Risk Summary
 
-Available published literature reports the presence of dexmedetomidine in human milk following intravenous administration (see Error!
-Hyperlink reference not valid.).
+Available published literature reports the presence of dexmedetomidine in human milk following intravenous administration (see Data).
 There is no information regarding the effects of dexmedetomidine on the breastfed infant or the effects on milk production.
 Advise women to monitor the breastfed infant for irritability.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for PRECEDEX and any potential adverse effects on the breastfed infant from PRECEDEX or from the underlying condition.
@@ -55,12 +53,9 @@ The relative infant dose was estimated to range from 0.02 to 0.098%.
 Sedation for Non-Invasive Procedures
 
 The safety and efficacy of PRECEDEX have been established in pediatric patients 1 month to less than 18 years of age for sedation during non-invasive procedures.
-Use in this age group is based on one randomized double-blind, dose-ranging safety and efficacy trial in non-intubated pediatric patients 1 month to less than 17 years of age who required sedation prior to undergoing MRI scans [see Error!
-Hyperlink reference not valid.].
-An increase in frequency of bradypnea, bradycardia, hypertension and hypotension was observed in pediatric patients treated with PRECEDEX [see Error!
-Hyperlink reference not valid.].
-The overall safety profile of PRECEDEX in pediatric patients was consistent with the known safety profile in adults [see Error!
-Hyperlink reference not valid.].
+Use in this age group is based on one randomized double-blind, dose-ranging safety and efficacy trial in non-intubated pediatric patients 1 month to less than 17 years of age who required sedation prior to undergoing MRI scans [see Clinical Studies (14.2)].
+An increase in frequency of bradypnea, bradycardia, hypertension and hypotension was observed in pediatric patients treated with PRECEDEX [see Adverse Reactions (6.1)].
+The overall safety profile of PRECEDEX in pediatric patients was consistent with the known safety profile in adults [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of PRECEDEX have not been established in pediatric patients less than 1 month of age.
 
