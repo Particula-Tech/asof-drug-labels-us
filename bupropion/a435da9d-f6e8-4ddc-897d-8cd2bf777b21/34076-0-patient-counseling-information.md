@@ -2,15 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Wellbutrin XL and counsel them in its appropriate use.
-
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About Wellbutrin XL?” is available for Wellbutrin XL.
-Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Advise patients regarding the following issues and to alert their prescriber if these occur while taking Wellbutrin XL.
-
 Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
@@ -22,7 +13,7 @@ Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Although Wellbutrin XL is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
-Instruct patients to discontinue Wellbutrin XL and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
+Instruct patients to discontinue Wellbutrin XL and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2)and Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 
@@ -43,7 +34,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that Wellbutrin XL contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that Wellbutrin XL should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN, the immediate-release formulation, and APLENZIN®, a bupropion hydrobromide formulation).
+Educate patients that Wellbutrin XL contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that Wellbutrin XL should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN, the immediate-release formulation, and APLENZIN ®, a bupropion hydrobromide formulation).
 In addition, there are a number of generic bupropion HCl products for the immediate, sustained, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -84,8 +75,8 @@ Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under licens
 
 APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-All other product/brand names are the trademarks of the respective owners.
+All other product/brand names and/or logos are the trademarks of the respective owners.
 
-© 2022 Bausch Health Companies Inc. or its affiliates
+© 2024 Bausch Health Companies Inc. or its affiliates
 
-9395609 20005066
+9395610

@@ -18,7 +18,7 @@ Response during the open-label phase was defined as a CGI-Improvement Scale scor
 Relapse during the double-blind phase was defined as the investigator’s judgment that drug treatment was needed for worsening depressive symptoms.
 Patients in the bupropion group experienced significantly lower relapse rates over the subsequent 44 weeks compared to those in the placebo group.
 
-Although there are no independent trials demonstrating the efficacy of Wellbutrin XL in the acute treatment of MDD, studies have demonstrated similar bioavailability between the immediate-, sustained-, and extended-release formulations of bupropion HCl under steady-state conditions (i.e., the exposures [Cmax and AUC] for bupropion and its metabolites are similar among the 3 formulations).
+Although there are no independent trials demonstrating the efficacy of Wellbutrin XL in the acute treatment of MDD, studies have demonstrated similar bioavailability between the immediate-, sustained-, and extended-release formulations of bupropion HCl under steady-state conditions (i.e., the exposures [C maxand AUC] for bupropion and its metabolites are similar among the 3 formulations).
 
 ## 14.2 Seasonal Affective Disorder
 
