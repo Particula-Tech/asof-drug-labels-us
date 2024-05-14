@@ -8,11 +8,13 @@ Structural Formula:
 C14H13N8NaO4S3 M.W.
 476.5
 
-The pH of the reconstituted solution is between 4 and 6.
+Cefazolin for Injection is supplied as a sterile powder in single-dose vials.
 
-Cefazolin for Injection, USP is a sterile white to cream powder supplied in vials.
-Each vial contains, cefazolin sodium equivalent to 2 grams of cefazolin.
+The 2 g/vial Cefazolin for Injection contains 2 grams of cefazolin (equivalent to 2.097 g of cefazolin sodium).
+The 3 g/vial Cefazolin for Injection contains 3 grams of cefazolin (equivalent to 3.144 grams of cefazolin sodium).
 
-The sodium content is approximately 48 mg (2.1 mEq) per gram of cefazolin sodium.
+Each vial contains 48 mg of sodium per gram of cefazolin sodium.
 
-Cefazolin for Injection, USP is intended for intravenous infusion only.
+After reconstitution with sterile water for injection, the drug product solution has a pH of 4.0 to 6.0.
+
+Cefazolin for Injection is intended for intravenous infusion.

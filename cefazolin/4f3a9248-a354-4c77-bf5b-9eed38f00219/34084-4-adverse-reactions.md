@@ -48,4 +48,4 @@ Skin and subcutaneous tissue disorders: Acute generalized exanthematous pustulos
 
 ## 6.3 Cephalosporin-class Adverse Reactions
 
-In addition to the adverse reactions listed above that have been observed in patients treated with cefazolin, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterials: Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal impairment, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, hepatic impairment including cholestasis, and pancytopenia.
+In addition to the adverse reactions listed above that have been observed in patients treated with cefazolin, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterials: Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal impairment, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, a fall in prothrombin activity, hepatic impairment including cholestasis, and pancytopenia.

@@ -36,7 +36,7 @@ Should superinfection occur during therapy, appropriate measures should be taken
 
 ## 5.5 Prothrombin Activity
 
-Cephalosporins may be associated with a fall in prothrombin activity.
+Cefazolin for Injection may be associated with a fall in prothrombin activity.
 Those at risk include patients with renal or hepatic impairment or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy, and patients previously stabilized on anticoagulant therapy.
 Prothrombin time should be monitored in patients at risk and exogenous vitamin K administered as indicated.
 
