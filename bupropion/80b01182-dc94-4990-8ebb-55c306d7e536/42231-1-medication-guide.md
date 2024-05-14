@@ -19,4 +19,4 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: December 2023 R RL-IN000171
+Revised: May 2024 R RL-IN000181

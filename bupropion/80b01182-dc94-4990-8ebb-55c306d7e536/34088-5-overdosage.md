@@ -4,7 +4,7 @@
 
 Overdoses of up to 30 g or more of bupropion have been reported.
 Seizure was reported in approximately one third of all cases.
-Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, sinus tachycardia, and ECG changes such as conduction disturbances or arrhythmias.
+Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, mental status changes, sinus tachycardia, ECG changes such as conduction disturbances or arrhythmias, clonus, myoclonus, and hyperreflexia.
 Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respiratory failure have been reported mainly when bupropion was part of multiple drug overdoses.
 
 Although most patients recovered without sequelae, deaths associated with overdoses of bupropion alone have been reported in patients ingesting large doses of the drug.
@@ -13,7 +13,6 @@ Multiple uncontrolled seizures, bradycardia, cardiac failure, and cardiac arrest
 ## 10.2 Overdosage Management
 
 Consult a Certified Poison Control Center for up-to-date guidance and advice.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
 Call 1-800-222-1222 or refer to www.poison.org.
 
 There are no known antidotes for bupropion.
