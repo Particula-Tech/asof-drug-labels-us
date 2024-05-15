@@ -60,25 +60,25 @@ For each single-dose prefilled syringe:
 6. 6.Pull the cap (A) off in a straight upward direction.
    DO NOT TOUCH THE STERILE SYRINGE TIP (Luer-Lok) (B) (see Figure 2).
 
-1. 7.Attach the safety needle to the syringe tip (Luer-Lok).
+1. 1.Attach the safety needle to the syringe tip (Luer-Lok).
    Twist needle until firmly seated (see Figure 3).
    Confirm that the needle is locked to the Luer connector before moving or tilting the syringe out of the vertical plane to avoid spillage of syringe contents.
 
 - For Administration:
 
-1. 8.Pull shield straight off needle to avoid damaging needle point.
-2. 9.Remove needle sheath.
-3. 10.Expel excess gas from the syringe (a small gas bubble may remain).
-4. 11.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
+1. 1.Pull shield straight off needle to avoid damaging needle point.
+2. 2.Remove needle sheath.
+3. 3.Expel excess gas from the syringe (a small gas bubble may remain).
+4. 4.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
    For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 4.
 
-1. 12.After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
+1. 1.After injection, immediately activate the lever arm to deploy the needle shielding by applying a single-finger stroke to the activation assisted lever arm to push the lever arm completely forward.
    Listen for a click.
    Confirm that the needle shielding has completely covered the needle (see Figure 5).
 2. NOTE: Activate away from self and others.
 
-1. 13.Discard the empty syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
-2. 14.Repeat steps 1 through 13 for second syringe.
+1. 1.Discard the empty syringe into an approved sharps collector in accordance with applicable regulations and institutional policy.
+2. 2.Repeat steps 1 through 13 for second syringe.
 
 How To Use FASLODEX
 
