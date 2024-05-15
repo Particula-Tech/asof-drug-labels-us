@@ -5,6 +5,7 @@ ProAir Digihaler inhalation powder is supplied as a white inhaler with a red cap
 | Actuations | Net Contents | NDC |
 | --- | --- | --- |
 | 200 | 0.65 g | 59310-117-20 |
+| 30 | 0.30 g | 59310-540-30 |
 
 Store at room temperature (between 15°C and 25°C; 59°F and 77°F).
 Avoid exposure to extreme heat, cold, or humidity.

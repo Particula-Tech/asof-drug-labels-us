@@ -24,7 +24,10 @@ If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or
 ## 2.4 Dose Counter
 
 ProAir Digihaler inhaler has a dose counter attached to the actuator.
-When the patient receives the inhaler, the number 200 will be displayed.
+When the patient receives the inhaler:
+
+- For the 200 dose canister, the number 200 will be displayed.
+- For the 30 dose canister, the number 30 will be displayed.
 
 The dose counter will count down each time the inhaler is actuated.
 When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.

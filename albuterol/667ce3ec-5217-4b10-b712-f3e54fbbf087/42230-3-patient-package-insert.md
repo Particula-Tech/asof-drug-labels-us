@@ -10,7 +10,7 @@
 | How should I store ProAir Digihaler? Store ProAir Digihaler at room temperature between 59ºF and 77ºF (15ºC and 25ºC).Avoid exposure to extreme heat, cold, or humidity.Keep the cap on the inhaler closed during storage. Keep your ProAir Digihaler inhaler dry and clean at all times. Do not wash or put any part of your ProAir Digihaler inhaler in water. Replace your inhaler if washed or placed in water. Keep ProAir Digihaler and all medicines out of the reach of children. |
 | General information about the safe and effective use of ProAir Digihaler.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ProAir Digihaler for a condition for which it was not prescribed. Do not give ProAir Digihaler to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or doctor for information about ProAir Digihaler that was written for health professionals. |
 | What are the ingredients in ProAir Digihaler?Active ingredient: albuterol sulfateInactive ingredients: lactose (may contain milk proteins)For more information about ProAir Digihaler, call 1-888-603-0788, or go to www.ProAirDigihaler.com The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc. and any use of such marks by Teva Respiratory, LLC is under license. |
-| Distributed by:Teva Pharmaceuticals USA, Inc.Parsippany, NJ 07054©2020 Teva Respiratory, LLC. All rights reserved.PRODHPL-002 |
+| Distributed by:Teva Pharmaceuticals USA, Inc.Parsippany, NJ 07054©2022 Teva Respiratory, LLC. All rights reserved.PRODHPL-003 |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 09/2020
+Revised: 06/2022
