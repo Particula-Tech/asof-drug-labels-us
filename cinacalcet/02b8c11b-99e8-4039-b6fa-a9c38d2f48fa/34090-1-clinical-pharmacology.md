@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
-Cinacalcet, the active ingredient in cinacalcet hydrochloride tablets is a calcimimetic agent that, directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to activation by extracellular calcium.
+Cinacalcet, the active ingredient in cinacalcet tablets is a calcimimetic agent that directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to activation by extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
 
 ## 12.2 Pharmacodynamics
@@ -48,7 +48,7 @@ The pharmacokinetic profile of cinacalcet in geriatric patients (age ≥ 65 year
 
 Hepatic Impairment
 
-The disposition of a 50 mg cinacalcet hydrochloride tablets single dose was compared between patients with hepatic impairment and patients with normal hepatic function.
+The disposition of a 50 mg cinacalcet tablets single dose was compared between patients with hepatic impairment and patients with normal hepatic function.
 Cinacalcet exposure (AUC(0-infinite)) was comparable between healthy volunteers and patients with mild hepatic impairment.
 However, in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method), cinacalcet exposures (AUC(0-infinite)) were 2.4 and 4.2 fold higher, respectively, than that in healthy volunteers.
 The mean half-life of cinacalcet increased from 49 hours in healthy volunteers to 65 hours and 84 hours in patients with moderate and severe hepatic impairment, respectively.
@@ -56,7 +56,7 @@ Protein binding of cinacalcet is not affected by impaired hepatic function [see 
 
 Renal Impairment
 
-The pharmacokinetic profile of a 75 mg cinacalcet hydrochloride tablets single dose in patients with mild, moderate, and severe renal impairment, and those on hemodialysis or peritoneal dialysis is comparable with that in healthy volunteers [see Use in Specific Populations (8.6)].
+The pharmacokinetic profile of a 75 mg cinacalcet tablets single dose in patients with mild, moderate, and severe renal impairment, and those on hemodialysis or peritoneal dialysis is comparable with that in healthy volunteers [see Use in Specific Populations (8.6)].
 
 Drug Interactions
 
@@ -67,9 +67,9 @@ Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 Table 5.
 Effect of co-administered drugs on cinacalcet
 
-| Co-administered drug and dosing regimen | Cinacalcet |  |  |
-| --- | --- | --- | --- |
 | DoseSingle dose. | Mean change in AUC(0-inf) | Mean change in Cmax |  |
+| --- | --- | --- | --- |
+| Co-administered drug and dosing regimen | Cinacalcet |  |  |
 | 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑127% | ↑116% |
 | 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |
 | 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |
@@ -78,9 +78,9 @@ Effect of co-administered drugs on cinacalcet
 Table 6.
 Effect of cinacalcet co-administration on other drugs
 
-| Cinacalcet dosing regimen | Co-administered drug |  |  |
-| --- | --- | --- | --- |
 | Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |  |
+| --- | --- | --- | --- |
+| Cinacalcet dosing regimen | Co-administered drug |  |  |
 | 30 mg twice daily for 8 days | 25 mg warfarinNo significant change in prothrombin time. tabletSingle dose on day 5. | ↑1 % for R-warfarin ↓1% for S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
 | 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine | ↑264% | ↑75% |
 | 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |

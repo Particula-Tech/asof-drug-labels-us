@@ -4,8 +4,6 @@ NDC 69097-410-02 Rx Only
 
 Cinacalcet
 
-Hydrochloride
-
 Tablets
 
 30mg*
@@ -18,8 +16,6 @@ NDC 69097-411-02 Rx Only
 
 Cinacalcet
 
-Hydrochloride
-
 Tablets
 
 60mg*
@@ -31,8 +27,6 @@ Cipla
 NDC 69097-412-02 Rx Only
 
 Cinacalcet
-
-Hydrochloride
 
 Tablets
 

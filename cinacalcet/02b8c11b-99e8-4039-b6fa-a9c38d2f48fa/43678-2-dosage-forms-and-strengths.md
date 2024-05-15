@@ -1,13 +1,13 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Cinacalcet Hydrochloride Tablets 30 mg:
+Cinacalcet Tablets 30 mg:
 
 Light green colored, oval shaped, biconvex film coated tablets debossed with 'CL' on one side and '410' on other side.
 
-Cinacalcet Hydrochloride Tablets 60 mg:
+Cinacalcet Tablets 60 mg:
 
 Light green colored, oval shaped, biconvex film coated tablets debossed with 'CL' on one side and '411' on other side.
 
-Cinacalcet Hydrochloride Tablets 90 mg:
+Cinacalcet Tablets 90 mg:
 
 Light green colored, oval shaped, biconvex film coated tablets debossed with 'CL' on one side and '412' on other side.

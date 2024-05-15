@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Limited case reports of cinacalcet hydrochloride use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes.
+Limited case reports of cinacalcet use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes.
 In animal reproduction studies, when female rats were exposed to cinacalcet during the period of organogenesis through to weaning at 2-3 times the systemic drug levels (based on AUC) at the maximum recommended human dose (MRHD) of 180 mg/day, peripartum and early postnatal pup loss and reduced pup body weight gain were observed in the presence of maternal hypocalcemia [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -30,28 +30,27 @@ gain.
 
 Risk Summary
 
-There are no data regarding the presence of cinacalcet hydrochloride in human milk or effects on the breastfed infant or on milk production.
+There are no data regarding the presence of cinacalcet in human milk or effects on the breastfed infant or on milk production.
 Studies in rats showed that cinacalcet was excreted in the milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for cinacalcet hydrochloride tablets and any potential adverse effects on the breastfed infant from cinacalcet hydrochloride or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for cinacalcet tablets and any potential adverse effects on the breastfed infant from cinacalcet or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of cinacalcet hydrochloride tablets have not been established in pediatric patients.
+The safety and efficacy of cinacalcet tablets have not been established in pediatric patients.
 
-The use of Cinacalcet hydrochloride for the treatment of secondary HPT in pediatric patients with CKD on dialysis was evaluated in two randomized, controlled studies (Pediatric Study 1 and Study 2) where 47 pediatric patients aged 6 years to less than 18 years received at least one dose of Cinacalcet hydrochloride and in one single-arm study (Pediatric Study 3) where 17 pediatric patients aged 28 days to less than 6 years received at least one dose of Cinacalcet hydrochloride.
+The use of Cinacalcet for the treatment of secondary HPT in pediatric patients with CKD on dialysis was evaluated in two randomized, controlled studies (Pediatric Study 1 and Study 2) where 47 pediatric patients aged 6 years to less than 18 years received at least one dose of Cinacalcet and in one single-arm study (Pediatric Study 3) where 17 pediatric patients aged 28 days to less than 6 years received at least one dose of Cinacalcet.
 
-Dosing with cinacalcet hydrochloride in a Pediatric Study 1 was stopped because of a fatality in a cinacalcet hydrochloride-treated individual.
+Dosing with cinacalcet in a Pediatric Study 1 was stopped because of a fatality in a cinacalcet-treated individual.
 The individual was noted to be severely hypocalcemic at the time of death.
-The cause of death was multifactorial and a contribution of cinacalcet hydrochloride to the death could not be excluded.
-[see Warnings and Precautions (5.1)].
+The cause of death was multifactorial and a contribution of cinacalcet to the death could not be excluded [see Warnings and Precautions (5.1)].
 
-Study 1 was terminated and changes to Cinacalcet hydrochloride dosing after the fatality were implemented in Pediatric Study 2 and Study 3 to minimize the risk of severe hypocalcemia.
-The data in Pediatric Studies 2 and 3 were insufficient to establish the safety and efficacy of Cinacalcet hydrochloride for the treatment of secondary HPT in pediatric patients with CKD on dialysis.
-In aggregate, the pediatric studies did not establish a safe and effective Cinacalcet hydrochloride dosing regimen for the pediatric population.
+Study 1 was terminated and changes to Cinacalcet dosing after the fatality were implemented in Pediatric Study 2 and Study 3 to minimize the risk of severe hypocalcemia.
+The data in Pediatric Studies 2 and 3 were insufficient to establish the safety and efficacy of Cinacalcet for the treatment of secondary HPT in pediatric patients with CKD on dialysis.
+In aggregate, the pediatric studies did not establish a safe and effective Cinacalcet dosing regimen for the pediatric population.
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects (n=1136) in clinical studies of cinacalcet hydrochloride tablets, 26 percent were 65 and over, and 9 percent were 75 and over.
+Of the total number of subjects (n=1136) in clinical studies of cinacalcet tablets, 26 percent were 65 and over, and 9 percent were 75 and over.
 No overall differences in the safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Studies (14) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
@@ -60,4 +59,4 @@ No dosage adjustment is necessary for renal impairment [see Clinical Pharmacolog
 
 ## 8.7 Hepatic Impairment
 
-Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with cinacalcet hydrochloride tablets because cinacalcet exposure (AUC0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [see Clinical Pharmacology (12.3)].
+Patients with moderate and severe hepatic impairment should have serum calcium, serum phosphorus, and iPTH levels monitored closely throughout treatment with cinacalcet tablets because cinacalcet exposure (AUC0-infinite) is increased by 2.4 and 4.2 fold, respectively, in these patients [see Clinical Pharmacology (12.3)].

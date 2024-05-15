@@ -38,11 +38,11 @@ Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term St
 In a randomized, double-blind placebo-controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), the most frequently reported adverse reactions (incidence of ≥ 5% in the cinacalcet group and a difference ≥ 1% compared to placebo) are listed in Table 2.
 
 Table 2.
-Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months in a Long-Term StudyAdverse reactions that occurred in ≥ 5% frequency in the cinacalcet group and a difference ≥1% compared to the placebo group (Safety Analysis Set)
+Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months in a Long-Term Study1Adverse reactions that occurred in ≥ 5% frequency in the cinacalcet group and a difference ≥1% compared to the placebo group (Safety Analysis Set)
 
 |  | Placebo (n=1923) | Cinacalcet (n=1938) |
 | --- | --- | --- |
-| 3699 subject-years | 4044 subject-years |  |
+|  | 3699 subject-years | 4044 subject-years |
 | Percent of subjects reporting Adverse Reactions (%) | 90.9 | 93.2 |
 | Nausea | 15.5 | 29.1 |
 | Vomiting | 13.7 | 25.6 |
@@ -65,17 +65,17 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Crude incidence rate = 100 * Total number of subjects with event/ n |  |  |
 | n=Number of subjects receiving at least one dose of study drug |  |  |
 
-Additional adverse reaction rates from the long-term, randomized, double-blind placebo-controlled study for cinacalcet hydrochloride tablets versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
+Additional adverse reaction rates from the long-term, randomized, double-blind placebo-controlled study for cinacalcet tablets versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
 
 Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
-The safety profile of cinacalcet hydrochloride tablets in these patient populations is generally consistent with that seen in patients with CKD on dialysis.
-Forty six patients were treated with cinacalcet hydrochloride tablets in a single-arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
+The safety profile of cinacalcet tablets in these patient populations is generally consistent with that seen in patients with CKD on dialysis.
+Forty six patients were treated with cinacalcet tablets in a single-arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
 Nine (20%) of the patients withdrew from the study due to adverse events.
 The most frequent adverse reactions and the most frequent cause of withdrawal in these patient populations were nausea and vomiting.
 Severe or prolonged cases of nausea and vomiting can lead to dehydration and worsening hypercalcemia so careful monitoring of electrolytes is recommended in patients with these symptoms.
 
-Eight patients died during treatment with cinacalcet hydrochloride tablets in this study, 7 with Parathyroid Carcinoma (24%) and 1 (6%) with intractable pHPT.
+Eight patients died during treatment with cinacalcet tablets in this study, 7 with Parathyroid Carcinoma (24%) and 1 (6%) with intractable pHPT.
 Causes of death were cardiovascular (5 patients), multi-organ failure (1 patient), gastrointestinal hemorrhage (1 patient) and metastatic carcinoma (1 patient).
 Adverse events of hypocalcemia were reported in three patients (7%).
 
@@ -84,10 +84,10 @@ Seizures were observed in 0.7% (1/140) of cinacalcet-treated patients and 0.0% (
 Table 3.
 Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Patients with Primary Hyperparathyroidism or Parathyroid Carcinoma
 
-|  | Cinacalcet Hydrochloride Tablets |  |  |
+|  | Cinacalcet Tablets |  |  |
 | --- | --- | --- | --- |
-| Parathyroid Carcinoma (n=29) n (%) | Intractable pHPT (n=17) n (%) | Total (n=46) n (%) |  |
-| Number of Subjects Reporting Adverse Reaction | 28 (97) | 17 (100) | 45 (98) |
+|  | Parathyroid Carcinoma (n=29) n (%) | Intractable pHPT (n=17) n (%) | Total (n=46) n (%) |
+| Number of Subjects Reporting Adverse Reactions | 28 (97) | 17 (100) | 45 (98) |
 | Nausea | 19 (66) | 10 (59) | 29 (63) |
 | Vomiting | 15 (52) | 6 (35) | 21 (46) |
 | Paresthesia | 4 (14) | 5 (29) | 9 (20) |
@@ -122,18 +122,18 @@ Adverse Reactions Occurring in ≥ 10% of Subjects in a Double-Blind, Placebo-Co
 
 Hypocalcemia
 
-In 26-week studies of patients with secondary HPT and CKD on dialysis 66% of patients receiving cinacalcet hydrochloride tablets compared with 25% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL, whereas, 29 % of patients receiving cinacalcet hydrochloride tablets compared with 11% of patients receiving placebo developed at least one serum calcium value less than 7.5 mg/dL.
+In 26-week studies of patients with secondary HPT and CKD on dialysis 66% of patients receiving cinacalcet tablets compared with 25% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL, whereas, 29 % of patients receiving cinacalcet tablets compared with 11% of patients receiving placebo developed at least one serum calcium value less than 7.5 mg/dL.
 Less than 1% of patients in each group permanently discontinued study drug due to hypocalcemia.
 
-In a randomized, double-blind, placebo-controlled study in patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), 75% of patients receiving cinacalcet hydrochloride tablets compared with 29% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL and 33% of cinacalcet patients compared with 12% of patients receiving placebo had at least one serum calcium value less than 7.5 mg/dL.
-Most of the cases of severe hypocalcemia less than 7.5mg/dL (21/33=64%) occurred during the first 6 months.
-In this trial, 1.1% of patients receiving cinacalcet hydrochloride tablets and 0.1% of patients receiving placebo permanently discontinued study drug due to hypocalcemia.
+In a randomized, double-blind, placebo-controlled study in patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), 75% of patients receiving cinacalcet tablets compared with 29% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL and 33% of cinacalcet patients compared with 12% of patients receiving placebo had at least one serum calcium value less than 7.5 mg/dL.
+Most of the cases of severe hypocalcemia less than 7.5 mg/dL (21/33=64%) occurred during the first 6 months.
+In this trial, 1.1% of patients receiving cinacalcet tablets and 0.1% of patients receiving placebo permanently discontinued study drug due to hypocalcemia.
 
 During a placebo-controlled part of a 52-week study in patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), serum calcium less than 8.4 mg/dL was observed in 6.1% (2/33) of cinacalcet -treated patients and 0% (0/34) of placebo-treated patients.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of cinacalcet hydrochloride tablets.
+The following adverse reactions have been identified during post approval use of cinacalcet tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Rash and hypersensitivity reactions (including angioedema and urticaria), and myalgia
