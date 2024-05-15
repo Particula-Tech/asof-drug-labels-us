@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Effects of Inhaled Corticosteroids
+## 5.1 Oropharyngeal Candidiasis
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in subjects treated with fluticasone propionate MDPI.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with ArmonAir Digihaler continues, but at times therapy with ArmonAir Digihaler may need to be interrupted.
@@ -14,7 +14,7 @@ When prescribing ArmonAir Digihaler, the physician must provide the patient with
 Instruct patients to contact their physicians immediately if episodes of asthma not responsive to bronchodilators occur during the course of treatment with ArmonAir Digihaler.
 During such episodes, patients may require therapy with oral corticosteroids.
 
-## 5.3 Immunosuppression
+## 5.3 Immunosuppression and Risk of Infections
 
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
 
@@ -24,12 +24,14 @@ How the dose, route and duration of corticosteroid administration affect the ris
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If a patient is exposed to chickenpox, prophylaxis with varicella-zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG) may be indicated.
 If a patient is exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+(see the respective Prescribing Information for VZIG and IG).
 If chickenpox develops, treatment with antiviral agents may be considered.
 
 Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.4 Transferring Patients from Systemic Corticosteroid Therapy
+
+HPA Suppression/Adrenal Insufficiency
 
 Particular care is needed for patients who are transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic‑pituitary‑adrenal (HPA) function.
@@ -46,7 +48,11 @@ Prednisone reduction can be accomplished by reducing the daily prednisone dose b
 Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [AM PEF]), beta‑agonist use, and asthma symptoms should be carefully monitored during withdrawal of systemic corticosteroids.
 In addition to monitoring asthma signs and symptoms, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
+Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
+
 Transfer of patients from systemic corticosteroid therapy to ArmonAir Digihaler may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
+
+Corticosteroid Withdrawal Symptoms
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
 
@@ -66,7 +72,7 @@ If such effects occur, the dosage of ArmonAir Digihaler should be reduced slowly
 ## 5.6 Hypersensitivity Reactions, Including Anaphylaxis
 
 Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of ArmonAir Digihaler.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use ArmonAir Digihaler [see Contraindications (4.2)].
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use ArmonAir Digihaler [see Contraindications (4)].
 
 ## 5.7 Reduction in Bone Mineral Density
 

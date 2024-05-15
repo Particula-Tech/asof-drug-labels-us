@@ -57,11 +57,17 @@ Subcutaneous administration of tritiated fluticasone propionate at a dose in lac
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ArmonAir Digihaler in the maintenance treatment of asthma as prophylactic therapy in pediatric patients 12 years of age and older has been established.
-Use of ArmonAir Digihaler for this indication was supported by evidence from two adequate and well-controlled trials in pediatric patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14)].
+The safety and effectiveness of ArmonAir Digihaler in the maintenance treatment of asthma as prophylactic therapy in pediatric patients 4 years of age and older have been established.
+
+Use of ArmonAir Digihaler for this indication in adolescents ages 12 to 17 years is supported by evidence from two adequate and well-controlled trials in adult and adolescent patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14.2)].
 In these trials, 50 adolescents received fluticasone propionate MDPI one inhalation twice daily.
 
-The safety and effectiveness of ArmonAir Digihaler in pediatric patients below the age of 12 years have not been established.
+Use of ArmonAir Digihaler for this indication in pediatric patients aged 4 to 11 years is supported by evidence from one adequate and well-controlled trial of fluticasone propionate MDPI (Trial 3) [see Clinical Studies (14.2)].
+In this trial, 419 pediatric patients received fluticasone propionate MDPI 30 mcg or 55 mcg one inhalation twice daily.
+
+The safety and effectiveness of ArmonAir Digihaler in patients below the age of 4 years have not been established.
+
+Effect on Growth
 
 Inhaled corticosteroids, including fluticasone propionate, may cause a reduction in growth velocity when administered to pediatric patients [see Warnings and Precautions (5.8)].
 A reduction of growth velocity in children or teenagers may occur as a result of poorly controlled asthma or from use of corticosteroids, including inhaled corticosteroids.

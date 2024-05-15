@@ -1,5 +1,7 @@
 # Instructions for Use
 
+ARMONAIR® DIGIHALER® (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 30 mcg
+
 ARMONAIR® DIGIHALER® (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 55 mcg
 
 ARMONAIR® DIGIHALER® (ar´ moe nayr di´ji haye´´ ler) (fluticasone propionate) inhalation powder 113 mcg
@@ -21,7 +23,7 @@ There are 3 main parts of your ARMONAIR DIGIHALER inhaler including the:
 - electronic module.
   See Figure A.
 
-There is an electronic module built into the top of the inhaler that records and stores information about inhaler events.
+There is an electronic module built into the top of the inhaler that detects, records and stores information about inhaler events.
 The electronic module sends information through Bluetooth® wireless technology to a mobile application (App).
 The electronic module does not control or interfere with delivery of the medicine through the inhaler.
 
@@ -41,15 +43,16 @@ Figure B
 
 Important:
 
-- Always close the cap after each inhalation so your inhaler will be ready for you to take your next dose.
-  Do not open the cap unless you are ready for your next dose.
-- You will hear a “click” sound when the cap is opened fully.
+- Always close the green cap after each inhalation so your inhaler will be ready for you to take your next dose.
+  Do not open the green cap unless you are ready for your next dose.
+- You will hear a “click” sound when the green cap is opened fully.
   If you do not hear the “click” sound the inhaler may not be activated to give you a dose of medicine.
 - ARMONAIR DIGIHALER does not have an activation button or medicine canister.
-  When you open the cap, a dose of ARMONAIR DIGIHALER will be activated for delivery of the medicine.
+  When you open the green cap, a dose of ARMONAIR DIGIHALER will be activated for delivery of the medicine.
 - ARMONAIR DIGIHALER does not need to be wirelessly connected to the mobile application (App) in order for it to work and for you to take your medicine.
 - Do not use a spacer or volume holding chamber with ARMONAIR DIGIHALER.
   ARMONAIR DIGIHALER does not need priming.
+- If your child needs to use ARMONAIR DIGIHALER, watch your child closely to make sure your child uses the inhaler correctly.
 
 Using your ARMONAIR DIGIHALER inhaler
 
@@ -140,28 +143,31 @@ Replacing your ARMONAIR DIGIHALER inhaler
 Important information
 
 - Do not open the green cap unless you are taking a dose.
-  Repeatedly opening and closing the cap without inhaling a dose will waste the medicine and may damage your inhaler.
+  Opening and closing the green cap without inhaling a dose will waste the medicine and may damage your inhaler.
 - Your ARMONAIR DIGIHALER inhaler contains dry powder so it is important that you do not blow or breathe into it.
 
 Support
 
-- For instructions on setting up the App, go to www.ArmonAir.com or call Teva at 1-888-603-0788.
+- For instructions on setting up the mobile application (App), go to www.ArmonAir.com or call Teva at 1-888-603-0788.
 - If you have any questions about ARMONAIR DIGIHALER or how to use your inhaler, go to www.ArmonAirDigihaler.com, or call 1-888-603-0788.
 
 This device complies with part 15 of the FCC Rules.
 Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
 Changes or modifications not expressly approved by Teva could void the user’s authority to operate the equipment.
 
-These Instructions for Use have been approved by the U.S. Food and Drug Administration.
+The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc., and any use of such marks by Teva Respiratory, LLC is under license.
 
-The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc. and any use of such marks by Teva Respiratory, LLC is under license.
+Manufactured for:
 
-Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Teva Respiratory
 
-©2020 Teva Respiratory, LLC.
+Parsippany, NJ 07054
+
+©2022 Teva Respiratory, LLC.
 All rights reserved.
 
-ARMDHIFU-001
+ARMDHIFU-002
 
-Rev.
-02/2020
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Revised: 04/2022

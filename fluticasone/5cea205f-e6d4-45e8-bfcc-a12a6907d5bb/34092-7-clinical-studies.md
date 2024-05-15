@@ -1,10 +1,13 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of fluticasone propionate inhalation powder [ARMONAIR RESPICLICK, hereafter referred to as fluticasone propionate MDPI] was evaluated in 2130 patients with asthma.
+The safety and efficacy of fluticasone propionate inhalation powder [ARMONAIR RESPICLICK, hereafter referred to as fluticasone propionate MDPI] were evaluated in 2130 adult and adolescent patients with asthma.
 The development program included 2 confirmatory trials of 12 weeks duration, a 26 week safety trial and two dose-ranging trials of 12 weeks duration.
-The efficacy of ArmonAir Digihaler is based primarily on the dose-ranging trials and the confirmatory trials described below.
 
-## 14.1 Dose-Ranging Trials in Patients with Asthma
+The safety and efficacy of fluticasone propionate MDPI was evaluated in 841 patients aged 4 to 11 years with asthma.
+
+The efficacy of ArmonAir Digihaler is based primarily on the dose-ranging trials and the confirmatory trials of fluticasone propionate MDPI described below.
+
+## 14.1 Dose-Ranging Trials in Adult and Adolescent Patients with Asthma
 
 Six doses of fluticasone propionate ranging from 16 mcg to 434 mcg (expressed as metered doses) administered twice daily via MDPI were evaluated in 2 randomized, double-blind, placebo-controlled 12 week trials in patients with asthma.
 
@@ -28,7 +31,7 @@ a Trials were not designed to provide comparative effectiveness data and should 
 
 Adult and Adolescent Patients Aged 12 Years and Older:
 
-Two 12-week randomized, double-blind, placebo-controlled, parallel-group, global Phase 3 clinical trials were conducted in 1375 adult and adolescent patients (aged 12 years and older, with baseline FEV1 40% to 85% of predicted normal) with asthma that was not optimally controlled on their current therapy.
+Two 12-week randomized, double-blind, placebo-controlled, parallel-group, global clinical trials were conducted in 1375 adult and adolescent patients (aged 12 years and older, with baseline FEV1 40% to 85% of predicted normal) with asthma that was not optimally controlled on their current therapy.
 Patients were randomized to receive 1 inhalation twice a day of fluticasone propionate and salmeterol inhalation powder (referred to as fluticasone propionate/salmeterol MDPI), fluticasone propionate MDPI, or placebo.
 Other maintenance asthma therapies were discontinued at randomization.
 
@@ -38,8 +41,8 @@ After completing a run-in period where patients were treated with beclomethasone
 - Placebo MDPI (n=130)
 - Fluticasone propionate MDPI 55 mcg (n=129)
 - Fluticasone propionate MDPI 113 mcg (n=130)
-- Fluticasone propionate/salmeterol MDPI 55/14 mcg (n=129), or
-- Fluticasone propionate/salmeterol MDPI 113/14 mcg (n=129)
+- Fluticasone propionate/salmeterol MDPI 55 mcg/14 mcg (n=129), or
+- Fluticasone propionate/salmeterol MDPI 113 mcg/14 mcg (n=129)
 
 Baseline FEV1 measurements were similar across treatments: fluticasone propionate MDPI 55 mcg 2.134 L, fluticasone propionate MDPI 113 mcg 2.166 L, and placebo 2.188 L.
 
@@ -47,7 +50,7 @@ The primary endpoints for this trial were the change from baseline in trough FEV
 
 Patients receiving fluticasone propionate MDPI 55 mcg and fluticasone propionate MDPI 113 mcg had significantly greater improvements in trough FEV1 compared with the placebo group:
 
-- Fluticasone propionate MDPI 55 mcg: LS mean change of 0.172 L at 12 weeks
+- Fluticasone propionate MDPI 55 mcg: Least Squares (LS) mean change of 0.172 L at 12 weeks
 - Fluticasone propionate MDPI 113 mcg: LS mean change of 0.204 L at 12 weeks
 - Placebo: LS mean change of 0.053 L at 12 weeks
 
@@ -63,12 +66,11 @@ Figure 2: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Gr
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
 Supportive evidence of efficacy for fluticasone propionate MDPI compared with placebo was derived from secondary endpoints such as the weekly average of daily trough morning peak expiratory flow and the total daily use of rescue medication.
-The Asthma Quality of Life Questionnaire (AQLQ) for patients age ≥ 18 years or the pediatric AQLQ (PAQLQ) for patients aged 12 to 17 were assessed in Trial 1.
+The Asthma Quality of Life Questionnaire (AQLQ) for patients aged ≥ 18 years or the pediatric AQLQ (PAQLQ) for patients aged 12 to 17 were assessed in Trial 1.
 The responder rate for both measures was defined as an improvement in score of 0.5 or more as threshold.
 In Trial 1, the responder rates for patients receiving fluticasone propionate MDPI 55 mcg and fluticasone propionate MDPI 113 mcg were 46% and 45%, respectively, compared to 40% for patients receiving placebo, with odds ratios of 1.23 (95% CI: 0.74, 2.06) and 1.25 (95% CI: 0.75, 2.08), respectively.
 
 Improvements in FEV1 for both fluticasone propionate MDPI dose groups were sustained over the 12 hours of testing at week 12 (Figure 3).
-No diminution in the 12 hour bronchodilator effect was observed with fluticasone propionate MDPI as assessed by FEV1 following 12 weeks of therapy.
 
 Figure 3: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
@@ -80,8 +82,8 @@ After completing a run-in period where patients were treated with single-blind f
 - Placebo MDPI (n=145)
 - Fluticasone propionate MDPI 113 mcg (n=146)
 - Fluticasone propionate MDPI 232 mcg (n=146)
-- Fluticasone propionate/salmeterol MDPI 113/14 mcg (n=145)
-- Fluticasone propionate/salmeterol MDPI 232/14 mcg (n=146)
+- Fluticasone propionate/salmeterol MDPI 113 mcg/14 mcg (n=145)
+- Fluticasone propionate/salmeterol MDPI 232 mcg/14 mcg (n=146)
 
 Baseline FEV1 measurements were similar across treatments, as follows: fluticasone propionate MDPI 113 mcg 2.069 L, fluticasone propionate MDPI 232 mcg 2.075 L, and placebo 2.141 L.
 
@@ -107,12 +109,19 @@ FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
 Supportive evidence of efficacy for fluticasone propionate MDPI compared with placebo was derived from secondary endpoints such as the weekly average of daily trough morning peak expiratory flow and total daily use of rescue medication.
 There were fewer withdrawals due to worsening asthma in patients treated with fluticasone propionate MDPI than with placebo.
-The AQLQ (patients age ≥ 18 years) or the PAQLQ (patients aged 12 to 17) were assessed in Trial 2.
+The AQLQ (patients aged ≥ 18 years) or the PAQLQ (patients aged 12 to 17) were assessed in Trial 2.
 The responder rates for patients receiving fluticasone propionate MDPI 113 mcg and fluticasone propionate MDPI 232 mcg were 38% and 44%, respectively, compared to 27% for patients receiving placebo, with odds ratios of 1.75 (95% CI:1.05, 2.93) and 2.12 (95% CI: 1.27, 3.53), respectively.
 
 Improvements in FEV1 for both fluticasone propionate MDPI dose groups were sustained over the 12 hours of testing at week 12 (Figure 5).
-No diminution in the 12 hour bronchodilator effect was observed with fluticasone propionate MDPI as assessed by FEV1 following 12 weeks of therapy.
 
 Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
+
+Pediatric Patients Aged 4 to 11 Years:
+
+The safety and efficacy of fluticasone propionate MDPI was evaluated in a multicenter, randomized, double-blind, placebo-controlled trial (Trial 3) in 841 pediatric patients aged 4 to 11 years with persistent asthma being treated with a stable asthma regimen other than short-acting beta-agonist alone, such as inhaled corticosteroid (ICS), ICS/LABA, or leukotriene receptor agonist.
+After completing a run-in period of 14 to 30 days where patients discontinued all non-study asthma-related drugs, patients who met randomization criteria, which included Childhood Asthma Control Test (C-ACT) score of ≤ 19, were randomized to receive 1 inhalation twice a day of fluticasone propionate MDPI 30 mcg (n=211), fluticasone propionate MDPI 55 mcg (n=210), fluticasone propionate/salmeterol (n=211) or placebo (n=209).
+Of the randomized patients, 488 had been previously treated with inhaled corticosteroids with or without LABA.
+
+For the predefined endpoint of change from baseline in weekly average trough ppFEV1 at week 12, the estimated mean differences between fluticasone propionate MDPI 30 mcg compared to placebo and fluticasone propionate MDPI 55 mcg compared to placebo were 6.0% predicted (95% CI: 3.2, 8.8) and 7.0% predicted (95% CI: 4.1, 9.8), respectively.

@@ -64,16 +64,23 @@ Less than 5% of a radiolabeled oral dose of fluticasone propionate was excreted 
 
 Specific Populations
 
-Age: No pharmacokinetic studies have been performed with ArmonAir Digihaler in children or geriatric patients.
-A subgroup analysis was conducted to compare patients aged 12-17 (n=16) and ≥18 (n=23) years following administration of 232 mcg fluticasone propionate MDPI.
+Age:
+
+Adolescents Aged 12 to 17 Years: A pharmacokinetic study in patients with persistent asthma aged 12 years and older was conducted.
+A subgroup analysis was conducted to compare patients aged 12 to 17 (n=16) and ≥18 (n=23) years following administration of 232 mcg fluticasone propionate MDPI.
 No overall differences in fluticasone propionate pharmacokinetics were observed.
 
-Sex: A subgroup analysis was conducted to compare male (n=22) and female (n=17) patients following administration of 232 mcg fluticasone propionate MDPI.
+Pediatric Patients Aged 4 to 11 Years: Fluticasone propionate concentrations in 18 pediatric patients were measured after a single dose of fluticasone propionate MDPI 55 mcg resulting in a mean peak concentration of 26 pg/mL.
+Median tmax for fluticasone propionate plasma concentration occurred around 1 hour.
+
+No pharmacokinetic studies have been performed with ArmonAir Digihaler in geriatric patients.
+
+Male and Female Patients: A subgroup analysis was conducted to compare male (n=22) and female (n=17) patients following administration of 232 mcg fluticasone propionate MDPI.
 No overall differences in fluticasone propionate pharmacokinetics were observed.
 
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of ArmonAir Digihaler has not been evaluated.
+Patients with Renal Impairment: The effect of renal impairment on the pharmacokinetics of ArmonAir Digihaler has not been evaluated.
 
-Hepatic Impairment: Formal pharmacokinetic studies using ArmonAir Digihaler have not been conducted in patients with hepatic impairment.
+Patients with Hepatic Impairment: Formal pharmacokinetic studies using ArmonAir Digihaler have not been conducted in patients with hepatic impairment.
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
 
 Drug Interaction Studies: In vitro and in vivo drug interaction studies have not been conducted with ArmonAir Digihaler.
