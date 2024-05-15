@@ -1,0 +1,7 @@
+# DOSAGE AND ADMINISTRATION
+
+1 tablet (1.0 g) twice daily (morning and night) for adults and pediatric patients over 12 years of age.
+1/2 to 1 tablet (0.5 to 1 g) twice daily (morning and night) for pediatric patients 6 to 12 years of age.
+Since the antibacterial activity of methenamine hippurate tablets, USP is greater in acid urine, restriction of alkalinizing foods and medications is desirable.
+If necessary, as indicated by urinary pH and clinical response, supplemental acidification of the urine should be instituted.
+The efficacy of therapy should be monitored by repeated urine cultures.

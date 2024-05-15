@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217675"
+  ],
+  "inn": "methenamine",
+  "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59746-797-01",
+    "59746-797-65"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "Methenamine Hippurate"
+    }
+  ],
+  "setid": "4263d826-7de2-4011-b8ec-ba1f5222f0e6",
+  "source": "dailymed"
+}
