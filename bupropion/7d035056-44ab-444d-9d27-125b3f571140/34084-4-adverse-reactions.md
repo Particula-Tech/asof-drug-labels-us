@@ -118,7 +118,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Body (General) Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
-Cardiovascular Hypertension (in some cases severe), orthostatic hypotension, third degree heart block.
+Cardiovascular Hypertension (in some cases severe), orthostatic hypotension, third degree heart bloc, and Brugada pattern/syndrome.
 
 Endocrine Hyponatremia, syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
 
@@ -131,6 +131,6 @@ Musculoskeletal Muscle rigidity/fever/rhabdomyolysis, muscle weakness.
 
 Nervous System Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, parkinsonism, restlessness, suicide attempt, unmasking of tardive dyskinesia.
 
-Skin and Appendages Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria, acute generalized exanthematous pustulosis.
+Skin and Appendages Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Special Senses Tinnitus, increased intraocular pressure.

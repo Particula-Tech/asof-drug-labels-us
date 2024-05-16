@@ -27,8 +27,7 @@ Patients treated concomitantly with bupropion hydrochloride tablets and such dru
 Digoxin
 
 Coadministration of bupropion hydrochloride with digoxin may decrease plasma digoxin levels.
-Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride and digoxin [see Clinical Pharmacology (Error!
-Hyperlink reference not valid.)].
+Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride and digoxin [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Drugs that Lower Seizure Threshold
 

@@ -11,7 +11,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although bupropion hydrochloride tablets are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN ® which is approved for this use.
+Although bupropion hydrochloride tablets are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN ®which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
 
 Instruct patients to discontinue bupropion and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].
@@ -35,7 +35,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that bupropion hydrochloride tablets contains the same active ingredient (bupropion hydrochloride) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride tablets should not be used in combination with ZYBAN or any other medications that contain bupropion (such as WELLBUTRIN SR ®, the sustained-release formulation and WELLBUTRIN XL ® or FORFIVO XL ®, the extended-release formulations, and APLENZIN ®, the extended-release formulation of bupropion hydrobromide).
+Educate patients that bupropion hydrochloride tablets contains the same active ingredient (bupropion hydrochloride) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride tablets should not be used in combination with ZYBAN or any other medications that contain bupropion (such as WELLBUTRIN SR ®, the sustained-release formulation and WELLBUTRIN XL ®or FORFIVO XL ®, the extended-release formulations, and APLENZIN ®, the extended-release formulation of bupropion hydrobromide).
 In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -64,15 +64,8 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that bupropion hydrochloride tablets should be swallowed whole and not crushed, divided, or chewed.
 Bupropion hydrochloride tablets can be taken with or without food.
 
-ZYBAN ® is a registered trademark of GlaxoSmithKline.
-
-WELLBUTRIN SR ® is a registered trademark of GlaxoSmithKline.
-
-WELLBUTRIN XL ® is a registered trademark of GlaxoSmithKline.
-
-FORFIVO XL ® is a registered trademark of Edgemont Pharms LLC
-
-APLENZIN ® is a registered trademark of Sanofi Aventis U.S. LLC APOTEX INC.
+All registered trademarks in this document are the property of their respective owners.
+APOTEX INC.
 
 BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 
@@ -82,7 +75,7 @@ BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 03/2023
+Revised: 03/2024
 
 Rev.
-20
+21
