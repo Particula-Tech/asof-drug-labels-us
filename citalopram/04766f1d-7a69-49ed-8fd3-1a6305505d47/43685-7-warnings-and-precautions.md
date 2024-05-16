@@ -3,7 +3,7 @@
 ## 5.1 Suicidal Thoughts and Behavior in Adolescents and Young Adults
 
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients, and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
-There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk indentified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
 The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 1.
 
@@ -38,7 +38,7 @@ Citalopram tablets should also be avoided in patients who are taking other drugs
 Such drugs include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
 
 The citalopram dose should be limited in certain populations.
-The maximum dose should be limited to 20 mg once daily in patients who are CYP2C19 poor metabolizers or those patients receiving concomitant cimetidine or another CYP2C19 inhibitor, since higher citalopram exposures would be expected.
+The maximum dose should be limited to 20 mg once daily in patients who are CYP2C19 poor metabolizers or those patients receiving concomitant cimetidine or another CYP2C19 inhibitor, since higher Citalopram exposures would be expected.
 The maximum dose should also be limited to 20 mg once daily in patients with hepatic impairment and in patients who are greater than 60 years of age because of expected higher exposures [see Dosage and Administration (2.3, 2.4), Drug Interactions (7), Use in Specific Populations (8.5), Clinical Pharmacology (12.3)].
 
 Electrolyte and/or ECG monitoring is recommended in certain circumstances.

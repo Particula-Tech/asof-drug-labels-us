@@ -23,7 +23,7 @@ The maximum recommended dosage of citalopram tablets when used concomitantly wit
 At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of therapy with citalopram tablets.
 Conversely, at least 14 days must elapse after stopping citalopram tablets before starting an MAOI antidepressant [see Contraindications (4) and Warnings and Precautions (5.3)].
 
-## 2.6 Discontinuing Treatment with Citalopram Tablets
+## 2.6 Discontinuing Treatment with Citalopram tablets
 
 Adverse reactions may occur upon discontinuation of citalopram tablets [see Warnings and Precautions (5.6)].
 Gradually reduce the dosage rather than stopping citalopram tablets abruptly whenever possible.

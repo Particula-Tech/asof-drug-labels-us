@@ -38,6 +38,4 @@ Bottle of 2800 NDC 13668-011-08
 
 Tan coloured, oval shaped, biconvex film coated tablets with ‘4│0’ debossed (‘4’ on left side and ‘0’ on right side of the break line) on one side and ‘1011’ on the other side.
 
-Storage and Handling
-
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

@@ -13,8 +13,8 @@ Citalopram has no or very low affinity for 5-HT 1A, 5-HT 2A, dopamine D 1 and D 
 Cardiac Electrophysiology
 
 Individually corrected QT c (QT cNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
-The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21.0) msec for 20 mg and 60 mg (1.5 times the maximum recommended dosage) citalopram, respectively.
-Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec [see Warnings and Precautions (5.2)].
+The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21.0) msec for 20 mg and 60 mg (1.5 times the maxium recommended dosage) citalopram, respectively.
+Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the C max for the dose of 40 mg is 12.6 (14.3) msec [see Warnings and Precautions (5.2)].
 
 ## 12.3 Pharmacokinetics
 
