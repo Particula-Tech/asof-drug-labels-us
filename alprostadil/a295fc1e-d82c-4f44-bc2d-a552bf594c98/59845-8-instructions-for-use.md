@@ -46,10 +46,10 @@ Prepare the Syringe
 | Step 6. |  |
 | Wipe the rubber stoppers on the vials of CAVERJECT and diluent with 1 alcohol swab. Throw away the alcohol swab. |  |
 | Step 7. |  |
-| Carefully hold the syringe by the barrel and remove the needle cover (Figure H). •Do not discard the needle cover, you will need to use it again (see Error! Hyperlink reference not valid.). •Do not touch the needle. | Figure H: Remove the needle cover |
+| Carefully hold the syringe by the barrel and remove the needle cover (Figure H). •Do not discard the needle cover, you will need to use it again (see step 13).•Do not touch the needle. | Figure H: Remove the needle cover |
 | Step 8. |  |
 | Hold the syringe with the needle attached and push the needle through the center of the diluent vial's rubber stopper (Figure I). Be careful not to bend the needle. | Figure I: Push the needle into the diluent vial |
-| •Keeping the needle in the vial, firmly hold the vial and syringe upside down in one hand (see Error! Hyperlink reference not valid.).•Keep the needle tip below the level of the liquid and pull back on the syringe plunger until all the diluent is removed from vial. | Figure J: Remove the liquid from the vial |
+| •Keeping the needle in the vial, firmly hold the vial and syringe upside down in one hand (see Figure J).•Keep the needle tip below the level of the liquid and pull back on the syringe plunger until all the diluent is removed from vial. | Figure J: Remove the liquid from the vial |
 | Step 9. |  |
 | Push the syringe plunger to the 1mL mark on the syringe. This will remove air and extra liquid back into vial. Grasp the side of the syringe barrel (not the plunger) and pull the needle from the diluent vial in a straight line to avoid bending the needle (Figure K). | Figure K: Adjust the amount of liquid in the syringe |
 | Step 10. |  |
@@ -57,18 +57,18 @@ Prepare the Syringe
 | Step 11. |  |
 | Without removing the needle or touching the needle or stopper, gently swirl (do not shake) the vial until all the powder is dissolved in the liquid. Then turn the vial and needle/syringe upside down and gently swirl the vial to dissolve any powder in the neck of the vial. Do not use the solution if it is cloudy, colored, or contains particles. |  |
 | Step 12. |  |
-| Keeping the needle in the vial, firmly hold the vial and syringe upside down in one hand. •Keeping the needle tip below the level of the liquid, slowly pull back on the syringe plunger until all the liquid is removed from the vial (see Error! Hyperlink reference not valid.). | Figure M: Remove the liquid from the vial |
+| Keeping the needle in the vial, firmly hold the vial and syringe upside down in one hand. •Keeping the needle tip below the level of the liquid, slowly pull back on the syringe plunger until all the liquid is removed from the vial (see Figure M). | Figure M: Remove the liquid from the vial |
 | Step 13. |  |
-| If there are air bubbles, gently tap the syringe barrel until the bubbles float to the top of the liquid (see Error! Hyperlink reference not valid.). •Holding the syringe upright, push the syringe plunger to the correct volume mark for the dose prescribed by your healthcare provider. This will remove any air and extra liquid into the vial.•Grasp the syringe barrel (not the plunger) and pull the needle/syringe straight out of the vial of CAVERJECT in a straight line to avoid and be sure not to bend the needle.•Carefully replace the needle cover over the needle that you used to mix the liquid. | Figure N: Tap the syringe barrel to remove air bubbles |
+| If there are air bubbles, gently tap the syringe barrel until the bubbles float to the top of the liquid (see Figure N). •Holding the syringe upright, push the syringe plunger to the correct volume mark for the dose prescribed by your healthcare provider. This will remove any air and extra liquid into the vial.•Grasp the syringe barrel (not the plunger) and pull the needle/syringe straight out of the vial of CAVERJECT in a straight line to avoid and be sure not to bend the needle.•Carefully replace the needle cover over the needle that you used to mix the liquid. | Figure N: Tap the syringe barrel to remove air bubbles |
 | Step 14. |  |
 | Carefully replace the needle used to mix the liquid with a new 29 to 30 gauge one half inch needle for your injection. •Remove the old needle from the syringe and immediately throw it away in an FDA-cleared sharps disposal container.•Unwrap the new needle as in step 2.•Attach the new needle as in step 3. Set the syringe down on a level surface. |  |
 | How to give the injection •Make yourself comfortable. You should be sitting upright or slightly reclined when injecting CAVERJECT.•Make sure that the needle is not bent. If it is, do not use it. Do not attempt to straighten the needle out. Properly throw away any bent needles. |  |
 | STEP 15. |  |
-| The injection will go into the part of the penis shown as the shaded area in Figure O. Do not inject CAVERJECT into the white areas because there may be blood vessels in the white areas. (See Error! Hyperlink reference not valid.). •The correct injection angle and depth of injection is shown in Figure P.•With each injection of CAVERJECT change the side of the shaft of the penis, and choose a different location for each injection, as shown in the shaded area in Figure O. | Figure O: Top view of the penis showing injection sites (shaded areas). Figure P: Cross-section of the penis |
+| The injection will go into the part of the penis shown as the shaded area in Figure O. Do not inject CAVERJECT into the white areas because there may be blood vessels in the white areas. (See Figure P). •The correct injection angle and depth of injection is shown in Figure P.•With each injection of CAVERJECT change the side of the shaft of the penis, and choose a different location for each injection, as shown in the shaded area in Figure O. | Figure O: Top view of the penis showing injection sites (shaded areas). Figure P: Cross-section of the penis |
 | Step 16. |  |
 | Wipe the area for injection with an alcohol swab and let it dry. |  |
 | Step 17. |  |
-| Do not throw away the swab; you will need to use it again after you give your injection. (See Error! Hyperlink reference not valid.). |  |
+| Do not throw away the swab; you will need to use it again after you give your injection. (See Step 23). |  |
 | Step 18. |  |
 | If your penis is not circumcised, pull the foreskin back. Take hold of the tip of your penis with your thumb and forefinger; stretch it lengthwise along your thigh. |  |
 | Step 19. |  |
@@ -76,7 +76,7 @@ Prepare the Syringe
 | Step 20. |  |
 | Remove the cover from the needle. Position your penis firmly against your thigh to keep it from moving during the injection. |  |
 | Step 21. |  |
-| Keeping a firm grip on your penis, take the syringe in your other hand, and push the needle straight into the selected injection site (See Error! Hyperlink reference not valid.). •Refer to Figure P for the correct angle and depth of injection.•Do not inject CAVERJECT into veins or other blood vessels (the white areas in Figure O). | Figure Q: Insert the needle into the injection site |
+| Keeping a firm grip on your penis, take the syringe in your other hand, and push the needle straight into the selected injection site (See Figure Q). •Refer to Figure P for the correct angle and depth of injection.•Do not inject CAVERJECT into veins or other blood vessels (the white areas in Figure O). | Figure Q: Insert the needle into the injection site |
 | Step 22. |  |
 | Holding the syringe barrel between two fingers, move your thumb or finger to the top of the plunger and, with a steady motion, push down on the plunger so that the entire contents of the syringe is slowly injected (Figure R). | Figure R: Inject the contents of the syringe. |
 | Step 23. |  |
