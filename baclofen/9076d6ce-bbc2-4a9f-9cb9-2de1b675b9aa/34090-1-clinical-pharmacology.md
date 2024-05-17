@@ -4,7 +4,7 @@
 
 The precise mechanism of action of baclofen is not fully understood.
 Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect.
-Baclofen is a structural analog of the inhibitory neurotransmitter gamma- aminobutyric acid (GABA) and may exert its effects by stimulation of the GABAB receptor subtype.
+Baclofen is a structural analog of the inhibitory neurotransmitter gamma- aminobutyric acid (GABA) and may exert its effects by stimulation of the GABA Breceptor subtype.
 
 ## 12.2 Pharmacodynamics
 
@@ -20,7 +20,7 @@ The peak plasma concentrations of baclofen were achieved in about 1 hour from ad
 
 Effect of Food
 
-Administration of FLEQSUVY with a high-fat meal resulted in 9% decrease in AUC and 33% decrease in Cmax compared to the fasted state.
+Administration of FLEQSUVY with a high-fat meal resulted in 9% decrease in AUC and 33% decrease in C maxcompared to the fasted state.
 
 Elimination
 

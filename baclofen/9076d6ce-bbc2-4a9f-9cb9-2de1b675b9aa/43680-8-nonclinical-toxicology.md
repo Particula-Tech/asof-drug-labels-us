@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-No increase in tumors was seen in rats receiving baclofen orally for two years at approximately 30 to 60 times on a mg/kg basis, or 10 to 20 times on a mg/m2 basis, the maximum oral dose recommended for human use.
+No increase in tumors was seen in rats receiving baclofen orally for two years at approximately 30 to 60 times on a mg/kg basis, or 10 to 20 times on a mg/m 2basis, the maximum oral dose recommended for human use.
 
 Mutagenesis
 

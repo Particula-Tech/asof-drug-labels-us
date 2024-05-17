@@ -3,7 +3,7 @@
 FLEQSUVY (baclofen oral suspension) is a gamma-aminobutyric acid (GABA-ergic) agonist available as 25 mg per 5 mL (5 mg/mL) suspension for oral administration.
 Its chemical name is 4-amino-3-(4-chlorophenyl)-butanoic acid, and its structural formula is:
 
-Molecular formula is C10H12C1NO2.
+Molecular formula is C 10H 12C1NO 2.
 Molecular Weight is 213.66 g/mol.
 
 Baclofen USP is a white to off-white, odorless or practically odorless crystalline powder.
