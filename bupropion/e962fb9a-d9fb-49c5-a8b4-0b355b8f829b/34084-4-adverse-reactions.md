@@ -165,7 +165,7 @@ These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
 ### Cardiovascular
 
-Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, and pulmonary embolism.
+Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, pulmonary embolism, and Brugada pattern/syndrome.
 
 ### Digestive
 
@@ -196,9 +196,9 @@ Abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, comple
 
 Pneumonia.
 
-### Skin
+### Skin and Subcutaneous Tissue Disorders
 
-Alopecia, angioedema, exfoliative dermatitis, hirsutism, Stevens-Johnson syndrome, and acute generalized exanthematous pustulosis.
+Alopecia, angioedema, exfoliative dermatitis, hirsutism, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 ### Special Senses
 
