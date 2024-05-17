@@ -8,7 +8,8 @@ The following clinically significant adverse reactions are described elsewhere i
 - Hypertension [see Warnings and Precautions (5.4)]
 - Cytopenias [see Warnings and Precautions (5.5)]
 - Second Primary Malignancies [see Warnings and Precautions (5.6)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.7)]
+- Hepatotoxicity, including DILI [see Warnings and Precautions (5.7)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -608,7 +609,7 @@ The median time from onset to resolution was 37 days (range, 1 to 457) versus 26
 The following adverse reactions have been identified during postapproval use of IMBRUVICA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Hepatobiliary disorders: hepatic failure including acute and/or fatal events, hepatic cirrhosis
+- Hepatobiliary disorders: hepatic failure including acute and/or fatal events, hepatic cirrhosis, drug-induced liver injury
 - Respiratory disorders: interstitial lung disease
 - Metabolic and nutrition disorders: tumor lysis syndrome
 - Immune system disorders: anaphylactic shock, angioedema, urticaria

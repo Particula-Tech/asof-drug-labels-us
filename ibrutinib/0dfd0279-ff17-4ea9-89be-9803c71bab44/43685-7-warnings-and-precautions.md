@@ -59,13 +59,22 @@ Monitor complete blood counts monthly.
 Other malignancies (10%), including non-skin carcinomas (3.9%), occurred among the 1,476 patients with B-cell malignancies who received IMBRUVICA in clinical trials [see Adverse Reactions (6.1)].
 The most frequent second primary malignancy was non-melanoma skin cancer (6%).
 
-## 5.7 Tumor Lysis Syndrome
+## 5.7 Hepatotoxicity, Including Drug-Induced Liver Injury
+
+Hepatotoxicity, including severe, life-threatening, and potentially fatal cases of drug-induced liver injury (DILI), has occurred in patients treated with Bruton tyrosine kinase inhibitors, including IMBRUVICA.
+
+Evaluate bilirubin and transaminases at baseline and throughout treatment with IMBRUVICA.
+For patients who develop abnormal liver tests after IMBRUVICA, monitor more frequently for liver test abnormalities and clinical signs and symptoms of hepatic toxicity.
+If DILI is suspected, withhold IMBRUVICA.
+Upon confirmation of DILI, discontinue IMBRUVICA.
+
+## 5.8 Tumor Lysis Syndrome
 
 Tumor lysis syndrome has been infrequently reported with IMBRUVICA [see Adverse Reactions (6.2)].
 Assess the baseline risk (e.g., high tumor burden) and take appropriate precautions.
 Monitor patients closely and treat as appropriate.
 
-## 5.8 Embryo-Fetal Toxicity
+## 5.9 Embryo-Fetal Toxicity
 
 Based on findings in animals, IMBRUVICA can cause fetal harm when administered to a pregnant woman.
 Administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis caused embryo-fetal toxicity including malformations at exposures that were 3-20 times higher than those reported in patients with hematologic malignancies.

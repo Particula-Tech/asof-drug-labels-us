@@ -16,10 +16,15 @@ Hypertension: Inform patients that high blood pressure has occurred in patients 
 
 Second primary malignancies: Inform patients that other malignancies have occurred in patients who have been treated with IMBRUVICA, including skin cancers and other carcinomas [see Warnings and Precautions (5.6)].
 
-Tumor lysis syndrome: Inform patients of the potential risk of tumor lysis syndrome and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.7)].
+Hepatotoxicity, including drug-induced liver injury:
+
+Inform patients that liver problems, including drug-induced liver injury and abnormalities in liver tests, may develop during IMBRUVICA treatment.
+Advise patients to contact their healthcare provider immediately if they experience abdominal discomfort, dark urine, or jaundice [see Warnings and Precautions (5.7)].
+
+Tumor lysis syndrome: Inform patients of the potential risk of tumor lysis syndrome and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.8)].
 
 Embryo-fetal toxicity: Advise women of the potential risk to a fetus.
-Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8), Use in Specific Populations (8.1)].
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.9), Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month after the last dose [see Use in Specific Populations (8.3)].
 Advise males with female partners of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month after the last dose [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 
@@ -48,4 +53,4 @@ Patent http://www.imbruvica.com IMBRUVICA® is a registered trademark owned by P
 
 © Pharmacyclics LLC 2024 © Janssen Biotech, Inc. 2024
 
-20080492
+20085244
