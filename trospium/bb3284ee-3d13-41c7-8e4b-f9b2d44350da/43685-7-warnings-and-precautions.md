@@ -13,7 +13,7 @@ If involvement of the tongue, hypopharynx, or larynx occurs, Trospium Chloride T
 
 ## 5.3 Decreased Gastrointestinal Motility
 
-Trospium Chloride Tablets should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (see CONTRAINDICATIONS (4)).
+Trospium Chloride Tablets should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention [see CONTRAINDICATIONS (4)].
 Trospium Chloride Tablets, like other antimuscarinic agents, may decrease gastrointestinal motility and should be used with caution in patients with conditions such as ulcerative colitis, intestinal atony and myasthenia gravis.
 
 ## 5.4 Controlled Narrow-angle Glaucoma

@@ -98,7 +98,7 @@ It may harm them.
 This leaflet summarizes the most important information about Trospium Chloride Tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Trospium Chloride Tablets that is written for health professionals.
-You can also call Perrigo's product information department at 1-800-328-5113.
+You can also call Padagis’ product information department at 1-866-634-9120.
 
 What are the ingredients in Trospium Chloride Tablets?
 
@@ -106,8 +106,8 @@ Active Ingredient: trospium chloride.
 
 Inactive Ingredients: microcrystalline cellulose, lactose monohydrate, calcium carbonate, croscarmellose sodium, povidone, hypromellose, talc, stearic acid, titanium dioxide, colloidal silicon dioxide, magnesium stearate and polyethylene glycol 3350.
 
-Manufactured By Perrigo® Minneapolis, MN 55427
+Rx Only
 
-2202590 03-13 B
+Manufactured by Padagis® Minneapolis, MN 55427 www.padagis.com Rev 04-23 2204613 7R200 RC PH1
 
-Address Medical Inquiries to: 1-800-328-5113
+Address Medical Inquiries to: 1-866-634-9120

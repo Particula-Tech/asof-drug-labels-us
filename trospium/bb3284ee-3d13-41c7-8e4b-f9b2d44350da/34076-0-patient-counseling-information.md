@@ -29,3 +29,9 @@ Patients should be instructed regarding the recommended dosing and administratio
 Patients should be informed that the most common side effects with Trospium Chloride Tablets are dry mouth and constipation and that other less common side effects include trouble emptying the bladder, blurred vision, and heat prostration.
 Because anticholinergics, such as Trospium Chloride Tablets, may produce dizziness or blurred vision, patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until the drug's effects have been determined.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents.
+
+Rx Only
+
+Manufactured by Padagis® Minneapolis, MN 55427 www.padagis.com Rev 04-23 2204613 7R200 RC PH1
+
+Address Medical Inquiries to: 1-866-634-9120

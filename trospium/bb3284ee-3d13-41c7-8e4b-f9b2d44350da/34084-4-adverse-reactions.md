@@ -17,8 +17,7 @@ The single most frequently reported adverse reaction for Trospium Chloride Table
 In the two U.S. studies, dry mouth led to discontinuation in 1.9% of patients treated with Trospium Chloride Tablets 20 mg twice daily.
 For the patients who reported dry mouth, most had their first occurrence of the event within the first month of treatment.
 
-Table 1.
-Incidence (%) of adverse reactions with Trospium Chloride Tablets, reported in ≥ 1% of all patients treated with Trospium Chloride Tablets and more frequent with Trospium Chloride Tablets (20 mg twice daily) than placebo in Studies 1 and 2 combined
+Table 1: Incidence (%) of adverse reactions with Trospium Chloride Tablets, reported in ≥ 1% of all patients treated with Trospium Chloride Tablets and more frequent with Trospium Chloride Tablets (20 mg twice daily) than placebo in Studies 1 and 2 combined
 
 | Adverse Reaction | Placebo (N=590) | Trospium Chloride Tablets 20 mg twice daily (N=591) |
 | --- | --- | --- |
