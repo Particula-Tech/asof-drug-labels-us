@@ -7,7 +7,7 @@ NexJect™ Single-dose Prefilled Syringe
 
 Instructions for use – NexJect Prefilled Syringe
 
-NOTE: To prevent needlestick injuries, do not be recap, purposely bend, or break by hand used ‎needles.
+NOTE: To prevent needlestick injuries, do not recap, purposely bend, or break by hand used ‎needles.
 Do not recap, purposely bend, or break by ‎hand blunt Cannulas.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA

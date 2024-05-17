@@ -12,7 +12,7 @@ Misuse is the intentional use, for therapeutic purposes, of a drug by an ‎indi
 
 Abuse is the intentional non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug, use despite harmful consequences, giving a higher priority to drug use than to other activities and obligations), and possible tolerance or physical dependence.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug, use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
 Misuse and abuse of Hydromorphone Hydrochloride Injection increases ‎risk of overdose, which may lead to ‎central nervous system and ‎respiratory depression, hypotension, seizures, and death.
 The risk is ‎increased with ‎concurrent abuse of Hydromorphone Hydrochloride ‎Injection with alcohol and/or other CNS ‎depressants.‎ Abuse of and addiction to opioids in some individuals may not be ‎accompanied by concurrent ‎tolerance and symptoms of physical ‎dependence.
@@ -46,7 +46,7 @@ Tolerance is a physiological state characterized by a reduced response to ‎a d
 Physical dependence is a state that develops as a result of a physiological ‎adaptation in response to repeated drug use, ‎manifested ‎by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
 Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
-Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid use.
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
 Hydromorphone Hydrochloride Injection should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.6)].
 If Hydromorphone Hydrochloride Injection is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur, typically ‎characterized by restlessness, lacrimation, rhinorrhea, perspiration, chills, myalgia, and mydriasis.

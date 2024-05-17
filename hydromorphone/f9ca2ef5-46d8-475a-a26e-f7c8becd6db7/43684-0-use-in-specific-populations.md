@@ -5,12 +5,10 @@
 Risk Summary
 
 Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
-There are no available data with Hydromorphone Hydrochloride Injection in pregnant women to inform a drug-associated risk for major birth defects and miscarriage or adverse maternal outcomes‎.‎ There are adverse outcomes reported with fetal exposure to opioid analgesics (see Error!
-Hyperlink reference not valid.).
+There are no available data with Hydromorphone Hydrochloride Injection in pregnant women to inform a drug-associated risk for major birth defects and miscarriage or adverse maternal outcomes‎.‎ There are adverse outcomes reported with fetal exposure to opioid analgesics (see Clinical Considerations).
 
 In published animal reproduction studies, neural tube defects were noted following subcutaneous injection of hydromorphone to pregnant hamsters at doses 6.4 times the HDD and soft tissue and skeletal abnormalities were noted following subcutaneous continuous infusion of 3 times the HDD to pregnant mice.
-No malformations were noted at 4 or 40.5 times the HDD in pregnant rats or rabbits, respectively [see Error!
-Hyperlink reference not valid.].
+No malformations were noted at 4 or 40.5 times the HDD in pregnant rats or rabbits, respectively [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.

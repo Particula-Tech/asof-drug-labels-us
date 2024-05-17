@@ -11,7 +11,7 @@ Addiction can occur at recommended dosages and if the drug is misused or abused.
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Hydromorphone Hydrochloride Injection, and monitor all patients receiving Hydromorphone Hydrochloride Injection for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients at increased risk may be prescribed opioids such as Hydromorphone Hydrochloride Injection, but use in such patients necessitates intensive counseling about the risks and proper use of Hydromorphone Hydrochloride Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
+Patients at increased risk may be prescribed opioids such as Hydromorphone Hydrochloride Injection but use in such patients necessitates intensive counseling about the risks and proper use of Hydromorphone Hydrochloride Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
 
 Opioids are sought for nonmedical use and are subject to diversion from ‎legitimate prescribed use.
 Consider these risks when prescribing or dispensing Hydromorphone Hydrochloride Injection.
@@ -58,7 +58,7 @@ Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that management by neonatology experts will be available at delivery [see Use in Specific Populations (8.1)].
 
-## 5.5 OpioidInduced Hyperalgesia and Allodynia
+## 5.5 Opioid-Induced Hyperalgesia and Allodynia
 
 Opioid-Induced Hyperalgesia (OIH) occurs when an opioid analgesic ‎paradoxically causes an increase in pain, or an ‎increase in sensitivity to pain. ‎This condition differs from tolerance, which is the need for increasing doses of ‎opioids to ‎maintain a defined effect [see Dependence (9.3)].
 Symptoms of OIH ‎include (but may not be limited to) increased levels ‎of pain upon opioid dosage ‎increase, decreased levels of pain upon opioid dosage decrease, or pain from ‎ordinarily non‑‎painful stimuli (allodynia).
@@ -77,7 +77,7 @@ Patients with Chronic Pulmonary Disease: Hydromorphone Hydrochloride Injection-t
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Monitor such patients closely, particularly when initiating and titrating Hydromorphone Hydrochloride Injection and when Hydromorphone Hydrochloride Injection is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2,5.3), Drug Interactions (7)].
+Monitor such patients closely, particularly when initiating and titrating Hydromorphone Hydrochloride Injection and when Hydromorphone Hydrochloride Injection is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## 5.7 Adrenal Insufficiency
