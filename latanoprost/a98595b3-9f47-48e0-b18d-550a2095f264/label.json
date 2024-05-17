@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020597"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-419-35"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "latanoprost",
+      "name": "XALATAN"
+    }
+  ],
+  "setid": "a98595b3-9f47-48e0-b18d-550a2095f264",
+  "source": "dailymed"
+}
