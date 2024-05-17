@@ -8,7 +8,7 @@ Subsidence of the ventricular effects may be followed by atrial tachycardia and 
 Myocardial ischemia and infarction, cardiomyopathy, extreme pallor and coldness of the skin, metabolic acidosis due to elevated blood lactic acid levels, and renal insufficiency have also been reported.
 
 Epinephrine is rapidly inactivated in the body and treatment following overdose with epinephrine is primarily supportive.
-Treatment of pulmonary edema consists of a rapidly acting α-adrenergic blocking drug (such as phentolamine mesylate) and respiratory support.
+Treatment of pulmonary edema consists of a rapidly acting alpha-adrenergic blocking drug (such as phentolamine mesylate) and respiratory support.
 Treatment of arrhythmias consists of administration of a beta-adrenergic blocking drug (such as propranolol).
-If necessary, pressor effects may be counteracted by rapidly acting vasodilators or α-adrenergic blocking drugs.
+If necessary, pressor effects may be counteracted by rapidly acting vasodilators or alpha-adrenergic blocking drugs.
 If prolonged hypotension follows such measures, it may be necessary to administer another pressor drug.

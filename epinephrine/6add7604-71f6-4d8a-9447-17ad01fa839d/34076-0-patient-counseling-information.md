@@ -10,9 +10,12 @@ Warn patients with diabetes that they may develop increased blood glucose levels
 Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis.
 Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site.
 [see Warnings and Precautions (5.2)].
-Distributed by:
 
-Made in France.
+Manufactured by:
+
+Cenexi Fontenay-sous-Bois France 94120
+
+For:
 
 Rev.
-05/2022
+10/2023 28068594

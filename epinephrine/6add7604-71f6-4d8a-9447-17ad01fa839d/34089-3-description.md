@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Epinephrine Injection, USP is a clear, colorless, sterile solution containing 1 mg/mL epinephrine, packaged as 1 mL of solution in a single-use amber glass ampule.
-In the 1 mL ampule, each 1 mL of epinephrine solution contains 1 mg epinephrine, 9.0 mg sodium chloride, hydrochloric acid to adjust pH, and water for injection.
+Epinephrine injection, USP is a clear, colorless, sterile solution containing 1 mg/mL epinephrine, packaged as 1 mL of solution in a single-dose amber glass ampule for intravenous, intramuscular and subcutaneous use.
+In the 1 mL ampule, each 1 mL of epinephrine solution contains 1 mg epinephrine, 9 mg sodium chloride, hydrochloric acid to adjust pH, and water for injection.
 The pH range is 2.2 to 5.0.
 
 Epinephrine is a sympathomimetic catecholamine.

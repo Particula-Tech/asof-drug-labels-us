@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each carton contains 10 single-dose ampules containing 1 mg/mL epinephrine injection, USP solution in a 1 mL amber glass ampule.
+Each carton contains 10 single-dose ampules containing 1 mg/mL epinephrine injection, USP as a clear, colorless, sterile solution in a 1 mL amber glass ampule.
 
 NDC 0517-1171-01 1 mL Single-Dose Ampule NDC 0517-1171-10 10 Single-Dose Ampules x 1 mL each
 

@@ -11,7 +11,7 @@ Inject epinephrine intramuscularly or subcutaneously into the anterolateral aspe
 When administering to a child, to minimize the risk of injection related injury, hold the leg firmly in place and limit movement prior to and during an injection.
 The injection may be repeated every 5 to 10 minutes as necessary.
 For intramuscular administration, use a needle long enough (at least 1/2 inch) to ensure the injection is administered into the muscle.
-Monitor the patient clinically for the severity of the allergic reaction and potential cardiac effects of the drug, with repeat doses titrated to effect.
+Monitor the patient clinically for the severity of the allergic reaction and potential cardiac effects of the drug, and repeat as needed.
 Do not administer repeated injections at the same site, as the resulting vasoconstriction may cause tissue necrosis.
 Adults and Children 30 kg (66 lbs) or more: 0.3 to 0.5 mg (0.3 to 0.5 mL) of undiluted epinephrine administered intramuscularly or subcutaneously in the anterolateral aspect of the thigh, up to a maximum of 0.5 mg (0.5 mL) per injection, repeated every 5 to 10 minutes as necessary.
 Monitor clinically for reaction severity and cardiac effects.
@@ -30,7 +30,7 @@ Avoid using a catheter tie-in technique, because the obstruction to blood flow a
 Avoid the veins of the leg in elderly patients or in those suffering from occlusive vascular diseases.
 
 To provide hemodynamic support in septic shock associated hypotension in adult patients, the suggested dosing infusion rate of intravenously administered epinephrine is 0.05 to 2 mcg/kg/min, and is titrated to achieve a desired mean arterial pressure (MAP).
-The dosage may be adjusted periodically, such as every 10 - 15 minutes, in increments of 0.05 to 0.2 mcg/kg/min, to achieve the desired blood pressure goal.
+The dosage may be adjusted periodically, such as every 10 to 15 minutes, in increments of 0.05 to 0.2 mcg/kg/min, to achieve the desired blood pressure goal.
 
 After hemodynamic stabilization, wean incrementally over time, such as by decreasing doses of epinephrine every 10 minutes to determine if the patient can tolerate gradual withdrawal.
 

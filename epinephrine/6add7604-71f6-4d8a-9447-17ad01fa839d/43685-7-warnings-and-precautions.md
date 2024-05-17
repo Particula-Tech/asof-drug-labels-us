@@ -12,7 +12,7 @@ Injection into the buttock may not provide effective treatment of anaphylaxis an
 
 Do not inject into digits, hands, or feet.
 Epinephrine is a strong vasoconstrictor.
-Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area and has been associated with tissue necrosis.
+Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area and tissue necrosis.
 
 ## 5.2 Serious Infections at the Injection Site
 
