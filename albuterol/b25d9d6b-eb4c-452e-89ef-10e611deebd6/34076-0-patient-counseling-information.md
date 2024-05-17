@@ -47,6 +47,6 @@ Manufactured by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-VNT-PS:4PI
+VNT-PS:5PI

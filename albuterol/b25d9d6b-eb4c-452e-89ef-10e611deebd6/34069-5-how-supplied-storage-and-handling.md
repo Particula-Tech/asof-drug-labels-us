@@ -15,7 +15,7 @@ The counter starts at 204 and counts down each time a spray is released.
 The correct amount of medication in each actuation cannot be assured after the counter reads 000, even though the canister is not completely empty and will continue to operate.
 The inhaler should be discarded when the counter reads 000.
 
-Contents Under Pressure
+Contents under Pressure
 
 Do not puncture.
 Do not use or store near heat or open flame.

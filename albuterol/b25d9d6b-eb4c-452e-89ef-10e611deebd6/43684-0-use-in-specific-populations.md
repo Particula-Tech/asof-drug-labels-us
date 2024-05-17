@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy.
-For more information, contact the MotherToBaby Pregnancy Studies conducted by the Organization of Teratology Information Specialists at 1‑877-311-8972 or visit https://mothertobaby.org/ongoing-study/asthma/.
+For more information, contact the MotherToBaby Pregnancy Studies conducted by the Organization of Teratology Information Specialists at 1‑877-311-8972 or visit https://mothertobaby.org/ongoing-study/asthma.
 
 Risk Summary
 
