@@ -48,5 +48,3 @@ Pregnancy
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
-
-T2020-95

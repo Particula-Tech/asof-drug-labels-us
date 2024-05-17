@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described below and elsewhere in the labeling:
+The following clinically significant adverse reactions are described below and elsewhere in the labeling:
 
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
-- Skin Reactions [see Warnings and Precautions (5.3)]
-- Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.4)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
+- •Skin Reactions [see Warnings and Precautions (5.3)]
+- •Other Adverse Reactions from Increased Cholinergic Activity [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -37,25 +37,25 @@ The unapproved 17.4 mg/24 hours EXELON PATCH arm is included to demonstrate the 
 
 Table 1: Proportion of Adverse Reactions Observed With a Frequency of Greater Than or Equal to 2% and Occurring at a Rate Greater Than Placebo in Study 1
 
-|  | EXELON PATCH 9.5 mg/24 hours | EXELON PATCH 17.4 mg/24 hours | EXELON Capsule 6 mg twice daily | Placebo |
+| Adverse reaction | EXELON PATCH 9.5 mg/24 hours | EXELON PATCH 17.4 mg/24 hours | EXELON Capsule 6 mg twice daily | Placebo |
 | --- | --- | --- | --- | --- |
-| Total Patients Studied | 291 | 303 | 294 | 302 |
-| Total Percentage of Patients with ARs (%) | 51 | 66 | 63 | 46 |
+| Total patients studied | 291 | 303 | 294 | 302 |
+| Total percentage of patients with ARs (%) | 51 | 66 | 63 | 46 |
 | Nausea | 7 | 21 | 23 | 5 |
 | Vomiting* | 6 | 19 | 17 | 3 |
 | Diarrhea | 6 | 10 | 5 | 3 |
 | Depression | 4 | 4 | 4 | 1 |
 | Headache | 3 | 4 | 6 | 2 |
 | Anxiety | 3 | 3 | 2 | 1 |
-| Anorexia/Decreased Appetite | 3 | 9 | 9 | 2 |
-| Weight Decreased** | 3 | 8 | 5 | 1 |
+| Anorexia/Decreased appetite | 3 | 9 | 9 | 2 |
+| Weight decreased** | 3 | 8 | 5 | 1 |
 | Dizziness | 2 | 7 | 7 | 2 |
-| Abdominal Pain | 2 | 4 | 1 | 1 |
-| Urinary Tract Infection | 2 | 2 | 1 | 1 |
+| Abdominal pain | 2 | 4 | 1 | 1 |
+| Urinary tract infection | 2 | 2 | 1 | 1 |
 | Asthenia | 2 | 3 | 6 | 1 |
 | Fatigue | 2 | 2 | 1 | 1 |
 | Insomnia | 1 | 4 | 2 | 2 |
-| Abdominal Pain Upper | 1 | 3 | 2 | 2 |
+| Abdominal pain upper | 1 | 3 | 2 | 2 |
 | Vertigo | 0 | 2 | 1 | 1 |
 | Abbreviation: ARs, adverse reactions. *Vomiting was severe in 0% of patients who received EXELON PATCH 9.5 mg/24 hours, 1% of patients who received EXELON PATCH 17.4 mg/24 hours, 1% of patients who received the EXELON Capsule at doses up to 6 mg twice daily, and 0% of those who received placebo. **Weight Decreased as presented in Table 1 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was also monitored at prespecified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 8% of those treated with EXELON PATCH 9.5 mg/24 hours, 12% of those treated with EXELON PATCH 17.4 mg/24 hours, 11% of patients who received the EXELON Capsule at doses up to 6 mg twice daily and 6% of those who received placebo. It is not clear how much of the weight loss was associated with anorexia, nausea, vomiting, and the diarrhea associated with the drug. |  |  |  |  |
 
@@ -73,16 +73,16 @@ Discontinuation Rates
 
 Table 2 displays the most common adverse reactions leading to discontinuation during the 48-week, double-blind treatment phase in Study 2.
 
-Table 2: Proportion of Most Common Adverse Reactions (greater than 1% at any dose) Leading to Discontinuation During 48-week Double-Blind Treatment Phase in Study 2
+Table 2: Proportion of Most Common Adverse Reactions (Greater Than 1% at any Dose) Leading to Discontinuation During 48-week Double-Blind Treatment Phase in Study 2
 
-|  | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours | Total |
-| --- | --- | --- | --- |
-| Total Patients Studied | 280 | 283 | 563 |
-| Total Percentage of Patients with ARs Leading to Discontinuation (%) | 9.6 | 12.7 | 11.2 |
-| Vomiting | 1.4 | 0.4 | 0.9 |
-| Application-site pruritus | 1.1 | 1.1 | 1.1 |
-| Aggression | 0.4 | 1.1 | 0.7 |
-| Abbreviation: ARs, adverse reactions. |  |  |  |
+| Adverse reaction | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours | Total |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Total patients studied | 280 | 283 | 563 |  |  |  |  |  |
+| Total percentage of patients with ARs leading to discontinuation (%) | 9.6 | 12.7 | 11.2 |  |  |  |  |  |
+| Vomiting | 1.4 | 0.4 | 0.9 |  |  |  |  |  |
+| Application-site pruritus | 1.1 | 1.1 | 1.1 |  |  |  |  |  |
+| Aggression | 0.4 | 1.1 | 0.7 |  |  |  |  |  |
+| Abbreviation: ARs, adverse reactions. |  |  |  |  |  |  |  |  |
 
 Most Common Adverse Reactions Greater than or Equal to 3%
 
@@ -90,34 +90,34 @@ Other adverse reactions of interest which occurred less frequently, but which we
 The percentage of patients with these reactions decreased over time in each treatment group (Table 3).
 The adverse reaction severity profile was generally similar for both the EXELON PATCH 13.3 mg/24 hours and 9.5 mg/24 hours groups.
 
-Table 3: Proportion of Adverse Reactions Over Time in the 48-week Double-Blind Treatment Phase (at least 3% in any treatment group) in Study 2
+Table 3: Proportion of Adverse Reactions Over Time in the 48-week Double-Blind Treatment Phase (at least 3% in any Treatment Group) in Study 2
 
-|  | Cumulative Week 0 to 48 (DB Phase) |  | Week 0 to 24 (DB Phase) |  | Week > 24 to 48 (DB Phase) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Preferred Term | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours |
-| Total Patients Studied | 280 | 283 | 280 | 283 | 241 | 246 |
-| Total Percentage of Patients with ARs (%) | 75 | 68 | 65 | 55 | 42 | 40 |
-| Nausea | 12 | 5 | 10 | 4 | 4 | 2 |
-| Vomiting | 10 | 5 | 9 | 3 | 3 | 2 |
-| Fall | 8 | 6 | 4 | 4 | 4 | 3 |
-| Weight decreased* | 7 | 3 | 3 | 1 | 5 | 2 |
-| Application-site erythema | 6 | 6 | 6 | 5 | 1 | 2 |
-| Decreased appetite | 6 | 3 | 5 | 2 | 2 | < 1 |
-| Diarrhea | 6 | 5 | 5 | 4 | 2 | < 1 |
-| Urinary tract infection | 5 | 4 | 3 | 3 | 3 | 2 |
-| Agitation | 5 | 5 | 4 | 3 | 1 | 2 |
-| Depression | 5 | 5 | 3 | 3 | 3 | 2 |
-| Dizziness | 4 | 1 | 3 | < 1 | 2 | < 1 |
-| Application-site pruritus | 4 | 4 | 4 | 3 | < 1 | 1 |
-| Headache | 4 | 4 | 4 | 4 | < 1 | < 1 |
-| Insomnia | 4 | 3 | 2 | 1 | 3 | 2 |
-| Abdominal pain upper | 4 | 1 | 3 | 1 | 1 | < 1 |
-| Anxiety | 4 | 3 | 2 | 2 | 2 | 1 |
-| Hypertension | 3 | 3 | 3 | 2 | 1 | 1 |
-| Urinary incontinence | 3 | 2 | 2 | 1 | 1 | < 1 |
-| Psychomotor hyperactivity | 3 | 3 | 2 | 3 | 2 | 1 |
-| Aggression | 2 | 3 | 1 | 3 | 1 | 1 |
-| Abbreviations: DB, double blind; ARs, adverse reactions. *Decreased Weight as presented in Table 3 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was monitored as a vital sign at pre-specified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 15.2% of those treated with EXELON PATCH 9.5 mg/24 hours and 18.6% of those treated with EXELON PATCH 13.3 mg/24 hours during the 48-week double-blind treatment period. |  |  |  |  |  |  |
+|  | Cumulative Week 0 to 48 (DB Phase) |  | Week 0 to 24 (DB Phase) |  | Week > 24 to 48 (DB Phase) |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adverse reaction | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 9.5 mg/24 hours |  |  |  |  |  |  |  |  |  |
+| Total patients studied | 280 | 283 | 280 | 283 | 241 | 246 |  |  |  |  |  |  |  |  |  |
+| Total percentage of patients with ARs (%) | 75 | 68 | 65 | 55 | 42 | 40 |  |  |  |  |  |  |  |  |  |
+| Nausea | 12 | 5 | 10 | 4 | 4 | 2 |  |  |  |  |  |  |  |  |  |
+| Vomiting | 10 | 5 | 9 | 3 | 3 | 2 |  |  |  |  |  |  |  |  |  |
+| Fall | 8 | 6 | 4 | 4 | 4 | 3 |  |  |  |  |  |  |  |  |  |
+| Weight decreased* | 7 | 3 | 3 | 1 | 5 | 2 |  |  |  |  |  |  |  |  |  |
+| Application-site erythema | 6 | 6 | 6 | 5 | 1 | 2 |  |  |  |  |  |  |  |  |  |
+| Decreased appetite | 6 | 3 | 5 | 2 | 2 | < 1 |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 6 | 5 | 5 | 4 | 2 | < 1 |  |  |  |  |  |  |  |  |  |
+| Urinary tract infection | 5 | 4 | 3 | 3 | 3 | 2 |  |  |  |  |  |  |  |  |  |
+| Agitation | 5 | 5 | 4 | 3 | 1 | 2 |  |  |  |  |  |  |  |  |  |
+| Depression | 5 | 5 | 3 | 3 | 3 | 2 |  |  |  |  |  |  |  |  |  |
+| Dizziness | 4 | 1 | 3 | < 1 | 2 | < 1 |  |  |  |  |  |  |  |  |  |
+| Application-site pruritus | 4 | 4 | 4 | 3 | < 1 | 1 |  |  |  |  |  |  |  |  |  |
+| Headache | 4 | 4 | 4 | 4 | < 1 | < 1 |  |  |  |  |  |  |  |  |  |
+| Insomnia | 4 | 3 | 2 | 1 | 3 | 2 |  |  |  |  |  |  |  |  |  |
+| Abdominal pain upper | 4 | 1 | 3 | 1 | 1 | < 1 |  |  |  |  |  |  |  |  |  |
+| Anxiety | 4 | 3 | 2 | 2 | 2 | 1 |  |  |  |  |  |  |  |  |  |
+| Hypertension | 3 | 3 | 3 | 2 | 1 | 1 |  |  |  |  |  |  |  |  |  |
+| Urinary incontinence | 3 | 2 | 2 | 1 | 1 | < 1 |  |  |  |  |  |  |  |  |  |
+| Psychomotor hyperactivity | 3 | 3 | 2 | 3 | 2 | 1 |  |  |  |  |  |  |  |  |  |
+| Aggression | 2 | 3 | 1 | 3 | 1 | 1 |  |  |  |  |  |  |  |  |  |
+| Abbreviations: DB, double blind; ARs, adverse reactions. *Decreased Weight as presented in Table 3 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was monitored as a vital sign at pre-specified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 15.2% of those treated with EXELON PATCH 9.5 mg/24 hours and 18.6% of those treated with EXELON PATCH 13.3 mg/24 hours during the 48-week double-blind treatment period. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Severe Alzheimer’s Disease
 
@@ -143,26 +143,26 @@ Slightly more patients in the 4.6 mg/24 hours patch group reported mild events t
 Severe adverse reactions were reported at a slightly higher percentage at the higher dose (12.4%) than at the lower-dose (10%) treatment groups.
 With the exception of severe adverse reactions of agitation (13.3 mg: 1.1%; 4.6 mg: 1.4%), fall (13.3 mg: 1.1%) and urinary tract infection (4.6 mg: 1.1%), all adverse reactions reported as severe occurred in less than 1% of patients in either treatment group.
 
-Table 4: Proportion of Adverse Reactions in the 24-week Double-BlindTreatment Phase (at least 5% in any treatment group) in Study 3
+Table 4: Proportion of Adverse Reactions in the 24-week Double-BlindTreatment Phase (at least 5% in any Treatment Group) in Study 3
 
-| Preferred term | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 4.6 mg/24 hours |
-| --- | --- | --- |
-| Total number of patients studied | 355 | 359 |
-| Total percentage of patients with ARs (%) | 75 | 73 |
-| Application-site erythema | 13 | 12 |
-| Agitation | 12 | 14 |
-| Urinary tract infection | 8 | 10 |
-| Fall | 8 | 6 |
-| Insomnia | 7 | 4 |
-| Vomiting | 7 | 3 |
-| Diarrhea | 7 | 5 |
-| Weight decreased* | 7 | 3 |
-| Nausea | 6 | 3 |
-| Depression | 5 | 4 |
-| Decreased appetite | 5 | 1 |
-| Anxiety | 5 | 5 |
-| Hallucination | 2 | 5 |
-| Abbreviation: ARs, adverse reactions. *Weight Decreased as presented in Table 4 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was monitored as a vital sign at prespecified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 11% of those treated with EXELON PATCH 4.6 mg/24 hours and 14.1% of those treated with EXELON PATCH 13.3 mg/24 hours during the 24-week double-blind treatment. |  |  |
+| Adverse reaction | EXELON PATCH 13.3 mg/24 hours | EXELON PATCH 4.6 mg/24 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Total number of patients studied | 355 | 359 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total percentage of patients with ARs (%) | 75 | 73 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Application-site erythema | 13 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Agitation | 12 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Urinary tract infection | 8 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fall | 8 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Insomnia | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 7 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 7 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Weight decreased* | 7 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 6 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Depression | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Decreased appetite | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anxiety | 5 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hallucination | 2 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abbreviation: ARs, adverse reactions. *Weight Decreased as presented in Table 4 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was monitored as a vital sign at prespecified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 11% of those treated with EXELON PATCH 4.6 mg/24 hours and 14.1% of those treated with EXELON PATCH 13.3 mg/24 hours during the 24-week double-blind treatment. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Application-Site Reactions
 
@@ -185,16 +185,16 @@ Adverse reactions are presented in Table 5.
 
 Table 5: Proportion of Adverse Reactions Reported at a Rate Greater Than or Equal to 2% During the Initial 24-Week Period in Study 4
 
-| Adverse Drug Reactions | EXELON PATCH |
+| Adverse reaction | EXELON PATCH |
 | --- | --- |
 | Total patients studied | 288 |
 |  | Percentage (%) |
-| Psychiatric Disorders |  |
+| Psychiatric disorders |  |
 | Insomnia | 6 |
 | Depression | 6 |
 | Anxiety | 5 |
 | Agitation | 3 |
-| Nervous System Disorders |  |
+| Nervous system disorders |  |
 | Tremor | 7 |
 | Dizziness | 6 |
 | Somnolence | 4 |
@@ -202,11 +202,11 @@ Table 5: Proportion of Adverse Reactions Reported at a Rate Greater Than or Equa
 | Bradykinesia | 4 |
 | Cogwheel rigidity | 3 |
 | Dyskinesia | 3 |
-| Gastrointestinal Disorders |  |
+| Gastrointestinal disorders |  |
 | Abdominal pain | 2 |
-| Vascular Disorders |  |
+| Vascular disorders |  |
 | Hypertension | 3 |
-| General Disorders and Administration-site Conditions |  |
+| General disorders and administration-site conditions |  |
 | Fall | 12 |
 | Application-site erythema | 11 |
 | Application-site irritation, pruritus, rash | 3; 5; 2 |
@@ -216,14 +216,14 @@ Table 5: Proportion of Adverse Reactions Reported at a Rate Greater Than or Equa
 
 Additional adverse reactions observed during the 76-week prospective, open-label study in patients with dementia associated with Parkinson’s disease treated with EXELON PATCH: Frequent (those occurring in at least 1/100 patients): dehydration, weight decreased, aggression, hallucination visual.
 
-In patients with dementia associated with Parkinson’s disease, the following adverse drug reactions have only been observed in clinical trials with EXELON Capsules: Frequent: nausea, vomiting, decreased appetite, restlessness, worsening of Parkinson’s disease, bradycardia, diarrhea, dyspepsia, salivary hypersecretion, sweating increased; Infrequent (those occurring between 1/100 to 1/1000 patients): dystonia, atrial fibrillation, atrioventricular block.
+1. In patients with dementia associated with Parkinson’s disease, the following adverse drug reactions have only been observed in clinical trials with EXELON Capsules: Frequent: nausea, vomiting, decreased appetite, restlessness, worsening of Parkinson’s disease, bradycardia, diarrhea, dyspepsia, salivary hypersecretion, sweating increased; Infrequent (those occurring between 1/100 to 1/1000 patients): dystonia, atrial fibrillation, atrioventricular block.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of EXELON Capsules, EXELON Oral Solution, or EXELON PATCH.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac Disorders: Tachycardia
+Cardiac Disorders: Tachycardia, QTc prolongation, torsades de pointes
 
 Hepatobiliary Disorders: Abnormal liver function tests, hepatitis
 

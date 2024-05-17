@@ -80,8 +80,8 @@ Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state
 
 Renal Impairment
 
-No study was conducted with EXELON PATCH in subjects with renal impairment.
-Based on population analysis, creatinine clearance did not show any clear effect on steady-state concentrations of rivastigmine or its metabolite.
+1. No study was conducted with EXELON PATCH in subjects with renal impairment.
+   Based on population analysis, creatinine clearance did not show any clear effect on steady-state concentrations of rivastigmine or its metabolite.
 
 Hepatic Impairment
 
