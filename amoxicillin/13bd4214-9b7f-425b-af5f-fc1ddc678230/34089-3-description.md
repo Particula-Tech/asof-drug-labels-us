@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Formulations of amoxicillin contain amoxicillin, a semisynthetic antibiotic, an analog of ampicillin, with a broad spectrum of bactericidal activity against many Gram-positive and Gram-negative microorganisms.
+Amoxicillin is a semisynthetic antibacterial, an analog of ampicillin, with a broad spectrum of bactericidal activity against many Gram-positive and Gram-negative microorganisms.
 
 Chemically, it is (2S,5R,6R)-6-[(R)-(-)-2-amino-2-(p-hydroxyphenyl)acetamido]-3,3-dimethyl-7-oxo-4- thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid trihydrate.
 It may be represented structurally as:
@@ -17,11 +17,11 @@ Meets USP Dissolution Test 2.
 
 Amoxicillin Tablets, USP:
 
-Each film coated tablet contains 500 mg or 875 mg amoxicillin as the trihydrate.
+Each film coated tablet contains 500 mg or 875 mg of amoxicillin as the trihydrate.
 The tablets are oval-shaped and white to yellowish.
 The 500 mg tablet is unscored, embossed GG-961 on one side and 500 on the other side.
 The 875 mg tablet is scored and embossed GG-962 on one side and 875 on the other side.
-In addition each amoxicillin tablet contains these inactive ingredients: colloidal silicon dioxide, crospovidone, ethylcellulose aqueous dispersion, hypromellose, magnesium stearate, microcrystalline cellulose, sodium starch glycolate, talc, triethyl citrate, and titanium dioxide.
+In addition each amoxicillin tablet contains these inactive ingredients in each 500 mg or 875 mg tablet: colloidal silicon dioxide, crospovidone, ethylcellulose aqueous dispersion, hypromellose, magnesium stearate, microcrystalline cellulose, sodium starch glycolate, talc, triethyl citrate, and titanium dioxide.
 
 Amoxicillin for Oral Suspension, USP:
 

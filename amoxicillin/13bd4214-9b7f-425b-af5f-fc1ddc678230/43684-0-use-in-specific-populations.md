@@ -20,8 +20,17 @@ Caution should be exercised when amoxicillin is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of amoxicillin for the treatment of upper respiratory tract infections, and infections of the
+
+genitourinary tract, skin and skin structure and lower respiratory tract have been established in pediatric patients.
+
+The safety and effectiveness of amoxicillin for the treatment of H.Pylori infection have not been established in pediatric
+
+patients.
+
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
-Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (≤ 3 months) [see Dosage and Administration (2.2).]
+Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (3 months or younger).
+[See Dosage and Administration (2.3).]
 
 ## 8.5 Geriatric Use
 
@@ -33,5 +42,5 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Dosing in Renal Impairment
 
-Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR <30 mL/min).
-See Dosing in Renal Impairment (2.4) for specific recommendations in patients with renal impairment.
+Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR less than 30 mL/min).
+See Dosing in Renal Impairment (2.5) for specific recommendations in patients with renal impairment.

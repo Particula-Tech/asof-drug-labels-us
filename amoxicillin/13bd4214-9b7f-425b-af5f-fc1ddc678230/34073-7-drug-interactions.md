@@ -14,11 +14,11 @@ Adjustments in the dose of oral anticoagulants may be necessary to maintain the 
 ## 7.3 Allopurinol
 
 The concurrent administration of allopurinol and amoxicillin increases the incidence of rashes in patients receiving both drugs as compared to patients receiving amoxicillin alone.
-It is not known whether this potentiation of amoxicillin rashes is due to allopurinol or the hyperuricemia present in these patients.
+It is not known whether this potentiation of rashes is due to allopurinol or the hyperuricemia present in these patients.
 
 ## 7.4 Oral Contraceptives
 
-Amoxicillin may affect the gut flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.
+Amoxicillin may affect the intestinal flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.
 
 ## 7.5 Other Antibacterials
 

@@ -7,5 +7,5 @@ Studies to detect mutagenic potential of amoxicillin alone have not been conduct
 Amoxicillin and clavulanate potassium was nonmutagenic in the Ames bacterial mutation assay, and the yeast gene conversion assay.
 Amoxicillin and clavulanate potassium was weakly positive in the mouse lymphoma assay, but the trend toward increased mutation frequencies in this assay occurred at doses that were also associated with decreased cell survival.
 Amoxicillin and clavulanate potassium was negative in the mouse micronucleus test and in the dominant lethal assay in mice.
-Potassium clavulanate alone was tested in the Ames bacterial mutation assay and in the mouse micronucleus test, and was negative in each of these assays.
+Potassium clavulanate alone was tested in the Ames bacterial mutation assay and in the mouse micronucleus test and was negative in each of these assays.
 In a multi-generation reproduction study in rats, no impairment of fertility or other adverse reproductive effects were seen at doses up to 500 mg/kg (approximately 2 times the 3 g human dose based on body surface area).
