@@ -14,6 +14,7 @@ Glossitis, stomatitis, black “hairy” tongue, nausea, vomiting, enterocolitis
 
 Skin rashes and urticaria have been reported frequently.
 A few cases of exfoliative dermatitis and erythema multiforme have been reported.
+Linear IgA bullous dermatosis has been reported.
 Anaphylaxis is the most serious reaction experienced and has usually been associated with the parenteral dosage form.
 
 Note: Urticaria, other skin rashes, and serum sickness-like reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
