@@ -63,8 +63,8 @@ Infertility
 Advise females of reproductive potential that UZEDY may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-UZE-002
+UZE-003
 
 Manufactured for: Teva Neuroscience, Inc. Parsippany, NJ 07054
 
-©2023 Teva Neuroscience, Inc.
+©2024 Teva Neuroscience, Inc.
