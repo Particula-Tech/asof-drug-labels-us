@@ -18,8 +18,4 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2023-08
-
-Dispense with Patient Information available at:
-
-documents.amneal.com/mg/ppi-sildenafil-tab-20mg.pdf
+04-2024-09

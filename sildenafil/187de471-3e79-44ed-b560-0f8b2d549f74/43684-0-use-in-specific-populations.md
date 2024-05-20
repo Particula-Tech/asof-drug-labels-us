@@ -35,10 +35,10 @@ Limited clinical data during lactation preclude a clear determination of the ris
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of sildenafil citrate have not been established in pediatric patients younger than 1 year of age.
+The safety and effectiveness of sildenafil citrate has not been established in pediatric patients younger than 1 year of age.
 
-New Dosing Regimen in Adults with Pulmonary Arterial Hypertension (PAH) and treatment of PAH in Pediatric Patients (Ages 1 to 17) information are approved for Viatris Specialty LLC’s Revatio (Sildenafil) tablets.
-However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with these information.
+Pediatric use information is approved for Viatris Specialty LLC’s, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

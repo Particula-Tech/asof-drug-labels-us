@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-SUPER-1 (NCT00644605) - Sildenafil Citrate monotherapy [20 mg, 40 mg, and 80 mg three times a day]
+SUPER-1 (NCT00644605) - Sildenafil citrate monotherapy [20 mg, 40 mg, and 80 mg three times a day]
 
-A randomized, double-blind, placebo-controlled study of sildenafil citrate (SUPER-1) was conducted in 277 patients with PAH (defined as a mean pulmonary artery pressure of ≥ 25 mmHg at rest with a pulmonary capillary wedge pressure < 15 mmHg).
+A randomized, double-blind, placebo-controlled study of sildenafil citrate (SUPER-1) was conducted in 277 patients with PAH (defined as a mean pulmonary artery pressure ≥ 25 mmHg at rest with a pulmonary capillary wedge pressure < 15 mmHg).
 Patients were predominantly WHO Functional Classes II to III.
 Allowed background therapy included a combination of anticoagulants, digoxin, calcium channel blockers, diuretics, and oxygen.
 The use of prostacyclin analogues, endothelin receptor antagonists, and arginine supplementation were not permitted.
@@ -78,5 +78,5 @@ Patients were randomized to placebo or sildenafil (20 mg three times a day) in c
 The primary efficacy endpoint was the change from baseline at Week 12 in 6-minute walk distance (6MWD).
 The results indicate that there is no significant difference in mean change from baseline on 6MWD observed between sildenafil 20 mg plus bosentan and bosentan alone.
 
-New Dosing Regimen in Adults with Pulmonary Arterial Hypertension (PAH) and treatment of PAH in Pediatric Patients (Ages 1 to 17) information are approved for Viatris Specialty LLC’s Revatio (Sildenafil) tablets.
-However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with these information.
+Pediatric use information is approved for Viatris Specialty LLC’s, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.

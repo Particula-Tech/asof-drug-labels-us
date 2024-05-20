@@ -31,8 +31,8 @@ Table 1: Most Common Adverse Reactions in Patients Treated with Sildenafil Citra
 
 In a placebo-controlled fixed dose titration study (PACES-1) of sildenafil citrate (starting with recommended dose of 20 mg and increased to 40 mg and then 80 mg all three times a day) as an adjunct to intravenous epoprostenol in patients with PAH, no new safety issues were identified except for edema, which occurred in 25% of subjects in the combined sildenafil citrate + epoprostenol group compared with 13% of subjects in the epoprostenol group [see Clinical Studies (14)].
 
-New Dosing Regimen in Adults with Pulmonary Arterial Hypertension (PAH) and treatment of PAH in Pediatric Patients (Ages 1 to 17) information are approved for Viatris Specialty LLC’s Revatio (Sildenafil) tablets.
-However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with these information.
+Pediatric use information is approved for Viatris Specialty LLC’s, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Post-marketing Experience
 

@@ -35,11 +35,7 @@ Table 2: Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% C
 | RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
 | CO (L/min) | -0.1 (-0.4, 0.2) | 0.4 (0.1, 0.7) |
 | HR (beats/min) | -1.3 (-4.1, 1.4) | -3.7 (-5.9, -1.4) |
-
-mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate. *The number of patients per treatment group varied slightly for each parameter due to missing assessments.
-
-New Dosing Regimen in Adults with Pulmonary Arterial Hypertension (PAH) and treatment of PAH in Pediatric Patients (Ages 1 to 17) information are approved for Viatris Specialty LLC’s Revatio (Sildenafil) tablets.
-However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with these information.
+| mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate. *The number of patients per treatment group varied slightly for each parameter due to missing assessments. |  |  |
 
 Effects of Sildenafil Citrate on Blood Pressure
 
@@ -63,6 +59,9 @@ At single oral doses of 100 mg and 200 mg, transient dose-related impairment of 
 This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina.
 An evaluation of visual function at doses up to 200 mg revealed no effects of sildenafil citrate on visual acuity, intraocular pressure, or pupillometry.
 
+Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 12.3 Pharmacokinetics
 
 Absorption and Distribution
@@ -85,7 +84,7 @@ In healthy volunteers, plasma concentrations of this metabolite are approximatel
 In patients with PAH, however, the ratio of the metabolite to sildenafil is higher.
 Both sildenafil and the active metabolite have terminal half-lives of about 4 hours.
 
-After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of the administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose).
+After oral administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of the administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose).
 
 Population Pharmacokinetics
 
@@ -97,8 +96,10 @@ In patients with PAH, the average steady-state concentrations were 20% to 50% hi
 There was also a doubling of Cmin levels compared to healthy volunteers.
 Both findings suggest a lower clearance and/or a higher oral bioavailability of sildenafil in patients with PAH compared to healthy volunteers.
 
-New Dosing Regimen in Adults with Pulmonary Arterial Hypertension (PAH) and treatment of PAH in Pediatric Patients (Ages 1 to 17) information are approved for Viatris Specialty LLC’s Revatio (Sildenafil) tablets.
-However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with these information.
+Pediatric Patients
+
+Pediatric use information is approved for Viatris Specialty LLC’s, REVATIO (sildenafil) tablets.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Geriatric Patients
 
