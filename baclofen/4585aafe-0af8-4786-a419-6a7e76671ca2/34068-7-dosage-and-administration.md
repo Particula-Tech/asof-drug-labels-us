@@ -22,6 +22,16 @@ Discard unused portion 2 months after first opening.
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
+Nasogastric Tube Administration
+
+Baclofen oral suspension can be administered via a nasogastric (NG) tube at sizes 8 French or larger using the following steps:
+
+1. Ensure the NG feeding tube is flushed with appropriate amount of purified water (15 to 30 mL) prior to administration of baclofen oral suspension.
+2. Draw the required dose of baclofen oral suspension in the appropriate oral or enteral syringe and administer the dose via the feeding tube.
+   The medication may remain in the dosing syringe for up to 4 hours prior to administration.
+3. If residual drug remains in the dosing syringe, draw up purified water into the syringe, shake gently, and administer through the feeding tube.
+4. Flush the feeding tube with at least 25 mL of purified water.
+
 ## 2.4 Discontinuation of Baclofen
 
 When discontinuing baclofen, reduce the dosage slowly and avoid abrupt withdrawn from the drug to help minimize the risk of adverse reactions [see Warnings and Precautions (5.1)].

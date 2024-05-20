@@ -6,9 +6,9 @@ Baclofen Oral Suspension
 
 25 mg per 5 mL (5 mg/mL) Concentrated Formulation
 
-ATTENTION: This is a concentrated baclofen formulation of 25 mg/5 mL (5 mg/mL).
+ATTENTION:This is a concentratedbaclofen formulation of 25 mg/5 mL (5 mg/mL).
 
-Manufactured for: WILSHIRE® PHARMACEUTICALS, INC. Atlanta,GA 30328 USA
+Manufactured for: WILSHIRE ® PHARMACEUTICALS, INC. Atlanta,GA 30328 USA
 
 120 mL
 
