@@ -23,27 +23,21 @@ b. There must be a twitch response to the first stimulus in the TOF of at least 
 
 c. Prior to administration, visually inspect neostigmine methylsulfate injection for particulate matter and discoloration.
 
-d.Neostigmine methylsulfate injection should be injected slowly by intravenous route over a period of at least 1 minute.
+d. Neostigmine methylsulfate injection should be injected slowly by intravenous route over a period of at least 1 minute.
 
 e. A 0.03 mg/kg to 0.07 mg/kg dose of neostigmine methylsulfate injection will generally achieve a TOF twitch ratio of 90% (TOF0.9) within 10 to 20 minutes of administration.
 Dose selection should be based on the extent of spontaneous recovery that has occurred at the time of administration, the half-life of the NMBA being reversed, and whether there is a need to rapidly reverse the NMBA.
 
 • The 0.03 mg/kg dose is recommended for:
 
-I. Reversal of NMBAs with shorter half‐lives, e.g., rocuronium, or
+- Reversal of NMBAs with shorter half‐lives, e.g., rocuronium, or
+- When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
 
-ii.
-When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
+• The 0.07 mg/kg dose is recommended for:
 
-• The 0.07 mg/kg dose is recommended for
-
-iii.
-NMBAs with longer half‐lives, e.g., vecuronium and pancuronium, or
-
-iv.
-When the first twitch response is relatively weak, i.e., not substantially greater than 10% of baseline or
-
-v. There is need for more rapid recovery.
+- NMBAs with longer half‐lives, e.g., vecuronium and pancuronium, or
+- When the first twitch response is relatively weak, i.e., not substantially greater than 10% of baseline or
+- There is need for more rapid recovery.
 
 f. TOF monitoring should continue to be used to evaluate the extent of recovery of neuromuscular function and the possible need for an additional dose of neostigmine methylsulfate injection.
 
@@ -51,7 +45,7 @@ g. TOF monitoring alone should not be relied upon to determine the adequacy of r
 
 h. Patients should continue to be monitored for adequacy of reversal from NMBAs for a period of time that would assure full recovery based on the patient’s medical condition and the pharmacokinetics of neostigmine and the NMBA used.
 
-I. The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
+i. The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
 
 ## 2.3 Dosage in Pediatric Patients, including Neonates
 

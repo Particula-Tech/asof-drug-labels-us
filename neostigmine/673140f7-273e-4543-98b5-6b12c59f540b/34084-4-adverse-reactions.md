@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1. Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,7 +20,7 @@ The following table lists the adverse reactions that occurred with an overall fr
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea, oxygen desaturation <90% |
 | Skin and Subcutaneous Tissue Disorders | pruritus |
 
-## 6.2. Post Marketing Experience
+## 6.2 Post Marketing Experience
 
 The following adverse reactions have been identified during parenteral use of neostigmine methylsulfate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

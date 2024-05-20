@@ -18,7 +18,7 @@ Protein binding of neostigmine methylsulfate to human serum albumin ranges from 
 
 Metabolism: Neostigmine methylsulfate is metabolized by microsomal enzymes in the liver.
 
-Elimination:Following intravenous injection, the reported elimination half-life of neostigmine methylsulfate is between 24 and 113 minutes.
+Elimination: Following intravenous injection, the reported elimination half-life of neostigmine methylsulfate is between 24 and 113 minutes.
 Total body clearance of neostigmine methylsulfate is reported between 1.14 and 16.7 mL/min/kg.
 
 Renal impairment: Elimination half-life of neostigmine methylsulfate was prolonged in anephric patients compared to normal subjects; elimination half-life for normal, transplant and anephric patients were 79.8 ± 48.6, 104.7 ± 64 and 181 ± 54 min (mean ± SD), respectively.
