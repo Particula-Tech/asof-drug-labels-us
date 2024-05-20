@@ -6,4 +6,4 @@ Olopatadine Hydrochloride: Symptoms of antihistamine overdose may include drowsi
 Agitation and restlessness, followed by drowsiness in children.
 Should overdose occur, symptomatic or supportive treatment is recommended.
 
-Mometasone Furoate: Chronic overdosage with any corticosteroid may result in signs or symptoms of hypercorticism [see Warnings and Precautions (5.5)].
+Mometasone Furoate: Chronic overdosage with any corticosteroid may result in signs or symptoms of hypercorticism [see Warnings and Precautions (5.6)].

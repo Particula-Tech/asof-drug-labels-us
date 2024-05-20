@@ -14,5 +14,5 @@ Its partition coefficient between octanol and water is >5000.
 
 RYALTRIS is a nasal spray containing an isotonic aqueous suspension of olopatadine hydrochloride (equivalent to 0.6% w/v olopatadine base) and mometasone furoate monohydrate (equivalent to 0.025% w/w mometasone furoate on the anhydrous basis).
 After initial priming (6 sprays), each metered spray delivers 100 microliters of suspension containing 665 mcg of olopatadine hydrochloride (equivalent to 600 mcg olopatadine base) and 25 mcg of mometasone furoate.
-RYALTRIS also contains benzalkonium chloride, carboxymethyl cellulose sodium, dibasic sodium phosphate heptahydrate, edetate disodium, hydrochloric acid, microcrystalline cellulose, polysorbate 80, sodium chloride, sodium hydroxide, and water for injection.
+RYALTRIS also contains benzalkonium chloride, carboxymethyl cellulose sodium, dibasic sodium phosphate heptahydrate, edetate disodium, hydrochloric acid, microcrystalline cellulose, polysorbate 80, sodium chloride, sodium hydroxide, and water.
 It has a pH of approximately 3.7 [see How Supplied/Storage and Handling (16)].

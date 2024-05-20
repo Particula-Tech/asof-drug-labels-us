@@ -19,7 +19,8 @@ Patients should be advised to avoid concurrent use of RYALTRIS with alcohol or o
 Administration Information
 
 Patients should be instructed to shake the bottle well before each use and prime RYALTRIS before initial use by releasing 6 sprays or until a fine mist appears.
-When RYALTRIS has not been used for 14 days or more, patients should re-prime with 2 sprays or until a fine mist appears.Patients should be instructed to avoid spraying RYALTRIS into their eyes [see Dosage and Administration (2)].
+When RYALTRIS has not been used for 14 days or more, patients should re-prime with 2 sprays or until a fine mist appears.
+Patients should be instructed to avoid spraying RYALTRIS into their eyes [see Dosage and Administration (2)].
 
 Glaucoma and Cataracts
 
@@ -47,8 +48,8 @@ Hikma Specialty USA Inc.
 
 Columbus, OH 43228
 
-RYALTRIS and the RYALTRIS logo are trademarks of Glenmark Specialty SA
+RYALTRIS and the RYALTRIS logo are registered trademarks of Glenmark Specialty SA
 
-Revised: August 2023
+Revised: October 2023
 
 PN 141197

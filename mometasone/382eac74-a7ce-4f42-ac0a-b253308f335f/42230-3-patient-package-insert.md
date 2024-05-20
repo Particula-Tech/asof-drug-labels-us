@@ -72,20 +72,20 @@ RYALTRIS may cause serious side effects, including the following:
   - osores (ulcers) in the nose
   - ohole in the cartilage between your nose (nasal septal perforation).
     Symptoms of nasal septal perforation may include:
-    - ▪crusting in the nose
-    - ▪nosebleeds
-    - ▪runny nose
-    - ▪whistling sound when you breathe
-- •slow wound healing.
+    - •crusting in the nose
+    - •nosebleeds
+    - •runny nose
+    - •whistling sound when you breathe
+- oslow wound healing.
   You should not use RYALTRIS until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.
-- •thrush (Candida), a certain fungal infection in your nose and throat.
+- othrush (Candida), a certain fungal infection in your nose and throat.
   Tell your healthcare provider if you have any redness or white-colored patches in your nose or mouth.
 - •eye problems, including glaucoma or cataracts.
   You should have regular eye exams when using RYALTRIS.
 - •allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following signs of a serious allergic reaction:
 
-| •wheezing•rash•hives | •swelling of your face, mouth, and tongue•breathing problems |
+| owheezingorashohives | oswelling of your face, mouth, and tongueobreathing problems |
 | --- | --- |
 
 - •immune system problems that may increase your risk of infections.
@@ -95,14 +95,14 @@ RYALTRIS may cause serious side effects, including the following:
   If you come in contact with someone who has chicken pox or measles call your healthcare provider right away.
   Symptoms of infection may include:
 
-| •fever•aches or pains | •chills •feeling tired |
+| ofeveroaches or pains | ochills ofeeling tired |
 | --- | --- |
 
 - •adrenal insufficiency.
   Adrenal insufficiency happens when your adrenal glands do not make enough steroid hormones.
   Symptoms of adrenal insufficiency can include:
 
-| •tiredness•weakness•nausea | •vomiting•low blood pressure |
+| otirednessoweaknessonausea | ovomitingolow blood pressure |
 | --- | --- |
 
 - •slowed growth in children.
@@ -145,8 +145,8 @@ What are the ingredients in RYALTRIS?
 
 Active ingredients: olopatadine hydrochloride and mometasone furoate monohydrate
 
-Inactive ingredients: benzalkonium chloride, carboxymethyl cellulose sodium, dibasic sodium phosphate heptahydrate, edetate disodium, hydrochloric acid, microcrystalline cellulose, polysorbate 80, sodium chloride, sodium hydroxide, and water for injection.
+Inactive ingredients: benzalkonium chloride, carboxymethyl cellulose sodium, dibasic sodium phosphate heptahydrate, edetate disodium, hydrochloric acid, microcrystalline cellulose, polysorbate 80, sodium chloride, sodium hydroxide, and water.
 
 For more information, go to www.RYALTRIS.com or call Hikma Specialty USA Inc. at 1‑800‑962-8364.
 
-- This Patient Information has been approved by the U.S. Food and Drug Administration Issued: August 2023
+1. This Patient Information has been approved by the U.S. Food and Drug Administration Issued: October 2023

@@ -93,8 +93,6 @@ Repeat Steps 6 through 8 with 2 sprays in the other nostril.
 
 Step 11.
 To prevent any blockage, wipe the white spray nozzle tip with a clean dry tissue or cloth after each use.
-
-Wipe the white spray nozzletip with a cleandry tissue or cloth.
 (See Figure H)
 
 Figure H
@@ -131,7 +129,7 @@ After soaking the spray nozzle tip for 15 minutes, rinse the spray nozzle unit a
 Figure M
 
 Step 15.
-Place the purple dust cap back on the spray nozzle unit and put spray nozzle unit back on the bottle.
+Place the purple dust cap back on the spray nozzle unit and put the spray nozzle unit back on the bottle.
 (See Figure N)
 
 Figure N
@@ -161,5 +159,5 @@ Hikma Specialty USA Inc. Columbus, OH 43228
 
 RYALTRIS and the RYALTRIS logo are registered trademarks of Glenmark Specialty SA
 
-- This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-  August 2023
+1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+   October 2023
