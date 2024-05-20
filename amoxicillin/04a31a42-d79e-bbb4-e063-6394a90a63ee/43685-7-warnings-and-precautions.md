@@ -12,13 +12,28 @@ If an allergic reaction occurs, AUGMENTIN should be discontinued, and appropriat
 AUGMENTIN may cause severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP).
 If patients develop a skin rash, they should be monitored closely, and AUGMENTIN discontinued if lesions progress.
 
-## 5.3 Hepatic Dysfunction
+## 5.3 Drug-Induced Enterocolitis Syndrome (DIES)
+
+Drug-induced enterocolitis syndrome (DIES) has been reported with use of amoxicillin, a componet of AUGMENTIN
+
+[see Adverse Reactions (6.2)], with most cases occurring in pediatric patients < 18 years of age.
+DIES is a non IgE mediated
+
+hypersensitivity reaction characterized by protracted vomiting occuring 1 to 4 hours after drug ingestion in the absence of
+
+skin or respiratory symptoms.
+DIES may be associated with pallor, lethargy, hypotension, shock, diarrhea within 24 hours of ingesting
+
+amoxicillin, and leukocytosis with neutrophilia.
+If DIES occurs, discontinue AUGMENTIN and institute appropriate therapy.
+
+## 5.4 Hepatic Dysfunction
 
 Hepatic dysfunction, including hepatitis and cholestatic jaundice has been associated with the use of AUGMENTIN.
 Hepatic toxicity is usually reversible; however, deaths have been reported.
 Hepatic function should be monitored at regular intervals in patients with hepatic impairment.
 
-## 5.4 Clostridioides difficile Associated Diarrhea (CDAD)
+## 5.5 Clostridioides difficile Associated Diarrhea (CDAD)
 
 Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AUGMENTIN, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -31,22 +46,22 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.5 Skin Rash in Patients with Mononucleosis
+## 5.6 Skin Rash in Patients with Mononucleosis
 
 A high percentage of patients with mononucleosis who receive amoxicillin develop an erythematous skin rash.
 Thus, AUGMENTIN should not be administered to patients with mononucleosis.
 
-## 5.6 Potential for Microbial Overgrowth
+## 5.7 Potential for Microbial Overgrowth
 
 The possibility of superinfections with fungal or bacterial pathogens should be considered during therapy.
 If superinfection occurs, amoxicillin and clavulanate potassium should be discontinued and appropriate therapy instituted.
 
-## 5.7 Phenylketonurics
+## 5.8 Phenylketonurics
 
 AUGMENTIN Chewable tablets and AUGMENTIN for Oral Suspension contain aspartame which contains phenylalanine.
 Each 200 mg chewable tablet of AUGMENTIN contains 2.1 mg phenylalanine; each 400 mg chewable tablet contains 4.2 mg phenylalanine; each 5 mL of either the 200 mg/5 mL or 400 mg/5 mL oral suspension contains 7 mg phenylalanine.
 The other formulations of AUGMENTIN do not contain phenylalanine.
 
-## 5.8 Development of Drug-Resistant Bacteria
+## 5.9 Development of Drug-Resistant Bacteria
 
 Prescribing AUGMENTIN in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug‑resistant bacteria.
