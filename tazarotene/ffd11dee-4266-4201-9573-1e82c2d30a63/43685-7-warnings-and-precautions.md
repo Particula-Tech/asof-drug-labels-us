@@ -2,7 +2,7 @@
 
 ## 5.1 Embryofetal Toxicity
 
-Based on data from animal reproduction studies, retinoid pharmacology and the potential for systemic absorption, Tazarotene Gel may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
+Based on data from animal reproduction studies, retinoid pharmacology and the potential for systemic absorption, tazarotene gel may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
 Tazarotene elicits malformations and developmental effects associated with retinoids after topical and oral administration to pregnant rats and rabbits during organogenesis.
 
 Systemic exposure to tazarotenic acid is dependent upon the extent of the body surface area treated.
@@ -18,15 +18,15 @@ As the exact timing and extent of exposure in relation to the gestation times ar
 
 Females of Child-bearing Potential
 
-Females of child-bearing potential should be warned of the potential risk and use adequate birth-control measures when Tazarotene Gel is used.
+Females of child-bearing potential should be warned of the potential risk and use adequate birth-control measures when tazarotene gel is used.
 The possibility that a female of child-bearing potential is pregnant at the time of institution of therapy should be considered.
 
-A negative result for pregnancy test should be obtained within 2 weeks prior to Tazarotene Gel therapy.
-Tazarotene Gel therapy should begin during a normal menstrual period [see Use in Specific Populations (8.1)].
+A negative result for pregnancy test should be obtained within 2 weeks prior to tazarotene gel therapy.
+Tazarotene gel therapy should begin during a normal menstrual period [see Use in Specific Populations (8.1)].
 
 ## 5.2 Local Irritation and Hypersensitivity Reactions
 
-Application of Tazarotene Gel may cause excessive irritation in the skin of certain sensitive individuals.
+Application of tazarotene gel may cause excessive irritation in the skin of certain sensitive individuals.
 Local reactions (including blistering and skin desquamation, pruritus, burning, erythema) and hypersensitivity adverse reactions (including urticaria) have been observed with topical tazarotene.
 
 If these adverse reactions occur, consider discontinuing the medication or reducing the dosing frequency, as appropriate, until the integrity of the skin is restored.
@@ -35,16 +35,16 @@ Frequency of application should be closely monitored by careful observation of t
 Therapy can be resumed, or the drug concentration or frequency of application can be increased as the patient becomes able to tolerate treatment.
 
 Concomitant topical medications and cosmetics that have a strong drying effect should be avoided.
-It is also advisable to "rest" a patient's skin until the effects of such preparations subside before treatment with Tazarotene Gel is initiated.
+It is also advisable to "rest" a patient's skin until the effects of such preparations subside before treatment with tazarotene gel is initiated.
 
-Tazarotene Gel, should not be used on eczematous skin, as it may cause severe irritation.
-Weather extremes, such as wind or cold, may be more irritating to patients using Tazarotene Gel.
+Tazarotene gel, should not be used on eczematous skin, as it may cause severe irritation.
+Weather extremes, such as wind or cold, may be more irritating to patients using tazarotene gel.
 
 ## 5.3 Photosensitivity and Risk for Sunburn
 
-Because of heightened burning susceptibility, exposure to sunlight (including sunlamps) should be avoided unless deemed medically necessary, and in such cases, exposure should be minimized during the use of Tazarotene Gel.
-Patients must be warned to use sunscreens and protective clothing when using Tazarotene Gel.
-Patients with sunburn should be advised not to use Tazarotene Gel until fully recovered.
-Patients who may have considerable sun exposure due to their occupation and those patients with inherent sensitivity to sunlight should exercise particular caution when using Tazarotene Gel.
+Because of heightened burning susceptibility, exposure to sunlight (including sunlamps) should be avoided unless deemed medically necessary, and in such cases, exposure should be minimized during the use of tazarotene gel.
+Patients must be warned to use sunscreens and protective clothing when using tazarotene gel.
+Patients with sunburn should be advised not to use tazarotene gel until fully recovered.
+Patients who may have considerable sun exposure due to their occupation and those patients with inherent sensitivity to sunlight should exercise particular caution when using tazarotene gel.
 
-Tazarotene Gel should be administered with caution if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the increased possibility of augmented photosensitivity.
+Tazarotene gel should be administered with caution if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the increased possibility of augmented photosensitivity.

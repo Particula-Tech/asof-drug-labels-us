@@ -8,7 +8,7 @@ The clinical significance of these findings for the treatment of plaque psoriasi
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamics of Tazarotene Gel in the treatment of plaque psoriasis and facial acne vulgaris are unknown.
+The pharmacodynamics of tazarotene gel in the treatment of plaque psoriasis and facial acne vulgaris are unknown.
 
 ## 12.3 Pharmacokinetics
 

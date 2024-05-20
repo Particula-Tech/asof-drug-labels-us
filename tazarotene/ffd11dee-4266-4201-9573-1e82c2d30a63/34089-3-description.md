@@ -8,6 +8,6 @@ Chemically, tazarotene is ethyl 6-[(4,4-dimethylthiochroman-6-yl)ethynyl]nicotin
 The compound has an empirical formula of C21H21NO2S and molecular weight of 351.46.
 The structural formula is shown below:
 
-Tazarotene Gel contains the following inactive ingredients:
+Tazarotene gel contains the following inactive ingredients:
 
 benzyl alcohol 1%; ascorbic acid; butylated hydroxyanisole; butylated hydroxytoluene; carbomer homopolymer type B; edetate disodium; hexylene glycol; poloxamer 407; polyethylene glycol 400; polysorbate 40; purified water; and tromethamine.

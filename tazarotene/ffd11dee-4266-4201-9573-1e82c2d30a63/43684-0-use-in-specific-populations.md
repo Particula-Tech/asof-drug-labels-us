@@ -4,10 +4,10 @@
 
 Risk Summary
 
-Based on data from animal reproduction studies, retinoid pharmacology, and the potential for systemic absorption, Tazarotene Gel may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
+Based on data from animal reproduction studies, retinoid pharmacology, and the potential for systemic absorption, tazarotene gel may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
 Safety in pregnant females has not been established.
-The potential risk to the fetus outweighs the potential benefit to the mother from Tazarotene Gel during pregnancy; therefore, Tazarotene Gel should be discontinued as soon as pregnancy is recognized [see Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
-Limited case reports of pregnancy in females enrolled in clinical trials for Tazarotene Gel have not established a clear association with tazarotene and major birth defects or miscarriage risk.
+The potential risk to the fetus outweighs the potential benefit to the mother from tazarotene gel during pregnancy; therefore, tazarotene gel should be discontinued as soon as pregnancy is recognized [see Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+Limited case reports of pregnancy in females enrolled in clinical trials for tazarotene gel have not established a clear association with tazarotene and major birth defects or miscarriage risk.
 Because the exact timing and extent of exposure in relation to the gestational age are not certain, the significance of these findings is unknown.
 
 In animal reproduction studies with pregnant rats, tazarotene dosed topically during organogenesis at 0.5 times the maximum systemic exposure in subjects treated with the maximum recommended human dose (MRHD) of tazarotene gel, 0.1% resulted in reduced fetal body weights and reduced skeletal ossification.
@@ -41,24 +41,24 @@ Risk Summary
 
 There is no information regarding the presence of tazarotene in human milk, the effects on the breastfed infant, or the effects on milk production.
 After single topical doses of 14C-tazarotene gel to the skin of lactating rats, radioactivity was detected in rat milk.
-The lack of clinical data during lactation precludes a clear determination of the risk of Tazarotene Gel to an infant during lactation; therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Tazarotene Gel and any potential adverse effects on the breastfed child from Tazarotene Gel or from the underlying maternal condition.
+The lack of clinical data during lactation precludes a clear determination of the risk of tazarotene gel to an infant during lactation; therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tazarotene gel and any potential adverse effects on the breastfed child from tazarotene gel or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Pregnancy Testing
 
-Pregnancy testing is recommended for females of reproductive potential within 2 weeks prior to initiating Tazarotene Gel therapy which should begin during a menstrual period.
+Pregnancy testing is recommended for females of reproductive potential within 2 weeks prior to initiating tazarotene gel therapy which should begin during a menstrual period.
 
 Contraception
 
 Females
 
-Based on animal studies, Tazarotene Gel may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with Tazarotene Gel.
+Based on animal studies, tazarotene gel may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with tazarotene gel.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of Tazarotene Gel have not been established in pediatric patients with psoriasis or acne under the age of 12 years.
+The safety and efficacy of tazarotene gel have not been established in pediatric patients with psoriasis or acne under the age of 12 years.
 
 ## 8.5 Geriatric Use
 
