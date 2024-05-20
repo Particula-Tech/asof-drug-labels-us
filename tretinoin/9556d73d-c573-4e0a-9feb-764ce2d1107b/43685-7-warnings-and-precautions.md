@@ -43,14 +43,14 @@ In oral Segment I and Segment III studies in rats with tretinoin, decreased surv
 
 Teratogenic Effects
 
-Oral tretinoin has been shown to be teratogenic in rats, mice, hamsters, and subhuman primates.
+Oraltretinoin has been shown to be teratogenic in rats, mice, hamsters, and subhuman primates.
 It was teratogenic and fetotoxic in Wistar rats when given orally or topically in doses greater than 1 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
 However, variations in teratogenic doses among various strains of rats have been reported.
 In the cynomolgus monkey, which metabolically is closer to humans for tretinoin than the other species examined, fetal malformations were reported at doses of 10 mg/kg/day or greater, but none were observed at 5 mg/kg/day (83 times the maximum human systemic dose adjusted for total body surface area), although increased skeletal variations were observed at all doses.
 A dose-related increase in embryolethality and abortion was reported.
 Similar results have also been reported in pigtail macaques.
 
-Topical tretinoin in animal teratogenicity tests has generated equivocal results.
+Topicaltretinoin in animal teratogenicity tests has generated equivocal results.
 There is evidence for teratogenicity (shortened or kinked tail) of topical tretinoin in Wistar rats at doses greater than 1 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
 Anomalies (humerus: short 13%, bent 6%, os parietale incompletely ossified 14%) have also been reported when 10 mg/kg/day was topically applied.
 
@@ -85,6 +85,5 @@ Safety and effectiveness in pediatric patients below the age of 12 have not been
 Safety and effectiveness in a geriatric population have not been established.
 Clinical studies of RETIN-A did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients.
 
-GELS ARE FLAMMABLE.
-Note: Keep away from heat and flame.
+GELS ARE FLAMMABLE.Note: Keep away from heat and flame.
 Keep tube tightly closed.

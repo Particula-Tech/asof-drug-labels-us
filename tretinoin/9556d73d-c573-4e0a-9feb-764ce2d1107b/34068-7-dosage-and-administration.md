@@ -8,11 +8,11 @@ In cases where it has been necessary to temporarily discontinue therapy or to re
 
 Alterations of vehicle, drug concentration, or dose frequency should be closely monitored by careful observation of the clinical therapeutic response and skin tolerance.
 
-During the early weeks of therapy, an apparent exacerbation of inflammatory lesions may occur.
+During the early weeks of therapy, an apparentexacerbation of inflammatory lesions may occur.
 This is due to the action of the medication on deep, previously unseen lesions and should not be considered a reason to discontinue therapy.
 
 Therapeutic results should be noticed after 2 to 3 weeks but more than 6 weeks of therapy may be required before definite beneficial effects are seen.
 
 Once the acne lesions have responded satisfactorily, it may be possible to maintain the improvement with less frequent applications, or other dosage forms.
 
-Patients treated with RETIN-A (tretinoin) acne treatment may use cosmetics, but the area to be treated should be cleansed thoroughly before the medication is applied(see PRECAUTIONS).
+Patients treated with RETIN-A (tretinoin) acne treatment may use cosmetics, but the area to be treated should be cleansed thoroughly before the medication is applied (see PRECAUTIONS).
