@@ -18,9 +18,9 @@ However, pharmacokinetic considerations and evidence of effectiveness of immedia
 
 Table 6: Summary of Efficacy Results from ADHD Study in Pediatric Patients (6 to 17 years) (Study 1)
 
-| StudyNumber | Treatment Group | Primary Efficacy Measure: CADS-T Total Score |  |  |
+| Studynumber | Treatment group | Primary efficacy measure: CADS-T total score |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean BaselineScore (SD) | LS Mean Changefrom Baseline(SE) | Placebo-subtractedDifferencea (95% CI) |
+|  |  | Mean baselinescore (SD) | LS mean changefrom baseline(SE) | Placebo-subtracteddifferencea (95% CI) |
 | Study 1 | Dexmethylphenidate hydrochloride extended-release capsules 5 to 30 mg/day(n = 52) | 33.3 (9.18) | 16.41 (1.8) | 10.64 (5.38, 15.91) |
 |  | Placebo(n = 45) | 34.9 (10.03) | 5.77 (1.93) | -- |
 | Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
@@ -46,9 +46,9 @@ There was no obvious increase in effectiveness with increasing the dose.
 
 Table 7: Summary of Efficacy Results from ADHD Study in Adults (Study 4)
 
-| StudyNumber | Treatment Group | Primary Efficacy Measure: ADHD-RS Total Score |  |  |
+| Studynumber | Treatment group | Primary efficacy Measure: ADHD-RS total score |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean BaselineScore (SD) | LS Mean Changefrom Baseline(SE) | Placebo-subtractedDifferencea (95% CI) |
+|  |  | Mean baselinescore (SD) | LS mean changefrom baseline(SE) | Placebo-subtracteddifferencea (95% CI) |
 | Study 4 | Dexmethylphenidate hydrochloride extended-release capsules 20 mg/day (n = 57) | 36.8 (7.2) | 13.27 (1.44) | 5.71 (1.64, 9.78) |
 |  | Dexmethylphenidate hydrochloride extended-release capsules 30 mg/day (n = 54) | 36.9 (8.07) | 12.86 (1.48) | 5.31 (1.18, 9.44) |
 |  | Dexmethylphenidate hydrochloride extended-release capsules 40 mg/day (n = 54) | 36.9 (8.25) | 16.51 (1.48) | 8.96 (4.83, 13.08) |

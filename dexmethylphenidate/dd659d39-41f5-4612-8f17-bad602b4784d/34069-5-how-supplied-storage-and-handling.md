@@ -31,10 +31,3 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
-
-Disposal
-
-Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired Dexmethylphenidate hydrochloride extended-release capsules by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
-If no take-back program or authorized collector is available, mix Dexmethylphenidate hydrochloride extended-release capsules with an undesirable, non-toxic substance to make it less appealing to children and pets.
-Place the mixture in a container, such as a sealed plastic bag and discard Dexmethylphenidate hydrochloride extended-release capsules in the household trash.

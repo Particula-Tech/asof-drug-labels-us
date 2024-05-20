@@ -1,9 +1,19 @@
 # 10 OVERDOSAGE
 
-Human Experience
+Clinical Effects of Overdose
 
-Signs and symptoms of acute methylphenidate overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: nausea, vomiting, diarrhea, restlessness, anxiety, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, hypotension, tachypnea, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
+
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
 Overdose Management
 
-Consult with a Certified Poison Control Center (1-800-222-1222) for the latest recommendations.
+Consider the possibility of multiple drug ingestion.
+The pharmacokinetic profile of dexmethylphenidate hydrochloride extended-release capsules should be considered when treating patients with overdose.
+Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.
