@@ -17,10 +17,10 @@ The elimination half-life (±SD) of bupropion after a single dose is 21.3 (±6.7
 
 In a study comparing 10-day dosing with APLENZIN 348 mg once-daily and bupropion HCl extended-release 300 mg once-daily, (following a 3-day titration with bupropion HCl extended-release 150 mg once-daily), APLENZIN peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion) were equivalent to bupropion HCl extended-release 300 mg, with the average being 8 to 14% lower.
 
-In a single dose study, two APLENZIN tablets 174 mg once-daily and one APLENZIN tablet 348 mg once-daily were evaluated.
+In a single-dose study, two APLENZIN tablets 174 mg once-daily and one APLENZIN tablet 348 mg once-daily were evaluated.
 Equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
 
-A multiple dose study compared 14-day dosing with APLENZIN tablets 522 mg once-daily to dosing with three APLENZIN tablets 174 mg once-daily, following a 3-day titration with one APLENZIN tablet 174 mg once-daily, and a succeeding 5-day titration with two APLENZIN tablets 174 mg once-daily.
+A multidose study compared 14-day dosing with APLENZIN tablets 522 mg once-daily to dosing with three APLENZIN tablets 174 mg once-daily, following a 3-day titration with one APLENZIN tablet 174 mg once-daily, and a succeeding 5-day titration with two APLENZIN tablets 174 mg once-daily.
 Equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
 
 These findings demonstrate that APLENZIN tablets 174 mg, 348 mg, and 522 mg are dose proportional.

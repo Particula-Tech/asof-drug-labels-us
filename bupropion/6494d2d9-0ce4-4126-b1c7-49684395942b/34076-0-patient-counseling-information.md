@@ -2,15 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with APLENZIN and counsel them in its appropriate use.
-
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About APLENZIN?” is available for APLENZIN.
-Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Advise patients regarding the following issues and to alert their prescriber if these occur while taking APLENZIN.
-
 Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
@@ -75,6 +66,6 @@ Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
-All other product/brand names are the trademarks of their respective owners.
+All other product/brand names and/or logos are the trademarks of their respective owners.
 
-U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2022 Bausch Health Companies Inc. or its affiliates 9386809 20005080
+U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2024 Bausch Health Companies Inc. or its affiliates 9386810

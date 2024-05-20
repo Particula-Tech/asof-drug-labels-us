@@ -8,7 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Hypertension [see Warnings and Precautions (5.4)]
 - •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
 - •Psychosis and other neuropsychiatric events [see Warnings and Precautions (5.6)]
-- •Angle-Closure Glaucoma [see Warnings and Precautions (5.7)]
+- •Angle-closure glaucoma [see Warnings and Precautions (5.7)]
 - •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
@@ -24,7 +24,7 @@ Adverse reactions that occurred in at least 5% of patients treated with bupropio
 400 mg/day of bupropion HCl sustained-release (equivalent to APLENZIN 464 mg/day): abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
 APLENZIN is bioequivalent to bupropion HCl extended-release, which has been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion.
-The information included under this subsection and under the subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
+The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
 
 Major Depressive Disorder
 
@@ -108,7 +108,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 2% | 5% |
 | Urinary urgency | 0% | — | 2% |
-| Vaginal hemorrhageIncidence based on the number of female patients. - Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. | — | 0% | 2% |
+| Vaginal hemorrhageIncidence based on the number of female patients. | — | 0% | 2% |
 | Urinary tract infection | — | 1% | 0% |
 
 The following additional adverse reactions occurred in controlled trials of bupropion HCl immediate-release (300 to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), tachycardia (11% vs. 9%), appetite increased (4% vs. 2%), dyspepsia (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
@@ -121,7 +121,7 @@ The adverse reactions leading to discontinuation in at least 1% of patients trea
 Table 5 summarizes the adverse reactions that occurred in patients treated with bupropion HCl extended-release for up to approximately 6 months in 3 placebo-controlled trials.
 These include reactions that occurred at an incidence of 2% or more and were more frequent than in the placebo group.
 
-Table 5: Adverse Reactions in Placebo-Controlled Trial in Patients with SAD
+Table 5: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 
 | System Organ Class/ Preferred Term | Placebo (n=511) | Bupropion HCl Extended-Release (n=537) |
 | --- | --- | --- |
@@ -196,7 +196,7 @@ Chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photo
 
 Cardiovascular
 
-Postural hypotension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
+Postural hypotension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, pulmonary embolism, and Brugada pattern/syndrome.
 
 Digestive
 
@@ -227,9 +227,9 @@ Respiratory
 
 Bronchospasm and pneumonia.
 
-Skin
+Skin and Subcutaneous Tissue Disorders
 
-Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, and acute generalized exanthematous pustulosis.
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, acute generalized exanthematous pustulosis and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Special Senses
 
