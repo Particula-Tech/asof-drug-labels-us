@@ -4,5 +4,5 @@ Thiamine Hydrochloride Injection, USP is a sterile, clear and colorless to pale 
 PROTECT FROM LIGHT.
 Use only if solution is clear and seal intact.
 The vial stoppers are not made with natural rubber latex.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India Revised: November 2021
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India Revised: June 2023
