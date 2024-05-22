@@ -14,7 +14,7 @@ There have also been reports associated with ophthalmic use of cysteamine; howev
 ## 5.3 Contact Lens Use
 
 CYSTARAN contains benzalkonium chloride, which may be absorbed by soft contact lenses.
-Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration [see Patient Counseling Information (17)].
+Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration[seePatient Counseling Information (17)].
 
 ## 5.4 Topical Ophthalmic Use
 

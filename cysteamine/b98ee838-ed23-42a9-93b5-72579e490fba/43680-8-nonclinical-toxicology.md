@@ -9,7 +9,7 @@ Cysteamine has not been tested for its carcinogenic potential in long-term anima
 Mutagenesis
 
 Cysteamine was not mutagenic in the Ames test.
-It produced a negative response in an in vitrosister chromatid exchange assay in human lymphocytes but a positive response in a similar assay in hamster ovarian cells.
+It produced a negative response in anin vitrosister chromatid exchange assay in human lymphocytes but a positive response in a similar assay in hamster ovarian cells.
 
 Impairment of Fertility
 

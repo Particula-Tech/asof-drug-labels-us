@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no adequate and well controlled studies of ophthalmic cysteamine in pregnant women to inform any drug associated risks.
-Oral administration of cysteamine to pregnant rats throughout the period of organogenesis was teratogenic at doses 86 to 345 times the recommended human ophthalmic dose (based on body surface area) [see Data].
+Oral administration of cysteamine to pregnant rats throughout the period of organogenesis was teratogenic at doses 86 to 345 times the recommended human ophthalmic dose (based on body surface area)[seeData].
 CYSTARAN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Data
