@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In clinical trials with Timolol GFS, transient blurred vision upon instillation of the drop was reported in approximately one in three patients.
+In clinical trials with timolol GFS, transient blurred vision upon instillation of the drop was reported in approximately one in three patients.
 The frequency of patients reporting burning and stinging upon instillation was approximately one in eight patients which was comparable to that observed for TIMOPTIC*.
 
 Adverse reactions reported in 1-5% of patients were:
@@ -13,7 +13,7 @@ Ocular: Blepharitis, conjunctivitis, crusting, discomfort, foreign body sensatio
 
 Systemic: Headache, hypertension, and upper respiratory infections.
 
-In a 3-month, double-masked, active-controlled, multicenter study in pediatric patients, the adverse reactions profile of Timolol GFS 0.25% and 0.5% was comparable to that seen in adult patients.
+In a 3-month, double-masked, active-controlled, multicenter study in pediatric patients, the adverse reactions profile of timolol GFS 0.25% and 0.5% was comparable to that seen in adult patients.
 
 ## 6.2 Additional Potential Adverse Reactions Associated with Timolol Maleate
 
