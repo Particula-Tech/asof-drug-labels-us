@@ -18,4 +18,4 @@ Inactive ingredients: flavorings, silica gel, sodium benzoate, sodium citrate, s
 
 Chewable Tablets: Each tablet contains 125 mg or 200 mg or 250 mg or 400 mg of amoxicillin as the trihydrate.
 Inactive ingredients in each 125 mg or 250 mg chewable tablet: Mannitol, glycine, magnesium stearate, silica gel, flavorings, citric acid, saccharin sodium, and confectioner’s sugar.
-Inactive ingredients in each 200 mg and 400 mg chewable tablet: Mannitol, crospovidone, flavorings, magnesium stearate, and aspartame [see Warnings and Precautions (5.6)].
+Inactive ingredients in each 200 mg and 400 mg chewable tablet: Mannitol, crospovidone, flavorings, magnesium stearate, and aspartame [see Warnings and Precautions (5.7)].

@@ -52,3 +52,5 @@ CLOtest is a registered trademark of Kimberly-Clark Corporation.
 AMOXIL is a registered trademark of GlaxoSmithKline and is licensed to USAntibiotics, LLC.
 
 AUGMENTIN is a registered trademark of GlaxoSmithKline and is licensed to USAntibiotics, LLC.
+
+Revised 05/2024
