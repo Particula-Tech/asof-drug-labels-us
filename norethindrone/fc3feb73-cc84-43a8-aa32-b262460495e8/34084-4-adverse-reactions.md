@@ -7,7 +7,7 @@ The following clinically significant adverse reactions are discussed elsewhere i
 - Suicidal Ideation and Mood Disorders (Including Depression) [see Warnings and Precautions (5.4)]
 - Hepatic Impairment and Transaminase Elevations [see Warnings and Precautions (5.5)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.7)]
-- Change in Menstrual Bleeding Pattern [see Warnings and Precautions (5.8)]
+- Change in Menstrual Bleeding Pattern and Reduced Ability to Recognize Pregnancy [see Warnings and Precautions (5.8)]
 - Uterine Fibroid Prolapse or Expulsion [see Warnings and Precautions (5.10)]
 - Alopecia [see Warnings and Precautions (5.11)]
 - Effects on Carbohydrate and Lipid Metabolism [see Warnings and Precautions (5.12)]
@@ -46,10 +46,13 @@ Table 1: Adverse Reactions Occurring in 3% or More in Women with Heavy Menstrual
 
 | Adverse Reaction | MYFEMBREE (N = 254) % | Placebo (N = 256) % |
 | --- | --- | --- |
-| Vasomotor symptoms Includes hot flush, hyperhidrosis, or night sweats. | 10.6 | 6.6 |
-| Abnormal uterine bleeding Includes menorrhagia, metrorrhagia, vaginal hemorrhage, polymenorrhea, and menstruation irregular. | 6.3 | 1.2 |
+| Vasomotor symptoms1 | 10.6 | 6.6 |
+| Abnormal uterine bleeding2 | 6.3 | 1.2 |
 | Alopecia | 3.5 | 0.8 |
-| Libido decreased Includes libido decreased and loss of libido. | 3.1 | 0.4 |
+| Libido decreased3 | 3.1 | 0.4 |
+| 1 Includes hot flush, hyperhidrosis, or night sweats. |  |  |
+| 2 Includes menorrhagia, metrorrhagia, vaginal hemorrhage, polymenorrhea, and menstruation irregular. |  |  |
+| 3 Includes libido decreased and loss of libido. |  |  |
 
 In Study L1, more women experienced the adverse reaction of new or worsening hypertension with MYFEMBREE as compared to placebo (7.0% vs. 0.8%).
 
@@ -78,13 +81,14 @@ In the open-label extension trial, Study L3, women received an additional 28 wee
 Women from Study L3 showed continued bone loss at Months 6 and 12 when treated with up to 52 weeks of MYFEMBREE.
 The least squares mean percent changes from baseline in lumbar spine BMD at Months 6 and 12 are presented below in Table 3.
 
-Table 3: Mean Percent Change (On-Treatment) from Baseline Baseline and Month 6 assessments include only those participants from Studies L1 and L2 who participated in Study L3.in Lumbar Spine BMD at Month 6 and Month 12 for MYFEMBREE-Treated Women with Heavy Menstrual Bleeding Associated with Uterine Fibroids in Study L3
+Table 3: Mean Percent Change (On-Treatment) from Baseline* in Lumbar Spine BMD at Month 6* and Month 12 for MYFEMBREE-Treated Women with Heavy Menstrual Bleeding Associated with Uterine Fibroids in Study L3
 
-| Month 6 | Month 12 |  |
-| --- | --- | --- |
 |  | Number of Women (N = 163) |  |
-| Percent change from baseline (95% CI) | -0.23 (-0.69, 0.24) | -0.80 (-1.36, -0.25) |
+| --- | --- | --- |
+| Month 6* | Month 12 |  |
+| Percent change from baseline* (95% CI) | -0.23 (-0.69, 0.24) | -0.80 (-1.36, -0.25) |
 | Abbreviations: BMD = bone mineral density; CI = confidence interval. |  |  |
+| * Baseline and Month 6 assessments include only those participants from Studies L1 and L2 who participated in Study L3. |  |  |
 
 A separate concurrent prospective observational study enrolled 262 women with heavy menstrual bleeding associated with uterine fibroids who were age-matched to participants of Studies L1 and L2.
 While these women were not randomized to receive treatment for heavy menstrual bleeding associated with uterine fibroids, women were permitted to receive treatment from their provider during the clinical trials for this indication.
@@ -126,7 +130,7 @@ Moderate to Severe Pain Associated with Endometriosis
 The safety of MYFEMBREE was evaluated in two placebo-controlled clinical trials, Study S1 and Study S2, in women with moderate to severe pain associated with endometriosis.
 In these trials, women received once daily one relugolix 40-mg tablet with one over-encapsulated tablet of E2 1 mg and NETA 0.5 mg (relugolix + E2/NETA), which is equivalent to one tablet of MYFEMBREE.
 Across the two trials, 418 women received MYFEMBREE once daily for 24 weeks, 416 women received placebo for 24 weeks, and 417 women received relugolix 40 mg monotherapy once daily for 12 weeks followed by MYFEMBREE for 12 weeks [see Clinical Studies (14)].
-Of these, 799 women were treated with MYFEMBREE in a 28-week extension trial, Study S3, for a total treatment duration of up to 12 months.
+Of these, 799 women were treated with MYFEMBREE in an 80-week extension trial, Study S3, for a total treatment duration of up to 24 months.
 Demographics were similar across these trials; 91% were white, 6% were Black, and 12% were of Hispanic or Latino ethnicity.
 The mean age at study entry was 34 years (range 18 to 50 years).
 
@@ -149,16 +153,20 @@ Table 4: Adverse Reactions Occurring in 3% or More of Women with Moderate to Sev
 | Adverse Reaction | MYFEMBREE (N = 418) % | Placebo (N = 416) % |
 | --- | --- | --- |
 | Headache | 33.0 | 26.4 |
-| Vasomotor symptoms Includes hot flush, hyperhidrosis, night sweats, and flushing. | 13.2 | 7.2 |
-| Mood disorders Includes affect lability, affective disorder, anxiety, depressed mood, depression, emotional distress, generalized anxiety disorder, irritability, mixed anxiety and depressive disorder, mood altered, mood swings, and suicidal ideation. | 9.1 | 7.2 |
-| Abnormal uterine bleeding Includes menorrhagia, metrorrhagia, vaginal hemorrhage, uterine hemorrhage, polymenorrhea, and menstruation irregular. | 6.7 | 4.6 |
+| Vasomotor symptoms1 | 13.2 | 7.2 |
+| Mood disorders2 | 9.1 | 7.2 |
+| Abnormal uterine bleeding3 | 6.7 | 4.6 |
 | Nausea | 6.0 | 4.1 |
 | Toothache | 5.5 | 2.4 |
 | Back pain | 4.8 | 2.9 |
-| Decreased sexual desire and arousal Includes libido decreased, libido disorder, and female sexual arousal disorder. | 4.3 | 1.2 |
+| Decreased sexual desire and arousal4 | 4.3 | 1.2 |
 | Arthralgia | 3.6 | 2.2 |
 | Fatigue | 3.1 | 2.4 |
 | Dizziness | 3.1 | 1.2 |
+| 1 Includes hot flush, hyperhidrosis, night sweats, and flushing. |  |  |
+| 2 Includes affect lability, affective disorder, anxiety, depressed mood, depression, emotional distress, generalized anxiety disorder, irritability, mixed anxiety and depressive disorder, mood altered, mood swings, and suicidal ideation. |  |  |
+| 3 Includes menorrhagia, metrorrhagia, vaginal hemorrhage, uterine hemorrhage, polymenorrhea, and menstruation irregular. |  |  |
+| 4 Includes libido decreased, libido disorder, and female sexual arousal disorder. |  |  |
 
 The most common adverse reactions reported in the safety extension trial, Study S3, were similar to those reported in the placebo-controlled trials.
 
@@ -169,29 +177,31 @@ Adverse reactions reported in at least 2% and less than 3% of women with moderat
 Bone Loss
 
 The effect of MYFEMBREE on BMD was assessed by DXA.
-The least squares mean percent changes from baseline in lumbar spine BMD at Month 6 and for women with moderate to severe pain associated with endometriosis in Studies S1 and S2 are presented in Table 5.
+The least squares (LS) mean percent changes from baseline in lumbar spine BMD at Month 6 and for women with moderate to severe pain associated with endometriosis in Studies S1 and S2 are presented in Table 5.
 
-Table 5: Mean Percent Change (On-Treatment) from Baseline in Lumbar Spine BMD in Women with Moderate to Severe Pain Associated with Endometriosis at Month 6 in Studies S1 and S2
+Table 5: LS Mean Percent Change (On-Treatment) from Baseline in Lumbar Spine BMD in Women with Moderate to Severe Pain Associated with Endometriosis at Month 6 in Studies S1 and S2
 
-| MYFEMBREE | Placebo |  |
-| --- | --- | --- |
 |  | Treatment Month 6 |  |
+| --- | --- | --- |
+| MYFEMBREE | Placebo |  |
 | Number of subjects | 418 | 416 |
 | Percent change from baseline (95% CI) | -0.72 (-1.06, -0.38) | 0.12 (-0.22, 0.47) |
 | Treatment difference, % | -0.84 |  |
-| Abbreviations: BMD = bone mineral density; CI = confidence interval. |  |  |
+| Abbreviations: LS = least squares; BMD = bone mineral density; CI = confidence interval. |  |  |
 
-In the open-label extension, Study S3, women received an additional 28 weeks of MYFEMBREE for a total of up to 12 months of treatment.
-In Study S3, the decline in BMD was similar after 6 months and 12 months of treatment.
-The least squares mean percent changes from baseline in lumbar spine BMD at Month 6 and Month 12 for women treated with MYFEMBREE in Studies S1 and S2 and then continued MYFEMBREE for an additional 28 weeks in Study S3 are presented below in Table 6.
+In the open-label extension, Study S3, women received an additional 80 weeks of MYFEMBREE for a total of up to 24 months of treatment.
+The least squares (LS) mean percent changes from baseline in lumbar spine BMD at Months 6, 12, and 24 for women treated with MYFEMBREE in Studies S1 and S2 and then continued MYFEMBREE for an additional 80 weeks in Study S3 are presented below in Table 6.
 
-Table 6: Mean Percent Change (On-Treatment) from Baseline Baseline and Month 6 assessments include only those participants from Studies S1 and S2 who also participated in Study S3.in Lumbar Spine BMD at Month 6 and Month 12 for Women with Moderate to Severe Pain Associated with Endometriosis Treated with MYFEMBREE in Study S3
+Table 6: LS Mean Percent Change (On-Treatment) from Baseline* in Lumbar Spine BMD at Months 6*, 12, and 24 for Women with Moderate to Severe Pain Associated with Endometriosis Treated with MYFEMBREE in Study S3
 
-| Month 6 | Month 12 |  |
-| --- | --- | --- |
-|  | Number of Women (N = 277) |  |
-| Percent change from baseline (95% CI) | -0.91 (-1.30, -0.53) | -0.81 (-1.26, -0.36) |
-| Abbreviations: BMD = bone mineral density; CI = confidence interval. |  |  |
+|  | Number of Women (N = 277) |  |  |
+| --- | --- | --- | --- |
+| Month 6* (n=264) | Month 12 (n=228) | Month 24 (n=163) |  |
+| Percent change from baseline* (95% CI) | -0.91 (-1.30, -0.53) | -0.81 (-1.26, -0.36) | -0.45 (-1.03, 0.13) |
+| Abbreviations: LS = least squares; BMD = bone mineral density; CI = confidence interval; N = number of subjects who received continuous MYFEMBREE treatment throughout Studies S1/S2 and S3; n = number of subjects who had BMD assessments. |  |  |  |
+| * Baseline and Month 6 assessments include only those participants from Studies S1 and S2 who also participated in Study S3. |  |  |  |
+
+Changes in bone mineral density with MYFEMBREE treatment beyond 24 months have not been elucidated.
 
 A separate concurrent prospective observational study enrolled 452 women with moderate to severe pain associated with endometriosis who were age-matched to participants of Studies S1 and S2.
 While these women were not randomized to receive treatment for moderate to severe pain associated with endometriosis, women were permitted to receive treatment from their provider for this indication.
@@ -201,7 +211,15 @@ The mean percent changes from baseline (95% CI) in lumbar spine BMD at Months 6 
 In women with moderate to severe pain associated with endometriosis, a decline in lumbar spine BMD of > 3% from pre-treatment baseline was observed in 19.7% (45/228) of women who had a DXA scan following 12 months of MYFEMBREE treatment in Study S3 and in 9.1% (29/320) of untreated women in the Observational Endometriosis Cohort.
 A decline of > 7% to ≤ 8% from pre-treatment baseline was seen in 0.9% (2/228) of women treated with MYFEMBREE who completed a DXA scan at Month 12 in Study S3 and in 0.6% (2/320) of untreated women in the Observational Endometriosis Cohort.
 
-In Study S3, one woman, who was treated for almost 24 weeks with MYFEMBREE following 12 weeks of relugolix monotherapy, sustained a tibia/fibula fracture from an unwitnessed fall that could be considered a low trauma fracture.
+Following 24 months of MYFEMBREE treatment in Study S3, a decline in lumbar spine BMD of > 3% from pre-treatment baseline occurred in 20.2% (33/163) of women and a decline of > 7% from pre-treatment baseline occurred in 2.5% (4/163) of women.
+At the femoral neck, a decline in BMD of >7% was observed in 1.8% (3/163) women, one of whom (0.6%) also had a decline in BMD of > 7% at the total hip.
+The maximum percent decline from pre-treatment baseline at the lumbar spine, femoral neck and total hip at Month 24 was 9.1%, 8.8% and 7.0%, respectively.
+
+BMD loss may not be completely reversible after stopping treatment.
+
+In Study S3, two women sustained fractures after falling.
+One woman, who was treated for almost 24 weeks with MYFEMBREE following 12 weeks of relugolix monotherapy, sustained a tibia/fibula fracture and one who was treated for 104 weeks with MYFEMBREE, sustained a wrist fracture 144 days after she discontinued MYFEMBREE.
+The impact of BMD loss on long-term bone health and future fracture risk in premenopausal women is unknown.
 
 Suicidal Ideation and Mood Disorders (Including Depression)
 
@@ -232,8 +250,8 @@ Among women with normal HDL at baseline (≥ 60 mg/dL), declines to 40 to < 60 m
 The following adverse reactions have been identified during post-approval use of MYFEMBREE, as well as post-approval use of relugolix monotherapy outside of the United States.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders:anaphylactoid reaction
+Immune system disorders: anaphylactoid reaction
 
-Skin and subcutaneous tissue disorders:drug eruption, angioedema, urticaria
+Skin and subcutaneous tissue disorders: drug eruption, angioedema, urticaria
 
-Neoplasms (benign, malignant, and unspecified):uterine leiomyoma degeneration
+Neoplasms (benign, malignant, and unspecified): uterine leiomyoma degeneration
