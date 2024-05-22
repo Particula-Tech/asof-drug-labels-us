@@ -10,4 +10,4 @@ Store at 20°C to 25ºC (68°F to 77°F) [See USP Controlled Room Temperature].
 Protect from freezing and light.
 
 Manufactured by: Gland Pharma Limited D.P.Pally, Dundigal Post, Hyderabad-500 043, INDIA The brands listed are the registered trademarks of their respective owners and are not trademarks of Gland Pharma Limited.
-April 2012.
+January 2012.
