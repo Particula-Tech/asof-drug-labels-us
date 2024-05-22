@@ -23,11 +23,11 @@ PREMIERProRx®
 
 freeflex
 
-1234567890 FSU 0703 01-68-26-050D
+1234567890 FSU 0703 01-68-26-050F
 
 7 OTHER
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10001
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
@@ -55,9 +55,9 @@ MADE IN SINGAPORE PREMIERProRx®
 
 7 OTHER
 
-Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc., New York, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10001 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-FSU 0703 01-78-26-050E
+FSU 0703 01-78-26-050F
 
 LOT YYMDDU00 EXP YYYY-MM
 
@@ -67,18 +67,14 @@ NDC 0009-7807-02 Contains 10 of NDC 0009-7807-01 QUANTITY: 1 (10 IV BAGS X 300 m
 
 RX ONLY
 
-PREMIERProRx®
-
 STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
 DISCARD UNUSED PORTION.
 The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10001 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 MADE IN SINGAPORE
 
-EXP MM/DD/YYYY LOT 00000000 QTY: 01
+EXP YYYY-MM LOT 00000000 QTY: 01
 
-04.30.034
-
-FSU 0703 01-88-26-050F
+FSU 0703 01-88-26-050H
