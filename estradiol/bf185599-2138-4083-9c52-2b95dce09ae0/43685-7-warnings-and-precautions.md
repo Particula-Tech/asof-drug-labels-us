@@ -57,7 +57,7 @@ If feasible, discontinue estrogens at least 4 to 6 weeks before surgery of the t
 Endometrial cancer
 
 An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in women with a uterus.
-The reported endometrial cancer risk among unopposed estrogen users is about 2 to 12 times greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
+The reported endometrial cancer risk among unopposed estrogen users is about 2 to 12 times greater than in non-users and appears dependent on duration of treatment and on estrogen dose.
 Most studies show no significant increased risk associated with the use of estrogens for less than 1 year.
 The greatest risk appears to be associated with prolonged use, with increased risks of 15- to 24-fold for 5 to 10 years or more.
 This risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
@@ -94,7 +94,7 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 Ovarian Cancer
 
-The CE plus MPA substudy of WHI reporated that estrogen plus progestin increased the risk of ovarian cancer.
+The CE plus MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24), but it was not statistically significant.
 The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
 
