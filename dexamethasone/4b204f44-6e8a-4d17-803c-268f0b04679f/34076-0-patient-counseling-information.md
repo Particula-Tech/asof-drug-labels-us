@@ -20,12 +20,13 @@ Driving and Using Machines
 Inform patients that they may experience temporary visual blurring after receiving an intravitreal injection.
 Advise patients not to drive or use machines until this has been resolved.
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by:
 
-© 2022 Allergan.
+AbbVie Inc. North Chicago, IL 60064
+
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
-Patented.
-See: www.allergan.com/patents
 
-v3.0USPI3348
+OZURDEX and its design are trademarks of Allergan, Inc., an AbbVie company.
+
+V4.0USPI3348
