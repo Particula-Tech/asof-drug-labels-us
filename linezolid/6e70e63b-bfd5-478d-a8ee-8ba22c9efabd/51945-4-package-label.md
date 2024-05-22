@@ -77,11 +77,11 @@ The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
 Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017 MADE IN SINGAPORE
 
-LOT 00000000 EXP MM/DD/YYYY QTY: 01
+EXP YYYY-MM LOT 00000000 QTY: 01
 
 04.30.034
 
-FUU 0701 01-88-26-019K
+FUU 0701 01-88-26-019L
 
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
 
@@ -109,11 +109,11 @@ Pfizer Hospital
 
 7 OTHER
 
-Distributed by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc. New York, NY 10017
+Distributed by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc. New York, NY 10001
 
 freeflex
 
-1234567890 FUU 0703 01-68-26-020F
+1234567890 FUU 0703 01-68-26-020G
 
 LOT EXP
 
@@ -141,11 +141,11 @@ MADE IN SINGAPORE
 
 Pfizer Hospital
 
-Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001
 
 7 OTHER
 
-FUU 0703 01-78-26-020G
+FUU 0703 01-78-26-020H
 
 LOT YYMDDU00 EXP YYYY-MM
 
@@ -159,13 +159,13 @@ RX ONLY STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE
 DO NOT FREEZE.
 DISCARD UNUSED PORTION.The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
-Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017 MADE IN SINGAPORE
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001 MADE IN SINGAPORE
 
-LOT 00000000 EXP MM/DD/YYYY QTY: 01
+EXP YYYY-MM LOT 00000000 QTY: 01
 
 04.30.034
 
-FUU 0703 01-88-26-020K
+FUU 0703 01-88-26-020M
 
 # PRINCIPAL DISPLAY PANEL - 150 mL Bottle Label
 
@@ -209,7 +209,7 @@ Zyvox® (linezolid) tablets
 
 600 mg
 
-Distributed by Pharmacia & Upjohn Co. LLC A sub. of Pfizer Inc., NY, NY 10017 75093422
+Distributed by Pharmacia & Upjohn Co. LLC A sub. of Pfizer Inc., NY, NY 10001 75098987
 
 EXP & LOT AREA
 
