@@ -16,7 +16,7 @@ Alterations in Endocrine Function Advise patients to inform any medical attendan
 Instruct patients to notify their healthcare provider if they have diabetes, or thyroid gland problems as the dose of medications used to control these other conditions may need to be adjusted while they are taking HEMADY [see Warnings and Precautions (‎5.1)].
 Advise the patient that, following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the corticosteroid withdrawal syndrome including myalgia, arthralgia, and malaise.
 Advise patients to not discontinue use of HEMADY abruptly or without medical supervision [see Warnings and Precautions (‎5.1)].
-Immunosuppression and Increased Risk of Infections Advise patients that they are at increased risk of infection.
+Immunosuppression and Increased Risk of Infection Advise patients that they are at increased risk of infection.
 Tell patients to inform their healthcare provider if they have had recent or ongoing infections or if they have recently received a vaccine.
 Medical advice should be sought immediately if the patient develops fever or other signs of infection.
 Patients should be made aware that some infections can potentially be severe and fatal [see Warnings and Precautions (‎5.2)].

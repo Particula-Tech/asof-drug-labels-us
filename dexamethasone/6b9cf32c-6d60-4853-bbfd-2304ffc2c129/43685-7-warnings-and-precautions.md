@@ -42,57 +42,46 @@ Pheochromocytoma Crisis
 There have been reports of pheochromocytoma crisis, which can be fatal, after administration of systemic corticosteroids.
 In patients with suspected or identified pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering HEMADY.
 
-## 5.2 Immunosuppression and Increased Risk of Infections
+## 5.2 Immunosuppression and Increased Risk of Infection
 
-Corticosteroids, including HEMADY, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic.
+Corticosteroids, including HEMADY, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
 
-Corticosteroids reduce resistance to new infections, exacerbate existing infections, increase the risk of disseminated infections, increase the risk of reactivation or exacerbation of latent infections, and mask some signs of infection.
-These infections can be severe, and at times fatal.
-The degree to which the dose, route, and duration of corticosteroid administration correlates with the specific risks of infection is not well characterized; however, the rate of occurrence of infectious complications increases with increasing doses of corticosteroids.
+- Reduce resistance to new infections
+- Exacerbate existing infections
+- Increase the risk of disseminated infections
+- Increase the risk of reactivation or exacerbation of latent infections
+- Mask some signs of infection
 
-Monitor for the development of infection and consider withdrawal of HEMADY or reduction of the dose of corticosteroids as needed.
-
-Varicella Zoster and Measles Viral Infections
-
-Chickenpox caused by Varicella Zoster virus and measles can have a serious or even fatal course in non-immune children or adult on corticosteroids, including HEMADY.
-In patients who have not had these diseases, particular care should be taken to avoid exposure.
-If a patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If a patient is exposed to measles, prophylaxis with immune globulin (IG) may be indicated.
-If chickenpox develops, treatment with antiviral agents may be considered.
-
-Hepatitis B Virus Reactivation
-
-Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers undergoing treatment with immunosuppressive drugs including corticosteroids.
-Reactivation can also occur in patients who appear to have resolved hepatitis B infection.
-
-Fungal Infections
-
-HEMADY is contraindicated in patients with systemic fungal infections.
-Corticosteroids may exacerbate systemic fungal infections.
-For patients on chronic corticosteroids who have developed systemic fungal infections, withdrawal of corticosteroids or reduction of the dose of corticosteroids is recommended.
-
-The following infections have been reported during the use of corticosteroids to treat other conditions that HEMADY is not indicated for:
-
-Amebiasis
-
-Corticosteroids may activate latent amebiasis.
-Rule out latent amebiasis or active amebiasis before initiating corticosteroid therapy in any patient who has spent time in the tropics or any patient with unexplained diarrhea.
-
-Strongyloides Infestation
-
-In patients with known or suspected Strongyloides (threadworm) infestation, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
-For patients on HEMADY who develop known or suspected Strongyloides (threadworm) infection, withdrawal of corticosteroids or reduction of the dose of corticosteroids is recommended.
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
+Monitor for the development of infection and consider HEMADY withdrawal or dosage reduction as needed.
 
 Tuberculosis
 
-The use of corticosteroids in active tuberculosis should generally be limited to cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate anti-tuberculous regimen.
+If HEMADY is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
+Closely monitor such patients for reactivation.
+During prolonged HEMADY therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+Varicella Zoster and Measles Viral Infections Varicella and measles can have a serious or even fatal course in non-immune pediatric and adult patients taking corticosteroids, including HEMADY.
+In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
 
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
+- If a HEMADY-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- If a HEMADY-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
 
-Cerebral Malaria
+Hepatitis B Virus Reactivation Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including HEMADY.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with HEMADY.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+Fungal Infections Corticosteroids, including HEMADY, may exacerbate systemic fungal infections; therefore, avoid HEMADY use in the presence of such infections unless HEMADY is needed to control drug reactions.
+For patients on chronic HEMADY therapy who develop systemic fungal infections, HEMADY withdrawal or dosage reduction is recommended.
+Amebiasis Corticosteroids, including HEMADY, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating HEMADY in patients who have spent time in the tropics or patients with unexplained diarrhea.
+Strongyloides Infestation
 
-Corticosteroids should not be used in cerebral malaria.
+Corticosteroids, including HEMADY, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+Cerebral Malaria Avoid corticosteroids, including HEMADY, in patients with cerebral malaria.
 
 ## 5.3 Alterations in Cardiovascular/Renal Function
 
@@ -161,8 +150,8 @@ Inform patients and caregivers of the potential for behavioral and mood changes 
 
 ## 5.11 Kaposi's Sarcoma
 
-Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy to treat other chronic conditions for which HEMADY is not indicated.
-Discontinuation of corticosteroids may result in clinical improvement.
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
 
 ## 5.12 HEMADY in Combination with Anti-Myeloma Products
 
