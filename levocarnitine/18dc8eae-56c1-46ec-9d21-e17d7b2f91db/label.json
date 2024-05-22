@@ -3,7 +3,7 @@
     "ANDA211676"
   ],
   "inn": "levocarnitine",
-  "labeler": "Novitium Pharma LLC",
+  "labeler": "ANI Pharmaceuticals, Inc.",
   "package_ndcs": [
     "70954-139-10",
     "70954-140-10"
@@ -11,12 +11,7 @@
   "products": [
     {
       "form": "SOLUTION",
-      "generic": "levocarnitine oral solution",
-      "name": "Levocarnitine"
-    },
-    {
-      "form": "SOLUTION",
-      "generic": "levocarnitine oral solution (suguar free) 1 g/10 ml",
+      "generic": "levocarnitine",
       "name": "Levocarnitine"
     }
   ],

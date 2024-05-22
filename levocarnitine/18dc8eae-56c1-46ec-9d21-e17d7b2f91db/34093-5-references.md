@@ -12,24 +12,27 @@
    Pharmacol.
    17:561-568.
 3. Christiansen, R., Bremer, J. 1976.
-   Active transport of butyrobetaine and carnitine into isolatedliver cells.
+   Active transport of butyrobetaine and carnitine into isolated liver cells.
    Biochim.
    Biophys.
    Acta 448:562-577.
 4. Lindstedt, S. and Lindstedt, G. 1961.
    Distribution and excretion of carnitine in the rat.
-   Acta Chem.Scand.
+   Acta Chem.
+   Scand.
    15:701-702.
 5. Rebouche, C.J. and Engel, A.G.
    1983.
    Carnitine metabolism and deficiency syndromes.
-   Mayo Clin.Proc.
+   Mayo Clin.
+   Proc.
    58:533-540.
 6. Rebouche, C.J. and Paulson, D.J.
    1986.
    Carnitine metabolism and function in humans.
    Ann.
-   Rev.Nutr.
+   Rev.
+   Nutr.
    6:41-66.
 7. Scriver, C.R., Beaudet, A.L., Sly, W.S. and Valle, D. 1989.
    The Metabolic Basis of Inherited Disease.
@@ -41,22 +44,22 @@
 9. Marzo, A., Arrigoni Martelli, E., Mancinelli, A., Cardace, G., Corbelletta, C., Bassani, E. and Solbiati, M. 1991.
    Protein binding of L-carnitine family components.
    Eur.
-   J. Drug Met.Pharmacokin., Special Issue III: 364-368.
+   J. Drug Met.
+   Pharmacokin.
+   Special Issue III: 364-368.
 10. Rebouche, C.J.
     1991.
     Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
     Metabolism 40:1305-1310.
 
-All trademarks are the property of their respective owners.
-
 Manufactured by:
 
-Novitium Pharma LLC,
+Novitium Pharma LLC
 
-70 Lake Drive,
+70 Lake Drive, East Windsor
 
-East Windsor, New Jersey-08520
+New Jersey 08520
 
-Issued: 02/2022
+Revised: 07/2022
 
-LB4406-00
+LB4397-01
