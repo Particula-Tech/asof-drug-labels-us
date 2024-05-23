@@ -273,7 +273,7 @@ As shown in Table 16, there were more clinically significant NPS adverse events 
 The incidence of events in the composite endpoint was higher for each of the active treatments compared to placebo: Risk Differences (RDs) (95%CI) vs placebo were 2.7% (-0.05, 5.4) for varenicline, 2.2% (-0.5, 4.9) for bupropion, and 0.4% (-2.2, 3.0) for NRT transdermal nicotine.
 
 Table 16.
-Number of Patients with Clinically Significant or Serious NPS Adverse Events by Treatment Group Among Patients with a History of Psychiatric
+Number of Patients with Clinically Significant or Serious NPS Adverse Events by Treatment Group Among Patients with a History of Psychiatric disorder
 
 |  | Varenicline (N=1007) n(%) | Bupropion(N=1004) n (%) | NRT (N=995)n (%) | Placebo(N=997)n (%) |
 | --- | --- | --- | --- | --- |

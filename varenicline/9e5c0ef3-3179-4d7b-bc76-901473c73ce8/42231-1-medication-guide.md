@@ -210,7 +210,7 @@ They may harm them.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about varenicline tablets that is written for healthcare professionals.
 
-For more information about varenicline tablets and tips on how to quit smoking, go to www.parpharm.com or call Par Pharmaceutical at 1-800-828-9393.
+For more information about varenicline tablets and tips on how to quit smoking, go to www.parpharm.com or call Endo at 1-800-828-9393.
 
 If you are motivated to quit smoking and did not succeed during prior varenicline tablets treatment for reasons other than side effects, or if you returned to smoking after treatment, speak with your healthcare provider about whether another course of varenicline tablets therapy may be right for you.
 
@@ -224,26 +224,20 @@ In addition to these, the 1 mg tablet film coating includes FD&C blue #2/indigo 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dispense with Medication Guide available at: www.parpharm.com
+Dispense with Medication Guide available at: www.endo.com.
 
-Dist. by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam-603 103.
+Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Mfg.
-Lic.
-No.: TN00002121
+Neutral Code: TN/DRUGS/TN00002121
 
-OS155-01-74-04
+©2024 Endo, Inc. or one of its affiliates.
 
-Revised:01/2024
+OS155-01-74-05
+
+Revised: 04/2024

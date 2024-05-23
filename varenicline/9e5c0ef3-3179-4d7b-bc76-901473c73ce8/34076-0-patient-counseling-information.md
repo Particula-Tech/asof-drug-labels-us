@@ -91,4 +91,4 @@ Advise breastfeeding women to monitor the infant for seizures and vomiting [see 
 
 Brands listed are the trademarks of their respective owners.
 
-Dispense with Medication Guide available at: www.parpharm.com
+Dispense with Medication Guide available at: www.endo.com.
