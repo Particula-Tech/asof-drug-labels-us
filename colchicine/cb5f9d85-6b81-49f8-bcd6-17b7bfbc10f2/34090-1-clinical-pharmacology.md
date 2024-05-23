@@ -10,7 +10,7 @@ Colchicine also interferes with the inflammasome complex found in neutrophils an
 
 Absorption
 
-In healthy adults, MITIGARE® when given orally reached a mean Cmax of 3 ng/mL in 1.3 h (range 0.7 to 2.5 h) after 0.6 mg single dose administration.
+In healthy adults, MITIGARE when given orally reached a mean Cmax of 3 ng/mL in 1.3 h (range 0.7 to 2.5 h) after 0.6 mg single dose administration.
 
 Absolute bioavailability is reported to be approximately 45%.
 
@@ -22,7 +22,7 @@ Distribution
 
 Colchicine has a mean apparent volume of distribution in healthy young volunteers of approximately 5 to 8 L/kg.
 Colchicine binding to serum protein is about 39%, primarily to albumin.
-Colchicine crosses the placenta and distributes into breast milk [see Pregnancy (8.1) and Nursing Mothers(8.3)].
+Colchicine crosses the placenta and distributes into breast milk [see Pregnancy (8.1) and Lactation (8.2)].
 
 Metabolism
 
@@ -59,11 +59,11 @@ No pharmacokinetic data are available for patients with severe hepatic impairmen
 
 Drug Interactions
 
-Pharmacokinetic studies evaluating changes in systemic levels of colchicine when co-administered with CYP3A4 inhibitors in healthy volunteers have been conducted with MITIGARE®.
+Pharmacokinetic studies evaluating changes in systemic levels of colchicine when co-administered with CYP3A4 inhibitors in healthy volunteers have been conducted with MITIGARE.
 While voriconazole 200 mg BID for 5 days (considered a strong CYP3A4 inhibitor) and cimetidine 800 mg BID for 5 days (considered a weak CYP3A4 inhibitor) did not cause any changes in colchicine systemic levels, fluconazole 200 mg QD for 4 days with a 400 mg loading dose (considered a moderate CYP3A4 inhibitor) increased colchicine AUC by 40%.
 As voriconazole, cimetidine, and fluconazole are known as CYP3A4 inhibitors that do not inhibit P-gp, these studies show that CYP3A4 inhibition by itself may not lead to clinically significant increases in colchicine systemic levels in humans, and P-gp inhibition in addition to CYP3A4 inhibition may be necessary for clinically meaningful interactions of colchicine.
 However, based on published case reports that indicate the presence of colchicine toxicity when colchicine is co-administered with strong to moderate CYP3A4 inhibitors such as clarithromycin, erythromycin, grapefruit juice, etc., as well as the 40% increase in systemic levels of colchicine observed with concomitantly administered fluconazole (a moderate CYP3A4 inhibitor that is not known to inhibit P-gp) in a drug-drug interaction study, the drug-drug interaction potential of colchicine with strong or moderate CYP3A4 inhibitors that do not inhibit P-gp cannot be ruled out completely.
 
-Co-administration of MITIGARE® with propafenone (a P-gp inhibitor) at 225 mg BID for 5 days, in a pharmacokinetic study in healthy volunteers, did not cause any changes in systemic levels of colchicine.
-This indicates that propafenone can be administered with MITIGARE® without any dose adjustment.
+Co-administration of MITIGARE with propafenone (a P-gp inhibitor) at 225 mg BID for 5 days, in a pharmacokinetic study in healthy volunteers, did not cause any changes in systemic levels of colchicine.
+This indicates that propafenone can be administered with MITIGARE without any dose adjustment.
 However, these results should not be extrapolated to other P-gp inhibitors as colchicine is known to be a substrate for P‑gp and case reports of colchicine toxicity associated with the co-administration of P-gp inhibitors such as cyclosporine have been published.

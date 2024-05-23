@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
 Gastrointestinal disorders are the most common adverse reactions with colchicine.
-They are often the first signs of toxicity and may indicate that the colchicine dose needs to be reduced or therapy stopped.
+They are often the first signs of toxicity and may indicate that the colchicine dosage needs to be reduced or therapy stopped.
 These include diarrhea, nausea, vomiting, and abdominal pain.
 
 Colchicine has been reported to cause neuromuscular toxicity, which may present as muscle pain or weakness [see Warnings and Precautions (5.4)].
