@@ -10,7 +10,7 @@ The significance of the membrane action in the treatment of arrhythmias is uncer
 
 Propranolol hydrochloride extended-release capsules should not be considered a simple mg-for-mg substitute for conventional propranolol and the blood levels achieved do not match (are lower than) those of two to four times daily dosing with the same dose (see DOSAGE AND ADMINISTRATION).
 When changing to propranolol hydrochloride extended-release capsules from conventional propranolol, a possible need for retitration upwards should be considered, especially to maintain effectiveness at the end of the dosing interval.
-In most clinical settings, however, such as hypertension or angina where there is little correlation between plasma levels and clinical effect, propranolol hydrochloride extended-release capsules have been therapeutically equivalent to the same mg dose of conventional propranolol hydrochloride as assessed by 24-hour effects on blood pressure and on 24-hour exercise responses of heart rate, systolic pressure, and rate pressure product.
+In most clinical settings, however, such as hypertension or angina where there is little correlation between plasma levels and clinical effect, propranolol hydrochloride extended-release capsules have been therapeutically equivalent to the same mg dose of conventional propranolol hydrochloride extended-release capsules as assessed by 24-hour effects on blood pressure and on 24-hour exercise responses of heart rate, systolic pressure, and rate pressure product.
 
 ## Mechanism of Action
 
@@ -36,7 +36,7 @@ Beta-adrenergic receptors have been demonstrated in the pial vessels of the brai
 
 Propranolol is highly lipophilic and almost completely absorbed after oral administration.
 However, it undergoes high first pass metabolism by the liver and on average, only about 25% of propranolol reaches the systemic circulation.
-Propranolol hydrochloride extended-release capsules (60, 80, 120, and 160 mg) release propranolol hydrochloride at a controlled and predictable rate.
+Propranolol hydrochloride extended-release capsules (60 mg, 80 mg, 120 mg, and 160 mg) release propranolol hydrochloride at a controlled and predictable rate.
 Peak blood levels following dosing with propranolol hydrochloride extended-release capsules occur at about 6 hours.
 
 The effect of food on propranolol hydrochloride extended-release capsules bioavailability has not been investigated.
@@ -57,7 +57,7 @@ Propranolol is metabolized through three primary routes: aromatic hydroxylation 
 It has been estimated that the percentage contributions of these routes to total metabolism are 42%, 41% and 17%, respectively, but with considerable variability between individuals.
 The four major metabolites are propranolol glucuronide, naphthyloxylactic acid and glucuronic acid, and sulfate conjugates of 4-hydroxy propranolol.
 
-In-vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
+In vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
 Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
 4-hydroxy propranolol is a weak inhibitor of CYP2D6.
 
@@ -65,9 +65,9 @@ Propranolol is also a substrate of CYP2C19 and a substrate for the intestinal ef
 Studies suggest however that p-gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range.
 
 In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half-life.
-Partial clearance of 4-hydroxy propranolol was significantly higher and naphthyloxyactic acid was significantly lower in EMs than PMs.
+Partial clearance of 4-hydroxy propranolol was significantly higher and naphthyloxylactic acid was significantly lower in EMs than PMs.
 
-When measured at steady state over a 24-hour period the areas under the propranolol plasma concentration-time curve (AUCs) for the propranolol hydrochloride extended-release capsules are approximately 60% to 65% of the AUCs for a comparable divided daily dose of propranolol hydrochloride tablets.
+When measured at steady state over a 24-hour period the areas under the propranolol plasma concentration-time curve (AUCs) for the propranolol hydrochloride extended-release capsules are approximately 60% to 65% of the AUCs for a comparable divided daily dose of propranolol hydrochloride extended-release tablets.
 The lower AUCs for the propranolol hydrochloride extended-release capsules are due to greater hepatic metabolism of propranolol, resulting from the slower rate of absorption of propranolol.
 Over a twenty-four (24) hour period, blood levels are fairly constant for about twelve (12) hours, then decline exponentially.
 The apparent plasma half-life is about 10 hours.
@@ -75,8 +75,8 @@ The apparent plasma half-life is about 10 hours.
 ### Enantiomers
 
 Propranolol is a racemic mixture of two enantiomers, R(+) and S(–).
-The S(–)-enantiomer is approximately 100 times as potent as the R(+)-enantiomer in blocking beta adrenergic receptors.
-In normal subjects receiving oral doses of racemic propranolol, S(–)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40-90% as a result of stereoselective hepatic metabolism.
+The S(–)-enantiomer is approximately 100 times as potent as the R(+)-enantiomer in blocking beta-adrenergic receptors.
+In normal subjects receiving oral doses of racemic propranolol, S(–)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
 Clearance of the pharmacologically active S(–)-propranolol is lower than R(+)-propranolol after intravenous and oral doses.
 
 ### Special Population
@@ -89,7 +89,7 @@ Additionally, the half-life of both the R- and S-propranolol were prolonged in t
 
 Clearance of propranolol is reduced with aging due to decline in oxidation capacity (ring oxidation and side chain oxidation).
 Conjugation capacity remains unchanged.
-In a study of 32 patients age 30 to 84 years given a single 20-mg dose of propranolol, an inverse correlation was found between age and the partial metabolic clearances to 4-hydroxypropranolol (40HP ring oxidation) and to naphthoxylactic acid (NLA-side chain oxidation).
+In a study of 32 patients age 30 to 84 years given a single 20 mg dose of propranolol, an inverse correlation was found between age and the partial metabolic clearances to 4-hydroxypropranolol (40HP ring oxidation) and to naphthoxylactic acid (NLA-side chain oxidation).
 No correlation was found between age and the partial metabolic clearance to propranolol glucuronide (PPLG conjugation).
 
 #### Gender
@@ -134,42 +134,42 @@ There are no data on drug interactions with propranolol hydrochloride extended-r
 
 Interactions with Substrates, Inhibitors or Inducers of Cytochrome P-450 Enzymes
 
-Because propranolol’s metabolism involves multiple pathways in the Cytochrome P-450 system (CYP2D6, 1A2, 2C19), co-administration with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see Drug Interactions under PRECAUTIONS).
+Because propranolol’s metabolism involves multiple pathways in the Cytochrome P-450 system (CYP2D6, 1A2, 2C19), coadministration with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see Drug Interactions under PRECAUTIONS).
 
 Substrates or Inhibitors of CYP2D6
 
-Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir.
+Blood levels and/or toxicity of propranolol may be increased by coadministration with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir.
 No interactions were observed with either ranitidine or lansoprazole.
 
 Substrates or Inhibitors of CYP1A2
 
-Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan.
+Blood levels and/or toxicity of propranolol may be increased by coadministration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan.
 
 Substrates or Inhibitors of CYP2C19
 
-Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, tenioposide, and tolbutamide.
+Blood levels and/or toxicity of propranolol may be increased by coadministration with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, tenioposide, and tolbutamide.
 No interaction was observed with omeprazole.
 
 Inducers of Hepatic Drug Metabolism
 
-Blood levels of propranolol may be decreased by co-administration with inducers such as rifampin, ethanol, phenytoin, and phenobarbital.
+Blood levels of propranolol may be decreased by coadministration with inducers such as rifampin, ethanol, phenytoin, and phenobarbital.
 Cigarette smoking also induces hepatic metabolism and has been shown to increase up to 77% the clearance of propranolol, resulting in decreased plasma concentrations.
 
 Cardiovascular Drugs
 
 Antiarrhythmics
 
-The AUC of propafenone is increased by more than 200% by co-administration of propranolol.
+The AUC of propafenone is increased by more than 200% by coadministration of propranolol.
 
-The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two to three fold increased blood concentration and greater degrees of clinical beta-blockade.
+The metabolism of propranolol is reduced by coadministration of quinidine, leading to a two to three fold increased blood concentration and greater degrees of clinical beta-blockade.
 
-The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
+The metabolism of lidocaine is inhibited by coadministration of propranolol, resulting in a 25% increase in lidocaine concentrations.
 
 Calcium Channel Blockers
 
-The mean Cmax and AUC of propranolol are increased respectively, by 50% and 30% by co-administration of nisoldipine and by 80% and 47%, by co-administration of nicardipine.
+The mean Cmax and AUC of propranolol are increased respectively, by 50% and 30% by coadministration of nisoldipine and by 80% and 47%, by coadministration of nicardipine.
 
-The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by co-administration of propranolol.
+The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by coadministration of propranolol.
 
 Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.
 Verapamil does not affect the pharmacokinetics of propranolol.
@@ -182,33 +182,33 @@ Administration of zolmitriptan or rizatriptan with propranolol resulted in incre
 
 Theophylline
 
-Co-administration of theophylline with propranolol decreases theophylline oral clearance by 30% to 52%.
+Coadministration of theophylline with propranolol decreases theophylline oral clearance by 30% to 52%.
 
 Benzodiazepines
 
 Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites.
 Diazepam does not alter the pharmacokinetics of propranolol.
 
-The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by co-administration of propranolol.
+The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by coadministration of propranolol.
 
 Neuroleptic Drugs
 
-Co-administration of long-acting propranolol at doses greater than or equal to 160 mg/day resulted in increased thioridazine plasma concentrations ranging from 55% to 369% and increased thioridazine metabolite (mesoridazine) concentrations ranging from 33% to 209%.
+Coadministration of long-acting propranolol at doses greater than or equal to 160 mg/day resulted in increased thioridazine plasma concentrations ranging from 55% to 369% and increased thioridazine metabolite (mesoridazine) concentrations ranging from 33% to 209%.
 
-Co-administration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.
+Coadministration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.
 
 Anti-Ulcer Drugs
 
-Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and Cmax by 46% and 35%, respectively.
-Co-administration with aluminum hydroxide gel (1200 mg) may result in a decrease in propranolol concentrations.
+Coadministration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and Cmax by 46% and 35%, respectively.
+Coadministration with aluminum hydroxide gel (1,200 mg) may result in a decrease in propranolol concentrations.
 
-Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol’s pharmacokinetics.
+Coadministration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol’s pharmacokinetics.
 
 Lipid Lowering Drugs
 
-Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.
+Coadministration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.
 
-Co-administration of propranolol with lovastatin or pravastatin, decreased 18% to 23% the AUC of both, but did not alter their pharmacodynamics.
+Coadministration of propranolol with lovastatin or pravastatin, decreased 18% to 23% the AUC of both, but did not alter their pharmacodynamics.
 Propranolol did not have an effect on the pharmacokinetics of fluvastatin.
 
 Warfarin

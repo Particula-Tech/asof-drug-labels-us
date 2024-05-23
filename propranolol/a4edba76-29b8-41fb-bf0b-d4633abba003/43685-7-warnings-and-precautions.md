@@ -16,10 +16,10 @@ Cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necroly
 ## Cardiac Failure
 
 Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
-Although beta blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving diuretics as needed.
+Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
-In Patients without a History of Heart Failure, continued use of beta blockers can, in some cases, lead to cardiac failure.
+In Patients without a History of Heart Failure, continued use of beta-blockers can, in some cases, lead to cardiac failure.
 
 ## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
 
@@ -30,12 +30,10 @@ Propranolol should be administered with caution in this setting since it may pro
 
 Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-## Diabetes and Hypoglycemia
+## Hypoglycemia
 
-Beta-adrenergic blockade may prevent the appearance of certain premonitory signs and symptoms (pulse rate and pressure changes) of acute hypoglycemia, especially in labile insulin-dependent diabetics.
-In these patients, it may be more difficult to adjust the dosage of insulin.
-
-Propranolol therapy, particularly when given to infants and children, diabetic or not, has been associated with hypoglycemia especially during fasting as in preparation for surgery.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 Hypoglycemia has been reported in patients taking propranolol after prolonged physical exertion and in patients with renal insufficiency.
 
@@ -64,6 +62,11 @@ Withdrawal may lead to a return of increased intraocular pressure.
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
+## Information for Patients
+
+Inform patients or caregivers that there is a risk of hypoglycemia when propranolol hydrochloride extended-release capsules are given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia.
+
 ## Clinical Laboratory Tests
 
 In patients with hypertension, use of propranolol has been associated with elevated levels of serum potassium, serum transaminases, and alkaline phosphatase.
@@ -72,7 +75,7 @@ In severe heart failure, the use of propranolol has been associated with increas
 ## Drug Interactions
 
 Caution should be exercised when propranolol hydrochloride extended-release capsules are administered with drugs that have an affect on CYP2D6, 1A2, or 2C19 metabolic pathways.
-Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see Drug Interactions in PHARMACOKINETICS AND DRUG METABOLISM).
+Coadministration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see Drug Interactions in PHARMACOKINETICS AND DRUG METABOLISM).
 
 Alcohol when used concomitantly with propranolol, may increase plasma levels of propranolol.
 
@@ -87,7 +90,7 @@ Quinidine increases the concentration of propranolol and produces greater degree
 Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.
 
 The clearance of lidocaine is reduced with administration of propranolol.
-Lidocaine toxicity has been reported following co-administration with propranolol.
+Lidocaine toxicity has been reported following coadministration with propranolol.
 
 Caution should be exercised when administering propranolol hydrochloride extended-release capsules with drugs that slow A-V nodal conduction, e.g., lidocaine and calcium channel blockers.
 
@@ -103,7 +106,7 @@ Both agents may depress myocardial contractility or atrioventricular conduction.
 
 There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.
 
-Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
+Coadministration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
 
 ACE Inhibitors
 
@@ -142,7 +145,7 @@ Administration of indomethacin with propranolol may reduce the efficacy of propr
 
 ### Antidepressants
 
-The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta blocking activity of propranolol.
+The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta-blocking activity of propranolol.
 
 ### Anesthetic Agents
 
@@ -168,9 +171,7 @@ On a body surface area basis, this dose in the mouse and rat is, respectively, a
 In a study in which both male and female rats were exposed to propranolol hydrochloride in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for two generations, there were no effects on fertility.
 Based on differing results from Ames Tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol in bacteria (S. typhimurium strain TA 1538).
 
-## Pregnancy:
-
-Pregnancy Category C
+## Pregnancy
 
 In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
 At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
