@@ -63,8 +63,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of adalimumab have been established for:
 
-- •Reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
-- •The treatment of moderately to severely active Crohn’s Disease in pediatric patients 6 years of age and older.
+- •reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
+- •the treatment of moderately to severely active Crohn’s Disease in pediatric patients 6 years of age and older.
+
+Pediatric assessments for adalimumab demonstrate that adalimumab is safe and effective for pediatric patients in indications for which HUMIRA (adalimumab) is approved.
+However, adalimumab is not approved for such indications due to marketing exclusivity for HUMIRA (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
 Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
@@ -72,7 +75,7 @@ The clinical significance of elevated adalimumab concentrations in infants is un
 The safety of administering live or live-attenuated vaccines in exposed infants is unknown.
 Risks and benefits should be considered prior to vaccinating (live or live-attenuated) exposed infants.
 
-Post-marketing cases of lymphoma, including hepatosplenic T-cell lymphoma and other malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF blockers including adalimumab products [see Boxed Warning and Warnings and Precautions (5.2)].
+Post-marketing cases of lymphoma, including hepatosplenic T-cell lymphoma and other malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blockers including adalimumab products [see Warnings and Precautions (5.2)].
 
 Juvenile Idiopathic Arthritis
 
@@ -82,15 +85,15 @@ Adalimumab products have not been studied in patients with polyarticular JIA les
 
 The safety of adalimumab in patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
 
-The safety and effectiveness of adalimumab products have not been established in pediatric patients with JIA less than 2 years of age.
+The safety and effectiveness of adalimumab have not been established in pediatric patients with JIA less than 2 years of age.
 
 Pediatric Crohn’s Disease
 
-The safety and effectiveness of adalimumab products for the treatment of moderately to severely active Crohn’s disease have been established in pediatric patients 6 years of age and older.
-Use of adalimumab products for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
+The safety and effectiveness of adalimumab for the treatment of moderately to severely active Crohn’s disease have been established in pediatric patients 6 years of age and older.
+Use of adalimumab for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
 The adverse reaction profile in patients 6 years to 17 years of age was similar to adults.
 
-The safety and effectiveness of adalimumab products have not been established in pediatric patients with Crohn’s disease less than 6 years of age.
+The safety and effectiveness of adalimumab have not been established in pediatric patients with Crohn’s disease less than 6 years of age.
 
 ## 8.5 Geriatric Use
 

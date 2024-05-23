@@ -6,7 +6,7 @@ Adalimumab-adaz is produced by recombinant DNA technology in a Chinese hamster o
 It consists of 1330 amino acids and has a molecular weight of approximately 148 kilodaltons.
 
 Adalimumab (adalimumab-adaz) injection is supplied as a sterile, preservative-free solution for subcutaneous administration.
-The drug product is supplied as either a single-dose, prefilled pen (Sensoready Pen), or as a single-dose, prefilled 1 mL glass syringe with needle guard and add-on finger flange or as a single-dose prefilled 1 mL glass syringe.
+The drug product is supplied as either a single-dose, prefilled pen (Sensoready Pen), as a single-dose, prefilled 1 mL glass syringe with needle guard and add-on finger flange or as a single-dose prefilled 1 mL glass syringe.
 Enclosed within the Pen is a single-dose, 1 mL prefilled glass syringe.
 The solution of adalimumab is clear, colorless or slightly yellowish, with a pH of about 5.2.
 

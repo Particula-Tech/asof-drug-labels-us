@@ -11,7 +11,7 @@ In the treatment of RA, some patients not taking concomitant MTX may derive addi
 The recommended subcutaneous dosage of adalimumab for patients 2 years of age and older with polyarticular juvenile idiopathic arthritis (JIA) is based on weight as shown below.
 MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatment with adalimumab.
 
-| Pediatric Weight (2 years of age and older) | Recommended Dosage |
+| Pediatric Weight (2 Years of Age and older) | Recommended Dosage |
 | --- | --- |
 | 10 kg (22 lbs) to less than 15 kg (33 lbs) | 10 mg every other week |
 | 15 kg (33 lbs) to less than 30 kg (66 lbs) | 20 mg every other week |
@@ -34,7 +34,7 @@ The recommended subcutaneous dosage of adalimumab for pediatric patients 6 years
 
 | Pediatric Weight | Recommended Dosage |  |
 | --- | --- | --- |
-| Day 1 through 15 | Starting on Day 29 |  |
+| Days 1 through 15 | Starting on Day 29 |  |
 | 17 kg (37 lbs) to less than 40 kg (88 lbs) | Day 1: 80 mgDay 15: 40 mg | 20 mg every other week |
 | 40 kg (88 lbs) and greater | Day 1: 160 mg (single dose or split over two consecutive days)Day 15: 80 mg | 40 mg every other week |
 
@@ -42,17 +42,24 @@ The recommended subcutaneous dosage of adalimumab for pediatric patients 6 years
 
 Adults
 
-The recommended subcutaneous dosage of adalimumab for adult patients with ulcerative colitis (UC) is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+The recommended subcutaneous dosage of adalimumab for adult patients with ulcerative colitis is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Two weeks later (Day 29) continue with a dosage of 40 mg every other week.
 
 Discontinue adalimumab in adult patients without evidence of clinical remission by eight weeks (Day 57) of therapy.
 Aminosalicylates and/or corticosteroids may be continued during treatment with adalimumab.
 Azathioprine and 6-mercaptopurine (6-MP) [see Warnings and Precautions (5.2)] may be continued during treatment with adalimumab if necessary.
 
-## 2.5 Plaque Psoriasis
+## 2.5 Plaque Psoriasis or Adult Uveitis
 
-The recommended subcutaneous dosage of adalimumab for adult patients with plaque psoriasis (Ps) is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
+The recommended subcutaneous dosage of adalimumab for adult patients with plaque psoriasis (Ps) or Uveitis (UV) is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
 The use of adalimumab products in moderate to severe chronic Ps beyond one year has not been evaluated in controlled clinical studies.
+
+## 2.6 Hidradenitis Suppurativa
+
+Adults
+
+The recommended subcutaneous dosage of adalimumab for adult patients with hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+Begin 40 mg weekly or 80 mg every other week dosing two weeks later (Day 29).
 
 ## 2.7 Monitoring to Assess Safety
 

@@ -49,8 +49,6 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-Product of Austria
-
 US License No. 2003
 
 All third party trademarks are the property of their respective owners.
