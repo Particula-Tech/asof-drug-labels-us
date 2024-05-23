@@ -21,12 +21,10 @@ Lactation
 
 Advise nursing mothers using CARISOPRODOL to monitor neonates for signs of sedation [seeUse in Specific Populations (8.2)].
 
-Manufactured for: Ingenus Pharmaceuticals, LLC Orlando, FL 32839-6408
+Manufactured for: Ingenus Pharmaceuticals, LLC Orlando, FL 32811
 
 Rx Only
 
-554100
+554101
 
-Revised: 05/2019
-
-ingenus
+Revised: 01/2023
