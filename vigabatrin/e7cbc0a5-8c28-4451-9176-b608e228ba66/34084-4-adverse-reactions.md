@@ -17,7 +17,7 @@ The following serious and otherwise important adverse reactions are described el
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In U.S. and primary non-U.S. clinical studies of 4,079 vigabatrin treated patients, the most common (≥5%) adverse reactions associated with the use of vigabatrin in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
+In U.S. and primary non-U.S. clinical studies of 4,079 vigabatrin-treated patients, the most common (≥5%) adverse reactions associated with the use of vigabatrin in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
 
 The adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥1% of patients were convulsion and depression.
 
@@ -27,7 +27,7 @@ Refractory Complex Partial Seizures
 
 Adults
 
-Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per vigabatrin treated group and that occurred more frequently than in placebo patients from 2 U.S. adjunctive clinical studies of refractory CPS in adults.
+Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per vigabatrin-treated group and that occurred more frequently than in placebo patients from 2 U.S. adjunctive clinical studies of refractory CPS in adults.
 
 Table 5.
 Adverse Reactions in Pooled, Adjunctive Trials in Adults with Refractory Complex Partial Seizures

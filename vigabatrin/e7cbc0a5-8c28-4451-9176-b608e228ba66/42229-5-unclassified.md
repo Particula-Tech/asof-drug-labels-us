@@ -12,8 +12,8 @@ Talk to your healthcare provider if you have any questions about the right dose 
 Important Note:
 
 - Vigabatrin for oral solution comes in a packet
-- Each packet contains 500 mg of vigabatrin powder
-- Vigabatrin for oral solution powder must be mixed with water only.
+- Each vigabatrin packet contains 500 mg of powder
+- Vigabatrin for oral solution must be mixed with water only.
   The water may be cold or at room temperature.
 - Your healthcare provider will tell you:
 
@@ -124,24 +124,18 @@ The barrel and plunger can be hand washed with soap and water, rinsed, and allow
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Dist. by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam - 603 103.
+Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Mfg.
-Lic.
-No.: TN00002121
+Neutral Code: TN/DRUGS/TN00002121
 
-OS358-01-74-06
+©2024 Endo, Inc. or one of its affiliates.
 
-Revised: 03/2020
+OS358-01-74-09
+
+Revised: 04/2024

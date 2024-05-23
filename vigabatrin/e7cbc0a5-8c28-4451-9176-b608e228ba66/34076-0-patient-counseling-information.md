@@ -2,7 +2,7 @@
 
 Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Administration Instructions for Vigabatrin for Oral Solution
+Administration Instructions for Vigabatrin for oral solution
 
 Physicians should confirm that caregiver(s) understand how to mix vigabatrin for oral solution and to administer the correct dose to their infants and pediatric patients [see Dosage and Administration (2.5)].
 
@@ -54,3 +54,19 @@ Withdrawal of Vigabatrin for Oral Solution Therapy
 
 Instruct patients and caregivers not to suddenly discontinue vigabatrin for oral solution therapy without consulting with their healthcare provider.
 As with all AEDs, withdrawal should normally be gradual [see Warnings and Precautions (5.6)].
+
+Manufactured for:
+
+Endo USA
+
+Malvern, PA 19355 U.S.A.
+
+Made in India
+
+Neutral Code: TN/DRUGS/TN00002121
+
+©2024 Endo, Inc. or one of its affiliates.
+
+OS358-01-74-09
+
+Revised: 04/2024

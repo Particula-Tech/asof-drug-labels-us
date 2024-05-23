@@ -15,7 +15,7 @@ Because assessing vision may be difficult in infants and children, the frequency
 For this reason, the understanding of the risk is primarily based on the adult experience.
 The possibility that vision loss from vigabatrin may be more common, more severe, or have more severe functional consequences in infants and children than in adults cannot be excluded.
 
-The onset of vision loss from vigabatrin is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
+The onset of vision loss from vigabatrin is unpredictable and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
 
 The risk of vision loss increases with increasing dose and cumulative exposure, but there is no dose or exposure known to be free of risk of vision loss.
 
@@ -110,7 +110,7 @@ Antiepileptic drugs (AEDs), including vigabatrin, increase the risk of suicidal 
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
-In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebotreated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug treated patients in the trials and none in placebo treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
@@ -195,7 +195,7 @@ Weight gain was not related to the occurrence of edema.
 ## 5.11 Edema
 
 Vigabatrin causes edema in adults.
-Pediatric clinical trials were not designed to assess edema, but observed incidence of edema based pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
+Pediatric clinical trials were not designed to assess edema, but observed incidence of edema-based pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
 
 Pooled data from controlled trials demonstrated increased risk among vigabatrin patients compared to placebo patients for peripheral edema (vigabatrin 2%, placebo 1%), and edema (vigabatrin 1%, placebo 0%).
 In these studies, one vigabatrin and no placebo patients discontinued for an edema related AE.

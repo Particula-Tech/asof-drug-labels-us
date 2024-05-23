@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Powder for Oral Solution: 500 mg packets of a white to off-white powder.
+For oral solution: 500 mg packet containing a white to off-white powder.

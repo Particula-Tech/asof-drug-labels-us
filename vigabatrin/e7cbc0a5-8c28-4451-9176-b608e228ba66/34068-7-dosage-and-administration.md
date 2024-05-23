@@ -6,7 +6,7 @@ Dosing
 
 Use the lowest dosage and shortest exposure to vigabatrin for oral solution consistent with clinical objectives [see Warnings and Precautions (5.1)].
 
-The vigabatrin for oral solution dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2, 2.3)].
+The vigabatrin for oral solution dosing regimen depends on the indication, age group, weight, and dosage form (tablets or for oral solution) [see Dosage and Administration (2.2, 2.3)].
 Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
 
 Monitoring of vigabatrin plasma concentrations to optimize therapy is not helpful.
@@ -15,7 +15,7 @@ Administration
 
 Vigabatrin for oral solution is given orally with or without food.
 
-Vigabatrin for oral solution powder for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
+Vigabatrin for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
@@ -42,14 +42,14 @@ Pediatric patients weighing more than 60 kg should be dosed according to adult r
 Table 1.
 CPS Dosing Recommendations for Pediatric Patients Weighing 10 kg up to 60 kg††
 
-| Body Weight [kg] | Total Daily* Starting Dose [mg/day] | Total Daily* Maintenance Dose† [mg/day] |
+| Body Weight [kg] | Total Daily*Starting Dose [mg/day] | Total Daily*Maintenance Dose† [mg/day] |
 | --- | --- | --- |
 | 10 kg to 15 kg | 350 mg | 1050 mg |
 | Greater than 15 kg to 20 kg | 450 mg | 1300 mg |
 | Greater than 20 kg to 25 kg | 500 mg | 1500 mg |
 | Greater than 25 kg to 60 kg | 500 mg | 2000 mg |
 
-*Administered in two divided doses.
+*Administered in two divided doses
 
 †Maintenance dose is based on 3,000 mg/day adult-equivalent dose
 
@@ -119,7 +119,7 @@ Male Child (<12 years): K=0.70
 
 The effect of dialysis on vigabatrin for oral solution clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 
-## 2.5 Preparation and Administration Instructions for Vigabatrin for Oral Solution
+## 2.5 Preparation and Administration Instructions for Vigabatrin for oral solution
 
 If using vigabatrin for oral solution, physicians should review and discuss the Medication Guide and instructions for mixing and giving vigabatrin for oral solution with the patient or caregiver(s).
 Physicians should confirm that patients or caregiver(s) understand how to mix vigabatrin powder with water and administer the correct daily dose.

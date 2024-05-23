@@ -12,6 +12,6 @@ The n-octanol/water partition coefficient of vigabatrin, USP is about 0.011 (log
 Vigabatrin, USP melts with decomposition in a 3-degree range within the temperature interval of 171°C to 176°C.
 The dissociation constants (pKa) of vigabatrin, USP are 4 and 9.7 at room temperature (25°C).
 
-Vigabatrin for oral solution, USP is available as white to off-white powder for oral administration.
+Vigabatrin for oral solution, USP is available as a white to off-white powder.
 Each packet contains 500 mg of vigabatrin, USP.
 The inactive ingredient is povidone.
