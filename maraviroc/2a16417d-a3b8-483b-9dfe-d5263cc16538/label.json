@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217114"
+  ],
+  "inn": "maraviroc",
+  "labeler": "A2A Integrated Pharmaceuticals",
+  "package_ndcs": [
+    "73141-024-02",
+    "73141-025-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "maraviroc",
+      "name": "Maraviroc"
+    }
+  ],
+  "setid": "2a16417d-a3b8-483b-9dfe-d5263cc16538",
+  "source": "dailymed"
+}
