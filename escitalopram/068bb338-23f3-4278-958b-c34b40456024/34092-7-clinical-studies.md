@@ -15,7 +15,7 @@ In a flexible-dose study, comparing escitalopram, titrated between 10 mg and 20 
 
 Analyses of the relationship between treatment outcome and age, gender, and race did not suggest any differential responsiveness on the basis of these patient characteristics.
 
-In a longer-term trial, 274 patients meeting (DSM-IV) criteria for major depressive disorder, who had responded during an initial 8-week, open-label treatment phase with escitalopram 10 mg or 20 mg daily, were randomized to continuation of escitalopram at their same dose, or to placebo, for up to 36 weeks of observation for relapse.
+In a longer-term trial, 274 patients meeting (DSM-IV) criteria for major depressive disorder, who had responded during an initial 8 week, open-label treatment phase with escitalopram 10 mg or 20 mg daily, were randomized to continuation of escitalopram at their same dose, or to placebo, for up to 36 weeks of observation for relapse.
 Response during the open-label phase was defined by having a decrease of the MADRS total score to ≤ 12.
 Relapse during the double-blind phase was defined as an increase of the MADRS total score to ≥ 22, or discontinuation due to insufficient clinical response.
 Patients receiving continued escitalopram experienced a statistically significant longer time to relapse compared to those receiving placebo.
@@ -38,5 +38,5 @@ In all three studies, escitalopram showed statistically significant greater mean
 There were too few patients in differing ethnic and age groups to adequately assess whether or not escitalopram has differential effects in these groups.
 There was no difference in response to escitalopram between men and women.
 
-Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets.
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO® (escitalopram) tablets.
 However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

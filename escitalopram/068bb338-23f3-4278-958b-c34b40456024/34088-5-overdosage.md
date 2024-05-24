@@ -7,7 +7,7 @@ The following have been reported with escitalopram tablet overdosage:
   Hypertension most commonly seen, but rarely can see hypotension alone or with co-ingestants including alcohol.
 - Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
 
-Prolonged cardiac monitoring is recommended in escitalopram tablets overdosage ingestions due to the arrhythmia risk.
+Prolonged cardiac monitoring is recommended in escitalopram overdosage ingestions due to the arrhythmia risk.
 
 Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a escitalopram overdose.
 

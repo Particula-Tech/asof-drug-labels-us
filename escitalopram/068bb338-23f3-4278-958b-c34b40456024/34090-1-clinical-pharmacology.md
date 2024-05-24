@@ -40,7 +40,7 @@ In humans, unchanged escitalopram is the predominant compound in plasma.
 At steady state, the concentration of the escitalopram metabolite S-DCT in plasma is approximately one-third that of escitalopram.
 The level of S-DDCT was not detectable in most subjects.
 In vitro studies show that escitalopram is at least 7 and 27 times more potent than S-DCT and S-DDCT, respectively, in the inhibition of serotonin reuptake, suggesting that the metabolites of escitalopram do not contribute significantly to the antidepressant actions of escitalopram.
-S-DCT and S-DDCT also have no or very low affinity for serotonergic (5-HT1to7) or other receptors including alpha- and beta-adrenergic, dopamine (D1to5), histamine (H1to3), muscarinic (M1to5), and benzodiazepine receptors.
+S-DCT and S-DDCT also have no or very low affinity for serotonergic (5-HT1 to 7) or other receptors including alpha- and beta-adrenergic, dopamine (D1 to 5), histamine (H1 to 3), muscarinic (M1 to 5), and benzodiazepine receptors.
 S-DCT and S-DDCT also do not bind to various ion channels including Na+, K+, Cl-, and Ca++ channels.
 In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 are the primary isozymes involved in the N-demethylation of escitalopram.
 
@@ -56,7 +56,7 @@ Escitalopram AUC and half-life were increased by approximately 50% in elderly su
 
 Male and Female Patients Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults, and adolescents, no dosage adjustment on the basis of gender is needed.
 
-Patients with Hepatic Impairment Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects[see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
+Patients with Hepatic Impairment Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
 
 Patients with Renal Impairment In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
 No information is available about the pharmacokinetics of escitalopram in patients with severely reduced renal function (creatinine clearance < 20 mL/min) [see Use in Specific Populations (8.7)].
@@ -98,5 +98,5 @@ Warfarin Administration of 40 mg/day racemic citalopram for 21 days did not affe
 Prothrombin time was increased by 5%.
 The clinical significance of these findings is unknown.
 
-Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets.
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO® (escitalopram) tablets.
 However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

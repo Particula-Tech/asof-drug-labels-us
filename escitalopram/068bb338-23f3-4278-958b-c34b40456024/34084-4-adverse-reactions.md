@@ -37,7 +37,7 @@ Adverse reactions that were associated with the discontinuation of at least 1% o
 Pediatric Patients Adverse reactions in pediatric patients 6 to 17 years of age were associated with discontinuation of 3.5% of 286 patients receiving escitalopram and 1% of 290 patients receiving placebo.
 The most common adverse reaction (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was insomnia (1% escitalopram, 0% placebo).
 
-The safety and effectiveness of escitalopram tablet have not been established in pediatric patients less than 12 years of age with MDD.
+The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD.
 
 Generalized Anxiety Disorder
 
@@ -170,7 +170,7 @@ In particular, some evidence suggests that SSRIs can cause such untoward sexual 
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
 
-| TABLE5 |  |  |
+| TABLE 5 |  |  |
 | --- | --- | --- |
 | Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials |  |  |
 | Adverse Event | Escitalopram | Placebo |
@@ -239,7 +239,7 @@ Special Senses: vision blurred, tinnitus.
 
 Urinary System Disorders: urinary frequency, urinary tract infection.
 
-Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets.
+Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO® (escitalopram) tablets.
 However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Post-Marketing Experience
