@@ -12,6 +12,7 @@ NDC 0143-3018-10: Bottle of 1000 Capsules
 
 ## 16.2 Storage
 
-Store at 20° to 25°C (68° to 77°F), [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F).
+[See USP Controlled Room Temperature].
 
 Protect from light and moisture.

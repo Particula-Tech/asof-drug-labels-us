@@ -1,22 +1,44 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Use in Pregnancy
+## 8.1 Pregnancy
 
-There are no adequate and well-controlled studies with colchicine capsules in pregnant women.
+Available data from published literature on colchicine use in pregnancy over several decades have not identified any drug associated risks for major birth defects, miscarriage, or other adverse maternal or fetal outcomes (see Data).
 Colchicine crosses the human placenta.
-Developmental studies in animals were not conducted with colchicine capsules, however published animal reproduction and development studies with colchicine demonstrated embryofetal toxicity, teratogenicity, and altered postnatal development at exposures within or above the clinical therapeutic range.
-Colchicine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Although animal reproductive and developmental studies were not conducted with colchicine capsules, published animal reproduction and development studies indicate that colchicine causes embryofetal toxicity, teratogenicity, and altered postnatal development at exposures within or above the clinical therapeutic range.
 
-## 8.2 Labor and Delivery
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-The effect of colchicine on labor and delivery is unknown.
+Data
 
-## 8.3 Use in Nursing Mothers
+Human Data
 
-Colchicine is excreted into human milk.
-Limited information suggests that infants exclusively breastfed receive less than 10 percent of the maternal weight-adjusted dose.
-While there are no published reports of adverse effects in breast-feeding infants of mothers taking colchicine, colchicine can affect gastrointestinal cell renewal and permeability.
-Caution should be exercised and breastfeeding infants should be observed for adverse effects when colchicine capsules is administered to a nursing woman.
+Available data from published observational studies, case series, and case reports over several decades do not suggest an increased risk for major birth defects or miscarriage in pregnant women with rheumatic diseases (such as rheumatoid arthritis, Behcet’s disease, or Familial Mediterranean Fever (FMF)) treated with colchicine at therapeutic doses during pregnancy.
+Limitations of these data include the lack of randomization and inability to control for confounders such as underlying maternal disease and maternal use of concomitant medications.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Colchicine is present in human milk (see Data).
+Adverse events in breastfed infants have not been reported in the published literature after administration of colchicine to lactating women.
+There are no data on the effects of colchicine on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for colchicine capsules and any potential adverse effects on the breastfed child from colchicine or from the underlying maternal condition.
+
+Data
+
+Human data
+
+Limited published data from case reports and a small lactation study demonstrate that colchicine is present in breastmilk.
+A systematic review of literature reported no adverse effects in 149 breastfed children.
+In a prospective observational cohort study, no gastrointestinal or other symptoms were reported in 38 colchicine-exposed breastfed infants.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Case reports and epidemiology studies in human male subjects on colchicine therapy indicated that infertility from colchicine is rare and may be reversible.
 
 ## 8.4 Pediatric Use
 
