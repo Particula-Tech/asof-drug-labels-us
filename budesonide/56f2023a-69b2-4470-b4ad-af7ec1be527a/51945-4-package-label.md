@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mL Stick Pack Carton
+# PRINCIPAL DISPLAY PANEL - 10 mL packets Carton
 
 NDC 64764-105-60 Rx Only
 
@@ -8,6 +8,6 @@ Eohilia™ (budesonide oral suspension)
 
 For Oral Use
 
-60 single-dose 10 mL stick packs
+60 unit-dose 10 mL packets
 
 Takeda

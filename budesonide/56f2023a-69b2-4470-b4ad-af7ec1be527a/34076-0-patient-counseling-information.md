@@ -43,9 +43,9 @@ Advise patients:
   Wait for at least 30 minutes to eat or drink after taking EOHILIA [see Clinical Pharmacology (12.3)].
 - Administer EOHILIA as follows:
   1. Do NOT mix EOHILIA with food or liquid.
-  2. Shake EOHILIA stick pack for at least 10 seconds prior to opening.
-  3. Squeeze the stick pack from the bottom to the top directly into the mouth.
-     Repeat 2 to 3 times until the EOHILIA stick pack is empty.
+  2. Shake EOHILIA packet for at least 10 seconds prior to opening.
+  3. Squeeze the packet from the bottom to the top directly into the mouth.
+     Repeat 2 to 3 times until the EOHILIA packet is empty.
   4. Swallow all the EOHILIA suspension.
   5. Do not eat or drink for 30 minutes after taking EOHILIA.
      After 30 minutes, rinse mouth with water and spit out the contents without swallowing [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
@@ -63,4 +63,4 @@ TAKEDA and the TAKEDA Logo are registered trademarks of Takeda Pharmaceutical Co
 
 © 2024 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
-EOH357 R1
+EOH357 R2

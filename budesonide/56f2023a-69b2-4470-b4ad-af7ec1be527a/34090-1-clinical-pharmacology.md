@@ -87,7 +87,7 @@ Effects of Other Drugs on Budesonide
 Ketoconazole
 
 In an open, non-randomized, cross-over study, 6 healthy subjects were given budesonide 10 mg as a single dose (5-times the recommended dose of EOHILIA), either alone or concomitantly with the last ketoconazole dose of 3 days treatment with ketoconazole 100 mg twice daily.
-Co-administration of ketoconazole resulted in an eight-fold increase in AUC of budesonide, compared to budesonide alone [see Drug Interactions (7.1)].
+Coadministration of ketoconazole resulted in an eight-fold increase in AUC of budesonide, compared to budesonide alone [see Drug Interactions (7.1)].
 
 Grapefruit Juice
 
