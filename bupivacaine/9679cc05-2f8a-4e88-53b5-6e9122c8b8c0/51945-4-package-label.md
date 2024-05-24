@@ -48,13 +48,11 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Label - 1761-18
 
-PAA176388
+PAA200781
 
-NDC 0409-1761-18
+NDC 0409-1761-18 2 mL Rx only
 
-2 mL Rx only
-
-Marcaine™ Spinal
+Marcaine® Spinal
 
 bupivacaine hydrochloride 0.75% 15 mg/2 mL (7.5 mg/mL) in dextrose 8.25% injection, USP Contains 7.5 mg bupivacaine HCl (anhydrous) and 82.5 mg dextrose (anhydrous) per mL. pH adjusted between 4.0 and 6.5 with NaOH or HCl.
 
@@ -67,11 +65,11 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Cello Pack
 
-5 x 2 mL Ampuls NDC 0409-1761-05
+5 x 2 mL Ampules NDC 0409-1761-05
 
 Rx only
 
-Marcaine™ Spinal
+Marcaine® Spinal
 
 bupivacaine hydrochloride 0.75% 15 mg/2 mL (7.5 mg/mL) in dextrose 8.25% injection, USP
 
@@ -84,17 +82,17 @@ M.L.No.
 
 Hospira
 
-PAA189182
+PAA200690
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Carton
 
-2 mL x 10 Single-dose ampuls
+10 x 2 mL Single-dose ampules
 
-NDC 0409-1761-10 Contains 2 of NDC 0409-1765-05 Rx only
+NDC 0409-1761-10 Contains 2 of NDC 0409-1761-05 Rx only
 
 STERILE HYPERBARIC SOLUTION FOR SPINAL ANESTHESIA
 
-Marcaine™ Spinal
+Marcaine® Spinal
 
 bupivacaine hydrochloride 0.75% 15 mg/2 mL (7.5 mg/mL) in dextrose 8.25% injection, USP
 
