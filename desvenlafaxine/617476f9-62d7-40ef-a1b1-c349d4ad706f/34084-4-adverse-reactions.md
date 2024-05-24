@@ -90,9 +90,9 @@ Table 3 shows the incidence of sexual function adverse reactions that occurred i
 
 Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desvenlafaxine Extended-Release Tablets Group) During the On-Therapy Period
 
-| Desvenlafaxine Extended-Release Tablets |  |  |  |  |  |
+|  | Placebo (n=239) | Desvenlafaxine Extended-Release Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=239) | 50 mg (n=108) | 100 mg (n=157) | 200 mg (n=131) | 400 mg (n=154) |
+| 50 mg (n=108) | 100 mg (n=157) | 200 mg (n=131) | 400 mg (n=154) |  |  |
 | Men only |  |  |  |  |  |
 | Anorgasmia | 0 | 0 | 3 | 5 | 8 |
 | Libido decreased | 1 | 4 | 5 | 6 | 3 |
@@ -141,7 +141,7 @@ Some of these abnormalities were considered potentially clinically significant.
 
 The percentage of patients who exceeded a predetermined threshold value is shown in Table 4.
 
-Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinical Significance*
+Table 4: Incidence (%) of Patients with Lipid Abnormalities of Potential Clinical Significance*
 
 |  |  | Desvenlafaxine Extended-Release Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -201,6 +201,10 @@ In the pre-marketing short-term, placebo-controlled clinical studies with doses 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine extended-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome Gastrointestinal disorders – Pancreatitis acute
+Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome
+
+Gastrointestinal disorders – Pancreatitis acute
 
 Cardiovascular system – Takotsubo cardiomyopathy
+
+Respiratory, thoracic and mediastinal disorders - Anosmia, hyposmia

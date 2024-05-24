@@ -13,7 +13,7 @@ Healthcare professionals should instruct patients not to take desvenlafaxine ext
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine extended-release tablets with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, amphetamines, tryptophan, buspirone, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of desvenlafaxine extended-release tablets with other serotonergic agents (including triptans, tricyclic antidepressants, opioids, lithium, amphetamines, tryptophan, buspirone, and St. John's Wort supplements) [see Warnings and Precautions (5.2)].
 
 Elevated Blood Pressure
 
@@ -70,4 +70,4 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 3/2022
+C 4/2024

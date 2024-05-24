@@ -53,13 +53,13 @@ It should be noted that desvenlafaxine extended-release tablets are not approved
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective-serotonin reuptake inhibitors (SSRIs), including desvenlafaxine extended-release tablets, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
 The concomitant use of desvenlafaxine extended-release tablets with MAOIs is contraindicated.
-In addition, do not initiate Desvenlafaxine extended-release tablets in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+In addition, do not initiate desvenlafaxine extended-release tablets in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
 If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking desvenlafaxine extended-release tablets, discontinue desvenlafaxine extended-release tablets before initiating treatment with the MAOI [see Contraindications (4), Drug Interactions (7.1)].
 
@@ -81,8 +81,10 @@ For patients who experience a sustained increase in blood pressure while receivi
 Drugs that interfere with serotonin reuptake inhibition, including desvenlafaxine extended-release tablets, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
-Inform patients about the risk of bleeding associated with the concomitant use of desvenlafaxine extended-release tablets and antiplatelet agents or anticoagulants.
+
+Inform patients about the increased risk of bleeding associated with the concomitant use of desvenlafaxine extended-release tablets and antiplatelet agents or anticoagulants.
 For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing desvenlafaxine extended-release tablets.
 
 ## 5.5 Angle Closure Glaucoma
