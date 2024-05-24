@@ -197,7 +197,7 @@ Chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photo
 
 Cardiovascular
 
-Postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
+Postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, pulmonary embolism, and Brugada pattern/syndrome.
 
 Digestive
 
@@ -228,9 +228,9 @@ Respiratory
 
 Bronchospasm and pneumonia.
 
-Skin
+Skin and Subcutaneous Tissue Disorders
 
-Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism, acute generalized exanthematous pustulosis.
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, acute generalized exanthematous pustulosis, and drug reaction with eosinophilias and system symptoms (DRESS).
 
 Special Senses
 

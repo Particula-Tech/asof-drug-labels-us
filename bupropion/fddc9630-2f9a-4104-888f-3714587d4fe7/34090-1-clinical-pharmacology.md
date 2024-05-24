@@ -75,7 +75,7 @@ However, more variability was observed in some of the pharmacokinetic parameters
 In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in subjects with severe hepatic cirrhosis vs. 19 hours in healthy subjects).
 For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
-The mean AUC increased by about 11/2;-fold for hydroxybupropion and about 21/2;-fold for threo/erythrohydrobupropion.
+The mean AUC increased by about 11/2-fold for hydroxybupropion and about 21/2-fold for threo/erythrohydrobupropion.
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
 The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
