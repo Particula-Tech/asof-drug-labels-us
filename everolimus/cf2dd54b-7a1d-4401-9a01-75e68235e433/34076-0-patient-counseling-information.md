@@ -1,10 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
 Administration
 
 Inform patients that everolimus should be taken orally twice a day approximately 12 hours apart consistently either with or without food.
 
-Inform patients to avoid grapefruit and grapefruit juice which increase blood drug concentrations of everolimus [see Warnings and Precautions (5.20)].
+Inform patients to avoid grapefruit and grapefruit juice, which increase blood drug concentrations of everolimus [see Warnings and Precautions (5.20)].
 
 Advise patients that everolimus should be used concurrently with reduced doses of cyclosporine and that any change in doses of these medications should be made under physician supervision.
 A change in the cyclosporine dose may also require a change in the dosage of everolimus.
@@ -37,33 +39,33 @@ Advise patients to seek prompt medical attention if symptoms occur [see Warnings
 
 Wound Healing Complications and Fluid Accumulation
 
-Inform patients the use of everolimus has been associated with impaired or delayed wound healing, fluid accumulation and the need for careful observation of their incision site [see Warnings and Precautions (5.9)].
+Inform patients that the use of everolimus has been associated with impaired or delayed wound healing, fluid accumulation and the need for careful observation of their incision site [see Warnings and Precautions (5.9)].
 
-Interstitial Lung Disease (ILD)/ Non-Infectious Pneumonitis
+Interstitial Lung Disease (ILD)/Non-Infectious Pneumonitis
 
-Inform patients the use of everolimus may increase the risk of non-infectious pneumonitis.
+Inform patients that the use of everolimus may increase the risk of non-infectious pneumonitis.
 Advise patients to seek medical attention if they develop clinical symptoms consistent with pneumonia [see Warnings and Precautions (5.10)].
 
 Hyperlipidemia
 
-Inform patients the use of everolimus has been associated with increased serum cholesterol and triglycerides that may require treatment and the need for monitoring of blood lipid concentrations [see Warnings and Precautions (5.11)].
+Inform patients that the use of everolimus has been associated with increased serum cholesterol and triglycerides that may require treatment and the need for monitoring of blood lipid concentrations [see Warnings and Precautions (5.11)].
 
 Proteinuria
 
-Inform patients the use of everolimus has been associated with an increased risk of proteinuria [see Warnings and Precautions (5.12)].
+Inform patients that the use of everolimus has been associated with an increased risk of proteinuria [see Warnings and Precautions (5.12)].
 
 Pregnancy and Lactation
 
 Advise women of childbearing age to avoid becoming pregnant throughout treatment and for 8 weeks after everolimus therapy has stopped.
 Everolimus can cause fetal harm if taken during pregnancy.
 Advise a pregnant woman of the potential risk to a fetus.
-Also advise not to breastfeed while taking everolimus [Use in Specific Populations (8.1, 8.2)].
+Also advise not to breastfeed while taking everolimus [see Use in Specific Populations (8.1, 8.2)].
 
 Male and Female Fertility
 
 Inform male and female patients that everolimus may impair fertility [see Warnings and Precautions (5.18), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
-Medications that Interfere with Everolimus
+Medications That Interfere with Everolimus
 
 Some medications can increase or decrease blood concentrations of everolimus.
 Advise patients to inform their physician if they are taking any of the following: antifungals, antibiotics, antivirals, anti-epileptic medicines including carbamazepine, phenytoin and barbiturates, herbal/dietary supplements (St.
@@ -71,12 +73,12 @@ John’s Wort), cannabidiol, and/or rifampin [see Warnings and Precautions (5.14
 
 New Onset Diabetes
 
-Inform patients the use of everolimus may increase the risk of diabetes mellitus and to contact their physician if they develop symptoms [see Warnings and Precautions (5.16)].
+Inform patients that the use of everolimus may increase the risk of diabetes mellitus and to contact their physician if they develop symptoms [see Warnings and Precautions (5.16)].
 
 Immunizations
 
 Inform patients that vaccinations may be less effective while they are being treated with everolimus.
-Advise patients live vaccines should be avoided [see Warnings and Precautions (5.19)].
+Advise patients that live vaccines should be avoided [see Warnings and Precautions (5.19)].
 
 Patient with Hereditary Disorders
 
@@ -88,6 +90,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001129/02
+C50001129/03
 
-Revised September 2023
+Revised March 2024

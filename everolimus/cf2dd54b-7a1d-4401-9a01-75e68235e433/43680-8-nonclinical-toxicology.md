@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Everolimus was not carcinogenic in mice or rats when administered daily by oral gavage for 2 years at doses up to 0.9 mg/kg, the highest dose tested.
-In these studies, AUCs in mice were much higher (at least 20 times) than those in humans receiving 0.75 mg twice daily, and AUCs in rats were in the same range as those in humans receiving 0.75 mg twice daily.
+In these studies, AUCs in mice were higher (at least 20 times) than those in humans receiving 0.75 mg twice daily, and AUCs in rats were in the same range as those in humans receiving 0.75 mg twice daily.
 
 Everolimus was not mutagenic in the bacterial reverse mutation, the mouse lymphoma thymidine kinase assay, or the chromosome aberration assay using V79 Chinese hamster cells, or in vivo following two daily doses of 500 mg/kg in the mouse micronucleus assay.
 
@@ -11,7 +11,7 @@ In a 13-week male fertility oral gavage study in rats, testicular morphology was
 There was evidence of reversibility of these findings in animals examined after 13 weeks post-dosing.
 The 0.5 mg/kg dose in male rats resulted in AUCs in the range of clinical exposures, and the 5 mg/kg dose resulted in AUCs approximately 5 times the AUCs in humans receiving 0.75 mg twice daily.
 
-Oral doses of everolimus in female rats greater or equal to 0.1 mg/kg (approximately 0.13-fold the estimated AUC0-24h in patients receiving the starting dose 0.75mg twice daily) resulted in increased incidence of pre-implantation loss.
+Oral doses of everolimus in female rats greater or equal to 0.1 mg/kg (approximately 0.13-fold the estimated AUC0-24h in patients receiving the starting dose 0.75 mg twice daily) resulted in increased incidence of pre-implantation loss.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

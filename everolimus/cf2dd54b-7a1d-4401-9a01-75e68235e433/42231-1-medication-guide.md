@@ -1,4 +1,4 @@
-# Medication Guide
+MEDICATION GUIDE
 
 Everolimus Tablets (e” ver oh’ li mus)
 
@@ -34,7 +34,7 @@ See the section “What are the possible side effects of everolimus?” for info
 What is everolimus?
 
 Everolimus is a prescription medicine used to prevent transplant rejection (antirejection medicine) in people who have received a kidney transplant or liver transplant.
-Transplant rejection happens when the body’s immune system perceives the new transplanted kidney as “foreign” and attacks it.
+Transplant rejection happens when the body’s immune system perceives the new transplanted kidney or liver as “foreign” and attacks it.
 
 Everolimus is used with other medicines called cyclosporine, corticosteroids and certain other transplant medicines to prevent rejection of your transplanted kidney.
 Everolimus is used with other medicines called tacrolimus and corticosteroids to prevent rejection of your transplanted liver.
@@ -58,7 +58,7 @@ Before taking everolimus, tell your doctor about all of your medical conditions,
   You should not take everolimus if you have this disorder.
 - •are pregnant or could become pregnant.
   Everolimus may harm your unborn baby.
-  If you are able to become pregnant you should use effective birth control during treatment and for 8 weeks after your last dose of everolimus.
+  If you are able to become pregnant, you should use effective birth control during treatment and for 8 weeks after your last dose of everolimus.
   Talk to your doctor about birth control methods that may be right for you during this time.
   If you become pregnant or think you are pregnant, tell your healthcare provider right away.
   You should not become pregnant during treatment with everolimus.
@@ -74,30 +74,30 @@ Especially tell your doctor if you take:
 - •heart medicine
 - •high blood pressure medicine
 - •a medicine to lower cholesterol or triglycerides
-- •cyclosporine (Sandimmune, Gengraf, Neoral)
+- •cyclosporine (Sandimmune®, Gengraf®, Neoral®)
 - •tuberculosis (TB) medicine
 - •HIV medicine
 - •St.
   John’s Wort
 - •seizure (anticonvulsant) medicine
-- •cannabidiol (Epidiolex)
+- •cannabidiol (Epidiolex®)
 
 How should I take everolimus?
 
 - •Take everolimus exactly as your doctor tells you to.
 - •Do not stop taking everolimus or change your dose unless your doctor tells you to.
-- •Take everolimus at the same time as your dose of cyclosporine medicine.
+- •Take everolimus at the same time as your dose of cyclosporine or tacrolimus medicine.
 - •Do not stop taking or change your dose of cyclosporine or tacrolimus medicine unless your doctor tells you to.
-- •If your doctor changes your dose of cyclosporine your dose of everolimus may change.
+- •If your doctor changes your dose of cyclosporine or tacrolimus, your dose of everolimus may change.
 - •Take everolimus 2 times a day about 12 hours apart.
 - •Swallow everolimus tablets whole with a glass of water.
   Do not crush or chew everolimus tablets.
 - •Take everolimus tablets with or without food.
   If you take everolimus tablets with food, always take everolimus tablets with food.
   If you take everolimus tablets without food, always take everolimus tablets without food.
-- •Your doctor will do regular blood tests to check your kidney function while you take everolimus.
+- •Your doctor will do regular blood tests to check your kidney or liver function while you take everolimus.
   It is important that you get these tests done when your doctor tells you to.
-  Blood tests will monitor how your kidneys are working and make sure you are getting the right dose of everolimus and other transplant medications they may be on (cyclosporine and tacrolimus).
+  Blood tests will monitor how your kidneys or liver are working and make sure you are getting the right dose of everolimus and other transplant medications you may be on (cyclosporine or tacrolimus).
 - •If you take too much everolimus, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking everolimus?
@@ -123,7 +123,7 @@ Everolimus may cause serious side effects, including:
 - •swelling under your skin especially around your mouth, eyes and in your throat (angioedema).
   Your chance of having swelling under your skin is higher if you take everolimus along with certain other medicines.
   Tell your doctor right away or go to the nearest emergency room if you have any of these symptoms of angioedema:
-- •sudden swelling of your face, mouth, throat, tongue or hands
+- osudden swelling of your face, mouth, throat, tongue or hands
 - ohives or welts
 - oitchy or painful swollen skin
 - otrouble breathing
@@ -136,10 +136,10 @@ Everolimus may cause serious side effects, including:
 - oswelling of your incision
 - •lung or breathing problems.
   Tell your doctor right away if you have new or worsening cough, shortness of breath, difficulty breathing or wheezing.
-  In some patients lung or breathing problems have been severe, and can even lead to death.
+  In some patients, lung or breathing problems have been severe and can even lead to death.
   Your doctor may need to stop everolimus or lower your dose.
 - •increased cholesterol and triglycerides (fat in your blood).
-  If your cholesterol and triglyceride levels are high your doctor may want to lower them with diet, exercise and certain medicines.
+  If your cholesterol and triglyceride levels are high, your doctor may want to lower them with diet, exercise and certain medicines.
 - •protein in your urine (proteinuria).
 - •change in kidney function.
   Everolimus may cause kidney problems when taken along with a standard dose of cyclosporine medicine instead of a lower dose.
@@ -151,6 +151,7 @@ Your doctor should do blood and urine tests to monitor your cholesterol, triglyc
   Viral infections that can happen with everolimus include BK virus-associated nephropathy.
   BK virus can affect how your kidney works and cause your transplanted kidney to fail.
 - •blood clotting problems.
+  Talk to your doctor if this is a concern for you.
 - •diabetes.
   Tell your doctor if you have frequent urination, increased thirst or hunger.
 - •infertility, male.
@@ -188,9 +189,9 @@ These are not all of the possible side effects of everolimus.
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 
-How do I store Everolimus Tablets?
+How should I store Everolimus Tablets?
 
-- •Store Everolimus Tablets between 68° to 77°F (20°C to 25°C).
+- •Store Everolimus Tablets between 68°F to 77°F (20°C to 25°C).
 - •Keep Everolimus Tablets out of the light.
 - •Keep Everolimus Tablets dry.
 
@@ -200,7 +201,7 @@ General information about the safe and effective use of everolimus.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use everolimus for a condition for which it was not prescribed.
-Do not give everolimus to other people, even if they have the same symptoms you have.
+Do not give everolimus to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 You can ask your doctor or pharmacist for information about everolimus that is written for healthcare professionals.
@@ -227,6 +228,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001129/02
+C50001129/03
 
-Revised September 2023
+Revised March 2024

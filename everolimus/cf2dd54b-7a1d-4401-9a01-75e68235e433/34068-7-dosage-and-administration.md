@@ -4,11 +4,11 @@ Patients receiving everolimus may require dose adjustments based on everolimus b
 Optimally, dose adjustments of everolimus should be based on trough concentrations obtained 4 or 5 days after a previous dosing change.
 Dose adjustment is required if the trough concentration is below 3 ng/mL.
 The total daily dose of everolimus should be doubled using the available tablet strengths (0.25 mg, 0.5 mg, 0.75 mg, or 1 mg).
-Dose adjustment is also required if the trough concentration is greater than 8 ng/mL on 2 consecutive measures; the dose of everolimus should be decreased by 0.25 mg twice daily [seeDosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Dose adjustment is also required if the trough concentration is greater than 8 ng/mL on 2 consecutive measures; the dose of everolimus should be decreased by 0.25 mg twice daily [seeDosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 2.1 Dosage in Adult Kidney Transplant Patients
 
-An initial everolimus dose of 0.75 mg orally twice daily (1.5 mg per day) is recommended for adult kidney transplant patients in combination with reduced dose cyclosporine, administered as soon as possible after transplantation [see Dosage and Administration (2.3, 2.4), Clinical Studies (14.1)].
+An initial everolimus dose of 0.75 mg orally twice daily (1.5 mg per day) is recommended for adult kidney transplant patients in combination with reduced-dose cyclosporine, administered as soon as possible after transplantation [see Dosage and Administration (2.3, 2.4), Clinical Studies (14.1)].
 
 Oral prednisone should be initiated once oral medication is tolerated.
 Steroid doses may be further tapered on an individualized basis depending on the clinical status of patient and function of graft.
@@ -16,7 +16,7 @@ Steroid doses may be further tapered on an individualized basis depending on the
 ## 2.2 Dosage in Adult Liver Transplant Patients
 
 Start everolimus at least 30 days posttransplant.
-An initial dose of 1.0 mg orally twice daily (2.0 mg per day) is recommended for adult liver transplant patients in combination with reduced dose tacrolimus [see Dosage and Administration (2.3, 2.5), Clinical Studies (14.2)].
+An initial dose of 1 mg orally twice daily (2 mg per day) is recommended for adult liver transplant patients in combination with reduced-dose tacrolimus [see Dosage and Administration (2.3, 2.5), Clinical Studies (14.2)].
 
 Steroid doses may be further tapered on an individualized basis depending on the clinical status of patient and function of graft.
 
@@ -42,7 +42,7 @@ Both cyclosporine doses and the target range for whole blood trough concentratio
 
 The recommended cyclosporine therapeutic ranges when administered with everolimus are 100 to 200 ng/mL through Month 1 posttransplant, 75 to 150 ng/mL at Months 2 and 3 posttransplant, 50 to 100 ng/mL at Month 4 posttransplant, and 25 to 50 ng/mL from Month 6 through Month 12 posttransplant.
 The median trough concentrations observed in the clinical trial ranged between 161 to 185 ng/mL through Month 1 posttransplant and between 111 to 140 ng/mL at Months 2 and 3 posttransplant.
-The median trough concentration was 99 ng/mL at Month 4 posttransplant and ranged between 46 to 75 ng/mL from Months 6 through Month 12 posttransplant [see Clinical Pharmacology (12.8) and Clinical Studies (14.1)].
+The median trough concentration was 99 ng/mL at Month 4 posttransplant and ranged between 46 to 75 ng/mL from Months 6 through Month 12 posttransplant [see Clinical Pharmacology (12.8), Clinical Studies (14.1)].
 
 Cyclosporine, USP Modified is to be administered as oral capsules twice daily unless cyclosporine oral solution or intravenous administration of cyclosporine cannot be avoided.
 Cyclosporine, USP Modified should be initiated as soon as possible, and no later than 48 hours after reperfusion of the graft and dose adjusted to target concentrations from Day 5 onwards.
@@ -52,7 +52,7 @@ In renal transplant patients, the cyclosporine dose should be based on cyclospor
 
 In renal transplantation, there are limited data regarding dosing everolimus with reduced cyclosporine trough concentrations of 25 to 50 ng/mL after 12 months.
 Everolimus has not been evaluated in clinical trials with other formulations of cyclosporine.
-Prior to dose reduction of cyclosporine, it should be ascertained that steady state everolimus whole blood trough concentration is at least 3 ng/mL.
+Prior to dose reduction of cyclosporine, it should be ascertained that steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
 There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced [see Drug Interactions (7.2)].
 
 ## 2.5 Therapeutic Drug Monitoring (TDM) - Tacrolimus in Liver Transplant Patients
@@ -69,7 +69,7 @@ Tacrolimus is to be administered as oral capsules twice daily unless intravenous
 In liver transplant patients, the tacrolimus dose should be based on tacrolimus whole blood trough concentrations [see Clinical Pharmacology (12.9)].
 
 In liver transplantation, there are limited data regarding dosing everolimus with reduced tacrolimus trough concentrations of 3 to 5 ng/mL after 12 months.
-Prior to dose reduction of tacrolimus it should be ascertained that the steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
+Prior to dose reduction of tacrolimus, it should be ascertained that the steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
 Unlike the interaction between cyclosporine and everolimus, tacrolimus does not affect everolimus trough concentrations, and consequently, everolimus concentrations do not decrease if the tacrolimus exposure is reduced.
 
 ## 2.6 Administration
@@ -82,5 +82,5 @@ Administer everolimus consistently approximately 12 hours apart with or without 
 
 Whole blood trough concentrations of everolimus should be closely monitored in patients with impaired hepatic function.
 For patients with mild hepatic impairment (Child-Pugh Class A), the initial daily dose should be reduced by approximately one-third of the normally recommended daily dose.
-For patients with moderate or severe hepatic impairment (Child-Pugh B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
+For patients with moderate or severe hepatic impairment (Child-Pugh Class B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
 Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL [see Clinical Pharmacology (12.6)].

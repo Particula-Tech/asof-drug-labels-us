@@ -22,7 +22,7 @@ Everolimus had a clinically minor influence on cyclosporine pharmacokinetics in 
 ## 7.3 Ketoconazole and Other Strong CYP3A4 Inhibitors
 
 Multiple-dose ketoconazole administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with everolimus [see Warnings and Precautions (5.14), and Clinical Pharmacology (12.5)].
+It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with everolimus [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
 
 ## 7.4 Erythromycin (Moderate CYP3A4 Inhibitor)
 
