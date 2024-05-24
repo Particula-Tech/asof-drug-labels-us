@@ -63,7 +63,7 @@ Clinical manifestations of decreased testosterone concentrations may include gyn
 ## Information for Patients
 
 Patients should be instructed to report any signs and symptoms which may suggest liver dysfunction so that appropriate biochemical testing can be done.
-Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vomiting, abdominal pain, jaundice, dark urine or pale stools (see WARNINGS section).
+Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vomiting, abdominal pain, jaundice, dark urine or pale stools (see WARNINGSsection).
 
 ## Drug Interactions
 
@@ -78,7 +78,7 @@ The relevance of the results from these studies in pediatric patients is unknown
 
 ### Drugs that may decrease ketoconazole plasma concentrations
 
-Drugs that reduce the gastric acidity (e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H2-receptor antagonists and proton pump inhibitors) impair the absorption of ketoconazole from ketoconazole tablets.
+Drugs that reduce the gastric acidity (e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H 2-receptor antagonists and proton pump inhibitors) impair the absorption of ketoconazole from ketoconazole tablets.
 These drugs should be used with caution when coadministered with ketoconazole tablets:
 
 - Ketoconazole tablets should be administered with an acidic beverage (such as non-diet cola) upon co-treatment with drugs reducing gastric acidity.
@@ -88,8 +88,8 @@ These drugs should be used with caution when coadministered with ketoconazole ta
 Coadministration of ketoconazole tablets with potent enzyme inducers of CYP3A4 may decrease the bioavailability of ketoconazole to such an extent that efficacy may be reduced.
 Examples include:
 
-- Antibacterials: isoniazid, rifabutin (see also under 'Drugs that may have their plasma concentrations increased'), rifampicin.
-- Anticonvulsants: carbamazepine (see also under 'Drugs that may have their plasma concentrations increased'), phenytoin.
+- Antibacterials: isoniazid, rifabutin (see also under ' Drugs that may have their plasma concentrations increased'), rifampicin.
+- Anticonvulsants: carbamazepine (see also under ' Drugs that may have their plasma concentrations increased'), phenytoin.
 - Antivirals: efavirenz, nevirapine.
 
 Therefore, administration of potent enzyme inducers of CYP3A4 with ketoconazole tablets is not recommended.
@@ -115,11 +115,11 @@ Examples of drugs that may have their plasma concentrations increased by ketocon
 | --- | --- | --- | --- | --- |
 |  | Under no circumstances should the drug be coadministered with ketoconazole tablets, and up to one week after discontinuation of treatment with ketoconazole. | The use of the drug should be avoided during and up to one week after discontinuation of treatment with ketoconazole tablets, unless the benefits outweigh the potentially increased risks of side effects. If coadministration cannot be avoided, clinical monitoring for signs or symptoms of increased or prolonged effects or side effects of the interacting drug is recommended, and its dosage should be reduced or interrupted as deemed necessary. When appropriate, plasma concentrations should be measured. The label of the coadministered drug should be consulted for information on dose adjustment and adverse effects. | Careful monitoring is recommended when the drug is coadministered with ketoconazole tablets. Upon coadministration, patients should be monitored closely for signs or symptoms of increased or prolonged effects or side effects of the interacting drug, and its dosage should be reduced as deemed necessary. When appropriate, plasma concentrations should be measured. The label of the coadministered drug should be consulted for information on dose adjustment and adverse effects. |  |
 | Alpha Blockers |  | tamsulosin |  |  |
-| Analgesics | methadone |  | alfentanil, buprenorphine IV and sublingual, fentanyl, oxycodone, sufentanil | Methadone: The potential increase in plasma concentrations of methadone when coadministered with ketoconazole tablets may increase the risk of serious cardiovascular events including QT prolongation and torsade de pointes, or respiratory or CNS depression. [See CONTRAINDICATIONS.] Fentanyl: The potential increase in plasma concentrations of fentanyl when coadministered with ketoconazole tablets may increase the risk of potentially fatal respiratory depression. Sufentanil: No human pharmacokinetic data of an interaction with ketoconazole are available. In vitro data suggest that sufentanil is metabolized by CYP3A4 and so potentially increased sufentanil plasma concentrations would be expected when coadministered with ketoconazole tablets. |
+| Analgesics | methadone |  | alfentanil, buprenorphine IV and sublingual, fentanyl, oxycodone, sufentanil | Methadone: The potential increase in plasma concentrations of methadone when coadministered with ketoconazole tablets may increase the risk of serious cardiovascular events including QT prolongation and torsade de pointes, or respiratory or CNS depression. [See CONTRAINDICATIONS.] Fentanyl: The potential increase in plasma concentrations of fentanyl when coadministered with ketoconazole tablets may increase the risk of potentially fatal respiratory depression. Sufentanil: No human pharmacokinetic data of an interaction with ketoconazole are available. In vitrodata suggest that sufentanil is metabolized by CYP3A4 and so potentially increased sufentanil plasma concentrations would be expected when coadministered with ketoconazole tablets. |
 | Antiarrhythmics | disopyramide, dofetilide, dronedarone, quinidine |  | digoxin | Disopyramide, dofetilide, dronedarone, quinidine: The potential increase in plasma concentrations of these drugs when coadministered with ketoconazole may increase the risk of serious cardiovascular events including QT prolongation. Digoxin: Rare cases of elevated plasma concentrations of digoxin have been reported. It is not clear whether this was due to the combination of therapy. It is, therefore, advisable to monitor digoxin concentrations in patients receiving ketoconazole. |
-| Antibacterials |  | rifabutin | telithromycin | Rifabutin: see also under 'Drugs that may decrease ketoconazole plasma concentrations'. Telithromycin: A multiple-dose interaction study with ketoconazole showed that Cmax of telithromycin was increased by 51% and AUC by 95%. |
+| Antibacterials |  | rifabutin | telithromycin | Rifabutin: see also under ' Drugs that may decrease ketoconazole plasma concentrations'. Telithromycin: A multiple-dose interaction study with ketoconazole showed that C maxof telithromycin was increased by 51% and AUC by 95%. |
 | Anticoagulants and Antiplatelet Drugs |  | rivaroxaban | cilostazol, coumarins, dabigatran | Cilostazol: Concomitant administration of single doses of cilostazol 100 mg and ketoconazole 400 mg approximately doubled cilostazol concentrations and altered (increase/decrease) the concentrations of the active metabolites of cilostazol. Coumarins: Ketoconazole may enhance the anticoagulant effect of coumarin-like drugs, thus the anticoagulant effect should be carefully titrated and monitored. Dabigatran: In patients with moderate renal impairment (CrCL 50 mL/min to ≤ 80 mL/min), consider reducing the dose of dabigatran to 75 mg twice daily when it is coadministered with ketoconazole. |
-| Anticonvulsants |  | carbamazepine |  | Carbamazepine: In vivo studies have demonstrated an increase in plasma carbamazepine concentrations in subjects concomitantly receiving ketoconazole. In addition, the bioavailability of ketoconazole may be reduced by carbamazepine. |
+| Anticonvulsants |  | carbamazepine |  | Carbamazepine: In vivostudies have demonstrated an increase in plasma carbamazepine concentrations in subjects concomitantly receiving ketoconazole. In addition, the bioavailability of ketoconazole may be reduced by carbamazepine. |
 | Antidiabetics |  |  | repaglinide, saxagliptin |  |
 | Antihelmintics and Antiprotozoals |  |  | praziquantel |  |
 | Antimigraine Drugs | ergot alkaloids, such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine) |  | eletriptan | Ergot alkaloids: The potential increase in plasma concentrations of ergot alkaloids when coadministered with ketoconazole tablets may increase the risk of ergotism, i.e., a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities. Eletriptan: Eletriptan should be used with caution with ketoconazole, and specifically, should not be used within at least 72 hours of treatment with ketoconazole. |
@@ -131,7 +131,7 @@ Examples of drugs that may have their plasma concentrations increased by ketocon
 | Cardiovascular Drugs, Miscellaneous | ranolazine |  | aliskiren, bosentan | Ranolazine: The potential increase in plasma concentrations of ranolazine when coadministered with ketoconazole tablets may increase the risk of serious cardiovascular events including QT prolongation. Bosentan: Coadministration of bosentan 125 mg twice daily and ketoconazole, increased the plasma concentrations of bosentan by approximately 2-fold in normal volunteers. No dose adjustment of bosentan is necessary, but patients should be monitored for increased pharmacologic effects and adverse reactions of bosentan. |
 | Diuretics | eplerenone |  |  | The potential increase in plasma concentrations of eplerenone when coadministered with ketoconazole tablets may increase the risk of hyperkalemia and hypotension. |
 | Gastrointestinal Drugs | cisapride |  | aprepitant | Cisapride: Oral ketoconazole potently inhibits the metabolism of cisapride resulting in a mean eight-fold increase in AUC of cisapride, which can lead to serious cardiovascular events including QT prolongation. |
-| Immunosuppressants |  | everolimus, rapamycin (also known as sirolimus), temsirolimus | budesonide, ciclesonide, cyclosporine, dexamethasone, fluticasone, methylprednisolone, tacrolimus | Rapamycin (sirolimus): Ketoconazole tablets 200 mg daily for 10 days increased the Cmax and AUC of a single 5 mg dose of sirolimus by 4.3-fold and 10.9-fold, respectively in 23 healthy subjects. Fluticasone: Coadministration of fluticasone propionate and ketoconazole is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects. |
+| Immunosuppressants |  | everolimus, rapamycin (also known as sirolimus), temsirolimus | budesonide, ciclesonide, cyclosporine, dexamethasone, fluticasone, methylprednisolone, tacrolimus | Rapamycin (sirolimus): Ketoconazole tablets 200 mg daily for 10 days increased the C maxand AUC of a single 5 mg dose of sirolimus by 4.3-fold and 10.9-fold, respectively in 23 healthy subjects. Fluticasone: Coadministration of fluticasone propionate and ketoconazole is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects. |
 | Lipid Regulating Drugs | lovastatin, simvastatin |  | atorvastatin | The potential increase in plasma concentrations of atorvastatin, lovastatin and simvastatin when coadministered with ketoconazole tablets may increase the risk of skeletal muscle toxicity, including rhabdomyolysis. |
 | Respiratory Drugs |  | salmeterol |  |  |
 | Urological Drugs |  |  | fesoterodine, sildenafil, solifenacin, tadalafil, tolterodine, vardenafil | Vardenafil: A single dose of 5 mg of vardenafil should not be exceeded when coadministered with ketoconazole. |
@@ -139,9 +139,9 @@ Examples of drugs that may have their plasma concentrations increased by ketocon
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Ketoconazole did not show any signs of mutagenic potential when evaluated using the dominant lethal mutation test or the Ames Salmonella microsomal activator assay.
+Ketoconazole did not show any signs of mutagenic potential when evaluated using the dominant lethal mutation test or the Ames Salmonellamicrosomal activator assay.
 Ketoconazole was not carcinogenic in an 18-month, oral study in Swiss albino mice or a 24-month oral carcinogenicity study in Wistar rats at dose levels of 5, 20 and 80 mg/kg/day.
-The high dose in these studies was approximately 1× (mouse) or 2× (rat) the clinical dose in humans based on a mg/m2 comparison.
+The high dose in these studies was approximately 1× (mouse) or 2× (rat) the clinical dose in humans based on a mg/m 2comparison.
 
 ## Pregnancy
 

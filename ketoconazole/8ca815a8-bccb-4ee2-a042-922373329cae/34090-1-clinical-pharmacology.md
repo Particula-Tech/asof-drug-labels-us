@@ -10,7 +10,7 @@ Mean peak plasma concentrations of approximately 3.5 mcg/mL are reached within 1
 Oral bioavailability is maximal when the tablets are taken with a meal.
 
 Absorption of ketoconazole tablets is reduced in subjects with reduced gastric acidity, such as subjects taking medications known as acid neutralizing medicines (e.g. aluminum hydroxide) and gastric acid secretion suppressors (e.g.
-H2-receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases.
+H 2-receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases.
 (See Section PRECAUTIONS: Drug Interactions.)
 Absorption of ketoconazole under fasted conditions in these subjects is increased when ketoconazole tablets are administered with an acidic beverage (such as non-diet cola).
 After pretreatment with omeprazole, a proton pump inhibitor, the bioavailability of a single 200-mg dose of ketoconazole under fasted conditions was decreased to 17% of the bioavailability of ketoconazole administered alone.
@@ -25,7 +25,7 @@ Ketoconazole is widely distributed into tissues; however, only a negligible prop
 ### Metabolism
 
 Following absorption from the gastrointestinal tract, ketoconazole tablets are converted into several inactive metabolites.
-In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of ketoconazole.
+In vitrostudies have shown that CYP3A4 is the major enzyme involved in the metabolism of ketoconazole.
 The major identified metabolic pathways are oxidation and degradation of the imidazole and piperazine rings, by hepatic microsomal enzymes.
 In addition, oxidative O-dealkylation and aromatic hydroxylation does occur.
 Ketoconazole has not been demonstrated to induce its own metabolism.
@@ -53,8 +53,8 @@ Maximum plasma concentrations occurred 1 to 2 hours after dosing and were in the
 
 ## Electrocardiogram
 
-Pre-clinical electrophysiological studies have shown that ketoconazole inhibits the rapidly activating component of the cardiac delayed rectifier potassium current, prolongs the action potential duration, and may prolong the QTc interval.
-Data from some clinical PK/PD studies and drug interaction studies suggest that oral dosing with ketoconazole at 200 mg twice daily for 3 to 7 days can result in an increase of the QTc interval: a mean maximum increase of about 6 to 12 msec was seen at ketoconazole peak plasma concentrations about 1 to 4 hours after ketoconazole administration.
+Pre-clinical electrophysiological studies have shown that ketoconazole inhibits the rapidly activating component of the cardiac delayed rectifier potassium current, prolongs the action potential duration, and may prolong the QT cinterval.
+Data from some clinical PK/PD studies and drug interaction studies suggest that oral dosing with ketoconazole at 200 mg twice daily for 3 to 7 days can result in an increase of the QT cinterval: a mean maximum increase of about 6 to 12 msec was seen at ketoconazole peak plasma concentrations about 1 to 4 hours after ketoconazole administration.
 
 ## MICROBIOLOGY
 

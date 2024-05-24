@@ -10,8 +10,7 @@ Talk to your healthcare provider to find out if ketoconazole tablets are right f
 Ketoconazole tablets USP can cause serious side effects, including:
 
 - liver problems (hepatotoxicity).
-  Some people who were treated with ketoconazole the active ingredient in ketoconazole tablets, had serious liver problems that led to death or the need for a liver transplant.
-  Call your healthcare provider right away if you have any of the following symptoms:
+  Some people who were treated with ketoconazole the active ingredient in ketoconazole tablets, had serious liver problems that led to death or the need for a liver transplant.Call your healthcare provider right away if you have any of the following symptoms:
   - loss of appetite or start losing weight (anorexia)
   - nausea or vomiting
   - feel tired
@@ -20,8 +19,7 @@ Ketoconazole tablets USP can cause serious side effects, including:
   - yellowing of your skin or the whites of your eyes
   - fever or rash
 - changes in the electrical activity of your heart called QT prolongation.
-  QT prolongation can cause irregular heart beats that can be life threatening.
-  This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
+  QT prolongation can cause irregular heart beats that can be life threatening.This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
   Talk to your healthcare provider about other medicines you are taking before you start taking ketoconazole tablets.
   Tell your healthcare provider right away if you feel faint, lightheaded, dizzy, or feel your heart beating irregularly or fast.
   These may be symptoms related to QT prolongation.
@@ -57,7 +55,7 @@ Before you take ketoconazole tablets USP, tell your healthcare provider if you:
 - are breastfeeding or plan to breastfeed.
   Ketoconazole can pass into your breast milk.
   You and your healthcare provider should decide if you will take ketoconazole tablets or breastfeed.
-  You should NOT do both.
+  You should NOTdo both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -77,19 +75,16 @@ What are the possible side effects of ketoconazole tablets USP?
 
 Ketoconazole tablets may cause serious side effects, including:
 
-- See "What is the most important information I should know about ketoconazole tablets USP?"
-- adrenal insufficiency.
-  Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
+- See " What is the most important information I should know about ketoconazole tablets USP?"
+- adrenal insufficiency.Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   Ketoconazole tablets may cause adrenal insufficiency if you take a high dose.
   Your healthcare provider will follow you closely if you have adrenal insufficiency or if you are taking prednisone or other similar medicines for long periods of time.
   Call your healthcare provider right away if you have symptoms of adrenal insufficiency such as tiredness, weakness, dizziness, nausea, and vomiting.
-- serious allergic reactions.
-  Some people can have a serious allergic reaction to ketoconazole tablets.
+- serious allergic reactions.Some people can have a serious allergic reaction to ketoconazole tablets.
   Stop taking ketoconazole tablets and go to the nearest hospital emergency room right away if you get a rash, itching, hives, fever, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
-- muscle problems.
-  Taking certain medicines with ketoconazole tablets may cause muscle problems.
-  See "Who should not take ketoconazole tablets USP?"
+- muscle problems.Taking certain medicines with ketoconazole tablets may cause muscle problems.
+  See " Who should not take ketoconazole tablets USP?"
 
 The most common side effects of ketoconazole tablets include nausea, headache, diarrhea, stomach pain, and abnormal liver function tests.
 
@@ -118,9 +113,9 @@ You can ask your pharmacist or healthcare provider for information about ketocon
 
 What are the ingredients in ketoconazole tablets USP, 200 mg?
 
-Active ingredient: ketoconazole.
+Active ingredient:ketoconazole.
 
-Inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and povidone.
+Inactive ingredients:colloidal silicon dioxide, corn starch, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and povidone.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
