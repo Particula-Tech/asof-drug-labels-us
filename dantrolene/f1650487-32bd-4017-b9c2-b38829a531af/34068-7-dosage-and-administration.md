@@ -34,14 +34,14 @@ See also the package insert for dantrolene sodium capsules.
 Dantrolene sodium capsules, 4 to 8 mg/kg/day, in four divided doses should be administered for 1 to 3 days following a malignant hyperthermia crisis to prevent recurrence of the manifestations of malignant hyperthermia.
 
 Intravenous dantrolene sodium may be used postoperatively to prevent or attenuate the recurrence of signs of malignant hyperthermia when oral dantrolene sodium administration is not practical.
-The i.v. dose of dantrolene sodium in the postoperative period must be individualized, starting with 1 mg/kg or more as the clinical situation dictates.
+The intravenous dose of dantrolene sodium in the postoperative period must be individualized, starting with 1 mg/kg or more as the clinical situation dictates.
 
 ## PREPARATION
 
 Each vial of Revonto (dantrolene sodium for injection) should be reconstituted by adding 60 mL of sterile water for injection USP (without a bacteriostatic agent), and the vial shaken for approximately 20 seconds or until the solution is clear.
 5% Dextrose Injection USP, 0.9% Sodium Chloride Injection USP, and other acidic solutions are not compatible with Revonto and should not be used.
 The contents of the vial must be protected from direct light and used within 6 hours after reconstitution.
-Store reconstituted solution at 20°C-25°C (68°F-77°F) [see USP Controlled Room Temperature] protected from direct light.
+Store reconstituted solution between 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature] protected from direct light.
 
 Reconstituted Revonto should not be transferred to large glass bottles for prophylactic infusion due to precipitate formation observed with the use of some glass bottles as reservoirs.
 

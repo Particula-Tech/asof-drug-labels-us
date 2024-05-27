@@ -6,9 +6,9 @@ Made in Italy
 
 Dist. by: USWM, LLC Louisville, KY 40241
 
-©2020 USWM, LLC.
+©2024 USWM, LLC.
 Revonto is a registered trademark of USWM, LLC.
 
-Rev 08-2020
+Rev 04-2024
 
-256648
+252077

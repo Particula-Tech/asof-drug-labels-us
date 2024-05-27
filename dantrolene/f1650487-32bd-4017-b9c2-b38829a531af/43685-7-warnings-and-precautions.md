@@ -3,40 +3,27 @@
 The use of Revonto in the management of malignant hyperthermia crisis is not a substitute for previously known supportive measures.
 These measures must be individualized, but it will usually be necessary to discontinue the suspect triggering agents, attend to increased oxygen requirements, manage the metabolic acidosis, institute cooling when necessary, monitor urinary output, and monitor for electrolyte imbalance.
 
-Since the effect of disease state and other drugs on dantrolene sodium related skeletal muscle weakness, including possible respiratory depression, cannot be predicted, patients who receive i.v. dantrolene sodium preoperatively should have vital signs monitored.
+Since the effect of disease state and other drugs on dantrolene sodium-related skeletal muscle weakness, including possible respiratory depression, cannot be predicted, patients who receive intravenous dantrolene sodium preoperatively should have vital signs monitored.
 
 If patients judged malignant hyperthermia susceptible are administered intravenous or oral dantrolene sodium preoperatively, anesthetic preparation must still follow a standard malignant hyperthermia susceptible regimen, including the avoidance of known triggering agents.
 Monitoring for early clinical and metabolic signs of malignant hyperthermia is indicated because attenuation of malignant hyperthermia, rather than prevention, is possible.
-These signs usually call for the administration of additional i.v. dantrolene.
+These signs usually call for the administration of additional intravenous dantrolene.
 
 # PRECAUTIONS
 
 ## General
 
-Care must be taken to prevent extravasation of dantrolene sodium solution into the surrounding tissues due to the high pH of the intravenous formulation and potential for tissue necrosis
+Care must be taken to prevent extravasation of dantrolene sodium intravenous solution into the surrounding tissues due to the high pH of the intravenous formulation and potential for tissue necrosis
 
-When mannitol is used for prevention or treatment of late renal complications of malignant hyperthermia, the 3 g of mannitol needed to dissolve each 20 mg vial of i.v. dantrolene sodium should be taken into consideration.
+When mannitol is used for prevention or treatment of late renal complications of malignant hyperthermia, the 3 g of mannitol needed to dissolve each 20 mg vial of intravenous dantrolene sodium should be taken into consideration.
 
 ## Information for Patients
 
-Based upon data in human volunteers, perioperatively, it is appropriate to tell patients who receive Revonto that symptoms of muscle weakness should be expected postoperatively (i.e. decrease in grip strength and weakness of leg muscles, especially walking down stairs).
+Based upon data in human volunteers, perioperatively, it is appropriate to tell patients who receive Revonto that symptoms of muscle weakness should be expected postoperatively (i.e., decrease in grip strength and weakness of leg muscles, especially walking down stairs).
 In addition, symptoms such as "lightheadedness" may be noted.
 Since some of these symptoms may persist for up to 48 hours, patients must not operate an automobile or engage in other hazardous activity during this time.
 Caution is also indicated at meals on the day of administration because difficulty swallowing and choking has been reported.
 Caution should be exercised in the concomitant administration of tranquilizing agents.
-
-## Hepatotoxicity seen with Dantrolene Sodium Capsules
-
-Dantrolene sodium has a potential for hepatotoxicity, and should not be used in conditions other than those recommended.
-Symptomatic hepatitis (fatal and non-fatal) has been reported at various dose levels of the drug.
-The incidence reported in patients taking up to 400 mg/day is much lower than in those taking doses of 800 mg or more per day.
-Even sporadic short courses of these higher dose levels within a treatment regimen markedly increased the risk of serious hepatic injury.
-Liver dysfunction as evidenced by blood chemical abnormalities alone (liver enzyme elevations) has been observed in patients exposed to dantrolene sodium for varying periods of time.
-Overt hepatitis has occurred at varying intervals after initiation of therapy, but has been most frequently observed between the third and twelfth month of therapy.
-The risk of hepatic injury appears to be greater in females, in patients over 35 years of age, and in patients taking other medication(s) in addition to dantrolene sodium.
-Dantrolene sodium should be used only in conjunction with appropriate monitoring of hepatic function including frequent determination of SGOT or SGPT.
-
-Fatal and non-fatal liver disorders of an idiosyncratic or hypersensitivity type may occur with dantrolene sodium therapy.
 
 ## Drug Interactions
 

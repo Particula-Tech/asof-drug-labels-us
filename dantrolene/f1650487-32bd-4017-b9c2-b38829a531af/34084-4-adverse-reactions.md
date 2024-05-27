@@ -4,20 +4,20 @@ There have been occasional reports of death following malignant hyperthermia cri
 Most of these deaths can be accounted for by late recognition, delayed treatment, inadequate dosage, lack of supportive therapy, intercurrent disease and/or the development of delayed complications such as renal failure or disseminated intravascular coagulopathy.
 In some cases there are insufficient data to completely rule out therapeutic failure of dantrolene.
 
-There are reports of fatality in malignant hyperthermia crisis, despite initial satisfactory response to i.v. dantrolene, which involve patients who could not be weaned from dantrolene after initial treatment.
+There are reports of fatality in malignant hyperthermia crisis, despite initial satisfactory response to intravenous dantrolene, which involve patients who could not be weaned from dantrolene after initial treatment.
 
 The administration of Revonto to human volunteers is associated with loss of grip strength and weakness in the legs, as well as drowsiness and dizziness.
 
 The following adverse reactions are in approximate order of severity:
 
-- There are rare reports of pulmonary edema developing during the treatment of malignant hyperthermia crisis in which the diluent volume and mannitol needed to deliver i.v. dantrolene possibly contributed.
+- There are rare reports of pulmonary edema developing during the treatment of malignant hyperthermia crisis in which the diluent volume and mannitol needed to deliver intravenous dantrolene possibly contributed.
+- There have been reported cases of hepatotoxicity following the use of intravenous dantrolene products.
+  Elevated liver enzymes have occurred hours to days following use of intravenous dantrolene, though many of these cases were observed in patients with comorbidities (e.g., critical illness).
 - There have been reports of thrombophlebitis following administration of intravenous dantrolene; actual incidence figures are not available.
   Tissue necrosis secondary to extravasation has been reported.
-- There have been rare reports of urticaria and erythema possibly associated with the administration of i.v. dantrolene sodium.
+- There have been rare reports of urticaria and erythema possibly associated with the administration of intravenous dantrolene sodium.
   There has been one case of anaphylaxis.
 - Injection site reactions (pain, erythema, swelling), commonly due to extravasation, have been reported.
-
-None of the serious reactions occasionally reported with long-term oral dantrolene sodium use, such as hepatitis, seizures, and pleural effusion with pericarditis, have been reasonably associated with short-term Revonto therapy.
 
 The following events have been reported in patients receiving oral dantrolene: aplastic anemia, leukopenia, lymphocytic lymphoma, and heart failure.
 (See package insert for dantrolene sodium capsules for a complete listing of adverse reactions.)

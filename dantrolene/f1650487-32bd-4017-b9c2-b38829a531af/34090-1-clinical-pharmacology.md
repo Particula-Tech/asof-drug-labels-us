@@ -16,7 +16,7 @@ Experimental results in malignant hyperthermia susceptible swine show that proph
 The efficacy of intravenous dantrolene in the treatment of human and porcine malignant hyperthermia crisis, when considered along with prophylactic experiments in malignant hyperthermia susceptible swine, lends support to prophylactic use of oral or intravenous dantrolene in malignant hyperthermia susceptible humans.
 When prophylactic intravenous dantrolene is administered as directed, whole blood concentrations remain at a near steady state level for 3 or more hours after the infusion is completed.
 Clinical experience has shown that early vital sign and/or blood gas changes characteristic of malignant hyperthermia may appear during or after anesthesia and surgery despite the prophylactic use of dantrolene and adherence to currently accepted patient management practices.
-These signs are compatible with attenuated malignant hyperthermia and respond to the administration of additional i.v. dantrolene (see DOSAGE AND ADMINISTRATION).
+These signs are compatible with attenuated malignant hyperthermia and respond to the administration of additional intravenous dantrolene (see DOSAGE AND ADMINISTRATION).
 The administration of the recommended prophylactic dose of intravenous dantrolene to healthy volunteers was not associated with clinically significant cardiorespiratory changes.
 
 Specific metabolic pathways for the degradation and elimination of dantrolene sodium in humans have been established.
@@ -29,6 +29,6 @@ The mean biologic half-life of dantrolene sodium after intravenous administratio
 Based on assays of whole blood and plasma, slightly greater amounts of dantrolene are associated with red blood cells than with the plasma fraction of blood.
 Significant amounts of dantrolene are bound to plasma proteins, mostly albumin, and this binding is readily reversible.
 
-Cardiopulmonary depression has not been observed in malignant hyperthermia susceptible swine following the administration of up to 7.5 mg/kg i.v. dantrolene.
+Cardiopulmonary depression has not been observed in malignant hyperthermia susceptible swine following the administration of up to 7.5 mg/kg intravenous dantrolene.
 This is twice the amount needed to maximally diminish twitch response to single supramaximal peripheral nerve stimulation (95% inhibition).
 A transient, inconsistent, depressant effect on gastrointestinal smooth muscles has been observed at high doses.
