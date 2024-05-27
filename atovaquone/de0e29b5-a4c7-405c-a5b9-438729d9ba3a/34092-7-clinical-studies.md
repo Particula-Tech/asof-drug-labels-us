@@ -22,7 +22,7 @@ The results of the PCP event rates appear in Table 7.
 Mortality rates were similar among the groups.
 
 Table 7.
-Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)a
+Confirmed or Presumed/Probable PCP Events (As-Treated Analysis) a
 
 | Assessment | Trial 1 |  | Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -30,12 +30,8 @@ Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)a
 | % | 15 | 19 | 23 | 18 | 17 |
 | Relative Risk b (CI) c | 0.77 (0.57, 1.04) |  | 1.47 (0.86, 2.50) | 1.14 (0.63, 2.06) |  |
 
-aThose events occurring during or within 30 days of stopping assigned treatment.
-
-bRelative risk <1 favors atovaquone oral suspension and values >1 favor comparator.
-Trial results did not show superiority of atovaquone oral suspension to the comparator.
-
-cThe confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%.
+aThose events occurring during or within 30 days of stopping assigned treatment. bRelative risk <1 favors atovaquone oral suspension and values >1 favor comparator.
+Trial results did not show superiority of atovaquone oral suspension to the comparator. cThe confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%.
 
 An analysis of all PCP events (intent-to-treat analysis) for both trials showed results similar to those shown in Table 7.
 
@@ -44,7 +40,7 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 The indication for treatment of mild-to-moderate PCP is based on the results of 2 efficacy trials: a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO 2] ≤45 mm Hg and PaO 2≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg 3 times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
-Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology(12.2)].
+Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
 
 TMP-SMX Comparative Trial
 

@@ -2,21 +2,21 @@
 
 ## 7.1 Rifampin/Rifabutin
 
-Concomitant administration of rifampin or rifabutin and atovaquone oral suspension is known to reduce atovaquone concentrations [see Clinical Pharmacology(12.3)].
+Concomitant administration of rifampin or rifabutin and atovaquone oral suspension is known to reduce atovaquone concentrations [see Clinical Pharmacology (12.3)].
 Concomitant administration of atovaquone oral suspension and rifampin or rifabutin is not recommended.
 
 ## 7.2 Tetracycline
 
-Concomitant administration of tetracycline and atovaquone oral suspension has been associated with a reduction in plasma concentrations of atovaquone [see Clinical Pharmacology(12.3)].
+Concomitant administration of tetracycline and atovaquone oral suspension has been associated with a reduction in plasma concentrations of atovaquone [see Clinical Pharmacology (12.3)].
 Caution should be used when prescribing tetracycline concomitantly with atovaquone oral suspension.
 Monitor patients for potential loss of efficacy of atovaquone oral suspension if coadministration is necessary.
 
 ## 7.3 Metoclopramide
 
-Metoclopramide may reduce the bioavailability of atovaquone and should be used only if other antiemetics are not available [see Clinical Pharmacology(12.3)].
+Metoclopramide may reduce the bioavailability of atovaquone and should be used only if other antiemetics are not available [see Clinical Pharmacology (12.3)].
 
 ## 7.4 Indinavir
 
-Concomitant administration of atovaquone and indinavir did not result in any change in the steady-state AUC and C maxof indinavir but resulted in a decrease in the C troughof indinavir [see Clinical Pharmacology(12.3)].
+Concomitant administration of atovaquone and indinavir did not result in any change in the steady-state AUC and C maxof indinavir but resulted in a decrease in the C troughof indinavir [see Clinical Pharmacology (12.3)].
 Caution should be exercised when prescribing atovaquone oral suspension with indinavir due to the decrease in trough concentrations of indinavir.
 Monitor patients for potential loss of efficacy of indinavir if coadministration with atovaquone oral suspension is necessary.

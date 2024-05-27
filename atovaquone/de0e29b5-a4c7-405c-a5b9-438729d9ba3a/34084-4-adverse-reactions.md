@@ -2,7 +2,7 @@
 
 The following adverse reaction is discussed in another section of the labeling:
 
-• Hepatotoxicity [see Warnings and Precautions(5.2)].
+• Hepatotoxicity [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
 

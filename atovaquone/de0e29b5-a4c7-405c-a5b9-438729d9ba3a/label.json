@@ -5,7 +5,9 @@
   "inn": "atovaquone",
   "labeler": "Chartwell RX, LLC",
   "package_ndcs": [
-    "62135-528-09"
+    "62135-528-09",
+    "62135-528-24",
+    "62135-528-45"
   ],
   "products": [
     {

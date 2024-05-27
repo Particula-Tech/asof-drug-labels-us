@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Atovaquone is a quinone antimicrobial drug [see Microbiology(12.4)].
+Atovaquone is a quinone antimicrobial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
 Relationship between Plasma Atovaquone Concentrations and Clinical Outcome
 
-In a comparative clinical trial, HIV/AIDS subjects received atovaquone tablets 750 mg 3 times daily or TMP-SMX for treatment of mild-to-moderate PCP for 21 days [see Clinical Studies(14.2)]; the relationship between atovaquone plasma concentrations and successful treatment outcome from 113 of these subjects for whom both steady-state drug concentrations and outcome data were available is shown in Table 6.
+In a comparative clinical trial, HIV/AIDS subjects received atovaquone tablets 750 mg 3 times daily or TMP-SMX for treatment of mild-to-moderate PCP for 21 days [see Clinical Studies (14.2)]; the relationship between atovaquone plasma concentrations and successful treatment outcome from 113 of these subjects for whom both steady-state drug concentrations and outcome data were available is shown in Table 6.
 
 Table 6.
 Relationship between Plasma Atovaquone Concentrations and Successful Treatment Outcome

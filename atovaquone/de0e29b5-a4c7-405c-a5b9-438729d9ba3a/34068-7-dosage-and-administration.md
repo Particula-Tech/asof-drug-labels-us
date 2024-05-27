@@ -10,7 +10,7 @@ The recommended oral dosage is 750 mg (5 mL) twice daily (total daily dose = 1,5
 
 ## 2.3 Important Administration Instructions
 
-Administer atovaquone oral suspension with food to avoid low plasma atovaquone concentrations that may limit response to therapy [see Warnings and Precautions(5.1), Clinical Pharmacology(12.3)].
+Administer atovaquone oral suspension with food to avoid low plasma atovaquone concentrations that may limit response to therapy [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 Atovaquone Oral Suspension Bottle
 
