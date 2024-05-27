@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-PregnancyExposureRegistry
+Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
@@ -101,7 +101,7 @@ The safety of fluoxetine treatment for pediatric patients has not been systemati
 In particular, there are no studies that directly evaluate the longer-term effects of fluoxetine on the growth, development and maturation of children and adolescent patients.
 Therefore, height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6)].
 
-Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warningand [see Warnings and Precautions(5.1)].
+Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warningand [see Warnings and Precautions (5.1)].
 Anyone considering the use of fluoxetine in a child or adolescent must balance the potential risks with the clinical need.
 
 Animal Data

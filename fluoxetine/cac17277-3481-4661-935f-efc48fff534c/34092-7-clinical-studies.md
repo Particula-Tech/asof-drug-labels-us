@@ -25,7 +25,7 @@ In both studies independently, fluoxetine produced a statistically significantly
 
 Subgroup analyses on the CDRS-R total score did not suggest any differential responsiveness on the basis of age or gender.
 
-MaintenanceTreatment
+Maintenance Treatment
 
 A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of≤7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on fluoxetine 20 mg/day.
 These patients (N=298) were randomized to continuation on double-blind fluoxetine 20 mg/day or placebo.

@@ -6,6 +6,10 @@ Fluoxetine Oral Solution, USP is a mint flavored, colorless to straw colored liq
 
 20 mg per 5 mL Bottles of 120 mL NDC 62135-730-41
 
+5 mL Unit Dose Cup NDC 62135-730-45
+
+20 Unit Dose Cups of 5 mL each NDC 62135-730-24
+
 Dispense in a tight, light resistant container as defined in USP.
 Protect from light.
 

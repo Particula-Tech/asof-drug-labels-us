@@ -17,7 +17,7 @@ Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Box Warningand Warnings and Precautions(5.1)].
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Box Warningand Warnings and Precautions (5.1)].
 
 Serotonin Syndrome
 
@@ -96,4 +96,4 @@ Congers, NY 10920
 Print Medication Guides at: www.chartwellpharma.com/medguides
 
 L71636 Rev.
-10/2023
+05/2024

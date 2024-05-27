@@ -164,17 +164,17 @@ Digestive System— Infrequent:dysphagia, gastritis, gastroenteritis, melena, st
 
 Hemic and Lymphatic System— Infrequent:ecchymosis; Rare:petechia, purpura.
 
-Investigations- Frequent:QT interval prolongation (QT cF≥450 msec) 3
+Investigations— Frequent:QT interval prolongation (QT cF≥450 msec) 3
 
 Nervous System— Frequent:emotional lability; Infrequent:akathisia, ataxia, balance disorder 1, bruxism 1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare:delusions.
 
 Respiratory System— Rare:larynx edema.
 
-Skin and Appendages— Infrequent: alopecia; Rare:purpuric rash.
+Skin and Appendages— Infrequent:alopecia; Rare:purpuric rash.
 
 Special Senses— Frequent:taste perversion; Infrequent:mydriasis.
 
-Urogenital System– Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding 2.
+Urogenital System— Frequent:micturition disorder; Infrequent:dysuria, gynecological bleeding 2.
 
 1MedDRA dictionary term from integrated database of placebo controlled trials in 15,870 patients, of which 9,673 patients received fluoxetine.
 2Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
