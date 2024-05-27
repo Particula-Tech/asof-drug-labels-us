@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213879"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-202-60",
+    "72205-204-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dabigatran etexilate",
+      "name": "DABIGATRAN"
+    }
+  ],
+  "setid": "6f79088b-b353-485a-9df4-6f5088f5bd0f",
+  "source": "dailymed"
+}
