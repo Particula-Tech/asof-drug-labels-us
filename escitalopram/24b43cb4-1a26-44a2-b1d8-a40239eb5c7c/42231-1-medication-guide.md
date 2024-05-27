@@ -43,7 +43,7 @@ Escitalopram tablets may harm the unborn baby.
 Taking escitalopram tablets during the third trimester of pregnancy may cause the baby to have withdrawal symptoms, or breathing, temperature control, feeding, or other problems after birth.
 Talk to your healthcare provider about the risks to the baby if you or your child take escitalopram tablets during pregnancy. o Tell your healthcare provider right away if you or your child become pregnant or think you may be pregnant during treatment with escitalopram tablets. o There is a pregnancy registry for females who are exposed to escitalopram tablets during pregnancy.
 The purpose of the registry is to collect information about the health of females exposed to escitalopram tablets and their baby.
-If you or your child become pregnant during treatment with escitalopram tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visit online at https://womensmentalhealth.org/clinical-and-research programs/pregnancyregistry/antidepressants/.
+If you or your child become pregnant during treatment with escitalopram tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visit online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants.
 
 • are breastfeeding or plan to breastfeed.
 Escitalopram passes into breast milk and may harm the baby.
@@ -224,4 +224,4 @@ Medication Guide available at:www.macleodspharma.com/usa
 Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets and LEXAPRO (escitalopram) oral solution.
 However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-Revised: November 2023
+Revised: May 2024

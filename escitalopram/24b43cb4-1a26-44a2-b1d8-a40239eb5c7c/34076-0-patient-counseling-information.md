@@ -32,7 +32,7 @@ Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA.
 
 Medication Guide available at:www.macleodspharma.com/usa
 
-Revised: 11/2023
+Revised: 05/2024
 
 Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) tablets and LEXAPRO (escitalopram) oral solution.
 However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
