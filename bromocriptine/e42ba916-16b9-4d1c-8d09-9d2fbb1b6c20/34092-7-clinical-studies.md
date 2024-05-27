@@ -24,12 +24,12 @@ Table 2: Changes in Glycemic Parameters in a 24-Week Placebo-Controlled Study of
 | HbA1c (%) | N = 74 | N = 74 |
 | Baseline (mean) | 9.0 | 8.8 |
 | Change from baseline (adj. mean) | -0.1 | 0.3 |
-| Difference from placebo (adj. mean) | -0.4p = 0.05, |  |
+| Difference from placebo (adj. mean) | -0.4p = 0.05 |  |
 | Fasting Plasma Glucose (mg/dL) | N = 76 | N = 75 |
 | Baseline (mean) | 215 | 205 |
 | Change from baseline (adj. mean) | 0 | 23 |
 | Difference from placebo (adj. mean) | -23p = 0.005 |  |
-| P-value calculated by ANOVA; |  |  |
+| P-value calculated by ANOVA |  |  |
 
 ## 14.2 Combination Therapy
 
@@ -55,12 +55,12 @@ Table 3: Changes in Glycemic Parameters for CYCLOSET Versus Placebo in Two Add-o
 | HbA1c (%) | n = 114 | n = 122 | n = 114 | n = 123 |
 | Baseline (mean) | 9.3 | 9.4 | 9.3 | 9.4 |
 | Change from baseline (adj. mean) | -0.1 | 0.4 | -0.4 | 0.3 |
-| Difference from placebo (adj. mean) | -0.5p≤ 0.001, |  | -0.6 |  |
+| Difference from placebo (adj. mean) | -0.5p≤ 0.001 |  | -0.6 |  |
 | Fasting Plasma Glucose (mg/dL) | n = 116 | n = 119 | n = 113 | n = 123 |
 | Baseline (mean) | 216 | 227 | 220 | 226 |
 | Change from baseline (adj. mean) | 10 | 28 | 3 | 23 |
-| Difference from placebo (adj. mean) | -18p = 0.02; |  | -20p = 0.006 |  |
-| P-value calculated by ANOVA; |  |  |  |  |
+| Difference from placebo (adj. mean) | -18p = 0.02 |  | -20p = 0.006 |  |
+| P-value calculated by ANOVA |  |  |  |  |
 
 CYCLOSET Add-on to Various Oral Antidiabetic Agents
 
@@ -93,7 +93,7 @@ Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial 
 | Change from baseline (adjusted mean) | -0.5 | 0.0 |
 | Difference from placebo (adjusted mean) | -0.5 |  |
 | % Patients achieving HbA1c of ≤7.0 | 27 | 9 |
-| P-value is based on an ANCOVA model with treatment and center as fixed effects, and baseline HbA1c as covariates; |  |  |
+| P-value is based on an ANCOVA model with treatment and center as fixed effects, and baseline HbA1c as covariates |  |  |
 
 ## 14.3 Changes in Lipids and Blood Pressure
 

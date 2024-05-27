@@ -36,8 +36,8 @@
 | Active ingredient: bromocriptine mesylate |  |  |  |  |
 | Inactive ingredients: lactose, corn starch, magnesium stearate, colloidal silicon dioxide, and citric acid |  |  |  |  |
 | Manufactured for: VeroScience, LLC Tiverton, RI 02878 |  |  |  |  |
-| Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA |  |  |  |  |
-| For information for healthcare professionals, call 1-800-321-4576. |  |  |  |  |
+| Distributed by: Avvisto Therapeutics, LLC Tiverton, RI 02878 USA |  |  |  |  |
+| For information for healthcare professionals, call 1-888-621-1215. |  |  |  |  |
 | CYCLOSET is a registered trademark of: VeroScience, LLC Tiverton, RI 02878 |  |  |  |  |
-| For more information, go to www.CYCLOSET.com or call 1-800-321-4576. |  |  |  |  |
+| For more information, go to www.CYCLOSET.com or call 1-888-321-1215. |  |  |  |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: 08/2020 |
