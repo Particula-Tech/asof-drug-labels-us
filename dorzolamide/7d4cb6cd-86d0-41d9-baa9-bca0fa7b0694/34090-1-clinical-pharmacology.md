@@ -8,8 +8,8 @@ In humans, carbonic anhydrase exists as a number of isoenzymes, the most active 
 Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport.
 The result is a reduction in intraocular pressure (IOP).
 
-Dorzolamide hydrochloride ophthalmic solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II.
-Following topical ocular administration, dorzolamide hydrochloride ophthalmic solution reduces elevated intraocular pressure.
+Dorzolamide Hydrochloride Ophthalmic Solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II.
+Following topical ocular administration, Dorzolamide Hydrochloride Ophthalmic Solution reduces elevated intraocular pressure.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
 
 ## 12.3 Pharmacokinetics

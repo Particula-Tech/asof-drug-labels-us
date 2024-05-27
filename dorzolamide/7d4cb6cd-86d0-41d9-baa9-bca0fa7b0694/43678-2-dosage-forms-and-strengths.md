@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Solution containing 20 mg/mL dorzolamide (22.3 mg of dorzolamide hydrochloride).
+Ophthalmic Solution containing 20 mg/mL dorzolamide 2% equivalent to (22.3 mg of dorzolamide hydrochloride).
