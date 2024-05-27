@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021434"
+  ],
+  "inn": "alprazolam",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-503-91",
+    "58151-504-91",
+    "58151-505-91",
+    "58151-506-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "alprazolam",
+      "name": "Xanax"
+    }
+  ],
+  "setid": "c8990714-c2f5-4b0c-9f1c-91d77156d962",
+  "source": "dailymed"
+}
