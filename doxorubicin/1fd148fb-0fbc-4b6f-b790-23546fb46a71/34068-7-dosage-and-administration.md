@@ -34,7 +34,7 @@ Recommended Dosage Modification for Elevated Serum Total Bilirubin
 
 ## 2.5 Preparation and Administration
 
-Doxorubicin Hydrochloride Injection/for Injection is a cytotoxic drug.
+Doxorubicin Hydrochloride Injection/for Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 Preparation
