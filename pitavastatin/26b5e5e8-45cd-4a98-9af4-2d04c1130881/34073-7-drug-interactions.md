@@ -23,7 +23,7 @@ Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Pit
 | Intervention: | Consider if the benefit of using fibrates concomitantly with pitavastatin tablets outweighs the increased risk of myopathy and rhabdomyolysis. |
 | Niacin |  |
 | Clinical Impact: | The risk of myopathy and rhabdomyolysis may be increased with concomitant use of lipid-modifying doses (≥ 1 g/day) of niacin with pitavastatin tablets. |
-| Intervention: | Consider if the benefit of using lipid-modifying doses (> 1 g/day) of niacin concomitantly with pitavastatin tablets outweighs the increased risk of myopathy and rhabdomyolysis. |
+| Intervention: | Consider if the benefit of using lipid-modifying doses (≥ 1 g/day) of niacin concomitantly with pitavastatin tablets outweighs the increased risk of myopathy and rhabdomyolysis. |
 | Colchicine |  |
 | Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with statins, including pitavastatin tablets. |
 | Intervention: | Consider the risk/benefit of concomitant use of colchicine with pitavastatin tablets. |

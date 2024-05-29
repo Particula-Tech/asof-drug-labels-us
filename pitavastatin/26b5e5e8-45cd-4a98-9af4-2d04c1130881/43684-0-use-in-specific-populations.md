@@ -52,8 +52,7 @@ There is no available information about the presence of pitavastatin in human or
 However, it has been shown that another drug in this class passes into human milk.
 Statins, including pitavastatin tablets, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
 
-Because of the potential for serious adverse reactions in a breastfed infant, based upon the mechanism of action, advise patients that breastfeeding is not recommended during treatment with pitavastatin tablets.
-[see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)]
+Because of the potential for serious adverse reactions in a breastfed infant, based upon the mechanism of action, advise patients that breastfeeding is not recommended during treatment with pitavastatin tablets [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
 
 ## 8.4 Pediatric Use
 

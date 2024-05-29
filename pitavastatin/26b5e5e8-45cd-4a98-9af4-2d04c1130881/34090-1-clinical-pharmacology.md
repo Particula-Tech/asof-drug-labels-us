@@ -86,7 +86,7 @@ Mean pitavastatin half-life for moderate hepatic impairment, mild hepatic impair
 
 ### Drug Interaction Studies
 
-Warfarin:The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin tablets 4 mg daily.
+Warfarin: The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin tablets 4 mg daily.
 
 Table 3 presents the effect of coadministered drugs on pitavastatin systemic exposure:
 
@@ -95,7 +95,7 @@ Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 | Coadministered Drug | Dosage Regimen | Change in AUCData presented as x-fold change represent the ratio between coadministration and pitavastatin alone (i.e., 1-fold = no change). Data presented as % change represent % difference relative to pitavastatin alone (i.e., 0% = no change). | Change in Cmax |
 | --- | --- | --- | --- |
-| Cyclosporine | Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6 | ↑ 4.6-foldConsidered clinically significant [see Dosage and Administration (2.4) and Drug Interactions (7)] | ↑ 6.6 fold |
+| Cyclosporine | Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6 | ↑ 4.6-foldConsidered clinically significant [see Dosage and Administration (2.4), Drug Interactions (7)] | ↑ 6.6-fold |
 | Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8-fold | ↑ 3.6-fold |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days | ↑ 29% | ↑ 2.0-fold |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days | ↑ 31% | ↑ 60% |
