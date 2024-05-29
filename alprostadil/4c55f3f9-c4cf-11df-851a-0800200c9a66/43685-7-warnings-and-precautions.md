@@ -13,15 +13,15 @@ Patients should be cautioned to avoid activities, such as driving or hazardous t
 2. 2.
    Cardiovascular effects: During in-clinic dosing, patients should be monitored for symptoms of hypotension, and the lowest effective dose of MUSE should be prescribed.
 3. 3.
-   Hematologic effects: Patients administering MUSE improperly may be at risk of urethral abrasion resulting in minor bleeding or spotting.
+   Hematologic effects: Patients administering MUSE may be at risk of urethral abrasion resulting in minor bleeding or spotting.
    Patients on anticoagulant therapy or with bleeding disorders may be at higher risk of bleeding.
    Patients on anticoagulant therapy have been safely treated with MUSE; however, the risk/benefit ratio in these patients should be considered prior to prescribing MUSE.
 4. 4.
    Resumption of sexual activity: Sexual intercourse is considered a vigorous physical activity, and it increases heart rate as well as cardiac work.
    Physicians may want to examine the cardiac fitness of patients prior to treating erectile dysfunction.
 5. 5.
-   Priapism and prolonged erection: In clinical trials of MUSE, priapism (rigid erection lasting ≥ 6 hours) and prolonged erection (rigid erection lasting 4 hours and < 6 hours) were reported infrequently (< 0.1% and 0.3% of patients, respectively).
-   Nevertheless, these events are a potential risk of pharmacologic therapy and can cause penile injury.
+   Priapism and prolonged erection: In 2 identical multicenter, double-blind, placebo-controlled, parallel-group studies, priapism (rigid erection lasting 4 hours or longer) was reported in 2 of 1511 patients (0.13% of patients).
+   Nevertheless, these reactions are a potential risk of pharmacologic therapy and can cause penile injury.
    Physicians should lower the dose or consider discontinuing MUSE treatment in any patient who develops priapism or prolonged erection.
 6. 6.
    Drug-Drug Interactions: Because there are low or undetectable (< 2 picograms/mL) amounts of alprostadil found in the peripheral venous circulation following MUSE administration, systemic drug-drug interactions with MUSE are unlikely.
@@ -30,8 +30,6 @@ Patients should be cautioned to avoid activities, such as driving or hazardous t
    In addition, the presence of medications in the circulation that attenuate erectile function may influence the response to MUSE.
 7. 7.
    Drug-Device Interactions: Use of MUSE in patients with penile implants has not been studied.
-8. 8.
-   Sexual Preference: There is no experience in homosexual men and no experience with other than vaginal intercourse.
 
 ## Information for Patients
 
@@ -43,12 +41,12 @@ This condition is serious and, if untreated, it can lead to permanent inability 
 Patients who experience a prolonged erection should seek prompt medical attention.
 
 Patients should be instructed how to administer MUSE.
-A patient package insert must be given to each patient at the initiation of MUSE therapy.
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 ## Information for Partners
 
-Partners of patients using MUSE should be informed that MUSE offers no protection from the transmission of sexually transmitted diseases.
-Patients and partners who use MUSE should be counseled about the protective measures that are necessary to guard against the spread of sexually transmitted agents, including the human immunodeficiency virus (HIV).
+Patients should be instructed to inform their partners that MUSE offers no protection from the transmission of sexually transmitted diseases.
+Counsel patients about the protective measures that are necessary to guard against the spread of sexually transmitted agents, including the human immunodeficiency virus (HIV).
 Human semen contains PGE1, but additional amounts may be present from MUSE administration (see CLINICAL PHARMACOLOGY).
 Partners who have experienced an extended period of sexual abstinence should be encouraged to seek advice from a health care professional prior to resuming sexual intercourse.
 The use of a water-based lubricant may facilitate vaginal penetration.
@@ -69,7 +67,7 @@ Alprostadil concentrations of 400 mcg/mL had no effect on human sperm motility o
 
 ## Pregnancy
 
-Alprostadil has been shown to be embryotoxic (decreased fetal weight) when administered as a subcutaneous bolus to pregnant rats at doses as low as500 mcg/kg/day.
+Alprostadil has been shown to be embryotoxic (decreased fetal weight) when administered as a subcutaneous bolus to pregnant rats at doses as low as 500 mcg/kg/day.
 Doses of 2000 mcg/kg/day resulted in increased resorptions, reduced numbers of live fetuses, increased incidences of visceral and skeletal variations (primarily left umbilical artery and generalized reduction in ossification of the entire skeleton) and gross visceral and skeletal malformations (primarily edema, hydrocephaly, anophthalmia/microphthalmia, and skeletal anomalies).
 The latter dose produced maternal toxicity (ataxia, lethargy, diarrhea, and retarded body weight gain).
 When administered by continuous intravenous infusion, evidence of embryotoxicity (decreased fetal weight gain and increased incidence of hydroureter) was observed at 2000 mcg/kg/day, a dose that was also associated with a decrease in maternal weight gain.

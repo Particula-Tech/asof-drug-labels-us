@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-MUSE® (alprostadil) is a single-use, medicated transurethral system for the delivery of alprostadil to the male urethra.
+MUSE® (alprostadil) is a single-dose, medicated transurethral system for the delivery of alprostadil to the male urethra.
 Alprostadil is suspended in polyethylene glycol 1450 (as excipient) and is formed into a medicated pellet (micro-suppository measuring 1.4 mm in diameter by 3 mm or 6 mm in length) that resides in the tip of a translucent hollow applicator.
 MUSE is administered by inserting the applicator stem into the urethra after urination.
 The pellet containing alprostadil is delivered by depressing the applicator button (see Figure 1).
@@ -17,4 +17,4 @@ Its solubility at 35°C is 8000 mcg per 100 mL double-distilled water.
 The inactive ingredient in MUSE is polyethylene glycol 1450, USP.
 There are no other active agents or excipients in MUSE.
 
-MUSE is available in 4 dosage strengths: 125 mcg, 250 mcg, 500 mcg, and 1000 mcg.
+MUSE is available in 3 dosage strengths: 250 mcg, 500 mcg, and 1000 mcg.
