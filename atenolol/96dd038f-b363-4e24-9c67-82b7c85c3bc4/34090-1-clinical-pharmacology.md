@@ -11,7 +11,7 @@ Peak blood levels are reached between two (2) and four (4) hours after ingestion
 Unlike propranolol or metoprolol, but like nadolol, atenolol undergoes little or no metabolism by the liver, and the absorbed portion is eliminated primarily by renal excretion.
 Over 85% of an intravenous dose is excreted in urine within 24 hours compared with approximately 50% for an oral dose.
 Atenolol also differs from propranolol in that only a small amount (6% to 16%) is bound to proteins in the plasma.
-This kinetic profile results in relatively consistent plasma drug levels with about a fourfold interpatient variation.
+This kinetic profile results in relatively consistent plasma drug levels with about a 4-fold interpatient variation.
 
 The elimination half-life of oral atenolol is approximately 6 to 7 hours, and there is no alteration of the kinetic profile of the drug by chronic administration.
 Following intravenous administration, peak plasma levels are reached within 5 minutes.
@@ -35,9 +35,9 @@ In normal subjects, the beta1 selectivity of atenolol has been shown by its redu
 In asthmatic patients, a dose of atenolol producing a greater effect on resting heart rate than propranolol resulted in much less increase in airway resistance.
 In a placebo controlled comparison of approximately equipotent oral doses of several beta-blockers, atenolol produced a significantly smaller decrease of FEV1 than nonselective beta-blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.
 
-Consistent with its negative chronotropic effect due to beta-blockade of the SA node, atenolol increases sinus cycle length and sinus node recovery time.
+Consistent with its negative chronotropic effect due to beta blockade of the SA node, atenolol increases sinus cycle length and sinus node recovery time.
 Conduction in the AV node is also prolonged.
-Atenolol is devoid of membrane stabilizing activity, and increasing the dose well beyond that producing beta-blockade does not further depress myocardial contractility.
+Atenolol is devoid of membrane stabilizing activity, and increasing the dose well beyond that producing beta blockade does not further depress myocardial contractility.
 Several studies have demonstrated a moderate (approximately 10%) increase in stroke volume at rest and during exercise.
 
 In controlled clinical trials, atenolol, given as a single daily oral dose, was an effective antihypertensive agent providing 24-hour reduction of blood pressure.
@@ -52,14 +52,14 @@ By blocking the positive chronotropic and inotropic effects of catecholamines an
 On the other hand, atenolol can increase oxygen requirements by increasing left ventricular fiber length and end diastolic pressure, particularly in patients with heart failure.
 
 In a multicenter clinical trial (ISIS-1) conducted in 16,027 patients with suspected myocardial infarction, patients presenting within 12 hours (mean = 5 hours) after the onset of pain were randomized to either conventional therapy plus atenolol (n = 8,037), or conventional therapy alone (n = 7,990).
-Patients with a heart rate of < 50 bpm or systolic blood pressure < 100 mm Hg, or with other contraindications to beta-blockade were excluded.
+Patients with a heart rate of < 50 bpm or systolic blood pressure < 100 mm Hg, or with other contraindications to beta blockade were excluded.
 Thirty-eight percent of each group were treated within 4 hours of onset of pain.
 The mean time from onset of pain to entry was 5.0 ± 2.7 hours in both groups.
 Patients in the atenolol group were to receive atenolol I.V.
-Injection 5 to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the IV dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2-7.
+Injection 5 mg to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the I.V. dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2 to 7.
 The groups were similar in demographic and medical history characteristics and in electrocardiographic evidence of myocardial infarction, bundle branch block, and first degree atrioventricular block at entry.
 
-During the treatment period (days 0-7), the vascular mortality rates were 3.89% in the atenolol group (313 deaths) and 4.57% in the control group (365 deaths).
+During the treatment period (days 0 to 7), the vascular mortality rates were 3.89% in the atenolol group (313 deaths) and 4.57% in the control group (365 deaths).
 This absolute difference in rates, 0.68%, is statistically significant at the P < 0.05 level.
 The absolute difference translates into a proportional reduction of 15% (3.89 to 4.57/4.57 = -0.15).
 The 95% confidence limits are 1% to 27%.

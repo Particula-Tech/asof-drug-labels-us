@@ -10,7 +10,7 @@ In Patients Without a History of Cardiac Failure
 
 Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of impending cardiac failure, patients should be treated appropriately according to currently recommended guidelines, and the response observed closely.
-If cardiac failure continues despite adequate treatment, atenolol should be withdrawn (See Dosage and Administration).
+If cardiac failure continues despite adequate treatment, atenolol should be withdrawn (See DOSAGE AND ADMINISTRATION).
 
 # PRECAUTIONS
 
@@ -22,14 +22,23 @@ Atenolol may aggravate peripheral arterial circulatory disorders.
 
 Impaired Renal Function
 
-The drug should be used with caution in patients with impaired renal function (See Dosage and Administration).
+The drug should be used with caution in patients with impaired renal function (See DOSAGE AND ADMNISTRATION).
+
+*Based on the maximum dose of 100 mg/day in a 50 kg patient.
+
+Information for Patients
+
+Hypoglycemia
+
+Inform patients or caregivers that there is a risk of hypoglycemia when atenolol is given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia.
 
 Drug Interactions
 
 Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.
 Patients treated with atenolol plus a catecholamine depletor should therefore be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension.
 
-Calcium channel blockers may also have an additive effect when given with atenolol (see WARNINGS).
+Calcium channel blockers may also have an additive effect when given with atenolol (See WARNINGS).
 
 Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects.
 Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta-blockers.
@@ -54,7 +63,7 @@ Concomitant use can increase the risk of bradycardia.
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose*, did not indicate a carcinogenic potential of atenolol.
-A third (24 month) rat study, employing doses of 500 and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
+A third (24 month) rat study, employing doses of 500 mg/kg/day and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
 No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse), in vivo cytogenetics test (Chinese hamster) or Ames test (S typhimurium).
 
 Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose*) was unaffected by atenolol administration.
@@ -63,13 +72,11 @@ Animal Toxicology
 
 Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner’s glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive dose*) and increased incidence of atrial degeneration of hearts of male rats at 300 but not 150 mg atenolol/kg/day (150 and 75 times the maximum recommended human antihypertensive dose*, respectively).
 
-*Based on the maximum dose of 100 mg/day in a 50 kg patient.
-
-Usage in Pregnancy
-
-Pregnancy Category D
+Pregnancy
 
 See WARNINGS - Pregnancy and Fetal Injury.
+
+*Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
 Nursing Mothers
 
@@ -79,7 +86,7 @@ Clinically significant bradycardia has been reported in breastfed infants.
 Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
 
 Neonates born to mothers who are receiving atenolol at parturition or breastfeeding may be at risk for hypoglycemia and bradycardia.
-Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breastfeeding (see WARNINGS, Pregnancy and Fetal Injury).
+Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breastfeeding (See WARNINGS, Pregnancy and Fetal Injury).
 
 Pediatric Use
 
@@ -95,8 +102,8 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 Acute Myocardial Infarction:
 
-Of the 8,037 patients with suspected acute myocardial infarction randomized to atenolol in the ISIS-1 trial (see CLINICAL PHARMACOLOGY), 33% (2,644) were 65 years of age and older.
-It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure < 120 mm Hg seemed less likely to benefit (see INDICATIONS AND USAGE).
+Of the 8,037 patients with suspected acute myocardial infarction randomized to atenolol in the ISIS-1 trial (See CLINICAL PHARMACOLOGY), 33% (2,644) were 65 years of age and older.
+It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure < 120 mm Hg seemed less likely to benefit (See INDICATIONS AND USAGE).
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.

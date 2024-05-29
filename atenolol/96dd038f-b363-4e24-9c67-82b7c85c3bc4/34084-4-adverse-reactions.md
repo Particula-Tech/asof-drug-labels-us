@@ -17,7 +17,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | CENTRAL NERVOUS SYSTEM/ NEUROMUSCULAR |  |  |  |  |
 | Dizziness | 4 | 1 | 13 | 6 |
 | Vertigo | 2 | 0.5 | 2 | 0.2 |
-| Lightheadedness | 1 | 0 | 3 | 0.7 |
+| Light-headedness | 1 | 0 | 3 | 0.7 |
 | Tiredness | 0.6 | 0.5 | 26 | 13 |
 | Fatigue | 3 | 1 | 6 | 5 |
 | Lethargy | 1 | 0 | 3 | 0.7 |
@@ -27,7 +27,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea | 2 | 0 | 3 | 2 |
 | Nausea | 4 | 1 | 3 | 1 |
-| RESPIRATORY (see WARNINGS) |  |  |  |  |
+| RESPIRATORY (See WARNINGS) |  |  |  |  |
 | Wheeziness | 0 | 0 | 3 | 3 |
 | Dyspnea | 0.6 | 1 | 6 | 4 |
 
@@ -59,7 +59,7 @@ In a study of 477 patients, the following adverse events were reported during ei
 | Deaths | 7 | (2.9%) | 16 | (6.9%) |
 | Cardiogenic Shock | 1 | (0.4%) | 4 | (1.7%) |
 | Development of Ventricular Septal Defect | 0 | (0%) | 2 | (0.9%) |
-| Development of MitralRegurgitation | 0 | (0%) | 2 | (0.9%) |
+| Development of Mitral Regurgitation | 0 | (0%) | 2 | (0.9%) |
 | Renal Failure | 1 | (0.4%) | 0 | (0%) |
 | Pulmonary Emboli | 3 | (1.2%) | 0 | (0%) |
 
@@ -103,4 +103,4 @@ Patients should be closely monitored following cessation of therapy (See DOSAGE 
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with atenolol.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol therapy with subsequent resolution or quiescence of the reaction.
 
-To report side effects, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
