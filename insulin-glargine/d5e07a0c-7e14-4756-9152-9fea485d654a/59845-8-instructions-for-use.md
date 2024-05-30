@@ -1,4 +1,4 @@
-INSTRUCTIONS FOR USE LANTUS® (LAN-tus) (insulin glargine) injection, for subcutaneous use VIAL: 100 Units/mL (U-100)
+INSTRUCTIONS FOR USE LANTUS® (LAN-tus) (insulin glargine) injection, for subcutaneous use VIAL: 100 units/mL (U-100)
 
 These Instructions for Use contain information on how to inject LANTUS using the vial.
 Read these Instructions for Use before you start taking LANTUS and each time you get a new LANTUS vial.
@@ -65,7 +65,7 @@ You are now ready to inject.
 Injecting LANTUS
 
 - Inject your LANTUS (with a syringe) exactly as your healthcare provider has shown you.
-- LANTUS is injected once daily at any time of the day but at the same time every day
+- LANTUS is injected once daily at any time of the day but at the same time every day.
 
 Step 7:
 
@@ -134,9 +134,9 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752 ©2022 sanofi-aventis U.S. LLC.
 
-Revised: June 2022
+Revised: June 2023
 
-INSTRUCTIONS FOR USE LANTUS® SOLOSTAR® (LAN-tus) (insulin glargine) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 Units/mL (U-100)
+INSTRUCTIONS FOR USE LANTUS® SOLOSTAR® (LAN-tus) (insulin glargine) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 units/mL (U-100)
 
 Read these Instructions for Use before you start taking the LANTUS Solostar pen and each time you get a new LANTUS SoloStar pen.
 There may be new information.
@@ -374,7 +374,7 @@ Protect your pen from dust and dirt
   Do not soak, wash or lubricate your pen.
   This may damage it.
 
-Disposing LANTUS SoloStar Pen
+Throwing your pen away
 
 - The used LANTUS SoloStar pen may be thrown away in your household trash after you have removed the needle.
 - Put the used needle in an FDA-cleared sharps disposal container right away after use.
@@ -393,8 +393,8 @@ Disposing LANTUS SoloStar Pen
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752 ©2022 sanofi-aventis U.S. LLC.
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752 ©2023 sanofi-aventis U.S. LLC.
 
-Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
+*Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
 
-Revised: June 2022
+Revised: June 2023

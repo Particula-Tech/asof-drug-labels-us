@@ -235,7 +235,7 @@ Patients were randomized to either LANTUS (N=6,264) titrated to a goal fasting p
 Anthropometric and disease characteristics were balanced at baseline.
 The mean age was 64 years and 8% of patients were 75 years of age or older.
 The majority of patients were male (65%).
-Fifty nine percent were Caucasian, 25% were Latin, 10% were Asian and 3% were Black.
+Fifty nine percent were White, 25% were Latin, 10% were Asian and 3% were Black or African American.
 The median baseline BMI was 29 kg/m2.
 Approximately 12% of patients had abnormal glucose levels (IGT and/or IFG) at baseline and 88% had type 2 diabetes.
 For patients with type 2 diabetes, 59% were treated with a single oral antidiabetic drug, 23% had known diabetes but were on no antidiabetic drug and 6% were newly diagnosed during the screening procedure.

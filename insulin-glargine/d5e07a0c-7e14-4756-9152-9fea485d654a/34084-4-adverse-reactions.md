@@ -2,6 +2,7 @@
 
 The following adverse reactions are discussed elsewhere:
 
+- Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen [see Warnings and Precautions (5.2)]
 - Hypoglycemia [see Warnings and Precautions (5.3)]
 - Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
@@ -12,14 +13,14 @@ The following adverse reactions are discussed elsewhere:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
 The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to LANTUS or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
-The type 1 diabetes population had the following characteristics: Mean age was 39 years.
-Fifty-four percent were male, 97% were Caucasian, 22% were Black or African American and 33% were Hispanic.
-The mean BMI was 25.1 kg/m2.
+The type 1 diabetes population had the following characteristics: the mean age was 39 years, 54% were male, and mean body mass index (BMI) was 25.1 kg/m2.
+Ninety-seven percent were White, 2% were Black or African American and less than 1% were Asian.
+Approximately 3% of the patients in studies B and C were Hispanic.
 
 The data in Table 2 reflect the exposure of 1,563 patients with type 2 diabetes to LANTUS or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
-The type 2 diabetes population had the following characteristics: Mean age was 59 years.
-Fifty-eight percent were male, 87% were Caucasian, 8% were Black or African American and 9% were Hispanic.
-The mean BMI was 29.2 kg/m2.
+The type 2 diabetes population had the following characteristics: the mean age was 59 years, 58% were male, and mean BMI was 29.2 kg/m2.
+Eighty-seven percent were White, 8% were Black or African American and 3% were Asian.
+Approximately 9% of patients in Study F were Hispanic.
 
 The frequencies of adverse reactions during LANTUS clinical studies in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below (Tables 1, 2, 3, and 4).
 
@@ -142,7 +143,7 @@ In clinical studies of LANTUS, increases in titers of antibodies to insulin were
 The following adverse reactions have been identified during postapproval use of LANTUS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Medication errors have been reported in which rapid-acting insulins and other insulins, have been accidentally administered instead of LANTUS
+Medication errors have been reported in which rapid-acting insulins and other insulins, have been accidentally administered instead of LANTUS.
 
 Localized cutaneous amyloidosis at the injection site has occurred.
 Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
