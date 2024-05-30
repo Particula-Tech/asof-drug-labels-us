@@ -50,8 +50,18 @@ Four weeks after stopping dimethyl fumarate, mean lymphocyte counts increased bu
 Six percent (6%) of dimethyl fumarate patients and <1% of placebo patients experienced lymphocyte counts <0.5 x 109/L (lower limit of normal 0.91 x 109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with dimethyl fumarate or placebo, respectively.
 There was no increased incidence of serious infections observed in patients with lymphocyte counts<0.8 x 109/L or ≤0.5 x 109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5 x 109/L for 3.5 years) [see Warnings and Precautions (5.2)].
-In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months, and in this group the majority of lymphocyte counts remained <0.5 x 109/L with continued therapy.
-Dimethyl fumarate has not been studied in patients with pre­existing low lymphocyte counts.
+
+In controlled and uncontrolled clinical trials, 2% of patients experienced prolonged, severe lymphopenia, (defined as lymphocyte counts <0.5 x 109/L for at least six months); in this group of patients, the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
+In these patients with prolonged, severe lymphopenia, the median time for lymphocyte counts to return to normal after discontinuing dimethyl fumarate was 96.0 weeks.
+
+In these controlled and uncontrolled clinical studies, among patients who did not experience prolonged, severe lymphopenia during treatment, the median times for lymphocyte counts to return to normal after discontinuing dimethyl fumarate were as follows:
+
+- 4.3 weeks in patients with mild lymphopenia (lymphocyte count ≥0.8x109/L) at discontinuation,
+- 10.0 weeks in patients with moderate lymphopenia (lymphocyte count 0.5 to <0.8x109/L) at discontinuation, and
+- 16.7 weeks in patients with severe lymphopenia (lymphocyte count <0.5x109/L) at discontinuation.
+
+Dimethyl fumarate has not been studied in patients with pre-existing low lymphocyte counts.
+
 Obtain a CBC, including lymphocyte count, before initiating treatment with dimethyl fumarate, 6 months after starting treatment, and then every 6 to 12 months thereafter, and as clinically indicated.
 Consider interruption of dimethyl fumarate in patients with lymphocyte counts less than 0.5 x 109/L persisting for more than six months.
 Given the potential for delayed recovery of lymphocyte counts, continue to obtain lymphocyte counts until their recovery if dimethyl fumarate is discontinued or interrupted due to lymphopenia.
@@ -79,3 +89,11 @@ In the majority of patients who experienced flushing, it was mild or moderate in
 Three percent (3%) of patients discontinued dimethyl fumarate for flushing and <1% had serious flushing symptoms that were not life-threatening but led to hospitalization.
 Administration of dimethyl fumarate with food may reduce the incidence of flushing.
 Alternatively, administration of non-enteric coated aspirin (up to a dose of 325 mg) 30 minutes prior to dimethyl fumarate dosing may reduce the incidence or severity of flushing [see Dosing and Administration (2.1)and Clinical Pharmacology (12.3)].
+
+## 5.7 Serious Gastrointestinal Reactions
+
+Serious gastrointestinal reactions, including perforation, ulceration, hemorrhage, and obstruction, some with fatal outcomes, have been reported in the postmarketing setting with the use of fumaric acid esters, including dimethyl fumarate, with or without concomitant aspirin use.
+The majority of these events have occurred within 6 months of fumaric acid ester treatment initiation.
+In controlled clinical trials, the incidence of serious gastrointestinal adverse events was 1% in patients treated with dimethyl fumarate; these events, none of which were fatal, included vomiting (0.3%) and abdominal pain (0.3%) [see Adverse Reactions (6.1)].
+
+Monitor patients, promptly evaluate, and discontinue dimethyl fumarate for new or worsening severe gastrointestinal signs and symptoms.

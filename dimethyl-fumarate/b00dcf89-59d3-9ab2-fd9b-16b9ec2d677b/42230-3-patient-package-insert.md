@@ -1,6 +1,6 @@
 # Patient Information
 
-Dimethyl fumarate (dye-METH-il FUE-ma-rate) delayed-release capsules
+Dimethyl fumarate (dye-METH-il FUE-ma-rate) delayed-release capsules, USP
 
 What are dimethyl fumarate delayed-release capsules?
 
@@ -56,11 +56,19 @@ Dimethyl fumarate delayed-release capsules may cause serious side effects includ
 
 - herpes zoster infections (shingles), including central nervous system infections
 - other serious infections
+- serious gastrointestinal problems, including bleeding, ulcers, blockage, and tears (perforation) of the stomach or intestines.
+  Tell your healthcare provider right away if you have any of these symptoms during treatment:
+  - Stomach-area pain that does not go away
+  - Bright red or black stools (that look like tar)
+  - Severe vomiting
+  - Severe diarrhea
+  - Coughing up blood or blood clots
+  - Vomiting blood or your vomit looks like “coffee grounds”
 
 The most common side effects of dimethyl fumarate delayed-release capsules include:
 
 - flushing, redness, itching, or rash
-- nausea, vomiting, diarrhea, stomach pain, or indigestion
+- nausea, vomiting, diarrhea, stomach pain, or indigestion These events can be serious in some patients (see “dimethyl fumarate delayed-release capsules may cause serious side effects including,” above).
 - Flushing and stomach problems are the most common reactions, especially at the start of therapy, and may decrease over time.
   Taking dimethyl fumarate delayed-release capsules with food may help reduce flushing.
   Call your doctor if you have any of these symptoms and they bother you or do not go away.
@@ -86,6 +94,7 @@ Active ingredient: dimethyl fumarate
 
 Inactive ingredients: Colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, methacrylic acid-ethyl acrylate copolymer, methacrylic acid methyl methacrylate copolymer, microcrystalline cellulose, polysorbate 80, sodium lauryl sulfate, talc and triethyl citrate.
 The capsule shell contains the following inactive ingredients: gelatin and titanium dioxide and is imprinted with black ink, Black imprinting ink contains shellac, propylene glycol, black iron oxide and potassium hydroxide.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 To reorder additional Patient Information Sheets, contact Dr. Reddy’s Customer Service at 1-866-733-3952.
@@ -100,4 +109,4 @@ Princetone, NJ 08540
 
 Made in India
 
-Revised: 05/2022
+Revised: 02/2024
