@@ -25,5 +25,5 @@ Bottles of 30 NDC 55111-654-30
 
 Bottles of 100 NDC 55111-654-01
 
-Sirolimus tablets should be stored at 20° to 25°C [USP Controlled Room Temperature] (68° to 77°F).
+Sirolimus tablets should be stored at 20°C to 25°C [USP Controlled Room Temperature] (68°F to 77°F).
 Dispense in a tight, light-resistant container as defined in the USP.

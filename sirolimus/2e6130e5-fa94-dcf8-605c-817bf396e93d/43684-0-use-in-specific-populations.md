@@ -67,14 +67,14 @@ Renal Transplant
 
 The safety and efficacy of sirolimus in pediatric patients <13 years have not been established.
 
-The safety and efficacy of sirolimus oral solution and sirolimus tablets have been established for prophylaxis of organ rejection in renal transplantation in children ≥13 years judged to be at low- to moderate-immunologic risk.
-Use of sirolimus oral solution and sirolimus tablets in this subpopulation of children ≥13 years is supported by evidence from adequate and well-controlled trials of sirolimus oral solution in adults with additional pharmacokinetic data in pediatric renal transplantation patients [see Clinical Pharmacology (12.3)].
+The safety and efficacy of Rapamune Oral Solution and sirolimus tablets have been established for prophylaxis of organ rejection in renal transplantation in children ≥13 years judged to be at low- to moderate-immunologic risk.
+Use of Rapamune Oral Solution and sirolimus tablets in this subpopulation of children ≥13 years is supported by evidence from adequate and well-controlled trials of Rapamune Oral Solution in adults with additional pharmacokinetic data in pediatric renal transplantation patients [see Clinical Pharmacology (12.3)].
 
-Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (<18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of sirolimus oral solution or tablets in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival, or patient survival [see Clinical Studies (14.6)].
+Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (<18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of Rapamune Oral Solution or sirolimus tablets in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival, or patient survival [see Clinical Studies (14.6)].
 
 Lymphangioleiomyomatosis
 
-The safety and efficacy of Sirolimus in pediatric patients <18 years have not been established.
+The safety and efficacy of sirolimus in pediatric patients <18 years have not been established.
 
 ## 8.5 Geriatric Use
 

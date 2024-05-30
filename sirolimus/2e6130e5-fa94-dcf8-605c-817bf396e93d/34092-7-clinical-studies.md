@@ -2,24 +2,24 @@
 
 ## 14.1 Prophylaxis of Organ Rejection in Renal Transplant Patients
 
-Sirolimus Oral Solution
+Rapamune Oral Solution
 
-The safety and efficacy of sirolimus oral solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials.
-These studies compared two dose levels of sirolimus oral solution (2 mg and 5 mg, once daily) with azathioprine (Study 1) or placebo (Study 2) when administered in combination with cyclosporine and corticosteroids.
+The safety and efficacy of Rapamune Oral Solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials.
+These studies compared two dose levels of Rapamune Oral Solution (2 mg and 5 mg, once daily) with azathioprine (Study 1) or placebo (Study 2) when administered in combination with cyclosporine and corticosteroids.
 Study 1 was conducted in the United States at 38 sites.
-Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive sirolimus oral solution 2 mg/day; 274 were randomized to receive sirolimus oral solution 5 mg/day, and 161 to receive azathioprine 2 to 3 mg/kg/day.
+Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive Rapamune Oral Solution 2 mg/day; 274 were randomized to receive Rapamune Oral Solution 5 mg/day, and 161 to receive azathioprine 2 to 3 mg/kg/day.
 Study 2 was conducted in Australia, Canada, Europe, and the United States, at a total of 34 sites.
-Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive sirolimus oral solution 2 mg/day; 219 were randomized to receive sirolimus oral solution 5 mg/day, and 130 to receive placebo.
+Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive Rapamune Oral Solution 2 mg/day; 219 were randomized to receive Rapamune Oral Solution 5 mg/day, and 130 to receive placebo.
 In both studies, the use of anti-lymphocyte antibody induction therapy was prohibited.
 In both studies, the primary efficacy endpoint was the rate of efficacy failure in the first 6 months after transplantation.
 Efficacy failure was defined as the first occurrence of an acute rejection episode (confirmed by biopsy), graft loss, or death.
 
 The tables below summarize the results of the primary efficacy analyses from these trials.
-Sirolimus oral solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
+Rapamune Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
 
 TABLE 8: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
 
-| Parameter | Sirolimus Oral Solution 2 mg/day (n = 284) | Sirolimus Oral Solution 5 mg/day (n = 274) | Azathioprine 2 to 3 mg/kg/day (n = 161) |
+| Parameter | Rapamune Oral Solution 2 mg/day (n = 284) | Rapamune Oral Solution 5 mg/day (n = 274) | Azathioprine 2 to 3 mg/kg/day (n = 161) |
 | --- | --- | --- | --- |
 | Efficacy failure at 6 monthsc | 18.7 | 16.8 | 32.3 |
 | Components of efficacy failure |  |  |  |
@@ -42,7 +42,7 @@ c: Primary endpoint.
 
 TABLE 9: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
 
-| Parameter | Sirolimus Oral Solution 2 mg/day (n = 227) | Sirolimus Oral Solution 5 mg/day (n = 219) | Placebo (n = 130) |
+| Parameter | Rapamune Oral Solution 2 mg/day (n = 227) | Rapamune Oral Solution 5 mg/day (n = 219) | Placebo (n = 130) |
 | --- | --- | --- | --- |
 | Efficacy failure at 6 monthsc | 30.0 | 25.6 | 47.7 |
 | Components of efficacy failure |  |  |  |
@@ -69,7 +69,7 @@ The graft and patient survival rates were similar in patients treated with sirol
 
 TABLE 10: GRAFT AND PATIENT SURVIVAL (%) FOR STUDY 1 (12 AND 24 MONTHS) AND STUDY 2 (12 AND 36 MONTHS)a,b
 
-| Parameter | Sirolimus Oral Solution 2 mg/day | Sirolimus Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day | Placebo |
+| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
 | Study 1 | (n = 284) | (n = 274) | (n = 161) |  |
 | Graft survival |  |  |  |  |
@@ -92,13 +92,13 @@ b: Includes patients who prematurely discontinued treatment.
 
 The reduction in the incidence of first biopsy-confirmed acute rejection episodes in patients treated with sirolimus compared with the control groups included a reduction in all grades of rejection.
 
-In Study 1, which was prospectively stratified by race within center, efficacy failure was similar for sirolimus oral solution 2 mg/day and lower for sirolimus oral solution 5 mg/day compared with azathioprine in Black patients.
-In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both sirolimus oral solution doses compared with placebo in Black patients.
-The decision to use the higher dose of sirolimus oral solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the sirolimus oral solution 5 mg dose [see Adverse Reactions (6.1)].
+In Study 1, which was prospectively stratified by race within center, efficacy failure was similar for Rapamune Oral Solution 2 mg/day and lower for Rapamune Oral Solution 5 mg/day compared with azathioprine in Black patients.
+In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both Rapamune Oral Solution doses compared with placebo in Black patients.
+The decision to use the higher dose of Rapamune Oral Solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the Rapamune Oral Solution 5 mg dose [see Adverse Reactions (6.1)].
 
 TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b
 
-| Parameter | Sirolimus Oral Solution 2 mg/day | Sirolimus Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day | Placebo |
+| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
 | Study 1 Black (n = 166) Non-Black (n = 553) | 34.9 (n = 63) 14.0 (n = 221) | 18.0 (n = 61) 16.4 (n = 213) | 33.3 (n = 42) 31.9 (n = 119) |  |
 | Study 2 Black (n = 66) Non-Black (n = 510) | 30.8 (n = 26) 29.9 (n = 201) | 33.7 (n = 27) 24.5 (n = 192) |  | 38.5 (n = 13) 48.7 (n = 117) |
@@ -108,11 +108,11 @@ a: Patients received cyclosporine and corticosteroids.
 b: Includes patients who prematurely discontinued treatment.
 
 Mean glomerular filtration rates (GFR) post-transplant were calculated by using the Nankivell equation at 12 and 24 months for Study 1, and 12 and 36 months for Study 2.
-Mean GFR was lower in patients treated with cyclosporine and sirolimus oral solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
+Mean GFR was lower in patients treated with cyclosporine and Rapamune Oral Solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
 
 TABLE 12: OVERALL CALCULATED GLOMERULAR FILTRATION RATES (Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST-TRANSPLANTa,b
 
-| Parameter | Sirolimus Oral Solution 2 mg/day | Sirolimus Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day |  | Placebo |
+| Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2 to 3 mg/kg/day |  | Placebo |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |
 | Month 12 | 57.4 ± 1.3 (n = 269) | 54.6 ± 1.3 (n = 248) | 64.1 ± 1.6 (n = 149) |  |  |
@@ -131,7 +131,7 @@ Renal function should be monitored, and appropriate adjustment of the immunosupp
 
 Sirolimus Tablets
 
-The safety and efficacy of sirolimus oral solution and sirolimus tablets for the prevention of organ rejection following renal transplantation were demonstrated to be clinically equivalent in a randomized, multicenter, controlled trial [see Clinical Pharmacology (12.3)].
+The safety and efficacy of Rapamune Oral Solution and sirolimus tablets for the prevention of organ rejection following renal transplantation were demonstrated to be clinically equivalent in a randomized, multicenter, controlled trial [see Clinical Pharmacology (12.3)].
 
 ## 14.2 Cyclosporine Withdrawal Study in Renal Transplant Patients
 

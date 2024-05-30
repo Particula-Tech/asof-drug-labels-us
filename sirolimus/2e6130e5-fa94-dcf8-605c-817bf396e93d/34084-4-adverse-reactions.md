@@ -25,10 +25,10 @@ The following adverse reactions resulted in a rate of discontinuation of >5% in 
 
 ## 6.1 Clinical Studies Experience in Prophylaxis of Organ Rejection Following Renal Transplantation
 
-The safety and efficacy of sirolimus oral solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials [see Clinical Studies (14.1)].
+The safety and efficacy of Rapamune Oral Solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials [see Clinical Studies (14.1)].
 The safety profiles in the two studies were similar.
 
-The incidence of adverse reactions in the randomized, double-blind, multicenter, placebo- controlled trial (Study 2) in which 219 renal transplant patients received sirolimus oral solution 2 mg/day, 208 received sirolimus oral solution 5 mg/day, and 124 received placebo is presented in Table 1 below.
+The incidence of adverse reactions in the randomized, double-blind, multicenter, placebo-controlled trial (Study 2) in which 219 renal transplant patients received Rapamune Oral Solution 2 mg/day, 208 received Rapamune Oral Solution 5 mg/day, and 124 received placebo is presented in Table 1 below.
 The study population had a mean age of 46 years (range 15 to 71 years), the distribution was 67% male, and the composition by race was: White (78%), Black (11%), Asian (3%), Hispanic (2%), and Other (5%).
 All patients were treated with cyclosporine and corticosteroids.
 Data (≥12 months post-transplant) presented in the following table show the adverse reactions that occurred in at least one of the sirolimus treatment groups with an incidence of ≥20%.
@@ -37,7 +37,7 @@ The safety profile of the tablet did not differ from that of the oral solution f
 
 In general, adverse reactions related to the administration of sirolimus were dependent on dose/concentration.
 Although a daily maintenance dose of 5 mg, with a loading dose of 15 mg, was shown to be safe and effective, no efficacy advantage over the 2 mg dose could be established for renal transplant patients.
-Patients receiving 2 mg of sirolimus oral solution per day demonstrated an overall better safety profile than did patients receiving 5 mg of sirolimus oral solution per day.
+Patients receiving 2 mg of Rapamune Oral Solution per day demonstrated an overall better safety profile than did patients receiving 5 mg of Rapamune Oral Solution per day.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
@@ -45,7 +45,7 @@ TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥20% IN AT LEAST ONE OF
 
 | Peripheral edema | 54 | 58 | 48 |
 | --- | --- | --- | --- |
-|  | –––Sirolimus Oral Solution––– |  |  |
+|  | –––Rapamune Oral Solution––– |  |  |
 |  | 2 mg/day | 5 mg/day | Placebo |
 | Adverse Reaction | (n = 218) | (n = 208) | (n = 124) |
 | Hypertriglyceridemia | 45 | 57 | 23 |
@@ -104,7 +104,7 @@ At 24 months (Study 1) and 36 months (Study 2) post-transplant, there were no si
 
 TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTa,b
 
-|  | Sirolimus Oral Solution 2 mg/day |  | Sirolimus Oral Solution 5 mg/day |  | Azathioprine 2 to 3 mg/kg/day | Placebo |  |
+|  | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2 to 3 mg/kg/day | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Malignancy | Study 1 (n = 284) | Study 2 (n =227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
 | Lymphoma/ lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |  |

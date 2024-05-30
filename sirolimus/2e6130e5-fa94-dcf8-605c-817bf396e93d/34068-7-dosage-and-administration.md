@@ -18,14 +18,14 @@ The maximum sirolimus tablets dose administered on any day should not exceed 40 
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
-Two milligrams (2 mg) of sirolimus oral solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, at this dose these two formulations are interchangeable.
-However, it is not known if higher doses of sirolimus oral solution are clinically equivalent to higher doses of sirolimus tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
+Two milligrams (2 mg) of Rapamune Oral Solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, at this dose these two formulations are interchangeable.
+However, it is not known if higher doses of Rapamune Oral Solution are clinically equivalent to higher doses of sirolimus tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Renal Transplant Patients at Low- to Moderate-Immunologic Risk
 
 Sirolimus Tablets and Cyclosporine Combination Therapy
 
-For de novo renal transplant patients, it is recommended that sirolimus oral solution and tablets be used initially in a regimen with cyclosporine and corticosteroids.
+For de novo renal transplant patients, it is recommended that Rapamune Oral Solution and sirolimus tablets be used initially in a regimen with cyclosporine and corticosteroids.
 A loading dose of sirolimus tablets equivalent to 3 times the maintenance dose should be given, i.e. a daily maintenance dose of 2 mg should be preceded with a loading dose of 6 mg.
 Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see Dosage and Administration(2.5)].
 
@@ -52,7 +52,7 @@ Antibody induction therapy may be used.
 ## 2.4 Dosing in Patients with Lymphangioleiomyomatosis
 
 For patients with lymphangioleiomyomatosis, the initial sirolimus dose should be 2 mg/day.
-Sirolimus whole blood trough concentrations should be measured in 10-20 days, with dosage adjustment to maintain concentrations between 5-15 ng/mL [see Dosage and Administration (2.5)].
+Sirolimus whole blood trough concentrations should be measured in 10 to 20 days, with dosage adjustment to maintain concentrations between 5 to 15 ng/mL [see Dosage and Administration (2.5)].
 
 In most patients, dose adjustments can be based on simple proportion: new sirolimus dose = current dose x (target concentration/current concentration).
 Frequent sirolimus dose adjustments based on non-steady-state sirolimus concentrations can lead to overdosing or under dosing because sirolimus has a long half-life.
@@ -61,7 +61,7 @@ Once a stable dose is achieved, therapeutic drug monitoring should be performed 
 
 ## 2.5 Therapeutic Drug Monitoring
 
-Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus tablets dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
+Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus tablets dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Warnings and Precautions (5.20, 5.21), Drug Interactions (7)].
 
 Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus tablets therapy.
 Careful attention should be made to clinical signs/symptoms, tissue biopsy findings, and laboratory parameters.

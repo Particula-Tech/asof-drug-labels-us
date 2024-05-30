@@ -56,15 +56,15 @@ A loading dose of 3 times the maintenance dose will provide near steady- state c
 
 Absorption
 
-Following administration of sirolimus oral solution, the mean times to peak concentration (tmax) of sirolimus are approximately 1 hour and 2 hours in healthy subjects and renal transplant patients, respectively.
-The systemic availability of sirolimus is low, and was estimated to be approximately 14% after the administration of sirolimus oral solution.
+Following administration of Rapamune Oral Solution, the mean times to peak concentration (tmax) of sirolimus are approximately 1 hour and 2 hours in healthy subjects and renal transplant patients, respectively.
+The systemic availability of sirolimus is low, and was estimated to be approximately 14% after the administration of Rapamune Oral Solution.
 In healthy subjects, the mean bioavailability of sirolimus after administration of the tablet is approximately 27% higher relative to the solution.
 Sirolimus tablets are not bioequivalent to the solution; however, clinical equivalence has been demonstrated at the 2 mg dose level.
-Sirolimus concentrations, following the administration of sirolimus oral solution to stable renal transplant patients, are dose- proportional between 3 and 12 mg/m2.
+Sirolimus concentrations, following the administration of Rapamune Oral Solution to stable renal transplant patients, are dose- proportional between 3 and 12 mg/m2.
 
 Food Effects
 
-To minimize variability in sirolimus concentrations, both sirolimus oral solution and tablets should be taken consistently with or without food [see Dosage and Administration (2)].
+To minimize variability in sirolimus concentrations, both Rapamune Oral Solution and sirolimus tablets should be taken consistently with or without food [see Dosage and Administration (2)].
 In healthy subjects, a high-fat meal (861.8 kcal, 54.9% kcal from fat) increased the mean total exposure (AUC) of sirolimus by 23 to 35%, compared with fasting.
 The effect of food on the mean sirolimus Cmax was inconsistent depending on the sirolimus dosage form evaluated.
 
@@ -126,7 +126,7 @@ Hepatic Impairment
 
 Sirolimus was administered as a single, oral dose to subjects with normal hepatic function and to patients with Child-Pugh classification A (mild), B (moderate), or C (severe) hepatic impairment.
 Compared with the values in the normal hepatic function group, the patients with mild, moderate, and severe hepatic impairment had 43%, 94%, and 189% higher mean values for sirolimus AUC, respectively, with no statistically significant differences in mean Cmax.
-As the severity of hepatic impairment increased, there were steady increases in mean sirolimus t 1/2, and decreases in the mean sirolimus clearance normalized for body weight (CL/F/kg).
+As the severity of hepatic impairment increased, there were steady increases in mean sirolimus t1/2, and decreases in the mean sirolimus clearance normalized for body weight (CL/F/kg).
 
 The maintenance dose of sirolimus should be reduced by approximately one third in patients with mild-to-moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment [see Dosage and Administration (2.5)].
 It is not necessary to modify the sirolimus loading dose in patients with mild, moderate, and severe hepatic impairment.
@@ -169,12 +169,12 @@ TABLE 7: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS
 | 5 to 11 | 9 | 1.1 ± 0.5 | 71 ± 40 | 580 ± 450 |
 | 12 to 18 | 11 | 0.79 ± 0.17 | 55 ± 18 | 450 ± 232 |
 
-* All subjects received sirolimus oral solution.
+* All subjects received Rapamune Oral Solution.
 
 Geriatric
 
 Clinical studies of sirolimus did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
-After the administration of sirolimus oral solution or tablets, sirolimus trough concentration data in renal transplant patients >65 years of age were similar to those in the adult population 18 to 65 years of age.
+After the administration of Rapamune Oral Solution or Tablets, sirolimus trough concentration data in renal transplant patients >65 years of age were similar to those in the adult population 18 to 65 years of age.
 
 Gender
 
@@ -183,7 +183,7 @@ Dose adjustments based on gender are not recommended.
 
 Race
 
-In the phase 3 trials for the prophylaxis of organ rejection following renal transplantation using sirolimus solution or tablets and cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules) [see Clinical Studies (14)], there were no significant differences in mean trough sirolimus concentrations over time between Black (n = 190) and non-Black (n = 852) patients during the first 6 months after transplantation.
+In the phase 3 trials for the prophylaxis of organ rejection following renal transplantation using Rapamune Oral Solution or tablets and cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules) [see Clinical Studies (14)], there were no significant differences in mean trough sirolimus concentrations over time between Black (n = 190) and non-Black (n = 852) patients during the first 6 months after transplantation.
 
 Drug-Drug Interactions
 
@@ -199,15 +199,15 @@ In a single-dose drug-drug interaction study, 24 healthy volunteers were adminis
 For simultaneous administration, mean Cmax and AUC were increased by 512% and 148%, respectively, relative to administration of sirolimus alone.
 However, when given 4 hours after cyclosporine administration, sirolimus Cmax and AUC were both increased by only 33% compared with administration of sirolimus alone.
 
-In a single dose drug-drug interaction study, 24 healthy volunteers were administered 10 mg sirolimus oral solution either simultaneously or 4 hours after a 300 mg dose of Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
+In a single dose drug-drug interaction study, 24 healthy volunteers were administered 10 mg Rapamune Oral Solution either simultaneously or 4 hours after a 300 mg dose of Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
 For simultaneous administration, the mean Cmax and AUC of sirolimus, following simultaneous administration were increased by 116% and 230%, respectively, relative to administration of sirolimus alone.
 However, when given 4 hours after Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) administration, sirolimus Cmax and AUC were increased by only 37% and 80%, respectively, compared with administration of sirolimus alone.
 
-In a single-dose cross-over drug-drug interaction study, 33 healthy volunteers received 5 mg sirolimus oral solution alone, 2 hours before, and 2 hours after a 300 mg dose of Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
+In a single-dose cross-over drug-drug interaction study, 33 healthy volunteers received 5 mg Rapamune Oral Solution alone, 2 hours before, and 2 hours after a 300 mg dose of Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
 When given 2 hours before Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) administration, sirolimus Cmax and AUC were comparable to those with administration of sirolimus alone.
 However, when given 2 hours after, the mean Cmax and AUC of sirolimus were increased by 126% and 141%, respectively, relative to administration of sirolimus alone.
 
-Mean cyclosporine Cmax and AUC were not significantly affected when sirolimus oral solution was given simultaneously or when administered 4 hours after Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
+Mean cyclosporine Cmax and AUC were not significantly affected when Rapamune Oral Solution was given simultaneously or when administered 4 hours after Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
 However, after multiple-dose administration of sirolimus given 4 hours after Neoral® in renal post-transplant patients over 6 months, cyclosporine oral- dose clearance was reduced, and lower doses of Neoral® Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) were needed to maintain target cyclosporine concentration.
 
 In a multiple-dose study in 150 psoriasis patients, sirolimus 0.5, 1.5, and 3 mg/m2/day was administered simultaneously with Sandimmune® Oral Solution (cyclosporine Oral Solution) 1.25 mg/kg/day.
@@ -226,11 +226,11 @@ The simultaneous oral administration of 2 mg daily of sirolimus oral solution an
 Sirolimus Cmax and AUC were increased 4.4- and 4.2-fold respectively and tmax was increased by 0.4 hr. Erythromycin Cmax and AUC were increased 1.6- and 1.7-fold, respectively, and tmax was increased by 0.3 hr.
 
 Ketoconazole: Ketoconazole is a strong inhibitor of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and ketoconazole is not recommended [see Warnings and Precautions (5.20), Drug Interactions (7.2)].
-Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure after administration of sirolimus oral solution, as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 38%, and 10.9-fold, respectively.
+Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure after administration of Rapamune Oral Solution, as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 38%, and 10.9-fold, respectively.
 However, the terminal t1/2 of sirolimus was not changed.
 Single-dose sirolimus did not affect steady-state 12-hour plasma ketoconazole concentrations.
 
-Rifampin: Rifampin is a strong inducer of CYP3A4 and P-gp; co-administration of sirolimus oral solution or tablets and rifampin is not recommended.
+Rifampin: Rifampin is a strong inducer of CYP3A4 and P-gp; co-administration of Rapamune Oral Solution or sirolimus tablets and rifampin is not recommended.
 In patients where rifampin is indicated, alternative therapeutic agents with less enzyme induction potential should be considered [see Warnings and Precautions (5.20), Drug Interactions (7.2)].
 Pretreatment of 14 healthy volunteers with multiple doses of rifampin, 600 mg daily for 14 days, followed by a single 20 mg dose of sirolimus oral solution, greatly decreased sirolimus AUC and Cmax by about 82% and 71%, respectively.
 

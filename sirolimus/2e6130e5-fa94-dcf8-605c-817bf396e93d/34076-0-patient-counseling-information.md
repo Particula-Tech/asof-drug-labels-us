@@ -22,14 +22,4 @@ Before making a decision to breastfeed, inform the patient that the effects of b
 
 ## 17.4 Infertility
 
-Inform male and female patients that sirolimus may impair fertility [see Warnings and Precautions (5.16), Adverse Reactions (6.7), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
-
-Rx Only
-
-Manufactured by:
-
-Dr. Reddy’s Laboratories Limited
-
-Visakhapatnam – 530 046 INDIA
-
-Revised: 09/2022
+Inform male and female patients that sirolimus may impair fertility [see Warnings and Precautions (5.16), Adverse Reactions (6.7), Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology(13.1)].
