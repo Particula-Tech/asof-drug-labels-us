@@ -20,11 +20,11 @@ More than 1100 patients with stage II or III colon cancer and more than 4,000 pa
 The most common adverse reactions in patients with stage II or III colon cancer receiving adjuvant treatment were peripheral sensory neuropathy, neutropenia, thrombocytopenia, anemia, nausea, increase in transaminases and alkaline phosphatase, diarrhea, emesis, fatigue and stomatitis.
 The most common adverse reactions in previously untreated and treated patients with advanced colorectal cancer were peripheral sensory neuropathies, fatigue, neutropenia, nausea, emesis, and diarrhea.
 
-Adjuvant Treatment
+### Adjuvant Treatment
 
 The safety of oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in patients with stage II or III colon cancer, who had undergone complete resection of the primary tumor in the adjuvant treatment trial [see Clinical Studies (14.1)].
 
-Fatal adverse reactions in patients who received oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2) and eosinophilic pneumonia (n=1).
+Fatal adverse reactions in patients who received oxaliplatin in the combination arm included sepsis/neutropenic sepsis (n=3), intracerebral hemorrhage (n=2), and eosinophilic pneumonia (n=1).
 
 Thromboembolic events occurred in 6% (grade 3 to 4, 1.2%) of patients in the oxaliplatin arm.
 
@@ -38,9 +38,9 @@ Tables 5, 6, and 7 summarize the adverse reactions reported in patients with col
 
 Table 5: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adjuvant Treatment (greater than or equal to 5% of all patients and with greater than or equal to 1% grade 3 to 4)
 
-| Adverse Reaction* | Oxaliplatin + FU/LV N=1108 |  | FU/LV N=1111 |  |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=1108 |  | FU/LV N=1111 |  |
 | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade3 to 4 (%) | All Grades (%) | Grade3 to 4 (%) |  |
+| All Grades (%) | Grade 3 to 4 (%) | All Grades (%) | Grade 3 to 4 (%) |  |
 | Neurology |  |  |  |  |
 | Peripheral Sensory Neuropathy | 92 | 12 | 16 | <1 |
 | Gastrointestinal |  |  |  |  |
@@ -54,24 +54,20 @@ Table 5: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adju
 | Abdominal Pain | 18 | 1 | 17 | 2 |
 | Dermatology/Skin |  |  |  |  |
 | Skin Disorder | 32 | 2 | 36 | 2 |
-| Injection Site Reaction† | 11 | 3 | 10 | 3 |
+| Injection Site ReactionIncludes thrombosis related to the catheter | 11 | 3 | 10 | 3 |
 | Fever/Infection |  |  |  |  |
 | Fever | 27 | 1 | 12 | 1 |
 | Infection | 25 | 4 | 25 | 3 |
 | Allergy/Immunology |  |  |  |  |
 | Allergic Reaction | 10 | 3 | 2 | <1 |
 
-* Event coded in WHO-ART dictionary
-
-† Includes thrombosis related to the catheter
-
 Table 6: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adjuvant Treatment (greater than or equal to 5% of all patients but with less than 1% grade 3 to 4)
 
-| Adverse Reaction* | Oxaliplatin + FU/LV N=1108 | FU/LV N=1111 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=1108 | FU/LV N=1111 |
 | --- | --- | --- |
 | All Grades (%) | All Grades (%) |  |
 | Dermatology/Skin |  |  |
-| Alopecia† | 30 | 28 |
+| AlopeciaNo complete alopecia was reported | 30 | 28 |
 | Gastrointestinal |  |  |
 | Constipation | 22 | 19 |
 | Taste Perversion | 12 | 8 |
@@ -88,10 +84,6 @@ Table 6: Adverse Reactions Reported in Patients with Colon Cancer Receiving Adju
 | Sensory Disturbance | 8 | 1 |
 | Allergy/Immunology |  |  |
 | Rhinitis | 6 | 8 |
-
-* Event coded in WHO-ART dictionary
-
-† No complete alopecia was reported.
 
 In females, the following grade 3 to 4 adverse reactions were more frequent: diarrhea, fatigue, neutropenia, nausea, and vomiting.
 
@@ -113,7 +105,7 @@ Table 7: Laboratory-Related Adverse Reactions Occurring in ≥5% of Patients wit
 | Increased Alkaline Phosphatase | 42 | <1 | 20 | <1 |
 | Hyperbilirubinemia | 20 | 4 | 20 | 5 |
 
-Previously Untreated Advanced Colorectal Cancer
+### Previously Untreated Advanced Colorectal Cancer
 
 The safety of oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in a randomized trial of patients with previously untreated advanced colorectal cancer [see Clinical Studies (14.2)].
 The adverse reaction profile in this trial was similar to that seen in other trials.
@@ -122,15 +114,15 @@ Tables 8, 9, and 10 summarize the adverse reactions reported in the previously u
 
 Table 8: Adverse Reactions Reported in Patients in the Previously Untreated Advanced Colorectal Cancer Clinical Trial (greater than or equal to 5% of all patients and with greater than or equal to 1% grade 3 to 4)
 
-| Adverse Reaction* | Oxaliplatin + FU/LV N=259 |  | Irinotecan + FU/LV N=256 |  | Oxaliplatin + Irinotecan N=258 |  |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LVN=259 |  | Irinotecan + FU/LVN=256 |  | Oxaliplatin +IrinotecanN=258 |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) |  |
+| All Grades (%) | Grades 3 to 4 (%) | AllGrades(%) | Grades3 to 4(%) | AllGrades(%) | Grades3 to 4(%) |  |
 | Neurology |  |  |  |  |  |  |
 | Neuropathy | 82 | 19 | 18 | 2 | 69 | 7 |
 | Paresthesias | 77 | 18 | 16 | 2 | 62 | 6 |
 | Pharyngo-laryngeal Dysesthesias | 38 | 2 | 1 | 0 | 28 | 1 |
 | Neuro-sensory | 12 | 1 | 2 | 0 | 9 | 1 |
-| Neuro NOS† | 1 | 0 | 1 | 0 | 1 | 0 |
+| Neuro NOSNot otherwise specified | 1 | 0 | 1 | 0 | 1 | 0 |
 | Gastrointestinal |  |  |  |  |  |  |
 | Nausea | 71 | 6 | 67 | 15 | 83 | 19 |
 | Diarrhea | 56 | 12 | 65 | 29 | 76 | 25 |
@@ -139,7 +131,7 @@ Table 8: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 | Anorexia | 35 | 2 | 25 | 4 | 27 | 5 |
 | Constipation | 32 | 4 | 27 | 2 | 21 | 2 |
 | Diarrhea-colostomy | 13 | 2 | 16 | 7 | 16 | 3 |
-| Gastrointestinal NOS† | 5 | 2 | 4 | 2 | 3 | 2 |
+| Gastrointestinal NOS | 5 | 2 | 4 | 2 | 3 | 2 |
 | Constitutional Symptoms/Pain/Ocular/Visual |  |  |  |  |  |  |
 | Fatigue | 70 | 7 | 58 | 11 | 66 | 16 |
 | Abdominal Pain | 29 | 8 | 31 | 7 | 39 | 10 |
@@ -159,8 +151,8 @@ Table 8: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 | Hyponatremia | 8 | 2 | 7 | 4 | 4 | 1 |
 | Urinary Frequency | 5 | 1 | 2 | 1 | 3 | 1 |
 | Hematology/Infection |  |  |  |  |  |  |
-| Infection Normal ANC‡ | 10 | 4 | 5 | 1 | 7 | 2 |
-| Infection Low ANC‡ | 8 | 8 | 12 | 11 | 9 | 8 |
+| Infection Normal ANCAbsolute neutrophil count | 10 | 4 | 5 | 1 | 7 | 2 |
+| Infection Low ANC | 8 | 8 | 12 | 11 | 9 | 8 |
 | Lymphopenia | 6 | 2 | 4 | 1 | 5 | 2 |
 | Febrile Neutropenia | 4 | 4 | 15 | 14 | 12 | 11 |
 | Dermatology/Skin |  |  |  |  |  |  |
@@ -170,24 +162,18 @@ Table 8: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 | Thrombosis | 6 | 5 | 6 | 6 | 3 | 3 |
 | Hypotension | 5 | 3 | 6 | 3 | 4 | 3 |
 
-* Event coded in WHO-ART dictionary
-
-† Not otherwise specified
-
-‡ Absolute neutrophil count
-
 Table 9: Adverse Reactions Reported in Patients in the Previously Untreated Advanced Colorectal Cancer Clinical Trial (greater than or equal to 5% of all patients but with less than 1% grade 3 to 4)
 
-| Adverse Reaction* | Oxaliplatin + 5-FU/LV N=259 | Irinotecan + 5-FU/LVN=256 | Oxaliplatin + Irinotecan N=258 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + 5-FU/LV N=259 | Irinotecan + 5-FU/LV N=256 | Oxaliplatin + Irinotecan N=258 |
 | --- | --- | --- | --- |
-| All Grades(%) | All Grades (%) | All Grades(%) |  |
+| All Grades (%) | All Grades(%) | All Grades(%) |  |
 | Dermatology/Skin |  |  |  |
-| Alopecia† | 38 | 44 | 67 |
+| AlopeciaNo complete alopecia was reported. | 38 | 44 | 67 |
 | Flushing | 7 | 2 | 5 |
 | Pruritus | 6 | 4 | 2 |
 | Dry Skin | 6 | 2 | 5 |
 | Hematology/Infection |  |  |  |
-| Fever Normal ANC ‡ | 16 | 9 | 9 |
+| Fever Normal ANC Absolute neutrophil count | 16 | 9 | 9 |
 | Cardiovascular |  |  |  |
 | Edema | 15 | 13 | 10 |
 | Gastrointestinal |  |  |  |
@@ -216,35 +202,25 @@ Table 9: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 | Hypocalcemia | 7 | 5 | 4 |
 | Elevated Creatinine | 4 | 4 | 5 |
 
-* Event coded in WHO-ART dictionary
-
-† No complete alopecia was reported.
-
-‡ Absolute neutrophil count
-
 Clinically relevant adverse reactions that occurred in greater than or equal to 2% and less than 5% of the patients in the oxaliplatin and fluorouracil/leucovorin combination arm (listed in decreasing order of frequency) were: metabolic, pneumonitis, catheter infection, vertigo, prothrombin time, pulmonary, rectal bleeding, dysuria, nail changes, chest pain, rectal pain, syncope, hypertension, hypoxia, unknown infection, bone pain, pigmentation changes, and urticaria.
 
 Table 10: Laboratory-Related Adverse Reactions Occurring in ≥5% of Patients in the Previously Untreated Advanced Colorectal Cancer Trial
 
 | Laboratory-Related Adverse Reaction | Oxaliplatin and FU/LV N=259 |  | Irinotecan and FU/LV N=256 |  | Oxaliplatin and Irinotecan N=258 |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) |  |
+| All Grades (%) | Grades 3 to 4 (%) | All Grades(%) | Grades3 to 4(%) | All Grades(%) | Grades3 to 4(%) |  |
 | Hematology |  |  |  |  |  |  |
 | Leukopenia | 85 | 20 | 84 | 23 | 76 | 24 |
 | Neutropenia | 81 | 53 | 77 | 44 | 71 | 36 |
 | Thrombocytopenia | 71 | 5 | 26 | 2 | 44 | 4 |
 | Anemia | 27 | 3 | 28 | 4 | 25 | 3 |
 | Hepatic |  |  |  |  |  |  |
-| Increased AST* | 17 | 1 | 2 | 1 | 11 | 1 |
+| Increased ASTAspartate transaminase | 17 | 1 | 2 | 1 | 11 | 1 |
 | Increased Alkaline Phosphatase | 16 | 0 | 8 | 0 | 14 | 2 |
 | Hyperbilirubinemia | 6 | 1 | 3 | 1 | 3 | 2 |
-| Increased ALT† | 6 | 1 | 2 | 0 | 5 | 2 |
+| Increased ALTAlanine transaminase | 6 | 1 | 2 | 0 | 5 | 2 |
 
-* Aspartate transaminase
-
-† Alanine transaminase
-
-Previously Treated Advanced Colorectal Cancer
+### Previously Treated Advanced Colorectal Cancer
 
 The safety of oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in a randomized trial in patients with refractory and relapsed colorectal cancer [see Clinical Studies (14.3)].
 The adverse reaction profile in this trial was similar to that seen in other trials.
@@ -260,9 +236,9 @@ Tables 11, 12, and 13 summarize the adverse reactions reported in the previously
 
 Table 11: Adverse Reactions Reported in Patients in the Previously Treated Advanced Colorectal Cancer Trial (greater than or equal to 5% of all patients and with greater than or equal to 1% grade 3 to 4)
 
-| Adverse Reaction* | Oxaliplatin + FU/LV N=150 |  | Oxaliplatin N=153 |  | FU/LV N=142 |  |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=150 |  | Oxaliplatin N=153 |  | FU/LV N=142 |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) |  |
+| All Grades (%) | Grades 3 to 4 (%) | All Grades(%) | Grades3 to 4(%) | All Grades(%) | Grades3 to 4(%) |  |
 | Neurology |  |  |  |  |  |  |
 | Neuropathy | 74 | 7 | 76 | 7 | 17 | 0 |
 | Acute | 56 | 2 | 65 | 5 | 10 | 0 |
@@ -294,11 +270,9 @@ Table 11: Adverse Reactions Reported in Patients in the Previously Treated Advan
 | Hypokalemia | 9 | 4 | 3 | 2 | 3 | 1 |
 | Dehydration | 8 | 3 | 5 | 3 | 6 | 4 |
 
-*Event coded in WHO-ART dictionary
-
 Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advanced Colorectal Cancer Clinical Trial (greater than or equal to 5% of all patients but with less than 1% grade 3 to 4)
 
-| Adverse Reaction* | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | 5-FU/LV N=142 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | 5-FU/LV N=142 |
 | --- | --- | --- | --- |
 | All Grades (%) | All Grades (%) | All Grades (%) |  |
 | Gastrointestinal |  |  |  |
@@ -323,7 +297,7 @@ Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advan
 | Dermatology/Skin |  |  |  |
 | Hand-Foot Syndrome | 11 | 1 | 13 |
 | Flushing | 10 | 3 | 2 |
-| Alopecia† | 7 | 3 | 3 |
+| AlopeciaNo complete alopecia was reported | 7 | 3 | 3 |
 | Pulmonary |  |  |  |
 | Upper Respiratory Tract Infection | 10 | 7 | 4 |
 | Pharyngitis | 9 | 2 | 10 |
@@ -333,32 +307,24 @@ Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advan
 | Hematuria | 6 | 0 | 4 |
 | Dysuria | 6 | 1 | 1 |
 
-*Event coded in WHO-ART dictionary
-
-† No complete alopecia was reported.
-
 Clinically relevant adverse reactions in greater than or equal to 2% and less than 5% of the patients in the oxaliplatin and fluorouracil/leucovorin combination arm (listed in decreasing order of frequency) were: anxiety, myalgia, erythematous rash, increased sweating, conjunctivitis, weight decrease, dry mouth, rectal hemorrhage, depression, ataxia, ascites, hemorrhoids, muscle weakness, nervousness, tachycardia, abnormal micturition frequency, dry skin, pruritus, hemoptysis, purpura, vaginal hemorrhage, melena, somnolence, pneumonia, proctitis, involuntary muscle contractions, intestinal obstruction, gingivitis, tenesmus, hot flashes, enlarged abdomen, and urinary incontinence.
 
 Table 13: Laboratory-Related Adverse Reactions Occurring in ≥5% of Patients with Previously Treated Advanced Colorectal Cancer
 
-| Laboratory-Related Adverse Reaction | Oxaliplatin and FU/LV N=150 |  | Oxaliplatin N=153 |  | FU/LV N=142 |  |
+| Laboratory-RelatedAdverse Reaction | Oxaliplatin and FU/LV N=150 |  | Oxaliplatin N=153 |  | FU/LV N=142 |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) | All Grades (%) | Grades 3 to 4 (%) |  |
+| All Grades (%) | Grades 3 to 4 (%) | All Grades(%) | Grades3 to 4(%) | All Grades(%) | Grades3 to 4(%) |  |
 | Hematology |  |  |  |  |  |  |
 | Anemia | 81 | 2 | 64 | 1 | 68 | 2 |
 | Leukopenia | 76 | 19 | 13 | 0 | 34 | 1 |
 | Neutropenia | 73 | 44 | 7 | 0 | 25 | 5 |
 | Thrombocytopenia | 64 | 4 | 30 | 3 | 20 | 0 |
 | Hepatic |  |  |  |  |  |  |
-| Increased ALT* | 31 | 0 | 36 | 1 | 28 | 3 |
-| Increased AST† | 47 | 0 | 54 | 4 | 39 | 2 |
+| Increased ALTAlanine transaminase | 31 | 0 | 36 | 1 | 28 | 3 |
+| Increased ASTAspartate transaminase | 47 | 0 | 54 | 4 | 39 | 2 |
 | Increased Bilirubin | 13 | 1 | 13 | 5 | 22 | 6 |
 
-* Alanine transaminase
-
-† Aspartate transaminase
-
-Additional Adverse Reactions
+### Additional Adverse Reactions
 
 The following adverse reactions were observed across clinical trials.
 
@@ -386,7 +352,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Hearing and vestibular system: deafness
 - •Infections: septic shock, including fatal outcomes
 - •Infusion-related reactions and hypersensitivity reactions: laryngospasm
-- •Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, esophagitis
+- •Hepatic and gastrointestinal: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis, ileus, intestinal obstruction, pancreatitis, sinusoidal obstruction syndrome, perisinusoidal fibrosis which rarely may progress, focal nodular hyperplasia, esophagitis
 - •Musculoskeletal and connective tissue: rhabdomyolysis, including fatal outcomes
 - •Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia, prolonged prothrombin time and INR in patients receiving anticoagulants
 - •Blood disorders: secondary leukemia

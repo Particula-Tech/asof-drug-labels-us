@@ -4,8 +4,9 @@
 
 Administer oxaliplatin injection in combination with fluorouracil and leucovorin every 2 weeks.
 
-- •For adjuvant treatment, continue treatment for up to 12 cycles or unacceptable toxicity.
-- •For advanced colorectal cancer, continue treatment until disease progression or unacceptable toxicity.
+• For adjuvant treatment, continue treatment for up to 12 cycles or unacceptable toxicity.
+
+• For advanced colorectal cancer, continue treatment until disease progression or unacceptable toxicity.
 
 Day 1
 
@@ -17,7 +18,7 @@ Administer leucovorin 200 mg/m2 as an intravenous infusion over 120 minutes, fol
 
 Refer to the prescribing information for fluorouracil and leucovorin for additional information.
 
-## 2.2 Dosage Modification for Adverse Reactions
+## 2.2 Dose Modifications for Adverse Reactions
 
 Prolongation of infusion time for oxaliplatin injection from 2 hours to 6 hours may mitigate acute toxicities, such as non-life threatening infusion-related reactions.
 
@@ -30,7 +31,7 @@ Permanently discontinue oxaliplatin injection for any of the following:
 
 Refer to the fluorouracil and leucovorin prescribing information for dosage modifications for adverse reactions.
 
-Dosage Modifications for Adjuvant Treatment
+### Dosage Modifications for Adjuvant Treatment
 
 Dosage modifications for adverse reactions for adjuvant treatment are presented in Table 1.
 
@@ -41,11 +42,11 @@ Table 1: Dosage Modifications for Adjuvant Treatment in Patients with Stage III 
 | Peripheral Sensory Neuropathy [see Warnings and Precautions (5.2)] | Persistent Grade 2 | Consider reducing oxaliplatin injection dose to 75 mg/m2. |
 | Persistent Grade 3 | Consider discontinuing oxaliplatin injection. |  |
 | Grade 4 | Discontinue oxaliplatin injection. |  |
-| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)]. | Grade 4 neutropenia or febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L. Reduce oxaliplatin injection dose to 75 mg/m2. |
+| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropeniaor febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L.Reduce oxaliplatin injection dose to 75 mg/m2. |
 | Grade 3 to 4 thrombocytopenia |  |  |
 | Gastrointestinal Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 to 4 | After recovery, reduce oxaliplatin injection dose to 75 mg/m2 along with a dose reduction of fluorouracil to 300 mg/m2 as an intravenous bolus and 500 mg/m2 as a 22-hour continuous infusion. |
 
-Dosage Modifications for Advanced Colorectal Cancer
+### Dosage Modifications for Advanced Colorectal Cancer
 
 Dosage modifications for adverse reactions for advanced colorectal cancer are presented in Table 2.
 
@@ -56,13 +57,13 @@ Table 2: Dosage Modifications for Advanced Colorectal Cancer
 | Neuropathy [see Warnings and Precautions (5.2)] | Persistent Grade 2 | Consider reducing oxaliplatin injection dose to 65 mg/m2. |
 | Persistent Grade 3 | Consider discontinuing oxaliplatin injection. |  |
 | Grade 4 | Discontinue oxaliplatin injection. |  |
-| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropenia or febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L. Reduce oxaliplatin injection dose to 65 mg/m2. |
+| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropenia or febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L.Reduce oxaliplatin injection dose to 65 mg/m2. |
 | Grade 3 to 4 thrombocytopenia |  |  |
 | Gastrointestinal Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 to 4 | After recovery, reduce oxaliplatin injection dose to 65 mg/ m2 along with a dose reduction of fluorouracil to 300 mg/m2 as an intravenous bolus and 500 mg/m2 as a 22-hour continuous infusion. |
 
-## 2.3 Dosage Modifications for Renal Impairment
+## 2.3 Dose Modifications for Patients with Renal Impairment
 
-In patients with severe renal impairment (creatinine clearance [CLcr] less than 30 mL/min, calculated by the Cockcroft-Gault equation), reduce the oxaliplatin injection dose to 65 mg/m2 [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+In patients with severe renal impairment (creatinine clearance [CLcr] less than 30 mL/min, calculated by the Cockcroft-Gault equation), reduce the oxaliplatin injection dose to 65 mg/m2[see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation and Administration
 

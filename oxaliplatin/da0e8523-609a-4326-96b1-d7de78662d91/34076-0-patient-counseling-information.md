@@ -64,14 +64,10 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and nonprescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured for:
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
-Mylan Institutional LLC
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Morgantown, WV 26505 U.S.A.
+1033190
 
-Manufactured by:
-
-Mylan Laboratories Limited
-
-Bangalore, India
+DECEMBER 2023

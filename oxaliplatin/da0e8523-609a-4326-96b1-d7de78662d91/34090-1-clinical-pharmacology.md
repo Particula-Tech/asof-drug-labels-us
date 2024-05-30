@@ -23,7 +23,7 @@ After a single 2-hour intravenous infusion of oxaliplatin at a dose of 85 mg/m2,
 
 Interpatient and intrapatient variability in ultrafiltrable platinum exposure (AUC0-48hr) assessed over 3 cycles was 23% and 6%, respectively.
 
-Distribution
+### Distribution
 
 At the end of a 2-hour infusion of oxaliplatin, approximately 15% of the administered platinum is present in the systemic circulation.
 The remaining 85% is rapidly distributed into tissues or eliminated in the urine.
@@ -35,9 +35,9 @@ The main binding proteins are albumin and gamma-globulins.
 Platinum also binds irreversibly and accumulates (approximately 2-fold) in erythrocytes, where it appears to have no relevant activity.
 No platinum accumulation was observed in plasma ultrafiltrate following 85 mg/m2 every two weeks.
 
-Elimination
+### Elimination
 
-The decline of ultrafiltrable platinum concentrations from plasma is characterized by a long terminal elimination phase (t1/2α; 392 hours).
+The decline of ultrafiltrable platinum concentrations from plasma is characterized by a long terminal elimination phase (t1/2α; 391 hours).
 
 Metabolism
 
@@ -53,7 +53,7 @@ At five days after a single 2-hour infusion of oxaliplatin, urinary elimination 
 Platinum was cleared from plasma at a rate (10 to 17 L/h) that was similar to or exceeded the average human glomerular filtration rate (GFR; 7.5 L/h).
 The renal clearance of ultrafiltrable platinum is significantly correlated with GFR.
 
-Special Populations
+### Special Populations
 
 Sex
 
@@ -65,7 +65,7 @@ Patients with normal function (CLcr greater than 80 mL/min) and patients with mi
 Mean dose adjusted AUC of unbound platinum was 40%, 95%, and 342% higher for patients with mild, moderate, and severe renal impairment, respectively, compared to patients with normal renal function.
 Mean dose adjusted Cmax of unbound platinum appeared to be similar among the normal, mild and moderate renal function groups, but was 38% higher in the severe group than in the normal group [see Dosage and Administration (2.3)].
 
-Drug Interaction Studies
+### Drug Interaction Studies
 
 No pharmacokinetic interaction between oxaliplatin 85 mg/m2 and infusional fluorouracil has been observed in patients treated every 2 weeks, but increases of fluorouracil plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 of oxaliplatin administered every 3 weeks.
 

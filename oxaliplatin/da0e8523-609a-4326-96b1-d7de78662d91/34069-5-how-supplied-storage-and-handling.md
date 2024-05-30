@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Oxaliplatin injection, USP is supplied in clear, glass, single-dose vials with gray elastomeric stoppers and aluminum flip-off seals containing 50 mg or 100 mg of oxaliplatin as a clear, colorless, sterile, preservative-free, aqueous solution at a concentration of 5 mg/mL.
+Oxaliplatin injection, USP is supplied in clear, glass, single-dose vials with gray elastomeric stoppers and aluminum flip-off seals containing 50 mg or 100 mg as a clear, colorless, sterile, preservative-free, aqueous solution at a concentration of 5 mg/mL.
 
 NDC 67457-469-10: 50 mg/10 mL single-dose vial with grey flip-off seal individually packaged in a carton.
 

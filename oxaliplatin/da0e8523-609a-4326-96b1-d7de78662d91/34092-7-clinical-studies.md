@@ -14,8 +14,8 @@ Table 14: Dosing Regimens in Adjuvant Treatment Study
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Oxaliplatin + FU/LV (FOLFOX4) (N=1123) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion)Day 2: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks 12 cycles |
-| FU/LV (N=1123) | Day 1: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion)Day 2: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks 12 cycles |
+| Oxaliplatin + FU/LV (FOLFOX4) (N=1123) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks12 cycles |
+| FU/LV (N=1123) | Day 1: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks12 cycles |
 
 There were 2246 patients enrolled, of whom 1347 (60%) had Stage III disease.
 Tables 15 and 16 show the baseline characteristics and exposure to oxaliplatin.
@@ -77,26 +77,26 @@ Table 17 and Figures 1 and 2 summarize the 5-year DFS rates in the overall rando
 
 Table 17: Summary of DFS Analysis in Adjuvant Treatment Study – ITT Population
 
-| Parameter | Oxaliplatin + Infusional FU/LV | Infusional FU/LV |  |
-| --- | --- | --- | --- |
-| Overall |  |  |  |
-| Number of patients | 1123 | 1123 |  |
-| Number of events – relapse or death (%) | 304 (27.1) | 360 (32.1) |  |
-| 5-yr Disease-free survival % (95% CI) | 73.3 (70.7, 76.0) | 67.4 (64.6, 70.2) |  |
-| Hazard ratio (95% CI) | 0.80 (0.68, 0.93) |  |  |
-| Stratified Log rank test | p=0.003 |  |  |
-| Stage III (Dukes’ C) |  |  |  |
-| Number of patients | 672 |  | 675 |
-| Number of events – relapse or death (%) | 226 (33.6) |  | 271 (40.1) |
-| 5-yr Disease-free survival % (95% CI) | 66.4 (62.7, 70.0) |  | 58.9 (55.2, 62.7) |
-| Hazard ratio (95% CI) | 0.78 (0.65, 0.93) |  |  |
-| Log rank test | p=0.005 |  |  |
-| Stage II (Dukes’ B2) |  |  |  |
-| Number of patients | 451 |  | 448 |
-| Number of events – relapse or death (%) | 78 (17.3) |  | 89 (19.9) |
-| 5-yr Disease-free survival % (95% CI) | 83.7 (80.2, 87.1) |  | 79.9 (76.2, 83.7) |
-| Hazard ratio (95% CI) | 0.84 (0.62, 1.14) |  |  |
-| Log rank test | p=0.258 |  |  |
+| Parameter | Oxaliplatin + Infusional FU/LV | Infusional FU/LV |
+| --- | --- | --- |
+| Overall |  |  |
+| Number of patients | 1123 | 1123 |
+| Number of events – relapse or death (%) | 304 (27.1) | 360 (32.1) |
+| 5-yr Disease-free survival % (95% CI) | 73.3 (70.7, 76.0) | 67.4 (64.6, 70.2) |
+| Hazard ratio (95% CI) | 0.80 (0.68, 0.93) |  |
+| Stratified Log rank test | p=0.003 |  |
+| Stage III (Dukes’ C) |  |  |
+| Number of patients | 672 | 675 |
+| Number of events – relapse or death (%) | 226 (33.6) | 271 (40.1) |
+| 5-yr Disease-free survival % (95% CI) | 66.4 (62.7, 70.0) | 58.9 (55.2, 62.7) |
+| Hazard ratio (95% CI) | 0.78 (0.65, 0.93) |  |
+| Log rank test | p=0.005 |  |
+| Stage II (Dukes’ B2) |  |  |
+| Number of patients | 451 | 448 |
+| Number of events – relapse or death (%) | 78 (17.3) | 89 (19.9) |
+| 5-yr Disease-free survival % (95% CI) | 83.7 (80.2, 87.1) | 79.9 (76.2, 83.7) |
+| Hazard ratio (95% CI) | 0.84 (0.62, 1.14) |  |
+| Log rank test | p=0.258 |  |
 
 A hazard ratio of less than 1 favors Oxaliplatin + Infusional FU/LV
 
@@ -140,7 +140,8 @@ Patients had to have absolute neutrophil count (ANC) greater than or equal to 1.
 Patients may have received adjuvant treatment for resected Stage II or III disease without recurrence within 12 months.
 Randomization was stratified by ECOG performance status (0, 1 vs 2), prior adjuvant chemotherapy (yes vs no), prior immunotherapy (yes vs no), and age (less than 65 vs greater than or equal to 65 years).
 Although no post study treatment was specified in the protocol, 65% to 72% of patients received additional post study chemotherapy after study treatment discontinuation on all arms.
-Fifty-eight percent of patients on the oxaliplatin with fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan with fluorouracil/leucovorin arm received an oxaliplatin-containing regimen.
+Fifty-eight percent of patients on the oxaliplatin with fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan with fluorouracil/leucovorin arm received an oxaliplatin- containing regimen.
+
 The main efficacy outcome measure was 3-year disease-free survival (DFS) and additional efficacy outcome measures were overall survival (OS).
 
 Table 19: Dosing Regimens for Previously Untreated Advanced Colorectal Cancer Clinical Trial
@@ -183,31 +184,25 @@ Efficacy results are summarized in Table 21 and Figure 3.
 
 Table 21: Efficacy Results for Previously Untreated Advanced Colorectal Cancer Trial
 
-|  | Oxaliplatin + FU/LV N=267 | Irinotecan + FU/LV N=264 | Oxaliplatin + Irinotecan N=264 |
-| --- | --- | --- | --- |
-| Survival (ITT) |  |  |  |
-| Number of deaths (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |
-| Median survival (months) | 19.4 | 14.6 | 17.6 |
-| Hazard ratio (95% CI) | 0.65 (0.53, 0.80)* |  | - |
-| P-value | <0.0001* |  | - |
-| TTP (ITT, investigator assessment) |  |  |  |
-| Percentage of progressors | 82.8 | 81.8 | 89.4 |
-| Median TTP (months) | 8.7 | 6.9 | 6.5 |
-| Hazard ratio (95% CI) | 0.74 (0.61, 0.89)* |  | - |
-| P-value | 0.0014* |  | - |
-| Response Rate (investigator assessment)‡ |  |  |  |
-| Patients with measurable disease | 210 | 212 | 215 |
-| Complete response, N (%) | 13 (6.2) | 5 (2.4) | 7 (3.3) |
-| Partial response, N (%) | 82 (39.0) | 64 (30.2) | 67 (31.2) |
-| Complete and partial response, N (%) | 95 (45.2) | 69 (32.5) | 74 (34.4) |
-| 95% CI | (38.5, 52.0) | (26.2, 38.9) | (28.1, 40.8) |
-| P-value | 0.0080* |  | - |
-
-* Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm.
-
-† A hazard ratio of less than 1 favors oxaliplatin + Infusional FU/LV.
-
-‡Based on all patients with measurable disease at baseline.
+|  | Oxaliplatin + FU/LV N=267 | Irinotecan + FU/LV N=264 |  | Oxaliplatin + Irinotecan N=264 |
+| --- | --- | --- | --- | --- |
+| Survival (ITT) |  |  |  |  |
+| Number of deaths (%) | 155 (58.1) | 192 (72.7) |  | 175 (66.3) |
+| Median survival (months) | 19.4 | 14.6 |  | 17.6 |
+| Hazard ratioA hazard ratio of less than 1 favors oxaliplatin + Infusional FU/LV. (95% CI) | 0.65 (0.53, 0.80)Compared to irinotecan plus fluorouracil/leucovorin (IFL) arm. |  | - |  |
+| P-value | <0.0001 |  | - |  |
+| TTP (ITT, investigator assessment) |  |  |  |  |
+| Percentage of progressors | 82.8 | 81.8 |  | 89.4 |
+| Median TTP (months) | 8.7 | 6.9 |  | 6.5 |
+| Hazard ratio (95% CI) | 0.74 (0.61, 0.89) |  | - |  |
+| P-value | 0.0014 |  | - |  |
+| Response Rate (investigator assessment)Based on all patients with measurable disease at baseline. |  |  |  |  |
+| Patients with measurable disease | 210 | 212 |  | 215 |
+| Complete response, N (%) | 13 (6.2) | 5 (2.4) |  | 7 (3.3) |
+| Partial response, N (%) | 82 (39.0) | 64 (30.2) |  | 67 (31.2) |
+| Complete and partial response, N (%) | 95 (45.2) | 69 (32.5) |  | 74 (34.4) |
+| 95% CI | (38.5, 52.0) | (26.2, 38.9) |  | (28.1, 40.8) |
+| P-value | 0.0080 |  | - |  |
 
 The numbers in the response rate and TTP analysis are based on unblinded investigator assessment.
 
@@ -226,8 +221,8 @@ Table 22: Dosing Regimens in Refractory and Relapsed Colorectal Cancer Trial
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Oxaliplatin + FU/LV (N=152) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion)Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
-| FU/LV (N=151) | Day 1: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion)Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| Oxaliplatin + FU/LV N=152) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| FU/LV (N=151) | Day 1: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
 | Oxaliplatin (N=156) | Day 1: Oxaliplatin 85 mg/m2 (2-hour infusion) | every 2 weeks |
 
 Patients must have had at least one unidimensional lesion measuring greater than or equal to 20 mm using conventional CT or MRI scans or greater than or equal to 10 mm using a spiral CT scan.
@@ -267,14 +262,16 @@ Efficacy results are summarized in Tables 24 and 25.
 
 Table 24: Response Rates in Refractory and Relapsed Colorectal Cancer Clinical Trial - ITT Analysis
 
-| Best Response | Oxaliplatin + FU/LV N=152 | Oxaliplatin N=156 | FU/LVN=151 |
+| Best Response | Oxaliplatin + FU/LV N=152 | OxaliplatinN=156 | FU/LVN=151 |
 | --- | --- | --- | --- |
 | Complete Response | 0 | 0 | 0 |
 | Partial Response | 13 (9%) | 2 (1%) | 0 |
 | P-value | 0.0002 FU/LV vs Oxaliplatin + FU/LV |  |  |
 | 95% CI | 4.6%, 14.2% | 0.2%, 4.6% | 0, 2.4% |
 
-Table 25: Radiographic Time to Progression (TTP)* in Refractory and Relapsed Colorectal Cancer Clinical Trial
+Table 25: Radiographic Time to Progression (TTP)This is not an ITT analysis.
+Events were limited to radiographic disease progression documented by independent review of radiographs.
+Clinical progression was not included in this analysis, and 18% of patients were excluded from the analysis based on unavailability of the radiographs for independent review. in Refractory and Relapsed Colorectal Cancer Clinical Trial
 
 | Arm | Oxaliplatin + FU/LV N=152 | Oxaliplatin N=156 | FU/LV N=151 |
 | --- | --- | --- | --- |
@@ -282,10 +279,6 @@ Table 25: Radiographic Time to Progression (TTP)* in Refractory and Relapsed Col
 | Number of patients with no radiological evaluation beyond baseline | 17 (11%) | 16 (10%) | 22 (15%) |
 | Median TTP (months) | 4.6 | 1.6 | 2.7 |
 | 95% CI | 4.2, 6.1 | 1.4, 2.7 | 1.8, 3.0 |
-
-* This is not an ITT analysis.
-Events were limited to radiographic disease progression documented by independent review of radiographs.
-Clinical progression was not included in this analysis, and 18% of patients were excluded from the analysis based on unavailability of the radiographs for independent review.
 
 At the time of the interim analysis 49% of the radiographic progression events had occurred.
 In this interim analysis an estimated 2-month increase in median time to radiographic progression was observed compared to fluorouracil/leucovorin alone.

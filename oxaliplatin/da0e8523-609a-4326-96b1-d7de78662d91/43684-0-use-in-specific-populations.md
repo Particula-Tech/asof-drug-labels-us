@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+### Risk Summary
 
 Based on its direct interaction with DNA, oxaliplatin can cause fetal harm when administered to a pregnant woman.
 The available human data do not establish the presence or absence of major birth defects or miscarriage related to the use of oxaliplatin.
@@ -11,7 +11,7 @@ Advise a pregnant woman of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Data
+### Data
 
 Animal data
 
@@ -20,18 +20,18 @@ Oxaliplatin caused developmental mortality (increased early resorptions) when ad
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 There are no data on the presence of oxaliplatin or its metabolites in human or animal milk or its effects on the breastfed infant or on milk production.
 Because of the potential for serious adverse reactions in breastfed infants, advise women not to breastfeed during treatment with oxaliplatin and for 3 months after the final dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Pregnancy Testing
+### Pregnancy Testing
 
 Verify pregnancy status in females of reproductive potential prior to initiating oxaliplatin [see Use in Specific Populations (8.1)].
 
-Contraception
+### Contraception
 
 Oxaliplatin can cause embryo-fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
@@ -43,7 +43,7 @@ Males
 
 Based on its mechanism action as a genotoxic drug, advise males with female partners of reproductive potential to use effective contraception while receiving oxaliplatin and for 6 months after the final dose [see Nonclinical Toxicology (13.1)].
 
-Infertility
+### Infertility
 
 Based on animal studies, oxaliplatin may impair fertility in males and females [see Nonclinical Toxicology (13.1)].
 

@@ -12,9 +12,9 @@ Immediately and permanently discontinue oxaliplatin injection for hypersensitivi
 ## 5.2 Peripheral Sensory Neuropathy
 
 Oxaliplatin can cause acute and delayed neuropathy.
-Reduce the dose or permanently discontinue oxaliplatin for persistent neurosensory reactions based on the severity of the adverse reaction [see Dosage and Administration (2.3)].
+Reduce the dose or permanently discontinue oxaliplatin for persistent neurosensory reactions based on the severity of the adverse reaction [see Dosage and Administration (2.2)].
 
-Acute Neuropathy
+### Acute Neuropathy
 
 Acute neuropathy typically presents as a reversible, primarily peripheral sensory neuropathy that occurs within hours or 2 days following a dose, resolves within 14 days, and frequently recurs with further dosing.
 The symptoms can be precipitated or exacerbated by exposure to cold temperature or cold objects and they usually present as transient paresthesia, dysesthesia and hypoesthesia in the hands, feet, perioral area, or throat.
@@ -28,7 +28,7 @@ Subjective sensations of dysphagia or dyspnea, without any laryngospasm or bronc
 
 Avoid topical application of ice for mucositis prophylaxis or other conditions, because cold temperature can exacerbate acute neurological symptoms.
 
-Delayed Neuropathy
+### Delayed Neuropathy
 
 Delayed neuropathy typically presents as a persistent (greater than 14 days), primarily peripheral sensory neuropathy that is usually characterized by paresthesias, dysesthesias, and hypoesthesias, but may also include deficits in proprioception that can interfere with daily activities (e.g., writing, buttoning, swallowing, and difficulty walking from impaired proprioception).
 These forms of neuropathy occurred in 48% of patients receiving oxaliplatin.
@@ -40,12 +40,12 @@ Adjuvant treatment
 
 In the adjuvant treatment trial, neuropathy was graded using NCI CTC, version 1 as summarized in Table 3.
 
-Table 3: Grading for Neuropathy in Adjuvant Treatment Trial
+Table 3: Grading for Neuropathy in Adjuvant Treatment Trial Grade Definition
 
 | Grade | Definition |
 | --- | --- |
 | 0 | No change or none |
-| 1 | Mild paresthesias, loss of deep tendon reflexes |
+| 1 | Mild paresthesia, loss of deep tendon reflexes |
 | 2 | Mild or moderate objective sensory loss, moderate paresthesias |
 | 3 | Severe objective sensory loss or paresthesias that interfere with function |
 | 4 | Not applicable |
@@ -94,7 +94,7 @@ Oxaliplatin has been associated with pulmonary fibrosis (less than 1% of patient
 In the adjuvant treatment trial, the combined incidence of cough and dyspnea was 7.4% (any grade), including less than 1% (grade 3) in the oxaliplatin arm.
 One patient died from eosinophilic pneumonia in the oxaliplatin arm.
 
-In the previously untreated advanced colorectal cancer trial, the combined incidence of cough, dyspnea and hypoxia was 43% (any grade), including 7% (grade 3 to 4) in the oxaliplatin with fluorouracil/leucovorin arm.
+In the previously untreated advanced colorectal cancer trial, the combined incidence of cough, dyspnea and hypoxia was 43% (any grade), including 7% (grade 3 to 4) in the oxaliplatin with fluorouracil/ leucovorin arm.
 
 In case of unexplained respiratory symptoms, such as non-productive cough, dyspnea, crackles, or radiological pulmonary infiltrates, withhold oxaliplatin until further pulmonary investigation excludes interstitial lung disease or pulmonary fibrosis.
 Permanently discontinue oxaliplatin for confirmed interstitial lung disease or pulmonary fibrosis.
@@ -105,8 +105,8 @@ In the adjuvant treatment trial, increased transaminases (57% vs 34%) and alkali
 The incidence of increased bilirubin was similar on both arms.
 Changes noted on liver biopsies include: peliosis, nodular regenerative hyperplasia or sinusoidal alterations, perisinusoidal fibrosis, and veno-occlusive lesions.
 
-Consider evaluating patients who develop abnormal liver tests or portal hypertension which cannot be explained by liver metastases, for hepatic vascular disorders.
-Monitor liver function tests at baseline, before each subsequent cycle and as clinically indicated.
+Consider evaluating patients who develop abnormal liver tests or portal hypertension, which cannot be explained by liver metastases, for hepatic vascular disorders.
+Monitor liver function tests at baseline, before each subsequent cycle, and as clinically indicated.
 
 ## 5.7 QT Interval Prolongation and Ventricular Arrhythmias
 
