@@ -48,7 +48,7 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Label - 1761-18
 
-PAA200781
+PAA223331
 
 NDC 0409-1761-18 2 mL Rx only
 
@@ -59,7 +59,7 @@ bupivacaine hydrochloride 0.75% 15 mg/2 mL (7.5 mg/mL) in dextrose 8.25% injecti
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
 AP/DRUGS/08/2013 M.L.No.
-08/VP/AP/2013/F/G
+08/VP/AP/2013/F/R
 
 Hospira
 
@@ -78,11 +78,11 @@ Sterile Hyperbaric Solution for Spinal Anesthesia
 Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 M.L.No.
-08/VP/AP/2013/F/G AP/DRUGS/08/2013
+08/VP/AP/2013/F/R AP/DRUGS/08/2013
 
 Hospira
 
-PAA200690
+PAA223332
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Carton
 
