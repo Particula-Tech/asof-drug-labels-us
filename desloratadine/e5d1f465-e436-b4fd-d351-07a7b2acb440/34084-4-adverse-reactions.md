@@ -10,15 +10,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults and Adolescents
 
-Allergic Rhinitis: In multiple-dose placebo-controlled trials, 2,834 patients ages 12 years or older received desloratadine tablets at doses of 2.5 mg to 20 mg daily, of whom 1,655 patients received the recommended daily dose of 5 mg.
+Allergic Rhinitis:In multiple-dose placebo-controlled trials, 2,834 patients ages 12 years or older received desloratadine tablets at doses of 2.5 mg to 20 mg daily, of whom 1,655 patients received the recommended daily dose of 5 mg.
 In patients receiving 5 mg daily, the rate of adverse events was similar between desloratadine and placebo-treated patients.
 The percent of patients who withdrew prematurely due to adverse events was 2.4% in the desloratadine group and 2.6% in the placebo group.
 There were no serious adverse events in these trials in patients receiving desloratadine.
 All adverse events that were reported by greater than or equal to 2% of patients who received the recommended daily dose of desloratadine tablets (5 mg once daily), and that were more common with desloratadine tablets than placebo, are listed in Table 1.
 
-Table 1
-
-Incidence of Adverse Events Reported by ≥2% of Adult and Adolescent Allergic Rhinitis Patients Receiving Desloratadine Tablets
+Table 1: Incidence of Adverse Events Reported by ≥2% of Adult and Adolescent Allergic Rhinitis Patients Receiving Desloratadine Tablets
 
 | Adverse Event | DesloratadineTablets 5 mg (n=1655) | Placebo (n=1652) |
 | --- | --- | --- |
@@ -37,7 +35,10 @@ Incidence of Adverse Events Reported by ≥2% of Adult and Adolescent Allergic R
 
 The frequency and magnitude of laboratory and electrocardiographic abnormalities were similar in desloratadine and placebo-treated patients.
 
-There were no differences in adverse events for subgrous of patients as defined by gender, age, or race.
+There were no differences in adverse events for subgroups of patients as defined by gender, age, or race.
+
+Chronic Idiopathic Urticaria:In multiple-dose, placebo-controlled trials of chronic idiopathic urticaria, 211 patients ages 12 years or older received desloratadine and 205 received placebo.
+Adverse events that were reported by greater than or equal to 2% of patients who received desloratadine and that were more common with desloratadine than placebo were (rates for desloratadine and placebo, respectively): headache (14%, 13%), nausea (5%, 2%), fatigue (5%, 1%), dizziness (4%, 3%), pharyngitis (3%, 2%), dyspepsia (3%, 1%), and myalgia (3%, 1%).
 
 Pediatrics
 

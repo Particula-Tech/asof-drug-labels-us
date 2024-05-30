@@ -5,13 +5,13 @@
 Risk Summary
 
 The limited available data with desloratadine in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
-There are no adequate and well-controlled studies in pregnant women.
-Desloratadine given during organogenesis to pregnant rats was not teratogenic at the summed area under the concentration-time curve (AUC)-based exposures of desloratadine and its metabolite approximately 320 times that at the recommended human daily oral dose (RHD) of 5 mg/day.
+There are no adequate and well‑controlled studies in pregnant women.
+Desloratadine given during organogenesis to pregnant rats was not teratogenic at the summed area under the concentration-time curve (AUC)‑based exposures of desloratadine and its metabolite approximately 320 times that at the recommended human daily oral dose (RHD) of 5 mg/day.
 Desloratadine given during organogenesis to pregnant rabbits was not teratogenic at the AUC-based exposures of desloratadine approximately 230 times that at the RHD.
 Desloratadine given to pregnant rats during organogenesis through lactation resulted in reduced body weight and slow righting reflex of F1 pups at the summed AUC-based exposures of desloratadine and its metabolite approximately 70 times or greater than that at the RHD [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -45,13 +45,14 @@ There are no data available on human infertility associated with desloratadine.
 
 There were no clinically relevant effects of desloratadine on female fertility in rats.
 A male specific decrease in fertility occurred at an oral desloratadine dose of 12 mg/kg or greater in rats (approximately 65 times the summed AUC-based exposure of desloratadine and its metabolite at the RHD).
-Male fertility was unaffected at a desloratadine dose of 3 mg/kg (approximately 10 times the summed AUC-based exposure of desloratadine and its metabolite at the RHD)[see Nonclinical Toxicology (13.1).]
+Male fertility was unaffected at a desloratadine dose of 3 mg/kg (approximately 10 times the summed AUC-based exposure of desloratadine and its metabolite at the RHD).
+[See Nonclinical Toxicology (13.1).]
 
 ## 8.4 Pediatric Use
 
 The desloratadine orally disintegrating 2.5 mg tablet has not been evaluated in pediatric patients.
 Bioequivalence of the desloratadine orally disintegrating tablet and the previously marketed orally disintegrating tablet was established in adults.
-In conjunction with the dose-finding studies in pediatrics described, the pharmacokinetic data for desloratadine orally disintegrating tablet supports the use of the 2.5 mg dose strength in pediatric patients 6 to 11 years of age.
+In conjunction with the dose finding studies in pediatrics described, the pharmacokinetic data for desloratadine orally disintegrating tablet supports the use of the 2.5 mg dose strength in pediatric patients 6 to 11 years of age.
 
 ## 8.5 Geriatric Use
 
@@ -65,4 +66,4 @@ Dosage adjustment for patients with renal impairment is recommended [see Dosage 
 
 ## 8.7 Hepatic Impairment
 
-Dosage adjustment for patients with hepatic impairment is recommended [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)]
+Dosage adjustment for patients with hepatic impairment is recommended [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

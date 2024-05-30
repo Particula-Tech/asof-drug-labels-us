@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Desloratadine Orally Disintegrating Tablets
+Desloratadine Orally Disintegrating Tablets, USP
 
 (des′′ lor a′ ta deen)
 
@@ -18,6 +18,7 @@ Desloratadine is used to help control the symptoms of:
 
 - seasonal allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 2 years of age and older.
 - perennial allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 6 months of age and older.
+- chronic idiopathic urticaria (long-term itching) and to reduce the number and size of hives in people 6 months of age and older.
 
 Desloratadine is not for children younger than 6 months of age.
 
@@ -65,7 +66,7 @@ How should I take desloratadineorally disintegrating tablets?
 - Place desloratadine orally disintegrating tablets on your tongue and allow it to dissolve before swallowing.
   Desloratadine orally disintegrating tablets can be taken with or without water.
   Take your desloratadine orally disintegrating tablets right away after opening the blister.
-- If you take too much desloratidine, call your doctor or get medical attention right away.
+- If you take too much desloratadine, call your doctor or get medical attention right away.
 
 What are the possible side effects of desloratadine orally disintegrating tablets?
 
@@ -81,7 +82,7 @@ Desloratadine may cause serious side effects, including:
 
 The most common side effects of desloratadine in adults and children 12 years of age and older with allergic rhinitis include:
 
-- sore throatd
+- sore throat
 - dry mouth
 - muscle pain
 - tiredness
@@ -100,9 +101,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store desloratadine orally disintegrating tablets?
 
-Store oraly disintegrating tablets at 20°-25°C (68°-77°F) excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store orally disintegrating tablets at 20°C to 25°C (68°F to 77°F) excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-Keep desloratadine orally disintegrating tablets, and all medicines out of the reach of children.
+Keep desloratadine orally disintegrating tablets and all medicines out of the reach of children.
 
 General information about desloratadine
 
@@ -119,21 +120,23 @@ What are the ingredients in desloratadine orally disintegrating tablets?
 
 Active ingredient: desloratadine
 
-Patients with Phenylketonuria: Desloratadine orally disintegrating tablets 5 mg contain 10.10 mg phenylalanine, and desloratadine orally disintegrating tablets 2.5 mg contain 5 mg phenylalanine.
+Patients with Phenylketonuria: Desloratadine orally disintegrating tablets 5 mg contain 10.08 mg phenylalanine, and desloratadine orally disintegrating tablets 2.5 mg contain 5.04 mg phenylalanine.
 
-Inactive ingredients in desloratadine tablets: anhydrous citric acid, aspartame, colloidal silicon dioxide, crospovidone, ferric oxide, mannitol, lactose anhydrous, microcrystalline cellulose, polacrilex resin, sodium stearyl fumarate, talc, tutti frutti flavor.
+Inactive ingredients: anhydrous citric acid, aspartame, colloidal silicon dioxide, crospovidone, ferric oxide, mannitol, lactose anhydrous, microcrystalline cellulose, polacrilex resin, sodium stearyl fumarate, talc, tutti frutti flavor.
 
 The trademarks depicted herein are owned by their respective companies.
 
 Rx Only
 
-Manufactured by:
+Distributor:
 
-Dr. Reddy's Laboratories Limited
+Dr. Reddy's Laboratories Inc.,
 
-Bachupally - 500 090 INDIA
+Princeton, NJ 08540
 
-Revised: 0319
+Made in India
+
+Revised: 09/2023
 
 Dispense with Patient Information Sheet available at:
 

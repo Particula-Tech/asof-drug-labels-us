@@ -60,14 +60,14 @@ Analysis of plasma 3-hydroxydesloratadine showed similar Tmax and half-life valu
 
 Special Populations
 
-Geriatric Subjects: In older subjects (³65 years old; n=17) following multiple-dose administration of desloratadine tablets, the mean Cmax and AUC values for desloratadine were 20% greater than in younger subjects (<65 years old).
+Geriatric Subjects:In older subjects (≥65 years old; n=17) following multiple-dose administration of desloratadine tablets, the mean Cmax and AUC values for desloratadine were 20% greater than in younger subjects (<65 years old).
 The oral total body clearance (CL/F) when normalized for body weight was similar between the two age groups.
-The mean plasma elimination half-life of desloratadine was 33.7 hr in subjects ³65 years old.
+The mean plasma elimination half-life of desloratadine was 33.7 hr in subjects ≥65 years old.
 The pharmacokinetics for 3-hydroxydesloratadine appeared unchanged in older versus younger subjects.
 These age-related differences are unlikely to be clinically relevant and no dosage adjustment is recommended in elderly subjects.
 
-Pediatric Subjects: In subjects 6 to 11 years old, a single dose of 5 mL of desloratadine oral solution containing 2.5 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg desloratadine tablet.
-In subjects 2 to 5 years old, a single dose of 2.5 mL of desloratadine Oral Solution containing 1.25 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg desloratadine tablet.
+Pediatric Subjects:In subjects 6 to 11 years old, a single dose of 5 mL of desloratadine oral solution containing 2.5 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg desloratadine tablet.
+In subjects 2 to 5 years old, a single dose of 2.5 mL of desloratadine oral solution containing 1.25 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg desloratadine tablet.
 However, the Cmax and AUC of the metabolite (3-hydroxydesloratadine) were 1.27 and 1.61 times higher for the 5 mg dose of Oral Solution administered in adults compared to the Cmax and AUC obtained in children 2 to 11 years of age receiving 1.25 to 2.5 mg of desloratadine oral solution.
 
 A single dose of either 2.5 mL or 1.25 mL of desloratadine oral solution containing 1.25 mg or 0.625 mg, respectively, of desloratadine was administered to subjects 6 to 11 months of age and 12 to 23 months of age.
@@ -77,7 +77,7 @@ The desloratadine orally disintegrating tablet 2.5 mg tablet has not been evalua
 Bioequivalence of the desloratadine orally disintegrating tablet and the original desloratadine orally disintegrating tablet was established in adults.
 In conjunction with the dose-finding studies in pediatrics described, the pharmacokinetic data for desloratadine orally disintegrating tablets supports the use of the 2.5 mg dose strength in pediatric patients 6 to 11 years of age.
 
-Renally Impaired: Desloratadine pharmacokinetics following a single dose of 7.5 mg were characterized in patients with mild (n=7; creatinine clearance 51 to 69 mL/min/1.73 m2), moderate (n=6; creatinine clearance 34 to 43 mL/min/1.73 m2), and severe (n=6; creatinine clearance 5 to 29 mL/min/1.73 m2) renal impairment or hemodialysis dependent (n=6) patients.
+Renally Impaired:Desloratadine pharmacokinetics following a single dose of 7.5 mg were characterized in patients with mild (n=7; creatinine clearance 51 to 69 mL/min/1.73 m2), moderate (n=6; creatinine clearance 34 to 43 mL/min/1.73 m2), and severe (n=6; creatinine clearance 5 to 29 mL/min/1.73 m2) renal impairment or hemodialysis dependent (n=6) patients.
 In patients with mild and moderate renal impairment, median Cmax and AUC values increased by approximately 1.2- and 1.9-fold, respectively, relative to subjects with normal renal function.
 In patients with severe renal impairment or who were hemodialysis dependent, Cmax and AUC values increased by approximately 1.7- and 2.5-fold, respectively.
 Minimal changes in 3-hydroxydesloratadine concentrations were observed.
@@ -85,7 +85,7 @@ Desloratadine and 3-hydroxydesloratadine were poorly removed by hemodialysis.
 Plasma protein binding of desloratadine and 3-hydroxydesloratadine was unaltered by renal impairment.
 Dosage adjustment for patients with renal impairment is recommended [see Dosage and Administration (2.5)].
 
-Hepatically Impaired: Desloratadine pharmacokinetics were characterized following a single oral dose in patients with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment as defined by the Child-Pugh classification of hepatic function and 8 subjects with normal hepatic function.
+Hepatically Impaired:Desloratadine pharmacokinetics were characterized following a single oral dose in patients with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment as defined by the Child-Pugh classification of hepatic function and 8 subjects with normal hepatic function.
 Patients with hepatic impairment, regardless of severity, had approximately a 2.4-fold increase in AUC as compared with normal subjects.
 The apparent oral clearance of desloratadine in patients with mild, moderate, and severe hepatic impairment was 37%, 36%, and 28% of that in normal subjects, respectively.
 An increase in the mean elimination half-life of desloratadine in patients with hepatic impairment was observed.
@@ -96,21 +96,19 @@ Gender: Female subjects treated for 14 days with desloratadine tablets had 10% a
 The 3-hydroxydesloratadine Cmax and AUC values were also increased by 45% and 48%, respectively, in females compared with males.
 However, these apparent differences are not likely to be clinically relevant and therefore no dosage adjustment is recommended.
 
-Race: Following 14 days of treatment with desloratadine tablets, the Cmax and AUC values for desloratadine were 18% and 32% higher, respectively, in Blacks compared with Caucasians.
+Race:Following 14 days of treatment with desloratadine tablets, the Cmax and AUC values for desloratadine were 18% and 32% higher, respectively, in Blacks compared with Caucasians.
 For 3-hydroxydesloratadine there was a corresponding 10% reduction in Cmax and AUC values in Blacks compared to Caucasians.
 These differences are not likely to be clinically relevant and therefore no dose adjustment is recommended.
 
 Drug Interactions: In two controlled crossover clinical pharmacology studies in healthy male (n=12 in each study) and female (n=12 in each study) volunteers, desloratadine 7.5 mg (1.5 times the daily dose) once daily was coadministered with erythromycin 500 mg every 8 hours or ketoconazole 200 mg every 12 hours for 10 days.
-In three separate controlled, parallel group clinical pharmacology studies, desloratadine at the clinical dose of 5 mg has been coadministered with azithromycin 500 mg followed by 250 mg once daily for 4 days (n=18) or with fluoxetine 20 mg once daily for 7 days after a 23 day pretreatment period with fluoxetine (n=18) or with cimetidine 600 mg every 12 hours for 14 days (n=18) under steady-state conditions to normal healthy male and female volunteers.
+In three separate controlled, parallel group clinical pharmacology studies, desloratadine at the clinical dose of 5 mg has been coadministered with azithromycin 500 mg followed by 250 mg once daily for 4 days (n=18) or with fluoxetine 20 mg once daily for 7 days after a 23-day pretreatment period with fluoxetine (n=18) or with cimetidine 600 mg every 12 hours for 14 days (n=18) under steady-state conditions to normal healthy male and female volunteers.
 Although increased plasma concentrations (Cmax and AUC0-24 hrs) of desloratadine and 3-hydroxydesloratadine were observed (see Table 2), there were no clinically relevant changes in the safety profile of desloratadine, as assessed by electrocardiographic parameters (including the corrected QT interval), clinical laboratory tests, vital signs, and adverse events.
 
-Table 2
-
-Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in Healthy Male and Female Volunteers
+Table 2: Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in Healthy Male and Female Volunteers
 
 |  | Desloratadine |  | 3-Hydroxydesloratadine |  |
 | --- | --- | --- | --- | --- |
-|  | Cmax | AUC 0-24hrs | Cmax | AUC0-24hrs |
+|  | Cmax | AUC 0-24 hrs | Cmax | AUC0-24 hrs |
 | Erythromycin (500 mg Q8h) | + 24% | + 14% | + 43% | + 40% |
 | Ketoconazole (200 mg Q12h) | + 45% | + 39% | + 43% | + 72% |
 | Azithromycin (500 mg day 1,250 mg QD x 4 days) | + 15% | + 5% | + 15% | + 4% |
