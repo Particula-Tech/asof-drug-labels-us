@@ -37,7 +37,7 @@ This spontaneous conversion can be catalyzed by albumin and other proteins.
 Less than 5% of cyclophosphamide may be directly detoxified by side chain oxidation, leading to the formation of inactive metabolites 2-dechloroethylcyclophosphamide.
 At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide in patients.
 Cyclophosphamide appears to induce its own metabolism.
-Auto-induction results in an increase in the total clearance, increased formation of 4-hydroxyl metabolites and shortened t1/2 values following repeated administration at 12- to 24-hour interval.
+Auto-induction results in an increase in the total clearance, increased formation of 4-hydroxyl metabolites and shortened t 1/2 values following repeated administration at 12- to 24-hour interval.
 
 Elimination
 
@@ -50,7 +50,7 @@ Renal Impairment
 
 The pharmacokinetics of cyclophosphamide were determined following one-hour intravenous infusion to renally impaired patients.
 The results demonstrated that the systemic exposure to cyclophosphamide increased as the renal function decreased.
-Mean dose-corrected AUC increased by 38% in the moderate renal group, (Creatinine clearance (CrCl of 25 to 50 mL/min), by 64% in the severe renal group (CrCl of 10 to 24 mL/min) and by 23% in the hemodialysis group (CrCl of < 10mL/min) compared to the control group.
+Mean dose-corrected AUC increased by 38% in the moderate renal group, (Creatinine clearance (CrCl) of 25 to 50 mL/min), by 64% in the severe renal group (CrCl of 10 to 24 mL/min) and by 23% in the hemodialysis group (CrCl of < 10mL/min) compared to the control group.
 The increase in exposure was significant in the severe group (p>0.05); thus, patients with severe renal impairment should be closely monitored for toxicity [see Use in Specific Populations (8.7)].
 
 The dialyzability of cyclophosphamide was investigated in four patients on long-term hemodialysis.

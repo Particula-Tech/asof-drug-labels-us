@@ -48,26 +48,30 @@ Do not use Sterile Water for Injection, USP because it results in a hypotonic so
 
 Table 1: Reconstitution for Direct Intravenous Injection
 
-| Strength | Volume of 0.9% Sodium Chloride | CyclophosphamideConcentration |
+| Strength | Volume of 0.9% Sodium Chloride | Cyclophosphamide Concentration |
 | --- | --- | --- |
-| 500 mg | 25 mL |  |
-| 1 g | 50 mL | 20 mg per mL |
+| 500 mg | 25 mL | 20 mg per mL |
+| 1 g | 50 mL |  |
 | 2 g | 100 mL |  |
 
 For Intravenous Infusion
 
-Reconstitution of Cyclophosphamide: Reconstitute Cyclophosphamide using 0.9% Sodium Chloride Injection, USP or Sterile Water for Injection, USP with the volume of diluent listed below in Table 2.
+Reconstitution of Cyclophosphamide:
+
+Reconstitute Cyclophosphamide using 0.9% Sodium Chloride Injection, USP or Sterile Water for Injection, USP with the volume of diluent listed below in Table 2.
 Add the diluent to the vial and gently swirl to dissolve the drug completely.
 
 Table 2: Reconstitution in preparation for Intravenous Infusion
 
-| Strength | Volume of Diluent | CyclophosphamideConcentration |
+| Strength | Volume of Diluent | Cyclophosphamide Concentration |
 | --- | --- | --- |
-| 500 mg | 25 mL |  |
-| 1 g | 50 mL | 20 mg per mL |
+| 500 mg | 25 mL | 20 mg per mL |
+| 1 g | 50 mL |  |
 | 2 g | 100 mL |  |
 
-Dilution of Reconstituted Cyclophosphamide: Further dilute the reconstituted Cyclophosphamide solution to a minimum concentration of 2 mg per mL with any of the following diluents:
+Dilution of Reconstituted Cyclophosphamide:
+
+Further dilute the reconstituted Cyclophosphamide solution to a minimum concentration of 2 mg per mL with any of the following diluents:
 
 - 5% Dextrose Injection, USP
 - 5% Dextrose and 0.9% Sodium Chloride Injection, USP
@@ -84,15 +88,16 @@ Table 3: Storage of Cyclophosphamide Solutions
 
 | Diluent | Storage |  |
 | --- | --- | --- |
-| Room Temperature | Refrigerated |  |
+|  | Room Temperature | Refrigerated |
 | Reconstituted Solution (Without Further Dilution) |  |  |
 | 0.9% Sodium Chloride Injection, USP | up to 24 hrs | Up to 6 days |
 | Sterile Water for Injection, USP | Do not store; use immediately |  |
-| Diluted Solutions 1 |  |  |
+| Diluted Solutions* |  |  |
 | 0.45% Sodium Chloride Injection, USP | up to 24 hrs | up to 6 days |
 | 5% Dextrose Injection, USP | up to 24 hrs | up to 36 hrs |
 | 5% Dextrose and 0.9% Sodium Chloride Injection, USP | up to 24 hrs | up to 36 hrs |
-| 1 Storage time is the total time cyclophosphamide is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP. |  |  |
+
+*Storage time is the total time cyclophosphamide is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP.
 
 Use of Reconstituted Solution for Oral Administration
 

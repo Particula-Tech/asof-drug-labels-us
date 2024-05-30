@@ -4,7 +4,7 @@
 
 Cyclophosphamide is indicated for the treatment of:
 
-- malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkins disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitts lymphoma
+- malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma
 - multiple myeloma
 - leukemias: chronic lymphocytic leukemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given during remission is effective in prolonging its duration)
 - mycosis fungoides (advanced disease)

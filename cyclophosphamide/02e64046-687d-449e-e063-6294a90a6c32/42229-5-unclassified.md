@@ -1,11 +1,7 @@
 Made in Argentina.
 
-Manufactured for:
+Manufactured for: XGen Pharmaceuticals DJB, Inc. Big Flats, NY 14814
 
-XGen Pharmaceuticals DJB, Inc.
+Revised: March 2024
 
-Big Flats, NY 14814
-
-Revised: June 2023
-
-CY-PI-00
+CY-PI-01 MST-PR-4246-01
