@@ -34,9 +34,9 @@ The success rates by pathogen for microbiologically evaluable patients are prese
 
 Table 17: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
 
-| Pathogen | Daptomycin for Injection | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |
+| Daptomycin for Injection | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
 | --- | --- | --- |
-|  | Success Rate n/N (%) |  |
+| Pathogen | Success Rate n/N (%) |  |
 | Methicillin-susceptible Staphylococcus aureus (MSSA)As determined by the central laboratory. | 170/198 (86%) | 180/207 (87%) |
 | Methicillin-resistant Staphylococcus aureus (MRSA) | 21/28 (75%) | 25/36 (69%) |
 | Streptococcus pyogenes | 79/84 (94%) | 80/88 (91%) |

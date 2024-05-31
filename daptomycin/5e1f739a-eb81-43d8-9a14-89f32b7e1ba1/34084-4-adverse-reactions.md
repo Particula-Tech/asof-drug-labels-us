@@ -183,9 +183,9 @@ The rates of the most common adverse reactions, organized by body system, observ
 
 Table 10: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the Daptomycin for Injection Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the cSSSI Pediatric Trial
 
-| Adverse Reaction | n (%) | n (%) |
+| n (%) | n (%) |  |
 | --- | --- | --- |
-|  | Daptomycin for Injection (N = 256) | ComparatorComparators included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) (N = 133) |
+| Adverse Reaction | Daptomycin for Injection (N = 256) | ComparatorComparators included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) (N = 133) |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 18 (7.0) | 7 (5.3) |
 | Vomiting | 7 (2.7) | 1 (0.8) |
@@ -219,9 +219,9 @@ The rates of the most common adverse reactions, organized by body system, observ
 
 Table 11: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Patients in the Daptomycin for Injection Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the Pediatric Bacteremia Trial
 
-| Adverse Reaction | n (%) | n (%) |
+| n (%) | n (%) |  |
 | --- | --- | --- |
-|  | Daptomycin for Injection (N = 55) | ComparatorComparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) (N = 26) |
+| Adverse Reaction | Daptomycin for Injection (N = 55) | ComparatorComparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) (N = 26) |
 | Gastrointestinal disorders |  |  |
 | Vomiting | 6 (10.9) | 2 (7.7) |
 | Investigations |  |  |
