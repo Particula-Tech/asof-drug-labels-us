@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA018267"
+  ],
+  "inn": "furosemide",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9155-01",
+    "0143-9155-25",
+    "0143-9156-01",
+    "0143-9156-10",
+    "0143-9157-01",
+    "0143-9157-10",
+    "0143-9158-01",
+    "0143-9159-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "ddfc41a9-37d4-49c1-bbf3-969a98cd649c",
+  "source": "dailymed"
+}
