@@ -43,16 +43,16 @@ Drug-Related Adverse Events—Skin
 Table 2.
 Adverse Events* From Pediatric Open-Label Trial (n = 51)
 
-| Adverse Events | Fluticasone Twice Daily |
-| --- | --- |
-| Burning | 1 (2.0%) |
-| Dusky erythema | 1 (2.0%) |
-| Erythematous rash | 1 (2.0%) |
-| Facial telangiectasia† | 2 (4.9%) |
-| Non-facial telangiectasia | 1 (2.0%) |
-| Urticaria | 1 (2.0%) |
-| *See text for additional detail. |  |
-| † n = 41. |  |
+| Adverse Events | Fluticasone Twice Daily |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Burning | 1 (2.0%) |  |  |  |  |
+| Dusky erythema | 1 (2.0%) |  |  |  |  |
+| Erythematous rash | 1 (2.0%) |  |  |  |  |
+| Facial telangiectasia† | 2 (4.9%) |  |  |  |  |
+| Non-facial telangiectasia | 1 (2.0%) |  |  |  |  |
+| Urticaria | 1 (2.0%) |  |  |  |  |
+| *See text for additional detail. |  |  |  |  |  |
+| † n = 41. |  |  |  |  |  |
 
 The following local adverse reactions have been reported infrequently with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids.
 These reactions are listed in an approximately decreas ing order of occurrence: irritation, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, hypertrichosis and miliaria.

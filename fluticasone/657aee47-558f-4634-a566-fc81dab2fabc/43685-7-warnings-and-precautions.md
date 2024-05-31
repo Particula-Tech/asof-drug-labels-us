@@ -43,16 +43,16 @@ CUTIVATE® Cream should not be used in the treatment of rosacea and perioral der
 
 Information for Patients: Patients using topical corticosteroids should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
+1. 1.This medication is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
-4. Patients should report to their physician any signs of local adverse reactions.
-5. Parents of pediatric patients should be advised not to use this medication in the treatment of diaper dermatitis.
+2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
+4. 4.Patients should report to their physician any signs of local adverse reactions.
+5. 5.Parents of pediatric patients should be advised not to use this medication in the treatment of diaper dermatitis.
    CUTIVATE® Cream should not be applied in the diaper areas as diapers or plastic pants may constitute occlusive dressing (see DOSAGE AND ADMINISTRATION).
-6. This medication should not be used on the face, underarms, or groin areas unless directed by a physician.
-7. As with other corticosteroids, therapy should be discontinued when control is achieved.
+6. 6.This medication should not be used on the face, underarms, or groin areas unless directed by a physician.
+7. 7.As with other corticosteroids, therapy should be discontinued when control is achieved.
    If no improvement is seen within 2 weeks, contact the physician.
 
 Laboratory Tests: The following tests may be helpful in evaluating patients for HPA axis suppression:
