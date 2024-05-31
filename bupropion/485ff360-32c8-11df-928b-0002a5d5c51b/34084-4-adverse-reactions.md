@@ -88,8 +88,9 @@ The observed increase in serum creatinine may be the result of OCT2 inhibition [
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of CONTRAVE.
+The following adverse reactions have been identified during post approval use of CONTRAVE, naltrexone, or bupropion.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Loss of consciousness, malaise
 - Brugada pattern/syndrome
+- Drug reaction with eosinophilia and systemic symptoms (DRESS)
