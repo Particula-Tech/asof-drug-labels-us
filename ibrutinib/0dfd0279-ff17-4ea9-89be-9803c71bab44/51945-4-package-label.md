@@ -80,7 +80,9 @@ Each tablet contains ibrutinib 280 mg Wallet card contains 28 tablets
 
 Rx Only
 
-pharmacyclics® An AbbVie Company
+pharmacyclics®
+
+An AbbVie Company
 
 janssen
 
