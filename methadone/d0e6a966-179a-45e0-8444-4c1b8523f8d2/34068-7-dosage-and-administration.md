@@ -2,7 +2,7 @@
 
 ## 2.1 Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction
 
-Code of Federal Regulations, Title 42, Sec 8: Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
+Code of Federal Regulations, Title 42, Sec. 8: Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
 Certified treatment programs shall dispense and use methadone in oral form only and according to the treatment requirements stipulated in the Federal Opioid Treatment Standards (42 CFR 8.12).
 See below for important regulatory exceptions to the general requirement for certification to provide opioid agonist treatment.
 
@@ -83,7 +83,7 @@ Decrease the dose of methadone on a daily basis or at 2-day intervals, keeping t
 Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.
 Ambulatory patients may need a slower schedule.
 
-## 2.5 Titration and Maintenance Treatment of Opioid Dependence Detoxification
+## 2.5 Titration and Maintenance Treatment of Opioid Dependence
 
 Titrate patients in maintenance treatment to a dose that prevents opioid withdrawal symptoms for 24 hours, reduces drug hunger or craving, and blocks or attenuates the euphoric effects of self-administered opioids, ensuring that the patient is tolerant to the sedative effects of methadone.
 Most commonly, clinical stability is achieved at doses between 80 to 120 mg/day.

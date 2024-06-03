@@ -99,12 +99,17 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
+Hypoglycemia
+
+Inform patients that methadone may cause hypoglycemia.
+Instruct patients how to recognize the symptoms of low blood glucose and to contact their health care provider if these symptoms occur [see Warnings and Precautions (5.17)].
+
 Distributed by:
 
 Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000748/xx
+C50000748/04
 
-Revised November 2023
+Revised March 2024

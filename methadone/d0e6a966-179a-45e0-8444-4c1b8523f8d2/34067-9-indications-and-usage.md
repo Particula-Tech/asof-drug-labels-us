@@ -14,4 +14,4 @@ Limitations of Use
 
 Limitations of Use
 
-Methadone products used for the treatment of opioid addiction in detoxification or maintenance programs are subject to the conditions for distribution and use required under 21 CFR, Title 42, Sec 8 [see Dosage and Administration (2.1)].
+Methadone products used for the treatment of opioid addiction in detoxification or maintenance programs are subject to the conditions for distribution and use required under 21 CFR, Title 42, Sec. 8 [see Dosage and Administration (2.1)].

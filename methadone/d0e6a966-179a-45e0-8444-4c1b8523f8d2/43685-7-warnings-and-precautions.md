@@ -218,16 +218,23 @@ In these patients, mixed agonists/antagonist and partial agonist analgesics may 
 When discontinuing Methadone Hydrochloride Intensol™, gradually taper the dosage [see Dosage and Administration (2.6, 2.7)].
 Do not abruptly discontinue Methadone Hydrochloride Intensol™ [see Drug Abuse and Dependence (9.3)].
 
-## 5.16 Risks of Driving and Operating Machinery
+## 5.16 Risks of Driving or Operating Machinery
 
 Methadone Hydrochloride Intensol™ may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Methadone Hydrochloride Intensol™ and know how they will react to the medication [see Patient Counseling Information (17)].
 
-## 5.17 Laboratory Test Interactions
+## 5.17 Hypoglycemia
+
+Cases of methadone-associated hypoglycemia have been reported, some resulting in hospitalization.
+In many cases, patients had predisposing risk factors (e.g., diabetes).
+The relationship between methadone and hypoglycemia is not fully understood but may be dose dependent.
+If hypoglycemia is suspected, monitor blood glucose levels, and manage the patient as clinically appropriate.
+
+## 5.18 Laboratory Test Interactions
 
 False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.
 
-## 5.18 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+## 5.19 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.

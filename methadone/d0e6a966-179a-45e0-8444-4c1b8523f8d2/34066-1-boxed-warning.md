@@ -1,3 +1,5 @@
+# WARNING: LIFE-THREATENING RESPIRATORY DEPRESSION, LIFE-THREATENING QT PROLONGATION, ACCIDENTAL INGESTION, ABUSE POTENTIAL INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES, TREATMENT FOR OPIOID ADDICTION, and RISK EVALUATION AND MITIGATION STRATEGY (REMS)
+
 Life-Threatening Respiratory Depression
 
 Respiratory depression, including fatal cases, have been reported during initiation and conversion of patients to methadone, and even when the drug has been used as recommended and not misused or abused [see Warnings and Precautions (5.1)].
@@ -44,7 +46,7 @@ Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and
 
-Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.18)].
+Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.19)].
 
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make
 

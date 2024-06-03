@@ -11,6 +11,7 @@ The following serious adverse reactions and/or conditions are described, or desc
 - •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
 - •Seizures [see Warnings and Precautions (5.14)]
 - •Withdrawal [see Warnings and Precautions (5.15)]
+- •Hypoglycemia [see Warnings and Precautions (5.17)]
 
 The following adverse reactions have been identified during post-approval use of methadone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -54,3 +55,5 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see ClinicalPharmacology (12.2)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking methadone [see Warnings and Precautions (5.17)].
