@@ -18,19 +18,13 @@ Store at 20-25ºC (68-77ºF).
 Keep out of reach of children.
 Rx only
 
-For all medical inquiries contact:
+For all medical inquiries contact: AbbVie Inc. 1-800-678-1605
 
-Allergan USA, Inc. Irvine, CA 92612
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-1-800-678-1605
+Content Updated: June 2017
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
-
-Content Updated: June 2017 © 2017 Allergan.
+© 2024 AbbVie.
 All rights reserved.
 
-CRINONE® is a registered trademark of Allergan Sales, LLC.
-
-Allergan® and its design are trademarks of Allergan, Inc.
-
-Product of the Netherlands.
+CRINONE and its design are trademarks of Allergan Sales, LLC, an AbbVie company.

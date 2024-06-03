@@ -30,8 +30,10 @@ See Figures D and E.
 
 Step 4.
 Prepare to insert the applicator.
-See Figure F. Choose the position that is most comfortable for you.
-For example, lying down on your back with your knees bent.
+See Figure F.
+
+- Choose the position that is most comfortable for you.
+  For example, lying down on your back with your knees bent.
 
 Step 5.
 Insert the applicator.
@@ -55,23 +57,15 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Rx only
 
-For all medical inquiries contact: Allergan USA, Inc.
+For all medical inquiries contact: AbbVie Inc. 1-800-678-1605
 
-Irvine, CA 92612 1-800-678-1605
-
-Distributed by: Allergan USA, Inc.
-
-Irvine, CA 92612
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
 Content Updated: June 2017
 
-© 2017 Allergan.
+© 2024 AbbVie.
 All rights reserved.
 
-CRINONE® is a registered trademark of Allergan Sales, LLC.
+CRINONE and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
 
-Allergan® and its design are trademarks of Allergan, Inc.
-
-Product of the Netherlands.
-
-73343US10
+225377-00

@@ -1,6 +1,8 @@
 # PATIENT INFORMATION
 
-Crinone® 4% and Crinone® 8% (progesterone gel) For Vaginal Use Only Please read this information carefully before you start to use Crinone and each time your prescription is renewed, in case anything has changed.
+Crinone® 4% and Crinone® 8% (progesterone gel) For Vaginal Use Only
+
+Please read this information carefully before you start to use Crinone and each time your prescription is renewed, in case anything has changed.
 This leaflet does not take the place of discussions with your doctor.
 If you still have any questions, ask your doctor or healthcare provider.
 
@@ -34,13 +36,7 @@ Serious side effects include:
 
 - Blood clots.
   Progestational drug products may increase your chance of having blood clots in your blood vessels.
-  Blood clots can cause:
-  - blood vessel problems (thrombophlebitis)
-  - stroke
-  - loss of your arm or leg
-  - blood clot in your lungs (pulmonary embolus)
-  - heart attack
-  - death
+  Blood clots can cause: ♦ blood vessel problems (thrombophlebitis) ♦ stroke ♦ loss of your arm or leg ♦ blood clot in your lungs (pulmonary embolus) ♦ heart attack ♦ death
 - Birth defects.
   Abdominal wall defect and cleft palate have been reported with Crinone use in early pregnancy.
   It is not known if these defects were caused by Crinone.
@@ -75,7 +71,7 @@ Common side effects include:
 
 These are not all the possible side effects of Crinone.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
-To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact AbbVie at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I use Crinone?
 
