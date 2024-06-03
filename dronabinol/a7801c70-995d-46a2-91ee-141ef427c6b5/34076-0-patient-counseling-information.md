@@ -50,6 +50,6 @@ Lactation
 
 Advise HIV infected women with anorexia associated with weight loss, not to breastfeed because HIV can be passed to the baby through the breast milk [see Use in Specific Populations (8.2)].
 
-Manufactured for: Benuvia Therapeutics, LLC Round Rock, TX 78665 By: Benuvia Manufacturing Inc. Round Rock, TX 78665
+Benuvia Operations, LLC Round Rock, TX 78665
 
-SYNDROS® is a registered trademark of Benuvia Therapeutics LLC.
+SYNDROS® is a registered trademark of Benuvia Operations, LLC.
