@@ -10,10 +10,10 @@ For example, at a dose of 900 mg/d in adults <60 years or 22 mg/kg/d in children
 The dose of theophylline must be individualized on the basis of peak serum theophylline concentration measurements in order to achieve a dose that will provide maximum potential benefit with minimal risk to adverse effects.
 
 Transient caffeine-like adverse effects and excessive serum concentrations in slow metabolizers can be avoided in most patients by starting with a sufficiently low dose and slowly increasing the dose, if judged to be clinically indicated, in small increments (See Table V). Dose increases should only be made if the previous dosage is well tolerated and at intervals of no less than 3 days to allow serum theophylline concentrations to reach the new steady state.
-Dosage adjustment should be guided by serum theophylline concentration measurement (see PRECAUTIONS,Laboratory Tests and DOSAGE AND ADMINISTRATION, Table VI).
+Dosage adjustment should be guided by serum theophylline concentration measurement (see PRECAUTIONS,Laboratory Testsand DOSAGE AND ADMINISTRATION, Table VI).
 Health care providers should instruct patients and care givers to discontinue any dosage that causes adverse effects, to withhold the medication until these symptoms are gone and to then resume therapy at a lower, previously tolerated dosage (see WARNINGS).
 
-If the patient's symptoms are well controlled, there are no apparent adverse effects, and no intervening factors that might alter dosage requirements (see WARNINGS and PRECAUTIONS), serum theophylline concentrations should be monitored at 6 month intervals for rapidly growing children and at yearly intervals for all others.
+If the patient's symptoms are well controlled, there are no apparent adverse effects, and no intervening factors that might alter dosage requirements (see WARNINGSand PRECAUTIONS), serum theophylline concentrations should be monitored at 6 month intervals for rapidly growing children and at yearly intervals for all others.
 In acutely ill patients, serum theophylline concentrations should be monitored at frequent intervals, e.g., every 24 hours.
 
 Theophylline distributes poorly into body fat, therefore, mg/kg dose should be calculated on the basis of ideal body weight.
@@ -56,7 +56,7 @@ B. Children (1-15 years) and adults (16-60 years) without risk factors for impai
 | 2. After 3 days, if tolerated, increase dose to: | 16 mg/kg/day up to a maximum of 400 mg/day divided Q4-6 hrs* | 400 mg/day divided Q6-8 hrs* |
 | 3. After 3 more days, if tolerated dose to: | 20 mg/kg/day increase up to a maximum of 600 mg/day divided Q4-6 hrs* | 600 mg/day divided Q6-8 hrs* |
 
-C. Patients With Risk Factors For Impaired Clearance, The Elderly (>60 Years), And Those In Whom It Is Not Feasible To Monitor Serum Theophylline Concentrations:
+C. Patients With Risk Factors For Impaired Clearance, The Elderly (>60 Years), And Those In WhomIt Is Not Feasible To Monitor Serum Theophylline Concentrations:
 
 In children 1-15 years of age, the final theophylline dose should not exceed 16 mg/kg/day up to a maximum of 400 mg/day in the presence of risk factors for reduced theophylline clearance (see WARNINGS) or if it is not feasible to monitor serum theophylline concentrations.
 

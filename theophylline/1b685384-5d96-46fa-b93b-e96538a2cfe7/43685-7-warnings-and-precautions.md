@@ -24,18 +24,17 @@ Acute pulmonary edema Congestive heart failure Cor pulmonale Fever; ≥102°F fo
 
 Cessation of Smoking
 
-Drug Interactions Adding a drug that inhibits theophylline metabolism (e.g., cimetidine, erythromycin, tacrine) or stopping a concurrently administered drug that enhances theophylline metabolism (e.g., carbamazepine, rifampin).
+Drug InteractionsAdding a drug that inhibits theophylline metabolism (e.g., cimetidine, erythromycin, tacrine) or stopping a concurrently administered drug that enhances theophylline metabolism (e.g., carbamazepine, rifampin).
 (see PRECAUTIONS, Drug Interactions, Table II).
 
 When Signs or Symptoms of Theophylline Toxicity Are Present:
 
-Whenever a patient receiving theophylline develops nausea or vomiting, particularly repetitive vomiting or other signs or symptoms consistent with theophylline toxicity (even if another cause may be suspected), additional doses of theophylline should be withheld and a serum theophylline concentration measured immediately.
-Patients should be instructed not to continue any dosage that causes adverse effects and to withhold subsequent doses until the symptoms have resolved, at which time the clinician may instruct the patient to resume the drug at a lower dosage (see DOSAGE AND ADMINISTRATION, Dosing Guidelines, Table VI).
+Whenever a patient receiving theophylline develops nausea or vomiting, particularly repetitive vomiting or other signs or symptoms consistent with theophylline toxicity (even if another cause may be suspected), additional doses of theophylline should be withheld and a serum theophylline concentration measured immediately.Patients should be instructed not to continue any dosage that causes adverse effects and to withhold subsequent doses until the symptoms have resolved, at which time the clinician may instruct the patient to resume the drug at a lower dosage (see DOSAGE AND ADMINISTRATION, Dosing Guidelines, Table VI).
 
 Dosage Increases:
 
 Increases in the dose of theophylline should not be made in response to an acute exacerbation of symptoms of chronic lung disease since theophylline provides little added benefit to inhaled beta 2-selective agonists and systemically administered corticosteroids in this circumstance and increases the risk of adverse effects.
-A peak steady state serum theophylline concentration should be measured before increasing the dose in response to persistent chronic symptoms to ascertain whether an increase in dose is safe.
+A peaksteady state serum theophylline concentration should be measured before increasing the dose in response to persistent chronic symptoms to ascertain whether an increase in dose is safe.
 Before increasing the theophylline dose on the basis of a low serum concentration, the clinician should consider whether the blood sample was obtained at an appropriate time in relationship to the dose and whether the patient has adhered to the prescribed regimen (see PRECAUTIONS, Laboratory Tests).
 
 As the rate of theophylline clearance may be dose-dependent (i.e., steady-state serum concentrations may increase disproportionately to the increase in dose), an increase in dose based upon a sub-therapeutic serum concentration measurement should be conservative.
@@ -43,20 +42,22 @@ In general, limiting dose increases to about 25% of the previous total daily dos
 
 # PRECAUTIONS
 
-General: Careful consideration of the various interacting drugs and physiologic conditions that can alter theophylline clearance and require dosage adjustment should occur prior to initiation of theophylline therapy, prior to increases in theophylline dose, and during follow up (see WARNINGS).
+General:
+
+Careful consideration of the various interacting drugs and physiologic conditions that can alter theophylline clearance and require dosage adjustment should occur prior to initiation of theophylline therapy, prior to increases in theophylline dose, and during follow up (see WARNINGS).
 The dose of theophylline selected for initiation of therapy should be low and, if tolerated, increased slowly over a period of a week or longer with the final dose guided by monitoring serum theophylline concentrations and the patient's clinical response (see DOSAGE AND ADMINISTRATION, Table V).
 
 Monitoring Serum Theophylline Concentrations:
 
 Serum theophylline concentration measurements are readily available and should be used to determine whether the dosage is appropriate.
-Specifically, the serum theophylline concentration should be measured as follows: 1.
+Specifically, the serum theophylline concentration should be measured as follows:
+
+1.
 When initiating therapy to guide final dosage adjustment after titration.
 2.
 Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
-
 3.
 Whenever signs or symptoms of theophylline toxicity are present.
-
 4.
 Whenever there is a new illness, worsening of a chronic illness or a change in the patient's treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for 24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
 
@@ -146,23 +147,21 @@ Clinically significant drug interactions with theophylline*.
 | Troleandomycin | Similar to erythromycin. | 33-100% increase depending on troleandomycin dose. |
 | Verapamil | Similar to disulfiram. | 20% increase |
 
-*Refer to PRECAUTIONS, Drug Interactions for further information regarding table
-
-**Average effect on steady state theophylline concentration or other clinical effect for pharmacologic interactions.
+*Refer to PRECAUTIONS, Drug Interactions for further information regarding table **Average effect on steady state theophylline concentration or other clinical effect for pharmacologic interactions.
 Individual patients may experience larger changes in serum theophylline concentration than the value listed.
 
 Table III.
 Drugs that have been documented not to interact with theophylline or drugs that produce no clinically significant interaction with theophylline.*
 
-| albuterol, systemic and inhaled | felodipinefinasteride | nizatidinenorfloxacin |
+| albuterol, systemic and inhaled | felodipine finasteride | Nizatidinen orfloxacin |
 | --- | --- | --- |
 | amoxicillin | hydrocortisone | ofloxacin |
 | ampicillin, with or without sulbactam | isoflurane isoniazid | omeprazole prednisone, prednisolone |
 | atenolol | isradipine | ranitidine |
 | azithromycin | influenza vaccine | rifabutin |
-| Caffeine, dietary ingestion | ketoconazo lelomefloxacin | roxithromycin sorbitol |
-| Cefactor | mebendazole | (purgative dosesdo notinhibit theophylline absorption) |
-| co-trimoxazole (trimethoprim and sulfamethoxazole) | medroxyprogesteronemethylprednisolone |  |
+| Caffeine, dietary ingestion | ketoconazole lomefloxacin | roxithromycin sorbitol |
+| Cefactor | mebendazole | (purgative doses do not inhibit theophylline absorption) |
+| co-trimoxazole (trimethoprim and sulfamethoxazole) | Medroxyprogesterone methylprednisolone |  |
 | diltiazem | metronidazole | sucralfate |
 | dirithromycin | metoprolol | terbutaline, systemic |
 | enflurane | nadolol | terfenadine |
@@ -183,18 +182,18 @@ Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 Long term carcinogenicity studies have been carried out in mice (oral doses 30-150 mg/kg) and rats (oral doses 5-75mg/kg).
 Results are pending.
 
-Theophylline has been studied in Ames salmonella, in vivo and in vitro cytogenetics, micronucleus and Chinese hamster ovary test systems and has not been shown to be genotoxic.
+Theophylline has been studied in Ames salmonella, in vivoand in vitrocytogenetics, micronucleus and Chinese hamster ovary test systems and has not been shown to be genotoxic.
 
 In a 14 week continuous breeding study, theophylline, administered to mating pairs of B6C3F1 mice at oral doses of 120, 270 and 500 mg/kg (approximately 1.0-3.0 times the human dose on a mg/m 2basis) impaired fertility, as evidenced by decreases in the number of live pups per litter, decreases in the mean number of litters per fertile pair, and increases in the gestation period at the high dose as well as decreases in the proportion of pups born alive at the mid and high dose.
 
-In 13 week toxicity studies, theophylline was administered to F344 rats and B6C3F1 mice at oral doses of 40-300 mg/kg (approximately 2.0 times the human dose on a mg/m 2 basis).
+In 13 week toxicity studies, theophylline was administered to F344 rats and B6C3F1 mice at oral doses of 40-300 mg/kg (approximately 2.0 times the human dose on a mg/m 2basis).
 At the high dose, systemic toxicity was observed in both species including decreases in testicular weight.
 
 Pregnancy:
 
-CATEGORY C: There are no adequate and well controlled studies in pregnant women.
+CATEGORY C:There are no adequate and well controlled studies in pregnant women.
 Additionally, there are no teratogenicity studies in non-rodents (e.g., rabbits).
-Theophylline was not shown to be teratogenic in CD-1 mice at oral doses up to 400 mg/kg, approximately 2.0 times the human dose on a mg/m 2 basis or in CD-1 rats at oral doses up to 260 mg/kg, approximately 3.0 times the recommended human dose on a mg/m 2 basis.
+Theophylline was not shown to be teratogenic in CD-1 mice at oral doses up to 400 mg/kg, approximately 2.0 times the human dose on a mg/m 2basis or in CD-1 rats at oral doses up to 260 mg/kg, approximately 3.0 times the recommended human dose on a mg/m 2basis.
 At a dose of 220 mg/kg, embryotoxicity was observed in rats in the absence of maternal toxicity.
 
 Nursing Mothers:

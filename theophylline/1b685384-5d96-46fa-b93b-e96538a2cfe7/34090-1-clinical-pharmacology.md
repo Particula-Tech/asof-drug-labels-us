@@ -27,19 +27,19 @@ More frequent measurements should be made in the presence of any condition that 
 
 Table I. Mean and range of total body clearance and half-life of theophylline related to age and altered physiological states.
 
-| Population characteristics | Total body clearance* mean (range)†† (mL/kg/min) | Half-life mean (range)†† (hr) |
+| Population characteristics | Total body clearance* mean (range) †† (mL/kg/min) | Half-life mean (range) †† (hr) |
 | --- | --- | --- |
 | Age |  |  |
 | Premature neonates |  |  |
 | postnatal age 3-15 days | 0.29 (0.09-0.49) | 30 (17-43) |
 | postnatal age 25-57 days | 0.64 (0.04-1.2) | 20 (9.4-30.6) |
 | Term infants |  |  |
-| postnatal age 1-2 days | NR† | 25.7 (25-26.5) |
-| postnatal age 3-30 weeks | NR† | 11 (6-29) |
+| postnatal age 1-2 days | NR † | 25.7 (25-26.5) |
+| postnatal age 3-30 weeks | NR † | 11 (6-29) |
 | Children |  |  |
 | 1-4 years | 1.7 (0.5-2.9) | 3.4 (1.2-5.6) |
-| 4-12 years | 1.6 (0.8-2.4) | NR† |
-| 13-15 years | 0.9 (0.48-1.3) | NR† |
+| 4-12 years | 1.6 (0.8-2.4) | NR † |
+| 13-15 years | 0.9 (0.48-1.3) | NR † |
 | 16-17 years | 1.4 (0.2-2.6) | 3.7 (1.5-5.9) |
 | Adults (16-60 years) |  |  |
 | otherwise healthy |  |  |
@@ -49,15 +49,15 @@ Table I. Mean and range of total body clearance and half-life of theophylline re
 | Concurrent illness or altered physiological state |  |  |
 | Acute pulmonary edema | 0.33** (0.07-2.45) | 19** (3.1-82) |
 | COPD->60 years, stable non-smoker >1 year | 0.54 (0.44-0.64) | 11 (9.4-12.6) |
-| COPD with cor pulmonale | 0.48 (0.08-0.88) | NR† |
+| COPD with cor pulmonale | 0.48 (0.08-0.88) | NR † |
 | Cystic fibrosis (14-28 years) | 1.25 (0.31-2.2) | 6.0 (1.8-10.2) |
-| Fever associated with acute viral respiratory illness (children 9-15 years) | NR† | 7.0 (1.0-13) |
+| Fever associated with acute viral respiratory illness (children 9-15 years) | NR † | 7.0 (1.0-13) |
 | Liver disease - cirrhosis | 0.31** (0.1-0.7) | 32** (10-56) |
 | acute hepatitis | 0.35 (0.25-0.45) | 19.2 (16.6-21.8) |
 | cholestasis | 0.65 (0.25-1.45) | 14.4 (5.7-31.8) |
-| Pregnancy - 1st trimester | NR† | 8.5 (3.1-13.9) |
-| 2nd trimester | NR† | 8.8 (3.8-13.8) |
-| 3rd trimester | NR† | 13.0 (8.4-17.6) |
+| Pregnancy - 1st trimester | NR † | 8.5 (3.1-13.9) |
+| 2nd trimester | NR † | 8.8 (3.8-13.8) |
+| 3rd trimester | NR † | 13.0 (8.4-17.6) |
 | Sepsis with multi-organ failure | 0.47 (0.19-1.9) | 18.8 (6.3-24.1) |
 | Thyroid disease - hypothyroid | 0.38 (0.13-0.57) | 11.6 (8.2-25) |
 | hyperthyroid | 0.8 (0.68-0.97) | 4.5 (3.7-5.6) |
@@ -75,11 +75,11 @@ Values listed were generally determined at serum theophylline concentrations <20
 **Median Note: In addition to the factors listed above, theophylline clearance is increased and half-life decreased by low carbohydrate/high protein diets, parenteral nutrition, and daily consumption of charcoal-broiled beef.
 A high carbohydrate/low protein diet can decrease the clearance and prolong the half-life of theophylline.
 
-Absorption Theophylline is rapidly and completely absorbed after oral administration in solution or immediate-release solid oral dosage form.
+AbsorptionTheophylline is rapidly and completely absorbed after oral administration in solution or immediate-release solid oral dosage form.
 After a single dose of 5 mg/kg in adults, a mean peak serum concentration of about 10 mcg/mL (range 5-15 mcg/mL) can be expected 1-2 hr after the dose.
 Co-administration of theophylline with food or antacids does not cause clinically significant changes in the absorption of theophylline from immediate-release dosage forms.
 
-Distribution Once theophylline enters the systemic circulation, about 40% is bound to plasma protein, primarily albumin.
+DistributionOnce theophylline enters the systemic circulation, about 40% is bound to plasma protein, primarily albumin.
 Unbound theophylline distributes throughout body water, but distributes poorly into body fat.
 The apparent volume of distribution of theophylline is approximately 0.45 L/kg (range 0.3-0.7 L/kg) based on ideal body weight.
 Theophylline passes freely across the placenta, into breast milk and into the cerebrospinal fluid (CSF).
@@ -91,7 +91,7 @@ If only total serum theophylline concentration is measured, this may lead to an 
 In patients with reduced protein binding, measurement of unbound serum theophylline concentration provides a more reliable means of dosage adjustment than measurement of total serum theophylline concentration.
 Generally, concentrations of unbound theophylline should be maintained in the range of 6-12 mcg/mL.
 
-Metabolism Following oral dosing, theophylline does not undergo any measurable first-pass elimination.
+MetabolismFollowing oral dosing, theophylline does not undergo any measurable first-pass elimination.
 In adults and children beyond one year of age, approximately 90% of the dose is metabolized in the liver.
 Biotransformation takes place through demethylation to 1-methylxanthine and 3-methylxanthine and hydroxylation to 1,3-dimethyluric acid.
 1 -methylxanthine is further hydroxylated, by xanthine oxidase, to 1-methyluric acid.
@@ -110,15 +110,15 @@ In neonates, caffeine may accumulate to concentrations that approximate the unme
 Both the N-demethylation and hydroxylation pathways of theophylline biotransformation are capacity-limited.
 Due to the wide intersubject variability of the rate of theophylline metabolism, non-linearity of elimination may begin in some patients at serum theophylline concentrations <10 mcg/mL.
 Since this non-linearity results in more than proportional changes in serum theophylline concentrations with changes in dose, it is advisable to make increases or decreases in dose in small increments in order to achieve desired changes in serum theophylline concentrations (see DOSAGE AND ADMINISTRATION, Table VI).
-Accurate prediction of dose-dependency of theophylline metabolism in patients a priori is not possible, but patients with very high initial clearance rates (i.e., low steady state serum theophylline concentrations at above average doses) have the greatest likelihood of experiencing large changes in serum theophylline concentration in response to dosage changes.
+Accurate prediction of dose-dependency of theophylline metabolism in patients a prioriis not possible, but patients with very high initial clearance rates (i.e., low steady state serum theophylline concentrations at above average doses) have the greatest likelihood of experiencing large changes in serum theophylline concentration in response to dosage changes.
 
-Excretion In neonates, approximately 50% of the theophylline dose is excreted unchanged in the urine.
+ExcretionIn neonates, approximately 50% of the theophylline dose is excreted unchanged in the urine.
 Beyond the first three months of life, approximately 10% of the theophylline dose is excreted unchanged in the urine.
 The remainder is excreted in the urine mainly as 1,3-dimethyluric acid (35-40%), 1-methyluric acid (20-25%) and 3-methylxanthine (15-20%).
 Since little theophylline is excreted unchanged in the urine and since active metabolites of theophylline (i.e., caffeine, 3-methylxanthine) do not accumulate to clinically significant levels even in the face of end-stage renal disease, no dosage adjustment for renal insufficiency is necessary in adults and children >3 months of age.
 In contrast, the large fraction of the theophylline dose excreted in the urine as unchanged theophylline and caffeine in neonates requires careful attention to dose reduction and frequent monitoring of serum theophylline concentrations in neonates with reduced renal function (See WARNINGS).
 
-Serum Concentrations at Steady State After multiple doses of theophylline, steady state is reached in 30-65 hours (average 40 hours) in adults.
+Serum Concentrations at Steady StateAfter multiple doses of theophylline, steady state is reached in 30-65 hours (average 40 hours) in adults.
 At steady state, on a dosage regimen with 6-hour intervals, the expected mean trough concentration is approximately 60% of the mean peak concentration, assuming a mean theophylline half-life of 8 hours.
 The difference between peak and trough concentrations is larger in patients with more rapid theophylline clearance.
 In patients with high theophylline clearance and half-lives of about 4-5 hours, such as children age 1 to 9 years, the trough serum theophylline concentration may be only 30% of peak with a 6-hour dosing interval.
@@ -128,46 +128,48 @@ Special Populations
 
 (See Table I for mean clearance and half-life values)
 
-Geriatric The clearance of theophylline is decreased by an average of 30% in healthy elderly adults (> 60 yrs) compared to healthy young adults.
+GeriatricThe clearance of theophylline is decreased by an average of 30% in healthy elderly adults (> 60 yrs) compared to healthy young adults.
 Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in elderly patients (see WARNINGS).
 
-Pediatrics The clearance of theophylline is very low in neonates (see WARNINGS).
+PediatricsThe clearance of theophylline is very low in neonates (see WARNINGS).
 Theophylline clearance reaches maximal values by one year of age, remains relatively constant until about 9 years of age and then slowly decreases by approximately 50% to adult values at about age 16.
 Renal excretion of unchanged theophylline in neonates amounts to about 50% of the dose, compared to about 10% in children older than three months and in adults.
 Careful attention to dosage selection and monitoring of serum theophylline concentrations are required in pediatric patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
-Gender Gender differences in theophylline clearance are relatively small and unlikely to be of clinical significance.
+GenderGender differences in theophylline clearance are relatively small and unlikely to be of clinical significance.
 Significant reduction in theophylline clearance, however, has been reported in women on the 20th day of the menstrual cycle and during the third trimester of pregnancy.
 
-Race Pharmacokinetic differences in theophylline clearance due to race have not been studied.
+RacePharmacokinetic differences in theophylline clearance due to race have not been studied.
 
-Renal Insufficiency Only a small fraction, e.g., about 10%, of the administered theophylline dose is excreted unchanged in the urine of children greater than three months of age and adults.
+Renal InsufficiencyOnly a small fraction, e.g., about 10%, of the administered theophylline dose is excreted unchanged in the urine of children greater than three months of age and adults.
 Since little theophylline is excreted unchanged in the urine and since active metabolites of theophylline (i.e., caffeine, 3-methylxanthine) do not accumulate to clinically significant levels even in the face of end-stage renal disease, no dosage adjustment for renal insufficiency is necessary in adults and children >3 months of age.
 In contrast, approximately 50% of the administered theophylline dose is excreted unchanged in the urine in neonates.
 Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in neonates with decreased renal function (see WARNINGS).
 
-Hepatic Insufficiency Theophylline clearance is decreased by 50% or more in patients with hepatic insufficiency (e.g., cirrhosis, acute hepatitis, cholestasis).
+Hepatic InsufficiencyTheophylline clearance is decreased by 50% or more in patients with hepatic insufficiency (e.g., cirrhosis, acute hepatitis, cholestasis).
 Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with reduced hepatic function (see WARNINGS).
 
-Congestive Heart Failure (CHF) Theophylline clearance is decreased by 50% or more in patients with CHF.
+Congestive Heart Failure (CHF)Theophylline clearance is decreased by 50% or more in patients with CHF.
 The extent of reduction in theophylline clearance in patients with CHF appears to be directly correlated to the severity of the cardiac disease.
 Since theophylline clearance is independent of liver blood flow, the reduction in clearance appears to be due to impaired hepatocyte function rather than reduced perfusion.
 Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with CHF (see WARNINGS).
 
-Smokers Tobacco and marijuana smoking appears to increase the clearance of theophylline by induction of metabolic pathways.
+SmokersTobacco and marijuana smoking appears to increase the clearance of theophylline by induction of metabolic pathways.
 Theophylline clearance has been shown to increase by approximately 50% in young adult tobacco smokers and by approximately 80% in elderly tobacco smokers compared to non-smoking subjects.
 Passive smoke exposure has also been shown to increase theophylline clearance by up to 50%.
 Abstinence from tobacco smoking for one week causes a reduction of approximately 40% in theophylline clearance.
 Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients who stop smoking (see WARNINGS).
 Use of nicotine gum has been shown to have no effect on theophylline clearance.
 
-Fever Fever, regardless of its underlying cause, can decrease the clearance of theophylline.
+FeverFever, regardless of its underlying cause, can decrease the clearance of theophylline.
 The magnitude and duration of the fever appear to be directly correlated to the degree of decrease of theophylline clearance.
 Precise data are lacking, but a temperature of 39˚C (102˚F) for at least 24 hours is probably required to produce a clinically significant increase in serum theophylline concentrations.
 Children with rapid rates of theophylline clearance (i.e., those who require a dose that is substantially larger than average [e.g., >22 mg/kg/day] to achieve a therapeutic peak serum theophylline concentration when afebrile) may be at greater risk of toxic effects from decreased clearance during sustained fever.
 Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with sustained fever (see WARNINGS).
 
-Miscellaneous Other factors associated with decreased theophylline clearance include the third trimester of pregnancy, sepsis with multiple organ failure, and hypothyroidism.
+Miscellaneous
+
+Other factors associated with decreased theophylline clearance include the third trimester of pregnancy, sepsis with multiple organ failure, and hypothyroidism.
 Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with any of these conditions (see WARNINGS).
 Other factors associated with increased theophylline clearance include hyperthyroidism and cystic fibrosis.
 

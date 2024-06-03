@@ -5,7 +5,9 @@
   "inn": "theophylline",
   "labeler": "Chartwell RX, LLC",
   "package_ndcs": [
-    "62135-556-47"
+    "62135-556-24",
+    "62135-556-47",
+    "62135-556-51"
   ],
   "products": [
     {

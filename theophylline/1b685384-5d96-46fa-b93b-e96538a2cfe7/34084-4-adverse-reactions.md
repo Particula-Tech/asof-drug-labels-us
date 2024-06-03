@@ -20,29 +20,29 @@ Manifestations of theophylline toxicity.*
 | --- | --- | --- | --- | --- |
 | Acute Overdose (Large Single Dose) |  | Chronic Overdosage (Multiple Excessive Doses) |  |  |
 | Sign/Symptom | Study 1 (n=157) | Study 2 (n=14) | Study 1 (n=92) | Study 2 (n=102) |
-| Asymptomatic | NR** | 0 | NR** | 6 |
+| Asymptomatic | NR ** | 0 | NR ** | 6 |
 | Gastrointestinal |  |  |  |  |
 | Vomiting | 73 | 93 | 30 | 61 |
-| Abdominal Pain | NR** | 21 | NR** | 12 |
-| Diarrhea | NR** | 0 | NR** | 14 |
-| Hematemesis | NR** | 0 | NR** | 2 |
+| Abdominal Pain | NR ** | 21 | NR ** | 12 |
+| Diarrhea | NR ** | 0 | NR ** | 14 |
+| Hematemesis | NR ** | 0 | NR ** | 2 |
 | Metabolic/Other |  |  |  |  |
 | Hypokalemia | 85 | 79 | 44 | 43 |
-| Hyperglycemia | 98 | NR** | 18 | NR** |
+| Hyperglycemia | 98 | NR ** | 18 | NR ** |
 | Acid/base disturbance | 34 | 21 | 9 | 5 |
-| Rhabdomyolysis | NR** | 7 | NR** | 0 |
+| Rhabdomyolysis | NR ** | 7 | NR ** | 0 |
 | Cardiovascular |  |  |  |  |
 | Sinus tachycardia | 100 | 86 | 100 | 62 |
 | Other supraventricular tachycardias | 2 | 21 | 12 | 14 |
 | Ventricular premature beats | 3 | 21 | 10 | 19 |
-| Atrial fibrillation or flutter | 1 | NR** | 12 | NR** |
-| Multifocal atrial tachycardia | 0 | NR** | 2 | NR** |
+| Atrial fibrillation or flutter | 1 | NR ** | 12 | NR ** |
+| Multifocal atrial tachycardia | 0 | NR ** | 2 | NR ** |
 | Ventricular arrhythmias with hemodynamic instability | 7 | 14 | 40 | 0 |
-| Hypotension/shock | NR** | 21 | NR** | 8 |
+| Hypotension/shock | NR ** | 21 | NR ** | 8 |
 | Neurologic |  |  |  |  |
-| Nervousness | NR** | 64 | NR** | 21 |
+| Nervousness | NR ** | 64 | NR ** | 21 |
 | Tremors | 38 | 29 | 16 | 14 |
-| Disorientation | NR** | 7 | NR** | 11 |
+| Disorientation | NR ** | 7 | NR ** | 11 |
 | Seizures | 5 | 14 | 14 | 5 |
 | Death | 3 | 21 | 10 | 4 |
 
