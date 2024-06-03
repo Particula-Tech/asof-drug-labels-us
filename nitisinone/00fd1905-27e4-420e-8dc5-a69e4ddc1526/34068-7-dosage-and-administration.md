@@ -128,7 +128,7 @@ Administer the entire NITYR-applesauce mixture to the patient immediately or wit
 6.
 To ensure that there is not any remaining NITYR-applesauce mixture, add approximately one teaspoon of applesauce to the same container and administer to the patient.
 
-Storage Instructions for the NITYR Mixed in Apple Sauce
+Storage Instructions for NITYR Mixed in Apple Sauce
 
 The mixture can be stored at room temperature, out of direct sunlight, for up to 2 hours after adding the crushed tablets to the applesauce.
 Discard after 2 hours.

@@ -1,6 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-Serious and or clinically significant adverse reactions described elsewhere in labeling include: Ocular Symptoms, Developmental Delay and Hyperkeratotic Plaques Due To Elevated Plasma Tyrosine Levels Due to Elevated Plasma Tyrosine Levels, [see Warnings and Precautions (5.1)] Leukopenia and Severe Thrombocytopenia [see Warnings and Precautions (5.2)]
+Serious and or clinically significant adverse reactions described elsewhere in labeling include:
+
+- Ocular Symptoms, Developmental Delay and Hyperkeratotic Plaques Due To Elevated Plasma Tyrosine Levels [see Warnings and Precautions (5.1)]
+- Leukopenia and Severe Thrombocytopenia [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
