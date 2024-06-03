@@ -9,4 +9,4 @@ It is non-hygroscopic and freely soluble in water, but practically insoluble in 
 The empirical formula is CH​4N2O2 and it has a molecular weight of 76.05.
 Its structural formula is:
 
-FDA approved dissolution test differs from the USP dissolution test.
+Meets USP dissolution test 2.
