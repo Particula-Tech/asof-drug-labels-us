@@ -33,7 +33,7 @@ Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administr
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
 In clinical trials, cases of dependency were reported following abrupt discontinuation of clobazam.
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clobazam or reduce the dosage [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clobazam or reduce the dosage [see Dosage and Administration (2.2)and Warnings and Precautions (5.3)].
 
 Acute Withdrawal Signs and Symptoms
 

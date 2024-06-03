@@ -9,7 +9,7 @@ Healthcare providers are encouraged to recommend that pregnant women taking clob
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations].
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.9)and Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
@@ -28,7 +28,7 @@ Fetal/Neonatal Adverse Reactions
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
 Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
 Monitor neonates exposed to clobazam during pregnancy for signs of withdrawal.
-Manage these neonates accordingly [see Warnings and Precautions (5.8)].
+Manage these neonates accordingly [see Warnings and Precautions (5.9)].
 
 Data
 
@@ -98,7 +98,7 @@ For this reason, dosage modification is recommended [see Dosage and Administrati
 ## 8.7 Renal Impairment
 
 The pharmacokinetics of clobazam were evaluated in patients with mild and moderate renal impairment.
-There were no significant differences in systemic exposure (AUC and Cmax) between patients with mild or moderate renal impairment and healthy subjects.
+There were no significant differences in systemic exposure (AUC and C max) between patients with mild or moderate renal impairment and healthy subjects.
 No dose adjustment is required for patients with mild and moderate renal impairment.
 There is essentially no experience with clobazam in patients with severe renal impairment or ESRD.
 It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].

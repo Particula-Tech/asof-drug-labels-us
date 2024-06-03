@@ -22,7 +22,7 @@ Recommended Total Daily Dosing by Weight Group
 To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clobazam or reduce the dosage.
 Taper by decreasing the total daily dose by 5 to 10 mg/day on a weekly basis until discontinued.
 If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
-Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
+Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3)and Drug Abuse and Dependence (9.3)].
 
 ## 2.3 Important Administration Instructions
 

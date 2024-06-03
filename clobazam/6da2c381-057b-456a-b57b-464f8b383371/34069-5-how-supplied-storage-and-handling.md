@@ -10,7 +10,7 @@ Clobazam tablets 20 mg are white to off-white, oval tablets with functional scor
 | Bottles of 100 | NDC 0832-0581-11 |
 | --- | --- |
 
-Storage: Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Storage:Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container with a child-resistant closure.
 

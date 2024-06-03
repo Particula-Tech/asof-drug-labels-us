@@ -10,4 +10,4 @@
 - The continued use of benzodiazepines, including clobazam, may lead to clinically significant physical dependence.
   The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
   Abrupt discontinuation or rapid dosage reduction of clobazam after continued use may precipitate acute withdrawal reactions, which can be life-threatening.
-  To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clobazam or reduce the dosage [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
+  To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clobazam or reduce the dosage [see Dosage and Administration (2.2)and Warnings and Precautions (5.3)].
