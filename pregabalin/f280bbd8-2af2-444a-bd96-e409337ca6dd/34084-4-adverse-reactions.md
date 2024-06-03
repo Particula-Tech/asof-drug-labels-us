@@ -37,50 +37,50 @@ Table 4 lists all adverse reactions, regardless of causality, occurring in great
 Table 4.
 Incidence of Adverse Reactions Reported in Greater Than or Equal to 1% of Subjects in Any Phase of the LYRICA CR Study in Patients with Postherpetic Neuralgia*
 
-| System Organ Class Preferred Term | Single-Blind Phase |  | Double-Blind Phase |  |
-| --- | --- | --- | --- | --- |
-| LYRICA CR [N=801] n (%) | LYRICA CR [N=208] n (%) |  | Placebo [N=205] n (%) |  |
-| Ear and labyrinth disorders |  |  |  |  |
-| Vertigo | 31 (3.9) | 2 (1.0) |  | 1 (0.5) |
-| Eye disorders |  |  |  |  |
-| Vision blurred | 30 (3.7) | 1 (0.5) |  | 0 |
-| Diplopia | 8 (1.0) | 1 (0.5) |  | 0 |
-| Gastrointestinal disorders |  |  |  |  |
-| Dry mouth | 30 (3.7) | 1 (0.5) |  | 0 |
-| Nausea | 24 (3.0) | 7 (3.4) |  | 0 |
-| Constipation | 22 (2.7) | 0 |  | 0 |
-| Diarrhea | 11 (1.4) | 2 (1.0) |  | 1 (0.5) |
-| Vomiting | 9 (1.1) | 3 (1.4) |  | 1 (0.5) |
-| General disorders and administration site conditions |  |  |  |  |
-| Edema peripheral | 39 (4.9) | 8 (3.8) |  | 1 (0.5) |
-| Fatigue | 31 (3.9) | 3 (1.4) |  | 2 (1.0) |
-| Edema | 3 (0.4) | 3 (1.4) |  | 0 |
-| Infections and infestations |  |  |  |  |
-| Nasopharyngitis | 12 (1.5) | 3 (1.4) |  | 0 |
-| Urinary tract infection | 11 (1.4) | 3 (1.4) |  | 1 (0.5) |
-| Bronchitis | 4 (0.5) | 3 (1.4) |  | 2 (1.0) |
-| Respiratory tract infection viral | 3 (0.4) | 3 (1.4) |  | 1 (0.5) |
-| Sinusitis | 3 (0.4) | 2 (1.0) |  | 0 |
-| Gastroenteritis viral | 2 (0.2) | 2 (1.0) |  | 0 |
-| Investigations |  |  |  |  |
-| Weight increased | 20 (2.5) | 8 (3.8) |  | 2 (1.0) |
-| Alanine aminotransferase increased | 2 (0.2) | 3 (1.4) |  | 0 |
-| Aspartate aminotransferase increased | 2 (0.2) | 2 (1.0) |  | 0 |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Arthralgia | 6 (0.7) | 2 (1.0) |  | 1 (0.5) |
-| Joint swelling | 0 | 4 (1.9) |  | 0 |
-| Nervous system disorders |  |  |  |  |
-| Dizziness | 137 (17.1) | 7 (3.4) |  | 1 (0.5) |
-| Somnolence | 91 (11.4) | 1 (0.5) |  | 0 |
-| Headache | 31 (3.9) | 4 (1.9) |  | 1 (0.5) |
-| Balance disorder | 21 (2.6) | 1 (0.5) |  | 0 |
-| Reproductive system and breast disorders |  |  |  |  |
-| Erectile dysfunction | 2 (0.6) | 1 (1.4) |  | 0 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
-| Cough | 2 (0.2) | 2 (1.0) |  | 1 (0.5) |
-| Skin and subcutaneous tissue disorders |  |  |  |  |
-| Dermatitis contact | 0 | 2 (1.0) |  | 0 |
-| * Table is limited to adverse reactions that occurred with higher incidence in LYRICA CR-treated patients than in placebo-treated patients for the DB Phase of the study. |  |  |  |  |
+| System Organ Class Preferred Term | Single-Blind Phase | Double-Blind Phase |  |
+| --- | --- | --- | --- |
+| LYRICA CR [N=801] n (%) | LYRICA CR [N=208] n (%) | Placebo [N=205] n (%) |  |
+| Ear and labyrinth disorders |  |  |  |
+| Vertigo | 31 (3.9) | 2 (1.0) | 1 (0.5) |
+| Eye disorders |  |  |  |
+| Vision blurred | 30 (3.7) | 1 (0.5) | 0 |
+| Diplopia | 8 (1.0) | 1 (0.5) | 0 |
+| Gastrointestinal disorders |  |  |  |
+| Dry mouth | 30 (3.7) | 1 (0.5) | 0 |
+| Nausea | 24 (3.0) | 7 (3.4) | 0 |
+| Constipation | 22 (2.7) | 0 | 0 |
+| Diarrhea | 11 (1.4) | 2 (1.0) | 1 (0.5) |
+| Vomiting | 9 (1.1) | 3 (1.4) | 1 (0.5) |
+| General disorders and administration site conditions |  |  |  |
+| Edema peripheral | 39 (4.9) | 8 (3.8) | 1 (0.5) |
+| Fatigue | 31 (3.9) | 3 (1.4) | 2 (1.0) |
+| Edema | 3 (0.4) | 3 (1.4) | 0 |
+| Infections and infestations |  |  |  |
+| Nasopharyngitis | 12 (1.5) | 3 (1.4) | 0 |
+| Urinary tract infection | 11 (1.4) | 3 (1.4) | 1 (0.5) |
+| Bronchitis | 4 (0.5) | 3 (1.4) | 2 (1.0) |
+| Respiratory tract infection viral | 3 (0.4) | 3 (1.4) | 1 (0.5) |
+| Sinusitis | 3 (0.4) | 2 (1.0) | 0 |
+| Gastroenteritis viral | 2 (0.2) | 2 (1.0) | 0 |
+| Investigations |  |  |  |
+| Weight increased | 20 (2.5) | 8 (3.8) | 2 (1.0) |
+| Alanine aminotransferase increased | 2 (0.2) | 3 (1.4) | 0 |
+| Aspartate aminotransferase increased | 2 (0.2) | 2 (1.0) | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+| Arthralgia | 6 (0.7) | 2 (1.0) | 1 (0.5) |
+| Joint swelling | 0 | 4 (1.9) | 0 |
+| Nervous system disorders |  |  |  |
+| Dizziness | 137 (17.1) | 7 (3.4) | 1 (0.5) |
+| Somnolence | 91 (11.4) | 1 (0.5) | 0 |
+| Headache | 31 (3.9) | 4 (1.9) | 1 (0.5) |
+| Balance disorder | 21 (2.6) | 1 (0.5) | 0 |
+| Reproductive system and breast disorders |  |  |  |
+| Erectile dysfunction | 2 (0.6) | 1 (1.4) | 0 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |  |
+| Cough | 2 (0.2) | 2 (1.0) | 1 (0.5) |
+| Skin and subcutaneous tissue disorders |  |  |  |
+| Dermatitis contact | 0 | 2 (1.0) | 0 |
+| * Table is limited to adverse reactions that occurred with higher incidence in LYRICA CR-treated patients than in placebo-treated patients for the DB Phase of the study. |  |  |  |
 
 ### Other Adverse Reactions Observed During Clinical Studies with LYRICA and LYRICA CR
 

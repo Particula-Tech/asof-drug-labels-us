@@ -44,8 +44,6 @@ Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 | Other | 1.0 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
-1. 
-
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
 Anyone considering prescribing LYRICA CR must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
@@ -123,7 +121,7 @@ In standard preclinical in vivo lifetime carcinogenicity studies of pregabalin, 
 The clinical significance of this finding is unknown.
 Clinical experience during premarketing development of LYRICA provides no direct means to assess its potential for inducing tumors in humans.
 
-In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients greater than 12 years of age, new or worsening-preexisting tumors were reported in 57 patients.
+In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients greater than 12 years of age, new or worsening preexisting tumors were reported in 57 patients.
 Without knowledge of the background incidence and recurrence in similar populations not treated with pregabalin, it is impossible to know whether the incidence seen in these cohorts is or is not affected by treatment.
 
 ## 5.10 Ophthalmological Effects

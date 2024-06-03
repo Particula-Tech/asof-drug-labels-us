@@ -78,12 +78,10 @@ Instruct diabetic patients to pay particular attention to skin integrity while b
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-Made in Germany
-
-© 2023 Viatris Inc.
+© 2024 Viatris Inc.
 
 LYRICA is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:LYRCCR:RXB
+UPJ:LYRCCR:R1

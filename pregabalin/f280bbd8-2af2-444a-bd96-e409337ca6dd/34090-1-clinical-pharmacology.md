@@ -4,7 +4,7 @@
 
 Pregabalin binds with high affinity to the alpha2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.
 Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin’s anti-nociceptive and antiseizure effects in animals.
-In animal models of nerve damage, pregabalin has been shown to reduce calcium-dependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2-delta containing-calcium channel trafficking and/or reducing calcium currents.
+In animal models of nerve damage, pregabalin has been shown to reduce calcium-dependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2-delta-containing calcium channel trafficking and/or reducing calcium currents.
 Evidence from other animal models of nerve damage and persistent pain suggest the anti-nociceptive activities of pregabalin may also be mediated through interactions with descending noradrenergic and serotonergic pathways originating from the brainstem that modulate pain transmission in the spinal cord.
 
 While pregabalin is a structural derivative of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), it does not bind directly to GABAA, GABAB, or benzodiazepine receptors, does not augment GABAA responses in cultured neurons, does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation.
@@ -142,7 +142,7 @@ Pregabalin co-administration (200 mg 3 times a day) had no effect on the steady-
 
 #### Oxycodone
 
-Multiple- dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of oxycodone single-dose pharmacokinetics.
+Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of oxycodone single-dose pharmacokinetics.
 Single-dose administration of oxycodone (10 mg) had no effect on the steady-state pharmacokinetics of pregabalin.
 Additive effects on cognitive and gross motor functioning were seen when LYRICA was co-administered with oxycodone.
 No clinically important effects on respiration were seen [see Drug Interactions (7)].
