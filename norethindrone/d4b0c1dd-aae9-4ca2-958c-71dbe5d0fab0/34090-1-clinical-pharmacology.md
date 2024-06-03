@@ -112,7 +112,7 @@ In postmenopausal women, a significant proportion of the circulating estrogens e
 
 Norethindrone Acetate
 
-The most important metabolites of norethindrone are isomers of 5a-dihydro-norethindrone and tetrahydro-norethindrone, which are excreted mainly in the urine as sulfate or glucuronide conjugates.
+The most important metabolites of norethindrone are isomers of 5α-dihydro-norethindrone and tetrahydro-norethindrone, which are excreted mainly in the urine as sulfate or glucuronide conjugates.
 
 Excretion
 

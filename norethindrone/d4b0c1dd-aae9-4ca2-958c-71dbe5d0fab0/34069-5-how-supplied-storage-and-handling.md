@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Activella (estradiol/norethindrone acetate) tablets, 1 mg/0.5 mgare available as white, round, biconvex, film-coated tablets, debossed with “ALH” on the one side and plain on the other side.
+Activella (estradiol/norethindrone acetate) tablets, 1 mg/0.5 mg are available as white, round, biconvex, film-coated tablets, debossed with “ALH” on the one side and plain on the other side.
 
 (NDC 60846-232-01).
 It is supplied as 28 tablets in a blister pack, one blister pack per carton.

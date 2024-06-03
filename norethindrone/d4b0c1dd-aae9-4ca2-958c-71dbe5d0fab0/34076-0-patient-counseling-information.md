@@ -18,14 +18,10 @@ Rx Only
 
 Activella® is a registered trademark owned by Novo Nordisk Health Care AG.
 
-Distributed by:
-
-Amneal Specialty, a division of Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Specialty, a division of Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2021-03
+11-2023-04
 
 # PATIENT INFORMATION
 
@@ -79,9 +75,9 @@ See the list of ingredients in ACTIVELLA at the end of this leaflet.
 
 Before you use ACTIVELLA, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have any unusual vaginal bleedingVaginal bleeding after menopause may bea warning sign of cancer of the uterus (womb).
+- have any unusual vaginal bleedingVaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- have any other medical conditions that may become worse while you are using ACTIVELLAYour healthcare provider may need to check you morecarefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- have any other medical conditions that may become worse while you are using ACTIVELLAYour healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 - are going to have surgery or will be on bed rest Your healthcare provider will let you know if you need to stop using ACTIVELLA.
 - are pregnant or think you may be pregnant
 
@@ -91,7 +87,7 @@ ACTIVELLA is not for pregnant women.
 
 The hormones in ACTIVELLA can pass into your breast milk.
 
-Tell your healthcare provider about all the medicines you take, includingprescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Some medicines may affect how ACTIVELLA works.
 ACTIVELLA may also affect how your other medicines work.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get new medicine.
@@ -103,7 +99,7 @@ How should I use ACTIVELLA?
 
 You and your healthcare provider should talk regularly (every 3 to 6 months) about your dose and whether you still need treatment with ACTIVELLA.
 
-What are the possible side effects ofACTIVELLA?
+What are the possible side effects of ACTIVELLA?
 
 Side effects are grouped by how serious they are and how often they happen when you are treated.
 
@@ -140,7 +136,7 @@ Call your healthcare provider right away if you get any of the following warning
 Common side effects of ACTIVELLA include:
 
 - irregular vaginal bleeding or spotting
-- ·nausea
+- nausea
 - stomach or abdominal cramps, bloating
 - headache
 - vomiting
@@ -156,7 +152,7 @@ Tell your healthcare provider if you have any side effects that bother you or do
 
 You may report side effects to Amneal Pharmaceuticals at 1-877-835-5472 or to FDA at 1-800-FDA-1088.
 
-What can I do to lower my chances of a serious side effect withACTIVELLA?
+What can I do to lower my chances of a serious side effect with ACTIVELLA?
 
 - Talk with your healthcare provider regularly about whether you should continue using ACTIVELLA.
 - If you have a uterus, talk with your healthcare provider about whether ACTIVELLA is right for you.
@@ -169,14 +165,14 @@ What can I do to lower my chances of a serious side effect withACTIVELLA?
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
 - Ask your healthcare provider for ways to lower your chances for getting heart disease.
 
-How should I storeACTIVELLA?
+How should I store ACTIVELLA?
 
 - Store ACTIVELLA at room temperature between 68°F to 77°F (20°C to 25°C).
 - Store ACTIVELLA in a dry place protected from light.
 
 KEEP ACTIVELLA and all medicines out of the reach of children.
 
-General information about the safe and effective use ofACTIVELLA.
+General information about the safe and effective use of ACTIVELLA.
 
 Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
 Do not use ACTIVELLA for conditions for which it was not prescribed.
@@ -187,7 +183,7 @@ You can ask your healthcare provider or pharmacist for information about ACTIVEL
 
 For more information go to www.activella.com or call 1-877-835-5472.
 
-What are the ingredients inACTIVELLA?
+What are the ingredients in ACTIVELLA?
 
 Active ingredients: estradiol and norethindrone acetate
 
@@ -201,11 +197,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Activella® is a registered trademark owned by Novo Nordisk Health Care AG.
 
-Distributed by:
-
-Amneal Specialty, a division of Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Specialty, a division of Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
 08-2021-03
