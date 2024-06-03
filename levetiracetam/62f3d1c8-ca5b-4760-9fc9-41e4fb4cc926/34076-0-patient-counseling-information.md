@@ -17,6 +17,11 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.4)].
 
+DRESS/Multiorgan Hypersensitivity
+
+Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+Levetiracetam should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions(5.5)].
+
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam therapy.

@@ -73,7 +73,7 @@ This is most likely due to the decrease in renal function in these subjects.
 
 #### Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
 
 #### Gender
 

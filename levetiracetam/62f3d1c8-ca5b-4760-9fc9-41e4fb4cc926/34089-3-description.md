@@ -14,8 +14,6 @@ It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 m
 Levetiracetam in Sodium Chloride Injection is a clear, colorless, sterile solution that is available in a single-dose dual port bag with an aluminum overwrap.
 The container closure is not made with natural rubber latex.
 
-250 mg/50 mL: One 50 mL bag contains 250 mg of levetiracetam (5 mg/mL), water for injection, 410 mg sodium chloride, 2.75 mg of glacial acetic acid and buffered at approximately pH 5.5 with glacial acetic acid and 82 mg sodium acetate trihydrate.
-
 500 mg/100 mL: One 100 mL bag contains 500 mg of levetiracetam (5 mg/mL), water for injection, 820 mg sodium chloride, 5.5 mg of glacial acetic acid and buffered at approximately pH 5.5 with glacial acetic acid and 164 mg sodium acetate trihydrate.
 
 1000 mg/100 mL: One 100 mL bag contains 1000 mg of levetiracetam (10 mg/mL), water for injection, 750 mg sodium chloride, 6.5 mg of glacial acetic acid and buffered at approximately pH 5.5 with glacial acetic acid and 164 mg sodium acetate trihydrate.

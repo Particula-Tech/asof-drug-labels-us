@@ -3,7 +3,7 @@
 ## 2.1 General Information – Administration
 
 Levetiracetam in Sodium Chloride Injection is for intravenous infusion only.
-It is available in the following concentrations: one single-dose 50 mL bag of levetiracetam (250 mg [5 mg/mL]) and three single-dose 100 mL bags, each containing a different total dosage of levetiracetam (500 mg [5 mg/mL], 1000 mg [10 mg/mL], or 1500 mg [15 mg/mL]).
+It is available in the following concentrations: three single-dose 100 mL bags, each containing a different total dosage of levetiracetam (500 mg [5 mg/mL], 1000 mg [10 mg/mL], or 1500 mg [15 mg/mL]).
 
 A single-dose bag should be administered intravenously over a 15-minute IV infusion period.
 
@@ -62,7 +62,7 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Functi
 | Severe | less than 30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | ---- | 500 to 1,000 | Following dialysis, a 250 mg to 500 mg supplemental dose is recommended.Every 24 hours |
 
-## 2.6 Compatibility With Other Antiepileptic Drugs
+## 2.6 Compatibility with Other Antiepileptic Drugs
 
 Levetiracetam in Sodium Chloride Injection is found to be physically compatible and chemically stable for at least 24 hours when mixed with lorazepam, diazepam, and valproate sodium and stored at controlled room temperature 15°C to 30°C (59°F to 86°F).
 
@@ -70,4 +70,4 @@ There are no data to support the physical compatibility of levetiracetam injecti
 
 ## 2.7 Discontinuation of Levetiracetam
 
-Avoid abrupt withdrawal from levetiracetam in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
+Avoid abrupt withdrawal from levetiracetam in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].

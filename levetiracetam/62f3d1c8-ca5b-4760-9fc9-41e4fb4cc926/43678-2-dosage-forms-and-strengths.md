@@ -1,8 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: Levetiracetam in Sodium Chloride Injection is a clear, colorless solution packaged in a single-dose bag and available in four strengths:
+Injection: Levetiracetam in Sodium Chloride Injection is a clear, colorless solution packaged in a single-dose bag and available in three strengths:
 
-- •250 mg/50 mL (5 mg/mL): 250 mg levetiracetam in 0.82% sodium chloride
 - •500 mg/100 mL (5 mg/mL): 500 mg levetiracetam in 0.82% sodium chloride
 - •1000 mg/100 mL (10 mg/mL): 1000 mg levetiracetam in 0.75% sodium chloride
 - •1500 mg/100 mL (15 mg/mL): 1500 mg levetiracetam in 0.54% sodium chloride
