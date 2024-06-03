@@ -8,7 +8,7 @@ Follow the detailed instructions below to ensure correct preparation of ELIGARD 
 | Step 3Holding the syringes in a horizontal position, transfer the liquid contents of Syringe A into the leuprolide acetate powder contained in Syringe B. Thoroughly mix the product for 60 cycles by pushing the contents back and forth between both syringes to obtain a uniform suspension. A cycle is one push of the Syringe A plunger and one push of the Syringe B plunger.When thoroughly mixed, the suspension will appear light tan to tan (ELIGARD 7.5 mg) or colorless to pale yellow (ELIGARD 22.5 mg, 30 mg, and 45 mg). Note: Product must be mixed as described; shaking will NOT provide adequate mixing. Do not bend. |  |
 | Step 4 After mixing, hold the syringes vertically (upright) with Syringe B (wide syringe) on the bottom. The syringes should remain securely coupled. Transfer all of the mixed product into Syringe B by depressing the Syringe A plunger and slightly withdrawing the Syringe B plunger. |  |
 | Step 5While ensuring the Syringe A plunger is fully pushed down, hold the coupling device and unscrew Syringe B. This will disconnect Syringe B from the coupling device. Syringe A will remain attached to the coupling device.Note: Small air bubbles will remain in the formulation – this is acceptable.Do not purge the air bubbles from Syringe B as product may be lost! |  |
-| Step 6Continue to hold Syringe B upright with the open end at the top. Hold back the white plunger on Syringe B to prevent loss of the product and attach the safety needle and cap. Gently screw clockwise with approximately a three-quarter turn until the safety needle and cap are secure.Do not overtighten, as the needle hub may become damaged which could result in leakage of the product during injection. The safety shield may also be damaged if the safety needle and cap are screwed with too much force. |  |
+| Step 6Continue to hold Syringe B upright with the open end at the top. Hold back the white plunger on Syringe B to prevent loss of the product, and attach the safety needle and cap (the safety needle is located under the tray). Gently screw clockwise with approximately a three-quarter turn until the safety needle and cap are secure.Do not overtighten, as the needle hub may become damaged which could result in leakage of the product during injection. The safety shield may also be damaged if the safety needle and cap are screwed with too much force. |  |
 | Step 7Move the safety shield away from the needle and towards the syringe. Pull off the cap immediately prior to administration. |  |
 
 Note: Should the needle hub appear to be damaged, or leak, the product should NOT be used.
@@ -25,4 +25,4 @@ Follow the detailed instructions below to ensure correct administration of ELIGA
 ©2024 Tolmar
 
 Manufactured by: Tolmar, Fort Collins, CO 80526 04006512 Rev.
-3 01/2024
+4 05/2024

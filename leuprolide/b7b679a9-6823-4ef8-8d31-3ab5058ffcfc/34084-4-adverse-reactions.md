@@ -68,8 +68,8 @@ Summary of Possible or Probably Related Systemic Adverse Reactions Reported by >
 | Night sweats | - | - | - | 3 (3.3%)* | 3 (2.7%)* |  |  |  |
 | Alopecia | - | - | - | 2 (2.2%) | - |  |  |  |
 | Musculoskeletal |  |  | Arthralgia | - | - | 4 (3.4%) | - | - |
-| Pain in limb | - | - | - | 2 (2.2%) | 5 (4.5%) |  |  |  |
-| Myalgia | - | - | - | - | 3 (2.7%) |  |  |  |
+| Myalgia | - | - | - | 2 (2.2%) | 5 (4.5%) |  |  |  |
+| Pain in Limb | - | - | - | - | 3 (2.7%) |  |  |  |
 | Reproductive |  |  | Testicular atrophy | 6 (5.0%)* | - | - | 4 (4.4%)* | 8 (7.2%)* |
 | Gynecomastia | - | - | - | 2 (2.2%)* | 4 (3.6%)* |  |  |  |
 | Testicular pain | - | - | - | 2 (2.2%) | - |  |  |  |
