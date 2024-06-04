@@ -7,8 +7,7 @@ Supplied as:
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-0161-10 | 4 mg/4 mL |
-| 10 vials in a Carton | (1 mg/mL) |
+| NDC 0409-0161-1010 vials in a Carton | 4 mg/4 mL(1 mg/mL) |
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]

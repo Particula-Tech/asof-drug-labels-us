@@ -6,13 +6,10 @@ Risk Summary
 
 Limited published data consisting of a small number of case reports and multiple small trials involving the use of norepinephrine in pregnant women at the time of delivery have not identified an increased risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There are risks to the mother and fetus from hypotension associated with septic shock, myocardial infarction and stroke which are medical emergencies in pregnancy and can be fatal if left untreated.
-(see Error!
-Hyperlink reference not valid.).
+(see Clinical Considerations).
 In animal reproduction studies, using high doses of intravenous norepinephrine resulted in lowered maternal placental blood flow.
-Clinical relevance to changes in the human fetus is unknown since the average maintenance dose is ten times lower (see Error!
-Hyperlink reference not valid.).
-Increased fetal reabsorptions were observed in pregnant hamsters after receiving daily injections at approximately 2 times the maximum recommended dose on a mg/m3 basis for four days during organogenesis (see Error!
-Hyperlink reference not valid.).
+Clinical relevance to changes in the human fetus is unknown since the average maintenance dose is ten times lower (see Data).
+Increased fetal reabsorptions were observed in pregnant hamsters after receiving daily injections at approximately 2 times the maximum recommended dose on a mg/m3 basis for four days during organogenesis (see Data).
 
 The estimated background risk for major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
