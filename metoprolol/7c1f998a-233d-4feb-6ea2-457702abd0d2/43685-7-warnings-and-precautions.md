@@ -24,6 +24,11 @@ Bronchodilators, including beta2-agonists, should be readily available or admini
 If metoprolol tartrate is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
 Administration of beta-blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
 
-## 5.5 Peripheral Vascular Disease
+## 5.5 Hypoglycemia
+
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
+
+## 5.6 Peripheral Vascular Disease
 
 Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease.

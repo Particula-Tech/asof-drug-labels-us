@@ -40,9 +40,9 @@ These observational studies cannot definitely establish or exclude any drug-asso
 
 Animal Data
 
-Metoprolol has been shown to increase post-implantation loss and decrease neonatal survival in rats at oral dosages of 500 mg/kg/day, i.e. 24 times, on a mg/m2 basis, the daily dose of 200 mg in a 60-kg patient.
+Metoprolol has been shown to increase post-implantation loss and decrease neonatal survival in rats at oral dosages of 500 mg/kg/day, i.e., 24 times, on a mg/m2 basis, the daily dose of 200 mg in a 60-kg patient.
 
-No fetal abnormalities were observed when pregnant rats received metoprolol orally up to a dose of 200 mg/kg/day, i.e. 10 times, the daily dose of 200 mg in a 60-kg patient.
+No fetal abnormalities were observed when pregnant rats received metoprolol orally up to a dose of 200 mg/kg/day, i.e., 10 times, the daily dose of 200 mg in a 60-kg patient.
 
 ## 8.2 Lactation
 
