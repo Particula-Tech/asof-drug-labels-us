@@ -26,4 +26,11 @@ Table 5: Adverse Events (AEs) Reported in ≥3% of the Combined Clinical Trial P
 
 The change in clinical attachment levels was similar across all study arms, suggesting that neither the vehicle nor ARESTIN compromise clinical attachment.
 
+## Postmarketing Experience
+
+The following adverse reaction has been identified during postapproval use of minocycline products when taken orally.
+Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and subcutaneous tissue disorders: Acute febrile neutrophilic dermatosis (Sweet’s syndrome).
+
 To report SUSPECTED ADVERSE REACTIONS, contact OraPharma at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -61,7 +61,7 @@ Fertility and general reproduction studies have provided evidence that minocycli
 
 ## Pregnancy
 
-Teratogenic Effects: (See WARNINGS.)
+Teratogenic Effects: (see WARNINGS).
 
 ## Labor and Delivery
 

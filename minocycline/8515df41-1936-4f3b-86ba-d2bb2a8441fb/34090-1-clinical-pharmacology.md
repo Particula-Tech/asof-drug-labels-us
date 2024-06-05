@@ -38,10 +38,11 @@ Table 1: Probing Pocket Depth at Baseline and Change in Pocket Depth at 9 Months
 
 |  | SRP Alone n=124 | SRP + Vehicle n=123 | SRP + ARESTIN n=121 | SRP Alone n=126 | SRP + Vehicle n=126 | SRP + ARESTIN n=128 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Time | Study OPI-103A N=368 |  |  |  | Study OPI-103B N=380 |  |
-| PD (mm) at Baseline | 5.88 ±0.04 | 5.91 ±0.04 | 5.88 ±0.04 | 5.79 ±0.03 | 5.82 ±0.04 | 5.81 ±0.04 |
-| [Mean ± SE] |  |  |  |  |  |  |
-| PD (mm) Change from Baseline at 9 Months [Mean ± SE] | -1.04 ±0.07 | -0.90±0.54 | -1.20*††±0.07 | -1.32±0.07 | -1.30±0.07 | -1.63**††±0.07 |
+| Time | Study OPI-103A N=368 |  |  | Study OPI-103B N=380 |  |  |
+| PD (mm) at Baseline [Mean ± SE] | 5.88 | 5.91 | 5.88 | 5.79 | 5.82 | 5.81 |
+| ±0.04 | ±0.04 | ±0.04 | ±0.03 | ±0.04 | ±0.04 |  |
+| PD (mm) Change from Baseline at 9 Months [Mean ± SE] | -1.04 | -0.90 | -1.20*†† | -1.32 | -1.30 | -1.63**†† |
+| ±0.07 | ±0.54 | ±0.07 | ±0.07 | ±0.07 | ±0.07 |  |
 | SE = standard error; SRP = scaling and root planing; PD = pocket depth |  |  |  |  |  |  |
 | Significantly different from SRP: *(P ≤0.05); **(P ≤0.001) |  |  |  |  |  |  |
 | Significantly different from SRP + vehicle: ††(P ≤0.001) |  |  |  |  |  |  |
@@ -49,36 +50,40 @@ Table 1: Probing Pocket Depth at Baseline and Change in Pocket Depth at 9 Months
 In these 2 studies, an average of 29.5 (5-114), 31.7 (4-137), and 31 (5-108) sites were treated at baseline in the SRP alone, SRP + vehicle, and SRP + ARESTIN groups, respectively.
 When these studies are combined, the mean pocket depth change at 9 months was -1.18 mm, -1.10 mm, and -1.42 mm for SRP alone, SRP + vehicle, and SRP + ARESTIN, respectively.
 
-Table 2: Numbers (Percentage) of Pockets Showing a Change of Pocket Depth ≥2 mm at 9 Months from 2 Multicenter US Clinical Trials
+Table 2: Numbers (Percentage) of Pockets Showing a Change of Pocket Depth ≥2 mm at
+
+9 Months from 2 Multicenter US Clinical Trials
 
 |  | SRP Alone | SRP + Vehicle | SRP + ARESTIN | SRP Alone | SRP + Vehicle | SRP + ARESTIN |
 | --- | --- | --- | --- | --- | --- | --- |
-| Study OPI-103A |  |  |  | Study OPI-103B |  |  |
-| Pockets | 1046(31.1%) | 927(25.7%) | 1326(36.5%) | 1692(42.2%) | 1710(40.0%) | 2082(51.0%) |
-| ≥2 mm (% of Total) |  |  |  |  |  |  |
-| Pockets | 417(12.4%) | 315(8.7%) | 548(15.1%) | 553(13.8%) | 524(12.3%) | 704(17.3%) |
-| ≥3 mm (% of Total) |  |  |  |  |  |  |
+|  | Study OPI-103A |  |  | Study OPI-103B |  |  |
+| Pockets | 1046 | 927 | 1326 | 1692 | 1710 | 2082 |
+| ≥2 mm (% of Total) | (31.1%) | (25.7%) | (36.5%) | (42.2%) | (40.0%) | (51.0%) |
+| Pockets | 417 | 315 | 548 | 553 | 524 | 704 |
+| ≥3 mm (% of Total) | (12.4%) | (8.7%) | (15.1%) | (13.8%) | (12.3%) | (17.3%) |
 
 SRP + ARESTIN resulted in a greater percentage of pockets showing a change of PD ≥2 mm and ≥3 mm compared to SRP alone at 9 months, as shown in Table 2.
 
 Table 3: Mean Pocket Depth Changes (SE) in Subpopulations, Studies 103A and 103B Combined
 
-|  | SRP Alone | SRP + Vehicle | SRP + ARESTIN |
-| --- | --- | --- | --- |
-| Smokers | n=91 -0.96 (±0.09) mm | n=90 -0.98 (±0.07) mm | n=90 -1.24 (±0.09) mm** |
-| Nonsmokers | n=159 -1.31 (±0.06) mm | n=159 -1.17 (±0.07) mm | n=159 -1.53 (±0.06) mm** |
-| Subjects >50 YOA | n=21 -1.07 (±0.09) mm | n=81 -0.92 (±0.08) mm | n=107 -1.42 (±0.08) mm** |
-| Subjects ≤50 YOA | n=167 -1.24 (±0.06) mm | n=168 -1.19 (±0.06) mm | n=142 -1.43 (±0.07) mm* |
-| Subjects with CV Disease | n=36 -0.99 (±0.13) mm | n=29 -1.06 (±0.14) mm | n=36 -1.56 (±0.14) mm** |
-| Subjects without CV Disease | n=214 -1.22 (±0.06) mm | n=220 -1.11 (±0.05) mm | n=213 -1.40 (±0.06) mm** |
-| SRP = scaling and root planing; YOA = years of age; CV = cardiovascular *SRP vs SRP + ARESTIN P ≤0.05; **SRP vs SRP + ARESTIN P ≤0.001 |  |  |  |
+|  | SRP Alone | SRP + Vehicle | SRP + ARESTIN |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Smokers | n=91-0.96 (±0.09) mm | n=90-0.98 (±0.07) mm | n=90-1.24 (±0.09) mm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nonsmokers | n=159-1.31 (±0.06) mm | n=159-1.17 (±0.07) mm | n=159-1.53 (±0.06) mm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Subjects >50 YOA | n=21-1.07 (±0.09) mm | n=81-0.92 (±0.08) mm | n=107-1.42 (±0.08) mm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Subjects ≤50 YOA | n=167-1.24 (±0.06) mm | n=168-1.19 (±0.06) mm | n=142-1.43 (±0.07) mm* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Subjects with CV Disease | n=36-0.99 (±0.13) mm | n=29-1.06 (±0.14) mm | n=36-1.56 (±0.14) mm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Subjects without CV Disease | n=214-1.22 (±0.06) mm | n=220-1.11 (±0.05) mm | n=213-1.40 (±0.06) mm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SRP = scaling and root planing; YOA = years of age; CV = cardiovascular |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 In both studies, the following patient subgroups were prospectively analyzed: smokers, subjects over and under 50 years of age, and subjects with a previous history of cardiovascular disease.
 The results of the combined studies are presented in Table 3.
 
 In smokers, the mean reduction in pocket depth at 9 months was less in all treatment groups than in nonsmokers, but the reduction in mean pocket depth at 9 months with SRP + ARESTIN was significantly greater than with SRP + vehicle or SRP alone.
 
-Table 4: Mean Pocket Depth Change in Subjects with Mean Baseline PD ≥5 mm, ≥6 mm, and ≥7 mm at 9 Months from 2 Multicenter US Clinical Trials
+Table 4: Mean Pocket Depth Change in Subjects with Mean Baseline
+
+PD ≥5 mm, ≥6 mm, and ≥7 mm at 9 Months from 2 Multicenter US Clinical Trials
 
 | Mean Baseline Pocket Depth | SRP Alone | SRP + Vehicle | SRP + ARESTIN | SRP Alone | SRP + Vehicle | SRP + ARESTIN |
 | --- | --- | --- | --- | --- | --- | --- |
