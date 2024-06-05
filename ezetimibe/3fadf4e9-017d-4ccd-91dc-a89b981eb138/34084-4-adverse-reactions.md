@@ -5,93 +5,56 @@ The following serious adverse reactions are discussed in greater detail in other
 - Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 - Rhabdomyolysis and myopathy [see Warnings and Precautions (5.3)]
 
-Monotherapy Studies:
-
-In the ezetimibe controlled clinical trials database (placebo-controlled) of 2396 patients with a median treatment duration of 12 weeks (range 0 to 39 weeks), 3.3% of patients on ezetimibe and 2.9% of patients on placebo discontinued due to adverse reactions.
-The most common adverse reactions in the group of patients treated with ezetimibe that led to treatment discontinuation and occurred at a rate greater than placebo were:
-
-- Arthralgia (0.3%)
-- Dizziness (0.2%)
-- Gamma-glutamyl transferase increased (0.2%)
-
-The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) in the ezetimibe monotherapy controlled clinical trial database of 2396 patients were: upper respiratory tract infection (4.3%), diarrhea (4.1%), arthralgia (3%), sinusitis (2.8%), and pain in extremity (2.7%).
-
-Statin Co-Administration Studies:
-
-In the ezetimibe + statin controlled clinical trials database of 11,308 patients with a median treatment duration of 8 weeks (range 0 to 112 weeks), 4% of patients on ezetimibe + statin and 3.3% of patients on statin alone discontinued due to adverse reactions.
-The most common adverse reactions in the group of patients treated with ezetimibe + statin that led to treatment discontinuation and occurred at a rate greater than statin alone were:
-
-- Alanine aminotransferase increased (0.6%)
-- Myalgia (0.5%)
-- Fatigue, aspartate aminotransferase increased, headache, and pain in extremity (each at 0.2%)
-
-The most commonly reported adverse reactions (incidence ≥ 2% and greater than statin alone) in the ezetimibe + statin controlled clinical trial database of 11,308 patients were: nasopharyngitis (3.7%), myalgia (3.2%), upper respiratory tract infection (2.9%), arthralgia (2.6%) and diarrhea (2.5%).
-
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
 Monotherapy
 
-In 10 double-blind, placebo-controlled clinical trials, 2396 patients with primary hyperlipidemia (age range 9 to 86 years, 50% women, 90% Caucasians, 5% Blacks, 3% Hispanics, 2% Asians) and elevated
+In 10 double-blind, placebo-controlled clinical trials, 2,396 patients with primary hyperlipidemia (age range 9 to 86 years; 50% female, 90% White, 5% Black or African American, 2% Asian, 3% other races; 3% identified as Hispanic or Latino ethnicity) and elevated LDL-C were treated with ezetimibe 10 mg daily for a median treatment duration of 12 weeks (range 0 to 39 weeks).
 
-LDL-C were treated with ezetimibe 10 mg/day for a median treatment duration of 12 weeks (range 0 to 39 weeks).
+Adverse reactions reported in ≥ 2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe is shown in Table 1.
 
-Adverse reactions reported in ≥ 2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe, regardless of causality assessment, are shown in Table 1.
+TABLE 1: Adverse Reactions Occurring ≥ 2% and Greater than Placebo in Ezetimibe - treated Patients
 
-TABLE 1: Clinical Adverse Reactions Occurring in ≥ 2% of Patients Treated with Ezetimibe and at an Incidence Greater than Placebo, Regardless of Causality
-
-| Body System/Organ Class Adverse Reaction | Ezetimibe 10 mg (%) n=2396 | Placebo (%) n=1159 |
+| Adverse Reaction | Placebo (%) n = 1,159 | Ezetimibe 10 mg (%) n = 2,396 |
 | --- | --- | --- |
-| Gastrointestinal disorders |  |  |
-| Diarrhea | 4.1 | 3.7 |
-| General disorders and administration site conditions |  |  |
-| Fatigue | 2.4 | 1.5 |
-| Infections and infestations |  |  |
-| Influenza | 2 | 1.5 |
-| Sinusitis | 2.8 | 2.2 |
-| Upper respiratory tract infection | 4.3 | 2.5 |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Arthralgia | 3 | 2.2 |
-| Pain in extremity | 2.7 | 2.5 |
-
-The frequency of less common adverse reactions was comparable between ezetimibe and placebo.
+| Upper respiratory tract infection | 2.5 | 4.3 |
+| Diarrhea | 3.7 | 4.1 |
+| Arthralgia | 2.2 | 3.0 |
+| Sinusitis | 2.2 | 2.8 |
+| Pain in extremity | 2.5 | 2.7 |
+| Fatigue | 1.5 | 2.4 |
+| Influenza | 1.5 | 2.0 |
 
 Combination with a Statin
 
-In 28 double-blind, controlled (placebo or active-controlled) clinical trials, 11,308 patients with primary hyperlipidemia (age range 10 to 93 years, 48% women, 85% Caucasians, 7% Blacks, 4% Hispanics, 3% Asians) and elevated LDL-C were treated with ezetimibe 10 mg/day concurrently with or added to on-going statin therapy for a median treatment duration of 8 weeks (range 0 to 112 weeks).
+In 28 double-blind, controlled (placebo or active-controlled) clinical trials, 11,308 patients with primary hyperlipidemia (age range 10 to 93 years, 48% female, 85% White, 7% Black or African American, 3% Asian, 5% other races; 4% identified as Hispanic or Latino ethnicity) and elevated LDL-C were treated with ezetimibe 10 mg/day concurrently with or added to on-going statin therapy for a median treatment duration of 8 weeks (range 0 to 112 weeks).
 
-The incidence of consecutive increased transaminases (≥ 3 X ULN) was higher in patients receiving ezetimibe administered with statins (1.3%) than in patients treated with statins alone (0.4%) [see Warnings and Precautions (5.2)].
+The incidence of consecutive increased transaminases (≥ 3 X ULN) was higher in patients receiving ezetimibe administered with statins (1.3%) than in patients treated with statins alone (0.4%).
 
-Clinical adverse reactions reported in ≥ 2% of patients treated with ezetimibe + statin and at an incidence greater than statin, regardless of causality assessment, are shown in Table 2.
+Adverse reactions reported in ≥ 2% of patients treated with ezetimibe + statin and at an incidence greater than statin are shown in Table 2.
 
-TABLE 2: Clinical Adverse Reactions Occurring in ≥ 2% of Patients Treated with Ezetimibe Co-Administered with a Statin and at an Incidence Greater than Statin, Regardless of Causality
+TABLE 2: Adverse Reactions Occurring ≥ 2% in Ezetimibe -treated Patients Co-administered with a Statin and at an Incidence Greater than Statin
 
-| Body System/Organ Class Adverse Reaction | All Statins* (%) n=9361 | Ezetimibe + All Statins* (%) n=11,308 |
+| Adverse Reaction | All Statins* (%) n = 9,361 | Ezetimibe + All Statins* (%) n = 11,308 |
 | --- | --- | --- |
-| Gastrointestinal disorders |  |  |
-| Diarrhea | 2.2 | 2.5 |
-| General disorders and administration site conditions |  |  |
-| Fatigue | 1.6 | 2 |
-| Infections and infestations |  |  |
-| Influenza | 2.1 | 2.2 |
 | Nasopharyngitis | 3.3 | 3.7 |
-| Upper respiratory tract infection | 2.8 | 2.9 |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Arthralgia | 2.4 | 2.6 |
-| Back pain | 2.3 | 2.4 |
 | Myalgia | 2.7 | 3.2 |
+| Upper respiratory tract infection | 2.8 | 2.9 |
+| Arthralgia | 2.4 | 2.6 |
+| Diarrhea | 2.2 | 2.5 |
+| Back pain | 2.3 | 2.4 |
+| Influenza | 2.1 | 2.2 |
 | Pain in extremity | 1.9 | 2.1 |
+| Fatigue | 1.6 | 2.0 |
 | *All Statins = all doses of all statins. |  |  |
 
 Combination with Fenofibrate
 
-This clinical study involving 625 patients with mixed dyslipidemia (age range 20 to 76 years, 44% women, 79% Caucasians, 0.1% Blacks, 11% Hispanics, 5% Asians) treated for up to 12 weeks and 576 patients treated for up to an additional 48 weeks evaluated co-administration of ezetimibe and fenofibrate.
-This study was not designed to compare treatment groups for infrequent events.
-Incidence rates (95% CI) for clinically important elevations (≥ 3 X ULN, consecutive) in hepatic transaminase levels were 4.5% (1.9, 8.8) and 2.7% (1.2, 5.4) for fenofibrate monotherapy (n=188) and ezetimibe co-administered with fenofibrate (n=183), respectively, adjusted for treatment exposure.
-Corresponding incidence rates for cholecystectomy were 0.6% (95% CI: 0%, 3.1%) and 1.7% (95% CI: 0.6%, 4%) for fenofibrate monotherapy and ezetimibe co-administered with fenofibrate, respectively [see Drug Interactions (7.3)].
-The numbers of patients exposed to co-administration therapy as well as fenofibrate and ezetimibe monotherapy were inadequate to assess gallbladder disease risk.
-There were no CPK elevations > 10 X ULN in any of the treatment groups.
+This clinical trial involving 625 patients with mixed dyslipidemia (age range 20 to 76 years; 44% female, 79% White, 1% Black or African American, 20% other races; 11% identified as Hispanic or Latino ethnicity) treated for up to 12 weeks and 576 patients treated for up to an additional 48 weeks evaluated co-administration of ezetimibe and fenofibrate.
+Incidence rates for clinically important elevations (≥ 3 X ULN, consecutive) in hepatic transaminase levels were 4.5% and 2.7% for fenofibrate monotherapy (n=188) and ezetimibe co-administered with fenofibrate (n=183), respectively, adjusted for treatment exposure.
+Corresponding incidence rates for cholecystectomy were 0.6% and 1.7% for fenofibrate monotherapy and ezetimibe co-administered with fenofibrate, respectively [see Drug Interactions (7)].
 
 ## 6.2 Post-Marketing Experience
 
@@ -99,4 +62,16 @@ Because the reactions below are reported voluntarily from a population of uncert
 
 The following additional adverse reactions have been identified during post-approval use of ezetimibe:
 
-Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria; erythema multiforme; arthralgia; myalgia; elevated creatine phosphokinase; myopathy/rhabdomyolysis [see Warnings and Precautions (5.3)]; elevations in liver transaminases; hepatitis; abdominal pain; thrombocytopenia; pancreatitis; nausea; dizziness; paresthesia; depression; headache; cholelithiasis; cholecystitis.
+Blood Disorders: thrombocytopenia
+
+Gastrointestinal Disorders: abdominal pain; pancreatitis; nausea
+
+Hepatobiliary Disorders: elevations in liver transaminases, including elevations more than 5 X ULN; hepatitis; cholelithiasis; cholecystitis
+
+Immune System Disorders: Hypersensitivity reactions including: anaphylaxis, angioedema, rash, and urticaria
+
+Musculoskeletal Disorders: elevated creatine phosphokinase; myopathy/rhabdomyolysis
+
+Nervous System Disorders: dizziness; paresthesia; depression; headache
+
+Skin and Subcutaneous Tissue Disorders: erythema multiforme
