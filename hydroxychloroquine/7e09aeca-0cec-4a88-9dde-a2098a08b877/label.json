@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210543"
+  ],
+  "inn": "hydroxychloroquine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-752-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydroxychloroquine",
+      "name": "Hydroxychloroquine"
+    }
+  ],
+  "setid": "7e09aeca-0cec-4a88-9dde-a2098a08b877",
+  "source": "dailymed"
+}
