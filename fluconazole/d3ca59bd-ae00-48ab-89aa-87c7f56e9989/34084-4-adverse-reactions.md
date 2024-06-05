@@ -53,7 +53,7 @@ Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
 Skin and Appendages: Acute generalized exanthematous-pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (see WARNINGS), alopecia.
 
-## Adverse Reactions in Children
+## Adverse Reactions in Pediatric Patients
 
 The pattern and incidence of adverse events and laboratory abnormalities recorded during pediatric clinical trials are comparable to those seen in adults.
 
@@ -73,4 +73,13 @@ Percentage of Patients With Treatment-Related Side Effects
 | Nausea | 2.3 | 1.6 |
 | Diarrhea | 2.1 | 2.2 |
 
-To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Clinical Trials Experience in Pediatric Patients
+
+Safety in Prophylaxis of Invasive Candida Infections in Premature infants weighing less than750 grams at birth
+
+In a Phase 3 clinical trial of pediatric patients (premature infants weighing less than 750 grams at birth), the incidence of intestinal perforation in infants receiving Fluconazole prophylaxis was higher compared to infants receiving placebo (see PRECAUTIONS: Pediatric Use).
+
+Safety in Pediatric Patients Receiving ECMO
+
+A cohort of 20 pediatric patients (1 day to 17 years of age) on ECMO received Fluconazole in a prospective, open-label, single-center safety and PK ECMO study.
+The adverse reaction profile of Fluconazole in these patients was similar to that of adult and pediatric non-ECMO patients (See PRECAUTIONS: Pediatric Use).

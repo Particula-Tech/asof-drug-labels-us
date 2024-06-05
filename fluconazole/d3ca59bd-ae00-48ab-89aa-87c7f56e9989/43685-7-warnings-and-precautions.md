@@ -46,6 +46,9 @@ Reversible cases of adrenal insufficiency have been reported in patients receivi
 
 When driving vehicles or operating machines, it should be taken into account that occasionally dizziness or seizures may occur.
 
+There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to Fluconazole (e.g., Candida krusei).
+Such cases may require alternative antifungal therapy (see CLINICAL PHARMACOLOGY, Microbiology).
+
 ## Drug Interactions:
 
 (See CONTRAINDICATIONS.)
@@ -57,11 +60,11 @@ Therefore, caution should be exercised when using these combinations and the pat
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed and are described in greater detail below:
 
-Abrocitinib: Drug interaction studies indicate that when co-administered with fluconazole (strong inhibitor of CYP2C19; moderate inhibitor of CYP2C9, CYP3A4), the systemic exposure of abrocitinib and its active metabolites increased (see CLINCAL PHARMACOLOGY).
+Abrocitinib: Drug interaction studies indicate that when co-administered with fluconazole (strong inhibitor of CYP2C19; moderate inhibitor of CYP2C9, CYP3A4), the systemic exposure of abrocitinib and its active metabolites increased (see CLINICAL PHARMACOLOGY).
 Avoid concomitant use of abrocitinib with fluconazole.
 Refer to the abrocitinib Prescribing Information for additional details.
 
-Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of t½ of alfentanil following concomitant treatment with fluconazole.
+Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of t&frac12; of alfentanil following concomitant treatment with fluconazole.
 A possible mechanism of action is fluconazole’s inhibition of CYP3A4.
 Dosage adjustment of alfentanil may be necessary.
 
@@ -197,7 +200,7 @@ Tofacitinib: Systemic exposure to tofacitinib is increased when tofacitinib is c
 Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
-Triazolam: Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t½ by 25% to 50 % due to the inhibition of metabolism of triazolam.
+Triazolam: Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t&frac12; by 25% to 50 % due to the inhibition of metabolism of triazolam.
 Dosage adjustments of triazolam may be necessary.
 
 Tolvaptan: Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is co-administered with fluconazole, a moderate CYP3A4 inhibitor.
@@ -276,8 +279,12 @@ Caution should be exercised when fluconazole is administered to a nursing woman.
 
 ## Pediatric Use
 
+Use in Pediatric Patients for the Treatment of Oropharyngeal Candidiasis
+
 An open-label, randomized, controlled trial has shown fluconazole to be effective in the treatment of oropharyngeal candidiasis in children 6 months to 13 years of age.
 (See CLINICAL STUDIES.)
+
+Use in Pediatric Patients for the Treatment of Candida Esophagitis, Systemic Candida Infections, or Cryptococcal Meningitis
 
 The use of fluconazole in children with cryptococcal meningitis, Candida esophagitis, or systemic Candida infections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
 In addition, pharmacokinetic studies in children (see CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults.
@@ -292,9 +299,41 @@ There is no information regarding the efficacy of fluconazole for primary treatm
 The safety profile of fluconazole in children has been studied in 577 children ages 1 day to 17 years who received doses ranging from 1 to 15 mg/kg/day for 1 to 1,616 days.
 (See ADVERSE REACTIONS.)
 
-Efficacy of fluconazole has not been established in infants less than 6 months of age.
-(See CLINICAL PHARMACOLOGY.)
-A small number of patients (29) ranging in age from 1 day to 6 months have been treated safely with fluconazole.
+Use in Pediatric Patients on Extracorporeal Membrane Oxygenation (ECMO)
+
+A prospective, open-label, single-center study was conducted to determine the PK and safety of fluconazole in pediatric patients (ages: from birth to 17 years of age) on ECMO (see CLINICAL PHARMACOLOGY).
+A loading dose of 35-mg/kg is recommended in pediatric patients on ECMO due to increased volume of distribution (see DOSAGE AND ADMINISTRATION).
+
+Use in Prophylaxis of Invasive Candida Infections in Pediatric Patients (premature infants weighing less than 750 grams at birth)
+
+Safety and effectiveness of Fluconazole for the prophylaxis of invasive candidiasis in pediatric patients (premature infants weighing less than 750 grams at birth) have not been established.
+
+A prospective, randomized, double-blind, placebo-controlled, multicenter trial was conducted in premature infants weighing less than 750 grams at birth to evaluate the efficacy and safety of prophylactic Fluconazole 6-mg/kg administered twice weekly for 6 weeks versus placebo (NCT00734539).
+Efficacy was assessed using the endpoint of death or candidiasis by study day 49.
+The results are summarized in Table 4.
+
+Table 4: Death or Candidiasis by Day 49 in Premature Infants Receiving Fluconazole Prophylaxis
+
+|  | Fluconazole(N=188)n (%) | Placebo(N=173)n (%) | P-value | Difference(95% CI) |
+| --- | --- | --- | --- | --- |
+| Death or candidiasisSubjects with missing data are imputed as having candidiasis or died. | 33 (17.6) | 38 (22.0) | 0.2954 | -4.4(-12.6, 3.8) |
+| Components of endpointSubjects may be counted more than once as two fluconazole subjects and four placebo subjects diagnosed with candidiasis subsequently died by day 49. Death Candidiasis Missing | 27 (14.4)6 (3.2) 2 (1.0) | 25 (14.5)16 (9.2) 1 (0.5) |  |  |
+
+The most common fatal serious adverse reactions in the Fluconazole vs placebo arms, respectively, were necrotizing enterocolitis (NEC), 9 (5%) vs 9 (5%); neonatal bacterial sepsis, 6 (3%) vs 7 (4%); and neonatal respiratory failure, 4 (2%) vs 2 (0.6%).
+
+The most common serious adverse reactions (>5%) reported in patients receiving Fluconazole prophylaxis are displayed in Table 5.
+
+Table 5.
+Serious Adverse ReactionsAll serious adverse reactions were assessed and recorded up through 30 days after the final dose of study drug.
+Serious adverse reactions included both fatal and non-fatal outcomes.
+Occurring in >5% of Infants Receiving Fluconazole Prophylaxis
+
+| Adverse Reaction | Fluconazole (N=188)n (%) | Placebo (N=173) n (%) |
+| --- | --- | --- |
+| Necrotizing Enterocolitis (NEC) | 27 (14) | 28 (16) |
+| Intestinal Perforation (includes ileal/small intestinal perforation) | 13 (7) | 7 (4) |
+| Neonatal Respiratory Arrest/ Neonatal Respiratory Failure | 13 (7) | 4 (2) |
+| Bacterial Sepsis, Neonatal | 10 (5) | 12 (7) |
 
 ## Geriatric Use
 
