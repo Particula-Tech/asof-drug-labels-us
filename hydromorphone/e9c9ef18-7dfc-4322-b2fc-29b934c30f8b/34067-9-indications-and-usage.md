@@ -2,7 +2,7 @@
 
 Hydromorphone Hydrochloride Injection is indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
 
-Limitations of Use
+Limitations of Use:
 
 Because of the risks of addiction, abuse, and misuse with opioids, which can occur at any dosage or duration [see Warnings and Precautions (5.1)], reserve Hydromorphone Hydrochloride Injection for use in patients for whom alternative treatment options (e.g., non-opioid analgesics or opioid combination products):
 

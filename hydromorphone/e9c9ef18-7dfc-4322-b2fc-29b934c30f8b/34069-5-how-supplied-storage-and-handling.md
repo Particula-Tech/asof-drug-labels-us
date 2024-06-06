@@ -8,7 +8,7 @@ Implementation of more effective accounting procedures and measures to restrict 
 
 How Supplied
 
-Hydromorphone Hydrochloride is as a sterile solution in single-dose amplules,single-dose CarpujectTM cartridges with Luer Lock for use with CarpujectTM Syringe System and Carpuject Holder ONLY, single‑dose iSecureTM prefilled syringes with Luer Lock, and single-dose vials for intravenous, intramuscular, and subcutaneous administration, and available as follows:
+Hydromorphone Hydrochloride is as a sterile solution in single-dose amplules, single-dose CarpujectTM cartridges with Luer Lock for use with CarpujectTM Syringe System and Carpuject Holder ONLY, single‑dose iSecureTM prefilled syringes with Luer Lock, and single-dose vials for intravenous, intramuscular, and subcutaneous administration, and available as follows:
 
 | Unit of Sale | Concentration (per total volume) |
 | --- | --- |
@@ -30,4 +30,4 @@ Note that a needle is not included.
 PROTECT FROM LIGHT
 
 Keep covered in carton until time of use.
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].

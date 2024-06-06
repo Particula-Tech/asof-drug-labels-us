@@ -18,13 +18,13 @@ Serotonin Syndrome
 Inform patients that opioids could cause a rare but potentially life-threatening condition called serotonin syndrome resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop after discharge from the hospital.
 Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications.
-[see Drug Interactions 7].
+[see Drug Interactions (7)].
 
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-For Medical Information about Hydromorphone Hydrochoride, please visit www.pfizermedinfo.com or ‎call 1‑800-438-1985.‎
+For Medical Information about Hydromorphone Hydrochloride, please visit www.pfizermedinfo.com or ‎call 1‑800-438-1985.‎
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 

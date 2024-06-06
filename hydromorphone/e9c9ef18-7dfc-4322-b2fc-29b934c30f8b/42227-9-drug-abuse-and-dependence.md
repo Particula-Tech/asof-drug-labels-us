@@ -25,10 +25,10 @@ Drug-seeking tactics include emergency calls or visits near the end of office ho
 “Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
 
-Hydromorphone Hydrochloride Injection, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Hydromorphone Hydrochloride Injection, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of Hydromorphone Hydrochloride Injection
 

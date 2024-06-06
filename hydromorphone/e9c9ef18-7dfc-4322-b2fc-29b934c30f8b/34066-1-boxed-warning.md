@@ -8,7 +8,7 @@ Assess each patient's risk prior to prescribing and reassess all patients regula
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of Hydromorphone Hydrochloride Injection, especially during initiation or following a dosage increase.
-To reduce the risk of respiratory depression, proper dosing and titration of Hydromorphone Hydrochloride Injection are essential[see Warnings and Precautions (5.2)].
+To reduce the risk of respiratory depression, proper dosing and titration of Hydromorphone Hydrochloride Injection are essential [see Warnings and Precautions (5.2)].
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 

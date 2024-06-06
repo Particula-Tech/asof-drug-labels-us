@@ -8,9 +8,9 @@
 - •Many acute pain conditions (e.g., the pain that occurs with a number of surgical ‎procedures or acute musculoskeletal injuries) require no more than a few days ‎of an opioid analgesic.
   Clinical guidelines on opioid prescribing for some acute ‎pain conditions are available.‎
 - •There is variability in the opioid analgesic dose and duration needed to ‎adequately manage pain due both to the cause of pain and to individual patient ‎factors.
-- •Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- •Respiratory depression can occur at any time during opioid therapy, especially when of initiating and following dosage increases with Hydromorphone Hydrochloride Injection.
-  Consider this risk when selecting an initial dose and ‎when making dose adjustments[see Warnings and Precautions (5.2)].
+  Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- •Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Hydromorphone Hydrochloride Injection.
+  Consider this risk when selecting an initial dose and ‎when making dose adjustments [see Warnings and Precautions (5)].
 - •Inspect Hydromorphone Hydrochloride for particulate matter and discoloration prior to administration.
   Do not use if there is any discoloration or precipitate.
   A slight yellowish discoloration may develop in Hydromorphone Hydrochloride Injection ampuls.
@@ -56,7 +56,7 @@ Start patients with renal impairment on one-fourth to one-half the usual startin
 
 Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone ‎Hydrochloride Injection.
 Individually titrate Hydromorphone Hydrochloride Injection to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving Hydromorphone Hydrochloride Injection to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1,5.12)].
+Continually reevaluate patients receiving Hydromorphone Hydrochloride Injection to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.12)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the Hydromorphone Hydrochloride Injection dosage.
