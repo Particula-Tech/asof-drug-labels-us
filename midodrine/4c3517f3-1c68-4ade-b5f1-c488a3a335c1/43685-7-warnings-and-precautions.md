@@ -27,7 +27,7 @@ Midodrine should be used cautiously in patients with urinary retention problems,
 Midodrine should be used with caution in orthostatic hypotensive patients who are also diabetic, as well as those with a history of visual problems who are also taking fludrocortisone acetate, which is known to cause an increase in intraocular pressure and glaucoma.
 
 Midodrine use has not been studied in patients with renal impairment.
-Because desglymidodrine is eliminated via the kidneys, and higher blood levels would be expected in such patients, midodrine should be used with caution in patients with renal impairment, with a starting dose of 2.5 mg [see DOSAGE AND ADMINISTRATION].
+Because desglymidodrine is eliminated via the kidneys, and higher blood levels would be expected in such patients, midodrine should be used with caution in patients with renal impairment, with a starting dose of 2.5 mg [seeDOSAGE AND ADMINISTRATION].
 Renal function should be assessed prior to initial use of midodrine.
 
 Midodrine use has not been studied in patients with hepatic impairment.
