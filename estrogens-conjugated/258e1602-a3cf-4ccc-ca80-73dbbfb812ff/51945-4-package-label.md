@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 0.45 mg Tablet Bottle Label
 
-Pfizer NDC 0046-1101-81
+NDC 0046-1101-81 Pfizer
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -10,7 +10,7 @@ PREMARIN® (conjugated estrogens tablets, USP)
 
 # PRINCIPAL DISPLAY PANEL - 0.625 mg Tablet Bottle Label
 
-Pfizer NDC 0046-1102-91
+NDC 0046-1102-91 Pfizer
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -48,7 +48,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1.25 mg Tablet Bottle Label
 
-Pfizer NDC 0046-1104-91
+NDC 0046-1104-91 Pfizer
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -61,7 +61,7 @@ This package not for household use.
 
 # PRINCIPAL DISPLAY PANEL - 1.25 mg Tablet Bottle Carton
 
-Pfizer NDC 0046-1104-91
+NDC 0046-1104-91 Pfizer
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -74,7 +74,7 @@ This package not for household use.
 
 # PRINCIPAL DISPLAY PANEL - 0.3 mg Tablet Bottle Label
 
-Pfizer NDC 0046-1100-91
+NDC 0046-1100-91 Pfizer
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -112,7 +112,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 0.9 mg Tablet Bottle Label
 
-Pfizer NDC 0046-1103-81
+NDC 0046-1103-81 Pfizer
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
