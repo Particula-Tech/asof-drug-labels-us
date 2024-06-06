@@ -16,7 +16,7 @@ For clinically significant respiratory or circulatory depression secondary to hy
 
 Because the duration of opioid reversal is expected to be less than the duration of action of hydrocodone in HYSINGLA ER, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 HYSINGLA ER will continue to release hydrocodone and add to the hydrocodone load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
-If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
+If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended dose of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal syndrome produced will depend on the degree of physical dependence and the dose of the antagonist administered.

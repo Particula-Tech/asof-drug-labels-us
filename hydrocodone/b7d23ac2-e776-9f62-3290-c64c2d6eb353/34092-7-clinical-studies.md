@@ -4,13 +4,13 @@
 
 The efficacy and safety of HYSINGLA ER was evaluated in a randomized double-blind, placebo-controlled, multi-center, 12-week clinical trial in both opioid-experienced and opioid-naïve patients with moderate to severe chronic low back pain.
 
-A total of 905 chronic low back pain patients (opioid naive and opioid-experienced) who were not responsive to their prior analgesic therapy entered an open-label conversion and dose- titration period for up to 45 days with HYSINGLA ER.
+A total of 905 chronic low back pain patients (opioid naive and opioid-experienced) who were not responsive to their prior analgesic therapy entered an open-label conversion and dose-titration period for up to 45 days with HYSINGLA ER.
 Patients were dosed once daily with HYSINGLA ER (20 to 120 mg).
 Patients stopped their prior opioid analgesics and/or nonopioid analgesics prior to starting HYSINGLA ER treatment.
 Optional use of rescue medication (immediate-release oxycodone 5 mg) up to 2 doses (2 tablets) was permitted during the dose titration period.
 For inadequately controlled pain, HYSINGLA ER dose was allowed to be increased once every 3–5 days until a stabilized and tolerable dose was identified.
 During the dose-titration period, 65% of the patients achieved a stable HYSINGLA ER dose and entered the double-blind treatment period.
-The remaining subjects discontinued from the dose-titration period for the following reasons: adverse events (10%); lack of therapeutic effect (5%); confirmed or suspected diversion (3%); subject’s choice (5%); lost to follow-up (2%); administrative reasons (2%); and failure to achieve protocol-defined reduction in pain score (7%).
+The remaining subjects discontinued from the dose-titration period for the following reasons: adverse events (10%); lack of therapeutic effect (5%); confirmed or suspected diversion (3%); subject's choice (5%); lost to follow-up (2%); administrative reasons (2%); and failure to achieve protocol-defined reduction in pain score (7%).
 
 Following the dose titration period, 588 patients (65%) were randomized at a ratio of 1:1 into a 12-week double-blind treatment period with their fixed stabilized dose of HYSINGLA ER (or matching placebo).
 These patients met the study randomization criteria of adequate analgesia (pain reduction of at least 2 points to a score of 4 or less on a 0-10 numerical rating scale) and acceptable tolerability of HYSINGLA ER.

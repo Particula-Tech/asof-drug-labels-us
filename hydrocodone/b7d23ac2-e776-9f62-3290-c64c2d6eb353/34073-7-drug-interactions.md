@@ -10,7 +10,7 @@ Table 3: Clinically Significant Drug Interactions with HYSINGLA ER
 | Intervention: | If concomitant use is necessary, consider dosage reduction of HYSINGLA ER until stable drug effects are achieved. Evaluate patients at frequent intervals for respiratory depression and sedation. If a CYP3A4 inhibitor is discontinued, consider increasing the HYSINGLA ER dosage until stable drug effects are achieved. Assess for signs of opioid withdrawal. |
 | Examples | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir). |
 | CYP3A4 Inducers |  |
-| Clinical Impact: | The concomitant use of HYSINGLA ER and CYP3A4 inducers can decrease the plasma concentration of hydrocodone [see Clinical Pharmacology (12.3), resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to hydrocodone [see Warnings and Precautions (5.6)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
+| Clinical Impact: | The concomitant use of HYSINGLA ER and CYP3A4 inducers can decrease the plasma concentration of hydrocodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to hydrocodone [see Warnings and Precautions (5.6)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
 | Intervention: | If concomitant use is necessary, consider increasing the HYSINGLA ER dosage until stable drug effects are achieved. Evaluate for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider HYSINGLA ER dosage reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation. |
 | Examples: | Rifampin, carbamazepine, phenytoin |
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
@@ -42,4 +42,4 @@ Table 3: Clinically Significant Drug Interactions with HYSINGLA ER
 | Strong Laxatives |  |
 | Clinical Impact: | Concomitant use of HYSINGLA ER with strong laxatives that rapidly increase gastrointestinal motility, may decrease hydrocodone absorption and result in decreased hydrocodone plasma levels. |
 | Intervention: | If HYSINGLA ER is used in these patients, regularly evaluate for the development of adverse events as well as changing analgesic requirements. |
-| Example: | Lactulose |
+| Example: | lactulose |

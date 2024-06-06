@@ -25,21 +25,21 @@ The common adverse reactions (≥2%) reported by patients in clinical trials com
 
 Table 2: Adverse Reactions Reported in ≥2% of Patients during the Open-Label Titration Period and Double-Blind Treatment Period: Opioid-Naïve and Opioid-Experienced Patients
 
-|  |  | Open-label Titration Period | Double-blind Treatment Period |  |
-| --- | --- | --- | --- | --- |
 | MedDRA Preferred Term |  | (N=905) (%) | Placebo (N=292) (%) | HYSINGLA ER (N=296) (%) |
-|  | Nausea | 16 | 5 | 8 |
-|  | Constipation | 9 | 2 | 3 |
-|  | Vomiting | 7 | 3 | 6 |
-|  | Dizziness | 7 | 2 | 3 |
-|  | Headache | 7 | 2 | 2 |
-|  | Somnolence | 5 | 1 | 1 |
-|  | Fatigue | 4 | 1 | 1 |
-|  | Pruritus | 3 | <1 | 0 |
-|  | Tinnitus | 2 | 1 | 2 |
-|  | Insomnia | 2 | 2 | 3 |
-|  | Decreased appetite | 1 | 1 | 2 |
-|  | Influenza | 1 | 1 | 3 |
+| --- | --- | --- | --- | --- |
+|  |  | Open-label Titration Period | Double-blind Treatment Period |  |
+| Nausea |  | 16 | 5 | 8 |
+| Constipation |  | 9 | 2 | 3 |
+| Vomiting |  | 7 | 3 | 6 |
+| Dizziness |  | 7 | 2 | 3 |
+| Headache |  | 7 | 2 | 2 |
+| Somnolence |  | 5 | 1 | 1 |
+| Fatigue |  | 4 | 1 | 1 |
+| Pruritus |  | 3 | <1 | 0 |
+| Tinnitus |  | 2 | 1 | 2 |
+| Insomnia |  | 2 | 2 | 3 |
+| Decreased appetite |  | 1 | 1 | 2 |
+| Influenza |  | 1 | 1 | 3 |
 
 The adverse reactions seen in controlled and open-label chronic pain studies are presented below in the following manner: most common (≥5%), common (≥1% to <5%), and less common (<1%).
 

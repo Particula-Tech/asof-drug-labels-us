@@ -22,7 +22,7 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
 Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
@@ -33,17 +33,23 @@ Use of HYSINGLA ER as the First Opioid Analgesic (opioid-naïve patients)
 
 Initiate treatment with HYSINGLA ER at a dose of 20 mg orally every 24 hours.
 
-Use of HYSINGLA ER in Patients who are not Opioid Tolerant (opioid non-tolerant patients) The starting dose for patients who are not opioid tolerant is HYSINGLA ER 20 mg orally every 24 hours.
+Use of HYSINGLA ER in Patients who are not Opioid Tolerant (opioid non-tolerant patients)
+
+The starting dose for patients who are not opioid tolerant is HYSINGLA ER 20 mg orally every 24 hours.
 
 Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
 
-Conversion from Oral Hydrocodone Formulations to HYSINGLA ER Patients receiving other oral hydrocodone-containing formulations may be converted to HYSINGLA ER by administering the patient's total daily oral hydrocodone dose as HYSINGLA ER once daily.
+Conversion from Oral Hydrocodone Formulations to HYSINGLA ER
 
-Conversion from Other Opioids to HYSINGLA ER When HYSINGLA ER therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+Patients receiving other oral hydrocodone-containing formulations may be converted to HYSINGLA ER by administering the patient's total daily oral hydrocodone dose as HYSINGLA ER once daily.
+
+Conversion from Other Opioids to HYSINGLA ER
+
+When HYSINGLA ER therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 
 There is inter-patient variability in the relative potency of opioid drugs and formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of HYSINGLA ER.
-It is safer to underestimate a patient’s 24-hour oral hydrocodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral hydrocodone dosage and manage an adverse reaction due to an overdose.
+It is safer to underestimate a patient's 24-hour oral hydrocodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral hydrocodone dosage and manage an adverse reaction due to an overdose.
 
 In a HYSINGLA ER clinical trial with an open-label titration period, patients were converted from their prior opioid to HYSINGLA ER using Table 1 as a guide for the initial HYSINGLA ER dose.
 To obtain the initial HYSINGLA ER dose, first use Table 1 to convert the prior oral opioids to a total hydrocodone daily dose and then reduce the calculated daily hydrocodone dose by 25% to account for interpatient variability in relative potency of different opioids.
@@ -78,27 +84,35 @@ To calculate the estimated total hydrocodone daily dose using Table 1:
 Always round the dose down, if necessary, to the nearest HYSINGLA ER tablet strength available and initiate therapy with that dose.
 If the converted HYSINGLA ER dose using Table 1 is less than 20 mg, initiate therapy with HYSINGLA ER 20 mg.
 
-Example conversion from a single opioid to HYSINGLA ER: For example, a total daily dose of oxycodone 50 mg would be converted to hydrocodone 50 mg based on the table above, and then multiplied by 0.75 (i.e., take a 25 % reduction) resulting in a dose of 37.5 mg hydrocodone.
+Example conversion from a single opioid to HYSINGLA ER:
+
+For example, a total daily dose of oxycodone 50 mg would be converted to hydrocodone 50 mg based on the table above, and then multiplied by 0.75 (i.e., take a 25 % reduction) resulting in a dose of 37.5 mg hydrocodone.
 Round this down to the nearest dose strength available, HYSINGLA ER 30 mg, to initiate therapy.
 
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to HYSINGLA ER.
 
-Conversion from Methadone to HYSINGLA ER Regular evaluation is of particular importance when converting from methadone to other opioid agonists.
+Conversion from Methadone to HYSINGLA ER
+
+Regular evaluation is of particular importance when converting from methadone to other opioid agonists.
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-Conversion from Transdermal Fentanyl to HYSINGLA ER Eighteen hours following the removal of the transdermal fentanyl patch, HYSINGLA ER treatment can be initiated.
+Conversion from Transdermal Fentanyl to HYSINGLA ER
+
+Eighteen hours following the removal of the transdermal fentanyl patch, HYSINGLA ER treatment can be initiated.
 For each 25 mcg/hr fentanyl transdermal patch, a dose of HYSINGLA ER 20 mg every 24 hours represents a conservative initial dose.
 Follow the patient closely during conversion from transdermal fentanyl to HYSINGLA ER, as there is limited experience with this conversion.
 
-Conversion from Transdermal Buprenorphine to HYSINGLA ER All patients receiving transdermal buprenorphine (≤ 20 mcg/hr) should initiate therapy with HYSINGLA ER 20 mg every 24 hours.
+Conversion from Transdermal Buprenorphine to HYSINGLA ER
+
+All patients receiving transdermal buprenorphine (≤ 20 mcg/hr) should initiate therapy with HYSINGLA ER 20 mg every 24 hours.
 Follow the patient closely during conversion from transdermal buprenorphine to HYSINGLA ER, as there is limited experience with this conversion.
 
 ## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate HYSINGLA ER to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving HYSINGLA ER to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other relative incidence of adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.16).
+Continually reevaluate patients receiving HYSINGLA ER to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other relative incidence of adverse reactions, as well as to reassess for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.16)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During use of opioid therapy for an extended period of time, periodically reassess the continued need for the use of opioid analgesics.
 

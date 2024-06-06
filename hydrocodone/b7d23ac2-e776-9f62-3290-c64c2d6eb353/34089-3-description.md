@@ -7,8 +7,6 @@ Hydrocodone bitartrate is an opioid agonist.
 Its chemical name is 4,5α-epoxy-3-methoxy-17-methylmorphinan-6-one tartrate (1:1) hydrate (2:5).
 Its structural formula is:
 
-Empirical formula: C18H21NO3 C4H6O6 2½H2O; Molecular weight: 494.49.
-
 Hydrocodone bitartrate exists as fine white crystals or a crystalline powder.
 It is affected by light.
 It is soluble in water, slightly soluble in alcohol, and insoluble in ether and chloroform.

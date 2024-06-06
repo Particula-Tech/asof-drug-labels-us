@@ -22,9 +22,9 @@ In addition, abuse of opioids can occur in the absence of addiction.
 All patients treated with opioids require careful and frequent reevaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 Patients at high risk of HYSINGLA ER abuse include those with a history of prolonged use of any opioid, including products containing hydrocodone, those with a history of drug or alcohol abuse, or those who use HYSINGLA ER in combination with other abused drugs.
 
-“Drug-seeking” behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
-“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated "loss" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+"Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
 
 HYSINGLA ER, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
@@ -32,7 +32,9 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of HYSINGLA ER Abuse of HYSINGLA ER poses a risk of overdose and death.
+Risks Specific to Abuse of HYSINGLA ER
+
+Abuse of HYSINGLA ER poses a risk of overdose and death.
 This risk is increased with concurrent use of HYSINGLA ER with alcohol and/or other CNS depressants [see Warnings and Precautions (5.1, 5.3), Drug Interactions (7)].
 
 Abuse may occur by taking intact tablets in quantities greater than prescribed or without legitimate purpose, by crushing and chewing or snorting the crushed formulation, or by injecting a solution made from the crushed formulation.
@@ -43,37 +45,46 @@ HYSINGLA ER is approved for oral use only.
 With parenteral abuse, the inactive ingredients in HYSINGLA ER can result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis and valvular heart injury, embolism, and death.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
-Abuse Deterrence Studies HYSINGLA ER is formulated with physicochemical properties intended to make the tablet more difficult to manipulate for misuse and abuse, and maintains some extended-release characteristics even if the tablet is physically compromised.
+Abuse Deterrence Studies
+
+HYSINGLA ER is formulated with physicochemical properties intended to make the tablet more difficult to manipulate for misuse and abuse, and maintains some extended-release characteristics even if the tablet is physically compromised.
 To evaluate the ability of these physicochemical properties to reduce the potential for abuse of HYSINGLA ER, a series of in vitro laboratory studies, pharmacokinetic studies and clinical abuse potential studies was conducted.
 A summary is provided at the end of this section.
 
-In Vitro Testing In vitro physical and chemical tablet manipulation studies were performed to evaluate the success of different extraction methods in defeating the extended-release formulation.
+In Vitro Testing
+
+In vitro physical and chemical tablet manipulation studies were performed to evaluate the success of different extraction methods in defeating the extended-release formulation.
 Results support that HYSINGLA ER resists crushing, breaking, and dissolution using a variety of tools and solvents and retains some extended-release properties despite manipulation.
 When subjected to an aqueous environment, HYSINGLA ER gradually forms a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a hypodermic needle.
 
-Clinical Abuse Potential Studies Studies in Non-dependent Opioid Abusers: Two randomized, double-blind, placebo and active-comparator studies in non-dependent opioid abusers were conducted to characterize the abuse potential of HYSINGLA ER following physical manipulation and administration via the intranasal and oral routes.
-For both studies, drug liking was measured on a bipolar drug liking scale of 0 to 100 where 50 represents a neutral response of neither liking nor disliking, 0 represents maximum disliking, and 100 represents maximum liking.
-Response to whether the subject would take the study drug again was measured on a unipolar scale of 0 to 100 where 0 represents the strongest negative response (“definitely would not take drug again”) and 100 represents the strongest positive response (“definitely would take drug again”).
+Clinical Abuse Potential Studies
 
-Intranasal Abuse Potential Study: In the intranasal abuse potential study, 31 subjects were dosed and 25 subjects completed the study.
+Studies in Non-dependent Opioid Abusers:
+
+Two randomized, double-blind, placebo and active-comparator studies in non-dependent opioid abusers were conducted to characterize the abuse potential of HYSINGLA ER following physical manipulation and administration via the intranasal and oral routes.
+For both studies, drug liking was measured on a bipolar drug liking scale of 0 to 100 where 50 represents a neutral response of neither liking nor disliking, 0 represents maximum disliking, and 100 represents maximum liking.
+Response to whether the subject would take the study drug again was measured on a unipolar scale of 0 to 100 where 0 represents the strongest negative response ("definitely would not take drug again") and 100 represents the strongest positive response ("definitely would take drug again").
+
+Intranasal Abuse Potential Study:
+
+In the intranasal abuse potential study, 31 subjects were dosed and 25 subjects completed the study.
 Treatments studied included intranasally administered tampered HYSINGLA ER 60 mg tablets, powdered hydrocodone bitartrate 60 mg, and placebo.
-Incomplete dosing due to granules falling from the subjects’ nostrils occurred in 82% (n = 23) of subjects receiving tampered HYSINGLA ER compared to no subjects with powdered hydrocodone or placebo.
+Incomplete dosing due to granules falling from the subjects' nostrils occurred in 82% (n = 23) of subjects receiving tampered HYSINGLA ER compared to no subjects with powdered hydrocodone or placebo.
 
 The intranasal administration of tampered HYSINGLA ER was associated with statistically significantly lower mean and median scores for drug liking and take drug again (P<0.001 for both), compared with powdered hydrocodone as summarized in Table 4.
 
 Table 4.
 Summary of Maximum Scores (Emax) on Drug Liking and Take Drug Again VAS Following intranasal Administration of HYSINGLA ER and Hydrocodone Powder in Non-dependent Opioid Abusers
 
-| VAS Scale (100 point) | HYSINGLA ER Manipulated | Hydrocodone Powder |
-| --- | --- | --- |
-| Intranasal (n=25) |  |  |
-| Drug Liking* |  |  |
-| Mean (SE) | 65.4 (3.7) | 90.4 (2.6) |
-| Median (Range) | 56 (50–100) | 100 (51–100) |
-| Take Drug Again** |  |  |
-| Mean (SE) | 36.4 (8.2) | 85.2 (5.0) |
-| Median (Range) | 14 (0-100) | 100 (1-100) |
-| *Bipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) ** Unipolar scale (0=maximum negative response, 100=maximum positive response) |  |  |
+| Intranasal (n=25) |  |  |  |
+| --- | --- | --- | --- |
+| VAS Scale (100 point) |  | HYSINGLA ER Manipulated | Hydrocodone Powder |
+| Drug LikingBipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) |  |  |  |
+| Mean (SE) |  | 65.4 (3.7) | 90.4 (2.6) |
+| Median (Range) |  | 56 (50–100) | 100 (51–100) |
+| Take Drug AgainUnipolar scale (0=maximum negative response, 100=maximum positive response) |  |  |  |
+| Mean (SE) |  | 36.4 (8.2) | 85.2 (5.0) |
+| Median (Range) |  | 14 (0-100) | 100 (1-100) |
 
 Figure 1 demonstrates a comparison of peak drug liking scores for tampered HYSINGLA ER compared with powdered hydrocodone in subjects (n = 25) who received both treatments intranasally.
 The Y-axis represents the percent of subjects attaining a percent reduction in peak drug liking scores for tampered HYSINGLA ER vs. hydrocodone powder greater than or equal to the value on the X-axis.
@@ -84,7 +95,9 @@ Approximately 20% (n = 5) of subjects had no reduction in liking with tampered H
 
 Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for Manipulated HYSINGLA ER vs. Hydrocodone Powder, N = 25 Following Intranasal Administration
 
-Oral Abuse Potential Study: In the oral abuse potential study, 40 subjects were dosed and 35 subjects completed the study.
+Oral Abuse Potential Study:
+
+In the oral abuse potential study, 40 subjects were dosed and 35 subjects completed the study.
 Treatments studied included oral administrations of chewed HYSINGLA ER 60 mg tablets, intact HYSINGLA ER 60 mg tablets, 60 mg aqueous hydrocodone bitartrate solution, and placebo.
 
 The oral administration of chewed and intact HYSINGLA ER was associated with statistically lower mean and median scores on scales that measure drug liking and desire to take drug again (P<0.001), compared to hydrocodone solution as summarized in Table 5.
@@ -92,16 +105,15 @@ The oral administration of chewed and intact HYSINGLA ER was associated with sta
 Table 5.
 Summary of Maximum Scores (Emax) on Drug Liking and Take Drug Again VAS Following Oral Administration of HYSINGLA ER and Hydrocodone Solution in Non-dependent Recreational Opioid Users
 
-| VAS Scale (100 point) | HYSINGLA ER |  | Hydrocodone Solution |
-| --- | --- | --- | --- |
-| Oral (n=35) | Intact | Chewed |  |
-| Drug Liking* |  |  |  |
-| Mean (SE) | 63.3 (2.7) | 69.0 (3.0) | 94.0 (1.7) |
-| Median (Range) | 58 (50–100) | 66 (50–100) | 100 (51–100) |
-| Take Drug Again** |  |  |  |
-| Mean (SE) | 34.3 (6.1) | 44.3 (6.9) | 89.7 (3.6) |
-| Median (Range) | 24 (0-100) | 55 (0-100) | 100 (1-100) |
-| *Bipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) ** Unipolar scale (0=maximum negative response, 100=maximum positive response) |  |  |  |
+| Oral (n=35) |  | Intact | Chewed |  |
+| --- | --- | --- | --- | --- |
+| VAS Scale (100 point) |  | HYSINGLA ER |  | Hydrocodone Solution |
+| Drug LikingBipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) |  |  |  |  |
+| Mean (SE) |  | 63.3 (2.7) | 69.0 (3.0) | 94.0 (1.7) |
+| Median (Range) |  | 58 (50–100) | 66 (50–100) | 100 (51–100) |
+| Take Drug AgainUnipolar scale (0=maximum negative response, 100=maximum positive response) |  |  |  |  |
+| Mean (SE) |  | 34.3 (6.1) | 44.3 (6.9) | 89.7 (3.6) |
+| Median (Range) |  | 24 (0-100) | 55 (0-100) | 100 (1-100) |
 
 Figure 2 demonstrates a comparison of peak drug liking scores for chewed HYSINGLA ER compared with hydrocodone solution in subjects who received both treatments orally.
 The Y-axis represents the percent of subjects attaining a percent reduction in peak drug liking scores for chewed HYSINGLA ER vs. hydrocodone solution greater than or equal to the value on the X-axis.
@@ -118,7 +130,9 @@ Approximately 83% (n = 29) of subjects had some reduction in drug liking with in
 Eighty-three percent (n = 29) of subjects had a reduction of at least 30% in peak drug liking scores with intact HYSINGLA ER compared to hydrocodone solution, and approximately 74% (n = 26) of subjects had a reduction of at least 50% in peak drug liking scores with intact HYSINGLA ER compared with hydrocodone solution.
 Approximately 17% (n = 6) had no reduction in drug liking with intact HYSINGLA ER relative to hydrocodone solution.
 
-Summary The in vitro data demonstrate that HYSINGLA ER has physical and chemical properties that are expected to deter intranasal and intravenous abuse.
+Summary
+
+The in vitro data demonstrate that HYSINGLA ER has physical and chemical properties that are expected to deter intranasal and intravenous abuse.
 The data from the clinical abuse potential studies, along with support from the in vitro data, also indicate that HYSINGLA ER has physicochemical properties that are expected to reduce intranasal abuse and oral abuse when chewed.
 However, abuse of HYSINGLA ER by the intravenous, intranasal, and oral routes is still possible.
 

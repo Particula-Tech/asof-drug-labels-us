@@ -9,24 +9,24 @@ Because extended-release products such as HYSINGLA ER deliver the opioid over an
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed HYSINGLA ER.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing HYSINGLA ER, and reassess all patients receiving HYSINGLA ER for the development of these behaviors and conditions.
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing HYSINGLA ER, and reassess all patients receiving HYSINGLA ER for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the prescribing of HYSINGLA ER for the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as HYSINGLA ER, but use in such patients necessitates intensive counseling about the risks and proper use of HYSINGLA ER along with frequent reevaluation for signs of addiction, abuse, and misuse.
 Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
-Abuse or misuse of HYSINGLA ER by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the hydrocodone and can result in overdose and death [see Drug Abuse and Dependence (9.2), and Overdosage (10)].
+Abuse or misuse of HYSINGLA ER by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the hydrocodone and can result in overdose and death [see Drug Abuse and Dependence (9.2), Overdosage (10)].
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing HYSINGLA ER.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and the proper disposal of unused drug.
 Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## 5.2 Life- Threatening Respiratory Depression
+## 5.2 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of HYSINGLA ER, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -46,12 +46,12 @@ Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose: Discu
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered.
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3), Overdosage (10)].
 
-## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## 5.3 Risks of Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of HYSINGLA ER with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
@@ -75,7 +75,7 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 Use of HYSINGLA ER for an extended period of time during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for an extended period of timeof the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
+Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
 
 ## 5.5 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
