@@ -99,7 +99,7 @@ CYP2C19
 
 Venlafaxine did not inhibit the metabolism of diazepam, which is partially metabolized by CYP2C19 (see Diazepam above).
 
-## 7.9 Monoamine Oxidase Inhibitors
+## 7.9 Monoamine Oxidase Inhibitors (MAOIs)
 
 [See Dosage and Administration (2.6 and 2.7), Contraindications (4.1), and Warnings and Precautions (5.2).]
 
