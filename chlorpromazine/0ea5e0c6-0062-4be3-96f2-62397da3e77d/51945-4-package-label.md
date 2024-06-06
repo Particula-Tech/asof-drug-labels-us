@@ -2,7 +2,7 @@
 
 NDC 70771-1506-1
 
-ChlorproMAZINE Hydrochloride Tablets, USP
+chlorproMAZINE Hydrochloride Tablets, USP
 
 10 mg
 
@@ -12,7 +12,7 @@ Rx only
 
 NDC 70771-1507-1
 
-ChlorproMAZINE Hydrochloride Tablets, USP
+chlorproMAZINE Hydrochloride Tablets, USP
 
 25 mg
 
@@ -22,7 +22,7 @@ Rx only
 
 NDC 70771-1508-1
 
-ChlorproMAZINE Hydrochloride Tablets, USP
+chlorproMAZINE Hydrochloride Tablets, USP
 
 50 mg
 
@@ -32,7 +32,7 @@ Rx only
 
 NDC 70771-1509-1
 
-ChlorproMAZINE Hydrochloride Tablets, USP
+chlorproMAZINE Hydrochloride Tablets, USP
 
 100 mg
 
@@ -42,7 +42,7 @@ Rx only
 
 NDC 70771-1510-1
 
-ChlorproMAZINE Hydrochloride Tablets, USP
+chlorproMAZINE Hydrochloride Tablets, USP
 
 200 mg
 
