@@ -31,8 +31,8 @@
     JAMA.
     2004;291:29472958.
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2023 AbbVie.
+© 2024 AbbVie.
 All rights reserved.
 ESTRACE and its design are trademarks of Allergan Therapeutics LLC, an AbbVie company.
