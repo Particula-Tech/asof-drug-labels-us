@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216686"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-2631-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fosaprepitant dimeglumine",
+      "name": "FOCINVEZ"
+    }
+  ],
+  "setid": "7afe33d8-5416-465a-b98b-f4eedc327a94",
+  "source": "dailymed"
+}
