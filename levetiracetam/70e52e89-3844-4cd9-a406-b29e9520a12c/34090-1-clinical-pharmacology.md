@@ -73,7 +73,7 @@ This is most likely due to the decrease in renal function in these subjects.
 
 #### Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
 
 #### Gender
 
@@ -92,8 +92,8 @@ The disposition of levetiracetam was studied in adult subjects with varying degr
 Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50-80 mL/min), 50% in the moderate group (CLcr = 30-50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
 Clearance of levetiracetam is correlated with creatinine clearance.
 
-In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80mL/min).
-Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4 hour hemodialysis procedure [see Dosage and Administration (2.5)]
+In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80 mL/min).
+Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4 hour hemodialysis procedure [see Dosage and Administration (2.5)].
 
 #### Hepatic Impairment
 

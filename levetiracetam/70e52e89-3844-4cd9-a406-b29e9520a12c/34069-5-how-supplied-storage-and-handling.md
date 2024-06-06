@@ -8,11 +8,11 @@ It is available in the following presentations:
 
 | Strength | Package | NDC Number |
 | --- | --- | --- |
-| 500 mg (5 mg/mL) | 1 single-dose bag | 67457-255-00 |
+| 500 mg/100 mL (5 mg/mL) | 1 single-dose bag | 67457-255-00 |
 | 10 bags per carton | 67457-255-10 |  |
-| 1000 mg (10 mg/mL) | 1 single-dose bag | 67457-265-00 |
+| 1000 mg/100 mL (10 mg/mL) | 1 single-dose bag | 67457-265-00 |
 | 10 bags per carton | 67457-265-10 |  |
-| 1500 mg (15 mg/mL) | 1 single-dose bag | 67457-266-00 |
+| 1500 mg/100 mL (15 mg/mL) | 1 single-dose bag | 67457-266-00 |
 | 10 bags per carton | 67457-266-10 |  |
 
 ## 16.2 Storage

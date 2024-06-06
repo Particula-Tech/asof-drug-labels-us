@@ -54,7 +54,18 @@ Recurrence of the serious skin reactions following rechallenge with levetiraceta
 Levetiracetam should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.5 Coordination Difficulties
+## 5.5 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including levetiracetam.
+These events can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Levetiracetam should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
+
+## 5.6 Coordination Difficulties
 
 Coordination difficulties were only observed in the adult partial-onset seizure studies.
 A total of 3.4% of adult levetiracetam-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo patients.
@@ -64,12 +75,12 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
-## 5.6 Withdrawal Seizures
+## 5.7 Withdrawal Seizures
 
 As with most antiepileptic drugs, levetiracetam should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus.
 But if withdrawal is needed because of a serious adverse reaction, rapid discontinuation can be considered.
 
-## 5.7 Hematologic Abnormalities
+## 5.8 Hematologic Abnormalities
 
 Levetiracetam can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC), neutrophil, and red blood cells counts (RBC); decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
@@ -89,7 +100,7 @@ No patient was discontinued secondary to low neutrophil counts.
 Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
 The data from the partial seizure patients should be considered to be relevant for JME patients.
 
-## 5.8 Seizure Control During Pregnancy
+## 5.9 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.
