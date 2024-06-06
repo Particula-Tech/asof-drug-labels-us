@@ -12,7 +12,7 @@ NDC 60793-601-10 Contains 10 of NDC 60793-601-02
 
 Ten Syringes (2 mL size)
 
-1. Bicillin® C-R (penicillin G benzathine and penicillin G procaine injectable suspension)
+Bicillin® C-R (penicillin G benzathine and penicillin G procaine injectable suspension)
 
 1,200,000 units per 2 mL
 
