@@ -10,10 +10,6 @@ Not for the Treatment of Syphilis FOR DEEP INTRAMUSCULAR INJECTION ONLY WARNING:
 
 Distributed by Pfizer Inc New York, NY 10017
 
-PAA105320
-
-Lot: EXP:(YYMMDD)
-
 # PRINCIPAL DISPLAY PANEL - 2 mL Syringe Package
 
 Ten Syringes (2 mL size)
