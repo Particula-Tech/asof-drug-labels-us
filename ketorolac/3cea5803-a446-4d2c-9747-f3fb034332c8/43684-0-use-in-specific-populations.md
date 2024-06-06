@@ -2,24 +2,22 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
+Risk Summary
 
-Pregnancy Category C: Ketorolac tromethamine, administered during organogenesis, was not teratogenic in rabbits and rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively.
-These doses are approximately 600 times and 1700 times higher respectively than the typical human topical ophthalmic daily dose of 0.35 mg (4.5 mg/mL x 0.04 mL/drop, twice daily) to an affected eye on a mg/kg basis.
-Additionally, when administered to rats after Day 17 of gestation at oral doses up to 1.5 mg/kg/day (approximately 300 times the typical human topical ophthalmic daily dose), ketorolac tromethamine resulted in dystocia and increased pup mortality.
-There are no adequate and well-controlled studies in pregnant women.
-ACUVAIL solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies with ACUVAIL in pregnant women.
+No evidence of teratogenicity has been observed in rats or rabbits with ACUVAIL at clinically relevant doses.
 
-Nonteratogenic Effects: Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of ACUVAIL solution during late pregnancy should be avoided.
+## 8.2Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
+It is not known whether ketorolac when given topically is present in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when ACUVAIL is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of ACUVAIL have not been established in pediatric patients younger than 2 years old.
 
 ## 8.5 Geriatric Use
 
-No overall clinical differences in safety or effectiveness have been observed between elderly and other adult patients.
+No overall differences in safety or effectiveness have been observed between elderly and other adult patients.
