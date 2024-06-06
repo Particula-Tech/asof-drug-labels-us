@@ -5,7 +5,7 @@ NDC 50458-560-01 Rx only
 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA SUSTENNA®
+INVEGA SUSTENNA ®
 
 (paliperidone palmitate) extended-release injectable suspension 39 mg/0.25 mL
 
@@ -30,7 +30,7 @@ NDC 50458-561-01 Rx only
 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA SUSTENNA®
+INVEGA SUSTENNA ®
 
 (paliperidone palmitate) extended-release injectable suspension 78 mg/0.5 mL
 
@@ -55,7 +55,7 @@ NDC 50458-562-01 Rx only
 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA SUSTENNA®
+INVEGA SUSTENNA ®
 
 (paliperidone palmitate) extended-release injectable suspension 117 mg/0.75 mL
 
@@ -80,7 +80,7 @@ NDC 50458-563-01 Rx only
 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA SUSTENNA®
+INVEGA SUSTENNA ®
 
 (paliperidone palmitate) extended-release injectable suspension 156 mg/mL
 
@@ -105,7 +105,7 @@ NDC 50458-564-01 Rx only
 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA SUSTENNA®
+INVEGA SUSTENNA ®
 
 (paliperidone palmitate) extended-release injectable suspension 234 mg/1.5 mL
 
