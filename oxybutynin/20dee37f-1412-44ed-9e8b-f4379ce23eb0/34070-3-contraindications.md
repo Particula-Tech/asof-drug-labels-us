@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
 The use of OXYTROL is contraindicated in the following conditions:
 

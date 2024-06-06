@@ -1,6 +1,6 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -46,7 +46,7 @@ In the two pivotal studies, no patient discontinued OXYTROL treatment due to dry
 
 In the open-label extension, the most common treatment-related adverse reactions were: application site pruritus, application site erythema, and dry mouth.
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of OXYTROL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 The efficacy and safety of OXYTROL were evaluated in patients with urge urinary incontinence in two controlled studies and one open-label extension.
 Study 1 was a placebo controlled study, comparing the safety and efficacy of OXYTROL at dose levels of 1.3, 2.6, and 3.9 mg/day to placebo in 520 patients.
@@ -55,7 +55,7 @@ Changes in daily incontinence episodes, urinary frequency, and urinary void volu
 | Urinary Void Volume (mL) |  |  |  |  |
 | Baseline | 175.0 (68.0) | 171.0 | 164.8 (62.3) | 160 |
 | Increase | 9.3 (63.1) | 5.5 | 32.0 (55.2) | 24 |
-| P value vs. placebo | - |  | 0.0010* |  |
+| P value vs placebo | - |  | 0.0010* |  |
 | *Comparison significant if p < 0.05 |  |  |  |  |
 
 In a controlled clinical trial of skin sensitization, none of the 103 test subjects demonstrated skin hypersensitivity to OXYTROL.
@@ -64,4 +64,4 @@ Adhesion
 
 Adhesion was periodically evaluated during the pivotal studies.
 Of the 4,746 OXYTROL evaluations in the trials, 20 (0.4%) were observed at clinic visits to have become completely detached and 35 (0.7%) became partially detached during routine clinic use.
-Similar to the pharmacokinetic studies, > 98% of the systems evaluated in the pivotal studies were assessed as being ≥ 75% attached and thus would be expected to perform as anticipated.
+Similar to the pharmacokinetic studies, > 98% of the transdermal systems evaluated in the pivotal studies were assessed as being ≥ 75% attached and thus would be expected to perform as anticipated.

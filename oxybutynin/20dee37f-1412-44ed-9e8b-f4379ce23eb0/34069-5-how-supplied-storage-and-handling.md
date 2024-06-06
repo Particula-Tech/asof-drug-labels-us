@@ -1,12 +1,12 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 How Supplied
 
 Unit Dose: Heat sealed pouch containing 1 OXYTROL (oxybutynin transdermal system).
 
-Each 39 cm2 system imprinted with “OXYTROL 3.9 mg/day” contains 36 mg of oxybutynin for nominal delivery of 3.9 mg oxybutynin per day when dosed in a twice weekly regimen.
+Each 39 cm2 transdermal system imprinted with “OXYTROL 3.9 mg/day” contains 36 mg of oxybutynin for nominal delivery of 3.9 mg oxybutynin per day when dosed in a twice weekly regimen.
 
-Patient Calendar Box of 8 Systems (NDC 0023-6153-08)
+Patient Calendar Box of 8 Transdermal Systems (NDC 0023-6153-08)
 
 Storage
 

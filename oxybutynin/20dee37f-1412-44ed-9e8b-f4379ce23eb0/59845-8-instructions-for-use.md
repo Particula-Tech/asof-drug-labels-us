@@ -19,6 +19,8 @@ Where to apply OXYTROL:
   You may find it useful to change the site from one side of your body to the other.
 - Do not use the same area for the patch for at least 7 days.
   You may choose to try different sites when using OXYTROL to find the sites that are most comfortable for you and where clothing will not rub against it.
+- Do not divide or cut the patch into pieces.
+  Damaged patches should not be used.
 
 How to apply OXYTROL:
 
@@ -66,9 +68,9 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 Distributed By: AbbVie, Inc. North Chicago, IL 60064
 
-© 2023 AbbVie.
+© 2024 AbbVie.
 All rights reserved.
 
 OXYTROL and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
 
-Revised: 11/2023
+Revised: 05/2024
