@@ -44,7 +44,7 @@ Based on the anti-VEGF mechanism of action for ranibizumab products, treatment w
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ranibizumab products in pediatric patients have not been established.
+The safety and effectiveness of CIMERLI in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 

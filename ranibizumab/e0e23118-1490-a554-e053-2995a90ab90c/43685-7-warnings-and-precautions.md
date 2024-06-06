@@ -48,3 +48,9 @@ All enrolled patients had DME and DR at baseline [see Clinical Studies (14.3, 14
 A pooled analysis of Studies D-1 and D-2 [see Clinical Studies (14.3)], showed that fatalities in the first 2 years occurred in 4.4% (11 of 250) of patients treated with 0.5 mg ranibizumab, in 2.8% (7 of 250) of patients treated with 0.3 mg ranibizumab, and in 1.2% (3 of 250) of control patients.
 Over 3 years, fatalities occurred in 6.4% (16 of 249) of patients treated with 0.5 mg ranibizumab and in 4.4% (11 of 250) of patients treated with 0.3 mg ranibizumab.
 Although the rate of fatal events was low and included causes of death typical of patients with advanced diabetic complications, a potential relationship between these events and intravitreal use of VEGF inhibitors cannot be excluded.
+
+## 5.5 Retinal Vasculitis with or without Occlusion
+
+Retinal vasculitis with or without occlusion, typically in the presence of preexisting intraocular inflammation or post-treatment with other intravitreal agents, have been reported with the use of ranibizumab products.
+Discontinue treatment with CIMERLI in patients who develop these events.
+Patients should be instructed to report any change in vision without delay [see Patient Counseling Information (17)].

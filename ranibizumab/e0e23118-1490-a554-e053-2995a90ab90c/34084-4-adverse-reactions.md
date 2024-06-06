@@ -13,7 +13,7 @@ Serious adverse reactions related to the injection procedure have occurred in < 
 
 ## 6.2 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data below reflect exposure to 0.5 mg ranibizumab in 440 patients with neovascular AMD in Studies AMD-1, AMD-2, and AMD-3; in 259 patients with macular edema following RVO.
 The data also reflect exposure to 0.3 mg ranibizumab in 250 patients with DME and DR at baseline [see Clinical Studies (14)].
@@ -89,10 +89,8 @@ Table 2 Non-Ocular Reactions in the DME and DR, AMD, and RVO Studies
 
 ## 6.3 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other ranibizumab products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of ranibizumab or of other ranibizumab products.
 
 The pre-treatment incidence of immunoreactivity to ranibizumab was 0%-5% across treatment groups.
 After monthly dosing with ranibizumab for 6 to 24 months, antibodies to ranibizumab were detected in approximately 1%-9% of patients.
