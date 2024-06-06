@@ -7,10 +7,10 @@ There was no evidence for carcinogenicity of racemic citalopram in mice receivin
 There was an increased incidence of small intestine carcinoma in rats receiving 8 or 24 mg/kg/day racemic citalopram.
 A no-effect dose for this finding was not established.
 The relevance of these findings to humans is unknown.
-Mutagenesis Racemic citalopram was mutagenic in the in vitro bacterial reverse mutation assay (Ames test) in 2 of 5 bacterial strains (Salmonella TA98 and TA1537) in the absence of metabolic activation.
-It was clastogenic in the in vitro Chinese hamster lung cell assay for chromosomal aberrations in the presence and absence of metabolic activation.
-Racemic citalopram was not mutagenic in the in vitro mammalian forward gene mutation assay (HPRT) in mouse lymphoma cells or in a coupled in vitro/in vivo unscheduled DNA synthesis (UDS) assay in rat liver.
-It was not clastogenic in the in vitro chromosomal aberration assay in human lymphocytes or in two in vivo mouse micronucleus assays.
+Mutagenesis Racemic citalopram was mutagenic in the in vitrobacterial reverse mutation assay (Ames test) in 2 of 5 bacterial strains (Salmonella TA98 and TA1537) in the absence of metabolic activation.
+It was clastogenic in the in vitroChinese hamster lung cell assay for chromosomal aberrations in the presence and absence of metabolic activation.
+Racemic citalopram was not mutagenic in the in vitromammalian forward gene mutation assay (HPRT) in mouse lymphoma cells or in a coupled in vitro/in vivounscheduled DNA synthesis (UDS) assay in rat liver.
+It was not clastogenic in the in vitrochromosomal aberration assay in human lymphocytes or in two in vivomouse micronucleus assays.
 Impairment of Fertility When racemic citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32, 48, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day.
 Gestation duration was increased at 48 mg/kg/day.
 
