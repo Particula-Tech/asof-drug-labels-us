@@ -23,10 +23,13 @@ RX only
 Net Wt.
 12 g
 
-©2020 GSK group of companies or its licensor.
+GSK
 
-1. 62000000051129 Rev.
-   08/20
+©2023 GSK group of companies or its licensor.
+
+1. 62000000090770 Rev.
+   10/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -53,10 +56,14 @@ RX only
 Net Wt.
 12 g
 
-©2020 GSK group of companies or its licensor.
+GSK
 
-1. 62000000051130 Rev.
-   08/20
+©2023 GSK group of companies or its licensor.
+
+1. 62000000090781 Rev.
+   10/23
+2. 
+3. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -83,7 +90,10 @@ RX only
 Net Wt.
 12 g
 
-©2020 GSK group of companies or its licensor.
+GSK
 
-1. 62000000051131 Rev.
-   08/20
+©2023 GSK group of companies or its licensor.
+
+1. 62000000090778 Rev.
+   10/23
+2. 
