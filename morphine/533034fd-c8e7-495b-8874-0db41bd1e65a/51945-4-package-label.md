@@ -70,7 +70,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00M38 Rev 07/2017
+L00M38 Rev 02/2019
 
 # PRINCIPAL DISPLAY PANEL - 200 mg
 
