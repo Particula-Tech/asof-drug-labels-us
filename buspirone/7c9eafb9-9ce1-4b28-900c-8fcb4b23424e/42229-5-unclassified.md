@@ -1,1 +1,1 @@
-(Patient Instruction Sheet Included.)
+(Patient Instruction Sheet Included)

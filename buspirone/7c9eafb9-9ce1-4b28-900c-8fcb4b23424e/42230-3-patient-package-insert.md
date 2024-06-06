@@ -19,6 +19,10 @@ If your doctor prescribed the 15 mg tablet:
 To break a multi-scored tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown in the photo.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 12/2016 PL:BUSPAS:R6p
+Manufactured by: Mylan Laboratories Limited Hyderbad -500 096, India
+
+75082191
+
+Revised: 8/2021 MX:PL:BUSPAS:R1p

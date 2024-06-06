@@ -81,7 +81,7 @@ Infrequent adverse events are those occurring in 1/100 to 1/1000 patients, while
 
 Cardiovascular: Frequent was nonspecific chest pain; infrequent were syncope, hypotension, and hypertension; rare were cerebrovascular accident, congestive heart failure, myocardial infarction, cardiomyopathy, and bradycardia.
 
-Central Nervous System:Frequent were dream disturbances; infrequent were depersonalization, dysphoria, noise intolerance, euphoria, akathisia, fearfulness, loss of interest, dissociative reaction, hallucinations, involuntary movements, slowed reaction time, suicidal ideation, and seizures; rare were feelings of claustrophobia, cold intolerance, stupor, and slurred speech and psychosis.
+Central Nervous System: Frequent were dream disturbances; infrequent were depersonalization, dysphoria, noise intolerance, euphoria, akathisia, fearfulness, loss of interest, dissociative reaction, hallucinations, involuntary movements, slowed reaction time, suicidal ideation, and seizures; rare were feelings of claustrophobia, cold intolerance, stupor, and slurred speech and psychosis.
 
 EENT: Frequent were tinnitus, sore throat, and nasal congestion; infrequent were redness and itching of the eyes, altered taste, altered smell, and conjunctivitis; rare were inner ear abnormality, eye pain, photophobia, and pressure on eyes.
 
@@ -91,7 +91,7 @@ Gastrointestinal: Infrequent were flatulence, anorexia, increased appetite, sali
 
 Genitourinary: Infrequent were urinary frequency, urinary hesitancy, menstrual irregularity and spotting, and dysuria; rare were amenorrhea, pelvic inflammatory disease, enuresis, and nocturia.
 
-Musculoskeletal:Infrequent were muscle cramps, muscle spasms, rigid/stiff muscles, and arthralgias; rare was muscle weakness.
+Musculoskeletal: Infrequent were muscle cramps, muscle spasms, rigid/stiff muscles, and arthralgias; rare was muscle weakness.
 
 Respiratory: Infrequent were hyperventilation, shortness of breath, and chest congestion; rare was epistaxis.
 
