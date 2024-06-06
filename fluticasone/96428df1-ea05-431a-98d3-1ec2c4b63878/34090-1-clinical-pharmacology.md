@@ -6,7 +6,7 @@ BREO ELLIPTA
 
 BREO ELLIPTA contains both fluticasone furoate and vilanterol.
 The mechanisms of action described below for the individual components apply to BREO ELLIPTA.
-These drugs represent 2 different classes of medications an ICS and a LABA), each having different effects on clinical and physiological indices.
+These drugs represent 2 different classes of medications (an ICS and a LABA), each having different effects on clinical and physiological indices.
 
 Fluticasone Furoate
 
