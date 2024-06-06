@@ -40,5 +40,5 @@ Reductions in Lesion Counts and Improvements in Investigator's Global Assessment
 | Total Lesions |  |  |  |  |
 | Mean absolute reduction from Baseline | 46.0 | 31.0 | 43.0 | 33.0 |
 | Mean percent reduction from Baseline | 56% | 39% | 56% | 43% |
-| Investigator's Global Assessment (IGA), n (%) |  |  |  |  |
-| Minimum 2Dgrade improvement and IGA of 0 or 1 | 107 (29%) | 60 (16%) | 103 (28%) | 49 (13%) |
+| Investigator's Global Assessment (IGA), |  |  |  |  |
+| n (%) Minimum 2-Dgrade improvement and IGA of 0 or 1 | 107 (29%) | 60 (16%) | 103 (28%) | 49 (13%) |

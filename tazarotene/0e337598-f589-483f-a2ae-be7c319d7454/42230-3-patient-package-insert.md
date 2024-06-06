@@ -84,8 +84,6 @@ Shake the Tazarotene Foam can before use.
 
 2.
 Remove cap from can.
-Nozzle should be lined up with black mark on rim of can.
-If black mark is not lined up with the nozzle, twist nozzle to line up with black mark.
 See Figure A.
 
 Figure A
@@ -186,6 +184,6 @@ The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propa
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Mayne Pharma Greenville, NC 27834
+Distributed by: Mayne Pharma Raleigh, NC 27609
 
-01/2021
+03/2023

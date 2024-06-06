@@ -2,9 +2,6 @@
 
 ## 5.1 Fetal Risk
 
-Based on data from animal reproduction studies, retinoid pharmacology and the potential for systemic absorption, Tazarotene foam may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
-Tazarotene elicits malformations and developmental effects associated with retinoids after topical and oral administration to pregnant rats and rabbits during organogenesis.
-
 Systemic exposure to tazarotenic acid is dependent upon the extent of the body surface area treated.
 In patients treated topically over sufficient body surface area, exposure could be in the same order of magnitude as in orally treated animals.
 Tazarotene is a teratogenic substance, and it is not known what level of exposure is required for teratogenicity in humans [see Clinical Pharmacology (12)].
@@ -20,7 +17,6 @@ Females of child-bearing potential should be warned of the potential risk and us
 The possibility of pregnancy should be considered in females of child-bearing potential at the time of institution of therapy.
 
 A negative serum or urine result for pregnancy test having a sensitivity down to at least 25 mIU/mL for human chorionic gonadotropin (hCG) should be obtained within 2 weeks prior to therapy with Tazarotene Foam, which should begin during a normal menstrual period for females of childbearing potential.
-
 Advise patients of the need to use an effective method of contraception to avoid pregnancy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.2 Local Irritation
