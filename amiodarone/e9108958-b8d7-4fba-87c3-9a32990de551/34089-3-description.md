@@ -22,6 +22,6 @@ Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
 NEXTERONE does not contain polysorbate 80 or benzyl alcohol.
 
-The GALAXY container is fabricated from a specially designed multilayered plastic (PL 2501).
+The GALAXY container is fabricated from a specially designed multilayered plastic.
 Solutions are in contact with the polyethylene layer of the container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.
 The suitability and safety of the plastic have been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies.

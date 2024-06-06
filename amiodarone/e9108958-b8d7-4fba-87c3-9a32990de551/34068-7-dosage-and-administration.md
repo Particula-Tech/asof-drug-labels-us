@@ -35,29 +35,29 @@ If co-administration of the following drugs is necessary, use separate intraveno
 
 Table 2: Y-SITE INJECTION INCOMPATIBILITY
 
-| Drug | Vehicle | Amiodarone Concentration |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Aminophylline | D5W; NS | 4 mg/mL |  |  |  |
-| Amoxicillin Sodium-Clavulanic Acid | unknown | 12.5 mg/mL |  |  |  |
-| Ampicillin Sodium-Sulbactam Sodium | NS | 6 mg/mL |  |  |  |
-| Argatroban | D5W | 1.8 mg/mL |  |  |  |
-| Bivalirudin | D5W | 4 mg/mL |  |  |  |
-| Cefamandole Nafate | D5W | 4 mg/mL |  |  |  |
-| Cefazolin Sodium | D5W | 4 mg/mL |  |  |  |
-| Ceftazidime | D5W | 6 mg/mL |  |  |  |
-| Digoxin | D5W | 6 mg/mL |  |  |  |
-| Furosemide (10 mg/mL) | D5W | 6 mg/mL |  |  |  |
-| Mezlocillin Sodium | D5W | 4 mg/mL |  |  |  |
-| Heparin Sodium | D5W | -- |  |  |  |
-| Imipenem-Cilastin Sodium | D5W | 6 mg/mL |  |  |  |
-| Magnesium Sulfate (500 mg/mL) | D5W | 6 mg/mL |  |  |  |
-| Micafungin | NS | 4 mg/mL |  |  |  |
-| Piperacillin Sodium –Tazobactam Sodium | D5W | 6 mg/mL |  |  |  |
-| Potassium Phosphates | D5W | 6 mg/mL |  |  |  |
-| Sodium Bicarbonate | D5W | 3 mg/mL |  |  |  |
-| Sodium Nitroprusside | D5W | 1.5, 6 and 15 mg/mL |  |  |  |
-| Sodium Phosphates | D5W | 6 mg/mL |  |  |  |
-| D5W = Dextrose 5% in Sterile Water, NS = Normal Saline |  |  |  |  |  |
+| Drug | Vehicle | Amiodarone Concentration |
+| --- | --- | --- |
+| Aminophylline | D5W; NS | 4 mg/mL |
+| Amoxicillin Sodium-Clavulanic Acid | unknown | 12.5 mg/mL |
+| Ampicillin Sodium-Sulbactam Sodium | NS | 6 mg/mL |
+| Argatroban | D5W | 1.8 mg/mL |
+| Bivalirudin | D5W | 4 mg/mL |
+| Cefamandole Nafate | D5W | 4 mg/mL |
+| Cefazolin Sodium | D5W | 4 mg/mL |
+| Ceftazidime | D5W | 6 mg/mL |
+| Digoxin | D5W | 6 mg/mL |
+| Furosemide (10 mg/mL) | D5W | 6 mg/mL |
+| Mezlocillin Sodium | D5W | 4 mg/mL |
+| Heparin Sodium | D5W | -- |
+| Imipenem-Cilastin Sodium | D5W | 6 mg/mL |
+| Magnesium Sulfate (500 mg/mL) | D5W | 6 mg/mL |
+| Micafungin | NS | 4 mg/mL |
+| Piperacillin Sodium –Tazobactam Sodium | D5W | 6 mg/mL |
+| Potassium Phosphates | D5W | 6 mg/mL |
+| Sodium Bicarbonate | D5W | 3 mg/mL |
+| Sodium Nitroprusside | D5W | 1.5, 6 and 15 mg/mL |
+| Sodium Phosphates | D5W | 6 mg/mL |
+| D5W = Dextrose 5% in Sterile Water, NS = Normal Saline |  |  |
 
 ## 2.3 Transition From Intravenous Amiodarone to Oral Amiodarone
 

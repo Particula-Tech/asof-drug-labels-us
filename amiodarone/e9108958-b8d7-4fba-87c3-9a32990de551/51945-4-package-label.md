@@ -1,7 +1,5 @@
 # PACKAGE LABELING - PRINCIPAL DISPLAY PANEL
 
-Container Label
-
 NDC 43066-360-20 For Intravenous Use
 
 Nexterone (amiodarone HCl) Premixed Injection
@@ -34,9 +32,7 @@ Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
 
-PL2501 Plastic 07-34-72-795
-
-Carton Label
+07-34-00-2282
 
 For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
 
@@ -121,7 +117,7 @@ Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
 
-PL2501 Plastic 07-34-72-794
+07-34-00-2283
 
 For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NEXTERONE (amiodarone HCl) Premixed Injection is supplied as a ready-to-use, sterile, nonpyrogenic, iso-osmotic solution in 100 mL and 200 mL single-dose GALAXY containers (PL 2501 plastic) packaged in individual cartons as follows:
+NEXTERONE (amiodarone HCl) Premixed Injection is supplied as a ready-to-use, sterile, nonpyrogenic, iso-osmotic solution in 100 mL and 200 mL single-dose GALAXY containers packaged in individual cartons as follows:
 
 | 150 mg/100 mL | NDC 43066 – 150 – 10 | 2G3451 |
 | --- | --- | --- |
