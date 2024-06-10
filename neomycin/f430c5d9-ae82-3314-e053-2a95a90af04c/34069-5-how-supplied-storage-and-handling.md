@@ -12,4 +12,4 @@ Manufactured in Canada.
 
 Distributed by: Solaris Pharma Corporation Bridgewater, NJ 08807
 
-Revised: October 2022 NST-SL-PI-00 2000015319
+Revised: November 2023 NST-SL-PI-01 2000016178
