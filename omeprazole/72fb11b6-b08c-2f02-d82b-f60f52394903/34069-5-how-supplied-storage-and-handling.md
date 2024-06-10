@@ -33,13 +33,15 @@ Unit-dose packages of 100 (10 x 10) NDC 55111-158-78
 Omeprazole delayed-release capsules, USP 40 mg are off-white to pale yellow, elliptical to spherical pellets filled in size ‘Oel’ hard gelatin capsules with opaque yellow coloured cap and opaque lavender coloured body, imprinted on cap
 
 and on body ‘R159’ with black ink.
-The capsules are supplied in bottles of 30, 100, 500 and unit-dose packages of 100 (10 x 10).
+The capsules are supplied in bottles of 30, 100, 500, 1000's and unit-dose packages of 100 (10 x 10).
 
 Bottles of 30 NDC 55111-159-30
 
 Bottles of 100 NDC 55111-159-01
 
 Bottles of 500 NDC 55111-159-05
+
+Bottles of 1000 NDC 55111-159-10
 
 Unit-dose packages of 100 (10 x 10) NDC 55111-159-78
 
