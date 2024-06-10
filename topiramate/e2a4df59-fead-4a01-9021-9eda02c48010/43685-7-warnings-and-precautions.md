@@ -26,8 +26,8 @@ Decreased sweating and an elevation in body temperature above normal characteriz
 Some of the cases were reported after exposure to elevated environmental temperatures.
 
 The majority of the reports have been in pediatric patients.
-Patients, especially pediatric patients, treated with EPRONTIA should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
-Caution should be used when EPRONTIA is prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
+Patients (especially pediatric patients) treated with EPRONTIA should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Caution should be used when EPRONTIA is given with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
 
 ## 5.4 Metabolic Acidosis
 
@@ -45,9 +45,9 @@ Manifestations of acute or chronic metabolic acidosis may include hyperventilati
 Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.9, 5.13)].
 A one-year, active-controlled study of pediatric patients treated with topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
-Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old pediatrics.
+Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old pediatric patients.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
-Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
+Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)] ﻿.
 
 Measurement of Serum Bicarbonate in Epilepsy and Migraine Patients
 
@@ -71,7 +71,7 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 4shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 4: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
@@ -114,9 +114,9 @@ Psychiatric/behavioral disturbances (e.g., depression, mood) were dose-related f
 Somnolence/Fatigue
 
 Somnolence and fatigue were the adverse reactions most frequently reported during clinical trials of EPRONTIA for adjunctive epilepsy.
-For the adjunctive epilepsy population, the incidence of fatigue, appeared dose related.
+For the adjunctive epilepsy population, the incidence of fatigue, appeared dose-related.
 For the monotherapy epilepsy population, the incidence of somnolence was dose-related.
-For the migraine population, the incidences of both fatigue and somnolence were dose related and more common in the titration phase.
+For the migraine population, the incidences of both fatigue and somnolence were dose-related and more common in the titration phase.
 
 Pediatric Patients
 
@@ -138,7 +138,7 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.7 Fetal Toxicity
 
 EPRONTIA can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age (SGA).
+Data from pregnancy registries indicate that infants exposed to topiramate in uterohave an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
 Consider the benefits and the risks of EPRONTIA when administering this drug in women of childbearing potential, particularly when EPRONTIA is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
@@ -179,7 +179,7 @@ Inform patients about the signs of serious skin reactions.
 EPRONTIA treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)].
 The risk for hyperammonemia with topiramate appears dose-related.
 Hyperammonemia has been reported more frequently when topiramate is used concomitantly with valproic acid.
-Post-marketing cases of hyperammonemia with or without encephalopathy have been reported with topiramate and valproic acid in patients who previously tolerated either drug alone [see Drug Interactions (7.1)].
+Postmarketing cases of hyperammonemia with or without encephalopathy have been reported with topiramate and valproic acid in patients who previously tolerated either drug alone [see Drug Interactions (7.1)].
 
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 In most cases, hyperammonemic encephalopathy abated with discontinuation of treatment.
@@ -200,7 +200,7 @@ In patients who develop unexplained lethargy, vomiting or changes in mental stat
 
 ## 5.13 Kidney Stones
 
-EPRONTIA can cause an increased risk of kidney stones.
+EPRONTIA increases the risk of kidney stones.
 During adjunctive epilepsy trials, the risk for kidney stones in topiramate -treated adults was 1.5%, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
 As in the general population, the incidence of stone formation among topiramate -treated patients was higher in men.
 Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy or migraine.

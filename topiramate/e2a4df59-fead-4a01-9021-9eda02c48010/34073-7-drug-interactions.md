@@ -6,7 +6,7 @@ Concomitant administration of phenytoin or carbamazepine with topiramate resulte
 A dosage adjustment may be needed [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
 
 Concomitant administration of valproic acid and topiramate has been associated with hypothermia and hyperammonemia with and without encephalopathy.
-Examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.12, 5.14), Clinical Pharmacology (12.3)].
+Examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.12,5.14), Clinical Pharmacology (12.3)].
 
 ## 7.2 Other Carbonic Anhydrase Inhibitors
 
@@ -18,15 +18,15 @@ Therefore, patients given EPRONTIA concomitantly with another carbonic anhydrase
 Concomitant administration of topiramate and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of topiramate to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse reactions, EPRONTIA should be used with extreme caution if used in combination with alcohol and other CNS depressants.
 
-## 7.4 Oral Contraceptives
+## 7.4 Contraceptives
 
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking combination oral contraceptive products with topiramate.
-Patients taking estrogen containing contraceptives should be asked to report any change in their bleeding patterns.
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking contraceptive products with EPRONTIA.
+Patients taking estrogen containing or progestin-only contraceptives should be asked to report any change in their bleeding patterns.
 Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Hydrochlorothiazide (HCTZ)
 
-Topiramate Cmax and AUC increased when HCTZ was added to topiramate.
+Topiramate C maxand AUC increased when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
 The addition of HCTZ to topiramate may require a decrease in the topiramate dose [see Clinical Pharmacology (12.3)].
 

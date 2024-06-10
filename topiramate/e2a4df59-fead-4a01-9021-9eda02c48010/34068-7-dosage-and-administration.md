@@ -28,9 +28,9 @@ Titration to the minimum maintenance dose should be attempted over 5-7 weeks of 
 Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted at 25-50 mg/day weekly increments.
 The total daily dose should not exceed the maximum maintenance dose for each range of body weight (Table 2).
 
-Table 2: Monotherapy Target Total Maintenance Dosing for Patients 2 to 9 Years of Age
+Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Years of Age
 
-| Weight (kg) | Total Daily Dose (mg/day) Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
+| Weight (kg) | Total Daily Dose (mg/day) Administered in two equally divided dosesMinimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
 | --- | --- | --- |
 | Up to 11 | 150 | 250 |
 | 12-22 | 200 | 300 |
@@ -83,7 +83,7 @@ Discard the unused portion after 90 days [see How Supplied/Storage and Handling 
 
 ## 2.5 Dosing in Patients with Renal Impairment
 
-In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m2), one-half of the usual adult dose of EPRONTIA is recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m 2), one-half of the usual adult dose of EPRONTIA is recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
 ## 2.6 Dosing in Patients Undergoing Hemodialysis
 

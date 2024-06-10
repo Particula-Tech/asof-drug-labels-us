@@ -2,18 +2,18 @@
 
 The following serious adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Acute Myopia and Secondary Angle Closure Glaucoma Syndrome [see Warnings and Precautions (5.1)]
-- •Visual Field Defects [see Warnings and Precautions (5.2)]
-- •Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.3)]
-- •Metabolic Acidosis [see Warnings and Precautions (5.4)]
-- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- •Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- •Decrease of Bone Mineral Density [see Warnings and Precautions (5.9)]
-- •Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
-- •Serious Skin Reactions [see Warnings and Precautions (5.11)]
-- •Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.12)]
-- •Kidney Stones [see Warnings and Precautions (5.13)]
-- •Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.14)]
+- Acute Myopia and Secondary Angle Closure Glaucoma Syndrome [see Warnings and Precautions (5.1)]
+- Visual Field Defects [see Warnings and Precautions (5.2)]
+- Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.3)]
+- Metabolic Acidosis [see Warnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
+- Decrease of Bone Mineral Density [see Warnings and Precautions (5.9)]
+- Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
+- Serious Skin Reactions [see Warnings and Precautions (5.11)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.12)]
+- Kidney Stones [see Warnings and Precautions (5.13)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -55,7 +55,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Dizziness |  |  | 13 | 14 |
 | Ataxia |  |  | 3 | 4 |
 | Hypoesthesia |  |  | 4 | 5 |
-| Hypertonia |  |  | 0 | 4 |
+| Hypertonia |  |  | 0 | 3 |
 | Involuntary muscle contractions | 0 | 3 |  |  |
 | Vertigo | 0 | 3 |  |  |
 | Gastro-Intestinal System Disorders |  |  |  |  |
@@ -102,6 +102,8 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Rash | 3 | 4 | 1 | 4 |
 | Acne |  |  | 2 | 3 |
 | Special Senses Other, Disorders |  |  |  |  |
+| Taste perversion |  |  | 3 | 5 |
+| Urinary System Disorders |  |  |  |  |
 | Cystitis |  |  | 1 | 3 |
 | Micturition frequency | 0 | 3 |  |  |
 | Renal calculus |  |  | 0 | 3 |
@@ -121,7 +123,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 Table 6 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended topiramate dosing (i.e., 600 mg - 1000 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (200 mg to 400 mg daily) range.
 
-Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in AdultsPatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.
+Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adults *
 
 | Body System Adverse Reaction | Placebo (N=291) % | TOPIRAMATE Dosage (mg/day) 200-400 (N=183) % |
 | --- | --- | --- |
@@ -170,6 +172,7 @@ Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive 
 | Vision Disorders |  |  |
 | Vision abnormal | 2 | 13 |
 | Diplopia | 5 | 10 |
+| *Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. |  |  |
 
 In controlled clinical trials in adults, 11% of patients receiving topiramate 200 to 400 mg/day as adjunctive therapy discontinued due to adverse reactions.
 This rate appeared to increase at dosages above 400 mg/day.
@@ -183,8 +186,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 
 Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of topiramate and was greater than placebo incidence.
 
-Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of AgePatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
-Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
+Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of Age *,†
 
 | Body System Adverse Reaction | Placebo (N=101) % | TOPIRAMATE (N=98) % |
 | --- | --- | --- |
@@ -226,8 +228,9 @@ Patients may have reported more than one adverse reaction during the study and c
 | Skin disorder | 2 | 3 |
 | Urinary System Disorders |  |  |
 | Urinary incontinence | 2 | 4 |
+| *Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. † Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. |  |  |
 
-None of the pediatric patients who received topiramate adjunctive therapy at 5 to 9 g/kg/day in controlled clinical trials discontinued due to adverse reactions.
+None of the pediatric patients who received topiramate adjunctive therapy at 5 to 9 mg/kg/day in controlled clinical trials discontinued due to adverse reactions.
 
 Migraine
 
@@ -240,8 +243,7 @@ The most common adverse reactions with topiramate 100 mg in the clinical trials 
 Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any topiramate treatment group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine in AdultsPatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
-Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
+Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adults *,†,‡
 
 | Body System Adverse Reaction | Placebo (N=445) % | TOPIRAMATE Dosage (mg/day) |  |
 | --- | --- | --- | --- |
@@ -252,7 +254,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Central & Peripheral Nervous System Disorders |  |  |  |
 | Paresthesia | 6 | 35 | 51 |
 | Dizziness | 10 | 8 | 9 |
-| Hyperkinesia | 2 | 6 | 7 |
+| Hypoesthesia | 2 | 6 | 7 |
 | Language problems | 2 | 7 | 6 |
 | Gastro-Intestinal System Disorders |  |  |  |
 | Nausea | 8 | 9 | 13 |
@@ -297,7 +299,8 @@ Patients may have reported more than one adverse reaction during the study and c
 | Urinary System Disorders |  |  |  |
 | Urinary tract infection | 2 | 4 | 2 |
 | Vision Disorders |  |  |  |
-| Blurred visionBlurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 |
+| Blurred vision ‡ | 2 | 4 | 2 |
+| *Includes 35 adolescent patients age 12 to 15 years. † Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. ‡Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. |  |  |  |
 
 Of the 1,135 patients exposed to topiramate in the adult placebo-controlled studies, 25% of topiramate-treated patients discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
 The adverse reactions associated with discontinuing therapy in the topiramate -treated patients included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
@@ -317,7 +320,7 @@ Table 9 also shows adverse reactions in pediatric patients in the controlled mig
 Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Table 11 and Table 12),Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
+Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age *,†,‡
 
 | Body System Adverse Reaction | Placebo (N=45) % | TOPIRAMATE Dosage |  |
 | --- | --- | --- | --- |
@@ -328,7 +331,7 @@ Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Tre
 | Central & Peripheral Nervous System Disorders |  |  |  |
 | Paresthesia | 7 | 20 | 19 |
 | Dizziness | 4 | 4 | 6 |
-| Gastro-Intestinal System Disorders |  |  |  |
+| Gastrointestinal System Disorders |  |  |  |
 | Abdominal pain | 9 | 7 | 15 |
 | Nausea | 4 | 4 | 8 |
 | Metabolic and Nutritional Disorders |  |  |  |
@@ -344,10 +347,11 @@ Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Tre
 | Rhinitis | 2 | 7 | 6 |
 | Sinusitis | 2 | 9 | 4 |
 | Coughing | 0 | 7 | 2 |
-| Special Sense Other, Disorders |  |  |  |
+| Special Senses Other, Disorders |  |  |  |
 | Taste perversion | 2 | 2 | 6 |
 | Vision Disorders |  |  |  |
 | Conjunctivitis | 4 | 7 | 4 |
+| *35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Table 11 and Table 12) †Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events. ‡Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003 |  |  |  |
 
 In the double-blind placebo-controlled studies, adverse reactions led to discontinuation of treatment in 8% of placebo patients compared with 6% of topiramate -treated patients.
 Adverse reactions associated with discontinuing therapy that occurred in more than one topiramate -treated patient were fatigue (1%), headache (1%), and somnolence (1%).
@@ -386,14 +390,14 @@ Topiramate is not indicated for the preventive treatment of migraine in pediatri
 The following adverse reactions have been identified during post approval use of topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)].
+Body as a Whole-General Disorders:oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)].
 
-Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis.
+Gastrointestinal System Disorders:hepatic failure (including fatalities), hepatitis, pancreatitis.
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus.
+Skin and Appendage Disorders:bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus.
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)].
+Urinary System Disorders:kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)].
 
-Vision Disorders: acute myopia, secondary angle closure glaucoma syndrome [see Warnings and Precautions (5.1)], maculopathy.
+Vision Disorders:acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy.
 
-Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.
+Hematological Disorders:decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.

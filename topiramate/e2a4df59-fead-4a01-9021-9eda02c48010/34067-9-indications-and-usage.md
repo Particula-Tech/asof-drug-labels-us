@@ -10,4 +10,4 @@ EPRONTIA is indicated as adjunctive therapy for the treatment of partial-onset s
 
 ## 1.3 Migraine
 
-EPRONTIA is indicated for the preventive treatment of migraine in patients 12 years and older.
+EPRONTIA is indicated for the preventive treatment of migraine in patients 12 years of age and older.
