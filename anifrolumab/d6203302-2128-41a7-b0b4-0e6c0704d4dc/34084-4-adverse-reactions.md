@@ -77,3 +77,10 @@ Malignancies
 In 52‑week controlled-clinical trials, malignancies (excluding non-melanoma skin cancers) were observed in 0.7% (3/459) and 0.6% (3/466) of patients receiving SAPHNELO and placebo, corresponding to EAIR of 0.7 and 0.7 per 100 PY, respectively.
 Malignant neoplasm (including non-melanoma skin cancers) was reported for 1.3% (6/459) patients receiving SAPHNELO, compared to 0.6% (3/466) patients receiving placebo (EAIR: 1.3 and 0.7 per 100 PY, respectively).
 The malignancies that were reported in more than one patient treated with SAPHNELO included breast cancer and squamous cell carcinoma.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reaction has been identified during post-approval use of SAPHNELO.
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Arthralgia

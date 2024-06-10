@@ -31,4 +31,4 @@ US License No. 2059
 
 Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-©AstraZeneca 2023
+©AstraZeneca 2024

@@ -71,7 +71,7 @@ Randomization was stratified by disease severity (SLEDAI-2K score at baseline, <
 The reduction in disease activity seen in the BICLA and SRI-4 was related primarily to improvement in the mucocutaneous and musculoskeletal organ systems.
 Flare rate was reduced in patients receiving SAPHNELO compared to patients who received placebo although the difference was not statistically significant.
 
-BICLAresponder analysis: BICLA was the primary endpoint in Trial 3; anifrolumab-fnia 300 mg demonstrated statistically significant and clinically meaningful efficacy in overall disease activity compared with placebo, with greater improvements in all components of the composite endpoint.
+BICLA responder analysis: BICLA was the primary endpoint in Trial 3; anifrolumab-fnia 300 mg demonstrated statistically significant and clinically meaningful efficacy in overall disease activity compared with placebo, with greater improvements in all components of the composite endpoint.
 In Trial 1 and 2 BICLA was a pre-specified analysis.
 The BICLA results are presented in Table 3.
 
