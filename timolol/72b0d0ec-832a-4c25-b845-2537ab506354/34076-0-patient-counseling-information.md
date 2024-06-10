@@ -1,12 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-How to Use The Bottle
+How to Use the Timolol GFS solution?
 
 The bottle is designed to assure the delivery of a precise dose of medication.
 Before using your bottle, read the complete instructions carefully.
 
 1.
-If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before timolol GFS.
+If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before Timolol GFS.
 
 2.
 Wash hands before each use.
@@ -42,25 +42,34 @@ Repeat 6, 7, 8, and 9 with other eye if instructed to do so.
 11.
 Replace screw cap by turning until firmly touching the bottle.
 
-Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye(s) or surrounding structures.
-Patients should also be instructed that ocular solutions, if handled improperly, could become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye(s) and subsequent loss of vision may result from using contaminated solutions.
-[seeWarnings and Precautions (5.8)]
+Avoiding Contamination of the Product
 
-Patients should be advised that if they have ocular surgery or develop an intercurrent ocular condition (e.g., trauma or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
+Instruct patients to avoid allowing the tip of the dispensing container to contact the eye(s) or surrounding structures.
+Advise patients that ocular solutions, if handled improperly, could become contaminated by common bacteria known to cause ocular infections.
+Serious damage to the eye(s) and subsequent loss of vision may result from using contaminated solutions [see Warnings and Precautions (5.8)].
 
-Patients should be instructed to invert the closed container and shake once before each use.
+When to Seek Physician Advice
+
+Advise patients that if they have ocular surgery or develop an intercurrent ocular condition (e.g., trauma or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
+
+Administration Instructions
+
+Instruct patients to invert the closed container and shake once before each use.
 It is not necessary to shake the container more than once.
 
-Patients requiring concomitant topical ophthalmic medications should be instructed to administer these at least 10 minutes before instilling timolol GFS.
+Instruct patients requiring concomitant topical ophthalmic medications to administer these at least 10 minutes before instilling Timolol GFS.
 
-Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product [see Contraindications (4)].
+Asthma, COPD, Sinus Bradycardia, AV Block, Cardiac Failure, Cardiogenic Shock
 
-Patients should be advised that transient blurred vision or visual disturbance, generally lasting from 30 seconds to 5 minutes, following instillation may impair the ability to perform hazardous tasks such as operating machinery or driving a motor vehicle.
+Advise patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure to not use Timolol GFS [see Contraindications (4)].
+
+Temporary Blurred Vision
+
+Advise patients that transient blurred vision or visual disturbance, generally lasting from 30 seconds to 5 minutes, following instillation may impair the ability to perform hazardous tasks such as operating machinery or driving a motor vehicle.
 
 *TIMOPTIC is a Registered trademark of Merck & Co., Inc.
 
-Manufactured by
+Manufactured by:
 
 Alcon Laboratories, Inc.
 
@@ -70,4 +79,4 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-300042905-0521
+300066885-0524

@@ -1,8 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 General
+## 5.1 Systemic Absorption
 
-As with many topically applied ophthalmic drugs, this drug is absorbed systemically.
+As with many topically applied ophthalmic drugs, Timolol GFS is absorbed systemically.
 
 The same adverse reactions found with systemic administration of beta-adrenergic receptor inhibitors may occur with topical ophthalmic administration.
 For example, severe respiratory reactions and cardiac reactions, including death due to bronchospasm in patients with asthma, and death due to cardiac failure, have been reported following systemic or ophthalmic administration of timolol maleate [see Contraindications (4)].
@@ -12,12 +12,12 @@ For example, severe respiratory reactions and cardiac reactions, including death
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
 
 In patients without a history of cardiac failure, continued depression of the myocardium with beta-adrenergic receptor inhibitors over a period of time can, in some cases, lead to cardiac failure.
-At the first sign or symptom of cardiac failure, timolol GFS should be discontinued.
+At the first sign or symptom of cardiac failure, Timolol GFS should be discontinued.
 
 ## 5.3 Bronchospasm and Obstructive Pulmonary Disease
 
 Bronchospasm may occur.
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which timolol GFS is contraindicated [see Contraindications (4)]) should, in general, not receive beta-adrenergic receptor inhibitors, including timolol GFS.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which Timolol GFS is contraindicated [see Contraindications (4)]) should, in general, not receive beta-adrenergic receptor inhibitors, including Timolol GFS.
 
 ## 5.4 Surgical Anesthesia
 
@@ -42,7 +42,7 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 ## 5.7 Cerebrovascular Insufficiency
 
 Because of potential effects of beta-adrenergic receptor inhibitors on blood pressure and pulse, these agents should be used with caution in patients with cerebrovascular insufficiency.
-If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with timolol GFS, alternative therapy should be considered.
+If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with Timolol GFS, alternative therapy should be considered.
 
 ## 5.8 Bacterial Keratitis
 
