@@ -25,6 +25,6 @@ Atorvastatin was negative in the in vivo mouse micronucleus test.
 
 In female rats, atorvastatin at doses up to 225 mg/kg (56 times the human exposure) did not cause adverse effects on fertility.
 Studies in male rats performed at doses up to 175 mg/kg (15 times the human exposure) produced no changes in fertility.
-There was aplasia and aspermia in the epididymides of 2 of 10 rats treated with atorvastatin calcium at a dose equivalent to 100 mg atorvastatin/kg/day for 3 months (16 times the human AUC at the 80 mg dose); testis weights were significantly lower at 30 and 100 mg/kg/day and epididymal weight was lower at 100 mg/kg/day.
+There was aplasia and aspermia in the epididymis of 2 of 10 rats treated with atorvastatin calcium at a dose equivalent to 100 mg atorvastatin/kg/day for 3 months (16 times the human AUC at the 80 mg dose); testis weights were significantly lower at 30 and 100 mg/kg/day and epididymal weight was lower at 100 mg/kg/day.
 Male rats given the equivalent of 100 mg atorvastatin/kg/day for 11 weeks prior to mating had decreased sperm motility, spermatid head concentration, and increased abnormal sperm.
-Atorvastatin caused no adverse effects on semen parameters, or reproductive organ histopathology in dogs given doses of atorvastatin calcium equivalent to 10, 40, or 120 mg atorvastatin/kg/day for two years.
+Atorvastatin caused no adverse effects on semen parameters, or reproductive organ histopathology in dogs given doses of atorvastatin calcium equivalent to 10, 40, or 120 mg atorvastatin/kg/day for 2 years.

@@ -2,21 +2,27 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Information for Patients
+Myopathy and Rhabdomyolysis
 
-Because of the risk of myopathy with statins, the drug class to which atorvastatin belongs, advise patients to report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
+Advise patients that CADUET may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is also increased when taking certain types of medication or consuming large quantities of grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings andPrecautions (5.1), Drug Interactions (7.1)].
 
-Advise patients taking atorvastatin that cholesterol is a chronic condition and they should adhere to their medication along with their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program as appropriate, and periodic testing of a fasting lipid panel to determine goal attainment.
+Hepatic Dysfunction
 
-Advise patients about substances they should not take concomitantly with atorvastatin [see Warnings and Precautions (5.1)].
-Patients should inform other healthcare professionals prescribing a new medication that they are taking CADUET.
+Inform patients that CADUET may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice [see Warnings and Precautions (5.3)].
 
-Muscle Pain: Advise patients starting therapy with CADUET of the risk of myopathy and to report promptly any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing CADUET.
-The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (> 1 liter) of grapefruit juice.
-They should discuss all medication, both prescription and over the counter, with their healthcare professional.
+Increases in HbA1c and Fasting Serum Glucose Levels
 
-Liver Enzymes: Advise patients treated with CADUET to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
+Inform patients that increases in HbA1c and fasting serum glucose levels may occur with CADUET.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.6)].
 
-Embryofetal Toxicity: Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment and to inform their healthcare provider of a known or suspected pregnancy while using CADUET [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
+Pregnancy
 
-Lactation: Advise women not to breastfeed during treatment with CADUET [see Contraindications (4) and Use in Specific Populations (8.2)].
+Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if CADUET should be discontinued [see Use inSpecific Populations (8.1)].
+
+Lactation
+
+Advise patients that breastfeeding is not recommended during treatment with CADUET [see Use in Specific Populations (8.2)].

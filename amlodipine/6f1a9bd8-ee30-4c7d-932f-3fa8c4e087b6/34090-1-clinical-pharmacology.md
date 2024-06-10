@@ -60,7 +60,7 @@ The liver is the primary site of action and the principal site of cholesterol sy
 Drug dosage, rather than systemic drug concentration, correlates better with LDL-C reduction.
 Individualization of drug dosage should be based on therapeutic response [see Dosage and Administration (2)].
 
-Drug interactions
+Drug Interactions
 
 Sildenafil: When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
 
@@ -74,9 +74,8 @@ Absolute bioavailability has been estimated to be between 64% and 90%.
 Atorvastatin: After oral administration alone, atorvastatin is rapidly absorbed; maximum plasma concentrations occur within 1 to 2 hours.
 Extent of absorption increases in proportion to atorvastatin dose.
 The absolute bioavailability of atorvastatin (parent drug) is approximately 14% and the systemic availability of HMG-CoA reductase inhibitory activity is approximately 30%.
-The low systemic availability is attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism.
-Plasma atorvastatin concentrations are lower (approximately 30% for Cmax and AUC) following evening drug administration compared with morning.
-However, LDL-C reduction is the same regardless of the time of day of drug administration [see Dosage and Administration (2)].
+The low systemic availability is attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism.Although food decreases the rate and extent of drug absorption by approximately 25% and 9%, respectively, as assessed by Cmax and AUC,LDL-C reduction is similar whether atorvastatin is given with or without food Plasma atorvastatin concentrations are lower (approximately 30% for Cmax and AUC) following evening drug administration compared with morning.
+However, LDL-C reduction is the same regardless of the time of day of drug administration.
 
 CADUET: Following oral administration of CADUET, peak plasma concentrations of amlodipine and atorvastatin are seen at 6 to 12 hours and 1 to 2 hours post dosing, respectively.
 The rate and extent of absorption (bioavailability) of amlodipine and atorvastatin from CADUET are not significantly different from the bioavailability of amlodipine and atorvastatin administered separately (see above).
@@ -93,7 +92,8 @@ Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consec
 Atorvastatin: Mean volume of distribution of atorvastatin is approximately 381 liters.
 Atorvastatin is ≥98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
-Based on observations in rats, atorvastatin calcium is likely to be secreted in human milk [see Contraindications (4) and Use in Specific Populations (8.3)].
+
+Elimination
 
 Metabolism
 
@@ -122,7 +122,6 @@ Geriatric
 Amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose of amlodipine may be required.
 
 Atorvastatin: Plasma concentrations of atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥65 years) than in young adults.
-Clinical data suggest a greater degree of LDL-lowering at any dose of atorvastatin in the elderly population compared to younger adults [see Use in Specific Populations (8.5)].
 
 Pediatric
 
@@ -140,9 +139,7 @@ Renal Impairment
 Amlodipine: The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
 Patients with renal failure may therefore receive the usual initial amlodipine dose.
 
-Atorvastatin: Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin; thus, dose adjustment of atorvastatin in patients with renal dysfunction is not necessary [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
-
-Hemodialysis
+Atorvastatin: Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin.
 
 While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to clear atorvastatin or amlodipine since both drugs are extensively bound to plasma proteins.
 
@@ -152,9 +149,7 @@ Amlodipine: Elderly patients and patients with hepatic insufficiency have decrea
 
 Atorvastatin: In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-Cmax and AUC of atorvastatin are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
-
-Atorvastatin is contraindicated in patients with active liver disease.
+Cmax and AUC of atorvastatin are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Use in SpecificPopulations (8.7)].
 
 Heart Failure
 

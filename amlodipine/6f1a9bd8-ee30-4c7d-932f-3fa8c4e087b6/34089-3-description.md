@@ -1,12 +1,12 @@
 # 11 DESCRIPTION
 
-CADUET (amlodipine and atorvastatin) tablets combine the calcium channel blocker amlodipine besylate with the HMG CoA-reductase inhibitor atorvastatin calcium.
+CADUET (amlodipine and atorvastatin) tablets combine the calcium channel blocker amlodipine besylate with the HMG-CoA-reductase inhibitor atorvastatin calcium.
 
 Amlodipine besylate is chemically described as 3-ethyl-5-methyl (±)-2-[(2-aminoethoxy)methyl]-4-(o-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylate, monobenzenesulphonate.
 Its empirical formula is C20H25ClN2O5∙C6H6O3S.
 
 Atorvastatin calcium is chemically described as [R-(R*, R*)]-2-(4-fluorophenyl)-ß, δ-dihydroxy-5-(1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl]-1H-pyrrole-1-heptanoic acid, calcium salt (2:1) trihydrate.
-Its empirical formula is (C33H34 FN2O5)2Ca∙3H2O.
+Its empirical formula is (C33H34FN2O5)2Ca∙3H2O.
 
 The structural formulae for amlodipine besylate and atorvastatin calcium are shown below.
 

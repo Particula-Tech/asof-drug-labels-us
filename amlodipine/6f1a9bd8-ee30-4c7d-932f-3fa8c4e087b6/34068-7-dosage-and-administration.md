@@ -11,9 +11,13 @@ Patients may be given the equivalent dose of CADUET or a dose of CADUET with inc
 CADUET may be used to provide additional therapy for patients already on one of its components.
 CADUET may be used to initiate treatment in patients with hyperlipidemia and either hypertension or angina.
 
+Important Dosage Information
+
+Take CADUET orally once daily at any time of the day, with or without food.
+
 Amlodipine
 
-The usual initial antihypertensive oral dose of amlodipine is 5 mg once daily, and the maximum dose is 10 mg once daily.
+The usual initial antihypertensive oral dosage of amlodipine is 5 mg once daily, and the maximum dose is 10 mg once daily.
 
 Pediatric (age > 6 years), small adult, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding amlodipine to other antihypertensive therapy.
 
@@ -21,37 +25,47 @@ Adjust dosage according to blood pressure goals.
 In general, wait 7 to 14 days between titration steps.
 Titration may proceed more rapidly, however, if clinically warranted, provided the patient is assessed frequently.
 
-Angina: The recommended dose of amlodipine for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency.
+Angina The recommended dosage of amlodipine for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency.
 Most patients will require 10 mg for adequate effect.
 
-Coronary Artery Disease: The recommended dose range of amlodipine for patients with CAD is 5–10 mg once daily.
+Coronary Artery Disease The recommended dosage range of amlodipine for patients with CAD is 5–10 mg once daily.
 In clinical studies, the majority of patients required 10 mg [see Clinical Studies (14.4)].
 
-Pediatrics: The effective antihypertensive oral dose of amlodipine in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily.
-Doses in excess of 5 mg daily have not been studied in pediatric patients [see Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+Pediatrics The effective antihypertensive oral dose of amlodipine in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily.
+Doses in excess of 5 mg daily have not been studied in pediatric patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 
-Atorvastatin (Hyperlipidemia)
+Atorvastatin
 
-Hyperlipidemia and Mixed Dyslipidemia: The recommended starting dose of atorvastatin is 10 or 20 mg once daily.
-Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily.
-The dosage range of atorvastatin is 10 to 80 mg once daily.
-Atorvastatin can be administered as a single dose at any time of the day, with or without food.
-The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response.
-After initiation and/or upon titration of atorvastatin, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
+Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating atorvastatin, and adjust the ‎dosage if ‎‎necessary.‎ ‎
 
-Homozygous Familial Hypercholesterolemia: The dosage range of atorvastatin in patients with HoFH is 10 to 80 mg daily.
-Atorvastatin should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
+Recommended Dosage in Adult Patients
 
-Concomitant Lipid-Lowering Therapy: Atorvastatin may be used with bile acid resins.
-Monitor for signs of myopathy in patients receiving the combination of HMG-CoA reductase inhibitors (statins) and fibrates [see Warnings and Precautions (5.1), Drug Interactions (7)].
+The recommended starting dosage of atorvastatin is 10 mg to 20 mg once daily.
+The dosage range is 10 mg to 80 mg once daily.
+Patients who require reduction in LDL-C greater than 45% may be started at 40 mg once daily.
 
-Patients with Renal Impairment: Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+Recommended Dosage in Pediatric Patients 10 Years of Age and Older with HeFH
 
-Use with Cyclosporine, Clarithromycin, Itraconazole, Letermovir, or Certain Protease Inhibitors: In patients taking cyclosporine or the human immunodeficiency virus (HIV) protease inhibitor tipranavir plus ritonavir or the hepatitis C virus (HCV) protease inhibitor glecaprevir plus pibrentasvir, or letermovir when co-administered with cyclosporine, therapy with atorvastatin should be avoided.
-In patients with HIV taking lopinavir plus ritonavir, use the lowest dose necessary of atorvastatin.
-In patients taking clarithromycin, itraconazole, elbasvir plus grazoprevir, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, or letermovir therapy with atorvastatin should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used.
-In patients taking the HIV protease inhibitor nelfinavir therapy with atorvastatin should be limited to 40 mg [see Warnings and Precautions (5.1), Drug Interactions (7.3)].
+The recommended starting dosage of atorvastatin is 10 mg once daily.
+The dosage range is 10 mg to 20 mg once daily.
 
-Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 Years to 17 Years of Age): The recommended starting dose of atorvastatin is 10 mg/day; the usual dose range is 10 to 20 mg orally once daily [see Clinical Studies (14.11)].
-Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.4) and Clinical Pharmacology (12)].
-Adjustments should be made at intervals of 4 weeks or more.
+Recommended Dosage in Pediatric Patients 10 Years of Age and Older with HoFH
+
+The recommended starting dosage of atorvastatin is 10 mg to 20 mg once daily.
+The dosage range is 10 mg to 80 mg once daily.
+
+Dosage Modifications Due to Drug Interactions
+
+Concomitant use of atorvastatin with the following drugs requires dosage modification of atorvastatin [see Warnings and_5.1_Myopathy_andPrecautions (5.1) and Drug Interactions (7.1)].
+
+Anti-Viral Medications
+
+• In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir or letermovir, do not exceed atorvastatin 20 mg once daily.
+
+• In patients taking nelfinavir, do not exceed atorvastatin 40 mg once daily.
+
+Select Azole Antifungals or Macrolide Antibiotics
+
+• In patients taking clarithromycin or itraconazole, do not exceed atorvastatin 20 mg once daily.
+
+For additional recommendations regarding concomitant use of atorvastatin with other anti-viral medications, azole antifungals or macrolide antibiotics, [see Drug Interactions (7.1)].

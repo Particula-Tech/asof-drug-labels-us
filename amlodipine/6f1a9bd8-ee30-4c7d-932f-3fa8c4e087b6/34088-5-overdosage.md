@@ -18,6 +18,6 @@ As amlodipine is highly protein bound, hemodialysis is not likely to be of benef
 
 Atorvastatin
 
-There is no specific treatment for atorvastatin overdosage.
-In the event of an overdose, the patient should be treated symptomatically, and supportive measures instituted as required.
-Because of extensive drug binding to plasma proteins, hemodialysis is not expected to significantly enhance atorvastatin clearance.
+No specific antidotes for atorvastatin are known.
+Contact Poison Control (1-800-222-1222) for latest recommendations.
+Due to extensive drug binding to plasma proteins, hemodialysis is not expected to significantly enhance atorvastatin clearance.

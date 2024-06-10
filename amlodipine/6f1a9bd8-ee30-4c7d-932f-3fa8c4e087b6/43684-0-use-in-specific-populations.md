@@ -4,20 +4,22 @@
 
 Risk Summary
 
-CADUET is contraindicated in women who are pregnant.
-
 Atorvastatin
 
-Atorvastatin is contraindicated for use in pregnant women since safety in pregnant women has not been established and there is no apparent benefit of lipid lowering drugs during pregnancy.
-Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, atorvastatin may cause fetal harm when administered to a pregnant woman.
-CADUET should be discontinued as soon as pregnancy is recognized [see Contraindications (4)].
-Limited published data on the use of atorvastatin are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
-In animal reproduction studies in rats and rabbits there was no evidence of embryo-fetal toxicity or congenital malformations at doses up to 30 and 20 times, respectively, the human exposure at the MRHD of 80 mg, based on body surface area (mg/m2).
-In rats administered atorvastatin during gestation and lactation, decreased postnatal growth and development was observed at doses ≥6 times the MRHD (see Data).
+Discontinue atorvastatin when pregnancy is recognized.
+Alternatively, consider the ongoing therapeutic needs of the individual patient.
+Atorvastatin decreases synthesis of cholesterol and possibly other biologically active substances derived from cholesterol; therefore, atorvastatin may cause fetal harm when administered to pregnant patients based on the mechanism of action [see Clinical Pharmacology (12.1)].
+In addition, treatment of hyperlipidemia is not generally necessary during pregnancy.
+Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hyperlipidemia for most patients.
+
+Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations.
+Published data from prospective and retrospective observational cohort studies with atorvastatin use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage (see Data).
+In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered atorvastatin at doses that resulted in up to 30 and 20 times, respectively, the human exposure at the maximum recommended human dose (MRHD) of 80 mg, based on body surface area (mg/m2).
+In rats administered atorvastatin during gestation and lactation, decreased postnatal growth and development delay were observed at doses ≥ 6 times the MRHD (see Data).
 
 Amlodipine
 
-The limited available data based on post-marketing reports with amlodipine use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
+The limited available data based on postmarketing reports with amlodipine use in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
 There are risks to the mother and fetus associated with poorly controlled hypertension in pregnancy (see Clinical Considerations).
 In animal reproduction studies, there was no evidence of adverse developmental effects when pregnant rats and rabbits were treated orally with amlodipine maleate during organogenesis at doses approximately 10 and 20-times MRHD, respectively.
 However for rats, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold).
@@ -41,26 +43,27 @@ Human Data
 
 Atorvastatin
 
-Limited published data on atorvastatin calcium from observational studies, meta-analyses and case reports have not shown an increased risk of major congenital malformations or miscarriage.
-Rare reports of congenital anomalies have been received following intrauterine exposure to other HMG-CoA reductase inhibitors.
-In a review of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed what would be expected in the general population.
-The number of cases is adequate to exclude a ≥3 to 4-fold increase in congenital anomalies over the background incidence.
-In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
+A Medicaid cohort linkage study of 1152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders–including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods.
+The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus.
+There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for confounders.
+In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
+Study limitations include reliance on physician coding to define the presence of a malformation, lack of control for certain confounders such as body mass index, use of prescription dispensing as verification for the use of a statin, and lack of information on non-live births.
 
 Animal Data
 
 Atorvastatin
 
-Atorvastatin crosses the rat placenta and reaches a level in fetal liver equivalent to that of maternal plasma.
 When administered to pregnant rats and rabbits during organogenesis at oral doses up to 300 mg/kg/day and 100 mg/kg/day, respectively, atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day.
 These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure at the MRHD based on surface area (mg/m2).
 In rats, the maternally toxic dose of 300 mg/kg resulted in increased post-implantation loss and decreased fetal body weight.
 At the maternally toxic doses of 50 and 100 mg/kg/day in rabbits, there was increased post-implantation loss, and at 100 mg/kg/day fetal body weights were decreased.
 
-In a study in pregnant rats administered atorvastatin calcium at doses equivalent to 20, 100, or 225 mg/kg/day, from gestation day 7 through to lactation day 20 (weaning), there was decreased survival at birth, postnatal day 4, weaning, and post-weaning in pups of mothers dosed with 225 mg/kg/day, a dose at which maternal toxicity was observed.
+In a study in pregnant rats administered 20, 100, or 225 mg/kg/day, from gestation day 7 through to lactation day 20 (weaning), there was decreased survival at birth, postnatal day 4, weaning, and post-weaning in pups of mothers dosed with 225 mg/kg/day, a dose at which maternal toxicity was observed.
 Pup body weight was decreased through postnatal day 21 at 100 mg/kg/day, and through postnatal day 91 at 225 mg/kg/day.
-Pup development was delayed (rotarod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
+Pup development was delayed (rotorod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
 These doses of atorvastatin correspond to 6 times (100 mg/kg) and 22 times (225 mg/kg) the human exposure at the MRHD, based on AUC.
+
+Atorvastatin crosses the rat placenta and reaches a level in fetal liver equivalent to that of maternal plasma.
 
 Amlodipine
 
@@ -72,27 +75,26 @@ Amlodipine maleate has been shown to prolong both the gestation period and the d
 
 Risk Summary
 
-CADUET is contraindicated during breastfeeding.
-
 Atorvastatin
 
-Atorvastatin use is contraindicated during breastfeeding [see Contraindications (4)].
-There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-It is not known whether atorvastatin is present in human milk, but it has been shown that another drug in this class passes into human milk and atorvastatin is present in rat milk.
-Because of the potential for serious adverse reactions in a breastfed infant, advise women that breastfeeding is not recommended during treatment with CADUET.
+There is no information about the presence of atorvastatin in human milk, the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+However, it has been shown that another drug in this class passes into human milk.
+Studies in rats have shown that atorvastatin and/or its metabolites are present in the breast milk of lactating rats.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk (see Data).
+Statins, including atorvastatin, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
+
+Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with CADUET [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.1)].
+
+Data
+
+Following a single oral administration of 10 mg/kg of radioactive atorvastatin to lactating rats, the concentration of total radioactivity was determined.
+Atorvastatin and/or its metabolites were measured in the breast milk and pup plasma at a 2:1 ratio (milk:plasma).
 
 Amlodipine
 
 Limited available data from a published clinical lactation study reports that amlodipine is present in human milk at an estimated median relative infant dose of 4.2%.
 No adverse effects of amlodipine on the breastfed infant have been observed.
 There is no available information on the effects of amlodipine on milk production.
-
-## 8.3 Females and Males of Reproductive Potential
-
-Contraception
-
-Atorvastatin may cause fetal harm when administered to a pregnant woman.
-Advise females of reproductive potential to use effective contraception during treatment with CADUET [see Use in Specific Populations (8.1)].
 
 ## 8.4 Pediatric Use
 
@@ -105,32 +107,14 @@ The effect of amlodipine on blood pressure in patients less than 6 years of age 
 
 Atorvastatin
 
-Heterozygous Familial Hypercholesterolemia (HeFH)
+The safety and effectiveness of atorvastatin as an adjunct to diet to reduce LDL-C have been established in pediatric patients 10 years of age and older with HeFH.
+Use of atorvastatin for this indication based on a double-blind, placebo-controlled clinical trial in 187 pediatric patients 10 years of age and older with HeFH.
+In this limited controlled trial, there was no significant effect on growth or sexual maturation in the boys or girls, or on menstrual cycle length in girls.
 
-Safety and effectiveness of atorvastatin have been established in patients 10 years to 17 years of age with HeFH as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels when, after an adequate trial of diet therapy, the following are present:
+The safety and effectiveness of atorvastatin as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established in pediatric patients 10 years of age and older with HoFH.
+Use of CADUET for this indication is based on a trial without a concurrent control group in 8 pediatric patients 10 years of age and older with HoFH [see Clinical Studies (14)].
 
-- •LDL-C ≥190 mg/dL, or
-- •LDL-C ≥160 mg/dL and
-  - oa positive family history of FH, or premature CVD in a first, or second-degree relative, or
-  - otwo or more other CVD risk factors are present.
-
-Use of atorvastatin for this indication is supported by evidence from [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.11)]:
-
-- •A placebo-controlled clinical trial of 6 months duration in 187 boys and postmenarchal girls, 10 years to 17 years of age.
-  Patients treated with 10 mg or 20 mg daily atorvastatin had an adverse reaction profile generally similar to that of patients treated with placebo.
-  In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls
-- •A three year open-label uncontrolled trial that included 163 pediatric patients 10 to 15 years of age with HeFH who were titrated to achieve a target LDL-C <130 mg/dL.
-  The safety and efficacy of atorvastatin in lowering LDL-C appeared generally consistent with that observed for adult patients, despite limitations of the uncontrolled study design
-
-Advise postmenarchal girls of contraception recommendations, if appropriate for the patient [see Use in Specific Populations (8.1)].
-
-The long-term efficacy of atorvastatin therapy initiated in childhood to reduce morbidity and mortality in adulthood has not been established.
-
-The safety and efficacy of atorvastatin have not been established in pediatric patients younger than 10 years of age with HeFH.
-
-Homozygous Familial Hypercholesterolemia (HoFH)
-
-Clinical efficacy of atorvastatin with dosages up to 80 mg/day for 1 year was evaluated in an uncontrolled study of patients with HoFH including 8 pediatric patients [see Clinical Studies (14.10)].
+The safety and effectiveness of atorvastatin have not been established in pediatric patients younger than 10 years of age with HeFH or HoFH, or in pediatric patients with other types of hyperlipidemia (other than HeFH or HoFH).
 
 ## 8.5 Geriatric Use
 
@@ -145,10 +129,23 @@ Elderly patients have decreased clearance of amlodipine with a resulting increas
 
 Atorvastatin
 
-Of the 39,828 patients who received atorvastatin in clinical studies, 15,813 (40%) were ≥ 65 years old and 2,800 (7%) were ≥ 75 years old.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older adults cannot be ruled out.
-Advanced age (≥ 65 years) is a predisposing factor for myopathy.
+Of the total number of atorvastatin-treated patients in clinical trials, 15813 (40%) were ≥ 65 years old and 2800 (7%) were ≥ 75 years old.
+No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
-## 8.6 Hepatic Impairment
+Advanced age (≥65 years) is a risk factor for atorvastatin -associated myopathy and rhabdomyolysis.
 
-CADUET is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Clinical Pharmacology (12.3)].
+Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
+Monitor geriatric patients receiving CADUET for the increased risk of myopathy [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+## 8.6 Renal Impairment
+
+Renal impairment is a risk factor for myopathy and rhabdomyolysis.
+Monitor all patients with renal impairment for development of myopathy.
+Renal impairment does not affect the plasma concentrations of atorvastatin, therefore there is no dosage adjustment in patients with renal impairment [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
+Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
+Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease.
+CADUET is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].
