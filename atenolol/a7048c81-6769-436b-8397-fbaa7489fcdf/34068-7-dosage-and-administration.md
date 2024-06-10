@@ -16,7 +16,7 @@ If an optimal response is not achieved within one week, the dosage should be inc
 Some patients may require a dosage of 200 mg once a day for optimal effect.
 
 Twenty-four hour control with once daily dosing is achieved by giving doses larger than necessary to achieve an immediate maximum effect.
-The maximum early effect on exercise tolerance occurs with doses of 50 to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
+The maximum early effect on exercise tolerance occurs with doses of 50 mg to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
 
 ## Acute Myocardial Infarction
 
@@ -28,13 +28,13 @@ Dilutions of atenolol I.V. injection in Dextrose Injection USP, Sodium Chloride 
 These admixtures are stable for 48 hours if they are not used immediately.
 
 In patients who tolerate the full intravenous dose (10 mg), atenolol tablets 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.
-Thereafter, atenolol tablets can be given orally either 100 mg once daily or 50 mg twice a day for a further 6-9 days or until discharge from the hospital.
+Thereafter, atenolol tablets can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
 If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol tablets should be discontinued.
 (See full prescribing information prior to initiating therapy with atenolol tablets.)
 
-Data from other beta blocker trials suggest that if there is any question concerning the use of I.V. beta blocker or clinical estimate that there is a contraindication, the I.V. beta blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the I.V. dosing is excluded).
+Data from other beta-blocker trials suggest that if there is any question concerning the use of I.V. beta-blocker or clinical estimate that there is a contraindication, the I.V. beta-blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the I.V. dosing is excluded).
 
-Although the demonstration of efficacy of atenolol tablets are based entirely on data from the first seven postinfarction days, data from other beta blocker trials suggest that treatment with beta blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
+Although the demonstration of efficacy of atenolol tablets are based entirely on data from the first seven postinfarction days, data from other beta-blocker trials suggest that treatment with beta-blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
 
 Atenolol tablets are an additional treatment to standard coronary care unit therapy.
 
@@ -46,7 +46,7 @@ Evaluation of patients with hypertension or myocardial infarction should always 
 Atenolol excretion would be expected to decrease with advancing age.
 
 No significant accumulation of atenolol tablets occur until creatinine clearance falls below 35 mL/min/1.73 m2.
-Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 and 105 mL/min.
+Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 mL/min and 105 mL/min.
 Peak plasma levels were significantly increased in subjects with creatinine clearances below 30 mL/min.
 
 The following maximum oral dosages are recommended for elderly, renally-impaired patients and for patients with renal impairment due to other causes:

@@ -9,32 +9,20 @@ Treatment of overdose should be directed to the removal of any unabsorbed drug b
 Atenolol tablets can be removed from the general circulation by hemodialysis.
 Other treatment modalities should be employed at the physician’s discretion and may include:
 
-## Bradycardia
-
-Atropine intravenously.
+BRADYCARDIA: Atropine intravenously.
 If there is no response to vagal blockade, give isoproterenol cautiously.
 In refractory cases, a transvenous cardiac pacemaker may be indicated.
 
-## Heart Block (Second or Third Degree)
+HEART BLOCK (SECOND OR THIRD DEGREE): Isoproterenol or transvenous cardiac pacemaker.
 
-Isoproterenol or transvenous cardiac pacemaker.
-
-## Cardiac Failure
-
-Digitalize the patient and administer a diuretic.
+CARDIAC FAILURE: Digitalize the patient and administer a diuretic.
 Glucagon has been reported to be useful.
 
-## Hypotension
-
-Vasopressors such as dopamine or norepinephrine (levarterenol).
+HYPOTENSION: Vasopressors such as dopamine or norepinephrine (levarterenol).
 Monitor blood pressure continuously.
 
-## Bronchospasm
+BRONCHOSPASM: A beta2 stimulant such as isoproterenol or terbutaline and/or aminophylline.
 
-A beta2 stimulant such as isoproterenol or terbutaline and/or aminophylline.
-
-## Hypoglycemia
-
-Intravenous glucose.
+HYPOGLYCEMIA: Intravenous glucose.
 
 Based on the severity of symptoms, management may require intensive support care and facilities for applying cardiac and respiratory support.
