@@ -2,7 +2,7 @@
 
 ARESTIN is provided as a dry powder, packaged in a unit-dose cartridge with a deformable tip (see Figure 1), which is inserted into a spring-loaded cartridge handle mechanism (see Figure 2) to administer the product.
 
-The oral health care professional removes the disposable cartridge from its pouch and connects the cartridge to the handle mechanism (see Figures 3 - 4).
+The oral health care professional removes the disposable cartridge from its pouch and connects the cartridge to the handle mechanism (see Figures 3-4).
 ARESTIN is a variable dose product, dependent on the size, shape, and number of pockets being treated.
 In US clinical trials, up to 122 unit-dose cartridges were used in a single visit and up to 3 treatments, at 3-month intervals, were administered in pockets with pocket depth of 5 mm or greater.
 
