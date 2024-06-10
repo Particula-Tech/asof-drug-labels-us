@@ -32,6 +32,10 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 20 mL Carton Physcian Sample Label
 
+NOT FOR SALE
+
+PHYSICIAN SAMPLE
+
 NDC 68791-101-01
 
 Rx only
