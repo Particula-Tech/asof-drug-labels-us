@@ -2,22 +2,27 @@
 
 ## 2.1 Important Administration Instructions
 
-- Administer DRIZALMA SPRINKLE with or without food.
-  Swallow DRIZALMA SPRINKLE whole (do not chew or crush the capsule).
-  For patients unable to swallow an intact capsule, refer to the alternative administration instructions below.
-- Directions for use with applesauce
-- For patients with swallowing difficulty, DRIZALMA SPRINKLE can be opened and the contents sprinkled over applesauce.
-  The contents of the capsules should be swallowed along with a small amount (tablespoonful) of applesauce.
-  The drug/food mixture should be swallowed immediately and not stored for future use.
-- Nasogastric tube administration
-- Open and add contents of capsule to an all plastic catheter tip syringe and add 50 mL of water.
-  Gently shake the syringe for approximately 10 seconds.
-  Promptly deliver through a 12 French or larger nasogastric tube.
-  Ensure no pellets are left in the syringe.
-  Rinse with additional water (about 15 mL) if needed.
-- If a dose of DRIZALMA SPRINKLE is missed, take the missed dose as soon as it is remembered.
-  If it is almost time for the next dose, skip the missed dose and take the next dose at the regular time.
-  Do not take two doses of DRIZALMA SPRINKLE at the same time.
+Administer DRIZALMA SPRINKLE with or without food.
+Swallow DRIZALMA SPRINKLE whole (do not chew or crush the capsule).
+For patients unable to swallow an intact capsule, refer to the alternative administration instructions below.
+
+Directions for use with applesauce
+
+For patients with swallowing difficulty, DRIZALMA SPRINKLE can be opened and the contents sprinkled over applesauce.
+The contents of the capsules should be swallowed along with a small amount (tablespoonful) of applesauce.
+The drug/food mixture should be swallowed immediately and not stored for future use.
+
+Nasogastric tube administration
+
+Open and add contents of capsule to an all plastic catheter tip syringe and add 50 mL of water.
+Gently shake the syringe for approximately 10 seconds.
+Promptly deliver through a 12 French or larger nasogastric tube.
+Ensure no pellets are left in the syringe.
+Rinse with additional water (about 15 mL) if needed.
+
+If a dose of DRIZALMA SPRINKLE is missed, take the missed dose as soon as it is remembered.
+If it is almost time for the next dose, skip the missed dose and take the next dose at the regular time.
+Do not take two doses of DRIZALMA SPRINKLE at the same time.
 
 ## 2.2 Dosage for Treatment of Major Depressive Disorder in Adults
 
@@ -28,24 +33,29 @@ Periodically reassess to determine the need for maintenance treatment and the ap
 
 ## 2.3 Dosage for Treatment of Generalized Anxiety Disorder
 
-- Recommended Dosage in Adults Less than 65 Years of Age
-- For most adults less than 65 years of age with GAD, initiate DRIZALMA SPRINKLE 60 mg once daily.
-  For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to DRIZALMA SPRINKLE before increasing to 60 mg once daily.
-  While a 120 mg once daily dosage was shown to be effective, there is no evidence that doses greater than 60 mg per day confer additional benefit.
-  Nevertheless, if a decision is made to increase the dosage beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
-  The safety of doses above 120 mg once daily has not been adequately evaluated.
-  Periodically reassess to determine the continued need for maintenance treatment and the appropriate dosage for such treatment.
-- Recommended Dosage in Geriatric Patients
-- In geriatric patients with GAD, initiate DRIZALMA SPRINKLE at a dosage of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg per day.
-  Thereafter, patients may benefit from doses above 60 mg once daily.
-  If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
-  The maximum dose studied was 120 mg per day.
-- Recommended Dosage in Pediatric Patients 7 to 17 Years of Age
-- Initiate DRIZALMA SPRINKLE in pediatric patients 7 to 17 years of age with GAD at a dosage of 30 mg once daily for 2 weeks before considering an increase to 60 mg once daily.
-  The recommended dosage range is 30 to 60 mg once daily.
-  Some patients may benefit from dosages above 60 mg once daily.
-  If a decision is made to increase the dose beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
-  The maximum dose studied was 120 mg per day.
+Recommended Dosage in Adults Less than 65 Years of Age
+
+For most adults less than 65 years of age with GAD, initiate DRIZALMA SPRINKLE 60 mg once daily.
+For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to DRIZALMA SPRINKLE before increasing to 60 mg once daily.
+While a 120 mg once daily dosage was shown to be effective, there is no evidence that doses greater than 60 mg per day confer additional benefit.
+Nevertheless, if a decision is made to increase the dosage beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
+The safety of doses above 120 mg once daily has not been adequately evaluated.
+Periodically reassess to determine the continued need for maintenance treatment and the appropriate dosage for such treatment.
+
+Recommended Dosage in Geriatric Patients
+
+In geriatric patients with GAD, initiate DRIZALMA SPRINKLE at a dosage of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg per day.
+Thereafter, patients may benefit from doses above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
+
+Recommended Dosage in Pediatric Patients 7 to 17 Years of Age
+
+Initiate DRIZALMA SPRINKLE in pediatric patients 7 to 17 years of age with GAD at a dosage of 30 mg once daily for 2 weeks before considering an increase to 60 mg once daily.
+The recommended dosage range is 30 to 60 mg once daily.
+Some patients may benefit from dosages above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
 
 ## 2.4 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain in Adults
 
@@ -71,7 +81,7 @@ However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, thi
 
 The recommended DRIZALMA SPRINKLE dosage is 60 mg once daily in adults with chronic musculoskeletal pain.
 Begin treatment at 30 mg once daily for one week, to allow patients to adjust to DRIZALMA SPRINKLE before increasing to 60 mg once daily.
-There is no evidence that higher dosage confer additional benefit, even in patients who do not respond to a 60 mg once daily dosage, and higher dosages are associated with a higher rate of adverse reactions [seeClinical Studies (14.5)].
+There is no evidence that higher dosage confer additional benefit, even in patients who do not respond to a 60 mg once daily dosage, and higher dosages are associated with a higher rate of adverse reactions [see Clinical Studies (14.5)].
 
 ## 2.7 Dosage Recommendations for Concomitant Use with Potent CYP1A2 Inhibitors
 
@@ -81,7 +91,7 @@ Coadministration with potent CYP1A2 Inhibitors: Avoid concomitant use of DRIZALM
 
 Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
 
-- Avoid use in patients with severe renal impairment, GFR <30 mL/minute [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
+Avoid use in patients with severe renal impairment, GFR <30 mL/minute [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
 
 ## 2.9 Screen for Bipolar Disorder Prior to Starting DRIZALMA SPRINKLE
 

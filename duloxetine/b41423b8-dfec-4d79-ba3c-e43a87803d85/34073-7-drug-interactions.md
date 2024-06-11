@@ -2,17 +2,17 @@
 
 ## 7.1 Drugs Having Clinically Important Interactions with DRIZALMA SPRINKLE
 
-- Table 7: Clinically Important Drug Interactions
+Table 7: Clinically Important Drug Interactions
 
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | --- | --- |
 | Clinical Impact | Concomitant use of SSRIs and SNRIs including duloxetine with MAOIs increases the risk of serotonin syndrome. |
 | Intervention | •The use of MAOIs intended to treat psychiatric disorders with duloxetine or within 5 days of stopping treatment with duloxetine is contraindicated [see Contraindications (4) and Warnings and Precautions (5.4)].•The use of duloxetine delayed-release capsules within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see Contraindications (4) and Warnings and Precautions (5.4)].•Starting duloxetine in a patient who is being treated with MAOIs is also contraindicated [see Dosage and Administration (2.10), Contraindications (4), Warnings and Precautions (5.4)]. |
 | Examples | Selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, intravenous methylene blue |
-| Serotonergic Drugs |  |
+| Other Serotonergic Drugs |  |
 | Clinical Impact | Concomitant use of duloxetine with other serotonergic drugs increases the risk of serotonin syndrome. |
-| Intervention | •Patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases. •Monitor for symptoms of serotonin syndrome when duloxetine is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems.•Treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated [see Warnings and Precautions (5.4)]. |
-| Examples | Triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, other SNRIs or SSRIs, and St. John’s Wort |
+| Intervention | •Patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.•Monitor for symptoms of serotonin syndrome when duloxetine is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems.•Treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated [see Warnings and Precautions (5.4)]. |
+| Examples | Other SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort |
 | Inhibitors of CYP1A2 |  |
 | Clinical Impact | Concomitant use of duloxetine with CYP1A2 inhibitors increases AUC, Cmax, t1/2 of duloxetine. |
 | Intervention | Avoid concomitant use of duloxetine delayed-release capsules with potent CYP1A2 inhibitors [see Warnings and Precautions (5.12), Clinical Pharmacology (12.3)]. |

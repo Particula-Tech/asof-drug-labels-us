@@ -10,7 +10,7 @@ The molecular formula of duloxetine free base is C18H19NOS and its molecular wei
 
 Each DRIZALMA SPRINKLE (duloxetine delayed-release capsule) for oral administration contains enteric-coated pellets containing a total of 22.4 mg, 33.6 mg, 44.9 mg or 67.3 mg of duloxetine hydrochloride, equivalent to 20 mg, 30 mg, 40 mg or 60 mg of duloxetine free base, respectively.
 These enteric-coated pellets are designed to prevent degradation of the drug in the acidic environment of the stomach.
-Inactive ingredients of the pellets include hypromellose, hypromellose phthalate, polyethylene glycol, starch, sucrose, sugar spheres, talc, titanium dioxide, and triethyl citrate.
+Inactive ingredients of the pellets include ascorbic acid, hypromellose, hypromellose phthalate, polyethylene glycol, starch, sucrose, sugar spheres, talc, titanium dioxide, and triethyl citrate.
 The capsule shell ingredients for 20 mg strength are D&C Yellow 10, FD &C Blue 1, FD &C Red 40, gelatin, sodium lauryl sulfate and titanium dioxide.
 The capsule shell ingredients for 30 mg strength are FD &C Blue 1, FD &C Red 40 and FD &C Red 3 (present in cap), gelatin, sodium lauryl sulfate and titanium dioxide.
 The capsule shell ingredients for 40 mg strength are gelatin, sodium lauryl sulfate and titanium dioxide.

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-- DRIZALMA SPRINKLE (duloxetine delayed-release capsules) are available as follows:
+DRIZALMA SPRINKLE (duloxetine delayed-release capsules) are available as follows:
 
 | Features | Strengths |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -17,10 +17,9 @@
 | Bottles of 90 | 47335-616-90 | 47335-617-90 | 47335-618-90 | 47335-619-90 |
 | Bottles of 1000 | 47335-616-10 | 47335-617-10 | 47335-618-10 | 47335-619-10 |
 
-- a equivalent to duloxetine base
-- Each DRIZALMA SPRINKLE (duloxetine delayed-release capsule) contains enteric-coated pellets containing a total of 22.4 mg, 33.6 mg, 44.9 mg or 67.3 mg of duloxetine hydrochloride, USP equivalent to 20 mg, 30 mg, 40 mg or 60 mg of duloxetine, respectively.
+Each DRIZALMA SPRINKLE (duloxetine delayed-release capsule) contains enteric-coated pellets containing a total of 22.4 mg, 33.6 mg, 44.9 mg or 67.3 mg of duloxetine hydrochloride, USP equivalent to 20 mg, 30 mg, 40 mg or 60 mg of duloxetine, respectively.
 
-## 16.2 Storage and Handling
+## undefined
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 

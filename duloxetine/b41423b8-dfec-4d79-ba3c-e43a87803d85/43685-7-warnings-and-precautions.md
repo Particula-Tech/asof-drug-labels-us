@@ -2,11 +2,10 @@
 
 ## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
-- In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
-  There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
-  There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in MDD.
-  The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
-- Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
+There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in MDD.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
 | Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
 | --- | --- |
@@ -17,11 +16,11 @@
 | 25 to 64 | 1 fewer patients |
 | ≥65 | 6 fewer patients |
 
-- It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
-  However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
-- Monitor all antidepressant-treated patients for any indication for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes.
-  Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
-  Consider changing the therapeutic regimen, including possibly discontinuing DRIZALMA SPRINKLE, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
+It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
+Monitor all antidepressant-treated patients for any indication for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes.
+Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
+Consider changing the therapeutic regimen, including possibly discontinuing DRIZALMA SPRINKLE, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
 
 ## 5.2 Hepatotoxicity
 
@@ -58,7 +57,7 @@ Falls with serious consequences including fractures and hospitalizations have be
 ## 5.4 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective-serotonin reuptake inhibitors (SSRIs), including DRIZALMA SPRINKLE, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin [see Contraindications (4), Drug Interactions (7)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin [see Contraindications (4), Drug Interactions (7)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -80,7 +79,7 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 A post-marketing study showed a higher incidence of postpartum hemorrhage in mothers taking duloxetine.
 Other bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Inform patients about the risk of bleeding associated with the concomitant use of DRIZALMA SPRINKLE and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.1)].
+Inform patients about the increased risk of bleeding associated with the concomitant use of DRIZALMA SPRINKLE and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.1)].
 
 ## 5.6 Severe Skin Reactions
 
@@ -210,7 +209,7 @@ In some instances of urinary retention associated with duloxetine delayed-releas
 
 ## 5.16 Sexual Dysfunction
 
-Use of SNRIs, including DRIZALMA SPRINKLE, may cause symptoms of sexual dysfunction [see Adverse Reactions(6.1)].
+Use of SNRIs, including DRIZALMA SPRINKLE, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
 In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
 In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
 

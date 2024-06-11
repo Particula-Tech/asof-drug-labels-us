@@ -7,44 +7,64 @@ Pregnancy Exposure Registry
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/
 
-- Risk Summary
-- Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage.
-  Data from published literature and from a postmarketing retrospective cohort study have not identified a clear drug-associated risk of major birth defects or other adverse developmental outcomes (see Data).
-  There are risks associated with untreated depression in pregnancy and with exposure to SNRIs and SSRIs, including DRIZALMA SPRINKLE, during pregnancy (see Clinical Considerations).
-- In rats and rabbits treated with duloxetine during the period of organogenesis, fetal weights were decreased but there was no evidence of developmental effects at doses up to 3 and 6 times, respectively, the maximum recommended human dose (MRHD) of 120 mg/day given to adolescents on a mg/m2 basis.
-  When duloxetine was administered orally to pregnant rats throughout gestation and lactation, pup weights at birth and pup survival to 1 day postpartum were decreased at a dose 2 times the MRHD given to adolescents on a mg/m2 basis.
-  At this dose, pup behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity were observed.
-  Post-weaning growth was not adversely affected.
-- The estimated of background risk of major birth defects and miscarriage for the indicated population is unknown.
-  All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-  In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
-- Clinical Considerations
-- Disease-associated Maternal and/or Embryo/Fetal Risk
-- Women who discontinued antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continued antidepressants.
-  This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
-  Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and the postpartum.
-- Pregnant women with fibromyalgia are at increased risk for adverse maternal and infant outcomes including preterm premature rupture of membranes, preterm birth, small for gestational age, intrauterine growth restriction, placental disruption, and venous thrombosis.
-  It is not known if these adverse maternal and fetal outcomes are a direct result of fibromyalgia or other comorbid factors.
-- Maternal Adverse Reactions
-- Use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
-- Fetal/Neonatal Adverse Reaction
-- Neonates exposed to duloxetine and other SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-  Such complications can arise immediately upon delivery.
-  Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
-  These findings are consistent with either a direct toxic effect of the SNRIs or SSRIs, or possibly, a drug discontinuation syndrome.
-  It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.4)].
-- Data
-- Human Data
-- Data from a postmarketing retrospective claims-based cohort study found an increased risk for postpartum hemorrhage among 955 pregnant women exposed to duloxetine in the last month of pregnancy compared to 4,128,460 unexposed pregnant women (adjusted relative risk: 1.53; 95% CI: 1.08-2.18).
-  The same study did not find a clinically meaningful increase in the risk for major birth defects in the comparison of 2532 women exposed to duloxetine in the first trimester of pregnancy to 1,284,827 unexposed women after adjusting for several confounders.
-  Methodologic limitations include possible residual confounding, misclassification of exposure and outcomes, lack of direct measures of disease severity, and lack of information about alcohol use, nutrition, and over-the-counter medication exposures.
-- Animal Data
-- In animal reproduction studies, duloxetine has been shown to have adverse effects on embryo/fetal and postnatal development.
-- When duloxetine was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of malformations or developmental variations at doses up to 45 mg/kg/day (3 and 6 times, respectively, the MRHD of 120 mg/day given to adolescents on a mg/m2 basis.
-  However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day (approximately equal to the MRHD in rats and 2 times the MRHD in rabbits).
-- When duloxetine was administered orally to pregnant rats throughout gestation and lactation, the survival of pups to 1 day postpartum and pup body weights at birth and during the lactation period were decreased at a dose of 30 mg/kg/day (2 times the MRHD given to adolescents on a mg/m2 basis); the no-effect dose was 10 mg/kg/day.
-  Furthermore, behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity, were observed in pups following maternal exposure to 30 mg/kg/day.
-  Post-weaning growth and reproductive performance of the progeny were not affected adversely by maternal duloxetine treatment.
+Risk Summary
+
+Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.5) and Clinical Considerations].
+
+Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage.
+Data from published literature and from a postmarketing retrospective cohort study have not identified a clear drug-associated risk of major birth defects or other adverse developmental outcomes (see Data).
+There are risks associated with untreated depression in pregnancy and with exposure to SNRIs and SSRIs, including DRIZALMA SPRINKLE, during pregnancy (see Clinical Considerations).
+
+In rats and rabbits treated with duloxetine during the period of organogenesis, fetal weights were decreased but there was no evidence of developmental effects at doses up to 3 and 6 times, respectively, the maximum recommended human dose (MRHD) of 120 mg/day given to adolescents on a mg/m2 basis.
+When duloxetine was administered orally to pregnant rats throughout gestation and lactation, pup weights at birth and pup survival to 1 day postpartum were decreased at a dose 2 times the MRHD given to adolescents on a mg/m2 basis.
+At this dose, pup behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity were observed.
+Post-weaning growth was not adversely affected.
+
+The estimated of background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated Maternal and/or Embryo/Fetal Risk
+
+Women who discontinued antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continued antidepressants.
+This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and the postpartum.
+
+Pregnant women with fibromyalgia are at increased risk for adverse maternal and infant outcomes including preterm premature rupture of membranes, preterm birth, small for gestational age, intrauterine growth restriction, placental disruption, and venous thrombosis.
+It is not known if these adverse maternal and fetal outcomes are a direct result of fibromyalgia or other comorbid factors.
+
+Maternal Adverse Reactions
+
+Use of DRIZALMA SPRINKLE in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.5)].
+
+Fetal/Neonatal Adverse Reaction
+
+Neonates exposed to duloxetine and other SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Such complications can arise immediately upon delivery.
+Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
+These findings are consistent with either a direct toxic effect of the SNRIs or SSRIs, or possibly, a drug discontinuation syndrome.
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.4)].
+
+Data
+
+Human Data
+
+Data from a postmarketing retrospective claims-based cohort study found an increased risk for postpartum hemorrhage among 955 pregnant women exposed to duloxetine in the last month of pregnancy compared to 4,128,460 unexposed pregnant women (adjusted relative risk: 1.53; 95% CI: 1.08-2.18).
+The same study did not find a clinically meaningful increase in the risk for major birth defects in the comparison of 2532 women exposed to duloxetine in the first trimester of pregnancy to 1,284,827 unexposed women after adjusting for several confounders.
+Methodologic limitations include possible residual confounding, misclassification of exposure and outcomes, lack of direct measures of disease severity, and lack of information about alcohol use, nutrition, and over-the-counter medication exposures.
+
+Animal Data
+
+In animal reproduction studies, duloxetine has been shown to have adverse effects on embryo/fetal and postnatal development.
+
+When duloxetine was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of malformations or developmental variations at doses up to 45 mg/kg/day (3 and 6 times, respectively, the MRHD of 120 mg/day given to adolescents on a mg/m2 basis.
+However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day (approximately equal to the MRHD in rats and 2 times the MRHD in rabbits).
+
+When duloxetine was administered orally to pregnant rats throughout gestation and lactation, the survival of pups to 1 day postpartum and pup body weights at birth and during the lactation period were decreased at a dose of 30 mg/kg/day (2 times the MRHD given to adolescents on a mg/m2 basis); the no-effect dose was 10 mg/kg/day.
+Furthermore, behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity, were observed in pups following maternal exposure to 30 mg/kg/day.
+Post-weaning growth and reproductive performance of the progeny were not affected adversely by maternal duloxetine treatment.
 
 ## 8.2 Lactation
 
@@ -108,11 +128,7 @@ These effects were observed at the high dose of 45 mg/kg/day (2 times the MRHD, 
 
 Geriatric Exposure in Premarketing Clinical Trials of duloxetine delayed-release capsules
 
-- •Of the 2,418 patients in MDD trials, 6% (143) were 65 years of age or over.
-- •Of the 1041 patients in CLBP trials, 21% (221) were 65 years of age or over.
-- •Of the 487 patients in OA trials, 41% (197) were 65 years of age or over.
-- •Of the 1,074 patients in the DPNP trials, 33% (357) were 65 years of age or over.
-- •Of the 1,761 patients in FM trials, 8% (140) were 65 years of age or over.
+•Of the 2,418 patients in MDD trials, 6% (143) were 65 years of age or over.•Of the 1041 patients in CLBP trials, 21% (221) were 65 years of age or over.•Of the 487 patients in OA trials, 41% (197) were 65 years of age or over.•Of the 1,074 patients in the DPNP trials, 33% (357) were 65 years of age or over.•Of the 1,761 patients in FM trials, 8% (140) were 65 years of age or over.
 
 In the MDD, GAD, DPNP, FM, OA, and CLBP studies, no overall differences in safety or effectiveness were generally observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in responses between these geriatric and younger adult patients, but greater sensitivity of some older patients cannot be ruled out.
 
