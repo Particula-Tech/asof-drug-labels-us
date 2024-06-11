@@ -16,4 +16,4 @@ Distributed by: Armas Pharmaceuticals, Inc. Freehold, NJ 07728 USA
 Manufactured by: Ophtapham AG Riethofstrasse 1, Hettlingen, 8442, Switzerland (CHE) for Sentiss
 
 Made in Switzerland Rev.
-08/23
+05/24

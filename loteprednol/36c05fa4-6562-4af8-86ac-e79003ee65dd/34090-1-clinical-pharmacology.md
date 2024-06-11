@@ -14,7 +14,7 @@ It is highly lipid soluble which enhances its penetration into cells.
 Loteprednol etabonate is synthesized through structural modifications of prednisolone-related compounds so that it will undergo a predictable transformation to an inactive metabolite.
 Based upon in vivoand in vitropreclinical metabolism studies, loteprednol etabonate undergoes extensive metabolism to inactive carboxylic acid metabolites.
 
-Results from a bioavailability study in normal volunteers established that plasma levels of loteprednol etabonate and Δ 1cortienic acid etabonate (PJ 91), its primary, inactive metabolite, were below the limit of quantitation (1 ng/mL) at all sampling times.
+Results from a bioavailability study in normal volunteers established that plasma levels of loteprednol etabonate and Δ 1 cortienic acid etabonate (PJ 91), its primary, inactive metabolite, were below the limit of quantitation (1 ng/mL) at all sampling times.
 The results were obtained following the ocular administration of one drop in each eye of 0.5% loteprednol etabonate 8 times daily for 2 days or 4 times daily for 42 days.
 This study suggests that limited (<1 ng/mL) systemic absorption occurs with loteprednol etabonate.
 
