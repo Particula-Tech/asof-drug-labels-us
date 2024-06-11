@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216482"
+  ],
+  "inn": "mycophenolate-mofetil",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-018-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "mycophenolate mofetil",
+      "name": "MYHIBBIN"
+    }
+  ],
+  "setid": "d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9",
+  "source": "dailymed"
+}
