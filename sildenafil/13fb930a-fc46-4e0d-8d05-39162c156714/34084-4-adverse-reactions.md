@@ -6,7 +6,7 @@ The following serious adverse events are discussed elsewhere in the labeling:
 - •Vision Loss [see Warnings and Precautions (5.4)]
 - •Hearing Loss [see Warnings and Precautions (5.5)]
 - •Priapism [see Warnings and Precautions (5.7)]
-- •Vaso-occlusive Crisis in Patients with Pulmonary Hypertension Secondary to Sickle Cell Disease [see Warnings and Precautions (5.8)]
+- •Vaso-occlusive Crisis in Patients with Pulmonary Hypertension Secondary to Sickle Cell Disease[see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,7 +20,7 @@ The overall frequency of discontinuation for placebo was 3%.
 Table 1.
 Most Common Adverse Reactions in Patients Treated with Sildenafil 20 mg, 40 mg, 80 mg and Placebo three times per day in SUPER-1 (More Frequent in Sildenafil-Treated Patients than Placebo-Treated Patients)
 
-|  | Sildenafil20 mg(n = 69) | Sildenafil40 mg(n = 67) | Sildenafil80 mg(n = 71) | Placebo (n = 70) |
+|  | Sildenafil20 mg(n = 69) | Sildenafil40 mg(n = 67) | Sildenafil80 mg(n = 71) | Placebo(n = 70) |
 | --- | --- | --- | --- | --- |
 | Headache | 46% | 42% | 49% | 39% |
 | Flushing | 10% | 9% | 16% | 4% |
