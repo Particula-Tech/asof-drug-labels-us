@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Kenalog®-10 Injection (triamcinolone acetonide injectable suspension, USP) is triamcinolone acetonide, a synthetic glucocorticoid corticosteroid with marked anti-inflammatory action, in a sterile aqueous suspension suitable for intralesional and intra-articular injection.
+KENALOG®-10 Injection (triamcinolone acetonide injectable suspension, USP) is triamcinolone acetonide, a synthetic glucocorticoid corticosteroid with marked anti-inflammatory action, in a sterile aqueous suspension suitable for intralesional and intra-articular injection.
 THIS FORMULATION IS SUITABLE FOR INTRA-ARTICULAR AND INTRALESIONAL USE ONLY.
 
 Each mL of the sterile aqueous suspension provides 10 mg triamcinolone acetonide, with 0.66% sodium chloride for isotonicity, 0.99% (w/v) benzyl alcohol as a preservative, 0.63% carboxymethylcellulose sodium, and 0.04% polysorbate 80.

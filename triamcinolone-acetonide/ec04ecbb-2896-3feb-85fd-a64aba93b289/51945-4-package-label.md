@@ -1,4 +1,4 @@
-# Kenalog-10 50 mg per 5 mL Injectable Suspension Representative Packaging
+# KENALOG-10 50 mg per 5 mL Injectable Suspension Representative Packaging
 
 See How Supplied section for a complete list of available packages of KENALOG-10.
 

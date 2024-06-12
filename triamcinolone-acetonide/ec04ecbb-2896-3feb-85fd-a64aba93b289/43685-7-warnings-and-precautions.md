@@ -16,7 +16,7 @@ Administration of high dosages of medications containing this preservative must 
 The amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS: Pediatric Use).
 
-Because Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) is a suspension, it should not be administered intravenously.
+Because KENALOG-10 Injection (triamcinolone acetonide injectable suspension, USP) is a suspension, it should not be administered intravenously.
 Strict aseptic technique is mandatory.
 
 Rare instances of anaphylaxis have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
@@ -24,10 +24,10 @@ Cases of serious anaphylaxis, including death, have been reported in individuals
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 
-Kenalog-10 Injection is a long-acting preparation, and is not suitable for use in acute stress situations.
+KENALOG-10 Injection is a long-acting preparation, and is not suitable for use in acute stress situations.
 
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
-High doses of systemic corticosteroids, including Kenalog-10 Injection, should not be used for the treatment of traumatic brain injury.
+High doses of systemic corticosteroids, including KENALOG-10 Injection, should not be used for the treatment of traumatic brain injury.
 
 ## Cardio-Renal
 
@@ -38,6 +38,8 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS: Drug Interactions:Amphotericin B injection and potassium-depleting agents).
+
 ## Endocrine
 
 Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
@@ -45,54 +47,62 @@ Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
-## Infections
+## Immunosuppression and Increased Risk of Infection
 
-### General
+Corticosteroids, including KENALOG-10, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can: • Reduce resistance to new infections • Exacerbate existing infections • Increase the risk of disseminated infections • Increase the risk of reactivation or exacerbation of latent infections • Mask some signs of infection
 
-Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen (viral, bacterial, fungal, protozoan, or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
-These infections may be mild to severe.
-With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
-Corticosteroids may also mask some signs of current infection.
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
 
-### Fungal Infections
+Monitor for the development of infection and consider KENALOG-10 withdrawal or dosage reduction as needed.
 
-Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS: Drug Interactions: Amphotericin B injection and potassium-depleting agents).
+Do not administer KENALOG-10 by an intraarticular, intrabursal, intratendinous or intralesional route in the presence of acute local infection.
 
-### Special Pathogens
+#### Tuberculosis
 
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, or Toxoplasma.
+If KENALOG-10 is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of the disease may occur.
+Closely monitor such patients for reactivation.
+During prolonged KENALOG-10 therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
-It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
+#### Varicella Zoster and Measles Viral Infections
 
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+Varicella and measles can have a serious or even fatal course in non-immune patients receiving corticosteroids, including KENALOG-10.
+In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles: • If a KENALOG-10-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+If varicella develops, treatment with antiviral agents may be considered. • If a KENALOG-10-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
+
+#### Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including KENALOG-10.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with KENALOG-10.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+#### Fungal Infections
+
+Corticosteroids, including KENALOG-10, may exacerbate systemic fungal infections; therefore, avoid KENALOG-10 use in the presence of such infections unless KENALOG-10 is needed to control drug reactions.
+For patients on chronic KENALOG-10 therapy who develop systemic fungal infections, KENALOG-10 withdrawal or dosage reduction is recommended.
+
+#### Amebiasis
+
+Corticosteroids, including KENALOG-10, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating KENALOG-10 in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+#### Strongyloides Infestation
+
+Corticosteroids, including KENALOG-10, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-Corticosteroids should not be used in cerebral malaria.
+#### Cerebral Malaria
 
-### Tuberculosis
+Avoid corticosteroids, including KENALOG-10, in patients with cerebral malaria.
 
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
-
-### Vaccination
+## Vaccination
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
-
-### Viral Infections
-
-Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
-In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
-If chicken pox develops, treatment with antiviral agents should be considered.
 
 ## Neurologic
 
@@ -105,11 +115,16 @@ Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma wit
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 
-Adequate studies to demonstrate the safety of Kenalog Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar, and intraocular (intravitreal) injections have not been performed.
+Adequate studies to demonstrate the safety of KENALOG-10 Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar, and intraocular (intravitreal) injections have not been performed.
 Endophthalmitis, eye inflammation, increased intraocular pressure, and visual disturbances including vision loss have been reported with intravitreal administration.
-Administration of Kenalog Injection intraocularly or into the nasal turbinates is not recommended.
+Administration of KENALOG-10 Injection intraocularly or into the nasal turbinates is not recommended.
 
-Intraocular injection of corticosteroid formulations containing benzyl alcohol, such as Kenalog Injection, is not recommended because of potential toxicity from the benzyl alcohol.
+Intraocular injection of corticosteroid formulations containing benzyl alcohol, such as KENALOG-10 Injection, is not recommended because of potential toxicity from the benzyl alcohol.
+
+## Kaposi’s Sarcoma
+
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
 
 # PRECAUTIONS
 
@@ -122,9 +137,6 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 When reduction in dosage is possible, the reduction should be gradual.
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
-
-Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
-Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-Renal
 
@@ -218,7 +230,7 @@ Convulsions have been reported with this concurrent use.
 
 CYP3A4 inhibitors: Triamcinolone acetonide is a substrate of CYP3A4.
 Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
-Co-administration of other strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin, cobicistat-containing products) with Kenalog-10 Injection may cause increased plasma concentration of triamcinolone leading to adverse reactions.
+Co-administration of other strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin, cobicistat-containing products) with KENALOG-10 Injection may cause increased plasma concentration of triamcinolone leading to adverse reactions.
 (See ADVERSE REACTIONS) During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving triamcinolone acetonide and strong CYP3A4 inhibitors (e.g., ritonavir).
 (See WARNINGS, Endocrine and PRECAUTIONS, Endocrine) Consider the benefit-risk of concomitant use and monitor for systemic corticosteroid side effects.
 
@@ -236,7 +248,7 @@ Skin tests: Corticosteroids may suppress reactions to skin tests.
 
 Vaccines: Patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
-Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infections: Vaccination).
+Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Immunosuppression and Increased Risk of Infection, Vaccination).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
