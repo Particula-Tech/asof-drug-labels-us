@@ -2,7 +2,7 @@
 
 ## Intramuscular
 
-Where oral therapy is not feasible, injectable corticosteroid therapy, including Kenalog-40 Injection and Kenalog-80 Injection (triamcinolone acetonide injectable suspension, USP) are indicated for intramuscular use as follows:
+Where oral therapy is not feasible, injectable corticosteroid therapy, including KENALOG-40 Injection and KENALOG-80 Injection (triamcinolone acetonide injectable suspension, USP) are indicated for intramuscular use as follows:
 
 Allergic states: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis, serum sickness, transfusion reactions.
 
@@ -31,4 +31,4 @@ For the treatment of dermatomyositis, polymyositis, and systemic lupus erythemat
 
 ## Intra-Articular
 
-The intra-articular or soft tissue administration of Kenalog-40 Injection and Kenalog-80 Injection are indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis of osteoarthritis.
+The intra-articular or soft tissue administration of KENALOG-40 Injection and KENALOG-80 Injection are indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis of osteoarthritis.

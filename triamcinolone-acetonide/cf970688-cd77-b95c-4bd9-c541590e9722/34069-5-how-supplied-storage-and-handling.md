@@ -1,13 +1,13 @@
 # HOW SUPPLIED
 
-Kenalog®-40 Injection (triamcinolone acetonide injectable suspension, USP) is supplied in vials providing 40 mg triamcinolone acetonide per mL.
+KENALOG®-40 Injection (triamcinolone acetonide injectable suspension, USP) is supplied in vials providing 40 mg triamcinolone acetonide per mL.
 
 | 40 mg/mL, 1 mL vial | NDC 0003-0293-05 |
 | --- | --- |
 | 40 mg/mL, 5 mL vial | NDC 0003-0293-20 |
 | 40 mg/mL, 10 mL vial | NDC 0003-0293-28 |
 
-Kenalog®-80 Injection (triamcinolone acetonide injectable suspension, USP) is supplied in vials providing 80 mg triamcinolone acetonide per mL.
+KENALOG®-80 Injection (triamcinolone acetonide injectable suspension, USP) is supplied in vials providing 80 mg triamcinolone acetonide per mL.
 
 | 80 mg/mL, 1 mL vial | NDC 0003-0315-05 |
 | --- | --- |

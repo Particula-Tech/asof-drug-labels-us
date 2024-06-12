@@ -1,4 +1,4 @@
-# Kenalog-40 40 mg per 10 mL Injectable Suspension Representative Packaging
+# KENALOG-40 40 mg per 10 mL Injectable Suspension Representative Packaging
 
 See How Supplied section for a complete list of available packages of KENALOG-40 and KENALOG-80.
 
