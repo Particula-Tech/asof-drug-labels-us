@@ -27,4 +27,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
 
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 01/2024
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 05/2024

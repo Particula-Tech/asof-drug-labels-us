@@ -3,8 +3,7 @@
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-research-programs/pregnancyregistry/antidepressants/
-
+Healthcare providers are encouraged to advise patients to register by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants.
 Risk Summary Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.7) and Clinical Considerations].
 Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
 There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including escitalopram oral solution, during pregnancy.

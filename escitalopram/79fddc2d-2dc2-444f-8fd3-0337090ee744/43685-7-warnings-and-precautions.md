@@ -79,7 +79,7 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 ## 5.7 Increased Risk of Bleeding
 
 Drugs that interfere with serotonin reuptake inhibition, including escitalopram oral solution, increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal antiinflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to the risk.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
@@ -94,7 +94,7 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 
 ## 5.9 Angle Closure Glaucoma
 
-The pupillary dilation that occurs following use of many antidepressant drugs including escitalopram oral solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs, including escitalopram oral solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.10 Use in Patients with Concomitant Illness
 
