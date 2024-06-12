@@ -39,7 +39,7 @@ Discontinue all other around-the-clock opioid drugs when MS CONTIN therapy is in
 There are no established conversion ratios for conversion from other opioids to MS CONTIN defined by clinical trials.
 Initiate dosing using MS CONTIN 15 mg orally every 8 to 12 hours.
 
-It is safer to underestimate a patient’s 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
+It is safer to underestimate a patient's 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
 While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to MS CONTIN.

@@ -1,7 +1,7 @@
 # WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse MS CONTIN® exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient’s risk prior to prescribing MS CONTIN, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
+Assess each patient's risk prior to prescribing MS CONTIN, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of MS CONTIN.
 Monitor for respiratory depression, especially during initiation of MS CONTIN or following a dose increase.
 Instruct patients to swallow MS CONTIN tablets whole; crushing, chewing, or dissolving MS CONTIN tablets can cause rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.2)].

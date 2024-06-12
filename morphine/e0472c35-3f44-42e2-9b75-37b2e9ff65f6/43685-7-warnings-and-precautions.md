@@ -9,7 +9,7 @@ Because extended-release products such as MS CONTIN deliver the opioid over an e
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed MS CONTIN.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing MS CONTIN, and monitor all patients receiving MS CONTIN for development of these behaviors and conditions.
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing MS CONTIN, and monitor all patients receiving MS CONTIN for development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as MS CONTIN, but use in such patients necessitates intensive counseling about the risks of proper use of MS CONTIN along with intensive monitoring for signs of addiction, abuse, and misuse.
@@ -25,7 +25,7 @@ Contact local state professional licensing board or state controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of MS CONTIN, the risk is greatest during the initiation of therapy or following a dosage increase.
