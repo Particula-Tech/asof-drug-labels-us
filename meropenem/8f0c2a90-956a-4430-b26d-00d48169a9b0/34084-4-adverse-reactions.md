@@ -141,5 +141,3 @@ Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopen
 Immune System Disorders: angioedema.
 
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
-
-Acute myocardial ischemia with or without myocardial infarction which may occur as part of an allergic reaction (Kounis syndrome) has been reported with other beta-lactam antibiotics.
