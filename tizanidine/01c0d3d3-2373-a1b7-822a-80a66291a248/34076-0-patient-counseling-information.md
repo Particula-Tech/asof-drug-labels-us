@@ -7,7 +7,7 @@ Tizanidine Dosing Tell patients to take tizanidine exactly as prescribed (consis
 Inform patients that they should not take more tizanidine than prescribed because of the risk of adverse events at single doses greater than 8 mg or total daily doses greater than 36 mg.
 Tell patients that they should not suddenly discontinue tizanidine, because rebound hypertension and tachycardia may occur.
 
-Effects of Tizanidine Warn patients that they may experience hypotension and to be careful when changing from a lying or sitting to a standing position.
+Effects of Tizanidine Tablets Warn patients that they may experience hypotension and to be careful when changing from a lying or sitting to a standing position.
 Tell patients that tizanidine may cause them to become sedated or somnolent and they should be careful when performing activities that require alertness, such as driving a vehicle or operating machinery.
 Tell patients that the sedation may be additive when tizanidine is taken in conjunction with drugs (baclofen, benzodiazepines) or substances (e.g., alcohol) that act as CNS depressants.
 Remind patients that if they depend on their spasticity to sustain posture and balance in locomotion, or whenever spasticity is utilized to obtain increased function, that tizanidine decreases spasticity and caution should be used.
@@ -20,5 +20,5 @@ APOTEX INC. Tizanidine Tablets, USP 2 mg and 4 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: October 2015 Rev.
-5
+Revised: June 2024 Rev.
+6
