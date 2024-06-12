@@ -76,6 +76,8 @@ Table 3: Mean Pocket Depth Changes (SE) in Subpopulations, Studies 103A and 103B
 | Subjects without CV Disease | n=214-1.22 (±0.06) mm | n=220-1.11 (±0.05) mm | n=213-1.40 (±0.06) mm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SRP = scaling and root planing; YOA = years of age; CV = cardiovascular |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
+*SRP vs SRP + ARESTIN P≤0.05; **SRP vs SRP +ARESTIN P ≤ 0.001
+
 In both studies, the following patient subgroups were prospectively analyzed: smokers, subjects over and under 50 years of age, and subjects with a previous history of cardiovascular disease.
 The results of the combined studies are presented in Table 3.
 
