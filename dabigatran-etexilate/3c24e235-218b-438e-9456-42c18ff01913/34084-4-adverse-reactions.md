@@ -14,23 +14,23 @@ Limited information is presented on the 110 mg dosing arm because this dose is n
 
 Table 2 Summary of Treatment Exposure in RE-LY
 
-|  | Dabigatran etexilate capsules 110 mg twice daily | Dabigatran etexilate capsules 150 mg twice daily | Warfarin |
+|  | Dabigatran Etexilate Capsules 110 mg twice daily | Dabigatran Etexilate Capsules 150 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
-| Total number treated | 5983 | 6059 | 5998 |
+| Total number treated | 5,983 | 6,059 | 5,998 |
 | Exposure |  |  |  |
-| > 12 months | 4936 | 4939 | 5193 |
-| > 24 months | 2387 | 2405 | 2470 |
+| > 12 months | 4,936 | 4,939 | 5,193 |
+| > 24 months | 2,387 | 2,405 | 2,470 |
 | Mean exposure (months) | 20.5 | 20.3 | 21.3 |
 | Total patient-years | 10,242 | 10,261 | 10,659 |
 
 Drug Discontinuation in RE-LY The rates of adverse reactions leading to treatment discontinuation were 21% for dabigatran etexilate capsules 150 mg and 16% for warfarin.
 The most frequent adverse reactions leading to discontinuation of dabigatran etexilate capsules were bleeding and gastrointestinal events (i.e., dyspepsia, nausea, upper abdominal pain, gastrointestinal hemorrhage, and diarrhea).
 Bleeding [see Warnings and Precautions (5.2)] Table 3 shows the number of adjudicated major bleeding events during the treatment period in the RE-LY study, with the bleeding rate per 100 subject-years (%).
-Major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells, bleeding at a critical site or with a fatal outcome.
+Major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥ 2 g/dL, a transfusion of ≥ 2 units of packed red blood cells, bleeding at a critical site or with a fatal outcome.
 Intracranial hemorrhage included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds.
 Table 3 Adjudicated Major Bleeding Events in Treated Patients a
 
-| Event | Dabigatran etexilate capsules 150 mg N = 6059 n (%/year b) | Warfarin N = 5998 n (%/year b) | Dabigatran etexilate capsules 150 mg vs Warfarin HR (95% CI) |
+| Event | Dabigatran Etexilate Capsules 150 mg N = 6,059 n (%/year b) | Warfarin N = 5,998 n (%/year b) | Dabigatran Etexilate Capsules 150 mg vs Warfarin HR (95% CI) |
 | --- | --- | --- | --- |
 | Major Bleeding c | 350 (3.47) | 374 (3.58) | 0.97 (0.84, 1.12) |
 | Intracranial Hemorrhage (ICH) d | 23 (0.22) | 82 (0.77) | 0.29 (0.18, 0.46) |
@@ -44,9 +44,9 @@ Table 3 Adjudicated Major Bleeding Events in Treated Patients a
 aPatients during treatment or within 2 days of stopping study treatment.
 Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. bAnnual event rate per 100 pt-years = 100 * number of subjects with event/subject-years.
 Subject-years is defined as cumulative number of days from first drug intake to event date, date of last drug intake + 2, death date (whatever occurred first) across all treated subjects divided by 365.25.
-In case of recurrent events of the same category, the first event was considered. cDefined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome. dIntracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds. eOn-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14 Clinical Studies. fFatal bleed: Adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding. gNon-intracranial fatal bleed: Adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator’s clinical assessment.
+In case of recurrent events of the same category, the first event was considered. cDefined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥ 2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome. dIntracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds. eOn-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14 Clinical Studies. fFatal bleed: Adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding. gNon-intracranial fatal bleed: Adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator’s clinical assessment.
 There was a higher rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg than in patients receiving warfarin (6.6% vs 4.2%, respectively).
-The risk of major bleeds was similar with dabigatran etexilate capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on dabigatran etexilate capsules (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥75 years of age.
+The risk of major bleeds was similar with dabigatran etexilate capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on dabigatran etexilate capsules (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥ 75 years of age.
 
 Figure 1 Adjudicated Major Bleeding by Baseline Characteristics Including Hemorrhagic Stroke Treated Patients
 
@@ -56,8 +56,8 @@ Apparent homogeneity or heterogeneity among groups should not be over-interprete
 
 Gastrointestinal Adverse Reactions Patients on dabigatran etexilate capsules 150 mg had an increased incidence of gastrointestinal adverse reactions (35% vs 24% on warfarin).
 These were commonly dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) and gastritis-like symptoms (including GERD, esophagitis, erosive gastritis, gastric hemorrhage, hemorrhagic gastritis, hemorrhagic erosive gastritis, and gastrointestinal ulcer).
-Hypersensitivity Reactions In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in <0.1% of patients receiving dabigatran etexilate capsules.
-Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism Dabigatran etexilate capsules were studied in 4387 patients in 4 pivotal, parallel, randomized, double-blind trials.
+Hypersensitivity Reactions In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in < 0.1% of patients receiving dabigatran etexilate capsules.
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism Dabigatran etexilate capsules were studied in 4,387 patients in 4 pivotal, parallel, randomized, double-blind trials.
 Three of these trials were active-controlled (warfarin) (RE-COVER, RE-COVER II, and RE-MEDY), and one study (RE-SONATE) was placebo-controlled.
 The demographic characteristics were similar among the 4 pivotal studies and between the treatment groups within these studies.
 Approximately 60% of the treated patients were male, with a mean age of 55.1 years.
@@ -70,12 +70,12 @@ Table 4 Bleeding Events in RE-COVER and RE-COVER II Treated Patients
 
 |  | Bleeding Events-Full Treatment Period Including Parenteral Treatment |  |  |
 | --- | --- | --- | --- |
-|  | Dabigatran etexilate capsules 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI) c |
-| Patients | N=2553 | N=2554 |  |
+|  | Dabigatran Etexilate Capsules 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI) c |
+| Patients | N=2,553 | N=2,554 |  |
 | Major bleeding event a | 37 (1.4) | 51 (2.0) | 0.73 (0.48, 1.11) |
 | Fatal bleeding | 1 (0.04) | 2 (0.1) |  |
 | Bleeding in a critical area or organ | 7 (0.3) | 15 (0.6) |  |
-| Fall in hemoglobin ≥2 g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 32 (1.3) | 38 (1.5) |  |
+| Fall in hemoglobin ≥ 2 g/dL or transfusion ≥ 2 units of whole blood or packed red blood cells | 32 (1.3) | 38 (1.5) |  |
 | Bleeding sites for MBE b |  |  |  |
 | Intracranial | 2 (0.1) | 5 (0.2) |  |
 | Retroperitoneal | 2 (0.1) | 1 (0.04) |  |
@@ -90,18 +90,18 @@ Table 4 Bleeding Events in RE-COVER and RE-COVER II Treated Patients
 Note: MBE can belong to more than one criterion. aPatients with at least one MBE. bBleeding site based on investigator assessment.
 Patients can have more than one site of bleeding. cConfidence interval The rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg in the full treatment period was 3.1% (2.4% on warfarin).
 The RE-MEDY and RE-SONATE studies provided safety information on the use of dabigatran etexilate capsules for the reduction in the risk of recurrence of deep vein thrombosis and pulmonary embolism.
-RE-MEDY was an active-controlled study (warfarin) in which 1430 patients received dabigatran etexilate capsules 150 mg twice daily following 3 to 12 months of oral anticoagulant regimen.
+RE-MEDY was an active-controlled study (warfarin) in which 1,430 patients received dabigatran etexilate capsules 150 mg twice daily following 3 to 12 months of oral anticoagulant regimen.
 Patients in the treatment studies who rolled over into the RE-MEDY study had a combined treatment duration of up to more than 3 years, with mean exposure of 473 days.
 Table 5 shows the number of patients experiencing bleeding events in the study.
 Table 5 Bleeding Events in RE-MEDY Treated Patients
 
-|  | Dabigatran etexilate capsules 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI) c |
+|  | Dabigatran Etexilate Capsules 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI) c |
 | --- | --- | --- | --- |
-| Patients | N=1430 | N=1426 |  |
+| Patients | N=1,430 | N=1,426 |  |
 | Major bleeding event a | 13 (0.9) | 25 (1.8) | 0.54 (0.25, 1.16) |
 | Fatal bleeding | 0 | 1 (0.1) |  |
 | Bleeding in a critical area or organ | 7 (0.5) | 11 (0.8) |  |
-| Fall in hemoglobin ≥2 g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 7 (0.5) | 16 (1.1) |  |
+| Fall in hemoglobin ≥ 2 g/dL or transfusion ≥ 2 units of whole blood or packed red blood cells | 7 (0.5) | 16 (1.1) |  |
 | Bleeding sites for MBE b |  |  |  |
 | Intracranial | 2 (0.1) | 4 (0.3) |  |
 | Intraocular | 4 (0.3) | 2 (0.1) |  |
@@ -121,7 +121,7 @@ Patients in the treatment studies who rolled over into the RE-SONATE study had c
 Table 6 shows the number of patients experiencing bleeding events in the study.
 Table 6 Bleeding Events in RE-SONATE Treated Patients
 
-|  | Dabigatran etexilate capsules 150 mg twice daily N (%) | Placebo N (%) | Hazard Ratio (95% CI) c |
+|  | Dabigatran Etexilate Capsules 150 mg twice daily N (%) | Placebo N (%) | Hazard Ratio (95% CI) c |
 | --- | --- | --- | --- |
 | Patients | N=684 | N=659 |  |
 | Major bleeding event a | 2 (0.3) | 0 |  |
@@ -144,4 +144,5 @@ However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusi
 
 The following adverse reactions have been identified during post approval use of dabigatran etexilate capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post approval use of dabigatran etexilate capsules: angioedema, thrombocytopenia, esophageal ulcer, alopecia, neutropenia, agranulocytosis.
+
+Blood and Lymphatic System Disorders:Agranulocytosis, neutropenia, thrombocytopenia Gastrointestinal Disorders:Esophageal ulcer Immune System Disorders:Angioedema Renal and Urinary Disorders:Anticoagulant-related nephropathy Skin and Subcutaneous Tissue Disorders:Alopecia

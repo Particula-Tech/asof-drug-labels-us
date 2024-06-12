@@ -14,9 +14,9 @@ Discontinue dabigatran etexilate capsules in patients with active pathological b
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 Dabigatran etexilate capsules anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
-Reversal of Anticoagulant Effect: In adults, a specific reversal agent (idarucizumab) for dabigatran etexilate is available when reversal of the anticoagulant effect of dabigatran is needed: • For emergency surgery/urgent procedures • In life-threatening or uncontrolled bleeding
+Reversal of Anticoagulant Effect: In adults, a specific reversal agent (idarucizumab) for dabigatran etexilate capsules is available when reversal of the anticoagulant effect of dabigatran is needed: • For emergency surgery/urgent procedures • In life-threatening or uncontrolled bleeding
 
-In pediatricpatients, the efficacy and safety of idarucizumab have not been established.
+In pediatric patients, the efficacy and safety of idarucizumab have not been established.
 
 Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)].
 Prothrombin complex concentrates, or recombinant Factor VIIa may be considered but their use has not been evaluated in clinical trials.
@@ -49,10 +49,10 @@ The concomitant use of dabigatran etexilate capsules with P-gp inducers (e.g., r
 P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)].
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 
-Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients Reduce the dose of dabigatran etexilate capsules to 75 mg twice daily when dronedarone or systemic ketoconazole is co-administered with dabigatran etexilate capsules in patients with moderate renal impairment (CrCl 30 to 50 mL/min).
+Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients Reduce the dosage of dabigatran etexilate capsules to 75 mg twice daily when dronedarone or systemic ketoconazole is co-administered with dabigatran etexilate capsules in patients with moderate renal impairment (CrCl 30 to 50 mL/min).
 Avoid use of dabigatran etexilate capsules and P-gp inhibitors in patients with severe renal impairment (CrCl 15 to 30 mL/min) [see Drug Interactions (7.1) and Use in Specific Populations (8.6)].
 
-Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients Avoid use of dabigatran etexilate capsules and concomitant P-gp inhibitors in patients with CrCl<50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients Avoid use of dabigatran etexilate capsules and concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

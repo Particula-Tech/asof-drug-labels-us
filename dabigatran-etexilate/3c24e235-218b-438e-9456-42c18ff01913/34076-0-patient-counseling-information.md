@@ -36,6 +36,6 @@ However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusi
 
 Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854
 
-Manufactured by: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India
+Manufactured by: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, Telangana India.
 
-Revised: 04/2022
+Revised: 02/2024

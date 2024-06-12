@@ -10,7 +10,7 @@ However, the incidence of delayed or irregular ossification of fetal skull bones
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Pregnancy confers an increased risk for thromboembolism that is higher for women with underlying thromboembolic disease and certain high-risk pregnancy conditions.
 Published data describe that women with a previous history of venous thrombosis are at high risk for recurrence during pregnancy.
@@ -35,12 +35,6 @@ Risk Summary There are no data on the presence of dabigatran in human milk, the 
 Dabigatran and/or its metabolites were present in rat milk.
 Breastfeeding is not recommended during treatment with dabigatran etexilate capsules.
 
-Section 8.3 Females and Males of Reproductive Potential
-
-Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their physician.
-
-The risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions, identified with oral anticoagulants including dabigatran etexilate capsules should be assessed in females of reproductive potential and those with abnormal uterine bleeding.
-
 ## 8.3 Females and Males of Reproductive Potential
 
 Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their physician.
@@ -62,14 +56,14 @@ The risk of stroke and bleeding increases with age, but the risk-benefit profile
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients No dose adjustment of dabigatran etexilate capsules is recommended in patients with mild or moderate renal impairment [see Clinical Pharmacology (12.3)].
 Reduce the dose of dabigatran etexilate capsules in patients with severe renal impairment (CrCl 15 to 30 mL/min) [see Dosage and Administration (2.2, 2.4) and Clinical Pharmacology (12.3)].
-Dosing recommendations for patients with CrCl <15 mL/min or on dialysis cannot be provided.
+Dosing recommendations for patients with CrCl < 15 mL/min or on dialysis cannot be provided.
 
 Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.5), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
 
-Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients Patients with severe renal impairment (CrCl ≤30 mL/min) were excluded from RE-COVER.
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients Patients with severe renal impairment (CrCl ≤ 30 mL/min) were excluded from RE-COVER.
 
-Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
-Avoid use of dabigatran etexilate capsules with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
+Dosing recommendations for patients with CrCl ≤ 30 mL/min or on dialysis cannot be provided.
+Avoid use of dabigatran etexilate capsules with concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

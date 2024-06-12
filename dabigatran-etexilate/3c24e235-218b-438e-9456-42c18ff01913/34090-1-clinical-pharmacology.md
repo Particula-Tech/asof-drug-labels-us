@@ -53,27 +53,27 @@ Dabigatran is subject to conjugation forming pharmacologically active acyl glucu
 Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each accounts for less than 10% of total dabigatran in plasma.
 Specific Populations Renal Impairment An open, parallel-group, single-center study compared dabigatran pharmacokinetics in healthy adult subjects and adult patients with mild to moderate renal impairment receiving a single dose of dabigatran etexilate capsules 150 mg.
 Exposure to dabigatran increases with severity of renal function impairment (Table 10).
-Similar findings were observed in the RE-LY, and RE-COVER trials.
+Similar findings were observed in the RE-LY and RE-COVER trials.
 Table 10 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 
 | Renal Function | CrCl (mL/min) | Increase in AUC | Increase in C max | t 1/2 (h) |
 | --- | --- | --- | --- | --- |
-| Normal | ≥80 | 1x | 1x | 13 |
+| Normal | ≥ 80 | 1x | 1x | 13 |
 | Mild | 50 to 80 | 1.5x | 1.1x | 15 |
 | Moderate | 30 to 50 | 3.2x | 1.7x | 18 |
 | Severe + | 15 to 30 | 6.3x | 2.1x | 27 |
 
-+Patients with severe renal impairment were not studied in RE-LY, and RE-COVER.
++Patients with severe renal impairment were not studied in RE-LY and RE-COVER.
 Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.2, 2.4) and Use in Specific Populations (8.6)].
 Hepatic Impairment Administration of dabigatran etexilate capsules in adult patients with moderate hepatic impairment (Child-Pugh B) showed a large inter-subject variability, but no evidence of a consistent change in exposure or pharmacodynamics.
 Drug Interactions A summary of the effect of coadministered drugs on dabigatran exposure in healthy adult subjects is shown in Figures 3.1 and 3.2.
 Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference)
 
 Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (C maxand AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference)
 
 In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.
