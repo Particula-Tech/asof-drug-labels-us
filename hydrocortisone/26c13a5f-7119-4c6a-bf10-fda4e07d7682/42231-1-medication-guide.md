@@ -26,4 +26,4 @@
 | What are the ingredients in ALKINDI SPRINKLE? |  |  |  |  |  |  |  |
 | Active ingredient: hydrocortisone |  |  |  |  |  |  |  |
 | Inactive ingredients: granules: microcrystalline cellulose, hypromellose, magnesium stearate, ethyl cellulose. capsule: hypromellose printing ink: shellac, propylene glycol, concentrated ammonia solution. ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany ALKINDI SPRINKLE® is a registered trademark of Diurnal Limited. ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740; and other patents in other countries internationally. For more information, go to www.alkindisprinkle.com or call 1-833-343-2500. |  |  |  |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  |  | Revised: 04/2024 |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  |  | Revised: 06/2024 |  |  |
