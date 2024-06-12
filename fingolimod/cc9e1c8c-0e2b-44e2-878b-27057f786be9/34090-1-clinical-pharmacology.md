@@ -68,7 +68,7 @@ Fingolimod 1.25 mg was associated with a 5-fold increase in the use of rescue sh
 
 Absorption
 
-The Tmax of fingolimod is 12-16 hours.
+The Tmax of fingolimod is 12 to 16 hours.
 The apparent absolute oral bioavailability is 93%.
 
 Food intake does not alter Cmax or (AUC) of fingolimod or fingolimod-phosphate.
@@ -119,7 +119,7 @@ Gender has no clinically significant influence on fingolimod and fingolimod-phos
 
 Race
 
-The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of non-white patients in the clinical program.
+The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of patients who self-identified as Black or African American, Asian, or other races in the clinical program.
 
 Renal Impairment
 

@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to GILENYA during pregnancy.
-Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA Pregnancy Registry by calling 1-877-598-7237, sending an email to gpr@quintiles.com, or visiting www.gilenyapregnancyregistry.com.
-
 Risk Summary
 
 Based on findings from animal studies, GILENYA may cause fetal harm when administered to a pregnant woman.
@@ -77,7 +72,7 @@ Delayed sexual maturation was noted in females at the highest dose tested and in
 The bone changes observed in fingolimod-treated juvenile rats are consistent with a reported role of S1P in the regulation of bone mineral homeostasis.
 
 When fingolimod (0.5 or 5 mg/kg/day) was orally administered to rats from the neonatal period through sexual maturity, a marked decrease in T-cell dependent antibody response was observed at both doses.
-This effect had not fully recovered by 6-8 weeks after the end of treatment.
+This effect had not fully recovered by 6 to 8 weeks after the end of treatment.
 
 Overall, a no-effect dose for adverse developmental effects in juvenile animals was not identified.
 
