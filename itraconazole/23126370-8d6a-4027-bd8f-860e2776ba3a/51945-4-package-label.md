@@ -1,6 +1,6 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL- 30's Bottle Pack
 
-NDC 62332-204-30 Itraconazole Capsules 100 mg Rx only 30 Capsules Alembic
+NDC 62332-204-30 Itraconazole Capsules, USP 100 mg Rx only 30 Capsules Alembic
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL- 7 Day Treatment Pack
 
