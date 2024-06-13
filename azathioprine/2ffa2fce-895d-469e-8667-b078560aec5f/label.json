@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA075568"
+  ],
+  "inn": "azathioprine",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-835-01",
+    "16571-835-10",
+    "16571-835-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "azathioprine",
+      "name": "AZATHIOPRINE"
+    }
+  ],
+  "setid": "2ffa2fce-895d-469e-8667-b078560aec5f",
+  "source": "dailymed"
+}
