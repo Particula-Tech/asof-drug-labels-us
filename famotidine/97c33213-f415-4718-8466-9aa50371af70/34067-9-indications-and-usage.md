@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Famotidine Injection is supplied as a premixed solution in GALAXY plastic containers (PL 2501 Plastic) and is intended for intravenous use only.
+Famotidine Injection is supplied as a premixed solution in GALAXY plastic containers and is intended for intravenous use only.
 Famotidine Injection is indicated in some hospitalized patients with pathological hypersecretory conditions or intractable ulcers, or as an alternative to the oral dosage forms for short term use in patients who are unable to take oral medication for the following conditions:
 
 1. 1.Short term treatment of active duodenal ulcer.

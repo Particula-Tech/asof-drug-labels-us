@@ -25,7 +25,7 @@ Antacids may be given concomitantly if needed.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-Famotidine Injection, as supplied premixed in 0.9% sodium chloride in GALAXY containers (PL 2501 Plastic), is stable through the labeled expiration date when stored under the recommended conditions.
+Famotidine Injection, as supplied premixed in 0.9% sodium chloride in GALAXY containers, is stable through the labeled expiration date when stored under the recommended conditions.
 (See HOW SUPPLIED, Storage.)
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
@@ -34,7 +34,7 @@ Printed in USA
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-1. 07-19-00-719
+07-19-07-568
 
 Rev.
-May 2018
+April 2024

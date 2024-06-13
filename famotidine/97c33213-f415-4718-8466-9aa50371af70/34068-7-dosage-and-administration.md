@@ -39,6 +39,6 @@ Oral doses up to 160 mg q 6 h have been administered to some adult patients with
 
 ## Famotidine Injection
 
-Famotidine Injection, supplied in GALAXY containers (PL 2501 Plastic), is a 50 mL iso-osmotic solution premixed with 0.9% sodium chloride for administration as an infusion over a 15-30 minute period.
+Famotidine Injection, supplied in GALAXY containers, is a 50 mL iso-osmotic solution premixed with 0.9% sodium chloride for administration as an infusion over a 15-30 minute period.
 
 This premixed solution is for intravenous use only using sterile equipment.

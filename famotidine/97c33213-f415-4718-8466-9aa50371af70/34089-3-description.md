@@ -11,6 +11,6 @@ Famotidine Injection is supplied as a sterile solution, for intravenous use only
 Each 50 mL of the premixed, iso-osmotic intravenous injection contains 20 mg Famotidine, USP, and the following inactive ingredients: L-aspartic acid 6.8 mg, sodium chloride, USP, 450 mg, and Water for Injection.
 The pH ranges from 5.7 to 6.4 and may have been adjusted with additional L-aspartic acid and/or with sodium hydroxide.
 
-The GALAXY plastic container is fabricated from a specially designed multilayer plastic (PL 2501).
+The GALAXY plastic container is fabricated from a specially designed multilayer plastic.
 Solutions are in contact with the polyethylene layer of the container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.
 The suitability and safety of the plastic have been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies.

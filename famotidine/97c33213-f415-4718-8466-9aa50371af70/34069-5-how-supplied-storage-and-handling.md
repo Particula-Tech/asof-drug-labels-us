@@ -10,6 +10,6 @@ Famotidine Injection is supplied in a carton of 12 x 50 mL single dose GALAXY pl
 
 ## Storage
 
-Store Famotidine Injection in GALAXY containers (PL 2501 Plastic) at room temperature (25°C/77°F).
+Store Famotidine Injection in GALAXY containers at room temperature (25°C/77°F).
 Exposure of the premixed product to excessive heat should be avoided.
 Brief exposure to temperatures up to 35°C (95°F) does not adversely affect the product.
