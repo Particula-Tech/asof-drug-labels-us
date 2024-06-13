@@ -2,10 +2,10 @@
 
 NDC 0555-0882-02
 
-Hydroxyurea Capsules USP 500 mg
+Hydroxyurea Capsules, USP 500 mg
 
-Caution: Cytotoxic, Special Handling Procedures
+CAUTION: Cytotoxic Agent
 
 Rx only
 
-100 CAPSULES
+100 Capsules

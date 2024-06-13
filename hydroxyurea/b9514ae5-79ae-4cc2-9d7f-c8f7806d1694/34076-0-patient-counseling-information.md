@@ -13,11 +13,12 @@
 - Patients with HIV infection should contact their physician for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.7)].
 - Post-irradiation erythema can occur in patients who have received previous irradiation therapy [see Warnings and Precautions (5.8)].
 - Advise patients of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.10)].
+- Advise patients to notify their healthcare provider if they are using a continuous glucose monitoring system while taking hydroxyurea capsules [see Warnings and Precautions (5.11)].
 
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-H 3/2022
+I 5/2024
