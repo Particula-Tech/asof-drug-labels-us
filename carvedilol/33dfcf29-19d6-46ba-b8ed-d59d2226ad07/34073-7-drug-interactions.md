@@ -9,7 +9,7 @@ Retrospective analysis of side effects in clinical trials showed that poor 2D6 m
 
 Patients taking both agents with β-blocking properties and a drug that can deplete catecholamines (e.g., reserpine and monoamine oxidase inhibitors) should be observed closely for signs of hypotension and/or severe bradycardia.
 
-Concomitant administration of clonidine with agents with β-blocking properties may potentiate blood-pressureand heart-ratelowering effects.
+Concomitant administration of clonidine with agents with β-blocking properties may may cause hypotension and bradycardia.
 When concomitant treatment with agents with β-blocking properties and clonidine is to be terminated, the β-blocking agent should be discontinued first.
 Clonidine therapy can then be discontinued several days later by gradually decreasing the dosage.
 

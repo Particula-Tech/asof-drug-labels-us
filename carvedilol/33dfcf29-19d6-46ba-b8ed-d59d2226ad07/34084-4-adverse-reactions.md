@@ -2,6 +2,8 @@
 
 ## 6.1 Clinical Studies Experience
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 Carvedilol Tablet has been evaluated for safety in patients with heart failure (mild, moderate and severe), in patients with left ventricular dysfunction following myocardial infarction and in hypertensive patients.
 The observed adverse event profile was consistent with the pharmacology of the drug and the health status of the patients in the clinical trials.
 Adverse events reported for each of these patient populations are provided below.
@@ -110,7 +112,7 @@ Although there was no overall difference in discontinuation rates, discontinuati
 The overall incidence of adverse events in U.S. placebo-controlled trials increased with increasing dose of Carvedilol Tablet.
 For individual adverse events this could only be distinguished for dizziness, which increased in frequency from 2% to 5% as total daily dose increased from 6.25 mg to 50 mg.
 
-Table 1 shows adverse events in U.S. placebo-controlled clinical trials for hypertension that occurred with an incidence of greater than or equal to 1% regardless of causality, and that were more frequent in drug-treated subjects than placebo-treated patients.
+Table 2 shows adverse events in U.S. placebo-controlled clinical trials for hypertension that occurred with an incidence of greater than or equal to 1% regardless of causality, and that were more frequent in drug-treated subjects than placebo-treated patients.
 
 | Table 2. Adverse Events (%) Occurring in U.S. Placebo-ControlledHypertension Trials (Incidence greater than or equal to 1%, Regardless of Causality)* |  |  |
 | --- | --- | --- |

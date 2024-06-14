@@ -103,7 +103,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Carvedilol Tablet?
 
-- Store Carvedilol Tablet at less than 86°F (30°C).
+- Store Carvedilol Tablet at less than 77°F (25°C).
   Keep the tablets dry.
 - Safely, throw away Carvedilol Tablet that is out of date or no longer needed.
 - Keep Carvedilol Tablet and all medicines out of the reach of children.

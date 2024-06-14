@@ -28,7 +28,7 @@ In the CAPRICORN study of survivors of an acute myocardial infarction, hypotensi
 Syncope was reported in 3.9% and 1.9% of patients, respectively.
 These events were a cause for discontinuation of therapy in 2.5% of patients receiving Carvedilol Tablet, compared to 0.2% of placebo patients.
 
-Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.2, 2.3)].
+Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.1, 2.2, 2.3)].
 During initiation of therapy, the patient should be cautioned to avoid situations such as driving or hazardous tasks, where injury could result should syncope occur.
 
 ## 5.4 Heart Failure/Fluid Retention
