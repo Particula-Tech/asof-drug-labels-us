@@ -5,7 +5,7 @@
 Budesonide has a high topical glucocorticosteroid (GCS) activity and substantial first-pass elimination.
 The formulation contains budesonide in an extended-release tablet core.
 The tablet core is enteric coated to protect dissolution in gastric juice which delays budesonide release until exposure to a pH ≥7 in the small intestine.
-Upon disintegration of the coating, the core matrix provides extended release of budesonide in a time dependent manner.
+Upon disintegration of the coating, the core matrix provides extended-release of budesonide in a time dependent manner.
 
 ## 12.2 Pharmacodynamics
 

@@ -4,9 +4,10 @@ Systemic glucocorticosteroid use may result in the following:
 
 - •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
 - •Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
-- •Immunosuppression [see Warnings and Precautions (5.3)]
-- •Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.4)]
-- •Other Glucocorticosteroid Effects [see Warnings and Precautions (5.5)]
+- •Immunosuppression and Increased Risk of Infection [see Warnings and Precautions (5.3)]
+- •Kaposi’s Sarcoma [see Warnings and Precautions (5.4)]
+- •Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.5)]
+- •Other Glucocorticosteroid Effects [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -58,7 +59,7 @@ Summary of Glucocorticoid-Related Effects in Two Placebo-Controlled Trials (Stud
 
 No clinically significant differences were observed with respect to the overall percentages of patients with any glucocorticoid-related effects between UCERIS and placebo after 8 weeks of induction therapy.
 
-Study 3 was an open-label study evaluating UCERIS 9 mg once daily for 8 weeks in 60 patients who had previously completed an 8-week induction study (Study 1), but had not achieved remission.
+Study 3 was an open-label study evaluating UCERIS 9 mg once daily for 8 weeks in 60 patients who had previously completed an 8-week induction study (Study 1) but had not achieved remission.
 Among patients who took UCERIS 9 mg up to 16 weeks cumulatively across Study 1 and Study 3 combined, similar rates of adverse reactions and glucocorticoid-related effects were seen compared to those who took UCERIS 9 mg for 8 weeks in Study 1.
 
 In Study 4, the safety of long-term treatment with UCERIS 6 mg was evaluated in a placebo-controlled 12-month maintenance study of 123 patients.

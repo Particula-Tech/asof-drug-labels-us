@@ -8,7 +8,7 @@ Rx only
 
 UCERIS®
 
-(budesonide) extended release tablets
+(budesonide) extended-release tablets
 
 9 mg
 

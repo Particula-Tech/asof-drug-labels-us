@@ -2,24 +2,29 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Patients being treated with UCERIS extended-release tablets should receive the following information and instructions.
+Patients treated with UCERIS extended-release tablets should receive the following information and instructions.
 This information is intended to aid the patient in the safe and effective use of UCERIS.
 
 Hypercorticism and Adrenal Suppression
 
-Patients should be advised that UCERIS extended-release tablets may cause systemic glucocorticosteroid effects of hypercorticism and adrenal suppression.
-Patients should taper slowly from systemic corticosteroids if transferring to UCERIS extended-release tablets [see Warnings and Precautions (5.1) and (5.2)].
+Advise patients that UCERIS extended-release tablets may cause systemic glucocorticosteroid effects of hypercorticism and adrenal suppression.
+Taper slowly from systemic corticosteroids if transferring to UCERIS extended-release tablets [see Warnings and Precautions (5.1) and (5.2)].
 
-Immunosuppression
+Immunosuppression and Increased Risk of Infection
 
-Patients who are on immunosuppressant doses of glucocorticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to consult their physician immediately.
-If exposure to such a person occurs, and the patient has not had chickenpox or been properly vaccinated, a physician should be consulted immediately.
-Patients should be informed of potential worsening of existing tuberculosis, fungal, bacterial, viral, or parasitic infections, or ocular herpes simplex [seeWarnings and Precautions (5.3)].
+Advise patients to avoid exposure to people with varicella (chicken pox) or measles.
+Advise patients to inform their healthcare provider if they are exposed to varicella or measles or develop a new or worsening infection.
+[seeWarnings and Precautions (5.3)]
+
+Kaposi’s Sarcoma
+
+Advise patients that Kaposi’s sarcoma has been reported in patients receiving corticosteroids for chronic conditions and to inform their healthcare provider if they experience signs or symptoms of Kaposi’s sarcoma [seeWarnings and Precautions (5.4)].
 
 How to Take UCERIS Extended-Release Tablets
 
-UCERIS extended-release tablets should be swallowed whole with water and NOT CHEWED, CRUSHED, OR BROKEN.
-Patients should be advised to avoid the consumption of grapefruit juice for the duration of their UCERIS therapy [see Dosage and Administration (2)].
+Advise patients to swallow UCERIS extended-release tablets whole with water.
+Do not chew or crush.
+Avoid the consumption of grapefruit juice for the duration of UCERIS therapy [see Dosage and Administration (2)].
 
 Pregnancy
 
@@ -43,12 +48,12 @@ Milan, 20020 Italy
 
 By license of Cosmo Technologies Ltd., Dublin, Ireland
 
-U.S. Patent Numbers: 7,410,651; 7,431,943; 8,293,273; 8,784,888; 8,895,064; 9,132,093; 9,192,581; 9,320,716; 9,532,954; 9,592,203; 9,737,489; 10,052,286; 10,064,878; 10,105,374; 10,143,698; 10,154,964; 10,172,799; 10,307,375 and RE43799
+Patented.
+See https://patents.salix.com for US patent information.
 
-UCERIS and the Salix logo are trademarks of Salix Pharmaceuticals, Inc.
+UCERIS is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-or its affiliates.
+© 2024 Salix Pharmaceuticals, Inc. or its affiliates
 
-© 2020 Salix Pharmaceuticals, Inc. or its affiliates
-
-9464203 70014813
+| 9464204 |  |
+| --- | --- |

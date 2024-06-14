@@ -15,7 +15,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/Fetal Risk
+Disease-Associated Maternal and/or Embryofetal Risk
 
 Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with ulcerative colitis.
 Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
@@ -30,12 +30,12 @@ Data
 Animal Data
 
 Budesonide was teratogenic and embryolethal in rabbits and rats.
-In an embryo-fetal development study in pregnant rats dosed subcutaneously with budesonide during the period of organogenesis from gestation days 6-15 there were effects on fetal development and survival at subcutaneous doses up to approximately 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
-In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6-18, there was an increase in maternal abortion, and effects on fetal development and reduction in litter weights at subcutaneous doses up to approximately 25 mcg/kg in rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis).
+In an embryofetal development study in pregnant rats dosed subcutaneously with budesonide during the period of organogenesis from gestation days 6-15 there were effects on fetal development and survival at subcutaneous doses up to approximately 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
+In an embryofetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6-18, there was an increase in maternal abortion, and effects on fetal development and reduction in litter weights at subcutaneous doses up to approximately 25 mcg/kg in rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis).
 Maternal toxicity, including reduction in body weight gain, was observed at subcutaneous doses of 5 mcg/kg in rabbits (approximately 0.01 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats
 
 (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
-In a peri-and post-natal development study, rats dosed subcutaneously with budesonide during the period of Day 15 post coitum to Day 21 postpartum, budesonide had no effects on delivery but did have an effect on growth and development of offspring.
+In a peri-and postnatal development study, rats dosed subcutaneously with budesonide during the period of Day 15 post coitum to Day 21 postpartum, budesonide had no effects on delivery but did have an effect on growth and development of offspring.
 In addition, offspring survival was reduced, and surviving offspring had decreased mean body weights at birth and during lactation at exposures 0.02 times the MRHD (on a mg/m2 basis at maternal subcutaneous doses of 20 mcg/kg/day and higher).
 These findings occurred in the presence of maternal toxicity.
 
@@ -62,11 +62,11 @@ Glucocorticosteroids, such as UCERIS, may cause a reduction of growth velocity i
 
 ## 8.5 Geriatric Use
 
-Clinical studies of UCERIS did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of UCERIS did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, UCERIS should be used cautiously in elderly patients due to the potential for decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
 
 Patients with moderate to severe liver disease should be monitored for increased signs and/or symptoms of hypercorticism.
-Discontinuing the use of UCERIS tablets should be considered in these patients [seeWarnings and Precautions (5.4)].
+Discontinuing the use of UCERIS tablets should be considered in these patients [see Warnings and Precautions (5.5)].
