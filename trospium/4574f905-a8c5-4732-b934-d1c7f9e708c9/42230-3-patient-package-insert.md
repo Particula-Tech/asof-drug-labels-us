@@ -107,15 +107,13 @@ Inactive Ingredients: colloidal silicon dioxide, magnesium aluminum silicate, ma
 
 The capsule shell contains: black iron oxide, gelatin, potassium hydroxide, propylene glycol, shellac, sodium lauryl sulfate and titanium dioxide.
 
-Manufactured For
+Distributed By Padagis Allegan, MI 49010
 
-Perrigo®
+www.padagis.com
 
-Minneapolis, MN 55427
+Rev 11-22
 
-Rev 05-14 C
-
-1G400 RC J2
+1G400 RC J3
 
 Manufactured By
 
@@ -132,7 +130,7 @@ Uttarakhand, India
 
 P2081001
 
-4270190/PI/02
+4270190/PI/03
 
 M.L.
 No. 38/UA/2007

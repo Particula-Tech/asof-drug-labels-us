@@ -18,7 +18,7 @@ In the placebo group, there were no discontinuations due to dry mouth or urinary
 The incidence of serious adverse events was similar among patients receiving Trospium Chloride Extended-Release Capsules and patients receiving placebo.
 No treatment-emergent serious adverse events in either treatment group were judged by the investigators as being possibly related to the study medication.
 
-Table 1 lists those treatment emergent adverse events from the trials that were assessed by the investigator as possibly related to study medication, reported in at least 1% of Trospium Chloride Extended-Release Capsules patients, and were more common for the Trospium Chloride Extended-Release Capsules group than for placebo.
+Table 1 lists those treatment-emergent adverse events from the trials that were assessed by the investigator as possibly related to study medication, reported in at least 1% of Trospium Chloride Extended-Release Capsules patients, and were more common for the Trospium Chloride Extended-Release Capsules group than for placebo.
 
 Table 1: Incidence of treatment-emergent adverse events reported in at least 1% of patients judged by the investigator as at least possibly related to treatment and more common for the Trospium Chloride Extended-Release Capsules group than for placebo
 

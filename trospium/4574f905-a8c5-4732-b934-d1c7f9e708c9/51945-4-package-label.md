@@ -1,8 +1,8 @@
 PRINCIPAL DISPLAY PANEL - 30 Capsule Bottle Label
 
-Rx Only
-
 NDC 0574-0118-30
+
+Rx Only
 
 Once-Daily
 

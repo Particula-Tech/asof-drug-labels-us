@@ -14,7 +14,7 @@ As illustrated in Table 4 and Figures 2 and 3, Trospium Chloride Extended-Releas
 
 Table 4: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence Episodes and Void Volume in Study 1
 
-| Efficacy Endpointtreatment differences assessed by rank ANOVA for intent-to-treat population, last observation carried forward (ITT:LOCF) data set | Week | Placebo | Trospium Chloride Extended-Release Capsules | P-Value |
+| Efficacy Endpointa | Week | Placebo | Trospium Chloride Extended-Release Capsules | P-Value |
 | --- | --- | --- | --- | --- |
 | Urinary frequency / 24 hours |  | (N=300) | (N=292) |  |
 | Mean Baseline | 0 | 12.7 (0.2) | 12.8 (0.2) |  |
@@ -31,6 +31,8 @@ Table 4: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence 
 | Mean Change from Baseline | 1 | 12.1 (2.1) | 21.6 (2.8) | 0.0036 |
 |  | 4 | 17.2 (2.5) | 30.0 (3.1) | 0.0007 |
 |  | 12 | 18.9 (2.8) | 29.8 (3.2) | 0.0039 |
+
+a treatment differences assessed by rank ANOVA for intent-to-treat population, last observation carried forward (ITT:LOCF) data set
 
 Figure 2: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 1
 
@@ -50,7 +52,7 @@ Table 5: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence 
 | --- | --- | --- | --- | --- |
 | Urinary frequency / 24 hours |  | (N=276) | (N=267) |  |
 | Mean Baseline | 0 | 12.9 (0.2) | 12.8 (0.2) |  |
-| Mean Change from Baseline | 1 | -1.2 (0.2) | -1.4 (0.2) | 0.0759 |
+| Mean Change from Baseline | 1 | -1.2 (0.1) | -1.4 (0.2) | 0.0759 |
 |  | 4 | -1.7 (0.2) | -2.3 (0.2) | 0.0047 |
 |  | 12 | -1.8 (0.2) | -2.5 (0.2) | 0.0009 |
 | Urge incontinence episodes / week |  | (N=276) | (N=267) |  |
@@ -63,6 +65,8 @@ Table 5: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence 
 | Mean Change from Baseline | 1 | 11.9 (2.5) | 24.1 (2.4) | <0.0001 |
 |  | 4 | 19.6 (3.1) | 29.3 (3.0) | 0.0020 |
 |  | 12 | 17.8 (3.3) | 31.5 (3.4) | 0.0014 |
+
+a treatment differences assessed by rank ANOVA for intent-to-treat population, last observation carried forward (ITT:LOCF) data set
 
 Figure 4: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 2
 

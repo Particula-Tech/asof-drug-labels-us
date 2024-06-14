@@ -18,7 +18,7 @@ The clinical relevance of these findings is not known [see CLINICAL PHARMACOLOGY
 
 ## 7.3 Metformin
 
-Co-administration of 500 mg metformin immediate-release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
+Co-administration of 500 mg metformin immediate-release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC(0-24) and by 34% for mean Cmax.
 The effect of a decrease in trospium exposure on the efficacy of Trospium Chloride Extended-Release Capsules is unknown.
 The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg Trospium Chloride Extended-Release Capsules once daily under fasted condition.
 The effect of metformin at higher doses on trospium PK is unknown [see CLINICAL PHARMACOLOGY (12.3)].
