@@ -6,17 +6,11 @@
   "labeler": "Medimetriks Pharmaceuticals, Inc.",
   "package_ndcs": [
     "43538-900-12",
-    "43538-900-99",
-    "43538-901-12"
+    "43538-900-99"
   ],
   "products": [
     {
       "form": "CREAM",
-      "generic": "fluocinolone acetonide",
-      "name": "Synalar"
-    },
-    {
-      "form": "KIT",
       "generic": "fluocinolone acetonide",
       "name": "Synalar"
     }
