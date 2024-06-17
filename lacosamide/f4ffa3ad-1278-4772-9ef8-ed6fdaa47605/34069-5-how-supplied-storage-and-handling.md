@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How supplied
+## 16.1 How Supplied
 
 Lacosamide Tablets, USP
 

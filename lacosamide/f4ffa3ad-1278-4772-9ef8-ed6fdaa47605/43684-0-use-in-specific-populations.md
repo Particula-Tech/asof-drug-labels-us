@@ -35,15 +35,16 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 
 In Vitro Data
 
-Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
+Lacosamide has been shown in vitroto interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
 Potential adverse effects on CNS development related to this activity cannot be ruled out.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-There are no data on the presence of lacosamide in human milk, the effects on the breastfed infant, or the effects on milk production.
-Studies in lactating rats have shown excretion of lacosamide and/or its metabolites in milk.
+Data from published literature indicate that lacosamide is present in human milk.
+There are reports of increased sleepiness in breastfed infants exposed to lacosamide (see Clinical Considerations).
+There is no information on the effects of lacosamide on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for lacosamide and any potential adverse effects on the breastfed infant from lacosamide or from the underlying maternal condition.
 
@@ -58,15 +59,21 @@ Use of lacosamide in this age group is supported by evidence from adequate and w
 
 Safety and effectiveness in pediatric patients below 1 month of age have not been established.
 
+Primary Generalized Tonic-Clonic Seizures
+
+Safety and effectiveness of lacosamide as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1)and Clinical Studies (14.3)].
+
+Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
+
 Animal Data
 
-Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
+Lacosamide has been shown in vitroto interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
 Potential related adverse effects on CNS development cannot be ruled out.
 Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development (approximately equivalent to neonatal through adolescent development in humans) resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
 
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
@@ -77,10 +84,10 @@ In elderly patients, dose titration should be performed with caution, usually st
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is necessary in patients with mild to moderate renal impairment (CLCR ≥30 mL/min).
-In patients with severe renal impairment (CLCR <30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR <30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary in patients with mild to moderate renal impairment (CL CR≥30 mL/min).
+In patients with severe renal impairment (CL CR<30 mL/min as estimated by the Cockcroft-Gault equation for adults; CL CRless than 30 mL/min/1.73m 2as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 
-In all patients with renal impairment, dose titration should be performed with caution.
+In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 
 Lacosamide is effectively removed from plasma by hemodialysis.
 Dosage supplementation of up to 50% following hemodialysis should be considered.

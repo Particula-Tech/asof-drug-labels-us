@@ -10,6 +10,8 @@ PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
 60 Tablets Rx Only
 
+ScieGen Pharmaceuticals Inc.
+
 NDC 50228-193-60
 
 Lacosamide Tablets, USP CV
@@ -19,6 +21,8 @@ Lacosamide Tablets, USP CV
 PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
 60 Tablets Rx Only
+
+ScieGen Pharmaceuticals Inc.
 
 NDC 50228-194-60
 
@@ -30,6 +34,8 @@ PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
 60 Tablets Rx Only
 
+ScieGen Pharmaceuticals Inc.
+
 NDC 50228-195-60
 
 Lacosamide Tablets, USP CV
@@ -39,3 +45,5 @@ Lacosamide Tablets, USP CV
 PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
 60 Tablets Rx Only
+
+ScieGen Pharmaceuticals Inc.

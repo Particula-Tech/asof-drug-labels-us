@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
+The Medication Guide accompanies the product and can also be accessed on https://sciegenpharm.com/medication-guide/or by calling 1-855-724-3436
 
 Suicidal Thinking and Behavior
 
@@ -38,4 +39,4 @@ Advise breastfeeding women using lacosamide to monitor infants for excess sleepi
 
 Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
-Rev: 5/2023
+Rev: 11/2023

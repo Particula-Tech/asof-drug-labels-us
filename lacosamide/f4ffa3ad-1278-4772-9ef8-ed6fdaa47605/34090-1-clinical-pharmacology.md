@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanism by which lacosamide exerts its antiepileptic effects in humans remains to be fully elucidated.
-In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing.
+In vitroelectrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing.
 
 ## 12.2 Pharmacodynamics
 
@@ -24,18 +24,18 @@ The pharmacokinetics of lacosamide have been studied in healthy adult subjects (
 The pharmacokinetics of lacosamide are similar in healthy subjects, patients with partial-onset seizures, and patients with primary generalized tonic-clonic seizures.
 
 Lacosamide is completely absorbed after oral administration with negligible first-pass effect with a high absolute bioavailability of approximately 100%.
-The maximum lacosamide plasma concentrations occur approximately 1-to-4 hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
+The maximum lacosamide plasma concentrations occur approximately 1-to-4-hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
 Pharmacokinetics of lacosamide are dose proportional (100 mg to 800 mg) and time invariant, with low inter- and intra-subject variability.
-Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer T max (0.5 to 12 hours) and elimination half-life (15 to 23 hours).
+Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer T max(0.5 to 12 hours) and elimination half-life (15 to 23 hours).
 
 Absorption and Bioavailability Lacosamide is completely absorbed after oral administration.
 The oral bioavailability of lacosamide tablets is approximately 100%.
 Food does not affect the rate and extent of absorption.
 
-After intravenous administration, C max is reached at the end of infusion.
+After intravenous administration, C maxis reached at the end of infusion.
 The 30- and 60-minute intravenous infusions are bioequivalent to the oral tablet.
-For the 15-minute intravenous infusion, bioequivalence was met for AUC (0-tz) but not for C max. The point estimate of C max was 20% higher than C max for oral tablet and the 90% CI for C max exceeded the upper boundary of the bioequivalence range.
+For the 15-minute intravenous infusion, bioequivalence was met for AUC (0-tz)but not for C max. The point estimate of C maxwas 20% higher than C maxfor oral tablet and the 90% CI for C maxexceeded the upper boundary of the bioequivalence range.
 
 In a trial comparing the oral tablet with an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown.
 
@@ -56,13 +56,13 @@ The elimination half-life of the unchanged drug is approximately 13 hours and is
 
 There is no enantiomeric interconversion of lacosamide.
 
-Special Populations Renal Impairment Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
+specific Populations Renal Impairment Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
-The AUC of lacosamide was increased approximately 25% in mildly (CL CR 50 mL/min to 80 mL/min) and moderately (CL CR 30 mL/min to 50 mL/min) and 60% in severely (CL CR≤30mL/min) renally impaired patients compared to subjects with normal renal function (CL CR>80mL/ min), whereas C max was unaffected.
+The AUC of lacosamide was increased approximately 25% in mildly (CL CR50 mL/min to 80 mL/min) and moderately (CL CR30 mL/min to 50 mL/min) and 60% in severely (CL CR≤30mL/min) renally impaired patients compared to subjects with normal renal function (CL CR>80mL/ min), whereas C maxwas unaffected.
 Lacosamide is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, AUC of lacosamide is reduced by approximately 50% [see Dosage and Administration (2.4)].
 
-Hepatic impairment Lacosamide undergoes metabolism.
+Hepatic Impairment Lacosamide undergoes metabolism.
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% to 60% higher AUC compared to healthy subjects).
 The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.5)].
 
@@ -72,12 +72,12 @@ A weight based dosing regimen is necessary to achieve lacosamide exposures in pe
 For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t1/2) is 7.4 hours, 10.6 hours, and 14.8 hours, respectively.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
 
-The pharmacokinetics of lacosamide in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
+The pharmacokinetics of lacosamide in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures and as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures.
 
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-Geriatric Patients In the elderly (>65 years), dose and body-weight normalized AUC and C max is about 20% increased compared to young subjects (18 to 64 years).
+Geriatric Patients In the elderly (>65 years), dose and body-weight normalized AUC and C maxis about 20% increased compared to young subjects (18 to 64 years).
 This may be related to body weight and decreased renal function in elderly subjects.
 
 Gender Lacosamide clinical trials indicate that gender does not have a clinically relevant influence on the pharmacokinetics of lacosamide.
@@ -87,11 +87,11 @@ Race There are no clinically relevant differences in the pharmacokinetics of lac
 CYP2C19 Polymorphism There are no clinically relevant differences in the pharmacokinetics of lacosamide between CYP2C19 poor metabolizers and extensive metabolizers.
 Results from a trial in poor metabolizers (PM) (N=4) and extensive metabolizers (EM) (N=8) of cytochrome P450 (CYP) 2C19 showed that lacosamide plasma concentrations were similar in PMs and EMs, but plasma concentrations and the amount excreted into urine of the O-desmethyl metabolite were about 70% reduced in PMs compared to EMs.
 
-Drug Interactions In Vitro Assessment of Drug Interactions In vitro metabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
+Drug Interactions In Vitro Assessment of Drug Interactions In vitrometabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
 Lacosamide did not inhibit CYP 1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 3A4/5 at plasma concentrations observed in clinical studies.
 
-In vitro data suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
-However, an in vivo study with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
+In vitrodata suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
+However, an in vivostudy with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
 
 Lacosamide was not a substrate or inhibitor for P-glycoprotein.
 Lacosamide is a substrate of CYP3A4, CYP2C9, and CYP2C19.
@@ -113,10 +113,10 @@ In Vivo Assessment of Drug Interactions
     Metformin (500 mg three times a day) had no effect on the pharmacokinetics of lacosamide (400 mg/day).
   - Omeprazole Omeprazole is a CYP2C19 substrate and inhibitor.
     There was no effect of lacosamide (600 mg/day) on the pharmacokinetics of omeprazole (40 mg single dose) in healthy subjects.
-    The data indicated that lacosamide had little in vivo inhibitory or inducing effect on CYP2C19.
+    The data indicated that lacosamide had little in vivoinhibitory or inducing effect on CYP2C19.
     Omeprazole at a dose of 40 mg once daily had no effect on the pharmacokinetics of lacosamide (300 mg single dose).
     However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
   - Midazolam Midazolam is a 3A4 substrate.
     There was no effect of lacosamide (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
-  - Oral Contraceptives There was no influence of lacosamide (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol C max was observed.
+  - Oral Contraceptives There was no influence of lacosamide (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol C maxwas observed.
   - Warfarin Co-administration of lacosamide (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.

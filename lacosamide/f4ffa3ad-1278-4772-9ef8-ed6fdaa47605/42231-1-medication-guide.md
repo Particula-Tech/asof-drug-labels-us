@@ -65,11 +65,12 @@ Selling or giving away this medicine is against the law.
 
 What are Lacosamide Tablets?
 
-Lacosamide tablet is a prescription medicine used:
+Lacosamide tabletis a prescription medicine used:
 
 - to treat partial-onset seizures in people 4 years of age and older.
+- with other medicines to treat primary generalized tonic-clonic seizures in people 4 years of age and older.
 
-It is not known if lacosamide tablet is safe and effective for partial-onset seizures in children under 1 month of age.
+It is not known if lacosamide tablet is safe and effective for partial-onset seizures in children under 1 month of age or for primary generalized tonic-clonic seizures in children under 4 years of age.
 
 What should I tell my healthcare provider before taking lacosamide tablets?
 
@@ -81,7 +82,7 @@ Before you take lacosamide tablets, tell your healthcare provider about all of y
 - have liver problems.
 - have abused prescription medicines, street drugs or alcohol in the past.
 - are pregnant or plan to become pregnant.
-  It is not known if lacosamide can harm your unborn baby.
+  It is not known if lacosamide tablets can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking lacosamide tablets.
   You and your healthcare provider will decide if you should take lacosamide tablets while you are pregnant.
   - If you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -123,8 +124,7 @@ See “ What is the most important information I should know about lacosamide ta
 
 Lacosamide tablets may cause other serious side effects including:
 
-- A serious allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
-  Call your healthcare provider right away if you have:
+- A serious allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.Call your healthcare provider right away if you have:
   - a skin rash, hives
   - fever or swollen glands that do not go away
   - shortness of breath
@@ -164,24 +164,24 @@ This Medication Guide summarizes the most important information about lacosamide
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about lacosamide tablets that is written for health professionals.
 
-For more information, call 1-855-724-3436.
-
 What are the ingredients in lacosamide tablets, USP?
 
-Active ingredient: lacosamide, USP
+Active ingredient:lacosamide
 
-Tablet inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose and additional ingredients listed below:
+Tablet inactive ingredients:colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose and additional ingredients listed below:
 
-- 50 mg tablets: opadry pink 03F140000 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Red #40/allura Red AC aluminum lake, FD&C Blue #2/indigo carmine aluminum lake.
-- 100 mg tablets: opadry yellow 03F82606 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, iron oxide yellow, iron oxide red.
-- 150 mg tablets: opadry beige 03F130001 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Red #40/Allura Red AC aluminum lake, FD&C Blue #2/indigo carmine aluminum lake.
-- 200 mg tablets: opadry blue 03F105002 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Blue #2/indigo carmine aluminum lake.
+- 50 mg tablets:opadry pink 03F140000 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Red #40/allura Red AC aluminum lake, FD&C Blue #2/indigo carmine aluminum lake.
+- 100 mg tablets:opadry yellow 03F82606 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, iron oxide yellow, iron oxide red.
+- 150 mg tablets:opadry beige 03F130001 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Red #40/Allura Red AC aluminum lake, FD&C Blue #2/indigo carmine aluminum lake.
+- 200 mg tablets:opadry blue 03F105002 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Blue #2/indigo carmine aluminum lake.
 
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
+However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
-Rev: 5/2023
+For more information, call 1-855-724-3436 Dispense the Medication Guide available at: https://sciegenpharm.com/medication-guide/
+
+Rev: 11/2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
