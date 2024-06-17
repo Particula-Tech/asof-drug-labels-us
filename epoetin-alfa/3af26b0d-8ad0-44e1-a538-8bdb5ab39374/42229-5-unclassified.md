@@ -5,4 +5,4 @@ Manufactured by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US Li
 
 Distributed by Pfizer Labs, division of Pfizer Inc., New York, NY 10001 USA
 
-LAB-0826-8.0
+LAB-0826-9.0

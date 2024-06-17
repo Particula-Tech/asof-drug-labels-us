@@ -8,4 +8,4 @@ RETACRIT is contraindicated in patients with:
 
 RETACRIT from multiple-dose vials contains benzyl alcohol and is contraindicated in:
 
-- •Neonates, infants, pregnant women, and lactating women [see Warnings and Precautions (5.9), Use in Specific Populations (8.1,8.2, and 8.4)]
+- •Neonates, infants, pregnant women, and lactating women [see Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.2, and 8.4)].

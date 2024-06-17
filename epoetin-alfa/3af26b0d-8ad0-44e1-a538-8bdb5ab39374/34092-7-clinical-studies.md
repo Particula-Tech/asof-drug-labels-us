@@ -67,9 +67,9 @@ Three randomized outcome trials (Normal Hematocrit Study [NHS], Correction of An
 Though these trials were designed to establish a cardiovascular or renal benefit of targeting higher hemoglobin levels, in all 3 studies, patients randomized to the higher hemoglobin target experienced worse cardiovascular outcomes and showed no reduction in progression to ESRD.
 In each trial, the potential benefit of ESA therapy was offset by worse cardiovascular safety outcomes resulting in an unfavorable benefit-risk profile [see Warnings and Precautions (5.1)].
 
-## 14.2 Zidovudine-treated Patients with HIV-Infection
+## 14.2 Zidovudine-treated Patients with HIV Infection
 
-The safety and efficacy of epoetin alfa were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV-infection receiving concomitant therapy with zidovudine.
+The safety and efficacy of epoetin alfa were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV infection receiving concomitant therapy with zidovudine.
 In the subgroup of patients (89/125 epoetin alfa and 88/130 placebo) with pre-study endogenous serum erythropoietin levels ≤ 500 mUnits/mL, epoetin alfa reduced the mean cumulative number of units of blood transfused per patient by approximately 40% as compared to the placebo group.
 Among those patients who required RBC transfusions at baseline, 43% of patients treated with epoetin alfa versus 18% of placebo-treated patients were RBC transfusion-independent during the second and third months of therapy.
 Epoetin alfa therapy also resulted in significant increases in hemoglobin in comparison to placebo.

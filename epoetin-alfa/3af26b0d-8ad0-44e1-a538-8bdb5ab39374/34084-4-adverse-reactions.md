@@ -62,19 +62,19 @@ Pediatric Patients
 
 In pediatric patients with CKD on dialysis, the pattern of adverse reactions was similar to that found in adults.
 
-Zidovudine-treated Patients with HIV-infection
+Zidovudine-treated Patients with HIV Infection
 
-A total of 297 zidovudine-treated patients with HIV-infection were studied in 4 placebo-controlled studies.
+A total of 297 zidovudine-treated patients with HIV infection were studied in 4 placebo-controlled studies.
 A total of 144 (48%) patients were randomly assigned to receive epoetin alfa and 153 (52%) patients were randomly assigned to receive placebo.
 Epoetin alfa was administered at doses between 100 and 200 Units/kg 3 times weekly subcutaneously for up to 12 weeks.
 
 For the combined epoetin alfa treatment groups, a total of 141 (98%) men and 3 (2%) women between the ages of 24 and 64 years were enrolled.
 The racial distribution of the combined epoetin alfa treatment groups was as follows: 129 (90%) white, 8 (6%) black, 1 (1%) Asian, and 6 (4%) other.
 
-In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated patients with HIV-infection, adverse reactions with an incidence of ≥ 1% in patients treated with epoetin alfa were:
+In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated patients with HIV infection, adverse reactions with an incidence of ≥ 1% in patients treated with epoetin alfa were:
 
 Table 5.
-Adverse Reactions in Zidovudine-treated Patients with HIV-infection
+Adverse Reactions in Zidovudine-treated Patients with HIV Infection
 
 | Adverse Reaction | Epoetin alfa (n = 144) | Placebo (n = 153) |
 | --- | --- | --- |
@@ -163,9 +163,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 ## 6.3 Immunogenicity
 
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies to other epoetin alfa products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of epoetin alfa or of other epoetin alfa products.
 
 Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.6)].
