@@ -25,7 +25,7 @@ In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider re
 
 ## 2.3 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate [GFR] less than 90 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 

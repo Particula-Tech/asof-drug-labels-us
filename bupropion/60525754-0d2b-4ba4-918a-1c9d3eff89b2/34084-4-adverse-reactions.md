@@ -75,7 +75,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Hostility | 5.6 | 3.8 |
 | Nonspecific |  |  |
 | Fever/chills | 1.2 | 0.5 |
-| Special Senses |  |  |
+| Special senses |  |  |
 | Auditory disturbance | 5.3 | 3.2 |
 | Blurred vision | 14.6 | 10.3 |
 | Gustatory disturbance | 3.1 | 1.1 |
@@ -120,7 +120,7 @@ Consequently, if weight loss is a major presenting sign of a patient’s depress
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of WELLBUTRIN and are not described elsewhere in the label.
+The following adverse reactions have been identified during postapproval use of WELLBUTRIN and are not described elsewhere in the label.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body (General)
@@ -130,7 +130,7 @@ These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
 Cardiovascular
 
-Hypertension (in some cases severe), orthostatic hypotension, third degree heart block.
+Hypertension (in some cases severe), orthostatic hypotension, third degree heart block, and Brugada pattern/syndrome.
 
 Endocrine
 
@@ -153,9 +153,9 @@ Nervous System
 
 Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, parkinsonism, restlessness, suicide attempt, unmasking of tardive dyskinesia.
 
-Skin and Appendages
+Skin and Subcutaneous Tissue Disorders
 
-Stevens‑Johnson syndrome, angioedema, exfoliative dermatitis, urticaria.
+Stevens‑Johnson syndrome, angioedema, exfoliative dermatitis, urticaria, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Special Senses
 

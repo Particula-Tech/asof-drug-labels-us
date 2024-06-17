@@ -71,8 +71,8 @@ Manufactured for:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2020 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-WLT:18PI
+WLT:20PI

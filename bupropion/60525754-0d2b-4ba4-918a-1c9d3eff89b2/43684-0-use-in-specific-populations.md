@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is an independent pregnancy exposure registry that monitors pregnancy outcomes in women exposed to any antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants/.
 
 Risk Summary
 
@@ -84,7 +84,7 @@ Because elderly patients are more likely to have decreased renal function, it ma
 
 ## 8.6 Renal Impairment
 
-Consider a reduced dose and/or dosing frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate: less than 90 mL/min).
+Consider a reduced dose and/or dosing frequency of WELLBUTRIN in patients with renal impairment (GFR: less than 90 mL/min).
 Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
 Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 

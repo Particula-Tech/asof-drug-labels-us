@@ -13,7 +13,6 @@ Multiple uncontrolled seizures, bradycardia, cardiac failure, and cardiac arrest
 ## 10.2 Overdosage Management
 
 Consult a Certified Poison Control Center for up-to-date guidance and advice.
-Telephone numbers for certified poison control centers are listed in the Physician’s Desk Reference (PDR).
 Call 1-800-222-1222 or refer to www.poison.org.
 
 There are no known antidotes for bupropion.
