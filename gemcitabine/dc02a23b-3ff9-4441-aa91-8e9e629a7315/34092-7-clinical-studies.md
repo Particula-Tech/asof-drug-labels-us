@@ -155,7 +155,7 @@ Table 21: Efficacy Results for Studies 3 and 4
 | Trial | 28-day Schedule (Study 3) |  | 21-day Schedule (Study 4) |  |
 | Survival |  |  |  |  |
 | Median (95% CICI=confidence intervals.) in months | 9.0 (8.2, 11.0) | 7.6 (6.6, 8.8) | 8.7 (7.8, 10.1) | 7.0 (6.0, 9.7) |
-| p-valuep-value two-sided Fisher's Exact test for difference in binomial proportions;log rank test for time-to-event analyses. | p=0.008 |  | p=0.18 |  |
+| p-valuep-value two-sided Fisher's Exact test for difference in binomial proportions; log rank test for time-to-event analyses. | p=0.008 |  | p=0.18 |  |
 | Time to Disease Progression |  |  |  |  |
 | Median (95% CI) in months | 5.2 (4.2, 5.7) | 3.7 (3.0, 4.3) | 5.0 (4.2, 6.4) | 4.1 (2.4, 4.5) |
 | p-value | p=0.009 |  | p=0.015 |  |

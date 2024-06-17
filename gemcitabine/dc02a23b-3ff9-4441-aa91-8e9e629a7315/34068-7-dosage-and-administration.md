@@ -26,7 +26,7 @@ Table 2: Recommended Dosage Modifications for Gemcitabine Injection for Myelosup
 
 | Occurrence | Myelosuppression During Treatment Cycle | Dosage Modification |
 | --- | --- | --- |
-| Initial Occurrence | •Absolute neutrophil count less than 500 × 106/L for more than 5 days or•Absolute neutrophil count less than 100 × 106/L for more than 3 days or•Febrile neutropenia or•Platelets less than 25,000 × 106/L•Cycle delay for more than one week due to toxicity | Permanently reduce Gemcitabine Injection to 800 mg/m2 on Days 1 and 8 |
+| Initial Occurrence | •Absolute neutrophil count less than 500 × 106/L for more than 5 days or•Absolute neutrophil count less than 100 × 106/L for more than 3 days or•Febrile neutropenia or•Platelets less than 25,000 × 106/L or•Cycle delay for more than one week due to toxicity | Permanently reduce Gemcitabine Injection to 800 mg/m2 on Days 1 and 8 |
 | Subsequent Occurrence | If any of the above toxicities occur after the initial dose reduction | Permanently reduce Gemcitabine Injection dose to 800 mg/m2 on Day 1 only |
 
 ## 2.2 Breast Cancer
@@ -98,11 +98,12 @@ Table 4: Recommended Dosage Modifications for Gemcitabine Injection for Myelosup
 
 Permanently discontinue Gemcitabine Injection for any of the following:
 
-- •Unexplained dyspnea or evidence of severe pulmonary toxicity [see Warnings and Precautions (5.3)]
-- •Hemolytic uremic syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)]
-- •Severe hepatic toxicity [see Warnings and Precautions (5.5)]
-- •Capillary leak syndrome (CLS) [see Warnings and Precautions (5.8)]
-- •Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)]
+- •Severe Cutaneous Adverse Reactions (SCARs) [see Warnings and Precautions (5.3)]
+- •Unexplained dyspnea or evidence of severe pulmonary toxicity [see Warnings and Precautions (5.4)]
+- •Hemolytic uremic syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.5)]
+- •Severe hepatic toxicity [see Warnings and Precautions (5.6)]
+- •Capillary leak syndrome (CLS) [see Warnings and Precautions (5.9)]
+- •Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.10)]
 
 Withhold Gemcitabine Injection or reduce dose by 50% for other Grade 3 or 4 non-hematological adverse reactions until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.
