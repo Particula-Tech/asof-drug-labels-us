@@ -6,7 +6,7 @@ Avoid application to the areas of skin around eyes, lips, and mucous membranes.
 A mild transitory sensation of warmth or slight stinging may occur shortly after the application of adapalene gel.
 Instruct patients to minimize sun exposure and to use moisturizers for relief of dry skin or irritation.
 
-If therapeutic results are not noticed after 12 weeks of treatment, therapy should be reevaluated.
+If therapeutic results are not noticed after 12 weeks of treatment, therapy should be re-evaluated.
 
 For topical use only.
 Not for ophthalmic, oral or intravaginal use.

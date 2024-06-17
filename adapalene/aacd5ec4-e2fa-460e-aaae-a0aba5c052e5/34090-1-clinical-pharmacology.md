@@ -25,6 +25,6 @@ In another clinical trial in subjects with moderate to moderately severe acne, a
 Seventy-eight (78) subjects had plasma adapalene levels evaluated at Weeks 2, 8, and 12.
 Of the 209 plasma samples analyzed, adapalene concentrations were below the limit of detection (LOD = 0.15 ng/mL) of the method in all samples but three.
 For the three samples, traces of adapalene below the limit of quantification (LOQ = 0.25 ng/mL) of the method were found.
-One of these samples was taken at Week 12 from a male patient treated with adapalene gel who treated the face and the trunk for eight weeks (thereafter, only the face was treated).
+One of these samples was taken at Week 12 from a male subject treated with adapalene gel who treated the face and the trunk for eight weeks (thereafter, only the face was treated).
 The second and third samples were from the Week 2 and 12 visits of a female subject treated with adapalene gel, 0.1% who treated only the face for 12 weeks.
 In this study, the average daily usage of product was 1 g/day.

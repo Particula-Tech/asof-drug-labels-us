@@ -12,7 +12,7 @@ Table 1: Physician assessed local cutaneous irritation with Adapalene Gel
 
 |  | Mild | Moderate | Severe |
 | --- | --- | --- | --- |
-| Incidence of Local Cutaneous Irritation with Adapalene Gel from Controlled Clinical Study (N = 253*) Maximum Severity Scores Higher Than Baseline |  |  |  |
+| Incidence of Local Cutaneous Irritation with Adapalene Gel (N =253*) Maximum Severity Scores Higher Than |  |  |  |
 | Erythema | 66 (26.1%) | 33 (13.0%) | 1 (0.4%) |
 | Scaling | 110 (43.5%) | 47 (18.6%) | 3 (1.2%) |
 | Dryness | 113 (44.7%) | 43 (17.0%) | 2 (0.8%) |
@@ -26,14 +26,13 @@ Table 2: Patient reported local cutaneous adverse reactions with Adapalene Gel
 | Related* Adverse Reactions | 57 (22.1%) | 6 (4.5%) |
 | Dry Skin | 36 (14%) | 2 (1.5%) |
 | Skin Discomfort | 15 (5.8%) | 0 (0.0%) |
-| Desquamation | 4 (1.6%) | 0 (0.0%) |
 | * Selected adverse reactions defined by investigator as Possibly, Probably or Definitely Related |  |  |
 
 The following adverse reactions occurred in less than 1% of subjects: acne flare, contact dermatitis, eyelid edema, conjunctivitis, erythema, pruritus, skin discoloration, rash, and eczema.
 
-In a one-year, open-label safety trial of 551 patients with acne who received adapalene gel the pattern of adverse reactions was similar to the 12-week controlled study.
+In a one-year, open-label safety trial of 551 subjects with acne who received adapalene gel the pattern of adverse reactions was similar to the 12-week controlled study.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post approval use of adapalene:
 

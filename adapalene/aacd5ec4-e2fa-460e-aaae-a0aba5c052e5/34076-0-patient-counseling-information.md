@@ -23,4 +23,4 @@ Patients using adapalene gel, should receive the following information and instr
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-B 10/2022
+C 5/2024
