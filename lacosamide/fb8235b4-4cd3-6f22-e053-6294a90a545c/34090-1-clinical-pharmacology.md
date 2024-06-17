@@ -31,8 +31,8 @@ Pharmacokinetics of lacosamide are dose proportional (100-800 mg).
 
 Effect of Food
 
-Compared to the fasted state, high-fat meal has no effect on the C max, T max and AUC of MOTPOLY XR.
-Hence, MOTPOLY XR can be taken with or without food
+Compared to the fasted state, high-fat meal has no effect on the C max, T maxand AUC of MOTPOLY XR.
+[see Dosage and Administration (2.5)].
 
 Distribution The volume of distribution is approximately 0.67 L/kg, which is close to the volume of total body water.
 Lacosamide is less than 15% bound to plasma proteins.
@@ -57,7 +57,7 @@ Renal Impairment
 
 Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
-The AUC of lacosamide was increased approximately 25% in mildly (CL CR 50-80 mL/min) and moderately (CL CR 30-50 mL/min) and 60% in severely (CL CR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CL CR>80 mL/min), whereas C max was unaffected.
+The AUC of lacosamide was increased approximately 25% in mildly (CL CR50-80 mL/min) and moderately (CL CR30-50 mL/min) and 60% in severely (CL CR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CL CR>80 mL/min), whereas C maxwas unaffected.
 Lacosamide is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, AUC of lacosamide is reduced by approximately 50% [see Dosage and Administration (2.3)].
 
@@ -72,11 +72,11 @@ Pediatric Patients
 The pediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 pediatric patients with partial-onset seizures that included patients weighing at least 50 kg.
 The recommended dosing regimen of MOTPOLY XR in pediatric patients weighing at least 50 kg is necessary to achieve lacosamide exposures similar to those observed in adults treated at effective doses of lacosamide [see Dosage and Administration (2.1)].
 
-The pharmacokinetics of lacosamide in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
+The pharmacokinetics of lacosamide in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures and as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures.
 
 Geriatric Patients
 
-In the elderly (>65 years), dose and body-weight normalized AUC and C max is about 20% increased compared to young subjects (18-64 years).
+In the elderly (>65 years), dose and body-weight normalized AUC and C maxis about 20% increased compared to young subjects (18-64 years).
 This may be related to body weight and decreased renal function in elderly subjects.
 
 Gender
@@ -95,11 +95,11 @@ Drug Interactions
 
 In Vitro Assessment of Drug Interactions
 
-In vitro metabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
+In vitrometabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
 Lacosamide did not inhibit CYP 1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 3A4/5 at plasma concentrations observed in clinical studies.
 
-In vitro data suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
-However, an in vivo study with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
+In vitrodata suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
+However, an in vivostudy with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
 
 Lacosamide was not a substrate or inhibitor for P-glycoprotein.
 
@@ -122,12 +122,12 @@ In Vivo Assessment of Drug Interactions
     Metformin (500 mg three times a day) had no effect on the pharmacokinetics of lacosamide (400 mg/day).
   - Omeprazole Omeprazole is a CYP2C19 substrate and inhibitor.
     There was no effect of lacosamide (600 mg/day) on the pharmacokinetics of omeprazole (40 mg single dose) in healthy subjects.
-    The data indicated that lacosamide had little in vivo inhibitory or inducing effect on CYP2C19.
+    The data indicated that lacosamide had little in vivoinhibitory or inducing effect on CYP2C19.
     Omeprazole at a dose of 40 mg once daily had no effect on the pharmacokinetics of lacosamide (300 mg single dose).
     However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
   - Midazolam Midazolam is a 3A4 substrate.
     There was no effect of lacosamide (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
-  - Oral Contraceptives There was no influence of lacosamide(400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol C max was observed.
+  - Oral Contraceptives There was no influence of lacosamide(400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol C maxwas observed.
   - Warfarin Co-administration of lacosamide (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.
 
 ## 12.5 Pharmacogenomics

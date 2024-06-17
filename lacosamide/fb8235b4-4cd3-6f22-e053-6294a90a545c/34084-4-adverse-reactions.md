@@ -77,9 +77,16 @@ Table 3: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Contr
 The overall adverse reaction rate was similar in male and female patients.
 Although there were few non-Caucasian patients, no differences in the incidences of adverse reactions compared to Caucasian patients were observed.
 
-MOTPOLY XR Capsule in Pediatric Patients Safety of lacosamide was evaluated in clinical studies of pediatric patients for the treatment of partial-onset seizures.
+Lacosamide in Pediatric Patients Safety of lacosamide was evaluated in clinical studies of pediatric patients for the treatment of partial-onset seizures.
 Across studies in pediatric patients with partial-onset seizures, 328 patients received lacosamide, of whom 148 received lacosamide for at least 1 year.
 Adverse reactions reported in clinical studies of pediatric patients were similar to those seen in adult patients.
+
+Primary Generalized Tonic-Clonic Seizures in Patients Adjunctive Therapy Trial (Study 5)
+
+In the adjunctive therapy placebo-controlled trial for primary generalized tonic-clonic seizures, adverse reactions that occurred in the study were generally similar to those that occurred in partial-onset seizure placebo-controlled studies.
+The most common adverse reactions (≥ 10% on lacosamide) reported in patients treated with lacosamide were dizziness (23%), somnolence (17%), headache (14%), and nausea (10%), compared to 7%, 14%, 10%, and 6%, respectively, of patients who received placebo.
+Additionally, an adverse reaction not previously reported of myoclonic epilepsy was reported in 3% of patients treated with lacosamide compared to 1% of patients who received placebo.
+It is also noted that 2 patients receiving lacosamide had acute worsening of seizures shortly after drug initiation, including one episode of status epilepticus, compared to no patients receiving placebo.
 
 Laboratory Abnormalities
 

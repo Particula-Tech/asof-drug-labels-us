@@ -49,3 +49,21 @@ Thus, in a display of this type, a curve for an effective treatment is shifted t
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the lacosamide groups, compared to the placebo group.
 For example, 40% of patients randomized to lacosamide (400 mg/day) experienced a 50% or greater reduction in seizure frequency, compared to 23% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
+
+## 14.3 Adjunctive Therapy in Patients with Primary Generalized Tonic-Clonic Seizures
+
+The efficacy of immediate-release lacosamide as adjunctive therapy in patients weighing 50 kg or more with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5).
+The study consisted of a 12-week historical baseline period, a 4-week prospective baseline period, and a 24-week treatment period (which included a 6-week titration period and an 18-week maintenance period).
+Eligible patients on a stable dose of 1 to 3 antiepileptic drugs experiencing at least 3 documented PGTC seizures during the 16-week combined baseline period were randomized 1:1 to receive lacosamide or placebo.
+Patients were dosed on a fixed-dose regimen.
+Dosing was initiated at a dose of 100 mg/day in patients weighing 50 kg or more in 2 divided doses.
+During the titration period, lacosamide doses were adjusted in 100 mg/day increments at weekly intervals to achieve the target maintenance period dose of 400 mg/day in patients weighing 50 kg or more, which was one of three weight-based dosing arms.
+The primary efficacy endpoint was the time to second PGTC seizure during the 24-week treatment period (Figure 3).
+The risk of developing a second PGTC seizure was statistically significantly lower in the lacosamide group than in the placebo group during the 24-week treatment period (hazard ratio=0.548, 95% CI of hazard ratio: 0.381, 0.788, p-value = 0.001), with the corresponding risk reduction being 45.2%.
+
+The key secondary efficacy endpoint was the percentage of patients not experiencing a PGTC seizure during the 24-week treatment period.
+The adjusted Kaplan-Meier estimates of 24-week freedom from PGTC seizures were 31.3% in lacosamide group and 17.2% in placebo group.
+The adjusted difference between treatment groups was 14.1% (95% CI: 3.2, 25.1, p-value=0.011).
+
+Additional pediatric use information is approved for UCB Inc.'s Vimpat (lacosamide) tablets, oral solution, and intravenous solution.
+However, due to UCB Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

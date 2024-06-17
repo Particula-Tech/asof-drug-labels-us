@@ -36,7 +36,7 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 
 In Vitro Data
 
-Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
+Lacosamide has been shown in vitroto interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
 Potential adverse effects on CNS development related to this activity cannot be ruled out.
 
 ## 8.2 Lactation
@@ -53,10 +53,24 @@ Clinical Considerations Monitor infants exposed to lacosamide through breastmilk
 
 ## 8.4 Pediatric Use
 
+Partial-Onset Seizures
+
 The safety and effectiveness of MOTPOLY XR for the treatment of partial-onset seizures have been established in pediatric patients weighing at least 50 kg.
 Use of MOTPOLY XR in this pediatric group is supported by evidence from adequate and well-controlled studies of lacosamide in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 328 pediatric patients [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)and Clinical Studies (14.1, 14.2)].
 
 Safety and effectiveness of MOTPOLY XR in pediatric patients weighing less than 50 kg have not been established.
+
+Primary Generalized Tonic-Clonic Seizures Safety and effectiveness of MOTPOLY XR as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy weighing at least 50 kg was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.1, 14.3)].
+
+Safety and effectiveness in pediatric patients weighing less than 50 kg have not been established.
+
+Additional pediatric use information is approved for UCB Inc.'s Vimpat (lacosamide) tablets, oral solution, and intravenous solution.
+However, due to UCB Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Animal Data Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
+Potential related adverse effects on CNS development cannot be ruled out.
+Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development (approximately equivalent to neonatal through adolescent development in humans) resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
+The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
 
 ## 8.5 Geriatric Use
 
@@ -67,8 +81,8 @@ In elderly patients, dose titration should be performed with caution, usually st
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is necessary in patients with mild to moderate renal impairment (CL CR ≥30 mL/min).
-In patients with severe renal impairment [creatinine clearance (CL CR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CL CR less than 30 mL/min/1.73m 2 as estimated by the Schwartz equation for pediatric patients] and in those with end-stage renal disease, the maximum recommended dosage is 300 mg once daily [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary in patients with mild to moderate renal impairment (CL CR≥30 mL/min).
+In patients with severe renal impairment [creatinine clearance (CL CR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CL CR less than 30 mL/min/1.73m 2as estimated by the Schwartz equation for pediatric patients] and in those with end-stage renal disease, the maximum recommended dosage is 300 mg once daily [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
 
 In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 
