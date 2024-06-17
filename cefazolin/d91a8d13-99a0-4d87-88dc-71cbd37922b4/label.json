@@ -5,6 +5,7 @@
   "inn": "cefazolin",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
+    "0338-0096-06",
     "0338-3503-41",
     "0338-3508-41"
   ],

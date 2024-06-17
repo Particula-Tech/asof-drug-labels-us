@@ -40,9 +40,9 @@ Cefazolin in Dextrose Injection is indicated for the treatment of endocarditis d
 
 ## 1.9 Perioperative Prophylaxis
 
-Cefazolin in Dextrose Injection is indicated is indicated for perioperative prophylaxis in adults and pediatric patients aged 10 to 17 years old for whom appropriate dosing with this formulation can be achieved [see Dosage and Administration (2.1, 2.3, 2.4, 2.5) and Use in Specific Populations (8.4)].
+Cefazolin in Dextrose Injection is indicated for perioperative prophylaxis in adults and pediatric patients aged 10 to 17 years old for whom appropriate dosing with this formulation can be achieved [see Dosage and Administration (2.1, 2.3, 2.4, 2.5) and Use in Specific Populations (8.4)].
 
-The perioperative use of Cefazolin in Dextrose Injection is indicated in adult and pediatric patients (aged 10 to 17 years old) surgical patients in whom infection at the operative site would present a serious risk (e.g., during open-heart surgery and prosthetic arthroplasty).
+The perioperative use of Cefazolin in Dextrose Injection is indicated in adult and pediatric (aged 10 to 17 years old) surgical patients in whom infection at the operative site would present a serious risk (e.g., during open-heart surgery and prosthetic arthroplasty).
 
 The prophylactic administration of Cefazolin in Dextrose Injection preoperatively, intraoperatively, and postoperatively may reduce the incidence of certain postoperative infections in patients undergoing surgical procedures which are classified as contaminated or potentially contaminated (e.g., vaginal hysterectomy, and cholecystectomy in high-risk patients such as those older than 70 years, with acute cholecystitis, obstructive jaundice, or common duct bile stones).
 

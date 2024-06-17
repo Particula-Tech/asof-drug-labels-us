@@ -2,9 +2,9 @@
 
 The following serious adverse reactions to Cefazolin in Dextrose Injection are described below and elsewhere in the labeling:
 
-- •Hypersensitivity reactions [see Warnings and Precautions (5.1)]
+- •Hypersensitivity Reactions to Cefazolin, Cephalosporins, Penicillins, or Other Beta-lactams [see Warnings and Precautions (5.1)]
 - •Seizures in Patients with Renal Impairment [see Warnings and Precautions (5.2)]
-- •Clostridioides difficile-associated diarrhea [see Warnings and Precautions (5.3)]
+- •Clostridioides difficile-associated Diarrhea [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,16 +32,16 @@ Dizziness, fainting, lightheadedness, confusion, weakness, tiredness, hypotensio
 
 Adverse Reactions in Pediatric Patients for Perioperative Prophylaxis
 
-Two studies (Study 1: NCT 3231228 and Study 2: NCT 01904357) were conducted to assess the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of cefazolin for injection for perioperative prophylaxis in pediatric patients.
+Two studies (Study 1: NCT 3231228 and Study 2: NCT 01904357) were conducted to assess the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of cefazolin for injection and dextrose injection for perioperative prophylaxis in pediatric patients.
 
-Study 1 was a multicenter, open-label, non-comparative, parallel group study to evaluate the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of cefazolin for injection for perioperative prophylaxis in 61 pediatric patients 10 to 17 years of age.
-Thirty-three subjects with a weight of at least 25 kg but less than 60 kg received a single dose of 1 gram of cefazolin and 28 subjects with a weight of at least 60 kg received a single dose of 2 grams of cefazolin.
+Study 1 was a multicenter, open-label, non-comparative, parallel group study to evaluate the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of cefazolin for injection and dextrose injection for perioperative prophylaxis in 61 pediatric patients 10 to 17 years of age.
+Thirty-three subjects with a weight of at least 25 kg but less than 60 kg received a single dose of 1 gram of cefazolin for injection and dextrose injection and 28 subjects with a weight of at least 60 kg received a single dose of 2 grams of cefazolin for injection and dextrose injection.
 The mean age of the safety population was 14 years and ranged from 10 to 17 years.
 There were no adverse reactions leading to study discontinuation or deaths reported during the study.
 The most frequently reported adverse reactions were nausea (14.8%), infusion site pain (6.6%), and headache (4.9%).
 
-Study 2 was a multicenter, non-comparative study that evaluated the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of cefazolin for injection for perioperative prophylaxis in 12 pediatric patients 10 to 12 years of age.
-Subjects weighing at least 25 kg to less than 50 kg received a single dose of 1 gram of cefazolin for injection and subjects weighing at least 50 kg to less than 85 kg received a single dose of 2 grams of cefazolin for injection.
+Study 2 was a multicenter, non-comparative study that evaluated the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of cefazolin for injection and dextrose injection for perioperative prophylaxis in 12 pediatric patients 10 to 12 years of age.
+Subjects weighing at least 25 kg to less than 50 kg received a single dose of 1 gram of cefazolin for injection and dextrose injection and subjects weighing at least 50 kg to less than 85 kg received a single dose of 2 grams of cefazolin for injection and dextrose injection.
 The safety findings in Study 2 in pediatric patients aged 10 to 12 years old were similar to those observed in adult patients and the pediatric patients aged 10 to 17 years old in Study 1.
 
 ## 6.2 Postmarketing Experience

@@ -91,7 +91,7 @@ PL2040 Plastic
 
 07-34-00-1643
 
-* BAR CODE POSITION ONLY
+BAR CODE POSITION ONLY
 
 303383508416
 
@@ -125,3 +125,72 @@ Cautions: Do not add supplementary medications or additives.
 Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International, Inc. Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Cefazolin in Dextrose Injection, USP 3 g / 150 mL (20 mg / mL)
+
+3 g
+
+GALAXY Single Dose Container Discard unused portion
+
+NDC 0338-0096-06 Code 2G3509 Sterile Nonpyrogenic Iso-osmotic
+
+Each 150 mL contains: 3 g Cefazolin, USP, equivalent to 3.15 g Cefazolin Sodium, USP with approx. 6 g Dextrose Hydrous, USP added to adjust osmolality, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide or hydrochloric acid.
+
+Dosage: For Intravenous Infusion Only.
+See prescribing information.
+
+Caution: Do not add supplementary medication or additives.
+
+Rx only
+
+Store at or below -20°C (-4°F).
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36°F to 46°F).
+DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
+Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
+Do not refreeze.
+
+Baxter Logo
+
+Manufactured by Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+
+PL2040 Plastic
+
+07-34-00-1721
+
+BAR CODE POSITION ONLY UPC-A
+
+303380096060
+
+Thaw at room temperature 20°C to 25°C (68°F to 77°F) or under refrigeration 2°C to 8°C (36 °F to 41°F).
+DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
+Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
+Do not refreeze.
+Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
+PL 2040 Plastic
+
+07-04-00-0843
+
+Cefazolin in Dextrose Injection, USP 3 g / 150 mL (20 mg / mL)
+
+3 g
+
+Rx Only
+
+Contains 3 units of Single-Dose bags.
+Each bag contains 150 mL.
+Store at or below -20°C (-4°F).
+Do not refreeze.
+
+NDC 0338-0096-06 Code 2G3509
+
+*FOR BAR CODE POSITION ONLY (01) 20303380096064
+
+GALAXY Container Sterile Nonpyrogenic Each 150 mL contains: 3 g Cefazolin, USP, equivalent to 3.15 g Cefazolin Sodium, USP with approx. 6 g Dextrose Hydrous, USP added to adjust osmolality, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide or hydrochloric acid.
+Dosage: For Intravenous Infusion Only.
+See prescribing information Caution: Do not add supplementary medications or additives.
+
+Baxter Logo
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA

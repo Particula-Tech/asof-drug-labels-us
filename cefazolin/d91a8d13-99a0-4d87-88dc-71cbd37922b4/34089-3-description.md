@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Cefazolin in Dextrose Injection is a frozen, premixed, iso-osmotic, sterile, nonpyrogenic, single-dose solution containing either 1g Cefazolin, USP, equivalent to 1.05 g Cefazolin Sodium, USP per 50 mL or 2 g Cefazolin, USP, equivalent to 2.1 g Cefazolin Sodium, USP per 100 mL GALAXY container (PL 2040 Plastic).
+Cefazolin in Dextrose Injection is a frozen, premixed, iso-osmotic, sterile, nonpyrogenic, single-dose solution containing either 1 g Cefazolin, USP, equivalent to 1.05 g Cefazolin Sodium, USP per 50 mL, 2 g Cefazolin, USP, equivalent to 2.1 g Cefazolin Sodium, USP per 100 mL or 3 g Cefazolin, USP, equivalent to 3.15 g Cefazolin Sodium, USP per 150 mL Galaxy container (PL 2040 Plastic).
 Dextrose, USP has been added to adjust osmolality (4 % as dextrose hydrous).
 The approximate osmolality for Cefazolin in Dextrose Injection is 290 mOsmol/kg.
 
@@ -16,6 +16,6 @@ Water for injection, USP is added as drug vehicle.
 Contains no preservative.
 The solution is intended for intravenous use after thawing to room temperature.
 
-This GALAXY container (PL 2040 Plastic) is fabricated from a specially designed multilayer plastic (PL 2040).
+This Galaxy container (PL 2040 Plastic) is fabricated from a specially designed multilayer plastic (PL 2040).
 Solutions are in contact with the polyethylene layer of this container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.
 However, the suitability of the plastic has been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies.

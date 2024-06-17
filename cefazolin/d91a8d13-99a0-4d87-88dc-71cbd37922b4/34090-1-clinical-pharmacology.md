@@ -10,23 +10,33 @@ The pharmacokinetic/pharmacodynamic relationship for cefazolin has not been eval
 
 ## 12.3 Pharmacokinetics
 
-Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose.
+Studies have shown that following intravenous administration of cefazolin to normal subjects, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose.
 
 The serum half-life for cefazolin is approximately 1.8 hours following IV administration.
 
 In a study of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg), cefazolin serum concentrations at the third hour of approximately 28 mcg/mL.
 
-Plasma pharmacokinetic parameters of cefazolin in healthy volunteers (N=12) following a single 15- minute IV infusion of 2 grams of Cefazolin in Dextrose Injection are summarized in Table 7.
+Plasma pharmacokinetic parameters of cefazolin in healthy adult subjects (N=12) following a single 15- minute IV infusion of 2 grams of cefazolin for injection and dextrose injection are summarized in Table 7.
 
-Table 7: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers
+Table 7: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Adult Subjects
 
-|  | N | Cmax(mcg/mL) | TmaxTmax reported as median (range)(h) | AUC0-inf(mcg*h/mL) | T1/2(h) | CL(L/h) | Vz(L) |
+|  | N | Cmax (mcg/mL) | TmaxTmax reported as median (range) (h) | AUC0-inf (mcg*h/mL) | T1/2 (h) | CL (L/h) | Vz (L) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Single 2 grams Dose as a 15- Minute IV Infusion | 12 | 280.9(45.9) | 0.25(0.25-0.33) | 509.9(89.3) | 2.01(0.28) | 4.03(0.68) | 11.50(1.53) |
+| Single 2 grams Dose as a 15- Minute IV Infusion | 12 | 280.9 (45.9) | 0.25 (0.25-0.33) | 509.9 (89.3) | 2.01 (0.28) | 4.03 (0.68) | 11.50 (1.53) |
 
 N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution
 
-Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in healthy volunteers.
+Plasma pharmacokinetic parameters of cefazolin in healthy adult subjects with a weight of greater than or equal to 120 kg (N=12) following a single 30-minute IV infusion of 3 grams of Cefazolin in Dextrose Injection are summarized in Table 8.
+
+Table 8: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Adult Subjects ≥ 120 kg
+
+|  | N | Cmax (mcg/mL) | TmaxTmax reported as median (range) (h) | AUC0-inf (mcg*h/mL) | T1/2 (h) | CL (L/h) | Vz (L) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Single 3 grams Dose as a 30-Minute IV Infusion | 12 | 223 (26.0) | 0.55 (0.54-1.26) | 585 (76.5) | 2.29 (0.28) | 5.20 (0.67) | 17.0 (1.54) |
+
+N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution
+
+Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in healthy subjects.
 
 Bile concentrations in patients without obstructive biliary disease can reach or exceed serum concentrations by up to five times; however, in patients with obstructive biliary disease, bile concentrations of cefazolin are considerably lower than serum concentrations (less than 1.0 mcg/mL).
 
@@ -42,7 +52,7 @@ Specific Populations
 
 Pediatric Patients for Perioperative Prophylaxis
 
-A simulation based on pharmacokinetic data from healthy adults (n=24), pediatric patients aged 10 to 17 years (n=26: Study 1 [see Adverse Reactions (6.1)]), and pediatric patients aged 10 to 12 years (n=12: Study 2 [see Adverse Reactions (6.1)] indicate that the administration of a 1 gram cefazolin dose for pediatric patients weighing less than 50 kg and a 2 grams cefazolin dose for those weighing 50 kg or greater will provide comparable exposures between pediatric patients aged 10 to 17 years and healthy adults receiving 2 grams Cefazolin in Dextrose Injection [see Dosage and Administration (2.2 and 2.3) and Use in Specific Populations (8.4)].
+A simulation based on pharmacokinetic data from healthy adults (n=24), pediatric patients aged 10 to 17 years (n=26: Study 1 [see Adverse Reactions (6.1)]), and pediatric patients aged 10 to 12 years (n=12: Study 2 [see Adverse Reactions (6.1)] indicate that the administration of a 1 gram dose of cefazolin for injection and dextrose injection for pediatric patients weighing less than 50 kg and a 2 grams dose of cefazolin for injection and dextrose injection for those weighing 50 kg or greater will provide comparable exposures between pediatric patients aged 10 to 17 years and healthy adults receiving 2 grams Cefazolin in Dextrose Injection [see Dosage and Administration (2.2 and 2.3) and Use in Specific Populations (8.4)].
 
 ## 12.4 Microbiology
 

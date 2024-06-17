@@ -51,7 +51,7 @@ Should superinfection occur during therapy, appropriate measures should be taken
 
 Urinary Glucose
 
-The administration of cefazolin may result in a false-positive reaction with glucose in the urine when using glucose tests based on Benedict’s copper reduction reaction that determine the amount of reducing substances like glucose in the urine.
+The administration of Cefazolin in Dextrose Injection may result in a false-positive reaction with glucose in the urine when using glucose tests based on Benedict’s copper reduction reaction that determine the amount of reducing substances like glucose in the urine.
 It is recommended that glucose tests based on enzymatic glucose oxidase be used.
 
 Coombs’ Test

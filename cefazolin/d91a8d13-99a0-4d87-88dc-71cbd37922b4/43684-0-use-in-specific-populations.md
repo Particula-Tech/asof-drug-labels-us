@@ -39,14 +39,12 @@ Dosing for cefazolin in pediatric patients younger than one month old has not be
 
 Because of the limitations of the available strengths and administration requirements (i.e., administration of fractional doses is not recommended) of Cefazolin in Dextrose Injection, and to avoid unintentional overdose, this product is not recommended for use if a dose of Cefazolin in Dextrose Injection that does not equal 1 gram or 2 grams is required and an alternative formulation of cefazolin should be considered [see Dosage and Administration (2.2, 2,3, 2.4 and 2.5)].
 
-The safety and effectiveness of Cefazolin in Dextrose Injection for perioperative prophylaxis have not been established in pediatric patients younger than 10 years old.
-
-The safety and effectiveness of Cefazolin in Dextrose Injection for perioperative prophylaxis have been established in pediatric patients aged 10 to 17 years old.
-Use of Cefazolin in Dextrose Injection in these age groups is supported by evidence from adults with additional safety and pharmacokinetic data in pediatric patients aged 10 to 17 years old.
+The safety and effectiveness of cefazolin for injection and dextrose injection for perioperative prophylaxis have been established in pediatric patients aged 10 to 17 years old.
+Use of cefazolin for injection and dextrose injection in these age groups is supported by evidence from adults with additional safety and pharmacokinetic data in pediatric patients aged 10 to 17 years old.
 Safety and pharmacokinetics were evaluated in two multicenter, non-comparative studies (Study 1 and Study 2).
-These studies were conducted to assess the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of Cefazolin in Dextrose Injection for perioperative prophylaxis in pediatric patients.
-Study 1 evaluated the safety and pharmacokinetics of 1 g of cefazolin for injection in pediatric patients aged 10 to 17 years old scheduled for surgery with a weight of at least 25 kg but less than 60 kg and, 2 g in pediatric patients with a weight of at least 60 kg.
-Study 2 evaluated 1 g of cefazolin for injection in pediatric patients aged 10 to 12 years old scheduled for surgery with a weight of at least 25 kg but less than 50 kg and, 2 g in pediatric patients with a weight of at least 50 kg to less than 85 kg [see Dosage and Administration (2.3), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+These studies were conducted to assess the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of cefazolin for injection and dextrose injection for perioperative prophylaxis in pediatric patients.
+Study 1 evaluated the safety and pharmacokinetics of 1 g of cefazolin for injection and dextrose injection in pediatric patients aged 10 to 17 years old scheduled for surgery with a weight of at least 25 kg but less than 60 kg and 2 g in pediatric patients with a weight of at least 60 kg.
+Study 2 evaluated 1 g of another cefazolin injection product in pediatric patients aged 10 to 12 years old scheduled for surgery with a weight of at least 25 kg but less than 50 kg and 2 g in pediatric patients with a weight of at least 50 kg to less than 85 kg [see Dosage and Administration (2.3), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 The safety and effectiveness of Cefazolin in Dextrose Injection for perioperative prophylaxis have not been established in pediatric patients younger than 10 years old.
 
