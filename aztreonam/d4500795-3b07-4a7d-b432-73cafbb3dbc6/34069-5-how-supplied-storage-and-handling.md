@@ -9,5 +9,5 @@ Aztreonam for Injection, USP single-dose vials are supplied as follows:
 
 ## Storage
 
-Store original package at 20°C to 25°C (68°F to 77°F).
+Store in original package at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature]; avoid excessive heat.

@@ -25,7 +25,7 @@ Doses smaller than those indicated should not be used.
 ## Renal Impairment in Adult Patients
 
 Prolonged serum levels of aztreonam may occur in patients with transient or persistent renal insufficiency.
-Therefore, the dosage of aztreonam for injection should be halved in patients with estimated creatinine clearances between 10 and 30 mL/min/1.73 m2 after an initial loading dose of 1 or 2 g.
+Therefore, the dosage of aztreonam for injection should be halved in patients with estimated creatinine clearances between 10 and 30 mL/min/1.73 m2 after an initial loading dose of 1 g or 2 g.
 
 When only the serum creatinine concentration is available, the following formula (based on sex, weight, and age of the patient) may be used to approximate the creatinine clearance (Clcr).
 The serum creatinine should represent a steady-state of renal function.
