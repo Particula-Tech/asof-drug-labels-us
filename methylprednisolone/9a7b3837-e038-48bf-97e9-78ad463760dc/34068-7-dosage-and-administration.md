@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION
 
 Because of possible physical incompatibilities, DEPO-MEDROL Sterile Aqueous Suspension should not be diluted or mixed with other solutions.
 

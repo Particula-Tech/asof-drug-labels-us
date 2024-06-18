@@ -31,7 +31,7 @@ For the treatment of dermatomyositis, polymyositis, and systemic lupus erythemat
 
 ## B. For Intra-articular Or Soft Tissue Administration
 
-(See WARNINGS)
+(see WARNINGS)
 
 DEPO-MEDROL is indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis of osteoarthritis.
 
