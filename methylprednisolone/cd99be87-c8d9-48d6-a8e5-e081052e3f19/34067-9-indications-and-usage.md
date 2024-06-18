@@ -25,4 +25,4 @@ Renal diseases: To induce diuresis or remission of proteinuria in idiopathic nep
 Respiratory diseases: Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
 
 Rheumatic disorders: As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis; acute rheumatic carditis; ankylosing spondylitis; psoriatic arthritis; rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy).
-For the treatment of dermatomyositis, temporal arteritis, polymyositis, and systemic lupus erythematosus
+For the treatment of dermatomyositis, temporal arteritis, polymyositis, and systemic lupus erythematosus.

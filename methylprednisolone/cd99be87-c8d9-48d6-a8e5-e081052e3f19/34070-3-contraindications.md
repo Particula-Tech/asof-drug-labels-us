@@ -12,5 +12,4 @@ Intramuscular corticosteroid preparations are contraindicated for idiopathic thr
 
 Additional contraindication for the use of SOLU-MEDROL Sterile Powder preserved with benzyl alcohol:
 
-Formulations preserved with benzyl alcohol are contraindicated for use in premature infants.
-(See WARNINGS and PRECAUTIONS, Pediatric Use.)
+Formulations preserved with benzyl alcohol are contraindicated for use in premature infants (see WARNINGS and PRECAUTIONS, Pediatric Use).
