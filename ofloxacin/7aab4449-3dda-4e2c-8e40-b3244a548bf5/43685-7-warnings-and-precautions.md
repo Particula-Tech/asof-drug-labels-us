@@ -56,7 +56,6 @@ Ofloxacin has not been shown to be teratogenic at doses as high as 810 mg/kg/day
 ## Nonteratogenic Effects
 
 Additional studies in rats with doses up to 360 mg/kg/day during late gestation showed no adverse effect on late fetal development, labor, delivery, lactation, neonatal viability, or growth of the newborn.
-
 There are, however, no adequate and well-controlled studies in pregnant women.
 OCUFLOX® solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

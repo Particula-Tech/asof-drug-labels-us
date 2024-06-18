@@ -8,12 +8,12 @@ Note: Store at 15°-25°C (59°-77°F)
 
 Rx only
 
-Revised: 04/2017
+Revised: 06/2024
 
-© 2017 Allergan.
+Distributed by: AbbVie, Inc. North Chicago, IL 60064
+
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
+Ocuflox and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-Irvine, CA 92612 Made in the U.S.A.
-
-71589US13
+20085528

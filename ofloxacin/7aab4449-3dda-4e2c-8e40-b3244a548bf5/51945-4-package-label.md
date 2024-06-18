@@ -1,3 +1,3 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 11980-779-05 Ocuflox® (ofloxacin Ophthalmic Solution) 0.3% 5 mL RX Sterile ®ALLERGAN
+NDC 11980-779-05 5 mL Ocuflox® (ofloxacin ophthalmic solution) 0.3% Rx only Sterile ®ALLERGAN
