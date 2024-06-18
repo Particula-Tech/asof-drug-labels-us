@@ -61,22 +61,22 @@ If patients are taking or have recently completed treatment with drugs listed in
 Table 1.
 Colchicine Tablets Dose Adjustment for Coadministration with Interacting Drugs if No Alternative AvailableFor magnitude of effect on colchicine plasma concentrations [see Clinical Pharmacology (12.3)]
 
-| Strong CYP3A4 InhibitorsPatients with renal or hepatic impairment should not be given colchicine tablets in conjunction with strong CYP3A4 or P-gp inhibitors [see Contraindications (4)] |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Gout Flares |  |  |  |  |  |  |  |
-|  | Noted or Anticipated Outcome | Prophylaxis of Gout Flares |  |  |  | Treatment of Gout Flares |  | FMF |  |
-| Drug | Original Intended Dosage |  | Adjusted Dose |  | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |
-| AtazanavirClarithromycinDarunavir/RitonavirWhen used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see Contraindications (4)]IndinavirItraconazoleKetoconazoleLopinavir/RitonavirNefazodoneNelfinavirRitonavirSaquinavirTelithromycinTipranavir/Ritonavir | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with clarithromycin, a strong CYP3A4 inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other strong CYP3A4 inhibitors | 0.6 mg twice a day 0.6 mg once a day |  | 0.3 mg once a day0.3 mg once every other day |  | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg - 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Moderate CYP3A4 Inhibitors |  |  |  |  |  |  |  |  |  |
-|  |  | Gout Flares |  |  |  |  |  |  |  |
-|  | Note or Anticipated Outcome | Prophylaxis of Gout Flares |  |  | Treatment of Gout Flares |  |  | FMF |  |
-| Drug | Original Intended Dosage | Adjusted Dosage |  | Original Intended Dosage |  | Adjusted Dosage | Original Intended Dosage | Adjusted Dosage |  |
-| AmprenavirAprepitantDiltiazemErythromycinFluconazoleFosamprenavir(prodrug of Amprenavir)Grapefruit juiceVerapamil | Significant increase in colchicine plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | 0.6 mg twice a day0.6 mg once a day | 0.3 mg twice a day or 0.6 mg once a day0.3 mg once a day |  | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. |  | 1.2 mg (2 tablets) x 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg - 2.4 mg | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
-| P-gp Inhibitors |  |  |  |  |  |  |  |  |  |
-|  |  | Gout Flares |  |  |  |  |  |  |  |
-|  | Note or Anticipated Outcome | Prophylaxis of Gout Flares |  |  | Treatment of Gout Flares |  |  | FMF |  |
-| Drug | Original Intended Dosage | Adjusted Dosage |  | Original Intended Dosage |  | Adjusted Dosage | Original Intended Dosage | Adjusted Dosage |  |
-| CyclosporineRanolazine | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. |  | 0.6 mg (1 tablet) x 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg - 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| Strong CYP3A4 InhibitorsPatients with renal or hepatic impairment should not be given colchicine tablets in conjunction with strong CYP3A4 or P-gp inhibitors [see Contraindications (4)] |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Gout Flares |  |  |  |  |  |
+|  | Noted or Anticipated Outcome | Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | FMF |  |
+| Drug | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  |
+| AtazanavirClarithromycinDarunavir/RitonavirWhen used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see Contraindications (4)]IndinavirItraconazoleKetoconazoleLopinavir/RitonavirNefazodoneNelfinavirRitonavirSaquinavirTelithromycinTipranavir/Ritonavir | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with clarithromycin, a strong CYP3A4 inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other strong CYP3A4 inhibitors | 0.6 mg twice a day 0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg - 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| Moderate CYP3A4 Inhibitors |  |  |  |  |  |  |  |
+|  |  | Gout Flares |  |  |  |  |  |
+|  | Note or Anticipated Outcome | Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | FMF |  |
+| Drug | Original Intended Dosage | Adjusted Dosage | Original Intended Dosage | Adjusted Dosage | Original Intended Dosage | Adjusted Dosage |  |
+| AmprenavirAprepitantDiltiazemErythromycinFluconazoleFosamprenavir(prodrug of Amprenavir)Grapefruit juiceVerapamil | Significant increase in colchicine plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | 0.6 mg twice a day0.6 mg once a day | 0.3 mg twice a day or 0.6 mg once a day0.3 mg once a day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 1.2 mg (2 tablets) x 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg - 2.4 mg | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
+| P-gp Inhibitors |  |  |  |  |  |  |  |
+|  |  | Gout Flares |  |  |  |  |  |
+|  | Note or Anticipated Outcome | Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  | FMF |  |
+| Drug | Original Intended Dosage | Adjusted Dosage | Original Intended Dosage | Adjusted Dosage | Original Intended Dosage | Adjusted Dosage |  |
+| CyclosporineRanolazine | Significant increase in colchicine plasma levels; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) x 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg - 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 
 Table 2.
 Colchicine Tablets Dose Adjustment for Coadministration with Protease Inhibitors
