@@ -1,8 +1,7 @@
 # INDICATIONS AND USAGE
 
 1.
-Endocrine disorders.
-Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy mineralocorticoid supplementation is of particular importance).
+Endocrine disorders.Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy mineralocorticoid supplementation is of particular importance).
 
 Congenital adrenal hyperplasia
 
@@ -11,8 +10,7 @@ Nonsuppurative thyroiditis
 Hypercalcemia associated with cancer
 
 2.
-Rheumatic disorders.
-As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:
+Rheumatic disorders.As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:
 
 Psoriatic arthritis
 
@@ -33,8 +31,7 @@ Synovitis of osteoarthritis
 Epicondylitis
 
 3.
-Collagen diseases.
-During an exacerbation or as maintenance therapy in selected cases of:
+Collagen diseases.During an exacerbation or as maintenance therapy in selected cases of:
 
 Systemic lupus erythematosus
 
@@ -60,8 +57,7 @@ Severe psoriasis
 Severe seborrheic dermatitis
 
 5.
-Allergic states.
-Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment:
+Allergic states.Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment:
 
 Seasonal or perennial allergic rhinitis
 
@@ -76,8 +72,7 @@ Atopic dermatitis
 Drug hypersensitivity reactions
 
 6.
-Ophthalmic diseases.
-Severe acute and chronic allergic and inflammatory processes involving the eye and its adnexa such as:
+Ophthalmic diseases.Severe acute and chronic allergic and inflammatory processes involving the eye and its adnexa such as:
 
 Allergic conjunctivitis
 
@@ -126,28 +121,24 @@ Erythroblastopenia (RBC anemia)
 Congenital (erythroid) hypoplastic anemia
 
 9.
-Neoplastic diseases.
-For palliative management of:
+Neoplastic diseases.For palliative management of:
 
 Leukemias and lymphomas in adults
 
 Acute leukemia of childhood
 
 10.
-Edematous states.
-To induce a diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus.
+Edematous states.To induce a diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus.
 
 11.
-Gastrointestinal diseases.
-To tide the patient over a critical period of the disease in:
+Gastrointestinal diseases.To tide the patient over a critical period of the disease in:
 
 Ulcerative colitis
 
 Regional enteritis
 
 12.
-Nervous system.
-Acute exacerbations of multiple sclerosis
+Nervous system.Acute exacerbations of multiple sclerosis
 
 13.
 Miscellaneous

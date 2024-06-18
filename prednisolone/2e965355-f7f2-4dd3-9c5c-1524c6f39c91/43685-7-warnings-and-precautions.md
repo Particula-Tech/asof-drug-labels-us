@@ -1,19 +1,71 @@
 # WARNINGS
 
-Persons who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
-Chickenpox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
-In such children or adults who have not had these diseases, particular care should be taken to avoid exposure.
-How the dose, route and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
-If chickenpox develops, treatment with antiviral agents may be considered.
-
 In patients on corticosteroid therapy subjected to unusual stress increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated.
 
-Corticosteroids may mask some signs of infection, and new infections may appear during their use.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
+Immunosuppression and Increased Risk of Infection
+
+Corticosteroids, including prednisolone tablets, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
+
+- Reduce resistance to new infections
+- Exacerbate existing infections
+- Increase the risk of disseminated infections
+- Increase the risk of reactivation or exacerbation of latent infections
+- Mask some signs of infection
+
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
+
+Monitor for the development of infection and consider prednisolone tablets withdrawal or dosage reduction as needed.
+
+Do not administer prednisolone tablets by an intraarticular, intrabursal, intratendinous, or intralesional route in the presence of acute local infection.
+
+Tuberculosis
+
+If prednisolone tablets is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
+Closely monitor such patients for reactivation.
+During prolonged prednisolone tablets therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+
+Varicella Zoster and Measles Viral Infections
+
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including prednisolone tablets.
+In corticosteroid-treated patients who have not had these diseases or are nonimmune, particular care should be taken to avoid exposure to varicella and measles:
+
+- If a prednisolone tablets-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- If a prednisolone tablets-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
+
+Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including prednisolone tablets.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with prednisolone tablets.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+Fungal Infections
+
+Corticosteroids, including prednisolone tablets, may exacerbate systemic fungal infections; therefore, avoid prednisolone tablets use in the presence of such infections unless prednisolone tablets are needed to control drug reactions.
+For patients on chronic prednisolone tablets therapy who develop systemic fungal infections, prednisolone tablets withdrawal or dosage reduction is recommended.
+
+Amebiasis
+
+Corticosteroids, including prednisolone tablets, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating prednisolone tablets in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+Strongyloides Infestation
+
+Corticosteroids, including prednisolone tablets, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+
+Cerebral Malaria
+
+Avoid corticosteroids, including prednisolone tablets, in patients with cerebral malaria.
+
+Kaposi’s Sarcoma
+
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
 
 Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
 
@@ -29,11 +81,6 @@ All corticosteroids increase calcium excretion.
 
 While on corticosteroid therapy patients should not be vaccinated against smallpox.
 Other immunization procedures should not be undertaken in patients who are on corticosteroids, especially on high dose, because of possible hazards of neurological complications and a lack of antibody response.
-
-The use of prednisolone in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
-
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
 # PRECAUTIONS
 
@@ -63,6 +110,6 @@ Growth and development of infants and children on prolonged corticosteroid thera
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis they do not show that they affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-(See DOSAGE AND ADMINISTRATION section.)
+(See DOSAGE AND ADMINISTRATIONsection.)
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.

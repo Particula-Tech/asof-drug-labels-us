@@ -7,6 +7,7 @@ Fluid retention.
 Congestive heart failure in susceptible patients.
 Potassium loss.
 Hypokalemic alkalosis.
+
 Hypertension.
 
 ## Musculoskeletal
