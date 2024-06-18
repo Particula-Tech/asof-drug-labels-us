@@ -79,7 +79,7 @@ Care should be taken to avoid injection of sufficient material to cause blanchin
 One to four injections are usually employed, the intervals between injections varying with the type of lesion being treated and the duration of improvement produced by the initial injection.
 
 When multidose vials are used, special care to prevent contamination of the contents is essential.
-(See WARNINGS.)
+(see WARNINGS).
 
 ## B. Administration for Systemic Effect
 
