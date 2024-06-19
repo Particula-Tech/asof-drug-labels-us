@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018248"
+  ],
+  "inn": "oxytocin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "65219-021-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "oxytocin",
+      "name": "Oxytocin"
+    }
+  ],
+  "setid": "4c4c4b69-8bf7-472c-aafe-29805ba5c965",
+  "source": "dailymed"
+}
