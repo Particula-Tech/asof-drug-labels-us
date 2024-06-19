@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Nyamyc® (Nystatin Topical Powder, USP) 100,000 units nystatin per gram is available as follow:
+Nyamyc® (Nystatin Topical Powder, USP)100,000 units nystatin per gram is available as follow:
 
 | Bottles of 15 g | (NDC 0832-0465-15) |
 | --- | --- |

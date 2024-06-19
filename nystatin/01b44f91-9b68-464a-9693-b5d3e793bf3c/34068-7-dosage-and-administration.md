@@ -5,4 +5,4 @@ Very moist lesions are best treated with the topical dusting powder.
 ## Adults and Pediatric Patients (Neonates and Older)
 
 Apply to candidal lesions two or three times daily until healing is complete.
-For fungal infection of the feet caused by Candida species, the powder should be dusted on the feet, as well as, in all foot wear.
+For fungal infection of the feet caused by Candidaspecies, the powder should be dusted on the feet, as well as, in all foot wear.
