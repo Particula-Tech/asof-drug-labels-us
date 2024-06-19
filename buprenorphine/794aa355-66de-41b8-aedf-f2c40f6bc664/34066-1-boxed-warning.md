@@ -1,10 +1,10 @@
 # WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF BUTRANS
 
-Addiction, Abuse, and Misuse Because the use of BUTRANS exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
+Addiction, Abuse, and Misuse Because the use of BUTRANS exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient's risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of BUTRANS, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of BUTRANS are essential.
-Misuse or abuse of BUTANS by chewing, swallowing, snorting or injecting buprenorphine extracted from the transdermal system will result in the uncontrolled delivery of buprenorphine and pose a significant risk of overdoes and death [see Warnings and Precautions (5.2)].
+Misuse or abuse of BUTANS by chewing, swallowing, snorting or injecting buprenorphine extracted from the transdermal system will result in the uncontrolled delivery of buprenorphine and pose a significant risk of overdose and death [see Warnings and Precautions (5.2)].
 
 Accidental Exposure Accidental exposure of even one dose of BUTRANS, especially in children, can result in a fatal overdose of buprenorphine [see Warnings and Precautions (5.2)].
 

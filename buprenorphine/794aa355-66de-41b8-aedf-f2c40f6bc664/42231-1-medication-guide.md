@@ -1,6 +1,6 @@
 | Medication Guide BUTRANS® (BYOO-trans) (buprenorphine) Transdermal System, CIII |  |  |  |
 | --- | --- | --- | --- |
-| BUTRANS is: A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain medicines do not treat your pain well enough or you cannot tolerate them.A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.Not to be taken on an “as needed” basis. |  |  |  |
+| BUTRANS is: A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain medicines do not treat your pain well enough or you cannot tolerate them.A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.Not to be taken on an "as needed" basis. |  |  |  |
 | Important information about BUTRANS: Get emergency help or call 911 right away if you take too much BUTRANS (overdose). When you first start taking BUTRANS, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur. Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.Taking BUTRANS with other opioid medicines, benzodiazepines, and alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.Never give anyone else your BUTRANS. They could die from taking it. Selling or giving away BUTRANS is against the law.Store BUTRANS securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home. |  |  |  |
 | Do not use BUTRANS if you have: severe asthma, trouble breathing, or other lung problems.a bowel blockage or have narrowing of the stomach or intestines. |  |  |  |
 | Before applying BUTRANS, tell your healthcare provider if you have a history of: head injury, seizuresproblems urinatingheart rhythm problems (Long QT syndrome)abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental health problems. |  | liver, kidney, thyroid problemspancreas or gallbladder problems |  |
@@ -64,7 +64,7 @@ How to apply BUTRANS:
 - Gently bend the patch (See Figures E and F) along the faint line and slowly peel the larger portion of the liner, which covers the sticky surface of the patch.
 
 - Do not touch the sticky side of the patch with your fingers.
-- Using the smaller portion of the protective liner as a handle (See Figure G), apply the sticky side of the patch to one of the 8 body locations described above (See “Where to apply BUTRANS”).
+- Using the smaller portion of the protective liner as a handle (See Figure G), apply the sticky side of the patch to one of the 8 body locations described above (See "Where to apply BUTRANS").
 
 - While still holding the sticky side down, gently fold back the smaller portion of the patch.
   Grasp an edge of the remaining protective liner and slowly peel it off (See Figure H).
@@ -79,7 +79,7 @@ How to apply BUTRANS:
 - After the patch is applied, write down the date and time that the patch is applied.
   Use this to remember when the patch should be removed.
 
-If the patch falls off right away after applying, throw it away and put a new one on at a different skin site (See “Disposing of BUTRANS Patch”).
+If the patch falls off right away after applying, throw it away and put a new one on at a different skin site (See "Disposing of BUTRANS Patch").
 
 If a patch falls off, do not touch the sticky side of the patch with your fingers.
 A new patch should be applied to a different site.
@@ -97,7 +97,7 @@ If the edges of the BUTRANS patch start to loosen:
   It should only be covered with a special see-through adhesive dressing.
   Talk to your healthcare provider or pharmacist about the kinds of dressing that should be used.
 
-If your patch falls off later, but before 1 week (7 days) of use, throw it away properly (See “Disposing of a BUTRANS Patch”) and apply a new patch at a different skin site.
+If your patch falls off later, but before 1 week (7 days) of use, throw it away properly (See "Disposing of a BUTRANS Patch") and apply a new patch at a different skin site.
 Be sure to let your healthcare provider know that this has happened.
 Do not replace the new patch until 1 week (7 days) after you put it on (or as directed by your healthcare provider).
 
@@ -140,7 +140,7 @@ If you prefer not to flush the used patch down the toilet, and if there is not a
 
 Never put used BUTRANS patches in the trash without first sealing them in the Patch-Disposal Unit.
 
-This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
+This "Instructions for Use" has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431
 

@@ -30,7 +30,7 @@ Inform patients and caregivers about the various ways to obtain naloxone as perm
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
-Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
 
 If naloxone is prescribed, also advise patients and caregivers:
 
@@ -86,12 +86,12 @@ Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive poten
 
 Embryofetal Toxicity Inform female patients of reproductive potential that BUTRANS can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation Advise patients that breastfeeding is not recommended during treatment with BUTRANS [see Use in Specific Populations (8.2)]
+Lactation Advise patients that breastfeeding is not recommended during treatment with BUTRANS [see Use in Specific Populations (8.2)].
 
 Infertility Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
+Healthcare professionals can telephone Purdue Pharma's Medical Services Department (1-888-726-7535) for information on this product.
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
 

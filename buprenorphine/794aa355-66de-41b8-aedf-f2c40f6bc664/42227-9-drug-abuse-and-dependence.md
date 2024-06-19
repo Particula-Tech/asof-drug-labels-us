@@ -22,9 +22,9 @@ In addition, abuse of opioids can occur in the absence of addiction.
 All patients treated with opioids require careful and frequent reevaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 Patients at high risk of BUTRANS abuse include those with a history of prolonged use of any opioid, including products containing buprenorphine, those with a history of drug or alcohol abuse, or those who use BUTRANS in combination with other abused drugs.
 
-“Drug-seeking” behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
-“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
+"Drug-seeking" behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated "loss" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+"Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
 
 BUTRANS, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.

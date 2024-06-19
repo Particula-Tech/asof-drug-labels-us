@@ -5,7 +5,7 @@
 - BUTRANS should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
 - BUTRANS doses of 7.5, 10, 15, and 20 mcg/hour are only for use in patients who are opioid experienced and in whom tolerance to an opioid of comparable potency has been established.
   Patients who are opioid-experienced are those receiving, for one week or longer, daily opioid doses up to 80 mg/day of oral morphine or an equianalgesic dose of another opioid.
-- Use the lowest effective dosage for the shortest duration of time consistent with individual patient’s treatment goals [see Warnings and Precautions (5)].
+- Use the lowest effective dosage for the shortest duration of time consistent with individual patient's treatment goals [see Warnings and Precautions (5)].
   Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of BUTRANS for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with BUTRANS.
@@ -22,7 +22,7 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3), Overdosage (10)].
 
 Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental exposure or overdose.
@@ -39,7 +39,7 @@ Prior Total Daily Dose of Opioid Less than 30 mg of Oral Morphine Equivalents pe
 
 Prior Total Daily Dose of Opioid Between 30 mg to 80 mg of Oral Morphine Equivalents per Day:
 
-Taper the patient’s current around-the-clock opioids for up to 7 days to no more than 30 mg of morphine or equivalent per day before beginning treatment with BUTRANS.
+Taper the patient's current around-the-clock opioids for up to 7 days to no more than 30 mg of morphine or equivalent per day before beginning treatment with BUTRANS.
 Then initiate treatment with BUTRANS 10 mcg/hour at the next dosing interval (see Table 1 below, right column).
 Patients may use short-acting analgesics as needed until analgesic efficacy with BUTRANS is attained.
 

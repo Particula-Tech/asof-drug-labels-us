@@ -9,7 +9,7 @@ Because extended-release products such as BUTRANS deliver the opioid over an ext
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed BUTRANS.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing BUTRANS, and reassess all patients receiving BUTRANS for the development of these behaviors and conditions.
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing BUTRANS, and reassess all patients receiving BUTRANS for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as BUTRANS but use in such patients necessitates intensive counseling about the risks and proper use of BUTRANS, along with frequent reevaluation for signs of addiction, abuse, or misuse.
@@ -26,7 +26,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of BUTRANS, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -48,7 +48,7 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered.
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
@@ -101,15 +101,15 @@ Advise patients and their caregivers to avoid exposing the BUTRANS application s
 Advise patients against exposure of the BUTRANS application site and surrounding area to hot water or prolonged exposure to direct sunlight.
 There is a potential for temperature-dependent increases in buprenorphine released from the system resulting in possible overdose and death.
 
-## 5.7 Risk of Use in Patients with Fever
+## 5.7 Risks of Use in Patients with Fever
 
 Regularly evaluate patients wearing BUTRANS systems who develop fever or increased core body temperature due to strenuous exertion for opioid side effects and adjust the BUTRANS dose if signs of respiratory or central nervous system depression occur.
 
 ## 5.8 Application Site Skin Reactions
 
-In rare cases, severe application site skin reactions with signs of marked inflammation including “burn,” “discharge,” and “vesicles” have occurred.
+In rare cases, severe application site skin reactions with signs of marked inflammation including "burn," "discharge," and "vesicles" have occurred.
 Time of onset varies, ranging from days to months following the initiation of BUTRANS treatment.
-Instruct patients to promptly report the development of severe application site reactions and discontinue therapy
+Instruct patients to promptly report the development of severe application site reactions and discontinue therapy.
 
 ## 5.9 Opioid-Induced Hyperalgesia and Allodynia
 
