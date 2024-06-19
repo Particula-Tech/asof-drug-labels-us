@@ -59,33 +59,45 @@ Juvenile rats directly exposed to dapagliflozin showed risk to the developing ki
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of FARXIGA in pediatric patients under 18 years of age have not been established.
+The safety and effectiveness of FARXIGA as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus have been established in pediatric patients aged 10 years and older.
+Use of FARXIGA for this indication is supported by a 26-week placebo-controlled trial with a 26-week extension in 157 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus, pediatric pharmacokinetic data, and trials in adults with type 2 diabetes mellitus [see Clinical Pharmacology (12.3) and Clinical Studies (14.1, 14.2)].
+The safety profile observed in the placebo-controlled trial in pediatric patients with type 2 diabetes mellitus was similar to that observed in adults [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of FARXIGA for glycemic control in type 2 diabetes mellitus have not been established in pediatric patients less than 10 years of age.
+
+The safety and effectiveness of FARXIGA have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)].
+
+- •sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
+- •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
 
 ## 8.5 Geriatric Use
 
 No FARXIGA dosage change is recommended based on age.
 
-A total of 1424 (24%) of the 5936 FARXIGA-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical studies assessing the efficacy of FARXIGA in improving glycemic control in type 2 diabetes mellitus.
+A total of 1424 (24%) of the 5936 FARXIGA-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical trials assessing the efficacy of FARXIGA in improving glycemic control in type 2 diabetes mellitus.
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
 In patients ≥65 years of age, a higher proportion of patients treated with FARXIGA for glycemic control had adverse reactions of hypotension [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-In the DAPA-CKD, DAPA-HF and DELIVER studies, safety and efficacy were similar for patients age 65 years and younger and those older than 65.
+In the DAPA-CKD, DAPA-HF and DELIVER trials, safety and efficacy were similar for patients aged 65 years and younger and those older than 65.
 In the DAPA-HF study, 2714 (57%) out of 4744 patients with HFrEF were older than 65 years.
 In the DELIVER study, 4759 (76%) out of 6263 patients with heart failure (LVEF >40%) were older than 65 years.
 In the DAPA-CKD study, 1818 (42%) out of 4304 patients with CKD were older than 65 years.
 
 ## 8.6 Renal Impairment
 
-FARXIGA was evaluated in 4304 patients with chronic kidney disease (eGFR 25 to 75 mL/min/1.73 m2) in the DAPA-CKD study.
-FARXIGA was also evaluated in 1926 patients with an eGFR of 30 to 60 mL/min/1.73 m2 in the DAPA-HF study.
-The safety profile of FARXIGA across eGFR subgroups in these studies was consistent with the known safety profile [see Adverse Reactions (6.1) and Clinical Studies (14.3 and 14.4)].
+FARXIGA was evaluated in 4304 adult patients with chronic kidney disease (eGFR 25 to 75 mL/min/1.73 m2) in the DAPA-CKD trial.
+FARXIGA was also evaluated in 1926 adult patients with an eGFR of 30 to 60 mL/min/1.73 m2 in the DAPA-HF trial.
+The safety profile of FARXIGA across eGFR subgroups in these studies was consistent with the known safety profile [see Adverse Reactions (6.1) and Clinical Studies (14.4, 14.5)].
 
-FARXIGA was evaluated in two glycemic control studies that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2 [see Clinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
+FARXIGA was evaluated in two glycemic control adult trials that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2[see Clinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
 Patients with diabetes and renal impairment using FARXIGA may be more likely to experience hypotension and may be at higher risk for acute kidney injury secondary to volume depletion.
-In the study of patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures compared to none receiving placebo.
-Use of FARXIGA for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.2)].
+In the trial of adult patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures compared to none receiving placebo.
+Use of FARXIGA for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2[see Dosage and Administration (2.1)].
 
-Efficacy and safety studies with FARXIGA did not enroll patients with an eGFR less than 25 mL/min/1.73 m2 or on dialysis.
+Efficacy and safety trials with FARXIGA did not enroll patients with an eGFR less than 25 mL/min/1.73 m2 or on dialysis.
+Once enrolled in the DAPA-CKD and DELIVER trials, adult patients were not required to discontinue therapy if eGFR fell below 25 mL/min/1.73 m2 or if dialysis was initiated.
+Once enrolled in the DAPA-HF trial, adult patients were not required to discontinue therapy if eGFR fell below 30 mL/min/1.73 m2 or if dialysis was initiated [see Dosage and Administration (2.3) and Clinical Studies (14.4,14.5)].
 
 ## 8.7 Hepatic Impairment
 

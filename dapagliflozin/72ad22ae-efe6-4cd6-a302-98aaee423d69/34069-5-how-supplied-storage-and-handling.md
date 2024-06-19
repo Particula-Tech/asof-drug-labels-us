@@ -2,7 +2,7 @@
 
 How Supplied
 
-FARXIGA (dapagliflozin) tablets have markings on both sides and are available in the strengths and packages listed in Table 18.
+FARXIGA (dapagliflozin) tablets have markings on both sides and are available in the strengths and packages listed in Table 19.
 
 Table 18: FARXIGA Tablet Presentations
 

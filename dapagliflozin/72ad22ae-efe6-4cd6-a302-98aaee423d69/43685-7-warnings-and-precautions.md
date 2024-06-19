@@ -42,9 +42,9 @@ Evaluate patients for signs and symptoms of urinary tract infections and treat p
 
 ## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Insulin and insulin secretagogues are known to cause hypoglycemia.
+Insulin and insulin secretagogues (e.g., sulfonylureas) are known to cause hypoglycemia.
 FARXIGA may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with FARXIGA.
+Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with FARXIGA [see Drug Interactions (7)].
 
 ## 5.5 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 

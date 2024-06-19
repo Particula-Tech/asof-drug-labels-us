@@ -67,3 +67,7 @@ Missed Dose
 
 If a dose is missed, advise patients to take it as soon as it is remembered unless it is almost time for the next dose, in which case patients should skip the missed dose and take the medicine at the next regularly scheduled time.
 Advise patients not to take two doses of FARXIGA at the same time.
+
+Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
+
+FARXIGA® is a registered trademark of the AstraZeneca group of companies.

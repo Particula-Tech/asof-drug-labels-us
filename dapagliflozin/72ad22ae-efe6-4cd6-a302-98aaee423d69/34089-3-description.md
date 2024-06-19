@@ -4,5 +4,5 @@ Dapagliflozin, an inhibitor of SGLT2, is described chemically as D-glucitol, 1,5
 The empirical formula is C21H25ClO6•C3H8O2•H2O and the molecular weight is 502.98.
 The structural formula is:
 
-FARXIGA is available as a film-coated tablet for oral administration containing the equivalent of 5 mg dapagliflozin as dapagliflozin propanediol or the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol, and the following inactive ingredients: microcrystalline cellulose, anhydrous lactose, crospovidone, silicon dioxide, and magnesium stearate.
-In addition, the film coating contains the following inactive ingredients: polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc, and yellow iron oxide.
+FARXIGA is available as a film-coated tablet for oral administration containing the equivalent of 5 mg dapagliflozin as dapagliflozin propanediol or the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol, and the following inactive ingredients: anhydrous lactose, crospovidone, magnesium stearate, microcrystalline cellulose, and silicon dioxide.
+In addition, the film coating contains the following inactive ingredients: polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and yellow iron oxide.
