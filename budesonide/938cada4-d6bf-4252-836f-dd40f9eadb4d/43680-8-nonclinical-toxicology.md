@@ -11,7 +11,7 @@ However, it caused a statistically significant increase in the incidence of hepa
 The concurrent reference corticosteroids (prednisolone and triamcinolone acetonide) showed similar findings.
 In a 91-week study in mice, budesonide caused no treatment-related carcinogenicity at oral doses up to 200 mcg/kg (approximately 0.06 times the MRHD on a body surface area basis).
 
-Budesonide was not genotoxic in the Ames text, the mouse lymphoma cell forward gene mutation (TK+/-) test, the human lymphocyte chromosome aberration test, the Drosophila melanogaster sex-linked recessive lethal test, the rat hepatocyte UDS test and the mouse micronucleus test.
+Budesonide was not genotoxic in the Ames test, the mouse lymphoma cell forward gene mutation (TK+/-) test, the human lymphocyte chromosome aberration test, the Drosophila melanogaster sex-linked recessive lethal test, the rat hepatocyte UDS test and the mouse micronucleus test.
 
 In rats, budesonide had no effect on fertility at subcutaneous doses up to 80 mcg/kg (approximately 0.05 times the MRHD on a body surface area basis).
 However, it caused a decrease in prenatal viability and viability in pups at birth and during lactation, along with a decrease in maternal food consumption and body weight gain, at subcutaneous doses of 20 mcg/kg (approximately 0.012 times the MRHD on a body surface area basis) and above.

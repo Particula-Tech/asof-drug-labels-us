@@ -15,7 +15,7 @@ Advise patients to avoid the consumption of grapefruit juice for the duration of
 
 TARPEYO is a registered trademark of Calliditas Therapeutics AB, or its affiliates.
 
-© 2021 Calliditas Therapeutics AB (publ)
+© 2024 Calliditas Therapeutics AB (publ)
 
 Manufactured for and distributed by: Calliditas Therapeutics AB
 

@@ -2,7 +2,7 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.1)]
+- Hypercorticism and adrenal axis suppression [see Warnings and Precautions (5.1)]
 - Risks of immunosuppression [see Warnings and Precautions (5.2)]
 - Other corticosteroid effects [see Warnings and Precautions (5.3)]
 
@@ -10,10 +10,10 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of TARPEYO was evaluated in 389 patients in the randomized, double-blind, placebo-controlled NefIgArd (NCT: 03643965, Phase 3 clinical study in adults with primary IgAN).
+The safety of TARPEYO was evaluated in 389 patients in the randomized, double-blind, placebo-controlled study, NefIgArd (NCT: 03643965, Phase 3 clinical study in adults with primary IgAN).
 The data below reflect TARPEYO exposure in 195 patients with a median duration of 41 weeks, compared with comparable exposure to placebo in 194 patients.
 
-The most common adverse reactions reported in greater than or equal to 5% of TARPEYO-treated patients, and greater than or equal to 2% higher than placebo are listed in Table 1.
+The most common adverse reactions, reported in greater than or equal to 5% of TARPEYO-treated patients and greater than or equal to 2% higher than placebo, in the 9-month treatment period are listed in Table 1.
 
 Most adverse reactions that occurred at a greater incidence for TARPEYO compared to placebo were consistent with hypercortisolism and reversible, resolving within 3 months after discontinuation.
 

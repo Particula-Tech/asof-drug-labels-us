@@ -71,7 +71,7 @@ Drug Interaction Studies
 Budesonide is metabolized via CYP3A4.
 Potent inhibitors of CYP3A4 can increase plasma levels of budesonide.
 
-Thus, clinically relevant drug interactions with potent CYP3A inhibitors, such as ketoconazole, itraconazole, ritonavir, indinavir, saquinavir, erythromycin, cyclosporine, and grapefruit juice, are to be expected.
+Thus, clinically relevant drug interactions with potent CYP3A4 inhibitors, such as ketoconazole, itraconazole, ritonavir, indinavir, saquinavir, erythromycin, cyclosporine, and grapefruit juice, are to be expected.
 Conversely, induction of CYP3A4 potentially could result in the lowering of budesonide plasma concentrations.
 
 Effects of Other Drugs on Budesonide

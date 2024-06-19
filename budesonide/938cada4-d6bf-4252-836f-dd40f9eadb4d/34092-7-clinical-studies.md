@@ -7,14 +7,14 @@ While the effect on kidney function that was seen during the 9-month treatment p
 
 NefIgArd Study: A Phase 3, Double-Blind Placebo-Controlled, Randomized Trial in Adults with Primary IgAN
 
-The effect of TARPEYO on proteinuria and kidney function (estimated glomerular filtration rate, eGFR) was assessed in a randomized, double-blind, phase 3, 2-part, multicenter study (NefIgArd, NCT: 03643965) in adults with biopsy-proven IgAN, eGFR ≥35 mL/min/1.73 m2, and proteinuria (defined as either ≥1 g/day or UPCR ≥0.8 g/g) who were on a stable dose of maximally-tolerated RAS inhibitor therapy.
+The effect of TARPEYO on proteinuria and kidney function (estimated glomerular filtration rate, eGFR) was assessed in a randomized, double-blind, phase 3, 2-part, multicenter study (NefIgArd, NCT: 03643965) in adults with biopsy-proven IgAN, eGFR ≥35 mL/min/1.73 m2, and proteinuria (defined as either ≥1 g/day or urine protein to creatinine ratio (UPCR) ≥0.8 g/g) who were on a stable dose of maximally-tolerated RAS inhibitor therapy.
 Patients with other glomerulopathies, nephrotic syndrome, or those who had been treated with systemic immunosuppressive medications were excluded.
 Patients were randomized 1:1 to either TARPEYO 16 mg once daily or placebo and treated for nine months followed by a 2-week taper of either TARPEYO 8 mg once daily or placebo.
 Patients were then followed off-treatment for 15 months.
 The primary endpoint for Part A of the study (interim analysis) was the ratio of UPCR (based on 24-hour urine collections) at 9 months compared to baseline based on the first 199 randomized patients who completed the Month 9 visit.
 The primary endpoint for Part B of the study (final analysis) was a time-weighted average of the log ratio of eGFR at each time point over 2 years relative to baseline.
 
-Of the 364 patients evaluated for efficacy, 66% were male, 76% were Caucasian, 23% were Asian, and 20% were from North America.
+Of the 364 randomized patients evaluated for efficacy, 66% were male, 76% were Caucasian, 23% were Asian, and 20% were from North America.
 The median age was 43 years (range 20 to 73 years).
 At baseline, the mean eGFR was approximately 58 mL/min/1.73 m2, with 60% of patients having an eGFR <60 mL/min/1.73 m2.
 The mean baseline UPCR was 1.5 g/g and 21% of patients had proteinuria >3.5 g/24 hours.
@@ -35,7 +35,7 @@ Analysis included all UPCR data regardless of use of prohibited medication at an
 Values reported under the figure are converted to percent reduction from baseline.
 Relative percent reductions comparing TARPEYO and placebo are estimated from the regression model.
 
-Abbreviations: UPCR, urine protein to creatinine ratio; CI, confidence intervals; LS, least squares.
+Abbreviations: UPCR, urine protein to creatinine ratio; CI, confidence interval; LS, least squares.
 
 In the final analysis of 364 patients, the trial met the prespecified Part B primary endpoint (p<0.0001).
 The mean change from baseline in eGFR and respective 95% CI for each arm at each scheduled visit during the treatment and follow-up phase is shown in Figure 2.

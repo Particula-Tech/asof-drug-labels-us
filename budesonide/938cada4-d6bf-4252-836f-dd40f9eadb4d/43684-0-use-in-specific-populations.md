@@ -6,12 +6,12 @@ Risk Summary
 
 The available data from published case series, epidemiological studies and reviews with oral budesonide use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
 There are risks to the mother and fetus associated with IgA Nephropathy.
-Infants exposed to in-utero corticosteroids, including budesonide, are at risk for hypoadrenalism (see Clinical Considerations).
+Infants exposed to in utero corticosteroids, including budesonide, are at risk for hypoadrenalism (see Clinical Considerations).
 In animal reproduction studies with pregnant rats and rabbits, administration of subcutaneous budesonide during organogenesis at doses approximately 0.3 times or 0.03 times, respectively, the maximum recommended human dose (MRHD), resulted in increased fetal loss, decreased pup weights, and skeletal abnormalities.
 Maternal toxicity was observed in both rats and rabbits at these dose levels (see Data).
 
 The estimated background risk of major birth defects and miscarriage of the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
@@ -46,7 +46,7 @@ These findings occurred in the presence of maternal toxicity.
 Risk Summary
 
 Breastfeeding is not expected to result in significant exposure of the infant to TARPEYO.
-Lactation studies have not been conducted with oral budesonide, including TARPEYO, and no information is available on the effects of the drug on the breastfed infant or the effects on the drug on milk production.
+Lactation studies have not been conducted with oral budesonide, including TARPEYO, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 One published study reports that budesonide is present in human milk following maternal inhalation of budesonide (see Data).
 Routine monitoring of linear growth in infants is recommended with chronic use of budesonide in the nursing mother.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TARPEYO and any potential adverse effects on the breastfed infant from TARPEYO, or from the underlying maternal condition.
