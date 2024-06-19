@@ -7,6 +7,6 @@
   Symptoms such as weight loss, failure to thrive in infants, abdominal pain, and behavioral disturbances may be indications of digoxin toxicity.
 - Instruct the patient to monitor and record their heart rate and blood pressure daily.
 
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Height, NJ 07922
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000485/01 Revised August 2023
+C50000485/02 Revised June 2024

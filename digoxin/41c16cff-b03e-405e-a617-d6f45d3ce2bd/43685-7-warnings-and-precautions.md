@@ -39,7 +39,7 @@ If it is not prudent to delay cardioversion, the lowest possible energy level sh
 
 Digoxin Tablets are not recommended in patients with acute myocardial infarction because digoxin may increase myocardial oxygen demand and lead to ischemia.
 
-## 5.6 Vasoconstriction In Patients With Myocarditis
+## 5.6 Vasoconstriction in Patients With Myocarditis
 
 Digoxin Tablets can precipitate vasoconstriction and may promote production of pro-inflammatory cytokines; therefore, avoid use in patients with myocarditis.
 
@@ -52,7 +52,7 @@ Patients with amyloid heart disease may be more susceptible to digoxin toxicity 
 
 Digoxin Tablets should generally be avoided in these patients, although it has been used for ventricular rate control in the subgroup of patients with atrial fibrillation.
 
-## 5.8 Reduced Efficacy In Patients With Hypocalcemia
+## 5.8 Reduced Efficacy in Patients With Hypocalcemia
 
 Hypocalcemia can nullify the effects of digoxin in humans; thus, digoxin may be ineffective until serum calcium is restored to normal.
 These interactions are related to the fact that digoxin affects contractility and excitability of the heart in a manner similar to that of calcium.

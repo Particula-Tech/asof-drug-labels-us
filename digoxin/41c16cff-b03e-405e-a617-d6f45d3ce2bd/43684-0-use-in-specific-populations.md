@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy
-
 Risk Summary
 
 Experience with digoxin in pregnant women over several decades, based on published retrospective clinical studies and case reports, has not led to the identification of a drug associated risk of major birth defects, miscarriage or adverse maternal and fetal outcomes.

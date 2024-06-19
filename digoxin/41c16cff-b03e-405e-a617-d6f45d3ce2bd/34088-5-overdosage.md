@@ -53,11 +53,11 @@ In addition to cardiac monitoring, temporarily discontinue Digoxin Tablets until
 Correct factors that may be contributing to the adverse reactions [see Warnings and Precautions (5)].
 In particular, correct hypokalemia and hypomagnesemia.
 Digoxin is not effectively removed from the body by dialysis because of its large extravascular volume of distribution.
-Life threatening arrhythmias (ventricular tachycardia, ventricular fibrillation, high degree A-V block, bradyarrhythma, sinus arrest) or hyperkalemia requires administration of Digoxin Immune Fab.
+Life threatening arrhythmias (ventricular tachycardia, ventricular fibrillation, high degree A-V block, bradyarrhythmia, sinus arrest) or hyperkalemia requires administration of Digoxin Immune Fab.
 Digoxin Immune Fab has been shown to be 80 to 90% effective in reversing signs and symptoms of digoxin toxicity.
 Bradycardia and heart block caused by digoxin are parasympathetically mediated and respond to atropine.
 A temporary cardiac pacemaker may also be used.
 Ventricular arrhythmias may respond to lidocaine or phenytoin.
 When a large amount of digoxin has been ingested, especially in patients with impaired renal function, hyperkalemia may be present due to release of potassium from skeletal muscle.
-In this case, treatment with Digoxin Immune Fab is indicated; an initial treatment with glucose and insulin may be needed if the hyperkalemia is life threatening.
+In this case, treatment with Digoxin Immune Fab is indicated; an initial treatment with glucose and insulin may be needed if the hyperkalemia is life-threatening.
 Once the adverse reaction has resolved, therapy with Digoxin Tablets may be reinstituted following a careful reassessment of dose.
