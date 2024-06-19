@@ -95,7 +95,7 @@ Pediatric patients 12 years and older should receive 600 mg every 12 hours [see 
 Table 9.
 Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | Cmax mcg/mL | Vss L/kg | AUC AUC = Single dose AUC0–∞ mcg∙h/mL | t 1/2 hrs | CL mL/min/kg |
+| Age Group | Cmax mcg/mL | Vss L/kg | AUCAUC = Single dose AUC0–∞ mcg∙h/mL | t 1/2 hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
 | Neonatal Patients |  |  |  |  |  |
 | Pre-termIn this data set, "pre-term" is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) | 12.7 (30%) | 0.81 (24%) | 108 (47%) | 5.6 (46%) | 2.0 (52%) |
