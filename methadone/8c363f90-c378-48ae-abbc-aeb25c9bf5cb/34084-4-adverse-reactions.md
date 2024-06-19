@@ -7,6 +7,7 @@ The following serious adverse reactions are described, or described in greater d
 - •QT Prolongation [see Warnings and Precautions (5.5)]
 - •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.6)]
 - •Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.8)]
+- •Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.9)]
 - •Serotonin Syndrome [see Warnings and Precautions (5.10)]
 - •Adrenal Insufficiency [see Warnings and Precautions (5.11)]
 - •Severe Hypotension [see Warnings and Precautions (5.12)]
@@ -54,4 +55,8 @@ Serotonin Syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen Deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.9)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking methadone [see Warnings and Precautions (5.19)].

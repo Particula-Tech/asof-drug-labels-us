@@ -10,7 +10,7 @@ Pregnant women involved in methadone maintenance programs have been reported to 
 Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
 Information is limited regarding dose and duration of methadone use during pregnancy, and most maternal exposure in these studies appears to occur after the first trimester of pregnancy (see Data).
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of use of opioids for an extended period of time during pregnancy [see Warnings and Precautions (5.6)].
 
 In published animal reproduction studies, methadone administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) in the hamster at doses 2 times the human daily oral dose of 120 mg/day on a mg/m2 basis (HDD) and in mice at doses equivalent to the HDD.
 Administration of methadone to pregnant animals during organogenesis and through lactation resulted decreased litter size, increased pup mortality, decreased pup body weights, developmental delays, and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD.
@@ -110,7 +110,7 @@ Methadone has been detected in very low plasma concentrations in some infants wh
 Infertility
 
 The effect of methadone on fertility is unknown.
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].
 Reproductive function in human males may be decreased by methadone treatment.
 Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.
@@ -131,18 +131,18 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to meth
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Methadone Hydrochloride Oral Solution slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.9)].
+Titrate the dosage of Methadone Hydrochloride Oral Solution slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.3)].
 
 Methadone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 Methadone pharmacokinetics have not been extensively evaluated in patients with hepatic insufficiency.
 Methadone is metabolized by hepatic pathways; therefore, patients with liver impairment may be at risk of increased systemic exposure to methadone after multiple dosing.
-Start these patients on lower doses and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
+Start these patients on lower doses and titrate slowly while regularly evaluating for signs of respiratory and central nervous system depression.
 
 ## 8.7 Renal Impairment
 
 Methadone pharmacokinetics have not been extensively evaluated in patients with renal insufficiency.
-Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
+Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while regularly evaluating for signs of respiratory and central nervous system depression.
