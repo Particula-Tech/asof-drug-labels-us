@@ -1,0 +1,103 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+The precise mechanism of vigabatrin’s anti-seizure effect is unknown, but it is believed to be the result of its action as an irreversible inhibitor of γ-aminobutyric acid transaminase (GABA-T), the enzyme responsible for the metabolism of the inhibitory neurotransmitter GABA.
+This action results in increased levels of GABA in the central nervous system.
+
+No direct correlation between plasma concentration and efficacy has been established.
+The duration of drug effect is presumed to be dependent on the rate of enzyme re-synthesis rather than on the rate of elimination of the drug from the systemic circulation.
+
+## 12.2 Pharmacodynamics
+
+Effects on Electrocardiogram
+
+There is no indication of a QT/QTc prolonging effect of vigabatrin in single doses up to 6.0 g. In a randomized, placebo-controlled, crossover study, 58 healthy subjects were administered a single oral dose of vigabatrin (3 g and 6 g) and placebo.
+Peak concentrations for 6.0 g vigabatrin were approximately 2-fold higher than the peak concentrations following the 3.0 g single oral dose.
+
+## 12.3 Pharmacokinetics
+
+VIGAFYDE is indicated for treatment in patients 1 month to 2 years of age [see Indications and Usage (1)].
+VIGAFYDE is not approved for use in adults.
+
+Vigabatrin displayed linear pharmacokinetics after administration of single doses ranging from 0.5 g to 4 g, and after administration of repeated doses of 0.5 g and 2.0 g twice daily.
+Bioequivalence has been established between the oral solution and tablet formulations.
+The following PK information (Tmax, half-life, and clearance) of vigabatrin was obtained from stand-alone PK studies and population PK analyses.
+
+Absorption
+
+Following oral administration, vigabatrin is essentially completely absorbed.
+The time to maximum concentration (Tmax) is approximately 2.5 hours for infants (5 months to 2 years of age).
+There was little accumulation with multiple dosing in adult and pediatric patients.
+A food effect study involving administration of vigabatrin to healthy volunteers under fasting and fed conditions indicated that the Cmax was decreased by 33%, Tmax was increased to 2 hours, and AUC was unchanged under fed conditions.
+
+Distribution
+
+Vigabatrin does not bind to plasma proteins.
+Vigabatrin is widely distributed throughout the body; mean steady-state volume of distribution is 1.1 L/kg (CV = 20%).
+
+Metabolism and Elimination
+
+Vigabatrin is not significantly metabolized; it is eliminated primarily through renal excretion.
+The terminal half-life of vigabatrin is about 5.7 hours for infants (5 months to 2 years of age).
+Following administration of [14]C-vigabatrin to healthy male volunteers, about 95% of total radioactivity was recovered in the urine over 72 hours with the parent drug representing about 80% of this.
+Vigabatrin induces CYP2C9 but does not induce other hepatic cytochrome P450 enzyme systems.
+
+Specific Populations
+
+Pediatric
+
+The clearance of vigabatrin is 2.4 L/hr for infants (5 months to 2 years of age).
+
+Gender
+
+No gender differences were observed for the pharmacokinetic parameters of vigabatrin in patients.
+
+Race
+
+No specific study was conducted to investigate the effects of race on vigabatrin pharmacokinetics.
+A cross study comparison between 23 Caucasian and 7 Japanese patients who received 1, 2, and 4 g of vigabatrin indicated that the AUC, Cmax, and half-life were similar for the two populations.
+However, the mean renal clearance of Caucasians (5.2 L/hr) was about 25% higher than the Japanese (4.0 L/hr).
+Inter-subject variability in renal clearance was 20% in Caucasians and was 30% in Japanese.
+
+Renal Impairment
+
+Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from >50 to 80 mL/min) in comparison to normal subjects.
+
+Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from >30 to 50 mL/min) in comparison to normal subjects.
+
+Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from >10 to 30 mL/min) in comparison to normal subjects.
+
+The effect of dialysis on VIGAFYDE clearance has not been adequately studied.
+
+Infants with Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics of VIGAFYDE in infants is unknown.
+
+Hepatic Impairment
+
+Vigabatrin is not significantly metabolized.
+The pharmacokinetics of vigabatrin in patients with impaired liver function has not been studied.
+
+Drug Interactions
+
+Phenytoin
+
+A 16% to 20% average reduction in total phenytoin plasma levels was reported in adult controlled clinical studies.
+Invitro drug metabolism studies indicate that decreased phenytoin concentrations upon addition of vigabatrin therapy are likely to be the result of induction of cytochrome P450 2C enzymes in some patients.
+Although phenytoin dose adjustments are not routinely required, dose adjustment of phenytoin should be considered if clinically indicated [see Drug Interactions (7.1)].
+
+Clonazepam
+
+In a study of 12 healthy adult volunteers, clonazepam (0.5 mg) co-administration had no effect on vigabatrin (1.5 g twice daily) concentrations.
+Vigabatrin increases the mean Cmax of clonazepam by 30% and decreases the mean Tmax by 45% [see Drug Interactions (7.1)].
+
+Other AEDs
+
+When coadministered with vigabatrin, phenobarbital concentration (from phenobarbital or primidone) was reduced by an average of 8% to 16%, and sodium valproate plasma concentrations were reduced by an average of 8%.
+These reductions did not appear to be clinically relevant.
+Based on population pharmacokinetics, carbamazepine, clorazepate, primidone, and sodium valproate appear to have no effect on plasma concentrations of vigabatrin [see Drug Interactions (7.1)].
+
+Alcohol
+
+Coadministration of ethanol (0.6 g/kg) with vigabatrin (1.5 g twice daily) indicated that neither drug influences the pharmacokinetics of the other.

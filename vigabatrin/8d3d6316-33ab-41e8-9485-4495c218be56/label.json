@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA217684"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Pyros Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "80789-003-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "vigabatrin",
+      "name": "VIGAFYDE"
+    }
+  ],
+  "setid": "8d3d6316-33ab-41e8-9485-4495c218be56",
+  "source": "dailymed"
+}
