@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA214182"
+  ],
+  "inn": "everolimus",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "0245-0822-30",
+    "0245-0823-30",
+    "0245-0824-30",
+    "0245-0825-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "everolimus",
+      "name": "TORPENZ"
+    }
+  ],
+  "setid": "4c0075dd-a0a8-4dc4-be32-1be8383fbbdc",
+  "source": "dailymed"
+}
