@@ -1,59 +1,25 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency.
+The following adverse reactions are described elsewhere in the labeling:
 
-Cardiovascular System:
+- Tissue Ischemia [see Warnings and Precautions (5.1)]
+- Cardiac Arrhythmias [see Warnings and Precautions (5.2)]
+- Hypotension [see Warnings and Precautions (5.3)]
+- Severe Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 
--ventricular arrhythmia
+The following adverse reactions have been identified during postapproval use of dopamine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
--atrial fibrillation
+Cardiac Disorders: anginal pain, palpitation
 
--ectopic beats
+Gastrointestinal Disorders: nausea, vomiting
 
--tachycardia
+Metabolism and Nutrition Disorders: azotemia
 
--anginal pain
+Nervous System Disorders: headache, anxiety
 
--palpitation
+Respiratory Disorders: dyspnea
 
--cardiac conduction abnormalities
+Skin and Subcutaneous Tissue Disorders: piloerection
 
--widened QRS complex
-
--bradycardia
-
--hypotension
-
--hypertension
-
--vasoconstriction
-
-Respiratory System:
-
--dyspnea
-
-Gastrointestinal System:
-
--nausea
-
--vomiting
-
-Metabolic/Nutritional System:
-
--azotemia
-
-Central Nervous System:
-
--headache
-
--anxiety
-
-Dermatological System:
-
--piloerection
-
-Other:
-
-Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1‐877‐233‐2001 or FDA at 1‐800‐FDA‐1088 or www.fda.gov/medwatch.
+Vascular Disorders: hypertension

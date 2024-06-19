@@ -1,70 +1,63 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-WARNING: This is a potent drug; it must be diluted before administration to the patient.
+## 2.1 Preparation and Administration Instructions
 
-Dopamine hydrochloride injection is administered (only after dilution) by intravenous infusion.
+Correct Hypovolemia, Acidosis, and Hypoxia
 
-Suggested Dilution – For the 40 mg/mL preparation, transfer by aseptic technique the contents containing either 5 mL, 200 mg or 10 mL, 400 mg of dopamine hydrochloride to either a 250 mL or 500 mL bottle of one of the sterile I.V. solutions listed below.
-For the 80 mg/mL preparation, transfer by aseptic technique the contents containing 10 mL, 800 mg of dopamine hydrochloride to a 250 mL, 500 mL or 1000 mL bottle of one of the following sterile I.V. solutions:
+Address hypovolemia, acidosis, and hypoxia before initiating Dopamine HCl Injection.
+If patient does not respond to therapy, suspect occult hypovolemia.
+Acidosis may reduce the effectiveness of dopamine [see Warnings and Precautions (5.1)].
 
-0.9% Sodium Chloride Injection, USP
+Preparation
 
-5% Dextrose Injection, USP
+For the 40-mg/mL preparation, transfer by aseptic technique the contents containing either 5 mL (200 mg) or 10 mL (400 mg) of Dopamine HCl Injection to either a 250-mL or a 500-mL bottle of one of the sterile intravenous solutions listed below:
 
-5% Dextrose and 0.9% Sodium Chloride Injection, USP
-
-5% Dextrose and 0.45% Sodium Chloride Injection, USP
-
-5% Dextrose and Lactated Ringer’s Injection
-
-Sodium Lactate Injection, USP 1/6 Molar
-
-Lactated Ringer’s Injection, USP
+- 0.9% Sodium Chloride Injection, USP
+- 5% Dextrose Injection, USP
+- 5% Dextrose and 0.9% Sodium Chloride Injection, USP
+- 5% Dextrose and 0.45% Sodium Chloride Injection, USP
+- 5% Dextrose and Lactated Ringer’s Injection
+- Sodium Lactate Injection, USP 1/6 Molar
+- Lactated Ringer’s Injection, USP
 
 The resultant dilutions are summarized in the following chart:
 
-| Concentration of dopamine hydrochloride | 40 mg/mL |  | 80 mg/mL |
-| --- | --- | --- | --- |
-| Volume of dopamineHydrochloride Injection, USP | 5 mL | 10 mL | 10 mL |
-| 250 mL Bottle of I.V. Solution | 800 mcg/mL | 1600 mcg/mL | 3200 mcg/mL |
-| 500 mL Bottle of I.V. Solution | 400 mcg/mL | 800 mcg/mL | 1600 mcg/mL |
-| 1000 mL Bottle of I.V. Solution | 200 mcg/mL | 400 mcg/mL | 800 mcg/mL |
+Dopamine HCl Injection has been found to be stable for 24 hours after dilution in the foregoing intravenous solutions.
 
-Dopamine hydrochloride injection has been found to be stable for a minimum of 24 hours after dilution in the foregoing I.V. solutions.
-However, as with all I.V. admixtures, dilution should be made just prior to administration.
+Administration
 
-Do NOT add dopamine hydrochloride to Sodium Bicarbonate Injection, USP or other alkaline I.V. solutions, since the drug is inactivated in alkaline solution.
+Dopamine HCl Injection is administered (only after dilution) by intravenous infusion.
 
-Rate of Administration – Dopamine hydrochloride injection after dilution, is administered intravenously by infusion via a suitable I.V. catheter or needle.
-When administering dopamine hydrochloride (or any potent medication) by continuous intravenous infusion, it is advisable to use a precision volume control I.V. set.
-Each patient must be individually titrated to the desired hemodynamic or renal response to dopamine.
+Administer Dopamine HCl Injection into a large vein [see Warnings and Precautions (5.1)] with the use of an infusion pump preferably in an intensive care setting.
 
-In titrating to the desired increase in systolic blood pressure, the optimum dosage rate for renal response may be exceeded, thus necessitating a reduction in rate after the hemodynamic condition is stabilized.
+Inspect Dopamine HCl Injection for particulate matter and discoloration prior to administration whenever solution and container permit (the solution is clear, practically colorless).
+Do not administer if the solution is darker or discolored.
 
-Administration at rates greater than 50 mcg/kg/min have safely been used in advanced circulatory decompensation states.
-If unnecessary fluid expansion is of concern, adjustment of drug concentration may be preferred over increasing the flow rate of a less concentrated dilution.
+Use higher concentration solutions (e.g., 3200 mcg/mL or 1600 mcg/mL strengths) in patients requiring fluid restriction.
 
-Suggested Regimen:
+Discontinuation
 
-1.
-When appropriate, increase blood volume with whole blood or plasma until central venous pressure is 10 to 15 cm H2O or pulmonary wedge pressure is 14 to 18 mm Hg.
+When discontinuing Dopamine HCl Injection, gradually reduce the infusion rate while expanding blood volume with intravenous fluids [see Warnings and Precautions (5.3)].
 
-2.
-Begin infusion of diluted solution at doses of 2 – 5 mcg/kg/min of dopamine hydrochloride in patients who are likely to respond to modest increments of heart force and renal perfusion.
+## 2.2 Recommended Dosage
 
-In more seriously ill patients, begin infusion of diluted solution at doses of 5 mcg/kg/min of dopamine hydrochloride and increase gradually using 5 to 10 mcg/kg/min increments up to a rate of 20 to 50 mcg/kg/min as needed.
-If doses in excess of 50 mcg/kg/min are required, it is advisable to check urine output frequently.
-Should urinary flow begin to decrease in the absence of hypotension, reduction of dopamine dosage should be considered.
-Multiclinic trials have shown that more than 50 percent of patients have been satisfactorily maintained on doses less than 20 mcg/kg/min.
+The recommended starting dosage in adults and pediatric patients is 2 to 5 mcg/kg/minute as a continuous intravenous infusion [see Dosage and Administration (2.3)].
+Titrate the infusion rate in increments of 5 to 10 mcg/kg/minute based on hemodynamic response and tolerability, but do not exceed 50 mcg/kg/minute.
 
-In patients who do not respond to these doses with adequate arterial pressures or urine flow, additional increments of dopamine may be given in an effort to produce an appropriate arterial pressure and central perfusion.
+Infusion rates may be calculated using the following formula:
 
-3.
-Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of cardiac contractility, and distribution of peripheral perfusion.
+Example calculations for infusion rates are as follows:
 
-Dosage of dopamine should be adjusted according to the patient’s response, with particular attention to diminution of established urine flow rate, increasing tachycardia or development of new dysrhythmias as indices for decreasing or temporarily suspending the dosage.
+Example 1: for a 60 kg person at the recommended initial dose of 2 mcg/kg/minute using a 800 mcg/mL concentration, the infusion rate would be as follows:
 
-4.
-As with all potent intravenously administered drugs, care should be taken to control the rate of administration to avoid inadvertent administration of a bolus of the drug.
+Example 2: for a 70 kg person at a dose of 5 mcg/kg/minute using a 1600 mcg/mL concentration, the infusion rate would be as follows:
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+## 2.3 Drug Incompatibilities
+
+Dopamine HCl Injection is incompatible with the following products; therefore, avoid simultaneous administration (through the same infusion set):
+
+- Sodium bicarbonate or other alkalinizing substances, because dopamine is inactivated in alkaline solution
+- Blood, because of the risk of pseudoagglutination of red cells
+- Iron salts
+
+Do not add additional medications in the diluted infusion solution.

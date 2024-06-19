@@ -1,5 +1,7 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-In the case of accidental overdosage, as evidenced by excessive elevation of blood pressure, reduce rate of administration or temporarily discontinue dopamine HCl until patient’s condition stabilizes.
+Manifestations of overdosage include excessive blood pressure elevation.
+
+In the case of accidental overdosage, reduce rate of Dopamine HCl Injection administration or temporarily discontinue the dopamine HCl until the overdosage related adverse reactions resolves.
 Since dopamine’s duration of action is quite short, no additional remedial measures are usually necessary.
-If these measures fail to stabilize the patient’s condition, use of the short-acting alpha-adrenergic blocking agent phentolamine should be considered.
+If these measures fail to resolve the overdosage related adverse reactions, consider using an alpha-adrenergic blocking agent (e.g., phentolamine).
