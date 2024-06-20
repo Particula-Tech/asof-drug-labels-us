@@ -73,7 +73,7 @@ Monitor geriatric patients receiving pitavastatin tablets for the increased risk
 
 Renal impairment is a risk factor for myopathy and rhabdomyolysis.
 Monitor all patients with renal impairment for development of myopathy.
-Due to the risk of myopathy, a dosage modification of pitavastatin tablets is recommended for patients with moderate and severe renal impairment (estimated glomerular filtration rate 30 to 59 mL/min/1.73 m2 and 15 to 29 mL/min/1.73 m2, respectively), as well as end-stage renal disease receiving hemodialysis [see Dosage and Administration (2.3), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+Due to the risk of myopathy, a dosage modification of pitavastatin tablets is recommended for patients with moderate and severe renal impairment (estimated glomerular filtration rate 30 to 59 mL/min/1.73 m 2and 15 to 29 mL/min/1.73 m 2, respectively), as well as end-stage renal disease receiving hemodialysis [see Dosage and Administration (2.3), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

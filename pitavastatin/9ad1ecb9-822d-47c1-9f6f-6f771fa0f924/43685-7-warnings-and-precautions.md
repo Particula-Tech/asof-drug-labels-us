@@ -7,13 +7,13 @@ Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred
 
 Risk Factors for Myopathy
 
-Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use of certain drugs (including other lipid-lowering therapies), and higher pitavastatin tablets dosage [see Dosage and Administration (2.2), Drug Interactions (7) and Use in Specific Populations (8.5,8.6)].
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use of certain drugs (including other lipid-lowering therapies), and higher pitavastatin tablets dosage [see Dosage and Administration (2.2), Drug Interactions (7)and Use in Specific Populations (8.5, 8.6)].
 Dosages of pitavastatin tablets greater than 4 mg once daily were associated with an increased risk for severe myopathy in premarketing clinical studies.
 The maximum recommended dose of pitavastatin tablets is 4 mg once daily.
 
 Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
-Pitavastatin tablets is contraindicated in patients taking cyclosporine and not recommended in patients taking gemfibrozil [see Contraindications (4) and Drug Interactions (7)].
+Pitavastatin tablets is contraindicated in patients taking cyclosporine and not recommended in patients taking gemfibrozil [see Contraindications (4)and Drug Interactions (7)].
 There are pitavastatin tablets dosage restrictions for patients taking erythromycin or rifampin [see Dosage and Administration (2.4)].
 The following drugs when used concomitantly with pitavastatin tablets may also increase the risk of myopathy and rhabdomyolysis: lipid-modifying dosages of niacin (>1 grams/day), fibrates, and colchicine [see Drug Interactions (7)].
 

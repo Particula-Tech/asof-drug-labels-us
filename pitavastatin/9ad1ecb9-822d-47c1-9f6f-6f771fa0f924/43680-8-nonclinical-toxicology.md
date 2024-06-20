@@ -8,7 +8,7 @@ In a 92-week carcinogenicity study in rats given pitavastatin at 1, 5, 25 mg/kg/
 
 In a 26-week transgenic mouse (Tg rasH2) carcinogenicity study where animals were given pitavastatin at 30, 75, and 150 mg/kg/day by oral gavage, no clinically significant tumors were observed.
 
-Pitavastatin was not mutagenic in the Ames test with Salmonella typhimurium and Escherichia coli with and without metabolic activation, the micronucleus test following a single administration in mice and multiple administrations in rats, the unscheduled DNA synthesis test in rats, and a Comet assay in mice.
+Pitavastatin was not mutagenic in the Ames test with Salmonella typhimuriumand Escherichia coliwith and without metabolic activation, the micronucleus test following a single administration in mice and multiple administrations in rats, the unscheduled DNA synthesis test in rats, and a Comet assay in mice.
 In the chromosomal aberration test, clastogenicity was observed at the highest doses tested, which also elicited high levels of cytotoxicity.
 
 Pitavastatin had no adverse effects on male and female rat fertility at oral doses of 10 and 30 mg/kg/day, respectively, at systemic exposures 56- and 354-times clinical exposure at 4 mg daily based on AUC.

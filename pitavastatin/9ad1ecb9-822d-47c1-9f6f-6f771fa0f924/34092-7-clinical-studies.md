@@ -121,7 +121,7 @@ See the lipid results in Table 10.
 Table 10.
 Lipid Response in Pediatric Patients with HeFH (Mean % Change from Baseline at Week 12)
 
-| Treatment | N | LDL-C | Apo-B | TC | TGDifference from placebo not statistically significant Median Percent Change from Baseline at Week 12 | HDL-C | non-HDL-C |
+| Treatment | N | LDL-C | Apo-B | TC | TG Difference from placebo not statistically significant Median Percent Change from Baseline at Week 12 | HDL-C | non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 19 | -1 | -3 | -1 | -3 | -1 | -1 |
 | Pitavastatin 1 mg daily | 20 | -21 | -20 | -16 | -14 | 7 | -21 |

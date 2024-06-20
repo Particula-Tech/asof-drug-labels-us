@@ -59,26 +59,27 @@ In a 12-week, double-blind, placebo-controlled trial of pitavastatin tablets 1 m
 The following adverse reactions have been identified during postapproval use of pitavastatin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal disorders: abdominal discomfort, abdominal pain, dyspepsia, nausea
+Gastrointestinal disorders:abdominal discomfort, abdominal pain, dyspepsia, nausea
 
-General disorders: asthenia, fatigue, malaise, dizziness
+General disorders:asthenia, fatigue, malaise, dizziness
 
-Hepatobiliary disorders: hepatitis, jaundice, fatal and non-fatal hepatic failure
+Hepatobiliary disorders:hepatitis, jaundice, fatal and non-fatal hepatic failure
 
-Immune system disorders: angioedema, immune-mediated necrotizing myopathy associated with statin use
+Immune system disorders:angioedema, immune-mediated necrotizing myopathy associated with statin use
 
-Metabolism and nutrition disorders: increases in HbA1c, fasting serum glucose levels
+Metabolism and nutrition disorders:increases in HbA1c, fasting serum glucose levels
 
-Musculoskeletal and connective tissue disorders: muscle spasms, myopathy, rhabdomyolysis
+Musculoskeletal and connective tissue disorders:muscle spasms, myopathy, rhabdomyolysis
 
-Nervous system disorders: hypoesthesia, peripheral neuropathy
-
-Psychiatric disorders: insomnia, depression.
+Nervous system disorders:hypoesthesia, peripheral neuropathy.
+There have been rare reports of new onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
 Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
 
-Reproductive system and breast disorders: erectile dysfunction
+Psychiatric disorders:insomnia, depression.
 
-Respiratory, thoracic and mediastinal disorders: interstitial lung disease
+Reproductive system and breast disorders:erectile dysfunction
 
-Skin and subcutaneous tissue disorders: lichen planus
+Respiratory, thoracic and mediastinal disorders:interstitial lung disease
+
+Skin and subcutaneous tissue disorders:lichen planus

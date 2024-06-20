@@ -13,7 +13,7 @@
 
 ## 2.3 Recommended Dosage in Patients with Renal Impairment
 
-- The recommended starting dosage for patients with moderate and severe renal impairment (estimated glomerular filtration rate 30 to 59 mL/minute/1.73 m2 and 15 to 29 mL/minute/1.73 m2, respectively) and patients with end-stage renal disease receiving hemodialysis is pitavastatin tablets 1 mg once daily.
+- The recommended starting dosage for patients with moderate and severe renal impairment (estimated glomerular filtration rate 30 to 59 mL/minute/1.73 m 2and 15 to 29 mL/minute/1.73 m 2, respectively) and patients with end-stage renal disease receiving hemodialysis is pitavastatin tablets 1 mg once daily.
   The maximum recommended dose for these patients is pitavastatin tablets 2 mg once daily [see Use in Specific Populations (8.5)].
 - There are no dosage adjustment recommendations for patients with mild renal impairment.
 
