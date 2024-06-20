@@ -119,7 +119,7 @@ Call your healthcare provider right away if you get any of the following warning
 - severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 - memory loss or confusion
 
-Less serious but common side effects include:
+Less serious, but common side effects include:
 
 - headache
 - breast pain
@@ -172,4 +172,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-B 10/2022
+C 3/2024

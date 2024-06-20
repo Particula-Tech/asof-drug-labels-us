@@ -87,4 +87,6 @@ Headache; migraine; dizziness; mental depression; chorea; nervousness; mood dist
 8.
 Miscellaneous
 
-Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaplylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
+Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaphylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.

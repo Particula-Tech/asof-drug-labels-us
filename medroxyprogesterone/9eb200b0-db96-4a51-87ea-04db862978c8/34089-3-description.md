@@ -10,4 +10,4 @@ The structural formula is:
 C24H34O4 M.W.
 386.53
 
-Each tablet, for oral administration, contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate, USP and the following inactive ingredients: crospovidone, lactose monohydrate, magnesium stearate, methylcellulose, pregelatinized corn starch, and sodium lauryl sulfate.
+Each medroxyprogesterone acetate tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate, USP and the following inactive ingredients: crospovidone, lactose monohydrate, magnesium stearate, methylcellulose, pregelatinized corn starch, and sodium lauryl sulfate.

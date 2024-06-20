@@ -20,11 +20,11 @@ Mean (SD) Pharmacokinetic Parameters for Medroxyprogesterone Acetate (MPA)
 | 2 x 10 mg | 1.01 (0.599) | 2.65 (1.41) | 6.95 (3.39) | 12.1 (3.49) | 78024(47220) | 64110(42662) |
 | 8 x 2.5 mg | 0.805 (0.413) | 2.22 (1.39) | 5.62 (2.79) | 11.6 (2.81) | 62748(40146) | 74123(35126) |
 | Multiple Dose |  |  |  |  |  |  |
-| 10 mg * | 0.71 (0.35) | 2.83 (1.83) | 6.01 (3.16) | 16.6 (15) | 40564(38256) | 41963(38402) |
+| 10 mg * | 0.71 (0.35) | 2.83 (1.83) | 6.01 (3.16) | 16.6 (15.0) | 40564(38256) | 41963(38402) |
 
 *Following Day 7 dose
 
-### A. Absorption
+### A. Absorption:
 
 No specific investigation on the absolute bioavailability of MPA in humans has been conducted.
 MPA is rapidly absorbed from the gastrointestinal tract, and maximum MPA concentrations are obtained between 2 to 4 hours after oral administration.
@@ -33,15 +33,15 @@ Administration of medroxyprogesterone acetate tablets with food increases the bi
 A 10 mg dose of medroxyprogesterone acetate tablets, taken immediately before or after a meal, increased MPA Cmax (50 to 70%) and AUC (18 to 33%).
 The half-life of MPA was not changed with food.
 
-### B. Distribution
+### B. Distribution:
 
 MPA is approximately 90% protein bound, primarily to albumin; no MPA binding occurs with sex hormone binding globulin.
 
-### C. Metabolism
+### C. Metabolism:
 
 Following oral dosing, MPA is extensively metabolized in the liver via hydroxylation, with subsequent conjugation and elimination in the urine.
 
-### D. Excretion
+### D. Excretion:
 
 Most MPA metabolites are excreted in the urine as glucuronide conjugates with only minor amounts excreted as sulfates.
 
