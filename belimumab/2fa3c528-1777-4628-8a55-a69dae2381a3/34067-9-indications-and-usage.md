@@ -2,8 +2,8 @@
 
 BENLYSTA (belimumab) is indicated for the treatment of:
 
-- •patients aged 5 years and older with active systemic lupus erythematosus (SLE) who are receiving standard therapy, and
-- •patients aged 5 years and older with active lupus nephritis who are receiving standard therapy.
+- •patients 5 years of age and older with active systemic lupus erythematosus (SLE) who are receiving standard therapy, and
+- •patients 5 years of age and older with active lupus nephritis who are receiving standard therapy.
 
 Limitations of Use
 

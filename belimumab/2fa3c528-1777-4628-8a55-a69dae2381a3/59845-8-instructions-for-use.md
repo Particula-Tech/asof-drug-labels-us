@@ -1,12 +1,8 @@
 Instructions for Use
 
-BENLYSTA (ben-LIST-ah)
+BENLYSTA (ben-LIST-ah) (belimumab) injection, for subcutaneous use Prefilled Syringe
 
-(belimumab)
-
-injection, for subcutaneous use
-
-Prefilled Syringe
+Read These Sections First
 
 Read this Instructions for Use before you start to use BENLYSTA and each time you refill your prescription.
 There may be new information.
@@ -19,6 +15,7 @@ Important Storage Information
 - •Keep refrigerated until 30 minutes before use.
 - •Keep in the original package until time of use to protect from light.
 - •Do not freeze BENLYSTA.
+  If the prefilled syringe has been frozen, do not use the prefilled syringe even if it is thawed.
 - •Keep away from heat and sunlight.
 - •Do not use and do not place back in the refrigerator if BENLYSTA is left out for more than 12 hours.
 - •Keep out of the reach of children.
@@ -26,12 +23,14 @@ Important Storage Information
 Important Warnings
 
 - •The prefilled syringe should be used only 1 time and then thrown away.
-  See below, “Dispose of used prefilled syringe and inspect.”
+  See below, “Step 6 - Throw away (dispose of) used syringe.”
   - oDo not share your BENLYSTA prefilled syringe with other people.
     You may give other people a serious infection or get a serious infection from them.
   - oDo not shake the prefilled syringe.
   - oDo not use if dropped onto a hard surface.
   - oDo not remove the Needle Cap until right before the injection.
+  - oDo not use in children less than 18 years of age.
+    It is not known if the prefilled syringe is safe and effective in children less than 18 years of age.
 
 BENLYSTA Prefilled Syringe Parts
 
@@ -49,32 +48,40 @@ Gauze Pad or Cotton Ball (not included)
 
 Sharps Container (not included)
 
-1 Gather and check supplies
+Step 1 Gather and check supplies
 
 Gather supplies
 
 - •Remove 1 sealed tray containing a prefilled syringe from the refrigerator.
+- •Place any remaining prefilled syringes back into the refrigerator.
 - •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:
-  - •BENLYSTA Prefilled Syringe
-  - •Alcohol Swab (not included)
-  - •Gauze Pad or Cotton Ball (not included)
-  - •Sharps Container (not included)
-- •Do not perform the injection if you do not have all the supplies listed.
+  - oBENLYSTA Prefilled Syringe
+  - oAlcohol swab (not included)
+  - oGauze pad or cotton ball (not included)
+  - oSharps container (not included)
+- •Do not give the injection if you do not have all the supplies listed.
 
-Check expiration date
+Take out the prefilled syringe
 
-- •Peel back the film of the tray and remove the prefilled syringe by holding the middle of the syringe body.
-- •Check the expiration date on the prefilled syringe.
+- •Peel back the film from the corner of the tray.
   See Figure A.
+
+- •Holding the middle of the prefilled syringe (near the inspection window), carefully take the prefilled syringe out of the tray.
+  See Figure B.
+
+Check expiration (Exp) date
+
+- •Check the expiration date on the prefilled syringe.
+  See Figure C.
 
 - •Do not use if the expiration date has passed.
 
-2 Prepare and inspect the BENLYSTA Prefilled Syringe
+Step 2 Prepare and inspect the BENLYSTA Prefilled Syringe
 
 Allow to come to room temperature
 
 - •Allow the prefilled syringe to sit at room temperature for 30 minutes.
-  See Figure B.
+  See Figure D.
 
 - 
   - oDo not warm the prefilled syringe in any other way.
@@ -84,17 +91,17 @@ Allow to come to room temperature
 Inspect BENLYSTA solution
 
 - •Look in the Inspection Window to check that the BENLYSTA solution is colorless to slightly yellow in color.
-  See Figure C.
+  See Figure E.
 
 - •It is normal to see 1 or more air bubbles in the solution.
-  - •Do not use if the solution looks cloudy, discolored, or has particles.
+- •Do not use if the solution looks cloudy, discolored, or has particles.
 
-3 Choose and clean the injection site
+Step 3 Choose and clean the injection site
 
 Choose the injection site
 
 - •Choose where to inject (abdomen or thigh).
-  See Figure D.
+  See Figure F.
 - •If you need 2 injections to complete your dose, leave at least 2 inches between each injection if using the same site.
 - •Avoid injecting into the same site each time or in areas where the skin is tender, bruised, red, or hard.
 
@@ -103,20 +110,20 @@ Choose the injection site
 Clean the injection site
 
 - •Wash your hands.
-- •Clean the injection site by wiping it with an Alcohol Swab.
+- •Clean the injection site by wiping it with an alcohol swab.
   Allow the skin to air dry.
-  See Figure E.
+  See Figure G.
 
 - •Do not touch this area again before giving the injection.
 
-4 Prepare for the injection
+Step 4 Prepare for the injection
 
 Remove the Needle Cap
 
 - •Do not remove the Needle Cap until right before you give the injection.
 - •Hold the prefilled syringe by the body and with the Needle facing away from you.
   Remove the Needle Cap by pulling it straight off.
-  See Figure F.
+  See Figure H.
 
 - •You may see a drop of liquid at the end of the Needle.
   This is normal.
@@ -125,12 +132,12 @@ Remove the Needle Cap
 - •Do not put the Needle Cap back onto the prefilled syringe.
 - •Keep your hands away from the Plunger to avoid pushing it before injecting.
 
-5 Inject BENLYSTA
+Step 5 Inject BENLYSTA and inspect
 
 Insert the Needle
 
 - •Hold the prefilled syringe in one hand and use your free hand to gently pinch the skin around the injection site.
-  See Figure G.
+  See Figure I.
 - •Insert the entire Needle into the pinched area of the skin at a slight 45-degree angle using a dart-like motion.
 
 - •After the Needle is completely inserted, release the pinched skin.
@@ -138,18 +145,24 @@ Insert the Needle
 Complete the injection
 
 - •Push the Plunger all the way down until all of the solution is injected.
-  See Figure H.
+  See Figure J.
 
 - •While keeping your hold on the syringe, slowly move your thumb back, allowing the Plunger to rise up.
   The Needle will automatically rise up into the Needle Guard.
-  See Figure I.
+  See Figure K.
 
-6 Dispose of used prefilled syringe and inspect
+Inspect the injection site
 
-Dispose of the used prefilled syringe
+- •There may be a small amount of blood at the injection site.
+  If needed, press a cotton ball or gauze pad on the injection site.
+- •Do not rub the injection site.
+
+Step 6 Throw away (dispose of) used syringe
+
+Dispose of the used syringe
 
 Throw away (dispose of) the used syringe and Needle Cap in a Sharps Container.
-See Figure J.
+See Figure L.
 
 - •Put your used syringe and sharps in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.
@@ -165,17 +178,9 @@ See Figure J.
 - •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Inspect the injection site
-
-- •There may be a small amount of blood at the injection site.
-  If needed, press a Cotton Ball or Gauze Pad on the injection site.
-- •Do not rub the injection site.
-
 Additional information
 
 For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-877-423-6597.
-
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
@@ -187,21 +192,18 @@ Distributed by GlaxoSmithKline
 
 Durham, NC 27701
 
-©2022 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-BNL:5IFU-S
+BNL:7IFU-S
 
-Revised July 2022
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+Revised June 2024
 
 Instructions for Use
 
-BENLYSTA (ben-LIST-ah)
+BENLYSTA (ben-LIST-ah) (belimumab) injection, for subcutaneous use Prefilled Autoinjector
 
-(belimumab)
-
-injection, for subcutaneous use
-
-Prefilled Autoinjector
+Read These Sections First
 
 Read this Instructions for Use before you start to use BENLYSTA and each time you refill your prescription.
 There may be new information.
@@ -214,6 +216,7 @@ Important Storage Information
 - •Keep refrigerated until 30 minutes before use.
 - •Keep in the original package until time of use to protect from light.
 - •Do not freeze BENLYSTA.
+  If the autoinjector has been frozen, do not use the autoinjector even if it is thawed.
 - •Keep away from heat and sunlight.
 - •Do not use and do not place back in the refrigerator if BENLYSTA is left out for more than 12 hours.
 - •Keep out of the reach of children.
@@ -221,12 +224,13 @@ Important Storage Information
 Important Warnings
 
 - •The autoinjector should be used only 1 time and then thrown away.
-  See below, “Dispose of used autoinjector and inspect.”
+  See below, “Step 6 – Throw away (dispose of) used autoinjector.”
   - oDo not share your BENLYSTA Autoinjector with other people.
     You may give other people a serious infection or get a serious infection from them.
   - oDo not shake the autoinjector.
   - oDo not use if dropped onto a hard surface.
   - oDo not remove the Ring Cap until right before the injection.
+  - oFor children less than 10 years of age, BENLYSTA must be given by a healthcare provider or a trained caregiver.
 
 BENLYSTA Autoinjector Parts
 
@@ -240,51 +244,60 @@ Gauze Pad or Cotton Ball (not included)
 
 Sharps Container (not included)
 
-1 Gather and check supplies
+Step 1 Gather and check supplies
 
 Gather supplies
 
 - •Remove 1 sealed tray containing an autoinjector from the refrigerator.
+- •Place any remaining autoinjectors back into the refrigerator.
 - •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:
-  - •BENLYSTA Autoinjector
-  - •Alcohol Swab (not included)
-  - •Gauze Pad or Cotton Ball (not included)
-  - •Sharps Container (not included)
-- •Do not perform the injection if you do not have all the supplies listed.
+  - oBENLYSTA Autoinjector
+  - oAlcohol swab (not included)
+  - oGauze pad or cotton ball (not included)
+  - oSharps container (not included)
+- •Do not give the injection if you do not have all the supplies listed.
 
-Check expiration date
+Take out the autoinjector
 
-- •Peel back the film of the tray and remove the autoinjector.
-- •Check the expiration date on the autoinjector.
+- •Peel back the film from the corner of the tray.
   See Figure A.
+
+- •Holding the middle of the autoinjector (near the inspection window), carefully take the autoinjector out of the tray.
+  See Figure B.
+
+Check expiration (Exp) date
+
+- •Check the expiration date on the autoinjector.
+  See Figure C.
 
 - •Do not use if the expiration date has passed.
 
-2 Prepare and inspect the BENLYSTA Autoinjector
+Step 2 Prepare and inspect the BENLYSTA Autoinjector
 
 Allow to come to room temperature
 
 - •Allow the autoinjector to sit at room temperature for 30 minutes.
-  See Figure B.
+  See Figure D.
 
-- oDo not warm the autoinjector in any other way.
-  For example, do not warm in a microwave oven, hot water, or in direct sunlight.
-- oDo not remove the Ring Cap during this step.
+- 
+  - oDo not warm the autoinjector in any other way.
+    For example, do not warm in a microwave oven, hot water, or in direct sunlight.
+  - oDo not remove the Ring Cap during this step.
 
 Inspect BENLYSTA solution
 
 - •Look in the Inspection Window to check that the BENLYSTA solution is colorless to slightly yellow in color.
-  See Figure C.
+  See Figure E.
 
 - •It is normal to see 1 or more air bubbles in the solution.
 - •Do not use if the solution looks cloudy, discolored, or has particles.
 
-3 Choose and clean the injection site
+Step 3 Choose and clean the injection site
 
 Choose the injection site
 
 - •Choose where to inject (abdomen or thigh).
-  See Figure D.
+  See Figure F.
 - •If you need 2 injections to complete your dose, leave at least 2 inches between each injection if using the same site.
 - •Avoid injecting into the same site each time or in areas where the skin is tender, bruised, red, or hard.
 
@@ -293,20 +306,20 @@ Choose the injection site
 Clean the injection site
 
 - •Wash your hands.
-- •Clean the injection site by wiping it with an Alcohol Swab.
+- •Clean the injection site by wiping it with an alcohol swab.
   Allow the skin to air dry.
-  See Figure E.
+  See Figure G.
 
 - •Do not touch this area again before giving the injection.
 
-4 Prepare for the injection
+Step 4 Prepare for the injection
 
 Remove the Ring Cap
 
 - •Do not remove the Ring Cap until right before you give the injection.
 - •Remove the Ring Cap by pulling or twisting it off.
-  The Ring Cap may be twisted off in either a clockwise or counter-clockwise direction.
-  See Figure F.
+  The Ring Cap may be twisted off in either a clockwise or counterclockwise direction.
+  See Figure H.
 
 - •Do not put the Ring Cap back onto the autoinjector.
 
@@ -317,38 +330,43 @@ Position the autoinjector
   You will look at the Inspection Window to:
   - osee that the purple indicator is moving while you are injecting.
   - osee that the purple indicator has stopped to make sure that the dose is complete.
-    See Figure G.
+    See Figure I.
 
 - •Position the autoinjector straight over the injection site at a 90-degree angle.
   Make sure the Gold Needle Guard is flat on the skin.
 
-5 Inject BENLYSTA
+Step 5 Inject BENLYSTA and inspect
 
 Start the injection
 
 - •Firmly press the autoinjector all the way down onto the injection site and hold in place.
-  See Figure H.
+  See Figure J.
 - •This will insert the needle and start the injection.
 
 - •You may hear a “first click” at the start of the injection and see the Purple Indicator start to move through the Inspection Window.
-  See Figure I.
+  See Figure K.
 
 Complete the injection
 
 - •Continue to hold the autoinjector down until you see that the Purple Indicator has stopped moving.
-- You may hear a "second click" a few seconds before the Purple Indicator stops moving.
-  See Figure J.
+- •You may hear a "second click" a few seconds before the Purple Indicator stops moving.
+  See Figure L.
 
 - •The injection may take up to 15 seconds to complete.
 - •When the injection is complete, lift the autoinjector from the injection site.
 
-6 Dispose of used autoinjector and inspect
+Inspect the injection site
+
+- •There may be a small amount of blood at the injection site.
+  If needed, press a cotton ball or gauze pad on the injection site.
+  - oDo not rub the injection site
+
+Step 6 Throw away (dispose of) used autoinjector
 
 Dispose of the used autoinjector
 
-Throw away (dispose of) the used autoinjector and Ring Cap in a Sharps Container.
-See Figure K.
-
+- •Throw away (dispose of) the used autoinjector and Ring Cap in a Sharps Container.
+  See Figure M.
 - •Put your used autoinjector in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) in your household trash.
 - •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
@@ -363,17 +381,9 @@ See Figure K.
 - •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Inspect the injection site
-
-- •There may be a small amount of blood at the injection site.
-  If needed, press a Cotton Ball or Gauze Pad on the injection site.
-- •Do not rub the injection site.
-
 Additional information
 
 For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-877-423-6597.
-
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
@@ -385,8 +395,9 @@ Distributed by GlaxoSmithKline
 
 Durham, NC 27701
 
-©2022 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-BNL:5IFU-A
+BNL:6IFU-A
 
-Revised July 2022
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+Revised May 2024

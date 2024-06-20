@@ -35,10 +35,10 @@ Monitor an infant of a treated mother for B-cell reduction and other immune dysf
 Data
 
 Animal Data: In a combined embryo-fetal and pre- and post-natal development study, pregnant cynomolgus monkeys received belimumab at intravenous doses of 0, 5, or 150 mg/kg every 2 weeks from confirmation of pregnancy at Gestation Days (GD) 20 to 22, throughout the period of organogenesis (up to approximately GD 50), and continuing to either the day of scheduled cesarean section (GD 150 [late third trimester]) or the day of parturition.
-There was no evidence of maternal toxicity, effects on embryofetal and infant survival, or structural abnormalities at exposure approximately 9 times the MRHD of 10 mg/kg intravenously or 20 times the MRHD of 200 mg subcutaneously (on an AUC basis with maternal animal intravenous doses up to 150 mg/kg).
+There was no evidence of maternal toxicity, effects on embryofetal and infant survival, or structural abnormalities at exposure approximately 9 times the MRHD of 10 mg/kg intravenously or 20 times the MRHD of 200 mg subcutaneously (on an area under the curve [AUC] basis with maternal animal intravenous doses up to 150 mg/kg).
 Belimumab-related findings in mothers included reductions of immature and mature B-cell counts and in fetuses and/or infants included reductions of immature and mature B-cell counts, reductions in the density of lymphoid tissue B-lymphocytes in the spleen and lymph nodes, reduced spleen weights, increased IgG titers, and reduced IgM titers.
 B-cell counts in infant monkeys exposed to belimumab in utero recovered by 3 months of age and in mothers after 1 year.
-IgG and IgM levels in infant monkeys recovered by 6 months of age and the reductions in B-lymphocytes in the lymph nodes and spleen were reversed by 1 year of age.
+Immunoglobulin G (IgG) and IgM levels in infant monkeys recovered by 6 months of age and the reductions in B-lymphocytes in the lymph nodes and spleen were reversed by 1 year of age.
 Belimumab crossed the placenta, as it was detected in fetal cord blood and amniotic fluid on GD 150.
 
 ## 8.2 Lactation
@@ -59,24 +59,30 @@ Following an assessment of benefit versus risk, if prevention of pregnancy is wa
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of BENLYSTA have been established for the treatment of SLE and lupus nephritis in pediatric patients 5 to 17 years old.
+Safety and effectiveness of BENLYSTA have been established for the treatment of SLE and lupus nephritis in pediatric patients 5 to less than 18 years of age.
 
-Use of BENLYSTA in pediatric patients with SLE is supported by evidence from pharmacokinetic (PK) and efficacy results from a pediatric study (Trial 6), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults with SLE.
+Intravenous Use
+
+Use of BENLYSTA intravenously in pediatric patients with SLE is supported by evidence from pharmacokinetic (PK) and efficacy results from a pediatric study (Trial 6), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults with SLE.
 A randomized, double‑blind, placebo‑controlled, PK, efficacy, and safety study (Trial 6) to evaluate intravenously administered BENLYSTA 10 mg/kg plus standard therapy compared with placebo plus standard therapy over 52 weeks was conducted in 93 pediatric patients with SLE.
 The proportion of pediatric patients achieving an SRI-4 response was higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
 Pediatric patients receiving BENLYSTA plus standard therapy also had a lower risk of experiencing a severe flare compared with placebo plus standard therapy [see Clinical Studies (14.3)].
 Pharmacokinetics were evaluated in a total of 53 pediatric patients with SLE and were consistent with the adult population with SLE [see Clinical Pharmacology (12.3)].
 
-Use of BENLYSTA in pediatric patients with active lupus nephritis is based on the extrapolation of efficacy from the intravenous study in adults (n = 224) with active lupus nephritis, and supported by pharmacokinetic data from intravenous studies in adults (n = 224) with active lupus nephritis and from pediatric patients (n = 53) with SLE.
+Use of intravenous administration of BENLYSTA in pediatric patients with active lupus nephritis is based on the extrapolation of efficacy from the intravenous study in adults (n = 224) with active lupus nephritis, and supported by pharmacokinetic data from intravenous studies in adults (n = 224) with active lupus nephritis and from pediatric patients (n = 53) with SLE.
 Estimated belimumab exposures for pediatric patients were comparable to adults with active lupus nephritis [see Clinical Pharmacology (12.3)].
 
-The safety and effectiveness of intravenous administration of BENLYSTA have not been established in pediatric patients younger than 5 years of age.
+Subcutaneous Use
 
-The safety and effectiveness of subcutaneous administration of BENLYSTA have not been established in pediatric patients younger than 18 years of age.
+Use of BENLYSTA, administered subcutaneously in pediatric patients (5 to less than 18 years of age and weighing at least 15 kg) with SLE, is supported by evidence from an open-label pharmacokinetic trial (subcutaneous administration of BENLYSTA in pediatric patients with SLE) and Trial 6 (a pharmacokinetic, efficacy, and safety study of intravenous dosing in pediatric patients with SLE).
+The pharmacokinetics of belimumab, following subcutaneous administration in pediatric patients, are estimated to be similar to adults who receive BENLYSTA subcutaneously and pediatric patients who receive BENLYSTA intravenously [see Clinical Pharmacology (12.3)].
+
+The safety and effectiveness of the subcutaneous administration of BENLYSTA, in pediatric patients less than 18 years of age with active lupus nephritis, have not been established.
+The safety and effectiveness of BENLYSTA have not been established in pediatric patients less than 5 years of age.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of BENLYSTA did not include sufficient numbers of subjects aged 65 or older to determine whether they respond differently from younger subjects.
+Clinical studies of BENLYSTA did not include sufficient numbers of subjects, 65 years of age or older, to determine whether they respond differently from younger subjects.
 Use with caution in geriatric patients.
 
 ## 8.6 Renal Impairment

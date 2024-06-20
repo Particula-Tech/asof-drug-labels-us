@@ -8,9 +8,9 @@ Each 20‑mL vial contains 400 mg of belimumab.
 
 BENLYSTA vials are supplied as follows:
 
-120 mg belimumab in a 5-mL single-dose vial (NDC 49401-101-01)
+120 mg belimumab in a 5‑mL single-dose vial (NDC 49401-101-01)
 
-400 mg belimumab in a 20-mL single-dose vial (NDC 49401-102-01)
+400 mg belimumab in a 20‑mL single-dose vial (NDC 49401-102-01)
 
 Refrigerate vials at 36°F to 46°F (2°C to 8°C).
 Store vials in the original carton until use to protect from light.
