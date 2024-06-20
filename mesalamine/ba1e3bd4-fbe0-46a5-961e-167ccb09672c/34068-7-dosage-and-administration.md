@@ -10,7 +10,6 @@ Administration Instructions
 Adults
 
 - The recommended dosage for the induction of remission in adult patients with mildly to moderately active ulcerative colitis is 2.4 g to 4.8 g (two to four 1.2 g tablets) taken once daily.
-
 - The recommended dosage for the maintenance of remission is 2.4 g (two 1.2 g tablets) taken once daily.
 
 Pediatric Patients

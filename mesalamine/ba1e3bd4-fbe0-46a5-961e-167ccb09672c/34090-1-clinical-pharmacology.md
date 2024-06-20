@@ -83,7 +83,7 @@ Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Do
 | tlag § (h) | 2 (1 to 6) | 2 (1 to 4) | 2 (2 to 4) |
 | t1/2 (h), terminal phase | 5.68* (2.83) | 9.68† (7.47) | 8.67‡ (5.84) |
 | Renal clearance (L/h) | 2.05 (1.33) | 2.04 (1.16) | 2.13 (1.20) |
-| Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid*N=15, †N=16, ‡N=13, §Median (min-max) |  |  |  |
+| Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid *N=15, †N=16, ‡N=13, §Median (min-max) |  |  |  |
 
 Pediatric Patients
 

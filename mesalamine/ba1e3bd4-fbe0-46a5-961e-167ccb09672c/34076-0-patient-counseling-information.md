@@ -35,19 +35,16 @@ Blood Disorders
 Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
 Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions (7.2), Use in Specific Populations (8.5)].
 
-Administration
-
-Instruct patients:
+Administration Instruct patients:
 
 - Swallow mesalamine delayed-release tablets whole; do not split or crush.
 - Take mesalamine delayed-release tablets with food [see Clinical Pharmacology (12.3)].
+- Urine may become discolored reddish-brown while taking mesalamine delayed-release tablets when it comes in contact with surfaces or water treated with hypochlorite-containing bleach.
+  If discolored urine is observed, advise patients to observe their urine flow.
+  Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 - Drink an adequate amount of fluids [see Warnings and Precautions (5.8)].
 
-Manufactured For:
-
-Teva Pharmaceuticals
-
-Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-H 7/2023
+I 5/2024
