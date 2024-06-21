@@ -36,9 +36,9 @@ Especially tell your doctor if you take:
 
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   MIRAPEX ER may not work as well if you take these medicines.
-- pramipexole (MIRAPEX).
-  Pramipexole is the active ingredient in both MIRAPEX ER and MIRAPEX.
-  If you are taking MIRAPEX, you should not take MIRAPEX ER.
+- pramipexole.
+  Pramipexole is the active ingredient in MIRAPEX ER.
+  If you are taking pramipexole, you should not take MIRAPEX ER.
 - any other medicines that make you sleepy or may increase the effects of MIRAPEX ER, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.
@@ -156,7 +156,7 @@ What are the ingredients in MIRAPEX ER?
 
 Active Ingredient: pramipexole dihydrochloride monohydrate.
 
-Inactive Ingredients: hypromellose, corn starch, carbomer homopolymer, colloidal silicon dioxide, and magnesium stearate.
+Inactive Ingredients: carbomer homopolymer, colloidal silicon dioxide, corn starch, hypromellose, and magnesium stearate.
 
 What does MIRAPEX ER look like?
 
@@ -174,8 +174,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 MIRAPEX is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: 7/2021
+Revised: 6/2024
 
-COL9694AG162021
+COL9694BF072024

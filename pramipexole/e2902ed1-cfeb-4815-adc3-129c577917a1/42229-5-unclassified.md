@@ -4,8 +4,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 MIRAPEX is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Address medical inquiries to: (800) 542-6257.
+Address medical inquiries to: 1-800-542-6257.
 
-Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL9694AG162021 SPL9696A
+COL9694BF072024 SPL9696E

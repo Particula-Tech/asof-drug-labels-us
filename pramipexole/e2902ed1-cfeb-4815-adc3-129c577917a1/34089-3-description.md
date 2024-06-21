@@ -39,4 +39,4 @@ MIRAPEX ER tablets 4.5 mg:
 
 Each extended-release tablet contains 4.5 mg pramipexole dihydrochloride monohydrate equivalent to 4.23 mg pramipexole dihydrochloride.
 
-Inactive ingredients for all strengths of MIRAPEX ER tablets consist of hypromellose, corn starch, carbomer homopolymer, colloidal silicon dioxide, and magnesium stearate.
+Inactive ingredients for all strengths of MIRAPEX ER tablets consist of carbomer homopolymer, colloidal silicon dioxide, corn starch, hypromellose, and magnesium stearate.

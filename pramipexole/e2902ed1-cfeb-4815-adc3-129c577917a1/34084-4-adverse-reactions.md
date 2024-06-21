@@ -130,7 +130,7 @@ Other adverse reactions in clinical studies involving MIRAPEX immediate-release 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of MIRAPEX immediate-release or MIRAPEX ER tablets, primarily in Parkinson's disease patients.
+The following adverse reactions have been identified during postapproval use of MIRAPEX immediate-release or MIRAPEX ER tablets, primarily in Parkinson's disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
 
@@ -145,6 +145,8 @@ Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormo
 Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)]
 
 Nervous System Disorders: syncope
+
+Reproductive System and Breast Disorders: priapism
 
 Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
 
