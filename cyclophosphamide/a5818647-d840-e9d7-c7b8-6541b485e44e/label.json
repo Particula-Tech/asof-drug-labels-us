@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA212501"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Dr. Reddy's Labratories Inc.",
+  "package_ndcs": [
+    "75907-189-35",
+    "75907-190-07",
+    "75907-191-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cyclophosphamide",
+      "name": "CYCLOPHOSPHAMIDE"
+    }
+  ],
+  "setid": "a5818647-d840-e9d7-c7b8-6541b485e44e",
+  "source": "dailymed"
+}
