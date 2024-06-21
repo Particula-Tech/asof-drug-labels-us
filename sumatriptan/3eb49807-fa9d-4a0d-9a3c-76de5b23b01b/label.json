@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208223"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Tonix Medicines, Inc.",
+  "package_ndcs": [
+    "70792-809-38",
+    "70792-809-39"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sumatriptan succinate",
+      "name": "Zembrace SymTouch"
+    }
+  ],
+  "setid": "3eb49807-fa9d-4a0d-9a3c-76de5b23b01b",
+  "source": "dailymed"
+}
