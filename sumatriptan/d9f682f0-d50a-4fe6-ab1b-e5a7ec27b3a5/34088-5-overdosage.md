@@ -1,0 +1,8 @@
+# 10 OVERDOSAGE
+
+Coronary vasospasm was observed after intravenous administration of sumatriptan injection [see Contraindications (4)].
+Overdoses would be expected from animal data (dogs at 0.1 g/kg, rats at 2 g/kg) to possibly cause convulsions, tremor, inactivity, erythema of the extremities, reduced respiratory rate, cyanosis, ataxia, mydriasis, injection site reactions (desquamation, hair loss, and scab formation), and paralysis.
+
+The elimination half-life of sumatriptan is about 2 hours [see Clinical Pharmacology (12.3)], and therefore monitoring of patients after overdose with TOSYMRA should continue for at least 10 hours or while symptoms or signs persist.
+
+It is unknown what effect hemodialysis or peritoneal dialysis has on the serum concentrations of sumatriptan.

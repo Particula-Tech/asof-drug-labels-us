@@ -1,0 +1,77 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
+Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine headache through agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
+
+## 12.2 Pharmacodynamics
+
+Blood Pressure
+
+Significant elevation in blood pressure, including hypertensive crisis, has been reported in patients with and without a history of hypertension [see Warnings and Precautions (5.8)].
+
+Peripheral (Small) Arteries
+
+In healthy volunteers (N = 18), a trial evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
+
+Heart Rate
+
+Transient increases in blood pressure observed in some subjects in clinical trials carried out during sumatriptan's development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
+
+## 12.3 Pharmacokinetics
+
+Following nasal administration of 10 mg TOSYMRA in 73 healthy subjects, the relative bioavailability of TOSYMRA was approximately 87% [90% confidence interval (CI) 82 to 94] of that obtained following 4 mg subcutaneous injection of sumatriptan.
+The relative bioavailability of TOSYMRA was 58% [90% CI 55 to 62] following 6 mg subcutaneous injection of sumatriptan.
+
+Absorption
+
+Peak plasma concentration of sumatriptan was observed in a median time of 10 minutes (range 5 to 23 minutes).
+After single nasal administration of the 10 mg dose, the mean (CV%) Cmax and AUC were 51.8 ng/mL (58%) and 60.70 ng•hr/mL (42%), respectively.
+
+Distribution
+
+Sumatriptan protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
+The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
+
+Following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) the volume of distribution central compartment of sumatriptan was 50 ± 8 liters and the distribution half-life was 15 ± 2 minutes.
+
+Elimination
+
+The elimination half-life of sumatriptan following administration of TOSYMRA is 2.44 ± 1.00 hours.
+
+Metabolism
+
+In vitro studies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
+Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
+
+Excretion
+
+After a single 6 mg subcutaneous dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the IAA metabolite.
+
+Following a 6 mg subcutaneous injection into the deltoid area of the arm, the systemic clearance of sumatriptan was 1,194 ± 149 mL/min and the terminal half-life was 115 ± 19 minutes.
+
+Specific Populations
+
+Age
+
+The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
+
+Patients with Hepatic Impairment
+
+The effect of hepatic disease on the pharmacokinetics of TOSYMRA has not been evaluated.
+The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
+There were no significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in moderately hepatically impaired subjects compared with healthy controls.
+The pharmacokinetics of subcutaneously administered sumatriptan in patients with severe hepatic impairment has not been studied.
+The use of TOSYMRA in this population is contraindicated [see Contraindications (4)].
+
+Racial Groups
+
+The systemic clearance and Cmax of subcutaneous sumatriptan were similar in black (n=34) and Caucasian (n=38) healthy male subjects.
+TOSYMRA has not been evaluated for race differences.
+
+Drug Interaction Studies
+
+Monoamine Oxidase-A Inhibitors
+
+In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210884"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Tonix Medicines, Inc.",
+  "package_ndcs": [
+    "70792-812-59",
+    "70792-812-61"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "sumatriptan",
+      "name": "Tosymra"
+    }
+  ],
+  "setid": "d9f682f0-d50a-4fe6-ab1b-e5a7ec27b3a5",
+  "source": "dailymed"
+}
