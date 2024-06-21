@@ -10,7 +10,7 @@ In animal reproduction studies, epinephrine administered by the subcutaneous rou
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the United States general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the United States general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -31,6 +31,7 @@ Epinephrine usually inhibits spontaneous or oxytocin induced contractions of the
 Avoid epinephrine during the second stage of labor.
 In dosage sufficient to reduce uterine contractions, the drug may cause a prolonged period of uterine atony with hemorrhage.
 Avoid epinephrine in obstetrics when maternal blood pressure exceeds 130/80 mmHg.
+
 Although epinephrine may improve maternal hypotension associated with septic shock and anaphylaxis, it may result in uterine vasoconstriction, decreased uterine blood flow, and fetal anoxia.
 
 Data

@@ -31,7 +31,8 @@ Avoid using a catheter tie-in technique, because the obstruction to blood flow a
 Avoid the veins of the leg in elderly patients or in those suffering from occlusive vascular diseases.
 
 To provide hemodynamic support in septic shock associated hypotension in adult patients, the suggested dosing infusion rate of intravenously administered epinephrine is 0.05 to 2 mcg/kg/min, and is titrated to achieve a desired mean arterial pressure (MAP).
-The dosage may be adjusted periodically, such as every 10 - 15 minutes, in increments of 0.05 to 0.2 mcg/kg/min, to achieve the desired blood pressure goal.
+The dosage may be adjusted periodically, such as every 10 to 15 minutes, in increments of 0.05 to 0.2 mcg/kg/min, to achieve the desired blood pressure goal.
 
 After hemodynamic stabilization, wean incrementally over time, such as by decreasing doses of epinephrine every 10 minutes to determine if the patient can tolerate gradual withdrawal.
+
 Epinephrine Injection, USP diluted in 5 percent dextrose solutions or 5 percent dextrose and sodium chloride solutions are stable for 4 hours at room temperature or 24 hours under refrigerated conditions.
