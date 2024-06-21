@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA210852"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-116-01",
+    "83831-117-02",
+    "83831-118-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "6f593585-e0dd-48bc-bd2b-c6c787e0b98c",
+  "source": "dailymed"
+}
