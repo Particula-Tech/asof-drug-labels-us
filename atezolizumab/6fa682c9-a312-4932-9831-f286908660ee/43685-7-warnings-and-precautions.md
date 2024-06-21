@@ -276,7 +276,7 @@ Musculoskeletal and Connective Tissue: Myositis/polymyositis, rhabdomyolysis and
 
 Endocrine: Hypoparathyroidism.
 
-Other (Hematologic/Immune): Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection.
+Other (Hematologic/Immune): Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection, other transplant (including corneal graft) rejection.
 
 ## 5.2 Infusion-Related Reactions
 
