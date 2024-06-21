@@ -29,6 +29,8 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
+
 ## Endocrine:
 
 Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
@@ -37,70 +39,87 @@ Corticosteroids can produce reversible HPA axis suppression with the potential f
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 
-## Infections
+Immunosuppression and Increased Risk of Infection
 
-### General:
+Corticosteroids, including SOLU-CORTEF, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
 
-Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen (viral, bacterial, fungal, protozoan, or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
+- •Reduce resistance to new infections
+- •Exacerbate existing infections
+- •Increase the risk of disseminated infections
+- •Increase the risk of reactivation or exacerbation of latent infections
+- •Mask some signs of infection
 
-These infections may be mild, but can be severe and at times fatal.
-With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
-Corticosteroids may also mask some signs of current infection.
-Do not use intra-articularly, intrabursally, or for intratendinous administration for local effect in the presence of acute local infection.
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
 
-### Fungal infections:
+Monitor for the development of infection and consider SOLU-CORTEF withdrawal or dosage reduction as needed.
+Do not administer SOLU-CORTEF by an intraarticular, intrabursal, or intratendinous route in the presence of acute local infection.
 
-Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
+Tuberculosis
 
-### Special pathogens:
+If SOLU-CORTEF is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of the disease may occur.
+Closely monitor such patients for reactivation.
+During prolonged SOLU-CORTEF therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, and Toxoplasma.
+Varicella Zoster and Measles Viral Infections
 
-It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids.
+In corticosteroid-treated patients who have not had these diseases or are nonimmune, particular care should be taken to avoid exposure to varicella and measles:
 
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+- •If a SOLU-CORTEF-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- •If a SOLU-CORTEF-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
+
+Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including SOLU-CORTEF.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with SOLU-CORTEF.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+Fungal Infections
+
+Corticosteroids, including SOLU-CORTEF, may exacerbate systemic fungal infections; therefore, avoid SOLU-CORTEF use in the presence of such infections unless SOLU-CORTEF is needed to control drug reactions.
+For patients on chronic SOLU-CORTEF therapy who develop systemic fungal infections, SOLU-CORTEF withdrawal or dosage reduction is recommended.
+
+Amebiasis
+
+Corticosteroids, including SOLU-CORTEF, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating SOLU-CORTEF in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+Strongyloides Infestation
+
+Corticosteroids, including SOLU-CORTEF, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-Corticosteroids should not be used in cerebral malaria.
-There is currently no evidence of benefit from steroids in this condition.
+Cerebral Malaria
 
-### Tuberculosis:
+Avoid corticosteroids, including SOLU-CORTEF, in patients with cerebral malaria.
 
-The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
-
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
-
-### Vaccination:
+Vaccination:
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison's disease).
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison’s disease).
 
-### Viral infections:
-
-Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
-In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is not known.
-If exposed to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
-If chicken pox develops, treatment with antiviral agents should be considered.
-
-### Neurologic:
+Neurologic:
 
 Reports of severe medical events have been associated with the intrathecal route of administration (see ADVERSE REACTIONS, Neurologic/Psychiatric).
 
-### Ophthalmic:
+Ophthalmic:
 
 Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should be used cautiously in patients with ocular herpes simplex because of corneal perforation.
 Corticosteroids should not be used in active ocular herpes simplex.
+
+Kaposi’s Sarcoma:
+
+Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
 
 # PRECAUTIONS
 
@@ -110,9 +129,6 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 When reduction in dosage is possible, the reduction should be gradual.
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
-
-Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
-Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-renal:
 
@@ -175,7 +191,6 @@ Patients should also be advised that if they are exposed, medical advice should 
 ## Drug Interactions:
 
 Aminoglutethimide: Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
-
 Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
@@ -214,7 +229,7 @@ Skin tests: Corticosteroids may suppress reactions to skin tests.
 
 Vaccines: Patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
-Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infections, Vaccination).
+Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Immunosuppression and Increased Risk of Infection, Vaccination).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
