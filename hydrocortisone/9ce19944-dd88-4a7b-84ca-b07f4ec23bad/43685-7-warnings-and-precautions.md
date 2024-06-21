@@ -2,46 +2,94 @@
 
 In patients on corticosteroid therapy subjected to unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated.
 
-Corticosteroids may mask some signs of infection, and new infections may appear during their use.
-Infections with any pathogen including viral, bacterial, fungal, protozoan or helminthic infections, in any location of the body, may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents that affect cellular immunity, humoral immunity, or neutrophil function.1
+Immunosuppression and Increased Risk of Infection
 
-These infections may be mild, but can be severe and at times fatal.
-With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.2 There may be decreased resistance and inability to localize infection when corticosteroids are used.
+Corticosteroids, including CORTEF, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
+
+- •Reduce resistance to new infections
+- •Exacerbate existing infections
+- •Increase the risk of disseminated infections
+- •Increase the risk of reactivation or exacerbation of latent infections
+- •Mask some signs of infection
+- •
+
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
+
+Monitor for the development of infection and consider CORTEF withdrawal or dosage reduction as needed.
+
+Tuberculosis
+
+If CORTEF is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
+Closely monitor such patients for reactivation.
+During prolonged CORTEF therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+
+Varicella Zoster and Measles Viral Infections
+
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including CORTEF.
+In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
+
+- •If a CORTEF-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- •If a CORTEF-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
+
+Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including CORTEF.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with CORTEF.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+Fungal Infections
+
+Corticosteroids, including CORTEF, may exacerbate systemic fungal infections; therefore, avoid CORTEF use in the presence of such infections unless CORTEF is needed to control drug reactions.
+For patients on chronic CORTEF therapy who develop systemic fungal infections, CORTEF withdrawal or dosage reduction is recommended.
+
+Amebiasis
+
+Corticosteroids, including CORTEF, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating CORTEF in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+Strongyloides Infestation
+
+Corticosteroids, including CORTEF, should be used with great care in patients with known or suspected.
+Strongyloides (threadworm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+
+Cerebral Malaria
+
+Avoid corticosteroids, including CORTEF, in patients with cerebral malaria.
+
+Ophthalmic Effects
 
 Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
 
-## Usage in pregnancy
+Kaposi’s Sarcoma
 
-Since adequate human reproduction studies have not been done with corticosteroids, the use of these drugs in pregnancy, nursing mothers or women of childbearing potential requires that the possible benefits of the drug be weighed against the potential hazards to the mother and embryo or fetus.
-Infants born of mothers who have received substantial doses of corticosteroids during pregnancy, should be carefully observed for signs of hypoadrenalism.
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
 
-Corticosteroids have been shown to impair fertility in male rats.
+Hypertension, Volume Overload, and Hypokalemia
 
 Average and large doses of hydrocortisone or cortisone can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
 Dietary salt restriction and potassium supplementation may be necessary.
 All corticosteroids increase calcium excretion.
 
+Vaccinations
+
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered to patients receiving immunosuppressive doses of corticosteroids; however, the response to such vaccines may be diminished.
 Indicated immunization procedures may be undertaken in patients receiving nonimmunosuppressive doses of corticosteroids.
 
-The use of CORTEF Tablets in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
+Usage in Pregnancy
 
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
+Since adequate human reproduction studies have not been done with corticosteroids, the use of these drugs in pregnancy, nursing mothers or women of child bearing potential requires that the possible benefits of the drug be weighed against the potential hazards to the mother and embryo or fetus.
+Infants born of mothers who have received substantial doses of corticosteroids during pregnancy, should be carefully observed for signs of hypoadrenalism.
 
-Persons who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
-Chicken pox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
-In such children or adults who have not had these diseases, particular care should be taken to avoid exposure.
-How the dose, route and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
-If chicken pox develops, treatment with antiviral agents may be considered.
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
-In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+Corticosteroids have been shown to impair fertility in male rats.
 
 # PRECAUTIONS
 
@@ -62,9 +110,6 @@ Also, existing emotional instability or psychotic tendencies may be aggravated b
 Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess or other pyogenic infection; diverticulitis; fresh intestinal anastomoses; active or latent peptic ulcer; renal insufficiency; hypertension; osteoporosis; and myasthenia gravis.
 
 Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed.
-
-Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy.
-Discontinuation of corticosteroids may result in clinical remission.
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 
