@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA215233"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-634-06",
+    "46708-634-60",
+    "46708-636-06",
+    "46708-636-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dabigatran etexilate",
+      "name": "Dabigatran Etexilate"
+    }
+  ],
+  "setid": "13649035-a498-4e31-a7ea-8b18cedceca7",
+  "source": "dailymed"
+}
