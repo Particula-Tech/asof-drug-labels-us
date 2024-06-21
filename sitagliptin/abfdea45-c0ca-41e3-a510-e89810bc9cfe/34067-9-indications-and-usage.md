@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-ZITUVIO is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+ZITUVIO® is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
 
 Limitations of Use
 
