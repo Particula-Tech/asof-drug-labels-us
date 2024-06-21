@@ -9,3 +9,7 @@ Cetirizine hydrochloride oral solution USP, 1 mg/mL is supplied as follows:
 480 mL amber PET modern round bottle NDC 0121-0874-16
 
 STORAGE: Store at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
+
+Manufactured by: PAI Pharma Greenville, SC 29605
+
+R08/23
