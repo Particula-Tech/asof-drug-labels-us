@@ -2,7 +2,7 @@
 
 Dapagliflozin
 
-In the event of an overdose, contact the Poison Control Center.
+In the event of an overdose, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
 The removal of dapagliflozin by hemodialysis has not been studied.
 
 Metformin HCl

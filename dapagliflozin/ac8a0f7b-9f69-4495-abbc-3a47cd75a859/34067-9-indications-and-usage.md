@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-XIGDUO XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+XIGDUO XR is a combination of dapagliflozin and metformin hydrochloride (HCl) extended-release, indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus.
 
 Dapagliflozin is indicated to reduce
 
@@ -11,6 +11,6 @@ Dapagliflozin is indicated to reduce
 Limitations of Use
 
 - •XIGDUO XR is not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus [see Warnings and Precautions (5.2)].
-- •Because of the metformin component, the use of XIGDUO XR is limited to adults with type 2 diabetes mellitus for all indications.
+- •Because of the metformin HCl component, the use of XIGDUO XR is limited to patients with type 2 diabetes mellitus for all indications.
 - •XIGDUO XR is not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for kidney disease.
   XIGDUO XR is not expected to be effective in these populations.

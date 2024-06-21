@@ -3,7 +3,7 @@
 ## 5.1 Lactic Acidosis
 
 There have been post-marketing cases of metformin-associated lactic acidosis, including fatal cases.
-These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
+These cases had a subtle onset and were accompanied by non‑specific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
 
 Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
@@ -19,7 +19,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1 and 2.4) and Clinical Pharmacology (12.3)]:
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1, 2.4) and Clinical Pharmacology (12.3)]:
 
 - •Before initiating XIGDUO XR, obtain an estimated glomerular filtration rate (eGFR).
 - •XIGDUO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
@@ -92,7 +92,7 @@ Evaluate patients for signs and symptoms of urinary tract infections and treat p
 
 ## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
+Insulin and insulin secretagogues (e.g., sulfonylureas) are known to cause hypoglycemia.
 XIGDUO XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with XIGDUO XR [see Drug Interactions (7)].
 
