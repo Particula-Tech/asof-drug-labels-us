@@ -58,7 +58,7 @@ Apparent oral clearance of atorvastatin in pediatric subjects appeared similar t
 
 Gender
 
-Plasma concentrations of atorvastatin calcium in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between men and women.
+Plasma concentrations of atorvastatin calcium in females differ from those in males (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between males and females.
 
 Renal Impairment
 
@@ -78,8 +78,8 @@ Atorvastatin is also identified as a substrate of the efflux transporter BCRP, w
 
 | Table 5: Effect of Coadministered Drugs on the Pharmacokinetics of Atorvastatin |  |  |  |
 | --- | --- | --- | --- |
-| Coadministered drug anddosing regimen | Atorvastatin |  |  |
-|  | Dose (mg) | Ratio of AUC& | Ratio ofCmax& |
+| Coadministered drug anddosage regimen | Atorvastatin |  |  |
+|  | Dosage (mg) | Ratio of AUC& | Ratio ofCmax& |
 | #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDa for 28 days | 8.69 | 10.66 |
 | #Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 10 mg SDc | 9.36 | 8.58 |
 | #Glecaprevir 400 mg QDa/pibrentasvir 120 mg QDa, 7 days | 10 mg QDa for 7 days | 8.28 | 22.00 |
@@ -115,15 +115,15 @@ Atorvastatin is also identified as a substrate of the efflux transporter BCRP, w
 | ‡ The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used. |  |  |  |
 | a Once daily |  |  |  |
 | b Twice daily |  |  |  |
-| c Single dose |  |  |  |
+| c Single dosage |  |  |  |
 | d Three times daily |  |  |  |
 | e Four times daily |  |  |  |
 | f Every 8 hours |  |  |  |
 
 | Table 6: Effect of Atorvastatin on the Pharmacokinetics of Coadministered Drugs |  |  |  |
 | --- | --- | --- | --- |
-| Atorvastatin | Coadministered drug and dosing regimen |  |  |
-|  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
+| Atorvastatin | Coadministered drug and dosage regimen |  |  |
+|  | Drug/Dosage (mg) | Ratio of AUC | Ratio of Cmax |
 | 80 mg QDa for 15 days | Antipyrine, 600 mg SDc | 1.03 | 0.89 |
 | 80 mg QDa for 10 days | # Digoxin 0.25 mg QDa, 20 days | 1.15 | 1.20 |
 | 40 mg QDa for 22 days | Oral contraceptive QDa, 2 months - norethindrone 1 mg - ethinyl estradiol 35 mcg | 1.281.19 | 1.231.30 |
@@ -133,6 +133,6 @@ Atorvastatin is also identified as a substrate of the efflux transporter BCRP, w
 | # See Section 7 for clinical significance. |  |  |  |
 | a Once daily |  |  |  |
 | b Twice daily |  |  |  |
-| c Single dose |  |  |  |
+| c Single dosage |  |  |  |
 
 Atorvastatin calcium had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.

@@ -27,6 +27,10 @@ Lactation
 
 Advise patients that breastfeeding is not recommended during treatment with atorvastatin calcium [see Use in Specific Populations (8.2)].
 
+Missed Doses
+
+If a dose is missed, advise patients not to take the missed dose and resume with the next scheduled dose.
+
 Brands listed are the trademarks of their respective owners.
 
 Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
@@ -44,4 +48,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-J 3/2023
+K 6/2024
