@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218021"
+  ],
+  "inn": "hydroxyurea",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-820-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "HYDROXYUREA"
+    }
+  ],
+  "setid": "9752a347-b42c-44d5-8fd1-c538f7f239dc",
+  "source": "dailymed"
+}
