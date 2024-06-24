@@ -14,6 +14,6 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1181-3.0
+LAB-1181-4.0
 
-Revised: 3/2021
+Revised: 06/2024

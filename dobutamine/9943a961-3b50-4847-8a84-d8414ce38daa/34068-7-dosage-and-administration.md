@@ -10,17 +10,23 @@ On rare occasions, infusion rates up to 40 µg/kg/min have been required to obta
 
 Rates of infusion in mL/hour for dobutamine hydrochloride concentrations of 500, 1,000, 2,000 and 4,000 mg/L may be calculated using the following formula:
 
-Infusion Rate (mL/h) = [Dose (µg/kg/min) x Weight (kg) x 60 min/h] Final Concentration (µg/mL)
+| Infusion Rate (mL/h) = [Dose (µg/kg/min) x Weight (kg) x 60 min/h] |
+| --- |
+| Final Concentration (µg/mL) |
 
 Example calculations for infusion rates are as follows:
 
 Example 1: for a 60 kg person at an initial dose of 0.5 µg/kg/min using a 500 µg/mL concentration, the infusion rate would be as follows:
 
-Infusion Rate (mL/h) = [0.5 (µg/kg/min) x 60 (kg) x 60 (min/h)] = 3.6 (mL/h) 500 (µg/mL)
+| Infusion Rate (mL/h) = [0.5 (µg/kg/min) x 60 (kg) x 60 (min/h)] = 3.6 (mL/h) |
+| --- |
+| 500 (µg/mL) |
 
 Example 2: for a 80 kg person at a dose of 10 µg/kg/min using a 2,000 µg/mL concentration, the infusion rate would be as follows:
 
-Infusion Rate (mL/h) = [10 (µg/kg/min) x 80 (kg) x 60 (min/h)] = 24 (mL/h) 2,000 (µg/mL)
+| Infusion Rate (mL/h) = [10 (µg/kg/min) x 80 (kg) x 60 (min/h)] = 24 (mL/h) |
+| --- |
+| 2,000 (µg/mL) |
 
 This container system may be inappropriate for the dosage requirements of pediatric patients under 30 kg.
 
