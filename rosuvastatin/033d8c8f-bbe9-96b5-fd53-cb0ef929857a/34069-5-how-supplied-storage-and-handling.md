@@ -2,7 +2,7 @@
 
 Rosuvastatin tablets USP are supplied as:
 
-| Manufacturer:Recipharm Pharmaservices Private Limited | Manufacturer: Biocon Pharma Limited |
+| Manufacturer:Recipharm Pharmaservices Private Limited | Manufacturer:Biocon Pharma Limited |
 | --- | --- |
 | NDC 70377-006-11: 5 mg. Yellow, round, biconvex, film-coated tablets, debossed with '5' on one side and 'B' on other side; bottle of 30 tablets | NDC 70377-006-11: 5 mg. Yellow, round, biconvex, film-coated tablets, debossed with '5' on one side and 'B' on other side; bottle of 30 tablets |
 | NDC 70377-006-12: 5 mg. Yellow, round, biconvex, film-coated tablets, debossed with '5' on one side and 'B' on other side; bottle of 90 tablets | NDC 70377-006-12: 5 mg. Yellow, round, biconvex, film-coated tablets, debossed with '5' on one side and 'B' on other side; bottle of 90 tablets |

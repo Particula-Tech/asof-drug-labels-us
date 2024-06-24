@@ -2,41 +2,70 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Patients should be instructed not to take 2 doses of rosuvastatin tablets within 12 hours of each other.
+Myopathy and Rhabdomyolysis
 
-Skeletal Muscle Effects
+Advise patients that rosuvastatin may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1), and Drug Interactions (7.1)].
 
-Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing rosuvastatin.
+Hepatic Dysfunction
 
-Concomitant Use of Antacids
+Inform patients that rosuvastatin may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
 
-When taking rosuvastatin with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after rosuvastatin administration.
+Increases in HbA1c and Fasting Serum Glucose Levels
 
-Embryofetal Toxicity
+Inform patients that increases in HbA1c and fasting serum glucose levels may occur with rosuvastatin.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.5)].
 
-Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment, and to inform their healthcare provider of a known or suspected pregnancy.
-[see Contraindications (4) and Use in specific populations(8.1,8.3)].
+Pregnancy
+
+Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if rosuvastatin should be discontinued [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with rosuvastatin [see Contraindications (4) and Use in Specific Populations (8.2)].
+Advise patients that breastfeeding during treatment with rosuvastatin is not recommended [see Use in Specific Populations (8.2)].
 
-Liver Enzymes
+Concomitant Use of Antacids
 
-It is recommended that liver enzyme tests be performed before the initiation of rosuvastatin and if signs or symptoms of liver injury occur.
-All patients treated with rosuvastatin should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+When taking rosuvastatin with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after rosuvastatin administration [see Drug Interactions (7.2)].
 
-Manufactured for: Biocon Pharma Inc., 485 US Highway 1 S, Suite B305, Iselin, NJ 08830-3009, USA
+Missed Doses
 
-Manufactured by: Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road, Teppada Begur, Nelamangala Taluk, Bangalore – 562123, India.
+If a dose is missed, advise patients not take an extra dose.
+Just resume the usual schedule [see General Dosage and Administration Information (2.1)].
+
+Manufactured for:
+
+Biocon Pharma Inc.,
+
+Iselin, New Jersey, 08830-3009
+
+United States of America
+
+Manufactured by:
+
+Recipharm Pharmaservices Private Limited,
+
+34th KM, Tumkur Road,
+
+Teppada Begur, Nelamangala Taluk,
+
+Bangalore – 562123, India.
+
 Mfg.
 Lic.
 No. KTK/25/460/2001
 
 or
 
-Biocon Pharma Limited, Special Economic Zone, Plot No.5, Phase IV, Bommasandra - Jigani Link Road, Bommasandra Post, Bengaluru, Karnataka 560099, India Mfg.
+Manufactured by:
+
+Biocon Pharma Limited
+
+Bengaluru, India – 560099
+
+Mfg.
 Lic.
 No. KTK/25/664/2017
-
-Biocon Pharma Inc.
