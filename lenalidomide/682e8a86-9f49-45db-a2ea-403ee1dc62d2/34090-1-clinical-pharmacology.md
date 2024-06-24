@@ -66,7 +66,7 @@ Patients with moderate and severe impairment had a 3-fold increase in half-life 
 Patients on hemodialysis (n=6) had an approximate 4.5-fold increase in half-life and an 80% decrease in drug clearance compared to healthy subjects.
 Approximately 30% of the drug in body was removed during a 4-hour hemodialysis session.
 
-Adjust the starting dose of lenalidomide capsules in patients with renal impairment based on the CLcr value [see Dosage and Administration (2.6].
+Adjust the starting dose of lenalidomide capsules in patients with renal impairment based on the CLcr value [see Dosage and Administration (2.6)].
 
 Hepatic Impairment: Mild hepatic impairment (defined as total bilirubin > 1 to 1.5 times upper limit normal (ULN) or any aspartate transaminase greater than ULN) did not influence the disposition of lenalidomide.
 No pharmacokinetic data is available for patients with moderate to severe hepatic impairment.

@@ -8,7 +8,7 @@ Lenalidomide capsules are indicated as maintenance therapy in adult patients wit
 
 ## 1.2 Myelodysplastic Syndromes
 
-Lenalidomide capsules are indicated for the treatment of adult patients with transfusion-dependent anemia due to low-or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+Lenalidomide capsules are indicated for the treatment of adult patients with transfusion-dependent anemia due to low -or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
 
 ## 1.3 Mantle Cell Lymphoma
 

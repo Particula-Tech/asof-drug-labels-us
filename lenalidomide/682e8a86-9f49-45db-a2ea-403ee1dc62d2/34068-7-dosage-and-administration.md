@@ -49,18 +49,18 @@ Dose Adjustments for Hematologic Toxicities During MM Treatment
 
 Dose modification guidelines, as summarized in Table 2 below, are recommended to manage Grade 3 or 4 neutropenia or thrombocytopenia or other Grade 3 or 4 toxicity judged to be related to lenalidomide capsule.
 
-Table 2: Dose Adjustments for Hematologic Toxicities for MM Platelet counts
+Table 2: Dose Adjustments for Hematologic Toxicities for MM
 
-| Thrombocytopenia in MM |  |
+| Platelet counts |  |
 | --- | --- |
+| Thrombocytopenia in MM |  |
 | When Platelets | Recommended Course |
 | Fall below 30,000/mcL Return to at least 30,000/mcL | Interrupt lenalidomide capsule treatment, follow CBC weekly Resume lenalidomide capsule at next lower dose, continuously for Days 1-28 of repeated 28-day cycle |
 | If at the 5 mg daily dose, For a subsequent drop below 30,000/mcL Return to at least 30,000/mcL | Interrupt lenalidomide capsule treatment. Do not dose below 5 mg daily for Day 1 to 21 of 28 day cycle Resume lenalidomide capsule at 5 mg daily for Days 1 to 21of 28-day cycle. Do not dose below 5 mg daily for Day 1 to 21 of 28 day cycle |
 
-Absolute Neutrophil counts (ANC)
-
-| Neutropenia in MM |  |
+| Absolute Neutrophil counts (ANC) |  |
 | --- | --- |
+| Neutropenia in MM |  |
 | When Neutrophils | Recommended Course |
 | Fall below 500/mcL Return to at least 500/mcL | Interrupt lenalidomide capsule treatment, follow CBC weekly Resume lenalidomide capsule at next lower dose, continuously for Days 1-28 of repeated 28-day cycle |
 | If at 5 mg daily dose, For a subsequent drop below 500/mcL Return to at least 500/mcL | Interrupt lenalidomide capsule treatment. Do not dose below 5 mg daily for Days 1 to 21 of 28-day cycle Resume lenalidomide capsule at 5 mg daily for Days 1 to 21 of 28-day cycle. Do not dose below 5 mg daily for Days 1 to 21 of 28-day cycle |
@@ -122,7 +122,9 @@ If neutropenia develops AFTER 4 weeks of starting treatment at 10 mg daily in MD
 | --- | --- |
 | Fall below 500/mcL for at least 7 days or below 500/mcL associated with fever (at least 38.5°C) Return to at least 500/mcL | Interrupt lenalidomide capsule treatment Resume lenalidomide capsule at 5mg daily |
 
-Patients who experience neutropenia at 5 mg daily should have their dosage adjusted as follows: If neutropenia develops during treatment at 5 mg daily in MDS
+Patients who experience neutropenia at 5 mg daily should have their dosage adjusted as follows:
+
+If neutropenia develops during treatment at 5 mg daily in MDS
 
 | When Neutrophils | Recommended Course |
 | --- | --- |
@@ -139,14 +141,18 @@ Dose Adjustments for Hematologic Toxicities During MCL Treatment
 
 Dose modification guidelines as summarized below are recommended to manage Grade 3 or 4 neutropenia or thrombocytopenia or other Grade 3 or 4 toxicities considered to be related to lenalidomide capsule.
 
-Platelet counts Thrombocytopenia during treatment in MCL
+Platelet counts
+
+Thrombocytopenia during treatment in MCL
 
 | When Platelets | Recommended Course |
 | --- | --- |
 | Fall below 50,000/mcL | Interrupt lenalidomide capsule treatment and follow CBC weekly |
 | Return to at least 50,000/mcL | Resume lenalidomide capsule at 5 mg less than the previous dose. Do not dose below 5 mg daily |
 
-Absolute Neutrophil counts (ANC) Neutropenia during treatment in MCL
+Absolute Neutrophil counts (ANC)
+
+Neutropenia during treatment in MCL
 
 | When Neutrophils | Recommended Course |
 | --- | --- |
@@ -197,10 +203,12 @@ Table 3: Dose Adjustments for Patients with Renal Impairment
 | --- | --- | --- | --- |
 | CLcr 30 to 60 mL/min | 10 mg once daily | 10 mg once daily | 5 mg once daily |
 | CLcr below 30 mL/min (not requiring dialysis) | 15 mg every other day | 5 mg once daily | 2.5 mg once daily |
-| CLcr below 30 mL/min (requiring dialysis) | 5 mg once daily. On dialysis days, administer the dose following dialysis. | 5 mg once daily. On dialysis days, administer the dose following dialysis | 2.5 mg once daily. On dialysis days, administer the dose following dialysis. |
+| CLcr below 30 mL/min (requiring dialysis) | 5 mg once daily. On dialysis days, administer the dose following dialysis. | 5 mg once daily. On dialysis days, administer the dose following dialysis. | 2.5 mg once daily. On dialysis days, administer the dose following dialysis. |
 
 Lenalidomide Combination Therapy for MM: For CLcr of 30 to 60 mL/min, consider escalating the dose to 15 mg after 2 cycles if the patient tolerates the 10 mg dose of lenalidomide without dose-limiting toxicity.
+
 Lenalidomide Capsule Maintenance Therapy Following Auto-HSCT for MM and for MCL and MDS: Base subsequent lenalidomide capsule dose increase or decrease on individual patient treatment tolerance [see Dosage and Administration (2.1- 2.3)].
+
 Lenalidomide Capsule Combination Therapy for FL or for MZL: For patients with CLcr of 30 to 60 mL/min, after 2 cycles, the lenalidomide capsule dose may be increased to 15 mg orally if the patient has tolerated therapy.
 
 ## 2.7 Administration

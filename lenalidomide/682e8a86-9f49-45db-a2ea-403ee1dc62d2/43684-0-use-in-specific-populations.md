@@ -71,7 +71,7 @@ Contraception
 
 Females
 
-Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control simultaneously: one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings, or implants), or partner's vasectomy, and 1 additional effective contraceptive method – male latex or synthetic condom, diaphragm, or cervical cap.
+Females of reproductive potential must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control simultaneously: one highly effective form of contraception – tubal ligation, IUD, hormonal (birth control pills, injections, hormonal patches, vaginal rings, or implants), or partner’s vasectomy, and 1 additional effective contraceptive method – male latex or synthetic condom, diaphragm, or cervical cap.
 Contraception must begin 4 weeks prior to initiating treatment with lenalidomide capsules, during therapy, during dose interruptions, and continuing for 4 weeks following discontinuation of lenalidomide capsules therapy.
 Reliable contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
 Females of reproductive potential should be referred to a qualified provider of contraceptive methods, if needed.

@@ -10,7 +10,7 @@ Lenalidomide is a thalidomide analogue and can cause serious birth defects or de
 - Advise females of reproductive potential that they must avoid pregnancy while taking lenalidomide capsules and for at least 4 weeks after completing therapy.
 - Initiate lenalidomide capsules treatment in females of reproductive potential only following a negative pregnancy test.
 - Advise females of reproductive potential of the importance of monthly pregnancy tests and the need to use 2 different forms of contraception including at least 1 highly effective form, simultaneously during lenalidomide capsules therapy, during dose interruption and for 4 weeks after she has completely finished taking lenalidomide capsules.
-  Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner's vasectomy.
+  Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner’s vasectomy.
   Additional effective contraceptive methods include latex or synthetic condom, diaphragm and cervical cap.
 - Instruct patient to immediately stop taking lenalidomide capsules and contact her healthcare provider if she becomes pregnant while taking this drug, if she misses her menstrual period, or experiences unusual menstrual bleeding, if she stops taking birth control, or if she thinks FOR ANY REASON that she may be pregnant.
 - Advise patient that if her healthcare provider is not available, she should call Cipla Ltd at 1-866-604-3268 [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
@@ -79,7 +79,7 @@ Dosing Instructions
 
 Inform patients how to take lenalidomide capsules [see Dosage and Administration (2)]
 
-- Lenalidomide capsules should be taken once daily at about the same time each day,
+- Lenalidomide capsules should be taken once daily at about the same time each day.
 - Lenalidomide capsules may be taken either with or without food.
 - The capsules should not be opened, broken, or chewed.
   Lenalidomide capsules should be swallowed whole with water.
@@ -88,18 +88,10 @@ Inform patients how to take lenalidomide capsules [see Dosage and Administration
   The next day, they should take lenalidomide capsules at the usual time.
   Warn patients to not take 2 doses to make up for the one that they missed.
 
-Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not trademarks of Exelan Pharmaceuticals, Inc.
+Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not trademarks of Cipla Ltd.
 
-Manufactured by:
+Manufactured by: Cipla Ltd. At M/s Genvion Corporation Winnipeg, Manitoba R2J 4K2 Canada
 
-Cipla Ltd.
-
-At M/s Genvion Corporation
-
-Winnipeg, Manitoba R2J 4K2 Canada
-
-Manufactured for: Exelan Pharmaceuticals, Inc.
-
-Boca Raton, FL 33432
+Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
 Revised: 8/2022

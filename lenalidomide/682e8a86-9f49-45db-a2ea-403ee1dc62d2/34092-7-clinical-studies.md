@@ -63,7 +63,7 @@ Table 13: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Populat
 | c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms. |  |  |  |
 | d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms. |  |  |  |
 | e Best assessment of response during the treatment phase of the study. |  |  |  |
-| f Including patients with no response assessment data or whose only assessment was "response not evaluable." |  |  |  |
+| f Including patients with no response assessment data or whose only assessment was “response not evaluable.” |  |  |  |
 | g Data cutoff date = 24 May 2013. |  |  |  |
 | h Data cutoff date = 3 March 2014. |  |  |  |
 
@@ -276,7 +276,7 @@ Table 18: Baseline Demographic and Disease-Related Characteristics in the MDS St
 | b French-American-British (FAB) classification of MDS. |  |  |
 
 The frequency of RBC transfusion independence was assessed using criteria modified from the International Working Group (IWG) response criteria for MDS.
-RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive "rolling" 56 days (8 weeks) during the treatment period.
+RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive “rolling” 56 days (8 weeks) during the treatment period.
 
 Transfusion independence was seen in 99/148 (67%) patients (95% CI [59, 74]).
 The median duration from the date when RBC transfusion independence was first declared (i.e., the last day of the 56-day RBC transfusion-free period) to the date when an additional transfusion was received after the 56-day transfusion-free period among the 99 responders was 44 weeks (range of 0 to >67 weeks).
@@ -298,7 +298,7 @@ Treatment was continued until disease progression, unacceptable toxicity, or wit
 The trial included patients who were at least 18 years of age with biopsy-proven MCL with measurable disease by CT scan.
 Patients were required to have received prior treatment with an anthracycline or mitoxantrone, cyclophosphamide, rituximab, and bortezomib, alone or in combination.
 Patients were required to have documented refractory disease (defined as without any response of PR or better during treatment with bortezomib or a bortezomib-containing regimen), or relapsed disease (defined as progression within one year after treatment with bortezomib or a bortezomib-containing regimen).
-At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert's syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
+At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert’s syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
 
 The median age was 67 years (43-83), 81% were male and 96% were Caucasian.
 The table below summarizes the baseline disease-related characteristics and prior anti-lymphoma therapy in the Mantle Cell Lymphoma trial.
@@ -346,7 +346,7 @@ AUGMENT included patients diagnosed with Grade 1, 2, or 3a follicular lymphoma, 
 Randomization was stratified by follicular versus marginal zone lymphoma, previous rituximab therapy, and time since other anti-lymphoma therapy.
 In AUGMENT, lenalidomide capsule was administered orally 20 mg once daily for Days 1 to 21 of repeating 28-day cycles for a maximum of 12 cycles or until unacceptable toxicity.
 The dose of rituximab was 375 mg/m2 every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every 28-day cycle from Cycles 2 through 5.
-All dosage calculations for rituximab were based on the patient's body surface area (BSA), using actual patient weight.
+All dosage calculations for rituximab were based on the patient’s body surface area (BSA), using actual patient weight.
 Dose adjustments for lenalidomide capsule were allowed based on clinical and laboratory findings.
 A patient with moderate renal insufficiency (≥30 to <60 mL/minute) received a lower lenalidomide capsule starting dose of 10 mg daily on the same schedule.
 After 2 cycles, the lenalidomide capsule dose could be increased to 15 mg once daily on Days 1 to 21 of each 28-day cycle if the patient tolerated the medication.

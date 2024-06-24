@@ -125,15 +125,15 @@ Table 4: All Adverse Reactions in ≥5% and Grade 3/4 Adverse Reactions in ≥1%
 | Renal and Urinary disorders |  |  |  |  |  |  |
 | Renal failure (including acute)c@,f | 49 (9) | 54 (10) | 37 (7) | 28 (5) | 33 (6) | 29 (5) |
 | Neoplasms benign, malignant and unspecified (Including cysts and polyps) |  |  |  |  |  |  |
-| Squamous cell carcinomace | < 5% | < 5% | < 5% | 8 (2) | < 1% | 0 (0) |
-| Basal cell carcinomace,f | < 5% | < 5% | < 5% | < 1% | < 1% | 0 (0) |
+| Squamous cell carcinoma ce | < 5% | < 5% | < 5% | 8 (2) | < 1% | 0 (0) |
+| Basal cell carcinoma ce,f | < 5% | < 5% | < 5% | < 1% | < 1% | 0 (0) |
 | Note: A subject with multiple occurrences of an adverse reaction is counted only once under the applicable Body System/Adverse Reaction. |  |  |  |  |  |  |
 | a All treatment-emergent adverse events in at least 5% of subjects in the Rd Continuous or Rd18 Arms and at least a 2% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. |  |  |  |  |  |  |
 | b All grade 3 or 4 treatment-emergent adverse events in at least 1% of subjects in the Rd Continuous or Rd18 Arms and at least a 1% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. |  |  |  |  |  |  |
 | c Serious treatment-emergent adverse events in at least 1% of subjects in the Rd Continuous or Rd18 Arms and at least a 1% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. |  |  |  |  |  |  |
 | d Preferred terms for the blood and lymphatic system disorders body system were included by medical judgment as known adverse reactions for Rd Continuous/Rd18, and have also been reported as serious. |  |  |  |  |  |  |
-| e Footnote "a" not applicable. |  |  |  |  |  |  |
-| f Footnote "b" not applicable. |  |  |  |  |  |  |
+| e Footnote “a” not applicable. |  |  |  |  |  |  |
+| f Footnote “b” not applicable. |  |  |  |  |  |  |
 | @ - adverse reactions in which at least one resulted in a fatal outcome. |  |  |  |  |  |  |
 | % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases). |  |  |  |  |  |  |
 | *Adverse reactions included in combined adverse reaction terms: |  |  |  |  |  |  |
@@ -233,15 +233,15 @@ Table 5: All Adverse Reactions in ≥5% and Grade 3/4 Adverse Reactions in ≥1%
 | Rhinorrhea e | 0 (0) | 3 (1) | 0 (0) | 0 (0) | 15 (5) | 6 (2) | 0 (0) | 0 (0) |
 | Pulmonary embolism c d e | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 3 (1) | 0 (0) | < 1% | 0 (0) |
 | Vascular disorders |  |  |  |  |  |  |  |  |
-| Deep vein thrombosis*c d % | 8 (4) | < 1% | 5 (2) | < 1% | 7 (2) | < 1% | 4 (1) | < 1% |
+| Deep vein thrombosis*c d % | 8 (4 | < 1% | 5 (2) | < 1% | 7 (2) | < 1% | 4 (1) | < 1% |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |  |  |
 | Myelodysplastic syndrome c d e | 5 (2) | 0 (0) | < 1% | 0 (0) | 3 (1) | 0 (0) | < 1% | 0 (0) |
 | Note: Adverse Events (AEs) are coded to Body System /Adverse Reaction using MedDRA v15.1. A subject with multiple occurrences of an adverse reaction is counted only once under the applicable Body System/Adverse Reaction. |  |  |  |  |  |  |  |  |
 | a All treatment-emergent AEs in at least 5% of patients in the lenalidomide capsule Maintenance group and at least 2% higher frequency (%) than the Placebo Maintenance group. |  |  |  |  |  |  |  |  |
 | b All grade 3 or 4 treatment-emergent AEs in at least 1% of patients in the lenalidomide capsule Maintenance group and at least 1% higher frequency (%) than the Placebo Maintenance group. |  |  |  |  |  |  |  |  |
 | c All serious treatment-emergent AEs in at least 1% of patients in the lenalidomide capsule Maintenance group and at least 1% higher frequency (%) than the Placebo Maintenance group. |  |  |  |  |  |  |  |  |
-| d Footnote "a" not applicable for either study |  |  |  |  |  |  |  |  |
-| e Footnote "b" not applicable for either study |  |  |  |  |  |  |  |  |
+| d Footnote “a” not applicable for either study |  |  |  |  |  |  |  |  |
+| e Footnote “b” not applicable for either study |  |  |  |  |  |  |  |  |
 | @ -ADRs where at least one resulted in a fatal outcome |  |  |  |  |  |  |  |  |
 | % - ADRs where at least one was considered to be Life Threatening (if the outcome of the event was death, it is included with death cases) |  |  |  |  |  |  |  |  |
 | # -All adverse reactions under Body System of Infections and Infestation except for rare infections of Public Health interest will be considered listed |  |  |  |  |  |  |  |  |
@@ -261,9 +261,9 @@ Most adverse reactions and Grade 3/4 adverse reactions were more frequent in pat
 
 Tables 6, 7, and 8 summarize the adverse reactions reported for lenalidomide/dexamethasone and placebo/dexamethasone groups.
 
-Table 6: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Difference in Proportion of Patients with MM between the Lenalidomide/dexamethasone and Placebo/dexamethasone Groups $EndTableFooter
+Table 6: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Difference in Proportion of Patients with MM between the Lenalidomide/dexamethasone and Placebo/dexamethasone Groups
 
-| Body System Adverse Reaction | Lenalidomide/Dex* (N=353) n (%) | Placebo/Dex * (N=350) n (%) |
+| Body System Adverse Reaction | Lenalidomide/Dex (N=353) n (%) | Placebo/Dex (N=350) n (%) |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Neutropenia% | 149 (42) | 22 (6) |
@@ -326,9 +326,9 @@ Table 6: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Differ
 | Hypertension | 28 (8) | 20 (6) |
 | Hypotension | 25 (7) | 15 (4) |
 
-Table 7: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and with a ≥1% Difference in Proportion of Patients with MM between the Lenalidomide/dexamethasone and Placebo/dexamethasone groups $EndTableFooter
+Table 7: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and with a ≥1% Difference in Proportion of Patients with MM between the Lenalidomide/dexamethasone and Placebo/dexamethasone groups
 
-| Body System Adverse Reaction | Lenalidomide/Dex# (N=353) n (%) | Placebo/Dex# (N=350) n (%) |
+| Body System Adverse Reaction | Lenalidomide/Dex (N=353) n (%) | Placebo/Dex (N=350) n (%) |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Neutropenia% | 118 (33) | 12 (3) |
@@ -372,7 +372,7 @@ Table 7: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and with a ≥1%
 
 Table 8: Serious Adverse Reactions Reported in ≥1% Patients and with a ≥1% Difference in Proportion of Patients with MM between the Lenalidomide/dexamethasone and Placebo/dexamethasone Groups
 
-| Body System Adverse Reaction | Lenalidomide/Dex& (N=353) n (%) | Placebo/Dex& (N=350) n (%) |
+| Body System Adverse Reaction | Lenalidomide/Dex (N=353) n (%) | Placebo/Dex (N=350) n (%) |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Febrile neutropenia% | 6 (2) | 0 (0) |
@@ -392,8 +392,8 @@ Table 8: Serious Adverse Reactions Reported in ≥1% Patients and with a ≥1% D
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone pain | 4 (1) | 0 (0) |
 | For Tables 6, 7 and 8 above: |  |  |
-| @ - adverse reactions in which at least one resulted in a fatal outcome |  |  |
-| % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases) |  |  |
+| @ - adverse reactions in which at least one resulted in a fatal outcome. |  |  |
+| % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases). |  |  |
 
 Median duration of exposure among patients treated with lenalidomide/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks.
 This should be taken into consideration when comparing frequency of adverse reactions between two treatment groups lenalidomide/dexamethasone vs. placebo/dexamethasone.
@@ -456,7 +456,7 @@ Thrombocytopenia (61.5%; 91/148) and neutropenia (58.8%; 87/148) were the most f
 The next most common adverse reactions observed were diarrhea (48.6%; 72/148), pruritus (41.9%; 62/148), rash (35.8%; 53/148) and fatigue (31.1%; 46/148).
 Table 9 summarizes the adverse reactions that were reported in ≥ 5% of the lenalidomide capsule treated patients in the del 5q MDS clinical study.
 Table 10 summarizes the most frequently observed Grade 3 and Grade 4 adverse reactions regardless of relationship to treatment with lenalidomide capsule.
-In the single-arm studies conducted, it is often not possible to distinguish adverse reactions that are drug-related and those that reflect the patient's underlying disease.
+In the single-arm studies conducted, it is often not possible to distinguish adverse reactions that are drug-related and those that reflect the patient’s underlying disease.
 
 Table 9: Summary of Adverse Reactions Reported in ≥5% of the Lenalidomide Capsule Treated Patients in del 5q MDS Clinical Study
 
@@ -534,7 +534,7 @@ Cardiac disorders: cardiac failure congestive, atrial fibrillation, angina pecto
 
 Ear and labyrinth disorders: vertigo
 
-Endocrine disorders: Basedow's disease
+Endocrine disorders: Basedow’s disease
 
 Gastrointestinal disorders: gastrointestinal hemorrhage, colitis ischemic, intestinal perforation, rectal hemorrhage, colonic polyp, diverticulitis, dysphagia, gastritis, gastroenteritis, gastroesophageal reflux disease, obstructive inguinal hernia, irritable bowel syndrome, melena, pancreatitis due to biliary obstruction, pancreatitis, perirectal abscess, small intestinal obstruction, upper gastrointestinal hemorrhage
 
@@ -653,33 +653,11 @@ Table 11: Incidence of Adverse Reactions (≥10%) or Grade 3 / 4 AE (in at least
 
 The following adverse reactions which have occurred in other indications including another MCL study and not described above have been reported (1%-10%) in patients treated with lenalidomide capsule monotherapy for mantle cell lymphoma.
 
-Cardiac disorder: Cardiac failure
-
-Ear and labyrinth disorders: Vertigo
-
-General disorders and administration site conditions: Chills
-
-Infections and infestations: Respiratory tract infection, sinusitis, nasopharyngitis, oral herpes
-
-Musculoskeletal and connective tissue disorders: Pain in extremity
-
-Nervous system disorders: Dysgeusia, headache, neuropathy peripheral, lethargy
-
-Psychiatric disorders: Insomnia
-
-Skin and subcutaneous tissue disorders: Dry skin, night sweats
+Cardiac disorder: Cardiac failure Ear and labyrinth disorders: Vertigo General disorders and administration site conditions: Chills Infections and infestations: Respiratory tract infection, sinusitis, nasopharyngitis, oral herpes Musculoskeletal and connective tissue disorders: Pain in extremity Nervous system disorders: Dysgeusia, headache, neuropathy peripheral, lethargy Psychiatric disorders: Insomnia Skin and subcutaneous tissue disorders: Dry skin, night sweats
 
 The following serious adverse reactions not described above and reported in 2 or more patients treated with lenalidomide capsule monotherapy for mantle cell lymphoma.
 
-Blood and lymphatic system disorders: Neutropenia
-
-Cardiac disorder: Myocardial infarction (including acute MI), supraventricular tachycardia
-
-Infections and infestations: Clostridium difficile colitis, sepsis
-
-Neoplasms benign, malignant and unspecified (including cysts and polyps): Basal cell carcinoma
-
-Respiratory, thoracic, and mediastinal disorders: Chronic obstructive pulmonary disease, pulmonary embolism
+Blood and lymphatic system disorders: Neutropenia Cardiac disorder: Myocardial infarction (including acute MI), supraventricular tachycardia Infections and infestations: Clostridium difficile colitis, sepsis Neoplasms benign, malignant and unspecified (including cysts and polyps): Basal cell carcinoma Respiratory, thoracic, and mediastinal disorders: Chronic obstructive pulmonary disease, pulmonary embolism
 
 Follicular Lymphoma or Marginal Zone Lymphoma
 
@@ -785,16 +763,16 @@ Table 12: All Grade Adverse Reactions (≥5%) or Grade 3/4 Adverse Reactions (�
 | @ - adverse reactions in which at least one resulted in a fatal outcome. |  |  |  |  |
 | % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases). |  |  |  |  |
 | *Adverse Reactions for combined ADR terms (based on relevant TEAE PTs [per MedDRA version 21.0]): |  |  |  |  |
-| a "Thromboembolic events" combined term includes the following PTs: pulmonary embolism, deep vein thrombosis, cerebrovascular accident, embolism, and thrombosis. |  |  |  |  |
-| b "Cough" combined AE term includes the following PTs: cough and productive cough. |  |  |  |  |
-| c "Abdominal pain" combined AE term includes the following PTs: abdominal pain and abdominal pain upper. |  |  |  |  |
-| d "Rash" combined AE term includes the following PTs: rash maculo-papular, rash erythematous, rash macular, rash papular, rash pruritic, and rash generalized. |  |  |  |  |
-| e "Pruritus" combined AE term includes the following PTs: pruritus, pruritus generalized, rash pruritic, and pruritus allergic. |  |  |  |  |
+| a “Thromboembolic events” combined term includes the following PTs: pulmonary embolism, deep vein thrombosis, cerebrovascular accident, embolism, and thrombosis. |  |  |  |  |
+| b “Cough” combined AE term includes the following PTs: cough and productive cough. |  |  |  |  |
+| c “Abdominal pain” combined AE term includes the following PTs: abdominal pain and abdominal pain upper. |  |  |  |  |
+| d “Rash” combined AE term includes the following PTs: rash maculo-papular, rash erythematous, rash macular, rash papular, rash pruritic, and rash generalized. |  |  |  |  |
+| e “Pruritus” combined AE term includes the following PTs: pruritus, pruritus generalized, rash pruritic, and pruritus allergic. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
 The following adverse drug reactions have been identified from the worldwide post-marketing experience with lenalidomide.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure [see Warnings and Precautions Section (5.8 to 5.11, and 5.13)].
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure [see Warnings and Precautions Section (5.8 to 5.11 and 5.13)].
 
 Endocrine disorders: Hypothyroidism, hyperthyroidism
 
