@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA074093"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-333-12",
+    "62135-334-12",
+    "62135-335-90",
+    "62135-336-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "diltiazem hydrochloride",
+      "name": "Diltiazem Hydrochloride"
+    }
+  ],
+  "setid": "51abce7b-e3d1-44b5-bccc-d463150d0bba",
+  "source": "dailymed"
+}
