@@ -1,4 +1,4 @@
-# CONTRAINDICATION
+# 4 CONTRAINDICATIONS
 
-Vancomycin is contraindicated in patients with known hypersensitivity to this antibiotic.
-Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products.
+- •Vancomycin Injection is contraindicated in patients with known hypersensitivity to vancomycin.
+- •Solutions containing dextrose including Vancomycin Injection, may be contraindicated in patients with a known allergy to corn or corn products.

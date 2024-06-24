@@ -1,52 +1,50 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Infusion-Related Events
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-During or soon after rapid infusion of vancomycin, patients may develop anaphylactoid reactions, including hypotension (see ANIMAL PHARMACOLOGY), wheezing, dyspnea, urticaria, or pruritus.
-Rapid infusion may also cause flushing of the upper body (“vancomycin infusion reaction”) or pain and muscle spasm of the chest and back.
-These reactions usually resolve within 20 minutes but may persist for several hours.
-Such events are infrequent if vancomycin is given by a slow infusion over 60 minutes.
-In studies of normal volunteers, infusion-related events did not occur when vancomycin was administered at a rate of 10 mg/min or less.
+- •Infusion Reactions [see Warnings and Precautions (5.1)]
+- •Nephrotoxicity [see Warnings and Precautions (5.2)]
+- •Ototoxicity [see Warnings and Precautions (5.3)]
+- •Severe Dermatologic Reactions [see Warnings and Precautions (5.4)]
+- •Clostridioides Difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- •Hemorrhagic Occlusive Retinal Vasculitis [see Warnings and Precautions (5.6)]
+- •Neutropenia [see Warnings and Precautions (5.7)]
+- •Phlebitis and Other Administration Site Reactions [see Warnings and Precautions (5.8)].
 
-## Nephrotoxicity
+## 6.1 Clinical Trials Experience
 
-Systemic vancomycin exposure may result in acute kidney injury (AKI).
-The risk of AKI increases as systemic exposure/serum levels increase.
-Additional risk factors for AKI in patients receiving vancomycin include receipt of concomitant drugs known to be nephrotoxic, in patients with pre-existing renal impairment or with co-morbidities that predispose to renal impairment.
-Interstitial nephritis has also been reported in patients receiving vancomycin.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following adverse reactions associated with the use of vancomycin were identified in clinical trials:
 
-## Gastrointestinal
+Immune System Disorders: Anaphylaxis and “vancomycin infusion reaction”
 
-Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS).
+Renal and urinary Disorders: Acute kidney injury and interstitial nephritis
 
-## Ototoxicity
+Ear and Labyrinth Disorders: Hearing loss, vertigo, and tinnitus
 
-A few dozen cases of hearing loss associated with vancomycin have been reported.
-Most of these patients had kidney dysfunction or a preexisting hearing loss or were receiving concomitant treatment with an ototoxic drug.
-Vertigo, dizziness, and tinnitus have been reported rarely.
+Skin and subcutaneous tissue disorders: Rashes including exfoliative dermatitis, and Stevens-Johnson syndrome (SJS)
 
-## Hematopoietic
+Gastrointestinal Disorders: Clostridioides difficile colitis, nausea
 
-Reversible neutropenia, usually starting 1 week or more after onset of therapy with vancomycin or after a total dosage of more than 25 g, has been reported for several dozen patients.
-Neutropenia appears to be promptly reversible when vancomycin is discontinued.
-Thrombocytopenia has rarely been reported.
-Although a causal relationship has not been established, reversible agranulocytosis (granulocytes <500/mm3) has been reported rarely.
+Blood and Lymphatic System Disorders: Agranulocytosis, neutropenia, pancytopenia, leukopenia, thrombocytopenia, eosinophilia
 
-## Phlebitis
+Cardiac Disorders: Cardiac arrest, chest pain
 
-Inflammation at the injection site has been reported.
+General Disorders and Administration Site Conditions: General discomfort, drug fever, chills, phlebitis, injection site irritation, injection site pain and necrosis following intramuscular injection, chemical peritonitis following intraperitoneal administration (Vancomycin Injection is not approved for intramuscular and intraperitoneal administration)
 
-## Miscellaneous
+Laboratory Abnormalities: Elevated blood urea nitrogen, elevated serum creatinine
 
-Patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes including exfoliative dermatitis, Stevens-Johnson syndrome (see WARNINGS, Severe Dermatologic Reactions), and vasculitis in association with administration of vancomycin.
+Musculoskeletal and connective tissue disorders: Muscle pain
 
-Chemical peritonitis has been reported following intraperitoneal administration of vancomycin (see PRECAUTIONS).
+Nervous system disorders: Dizziness
 
-## Post Marketing Reports
+Respiratory, thoracic and mediastinal disorders: Wheezing, dyspnea
 
-The following adverse reactions have been identified during post-approval use of vancomycin.
+Vascular disorders: Hypotension, shock, vasculitis
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postmarketing use of vancomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-### Skin and Subcutaneous Tissue Disorders
-
-Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) (see WARNINGS, Severe Dermatologic Reactions).
+Skin and Subcutaneous Tissue Disorders: Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD).

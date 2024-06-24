@@ -1,26 +1,31 @@
-# HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Vancomycin Injection, USP is supplied as a frozen, iso-osmotic, premixed solution in a 100 mL, 200 mL or 250 mL single-dose GALAXY plastic container in the following vancomycin doses in 5% Dextrose or 0.9% Sodium Chloride:
+How Supplied
 
-| Vancomycin Injection, USP in 5% Dextrose |  |  |
+Vancomycin Injection, USP is supplied as a frozen, iso-osmotic, premixed solution packaged in a single-dose GALAXY plastic container and is available as follows:
+
+| Supply Information for Vancomycin Injection, in 5% Dextrose |  |  |
 | --- | --- | --- |
-| 2G3551 | 500 mg/100 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-3551-48 |
-| 2G3580 | 750 mg/150 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-3580-48 |
-| 2G3552 | 1 g/200 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-3552-48 |
-| 2G3557 | 1.25 g/250 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-0122-04 |
-| 2G3558 | 1.5 g/300 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-0124-04 |
+| Strength | Number of Containers/ Carton | NDC |
+| 500 mg of vancomycin / 100 mL (5 mg/mL) | 12 count | 0338-3551-48 |
+| 750 mg of vancomycin / 150 mL (5 mg/mL) | 6 count | 0338-3580-48 |
+| 1 g of vancomycin / 200 mL (5mg/mL) | 6 count | 0338-3552-48 |
+| 1.25 g of vancomycin / 250 mL (5 mg/mL) | 4 count | 0338-0122-04 |
+| 1.5 g of vancomycin / 300 mL (5 mg/mL) | 4 count | 0338-0124-04 |
 
-| Vancomycin Injection, USP in 0.9% Sodium Chloride |  |  |
+| Supply Information for Vancomycin Injection, in 0.9% Sodium Chloride |  |  |
 | --- | --- | --- |
-| 2G3590 | 500 mg/100 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-3581-01 |
-| 2G3591 | 750 mg/150 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-3582-01 |
-| 2G3592 | 1 g/200 mL (5 mg/mL) in single dose GALAXY container | NDC 0338-3583-01 |
+| Strength | Number of Containers/ Carton | NDC |
+| 500 mg of vancomycin / 100 mL (5 mg/mL) | 12 count | 0338-3581-01 |
+| 750 mg vancomycin / 150 mL (5 mg/mL) | 6 count | 0338-3582-01 |
+| 1 g of vancomycin / 200 mL (5mg/mL) | 6 count | 0338-3583-01 |
 
-Store at or below -20°C (-4°F).
+Storage
 
-See DIRECTIONS FOR USE OF Vancomycin Injection, USP in GALAXY plastic container.
+Store Vancomycin Injection at or below -20°C (-4°F) or Store in a freezer capable of maintaining a temperature at or below -20°C (-4°F).
+Storage of the thawed solution is described elsewhere in the labeling [see Dosage and Administration (2.5)]
 
-The thawed solution in GALAXY plastic container remains chemically stable for 72 hours at room temperature (25°C/77°F) or for 30 days when stored under refrigeration (5°C/41°F).
-Do not refreeze.
+Handling
+
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
