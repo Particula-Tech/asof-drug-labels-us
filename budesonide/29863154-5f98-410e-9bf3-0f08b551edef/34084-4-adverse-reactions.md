@@ -4,8 +4,9 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Hypercorticism and adrenal axis suppression [see Warnings and Precautions (5.1)]
 - Symptoms of steroid withdrawal in those patients transferred from other systemic corticosteroids [see Warnings and Precautions (5.2)]
-- Increased risk of infection [see Warnings and Precautions (5.3)]
-- Other corticosteroid effects [see Warnings and Precautions (5.4)]
+- Immunosuppression and increased risk of infection [see Warnings and Precautions (5.3)]
+- Kaposi's sarcoma [see Warnings and Precautions (5.4)]
+- Other corticosteroid effects [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,7 +43,7 @@ Table 1 Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 
 The incidence of signs and symptoms of hypercorticism reported by active questioning of patients in 4 of the 5 short-term clinical trials are displayed in Table 2.
 
-Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment ClinicalTrials
+Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment Clinical Trials
 
 |  | Budesonide Capsules (Enteric Coated) 9 mg n=427 | Placebo n=107 | Prednisolone1 40 mg n=145 |
 | --- | --- | --- | --- |
@@ -53,7 +54,7 @@ Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Trea
 | Moon Face | 46(11) | 4(4) | 53(37)2 |
 | Swollen Ankles | 32(7) | 6(6) | 13(9) |
 | Hirsutism3 | 22(5) | 2(2) | 5(3) |
-| Buffalo hump | 6(1) | 2(2) | 5(3) |
+| Buffalo Hump | 6(1) | 2(2) | 5(3) |
 | Skin Striae | 4(1) | 2(2) | 0(0) |
 | 1 Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week. |  |  |  |
 | 2 Statistically significantly different from budesonide capsules (enteric coated) 9 mg. |  |  |  |
@@ -69,7 +70,7 @@ In the long-term clinical trials, the following adverse reactions occurred in gr
 
 Signs/symptoms of hypercorticism reported by active questioning of patients in the long-term maintenance clinical trials are displayed in Table 3.
 
-Table 3 Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term Studies
+Table 3 Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term Clinical Trials
 
 |  | Budesonide Capsules (Enteric Coated) 3 mg n=88 | Budesonide Capsules (Enteric Coated) 6 mg n=145 | Placebo n=143 |
 | --- | --- | --- | --- |
@@ -80,7 +81,7 @@ Table 3 Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term S
 | Hirsutism | 2(2) | 5(3) | 1(1) |
 | Swollen ankles | 2(2) | 3(2) | 3(2) |
 | Buffalo hump | 1(1) | 1(1) | 0 |
-| Skin striae | 2(2) | 0(0) | 0 |
+| Skin striae | 2(2) | 0 | 0 |
 
 The incidence of signs/symptoms of hypercorticism as described above in long-term maintenance clinical trials was similar to that seen in the short-term treatment clinical trials.
 
