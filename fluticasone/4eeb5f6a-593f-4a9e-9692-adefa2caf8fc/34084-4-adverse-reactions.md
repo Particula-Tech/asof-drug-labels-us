@@ -1,22 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-Use of LABA may result in the following:
-
-- •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
-- •Cardiovascular and central nervous system effects [see Warnings and Precautions (5.12)]
-
-Systemic and local corticosteroid use may result in the following:
-
-- •Candida albicans infection [see Warnings and Precautions (5.4)]
-- •Pneumonia in patients with COPD [see Warnings and Precautions (5.5)]
-- •Immunosuppression [see Warnings and Precautions (5.6)]
-- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
-- •Reduction in bone mineral density [see Warnings and Precautions (5.13)]
-- •Growth effects [see Warnings and Precautions (5.14)]
-- •Glaucoma and cataracts [see Warnings and Precautions (5.15)]
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 ## 6.1 Clinical Trials Experience in Asthma
 
 Adult and Adolescent Subjects Aged 12 Years and Older

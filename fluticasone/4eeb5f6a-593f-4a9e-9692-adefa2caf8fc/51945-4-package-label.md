@@ -6,7 +6,7 @@ ADVAIR DISKUS
 
 (fluticasone propionate and salmeterol inhalation powder)
 
-100/50
+100 mcg/50 mcg
 
 FOR ORAL INHALATION ONLY
 
@@ -16,10 +16,12 @@ Rx only
 
 1 DISKUS Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2020 GSK group of companies or its licensor.
+GSK
 
-1. 62000000053664 Rev.
-   9/20
+©2023 GSK group of companies or its licensor.
+
+1. 62000000089727 Rev.
+   8/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -29,7 +31,7 @@ ADVAIR DISKUS
 
 (fluticasone propionate and salmeterol inhalation powder)
 
-250/50
+250 mcg/50 mcg
 
 FOR ORAL INHALATION ONLY
 
@@ -39,10 +41,12 @@ Rx only
 
 1 DISKUS Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2020 GSK group of companies or its licensor.
+GSK
 
-1. 6200000053705 Rev.
-   9/20
+©2023 GSK group of companies or its licensor.
+
+1. 6200000089733 Rev.
+   8/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -52,7 +56,7 @@ ADVAIR DISKUS
 
 (fluticasone propionate and salmeterol inhalation powder)
 
-500/50
+500 mcg/50 mcg
 
 FOR ORAL INHALATION ONLY
 
@@ -62,7 +66,9 @@ Rx only
 
 1 DISKUS Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2020 GSK group of companies or its licensor.
+GSK
 
-1. 62000000053711 Rev.
-   9/20
+©2023 GSK group of companies or its licensor.
+
+1. 62000000089725 Rev.
+   8/23
