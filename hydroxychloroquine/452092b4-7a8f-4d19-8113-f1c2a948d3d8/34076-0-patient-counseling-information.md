@@ -19,6 +19,12 @@ Serious Skin Reactions
 Inform the patient that severe, life-threatening skin reactions have been reported with the use of hydroxychloroquine sulfate tablets.
 Advise the patient to seek medical attention immediately if experiencing any of the following signs and symptoms: blisters on the skin, eyes, lips or in the mouth, itching or burning, with or without fever [see Warnings and Precautions (5.3)].
 
+Hepatotoxicity Associated with Porphyria Cutanea Tarda
+
+Inform the patient that liver toxicity has been reported in when hydroxychloroquine sulfate tablets was used in patients with porphyria cutanea tarda.
+In some cases, PCT was diagnosed only after the occurrence of liver injury, when hydroxychloroquine sulfate tablets was prescribed for an approved indication.
+Advise the patient to seek medical attention if experiencing fatigue, rash, nausea, dark urine, or jaundice [see Warnings and Precautions (5.5)].
+
 Skeletal Muscle Myopathy or Neuropathy
 
 Inform the patient that muscle weakness and atrophy has been reported with hydroxychloroquine sulfate tablets use Advise patients to report to the physician symptoms of muscle weakness [see Warnings and Precautions (5.8)].
@@ -49,6 +55,6 @@ Dr. Reddy's Laboratories Inc.
 
 Princeton, NJ 08540 USA
 
-Revision Date: 08/2023
+Revision Date:04/2024
 
 200266

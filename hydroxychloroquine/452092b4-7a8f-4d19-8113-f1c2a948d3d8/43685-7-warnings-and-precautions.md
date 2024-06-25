@@ -46,7 +46,7 @@ Discontinue hydroxychloroquine sulfate tablets if these severe reactions occur.
 
 ## 5.4 Worsening of Psoriasis
 
-Administration of hydroxychloroquine sulfate tablets in patients with psoriasis may precipitate a severe flare-up of psoriasis.
+Administration of hydroxychloroquine sulfate tablets to patients with psoriasis may precipitate a severe flare-up of psoriasis.
 Avoid hydroxychloroquine sulfate tablets in patients with psoriasis, unless the benefit to the patient outweighs the possible risk.
 
 ## 5.5 Risks Associated with Use in Porphyria
@@ -101,7 +101,7 @@ Measure blood glucose in patients presenting with clinical symptoms suggestive o
 Warn hydroxychloroquine sulfate tablets -treated patients about the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia; diabetic patients should monitor their blood sugar levels.
 Advise patients to seek medical attention if they develop any signs and symptoms of hypoglycemia.
 
-## 5.11 Renal Toxicity
+## 5.11 Renal toxicity
 
 Proteinuria with or without moderate reduction in glomerular filtration rate have been reported with the use of hydroxychloroquine sulfate tablets.
 
