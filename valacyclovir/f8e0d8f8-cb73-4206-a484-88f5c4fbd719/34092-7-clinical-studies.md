@@ -35,7 +35,7 @@ The median time to cessation of pain was about 3 days in both treatment groups.
 
 Suppressive Therapy
 
-Two clinical trials were conducted, one in immunocompetent adults and one in HIV-1-infected adults.
+Two clinical trials were conducted, one in immunocompetent adults and one in HIV-1–infected adults.
 
 A double‑blind, 12‑month, placebo‑ and active‑controlled trial enrolled immunocompetent adults with a history of 6 or more recurrences per year.
 Outcomes for the overall trial population are shown in Table 8.
@@ -53,14 +53,14 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 Subjects with 9 or fewer recurrences per year showed comparable results with VALTREX 500 mg once daily.
 
-In a second trial, 293 HIV‑1−infected adults on stable antiretroviral therapy with a history of 4 or more recurrences of ano‑genital herpes per year were randomized to receive either VALTREX 500 mg twice daily (n = 194) or matching placebo (n = 99) for 6 months.
+In a second trial, 293 HIV‑1–infected adults on stable antiretroviral therapy with a history of 4 or more recurrences of ano‑genital herpes per year were randomized to receive either VALTREX 500 mg twice daily (n = 194) or matching placebo (n = 99) for 6 months.
 The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
 Overall, the median pretrial HIV‑1 RNA was 2.6 log10 copies/mL.
 Among subjects who received VALTREX, the pretrial median CD4+ cell count was 336 cells/mm3; 11% had less than 100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had greater than or equal to 500 cells/mm3.
 Outcomes for the overall trial population are shown in Table 9.
 
 Table 9.
-Recurrence Rates in HIV-1−Infected Adults at 6 Months
+Recurrence Rates in HIV-1–Infected Adults at 6 Months
 
 | Outcome | VALTREX500 mg Twice Daily(n = 194) | Placebo(n = 99) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
