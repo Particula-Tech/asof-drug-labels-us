@@ -44,7 +44,7 @@ Patients Aged 12 weeks (3 months) and Older and Weighing Less than 40 kg: See do
 
 - The every 12 hour regimen is recommended as it is associated with significantly less diarrhea [see Clinical Studies (14.2)].
 
-- The amoxicillin and clavulanate potassium 200 mg/28.5 mg per 5 mL and amoxicillin and clavulanate potassium 400 mg/57 mg per 5 mL for oral suspension and amoxicillin and clavulanate potassium 200 mg/28.5 mg and amoxicillin and clavulanate potassium 400 mg/57 mg chewable tablets contain aspartame and should not be used by phenylketonurics [see Warnings and Precautions (5.7)].
+- The amoxicillin and clavulanate potassium 200 mg/28.5 mg per 5 mL and amoxicillin and clavulanate potassium 400 mg/57 mg per 5 mL for oral suspension and amoxicillin and clavulanate potassium 200 mg/28.5 mg and amoxicillin and clavulanate potassium 400 mg/57 mg chewable tablets contain aspartame and should not be used by phenylketonurics [see Warnings and Precautions (5.8)].
 
 Table 3: Dosing in Patients Aged 12 Weeks (3 Months) and Older and Weighing Less than 40 kg
 
@@ -79,7 +79,7 @@ Dosing Regimens of Amoxicillin and clavulanate potassium in Patients with Severe
 | GFR less than 10 mL/min | 500 mg or 250 mg every 24 hours, depending on severity of the infection |
 | Hemodialysis | 500 mg or 250 mg every 24 hours, depending on severity of the infection Administer an additional dose both during and at the end of dialysis |
 
-## 2.5 Directions for Mixing Oral Suspension
+## 2.5 Directions for Mixing Amoxicillin and Clavulanate Potassium for Oral Suspension
 
 Prepare Amoxicillin and clavulanate potassium for oral suspension at time of dispensing as follows: Tap bottle until all powder flows freely.
 Measure a total (see Table 5 below for total amount of water for reconstitution) OF WATER.
