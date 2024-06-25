@@ -42,7 +42,7 @@ Table 1: Multiple Dose, Placebo-Controlled Studies—Frequent (>2%) Adverse Reac
 | Speech disorder | 0 | 3 |
 | Amblyopia (blurred vision) | <1 | 3 |
 | Urinary frequency | 2 | 3 |
-| Flu symptom | 2 | 3 |
+| Flu syndrome | 2 | 3 |
 | Dyskinesia | 0 | 3 |
 | Nervousness | <1 | 3 |
 | Pharyngitis | 1 | 3 |

@@ -39,7 +39,7 @@ Consider discontinuing tizanidine in patients who develop hallucinations.
 ## 5.5 Interaction with CYP1A2 Inhibitors
 
 Because of potential drug interactions, tizanidine is contraindicated in patients taking potent CYP1A2 inhibitors, such as fluvoxamine or ciprofloxacin.
-Adverse reactions such as hypotension, bradycardia, or excessive drowsiness can occur when tizanidine is taken with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than ciprofloxacin (which is contraindicated), antiarrythmics (amiodarone, mexiletine, propafenone), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine).
+Adverse reactions such as hypotension, bradycardia, or excessive drowsiness can occur when tizanidine is taken with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than ciprofloxacin (which is contraindicated), antiarrhythmics (amiodarone, mexiletine, propafenone), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine).
 Concomitant use should be avoided unless the necessity for tizanidine therapy is clinically evident.
 In such a case, use with caution.
 [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)]

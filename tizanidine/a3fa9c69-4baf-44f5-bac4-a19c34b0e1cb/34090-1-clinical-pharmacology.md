@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of action
+## 12.1 Mechanism of Action
 
 Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons.
 The effects of tizanidine are greatest on polysynaptic pathways.
@@ -26,7 +26,7 @@ Consequently, the mean Cmax for the capsule when administered with food is appro
 
 Food also increased the extent of absorption for both the tablets and capsules.
 The increase with the tablet (~30%) was significantly greater than with the capsule (~10%).
-Consequently when each was administered with food, the amount absorbed from the capsule was about 80% of the amount absorbed from the tablet.
+Consequently, when each was administered with food, the amount absorbed from the capsule was about 80% of the amount absorbed from the tablet.
 Administration of the capsule contents sprinkled on applesauce was not bioequivalent to administration of an intact capsule under fasting conditions.
 Administration of the capsule contents on applesauce resulted in a 15%–20% increase in Cmax and AUC of tizanidine and a 15 minute decrease in the median lag time and time to peak concentration compared to administration of an intact capsule while fasting.
 
@@ -42,20 +42,20 @@ Tizanidine metabolites are not known to be active; their half-lives range from 2
 
 Following single and multiple oral dosing of 14C-tizanidine, an average of 60% and 20% of total radioactivity was recovered in the urine and feces, respectively.
 
-Special Populations
+Specific Populations
 
 Age Effects
 
 No specific pharmacokinetic study was conducted to investigate age effects.
 Cross study comparison of pharmacokinetic data following single dose administration of 6 mg tizanidine showed that younger subjects cleared the drug four times faster than the elderly subjects.
 Tizanidine has not been evaluated in children.
-[see Use in Specific Populations (8.4, 8.5)]
+[see Use in Specific Populations (8.4, 8.5)].
 
 Hepatic Impairment
 
 The influence of hepatic impairment on the pharmacokinetics of tizanidine has not been evaluated.
 Because tizanidine is extensively metabolized in the liver, hepatic impairment would be expected to have significant effects on pharmacokinetics of tizanidine.
-Tizanidine is not recommended in this patient population [see Use in Specific Populations (8.7)]
+Tizanidine is not recommended in this patient population [see Use in Specific Populations (8.7)].
 
 Renal Impairment
 
@@ -77,12 +77,12 @@ CYP1A2 Inhibitors
 
 The interaction between tizanidine and either fluvoxamine or ciprofloxacin is most likely due to inhibition of CYP1A2 by fluvoxamine or ciprofloxacin.
 The effect of fluvoxamine on the pharmacokinetics of a single 4 mg dose of tizanidine was studied in 10 healthy subjects.
-The Cmax, AUC, and half-life of tizanidine increased by 12- fold, 33-fold, and 3-fold, respectively.
+The Cmax, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively.
 The effect of ciprofloxacin on the pharmacokinetics of a single 4 mg dose of tizanidine was studied in 10 healthy subjects.
 The Cmax and AUC of tizanidine increased by 7-fold and 10-fold, respectively.
 [see Contraindications (4)]
 
-Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations [see Warnings and Precautions (5.5)].
+Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrhythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations [see Warnings and Precautions (5.5)].
 
 In vitro studies of cytochrome P450 isoenzymes using human liver microsomes indicate that neither tizanidine nor the major metabolites are likely to affect the metabolism of other drugs metabolized by cytochrome P450 isoenzymes.
 

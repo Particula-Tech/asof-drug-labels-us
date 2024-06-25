@@ -8,12 +8,12 @@ Changes in pharmacokinetics of tizanidine when administered with fluvoxamine res
 
 ## 7.2 Ciprofloxacin
 
-Concomitant use of ciprofoxacin and tizanidine is contraindicated.
+Concomitant use of ciprofloxacin and tizanidine is contraindicated.
 Changes in pharmacokinetics of tizanidine when administered with ciprofloxacin resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment [see Contraindications (4) and Clinical Pharmacology (12.3)]
 
 ## 7.3 CYP1A2 Inhibitors other than Fluvoxamine and Ciprofloxacin
 
-Because of potential drug interactions, concomitant use of tizanidine with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than strong CYP1A2 inhibitors (which are contraindicated), antiarrythmics (amiodarone, mexiletine, propafenone, and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine) should be avoided.
+Because of potential drug interactions, concomitant use of tizanidine with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than strong CYP1A2 inhibitors (which are contraindicated), antiarrhythmics (amiodarone, mexiletine, propafenone, and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine) should be avoided.
 If their use is clinically necessary, therapy should be initiated with 2 mg dose and increased in 2–4 mg steps daily based on patient response to therapy.
 If adverse reactions such as hypotension, bradycardia, or excessive drowsiness occur, reduce or discontinue tizanidine therapy.
 [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)]
@@ -38,7 +38,7 @@ The sedative effects of tizanidine with CNS depressants (e.g., benzodiazepines, 
 Monitor patients who take tizanidine with another CNS depressant for symptoms of excess sedation.
 [see Clinical Pharmacology (12.3)]
 
-## 7.7 a2-adrenergic agonists
+## 7.7 a2-Adrenergic Agonists
 
 Because hypotensive effects may be cumulative, it is not recommended that tizanidine be used with other α2-adrenergic agonists.
 [see Warnings and Precautions (5.1)]
