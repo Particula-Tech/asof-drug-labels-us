@@ -87,9 +87,8 @@ Keep a list of them to show your healthcare provider and pharmacist each time yo
 How should I take levetiracetam oral solution?
 
 - Take levetiracetam oral solution exactly as your healthcare provider tells you to take it.
-
 - Your healthcare provider will tell you how much levetiracetam oral solution to take and when to take it.
-  Levetiracetam oral solution is usually taken 2 times each day.
+  Levetiracetam oral solution is usually taken 2 times each day
 - Your healthcare provider may change your dose.
   Do not change your dose without talking to your healthcare provider.
 - Take levetiracetam oral solution with or without food.
@@ -118,6 +117,15 @@ Call your healthcare provider right away if you have any of these symptoms:
 - a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam oral solution.
   There is no way to tell if a mild rash will become a serious reaction.
+- a serious allergic reaction that may affect your skin or other parts of your body such as your liver, kidneys, heart, or blood cells.
+  This allergic reaction can be life-threatening and can cause death, particularly if it is not treated as early as possible.
+  Call your healthcare provider right away if you have:
+- a skin rash
+- swelling of your face
+- dark urine
+- fever or swollen glands that do not go away
+- shortness of breath
+- yellowing of the skin or whites of the eyes
 - problems with muscle coordination (problems walking and moving)
 
 The most common side effects seen in people who take levetiracetam oral solution include:
@@ -173,4 +181,4 @@ For more information, call 1-888-838-2872.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-B 10/2020
+C 5/2024

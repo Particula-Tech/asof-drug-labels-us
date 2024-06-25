@@ -12,7 +12,7 @@ In clinical studies, 13% of adult levetiracetam-treated patients and 38% of pedi
 A randomized double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam as adjunctive therapy in pediatric patients (4 to 16 years of age).
 The results from an exploratory analysis indicated a worsening in levetiracetam-treated patients on aggressive behavior (one of eight behavior dimensions) as measured in a standardized and systematic way using a validated instrument, the Achenbach Child Behavior Checklist (CBCL/6-18).
 
-In clinical studies in pediatric patients 1 month to less than 4 years of age, irritability was reported in 12% of the levetiracetam-treated patients compared to 0% of placebo-treated patients.
+In clinical studies in pediatric patients 1 month to < 4 years of age, irritability was reported in 12% of the levetiracetam-treated patients compared to 0% of placebo-treated patients.
 
 In clinical studies, 1.7% of adult levetiracetam-treated patients discontinued treatment due to behavioral adverse reactions, compared to 0.2% of placebo-treated patients.
 The treatment dose was reduced in 0.8% of adult levetiracetam-treated patients and in 0.5% of placebo-treated patients.
@@ -20,7 +20,7 @@ Overall, 11% of levetiracetam-treated pediatric patients experienced behavioral 
 
 Psychotic symptoms
 
-In clinical studies, 1% of levetiracetam-treated adult patients, 2% of levetiracetam-treated pediatric patients 4 to 16 years of age, and 17% of levetiracetam-treated pediatric patients 1 month to less than 4 years of age experienced psychotic symptoms, compared to 0.2%, 2%, and 5% in the corresponding age groups treated with placebo.
+In clinical studies, 1% of levetiracetam-treated adult patients, 2% of levetiracetam-treated pediatric patients 4 to 16 years of age, and 17% of levetiracetam-treated pediatric patients 1 month to < 4 years of age experienced psychotic symptoms, compared to 0.2%, 2%, and 5% in the corresponding age groups treated with placebo.
 In a controlled study that assessed the neurocognitive and behavioral effects of levetiracetam in pediatric patients 4 to 16 years of age, 1.6% of levetiracetam-treated patients experienced paranoia, compared to 0% of placebo-treated patients.
 In the same study, 3.1% of levetiracetam-treated patients experienced confusional state, compared to 0% of placebo-treated patients [see Use in Specific Populations (8.4)].
 
@@ -33,7 +33,7 @@ There was no difference between drug and placebo-treated patients in the inciden
 Antiepileptic drugs (AEDs), including levetiracetam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive-therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -102,7 +102,18 @@ Recurrence of the serious skin reactions following rechallenge with levetiraceta
 Levetiracetam should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.6 Coordination Difficulties
+## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including levetiracetam.
+These events can be fatal or life- threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Levetiracetam should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
+
+## 5.7 Coordination Difficulties
 
 Levetiracetam may cause coordination difficulties.
 
@@ -113,12 +124,12 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.7 Withdrawal Seizures
+## 5.8 Withdrawal Seizures
 
 As with most antiepileptic drugs, levetiracetam should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus.
 If withdrawal is needed because of a serious adverse reaction, rapid discontinuation can be considered.
 
-## 5.8 Hematologic Abnormalities
+## 5.9 Hematologic Abnormalities
 
 Levetiracetam can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
@@ -131,11 +142,11 @@ Adults
 
 Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
 
-A total of 3.2% of levetiracetam-treated and 1.8% of placebo-treated patients had at least one possibly significant (less than or equal to 2.8 x 109/L) decreased WBC, and 2.4% of levetiracetam-treated and 1.4% of placebo-treated patients had at least one possibly significant (less than or equal to 1.0 x 109/L) decreased neutrophil count.
+A total of 3.2% of levetiracetam-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤ 2.8 x 109/L) decreased WBC, and 2.4% of levetiracetam-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤ 1.0 x 109/L) decreased neutrophil count.
 Of the levetiracetam-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
-Pediatric Patients 4 Years to less than 16 Years
+Pediatric Patients 4 Years to < 16 Years
 
 Statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients as compared to placebo.
 The mean decreases from baseline in the levetiracetam-treated group were -0.4 × 109/L and ‑0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
@@ -144,17 +155,17 @@ Mean relative lymphocyte counts increased by 1.7% in levetiracetam-treated patie
 In the controlled trial, more levetiracetam-treated patients had a possibly clinically significant abnormally low WBC value (3% of levetiracetam-treated patients versus 0% of placebo-treated patients), however, there was no apparent difference between treatment groups with respect to neutrophil count (5% of levetiracetam-treated patients versus 4.2% of placebo-treated patients).
 No patient was discontinued secondary to low WBC or neutrophil counts.
 
-In the controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the levetiracetam-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (greater than or equal to 10% or greater than or equal to 0.7X109/L).
+In the controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the levetiracetam-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥ 10% or ≥ 0.7 x 109/L).
 
-## 5.9 Increase in Blood Pressure
+## 5.10 Increase in Blood Pressure
 
-In a randomized, placebo-controlled study in patients 1 month to less than 4 years of age, a significantly higher risk of increased diastolic blood pressure was observed in the levetiracetam-treated patients (17%), compared to the placebo-treated patients (2%).
+In a randomized, placebo-controlled study in patients 1 month to < 4 years of age, a significantly higher risk of increased diastolic blood pressure was observed in the levetiracetam-treated patients (17%), compared to the placebo-treated patients (2%).
 There was no overall difference in mean diastolic blood pressure between the treatment groups.
 This disparity between the levetiracetam and placebo treatment groups was not observed in the studies of older children or in adults.
 
-Monitor patients 1 month to less than 4 years of age for increases in diastolic blood pressure.
+Monitor patients 1 month to < 4 years of age for increases in diastolic blood pressure.
 
-## 5.10 Seizure Control During Pregnancy
+## 5.11 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.

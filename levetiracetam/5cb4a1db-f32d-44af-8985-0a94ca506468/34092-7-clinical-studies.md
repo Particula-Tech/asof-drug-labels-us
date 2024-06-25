@@ -18,7 +18,7 @@ Study 1 was a double-blind, placebo-controlled, parallel-group study conducted a
 After a prospective baseline period of 12 weeks, patients were randomized to one of the three treatment groups described above.
 The 18-week treatment period consisted of a 6-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
-Secondary outcome variables included the responder rate (incidence of patients with greater than or equal to 50% reduction from baseline in partial-onset seizure frequency).
+Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency).
 The results of the analysis of Study 1 are displayed in Table 10.
 
 Table 10: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 1
@@ -28,9 +28,9 @@ Table 10: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 | Percent reduction in partial seizure frequency over placebo | – | 26.1%* | 30.1%* |
 | *statistically significant versus placebo |  |  |  |
 
-The percentage of patients (y-axis) who achieved greater than or equal to 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 1.
+The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 1.
 
-Figure 1: Responder Rate (≥50% Reduction from Baseline) in Study 1
+Figure 1: Responder Rate (≥ 50% Reduction from Baseline) in Study 1
 
 *statistically significant versus placebo
 
@@ -41,7 +41,7 @@ After a prospective baseline period of up to 12 weeks, patients were randomized 
 The 16-week treatment period consisted of the 4-week titration period followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
 
-Secondary outcome variables included the responder rate (incidence of patients with greater than or equal to 50% reduction from baseline in partial-onset seizure frequency).
+Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency).
 The results of the analysis of Period A are displayed in Table 11.
 
 Table 11: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 2: Period A
@@ -53,9 +53,9 @@ Table 11: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 | Percent reduction in partial seizure frequency over placebo | - | 17.1%* | 21.4%* |
 | *statistically significant versus placebo |  |  |  |
 
-The percentage of patients (y-axis) who achieved greater than or equal to 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 2.
+The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 2.
 
-Figure 2: Responder Rate (≥50% Reduction from Baseline) in Study 2: Period A
+Figure 2: Responder Rate (≥ 50% Reduction from Baseline) in Study 2: Period A
 
 *statistically significant versus placebo
 
@@ -67,7 +67,7 @@ Study drug was given in two divided doses.
 After a prospective baseline period of 12 weeks, patients were randomized to one of two treatment groups described above.
 The 16-week treatment period consisted of a 4-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED doses were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
-Secondary outcome variables included the responder rate (incidence of patients with greater than or equal to 50% reduction from baseline in partial-onset seizure frequency).
+Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency).
 Table 12 displays the results of the analysis of Study 3.
 
 Table 12: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 3
@@ -79,9 +79,9 @@ Table 12: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 | Percent reduction in partial seizure frequency over placebo | - | 23.0%* |
 | *statistically significant versus placebo |  |  |
 
-The percentage of patients (y-axis) who achieved greater than or equal to 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
+The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
 
-Figure 3: Responder Rate (≥50% Reduction from Baseline) in Study 3
+Figure 3: Responder Rate (≥ 50% Reduction from Baseline) in Study 3
 
 *statistically significant versus placebo
 
@@ -94,7 +94,7 @@ The study consisted of an 8-week baseline period and 4-week titration period fol
 Dosing was initiated at a dose of 20 mg/kg/day in two divided doses.
 During the treatment period, levetiracetam doses were adjusted in 20 mg/kg/day increments, at 2-week intervals to the target dose of 60 mg/kg/day.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire 14-week randomized treatment period (titration + evaluation period).
-Secondary outcome variables included the responder rate (incidence of patients with greater than or equal to 50% reduction from baseline in partial-onset seizure frequency per week).
+Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency per week).
 Table 13 displays the results of this study.
 
 Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 4
@@ -105,13 +105,13 @@ Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 | Percent reduction in partial seizure frequency over placebo | - | 26.8%* |
 | *statistically significant versus placebo |  |  |
 
-The percentage of patients (y-axis) who achieved greater than or equal to 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
+The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
 
-Figure 4: Responder Rate (≥50% Reduction from Baseline) in Study 4
+Figure 4: Responder Rate (≥ 50% Reduction from Baseline) in Study 4
 
 *statistically significant versus placebo
 
-Effectiveness in Partial-Onset Seizures in Pediatric Patients 1 Month to less than 4 Years of Age
+Effectiveness in Partial-Onset Seizures in Pediatric Patients 1 Month to < 4 Years of Age
 
 The effectiveness of levetiracetam for the treatment of partial-onset seizures in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 5), conducted at 62 sites in North America, South America, and Europe in pediatric patients 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs).
 Eligible patients on a stable dose of 1-2 AEDs, who experienced at least 2 partial-onset seizures during the 48-hour baseline video EEG were randomized to receive either levetiracetam or placebo.
@@ -119,12 +119,12 @@ The enrolled population included 116 patients (levetiracetam N=60, placebo N=56)
 Randomization was stratified by age range as follows: 1 month to less than 6 months of age (N=4 treated with levetiracetam), 6 months to less than 1 year of age (N=8 treated with levetiracetam), 1 year to less than 2 years of age (N=20 treated with levetiracetam), and 2 years to less than 4 years of age (N=28 treated with levetiracetam).
 The study consisted of a 5-day evaluation period which included a 1-day titration period followed by a 4-day maintenance period.
 Levetiracetam dosing was determined by age and weight as follows: children 1 month to less than 6 months old were randomized to a target dose of 40 mg/kg/day, and children 6 months to less than 4 years old were randomized to a target dose of 50 mg/kg/day.
-The primary measure of effectiveness was the responder rate (percent of patients with greater than or equal to 50% reduction from baseline in average daily partial-onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG performed during the last two days of the 4-day maintenance period.
+The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial-onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG performed during the last two days of the 4-day maintenance period.
 A total of 109 patients were included in the efficacy analysis.
 A statistically significant difference between levetiracetam and placebo was observed (see Figure 5).
 The treatment effect associated with levetiracetam was consistent across age groups.
 
-Figure 5: Responder Rate for All Patients Ages 1 Month to <4 Years (≥50% Reduction from Baseline) in Study 5
+Figure 5: Responder Rate for All Patients Ages 1 Month to <4 Years (≥ 50% Reduction from Baseline) in Study 5
 
 *statistically significant versus placebo
 
@@ -139,7 +139,7 @@ The primary measure of effectiveness was the proportion of patients with at leas
 Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
 Table 14 displays the results for the 113 patients with JME in this study.
 
-Table 14: Responder Rate (≥50% Reduction from Baseline) in Myoclonic Seizure Days per Week for Patients with JME in Study 6
+Table 14: Responder Rate (≥ 50% Reduction from Baseline) in Myoclonic Seizure Days per Week for Patients with JME in Study 6
 
 |  | (N=59) | (N=54) |
 | --- | --- | --- |
@@ -168,8 +168,8 @@ Table 15: Median Percent Reduction from Baseline in PGTC Seizure Frequency per W
 | Percent reduction in PGTC seizure frequency | 44.6% | 77.6%* |
 | *statistically significant versus placebo |  |  |
 
-The percentage of patients (y-axis) who achieved greater than or equal to 50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 6.
+The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 6.
 
-Figure 6: Responder Rate (≥50% Reduction from Baseline) in PGTC Seizure Frequency per Week in Study 7
+Figure 6: Responder Rate (≥ 50% Reduction from Baseline) in PGTC Seizure Frequency per Week in Study 7
 
 *statistically significant versus placebo

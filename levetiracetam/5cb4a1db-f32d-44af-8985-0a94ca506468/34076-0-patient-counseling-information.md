@@ -22,10 +22,15 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
 
+DRESS/Multiorgan Hypersensitivity
+
+Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+Levetiracetam oral solution should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.6)].
+
 Withdrawal of Levetiracetam Oral Solution
 
 Advise patients and caregivers not to discontinue use of levetiracetam oral solution without consulting with their healthcare provider.
-Levetiracetam oral solution should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+Levetiracetam oral solution should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.8)]
 
 Pregnancy
 
@@ -35,4 +40,4 @@ Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pr
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-C 4/2023
+D 5/2024

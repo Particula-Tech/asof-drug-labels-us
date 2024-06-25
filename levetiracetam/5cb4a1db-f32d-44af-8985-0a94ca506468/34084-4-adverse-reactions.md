@@ -7,9 +7,10 @@ The following adverse reactions are discussed in more details in other sections 
 - Somnolence and Fatigue [see Warnings and Precautions (5.3)]
 - Anaphylaxis and Angioedema [see Warnings and Precautions (5.4)]
 - Serious Dermatological Reactions [see Warnings and Precautions (5.5)]
-- Coordination Difficulties [see Warnings and Precautions (5.6)]
-- Hematologic Abnormalities [see Warnings and Precautions (5.8)]
-- Increase in Blood Pressure [see Warnings and Precautions (5.9)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.6)]
+- Coordination Difficulties [see Warnings and Precautions (5.7)]
+- Hematologic Abnormalities [see Warnings and Precautions (5.9)]
+- Increase in Blood Pressure [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -52,7 +53,7 @@ Table 3: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in A
 | Sinusitis | 2 | 1 |
 
 In controlled adult clinical studies, 15% of patients receiving levetiracetam and 12% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
-Table 4 lists the most common (greater than 1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients.
+Table 4 lists the most common (> 1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients.
 
 Table 4: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in Placebo-Controlled Studies in Adult Patients Experiencing Partial-Onset Seizures
 
@@ -63,7 +64,7 @@ Table 4: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in
 | Somnolence | 4 | 2 |
 | Dizziness | 1 | 0 |
 
-Pediatric Patients 4 Years to less than 16 Years
+Pediatric Patients 4 Years to < 16 Years
 
 The adverse reaction data presented below was obtained from a pooled analysis of two controlled pediatric clinical studies in pediatric patients 4 to 16 years of age with partial-onset seizures.
 The most common adverse reactions in pediatric patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were fatigue, aggression, nasal congestion, decreased appetite, and irritability.
@@ -116,13 +117,13 @@ Table 5: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in P
 
 In the controlled pooled pediatric clinical studies in patients 4 to 16 years of age, 7% of patients receiving levetiracetam and 9% receiving placebo discontinued as a result of an adverse reaction.
 
-Pediatric Patients 1 Month to less than 4 Years
+Pediatric Patients 1 Month to < 4 Years
 
 In the 7-day, controlled pediatric clinical study in children 1 month to less than 4 years of age with partial-onset seizures, the most common adverse reactions in patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were somnolence and irritability.
 Because of the shorter exposure period, incidences of adverse reactions are expected to be lower than in other pediatric studies in older patients.
 Therefore, other controlled pediatric data, presented above, should also be considered to apply to this age group.
 
-Table 6 lists adverse reactions that occurred in at least 5% of pediatric epilepsy patients (ages 1 month to less than 4 years) treated with levetiracetam in the placebo-controlled study and were numerically more common than in patients treated with placebo.
+Table 6 lists adverse reactions that occurred in at least 5% of pediatric epilepsy patients (ages 1 month to < 4 years) treated with levetiracetam in the placebo-controlled study and were numerically more common than in patients treated with placebo.
 In this study, either levetiracetam or placebo was added to concurrent AED therapy.
 
 Table 6: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Pediatric Patients Ages 1 Month to < 4 Years Experiencing Partial-Onset Seizures
@@ -134,7 +135,7 @@ Table 6: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Pediatri
 | Somnolence | 13 | 2 |
 | Irritability | 12 | 0 |
 
-In the 7-day controlled pediatric clinical study in patients 1 month to less than 4 years of age, 3% of patients receiving levetiracetam and 2% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
+In the 7-day controlled pediatric clinical study in patients 1 month to < 4 years of age, 3% of patients receiving levetiracetam and 2% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
 There was no adverse reaction that resulted in discontinuation for more than one patient.
 
 Myoclonic Seizures
@@ -217,5 +218,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following adverse reactions have been reported in patients receiving marketed levetiracetam worldwide.
-The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, agranulocytosis, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, weight loss, and worsening of seizures.
+The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, agranulocytosis, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, obsessive-compulsive disorders (OCD), pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, weight loss, and worsening of seizures including in patients with SCN8A mutations.
 Alopecia has been reported with levetiracetam use; recovery was observed in majority of cases where levetiracetam was discontinued.

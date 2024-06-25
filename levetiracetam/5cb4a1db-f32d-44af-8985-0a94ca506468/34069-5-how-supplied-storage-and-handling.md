@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Levetiracetam Oral Solution USP, 100 mg/mL is a clear, colorless, grape-flavored liquid.
+Levetiracetam Oral Solution, USP 100 mg/mL is a clear, colorless, grape-flavored liquid.
 It is supplied in 16 fl. oz. white HDPE bottles (NDC 0472-0235-16).
 
 ## 16.2 Storage
