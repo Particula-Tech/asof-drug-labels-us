@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212772"
+  ],
+  "inn": "pirfenidone",
+  "labeler": "Northstar Rx LLC",
+  "package_ndcs": [
+    "72603-258-01",
+    "72603-258-03",
+    "72603-259-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pirfenidone",
+      "name": "PIRFENIDONE"
+    }
+  ],
+  "setid": "5d0eee8c-dc7d-4444-8684-e9c9335291c8",
+  "source": "dailymed"
+}
