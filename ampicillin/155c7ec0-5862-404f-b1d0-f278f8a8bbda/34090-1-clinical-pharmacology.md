@@ -68,4 +68,4 @@ Peptococcus species, Peptostreptococcus species, Bacteroides species, including 
 
 ### Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC
