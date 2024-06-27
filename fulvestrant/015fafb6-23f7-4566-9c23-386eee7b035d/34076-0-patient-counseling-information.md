@@ -23,7 +23,11 @@ When Fulvestrant Injection is used in combination with palbociclib, abemaciclib,
 
 Brands listed are the trademarks of their respective owners.
 
-Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2021 Meitheal Pharmaceuticals Inc.
+Mfd. for Meitheal Pharmaceuticals
+
+Chicago, IL 60631 (USA)
+
+©2021 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
