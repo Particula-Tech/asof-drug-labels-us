@@ -94,4 +94,4 @@ In a population analysis, the clearance rate for teriflunomide is 23% less in fe
 
 Race
 
-Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.
+Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of patients who self-identified as Black or African American, Asian, or other races in the clinical trials.

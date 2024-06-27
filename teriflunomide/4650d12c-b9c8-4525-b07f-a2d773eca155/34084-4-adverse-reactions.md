@@ -64,5 +64,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Gastrointestinal Disorders: Pancreatitis, colitis
 - Hepatobiliary Disorders: Drug-induced liver injury (DILI) [see Warnings and Precautions (5.1)]
 - Immune System Disorders: Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]
-- Respiratory, Thoracic, and Mediastinal Disorders: Interstitial lung disease [see Warnings and Precautions (5.10)]; pulmonary hypertension
+- Respiratory, Thoracic, and Mediastinal Disorders: Interstitial lung disease [see Warnings and Precautions (5.10)]
 - Skin and Subcutaneous Tissue Disorders: Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.6)]; drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)]; psoriasis or worsening of psoriasis (including pustular psoriasis and nail psoriasis); nail disorders

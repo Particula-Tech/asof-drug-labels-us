@@ -14,7 +14,7 @@ In the US general population, the estimated background risk of major birth defec
 The background risk of major birth defects and miscarriage in the indicated population is unknown.
 
 There is a pregnancy surveillance program for AUBAGIO.
-If AUBAGIO exposure occurs during pregnancy, healthcare providers and patients are encouraged to report pregnancies by calling 1-800-745-4447, option 2.
+If AUBAGIO exposure occurs during pregnancy, or if a patient becomes pregnant within 2 years following the last dose of AUBAGIO, healthcare providers and patients are encouraged to report pregnancies by calling 1-800-745-4447, option 2.
 
 Clinical Considerations
 
