@@ -42,7 +42,7 @@ Effects on the Immune System Opioids have been shown to have a variety of effect
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
+Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance (see DOSAGE AND ADMINISTRATION).
 
 Concentration-Adverse Reaction Relationships There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.

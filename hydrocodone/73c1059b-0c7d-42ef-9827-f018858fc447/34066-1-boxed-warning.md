@@ -2,7 +2,7 @@ WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF HYDROCODONE BITARTRATE A
 
 Addiction, Abuse, and Misuse Because the use of hydrocodone bitartrate and acetaminophen tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions (see WARNINGS).
 
-Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of hydrocodone bitartrate and acetaminophen tablets, especially during initiation or following a dose increase.
+Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of hydrocodone bitartrate and acetaminophen tablets, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of hydrocodone bitartrate and acetaminophen tablets are essential (see WARNINGS).
 
 Accidental Ingestion Accidental ingestion of even one dose of hydrocodone bitartrate and acetaminophen tablets, especially by children, can result in a fatal overdose of hydrocodone bitartrate and acetaminophen tablets (see WARNINGS).
