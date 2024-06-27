@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216686"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Steriscience Specialties Private Limited",
+  "package_ndcs": [
+    "82449-231-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fosaprepitant dimeglumine",
+      "name": "FOCINVEZ"
+    }
+  ],
+  "setid": "18a60093-cec8-1b8c-e063-6394a90a8902",
+  "source": "dailymed"
+}
