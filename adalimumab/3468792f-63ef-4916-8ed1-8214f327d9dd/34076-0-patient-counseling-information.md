@@ -4,12 +4,12 @@ Advise the patient or caregiver to read the FDA-approved patient labeling (Medic
 
 Infections
 
-Inform patients that adalimumab may lower the ability of their immune system to fight infections.
+Inform patients that Adalimumab-adaz may lower the ability of their immune system to fight infections.
 Instruct patients of the importance of contacting their doctor if they develop any symptoms of infection, including tuberculosis, invasive fungal infections, and reactivation of hepatitis B virus infections [see Warnings and Precautions (5.1, 5.2, 5.4)].
 
 Malignancies
 
-Counsel patients about the risk of malignancies while receiving adalimumab [see Warnings and Precautions (5.2)].
+Counsel patients about the risk of malignancies while receiving Adalimumab-adaz [see Warnings and Precautions (5.2)].
 
 Hypersensitivity Reactions
 
@@ -23,14 +23,14 @@ Advise patients to report any symptoms suggestive of a cytopenia such as bruisin
 Instructions on Injection Technique
 
 Inform patients that the first injection is to be performed under the supervision of a qualified health care professional.
-If a patient or caregiver is to administer adalimumab, instruct them in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of adalimumab [see Instructions for Use].
+If a patient or caregiver is to administer Adalimumab-adaz, instruct them in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of Adalimumab-adaz [see Instructions for Use].
 
-For patients who will use the adalimumab single-dose prefilled Sensoready Pen, tell them that they:
+For patients who will use the Adalimumab-adaz single-dose prefilled Sensoready Pen, tell them that they:
 
 - •will hear 2 loud clicks.
   The 1st click indicates that the injection has started.
   Several seconds later a 2nd click will indicate that the injection is almost finished.
-- •must keep holding the adalimumab single-dose prefilled Sensoready Pen firmly against their skin until they see a green indicator fill the window and stop moving.
+- •must keep holding the Adalimumab-adaz single-dose prefilled Sensoready Pen firmly against their skin until they see a green indicator fill the window and stop moving.
 
 Instruct patients to dispose of their used syringes or used Sensoready Pens in an FDA-cleared sharps disposal container immediately after use.
 Instruct patients not to dispose of syringes or pens in their household trash.

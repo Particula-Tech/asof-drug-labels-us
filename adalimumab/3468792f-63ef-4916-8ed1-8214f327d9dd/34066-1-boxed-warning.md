@@ -2,26 +2,26 @@
 
 SERIOUS INFECTIONS
 
-- Patients treated with adalimumab products including adalimumab, are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)].
+- Patients treated with adalimumab products including Adalimumab-adaz, are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)].
   Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 
-Discontinue adalimumab if a patient develops a serious infection or sepsis.
+Discontinue Adalimumab-adaz if a patient develops a serious infection or sepsis.
 
 Reported infections include:
 
 - •Active tuberculosis (TB), including reactivation of latent TB.
   Patients with TB have frequently presented with disseminated or extrapulmonary disease.
-  Test patients for latent TB before adalimumab use and during therapy.
-  Initiate treatment for latent TB prior to adalimumab use.
+  Test patients for latent TB before Adalimumab-adaz use and during therapy.
+  Initiate treatment for latent TB prior to Adalimumab-adaz use.
 - •Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis.
   Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease.
   Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
   Consider empiric anti-fungal therapy in patients at risk for invasive fungal infections who develop severe systemic illness.
 - •Bacterial, viral and other infections due to opportunistic pathogens, including Legionella and Listeria.
 
-Carefully consider the risks and benefits of treatment with adalimumab prior to initiating therapy in patients with chronic or recurrent infection.
+Carefully consider the risks and benefits of treatment with Adalimumab-adaz prior to initiating therapy in patients with chronic or recurrent infection.
 
-Monitor patients closely for the development of signs and symptoms of infection during and after treatment with adalimumab, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+Monitor patients closely for the development of signs and symptoms of infection during and after treatment with Adalimumab-adaz, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
 MALIGNANCY
 

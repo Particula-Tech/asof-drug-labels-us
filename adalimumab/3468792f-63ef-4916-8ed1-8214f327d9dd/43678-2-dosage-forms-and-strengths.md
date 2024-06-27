@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Adalimumab is a clear, colorless or slightly yellowish solution available as:
+Adalimumab-adaz is a clear, colorless or slightly yellowish solution available as:
 
 - •Pen (Sensoready Pen)
 - Injection: 80 mg/0.8 mL in a single-dose pen.

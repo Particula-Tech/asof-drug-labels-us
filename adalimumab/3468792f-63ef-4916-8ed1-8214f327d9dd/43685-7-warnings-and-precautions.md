@@ -2,13 +2,13 @@
 
 ## 5.1 Serious Infections
 
-Patients treated with adalimumab products, including adalimumab, are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
+Patients treated with adalimumab products, including Adalimumab-adaz, are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, parasitic, or other opportunistic pathogens including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis and tuberculosis have been reported with TNF blockers.
 Patients have frequently presented with disseminated rather than localized disease.
 
-The concomitant use of a TNF blocker and abatacept or anakinra was associated with a higher risk of serious infections in patients with rheumatoid arthritis (RA); therefore, the concomitant use of adalimumab and these biologic products is not recommended in the treatment of patients with RA [see Warnings and Precautions (5.7, 5.11) and Drug Interactions (7.2)].
+The concomitant use of a TNF blocker and abatacept or anakinra was associated with a higher risk of serious infections in patients with rheumatoid arthritis (RA); therefore, the concomitant use of Adalimumab-adaz and these biologic products is not recommended in the treatment of patients with RA [see Warnings and Precautions (5.7, 5.11) and Drug Interactions (7.2)].
 
-Treatment with adalimumab should not be initiated in patients with an active infection, including localized infections.
+Treatment with Adalimumab-adaz should not be initiated in patients with an active infection, including localized infections.
 Patients 65 years of age and older, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants (such as corticosteroids or methotrexate), may be at greater risk of infection.
 Consider the risks and benefits of treatment prior to initiating therapy in patients:
 
@@ -22,24 +22,24 @@ Tuberculosis
 
 Cases of reactivation of tuberculosis and new onset tuberculosis infections have been reported in patients receiving adalimumab products, including patients who have previously received treatment for latent or active tuberculosis.
 Reports included cases of pulmonary and extrapulmonary (i.e., disseminated) tuberculosis.
-Evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating adalimumab and periodically during therapy.
+Evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating Adalimumab-adaz and periodically during therapy.
 
 Treatment of latent tuberculosis infection prior to therapy with TNF blocking agents has been shown to reduce the risk of tuberculosis reactivation during therapy.
-Prior to initiating adalimumab, assess if treatment for latent tuberculosis is needed; and consider an induration of ≥ 5 mm a positive tuberculin skin test result, even for patients previously vaccinated with Bacille Calmette-Guerin (BCG).
+Prior to initiating Adalimumab-adaz, assess if treatment for latent tuberculosis is needed; and consider an induration of ≥ 5 mm a positive tuberculin skin test result, even for patients previously vaccinated with Bacille Calmette-Guerin (BCG).
 
-Consider anti-tuberculosis therapy prior to initiation of adalimumab in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
+Consider anti-tuberculosis therapy prior to initiation of Adalimumab-adaz in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
 Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculosis have occurred in patients treated with adalimumab products.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
 
-Strongly consider tuberculosis in the differential diagnosis in patients who develop a new infection during adalimumab treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
+Strongly consider tuberculosis in the differential diagnosis in patients who develop a new infection during Adalimumab-adaz treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
 
 Monitoring
 
-Closely monitor patients for the development of signs and symptoms of infection during and after treatment with adalimumab, including the development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy.
-Tests for latent tuberculosis infection may also be falsely negative while on therapy with adalimumab.
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with Adalimumab-adaz, including the development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy.
+Tests for latent tuberculosis infection may also be falsely negative while on therapy with Adalimumab-adaz.
 
-Discontinue adalimumab if a patient develops a serious infection or sepsis.
-For a patient who develops a new infection during treatment with adalimumab, closely monitor them, perform a prompt and complete diagnostic workup appropriate for an immunocompromised patient, and initiate appropriate antimicrobial therapy.
+Discontinue Adalimumab-adaz if a patient develops a serious infection or sepsis.
+For a patient who develops a new infection during treatment with Adalimumab-adaz, closely monitor them, perform a prompt and complete diagnostic workup appropriate for an immunocompromised patient, and initiate appropriate antimicrobial therapy.
 
 Invasive Fungal Infections
 
@@ -50,7 +50,7 @@ To aid in the management of such patients, consider consultation with a physicia
 
 ## 5.2 Malignancies
 
-Consider the risks and benefits of TNF-blocker treatment including adalimumab prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing a TNF-blocker in patients who develop a malignancy.
+Consider the risks and benefits of TNF-blocker treatment including Adalimumab-adaz prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing a TNF-blocker in patients who develop a malignancy.
 
 Malignancies in Adults
 
@@ -64,7 +64,7 @@ In controlled trials of other TNF blockers in adult patients at higher risk for 
 Non-Melanoma Skin Cancer
 
 During the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, the rate (95% confidence interval) of NMSC was 0.8 (0.52, 1.09) per 100 patient-years among adalimumab-treated patients and 0.2 (0.10, 0.59) per 100 patient-years among control-treated patients.
-Examine all patients, and in particular patients with a medical history of prior prolonged immunosuppressant therapy or psoriasis patients with a history of PUVA treatment for the presence of NMSC prior to and during treatment with adalimumab.
+Examine all patients, and in particular patients with a medical history of prior prolonged immunosuppressant therapy or psoriasis patients with a history of PUVA treatment for the presence of NMSC prior to and during treatment with Adalimumab-adaz.
 
 Lymphoma and Leukemia
 
@@ -78,7 +78,7 @@ Even in the absence of TNF-blocker therapy, patients with RA may be at a higher 
 
 Malignancies in Pediatric Patients and Young Adults
 
-Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blockers (initiation of therapy ≤ 18 years of age), of which adalimumab is a member.
+Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blockers (initiation of therapy ≤ 18 years of age), of which Adalimumab-adaz is a member.
 Approximately half the cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression and malignancies that are not usually observed in children and adolescents.
 The malignancies occurred after a median of 30 months of therapy (range 1 to 84 months).
@@ -90,31 +90,31 @@ These cases have had a very aggressive disease course and have been fatal.
 The majority of reported TNF blocker cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
 Almost all of these patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine (6–MP) concomitantly with a TNF blocker at or prior to diagnosis.
 It is uncertain whether the occurrence of HSTCL is related to use of a TNF blocker or a TNF blocker in combination with these other immunosuppressants.
-The potential risk with the combination of azathioprine or 6-mercaptopurine and adalimumab should be carefully considered.
+The potential risk with the combination of azathioprine or 6-mercaptopurine and Adalimumab-adaz should be carefully considered.
 
 ## 5.3 Hypersensitivity Reactions
 
 Anaphylaxis and angioneurotic edema have been reported following administration of adalimumab products.
-If an anaphylactic or other serious allergic reaction occurs, immediately discontinue administration of adalimumab and institute appropriate therapy.
+If an anaphylactic or other serious allergic reaction occurs, immediately discontinue administration of Adalimumab-adaz and institute appropriate therapy.
 In clinical trials of adalimumab, hypersensitivity reactions (e.g., rash, anaphylactoid reaction, fixed drug reaction, non-specified drug reaction, urticaria) have been observed.
 
 ## 5.4 Hepatitis B Virus Reactivation
 
-Use of TNF blockers, including adalimumab, may increase the risk of reactivation of hepatitis B virus (HBV) in patients who are chronic carriers of this virus.
+Use of TNF blockers, including Adalimumab-adaz, may increase the risk of reactivation of hepatitis B virus (HBV) in patients who are chronic carriers of this virus.
 In some instances, HBV reactivation occurring in conjunction with TNF blocker therapy has been fatal.
 The majority of these reports have occurred in patients concomitantly receiving other medications that suppress the immune system, which may also contribute to HBV reactivation.
 Evaluate patients at risk for HBV infection for prior evidence of HBV infection before initiating TNF blocker therapy.
 Exercise caution in prescribing TNF blockers for patients identified as carriers of HBV.
 Adequate data are not available on the safety or efficacy of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF blocker therapy to prevent HBV reactivation.
 For patients who are carriers of HBV and require treatment with TNF blockers, closely monitor such patients for clinical and laboratory signs of active HBV infection throughout therapy and for several months following termination of therapy.
-In patients who develop HBV reactivation, stop adalimumab and initiate effective anti-viral therapy with appropriate supportive treatment.
+In patients who develop HBV reactivation, stop Adalimumab-adaz and initiate effective anti-viral therapy with appropriate supportive treatment.
 The safety of resuming TNF blocker therapy after HBV reactivation is controlled is not known.
-Therefore, exercise caution when considering resumption of adalimumab therapy in this situation and monitor patients closely.
+Therefore, exercise caution when considering resumption of Adalimumab-adaz therapy in this situation and monitor patients closely.
 
 ## 5.5 Neurologic Reactions
 
 Use of TNF blocking agents, including adalimumab products, has been associated with rare cases of new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disease, including multiple sclerosis (MS) and optic neuritis, and peripheral demyelinating disease, including Guillain-Barré syndrome.
-Exercise caution in considering the use of adalimumab in patients with preexisting or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of adalimumab should be considered if any of these disorders develop.
+Exercise caution in considering the use of Adalimumab-adaz in patients with preexisting or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of Adalimumab-adaz should be considered if any of these disorders develop.
 There is a known association between intermediate uveitis and central demyelinating disorders.
 
 ## 5.6 Hematological Reactions
@@ -122,36 +122,36 @@ There is a known association between intermediate uveitis and central demyelinat
 Rare reports of pancytopenia including aplastic anemia have been reported with TNF blocking agents.
 Adverse reactions of the hematologic system, including medically significant cytopenia (e.g., thrombocytopenia, leukopenia) have been infrequently reported with adalimumab products.
 The causal relationship of these reports to adalimumab products remains unclear.
-Advise all patients to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias or infection (e.g., persistent fever, bruising, bleeding, pallor) while on adalimumab.
-Consider discontinuation of adalimumab therapy in patients with confirmed significant hematologic abnormalities.
+Advise all patients to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias or infection (e.g., persistent fever, bruising, bleeding, pallor) while on Adalimumab-adaz.
+Consider discontinuation of Adalimumab-adaz therapy in patients with confirmed significant hematologic abnormalities.
 
 ## 5.7 Increased Risk of Infection When Used with Anakinra
 
 Concurrent use of anakinra (an interleukin-1 antagonist) and another TNF-blocker, was associated with a greater proportion of serious infections and neutropenia and no added benefit compared with the TNF-blocker alone in patients with RA.
-Therefore, the combination of adalimumab and anakinra is not recommended [see Drug Interactions (7.2)].
+Therefore, the combination of Adalimumab-adaz and anakinra is not recommended [see Drug Interactions (7.2)].
 
 ## 5.8 Heart Failure
 
 Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers.
 Cases of worsening CHF have also been observed with adalimumab products.
 Adalimumab products have not been formally studied in patients with CHF; however, in clinical trials of another TNF blocker, a higher rate of serious CHF-related adverse reactions was observed.
-Exercise caution when using adalimumab in patients who have heart failure and monitor them carefully.
+Exercise caution when using Adalimumab-adaz in patients who have heart failure and monitor them carefully.
 
 ## 5.9 Autoimmunity
 
 Treatment with adalimumab products may result in the formation of autoantibodies and, rarely, in the development of a lupus-like syndrome.
-If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with adalimumab, discontinue treatment [see Adverse Reactions (6.1)].
+If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Adalimumab-adaz, discontinue treatment [see Adverse Reactions (6.1)].
 
 ## 5.10 Immunizations
 
 In a placebo-controlled clinical trial of patients with RA, no difference was detected in anti-pneumococcal antibody response between adalimumab and placebo treatment groups when the pneumococcal polysaccharide vaccine and influenza vaccine were administered concurrently with adalimumab.
 Similar proportions of patients developed protective levels of anti-influenza antibodies between adalimumab and placebo treatment groups; however, titers in aggregate to influenza antigens were moderately lower in patients receiving adalimumab.
 The clinical significance of this is unknown.
-Patients on adalimumab may receive concurrent vaccinations, except for live vaccines.
+Patients on Adalimumab-adaz may receive concurrent vaccinations, except for live vaccines.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving adalimumab products.
 
-It is recommended that pediatric patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating adalimumab therapy.
-Patients on adalimumab may receive concurrent vaccinations, except for live vaccines.
+It is recommended that pediatric patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating Adalimumab-adaz therapy.
+Patients on Adalimumab-adaz may receive concurrent vaccinations, except for live vaccines.
 
 The safety of administering live or live-attenuated vaccines in infants exposed to adalimumab products in utero is unknown.
 Risks and benefits should be considered prior to vaccinating (live or live-attenuated) exposed infants [see Use in Specific Populations (8.1, 8.4)].
@@ -159,4 +159,4 @@ Risks and benefits should be considered prior to vaccinating (live or live-atten
 ## 5.11 Increased Risk of Infection When Used with Abatacept
 
 In controlled trials, the concurrent administration of TNF-blockers and abatacept was associated with a greater proportion of serious infections than the use of a TNF-blocker alone; the combination therapy, compared to the use of a TNF-blocker alone, has not demonstrated improved clinical benefit in the treatment of RA.
-Therefore, the combination of abatacept with TNF-blockers including adalimumab is not recommended [see Drug Interactions (7.2)].
+Therefore, the combination of abatacept with TNF-blockers including Adalimumab-adaz is not recommended [see Drug Interactions (7.2)].

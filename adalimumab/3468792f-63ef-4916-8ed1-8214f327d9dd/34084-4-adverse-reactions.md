@@ -177,7 +177,7 @@ Crohn’s Disease Clinical Studies
 
 Adults: The safety profile of adalimumab in 1478 adult patients with Crohn’s disease from four placebo-controlled and two open-label extension studies [see Clinical Studies (14.5)] was similar to the safety profile seen in patients with RA.
 
-Pediatric Patients 6 Years to 17 Years: The safety profile of adalimumab in 192 pediatric patients from one double-blind study (Study PCD-I) and one open-label extension study [see Clinical Studies(14.6)] was similar to the safety profile seen in adult patients with Crohn’s disease.
+Pediatric Patients 6 Years to 17 Years: The safety profile of adalimumab in 192 pediatric patients from one double-blind study (Study PCD-I) and one open-label extension study [see Clinical Studies (14.6)] was similar to the safety profile seen in adult patients with Crohn’s disease.
 
 During the 4-week open label induction phase of Study PCD-I, the most common adverse reactions occurring in the pediatric population treated with adalimumab were injection site pain and injection site reaction (6% and 5%, respectively).
 

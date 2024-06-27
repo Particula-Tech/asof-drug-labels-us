@@ -8,14 +8,14 @@ Adalimumab products do not bind or inactivate lymphotoxin (TNF-beta).
 TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.
 Elevated concentrations of TNF are found in the synovial fluid of patients with RA, JIA, PsA, and AS and play an important role in both the pathologic inflammation and the joint destruction that are hallmarks of these diseases.
 Increased concentrations of TNF are also found in psoriasis plaques.
-In Ps, treatment with adalimumab may reduce the epidermal thickness and infiltration of inflammatory cells.
+In Ps, treatment with Adalimumab-adaz may reduce the epidermal thickness and infiltration of inflammatory cells.
 The relationship between these pharmacodynamic activities and the mechanism(s) by which adalimumab products exert their clinical effects is unknown.
 
 Adalimumab products also modulate biological responses that are induced or regulated by TNF, including changes in the concentrations of adhesion molecules responsible for leukocyte migration (ELAM-1, VCAM-1, and ICAM-1 with an IC50 of 1-2 X 10-10M).
 
 ## 12.2 Pharmacodynamics
 
-After treatment with adalimumab, a decrease in concentrations of acute phase reactants of inflammation (C-reactive protein [CRP] and erythrocyte sedimentation rate [ESR]) and serum cytokines (IL-6) was observed compared to baseline in patients with rheumatoid arthritis.
+After treatment with adalimumab, a decrease in concentrations of acute phase reactants of inflammation (Creactive protein [CRP] and erythrocyte sedimentation rate [ESR]) and serum cytokines (IL-6) was observed compared to baseline in patients with rheumatoid arthritis.
 A decrease in CRP concentrations was also observed in patients with Crohn’s disease, ulcerative colitis and hidradenitis suppurativa.
 Serum concentrations of matrix metalloproteinases (MMP-1 and MMP-3) that produce tissue remodeling responsible for cartilage destruction were also decreased after adalimumab administration.
 

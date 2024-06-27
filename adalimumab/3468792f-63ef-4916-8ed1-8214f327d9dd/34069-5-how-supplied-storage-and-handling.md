@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Adalimumab single-dose prefilled Sensoready Pen, adalimumab single-dose prefilled syringe with BD UltraSafe Passive™ Needle Guard and add-on finger flange and adalimumab single-dose prefilled syringe.
+Adalimumab-adaz single-dose prefilled Sensoready Pen, Adalimumab-adaz single-dose prefilled syringe with BD UltraSafe Passive™ Needle Guard and add-on finger flange and Adalimumab-adaz single-dose prefilled syringe.
 
-Adalimumab (adalimumab-adaz) injection is supplied as a preservative-free, sterile, clear and colorless or slightly yellowish solution for subcutaneous administration.
+Adalimumab-adaz injection is supplied as a preservative-free, sterile, clear and colorless or slightly yellowish solution for subcutaneous administration.
 The following packaging configurations are available.
 
 | 80 mg/0.8 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 61314-325-20 |
@@ -24,16 +24,16 @@ Prefilled syringes and injection devices are not made with natural rubber latex.
 Storage and Handling
 
 Do not use beyond the expiration date on the container.
-Adalimumab must be refrigerated at 36°F to 46°F (2°C to 8°C).
+Adalimumab-adaz must be refrigerated at 36°F to 46°F (2°C to 8°C).
 DO NOT FREEZE.
 Do not use if frozen even if it has been thawed.
 
 Store in original carton until time of administration to protect from light.
 
-Do not store adalimumab in extreme heat or cold.
+Do not store Adalimumab-adaz in extreme heat or cold.
 
-Adalimumab single-dose prefilled syringe with BD UltraSafe Passive™ Needle Guard (40 mg/0.4 mL, 80 mg/0.8 mL), adalimumab single-dose prefilled Sensoready Pen (40 mg/0.4 mL, 80 mg/0.8 mL) and adalimumab single-dose prefilled syringe (10 mg/0.1 mL, 20 mg/0.2 mL):
+Adalimumab-adaz single-dose prefilled syringe with BD UltraSafe Passive™ Needle Guard (40 mg/0.4 mL, 80 mg/0.8 mL), Adalimumab-adaz single-dose prefilled Sensoready Pen (40 mg/0.4 mL, 80 mg/0.8 mL) and Adalimumab-adaz single-dose prefilled syringe (10 mg/0.1 mL, 20 mg/0.2 mL):
 
-If needed, for example when traveling, adalimumab may be stored at room temperature up to a maximum of 77°F (25°C) for a period of up to 14 days, with protection from light.
-Adalimumab should be discarded if not used within the 14-day period.
-Record the date when adalimumab is first removed from the refrigerator in the spaces provided on the carton.
+If needed, for example when traveling, Adalimumab-adaz may be stored at room temperature up to a maximum of 77°F (25°C) for a period of up to 14 days, with protection from light.
+Adalimumab-adaz should be discarded if not used within the 14-day period.
+Record the date when Adalimumab-adaz is first removed from the refrigerator in the spaces provided on the carton.

@@ -57,17 +57,17 @@ Limited data from case reports in the published literature describe the presence
 Published data suggest that the systemic exposure to a breastfed infant is expected to be low because adalimumab is a large molecule and is degraded in the gastrointestinal tract.
 However, the effects of local exposure in the gastrointestinal tract are unknown.
 There are no reports of adverse effects of adalimumab products on the breastfed infant and no effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for adalimumab and any potential adverse effects on the breastfed child from adalimumab or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Adalimumab-adaz and any potential adverse effects on the breastfed child from Adalimumab-adaz or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of adalimumab have been established for:
+The safety and effectiveness of Adalimumab-adaz have been established for:
 
 - •reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
 - •the treatment of moderately to severely active Crohn’s Disease in pediatric patients 6 years of age and older.
 
-Pediatric assessments for adalimumab demonstrate that adalimumab is safe and effective for pediatric patients in indications for which HUMIRA (adalimumab) is approved.
-However, adalimumab is not approved for such indications due to marketing exclusivity for HUMIRA (adalimumab).
+Pediatric assessments for Adalimumab-adaz demonstrate that Adalimumab-adaz is safe and effective for pediatric patients in indications for which HUMIRA (adalimumab) is approved.
+However, Adalimumab-adaz is not approved for such indications due to marketing exclusivity for HUMIRA (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
 Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
@@ -85,20 +85,20 @@ Adalimumab products have not been studied in patients with polyarticular JIA les
 
 The safety of adalimumab in patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
 
-The safety and effectiveness of adalimumab have not been established in pediatric patients with JIA less than 2 years of age.
+The safety and effectiveness of Adalimumab-adaz have not been established in pediatric patients with JIA less than 2 years of age.
 
 Pediatric Crohn’s Disease
 
-The safety and effectiveness of adalimumab for the treatment of moderately to severely active Crohn’s disease have been established in pediatric patients 6 years of age and older.
-Use of adalimumab for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
+The safety and effectiveness of Adalimumab-adaz for the treatment of moderately to severely active Crohn’s disease have been established in pediatric patients 6 years of age and older.
+Use of Adalimumab-adaz for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
 The adverse reaction profile in patients 6 years to 17 years of age was similar to adults.
 
-The safety and effectiveness of adalimumab have not been established in pediatric patients with Crohn’s disease less than 6 years of age.
+The safety and effectiveness of Adalimumab-adaz have not been established in pediatric patients with Crohn’s disease less than 6 years of age.
 
 ## 8.5 Geriatric Use
 
 A total of 519 RA patients 65 years of age and older, including 107 patients 75 years of age and older, received adalimumab in clinical studies RA-I through IV.
 No overall difference in effectiveness was observed between these patients and younger patients.
 The frequency of serious infection and malignancy among adalimumab treated patients 65 years of age and older was higher than for those less than 65 years of age.
-Consider the benefits and risks of adalimumab in patients 65 years of age and older.
-In patients treated with adalimumab, closely monitor for the development of infection or malignancy [see Warnings and Precautions (5.1, 5.2)].
+Consider the benefits and risks of Adalimumab-adaz in patients 65 years of age and older.
+In patients treated with Adalimumab-adaz, closely monitor for the development of infection or malignancy [see Warnings and Precautions (5.1, 5.2)].
