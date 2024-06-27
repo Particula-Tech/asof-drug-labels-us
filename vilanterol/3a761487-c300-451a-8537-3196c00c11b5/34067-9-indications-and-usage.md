@@ -2,19 +2,12 @@
 
 ## 1.1 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
-Fluticasone Furoate/Vilanterol ELLIPTA 100/25 mcg is indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
-Fluticasone Furoate/Vilanterol ELLIPTA 100/25 mcg is also indicated to reduce exacerbations of COPD in patients with a history of exacerbations.
-Fluticasone Furoate/Vilanterol ELLIPTA 100/25 mcg once daily is the only strength indicated for the treatment of COPD.
+Fluticasone Furoate/Vilanterol ELLIPTA is indicated for the maintenance treatment of patients with chronic obstructive pulmonary disease (COPD).
 
-Important Limitation of Use
+## 1.2 Maintenance Treatment of Asthma
 
-Fluticasone Furoate/Vilanterol ELLIPTA is NOT indicated for the relief of acute bronchospasm
+Fluticasone Furoate/Vilanterol ELLIPTA is indicated for the maintenance treatment of asthma in patients aged 5 years and older.
 
-## 1.2 Treatment of Asthma
-
-Fluticasone Furoate/Vilanterol ELLIPTA is indicated for the once-daily treatment of asthma in patients aged 18 years and older.
-Fluticasone Furoate/Vilanterol ELLIPTA should be used for patients not adequately controlled on a long-term asthma control medication such as an inhaled corticosteroid (ICS) or whose disease warrants initiation of treatment with both an ICS and long-acting beta2-adrenergic agonist (LABA).
-
-Important Limitation of Use
+## 1.3 Limitations of Use
 
 Fluticasone Furoate/Vilanterol ELLIPTA is NOT indicated for the relief of acute bronchospasm.

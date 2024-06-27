@@ -22,7 +22,8 @@ Rx Only
 
 (60 blisters total)
 
-62000000074871
+1. 62000000089833 Rev.
+   08/23
 
 Principal Display Panel
 
@@ -48,4 +49,5 @@ Rx Only
 
 (60 blisters total)
 
-62000000074875
+1. 62000000089828 Rev.
+   08/23
