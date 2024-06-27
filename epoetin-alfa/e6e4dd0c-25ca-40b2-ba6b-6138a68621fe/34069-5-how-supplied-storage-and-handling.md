@@ -20,4 +20,4 @@ Do not use RETACRIT that has been shaken or frozen or if the green area of the f
 
 Store RETACRIT vials in the original carton until use to protect from light.
 
-The vial stopper used for RETACRIT is not made with natural. rubber latex.
+The vial stopper used for RETACRIT is not made with natural rubber latex.

@@ -74,9 +74,13 @@ Preparing the dose:
 4. 4.Gather the other supplies you will need for your injection (vial, syringe, alcohol wipes, cotton ball, and a puncture-proof container for throwing away the syringe and needle).
    See Figure 1.
 
+Figure 1
+
 1. 5.Check the date on the RETACRIT vial to be sure that the drug has not expired.
 2. 6.Wash your hands well with soap and water before preparing the medicine.
    See Figure 2.
+
+Figure 2
 
 1. 7.Flip off the protective color cap on the top of the vial.
    Do not remove the grey rubber stopper.
@@ -105,12 +109,16 @@ Preparing the dose:
    The air injected into the vial will allow RETACRIT to be easily withdrawn into the syringe.
    See Figure 7.
 
+Figure 7
+
 1. 12.Keep the needle inside the vial.
    Turn the vial and syringe upside down.
    Be sure the tip of the needle is in the RETACRIT liquid.
    Keep the vial upside down.
    Slowly pull back on the plunger to fill the syringe with RETACRIT liquid to the number (mL or cc) that matches the dose your healthcare provider prescribed.
    See Figure 8.
+
+Figure 8
 
 1. 13.Keep the needle in the vial.
    Check for air bubbles in the syringe.
@@ -137,57 +145,69 @@ Follow your healthcare provider's instructions about how you should inject RETAC
 In patients on hemodialysis, the intravenous (IV) route is recommended.
 
 1. 1.Subcutaneous Route:
-   1. oRETACRIT can be injected directly into a layer of fat under your skin.
+   1. •RETACRIT can be injected directly into a layer of fat under your skin.
       This is called a subcutaneous injection.
       When giving subcutaneous injections, follow your healthcare provider's instructions about changing the site for each injection.
       You may wish to write down the site where you have injected.
-   2. oDo not inject RETACRIT into an area that is tender, red, bruised, hard, or has scars or stretch marks.
+   2. •Do not inject RETACRIT into an area that is tender, red, bruised, hard, or has scars or stretch marks.
       Recommended sites for injection are shown in Figure 11 below, including:
       - oThe outer area of the upper arms
       - oThe abdomen (except for the 2-inch area around the navel)
       - oThe front of the middle thighs
       - oThe upper outer area of the buttocks
 
+Figure 11
+
 - 
-  - oClean the skin with an alcohol wipe where the injection is to be made.
+  - •Clean the skin with an alcohol wipe where the injection is to be made.
     Be careful not to touch the skin that has been wiped clean.
     See Figure 12.
 
+Figure 12
+
 - 
-  - oDouble-check that the correct amount of RETACRIT is in the syringe.
-  - oRemove the prepared syringe and needle from the vial of RETACRIT and hold it in the hand that you will use to inject the medicine.
-  - oUse the other hand to pinch a fold of skin at the cleaned injection site.
+  - •Double-check that the correct amount of RETACRIT is in the syringe.
+  - •Remove the prepared syringe and needle from the vial of RETACRIT and hold it in the hand that you will use to inject the medicine.
+  - •Use the other hand to pinch a fold of skin at the cleaned injection site.
     Do not touch the cleaned area of skin.
     See Figure 13.
 
+Figure 13
+
 - 
-  - oHold the syringe like you would hold a pencil.
+  - •Hold the syringe like you would hold a pencil.
     Use a quick "dart-like" motion to insert the needle either straight up and down (90-degree angle) or at a slight angle (45 degrees) into the skin.
     Inject the prescribed dose subcutaneously as directed by your doctor, nurse or pharmacist.
     See Figure 14.
 
+Figure 14
+
 - 
-  - oPull the needle out of the skin and press a cotton ball or gauze over the injection site and hold it there for several seconds.
+  - •Pull the needle out of the skin and press a cotton ball or gauze over the injection site and hold it there for several seconds.
     Do not recap the needle.
-  - oDispose of the used syringe and needle as described below.
+  - •Dispose of the used syringe and needle as described below.
     Do not reuse syringes and needles.
 - 2.Intravenous Route:
-  1. oRETACRIT can be injected in your vein through a special access port placed by your healthcare provider.
+  1. •RETACRIT can be injected in your vein through a special access port placed by your healthcare provider.
      This type of RETACRIT injection is called an intravenous (IV) injection.
      This route is usually for hemodialysis patients.
-  2. oIf you have a dialysis vascular access, make sure it is working by checking it as your healthcare provider has shown you.
+  2. •If you have a dialysis vascular access, make sure it is working by checking it as your healthcare provider has shown you.
      Be sure to let your healthcare provider know right away if you are having any problems, or if you have any questions.
-  3. oWipe off the venous port of the hemodialysis tubing with an alcohol wipe.
+  3. •Wipe off the venous port of the hemodialysis tubing with an alcohol wipe.
      See Figure 15.
 
-- 
-  - oInsert the needle of the syringe into the cleaned venous port and push the plunger all the way down to inject all the RETACRIT.
-    See Figure 16.
+Figure 15
 
 - 
-  - oRemove the syringe from the venous port.
+  - •Insert the needle of the syringe into the cleaned venous port and push the plunger all the way down to inject all the RETACRIT.
+    See Figure 16.
+
+Figure 16
+
+- 
+  - •Remove the syringe from the venous port.
     Do not recap the needle.
-  - oDispose of the used syringe and needle as described below.
+  - •Dispose of the used syringe and needle as described below.
 
 How should I dispose of the vials, syringes, and needles?
 
@@ -209,8 +229,8 @@ Keep RETACRIT and all medicines out of reach of children.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Hospira, Inc., a PfizerCompany, Lake Forest, IL 60045 USA US License No. 1974
+Manufactured by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No. 1974
 
 Distributed by Vifor (International) Inc., Rechenstrasse 37, 9014 St. Gallen, Switzerland
 
-LAB-1282-4.0 Revised: 8/2020
+LAB-1282-5.0 Revised: 6/2024

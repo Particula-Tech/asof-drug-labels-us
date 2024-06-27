@@ -15,11 +15,11 @@ Following initiation of therapy and after each dose adjustment, monitor hemoglob
 
 Selection of Formulation
 
-In pregnant women, lactating women, neonates, and infants use only single-dose vials (the benzyl alcohol-free formulation) [see Contraindications (4)andUse in Specific Populations (8.1, and 8.4)].
+In pregnant women, lactating women, neonates, and infants use only single-dose vials (the benzyl alcohol-free formulation) [see Contraindications (4) and Use in Specific Populations (8.1, 8.2, and 8.4)].
 
 ## 2.2 Patients with Chronic Kidney Disease
 
-In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target a hemoglobin level of greater than 11 g/dL.
+In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered ESAs to target a hemoglobin level of greater than 11 g/dL.
 No trial has identified a hemoglobin target level, ESA dose, or dosing strategy that does not increase these risks.
 Individualize dosing and use the lowest dose of RETACRIT sufficient to reduce the need for RBC transfusions [see Warnings and Precautions (5.1)].
 Physicians and patients should weigh the possible benefits of decreasing transfusions against the increased risks of death and other serious cardiovascular adverse reactions [see Boxed Warning and Clinical Studies (14)].
@@ -63,7 +63,7 @@ For pediatric patients with CKD:
 
 When treating patients who have chronic kidney disease and cancer, physicians should refer to Warnings and Precautions (5.1 and 5.2).
 
-## 2.3 Zidovudine-treated Patients with HIV-infection
+## 2.3 Zidovudine-treated Patients with HIV Infection
 
 Starting Dose
 
@@ -71,8 +71,8 @@ The recommended starting dose in adults is 100 Units/kg as an intravenous or sub
 
 Dose Adjustment
 
-- • If hemoglobin does not increase after 8 weeks of therapy, increase RETACRIT dose by approximately 50 to 100 Units/kg at 4- to 8-week intervals until hemoglobin reaches a level needed to avoid RBC transfusions or 300 Units/kg.
-- • Withhold RETACRIT if hemoglobin exceeds 12 g/dL.
+- •If hemoglobin does not increase after 8 weeks of therapy, increase RETACRIT dose by approximately 50 to 100 Units/kg at 4- to 8-week intervals until hemoglobin reaches a level needed to avoid RBC transfusions or 300 Units/kg.
+- •Withhold RETACRIT if hemoglobin exceeds 12 g/dL.
   Resume therapy at a dose 25% below the previous dose when hemoglobin declines to less than 11 g/dL.
 
 Discontinue RETACRIT if an increase in hemoglobin is not achieved at a dose of 300 Units/kg for 8 weeks.

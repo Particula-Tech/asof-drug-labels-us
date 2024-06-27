@@ -26,4 +26,4 @@ Differences were observed after the 40,000 Units weekly dosing with longer Tmax 
 
 The pharmacokinetic profile of epoetin alfa in pediatric patients appeared similar to that of adults.
 
-The pharmacokinetics of epoetin alfa products has not been studied in patients with HIV-infection.
+The pharmacokinetics of epoetin alfa products has not been studied in patients with HIV infection.

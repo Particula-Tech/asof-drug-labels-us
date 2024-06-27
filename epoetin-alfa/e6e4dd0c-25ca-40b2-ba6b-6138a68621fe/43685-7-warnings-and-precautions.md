@@ -184,15 +184,15 @@ Discontinue RETACRIT therapy immediately if a severe cutaneous reaction, such as
 ## 5.9 Risk of Serious Adverse Reactions Due to Benzyl Alcohol Preservative
 
 RETACRIT from multiple-dose vials contains benzyl alcohol and is contraindicated for use in neonates, infants, pregnant women, and lactating women [see Contraindications (4)].
-In addition, do not mix RETACRIT with bacteriostatic saline (which also contains benzyl alcohol) when administering RETACRIT to these patient populations [see Dosage and Administration (2)].
+In addition, do not mix RETACRIT with bacteriostatic saline (which also contains benzyl alcohol) when administering RETACRIT to these patient populations [seeDosage and Administration (2)].
 
 Serious and fatal reactions including "gasping syndrome" can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including RETACRIT multiple-dose vials.
 The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 There is a potential for similar risks to fetuses and infants exposed to benzyl alcohol in utero or in breast-fed milk, respectively.
 RETACRIT multiple-dose vials contain 8.5 mg of benzyl alcohol per mL.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2, and 8.4)].
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [seeUse in Specific Populations (8.1, 8.2, and 8.4)].
 
-## 5.10 Risks in Patients with Phenylketonuria
+## 5.10 Risk in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 RETACRIT contains phenylalanine, a component of aspartame.
