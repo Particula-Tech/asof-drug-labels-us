@@ -36,6 +36,6 @@ Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA
 
 Methylin is a trademark of Mallinckrodt LLC.
 
-MOS-PI-08 L20M21
+MOS-PI-09 L20M21
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M31.pdf or by calling 1-800-778-7898 for alternate delivery options.

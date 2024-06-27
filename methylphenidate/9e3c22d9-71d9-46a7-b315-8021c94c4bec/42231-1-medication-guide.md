@@ -14,6 +14,6 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2023
+Revised: 11/2023
 
-MOS-MG-06 L20M31
+MOS-MG-07 L20M31
