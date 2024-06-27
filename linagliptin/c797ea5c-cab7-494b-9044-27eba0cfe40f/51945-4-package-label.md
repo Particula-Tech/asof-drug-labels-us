@@ -8,8 +8,8 @@ Tradjenta® (linagliptin tablets)
 
 5 mg per tablet
 
-Dosage: Take one tablet daily.
-See package insert for full dosage information.
+Recommended Dosage: Take one tablet daily.
+See Prescribing Information.
 
 100 tablets 10 blister cards of 10 tablets
 
