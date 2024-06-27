@@ -22,9 +22,9 @@ See package insert for full prescribing information.
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2024 Viatris Inc.
 
-RUPJ155MM
+RUPJ155MM1
 
 # PRINCIPAL DISPLAY PANEL – 20 mg
 
@@ -50,9 +50,9 @@ See package insert for full prescribing information.
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2024 Viatris Inc.
 
-RUPJ156MM
+RUPJ156MM1
 
 # PRINCIPAL DISPLAY PANEL – 40 mg
 
@@ -78,9 +78,9 @@ DOSAGE AND USE See package insert for full prescribing information.
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2024 Viatris Inc.
 
-RUPJ157MM
+RUPJ157MM1
 
 # PRINCIPAL DISPLAY PANEL – 80 mg
 
@@ -104,8 +104,8 @@ DOSAGE AND USE See package insert for full prescribing information.
 
 *Each tablet contains atorvastatin 80 mg (equivalent to 82.88 mg atorvastatin calcium anhydrous).
 
-RUPJ158MM
-
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2024 Viatris Inc.
+
+RUPJ158MM1
