@@ -17,14 +17,14 @@ The descriptive statistics for the pharmacokinetic parameters are presented in T
 
 Table 3: Pharmacokinetic parameters of FSH following administration of Gonal-f® RFF Redi-ject® (300 International Units subcutaneously in a single dose)
 
-|  | Mean | % CV |
-| --- | --- | --- |
-| Parameter | Healthy Volunteers (N=21) |  |
-| AUClast (IU hr/L) | 884 | 20% |
-| Cmax (IU/L) | 9.83 | 23% |
-| tmax (hr) | 15.5 | 43% |
-| t1/2 (hr) | 53 | 52% |
-| Abbreviations are: Cmax: peak concentration (above baseline) tmax: time of Cmax t1/2: elimination half life |  |  |
+|  |  |  | Mean |  | % CV |
+| --- | --- | --- | --- | --- | --- |
+| Parameter |  | Healthy Volunteers (N=21) |  |  |  |
+|  | AUClast (IU hr/L) |  | 884 |  | 20% |
+|  | Cmax (IU/L) |  | 9.83 |  | 23% |
+|  | tmax (hr) |  | 15.5 |  | 43% |
+|  | t1/2 (hr) |  | 53 |  | 52% |
+| Abbreviations are: Cmax: peak concentration (above baseline) tmax: time of Cmax t1/2: elimination half life |  |  |  |  |  |
 
 Absorption
 

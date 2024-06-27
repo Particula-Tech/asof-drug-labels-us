@@ -27,7 +27,7 @@ Adverse reactions occurring in at least 2.0% of women receiving Gonal-f® RFF ar
 
 Table 1: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Ovulation Induction Study
 
-| System Organ Class/Adverse Reactions | Gonal-f® RFF N=83total number of women treated with Gonal-f® RFF(176 treatment cyclesup to 3 treatment cycles per woman) nnumber of women with the adverse reaction (%) |
+| System Organ Class/Adverse Reactions | Gonal-f® RFF N=83total number of women treated with Gonal-f® RFF (176 treatment cyclesup to 3 treatment cycles per woman) nnumber of women with the adverse reaction (%) |
 | --- | --- |
 | Central and Peripheral Nervous System |  |
 | Headache | 22 (26.5%) |

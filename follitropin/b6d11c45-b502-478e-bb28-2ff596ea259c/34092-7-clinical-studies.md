@@ -14,12 +14,12 @@ The study was not powered to demonstrate differences in any of the secondary out
 
 Table 4: Cumulative Ovulation and Clinical Pregnancy Rates in Ovulation Induction
 
-| Cycle | CumulativeCumulative rates were determined per woman over cycles 1, 2, and 3. Percent Ovulation | Cumulative Clinical PregnancyClinical pregnancy was defined as a pregnancy for which a fetal sac (with or without heart activity) was visualized by ultrasound on day 34-36 after hCG administration. Rate |
-| --- | --- | --- |
-| Gonal-f® RFF (n=83) |  |  |
-| Cycle 1 | 72%Non-inferior to comparator recombinant human FSH based on a two-sided 95% confidence interval, intent-to-treat analysis. | 28%Secondary efficacy outcomes. The study was not powered to demonstrate differences in these outcomes. |
-| Cycle 2 | 89% | 41% |
-| Cycle 3 | 92% | 45% |
+| CumulativeCumulative rates were determined per woman over cycles 1, 2, and 3. Percent Ovulation |  | Cumulative Clinical PregnancyClinical pregnancy was defined as a pregnancy for which a fetal sac (with or without heart activity) was visualized by ultrasound on day 34-36 after hCG administration. Rate |  |  |
+| --- | --- | --- | --- | --- |
+| Cycle | Gonal-f® RFF (n=83) |  |  |  |
+| Cycle 1 |  | 72%Non-inferior to comparator recombinant human FSH based on a two-sided 95% confidence interval, intent-to-treat analysis. |  | 28%Secondary efficacy outcomes. The study was not powered to demonstrate differences in these outcomes. |
+| Cycle 2 |  | 89% |  | 41% |
+| Cycle 3 |  | 92% |  | 45% |
 
 ## 14.2 Assisted Reproductive Technology (ART)
 

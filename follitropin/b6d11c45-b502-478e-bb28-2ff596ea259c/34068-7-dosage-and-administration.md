@@ -14,16 +14,19 @@
 The dosing scheme is stepwise and is individualized for each woman [see Clinical Studies (14.1)].
 Starting doses less than 37.5 International Units have not been studied in clinical trials and are not recommended.
 
-- A starting daily dose of 75 International Units of Gonal-f® RFF Redi-ject® is administered subcutaneously daily for 14 days in the first cycle of use.In subsequent cycles of treatment, the starting dose (and dosage adjustments) of Gonal-f® RFF Redi-ject® should be determined based on the history of the ovarian response to Gonal-f® RFF Redi-ject®.
+- A starting daily dose of 75 International Units of Gonal-f® RFF Redi-ject® is administered subcutaneously daily for 14 days in the first cycle of use.
+  In subsequent cycles of treatment, the starting dose (and dosage adjustments) of Gonal-f® RFF Redi-ject® should be determined based on the history of the ovarian response to Gonal-f® RFF Redi-ject®.
 - The following should be considered when planning the woman's individualized dose:
   - Appropriate Gonal-f® RFF Redi-ject® dose adjustment(s) should be used to prevent multiple follicular growth and cycle cancellation.
   - The maximum, individualized, daily dose of Gonal-f® RFF Redi-ject® is 300 International Units per day.
   - In general, do not exceed 35 days of treatment.
 - If indicated by the ovarian response after the initial 14 days, make an incremental adjustment in dose, up to 37.5 International Units.
-- If indicated by the ovarian response, make additional incremental adjustments in dose, up to 37.5 International Units, every 7 days.
+- If indicated by the ovarian response, make additional adjustments in dose, up to 37.5 International Units, every 7 days.
 - Treatment should continue until follicular growth and/or serum estradiol levels indicate an adequate ovarian response.
-- When pre-ovulatory conditions are reached, administer human chorionic gonadotropin (hCG) to induce final oocyte maturation and ovulation.Withhold hCG in cases where the ovarian monitoring suggests an increased risk of ovarian hyperstimulation syndrome (OHSS) on the last day of Gonal-f® RFF Redi-ject® therapy [see Warnings and Precautions (5.2, 5.3, 5.11)].
-- Encourage the woman and her partner to have intercourse daily, beginning on the day prior to the administration of hCG and until ovulation becomes apparent.Discourage intercourse when the risk for OHSS is increased [see Warnings and Precautions (5.2, 5.3)].
+- When pre-ovulatory conditions are reached, administer human chorionic gonadotropin (hCG) to induce final oocyte maturation and ovulation.
+  Withhold hCG in cases where the ovarian monitoring suggests an increased risk of ovarian hyperstimulation syndrome (OHSS) on the last day of Gonal-f® RFF Redi-ject® therapy [see Warnings and Precautions (5.2, 5.3, 5.11)].
+- Encourage the woman and her partner to have intercourse daily, beginning on the day prior to the administration of hCG and until ovulation becomes apparent.
+  Discourage intercourse when the risk for OHSS is increased [see Warnings and Precautions (5.2, 5.3)].
 
 ## 2.3 Recommended Dosing for Assisted Reproductive Technology
 

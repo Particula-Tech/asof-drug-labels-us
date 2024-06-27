@@ -1,10 +1,6 @@
-# Patient Information
+# Patient Information Gonal-f® RFF Redi-ject® (gon-AL-eff ar-eff-eff REH dee-jekt) (follitropin alfa) injection for subcutaneous use
 
-Gonal-f® RFF Redi-ject® (gon-AL-eff ar-eff-eff REH dee-jekt) (follitropin alfa injection) for subcutaneous use
-
-Gonal-f® RFF* Redi-ject® (follitropin alfa injection) for subcutaneous use
-
-*revised formulation female
+Gonal-f® RFF* Redi-ject® (follitropin alfa) injection for subcutaneous use
 
 Read this Patient Information before you start using Gonal-f® RFF Redi-ject® and each time you get a refill.
 There may be new information.
@@ -23,15 +19,14 @@ Do not use the Gonal-f® RFF Redi-ject® if you:
 
 - are allergic to recombinant human FSH or any of the ingredients in Gonal-f® RFF Redi-ject®.
   See the end of this leaflet for a complete list of ingredients in Gonal-f® RFF Redi-ject®.
-- have ovaries that no longer make eggs (primary ovarian failure)
-- are pregnant or think you may be pregnant
-- have uncontrolled thyroid or adrenal problems
+- have a high level of FSH in your blood that shows your ovaries no longer make eggs (primary ovarian failure)
+- have uncontrolled thyroid, adrenal, or pituitary problems
 - have a tumor in your female organs, including your ovaries, breast, or uterus that may get worse with high levels of estrogen
 - have a tumor in your brain, such as a tumor in your pituitary or hypothalamus
-- have abnormal bleeding from your uterus or vagina
-- have ovarian cysts or large ovaries, not due to polycystic ovary syndrome (PCOS)
+- have abnormal bleeding from your uterus or vagina from an unknown cause
+- have ovarian cysts or large ovaries from an unknown cause
 
-What should I tell my healthcare provider before using Gonal-f® RFF Redi-ject®?
+What should I tell my healthcare provider before using Gonal-f® RFF Redi- ject®?
 
 Before you use Gonal-f® RFF Redi-ject®, tell your healthcare provider if you:
 
@@ -43,10 +38,16 @@ Before you use Gonal-f® RFF Redi-ject®, tell your healthcare provider if you:
 - had or have a cyst on your ovary
 - have polycystic ovarian disease
 - have any other medical conditions
-- are breastfeeding or plan to breastfeed.
+- are pregnant or think you may be pregnant.
+  Gonal-f® RFF Redi-ject® is not for pregnant women.
+  Your healthcare provider will give you a pregnancy test before starting Gonal-f® RFF Redi-ject®.
+- are breastfeeding.
   It is not known if Gonal-f® RFF Redi-ject® passes into your breast milk.
   You and your healthcare provider should decide if you will take Gonal-f® RFF Redi-ject® or breastfeed.
   You should not do both.
+- are not an adult.
+  Gonal-f® RFF Redi-ject® is not for children.
+  It is not known if Gonal-f® RFF Redi-ject® is safe or works for children.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -78,7 +79,7 @@ Gonal-f® RFF Redi-ject® may cause serious side effects, including:
   Gonal-f® RFF Redi-ject® may cause your ovaries to be abnormally large.
   Symptoms of large ovaries include bloating or pain in your lower stomach (pelvic) area.
 - ovarian hyperstimulation syndrome (OHSS).
-  Using Gonal-f® RFF Redi-ject® may cause OHSS.
+  Using Gonal-f® RFF Redi- ject® may cause OHSS.
   OHSS is a serious medical condition that can happen when your ovaries produce too many eggs (overstimulated).
   OHSS can cause fluid to suddenly build up in the area of your stomach, chest, and heart, and can cause blood clots to form.
   In rare cases OHSS has caused death.
@@ -115,20 +116,30 @@ Gonal-f® RFF Redi-ject® may cause serious side effects, including:
   - your genetic background and that of your partner
   - a pregnancy with more than 1 baby at a time
 - ectopic pregnancy (pregnancy outside your womb).
-  Gonal-f® RFF Redi-ject® may increase your chance of having a pregnancy that is abnormally outside of your womb.
+  Gonal-f® RFF Redi- ject® may increase your chance of having a pregnancy that is abnormally outside of your womb.
   Your chance of having a pregnancy outside of your womb is increased if you also have fallopian tube problems.
+  Call your healthcare provider right away if you have symptoms of an ectopic pregnancy including:
+  - stomach or pelvic pain especially on one side
+  - shoulder pain
+  - neck pain
+  - rectal pain
+  - nausea and vomiting
 - miscarriage.
   Your chance of loss of an early pregnancy may be increased if you had difficulty becoming pregnant.
 - tumors of the ovary.
-  If you have used medicines like Gonal-f® RFF Redi-ject® more than 1 time to get pregnant, you may have an increased chance of having tumors in your ovary(ies) (including cancer).
+  If you have used medicines like Gonal-f® RFF Redi- ject® more than 1 time to get pregnant, you may have an increased chance of having tumors in your ovary(ies) (including cancer).
 
 The most common side effects of Gonal-f® RFF Redi-ject® include:
 
+- ovarian cyst
 - headache
+- OHSS
 - stomach pain
 - stomach bloating
+- gas
 - bruising at the injection site
 - nausea
+- diarrhea
 
 These are not all the possible side effects of Gonal-f® RFF Redi-ject®.
 For more information, call your healthcare provider or pharmacist.
@@ -140,7 +151,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Gonal-f® RFF Redi-ject®?
 
-- Before you use Gonal-f® RFF Redi-ject® for the first time, store your Pen:
+- Before you use Gonal-f® RFF Redi-ject® for the first time, store your Pen in the original carton to protect from light:
   - in the refrigerator between 36°F to 46°F (2°C to 8°C) until the expiration date, or
   - store your Pen at room temperature between 68°F to 77°F (20°C to 25°C) for up to 3 months or until the expiration date, whichever comes first
 - After you use Gonal-f® RFF Redi-ject® and there is still medicine left, store your Pen in the refrigerator between 36°F to 46°F (2°C to 8°C) or at room temperature between 68°F to 77°F (20°C to 25°C) up to 28 days.
@@ -151,7 +162,7 @@ How should I store Gonal-f® RFF Redi-ject®?
 
 Keep Gonal-f® RFF Redi-ject® and all medicines out of the reach of children.
 
-General Information about the safe and effective use of Gonal-f® RFF Redi-ject®.
+General Information about the safe and effective use of Gonal-f® RFF Redi- ject®.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use Gonal-f® RFF Redi-ject® for a condition for which it was not prescribed.
@@ -166,8 +177,11 @@ For more information, go to www.fertilitylifelines.com, or call 1-866-538-7879.
 
 What are the ingredients in Gonal-f® RFF Redi-ject®?
 
-Active ingredient: follitropin alfa (r-hFSH)
+Active ingredient: follitropin alfa
 
-Inactive ingredients: sucrose, meta-cresol, di-sodium hydrogen phosphate dihydrate, sodium dihydrogen phosphate monohydrate, methionine, Poloxamer 188, O-phosphoric acid, sodium hydroxide
+Inactive ingredients: dibasic sodium phosphate, m-cresol, methionine, monobasic sodium phosphate, poloxamer, sucrose and Water for Injection.
+Phosphoric acid and/or sodium hydroxide may be used for pH adjustment.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: EMD Serono, Inc. Rockland, MA 02370 U.S. License Number: 1773 May 2024
