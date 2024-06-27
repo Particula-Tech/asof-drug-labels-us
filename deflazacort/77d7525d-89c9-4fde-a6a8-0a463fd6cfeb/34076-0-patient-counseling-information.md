@@ -48,4 +48,4 @@ Drug Interactions
 Certain medications can cause an interaction with deflazacort tablets.
 Advise patients and/or caregivers to inform their healthcare provider of all the medicines the patient is taking, including over-the-counter medicines (such as insulin, aspirin or other NSAIDS), dietary supplements, and herbal products.
 Inform patients and/or caregivers that alternate therapy, dosage adjustment, and/or special test(s) may be needed during the treatment.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Issued: February 2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 06/2024
