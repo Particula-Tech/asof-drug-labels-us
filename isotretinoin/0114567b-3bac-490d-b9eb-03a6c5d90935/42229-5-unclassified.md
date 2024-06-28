@@ -27,9 +27,3 @@ Distributed by: Mayne Pharma Raleigh, NC 27609
 All trademarks are property of their respective owners.
 
 Revised: 07/2023
-
-Distributed by: Mayne Pharma Raleigh, NC 27609
-
-All trademarks are property of their respective owners.
-
-Revised: 07/2023

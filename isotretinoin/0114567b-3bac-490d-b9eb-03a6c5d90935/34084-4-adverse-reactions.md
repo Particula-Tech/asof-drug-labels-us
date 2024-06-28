@@ -9,7 +9,7 @@ Many of the side effects and adverse reactions seen in patients receiving isotre
 ## Dose Relationship
 
 Cheilitis and hypertriglyceridemia are usually dose related.
-Most adverse reactions reported in clinical trials were reversible when therapy was discontinued; however, some persisted after cessation of therapy (see WARNINGS and ADVERSE REACTIONS).
+Most adverse reactions reported in clinical trials were reversible when therapy was discontinued; however, some persisted after cessation of therapy (see WARNINGSand ADVERSE REACTIONS).
 
 ### Body as a Whole
 
@@ -30,7 +30,7 @@ inflammatory bowel disease (see WARNINGS: Inflammatory Bowel Disease), hepatitis
 ### Hematologic
 
 allergic reactions (see PRECAUTIONS: Hypersensitivity), anemia, thrombocytopenia, neutropenia, rare reports of agranulocytosis (see PRECAUTIONS: Information for Patients).
-See PRECAUTIONS: Laboratory Tests for other hematological parameters.
+See PRECAUTIONS: Laboratory Testsfor other hematological parameters.
 
 ### Musculoskeletal
 
@@ -56,7 +56,7 @@ bronchospasms (with or without a history of asthma), respiratory infection, voic
 
 ### Skin and Appendages
 
-acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas,7 erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), Stevens-Johnson syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener's granulomatosis; see PRECAUTIONS: Hypersensitivity), abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS: Information for Patients)
+acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas, 7erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), Stevens-Johnson syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener's granulomatosis; see PRECAUTIONS: Hypersensitivity), abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS: Information for Patients)
 
 ### Special Senses
 
@@ -70,7 +70,7 @@ corneal opacities (see WARNINGS: Corneal Opacities), decreased night vision whic
 
 ### Urinary System
 
-glomerulonephritis (see PRECAUTIONS: Hypersensitivity), nonspecific urogenital findings (see PRECAUTIONS: Laboratory Tests for other urological parameters)
+glomerulonephritis (see PRECAUTIONS: Hypersensitivity), nonspecific urogenital findings (see PRECAUTIONS: Laboratory Testsfor other urological parameters)
 
 ## Laboratory
 

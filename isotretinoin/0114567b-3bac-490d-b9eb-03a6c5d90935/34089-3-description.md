@@ -8,5 +8,5 @@ The edible imprinting ink for all the capsules contains: shellac glaze, dehydrat
 
 Meets USP Dissolution Test 6.
 
-Chemically, isotretinoin is 13-cis-retinoic acid and is related to both retinoic acid and retinol (vitamin A). It is a yellow to orange crystalline powder with a molecular weight of 300.44.
+Chemically, isotretinoin is 13- cis-retinoic acid and is related to both retinoic acid and retinol (vitamin A). It is a yellow to orange crystalline powder with a molecular weight of 300.44.
 The structural formula is:

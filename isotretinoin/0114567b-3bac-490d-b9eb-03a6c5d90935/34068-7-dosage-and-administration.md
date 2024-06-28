@@ -3,13 +3,13 @@
 Isotretinoin capsules should be administered with a meal (see PRECAUTIONS: Information for Patients).
 
 The recommended dosage range for isotretinoin capsules are 0.5 to 1 mg/kg/day given in two divided doses with food for 15 to 20 weeks.
-In studies comparing 0.1, 0.5, and 1 mg/kg/day8, it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
+In studies comparing 0.1, 0.5, and 1 mg/kg/day 8, it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
 During treatment, the dose may be adjusted according to response of the disease and/or the appearance of clinical side effects – some of which may be dose related.
 Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2 mg/kg/day, as tolerated.
 Failure to take isotretinoin capsules with food will significantly decrease absorption.
 Before upward dose adjustments are made, the patients should be questioned about their compliance with food instructions.
 The safety of once daily dosing with isotretinoin capsules have not been established.
-Once daily dosing is not recommended.
+Once daily dosing is notrecommended.
 
 If the total nodule count has been reduced by more than 70% prior to completing 15 to 20 weeks of treatment, the drug may be discontinued.
 After a period of 2 months or more off therapy, and if warranted by persistent or recurring severe nodular acne, a second course of therapy may be initiated.
@@ -22,7 +22,7 @@ Contraceptive measures must be followed for any subsequent course of therapy (se
 
 Table 4 Isotretinoin Dosing by Body Weight (Based on Administration With Food)
 
-| kilograms | pounds | 0.5 mg/kg | 1 mg/kg | 2 mg/kgSee DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day. |
+| kilograms | pounds | 0.5 mg/kg | 1 mg/kg | 2 mg/kg See DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day. |
 | --- | --- | --- | --- | --- |
 | Body Weight |  | Total mg/day |  |  |
 | 40 | 88 | 20 | 40 | 80 |
@@ -35,6 +35,6 @@ Table 4 Isotretinoin Dosing by Body Weight (Based on Administration With Food)
 
 | INFORMATION FOR PHARMACISTS |
 | --- |
-| Access the iPLEDGE REMS system via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) to obtain an authorization and the "do not dispense to patient after" date. Isotretinoin capsules must only be dispensed in no more than a 30-day supply. |
+| Access the iPLEDGE REMS system via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) to obtain an authorization and the "do not dispense to patient after"date. Isotretinoin capsules must only be dispensed in no more than a 30-day supply. |
 | REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM. |
 | An isotretinoin capsules Medication Guide must be given to the patient each time isotretinoin capsules are dispensed, as required by law. This isotretinoin capsules Medication Guide is an important part of the risk management program for the patient. |

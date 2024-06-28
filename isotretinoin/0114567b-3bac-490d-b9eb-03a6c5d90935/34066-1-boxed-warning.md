@@ -18,6 +18,6 @@ If pregnancy does occur during treatment of a patient who is taking isotretinoin
 Special Prescribing Requirements
 
 Because of isotretinoin teratogenicity and to minimize fetal exposure, isotretinoin capsules approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
-This REMS is called iPLEDGE®.
+This REMS is called iPLEDGE ®.
 Isotretinoin capsules must only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
-Isotretinoin capsules must only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolled and meet all the requirements of iPLEDGE (see PRECAUTIONS).
+Isotretinoin capsule smust only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolled andmeet all the requirements of iPLEDGE (see PRECAUTIONS).

@@ -2,7 +2,7 @@ Document Patient Identification Number__________________________________
 
 Patient Enrollment Form for Patients who can get Pregnant
 
-To be completed by the patient (and their parent or guardianA parent or guardian of a minor patient (under age 18) must also read and initial each item before signing the consent. if patient is under age 18) and signed by their doctor.
+To be completed by the patient (and their parent or guardian A parent or guardian of a minor patient (under age 18) must also read and initial each item before signing the consent.if patient is under age 18) and signed by their doctor.
 
 Read each item below and initial in the space provided to show that you understand each item and agree to follow your doctor's instructions.
 Do not sign this consent and do not take isotretinoin if there is anything that you do not understand.
@@ -31,7 +31,7 @@ _____________________________________________________________________________
 6. I will talk with my doctor about any medicines including herbal products I plan to take during my isotretinoin treatment because hormonal birth control forms may not work if I am taking certain medicines or herbal products.
    Initial: ______
 7. I may receive a free birth control counseling session from a doctor or other family planning expert.
-   My isotretinoin doctor can give me an Isotretinoin Contraception Referral Form for this free consultation.
+   My isotretinoin doctor can give me an Isotretinoin Contraception Referral Form for this freeconsultation.
    Initial: ______
 8. I must begin using the birth control forms I have chosen as described above at least one month before I start taking isotretinoin.
    Initial: ______
@@ -44,7 +44,7 @@ _____________________________________________________________________________
    - every month during treatment
    - at the end of treatment
    - and 1 month after stopping treatment
-10. I have read and understand the materials my doctor has provided to me, including the Guide for Patients who Can Get Pregnant, and the Fact Sheet on the iPLEDGE REMS.
+10. I have read and understand the materials my doctor has provided to me, including the Guide for Patients who Can Get Pregnant,and the Fact Sheet on the iPLEDGE REMS.
     I have received information on emergency birth control.
     Initial: ______
 11. I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have any sexual contact (penis-vaginal) with a partner who could get me pregnant without using my two birth control forms at any time.
@@ -94,7 +94,7 @@ Date: ___________________________
 PLACE THE ORIGINAL SIGNED DOCUMENTS IN THE PATIENT'S MEDICAL RECORD.
 PLEASE PROVIDE A COPY TO THE PATIENT.
 
-Document Patient Identification Number ___________________________________
+Document Patient Identification Number___________________________________
 
 Patient Enrollment Form for Patients who cannot get Pregnant
 
@@ -124,9 +124,9 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
    There were reports that some of these people did not appear depressed.
    There have been reports of patients on isotretinoin becoming aggressive or violent.
    No one knows if isotretinoin caused these behaviors or if they would have happened even if the person did not take isotretinoin.
-   Some people have had other signs of depression while taking isotretinoin (see #7 below).
+   Some people have had other signs of depression while taking isotretinoin (see #7below).
    Initials: ______
-5. Before I start taking isotretinoin, I agree to tell my doctor if I have ever had symptoms of depression (see #7 below), been psychotic, attempted suicide, had any other mental problems, or take medicine for any of these problems.
+5. Before I start taking isotretinoin, I agree to tell my doctor if I have everhad symptoms of depression (see #7below), been psychotic, attempted suicide, had any other mental problems, or take medicine for any of these problems.
    Being psychotic means having a loss of contact with reality, such as hearing voices or seeing things that are not there.
    Initials: ______
 6. Before I start taking isotretinoin, I agree to tell my doctor if, to the best of my knowledge, anyone in my family has ever had symptoms of depression, been psychotic, attempted suicide, or had any other serious mental problems.
@@ -152,7 +152,7 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
 10. I will not give blood while taking isotretinoin or for 1 month after I stop taking isotretinoin.
     I understand that if someone who is pregnant gets my donated blood, their baby may be exposed to isotretinoin and may be born with serious birth defects.
     Initials: ______
-11. I have read the Fact Sheet for the iPLEDGE REMS, and other materials my provider provided me containing important safety information about isotretinoin.
+11. I have read the Fact Sheet for the iPLEDGE REMS,and other materials my provider provided me containing important safety information about isotretinoin.
     I understand all the information I received.
     Initials: ______
 12. My doctor and I have decided I should take isotretinoin.
@@ -180,7 +180,7 @@ Telephone (_______._______.__________)
 I have:
 
 - fully explained to the patient, _______________________________________, the nature and purpose of isotretinoin treatment, including its benefits and risks
-- provided the patient with the appropriate educational materials, such as the Fact Sheet for the iPLEDGE REMS, and asked the patient if there are any questions regarding their treatment with isotretinoin
+- provided the patient with the appropriate educational materials, such as the Fact Sheet for the iPLEDGE REMS,and asked the patient if there are any questions regarding their treatment with isotretinoin
 - answered those questions to the best of my ability
 
 Doctor Signature: ____________________________________________________________

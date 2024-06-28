@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-The oral LD50 of isotretinoin is greater than 4000 mg/kg in rats and mice (>600 times the recommended clinical dose of 1 mg/kg/day after normalization of the rat dose for total body surface area and >300 times the recommended clinical dose of 1 mg/kg/day after normalization of the mouse dose for total body surface area) and is approximately 1960 mg/kg in rabbits (653 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area).
+The oral LD 50of isotretinoin is greater than 4000 mg/kg in rats and mice (>600 times the recommended clinical dose of 1 mg/kg/day after normalization of the rat dose for total body surface area and >300 times the recommended clinical dose of 1 mg/kg/day after normalization of the mouse dose for total body surface area) and is approximately 1960 mg/kg in rabbits (653 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area).
 In humans, overdosage has been associated with vomiting, facial flushing, cheilosis, abdominal pain, headache, dizziness, and ataxia.
 These symptoms quickly resolve without apparent residual effects.
 
