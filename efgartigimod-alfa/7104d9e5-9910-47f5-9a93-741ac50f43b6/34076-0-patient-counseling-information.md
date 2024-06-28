@@ -1,10 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Pregnancy Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to VYVGART HYTRULO during pregnancy.
-Encourage participation and advise patients about how they may enroll in the registry [see Use In Specific Populations (8.1)].
-
 Infections
 
 Instruct patients to communicate any history of infections to the healthcare provider and to contact their healthcare provider if they develop any symptoms of an infection.
@@ -19,3 +14,8 @@ Inform patients about the signs and symptoms of these reactions, and advise pati
 Infusion-Related Reactions
 
 Advise patients of the potential risk of infusion-related reactions, which can include hypertension, chills, shivering, and chest, abdominal, and back pain [see Warnings and Precautions (5.3)].
+
+Pregnancy Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to VYVGART HYTRULO during pregnancy.
+Encourage participation and advise patients about how they may enroll in the registry [see Use in Specific Populations (8.1)].

@@ -51,7 +51,7 @@ Patients with Renal Impairment
 
 No dedicated pharmacokinetic study has been performed in patients with renal impairment.
 
-A population PK analysis of data from the VYVGART HYTRULO clinical studies indicated that patients with mild renal impairment (eGFR 60-89 mL/min/1.73 m2) had 11% increase in exposure relative to the exposure in patients with normal renal function [see Use in Specific Populations (8.6)].
+Population PK analyses of data from the VYVGART HYTRULO clinical studies indicated that patients with mild renal impairment (eGFR 60-89 mL/min/1.73 m2) had 11 to 20% increase in exposure relative to the exposure in patients with normal renal function [see Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
@@ -75,7 +75,11 @@ Efgartigimod alfa may decrease concentrations of compounds that bind to the huma
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of VYVGART HYTRULO or of other efgartigimod products.
 
-In up to 10 weeks treatment in Study 2, the incidence of anti-efgartigimod alfa antibodies was 35% (19/55) following treatment with VYVGART HYTRULO and 20% (11/55) in patients receiving intravenous efgartigimod alfa-fcab.
+In Study 2, in up to 10 weeks following the initiation of a treatment period with 4 weekly administrations, the incidence of anti-efgartigimod alfa antibodies was 35% (19/55) following treatment with VYVGART HYTRULO and 20% (11/55) in patients receiving intravenous efgartigimod alfa-fcab.
 For both IV and SC arms, neutralizing anti-efgartigimod alfa antibodies were detected in 4% (2/55) of patients.
+
+In Study 3, in up to 12 weeks of treatment in stage A and 48 weeks in stage B, the incidence of anti-efgartigimod alfa antibodies was 6% (20/317) in stage A and 2% (2/111) in stage B, following treatment with VYVGART HYTRULO.
+Neutralizing anti-efgartigimod alfa antibodies were detected in 0.3% (1/317) of patients in stage A and in no patient in stage B.
+
 Some neutralizing antibodies may not be detected by the assay.
 The available data are too limited to make definitive conclusions regarding immunogenicity and the effect on pharmacokinetics, safety, or efficacy of VYVGART HYTRULO.

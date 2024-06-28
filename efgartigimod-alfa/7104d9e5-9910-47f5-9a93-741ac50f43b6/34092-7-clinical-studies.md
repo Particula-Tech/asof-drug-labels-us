@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Generalized Myasthenia Gravis
+
 Study 1 (described below) which established the effectiveness of efgartigimod alfa-fcab for the treatment of generalized myasthenia gravis (gMG) in adults who are AChR antibody positive was conducted with efgartigimod alfa-fcab intravenous formulation.
 In Study 2, VYVGART HYTRULO demonstrated a comparable pharmacodynamic effect on AChR antibody reduction as compared to the efgartigimod alfa-fcab intravenous formulation, which established the efficacy of VYVGART HYTRULO [see Clinical Pharmacology (12.2)].
 
@@ -60,3 +62,52 @@ Figure 1: Mean Change in Total MG-ADL From Cycle 1 Baseline Over Time in AChR-Ab
 Figure 2 shows the distribution of response on the MG-ADL and QMG during cycle 1, four weeks after the first infusion with EFG IV.
 
 Figure 2: Percentage of Patients with MG-ADL and QMG Total Score Change 4 Weeks Post Initial Infusion of the First Cycle in AChR-Ab Positive Patients
+
+## 14.2 Chronic Inflammatory Demyelinating Polyneuropathy
+
+The efficacy of VYVGART HYTRULO for the treatment of adults with chronic inflammatory demyelinating polyneuropathy (CIDP) was established in a two stage, multicenter study (Study 3; NCT04281472).
+Study 3 included an open-label period to identify VYVGART HYTRULO responders (stage A) who then entered a randomized, double-blind, placebo-controlled, withdrawal period (stage B).
+
+Study 3 enrolled male and female patients age 18 years and older, who at the time of screening, had a documented diagnosis of definite or probable CIDP using the European Federation of Neurological Societies/Peripheral Nerve Society (EFNS/PNS; 2010) criteria for progressing or relapsing forms.
+
+The Inflammatory Neuropathy Cause and Treatment disability score (INCAT) is a scale used to assess the impact of CIDP on daily upper and lower limb function, and is composed of the arm score and leg score (0 to 5 points for each).
+A total score on the INCAT ranges from 0 to 10 points with a higher number representing more disability.
+The adjusted INCAT (aINCAT) disability score, identical to the INCAT disability score but with changes in the upper limb function from 0 (normal) to 1 (minor symptoms) excluded, was used to assess efficacy for VYVGART HYTRULO for the treatment of CIDP.
+
+Stage A
+
+In stage A, a total of 322 patients received up to 12 once weekly subcutaneous injections of VYVGART HYTRULO 1008 mg / 11,200 units until evidence of improvement occurred at two consecutive study visits.
+Improvement was defined as aINCAT improvement ≥1 point, I-RODS improvement ≥4 points, or mean grip strength improvement ≥ 8 kPa.
+Stage A included 228 patients currently receiving standard-of-care therapy and 94 patients who had either not received prior treatment for CIDP or were not treated with standard-of-care therapy for at least 6 months before study entry.
+Sixty-nine percent of patients (n=221) who had documented improvement at two consecutive visits during Stage A then entered Stage B.
+
+Stage B
+
+In stage B, a total of 221 patients were randomized to receive once weekly subcutaneous injections of VYVGART HYTRULO 1008 mg / 11,200 units (n=111) or placebo (n=110).
+
+Baseline characteristics of patients in stage B were similar between treatment groups.
+Patients had a median age of 55 years (range: 20 to 82 years), a median time since CIDP diagnosis of 2.2 years, and median INCAT score of 3.0.
+Sixty-four percent were male and 65% were White, 30% Asian, and 1% African American.
+
+Stage B included 146 patients currently receiving standard-of-care therapy and 75 patients who had either not received prior treatment for CIDP or were not treated with standard-of-care therapy for at least 6 months before study entry.
+
+The primary endpoint was the time to clinical deterioration defined as a 1-point increase in aINCAT at two consecutive visits or a >1-point increase in aINCAT at one visit.
+Patients who had clinical deterioration or completed week 48 in Stage B without clinical deterioration were withdrawn from the placebo-controlled portion of the study.
+The study stopped when 88 events of clinical deterioration occurred for the primary endpoint analysis.
+
+Patients who received VYVGART HYTRULO experienced a longer time to clinical deterioration (i.e., increase of ≥1 point in aINCAT score) compared to patients who received placebo, which was statistically significant, as demonstrated by a hazard ratio of 0.394 [95% CI (0.253; 0.614) p<0.0001].
+The results are presented in Table 3 and Figure 3.
+
+Table 3: Time to First Increase of ≥1 Point in aINCAT Score In Patients With CIDP In Study 3 Stage B
+
+| (N=111) | (N=110) |  |
+| --- | --- | --- |
+|  | Stage B |  |
+| VYVGART HYTRULO | Placebo |  |
+| Time to 1st aINCAT increase (clinical deterioration) in days |  |  |
+| Hazard ratio (95% CI) | 0.394 (0.253; 0.614) p-value <0.0001 |  |
+| N=number of patients in the analysis set; %: percentage; aINCAT: adjusted Inflammatory Neuropathy Cause and Treatment |  |  |
+
+Figure 3: Time To The First aINCAT Increase (Kaplan-Meier Curve) In Patients With CIDP In Study 3 Stage B
+
+Note: The time to clinical deterioration is defined as the time in days from the first VYVGART HYTRULO or placebo administration in Stage B to the first occurrence of either: an increase in aINCAT score of 1 point compared with Stage B baseline if confirmed at the next visit or an increase in aINCAT score of >1 point compared with Stage B baseline.

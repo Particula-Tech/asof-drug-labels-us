@@ -21,7 +21,7 @@ Evaluate the need to administer age-appropriate vaccines according to immunizati
 
 In clinical trials, hypersensitivity reactions, including rash, angioedema, and dyspnea were observed in patients treated with VYVGART HYTRULO or intravenous efgartigimod alfa-fcab.
 Urticaria was also observed in patients treated with VYVGART HYTRULO.
-Hypersensitivity reactions were mild or moderate, occurred within one hour to three weeks of administration, and did not lead to treatment discontinuation.
+Hypersensitivity reactions were mild or moderate, occurred within one hour to three weeks of administration.
 
 Anaphylaxis and hypotension leading to syncope have been reported in postmarketing experience with intravenous efgartigimod alfa-fcab.
 Anaphylaxis and hypotension occurred during or within an hour of administration and led to infusion discontinuation and in some cases to permanent treatment discontinuation.

@@ -14,7 +14,7 @@ Do not administer intravenously.
 
 Do not dilute VYVGART HYTRULO.
 
-## 2.3 Recommended Dose and Dose Schedules
+## 2.3 Recommended Dosage for gMG
 
 The recommended dosage of VYVGART HYTRULO is 1,008 mg / 11,200 units (1,008 mg efgartigimod alfa and 11,200 units hyaluronidase) administered subcutaneously over approximately 30 to 90 seconds in cycles of once weekly injections for 4 weeks.
 
@@ -24,7 +24,14 @@ The safety of initiating subsequent cycles sooner than 50 days from the start of
 If a scheduled dose is missed, VYVGART HYTRULO may be administered up to 3 days after the scheduled time point.
 Thereafter, resume the original dosing schedule until the treatment cycle is completed.
 
-## 2.4 Preparation and Administration Instructions
+## 2.4 Recommended Dosage for CIDP
+
+The recommended dosage of VYVGART HYTRULO is 1,008 mg / 11,200 units (1,008 mg efgartigimod alfa and 11,200 units hyaluronidase) administered subcutaneously over approximately 30 to 90 seconds as once weekly injections.
+
+If a scheduled injection is missed, VYVGART HYTRULO may be administered up to 3 days after the scheduled time point.
+Thereafter, resume the original dosing schedule.
+
+## 2.5 Preparation and Administration Instructions
 
 Use aseptic technique when preparing and administering VYVGART HYTRULO.
 Do not shake the vial.
