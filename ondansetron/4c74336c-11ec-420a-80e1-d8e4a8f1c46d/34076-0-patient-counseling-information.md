@@ -35,18 +35,9 @@ Instruct patients not to remove ondansetron orally disintegrating tablets from t
 - Immediately place the ondansetron orally disintegrating tablet on top of the tongue where it will dissolve in seconds, then swallow with saliva.
 - Administration with liquid is not necessary.
 
-Manufactured by:
-
-Chartwell Pharmaceuticals, LLC.
-
-Congers, NY 10920
-
-Manufactured for:
-
-Chartwell RX, LLC.
-
+Manufactured for: Chartwell RX, LLC.
 Congers, NY 10920
 
 L70639
 
-Rev: 03/2022
+Rev: 06/2024

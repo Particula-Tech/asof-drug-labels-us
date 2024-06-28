@@ -21,7 +21,7 @@ The most common adverse reactions reported in greater than or equal to 4% of 300
 
 The most common adverse reactions reported in 4 trials in adults for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy (primarily cyclophosphamide-based regimens) are shown in Table 3.
 
-Table 3: Most Common Adverse Reactions in Adults aaReported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo. for the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
+Table 3: Most Common Adverse Reactions in Adults afor the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
 
 | Adverse Reaction | Ondansetron 8 mg Twice Daily (n = 242) | Placebo (n = 262) |
 | --- | --- | --- |
@@ -30,9 +30,11 @@ Table 3: Most Common Adverse Reactions in Adults aaReported in greater than or e
 | Constipation | 22 (9%) | 1 (<1%) |
 | Diarrhea | 15 (6%) | 10 (4%) |
 
+aReported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
+
 Less Common Adverse Reactions
 
-Central Nervous System: Extrapyramidal reactions (less than 1% of patients).
+Central Nervous System:Extrapyramidal reactions (less than 1% of patients).
 
 Hepatic: Aspartate transaminase (AST) and/or alanine transaminase (ALT) values exceeded twice the upper limit of normal in approximately 1% to 2% of 723 patients receiving ondansetron and cyclophosphamide-based chemotherapy in US clinical trials.
 The increases were transient and did not appear to be related to dose or duration of therapy.
@@ -44,7 +46,7 @@ The etiology of the liver failure is unclear.
 
 Integumentary: Rash (approximately 1% of patients).
 
-Other (less than 2%): Anaphylaxis, bronchospasm, tachycardia, angina, hypokalemia, electrocardiographic alterations, vascular occlusive events, and grand mal seizures.
+Other (less than 2%):Anaphylaxis, bronchospasm, tachycardia, angina, hypokalemia, electrocardiographic alterations, vascular occlusive events, and grand mal seizures.
 Except for bronchospasm and anaphylaxis, the relationship to ondansetron is unclear.
 
 Prevention of Radiation-Induced Nausea and Vomiting
@@ -56,7 +58,7 @@ Prevention of Postoperative Nausea and/or Vomiting
 The most common adverse reactions reported in adults in trial(s) of prevention of postoperative nausea and vomiting are shown in Table 4.
 In these trial(s), patients were receiving multiple concomitant perioperative and postoperative medications in both treatment groups.
 
-Table 4: Most Common Adverse Reactions in Adults aaReported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo. for the Prevention of Postoperative Nausea and Vomiting
+Table 4: Most Common Adverse Reactions in Adults afor the Prevention of Postoperative Nausea and Vomiting
 
 | Adverse Reaction | Ondansetron 16 mg as a Single Dose (n = 550) | Placebo (n = 531) |
 | --- | --- | --- |
@@ -68,6 +70,8 @@ Table 4: Most Common Adverse Reactions in Adults aaReported in greater than or e
 | Anxiety/Agitation | 33 (6%) | 29 (5%) |
 | Urinary retention | 28 (5%) | 18 (3%) |
 | Pruritus | 27 (5%) | 20 (4%) |
+
+aReported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
 
 In a crossover study with 25 subjects, headache was reported in 6 subjects administered ondansetron orally disintegrating tablet with water (24%) as compared with 2 subjects administered ondansetron orally disintegrating tablet without water (8%).
 

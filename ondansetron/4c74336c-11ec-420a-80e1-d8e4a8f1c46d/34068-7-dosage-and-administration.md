@@ -12,14 +12,14 @@ Table 1: Adult Recommended Dosage Regimen for Prevention of Nausea and Vomiting
 | --- | --- |
 | Highly Emetogenic Cancer Chemotherapy | A single 24 mg dose administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin greater than or equal to 50 mg/m 2. |
 | Moderately Emetogenic Cancer Chemotherapy | 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8 mg dose 8 hours after the first dose. Then administer 8 mg twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy. |
-| Radiotherapy | For total body irradiation: 8 mg administered 1 to 2 hours before each fraction of radiotherapy each day. For single high-dose fraction radiotherapy to the abdomen: 8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8-mg doses every 8 hours after the first dose for 1 to 2 days after completion of radiotherapy. For daily fractionated radiotherapy to the abdomen: 8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8-mg doses every 8 hours after the first dose for each day radiotherapy is given. |
+| Radiotherapy | For total body irradiation:8 mg administered 1 to 2 hours before each fraction of radiotherapy each day. For single high-dose fraction radiotherapy to the abdomen:8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8-mg doses every 8 hours after the first dose for 1 to 2 days after completion of radiotherapy. For daily fractionated radiotherapy to the abdomen:8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8-mg doses every 8 hours after the first dose for each day radiotherapy is given. |
 | Postoperative | 16 mg administered 1 hour before induction of anesthesia. |
 
 Table 2: Pediatric Recommended Dosage Regimen for Prevention of Nausea and Vomiting
 
 | Indication | Dosage Regimen |
 | --- | --- |
-| Moderately Emetogenic Cancer Chemotherapy | 12 to 17 years of age: 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8-mg dose 8 hours after the first dose. Then administer 8 mg twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy. 4 to 11 years of age: 4 mg administered 30 minutes before the start of chemotherapy, with a subsequent 4 mg dose 4 and 8 hours after the first dose. Then administer 4 mg three times a day for 1 to 2 days after completion of chemotherapy. |
+| Moderately Emetogenic Cancer Chemotherapy | 12 to 17 years of age:8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8-mg dose 8 hours after the first dose. Then administer 8 mg twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy. 4 to 11 years of age:4 mg administered 30 minutes before the start of chemotherapy, with a subsequent 4 mg dose 4 and 8 hours after the first dose. Then administer 4 mg three times a day for 1 to 2 days after completion of chemotherapy. |
 
 ## 2.2 Dosage in Hepatic Impairment
 

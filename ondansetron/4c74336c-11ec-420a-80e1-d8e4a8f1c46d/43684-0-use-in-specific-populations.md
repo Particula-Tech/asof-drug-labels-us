@@ -56,8 +56,14 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of orally administered ondansetron have been established in pediatric patients 4 years and older for the prevention of nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
 Use of ondansetron in these age-groups is supported by evidence from adequate and well-controlled studies of ondansetron in adults with additional data from 3 open-label, uncontrolled, non-US trials in 182 pediatric patients aged 4 to 18 years with cancer who were given a variety of cisplatin or noncisplatin regimens [see Dosage and Administration (2.2), Clinical Studies (14.1)].
+
 Additional information on the use of ondansetron in pediatric patients may be found in ondansetron Injection prescribing information.
-The safety and effectiveness of orally administered ondansetron have not been established in pediatric patients for: • prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy • prevention of nausea and vomiting associated with radiotherapy • prevention of postoperative nausea and/or vomiting
+
+The safety and effectiveness of orally administered ondansetron have not been established in pediatric patients for:
+
+- prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy
+- prevention of nausea and vomiting associated with radiotherapy
+- prevention of postoperative nausea and/or vomiting
 
 ## 8.5 Geriatric Use
 
