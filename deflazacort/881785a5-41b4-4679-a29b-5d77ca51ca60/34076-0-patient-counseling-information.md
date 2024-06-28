@@ -67,6 +67,6 @@ www.trispharma.com
 LB8698
 
 Rev.
-00
+01
 
-03/2024
+06/2024

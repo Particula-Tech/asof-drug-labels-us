@@ -29,21 +29,6 @@ The dose should then be administered immediately.
 
 Discard any unused deflazacort oral suspension remaining after 1 month of first opening the bottle.
 
-## 2.4 Important Preparation and Administration Instructions
-
-Deflazacort oral suspension can be taken with or without food.
-Do not administer deflazacort oral suspension with grapefruit juice [see Drug Interactions (7.1)].
-
-Deflazacort Oral Suspension
-
-Shake deflazacort oral suspension well before administration.
-
-Use only the oral dispenser provided with the product.
-After withdrawing the appropriate dose into the oral dispenser, slowly add the deflazacort oral suspension into 3 to 4 ounces of juice (except grapefruit juice) or milk and mix well.
-The dose should then be administered immediately.
-
-Discard any unused deflazacort oral suspension remaining after 1 month of first opening the bottle.
-
 ## 2.5 Dosage Modification for Use with CYP3A4 Inhibitors and Inducers
 
 CYP3A4 Inhibitors

@@ -58,7 +58,7 @@ A no-effect dose was not identified.
 In addition, neurological and neurobehavioral abnormalities were observed at the mid and/or high dose.
 Plasma 21-desDFZ exposure (AUC) at the lowest dose tested (0.1 mg/kg/day) was lower than that in humans at the recommended human dose of deflazacort oral suspension (0.9 mg/kg/day).
 
-Additional pediatric use information is approved for PTC Therapeutics, Inc.'s Emflaza™ (deflazacort) oral suspension.
+Additional pediatric use information is approved for PTC Therapeutics, Inc.'s Emflaza® (deflazacort) oral suspension.
 However, due to PTC Therapeutics, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
