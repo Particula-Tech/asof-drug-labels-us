@@ -166,7 +166,7 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | --- | --- |
 | Blood and Lymphatic System Disorders | Agranulocytosis |
 | Pancytopenia [see Warnings and Precautions (5.7)] |  |
-| Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
+| Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) Acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction |
 | Ear and Labyrinth Disorders | Hearing impairment, including deafness (reversible in majority of cases) |
 | Eye Disorders | Vision loss (especially in the course of CNS reactions, transient in majority of cases) |
 | Hepatobiliary Disorders | Hepatitis (predominantly cholestatic) |

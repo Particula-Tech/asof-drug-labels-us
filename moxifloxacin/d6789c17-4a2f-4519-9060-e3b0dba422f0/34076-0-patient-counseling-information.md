@@ -52,5 +52,4 @@ Plague Studies
 
 Inform patients given moxifloxacin hydrochloride for plague that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for plague was based on efficacy studies conducted in animals.
-
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 06/2024 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

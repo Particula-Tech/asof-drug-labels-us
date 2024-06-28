@@ -93,8 +93,8 @@ Discontinue moxifloxacin hydrochloride immediately at the first appearance of a 
 ## 5.8 Hypersensitivity Reactions
 
 Serious anaphylactic reactions, some following the first dose, have been reported in patients receiving fluoroquinolone therapy, including moxifloxacin hydrochloride.
-Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
-Discontinue moxifloxacin hydrochloride at the first appearance of a skin rash or any other sign of hypersensitivity [see Warnings and Precautions (5.7)].
+Some reactions were accompanied by cardiovascular collapse, acute myocardial ischemia with or without myocardial infarction, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
+Discontinue moxifloxacin hydrochloride at the first appearance of a skin rash or any other sign of hypersensitivity [see Warnings and Precautions (5.7) and Adverse Reactions (6.1, 6.2)].
 
 ## 5.9 Risk of Aortic Aneurysm and Dissection
 
