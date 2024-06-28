@@ -2,8 +2,8 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store methadone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving methadone hydrochloride tablets unsecured can pose a deadly risk to others in the home.
+Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store methadone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving methadone hydrochloride tablets unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused methadone hydrochloride tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -48,10 +48,6 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 MAOI Interaction Inform patients to avoid taking methadone hydrochloride tablets while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking methadone hydrochloride tablets [see Warnings and Precautions (5.9), Drug Interactions (7)].
 
-Adrenal Insufficiency Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
-Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
-
 Important Administration Instructions Instruct patients how to properly take methadone hydrochloride tablets, including the following:
 
 - Use methadone hydrochloride tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Dosage and Administration (2), Warnings and Precautions (5.2)].
@@ -92,7 +88,7 @@ Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and 
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 11/2023
+Issued: 12/2023
 
 Mallinckrodt™ Pharmaceuticals
 

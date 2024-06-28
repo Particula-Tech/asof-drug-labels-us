@@ -2,7 +2,8 @@
 
 Addiction, Abuse, and Misuse Because the use of methadone hydrochloride tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
-Life-Threatening Respiratory Depression Because the use of methadone hydrochloride tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.2)].
+Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of methadone hydrochloride tablets, especially during initiation or following a dosage increase.
+To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see Warnings and Precautions (5.2)].
 
 Accidental Ingestion Accidental ingestion of even one dose of methadone hydrochloride tablets, especially by children, can result in a fatal overdose of methadone [see Warnings and Precautions (5.2)].
 
@@ -19,7 +20,7 @@ Most cases involve patients being treated for pain with large, multiple daily do
 Closely monitor patients with risk factors for development of prolonged QT interval, a history of cardiac conduction abnormalities, and those taking medications affecting cardiac conduction for changes in cardiac rhythm during initiation and titration of methadone hydrochloride tablets [see Warnings and Precautions (5.4)].
 
 Cytochrome P450 Interaction The concomitant use of methadone hydrochloride tablets with all cytochrome P450 3A4, 2B6, 2C19, 2C9 or 2D6 inhibitors may result in an increase in methadone plasma concentrations, which could cause potentially fatal respiratory depression.
-In addition, discontinuation of concomitantly used cytochrome P450 3A4 2B6, 2C19, or 2C9 inducers may also result in an increase in methadone plasma concentration.
-Follow patients closely for respiratory depression and sedation, and consider dosage reduction with any changes of concomitant medications that can result in an increase in methadone levels [see Warnings and Precautions (5.6), Drug Interactions (7)].
+In addition, discontinuation of concomitantly used cytochrome P450 3A4, 2B6, 2C19, or 2C9 inducers may also result in an increase in methadone plasma concentration.
+Follow patients closely for respiratory depression and sedation, and consider dosage reduction with any changes of concomitant medications that can result in an increase in methadone levels [see Warnings and Precautions (5.7), Drug Interactions (7)].
 
 Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage (1), Dosage and Administration (2.1)].

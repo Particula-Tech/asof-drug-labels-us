@@ -166,7 +166,7 @@ Other signs and symptoms also may develop, including irritability, anxiety, back
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
 In addition, evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated for an extended period of time and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+When managing patients taking opioid analgesics, particularly those who have been treated for an extended period of time, and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
 
 ## 2.7 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction

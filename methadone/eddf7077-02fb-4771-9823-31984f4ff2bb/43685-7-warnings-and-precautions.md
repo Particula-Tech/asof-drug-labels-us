@@ -32,7 +32,7 @@ Carbon dioxide (CO2) retention from opioid-induced respiratory depression can ex
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone hydrochloride tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
-Regularly evaluate patients closely for respiratory depression when initiating therapy with methadone hydrochloride tablets and following dose increases.
+Regularly evaluate patients for respiratory depression when initiating therapy with methadone hydrochloride tablets and following dose increases.
 
 To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see Dosage and Administration (2.4, 2.5)].
 Overestimating the methadone hydrochloride tablets dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
@@ -62,12 +62,12 @@ Emphasize the importance of calling 911 or getting emergency medical help, even 
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of methadone hydrochloride tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of methadone hydrochloride tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
 
 For Patients Being Treated for Pain Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
-Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics[see Drug Interactions (7)].
+Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
 If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
@@ -124,7 +124,7 @@ The use of methadone in patients already known to have a prolonged QT interval h
 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of use of opioids for an extended period of time during pregnancy. whether that use is medically-authorized or illicit.
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of use of opioids for an extended period of time during pregnancy.
 Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
 Advise the patient of the risk of NOWS so that appropriate planning for management of the neonate can occur.
 Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Specific Populations (8.1)].
@@ -147,8 +147,9 @@ Healthcare providers are strongly encouraged to do all of the following:
   The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
 - Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
-- To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
-  The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
+
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 
 ## 5.7 Risks of Concomitant Use of Cytochrome P450 3A4, 2B6, 2C19, 2C9, or 2D6 Inhibitors or Discontinuation of P450 3A4, 2B6, 2C19, or 2C9 Inducers
 
