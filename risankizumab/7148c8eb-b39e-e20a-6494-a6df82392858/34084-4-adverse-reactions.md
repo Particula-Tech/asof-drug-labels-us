@@ -5,7 +5,7 @@ The following adverse reactions are discussed in other sections of labeling:
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
 - Tuberculosis [see Warnings and Precautions (5.3)]
-- Hepatotoxicity in Treatment of Crohn’s Disease [see Warnings and Precautions (5.4)]
+- Hepatotoxicity in Treatment of Inflammatory Bowel Disease [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,10 +19,10 @@ Of these, 1208 subjects with psoriasis were exposed to SKYRIZI for at least one 
 Data from placebo- and active-controlled trials were pooled to evaluate the safety of SKYRIZI for up to 16 weeks.
 In total, 1306 subjects were evaluated in the SKYRIZI 150 mg group.
 
-Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% and at a higher rate in the SKYRIZI group than the placebo group during the 16-week controlled period of pooled clinical trials.
+Table 2 summarizes the adverse drug reactions that occurred at a rate of at least 1% and at a higher rate in the SKYRIZI group than the placebo group during the 16-week controlled period of pooled clinical trials.
 
-Table 1.
-Adverse Drug Reactions Occurring in ≥ 1% of Subjects on SKYRIZI through Week 16
+Table 2.
+Adverse Drug Reactions Occurring in ≥ 1% of Subjects with Plaque Psoriasis on SKYRIZI through Week 16
 
 | Adverse Drug Reactions | SKYRIZI N = 1306 n (%) | Placebo N = 300 n (%) |
 | --- | --- | --- |
@@ -67,10 +67,10 @@ Long-term safety up to 52 weeks was evaluated in subjects who responded to induc
 In the two induction studies (CD-1, CD-2) and the dose finding study (CD-4), 620 subjects received the SKYRIZI intravenous induction regimen at Weeks 0, 4 and 8.
 In the maintenance study (CD-3), 297 subjects who achieved clinical response, defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in studies CD-1 and CD-2, received a maintenance regimen of SKYRIZI either 180 mg or 360 mg subcutaneously at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
 
-Adverse reactions reported in > 3% of subjects in induction studies and at a higher rate than placebo are shown in Table 2.
+Adverse reactions reported in > 3% of subjects in induction studies and at a higher rate than placebo are shown in Table 3.
 
-Table 2.
-Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treated with SKYRIZI in Placebo-Controlled 12-Week Induction Studies
+Table 3.
+Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treated with SKYRIZI in Placebo-Controlled 12-Week Induction Studies (CD-1, CD-2, and CD-4)
 
 | Adverse Drug Reactions | SKYRIZI 600 mg Intravenous Infusiona N = 620 n (%) | Placebo N = 432 n (%) |
 | --- | --- | --- |
@@ -79,9 +79,9 @@ Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treat
 | Arthralgia | 31 (5.0) | 19 (4.4) |
 | a SKYRIZI 600 mg as an intravenous infusion at Week 0, Week 4, and Week 8. b Includes: influenza like illness, nasopharyngitis, influenza, pharyngitis, upper respiratory tract infection, viral upper respiratory tract infection, COVID-19, nasal congestion, respiratory tract infection viral, viral pharyngitis, tonsillitis, upper respiratory tract inflammation c Includes: headache, tension headache |  |  |
 
-Adverse reactions reported in >3% of subjects in the maintenance study and at a higher rate than placebo are shown in Table 3.
+Adverse reactions reported in >3% of subjects in the maintenance study and at a higher rate than placebo are shown in Table 4.
 
-Table 3.
+Table 4.
 Adverse Reactions Reported in >3% of Subjects with Crohn’s Disease Treated with SKYRIZIa in Placebo-Controlled 52-Week Maintenance Study (CD-3)
 
 | Adverse Drug Reactions | SKYRIZI 180 mg Subcutaneous Injection N = 155 n (%) | SKYRIZI 360 mg Subcutaneous Injection N = 142 n (%) | Placebo N = 143 n (%) |
@@ -109,7 +109,34 @@ Elevations in lipid parameters (total cholesterol and low-density lipoprotein ch
 Increases from baseline and increases relative to placebo were observed at Week 4 and remained stable to Week 12.
 Following SKYRIZI induction, mean total cholesterol increased by 9.4 mg/dL from baseline to a mean absolute value of 175.1 mg/dL at Week 12.
 Similarly, mean LDL-C increased by 6.6 mg/dL from baseline to a mean absolute value of 92.6 mg/dL at Week 12.
-Mean LDL-C increased by 3.1 mg/dL from baseline to a mean absolute value of 99.0 mg/dL at Week 52 with SKYRIZI 180 mg maintenance treatment and by 2.3 mg/dL from baseline to a mean absolute value of 102.2 mg/dL at Week 52 with SKYRIZI 360 mg maintenance treatment.
+Mean LDL-C increased by 3.1 mg/dL from baseline to a mean absolute value of 99.0 mg/dL at Week 52 with SKYRIZI 180 mg maintenance treatment and by 2.3 mg/dL from baseline to a mean absolute value of 102.2 mg/dL at Week 52 with SKYRIZI 360 mg maintenance treatment (CD-3).
+
+Ulcerative Colitis
+
+SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active ulcerative colitis in a randomized, double-blind, placebo-controlled induction study (UC-1) and a randomized, double-blind, placebo-controlled, dose-finding study (UC-3).
+Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in a randomized, double-blind, placebo-controlled maintenance study (UC-2) [see Clinical Studies (14.4)].
+
+In the induction studies (UC-1 and UC-3), 712 subjects received the SKYRIZI 1,200 mg intravenous induction regimen at Weeks 0, 4 and 8.
+In the maintenance study (UC-2), 347 subjects who achieved clinical response, defined as a decrease in mMS of ≥2 points and ≥30% from baseline and a decrease in RBS ≥1 from baseline or an absolute RBS ≤1, received a maintenance regimen of SKYRIZI either 180 mg or 360 mg subcutaneously at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
+
+The adverse reaction reported in ≥3% subjects treated with SKYRIZI in the ulcerative colitis induction studies (UC-1 and UC-3) and at a higher rate than placebo was arthralgia (3% SKYRIZI vs 1% placebo).
+
+Adverse reactions reported in ≥3% of subjects treated with SKYRIZI in the maintenance study (UC-2) and at a higher rate than placebo are shown in Table 5.
+
+Table 5.
+Adverse Reactions Reported in ≥3% of Subjects with Ulcerative Colitis Treated with SKYRIZIa in Placebo-Controlled 52-Week Maintenance Study (UC-2)
+
+| Adverse Drug Reactions | SKYRIZI 180 mg Subcutaneous Injection N = 170 n (%) | SKYRIZI 360 mg Subcutaneous Injection N = 177 n (%) | Placebo N = 173 n (%) |
+| --- | --- | --- | --- |
+| Arthralgia | 9 (5.3) | 17 (9.6) | 8 (4.6) |
+| Pyrexia | 8 (4.7) | 7 (4.0) | 6 (3.5) |
+| Injection site reactionsb,c | 5 (2.9) | 5 (2.8) | 2 (1.2) |
+| Rashd | 7 (4.1) | 1 (0.6) | 3 (1.7) |
+| a SKYRIZI 180 mg or 360 mg at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks b Includes: application site pain, injection site erythema, injection site pain, injection site pruritus, injection site reaction c Some subjects had multiple occurrences of injection site reactions. In this table, injection site reactions are counted only once per subject for the rate calculations. d Includes: rash and rash macular |  |  |  |
+
+Specific Adverse Drug Reactions
+
+The rates of infections, serious infections, and lipid elevations in subjects with UC who received SKYRIZI compared to subjects who received placebo in the induction studies (UC-1 and UC-3) and maintenance study (UC-2) were similar to the rates in subjects with CD who received SKYRIZI compared to subjects who received placebo in the induction studies (CD-1, CD-2, and CD-4) and maintenance study (CD-3).
 
 ## 6.2 Immunogenicity
 
@@ -137,6 +164,11 @@ Crohn’s Disease
 By Week 64, antibodies to risankizumab-rzaa developed in approximately 3.4% (2/58) of subjects treated with SKYRIZI induction followed by 360 mg maintenance regimen.
 No subjects (0/57) treated with SKYRIZI induction followed by 180 mg maintenance regimen developed antibodies to risankizumab-rzaa.
 None of the subjects who developed antibodies to risankizumab-rzaa had antibodies that were classified as neutralizing.
+
+Ulcerative Colitis
+
+By Week 64, antibodies to risankizumab-rzaa developed in approximately 8.9% (8/90) or 4.4% (4/91) of subjects treated with SKYRIZI induction followed by the 180 mg or 360 mg maintenance regimen, respectively.
+Of the subjects who developed antibodies to risankizumab-rzaa, 75% (6.7% of all subjects treated with SKYRIZI induction followed by the 180 mg maintenance regimen) or 50% (2.2% of all subjects treated with SKYRIZI induction followed by the 360 mg maintenance regimen), respectively, had antibodies that were classified as neutralizing.
 
 ## 6.3 Postmarketing Experience
 

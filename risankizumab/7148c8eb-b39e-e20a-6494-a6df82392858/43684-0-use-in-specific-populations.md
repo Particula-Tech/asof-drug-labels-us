@@ -15,7 +15,7 @@ There are adverse pregnancy outcomes in women with inflammatory bowel disease (s
 
 In an enhanced pre- and post-natal developmental toxicity study, pregnant cynomolgus monkeys were administered subcutaneous doses of 5 or 50 mg/kg risankizumab-rzaa once weekly during the period of organogenesis up to parturition.
 Increased fetal/infant loss was noted in pregnant monkeys at the 50 mg/kg dose (see Data).
-The 50 mg/kg dose in pregnant monkeys resulted in approximately 10 times the exposure (AUC) in humans administered the 600 mg induction regimen and 39 times the exposure (AUC) to the 360 mg maintenance doses, respectively.
+The 50 mg/kg dose in pregnant monkeys resulted in approximately 5 times the exposure (AUC) in humans administered the maximum recommended induction dose (1,200 mg) and 32 times the exposure (AUC) to the maximum recommended maintenance dose (360 mg).
 No risankizumab-rzaa-related effects on functional or immunological development were observed in infant monkeys from birth through 6 months of age.
 The clinical significance of these findings for humans is unknown.
 
@@ -28,7 +28,7 @@ Clinical Considerations
 Disease-associated maternal and embryo/fetal risk
 
 Published data suggest that the risk of adverse pregnancy outcomes in women with inflammatory bowel disease is associated with increased disease activity.
-Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2,500 g) infants, and small for gestational age at birth.
 
 Fetal/Neonatal adverse reactions
 
@@ -47,8 +47,8 @@ No maternal toxicity was noted in this study.
 There were no treatment-related effects on growth and development, malformations, developmental immunotoxicology, or neurobehavioral development.
 However, a dose-dependent increase in fetal/infant loss was noted in the risankizumab-rzaa-treated groups (32% and 43% in the 5 mg/kg and 50 mg/kg groups, respectively) compared with the vehicle control group (19%).
 The increased fetal/infant loss in the 50 mg/kg group was considered to be related to risankizumab-rzaa treatment.
-The no observed adverse effect level (NOAEL) for maternal toxicity was identified as 50 mg/kg and the NOAEL for developmental toxicity was identified as 5 mg/kg.
-On an exposure (AUC) basis, the 5 mg/kg dose in pregnant monkeys resulted in approximately 1.24 times the exposure in humans administered the 600 mg induction regimen and 5 times the exposure in humans administered the 360 mg maintenance doses, respectively.
+The no-observed adverse effect level (NOAEL) for maternal toxicity was identified as 50 mg/kg, and the NOAEL for developmental toxicity was identified as 5 mg/kg.
+The 5 mg/kg dose in pregnant monkeys resulted in approximately 0.6 times the exposure (AUC) in humans administered the maximum recommended induction dose (1,200 mg) and 5 times the exposure (AUC) in humans administered the maximum recommended maintenance dose (360 mg).
 In the infants, mean serum concentrations increased in a dose-dependent manner and were approximately 17%-86% of the respective maternal concentrations.
 Following delivery, most adult female cynomolgus monkeys and all infants from the risankizumab-rzaa-treated groups had measurable serum concentrations of risankizumab-rzaa up to 91 days postpartum.
 Serum concentrations were below detectable levels at 180 days postpartum.
@@ -68,10 +68,8 @@ The safety and effectiveness of SKYRIZI have not been established in pediatric p
 
 ## 8.5 Geriatric Use
 
-Of the 2234 subjects with plaque psoriasis exposed to SKYRIZI, 243 subjects were 65 years or older and 24 subjects were 75 years or older.
-No overall differences in SKYRIZI exposure, safety, or effectiveness were observed between older and younger subjects who received SKYRIZI.
-However, the number of subjects aged 65 years and older was not sufficient to determine whether they respond differently from younger subjects.
+Of the 6,862 subjects exposed to SKYRIZI, a total of 664 were 65 years or older (243 subjects with plaque psoriasis, 246 subjects with psoriatic arthritis, 72 subjects with Crohn’s disease and 103 subjects with ulcerative colitis), and 71 subjects were 75 years or older.
 
-Clinical studies of SKYRIZI for the treatment of Crohn’s disease did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
+Clinical studies of SKYRIZI, within each indication, did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
 
-No clinically meaningful differences in the pharmacokinetics of risankizumab-rzaa were observed in geriatric subjects compared to younger adult subjects with Crohn’s disease [see Clinical Pharmacology (12.3)].
+No clinically meaningful differences in the pharmacokinetics of risankizumab-rzaa were observed based on age[see Clinical Pharmacology (12.3)].

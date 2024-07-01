@@ -11,7 +11,7 @@ Infections
 Inform patients that SKYRIZI may lower the ability of their immune system to fight infections.
 Instruct patients of the importance of communicating any history of infections to the healthcare provider and contacting their healthcare provider if they develop any symptoms of an infection [see Warnings and Precautions (5.2)].
 
-Hepatotoxicity in Treatment of Crohn’s Disease
+Hepatotoxicity in Treatment of Inflammatory Bowel Disease
 
 Inform patients that SKYRIZI may cause liver injury, especially during the initial 12 weeks of treatment.
 Instruct patients to seek immediate medical attention if they experience symptoms suggestive of liver dysfunction.
@@ -37,4 +37,4 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc. 20083524 3/2024
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc. 20086179 R2 6/2024

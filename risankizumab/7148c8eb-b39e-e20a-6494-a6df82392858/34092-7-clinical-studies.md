@@ -2,7 +2,7 @@
 
 ## 14.1 Plaque Psoriasis
 
-Four multicenter, randomized, double-blind studies [PsO-1 (NCT02684370), PsO-2 (NCT02684357), PsO-3 (NCT02672852), and PsO-4 (NCT02694523)] enrolled 2109 subjects 18 years of age and older with moderate to severe plaque psoriasis who had a body surface area (BSA) involvement of ≥10%, a static Physician’s Global Assessment (sPGA) score of ≥3 (“moderate”) in the overall assessment (plaque thickness/induration, erythema, and scaling) of psoriasis on a severity scale of 0 to 4, and a Psoriasis Area and Severity Index (PASI) score ≥12.
+Four multicenter, randomized, double-blind studies [PsO-1 (NCT02684370), PsO-2 (NCT02684357), PsO-3 (NCT02672852), and PsO-4 (NCT02694523)] enrolled 2,109 subjects 18 years of age and older with moderate to severe plaque psoriasis who had a body surface area (BSA) involvement of ≥10%, a static Physician’s Global Assessment (sPGA) score of ≥3 (“moderate”) in the overall assessment (plaque thickness/induration, erythema, and scaling) of psoriasis on a severity scale of 0 to 4, and a Psoriasis Area and Severity Index (PASI) score ≥12.
 
 Overall, subjects had a median baseline PASI score of 17.8 and a median BSA of 20%.
 Baseline sPGA score was 4 (“severe”) in 19% of subjects.
@@ -22,9 +22,9 @@ Both studies assessed the responses at Week 16 compared with placebo for the two
 
 Secondary endpoints included the proportion of subjects who achieved PASI 100, sPGA 0, and Psoriasis Symptom Scale (PSS) 0 at Week 16.
 
-The results are presented in Table 4.
+The results are presented in Table 6.
 
-Table 4.
+Table 6.
 Efficacy Results at Week 16 in Adults with Plaque Psoriasis in PsO-1 and PsO-2
 
 |  | PsO-1 |  | PsO-2 |  |
@@ -82,12 +82,12 @@ For both studies, the primary endpoint was the proportion of subjects who achiev
 Clinical Response
 
 In both studies, treatment with SKYRIZI resulted in significant improvement in measures of disease activity compared with placebo at Week 24.
-See Tables 5 and 6 for key efficacy results.
+See Tables 7 and 8 for key efficacy results.
 
 In both studies, similar responses were seen regardless of concomitant non-biologic DMARD use, number of prior non-biologic DMARDs, age, gender, race, and BMI.
 In PsA-2, responses were seen regardless of prior biologic therapy.
 
-Table 5.
+Table 7.
 Efficacy Results in Study PsA-1
 
 | Endpoint | Placebo N=481 Response Rate | SKYRIZI N=483 Response Rate | Difference from Placebo (95% CI) |
@@ -103,7 +103,7 @@ Efficacy Results in Study PsA-1
 | Week 24 | 4.7% | 15.3% | 10.5% (6.9, 14.2) |
 | a. multiplicity-controlled p≤0.001, SKYRIZI vs. placebo comparison. *A Subject was considered as a non-responder after initiation of rescue medication or concomitant medications for PsA that could meaningfully impact efficacy assessment. |  |  |  |
 
-Table 6.
+Table 8.
 Efficacy Results in Study PsA-2
 
 | Endpoint | Placebo N=219 Response Rate | SKYRIZI N=224 Response Rate | Difference from Placebo (95% CI) |
@@ -124,9 +124,9 @@ The percent of subjects achieving ACR20 responses in study PsA-1 through Week 24
 Figure 1.
 Percent of Subjects Achieving ACR20 Responses in Study PsA-1 through Week 24
 
-The results of the components of the ACR response criteria for both studies are shown in Table 7.
+The results of the components of the ACR response criteria for both studies are shown in Table 9.
 
-Table 7.
+Table 9.
 Mean Change from Baseline in ACR Components
 
 |  | PsA-1 |  | PsA-2 |  |
@@ -168,7 +168,7 @@ In patients with coexistent plaque psoriasis receiving SKYRIZI, the skin lesions
 
 Physical Function
 
-In both studies, patients treated with SKYRIZI showed statistically significant improvement from baseline in physical function compared with placebo as assessed by HAQ-DI at Week 24 (Table 5).
+In both studies, patients treated with SKYRIZI showed statistically significant improvement from baseline in physical function compared with placebo as assessed by HAQ-DI at Week 24 (Table 7).
 The mean difference (95% CI) from placebo in HAQ-DI change from baseline at Week 24 was -0.20 (-0.26, -0.14) in study PsA-1 and -0.16 (-0.26, -0.07) in study PsA-2.
 
 In both studies, a greater proportion of subjects achieved a reduction of at least 0.35 in HAQ-DI score from baseline in the SKYRIZI group compared with placebo at Week 24.
@@ -197,10 +197,10 @@ At baseline, 30% and 34% of patients were receiving corticosteroids, 24% and 23%
 In CD-1 and CD-2 combined, the median age was 36 years (ranging from 16 to 80 years), 81% (1145/1419) of subjects were white, and 53% (753/1419) were male.
 
 In CD-1 and CD-2, the co-primary endpoints were clinical remission and endoscopic response at Week 12.
-Secondary endpoints included clinical response and endoscopic remission (see Table 8 and Table 9).
+Secondary endpoints included clinical response and endoscopic remission (see Table 10 and Table 11).
 The SKYRIZI 1,200 mg dosage did not demonstrate additional treatment benefit over the 600 mg dosage and is not a recommended regimen [see Dosage and Administration (2.6)].
 
-Table 8.
+Table 10.
 Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study CD-1
 
 | Endpoint | Placebo | SKYRIZI 600 mg Intravenous Infusiona | Treatment Difference b (95% CI) |
@@ -223,7 +223,7 @@ Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study CD-1
 | Without prior biologic failure | N=78 14% | N=141 32% |  |
 | a. SKYRIZI 600 mg as an intravenous infusion at Week 0, Week 4, and Week 8 b. Adjusted treatment difference (95% CI) based on Cochran-Mantel-Haenszel method adjusted for randomization stratification factors c. Co-primary endpoints d. CDAI <150 e. p <0.001 f. Prior biologic failure includes inadequate response, loss of response, or intolerance to one or more biologic treatments for CD g. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading h. A reduction of CDAI ≥ 100 points from baseline i. SES-CD ≤ 4 and at least a 2-point reduction from baseline, with no individual subscore greater than 1, based on central reading |  |  |  |
 
-Table 9.
+Table 11.
 Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study CD-2a
 
 | Endpoint | Placebo N=187 | SKYRIZI 600 mg Intravenous Infusionb N=191 | Treatment Differencec (95% CI) |
@@ -243,9 +243,9 @@ Study CD-3
 The maintenance study CD-3 evaluated 382 subjects who achieved clinical response defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in studies CD-1 and CD-2.
 Subjects were randomized to receive a maintenance regimen of SKYRIZI 180 mg or SKYRIZI 360 mg or placebo at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
 
-The co-primary endpoints in CD-3 were clinical remission and endoscopic response at Week 52 (see Table 10).
+The co-primary endpoints in CD-3 were clinical remission and endoscopic response at Week 52 (see Table 12).
 
-Table 10.
+Table 12.
 Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Study CD-3
 
 | Endpoint | Placeboa | SKYRIZI 180 mg Subcutaneous Injectionb | SKYRIZI 360 mg Subcutaneous Injectionc | Treatment Difference vs Placebod (95% CI) |  |  |
@@ -263,3 +263,112 @@ Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Study CD-3
 
 Endoscopic remission was observed at Week 52 in 33% (44/135) of subjects treated with the SKYRIZI 180 mg maintenance regimen and 41% (48/117) of subjects treated with the SKYRIZI 360 mg maintenance regimen, compared to 13% (17/130) of subjects treated with placebo.
 This endpoint was not statistically significant under the prespecified multiple testing procedure.
+
+## 14.4 Ulcerative Colitis
+
+Induction Trial (Study UC-1)
+
+In the 12-week induction study (UC-1; NCT03398148), 966 subjects with moderately to severely active ulcerative colitis were randomized and received SKYRIZI 1,200 mg or placebo as an intravenous infusion at Week 0, Week 4, and Week 8.
+Disease activity was assessed by the modified Mayo score (mMS), a 3-component Mayo score (0-9) which consists of the following subscores (0 to 3 for each subscore): stool frequency (SFS), rectal bleeding (RBS), and findings on centrally read endoscopy score (ES).
+An ES of 2 was defined by marked erythema, lack of vascular pattern, any friability, and/or erosions; an ES of 3 was defined by spontaneous bleeding and ulceration.
+Enrolled subjects had a mMS between 5 and 9, with an ES of 2 or 3.
+Subjects with inadequate response, or intolerance to oral aminosalicylates, corticosteroids, immunomodulators, biologics, Janus Kinase inhibitors (JAKi), and/or sphingosine-1-phosphate receptor modulators (S1PRM) were enrolled.
+
+At baseline in UC-1, the median mMS was 7; 37% had severely active disease (mMS >7); 69% had an ES of 3.
+In UC-1, 52% (499/966) of subjects had failed (inadequate response or intolerance) treatment with one or more biologics, JAKi or S1PRM.
+Of these 499 subjects, 484 (97%) failed biologics and 90 (18%) failed JAK inhibitors.
+Enrolled subjects were permitted to use a stable dose of oral corticosteroids (up to 20 mg/day prednisone or equivalent), immunomodulators, and aminosalicylates.
+At baseline, 36% of subjects were receiving corticosteroids, 16% of subjects were receiving immunomodulators (including azathioprine, 6-mercaptopurine, methotrexate), and 73% of subjects were receiving aminosalicylates in UC-1.
+
+In UC-1, the primary endpoint was clinical remission defined using the mMS at Week 12 (see Table 13).
+Key secondary endpoints included clinical response, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 13).
+
+Table 13.
+Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study UC-1
+
+| Endpoint | Placebo | SKYRIZI 1,200 mg Intravenous Infusiona | Treatment Difference (95% CI)b |
+| --- | --- | --- | --- |
+| Clinical Remissionc |  |  |  |
+| Total Population | N=320 8% | N=646 24% | 16%h (12%, 20%) |
+| Prior biologic, JAKi, or S1PRM failured | N=168 6% | N=331 14% |  |
+| Without prior biologic, JAKi, or S1PRM failure | N=152 9% | N=315 33% |  |
+| Clinical Responsee |  |  |  |
+| Total Population | N=320 36% | N=646 65% | 29%h (23%, 35%) |
+| Prior biologic, JAKi, or S1PRM failured | N=168 32% | N=331 56% |  |
+| Without prior biologic, JAKi, or S1PRM failure | N=152 41% | N=315 75% |  |
+| Endoscopic Improvementf |  |  |  |
+| Total Population | N=320 12% | N=646 36% | 25%h (20%, 30%) |
+| Prior biologic, JAKi, or S1PRM failured | N=168 10% | N=331 26% |  |
+| Without prior biologic, JAKi, or S1PRM failure | N=152 14% | N=315 47% |  |
+| Histologic Endoscopic Mucosal Improvement (HEMI)g |  |  |  |
+| Total Population | N=320 7% | N=646 24% | 17%h (13%, 21%) |
+| Prior biologic, JAKi, or S1PRM failured | N=168 7% | N=331 16% |  |
+| Without prior biologic, JAKi, or S1PRM failure | N=152 8% | N=315 33% |  |
+| a SKYRIZI 1,200 mg as an intravenous infusion at Week 0, Week 4, and Week 8 b Adjusted treatment difference (95% CI) based on Cochran-Mantel-Haenszel method adjusted for stratification factors c Per mMS: SFS ≤ 1 and not greater than baseline, RBS = 0, and ES ≤ 1 without friability d Prior failure includes inadequate response or intolerance to treatment with one or more of the following: biologic therapies, Janus Kinase inhibitors (JAKi), and/or sphingosine-1-phosphate receptor modulators (S1PRM) e Per mMS: decrease ≥ 2 points and ≥ 30% from baseline, and a decrease in RBS ≥ 1 from baseline or an absolute RBS ≤ 1 f ES ≤ 1 without the evidence of friability g ES ≤ 1 without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue) h p < 0.001 |  |  |  |
+
+UC-1 was not designed to evaluate the relationship of histologic endoscopic mucosal improvement at week 12 to disease progression and long-term outcomes.
+
+Rectal Bleeding and Stool Frequency Subscores
+
+Decreases in rectal bleeding and stool frequency subscores in subjects treated with SKYRIZI compared to placebo were observed as early as 4 weeks.
+
+Endoscopic Assessment
+
+Endoscopic remission was defined as ES of 0.
+At Week 12, a greater proportion of subjects treated with SKYRIZI compared to placebo achieved endoscopic remission (11% vs 3%).
+
+Bowel Urgency
+
+A greater proportion of subjects treated with the SKYRIZI 1,200 mg induction regimen compared to placebo had no bowel urgency (44% vs 27%) at Week 12.
+
+Fatigue
+
+In UC-1, subjects treated with SKYRIZI experienced a clinically meaningful improvement in fatigue, assessed by change from baseline in FACIT-F score, at Week 12, compared to placebo-treated subjects.
+The effect of SKYRIZI to improve fatigue after 12 weeks of induction has not been established.
+
+Other UC Symptoms
+
+The proportion of subjects who had no nocturnal bowel movements was greater in subjects treated with SKYRIZI compared to placebo at Week 12 (67% vs 43%).
+
+Maintenance Study UC-2
+
+The maintenance study (UC-2; NCT03398135) evaluated 547 subjects who received one of three SKYRIZI induction regimens, including the 1,200 mg regimen, for 12 weeks in Studies UC-1 or UC-3 and demonstrated clinical response per mMS after 12 weeks.
+Subjects were randomized to receive a maintenance regimen of subcutaneous (SC) SKYRIZI 180 mg or SKYRIZI 360 mg or placebo at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
+
+In UC-2, 75% (411/547) of subjects had failed (inadequate response or intolerance) treatment with one or more biologics, JAKi, or S1PRM.
+Of these 411 subjects, 407 (99%) failed biologics and 78 (19%) failed JAK inhibitors.
+
+The primary endpoint in UC-2 was clinical remission using mMS at Week 52 (see Table 14).
+Key secondary endpoints included corticosteroid-free clinical remission, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 14).
+
+Table 14.
+Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Study UC-2
+
+| Endpoint | Placeboa | SKYRIZI 180 mg SC Injectionb | SKYRIZI 360 mg SC Injectionc |
+| --- | --- | --- | --- |
+| Clinical remissiond |  |  |  |
+| Total Population | N=182 26% | N=179 45% | N=186 41% |
+| Treatment Difference vs Placeboe (95% CI) |  | 20% j [11%, 29%] | 16% j [7%, 25%] |
+| Prior biologic, JAKi, or S1PRM failuref | N=138 24% | N=134 41% | N=139 32% |
+| Without prior biologic, JAKi, or S1PRM failure | N=44 32% | N=45 58% | N=47 67% |
+| Corticosteroid-free clinical remissiong |  |  |  |
+| Total Population | N=182 26% | N=179 45% | N=186 40% |
+| Treatment Difference vs Placeboe (95% CI) |  | 20% j [11%, 29%] | 16%j [7%, 25%] |
+| Prior biologic, JAKi, or S1PRM failuref | N=138 24% | N=134 40% | N=139 32% |
+| Without prior biologic, JAKi, or S1PRM failure | N=44 32% | N=45 58% | N=47 64% |
+| Endoscopic improvementh |  |  |  |
+| Total Population | N=182 31% | N=179 51% | N=186 48% |
+| Treatment Difference vs Placeboe (95% CI) |  | 20% j [11%, 30%] | 18% j [8%, 27%] |
+| Prior biologic, JAKi, or S1PRM failuref | N=138 30% | N=134 48% | N=139 39% |
+| Without prior biologic, JAKi, or S1PRM failure | N=44 34% | N=45 60% | N=47 76% |
+| Histologic Endoscopic Mucosal Improvementi |  |  |  |
+| Total Population | N=182 24% | N=179 43% | N=186 42% |
+| Treatment Difference vs Placeboe (95% CI) |  | 20% j [11%, 29%] | 20% j [11%, 29%] |
+| Prior biologic, JAKi, or S1PRM failuref | N=138 22% | N=134 39% | N=139 33% |
+| Without prior biologic, JAKi, or S1PRM failure | N=44 30% | N=45 55% | N=47 69% |
+| a The placebo group consisted of subjects who were in response to 12 weeks of SKYRIZI induction and were randomized to receive placebo at the start of maintenance therapy. b SKYRIZI 180 mg at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks c SKYRIZI 360 mg at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks d Per mMS: SFS ≤ 1 and not greater than baseline, RBS = 0, and ES ≤ 1 without friability e Adjusted treatment difference (95% CI) based on Cochran-Mantel-Haenszel method adjusted for stratification factors f Prior failure includes inadequate response or intolerance to treatment with one or more of the following: biologic therapies, Janus Kinase inhibitors (JAKi), and/or sphingosine-1-phosphate receptor modulators (S1PRM) g Clinical remission per mMS at Week 52 and corticosteroid-free for ≥90 days h ES ≤ 1 without the evidence of friability i ES ≤ 1without the evidence of friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in <5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue) j p < 0.001 |  |  |  |
+
+Endoscopic Assessment
+
+Endoscopic remission was defined as ES of 0.
+In UC-2, a greater proportion of subjects treated with SKYRIZI 180 mg and SKYRIZI 360 mg compared to placebo achieved endoscopic remission at Week 52 (23% and 24% vs 15%).

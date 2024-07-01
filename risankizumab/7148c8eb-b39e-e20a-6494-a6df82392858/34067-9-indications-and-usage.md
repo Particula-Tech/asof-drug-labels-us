@@ -11,3 +11,7 @@ SKYRIZI is indicated for the treatment of active psoriatic arthritis in adults.
 ## 1.3 Crohn’s Disease
 
 SKYRIZI is indicated for the treatment of moderately to severely active Crohn's disease in adults.
+
+## 1.4 Ulcerative Colitis
+
+SKYRIZI is indicated for the treatment of moderately to severely active ulcerative colitis in adults.

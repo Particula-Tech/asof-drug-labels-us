@@ -25,13 +25,13 @@ Consider anti-TB therapy prior to initiating SKYRIZI in patients with a past his
 Monitor patients for signs and symptoms of active TB during and after SKYRIZI treatment.
 Do not administer SKYRIZI to patients with active TB.
 
-## 5.4 Hepatotoxicity in Treatment of Crohn’s Disease
+## 5.4 Hepatotoxicity in Treatment of Inflammatory Bowel Disease
 
 A serious adverse reaction of drug-induced liver injury in conjunction with a rash that required hospitalization was reported in a patient with Crohn’s disease (ALT 54x ULN, AST 30x ULN, and total bilirubin 2.2x ULN) following two 600 mg intravenous doses of SKYRIZI.
 The liver test abnormalities resolved following administration of steroids.
 SKYRIZI was subsequently discontinued.
 
-For the treatment of Crohn’s disease, evaluate liver enzymes and bilirubin at baseline, and during induction at least up to 12 weeks of treatment.
+For the treatment of Crohn’s disease and ulcerative colitis, evaluate liver enzymes and bilirubin at baseline, and during induction at least up to 12 weeks of treatment.
 Monitor thereafter according to routine patient management.
 
 Consider other treatment options in patients with evidence of liver cirrhosis.

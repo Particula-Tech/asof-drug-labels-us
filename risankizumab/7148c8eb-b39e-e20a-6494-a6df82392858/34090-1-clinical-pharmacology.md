@@ -13,13 +13,17 @@ No formal pharmacodynamics studies have been conducted with risankizumab-rzaa.
 
 ## 12.3 Pharmacokinetics
 
-Risankizumab-rzaa plasma concentrations, after single dose administration increased dose proportionally from 18 mg to 360 mg when administered subcutaneously (0.12 to 2.4 times the lowest recommended dose and 0.05 to 1 times the highest recommended dose) and from 200 mg to 1800 mg when administered as an up to 3-hour intravenous infusion (0.3 to 3 times the recommended dose) in healthy subjects.
+Risankizumab-rzaa plasma concentrations, after single dose administration increased dose proportionally from 18 mg to 360 mg when administered subcutaneously (0.12 to 2.4 times the lowest recommended dose and 0.05 to 1 times the highest recommended dose) and from 200 mg to 1,800 mg when administered as an up to 3-hour intravenous infusion (0.2 to 3 times the recommended dose) in healthy subjects.
 
 In subjects with plaque psoriasis treated with 150 mg subcutaneously at Weeks 0, 4, and every 12 weeks thereafter, steady-state peak concentration (Cmax) and trough concentration (Ctrough) are estimated to be 12 mcg/mL and 2 mcg/mL, respectively.
 
 With the same subcutaneous dosing regimen, the pharmacokinetics of risankizumab-rzaa in subjects with psoriatic arthritis were similar to that in subjects with plaque psoriasis.
 
 In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 156 mcg/mL and 38.8 mcg/mL, respectively, during Weeks 8-12; and the steady state median Cmax and Ctrough are estimated to be 14.0 mcg/mL and 4.1 mcg/mL, respectively for 180 mg or 28.0 mcg/mL and 8.1 mcg/mL, respectively, for 360 mg, during Weeks 40-48.
+
+In subjects with ulcerative colitis treated with 1,200 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 350 and 87.7 mcg/mL, respectively, during the induction period (Weeks 8-12); and the steady state median Cmax and Ctrough are estimated to be 19.6 and 4.64 µg/mL, respectively, for 180 mg or 39.2 mcg/mL and 9.29 mcg/mL, respectively, for 360 mg, during the maintenance period (Weeks 40-48).
+
+Based on population pharmacokinetic analyses, the pharmacokinetics of risankizumab-rzaa in subjects with ulcerative colitis was generally similar to that in subjects with Crohn’s disease.
 
 Absorption
 
@@ -41,8 +45,7 @@ As a humanized IgG1 monoclonal antibody, risankizumab-rzaa is expected to be deg
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of risankizumab-rzaa were observed based on age (≥18 years).
-Risankizumab-rzaa exposures (Ctrough) in geriatric patients (≥65 years) are comparable to those in younger adult patients with Crohn’s disease.
+Risankizumab-rzaa exposures (Ctrough) in geriatric patients (≥65 years) are comparable to those in younger adult patients within each indication.
 No studies have been conducted to determine the effect of renal or hepatic impairment on the pharmacokinetics of risankizumab-rzaa.
 
 Body Weight
@@ -53,4 +56,4 @@ Drug Interaction Studies
 
 Cytochrome P450 Substrates
 
-No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), metoprolol (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with risankizumab-rzaa in subjects with plaque psoriasis (risankizumab-rzaa 150 mg administered subcutaneously at Weeks 0, 4, 8 and 12) or in subjects with Crohn’s disease (risankizumab-rzaa 1800 mg administered intravenously at Weeks 0, 4 and 8, i.e., 3 times the recommended dose).
+No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), metoprolol (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with risankizumab-rzaa in subjects with plaque psoriasis (risankizumab-rzaa 150 mg administered subcutaneously at Weeks 0, 4, 8, and 12) and subjects with Crohn’s disease or ulcerative colitis (risankizumab-rzaa 1,800 mg administered intravenously at Weeks 0, 4, and 8, i.e., 3 times and 1.5 times the recommended dose for Crohn’s disease and ulcerative colitis, respectively).

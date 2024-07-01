@@ -2,7 +2,7 @@
 
 ## 2.1 Procedures Prior to Treatment Initiation
 
-- For the treatment of Crohn’s disease, obtain liver enzymes and bilirubin levels prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.4)]
+- For the treatment of Crohn’s disease and ulcerative colitis, obtain liver enzymes and bilirubin levels prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.4)]
 - Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.3)].
 - Complete all age-appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.5)].
 
@@ -52,7 +52,18 @@ Adult Patients: Maintenance
 The recommended maintenance dosage of SKYRIZI is 180 mg or 360 mg administered by subcutaneous injection at Week 12, and every 8 weeks thereafter.
 Use the lowest effective dosage needed to maintain therapeutic response.
 
-## 2.7 Preparation and Administration Instructions (Crohn’s Disease)
+## 2.7 Recommended Dosage for Ulcerative Colitis
+
+Adult Patients: Induction
+
+The recommended induction dosage of SKYRIZI is 1,200 mg administered by intravenous infusion over a period of at least two hours at Week 0, Week 4, and Week 8.
+
+Adult Patients: Maintenance
+
+The recommended maintenance dosage of SKYRIZI is 180 mg or 360 mg administered by subcutaneous injection at Week 12, and every 8 weeks thereafter.
+Use the lowest effective dosage needed to maintain therapeutic response.
+
+## 2.8 Preparation and Administration Instructions (Crohn’s Disease and Ulcerative Colitis)
 
 Intravenous Induction Dosing Regimen:
 
@@ -60,11 +71,20 @@ Intravenous Induction Dosing Regimen:
 SKYRIZI vial for intravenous administration is intended for administration by a healthcare provider using aseptic technique.
 
 2.
-Prior to intravenous administration, withdraw 10 mL of SKYRIZI solution from the vial (600 mg/10 mL) and inject into an intravenous infusion bag or glass bottle containing 5% Dextrose Injection or 0.9% Sodium Chloride Injection (100 mL, or 250 mL, or 500 mL) for a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
+Prior to intravenous administration, determine the dose and number of SKYRIZI vials needed based on the patient’s indication (see table below).
+Withdraw 10 mL of SKYRIZI solution from a vial (600 mg/10 mL) and inject into an intravenous infusion bag or glass bottle containing 5% Dextrose Injection or 0.9% Sodium Chloride Injection (see Table 1 below) for a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
 Discard any remaining solution in the vial.
 
+Table 1.
+Total Volume of Diluent Required for Intravenous Induction Dose
+
+| Indication | Intravenous Induction Dose | Number of SKYRIZI 600 mg/10 mL Vials | Total Volume of 5% Dextrose or 0.9% Sodium Chloride Injection |
+| --- | --- | --- | --- |
+| Crohn’s disease | 600 mg | 1 | 100 mL, or 250 mL, or 500 mL |
+| Ulcerative colitis | 1,200 mg | 2 | 250 mL, or 500 mL |
+
 3.
-Infuse the diluted solution intravenously over a period of at least one hour.
+Infuse the diluted solution intravenously over a period of at least one hour for the SKYRIZI 600 mg dose; at least two hours for the SKYRIZI 1,200 mg dose.
 If stored refrigerated, allow the diluted SKYRIZI solution in the infusion bag or glass bottle to warm to room temperature prior to the start of the intravenous infusion.
 
 4.
@@ -95,6 +115,8 @@ Provide proper training to patients and/or caregivers on the subcutaneous inject
 • Before using the on-body injector with prefilled cartridge, remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (45 to 90 minutes) without removing the prefilled cartridge or on-body injector from the carton.
 
 • Use the on-body injector to administer SKYRIZI 180 mg/1.2 mL or SKYRIZI 360 mg/2.4 mL prefilled cartridge subcutaneously on thigh or abdomen.
+
+• Start the injection within 5 minutes after inserting the prefilled cartridge into the On-Body Injector.
 
 • Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by any lesions.
 
