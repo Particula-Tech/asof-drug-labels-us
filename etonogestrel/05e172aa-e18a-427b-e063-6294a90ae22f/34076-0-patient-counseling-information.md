@@ -39,5 +39,5 @@ Disposal
 
 - Advise patients on the proper disposal of a used Etonogestrel and ethinyl estradiol vaginal ring [see How Supplied/Storage and Handling (16)].
 
-- Manufactured For: AvKARE Pulaski, TN 38478 PI-478-00 Rev.
-  09/2023
+- Manufactured For: AvKARE Pulaski, TN 38478 PI-478-01 Rev.
+  06/2024

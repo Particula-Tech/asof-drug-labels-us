@@ -84,6 +84,8 @@ Before you use Etonogestrel and ethinyl estradiol vaginal ring tell your healthc
   A small amount of hormones from Etonogestrel and ethinyl estradiol vaginal ring may pass into your breast milk.
   Consider another non-hormonal method of birth control until you are ready to stop breastfeeding.
 - have (or ever had) an allergic reaction while using Etonogestrel and ethinyl estradiol vaginal ring, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
+- have a family history of angioedema.
+  Products containing estrogens may cause or worsen these symptoms.
 
 Tell your healthcare provider about all medicines and herbal products you take,including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
@@ -116,6 +118,8 @@ Hormonal birth control methods may interact with lamotrigine, a medicine used fo
 This may increase the risk of seizures, so your healthcare provider may need to adjust your dose of lamotrigine.
 
 Women on thyroid replacement therapy may need increased doses of thyroid hormone.
+
+Some Hepatitis C drug combinations (such as glecaprevir/pibrentasvir) may increase levels of the liver enzyme "alanine aminotransferase" (ALT) in the blood.
 
 Ask your healthcare provider if you are not sure if you take any of the medicines listed above.
 Know the medicines you take.
@@ -458,5 +462,5 @@ Note:You should only choose to do option 2 if you used Etonogestrel and ethinyl 
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured For: AvKARE Pulaski, TN 38478 PI-478-00 Rev.
-09/2023
+Manufactured For: AvKARE Pulaski, TN 38478 PI-478-01 Rev.
+06/2024
