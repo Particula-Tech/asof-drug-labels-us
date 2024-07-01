@@ -38,6 +38,7 @@ Fluoroquinolones, including levofloxacin, have been associated with an increased
 Attempted or completed suicide have been reported, especially in patients with a medical history of depression, or an underlying risk factor for depression.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, discontinue levofloxacin and institute appropriate measures.
+
 Central Nervous System Adverse Reactions
 
 Fluoroquinolones, including levofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), tremors, and lightheadedness.
@@ -69,7 +70,7 @@ Discontinue levofloxacin immediately at the first appearance of skin rash, jaund
 
 Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions have been reported in patients receiving therapy with fluoroquinolones, including levofloxacin.
 These reactions often occur following the first dose.
-Some reactions have been accompanied by cardiovascular collapse, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
+Some reactions have been accompanied by cardiovascular collapse, acute myocardial ischemia with or without myocardial infarction, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
 Levofloxacin should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
 Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6) and Patient Counseling Information (17)].
 

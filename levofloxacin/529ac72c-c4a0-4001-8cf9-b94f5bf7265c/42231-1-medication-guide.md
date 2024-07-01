@@ -1,8 +1,6 @@
 # MEDICATION GUIDE
 
-Levofloxacin Tablets USP
-
-(lee'' voe flox' a sin)
+Levofloxacin (lee'' voe flox' a sin) Tablets USP
 
 What is the most important information I should know about levofloxacin tablets?
 Levofloxacin tablets, a fluoroquinolone antibiotic, can cause serious side effects.
@@ -16,20 +14,16 @@ Tendon rupture or swelling of the tendon (tendinitis).
   Some tendon problems include:
   - pain
   - swelling
-  - tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-
+  - tears and swelling of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites
 - The risk of getting tendon problems while you take levofloxacin tablets are higher if you:
   - are over 60 years of age
   - are taking steroids (corticosteroids)
   - have had a kidney, heart or lung transplant
-
 - Tendon problems can happen in people who do not have the above risk factors when they take levofloxacin tablets.
-
 - Other reasons that can increase your risk of tendon problems can include:
   - physical activity or exercise
   - kidney failure
   - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
-
 - Stop taking levofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
   Avoid exercise and using the affected area.
 - The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
@@ -224,51 +218,45 @@ Skin rash may be a sign of a more serious reaction to levofloxacin tablets.
 
 - Liver damage (hepatotoxicity): Hepatotoxicity can happen in people who take levofloxacin tablets.
   Call your healthcare provider right away if you have unexplained symptoms such as:
-
-- nausea or vomiting
-- stomach pain
-- fever
-- weakness
-- pain or tenderness in the upper right side of your stomach-area
-- itching
-- unusual tiredness
-- loss of appetite
-- light colored bowel movements
-- dark colored urine
-- yellowing of your skin or the whites of your eyes
+  - nausea or vomiting
+  - stomach pain
+  - fever
+  - weakness
+  - pain or tenderness in the upper right side of your stomach-area
+  - itching
+  - unusual tiredness
+  - loss of appetite
+  - light colored bowel movements
+  - dark colored urine
+  - yellowing of your skin or the whites of your eyes
 
 Stop taking levofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to levofloxacin tablets (a liver problem).
 
 - Aortic aneurysm and dissection: Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
   Get emergency medical help right away if you have sudden chest, stomach, or back pain.
-
 - Intestine infection (Clostridium difficile-associated diarrhea).
   Clostridium difficile-associated diarrhea (CDAD) can happen with many antibiotics, including levofloxacin tablets.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   CDAD can happen 2 or more months after you have finished your antibiotic.
-
 - Serious heart rhythm changes (QT prolongation and torsades de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Levofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this happening are higher in people:
-- who are elderly
-- with a family history of prolonged QT interval
-- with low blood potassium (hypokalemia)
-- who take certain medicines to control heart rhythm (antiarrhythmics)
-
+  - who are elderly
+  - with a family history of prolonged QT interval
+  - with low blood potassium (hypokalemia)
+  - who take certain medicines to control heart rhythm (antiarrhythmics)
 - Joint Problems.
   Increased chance of problems with joints and tissues around joints in children can happen.
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with levofloxacin tablets.
-
 - Changes in blood sugar.
   People who take levofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
   Follow your healthcare provider’s instructions for how often to check your blood sugar.
   If you have diabetes and you get low blood sugar while taking levofloxacin tablets, stop taking levofloxacin tablets and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
-
 - Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking levofloxacin tablets?”
 
@@ -304,10 +292,10 @@ It may harm them.
 This Medication Guide summarizes the most important information about levofloxacin tablets.
 If you would like more information about levofloxacin tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about levofloxacin tablets that is written for health professionals.
-For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in levofloxacin tablets?
 Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow.
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: 06/2024
