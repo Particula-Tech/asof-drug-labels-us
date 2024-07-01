@@ -2,7 +2,7 @@
 
 The following are discussed in greater detail in other sections of labeling:
 
-• Hypersensitivity Reactions [see Warnings and Precautions (5.1)] • Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)] • Seizure Potential [see Warnings and Precautions (5.3)] • Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.4)] • Clostridium difficile – associated Diarrhea [see Warnings and Precautions (5.5)] • Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)] • Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.7)] • Thrombocytopenia [see Warnings and Precautions (5.8)] • Potential for Neuromotor Impairment [see Warnings and Precautions (5.9)]
+• Hypersensitivity Reactions [see Warnings and Precautions (5.1)] • Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)] • Seizure Potential [see Warnings and Precautions (5.3)] • Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.4)] • Clostridium difficile– associated Diarrhea [see Warnings and Precautions (5.5)] • Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)] • Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.7)] • Thrombocytopenia [see Warnings and Precautions (5.8)] • Potential for Neuromotor Impairment [see Warnings and Precautions (5.9)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
 
@@ -41,35 +41,35 @@ Bleeding events were seen as follows: gastrointestinal hemorrhage (0.5%), melena
 
 ­
 
-Body as a Whole: pain, abdominal pain, chest pain, fever, back pain, abdominal enlargement, chills, pelvic pain
+Body as a Whole:pain, abdominal pain, chest pain, fever, back pain, abdominal enlargement, chills, pelvic pain
 
-Cardiovascular: heart failure, heart arrest, tachycardia, hypertension, myocardial infarction, pulmonary embolus, bradycardia, hypotension, syncope
+Cardiovascular:heart failure, heart arrest, tachycardia, hypertension, myocardial infarction, pulmonary embolus, bradycardia, hypotension, syncope
 
-Digestive System: oral moniliasis, anorexia, cholestatic jaundice/jaundice, flatulence, ileus, hepatic failure, dyspepsia, intestinal obstruction
+Digestive System:oral moniliasis, anorexia, cholestatic jaundice/jaundice, flatulence, ileus, hepatic failure, dyspepsia, intestinal obstruction
 
-Hemic/Lymphatic: anemia, hypochromic anemia, hypervolemia
+Hemic/Lymphatic:anemia, hypochromic anemia, hypervolemia
 
-Metabolic/Nutritional: peripheral edema, hypoxia
+Metabolic/Nutritional:peripheral edema, hypoxia
 
-Nervous System: insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.3) and (5.9)]
+Nervous System:insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.3) and (5.9)]
 
-Respiratory: respiratory disorder, dyspnea, pleural effusion, asthma, cough increased, lung edema
+Respiratory:respiratory disorder, dyspnea, pleural effusion, asthma, cough increased, lung edema
 
-Skin and Appendages: urticaria, sweating, skin ulcer
+Skin and Appendages:urticaria, sweating, skin ulcer
 
-Urogenital System: dysuria, kidney failure, vaginal moniliasis, urinary incontinence
+Urogenital System:dysuria, kidney failure, vaginal moniliasis, urinary incontinence
 
 Adverse Laboratory Changes
 
 Adverse laboratory changes that were reported and occurring in greater than 0.2% of the patients were as follows:
 
-Hepatic: increased alanine transaminase (ALT), aspartate transaminase (AST), alkaline phosphatase, lactate dehydrogenase (LDH), and bilirubin
+Hepatic:increased alanine transaminase (ALT), aspartate transaminase (AST), alkaline phosphatase, lactate dehydrogenase (LDH), and bilirubin
 
-Hematologic: increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cell (WBC), shortened prothrombin time and shortened partial thromboplastin time, leukocytosis, hypokalemia
+Hematologic:increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cell (WBC), shortened prothrombin time and shortened partial thromboplastin time, leukocytosis, hypokalemia
 
-Renal: increased creatinine and increased blood urea nitrogen (BUN)
+Renal:increased creatinine and increased blood urea nitrogen (BUN)
 
-Urinalysis: presence of red blood cells
+Urinalysis:presence of red blood cells
 
 Complicated Skin and Skin Structure Infections
 
@@ -135,8 +135,8 @@ Laboratory changes seen in the pediatric studies, including the meningitis studi
 The following adverse reactions have been identified during post-approval use of Meropenem for Injection, USP.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
-Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
+Blood and Lymphatic System Disorders:agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
 
-Immune System Disorders: angioedema.
+Immune System Disorders:angioedema.
 
-Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
+Skin and Subcutaneous Disorders:Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.

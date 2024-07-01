@@ -13,8 +13,8 @@
 - Patients receiving Meropenem for Injection, USP on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
   Until it is reasonably well established that Meropenem for Injection, USP is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.9)].
 
-Distributed by:
+Manufactured by:
 
-Strides Pharma Inc. East Brunswick, NJ 08816.
+Brooks Steriscience Limited Vadodara Gujarat 391210, India
 
-Revised: December 2021
+Revised: September 2023

@@ -13,7 +13,7 @@ Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL
 Dosage should be reduced in patients with creatinine clearance of 50 mL/min or less.
 (See dosing table below.)
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation) 1 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation) 1may be used to estimate creatinine clearance.
 
 Males: Creatinine Clearance (mL/min) =
 
@@ -23,7 +23,7 @@ Weight (kg) x (140 - age)
 
 Females: 0.85 x above value
 
-Table 1:Recommended Meropenem for Injection, USP Dosage Schedule for Adult Patients with Renal Impairment
+Table 1:RecommendedMeropenem for Injection, USP Dosage Schedule for Adult Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Pediatric Patients 3 Months of Age and Older
 - Administer Meropenem for Injection, USP as an intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 - There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
 
-Table 2: Recommended Meropenem for Injection, USP Dosage Schedule for Pediatric Patients 3 Months of Age and Older with Normal Renal Function
+Table 2: RecommendedMeropenem for Injection, USP Dosage Schedule for Pediatric Patients 3 Months of Age and Older with Normal Renal Function
 
 | Type of Infection | Dose (mg/kg) | Up to a Maximum Dose | Dosing Interval |
 | --- | --- | --- | --- |
@@ -61,7 +61,7 @@ For pediatric patients (with normal renal function) less than 3 months of age, w
 See dosing table 3 below.
 Meropenem for Injection, USP should be given as intravenous infusion over 30 minutes.
 
-Table 3: Recommended Meropenem for Injection, USP Dosage Schedule for Pediatric Patients Less than 3 Months of Age with Complicated Intra-abdominal Infections and Normal Renal Function
+Table 3: Recommended Meropenem for Injection, USP Dosage Schedule for Pediatric Patients Less than3 Months of Age with Complicated Intra-abdominal Infections and Normal Renal Function
 
 | Age Group | Dose (mg/kg) | Dose Interval |
 | --- | --- | --- |

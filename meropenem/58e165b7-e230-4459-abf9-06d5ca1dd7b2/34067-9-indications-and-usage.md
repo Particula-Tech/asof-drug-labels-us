@@ -2,11 +2,11 @@
 
 ## 1.1 Complicated Skin and Skin Structure Infections (Adult Patients and Pediatric Patients 3 Months of Age and Older Only)
 
-Meropenem for Injection, USP is indicated for the treatment of complicated skin and skin structure infections (cSSSI) due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis,Bacteroides fragilis, and Peptostreptococcus species.
+Meropenem for Injection, USP is indicated for the treatment of complicated skin and skin structure infections (cSSSI) due to Staphylococcus aureus(methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis(vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis,Bacteroides fragilis,and Peptostreptococcusspecies.
 
 ## 1.2 Complicated Intra-abdominal Infections (Adult and Pediatric Patients)
 
-Meropenem for Injection, USP is indicated for the treatment of complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species.
+Meropenem for Injection, USP is indicated for the treatment of complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron,and Peptostreptococcusspecies.
 
 ## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of Age and Older Only)
 

@@ -83,9 +83,9 @@ Table 6: Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of 
 | --- | --- | --- | --- | --- | --- |
 | CL (L/h/kg) | 0.089 | 0.122 | 0.135 | 0.202 | 0.119 |
 | V (L/kg) | 0.489 | 0.467 | 0.463 | 0.451 | 0.468 |
-| AUC0-24 (mcg-h/mL) | 448 | 491 | 445 | 444 | 467 |
-| Cmax (mcg/mL) | 44.3 | 46.5 | 44.9 | 61 | 46.9 |
-| Cmin (mcg/mL) | 5.36 | 6.65 | 4.84 | 2.1 | 5.65 |
+| AUC0-24(mcg-h/mL) | 448 | 491 | 445 | 444 | 467 |
+| Cmax(mcg/mL) | 44.3 | 46.5 | 44.9 | 61 | 46.9 |
+| Cmin(mcg/mL) | 5.36 | 6.65 | 4.84 | 2.1 | 5.65 |
 | T1/2 (h) | 3.82 | 2.68 | 2.33 | 1.58 | 2.68 |
 | *Values are derived from a population pharmacokinetic analysis of sparse data |  |  |  |  |  |
 
@@ -96,14 +96,14 @@ Following administration of probenecid with meropenem, the mean systemic exposur
 
 Mechanism of Action The bactericidal activity of meropenem results from the inhibition of cell wall synthesis.
 Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets.
-Meropenem binds to PBPs 2, 3 and 4 of Escherichia coli and Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
-Bactericidal concentrations (defined as a 3 log 10 reduction in cell counts within 12 hours to 24 hours) are typically 1 to 2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
-Meropenem does not have in vitro activity against methicillin-resistant Staphylococcus aureus (MRSA) or methicillin-resistant Staphylococcus epidermidis (MRSE).
+Meropenem binds to PBPs 2, 3 and 4 of Escherichia coliand Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
+Bactericidal concentrations (defined as a 3 log 10reduction in cell counts within 12 hours to 24 hours) are typically 1 to 2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
+Meropenem does not have in vitro activity against methicillin-resistant Staphylococcus aureus(MRSA) or methicillin-resistant Staphylococcus epidermidis(MRSE).
 Resistance There are several mechanisms of resistance to carbapenems: 1) decreased permeability of the outer membrane of gram-negative bacteria (due to diminished production of porins) causing reduced bacterial uptake, 2) reduced affinity of the target PBPs, 3) increased expression of efflux pump components, and 4) production of antibacterial drug-destroying enzymes (carbapenemases, metallo-β-lactamases).
 Cross-resistance is sometimes observed with isolates resistant to other carbapenems.
 Interaction with Other Antimicrobials In vitro tests show meropenem to act synergistically with aminoglycoside antibacterial drugs against some isolates of Pseudomonas aeruginosa.
 Antimicrobial Activity Meropenem has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
-Gram-positive bacteria Enterococcus faecalis (vancomycin-susceptible isolates only) Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus agalactiae Streptococcus pneumoniae (penicillin-susceptible isolates only) Streptococcus pyogenes Viridans group streptococci
+Gram-positive bacteria Enterococcus faecalis(vancomycin-susceptible isolates only) Staphylococcus aureus(methicillin-susceptible isolates only) Streptococcus agalactiae Streptococcus pneumoniae(penicillin-susceptible isolates only) Streptococcus pyogenes Viridans group streptococci
 
 Gram-negative bacteria Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Neisseria meningitidis Proteus mirabilis Pseudomonas aeruginosa
 
@@ -112,6 +112,6 @@ Anaerobic bacteria Bacteroides fragilis Bacteroides thetaiotaomicron Peptostrept
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for meropenem against isolates of similar genus or organism group.
 However, the efficacy of meropenem in treating clinical infections caused by these bacteria have not been established in adequate and well-controlled clinical trials.
-Gram-positive bacteria Staphylococcus epidermidis (methicillin-susceptible isolates only)
+Gram-positive bacteria Staphylococcus epidermidis(methicillin-susceptible isolates only)
 
 Gram-negative bacteria Aeromonas hydrophila Campylobacter jejuni Citrobacter freundii Citrobacter koseri Enterobacter cloacae Hafnia alvei Klebsiella oxytoca Moraxella catarrhalis Morganella morganii Pasteurella multocida Proteus vulgaris Serratia marcescens Anaerobic bacteria Bacteroides ovatus Bacteroides uniformis Bacteroides ureolyticus Bacteroides vulgatus Clostridium difficile Clostridium perfringens Eggerthella lenta Fusobacterium species Parabacteroides distasonis Porphyromonas asaccharolytica Prevotella bivia Prevotella intermedia Prevotella melaninogenica Propionibacterium acnes Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

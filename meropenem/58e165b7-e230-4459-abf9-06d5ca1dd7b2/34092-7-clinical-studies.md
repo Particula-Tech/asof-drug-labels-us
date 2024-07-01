@@ -38,9 +38,9 @@ Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 | MICROORGANISMS1 | Meropenem for Injection, USP n 2/N 3(%) 4 | Imipenem-cilastatin n 2/N 3(%) 4 |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
-| Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
-| Streptococcus pyogenes (Group A) | 26/29 (90) | 28/32 (88) |
-| Streptococcus agalactiae (Group B) | 12/17 (71) | 16/19 (84) |
+| Staphylococcus aureus,methicillin susceptible | 82/88 (93) | 84/100 (84) |
+| Streptococcus pyogenes(Group A) | 26/29 (90) | 28/32 (88) |
+| Streptococcus agalactiae(Group B) | 12/17 (71) | 16/19 (84) |
 | Enterococcus faecalis | 9/12 (75) | 14/20 (70) |
 | Viridans group streptococci | 11/12 (92) | 5/6 (83) |
 | Gram-negative aerobes |  |  |
@@ -96,8 +96,8 @@ Table 10: Efficacy rates by Pathogen in the Clinically Evaluable Population with
 | MICROORGANISMS | Meropenem for Injection, USP | COMPARATOR |
 | --- | --- | --- |
 | S. pneumoniae | 17/24 (71) | 19/30 (63) |
-| H. influenzae (+) 1 | 8/10 (80) | 6/6 (100) |
-| H. influenzae (-/NT) 2 | 44/59 (75) | 44/60 (73) |
+| H. influenzae(+) 1 | 8/10 (80) | 6/6 (100) |
+| H. influenzae(-/NT) 2 | 44/59 (75) | 44/60 (73) |
 | N. meningitidis | 30/35 (86) | 35/39 (90) |
 | Total (including others) | 102/131 (78) | 108/140 (77) |
 
