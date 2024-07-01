@@ -8,14 +8,11 @@ Diclofenac sodium/misoprostol is contraindicated in pregnant women [see Contrain
 If a woman becomes pregnant while taking diclofenac sodium/misoprostol, discontinue the drug and advise the woman of the potential risks to her and to a fetus.
 
 There are no adequate and well-controlled studies of diclofenac sodium/misoprostol in pregnant women; however, there is information available about the active drug components of diclofenac sodium/misoprostol, diclofenac sodium and misoprostol.
-Administration of misoprostol to pregnant women can cause uterine rupture, abortion, premature birth, or birth defects or [see Warnings and Precautions (5.1)].
+Administration of misoprostol to pregnant women can cause uterine rupture, abortion, premature birth, or birth defects [see Warnings and Precautions (5.1)].
 Congenital anomalies sometimes associated with fetal death have been reported subsequent to the unsuccessful use of misoprostol as an abortifacient, but the drug's teratogenic mechanism has not been demonstrated.
-Use of NSAIDS, including diclofenac a component of diclofenac sodium/misoprostol, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment (see Error!
-Hyperlink reference not valid.).
-There are clinical considerations when misoprostol and diclofenac are used in pregnant women (see Error!
-Hyperlink reference not valid.).
-In reproduction studies with pregnant rabbits, there were no skeletal or visceral malformations when the combination of diclofenac sodium and misoprostol was administered during organogenesis at doses less than the maximum recommended human doses (MRHD); however, embryotoxicity was observed at this exposure (see Error!
-Hyperlink reference not valid.).
+Use of NSAIDS, including diclofenac a component of diclofenac sodium/misoprostol, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment (see Data).
+There are clinical considerations when misoprostol and diclofenac are used in pregnant women (see Clinical Considerations).
+In reproduction studies with pregnant rabbits, there were no skeletal or visceral malformations when the combination of diclofenac sodium and misoprostol was administered during organogenesis at doses less than the maximum recommended human doses (MRHD); however, embryotoxicity was observed at this exposure (see Data).
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
 
@@ -55,13 +52,11 @@ Diclofenac
 
 Premature Closure of Fetal Ductus Arteriosus:
 
-NSAIDs, including diclofenac, can cause premature closure of the fetal ductus arteriosus at about 30 weeks gestation and later in pregnancy (see Error!
-Hyperlink reference not valid.).
+NSAIDs, including diclofenac, can cause premature closure of the fetal ductus arteriosus at about 30 weeks gestation and later in pregnancy (see Data).
 
 Oligohydramnios/Neonatal Renal Impairment:
 
-Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment (see Error!
-Hyperlink reference not valid.).
+Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment (see Data).
 
 Labor or Delivery
 
@@ -130,8 +125,7 @@ Contraception
 
 Females
 
-Diclofenac sodium/misoprostol can cause fetal harm when administered to a pregnant woman [see Contraindications (4) and Error!
-Hyperlink reference not valid.].
+Diclofenac sodium/misoprostol can cause fetal harm when administered to a pregnant woman [see Contraindications (4) and Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with diclofenac sodium/misoprostol.
 
 Diclofenac sodium/misoprostol may be prescribed if the patient:

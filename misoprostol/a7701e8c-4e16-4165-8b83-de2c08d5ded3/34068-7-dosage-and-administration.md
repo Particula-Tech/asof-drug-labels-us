@@ -34,7 +34,7 @@ Daily doses of the components delivered with these regimens are as follows:
 
 ## 2.4 Additional Dosage Recommendations
 
-Diclofenac sodium/misoprostol contains misoprostol, which provides protection against gastric and duodenal ulcers [seeClinical Studies (14)].
+Diclofenac sodium/misoprostol contains misoprostol, which provides protection against gastric and duodenal ulcers [see Clinical Studies (14)].
 For gastric ulcer prevention, the 200 mcg four and three times a day regimens are therapeutically equivalent, but more protective than the two times a day regimen.
 For duodenal ulcer prevention, the four times a day regimen is more protective than the three or two times a day regimens.
 However, the four times a day regimen is less well tolerated than the three times a day regimen because of usually self-limited diarrhea related to the misoprostol dose [see Adverse Reactions (6.1)], and the two times a day regimen may be better tolerated than three times a day in some patients.

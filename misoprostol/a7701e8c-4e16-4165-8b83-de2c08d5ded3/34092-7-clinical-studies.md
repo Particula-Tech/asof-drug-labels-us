@@ -17,11 +17,11 @@ The three times a day regimen was therapeutically equivalent to misoprostol 200 
 Misoprostol 200 mcg given two times a day was less effective than 200 mcg given three or four times a day.
 The incidence of NSAID-induced duodenal ulcer was also significantly reduced with all three regimens of misoprostol compared to placebo (see Table 3).
 
-Table
+Table 3
 
-|  | Placebo | two times a day | three times a day | four times a day |
-| --- | --- | --- | --- | --- |
 | Misoprostol 200 mcg Dosage Regimen |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo | two times a day | three times a day | four times a day |
 | Gastric ulcer | 11% | 6%Misoprostol significantly different from placebo (p<0.05) | 3% | 3% |
 | Duodenal ulcer | 6% | 2% | 3% | 1% |
 
@@ -29,11 +29,11 @@ N=1623; 12 weeks
 
 Results of a study in 572 patients with osteoarthritis demonstrate that patients receiving diclofenac sodium/misoprostol have a lower incidence of endoscopically defined gastric ulcers compared to patients receiving diclofenac sodium (see Table 4).
 
-Table
+Table 4
 
-| Gastric | Duodenal |  |
-| --- | --- | --- |
 | Osteoarthritis patients with history of ulcer or erosive disease (N=572), 6 weeks | Incidence of ulcers |  |
+| --- | --- | --- |
+| Gastric | Duodenal |  |
 | Diclofenac sodium/misoprostol 50 three times a day | 3%Statistically significantly different from diclofenac (p<0.05) | 6% |
 | Diclofenac sodium/misoprostol 75 two times a day | 4% | 3% |
 | Diclofenac sodium 75 mg two times a day | 11% | 7% |
