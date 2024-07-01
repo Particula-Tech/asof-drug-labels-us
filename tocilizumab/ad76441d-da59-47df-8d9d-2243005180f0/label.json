@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761275"
+  ],
+  "inn": "tocilizumab",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "65219-584-01",
+    "65219-586-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tocilizumab-aazg",
+      "name": "TYENNE"
+    }
+  ],
+  "setid": "ad76441d-da59-47df-8d9d-2243005180f0",
+  "source": "dailymed"
+}
