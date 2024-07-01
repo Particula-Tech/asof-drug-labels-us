@@ -53,7 +53,18 @@ Patients should be closely monitored for signs or symptoms of SJS/TEN, especiall
 Clobazam should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [see Contraindications (4)].
 
-## 5.7 Suicidal Behavior and Ideation
+## 5.7 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including clobazam.
+These events can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Clobazam should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
+
+## 5.8 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including clobazam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -89,7 +100,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.8 Neonatal Sedation and Withdrawal Syndrome
+## 5.9 Neonatal Sedation and Withdrawal Syndrome
 
 Use of clobazam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
 Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation and monitor neonates exposed to clobazam during pregnancy for signs of withdrawal; manage these neonates accordingly.

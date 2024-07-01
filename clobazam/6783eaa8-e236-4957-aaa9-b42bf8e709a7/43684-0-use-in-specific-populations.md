@@ -11,7 +11,7 @@ clobazam enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Regis
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations].
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.9) and Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
@@ -21,7 +21,7 @@ Advise a pregnant woman and women of childbearing age of the potential risk to a
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -30,7 +30,7 @@ Fetal/Neonatal Adverse Reactions
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
 Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
 Monitor neonates exposed to clobazam during pregnancy for signs of withdrawal.
-Manage these neonates accordingly [see Warnings and Precautions (5.8)].
+Manage these neonates accordingly [see Warnings and Precautions (5.9)].
 
 Data
 
@@ -89,7 +89,8 @@ The no-effect level for juvenile toxicity (36 mg/kg/day) was associated with pla
 Clinical studies of clobazam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 However, elderly subjects appear to eliminate clobazam more slowly than younger subjects based on population pharmacokinetic analysis.
 For these reasons, the initial dose in elderly patients should be 5 mg/day.
-Patients should be titrated initially to 10 mg/day to 20 mg/day.Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Patients should be titrated initially to 10 mg/day to 20 mg/day.
+Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 CYP2C19 Poor Metabolizers
 
