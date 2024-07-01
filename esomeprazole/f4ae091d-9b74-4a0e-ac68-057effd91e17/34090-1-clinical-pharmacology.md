@@ -56,7 +56,7 @@ Oral doses of omeprazole 30 mg or 40 mg once daily for 2 to 4 weeks had no effec
 
 Absorption
 
-Esomeprazole magnesium delayed-release capsules and esomeprazole magnesium for delayed-release oral suspension showed similar bioavailability after a single dose (40 mg) administration in 94 healthy male and female subjects under fasting conditions.
+Esomeprazole magnesium delayed-release capsules showed similar bioavailability after a single dose (40 mg) administration in 94 healthy male and female subjects under fasting conditions.
 After oral administration, peak plasma levels (Cmax) of esomeprazole occur at approximately 1.5 hours (Tmax).
 The Cmax increases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
 At repeated once-daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.

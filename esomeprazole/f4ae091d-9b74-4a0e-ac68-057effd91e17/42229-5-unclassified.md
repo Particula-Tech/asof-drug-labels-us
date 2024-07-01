@@ -1,8 +1,6 @@
 # Instructions for Use
 
-Esomeprazole Magnesium Delayed-Release Capsules USP, for oral use
-
-(es'' oh mep' ra zole mag nee' zee um)
+Esomeprazole Magnesium (es'' oh mep' ra zole mag nee' zee um) Delayed-Release Capsules USP, for oral use
 
 Giving esomeprazole magnesium delayed-release capsules with water through a nasogastric tube (NG tube)
 
@@ -20,4 +18,4 @@ Esomeprazole magnesium delayed-release capsules:
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 06/2024
