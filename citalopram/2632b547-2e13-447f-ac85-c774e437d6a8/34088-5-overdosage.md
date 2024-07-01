@@ -8,6 +8,5 @@ The following have been reported with citalopram tablet overdosage:
 - Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
 
 Prolonged cardiac monitoring is recommended in citalopram overdosage ingestions due to the arrhythmia risk.
-
 Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a citalopram overdose.
 Consider contacting a Poison Center (1‐800‐221‐2222) or a medical toxicologist for additional overdosage management recommendations.
