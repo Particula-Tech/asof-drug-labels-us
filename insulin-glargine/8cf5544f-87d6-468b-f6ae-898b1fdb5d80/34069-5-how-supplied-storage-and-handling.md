@@ -6,10 +6,10 @@ SEMGLEE (insulin glargine-yfgn) injection is supplied as a clear and colorless s
 
 | SEMGLEE | NDCNumber | PackageSize |
 | --- | --- | --- |
-| 10 mL multiple-dose vial | 83257-011-11 | 1 vial |
-| 3 mL single-patient-use prefilled pen | 83257-012-31 | 1 pen |
-| 83257-012-32 | 3 pens |  |
-| 83257-012-33 | 5 pens |  |
+| 10 mL multiple-dose vial | 83257-011-11 | 1 vial per carton |
+| 3 mL single-patient-use prefilled pen | 83257-012-31 | 1 pen per carton |
+| 83257-012-32 | 3 pens per carton |  |
+| 83257-012-33 | 5 pens per carton |  |
 
 Additional Information about SEMGLEE:
 

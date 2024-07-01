@@ -2,6 +2,7 @@
 
 The following adverse reactions are discussed elsewhere:
 
+- Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen [see Warnings and Precautions (5.2)]
 - Hypoglycemia [seeWarnings and Precautions (5.3)]
 - Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
@@ -12,18 +13,19 @@ The following adverse reactions are discussed elsewhere:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
 The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to insulin glargine or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
-The type 1 diabetes population had the following characteristics: Mean age was 39 years.
-Fifty four percent were male, 97% were Caucasian, 2% were Black or African American and 3% were Hispanic.
-The mean BMI was 25.1 kg/m2.
+The type 1 diabetes population had the following characteristics: the mean age was 39 years.
+54% were male, and mean body mass index (BMI) was 25.1 Kg/m2.
+Ninety-seven percent were White, 2% were Black or African American and less than 1% were Asian.
+Approximately 3% of the patients instudies B and C were Hispanic.
 
 The data in Table 2 reflect the exposure of 1,563 patients with type 2 diabetes to insulin glargine or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
-The type 2 diabetes population had the following characteristics: Mean age was 59 years.
-Fifty eight percent were male, 87% were Caucasian, 8% were Black or African American and 9% were Hispanic.
-The mean BMI was 29.2 kg/m2.
+The type 2 diabetes population had the following characteristics: the mean age was 59 years, 58% were male, and mean BMI was 29.2 kg/m2.
+Eighty-seven percent were white, 8% were Black or African American and 3% were Asian.
+Approximately 9% of patients in Study F were Hispanic.
 
 The frequencies of adverse reactions during insulin glargine clinical studies in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below (Tables 1, 2, 3, and 4).
 
-Table 1: Adverse Reactions Occurring>5% in Pooled Clinical Studies up to 28 Weeks Duration in Adults with Type 1 Diabetes
+Table 1: Adverse Reactions Occurring≥5% in Pooled Clinical Studies up to 28 Weeks Duration in Adults with Type 1 Diabetes
 
 |  | Insulin Glargine, %(n = 1257) | NPH,%(n = 1070) |
 | --- | --- | --- |
@@ -32,7 +34,7 @@ Table 1: Adverse Reactions Occurring>5% in Pooled Clinical Studies up to 28 Week
 | Accidental injury | 5.7 | 6.4 |
 | Headache | 5.5 | 4.7 |
 
-Table 2: Adverse Reactions Occurring>5% in Pooled Clinical Studies up to 1 Year Duration in Adults with Type 2 Diabetes
+Table 2: Adverse Reactions Occurring≥5% in Pooled Clinical Studies up to 1 Year Duration in Adults with Type 2 Diabetes
 
 |  | Insulin Glargine, %(n = 849) | NPH,%(n = 714) |
 | --- | --- | --- |
@@ -40,7 +42,7 @@ Table 2: Adverse Reactions Occurring>5% in Pooled Clinical Studies up to 1 Year 
 | InfectionBody system not specified | 10.4 | 11.6 |
 | Retinal vascular disorder | 5.8 | 7.4 |
 
-Table 3: Adverse Reactions Occurring>10% in a 5 Year Study of Adults with Type 2 Diabetes
+Table 3: Adverse Reactions Occurring≥10% in a 5 Year Study of Adults with Type 2 Diabetes
 
 |  | Insulin Glargine, %(n = 514) | NPH,%(n = 503) |
 | --- | --- | --- |
@@ -60,7 +62,7 @@ Table 3: Adverse Reactions Occurring>10% in a 5 Year Study of Adults with Type 2
 | Depression | 10.5 | 9.7 |
 | Headache | 10.3 | 9.3 |
 
-Table 4: Adverse Reactions Occurring>5% in a 28-Week Clinical Study in Peadiatric Patients with Type 1 Diabetes
+Table 4: Adverse Reactions Occurring≥5% in a 28-Week Clinical Study in Peadiatric Patients with Type 1 Diabetes
 
 |  | Insulin Glargine, %(n = 174) | NPH,%(n = 175) |
 | --- | --- | --- |
@@ -82,14 +84,14 @@ Table 5: Severe Symptomatic Hypoglycemia in Patients with Type 1 Diabetes
 
 |  | Study AType 1 DiabetesAdults28 weeksIn combination withregular insulin |  | Study BType 1 DiabetesAdults28 weeksIn combination withregular insulin |  | Study CType 1 DiabetesAdults16 weeksIn combination with insulinlispro |  | Study DType 1 DiabetesPediatrics26 weeksIn combination withregular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Insulin Glargine N = 292 | NPHN = 293 | Insulin Glargine N = 264 | NPHN = 270 | Insulin Glargine N = 310 | NPHN = 309 | Insulin Glargine N = 174 | NPHN = 175 |
+|  | Insulin Glargine n = 292 | NPHn = 293 | Insulin Glargine n = 264 | NPHn = 270 | Insulin Glargine n = 310 | NPHn = 309 | Insulin Glargine n = 174 | NPHn = 175 |
 | Percent of patients | 10.6 | 15.0 | 8.7 | 10.4 | 6.5 | 5.2 | 23.0 | 28.6 |
 
 Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 
 |  | Study EType 2 DiabetesAdults52 weeksIn combination withoral agents |  | Study FType 2 DiabetesAdults28 weeksIn combination with regular insulin |  | Study GType 2 DiabetesAdults5 yearsIn combination with regular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Insulin Glargine N = 289 | NPHN = 281 | Insulin Glargine N = 259 | NPHN = 259 | Insulin Glargine N = 513 | NPHN = 504 |
+|  | Insulin Glargine n = 289 | NPHn = 281 | Insulin Glargine n = 259 | NPHn = 259 | Insulin Glargine n = 513 | NPHn = 504 |
 | Percent of patients | 1.7 | 1.1 | 0.4 | 2.3 | 7.8 | 11.9 |
 
 Table 7 displays the proportion of patients who experienced severe symptomatic hypoglycemia in the insulin glargine and Standard Care groups in the ORIGIN study [see Clinical Studies (14)].
@@ -98,7 +100,7 @@ Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Study
 
 |  | ORIGIN StudyMedium duration of follow-up: 6.2 years |  |
 | --- | --- | --- |
-|  | Insulin Glargine N = 6231 | Standard CareN = 6273 |
+|  | Insulin Glargine n = 6231 | Standard Caren = 6273 |
 | Percent of patients | 5.6 | 1.8 |
 
 ### Peripheral Edema

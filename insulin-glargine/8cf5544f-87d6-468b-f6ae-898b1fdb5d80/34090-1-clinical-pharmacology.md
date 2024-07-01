@@ -10,7 +10,7 @@ Insulin inhibits lipolysis and proteolysis and enhances protein synthesis.
 
 In clinical studies, the glucose-lowering effect on a molar basis (i.e., when given at the same doses) of intravenous insulin glargine is approximately the same as that for human insulin.
 Figure 1 shows results from a study in patients with type 1 diabetes conducted for a maximum of 24 hours after subcutaneous injection of insulin glargine or NPH insulin.
-The median time between subcutaneous injection and the end of pharmacological effect was 14.5 hours (range: 9.5 to 19.3 hours) for NPH insulin, and 24 hours (range: 10.8 to > 24.0 hours) (24 hours was the end of the observation period) for insulin glargine.
+The median time between subcutaneous injection and the end of pharmacological effect was 14.5 hours (range: 9.5 to 19.3 hours) for NPH insulin, and 24 hours (range: 10.8 to > 24 hours) (24 hours was the end of the observation period) for insulin glargine.
 
 * Determined as amount of glucose infused to maintain constant plasma glucose levels
 

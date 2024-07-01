@@ -8,6 +8,6 @@ These tumors were not found in female animals, in saline control, or insulin com
 
 Insulin glargine was not mutagenic in tests for detection of gene mutations in bacteria and mammalian cells (Ames and HGPRT-test) and in tests for detection of chromosomal aberrations (cytogenetics in vitro in V79 cells and in vivo in Chinese hamsters).
 
-In a combined fertility and prenatal and postnatal study in male and female rats at subcutaneous doses up to 0.36 mg/kg/day, which was approximately 50 times the recommended human subcutaneous starting dose of 0.2 units/kg/day (0.007 mg/kg/day) maternal toxicity due to dose-dependent hypoglycemia, including some deaths, was observed.
+In a combined fertility and prenatal and postnatal study in male and female rats at subcutaneous doses up to 0.36 mg/kg/day, which was approximately 50 times the recommended human subcutaneous starting dosage of 0.2 units/kg/day (0.007 mg/kg/day) maternal toxicity due to dose-dependent hypoglycemia, including some deaths, was observed.
 Consequently, a reduction of the rearing rate occurred in the high-dose group only.
 Similar effects were observed with NPH insulin.

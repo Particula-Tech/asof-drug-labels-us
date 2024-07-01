@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 | SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection for subcutaneous use VIAL: 100 units/mL (U-100) |
 | --- |
@@ -12,9 +12,9 @@
 | General information about the safe and effective use of SEMGLEE. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use SEMGLEE for a condition for which it was not prescribed. Do not give SEMGLEE to other people, even if they have the same symptoms that you have. It may harm them. This Patient Information leaflet summarizes the most important information about SEMGLEE. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about SEMGLEE that is written for healthcare professionals. |
 | What are the ingredients in SEMGLEE? •Active ingredient: insulin glargine-yfgn•10 mL vial inactive ingredients: glycerol, metacresol, polysorbate-20, zinc chloride, and Water for Injection. Hydrochloric acid and sodium hydroxide may be added to adjust the pH. For more information, call Biocon Biologics at 1-833-986-1468. Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor, Cambridge, MA 02142, U.S.A. U.S. License No. 2324 Product of Malaysia |
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 07/2023
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 11/2023
 
-Instructions for Use SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection, for subcutaneous use VIAL: (100 Units/mL, U-100)
+INSTRUCTIONS FOR USE SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection, for subcutaneous use VIAL: (100 units/mL, (U-100)
 
 These Instructions for Use contain information on how to inject SEMGLEE using the vial.
 Read these Instructions for Use before you start taking SEMGLEE and each time you get a new SEMGLEE vial.
@@ -34,15 +34,10 @@ Supplies needed to give your injection:
 
 Preparing to inject SEMGLEE:
 
-- •Wash your hands with soap and water or clean your hands with alcohol.
-- •Check the SEMGLEE label to make sure you are taking the right type of insulin.
-  This is especially important if you use more than 1 type of insulin.
-- •Check the SEMGLEE in the vial to make sure it is clear and colorless.
-  Do not use SEMGLEE if it is colored or cloudy, or if you see particles in the solution.
-- •Do not use SEMGLEE after the expiration date stamped on the label or 28 days after you first use it.
-- •Always use a syringe that is marked for U-100 insulin.
-  If you use a syringe other than a U-100 insulin syringe, you may get the wrong dose of SEMGLEE.
-- • Always use a new syringe and a needle for each injection to help prevent infectgions and prevent blocked needles.
+• Wash your hands with soap and water or clean your hands with alcohol. • Check the SEMGLEE label to make sure you are taking the right type of insulin.
+This is especially important if you use more than 1 type of insulin. • Check the SEMGLEE in the vial to make sure it is clear and colorless.
+Do not use SEMGLEE if it is colored or cloudy, or if you see particles in the solution. • Do not use SEMGLEE after the expiration date stamped on the label or 28 days after you first use it. • Always use a syringe that is marked for U-100 insulin.
+If you use a syringe other than a U-100 insulin syringe, you may get the wrong dose of SEMGLEE. • Always use a new syringe and a needle for each injection to help prevent infectgions and prevent blocked needles.
 
 Step 1:
 
@@ -81,7 +76,8 @@ You are now ready to inject.
 Injecting SEMGLEE:
 
 - •Inject your SEMGLEE (with a syringe) exactly as your healthcare provider has shown you.
-- •SEMGLEE is injected once daily at any time of the day but at the same time every day.
+- •Inject SEMGLEE 1 time per day.
+  Inject at any time of the day but at the same time every day.
 - 
 
 Step 7:
@@ -147,15 +143,15 @@ After SEMGLEE vials have been opened (in-use)
 - The SEMGLEE vial you are using should be thrown away after 28 days or if the expiration date has passed, even if it still has insulin left in it.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 07/2023
+Revised: 11/2023
 
-SEMGLEE® is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
+SEMGLEE is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
 
 Copyright © 2023 Biocon Biologics Inc. All rights reserved.
 
 Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor, Cambridge, MA 02142 U.S.A. U.S. License No. 2324 Product of Malaysia
 
-Patient Information
+PATIENT INFORMATION
 
 | SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection for subcutaneous use, 100 units/mL (U-100) |
 | --- |
@@ -171,9 +167,9 @@ Patient Information
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 07/2023
+Revised: 11/2023
 
-SEMGLEE® is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
+SEMGLEE is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
 Copyright © 2023 Biocon Biologics Inc. All rights reserved.
 
 Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor, Cambridge, MA 02142, U.S.A. U.S. License No. 2324 Product of Malaysia
@@ -324,8 +320,9 @@ Do not touch the injection button yet.
 5C Place your thumb on the injection button.
 Then press all the way in and hold (See Figure q).
 
-• Do not press at an angle.
-Your thumb could block the dose selector from turning.
+- Do notpress at an angle.
+  Your thumb could block the dose selector from turning.
+- Do not press hard, slowly push the injection button to inject the dose.
 
 5D Keep the injection button held in and when you see “0” in the dose window, slowly count to 10 (See Figure r).
 
@@ -393,11 +390,11 @@ Do not recycle your used sharps disposal container.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 07/2023
+Revised: 06/2024
 
 BD is a registered trademark of Becton, Dickinson, and Company.
 
-SEMGLEE® is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics.
+SEMGLEE is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics.
 
 Copyright © 2023 Biocon Biologics Inc. All rights reserved
 
