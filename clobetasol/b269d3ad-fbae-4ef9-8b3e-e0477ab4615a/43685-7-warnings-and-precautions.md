@@ -27,12 +27,12 @@ Topical corticosteroids in general should not be used in the treatment of acne o
 
 Information for Patients: Patients using TEMOVATE® Scalp Application should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician and should not be used longer than the prescribed time period.
+1. 1.This medication is to be used as directed by the physician and should not be used longer than the prescribed time period.
    It is for external use only.
    Avoid contact with the eyes.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive.
-4. Patients should report any signs of local adverse reactions to the physician.
+2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive.
+4. 4.Patients should report any signs of local adverse reactions to the physician.
 
 Laboratory Tests: The following tests may be helpful in evaluating patients for HPA axis suppression:
 
