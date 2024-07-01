@@ -57,7 +57,7 @@ Contrary to plasma, the concentration in skin persists for 2 to 4 weeks after di
 Renal Impairment:
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
-A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
+A pharmacokinetic study using a single 200 mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
 In uremic subjects with a mean creatinine clearance of 13mL/min. × 1.73m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8h).
 Plasma concentration-versus- time profiles showed wide intersubject variation in all three groups.
@@ -70,7 +70,7 @@ Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-
 Hepatic Impairment:
 
 Itraconazole is predominantly metabolized in the liver.
-A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
+A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100 mg dose of itraconazole as capsule.
 A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
@@ -91,9 +91,11 @@ In vitro studies have demonstrated that itraconazole inhibits the cytochrome P45
 
 Antimicrobial Activity:
 
-Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum,Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE: Description of Clinical Studies).
+Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE: Description of Clinical Studies).
 
-Susceptibility Testing Methods: For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Susceptibility Testing Methods:
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
 
 Resistance:
 
@@ -101,7 +103,7 @@ Isolates from several fungal species with decreased susceptibility to itraconazo
 
 Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
-Cross-resistance: Several in vitro studies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
+Cross-Resistance: Several in vitro studies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.
 
 Studies (both in vitro and in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.

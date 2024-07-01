@@ -15,7 +15,7 @@ Treatment was discontinued in 10.5% of patients due to adverse events.
 The median duration before discontinuation of therapy was 81 days (range: 2 to 776 days).
 The table lists adverse events reported by at least 1% of patients.
 
-Table 3:Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an Incidence of Greater than or Equal to 1%
+Table 3: Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an Incidence of Greater than or Equal to 1%
 
 | Body System/Adverse Event | Incidence (%) (N=602) |
 | --- | --- |
@@ -28,11 +28,11 @@ Table 3:Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring 
 | Metabolic/Nutritional Hypokalemia | 2 |
 | Urinary System Albuminuria | 1 |
 | Liver and Biliary System Hepatic Function Abnormal | 3 |
-| Reproductive System,Male Impotence | 1 |
+| Reproductive System, Male Impotence | 1 |
 
 *Rash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications.
 
-Adverse events infrequently reported in all studies included constipation, gastritis, depression,insomnia, tinnitus, menstrual disorder, adrenal insufficiency, gynecomastia, and male breast pain.
+Adverse events infrequently reported in all studies included constipation, gastritis, depression, insomnia, tinnitus, menstrual disorder, adrenal insufficiency, gynecomastia, and male breast pain.
 
 Adverse Events Reported in Toenail Onychomycosis Clinical Trials
 
@@ -40,7 +40,7 @@ Patients in these trials were on a continuous dosing regimen of 200 mg once dail
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Table 4:Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 4: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
 | Adverse Event | Incidence (%) Itraconazole (N=112) |
 | --- | --- |
@@ -55,7 +55,7 @@ Table 4:Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading 
 | Vasculitis | 1 |
 | Vertigo | 1 |
 
-The following adverse events occurred with an incidence of greater than or equal to 1% (N=112):headache: 10%; rhinitis: 9%; upper respiratory tract infection: 8%; sinusitis, injury: 7%; diarrhea,dyspepsia, flatulence, abdominal pain, dizziness, rash: 4%; cystitis, urinary tract infection, liver function abnormality, myalgia, nausea: 3%; appetite increased, constipation, gastritis, gastroenteritis, pharyngitis, asthenia, fever, pain, tremor, herpes zoster, abnormal dreaming: 2%.
+The following adverse events occurred with an incidence of greater than or equal to 1% (N=112):headache: 10%; rhinitis: 9%; upper respiratory tract infection: 8%; sinusitis, injury: 7%; diarrhea, dyspepsia, flatulence, abdominal pain, dizziness, rash: 4%; cystitis, urinary tract infection, liver function abnormality, myalgia, nausea: 3%; appetite increased, constipation, gastritis, gastroenteritis, pharyngitis, asthenia, fever, pain, tremor, herpes zoster, abnormal dreaming: 2%.
 
 Adverse Events Reported in Fingernail Onychomycosis Clinical Trials
 
@@ -102,7 +102,7 @@ Vascular Disorders: hypotension
 Adverse drug reactions that have been first identified during post-marketing experience with itraconazole capsules (all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Postmarketing Reports of Adverse Drug Reactions
+Table 6: Post-marketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |

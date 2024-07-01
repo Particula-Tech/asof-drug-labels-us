@@ -22,25 +22,16 @@ Itraconazole capsules can cause serious side effects, including:
    Serious medical problems that affect the heart and other parts of your body can happen if you take itraconazole capsules with certain other medicines.
    Do not take itraconazole capsules if you also take the following medicines:
 
-• methadone • methylergometrine • ranolazine
-
-• disopyramide (methylergonovine) • eplerenone
-
-• dofetilide • irinotecan • cisapride
-
-• dronedarone • lurasidone • naloxegol
-
-• quinidine • oral midazolam • lomitapide
-
-• isavuconazole • pimozide • lovastatin
-
-• ergot alkaloids (such as • triazolam • simvastatin
-
-dihydroergotamine, • felodipine • avanafil
-
-ergometrine ergonovine) • nisoldipine • ticagrelor
-
-• ergotamine • ivabradine • venetoclax (see below)
+| methadone | irinotecan | naloxegol |
+| --- | --- | --- |
+| disopyramide | lurasidone | lomitapide |
+| dofetilide | oral midazolam | lovastatin |
+| dronedarone | pimozide | simvastatin |
+| quinidine | triazolam | avanafil |
+| isavuconazole | felodipine | ticagrelor |
+| ergot alkaloids (such as dihydroergotamine, ergometrine ergonovine) | nisoldipineivabradineranolazine | venetoclax (see below)finerenonevoclosporin |
+| ergotamine | eplerenone |  |
+| methylergometrine (methylergonovine) | cisapride |  |
 
 Do not take itraconazole capsules with venetoclax for chronic lymphocytic leukemia/small lymphocytic lymphoma when you first start treatment with venetoclax or with increasing doses of venetoclax.
 
@@ -99,7 +90,7 @@ How should I take itraconazole capsules?
 
 - Take itraconazole capsules exactly as prescribed by your healthcare provider.
   Your healthcare provider will tell you how much itraconazole capsules to take and when to take it.
-- You will receive itraconazole capsules in a blister pack, bottle or PulsePak.
+- You will receive itraconazole capsules in a blister pack or bottle.
   Your healthcare provider will decide the type of itraconazole capsules that is right for you.
 - Take itraconazole capsules with a full meal.
 - Swallow itraconazole capsules whole.
@@ -123,8 +114,9 @@ Itraconazole capsules may cause serious side effects, including:
   Hearing loss can happen for a short time or permanently in some people who take itraconazole capsules.
   Stop taking itraconazole capsules and call your healthcare provider right away if you have any changes in your hearing.
 
-The most common side effects of itraconazole capsules include: headache, rash, and digestive system problems (such as nausea and vomiting).
-Additional possible side effects include upset stomach, vomiting, constipation, fever, inflammation of the pancreas, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
+The most common side effects of itraconazole capsules include: headache, rash, digestive system problems (such as nausea and vomiting), and edema.
+
+Additional possible side effects include upset stomach, constipation, fever, inflammation of the pancreas, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
 
 These are not all the possible side effects of itraconazole capsules.
 
@@ -172,4 +164,6 @@ For more information call 1-877-272-7901.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: January, 2023
+Revised: April 2024
+
+PT2268-09
