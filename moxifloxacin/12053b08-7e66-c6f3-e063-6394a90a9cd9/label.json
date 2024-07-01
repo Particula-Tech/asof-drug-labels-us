@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021598"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-700-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "VIGAMOX"
+    }
+  ],
+  "setid": "12053b08-7e66-c6f3-e063-6394a90a9cd9",
+  "source": "dailymed"
+}
