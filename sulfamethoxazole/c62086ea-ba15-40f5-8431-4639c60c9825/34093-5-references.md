@@ -62,3 +62,7 @@ MMWR.
 CDC Guidelines for prophylaxis against Pneumocystis carinii pneumonia for children infected with human immunodeficiency virus.
 MMWR.
 1991; 40(RR-2):1–13.
+
+Manufactured for: Pharmaceutical Associates, Inc. Greenville, SC 29605
+
+R05/24

@@ -4,13 +4,13 @@
 
 Fatalities and serious adverse reactions including severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products,(see ADVERSE REACTIONS).
 
-Cough, shortness of breath, and pulmonary infiltrates potentially representing hypersensitivity reactions of the respiratory tract have been reported in association with sulfamethoxazole and trimethoprim treatment.
+Hypersensitivity Reactions of the Respiratory Tract Cough, shortness of breath, and pulmonary infiltrates potentially representing hypersensitivity reactions of the respiratory tract have been reported in association with sulfamethoxazole and trimethoprim treatment.
 
-Other severe pulmonary adverse reactions occurring within days to weeks of sulfamethoxazole and trimethoprim initiation and resulting in prolonged respiratory failure requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO), lung transplantation or death have also been reported in patients and otherwise healthy individuals treated with sulfamethoxazole and trimethoprim products.
+Respiratory Failure Other severe pulmonary adverse reactions occurring within days to weeks of sulfamethoxazole and trimethoprim initiation and resulting in prolonged respiratory failure requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO), lung transplantation or death have also been reported in patients and otherwise healthy individuals treated with sulfamethoxazole and trimethoprim products.
 
-Circulatory shock with fever, severe hypotension, and confusion requiring intravenous fluid resuscitation and vasopressors has occurred within minutes to hours of re-challenge with trimethoprim-sulfamethoxazole products in patients with history of recent (days to weeks) exposure to sulfamethoxazole and trimethoprim.
+Circulatory Shock Circulatory shock with fever, severe hypotension, and confusion requiring intravenous fluid resuscitation and vasopressors has occurred within minutes to hours of re-challenge with trimethoprim-sulfamethoxazole products in patients with history of recent (days to weeks) exposure to sulfamethoxazole and trimethoprim.
 
-Sulfamethoxazole and trimethoprim should be discontinued at the first appearance of skin rash or any sign of a serious adverse reaction.
+Management of Hypersensitivity and Other Serious Reactions Sulfamethoxazole and trimethoprim should be discontinued at the first appearance of skin rash or any sign of a serious adverse reaction.
 A skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis, or serious blood disorders (see PRECAUTIONS and ADVERSE REACTIONS).
 Clinical signs, such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice may be early indications of serious reactions.
 
@@ -72,16 +72,18 @@ Close monitoring of serum potassium is warranted in these patients.
 During treatment, adequate fluid intake and urinary output should be ensured to prevent crystalluria.
 Patients who are "slow acetylators" may be more prone to idiosyncratic reactions to sulfonamides.
 
-## Information for patients
+## Information for Patients
 
-Patients should be counseled that antibacterial drugs including sulfamethoxazole and trimethoprim oral suspension should only be used to treat bacterial infections.
+Hypersensitivity and Other Serious Reactions: Advise patients to stop taking Sulfamethoxazole and Trimethoprim immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura, or jaundice and to contact their health care provider as soon as possible (see WARNINGS and ADVERSE REACTIONS).
+
+Antibacterial Resistance: Patients should be counseled that antibacterial drugs including sulfamethoxazole and trimethoprim oral suspension should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When sulfamethoxazole and trimethoprim oral suspension is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by sulfamethoxazole and trimethoprim oral suspension or other antibacterial drugs in the future.
 
-Patients should be instructed to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
+Crystalluria and Stone Formation: Advise patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Diarrhea: Advise patients that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with and without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
