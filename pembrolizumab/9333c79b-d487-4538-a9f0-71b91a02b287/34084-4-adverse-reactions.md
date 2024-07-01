@@ -1758,6 +1758,22 @@ Table 50: SelectedLaboratory abnormalities occurring at same or higher incidence
 
 Endometrial Carcinoma
 
+Primary Advanced or Recurrent Endometrial Carcinoma
+
+The safety of KEYTRUDA in combination with chemotherapy (paclitaxel and carboplatin) was investigated in KEYNOTE-868, a randomized (1:1), multicenter, double-blind, placebo-controlled trial that enrolled patients with advanced or recurrent endometrial carcinoma [see Clinical Studies (14.16)].
+A total of 759 patients received KEYTRUDA 200 mg every 3 weeks and chemotherapy for 6 cycles followed by KEYTRUDA 400 mg every 6 weeks for up to 14 cycles (n=382) or placebo and chemotherapy for 6 cycles followed by placebo for up to 14 cycles (n=377).
+The median duration of exposure to KEYTRUDA was 5.6 months (range: 1 day to 24.0 months).
+
+Serious adverse reactions occurred in 35% of patients receiving KEYTRUDA in combination with chemotherapy, compared to 19% of patients receiving placebo in combination with chemotherapy.
+
+Fatal adverse reactions occurred in 1.6% of patients receiving KEYTRUDA in combination with chemotherapy, including COVID-19 (0.5%), and cardiac arrest (0.3%).
+
+KEYTRUDA was discontinued for an adverse reaction in 14% of patients.
+Chemotherapy dose reduction was required in 29% of patients receiving KEYTRUDA in combination with chemotherapy, compared to 23% of patients receiving placebo in combination with chemotherapy.
+There were no clinically meaningful differences in chemotherapy discontinuations or interruptions between arms.
+
+Adverse reactions occurring in patients treated with KEYTRUDA and chemotherapy were generally similar to those observed with KEYTRUDA alone or chemotherapy alone with the exception of rash (33% all Grades; 2.9% Grades 3-4).
+
 In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H.
 
 The safety of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.16)].
