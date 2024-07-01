@@ -8,7 +8,7 @@ Bioequivalence was established between the 100 mg tablet and both suspension str
 
 Peak plasma concentrations (Cmax) in fasted normal volunteers occur between 1 and 2 hours with a terminal plasma elimination half-life of approximately 30 hours (range: 20 to 50 hours) after oral administration.
 
-In fasted normal volunteers, administration of a single oral 400 mg dose of fluconazole leads to a mean Cmax of 6.72 mcg/mL (range: 4.12 to 8.08 mcg/mL) and after single or multiple oral doses of 50 to 400 mg, fluconazole plasma concentrations and area under the plasma concentration-time curve (AUC) are dose proportional (Table 1).
+In fasted normal volunteers, administration of a single oral 400 mg dose of fluconazole leads to a mean Cmax of 6.72 mcg/mL (range: 4.12 to 8.08 mcg/mL) and after single or multiple oral doses of 50 to 400 mg, fluconazole plasma concentrations and area under the plasma concentration time curve (AUC) are dose proportional (Table 1).
 
 Table 1: Mean Pharmacokinetic Parameters of Fluconazole in Adult Healthy Volunteers Following the Administration of Fluconazole
 
@@ -230,7 +230,7 @@ In a follow-on clinical study involving 8 healthy male subjects, reduced dosing 
 Tofacitinib: Coadministration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2-7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% to 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS.)
 
-Abrocitinib: When co-administered with fluconazole (inhibitor of CYP2C9, 2C19, and 3A4), the systemic exposure (AUC) of abrocitinib was approximately 4.8-fold higher and the combined exposure (AUC) of abrocitinib and its active metabolites was approximately 2.5-fold higher compared to when abrocitinib was administered alone
+Abrocitinib: When coadministered with fluconazole (inhibitor of CYP2C9, 2C19, and 3A4), the systemic exposure (AUC) of abrocitinib was approximately 4.8-fold higher and the combined exposure (AUC) of abrocitinib and its active metabolites was approximately 2.5-fold higher compared to when abrocitinib was administered alone
 
 (See PRECAUTIONS).
 

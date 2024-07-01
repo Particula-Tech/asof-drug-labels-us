@@ -52,7 +52,7 @@ Such cases may require alternative antifungal therapy (see CLINICAL PHARMACOLOGY
 Fluconazole is a moderate CYP2C9 and CYP3A4 inhibitor.
 Fluconazole is also a strong inhibitor of CYP2C19.
 Patients treated with Fluconazole in Sodium Chloride Injection, who are also concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4, should be monitored for adverse reactions associated with the concomitantly administered drugs.
-In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19 and CYP3A4 coadministered with fluconazole.
+In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed and are described in greater detail below:
