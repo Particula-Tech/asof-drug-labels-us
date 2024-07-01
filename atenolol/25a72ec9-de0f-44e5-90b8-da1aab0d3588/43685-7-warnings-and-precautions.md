@@ -19,20 +19,19 @@ Patients with preexisting conduction abnormalities or left ventricular dysfuncti
 
 ## Bronchospastic Diseases
 
-PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS.
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
 Because of its relative beta1 selectivity, however, atenolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
 Since beta1 selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.
 If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
 
 ## Major Surgery
 
-Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-## Diabetes and Hypoglycemia
+## Hypoglycemia
 
-Atenolol should be used with caution in diabetic patients if a beta-blocking agent is required.
-Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-At recommended doses atenolol does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta blockers, does not delay recovery of blood glucose to normal levels.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 ## Thyrotoxicosis
 
@@ -62,13 +61,18 @@ Atenolol has been shown to produce a dose-related increase in embryo/fetal resor
 
 ## General
 
-Patients already on a beta blocker must be evaluated carefully before atenolol is administered.
+Patients already on a beta-blocker must be evaluated carefully before atenolol is administered.
 Initial and subsequent atenolol dosages can be adjusted downward depending on clinical observations including pulse and blood pressure.
 Atenolol may aggravate peripheral arterial circulatory disorders.
 
 ## Impaired Renal Function
 
 The drug should be used with caution in patients with impaired renal function (see DOSAGE AND ADMINISTRATION).
+
+## Information for Patients
+
+Hypoglycemia Inform patients or caregivers that there is a risk of hypoglycemia when atenolol is given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia.
 
 ## Drug Interactions
 
@@ -78,20 +82,20 @@ Patients treated with atenolol plus a catecholamine depletor should therefore be
 Calcium channel blockers may also have an additive effect when given with atenolol (see WARNINGS).
 
 Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects.
-Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta blockers.
+Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta-blockers.
 
-Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta blockers.
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta-blockers.
 
-Beta blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
-If the two drugs are coadministered, the beta blocker should be withdrawn several days before the gradual withdrawal of clonidine.
-If replacing clonidine by beta-blocker therapy, the introduction of beta blockers should be delayed for several days after clonidine administration has stopped.
+Beta-blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
+If the two drugs are coadministered, the beta-blocker should be withdrawn several days before the gradual withdrawal of clonidine.
+If replacing clonidine by beta-blocker therapy, the introduction of beta-blockers should be delayed for several days after clonidine administration has stopped.
 
-Concomitant use of prostaglandin synthase inhibiting drugs, e.g., indomethacin, may decrease the hypotensive effects of beta blockers.
+Concomitant use of prostaglandin synthase inhibiting drugs, e.g., indomethacin, may decrease the hypotensive effects of beta-blockers.
 
 Information on concurrent usage of atenolol and aspirin is limited.
-Data from several studies, i.e., TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta blockers in the acute myocardial infarction setting.
+Data from several studies, i.e., TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta-blockers in the acute myocardial infarction setting.
 
-While taking beta blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
+While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
 Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
@@ -100,8 +104,8 @@ Concomitant use can increase the risk of bradycardia.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose,* did not indicate a carcinogenic potential of atenolol.
-A third (24 month) rat study, employing doses of 500 and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
-No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse), in vivo cytogenetics test (Chinese hamster) or Ames test (S. typhimurium).
+A third (24 month) rat study, employing doses of 500 mg/kg/day and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
+No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse), in vivo cytogenetics test (Chinese hamster) or Ames test (S typhimurium).
 
 Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose*) was unaffected by atenolol administration.
 
@@ -113,11 +117,9 @@ Chronic studies employing oral atenolol performed in animals have revealed the o
 
 * Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
-## Usage in Pregnancy
+## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category D
 
 See WARNINGS, Pregnancy and Fetal Injury.
 

@@ -15,12 +15,12 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
 
 Manufactured In Czech Republic By: TEVA Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, INC. North Wales, PA 19454
 
 Rev.
-AD 9/2015
+AE 5/2024

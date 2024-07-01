@@ -2,21 +2,21 @@
 
 ## Hypertension
 
-The initial dose of atenolol tablets USP is 50 mg given as one tablet a day either alone or added to diuretic therapy.
+The initial dose of atenolol tablets is 50 mg given as one tablet a day either alone or added to diuretic therapy.
 The full effect of this dose will usually be seen within one to two weeks.
-If an optimal response is not achieved, the dosage should be increased to atenolol tablets USP 100 mg given as one tablet a day.
+If an optimal response is not achieved, the dosage should be increased to atenolol tablets 100 mg given as one tablet a day.
 Increasing the dosage beyond 100 mg a day is unlikely to produce any further benefit.
 
-Atenolol tablets USP may be used alone or concomitantly with other antihypertensive agents including thiazide-type diuretics, hydralazine, prazosin, and alpha-methyldopa.
+Atenolol tablets may be used alone or concomitantly with other antihypertensive agents including thiazide-type diuretics, hydralazine, prazosin, and alpha-methyldopa.
 
 ## Angina Pectoris
 
-The initial dose of atenolol tablets USP is 50 mg given as one tablet a day.
-If an optimal response is not achieved within one week, the dosage should be increased to atenolol tablets USP 100 mg given as one tablet a day.
+The initial dose of atenolol tablets is 50 mg given as one tablet a day.
+If an optimal response is not achieved within one week, the dosage should be increased to atenolol tablets 100 mg given as one tablet a day.
 Some patients may require a dosage of 200 mg once a day for optimal effect.
 
 Twenty-four hour control with once daily dosing is achieved by giving doses larger than necessary to achieve an immediate maximum effect.
-The maximum early effect on exercise tolerance occurs with doses of 50 to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
+The maximum early effect on exercise tolerance occurs with doses of 50 mg to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
 
 ## Acute Myocardial Infarction
 
@@ -27,25 +27,25 @@ Atenolol I.V. injection should be administered under carefully controlled condit
 Dilutions of atenolol I.V. injection in Dextrose Injection USP, Sodium Chloride Injection USP, or Sodium Chloride and Dextrose Injection may be used.
 These admixtures are stable for 48 hours if they are not used immediately.
 
-In patients who tolerate the full intravenous dose (10 mg), atenolol tablets USP, 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.
-Thereafter, atenolol tablets USP can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
-If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol tablets USP should be discontinued (see full prescribing information prior to initiating therapy with atenolol tablets USP).
+In patients who tolerate the full intravenous dose (10 mg), atenolol tablets, 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.
+Thereafter, atenolol tablets can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
+If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol tablets should be discontinued (see full prescribing information prior to initiating therapy with atenolol tablets).
 
-Data from other beta blocker trials suggest that if there is any question concerning the use of IV beta blocker or clinical estimate that there is a contraindication, the IV beta blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets USP, 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
+Data from other beta-blocker trials suggest that if there is any question concerning the use of I.V. beta-blocker or clinical estimate that there is a contraindication, the I.V. beta-blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets, 50 mg twice daily or 100 mg once a day for at least seven days (if the I.V. dosing is excluded).
 
-Although the demonstration of efficacy of atenolol tablets USP is based entirely on data from the first seven postinfarction days, data from other beta blocker trials suggest that treatment with beta blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
+Although the demonstration of efficacy of atenolol tablets is based entirely on data from the first seven postinfarction days, data from other beta-blocker trials suggest that treatment with beta-blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
 
-Atenolol tablets USP is an additional treatment to standard coronary care unit therapy.
+Atenolol tablets are an additional treatment to standard coronary care unit therapy.
 
 ## Elderly Patients or Patients With Renal Impairment
 
-Atenolol tablets USP are excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function.
+Atenolol tablets are excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
 Atenolol excretion would be expected to decrease with advancing age.
 
-No significant accumulation of atenolol tablets USP occurs until creatinine clearance falls below 35 mL/min/1.73 m2.
-Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 and 105 mL/min.
+No significant accumulation of atenolol tablets occurs until creatinine clearance falls below 35 mL/min/1.73 m2.
+Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 mL/min and 105 mL/min.
 Peak plasma levels were significantly increased in subjects with creatinine clearances below 30 mL/min.
 
 The following maximum oral dosages are recommended for elderly, renally-impaired patients and for patients with renal impairment due to other causes:
@@ -55,7 +55,7 @@ The following maximum oral dosages are recommended for elderly, renally-impaired
 | 15 to 35 | 16 to 27 | 50 mg daily |
 | < 15 | > 27 | 25 mg daily |
 
-Some renally-impaired or elderly patients being treated for hypertension may require a lower starting dose of atenolol tablets USP: 25 mg given as one tablet a day.
+Some renally-impaired or elderly patients being treated for hypertension may require a lower starting dose of atenolol tablets: 25 mg given as one tablet a day.
 If this 25 mg dose is used, assessment of efficacy must be made carefully.
 This should include measurement of blood pressure just prior to the next dose ("trough" blood pressure) to ensure that the treatment effect is present for a full 24 hours.
 
@@ -65,4 +65,4 @@ Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; thi
 
 ## Cessation of Therapy in Patients With Angina Pectoris
 
-If withdrawal of atenolol tablet USP therapy is planned, it should be achieved gradually and patients should be carefully observed and advised to limit physical activity to a minimum.
+If withdrawal of atenolol tablet therapy is planned, it should be achieved gradually and patients should be carefully observed and advised to limit physical activity to a minimum.

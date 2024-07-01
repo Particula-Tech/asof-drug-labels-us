@@ -29,5 +29,7 @@ The reported incidence is small, and in most cases, the symptoms have cleared wh
 Discontinuance of the drug should be considered if any such reaction is not otherwise explicable.
 Patients should be closely monitored following cessation of therapy (see DOSAGE AND ADMINISTRATION).
 
-The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with atenolol.
+The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with atenolol.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol therapy with subsequent resolution or quiescence of the reaction.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

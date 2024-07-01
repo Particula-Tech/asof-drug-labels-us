@@ -34,7 +34,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 
 ## Acute Myocardial Infarction
 
-In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta blocker, in atenolol-treated patients than in control patients.
+In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta-blocker, in atenolol-treated patients than in control patients.
 However, these usually responded to atropine and/or to withholding further dosage of atenolol.
 The incidence of heart failure was not increased by atenolol.
 Inotropic agents were infrequently used.
@@ -68,7 +68,7 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 
 Reasons for Reduced Dosage
 
-|  | IV Atenolol Reduced Dose (< 5 mg)1 | Oral Partial Dose |
+|  | I.V. Atenolol Reduced Dose (< 5 mg)1 | Oral Partial Dose |
 | --- | --- | --- |
 | Hypotension/Bradycardia | 105 (1.3%) | 1168 (14.5%) |
 | Cardiogenic Shock | 4 (0.04%) | 35 (0.44%) |
@@ -81,4 +81,4 @@ Reasons for Reduced Dosage
 | 1. Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  |  |
 
 During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
-Atenolol, like other beta blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.
+Atenolol, like other beta-blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.
