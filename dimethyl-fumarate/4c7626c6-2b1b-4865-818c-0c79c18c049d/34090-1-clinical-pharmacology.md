@@ -24,7 +24,7 @@ Absorption
 
 The median Tmax of MMF is 2 to 2.5 hours.
 The peak plasma concentration (Cmax) and overall exposure (AUC) increased approximately dose proportionally in the dose range studied (120 mg to 360 mg).
-Following administration of dimethyl fumarate delayed-release capsules, 240 mg twice a day with food, the mean Cmax of MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
+Following administration of dimethyl fumarate delayed-release capsules 240 mg twice a day with food, the mean Cmax of MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
 
 A high-fat, high-calorie meal did not affect the AUC of MMF but decreased its Cmax by 40%.
 The Tmax was delayed from 2.0 hours to 5.5 hours.
@@ -67,3 +67,10 @@ Oral Contraceptives
 
 The co-administration of dimethyl fumarate with a combined oral contraceptive (norelgestromin and ethinyl estradiol) did not elicit any relevant effects in oral contraceptives exposure.
 No interaction studies have been performed with oral contraceptives containing other progestogens.
+
+Vaccines
+
+A randomized, open-label study examined the concomitant use of dimethyl fumarate and several non-live vaccines in adults 27 to 55 years of age with relapsing forms of MS (38 subjects undergoing treatment with dimethyl fumarate at the time of vaccination and 33 subjects undergoing treatment with non-pegylated interferon at the time of vaccination).
+Concomitant exposure to dimethyl fumarate did not attenuate antibody responses to tetanus toxoid-containing vaccine, pneumococcal polysaccharide, and meningococcal vaccines relative to antibody responses in interferon-treated patients.
+The impact of these findings on vaccine effectiveness in this patient population is unknown.
+The safety and effectiveness of live or live-attenuated vaccines administered concomitantly with dimethyl fumarate have not been assessed.

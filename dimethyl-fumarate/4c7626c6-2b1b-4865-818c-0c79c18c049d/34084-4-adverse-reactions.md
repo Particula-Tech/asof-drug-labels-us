@@ -8,6 +8,7 @@ The following important adverse reactions are described elsewhere in labeling:
 - Lymphopenia [see Warnings and Precautions (5.4)].
 - Liver Injury [see Warnings and Precautions (5.5)].
 - Flushing [see Warnings and Precautions (5.6)].
+- Serious Gastrointestinal Reactions [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -46,7 +47,7 @@ Gastrointestinal
 Dimethyl fumarate caused GI events (e.g., nausea, vomiting, diarrhea, abdominal pain, and dyspepsia).
 The incidence of GI events was higher early in the course of treatment (primarily in month 1) and usually decreased over time in patients treated with dimethyl fumarate compared with placebo.
 Four percent (4%) of patients treated with dimethyl fumarate and less than 1% of placebo patients discontinued due to gastrointestinal events.
-The incidence of serious GI events was 1% in patients treated with dimethyl fumarate.
+The incidence of serious GI events was 1% in clinical trial patients treated with dimethyl fumarate; these events, none of which were fatal, included vomiting (0.3%) and abdominal pain (0.3%).
 
 Hepatic Transaminases
 
@@ -61,15 +62,15 @@ A transient increase in mean eosinophil counts was seen during the first 2 month
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reaction has been identified during post-approval use of dimethyl fumarate.
+The following adverse reactions have been identified during post-approval use of dimethyl fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal Disorders: Acute pancreatitis
+Gastrointestinal Disorders: Acute pancreatitis; gastrointestinal perforation, ulceration, obstruction, and hemorrhage [see Warnings and Precautions (5.7)].
 
 Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)].
 
 Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)].
 
-Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea
+Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea.
 
-Skin and Subcutaneous: Alopecia
+Skin and Subcutaneous: Alopecia.

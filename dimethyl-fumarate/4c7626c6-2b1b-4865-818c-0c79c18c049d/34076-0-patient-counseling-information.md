@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Dosage
 
-Inform patients that they will be provided two strengths of dimethyl fumarate delayed-release capsules when starting treatment: 120 mg capsules for the 7 day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
+Inform patients that they will be provided two strengths of dimethyl fumarate delayed-release capsules when starting treatment: 120 mg capsules for the 7-day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
 Inform patients to swallow dimethyl fumarate delayed-release capsules whole and intact.
 Inform patients to not crush, chew, or sprinkle capsule contents on food.
 Inform patients that dimethyl fumarate delayed-release capsules can be taken with or without food [see Dosage and Administration (2.1)].
@@ -37,15 +37,17 @@ Inform patients that dimethyl fumarate delayed-release capsules may cause liver 
 Instruct patients treated with dimethyl fumarate delayed-release capsules to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
 A blood test should be obtained before patients start therapy and during treatment, as clinically indicated [see Warnings and Precautions (5.5)].
 
-Flushing and Gastrointestinal (GI) Reactions
+Flushing
 
-Flushing and GI reactions (abdominal pain, diarrhea, and nausea) are the most common reactions, especially at the initiation of therapy, and may decrease over time.
-Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing or GI reactions.
+Inform patients that flushing is one of the most common reactions, especially at the initiation of therapy, and may decrease over time.
+Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing.
 Advise patients experiencing flushing that taking dimethyl fumarate delayed-release capsules with food or taking a non-enteric coated aspirin prior to taking dimethyl fumarate delayed-release capsules may help [see Adverse Reactions (6.1)].
 
-Pregnancy
+Gastrointestinal (GI) Events
 
-Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate delayed-release capsules they should inform their physician.
+Inform patients that GI events (abdominal pain, diarrhea, and nausea) are some of the most common adverse reactions, especially at the initiation of therapy, and may decrease over time.
+Some patients may experience more severe GI events.
+Advise patients to immediately contact their healthcare provider and discontinue dimethyl fumarate delayed-release capsules if they experience gastrointestinal bleeding (e.g., rectal bleeding, bloody diarrhea, hematemesis) or other serious gastrointestinal adverse events (e.g., severe abdominal pain, severe vomiting and/or diarrhea) [see Warnings and Precautions (5.7)].
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Ahmedabad 382220, INDIA
@@ -53,4 +55,4 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2023-05
+06-2024-07
