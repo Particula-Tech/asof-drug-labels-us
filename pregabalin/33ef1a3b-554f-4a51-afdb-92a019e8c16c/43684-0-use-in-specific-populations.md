@@ -11,16 +11,31 @@ Information on the registry can also be found at the website http://www.aedpregn
 
 Risk Summary
 
-There are no adequate and well-controlled studies with pregabalin in pregnant women.
+Observational studies on the use of pregabalin during pregnancy suggest a possible small increase in the rate of overall major birth defects, but there was no consistent or specific pattern of major birth defects identified (see Data).
+Available postmarketing data on miscarriage and other maternal, fetal, and long term developmental adverse effects were insufficient to identify risk associated with pregabalin.
 
-However, in animal reproduction studies, increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity, including skeletal malformations, retarded ossification, and decreased fetal body weight were observed in the offspring of rats and rabbits given pregabalin orally during organogenesis, at doses that produced plasma pregabalin exposures (AUC) greater than or equal to 16 times human exposure at the maximum recommended dose (MRD) of 600 mg/day [see Data].
+In animal reproduction studies, increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity, including skeletal malformations, retarded ossification, and decreased fetal body weight were observed in the offspring of rats and rabbits given pregabalin orally during organogenesis, at doses that produced plasma pregabalin exposures (AUC) greater than or equal to 16 times human exposure at the maximum recommended dose (MRD) of 600 mg/day (see Data).
 In an animal development study, lethality, growth retardation, and nervous and reproductive system functional impairment were observed in the offspring of rats given pregabalin during gestation and lactation.
 The no-effect dose for developmental toxicity was approximately twice the human exposure at MRD.
+
 The background risk of major birth defects and miscarriage for the indicated populations are unknown.
 However, the background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
-Advise pregnant women of the potential risk to a fetus.
 
 Data
+
+Human Data
+
+One database study, which included over 2,700 pregnancies exposed to pregabalin (monotherapy) during the first trimester compared to 3,063,251 pregnancies unexposed to antiepileptics demonstrated prevalence ratios for major malformations overall of 1.14 (CI 95% 0.96-1.35) for pregabalin, 1.29 (CI 95% 1.01-1.65) for lamotrigine, 1.39 (CI 95% 1.07-1.82) for duloxetine, and 1.24 (CI 95% 1.00-1.54) for exposure to either lamotrigine or duloxetine.
+Important study limitations include uncertainty of whether women who filled a prescription took the medication and inability to adequately control for the underlying disease and other potential confounders.
+
+A published study included results from two separate databases.
+One database, which included 353 pregnancies exposed to pregabalin (monotherapy) during the first trimester compared to 368,489 pregnancies unexposed to antiepileptics, showed no increase in risk of major birth defects; adjusted relative risk 0.87 (CI 95% 0.53-1.42).
+The second database, which included 118 pregnancies exposed to pregabalin (monotherapy) during the first trimester compared to 380,347 pregnancies unexposed to antiepileptics, suggested a small increase in risk of major birth defects; adjusted relative risk 1.26 (CI 95% 0.64-2.49).
+The risk estimates crossed the null, and the study had limitations similar to the prior study.
+
+Other published epidemiologic studies reported inconsistent findings.
+No specific pattern of birth defects was identified across studies.
+All of the studies had limitations due to their retrospective design.
 
 Animal Data
 
@@ -65,7 +80,7 @@ Infants did not receive breast milk obtained during the dosing period, therefore
 
 Infertility
 
-Male
+Males
 
 Effects on Spermatogenesis
 
@@ -108,7 +123,7 @@ Patients treated with pregabalin 2.5 mg/kg/day had, on average, a 10.5% greater 
 
 Responder rates (50% or greater reduction in partial-onset seizure frequency) were a key secondary efficacy parameter and showed numerical improvement with pregabalin compared with placebo: the responder rates were 40.6%, 29.1%, and 22.6%, for pregabalin 10 mg/kg/day, pregabalin 2.5 mg/kg/day, and placebo, respectively.
 
-The most common adverse reactions (≥5%) with pregabalin in this study were somnolence, weight increased, and increased appetite [see Adverse Reactions (6.1)].
+The most common adverse reactions (>5%) with pregabalin in this study were somnolence, weight increased, and increased appetite [see Adverse Reactions (6.1)].
 
 The use of pregabalin 2.5 mg/kg/day in pediatric patients is further supported by evidence from adequate and well-controlled studies in adults with partial-onset seizures and pharmacokinetic data from adult and pediatric patients [see Clinical Pharmacology (12.3)].
 
