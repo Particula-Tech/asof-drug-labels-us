@@ -3,14 +3,15 @@
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.6)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
-- Severe Hypotension [see Warnings and Precautions (5.9)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
-- Seizures [see Warnings and Precautions (5.12)]
-- Withdrawal [see Warnings and Precautions (5.13)]
+- Opioid-Induce Hyperalgesia and Allodynia [see Warnings and Precautions (5.7)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+- Severe Hypotension [see Warnings and Precautions (5.10)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12)]
+- Seizures [see Warnings and Precautions (5.13)]
+- Withdrawal [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,7 +26,7 @@ The common adverse reactions seen on initiation of therapy with oxycodone hydroc
 The most frequent of these included nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 The frequency of these reactions depended on several factors, including clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
 
-In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving oxycodone hydrochloride tablets, the following adverse events were recorded in oxycodone hydrochloride tablets treated patients with an incidence ≥ 3%.
+In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving oxycodone hydrochloride tablets, the following adverse events were recorded in oxycodone hydrochloride tablets-treated patients with an incidence ≥ 3%.
 In descending order of frequency they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 
 Other less frequently observed adverse reactions from opioid analgesics, including oxycodone hydrochloride tablets included:
@@ -34,7 +35,7 @@ Blood and lymphatic system disorders: anemia, leukopenia
 
 Cardiac disorders: cardiac failure, palpitation, tachycardia
 
-Gastrointestinal disorders: abdominal pain, dry mouth, diarrhea, dyspepsia, dysphagia, glossitis, nausea, vomiting.
+Gastrointestinal disorders: abdominal pain, dry mouth, diarrhea, dyspepsia, dysphagia, glossitis, nausea, vomiting
 
 General disorders and administration site conditions: chills, edema, edema peripheral, pain, pyrexia
 
@@ -69,8 +70,13 @@ Respiratory, thoracic and mediastinal disorders: pharyngeal edema
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
 
-Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.8)].
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.9)].
 
 Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in oxycodone hydrochloride tablets [see Contraindications (4)].
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.7)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
