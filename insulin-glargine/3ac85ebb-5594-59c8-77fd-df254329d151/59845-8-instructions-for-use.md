@@ -1,4 +1,4 @@
-# Instructions for Use - VIAL
+# INSTRUCTIONS FOR USE
 
 Insulin Glargine-yfgn (in′ su lin glar′ jeen) Injection, for subcutaneous use VIAL: (100 units/mL (U-100) This product is SEMGLEE (insulin glargine-yfgn).
 
@@ -67,7 +67,8 @@ You are now ready to inject.
 Injecting Insulin Glargine-yfgn:
 
 - •Inject your Insulin Glargine-yfgn (with a syringe) exactly as your healthcare provider has shown you.
-- •Insulin Glargine-yfgn is injected once daily at any time of the day but at the same time every day.
+- •Inject Insulin Glargine-yfgn 1 time per day.
+  Inject at any time of the day but at the same time every day.
 
 Step 7:
 
@@ -134,13 +135,13 @@ After Insulin Glargine-yfgn vials have been opened (in-use)
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 07/2023
+Revised: 11/2023
 
 © 2023 Biocon Biologics Inc.
 
 Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A. U.S. License No. 2324 Product of Malaysia
 
-# Instructions for Use - PEN
+# INSTRUCTIONS FOR USE
 
 Insulin Glargine-yfgn(in' su lin glar' jeen) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 units/mL (U-100) This product is SEMGLEE (insulin glargine-yfgn).
 
@@ -314,8 +315,9 @@ Do not touch the injection button yet.
 5C Place your thumb on the injection button.
 Then press all the way in and hold (See Figure q).
 
-- •Do not press at an angle.
+- Do not press at an angle.
   Your thumb could block the dose selector from turning.
+- Do not press hard, slowly push the injection button to inject the dose.
 
 5D Keep the injection button held in and when you see “0” in the dose window, slowly count to 10 (See Figure r).
 
@@ -406,7 +408,7 @@ Throwing your Pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 07/2023
+Revised: 06/2024
 
 BD is a registered trademark of Becton, Dickinson, and Company. © 2023 Biocon Biologics Inc.
 

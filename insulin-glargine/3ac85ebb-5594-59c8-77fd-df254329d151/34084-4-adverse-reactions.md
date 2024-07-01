@@ -2,10 +2,11 @@
 
 The following adverse reactions are discussed elsewhere:
 
-- •Hypoglycemia [see Warnings and Precautions (5.3)]
-- •Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
-- •Hypokalemia [see Warnings and Precautions (5.6)]
+- Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen [see Warnings and Precautions (5.2)]
+- Hypoglycemia [see Warnings and Precautions (5.3)]
+- Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Hypokalemia [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -13,13 +14,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to insulin glargine or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
 The type 1 diabetes population had the following characteristics: Mean age was 39 years.
-Fifty-four percent were male, 97% were Caucasian, 2% were Black or African American and 3% were Hispanic.
-The mean BMI was 25.1 kg/m2.
+54% were male, and mean body mass index (BMI) was 25.1 Kg/m2.
+Ninety-seven percent were White, 2% were Black or African American and less than 1% were Asian.
+Approximately 3% of the patients in studies B and C were Hispanic.
 
 The data in Table 2 reflect the exposure of 1,563 patients with type 2 diabetes to insulin glargine or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
-The type 2 diabetes population had the following characteristics: Mean age was 59 years.
-Fifty-eight percent were male, 87% were Caucasian, 8% were Black or African American and 9% were Hispanic.
-The mean BMI was 29.2 kg/m2.
+The type 2 diabetes population had the following characteristics: the mean age was 59 years.
+58% were male, and mean BMI was 29.2 kg/m2.
+Eighty-seven percent were White, 8% were Black or African American and 3% were Asian.
+Approximately 9% of patients in Study F were Hispanic.
 
 The frequencies of adverse reactions during insulin glargine clinical studies in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below (Tables 1, 2, 3, and 4).
 
@@ -82,14 +85,14 @@ Table 5: Severe Symptomatic Hypoglycemia in Patients with Type 1 Diabetes
 
 |  | Study AType 1 DiabetesAdults28 weeksIn combinationwithregular insulin |  | Study BType 1 DiabetesAdults28 weeksIn combinationwithregular insulin |  | Study CType 1 DiabetesAdults16 weeksIn combinationwith insulinlispro |  | Study DType 1 DiabetesPediatrics26 weeksIn combinationwithregular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Insulin GlargineN = 292 | NPHN = 293 | Insulin GlargineN = 264 | NPHN = 270 | Insulin GlargineN = 310 | NPHN = 309 | Insulin GlargineN = 174 | NPHN = 175 |
+|  | Insulin Glarginen = 292 | NPHn = 293 | Insulin Glarginen = 264 | NPHn = 270 | Insulin Glarginen = 310 | NPHn = 309 | Insulin Glarginen = 174 | NPHn = 175 |
 | Percent ofpatients | 10.6 | 15.0 | 8.7 | 10.4 | 6.5 | 5.2 | 23.0 | 28.6 |
 
 Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 
 |  | Study EType 2 DiabetesAdults52 weeksIn combination withoral agents |  | Study FType 2 DiabetesAdults28 weeksIn combination withregular insulin |  | Study GType 2 DiabetesAdults5 yearsIn combination withregular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Insulin GlargineN = 289 | NPHN = 281 | Insulin GlargineN = 259 | NPHN = 259 | Insulin GlargineN = 513 | NPHN = 504 |
+|  | Insulin Glarginen = 289 | NPHn = 281 | Insulin Glarginen = 259 | NPHn = 259 | Insulin Glarginen = 513 | NPHn = 504 |
 | Percent ofpatients | 1.7 | 1.1 | 0.4 | 2.3 | 7.8 | 11.9 |
 
 Table 7 displays the proportion of patients who experienced severe symptomatic hypoglycemia in the insulin glargine and Standard Care groups in the ORIGIN study [see Clinical Studies (14)].
@@ -98,7 +101,7 @@ Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Study
 
 |  | ORIGIN StudyMedian duration of follow-up: 6.2 years |  |
 | --- | --- | --- |
-|  | Insulin GlargineN = 6231 | Standard CareN = 6273 |
+|  | Insulin Glarginen = 6231 | Standard Caren = 6273 |
 | Percent of patients | 5.6 | 1.8 |
 
 Peripheral Edema

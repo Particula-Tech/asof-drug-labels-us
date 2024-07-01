@@ -48,8 +48,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of insulin glargine products to improve glycemic control in pediatric patients with diabetes mellitus have been established.
-Use of insulin glargine for this indication is supported by evidence from an adequate and well-controlled study (Study D) in 174 insulin glargine-treated pediatric patients aged 6 to 15 years with type 1 diabetes mellitus, and from adequate and well-controlled studies of insulin glargine in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of insulin glargine - yfgn to improve glycemic control in pediatric patients with diabetes mellitus have been established.
+Use of insulin glargine for this indication is supported by Insulin glargine - yfgn’s approval as a biosimilar to insulin glargine and evidence from an adequate and well-controlled study (Study D) in 174 insulin glargine-treated pediatric patients aged 6 to 15 years with type 1 diabetes mellitus, and from adequate and well-controlled studies of insulin glargine in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 In the pediatric clinical study, pediatric patients with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia compared to the adults in studies with type 1 diabetes [see Adverse Reactions (6.1)].
 

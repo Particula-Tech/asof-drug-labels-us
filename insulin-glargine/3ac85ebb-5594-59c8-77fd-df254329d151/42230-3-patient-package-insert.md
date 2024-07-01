@@ -1,4 +1,4 @@
-# Patient Information - VIAL
+# PATIENT INFORMATION
 
 Insulin Glargine-yfgn (in′ su lin glar′ jeen) injection for subcutaneous use VIAL: 100 units/mL (U-100) This product is SEMGLEE (insulin glargine-yfgn).
 
@@ -16,9 +16,9 @@ Insulin Glargine-yfgn (in′ su lin glar′ jeen) injection for subcutaneous use
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 07/2023
+Revised: 11/2023
 
-# Patient Information - PEN
+# PATIENT INFORMATION
 
 Insulin Glargine-yfgn (in′ su lin glar′ jeen) injection for subcutaneous use 100 Units/mL (U-100) This product is SEMGLEE (Insulin Glargine-yfgn).
 
@@ -36,7 +36,7 @@ Insulin Glargine-yfgn (in′ su lin glar′ jeen) injection for subcutaneous use
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 07/2023
+Revised: 11/2023
 
 © 2023 Biocon Biologics Inc.
 

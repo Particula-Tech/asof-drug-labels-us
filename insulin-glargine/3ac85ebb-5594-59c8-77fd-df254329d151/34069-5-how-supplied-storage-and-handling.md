@@ -6,9 +6,9 @@ Insulin Glargine-yfgn (injection) is supplied as a clear and colorless solution 
 
 | Insulin Glargine-yfgn | NDC Number | Package Size |
 | --- | --- | --- |
-| 10 mL multiple-dose vial | 83257-014-11 | 1 vial |
-| 3 mL single-patient-use prefilled pen | 83257-015-31 | 1 pen |
-| 83257-015-32 | 5 pens |  |
+| 10 mL multiple-dose vial | 83257-014-11 | 1 vial per carton |
+| 3 mL single-patient-use prefilled pen | 83257-015-31 | 1 pen per carton |
+| 83257-015-32 | 5 pens per carton |  |
 
 Additional Information about Insulin Glargine-yfgn:
 
