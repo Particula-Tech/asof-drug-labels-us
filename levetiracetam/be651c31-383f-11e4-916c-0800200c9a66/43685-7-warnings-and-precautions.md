@@ -108,7 +108,7 @@ Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
-SPRITAM should be discontinued if an alternative etiology for the signs or symptoms cannot be established [See Contraindication (4)].
+SPRITAM should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindication (4)].
 
 ## 5.7 Coordination Difficulties
 

@@ -67,4 +67,4 @@ Printed in the USA
 
 Patent(s): www.aprecia.com/patents
 
-LB-PI-0001.S
+LB-PI-0001.T
