@@ -21,8 +21,7 @@ Important Note:
 Each VIGAFYDE oral solution carton contains (see Figure A):
 
 - 1 bottle of VIGAFYDE oral solution
-- 1 Medication Guide (not pictured)
-- 1 Instructions for Use leaflet (not pictured)
+- 1 Medication Guide/Instructions for Use leaflet (not pictured)
 
 The pharmacy will provide (see Figure B) an:
 
