@@ -56,9 +56,7 @@ Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
 300 mL NDC 0409-4883-03
 
-Linezolid Injection in 0.9% Sodium Chloride 600 mg/300 mL (2 mg/mL)
-
-For Intravenous Infusion
+Linezolid Injection in 0.9% Sodium Chloride 600 mg/300 mL (2 mg/mL) For Intravenous Infusion
 
 Each mL contains Linezolid 2 mg; Citric Acid anhydrous, USP,
 
@@ -114,37 +112,28 @@ TO OPEN — TEAR AT NOTCH
 
 Each mL contains Linezolid, 2 mg; Citric Acid anhydrous, USP, 1.92 mg;
 
-Sodium Hydroxide, 0.76 mg; Sodium Chloride, USP 9 mg in Water for Injection.
-
-pH adjusted to 4.4 - 5.2 with Sodium Hydroxide and/or Hydrochloric Acid.
+Sodium Hydroxide, 0.76 mg; Sodium Chloride, USP 9 mg in Water for Injection. pH adjusted to 4.4 - 5.2 with Sodium Hydroxide and/or Hydrochloric Acid.
 
 Discard unused portion.
 Recommended Dosage: See Prescribing Information.
 
 The overwrap is a moisture barrier.
-Do not remove unit from overwrap until
-
-ready for use.
+Do not remove unit from overwrap until ready for use.
 Visually inspect overwrap for tears or holes.
-Discard unit if
-
-overwrap is damaged or if solution is discolored in any way.
-Use unit promptly
-
-when overwrap is opened.
+Discard unit if overwrap is damaged or if solution is discolored in any way.
+Use unit promptly when overwrap is opened.
 
 Store at 20 to 25ºC (68 to 77ºF).
-Excursions permitted to 15 to 30ºC (59 to 86ºF).
+Excursions permitted to 15 to 30ºC
 
+(59 to 86ºF).
 [See USP Controlled Room Temperature.]
 Do not freeze.
 
 Rx only
 
 Linezolid is sensitive to light.
-After removing the overwrap, check bag for
-
-minute leaks by squeezing container firmly.
+After removing the overwrap, check bag for minute leaks by squeezing container firmly.
 
 If leaks are found, discard solution as sterility may be impaired.
 MADE IN SINGAPORE
