@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA213442"
+  ],
+  "inn": "ivabradine",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1863-6",
+    "70771-1863-8",
+    "70771-1864-6",
+    "70771-1864-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ivabradine",
+      "name": "ivabradine"
+    }
+  ],
+  "setid": "246b495a-ea7b-4cbe-9a5f-87c2c0a59cb3",
+  "source": "dailymed"
+}
