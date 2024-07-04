@@ -2,7 +2,6 @@
 
 NOTE: Some of the methylprednisolone sodium succinate for injection formulations contain benzyl alcohol (see DESCRIPTION, WARNINGS and PRECAUTIONS, Pediatric Use) Because of possible physical incompatibilities, methylprednisolone sodium succinate for injection should not be diluted or mixed with other solutions.
 Use only Water for Injection or Bacteriostatic Water for Injection with Benzyl Alcohol when reconstituting methylprednisolone sodium succinate for injection (see DESCRIPTION).
-Use within 48 hours after mixing.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 This preparation may be administered by intravenous injection, by intravenous infusion, or by intramuscular injection, the preferred method for initial emergency use being intravenous injection.
 Following the initial emergency period, consideration should be given to employing a longer acting injectable preparation or an oral preparation.
@@ -24,6 +23,10 @@ The desired dose may be administered intravenously over a period of several minu
 If desired, the medication may be administered in diluted solutions by adding Water for Injection or other suitable diluent (see below) to the vial and withdrawing the indicated dose.
 To prepare solutions for intravenous infusion, first prepare the solution for injection as directed.
 This solution may then be added to indicated amounts of 5% dextrose in water, isotonic saline solution, or 5% dextrose in isotonic saline solution.
+From a microbiological point of view, unless the method of opening/reconstitution/dilution precludes the risk of microbial contamination, the product should be used immediately.
+If not used immediately, in-use storage times and conditions are the responsibility of the user.
+Chemical and physical stability of the further diluted product has been demonstrated within 4 hours of preparation if stored below 25°C or within 24 hours of preparation if stored at 2° to 8°C.
+
 In pediatric patients, the initial dose of methylprednisolone may vary depending on the specific disease entity being treated.
 The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m2 bsa/day).
 The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone, or methylprednisolone in pediatric patients whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1 to 2 mg/kg/day in single or divided doses.

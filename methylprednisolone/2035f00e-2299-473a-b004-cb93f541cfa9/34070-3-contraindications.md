@@ -9,5 +9,4 @@ Methylprednisolone sodium succinate for injection is contraindicated:
   Reports of severe medical events have been associated with this route of administration.
 
 Intramuscular corticosteroid preparations are contraindicated for idiopathic thrombocytopenic purpura.
-Additional contraindication for the use of methylprednisolone sodium succinate for injection preserved with benzyl alcohol: Formulations preserved with benzyl alcohol are contraindicated for use in premature infants.
-(See WARNINGS and PRECAUTIONS, Pediatric Use.)
+Additional contraindication for the use of methylprednisolone sodium succinate for injection preserved with benzyl alcohol: Formulations preserved with benzyl alcohol are contraindicated for use in premature infants (see WARNINGS and PRECAUTIONS, Pediatric Use).
