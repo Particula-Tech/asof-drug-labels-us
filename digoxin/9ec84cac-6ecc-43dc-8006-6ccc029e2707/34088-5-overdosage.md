@@ -40,7 +40,7 @@ Chronic Overdose
 
 If there is suspicion of toxicity, discontinue LANOXIN and place the patient on a cardiac monitor.
 Correct factors such as electrolyte abnormalities, thyroid dysfunction, and concomitant medications [see Dosage and Administration (2.5)].
-Correct hypokalemia by administering potassium so that serum potassium is maintained between 4.0 and 5.5 mmol/L.
+Correct hypokalemia by administering potassium so that serum potassium is maintained between 4 and 5.5 mmol/L.
 Potassium is usually administered orally, but when correction of the arrhythmia is urgent and serum potassium concentration is low, potassium may be administered by the intravenous route.
 Monitor electrocardiogram for any evidence of potassium toxicity (e.g., peaking of T waves) and to observe the effect on the arrhythmia.
 Avoid potassium salts in patients with bradycardia or heart block.

@@ -20,6 +20,8 @@ Immediate use of the diluted product is recommended.
 
 Consider interruption or reduction in LANOXIN dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
+Discard unused portion of LANOXIN Injection and LANOXIN Injection Pediatric.
+
 ## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients
 
 Table 1.
@@ -61,20 +63,20 @@ Reduce the dose of LANOXIN in patients whose lean weight is an abnormally small 
 Table 3.
 Recommended Maintenance Dose (in micrograms given once daily) of LANOXIN Injection in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Function
 
-| Corrected Creatinine Clearancea | Lean Body Weightc |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedb |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |  |  |
-| 10 mL/min |  | 64 | 80 | 96 | 112 | 128 | 144 | 160 | 19 |  |  |
-| 20 mL/min |  | 72 | 90 | 108 | 126 | 144 | 162 | 180 | 16 |  |  |
-| 30 mL/min |  | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 14 |  |  |
-| 40 mL/min |  | 88 | 110 | 132 | 154 | 176 | 198 | 220 | 13 |  |  |
-| 50 mL/min |  | 96 | 120 | 144 | 168 | 192 | 216 | 240 | 12 |  |  |
-| 60 mL/min |  | 104 | 130 | 156 | 182 | 208 | 234 | 260 | 11 |  |  |
-| 70 mL/min |  | 112 | 140 | 168 | 196 | 224 | 252 | 280 | 10 |  |  |
-| 80 mL/min |  | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 9 |  |  |
-| 90 mL/min |  | 128 | 160 | 192 | 224 | 256 | 288 | 320 | 8 |  |  |
-| 100 mL/min |  | 136 | 170 | 204 | 238 | 272 | 306 | 340 | 7 |  |  |
-| a For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr b If no loading dose administered c The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |  |  |
+| Corrected Creatinine Clearancea | Lean Body Weightc |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedb |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
+| 10 mL/min |  | 64 | 80 | 96 | 112 | 128 | 144 | 160 | 19 |
+| 20 mL/min |  | 72 | 90 | 108 | 126 | 144 | 162 | 180 | 16 |
+| 30 mL/min |  | 80 | 100 | 120 | 140 | 160 | 180 | 200 | 14 |
+| 40 mL/min |  | 88 | 110 | 132 | 154 | 176 | 198 | 220 | 13 |
+| 50 mL/min |  | 96 | 120 | 144 | 168 | 192 | 216 | 240 | 12 |
+| 60 mL/min |  | 104 | 130 | 156 | 182 | 208 | 234 | 260 | 11 |
+| 70 mL/min |  | 112 | 140 | 168 | 196 | 224 | 252 | 280 | 10 |
+| 80 mL/min |  | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 9 |
+| 90 mL/min |  | 128 | 160 | 192 | 224 | 256 | 288 | 320 | 8 |
+| 100 mL/min |  | 136 | 170 | 204 | 238 | 272 | 306 | 340 | 7 |
+| a For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr b If no loading dose administered c The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
 
 ## 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old
 
@@ -88,7 +90,7 @@ Recommended Starting LANOXIN Injection Maintenance Dosage in Pediatric Patients 
 | Age | Dose Regimen, mcg/kg/dose (given TWICE daily) |
 | --- | --- |
 | Premature | 1.9-3.1 |
-| Full-Term | 3.0-4.5 |
+| Full-Term | 3-4.5 |
 | 1-24 Months | 4.5-7.5 |
 | 2-5 Years | 3.8-5.3 |
 | 5-10 Years | 2.3-4.5 |
@@ -99,20 +101,20 @@ Table 5 provides average daily maintenance dose requirements for pediatric patie
 Table 5.
 Recommended Maintenance Dose (in micrograms given TWICE daily) of LANOXIN Injection in Pediatric Patients Less Than 10 Years of Agea Based upon Lean Body Weight and Renal Functiona
 
-| Corrected Creatinine Clearanceb | Lean Body Weight |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 |  |  |  |  |
-| 10 mL/min |  | 8 | 16 | 32 | 48 | 64 | 80 | 96 | 19 |  |  |
-| 20 mL/min |  | 9 | 18 | 36 | 54 | 72 | 90 | 108 | 16 |  |  |
-| 30 mL/min |  | 10 | 20 | 40 | 60 | 80 | 100 | 120 | 14 |  |  |
-| 40 mL/min |  | 11 | 22 | 44 | 66 | 88 | 110 | 132 | 13 |  |  |
-| 50 mL/min |  | 12 | 24 | 48 | 72 | 96 | 120 | 144 | 12 |  |  |
-| 60 mL/min |  | 13 | 26 | 52 | 78 | 104 | 130 | 156 | 11 |  |  |
-| 70 mL/min |  | 14 | 28 | 56 | 84 | 112 | 140 | 168 | 10 |  |  |
-| 80 mL/min |  | 15 | 30 | 60 | 90 | 120 | 150 | 180 | 9 |  |  |
-| 90 mL/min |  | 16 | 32 | 64 | 96 | 128 | 160 | 192 | 8 |  |  |
-| 100 mL/min |  | 17 | 34 | 68 | 102 | 136 | 170 | 204 | 7 |  |  |
-| a Recommended are doses to be given twice daily. b The modified Schwartz equation may be used to estimate creatinine clearance. See footnote a under Table 3. c If no loading dose administered. |  |  |  |  |  |  |  |  |  |  |  |
+| Corrected Creatinine Clearanceb | Lean Body Weight |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 |  |  |
+| 10 mL/min |  | 8 | 16 | 32 | 48 | 64 | 80 | 96 | 19 |
+| 20 mL/min |  | 9 | 18 | 36 | 54 | 72 | 90 | 108 | 16 |
+| 30 mL/min |  | 10 | 20 | 40 | 60 | 80 | 100 | 120 | 14 |
+| 40 mL/min |  | 11 | 22 | 44 | 66 | 88 | 110 | 132 | 13 |
+| 50 mL/min |  | 12 | 24 | 48 | 72 | 96 | 120 | 144 | 12 |
+| 60 mL/min |  | 13 | 26 | 52 | 78 | 104 | 130 | 156 | 11 |
+| 70 mL/min |  | 14 | 28 | 56 | 84 | 112 | 140 | 168 | 10 |
+| 80 mL/min |  | 15 | 30 | 60 | 90 | 120 | 150 | 180 | 9 |
+| 90 mL/min |  | 16 | 32 | 64 | 96 | 128 | 160 | 192 | 8 |
+| 100 mL/min |  | 17 | 34 | 68 | 102 | 136 | 170 | 204 | 7 |
+| a Recommended are doses to be given twice daily. b The modified Schwartz equation may be used to estimate creatinine clearance. See footnote a under Table 3. c If no loading dose administered. |  |  |  |  |  |  |  |  |  |
 
 ## 2.5 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
 

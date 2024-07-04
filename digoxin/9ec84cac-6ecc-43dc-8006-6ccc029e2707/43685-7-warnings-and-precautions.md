@@ -13,7 +13,7 @@ Consider insertion of a pacemaker before treatment with digoxin.
 ## 5.3 Digoxin Toxicity
 
 Signs and symptoms of digoxin toxicity include anorexia, nausea, vomiting, visual changes and cardiac arrhythmias [first-degree, second-degree (Wenckebach), or third-degree heart block (including asystole); atrial tachycardia with block; AV dissociation; accelerated junctional (nodal) rhythm; unifocal or multiform ventricular premature contractions (especially bigeminy or trigeminy); ventricular tachycardia; and ventricular fibrillation].
-Toxicity is usually associated with digoxin levels greater than 2 ng/ml although symptoms may also occur at lower levels.
+Toxicity is usually associated with digoxin levels greater than 2 ng/mL although symptoms may also occur at lower levels.
 Low body weight, advanced age or impaired renal function, hypokalemia, hypercalcemia, or hypomagnesemia may predispose to digoxin toxicity.
 Obtain serum digoxin levels in patients with signs or symptoms of digoxin therapy and interrupt or adjust dose if necessary [see Adverse Reactions (6) and Overdosage (10)].
 Assess serum electrolytes and renal function periodically.

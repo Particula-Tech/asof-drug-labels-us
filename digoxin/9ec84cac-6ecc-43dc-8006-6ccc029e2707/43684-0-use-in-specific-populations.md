@@ -47,7 +47,7 @@ There are no data on the effects of digoxin on the breastfed infant or the effec
 ### Data
 
 Based on data from two lactation studies in a total of 13 breastfed infants, the digoxin concentrations in breast milk were between 0.4 – 1.0 ng/mL following 0.25 mg once daily dose of digoxin in the lactating mother.
-Thus, the amount of digoxin ingested daily by the infants is estimated to be between 0.03 to 0.16 µg/kg/day.
+Thus, the amount of digoxin ingested daily by the infants is estimated to be between 0.03 to 0.16 mcg/kg/day.
 This translates to a relative infant dose of digoxin between 1 to 7% of the maternal weight-adjusted dose and about 0.2 to 4% of the neonatal maintenance dose.
 
 ## 8.4 Pediatric Use
