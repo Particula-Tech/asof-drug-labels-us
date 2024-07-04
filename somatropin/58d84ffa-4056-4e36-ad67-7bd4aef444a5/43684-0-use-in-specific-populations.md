@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+Pregnancy Category B
 
 Animal reproduction studies have not been conducted with Omnitrope.
 It is not known whether Omnitrope can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.

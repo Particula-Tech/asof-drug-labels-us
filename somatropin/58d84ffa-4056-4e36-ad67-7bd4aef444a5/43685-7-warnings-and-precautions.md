@@ -60,7 +60,7 @@ Clinical manifestations of fluid retention (e.g. edema, arthralgia, myalgia, ner
 ## 5.8 Hypoadrenalism
 
 Patients receiving somatropin therapy who have or are at risk for pituitary hormone deficiency(s) may be at risk for reduced serum cortisol levels and/or unmasking of central (secondary) hypoadrenalism.
-In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment [see Section 7.1, 11-β Hydroxysteroid Dehydrogenase Type 1].
+In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment [see Section 7.1, 11-β Hydroxysteroid Dehydrogenase Type 1]
 
 ## 5.9 Hypothyroidism
 

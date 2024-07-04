@@ -125,7 +125,7 @@ Patients were treated for a median duration of 5.7 years.
 Results for final height SDS are displayed by treatment arm in Table 9.
 Therapy with this other somatropin product improved final height in ISS children relative to untreated controls.
 The observed mean gain in final height was 9.8 cm for females and 5.0 cm for males for both doses combined compared to untreated control subjects.
-A height gain of 1 SDS was observed in 10 % of untreated subjects, 50% of subjects receiving 0.23 mg/kg/week and 69% of subjects receiving 0.47 mg/kg/week.
+A height gain of 1 SDS was observed in 10% of untreated subjects, 50% of subjects receiving 0.23 mg/kg/week and 69% of subjects receiving 0.47 mg/kg/week.
 
 Table 9.
 Final height SDS results for pre-pubertal patients with ISSMean (SD) are observed values.

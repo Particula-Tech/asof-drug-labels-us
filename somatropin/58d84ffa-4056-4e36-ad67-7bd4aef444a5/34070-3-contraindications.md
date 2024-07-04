@@ -15,7 +15,7 @@ In general, somatropin is contraindicated in the presence of active malignancy.
 Any preexisting malignancy should be inactive and its treatment complete prior to instituting therapy with somatropin.
 Somatropin should be discontinued if there is evidence of recurrent activity.
 Since GHD may be an early sign of the presence of a pituitary tumor (or, rarely, other brain tumors), the presence of such tumors should be ruled out prior to initiation of treatment.
-Somatropin should not be used in patients with any evidence of progression or recurrence of an underlying intracranial tumor [see Warnings and Precautions (5.3)].
+Somatropin should not be used in patients with any evidence of progression or recurrence of an underlying intracranial tumor [See Warnings and Precautions (5.3)].
 
 - •Hypersensitivity
 

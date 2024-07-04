@@ -45,6 +45,6 @@ Storage Options
 | Omnitrope Product Formulation | Storage Requirement |  |
 | --- | --- | --- |
 | Before Use | In-use (after 1st injection) |  |
-| 5 mg/1.5 mL Cartridge | 2-8ºC/ 36-46ºF Until exp date | 2-8 ºC/36-46 ºF 4 weeks |
-| 10 mg/1.5 mL Cartridge | 2-8 ºC/36-46 ºF 4 weeks |  |
-| 5.8 mg/vial | 2-8 ºC/36-46 ºF 3 weeks |  |
+| 5 mg/1.5 mL Cartridge | 2-8ºC/ 36-46ºF Until exp date | 2-8ºC/36-46ºF 4 weeks |
+| 10 mg/1.5 mL Cartridge | 2-8ºC/36-46ºF 4 weeks |  |
+| 5.8 mg/vial | 2-8ºC/36-46ºF 3 weeks |  |

@@ -9,7 +9,7 @@ The diagnosis of PWS should be confirmed by appropriate genetic testing [see Con
 
 Omnitrope (somatropin) injection is indicated for the treatment of growth failure in children born small for gestational age (SGA) who fail to manifest catch-up growth by age 2 years.
 
-Omnitrope (somatropin) injection is indicated for the treatment of growth failure associated with Turner syndrome.
+Omnitrope somatropin) injection is indicated for the treatment of growth failure associated with Turner syndrome.
 
 Omnitrope (somatropin) injection is indicated for the treatment of idiopathic short stature (ISS), also called non-growth hormone-deficient short stature, defined by height standard deviation score (SDS) ≤ -2.25, and associated with growth rates unlikely to permit attainment of adult height in the normal range, in pediatric patients whose epiphyses are not closed and for whom diagnostic evaluation excludes other causes associated with short stature that should be observed or treated by other means.
 

@@ -1,6 +1,6 @@
-# INSTRUCTIONS FOR USE
+INSTRUCTIONS FOR USE
 
-## OMNITROPE® PEN 5 INSTRUCTIONS FOR USE
+OMNITROPE® PEN 5 INSTRUCTIONS FOR USE
 
 Omnitrope (om-KNEE-trope)
 
@@ -227,25 +227,19 @@ This guarantee is invalid if your Omnitrope Pen 5 has not been used in accordanc
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Omnitrope is a trademark of Novartis.
+BD and BD Logo are trademarks of Becton, Dickinson and Company © 2017 BD
 
-BD and BD Logo are trademarks of Becton, Dickinson and Company © 2016 BD
+Manufactured by:
 
-Manufactured for
+Sandoz Inc.
 
-Sandoz GmbH, Kundl, Austria
+Princeton, NJ 08540
 
-Product of Taiwan
+U.S. License No. 2003
 
-Distributed by
+03/2024
 
-Sandoz Inc., Princeton, NJ 08540
-
-12-2017
-
-46170948
-
-## OMNITROPE® PEN 10 INSTRUCTIONS FOR USE
+OMNITROPE® PEN 10 INSTRUCTIONS FOR USE
 
 Omnitrope (om-KNEE-trope)
 
@@ -472,25 +466,19 @@ This guarantee is invalid if your Omnitrope Pen 10 has not been used in accordan
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Omnitrope is a trademark of Novartis.
+BD and BD Logo are trademarks of Becton, Dickinson and Company © 2017 BD
 
-BD and BD Logo are trademarks of Becton, Dickinson and Company © 2016 BD
+Manufactured by:
 
-Manufactured for
+Sandoz Inc.
 
-Sandoz GmbH, Kundl, Austria
+Princeton, NJ 08540
 
-Product of Taiwan
+U.S. License No. 2003
 
-Distributed by
+03/2024
 
-Sandoz Inc., Princeton, NJ 08540
-
-12-2017
-
-46170949
-
-## INSTRUCTIONS FOR OMNITROPE® 5.8 MG/VIAL
+INSTRUCTIONS FOR OMNITROPE® 5.8 MG/VIAL
 
 The following instructions explain how to inject OMNITROPE 5.8 mg.
 Do not inject OMNITROPE yourself until your healthcare provider has taught you and you understand the instructions.
@@ -517,7 +505,7 @@ Mixing OMNITROPE 5.8 mg
 - •Remove the protective caps from the two vials.
   With one alcohol swab, clean both the rubber top of the vial that contains the powder and the rubber top of the vial that contains diluent.
 
-- •Use next the sterile diluent vial, the disposal 3 mL syringe and a needle.
+- •Next Use the sterile diluent vial, the disposal 3 mL syringe and a needle.
 - •Attach the needle to the syringe (if not attached already).
   Pull back the syringe plunger and fill the syringe with air.
   Push the needle fitted to the syringe through the rubber top of the diluent vial, push all the air from the syringe into the vial, turn the vial upside down, and withdraw all the diluent from the vial into the syringe.
@@ -594,16 +582,12 @@ After Injecting OMNITROPE 5.8 mg
 - •Before each use disinfect the rubber top of the reconstituted vial with an alcohol swab.
   You must use a new disposable 1 mL syringe and needle for each injection.
 
-Omnitrope is a trademark of Novartis.
+Manufactured by:
 
-Manufactured in Austria by Sandoz GmbH
+Sandoz Inc.
 
-Distributed by Sandoz Inc., Princeton, NJ 08540
+Princeton, NJ 08540
 
-02-2016M
+U.S. License No. 2003
 
-46170948
-
-46170949
-
-46171070
+03/2024

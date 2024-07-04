@@ -14,15 +14,11 @@ For subcutaneous injection only
 
 Rx only
 
-Each cartridge contains
-
-somatropin 5 mg/1.5 mL
+Each cartridge contains somatropin 5 mg/1.5 mL
 
 1 cartridge
 
 SANDOZ
-
-a Novartis company
 
 # 10 mg/1.5 mL Carton
 
@@ -40,15 +36,11 @@ For subcutaneous injection only
 
 Rx only
 
-Each cartridge contains
-
-somatropin 10 mg/1.5 mL
+Each cartridge contains somatropin 10 mg/1.5 mL
 
 1 cartridge
 
 SANDOZ
-
-a Novartis company
 
 # 5.8 mg Carton
 
@@ -72,8 +64,8 @@ Each carton contains:
 
 For subcutaneous injection only
 
-NOT FOR USE IN NEWBORNS Rx only
+Rx only
+
+NOT FOR USE IN NEWBORNS
 
 SANDOZ
-
-a Novartis company

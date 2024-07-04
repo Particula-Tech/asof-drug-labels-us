@@ -15,11 +15,10 @@ If patients are prescribed Omnitrope Cartridge 5 mg/1.5 mL or 10 mg/1.5 mL (to b
 
 If patients are prescribed Omnitrope for injection, physicians should instruct patients to read the Instructions For Use leaflets provided with the Omnitrope for injection 5.8 mg/vial.
 
-Omnitrope is a registered trademark of Novartis AG.
+Manufactured by:
 
-Manufactured in Austria by Sandoz GmbH
+Sandoz Inc.
 
-Distributed by Sandoz Inc., Princeton, NJ 08540
+Princeton, NJ 08540
 
-Rev.
-June 2019
+U.S. License No. 2003
