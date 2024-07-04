@@ -4,9 +4,9 @@ Risedronate sodium tablets, USP are available as follows:
 
 5 mg film-coated, round, yellow tablets debossed ‘5’ on one side and ‘S’ on other side.
 
-Bottles of 30 with Child-resistant Cap, DC 47335-666-83
+Bottles of 30 with Child-resistant cap, NDC 47335-666-83
 
-Bottles of 100 with Child-resistant Cap, NDC 47335-666-88
+Bottles of 100 with Child-resistant cap, NDC 47335-666-88
 
 Bottles of 100, NDC 47335-666-08
 
@@ -14,9 +14,9 @@ Bottles of 1000, NDC 47335-666-18
 
 30 mg film-coated, round, white tablets debossed ‘667’ on one side and ‘S’ on other side.
 
-Bottles of 30 with Child-resistant Cap, NDC 47335-667-83
+Bottles of 30 with Child-resistant cap, NDC 47335-667-83
 
-Bottles of 100 with Child-resistant Cap, NDC 47335-667-88
+Bottles of 100 with Child-resistant cap, NDC 47335-667-88
 
 Bottles of 100, NDC 47335-667-08
 

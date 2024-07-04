@@ -14,4 +14,5 @@ Inactive Ingredients
 All dose strengths contain: mannitol, microcrystalline cellulose, croscarmellose sodium, pregelatinized maize starch, colloidal silicon dioxide, magnesium stearate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc.
 
 Dose strength-specific ingredients include: 5 mg—iron oxide yellow; 35 mg— iron oxide red, iron oxide yellow; 75 mg— iron oxide red; 150 mg—FD&C blue #2 aluminum lake.
-For 75 mg - FDA approved dissolution specifications differ from USP.
+
+For 75 mg and 150 mg strengths - FDA approved dissolution test specifications differ from USP.

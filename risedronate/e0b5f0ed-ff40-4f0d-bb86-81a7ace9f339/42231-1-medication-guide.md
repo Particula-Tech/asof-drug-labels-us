@@ -2,7 +2,7 @@
 
 Risedronate Sodium
 
-(RIS-e-DROE-nate SOE-dee-um)Tablets, USP
+(RIS-e-DROE-nate SOE-dee-um) Tablets, USP
 
 Read the Medication Guide that comes with risedronate sodium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -11,7 +11,7 @@ Talk to your doctor if you have any questions about risedronate sodium tablets, 
 
 What is the most important information I should know about risedronate sodium tablets?
 
-Risedronate sodium tabletscan cause serious side effects including:
+Risedronate sodium tablet scan cause serious side effects including:
 
 1. Esophagus problems
 2. Low calcium levels in your blood (hypocalcemia)
@@ -22,7 +22,7 @@ Risedronate sodium tabletscan cause serious side effects including:
 1.
 Esophagus problems.
 
-Some people who take risedronate sodium tabletsmay develop problems in the esophagus (the tube that connects the mouth and the stomach).
+Some people who take risedronate sodium tablets may develop problems in the esophagus (the tube that connects the mouth and the stomach).
 These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
 
 - It is important that you take risedronate sodium tablets exactly as prescribed to help lower your chance of getting esophagus problems.
@@ -55,7 +55,7 @@ It is important for you to practice good mouth care during treatment with risedr
 4.
 Bone, joint, or muscle pain.
 
-Some people who take risedronate sodium tabletsdevelop severe bone, joint, or muscle pain.
+Some people who take risedronate sodium tablets develop severe bone, joint, or muscle pain.
 
 5.
 Unusual thigh bone fractures.
@@ -67,7 +67,7 @@ Call your doctor right away if you have any of these side effects.
 
 What are risedronate sodium tablets?
 
-Risedronate sodium tabletsare prescription medicines used to:
+Risedronate sodium tablets are prescription medicines used to:
 
 - Treat or prevent osteoporosis in women after menopause.
   Risedronate sodium tablets help increase bone mass and help reduce the chance of having a spinal or non-spinal fracture (break).
@@ -75,14 +75,14 @@ Risedronate sodium tabletsare prescription medicines used to:
 - Treat or prevent osteoporosis in either men or women who are taking corticosteroid medicines.
 - Treat certain men and women who have Paget’s disease of the bone.
 
-It is not known how long risedronate sodium tabletswork for the treatment and prevention of osteoporosis.
+It is not known how long risedronate sodium tablets work for the treatment and prevention of osteoporosis.
 You should see your doctor regularly to determine if risedronate sodium tablets are still right for you.
 
-Risedronate sodium tabletsare not for use in children.
+Risedronate sodium tablets are not for use in children.
 
 Who should not take risedronate sodium tablets?
 
-Do not take risedronate sodium tabletsif you:
+Do not take risedronate sodium tablets if you:
 
 - Have certain problems with your esophagus, the tube that connects your mouth with your stomach
 - Cannot stand or sit upright for at least 30 minutes
@@ -113,20 +113,20 @@ Especially tell your doctor if you take:
 - Nonsteroidal Anti-Inflammatory (NSAID) medicines
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-Certain medicines may affect how risedronate sodium tabletswork.
+Certain medicines may affect how risedronate sodium tablets work.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
 
 How should I take risedronate sodium tablets?
 
-- Take risedronate sodium tabletsexactly as your doctor tells you.
-  Your doctor may change your dose of risedronate sodium tabletsif needed.
-- Risedronate sodium tabletswork only if taken on an empty stomach.
+- Take risedronate sodium tablets exactly as your doctor tells you.
+  Your doctor may change your dose of risedronate sodium tablets if needed.
+- Risedronate sodium tablets work only if taken on an empty stomach.
 - Take 1 risedronate sodium tablet, after you get up for the day and before taking your first food, drink, or other medicine.
-- Take risedronate sodium tabletwhile you are sitting or standing.
-- Do not chew or suck on a risedronate sodium tablet.
-- Swallow risedronate sodium tabletwith a full glass (6 to 8 ounces) of plain water only.
+- Take risedronate sodium tablet while you are sitting or standing.
+- Do not chew or suck on a tablet of risedronate sodium.
+- Swallow risedronate sodium tablet with a full glass (6 to 8 ounces) of plain water only.
 - Do not take risedronate sodium tablet with mineral water, coffee, tea, soda, or juice.
 
 After swallowing risedronate sodium tablet, wait at least 30 minutes:
@@ -136,13 +136,13 @@ After swallowing risedronate sodium tablet, wait at least 30 minutes:
 - Before you take your first food or drink except for plain water.
 - Before you take other medicines, including antacids, calcium, and other supplements and vitamins.
 
-Do not lie down for at least 30 minutes after you take risedronate sodium tabletsand after you eat your first food of the day.
+Do not lie down for at least 30 minutes after you take risedronate sodium tablets and after you eat your first food of the day.
 
 If you miss a dose of risedronate sodium tablets, do not take it later in the day.
 Take your missed dose the next morning and then return to your normal schedule.
 Do not take 2 doses at the same time.
 
-If you miss more than 2 doses of risedronate sodium tabletsin a month, call your doctor for instructions.
+If you miss more than 2 doses of risedronate sodium tablets in a month, call your doctor for instructions.
 
 If you take too many risedronate sodium tablets, call your doctor.
 Do not try to vomit.
@@ -150,11 +150,11 @@ Do not lie down.
 
 What are the possible side effects of risedronate sodium tablets?
 
-Risedronate sodium tabletsmay cause serious side effects:
+Risedronate sodium tablets may cause serious side effects:
 
 - See “What is the most important information I should know about risedronate sodium tablets?”
 
-The most common side effects of risedronate sodium tabletsare:
+The most common side effects of risedronate sodium tablets are:
 
 - pain, including back and joint pain
 - stomach area (abdominal) pain
@@ -173,6 +173,7 @@ You may report side effects to FDA at 1‑800-FDA-1088.
 How should I store risedronate sodium tablets?
 
 - Store risedronate sodium tablets at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
+- Risedronate sodium tablets come in a child-resistant package.
 
 Safely throw away medicine that is out of date or no longer needed.
 
@@ -183,7 +184,7 @@ General information about the safe and effective use of risedronate sodium table
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use risedronate sodium tablets for a condition for which it was not prescribed.
 
-Do not give risedronate sodium tabletsto other people, even if they have the same symptoms you have.
+Do not give risedronate sodium tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about risedronate sodium tablets.
@@ -216,8 +217,8 @@ Sun Pharmaceutical Industries Limited
 
 Survey No. 1012, Dadra-396 193,
 
-U.T. of D & NH and Daman & Diu, India
+U.T. of D & NH and Daman & Diu, India.
 
 5244528
 
-ISS: 08/2023
+ISS: 06/2024

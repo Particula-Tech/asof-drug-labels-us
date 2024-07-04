@@ -17,6 +17,7 @@ The impact of variables such as time between cessation of bisphosphonate therapy
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
 Data Animal Data In animal studies, pregnant rats received risedronate sodium during organogenesis at doses equivalent to 1 to 26 times the 30 mg human daily dose (based on body surface area, mg/m2).
 Survival of neonates was decreased in dams treated during gestation with oral doses approximately 5 times the human dose, and body weight was decreased in neonates of dams treated with approximately 26 times the human dose.
 A low incidence of cleft palate was observed in fetuses of dams treated with oral doses approximately equal to the human dose.
@@ -28,7 +29,9 @@ Periparturient mortality due to maternal hypocalcemia occurred in dams and neona
 
 ## 8.2 Lactation
 
-Risk Summary There are no data on the presence of risedronate in human milk, the effects on the breastfed infant, or the effects on milk production.
+Risk Summary
+
+There are no data on the presence of risedronate in human milk, the effects on the breastfed infant, or the effects on milk production.
 A small degree of lacteal transfer occurred in nursing rats.
 The concentration of the drug in animal milk does not necessarily predict the concentration of drug in human milk.
 However, when a drug is present in animal milk, it is likely that the drug will be present in human milk.
@@ -39,7 +42,7 @@ Data Animal Data Risedronate was detected in neonates of lactating rats given a 
 
 Risedronate sodium is not indicated for use in pediatric patients.
 
-The safety and effectiveness of risedronate was assessed in a one-year, randomized, double-blind, placebo controlled study of 143 pediatric patients (94 received risedronate) with osteogenesis imperfecta (OI).
+The safety and effectiveness of risedronate was assessed in a one-year, randomized, double-blind, placebo-controlled study of 143 pediatric patients (94 received risedronate) with osteogenesis imperfecta (OI).
 The enrolled population was predominantly patients with mild osteogenesis imperfecta (85% Type-I), aged 4 to less than 16 years, 50% male and 82% Caucasian, with a mean lumbar spine BMD Z-score of -2.08 (2.08 standard deviations below the mean for age-matched controls).
 Patients received either a 2.5 mg (less than or equal to 30 kg body weight) or 5 mg (greater than 30 kg body weight) daily oral dose.
 After one year, an increase in lumbar spine BMD in the risedronate group compared to the placebo group was observed.

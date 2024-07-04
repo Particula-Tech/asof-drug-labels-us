@@ -56,9 +56,9 @@ Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in E
 | Nervous System |  |  |
 | Dizziness | 5.7 | 7.1 |
 | Depression | 6.1 | 6.8 |
-| Insomnia | 4.6 | 5 |
+| Insomnia | 4.6 | 5.0 |
 | Respiratory System |  |  |
-| Bronchitis | 10.4 | 10 |
+| Bronchitis | 10.4 | 10.0 |
 | Sinusitis | 9.1 | 8.7 |
 | Rhinitis | 5.1 | 6.2 |
 | Pharyngitis | 5.0 | 6.0 |
