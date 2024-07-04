@@ -7,9 +7,7 @@ The most frequently reported changes have been increased pigmentation of the iri
 Pigmentation is expected to increase as long as bimatoprost is administered.
 The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
 After discontinuation of bimatoprost, pigmentation of the iris is likely to be permanent, while pigmentation of the periorbital tissue and eyelash changes have been reported to be reversible in some patients.
-Patients who receive
-
-treatment should be informed of the possibility of increased pigmentation.
+Patients who receive treatment should be informed of the possibility of increased pigmentation.
 The long term effects of increased pigmentation are not known.
 
 Iris color change may not be noticeable for several months to years.

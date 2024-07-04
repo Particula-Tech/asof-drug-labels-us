@@ -29,12 +29,10 @@ Use with Other Ophthalmic Drugs
 
 Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications.
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2022 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
-Patented.
-See: www.allergan.com/patents Rev: 03/2022
+LUMIGAN and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v1.0USPI3205
+v2.0USPI3205
