@@ -1,6 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection
+## 2.1 Evaluation and Testing Before Initiating Herceptin
+
+Assess left ventricular ejection fraction (LVEF) prior to initiation of Herceptin and at regular intervals during treatment.
+[see Boxed Warning, Dosage and Administration (2.5), Warnings and Precautions (5.1)].
+
+Verify the pregnancy status of females of reproductive potential prior to the initiation of Herceptin [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
+
+## 2.2 Patient Selection
 
 Select patients based on HER2 protein overexpression or HER2 gene amplification in tumor specimens [see Indications and Usage (1) and Clinical Studies (14)].
 Assessment of HER2 protein overexpression and HER2 gene amplification should be performed using FDA-approved tests specific for breast or gastric cancers by laboratories with demonstrated proficiency.
@@ -10,43 +17,49 @@ Assessment of HER2 protein overexpression and HER2 gene amplification in metasta
 
 Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
 
-## 2.2 Recommended Doses and Schedules
+## 2.3 Recommended Dosage
 
-- Do not administer as an intravenous push or bolus.
-  Do not mix Herceptin with other drugs.
-- Do not substitute Herceptin (trastuzumab) for or with ado-trastuzumab emtansine.
+- Herceptin is for intravenous infusion only.
+  Do not administer as an intravenous push or bolus.
+- Herceptin has different dosage and administration instructions than subcutaneous trastuzumab products.
+- Do not mix Herceptin with other drugs.
+- Do not substitute Herceptin (trastuzumab) for or with ado-trastuzumab emtansine or fam-trastuzumab deruxtecan.
 
-Adjuvant Treatment, Breast Cancer
+Adjuvant Treatment of Breast Cancer
 
 Administer according to one of the following doses and schedules for a total of 52 weeks of Herceptin therapy:
 
 During and following paclitaxel, docetaxel, or docetaxel/carboplatin:
 
-- Initial dose of 4 mg/kg as an intravenous infusion over 90 minutes then at 2 mg/kg as an intravenous infusion over 30 minutes weekly during chemotherapy for the first 12 weeks (paclitaxel or docetaxel) or 18 weeks (docetaxel/carboplatin).
+- Initial dose of 4 mg/kg as an intravenous infusion over 90 minutes then at 2 mg/kg as an intravenous infusion over 30 minutes weekly during chemotherapy for the first 12 weeks (paclitaxel or docetaxel) or 18 weeks (docetaxel and carboplatin).
 - One week following the last weekly dose of Herceptin, administer Herceptin at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks.
 
 As a single agent within three weeks following completion of multi-modality, anthracycline-based chemotherapy regimens:
 
 - Initial dose at 8 mg/kg as an intravenous infusion over 90 minutes
-- Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks [see Dosage and Administration (2.3)].
+- Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks.
 - Extending adjuvant treatment beyond one year is not recommended [see Adverse Reactions (6.1)].
 
-Metastatic Treatment, Breast Cancer
+Metastatic Breast Cancer
 
 - Administer Herceptin, alone or in combination with paclitaxel, at an initial dose of 4 mg/kg as a 90-minute intravenous infusion followed by subsequent once weekly doses of 2 mg/kg as 30-minute intravenous infusions until disease progression.
 
 Metastatic Gastric Cancer
 
-- Administer Herceptin at an initial dose of 8 mg/kg as a 90-minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks until disease progression [see Dosage and Administration (2.3)].
+- Administer Herceptin at an initial dose of 8 mg/kg as a 90-minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks until disease progression.
 
-## 2.3 Important Dosing Considerations
+## 2.4 Important Dosing Considerations
 
-If the patient has missed a dose of Herceptin by one week or less, then the usual maintenance dose (weekly schedule: 2 mg/kg; three-weekly schedule: 6 mg/kg) should be administered as soon as possible.
+Missed Dose
+
+If the patient has missed a dose of Herceptin by one week or less, then the usual maintenance dose (weekly schedule: 2 mg/kg; once every three weeks schedule: 6 mg/kg) should be administered as soon as possible.
 Do not wait until the next planned cycle.
-Subsequent Herceptin maintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
+Subsequent Herceptin maintenance doses should be administered 7 days or 21 days later according to the weekly or once every three week schedules, respectively.
 
-If the patient has missed a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be administered over approximately 90 minutes (weekly schedule: 4 mg/kg; three-weekly schedule: 8 mg/kg) as soon as possible.
-Subsequent Herceptin maintenance doses (weekly schedule: 2 mg/kg; three-weekly schedule 6 mg/kg) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
+If the patient has missed a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be administered over approximately 90 minutes (weekly schedule: 4 mg/kg; once every three week schedule: 8 mg/kg) as soon as possible.
+Subsequent Herceptin maintenance doses (weekly schedule: 2 mg/kg; three-weekly schedule 6 mg/kg) should be administered 7 days or 21 days later according to the weekly or once every three week schedules, respectively.
+
+## 2.5 Dosage Modifications for Adverse Reactions
 
 Infusion Reactions
 
@@ -70,9 +83,9 @@ Herceptin may be resumed if, within 4–8 weeks, the LVEF returns to normal limi
 
 Permanently discontinue Herceptin for a persistent (> 8 weeks) LVEF decline or for suspension of Herceptin dosing on more than 3 occasions for cardiomyopathy.
 
-## 2.4 Preparation for Administration
+## 2.6 Preparation Instructions
 
-To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not ado-trastuzumab emtansine.
+To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not ado-trastuzumab emtansine or fam-trastuzumab deruxtecan.
 
 150 mg Single-dose vial
 
@@ -98,7 +111,7 @@ Use appropriate aseptic technique when performing the following reconstitution s
 
 Dilution
 
-- Determine the dose (mg) of Herceptin [see Dosage and Administration (2.1)].
+- Determine the dose (mg) of Herceptin [see Dosage and Administration (2.3)].
 - Calculate the volume of the 21 mg/mL reconstituted Herceptin solution needed.
 - Withdraw this amount from the vial using a sterile needle and syringe and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT USE DEXTROSE (5%) SOLUTION.
