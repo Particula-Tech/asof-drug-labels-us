@@ -78,12 +78,15 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
+Hypoglycemia Inform patients that methadone may cause hypoglycemia.
+Instruct patients how to recognize that symptoms of low blood glucose and to contact their healthcare provider if these symptoms occur [see Warnings and Precautions (5.17)].
+
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2022 Mallinckrodt.
+© 2023 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 11/2022
+Issued: 12/2023
 
 Mallinckrodt™ Pharmaceuticals

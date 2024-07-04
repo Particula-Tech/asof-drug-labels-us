@@ -11,6 +11,7 @@ The following serious adverse reactions and/or conditions are described, or desc
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
 - Seizures [see Warnings and Precautions (5.14)]
 - Withdrawal [see Warnings and Precautions (5.15)]
+- Hypoglycemia [see Warnings and Precautions (5.17)]
 
 The following adverse reactions have been identified during post-approval use of methadone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -25,7 +26,7 @@ Other adverse reactions include the following:
 
 Body as a Whole: asthenia (weakness), edema, headache
 
-Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extra systoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsades de pointes, ventricular fibrillation, ventricular tachycardia
+Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsades de pointes, ventricular fibrillation, ventricular tachycardia
 
 Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances, congenital oculomotor disorders (nystagmus, strabismus)
 
@@ -56,3 +57,5 @@ Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in methadone hydrochloride tablets for oral suspension.
 
 Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking methadone [see Warnings and Precautions (5.17)].

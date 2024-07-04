@@ -95,7 +95,7 @@ Methadone hydrochloride tablets for oral suspension contain methadone, an opioid
 Methadone can be abused in a manner similar to other opioid agonists, legal or illicit.
 Opioid agonists are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.6 Neonatal Opioid Withdrawal Syndrome
 
@@ -188,11 +188,18 @@ Do not abruptly discontinue methadone hydrochloride tablets for oral suspension 
 Methadone hydrochloride tablets for oral suspension may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of methadone hydrochloride tablets for oral suspension and know how they will react to the medication [see Patient Counseling Information (17)].
 
-## 5.17 Laboratory Test Interactions
+## 5.17 Hypoglycemia
+
+Cases of methadone-associated hypoglycemia have been reported, some resulting in hospitalization.
+In many cases, patients had predisposing risk factors (e.g., diabetes).
+The relationship between methadone and hypoglycemia is not fully understood but may be dose dependent.
+If hypoglycemia is suspected, monitor blood glucose levels, and manage the patient as clinically appropriate.
+
+## 5.18 Laboratory Test Interactions
 
 False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.
 
-## 5.18 FD&C Yellow No. 5 (Tartrazine)
+## 5.19 FD&C Yellow No. 5 (Tartrazine)
 
 Methadone Hydrochloride Tablets (methadone hydrochloride tablets for oral suspension USP) (dispersible, orange flavored) contain FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
