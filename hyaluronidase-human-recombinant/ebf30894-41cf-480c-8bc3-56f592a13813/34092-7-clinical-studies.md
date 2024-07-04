@@ -60,15 +60,14 @@ Intravenous trastuzumab was administered at 4 mg/kg on the day of initiation of 
 Intravenous trastuzumab treatment was permanently discontinued in patients who developed congestive heart failure, or persistent/recurrent LVEF decline [see Dosage and Administration (2.3)].
 Radiation therapy, if administered, was initiated after the completion of chemotherapy.
 Patients with ER+ and/or PR+ tumors received hormonal therapy.
-The primary endpoint of the combined efficacy analysis was DFS, defined as the time from randomization to recurrence, occurrence of contralateral breast cancer, other second primary cancer, or death.
-The secondary endpoint was OS.
+The major efficacy outcome of the combined efficacy analysis was DFS, defined as the time from randomization to recurrence, occurrence of contralateral breast cancer, other second primary cancer, or death.
+An additional efficacy outcome measure was OS.
 
-A total of 3752 patients were included in the joint efficacy analysis of the primary endpoint of DFS following a median follow-up of 2.0 years in the AC→paclitaxel + intravenous trastuzumab arm.
+A total of 3752 patients were included in the joint efficacy analysis of DFS following a median follow-up of 2.0 years in the AC→paclitaxel + intravenous trastuzumab arm.
 The pre-planned final OS analysis from the joint analysis included 4063 patients and was performed when 707 deaths had occurred after a median follow-up of 8.3 years in the AC→paclitaxel + intravenous trastuzumab arm.
 The data from both arms in Study NSABP B31 and two of the three study arms in Study NCCTG N9831 were pooled for efficacy analyses.
-The patients included in the primary DFS analysis had a median age of 49 years (range, 22–80 years; 6% > 65 years), 84% were white, 7% black, 4% Hispanic, and 4% Asian/Pacific Islander.
+The patients included in the DFS analysis had a median age of 49 years (range, 22–80 years; 6% > 65 years), 84% were White, 7% Black, 4% Hispanic, and 4% Asian/Pacific Islander.
 Disease characteristics included 90% infiltrating ductal histology, 38% T1, 91% nodal involvement, 27% intermediate and 66% high grade pathology, and 53% ER+ and/or PR+ tumors.
-Similar demographic and baseline characteristics were reported for the efficacy evaluable population, after 8.3 years of median follow-up in the AC→paclitaxel + intravenous trastuzumab arm.
 
 HERA Study
 
@@ -76,20 +75,20 @@ In the HERA Study, breast tumor specimens were required to show HER2 overexpress
 Patients with node-negative disease were required to have ≥ T1c primary tumor.
 Patients with a history of congestive heart failure or LVEF < 55%, uncontrolled arrhythmias, angina requiring medication, clinically significant valvular heart disease, evidence of transmural infarction on ECG, poorly controlled hypertension (systolic > 180 mm Hg or diastolic > 100 mm Hg) were not eligible.
 
-HERA was designed to compare 1 and 2 years of three-weekly intravenous trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
 Patients were randomized (1:1:1) upon completion of definitive surgery, and at least 4 cycles of chemotherapy to receive no additional treatment, or 1 year of intravenous trastuzumab treatment or 2 years of intravenous trastuzumab treatment.
 Patients undergoing a lumpectomy had also completed standard radiotherapy.
 Patients with ER+ and/or PgR+ disease received systemic adjuvant hormonal therapy at investigator discretion.
 Intravenous trastuzumab was administered with an initial dose of 8 mg/kg followed by subsequent doses of 6 mg/kg once every 3 weeks.
-The main outcome measure was DFS, defined as in Studies NSABP B31 and NCCTG N9831.
+The major efficacy outcome measure was DFS, defined as in Studies NSABP B31 and NCCTG N9831.
 
-A protocol specified interim efficacy analysis comparing one-year intravenous trastuzumab treatment to observation was performed at a median follow-up duration of 12.6 months in the intravenous trastuzumab arm and formed the basis for the definitive DFS results from this study.
-Among the 3386 patients randomized to the observation (n = 1693) and intravenous trastuzumab one-year (n = 1693) treatment arms, the median age was 49 years (range 21–80), 83% were Caucasian, and 13% were Asian.
+HERA was designed to compare 1 and 2 years of three-weekly intravenous trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
+A protocol specified interim efficacy analysis comparing one-year intravenous trastuzumab treatment to observation was performed at a median follow-up duration of 12.6 months in the intravenous trastuzumab.
+Among the 3386 patients randomized to the observation (n = 1693) and intravenous trastuzumab one-year (n = 1693) treatment arms, the median age was 49 years (range 21–80), 83% were White, and 13% were Asian.
 Disease characteristics: 94% infiltrating ductal carcinoma, 50% ER+ and/or PgR+, 57% node positive, 32% node negative, and in 11% of patients, nodal status was not assessable due to prior neo-adjuvant chemotherapy.
 Ninety-six percent (1055/1098) of patients with node-negative disease had high-risk features: among the 1098 patients with node-negative disease, 49% (543) were ER– and PgR–, and 47% (512) were ER+ and/or PgR+ and had at least one of the following high-risk features: pathological tumor size > 2 cm, Grade 2–3, or age < 35 years.
 Prior to randomization, 94% of patients had received anthracycline-based chemotherapy regimens.
 
-After the definitive DFS results comparing observation to one-year intravenous trastuzumab treatment were disclosed, a prospectively planned analysis that included comparison of one year versus two years of intravenous trastuzumab treatment at a median follow-up duration of 8 years was performed.
+After the DFS results comparing observation to one-year intravenous trastuzumab treatment were disclosed, a prospectively planned analysis that included comparison of one year versus two years of intravenous trastuzumab treatment at a median follow-up duration of 8 years was performed.
 Based on this analysis, extending intravenous trastuzumab treatment for a duration of two years did not show additional benefit over treatment for one year [Hazard Ratios of two-years intravenous trastuzumab versus one-year intravenous trastuzumab treatment in the ITT population for DFS = 0.99 (95% CI: 0.87, 1.13), p = 0.90 and OS = 0.98 (0.83, 1.15); p = 0.78].
 
 BCIRG006 Study
@@ -104,16 +103,15 @@ In the TCH arm, docetaxel 75 mg/m2 and carboplatin (at a target AUC of 6 mg/mL/m
 Intravenous trastuzumab was administered weekly (initial dose of 4 mg/kg followed by weekly dose of 2 mg/kg) concurrently with either T or TC, and then every 3 weeks (6 mg/kg) as monotherapy for a total of 52 weeks.
 Radiation therapy, if administered, was initiated after completion of chemotherapy.
 Patients with ER+ and/or PR+ tumors received hormonal therapy.
-DFS was the main outcome measure.
+DFS was the major efficacy outcome measure.
 
-Among the 3222 patients randomized, the median age was 49 (range 22 to 74 years; 6% ≥ 65 years).
+Among 3222 patients, the median age was 49 (range 22 to 74 years; 6% ≥ 65 years).
 Disease characteristics included 54% ER+ and/or PR+ and 71% node positive.
 Prior to randomization, all patients underwent primary surgery for breast cancer.
 
 The results for DFS for the integrated analysis of Studies NSABP B31 and NCCTG N9831, HERA, and BCIRG006 and OS results for the integrated analysis of Studies NSABP B31 and NCCTG N9831, and HERA are presented in Table 9.
 For Studies NSABP B31 and NCCTG N9831, the duration of DFS following a median follow-up of 2.0 years in the AC→TH arm is presented in Figure 1, and the duration of OS after a median follow-up of 8.3 years in the AC→TH arm is presented in Figure 2.
 The duration of DFS for BCIRG006 is presented in Figure 3.
-Across all four studies, at the time of definitive DFS analysis, there were insufficient numbers of patients within each of the following subgroups to determine if the treatment effect was different from that of the overall patient population: patients with low tumor grade, patients within specific ethnic/racial subgroups (Black, Hispanic, Asian/Pacific Islander patients), and patients > 65 years of age.
 For Studies NSABP B31 and NCCTG N9831, the OS hazard ratio was 0.64 (95% CI: 0.55, 0.74).
 At 8.3 years of median follow-up [AC→TH], the survival rate was estimated to be 86.9% in the AC→TH arm and 79.4% in the AC→T arm.
 The final OS analysis results from Studies NSABP B31 and NCCTG N9831 indicate that OS benefit by age, hormone receptor status, number of positive lymph nodes, tumor size and grade, and surgery/radiation therapy was consistent with the treatment effect in the overall population.
@@ -154,7 +152,7 @@ The number of events in Study NCCTG N9831 was small with the exception of the IH
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
 The number of events in HERA was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH+/IHC unknown subgroups.
 
-Table 10 Treatment Outcomes in Study NCCTG N9831 and HERA as a Function of HER2 Overexpression or Amplification
+Table 10 Treatment Outcomes in Study NCCTG N9831 and HERA for Patients with HER2 Overexpression or Amplification
 
 | HER2 Assay ResultIHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. | Number of Patients | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -181,8 +179,8 @@ Patients were randomized to receive chemotherapy alone or in combination with tr
 For those who had received prior anthracycline therapy in the adjuvant setting, chemotherapy consisted of paclitaxel (175 mg/m2 over 3 hours every 21 days for at least six cycles); for all other patients, chemotherapy consisted of anthracycline plus cyclophosphamide (AC: doxorubicin 60 mg/m2 or epirubicin 75 mg/m2 plus 600 mg/m2 cyclophosphamide every 21 days for six cycles).
 Sixty-five percent of patients randomized to receive chemotherapy alone in this study received intravenous trastuzumab at the time of disease progression as part of a separate extension study.
 
-Based upon the determination by an Independent Response Evaluation Committee, the patients randomized to intravenous trastuzumab and chemotherapy experienced a significantly longer time to disease progression, a higher overall response rate (ORR), and a longer median duration of response as compared with patients randomized to chemotherapy alone.
-Patients randomized to intravenous trastuzumab and chemotherapy also had a longer median survival (see Table 11).
+Based upon the determination by an Independent Response Evaluation Committee, the patients randomized to intravenous trastuzumab and chemotherapy experienced a significantly longer time to disease progression (TTP), a higher overall response rate (ORR), and a longer median duration of response as compared with patients randomized to chemotherapy alone.
+Patients randomized to intravenous trastuzumab and chemotherapy also had a longer median overall survival (OS) (see Table 11).
 These treatment effects were observed both in patients who received intravenous trastuzumab plus paclitaxel and in those who received intravenous trastuzumab plus AC; however the magnitude of the effects was greater in the paclitaxel subgroup.
 
 Table 11: H0648g: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer
@@ -190,17 +188,19 @@ Table 11: H0648g: Efficacy Results in First-Line Treatment for Metastatic Breast
 | Intravenous Trastuzumab + All Chemotherapy (n=235) | All Chemotherapy (n=234) | Intravenous Trastuzumab + Paclitaxel (n=92) | Paclitaxel (n=96) | Intravenous Trastuzumab + ACAC=Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. (n=143) | AC (n=138) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Combined Results |  | Paclitaxel Subgroup |  | AC Subgroup |  |
-| Primary Endpoint |  |  |  |  |  |  |
-| Median TTP (mos)Assessed by an independent Response Evaluation Committee.,Kaplan-Meier Estimate. | 7.2 | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |
+| Time to Disease Progression (TTP) |  |  |  |  |  |  |
+| Median (months)Assessed by an independent Response Evaluation Committee.,Kaplan-Meier Estimate. | 7.2 | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |
 | 95% CI | 7, 8 | 4, 5 | 5, 10 | 2, 4 | 7, 9 | 5, 7 |
 | p-valuelog-rank test. | < 0.0001 |  | < 0.0001 |  | 0.002 |  |
-| Secondary Endpoints |  |  |  |  |  |  |
-| Overall Response Rate | 45 | 29 | 38 | 15 | 50 | 38 |
+| Overall Response Rate (ORR) |  |  |  |  |  |  |
+| Events (n) | 45 | 29 | 38 | 15 | 50 | 38 |
 | 95% CI | 39, 51 | 23, 35 | 28, 48 | 8, 22 | 42, 58 | 30, 46 |
 | p-valueχ2-test. | < 0.001 |  | < 0.001 |  | 0.10 |  |
-| Median Resp Duration (mos), | 8.3 | 5.8 | 8.3 | 4.3 | 8.4 | 6.4 |
+| Duration of Response (DoR) |  |  |  |  |  |  |
+| Median (months), | 8.3 | 5.8 | 8.3 | 4.3 | 8.4 | 6.4 |
 | 25%, 75% Quartile | 6, 15 | 4, 8 | 5, 11 | 4, 7 | 6, 15 | 4, 8 |
-| Med Survival (mos) | 25.1 | 20.3 | 22.1 | 18.4 | 26.8 | 21.4 |
+| Overall Survival (OS) |  |  |  |  |  |  |
+| Median (months) | 25.1 | 20.3 | 22.1 | 18.4 | 26.8 | 21.4 |
 | 95% CI | 22, 30 | 17, 24 | 17, 29 | 13, 24 | 23, 33 | 18, 27 |
 | p-value | 0.05 |  | 0.17 |  | 0.16 |  |
 

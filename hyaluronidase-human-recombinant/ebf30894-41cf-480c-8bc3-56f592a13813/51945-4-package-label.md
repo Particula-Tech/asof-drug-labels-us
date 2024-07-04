@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 600 mg/10,000 unit Vial Carton
+# PRINCIPAL DISPLAY PANEL - 600 mg and 10,000 units/5 mL Vial Carton
 
 NDC 50242-077-01
 

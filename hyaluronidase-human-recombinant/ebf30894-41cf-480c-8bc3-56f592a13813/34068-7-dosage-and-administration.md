@@ -1,6 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection
+## 2.1 Evaluation and Testing Before Initiating HERCEPTIN HYLECTA
+
+Verify the pregnancy status of females of reproductive potential prior to the initiation of HERCEPTIN HYLECTA [see Use in Specific Populations (8.1, 8.3)].
+
+## 2.2 Patient Selection
 
 Select patients based on HER2 protein overexpression or HER2 gene amplification in tumor specimens [see Indications and Usage (1) and Clinical Studies (14)].
 Assessment of HER2 protein overexpression and HER2 gene amplification should be performed using FDA-approved tests specific for breast cancer by laboratories with demonstrated proficiency.
@@ -8,7 +12,7 @@ Information on the FDA-approved tests for the detection of HER2 protein overexpr
 
 Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
 
-## 2.2 Recommended Doses and Schedules
+## 2.3 Recommended Dosage
 
 HERCEPTIN HYLECTA is for subcutaneous use only.
 HERCEPTIN HYLECTA has different dosage and administration instructions than intravenous trastuzumab products.
@@ -32,7 +36,7 @@ Missed Dose
 If one dose is missed, it is recommended to administer the next 600 mg/10,000 units dose (i.e. the missed dose) as soon as possible.
 The interval between subsequent HERCEPTIN HYLECTA doses should not be less than three weeks.
 
-## 2.3 Dosage Modification for Adverse Reactions
+## 2.4 Dosage Modification for Adverse Reactions
 
 Cardiomyopathy [see Boxed Warning, Warnings and Precautions (5.1)]
 
@@ -46,7 +50,7 @@ HERCEPTIN HYLECTA may be resumed if, within 4–8 weeks, the LVEF returns to nor
 
 Permanently discontinue HERCEPTIN HYLECTA for a persistent (>8 weeks) LVEF decline or for suspension of HERCEPTIN HYLECTA dosing on more than 3 occasions for cardiomyopathy.
 
-## 2.4 Administration and Storage
+## 2.5 Administration and Storage
 
 To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is HERCEPTIN HYLECTA and not ado-trastuzumab emtansine or intravenous trastuzumab.
 

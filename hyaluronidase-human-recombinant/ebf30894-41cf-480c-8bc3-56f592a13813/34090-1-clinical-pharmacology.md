@@ -82,3 +82,17 @@ Trastuzumab concentrations were not altered as part of this combination therapy.
 Docetaxel and carboplatin: When intravenous trastuzumab was administered in combination with docetaxel or carboplatin, neither the plasma concentrations of docetaxel or carboplatin nor the plasma concentrations of trastuzumab were altered.
 
 Cisplatin and capecitabine: In a drug interaction substudy conducted in patients in Study BO18255, the pharmacokinetics of cisplatin, capecitabine and their metabolites were not altered when administered in combination with intravenous trastuzumab.
+
+## 12.6 Immunogenicity
+
+As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to HERCEPTIN HYLECTA and intravenous trastuzumab in the study described below with the incidence of antibodies in other studies or to other products may be misleading.
+
+In the HannaH study, at a median follow-up exceeding 60 months, the incidence of treatment-induced/enhanced anti-trastuzumab antibodies was 10% (30/296) in patients treated with intravenous trastuzumab and 16% (47/295) in patients receiving HERCEPTIN HYLECTA.
+Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples in 2/30 patients in the intravenous trastuzumab arm and 3/47 patients in the HERCEPTIN HYLECTA arm.
+The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase antibodies was 21% (62/295) in the HERCEPTIN HYLECTA arm.
+None of the patients who tested positive for anti-recombinant human hyaluronidase antibodies tested positive for neutralizing antibodies.
+
+The clinical relevance of the development of anti-trastuzumab or anti-recombinant human hyaluronidase antibodies after treatment with HERCEPTIN HYLECTA is not known.

@@ -8,7 +8,7 @@ HERCEPTIN HYLECTA is indicated for adjuvant treatment of adults with HER2 overex
 - as part of a treatment regimen with docetaxel and carboplatin
 - as a single agent following multi-modality anthracycline based therapy.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for trastuzumab [see Dosage and Administration (2.1)].
+Select patients for therapy based on an FDA-approved companion diagnostic for trastuzumab [see Dosage and Administration (2.2)].
 
 ## 1.2 Metastatic Breast Cancer
 
@@ -17,4 +17,4 @@ HERCEPTIN HYLECTA is indicated in adults:
 - In combination with paclitaxel for first-line treatment of HER2-overexpressing metastatic breast cancer
 - As a single agent for treatment of HER2-overexpressing breast cancer in patients who have received one or more chemotherapy regimens for metastatic disease.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for trastuzumab [see Dosage and Administration (2.1)].
+Select patients for therapy based on an FDA-approved companion diagnostic for trastuzumab [see Dosage and Administration (2.2)].

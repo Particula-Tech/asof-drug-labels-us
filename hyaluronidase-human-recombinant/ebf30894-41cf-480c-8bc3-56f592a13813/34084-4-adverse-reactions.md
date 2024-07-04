@@ -197,75 +197,61 @@ Among the 352 patients treated in single agent studies (213 patients from H0649g
 Most of the patients received 4 mg/kg initial dose of intravenous trastuzumab followed by 2 mg/kg weekly.
 The percentages of patients who received intravenous trastuzumab treatment for ≥ 6 months and ≥ 12 months were 31% and 16%, respectively.
 
-Table 5 Per-Patient Incidence of Adverse Reactions Occurring in ≥ 5% of Patients in Uncontrolled Studies or at Increased Incidence in the Intravenous Trastuzumab Arm (H0648g and H0649g)
+Table 5 Adverse Reactions (≥ 5%) in the Intravenous Trastuzumab Arm (H0648g and H0649g)
 
-|  | Single agentData for intravenous trastuzumab single agent were from 4 studies, including 213 patients from H0649g. n=352 | Intravenous trastuzumab + paclitaxel n=91 | Paclitaxel alone n=95 | Intravenous trastuzumab + ACAnthracycline (doxorubicin or epirubicin) and cyclophosphamide. n=143 | AC alone n=135 |
+|  | Intravenous trastuzumab Data for Herceptin single agent were from 4 studies, including 213 patients from H0649g. n = 352 % | Intravenous trastuzumab + Paclitaxel n = 91 % | Paclitaxel n = 95 % | Intravenous trastuzumab + ACAnthracycline (doxorubicin or epirubicin) and cyclophosphamide. n = 143 % | AC n = 135 % |
 | --- | --- | --- | --- | --- | --- |
-| Body as a Whole |  |  |  |  |  |
-| Pain | 47% | 61% | 62% | 57% | 42% |
-| Asthenia | 42% | 62% | 57% | 54% | 55% |
-| Fever | 36% | 49% | 23% | 56% | 34% |
-| Chills | 32% | 41% | 4% | 35% | 11% |
-| Headache | 26% | 36% | 28% | 44% | 31% |
-| Abdominal pain | 22% | 34% | 22% | 23% | 18% |
-| Back pain | 22% | 34% | 30% | 27% | 15% |
-| Infection | 20% | 47% | 27% | 47% | 31% |
-| Flu syndrome | 10% | 12% | 5% | 12% | 6% |
-| Accidental injury | 6% | 13% | 3% | 9% | 4% |
-| Allergic reaction | 3% | 8% | 2% | 4% | 2% |
-| Cardiovascular |  |  |  |  |  |
-| Tachycardia | 5% | 12% | 4% | 10% | 5% |
-| Congestive heart failure | 7% | 11% | 1% | 28% | 7% |
-| Digestive |  |  |  |  |  |
-| Nausea | 33% | 51% | 9% | 76% | 77% |
-| Diarrhea | 25% | 45% | 29% | 45% | 26% |
-| Vomiting | 23% | 37% | 28% | 53% | 49% |
-| Nausea and vomiting | 8% | 14% | 11% | 18% | 9% |
-| Anorexia | 14% | 24% | 16% | 31% | 26% |
-| Heme & Lymphatic |  |  |  |  |  |
-| Anemia | 4% | 14% | 9% | 36% | 26% |
-| Leukopenia | 3% | 24% | 17% | 52% | 34% |
-| Metabolic |  |  |  |  |  |
-| Peripheral edema | 10% | 22% | 20% | 20% | 17% |
-| Edema | 8% | 10% | 8% | 11% | 5% |
-| Musculoskeletal |  |  |  |  |  |
-| Bone pain | 7% | 24% | 18% | 7% | 7% |
-| Arthralgia | 6% | 37% | 21% | 8% | 9% |
-| Nervous |  |  |  |  |  |
-| Insomnia | 14% | 25% | 13% | 29% | 15% |
-| Dizziness | 13% | 22% | 24% | 24% | 18% |
-| Paresthesia | 9% | 48% | 39% | 17% | 11% |
-| Depression | 6% | 12% | 13% | 20% | 12% |
-| Peripheral neuritis | 2% | 23% | 16% | 2% | 2% |
-| Neuropathy | 1% | 13% | 5% | 4% | 4% |
+| General |  |  |  |  |  |
+| Pain | 47 | 61 | 62 | 57 | 42 |
+| Asthenia | 42 | 62 | 57 | 54 | 55 |
+| Fever | 36 | 49 | 23 | 56 | 34 |
+| Chills | 32 | 41 | 4 | 35 | 11 |
+| Headache | 26 | 36 | 28 | 44 | 31 |
+| Abdominal pain | 22 | 34 | 22 | 23 | 18 |
+| Back pain | 22 | 34 | 30 | 27 | 15 |
+| Infection | 20 | 47 | 27 | 47 | 31 |
+| Flu syndrome | 10 | 12 | 5 | 12 | 6 |
+| Accidental injury | 6 | 13 | 3 | 9 | 4 |
+| Allergic reaction | 3 | 8 | 2 | 4 | 2 |
+| Gastrointestinal |  |  |  |  |  |
+| Nausea | 33 | 51 | 9 | 76 | 77 |
+| Diarrhea | 25 | 45 | 29 | 45 | 26 |
+| Vomiting | 23 | 37 | 28 | 53 | 49 |
+| Anorexia | 14 | 24 | 16 | 31 | 26 |
+| Nausea and vomiting | 8 | 14 | 11 | 18 | 9 |
 | Respiratory |  |  |  |  |  |
-| Cough increased | 26% | 41% | 22% | 43% | 29% |
-| Dyspnea | 22% | 27% | 26% | 42% | 25% |
-| Rhinitis | 14% | 22% | 5% | 22% | 16% |
-| Pharyngitis | 12% | 22% | 14% | 30% | 18% |
-| Sinusitis | 9% | 21% | 7% | 13% | 6% |
+| Cough increased | 26 | 41 | 22 | 43 | 29 |
+| Dyspnea | 22 | 27 | 26 | 42 | 25 |
+| Rhinitis | 14 | 22 | 5 | 22 | 16 |
+| Pharyngitis | 12 | 22 | 14 | 30 | 18 |
+| Sinusitis | 9 | 21 | 7 | 13 | 6 |
 | Skin |  |  |  |  |  |
-| Rash | 18% | 38% | 18% | 27% | 17% |
-| Herpes simplex | 2% | 12% | 3% | 7% | 9% |
-| Acne | 2% | 11% | 3% | 3% | < 1% |
+| Rash | 18 | 38 | 18 | 27 | 17 |
+| Herpes simplex | 2 | 12 | 3 | 7 | 9 |
+| Acne | 2 | 11 | 3 | 3 | < 1 |
+| Nervous |  |  |  |  |  |
+| Insomnia | 14 | 25 | 13 | 29 | 15 |
+| Dizziness | 13 | 22 | 24 | 24 | 18 |
+| Paresthesia | 9 | 48 | 39 | 17 | 11 |
+| Depression | 6 | 12 | 13 | 20 | 12 |
+| Peripheral neuritis | 2 | 23 | 16 | 2 | 2 |
+| Neuropathy | 1 | 13 | 5 | 4 | 4 |
+| Metabolic |  |  |  |  |  |
+| Peripheral edema | 10 | 22 | 20 | 20 | 17 |
+| Edema | 8 | 10 | 8 | 11 | 5 |
+| Cardiovascular |  |  |  |  |  |
+| Congestive heart failure | 7 | 11 | 1 | 28 | 7 |
+| Tachycardia | 5 | 12 | 4 | 10 | 5 |
+| Musculoskeletal |  |  |  |  |  |
+| Bone pain | 7 | 24 | 18 | 7 | 7 |
+| Arthralgia | 6 | 37 | 21 | 8 | 9 |
 | Urogenital |  |  |  |  |  |
-| Urinary tract infection | 5% | 18% | 14% | 13% | 7% |
+| Urinary tract infection | 5 | 18 | 14 | 13 | 7 |
+| Blood and Lymphatic |  |  |  |  |  |
+| Anemia | 4 | 14 | 9 | 36 | 26 |
+| Leukopenia | 3 | 24 | 17 | 52 | 34 |
 
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to HERCEPTIN HYLECTA and intravenous trastuzumab in the study described below with the incidence of antibodies in other studies or to other products may be misleading.
-
-In the HannaH study, at a median follow-up exceeding 60 months, the incidence of treatment-induced/enhanced anti-trastuzumab antibodies was 10% (30/296) in patients treated with intravenous trastuzumab and 16% (47/295) in patients receiving HERCEPTIN HYLECTA.
-Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples in 2/30 patients in the intravenous trastuzumab arm and 3/47 patients in the HERCEPTIN HYLECTA arm.
-The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase antibodies was 21% (62/295) in the HERCEPTIN HYLECTA arm.
-None of the patients who tested positive for anti-recombinant human hyaluronidase antibodies tested positive for neutralizing antibodies.
-
-The clinical relevance of the development of anti-trastuzumab or anti-recombinant human hyaluronidase antibodies after treatment with HERCEPTIN HYLECTA is not known.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of trastuzumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

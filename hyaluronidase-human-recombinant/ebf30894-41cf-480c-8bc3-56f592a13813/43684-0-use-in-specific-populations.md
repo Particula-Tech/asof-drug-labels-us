@@ -10,28 +10,29 @@ If HERCEPTIN HYLECTA is administered during pregnancy, or if a patient becomes p
 Risk Summary
 
 HERCEPTIN HYLECTA can cause fetal harm when administered to a pregnant woman.
-In post-marketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death (see Data).
+In post-marketing reports and published literature, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Data].
 Apprise the patient of the potential risks to a fetus.
-There are clinical considerations if HERCEPTIN HYLECTA is used in a pregnant woman or if a patient becomes pregnant within 7 months following the last dose of HERCEPTIN HYLECTA (see Clinical Considerations).
+There are clinical considerations if HERCEPTIN HYLECTA is used in a pregnant woman or if a patient becomes pregnant within 7 months following the last dose of HERCEPTIN HYLECTA [see Clinical Considerations].
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
 Monitor women who received HERCEPTIN HYLECTA during pregnancy or within 7 months prior to conception for oligohydramnios.
-If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
+If oligohydramnios occurs, perform fetal/neonatal testing that is appropriate for gestational age and consistent with community standards of care.
 
 Data
 
 Human Data
 
-In post-marketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting in the fetus as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
+In post-marketing reports and published literature, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence.
+Fetal manifestations included pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 These case reports described oligohydramnios in pregnant women who received trastuzumab either alone or in combination with chemotherapy.
-In some case reports, amniotic fluid index increased after use of trastuzumab was stopped.
-In one case, therapy with trastuzumab resumed after amniotic index improved and oligohydramnios recurred.
+In most reported cases, amniotic fluid index increased after use of trastuzumab was stopped.
+In reported cases where Herceptin therapy was resumed after amniotic index improved, oligohydramnios recurred.
 
 Animal Data
 

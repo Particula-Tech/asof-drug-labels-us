@@ -6,7 +6,7 @@ HERCEPTIN HYLECTA administration can result in sub-clinical and clinical cardiac
 The incidence and severity was highest in patients receiving HERCEPTIN HYLECTA with anthracycline-containing chemotherapy regimens.
 
 Evaluate left ventricular function in all patients prior to and during treatment with HERCEPTIN HYLECTA.
-Discontinue HERCEPTIN HYLECTA treatment in patients receiving adjuvant therapy and withhold HERCEPTIN HYLECTA in patients with metastatic disease for clinically significant decrease in left ventricular function [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
+Discontinue HERCEPTIN HYLECTA treatment in patients receiving adjuvant therapy and withhold HERCEPTIN HYLECTA in patients with metastatic disease for clinically significant decrease in left ventricular function [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
 
 Pulmonary Toxicity
 

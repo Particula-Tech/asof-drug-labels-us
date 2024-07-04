@@ -9,7 +9,7 @@ There is a 4–6 fold increase in the incidence of symptomatic myocardial dysfun
 The highest absolute incidence occurs when trastuzumab is administered with an anthracycline.
 The incidence of symptomatic myocardial dysfunction for intravenous trastuzumab and HERCEPTIN HYLECTA was similar in clinical trials [see Adverse Reactions (6)].
 
-Withhold HERCEPTIN HYLECTA for ≥16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.3)].
+Withhold HERCEPTIN HYLECTA for ≥16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.4)].
 The safety of continuation or resumption of HERCEPTIN HYLECTA in patients with HERCEPTIN HYLECTA induced left ventricular cardiac dysfunction has not been studied.
 
 Patients who receive anthracycline after stopping HERCEPTIN HYLECTA may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
@@ -21,7 +21,7 @@ The following schedule is recommended:
 
 - Baseline LVEF measurement immediately prior to initiation of HERCEPTIN HYLECTA
 - LVEF measurements every 3 months during and upon completion of HERCEPTIN HYLECTA
-- Repeat LVEF measurement at 4 week intervals if HERCEPTIN HYLECTA is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.3)]
+- Repeat LVEF measurement at 4 week intervals if HERCEPTIN HYLECTA is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.4)]
 - LVEF measurements every 6 months for at least 2 years following completion of HERCEPTIN HYLECTA as a component of adjuvant therapy.
 
 HERCEPTIN HYLECTA
@@ -53,9 +53,9 @@ Table 1 Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 
 | Study | Regimen | Intravenous Trastuzumab | Control |
 | --- | --- | --- | --- |
-|  |  | Incidence of CHF |  |
-| NSABP B31 & NCCTG N9831Median follow-up duration for studies NSABP B31 and NCCTG N9831 combined was 8.3 years in the AC→TH arm. | ACAnthracycline (doxorubicin) and cyclophosphamide.→paclitaxel + intravenous trastuzumab | 3.2% (64/2000) Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
-| HERAIncludes NYHA II-IV and cardiac death at 12.6 months median duration of follow-up in the one-year intravenous trastuzumab arm. | Chemo → intravenous trastuzumab | 2% (30/1678) | 0.3% (5/1708) |
+|  |  | Incidence of Congestive Heart Failure % (n) |  |
+| NSABP B31 & NCCTG N9831Median follow-up duration for studies NSABP B31 and NCCTG N9831 combined was 8.3 years in the AC→ paclitaxel+Herceptin arm. | ACAnthracycline (doxorubicin) and cyclophosphamide.→paclitaxel + intravenous trastuzumab | 3.2% (64/2000) Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
+| HERAIncludes NYHA II-IV and cardiac death at 12.6 months median duration of follow-up in the one-year intravenous trastuzumab arm. | Chemotherapy → intravenous trastuzumab | 2% (30/1678) | 0.3% (5/1708) |
 | BCIRG006 | AC→docetaxel + intravenous trastuzumab | 2% (20/1068) | 0.3% (3/1050) |
 | BCIRG006 | Docetaxel + carboplatin + intravenous trastuzumab | 0.4% (4/1056) | 0.3% (3/1050) |
 
