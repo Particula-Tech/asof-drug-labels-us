@@ -35,4 +35,4 @@ Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA www.mallinckrodt.com or
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2021
+Revised: December 2023

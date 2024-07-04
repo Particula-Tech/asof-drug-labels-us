@@ -15,4 +15,4 @@ Storage Store at 20° to 25°C (68° to 77°F).
 
 PROTECT FROM LIGHT.
 
-Store morphine sulfate oral solution securely and dispose of properly [see Patient Counseling Information (17)].
+Store morphine sulfate oral solution securely and dispose of properly.
