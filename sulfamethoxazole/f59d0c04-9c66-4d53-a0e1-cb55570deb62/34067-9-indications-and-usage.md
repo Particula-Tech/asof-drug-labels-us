@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Bactrim (sulfamethoxazole and trimethoprim) tablets and other antibacterial drugs, Bactrim (sulfamethoxazole and trimethoprim) tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of BACTRIM (sulfamethoxazole and trimethoprim) tablets and other antibacterial drugs, BACTRIM (sulfamethoxazole and trimethoprim) tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to empiric selection of therapy.
 

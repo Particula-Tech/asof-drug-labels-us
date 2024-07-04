@@ -3,13 +3,13 @@
 BACTRIM is rapidly absorbed following oral administration.
 Both sulfamethoxazole and trimethoprim exist in the blood as unbound, protein-bound and metabolized forms; sulfamethoxazole also exists as the conjugated form.
 Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N 4-acetyl-, N 4-hydroxy-, 5-methylhydroxy-, N 4-acetyl-5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate.
-The formulation of N 4-hydroxy metabolite is mediated viaCYP2C9.
+The formulation of N 4-hydroxy metabolite is mediated via CYP2C9.
 
 Trimethoprim is metabolized in vitroto 11 different metabolites, of which, five are glutathione adducts and six are oxidative metabolites, including the major metabolites, 1- and 3-oxides and the 3- and 4-hydroxy derivatives.
 
 The free forms of sulfamethoxazole and trimethoprim are considered to be the therapeutically active forms.
 
-In vitrostudies suggest that trimethoprim is a substrate of P-glycoprotein, OCT1 and OCT2, and that sulfamethoxazole is not a substrate of P-glycoprotein.
+In vitro studies suggest that trimethoprim is a substrate of P-glycoprotein, OCT1 and OCT2, and that sulfamethoxazole is not a substrate of P-glycoprotein.
 
 Approximately 70% of sulfamethoxazole and 44% of trimethoprim are bound to plasma proteins.
 The presence of 10 mg percent sulfamethoxazole in plasma decreases the protein binding of trimethoprim by an insignificant degree; trimethoprim does not influence the protein binding of sulfamethoxazole.
@@ -51,11 +51,11 @@ Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps in the bios
 
 Resistance
 
-In vitrostudies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and trimethoprim in combination than with either sulfamethoxazole or trimethoprim alone.
+In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and trimethoprim in combination than with either sulfamethoxazole or trimethoprim alone.
 
 Antimicrobial Activity
 
-BACTRIM has been shown to be active against most isolates of the following microorganisms, both in vitroand in clinical infections as described in the INDICATIONS AND USAGEsection.
+BACTRIM has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGEsection.
 
 Aerobic gram-positive bacteria
 

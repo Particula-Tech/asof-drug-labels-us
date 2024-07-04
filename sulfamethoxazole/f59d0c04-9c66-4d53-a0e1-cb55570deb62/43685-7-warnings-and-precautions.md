@@ -1,29 +1,42 @@
 # WARNINGS
 
+## Embryofetal Toxicity
+
+Some epidemiologic studies suggest that exposure to BACTRIM during pregnancy may be associated with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular malformations, urinary tract defects, oral clefts, and club foot.
+If BACTRIM is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be advised of the potential hazards to the fetus (see PRECAUTIONS).
+
 ## Hypersensitivity and Other Serious or Fatal Reactions
 
 Fatalities and serious adverse reactions including severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products, including BACTRIM (see ADVERSE REACTIONS).
 
+Hypersensitivity Reactions of the Respiratory Tract
+
 Cough, shortness of breath and pulmonary infiltrates potentially representing hypersensitivity reactions of the respiratory tract have been reported in association with sulfamethoxazole and trimethoprim treatment.
+
+Respiratory Failure
 
 Other severe pulmonary adverse reactions occurring within days to week of BACTRIM initiation and resulting in prolonged respiratory failure requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO), lung transplantation or death have also been reported in patients and otherwise healthy individuals treated with sulfamethoxazole and trimethoprim products.
 
+Circulatory Shock
+
 Circulatory shock with fever, severe hypotension, and confusion requiring intravenous fluid resuscitation and vasopressors has occurred within minutes to hours of re-challenge with sulfamethoxazole and trimethoprim products, including BACTRIM, in patients with history of recent (days to weeks) exposure to sulfamethoxazole and trimethoprim.
+
+Management of Hypersensitivity Reactions
 
 BACTRIM should be discontinued at the first appearance of skin rash or any sign of a serious adverse reaction.
 A skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis, or serious blood disorders (see PRECAUTIONSand ADVERSE REACTIONS).
 Clinical signs, such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice may be early indications of serious reactions.
+
+## Streptococcal Infections and Rheumatic Fever
+
+The sulfonamides should not be used for treatment of group A β-hemolytic streptococcal infections.
+In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever.
 
 ## Thrombocytopenia
 
 BACTRIM-induced thrombocytopenia may be an immune-mediated disorder.
 Severe cases of thrombocytopenia that are fatal or life threatening have been reported.
 Thrombocytopenia usually resolves within a week upon discontinuation of BACTRIM.
-
-## Streptococcal Infections and Rheumatic Fever
-
-The sulfonamides should not be used for treatment of group A β-hemolytic streptococcal infections.
-In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever.
 
 ## Clostridioides difficileAssociated Diarrhea
 
@@ -47,7 +60,7 @@ Treatment failure and excess mortality were observed when BACTRIM was used conco
 
 Development of Drug Resistant Bacteria
 
-Prescribing Bactrim (sulfamethoxazole and trimethoprim) tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing BACTRIM (sulfamethoxazole and trimethoprim) tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 Folate Deficiency
 
@@ -97,14 +110,16 @@ Patients who are “slow acetylators” may be more prone to idiosyncratic react
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Bactrim (sulfamethoxazole and trimethoprim) tablets should only be used to treat bacterial infections.
+Hypersensitivity and Other Serious or Fatal Reactions: Advise patients to stop taking BACTRIM immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice and to contact their healthcare provider as soon as possible (see WARNINGS and ADVERSE REACTIONS).
+
+Antibacterial Resistance: Patients should be counseled that antibacterial drugs including BACTRIM (sulfamethoxazole and trimethoprim) tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Bactrim (sulfamethoxazole and trimethoprim) tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Bactrim (sulfamethoxazole and trimethoprim) tablets or other antibacterial drugs in the future.
+When BACTRIM (sulfamethoxazole and trimethoprim) tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by BACTRIM (sulfamethoxazole and trimethoprim) tablets or other antibacterial drugs in the future.
 
-Patients should be instructed to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
+Crystalluria and Stone Formation: Advise patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Diarrhea: Advise patients that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
@@ -158,15 +173,15 @@ Sulfamethoxazole was not carcinogenic when assessed in a 26-week tumorigenic mou
 Mutagenesis
 
 In vitroreverse mutation bacterial tests according to the standard protocol have not been performed with sulfamethoxazole and trimethoprim in combination.
-An in vitrochromosomal aberration test in human lymphocytes with sulfamethoxazole and trimethoprim was negative.
-In in vitroand in vivotests in animal species, sulfamethoxazole and trimethoprim did not damage chromosomes.
-In vivomicronucleus assays were positive following oral administration of sulfamethoxazole and trimethoprim.
+An in vitro chromosomal aberration test in human lymphocytes with sulfamethoxazole and trimethoprim was negative.
+In in vitro and in vivo tests in animal species, sulfamethoxazole and trimethoprim did not damage chromosomes.
+In vivo micronucleus assays were positive following oral administration of sulfamethoxazole and trimethoprim.
 Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities.
 
-Sulfamethoxazole alone was positive in an in vitroreverse mutation bacterial assay and in in vitromicronucleus assays using cultured human lymphocytes.
+Sulfamethoxazole alone was positive in an in vitro reverse mutation bacterial assay and in in vitro micronucleus assays using cultured human lymphocytes.
 
-Trimethoprim alone was negative in in vitroreverse mutation bacterial assays and in in vitrochromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation.
-In in vitroComet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive.
+Trimethoprim alone was negative in in vitro reverse mutation bacterial assays and in in vitro chromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation.
+In in vitro Comet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive.
 In mice following oral administration of trimethoprim, no DNA damage in Comet assays of liver, kidney, lung, spleen, or bone marrow was recorded.
 
 Impairment of Fertility
@@ -227,8 +242,8 @@ Appropriate dosage adjustments should be made for patients with impaired kidney 
 The trimethoprim component of BACTRIM may cause hyperkalemia when administered to patients with underlying disorders of potassium metabolism, with renal insufficiency or when given concomitantly with drugs known to induce hyperkalemia, such as angiotensin converting enzyme inhibitors.
 Close monitoring of serum potassium is warranted in these patients.
 Discontinuation of BACTRIM treatment is recommended to help lower potassium serum levels.
-Bactrim Tablets contain 1.8 mg sodium (0.08 mEq) of sodium per tablet.
-Bactrim DS Tablets contain 3.6 mg (0.16 mEq) of sodium per tablet.
+BACTRIM Tablets contain 1.8 mg sodium (0.08 mEq) of sodium per tablet.
+BACTRIM DS Tablets contain 3.6 mg (0.16 mEq) of sodium per tablet.
 
 Pharmacokinetics parameters for sulfamethoxazole were similar for geriatric subjects and younger adult subjects.
 The mean maximum serum trimethoprim concentration was higher and mean renal clearance of trimethoprim was lower in geriatric subjects compared with younger subjects (see CLINICAL PHARMACOLOGY: Geriatric Pharmacokinetics).
