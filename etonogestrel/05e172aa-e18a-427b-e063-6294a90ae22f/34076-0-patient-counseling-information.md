@@ -23,7 +23,7 @@ Use of additional contraception
 
 - Inform patients that they need to use a barrier method of contraception when the ring is out for more than three continuous hours until Etonogestrel and ethinyl estradiol vaginal ring has been used continuously for at least seven days [see Dosage and Administration (2.3)].
 - Advise patients to use a back-up or alternative method of contraception when enzyme inducers are used with Etonogestrel and ethinyl estradiol vaginal ring [see Drug Interactions (7.1)].
-- Inform patients who start EnilloRing postpartum and have not yet had a normal period that they should use an additional non-hormonal method of contraception for the first seven days [see Dosage and Administration (2.2)].
+- Inform patients who start Etonogestrel and ethinyl estradiol vaginal ring postpartum and have not yet had a normal period that they should use an additional non-hormonal method of contraception for the first seven days [see Dosage and Administration (2.2)].
 
 Lactation
 

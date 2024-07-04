@@ -231,7 +231,7 @@ If these symptoms occur, do not stop using Etonogestrel and ethinyl estradiol va
 The problem will usually go away.
 If it doesn’t go away, check with your healthcare provider.
 
-Other side effects seen with EnilloRing include breast discharge; vaginal injury (including pain, discomfort, and bleeding) associated with broken rings; and penis discomfort of the partner (such as irritation, rash, itching).
+Other side effects seen with Etonogestrel and ethinyl estradiol vaginal ring include breast discharge; vaginal injury (including pain, discomfort, and bleeding) associated with broken rings; and penis discomfort of the partner (such as irritation, rash, itching).
 
 Less common side effects seen with combination hormonal birth control include:
 
@@ -252,7 +252,7 @@ How should I store Etonogestrel and ethinyl estradiol vaginal ring and throw awa
 
 - Store Etonogestrel and ethinyl estradiol vaginal ring at room temperature between 68°F to 77°F (20°C to 25°C).
 - Store Etonogestrel and ethinyl estradiol vaginal ring at room temperature for up to 4 months after you receive it.
-  Throw EnilloRing away if the expiration date on the label has passed.
+  Throw Etonogestrel and ethinyl estradiol vaginal ring away if the expiration date on the label has passed.
 - Do not store Etonogestrel and ethinyl estradiol vaginal ring above 86°F (30°C).
 - Avoid direct sunlight.
 - Place the used Etonogestrel and ethinyl estradiol vaginal ring in the foil pouch and properly throw it away in your household trash out of the reach of children and pets.
@@ -271,7 +271,7 @@ This leaflet summarizes the most important information about Etonogestrel and et
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Etonogestrel and ethinyl estradiol vaginal ring that is written for health professionals.
 
-For more information on Etonogestrel and ethinyl estradiol vaginal ring, go to www.avjare.com or call 855-361-3993.
+For more information on Etonogestrel and ethinyl estradiol vaginal ring, go to www.avkare.com or call 1-855-361-3993.
 
 What are the ingredients in Etonogestrel and ethinyl estradiol vaginal ring?
 
@@ -303,7 +303,7 @@ What if I miss my regular scheduled period when using Etonogestrel and ethinyl e
 Some women miss periods on hormonal birth control, even when they are not pregnant.
 Consider the possibility that you may be pregnant if:
 
-1. you miss a period and Etonogestrel and ethinyl estradiol vaginal ring was out of the vagina for more than 3 hours during the 3 weeks (21 days) of ring use 2. you miss a period and waited longer than 1 week to insert a new ring 3. you have followed the instructions and you miss 2 periods in a row 4. you have left EnilloRing in place for longer than 4 weeks (28 days)
+1. you miss a period and Etonogestrel and ethinyl estradiol vaginal ring was out of the vagina for more than 3 hours during the 3 weeks (21 days) of ring use 2. you miss a period and waited longer than 1 week to insert a new ring 3. you have followed the instructions and you miss 2 periods in a row 4. you have left Etonogestrel and ethinyl estradiol vaginal ring in place for longer than 4 weeks (28 days)
 
 What if I want to become pregnant?
 
