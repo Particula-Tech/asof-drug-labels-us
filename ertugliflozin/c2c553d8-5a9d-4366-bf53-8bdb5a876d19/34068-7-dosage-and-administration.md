@@ -12,7 +12,7 @@
 - For patients treated with ertugliflozin who are being switched to STEGLUJAN, the dose of ertugliflozin can be maintained.
 - For additional glycemic control, the dose may be increased to 15 mg ertugliflozin/100 mg sitagliptin once daily in patients tolerating STEGLUJAN.
 - Use is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2.
-- Use of STEGLUJAN is contraindicated in patients with severe renal impairment (<30 mL/min/1.73 m2), end-stage renal disease (ESRD) or on dialysis [see Contraindications (4)].
+- Use of STEGLUJAN is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end-stage renal disease (ESRD) or on dialysis [see Contraindications (4)].
 
 ## 2.3 Temporary Interruption for Surgery
 

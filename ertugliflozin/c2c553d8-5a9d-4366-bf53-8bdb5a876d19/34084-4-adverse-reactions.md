@@ -162,3 +162,4 @@ Ertugliflozin
 
 - Necrotizing fasciitis of the perineum (Fournier's Gangrene)
 - Angioedema
+- Rash

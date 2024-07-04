@@ -105,7 +105,7 @@ A 26-week placebo-controlled study of 313 patients with Stage 3 Chronic Kidney D
 In the VERTIS CV study, there were 1370 patients (25%) with an eGFR ≥90 mL/min/1.73 m2, 2929 patients (53%) with an eGFR of ≥60 to less than 90 mL/min/1.73 m2, 879 patients (16%) with an eGFR of ≥45 to less than 60 mL/min/1.73 m2 and 299 patients (5%) with eGFR of 30 to <45 mL/min/1.73 m2 treated with ertugliflozin.
 Similar effects on glycemic control at Week 18 were observed in patients treated with ertugliflozin in each eGFR subgroup and also in the overall patient population.
 
-STEGLUJAN is contraindicated in patients with severe renal impairment (<30 mL/min/1.73 m2), ESRD, or on dialysis [see Contraindications (4)].
+STEGLUJAN is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), ESRD, or on dialysis [see Contraindications (4)].
 
 No dosage adjustment is needed in patients with eGFR ≥45 mL/min/1.73 m2.
 
