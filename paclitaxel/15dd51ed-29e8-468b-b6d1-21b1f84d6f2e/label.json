@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216338"
+  ],
+  "inn": "paclitaxel",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-3290-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "generic": "paclitaxel",
+      "name": "Paclitaxel"
+    }
+  ],
+  "setid": "15dd51ed-29e8-468b-b6d1-21b1f84d6f2e",
+  "source": "dailymed"
+}
