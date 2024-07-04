@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Card Carton
 
 NDC 0597-0152-37
 
@@ -22,7 +22,7 @@ Boehringer Ingelheim
 
 Lilly
 
-# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Blister Card Carton
 
 NDC 0597-0153-37
 
