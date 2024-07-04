@@ -315,9 +315,8 @@ Do not touch the injection button yet.
 5C Place your thumb on the injection button.
 Then press all the way in and hold (See Figure q).
 
-- Do not press at an angle.
+- •Do not press at an angle.
   Your thumb could block the dose selector from turning.
-- Do not press hard, slowly push the injection button to inject the dose.
 
 5D Keep the injection button held in and when you see “0” in the dose window, slowly count to 10 (See Figure r).
 
@@ -408,7 +407,7 @@ Throwing your Pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2024
+Revised: 11/2023
 
 BD is a registered trademark of Becton, Dickinson, and Company. © 2023 Biocon Biologics Inc.
 
