@@ -130,3 +130,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Necrotizing fasciitis of the perineum (Fournier's Gangrene)
 - Angioedema
+- Rash
