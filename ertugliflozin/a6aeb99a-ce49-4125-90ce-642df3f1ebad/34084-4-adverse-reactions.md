@@ -137,4 +137,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Necrotizing fasciitis of the perineum (Fournier’s Gangrene)
 - Angioedema
+- Rash
 - Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.
