@@ -39,8 +39,8 @@ Culture and sensitivity testing of bacteria are not routinely performed to estab
 The following in vitro data are available but their clinical significance is unknown.
 Clindamycin is active in vitro against most isolates of the following organisms reported to be associated with bacterial vaginosis:
 
-- Bacteroides spp.
-- Gardnerella vaginalis
-- Mobiluncus spp.
-- Mycoplasma hominis
-- Peptostreptococcus spp.
+- •Bacteroides spp.
+- •Gardnerella vaginalis
+- •Mobiluncus spp.
+- •Mycoplasma hominis
+- •Peptostreptococcus spp.
