@@ -127,6 +127,8 @@ Macleods Pharmaceuticals Ltd.
 
 Daman (U.T.), INDIA
 
+Medication Guide available at: www.macleodspharma.com/usa
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: July 2022
+Revised: May 2023

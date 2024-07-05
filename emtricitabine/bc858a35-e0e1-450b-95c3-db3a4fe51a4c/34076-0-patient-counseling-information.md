@@ -43,4 +43,6 @@ Manufactured for: Macleods Pharma USA, INC, Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
 
-Revised: 07/2022
+Medication Guide available at: www.macleodspharma.com/usa
+
+Revised: 05/2023
