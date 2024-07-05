@@ -5,8 +5,10 @@
   "inn": "zolmitriptan",
   "labeler": "Glenmark Pharmaceuticals Inc.,USA",
   "package_ndcs": [
+    "68462-497-40",
     "68462-497-76",
-    "68462-498-33"
+    "68462-498-33",
+    "68462-498-40"
   ],
   "products": [
     {
