@@ -64,7 +64,7 @@ Before you use Etonogestrel/Ethinyl Estradiol Vaginal Ring tell your healthcare 
 - recently had a baby
 - recently had a miscarriage or abortion
 - have a family history of breast cancer
-- have or have had breast nodules, fibrocystic disease, an abnormal breast x-ray, or abnormal mammogram
+- have or have had breast nodules, fibrocystic disease, an abnormal breast X-ray, or abnormal mammogram
 - use tampons and have a history of toxic shock syndrome
 - have been diagnosed with depression
 - have had liver problems including jaundice during pregnancy
@@ -86,6 +86,8 @@ Before you use Etonogestrel/Ethinyl Estradiol Vaginal Ring tell your healthcare 
   A small amount of hormones from Etonogestrel/Ethinyl Estradiol Vaginal Ring may pass into your breast milk.
   Consider another non-hormonal method of birth control until you are ready to stop breastfeeding.
 - have (or have ever had) an allergic reaction while using Etonogestrel/Ethinyl Estradiol Vaginal Ring, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
+- have a family history of angioedema.
+  Products containing estrogens may cause or worsen these symptoms.
 
 Tell your healthcare provider about all medicines and herbal products you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
@@ -94,7 +96,7 @@ Some medicines and herbal products may make hormonal birth control less effectiv
 - certain anti-seizure medicines (such as barbiturates, carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide and topiramate)
 - medicine to treat fungal infections (griseofulvin)
 - certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir)
-- certain hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
+- certain Hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
 - non-nucleoside reverse transcriptase inhibitors (such as efavirenz and nevirapine)
 - medicine to treat tuberculosis (such as rifampicin and rifabutin)
 - medicine to treat high blood pressure in the vessels of the lung (bosentan)
@@ -118,6 +120,8 @@ Hormonal birth control methods may interact with lamotrigine, a medicine used fo
 This may increase the risk of seizures, so your healthcare provider may need to adjust your dose of lamotrigine.
 
 Women on thyroid replacement therapy may need increased doses of thyroid hormone.
+
+Some Hepatitis C drug combinations (such as glecaprevir/pibrentasvir) may increase levels of the liver enzyme “alanine aminotransferase” (ALT) in the blood.
 
 Ask your healthcare provider if you are not sure if you take any of the medicines listed above.
 Know the medicines you take.
@@ -200,7 +204,7 @@ Other serious risks include:
 - high blood pressure
 - gallbladder problems
 - accidental insertion into bladder
-- symptoms of a problem called angioedema if you already have a family history of angioedema
+- symptoms of a problem called angioedema if you already have a (family) history of angioedema
 
 The most common side effects of Etonogestrel/Ethinyl Estradiol Vaginal Ring are:
 

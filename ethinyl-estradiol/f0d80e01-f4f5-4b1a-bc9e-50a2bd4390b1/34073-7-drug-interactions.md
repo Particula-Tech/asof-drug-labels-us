@@ -41,7 +41,8 @@ Women on thyroid hormone replacement therapy may need increased doses of thyroid
 
 ## 7.3 Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation
 
-Do not co-administer Etonogestrel/Ethinyl Estradiol Vaginal Ring with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations [see Warnings and Precautions (5.4)].
+Do not co-administer Etonogestrel/Ethinyl Estradiol Vaginal Ring with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations.
+Concomitant use with some other HCV antiviral medicinal products, such as those containing glecaprevir/pibrentasvir, may increase the risk of ALT elevations [see Warnings and Precautions (5.4)].
 
 ## 7.4 Interference with Laboratory Tests
 
