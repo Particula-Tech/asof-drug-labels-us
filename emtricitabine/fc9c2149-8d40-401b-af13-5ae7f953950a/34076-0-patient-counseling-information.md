@@ -73,7 +73,13 @@ Lactation
 
 Instruct patients not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are the registered trademarks of their respective owners.
 
-Manufactured In Croatia By: Pliva Hrvatska d.o.o Zagreb, Croatia Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454 Rev.
-B 1/2020
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
+
+Manufactured In Croatia By: Pliva Hrvatska d.o.o Zagreb, Croatia
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
+
+Rev.
+C 5/2024

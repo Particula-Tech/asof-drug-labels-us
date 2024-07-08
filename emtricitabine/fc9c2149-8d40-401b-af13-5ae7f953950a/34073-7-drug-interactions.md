@@ -54,7 +54,7 @@ Table 3: Established and Potentially Significanta Drug Interactions
 | ↓ efavirenz |  |  |
 | phenytoin phenobarbital | ↓ anticonvulsant | Potential for reduction in anticonvulsant and/or EFV plasma levels; periodic monitoring of anticonvulsant plasma levels should be conducted. |
 | ↓ efavirenz |  |  |
-| Antidepressants: bupropion sertraline | ↓ buproprion ↓ sertraline | The effect of EFV on bupropion exposure is thought to be due to the induction of bupropion metabolism. Increases in bupropion dosage should be guided by clinical response, but the maximum recommended dose of bupropion should not be exceeded. Increases in sertraline dose should be guided by clinical response. |
+| Antidepressants: bupropion sertraline | ↓ bupropion ↓ sertraline | The effect of EFV on bupropion exposure is thought to be due to the induction of bupropion metabolism. Increases in bupropion dosage should be guided by clinical response, but the maximum recommended dose of bupropion should not be exceeded. Increases in sertraline dose should be guided by clinical response. |
 | Antifungals: itraconazole | ↓ itraconazole | Since no dose recommendation for itraconazole can be made, alternative antifungal treatment should be considered. |
 | ↓ hydroxy- itraconazole |  |  |
 | ketoconazole | ↓ ketoconazole | Drug interaction trials with efavirenz, emtricitabine and tenofovir disoproxil fumarate tablets and ketoconazole have not been conducted. Efavirenz has the potential to decrease plasma concentrations of ketoconazole. |

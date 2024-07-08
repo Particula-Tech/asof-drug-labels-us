@@ -12,6 +12,6 @@ Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with efavirenz, emtricitabine and tenofovir disoproxil fumarate tablets.
 
-PHARMACIST: PLEASE DISPENSE WITH ACCOMPANYING PATIENT INFORMATION LEAFLET
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
-30 TABLETS
+30 Tablets
