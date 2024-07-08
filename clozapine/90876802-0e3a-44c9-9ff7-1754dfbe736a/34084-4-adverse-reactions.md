@@ -52,7 +52,7 @@ These rates are not adjusted for duration of exposure.
 Table 10.
 Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across all CLOZARIL Studies (excluding the 2-year InterSePT™ Study)
 
-| Body SystemAdverse Reaction* | CLOZARIL N=842 Percentage of Patients |
+| Body SystemAdverse Reaction * | CLOZARIL N=842 Percentage of Patients |
 | --- | --- |
 | Central Nervous System |  |
 | Drowsiness/Sedation | 39 |
