@@ -76,16 +76,8 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 The safety and effectiveness of ZITUVIMET have not been established in pediatric patients.
 
-Three 20-week double-blind, placebo-controlled studies each with 34-week extensions were conducted to evaluate the efficacy and safety of sitagliptin in 410 pediatric patients aged 10 to 17 years with inadequately controlled type 2 diabetes, with or without insulin therapy (HbA1c 6.5-10% for patients not on insulin, HbA1c 7% to 10% for patients on insulin).
-At study entry, patients in study 1 were not treated with oral antihyperglycemic agents; patients in studies 2 and 3 were on maximally tolerated metformin therapy.
-The primary efficacy endpoint was the change from baseline in HbA1c after 20 weeks of therapy.
-The pre-specified primary efficacy analyses included data from study 1 and pooled data from studies 2 and 3, regardless of glycemic rescue or treatment discontinuation.
-
-In both efficacy analyses, the effect of treatment with sitagliptin was not significantly different from placebo.
-In study 1, the mean baseline HbA1c was 7.5%, and 12% of patients were on insulin therapy.
-At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=95) was 0.06% compared to 0.23% in patients treated with placebo (N=95), a difference of -0.17% (95% CI: -0.62, 0.28).
-In studies 2 and 3, the mean baseline HbA1c was 8.0%, 15% of patients were on insulin and 72% were on metformin HCl doses of greater than 1,500 mg daily.
-At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=107) was -0.23% compared to 0.09% in patients treated with placebo (N=113), a difference of -0.33% (95% CI: -0.70, 0.05).
+Pediatric information describing clinical studies in which efficacy was not demonstrated is approved for Merck Sharp and Dohme's JANUMET (sitagliptin and metformin hydrochloride) tablets.
+However, due to Merck Sharp and Dohme's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
