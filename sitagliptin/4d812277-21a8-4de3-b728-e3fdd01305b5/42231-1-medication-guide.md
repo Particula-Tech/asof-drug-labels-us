@@ -17,4 +17,4 @@
 | What are the ingredients in sitagliptin and metformin hydrochloride tablets ? Active ingredients: sitagliptin and metformin hydrochloride Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, low substituted hydroxypropylcellulose, magnesium stearate, malic acid, microcrystalline cellulose, povidone, and sodium stearyl fumarate. In addition, the film coating contains the following inactive ingredients: polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide. The film coating of 50 mg/1,000 mg also contains: FD&C yellow #6 aluminum lake, iron oxide red, and iron oxide yellow. |  |  |
 | Manufactured by: Zydus Lifesciences Ltd., Pharmez, Matoda, Ahmedabad, India Distributed by: Zydus Pharmaceuticals (USA) Inc., Route 31 North, Pennington, NJ 08534 The trademarks depicted herein are owned by their respective companies. For more information, call 1-877-993-8779, email medicalaffairs@zydusua.com, or go to www.zyususa.com/medguides/ |  |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |
-| Revised: 06/2024 |  |  |
+| Revised: 02/2024 |  |  |
