@@ -33,7 +33,7 @@ It is not known whether these abnormalities were caused by the drug or the under
 
 Postmarketing Adverse Events Additional adverse events, regardless of relationship to drug, reported from worldwide marketing experience with quinolones, including ofloxacin: Clinical
 
-| Cardiovascular System: | cerebral thrombosis, pulmonary edema, tachycardia, hypotension/shock, syncope, torsade de pointes |
+| Cardiovascular System: | cerebral thrombosis, pulmonary edema, tachycardia, hypotension/shock, syncope, torsade de pointes, acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction |
 | --- | --- |
 | Endocrine/Metabolic: | hyper- or hypoglycemia, especially in diabetic patients on insulin or oral hypoglycemic agents (see PRECAUTIONS, General and Drug Interactions). |
 | Gastrointestinal System: | hepatic dysfunction including: hepatic necrosis, jaundice (cholestatic or hepatocellular), hepatitis; intestinal perforation; hepatic failure (including fatal cases); pseudomembranous colitis (the onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment), GI hemorrhage; hiccough, painful oral mucosa, pyrosis (see WARNINGS). |

@@ -302,4 +302,4 @@ Manufactured by:
 
 Cadila Pharmaceuticals Limited 1389, Dholka, District - Ahmedabad,
 
-Gujarat State, INDIA Revised: September 2019
+Gujarat State, INDIA Revised: July, 2024

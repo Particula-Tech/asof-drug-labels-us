@@ -16,4 +16,5 @@ This in vitro chelation potential has the following formation order: Fe+3> Al+3>
 
 Ofloxacin tablets, USP contain the following inactive ingredients: lactose monohydrate, pregelatinized maize starch, hydroxy propyl methyl cellulose, talc, magnesium stearate, polyethylene glycol, sodium starch glycolate, and titanium dioxide.
 Additionally, the 200 mg and 400 mg tablets contain iron oxide yellow.
-The imprinting ink for 200 mg, 300 mg and 400 mg strength contains FD&C blue #1, isopropyl alcohol, N-butyl alcohol, propylene glycol, shellac and titanium dioxide.
+
+The imprinting ink for 200 mg, 300 mg and 400 mg strength contains FD&C blue #1, isopropyl alcohol, Nbutyl alcohol, propylene glycol, shellac and titanium dioxide.
