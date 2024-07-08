@@ -10,7 +10,7 @@ Advise patients to contact their healthcare provider immediately for signs or sy
 Infection
 
 Advise patients to contact their healthcare provider for any signs of infection during treatment or after the last dose [see Clinical Pharmacology (12.2)].
-Signs include fever, chills, constant cough, dysuria, or signs of herpes such as cold sore, shingles, or genital sores [see Warnings and Precautions (5.2)].
+Signs include fever, chills, constant cough, dysuria, or signs of herpes such as cold sores, shingles, or genital sores [see Warnings and Precautions (5.2)].
 
 Advise patients that OCREVUS may cause reactivation of hepatitis B infection and that monitoring will be required if they are at risk [see Warnings and Precautions (5.2)].
 
@@ -41,9 +41,4 @@ Advise patients to promptly contact their healthcare provider if they experience
 Contraception
 
 Females of childbearing potential should use effective contraception while receiving OCREVUS and for 6 months after the last infusion of OCREVUS [see Clinical Pharmacology (12.3)].
-
-Pregnancy Registry
-
-Instruct patients that if they are pregnant or plan to become pregnant while taking OCREVUS they should inform their healthcare provider [see Use in Specific Populations (8.1)].
-
-Encourage patients to enroll in the OCREVUS Pregnancy Registry if they become pregnant while taking OCREVUS [see Use in Specific Populations (8.1)].
+Instruct patients that if they are pregnant or plan to become pregnant while taking OCREVUS, they should inform their healthcare provider [see Use in Specific Populations (8.1)].

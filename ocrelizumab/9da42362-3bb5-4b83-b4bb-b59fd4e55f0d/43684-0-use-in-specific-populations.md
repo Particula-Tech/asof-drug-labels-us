@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy and fetal/neonatal/infant outcomes in women exposed to OCREVUS during pregnancy.
-Physicians are encouraged to register patients and pregnant women are encouraged to register themselves by calling 1-833-872-4370 or visiting www.ocrevuspregnancyregistry.com.
-
 Risk Summary
 
 OCREVUS is a humanized monoclonal antibody of an immunoglobulin G1 subtype and immunoglobulins are known to cross the placental barrier.

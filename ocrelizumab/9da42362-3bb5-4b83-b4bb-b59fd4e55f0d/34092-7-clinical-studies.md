@@ -73,7 +73,7 @@ At baseline, the mean age of patients was 45; 49% were female.
 The mean time since symptom onset was 6.7 years, the mean EDSS score was 4.7, and 26% had one or more T1 Gd-enhancing lesions at baseline; 88% of patients had not been treated previously with a non-steroid treatment for MS. The time to onset of disability progression confirmed at 12 weeks after onset was significantly longer for OCREVUS-treated patients than for placebo-treated patients (see Figure 2).
 Results for Study 3 are presented in Table 5 and Figure 2.
 
-Table 5 Key Clinical and MRI Endpoints in PPMS patients for Study 3
+Table 5 Key Clinical and MRI Endpoints in PPMS Patients for Study 3
 
 | N=488 | N=244 |  |
 | --- | --- | --- |
