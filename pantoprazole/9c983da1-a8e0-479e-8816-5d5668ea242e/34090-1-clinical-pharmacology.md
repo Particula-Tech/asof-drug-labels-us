@@ -57,7 +57,7 @@ In a separate study, a gastric NE-cell tumor without concomitant ECL-cell prolif
 
 Endocrine Effects
 
-In a clinical pharmacology study, pantoprazole 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
+In a clinical pharmacology study, pantoprazole 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
 
 In a 1-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
 
@@ -103,8 +103,7 @@ Specific Populations
 
 Geriatric Patients
 
-Only slight to moderate increases in the AUC (43%) and Cmax (26%) of pantoprazole were found in elderly subjects (64 to 76 years of age) after repeated oral administration, compared with younger subjects.
-[see Use in Specific Populations (8.5)].
+Only slight to moderate increases in the AUC (43%) and Cmax (26%) of pantoprazole were found in elderly subjects (64 to 76 years of age) after repeated oral administration, compared with younger subjects [see Use in Specific Populations (8.5)].
 
 Pediatric Patients
 
@@ -128,7 +127,7 @@ Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD 
 | --- | --- | --- |
 | Cmax (µg/mL)a | 1.8 | 1.8 |
 | tmax (h)b | 2.0 | 2.0 |
-| AUC (µg•hr/mL) | 6.9 | 5.5 |
+| AUC (µg•h/mL)a | 6.9 | 5.5 |
 | CL/F (L/h)b | 6.6 | 6.8 |
 
 aGeometric mean values bMedian values
@@ -172,8 +171,7 @@ Mycophenolate Mofetil (MMF)
 
 Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
 Transplant patients receiving approximately 2000 mg per day of MMF (n=12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n=21).
-There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF.
-[see Drug Interactions (7)].
+There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF [see Drug Interactions (7)].
 
 Other Drugs
 

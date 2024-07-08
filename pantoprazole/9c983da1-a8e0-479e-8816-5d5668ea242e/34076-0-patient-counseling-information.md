@@ -28,11 +28,11 @@ Advise patients to immediately call their healthcare provider for any new or wor
 
 Cyanocobalamin (Vitamin B-12) Deficiency
 
-Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium delayed-release tablets for longer than 3 years [see Warnings and Precautions (5.7)].
+Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving Pantoprazole sodium delayed-release tablets for longer than 3 years [see Warnings and Precautions (5.7)].
 
 Hypomagnesemia and Mineral Metabolism
 
-Advise patients to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to their healthcare provider, if they have been receiving pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.8)].
+Advise patients to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia, to their healthcare provider, if they have been receiving Pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
@@ -55,12 +55,14 @@ Administration
 This product's label may have been updated.
 For the most recent prescribing information, please visit www.torrentpharma.com
 
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8093834 Revised: August 2023
+8096094 Revised: June 2024

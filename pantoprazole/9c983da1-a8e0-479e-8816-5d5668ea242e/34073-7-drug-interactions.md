@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 4 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with Pantoprazole sodium and instructions for preventing or managing them.
+Table 4 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with pantoprazole sodium and instructions for preventing or managing them.
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 

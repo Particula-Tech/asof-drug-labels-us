@@ -17,7 +17,7 @@ Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
 | 4 8 | 45.6%+ 66.0%+ | 58.4%+# 83.5%+# | 75.0%+* 92.6%+* | 14.3% 39.7% |
 
-+ (p < 0.001) pantoprazole versus placebo * (p < 0.05) versus 10 mg or 20 mg pantoprazole # (p < 0.05) versus 10 mg pantoprazole
++ (p < 0.001) pantoprazole versus placebo * (p < 0.05) versus 10 mg or 20 mg Pantoprazole # (p < 0.05) versus 10 mg Pantoprazole
 
 In this study, all pantoprazole treatment groups had significantly greater healing rates than the placebo group.
 This was true regardless of H.pylori status for the 40 mg and 20 mg pantoprazole treatment groups.

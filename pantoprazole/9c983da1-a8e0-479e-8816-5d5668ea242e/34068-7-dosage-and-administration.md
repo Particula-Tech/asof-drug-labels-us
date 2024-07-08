@@ -26,7 +26,7 @@ Doses up to 240 mg daily have been administered.
 
 ## 2.2 Administration Instructions
 
-Directions for method of administration is presented in Table 2.
+Directions for method of administration are presented in Table 2.
 
 Table 2: Administration Instructions
 
