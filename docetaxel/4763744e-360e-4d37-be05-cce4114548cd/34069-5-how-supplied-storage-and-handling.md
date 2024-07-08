@@ -2,10 +2,10 @@
 
 ## 16.1 How Supplied
 
-DOCIVYX Injection is supplied in a single-dose vial as a sterile, pyrogen-free, non-aqueous, pale-yellow to brownish-yellow solution.
+DOCIVYXTM Injection is supplied in a single-dose vial as a sterile, pyrogen-free, non-aqueous, pale-yellow to brownish-yellow solution.
 Discard unused portion.
 
-DOCIVYX (docetaxel) Injection, 10 mg/mL, is available as carton of one single-dose vial in the following strengths:
+DOCIVYXTM (docetaxel) Injection, 10 mg/mL, is available as carton of one single-dose vial in the following strengths:
 
 20 mg/2 mL (NDC: 83831-101-02)
 

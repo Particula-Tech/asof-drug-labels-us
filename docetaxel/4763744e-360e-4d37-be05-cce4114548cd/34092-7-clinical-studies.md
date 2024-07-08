@@ -41,8 +41,7 @@ Table 13: Efficacy of DOCIVYX in the Treatment of Breast Cancer Patients Previou
 | Median Survival | 14.7 months | 14.3 months | p=0.39 Log Rank |
 | Risk Ratio*, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.89 0.68–1.16 |  |  |
 | Median Time to Progression | 6.5 months | 5.3 months | p=0.45 Log Rank |
-| Risk Ratio*, Progression (Docetaxel: Control) | 0.93 |  |  |
-| 95% CI (Risk Ratio) | 0.71–1.16 |  |  |
+| Risk Ratio*, Progression (Docetaxel: Control) 95% CI (Risk Ratio) | 0.93 0.71–1.16 |  |  |
 | Overall Response Rate | 45.3% | 29.7% | p=0.004 |
 | Complete Response Rate | 6.8% | 4.2% | Chi Square |
 | * For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
@@ -88,7 +87,7 @@ Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 | Hazard ratio * | 95% CI | Hazard ratio * | 95% CI |  |  |
 | No. of positive nodes Overall 1–3 4+ | 744 467 277 | 0.74 0.64 0.84 | (0.60, 0.92) (0.47, 0.87) (0.63, 1.12) | 0.69 0.45 0.93 | (0.53, 0.90) (0.29, 0.70) (0.66, 1.32) |
 | Receptor status Positive Negative | 566 178 | 0.76 0.68 | (0.59, 0.98) (0.48, 0.97) | 0.69 0.66 | (0.48, 0.99) (0.44, 0.98) |
-| * a hazard ratio of less than 1 indicates that TAC is associated with a longer disease- free survival or overall survival compared to FAC. |  |  |  |  |  |
+| * a hazard ratio of less than 1 indicates that TAC is associated with a longer disease-free survival or overall survival compared to FAC. |  |  |  |  |  |
 
 ## 14.3 Non-small Cell Lung Cancer (NSCLC)
 

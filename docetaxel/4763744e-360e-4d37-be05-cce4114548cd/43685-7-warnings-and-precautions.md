@@ -11,7 +11,7 @@ Sepsis accounted for the majority of the deaths.
 
 Non-small Cell Lung Cancer
 
-DOCIVYX administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non- small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
+DOCIVYX administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
 There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2 dose in the randomized trials.
 Among patients who experienced treatment-related mortality at the 75 mg/m2 dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see Dosage and Administration (2.2), Clinical Studies (14)].
 
