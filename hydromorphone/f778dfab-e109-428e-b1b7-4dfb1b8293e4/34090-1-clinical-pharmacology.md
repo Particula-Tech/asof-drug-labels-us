@@ -49,8 +49,8 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance[see Dosage and Administration (2.1, 2.5)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonist.
+The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
 
 Concentration–Adverse Reaction Relationships
 
@@ -95,7 +95,7 @@ Excretion
 Only a small amount of the hydromorphone dose is excreted unchanged in the urine.
 Most of the dose is excreted as hydromorphone-3-glucuronide along with minor amounts of 6-hydroxy reduction metabolites.
 
-Specific Populations Hepatic Impairment
+Specific PopulationsHepatic Impairment
 
 After oral administration of a single 4 mg dose (2 mg hydromorphone immediate-release tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
 Due to increased exposure of hydromorphone, patients with moderate hepatic impairment should be started at a lower dose and closely monitored during dose titration.

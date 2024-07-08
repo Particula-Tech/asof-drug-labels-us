@@ -41,6 +41,7 @@ Do not abruptly discontinue Hydromorphone Hydrochloride Tablets in patients who 
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
+
 When a decision has been made to decrease the dose or discontinue therapy in an opioid dependent patient taking Hydromorphone Hydrochloride Tablets, there are a variety of factors that should be considered, including the dose of Hydromorphone Hydrochloride Tablets the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
