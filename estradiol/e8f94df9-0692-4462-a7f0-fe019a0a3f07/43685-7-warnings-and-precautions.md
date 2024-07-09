@@ -199,7 +199,7 @@ Free T4 and free T3 concentrations are unaltered.
 Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
 
 3.
-Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone bind- ing globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
+Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
 Free hormone concentrations may be decreased.
 Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
 

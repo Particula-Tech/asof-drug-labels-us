@@ -122,7 +122,7 @@ Disposal of Unused Medicines: What You Should Know
 
 http://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/ensuringsafeuseofmedicine/safedisposalofmedicines/ucm186187.htm
 
-How to Dispose of Unused Medicines http://www.fda.gov/downloads/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/UnderstandingOver-the-CounterMedicines/ucm107163.pdf
+How to Dispose of Unused Medicines http://www.fda.gov/downloads/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/Understandingover-the-CounterMedicines/ucm107163.pdf
 
 What are the possible side effects of estrogens?
 
@@ -209,10 +209,12 @@ How should I store DELESTROGEN?
 Store DELESTROGEN at room temperature between 20° to 25°C (68° to 77°F).
 (See USP Controlled Room Temperature.)
 
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
-Revised: 02/2024
+© 2024 Endo, Inc. or one of its affiliates.
+
+Revised: 05/2024
