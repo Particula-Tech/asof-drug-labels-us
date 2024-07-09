@@ -45,7 +45,7 @@ Reconstituted Dantrium Intravenous should not be transferred to large glass bott
 
 For prophylactic infusion, the required number of individual vials of Dantrium Intravenous should be reconstituted as outlined above.
 The contents of individual vials are then transferred to a larger volume sterile intravenous plastic bag.
-Stability data on file at Par Pharmaceutical indicate commercially available sterile plastic bags are acceptable drug delivery devices.
+Stability data on file at Endo indicate commercially available sterile plastic bags are acceptable drug delivery devices.
 However, it is recommended that the prepared infusion be inspected carefully for cloudiness and/or precipitation prior to dispensing and administration.
 Such solutions should not be used.
 While stable for 6 hours, it is recommended that the infusion be prepared immediately prior to the anticipated dosage administration time.

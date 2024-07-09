@@ -30,4 +30,4 @@ The published literature has included some reports of Dantrium use in patients w
 Dantrium Intravenous is not indicated for the treatment of NMS and patients may expire despite treatment with Dantrium Intravenous.
 
 For medical advice about adverse reactions contact your medical professional.
-To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Endo at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

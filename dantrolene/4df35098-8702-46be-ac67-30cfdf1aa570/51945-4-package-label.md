@@ -9,5 +9,3 @@ Dantrium® Intravenous (dantrolene sodium for injection)
 For treatment of malignant hyperthermia FOR INTRAVENOUS USE ONLY
 
 Rx Only
-
-Par Pharmaceutical Companies, Inc.
