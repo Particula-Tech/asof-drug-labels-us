@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA201281"
+  ],
+  "inn": "linagliptin",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-036-18",
+    "59368-036-60",
+    "59368-036-66",
+    "59368-037-18",
+    "59368-037-60",
+    "59368-038-18",
+    "59368-038-60",
+    "59368-038-66"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linagliptin and metformin hydrochloride",
+      "name": "Jentadueto"
+    }
+  ],
+  "setid": "1cc1b612-dc13-c230-e063-6294a90a8566",
+  "source": "dailymed"
+}
