@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA201280"
+  ],
+  "inn": "linagliptin",
+  "labeler": "Praxis,LLC",
+  "package_ndcs": [
+    "59368-043-30",
+    "59368-043-61",
+    "59368-043-70",
+    "59368-043-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linagliptin",
+      "name": "Tradjenta"
+    }
+  ],
+  "setid": "1cc2940c-35be-99a6-e063-6294a90a0329",
+  "source": "dailymed"
+}
