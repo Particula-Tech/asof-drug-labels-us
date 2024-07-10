@@ -7,7 +7,7 @@ The following adverse reactions are discussed in greater detail in other section
 ## 6.2 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
-Kidney transplantation The data described below reflect exposure to everolimus in an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial everolimus starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N=274) compared to mycophenolic acid (N=273) with standard exposure cyclosporine].
+Kidney Transplantation The data described below reflect exposure to everolimus in an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial everolimus starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N=274) compared to mycophenolic acid (N=273) with standard exposure cyclosporine].
 All patients received basiliximab induction therapy and corticosteroids.
 The population was between 18 and 70 years, more than 43% were 50 years of age or older (mean age was 46 years in the everolimus group, 47 years control group); a majority of recipients were male (64% in the everolimus group, 69% control group); and a majority of patients were Caucasian (70% in the everolimus group, 69% control group).
 Demographic characteristics were comparable between treatment groups.
@@ -23,8 +23,8 @@ The difference was mainly due to the higher incidence of viral infections in the
 Injury, poisoning and procedural complications reported as serious adverse reactions had the second highest incidence in both groups [14% (39/274) in the everolimus group and 12% (32/273) in the control group] followed by renal and urinary disorders [10% (28/274) in the everolimus group and 13% (36/273) in the control group] and vascular disorders [10% (26/274) in the everolimus group and 7% (20/273) in the control group].
 A total of 13 patients died during the first 12 months of study; 7 (3%) in the everolimus group and 6 (2%) in the control group.
 The most common causes of death across the study groups were related to cardiac conditions and infections.
-There were 12 (4%) graft losses in the everolimus group and 8 (3%) in the control group over the 12 month study period.
-Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the everolimus group (2%) compared to two renal artery thromboses in the control group (1%) [see Boxed Warning and Warnings and Precautions (5.4)].
+There were 12 (4%) graft losses in the everolimus group and 8 (3%) in the control group over the 12-month study period.
+Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the everolimus group (2%) compared to two renal artery thromboses in the control group (1%) [see Boxed Warning, Warnings and Precautions (5.4)].
 The most common (greater than or equal to 20%) adverse reactions observed in the everolimus group were: peripheral edema, constipation, hypertension, nausea, anemia, urinary tract infection, and hyperlipidemia.
 Infections The overall incidence of bacterial, fungal and viral infections reported as adverse reactions was higher in the control group (68%) compared to the everolimus group (64%) and was primarily due to an increased number of viral infections (21% in the control group and 10% in the everolimus group).
 The incidence of CMV infections reported as adverse reactions was 8% in the control group compared to 1% in the everolimus group; and 3% of the serious CMV infections in the control group versus 0% in the everolimus group were considered serious [see Warnings and Precautions (5.3)].
@@ -37,19 +37,20 @@ More patients required intraoperative repair debridement or drainage of incision
 Adverse reactions due to major fluid collections such as edema and other types of fluid collections was 45% in the everolimus group and 40% in the control group [see Warnings and Precautions (5.9)].
 Neoplasms Adverse reactions due to malignant and benign neoplasms were reported in 3% of patients in the everolimus group and 6% in the control group.
 The most frequently reported neoplasms in the control group were basal cell carcinoma, squamous cell carcinoma, skin papilloma and seborrheic keratosis.
-One patient in the everolimus group who underwent a melanoma excision prior to transplantation died due to metastatic melanoma [see Boxed Warning and Warnings and Precautions (5.2)].
+One patient in the everolimus group who underwent a melanoma excision prior to transplantation died due to metastatic melanoma [see Boxed Warning, Warnings and Precautions (5.2)].
 New Onset Diabetes Mellitus (NODM) NODM reported based on adverse reactions and random serum glucose values, was 9% in the everolimus group compared to 7% in the control group.
 Endocrine Effects in Males In the everolimus group, serum testosterone levels significantly decreased while the FSH levels significantly increased without significant changes being observed in the control group.
 In both the everolimus and the control groups mean testosterone and FSH levels remained within the normal range with the mean FSH level in the everolimus group being at the upper limit of the normal range (11.1 U/L).
 More patients were reported with erectile dysfunction in the everolimus treatment group compared to the control group (5% compared to 2%, respectively).
 Table 2 compares the incidence of treatment-emergent adverse reactions reported with an incidence of greater than or equal to 10% for patients receiving everolimus with reduced dose cyclosporine or mycophenolic acid with standard dose cyclosporine.
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
-Table 2.
-Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term after Kidney Transplantation (Safety Population*)
 
-| Primary System Organ Class Preferred Term | Everolimus 1.5 mg With reduced exposure cyclosporine N=274 n (%) | Mycophenolic acid 1.44 g With standard exposure cyclosporine N=273 n (%) |
+Table 2.
+Incidence Rates of Frequent (Greater Than or Equal to 10% in Any Treatment Group) Adverse Reactions (Safety Population*)
+
+| Adverse reactions | Everolimus 1.5 mg with reduced exposure cyclosporine N=274 n (%) | Mycophenolic acid 1.44 g with standard exposure cyclosporine N=273 n (%) |
 | --- | --- | --- |
-| Any Adverse Reactions* | 271 (99) | 270 (99) |
+| Any adverse reactions* | 271 (99) | 270 (99) |
 | Blood lymphatic system disorders | 93 (34) | 111 (41) |
 | Anemia | 70 (26) | 68 (25) |
 | Leukopenia | 8 (3) | 33 (12) |
@@ -61,8 +62,7 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group
 | Abdominal pain | 36 (13) | 42 (15) |
 | Dyspepsia | 12 (4) | 31 (11) |
 | Abdominal pain upper | 9 (3) | 30 (11) |
-| General disorders and administrative | 181 (66) | 160 (59) |
-| site conditions |  |  |
+| General disorders and administrative-site conditions | 181 (66) | 160 (59) |
 | Edema peripheral | 123 (45) | 108 (40) |
 | Pyrexia | 51 (19) | 40 (15) |
 | Fatigue | 25 (9) | 28 (10) |
@@ -70,7 +70,7 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group
 | Urinary tract infection | 60 (22) | 63 (23) |
 | Upper respiratory tract infection | 44 (16) | 49 (18) |
 | Injury, poisoning and procedural complications | 163 (60) | 163 (60) |
-| Incision site pain | 45 (16) | 47 (17) |
+| Incision-site pain | 45 (16) | 47 (17) |
 | Procedural pain | 40 (15) | 37 (14) |
 | Investigations | 137 (50) | 133 (49) |
 | Blood creatinine increased | 48 (18) | 59 (22) |
@@ -104,49 +104,50 @@ Adverse reaction that occurred with at least a 5% higher frequency in the everol
 A third treatment group of everolimus 3 mg per day (1.5 mg twice daily; target trough concentrations 6 to 12 ng/mL) with reduced exposure cyclosporine was included in the study described above.
 Although as effective as the lower dose everolimus group, the overall safety was worse and consequently higher doses of everolimus cannot be recommended.
 Out of 279 patients, 95 (34%) discontinued the study medication with 57 (20%) doing so because of adverse reactions.
-The most frequent adverse reactions leading to discontinuation of everolimus when used at this higher dose were injury, poisoning and procedural complications (everolimus 1.5 mg: 5%, everolimus 3 mg: 7%, and control: 2%), infections (2%, 6%, and 3%,respectively), renal and urinary disorders (4%, 7%, and 4%, respectively) and gastrointestinal disorders (1%, 3%, and 2%).
-The combination of fixed dose everolimus and standard doses of cyclosporine in previous kidney clinical trials resulted in frequent elevations of serum creatinine with higher mean and median serum creatinine values observed than in the current study with reduced exposure cyclosporine.
-These results indicate that everolimus increases the cyclosporine-induced nephrotoxicity; and therefore should only be used in a concentration-controlled regimen with reduced exposure cyclosporine [see Boxed Warnings, Indications and Usage (1.1), Warnings and Precautions (5.6)].
-Liver transplantation The data described below reflect exposure to everolimus starting 30 days after transplantation in an open-label, randomized trial of liver transplant patients.
-Seven hundred and nineteen (719) patients who fulfilled the inclusion/exclusion criteria [see Clinical Studies section (14.2)] were randomized into one of the three treatment groups of the study.
-During the first 30 days prior to randomization patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil (about 70 to 80% received MMF).
+The most frequent adverse reactions leading to discontinuation of everolimus when used at this higher dose were injury, poisoning and procedural complications (everolimus 1.5 mg: 5%, everolimus 3 mg: 7%, and control: 2%), infections (2%, 6%, and 3%, respectively), renal and urinary disorders (4%, 7%, and 4%, respectively), and gastrointestinal disorders (1%, 3%, and 2%).
+The combination of fixed-dose everolimus and standard doses of cyclosporine in previous kidney clinical trials resulted in frequent elevations of serum creatinine with higher mean and median serum creatinine values observed than in the current study with reduced exposure cyclosporine.
+These results indicate that everolimus increases the cyclosporine-induced nephrotoxicity, and, therefore, should only be used in a concentration-controlled regimen with reduced exposure cyclosporine [see Boxed Warning, Indications and Usage (1.1), Warnings and Precautions (5.6)].
+Liver Transplantation The data described below reflect exposure to everolimus starting 30 days after transplantation in an open-label, randomized trial of liver transplant patients.
+Seven hundred and nineteen (719) patients who fulfilled the inclusion/exclusion criteria [see Clinical Studies (14.2)] were randomized into one of the three treatment groups of the study.
+During the first 30 days prior to randomization, patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil (about 70% to 80% received MMF).
 No induction antibody was administered.
-At randomization, MMF was discontinued and patients were randomized to everolimus initial dose of 1 mg twice per day (2 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol specified target troughs 3 to 5 ng/mL] (N=245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol specified target troughs 8 to 12 ng/mL up to Month 4 post-transplant, then 6 to 10 ng/mL Month 4 through Month 12 post-transplant] (N=241).
+At randomization, MMF was discontinued and patients were randomized to everolimus initial dose of 1 mg twice per day (2 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol specified target troughs 3 to 5 ng/mL] (N=245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol-specified target troughs 8 to 12 ng/mL up to Month 4 posttransplant, then 6 to 10 ng/mL Month 4 through Month 12 posttransplant] (N=241).
 A third randomized group was discontinued prematurely [see Clinical Studies (14.2)] and is not described in this section.
 The population was between 18 and 70 years, more than 50% were 50 years of age (mean age was 54 years in the everolimus group, 55 years in the tacrolimus control group); 74% were male in both everolimus and control groups, respectively, and a majority were Caucasian (86% everolimus group, 80% control group).
 Demographic characteristics were comparable between treatment groups.
 The most frequent diseases leading to transplantation were balanced between groups.
 The most frequent causes of end-stage liver disease (ESLD) were alcoholic cirrhosis, hepatitis C, and hepatocellular carcinoma and were balanced between groups.
-Twenty-seven percent discontinued study drug in the everolimus group compared with 22% for the tacrolimus control group during the first 12 months of study.
+Twenty-seven percent (27%) discontinued study drug in the everolimus group compared with 22% for the tacrolimus control group during the first 12 months of study.
 The most common reason for discontinuation of study medication was due to adverse reactions (19% and 11%, respectively), including proteinuria, recurrent hepatitis C, and pancytopenia in the everolimus group.
 At 24 months, the rate of discontinuation of study medication in liver transplant patients was greater for the everolimus group (42%) compared to tacrolimus control group (33%).
-The overall incidences of serious adverse reactions were 50% (122/245) in the everolimus group and 43% (104/241) in the control group at 12 months and similar at 24 months (56% and 54% respectively).
+The overall incidences of serious adverse reactions were 50% (122/245) in the everolimus group and 43% (104/241) in the control group at 12 months and similar at 24 months (56% and 54%, respectively).
 Infections and infestations were reported as serious adverse reactions with the highest incidence followed by gastrointestinal disorders and hepatobiliary disorders.
 During the first 12 months of study, 13 deaths were reported in the everolimus group (one patient never took everolimus).
-In the same 12 month period, 7 deaths were reported in the tacrolimus control group.
+In the same 12- month period, 7 deaths were reported in the tacrolimus control group.
 Deaths occurred in both groups for a variety of reasons and were mostly associated with liver-related issues, infections and sepsis.
 In the following 12 months of study, four additional deaths were reported in each treatment group.
 The most common adverse reactions (reported for greater or equal to 10% patients in any group) in the everolimus group were: diarrhea, headache, peripheral edema, hypertension, nausea, pyrexia, abdominal pain, and leukopenia (see Table 3).
-Infections The overall incidence of infections reported as adverse reactions was 50% for everolimus and 44% in the control group and similar at 24 months (56% and 52% respectively).
-The types of infections were reported as follows: bacterial 16% vs 12%, viral 17% vs 13%; and fungal infections 2% vs 5% for everolimus and control, respectively.
-[see Warnings and Precautions (5.3)] Wound Healing and Fluid Collections Wound healing complications were reported as adverse reactions for 11% of patients in the everolimus group compared to 8% of patients in the control group up to 24 months.
+Infections The overall incidence of infections reported as adverse reactions was 50% for everolimus and 44% in the control group and similar at 24 months (56% and 52%, respectively).
+The types of infections were reported as follows: bacterial 16% vs 12%, viral 17% vs 13%; and fungal infections 2% vs 5% for everolimus and control, respectively [see Warnings and Precautions (5.3)].
+Wound Healing and Fluid Collections Wound healing complications were reported as adverse reactions for 11% of patients in the everolimus group compared to 8% of patients in the control group up to 24 months.
 Pleural effusions were reported in 5% in both groups, and ascites in 4% of patients in the everolimus group and 3% in the control arm.
 Neoplasms Malignant and benign neoplasms were reported as adverse reactions in 4% of patients in the everolimus group and 7% in the control group at 12 months.
-In the everolimus group 3 malignant tumors were reported compared to 9 cases in the control group.
+In the everolimus group, 3 malignant tumors were reported compared to 9 cases in the control group.
 For the everolimus group this included lymphoma, lymphoproliferative disorder and a hepatocellular carcinoma, and for the control group included Kaposi’s sarcoma (2), metastatic colorectal cancer, glioblastoma, malignant hepatic neoplasm, pancreatic neuroendocrine tumor, hemophagocytic histiocytosis, and squamous cell carcinomas.
-At 24 months the rates of malignancies were similar (10% and 11% respectively) [see Boxed Warning and Warnings and Precautions (5.2)].
+At 24 months, the rates of malignancies were similar (10% and 11%, respectively) [see Boxed Warning, Warnings and Precautions (5.2)].
 Lipid Abnormalities Hyperlipidemia adverse reactions (including the preferred terms: hyperlipidemia, hypercholesterolemia, blood cholesterol increased, blood triglycerides increased, hypertriglyceridemia lipids increased, total cholesterol/HDL ratio increased, and dyslipidemia) were reported for 24% everolimus patients, and 10% control patients at 12 months.
-Results were similar at 24 months (28% and 12% respectively).
-New Onset of Diabetes After Transplant (NODAT) Of the patients without diabetes mellitus at randomization, NODAT was reported in 32% in the everolimus group compared to 29% in the control group at 12 months and similar at 24 months.
+Results were similar at 24 months (28% and 12%, respectively).
+New Onset of Diabetes after Transplant (NODAT) Of the patients without diabetes mellitus at randomization, NODAT was reported in 32% in the everolimus group compared to 29% in the control group at 12 months and similar at 24 months.
 Table 3 compares the incidence of treatment-emergent adverse reactions reported with an incidence of greater than or equal to 10% for patients receiving everolimus with reduced exposure tacrolimus or standard dose tacrolimus from randomization to 24 months.
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
-Table 3.
-Incidence Rates of most Frequent (Greater than or Equal to 10% in Any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term and Treatment at 12 Months and 24 Months after Liver Transplantation (Safety population)
 
-| Preferred System Organ Class Preferred Term | 12 month |  | 24 month |  |
+Table 3.
+Incidence Rates of Most Frequent (Greater Than or Equal to 10% in Any Treatment Group) Adverse Reactions at 12 Months and 24 Months After Liver Transplantation (Safety Population*)
+
+| Adverse reactions | 12 months |  | 24 months |  |
 | --- | --- | --- | --- | --- |
-| Everolimus with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=241n (%) | Everolimus with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=242 n (%) |  |
-| Any Adverse Reaction/Infection | 232 (95) | 229 (95) | 236 (96) | 237 (98) |
+| Everolimus with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=241 n (%) | Everolimus with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=242 n (%) |  |
+| Any adverse reaction/infection | 232 (95) | 229 (95) | 236 (96) | 237 (98) |
 | Blood & lymphatic system disorders | 66 (27) | 47 (20) | 79 (32) | 58 (24) |
 | -Leukopenia | 29 (12) | 12 (5) | 31 (13) | 12 (5) |
 | Gastrointestinal disorders | 136 (56) | 121 (50) | 148 (60) | 138 (57) |
@@ -158,7 +159,7 @@ Incidence Rates of most Frequent (Greater than or Equal to 10% in Any Treatment 
 | -Pyrexia | 32 (13) | 25 (10) | 43 (18) | 28 (12) |
 | -Fatigue | 22 (9) | 26 (11) | 27 (11) | 28 (12) |
 | Infections and infestations | 123 (50) | 105 (44) | 135 (56) | 125 (52) |
-| -Hepatitis C* | 28 (11) | 19 (8) | 33 (14) | 24 (10) |
+| -Hepatitis C** | 28 (11) | 19 (8) | 33 (14) | 24 (10) |
 | Investigations | 81 (33) | 78 (32) | 92 (38) | 98 (41) |
 | -Liver function test abnormal | 16 (7) | 24 (10) | 19 (8) | 25 (10) |
 | Metabolism and nutrition disorders | 111(45) | 92(38) | 134(55) | 106(44) |
@@ -167,14 +168,19 @@ Incidence Rates of most Frequent (Greater than or Equal to 10% in Any Treatment 
 | -Headache | 47 (19) | 46 (19) | 53 (22) | 54 (22) |
 | -Tremor | 23 (9) | 29 (12) | 25 (10) | 37 (15) |
 | -Insomnia | 14 (6) | 19 (8) | 17 (7) | 24 (10) |
-| Renal and urinary disorder | 49(20) | 53(22) | 67(27) | 73(30) |
+| Renal and urinary disorders | 49(20) | 53(22) | 67(27) | 73(30) |
 | -Renal failure | 13(5) | 17(7) | 24(10) | 37(15) |
 | Vascular disorders | 56 (23) | 57 (24) | 72 (29) | 68 (28) |
 | -Hypertension | 42 (17) | 38 (16) | 52 (21) | 44 (18) |
 
-Primary system organ classes are presented alphabetically. * The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment. ** No de novo hepatitis C cases were reported Less common adverse reactions, occurring overall in greater than or equal to 1% to less than10% of either kidney or liver transplant patients treated with everolimus include: Blood and Lymphatic System Disorders: anemia, leukocytosis, lymphadenopathy, neutropenia, pancytopenia, thrombocythemia, thrombocytopenia Cardiac and Vascular Disorders: angina pectoris, atrial fibrillation, cardiac failure congestive, palpitations, tachycardia, hypertension including hypertensive crisis, hypotension, deep vein thrombosis Endocrine Disorders: Cushingoid, hyperparathyroidism, hypothyroidism Eye Disorders: cataract, conjunctivitis, vision blurred Gastrointestinal Disorders: abdominal distention, abdominal hernia, ascites, constipation, dyspepsia, dysphagia, epigastric discomfort, flatulence, gastritis, gastroesophageal reflux disease, gingival hypertrophy, hematemesis, hemorrhoids, ileus, mouth ulceration, peritonitis, stomatitis General Disorders and Administrative Site Conditions: chest discomfort, chest pain, chills, fatigue, incisional hernia, inguinal hernia, malaise, edema including generalized edema, pain Hepatobiliary Disorders: hepatic enzyme increased, bile duct stenosis, bilirubin increased, cholangitis, cholestasis, hepatitis (non-infectious) Infections and Infestations: BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)] Injury Poisoning and Procedural Complications: incision site complications including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intraabdominal fluid collection, impaired healing, lymophocele, lymphorrhea Investigations: blood alkaline phosphatase increased, blood creatinine increased, blood glucose increased, hemoglobulin decreased, white blood cell count decreased, transaminases increased Metabolism and Nutrition Disorders: blood urea increased, acidosis, anorexia, dehydration, diabetes mellitus [see Warnings and Precautions (5.16)], decreased appetite, fluid retention, gout, hypercalcemia, hypertriglyceridemia, hyperuricemia, hypocalcemia, hypokalemia, hypoglycemia, hypomagnesemia, hyponatremia, iron deficiency, new onset diabetes mellitus, vitamin B12 deficiency Musculoskeletal and Connective Tissues Disorders: arthralgia, joint swelling, muscle spasms, muscular weakness, musculoskeletal pain, myalgia, osteoarthritis, osteonecrosis, osteopenia, osteoporosis, spondylitis Nervous System Disorders: dizziness, hemiparesis, hypoesthesia, lethargy, migraine, neuralgia, paresthesia, somnolence, syncope, tremor Psychiatric Disorders: agitation, anxiety, depression, hallucination Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, nocturia, pollakiuria, polyuria, proteinuria [see Warnings and Precautions (5.12)], pyuria, renal artery thrombosis [see Boxed Warning and Warnings and Precautions (5.4)], acute renal failure, renal impairment [see Warnings and Precautions (5.6)], renal tubular necrosis, urinary retention Reproductive System and Breast Disorders: amenorrhea, benign prostatic hyperplasia, erectile dysfunction, ovarian cyst, scrotal edema Respiratory, Thoracic, Mediastinal Disorders: atelectasis, bronchitis, dyspnea, cough, epistaxis, lower respiratory tract infection, nasal congestion, oropharyngeal pain, pleural effusions, pulmonary edema, rhinorrhea, sinus congestion, wheezing Skin and Subcutaneous Tissue Disorders: acne, alopecia, dermatitis acneiform, ecchymosis, hirsutism, hyperhydrosis, hypertrichosis, night sweats, pruritus, rash Vascular Disorders: venous thromboembolism (including deep vein thrombosis), phlebitis, pulmonary embolism Less common, serious adverse reactions occurring overall in less than1% of either kidney or liver transplant patients treated with everolimus include: • Angioedema [see Warnings and Precautions (5.8)] • Interstitial Lung Disease/Non-Infectious Pneumonitis [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)] • Pericardial effusions [see Warnings and Precautions (5.9)] • Pancreatitis • Thrombotic Microangiopathy (TMA), Thrombotic Thrombocytopenic Purpura (TTP), and Hemolytic Uremic Syndrome (HUS) [see Warnings and Precautions (5.15)]
+* The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment.
+Primary system organ classes are presented alphabetically. ** No de novo hepatitis C cases were reported.
+
+Less Common Adverse Reactions
+
+Less common adverse reactions, occurring overall in greater than or equal to 1% to less than10% of either kidney or liver transplant patients treated with everolimus include: Blood and Lymphatic System Disorders: anemia, leukocytosis, lymphadenopathy, neutropenia, pancytopenia, thrombocythemia, thrombocytopenia Cardiac and Vascular Disorders: angina pectoris, atrial fibrillation, cardiac failure congestive, palpitations, tachycardia, hypertension, including hypertensive crisis, hypotension, deep-vein thrombosis Endocrine Disorders: Cushingoid, hyperparathyroidism, hypothyroidism Eye Disorders: cataract, conjunctivitis, vision blurred Gastrointestinal Disorders: abdominal distention, abdominal hernia, ascites, constipation, dyspepsia, dysphagia, epigastric discomfort, flatulence, gastritis, gastroesophageal reflux disease, gingival hypertrophy, hematemesis, hemorrhoids, ileus, mouth ulceration, peritonitis, stomatitis General Disorders and Administrative Site Conditions: chest discomfort, chest pain, chills, fatigue, incisional hernia, inguinal hernia, malaise, edema, including generalized edema, pain Hepatobiliary Disorders: hepatic enzyme increased, bile duct stenosis, bilirubin increased, cholangitis, cholestasis, hepatitis (non-infectious) Infections and Infestations: BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)] Injury Poisoning and Procedural Complications: incision site complications, including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intra-abdominal fluid collection, impaired healing, lymophocele, lymphorrhea Investigations: blood alkaline phosphatase increased, blood creatinine increased, blood glucose increased, hemoglobin decreased, white blood cell count decreased, transaminases increased Metabolism and Nutrition Disorders: blood urea increased, acidosis, anorexia, dehydration, diabetes mellitus [see Warnings and Precautions (5.16)], decreased appetite, fluid retention, gout, hypercalcemia, hypertriglyceridemia, hyperuricemia, hypocalcemia, hypokalemia, hypoglycemia, hypomagnesemia, hyponatremia, iron deficiency, new onset diabetes mellitus, vitamin B12 deficiency Musculoskeletal and Connective Tissues Disorders: arthralgia, joint swelling, muscle spasms, muscular weakness, musculoskeletal pain, myalgia, osteoarthritis, osteonecrosis, osteopenia, osteoporosis, spondylitis Nervous System Disorders: dizziness, hemiparesis, hypoesthesia, lethargy, migraine, neuralgia, paresthesia, somnolence, syncope, tremor Psychiatric Disorders: agitation, anxiety, depression, hallucination Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, nocturia, pollakiuria, polyuria, proteinuria [see Warnings and Precautions (5.12)], pyuria, renal artery thrombosis [see Boxed Warning, Warnings and Precautions (5.4)], acute renal failure, renal impairment [see Warnings and Precautions (5.6)], renal tubular necrosis, urinary retention Reproductive System and Breast Disorders: amenorrhea, benign prostatic hyperplasia, erectile dysfunction, ovarian cyst, scrotal edema Respiratory, Thoracic, Mediastinal Disorders: atelectasis, bronchitis, dyspnea, cough, epistaxis, lower respiratory tract infection, nasal congestion, oropharyngeal pain, pleural effusions, pulmonary edema, rhinorrhea, sinus congestion, wheezing Skin and Subcutaneous Tissue Disorders: acne, alopecia, dermatitis acneiform, ecchymosis, hirsutism, hyperhidrosis, hypertrichosis, night sweats, pruritus, rash Vascular Disorders: venous thromboembolism (including deep vein thrombosis), phlebitis, pulmonary embolism Less common, serious adverse reactions occurring overall in less than1% of either kidney or liver transplant patients treated with everolimus include: • Angioedema [see Warnings and Precautions (5.8)] • Interstitial Lung Disease/Non-Infectious Pneumonitis [see Warnings and Precautions (5.10), Adverse Reactions (6.1)] • Pericardial Effusions [see Warnings and Precautions (5.9)] • Pancreatitis • Thrombotic Microangiopathy (TMA), Thrombotic Thrombocytopenic Purpura (TTP), and Hemolytic Uremic Syndrome (HUS) [see Warnings and Precautions (5.15)]
 
 ## 6.3 Postmarketing Experience
 
 Adverse reactions identified from the postmarketing use of the combination regimen of everolimus and cyclosporine that are not specific to any one transplant indication include angioedema [see Warnings and Precautions (5.8)], erythroderma, leukocytoclastic vasculitis, pancreatitis, pulmonary alveolar proteinosis, and pulmonary embolism.
-There have also been reports of male infertility with mTOR inhibitors including everolimus [see Warnings and Precautions (5.18)].
+There have also been reports of male infertility with mTOR inhibitors, including everolimus [see Warnings and Precautions (5.18)].

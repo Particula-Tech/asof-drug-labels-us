@@ -8,7 +8,7 @@ Description of Everolimus Tablets
 | Dosage Strength | 0.25 mg | 0.5 mg | 0.75 mg | 1 mg |
 | --- | --- | --- | --- | --- |
 | Appearance | White to off white round shaped tablets debossed with "EVR" on one side and "25" on other side. | White to off white round shaped tablets debossed with "EVR" on one side and "50" on other side. | White to off white round shaped tablets debossed with "EVR" on one side and "75" on other side. | White to off white round shaped tablets debossed with "EVR" on one side and "100" on other side. |
-| NDC Number Bottles of 60 | -- | -- | -- | 67877-721-60 |
+| NDC Number Bottles of 60 | 67877-718-60 | 67877-719-60 | 67877-720-60 | 67877-721-60 |
 | NDC Number Blister | 67877-718-33 | 67877-719-33 | 67877-720-33 | 67877-721-33 |
 | NDC Number Carton | 67877-718-31 | 67877-719-31 | 67877-720-31 | 67877-721-31 |
 

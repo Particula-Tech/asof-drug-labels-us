@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Everolimus was not carcinogenic in mice or rats when administered daily by oral gavage for 2 years at doses up to 0.9 mg/kg, the highest dose tested.
 In these studies, AUCs in mice were higher (at least 20 times) than those in humans receiving 0.75 mg twice daily, and AUCs in rats were in the same range as those in humans receiving 0.75 mg twice daily.
