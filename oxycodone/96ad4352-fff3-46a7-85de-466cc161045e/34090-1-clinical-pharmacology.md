@@ -6,6 +6,7 @@ Oxycodone is a full opioid agonist and is relatively selective for the mu-opioid
 The principal therapeutic action of oxycodone is analgesia.
 Like all full opioid agonists, there is no ceiling effect for analgesia with oxycodone.
 Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
+
 The precise mechanism of the analgesic action is unknown.
 However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug.
 
@@ -29,7 +30,7 @@ The causal role of opioids in the clinical syndrome of hypogonadism is unknown b
 Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
-Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
 The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 Concentration-Adverse Reaction Relationships There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
@@ -54,7 +55,9 @@ Oxycodone Hydrochloride Tablets tablets are designed to provide immediate releas
 | Oxycodone Hydrochloride Tablets 5 mg tabs q6h x 14 doses | 113.3±24.0 | 15.7±3.2 | 1.3±0.3 | 7.4±1.8 | 9.4±2.0 | n/a |
 | Oxycodone Hydrochloride Tablets 3.33 mg (3.33 mL) oral sol’n. q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
 
-Absorption About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
+Absorption
+
+About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
 This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
 The relative oral bioavailability of Oxycodone Hydrochloride Tablets 15 mg and 30 mg tablets, compared to the 5 mg Oxycodone Hydrochloride Tablets, is 96% and 101% respectively.
 Oxycodone Hydrochloride Tablets 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg Oxycodone Hydrochloride Tablets (see Table 2 for pharmacokinetic parameters).
@@ -65,6 +68,7 @@ Food Effect A single-dose food effect study was conducted in normal volunteers u
 The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 2).
 In addition, food caused a delay in Tmax (1.25 to 2.54 hour).
 Similar effects of food are expected with the 15 mg and 30 mg tablets.
+
 Distribution Following intravenous administration, the volume of distribution (Vss) for oxycodone was 2.6 L/kg.
 Plasma protein binding of oxycodone at 37°C and a pH of 7.4 was about 45%.
 Oxycodone has been found in breast milk [see Special Populations (8.2)].

@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Oxycodone Hydrochloride Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving Oxycodone Hydrochloride Tablets unsecured can pose a deadly risk to others in the home.
+Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Oxycodone Hydrochloride Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving Oxycodone Hydrochloride Tablets unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Oxycodone Hydrochloride Tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
 Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
@@ -48,7 +48,7 @@ which may be life-threatening if not recognized and treated [see Warnings and Pr
 
 Embryo-Fetal Toxicity Inform female patients of reproductive potential that Oxycodone Hydrochloride Tablets can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Lactation Advise nursing mothers to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
 Instruct nursing mothers to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
 Infertility Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
@@ -56,4 +56,4 @@ Driving or Operating Machinery Inform patients that Oxycodone Hydrochloride Tabl
 Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.14)].
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Revised: 03/2021
+Dispense with Medication Guide available at www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Revised: 12/2023
