@@ -2,15 +2,16 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypersensitivity [see Contraindications (4)]
-- Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
-- Myelosuppression [see Warnings and Precautions (5.2)]
-- Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
-- Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
-- Hepatic Toxicity [see Warnings and Precautions (5.5)]
-- Exacerbation of Radiation Therapy Toxicity [see Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
-- Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
+- •Hypersensitivity [see Contraindications (4)]
+- •Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
+- •Myelosuppression [see Warnings and Precautions (5.2)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.3)]
+- •Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.4)]
+- •Hemolytic Uremic Syndrome [see Warnings and Precautions (5.5)]
+- •Hepatic Toxicity [see Warnings and Precautions (5.6)]
+- •Exacerbation of Radiation Therapy Toxicity [see Warnings and Precautions (5.8)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.9)]
+- •Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -66,12 +67,12 @@ Table 6: Selected Laboratory Abnormalities Occurring in Patients Receiving Singl
 
 Additional adverse reactions include the following:
 
-- Transfusion requirements: Red blood cell transfusions (19%); platelet transfusions (<1%)
-- Edema: Edema (13%), peripheral edema (20%), generalized edema (<1%)
-- Flu-like symptoms: Fever, asthenia, anorexia, headache, cough, chills, myalgia, insomnia, rhinitis, sweating, and/or malaise (19%)
-- Infection: Sepsis (<1%)
-- Extravasation: Injection-site reactions (4%)
-- Allergic: Bronchospasm (<2%); anaphylactoid reactions
+- •Transfusion requirements: Red blood cell transfusions (19%); platelet transfusions (<1%)
+- •Edema: Edema (13%), peripheral edema (20%), generalized edema (<1%)
+- •Flu-like symptoms: Fever, asthenia, anorexia, headache, cough, chills, myalgia, insomnia, rhinitis, sweating, and/or malaise (19%)
+- •Infection: Sepsis (<1%)
+- •Extravasation: Injection-site reactions (4%)
+- •Allergic: Bronchospasm (<2%); anaphylactoid reactions
 
 Ovarian Cancer
 
@@ -157,11 +158,11 @@ Non-Small Cell Lung Cancer
 
 Tables 11 and 12 present the incidence of selected adverse reactions and laboratory abnormalities, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the gemcitabine with cisplatin arm, reported in a randomized trial (Study 3) of gemcitabine with cisplatin (n=260) administered in 28-day cycles as compared to cisplatin alone (n=262) in patients receiving first-line treatment for locally advanced or metastatic NSCLC [see Clinical Studies (14.3)].
 
-Patients randomized to gemcitabine with cisplatin received a median of 4 cycles of treatment and those randomized to cisplatin alone received a median of 2 cycles of treatment.
-In this trial, the requirement for dose adjustments (>90% versus 16%), discontinuation of treatment for adverse reactions (15% versus 8%), and the proportion of patients hospitalized (36% versus 23%) were all higher for patients receiving gemcitabine with cisplatin compared to those receiving cisplatin alone.
-The incidence of febrile neutropenia (3% versus <1%), sepsis (4% versus 1%), Grade 3 cardiac dysrhythmias (3% versus <1%) were all higher in the gemcitabine/cisplatin arm compared to the cisplatin alone arm.
-The two-drug combination was more myelosuppressive with 4 (1.5%) possibly treatment-related deaths, including 3 resulting from myelosuppression with infection and one case of renal failure associated with pancytopenia and infection.
-No deaths due to treatment were reported on the cisplatin arm.
+1. Patients randomized to gemcitabine with cisplatin received a median of 4 cycles of treatment and those randomized to cisplatin alone received a median of 2 cycles of treatment.
+   In this trial, the requirement for dose adjustments (>90% versus 16%), discontinuation of treatment for adverse reactions (15% versus 8%), and the proportion of patients hospitalized (36% versus 23%) were all higher for patients receiving gemcitabine with cisplatin compared to those receiving cisplatin alone.
+   The incidence of febrile neutropenia (3% versus <1%), sepsis (4% versus 1%), Grade 3 cardiac dysrhythmias (3% versus <1%) were all higher in the gemcitabine/cisplatin arm compared to the cisplatin alone arm.
+   The two-drug combination was more myelosuppressive with 4 (1.5%) possibly treatment-related deaths, including 3 resulting from myelosuppression with infection and one case of renal failure associated with pancytopenia and infection.
+   No deaths due to treatment were reported on the cisplatin arm.
 
 Table 11: Selected Adverse Reactions Occurring in ≥10% of Patients Receiving Gemcitabine with Cisplatin and at Higher Incidence than in Patients Receiving Single Agent Cisplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3–4)] in Study 3Grade based on National Cancer Institute CTC.
 
@@ -209,7 +210,7 @@ Table 12: Selected Laboratory Abnormalities Occurring in >10% of Patients Receiv
 | Hypomagnesemia | 30 | 4 | 3 | 17 | 2 | 0 |
 | Hypocalcemia | 18 | 2 | 0 | 7 | 0 | <1 |
 
-Tables 13 and 14 present the incidence of selected adverse reactions and laboratory abnormalities, occurring in ≥10% of gemcitabine treated patients and at a higher incidence in the gemcitabine with cisplatin arm, reported in a randomized trial (Study 4) of gemcitabine with cisplatin (n=69) administered in 21-day cycles as compared to etoposide with cisplatin (n=66) in patients receiving first-line treatment for locally advanced or metastatic NSCLC [see Clinical Studies (14.3)].
+Tables 13 and 14 present the incidence of selected adverse reactions and laboratory abnormalities, occurring in ≥10% of gemcitabine-treated patients and at a higher incidence in the gemcitabine with cisplatin arm, reported in a randomized trial (Study 4) of gemcitabine with cisplatin (n=69) administered in 21-day cycles as compared to etoposide with cisplatin (n=66) in patients receiving first-line treatment for locally advanced or metastatic NSCLC [see Clinical Studies (14.3)].
 Additional clinically significant adverse reactions are provided following Table 14.
 
 Patients in the gemcitabine/cisplatin (GC) arm received a median of 5 cycles and those in the etoposide/cisplatin (EC) arm received a median of 4 cycles.
@@ -242,7 +243,7 @@ Table 14: Selected Laboratory Abnormalities Occurring in Patients Receiving Gemc
 
 | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory AbnormalityRegardless of causality. | Gemcitabine/CisplatinN=67–69; all gemcitabine/cisplatin patients with laboratory or non-laboratory data. |  |  | Etoposide/CisplatindN=57–63; all etoposide/cisplatin patients with laboratory or non-laboratory data. |  |  |
+| Laboratory AbnormalityRegardless of causality. | Gemcitabine/CisplatinN=67–69; all gemcitabine/cisplatin patients with laboratory or non-laboratory data. |  |  | Etoposide/CisplatinN=57–63; all etoposide/cisplatin patients with laboratory or non-laboratory data. |  |  |
 | Hematologic |  |  |  |  |  |  |
 | Anemia | 88 | 22 | 0 | 77 | 13 | 2 |
 | Neutropenia | 88 | 36 | 28 | 87 | 20 | 56 |
@@ -270,7 +271,7 @@ Cardiovascular: Congestive heart failure, myocardial infarction, arrhythmias, su
 
 Vascular: Peripheral vasculitis, gangrene, capillary leak syndrome
 
-Skin: Cellulitis, pseudocellulitis, severe skin reactions, including desquamation and bullous skin eruptions
+Skin: Cellulitis; pseudocellulitis; severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP); desquamation and bullous skin eruptions
 
 Hepatic: Hepatic failure, hepatic veno-occlusive disease
 
