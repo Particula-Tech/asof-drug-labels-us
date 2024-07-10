@@ -11,14 +11,14 @@ Decitabine for Injection Regimen Options
 
 Three Day Regimen
 
-Administer Decitabine for Injection at a dose of 15 mg/m 2 by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
+Administer Decitabine for Injection at a dose of 15 mg/m 2by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
 Repeat cycles every 6 weeks upon hematologic recovery (ANC at least 1,000/μL and platelets at least 50,000/μL) for a minimum of 4 cycles.
 A complete or partial response may take longer than 4 cycles.
 Delay and reduce dose for hematologic toxicity [see Dosage and Administration (2.2)].
 
 Five Day Regimen
 
-Administer Decitabine for Injection at a dose of 20 mg/m 2 by continuous intravenous infusion over 1 hour daily for 5 days.
+Administer Decitabine for Injection at a dose of 20 mg/m 2by continuous intravenous infusion over 1 hour daily for 5 days.
 Delay and reduce dose for hematologic toxicity [see Dosage and Administration (2.2)].
 Repeat cycles every 4 weeks upon hematologic recovery (ANC at least 1,000/μL and platelets at least 50,000/μL) for a minimum of 4 cycles.
 A complete or partial response may take longer than 4 cycles.
@@ -34,9 +34,9 @@ Hematologic Toxicity
 
 If hematologic recovery from a previous Decitabine for Injection treatment cycle requires more than 6 weeks, delay the next cycle of Decitabine for Injection therapy and reduce Decitabine for Injection dose temporarily by following this algorithm:
 
-- Recovery requiring more than 6, but less than 8 weeks: delay Decitabine for Injection dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy.
+- Recovery requiring more than 6, but less than 8 weeks: delay Decitabine for Injection dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m 2every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy.
 - Recovery requiring more than 8, but less than 10 weeks: Perform bone marrow aspirate to assess for disease progression.
-  In the absence of progression, delay Decitabine for Injection dosing for up to 2 more weeks and reduce the dose to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy, then maintain or increase dose in subsequent cycles as clinically indicated.
+  In the absence of progression, delay Decitabine for Injection dosing for up to 2 more weeks and reduce the dose to 11 mg/m 2every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy, then maintain or increase dose in subsequent cycles as clinically indicated.
 
 Non-hematologic Toxicity
 

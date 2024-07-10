@@ -10,10 +10,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The safety of Decitabine for Injection was studied in 3 single-arm studies (N = 66, N = 98, N = 99) and 1 controlled supportive care study (N = 83 Decitabine for Injection, N = 81 supportive care).
 The data described below reflect exposure to Decitabine for Injection in 83 patients in the MDS trial.
-In the trial, patients received 15 mg/m 2 intravenously every 8 hours for 3 days every 6 weeks.
+In the trial, patients received 15 mg/m 2intravenously every 8 hours for 3 days every 6 weeks.
 The median number of Decitabine for Injection cycles was 3 (range 0 to 9).
 
-Most Common Adverse Reactions: neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.
+Most Common Adverse Reactions:neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.
 
 Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention and or Dose Modification in the Controlled Supportive Care Study in the decitabine Arm:
 
@@ -154,7 +154,7 @@ Table 1 Adverse Reactions Reported in ≥ 5% of Patients in the decitabine Group
 | Hypotension NOS | 5 (6) | 4 (5) |
 | Hematoma NOS | 4 (5) | 3 (4) |
 
-In a single-arm MDS study (N=99), Decitabine was dosed at 20 mg/m 2 intravenously, infused over one hour daily for 5 consecutive days of a 4-week cycle.
+In a single-arm MDS study (N=99), Decitabine was dosed at 20 mg/m 2intravenously, infused over one hour daily for 5 consecutive days of a 4-week cycle.
 Table 2 presents all adverse reactions occurring in at least 5% of patients.
 
 Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study *
@@ -256,7 +256,7 @@ Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study *
 | Hypertension | 6 (6) |
 | Hypotension | 11 (11) |
 
-* In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
+*In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
 Thus, not all laboratory abnormalities were recorded as adverse events.
 
 No overall difference in safety was detected between patients > 65 years of age and younger patients in these MDS trials.
@@ -264,7 +264,7 @@ No significant differences in safety were detected between males and females.
 Patients with renal or hepatic dysfunction were not studied.
 Insufficient numbers of non-White patients were available to draw conclusions in these clinical trials.
 
-Serious adverse reactions that occurred in patients receiving decitabine not previously reported in Tables 1 and 2 include:
+Serious adverse reactions that occurred in patients receiving decitabine not previously reported in Tables 1 and 2include:
 
 - Allergic Reaction: hypersensitivity (anaphylactic reaction)
 - Blood and Lymphatic System Disorders: myelosuppression, splenomegaly

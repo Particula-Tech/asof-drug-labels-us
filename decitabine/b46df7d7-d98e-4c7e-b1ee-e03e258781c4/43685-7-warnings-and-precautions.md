@@ -14,7 +14,7 @@ Myelosuppression and worsening neutropenia may occur more frequently in the firs
 
 ## 5.2 Embryo-Fetal Toxicity
 
-Based on findings from human data, animal studies and its mechanism of action, Decitabine for Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
+Based on findings from human data, animal studies and its mechanism of action, Decitabine for Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)and Nonclinical Toxicology (13.1)].
 In preclinical studies in mice and rats, decitabine caused adverse developmental outcomes including embryo-fetal lethality and malformations.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception while receiving Decitabine for Injection and for 6 months following the last dose.
