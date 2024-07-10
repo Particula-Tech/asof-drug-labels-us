@@ -10,15 +10,7 @@ Blood pressure, heart rate and oxygen levels will be monitored both continuously
 
 Manufactured For:
 
-Accord Healthcare, Inc.,
-
-1009, Slater Road,
-
-Suite 210-B,
-
-Durham, NC 27703,
-
-USA.
+Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
@@ -26,8 +18,8 @@ Intas Pharmaceuticals Limited,
 
 Ahmedabad 380 054, India.
 
-10 1651 4 6020022
+10 1651 5 6023292
 
-Issued October, 2022
+Issued December, 2023
 
 INP163

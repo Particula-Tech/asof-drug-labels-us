@@ -9,17 +9,17 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Most common treatment-emergent adverse reactions, occurring in greater than 2% of patients in both Intensive Care Unit and procedural sedation studies include hypotension, bradycardia and dry mouth.
+Most common treatment-emergent adverse reactions, occurring in greater than 2% of adult patients in both Intensive Care Unit and procedural sedation studies include hypotension, bradycardia and dry mouth.
 
 Intensive Care Unit Sedation
 
 Adverse reaction information is derived from the continuous infusion trials of dexmedetomidine injection for sedation in the Intensive Care Unit setting in which 1,007 adult patients received dexmedetomidine injection.
 The mean total dose was 7.4 mcg/kg (range: 0.8 to 84.1), mean dose per hour was 0.5 mcg/kg/hr (range: 0.1 to 6.0) and the mean duration of infusion of 15.9 hours (range: 0.2 to 157.2).
 The population was between 17 to 88 years of age, 43% ≥65 years of age, 77% male and 93% Caucasian.
-Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 2.
+Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 3.
 The most frequent adverse reactions were hypotension, bradycardia and dry mouth [see Warnings and Precautions (5.2)].
 
-Table 2: Adverse Reactions with an Incidence >2%—Adult Intensive Care Unit Sedation Population <24 hours 26 subjects in the all dexmedetomidine injection group and 10 subjects in the randomized dexmedetomidine injection group had exposure for greater than 24 hours.
+Table 3: Adverse Reactions with an Incidence >2%—Adult Intensive Care Unit Sedation Population <24 hours 26 subjects in the all dexmedetomidine injection group and 10 subjects in the randomized dexmedetomidine injection group had exposure for greater than 24 hours.
 
 | Adverse Event | All Dexmedetomidine injection (N = 1007) (%) | Randomized Dexmedetomidine injection (N = 798) (%) | Placebo (N = 400) (%) | Propofol (N = 188) (%) |
 | --- | --- | --- | --- | --- |
@@ -52,9 +52,9 @@ Table 2: Adverse Reactions with an Incidence >2%—Adult Intensive Care Unit Sed
 | Edema Peripheral | <1% | 0 | 1% | 2% |
 
 Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of dexmedetomidine injection for sedation in the surgical intensive care unit setting in which 387 adult patients received dexmedetomidine injection for less than 24 hours.
-The most frequently observed treatment-emergent adverse events included hypotension, hypertension, nausea, bradycardia, fever, vomiting, hypoxia, tachycardia and anemia (see Table 3).
+The most frequently observed treatment-emergent adverse events included hypotension, hypertension, nausea, bradycardia, fever, vomiting, hypoxia, tachycardia and anemia (see Table 4).
 
-Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
+Table 4: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
 
 | Adverse Event | Randomized Dexmedetomidine (N = 387) | Placebo(N = 379) |
 | --- | --- | --- |
@@ -81,10 +81,10 @@ Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidi
 | Thirst | 2% | <1% |
 
 In a controlled clinical trial, dexmedetomidine injection was compared to midazolam for ICU sedation exceeding 24 hours duration in adult patients.
-Key treatment emergent adverse events occurring in dexmedetomidine or midazolam treated patients in the randomized active comparator continuous infusion long-term intensive care unit sedation study are provided in Table 4.
-The number (%) of subjects who had a dose-related increase in treatment-emergent adverse events by maintenance adjusted dose rate range in the dexmedetomidine injection group is provided in Table 5.
+Key treatment emergent adverse events occurring in dexmedetomidine or midazolam treated adult patients in the randomized active comparator continuous infusion long-term intensive care unit sedation study are provided in Table 5.
+The number (%) of adult subjects who had a dose-related increase in treatment-emergent adverse events by maintenance adjusted dose rate range in the dexmedetomidine injection group is provided in Table 6.
 
-Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or Midazolam-Treated Adult Patients in the Randomized Active Comparator Continuous Infusion Long-Term Intensive Care Unit Sedation Study
+Table 5: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or Midazolam-Treated Adult Patients in the Randomized Active Comparator Continuous Infusion Long-Term Intensive Care Unit Sedation Study
 
 | Adverse Event | Dexmedetomidine (N = 244) | Midazolam(N = 122) |
 | --- | --- | --- |
@@ -112,10 +112,10 @@ Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 
 The following adverse events occurred between 2 and 5% for dexmedetomidine injection and Midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
 
-Table 5.
+Table 6.
 Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emergent Adverse Events by Maintenance Adjusted Dose Rate Range in the dexmedetomidine injection Group
 
-| Dexmedetomidine injection mcg/kg/hr |  |  |  |
+| Dexmedetomidine injection (mcg/kg/hr) |  |  |  |
 | --- | --- | --- | --- |
 | Adverse Event | ≤0.7Average maintenance dose over the entire study drug administration(N = 95) | >0.7 to ≤1.1(N = 78) | >1.1(N = 71) |
 | Constipation | 6% | 5% | 14% |
@@ -126,18 +126,18 @@ Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emerge
 | Respiratory Failure | 2% | 6% | 10% |
 | Acute Respiratory Distress Syndrome | 1% | 3% | 9% |
 
-Procedural Sedation
+Adult Procedural Sedation
 
-Adverse reaction information is derived from the two trials for procedural sedation [see Clinical Studies (14.2)] in which 318 adult patients received dexmedetomidine.
+Adverse reaction information is derived from the two trials for adult procedural sedation [see Clinical Studies (14.2)]in which 318 adult patients received dexmedetomidine.
 The mean total dose was 1.6 mcg/kg (range: 0.5 to 6.7), mean dose per hour was 1.3 mcg/kg/hr (range: 0.3 to 6.1) and the mean duration of infusion of 1.5 hours (range: 0.1 to 6.2).
 The population was between 18 to 93 years of age, ASA I-IV, 30% ≥ 65 years of age, 52% male and 61% Caucasian.
 
-Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 6.
+Treatment-emergent adverse reactions occurring in adults at an incidence of >2% are provided in Table 7.
 The most frequent adverse reactions were hypotension, bradycardia, and dry mouth [see Warnings and Precautions (5.2)].
 Pre- specified criteria for the vital signs to be reported as adverse reactions are footnoted below the table.
 The decrease in respiratory rate and hypoxia was similar between dexmedetomidine and comparator groups in both studies.
 
-Table 6: Adverse Reactions with an Incidence > 2%—Procedural Sedation Population
+Table 7: Adverse Reactions with an Incidence > 2%—Adult Procedural Sedation Population
 
 | Adverse Event | Dexmedetomidine (N = 318) (%) | Placebo (N = 113) (%) |
 | --- | --- | --- |
@@ -151,6 +151,9 @@ Table 6: Adverse Reactions with an Incidence > 2%—Procedural Sedation Populati
 | Hypoxia Hypoxia was defined in absolute and relative terms as SpO 2 < 90% or 10% decrease from baseline. | 2% | 3% |
 | Bradypnea | 2% | 4% |
 
+Pediatric use information is approved for Hospira, Inc.’s PRECEDEX TM(dexmedetomidine hydrochloride) injection.
+However, due to Hospira, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of dexmedetomidine.
@@ -158,7 +161,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hypotension and bradycardia were the most common adverse reactions associated with the use of dexmedetomidine during post approval use of the drug.
 
-Table 7: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidine
+Table 9: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidine
 
 | System Organ Class | Preferred Term |
 | --- | --- |
@@ -168,7 +171,7 @@ Table 7: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidi
 | Gastrointestinal Disorders | Abdominal pain, diarrhea, nausea, vomiting |
 | General Disorders and Administration Site Conditions | Chills, hyperpyrexia, pain, pyrexia, thirst |
 | Hepatobiliary Disorders | Hepatic function abnormal, hyperbilirubinemia |
-| Investigations | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood urea increased, electrocardiogram T wave inversion, gammaglutamyl transferase increased, electrocardiogram QT prolonged |
+| Investigations | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood urea increased, electrocardiogram T wave inversion, gammaglutamyltransferase increased, electrocardiogram QT prolonged |
 | Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia, hypernatremia |
 | Nervous System Disorders | Convulsion, dizziness, headache, neuralgia, neuritis, speech disorder |
 | Psychiatric Disorders | Agitation, confusional state, delirium, hallucination, illusion |

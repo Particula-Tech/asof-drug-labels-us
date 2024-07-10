@@ -5,7 +5,7 @@ Dexmedetomidine injection, USP contains dexmedetomidine hydrochloride as the act
 Dexmedetomidine hydrochloride is a central alpha 2-adrenergic agonist.
 Dexmedetomidine hydrochloride is the S-enantiomer of medetomidine.
 Dexmedetomidine hydrochloride chemical name is 1H-Imidazole, 4-[1-(2,3dimethylphenyl)ethyl]-, monohydrochloride, (S).
-Dexmedetomidine hydrochloride has a molecular weight of 236.7 and the empirical formula is C 13H 16N 2 • HCl and the structural formula is:
+Dexmedetomidine hydrochloride has a molecular weight of 236.7 and the empirical formula is C 13H 16N 2• HCl and the structural formula is:
 
 Dexmedetomidine hydrochloride, USP is a white or almost white powder that is freely soluble in water and has a pKa of 7.1.
 Its partition coefficient in-octanol: water at pH 7.4 is 2.89.
