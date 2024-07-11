@@ -357,8 +357,8 @@ The time to the first adjudicated on-trial relapse was significantly longer in S
 
 Figure 1: Kaplan-Meier Survival Estimates for Time to First Adjudicated On-Trial Relapse – Full Analysis Set
 
-Note: Patients who did not experience an adjudicated on-trial relapse were censored at the end of the study period.
-Abbreviations: CI = confidence interval
+| Note: Patients who did not experience an adjudicated on-trial relapse were censored at the end of the study period. Abbreviations: CI = confidence interval |
+| --- |
 
 SOLIRIS-treated patients experienced similar improvement in time to first adjudicated on-trial relapse with or without concomitant treatment.
 SOLIRIS-treated patients had a 96% relative reduction in the adjudicated on-trial annualized relapse rate (ARR) compared to patients on placebo, as shown in Table 22.

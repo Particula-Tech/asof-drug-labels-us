@@ -20,4 +20,4 @@
 | Tell your healthcare provider about any side effect that bothers you or that does not go away. These are not all the possible side effects of SOLIRIS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
 | General information about the safe and effective use of SOLIRIS. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about SOLIRIS that is written for health professionals. |  |  |  |  |
 | What are the ingredients in SOLIRIS? Active ingredient: eculizumab Inactive ingredients: polysorbate 80 (vegetable origin), sodium chloride, sodium phosphate dibasic, sodium phosphate monobasic, and Water for Injection Manufactured by: Alexion Pharmaceuticals, Inc., 121 Seaport Boulevard, Boston, MA 02210 USA. US License Number 1743 |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  | Revised 3/2024 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  | Revised 06/2024 |

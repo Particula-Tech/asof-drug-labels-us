@@ -47,7 +47,18 @@ Renal Impairment:
 
 Renal function did not affect the pharmacokinetics of eculizumab in PNH (creatinine clearance of 8 mL/min to 396 mL/min calculated using Cockcroft-Gault formula), aHUS (estimated glomerular filtration rate [eGFR] of 5 mL/min/1.73 m2 to105 mL/min/1.73 m2 using the Modification of Diet in Renal Disease [MDRD] formula), or gMG patients (eGFR of 44 mL/min/1.73 m2 to 168 mL/min/1.73 m2 using MDRD formula).
 
-Drug Interactions
+## 12.6 Immunogenicity
 
-Intravenous immunoglobulin (IVIg) treatment may interfere with the endosomal neonatal Fc receptor (FcRn) recycling mechanism of monoclonal antibodies such as eculizumab and thereby decrease serum eculizumab concentrations.
-Drug interaction studies have not been conducted with eculizumab in patients treated with IVIg.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of SOLIRIS or of other eculizumab products.
+
+The immunogenicity of SOLIRIS has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS, gMG, and NMOSD indications, as well as for additional patients with PNH.
+In the PNH population, antibodies to SOLIRIS were detected in 3/196 (2%) patients using the ELISA assay and in 5/161 (3%) patients using the ECL assay during the entire treatment period.
+In the aHUS population, antibodies to SOLIRIS were detected in 3/100 (3%) patients using the ECL assay during the entire treatment period.
+None of the 62 patients with gMG had antibodies to SOLIRIS detected following the 26-week active treatment.
+Two of the 96 (2%) SOLIRIS-treated patients with NMOSD had antibodies to SOLIRIS detected during the entire treatment period.
+
+An ECL based neutralizing assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 5 patients with PNH, the 3 patients with aHUS, and the 2 patients with NMOSD with anti-eculizumab antibody positive samples using the ECL assay.
+Two of 161 patients with PNH (1.2%) and 1 of 100 patients with aHUS (1%), and none of the 96 patients with NMOSD had low positive values for neutralizing antibodies.
+
+No apparent correlation of antibody development to clinical response was observed.

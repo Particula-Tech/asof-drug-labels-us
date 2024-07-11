@@ -251,27 +251,9 @@ Table 9: Adverse Reactions Reported in 5% or More of SOLIRIS-Treated Patients in
 | Skin and subcutaneous tissue disorders |  |  |
 | Alopecia | 5 (5) | 2 (4) |
 
-## 6.2 Immunogenicity
-
-As with all proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to eculizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
-
-The immunogenicity of SOLIRIS has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS, gMG, and NMOSD indications, as well as for additional patients with PNH.
-In the PNH population, antibodies to SOLIRIS were detected in 3/196 (2%) patients using the ELISA assay and in 5/161 (3%) patients using the ECL assay.
-In the aHUS population, antibodies to SOLIRIS were detected in 3/100 (3%) patients using the ECL assay.
-None of the 62 patients with gMG had antibodies to SOLIRIS detected following the 26-week active treatment.
-Two of the 96 (2%) SOLIRIS-treated patients with NMOSD had antibodies to SOLIRIS detected during the entire treatment period.
-
-An ECL based neutralizing assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 5 patients with PNH, the 3 patients with aHUS, and the 2 patients with NMOSD with anti-eculizumab antibody positive samples using the ECL assay.
-Two of 161 patients with PNH (1.2%) and 1 of 100 patients with aHUS (1%), and none of the 96 patients with NMOSD had low positive values for neutralizing antibodies.
-
-No apparent correlation of antibody development to clinical response was observed.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of SOLIRIS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SOLIRIS exposure.
 
-Fatal or serious infections: Neisseria gonorrhoeae, Neisseria meningitidis, Neisseria sicca/subflava, Neisseria spp unspecified
+Fatal or serious infections: Neisseria gonorrhoeae, Neisseria meningitidis, Neisseria sicca/subflava, Neisseria spp unspecified.

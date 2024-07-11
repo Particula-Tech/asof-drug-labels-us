@@ -7,7 +7,7 @@ Life-threatening and fatal meningococcal infections have occurred in both vaccin
 The initiation of SOLIRIS treatment is contraindicated in patients with unresolved serious Neisseria meningitidis infection.
 
 Complete or update meningococcal vaccination (for serogroups A, C, W, Y and B) at least 2 weeks prior to administration of the first dose of SOLIRIS, according to current ACIP recommendations for patients receiving a complement inhibitor.
-Revaccinate patients in accordance with ACIP recommendations considering the duration of therapy with SOLIRIS.
+Revaccinate patients in accordance with ACIP recommendations, considering the duration of therapy with SOLIRIS.
 Note that ACIP recommends an administration schedule in patients receiving complement inhibitors that differs from the administration schedule in the vaccine prescribing information.
 If urgent SOLIRIS therapy is indicated in a patient who is not up to date with meningococcal vaccines according to ACIP recommendations, provide the patient with antibacterial drug prophylaxis and administer meningococcal vaccines as soon as possible.
 Various durations and regimens of antibacterial drug prophylaxis have been considered, but the optimal durations and drug regimens for prophylaxis and their efficacy have not been studied in unvaccinated or vaccinated patients receiving complement inhibitors, including SOLIRIS.
@@ -19,7 +19,7 @@ Closely monitor patients for early signs and symptoms of meningococcal infection
 Inform patients of these signs and symptoms and instruct patients to seek immediate medical care if these signs and symptoms occur.
 Promptly treat known infections.
 Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early.
-Consider interruption of SOLIRIS in patients who are undergoing treatment for serious meningococcal infection, depending on the risks of interrupting treatment in the disease being treated.
+Consider interruption of SOLIRIS in patients who are undergoing treatment for serious meningococcal infection depending on the risks of interrupting treatment in the disease being treated.
 
 SOLIRIS is available only through a restricted program under a REMS [see Warnings and Precautions (5.2)].
 
@@ -44,7 +44,7 @@ Further information is available at www.UltSolREMS.com or 1-888-765-4747.
 
 Serious infections with Neisseria species (other than Neisseria meningitidis), including disseminated gonococcal infections, have been reported.
 
-SOLIRIS blocks terminal complement activation; therefore, patients may have increased susceptibility to infections, especially with encapsulated bacteria, such as infections with Neisseria meningitidis but also Streptococcus pneumoniae, Haemophilus influenzae, and to a lesser extent, Neisseria gonorrhoeae.
+SOLIRIS blocks terminal complement activation; therefore patients may have increased susceptibility to infections, especially with encapsulated bacteria such as infections with Neisseria meningitidis but also Streptococcus pneumoniae, Haemophilus influenzae, and to a lesser extent, Neisseria gonorrhoeae.
 Additionally, Aspergillus infections have occurred in immunocompromised and neutropenic patients.
 Children treated with SOLIRIS may be at increased risk of developing serious infections due to Streptococcus pneumoniae and Haemophilus influenzae type b (Hib).
 Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) infections according to ACIP recommendations.

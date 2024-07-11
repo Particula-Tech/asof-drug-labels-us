@@ -8,7 +8,7 @@ Advise patients of the risk of serious meningococcal infection.
 Inform patients of the need to complete or update their meningococcal vaccinations at least 2 weeks prior to receiving the first dose of SOLIRIS or receive antibacterial drug prophylaxis if SOLIRIS treatment must be initiated immediately and they have not been previously vaccinated.
 Inform patients of the requirement to be revaccinated according to current ACIP recommendations for meningococcal infection while on SOLIRIS therapy [see Warnings and Precautions (5.1)].
 
-Inform patients that vaccination may not prevent serious meningococcal infection and to seek immediate medical attention if the following signs or symptoms occur [see Warnings and Precautions (5.1)]:
+Inform patients that vaccination may not prevent serious meningococcal infection and to seek immediate medical attention if the following signs or symptoms occur[see Warnings and Precautions (5.1)]:
 
 - fever
 - fever and a rash
