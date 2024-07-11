@@ -5,8 +5,11 @@
   "inn": "mirtazapine",
   "labeler": "Viona Pharmaceuticals Inc.",
   "package_ndcs": [
+    "72578-103-69",
     "72578-103-84",
+    "72578-104-69",
     "72578-104-84",
+    "72578-105-69",
     "72578-105-84"
   ],
   "products": [
