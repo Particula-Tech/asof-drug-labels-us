@@ -8,7 +8,7 @@ Increased sweating was noted in 4 of 100 patients, and flushing occurred in 1 of
 
 The following also were reported with labetalol HCl with the incidence per 100 patients as noted:
 
-Cardiovascular System:Ventricular arrhythmia in 1.
+Cardiovascular System: Ventricular arrhythmia in 1.
 
 Central and Peripheral Nervous Systems: Dizziness in 9, tingling of the scalp/skin in 7, hypoesthesia (numbness) and vertigo in 1 each.
 

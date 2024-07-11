@@ -91,7 +91,7 @@ Therefore, use of labetalol HCl should be avoided in such patients.
 
 ### High Dose Labetalol HCl
 
-Administration of up to 3 g per day as an infusion for up to 2 to 3 days has been anecdotally reported; several patients have experienced hypotension or bradycardia.
+Administration of up to 3 g/d as an infusion for up to 2 to 3 days has been anecdotally reported; several patients have experienced hypotension or bradycardia.
 
 ### Jaundice or Hepatic Dysfunction
 
@@ -99,7 +99,7 @@ Administration of up to 3 g per day as an infusion for up to 2 to 3 days has bee
 
 ## Information for Patients
 
-he following information is intended to aid in the safe and effective use of this medication.
+The following information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 During and immediately following (for up to 3 hours) labetalol HCl injection, the patient should remain supine.
 Subsequently, the patient should be advised on how to proceed gradually to become ambulatory and should be observed at the time of first ambulation.
@@ -160,7 +160,7 @@ Studies with labetalol using dominant lethal assays in rats and mice and exposin
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C
+### Pregnancy Teratogenic Effects: Pregnancy Category C
 
 Teratogenic studies were performed with labetalol in rats and rabbits at oral doses up to approximately six and four times the maximum recommended human dose (MRHD), respectively.
 No reproducible evidence of fetal malformations was observed.

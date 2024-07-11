@@ -65,7 +65,6 @@ For subsequent outpatient titration or maintenance dosing see Labetalol HCl Tabl
 ## Compatibility with Commonly Used Intravenous Fluids
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration before administration whenever solution and container permit.
-
 Labetalol HCl injection was tested for compatibility with commonly used intravenous fluids at final concentrations of 1.25 mg to 3.75 mg of labetalol HCl per milliliter of the mixture.
 Labetalol HCl injection was found to be compatible with and stable (for 24 hours refrigerated or at room temperature) in mixtures with the following solutions:
 

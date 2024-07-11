@@ -6,11 +6,15 @@ If overdosage with labetalol HCl follows oral ingestion, gastric lavage or pharm
 The following additional measures should be employed if necessary:
 
 Excessive bradycardia—administer atropine or epinephrine.
+
 Cardiac failure—administer a digitalis glycoside and a diuretic.
 Dopamine or dobutamine may also be useful.
+
 Hypotension—administer vasopressors, e.g., norepinephrine.
 There is pharmacologic evidence that norepinephrine may be the drug of choice.
+
 Bronchospasm—administer epinephrine and/or an aerosolized beta2-agonist.
+
 Seizures—administer diazepam.
 
 In severe beta-blocker overdose resulting in hypotension and/or bradycardia, glucagon has been shown to be effective when administered in large doses (5 to 10 mg rapidly over 30 seconds, followed by continuous infusion of 5 mg per hour that can be reduced as the patient improves).
