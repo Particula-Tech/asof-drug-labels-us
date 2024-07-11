@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021278"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-250-01",
+    "66758-251-01",
+    "66758-252-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Focalin"
+    }
+  ],
+  "setid": "2016f5c2-95d2-4655-af65-c588c2bf5e6d",
+  "source": "dailymed"
+}
