@@ -9,28 +9,28 @@ The lower prophylactic doses of MALARONE were better tolerated than the higher t
 
 Prophylaxis of P. falciparum Malaria
 
-In 3 clinical trials (2 of which were placebo-controlled) 381 adults (mean age: 31 years) received MALARONE for the prophylaxis of malaria; the majority of adults were black (90%) and 79% were male.
+In 3 clinical trials (2 of which were placebo‑controlled) 381 adults (mean age: 31 years) received MALARONE for the prophylaxis of malaria; the majority of adults were black (90%) and 79% were male.
 In a clinical trial for the prophylaxis of malaria, 125 pediatric patients (mean age: 9 years) received MALARONE; all subjects were black and 52% were male.
 Adverse experiences reported in adults and pediatric patients considered attributable to therapy occurred in similar proportions of subjects receiving MALARONE or placebo in all studies.
-Prophylaxis with MALARONE was discontinued prematurely due to a treatment-related adverse experience in 3 of 381 (0.8%) adults and 0 of 125 pediatric patients.
+Prophylaxis with MALARONE was discontinued prematurely due to a treatment‑related adverse experience in 3 of 381 (0.8%) adults and 0 of 125 pediatric patients.
 
-In a placebo-controlled study of malaria prophylaxis with MALARONE involving 330 pediatric patients (aged 4 to 14 years) in Gabon, a malaria-endemic area, the safety profile of MALARONE was consistent with that observed in the earlier prophylactic studies in adults and pediatric patients.
-The most common treatment-emergent adverse events with MALARONE were abdominal pain (13%), headache (13%), and cough (10%).
+In a placebo‑controlled study of malaria prophylaxis with MALARONE involving 330 pediatric patients (aged 4 to 14 years) in Gabon, a malaria‑endemic area, the safety profile of MALARONE was consistent with that observed in the earlier prophylactic studies in adults and pediatric patients.
+The most common treatment‑emergent adverse events with MALARONE were abdominal pain (13%), headache (13%), and cough (10%).
 Abdominal pain (13% vs. 8%) and vomiting (5% vs. 3%) were reported more often with MALARONE than with placebo.
 No patient withdrew from the study due to an adverse experience with MALARONE.
 No routine laboratory data were obtained during this study.
 
-Non-immune travelers visiting a malaria-endemic area received MALARONE (n = 1,004) for prophylaxis of malaria in 2 active-controlled clinical trials.
+Non‑immune travelers visiting a malaria‑endemic area received MALARONE (n = 1,004) for prophylaxis of malaria in 2 active-controlled clinical trials.
 In one study (n = 493), the mean age of subjects was 33 years and 53% were male; 90% of subjects were white, 6% of subjects were black, and the remaining were of other racial/ethnic groups.
 In the other study (n = 511), the mean age of subjects was 36 years and 51% were female; the majority of subjects (97%) were white.
 Adverse experiences occurred in a similar or lower proportion of subjects receiving MALARONE than an active comparator (Table 3).
 Fewer neuropsychiatric adverse experiences occurred in subjects who received MALARONE than mefloquine.
 Fewer gastrointestinal adverse experiences occurred in subjects receiving MALARONE than chloroquine/proguanil.
 Compared with active comparator drugs, subjects receiving MALARONE had fewer adverse experiences overall that were attributed to prophylactic therapy (Table 3).
-Prophylaxis with MALARONE was discontinued prematurely due to a treatment-related adverse experience in 7 of 1,004 travelers.
+Prophylaxis with MALARONE was discontinued prematurely due to a treatment‑related adverse experience in 7 of 1,004 travelers.
 
 Table 3.
-Adverse Experiences in Active-Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria
+Adverse Experiences in Active‑Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria
 
 | Adverse Experience | Percent of Subjects with Adverse Experiencesa(Percent of Subjects with Adverse Experiences Attributable to Therapy) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Adverse Experiences in Active-Controlled Clinical Trials of MALARONE for Prophyl
 | Any GI event | 49 | (16) | 50 | (19) | 43 | (12) | 54 | (20) |
 | a Adverse experiences that started while receiving active study drug. b Mean duration of dosing based on recommended dosing regimens. |  |  |  |  |  |  |  |  |
 
-In a third active-controlled study, MALARONE (n = 110) was compared with chloroquine/proguanil (n = 111) for the prophylaxis of malaria in 221 non-immune pediatric patients (aged 2 to 17 years).
+In a third active‑controlled study, MALARONE (n = 110) was compared with chloroquine/proguanil (n = 111) for the prophylaxis of malaria in 221 non-immune pediatric patients (aged 2 to 17 years).
 The mean duration of exposure was 23 days for MALARONE, 46 days for chloroquine, and 43 days for proguanil, reflecting the different recommended dosage regimens for these products.
 Fewer patients treated with MALARONE reported abdominal pain (2% vs. 7%) or nausea (<1% vs. 7%) than children who received chloroquine/proguanil.
 Oral ulceration (2% vs. 2%), vivid dreams (2% vs. <1%), and blurred vision (0% vs. 2%) occurred in similar proportions of patients receiving either MALARONE or chloroquine/proguanil, respectively.

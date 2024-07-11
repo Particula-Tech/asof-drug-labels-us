@@ -12,6 +12,8 @@ Each tablet contains 250 mg atovaquone and 100 mg proguanil HCl.
 
 Rx only
 
+GSK
+
 100 Tablets
 
 See accompanying prescribing information for Dosage and Administration.
@@ -26,16 +28,16 @@ Distributed by:
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in Canada
 
-©2020 GSK or licensor.
+©2024 GSK or licensor.
 
 Rev.
-01/21
+01/24
 
-A059145 (62000000059145)
+A091927 (62000000091927)
 
 PRINCIPAL DISPLAY PANEL
 
@@ -51,6 +53,8 @@ Each tablet contains 62.5 mg atovaquone and 25 mg proguanil HCl.
 
 Rx only
 
+GSK
+
 100 Tablets
 
 See accompanying prescribing information for Dosage and Administration.
@@ -65,13 +69,13 @@ Distributed by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in Canada
 
-©2020 GSK or licensor.
+©2023 GSK or licensor.
 
 Rev.
-01/21
+01/24
 
-A059143 (62000000059143)
+A091928 (62000000091928)

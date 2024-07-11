@@ -13,5 +13,5 @@ It has a molecular weight of 290.22 and the molecular formula C11H16ClN5•HCl.
 The compound has the following structural formula:
 
 Each MALARONE tablet (adult strength) contains 250 mg of atovaquone and 100 mg of proguanil hydrochloride and each MALARONE pediatric tablet contains 62.5 mg of atovaquone and 25 mg of proguanil hydrochloride.
-The inactive ingredients in both tablets are low-substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, poloxamer 188, povidone K30, and sodium starch glycolate.
+The inactive ingredients in both tablets are low‑substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, poloxamer 188, povidone K30, and sodium starch glycolate.
 The tablet coating contains hypromellose, polyethylene glycol 400, polyethylene glycol 8000, red iron oxide, and titanium dioxide.

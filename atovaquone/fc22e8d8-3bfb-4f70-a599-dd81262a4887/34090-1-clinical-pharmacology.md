@@ -15,7 +15,7 @@ The effect of MALARONE on the QT interval is unknown in humans.
 Absorption
 
 Atovaquone is a highly lipophilic compound with low aqueous solubility.
-The bioavailability of atovaquone shows considerable inter-individual variability.
+The bioavailability of atovaquone shows considerable inter‑individual variability.
 
 Effect of Food: MALARONE should be taken with food or a milky drink.
 Dietary fat taken with atovaquone increases the rate and extent of absorption, increasing AUC 2 to 3 times and Cmax 5 times over fasting.
@@ -33,12 +33,12 @@ In human plasma, the binding of atovaquone and proguanil was unaffected by the p
 
 Elimination
 
-The elimination half-life of atovaquone is about 2 to 3 days in adult patients.
-The elimination half-life of proguanil is 12 to 21 hours in both adult patients and pediatric patients but may be longer in individuals who are slow metabolizers.
+The elimination half‑life of atovaquone is about 2 to 3 days in adult patients.
+The elimination half‑life of proguanil is 12 to 21 hours in both adult patients and pediatric patients but may be longer in individuals who are slow metabolizers.
 
 The main routes of elimination are hepatic biotransformation and renal excretion.
 
-Metabolism: In a study where 14C-labeled atovaquone was administered to healthy volunteers, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
+Metabolism: In a study where 14C‑labeled atovaquone was administered to healthy volunteers, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
 There was little or no excretion of atovaquone in the urine (less than 0.6%).
 There is indirect evidence that atovaquone may undergo limited metabolism; however, a specific metabolite has not been identified.
 Between 40% to 60% of proguanil is excreted by the kidneys.
@@ -64,24 +64,24 @@ The pharmacokinetics of atovaquone and proguanil in patients with body weight le
 Specific Populations
 
 Pediatric Patients: The pharmacokinetics of proguanil and cycloguanil are similar in adult patients and pediatric patients.
-However, the elimination half-life of atovaquone is shorter in pediatric patients (1 to 2 days) than in adult patients (2 to 3 days).
+However, the elimination half‑life of atovaquone is shorter in pediatric patients (1 to 2 days) than in adult patients (2 to 3 days).
 In clinical trials, plasma trough concentrations of atovaquone and proguanil in pediatric patients weighing 5 to 40 kg were within the range observed in adults after dosing by body weight.
 
-Geriatric Patients: In a single-dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 elderly subjects (aged 65 to 79 years) with those of 13 younger subjects (aged 30 to 45 years).
+Geriatric Patients: In a single‑dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 elderly subjects (aged 65 to 79 years) with those of 13 younger subjects (aged 30 to 45 years).
 In the elderly subjects, the extent of systemic exposure (AUC) of cycloguanil was increased (point estimate: 2.36, 90% CI: 1.70, 3.28).
-Tmax was longer in elderly subjects (median: 8 hours) compared with younger subjects (median: 4 hours) and average elimination half-life was longer in elderly subjects (mean: 14.9 hours) compared with younger subjects (mean: 8.3 hours).
+Tmax was longer in elderly subjects (median: 8 hours) compared with younger subjects (median: 4 hours) and average elimination half‑life was longer in elderly subjects (mean: 14.9 hours) compared with younger subjects (mean: 8.3 hours).
 
 Patients with Renal Impairment: In patients with mild renal impairment (creatinine clearance 50 to 80 mL/min), oral clearance and/or AUC data for atovaquone, proguanil, and cycloguanil are within the range of values observed in patients with normal renal function (creatinine clearance >80 mL/min).
 In patients with moderate renal impairment (creatinine clearance 30 to 50 mL/min), mean oral clearance for proguanil was reduced by approximately 35% compared with patients with normal renal function (creatinine clearance >80 mL/min) and the oral clearance of atovaquone was comparable between patients with normal renal function and mild renal impairment.
 No data exist on the use of MALARONE for long-term prophylaxis (over 2 months) in individuals with moderate renal failure.
 In patients with severe renal impairment (creatinine clearance <30 mL/min), atovaquone Cmax and AUC are reduced but the elimination half‑lives for proguanil and cycloguanil are prolonged, with corresponding increases in AUC, resulting in the potential of drug accumulation and toxicity with repeated dosing [see Contraindications (4.2)].
 
-Patients with Hepatic Impairment: In a single-dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 subjects with hepatic impairment (9 mild, 4 moderate, as indicated by the Child-Pugh method) with those of 13 subjects with normal hepatic function.
+Patients with Hepatic Impairment: In a single‑dose study, the pharmacokinetics of atovaquone, proguanil, and cycloguanil were compared in 13 subjects with hepatic impairment (9 mild, 4 moderate, as indicated by the Child‑Pugh method) with those of 13 subjects with normal hepatic function.
 In subjects with mild or moderate hepatic impairment as compared with healthy subjects, there were no marked differences (<50%) in the rate or extent of systemic exposure of atovaquone.
 However, in subjects with moderate hepatic impairment, the elimination half‑life of atovaquone was increased (point estimate: 1.28, 90% CI: 1.00 to 1.63).
-Proguanil AUC, Cmax, and its elimination half-life increased in subjects with mild hepatic impairment when compared with healthy subjects (Table 5).
-Also, the proguanil AUC and its elimination half-life increased in subjects with moderate hepatic impairment when compared with healthy subjects.
-Consistent with the increase in proguanil AUC, there were marked decreases in the systemic exposure of cycloguanil (Cmax and AUC) and an increase in its elimination half-life in subjects with mild hepatic impairment when compared with healthy volunteers (Table 5).
+Proguanil AUC, Cmax, and its elimination half‑life increased in subjects with mild hepatic impairment when compared with healthy subjects (Table 5).
+Also, the proguanil AUC and its elimination half‑life increased in subjects with moderate hepatic impairment when compared with healthy subjects.
+Consistent with the increase in proguanil AUC, there were marked decreases in the systemic exposure of cycloguanil (Cmax and AUC) and an increase in its elimination half‑life in subjects with mild hepatic impairment when compared with healthy volunteers (Table 5).
 There were few measurable cycloguanil concentrations in subjects with moderate hepatic impairment.
 The pharmacokinetics of atovaquone, proguanil, and cycloguanil after administration of MALARONE have not been studied in patients with severe hepatic impairment.
 
@@ -102,7 +102,7 @@ Drug Interaction Studies
 
 There are no pharmacokinetic interactions between atovaquone and proguanil at the recommended dose.
 
-Atovaquone is highly protein bound (>99%) but does not displace other highly protein-bound drugs in vitro.
+Atovaquone is highly protein bound (>99%) but does not displace other highly protein‑bound drugs in vitro.
 
 Proguanil is metabolized primarily by CYP2C19.
 Potential pharmacokinetic interactions between proguanil or cycloguanil and other drugs that are CYP2C19 substrates or inhibitors are unknown.
@@ -114,7 +114,7 @@ Tetracycline: Concomitant treatment with tetracycline has been associated with a
 
 Metoclopramide: Concomitant treatment with metoclopramide has been associated with decreased bioavailability of atovaquone.
 
-Indinavir: Concomitant administration of atovaquone (750 mg twice daily with food for 14 days) and indinavir (800 mg three times daily without food for 14 days) did not result in any change in the steady-state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI: 8%, 35%]).
+Indinavir: Concomitant administration of atovaquone (750 mg twice daily with food for 14 days) and indinavir (800 mg three times daily without food for 14 days) did not result in any change in the steady‑state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI: 8%, 35%]).
 
 ## 12.4 Microbiology
 

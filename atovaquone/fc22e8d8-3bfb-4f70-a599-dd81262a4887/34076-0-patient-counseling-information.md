@@ -9,7 +9,7 @@ Patients should be instructed:
 - •that rare serious adverse events such as hepatitis, severe skin reactions, neurological events, and hematological events have been reported when MALARONE was used for the prophylaxis or treatment of malaria.
 - •to consult a healthcare professional regarding alternative forms of prophylaxis if prophylaxis with MALARONE is prematurely discontinued for any reason.
 - •that protective clothing, insect repellents, and bed nets are important components of malaria prophylaxis.
-- •that no chemoprophylactic regimen is 100% effective; therefore, patients should seek medical attention for any febrile illness that occurs during or after return from a malaria-endemic area and inform their healthcare professional that they may have been exposed to malaria.
+- •that no chemoprophylactic regimen is 100% effective; therefore, patients should seek medical attention for any febrile illness that occurs during or after return from a malaria‑endemic area and inform their healthcare professional that they may have been exposed to malaria.
 - •that falciparum malaria carries a higher risk of death and serious complications in pregnant women than in the general population.
   Pregnant women anticipating travel to malarious areas should discuss the risks and benefits of such travel with their physicians.
 

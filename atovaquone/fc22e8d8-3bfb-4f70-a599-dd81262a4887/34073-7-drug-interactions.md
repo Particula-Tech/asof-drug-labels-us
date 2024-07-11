@@ -23,5 +23,5 @@ While antiemetics may be indicated for patients receiving MALARONE, metocloprami
 
 ## 7.5 Indinavir
 
-Concomitant administration of atovaquone and indinavir did not result in any change in the steady-state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir [see Clinical Pharmacology (12.3)].
+Concomitant administration of atovaquone and indinavir did not result in any change in the steady‑state AUC and Cmax of indinavir but resulted in a decrease in the Ctrough of indinavir [see Clinical Pharmacology (12.3)].
 Caution should be exercised when prescribing atovaquone with indinavir due to the decrease in trough concentrations of indinavir.

@@ -7,8 +7,8 @@ Effects of MALARONE on male and female reproductive performance are unknown.
 
 Atovaquone
 
-A 24-month carcinogenicity study in CD rats was negative for neoplasms at doses up to 500 mg/kg/day corresponding to approximately 54 times the average steady-state plasma concentrations in humans during prophylaxis of malaria.
-In CD-1 mice, a 24-month study showed treatment-related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested (50, 100, and 200 mg/kg/day) which correlated with at least 15 times the average steady-state plasma concentrations in humans during prophylaxis of malaria.
+A 24‑month carcinogenicity study in CD rats was negative for neoplasms at doses up to 500 mg/kg/day corresponding to approximately 54 times the average steady‑state plasma concentrations in humans during prophylaxis of malaria.
+In CD-1 mice, a 24‑month study showed treatment‑related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested (50, 100, and 200 mg/kg/day) which correlated with at least 15 times the average steady‑state plasma concentrations in humans during prophylaxis of malaria.
 
 Atovaquone was negative with or without metabolic activation in the Ames Salmonella mutagenicity assay, the mouse lymphoma mutagenesis assay, and the cultured human lymphocyte cytogenetic assay.
 No evidence of genotoxicity was observed in the in vivo mouse micronucleus assay.
@@ -17,7 +17,7 @@ Atovaquone administered by oral gavage in doses of 100, 300, or 1,000 mg/kg/day 
 
 Proguanil
 
-No evidence of a carcinogenic effect was observed in 24-month studies conducted in CD-1 mice at doses up to 16 mg/kg/day corresponding to 1.5 times the average human plasma exposure during prophylaxis of malaria based on AUC, and in Wistar Hannover rats at doses up to 20 mg/kg/day corresponding to 1.1 times the average human plasma exposure during prophylaxis of malaria based on AUC.
+No evidence of a carcinogenic effect was observed in 24‑month studies conducted in CD-1 mice at doses up to 16 mg/kg/day corresponding to 1.5 times the average human plasma exposure during prophylaxis of malaria based on AUC, and in Wistar Hannover rats at doses up to 20 mg/kg/day corresponding to 1.1 times the average human plasma exposure during prophylaxis of malaria based on AUC.
 
 Proguanil was negative with or without metabolic activation in the Ames Salmonella mutagenicity assay and the mouse lymphoma mutagenesis assay.
 No evidence of genotoxicity was observed in the in vivo mouse micronucleus assay.

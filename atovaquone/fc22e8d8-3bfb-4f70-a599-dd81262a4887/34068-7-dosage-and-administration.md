@@ -7,7 +7,7 @@ MALARONE may be crushed and mixed with condensed milk just prior to administrati
 
 ## 2.1 Prevention of Malaria
 
-Start prophylactic treatment with MALARONE 1 or 2 days before entering a malaria-endemic area and continue daily during the stay and for 7 days after return.
+Start prophylactic treatment with MALARONE 1 or 2 days before entering a malaria‑endemic area and continue daily during the stay and for 7 days after return.
 
 Adults
 
