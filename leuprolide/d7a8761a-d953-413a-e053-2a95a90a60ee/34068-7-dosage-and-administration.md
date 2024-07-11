@@ -29,7 +29,7 @@ Administration Procedure
 
 1. Choose an injection site on the upper- or mid-abdominal area with sufficient soft or loose subcutaneous tissue that has not recently been used.
    Clean the injection site with an alcohol swab.
-   Do NOT inject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
+   Do NOTinject in areas with brawny or fibrous subcutaneous tissue or locations that can be rubbed or compressed (i.e., with a belt or clothing waistband).
    In addition, avoid applying heat directly to the site of CAMCEVI injection.
 2. Pull the blue cover off the needle (B).
    Use standard sharps safety techniques to avoid needle sticks.

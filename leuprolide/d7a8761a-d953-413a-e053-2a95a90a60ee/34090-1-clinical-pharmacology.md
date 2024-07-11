@@ -18,13 +18,13 @@ Mean serum testosterone concentrations transiently increased, then fell to below
 ## 12.3 Pharmacokinetics
 
 Leuprolide concentration is variable, exhibiting an initial rapid increase followed by a rapid decline over the first 3 days before reaching steady concentrations for the duration of the dosing interval.
-The mean serum leuprolide C max was 94.5 and 99 ng/mL following the first and second doses of CAMCEVI, respectively.
+The mean serum leuprolide C maxwas 94.5 and 99 ng/mL following the first and second doses of CAMCEVI, respectively.
 The mean serum concentration was maintained at 0.497–2.57 and 0.507–2.39 ng/ml after Day 3 post the first and second doses, respectively.
-The mean AUC 0-6 mon was 224 and 268 day.ng/mL following the first and second doses of CAMCEVI, respectively.
+The mean AUC 0-6 monwas 224 and 268 day.ng/mL following the first and second doses of CAMCEVI, respectively.
 
 Absorption
 
-The median T max of leuprolide was 3.2 and 2.1 hours following the first and second doses of CAMCEVI, respectively
+The median T maxof leuprolide was 3.2 and 2.1 hours following the first and second doses of CAMCEVI, respectively
 
 Distribution
 

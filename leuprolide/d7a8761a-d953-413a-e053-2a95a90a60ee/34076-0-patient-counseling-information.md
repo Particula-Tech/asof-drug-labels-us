@@ -43,6 +43,6 @@ Infertility
 
 - Inform patients that CAMCEVI may cause infertility [see Use In Specific Populations (8.3)].
 
-Manufactured for: Accord BioPharma Inc. 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA
+Manufactured for: Accord BioPharma, Inc. 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617 USA
 
-By: Fareva Pau Fareva Pau 1, Avenue du Bearn, IDRON, 64320, France 750043 Issued November 2022
+By: Fareva Pau Fareva Pau 1, Avenue du Bearn, IDRON, 64320, France 750138

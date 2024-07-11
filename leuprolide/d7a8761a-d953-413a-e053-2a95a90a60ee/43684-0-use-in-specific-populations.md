@@ -31,7 +31,7 @@ Infertility
 
 Males
 
-Based on findings in animals and mechanism of action, CAMCEVI may impair fertility in males of reproductive potential [see Clinical Pharmacology (12.1), Nonclinical Toxicology (13.1)].
+Based on findings in animals and mechanism of action, CAMCEVI may impair fertility in males of reproductive potential [seeClinical Pharmacology (12.1), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
