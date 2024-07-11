@@ -18,8 +18,9 @@ Each blister contains 100 mcg of fluticasone propionate and 72.5 mcg of salmeter
 
 Containing 1 Foil Strip of 60 Blisters
 
-1. 62000000078061 Rev.
-   4/22
+1. 62000000089844 Rev.
+   9/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -41,8 +42,9 @@ Each blister contains 250 mcg of fluticasone propionate and 72.5 mcg of salmeter
 
 Containing 1 Foil Strip of 60 Blisters
 
-1. 62000000078059 Rev.
-   4/22
+1. 62000000089842 Rev.
+   9/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -64,5 +66,6 @@ Each blister contains 500 mcg of fluticasone propionate and 72.5 mcg of salmeter
 
 Containing 1 Foil Strip of 60 Blisters
 
-1. 62000000078060 Rev.
-   4/22
+1. 62000000089843 Rev.
+   9/23
+2. 
