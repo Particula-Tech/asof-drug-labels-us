@@ -1,6 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each Morphine Sulfate Extended-Release Tablet 15 mg is available as a round, blue convex tablet, one side debossed and the other side debossed “15”.
+Morphine Sulfate Extended-Release Tablets are supplied as follows:
+
+15 mg - round, blue convex tablet, debossed on one side and debossed “15” on the other.
 
 Bottles of 100.................................
 NDC 0406-8315-01
@@ -8,7 +10,7 @@ NDC 0406-8315-01
 Unit Dose (10 x 10).........................
 NDC 0406-8315-62
 
-Each Morphine Sulfate Extended-Release Tablet 30 mg is available as a round, purple convex tablet, one side debossed and the other side debossed “30”.
+30 mg - round, purple convex tablet, debossed on one side and debossed “30” on the other.
 
 Bottles of 100.................................
 NDC 0406-8330-01
@@ -16,7 +18,7 @@ NDC 0406-8330-01
 Unit Dose (10 x 10).........................
 NDC 0406-8330-62
 
-Each Morphine Sulfate Extended-Release Tablet 60 mg is available as a round, orange convex tablet, one side debossed and the other side debossed “60”.
+60 mg - round, orange convex tablet, debossed on one side and debossed “60” on the other.
 
 Bottles of 100.................................
 NDC 0406-8380-01
@@ -24,7 +26,7 @@ NDC 0406-8380-01
 Unit Dose (10 x 10).........................
 NDC 0406-8380-62
 
-Each Morphine Sulfate Extended-Release Tablet 100 mg is available as a round, gray convex tablet, one side debossed and the other side debossed “100”.
+100 mg - round, gray convex tablet, debossed on one side and debossed “100” on the other.
 
 Bottles of 100.................................
 NDC 0406-8390-01
@@ -32,12 +34,12 @@ NDC 0406-8390-01
 Unit Dose (10 x 10).........................
 NDC 0406-8390-62
 
-Each Morphine Sulfate Extended-Release Tablet 200 mg is available as a capsule-shaped, green convex tablet, one side debossed and the other side debossed “200”.
+200 mg - capsule-shaped, green convex tablet, debossed on one side and debossed “200” on the other.
 
 Bottles of 100.................................
 NDC 0406-8320-01
 
-Storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Store morphine sulfate extended-release tablets securely and dispose of properly [see Patient Counseling Information (17)].
 
