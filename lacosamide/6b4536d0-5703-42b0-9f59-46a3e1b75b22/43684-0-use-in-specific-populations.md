@@ -54,7 +54,18 @@ Monitor infants exposed to lacosamide through breastmilk for excess sedation.
 
 ## 8.4 Pediatric Use
 
+Partial-Onset Seizures
+
+Safety and effectiveness of lacosamide for the treatment of partial-onset seizures have been established in pediatric patients 4 to less than 17 years of age.
+Use of lacosamide in this age group is supported by evidence from adequate and well-controlled studies of lacosamide in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 328 pediatric patients 4 to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+
 Safety and effectiveness in pediatric patients below 1 month of age have not been established.
+
+Primary Generalized Tonic-Clonic Seizures
+
+Safety and effectiveness of lacosamide as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
+
+Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
 
 Animal Data
 
@@ -63,8 +74,8 @@ Potential related adverse effects on CNS development cannot be ruled out.
 Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development (approximately equivalent to neonatal through adolescent development in humans) resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
 
-Pediatric use information is approved for UCB, Inc.'s VIMPAT® (lacosamide) injection.
-However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Additional pediatric use information is approved for UCB, Inc.'s VIMPAT® (lacosamide) injection.
+However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
@@ -76,7 +87,7 @@ In elderly patients, dose titration should be performed with caution, usually st
 ## 8.6 Renal Impairment
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment (CLCR ≥30 mL/min).
-In patients with severe renal impairment (CLCR <30 mL/min) as estimated by the Cockcroft-Gault equation for adults; CLCR <30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+In patients with severe renal impairment (CLCR <30 mL/min as estimated by the Cockcroft-Gault equation for adults) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 
