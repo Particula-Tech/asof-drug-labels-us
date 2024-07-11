@@ -115,9 +115,9 @@ Therapeutic Response in Prevention of Postoperative Nausea and/or Vomiting in Ad
 | Emetic episodes: |  |  |  |
 | Number of patients | 136 | 139 |  |
 | Treatment response over 24-h postoperative period |  |  |  |
-| 0 Emetic episodes |  |  |  |
-| 1 Emetic episode | 103 (76%) | 64 (46%) | < 0.001 |
-| More than 1 emetic episode/rescued | 13 (10%) 20 (15%) | 17 (12%) 58 (42%) |  |
+| 0 Emetic episodes | 103 (76%)13 (10%) 20 (15%) | 64 (46%)17 (12%) 58 (42%) |  |
+| 1 Emetic episode | < 0.001 |  |  |
+| More than 1 emetic episode/rescued |  |  |  |
 | Nausea assessments: |  |  |  |
 | Number of patients | 134 | 136 |  |
 | No nausea over 24-h postoperative period | 56 (42%) | 39 (29%) |  |
@@ -125,9 +125,9 @@ Therapeutic Response in Prevention of Postoperative Nausea and/or Vomiting in Ad
 | Emetic episodes: |  |  |  |
 | Number of patients | 136 | 143 |  |
 | Treatment response over 24-h postoperative period |  |  |  |
-| 0 Emetic episodes |  |  |  |
-| 1 Emetic episode | 85 (63%) | 63 (44%) | 0.002 |
-| More than 1 emetic episode/rescued | 16 (12%) 35 (26%) | 29 (20%) 51 (36%) |  |
+| 0 Emetic episodes | 85 (63%)16 (12%) 35 (26%) | 63 (44%)29 (20%) 51 (36%) |  |
+| 1 Emetic episode | 0.002 |  |  |
+| More than 1 emetic episode/rescued |  |  |  |
 | Nausea assessments: |  |  |  |
 | Number of patients | 125 | 133 |  |
 | No nausea over 24-h postoperative period | 48 (38%) | 42 (32%) |  |
