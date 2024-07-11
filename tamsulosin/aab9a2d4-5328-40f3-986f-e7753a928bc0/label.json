@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022460"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "Waylis Therapeutics",
+  "package_ndcs": [
+    "80725-809-13",
+    "80725-809-59"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dutasteride and tamsulosin hydrochloride",
+      "name": "Jalyn"
+    }
+  ],
+  "setid": "aab9a2d4-5328-40f3-986f-e7753a928bc0",
+  "source": "dailymed"
+}
