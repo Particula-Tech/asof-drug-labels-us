@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Actions:
+## Mechanism of Actions
 
 Cetirizine, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 receptors.
 The antihistaminic activity of cetirizine has been clearly documented in a variety of animal and human models.
@@ -12,20 +12,20 @@ Ex vivo experiments in the mouse have shown that systemically administered cetir
 
 ## Pharmacokinetics
 
-### Absorption
+### Absorption:
 
-Cetirizine was rapidly absorbed with a time to maximum concentration (T max) of approximately 1 hour following oral administration of tablets or syrup in adults.
-Comparable bioavailability was found between the tablet and syrup dosage forms.
+Cetirizine was rapidly absorbed with a time to maximum concentration (T max) of approximately 1 hour following oral administration of tablets or oral solution in adults.
+Comparable bioavailability was found between the tablet and oral solution dosage forms.
 When healthy volunteers were administered multiple doses of cetirizine (10 mg tablets once daily for 10 days), a mean peak plasma concentration (C max) of 311 ng/mL was observed.
 No accumulation was observed.
 Cetirizine pharmacokinetics were linear for oral doses ranging from 5 to 60 mg.
 Food had no effect on the extent of cetirizine exposure (AUC) but T max was delayed by 1.7 hours and C max was decreased by 23% in the presence of food.
 
-### Distribution
+### Distribution:
 
 The mean plasma protein binding of cetirizine is 93%, independent of concentration in the range of 25 to 1000 ng/mL, which includes the therapeutic plasma levels observed.
 
-### Metabolism
+### Metabolism:
 
 A mass balance study in 6 healthy male volunteers indicated that 70% of the administered radioactivity was recovered in the urine and 10% in the feces.
 Approximately 50% of the radioactivity was identified in the urine as unchanged drug.
@@ -33,7 +33,7 @@ Most of the rapid increase in peak plasma radioactivity was associated with pare
 Cetirizine is metabolized to a limited extent by oxidative O-dealkylation to a metabolite with negligible antihistaminic activity.
 The enzyme or enzymes responsible for this metabolism have not been identified.
 
-### Elimination
+### Elimination:
 
 The mean elimination half-life in 146 healthy volunteers across multiple pharmacokinetic studies was 8.3 hours and the apparent total body clearance for cetirizine was approximately 53 mL/min.
 
@@ -46,19 +46,19 @@ The disposition of theophylline was not altered by concomitant cetirizine admini
 
 ## Special Populations
 
-### Pediatric Patients
+### Pediatric Patients:
 
 In pediatric patients aged 2 to 5 years who received 5 mg cetirizine the mean C max was 660 ng/mL.
 Based on cross-study comparisons, the weight-normalized apparent total body clearance was 81 to 111% greater and the elimination half-life was 33 to 41% shorter in this pediatric population than in adults.
 In pediatric patients aged 6 to 23 months who received a single dose of 0.25 mg/kg cetirizine oral solution (mean dose 2.3 mg), the mean C max was 390 ng/mL.
 Based on cross-study comparisons, the weight-normalized, apparent total body clearance was 304% greater and the elimination half-life was 63% shorter in this pediatric population compared to adults.
-The average AUC (0-t) in children 6 months to <2 years of age receiving the maximum dose of cetirizine solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine tablets once a day.
+The average AUC (0-t) in children 6 months to <2 years of age receiving the maximum dose of cetirizine oral solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine tablets once a day.
 
-### Effect of Gender
+### Effect of Gender:
 
 The effect of gender on cetirizine pharmacokinetics has not been adequately studied.
 
-### Effect of Race
+### Effect of Race:
 
 No race-related differences in the kinetics of cetirizine have been observed.
 
@@ -67,6 +67,7 @@ No race-related differences in the kinetics of cetirizine have been observed.
 Cetirizine hydrochloride at doses of 5 and 10 mg strongly inhibited the wheal and flare caused by intradermal injection of histamine in 19 pediatric volunteers (aged 5 to 12 years) and the activity persisted for at least 24 hours.
 In a 35-day study in children aged 5 to 12, no tolerance to the antihistaminic (suppression of wheal and flare response) effects of cetirizine hydrochloride was found.
 In 10 infants 7 to 25 months of age who received 4 to 9 days of cetirizine in an oral solution (0.25 mg/kg bid), there was a 90% inhibition of histamine-induced (10 mg/mL) cutaneous wheal and 87% inhibition of the flare 12 hours after administration of the last dose.
+
 The clinical relevance of this suppression of histamine-induced wheal and flare response on skin testing is unknown.
 
 The effects of intradermal injection of various other mediators or histamine releasers were also inhibited by cetirizine, as was response to a cold challenge in patients with cold-induced urticaria.
@@ -86,7 +87,7 @@ In the fourth study, a placebo-controlled parallel trial, cetirizine hydrochlori
 There was no significant increase in QTc with cetirizine hydrochloride 20 mg alone or in combination with azithromycin.
 
 In a four-week clinical trial in pediatric patients aged 6 to 11 years, results of randomly obtained ECG measurements before treatment and after 2 weeks of treatment showed that cetirizine hydrochloride 5 or 10 mg did not increase QTc versus placebo.
-In a one week clinical trial (N = 86) of cetirizine hydrochloride syrup (0.25 mg/kg bid) compared with placebo in pediatric patients 6 to 11 months of age, ECG measurements taken within 3 hours of the last dose did not show any ECG abnormalities or increases in QTc interval in either group compared to baseline assessments.
+In a one week clinical trial (N = 86) of cetirizine hydrochloride oral solution, USP (0.25 mg/kg bid) compared with placebo in pediatric patients 6 to 11 months of age, ECG measurements taken within 3 hours of the last dose did not show any ECG abnormalities or increases in QTc interval in either group compared to baseline assessments.
 Data from other studies where cetirizine hydrochloride was administered to patients 6 to 23 months of age were consistent with the findings in this study.
 
 The effects of cetirizine hydrochloride on the QTc interval at doses higher than 10 mg have not been studied in children less than 12 years of age.
@@ -98,7 +99,7 @@ These studies support the safety of administering cetirizine hydrochloride to pe
 ## Clinical Studies
 
 Multicenter, randomized, double-blind, clinical trials comparing cetirizine 5 to 20 mg to placebo in patients 12 years and older with seasonal or perennial allergic rhinitis were conducted in the United States.
-Two of these showed significant reductions in symptoms perennial allergic rhinitis for up to 8 weeks in duration.
+Two of these showed significant reductions in symptoms of perennial allergic rhinitis for up to 8 weeks in duration.
 Two 4-week multicenter, randomized, double-blind, clinical trials comparing cetirizine 5 to 20 mg to placebo in patients with chronic idiopathic urticaria were also conducted and showed significant improvement in symptoms of chronic idiopathic urticaria.
 In general, the 10 mg dose was more effective than the 5 mg dose and the 20 mg dose gave no added effect.
 Some of these trials included pediatric patients aged 12 to 16 years.

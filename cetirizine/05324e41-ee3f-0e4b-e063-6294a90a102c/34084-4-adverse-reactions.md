@@ -14,7 +14,7 @@ Table 1 lists adverse experiences which were reported for cetirizine hydrochlori
 Of these, abdominal pain was considered treatment-related and somnolence appeared to be dose-related, 1.3% in placebo, 1.9% at 5 mg and 4.2% at 10 mg.
 The adverse experiences reported in pediatric patients aged 2 to 5 years in placebo-controlled trials were qualitatively similar in nature and generally similar in frequency to those reported in trials with children aged 6 to 11 years.
 
-In the placebo-controlled trials of pediatric patients 6 to 24 months of age, the incidences of adverse experiences were similar in the cetirizine and placebo treatment groups in each study.
+In the placebo-controlled trials of pediatric patients 6 to 24 months of age, the incidences of adverse experiences, were similar in the cetirizine and placebo treatment groups in each study.
 Somnolence occurred with essentially the same frequency in patients who received cetirizine and patients who received placebo.
 In a study of 1 week duration in children 6 to 11 months of age, patients who received cetirizine exhibited greater irritability/fussiness than patients on placebo.
 In a study of 18 months duration in patients 12 months and older, insomnia occurred more frequently in patients who received cetirizine compared to patients who received placebo (9.0% v. 5.3%).
@@ -22,9 +22,9 @@ In those patients who received 5 mg or more per day of cetirizine as compared to
 
 Table.1 Adverse Experiences Reported in Pediatric Patients Aged 6 to 11 Years in Placebo-Controlled United States Cetirizine Hydrochloride Trials (5 or 10 mg Dose) Which Occurred at a Frequency of ≥ 2% in Either the 5 mg or the 10 mg Cetirizine Hydrochloride Group, and More Frequently Than in the Placebo Group
 
-| Adverse Experiences | Placebo (N = 309) | 5 mg (N = 161) | 10 mg (N = 215) |
+|  | Placebo (N = 309) | 5 mg (N = 161) | 10 mg (N = 215) |
 | --- | --- | --- | --- |
-|  |  | Cetirizine Hydrochloride |  |
+| Adverse Experiences |  | Cetirizine Hydrochloride |  |
 | Headache | 12.3% | 11.0% | 14.0% |
 | Pharyngitis | 2.9% | 6.2% | 2.8% |
 | Abdominal pain | 1.9% | 4.4% | 5.6% |
@@ -65,15 +65,14 @@ Reticuloendothelial: lymphadenopathy.
 
 Skin: acne, alopecia, angioedema, bullous eruption, dermatitis, dry skin, eczema, erythematous rash, furunculosis, hyperkeratosis, hypertrichosis, increased sweating, maculopapular rash, photosensitivity reaction, photosensitivity toxic reaction, pruritus, purpura, rash, seborrhea, skin disorder, skin nodule, urticaria.
 
-Special Senses:parosmia, taste loss, taste perversion.
+Special Senses: parosmia, taste loss, taste perversion.
 
-Vision:blindness, conjunctivitis, eye pain, glaucoma, loss of accommodation, ocular hemorrhage, xerophthalmia.
+Vision: blindness, conjunctivitis, eye pain, glaucoma, loss of accommodation, ocular hemorrhage, xerophthalmia.
 
 Body as a Whole: accidental injury, asthenia, back pain, chest pain, enlarged abdomen, face edema, fever, generalized edema, hot flashes, increased weight, leg edema, malaise, nasal polyp, pain, pallor, periorbital edema, peripheral edema, rigors.
-
 Occasional instances of transient, reversible hepatic transaminase elevations have occurred during cetirizine therapy.
 Hepatitis with significant transaminase elevation and elevated bilirubin in association with the use of cetirizine hydrochloride has been reported.
 
 ## Post-Marketing Experience
 
-In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide and thrombocytopenia.
+In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: acute generalized exanthematous pustulosis (AGEP), aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide and thrombocytopenia.

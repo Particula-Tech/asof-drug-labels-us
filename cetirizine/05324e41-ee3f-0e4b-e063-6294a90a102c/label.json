@@ -5,14 +5,13 @@
   "inn": "cetirizine",
   "labeler": "BAJAJ MEDICAL, LLC",
   "package_ndcs": [
-    "61037-479-02",
-    "61037-479-03"
+    "61037-479-02"
   ],
   "products": [
     {
-      "form": "SYRUP",
+      "form": "SOLUTION",
       "generic": "cetirizine hydrochloride",
-      "name": "Cetirizine Hydrochloride"
+      "name": "CETIRIZINE HYDROCHLORIDE"
     }
   ],
   "setid": "05324e41-ee3f-0e4b-e063-6294a90a102c",
