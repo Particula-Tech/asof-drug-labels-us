@@ -3,7 +3,7 @@
 ## Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity
 
 A 10- to 20-mm increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects).
-Approximately 5% of patients have had increased premature ventricular beats during infusions.
+Approximately 5% of adult patients have had increased premature ventricular beats during infusions.
 These effects are dose related.
 
 ## Hypotension
@@ -20,7 +20,7 @@ Isolated cases of cutaneous necrosis (destruction of skin tissue) have been repo
 
 ## Miscellaneous Uncommon Effects
 
-The following adverse effects have been reported in 1% to 3% of patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath.
+The following adverse effects have been reported in 1% to 3% of adult patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath.
 
 Isolated cases of thrombocytopenia have been reported.
 
