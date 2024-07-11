@@ -29,8 +29,10 @@ Contact lenses should be removed during instillation of brinzolamide ophthalmic 
 
 *TRUSOPT is a registered trademark of Merck & Co., Inc.
 
-Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
+Distributed by:
 
-© 2024 Bausch & Lomb Incorporated or its affiliates
+Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA © 2024 Bausch & Lomb Incorporated or its affiliates
 
-P/N (Folded) P/N (Flat)
+9441903 (Folded)
+
+9442003 (Flat)

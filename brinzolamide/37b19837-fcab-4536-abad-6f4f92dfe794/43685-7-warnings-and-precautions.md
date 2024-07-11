@@ -6,7 +6,7 @@ Brinzolamide ophthalmic suspension is a sulfonamide and although administered to
 Therefore, the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration of brinzolamide ophthalmic suspension.
 Fatalities have occurred, although rarely, due to severe reactions to sulfonamides, including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias.
 Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration.
-If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation immediately.
+If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparationimmediately.
 
 ## 5.2 Corneal Endothelium
 

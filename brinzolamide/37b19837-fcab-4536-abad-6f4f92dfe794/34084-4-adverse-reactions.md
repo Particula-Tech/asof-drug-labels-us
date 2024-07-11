@@ -14,4 +14,4 @@ The following adverse reactions were reported at an incidence below 1%: allergic
 The following adverse reactions have been identified during postapproval use of brinzolamide containing products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Serious skin and subcutaneous tissue reactions such as Stevens-Johnson syndrome (SJS) and Toxic epidermal necrolysis (TEN) may occur with the use of brinzolamide due to its sulfonamide component [see Warnings and Precautions (5.1)].
+Serious skin and subcutaneous tissue reactions such as Stevens-Johnson syndrome (SJS) and Toxic epidermal necrolysis (TEN) may occur with the use of brinzolamide due to its sulfonamide component [seeWarnings and Precautions (5.1)].
