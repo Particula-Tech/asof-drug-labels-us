@@ -2,13 +2,13 @@
 
 Controlled clinical trials comparing nitrofurantoin (monohydrate/macrocrystals) 100 mg p.o. q12h and nitrofurantoin (macrocrystals) 50 mg p.o. q6h in the treatment of acute uncomplicated urinary tract infections demonstrated approximately 75% microbiologic eradication of susceptible pathogens in each treatment group.
 
-Sandoz Inc.
+Manufactured in India by
 
-Princeton, NJ 08540
+Sandoz Private Ltd., for
 
-46299662
+Sandoz Inc., Princeton, NJ 08540
+
+46316473
 
 Rev.
-November 2021
-
-MF0122REV11/21
+January 2023
