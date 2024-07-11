@@ -2,7 +2,7 @@
 
 ## 14.1 Prevention of PCP
 
-The indication for prevention of PCP is based on the results of 2 clinical trials comparing MEPRON oral suspension with dapsone or aerosolized pentamidine in HIV-1–infected adolescent (aged 13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
+The indication for prevention of PCP is based on the results of 2 clinical trials comparing MEPRON oral suspension with dapsone or aerosolized pentamidine in HIV-1–infected adolescent (aged 13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP‑SMX.
 
 Dapsone Comparative Trial
 
@@ -40,32 +40,32 @@ Both trials were conducted with the tablet formulation using 750 mg 3 times dail
 Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
 Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
 
-TMP-SMX Comparative Trial
+TMP‑SMX Comparative Trial
 
-This double-blind, randomized trial compared the safety and efficacy of MEPRON tablets with that of TMP-SMX for the treatment of subjects with HIV/AIDS and histologically confirmed PCP.
-Only subjects with mild-to-moderate PCP were eligible for enrollment.
+This double‑blind, randomized trial compared the safety and efficacy of MEPRON tablets with that of TMP‑SMX for the treatment of subjects with HIV/AIDS and histologically confirmed PCP.
+Only subjects with mild‑to‑moderate PCP were eligible for enrollment.
 
 A total of 408 subjects were enrolled into the trial.
 The majority of subjects were white (66%) and male (95%); the mean age was 36 years.
-Eighty-six subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
+Eighty‑six subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
 Of the 322 subjects with histologically confirmed PCP, 160 were randomized to receive 750 mg MEPRON (three 250-mg tablets) 3 times daily for 21 days and 162 were randomized to receive 320 mg TMP plus 1,600 mg SMX 3 times daily for 21 days.
 Therapy success was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
 Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
 Therapy failures included lack of response, treatment discontinuation due to an adverse experience, and unevaluable.
 
 There was a significant difference (P = 0.03) in mortality rates between the treatment groups favoring TMP-SMX.
-Among the 322 subjects with confirmed PCP, 13 of 160 (8%) subjects treated with MEPRON and 4 of 162 (2.5%) subjects receiving TMP-SMX died during the 21-day treatment course or 8-week follow-up period.
-In the intent-to-treat analysis for all 408 randomized subjects, there were 16 (8%) deaths among subjects treated with MEPRON and 7 (3.4%) deaths among subjects treated with TMP-SMX (P = 0.051).
-Of the 13 subjects with confirmed PCP and treated with MEPRON who died, 4 died of PCP and 5 died with a combination of bacterial infections and PCP; bacterial infections did not appear to be a factor in any of the 4 deaths among TMP-SMX-treated subjects.
+Among the 322 subjects with confirmed PCP, 13 of 160 (8%) subjects treated with MEPRON and 4 of 162 (2.5%) subjects receiving TMP‑SMX died during the 21‑day treatment course or 8‑week follow‑up period.
+In the intent‑to‑treat analysis for all 408 randomized subjects, there were 16 (8%) deaths among subjects treated with MEPRON and 7 (3.4%) deaths among subjects treated with TMP‑SMX (P = 0.051).
+Of the 13 subjects with confirmed PCP and treated with MEPRON who died, 4 died of PCP and 5 died with a combination of bacterial infections and PCP; bacterial infections did not appear to be a factor in any of the 4 deaths among TMP‑SMX‑treated subjects.
 
 A correlation between plasma atovaquone concentrations and death demonstrated that subjects with lower plasma concentrations were more likely to die.
 For those subjects for whom Day 4 plasma atovaquone concentration data are available, 5 (63%) of 8 subjects with concentrations <5 mcg/mL died during participation in the trial.
 However, only 1 (2.0%) of the 49 subjects with Day 4 plasma atovaquone concentrations ≥5 mcg/mL died.
 
-Sixty-two percent of subjects on MEPRON and 64% of subjects on TMP-SMX were classified as protocol-defined therapy successes (Table 8).
+Sixty-two percent of subjects on MEPRON and 64% of subjects on TMP‑SMX were classified as protocol-defined therapy successes (Table 8).
 
 Table 8.
-Outcome of Treatment for PCP-Positive Subjects Enrolled in the TMP-SMX Comparative Trial
+Outcome of Treatment for PCP‑Positive Subjects Enrolled in the TMP‑SMX Comparative Trial
 
 | Outcome of Therapya | Number of Subjects (%) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -78,14 +78,14 @@ Outcome of Treatment for PCP-Positive Subjects Enrolled in the TMP-SMX Comparati
 | Required alternate PCP therapy during trial | 55 | 34% | 55 | 34% |
 | a As defined by the protocol and described in trial description above. |  |  |  |  |
 
-The failure rate due to lack of response was significantly higher for subjects receiving MEPRON, while the failure rate due to an adverse reaction was significantly higher for subjects receiving TMP-SMX.
+The failure rate due to lack of response was significantly higher for subjects receiving MEPRON, while the failure rate due to an adverse reaction was significantly higher for subjects receiving TMP‑SMX.
 
 Pentamidine Comparative Trial
 
 This unblinded, randomized trial was designed to compare the safety and efficacy of MEPRON with that of pentamidine for the treatment of histologically-confirmed mild or moderate PCP in subjects with HIV/AIDS.
-Approximately 80% of the subjects either had a history of intolerance to trimethoprim or sulfa antimicrobials (the primary therapy group) or were experiencing intolerance to TMP-SMX with treatment of an episode of PCP at the time of enrollment in the trial (the salvage treatment group).
+Approximately 80% of the subjects either had a history of intolerance to trimethoprim or sulfa antimicrobials (the primary therapy group) or were experiencing intolerance to TMP‑SMX with treatment of an episode of PCP at the time of enrollment in the trial (the salvage treatment group).
 A total of 174 subjects were enrolled into the trial.
-Subjects were randomized to receive MEPRON 750 mg (three 250-mg tablets) 3 times daily for 21 days or pentamidine isethionate 3- to 4-mg/kg single IV infusion daily for 21 days.
+Subjects were randomized to receive MEPRON 750 mg (three 250‑mg tablets) 3 times daily for 21 days or pentamidine isethionate 3- to 4‑mg/kg single IV infusion daily for 21 days.
 The majority of subjects were white (72%) and male (97%); the mean age was approximately 37 years.
 Thirty-nine subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
 Of the 135 subjects with histologically-confirmed PCP, 70 were randomized to receive MEPRON and 65 to pentamidine.
@@ -93,14 +93,14 @@ One hundred and ten (110) of these were in the primary therapy group and 25 were
 One subject in the primary therapy group randomized to receive pentamidine did not receive trial medication.
 
 There was no difference in mortality rates between the treatment groups.
-Among the 135 subjects with confirmed PCP, 10 of 70 (14%) subjects receiving MEPRON and 9 of 65 (14%) subjects receiving pentamidine died during the 21-day treatment course or 8-week follow-up period.
-In the intent-to-treat analysis for all subjects, there were 11 (12.5%) deaths among those treated with MEPRON and 12 (14%) deaths among those treated with pentamidine.
+Among the 135 subjects with confirmed PCP, 10 of 70 (14%) subjects receiving MEPRON and 9 of 65 (14%) subjects receiving pentamidine died during the 21‑day treatment course or 8‑week follow‑up period.
+In the intent‑to‑treat analysis for all subjects, there were 11 (12.5%) deaths among those treated with MEPRON and 12 (14%) deaths among those treated with pentamidine.
 Among subjects for whom Day 4 plasma atovaquone concentrations were available, 3 of 5 (60%) subjects with concentrations <5 mcg/mL died during participation in the trial.
 However, only 2 of 21 (9%) subjects with Day 4 plasma concentrations ≥5 mcg/mL died.
 The therapeutic outcomes for the 134 subjects who received trial medication in this trial are presented in Table 9.
 
 Table 9.
-Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
+Outcome of Treatment for PCP‑Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
 
 | Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
