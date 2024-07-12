@@ -13,6 +13,10 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 As with other similar medications, brimonidine tartrate ophthalmic solution 0.1% and 0.15% may cause fatigue and/or drowsiness in some patients.
 Patients who engage in hazardous activities should be cautioned of the potential for a decrease in mental alertness.
 
-© 2023 Allergan.
+Distributed by: AbbVie Inc. North Chicago, IL 60064
+
+© 2024 AbbVie.
 All rights reserved.
-PACIFIC PHARMA® and its design are registered trademarks of Allergan, Inc. Irvine, CA 92612, U.S.A.
+PACIFIC PHARMA and its design are trademarks of Allergan, Inc., an AbbVie company.
+
+20086912
