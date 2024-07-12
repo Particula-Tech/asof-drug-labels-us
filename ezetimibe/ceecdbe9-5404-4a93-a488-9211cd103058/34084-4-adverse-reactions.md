@@ -67,7 +67,7 @@ Blood Disorders:thrombocytopenia
 
 Gastrointestinal Disorders:abdominal pain; pancreatitis; nausea
 
-Hepatobiliary Disorders:elevations in liver transaminases; hepatitis; cholelithiasis; cholecystitis
+Hepatobiliary Disorders:elevations in liver transaminases, including elevations more than 5 X ULN; hepatitis; cholelithiasis; cholecystitis
 
 Immune System Disorders:Hypersensitivity reactions including: anaphylaxis, angioedema, rash, and urticaria
 
