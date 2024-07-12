@@ -48,7 +48,7 @@ Risk Summary
 There are no data on the presence of roflumilast or its metabolite in human milk, the effects on the breastfed infant, or the effects on milk production.
 
 Roflumilast and/or its metabolites are excreted into the milk of lactating rats (see Data).
-When a drug is present in animal milk, it is likely that the drug will present in human milk.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZORYVE cream and any potential adverse effects on the breastfed infant from ZORYVE cream or from the underlying maternal condition.
 
 Clinical Considerations
@@ -65,23 +65,41 @@ Roflumilast and/or its metabolite concentrations measured 8 hours after an oral 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ZORYVE cream for the treatment of plaque psoriasis have been established in pediatric patients 6 years of age and older.
-Use of ZORYVE cream in pediatric patients 6 to less than 18 years of age is supported by data from two 8-week, vehicle-controlled safety and efficacy trials which included 18 pediatric subjects 6 to 17 years of age, of whom 11 received ZORYVE cream.
-Use of ZORYVE cream in pediatric patients 12 to 17 years of age is also supported by data from open-label trials of 2 and 24 weeks duration which included 18 pediatric subjects 12 to 17 years of age treated with ZORYVE cream.
-Use of ZORYVE cream in pediatric patients 6 to less than 12 years of age is also supported by data from one 4-week, open-label, safety and pharmacokinetic (PK) study which included 20 pediatric subjects 6 to less than 12 years of age.
-The adverse reaction profile in subjects 6 to less than 18 years of age was consistent with that observed in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
+Plaque Psoriasis
 
-The safety and effectiveness of ZORYVE cream in pediatric patients below the age of 6 years have not been established.
+The safety and effectiveness of ZORYVE cream, 0.3%, for the topical treatment of plaque psoriasis, including intertriginous areas, have been established in pediatric patients 6 years of age and older.
+Use of ZORYVE cream, 0.3%, in pediatric patients 6 years of age and older is supported by data from two 8-week, vehicle-controlled, safety and efficacy trials which included 18 subjects 6 to 17 years of age, of whom 11 received ZORYVE cream, 0.3%.
+Use of ZORYVE cream, 0.3%, in pediatric patients 12 years of age and older is also supported by data from open-label trials of 2 and 24 weeks duration which included 18 subjects 12 to 17 years of age treated with ZORYVE cream, 0.3%.
+Use of ZORYVE cream, 0.3%, in pediatric patients 6 to less than 12 years of age is also supported by data from one 4-week, open-label, safety and pharmacokinetic (PK) study which included 20 pediatric subjects 6 to less than 12 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+
+The safety and effectiveness of ZORYVE cream, 0.3%, have not been established in pediatric patients younger than 6 years of age.
+
+Atopic Dermatitis
+
+The safety and effectiveness of ZORYVE cream, 0.15%, for the topical treatment of mild to moderate atopic dermatitis have been established in pediatric patients 6 years of age and older.
+Use of ZORYVE cream, 0.15%, in this age group is supported by data from two 4-week, vehicle-controlled, safety and efficacy trials which included 615 subjects 6 to 17 years of age, of whom 406 received ZORYVE cream, 0.15%.
+Use of ZORYVE cream, 0.15%, in pediatric patients 6 years of age and older is also supported by data from 481 pediatric subjects treated with ZORYVE cream, 0.15%, in open-label trials, of which 104 were treated for 52 weeks [see Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+
+The safety and effectiveness of ZORYVE cream, 0.15%, have not been established in pediatric patients younger than 6 years of age.
 
 ## 8.5 Geriatric Use
 
-Of the 881 subjects with psoriasis exposed to ZORYVE cream or vehicle for up to 8 weeks in 2 controlled clinical trials, 106 were 65 years of age or older.
+There were 184 patients 65 years of age and older in clinical studies for plaque psoriasis and atopic dermatitis [see Clinical Studies (14.1, 14.2)].
+
+Plaque Psoriasis
+
+Of the 576 patients treated with ZORYVE cream, 0.3%, in the 2 controlled clinical studies for plaque psoriasis, 56 (9.7%) were 65 to 74 years of age and 21 (3.7%) were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Other reported clinical experience has not identified differences in responses between the geriatric and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-Based on available data for roflumilast, no adjustment of dosage in geriatric patients is warranted [see Clinical Pharmacology (12.3)].
+
+Atopic Dermatitis
+
+Of the 885 patients treated with ZORYVE cream, 0.15%, in the 2 controlled clinical studies for atopic dermatitis, 36 (4.1%) were 65 to 74 years of age and 8 (0.9%) were 75 years of age and older.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+Other reported clinical experience has not identified differences in responses between the geriatric and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment
 
 Oral roflumilast 250 mcg once daily for 14 days was studied in subjects with hepatic impairment.
 The systemic exposure of roflumilast and roflumilast N-oxide were increased in subjects with moderate (Child-Pugh B) hepatic impairment.
-ZORYVE cream is contraindicated in patients with moderate to severe liver impairment (Child-Pugh B or C). No dosage adjustment is needed in patients with mild (Child-Pugh A) hepatic impairment [see Contraindications (4), Clinical Pharmacology (12.3)].
+ZORYVE cream is contraindicated in patients with moderate to severe liver impairment (Child-Pugh B or C). No dosage adjustment is needed in patients with mild (Child-Pugh A) hepatic impairment [see Contraindications (4) and Clinical Pharmacology (12.3)].
