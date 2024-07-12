@@ -3,16 +3,16 @@
 ## 7.1 Strong CYP2C8 Inhibitors
 
 An inhibitor of CYP2C8 (e.g., gemfibrozil) significantly increases the exposure (area under the serum concentration-time curve or AUC) and half-life (t½) of pioglitazone.
-Therefore, the maximum recommended dose of pioglitazone is 15 mg daily if used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+Therefore, the maximum recommended dosage of ACTOPLUS MET is 15 mg of pioglitazone and 850 mg of metformin HCl once daily if used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 7.2 CYP2C8 Inducers
 
 An inducer of CYP2C8 (e.g., rifampin) may significantly decrease the exposure (AUC) of pioglitazone.
-Therefore, if an inducer of CYP2C8 is started or stopped during treatment with pioglitazone, changes in diabetes treatment may be needed based on clinical response without exceeding the maximum recommended daily dose of 45 mg for pioglitazone [see Clinical Pharmacology (12.3)].
+Therefore, if an inducer of CYP2C8 is started or stopped during treatment with ACTOPLUS MET, changes in diabetes treatment may be needed based on clinical response without exceeding the maximum recommended daily dosage of ACTOPLUS MET (45 mg of pioglitazone and 2,550 mg of metformin HCl) [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Carbonic Anhydrase Inhibitors
 
-Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
+Topiramate or other carbonic anhydrse inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
 Concomitant use of these drugs with ACTOPLUS MET may increase the risk for lactic acidosis.
 Consider more frequent monitoring of these patients.
 
@@ -28,10 +28,8 @@ Warn patients against excessive alcohol intake while receiving ACTOPLUS MET.
 
 ## 7.6 Insulin Secretagogues or Insulin
 
+Coadministration of ACTOPLUS MET with an insulin secretagogue (e.g., sulfonylurea) or insulin may increase the risk of hypoglycemia.
 If hypoglycemia occurs in a patient coadministered ACTOPLUS MET and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.
-
-If hypoglycemia occurs in a patient coadministered ACTOPLUS MET and insulin, the dose of insulin should be decreased by 10 to 25%.
-Further adjustments to the insulin dose should be individualized based on glycemic response.
 
 ## 7.7 Drugs Affecting Glycemic Control
 

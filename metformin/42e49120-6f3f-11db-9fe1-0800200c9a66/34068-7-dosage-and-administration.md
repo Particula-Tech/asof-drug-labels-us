@@ -1,44 +1,59 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommendations for All Patients
+## 2.1 Important Dosage and Administration Information
 
-ACTOPLUS MET should be taken with meals to reduce the gastrointestinal side effects associated with metformin.
+- Obtain liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) prior to initiating ACTOPLUS MET [see Warnings and Precautions (5.5)].
+- ACTOPLUS MET contains 15 mg of pioglitazone and 850 mg of metformin hydrochloride (HCl) in each tablet.
+- Take ACTOPLUS MET with meals to reduce gastrointestinal adverse reactions with metformin [see Adverse Reactions (6.1)].
+- If a dose is missed, do not double the next dose.
 
-If therapy with a combination tablet containing pioglitazone and metformin is considered appropriate the recommended starting dose is:
+## 2.2 Recommended Dosage and Administration
 
-- •15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-- •for patients with New York Heart Association (NYHA) Class I or Class II congestive heart failure: 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-- •for patients inadequately controlled on metformin monotherapy: 15 mg/850 mg once or twice daily (depending on the dose of metformin already being taken) and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-- •for patients inadequately controlled on pioglitazone monotherapy: 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-- •for patients who are changing from combination therapy of pioglitazone plus metformin as separate tablets: ACTOPLUS MET should be taken at doses that are as close as possible to the dose of pioglitazone and metformin already being taken.
+Recommended Starting Dosage Based on Current Regimen
 
-ACTOPLUS MET may be titrated up to a maximum daily dose of 45 mg of pioglitazone and 2550 mg of metformin.
+Individualize the starting dosage of ACTOPLUS MET based on the patient's current regimen and the available strength of ACTOPLUS MET (see Table 1).
 
-Metformin doses above 2000 mg may be better tolerated given three times a day.
+Table 1: Recommended Starting Dosage Based on the Patient’s Current Regimen
 
-After initiation of ACTOPLUS MET or with dose increase, monitor patients carefully for adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1)].
-Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) should be obtained prior to initiating ACTOPLUS MET.
-Routine periodic monitoring of liver tests during treatment with ACTOPLUS MET is not recommended in patients without liver disease.
-Patients who have liver test abnormalities prior to initiation of ACTOPLUS MET or who are found to have abnormal liver tests while taking ACTOPLUS MET should be managed as described under Warnings and Precautions [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
+| Current Regimen | Starting Dosage of ACTOPLUS MET (15 mg of pioglitazone and 850 mg of metformin HCl per tablet)For dosage recommendations for patients with renal impairment and/or congestive heart failure, see Dosage and Administration (2.3, 2.4) |
+| --- | --- |
+| Not treated with either pioglitazone or metformin HCl | One tablet orally once daily |
+| Metformin HCl | One tablet orally once or twice daily. Select a dosage that is as close as possible to the current dosage of metformin HCl |
+| Pioglitazone | One tablet orally once daily |
+| Pioglitazone and metformin HCl | Select a dosage that is as close as possible to the current dosage of pioglitazone and metformin HCl while not exceeding three tablets orally per day. |
 
-## 2.2 Recommendations for Use in Renal Impairment
+Dosage Titration for Additional Glycemic Control
 
-Assess renal function prior to initiation of ACTOPLUS MET and periodically thereafter.
+Titrate the ACTOPLUS MET dosage gradually, as needed, after assessing therapeutic response and tolerability.
 
-ACTOPLUS MET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2.
+ACTOPLUS MET may be increased to a maximum recommended total daily dosage of three tablets per day (45 mg of pioglitazone and 2,550 mg of metformin HCl).
+Total daily dosages of 2,550 mg of metformin HCl may be taken in divided doses three times a day to reduce gastrointestinal adverse reactions [see Adverse Reactions (6.1)].
 
-Initiation of ACTOPLUS MET in patients with an eGFR between 30 to 45 mL/min/1.73 m2 is not recommended.
+## 2.3 Recommendations for Use in Patients with Renal Impairment
 
-In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
+- Assess renal function prior to initiation of ACTOPLUS MET and periodically thereafter [see Use in Specific Populations (8.6)].
+- ACTOPLUS MET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min.
+- Initiation of ACTOPLUS MET in patients with an eGFR between 30 to 45 mL/min is not recommended.
+- In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min, assess the benefit and risk of continuing therapy.
+- Discontinue ACTOPLUS MET if the patient’s eGFR later falls below 30 mL/min [see Contraindications (4), Warnings and Precautions (5.2)].
 
-Discontinue ACTOPLUS MET if the patient's eGFR later falls below 30 mL/min/1.73 m2 [see Contraindications (4), Warnings and Precautions (5.2)].
+## 2.4 Recommendations for Congestive Heart Failure
 
-## 2.3 Concomitant Use with Strong CYP2C8 Inhibitors
+Starting Dosage in Patients with NYHA Class I or II Congestive Heart Failure
 
-Coadministration of pioglitazone (one of the ingredients in ACTOPLUS MET) and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.
-Therefore, the maximum recommended dose of ACTOPLUS MET is 15 mg/850 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+For patients with preexisting NYHA Class I or II congestive heart failure, the recommended starting dosage of ACTOPLUS MET is 15 mg of pioglitazone and 850 mg of metformin [see Boxed Warning and Warnings and Precautions (5.1)].
 
-## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
+Monitoring for Fluid Retention and Dosage Modifications for Congestive Heart Failure
 
-Discontinue ACTOPLUS MET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+After initiation of ACTOPLUS MET or with dosage increase, monitor patients carefully for adverse reactions related to fluid retention as has been seen with pioglitazone (e.g., weight gain, edema and signs and symptoms of congestive heart failure).
+
+If congestive heart failure develops while taking ACTOPLUS MET, consider discontinuation of ACTOPLUS MET or dosage reduction of pioglitazone in ACTOPLUS MET [see Boxed Warning and Warnings and Precautions (5.1)].
+
+## 2.5 Coadministration with Strong CYP2C8 Inhibitors
+
+The maximum recommended dosage of ACTOPLUS MET is one tablet (15 mg of pioglitazone and 850 mg of metformin HCl) once daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+
+## 2.6 Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue ACTOPLUS MET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
 Re-evaluate eGFR 48 hours after the imaging procedure; restart ACTOPLUS MET if renal function is stable [see Warnings and Precautions (5.2)].

@@ -9,7 +9,7 @@ Published studies with metformin use during pregnancy have not reported a clear 
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
 In animal reproduction studies, no adverse developmental effects were observed when pioglitazone was administered to pregnant rats and rabbits during organogenesis at exposures up to 5 and 35 times the 45 mg clinical dose, respectively, based on body surface area.
-No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2 to 6 times, respectively, a 2000 mg clinical dose, based on body surface area (see Data).
+No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2 to 6 times, respectively, a 2,000 mg clinical dose, based on body surface area (see Data).
 
 The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20 to 25% in women with a HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -31,7 +31,7 @@ However, these studies cannot definitely establish the absence of any metformin-
 
 Animal Data
 
-Pioglitazone and Metformin Hydrochloride
+Pioglitazone and Metformin HCl
 
 Animal reproduction studies were not conducted with the combined products in ACTOPLUS MET.
 The following data are based on studies conducted with the individual components of ACTOPLUS MET.
@@ -42,10 +42,10 @@ Pioglitazone administered to pregnant rats during organogenesis did not cause ad
 In pregnant rabbits administered pioglitazone during organogenesis, no adverse developmental effects were observed at 80 mg/kg (~35 times the 45 mg clinical dose), but reduced embryo-fetal viability at 160 mg/kg, or ~69 times the 45 mg clinical dose, by body surface area.
 When pregnant rats received pioglitazone during late gestation and lactation, delayed postnatal development, attributed to decreased body weight, occurred in offspring at maternal doses of 10 mg/kg and above or ≥2 times the 45 mg clinical dose, by body surface area.
 
-Metformin Hydrochloride
+Metformin HCl
 
-Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
-This represents an exposure of about 2 to 6 times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
+Metformin HCl did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+This represents an exposure of about 2 to 6 times a 2,000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 
 ## 8.2 Lactation
 
@@ -81,13 +81,13 @@ In the two pooled 16 to 24 week add-on to sulfonylurea trials, 201 patients (18.
 In the two pooled 16 to 24 week add-on to metformin trials, 155 patients (15.5%) treated with pioglitazone were ≥65 years old and 19 (1.9%) were ≥75 years old.
 In the two pooled 16 to 24 week add-on to insulin trials, 272 patients (25.4%) treated with pioglitazone were ≥65 years old and 22 (2.1%) were ≥75 years old.
 
-In PROactive Trial, 1068 patients (41.0%) treated with pioglitazone were ≥65 years old and 42 (1.6%) were ≥75 years old.
+In PROactive Trial, 1,068 patients (41.0%) treated with pioglitazone were ≥65 years old and 42 (1.6%) were ≥75 years old.
 
 In pharmacokinetic studies with pioglitazone, no significant differences were observed in pharmacokinetic parameters between elderly and younger patients [see Clinical Pharmacology (12.3)].
 
 Although clinical experiences have not identified differences in effectiveness and safety between the elderly (≥65 years) and younger patients, these conclusions are limited by small sample sizes for patients ≥75 years old.
 
-Metformin Hydrochloride
+Metformin HCl
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
@@ -96,7 +96,7 @@ Assess renal function more frequently in elderly patients [see Warnings and Prec
 ## 8.6 Renal Impairment
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-ACTOPLUS MET is contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+ACTOPLUS MET is contraindicated in severe renal impairment, which includes patients with an eGFR below 30 mL/min [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
