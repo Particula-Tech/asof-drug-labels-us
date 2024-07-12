@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Fosaprepitant for injection is contraindicated in patients:
+Fosaprepitant is contraindicated in patients:
 
 - who are hypersensitive to any component of the product.
   Hypersensitivity reactions including anaphylactic reactions, flushing, erythema, and dyspnea have been reported [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are insufficient data on use of fosaprepitant for injection in pregnant women to inform a drug associated risk.
+There are insufficient data on use of fosaprepitant in pregnant women to inform a drug associated risk.
 In animal reproduction studies, no adverse developmental effects were observed in rats or rabbits exposed during the period of organogenesis to systemic drug levels (AUC) approximately equivalent to the exposure at the recommended human dose (RHD) of 150 mg [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -25,18 +25,25 @@ Risk Summary
 
 Lactation studies have not been conducted to assess the presence of aprepitant in human milk, the effects on the breastfed infant, or the effects on milk production.
 Aprepitant is present in rat milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for fosaprepitant for injection and any potential adverse effects on the breastfed infant from fosaprepitant for injection or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for fosaprepitant and any potential adverse effects on the breastfed infant from fosaprepitant or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Contraception
 
-Upon administration of fosaprepitant for injection, the efficacy of hormonal contraceptives may be reduced.
-Advise females of reproductive potential using hormonal contraceptives to use an effective alternative or back-up non-hormonal contraceptive (such as condoms and spermicides) during treatment with fosaprepitant for injection and for 1 month following the last dose [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Upon administration of fosaprepitant, the efficacy of hormonal contraceptives may be reduced.
+Advise females of reproductive potential using hormonal contraceptives to use an effective alternative or back-up non-hormonal contraceptive (such as condoms and spermicides) during treatment with fosaprepitant and for 1 month following the last dose [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of fosaprepitant for injection for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months of age.
+The safety and effectiveness of a single dose and a 3-day regimen of Fosaprepitant have been established in pediatric patients 6 months to 17 years for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC and MEC.
+
+Use of fosaprepitant in this age group is supported by evidence from adequate and well-controlled studies of Fosaprepitant for injection in adults, with additional safety, efficacy and pharmacokinetic data in pediatric patients 6 months to 17 years.
+Efficacy and safety were also supported by data from an adequate and well- controlled study of a 3-day oral aprepitant regimen in pediatric patients 6 months to 17 years.
+See the full prescribing information for aprepitant capsules for complete clinical information regarding studies performed with oral aprepitant.
+Adverse reactions were similar to those reported in adult patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
+
+The safety and effectiveness of fosaprepitant for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months of age.
 
 Juvenile Animal Toxicity Data
 
@@ -46,17 +53,17 @@ No effects on neurobehavior, sensory and motor function, or learning and memory 
 
 In a toxicity study in juvenile dogs treated with fosaprepitant from postnatal day 14 (equivalent to a newborn human) to day 42 (approximately equivalent to a 2 year old human), decreased testicular weight and Leydig cell size were seen in the males at 6 mg/kg/day and increased uterine weight, hypertrophy of the uterus and cervix, and edema of vaginal tissues were seen in females from 4 mg/kg/day.
 A study was also conducted in young rats to evaluate the effects of aprepitant on growth and on neurobehavioral and sexual development.
-Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human)).
+Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily (providing exposure in male and female rats lower than the exposure at the recommended pediatric human dose) from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human)).
 Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
 There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
 
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.'s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC's EMEND (fosaprepitant) for injection.
+However, due to Merck Sharp & Dohme LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
-Of the 1649 adult cancer patients treated with intravenous fosaprepitant for injection in HEC and MEC clinical studies, 27% were aged 65 and over, while 5% were aged 75 and over.
-Other reported clinical experience with fosaprepitant for injection has not identified differences in responses between elderly and younger patients.
+Of the 1649 adult cancer patients treated with intravenous fosaprepitant in HEC and MEC clinical studies, 27% were aged 65 and over, while 5% were aged 75 and over.
+Other reported clinical experience with fosaprepitant has not identified differences in responses between elderly and younger patients.
 In general, use caution when dosing elderly patients as they have a greater frequency of decreased hepatic, renal or cardiac function and concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Hepatic Impairment
@@ -64,4 +71,4 @@ In general, use caution when dosing elderly patients as they have a greater freq
 The pharmacokinetics of aprepitant in patients with mild and moderate hepatic impairment were similar to those of healthy subjects with normal hepatic function.
 No dosage adjustment is necessary for patients with mild to moderate hepatic impairment (Child-Pugh score 5 to 9).
 There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9).
-Therefore, additional monitoring for adverse reactions in these patients may be warranted when fosaprepitant for injection is administered [see Clinical Pharmacology (12.3)].
+Therefore, additional monitoring for adverse reactions in these patients may be warranted when fosaprepitant is administered [see Clinical Pharmacology (12.3)].
