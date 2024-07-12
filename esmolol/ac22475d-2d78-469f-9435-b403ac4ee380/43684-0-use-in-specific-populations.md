@@ -5,8 +5,8 @@
 Esmolol hydrochloride has been shown to produce increased fetal resorptions with minimal maternal toxicity in rabbits when given in doses approximately 8 times the maximum human maintenance dose (300 mcg/kg/min).
 There are no adequate and well-controlled studies in pregnant women.
 Esmolol hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Teratogenicity studies in rats at intravenous dosages of esmolol hydrochloride up to 3000 mcg/kg/min (10 times the maximum human maintenance dosage) for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while a dosage of 10,000 mcg/kg/min produced maternal toxicity and lethality.
-In rabbits, intravenous dosages up to 1000 mcg/kg/min for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while 2500 mcg/kg/min produced minimal maternal toxicity and increased fetal resorptions.
+Teratogenicity studies in rats at intravenous dosages of esmolol hydrochloride up to 3,000 mcg/kg/min (10 times the maximum human maintenance dosage) for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while a dosage of 10,000 mcg/kg/min produced maternal toxicity and lethality.
+In rabbits, intravenous dosages up to 1,000 mcg/kg/min for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while 2,500 mcg/kg/min produced minimal maternal toxicity and increased fetal resorptions.
 
 ## 8.2 Labor and Delivery
 
@@ -30,9 +30,9 @@ In general, dose selection for an elderly patient should usually start at the lo
 
 ## 8.6 Hepatic Impairment
 
-No special precautions are necessary in patients with hepatic impairment because esmolol hydrochloride is metabolized by red-blood cell esterases [see Clinical Pharmacology (12.3)].
+No special precautions are necessary in patients with hepatic impairment because esmolol hydrochloride is metabolized by red-blood cell esterases [see Clinical Pharmacology (12)].
 
 ## 8.7 Renal Impairment
 
 No dosage adjustment is required for esmolol in patients with renal impairment receiving a maintenance infusion of esmolol 150 mcg/kg for 4 hours.
-There is no information on the tolerability of maintenance infusions of esmolol using rates in excess of 150 mcg/kg or maintained longer than 4 hours [see Clinical Pharmacology (12.3)].
+There is no information on the tolerability of maintenance infusions of esmolol using rates in excess of 150 mcg/kg or maintained longer than 4 hours [see Clinical Pharmacology (12)].

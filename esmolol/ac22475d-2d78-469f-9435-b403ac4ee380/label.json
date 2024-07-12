@@ -1,17 +1,27 @@
 {
   "application_numbers": [
-    "ANDA205520"
+    "ANDA205520",
+    "ANDA216244"
   ],
   "inn": "esmolol",
   "labeler": "Eugia US LLC",
   "package_ndcs": [
-    "55150-194-10"
+    "55150-194-10",
+    "55150-420-01",
+    "55150-420-10",
+    "55150-421-01",
+    "55150-421-10"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "esmolol hydrochloride",
       "name": "Esmolol Hydrochloride"
+    },
+    {
+      "form": "INJECTION",
+      "generic": "esmolol hydrochloride in sodium chloride",
+      "name": "esmolol hydrochloride"
     }
   ],
   "setid": "ac22475d-2d78-469f-9435-b403ac4ee380",

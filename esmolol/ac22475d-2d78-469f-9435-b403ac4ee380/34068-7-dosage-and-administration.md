@@ -12,12 +12,12 @@ Table 1 Step-Wise Dosing
 | 1 | Optional loading dose (500 mcg per kg over 1 minute), then 50 mcg per kg per min for 4 min |
 | 2 | Optional loading dose if necessary, then 100 mcg per kg per min for 4 min |
 | 3 | Optional loading dose if necessary, then 150 mcg per kg per min for 4 min |
-| 4 | If necessary increase dose to 200 mcg per kg per min |
+| 4 | If necessary, increase dose to 200 mcg per kg per min |
 
 In the absence of loading doses, continuous infusion of a single concentration of esmolol reaches pharmacokinetic and pharmacodynamic steady-state in about 30 minutes.
 
 The effective maintenance dose for continuous and step-wise dosing is 50 to 200 mcg per kg per minute, although doses as low as 25 mcg per kg per minute have been adequate.
-Dosages greater than 200 mcg per kg per minute provide little added heart-rate lowering effect, and the rate of adverse reactions increases.
+Dosages greater than 200 mcg per kg per minute provide little added heart rate lowering effect, and the rate of adverse reactions increases.
 
 Maintenance infusions may be continued for up to 48 hours.
 
@@ -35,7 +35,7 @@ Immediate Control
 Gradual Control
 
 - Administer 500 mcg per kg as a bolus dose over 1 minute followed by a maintenance infusion of 50 mcg per kg per min for 4 minutes.
-- Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia (refer to Table 1).
+- Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia.
   Refer to Maximum Recommended Doses below.
 
 Maximum Recommended Doses
@@ -54,18 +54,26 @@ When transitioning from esmolol hydrochloride injection to alternative drugs, th
 Thirty minutes following the first dose of the alternative drug, reduce the esmolol hydrochloride infusion rate by one-half (50%).
 
 2.
-After administration of the second dose of the alternative drug, monitor the patient's response, and, if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride infusion.
+After administration of the second dose of the alternative drug, monitor the patient's response and if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride infusion.
 
 ## 2.4 Directions for Use
 
-Esmolol hydrochloride injection is available in a single-dose vial.
+Esmolol hydrochloride injection is available in a pre-mixed bag and single-dose vial.
 Esmolol hydrochloride injection is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation).
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Premixed Bag
+
+- The medication port is to be used solely for withdrawing an initial bolus from the bag.
+- Use aseptic technique when withdrawing the bolus dose.
+- Do not add any additional medications to the bag.
+
+Figure 1: Two-Port Flexible Container
+
 Single-Dose Vial
 
-The Single-Dose Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared.
-Compatibility with Commonly Used Intravenous Fluids Esmolol hydrochloride injection was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg Esmolol Hydrochloride per mL.
+The Single-Dose Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared [see How Supplied/Storage and Handling (16.2)].
+Compatibility with Commonly Used Intravenous Fluids Esmolol hydrochloride injection was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg esmolol hydrochloride per mL.
 Esmolol hydrochloride injection was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
 
 - Dextrose (5%) Injection, USP

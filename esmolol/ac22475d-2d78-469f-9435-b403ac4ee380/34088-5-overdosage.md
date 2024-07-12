@@ -14,7 +14,7 @@ Continuous monitoring of the patient is required.
 
 Because of its approximately 9-minute elimination half-life, the first step in the management of toxicity should be to discontinue the esmolol hydrochloride infusion.
 Then, based on the observed clinical effects, consider the following general measures.
-Bradycardia: Consider intravenous administration of atropine or another anticholinergic drug or cardiac pacing.
+Bradycardia Consider intravenous administration of atropine or another anticholinergic drug or cardiac pacing.
 Cardiac Failure Consider intravenous administration of a diuretic or digitalis glycoside.
 In shock resulting from inadequate cardiac contractility, consider intravenous administration of dopamine, dobutamine, isoproterenol, or inamrinone.
 Glucagon has been reported to be useful.
@@ -24,6 +24,7 @@ Bronchospasm Consider intravenous administration of a beta2 stimulating agent or
 ## 10.3 Dilution Errors
 
 Massive accidental overdoses of esmolol hydrochloride have resulted from dilution errors.
+Use of esmolol hydrochloride sodium chloride injection and esmolol hydrochloride sodium chloride injection double strength may reduce the potential for dilution errors.
 Some of these overdoses have been fatal while others resulted in permanent disability.
 Bolus doses in the range of 625 mg to 2.5 g (12.5 to 50 mg/kg) have been fatal.
 Patients have recovered completely from overdoses as high as 1.75 g given over one minute or doses of 7.5 g given over one hour for cardiovascular surgery.

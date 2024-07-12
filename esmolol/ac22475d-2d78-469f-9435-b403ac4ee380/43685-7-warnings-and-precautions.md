@@ -22,7 +22,7 @@ If severe bradycardia develops, reduce or stop esmolol hydrochloride.
 Beta blockers, like esmolol hydrochloride, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
 At the first sign or symptom of impending cardiac failure, stop esmolol hydrochloride and start supportive therapy [see Overdosage (10)].
 
-## 5.4 Intraoperative and Postoperative Tachycardia and Hypertension
+## 5.4 Intraoperative and Postoperative Tachycardia and/or Hypertension
 
 Monitor vital signs closely and titrate esmolol hydrochloride slowly in the treatment of patients whose blood pressure is primarily driven by vasoconstriction associated with hypothermia.
 
@@ -30,17 +30,17 @@ Monitor vital signs closely and titrate esmolol hydrochloride slowly in the trea
 
 Patients with reactive airways disease should, in general, not receive beta blockers.
 Because of its relative beta1 selectivity and titratability, titrate esmolol hydrochloride to the lowest possible effective dose.
-In the event of bronchospasm, stop the infusion immediately; a beta2 stimulating agent may be administered with appropriate monitoring of ventricular rate.
+In the event of bronchospasm, stop the infusion immediately; a beta2 stimulating agent may be administered with appropriate monitoring of ventricular rates.
 
-## 5.6 Use in Patients with Diabetes Mellitus and Hypoglycemia
+## 5.6 Hypoglycemia
 
-In patients with hypoglycemia, or diabetic patients (especially those with labile diabetes) who are receiving insulin or other hypoglycemic agents, beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be masked.
-Concomitant use of beta blockers and antidiabetic agents can enhance the effect of antidiabetic agents (blood glucose–lowering).
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 ## 5.7 Infusion Site Reactions
 
 Infusion site reactions have occurred with the use of esmolol hydrochloride.
-They include irritation, inflammation, and severe reactions (thrombophlebitis, necrosis, and blistering), in particular when associated with extravasation [see Adverse Reactions (6.1)].
+They include irritation, inflammation, and severe reactions (thrombophlebitis, necrosis, and blistering), in particular when associated with extravasation [see Adverse Reactions (6)].
 Avoid infusions into small veins or through a butterfly catheter.
 If a local infusion site reaction develops, use an alternative infusion site and avoid extravasation.
 
@@ -62,11 +62,11 @@ In hypovolemic patients, esmolol hydrochloride can attenuate reflex tachycardia 
 
 In patients with peripheral circulatory disorders (including Raynaud’s disease or syndrome, and peripheral occlusive vascular disease), esmolol hydrochloride may aggravate peripheral circulatory disorders.
 
-## 5.12 Abrupt Discontinuation of Esmolol Hydrochloride
+## 5.12 Abrupt Discontinuation of Esmolol Hydrochloride Injection
 
 Severe exacerbations of angina, myocardial infarction, and ventricular arrhythmias have been reported in patients with coronary artery disease upon abrupt discontinuation of beta blocker therapy.
 Observe patients for signs of myocardial ischemia when discontinuing esmolol hydrochloride.
-Heart rate increases moderately above pre-treatment levels 30 minutes after esmolol hydrochloride discontinuation.
+Heart rate increases moderately above pretreatment levels 30 minutes after esmolol hydrochloride discontinuation.
 
 ## 5.13 Hyperkalemia
 

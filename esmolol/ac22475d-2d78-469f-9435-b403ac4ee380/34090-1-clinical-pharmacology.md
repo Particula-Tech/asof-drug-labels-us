@@ -11,8 +11,8 @@ Esmolol hydrochloride inhibits the beta1 receptors located chiefly in cardiac mu
 Clinical pharmacology studies in normal volunteers have confirmed the beta blocking activity of esmolol hydrochloride, showing reduction in heart rate at rest and during exercise, and attenuation of isoproterenol-induced increases in heart rate.
 Blood levels of esmolol hydrochloride have been shown to correlate with extent of beta blockade.
 After termination of infusion, substantial recovery from beta blockade is observed in 10 to 20 minutes.
-The acid metabolite of esmolol exihibits negligible pharmacological activity.
-In human electrophysiology studies, esmolol hydrochloride produced effects typical of a beta blocker; a decrease in the heart rate, increase in sinus cycle length, prolongation of the sinus node recovery time, prolongation of the AH interval during normal sinus rhythm and during atrial pacing, and an increase in antegrade Wenckebach cycle length.
+The acid metabolite of esmolol exhibits negligible pharmacological activity.
+In human electrophysiology studies, esmolol hydrochloride produced effects typical of a beta blocker: a decrease in the heart rate, increase in sinus cycle length, prolongation of the sinus node recovery time, prolongation of the AH interval during normal sinus rhythm and during atrial pacing, and an increase in antegrade Wenckebach cycle length.
 In patients undergoing radionuclide angiography, esmolol hydrochloride, at dosages of 200 mcg/kg/min, produced reductions in heart rate, systolic blood pressure, rate pressure product, left and right ventricular ejection fraction and cardiac index at rest, which were similar in magnitude to those produced by intravenous propranolol (4 mg).
 During exercise, esmolol hydrochloride produced reductions in heart rate, rate pressure product and cardiac index which were also similar to those produced by propranolol, but esmolol hydrochloride produced a significantly larger fall in systolic blood pressure.
 In patients undergoing cardiac catheterization, the maximum therapeutic dose of 300 mcg/kg/min of esmolol hydrochloride produced similar effects and, in addition, there were small, clinically insignificant increases in the left ventricular end diastolic pressure and pulmonary capillary wedge pressure.
@@ -38,9 +38,9 @@ Because of its short half-life, blood levels of esmolol can be rapidly altered b
 Consistent with the high rate of blood-based metabolism of esmolol, less than 2% of the drug is excreted unchanged in the urine.
 Within 24 hours of the end of infusion, the acid metabolite of esmolol in urine accounts for approximately 73 to 88% of the dosage.
 Metabolism of esmolol results in the formation of the corresponding free acid and methanol.
-The acid metabolite has been shown in animals to have negligible activity, and in normal volunteers its blood levels do not correspond to the level of beta blockade.
+The acid metabolite has been shown in animals to have negligible activity and in normal volunteers its blood levels do not correspond to the level of beta blockade.
 The acid metabolite has an elimination half-life of about 3.7 hours and is excreted in the urine with a clearance approximately equivalent to the glomerular filtration rate.
-After a 4 hours maintenance infusion of 150 mcg/kg, the plasma concentrations of esmolol are similar in subjects with normal renal function and in patients with ESRD on dialysis.
+After a 4 hour maintenance infusion of 150 mcg/kg, the plasma concentrations of esmolol are similar in subjects with normal renal function and in patients with ESRD on dialysis.
 The half-life of the acid metabolite of esmolol hydrochloride, which is primarily excreted unchanged by the kidney, is increased about 12-fold to 48 hours in patients with ESRD.
 The peak concentrations of the acid metabolite are doubled in ESRD.
 Methanol blood levels, monitored in subjects receiving esmolol hydrochloride for up to 6 hours at 300 mcg/kg/min and 24 hours at 150 mcg/kg/min, approximated endogenous levels and were less than 2% of levels usually associated with methanol toxicity.
