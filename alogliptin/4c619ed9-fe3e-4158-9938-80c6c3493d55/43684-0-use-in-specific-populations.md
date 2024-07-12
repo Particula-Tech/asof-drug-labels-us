@@ -16,7 +16,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated Maternal and/or Embryo/Fetal risk
 
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
@@ -47,8 +47,8 @@ When pregnant rats received pioglitazone during late gestation and lactation, de
 Risk Summary
 
 There is no information regarding the presence of pioglitazone or alogliptin in human milk, the effects on the breastfed infant, or the effects on milk production.
-Pioglitazone and alogliptin are present in rat milk; however, due to species-specific differences in lactation physiology, animal data may not reliably predict drug levels in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for OSENI and any potential adverse effects on the breastfed infant from OSENI or from the underlying maternal condition.
+Pioglitazone and alogliptin are present in rat milk; however, due to species-specific differences in lactation physiology, animal lactation data may not reliably predict drug levels in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for OSENI and any potential adverse effects on the breastfed infant from OSENI or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -64,14 +64,13 @@ OSENI is not recommended for use in pediatric patients based on adverse effects 
 
 Alogliptin and Pioglitazone
 
-Of the total number of patients (N=1533) in clinical safety and efficacy studies treated with alogliptin and pioglitazone, 248 (16.2%) patients were 65 years and older and 15 (1%) patients were 75 years and older.
-No overall differences in safety or effectiveness were observed between these patients and younger patients.
-While this and other reported clinical experiences have not identified differences in responses between the elderly and younger patients, greater sensitivity of some older individuals cannot be excluded.
+Of the total number of patients (N=1,533) in clinical safety and efficacy studies treated with alogliptin and pioglitazone, 248 (16.2%) patients were 65 years and older and 15 (1%) patients were 75 years and older.
+No overall differences in safety or effectiveness were observed between patients 65 years of age and older and younger adult patients.
 
 Alogliptin
 
-Of the total number of patients (N=9052) in clinical safety and efficacy studies treated with alogliptin, 2257 (24.9%) patients were ≥65 years old and 386 (4.3%) patients were ≥75 years old.
-No overall differences in safety or effectiveness were observed between patients ≥65 years old and younger patients.
+Of the total number of patients (N=9,052) in clinical safety and efficacy studies treated with alogliptin, 2,257 (24.9%) patients were ≥65 years old and 386 (4.3%) patients were ≥75 years old.
+No overall differences in safety or effectiveness were observed between patients 65 years of age and older and younger adult patients.
 
 Pioglitazone
 
@@ -89,21 +88,20 @@ These clinical experiences have not identified differences in effectiveness and 
 
 Alogliptin
 
-A total of 602 patients with moderate renal impairment (eGFR ≥30 and <60 mL/min/1.73 m2) and four patients with severe renal impairment/end-stage renal disease (eGFR <30 mL/min/1.73 m2 or <15 mL/min/1.73 m2, respectively) at baseline were treated with alogliptin in clinical trials in patients with type 2 diabetes.
-Reductions in HbA1c were generally similar in this subgroup of patients.
-The overall incidence of adverse reactions was generally balanced between alogliptin and placebo treatments in this subgroup of patients.
+A total of 602 patients with moderate renal impairment (eGFR ≥30 and <60 mL/min/1.73 m2) and four patients with severe renal impairment/end-stage renal disease (eGFR <30 mL/min/1.73 m2 or <15 mL/min/1.73 m2, respectively) at baseline were treated with alogliptin in clinical trials in patients with type 2 diabetes mellitus.
 
-In the EXAMINE trial of high CV risk type 2 diabetes patients, 694 patients had moderate renal impairment and 78 patients had severe renal impairment or end-stage renal disease at baseline.
-The overall incidences of adverse reactions, serious adverse reactions and adverse reactions leading to study drug discontinuation were generally similar between the treatment groups.
+In the EXAMINE trial of high CV risk type 2 diabetes mellitus patients, 694 patients had moderate renal impairment and 78 patients had severe renal impairment or end-stage renal disease at baseline.
+The recommended dosage of OSENI for patients with moderate renal impairment (CrCl ≥30 to <60 mL/min) is 12.5 mg of alogliptin and 30 mg of pioglitazone once daily.
+OSENI is not recommended for patients with severe renal impairment (CrCl ≥15 to <30 mL/min) or ESRD (CrCl <15 mL/min or requiring hemodialysis) [see Dosage and Administration (2.3)].
 
 ## 8.7 Hepatic Impairment
 
 Alogliptin
 
-No dose adjustments are required in patients with mild to moderate hepatic impairment (Child-Pugh Grade A and B) based on insignificant change in systemic exposures (e.g., AUC) compared to subjects with normal hepatic function in a pharmacokinetic study.
+No dosage adjustments are required in patients with mild to moderate hepatic impairment (Child-Pugh Grade A and B)[see Clinical Pharmacology (12.3)].
 Alogliptin has not been studied in patients with severe hepatic impairment (Child-Pugh Grade C). Use caution when administering alogliptin to patients with liver disease [see Warnings and Precautions (5.4)].
 
 Pioglitazone
 
-No dose adjustments are required in patients with hepatic impairment (Child-Pugh Grade B and C) based on insignificant change in systemic exposures (e.g., AUC) compared to subjects with normal hepatic function in a pharmacokinetic study.
+No dosage adjustments are required in patients with hepatic impairment (Child-Pugh Grade B and C) based on insignificant change in systemic exposures (e.g., AUC) compared to subjects with normal hepatic function in a pharmacokinetic study.
 However, use with caution in patients with liver disease [see Warnings and Precautions (5.4)].

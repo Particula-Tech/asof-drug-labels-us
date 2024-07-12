@@ -4,4 +4,4 @@ OSENI is indicated as an adjunct to diet and exercise to improve glycemic contro
 
 Limitations of Use
 
-OSENI should not be used in patients with type 1 diabetes mellitus.
+OSENI is not recommended for use in patients with type 1 diabetes mellitus.

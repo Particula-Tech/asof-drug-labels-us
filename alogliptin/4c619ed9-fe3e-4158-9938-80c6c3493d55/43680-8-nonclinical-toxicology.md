@@ -21,7 +21,7 @@ In a fertility study in rats, alogliptin had no adverse effects on early embryon
 
 Pioglitazone
 
-A two year carcinogenicity study was conducted in male and female rats at oral doses up to 63 mg/kg (approximately 14 times the MRHD of 45 mg based on mg/m2).
+A two-year carcinogenicity study was conducted in male and female rats at oral doses up to 63 mg/kg (approximately 14 times the MRHD of 45 mg based on mg/m2).
 Drug-induced tumors were not observed in any organ except for the urinary bladder.
 Benign and/or malignant transitional cell neoplasms were observed in male rats at 4 mg/kg and above (approximately equal to the MRHD based on mg/m2).
 A two-year carcinogenicity study was conducted in male and female mice at oral doses up to 100 mg/kg (approximately 11 times the MRHD based on mg/m2).
@@ -33,8 +33,6 @@ No adverse effects upon fertility were observed in male and female rats at oral 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Pioglitazone
-
 Heart enlargement has been observed in mice (100 mg/kg), rats (4 mg/kg and above) and dogs (3 mg/kg) treated orally with pioglitazone (approximately 11, one, and two times the MRHD for mice, rats and dogs, respectively, based on mg/m2).
-In a one year rat study, drug-related early death due to apparent heart dysfunction occurred at an oral dose of 160 mg/kg (approximately 35 times the MRHD based on mg/m2).
-Heart enlargement was seen in a 13 week study in monkeys at oral doses of 8.9 mg/kg and above (approximately four times the MRHD based on mg/m2), but not in a 52 week study at oral doses up to 32 mg/kg (approximately 13 times the MRHD based on mg/m2).
+In a one-year rat study, drug-related early death due to apparent heart dysfunction occurred at an oral dose of 160 mg/kg (approximately 35 times the MRHD based on mg/m2).
+Heart enlargement was seen in a 13-week study in monkeys at oral doses of 8.9 mg/kg and above (approximately four times the MRHD based on mg/m2), but not in a 52-week study at oral doses up to 32 mg/kg (approximately 13 times the MRHD based on mg/m2).
