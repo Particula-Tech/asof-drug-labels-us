@@ -14,4 +14,4 @@ Cinacalcet tablets are indicated for the treatment of hypercalcemia in adult pat
 
 ## 1.3 Primary Hyperparathyroidism
 
-Cinacalcet tablets are indicated for the treatment of severe hypercalcemia in adult patients with primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo parathyroidectomy [see Clinical Studies (14.3)].
+Cinacalcet tablets are indicated for the treatment of hypercalcemia in adult patients with primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo parathyroidectomy [see Clinical Studies (14.3)].
