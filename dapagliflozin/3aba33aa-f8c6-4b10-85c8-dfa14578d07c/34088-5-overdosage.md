@@ -2,6 +2,6 @@
 
 There were no reports of overdose during the clinical development program for dapagliflozin.
 
-In the event of an overdose, contact the Poison Control Center.
+In the event of an overdose, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
 It is also reasonable to employ supportive measures as dictated by the patient’s clinical status.
 The removal of dapagliflozin by hemodialysis has not been studied.

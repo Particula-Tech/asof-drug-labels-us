@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 5: Clinically Relevant Interactions with DAPAGLIFLOZIN TABLETS
+Table 4: Clinically Relevant Interactions with DAPAGLIFLOZIN TABLETS
 
 | Insulin or Insulin Secretagogues |  |
 | --- | --- |

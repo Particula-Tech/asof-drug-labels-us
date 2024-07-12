@@ -5,8 +5,7 @@ DAPAGLIFLOZIN TABLETS are indicated:
 - •To reduce the risk of sustained eGFR decline, end-stage kidney disease, cardiovascular death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression.
 - •To reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in adults with heart failure.
 - •To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
-- •As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
-- 
+- •As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus.
 
 Limitations of Use
 
@@ -14,4 +13,4 @@ Limitations of Use
 - •DAPAGLIFLOZIN TABLETS are not recommended for use to improve glycemic control in adults with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
   DAPAGLIFLOZIN TABLETS are likely to be ineffective in this setting based upon its mechanism of action.
 - •DAPAGLIFLOZIN TABLETS are not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for kidney disease.
-  DAPAGLIFLOZIN TABLETS are not expected to be effective in these populations.
+  DAPAGLIFLOZIN TABLETS are not expected to be effective in these

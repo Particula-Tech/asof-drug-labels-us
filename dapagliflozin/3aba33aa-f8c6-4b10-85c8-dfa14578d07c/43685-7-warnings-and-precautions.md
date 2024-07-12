@@ -22,7 +22,7 @@ If ketoacidosis is suspected, discontinue DAPAGLIFLOZIN TABLETS, promptly evalua
 Monitor patients for resolution of ketoacidosis before restarting DAPAGLIFLOZIN TABLETS.
 
 Withhold DAPAGLIFLOZIN TABLETS, if possible, in temporary clinical situations that could predispose patients to ketoacidosis.
-Resume DAPAGLIFLOZIN TABLETS when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.3)].
+Resume DAPAGLIFLOZIN TABLETS when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.4)].
 
 Educate all patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue DAPAGLIFLOZIN TABLETS and seek medical attention immediately if signs and symptoms occur.
 
@@ -42,9 +42,9 @@ Evaluate patients for signs and symptoms of urinary tract infections and treat p
 
 ## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Insulin and insulin secretagogues are known to cause hypoglycemia.
+Insulin and insulin secretagogues (e.g., sulfonylureas) are known to cause hypoglycemia.
 DAPAGLIFLOZIN TABLETS may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with DAPAGLIFLOZIN TABLETS.
+Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with DAPAGLIFLOZIN TABLETS [see Drug Interactions (7)].
 
 ## 5.5 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 

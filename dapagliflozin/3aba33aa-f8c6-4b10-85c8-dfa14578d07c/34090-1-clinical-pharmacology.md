@@ -15,16 +15,16 @@ This may influence several physiological functions including, but not restricted
 
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in patients with type 2 diabetes mellitus following the administration of dapagliflozin (see Figure 1).
 Dapagliflozin doses of 5 or 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day at Week 12.
-A near maximum glucose excretion was observed at the dapagliflozin daily dose of 20 mg.
+A near maximum glucose excretion was observed at the dapagliflozin daily dosage of 20 mg.
 This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [see Adverse Reactions (6.1)].
-After discontinuation of dapagliflozin, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg dose.
+After discontinuation of dapagliflozin, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg dosage.
 
 Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinary Glucose Amount versus Dapagliflozin Dose in Healthy Subjects and Subjects with Type 2 Diabetes Mellitus (T2DM) (Semi-Log Plot)
 
 ### Cardiac Electrophysiology
 
-Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15-times the recommended maximum dose) in a study of healthy subjects.
-In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50-times the recommended maximum dose) of dapagliflozin in healthy subjects.
+Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15 times the recommended maximum dose) in a study of healthy subjects.
+In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50 times the recommended maximum dose) of dapagliflozin in healthy subjects.
 
 ## 12.3 Pharmacokinetics
 
@@ -57,28 +57,28 @@ The mean plasma terminal half-life (t½) for dapagliflozin is approximately 12.9
 
 ### Specific Populations
 
-#### Renal Impairment
+#### Pediatric Patients
 
-At steady-state (20 mg once daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 100%, and 200% higher, respectively, as compared to patients with type 2 diabetes mellitus with normal renal function.
+The pharmacokinetics and pharmacodynamics (glucosuria) of dapagliflozin in pediatric patients aged 10 to 17 years with type 2 diabetes mellitus were similar to those observed in adult patients with same renal function.
+
+Effects of Age, Gender, Race, and Body Weight on Pharmacokinetics
+
+Based on a population pharmacokinetic analysis, age, gender, race, and body weight do not have a clinically meaningful effect on the pharmacokinetics of dapagliflozin and thus, no dose adjustment is recommended.
+
+#### Patients with Renal Impairment
+
+At steady-state (20 mg once daily dapagliflozin for 7 days), adult patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 100%, and 200% higher, respectively, as compared to patients with type 2 diabetes mellitus with normal renal function.
 There was no meaningful difference in exposure between patients with chronic kidney disease with and without type 2 diabetes.
 Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion.
 The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes mellitus and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes mellitus with normal renal function.
 
-The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Use in Specific Populations (8.6), and Clinical Studies (14)].
+The impact of hemodialysis on dapagliflozin exposure is not known [see Warnings and Precautions (5.2), Use in Specific Populations (8.6), and Clinical Studies (14)].
 
-#### Hepatic Impairment
+#### Patients with Hepatic Impairment
 
-In subjects with mild and moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, as compared to healthy matched control subjects following single-dose administration of 10 mg dapagliflozin.
+In adult subjects with mild and moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, as compared to healthy matched control subjects following single-dose administration of 10 mg dapagliflozin.
 These differences were not considered to be clinically meaningful.
-In patients with severe hepatic impairment (Child-Pugh class C), mean Cmax and AUC of dapagliflozin were up to 40% and 67% higher, respectively, as compared to healthy matched controls [see Use in Specific Populations (8.7)].
-
-#### Effects of Age, Gender, Race, and Body Weight on Pharmacokinetics
-
-Based on a population pharmacokinetic analysis, age, gender, race, and body weight do not have a clinically meaningful effect on the pharmacokinetics of dapagliflozin and thus, no dose adjustment is recommended.
-
-#### Pediatric
-
-Pharmacokinetics in the pediatric population has not been studied.
+In adult patients with severe hepatic impairment (Child-Pugh class C), mean Cmax and AUC of dapagliflozin were up to 40% and 67% higher, respectively, as compared to healthy matched controls [see Use in Specific Populations (8.7)].
 
 ### Drug Interactions
 
@@ -91,12 +91,12 @@ Overall, dapagliflozin is unlikely to affect the pharmacokinetics of concurrentl
 
 #### Effects of Other Drugs on Dapagliflozin
 
-Table 6 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin.
+Table 5 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin in adults.
 No dose adjustments are recommended for dapagliflozin.
 
-Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
+Table 5: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
-| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Dapagliflozin Exposure (% Change [90% CI]) |  |
+| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Dapagliflozin Exposure [% Change (90% CI)] |  |
 | --- | --- | --- | --- |
 | Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | No dosing adjustments required for the following: |  |  |  |
@@ -115,16 +115,16 @@ Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 | Rifampin (600 mg once daily for 6 days) | 10 mg | ↓7% [↓22%, ↑11%] | ↓22% [↓27%, ↓17%] |
 | Nonsteroidal Anti-inflammatory Agent |  |  |  |
 | Mefenamic Acid (loading dose of 500 mg followed by 14 doses of 250 mg every 6 hours) | 10 mg | ↑13% [↑3%, ↑24%] | ↑51% [↑44%, ↑58%] |
-| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25) |  |  |  |
+| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25). |  |  |  |
 
 #### Effects of Dapagliflozin on Other Drugs
 
-Table 7 shows the effect of dapagliflozin on other coadministered drugs.
+Table 6 shows the effect of dapagliflozin on other coadministered drugs in adults.
 Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadministered drugs.
 
-Table 7: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
+Table 6: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Coadministered Drug Exposure (% Change [90% CI]) |  |
+| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Coadministered Drug Exposure [% Change (90% CI)] |  |
 | --- | --- | --- | --- |
 | Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | No dosing adjustments required for the following: |  |  |  |
