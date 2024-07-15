@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218281"
+  ],
+  "inn": "eribulin",
+  "labeler": "HIKMA PHARMACEUTICALS USA INC.",
+  "package_ndcs": [
+    "0143-9167-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "eribulin mesylate",
+      "name": "ERIBULIN MESYLATE"
+    }
+  ],
+  "setid": "aa69e7a5-fa82-4984-b9d2-653c772b80e3",
+  "source": "dailymed"
+}
