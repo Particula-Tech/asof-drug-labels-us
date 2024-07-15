@@ -60,6 +60,8 @@ The use of adalimumab products in moderate to severe chronic Ps beyond one year 
 
 ## 2.6 Hidradenitis Suppurativa
 
+Adults
+
 The recommended subcutaneous dosage of HADLIMA for adult patients with hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Begin 40 mg weekly or 80 mg every other week dosing two weeks later (Day 29).
 

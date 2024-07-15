@@ -24,7 +24,7 @@ The most common adverse reactions leading to discontinuation of adalimumab in th
 
 Infections
 
-In the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS, and UV, the rate of serious infections was 4.3 per 100 patient-years in 7973 adalimumab-treated patients versus a rate of 2.9 per 100 patient-years in 4848 control-treated patients.
+In the controlled portions of the 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS, and UV, the rate of serious infections was 4.3 per 100 patient-years in 7973 adalimumab-treated patients versus a rate of 2.9 per 100 patient-years in 4848 control-treated patients.
 Serious infections observed included pneumonia, septic arthritis, prosthetic and post- surgical infections, erysipelas, cellulitis, diverticulitis, and pyelonephritis [see Warnings and Precautions (5.1)].
 
 Tuberculosis and Opportunistic Infections
@@ -210,10 +210,8 @@ The safety profile for patients with UV treated with adalimumab was similar to t
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other adalimumab products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidences of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of adalimumab or of other adalimumab products.
 
 There are two assays that have been used to measure anti-adalimumab antibodies.
 With the ELISA, antibodies to adalimumab could be detected only when serum adalimumab concentrations were < 2 mcg/mL.

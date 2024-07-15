@@ -85,15 +85,15 @@ Adalimumab products have not been studied in patients with polyarticular JIA les
 
 The safety of adalimumab in patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
 
-The safety and effectiveness of adalimumab products have not been established in pediatric patients with JIA less than 2 years of age.
+The safety and effectiveness of HADLIMA have not been established in pediatric patients with JIA less than 2 years of age.
 
 Pediatric Crohn’s Disease
 
-The safety and effectiveness of adalimumab products for the treatment of moderately to severely active Crohn’s disease have been established in pediatric patients 6 years of age and older.
-Use of adalimumab products for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
+The safety and effectiveness of HADLIMA for the treatment of moderately to severely active Crohn’s disease have been established in pediatric patients 6 years of age and older.
+Use of HADLIMA for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
 The adverse reaction profile in patients 6 years to 17 years of age was similar to adults.
 
-The safety and effectiveness of adalimumab products have not been established in pediatric patients with Crohn’s disease less than 6 years of age.
+The safety and effectiveness of HADLIMA have not been established in pediatric patients with Crohn’s disease less than 6 years of age.
 
 ## 8.5 Geriatric Use
 
