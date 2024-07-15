@@ -16,7 +16,7 @@ Table 1: Recommended Total Daily Dosing by Weight Group
 | Starting Day 7 | 10 mg | 20 mg |
 | Starting Day 14 | 20 mg | 40 mg |
 
-## 2.2 Discontinuation or Dosage Reduction of Clobazam oral suspension
+## 2.2 Discontinuation or Dosage Reduction of Clobazam Oral Suspension
 
 To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clobazam oral suspension or reduce the dosage.
 Taper by decreasing the total daily dose by 5 mg/day to 10 mg/day on a weekly basis until discontinued.
