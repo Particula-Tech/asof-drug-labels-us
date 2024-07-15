@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214051"
+  ],
+  "inn": "ivabradine",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-362-60",
+    "50742-363-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ivabradine",
+      "name": "IVABRADINE"
+    }
+  ],
+  "setid": "2e70f883-8c01-4ac2-815d-4a6d561c711a",
+  "source": "dailymed"
+}
