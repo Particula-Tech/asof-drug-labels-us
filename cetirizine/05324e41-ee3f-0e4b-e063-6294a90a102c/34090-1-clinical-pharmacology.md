@@ -2,13 +2,13 @@
 
 ## Mechanism of Actions
 
-Cetirizine, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 receptors.
+Cetirizine, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1receptors.
 The antihistaminic activity of cetirizine has been clearly documented in a variety of animal and human models.
-In vivo and ex vivo animal models have shown negligible anticholinergic and antiserotonergic activity.
+In vivoand ex vivoanimal models have shown negligible anticholinergic and antiserotonergic activity.
 In clinical studies, however, dry mouth was more common with cetirizine than with placebo.
-In vitro receptor binding studies have shown no measurable affinity for other than H 1 receptors.
+In vitroreceptor binding studies have shown no measurable affinity for other than H 1receptors.
 Autoradiographic studies with radiolabeled cetirizine in the rat have shown negligible penetration into the brain.
-Ex vivo experiments in the mouse have shown that systemically administered cetirizine does not significantly occupy cerebral H 1 receptors.
+Ex vivoexperiments in the mouse have shown that systemically administered cetirizine does not significantly occupy cerebral H 1receptors.
 
 ## Pharmacokinetics
 
@@ -19,7 +19,7 @@ Comparable bioavailability was found between the tablet and oral solution dosage
 When healthy volunteers were administered multiple doses of cetirizine (10 mg tablets once daily for 10 days), a mean peak plasma concentration (C max) of 311 ng/mL was observed.
 No accumulation was observed.
 Cetirizine pharmacokinetics were linear for oral doses ranging from 5 to 60 mg.
-Food had no effect on the extent of cetirizine exposure (AUC) but T max was delayed by 1.7 hours and C max was decreased by 23% in the presence of food.
+Food had no effect on the extent of cetirizine exposure (AUC) but T maxwas delayed by 1.7 hours and C maxwas decreased by 23% in the presence of food.
 
 ### Distribution:
 
@@ -48,11 +48,11 @@ The disposition of theophylline was not altered by concomitant cetirizine admini
 
 ### Pediatric Patients:
 
-In pediatric patients aged 2 to 5 years who received 5 mg cetirizine the mean C max was 660 ng/mL.
+In pediatric patients aged 2 to 5 years who received 5 mg cetirizine the mean C maxwas 660 ng/mL.
 Based on cross-study comparisons, the weight-normalized apparent total body clearance was 81 to 111% greater and the elimination half-life was 33 to 41% shorter in this pediatric population than in adults.
-In pediatric patients aged 6 to 23 months who received a single dose of 0.25 mg/kg cetirizine oral solution (mean dose 2.3 mg), the mean C max was 390 ng/mL.
+In pediatric patients aged 6 to 23 months who received a single dose of 0.25 mg/kg cetirizine oral solution (mean dose 2.3 mg), the mean C maxwas 390 ng/mL.
 Based on cross-study comparisons, the weight-normalized, apparent total body clearance was 304% greater and the elimination half-life was 63% shorter in this pediatric population compared to adults.
-The average AUC (0-t) in children 6 months to <2 years of age receiving the maximum dose of cetirizine oral solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine tablets once a day.
+The average AUC (0-t)in children 6 months to <2 years of age receiving the maximum dose of cetirizine oral solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine tablets once a day.
 
 ### Effect of Gender:
 

@@ -14,4 +14,4 @@ Manufactured by:
 
 Bajaj Medical, LLC Chicago IL 60609, USA
 
-Revised: 07/2024
+Revised:07/2024
