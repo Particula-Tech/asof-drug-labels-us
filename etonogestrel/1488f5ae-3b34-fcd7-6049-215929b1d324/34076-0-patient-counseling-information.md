@@ -44,6 +44,6 @@ Manufactured for: Northstar Rx LLC, Memphis, TN 38141
 Manufactured by: Laboratorios León Farma, S.A., León, Spain
 
 Iss.
-07/2023
+06/2024
 
-NOR-PI156-00
+NOR-PI156-01
