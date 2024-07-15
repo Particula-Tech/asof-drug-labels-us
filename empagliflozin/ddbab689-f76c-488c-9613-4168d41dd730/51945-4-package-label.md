@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg/5 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 10 mg/5 mg Tablet Bottle Label
 
 NDC 0597-0182-90
 
@@ -14,7 +14,7 @@ DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 
 Boehringer Ingelheim Lilly
 
-# PRINCIPAL DISPLAY PANEL - 25 mg/5 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg/5 mg Tablet Bottle Label
 
 NDC 0597-0164-90
 
