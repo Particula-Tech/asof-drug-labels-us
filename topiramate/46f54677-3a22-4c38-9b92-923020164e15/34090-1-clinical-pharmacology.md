@@ -26,13 +26,13 @@ At 25 mg, the pharmacokinetics of QUDEXY XR are nonlinear, possibly due to the b
 
 QUDEXY XR sprinkled on a spoonful of soft food is bioequivalent to the intact capsule formulation.
 
-Following a single 200 mg oral dose of QUDEXY XR, peak plasma concentrations (Tmax) occurred approximately 20 hours after dosing.
-Steady-state was reached in about 5 days following daily dosing of QUDEXY XR in subjects with normal renal function, with a Tmax of approximately 6 hours.
+Following a single 200 mg oral dose of QUDEXY XR, peak plasma concentrations (T max) occurred approximately 20 hours after dosing.
+Steady-state was reached in about 5 days following daily dosing of QUDEXY XR in subjects with normal renal function, with a T maxof approximately 6 hours.
 
-At steady-state, the plasma exposure (AUC0–24hr, Cmax, and Cmin) of topiramate from QUDEXY XR administered once daily and the immediate-release topiramate tablets administered twice-daily were shown to be bioequivalent.
+At steady-state, the plasma exposure (AUC 0–24hr, C max, and C min) of topiramate from QUDEXY XR administered once daily and the immediate-release topiramate tablets administered twice-daily were shown to be bioequivalent.
 Fluctuation of topiramate plasma concentrations at steady-state for QUDEXY XR administered once daily was approximately 40% in healthy subjects, compared to approximately 53% for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal had no effect on bioavailability (AUC and Cmax) but delayed the Tmax by approximately 4 hours following a single dose of QUDEXY XR.
+Compared to the fasted state, high-fat meal had no effect on bioavailability (AUC and C max) but delayed the T maxby approximately 4 hours following a single dose of QUDEXY XR.
 QUDEXY XR can be taken without regard to meals.
 
 Topiramate is 15% to 41% bound to human plasma proteins over the blood concentration range of 0.5 mcg/mL to 250 mcg/mL.
@@ -58,13 +58,13 @@ Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2) [see Dosage and Administration (2.4, 2.6)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m 2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m 2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m 2) [see Dosage and Administration (2.4, 2.6)].
 
 Hemodialysis
 
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counter flow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
-This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5)and Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 
@@ -98,8 +98,8 @@ As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady st
 
 Drug Interactions
 
-In vitro studies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
-In vitro studies indicate that topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
+In vitrostudies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
+In vitrostudies indicate that topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
 
 Antiepileptic Drugs
 
@@ -114,9 +114,9 @@ Table 12: Summary of AED Interactions with Topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
-| Phenytoin | NC or 25% increasePlasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
+| Phenytoin | NC or 25% increase Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
 | Carbamazepine (CBZ) | NC | 40% decrease |
-| CBZ epoxideIs not administered, but is an active metabolite of carbamazepine | NC | NE |
+| CBZ epoxide Is not administered, but is an active metabolite of carbamazepine | NC | NE |
 | Valproic acid | 11% decrease | 14% decrease |
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
@@ -138,7 +138,7 @@ The clinical relevance of this observation has not been established.
 Hydrochlorothiazide
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of hydrochlorothiazide (HCTZ) (25 mg every 24 hours) and topiramate (96 mg every 12 hours) when administered alone and concomitantly.
-The results of this study indicate that topiramate Cmax increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
+The results of this study indicate that topiramate C maxincreased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
 The steady-state pharmacokinetics of HCTZ were not significantly influenced by the concomitant administration of topiramate.
 Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination.
@@ -146,30 +146,29 @@ Clinical laboratory results indicated decreases in serum potassium after topiram
 Metformin
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hours) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hours) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0–12h increased by 18% and 25%, respectively, when topiramate was added.
-Topiramate did not affect metformin Tmax.
-The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
+The results of this study indicated that the mean metformin C maxand AUC 0–12hincreased by 18% and 25%, respectively, when topiramate was added.
+Topiramate did not affect metformin T max. The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
 The clinical significance of the effect of metformin on topiramate pharmacokinetics is unclear.
 
 Pioglitazone
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate and pioglitazone when administered alone and concomitantly.
-A 15% decrease in the AUCτ,ss of pioglitazone with no alteration in Cmax,ss was observed.
+A 15% decrease in the AUC τ,ssof pioglitazone with no alteration in C max,sswas observed.
 This finding was not statistically significant.
-In addition, a 13% and 16% decrease in Cmax,ss and AUCτ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in Cmax,ss and AUCτ,ss of the active keto-metabolite.
+In addition, a 13% and 16% decrease in C max,ssand AUC τ,ssrespectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in C max,ssand AUC τ,ssof the active keto-metabolite.
 The clinical significance of these findings is not known.
 
 Glyburide
 
 A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg per day) alone and concomitantly with topiramate (150 mg per day).
-There was a 22% decrease in Cmax and a 25% reduction in AUC24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy glyburide (M1) and 3-cis-hydroxyglyburide (M2), was also reduced by 13% and 15% and Cmax was reduced by 18% and 25%, respectively.
+There was a 22% decrease in C maxand a 25% reduction in AUC 24for glyburide during topiramate administration.
+Systemic exposure (AUC) of the active metabolites, 4- trans-hydroxy glyburide (M1) and 3- cis-hydroxyglyburide (M2), was also reduced by 13% and 15% and C maxwas reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 
 Lithium
 
-In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg per day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg per day [see Drug Interactions (7.7)].
+In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg per day; however, there was an observed increase in systemic exposure of lithium (27% for C maxand 26% for AUC) following topiramate doses up to 600 mg per day [see Drug Interactions (7.7)].
 
 Haloperidol
 
@@ -177,7 +176,7 @@ The pharmacokinetics of a single dose of haloperidol (5 mg) were not affected fo
 
 Amitriptyline
 
-There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg per day of topiramate.
+There was a 12% increase in AUC and C maxfor amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg per day of topiramate.
 
 Sumatriptan
 
@@ -187,7 +186,7 @@ Risperidone
 
 When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg per day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg per day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
-Coadministration of topiramate 400 mg per day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
+Coadministration of topiramate 400 mg per day with risperidone resulted in a 14% increase in C maxand a 12% increase in AUC 12of topiramate.
 There were no clinically significant changes in the systemic exposure of risperidone plus 9- hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
@@ -202,8 +201,8 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Coadministration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg per day) resulted in a 10% decrease in Cmax and 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
+Coadministration of diltiazem (240 mg Cardizem CD ®) with topiramate (150 mg per day) resulted in a 10% decrease in C maxand 25% decrease in diltiazem AUC, a 27% decrease in C maxand an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of topiramate with diltiazem resulted in a 16% increase in C maxand a 19% increase in AUC 12of topiramate.
 
 Venlafaxine
 
@@ -213,9 +212,9 @@ Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of t
 ## 12.6 Relative Bioavailability of QUDEXY XR Compared to Immediate-Release Topiramate in Healthy Volunteers
 
 QUDEXY XR, taken once daily, provides similar steady-state topiramate concentrations to immediate-release topiramate taken every 12 hours, when administered at the same total daily dose.
-In a healthy volunteer, multiple-dose crossover study, the 90% CI for the ratios of AUC0–24, Cmax and Cmin, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose)) for multiple time points were within the 80% to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
+In a healthy volunteer, multiple-dose crossover study, the 90% CI for the ratios of AUC 0–24, C maxand C min, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose)) for multiple time points were within the 80% to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
 In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80% to 125% bioequivalence limits, except for the initial time points before 3 hours and at 8 hours post-dose, which is not expected to have a significant clinical impact.
 
 The effects of switching between QUDEXY XR and immediate-release topiramate were also evaluated in the same multiple-dose, crossover, comparative bioavailability study.
 In healthy subjects switched from immediate-release topiramate given every 12 hours to QUDEXY XR given once daily, similar concentrations were maintained immediately after the formulation switch.
-On the first day following the switch, there were no significant differences in AUC0–24, Cmax, and Cmin, as the 90% CI for the ratios were contained within the 80% to 125% equivalence limits.
+On the first day following the switch, there were no significant differences in AUC 0–24, C max, and C min, as the 90% CI for the ratios were contained within the 80% to 125% equivalence limits.

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-QUDEXY® XR (topiramate) extended-release capsules contain beads of topiramate in a capsule and are available in the following strengths and colors:
+QUDEXY ®XR (topiramate) extended-release capsules contain beads of topiramate in a capsule and are available in the following strengths and colors:
 
 25 mg: light pink and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "25 mg" on the body in black ink.
 25 mg capsules are supplied in the following package configurations:

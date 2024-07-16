@@ -2,7 +2,7 @@
 
 NDC 0245-1071-30 Once-Daily Dosing
 
-Qudexy® XR (topiramate) extended-release capsules
+Qudexy ®XR (topiramate) extended-release capsules
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
@@ -16,7 +16,7 @@ NDC 0245-1072-30
 
 Once-Daily Dosing
 
-Qudexy® XR (topiramate) extended-release capsules
+Qudexy ®XR (topiramate) extended-release capsules
 
 50 mg
 
@@ -30,7 +30,7 @@ NDC 0245-1074-30
 
 Once-Daily Dosing
 
-Qudexy® XR (topiramate) extended-release capsules
+Qudexy ®XR (topiramate) extended-release capsules
 
 100 mg
 
@@ -44,7 +44,7 @@ NDC 0245-1075-30
 
 Once-Daily Dosing
 
-Qudexy® XR (topiramate) extended-release capsules
+Qudexy ®XR (topiramate) extended-release capsules
 
 150 mg
 
@@ -58,7 +58,7 @@ NDC 0245-1073-30
 
 Once-Daily Dosing
 
-Qudexy® XR (topiramate) extended-release capsules
+Qudexy ®XR (topiramate) extended-release capsules
 
 200 mg
 
