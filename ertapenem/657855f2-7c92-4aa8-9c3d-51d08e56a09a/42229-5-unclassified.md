@@ -1,7 +1,7 @@
-Manufactured for: Par Pharmaceutical, Chestnut Ridge, NY 10977, USA
+Manufactured for: Endo USA, Malvern, PA 19355
 
-uspi-gmk0826-i-2211r008
+uspi-gmk0826-i-2406r009
 
-R11/2022
+R06/2024
 
-OS221-01-78-09
+OS221-01-78-10
