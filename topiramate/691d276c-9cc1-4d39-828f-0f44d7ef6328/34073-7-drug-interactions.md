@@ -20,13 +20,13 @@ Because of the potential of topiramate to cause CNS depression, as well as other
 
 ## 7.4 Contraceptives
 
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking combination contraceptive products with topiramate extended-release.
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking contraceptive products with topiramate extended-release.
 Patients taking estrogen-containing or progestin-only contraceptives should be asked to report any change in their bleeding patterns.
 Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Hydrochlorothiazide (HCTZ)
 
-Topiramate Cmax and AUC increased when HCTZ was added to immediate-release topiramate.
+Topiramate C maxand AUC increased when HCTZ was added to immediate-release topiramate.
 The clinical significance of this change is unknown.
 The addition of HCTZ to topiramate extended-release may require a decrease in the topiramate extended-release dose [see Clinical Pharmacology (12.3)].
 

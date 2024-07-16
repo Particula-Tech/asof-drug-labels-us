@@ -124,7 +124,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 Table 6 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended topiramate dosing (i.e., 600 mg to 1000 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (200 mg to 400 mg daily) range.
 
-Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in AdultsPatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo
+Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adults Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo
 
 | Body System/ Adverse Reaction | Placebo (N=291) | 200 to 400 (N=183) |
 | --- | --- | --- |
@@ -187,7 +187,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 
 Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of immediate-release topiramate and was greater than placebo incidence.
 
-Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of AgePatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
+Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of Age Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category
 
 | Body System/ Adverse Reaction | Placebo (N=101) | Topiramate (N=98) |
@@ -245,7 +245,7 @@ The most common adverse reactions with immediate-release topiramate 100 mg in cl
 Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any immediate-release topiramate treatment group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in AdultsIncludes 35 adolescent patients age 12 to 15 years.,Values represent the percentage of patients reporting a given adverse reaction.
+Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adults Includes 35 adolescent patients age 12 to 15 years.,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
 | Body System/ Adverse Reaction | Placebo (N=445) % | 50 (N=235) % | 100 (N=386) % |
@@ -302,7 +302,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Urinary System Disorders |  |  |  |
 | Urinary tract infection | 2 | 4 | 2 |
 | Vision Disorders |  |  |  |
-| Blurred visionBlurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 |
+| Blurred vision Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 |
 
 Of the 1,135 patients exposed to immediate-release topiramate in the adult placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
 The adverse reactions associated with discontinuing therapy in the immediate-release topiramate-treated patients in these studies included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
@@ -322,7 +322,7 @@ Table 9 also shows adverse reactions in pediatric patients in the controlled mig
 Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended immediate-release topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dose (100 mg daily).
 
-Table 9: Adverse Reactions in Pooled, Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults.,Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
+Table 9: Adverse Reactions in Pooled, Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults.,Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
 
 | Body System/ Adverse Reaction | Placebo (N=45) % | 50 mg/day (N=46) % | 100 mg/day (N=48) % |
 | --- | --- | --- | --- |

@@ -26,7 +26,7 @@ Decreased sweating and an elevation in body temperature above normal characteriz
 Some of the cases were reported after exposure to elevated environmental temperatures.
 
 The majority of the reports have been in pediatric patients.
-Patients (especially pediatric patients) treated with topiramate extended-release should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Patients, (especially pediatric patients) treated with topiramate extended-release should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
 Caution should be used when topiramate extended-release capsules are prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
 
 ## 5.4 Metabolic Acidosis
@@ -138,7 +138,7 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.7 Fetal Toxicity
 
 Topiramate extended-release can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformation, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
+Data from pregnancy registries indicate that infants exposed to topiramate in uterohave an increased risk of major congenital malformation, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
 Consider the benefits and risks of topiramate extended-release when administering this drug in women of childbearing potential, particularly when topiramate extended-release is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1), Patient Counseling Information (17)].

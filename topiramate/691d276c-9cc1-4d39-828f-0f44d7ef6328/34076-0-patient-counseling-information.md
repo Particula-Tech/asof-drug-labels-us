@@ -10,7 +10,7 @@ Do not store drug/food mixture for future use [see Dosage and Administration (2.
 
 Eye Disorders
 
-Advise patients taking topiramate extended-release capsules to seek immediate medical attention if they experience blurred vision, visual disturbances or periorbital pain [see Warnings and Precautions (5.1 and 5.2)].
+Advise patients taking topiramate extended-release capsules to seek immediate medical attention if they experience blurred vision, visual disturbances or periorbital pain [see Warnings and Precautions (5.1and 5.2)].
 
 Oligohydrosis and Hyperthermia
 
@@ -38,7 +38,7 @@ Fetal Toxicity
 
 Inform pregnant women and women of childbearing potential that use of topiramate extended-release capsules during pregnancy can cause fetal harm.
 Topiramate extended-release capsules increased the risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
-Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age.
+Also inform patients that infants exposed to topiramate monotherapy in uteromay be small for their gestational age.
 There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate extended-release capsules during pregnancy [see Warnings and Precautions (5.4, 5.7), Use in Specific Populations (8.1)].
 
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.

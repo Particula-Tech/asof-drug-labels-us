@@ -74,7 +74,7 @@ If required, longer intervals between dose adjustment can be used.
 
 ## 2.4 Dosing in Patients with Renal Impairment
 
-In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m2), one-half of the usual adult dose of topiramate extended-release capsules are recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m 2), one-half of the usual adult dose of topiramate extended-release capsules are recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
 ## 2.5 Dosing in Patients Undergoing Hemodialysis
 
