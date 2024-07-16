@@ -74,7 +74,7 @@ Discontinue levofloxacin tablets immediately at the first appearance of skin ras
 
 Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions have been reported in patients receiving therapy with fluoroquinolones, including levofloxacin.
 These reactions often occur following the first dose.
-Some reactions have been accompanied by cardiovascular collapse, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
+Some reactions have been accompanied by cardiovascular collapse, acute myocardial ischemia with or without myocardial infarction, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
 Levofloxacin tablets should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
 Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6) and Patient Counseling Information (17)].
 
