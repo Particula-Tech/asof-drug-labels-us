@@ -9,7 +9,7 @@ The patient should set a date to stop smoking.
 Begin CHANTIX dosing one week before this date.
 Alternatively, the patient can begin CHANTIX dosing and then quit smoking between days 8 and 35 of treatment.
 
-CHANTIX should be taken after eating and with a full glass of water.
+CHANTIX should be taken orally after eating and with a full glass of water.
 
 The recommended dose of CHANTIX is 1 mg twice daily following a 1-week titration as follows:
 
@@ -19,18 +19,27 @@ The recommended dose of CHANTIX is 1 mg twice daily following a 1-week titration
 | Day 8 – end of treatment: | 1 mg twice daily |
 
 Patients should be treated with CHANTIX for 12 weeks.
-For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks' treatment with CHANTIX is recommended to further increase the likelihood of long-term abstinence.
+For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks treatment with CHANTIX is recommended to further increase the likelihood of long-term abstinence.
 
-Patients who do not succeed in stopping smoking during 12 weeks of initial therapy, or who relapse after treatment, should be encouraged to make another attempt once factors contributing to the failed attempt have been identified and addressed.
+For patients who are sure that they are not able or willing to quit abruptly, consider a gradual approach to quitting smoking with CHANTIX.
+Patients should begin CHANTIX dosing and reduce smoking by 50% from baseline within the first four weeks, by an additional 50% in the next four weeks, and continue reducing with the goal of reaching complete abstinence by 12 weeks.
+Continue CHANTIX treatment for an additional 12 weeks, for a total of 24 weeks of treatment.
+Encourage patients to attempt quitting sooner if they feel ready [see Clinical Studies (14.5)].
+
+Patients who are motivated to quit, and who did not succeed in stopping smoking during prior CHANTIX therapy for reasons other than intolerability due to adverse events or who relapsed after treatment, should be encouraged to make another attempt with CHANTIX once factors contributing to the failed attempt have been identified and addressed.
 
 Consider a temporary or permanent dose reduction in patients who cannot tolerate the adverse effects of CHANTIX.
 
 ## 2.2 Dosage in Special Populations
 
-Patients with Impaired Renal Function: No dosage adjustment is necessary for patients with mild to moderate renal impairment.
-For patients with severe renal impairment (estimated creatinine clearance <30 mL/min), the recommended starting dose of CHANTIX is 0.5 mg once daily.
-The dose may then be titrated as needed to a maximum dose of 0.5 mg twice a day.
-For patients with end-stage renal disease undergoing hemodialysis, a maximum dose of 0.5 mg once daily may be administered if tolerated [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Patients with Impaired Renal Function
 
-Elderly and Patients with Impaired Hepatic Function: No dosage adjustment is necessary for patients with hepatic impairment.
+No dosage adjustment is necessary for patients with mild to moderate renal impairment.
+For patients with severe renal impairment (estimated creatinine clearance less than 30 mL per min), the recommended starting dose of CHANTIX is 0.5 mg once daily.
+The dose may then be titrated as needed to a maximum dose of 0.5 mg twice daily.
+For patients with end-stage renal disease undergoing hemodialysis, a maximum dose of 0.5 mg once daily may be administered if tolerated [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+
+Elderly and Patients with Impaired Hepatic Function
+
+No dosage adjustment is necessary for patients with hepatic impairment.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Use in Specific Populations (8.5)].
