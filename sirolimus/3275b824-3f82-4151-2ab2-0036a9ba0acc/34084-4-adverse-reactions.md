@@ -14,7 +14,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Proteinuria [see Warnings and Precautions (5.9)]
 - •Interstitial lung disease [see Warnings and Precautions (5.11)]
 - •Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)]
-- • Embryo-fetal toxicity [see Warnings and Precautions (5.15)]
+- •Embryo-fetal toxicity [see Warnings and Precautions (5.15)]
 - •Male infertility [see Warnings and Precautions (5.16)]
 
 The most common (≥30%) adverse reactions observed with Rapamune in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.

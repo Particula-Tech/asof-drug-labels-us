@@ -20,7 +20,7 @@ Important:
 
 Each RAPAMUNE Oral Solution carton contains:
 
-|  | •a 2 oz. (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)•1 oral syringe adapter for fitting into the neck of the bottle•enough disposable oral syringes (amber color) and caps for daily dosing•1 carrying case |
+|  | a)a 2 oz. (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)b)1 oral syringe adapter for fitting into the neck of the bottlec)enough disposable oral syringes (amber color) and caps for daily dosingd)1 carrying case |
 | --- | --- |
 
 You will also need:
@@ -37,7 +37,7 @@ You will also need:
 | Figure 4: Withdrawing solution | 4. Withdraw the prescribed amount of RAPAMUNE Oral Solution: |
 |  | •Gently pull back the plunger of the syringe until the level of the oral solution is even with the marking on the syringe for your prescribed dose.•Always keep the bottle in an upright position. •If bubbles form within the oral solution in the syringe, empty the syringe into the bottle and repeat step 4 (Figure 4).•You may need to repeat step 4 more than once to draw up your prescribed dose. |
 | Figure 5: Capping syringe | 5. If your doctor tells you to carry your medicine with you: |
-|  | •Each dose of RAPAMUNE Oral Solution should be placed in an oral syringe. Place a cap securely on each syringe. The cap should snap into place (Figure 5).•Place the capped syringe in the enclosed carrying case (Figure 6). If you need more than 1 carrying case, talk with your doctor or pharmacist.•See 'How should I store RAPAMUNE' for storage instructions. |
+|  | •Each dose of RAPAMUNE Oral Solution should be placed in an oral syringe. Place a cap securely on each syringe. The cap should snap into place (Figure 5).•Place the capped syringe in the enclosed carrying case (Figure 6). If you need more than 1 carrying case, talk with your doctor or pharmacist.•See “How should I store RAPAMUNE” for storage instructions. |
 | Figure 6: Placing syringe in carrying case |  |
 | Figure 7: Emptying syringe into glass | 6. Taking a dose of RAPAMUNE Oral Solution: |
 |  | •Choose a clean flat work surface. Place a clean paper towel on the work surface. Wash and dry your hands.•Empty the syringe into a glass or plastic cup containing at least 2 ounces (1/4 cup, 60 mL) of water or orange juice, stir vigorously for 1 minute and drink right away (Figure 7).•If more than 1 syringe is needed for your prescribed dose, empty the oral solution from each syringe into the same glass or plastic cup of water or orange juice.•Refill the container with at least 4 ounces (1/2 cup, 120 mL) of water or orange juice, stir vigorously again and drink the rinse solution. Do not mix RAPAMUNE Oral Solution with apple juice, grapefruit juice, or other liquids. Only glass or plastic cups should be used to mix RAPAMUNE Oral Solution.•The syringe and cap should be used only one time and then thrown away.•Throw away the paper towel and clean the work surface. Wash your hands. |
