@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210661"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-111-01",
+    "83831-112-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "pemetrexed dipotassium",
+      "name": "PEMETREXED DIPOTASSIUM"
+    }
+  ],
+  "setid": "adc9ce4c-926a-4ee8-bd0d-d06fc89c17fc",
+  "source": "dailymed"
+}
