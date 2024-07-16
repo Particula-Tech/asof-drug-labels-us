@@ -4,7 +4,7 @@ Read this Patient Information before you start taking DUAVEE and each time you g
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-| What is the most important information I should know about DUAVEE? •Do not take additional estrogen products while you are taking DUAVEE.•Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). •Report any unusual vaginal bleeding right away while you are taking DUAVEE. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogens to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.•The risks listed above are based on a study of an estrogen-alone oral product. Since other products and doses have not been studied in the same way, it is not known how the use of DUAVEE will affect your chances of getting these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with DUAVEE. |
+| What is the most important information I should know about DUAVEE? •Do not take additional estrogen products while you are taking DUAVEE.•Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). •Report any unusual vaginal bleeding right away while you are taking DUAVEE. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogens to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chances of getting dementia, based on a study of women 65 years of age or older.•The risks listed above are based on a study of an estrogen-alone oral product. Since other products and doses have not been studied in the same way, it is not known how the use of DUAVEE will affect your chances of getting these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with DUAVEE. |
 | --- |
 
 What is DUAVEE?
@@ -185,6 +185,6 @@ Inactive Ingredients: calcium phosphate tribasic, hydroxypropyl cellulose, micro
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.pfizer.com. or call 1-800-438-1985.
+For the most recent prescribing information, please visit www.pfizer.com or call 1-800-438-1985.
 
 LAB-0583-6.0 Revised December 2022
