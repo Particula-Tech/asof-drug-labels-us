@@ -88,7 +88,7 @@ Clostridium species Eubacterium species Peptococcus species Peptostreptococcus s
 
 Gram-negative anaerobes
 
-Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B.vulgatus) Fusobacterium species
+Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus) Fusobacterium species
 
 The following in vitro data are available, but their clinical significance is unknown.
 

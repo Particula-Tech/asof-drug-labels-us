@@ -16,7 +16,7 @@ NERVOUS SYSTEM DISORDERS: Encephalopathy, Seizure, Neuropathy peripheral, Ataxia
 
 EYE DISORDERS: Optic neuropathy, Saccadic eye movement
 
-EAR AND LABYRINTH DISORDERS: Vertigo
+EAR AND LABYRINTH DISORDERS: Vertigo, tinnitus, hearing impairment, hearing loss
 
 CARDIAC DISORDERS: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
 Flattening of the T-wave may be seen in electrocardiographic tracings, Tachycardia, Palpitation
@@ -25,9 +25,9 @@ RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS: Dyspnea
 
 GASTROINTESTINAL DISORDERS: Pancreatitis, Abdominal pain, Diarrhea, Nausea, Vomiting, Asthenia, Proctitis
 
-HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see CONTRAINDICATIONS), Jaundice
+HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see WARNINGS), Jaundice
 
-SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) (see WARNINGS)
 
 MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS: Muscle spasms, Arthralgia, Myalgia
 

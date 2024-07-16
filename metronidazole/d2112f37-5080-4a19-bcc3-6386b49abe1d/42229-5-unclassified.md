@@ -40,5 +40,5 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
 Baxter and Viaflex are registered trademarks of Baxter International Inc.
 
-07-19-00-3752 Rev.
-12/2021
+07-19-00-7963 Rev.
+07/2024
