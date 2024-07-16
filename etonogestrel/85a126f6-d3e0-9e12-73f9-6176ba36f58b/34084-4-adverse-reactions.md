@@ -45,7 +45,7 @@ Nervous system disorders: stroke/cerebrovascular accident
 
 Vascular disorders: arterial events (including arterial thromboembolism and myocardial infarction), aggravation of varicose veins
 
-Skin and subcutaneous tissue disorders: urticaria, chloasma
+Skin and subcutaneous tissue disorders: exacerbations of hereditary and acquired angioedema, urticaria, chloasma
 
 Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women usingEnilloRing), galactorrhea
 

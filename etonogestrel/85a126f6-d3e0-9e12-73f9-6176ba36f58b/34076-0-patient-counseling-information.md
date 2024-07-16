@@ -44,6 +44,6 @@ ENILLORING® is a registered trademark of Xiromed Pharma España, S.L.
 Manufactured by: Laboratorios León Farma, S.A., León, Spain for Xiromed, LLC, Florham Park, NJ 07932
 
 Rev.
-07/2023
+06/2024
 
-PI-156-00
+PI-156-01

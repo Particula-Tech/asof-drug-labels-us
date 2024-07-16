@@ -86,6 +86,8 @@ Before you use EnilloRing tell your healthcare provider if you:
   A small amount of hormones from EnilloRing may pass into your breast milk.
   Consider another non-hormonal method of birth control until you are ready to stop breastfeeding.
 - have (or ever had) an allergic reaction while using EnilloRing, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
+- have a family history of angioedema.
+  Products containing estrogens may cause or worsen these symptoms.
 
 Tell your healthcare provider about all medicines and herbal products you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
@@ -118,6 +120,8 @@ Hormonal birth control methods may interact with lamotrigine, a medicine used fo
 This may increase the risk of seizures, so your healthcare provider may need to adjust your dose of lamotrigine.
 
 Women on thyroid replacement therapy may need increased doses of thyroid hormone.
+
+Some Hepatitis C drug combinations (such as glecaprevir/pibrentasvir) may increase levels of the liver enzyme "alanine aminotransferase" (ALT) in the blood.
 
 Ask your healthcare provider if you are not sure if you take any of the medicines listed above.
 Know the medicines you take.
@@ -468,6 +472,6 @@ ENILLORING® is a registered trademark of Xiromed Pharma España, S.L.
 Manufactured by: Laboratorios León Farma, S.A., León, Spain for Xiromed, LLC, Florham Park, NJ 07932
 
 Rev.
-07/2023
+06/2024
 
-PIL-156-00
+PIL-156-01
