@@ -271,4 +271,6 @@ In general, the types of adverse drug reactions in patients with pcJIA were cons
 The following adverse reactions have been identified during post-approval use of XELJANZ/XELJANZ XR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed).
+Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed)
+
+Skin and subcutaneous tissue disorders: Acne

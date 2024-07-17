@@ -123,7 +123,10 @@ Store the oral dosing syringe with the XELJANZ Oral Solution.
 
 Do not throw away the oral dosing syringe.
 
-LAB-1422-1.0
+LAB-1422-2.0
+
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Approved: September 2020
+Approved: May 2024
