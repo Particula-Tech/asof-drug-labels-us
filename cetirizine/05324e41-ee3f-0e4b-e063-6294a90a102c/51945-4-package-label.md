@@ -24,3 +24,30 @@ Bajaj Medical, LLC
 Chicago IL 60609, USA
 
 Revised:07/2024
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 480 mL
+
+NDC 61037-479-03
+
+CETIRIZINE HYDROCHLORIDE
+
+ORAL SOLUTION, USP
+
+1 mg/mL (5 mg/5 mL)
+
+FOR ORAL USE ONLY
+
+Grape Flavored
+
+Rx Only
+
+16 fl.oz.
+(480 mL)
+
+Manufactured by:
+
+Bajaj Medical, LLC
+
+Chicago IL 60609, USA
+
+Revised: 07/2024
