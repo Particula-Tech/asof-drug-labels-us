@@ -78,8 +78,8 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 
 Other Adverse Reactions Observed during the Clinical Development of Bupropion Hydrochloride Tablets The conditions and duration of exposure to bupropion hydrochloride tablets varied greatly, and a substantial proportion of the experience was gained in open and uncontrolled clinical settings.
 During this experience, numerous adverse events were reported; however, without appropriate controls, it is impossible to determine with certainty which events were or were not caused by bupropion hydrochloride tablets.
-
 The following enumeration is organized by organ system and describes events in terms of their relative frequency of reporting in the database.
+
 The following definitions of frequency are used: Frequent adverse reactions are defined as those occurring in at least 1/100 subjects.
 Infrequent adverse reactions are those occurring in 1/100 to 1/1,000 subjects, while rare events are those occurring in less than 1/1,000 subjects.
 
@@ -131,6 +131,6 @@ Musculoskeletal Muscle rigidity/fever/rhabdomyolysis, muscle weakness.
 
 Nervous System Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, parkinsonism, restlessness, suicide attempt, unmasking of tardive dyskinesia.
 
-Skin and Appendages Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Skin and Subcutaneous Tissue Disorder Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Special Senses Tinnitus, increased intraocular pressure.

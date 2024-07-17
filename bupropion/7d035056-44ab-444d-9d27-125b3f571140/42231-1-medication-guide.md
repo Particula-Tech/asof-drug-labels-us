@@ -14,11 +14,8 @@ What is the most important information I should know about antidepressant medici
 1. Antidepressant medicines may increase the risk of suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
 2. Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-4. • Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-   This is very important when an antidepressant medicine is started or when the dose is changed.
-5. • Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-6. • Keep all follow-up visits with your healthcare provider as scheduled.
+3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?• Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+   This is very important when an antidepressant medicine is started or when the dose is changed.• Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.• Keep all follow-up visits with your healthcare provider as scheduled.
    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -56,8 +53,8 @@ Although bupropion hydrochloride tablets are not a treatment for quitting smokin
 
 Talk to your healthcare provider or your family member’s healthcare provider about:
 
-- • all risks and benefits of quit-smoking medicines.
-- • all treatment choices for quitting smoking.
+- all risks and benefits of quit-smoking medicines.
+- all treatment choices for quitting smoking.
 
 When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including
 
@@ -112,8 +109,8 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   - eye pain
   - changes in vision
   - swelling or redness in or around the eye
-  - Only some people are at risk for these problems.
-    You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+- Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - Severe allergic reactions.
   Some people can have severe allergic reactions to bupropion hydrochloride tablets.
   Stop taking bupropion hydrochloride tablets and call your healthcare provider right awayif you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
@@ -269,6 +266,6 @@ APOTEX INC. BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 03/2024
+Revised: 05/2024
 
-Revision No.: 21
+Revision No.: 22

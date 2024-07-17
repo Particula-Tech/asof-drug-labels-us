@@ -75,7 +75,7 @@ BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 03/2024
+Revised: 05/2024
 
 Rev.
-21
+22
