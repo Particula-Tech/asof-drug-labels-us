@@ -63,13 +63,13 @@ The most common adverse reactions that occurred at a rate of ≥ 3% in patients 
 Table 2.
 Summary of Adverse Reactions with XHANCE Reported in ≥ 3% of Patients and More Common Than Placebo from Pooled Safety Population (Trials 3 and 4)1
 
-| Adverse Reaction | Placebo (N = 187) n (%) | 186 mcg bid* (N = 184) n (%) | 372 mcg bid^ (N = 183) n (%) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | XHANCE |  |  |  |  |  |
-| Epistaxis | 1 (0.5%) | 9 (4.9%) | 20 (10.9%) |  |  |  |  |
-| Headache | 7 (3.7%) | 4 (2.2%) | 10 (5.5%) |  |  |  |  |
-| Nasopharyngitis | 8 (4.3%) | 9 (4.9%) | 7 (3.8%) |  |  |  |  |
-| *186 mcg bid = 1 spray per nostril twice daily ^372 mcg bid = 2 sprays per nostril twice daily 1 Patients in Trial 3 included adults with CRSsNP and Trial 4 included adults with CRSsNP and CRSwNP |  |  |  |  |  |  |  |
+| Adverse Reaction | Placebo (N = 187) n (%) | 186 mcg bid* (N = 184) n (%) | 372 mcg bid^ (N = 183) n (%) |
+| --- | --- | --- | --- |
+|  |  | XHANCE |  |
+| Epistaxis | 1 (0.5%) | 9 (4.9%) | 20 (10.9%) |
+| Headache | 7 (3.7%) | 4 (2.2%) | 10 (5.5%) |
+| Nasopharyngitis | 8 (4.3%) | 9 (4.9%) | 7 (3.8%) |
+| *186 mcg bid = 1 spray per nostril twice daily ^372 mcg bid = 2 sprays per nostril twice daily 1 Patients in Trial 3 included adults with CRSsNP and Trial 4 included adults with CRSsNP and CRSwNP |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

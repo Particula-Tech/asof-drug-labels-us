@@ -6,7 +6,7 @@ XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
 This carton contains: 1 Prefilled XHANCE Unit (each spray contains 93 mcg fluticasone propionate)
 
-Shake Before Each Use For Intranasal Use Only Rx ONLY
+Shake Before Each Use For Nasal Use Only Rx ONLY
 
 16 mL 120 Metered Sprays
 
@@ -16,7 +16,7 @@ XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
 Please read instructions carefully before use.
 
-For Intranasal Use Only.
+For Nasal Use Only.
 See Prescribing Information.
 Shake XHANCE before each use.
 
@@ -27,10 +27,9 @@ Usual Dosage: See Prescribing Information.
 
 Inactive Ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, 0.02% w/w benzalkonium chloride, polysorbate 80, EDTA, sodium hydroxide and hydrochloric acid (to adjust pH), purified water
 
-Distributed by: OptiNose US, Inc., Yardley, PA 19067 Made in Italy.
-XHANCE and OPTINOSE are registered trademarks of OptiNose AS.
-Patented.
-See www.XHANCE.com/patents. ©2021 OptiNose US, Inc. All rights reserved.
+Distributed by: OptiNose US, Inc., Yardley, PA 19067 Made in Portugal.
+XHANCE and OPTINOSE are registered trademarks of OptiNose Inc.. Patented.
+See www.XHANCE.com/patents. ©2023 OptiNose US, Inc. All rights reserved.
 
 XHANCE® (fluticasone propionate) nasal spray 93 mcg
 

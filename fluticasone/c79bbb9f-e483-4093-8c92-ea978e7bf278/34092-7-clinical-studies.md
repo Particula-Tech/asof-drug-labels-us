@@ -71,37 +71,37 @@ Improvements demonstrated in CSS at Week 4 with either dose of XHANCE remained a
 
 Table 5: LS Mean Change in Composite Symptom Scores (CSS)a at Week 4 and Percent Opacified Sinus Volume at Week 24 in Patients with CRSsNP in Trials 3 and 4
 
-|  | Placebo | XHANCE 186-mcg BID | XHANCE 372-mcg BID | Diff. (95% CI) XHANCE 186-mcg BID vs placebo | Diff. (95% CI) XHANCE 372-mcg BID vs placebo |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Trial 3 (N) | 75 | 72 | 73 |  |  |  |  |  |
-| Baseline Mean CSSa | 6.2 | 5.9 | 6.0 |  |  |  |  |  |
-| LS mean change from baseline in CSS at week 4 | -0.8 | -1.5 | -1.7 | -0.7 (-1.3, -0.2) | -0.9 (-1.5, -0.4) |  |  |  |
-| Baseline Percent of Opacified Sinus Volume | 64.1 | 60.5 | 61.5 |  |  |  |  |  |
-| LS mean change from baseline in Percent Opacified Sinus Volume at week 24 | 0.4 | -7.0 | -5.5 | -7.5 (-12.1, -2.8) | -5.9 (-10.6, -1.3) |  |  |  |
-| Trial 4 (N)b | 41 | 41 | 40 |  |  |  |  |  |
-| Baseline Mean CSS | 5.7 | 5.5 | 5.8 |  |  |  |  |  |
-| LS mean change from baseline in CSS at week 4 | -0.7 | -1.6 | -1.6 | -0.9 (-1.6, -0.2) | -0.9 (-1.6, -0.2) |  |  |  |
-| Baseline Percent of Opacified Sinus Volume | 61.9 | 63.0 | 60.7 |  |  |  |  |  |
-| LS mean change from baseline in Percent Opacified Sinus Volume at week 24 | -5.3 | -5.7 | -8.4 | -0.5 (-6.8, 5.9) | -3.2 (-9.5, 3.2) |  |  |  |
-| Results were based on all patients who received at least one dose of study drug and had baseline measurements for coprimary endpoints, and at least one post-baseline CSS on or before Week 4. aCSS range was 0 – 9. Scores were averaged over 7 days before a visit. bData presented for Trial 4 patients with CRSsNP only LS= Least Square; BID= twice daily; CI = Confidence Interval |  |  |  |  |  |  |  |  |
+|  | Placebo | XHANCE 186-mcg BID | XHANCE 372-mcg BID | Diff. (95% CI) XHANCE 186-mcg BID vs placebo | Diff. (95% CI) XHANCE 372-mcg BID vs placebo |
+| --- | --- | --- | --- | --- | --- |
+| Trial 3 (N) | 75 | 72 | 73 |  |  |
+| Baseline Mean CSSa | 6.2 | 5.9 | 6.0 |  |  |
+| LS mean change from baseline in CSS at week 4 | -0.8 | -1.5 | -1.7 | -0.7 (-1.3, -0.2) | -0.9 (-1.5, -0.4) |
+| Baseline Percent of Opacified Sinus Volume | 64.1 | 60.5 | 61.5 |  |  |
+| LS mean change from baseline in Percent Opacified Sinus Volume at week 24 | 0.4 | -7.0 | -5.5 | -7.5 (-12.1, -2.8) | -5.9 (-10.6, -1.3) |
+| Trial 4 (N)b | 41 | 41 | 40 |  |  |
+| Baseline Mean CSS | 5.7 | 5.5 | 5.8 |  |  |
+| LS mean change from baseline in CSS at week 4 | -0.7 | -1.6 | -1.6 | -0.9 (-1.6, -0.2) | -0.9 (-1.6, -0.2) |
+| Baseline Percent of Opacified Sinus Volume | 61.9 | 63.0 | 60.7 |  |  |
+| LS mean change from baseline in Percent Opacified Sinus Volume at week 24 | -5.3 | -5.7 | -8.4 | -0.5 (-6.8, 5.9) | -3.2 (-9.5, 3.2) |
+| Results were based on all patients who received at least one dose of study drug and had baseline measurements for coprimary endpoints, and at least one post-baseline CSS on or before Week 4. aCSS range was 0 – 9. Scores were averaged over 7 days before a visit. bData presented for Trial 4 patients with CRSsNP only LS= Least Square; BID= twice daily; CI = Confidence Interval |  |  |  |  |  |
 
 Secondary efficacy endpoints included change from baseline in individual symptoms of the CSS (nasal congestion, nasal pain/pressure, and nasal discharge) at Week 4.
 Refer to Table 6 for individual symptom score results.
 
 Table 6: LS Mean Change in Individual Symptom Scoresa at Week 4 in Patients with CRSsNP in Trials 3 and 4
 
-|  | Placebo |  | XHANCE 186-mcg BID |  | XHANCE 372-mcg BID |  | Diff. (95% CI) XHANCE 186-mcg BID vs placebo | Diff. (95% CI) XHANCE 372-mcg BID vs placebo |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mean Baseline | LS Mean Change | Mean Baseline | LS Mean Change | Mean Baseline | LS Mean Change |  |  |  |  |  |  |  |  |  |  |  |  |
-| Trial 3 (N) | 75 |  | 72 |  | 73 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nasal Congestion/ Obstruction | 2.3 | -0.3 | 2.1 | -0.6 | 2.2 | -0.7 | -0.3 (-0.5, -0.1) | -0.4 (-0.7, -0.2) |  |  |  |  |  |  |  |  |  |
-| Facial Pain/Pressure | 1.8 | -0.3 | 1.7 | -0.4 | 1.7 | -0.5 | -0.2 (-0.4, 0.1) | -0.2 (-0.5, -0.0) |  |  |  |  |  |  |  |  |  |
-| Nasal Discharge | 2.1 | -0.3 | 2.1 | -0.5 | 2.0 | -0.6 | -0.2 (-0.4, -0.0) | -0.3 (-0.5, -0.1) |  |  |  |  |  |  |  |  |  |
-| Trial 4 (N)b | 41 |  | 41 |  | 40 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nasal Congestion/ Obstruction | 2.2 | -0.3 | 2.1 | -0.6 | 2.2 | -0.6 | -0.3 (-0.6, -0.1) | -0.3 (-0.6, -0.0) |  |  |  |  |  |  |  |  |  |
-| Facial Pain/Pressure | 1.7 | -0.2 | 1.6 | -0.4 | 1.7 | -0.4 | -0.2 (-0.5, 0.0) | -0.2 (-0.5, 0.0) |  |  |  |  |  |  |  |  |  |
-| Nasal Discharge | 1.9 | -0.2 | 1.8 | -0.6 | 1.9 | -0.6 | -0.4 (-0.6, -0.1) | -0.4 (-0.6, -0.1) |  |  |  |  |  |  |  |  |  |
-| Individual symptom scores were not prespecified to adjust for multiplicity. aScore range was 0-3. bData presented for Trial 4 patients with CRSsNP only LS= Least Square; BID= twice daily; CI = Confidence Interval |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Placebo |  | XHANCE 186-mcg BID |  | XHANCE 372-mcg BID |  | Diff. (95% CI) XHANCE 186-mcg BID vs placebo | Diff. (95% CI) XHANCE 372-mcg BID vs placebo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mean Baseline | LS Mean Change | Mean Baseline | LS Mean Change | Mean Baseline | LS Mean Change |  |  |  |
+| Trial 3 (N) | 75 |  | 72 |  | 73 |  |  |  |
+| Nasal Congestion/ Obstruction | 2.3 | -0.3 | 2.1 | -0.6 | 2.2 | -0.7 | -0.3 (-0.5, -0.1) | -0.4 (-0.7, -0.2) |
+| Facial Pain/Pressure | 1.8 | -0.3 | 1.7 | -0.4 | 1.7 | -0.5 | -0.2 (-0.4, 0.1) | -0.2 (-0.5, -0.0) |
+| Nasal Discharge | 2.1 | -0.3 | 2.1 | -0.5 | 2.0 | -0.6 | -0.2 (-0.4, -0.0) | -0.3 (-0.5, -0.1) |
+| Trial 4 (N)b | 41 |  | 41 |  | 40 |  |  |  |
+| Nasal Congestion/ Obstruction | 2.2 | -0.3 | 2.1 | -0.6 | 2.2 | -0.6 | -0.3 (-0.6, -0.1) | -0.3 (-0.6, -0.0) |
+| Facial Pain/Pressure | 1.7 | -0.2 | 1.6 | -0.4 | 1.7 | -0.4 | -0.2 (-0.5, 0.0) | -0.2 (-0.5, 0.0) |
+| Nasal Discharge | 1.9 | -0.2 | 1.8 | -0.6 | 1.9 | -0.6 | -0.4 (-0.6, -0.1) | -0.4 (-0.6, -0.1) |
+| Individual symptom scores were not prespecified to adjust for multiplicity. aScore range was 0-3. bData presented for Trial 4 patients with CRSsNP only LS= Least Square; BID= twice daily; CI = Confidence Interval |  |  |  |  |  |  |  |  |
 
 Acute Exacerbations
 
