@@ -12,7 +12,7 @@ The onset of the antihypertensive effect occurred within 1 week and was largely 
 
 Olmesartan Medoxomil Dose Response
 
-� Placebo-Adjusted Reduction in Blood Pressure (mmHg)
+Placebo-Adjusted Reduction in Blood Pressure (mmHg)
 
 Data above are from seven placebo-controlled studies (2145 olmesartan medoxomil patients, 548 placebo patients).
 The blood pressure lowering effect was maintained throughout the 24-hour period with olmesartan medoxomil once daily, with trough-to-peak ratios for systolic and diastolic response between 60 and 80%.

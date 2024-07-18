@@ -4,11 +4,11 @@
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation and renal reabsorption of sodium.
-Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in vascular smooth muscle.
+Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1receptor in vascular smooth muscle.
 Its action is, therefore, independent of the pathways for angiotensin II synthesis.
 
-An AT 2 receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
-Olmesartan has more than a 12,500-fold greater affinity for the AT 1 receptor than for the AT 2 receptor.
+An AT 2receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
+Olmesartan has more than a 12,500-fold greater affinity for the AT 1receptor than for the AT 2receptor.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is a mechanism of many drugs used to treat hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
@@ -55,21 +55,21 @@ Specific Populations
 
 Geriatric Patients The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
-Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ss, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R [see Dosage and Administration (2.1) and Use in Specific Populations (8.5)].
+Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ss, τwas 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R[see Dosage and Administration (2.1)and Use in Specific Populations (8.5)].
 
 Pediatric Patients The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to 16 years.
 The clearance of olmesartan in pediatric patients was similar to that in adult patients when adjusted by the body weight [see Use in Specific Populations (8.4)].
 
-Olmesartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age [see Warnings and Precautions (5.2) and Use in Specific Populations (8.4)].
+Olmesartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age [see Warnings and Precautions (5.2)and Use in Specific Populations (8.4)].
 
 Male and Female Patients Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
-AUC and C max were 10 to 15% higher in women than in men.
+AUC and C maxwere 10 to 15% higher in women than in men.
 
-Patients with Hepatic Impairment Increases in AUC 0-∞ and C max were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60% [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
+Patients with Hepatic Impairment Increases in AUC 0-∞and C maxwere observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60% [see Dosage and Administration (2.1)and Use in Specific Populations (8.6)].
 
 Patients with Renal Impairment In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
-The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied [see Dosage and Administration (2.1), Warnings and Precautions (5.4) and Use in Specific Populations (8.7)].
+The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied [see Dosage and Administration (2.1), Warnings and Precautions (5.4)and Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 

@@ -8,7 +8,7 @@ For patients requiring further reduction in blood pressure after 2 weeks of ther
 Doses above 40 mg do not appear to have greater effect.
 Twice-daily dosing offers no advantage over the same total dose given once daily.
 
-For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), initiate olmesartan medoxomil under close medical supervision and give consideration to use of a lower starting dose [see Warnings and Precautions (5.3)].
+For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), initiate olmesartan medoxomil under close medical supervision and give consideration to use of a lower starting dose [see Warnings and Precautions(5.3)].
 
 ## 2.2 Pediatric Hypertension (6 Years of Age and Older)
 
