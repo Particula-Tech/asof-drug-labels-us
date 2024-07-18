@@ -1,5 +1,11 @@
 # WARNINGS
 
+## SEVERE CUTANEOUS ADVERSE REACTIONS:
+
+Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
+Symptoms can be serious and potentially life threatening.
+If symptoms or signs of SCARs develop, discontinue Metronidazole injection immediately and institute appropriate therapy.
+
 ## CENTRAL AND PERIPHERAL NERVOUS SYSTEM EFFECTS:
 
 Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole products.
@@ -26,6 +32,10 @@ Patients should be counseled that antibacterial drugs including Metronidazole In
 They do not treat viral infections (e.g., the common cold).
 When Metronidazole Injection USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Metronidazole Injection USP or other antibacterial drugs in the future.
+
+Advise patients that Metronidazole Injection may increase the risk of serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Instruct the patient to be alert for skin rash, blisters, fever or other signs and symptoms of these hypersensitivity reactions.
+Advise patients to stop Metronidazole injection immediately if they develop any type of rash and seek medical attention.
 
 ## LABORATORY TESTS:
 

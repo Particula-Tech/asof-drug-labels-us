@@ -19,11 +19,11 @@ Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), erythematous rash, bullae, pruritus, swelling face, urticaria, and hyperhidrosis.
 
-CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy (mainly numbness or paresthesia of an extremity), dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, headache, and insomnia.
+CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy (mainly numbness or paresthesia of an extremity), dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, headache, tinnitus, hearing impairment, hearing loss, and insomnia.
 
 LABORATORY INVESTIGATIONS: Hepatic enzymes increased.
 
-HYPERSENSITIVITY: Anaphylaxis, angioedema, hypotension, flushing, nasal congestion, and dryness of mouth (or vagina or vulva).
+HYPERSENSITIVITY: Toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) (see WARNINGS), anaphylaxis, angioedema, hypotension, flushing, nasal congestion, and dryness of mouth (or vagina or vulva).
 
 RENAL: Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, and darkened urine.
 
