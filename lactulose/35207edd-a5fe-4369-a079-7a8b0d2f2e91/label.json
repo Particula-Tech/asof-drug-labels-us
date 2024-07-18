@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA074603"
+  ],
+  "inn": "lactulose",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-892-47",
+    "62135-892-94"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lactulose",
+      "name": "Generlac"
+    }
+  ],
+  "setid": "35207edd-a5fe-4369-a079-7a8b0d2f2e91",
+  "source": "dailymed"
+}
