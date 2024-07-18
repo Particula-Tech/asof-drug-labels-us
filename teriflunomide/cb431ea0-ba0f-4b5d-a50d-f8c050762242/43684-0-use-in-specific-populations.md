@@ -82,7 +82,7 @@ Men wishing to father a child should discontinue use of teriflunomide and either
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
-Effectiveness of teriflunomide for the treatment of relapsing form of multiple sclerosis in pediatric patients (10 to 17 years of age) was not established in an adequate and well-controlled clinical study in 166 patients (109 patients received once daily doses of teriflunomide and 57 patients received placebo) for up to 96 weeks.
+Effectiveness of teriflunomide for the treatment of relapsing form of multiple sclerosis in pediatric patients (10 to 17 years of age) was not established in an adequate and well-controlled clinical study in 166 patients (109 patients received once-daily doses of teriflunomide and 57 patients received placebo) for up to 96 weeks.
 
 Pancreatitis has been reported in adults in the postmarketing setting, but appears to occur at higher frequency in the pediatric population.
 In this pediatric study, cases of pancreatitis were reported in 1.8% (2/109) of patients who received teriflunomide compared to no patients in the placebo group.

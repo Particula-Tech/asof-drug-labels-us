@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose of teriflunomide tablets is 7 mg or 14 mg orally once daily.
+The recommended dose of teriflunomide tablet is 7 mg or 14 mg orally once daily.
 Teriflunomide tablets can be taken with or without food.
 
 Monitoring to Assess Safety

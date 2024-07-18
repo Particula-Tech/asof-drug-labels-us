@@ -55,7 +55,7 @@ The magnitude of interaction could be higher at the recommended repaglinide dose
 
 CYP1A2 substrates Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo [see Drug Interactions (7)].
 
-OAT3 substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7)].
+OAT3 substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo[see Drug Interactions (7)].
 
 BCRP and OATP1B1/1B3 substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively) following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7)].
 
@@ -76,4 +76,4 @@ Renal impairment Severe renal impairment had no impact on the pharmacokinetics o
 
 Gender In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.
 
-Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.
+Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of patients who self-identified as Black or African American, Asian, or other races in the clinical trials.
