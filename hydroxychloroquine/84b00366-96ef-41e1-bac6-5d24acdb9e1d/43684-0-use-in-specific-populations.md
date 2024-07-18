@@ -21,11 +21,11 @@ In the US general population, the estimated background risk of major birth defec
 
 #### Disease-Associated Maternal and/or Embryo-Fetal Risk
 
-Malaria: Malaria during pregnancy increases the risk for adverse pregnancy outcomes, including maternal anemia, prematurity, spontaneous abortion, and stillbirth.
+Malaria:Malaria during pregnancy increases the risk for adverse pregnancy outcomes, including maternal anemia, prematurity, spontaneous abortion, and stillbirth.
 
-Rheumatoid Arthritis: Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with rheumatoid arthritis Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
+Rheumatoid Arthritis:Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with rheumatoid arthritis Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
 
-Systemic Lupus Erythematosus: Pregnant women with systemic lupus erythematosus, especially those with increased disease activity, are at increased risk of adverse pregnancy outcomes, including spontaneous abortion, fetal death, preeclampsia, preterm birth, and intrauterine growth restriction.
+Systemic Lupus Erythematosus:Pregnant women with systemic lupus erythematosus, especially those with increased disease activity, are at increased risk of adverse pregnancy outcomes, including spontaneous abortion, fetal death, preeclampsia, preterm birth, and intrauterine growth restriction.
 Passage of maternal auto-antibodies across the placenta may result in neonatal illness, including neonatal lupus and congenital heart block.
 
 ### Data
@@ -49,7 +49,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of hydroxychloroquine sulfate have been established in pediatric patients for the treatment of uncomplicated malaria due to P. falciparum, P. malariae, P. vivax, and P. ovale, as well as for the prophylaxis of malaria in geographic areas where chloroquine resistance is not reported.
+The safety and effectiveness of hydroxychloroquine sulfate have been established in pediatric patients for the treatment of uncomplicated malaria due to P. falciparum, P. malariae, P. vivax, and P. ovale,as well as for the prophylaxis of malaria in geographic areas where chloroquine resistance is not reported.
 However, this product cannot be directly administered to pediatric patients weighing less than 31 kg because the film-coated tablets cannot be crushed or divided [see Dosage and Administration (2.1, 2.2)].
 
 The safety and effectiveness of hydroxychloroquine sulfate have not been established in pediatric patients for the treatment of rheumatoid arthritis, chronic discoid lupus erythematosus, or systemic lupus erythematosus.

@@ -34,4 +34,4 @@ Bottles of 500 tablets (NDC16729-563-16).
 
 Dispense in a tight, light-resistant container as defined in the USP/NF.
 
-Store at room temperature up to 30°C (86°F) and allow for excursions between 15°C and 30°C(59°F and 86°F).
+Store at room temperature [20°C to 25°C (68°F to 77°F), allows excursions between 15°C and 30°C (59°F and 86°F)].

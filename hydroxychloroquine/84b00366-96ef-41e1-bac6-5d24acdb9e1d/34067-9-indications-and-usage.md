@@ -4,19 +4,19 @@
 
 Hydroxychloroquine sulfate is indicated in adult and pediatric patients for the:
 
-- Treatment of uncomplicated malaria due to Plasmodium falciparum, Plasmodium malariae, Plasmodium vivax, and Plasmodium ovale.
+- Treatment of uncomplicated malaria due to Plasmodium falciparum, Plasmodium malariae, Plasmodium vivax,and Plasmodium ovale.
 - Prophylaxis of malaria in geographic areas where chloroquine resistance is not reported.
 
 Limitations of Use:
 
-Hydroxychloroquine sulfate is not recommended for:
+Hydroxychloroquine sulfate is notrecommended for:
 
 - Treatment of complicated malaria.
-- Treatment of malaria by chloroquine or hydroxychloroquine-resistant strains of Plasmodium species [see Microbiology (12.4)].
-- Treatment of malaria acquired in geographic areas where chloroquine resistance occurs or when the Plasmodium species has not been identified.
+- Treatment of malaria by chloroquine or hydroxychloroquine-resistant strains of Plasmodiumspecies [see Microbiology (12.4)].
+- Treatment of malaria acquired in geographic areas where chloroquine resistance occurs or when the Plasmodiumspecies has not been identified.
 - Prophylaxis of malaria in geographic areas where chloroquine resistance occurs.
-- Prevention of relapses of P. vivax or P. ovale because it is not active against the hypnozoite liver stage forms of these parasites.
-  For radical cure of P. vivax and P. ovale infections, concomitant therapy with an 8-aminoquinoline drug is necessary [see Microbiology (12.4)].
+- Prevention of relapses of P. vivaxor P. ovalebecause it is not active against the hypnozoite liver stage forms of these parasites.
+  For radical cure of P. vivaxand P. ovaleinfections, concomitant therapy with an 8-aminoquinoline drug is necessary [see Microbiology (12.4)].
 
 For the most current information about drug resistance, refer to the latest recommendations from the Center for Disease Control and Prevention 1.
 
