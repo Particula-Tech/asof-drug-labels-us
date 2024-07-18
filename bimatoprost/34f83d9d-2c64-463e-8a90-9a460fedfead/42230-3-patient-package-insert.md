@@ -104,7 +104,7 @@ It may not be appropriate for them to use.
 
 This leaflet summarizes the most important information about LATISSE® solution.
 If you would like more information, talk with your physician.
-You can also call Allergan’s product information department at 1-800-678-1605.
+You can also call AbbVie’s product information department at 1-800-678-1605.
 
 What are the ingredients in LATISSE®?
 
@@ -112,12 +112,10 @@ Active ingredient: bimatoprost Inactive ingredients: benzalkonium chloride; sodi
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 - 7.8.
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2020 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
-Patented.
-See: www.allergan.com/patents
+LATISSE and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v1.0PPI3616
+v2.0PPI3616

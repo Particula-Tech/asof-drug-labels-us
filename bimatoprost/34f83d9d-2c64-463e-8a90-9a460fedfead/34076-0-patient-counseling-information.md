@@ -56,14 +56,12 @@ Contact Lens Use
 Advise patients that LATISSE® solution contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to application of LATISSE® and may be reinserted 15 minutes following its administration.
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2021 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
-Patented.
-See: www.allergan.com/patents
+LATISSE and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v2.0USPI3616
+v3.0USPI3616
 
 ------Cut---Here--- -------------------------------------------------------------------------------------------------------------
