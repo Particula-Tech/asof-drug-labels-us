@@ -8,7 +8,7 @@ Clozapine also acts as an antagonist at adrenergic, cholinergic, histaminergic a
 
 ## 12.2 Pharmacodynamics
 
-Clozapine demonstrated binding affinity to the following receptors: histamine H 1 (K i 1.1 nM), adrenergic α 1A (K i 1.6 nM), serotonin 5-HT 6 (K i 4 nM), serotonin 5-HT 2A (K i 5.4 nM), muscarinic M 1 (K i 6.2 nM), serotonin 5-HT 7 (K i 6.3 nM), serotonin 5-HT 2C (K i 9.4 nM), dopamine D 4 (K i 24 nM), adrenergic α 2A (K i 90 nM), serotonin 5-HT 3 (K i 95 nM), serotonin 5-HT 1A (K i 120 nM), dopamine D 2 (K i 160 nM), dopamine D 1 (K i 270 nM), dopamine D 5 (K i 454 nM), and dopamine D 3 (K i 555 nM).
+Clozapine demonstrated binding affinity to the following receptors: histamine H 1(K i1.1 nM), adrenergic α 1A(K i1.6 nM), serotonin 5-HT 6(K i4 nM), serotonin 5-HT 2A(K i5.4 nM), muscarinic M 1(K i6.2 nM), serotonin 5-HT 7(K i6.3 nM), serotonin 5-HT 2C(K i9.4 nM), dopamine D 4(K i24 nM), adrenergic α 2A(K i90 nM), serotonin 5-HT 3(K i95 nM), serotonin 5-HT 1A(K i120 nM), dopamine D 2(K i160 nM), dopamine D 1(K i270 nM), dopamine D 5(K i454 nM), and dopamine D 3(K i555 nM).
 
 Clozapine causes little or no prolactin elevation.
 
@@ -69,3 +69,8 @@ CYP2D6 Poor Metabolizers
 
 A subset (3% to 10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
 These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.
+
+Patients with Pneumonia and other Inflammatory Conditions
+
+Published case reports describe examples where pneumonia or other inflammatory conditions may increase clozapine concentrations.
+The clinical significance, the impact of treatments to modulate this inflammation, and mechanism of this potential increase in clozapine concentrations have not been fully characterized but may involve reduced cytochrome P450 1A2 activity.

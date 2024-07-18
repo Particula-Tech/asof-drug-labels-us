@@ -4,15 +4,15 @@
 
 Clozapine tablets USP, 25 mg are pale yellow, oval shaped, flat faced, beveled edged, uncoated tablets, debossed with 25 on one side and break line on other side.
 
-NDC 16729- 141-01 bottles of 100’s count with child-resistant closure
+NDC16729- 141-01 bottles of 100’s count with a child-resistant closure
 
-NDC 16729- 141-16 bottles of 500’s count
+NDC16729- 141-16 bottles of 500’s count
 
 Clozapine tablets USP, 100 mg are pale yellow, oval-shaped, flat faced, beveled edged, uncoated tablets, debossed with 100 on one side and break line on other side.
 
-NDC 16729- 142-01 bottles of 100’s count with child-resistant closure
+NDC16729- 142-01 bottles of 100’s count with a child-resistant closure
 
-NDC 16729- 142-16 bottles of 500’s count
+NDC16729- 142-16 bottles of 500’s count
 
 ## 16.2 Storage and Handling
 

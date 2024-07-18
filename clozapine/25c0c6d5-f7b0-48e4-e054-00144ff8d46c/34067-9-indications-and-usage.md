@@ -12,4 +12,4 @@ The effectiveness of clozapine in treatment-resistant schizophrenia was demonstr
 Clozapine is indicated for reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder who are judged to be at chronic risk for re-experiencing suicidal behavior, based on history and recent clinical state.
 Suicidal behavior refers to actions by a patient that put him/herself at risk for death.
 
-The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was demonstrated over a two-year treatment period in the InterSePT TM trial [see Clinical Studies (14.2)].
+The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was demonstrated over a two-year treatment period in the InterSePT TMtrial [see Clinical Studies (14.2)].

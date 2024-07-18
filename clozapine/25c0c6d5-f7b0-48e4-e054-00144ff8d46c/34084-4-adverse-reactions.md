@@ -27,7 +27,7 @@ The following adverse reactions are discussed in more detail in other sections o
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The most commonly reported adverse reactions (≥5%) across clozapine clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
-Table 9 summarizes the most commonly reported adverse reactions (≥5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
+Table 9summarizes the most commonly reported adverse reactions (≥5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
 Table 9.
 Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
@@ -46,11 +46,11 @@ Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-contr
 | Nausea/vomiting | 10 | 12 |
 | Dry mouth | 5 | 20 |
 
-Table 10 summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2-year InterSePT™ Study).
+Table 10summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2-year InterSePT™ Study).
 These rates are not adjusted for duration of exposure.
 
 Table 10.
-Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT TM Study)
+Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT TMStudy)
 
 | Body System Adverse Reaction * | Clozapine N=842 Percentage of Patients |
 | --- | --- |
@@ -97,12 +97,12 @@ Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) across 
 | Weight Gain | 4 |
 | † Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine. |  |
 
-Table 11 summarizes the most commonly reported adverse reactions (≥10% of the clozapine or olanzapine group) in the InterSePT TM Study.
+Table 11summarizes the most commonly reported adverse reactions (≥10% of the clozapine or olanzapine group) in the InterSePT TMStudy.
 This was an adequate and well-controlled, two-year study evaluating the efficacy of clozapine relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
 Table 11.
-Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT TM Study (≥10% in the clozapine or olanzapine group)
+Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT TMStudy (≥10% in the clozapine or olanzapine group)
 
 | Adverse Reactions | Clozapine N=479 % Reporting | Olanzapine N=477 % Reporting |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine 
 
 Dystonia
 
-Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Class effect:Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.

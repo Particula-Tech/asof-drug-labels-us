@@ -6,7 +6,7 @@ Clozapine treatment has caused severe neutropenia, defined as an absolute neutro
 Severe neutropenia can lead to serious infection and death.
 Prior to initiating treatment with clozapine a baseline ANC must be at least 1500/ µL for the general population; and must be at least 1000/µL for patients with documented Benign Ethnic Neutropenia (BEN).
 During treatment, patients must have regular ANC monitoring.
-Advise patients to immediately report symptoms consistent with severe neutropenia or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
+Advise patients to immediately report symptoms consistent with severe neutropenia or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1)and Warnings and Precautions (5.1)].
 
 Because of the risk of severe neutropenia, clozapine is available only through a restricted program under a Risk Evaluation Mitigation Strategy (REMS) called the Clozapine REMS Program.
 [see Warnings and Precautions (5.2)].
@@ -15,9 +15,9 @@ Orthostatic Hypotension, Bradycardia, Syncope
 
 Orthostatic hypotension, bradycardia, syncope, and cardiac arrest have occurred with clozapine treatment.
 The risk is highest during the initial titration period, particularly with rapid dose escalation.
-These reactions can occur with the first dose, with doses as low as 12.5 mg per day.
-Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages.
-Use clozapine cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, 2.5), Warnings and Precautions (5.3)].
+These reactions can occur with the first dose, with doses as low as 12.5 mg per day, or when restarting patients who have had even a brief interruption in treatment with clozapine.
+Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages to minimize risk.
+Use clozapine cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2,2.5), Warnings and Precautions (5.3)].
 
 Seizures
 

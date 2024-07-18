@@ -8,7 +8,7 @@ Risk Summary
 
 There are no adequate or well-controlled studies of clozapine in pregnant women.
 
-Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m 2 body surface area basis.
+Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m 2body surface area basis.
 The studies revealed no evidence of impaired fertility or harm to the fetus due to clozapine.
 Because animal reproduction studies are not always predictive of human response, clozapine should be used during pregnancy only if clearly needed.
 
@@ -22,11 +22,11 @@ The severity of complications can vary from self-limited symptoms to some neonat
 
 Animal Data
 
-In embryofetal developmental studies, clozapine had no effects on maternal parameters, litter sizes, or fetal parameters when administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 0.4 and 0.9 times, respectively, the MRHD of 900 mg/day on a mg/m 2 body surface area basis.
+In embryofetal developmental studies, clozapine had no effects on maternal parameters, litter sizes, or fetal parameters when administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 0.4 and 0.9 times, respectively, the MRHD of 900 mg/day on a mg/m 2body surface area basis.
 
 In peri/postnatal developmental studies, pregnant female rats were administered clozapine over the last third of pregnancy and until day 21 postpartum.
 Observations were made on fetuses at birth and during the postnatal period; the offspring were allowed to reach sexual maturity and mated.
-Clozapine caused a decrease in maternal body weight but had no effects on litter size or body weights of either F1 or F2 generations at doses up to 0.4 times the MRHD of 900 mg/day on a mg/m 2 body surface area basis.
+Clozapine caused a decrease in maternal body weight but had no effects on litter size or body weights of either F1 or F2 generations at doses up to 0.4 times the MRHD of 900 mg/day on a mg/m 2body surface area basis.
 
 ## 8.3 Nursing Mothers
 
@@ -41,7 +41,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 There have not been sufficient numbers of geriatric patients in clinical studies utilizing clozapine to determine whether those over 65 years of age differ from younger subjects in their response to clozapine.
 
-Orthostatic hypotension and tachycardia can occur with clozapine treatment [see Boxed Warning and Warnings and Precautions (5.3)].
+Orthostatic hypotension and tachycardia can occur with clozapine treatment [see Boxed Warningand Warnings and Precautions (5.3)].
 Elderly patients, particularly those with compromised cardiovascular functioning, may be more susceptible to these effects.
 
 Elderly patients may be particularly susceptible to the anticholinergic effects of clozapine, such as urinary retention and constipation [see Warnings and Precautions (5.16)].
