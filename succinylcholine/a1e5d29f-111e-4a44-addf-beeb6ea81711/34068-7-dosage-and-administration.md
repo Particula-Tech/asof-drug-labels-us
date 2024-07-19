@@ -10,7 +10,7 @@
 - •To avoid distress to the patient, succinylcholine should not be administered before unconsciousness has been induced.
   In emergency situations, however, it may be necessary to administer succinylcholine before unconsciousness is induced.
 - •The occurrence of bradyarrhythmias with administration of ANECTINE may be reduced by pretreatment with anticholinergics (e.g., atropine) [see Warnings and Precautions (5.6)].
-- •Monitor neuromuscular function with a peripheral nerve stimulator when using ANECTINE by infusion [see Dosage and Administration (2.2)].”
+- •Monitor neuromuscular function with a peripheral nerve stimulator when using ANECTINE by infusion [see Dosage and Administration (2.2)].
 - •Visually inspect ANECTINE for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not administer solutions which are not clear and colorless.
 
