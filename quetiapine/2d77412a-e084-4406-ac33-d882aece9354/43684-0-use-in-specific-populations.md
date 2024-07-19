@@ -55,7 +55,7 @@ However, there was evidence of embryo-fetal toxicity including delays in skeleta
 In addition, fetal weights were decreased in both species.
 Maternal toxicity (observed as decreased body weights and/or death) occurred at 2 times the MRHD in rats and approximately 1-2 times the MRHD (all doses tested) in rabbits.
 
-In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.1, and 0.2 times the MRHD of 800 mg/day based on mg/m 2 body surface area.
+In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.1, and 0.2 times the MRHD of 800 mg/day based on mg/m 2body surface area.
 However, in a preliminary peri/postnatal study, there were increases in fetal and pup death, and decreases in mean litter weight at 3 times the MRHD.
 
 ## 8.2 Lactation
@@ -79,7 +79,7 @@ Based on the pharmacologic action of quetiapine (D2 antagonism), treatment with 
 
 In general, the adverse reactions observed in children and adolescents during the clinical trials were similar to those in the adult population with few exceptions.
 Increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults.
-Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to children and adolescents (< 1%) [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to children and adolescents (< 1%) [see Warnings and Precautions (5.7)and Adverse Reactions (6.1)].
 
 Schizophrenia The efficacy and safety of quetiapine in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one 6-week, double-blind, placebo-controlled trial [see Indications and Usage (1.1), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
@@ -97,7 +97,7 @@ Safety and effectiveness of quetiapine in pediatric patients less than 10 years 
 Bipolar Depression
 
 Safety and effectiveness of quetiapine in pediatric patients less than 18 years of age with bipolar depression have not been established.
-A clinical trial with quetiapine extended release was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
+A clinical trial with SEROQUEL XR was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
 
 Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10 to 17 years of age) and adults.
 When adjusted for weight, the AUC and Cmax of quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.
@@ -108,7 +108,7 @@ The pharmacokinetics of the active metabolite, norquetiapine, were similar betwe
 Of the approximately 3700 patients in clinical studies with quetiapine, 7% (232) were 65 years of age or over.
 In general, there was no indication of any different tolerability of quetiapine in the elderly compared to younger adults.
 Nevertheless, the presence of factors that might decrease pharmacokinetic clearance, increase the pharmacodynamic response to quetiapine, or cause poorer tolerance or orthostasis, should lead to consideration of a lower starting dose, slower titration, and careful monitoring during the initial dosing period in the elderly.
-The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].
+The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12.3)and Dosage and Administration (2.3)].
 
 ## 8.6 Renal Impairment
 
@@ -117,4 +117,4 @@ Clinical experience with quetiapine in patients with renal impairment is limited
 ## 8.7 Hepatic Impairment
 
 Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in patients with hepatic impairment.
-In this population, a low starting dose of 25 mg/day is recommended and the dose may be increased in increments of 25 mg/day to 50 mg/day [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+In this population, a low starting dose of 25 mg/day is recommended and the dose may be increased in increments of 25 mg/day to 50 mg/day [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].

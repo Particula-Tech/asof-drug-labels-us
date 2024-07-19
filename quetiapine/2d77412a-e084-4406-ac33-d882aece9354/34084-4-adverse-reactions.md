@@ -4,19 +4,19 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Increased mortality in elderly patients with dementia-related psychosis[see Warnings and Precautions (5.1)]
 - Suicidal thoughts and behaviors in adolescents and young adults[see Warnings and Precautions (5.2)]
-- Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.3)]
+- Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis[see Warnings and Precautions (5.3)]
 - Neuroleptic Malignant Syndrome (NMS)[see Warnings and Precautions (5.4)]
 - Metabolic changes (hyperglycemia, dyslipidemia, weight gain)[see Warnings and Precautions (5.5)]
-- Tardive dyskinesia [see Warnings and Precautions (5.6)]
-- Hypotension [see Warnings and Precautions (5.7)]
-- Falls [see Warnings and Precautions (5.8)]
+- Tardive dyskinesia[see Warnings and Precautions (5.6)]
+- Hypotension[see Warnings and Precautions (5.7)]
+- Falls[see Warnings and Precautions (5.8)]
 - Increases in blood pressure (children and adolescents)[see Warnings and Precautions (5.9)]
 - Leukopenia, neutropenia and agranulocytosis[see Warnings and Precautions (5.10)]
 - Cataracts[see Warnings and Precautions (5.11)]
 - QT Prolongation[see Warnings and Precautions (5.12)]
 - Seizures[see Warnings and Precautions (5.13)]
 - Hypothyroidism[see Warnings and Precautions (5.14)]
-- Hyperprolactinemia [see Warnings and Precautions (5.15)]
+- Hyperprolactinemia[see Warnings and Precautions (5.15)]
 - Potential for cognitive and motor impairment[see Warnings and Precautions (5.16)]
 - Body temperature regulation[see Warnings and Precautions (5.17)]
 - Dysphagia[see Warnings and Precautions (5.18)]
@@ -40,14 +40,14 @@ The stated frequencies of adverse reactions represent the proportion of individu
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
-Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine vs. 3% for placebo) in a pool of controlled trials.
-However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.19)].
+Schizophrenia:Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine vs. 3% for placebo) in a pool of controlled trials.
+However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7and 5.19)].
 
 Bipolar Disorder:
 
-Mania: Overall, discontinuations due to adverse reactions were 5.7% for quetiapine vs. 5.1% for placebo in monotherapy and 3.6% for quetiapine vs. 5.9% for placebo in adjunct therapy.
+Mania:Overall, discontinuations due to adverse reactions were 5.7% for quetiapine vs. 5.1% for placebo in monotherapy and 3.6% for quetiapine vs. 5.9% for placebo in adjunct therapy.
 
-Depression: Overall, discontinuations due to adverse reactions were 12.3% for quetiapine 300 mg vs. 19.0% for quetiapine 600 mg and 5.2% for placebo.
+Depression:Overall, discontinuations due to adverse reactions were 12.3% for quetiapine 300 mg vs. 19.0% for quetiapine 600 mg and 5.2% for placebo.
 
 Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials:
 
@@ -184,25 +184,25 @@ Explorations for interactions on the basis of gender, age, and race did not reve
 
 Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
 
-Dose-related Adverse Reactions: Spontaneously elicited adverse reaction data from a study of schizophrenia comparing five fixed doses of quetiapine (75 mg, 150 mg, 300 mg, 600 mg, and 750 mg/day) to placebo were explored for dose-relatedness of adverse reactions.
+Dose-related Adverse Reactions:Spontaneously elicited adverse reaction data from a study of schizophrenia comparing five fixed doses of quetiapine (75 mg, 150 mg, 300 mg, 600 mg, and 750 mg/day) to placebo were explored for dose-relatedness of adverse reactions.
 Logistic regression analyses revealed a positive dose response (p<0.05) for the following adverse reactions: dyspepsia, abdominal pain, and weight gain.
 
 Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in the label:
 
 The following adverse reactions have also been reported with quetiapine: nightmares, hypersensitivity, and elevations in serum creatine phosphokinase (not associated with NMS), galactorrhea, bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/ or syncope) decreased platelets, somnambulism (and other related events), elevations in gamma-GT levels, hypothermia, dyspnea, eosinophilia, urinary retention, intestinal obstruction and priapism.
 
-Extrapyramidal Symptoms (EPS):
+Extrapyramidal Symptoms(EPS):
 
 Dystonia
 
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Class Effect:Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
 Four methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates Parkinsonism and akathisia, (2) Barnes Akathisia Rating Scale (BARS) Global Assessment Score, (3) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (4) use of anticholinergic medications to treat EPS.
 
-Adults: Data from one 6-week clinical trial of schizophrenia comparing five fixed doses of quetiapine (75, 150, 300, 600, 750 mg/day) provided evidence for the lack of extrapyramidal symptoms (EPS) and dose-relatedness for EPS associated with quetiapine treatment.
+Adults:Data from one 6-week clinical trial of schizophrenia comparing five fixed doses of quetiapine (75, 150, 300, 600, 750 mg/day) provided evidence for the lack of extrapyramidal symptoms (EPS) and dose-relatedness for EPS associated with quetiapine treatment.
 Three methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates Parkinsonism and akathisia, (2) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (3) use of anticholinergic medications to EPS.
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
@@ -234,7 +234,7 @@ Children and Adolescents
 The information below is derived from a clinical trial database for quetiapine consisting of over 1000 pediatric patients.
 This database includes 677 patients exposed to quetiapine for the treatment of schizophrenia and 393 children and adolescents (10 to 17 years old) exposed to quetiapine for the treatment of acute bipolar mania.
 
-Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
+Adverse Reactions Associated with Discontinuation of Treatmentin Short-Term, Placebo-Controlled Trials
 
 Schizophrenia: The incidence of discontinuation due to adverse reactions for quetiapine-treated and placebo-treated patients was 8.2% and 2.7%, respectively.
 The adverse event leading to discontinuation in 1% or more of patients on quetiapine and at a greater incidence than placebo was somnolence (2.7% and 0% for placebo).
@@ -242,13 +242,13 @@ The adverse event leading to discontinuation in 1% or more of patients on quetia
 Bipolar I Mania: The incidence of discontinuation due to adverse reactions for quetiapine-treated and placebo-treated patients was 11.4% and 4.4%, respectively.
 The adverse reactions leading to discontinuation in 2% or more of patients on quetiapine and at a greater incidence than placebo were somnolence (4.1% vs. 1.1%) and fatigue (2.1% vs. 0).
 
-Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials
+Commonly Observed Adverse Reactionsin Short-Term, Placebo-Controlled Trials
 
 In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse reactions associated with the use of quetiapine in adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (34%), dizziness (12%), dry mouth (7%), tachycardia (7%).
 
 In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (53%), dizziness (18%), fatigue (11%), increased appetite (9%), nausea (8%), vomiting (8%), tachycardia (7%), dry mouth (7%), and weight increased (6%).
 
-In an acute (8-week) quetiapine extended release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of quetiapine extended release (incidence of 5% or greater and at least twice that for placebo) were dizziness (7%), diarrhea (5%), fatigue (5%), and nausea (5%).
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness (7%), diarrhea (5%), fatigue (5%), and nausea (5%).
 
 Adverse Reactions Occurring at an Incidence of ≥ 2% among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials Schizophrenia (Adolescents, 13 to 17 years old)
 
@@ -358,12 +358,12 @@ Laboratory, ECG, and vital sign changes observed in clinical studies Laboratory 
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 10 9/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo.
+Adults:In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 10 9/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo.
 [see Warnings and Precautions (5.10)].
 
 Transaminase Elevations
 
-Adults: Asymptomatic, transient, and reversible elevations in serum transaminases (primarily ALT) have been reported.
+Adults:Asymptomatic, transient, and reversible elevations in serum transaminases (primarily ALT) have been reported.
 In schizophrenia trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3 to 6-week placebo-controlled trials were approximately 6% (29/483) for quetiapine compared to 1% (3/194) for placebo.
 In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both quetiapine (3/560) and placebo (3/294).
 These hepatic enzyme elevations usually occurred within the first 3 weeks of drug treatment and promptly returned to pre-study levels with ongoing treatment with quetiapine.
@@ -371,7 +371,7 @@ In bipolar depression trials, the proportions of patients with transaminase elev
 
 Decreased Hemoglobin
 
-Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤13 g/dL males, ≤12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
+Adults:In short-term placebo-controlled trials, decreases in hemoglobin to ≤13 g/dL males, ≤12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
 In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
 
 Interference with Urine Drug Screens
@@ -397,8 +397,8 @@ Mean increases in heart rate were 3.8 bpm and 11.2 bpm for quetiapine 400 mg and
 In the acute (3-week) bipolar mania trial in children and adolescents, increases in heart rate (> 110 bpm) occurred in 1.1% (1/89) of patients receiving quetiapine 400 mg and 4.7% (4/85) of patients receiving quetiapine 600 mg compared to 0% (0/98) of patients receiving placebo.
 Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
-In an acute (8-week) quetiapine extended release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine extended release and 1.2% of patients receiving placebo.
-Mean increases in heart rate were 3.4 bpm for quetiapine extended release, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (> 110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo.
+Mean increases in heart rate were 3.4 bpm for SEROQUEL XR, compared to 0.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 
 ## 6.2 Postmarketing Experience
 

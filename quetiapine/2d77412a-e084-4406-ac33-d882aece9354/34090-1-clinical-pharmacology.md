@@ -4,12 +4,12 @@
 
 The mechanism of action of quetiapine in the listed indications is unclear.
 However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2) and serotonin type 2 (5HT 2) antagonism.
-The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D 2, but greater activity at 5HT 2A receptors, than the parent drug (quetiapine).
+The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D 2, but greater activity at 5HT 2Areceptors, than the parent drug (quetiapine).
 
 ## 12.2 Pharmacodynamics
 
 Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotransmitter receptors with norquetiapine binding with higher affinity than quetiapine in general.
-The K i values for quetiapine and norquetiapine at the dopamine D 1 are 428/99.8 nM, at D 2 626/489nM, at serotonin 5HT 1A 1040/191 nM at 5HT 2A 38/2.9 nM, at histamine H 1 4.4/1.1 nM, at muscarinic M 1 1086/38.3 nM, and at adrenergic α 1b 14.6/46.4 nM and, at α 2 receptors 617/1290 nM, respectively.
+The K ivalues for quetiapine and norquetiapine at the dopamine D 1are 428/99.8 nM, at D 2626/489nM, at serotonin 5HT 1A1040/191 nM at 5HT 2A38/2.9 nM, at histamine H 14.4/1.1 nM, at muscarinic M 11086/38.3 nM, and at adrenergic α 1b 14.6/46.4 nM and, at α 2receptors 617/1290 nM, respectively.
 Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
 
 Effect on QT Interval
@@ -37,9 +37,9 @@ When adjusted for dose and weight, the pharmacokinetics of the metabolite, norqu
 
 Absorption
 
-Quetiapine fumarate is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
+Quetiapine is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
 The tablet formulation is 100% bioavailable relative to solution.
-The bioavailability of quetiapine is marginally affected by administration with food, with C max and AUC values increased by 25% and 15%, respectively.
+The bioavailability of quetiapine is marginally affected by administration with food, with C maxand AUC values increased by 25% and 15%, respectively.
 
 Distribution
 
@@ -55,7 +55,7 @@ Approximately 73% and 20% of the dose was recovered in the urine and feces, resp
 
 Quetiapine is extensively metabolized by the liver.
 The major metabolic pathways are sulfoxidation to the sulfoxide metabolite and oxidation to the parent acid metabolite; both metabolites are pharmacologically inactive.
-In vitro studies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite N-desalkyl quetiapine.
+In vitrostudies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite N-desalkyl quetiapine.
 
 Age
 
@@ -82,17 +82,17 @@ Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4)and Use in Specific Populations (8.7)].
 
 Drug-Drug Interaction Studies
 
-The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)Drug Interactions (7.1)].
+The in vivoassessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5and 2.6)and Drug Interactions (7.1)Drug Interactions (7.1)].
 
 Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
 | CoadministeredDrug | Dose Schedules |  | Effect onQuetiapinePharmacokinetics |
 | --- | --- | --- | --- |
-| Coadministered Drug | Quetiapine |  |  |
+| CoadministeredDrug | Quetiapine |  |  |
 | Phenytoin | 100 mg three times daily | 250 mg three times daily | 5-fold increase in oral clearance |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state.No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
@@ -103,7 +103,7 @@ Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 | Haloperidol | 7.5 mg twice daily | 300 mg twice daily | No change in steady state PK |
 | Risperidone | 3 mg twice daily | 300 mg twice daily | No change in steady state PK |
 
-In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6, and 3A4.
+In vitroenzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivometabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6, and 3A4.
 
 Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium, or lorazepam (Table 18) [see Drug Interactions (7.2)].
 
@@ -113,6 +113,6 @@ Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 | --- | --- | --- | --- |
 | Coadministered drug | Quetiapine |  |  |
 | Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |
-| Divalproex | 500 mg twice daily | 150 mg twice daily | C max and AUC of free valproic acid at steady-state was decreased by 10 to 12% |
+| Divalproex | 500 mg twice daily | 150 mg twice daily | C maxand AUC of free valproic acid at steady-state was decreased by 10 to 12% |
 | Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
 | Antipyrine | 1 g, single dose | 250 mg three times daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |

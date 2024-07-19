@@ -12,7 +12,7 @@ What is the most important information I should know about quetiapine tablets?
 
 Quetiapine tablets may cause serious side effects, including:
 
-1. risk of death in the elderly with dementia: Medicines like quetiapine tablets can increase the risk of death in elderly people who have memory loss (dementia).
+1. risk of death in the elderly with dementia:Medicines like quetiapine tablets can increase the risk of death in elderly people who have memory loss (dementia).
 Quetiapine tablet is not for treating psychosis in the elderly with dementia.
 
 2. risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
@@ -24,8 +24,7 @@ Talk to your or your family member’s healthcare provider about:
 
 - Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 - Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
+  Some people may have a particularly high risk of having suicidal thoughts or actions.These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
 - How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
     This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -50,19 +49,14 @@ Call a healthcare provider right away if you or your family member has any of th
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to your healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression, and also the risks of not treating it.
+- Never stop an antidepressant medicine without first talking to your healthcare provider.Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Antidepressants are medicines used to treat depression and other illnesses.It is important to discuss all the risks of treating depression, and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member take.
+- Antidepressant medicines have other side effects.Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.Know all of the medicines that you or your family member take.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child’s healthcare provider for more information.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.Talk to your child’s healthcare provider for more information.
 
 What is a quetiapine tablet?
 
@@ -101,7 +95,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
   Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine.
 - if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
-Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements, and vitamins.
+Tell the healthcare provider about all the medicines that you take or recently have takenincluding prescription medicines, over-the-counter medicines, herbal supplements, and vitamins.
 
 Quetiapine tablets and other medicines may affect each other causing serious side effects.
 Quetiapine tablets may affect the way other medicines work, and other medicines may affect how quetiapine tablets works.
@@ -146,8 +140,7 @@ Quetiapine tablets can cause serious side effects, including:
 
 • stroke that can lead to death can happen in elderly people with dementia who take medicines like quetiapine tablets
 
-• neuroleptic malignant syndrome (NMS).
-NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine tablets.
+• neuroleptic malignant syndrome (NMS).NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine tablets.
 NMS can cause death and must be treated in a hospital.
 Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
 
@@ -161,11 +154,10 @@ o confusion
 
 o changes in your breathing, heartbeat, and blood pressure
 
-• falls can happen in some people who take quetiapine tablets.
+• fallscan happen in some people who take quetiapine tablets.
 These falls may cause serious injuries.
 
-• high blood sugar (hyperglycemia).
-High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+• high blood sugar (hyperglycemia).High blood sugar can happen if you have diabetes already or if you have never had diabetes.
 High blood sugar could lead to:
 
 o build-up of acid in your blood due to ketones (ketoacidosis)
@@ -192,23 +184,19 @@ o feel sick to your stomach
 
 o feel confused, or your breath smells fruity
 
-• high fat levels in your blood (increased cholesterol and triglycerides).
-High fat levels may happen in people treated with quetiapine tablets.
+• high fat levels in your blood (increased cholesterol and triglycerides).High fat levels may happen in people treated with quetiapine tablets.
 You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine tablets.
 
-• increase in weight (weight gain).
-Weight gain is common in people who take quetiapine tablets so you and your healthcare provider should check your weight regularly.
+• increase in weight (weight gain).Weight gain is common in people who take quetiapine tablets so you and your healthcare provider should check your weight regularly.
 Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
-• movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
-These may be signs of a serious condition.
+• movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).These may be signs of a serious condition.
 Tardive dyskinesia may not go away, even if you stop taking quetiapine tablets.
 Tardive dyskinesia may also start after you stop taking quetiapine tablets.
 
-• decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+• decreased blood pressure (orthostatic hypotension),including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
 
-• increases in blood pressure in children and teenagers.
-Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
+• increases in blood pressure in children and teenagers.Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine tablets and during therapy.
 
 • low white blood cell count.
 Tell your healthcare provider as soon as possible if you have a fever, flu-like symptoms, or any other infection, as this could be a result of a very low white blood cell count.
@@ -218,7 +206,7 @@ Your healthcare provider may check your white blood cell level to determine if f
 
 • seizures
 
-• abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
+• abnormal thyroid tests:Your healthcare provider may do blood tests to check your thyroid hormone level.
 
 • increases in prolactin levels
 
@@ -228,8 +216,7 @@ Your healthcare provider may check your white blood cell level to determine if f
 
 • difficulty swallowing
 
-• trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking quetiapine tablets.
-These symptoms usually get better 1 week after you start having them.
+• trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking quetiapine tablets.These symptoms usually get better 1 week after you start having them.
 
 The most common side effects of quetiapine tablets include:
 
@@ -289,9 +276,9 @@ For more information, go to www.accordhealthcare.us or call Accord Healthcare In
 
 What are the ingredients in quetiapine tablets?
 
-Active ingredient: quetiapine
+Active ingredient:quetiapine
 
-Inactive ingredients: povidone, dibasic calcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
+Inactive ingredients:povidone, dibasic calcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 The 25 mg tablets contain iron oxide red and yellow.
 The 100 mg and 400 mg tablets contain only iron oxide yellow.
 
@@ -299,12 +286,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Medication guide available at www.accordhealthcare.us/products
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-10 0210 8 6006164
+10 6783 0 6024406
 
-Issued May 2022
+Issued October 2023

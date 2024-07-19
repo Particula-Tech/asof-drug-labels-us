@@ -81,12 +81,14 @@ Appropriate educational placement is essential and psychosocial intervention is 
 
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)]
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Brands listed are the trademarks of their respective owners.
+
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-10 0210 8 6006164
+10 6783 0 6024406
 
-Issued May 2022
+Issued October 2023

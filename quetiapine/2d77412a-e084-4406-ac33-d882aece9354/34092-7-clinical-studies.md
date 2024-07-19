@@ -51,11 +51,11 @@ Table 19: Schizophrenia Short-Term Trials
 | Quetiapine (450 mg/day TID) 3 | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
 | Quetiapine (50 mg BID) | 41.7 (10.0) | -5.4 (1.3) | -- |  |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference 1 (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference 1(95% CI) |
 | Study 4 | Quetiapine (400 mg/day) 2 | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 | Quetiapine (800 mg/day) 2 | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. 1. Difference (drug minus placebo) in least-squares mean change from baseline. 2. Doses that are statistically significant superior to placebo. 3. Doses that are statistically significant superior to quetiapine 50 mg BID. |  |  |  |  |
+| SD:standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. 1.Difference (drug minus placebo) in least-squares mean change from baseline. 2.Doses that are statistically significant superior to placebo. 3.Doses that are statistically significant superior to quetiapine 50 mg BID. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
 
@@ -104,7 +104,7 @@ Table 20: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
+| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline.(95% CI) |  |  |
 | Study 1 | Quetiapine (200 to 800 mg/day) Doses that are statistically significantly superior to placebo. Included in the trial as an active comparator. | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
 | Haloperidol, | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |

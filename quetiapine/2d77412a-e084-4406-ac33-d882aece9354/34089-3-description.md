@@ -4,7 +4,7 @@ Quetiapine is an atypical antipsychotic belonging to a chemical class, the diben
 The chemical designation is 2-[2-(4-dibenzo [b,f] [1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]-ethanol fumarate (2:1) (salt).
 It is present in tablets as the fumarate salt.
 All doses and tablet strengths are expressed as milligrams of base, not as fumarate salt.
-Its molecular formula is C 42H 50N 6O 4S 2•C 4H 4O 4 and it has a molecular weight of 883.11 (fumarate salt).
+Its molecular formula is C 42H 50N 6O 4S 2•C 4H 4O 4and it has a molecular weight of 883.11 (fumarate salt).
 The structural formula is:
 
 Quetiapine fumarate is a white to off-white crystalline powder which is moderately soluble in water.
