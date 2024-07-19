@@ -10,17 +10,18 @@ The 10 mg capsule is imprinted with an ® on the cap and is imprinted 8961 10 mg
 
 The 15 mg capsule is imprinted with an ® on the cap and is imprinted 8962 15 mg on the body in pink.
 
-5 mg Bottles of 100……………….NDC 0406-8960-01 10 mg Bottles of 100……………….NDC 0406-8961-01 15 mg Bottles of 100……………….NDC 0406-8962-01 Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
+5 mg Bottles of 100……………….NDC 0406-8960-01 10 mg Bottles of 100……………….NDC 0406-8961-01 15 mg Bottles of 100……………….NDC 0406-8962-01
+
+Store at controlled room temperature between 20° to 25°C (68° to 77°F) [see USP].
+
 Dispense in a tight, light-resistant container with a child-resistant closure.
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-© 2022 Mallinckrodt.
+© 2023 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 02/2022
+Rev 10/2023
 
 Mallinckrodt™ Pharmaceuticals
-
-An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20D09.pdf or by calling 1-800-778-7898 for alternate delivery options.

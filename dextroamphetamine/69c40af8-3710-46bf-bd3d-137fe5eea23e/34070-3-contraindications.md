@@ -1,13 +1,5 @@
 # CONTRAINDICATIONS
 
-Advanced arteriosclerosis, symptomatic cardiovascular disease, moderate to severe hypertension, hyperthyroidism, known hypersensitivity or idiosyncrasy to the sympathomimetic amines, glaucoma.
-
-Agitated states.
-
-Patients with a history of drug abuse.
-
-Known hypersensitivity or idiosyncrasy to amphetamine.
-
 In patients known to be hypersensitive to amphetamine, or other components of dextroamphetamine sulfate extended-release capsules.
 Hypersensitivity reactions such as angioedema and anaphylactic reactions have been reported in patients treated with other amphetamine products (see ADVERSE REACTIONS).
 

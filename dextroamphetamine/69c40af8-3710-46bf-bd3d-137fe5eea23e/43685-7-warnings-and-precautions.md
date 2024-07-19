@@ -1,70 +1,68 @@
 # WARNINGS
 
-## Serious Cardiovascular Events
+Abuse, Misuse, and Addiction
 
-## Sudden Death in Patients with Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+Dextroamphetamine sulfate extended-release capsules have a high potential for abuse and misuse.
+The use of dextroamphetamine sulfate extended-release capsules exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+Dextroamphetamine sulfate extended-release capsules can be diverted for non-medical use into illicit channels or distribution (see DRUG ABUSE AND DEPENDENCE).
+Misuse and abuse of CNS stimulants, including dextroamphetamine sulfate extended-release capsules, can result in overdose and death (see OVERDOSAGE), and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-Children and Adolescents
+Before prescribing dextroamphetamine sulfate extended-release capsules, assess each patient’s risk for abuse, misuse, and addiction.
+Educate patients and their families about these risks and proper disposal of any unused drug.
+Advise patients to store amphetamine sulfate in a safe place, preferably locked, and instruct patients to not give dextroamphetamine sulfate extended-release capsules to anyone else.
+Throughout dextroamphetamine sulfate extended-release capsules treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
-Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug.
-Adults
+Risks to Patients with Serious Cardiac Disease
 
-Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
-Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
-Adults with such abnormalities should also generally not be treated with stimulant drugs (see CONTRAINDICATIONS).
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who are treated with CNS stimulants at the recommended ADHD dosages.
 
-## Hypertension and Other Cardiovascular Conditions
+Avoid dextroamphetamine sulfate extended-release capsule use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
-Stimulant medications cause a modest increase in average blood pressure (about 2 mmHg to 4 mmHg) and average heart rate (about 3 bpm to 6 bpm), and individuals may have larger increases.
-While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
+Increased Blood Pressure and Heart Rate
 
-## Assessing Cardiovascular Status in Patients Being Treated with Stimulant Medications
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
 
-Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
-Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
+Monitor all patients for potential tachycardia and hypertension.
 
-## Psychiatric Adverse Events
+Psychiatric Adverse Reactions
 
-Pre-Existing Psychosis
+Exacerbation of Pre-Existing Psychosis
 
-Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
-Bipolar Illness
+CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
-Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
-Prior to initiating treatment with a stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-Emergence of New Psychotic or Manic Symptoms
+Induction of a Manic Episode in Patients with Bipolar Disease
 
-Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
-If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3,482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
-Aggression
+CNS stimulants may induce a manic or mixed episode in patients.
+Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
 
-Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
-Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of, or worsening of, aggressive behavior or hostility.
+New Psychotic or Manic Symptoms
 
-## Long-Term Suppression of Growth
+CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients.
+If such symptoms occur, consider discontinuing dextroamphetamine sulfate extended-release capsules.
 
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children older than 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
-Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+Long-Term Suppression of Growth in Pediatric Patients
 
-## Seizures
+CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients, including dextroamphetamine sulfate extended-release capsules.
+Closely monitor growth (weight and height) in dextroamphetamine sulfate extended-release capsules-treated pediatric patients treated with CNS stimulants.
+
+Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted (see PRECAUTIONS, Pediatric Use).
+
+Seizures
 
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
-## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 Stimulants, including dextroamphetamine sulfate extended-release capsules, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
-Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
-Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treatment with ADHD stimulants.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports and at therapeutic dosages in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after dosage reduction or discontinuation of the CNS stimulant.
+Careful observation for digital changes is necessary during dextroamphetamine sulfate extended-release capsules treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for dextroamphetamine sulfate extended-release capsules-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
-## Serotonin Syndrome
+Serotonin Syndrome
 
 Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort (see Drug Interactions).
 Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism (see CLINICAL PHARMACOLOGY).
@@ -78,9 +76,12 @@ Concomitant use of dextroamphetamine sulfate extended-release capsules with MAOI
 Discontinue treatment with dextroamphetamine sulfate extended-release capsules and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
 If concomitant use of dextroamphetamine sulfate extended-release capsules with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate dextroamphetamine sulfate extended-release capsules with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
 
-## Visual Disturbance
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
-Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
+CNS stimulants, including amphetamine sulfate, have been associated with the onset or exacerbation of motor and verbal tics.
+Worsening of Tourette’s syndrome has also been reported.
+Before initiating dextroamphetamine sulfate extended-release capsules, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
+Regularly monitor patients for the emergence or worsening of tics or Tourette’s syndrome with dextroamphetamine sulfate extended-release capsules, and discontinue treatment if clinically appropriate.
 
 # PRECAUTIONS
 
@@ -90,20 +91,41 @@ The least amount feasible should be prescribed or dispensed at one time in order
 
 ## Information for Patients
 
-Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with dextroamphetamine and should counsel them in its appropriate use.
-A patient Medication Guide is available for dextroamphetamine sulfate extended-release capsules.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+Abuse, Misuse, and Addiction
+
+Educate patients and their families about the risks of abuse, misuse, and addiction of dextroamphetamine sulfate extended-release capsules, which can lead to overdose and death, and proper disposal of any unused drug (see WARNINGS, DRUG ABUSE AND DEPENDENCE, OVERDOSAGE).
+Advise patients to store dextroamphetamine sulfate extended-release capsules in a safe place, preferably locked, and instruct patients to not give dextroamphetamine sulfate extended-release capsules to anyone else.
+
+Risks to Patients with Serious Cardiac Disease
+
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with dextroamphetamine sulfate extended-release capsules use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease (see WARNINGS).
+
+Increased Blood Pressure and Heart Rate
+
+Instruct patients that dextroamphetamine sulfate extended-release capsules can elevate blood pressure and heart rate (see WARNINGS).
+
+Psychiatric Adverse Reactions
+
+Advise patients that dextroamphetamine sulfate extended-release capsules, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania (see WARNINGS).
+
+Long-Term Suppression of Growth in Pediatric Patients
+
+Advise patients that dextroamphetamine sulfate extended-release capsules may cause slowing of growth and weight loss in pediatric patients (see WARNINGS).
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
 - Instruct patients beginning treatment with dextroamphetamine sulfate extended-release capsules about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate extended-release capsules.
-- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients (see WARNINGS).
+
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+Advise patients that motor and verbal tics and worsening of Tourette’s syndrome may occur during treatment with dextroamphetamine sulfate extended-release capsules.
+Instruct the patients to notify their healthcare provider if emergence or worsening of tics or Tourette’s syndrome occurs (see WARNINGS).
 
 ## Drug Interactions
 

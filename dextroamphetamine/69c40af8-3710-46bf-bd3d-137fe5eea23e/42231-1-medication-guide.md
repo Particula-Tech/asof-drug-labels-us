@@ -1,120 +1,17 @@
-# MEDICATION GUIDE
+An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20D09.pdf or by calling 1-800-778-7898 for alternate delivery options.
 
-Dextroamphetamine Sulfate Extended-Release Capsules, CII (DEX-troe-am-FET-uh-meen SULL-fate) Read the Medication Guide that comes with dextroamphetamine sulfate extended-release capsules before you or your child starts taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with dextroamphetamine sulfate extended-release capsules.
-
-| What is the most important information I should know about Dextroamphetamine Sulfate Extended-Release Capsules? The following have been reported with use of dextroamphetamine sulfate extended-release capsules and other stimulant medicines. 1. Heart-related problems: Sudden death in patients who have heart problems or heart defectsStroke and heart attack in adults Increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting dextroamphetamine sulfate extended-release capsules. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dextroamphetamine sulfate extended-release capsules. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dextroamphetamine sulfate extended-release capsules. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dextroamphetamine sulfate extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painfulfingers or toes may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes. Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate extended-release capsules. |
+| MEDICATION GUIDE Dextroamphetamine Sulfate Extended-Release Capsules, CII (DEX-troe-am-FET-uh-meen SULL-fate) |
 | --- |
+| What is the most important information I should know about dextroamphetamine sulfate extended-release capsules?Dextroamphetamine sulfate extended-release capsules may cause serious side effects, including: Abuse misuse, and addiction. Dextroamphetamine sulfate extended-release capsules have a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of dextroamphetamine sulfate extended-release capsules, other amphetamine-containing medicines, and methylphenidate containing medicines, can lead to overdose and death. The risk of overdose and death is increased with higher doses of dextroamphetamine sulfate extended-release capsules or when they are used in ways that are not approved, such as snorting or injection. Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with dextroamphetamine sulfate extended-release capsules and will monitor you or your child during treatment.Dextroamphetamine sulfate extended-release capsules may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.Do not give dextroamphetamine sulfate extended-release capsules to anyone else. See “What are dextroamphetamine sulfate extended-release capsules?” for more information.Keep dextroamphetamine sulfate extended-release capsules in a safe place and properly dispose of any unused medicine. See “How should I store dextroamphetamine sulfate extended-release capsules?” for more information.Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs. Risks for people with serious heart disease. Sudden death has happened in people who have heart defects or other serious heart disease. Your healthcare provider should check you or your child carefully for heart problems before starting dextroamphetamine sulfate extended-release capsules. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.Call your healthcare provider right away or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with dextroamphetamine sulfate extended-release capsules. Increased blood pressure and heart rate.Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with dextroamphetamine sulfate extended-release capsules.Mental (psychiatric) problems, including: new or worse behavior or thought problemsnew or worse bipolar illnessnew psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with dextroamphetamine sulfate extended-release capsules, especially hearing voices, seeing or believing things that are not real, or new manic symptoms. |
+| What are dextroamphetamine sulfate extended-release capsules?Dextroamphetamine sulfate extended-release capsules are a central nervous system (CNS) stimulant prescription medicine used for the treatment of: a sleep disorder called narcolepsy.Attention-Deficit Hyperactivity Disorder (ADHD) in children 6 to 17 years of age.dextroamphetamine sulfate extended-release capsules may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD. It is not known if dextroamphetamine sulfate extended-release capsules are safe and effective in children under 6 years of age.Dextroamphetamine sulfate extended-release capsules are a federally controlled substance (CII) because they contain dextroamphetamine that can be a target for people who abuse prescription medicines or street drugs. Keep dextroamphetamine sulfate extended-release capsules in a safe place to protect them from theft. Never give your dextroamphetamine sulfate extended-release capsules to anyone else because they may cause death or harm them. Selling or giving away dextroamphetamine sulfate extended-release capsules may harm others and is against the law. |
+| Do not take dextroamphetamine sulfate extended-release capsules if you or your child: are allergic to amphetamine products or any of the ingredients in dextroamphetamine sulfate extended-release capsules. See the end of this Medication Guide for a complete list of ingredients in dextroamphetamine sulfate extended-release capsules.are taking, or have taken within the past 14 days, a medicine used to treat depression called a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid or the intravenous medicine methylene blue. |
+| Before taking dextroamphetamine sulfate extended-release capsules, tell your healthcare provider about all of your or your child’s medical conditions, including if you or your child: have heart problems, heart disease, heart defects, or high blood pressurehave mental problems including psychosis, mania, bipolar illness, or depression, or have a family history of suicide, bipolar illness, or depressionhave seizures or have had an abnormal brain wave test (EEG)have circulation problems in fingers and toeshave or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndromeare pregnant or plan to become pregnant. It is not known if dextroamphetamine sulfate extended-release capsules will harm the unborn baby. Tell your healthcare provider if you or your child become pregnant during treatment with dextroamphetamine sulfate extended-release capsules.are breastfeeding or plan to breastfeed. Dextroamphetamine sulfate extended-release capsules pass into breast milk. You or your child should not breastfeed during treatment with dextroamphetamine sulfate extended-release capsules. Talk to your healthcare provider about the best way to feed the baby during treatment with dextroamphetamine sulfate extended-release capsules. Tell your healthcare provider about all of the medicines that you or your child take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.Dextroamphetamine sulfate extended-release capsules and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be changed during treatment with dextroamphetamine sulfate extended-release capsules. Your healthcare provider will decide if dextroamphetamine sulfate extended-release capsules can be taken with other medicines.Especially tell your healthcare provider if you or your child take: selective serotonin reuptake inhibitors (SSRIs)serotonin norepinephrine reuptake inhibitors (SNRIs)medicines used to treat migraine headaches called triptanstricyclic antidepressantslithiumfentanyltramadoltryptophanbuspironeSt. John’s Wort Know the medicines that you or your child take. Keep a list of your or your child’s medicines with you to show your healthcare provider and pharmacist when you or your child get a new medicine.Do not start any new medicine during treatment with dextroamphetamine sulfate extended-release capsules without talking to your healthcare provider first. |
+| How should dextroamphetamine sulfate extended-release capsules be taken? Take dextroamphetamine sulfate extended-release capsules exactly as prescribed by your or your child’s healthcare provider.Your healthcare provider may change the dose if needed.Dextroamphetamine sulfate extended-release capsules are an extended-release capsule. They release medicine into your body throughout the day. If you or your child take too many dextroamphetamine sulfate extended-release capsules, call your healthcare provider or Poison Help line at 1- 800-222-1222 or go to the nearest hospital emergency room right away. |
+| What are possible side effects of dextroamphetamine sulfate extended-release capsules?Dextroamphetamine sulfate extended-release capsules may cause serious side effects, including: See “What is the most important information I should know about dextroamphetamine sulfate extended-release capsules?”Slowing of growth (height and weight) in children. Children should have their height and weight checked often during treatment with dextroamphetamine sulfate extended-release capsules. Your healthcare provider may stop your child’s dextroamphetamine sulfate extended-release capsules treatment if they are not growing or gaining weight as expected.Seizures. Your healthcare provider may stop treatment with dextroamphetamine sulfate extended-release capsules if you or your child have a seizure.Circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon). Signs and symptoms may include:Fingers or toes may feel numb, cool, painfulFingers or toes may change color from pale, to blue, to red Tell your healthcare provider if you or your child have numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your healthcare provider right away if you or your child have any signs of unexplained wounds appearing on fingers or toes during treatment with dextroamphetamine sulfate extended-release capsules.New or worsening tics or worsening Tourette’s syndrome. Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with dextroamphetamine sulfate extended-release capsules.Serotonin syndrome. This problem may happen when dextroamphetamine sulfate extended-release capsules are taken with certain other medicines and may be life-threatening. Stop taking dextroamphetamine sulfate extended-release capsules and call your healthcare provider or go to the nearest hospital emergency room right away if you or your child develop any of the following signs and symptoms of serotonin syndrome: agitationfast heartbeatflushingseizurescomasweatingloss of coordinationconfusiondizzinesstremors, stiff muscles, or muscle twitchingseeing or hearing things that are not real (hallucination)changes in blood pressurehigh body temperature (hypothermia)nausea, vomiting, diarrhea The most common side effects of dextroamphetamine sulfate extended-release capsules include: fast heartbeatdecreased appetitetremorsheadachetrouble sleepingdizzinessstomach upsetweight lossdry mouth These are not all of the possible side effects of dextroamphetamine sulfate extended-release capsules. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store dextroamphetamine sulfate extended-release capsules? Store dextroamphetamine sulfate extended-release capsules at room temperature between 68° to 77°F (20° to 25°C).Store dextroamphetamine sulfate extended-release capsules in a safe place, like a locked cabinet. Protect from light.Dispose of remaining, unused, or expired dextroamphetamine sulfate extended-release capsules by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, mix dextroamphetamine sulfate extended-release capsules with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container such as a sealed plastic bag and throw away dextroamphetamine sulfate extended-release capsules in the household trash. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines. Keep dextroamphetamine sulfate extended-release capsules and all medicines out of the reach of children. |
+| General information about the safe and effective use of dextroamphetamine sulfate extended-release capsules.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use dextroamphetamine sulfate extended-release capsules for a condition for which they were not prescribed. Do not give dextroamphetamine sulfate extended-release capsules to other people, even if they have the same symptoms that you or your child have. It may harm them and it is against the law. You can ask your pharmacist or healthcare provider for information about dextroamphetamine sulfate extended-release capsules that is written for healthcare professionals. |
+| What are the ingredients in dextroamphetamine sulfate extended-release capsules?Active ingredient: dextroamphetamine sulfate USP Inactive ingredients: sugar spheres, titanium dioxide, gelatin, shellac glaze-45%, SD-45 alcohol, iron oxide black, propylene glycol, FD&C Blue #2/Indigo Carmine Lake, FD&C Red #40/Allura Red AC Lake, FD&C Blue #1/Brilliant Blue FCF Lake, D&C Yellow #10 Lake, SD3A alcohol, shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, strong ammonia solution, FD&C Blue #2 Aluminum Lake, D&C Red #7 Calcium Lake, hydroxypropyl methylcellulose/hypromellose, macrogol/polyethylene glycol, purified water, ethylcellulose, ammonium hydroxide 28%, medium chain triglycerides, oleic acid.Manufactured by: SpecGx LLC Webster Groves, MO 63119 USAFor more information about dextroamphetamine sulfate extended-release capsules, visit www.mallinckrodt.com or call 1-800-778-7898.Mallinckrodt™ |
 
-What are Dextroamphetamine Sulfate Extended-Release Capsules?
-
-Dextroamphetamine sulfate extended-release capsules are a central nervous system stimulant prescription medicine.
-It is used for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD).
-Dextroamphetamine sulfate extended-release capsules may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-Dextroamphetamine sulfate extended-release capsules should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
-Dextroamphetamine sulfate extended-release capsules are also used in the treatment of a sleep disorder called narcolepsy.
-
-| Dextroamphetamine sulfate extended-release capsules are a federally controlled substance (CII) because it can be abused or lead to dependence. Keep dextroamphetamine sulfate extended-release capsules in a safe place to prevent misuse and abuse. Selling or giving away dextroamphetamine sulfate extended-release capsules may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
-| --- |
-
-Who should not take Dextroamphetamine Sulfate Extended-Release Capsules?
-Dextroamphetamine sulfate extended-release capsules should not be taken if you or your child:
-
-- Have heart disease or hardening of the arteries
-- Have moderate to severe high blood pressure
-- Have hyperthyroidism
-- Have an eye problem called glaucoma
-- Are very anxious, tense, or agitated
-- Have a history of drug abuse
-- Are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI
-- Is sensitive to, allergic to, or had a reaction to other stimulant medicines
-
-Dextroamphetamine sulfate extended-release capsules are not recommended for use in children younger than 6 years old.
-Dextroamphetamine sulfate extended-release capsules may not be right for you or your child.
-Before starting dextroamphetamine sulfate extended-release capsules tell your or your child’s doctor about all health conditions (or a family history of) including:
-
-- Heart problems, heart defects, high blood pressure
-- Mental problems including psychosis, mania, bipolar illness, or depression
-- Tics or Tourette’s syndrome
-- Thyroid problems
-- Seizures or have had an abnormal brain wave test (EEG)
-- Circulation problems in fingers and toes
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
-Can Dextroamphetamine Sulfate Extended-Release Capsules be taken with other medicines?
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
-Dextroamphetamine sulfate extended-release capsules and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking dextroamphetamine sulfate extended-release capsules.
-Your doctor will decide whether dextroamphetamine sulfate extended-release capsules can be taken with other medicines.
-Especially tell your doctor if you or your child takes:
-
-- Anti-depression medicines including MAOIs
-- Blood pressure medicines
-- Antacids
-- Seizure medicines
-
-Know the medicines that you or your child takes.
-Keep a list of your medicines with you to show your doctor and pharmacist.
-Do not start any new medicine while taking dextroamphetamine sulfate extended-release capsules without talking to your doctor first.
-How should Dextroamphetamine Sulfate Extended-Release Capsules be taken?
-
-- Take dextroamphetamine sulfate extended-release capsules exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child.
-- Dextroamphetamine sulfate extended-release capsules come as a capsule.
-- Dextroamphetamine sulfate extended-release capsules are usually taken once a day in the morning.
-  Dextroamphetamine sulfate extended-release capsules are an extended release capsule.
-  It releases medicine into your body throughout the day.
-- From time to time, your doctor may stop treatment with dextroamphetamine sulfate extended-release capsules for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking dextroamphetamine sulfate extended-release capsules.
-  Children should have their height and weight checked often while taking dextroamphetamine sulfate extended-release capsules.
-  Treatment with dextroamphetamine sulfate extended-release capsules may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much dextroamphetamine sulfate extended-release capsules or overdoses, call your doctor or poison control center right away, or get emergency treatment.
-
-What are possible side effects of Dextroamphetamine Sulfate Extended-Release Capsules?
-See “What is the most important information I should know about Dextroamphetamine Sulfate Extended-Release Capsules?” for information on reported heart and mental problems.
-Other serious side effects include:
-
-- Slowing of growth (height and weight) in children
-- Seizures, mainly in patients with a history of seizures
-- Eyesight changes or blurred vision
-
-Common side effects include:
-
-- Fast heartbeat
-- Decreased appetite
-- Tremors
-- Headache
-- Trouble sleeping
-- Dizziness
-- Stomach upset
-- Weight loss
-- Dry mouth
-
-Dextroamphetamine sulfate extended-release capsules may affect your or your child’s ability to drive or do other dangerous activities.
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
-This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-How should I store Dextroamphetamine Sulfate Extended-Release Capsules?
-
-- Store dextroamphetamine sulfate extended-release capsules in a safe place at room temperature, 68º to 77ºF (20º to 25ºC).
-  Protect from light.
-- Keep dextroamphetamine sulfate extended-release capsules and all medicines out of the reach of children.
-
-General information about Dextroamphetamine Sulfate Extended-Release Capsules Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use dextroamphetamine sulfate extended-release capsules for a condition for which it was not prescribed.
-Do not give dextroamphetamine sulfate extended-release capsules to other people, even if they have the same condition.
-It may harm them and it is against the law.
-This Medication Guide summarizes the most important information about dextroamphetamine sulfate extended-release capsules.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about dextroamphetamine sulfate extended-release capsules that was written for healthcare professionals.
-For more information about dextroamphetamine sulfate extended-release capsules, please contact Mallinckrodt at 1-800-778-7898 or visit www.mallinckrodt.com.
-
-What are the ingredients in Dextroamphetamine Sulfate Extended-Release Capsules?
-Active Ingredient: dextroamphetamine sulfate USP Inactive Ingredients: sugar spheres, titanium dioxide, gelatin, shellac glaze-45%, SD-45 alcohol, iron oxide black, propylene glycol, FD&C Blue #2/Indigo Carmine Lake, FD&C Red #40/Allura Red AC Lake, FD&C Blue #1/Brilliant Blue FCF Lake, D&C Yellow #10 Lake, SD3A alcohol, shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, strong ammonia solution, FD&C Blue #2 Aluminum Lake, D&C Red #7 Calcium Lake, hydroxypropyl methylcellulose/hypromellose, macrogol/polyethylene glycol, purified water, ethylcellulose, ammonium hydroxide 28%, medium chain triglycerides, oleic acid.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-SpecGx LLC Webster Groves, MO 63119 USA Rev 02/2022 L20D09
 
-Mallinckrodt™
+Rev 10/2023 L20D09

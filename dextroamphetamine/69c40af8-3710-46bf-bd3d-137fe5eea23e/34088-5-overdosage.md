@@ -1,24 +1,19 @@
 # OVERDOSAGE
 
-Manifestations of amphetamine overdose include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states, hyperpyrexia and rhabdomyolysis.
-Fatigue and depression usually follow the central nervous system stimulation.
-Serotonin syndrome has also been reported.
-Cardiovascular effects include arrhythmias, hypertension or hypotension and circulatory collapse.
-Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
-Fatal poisoning is usually preceded by convulsions and coma.
+Clinical Effects of Overdose
 
-Treatment
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
-Consult with a Certified Poison Control Center for up-to-date guidance and advice.
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-## TREATMENT
+Overdose Management
 
-Consult with a Certified Poison Control Center for up-to-date guidance and advice.
-Management of acute amphetamine intoxication is largely symptomatic and includes gastric lavage, administration of activated charcoal, administration of a cathartic, and sedation.
-Experience with hemodialysis or peritoneal dialysis is inadequate to permit recommendation in this regard.
-Acidification of the urine increases amphetamine excretion, but is believed to increase risk of acute renal failure if myoglobinuria is present.
-If acute, severe hypertension complicates amphetamine overdosage, administration of intravenous phentolamine (Bedford Laboratories) has been suggested.
-However, a gradual drop in blood pressure will usually result when sufficient sedation has been achieved.
-Chlorpromazine antagonizes the central stimulant effects of amphetamines and can be used to treat amphetamine intoxication.
-Since much of the dextroamphetamine sulfate extended-release capsule medication is coated for gradual release, therapy directed at reversing the effects of the ingested drug and at supporting the patient should be continued for as long as overdosage symptoms remain.
-Saline cathartics are useful for hastening the evacuation of pellets that have not already released medication.
+Consider the possibility of multiple drug ingestion.
+The pharmacokinetic profile of dextroamphetamine sulfate extended-release capsules should be considered when treating patients with overdose.
+D-amphetamine is not dialyzable.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.
