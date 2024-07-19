@@ -6,7 +6,7 @@ Cyclosporine has been demonstrated to suppress some humoral immunity and to a gr
 The effectiveness of cyclosporine results from specific and reversible inhibition of immunocompetent lymphocytes in the G0- and G1-phase of the cell cycle.
 T-lymphocytes are preferentially inhibited.
 The T-helper cell is the main target, although the T-suppressor cell may also be suppressed.
-Cyclosporine also inhibits lymphokine production and release including interleukin-2.
+Cyclosporine also inhibits lymphokine production and release, including interleukin-2.
 
 No effects on phagocytic function (changes in enzyme secretions, chemotactic migration of granulocytes, macrophage migration, carbon clearance in vivo) have been detected in animals.
 Cyclosporine does not cause bone marrow suppression in animal models or man.
@@ -25,11 +25,11 @@ The Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) and Gengraf® Ora
 
 The relationship between administered dose and exposure (area under the concentration versus time curve, AUC) is linear within the therapeutic dose range.
 The intersubject variability (total, %CV) of cyclosporine exposure (AUC) when cyclosporine (MODIFIED) or Sandimmune® is administered ranges from approximately 20% to 50% in renal transplant patients.
-This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (See DOSAGE AND ADMINISTRATION).
+This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (see DOSAGE AND ADMINISTRATION).
 Intrasubject variability of AUC in renal transplant recipients (%CV) was 9% to 21% for cyclosporine (MODIFIED) and 19% to 26% for Sandimmune®.
 In the same studies, intrasubject variability of trough concentrations (%CV) was 17% to 30% for cyclosporine (MODIFIED) and 16% to 38% for Sandimmune®.
 
-### Absorption
+Absorption
 
 Cyclosporine (MODIFIED) has increased bioavailability compared to Sandimmune®.
 The absolute bioavailability of cyclosporine administered as Sandimmune® is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
@@ -42,10 +42,10 @@ Although the AUC and Cmax values are higher on cyclosporine (MODIFIED) relative 
 Following oral administration of cyclosporine (MODIFIED), the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
 The administration of food with cyclosporine (MODIFIED) decreases the cyclosporine AUC and Cmax.
 A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before cyclosporine (MODIFIED) administration decreased the AUC by 13% and Cmax by 33%.
-The effects of a low fat meal (667 kcal, 15 grams fat) were similar.
+The effects of a low-fat meal (667 kcal, 15 grams fat) were similar.
 
 The effect of T-tube diversion of bile on the absorption of cyclosporine from cyclosporine (MODIFIED) was investigated in eleven de novo liver transplant patients.
-When the patients were administered cyclosporine (MODIFIED) with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9±41% (range -55% to 68%).
+When the patients were administered cyclosporine (MODIFIED) with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9±41% (range, 55% to 68%).
 
 | Pharmacokinetic Parameters (mean±SD) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ When the patients were administered cyclosporine (MODIFIED) with and without T-t
 | De novo liver transplant5 Week 4 (N=18) | 458±190 | 6.89±3.68 | 7187±2816 | 1555±740 | 268±101 | 577±309 | 8.6±5.7 |
 | De novo rheumatoid arthritis6 (N=23) | 182±55.6 | 2.37±0.36 | 2641±877 | 728±263 | 96.4±37.7 | 613±196 | 8.3±2.8 |
 | De novo psoriasis6 Week 4 (N=18) | 189±69.8 | 2.48±0.65 | 2324±1048 | 655±186 | 74.9±46.7 | 723±186 | 10.2±3.9 |
-| 1Total daily dose was divided into two doses administered every 12 hours 2AUC was measured over one dosing interval 3Trough concentration was measured just prior to the morning cyclosporine (MODIFIED) dose, approximately 12 hours after the previous dose 4Assay: TDx specific monoclonal fluorescence polarization immunoassay 5Assay: Cyclo-trac specific monoclonal radioimmunoassay 6Assay: INCSTAR specific monoclonal radioimmunoassay |  |  |  |  |  |  |  |
+| 1Total daily dose was divided into two doses administered every 12 hours. 2AUC was measured over one dosing interval. 3Trough concentration was measured just prior to the morning cyclosporine (MODIFIED) dose, approximately 12 hours after the previous dose. 4Assay: TDx specific monoclonal fluorescence polarization immunoassay. 5Assay: Cyclo-trac specific monoclonal radioimmunoassay. 6Assay: INCSTAR specific monoclonal radioimmunoassay. |  |  |  |  |  |  |  |
 
 Distribution
 
@@ -65,14 +65,13 @@ In blood, the distribution is concentration dependent.
 Approximately 33% to 47% is in plasma, 4% to 9% in lymphocytes, 5% to 12% in granulocytes, and 41% to 58% in erythrocytes.
 At high concentrations, the binding capacity of leukocytes and erythrocytes becomes saturated.
 In plasma, approximately 90% is bound to proteins, primarily lipoproteins.
-Cyclosporine is excreted in human milk.
-(See PRECAUTIONS, Nursing Mothers)
+Cyclosporine is excreted in human milk (see PRECAUTIONS, Nursing Mothers).
 
 Metabolism
 
 Cyclosporine is extensively metabolized by the cytochrome P-450 3A enzyme system in the liver, and to a lesser degree in the gastrointestinal tract, and the kidney.
-The metabolism of cyclosporine can be altered by the coadministration of a variety of agents.
-(See PRECAUTIONS, Drug Interactions) At least 25 metabolites have been identified from human bile, feces, blood, and urine.
+The metabolism of cyclosporine can be altered by the coadministration of a variety of agents (see PRECAUTIONS, Drug Interactions).
+At least 25 metabolites have been identified from human bile, feces, blood, and urine.
 The biological activity of the metabolites and their contributions to toxicity are considerably less than those of the parent compound.
 The major metabolites (M1, M9, and M4N) result from oxidation at the 1-beta, 9-gamma, and 4-N-demethylated positions, respectively.
 At steady state following the oral administration of Sandimmune®, the mean AUCs for blood concentrations of M1, M9, and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
@@ -86,14 +85,14 @@ Neither dialysis nor renal failure alters cyclosporine clearance significantly.
 
 Drug Interactions
 
-(See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased.
-(See PRECAUTIONS, Drug Interactions) No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
+When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS, Drug Interactions).
+No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
 Specific Populations
 
 Renal Impairment
 
-In a study performed in 4 subjects with end-stage renal disease (creatinine clearance <5 mL/min), an intravenous infusion of 3.5 mg/kg of cyclosporine over 4 hours administered at the end of a hemodialysis session resulted in a mean volume of distribution (Vdss) of 3.49 L/kg and systemic clearance (CL) of 0.369 L/hr/kg.
+In a study performed in 4 subjects with end-stage renal disease (creatinine clearance < 5 mL/min), an intravenous infusion of 3.5 mg/kg of cyclosporine over 4 hours administered at the end of a hemodialysis session resulted in a mean volume of distribution (Vdss) of 3.49 L/kg and systemic clearance (CL) of 0.369 L/hr/kg.
 This systemic CL (0.369 L/hr/kg) was approximately two thirds of the mean systemic CL (0.56 L/hr/kg) of cyclosporine in historical control subjects with normal renal function.
 In 5 liver transplant patients, the mean clearance of cyclosporine on and off hemodialysis was 463 mL/min and 398 mL/min, respectively.
 Less than 1% of the dose of cyclosporine was recovered in the dialysate.
@@ -111,7 +110,7 @@ In a study of 7 renal transplant patients aged 2 to 16, the cyclosporine clearan
 In 9 liver transplant patients aged 0.6 to 5.6 years, clearance was 9.3±5.4 mL/min/kg (assay: HPLC).
 
 In the pediatric population, cyclosporine (MODIFIED) also demonstrates an increased bioavailability as compared to Sandimmune®.
-In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of cyclosporine (MODIFIED) was 43% (range 30% to 68%) and for Sandimmune® in the same individuals absolute bioavailability was 28% (range 17% to 42%).
+In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of cyclosporine (MODIFIED) was 43% (range, 30% to 68%) and for Sandimmune® in the same individuals absolute bioavailability was 28% (range, 17% to 42%).
 
 | Pediatric Pharmacokinetic Parameters (mean±SD) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -124,7 +123,7 @@ In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioava
 | Age 8 to 15, Dosed BID (N=5) | 158±55 | 5.51±1.91 | 4452±2475 | 1013±635 | 328±121 | 11.0±1.9 |
 | Stable renal transplant3 |  |  |  |  |  |  |
 | Age 7 to 15, Dosed BID (N=5) | 328±83 | 7.37±4.11 | 6922±1988 | 1827±487 | 418±143 | 8.7±2.9 |
-| 1AUC was measured over one dosing interval 2Assay: Cyclo-trac specific monoclonal radioimmunoassay 3Assay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |
+| 1AUC was measured over one dosing interval. 2Assay: Cyclo-trac specific monoclonal radioimmunoassay. 3Assay: TDx specific monoclonal fluorescence polarization immunoassay. |  |  |  |  |  |  |
 
 Geriatric Population
 

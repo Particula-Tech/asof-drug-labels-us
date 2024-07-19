@@ -11,19 +11,17 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 
 Renal Impairment in Kidney, Liver, and Heart Transplantation
 
-Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (See CLINICAL PHARMACOLOGY).
-However, due to its nephrotoxic potential (See WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated.
-(See WARNINGS and PRECAUTIONS)
+Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (see CLINICAL PHARMACOLOGY).
+However, due to its nephrotoxic potential (see WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated (see WARNINGS and PRECAUTIONS).
 
 Renal Impairment in Rheumatoid Arthritis and Psoriasis
 
-Patients with impaired renal function should not receive cyclosporine.
-(See CONTRAINDICATIONS, WARNINGS and PRECAUTIONS)
+Patients with impaired renal function should not receive cyclosporine (see CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
 
 Hepatic Impairment
 
-The clearance of cyclosporine may be significantly reduced in severe liver disease patients (See CLINICAL PHARMACOLOGY).
-Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (See WARNINGS and PRECAUTIONS).
+The clearance of cyclosporine may be significantly reduced in severe liver disease patients (see CLINICAL PHARMACOLOGY).
+Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (see WARNINGS and PRECAUTIONS).
 
 ## Newly Transplanted Patients
 
@@ -33,10 +31,10 @@ In newly transplanted patients, the initial oral dose of Gengraf® is the same a
 Suggested initial doses are available from the results of a 1994 survey of the use of Sandimmune® in US transplant centers.
 The mean ± SD initial doses were 9±3 mg/kg/day for renal transplant patients (75 centers), 8±4 mg/kg/day for liver transplant patients (30 centers), and 7±3 mg/kg/day for heart transplant patients (24 centers).
 Total daily doses were divided into two equal daily doses.
-The Gengraf® dose is subsequently adjusted to achieve a pre-defined cyclosporine blood concentration.
-(See Blood Concentration Monitoring in Transplant Patients, below) If cyclosporine trough blood concentrations are used, the target range is the same for Gengraf® as for Sandimmune®.
-Using the same trough concentration target range for Gengraf® as for Sandimmune® results in greater cyclosporine exposure when Gengraf® is administered.
-(See Pharmacokinetics, Absorption) Dosing should be titrated based on clinical assessments of rejection and tolerability.
+The Gengraf® dose is subsequently adjusted to achieve a pre-defined cyclosporine blood concentration (see Blood Concentration Monitoring in Transplant Patients, below).
+If cyclosporine trough blood concentrations are used, the target range is the same for Gengraf® as for Sandimmune®.
+Using the same trough concentration target range for Gengraf® as for Sandimmune® results in greater cyclosporine exposure when Gengraf® is administered (see Pharmacokinetics, Absorption).
+Dosing should be titrated based on clinical assessments of rejection and tolerability.
 Lower Gengraf® doses may be sufficient as maintenance therapy.
 
 Adjunct therapy with adrenal corticosteroids is recommended initially.
@@ -47,19 +45,19 @@ Adjustments in dosage of prednisone must be made according to the clinical situa
 
 ## Conversion from Sandimmune® Soft Gelatin Capsules (Cyclosporine Capsules, USP) to Gengraf® Capsules (Cyclosporine Capsules, USP [MODIFIED]) in Transplant Patients
 
-In transplanted patients who are considered for conversion to Gengraf® from Sandimmune® (cyclosporine), Gengraf® should be started with the same daily dose as was previously used with Sandimmune® (cyclosporine) (1:1 dose conversion).
+In transplanted patients who are considered for conversion to Gengraf® from Sandimmune®, Gengraf® should be started with the same daily dose as was previously used with Sandimmune® (1:1 dose conversion).
 The Gengraf® dose should subsequently be adjusted to attain the pre-conversion cyclosporine blood trough concentration.
-Using the same trough concentration target range for Gengraf® as for Sandimmune® (cyclosporine) results in greater cyclosporine exposure when Gengraf® is administered.
-(See Pharmacokinetics, Absorption) Patients with suspected poor absorption of Sandimmune® (cyclosporine) require different dosing strategies.
-(See Transplant Patients with Poor Absorption of Sandimmune® (Cyclosporine), below) In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
+Using the same trough concentration target range for Gengraf® as for Sandimmune® results in greater cyclosporine exposure when Gengraf® is administered (see Pharmacokinetics, Absorption).
+Patients with suspected poor absorption of Sandimmune® require different dosing strategies (see Transplant Patients with Poor Absorption of Sandimmune®, below).
+In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
 
 Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Gengraf®.
-In addition, clinical safety parameters such as serum creatinine and blood pressure should be monitored every two weeks during the first two months after conversion.
+In addition, clinical safety parameters, such as serum creatinine and blood pressure, should be monitored every two weeks during the first two months after conversion.
 If the blood trough concentrations are outside the desired range and/or if the clinical safety parameters worsen, the dosage of Gengraf® must be adjusted accordingly.
 
-## Transplant Patients with Poor Absorption of Sandimmune® (Cyclosporine)
+## Transplant Patients with Poor Absorption of Sandimmune®
 
-Patients with lower than expected cyclosporine blood trough concentrations in relation to the oral dose of Sandimmune® (cyclosporine) may have poor or inconsistent absorption of cyclosporine from Sandimmune® (cyclosporine).
+Patients with lower than expected cyclosporine blood trough concentrations in relation to the oral dose of Sandimmune® may have poor or inconsistent absorption of cyclosporine from Sandimmune®.
 After conversion to Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]), patients tend to have higher cyclosporine concentrations.
 Due to the increase in bioavailability of cyclosporine following conversion to Gengraf®, the cyclosporine blood trough concentration may exceed the target range.
 Particular caution should be exercised when converting patients to Gengraf® at doses greater than 10 mg/kg/day.
@@ -69,18 +67,16 @@ In this population the cyclosporine blood trough concentration should be measure
 ## Rheumatoid Arthritis
 
 The initial dose of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) is 2.5 mg/kg/day, taken twice daily as a divided (BID) oral dose.
-Salicylates, NSAIDs, and oral corticosteroids may be continued.
-(See WARNINGS and PRECAUTIONS, Drug Interactions) Onset of action generally occurs between 4 and 8 weeks.
+Salicylates, NSAIDs, and oral corticosteroids may be continued (see WARNINGS and PRECAUTIONS, Drug Interactions).
+Onset of action generally occurs between 4 and 8 weeks.
 If insufficient clinical benefit is seen and tolerability is good (including serum creatinine less than 30% above baseline), the dose may be increased by 0.5 to 0.75 mg/kg/day after 8 weeks and again after 12 weeks to a maximum of 4 mg/kg/day.
 If no benefit is seen by 16 weeks of therapy, Gengraf® therapy should be discontinued.
 
-Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension elevations in serum creatinine (30% above patient's pretreatment level) or clinically significant laboratory abnormalities.
-(See WARNINGS and PRECAUTIONS)
+Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension elevations in serum creatinine (30% above patient's pretreatment level) or clinically significant laboratory abnormalities (see WARNINGS and PRECAUTIONS).
 
 If dose reduction is not effective in controlling abnormalities or if the adverse event or abnormality is severe, Gengraf® should be discontinued.
 The same initial dose and dosage range should be used if Gengraf® is combined with the recommended dose of methotrexate.
-Most patients can be treated with Gengraf® doses of 3 mg/kg/day or below when combined with methotrexate doses of up to 15 mg/week.
-(See CLINICAL PHARMACOLOGY, Clinical Trials)
+Most patients can be treated with Gengraf® doses of 3 mg/kg/day or below when combined with methotrexate doses of up to 15 mg/week (see CLINICAL PHARMACOLOGY, Clinical Trials).
 
 There is limited long-term treatment data.
 Recurrence of rheumatoid arthritis disease activity is generally apparent within 4 weeks after stopping cyclosporine.
@@ -93,9 +89,8 @@ Patients should be kept at that dose for at least 4 weeks, barring adverse event
 If significant clinical improvement has not occurred in patients by that time, the patient's dosage should be increased at 2-week intervals.
 Based on patient response, dose increases of approximately 0.5 mg/kg/day should be made to a maximum of 4.0 mg/kg/day.
 
-Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension, elevations in serum creatinine (≥25% above the patient's pretreatment level), or clinically significant laboratory abnormalities.
-If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Gengraf® should be discontinued.
-(See Special Monitoring of Psoriasis Patients)
+Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension, elevations in serum creatinine (≥ 25% above the patient's pretreatment level), or clinically significant laboratory abnormalities.
+If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Gengraf® should be discontinued (see Special Monitoring for Psoriasis Patients).
 
 Patients generally show some improvement in the clinical manifestations of psoriasis in 2 weeks.
 Satisfactory control and stabilization of the disease may take 12 to 16 weeks to achieve.
@@ -110,7 +105,7 @@ In the majority of patients rebound does not occur after cessation of treatment 
 Thirteen cases of transformation of chronic plaque psoriasis to more severe forms of psoriasis have been reported.
 There were 9 cases of pustular and 4 cases of erythrodermic psoriasis.
 Long term experience with Gengraf® in psoriasis patients is limited and continuous treatment for extended periods greater than one year is not recommended.
-Alternation with other forms of treatment should be considered in the long term management of patients with this life long disease.
+Alternation with other forms of treatment should be considered in the long-term management of patients with this lifelong disease.
 
 ## Blood Concentration Monitoring in Transplant Patients
 

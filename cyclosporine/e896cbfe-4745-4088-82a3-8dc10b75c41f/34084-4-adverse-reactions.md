@@ -66,8 +66,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
 Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
-Fatal outcomes have been reported.
-(See WARNINGS)
+Fatal outcomes have been reported (see WARNINGS).
 
 Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune®
 
@@ -88,15 +87,13 @@ Infectious Complications in Historical Randomized Studies in Renal Transplant Pa
 
 ### Hepatotoxicity
 
-Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported.
-(See WARNINGS, Hepatotoxicity)
+Cases of hepatotoxicity and liver injury, including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
 
 Increased Risk of Infections
 
-Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported.
-(See WARNINGS, Polyoma Virus Infection)
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyoma Virus Infection).
 
-Headache, including Migraine
+Headache, Including Migraine
 
 Cases of migraine have been reported.
 In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
@@ -108,7 +105,7 @@ Pain of lower extremities has also been noted as part of Calcineurin-Inhibitor I
 
 ## Rheumatoid Arthritis
 
-The principal adverse reactions associated with the use of cyclosporine in rheumatoid arthritis are renal dysfunction (See WARNINGS), hypertension (See PRECAUTIONS), headache, gastrointestinal disturbances, and hirsutism/hypertrichosis.
+The principal adverse reactions associated with the use of cyclosporine in rheumatoid arthritis are renal dysfunction (see WARNINGS), hypertension (see PRECAUTIONS), headache, gastrointestinal disturbances, and hirsutism/hypertrichosis.
 
 In rheumatoid arthritis patients treated in clinical trials within the recommended dose range, cyclosporine therapy was discontinued in 5.3% of the patients because of hypertension and in 7% of the patients because of increased creatinine.
 These changes are usually reversible with timely dose decrease or drug discontinuation.
@@ -166,8 +163,8 @@ Cyclosporine (MODIFIED)/Sandimmune® Rheumatoid Arthritis Percentage of Patients
 |  | Depression | 3% | 6% | 3% | 1% | 1% | 2% |
 |  | Insomnia | 4% | 1% | 1% | 0% | 3% | 2% |
 | Renal |  |  |  |  |  |  |  |
-|  | Creatinine elevations ≥30% | 43% | 39% | 55% | 19% | 48% | 13% |
-|  | Creatinine elevations ≥50% | 24% | 18% | 26% | 8% | 18% | 3% |
+|  | Creatinine elevations ≥ 30% | 43% | 39% | 55% | 19% | 48% | 13% |
+|  | Creatinine elevations ≥ 50% | 24% | 18% | 26% | 8% | 18% | 3% |
 | Reproductive Disorders, Female |  |  |  |  |  |  |  |
 |  | Leukorrhea | 1% | 0% | 4% | 0% | 1% | 0% |
 |  | Menstrual Disorder | 3% | 2% | 1% | 0% | 1% | 1% |
@@ -196,7 +193,7 @@ Cyclosporine (MODIFIED)/Sandimmune® Rheumatoid Arthritis Percentage of Patients
 |  | Purpura | 3% | 4% | 1% | 1% | 2% | 0% |
 | † Includes patients in 2.5 mg/kg/day dose group only. *NOS=Not Otherwise Specified. |  |  |  |  |  |  |  |
 
-In addition, the following adverse events have been reported in 1% to <3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
+In addition, the following adverse events have been reported in 1% to < 3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
 Autonomic Nervous System: dry mouth, increased sweating
 
@@ -283,7 +280,7 @@ Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clini
 |  | Gum Hyperplasia | 3.8% | 6.0% |
 |  | Nausea | 5.5% | 5.9% |
 | White cell and RES |  | 4.4% | 2.7% |
-| *Total percentage of events within the system **Newly occurring hypertension=SBP ≥160 mm Hg and/or DBP ≥90 mm Hg |  |  |  |
+| *Total percentage of events within the system. **Newly occurring hypertension = SBP ≥ 160 mm Hg and/or DBP ≥ 90 mm Hg. |  |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 
@@ -313,7 +310,7 @@ Mild hypomagnesemia and hyperkalemia may occur but are asymptomatic.
 Increases in uric acid may occur and attacks of gout have been rarely reported.
 A minor and dose related hyperbilirubinemia has been observed in the absence of hepatocellular damage.
 Cyclosporine therapy may be associated with a modest increase of serum triglycerides or cholesterol.
-Elevations of triglycerides (>750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (>300 mg/dL) are observed in less than 3% of psoriasis patients.
+Elevations of triglycerides (> 750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (> 300 mg/dL) are observed in less than 3% of psoriasis patients.
 Generally these laboratory abnormalities are reversible upon dose reduction or discontinuation of cyclosporine.
 
 Postmarketing Experience, Psoriasis

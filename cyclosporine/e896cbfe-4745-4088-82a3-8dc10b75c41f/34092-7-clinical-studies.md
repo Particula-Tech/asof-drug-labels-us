@@ -11,20 +11,20 @@ Treatment duration was 24 weeks.
 The mean cyclosporine dose at the last visit was 3.1 mg/kg/day.
 See Graph below.
 
-Study 652 enrolled 250 patients with active RA with >6 active painful or tender joints who had failed at least one major RA drug.
+Study 652 enrolled 250 patients with active RA with > 6 active painful or tender joints who had failed at least one major RA drug.
 Patients were randomized using a 3:3:2 randomization to 1 of 3 treatment arms: (1) 1.5 to 5 mg/kg/day of cyclosporine, (2) 2.5 to 5 mg/kg/day of cyclosporine, and (3) placebo.
 Treatment duration was 16 weeks.
 The mean cyclosporine dose for group 2 at the last visit was 2.92 mg/kg/day.
 See Graph below.
 
-Study 2008 enrolled 144 patients with active RA and >6 active joints who had unsuccessful treatment courses of aspirin and gold or Penicillamine.
+Study 2008 enrolled 144 patients with active RA and > 6 active joints who had unsuccessful treatment courses of aspirin and gold or Penicillamine.
 Patients were randomized to 1 of 2 treatment groups (1) cyclosporine 2.5 to 5 mg/kg/day with adjustments after the first month to achieve a target trough level and (2) placebo.
 Treatment duration was 24 weeks.
 The mean cyclosporine dose at the last visit was 3.63 mg/kg/day.
 See Graph below.
 
 Study 654 enrolled 148 patients who remained with active joint counts of 6 or more despite treatment with maximally tolerated methotrexate doses for at least three months.
-Patients continued to take their current dose of methotrexate and were randomized to receive, in addition, one of the following medications: (1) cyclosporine 2.5 mg/kg/day with dose increases of 0.5 mg/kg/day at weeks 2 and 4 if there was no evidence of toxicity and further increases of 0.5 mg/kg/day at weeks 8 and 16 if a <30% decrease in active joint count occurred without any significant toxicity; dose decreases could be made at any time for toxicity or (2) placebo.
+Patients continued to take their current dose of methotrexate and were randomized to receive, in addition, one of the following medications: (1) cyclosporine 2.5 mg/kg/day with dose increases of 0.5 mg/kg/day at weeks 2 and 4 if there was no evidence of toxicity and further increases of 0.5 mg/kg/day at weeks 8 and 16 if a < 30% decrease in active joint count occurred without any significant toxicity; dose decreases could be made at any time for toxicity or (2) placebo.
 Treatment duration was 24 weeks.
 The mean cyclosporine dose at the last visit was 2.8 mg/kg/day (range: 1.3 to 4.1).
 See Graph below.
