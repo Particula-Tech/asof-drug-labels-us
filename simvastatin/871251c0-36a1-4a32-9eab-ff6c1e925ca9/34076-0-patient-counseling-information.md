@@ -22,10 +22,10 @@ Missed Dose Instruct patients to take simvastatin tablets only as prescribed.
 If a dose is missed, it should be taken as soon as possible.
 Advise patients not to double their next dose.
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
 10 2959 6 6023694
 
-Issued May 2023
+Issued February 2024
