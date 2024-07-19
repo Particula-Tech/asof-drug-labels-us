@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-The intravenous LD 50 of bendamustine HCl is 240 mg/m 2 in the mouse and rat.
+The intravenous LD 50of bendamustine HCl is 240 mg/m 2in the mouse and rat.
 Toxicities included sedation, tremor, ataxia, convulsions and respiratory distress.
 
 Across all clinical experience, the reported maximum single dose received was 280 mg/m 2.

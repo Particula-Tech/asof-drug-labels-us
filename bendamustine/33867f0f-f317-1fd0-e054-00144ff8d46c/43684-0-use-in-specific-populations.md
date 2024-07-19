@@ -16,11 +16,11 @@ Data
 
 Animal data
 
-Bendamustine hydrochloride was intraperitoneally administered once to mice from 210 mg/m 2 (approximately 1.8 times the MRHD) during organogenesis and caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities), and decreased fetal body weights.
+Bendamustine hydrochloride was intraperitoneally administered once to mice from 210 mg/m 2(approximately 1.8 times the MRHD) during organogenesis and caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities), and decreased fetal body weights.
 This dose did not appear to be maternally toxic and lower doses were not evaluated.
-Repeat intraperitoneal administration of bendamustine hydrochloride to mice on gestation days 7 to 11 resulted in an increase in resorptions from 75 mg/m 2 (approximately 0.6 times the MRHD) and an increase in abnormalities from 112.5 mg/m 2 (approximately 0.9 times the MRHD), similar to those seen after a single intraperitoneal administration.
+Repeat intraperitoneal administration of bendamustine hydrochloride to mice on gestation days 7 to 11 resulted in an increase in resorptions from 75 mg/m 2(approximately 0.6 times the MRHD) and an increase in abnormalities from 112.5 mg/m 2(approximately 0.9 times the MRHD), similar to those seen after a single intraperitoneal administration.
 
-Bendamustine hydrochloride was intraperitoneally administered once to rats from 120 mg/m 2 (approximately the MRHD) on gestation days 4, 7, 9, 11, or 13 and caused embryo and fetal lethality as indicated by increased resorptions and a decrease in live fetuses.
+Bendamustine hydrochloride was intraperitoneally administered once to rats from 120 mg/m 2(approximately the MRHD) on gestation days 4, 7, 9, 11, or 13 and caused embryo and fetal lethality as indicated by increased resorptions and a decrease in live fetuses.
 A significant increase in external (effect on tail, head, and herniation of external organs [exomphalos]) and internal (hydronephrosis and hydrocephalus) malformations were seen in dosed rats.
 
 ## 8.2 Lactation
@@ -68,7 +68,7 @@ Safety and effectiveness in pediatric patients have not been established.
 Safety, pharmacokinetics and efficacy were assessed in a single open-label trial (NCT01088984) in patients aged 1 to 19 years with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
 Bendamustine hydrochloride was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.
 There was no treatment response (CR+ CRp) in any patient in the Phase 2 portion of the trial at a dose of 120 mg/m 2.
-However, 2 patients with ALL achieved CR at a dose of 90 mg/m 2 in the Phase 1 portion of the study.
+However, 2 patients with ALL achieved CR at a dose of 90 mg/m 2in the Phase 1 portion of the study.
 The safety profile in these patients was consistent with that seen in adults, and no new safety signals were identified.
 
 The pharmacokinetics of bendamustine in 43 patients, aged 1 to 19 years (median age of 10 years) were within range of values previously observed in adults given the same dose based on body surface area.

@@ -56,11 +56,11 @@ Infertility
 
 Advise males of reproductive potential that Bendamustine hydrochloride for Injection may impair fertility [see Use in Specific Populations (8.3)].
 
-Manufactured For: Accord Healthcare, Inc. 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 3737 1 6000773
+10 3737 2 6026184
 
-Issued November 2022
+Issued October 2023

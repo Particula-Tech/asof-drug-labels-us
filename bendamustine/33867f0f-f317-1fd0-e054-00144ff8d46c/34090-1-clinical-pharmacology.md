@@ -15,7 +15,7 @@ Based on the pharmacokinetics/pharmacodynamics analyses of data from adult NHL p
 
 Cardiac Electrophysiology
 
-The effect of bendamustine on the QTc interval was evaluated in 53 patients with indolent NHL and mantle cell lymphoma on Day 1 of Cycle 1 after administration of rituximab at 375 mg/m 2 intravenous infusion followed by a 30-minute intravenous infusion of bendamustine at 90 mg/m 2/day.
+The effect of bendamustine on the QTc interval was evaluated in 53 patients with indolent NHL and mantle cell lymphoma on Day 1 of Cycle 1 after administration of rituximab at 375 mg/m 2intravenous infusion followed by a 30-minute intravenous infusion of bendamustine at 90 mg/m 2/day.
 No mean changes greater than 20 milliseconds were detected up to one hour post-infusion.
 The potential for delayed effects on the QT interval after one hour was not evaluated.
 
@@ -23,7 +23,7 @@ The potential for delayed effects on the QT interval after one hour was not eval
 
 Absorption
 
-Following a single IV dose of bendamustine hydrochloride C max typically occurred at the end of infusion.
+Following a single IV dose of bendamustine hydrochloride C maxtypically occurred at the end of infusion.
 The dose proportionality of bendamustine has not been studied.
 
 Distribution
@@ -35,16 +35,15 @@ The mean steady-state volume of distribution (V ss) of bendamustine was approxim
 
 Elimination
 
-After a single intravenous dose of 120 mg/m 2 of bendamustine over 1 hour, the intermediate half-life (t ½) of the parent compound is approximately 40 minutes.
-The mean terminal elimination t ½ of two active metabolites, γ-hydroxybendamustine (M3) and N desmethylbendamustine (M4) are approximately 3 hours and 30 minutes, respectively.
+After a single intravenous dose of 120 mg/m 2of bendamustine over 1 hour, the intermediate half-life (t ½) of the parent compound is approximately 40 minutes.
+The mean terminal elimination t ½of two active metabolites, γ-hydroxybendamustine (M3) and N desmethylbendamustine (M4) are approximately 3 hours and 30 minutes, respectively.
 Bendamustine clearance in humans is approximately 700 mL/min.
 
 Metabolism
 
-Bendamustine is extensively metabolized via hydrolytic, oxidative, and conjugative pathways.
-Bendamustine is primarily metabolized via hydrolysis to monohydroxy (HP1) and dihydroxy-bendamustine (HP2) metabolites with low cytotoxic activity in vitro.
+Bendamustine is extensively metabolized via hydrolytic, oxidative, and conjugative pathways.Bendamustine is primarily metabolized via hydrolysis to monohydroxy (HP1) and dihydroxy-bendamustine (HP2) metabolites with low cytotoxic activity in vitro.
 Two active minor metabolites, M3 and M4, are primarily formed via CYP1A2 in vitro.
-M3 and M4 concentrations in plasma are 1/10 th and 1/100 th that of the parent compound, respectively.
+M3 and M4 concentrations in plasma are 1/10 thand 1/100 ththat of the parent compound, respectively.
 
 Excretion
 

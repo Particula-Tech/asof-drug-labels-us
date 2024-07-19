@@ -14,7 +14,7 @@ If a closed system transfer device (CSTD) or adapter that contains polycarbonate
 
 Recommended Dosage:
 
-The recommended dose is 100 mg/m 2 administered intravenously over 30 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
+The recommended dose is 100 mg/m 2administered intravenously over 30 minutes on Days 1 and 2 of a 28-day cycle, up to 6 cycles.
 
 Dose Delays, Dose Modifications and Reinitiation of Therapy for CLL:
 
@@ -23,9 +23,9 @@ Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
-Dose modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m 2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m 2 on Days 1 and 2 of each cycle.
+Dose modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m 2on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m 2on Days 1 and 2 of each cycle.
 
-Dose modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m 2 on Days 1 and 2 of each cycle.
+Dose modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m 2on Days 1 and 2 of each cycle.
 
 Consider dose re-escalation in subsequent cycles at the discretion of the treating physician.
 
@@ -33,7 +33,7 @@ Consider dose re-escalation in subsequent cycles at the discretion of the treati
 
 Recommended Dosage:
 
-The recommended dose is 120 mg/m 2 administered intravenously over 60 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
+The recommended dose is 120 mg/m 2administered intravenously over 60 minutes on Days 1 and 2 of a 21-day cycle, up to 8 cycles.
 
 Dose Delays, Dose Modifications and Reinitiation of Therapy for NHL:
 
@@ -42,9 +42,9 @@ Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood coun
 In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
-Dose modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m 2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m 2 on Days 1 and 2 of each cycle.
+Dose modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m 2on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m 2on Days 1 and 2 of each cycle.
 
-Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m 2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m 2 on Days 1 and 2 of each cycle.
+Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 90 mg/m 2on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 60 mg/m 2on Days 1 and 2 of each cycle.
 
 ## 2.4 Preparation for Intravenous Administration
 
@@ -84,5 +84,5 @@ The admixture should be prepared as close as possible to the time of patient adm
 
 Bendamustine hydrochloride for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 
-Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°C to 8°C (36°F to 46°F) or for 3 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
+Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°C to 8°C (36°F to 46°F) or for 3 hourswhen stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
 Administration of reconstituted and diluted Bendamustine hydrochloride for Injection must be completed within this period.

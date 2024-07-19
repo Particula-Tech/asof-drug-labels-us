@@ -21,7 +21,7 @@ Chronic Lymphocytic Leukemia
 The data described below reflect exposure to bendamustine hydrochloride in 153 patients.
 Bendamustine hydrochloride was studied in an active-controlled, randomized trial.
 The population was 45-77 years of age, 63% male, 100% white, and had treatment naïve CLL.
-All patients started the study at a dose of 100 mg/m 2 intravenously over 30 minutes on Days 1 and 2 every 28 days.
+All patients started the study at a dose of 100 mg/m 2intravenously over 30 minutes on Days 1 and 2 every 28 days.
 
 Adverse reactions were reported according to NCI CTC v.2.0.
 In the randomized CLL clinical study, non-hematologic adverse reactions (any grade) in the bendamustine hydrochloride group that occurred with a frequency greater than 15% were pyrexia (24%), nausea (20%), and vomiting (16%).
@@ -93,7 +93,7 @@ Non-Hodgkin Lymphoma
 The data described below reflect exposure to bendamustine hydrochloride in 176 patients with indolent B-cell NHL treated in two single-arm studies.
 The population was 31-84 years of age, 60% male, and 40% female.
 The race distribution was 89% White, 7% Black, 3% Hispanic, 1% other, and <1% Asian.
-These patients received bendamustine hydrochloride at a dose of 120 mg/m 2 intravenously on Days 1 and 2 for up to eight 21-day cycles.
+These patients received bendamustine hydrochloride at a dose of 120 mg/m 2intravenously on Days 1 and 2 for up to eight 21-day cycles.
 
 The adverse reactions occurring in at least 5% of the NHL patients, regardless of severity, are shown in Table 3.
 The most common non-hematologic adverse reactions (≥30%) were nausea (75%), fatigue (57%), vomiting (40%), diarrhea (37%) and pyrexia (34%).
@@ -172,7 +172,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Hyperhidrosis | 8 (5) | 0 |
 | Vascular disorders |  |  |
 | Hypotension | 10 (6) | 2 (1) |
-| *Patients may have reported more than 1 adverse reaction. NOTE: Patients counted only once in each adverse reaction category and once in each body system category. |  |  |
+| *Patients may have reported more than 1 adverse reaction. NOTE:Patients counted only once in each adverse reaction category and once in each body system category. |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
 Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at Grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
@@ -192,26 +192,25 @@ In both studies, serious adverse reactions, regardless of causality, were report
 The most common serious adverse reactions occurring in ≥5% of patients were febrile neutropenia and pneumonia.
 Other important serious adverse reactions reported in clinical trials and/or postmarketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
-Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.
-Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
+Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of bendamustine hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic systems disorders: Pancytopenia
+Blood and lymphatic systems disorders:Pancytopenia
 
-Cardiovascular disorders: Atrial fibrillation, congestive heart failure (some fatal), myocardial infarction (some fatal), palpitation
+Cardiovascular disorders:Atrial fibrillation, congestive heart failure (some fatal), myocardial infarction (some fatal), palpitation
 
-General disorders and administration site conditions: Injection site reactions (including phlebitis, pruritus, irritation, pain, swelling), infusion site reactions (including phlebitis, pruritus, irritation, pain, swelling)
+General disorders and administration site conditions:Injection site reactions (including phlebitis, pruritus, irritation, pain, swelling), infusion site reactions (including phlebitis, pruritus, irritation, pain, swelling)
 
-Immune system disorders: Anaphylaxis
+Immune system disorders:Anaphylaxis
 
-Infections and infestations: Pneumocystis jiroveci pneumonia, progressive multifocal leukoencephalopathy (PML)
+Infections and infestations:Pneumocystis jiroveci pneumonia, progressive multifocal leukoencephalopathy (PML)
 
 Renal and urinary disorders:Nephrogenic diabetes insipidus (NDI)
 
 Respiratory, thoracic and mediastinal disorders:Pneumonitis
 
-Skin and subcutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS), non-melanoma skin cancer (NMSC), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)
+Skin and subcutaneous tissue disorders:Drug reaction with eosinophilia and systemic symptoms (DRESS), non-melanoma skin cancer (NMSC), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)
