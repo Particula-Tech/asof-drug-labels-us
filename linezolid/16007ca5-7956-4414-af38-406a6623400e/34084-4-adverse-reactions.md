@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
+## The following clinically significant adversereactions are described elsewhere in the labeling: Myelosuppression [see Warnings and Precautions ()] Peripheral and Optic Neuropathy [see Warnings and Precautions ()] Serotonin Syndrome [see Warnings and Precautions ()] Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions ()] Lactic Acidosis [see Warnings and Precautions ()] Convulsions [see Warnings and Precautions ()] Rhabdomyolysis [see Warnings and Precautions ()] Hypoglycemia [see Warnings and Precautions ()] Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions ()] 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults: The safety of linezolid formulations was evaluated in 2046 adult patients enrolled in seven Phase 3 comparator- controlled clinical trials, who were treated for up to 28 days.
+Adults: The safety of linezolid formulations was evaluated in 2,046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
 
 Of the patients treated for uncomplicated skin and skin structure infections (uSSSIs), 25.4% of linezolid-treated and 19.6% of comparator-treated patients experienced at least one drug-related adverse event.
 For all other indications, 20.4% of linezolid-treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.
@@ -115,7 +115,7 @@ Table 6.
 Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal<75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; <75% (<50% for neutrophils) of LLN and <75% (<50% for neutrophils, <90% for hemoglobin if baseline <LLN) of baseline for values abnormal at baseline.
 Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
-| Laboratory Assay | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance. |  |
+| Laboratory Assay | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6-24 hours, depending on age and renal clearance. |  |
 | --- | --- | --- | --- | --- |
 | Linezolid | Cefadroxil | Linezolid | Vancomycin |  |
 | Hemoglobin (g/dL) | 0.0 | 0.0 | 15.7 | 12.4 |
@@ -127,7 +127,7 @@ Table 7.
 Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal>2 x Upper Limit of Normal (ULN) for values normal at baseline; >2 x ULN and >2 (>1.5 for total bilirubin) x baseline for values abnormal at baseline.
 Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
-| Laboratory Assay | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance. |  |
+| Laboratory Assay | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously or by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6-24 hours, depending on age and renal clearance. |  |
 | --- | --- | --- | --- | --- |
 |  | Linezolid | Cefadroxil | Linezolid | Vancomycin |
 | ALT (U/L) | 0.0 | 0.0 | 10.1 | 12.5 |
@@ -138,18 +138,19 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with L
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of linezolid.
+The following adverse reactions have been identified during post-approval use of linezolid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
+- •Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
 - •Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia).
   Thrombocytopenia has been reported more often in patients with severe renal impairment and in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.1)]; sideroblastic anemia.
 - •Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
+- •Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and linezolid [see Warnings and Precautions (5.3)].
 - •Lactic acidosis [see Warnings and Precautions (5.7)].
   Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
-- •Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and linezolid [see Warnings and Precautions (5.3)].
 - •Convulsions [see Warnings and Precautions (5.8)].
-- •Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
+- •Rhabdomyolysis [see Warnings and Precautions (5.9)].
+- •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.10)].
+- •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings andPrecautions (5.11)].
 - •Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
   The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
-- •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
-- •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings andPrecautions (5.10)].

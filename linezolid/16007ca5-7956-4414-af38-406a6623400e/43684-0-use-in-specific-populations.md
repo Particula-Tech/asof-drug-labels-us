@@ -11,21 +11,21 @@ When female rats were dosed during organogenesis through lactation, postnatal su
 
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
 Animal Data: In mice, embryo-fetal toxicities were observed only at doses that caused maternal toxicity (clinical signs and reduced body weight gain).
-An oral dose of 450 mg/kg/day given from Gestation Day (GD) 6 to 16 (6.5 times the estimated human exposure based on AUCs) correlated with increased postimplantational embryo death, including total litter loss, decreased fetal body weights, and an increased incidence of costal cartilage fusion.
+An oral dose of 450 mg/kg/day given from Gestation Day (GD) 6-16 (6.5 times the estimated human exposure based on AUCs) correlated with increased postimplantational embryo death, including total litter loss, decreased fetal body weights, and an increased incidence of costal cartilage fusion.
 Neither maternal nor embryo-fetal toxicities were observed at doses up to 150 mg/kg/day.
 Fetal malformations were not observed.
 
-In rats, fetal toxicity was observed at 15 and 50 mg/kg/day administered orally from GD 6 to 17 (exposures 0.22 times to approximately equivalent to the estimated human exposure, respectively, based on AUCs).
+In rats, fetal toxicity was observed at 15 and 50 mg/kg/day administered orally from GD 6-17 (exposures 0.22 times to approximately equivalent to the estimated human exposure, respectively, based on AUCs).
 The effects consisted of decreased fetal body weights and reduced ossification of sternebrae, a finding often seen in association with decreased fetal body weights.
 Fetal malformations were not observed.
 Maternal toxicity, in the form of reduced body weight gain, was seen at 50 mg/kg/day.
 
-In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at an oral dose of 15 mg/kg/day given from GD 6 to 20 (0.06 times the estimated human exposure based on AUCs).
+In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at an oral dose of 15 mg/kg/day given from GD 6-20 (0.06 times the estimated human exposure based on AUCs).
 Fetal malformations were not observed.
 
 When female rats were treated with 50 mg/kg/day (approximately equivalent to the estimated human exposure based on AUCs) of linezolid during pregnancy and lactation, (GD 6 through Lactation Day 20), survival of pups was decreased on postnatal days 1 to 4.
@@ -79,4 +79,4 @@ In pediatric patients with a sub-optimal clinical response, particularly those w
 ## 8.5 Geriatric Use
 
 Of the 2,046 patients treated with linezolid in Phase 3 comparator-controlled clinical trials, 589 (29%) were 65 years or older and 253 (12%) were 75 years or older.
-No overall differences in safety or effectiveness were observed between these patients and younger patients and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

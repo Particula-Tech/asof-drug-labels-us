@@ -17,7 +17,7 @@ Plasma concentrations of linezolid at steady-state after oral doses of 600 mg gi
 Table 8.
 Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 
-| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg•h/mL | t1/2hrs | CL mL/min |
+| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg • h/mL | t1/2hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet |  |  |  |  |  |  |
 | single doseData dose-normalized from 375 mg | 8.10 | --- | 1.52 | 55.10 | 5.20 | 146 |
@@ -87,7 +87,7 @@ Pediatric patients 12 years and older should receive 600 mg every 12 hours [see 
 Table 9.
 Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | Cmaxmcg/mL | Vss L/kg | AUCAUC = Single dose AUC0-∞ ** In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) ***In this data set, “full-term” is defined as ≥34 weeks gestational age mcg•h/mL | t1/2hrs | CL mL/min/kg |
+| Age Group | Cmaxmcg/mL | Vss L/kg | AUCAUC = Single dose AUC0-∞ ** In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) ***In this data set, “full-term” is defined as ≥34 weeks gestational age mcg ● h/mL | t1/2hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
 | Neonatal PatientsPre-term ˂ 1 week (N=9)Dose of 10 mg/kg | 12.7 (30%) [9.6, 22.2] | 0.81 (24%) [0.43, 1.05] | 108 (47%) [41, 191] | 5.6 (46%) [2.4, 9.8] | 2.0 (52%) [0.9, 4.0] |
 | Full-term*** < 1 week (N=10) | 11.5 (24%) [8.0, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3.0 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
@@ -95,7 +95,7 @@ Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Sin
 | Infant Patients > 28 days to < 3 Months (N=12) | 11.0 (27%) [7.2, 18.0] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
 | Pediatric Patients 3 months through 11 years (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8.0] | 3.8 (53%) [1.0, 8.5] |
 | Adolescent Subjects and Patients 12 through 17 yearsDose of 600 mg or 10 mg/kg up to a maximum of 600 mg(N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
-| Adult SubjectsDose normalized to 600 mg Cmax =Maximum plasma concentration; Vss = Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
+| Adult SubjectsDose normalized to 600 mg Cmax =Maximum plasma concentration; Vss= Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
 
 Gender: Females have a slightly lower volume of distribution of linezolid than males.
 Plasma concentrations are higher in females than in males, which is partly due to body weight differences.
@@ -116,7 +116,7 @@ Approximately 30% of a dose was eliminated in a 3-hour hemodialysis session begi
 Table 10.
 Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metabolites A and B in Patients with Varying Degrees of Renal Impairment After a Single 600 mg Oral Dose of Linezolid
 
-| Parameter | Healthy SubjectsCLCR > 80 mL/min | Moderate Renal Impairment 30 < CLCR < 80 mL/min | Severe Renal Impairment 10 <CLCR < 30 mL/min |
+| Parameter | Healthy SubjectsCLCR > 80 mL/min | Moderate Renal Impairment 30 < CLCR < 80 mL/min | Severe Renal Impairment 10 < CLCR < 30 mL/min |
 | --- | --- | --- | --- |
 | LINEZOLID |  |  |  |
 | AUC0-∞, mcg h/mL | 110 (22) | 128 (53) | 127 (66) |
@@ -186,10 +186,10 @@ Blood pressure was increased with both combination treatments.
 Maximum blood pressure levels were seen 2 to 3 hours after the second dose of PPA or PSE, and returned to baseline 2 to 3 hours after peak.
 The results of the PPA study follow, showing the mean (and range) maximum systolic blood pressure in mm Hg: placebo = 121 (103 to 158); linezolid alone = 120 (107 to 135); PPA alone = 125 (106 to 139); PPA with linezolid = 147 (129 to 176).
 The results from the PSE study were similar to those in the PPA study.
-The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg (range: 20 to 52 mm Hg) and 38 mm Hg (range: 18 to 79 mm Hg) during co-administration of linezolid with pseudoephedrine or phenylpropanolamine, respectively.
+The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg (range: 20-52 mm Hg) and 38 mm Hg (range: 18 to 79 mm Hg) during co-administration of linezolid with pseudoephedrine or phenylpropanolamine, respectively.
 
 Serotonergic Agents: Dextromethorphan: The potential drug-drug interaction with dextromethorphan was studied in healthy volunteers.
-Subjects were administered dextromethorphan (two 20 mg doses given 4 hours apart) with or without linezolid.
+Subjects were administered dextromethorphan (two 20-mg doses given 4 hours apart) with or without linezolid.
 No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blushing, diaphoresis, hyperpyrexia) have been observed in normal subjects receiving linezolid and dextromethorphan.
 
 ## 12.4 Microbiology
