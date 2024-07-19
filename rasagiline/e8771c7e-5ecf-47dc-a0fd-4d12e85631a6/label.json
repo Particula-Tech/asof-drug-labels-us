@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208866"
+  ],
+  "inn": "rasagiline",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-308-07",
+    "33342-309-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rasagiline",
+      "name": "Rasagiline"
+    }
+  ],
+  "setid": "e8771c7e-5ecf-47dc-a0fd-4d12e85631a6",
+  "source": "dailymed"
+}
