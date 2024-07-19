@@ -2,7 +2,8 @@
 
 Atorvastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase.
 
-Atorvastatin calcium is Calcium (βR,δR)-2-(p-fluorophenyl)-β,δ-dihydroxy-5-isopropyl-3-phenyl-4-(phenylcarbamoyl) pyrrole-1-heptanoate (1:2), trihydrate.The molecular formula of atorvastatin calcium is C66H68CaF2N4O10•3H2O and its molecular weight is 1209.
+Atorvastatin calcium is Calcium (βR,δR)-2-(p-fluorophenyl)-β,δ-dihydroxy-5-isopropyl-3-phenyl-4-(phenylcarbamoyl) pyrrole-1-heptanoate (1:2), trihydrate.
+The molecular formula of atorvastatin calcium is C66H68CaF2N4O10•3H2O and its molecular weight is 1209.
 Its structural formula is:
 
 Atorvastatin calcium, USP is a white to off-white crystalline powder that is insoluble in aqueous solutions of pH 4 and below.

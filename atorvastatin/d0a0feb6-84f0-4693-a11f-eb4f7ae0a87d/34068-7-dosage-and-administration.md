@@ -4,6 +4,7 @@
 
 - •Take atorvastatin calcium tablets orally once daily at any time of the day, with or without food.
 - •Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating atorvastatin calcium tablets, and adjust the dosage if necessary.
+- •If a dose is missed, advise patients not to take the missed dose and resume with the next scheduled dose.
 
 ## 2.2 Recommended Dosage in Adult Patients
 
@@ -34,4 +35,4 @@ Select Azole Antifungals or Macrolide Antibiotics
 
 - •In patients taking clarithromycin or itraconazole, do not exceed atorvastatin calcium tablets 20 mg once daily.
 
-For additional recommendations regarding concomitant use of atorvastatin calcium tablets with other anti-viral medications, azole antifungals or macrolide antibiotics [see Drug Interactions (7.1)].
+For additional recommendations regarding concomitant use of atorvastatin calcium tablets with other anti-viral medications, azole antifungals or macrolide antibiotics, see Drug Interactions (7.1).

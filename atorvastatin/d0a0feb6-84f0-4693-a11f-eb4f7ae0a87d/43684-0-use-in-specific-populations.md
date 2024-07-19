@@ -22,7 +22,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 #### Human Data
 
-A Medicaid cohort linkage study of 1152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods.
+A Medicaid cohort linkage study of 1,152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods.
 The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus.
 There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for confounders.
 In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
@@ -64,7 +64,7 @@ Atorvastatin and/or its metabolites were measured in the breast milk and pup pla
 
 The safety and effectiveness of atorvastatin calcium tablets as an adjunct to diet to reduce LDL-C have been established pediatric patients 10 years of age and older with HeFH.
 Use of atorvastatin calcium tablets for this indication is based on a double-blind, placebo-controlled clinical trial in 187 pediatric patients 10 years of age and older with HeFH.
-In this limited controlled trial, there was no significant effect on growth or sexual maturation in the boys or girls, or on menstrual cycle length in girls.
+In this limited controlled trial, there was no significant effect on growth or sexual maturation in the males or females or on menstrual cycle length in females.
 
 The safety and effectiveness of atorvastatin calcium tablets as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established pediatric patients 10 years of age and older with HoFH.
 Use of atorvastatin calcium tablets for this indication is based on a trial without a concurrent control group in 8 pediatric patients 10 years of age and older with HoFH [see Clinical Studies (14)].
