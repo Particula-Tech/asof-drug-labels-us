@@ -118,10 +118,12 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Made in the United Kingdom
 
-Manufactured for PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054, U.S.A.
+Manufactured for:
+
+PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054, U.S.A.
 
 VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 
-L3006 Rev 1.0
+L3006 Rev 2.0
 
-Revised 6/2024
+Revised 7/2024

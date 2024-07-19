@@ -11,6 +11,6 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-L3006 Rev 1.0
+L3006 Rev 2.0
 
-Issued 06/2024
+Revised 7/2024
