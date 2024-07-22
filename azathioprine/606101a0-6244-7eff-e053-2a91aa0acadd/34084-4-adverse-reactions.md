@@ -36,3 +36,8 @@ If hepatic veno-occlusive disease is clinically suspected, IMURAN should be perm
 
 Others: Additional side effects of low frequency have been reported.
 These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis, hepatosplenic T-cell lymphoma (see Warnings – Malignancy), and Sweet's Syndrome (acute febrile neutrophilic dermatosis).
+
+Postmarketing Experience The following adverse reactions have been identified during postapproval use of IMURAN.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+
+- intrahepatic cholestasis of pregnancy (see WARNINGS, Pregnancy).

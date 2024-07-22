@@ -62,7 +62,7 @@ In transplant patients, consider the risk that the reduced immunosuppression rep
 IMURAN has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose 1; a reduced percentage of fertile matings occurred when animals received 5 mg/kg.
 2
 
-Pregnancy: Pregnancy Category D. IMURAN can cause fetal harm when administered to a pregnant woman.
+IMURAN can cause fetal harm when administered to a pregnant woman.
 IMURAN should not be given during pregnancy without careful weighing of risk versus benefit.
 Whenever possible, use of IMURAN in pregnant patients should be avoided.
 This drug should not be used for treating rheumatoid arthritis in pregnant women.
@@ -71,6 +71,10 @@ This drug should not be used for treating rheumatoid arthritis in pregnant women
 IMURAN is teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
 Abnormalities included skeletal malformations and visceral anomalies.
 2
+
+Postmarketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in women treated with azathioprine during pregnancy.
+ICP symptoms and evaluated bile acid levels improved following azathioprine discontinuation.
+Discontinue IMURAN if ICP develops in a pregnant woman.
 
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on IMURAN.
 In a detailed case report, 4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
@@ -128,7 +132,7 @@ Patients receiving azathioprine with ribavirin should have complete blood counts
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: See WARNINGS section.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category D. See WARNINGS section.
+Pregnancy: Teratogenic Effects:See WARNINGS section.
 
 Nursing Mothers: The use of IMURAN in nursing mothers is not recommended.
 Azathioprine or its metabolites are transferred at low levels, both transplacentally and in breast milk.

@@ -83,8 +83,8 @@ www.sebelapharma.com
 
 Toll Free 1-844-732-3521
 
-©​2018 Sebela Pharmaceuticals Inc. All rights reserved.
-Revised 11/2018
+©​2024 Sebela Pharmaceuticals Inc. All rights reserved.
+Revised 07/2024
 
 PI59010001
 
