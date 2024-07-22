@@ -4,7 +4,7 @@ Brimonidine tartrate ophthalmic solution 0.2%, sterile, is a relatively selectiv
 
 The structural formula of brimonidine tartrate is:
 
-Chemical Name: 5-bromo-6-(2-imidazolidinylideneamino) quinoxaline L-tartrate
+Chemical Name:5-bromo-6-(2-imidazolidinylideneamino) quinoxaline L-tartrate
 
 In solution, brimonidine tartrate ophthalmic solution 0.2% has a clear, greenish-yellow color.
 It has an osmolality of 270 - 325 mOsml/kg and a pH range between 5.8 and 6.6.
