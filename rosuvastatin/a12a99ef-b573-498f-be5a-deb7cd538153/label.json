@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA079168"
+  ],
+  "inn": "rosuvastatin",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-690-90",
+    "62135-691-90",
+    "62135-692-90",
+    "62135-693-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rosuvastain calcium",
+      "name": "Rosuvastain Calcium"
+    }
+  ],
+  "setid": "a12a99ef-b573-498f-be5a-deb7cd538153",
+  "source": "dailymed"
+}
