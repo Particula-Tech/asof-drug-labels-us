@@ -6,7 +6,8 @@ The following important adverse reactions are described below and elsewhere in t
 - Hyperglycemia and Hypoglycemia [see Warnings and Precautions (‎5.2)]
 - Thyroid Function Abnormalities [see Warnings and Precautions (‎5.3)]
 - Cardiac Function Abnormalities [see Warnings and Precautions (‎5.4)]
-- Decreased Vitamin B12 Levels and Abnormal Schilling's Tests [see Warnings and Precautions (‎5.5)]
+- Steatorrhea and Malabsorption of Dieatary Fats [see Warnings and Precautions (‎5.5)]
+- Changes in Vitamin B12 Levels [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Studies Experience
 

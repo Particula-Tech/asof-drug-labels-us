@@ -28,8 +28,13 @@ In MYCAPSSA clinical trials the following adverse reactions were reported: brady
 These ECG changes may occur in patients with acromegaly.
 Dosage adjustments of concomitantly used drugs that have bradycardia effects (i.e. beta-blockers) may be necessary [see Drug Interactions (‎7.2)].
 
-## 5.5 Decreased Vitamin B12 Levels and Abnormal Schilling's Tests
+## 5.5 Steatorrhea and Malabsorption of Dietary Fats
 
-MYCAPSSA may alter absorption of dietary fats in some patients.
-Decreased vitamin B12 levels and abnormal Schilling's tests have been observed in some patients receiving octreotide.
+New onset steatorrhea, stool discoloration and loose stools have been reported in patients receiving somatostatin analogs, including octreotide.
+Somatostatin analogs reversibly inhibit secretion of pancreatic enzymes and bile acids, which may result in malabsorption of dietary fats and subsequent symptoms of steatorrhea, loose stools, abdominal bloating, and weight loss.
+If new occurrence or worsening of these symptoms are reported in patients receiving MYCAPSSA, evaluate patients for potential pancreatic exocrine insufficiency and manage accordingly.
+
+## 5.6 Changes in Vitamin B12 Levels
+
+Decreased vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide.
 Monitor vitamin B12 levels during treatment with MYCAPSSA.

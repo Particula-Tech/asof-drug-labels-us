@@ -18,7 +18,11 @@ Cardiac Function Abnormalities
 
 Inform patients to contact the health care provider in case they notice irregular heartbeat [see Warnings and Precautions (‎5.4)].
 
-Decreased Vitamin B12 Levels and Abnormal Schilling's Tests
+Steatorrhea and Malabsorption of Dietary Fats
+
+Advise patients to contact their healthcare provider if they experience new or worsening symptoms of steatorrhea, stool discoloration, loose stools, abdominal bloating, weight loss [see Warnings and Precautions (5.5)].
+
+Changes in Vitamin B12 Levels
 
 Inform patients that Vitamin B12 levels may be monitored during the treatment [see Warnings and Precautions (‎5.5)].
 
