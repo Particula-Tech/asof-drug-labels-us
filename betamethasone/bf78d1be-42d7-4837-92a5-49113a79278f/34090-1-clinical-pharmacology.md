@@ -4,6 +4,6 @@ Glucocorticoids, naturally occurring and synthetic, are adrenocortical steroids 
 
 Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states.
 Their synthetic analogs are primarily used for their anti-inflammatory effects in disorders of many organ systems.
-A derivative of prednisolone, betamethasone has a 16ß-methyl group that enhances the anti-inflammatory action of the molecule and reduces the sodium- and water-retaining properties of the fluorine atom bound at carbon 9.
+A derivative of prednisolone, betamethasone has a 16β-methyl group that enhances the anti-inflammatory action of the molecule and reduces the sodium- and water-retaining properties of the fluorine atom bound at carbon 9.
 
 Betamethasone sodium phosphate, a soluble ester, provides prompt activity, while betamethasone acetate is only slightly soluble and affords sustained activity.

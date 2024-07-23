@@ -9,6 +9,6 @@ Inactive ingredients per mL: 8.9 mg dibasic sodium phosphate dihydrate; 3.8 mg m
 
 SHAKE WELL BEFORE USING.
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 Protect from light.

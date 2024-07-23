@@ -4,7 +4,7 @@ CELESTONE® SOLUSPAN® Injectable Suspension is a sterile aqueous suspension con
 Inactive ingredients per mL: 8.9 mg dibasic sodium phosphate dihydrate; 3.8 mg monobasic sodium phosphate dihydrate; 0.1 mg edetate disodium; and 0.2 mg benzalkonium chloride as preservative.
 The pH is between 6.8 and 7.2.
 
-The formula for betamethasone sodium phosphate is C22H28FNa208P and it has a molecular weight of 516.40.
+The formula for betamethasone sodium phosphate is C22H28FNa2O8P and it has a molecular weight of 516.40.
 Chemically, it is 9-Fluoro-11β,17,21-trihydroxy-16β-methylpregna-1,4-diene-3,20-dione 21-(disodium phosphate).
 
 The formula for betamethasone acetate is C24H31FO6 and it has a molecular weight of 434.50.

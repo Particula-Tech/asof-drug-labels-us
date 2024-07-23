@@ -34,6 +34,9 @@ Corticosteroids can produce reversible hypothalamic pituitary adrenal (HPA) axis
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
+Pheochromocytoma crisis, which may be fatal, has been reported after administration of systemic corticosteroids, including betamethasone.
+In patients with suspected or identified pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering corticosteroids.
+
 ## Immunosuppression and Increased Risk of Infection
 
 Corticosteroids, including CELESTONE SOLUSPAN, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
@@ -251,7 +254,7 @@ Corticosteroids (including betamethasone) are metabolized by CYP3A4.
 
 Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 
-Coadministration with other strong CYP3A4 inhibitors (e.g. itraconazole, clarithromycin, ritonavir, cobicistat-containing products) may lead to increased exposures of corticosteroids and therefore the potential for increased risk of systemic corticosteroid side effects.
+Coadministration with other strong CYP3A4 inhibitors (eg, itraconazole, clarithromycin, ritonavir, cobicistat-containing products) may lead to increased exposures of corticosteroids and therefore the potential for increased risk of systemic corticosteroid side effects.
 
 Consider the benefit of coadministration versus the potential risk of systemic corticosteroid effects, in which case patients should be monitored for systemic corticosteroid side effects.
 
@@ -305,6 +308,8 @@ This negative impact of corticosteroids on growth has been observed at low syste
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
+
+Neonatal hypoglycemia has been reported after antenatal administration, especially in preterm, low birth weight infants, and when betamethasone is administered close to the time of delivery.
 
 ## Geriatric Use
 

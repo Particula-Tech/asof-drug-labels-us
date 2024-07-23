@@ -9,6 +9,6 @@ For patent information: www.organon.com/our-solutions/patent/
 © 2024 Organon group of companies.
 All rights reserved.
 
-Revised: 3/2024
+Revised: 7/2024
 
-uspi-og5166a-soi-2403r002
+uspi-og5166a-soi-2407r003
