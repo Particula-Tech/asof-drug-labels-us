@@ -29,7 +29,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of XEOMIN in patients less than 18 years of age have not been established for lower limb spasticity, cervical dystonia, blepharospasm, or glabellar frown lines [see Warnings and Precautions (5.1)].
+The safety and effectiveness of XEOMIN have not been established in pediatric patients for the treatment of lower limb spasticity, cervical dystonia, and blepharospasm, or the temporary improvement in the appearance of upper facial lines:
+
+- moderate to severe glabellar lines associated with corrugator and/or procerus muscle activity
+- moderate to severe horizontal forehead lines associated with frontalis muscle activity
+- moderate to severe lateral canthal lines associated with orbicularis oculi muscle activity [see Warnings and Precautions (5.1)].
 
 Chronic Sialorrhea in Pediatric Patients
 
@@ -77,9 +81,10 @@ Blepharospasm
 Of the total number of 169 patients in the placebo-controlled studies in blepharospasm [see Clinical Studies (14.4)], 61 were 65 years of age and over (45 treated with XEOMIN and 16 received placebo).
 No overall difference in effectiveness was observed between older and younger patients.
 
-Glabellar Lines
+Upper Facial Lines (Glabellar Lines, Horizontal Forehead Lines, and Lateral Canthal Lines)
 
-There are limited clinical data with XEOMIN in subjects 65 years of age and over in clinical studies with glabellar lines.
-Of the total number of 547 subjects in the placebo-controlled clinical studies [see Clinical Studies (14.5)], 21 subjects were 65 years of age and over.
-Efficacy was observed in 20% (3/15) of XEOMIN subjects 65 years of age and over.
-For the entire safety database of geriatric subjects, there was no increase in the incidence of adverse events related to treatment with XEOMIN.
+Of the total number of 547 subjects in the placebo-controlled clinical studies for glabellar lines [see Clinical Studies (14.5)], 21 subjects were 65 years of age and over.
+
+Of the total number of 730 subjects in the placebo-controlled clinical studies for upper facial lines GL, HFL, and LCL [see Clinical Studies (14.5)], 46 subjects were 65 years of age and over.
+
+Clinical trials of XEOMIN showed no increase in the incidence of adverse events related to treatment with XEOMIN in patients 65 years of age and over but the trials did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.

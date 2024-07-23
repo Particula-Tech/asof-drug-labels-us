@@ -22,6 +22,10 @@ XEOMIN is indicated for the treatment of cervical dystonia in adult patients.
 
 XEOMIN is indicated for the treatment of blepharospasm in adult patients.
 
-## 1.5 Glabellar Lines
+## 1.5 Upper Facial Lines (Glabellar Lines, Horizontal Forehead Lines, and Lateral Canthal Lines)
 
-XEOMIN is indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with corrugator and/or procerus muscle activity in adult patients.
+XEOMIN is indicated in adult patients for the temporary improvement in the appearance of upper facial lines:
+
+- moderate to severe glabellar lines (GL) associated with corrugator and/or procerus muscle activity
+- moderate to severe horizontal forehead lines (HFL) associated with frontalis muscle activity
+- moderate to severe lateral canthal lines (LCL) associated with orbicularis oculi muscle activity.

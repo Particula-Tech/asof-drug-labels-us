@@ -6,8 +6,8 @@ and
 
 Merz North America, Inc. 4133 Courtney Street, Suite 10 Franksville, WI 53126
 
-© 2023 Merz Pharmaceuticals, LLC XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA.
+©2024 Merz Pharmaceuticals, LLC XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 All trademarks are the property of their respective owners.
-Patent www.https://www.merztherapeutics.com/us/patents/
+Patent www.merztherapeutics.com/us/patents/
 
-IN00180-01
+IN00180-02
