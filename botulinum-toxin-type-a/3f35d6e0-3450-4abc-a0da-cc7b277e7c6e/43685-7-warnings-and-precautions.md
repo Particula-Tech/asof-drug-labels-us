@@ -11,10 +11,10 @@ In unapproved uses, including lower limb spasticity in children, and in approved
 
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech, or respiratory disorders occur.
 
-## 5.2 Lack of Interchangeability between Botulinum Toxin Products
+## 5.2 Lack of Unit Equivalency Between Botulinum Toxin Products
 
 The potency Units of XEOMIN are specific to the preparation and assay method utilized.
-They are not interchangeable with the other preparations of botulinum toxin products and, therefore, Units of biological activity of XEOMIN cannot be compared to or converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+Units of biological activity of XEOMIN cannot be compared to or converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -28,7 +28,7 @@ The use of XEOMIN in patients with a known hypersensitivity to any botulinum neu
 Treatment with XEOMIN and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
-When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.1)].
+When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.4)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
 Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
@@ -76,4 +76,6 @@ No cases of transmission of viral diseases, CJD, or vCJD have ever been identifi
 
 ## 5.8 Pre-existing Conditions at the Injection Site
 
-Caution should be taken when XEOMIN is used where the targeted muscle shows excessive weakness or atrophy.
+Use caution when XEOMIN is used where the targeted muscle shows excessive weakness or atrophy.
+
+Use caution when XEOMIN is used in patients who have marked facial asymmetry, with surgical alterations to the facial anatomy, pre-existing eyelid or eyebrow ptosis, when excessive weakness or atrophy is present in the target muscles, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin (e.g., the inability to substantially lessen glabellar lines even by physically spreading them apart).

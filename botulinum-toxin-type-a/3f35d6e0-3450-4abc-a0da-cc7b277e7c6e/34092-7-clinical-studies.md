@@ -4,17 +4,17 @@
 
 Chronic Sialorrhea in Adult Patients
 
-The efficacy and safety of XEOMIN for the treatment of chronic sialorrhea in adult patients were evaluated in a double-blind, placebo-controlled clinical trial that enrolled a total of 184 patients with chronic sialorrhea resulting from Parkinson's disease, atypical parkinsonism, stroke, or traumatic brain injury, that was present for at least three months.
+The efficacy and safety of XEOMIN for the treatment of chronic sialorrhea in adult patients were evaluated in a double-blind, placebo-controlled clinical trial (NCT02091739) that enrolled a total of 184 patients with chronic sialorrhea resulting from Parkinson's disease, atypical parkinsonism, stroke, or traumatic brain injury, that was present for at least three months.
 Patients with a history of aspiration pneumonia, amyotrophic lateral sclerosis, salivary gland or duct malformation, and gastroesophageal reflux disease were excluded.
 The study consisted of a 16-week main phase, followed by an extension period of dose-blinded treatment with XEOMIN.
 
 In the main phase, a fixed total dose of XEOMIN (100 Units or 75 Units) or placebo was administered into the parotid and submandibular salivary glands in a 3:2 dose ratio.
-The co-primary efficacy variables were the change in unstimulated Salivary Flow Rate (uSFR, Table 14) and the change in Global Impression of Change Scale (GICS, Table 15) at Week 4 post-injection.
+The co-primary efficacy variables were the change in unstimulated Salivary Flow Rate (uSFR, Table 15) and the change in Global Impression of Change Scale (GICS, Table 16) at Week 4 post-injection.
 A total of 173 treated patients completed the main phase of the study.
-For both the uSFR and GICS, XEOMIN 100 Units was significantly better than placebo (see Table 14 and Table 15).
+For both the uSFR and GICS, XEOMIN 100 Units was significantly better than placebo (see Table 15 and Table 16).
 XEOMIN 75 Units was not significantly better than placebo.
 
-Table 14: Mean Change in uSFR (g/min) from Baseline at Week 4, 8, 12, and 16 of Main Phase
+Table 15: Mean Change in uSFR (g/min) from Baseline at Week 4, 8, 12, and 16 of Main Phase
 
 |  | N=73 | N=36 |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ Table 14: Mean Change in uSFR (g/min) from Baseline at Week 4, 8, 12, and 16 of 
 | Week 12 | -0.12 | -0.03 |
 | Week 16 | -0.11 | -0.01 |
 
-Table 15: Mean GICS at Week 4, 8, 12, and 16 of Main Phase
+Table 16: Mean GICS at Week 4, 8, 12, and 16 of Main Phase
 
 |  | N=74 | N=36 |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ A total of 151 patients completed the extension period.
 
 Chronic Sialorrhea in Pediatric Patients
 
-The efficacy and safety of XEOMIN for the treatment of chronic sialorrhea in pediatric patients were evaluated in a prospective, randomized, double-blind, placebo-controlled (ages 6-17 years), parallel-group, multicenter trial that enrolled and treated a total of 216 pediatric patients 6-17 years of age with chronic sialorrhea associated with cerebral palsy, other genetic or congenital disorders, or traumatic brain injury.
+The efficacy and safety of XEOMIN for the treatment of chronic sialorrhea in pediatric patients were evaluated in a prospective, randomized, double-blind, placebo-controlled (ages 6-17 years), parallel-group, multicenter trial (NCT02270736) that enrolled and treated a total of 216 pediatric patients 6-17 years of age with chronic sialorrhea associated with cerebral palsy, other genetic or congenital disorders, or traumatic brain injury.
 An additional 35 patients 2-5 years of age were treated with open-label XEOMIN in that study.
 The study consisted of a 16-week main phase, followed by an open-label extension period of treatment with XEOMIN where patients could receive up to 3 additional treatments with XEOMIN every 16 ± 2 weeks, for a total exposure duration of up to 64 weeks (222 patients completed the extension period).
 
@@ -49,11 +49,11 @@ Patients 2-5 years of age all received open-label treatment with XEOMIN, accordi
 Patients with a body weight <12 kg were excluded.
 
 The primary efficacy analysis was conducted in the 6-17 years of age patient group.
-The co-primary endpoints were the change in unstimulated Salivary Flow Rate (uSFR, Table 16) and carer's Global Impression of Change Scale (GICS, Table 17) at Week 4 post-injection.
+The co-primary endpoints were the change in unstimulated Salivary Flow Rate (uSFR, Table 17) and carer's Global Impression of Change Scale (GICS, Table 18) at Week 4 post-injection.
 
-For both the uSFR and GICS, XEOMIN was statistically significantly better than placebo (see Table 16 and Table 17).
+For both the uSFR and GICS, XEOMIN was statistically significantly better than placebo (see Table 17 and Table 18).
 
-Table 16: Mean change in uSFR (g/min) from Baseline at Week 4, 8, 12, and 16 of Main Phase
+Table 17: Mean change in uSFR (g/min) from Baseline at Week 4, 8, 12, and 16 of Main Phase
 
 |  | XEOMIN (6-17 years) N = 148 | Placebo (6-17 years) N=72 |
 | --- | --- | --- |
@@ -62,7 +62,7 @@ Table 16: Mean change in uSFR (g/min) from Baseline at Week 4, 8, 12, and 16 of 
 | Week 12 | -0.16 | -0.06 |
 | Week 16 | -0.15 | -0.08 |
 
-Table 17: Mean carer's GICS at Week 4, 8, 12, and 16 of Main Phase
+Table 18: Mean carer's GICS at Week 4, 8, 12, and 16 of Main Phase
 
 |  | XEOMIN (6-17 years) N = 148 | Placebo (6-17 years) N=72 |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ Upper Limb Spasticity in Adult Patients
 
 The efficacy and safety of XEOMIN for the treatment of upper limb spasticity in adult patients were evaluated in two Phase 3, randomized, multi-center, double-blind studies.
 
-Study 1 and Study 2 were both prospective, double-blind, placebo-controlled, randomized, multi-center trials with an open-label extension period (OLEX) to investigate the efficacy and safety of XEOMIN in the treatment of post-stroke spasticity of the upper limb.
+Study 1 (NCT01392300) and Study 2 (NCT00432666) were both prospective, double-blind, placebo-controlled, randomized, multi-center trials with an open-label extension period (OLEX) to investigate the efficacy and safety of XEOMIN in the treatment of post-stroke spasticity of the upper limb.
 For patients who had previously received botulinum toxin treatment in any body region, Study 1 and Study 2 required that ≥12 months and ≥4 months, respectively, had passed since the most recent botulinum toxin administration.
 
 Study 1 consisted of a 12-week main phase followed by three 12-week OLEX treatment cycles for a total exposure duration of 48 weeks.
@@ -95,9 +95,9 @@ Additionally, if other upper limb spasticity patterns were present, the elbow, f
 145 patients completed the main phase and participated in the OLEX period, during which time the dosing of each involved muscle could be adapted individually.
 During the main and OLEX periods, the maximum total dose per treatment session and 12-week interval was 400 Units.
 
-The average XEOMIN doses injected into specific muscles and the number of injection sites per muscle in Study 1 and Study 2 are presented in Table 18.
+The average XEOMIN doses injected into specific muscles and the number of injection sites per muscle in Study 1 and Study 2 are presented in Table 19.
 
-Table 18: Doses Administered to Individual Muscles (Main Period) in Adult Upper Limb Spasticity Study 1 and Study 2 Intent to Treat (ITT)
+Table 19: Doses Administered to Individual Muscles (Main Period) in Adult Upper Limb Spasticity Study 1 and Study 2 Intent to Treat (ITT)
 
 |  |  | XEOMIN (N=210) Mean±SD | XEOMIN Median (Min; Max) | XEOMIN (N=73) Mean±SD | XEOMIN Median (Min; Max) |
 | --- | --- | --- | --- | --- | --- |
@@ -130,9 +130,9 @@ Investigators were asked to evaluate the subject's global change in spasticity o
 The response was assessed using a 7-point Likert scale that ranges from –3 (very much worse) to +3 (very much improved).
 XEOMIN was considered to be superior to placebo in Study 1 only if statistical significance was reached in both the AS and GICS variables.
 
-The primary efficacy results are displayed in Table 19.
+The primary efficacy results are displayed in Table 20.
 
-Table 19: Efficacy Results by Patterns of Spasticity in Adult Upper Limb Spasticity Study 1, Week 4
+Table 20: Efficacy Results by Patterns of Spasticity in Adult Upper Limb Spasticity Study 1, Week 4
 
 |  | XEOMIN (N=171) | Placebo (N=88) |
 | --- | --- | --- |
@@ -140,13 +140,13 @@ Table 19: Efficacy Results by Patterns of Spasticity in Adult Upper Limb Spastic
 | Total Primary Target Clinical Pattern (flexed wrist, flexed elbow, and clenched fist) | -0.9 | -0.5 |
 | The analysis is based on Last Observation Carried Forward in the Intent To Treat population. p<0.001 |  |  |
 
-A greater percentage of XEOMIN-treated subjects (43%) than placebo-treated subjects (23%) reported ‘very much improved’ and ‘much improved’ in their spasticity (see Figure 8).
+A greater percentage of XEOMIN-treated subjects (43%) than placebo-treated subjects (23%) reported 'very much improved' and 'much improved' in their spasticity (see Figure 8).
 
 Figure 8: Investigator's GICS in Adult Upper Limb Spasticity Study 1
 
 Upper Limb Spasticity in Pediatric Patients
 
-Study 1 was a prospective, double-blind, dose-response, randomized, multi-center trial with an open-label extension period to evaluate the efficacy and safety of XEOMIN for the treatment of upper limb spasticity in pediatric patients.
+Study 1 (NCT02002884) was a prospective, double-blind, dose-response, randomized, multi-center trial with an open-label extension period to evaluate the efficacy and safety of XEOMIN for the treatment of upper limb spasticity in pediatric patients.
 Study 1 enrolled a total of 350 pediatric patients 2 to 17 years of age with upper limb spasticity in one or both upper limbs.
 In the double-blind main period of Study 1, patients were randomized to one of three dosages of XEOMIN: 2 Units/kg (maximum 50 Units per upper limb), 6 Units/kg (maximum 150 Units per upper limb); or 8 Units/kg (maximum 200 Units per upper limb).
 The maximum dose, if both upper limbs were treated, respectively was 4 Units/kg (maximum 100 Units), 12 Units/kg (maximum 300 Units), or 16 Units/kg (maximum 400 Units).
@@ -159,7 +159,7 @@ In the absence of a placebo control, the efficacy of the 2 Units/kg dosage of XE
 The co-primary efficacy variables in Study 1 were the change from baseline on the Ashworth Scale for the primary clinical target pattern (i.e., elbow flexors or wrist flexors), and the Investigator's Global Impression of Change Scale (GICS), both at Week 4.
 The GICS is a global measure of a subject's functional improvement based on a 7-point Likert scale that ranges from -3 = very much worse to +3 = very much improved.
 
-As displayed in Table 20, the change from baseline in Ashworth Scale score was significantly greater for patients treated with XEOMIN 8 Units/kg than for patients treated with XEOMIN 2 Units/kg.
+As displayed in Table 21, the change from baseline in Ashworth Scale score was significantly greater for patients treated with XEOMIN 8 Units/kg than for patients treated with XEOMIN 2 Units/kg.
 The difference in GICS score between patients treated with XEOMIN 8 Units/kg and those treated with XEOMIN 2 Units/kg did not reach statistical significance.
 However, the clinical meaningfulness of the difference in Ashworth Scale score change between patients treated with XEOMIN 8 Units/kg and those treated with XEOMIN 2 Units/kg was established by a responder analysis, in which the proportion of patients with a 1-point change or greater on the Ashworth Scale was examined.
 In that analysis, 86% of patients treated with XEOMIN 8 Units/kg met the responder definition, compared to 71% of patients treated with XEOMIN 2 Units/kg (nominal p value = 0.0099).
@@ -167,7 +167,7 @@ In that analysis, 86% of patients treated with XEOMIN 8 Units/kg met the respond
 There was no significant difference in change from baseline in Ashworth Scale score, GICS score, or proportion of responders between patients treated with XEOMIN 6 Units/kg and those treated with XEOMIN 2 Units/kg.
 Therefore, the efficacy of a 6 Units/kg dosage of XEOMIN for the treatment of upper limb spasticity in pediatric patients was not established in Study 1.
 
-Table 20: Ashworth Scale and GICS Efficacy Results in Pediatric Upper Limb Spasticity Study 1, Week 4
+Table 21: Ashworth Scale and GICS Efficacy Results in Pediatric Upper Limb Spasticity Study 1, Week 4
 
 |  | XEOMIN 2 Units/kg (N=87) | XEOMIN 8 Units/kg (N=176) |
 | --- | --- | --- |
@@ -182,7 +182,7 @@ Table 20: Ashworth Scale and GICS Efficacy Results in Pediatric Upper Limb Spast
 
 ## 14.3 Cervical Dystonia
 
-XEOMIN has been investigated in a randomized, double-blind, placebo-controlled, multicenter trial in a total of 233 patients with cervical dystonia.
+XEOMIN has been investigated in a randomized, double-blind, placebo-controlled, multicenter trial (NCT00407030) in a total of 233 patients with cervical dystonia.
 Patients had a clinical diagnosis of predominantly rotational cervical dystonia, with baseline Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) total score ≥20, TWSTRS severity score ≥10, TWSTRS disability score ≥3, and TWSTRS pain score ≥1.
 For patients who had previously received a botulinum toxin treatment for cervical dystonia, the trial required that ≥10 weeks had passed since the most recent botulinum toxin administration.
 Patients with swallowing disorders or any significant neuromuscular disease that might interfere with the study were excluded from enrollment.
@@ -190,9 +190,9 @@ Patients were randomized (1:1:1) to receive a single administration of XEOMIN 24
 Each patient received a single administration of 4.8 mL of reconstituted study agent (XEOMIN 240 Units, XEOMIN 120 Units, or placebo).
 The investigator at each site decided which muscles would receive injections of the study agent, the number of injection sites, and the volume at each site.
 The muscles most frequently injected were the splenius capitis/semispinalis, trapezius, sternocleidomastoid, scalene, and levator scapulae muscles.
-Table 21 indicates the average XEOMIN dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trial.
+Table 22 indicates the average XEOMIN dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trial.
 
-Table 21: XEOMIN 120 Units Initial Dose (Units and % of the Total Dose) by Unilateral Muscle Injected During Double Blind Pivotal Phase 3 Study
+Table 22: XEOMIN 120 Units Initial Dose (Units and % of the Total Dose) by Unilateral Muscle Injected During Double Blind Pivotal Phase 3 Study
 
 |  | Number of Patients Injected Per Muscle | Median XEOMIN Units | 75th percentile XEOMIN Units |
 | --- | --- | --- | --- |
@@ -213,9 +213,9 @@ Three patients discontinued the study prematurely due to adverse events: two pat
 
 The primary efficacy endpoint was the change in the TWSTRS total score from baseline to Week 4 post-injection, in the intent-to-treat (ITT) population, with missing values replaced by the patient's baseline value.
 TWSTRS evaluates the severity of dystonia, patient-perceived disability from dystonia, and pain, with a range of possible scores from 0 to 85.
-The mean change in the total TWSTRS score was significantly greater for both XEOMIN groups than for the placebo group (Table 22).
+The mean change in the total TWSTRS score was significantly greater for both XEOMIN groups than for the placebo group (Table 23).
 
-Table 22: Change in TWSTRS Score at Week 4 in Patients with Cervical Dystonia (Double Blind Pivotal Phase 3 study)
+Table 23: Change in TWSTRS Score at Week 4 in Patients with Cervical Dystonia (Double Blind Pivotal Phase 3 Study)
 
 | TWSTRS Assessment | XEOMIN 240 Units (N=78) | XEOMIN 120 Units (N=81) | Placebo (N =74) |
 | --- | --- | --- | --- |
@@ -234,10 +234,10 @@ Examination of age and gender subgroups did not identify differences in response
 
 Treatment-Naïve Patients
 
-The efficacy and safety of XEOMIN for the treatment of blepharospasm in treatment-naïve patients were evaluated in Study 1, a randomized, double-blind, placebo-controlled, multi-center trial in a total of 61 patients.
+The efficacy and safety of XEOMIN for the treatment of blepharospasm in treatment-naïve patients were evaluated in Study 1 (NCT01896895), a randomized, double-blind, placebo-controlled, multi-center trial in a total of 61 patients.
 Patients had a clinical diagnosis of blepharospasm, with a baseline Jankovic Rating Scale (JRS) severity subscore ≥2.
 Patients were defined as treatment-naïve if at least 12 months had passed since their last botulinum toxin treatment for blepharospasm.
-During the placebo-controlled phase, a fixed total dose of 25 Units XEOMIN (n=22), 50 Units XEOMIN (n=19), or placebo (n=20) was administered intramuscularly at 6 injection sites per eye (Figure 6).
+During the placebo-controlled phase, a fixed total dose of 25 Units XEOMIN (n=22), 50 Units XEOMIN (n=19), or placebo (n=20) was administered intramuscularly at 6 injection sites per eye (Figure 9).
 Of the 61 patients randomized, 55 patients completed the placebo-controlled phase.
 Patients only continued to the open-label extension (OLEX) period if they had a confirmed need for a re-injection by week 20 of the placebo-controlled phase.
 A total of 39 patients entered and completed the OLEX phase.
@@ -250,7 +250,7 @@ Figure 9: Frequency Distribution of Changes from Baseline JRS Severity Subscore 
 
 Pre-Treated Patients
 
-The efficacy and safety of XEOMIN for the treatment of blepharospasm patients pre-treated with onabotulinumtoxinA (Botox) were evaluated in Study 2, a randomized, double-blind, placebo-controlled, multi-center trial in a total of 109 patients.
+The efficacy and safety of XEOMIN for the treatment of blepharospasm patients pre-treated with onabotulinumtoxinA (Botox) were evaluated in Study 2 (NCT00406367), a randomized, double-blind, placebo-controlled, multi-center trial in a total of 109 patients.
 Patients had a clinical diagnosis of benign essential blepharospasm, with baseline JRS Severity subscore ≥2, and a stable satisfactory therapeutic response to previous administrations of onabotulinumtoxinA (Botox).
 At least 10 weeks had to have elapsed since the most recent onabotulinumtoxinA administration.
 Patients with any significant neuromuscular disease that might interfere with the study were excluded from enrollment.
@@ -258,9 +258,9 @@ Patients were randomized (2:1) to receive a single administration of XEOMIN (n=7
 Each patient in the XEOMIN group received a XEOMIN treatment (dose, volume, dilution, and injection sites per muscle) that was similar to the most recent onabotulinumtoxinA injection sessions prior to study entry.
 The highest dose permitted in this study was 100 Units (50 Units per eye); the mean XEOMIN dose was 33 Units per eye.
 
-In Table 23 the most frequently injected sites, the median dose per injection site, and the median number (and range) of injection sites per eye are presented.
+In Table 24 the most frequently injected sites, the median dose per injection site, and the median number (and range) of injection sites per eye are presented.
 
-Table 23: Median Dose and Median Number of Injection Sites per Eye (Blepharospasm)
+Table 24: Median Dose and Median Number of Injection Sites per Eye (Blepharospasm)
 
 | Injection Area | Median Units XEOMIN | Median Number of Injection Sites (Min-Max) |
 | --- | --- | --- |
@@ -285,24 +285,58 @@ Figure 10: Frequency Distribution of Changes from Baseline JRS Severity Subscore
 
 Examination of age and gender subgroups did not identify substantial differences in response to XEOMIN among these subgroups.
 
-## 14.5 Glabellar Lines
+## 14.5 Upper Facial Lines (Glabellar Lines, Horizontal Forehead Lines, and Lateral Canthal Lines)
+
+Two randomized, double-blind, multi-center, placebo-controlled clinical trials, Trial 1071 (NCT04594213) and Trial 1070 (NCT04622254), were conducted to evaluate XEOMIN for use in the simultaneous intramuscular treatment of upper facial lines (GL, HFL, and LCL).
+Each trial included an extension period with two additional open-label treatment cycles.
+In these two trials a total of 730 adult subjects with GL, HFL, and LCL of at least moderate severity at maximum frown as assessed by the investigator and subject were randomized and treated.
+
+In Trial 1071, a total of 362 subjects were randomized and treated.
+Of the randomized subjects, 179 subjects were treated with XEOMIN in all three treatment areas (receiving 64 U in total: 20 in GL, 20 U in HFL, 24 U in LCL area), 92 subjects were treated with XEOMIN in the GL and HFL areas (receiving 20 U in the GL area and 20 U in HFL area), and 91 subjects were treated with placebo (receiving equal volume of placebo).
+
+In Trial 1070, a total of 368 subjects were randomized and treated.
+Of the randomized subjects, 184 subjects were treated with XEOMIN in all three treatment area (receiving 64 U in total: 20 in GL, 20 U in HFL, 24 U in LCL area), 90 subjects were treated with XEOMIN in the LCL area (receiving 24 U in LCL area, 12 U per side), and 94 subjects were treated with placebo (receiving equal volume of placebo).
+
+The mean age of the 730 treated and randomized subjects was 46.5 years.
+The majority of subjects were female (84%) and White (92%).
+Fifteen percent (15%) of subjects identified as Hispanic or Latino.
+
+For both trials, the severity of upper facial lines (GL, HFL, and LCL) was assessed at maximum contraction using the 5-point photonumerical Merz Aesthetic Scales (MAS; 0=none, 1= mild, 2=moderate, 3=severe, 4=very severe).
+The MAS assessment was performed independently by both investigators and subjects.
+The primary timepoint was Day 30 following the first treatment.
+
+For each upper facial area (GL, HFL, or LCL), treatment success was defined as a score of 0 (none) or 1 (mild) and at least two-grade improvement from baseline to Day 30 as rated on the corresponding scale for GL, HFL, and LCL at maximum contraction as assessed by both the investigator and the subject.
+The percentage of subjects with treatment success in each treatment area is presented in Table 25.
+
+Table 25.
+Treatment Success at Day 30 in Adults with Upper Facial Lines (GL/HFL/LCL) in Trial 1071 and Trial 1070
+
+|  |  | N=92 |  | N=184 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Trial 1071 |  |  | Trial 1070 |  |  |
+|  | XEOMIN (20 Units GL/ 20 Units HFL/ 24 Units LCL) | XEOMIN (20 Units GL/ 20 Units HFL) | Placebo | XEOMIN (20 Units GL/ 20 Units HFL/ 24 Units LCL) | XEOMIN (24 Units LCL) N=90 | Placebo |
+|  | N=179 |  | N=91 |  |  | N=94 |
+| GL | 53% | 53% | 0% | 49% | - | 0% |
+| HFL | 67% | 62% | 0% | 58% | - | 0% |
+| LCL | 53% | - | 0% | 33% | 24% | 0% |
+
+Glabellar Lines
 
 Two identically designed randomized, double-blind, multi-center, placebo controlled clinical trials (Studies GL-1 and GL-2) were conducted to evaluate XEOMIN for use in the temporary improvement of moderate to severe glabellar lines.
-The studies enrolled 547 healthy patients (≥18 years old) with glabellar lines of at least moderate severity at maximum frown.
-Three hundred sixty six subjects were treated with 20 Units of XEOMIN and 181 subjects were treated with placebo.
+The trials enrolled 547 healthy adult patients with glabellar lines of at least moderate severity at maximum frown.
+Three hundred sixty six (366) subjects were treated with 20 Units of XEOMIN and 181 subjects received placebo.
 Subjects were excluded if they had marked ptosis, deep dermal scarring, or an inability to lessen glabellar lines, even by physically spreading them apart.
-The mean age of study subjects was 46 years.
-The majority of patients were female (86% and 93% in Studies GL-1 and GL-2, respectively), and predominantly Caucasian (89% and 65% respectively).
-The study subjects received either 20 Units of XEOMIN or an equal amount of placebo.
+The mean age of trial subjects was 46 years.
+The majority of subjects were female (86% and 93% in Studies GL-1 and GL-2, respectively), and predominantly White (89% and 65% respectively).
+The trial subjects received either 20 Units of XEOMIN or an equal amount of placebo.
 The total dose was delivered in 5 equally divided intramuscular injections of 4 Units each to specific sites (see Figure 7).
 Subjects were followed up for 120 days.
 
 Investigators and subjects assessed efficacy at maximum frown on Day 30 of treatment using a 4-point scale (0=none, 1=mild, 2=moderate, 3=severe).
 Composite treatment success was defined as a 2-grade improvement on this scale compared to baseline for both the investigator's and subject's assessments on Day 30.
-The percentage of subjects with treatment success was greater on the XEOMIN arm than the placebo arm at Day 30 in both studies (see Table 24).
-The percentage of subjects with composite treatment success at each visit is presented in Figure 11.
+The percentage of subjects with treatment success was greater on the XEOMIN arm than the placebo arm at Day 30 in both trials (see Table 26).
 
-Table 24: Treatment Success at Day 30 (at Least 2 Grades Improvement from Baseline at Maximum Frown)
+Table 26: Treatment Success at Day 30 (at Least 2 Grades Improvement from Baseline at Maximum Frown) in Adults with GL in Studies GL-1 and GL-2
 
 |  | XEOMIN (N=184) | Placebo (N=92) | XEOMIN (N=182) | Placebo (N=89) |
 | --- | --- | --- | --- | --- |
@@ -310,5 +344,3 @@ Table 24: Treatment Success at Day 30 (at Least 2 Grades Improvement from Baseli
 | Composite Treatment SuccessSuccess on both the Investigator and Subject Assessments | 111 (60%) | 0 (0%) | 87 (48%) | 0 (0%) |
 | Investigator Assessment | 141 (77%) | 0 (0%) | 129 (71%) | 0 (0%) |
 | Subject Assessment | 120 (65%) | 0 (0%) | 101 (55%) | 1 (1%) |
-
-Figure 11: Percentage of Subjects with Composite Treatment Success by Visit – Observed Cases (GL-1 and GL-2)
