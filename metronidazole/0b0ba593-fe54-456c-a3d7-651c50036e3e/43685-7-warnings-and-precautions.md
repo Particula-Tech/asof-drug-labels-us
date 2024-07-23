@@ -2,8 +2,13 @@
 
 ## Hypersensitivity Reactions
 
-Hypersensitivity reactions including toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
-Symptoms can be serious and potentially life threatening (see ADVERSE REACTIONS).
+Hypersensitivity reactions including severe cutaneous adverse reactions (SCARs) can be serious and potentially life threatening (see ADVERSE REACTIONS).
+
+## Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
+Symptoms can be serious and potentially life threatening.
+If symptoms or signs of SCARs develop, discontinue FLAGYL ER tablets immediately and institute appropriate therapy.
 
 ## Central and Peripheral Nervous System Effects
 
@@ -65,6 +70,12 @@ Patients should be counseled that FLAGYL ER should only be used to treat bacteri
 FLAGYL ER does not treat viral infections (e.g., the common cold).
 When FLAGYL ER is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by FLAGYL ER in the future.
+
+### Severe Cutaneous Adverse Reactions
+
+Advise patients that FLAGYL ER tablets may increase the risk of serious and sometimes fatal dermatologic reactions, including TEN, SJS, and DRESS.
+Instruct the patient to be alert for skin rash, blisters, fever or other signs and symptoms of these hypersensitivity reactions.
+Advise patients to stop FLAGYL ER tablets immediately if they develop any type of rash and seek medical attention.
 
 ## Drug Interactions
 
