@@ -1,7 +1,5 @@
 # WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF MORPHINE SULFATE EXTENDED-RELEASE TABLETS
 
-WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF MORPHINE SULFATE EXTENDED-RELEASE TABLETS
-
 Addiction, Abuse, and Misuse Because the use of morphine sulfate extended-release tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of morphine sulfate extended-release tablets, especially during initiation or following a dosage increase.
