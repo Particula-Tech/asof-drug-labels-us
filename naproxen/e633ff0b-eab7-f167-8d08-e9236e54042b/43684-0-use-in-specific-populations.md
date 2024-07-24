@@ -16,7 +16,6 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
 In animal reproduction studies in rats, rabbit, and mice no evidence of teratogenicity or fetal harm when naproxen was administered during the period of organogenesis at doses 0.13, 0.26, and 0.6 times the maximum recommended human daily dose of 1,500 mg/day, respectively.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as naproxen, resulted in increased pre and post-implantation loss.
