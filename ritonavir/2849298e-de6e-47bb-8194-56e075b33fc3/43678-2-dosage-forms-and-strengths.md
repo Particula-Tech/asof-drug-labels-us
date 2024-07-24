@@ -6,10 +6,6 @@ White film-coated ovaloid tablets debossed with the "a" logo and the code NK pro
 
 White film-coated ovaloid tablets debossed with “NK” on one side providing 100 mg ritonavir.
 
-- NORVIR Oral Solution
-
-Orange-colored liquid containing 600 mg ritonavir per 7.5 mL marked dosage cup (80 mg per mL).
-
 - NORVIR Oral Powder
 
 Beige/pale yellow to yellow powder in child-resistant packet.

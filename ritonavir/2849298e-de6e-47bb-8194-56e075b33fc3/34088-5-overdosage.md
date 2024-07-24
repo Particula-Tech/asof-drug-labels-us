@@ -11,13 +11,9 @@ The approximate lethal dose was found to be greater than 20 times the related hu
 
 Management of Overdosage
 
-NORVIR oral solution contains approx. 43% ethanol (v/v) and approx. 27% (w/v) propylene glycol.
-Ingestion of the product over the recommended dose by a young child could result in significant toxicity and could potentially be lethal.
-
 Treatment of overdose with NORVIR consists of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient.
 There is no specific antidote for overdose with NORVIR.
 If indicated, elimination of unabsorbed drug should be achieved by gastric lavage; usual precautions should be observed to maintain the airway.
 Administration of activated charcoal may also be used to aid in removal of unabsorbed drug.
 Since ritonavir is extensively metabolized by the liver and is highly protein bound, dialysis is unlikely to be beneficial in significant removal of the drug.
-However, dialysis can remove both ethanol and propylene glycol in the case of overdose with ritonavir oral solution.
 A Certified Poison Control Center should be consulted for up-to-date information on the management of overdose with NORVIR.

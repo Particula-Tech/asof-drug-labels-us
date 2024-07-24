@@ -18,17 +18,9 @@ In animal reproduction studies, no evidence of adverse developmental outcomes wa
 During organogenesis in the rat and rabbit, systemic exposure (AUC) was approximately 1/3 lower than human exposure at the recommended daily dose.
 In the rat pre- and post-natal developmental study, maternal systemic exposure to ritonavir was approximately 1/2 of the exposure in humans at the recommended daily dose, based on a body surface area conversion factor [see Data].
 
-NORVIR oral solution is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Clinical Considerations, Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
-
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-
-Clinical Considerations
-
-Dose Adjustments During Pregnancy and the Postpartum Period
-
-NORVIR oral solution contains approx. 43% ethanol (v/v) and approx. 27% (w/v) propylene glycol and is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 Data
 
@@ -79,4 +71,4 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic Impairment
 
 No dose adjustment of ritonavir is necessary for patients with either mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
-No pharmacokinetic or safety data are available regarding the use of ritonavir in subjects with severe hepatic impairment (Child-Pugh Class C), therefore, ritonavir is not recommended for use in patients with severe hepatic impairment [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
+No pharmacokinetic or safety data are available regarding the use of ritonavir in subjects with severe hepatic impairment (Child-Pugh Class C), therefore, ritonavir is not recommended for use in patients with severe hepatic impairment [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].

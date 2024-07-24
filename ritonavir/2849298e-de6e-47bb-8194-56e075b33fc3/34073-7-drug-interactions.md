@@ -7,7 +7,7 @@ When co-administering NORVIR with other protease inhibitors (atazanavir, darunav
 Ritonavir is an inhibitor of cytochrome P450 3A (CYP3A) and may increase plasma concentrations of agents that are primarily metabolized by CYP3A.
 Agents that are extensively metabolized by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in AUC (greater than 3-fold) when co-administered with ritonavir.
 Thus, co-administration of NORVIR with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated.
-Co-administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 4.
+Co-administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 3.
 
 Ritonavir also inhibits CYP2D6 to a lesser extent.
 Co-administration of substrates of CYP2D6 with ritonavir could result in increases (up to 2-fold) in the AUC of the other agent, possibly requiring a proportional dosage reduction.
@@ -18,10 +18,10 @@ The healthcare provider should consult appropriate references for comprehensive 
 
 ## 7.2 Established and Other Potentially Significant Drug Interactions
 
-Table 4 provides a list of established or potentially clinically significant drug interactions.
+Table 3 provides a list of established or potentially clinically significant drug interactions.
 Alteration in dose or regimen may be recommended based on drug interaction studies or predicted interaction [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)] for magnitude of interaction.
 
-Table 4.
+Table 3.
 Established and Other Potentially Significant Drug Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Ritonavir or Concomitant Drug | Clinical Comment |
@@ -39,7 +39,6 @@ Established and Other Potentially Significant Drug Interactions
 | Antianginal: ranolazine | ↑ ranolazine | Contraindicated due to potential for serious and/or life-threatening reactions [see Contraindications (4)]. |
 | Analgesics, Narcotic: tramadol, propoxyphene, methadone, fentanyl | ↑ analgesics ↓ methadone ↑ fentanyl | A dose decrease may be needed for these drugs when co-administered with ritonavir. Dosage increase of methadone may be considered. Careful monitoring of therapeutic and adverse effects (including potentially fatal respiratory depression) is recommended when fentanyl is concomitantly administered with NORVIR. |
 | Anesthetic: meperidine | ↓ meperidine/ ↑ normeperidine (metabolite) | Dosage increase and long-term use of meperidine with ritonavir are not recommended due to the increased concentrations of the metabolite normeperidine which has both analgesic activity and CNS stimulant activity (e.g., seizures). |
-| Antialcoholics: disulfiram/ metronidazole |  | Ritonavir formulations contain ethanol, which can produce disulfiram-like reactions when co-administered with disulfiram or other drugs that produce this reaction (e.g., metronidazole). |
 | Antiarrhythmics: amiodarone, dronedarone, flecainide, propafenone, quinidine | ↑ antiarrhythmics | Contraindicated due to potential for cardiac arrhythmias [see Contraindications (4)]. |
 | Antiarrhythmics: disopyramide, lidocaine, mexiletine | ↑ antiarrhythmics | Caution is warranted and therapeutic concentration monitoring is recommended for antiarrhythmics when co-administered with ritonavir, if available. |
 | Anticancer Agents: abemaciclib, apalutamide, dasatinib, encorafenib, ibrutinib, ivosidenib, neratinib, nilotinib, venetoclax, vinblastine, vincristine | ↑ anticancer agents ↓ ritonavir# | Apalutamide is contraindicated due to potential for loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors [see Contraindications (4)]. Avoid co-administration of encorafenib or ivosidenib with NORVIR due to potential risk of serious adverse events such as QT interval prolongation. If co-administration of encorafenib with NORVIR cannot be avoided, modify dose as recommended in encorafenib USPI. If co-administration of ivosidenib with NORVIR cannot be avoided, reduce ivosidenib dose to 250 mg once daily. Avoid use of neratinib, venetoclax or ibrutinib with NORVIR. For vincristine and vinblastine, consideration should be given to temporarily withholding the ritonavir containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when ritonavir is administered concurrently with vincristine or vinblastine. Clinicians should be aware that if the ritonavir containing regimen is withheld for a prolonged period, consideration should be given to altering the regimen to not include a CYP3A or P-gp inhibitor in order to control HIV-1 viral load. A decrease in the dosage or an adjustment of the dosing interval of nilotinib and dasatinib may be necessary for patients requiring co-administration with strong CYP3A inhibitors such as NORVIR. Please refer to the nilotinib and dasatinib prescribing information for dosing instructions. |

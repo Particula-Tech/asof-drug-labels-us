@@ -3,9 +3,9 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling.
 
 - Drug Interactions [see Warnings and Precautions (5.1)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Pancreatitis [see Warnings and Precautions (5.4)]
-- Allergic Reactions/Hypersensitivity [see Warnings and Precautions (5.5)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Pancreatitis [see Warnings and Precautions (5.3)]
+- Allergic Reactions/Hypersensitivity [see Warnings and Precautions (5.4)]
 
 When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including adverse reactions.
 
@@ -16,11 +16,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adverse Reactions in Adults
 
 The safety of NORVIR alone and in combination with other antiretroviral agents was studied in 1,755 adult patients.
-Table 2 lists treatment-emergent Adverse Reactions (with possible or probable relationship to study drug) occurring in greater than or equal to 1% of adult patients receiving NORVIR in combined Phase II/IV studies.
+Table 1 lists treatment-emergent Adverse Reactions (with possible or probable relationship to study drug) occurring in greater than or equal to 1% of adult patients receiving NORVIR in combined Phase II/IV studies.
 
 The most frequently reported adverse drug reactions among patients receiving NORVIR alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia), rash, and fatigue/asthenia.
 
-Table 2.
+Table 1.
 Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to Study Drug) Occurring in greater than or equal to 1% of Adult Patients Receiving NORVIR in Combined Phase II/IV Studies (N = 1,755)
 
 | Adverse Reactions | n | % |
@@ -80,9 +80,9 @@ Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to 
 
 Laboratory Abnormalities in Adults
 
-Table 3 shows the percentage of adult patients who developed marked laboratory abnormalities.
+Table 2 shows the percentage of adult patients who developed marked laboratory abnormalities.
 
-Table 3.
+Table 2.
 Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities Occurring in greater than 3% of Patients Receiving NORVIR
 
 |  |  | Study 245 Naive Patients |  |  | Study 247 Advanced Patients |  | Study 462 PI-Naive Patients |
@@ -131,7 +131,7 @@ Co-administration of ritonavir with ergotamine or dihydroergotamine has been ass
 
 Cardiovascular System
 
-First-degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported [see Warnings and Precautions (5.6)].
+First-degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported [see Warnings and Precautions (5.5)].
 
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazodone, fluoxetine, and beta blockers.
 The possibility of drug interaction cannot be excluded.
