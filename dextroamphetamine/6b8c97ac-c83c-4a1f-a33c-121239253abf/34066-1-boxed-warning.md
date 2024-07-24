@@ -5,4 +5,4 @@ Misuse and abuse of CNS stimulants, including dextroamphetamine sulfate, can res
 
 Before prescribing dextroamphetamine sulfate, assess each patient's risk for abuse, misuse, and addiction.
 Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug.
-Throughout dextroamphetamine sulfate treatment, reassess each patient's risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction (see WARNINGS and DRUG ABUSE and DEPENDENCE).
+Throughout dextroamphetamine sulfate treatment, reassess each patient's risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction (see WARNINGSand DRUG ABUSE and DEPENDENCE).

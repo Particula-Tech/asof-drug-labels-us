@@ -40,19 +40,19 @@ CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing dextroamphetamine sulfate.
 
-## Long-Term Suppression of Growth in Pediatric Patients
+### Long-Term Suppression of Growth in Pediatric Patients
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients, including dextroamphetamine sulfate.
 Closely monitor growth (weight and height) in dextroamphetamine sulfate -treated pediatric patients treated with CNS stimulants.
 
 Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted (see PRECAUTIONS, PEDIATRIC USE).
 
-## Seizures
+### Seizures
 
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
-## Peripheral Vasculopathy, Including Raynaud's Phenomenon
+### Peripheral Vasculopathy, Including Raynaud's Phenomenon
 
 Stimulants, including dextroamphetamine sulfate tablets, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulcerations and/or soft tissue breakdown.
@@ -61,7 +61,7 @@ Signs and symptoms generally improved after dosage reduction or discontinuation 
 Careful observation for digital changes is necessary during dextroamphetamine sulfate tablet-treatment.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for dextroamphetamine sulfate tablet-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
-## Serotonin Syndrome
+### Serotonin Syndrome
 
 Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort (see Drug Interactions).
 The co-administration of cytochrome P450 (CYP2D6) inhibitors may also increase the risk with increased exposure to dextroamphetamine sulfate tablets.
@@ -140,7 +140,7 @@ A variety of neurological toxic effects and malignant hyperpyrexia can occur, so
 
 The concomitant use of dextroamphetamine sulfate tablets and serotonergic drugs increases the risk of serotonin syndrome.
 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during dextroamphetamine sulfate tablets initiation or dosage increase.
-If serotonin syndrome occurs, discontinue dextroamphetamine sulfate tablets and the concomitant serotonergic drug(s) (see WARNINGS and PRECAUTIONS).
+If serotonin syndrome occurs, discontinue dextroamphetamine sulfate tablets and the concomitant serotonergic drug(s) (see WARNINGSand PRECAUTIONS).
 Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort.
 
 ### CYP2D6 Inhibitors

@@ -4,7 +4,5 @@ Pharmacist: Medication Guide to be dispensed to Patients.
 
 Manufactured for: Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
-Rev.
-11/2023
-
-DEX-PI-11
+DEX-PI-12 Rev.
+MAR2024

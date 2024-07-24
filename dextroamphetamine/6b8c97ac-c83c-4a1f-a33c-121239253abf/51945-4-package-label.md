@@ -14,7 +14,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Marketed by Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
-WILSHIRE® PHARMACEUTICALS, INC
+WILSHIRE ® PHARMACEUTICALS, INC
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
@@ -32,7 +32,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Marketed by Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
-WILSHIRE® PHARMACEUTICALS, INC
+WILSHIRE ® PHARMACEUTICALS, INC
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
 
@@ -50,7 +50,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Marketed by Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
-WILSHIRE® PHARMACEUTICALS, INC
+WILSHIRE ® PHARMACEUTICALS, INC
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
@@ -68,7 +68,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Marketed by Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
-WILSHIRE® PHARMACEUTICALS, INC
+WILSHIRE ® PHARMACEUTICALS, INC
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
@@ -86,4 +86,4 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Marketed by Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
-WILSHIRE® PHARMACEUTICALS, INC
+WILSHIRE ® PHARMACEUTICALS, INC

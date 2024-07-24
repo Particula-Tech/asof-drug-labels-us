@@ -17,9 +17,9 @@ Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 h
 
 Not recommended for pediatric patients under 3 years of age.
 
-In pediatric patients from 3 to 5 years of age, start with 2.5 mg daily; daily dosage may be raised in increments of 2.5 mg at weekly intervals until optimal response is obtained.
+In pediatric patients from 3 to 5 years of age,start with 2.5 mg daily; daily dosage may be raised in increments of 2.5 mg at weekly intervals until optimal response is obtained.
 
-In pediatric patients 6 years of age and older, start with 5 mg once or twice daily; daily dosage may be raised in increments of 5 mg at weekly intervals until optimal response is obtained.
+In pediatric patients 6 years of age and older,start with 5 mg once or twice daily; daily dosage may be raised in increments of 5 mg at weekly intervals until optimal response is obtained.
 Only in rare cases will it be necessary to exceed a total of 40 mg per day.
 
 Give first dose on awakening; additional doses (1 or 2) at intervals of 4 to 6 hours.
