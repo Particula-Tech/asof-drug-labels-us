@@ -16,7 +16,7 @@ Other cardiac conduction abnormalities have occurred during treatment with Sando
 In acromegalic patients, bradycardia (< 50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias occurred in 9% of patients during Sandostatin Injection therapy [see Adverse Reactions (6)].
 Other electrocardiogram (ECG) changes observed included QT prolongation, axis shifts, early repolarization, low voltage, R/S transition, and early R-wave progression.
 These ECG changes are not uncommon in acromegalic patients.
-Dose adjustments in drugs such as beta-blockers that have bradycardia effects may be necessary.
+Dose adjustments in drugs, such as beta-blockers that have bradycardia effects may be necessary.
 In one acromegalic patient with severe congestive heart failure (CHF), initiation of Sandostatin Injection therapy resulted in worsening of CHF with improvement when drug was discontinued.
 Confirmation of a drug effect was obtained with a positive rechallenge.
 
@@ -45,8 +45,12 @@ Adjust dosing of insulin or other anti-diabetic therapy accordingly.
 Octreotide suppresses secretion of thyroid stimulating hormone (TSH), which may result in hypothyroidism.
 Baseline and periodic assessment of thyroid function (TSH, total, and/or free T4) is recommended during chronic therapy [see Adverse Reactions (6)].
 
-## 5.5 Nutrition
+## 5.5 Steatorrhea and Malabsorption of Dietary Fats
 
-Sandostatin Injection may alter absorption of dietary fats.
+New onset steatorrhea, stool discoloration and loose stools have been reported in patients receiving somatostatin analogs, including Sandostatin.
+Somatostatin analogs reversibly inhibit secretion of pancreatic enzymes and bile acids, which may result in malabsorption of dietary fats and subsequent symptoms of steatorrhea, loose stools, abdominal bloating, and weight loss.
+If new occurrence or worsening of these symptoms are reported in patients receiving Sandostatin, evaluate patients for potential pancreatic exocrine insufficiency and manage accordingly.
+
+## 5.6 Changes in Vitamin B12 Levels
 
 Depressed vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving Sandostatin Injection therapy, and monitoring of vitamin B12 levels is recommended during Sandostatin Injection therapy.

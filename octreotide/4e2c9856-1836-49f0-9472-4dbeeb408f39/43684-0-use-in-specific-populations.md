@@ -60,7 +60,7 @@ Mean body mass index (BMI) increased 0.1 kg/m2 in octreotide acetate for injecta
 Efficacy was not demonstrated.
 Diarrhea occurred in 11 of 30 (37%) patients treated with octreotide acetate for injectable suspension.
 No unexpected adverse events were observed.
-However, with octreotide acetate for injectable suspension at 40 mg once a month, the incidence of new cholelithiasis in this pediatric population (33%) was higher than that seen in other adult indications such as acromegaly (22%) or malignant carcinoid syndrome (24%), where octreotide acetate for injectable suspension was 10 mg to 30 mg once a month.
+However, with octreotide acetate for injectable suspension at 40 mg once a month, the incidence of new cholelithiasis in this pediatric population (33%) was higher than that seen in other adult indications, such as acromegaly (22%) or malignant carcinoid syndrome (24%), where octreotide acetate for injectable suspension was 10 mg to 30 mg once a month.
 
 ## 8.5 Geriatric Use
 

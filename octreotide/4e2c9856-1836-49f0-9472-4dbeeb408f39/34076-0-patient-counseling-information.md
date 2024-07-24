@@ -8,6 +8,10 @@ Cholelithiasis and Complications of Cholelithiasis
 
 Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones (cholelithiasis) or complications of cholelithiasis (e.g., cholecystitis, cholangitis, and pancreatitis) [see Warnings and Precautions (5.2)].
 
+Steatorrhea and Malabsorption of Dietary Fats
+
+Advise patients to contact their healthcare provider if they experience new or worsening of steatorrhea, stool discoloration, loose stools, abdominal bloating, and weight loss [see Warnings and Precautions (5.5)].
+
 Pregnancy
 
 Inform female patients that treatment with Sandostatin Injection may result in unintended pregnancy [see Use in Specific Populations (8.3)].
@@ -16,4 +20,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2023-76
+T2024-50
