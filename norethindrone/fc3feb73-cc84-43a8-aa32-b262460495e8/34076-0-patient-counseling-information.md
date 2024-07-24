@@ -49,6 +49,8 @@ Administration Instructions
 - Advise women to take any missed dose of MYFEMBREE as soon as possible the same day and then resume regular dosing the next day at the usual time [see Dosage and Administration (2.3)].
 - Advise women taking oral P-gp inhibitors to take MYFEMBREE first and separate dosing by at least 6 hours [see Dosage and Administration (2.4)].
 
-Manufactured by Patheon Inc., 2100 Syntex Court, Mississauga, Ontario L5N 7K9, Canada Distributed by: Sumitomo Pharma America, Inc., 84 Waterford Drive, Marlborough, MA 01752
+Manufactured by Patheon Inc., 2100 Syntex Court, Mississauga, Ontario L5N 7K9, Canada
 
-214846 MS 005
+Distributed by: Sumitomo Pharma America, Inc., 84 Waterford Drive, Marlborough, MA 01752
+
+214846 MS 006

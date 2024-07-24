@@ -53,7 +53,7 @@ Estradiol and norethindrone concentrations reach steady-state within 2 weeks, wi
 
 Absorption
 
-The mean (%CV) absolute bioavailability of relugolix is 12 (62%).
+The mean (%CV) absolute bioavailability of relugolix is 12% (62%).
 
 Effect of Food
 
@@ -99,10 +99,11 @@ Drug Interaction Studies
 
 Clinical Studies
 
-- Combined P-gp and Moderate CYP3A Inhibitor: Co-administration with erythromycin (P-gp and moderate CYP3A inhibitor) increased the AUC and Cmax of relugolix by 6.2-fold.
+- Combined P-gp and Moderate CYP3A Inhibitor: Co-administration of MYFEMBREE with erythromycin (P-gp and moderate CYP3A inhibitor) increased the AUC and Cmax of relugolix by 4.1-fold and 3.8- fold, respectively.
+  No clinically meaningful differences in the pharmacokinetics of unconjugated estradiol, total estrone, unconjugated estrone, and norethindrone were observed.
 - Combined P-gp and Strong CYP3A Inducer: Co-administration with rifampin (P-gp and strong CYP3A inducer) decreased the AUC and Cmax of relugolix by 55% and 23%, respectively.
 - Other Drugs: No clinically significant differences in the pharmacokinetics of relugolix were observed when co-administered with voriconazole (strong CYP3A inhibitor), fluconazole (moderate CYP3A inhibitor), or atorvastatin (weak CYP3A inhibitor).
-  No clinically significant differences in the pharmacokinetics of midazolam (sensitive CYP3A substrate) or rosuvastatin (BCRP substrate) were observed upon co-administration with relugolix.
+  No clinically significant differences in the pharmacokinetics of midazolam (sensitive CYP3A substrate), rosuvastatin (BCRP substrate), or dabigatran etexilate (P-gp substrate) were observed upon co-administration with relugolix.
 
 In Vitro Studies
 
@@ -110,4 +111,4 @@ In Vitro Studies
   Relugolix is an inducer of CYP3A and CYP2B6, but not an inducer of CYP1A2.
   Relugolix is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4.
 - Transporter Systems: Relugolix is a substrate of P-gp, but not a substrate of BCRP.
-  Relugolix is an inhibitor of BCRP and P-gp, but not an inhibitor of OATP1B1, OATP1B3, OAT1, OAT3, OCT2, MATE1, MATE2-K, or BSEP.
+  Relugolix is an inhibitor of BCRP and P-gp, but not an inhibitor of OATP1B1, OATP1B3, OATP2B1, OAT1, OAT3, OCT2, MATE1, MATE2-K, or BSEP.

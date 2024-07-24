@@ -114,7 +114,7 @@ Table 10: Proportion of Dysmenorrhea and Non-Menstrual Pelvic Pain Responders at
 | --- | --- | --- | --- | --- |
 | MYFEMBREE (N = 212) | Placebo (N = 212) | MYFEMBREE (N = 205) | Placebo (N = 200) |  |
 | Dysmenorrhea | 74.5% | 26.9% | 75.1% | 30.5% |
-| Difference from placebo (95% CI) p-value | 47.6% (39.3%, 56.0%) ≤ 0.0001 | - | 66B44.6% (35.9%, 53.3%) ≤ 0.0001 | - |
+| Difference from placebo (95% CI) p-value | 47.6% (39.3%, 56.0%) ≤ 0.0001 | - | 44.6% (35.9%, 53.3%) ≤ 0.0001 | - |
 | Non-menstrual pelvic pain | 58.5% | 39.6% | 65.9% | 42.5% |
 | Difference from placebo (95% CI) * p-value | 18.9% (9.5%, 28.2%) ≤ 0.0001 | - | 23.4% (13.9%, 32.8%) ≤ 0.0001 | - |
 | Abbreviations: CI = confidence interval. |  |  |  |  |

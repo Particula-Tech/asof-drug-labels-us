@@ -105,7 +105,9 @@ Two women in Study L3, both treated with relugolix monotherapy for 12 weeks prio
 Depression, Mood Disorders, and Suicidal Ideation
 
 In Studies L1 and L2, MYFEMBREE was associated with adverse mood changes.
-A greater proportion of women treated with MYFEMBREE compared to placebo reported depression (including depression, mood swings, and depressed mood) (2.4% vs. 0.8%), irritability (2.4% vs. 0%), and anxiety (1.2% vs. 0.8%).
+A greater proportion of women treated with MYFEMBREE compared to placebo reported depression
+
+(including depression, mood swings, and depressed mood) (2.4% vs. 0.8%), irritability (2.4% vs. 0%), and anxiety (1.2% vs. 0.8%).
 
 Resumption of Menstruation after Discontinuation
 
@@ -245,7 +247,7 @@ Among women with normal total cholesterol (< 200 mg/dL) at baseline, increases t
 For women with LDL < 130 mg/dL at baseline, increases to 130 to < 160 mg/dL, 160 to < 190 mg/dL and ≥ 190 mg/dL were seen in 8.0%, 0.3%, and 0% of MYFEMBREE-treated women as compared to 7.6%, 0% and 0% of placebo-treated women.
 Among women with normal HDL at baseline (≥ 60 mg/dL), declines to 40 to < 60 mg/dL occurred in 22.2% (49/221) of MYFEMBREE-treated women as compared to 12.2% (27/221) of placebo-treated women.
 
-## 6.2 Postmarketing Experience
+### 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of MYFEMBREE, as well as post-approval use of relugolix monotherapy outside of the United States.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
