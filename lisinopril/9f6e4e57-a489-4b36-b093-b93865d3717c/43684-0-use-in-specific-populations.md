@@ -28,8 +28,8 @@ In the unusual case that there is no appropriate alternative to therapy with dru
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to QBRELIS for hypotension, oliguria, and hyperkalemia.
-If oliguria or hypotension occur in neonates with a history of in utero exposure to QBRELIS, support blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to QBRELIS for hypotension, oliguria, and hyperkalemia.
+If oliguria or hypotension occur in neonates with a history of in uteroexposure to QBRELIS, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and substituting for disordered renal function.
 
 ## 8.2 Lactation
@@ -45,7 +45,7 @@ Because of the potential for severe adverse reactions in the breastfed infant, a
 Antihypertensive effects and safety of lisinopril have been established in pediatric patients aged 6 to 16 years [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
 No relevant differences between the adverse reaction profile for pediatric patients and adult patients were identified.
 
-Safety and effectiveness of lisinopril have not been established in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2[see Dosage and Administration (2.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+Safety and effectiveness of lisinopril have not been established in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m 2[see Dosage and Administration (2.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
 
 Neonates with a history of in utero exposure to QBRELIS
 

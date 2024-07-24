@@ -8,15 +8,15 @@ This dose was 6.8 times the maximum human dose based on body surface area in mic
 
 Lisinopril was not mutagenic in the Ames microbial mutagen test with or without metabolic activation.
 It was also negative in a forward mutation assay using Chinese hamster lung cells.
-Lisinopril did not produce single strand DNA breaks in an in vitro alkaline elution rat hepatocyte assay.
-In addition, lisinopril did not produce increases in chromosomal aberrations in an in vitro test in Chinese hamster ovary cells or in an in vivo study in mouse bone marrow.
+Lisinopril did not produce single strand DNA breaks in an in vitroalkaline elution rat hepatocyte assay.
+In addition, lisinopril did not produce increases in chromosomal aberrations in an in vitrotest in Chinese hamster ovary cells or in an in vivostudy in mouse bone marrow.
 
 There were no adverse effects on reproductive performance in male and female rats treated with up to 300 mg per kg per day of lisinopril.
-This dose is 188 times and 30 times the maximum human dose when based on mg/kg and mg/m2, respectively.
+This dose is 188 times and 30 times the maximum human dose when based on mg/kg and mg/m 2, respectively.
 
 Studies in rats indicate that lisinopril crosses the blood brain barrier poorly.
 Multiple doses of lisinopril in rats do not result in accumulation in any tissues.
 Milk of lactating rats contains radioactivity following administration of 14C lisinopril.
 By whole body autoradiography, radioactivity was found in the placenta following administration of labeled drug to pregnant rats, but none was found in the fetuses.
 
-*Calculations assume a human weight of 50 kg and human body surface area of 1.62 m2.
+*Calculations assume a human weight of 50 kg and human body surface area of 1.62 m 2.

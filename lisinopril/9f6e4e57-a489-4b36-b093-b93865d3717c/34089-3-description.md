@@ -2,7 +2,7 @@
 
 Lisinopril is an oral long-acting angiotensin converting enzyme (ACE) inhibitor.
 Lisinopril is a synthetic peptide derivative that is manufactured as a dihydrate and is chemically described as 1-[N2-[(S)-1-Carboxy-3-phenylpropyl]-L-lysyl]-L-proline dihydrate.
-Its molecular formula is C21H31N3O5·2H2O and its structural formula is:
+Its molecular formula is C 21H 31N 3O 5·2H 2O and its structural formula is:
 
 Lisinopril is a white to off-white, crystalline powder, with a molecular weight of 441.52 (for dihydrate).
 It is soluble in water, sparingly soluble in methanol, and practically insoluble in ethanol.

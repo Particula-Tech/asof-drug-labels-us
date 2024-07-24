@@ -59,7 +59,7 @@ Above this glomerular filtration rate, the elimination half-life is little chang
 With greater impairment, however, peak and trough lisinopril levels increase, time to peak concentration increases and time to attain steady state is prolonged [see Dosage and Administration (2.4)].
 Lisinopril can be removed by hemodialysis.
 
-Pediatric Patients: The pharmacokinetics of lisinopril were studied in 29 pediatric hypertensive patients between 6 years and 16 years with glomerular filtration rate > 30 mL/min/1.73 m2.
+Pediatric Patients:The pharmacokinetics of lisinopril were studied in 29 pediatric hypertensive patients between 6 years and 16 years with glomerular filtration rate > 30 mL/min/1.73 m 2.
 After doses of 0.1 to 0.2 mg per kg, steady state peak plasma concentrations of lisinopril occurred within 6 hours and the extent of absorption based on urinary recovery was about 28%.
 These values are similar to those obtained previously in adults.
 The typical value of lisinopril oral clearance (systemic clearance/absolute bioavailability) in a child weighing 30 kg is 10 L/h, which increases in proportion to renal function.

@@ -20,7 +20,7 @@ Data from several small studies are inconsistent with respect to the effect of l
 
 In patients with renovascular hypertension lisinopril has been shown to be well-tolerated and effective in reducing blood pressure [see Warnings and Precautions (5.3)].
 
-Pediatric Patients: In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 50 kg received either 0.625, 2.5 or 20 mg of lisinopril once daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of lisinopril once daily.
+Pediatric Patients:In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 50 kg received either 0.625, 2.5 or 20 mg of lisinopril once daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of lisinopril once daily.
 At the end of 2 weeks, lisinopril lowered trough blood pressure in a dose-dependent manner with antihypertensive efficacy demonstrated at doses > 1.25 mg (0.02 mg per kg).
 This effect was confirmed in a randomized withdrawal phase, where the diastolic pressure rose by about 9 mmHg more in patients randomized to placebo than compared to patients who remained on the middle and high doses of lisinopril.
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.

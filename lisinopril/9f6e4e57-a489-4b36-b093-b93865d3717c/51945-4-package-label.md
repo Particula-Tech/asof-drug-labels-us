@@ -2,7 +2,7 @@
 
 NDC 52652-3001-1
 
-Qbrelis® (lisinopril)
+Qbrelis ® (lisinopril)
 
 Oral Solution 1 mg/mL
 
