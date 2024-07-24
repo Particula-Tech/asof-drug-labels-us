@@ -87,7 +87,7 @@ Risk of expulsion was variable over the postpartum intervals through 52 weeks.
 Women who were breastfeeding were at 28% lower risk of IUD expulsion (adjusted HR=0.72, 95% CI: 0.64-0.80) compared to women who were not breastfeeding at time of insertion.
 Table 4 presents the IUD expulsion rates for LNG IUS stratified by breastfeeding status and postpartum interval.
 
-Table: Expulsion1 Rates for LNG IUS, by Breastfeeding Status and Postpartum Interval
+Table 4: Expulsion1 Rates for LNG IUS, by Breastfeeding Status and Postpartum Interval
 
 |  | Breastfeeding at time of insertion |  | Not breastfeeding at time of insertion |  |
 | --- | --- | --- | --- | --- |
