@@ -44,4 +44,4 @@ Adverse drug reactions (ADRs) reported in <1% of participants treated with EYLEA
 The following adverse reactions have been identified during postapproval use of aflibercept.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Eye disorders: retinal vasculitis and occlusive retinal vasculitis related to intravitreal injection with aflibercept (reported at a rate of 0.6 and 0.2 per 1 million injections, respectively, based on postmarketing experience from November 2011 until November 2023).
+Eye disorders: retinal vasculitis, occlusive retinal vasculitis related to intravitreal injection with aflibercept (reported at a rate of 0.6 and 0.2 per 1 million injections, respectively, based on postmarketing experience from November 2011 until November 2023) and scleritis.
