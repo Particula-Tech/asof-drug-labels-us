@@ -26,7 +26,7 @@ Inform the patient that typical symptoms associated with PML are diverse, progre
 
 Macular Edema
 
-Advise patients that fingolimod capsules may cause macular edema, and that they should contact their physician if they experience any changes in their vision.
+Advise patients that fingolimod capsules may cause macular edema, and that they should obtain an eye exam near the start of treatment with fingolimod capsules, have their eyes monitored periodically by an eye care professional while receiving therapy, and contact their healthcare provider if they experience any changes in their vision while taking fingolimod capsules.
 Inform patients with diabetes mellitus or a history of uveitis that their risk of macular edema is increased [see Warnings and Precautions (5.4)].
 
 Hepatic Effects
@@ -47,7 +47,7 @@ Fetal Risk
 
 - •Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
-- •Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod capsules and for two months after the final dose [see Use in Specific Populations (8.3)].
+- •Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod capsules and for 2 months after the final dose [see Use in Specific Populations (8.3)].
 
 Severe Increase in Disability After Stopping Fingolimod Capsules
 
@@ -56,10 +56,10 @@ Advise patients to contact their physician if they develop worsening symptoms of
 
 Malignancies
 
-Advise patients that basal cell carcinoma and melanoma are associated with use of fingolimod capsules.
+Advise patients that the risk of basal cell carcinoma and melanoma is increased with use of fingolimod capsules and that cases of squamous cell carcinoma, Merkel cell carcinoma, and Kaposi’s sarcoma have been reported.
 Advise patients that any suspicious skin lesions should be promptly evaluated.
 Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor.
-Inform patients that lymphoma has also occurred in patients receiving fingolimod capsules [see Warnings and Precautions (5.12)].
+Inform patients that lymphoma has also occurred in patients receiving fingolimodcapsules [see Warnings and Precautions (5.12)].
 
 Persistence of Fingolimod Capsules Effects After Drug Discontinuation
 
@@ -72,7 +72,7 @@ Advise patients to contact their physician if they have any symptoms associated 
 
 Pregnancy
 
-Instruct patients that if they are pregnant or plan to become pregnant while taking fingolimod they should inform their physician.
+Instruct patients that if they are pregnant or plan to become pregnant while taking fingolimod they should inform their physician [see Use in Specific Populations (8.1)].
 
 Medication Guide available at www.glenmarkpharma-us.com/medguides
 
@@ -87,4 +87,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-September 2023
+June 2024

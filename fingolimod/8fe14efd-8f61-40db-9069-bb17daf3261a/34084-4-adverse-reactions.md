@@ -84,7 +84,7 @@ Adverse reactions with fingolimod 0.5 mg in Study 2, the 1-year active-controlle
 
 Vascular Events
 
-Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received fingolimod doses (1.25 to 5 mg) higher than recommended for use in MS. Similar events have been reported with fingolimod in the postmarketing setting although a causal relationship has not been established.
+Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received fingolimod doses (1.25 mg to 5 mg) higher than recommended for use in MS. Similar events have been reported with fingolimod in the postmarketing setting although a causal relationship has not been established.
 
 Seizure
 
@@ -108,5 +108,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Infections: Infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
 - Musculoskeletal and connective tissue disorders: Arthralgia, myalgia
 - Nervous System Disorders: Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
-- Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
+
+Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, cutaneous T-cell lymphoma (including mycosis fungoides), Kaposi’s sarcoma, squamous cell carcinoma [see Warnings and Precautions (5.12)]
+
 - Skin and Subcutaneous Tissue Disorders: Hypersensitivity [see Warnings and Precautions (5.14)]

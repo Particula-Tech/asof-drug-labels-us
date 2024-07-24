@@ -16,6 +16,15 @@ Serum Transaminases (ALT and AST) and Total Bilirubin Levels
 
 Prior to starting treatment with fingolimod capsules (i.e., within 6 months), obtain serum transaminases [alanine transaminase (ALT) and aspartate transferase (AST)] and total bilirubin levels [see Warnings and Precautions (5.5)].
 
+Ophthalmic Assessment
+
+Obtain a baseline evaluation of the fundus, including the macula, near the start of the treatment with fingolimod capsules [see Warnings and Precautions (5.4)].
+
+Skin Examination
+
+Obtain a baseline skin examination prior to or shortly after initiation of fingolimod capsules.
+If a suspicious skin lesion is observed, it should be promptly evaluated [see Warnings and Precautions (5.12)].
+
 Prior Medications
 
 If patients are taking antineoplastic, immunosuppressive, or immune-modulating therapies, or if there is a history of prior use of these drugs, consider possible unintended additive immunosuppressive effects before initiating treatment with fingolimod capsules [see Warnings and Precautions (5.2), Drug Interactions (7.4)].
@@ -65,8 +74,8 @@ Continuous overnight ECG monitoring in a medical facility should be instituted:
 
 - •in patients that require pharmacologic intervention for symptomatic bradycardia.
   In these patients, the first-dose monitoring strategy should be repeated after the second dose of fingolimod capsules
-- •in patients with some preexisting heart and cerebrovascular conditions [see Warnings and Precautions (5.1)]
-- •in patients with a prolonged QTc interval before dosing or during 6-hour observation, or at additional risk for QT prolongation, or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes [see Warnings and Precautions (5.1), Drug Interactions (7.1)]
+- •in patients with some preexisting heart and cerebrovascular conditions [see Warnings and Precautions (5.1)];
+- •in patients with a prolonged QTc interval before dosing or during 6-hour observation, or at additional risk for QT prolongation, or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes [see Warnings and Precautions (5.1), Drug Interactions (7.1)];
 - •in patients receiving concurrent therapy with drugs that slow heart rate or AV conduction [see Drug Interactions (7.5)].
 
 ## 2.5 Monitoring After Reinitiation of Therapy Following Discontinuation
