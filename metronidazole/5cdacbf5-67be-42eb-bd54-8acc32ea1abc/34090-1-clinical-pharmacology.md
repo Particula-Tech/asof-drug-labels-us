@@ -65,7 +65,7 @@ The pharmacokinetic parameters for the individual drugs, when administered as se
 
 Table 3: Mean (%CV) Pharmacokinetic Parameters for Metronidazole, Tetracycline hydrochloride, and Bismuth Subcitrate Potassium in Healthy Volunteers (N=18)
 
-|  |  | Cmax (ng/mL) (%C.V.C.V. - Coefficient Variation) | AUCT (ng ∙ h/mL) (%C.V.) | AUC∞ (ng ∙ h/mL) (%C.V.) |
+|  |  | Cmax (ng/mL) (%C.V.C.V. – Coefficient Variation) | AUCT (ng ∙ h/mL) (%C.V.) | AUC∞ (ng ∙ h/mL) (%C.V.) |
 | --- | --- | --- | --- | --- |
 | Metronidazole | Metronidazole Capsule | 9044 (20) | 80289 (15) | 81849 (16) |
 |  | PYLERAPYLERA given as a single dose of 3 capsules | 8666.3 (22) | 83018 (17) | 84413 (17) |
@@ -92,7 +92,7 @@ Table 4: Mean PYLERA Pharmacokinetic Parameters in Fasted and Fed States (N=18)P
 | --- | --- | --- | --- | --- | --- | --- |
 |  | FED |  |  | FASTED |  |  |
 | Cmax (ng/mL) (%C.V.) | 6835.0 (13) | 515.8 (36) | 1.7 (61) | 8666.3 (22) | 773.8 (47) | 16.7 (202) |
-| Tmax (hours)Tmax is expressed as median (range) (range) | 3.0 (1.3 - 4.0) | 4.0 (2.5 - 5.0) | 3.5 (0.8 - 6.0) | 0.75 (0.5 - 3.5) | 3.3 (1.3 - 5.0) | 0.6 (0.5 - 1.7) |
+| Tmax (hours)Tmax is expressed as median (range) (range) | 3.0 (1.3 – 4.0) | 4.0 (2.5 – 5.0) | 3.5 (0.8 – 6.0) | 0.75 (0.5 – 3.5) | 3.3 (1.3 – 5.0) | 0.6 (0.5 – 1.7) |
 | AUC∞ (ng ∙ h/mL) (%C.V.) | 79225.6 (18) | 5840.1 (312) | 18.4 (116) | 84413.6 (17) | 9986.7 (49) | 56.5 (178) |
 
 Effect of Omeprazole on the Bioavailability of Bismuth
@@ -106,7 +106,7 @@ There is no clinical evidence to suggest that short-term exposure to bismuth Cma
 
 Table 5: Mean Bismuth Pharmacokinetic Parameters following PYLERA AdministrationPYLERA given as 3 capsules four times daily for 6 days with or without 20 mg omeprazole twice daily With and Without Omeprazole (N=34)
 
-|  | Mean | %C.V.C.V. - Coefficient Variation | Mean | %C.V. |
+|  | Mean | %C.V.C.V. – Coefficient Variation | Mean | %C.V. |
 | --- | --- | --- | --- | --- |
 | Parameter | Without omeprazole |  | With omeprazole |  |
 | Cmax (ng/mL) | 8.1 | 84 | 25.5 | 69 |

@@ -16,16 +16,15 @@ It is a soluble, complex bismuth salt of citric acid.
 The schematized empirical molecular formula of bismuth subcitrate potassium is Bi (Citrate)2K5∙3 H2O.
 The equivalent theoretical molecular formula is BiC12H14K5O17.
 The molecular mass of the theoretical molecular formula of a single unit of bismuth subcitrate potassium is 834.71.
-
 Metronidazole is a white to pale yellow crystalline powder.
 Metronidazole is 2-methyl-5-nitroimidazole-1-ethanol, with a molecular formula of C6H9N3O3 and the following structural formula:
 
-|  | Molecular weight: 171.2 |
-| --- | --- |
+| Molecular weight: 171.2 |
+| --- |
 
 Tetracycline hydrochloride is a yellow, odorless, crystalline powder.
 Tetracycline hydrochloride is stable in air, but exposure to strong sunlight causes it to darken.
 Tetracycline hydrochloride is (4S,4aS,5aS,6S,12aS)-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-penta-hydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide hydrochloride, with a molecular formula of C22H24N2O8∙HCl and the following structural formula:
 
-|  | Molecular weight: 480.90 |
-| --- | --- |
+| Molecular weight: 480.90 |
+| --- |

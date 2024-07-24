@@ -14,7 +14,7 @@ There were no adverse reactions leading to discontinuation of the study during t
 Adverse reactions with an incidence of ≥ 5% in OBMT group include abnormal feces, diarrhea, nausea, and headache.
 Adverse drug reactions with an incidence of ≥ 5% in OAC group include diarrhea, dysgeusia, dyspepsia, nausea and headache.
 
-Table 2 lists adverse reactions with an incidence of ≥ 1%, in either groups (OBMT vs OAC) and in order of decreasing incidence for the OBMT group.
+Table 2 lists adverse reactions with an incidence of ≥ 1%, in either group (OBMT vs OAC) and in order of decreasing incidence for the OBMT group.
 
 Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial, [n (%)]
 
@@ -60,7 +60,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - General disorders and administration site conditions: chest discomfort, fatigue
 - Infections and infestations: candidiasis, pseudomembranous colitis (Clostridium difficile colitis)
 - Nervous Systems: peripheral neuropathy
-- Skin and subcutaneous disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS syndrome (drug rash with eosinophilia and systemic symptoms)
+- Skin and subcutaneous disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS syndrome (drug rash with eosinophilia and systemic symptoms) [see Warnings and Precautions (5.5)]
 
 ## 6.3 Other Important Adverse Reactions from Labeling for the Individual Components of PYLERA
 
@@ -73,11 +73,11 @@ Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 Gastrointestinal disorders: Nausea, vomiting, diarrhea, abdominal pain, constipation, anorexia, metallic taste, furry tongue, glossitis, stomatitis and candida overgrowth.
 
-Hypersensitivity/Immune system disorders: Urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever [see Contraindications (4.6)].
+Hypersensitivity/Immune system disorders: Acute generalized exanthematous pustulosis (AGEP) [see Warnings and Precautions (5.5)], urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever [see Contraindications (4.6)].
 
 Metabolism and nutrition disorders: Pancreatitis.
 
-Nervous system disorders: Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, headache, syncope, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions (5.5)].
+Nervous system disorders: Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, headache, syncope, dizziness, vertigo, incoordination, ataxia, tinnitus, hearing impairment, hearing loss, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions (5.5)].
 
 Dermatologic disorders: Erythematous rash and pruritus.
 

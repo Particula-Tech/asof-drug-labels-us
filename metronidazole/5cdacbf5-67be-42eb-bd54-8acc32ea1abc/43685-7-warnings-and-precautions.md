@@ -25,7 +25,13 @@ This adverse reaction is more common during long-term use of the drug, but has b
 Enamel hypoplasia has also been reported.
 PYLERA, therefore, should not be used in this age group unless other drugs are not likely to be effective or are contraindicated [see Use in Specific Populations (8.4)].
 
-## 5.5 Central and Peripheral Nervous System Effects
+## 5.5 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
+Symptoms can be serious and potentially life threatening.
+If symptoms or signs of SCARs develop, discontinue PYLERA capsules immediately and institute appropriate therapy.
+
+## 5.6 Central and Peripheral Nervous System Effects
 
 Metronidazole: Convulsive seizures, encephalopathy, aseptic meningitis and peripheral neuropathy (including optic neuropathy) have been reported.
 Encephalopathy has been reported in association with cerebellar toxicity characterized by ataxia, dizziness, and dysarthria.
@@ -49,38 +55,37 @@ Effects have been reversible with discontinuation of bismuth therapy.
 
 The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of PYLERA therapy [see Adverse Reactions (6.3)].
 
-## 5.6 Development of Potential for Microbial Overgrowth
+## 5.7 Development of Potential for Microbial Overgrowth
 
 Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with metronidazole and requires treatment with an antifungal agent.
-
 As with other antibacterial drugs, use of tetracycline hydrochloride may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, discontinue PYLERA and institute appropriate therapy.
 
-## 5.7 Photosensitivity
+## 5.8 Photosensitivity
 
 Photosensitivity, manifested by an exaggerated sunburn reaction, has been observed in patients taking tetracycline [see Adverse Reactions (6.3)].
 Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs.
 Instruct patients taking PYLERA to avoid exposure to the sun or sun lamps.
 Discontinue treatment at the first evidence of skin erythema.
 
-## 5.8 Darkening of the Tongue and/or Black Stool
+## 5.9 Darkening of the Tongue and/or Black Stool
 
 Bismuth subcitrate potassium may cause temporary and harmless darkening of the tongue and/or black stools, generally reversible within several days after treatment is stopped [see Adverse Reactions (6.1)].
 Stool darkening should not be confused with melena.
 
-## 5.9 Use in Patients with Blood Dyscrasias
+## 5.10 Use in Patients with Blood Dyscrasias
 
 Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia.
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
 Total and differential leukocyte counts are recommended before and after therapy [see Adverse Reactions (6.3)].
 
-## 5.10 Increased Drug Plasma Concentrations in Patients with Hepatic Impairment
+## 5.11 Increased Drug Plasma Concentrations in Patients with Hepatic Impairment
 
 Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
 Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events.
 PYLERA is not recommended in patients with severe hepatic impairment (Child-Pugh C) [see Clinical Pharmacology (12.3)].
 
-## 5.11 Laboratory Test Interactions
+## 5.12 Laboratory Test Interactions
 
 Bismuth absorbs x-rays and may interfere with x-ray diagnostic procedures of the gastrointestinal tract.
 
@@ -92,14 +97,9 @@ Values of zero may be observed.
 All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide (NAD+ <=> NADH).
 Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7.
 
-## 5.12 Development of Drug Resistant Bacteria
+## 5.13 Development of Drug Resistant Bacteria
 
 Prescribing PYLERA in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
-
-## 5.13 Cutaneous Reactions
-
-Skin and subcutaneous disorders including Stevens-Johnson syndrome, toxic epidermal necrolysis and DRESS syndrome (drug rash with eosinophilia and systemic symptoms) have been reported.
-Discontinue treatment at the first evidence of a cutaneous reaction [see Adverse Reactions (6.2)].
 
 ## 5.14 Drug Interactions
 

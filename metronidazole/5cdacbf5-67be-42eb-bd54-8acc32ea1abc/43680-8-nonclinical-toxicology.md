@@ -25,8 +25,9 @@ Fertility studies have been conducted with male rats and mice with divergent res
 Metronidazole, at doses up to 400 mg/kg/day (approximately 3 times the indicated human dose based on mg/m2) for 28 days, failed to produce any adverse effects on fertility and testicular function in male rats.
 Rats treated with up to 400 mg/kg/day for 6 weeks or longer, showed severe degeneration of the seminiferous epithelium in the testes which was associated with a marked decrease in testicular spermatid counts and epididymal sperm counts and a marked decrease in fecundity.
 These effects were partially reversible.
+
 Fertility studies have been performed in male mice at doses up to six times the maximum recommended human dose based upon mg/m2 and have revealed no evidence of impaired fertility.
-Another fertility study was performed in male mice at oral doses of 500 mg/kg/day (approximately 2 times the indicated human dose based on mg/m²) for 14 days.
+Another fertility study was performed in male mice at oral doses of 500 mg/kg/day (approximately 2 times the indicated human dose based on mg/m2) for 14 days.
 Metronidazole significantly decreased testes and epididymides weight, decreased sperm viability, and increased the incidence of abnormal sperm.
 The viability of sperm was normal by 2 months after the start of the treatment.
 

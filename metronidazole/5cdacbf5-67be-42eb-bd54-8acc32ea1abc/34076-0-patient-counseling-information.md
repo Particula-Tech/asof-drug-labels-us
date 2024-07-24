@@ -8,6 +8,12 @@ Hypersensitivity
 
 Inform patients that PYLERA may cause allergic reactions and to discontinue PYLERA at the first sign of urticaria, erythematous rash, flushing, and fever or other symptoms of an allergic reaction [see Contraindications (4.7)].
 
+Severe Cutaneous Adverse Reactions
+
+Advise patients that PYLERA capsules may increase the risk of serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens- Johnson syndrome (SJS), and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Instruct the patient to be alert for skin rash, blisters, fever or other signs and symptoms of these hypersensitivity reactions.
+Advise patients to stop PYLERA capsules immediately if they develop any type of rash and seek medical attention [see Warnings and Precautions (5.5)].
+
 Central Nervous System Effects
 
 Inform patients of the risk of central and peripheral nervous system effects with PYLERA and to discontinue PYLERA and report immediately to their health-care provider if any neurologic symptoms occur [see Warnings and Precautions (5.5)].
