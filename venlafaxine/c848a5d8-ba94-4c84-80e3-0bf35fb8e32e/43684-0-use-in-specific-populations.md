@@ -32,7 +32,7 @@ Consider the risk of untreated depression when discontinuing or changing treatme
 
 #### Maternal Adverse Reactions
 
-Exposure to Effexor XR in mid to late pregnancy may increase the risk for preeclampsia, and exposure to Effexor XR in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.4)]
+Exposure to Effexor XR in mid to late pregnancy may increase the risk for preeclampsia, and exposure to Effexor XR in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.4)].
 
 #### Fetal/Neonatal Adverse Reactions
 

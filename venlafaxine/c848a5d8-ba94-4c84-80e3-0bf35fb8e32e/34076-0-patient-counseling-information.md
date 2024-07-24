@@ -78,4 +78,4 @@ Made in Ireland
 
 EFFEXOR XR is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
-UPJ:EFFXRXR:RX2
+UPJ:EFFXRXR:R1m
