@@ -1,0 +1,84 @@
+# 14 CLINICAL STUDIES
+
+## 14.1 Postherpetic Neuralgia
+
+NEURONTIN was evaluated for the management of postherpetic neuralgia (PHN) in two randomized, double-blind, placebo-controlled, multicenter studies.
+The intent-to-treat (ITT) population consisted of a total of 563 patients with pain for more than 3 months after healing of the herpes zoster skin rash (Table 6).
+
+TABLE 6.
+Controlled PHN Studies: Duration, Dosages, and Number of Patients
+
+| Study | Study Duration | Gabapentin (mg/day)Given in 3 divided doses (TID) Target Dose | Patients Receiving Gabapentin | Patients Receiving Placebo |
+| --- | --- | --- | --- | --- |
+| 1 | 8 weeks | 3600 | 113 | 116 |
+| 2 | 7 weeks | 1800, 2400 | 223 | 111 |
+| Total |  |  | 336 | 227 |
+
+Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
+Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.
+Dosages were then to be titrated in 600 to 1200 mg/day increments at 3- to 7-day intervals to the target dose over 3 to 4 weeks.
+Patients recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+A mean pain score during baseline of at least 4 was required for randomization.
+Analyses were conducted using the ITT population (all randomized patients who received at least one dose of study medication).
+
+Both studies demonstrated efficacy compared to placebo at all doses tested.
+
+The reduction in weekly mean pain scores was seen by Week 1 in both studies, and were maintained to the end of treatment.
+Comparable treatment effects were observed in all active treatment arms.
+Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of efficacy across all doses.
+Figures 1 and 2 show pain intensity scores over time for Studies 1 and 2.
+
+The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
+
+## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
+
+The effectiveness of NEURONTIN as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
+
+Evidence of effectiveness was obtained in three trials conducted in 705 patients (age 12 years and above) and one trial conducted in 247 pediatric patients (3 to 12 years of age).
+The patients enrolled had a history of at least 4 partial seizures per month in spite of receiving one or more antiepileptic drugs at therapeutic levels and were observed on their established antiepileptic drug regimen during a 12-week baseline period (6 weeks in the study of pediatric patients).
+In patients continuing to have at least 2 (or 4 in some studies) seizures per month, NEURONTIN or placebo was then added on to the existing therapy during a 12-week treatment period.
+Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the “responder rate”) and a derived measure called response ratio, a measure of change defined as (T - B)/(T + B), in which B is the patient’s baseline seizure frequency and T is the patient’s seizure frequency during treatment.
+Response ratio is distributed within the range -1 to +1.
+A zero value indicates no change while complete elimination of seizures would give a value of -1; increased seizure rates would give positive values.
+A response ratio of -0.33 corresponds to a 50% reduction in seizure frequency.
+The results given below are for all partial seizures in the intent-to-treat (all patients who received any doses of treatment) population in each study, unless otherwise indicated.
+
+One study compared NEURONTIN 1200 mg/day, in three divided doses with placebo.
+Responder rate was 23% (14/61) in the NEURONTIN group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
+Response ratio was also better in the NEURONTIN group (-0.199) than in the placebo group (-0.044), a difference that also achieved statistical significance.
+
+A second study compared primarily NEURONTIN 1200 mg/day, in three divided doses (N=101), with placebo (N=98).
+Additional smaller NEURONTIN dosage groups (600 mg/day, N=53; 1800 mg/day, N=54) were also studied for information regarding dose response.
+Responder rate was higher in the NEURONTIN 1200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
+The responder rate at 600 mg (17%) was also not significantly higher than in the placebo, but the responder rate in the 1800 mg group (26%) was statistically significantly superior to the placebo rate.
+Response ratio was better in the NEURONTIN 1200 mg/day group (-0.103) than in the placebo group (-0.022); but this difference was also not statistically significant (p = 0.224).
+A better response was seen in the NEURONTIN 600 mg/day group (-0.105) and 1800 mg/day group (-0.222) than in the 1200 mg/day group, with the 1800 mg/day group achieving statistical significance compared to the placebo group.
+
+A third study compared NEURONTIN 900 mg/day, in three divided doses (N=111), and placebo (N=109).
+An additional NEURONTIN 1200 mg/day dosage group (N=52) provided dose-response data.
+A statistically significant difference in responder rate was seen in the NEURONTIN 900 mg/day group (22%) compared to that in the placebo group (10%).
+Response ratio was also statistically significantly superior in the NEURONTIN 900 mg/day group (-0.119) compared to that in the placebo group (-0.027), as was response ratio in 1200 mg/day NEURONTIN (-0.184) compared to placebo.
+
+Analyses were also performed in each study to examine the effect of NEURONTIN on preventing secondarily generalized tonic-clonic seizures.
+Patients who experienced a secondarily generalized tonic-clonic seizure in either the baseline or in the treatment period in all three placebo-controlled studies were included in these analyses.
+There were several response ratio comparisons that showed a statistically significant advantage for NEURONTIN compared to placebo and favorable trends for almost all comparisons.
+
+Analysis of responder rate using combined data from all three studies and all doses (N=162, NEURONTIN; N=89, placebo) also showed a significant advantage for NEURONTIN over placebo in reducing the frequency of secondarily generalized tonic-clonic seizures.
+
+In two of the three controlled studies, more than one dose of NEURONTIN was used.
+Within each study, the results did not show a consistently increased response to dose.
+However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
+
+In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo-assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
+
+Although no formal analysis by gender has been performed, estimates of response (Response Ratio) derived from clinical trials (398 men, 307 women) indicate no important gender differences exist.
+There was no consistent pattern indicating that age had any effect on the response to NEURONTIN.
+There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
+
+A fourth study in pediatric patients age 3 to 12 years compared 25-35 mg/kg/day NEURONTIN (N=118) with placebo (N=127).
+For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the NEURONTIN group (-0.146) than for the placebo group (-0.079).
+For the same population, the responder rate for NEURONTIN (21%) was not significantly different from placebo (18%).
+
+A study in pediatric patients age 1 month to 3 years compared 40 mg/kg/day NEURONTIN (N=38) with placebo (N=38) in patients who were receiving at least one marketed antiepileptic drug and had at least one partial seizure during the screening period (within 2 weeks prior to baseline).
+Patients had up to 48 hours of baseline and up to 72 hours of double-blind video EEG monitoring to record and count the occurrence of seizures.
+There were no statistically significant differences between treatments in either the response ratio or responder rate.

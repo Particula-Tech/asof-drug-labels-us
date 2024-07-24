@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "NDA020235",
+    "NDA020882",
+    "NDA021129"
+  ],
+  "inn": "gabapentin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-281-01",
+    "58151-282-01",
+    "58151-283-01",
+    "58151-284-01",
+    "58151-285-01",
+    "58151-290-35"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "gabapentin",
+      "name": "Neurontin"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "gabapentin",
+      "name": "Neurontin"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gabapentin",
+      "name": "Neurontin"
+    }
+  ],
+  "setid": "97935fd9-1d4a-43b6-a5d9-de994591187b",
+  "source": "dailymed"
+}
