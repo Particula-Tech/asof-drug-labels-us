@@ -1,5 +1,15 @@
 # WARNINGS
 
+Hypersensitivity Reactions
+
+Hypersensitivity reactions including severe cutaneous adverse reactions (SCARs) can be serious and potentially life threatening (see ADVERSE REACTIONS).
+
+Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
+Symptoms can be serious and potentially life threatening.
+If symptoms or signs of SCARs develop, discontinue metronidazole immediately and institute appropriate therapy.
+
 Central and Peripheral Nervous System Effects
 
 Encephalopathy and peripheral neuropathy: Cases of encephalopathy and peripheral neuropathy (including optic neuropathy) have been reported with metronidazole.
@@ -59,6 +69,12 @@ Patients should be counseled that metronidazole should only be used to treat bac
 Metronidazole does not treat viral infections (e.g., the common cold).
 When metronidazole is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by metronidazole in the future.
+
+Severe Cutaneous Adverse Reactions
+
+Advise patients that metronidazole may increase the risk of serious and sometimes fatal dermatologic reactions, including TEN, SJS, and DRESS.
+Instruct the patient to be alert for skin rash, blisters, fever or other signs and symptoms of these hypersensitivity reactions.
+Advise patients to stop metronidazole tablets immediately if they develop any type of rash and seek medical attention.
 
 ## Drug Interactions
 
@@ -143,7 +159,7 @@ There was no evidence of harm to the fetus due to metronidazole.
 
 Metronidazole is present in human milk at concentrations similar to maternal serum levels, and infant serum levels can be close to or comparable to infant therapeutic levels.
 There are no data on the effects of metronidazole on milk production.
-Animal studies have shown the potential for tumorigenicity after oral metronidazole was administered chronically to rats and mice (see PRECAUTIONS,Carcinogenesis, Mutagenesis, Impairment of Fertility).
+Animal studies have shown the potential for tumorigenicity after oral metronidazole was administered chronically to rats and mice (see PRECAUTIONS, Carcinogenesis, Mutagenesis, Impairment of Fertility).
 This drug is not intended to be administered chronically; therefore, the clinical relevance of the findings of the animal studies is unclear.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for metronidazole and any potential adverse effects on the breastfed infant from metronidazole or from the underlying maternal condition.
 Alternatively, a nursing mother may choose to pump and discard human milk for the duration of metronidazole therapy, and for 48 hours after the last dose and feed her infant stored human milk or formula.
