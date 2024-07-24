@@ -35,7 +35,7 @@ The specific adverse reactions leading to discontinuation in at least 1% of the 
 
 Table 2: Treatment Discontinuation Due to Adverse Reactions in Placebo-Controlled Trials in MDD
 
-| Adverse Reaction Term | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
+| Adverse Reaction Term | Placebo(n=385) | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
 | --- | --- | --- | --- |
 | Rash | 0.0% | 2.4% | 0.9% |
 | Nausea | 0.3% | 0.8% | 1.8% |
@@ -109,6 +109,7 @@ Seasonal Affective Disorder
 
 In placebo-controlled clinical trials in SAD, 9% of patients treated with bupropion hydrochloride extended-release tablets (XL) and 5% of patients treated with placebo discontinued treatment because of adverse reactions.
 The adverse reactions leading to discontinuation in at least 1% of patients treated with bupropion and at a rate numerically greater than the placebo rate were insomnia (2% vs. <1%) and headache (1% vs. <1%).
+
 Table 4 summarizes the adverse reactions that occurred in patients treated with bupropion hydrochloride extended-release tablets (XL) for up to approximately 6 months in 3 placebo-controlled trials.
 These include reactions that occurred at an incidence of 2% or more and were more frequent than in the placebo group.
 
@@ -175,7 +176,7 @@ Chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photo
 
 Cardiovascular
 
-Postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
+Postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, pulmonary embolism, and Brugada pattern/syndrome.
 
 Digestive
 
@@ -206,9 +207,9 @@ Respiratory
 
 Bronchospasm and pneumonia.
 
-Skin
+Skin and Subcutaneous Tissue Disorders
 
-Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism, acute generalized exanthematous pustulosis.
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, acute generalized exanthematous pustulosis, and drug reaction with eosinophilias and system symptoms (DRESS).
 
 Special Senses
 

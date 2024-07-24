@@ -10,7 +10,7 @@ It has a bitter taste and produces the sensation of local anesthesia on the oral
 The structural formula is:
 
 Bupropion hydrochloride extended-release tablets (XL) are supplied for oral administration as 150 mg, white to off-white extended-release tablets.
-Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: colloidal silicon dioxide, ethylcellulose, hydroxypropyl cellulose, methacrylic acid copolymer, microcrystalline cellulose, stearic acid, talc, titanium dioxide, hydrochloric acid and triethyl citrate.
-The tablets are printed with edible black ink.
+Each tablet contains the labeled amount of bupropion hydrochloride, USP and the inactive ingredients: colloidal silicon dioxide, ethylcellulose, hydroxypropyl cellulose, methacrylic acid and ethyl acrylate copolymer, microcrystalline cellulose, stearic acid, talc, titanium dioxide, and triethyl citrate.
+The tablets are printed with edible black ink which consists of the following: hypromellose 2910, iron oxide black, and propylene glycol.
 
-Meets USP dissolution method 4.
+Meets USP dissolution method 28.
