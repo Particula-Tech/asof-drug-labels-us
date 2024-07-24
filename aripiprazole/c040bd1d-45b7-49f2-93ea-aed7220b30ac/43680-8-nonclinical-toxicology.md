@@ -13,8 +13,8 @@ In female rats, the incidence of mammary gland fibroadenomas was increased at a 
 
 An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be mediated by prolonged dopamine D2-receptor antagonism and hyperprolactinemia.
 Serum prolactin was not measured in the aripiprazole carcinogenicity studies.
-However, increases in serum prolactin levels were observed in female mice in a 13 week dietary study at the doses associated with mammary gland and pituitary tumors.
-Serum prolactin was not increased in female rats in 4 week and 13 week dietary studies at the dose associated with mammary gland tumors.
+However, increases in serum prolactin levels were observed in female mice in a 13-week dietary study at the doses associated with mammary gland and pituitary tumors.
+Serum prolactin was not increased in female rats in 4 week and 13-week dietary studies at the dose associated with mammary gland tumors.
 The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unclear.
 
 Mutagenesis
@@ -35,7 +35,7 @@ Disturbances in spermatogenesis were seen at 19 times the MRHD and prostate atro
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Aripiprazole produced retinal degeneration in albino rats in a 26 week chronic toxicity study at a dose of 60 mg/kg/day and in a 2 year carcinogenicity study at doses of 40 and 60 mg/kg/day which are 13 and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area.
+Aripiprazole produced retinal degeneration in albino rats in a 26-week chronic toxicity study at a dose of 60 mg/kg/day and in a 2-year carcinogenicity study at doses of 40 and 60 mg/kg/day which are 13 and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area.
 Evaluation of the retinas of albino mice and of monkeys did not reveal evidence of retinal degeneration.
 Additional studies to further evaluate the mechanism have not been performed.
 The relevance of this finding to human risk is unknown.

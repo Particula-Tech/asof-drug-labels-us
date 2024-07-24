@@ -1,12 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular Adverse Events, Including Stroke [see Warnings and Precautions (5.2)]
-- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings Precautions (5.3)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.3)]
 - Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
 - Tardive Dyskinesia [see Warnings and Precautions (5.5)]
 - Metabolic Changes [see Warnings and Precautions (5.6)]
@@ -20,23 +18,25 @@ The following adverse reactions are discussed in more detail in other sections o
 - Suicide [see Warnings and Precautions (5.14)]
 - Dysphagia [see Warnings and Precautions (5.15)]
 
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
 The most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
 
-ABILIFY has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer's type, Parkinson's disease, and alcoholism, and who had approximately 7,619 patient-years of exposure to oral ABILIFY and 749 patients with exposure to ABILIFY injection.
+ABILIFY has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, dementia of the Alzheimer's type, Parkinson's disease, and alcoholism, and who had approximately 7,619 patient-years of exposure to oral ABILIFY and 749 patients with exposure to aripiprazole injection.
 A total of 3,390 patients were treated with oral ABILIFY for at least 180 days and 1,933 patients treated with oral ABILIFY had at least one year of exposure.
 
-ABILIFY has been evaluated for safety in 1,686 pediatric patients (6 to 18 years) who participated in multiple-dose, clinical trials in schizophrenia, bipolar mania, autistic disorder, or Tourette's disorder and who had approximately 1,342 patient-years of exposure to oral ABILIFY.
+ABILIFY has been evaluated for safety in 1,686 pediatric patients (6 to 18 years) who participated in multiple-dose, clinical trials in schizophrenia, bipolar mania, autistic disorder, or Tourette's Disorder and who had approximately 1,342 patient-years of exposure to oral ABILIFY.
 A total of 959 pediatric patients were treated with oral ABILIFY for at least 180 days and 556 pediatric patients treated with oral ABILIFY had at least one year of exposure.
 
 The conditions and duration of treatment with ABILIFY (monotherapy and adjunctive therapy with antidepressants or mood stabilizers) included (in overlapping categories) double-blind, comparative and noncomparative open-label studies, inpatient and outpatient studies, fixed- and flexible-dose studies, and short- and longer-term exposure.
 
-## 6.1 Clinical Trials Experience
-
 Adult Patients with Schizophrenia
 
-The following findings are based on a pool of five placebo-controlled trials (four 4 week and one 6 week) in which oral ABILIFY was administered in doses ranging from 2 to 30 mg/day.
+The following findings are based on a pool of five placebo-controlled trials (four 4-week and one 6-week) in which oral ABILIFY was administered in doses ranging from 2 to 30 mg/day.
 
 Commonly Observed Adverse Reactions
 
@@ -50,11 +50,11 @@ The following findings are based on a pool of 3-week, placebo-controlled, bipola
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of ABILIFY in patients with bipolar mania (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 16.
+Commonly observed adverse reactions associated with the use of ABILIFY in patients with bipolar mania (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 14.
 
-Table 16: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Adult Patients with Bipolar Mania Treated with Oral ABILIFY Monotherapy
+Table 14: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Adult Patients with Bipolar Mania Treated with ABILIFY Monotherapy
 
-|  | ABILIFY (n=917) | Placebo (n=753) |
+| ABILIFY (n=917) | Placebo (n=753) |  |
 | --- | --- | --- |
 | Preferred Term | Percentage of Patients Reporting Reaction |  |
 | Akathisia | 13 | 4 |
@@ -65,13 +65,13 @@ Table 16: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Less Common Adverse Reactions in Adults
 
-Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with ABILIFY was greater than the incidence in patients treated with placebo in the combined dataset.
+Table 15 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with ABILIFY was greater than the incidence in patients treated with placebo in the combined dataset.
 
-Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral ABILIFY
+Table 15: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with ABILIFY
 
-| System Organ Class Preferred Term | ABILIFY (n=1,843) | Placebo (n=1,166) |
+| ABILIFY (n=1,843) | Placebo (n=1,166) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+| Preferred Term | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -125,13 +125,13 @@ The commonly observed adverse reactions associated with adjunctive ABILIFY and l
 
 Less Common Adverse Reactions in Adult Patients with Adjunctive Therapy in Bipolar Mania
 
-Table 18 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute treatment (up to 6 weeks), including only those reactions that occurred in 2% or more of patients treated with adjunctive ABILIFY (doses of 15 or 30 mg/day) and lithium or valproate and for which the incidence in patients treated with this combination was greater than the incidence in patients treated with placebo plus lithium or valproate.
+Table 16 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute treatment (up to 6 weeks), including only those reactions that occurred in 2% or more of patients treated with adjunctive ABILIFY (doses of 15 or 30 mg/day) and lithium or valproate and for which the incidence in patients treated with this combination was greater than the incidence in patients treated with placebo plus lithium or valproate.
 
-Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
+Table 16: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | ABILIFY + Li or ValLithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
+| ABILIFY + Li or ValLithium or Valproate (n=253) | Placebo + Li or Val (n=130) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+| Preferred Term | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 8 | 5 |
 | Vomiting | 4 | 0 |
@@ -158,7 +158,7 @@ The following findings are based on one 6-week, placebo-controlled trial in whic
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
-The incidence of discontinuation due to adverse reactions between ABILIFY-treated and placebo-treated pediatric patients (13 to 17 years) was 5% and 2%, respectively.
+The incidence of discontinuation due to adverse reactions between pediatric patients (13 to 17 years) treated with ABILIFY and treated with placebo was 5% and 2%, respectively.
 
 Commonly Observed Adverse Reactions
 
@@ -170,17 +170,17 @@ The following findings are based on one 4-week, placebo-controlled trial in whic
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
-The incidence of discontinuation due to adverse reactions between ABILIFY-treated and placebo-treated pediatric patients (10 to 17 years) was 7% and 2%, respectively.
+The incidence of discontinuation due to adverse reactions between pediatric patients (10 to 17 years) treated with ABILIFY and treated with placebo was 7% and 2%, respectively.
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with bipolar mania (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 19.
+Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with bipolar mania (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 17.
 
-Table 19: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral ABILIFY
+Table 17: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with ABILIFY
 
-| Preferred Term | ABILIFY (n=197) | Placebo (n=97) |
+| ABILIFY (n=197) | Placebo (n=97) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction |  |
+| Preferred Term | Percentage of Patients Reporting Reaction |  |
 | Somnolence | 23 | 3 |
 | Extrapyramidal Disorder | 20 | 3 |
 | Fatigue | 11 | 4 |
@@ -192,21 +192,21 @@ Table 19: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Pediatric Patients (6 to 17 years) with Autistic Disorder
 
-The following findings are based on two 8 week, placebo-controlled trials in which oral ABILIFY was administered in doses of 2 to 15 mg/day.
+The following findings are based on two 8-week, placebo-controlled trials in which oral ABILIFY was administered in doses of 2 to 15 mg/day.
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
-The incidence of discontinuation due to adverse reactions between ABILIFY-treated and placebo-treated pediatric patients (6 to 17 years) was 10% and 8%, respectively.
+The incidence of discontinuation due to adverse reactions between pediatric patients (6 to 17 years) treated with ABILIFY and treated with placebo was 10% and 8%, respectively.
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with autistic disorder (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 20.
+Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with autistic disorder (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 18.
 
-Table 20: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) with Autistic Disorder Treated with Oral ABILIFY
+Table 18: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) with Autistic Disorder Treated with ABILIFY
 
-| Preferred Term | ABILIFY (n=212) | Placebo (n=101) |
+| ABILIFY (n=212) | Placebo (n=101) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction |  |
+| Preferred Term | Percentage of Patients Reporting Reaction |  |
 | Sedation | 21 | 4 |
 | Fatigue | 17 | 2 |
 | Vomiting | 14 | 7 |
@@ -221,21 +221,21 @@ Table 20: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Pediatric Patients (6 to 18 years) with Tourette's Disorder
 
-The following findings are based on one 8 week and one 10 week, placebo-controlled trials in which oral ABILIFY was administered in doses of 2 to 20 mg/day.
+The following findings are based on one 8-week and one 10-week, placebo-controlled trials in which oral ABILIFY was administered in doses of 2 to 20 mg/day.
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
-The incidence of discontinuation due to adverse reactions between ABILIFY-treated and placebo-treated pediatric patients (6 to 18 years) was 7% and 1%, respectively.
+The incidence of discontinuation due to adverse reactions between pediatric patients (6 to 18 years) treated with ABILIFY and treated with placebo was 7% and 1%, respectively.
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with Tourette's disorder (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 21.
+Commonly observed adverse reactions associated with the use of ABILIFY in pediatric patients with Tourette's Disorder (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo) are shown in Table 19.
 
-Table 21: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) with Tourette's Disorder Treated with Oral ABILIFY
+Table 19: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) with Tourette's Disorder Treated with ABILIFY
 
-| Preferred Term | ABILIFY (n=121) | Placebo (n=72) |
+| ABILIFY (n=121) | Placebo (n=72) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction |  |
+| Preferred Term | Percentage of Patients Reporting Reaction |  |
 | Sedation | 13 | 6 |
 | Somnolence | 13 | 1 |
 | Nausea | 11 | 4 |
@@ -246,13 +246,13 @@ Table 21: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Less Common Adverse Reactions in Pediatric Patients (6 to 18 years) with Schizophrenia, Bipolar Mania, Autistic Disorder, or Tourette's Disorder
 
-Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, up to 8 weeks in autistic disorder, and up to 10 weeks in Tourette's disorder), including only those reactions that occurred in 2% or more of pediatric patients treated with ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with ABILIFY was greater than the incidence in patients treated with placebo.
+Table 20 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, up to 8 weeks in autistic disorder, and up to 10 weeks in Tourette's Disorder), including only those reactions that occurred in 2% or more of pediatric patients treated with ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with ABILIFY was greater than the incidence in patients treated with placebo.
 
-Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral ABILIFY
+Table 20: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with ABILIFY
 
-| System Organ Class Preferred Term | ABILIFY (n=732) | Placebo (n=370) |
+| ABILIFY (n=732) | Placebo (n=370) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of pediatric patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+| Preferred Term | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of pediatric patients treated with ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 0 |
 | Gastrointestinal Disorders |  |  |
@@ -300,7 +300,7 @@ The following findings are based on a pool of two placebo-controlled trials of p
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
-The incidence of discontinuation due to adverse reactions was 6% for adjunctive ABILIFY-treated patients and 2% for adjunctive placebo-treated patients.
+The incidence of discontinuation due to adverse reactions was 6% for patients treated with adjunctive ABILIFY and 2% for patients treated with adjunctive placebo.
 
 Commonly Observed Adverse Reactions
 
@@ -308,13 +308,13 @@ The commonly observed adverse reactions associated with the use of adjunctive AB
 
 Less Common Adverse Reactions in Adult Patients with Major Depressive Disorder
 
-Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks), including only those adverse reactions that occurred in 2% or more of patients treated with adjunctive ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with adjunctive ABILIFY was greater than the incidence in patients treated with adjunctive placebo in the combined dataset.
+Table 21 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks), including only those adverse reactions that occurred in 2% or more of patients treated with adjunctive ABILIFY (doses ≥2 mg/day) and for which the incidence in patients treated with adjunctive ABILIFY was greater than the incidence in patients treated with adjunctive placebo in the combined dataset.
 
-Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
+Table 21: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-| System Organ Class Preferred Term | ABILIFY + ADTAntidepressant Therapy (n=371) | Placebo + ADT (n=366) |
+| ABILIFY + ADTAntidepressant Therapy (n=371) | Placebo + ADT (n=366) |  |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with adjunctive ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+| Preferred Term | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with adjunctive ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -343,37 +343,6 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Restlessness | 12 | 2 |
 | Insomnia | 8 | 2 |
 
-Patients with Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
-
-The following findings are based on a pool of three placebo-controlled trials of patients with agitation associated with schizophrenia or bipolar mania in which ABILIFY injection was administered at doses of 5.25 to 15 mg.
-
-Commonly Observed Adverse Reactions
-
-There was one commonly observed adverse reaction (nausea) associated with the use of ABILIFY injection in patients with agitation associated with schizophrenia and bipolar mania (incidence of 5% or greater and ABILIFY incidence at least twice that for placebo).
-
-Less Common Adverse Reactions in Patients with Agitation Associated with Schizophrenia or Bipolar Mania
-
-Table 24 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (24-hour), including only those adverse reactions that occurred in 2% or more of patients treated with ABILIFY injection (doses ≥5.25 mg/day) and for which the incidence in patients treated with ABILIFY injection was greater than the incidence in patients treated with placebo in the combined dataset.
-
-Table 24: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients Treated with ABILIFY Injection
-
-| System Organ Class Preferred Term | ABILIFY (n=501) | Placebo (n=220) |
-| --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with ABILIFY injection, except adverse reactions which had an incidence equal to or less than placebo. |  |
-| Cardiac Disorders |  |  |
-| Tachycardia | 2 | <1 |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 9 | 3 |
-| Vomiting | 3 | 1 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Headache | 12 | 7 |
-| Dizziness | 8 | 5 |
-| Somnolence | 7 | 4 |
-| Sedation | 3 | 2 |
-| Akathisia | 2 | 0 |
-
 Dose-Related Adverse Reactions
 
 Schizophrenia
@@ -393,7 +362,7 @@ In a study of pediatric patients (6 to 17 years of age) with autistic disorder, 
 
 Tourette's Disorder
 
-In a study of pediatric patients (7 to 17 years of age) with Tourette's disorder, no common adverse reaction(s) had a dose response relationship.
+In a study of pediatric patients (7 to 17 years of age) with Tourette's Disorder, no common adverse reaction(s) had a dose response relationship.
 
 Extrapyramidal Symptoms
 
@@ -402,49 +371,44 @@ Schizophrenia
 In short-term, placebo-controlled trials in schizophrenia in adults, the incidence of reported EPS-related events, excluding events related to akathisia, for ABILIFY-treated patients was 13% vs. 12% for placebo; and the incidence of akathisia-related events for ABILIFY-treated patients was 8% vs. 4% for placebo.
 In the short-term, placebo-controlled trial of schizophrenia in pediatric patients (13 to 17 years), the incidence of reported EPS-related events, excluding events related to akathisia, for ABILIFY-treated patients was 25% vs. 7% for placebo; and the incidence of akathisia-related events for ABILIFY-treated patients was 9% vs. 6% for placebo.
 
-Objectively collected data from those trials was collected on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias).
-In the adult schizophrenia trials, the objectively collected data did not show a difference between ABILIFY and placebo, with the exception of the Barnes Akathisia Scale (ABILIFY, 0.08; placebo, –0.05).
-In the pediatric (13 to 17 years) schizophrenia trial, the objectively collected data did not show a difference between ABILIFY and placebo, with the exception of the Simpson Angus Rating Scale (ABILIFY, 0.24; placebo, –0.29).
+Objectively collected data from those trials was collected for EPS using the Simpson Angus Scale (SAS), for akathisia using the Barnes Akathisia Rating Scale (BARS), and for dyskinesias using the Assessments of Involuntary Movement Scales (AIMS).
+In the adult schizophrenia trials, the objectively collected data did not show a difference between ABILIFY and placebo, with the exception of the BARS (ABILIFY, 0.08; placebo, –0.05).
+In the pediatric (13 to 17 years) schizophrenia trial, the objectively collected data did not show a difference between ABILIFY and placebo, with the exception of the SAS (ABILIFY, 0.24; placebo, –0.29).
 
-Similarly, in a long-term (26 week), placebo-controlled trial of schizophrenia in adults, objectively collected data on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias) did not show a difference between ABILIFY and placebo.
+Similarly, in a long-term (26 week), placebo-controlled trial of schizophrenia in adults, objectively collected data for EPS using the SAS, for akathisia using the BARS, and for dyskinesias using the AIMS did not show a difference between ABILIFY and placebo.
 
 Bipolar Mania
 
 In the short-term, placebo-controlled trials in bipolar mania in adults, the incidence of reported EPS-related events, excluding events related to akathisia, for monotherapy ABILIFY-treated patients was 16% vs. 8% for placebo and the incidence of akathisia-related events for monotherapy ABILIFY-treated patients was 13% vs. 4% for placebo.
-In the 6 week, placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive ABILIFY-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive ABILIFY-treated patients was 19% vs. 5% for adjunctive placebo.
-In the short-term, placebo-controlled trial in bipolar mania in pediatric (10 to 17 years) patients, the incidence of reported EPS-related events, excluding events related to akathisia, for ABILIFY-treated patients was 26% vs. 5% for placebo and the incidence of akathisia-related events for ABILIFY-treated patients was 10% vs. 2% for placebo.
+In the 6-week, placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive ABILIFY-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive ABILIFY-treated patients was 19% vs. 5% for adjunctive placebo.
+In the short-term, placebo-controlled trial in bipolar mania in pediatric (10 to 17 years) patients, the incidence of reported EPS-related events, excluding events related to akathisia, for ABILIFY-treated patients treated with was 26% vs. 5% for placebo and the incidence of akathisia-related events for ABILIFY-treated patients was 10% vs. 2% for placebo.
 
-In the adult bipolar mania trials with monotherapy ABILIFY, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between ABILIFY and placebo (ABILIFY, 0.50; placebo, –0.01 and ABILIFY, 0.21; placebo, –0.05).
-Changes in the Assessments of Involuntary Movement Scales were similar for the ABILIFY and placebo groups.
-In the bipolar mania trials with ABILIFY as adjunctive therapy with either lithium or valproate, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive ABILIFY and adjunctive placebo (ABILIFY, 0.73; placebo, 0.07 and ABILIFY, 0.30; placebo, 0.11).
-Changes in the Assessments of Involuntary Movement Scales were similar for adjunctive ABILIFY and adjunctive placebo.
-In the pediatric (10 to 17 years), short-term, bipolar mania trial, the Simpson Angus Rating Scale showed a significant difference between ABILIFY and placebo (ABILIFY, 0.90; placebo, −0.05).
-Changes in the Barnes Akathisia Scale and the Assessments of Involuntary Movement Scales were similar for the ABILIFY and placebo groups.
+In the adult bipolar mania trials with monotherapy ABILIFY, the SAS and the BARS showed a significant difference between ABILIFY and placebo (ABILIFY, 0.50; placebo, –0.01 and ABILIFY, 0.21; placebo, –0.05).
+Changes in the AIMS were similar for the ABILIFY and placebo groups.
+In the bipolar mania trials with ABILIFY as adjunctive therapy with either lithium or valproate, the SAS and the BARS showed a significant difference between adjunctive ABILIFY and adjunctive placebo (ABILIFY, 0.73; placebo, 0.07 and ABILIFY, 0.30; placebo, 0.11).
+Changes in the AIMS were similar for adjunctive ABILIFY and adjunctive placebo.
+In the pediatric (10 to 17 years), short-term, bipolar mania trial, the SAS showed a significant difference between ABILIFY and placebo (ABILIFY, 0.90; placebo, −0.05).
+Changes in the BARS and the AIMS were similar for the ABILIFY and placebo groups.
 
 Major Depressive Disorder
 
 In the short-term, placebo-controlled trials in major depressive disorder, the incidence of reported EPS-related events, excluding events related to akathisia, for adjunctive ABILIFY-treated patients was 8% vs. 5% for adjunctive placebo-treated patients; and the incidence of akathisia-related events for adjunctive ABILIFY-treated patients was 25% vs. 4% for adjunctive placebo-treated patients.
 
-In the major depressive disorder trials, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive ABILIFY and adjunctive placebo (ABILIFY, 0.31; placebo, 0.03 and ABILIFY, 0.22; placebo, 0.02).
-Changes in the Assessments of Involuntary Movement Scales were similar for the adjunctive ABILIFY and adjunctive placebo groups.
+In the major depressive disorder trials, the SAS and the BARS showed a significant difference between adjunctive ABILIFY and adjunctive placebo (ABILIFY, 0.31; placebo, 0.03 and ABILIFY, 0.22; placebo, 0.02).
+Changes in the AIMS were similar for the adjunctive ABILIFY and adjunctive placebo groups.
 
 Autistic Disorder
 
 In the short-term, placebo-controlled trials in autistic disorder in pediatric patients (6 to 17 years), the incidence of reported EPS-related events, excluding events related to akathisia, for ABILIFY-treated patients was 18% vs. 2% for placebo and the incidence of akathisia-related events for ABILIFY-treated patients was 3% vs. 9% for placebo.
 
-In the pediatric (6 to 17 years) short-term autistic disorder trials, the Simpson Angus Rating Scale showed a significant difference between ABILIFY and placebo (ABILIFY, 0.1; placebo, –0.4).
-Changes in the Barnes Akathisia Scale and the Assessments of Involuntary Movement Scales were similar for the ABILIFY and placebo groups.
+In the pediatric (6 to 17 years) short-term autistic disorder trials, the SAS showed a significant difference between ABILIFY and placebo (ABILIFY, 0.1; placebo, –0.4).
+Changes in the BARS and the AIMS were similar for the ABILIFY and placebo groups.
 
 Tourette's Disorder
 
-In the short-term, placebo-controlled trials in Tourette's disorder in pediatric patients (6 to 18 years), the incidence of reported EPS-related events, excluding events related to akathisia, for ABILIFY-treated patients was 7% vs. 6% for placebo and the incidence of akathisia-related events for ABILIFY-treated patients was 4% vs. 6% for placebo.
+In the short-term, placebo-controlled trials in Tourette's Disorder in pediatric patients (6 to 18 years), the incidence of reported EPS-related events, excluding events related to akathisia, for ABILIFY-treated patients was 7% vs. 6% for placebo and the incidence of akathisia-related events for ABILIFY-treated patients was 4% vs. 6% for placebo.
 
-In the pediatric (6 to 18 years) short-term Tourette's disorder trials, changes in the Simpson Angus Rating Scale, Barnes Akathisia Scale and Assessments of Involuntary Movement Scale were not clinically meaningfully different for ABILIFY and placebo.
-
-Agitation Associated with Schizophrenia or Bipolar Mania
-
-In the placebo-controlled trials in patients with agitation associated with schizophrenia or bipolar mania, the incidence of reported EPS-related events excluding events related to akathisia for ABILIFY-treated patients was 2% vs. 2% for placebo and the incidence of akathisia-related events for ABILIFY-treated patients was 2% vs. 0% for placebo.
-Objectively collected data on the Simpson Angus Rating Scale (for EPS) and the Barnes Akathisia Scale (for akathisia) for all treatment groups did not show a difference between ABILIFY and placebo.
+In the pediatric (6 to 18 years) short-term Tourette's Disorder trials, changes in the SAS, BARS and AIMS were not clinically meaningfully different for ABILIFY and placebo.
 
 Dystonia
 
@@ -457,19 +421,19 @@ Additional Findings Observed in Clinical Trials
 
 Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
 
-The adverse reactions reported in a 26 week, double-blind trial comparing oral ABILIFY and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for ABILIFY vs. 2% (3/153) for placebo].
+The adverse reactions reported in a 26-week, double-blind trial comparing oral ABILIFY and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for ABILIFY vs. 2% (3/153) for placebo].
 In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
 Tremor infrequently led to discontinuation (<1%) of ABILIFY.
 In addition, in a long-term (52 weeks), active-controlled study, the incidence of tremor was 5% (40/859) for ABILIFY.
 A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
 
-Other Adverse Reactions Observed During Clinical Trial Evaluation of ABILIFY
+Other Adverse Reactions Observed During the Premarketing Evaluation of ABILIFY
 
 The following listing does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
 
 Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients:
 
-Adults - Oral Administration
+Adults
 
 - Blood and Lymphatic System Disorders: rare – thrombocytopenia
 - Cardiac Disorders: infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
@@ -479,18 +443,18 @@ Adults - Oral Administration
 - Hepatobiliary Disorders: rare – hepatitis, jaundice
 - Immune System Disorders: rare – hypersensitivity
 - Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heat stroke
-- Investigations: frequent – blood prolactin decreased, weight decreased, infrequent – hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare –blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+- Investigations: frequent – blood prolactin decreased, weight decreased, infrequent – hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 - Metabolism and Nutrition Disorders: frequent – anorexia; rare – hypokalemia, hyponatremia, hypoglycemia
 - Musculoskeletal and Connective Tissue Disorders: infrequent – muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
 - Nervous System Disorders: infrequent – parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients – choreoathetosis
-- Psychiatric Disorders: infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
+- Psychiatric Disorders: infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleepwalking
 - Renal and Urinary Disorders: rare – urinary retention, nocturia
-- Reproductive System and Breast Disorders: infrequent – erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
+- Reproductive System and Breast Disorders: infrequent – erectile dysfunction; rare – gynecomastia, menstruation irregular, amenorrhea, breast pain, priapism
 - Respiratory, Thoracic, and Mediastinal Disorders: infrequent – nasal congestion, dyspnea
 - Skin and Subcutaneous Tissue Disorders: infrequent – rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare – urticaria
 - Vascular Disorders: infrequent – hypotension, hypertension
 
-Pediatric Patients - Oral Administration
+Pediatric Patients
 
 Most adverse events observed in the pooled database of 1,686 pediatric patients, aged 6 to 18 years, were also observed in the adult population.
 Additional adverse reactions observed in the pediatric population are listed below.
@@ -499,19 +463,10 @@ Additional adverse reactions observed in the pediatric population are listed bel
 - Gastrointestinal Disorders: infrequent – tongue dry, tongue spasm
 - Investigations: frequent – blood insulin increased
 - Nervous System Disorders: infrequent – sleep talking
-- Renal and Urinary Disorders frequent – enuresis
+- Renal and Urinary Disorders: frequent – enuresis
 - Skin and Subcutaneous Tissue Disorders: infrequent – hirsutism
-
-Adults - Intramuscular Injection
-
-Most adverse reactions observed in the pooled database of 749 adult patients treated with ABILIFY injection, were also observed in the adult population treated with oral ABILIFY.
-Additional adverse reactions observed in the ABILIFY injection population are listed below.
-
-General Disorders and Administration Site Conditions:
-
-≥1/100 patients - injection site reaction; ≥1/1,000 patients and <1/100 patients - venipuncture site bruise
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of ABILIFY.
+The following adverse reactions have been identified during postapproval use of ABILIFY.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), blood glucose fluctuation, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hiccups, oculogyric crisis, and pathological gambling.

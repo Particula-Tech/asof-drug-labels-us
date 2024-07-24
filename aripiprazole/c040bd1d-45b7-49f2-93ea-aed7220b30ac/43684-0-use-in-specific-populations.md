@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ABILIFY, during pregnancy.
-Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
@@ -13,8 +13,8 @@ Neonates exposed to antipsychotic drugs, including ABILIFY, during the third tri
 Overall available data from published epidemiologic studies of pregnant women exposed to aripiprazole have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia, bipolar I disorder, or major depressive disorder, and with exposure to antipsychotics, including ABILIFY, during pregnancy (see Clinical Considerations).
 
-In animal reproduction studies, oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 19 times, respectively, the maximum recommended human dose (MRHD) of 30 mg/day based on mg/m2 body surface area, produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
-Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the MRHD based on mg/m2 body surface area, produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
+In animal reproduction studies, aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 19 times, respectively, the maximum recommended human dose (MRHD) of 30 mg/day based on mg/m2 body surface area, produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
+Aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the MRHD based on mg/m2 body surface area, produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -44,7 +44,7 @@ Data
 Human Data
 
 Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
-A retrospective study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+A retrospective study from a Medicaid database of 9,258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
 
 Animal Data
 
@@ -87,12 +87,12 @@ The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patie
 
 Schizophrenia
 
-Safety and effectiveness in pediatric patients with schizophrenia were established in a 6 week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
+Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Bipolar I Disorder
 
-Safety and effectiveness in pediatric patients with bipolar mania were established in a 4 week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
@@ -100,15 +100,15 @@ However, such efficacy and lack of pharmacokinetic interaction between aripipraz
 
 Irritability Associated with Autistic Disorder
 
-Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8 week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see Indications and Usage (1), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
+Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8-week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see Indications and Usage (1), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
 A maintenance trial was conducted in pediatric patients (6 to 17 years of age) with irritability associated with autistic disorder.
 The first phase of this trial was an open-label, flexibly dosed (aripiprazole 2 to 15 mg/day) phase in which patients were stabilized (defined as >25% improvement on the ABC-I subscale, and a CGI-I rating of "much improved" or "very much improved") on ABILIFY for 12 consecutive weeks.
-Overall, 85 patients were stabilized and entered the second, 16 week, double-blind phase where they were randomized to either continue ABILIFY treatment or switch to placebo.
+Overall, 85 patients were stabilized and entered the second, 16-week, double-blind phase where they were randomized to either continue ABILIFY treatment or switch to placebo.
 In this trial, the efficacy of ABILIFY for the maintenance treatment of irritability associated with autistic disorder was not established.
 
 Tourette's Disorder
 
-Safety and effectiveness of aripiprazole in pediatric patients with Tourette's Disorder were established in one 8 week (aged 7 to 17 years) and one 10 week trial (aged 6 to 18 years) in 194 pediatric patients [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Clinical Studies (14.5)].
+Safety and effectiveness of aripiprazole in pediatric patients with Tourette's Disorder were established in one 8-week (aged 7 to 17 years) and one 10-week trial (aged 6 to 18 years) in 194 pediatric patients [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Clinical Studies (14.5)].
 Maintenance efficacy in pediatric patients has not been systematically evaluated.
 
 Juvenile Animal Studies
@@ -119,29 +119,26 @@ In addition, delayed sexual maturation was observed in males.
 At all doses and in a dose-dependent manner, impaired memory and learning, increased motor activity, and histopathology changes in the pituitary (atrophy), adrenals (adrenocortical hypertrophy), mammary glands (hyperplasia and increased secretion), and female reproductive organs (vaginal mucification, endometrial atrophy, decrease in ovarian corpora lutea) were observed.
 The changes in female reproductive organs were considered secondary to the increase in prolactin serum levels.
 A No Observed Adverse Effect Level (NOAEL) could not be determined and, at the lowest tested dose of 10 mg/kg/day, there is no safety margin relative to the systemic exposures (AUC0-24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day.
-All drug-related effects were reversible after a 2 month recovery period, and most of the drug effects in juvenile rats were also observed in adult rats from previously conducted studies.
+All drug-related effects were reversible after a 2-month recovery period, and most of the drug effects in juvenile rats were also observed in adult rats from previously conducted studies.
 
 Aripiprazole in juvenile dogs (2 months old) caused CNS clinical signs of tremors, hypoactivity, ataxia, recumbency and limited use of hind limbs when administered orally for 6 months at 3, 10, 30 mg/kg/day.
 Mean body weight and weight gain were decreased up to 18% in females in all drug groups relative to control values.
 A NOAEL could not be determined and, at the lowest tested dose of 3 mg/kg/day, there is no safety margin relative to the systemic exposures (AUC0-24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day.
-All drug-related effects were reversible after a 2 month recovery period.
+All drug-related effects were reversible after a 2-month recovery period.
 
 ## 8.5 Geriatric Use
 
 No dosage adjustment is recommended for elderly patients [see Boxed Warning, Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 Of the 13,543 patients treated with oral ABILIFY in clinical trials, 1,073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-Placebo-controlled studies of oral ABILIFY in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
-
-Of the 749 patients treated with ABILIFY injection in clinical trials, 99 (13%) were ≥65 years old and 78 (10%) were ≥75 years old.
-Placebo-controlled studies of ABILIFY injection in patients with agitation associated with schizophrenia or bipolar mania did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients.
+Placebo-controlled studies of ABILIFY in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 
 ABILIFY is not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 8.6 CYP2D6 Poor Metabolizers
 
 Dosage adjustment is recommended in known CYP2D6 poor metabolizers due to high aripiprazole concentrations.
-Approximately 8% of Caucasians and 3 to 8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Approximately 8% of Caucasians and 3 to 8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic and Renal Impairment
 

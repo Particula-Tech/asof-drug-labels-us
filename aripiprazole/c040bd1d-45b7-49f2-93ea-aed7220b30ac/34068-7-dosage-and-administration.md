@@ -9,7 +9,7 @@ ABILIFY has been systematically evaluated and shown to be effective in a dose ra
 Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see Clinical Studies (14.1)].
 
 Maintenance Treatment: Maintenance of efficacy in schizophrenia was demonstrated in a trial involving patients with schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
-These patients were discontinued from those medications and randomized to either ABILIFY 15 mg/day or placebo, and observed for relapse [see Clinical Studies (14.1)].
+These patients were discontinued from those medications and randomized to either ABILIFY 15 mg/day or placebo and observed for relapse [see Clinical Studies (14.1)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 Adolescents
@@ -79,47 +79,14 @@ Dosage adjustments should occur gradually in increments of 5 mg/day at intervals
 
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
-## 2.6 Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
+## 2.6 Dosage Adjustments for Cytochrome P450 Considerations
 
-Adults
-
-The recommended dose in these patients is 9.75 mg.
-The recommended dosage range is 5.25 to 15 mg.
-No additional benefit was demonstrated for 15 mg compared to 9.75 mg.
-A lower dose of 5.25 mg may be considered when clinical factors warrant.
-If agitation warranting a second dose persists following the initial dose, cumulative doses up to a total of 30 mg/day may be given.
-However, the efficacy of repeated doses of ABILIFY injection in agitated patients has not been systematically evaluated in controlled clinical trials.
-The safety of total daily doses greater than 30 mg or injections given more frequently than every 2 hours have not been adequately evaluated in clinical trials [see Clinical Studies (14.6)].
-
-If ongoing ABILIFY therapy is clinically indicated, oral ABILIFY in a range of 10 to 30 mg/day should replace ABILIFY injection as soon as possible [see Dosage and Administration (2.1 and 2.2)].
-
-Administration of ABILIFY Injection
-
-To administer ABILIFY Injection, draw up the required volume of solution into the syringe as shown in Table 1.
-Discard any unused portion.
-
-Table 1: ABILIFY Injection Dosing Recommendations
-
-| Single-Dose | Required Volume of Solution |
-| --- | --- |
-| 5.25 mg | 0.7 mL |
-| 9.75 mg | 1.3 mL |
-| 15 mg | 2 mL |
-
-ABILIFY Injection is intended for intramuscular use only.
-Do not administer intravenously or subcutaneously.
-Inject slowly, deep into the muscle mass.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-## 2.7 Dosage Adjustments for Cytochrome P450 Considerations
-
-Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 2).
+Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 1).
 When the coadministered drug is withdrawn from the combination therapy, ABILIFY dosage should then be adjusted to its original level.
 When the coadministered CYP3A4 inducer is withdrawn, ABILIFY dosage should be reduced to the original level over 1 to 2 weeks.
 Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
 
-Table 2: Dose Adjustments for ABILIFY in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
+Table 1: Dose Adjustments for ABILIFY in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, CYP3A4 Inhibitors, and/or CYP3A4 Inducers
 
 | Factors | Dosage Adjustments for ABILIFY |
 | --- | --- |
@@ -130,12 +97,3 @@ Table 2: Dose Adjustments for ABILIFY in Patients who are known CYP2D6 Poor Meta
 | Strong CYP3A4 inducers (e.g., carbamazepine, rifampin) | Double usual dose over 1 to 2 weeks |
 
 When adjunctive ABILIFY is administered to patients with major depressive disorder, ABILIFY should be administered without dosage adjustment as specified in Dosage and Administration (2.3).
-
-## 2.8 Dosing of Oral Solution
-
-The oral solution can be substituted for tablets on a mg-per-mg basis up to the 25 mg dose level.
-Patients receiving 30 mg tablets should receive 25 mg of the solution [see Clinical Pharmacology (12.3)].
-
-## 2.9 Dosing of Orally Disintegrating Tablets
-
-The dosing for ABILIFY Orally Disintegrating Tablets is the same as for the oral tablets [see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)].
