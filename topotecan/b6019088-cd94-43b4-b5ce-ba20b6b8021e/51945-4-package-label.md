@@ -1,17 +1,37 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Topotecan 4 mg Single Dose Vial Label
+PRINCIPAL DISPLAY - Topotecan 4 mg Single Dose Vial Label
 
-Topotecan Hydrochloride for Injection 4 mg (base) per vial For intravenous use.
+NDC 63323-762-10 760210
 
-MUST BE DILUTED.
-Single Dose Vial Rx only
+Topotecan
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Topotecan 4 mg Single Dose Vial Carton Panel
+Hydrochloride
 
-Topotecan Hydrochloride for Injection 4 mg (base) per vial
+for Injection, USP
+
+4 mg (base) per vial
 
 For intravenous use.
 
 MUST BE DILUTED.
-Cytotoxic agent.
 
 Single Dose Vial Rx only
+
+PRINCIPAL DISPLAY - Topotecan 4 mg Single Dose Vial Individual Carton
+
+NDC 63323-762-10 760210
+
+Topotecan Hydrochloride
+
+for Injection, USP
+
+4 mg (base) per vial
+
+For intravenous use.
+
+MUST BE DILUTED.
+
+Cytotoxic agent.
+
+Single Dose Vial
+
+Rx only
