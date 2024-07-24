@@ -48,9 +48,7 @@ Baxter Healthcare Corporation
 
 Deerfield, IL 60015 USA U.S. License no. 0140
 
-Code 2G3322 PL 2501 Plastic
-
-Product of USA 07-34-00-0510
+Code 2G3322 Product of USA 07-34-00-2292
 
 NDC 0338-0126-12
 
