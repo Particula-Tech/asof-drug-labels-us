@@ -57,7 +57,6 @@ Initiating Treatment with Morphine Sulfate Oral Solution Adults: Do not initiate
 The recommended dosage to initiate treatment with morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) in opioid-tolerant adults is 10 mg to 20 mg every 4 hours as needed for pain.
 
 Conversion from Parenteral Morphine to Morphine Sulfate Oral Solution For conversion from parenteral morphine to morphine sulfate oral solution, anywhere from 3 to 6 mg of oral morphine sulfate may be required to provide pain relief equivalent to 1 mg of parenteral morphine.
-
 Conversion from Other Opioids to Morphine Sulfate Oral Solution There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of morphine sulfate oral solution.
 It is safer to underestimate a patient’s 24-hour morphine sulfate oral solution dosage than to overestimate the 24-hour morphine sulfate oral solution dosage and manage an adverse reaction due to overdose.

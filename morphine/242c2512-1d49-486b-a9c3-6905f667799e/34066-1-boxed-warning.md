@@ -1,7 +1,5 @@
 # WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF MORPHINE SULFATE ORAL SOLUTION
 
-WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF MORPHINE SULFATE ORAL SOLUTION
-
 Risk of Medication Errors Ensure accuracy when prescribing, dispensing, and administering morphine sulfate oral solution.
 Dosing errors due to confusion between mg and mL, and other morphine sulfate oral solutions of different concentrations can result in accidental overdose and death [see Dosage and Administration (2.1), Warnings and Precautions (5.1)].
 
