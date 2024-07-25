@@ -4,7 +4,7 @@
 
 Zolpidem is a GABA A receptor positive modulator presumed to exert its therapeutic effects in the short-term treatment of insomnia through binding to the benzodiazepine site of α1 subunit containing GABA A receptors, increasing the frequency of chloride channel opening resulting in the inhibition of neuronal excitation.
 
-## 12.2 Pharmacodynanamics
+## 12.2 Pharmacodynamics
 
 Zolpidem binds to GABA A receptors with greater affinity for α1 subunit relative to α2 and α3 subunit containing receptors.
 Zolpidem has no appreciable binding affinity for α5 subunit containing GABA A receptors.
@@ -35,14 +35,14 @@ This recommendation is based on several studies in which the mean C max, T 1/2, 
 In one study of eight elderly subjects (>70 years), the means for C max, T 1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng·hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Zolpidem tartrate tablets did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
-Hepatic impairment
+Hepatic Impairment
 
 The pharmacokinetics of zolpidem tartrate tablets in eight patients with chronic hepatic insufficiency was compared to results in healthy subjects.
 Following a single 20 mg oral zolpidem tartrate dose, mean C max and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng·hr/mL) higher, respectively, in hepatically compromised patients.
 T max did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Use in Specific Populations (8.7)].
 
-Renal impairment
+Renal Impairment
 
 The pharmacokinetics of zolpidem tartrate was studied in 11 patients with end-stage renal failure (mean Cl Cr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for C max, T max, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
