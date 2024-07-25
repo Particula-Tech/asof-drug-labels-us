@@ -35,8 +35,8 @@ In the flexible-dose clinical trials, the mean daily dose administered was appro
 
 Maintenance Treatment (as an adjunct to lithium or valproate)
 
-1. Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg–80 mg twice daily with food.
-   Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies (14.2)].
+Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg–80 mg twice daily with food.
+Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies (14.2)].
 
 ## 2.4 Acute Treatment of Agitation in Schizophrenia
 
