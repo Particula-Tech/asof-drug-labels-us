@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Angioedema [see Warnings and Precautions (5.5)]
 - •Fluid accumulation and impairment of wound healing [see Warnings and Precautions (5.6)]
 - •Hypertriglyceridemia, hypercholesterolemia [see Warnings and Precautions (5.7)]
-- •Decline in renal function in long-term combination of cyclosporine with sirolimus[see Warnings and Precautions (5.8)]
+- •Decline in renal function in long-term combination of cyclosporine with sirolimus [see Warnings and Precautions (5.8)]
 - •Proteinuria [see Warnings and Precautions (5.9)]
 - •Interstitial lung disease [see Warnings and Precautions (5.11)]
 - •Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)]
@@ -44,10 +44,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥20% IN AT LEAST ONE OF THE SIROLIMUS TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)Patients received cyclosporine and corticosteroids.
 
-| Adverse Reaction | (n = 218) | (n = 208) | (n = 124) |
-| --- | --- | --- | --- |
 |  | ––– Sirolimus Oral Solution––– |  |  |
+| --- | --- | --- | --- |
 |  | 2 mg/day | 5 mg/day | Placebo |
+| Adverse Reaction | (n = 218) | (n = 208) | (n = 124) |
 | Peripheral edema | 54 | 58 | 48 |
 | Hypertriglyceridemia | 45 | 57 | 23 |
 | Hypertension | 45 | 49 | 48 |
@@ -104,9 +104,9 @@ At 24 months (Study 1) and 36 months (Study 2) post-transplant, there were no si
 
 TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
-| Malignancy | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Sirolimus Oral Solution 2 mg/day |  | Sirolimus Oral Solution 5 mg/day |  | Azathioprine 2–3 mg/kg/day | Placebo |
+| --- | --- | --- | --- | --- | --- | --- |
+| Malignancy | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |
 | Lymphoma/lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
 | Skin Carcinoma |  |  |  |  |  |  |
 | Any Squamous CellPatients may be counted in more than one category. | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |

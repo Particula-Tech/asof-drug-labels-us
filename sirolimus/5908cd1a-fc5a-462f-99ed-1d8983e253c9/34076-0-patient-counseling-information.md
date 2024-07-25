@@ -3,13 +3,11 @@
 Advise patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 The complete text of the Medication Guide is reprinted at the end of the document.
 
-See Error!
-Hyperlink reference not valid..
+See FDA-Approved Medication Guide.
 
 ## 17.1 Dosage
 
-Patients should be given complete dosage instructions [see Error!
-Hyperlink reference not valid.].
+Patients should be given complete dosage instructions [see FDA-Approved Medication Guide].
 
 ## 17.2 Skin Cancer Events
 

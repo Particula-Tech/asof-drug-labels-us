@@ -33,10 +33,10 @@ Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angi
 
 ## 5.5 Angioedema
 
-1. Sirolimus has been associated with the development of angioedema.
-   The concomitant use of sirolimus with other drugs known to cause angioedema, such as angiotensin converting enzyme (ACE) inhibitors, may increase the risk of developing angioedema.
-   Elevated sirolimus levels (with/without concomitant ACE inhibitors) may also potentiate angioedema [see Drug Interactions (7.2)].
-   In some cases, the angioedema has resolved upon discontinuation or dose reduction of sirolimus.
+Sirolimus has been associated with the development of angioedema.
+The concomitant use of sirolimus with other drugs known to cause angioedema, such as angiotensin converting enzyme (ACE) inhibitors, may increase the risk of developing angioedema.
+Elevated sirolimus levels (with/without concomitant ACE inhibitors) may also potentiate angioedema [see Drug Interactions (7.2)].
+In some cases, the angioedema has resolved upon discontinuation or dose reduction of sirolimus.
 
 ## 5.6 Fluid Accumulation and Impairment of Wound Healing
 
@@ -115,7 +115,7 @@ In a multicenter clinical study, de novo renal transplant patients treated with 
 A benefit, in terms of better renal function, was not apparent in the treatment arm with de novo use of sirolimus without cyclosporine.
 These findings were also observed in a similar treatment group of another clinical trial.
 
-## 5.13 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/ThromboticThrombocytopenic Purpura/Thrombotic Microangiopathy
+## 5.13 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/Thrombotic Thrombocytopenic Purpura/Thrombotic Microangiopathy
 
 The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Adverse Reactions (6.7)].
 
@@ -135,7 +135,7 @@ Advise female patients of reproductive potential to avoid becoming pregnant and 
 
 ## 5.16 Male Infertility
 
-Azoospermia or oligospermia may be observed [Adverse Reactions (6.7),Nonclinical Toxicology (13.1)].
+Azoospermia or oligospermia may be observed [see Adverse Reactions (6.7), Nonclinical Toxicology (13.1)].
 Sirolimus is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
 
 ## 5.17 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
@@ -156,7 +156,7 @@ Therefore, during treatment with sirolimus, vaccination may be less effective.
 
 ## 5.20 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
-Avoid concomitant use of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)]
+Avoid concomitant use of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)].
 
 ## 5.21 Cannabidiol Drug Interactions
 

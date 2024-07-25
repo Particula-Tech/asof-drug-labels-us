@@ -238,9 +238,9 @@ The rate of nephrotic range proteinuria was significantly higher in the sirolimu
 
 TABLE 18: MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN TREATMENT GROUPS AT BASELINE, 1 AND 2 YEARS IN THE STRATUM WITH BASELINE CALCULATED GFR >40 mL/min
 
-|  | N | Mean ± SD | Median | N | Mean ± SD | Median | p-value |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Study period | Sirolimus Conversion |  |  | CNI Continuation |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | N | Mean ± SD | Median | N | Mean ± SD | Median | p-value |
 | Baseline | 410 | 0.35 ± 0.76 | 0.13 | 207 | 0.28 ± 0.61 | 0.11 | 0.381 |
 | 1 year | 423 | 0.88 ± 1.61 | 0.31 | 203 | 0.37 ± 0.88 | 0.14 | <0.001 |
 | 2 years | 373 | 0.86 ± 1.48 | 0.32 | 190 | 0.47 ± 0.98 | 0.13 | <0.001 |
@@ -286,8 +286,7 @@ The primary endpoint was the difference between the groups in the rate of change
 During the treatment period, the FEV1 slope was -12±2 mL per month in the placebo group and 1±2 mL per month in the sirolimus group (treatment difference = 13 mL (95% CI: 7, 18).
 The absolute between-group difference in the mean change in FEV1 during the 12-month treatment period was 153 mL, or approximately 11% of the mean FEV1 at enrollment.
 Similar improvements were seen for forced vital capacity (FVC).
-After discontinuation of sirolimus, the decline in lung function resumed in the sirolimus group and paralleled that in the placebo group (see Error!
-Hyperlink reference not valid.).
+After discontinuation of sirolimus, the decline in lung function resumed in the sirolimus group and paralleled that in the placebo group (see Figure 1).
 
 | FIGURE 1: CHANGE IN FORCED EXPIRATORY VOLUME IN 1 SECOND (FEV1) DURING THE TREATMENT AND OBSERVATION PHASES OF THE STUDY IN LAM PATIENTS |
 | --- |

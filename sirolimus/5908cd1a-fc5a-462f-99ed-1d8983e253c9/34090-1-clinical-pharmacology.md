@@ -36,9 +36,9 @@ The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk
 
 TABLE 4: MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING SIROLIMUS 2 MG DAILYIn presence of cyclosporine administered 4 hours before sirolimus dosing.,Based on data collected at months 1 and 3 post-transplantation.
 
-|  | Solution | Tablets |
-| --- | --- | --- |
 |  | Multiple Dose (daily dose) |  |
+| --- | --- | --- |
+|  | Solution | Tablets |
 | Cmax (ng/mL) | 14.4 ± 5.3 | 15.0 ± 4.9 |
 | tmax (hr) | 2.1 ± 0.8 | 3.5 ± 2.4 |
 | AUC (ng∙h/mL) | 194 ± 78 | 230 ± 67 |
@@ -91,9 +91,9 @@ The following sirolimus concentrations (chromatographic equivalent) were observe
 
 TABLE 5: SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
 
-| Mean (ng/mL) | 10th – 90th percentiles (ng/mL) | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) |  |  |
+| Patient Population (Study number) | Treatment | Year 1 |  | Year 3 |  |
 | --- | --- | --- | --- | --- | --- |
-| Patient Population(Study number) | Treatment | Year 1 |  | Year 3 |  |
+| Mean (ng/mL) | 10th – 90th percentiles (ng/mL) | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) |  |  |
 | Low-to-moderate risk (Studies 1 & 2) | Sirolimus (2 mg/day) + CsA | 7.2 | 3.6 – 11 | – | – |
 | Sirolimus (5 mg/day) + CsA | 14 | 8 – 22 | – | – |  |
 | Low-to-moderate risk (Study 3) | Sirolimus + CsA | 8.6 | 5 – 13Months 4 through 12 | 9.1 | 5.4 – 14 |
@@ -138,9 +138,9 @@ See Table 6 below.
 
 TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)Sirolimus co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules).,As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS)
 
-| (y) |  | (kg) | (ng/mL) | (h) | (ng/mL) | (ng∙h/mL) | (mL/h/kg) | (L/h/m2) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Age | n | Body weight | Cmax,ss | tmax,ss | Cmin,ss | AUCт,ss | CL/FOral-dose clearance adjusted by either body weight (kg) or body surface area (m2). | CL/F |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (y) |  | (kg) | (ng/mL) | (h) | (ng/mL) | (ng∙h/mL) | (mL/h/kg) | (L/h/m2) |
 | 6–11 | 8 | 27 ± 10 | 22.1 ± 8.9 | 5.88 ± 4.05 | 10.6 ± 4.3 | 356 ± 127 | 214 ± 129 | 5.4 ± 2.8 |
 | 12–18 | 14 | 52 ± 15 | 34.5 ± 12.2 | 2.7 ± 1.5 | 14.7 ± 8.6 | 466 ± 236 | 136 ± 57 | 4.7 ± 1.9 |
 

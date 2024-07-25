@@ -25,7 +25,7 @@ The dosage of sirolimus and/or the co-administered drug may need to be adjusted 
 
 - •Drugs that could increase sirolimus blood concentrations: Bromocriptine, cimetidine, cisapride, clotrimazole, danazol, diltiazem, fluconazole, letermovir, protease inhibitors (e.g., HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir), metoclopramide, nicardipine, troleandomycin, verapamil
 - •Drugs and other agents that could decrease sirolimus concentrations: Carbamazepine, phenobarbital, phenytoin, rifapentine, St. John's Wort (Hypericum perforatum)
-- •Drugs with concentrations that could increase when given with sirolimus: Verapami
+- •Drugs with concentrations that could increase when given with sirolimus: Verapamil
 
 ## 7.5 Cannabidiol
 
