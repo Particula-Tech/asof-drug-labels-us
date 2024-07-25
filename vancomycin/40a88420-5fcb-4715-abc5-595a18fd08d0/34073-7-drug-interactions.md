@@ -1,0 +1,15 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Anesthetic Agents
+
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing [see Warnings and Precautions (5.1)and Use in Specific Populations (8.4)].
+
+## 7.2 Piperacillin-Tazobactam
+
+Studies have detected an increased incidence of acute kidney injury in patients administered concomitant piperacillin/tazobactam and vancomycin as compared to vancomycin alone.
+Monitor kidney function in patients receiving concomitant piperacillin/tazobactam and vancomycin.
+No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
+
+## 7.3 Ototoxic and/or Nephrotoxic Drugs
+
+Concurrent and/or sequential systemic or topical use of other potentially, neurotoxic and/or nephrotoxic drugs requires more frequent monitoring of renal function.

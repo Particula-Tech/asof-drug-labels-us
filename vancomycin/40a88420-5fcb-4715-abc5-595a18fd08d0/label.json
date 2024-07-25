@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA209481"
+  ],
+  "inn": "vancomycin",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "72078-065-50",
+    "72078-065-99",
+    "72078-066-50",
+    "72078-066-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "Vancomycin Hydrochloride"
+    }
+  ],
+  "setid": "40a88420-5fcb-4715-abc5-595a18fd08d0",
+  "source": "dailymed"
+}
