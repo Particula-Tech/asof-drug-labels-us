@@ -8,7 +8,7 @@ Advise patients to contact their healthcare provider if they experience fever, s
 Embryo-Fetal Toxicity
 
 - Advise pregnant women of the potential risk to a fetus.
-  Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6), Use in Specific Populations (8.1)].
+  Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.2, 5.6), Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment with PURINETHOL and for 6 months after the last dose [see Use in Specific Populations (8.3)].
 - Advise males with female partners of reproductive potential to use effective contraception during treatment with PURINETHOL and for 3 months after the last dose [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 
@@ -24,4 +24,4 @@ Other Adverse Reactions
 
 Instruct patients to minimize sun exposure due to risk of photosensitivity [see Adverse Reactions (6.1)].
 
-Distributed by: Stason Pharmaceuticals Irvine, CA 92618 Made in U.S.A.
+Distributed by: Stason Pharmaceuticals, Inc. Irvine, CA 92618 Made in U.S.A.

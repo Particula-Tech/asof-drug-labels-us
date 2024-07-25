@@ -20,12 +20,19 @@ Hepatic injury can occur with any dosage but seems to occur with greater frequen
 In some patients, jaundice has cleared following withdrawal of mercaptopurine and reappeared with rechallenge.
 
 Usually, clinically detectable jaundice appears early in the course of treatment (1 to 2 months); however, jaundice has been reported as early as 1 week and as late as 8 years after the starting mercaptopurine.
-The hepatotoxicity has been associated in some cases with anorexia, diarrhea, jaundice and ascites.
+The hepatotoxicity has been associated in some cases with anorexia, diarrhea, jaundice, ascites, and pruritus.
 Hepatic encephalopathy has occurred.
 
 Monitor serum transaminase levels, alkaline phosphatase, and bilirubin levels at weekly intervals when first beginning therapy and at monthly intervals thereafter.
 Monitor liver tests more frequently in patients who are receiving PURINETHOL with other hepatotoxic products [see Drug Interactions (7.5)] or with known pre-existing liver disease.
 Withhold PURINETHOL at onset of hepatotoxicity.
+
+Intrahepatic Cholestasis of Pregnancy
+
+Postmarketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in patients with inflammatory bowel disease who received mercaptopurine during pregnancy.
+PURINETHOL is not indicated for use in inflammatory bowel disease [see Indications and Usage (1.1)].
+
+Discontinue PURINETHOL if ICP develops in a pregnant woman.
 
 ## 5.3 Immunosuppression
 

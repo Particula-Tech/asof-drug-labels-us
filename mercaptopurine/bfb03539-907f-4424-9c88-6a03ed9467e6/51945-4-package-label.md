@@ -24,7 +24,7 @@ Store in a dry place.
 
 Dispense in a tight container as defined in the USP.
 
-Distributed by: Stason Pharmaceuticals
+Distributed by: Stason Pharmaceuticals, Inc.
 
 Irvine, CA 92618
 
