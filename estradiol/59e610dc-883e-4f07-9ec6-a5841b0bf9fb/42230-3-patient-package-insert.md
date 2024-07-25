@@ -8,13 +8,12 @@ Read this Patient Information leaflet before you start using Divigel and each ti
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Divigel (AN ESTROGEN HORMONE)? |
+| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Divigel (AN ESTROGEN HORMONE)? Using estrogen-alone increases your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using Divigel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline of brain function)Using estrogen-alone may increase your chances of getting strokes or blood clotsUsing estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age and olderDo not use estrogens with progestogens to prevent heart disease, heart attacks, strokes or dementiaUsing estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age or olderOnly one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of Divigel will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with Divigel. |
 | --- |
-| Using estrogen-alone increases your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using Divigel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline of brain function)Using estrogen-alone may increase your chances of getting strokes or blood clotsUsing estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age and olderDo not use estrogens with progestogens to prevent heart disease, heart attacks, strokes or dementia Using estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age or olderOnly one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of Divigel will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with Divigel. |
 
 What is Divigel?
 
-Divigel is a prescription medicine that contains estradiol (an estrogen homone).
+Divigel is a prescription medicine that contains estradiol (an estrogen hormone).
 Divigel is a clear, colorless, smooth gel that is odorless when dry.
 When applied to the skin, estradiol is absorbed through the skin into the bloodstream.
 
@@ -153,7 +152,7 @@ Side effects are grouped by how serious they are and how often they happen when 
 
 Serious, but less common side effects include:
 
-| heart attackstrokeblood clotsbreast cancercancer of the lining of the uterus (womb)cancer of the ovarydementia high or low blood calcium (hypercalcemia)gall bladder diseasevisual abnormalities | high blood pressurehigh levels of fat (triglycerides) in your bloodliver problemschanges in your thyroid hormone levelsfluid retention cancer change of endometriosisenlargement of benign tumors of the uterus (“fibroids”)worsening swelling of face and tongue (angioedema)changes in certain laboratory test resultssuch as high blood sugar |
+| heart attackstrokeblood clotsbreast cancercancer of the lining of the uterus (womb)cancer of the ovarydementiahigh or low blood calcium (hypercalcemia)gall bladder diseasevisual abnormalities | high blood pressurehigh levels of fat (triglycerides) in your bloodliver problemschanges in your thyroid hormone levelsfluid retentioncancer change of endometriosisenlargement of benign tumors of the uterus (“fibroids”)worsening swelling of face and tongue (angioedema)changes in certain laboratory test results such as high blood sugar |
 | --- | --- |
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
@@ -228,6 +227,6 @@ Product of Finland
 
 © 2023 Vertical Pharmaceuticals, LLC
 
-151083-11 Revised 05/2023
+151083-12 Revised 11/2023
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
