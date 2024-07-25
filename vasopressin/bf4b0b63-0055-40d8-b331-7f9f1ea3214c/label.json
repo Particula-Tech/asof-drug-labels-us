@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA217766"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Long Grove Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "81298-8550-1",
+    "81298-8550-3",
+    "81298-8552-1",
+    "81298-8552-3",
+    "81298-8554-1",
+    "81298-8554-3"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "vasopressin",
+      "name": "Vasopressin in 0.9% Sodium Chloride"
+    }
+  ],
+  "setid": "bf4b0b63-0055-40d8-b331-7f9f1ea3214c",
+  "source": "dailymed"
+}
