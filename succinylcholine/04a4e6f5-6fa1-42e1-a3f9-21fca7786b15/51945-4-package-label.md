@@ -12,7 +12,7 @@ Anectine®
 
 WARNING: Paralyzing Agent
 
-For Intravenous Use
+For Intravenous or Intramuscular Use
 
 Rx Only
 
