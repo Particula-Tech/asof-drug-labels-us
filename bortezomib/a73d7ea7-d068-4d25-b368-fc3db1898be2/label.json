@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211898"
+  ],
+  "inn": "bortezomib",
+  "labeler": "Waverley Pharma Inc",
+  "package_ndcs": [
+    "72338-200-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bortezomib",
+      "name": "Bortezomib"
+    }
+  ],
+  "setid": "a73d7ea7-d068-4d25-b368-fc3db1898be2",
+  "source": "dailymed"
+}
