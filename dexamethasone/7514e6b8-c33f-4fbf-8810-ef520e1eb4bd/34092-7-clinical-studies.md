@@ -39,3 +39,11 @@ Table 3: Reduction in Ocular Itching
 | Day 8 | 3 min | 1.9 | 2.7 | -0.7 (-1.2, -0.3) |  | 2.1 | 2.3 | -0.2 (-0.7, 0.3) |  | 1.8 | 2.7 | -0.9 (-1.2, -0.4) |
 | 5 min | 2.1 | 2.8 | -0.7 (-1.2, -0.3) |  | 2.1 | 2.3 | -0.2 (-0.8, 0.3) |  | 1.8 | 2.7 | -1.0 (-1.4, -0.6) |  |
 | 7 min | 1.9 | 2.7 | -0.8 (-1.2, -0.4) |  | 2.1 | 2.4 | -0.3 (-0.8, 0.3) |  | 1.7 | 2.7 | -1.0 (-1.4, -0.6) |  |
+
+## 14.3 Study in Pediatric Patients
+
+The safety of DEXTENZA was evaluated in a single, randomized, multicenter, double-masked, active-controlled clinical study in 65 pediatric patients up to 5 years old for the treatment of postoperative pain and inflammation following ocular surgery for pediatric cataract.
+
+Patients were randomized to either DEXTENZA or prednisolone acetate ophthalmic suspension, 1%.
+As in the adult studies, patients were pain free, on post-operative Day 8 and had an absence of anterior chamber cells, on post-operative Day 14, in the DEXTENZA treated group.
+No overall differences in safety were observed between pediatric and adult patients.

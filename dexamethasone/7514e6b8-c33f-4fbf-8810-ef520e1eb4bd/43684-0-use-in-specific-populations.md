@@ -24,7 +24,10 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of DEXTENZA have been established in the pediatric population from neonates to adolescents (birth to younger than 17 years).
+Use of DEXTENZA in this population is supported by evidence from adequate and well-controlled studies of DEXTENZA in adults with additional data from a single active-controlled safety study in pediatric patients from 0 to 5 years old [see Clinical Studies (14)].
+
+No overall differences in safety were observed between pediatric and adult patients.
 
 ## 8.5 Geriatric Use
 
