@@ -21,13 +21,13 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet |  |  |  |  |  |  |
 | single dose Data dose-normalized from 375 mg | 8.10 (1.83) | --- | 1.52 (1.01) | 55.10 (25.00) | 5.20 (1.50) | 146 (67) |
-| every 12 hours | 11.00 (4.37) | 3.08 (2.25) | 1.12 (0.47) | 73.40 (33.50) | 4.69 (1.70) | 110 (49) |
+| every 12hours | 11.00 (4.37) | 3.08 (2.25) | 1.12 (0.47) | 73.40 (33.50) | 4.69 (1.70) | 110 (49) |
 | 600 mg tablet |  |  |  |  |  |  |
 | single dose | 12.70 (3.96) | --- | 1.28 (0.66) | 91.40 (39.30) | 4.26 (1.65) | 127 (48) |
-| every 12 hours | 21.20 (5.78) | 6.15 (2.94) | 1.03 (0.62) | 138.00 (42.10) | 5.40 (2.06) | 80 (29) |
+| every 12hours | 21.20 (5.78) | 6.15 (2.94) | 1.03 (0.62) | 138.00 (42.10) | 5.40 (2.06) | 80 (29) |
 | 600 mg IV injection Data dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. |  |  |  |  |  |  |
 | single dose | 12.90 (1.60) | --- | 0.50 (0.10) | 80.20 (33.30) | 4.40 (2.40) | 138 (39) |
-| every 12 hours | 15.10 (2.52) | 3.68 (2.36) | 0.51 (0.03) | 89.70 (31.00) | 4.80 (1.70) | 123 (40) |
+| every 12hours | 15.10 (2.52) | 3.68 (2.36) | 0.51 (0.03) | 89.70 (31.00) | 4.80 (1.70) | 123 (40) |
 | 600 mg oral suspension |  |  |  |  |  |  |
 | single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
 | Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
