@@ -49,7 +49,7 @@ Table 6: Patients with Improvement of Symptomatic GERD (N=376)
 
 |  | PEPCID 20 mg twice daily (N=154) | PEPCID 40 mg at bedtime (N=149) | Placebo at bedtime (N=73) |
 | --- | --- | --- | --- |
-| Week 6 | 82% | 69% | 62% |
+| Week 6 | 82%p≤0.01 vs. placebo | 69% | 62% |
 
 ## 14.4 Erosive Esophagitis due to GERD
 
@@ -61,7 +61,7 @@ Table 7: Patients with Endoscopic Healing of Erosive Esophagitis - U.S. Study (N
 
 |  | PEPCID40 mg twice daily (N=127) | PEPCID20 mg twice daily (N=125) | Placebotwice daily (N=66) |
 | --- | --- | --- | --- |
-| Week 6 | 48%p≤0.01 vs. placebop≤0.01 vs. PEPCID 20 mg twice daily | 32% | 18% |
+| Week 6 | 48%p≤0.01 vs. PEPCID 20 mg twice daily | 32% | 18% |
 | Week 12 | 69%p≤0.05 vs. PEPCID 20 mg twice daily | 54% | 29% |
 
 As compared to placebo, patients in the U.S. trial who received PEPCID had faster relief of daytime and nighttime heartburn, and a greater percentage of PEPCID-treated patients experienced complete relief of nighttime heartburn.

@@ -22,18 +22,20 @@ as recommended.
 
 • PEPCID may be given with antacids.
 
-Manufactured for:
+Distributed by:
 
-Valeant Pharmaceuticals North America LLC
+Bausch Health US, LLC
 
 Bridgewater, NJ 08807 USA
 
 Manufactured by:
 
-Carlsbad Technology, Inc. Carlsbad, CA 92008
+Carlsbad Technology, Inc.
 
-PEPCID® is a brand of McNeil Consumer Pharmaceuticals Co. used under license.
+Carlsbad, CA 92008
 
-© Valeant Pharmaceuticals North America LLC
+The trademark PEPCID is used under license.
 
-9720101
+© 2024 Bausch Health Companies Inc. or its affiliates
+
+M97201

@@ -8,7 +8,7 @@ Pepcid (Famotidine) Tablets, USP
 
 30 Tablets
 
-VALEANT
+BAUSCH HEALTH
 
 # Package/Label Display Panel
 
@@ -20,4 +20,4 @@ Pepcid (Famotidine) Tablets, USP
 
 30 Tablets
 
-VALEANT
+BAUSCH HEALTH
