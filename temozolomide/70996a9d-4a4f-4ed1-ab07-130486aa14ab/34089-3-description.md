@@ -31,3 +31,4 @@ Temozolomide Capsules 100 mg: The pink cap contains gelatin, titanium dioxide, a
 Temozolomide Capsules 140 mg: The blue cap contains gelatin, titanium dioxide, yellow iron oxide and FD&C Blue #2.
 Temozolomide Capsules 180 mg: The orange cap contains gelatin, titanium dioxide and red iron oxide.
 Temozolomide Capsules 250 mg: The white cap contains gelatin, titanium dioxide.
+FDA approved dissolution test specifications differ from USP.
