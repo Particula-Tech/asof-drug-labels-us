@@ -12,10 +12,10 @@ Anectine®
 
 WARNING: Paralyzing Agent
 
-For Intravenous Use
+For Intravenous or Intramuscular Use
 
 Rx Only
 
-10 x 10 mL Multiple-Dose Vial
+10 x 10 mL Multiple-Dose Vials
 
 CIVICA
