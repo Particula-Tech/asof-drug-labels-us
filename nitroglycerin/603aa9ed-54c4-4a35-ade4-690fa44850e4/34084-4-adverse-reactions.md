@@ -2,7 +2,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The most common adverse reaction of RECTIV (nitroglycerin) Ointment 0.4% applied to the anal canal is headache.
+The most common adverse reaction of RECTIV ointment applied to the anal canal is headache.
 
 Headache may be recurrent following each dose.
 Headaches are typically of short duration and can be treated with an analgesic, e.g. acetaminophen, and are reversible upon discontinuation of treatment.
@@ -29,4 +29,4 @@ Flushing, allergic reactions and application site reactions (including drug rash
 
 Methemoglobinemia
 
-In rare cases, therapeutic doses of organic nitrates have caused methemoglobinemia (see 10 OVERDOSAGE).
+In rare cases, therapeutic doses of organic nitrates have caused methemoglobinemia [see OVERDOSAGE (10)].

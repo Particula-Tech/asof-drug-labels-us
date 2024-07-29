@@ -12,6 +12,4 @@ If this cannot be achieved due to pain, application of the ointment should be ma
 Treatment may be continued for up to three weeks.
 
 RECTIV ointment is not for oral, ophthalmic, or intravaginal use.
-Hands should be washed after application of the ointment.
-
-See Patients Instruction for Use.
+Hands should be washed after application of the ointment [see Patient Instruction].

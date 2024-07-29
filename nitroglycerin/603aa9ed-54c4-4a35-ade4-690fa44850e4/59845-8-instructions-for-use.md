@@ -36,4 +36,3 @@ Distributed by: AbbVie Inc. North Chicago, IL 60064
 All rights reserved.
 
 RECTIV and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
-Revised: April 2024

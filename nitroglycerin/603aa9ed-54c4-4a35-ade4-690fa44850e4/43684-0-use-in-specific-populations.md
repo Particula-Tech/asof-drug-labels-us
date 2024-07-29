@@ -2,24 +2,33 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-Animal reproduction and teratogenicity studies have not been conducted with RECTIV.
-Nitroglycerin was not teratogenic when administered by topical or dietary route.
-There are no adequate and well-controlled studies in pregnant women.
-RECTIV should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no data on the use of nitroglycerin ointment intra-anally during pregnancy to determine a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+In animal reproduction studies, no malformations were observed in offspring of pregnant rats and rabbits administered nitroglycerin by topical or dietary route during the period of organogenesis (see Data).
 
-Teratology studies in rats and rabbits were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Animal Data
+
+Animal reproduction studies in rats and rabbits were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively.
 No toxic effects on dams or fetuses were seen at any dose tested.
 
-A teratogenicity study was conducted in rats with nitroglycerin administered in the diet at levels up to 1% content (approximately 430 mg/kg/day) on days 6 to 15 of gestation.
+An animal reproduction study was conducted in rats with nitroglycerin administered in the diet at levels up to 1% content (approximately 430 mg/kg/day) on days 6 to 15 of gestation.
 In offspring of the high-dose group, an increased but not statistically significant incidence of diaphragmatic hernias was noted together with decreased hyoid bone ossification.
 The latter finding probably reflects delayed development, thus indicating no clear evidence of a potential teratogenic effect of nitroglycerin.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether nitroglycerin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when RECTIV is administered to a nursing woman.
+Risk Summary
+
+There are no data on the presence of nitroglycerin in either human or animal milk following topical administration, or the effects of nitroglycerin on milk production.
+A publication describing 40 lactating patients who used nitroglycerin ointment to treat chronic anal fissures for varied durations did not report signs of adverse effects in their breastfed infants, however, the dosing regimens were not described.
+The developmental and health benefits of breastfeeding should be considered along with the clinical need for RECTIV and any potential adverse effects on the breastfed infant from RECTIV or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
