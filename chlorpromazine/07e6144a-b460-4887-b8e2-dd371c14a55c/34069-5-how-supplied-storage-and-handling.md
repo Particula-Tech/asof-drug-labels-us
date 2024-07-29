@@ -5,6 +5,6 @@ Slight yellowing will not alter potency.
 Discard if markedly discolored.
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from freezing.
-To report SUSPECTED ADVERSE REACTIONS, contact AuroMedics Pharma LLC at 1-866-850-2876, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India Revised: October 2021
+To report SUSPECTED ADVERSE REACTIONS, contact Eugia US LLC at 1-866-850-2876, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India Revised: June 2023
