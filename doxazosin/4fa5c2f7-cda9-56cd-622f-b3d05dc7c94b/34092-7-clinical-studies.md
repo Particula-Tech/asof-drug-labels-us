@@ -38,9 +38,9 @@ TABLE 4 Mean Changes in Blood Pressure from Baseline to the Mean of the Final Ef
 
 |  | PLACEBO (N=85) |  | Doxazosin Tablets (N=183) |  |
 | --- | --- | --- | --- | --- |
-| Sitting BP(mmHg) | Baseline | Change | Baseline | Change |
+| Sitting BP (mmHg) | Baseline | Change | Baseline | Change |
 | Systolic | 128.4 | –1.4 | 128.8 | –4.9p ≤0.05 compared to placebo |
 | Diastolic | 79.2 | –1.2 | 79.6 | –2.4 |
-| Standing BP(mmHg) | Baseline | Change | Baseline | Change |
+| Standing BP (mmHg) | Baseline | Change | Baseline | Change |
 | Systolic | 128.5 | –0.6 | 128.5 | –5.3 |
 | Diastolic | 80.5 | –0.7 | 80.4 | –2.6 |

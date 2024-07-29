@@ -1,7 +1,5 @@
 PATIENT INFORMATION Doxazosin Tablets (dox az' oh sin mes' i late)
 
-Dispense with Patient Information available at www1.apotex.com/products/us
-
 What are doxazosin tablets?
 
 Doxazosin tablets are a prescription medicine that contains doxazosin mesylate and is called an "alpha-blocker".
@@ -107,15 +105,17 @@ Active ingredient: doxazosin mesylate
 
 Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
 
+All registered trademarks in this document are the property of their respective owners.
+
 APOTEX INC. DOXAZOSIN TABLETS, USP 1 mg, 2 mg, 4 mg and 8 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | 33326 |
+| Canada M9L 1T9 | USA 33326 |
 
-Revised: April 2022
+Revised: July 2024
 
 Rev.
-7
+8

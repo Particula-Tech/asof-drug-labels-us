@@ -7,17 +7,13 @@ Advise patients to report symptoms to their healthcare provider.
 
 Priapism Advise patients of the possibility of priapism and to seek immediate medical attention if symptoms occur.
 
-Dispense with Patient Information available at www1.apotex.com/products/us
-
 APOTEX INC. DOXAZOSIN TABLETS, USP 1 mg, 2 mg, 4 mg and 8 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | 33326 |
-
-Revised: April 2022
+| Canada M9L 1T9 | USA 33326 |
 
 Rev.
-7
+8
