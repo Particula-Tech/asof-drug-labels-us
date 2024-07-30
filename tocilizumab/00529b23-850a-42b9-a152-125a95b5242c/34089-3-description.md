@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tocilizumab-bavi is a recombinant humanized anti-human interleukin 6 (IL-6) receptor monoclonal antibody of the immunoglobulin IgG1κ (gamma 1, kappa) subclass with a typical H 2L 2 polypeptide structure.
+Tocilizumab-bavi is a recombinant humanized anti-human interleukin 6 (IL-6) receptor monoclonal antibody of the immunoglobulin IgG1κ (gamma 1, kappa) subclass with a typical H 2L 2polypeptide structure.
 Each light chain and heavy chain consists of 214 and 448 amino acids, respectively.
 The four polypeptide chains are linked intra- and inter-molecularly by disulfide bonds.
 Tocilizumab-bavi has a molecular weight of approximately 148 kDa.

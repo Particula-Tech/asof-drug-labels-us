@@ -73,23 +73,23 @@ Laboratory Abnormalities
 
 Neutropenia
 
-In the 24 week, controlled clinical studies, decreases in neutrophil counts below 1000 per mm 3 occurred in 1.8% and 3.4% of patients in the 4 mg per kg and 8 mg per kg tocilizumab-IV plus DMARD group, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
-Approximately half of the instances of ANC below 1000 per mm 3 occurred within 8 weeks of starting therapy.
-Decreases in neutrophil counts below 500 per mm 3 occurred in 0.4% and 0.3% of patients in the 4 mg per kg and 8 mg per kg tocilizumab-IV plus DMARD, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
-There was no clear relationship between decreases in neutrophils below 1000 per mm 3 and the occurrence of serious infections.
+In the 24 week, controlled clinical studies, decreases in neutrophil counts below 1000 per mm 3occurred in 1.8% and 3.4% of patients in the 4 mg per kg and 8 mg per kg tocilizumab-IV plus DMARD group, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
+Approximately half of the instances of ANC below 1000 per mm 3occurred within 8 weeks of starting therapy.
+Decreases in neutrophil counts below 500 per mm 3occurred in 0.4% and 0.3% of patients in the 4 mg per kg and 8 mg per kg tocilizumab-IV plus DMARD, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
+There was no clear relationship between decreases in neutrophils below 1000 per mm 3and the occurrence of serious infections.
 
 In the all-exposure population, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.4)].
 
 Thrombocytopenia
 
-In the 24 week, controlled clinical studies, decreases in platelet counts below 100,000 per mm 3 occurred in 1.3% and 1.7% of patients on 4 mg per kg and 8 mg per kg tocilizumab-IV plus DMARD, respectively, compared to 0.5% of patients on placebo plus DMARD, without associated bleeding events.
+In the 24 week, controlled clinical studies, decreases in platelet counts below 100,000 per mm 3occurred in 1.3% and 1.7% of patients on 4 mg per kg and 8 mg per kg tocilizumab-IV plus DMARD, respectively, compared to 0.5% of patients on placebo plus DMARD, without associated bleeding events.
 
 In the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.4)].
 
 Elevated Liver Enzymes
 
 Liver enzyme abnormalities are summarized in Table 1.
-In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tocilizumab-IV, or reduction in tocilizumab-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.6)].
+In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tocilizumab-IV, or reduction in tocilizumab-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.8)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3, 5.4)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to V For a description of these studies, see Section 14, Clinical Studies.
@@ -130,10 +130,8 @@ In the all-exposure population, the elevations in lipid parameters remained cons
 
 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other tocilizumab products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of tocilizumab or of other tocilizumab products.
 
 In the 24 week, controlled clinical studies, a total of 2876 patients have been tested for anti-tocilizumab antibodies.
 Forty-six patients (2%) developed positive anti-tocilizumab antibodies, of whom 5 had an associated, medically significant, hypersensitivity reaction leading to withdrawal.
@@ -171,30 +169,27 @@ Table 2 Adverse Reactions Occurring in at Least 2% or More of Patients on 4 or 8
 
 Other infrequent and medically relevant adverse reactions occurring at an incidence less than 2% in rheumatoid arthritis patients treated with tocilizumab-IV in controlled trials were:
 
-Infections and Infestations: oral herpes simplex
+Infections and Infestations:oral herpes simplex Gastrointestinal disorders:stomatitis, gastric ulcer Investigations:weight increased, total bilirubin increased Blood and lymphatic system disorders:leukopenia General disorders and administration site conditions:edema peripheral Respiratory, thoracic, and mediastinal disorders:dyspnea, cough Eye disorders:conjunctivitis Renal disorders:nephrolithiasis Endocrine disorders:hypothyroidism
 
-Gastrointestinal disorders: stomatitis, gastric ulcer
+## 6.2 Clinical Trials Experience in Giant Cell Arteritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
 
-Investigations: weight increased, total bilirubin increased
+The safety of tocilizumab-IV was studied in an open label PK-PD and safety study in 24 patients with GCA who were in remission on tocilizumab-IV at time of enrollment.
+Patients received tocilizumab 7 mg/kg every 4 weeks for 20 weeks, followed by 6 mg/kg every 4 weeks for 20 weeks.
+The total patient years exposure to treatment was 17.5 years.
 
-Blood and lymphatic system disorders: leukopenia
+The safety of tocilizumab by another route of administration has been studied in one Phase III study with 251 GCA patients.
+The total patient years duration was 138.5 patient years during the 12-month double blind, placebo-controlled phase of the study.
+The overall safety profile observed was generally consistent with the known safety profile of tocilizumab.
+There was an overall higher incidence of infections in GCA patients relative to RA patients.
 
-General disorders and administration site conditions: edema peripheral
+The overall safety profile observed for tocilizumab administered intravenously in GCA patients was consistent with the known safety profile of tocilizumab.
 
-Respiratory, thoracic, and mediastinal disorders: dyspnea, cough
-
-Eye disorders: conjunctivitis
-
-Renal disorders: nephrolithiasis
-
-Endocrine disorders: hypothyroidism
-
-## 6.2 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+## 6.3 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
 
 The safety of tocilizumab-IV was studied in 188 pediatric patients 2 to 17 years of age with PJIA who had an inadequate clinical response or were intolerant to methotrexate.
 The total patient exposure in the tocilizumab-IV all exposure population (defined as patients who received at least one dose of tocilizumab-IV) was 184.4 patient years.
 At baseline, approximately half of the patients were taking oral corticosteroids and almost 80% were taking methotrexate.
-In general, the types of adverse drug reactions in patients with PJIA were consistent with those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.3)].
+In general, the types of adverse drug reactions in patients with PJIA were consistent with those seen in RA and SJIA patients [see Adverse Reactions (6.1and 6.4)].
 
 Infections
 
@@ -208,7 +203,7 @@ Infusion Reactions
 In PJIA patients, infusion-related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the tocilizumab-IV all exposure population, 11 patients (6%) experienced an event during the infusion, and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
 The most common events occurring during infusion were headache, nausea and hypotension, and occurring within 24 hours of infusion were dizziness and hypotension.
-In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and SJIA patients [see Adverse Reactions (6.1 and 6.3)].
+In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and SJIA patients [see Adverse Reactions (6.1and 6.4)].
 
 No clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
 
@@ -220,13 +215,13 @@ Laboratory Abnormalities
 
 Neutropenia
 
-During routine laboratory monitoring in the tocilizumab-IV all exposure population, a decrease in neutrophil counts below 1 × 10 9 per L occurred in 3.7% of patients.
+During routine laboratory monitoring in the tocilizumab-IV all exposure population, a decrease in neutrophil counts below 1 × 10 9per L occurred in 3.7% of patients.
 
-There was no clear relationship between decreases in neutrophils below 1 × 10 9 per L and the occurrence of serious infections.
+There was no clear relationship between decreases in neutrophils below 1 × 10 9per L and the occurrence of serious infections.
 
 Thrombocytopenia
 
-During routine laboratory monitoring in the tocilizumab-IV all exposure population, 1% of patients had a decrease in platelet count at or less than 50,000 per mm 3 without associated bleeding events.
+During routine laboratory monitoring in the tocilizumab-IV all exposure population, 1% of patients had a decrease in platelet count at or less than 50,000 per mm 3without associated bleeding events.
 
 Elevated Liver Enzymes
 
@@ -234,9 +229,9 @@ During routine laboratory monitoring in the tocilizumab-IV all exposure populati
 
 Lipids
 
-During routine laboratory monitoring in the tocilizumab-IV all exposure population, elevation in total cholesterol greater than 1.5-2 × ULN occurred in one patient (0.5%) and elevation in LDL greater than 1.5-2 × ULN occurred in one patient (0.5%).
+During routine laboratory monitoring in the tocilizumab all exposure population, elevation in total cholesterol greater than 1.5-2 × ULN occurred in one patient (0.5%) and elevation in LDL greater than 1.5-2 × ULN occurred in one patient (0.5%).
 
-## 6.3 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+## 6.4 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
 
 The data described below reflect exposure to tocilizumab-IV in one randomized, double-blind, placebo-controlled trial of 112 pediatric patients with SJIA 2 to 17 years of age who had an inadequate clinical response to nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids due to toxicity or lack of efficacy.
 At baseline, approximately half of the patients were taking 0.3 mg/kg/day corticosteroids or more, and almost 70% were taking methotrexate.
@@ -287,9 +282,9 @@ Laboratory Abnormalities
 
 Neutropenia
 
-During routine monitoring in the 12 week controlled phase, a decrease in neutrophil below 1 × 10 9 per L occurred in 7% of patients in the tocilizumab-IV group, and in no patients in the placebo group.
+During routine monitoring in the 12 week controlled phase, a decrease in neutrophil below 1 × 10 9per L occurred in 7% of patients in the tocilizumab-IV group, and in no patients in the placebo group.
 In the open label extension over an average duration of 73 weeks of treatment, a decreased neutrophil count occurred in 17% of the tocilizumab-IV group.
-There was no clear relationship between decrease in neutrophils below 1 × 10 9 per L and the occurrence of serious infections.
+There was no clear relationship between decrease in neutrophils below 1 × 10 9per L and the occurrence of serious infections.
 
 Thrombocytopenia
 
@@ -299,7 +294,7 @@ In the open label extension over an average duration of 73 weeks of treatment, d
 
 Elevated Liver Enzymes
 
-During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or AST at or above 3× ULN occurred in 5% and 3% of patients, respectively in the tocilizumab group and in 0% of placebo patients.
+During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or AST at or above 3× ULN occurred in 5% and 3% of patients, respectively in the tocilizumab-IV group and in 0% of placebo patients.
 
 In the open label extension over an average duration of 73 weeks of treatment, the elevation in ALT or AST at or above 3× ULN occurred in 13% and 5% of tocilizumab-IV treated patients, respectively.
 
@@ -310,7 +305,39 @@ Elevation in LDL greater than 1.5× ULN – 2× ULN occurred in 1.9% of patients
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
-## 6.4 Postmarketing Experience
+## 6.5 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+
+The safety of tocilizumab in hospitalized COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
+The analysis of adverse reactions included a total of 974 patients exposed to tocilizumab.
+Patients received a single, 60-minute infusion of intravenous tocilizumab 8 mg/kg (maximum dose of 800 mg).
+If clinical signs or symptoms worsened or did not improve, one additional dose of tocilizumab 8 mg/kg could be administered between 8- 24 hours after the initial dose.
+
+Adverse reactions summarized in Table 3 occurred in at least 3% of tocilizumab -treated patients and more commonly than in patients on placebo in the pooled safety population.
+
+Table 3 Adverse Reactions Patients are counted once for each category regardless of the number of reactionsIdentified From the Pooled COVID-19 Safety Population
+
+|  | N = 974 (%) | N = 483 (%) |
+| --- | --- | --- |
+| Adverse Reaction | Tocilizumab 8mg per kg | Placebo |
+| Hepatic Transaminases increased | 10% | 8% |
+| Constipation | 9% | 8% |
+| Urinary tract infection | 5% | 4% |
+| Hypertension | 4% | 1% |
+| Hypokalaemia | 4% | 3% |
+| Anxiety | 4% | 2% |
+| Diarrhea | 4% | 2% |
+| Insomnia | 4% | 3% |
+| Nausea | 3% | 2% |
+
+In the pooled safety population, the rates of infection/serious infection events were 30%/19% in patients receiving tocilizumab versus 32%/23% receiving placebo.
+
+Laboratory Abnormalities
+
+In the pooled safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
+Platelet counts <50,000 cells/mcl occurred in 3.2% of patients who received tocilizumab and 1.5% of patients who received placebo.
+ALT or AST at or above 5× ULN occurred in 11.7% of patients who received tocilizumab and 9.9% of patients who received placebo.
+
+## 6.6 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of tocilizumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

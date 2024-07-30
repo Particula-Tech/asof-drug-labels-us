@@ -6,45 +6,45 @@ The efficacy and safety of intravenously administered tocilizumab was assessed i
 Patients had at least 8 tender and 6 swollen joints at baseline.
 Tocilizumab was given intravenously every 4 weeks as monotherapy (Study I), in combination with methotrexate (MTX) (Studies II and III) or other disease-modifying anti-rheumatic drugs (DMARDs) (Study IV) in patients with an inadequate response to those drugs, or in combination with MTX in patients with an inadequate response to TNF antagonists (Study V).
 
-Study I (NCT00109408) evaluated patients with moderate to severe active rheumatoid arthritis who had not been treated with MTX within 24 weeks prior to randomization, or who had not discontinued previous methotrexate treatment as a result of clinically important toxic effects or lack of response.
+Study I(NCT00109408) evaluated patients with moderate to severe active rheumatoid arthritis who had not been treated with MTX within 24 weeks prior to randomization, or who had not discontinued previous methotrexate treatment as a result of clinically important toxic effects or lack of response.
 In this study, 67% of patients were MTX-naïve, and over 40% of patients had rheumatoid arthritis less than 2 years.
 Patients received tocilizumab 8 mg per kg monotherapy or MTX alone (dose titrated over 8 weeks from 7.5 mg to a maximum of 20 mg weekly).
 The primary endpoint was the proportion of tocilizumab patients who achieved an ACR 20 response at Week 24.
 
-Study II (NCT00106535) was a 104-week study with an optional 156-week extension phase that evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response to MTX.
+Study II(NCT00106535) was a 104-week study with an optional 156-week extension phase that evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response to MTX.
 Patients received tocilizumab 8 mg per kg, tocilizumab 4 mg per kg, or placebo every four weeks, in combination with MTX (10 to 25 mg weekly).
 Upon completion of 52-weeks, patients received open-label treatment with tocilizumab 8 mg per kg through 104 weeks or they had the option to continue their double-blind treatment if they maintained a greater than 70% improvement in swollen/tender joint count.
 Two pre-specified interim analyses at week 24 and week 52 were conducted.
 The primary endpoint at week 24 was the proportion of patients who achieved an ACR 20 response.
 At weeks 52 and 104, the primary endpoints were change from baseline in modified total Sharp-Genant score and the area under the curve (AUC) of the change from baseline in HAQ-DI score.
 
-Study III (NCT00106548) evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response to MTX.
+Study III(NCT00106548) evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response to MTX.
 Patients received tocilizumab 8 mg per kg, tocilizumab 4 mg per kg, or placebo every four weeks, in combination with MTX (10 to 25 mg weekly).
 The primary endpoint was the proportion of patients who achieved an ACR 20 response at week 24.
 
-Study IV (NCT00106574) evaluated patients who had an inadequate response to their existing therapy, including one or more DMARDs.
+Study IV(NCT00106574) evaluated patients who had an inadequate response to their existing therapy, including one or more DMARDs.
 Patients received tocilizumab 8 mg per kg or placebo every four weeks, in combination with the stable DMARDs.
 The primary endpoint was the proportion of patients who achieved an ACR 20 response at week 24.
 
-Study V (NCT00106522) evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response or were intolerant to one or more TNF antagonist therapies.
+Study V(NCT00106522) evaluated patients with moderate to severe active rheumatoid arthritis who had an inadequate clinical response or were intolerant to one or more TNF antagonist therapies.
 The TNF antagonist therapy was discontinued prior to randomization.
 Patients received tocilizumab 8 mg per kg, tocilizumab 4 mg per kg, or placebo every four weeks, in combination with MTX (10 to 25 mg weekly).
 The primary endpoint was the proportion of patients who achieved an ACR 20 response at week 24.
 
 Clinical Response
 
-The percentages of intravenous tocilizumab-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 3.
+The percentages of intravenous tocilizumab-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 4.
 In all intravenous studies, patients treated with 8 mg per kg tocilizumab had higher ACR 20, ACR 50, and ACR 70 response rates versus MTX- or placebo-treated patients at week 24.
 
 During the 24 week controlled portions of Studies I to V, patients treated with tocilizumab at a dose of 4 mg per kg in patients with inadequate response to DMARDs or TNF antagonist therapy had lower response rates compared to patients treated with tocilizumab 8 mg per kg.
 
-Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous Tocilizumab (Percent of Patients)
+Table 4 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous Tocilizumab (Percent of Patients)
 
 |  | (95% CI) CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) |  | (95% CI) | (95% CI) |  | (95% CI) | (95% CI) |  | (95% CI) | (95% CI) | (95% CI) | (95% CI) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Percent of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Response Rate | Study I |  | Study II |  |  | Study III |  |  | Study IV |  | Study V |  |  |
-| MTX | Tocilizumab 8 mg per kg | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX | Placebo + DMARDs | Tocilizumab 8 mg per kg + DMARDs | Placebo + MTX | Tocilizumab4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX |  |
+| MTX | Tocilizumab 8 mg per kg | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX | Placebo + DMARDs | Tocilizumab 8 mg per kg + DMARDs | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX |  |
 | N=284 | N=286 | N=393 | N=399 | N=398 | N=204 | N=213 | N=205 | N=413 | N=803 | N=158 | N=161 | N=170 |  |
 | ACR 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 53% | 70% (0.11, 0.27) | 27% | 51% (0.17, 0.29) | 56% (0.23, 0.35) | 27% | 48% (0.15, 0.32) | 59% (0.23, 0.41) | 24% | 61% (0.30, 0.40) | 10% | 30% (0.15, 0.36) | 50% (0.36, 0.56) |
@@ -59,9 +59,9 @@ Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | Week 52 | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg tocilizumab + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
-The proportion of tocilizumab-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 4.
+The proportion of tocilizumab-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 5.
 
-Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous Tocilizumab
+Table 5 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous Tocilizumab
 
 |  | N = 393 | N = 399 | N = 398 |
 | --- | --- | --- | --- |
@@ -75,10 +75,10 @@ Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Resid
 | Of responders, proportion with 3 or more active joints (n) | 33% (4) | 41% (29) | 47% (59) |
 | *n denotes numerator of all the percentage. Denominator is the intent-to-treat population. Not all patients received DAS28 assessments at Week 52. |  |  |  |
 
-The results of the components of the ACR response criteria for Studies III and V are shown in Table 5.
+The results of the components of the ACR response criteria for Studies III and V are shown in Table 6.
 Similar results to Study III were observed in Studies I, II and IV.
 
-Table 5 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizumab
+Table 6 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizumab
 
 | Component (mean) | Baseline | Week 24 Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -103,9 +103,9 @@ Radiographic Response
 
 In Study II, structural joint damage was assessed radiographically and expressed as change in total Sharp-Genant score and its components, the erosion score and joint space narrowing score.
 Radiographs of hands/wrists and forefeet were obtained at baseline, 24 weeks, 52 weeks, and 104 weeks and scored by readers unaware of treatments group and visit number.
-The results from baseline to week 52 are shown in Table 6. tocilizumab 4 mg per kg slowed (less than 75% inhibition compared to the control group) and tocilizumab 8 mg per kg inhibited (at least 75% inhibition compared to the control group) the progression of structural damage compared to placebo plus MTX at week 52.
+The results from baseline to week 52 are shown in Table 7. tocilizumab 4 mg per kg slowed (less than 75% inhibition compared to the control group) and tocilizumab 8 mg per kg inhibited (at least 75% inhibition compared to the control group) the progression of structural damage compared to placebo plus MTX at week 52.
 
-Table 6 Mean Radiographic Change from Baseline to Week 52 in Study II
+Table 7 Mean Radiographic Change from Baseline to Week 52 in Study II
 
 | N=294 | N=343 | N=353 |  |
 | --- | --- | --- | --- |
@@ -149,7 +149,17 @@ The primary endpoint was the comparison of the time-to-first occurrence of any c
 Non-inferiority of tocilizumab to etanercept for cardiovascular risk was determined by excluding >80% relative increase in the risk of MACE.
 The estimated hazard ratio (HR) for the risk of MACE comparing tocilizumab to etanercept was 1.05; 95% CI (0.77, 1.43).
 
-## 14.2 Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
+## 14.2 Giant Cell Arteritis - Intravenous Administration
+
+Intravenously administered tocilizumab in patients with GCA was assessed in WP41152 (NCT03923738), an open-label PK-PD and safety study to determine the appropriate intravenous dose of tocilizumab that achieved comparable PK-PD profiles to tocilizumab by another route of administration.
+
+At enrollment, all patients (n=24) were in remission on tocilizumab IV.
+In Period 1, all patients received open-label tocilizumab IV 7 mg/kg every 4 weeks for 20 weeks.
+Patients who completed Period 1 and remained in remission (n=22) were eligible to enter Period 2, and received open-label tocilizumab IV 6 mg/kg every 4 weeks for 20 weeks.
+
+The efficacy of intravenous tocilizumab 6 mg/kg in adult patients with GCA is based on pharmacokinetic exposure and extrapolation to the efficacy established for tocilizumab by another route of administration in patients with GCA.
+
+## 14.3 Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The efficacy of tocilizumab was assessed in a three-part study, WA19977 (NCT00988221), including an open-label extension in children 2 to 17 years of age with active polyarticular juvenile idiopathic arthritis (PJIA), who had an inadequate response to methotrexate or inability to tolerate methotrexate.
 Patients had at least 6 months of active disease (mean disease duration of 4.2 ± 3.7 years), with at least five joints with active arthritis (swollen or limitation of movement accompanied by pain and/or tenderness) and/or at least 3 active joints having limitation of motion (mean, 20 ± 14 active joints).
@@ -173,7 +183,7 @@ Tocilizumab treated patients experienced significantly fewer disease flares comp
 
 During the withdrawal phase (Part II), more patients treated with tocilizumab showed JIA ACR 30/50/70 responses at Week 40 compared to patients withdrawn to placebo.
 
-## 14.3 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
+## 14.4 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The efficacy of tocilizumab for the treatment of active SJIA was assessed in WA18221 (NCT00642460), a 12-week randomized, double blind, placebo-controlled, parallel group, 2-arm study.
 Patients treated with or without MTX, were randomized (tocilizumab:placebo = 2:1) to one of two treatment groups: 75 patients received tocilizumab infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks.
@@ -184,9 +194,9 @@ The primary endpoint was the proportion of patients with at least 30% improvemen
 JIA ACR (American College of Rheumatology) responses are defined as the percentage improvement (e.g., 30%, 50%, 70%) in 3 of any 6 core outcome variables compared to baseline, with worsening in no more than 1 of the remaining variables by 30% or more.
 Core outcome variables consist of physician global assessment, parent per patient global assessment, number of joints with active arthritis, number of joints with limitation of movement, erythrocyte sedimentation rate (ESR), and functional ability (childhood health assessment questionnaire-CHAQ).
 
-Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 7.
+Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 8.
 
-Table 7 Efficacy Findings at Week 12
+Table 8 Efficacy Findings at Week 12
 
 |  | Tocilizumab N=75 | Placebo N=37 |
 | --- | --- | --- |
@@ -223,3 +233,75 @@ Health Related Outcomes
 
 Physical function and disability were assessed using the Childhood Health Assessment Questionnaire Disability Index (CHAQ-DI).
 Seventy-seven percent (58 out of 75) of patients in the tocilizumab treatment group achieved a minimal clinically important improvement in CHAQ-DI (change from baseline of ≥ 0.13 units) at week 12 compared to 19% (7 out of 37) in the placebo treatment group.
+
+## 14.5 COVID-19 - Intravenous Administration
+
+The efficacy of tocilizumab for the treatment of COVID-19 was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
+Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262), which evaluated the efficacy of tocilizumab for the treatment of COVID-19 are also summarized.
+
+RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
+
+RECOVERY was a randomized, controlled, open-label, multicenter platform study conducted in the United Kingdom to evaluate the efficacy and safety of potential treatments in hospitalized adult patients with severe COVID-19 pneumonia.
+Eligible patients for the tocilizumab portion of the study had clinically suspected or laboratory-confirmed SARS-CoV-2 infection and no medical contraindications to any of the treatments and had clinical evidence of progressive COVID-19 (defined as oxygen saturation <92% on room air or receiving oxygen therapy, and CRP ≥75 mg/L).
+Patients were then randomized to receive either standard of care (SoC) or intravenous tocilizumab at a weight-tiered dosing comparable to the recommended dosage [see Clinical Pharmacology (12.3)] in addition to SoC.
+
+Efficacy analyses were performed in the intent-to-treat (ITT) population comprising 4116 adult patients who were randomized to the tocilizumab + SoC arm (n=2022) or to the SoC arm (n=2094).
+The mean age of participants was 64 years (range: 20 to 101), and patients were 67% male, 76% White, 11% Asian, 3% Black or African American, and 1% mixed race.
+At baseline, 0.2% of patients were not on supplemental oxygen, 45% of patients required low flow oxygen, 41% of patients required non-invasive ventilation or high-flow oxygen, and 14% of patients required invasive mechanical ventilation; 82% of patients were reported to be receiving systemic corticosteroids.
+
+The primary efficacy endpoint was time to death through Day 28.
+The results for the overall population and the subgroups of patients who were or were not receiving systemic corticosteroids at time of randomization are summarized in Table 9.
+
+Table 9 Mortality through Day 28 in RECOVERY
+
+|  | tocilizumab + SoC N=2022 n (%) P-value reflects that the RECOVERY trial primary analysis results were statistically significant at the two-sided significance level of α = 0.05. | SoC N=2094 n (%) | Hazard Ratio (95% CI) | Risk Difference (95% CI) |
+| --- | --- | --- | --- | --- |
+| Mortality | 621 (30.7%) | 729 (34.9%) | 0.85 (0.76, 0.94) p= 0.0028 | -4.1% (-7.0, -1.3) |
+| By baseline receipt of corticosteroid use |  |  |  |  |
+| Mortality for patients receiving systemic corticosteroids at randomization Probabilities of dying by Day 28 were estimated by the Kaplan-Meier method. | 482/1664 (29.0%) | 600/1721 (34.9%) | 0.79 (0.70, 0.89) | -5.9% (-9.1, -2.8) |
+| Mortality for patients not receiving systemic corticosteroids at randomization | 139/357 (39.0%) | 127/367 (34.6%) | 1.16 (0.91, 1.48) | 4.4% (-2.6, 11.5) |
+
+EMPACTA
+
+EMPACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with SoC in hospitalized, non-ventilated adult patients with COVID-19 pneumonia.
+Eligible patients were at least 18 years of age, had confirmed SARS-CoV-2 infection by a positive reverse-transcriptase polymerase chain reaction (RT-PCR) result, had pneumonia confirmed by radiography, and had SpO2 < 94% on ambient air.
+
+Of the 389 patients randomized, efficacy analyses were performed in the modified intent-to-treat (mITT) population comprising 377 patients who were randomized and received study medication (249 in the tocilizumab arm; 128 in the placebo arm).
+The mean age of participants was 56 years (range: 20 to 95); 59% of patients were male, 56% were of Hispanic or Latino ethnicity, 53% were White, 20% were American Indian/Alaska Native, 15% were Black/African American and 2% were Asian.
+At baseline, 9% patients were not on supplemental oxygen, 64% patients required low flow oxygen, 27% patients required high-flow oxygen, and 73% were on corticosteroids.
+
+The primary efficacy endpoint evaluated time to progression to mechanical ventilation or death through Day 28.
+The hazard ratio comparing tocilizumab to placebo was 0.56 (95% CI, 0.33 to 0.97), a statistically significant result (log-rank, p-value = 0.036).
+The cumulative proportion of patients who required mechanical ventilation or died by Day 28 was 12.0% (95% CI, 8.5% to 16.9%) in the tocilizumab arm and 19.3% (95% CI, 13.3% to 27.4%) in the placebo arm.
+
+Mortality at Day 28 was 10.4% in the tocilizumab arm versus 8.6% in the placebo arm (weighted difference (tocilizumab arm - placebo arm): 2.0% [95% CI, -5.2% to 7.8%]).
+
+COVACTA
+
+COVACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with SoC for the treatment of adult patients hospitalized with severe COVID-19 pneumonia.
+The study randomized 452 patients who were at least 18 years of age with confirmed SARS-CoV-2 infection by a positive RT-PCR result, had pneumonia confirmed by radiography, and had oxygen saturation of 93% or lower on ambient air or a ratio of arterial oxygen partial pressure to fractional inspired oxygen of 300 mmHg or less.
+At baseline, 3% of patients were not on supplemental oxygen, 28% were on low flow oxygen, 30% were on non-invasive ventilation or high flow oxygen, 38% were on invasive mechanical ventilation, and 22% were on corticosteroids.
+The primary efficacy endpoint was clinical status on Day 28 assessed on a 7-category ordinal scale that ranged from "discharged" to "death."
+There were no statistically significant differences observed in the distributions of clinical status on the 7-category ordinal scale at Day 28 when comparing the tocilizumab arm to the placebo arm.
+
+Mortality at Day 28 was 19.7% in the tocilizumab arm versus 19.4% in the placebo arm (weighted difference (tocilizumab arm - placebo arm): 0.3% [95% CI, -7.6 to 8.2]).
+
+REMDACTA
+
+REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized patients with severe COVID-19 pneumonia.
+The study randomized 649 adult patients with SARS-CoV-2 infection confirmed by a positive polymerase chain reaction (PCR) result, pneumonia confirmed by radiography, and who required supplemental oxygen > 6 L/min to maintain SpO2 >93%.
+At baseline, 7% of patients were on low flow oxygen, 80% were on non-invasive ventilation or high flow oxygen, 14% were on invasive mechanical ventilation, and 84% were on corticosteroids.
+
+The primary efficacy endpoint was time from randomization to hospital discharge or 'ready for discharge' up to Day 28.
+There was no statistically significant difference between the treatment arms with respect to time to hospital discharge or "ready for discharge" through Day 28.
+
+Mortality at Day 28 was 18.1% in the tocilizumab + RDV arm versus 19.5% in the placebo +RDV arm (weighted difference (tocilizumab arm - placebo arm): -1.3% [95% CI, -7.8% to 5.2%]).
+
+Mortality Across Studies in Patients Receiving Baseline Corticosteroids
+
+A study-level meta-analysis was conducted on EMPACTA, COVACTA, REMDACTA and RECOVERY studies.
+For each of the four studies, the risk difference through Day 28 was estimated by the Kaplan-Meier method in the subgroup of patients receiving baseline corticosteroids, summarized in Figure 2.
+Patients from the RECOVERY trial represent 78.8% of the total sample size in this meta-analysis.
+The combined risk difference showed that tocilizumab treatment (n=2261) resulted in a 4.61% absolute reduction in the risk of death at Day 28 (risk difference=-4.6%; 95% CI: -7.3% to -1.9%) compared to SoC (n=2034).
+
+Figure 2 Risk Differences Through Day 28 for Baseline Corticosteroid Use Subpopulation in RECOVERY, EMPACTA, COVACTA and REMDACTA studies

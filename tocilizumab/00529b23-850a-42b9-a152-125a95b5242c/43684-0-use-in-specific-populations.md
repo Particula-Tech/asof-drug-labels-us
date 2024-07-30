@@ -5,7 +5,7 @@
 Risk Summary
 
 The limited available data with tocilizumab products in pregnant women are not sufficient to determine whether there is a drug-associated risk for major birth defects and miscarriage.
-Monoclonal antibodies, such as tocilizumab products, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
+Monoclonal antibodies, such as tocilizumab products, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of tocilizumab to Cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at doses 1.25 times and higher than the maximum recommended human dose by the intravenous route of 8 mg per kg every 2 to 4 weeks.
 The literature in animals suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition [see Data].
 Based on the animal data, there may be a potential risk to the fetus.
@@ -32,8 +32,8 @@ There was no evidence for any functional impairment of the development and behav
 
 Parturition is associated with significant increases of IL-6 in the cervix and myometrium.
 The literature suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition.
-For mice deficient in IL-6 (ll6 -/- null mice), parturition was delayed relative to wild-type (ll6 +/+) mice.
-Administration of recombinant IL-6 to ll6 -/- null mice restored the normal timing of delivery.
+For mice deficient in IL-6 (ll6 -/-null mice), parturition was delayed relative to wild-type (ll6 +/+) mice.
+Administration of recombinant IL-6 to ll6 -/-null mice restored the normal timing of delivery.
 
 ## 8.2 Lactation
 
@@ -62,7 +62,7 @@ Patients received intravenous tocilizumab 12 mg/kg every two weeks.
 Concurrent use of stable background treatment with corticosteroids, MTX, and/or non-steroidal anti-inflammatory drugs was permitted.
 Patients who completed the 12-week period could continue to the optional extension period (a total of 52-weeks or until the age of 2 years, whichever was longer).
 
-The primary PK endpoints (C max, C trough and AUC 2weeks) of tocilizumab at steady-state in this study were within the ranges of these parameters observed in patients with SJIA aged 2 to 17 years.
+The primary PK endpoints (C max, C troughand AUC 2weeks) of tocilizumab at steady-state in this study were within the ranges of these parameters observed in patients with SJIA aged 2 to 17 years.
 
 The safety and immunogenicity of tocilizumab for patients with SJIA under 2 years of age was assessed descriptively.
 SAEs, AEs leading to discontinuation, and infectious AEs were reported by 27.3%, 36.4%, and 81.8% of patients.
@@ -77,6 +77,12 @@ Annals of the Rheumatic Diseases 2016;75:481-489..
 Of the 2644 patients who received tocilizumab in Studies I to V [see Clinical Studies (14)], a total of 435 rheumatoid arthritis patients were 65 years of age and older, including 50 patients 75 years and older.
 The frequency of serious infection among tocilizumab treated subjects 65 years of age and older was higher than those under the age of 65.
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
+
+In the EMPACTA, COVACTA, and REMDACTA studies, of the 974 COVID-19 patients in the tocilizumab arm, 375 (39%) were 65 years of age or older.
+No overall differences in safety or effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age of 65 years of age in these studies [see Adverse Reactions (6.5)and Clinical Studies (14.5)].
+
+In the RECOVERY study, of the 2022 COVID-19 patients in the tocilizumab arm, 930 (46%) were 65 years of age or older.
+No overall differences in effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age 65 years of age in this study [see Clinical Studies (14.5)].
 
 ## 8.6 Hepatic Impairment
 
