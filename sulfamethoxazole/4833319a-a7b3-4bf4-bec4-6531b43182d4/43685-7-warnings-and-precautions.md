@@ -9,11 +9,19 @@ Hypersensitivity and Other Serious or Fatal Reactions
 
 Fatalities and serious adverse reactions including severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products, including sulfamethoxazole and trimethoprim tablets (see ADVERSE REACTIONS).
 
+Hypersensitivity Reactions of the Respiratory Tract
+
 Cough, shortness of breath and pulmonary infiltrates potentially representing hypersensitivity reactions of the respiratory tract have been reported in association with sulfamethoxazole and trimethoprim treatment.
+
+Respiratory Failure
 
 Other severe pulmonary adverse reactions occurring within days to week of sulfamethoxazole and trimethoprim tablets initiation and resulting in prolonged respiratory failure requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO), lung transplantation or death have also been reported in patients and otherwise healthy individuals treated with sulfamethoxazole and trimethoprim products.
 
+Circulatory Shock
+
 Circulatory shock with fever, severe hypotension, and confusion requiring intravenous fluid resuscitation and vasopressors has occurred within minutes to hours of re-challenge with sulfamethoxazole and trimethoprim products, including sulfamethoxazole and trimethoprim tablets, in patients with history of recent (days to weeks) exposure to sulfamethoxazole and trimethoprim.
+
+Management of Hypersensitivity and Other Serious Reactions
 
 Sulfamethoxazole and trimethoprim tablets should be discontinued at the first appearance of skin rash or any sign of a serious adverse reaction.
 A skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis, or serious blood disorders (see PRECAUTIONS and ADVERSE REACTIONS).
@@ -28,22 +36,23 @@ Streptococcal Infections and Rheumatic Fever
 The sulfonamides should not be used for treatment of group A β-hemolytic streptococcal infections.
 In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever.
 
-Clostridioidesdifficile Associated Diarrhea
+ClostridioidesdifficileAssociated Diarrhea
 
-Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including sulfamethoxazole and trimethoprim tablets, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including sulfamethoxazole and trimethoprim tablets, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficilemay need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-Risk Associated with Concurrent Use of Leucovorin for Pneumocystis jirovecii Pneumonia
+Risk Associated with Concurrent Use of Leucovorin for Pneumocystis jiroveciiPneumonia
 
-Treatment failure and excess mortality were observed when sulfamethoxazole and trimethoprim tablets were used concomitantly with leucovorin for the treatment of HIV positive patients with P. jirovecii pneumonia in a randomized placebo-controlled trial.4 Avoid coadministration of sulfamethoxazole and trimethoprim tablets and leucovorin during treatment of P. jirovecii pneumonia.
+Treatment failure and excess mortality were observed when sulfamethoxazole and trimethoprim tablets were used concomitantly with leucovorin for the treatment of HIV positive patients with P. jiroveciipneumonia in a randomized placebo-controlled trial.
+4Avoid coadministration of sulfamethoxazole and trimethoprim tablets and leucovorin during treatment of P. jiroveciipneumonia.
 
 # PRECAUTIONS
 
@@ -77,21 +86,21 @@ Porphyria and Hypothyroidism
 Like other drugs containing sulfonamides, sulfamethoxazole and trimethoprim tablets can precipitate porphyria crisis and hypothyroidism.
 Avoid use of sulfamethoxazole and trimethoprim tablets in patients with porphyria or thyroid dysfunction.
 
-Potential Risk in the Treatment of Pneumocystis jirovecii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS)
+Potential Risk in the Treatment of Pneumocystis jiroveciiPneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS)
 
 AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim tablets in the same manner as non-AIDS patients.
-The incidence of adverse reactions, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim tablets therapy in AIDS patients who are being treated for P. jirovecii pneumonia has been reported to be increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim tablets in non-AIDS patients.
+The incidence of adverse reactions, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim tablets therapy in AIDS patients who are being treated for P. jiroveciipneumonia has been reported to be increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim tablets in non-AIDS patients.
 If a patient develops skin rash, fever, leukopenia or any sign of adverse reaction, reevaluate benefit-risk of continuing therapy or re-challenge with sulfamethoxazole and trimethoprim tablets (see WARNINGS).
 
-Avoid coadministration of sulfamethoxazole and trimethoprim tablets and leucovorin during treatment of P. jirovecii pneumonia (see WARNINGS).
+Avoid coadministration of sulfamethoxazole and trimethoprim tablets and leucovorin during treatment of P. jiroveciipneumonia (see WARNINGS).
 
 Electrolyte Abnormalities
 
-Hyperkalemia: High dosage of trimethoprim, as used in patients with P. jirovecii pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
+Hyperkalemia: High dosage of trimethoprim, as used in patients with P. jiroveciipneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
 Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly.
 Close monitoring of serum potassium is warranted in these patients.
 
-Hyponatremia: Severe and symptomatic hyponatremia can occur in patients receiving sulfamethoxazole and trimethoprim tablets, particularly for the treatment of P. jirovecii pneumonia.
+Hyponatremia: Severe and symptomatic hyponatremia can occur in patients receiving sulfamethoxazole and trimethoprim tablets, particularly for the treatment of P. jiroveciipneumonia.
 Evaluation for hyponatremia and appropriate correction is necessary in symptomatic patients to prevent life-threatening complications.
 
 Crystalluria: During treatment, ensure adequate fluid intake and urinary output to prevent crystalluria.
@@ -99,14 +108,16 @@ Patients who are “slow acetylators” may be more prone to idiosyncratic react
 
 Information for Patients
 
-Patients should be counseled that antibacterial drugs including sulfamethoxazole and trimethoprim tablets should only be used to treat bacterial infections.
+Hypersensitivity and Other Serious Reactions: Advise patients to stop taking sulfamethoxazole and trimethoprim tablets immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice and to contact their healthcare provider as soon as possible (see WARNINGS and ADVERSE REACTIONS).
+
+Antibacterial Resistance: Patients should be counseled that antibacterial drugs including sulfamethoxazole and trimethoprim tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When sulfamethoxazole and trimethoprim tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by sulfamethoxazole and trimethoprim tablets or other antibacterial drugs in the future.
 
-Patients should be instructed to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
+Crystalluria and Stone Formation: Advise patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Diarrhea: Advise patients that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
@@ -139,10 +150,10 @@ Table 1: Drug Interactions with Sulfamethoxazole and Trimethoprim Tablets
 | TricyclicAntidepressants(TCAs) | Monitor therapeutic response and adjust dose of TCA accordingly | The efficacy of tricyclic antidepressants can decrease when coadministered with sulfamethoxazole and trimethoprim tablets. |
 | Oral Hypoglycemics | Monitor blood glucose more frequently | Like other sulfonamide-containing drugs, sulfamethoxazole and trimethoprim tablets potentiates the effect of oral hypoglycemic that are metabolized by CYP2C8 (e.g., pioglitazone, repaglinide, and rosiglitazone) or CYP2C9 (e.g., glipizide and glyburide) or eliminated renally via OCT2 (e.g., metformin). Additional monitoring of blood glucose may be warranted. |
 | Amantadine | Avoid concurrent use | In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole and trimethoprim tablets and amantadine (an OCT2 substrate). Cases of interactions with other OCT2 substrates, memantine and metformin, have also been reported. |
-| Angiotensin ConvertingEnzyme Inhibitors | Avoid concurrent use | In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole and trimethoprim tablets and an angiotensin converting enzyme inhibitor.5,6 |
-| Zidovudine | Monitor for hematologic toxicity | Zidovudine and sulfamethoxazole and trimethoprim tablets are known to induce hematological abnormalities. Hence, there is potential for an additive myelotoxicity when coadministered.7 |
-| Dofetilide | Concurrent administration is contraindicated | Elevated plasma concentrations of dofetilide have been reported following concurrent administration of trimethoprim and dofetilide. Increased plasma concentrations of dofetilide may cause serious ventricular arrhythmias associated with QT interval prolongation, including torsade de pointes.8,9 |
-| Procainamide | Closely monitor for clinical and ECG signs of procainamide toxicity and/or procainamide plasma concentration if available | Trimethoprim increases the plasma concentrations of procainamide and its active N-acetyl metabolite (NAPA) when trimethoprim and procainamide are coadministered. The increased procainamide and NAPA plasma concentrations that resulted from the pharmacokinetic interaction with trimethoprim are associated with further prolongation of the QTc interval.10 |
+| Angiotensin ConvertingEnzyme Inhibitors | Avoid concurrent use | In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole and trimethoprim tablets and an angiotensin converting enzyme inhibitor. 5,6 |
+| Zidovudine | Monitor for hematologic toxicity | Zidovudine and sulfamethoxazole and trimethoprim tablets are known to induce hematological abnormalities. Hence, there is potential for an additive myelotoxicity when coadministered. 7 |
+| Dofetilide | Concurrent administration is contraindicated | Elevated plasma concentrations of dofetilide have been reported following concurrent administration of trimethoprim and dofetilide. Increased plasma concentrations of dofetilide may cause serious ventricular arrhythmias associated with QT interval prolongation, including torsade de pointes. 8,9 |
+| Procainamide | Closely monitor for clinical and ECG signs of procainamide toxicity and/or procainamide plasma concentration if available | Trimethoprim increases the plasma concentrations of procainamide and its active N-acetyl metabolite (NAPA) when trimethoprim and procainamide are coadministered. The increased procainamide and NAPA plasma concentrations that resulted from the pharmacokinetic interaction with trimethoprim are associated with further prolongation of the QTc interval. 10 |
 
 Drug/Laboratory Test Interactions
 
@@ -159,16 +170,16 @@ Sulfamethoxazole was not carcinogenic when assessed in a 26-week tumorigenic mou
 
 Mutagenesis
 
-In vitro reverse mutation bacterial tests according to the standard protocol have not been performed with sulfamethoxazole and trimethoprim in combination.
-An in vitro chromosomal aberration test in human lymphocytes with sulfamethoxazole and trimethoprim was negative.
-In in vitro and in vivo tests in animal species, sulfamethoxazole and trimethoprim did not damage chromosomes.
-In vivo micronucleus assays were positive following oral administration of sulfamethoxazole and trimethoprim.
+In vitroreverse mutation bacterial tests according to the standard protocol have not been performed with sulfamethoxazole and trimethoprim in combination.
+An in vitrochromosomal aberration test in human lymphocytes with sulfamethoxazole and trimethoprim was negative.
+In in vitroand in vivotests in animal species, sulfamethoxazole and trimethoprim did not damage chromosomes.
+In vivomicronucleus assays were positive following oral administration of sulfamethoxazole and trimethoprim.
 Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities.
 
-Sulfamethoxazole alone was positive in an in vitro reverse mutation bacterial assay and in in vitro micronucleus assays using cultured human lymphocytes.
+Sulfamethoxazole alone was positive in an in vitroreverse mutation bacterial assay and in in vitromicronucleus assays using cultured human lymphocytes.
 
-Trimethoprim alone was negative in in vitro reverse mutation bacterial assays and in in vitro chromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation.
-In in vitro Comet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive.
+Trimethoprim alone was negative in in vitroreverse mutation bacterial assays and in in vitrochromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation.
+In in vitroComet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive.
 In mice following oral administration of trimethoprim, no DNA damage in Comet assays of liver, kidney, lung, spleen, or bone marrow was recorded.
 
 Impairment of Fertility
@@ -177,7 +188,7 @@ No adverse effects on fertility or general reproductive performance were observe
 
 Pregnancy
 
-While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,11 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell, 11in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly thereafter.
@@ -203,7 +214,7 @@ In some rabbit studies, an overall increase in fetal loss (dead and resorbed con
 
 Nonteratogenic Effects
 
-See CONTRAINDICATIONS section.
+See CONTRAINDICATIONSsection.
 
 Nursing Mothers
 
@@ -212,20 +223,20 @@ Caution should be exercised when sulfamethoxazole and trimethoprim tablets are a
 
 Pediatric Use
 
-Sulfamethoxazole and trimethoprim tablets are contraindicated for infants younger than 2 months of age (see INDICATIONSAND USAGE and CONTRAINDICATIONS sections).
+Sulfamethoxazole and trimethoprim tablets are contraindicated for infants younger than 2 months of age (see INDICATIONSAND USAGEand CONTRAINDICATIONSsections).
 
 Geriatric Use
 
 Clinical studies of sulfamethoxazole and trimethoprim tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 There may be an increased risk of severe adverse reactions in elderly patients, particularly when complicating conditions exist, e.g., impaired kidney and/or liver function, possible folate deficiency, or concomitant use of other drugs.
-Severe skin reactions, generalized bone marrow suppression (see WARNINGS and ADVERSE REACTIONS sections), a specific decrease in platelets (with or without purpura), and hyperkalemia are the most frequently reported severe adverse reactions in elderly patients.
+Severe skin reactions, generalized bone marrow suppression (see WARNINGSand ADVERSE REACTIONSsections), a specific decrease in platelets (with or without purpura), and hyperkalemia are the most frequently reported severe adverse reactions in elderly patients.
 In those concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported.
 Increased digoxin blood levels can occur with concomitant sulfamethoxazole and trimethoprim tablets therapy, especially in elderly patients.
 Serum digoxin levels should be monitored.
 Hematological changes indicative of folic acid deficiency may occur in elderly patients.
 These effects are reversible by folinic acid therapy.
-Appropriate dosage adjustments should be made for patients with impaired kidney function and duration of use should be as short as possible to minimize risks of undesired reactions (see DOSAGE AND ADMINISTRATION section).
+Appropriate dosage adjustments should be made for patients with impaired kidney function and duration of use should be as short as possible to minimize risks of undesired reactions (see DOSAGE AND ADMINISTRATIONsection).
 The trimethoprim component of sulfamethoxazole and trimethoprim tablets may cause hyperkalemia when administered to patients with underlying disorders of potassium metabolism, with renal insufficiency or when given concomitantly with drugs known to induce hyperkalemia, such as angiotensin converting enzyme inhibitors.
 Close monitoring of serum potassium is warranted in these patients.
 Discontinuation of sulfamethoxazole and trimethoprim tablets treatment is recommended to help lower potassium serum levels.

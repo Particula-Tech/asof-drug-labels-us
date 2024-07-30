@@ -4,10 +4,10 @@ Sulfamethoxazole and trimethoprim tablets are contraindicated in pediatric patie
 
 Urinary Tract Infections and Shigellosis in Adults and Pediatric Patients, and Acute Otitis Media in Children
 
-Adults: The usual adult dosage in the treatment of urinary tract infections is 1 sulfamethoxazole and trimethoprim DS (double strength) tablet or 2 sulfamethoxazole and trimethoprim tablets every 12 hours for 10 to 14 days.
+Adults:The usual adult dosage in the treatment of urinary tract infections is 1 sulfamethoxazole and trimethoprim DS (double strength) tablet or 2 sulfamethoxazole and trimethoprim tablets every 12 hours for 10 to 14 days.
 An identical daily dosage is used for 5 days in the treatment of shigellosis.
 
-Children: The recommended dose for children with urinary tract infections or acute otitis media is 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in two divided doses every 12 hours for 10 days.
+Children:The recommended dose for children with urinary tract infections or acute otitis media is 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in two divided doses every 12 hours for 10 days.
 An identical daily dosage is used for 5 days in the treatment of shigellosis.
 The following table is a guideline for the attainment of this dosage:
 
@@ -32,9 +32,10 @@ When renal function is impaired, a reduced dosage should be employed using the f
 
 Acute Exacerbations of Chronic Bronchitis in Adults The usual adult dosage in the treatment of acute exacerbations of chronic bronchitis is 1 sulfamethoxazole and trimethoprim DS (double strength) tablet or 2 sulfamethoxazole and trimethoprim tablets every 12 hours for 14 days.
 
-Pneumocystis jirovecii Pneumonia Treatment
+Pneumocystis jiroveciiPneumonia Treatment
 
-Adults and Children: The recommended dosage for treatment of patients with documented Pneumocystis jirovecii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.12 The following table is a guideline for the upper limit of this dosage:
+Adults and Children: The recommended dosage for treatment of patients with documented Pneumocystis jiroveciipneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.
+12The following table is a guideline for the upper limit of this dosage:
 
 | Weight |  | Dose–every 6 hours |
 | --- | --- | --- |
@@ -52,12 +53,14 @@ For the lower limit dose (75 mg/kg sulfamethoxazole and 15 mg/kg trimethoprim pe
 
 Prophylaxis Adults:
 
-The recommended dosage for prophylaxis in adults is 1 sulfamethoxazole and trimethoprim DS (double strength) tablet daily.13
+The recommended dosage for prophylaxis in adults is 1 sulfamethoxazole and trimethoprim DS (double strength) tablet daily.
+13
 
-Children: For children, the recommended dose is 750 mg/m2/day sulfamethoxazole with 150 mg/m2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
-The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.14 The following table is a guideline for the attainment of this dosage in children:
+Children: For children, the recommended dose is 750 mg/m 2/day sulfamethoxazole with 150 mg/m 2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
+The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.
+14The following table is a guideline for the attainment of this dosage in children:
 
-| (m2) | Tablets |
+| (m 2) | Tablets |
 | --- | --- |
 | Body Surface Area | Dose–every 12 hours |
 | 0.26 | – |
