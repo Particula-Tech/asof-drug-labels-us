@@ -51,7 +51,7 @@ Six percent (6%) of dimethyl fumarate delayed-release capsules patients and less
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with dimethyl fumarate delayed-release capsules or placebo, respectively.
 There was no increased incidence of serious infections observed in patients with lymphocyte counts less than 0.8x109/L or ≤0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly less than 0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
 
-In controlled and uncontrolled clinical trials, 2% of patients experienced prolonged, severe lymphopenia, (defined as lymphocyte counts less than 0.5 x 109/L for at least six months);in this group of patients, the majority of lymphocyte counts remained less than 0.5x109/L with continued therapy.
+In controlled and uncontrolled clinical trials, 2% of patients experienced prolonged, severe lymphopenia, (defined as lymphocyte counts less than 0.5 x 109/L for at least six months); in this group of patients, the majority of lymphocyte counts remained less than 0.5x109/L with continued therapy.
 In these patients with prolonged, severe lymphopenia, the median time for lymphocyte counts to return to normal after discontinuing dimethyl fumarate delayed-release capsules was 96.0 weeks.
 
 In these controlled and uncontrolled clinical studies, among patients who did not experience prolonged, severe lymphopenia during treatment, the median times for lymphocyte counts to return to normal after discontinuing dimethyl fumarate delayed-release capsules were as follows:
@@ -92,3 +92,11 @@ In the majority of patients who experienced flushing, it was mild or moderate in
 Three percent (3%) of patients discontinued dimethyl fumarate delayed-release capsules for flushing and less than 1% had serious flushing symptoms that were not life-threatening but led to hospitalization.
 Administration of dimethyl fumarate delayed-release capsules with food may reduce the incidence of flushing.
 Alternatively, administration of non-enteric coated aspirin (up to a dose of 325 mg) 30 minutes prior to dimethyl fumarate delayed-release capsules dosing may reduce the incidence or severity of flushing [see Dosing and Administration (2.1) and Clinical Pharmacology (12.3)].
+
+## 5.7 Serious Gastrointestinal Reactions
+
+Serious gastrointestinal reactions, including perforation, ulceration, hemorrhage, and obstruction, some with fatal outcomes, have been reported in the postmarketing setting with the use of fumaric acid esters, including dimethyl fumarate delayed-release capsules, with or without concomitant aspirin use.
+The majority of these events have occurred within 6 months of fumaric acid ester treatment initiation.
+In controlled clinical trials, the incidence of serious gastrointestinal adverse events was 1% in patients treated with dimethyl fumarate delayed-release capsules; these events, none of which were fatal, included vomiting (0.3%) and abdominal pain (0.3%) [see Adverse Reactions (6.1)].
+
+Monitor patients, promptly evaluate, and discontinue dimethyl fumarate delayed-release capsules for new or worsening severe gastrointestinal signs and symptoms.

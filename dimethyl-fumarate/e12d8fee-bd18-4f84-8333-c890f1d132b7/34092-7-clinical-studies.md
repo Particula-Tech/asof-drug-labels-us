@@ -32,7 +32,7 @@ Table 2: Clinical and MRI Results of Study 1
 | Proportion with disability progression Relative risk reduction | 16% 38% | 27% | 0.0050 |
 | MRI Endpoints | N=152 | N=165 |  |
 | Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 2.6 45% | 17 27% | Less than 0.0001 |
-| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.1 (0) 93% 5% Less than1% 0 Less than 1% 90% | 1.8 (0) 62% 10% 8% 9% 11% | Less than 0.0001 |
+| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.1 (0) 93% 5% Less than 1% 0 Less than 1% 90% | 1.8 (0) 62% 10% 8% 9% 11% | Less than 0.0001 |
 | Mean number of new T1 hypointense lesions over 2 years | 1.5 | 5.6 | Less than 0.0001 |
 
 Figure 1: Time to 12-Week Confirmed Progression of Disability (Study 1)

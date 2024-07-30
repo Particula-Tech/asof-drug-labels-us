@@ -19,6 +19,7 @@ Tell your doctor if you are:
 
 - pregnant or plan to become pregnant.
   It is not known if dimethyl fumarate delayed-release capsules will harm your unborn baby.
+  You and your doctor will have to decide if you should take dimethyl fumarate delayed-release capsules while you are pregnant or if you plan to become pregnant.
 - breastfeeding or plan to breastfeed.
   It is not known if dimethyl fumarate passes into your breast milk.
   You and your doctor should decide if you will take dimethyl fumarate delayed-release capsules or breastfeed.
@@ -44,15 +45,20 @@ Dimethyl fumarate delayed-release capsules may cause serious side effects includ
 - decreases in your white blood cell count Your doctor should do a blood test before you start treatment with dimethyl fumarate delayed-release capsules and while on therapy.
 - liver problems.
   Your doctor should do blood tests to check your liver function before you start taking dimethyl fumarate delayed-release capsules and during treatment if needed.
-  Tell your doctor right away if you get any of these symptoms of a liver problem during treatment. o severe tiredness o loss of appetite o pain on the right side of your stomach o have dark or brown (tea color) urine
+  Tell your doctor right away if you get any of these symptoms of a liver problem during treatment. • severe tiredness • loss of appetite • pain on the right side of your stomach • have dark or brown (tea color) urine
 - yellowing of your skin or the white part of your eyes
 - herpes zoster infections (shingles), including central nervous system infections
 - other serious infections
+- serious gastrointestinal problems, including bleeding, ulcers, blockage, and tears (perforation) of the stomach or intestines.
+  Tell your healthcare provider right away if you have any of these symptoms during treatment:
+
+• Stomach-area pain that does not go away • Bright red or black stools (that look like tar) • Severe vomiting • Severe diarrhea • Coughing up blood or blood clots • Vomiting blood or your vomit looks like “coffee grounds”
 
 The most common side effects of dimethyl fumarate delayed-release capsules include:
 
 - flushing, redness, itching, or rash
-- nausea, vomiting, diarrhea, stomach pain, or indigestion
+- nausea, vomiting, diarrhea, stomach pain, or indigestion.
+  These events can be serious in some patients (see “dimethyl fumarate delayed-release capsules may cause serious side effects including,” above).
 - Flushing and stomach problems are the most common reactions, especially at the start of therapy, and may decrease over time.
   Taking dimethyl fumarate delayed-release capsules with food may help reduce flushing.
   Call your doctor if you have any of these symptoms and they bother you or do not go away.
@@ -79,6 +85,6 @@ Manufactured by: Alkem Laboratories Ltd., INDIA.
 Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 For more information, call 1-877-272-7901.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: May, 2023
+Revised: March, 2024
 
-PT2832-04/PT2833-04
+PT2832-05

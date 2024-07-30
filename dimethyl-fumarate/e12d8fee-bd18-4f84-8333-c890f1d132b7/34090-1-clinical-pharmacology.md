@@ -17,7 +17,7 @@ In a placebo controlled thorough QT study performed in healthy subjects, there w
 
 After oral administration of dimethyl fumarate delayed-release capsules, dimethyl fumarate undergoes rapid presystemic hydrolysis by esterases and is converted to its active metabolite, monomethyl fumarate (MMF).
 Dimethyl fumarate is not quantifiable in plasma following oral administration of dimethyl fumarate delayed- release capsules.
-Therefore, all pharmacokinetic analyses related to dimethyl fumarate delayed-release capsules were performed with plasma MMF concentrations.
+Therefore all pharmacokinetic analyses related to dimethyl fumarate delayed-release capsules were performed with plasma MMF concentrations.
 Pharmacokinetic data were obtained in subjects with multiple sclerosis and healthy volunteers.
 
 Absorption
