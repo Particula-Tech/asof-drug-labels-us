@@ -21,11 +21,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
+Made in Germany
 
-Mylan.com
-
-RM2045A5
+RHPT2045A1
 
 # PRINCIPAL DISPLAY PANEL – 1 mg
 
@@ -50,11 +48,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
+Made in Germany
 
-Mylan.com
-
-RM2046A5
+RHPT2046A1
 
 # PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -79,8 +75,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
+Made in Germany
 
-Mylan.com
-
-RM2047A5
+RHPT2047A1
