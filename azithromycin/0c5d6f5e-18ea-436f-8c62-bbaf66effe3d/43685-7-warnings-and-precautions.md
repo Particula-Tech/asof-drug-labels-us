@@ -17,6 +17,10 @@ As with other anti-infectives, prolonged use may result in overgrowth of non-sus
 If super-infection occurs, discontinue use and institute alternative therapy.
 Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and where appropriate, fluorescein staining.
 
-## 5.4 Avoidance of Contact Lenses
+## 5.4 Contamination of the Applicator Tip
+
+Avoid contaminating the applicator tip by not allowing it to touch the eye, fingers or other sources.
+
+## 5.5 Avoidance of Contact Lenses
 
 Patients should be advised not to wear contact lenses if they have signs or symptoms of bacterial conjunctivitis.

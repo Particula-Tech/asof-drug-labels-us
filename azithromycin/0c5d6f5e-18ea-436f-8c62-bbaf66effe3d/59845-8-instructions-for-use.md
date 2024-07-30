@@ -35,18 +35,18 @@ This is a total of 9 drops of AzaSite for each infected eye.
 | Step 1. Turn the closed bottle upside down. See Figure C | Step 2. Shake your hand firmly. This helps move the medicine into the tip of the bottle. See Figure D |
 | Step 3. Hold the bottle upside down and take off the tan cap. See Figure E | Step 4. Tilt your head back. Hold the bottle over your eye and gently squeeze the bottle to let 1 drop into each eye that has bacterial conjunctivitis. Put the tan cap back on the bottle and close tightly. See Figure F |
 | If a drop does not come out of the bottle, repeat steps one to four. |  |
-| This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration. |  |
 
-Manufactured for: Thea Pharma Inc. Lexington, MA 02420
+Manufactured for: Thea Pharma Inc. Waltham, MA 02451
 
 U.S. Patent No.: 7,758,553
 
-AzaSite is a registered trademark of Sun Pharma.
+AzaSite is a registered trademark of Thea Pharma Inc.
 
-© 2022.
+DuraSite is a registered trademark of Sun Pharma.
+
+© 2024.
 Thea Pharma Inc. All rights reserved
 
-Rev.
-05/22
+This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-N10270C2USA/0522B
+Revised: 07/2024

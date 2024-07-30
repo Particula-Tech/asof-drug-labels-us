@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-AzaSite (azithromycin ophthalmic solution) is a 1% sterile aqueous topical ophthalmic solution of azithromycin formulated in DuraSite ® (polycarbophil, edetate disodium, sodium chloride).
+AzaSite® (azithromycin ophthalmic solution) is a 1% sterile aqueous topical ophthalmic solution of azithromycin formulated in DuraSite ® (polycarbophil, edetate disodium, sodium chloride).
 AzaSite is an off-white, viscous liquid with an osmolality of approximately 290 mOsm/kg.
 
 Preservative: 0.003% benzalkonium chloride.

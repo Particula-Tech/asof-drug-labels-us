@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Hypersensitivity to any component of this product.
+Azasite is contraindicated in patients with hypersensitivity to any component of this product.

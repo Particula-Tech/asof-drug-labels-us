@@ -11,8 +11,6 @@ What is AzaSite?
 AzaSite is a prescription sterile eye drop solution.
 AzaSite is used to treat bacterial conjunctivitis which is an infection of the eye caused by certain bacteria.
 
-It is not known if AzaSite is safe and effective in children less than 1 year of age.
-
 Information about bacterial conjunctivitis.
 
 Bacterial conjunctivitis is a bacterial infection of the mucous membranes which line the inside of the eyelids.
@@ -31,10 +29,9 @@ Before you use AzaSite, tell your doctor if you:
 - wear contact lenses.
   Do not wear contact lenses if you have signs or symptoms of bacterial conjunctivitis.
 - are pregnant or plan to become pregnant.
-  It is not known if AzaSite will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - are breast-feeding or plan to breast-feed.
-  It is not known if AzaSite passes into your breast milk.
+  AzaSite passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you are using AzaSite.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -130,7 +127,7 @@ This Patient Information summarizes the most important information about AzaSite
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about AzaSite that is written for health professionals.
 
-For more information, go to www.azasite.com or call 1-833-838-4028.
+For more information, call 1-833-838-4028.
 
 What are the ingredients in AzaSite?
 

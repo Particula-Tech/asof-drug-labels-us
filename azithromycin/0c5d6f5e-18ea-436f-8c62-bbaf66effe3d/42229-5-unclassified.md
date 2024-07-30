@@ -1,11 +1,10 @@
-Manufactured for: Thea Pharma Inc. Lexington, MA 02420
+Manufactured for: Thea Pharma Inc. Waltham, MA 02451
 
 U.S. Patent No.: 7,758,553
 
-AzaSite is a registered trademark of Sun Pharma © 2022.
+AzaSite is a registered trademark of Thea Pharma Inc.
+
+DuraSite is a registered trademark of Sun Pharma. © 2024.
 Thea Pharma Inc. All rights reserved
 
-Rev.
-05/22
-
-N10270C2USA/0522A
+Revised: 07/2024
