@@ -12,7 +12,7 @@ Corticosteroid tapering was permitted after Week 10.
 
 All subjects received three intravenous induction doses of 5 mg/kg of infliximab-dyyb at Weeks 0, 2 and 6.
 In order to be randomized to treatment in UC Trial I, subjects had to be in clinical response at Week 10.
-Clinical response was defined as a decrease from baseline in the mMS of at least 2 points and at least 30%, with an accompanying decrease in the RBS of at least 1 point or an aabsolute RBS of 0 or 1 point.
+Clinical response was defined as a decrease from baseline in the mMS of at least 2 points and at least 30%, with an accompanying decrease in the RBS of at least 1 point or an absolute RBS of 0 or 1 point.
 
 A total of 438 subjects were randomized at Week 10 in a double-blind fashion (2:1) to ZYMFENTRA 120 mg as a subcutaneous injection or placebo every two weeks.
 
@@ -23,9 +23,9 @@ A total of 10% of randomized subjects had prior exposure to biological poucts or
 Subjects in the boule-blind phase had a mean age of 39 years (range 18 to 75 years); 44% were female; and 98% identified as White, and 2% as American Indian or Alaska Native.
 
 The primary endpoint was the proportion of subjects in clinical remission at Week 54.
-Wecondary endpoints included the proportion of subjects achieving histologic-endoscopic mucosal improvement and corticosteroid-fee remission at Week 54 (see Table 3).
+Secondary endpoints included the proportion of subjects achieving histologic-endoscopic mucosal improvement and corticosteroid-fee remission at Week 54 (see Table 3).
 
-| Table 3: Proportion of Subjects with Ulcerative Colitis Meeting Effficacy Endpoints at Week 54 in UC Trial I |  |  |  |  |
+| Table 3: Proportion of Subjects with Ulcerative Colitis Meeting Efficacy Endpoints at Week 54 in UC Trial I |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Endpoint |  | ZYMFENTRA | Placebo | Treatment Differenceaand 95% CI |
 | Clinical Remissionb﻿ at Week 54 |  |  |  |  |
@@ -36,13 +36,13 @@ Wecondary endpoints included the proportion of subjects achieving histologic-end
 | Total population |  | N=29436% | N=14417% | 18%(9, 26) |
 | No prior biological product/JAK inhibitor exposure |  | N=26536% | N=13118% |  |
 | Prior biological product/JAK inhibitor exposure |  | N=2931% | N=138% |  |
-| Corticosteroid-Fee Remissione at Week 54 |  |  |  |  |
+| Corticosteroid-Free Remissione at Week 54 |  |  |  |  |
 | Total population |  | N=12037% | N=6118% | 17%f(3, 29) |
 | No prior biological product/JAK inhibitor |  | N=10736% | N=5618% |  |
 | Prior biological product/JAK inhibitor exposure |  | N=1339% | N=520% |  |
-| ﻿CI = confience interval, JAK = Janus kinase a Treatement difference (adjusted for stratification factors of previous exposure to biological product and/or JAK inhibitor, use of treatment with oral corticosteoids Week 0, and clinical remission status at Week 10.)b Clinical remissio is defined using the mMS as SFS of 0 or 1 point; RBS of 0 point; and ES of 0 or 1 point (excluding friability).c p < 0.0001d Histologic-endoscopic mucosal improvement is defined as an absolute ES of 0 or 1 point (excluding friability) from mMS and an absoluted Robarts Histopathology Index (RHI) score of ≤3 poitns with no lamina propria neutrophils, no neutrophils in epithelium, no erosion or ulceration. e Corticosteroid-free remission is defined as being in clinical remission by mMS in addition to not requiring any treatment with corticosteroid for at least 8 weeks at Week 54, among the patients who used oral cotricosteroids at baseline. f p < 0.05 |  |  |  |  |
+| ﻿CI = confidence interval, JAK = Janus kinase a Treatement difference (adjusted for stratification factors of previous exposure to biological product and/or JAK inhibitor, use of treatment with oral corticosteoids Week 0, and clinical remission status at Week 10.)b Clinical remission is defined using the mMS as SFS of 0 or 1 point; RBS of 0 point; and ES of 0 or 1 point (excluding friability).c p < 0.0001d Histologic-endoscopic mucosal improvement is defined as an absolute ES of 0 or 1 point (excluding friability) from mMS and an absolute Robarts Histopathology Index (RHI) score of ≤3 points with no lamina propria neutrophils, no neutrophils in epithelium, no erosion or ulceration. e Corticosteroid-free remission is defined as being in clinical remission by mMS in addition to not requiring any treatment with corticosteroid for at least 8 weeks at Week 54, among the patients who used oral cotricosteroids at baseline. f p < 0.05 |  |  |  |  |
 
-The relationship between histologic-endoscopic mucosal improvement at Week 54 and diasease progression and longer-term outcomes after Week 54 was not evaluated in UC Trial I.
+The relationship between histologic-endoscopic mucosal improvement at Week 54 and disease progression and longer-term outcomes after Week 54 was not evaluated in UC Trial I.
 
 ## 14.2 Adult Crohn's Disease
 
@@ -58,7 +58,7 @@ Clinical response was defined as a decrease from baseline in CDAI of at least 10
 
 A total of 323 subjects were randomized at Week 10 in a double-blind fashion (2:1) to ZYMFENTRA 120 mg as a subcutaneous injection or placebo every 2 weeks.
 
-At the time of randomization into thd double-blind phase (Week 10), 61% were receiving aminosalicylates, 40 % were receiving oral corticosteroids, and 32% were receiving immunomodulators including azathioprine, 6-mercaptopurine, or methotrexate.
+At the time of randomization into the double-blind phase (Week 10), 61% were receiving aminosalicylates, 40 % were receiving oral corticosteroids, and 32% were receiving immunomodulators including azathioprine, 6-mercaptopurine, or methotrexate.
 
 A total of 11% of randomized subjects had prior exposure to biological products.
 
@@ -74,8 +74,8 @@ Secondary endpoints included endoscopic remission, and corticosteroid-free remis
 | ﻿Total population | N=21663% | N=10730% | 35%c(24, 45) |
 | No prior biological product expousre | N=19162% | N=9831% |  |
 | Prior biological product exposure | N=2572% | N=922% |  |
-| Endoscopic responsed at Week 54 |  |  |  |
-| Total population | N=21650% | N=10787% | 34%c(23, 43) |
+| Endoscopic Responsed at Week 54 |  |  |  |
+| Total population | N=21650% | N=10718% | 34%c(23, 43) |
 | No prior biological product exposure | N=19151% | N=9817% |  |
 | Prior biological product exposure | N=2548% | N=922% |  |
 | Enoscopic Remissione at Week 54 |  |  |  |
@@ -86,4 +86,4 @@ Secondary endpoints included endoscopic remission, and corticosteroid-free remis
 | Total population | N=9240% | N=4321% | 19%g |
 | No prior biological product expousre | N=8135% | N=4023% |  |
 | Prior biological product exposure | N=1182% | N=30% |  |
-| CI=confidence internal, CDAI=Crohn's Disease Activity Index, JAK=Janus kinasea Treatment difference (adjusted for stratification factors of previous exposure to biological product, use of treatment with oral corticosteroids at Week 0, and clinical remission status at Week 10). b Clinical remission (based on CDAI) is defined as an absolute CDAI score of <150 points.c p < 0.0001.d Endoscopic response is defined as a >50% decrease in SES-CD from the baseline value.e Endoscopic remission is defined as an absolute SES-CD score of ≤4 with no sub-score of >1.f Corticosteroid-free remission is defined as being in clinical remission in additio to not receiving any corticosteroid for at least 8 weeks prior to Week 54, among the subjects who used oral corticosteroids at baseline. g p < 0.05 |  |  |  |
+| CI=confidence interval, CDAI=Crohn's Disease Activity Indexa Treatment difference (adjusted for stratification factors of previous exposure to biological product, use of treatment with oral corticosteroids at Week 0, and clinical remission status at Week 10). b Clinical remission (based on CDAI) is defined as an absolute CDAI score of <150 points.c p < 0.0001.d Endoscopic response is defined as a >50% decrease in SES-CD from the baseline value.e Endoscopic remission is defined as an absolute SES-CD score of ≤4 with no sub-score of >1.f Corticosteroid-free remission is defined as being in clinical remission in addition to not receiving any corticosteroid for at least 8 weeks prior to Week 54, among the subjects who used oral corticosteroids at baseline. g p < 0.05 |  |  |  |

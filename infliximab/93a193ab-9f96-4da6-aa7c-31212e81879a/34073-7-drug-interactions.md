@@ -4,7 +4,7 @@
 
 The concurrent use of ZYMFENTRA with other immunosuppressive biological products used to treat UC and CD may increase the risk of infection and is not recommended [seeWarnings and Precautions (5.9)].
 
-Consier the half-life and mode of action of prior biologial products to avoid unintended additive immunosuppressive effects when initiating ZYMFENTRA [seeWarnings and Precautions (5.10)].
+Consider the half-life and mode of action of prior biological products to avoid unintended additive immunosuppressive effects when initiating ZYMFENTRA [see Warnings and Precautions (5.10)].
 
 ## 7.2 Cytochrome P450 Substrates
 

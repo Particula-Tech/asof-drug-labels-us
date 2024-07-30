@@ -25,7 +25,7 @@ Following infliximab-dyyb 120 mg subcuaneosly every 2 weeks, steady state AUC fo
 
 Distribution
 
-Population pharmacokinetic analyses showed that the volume of distribution of infliximab-dyyb was 3.36L.
+Population pharmacokinetic analyses showed that the volume of distribution of infliximab-dyyb was 3.36 L.
 
 Elimination
 

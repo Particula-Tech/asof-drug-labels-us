@@ -54,4 +54,4 @@ The safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatirc Use
 
-Clinical trials of ZYMFENTRA did not include sufficient numbers of sugjects aged 65 and over (8 subjects with UC and 6 subjects with CD) to determined whether they respond differently from younger subjects.
+Clinical trials of ZYMFENTRA did not include sufficient numbers of subjects aged 65 and over (8 subjects with UC and 6 subjects with CD) to determined whether they respond differently from younger subjects.

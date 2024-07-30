@@ -23,14 +23,14 @@ The most common adverse reactions reported in ≥3% of subjects and at a higher 
 
 |  | ZYMFENTRA120 mg Subcutaneous InjectionbN=296(%) | PlaceboN=140(%) |
 | --- | --- | --- |
-| Table 1 Adverse Reactionsa in the Maintenance Phase of a Randomized, Double-Blind54-Week Study of Subjects with UC (UC Tral I) |  |  |
+| Table 1 Adverse Reactionsa in the Maintenance Phase of a Randomized, Double-Blind 54-Week Study of Subjects with UC (UC Tral I) |  |  |
 | ﻿COVID-19 | 10 | 6 |
 | Anemiad | 5 | 4 |
 | Arthralgia | 4 | 1 |
-| Injection site reaction# | 3 | 2 |
+| Injection site reactione | 3 | 2 |
 | Increased alanine aminotransferase | 3 | 1 |
-| Abominal painf | 3 | 1 |
-| areported in at least 3% of ZYMFENTRA-treated subjects and at a higher than placebobZYMFENTRA 120 mg as a subcutaneous injection every two weeks starting Week 10 following 3 intravenous induction doses of inflixiab-dyybcIncludes: COVID-19 and COVID-19 pneumoniadIncludes: anemia and iron deficiency anemia#Some subjects had multiple occurences of injection site reactions. In this table, injection site reactions are counted only once per subject. Symptoms in individual subjects included one or more of injection site bruising, edema, erythema, induration, pain, pruritus and swelling. fIncludes: abdominal pain, upper abdominal pain, lower abdominal pain, and abdominal discomfort |  |  |
+| Abdominal painf | 3 | 1 |
+| areported in at least 3% of ZYMFENTRA-treated subjects and at a higher than placebobZYMFENTRA 120 mg as a subcutaneous injection every two weeks starting Week 10 following 3 intravenous induction doses of inflixiab-dyybcIncludes: COVID-19 and COVID-19 pneumoniadIncludes: anemia and iron deficiency anemiaeSome subjects had multiple occurences of injection site reactions. In this table, injection site reactions are counted only once per subject. Symptoms in individual subjects included one or more of injection site bruising, edema, erythema, induration, pain, pruritus and swelling. fIncludes: abdominal pain, upper abdominal pain, lower abdominal pain, and abdominal discomfort |  |  |
 
 ### Crohn's Disease
 
@@ -54,14 +54,14 @@ The most common adverse reactions reported in ≥3% of subjects and at a higher 
 | Leukopenia | 3 | 0 |
 | a reported in at least 3% of ZYMFENTRA-treated subjects and at a higher rate than placebob ZYMFENTRA 120 mg administered subcutaneously starting at Week 10 and every 2 weeks thereafter for up to Week 54. c Includes: upper respiratory tract infection, acute sinusitis, chronic sinusitis, influenza like illness, nasopharyngitis, pharyngitis, pharyngitis streptococcal, rhinitis, rhinorrhea, rhinovirus infection, sinusitis, tonsillitisd Some subjects had multiple occurrences of injection site reactions. In this table, injection site reactions are counted only once per subject. Symptoms in individual subjects included one or more of injection site bruising, edema, erythema, induration, pain, pruritus, rash, swelling, warmth. e Includes: hypertension and essential hypertensionf Includes: urinary tract infection, pyelonephritis |  |  |
 
-### Adverse Evetns of Special Interest
+### Adverse Reactions of Special Interest
 
 Infections
 
 In UC Trial I, at leaset one serious infection was reported in 3% of ZYMFENTRA-treated subjects compared to 1% in the plaebo group.
 Serious infections in the ZYMFENTRA-treated subjects were COVID-19, cystitis, pneumonia, salpingitis, and urinary tract injection [seeWarnings and Precautions (5.1)].
 
-In CD Trial I, infections were observed in 30% of ZYMFENTRA-treated subjects compare to 187% of placebo-treated subjects.
+In CD Trial I, infections were observed in 30% of ZYMFENTRA-treated subjects compare to 17% of placebo-treated subjects.
 At least one serious infection was reported in 3% of ZYMFENTRA-treated subjects compared to 1% in the placebo group.
 Serious infections in the ZYMFENTRA-treated subjects were abscess, appendicitis, bacterial arthritis, bartholinitis, bronchiolitis, and urinary tract infection [seeWarnings and Precautions (5.1)].
 
@@ -77,7 +77,7 @@ Hepatotoxicity
 Three cases of drug induced liver injury were noted in ZYMFENTRA-treated subjects that led to study drug discontinuation [see Warnings and Precautions (5.4)].
 
 - In two subjects in UC Trial I, ALT and AST levels started rising 7 to 12 months after starting ZYMFENTRA, reaching peak values of 4 to 11x ULN for ALT, and 2 to 7x ULN for AST.
-  Inboth subjects, total bilirubin levels remains below 2x ULN.
+  In both subjects, total bilirubin levels remains below 2x ULN.
 - In one subject in CD Trial I, ALT and AST started rising within a month after starting ZYMFENTRA, reaching peack values of 18x ULN for ALT and 14.9x ULN for AST.
   At approximately 5 months, total bilirubin level also increased to a peak value of 2.5x ULN.
 
@@ -93,11 +93,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 The following additional adverse ractions have been identified during post-approval use of infliximab products administered intravenously.
 
-- Neutropenia, agranuloxytosis (including infants exposed in utero to infliximab products), idiopathis thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
+- Neutropenia, agranuloxytosis (including infants exposed in utero to infliximab products), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
 - Interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and rapidly progessive disease).
 - Pericardial effusion, systemic and cutaneous vasculitis.
 - Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid react.
-- Preipheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy) transverse myelitis, and neuropathies (additional neurologic reactions have also been observed).
+- Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy) transverse myelitis, and neuropathies (additional neurologic reactions have also been observed).
 - Acute liver failure, jaundice, hepatitis, and cholestasis.
 - Serious infections and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab products.
 - Malignancies, including leukemia, melanoma, Merkel cell carcinoma, and cervical cancer.

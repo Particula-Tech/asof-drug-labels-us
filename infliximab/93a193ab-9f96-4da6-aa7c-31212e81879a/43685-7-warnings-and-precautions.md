@@ -7,7 +7,8 @@ Patients treated with ZYMFENTRA are at increased risk for developing serious inf
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, cryptococcosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, salmonellosis and tuberculosis have been reported with TNF blockers.
 Patients have frequently presented with disseminated rather than localized disease.
 
-Treatment with ZYMFENTRA should not be initiated in patients with an active infection, including clinically important localized infections.Patients greater than 65 years of age, patients with comorbid-conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
+Treatment with ZYMFENTRA should not be initiated in patients with an active infection, including clinically important localized infections.
+Patients greater than 65 years of age, patients with comorbid-conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
 The risks and benefits of treatment should be considered prior to initiating therapy in patients:
 
 - with chronic or recurrent infection;
@@ -48,7 +49,7 @@ When feasible, the decision to administer empiric antifungal therapy in these pa
 ## 5.2 Malignancies
 
 Malignancies, some fatal, have been reported among children, adolescents and young adults who received treatment with TNF blockers (initiation of therapy ≤18 years of age), including infliximab products.
-AApproximately half of these cases were lymphomas, including Hodgkin’s and non-Hodgkin’s lymphoma.
+Approximately half of these cases were lymphomas, including Hodgkin’s and non-Hodgkin’s lymphoma.
 The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression and malignancies that are not usually observed in children and adolescents.
 The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF blocker therapy.
 Most of the patients were receiving concomitant immunosuppressants.
@@ -62,7 +63,7 @@ Cases of acute and chronic leukemia have been reported with postmarketing TNF bl
 Hepatosplenic T-cell Lymphoma (HSTCL)
 
 Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers, including infliximab products.
-TThese cases have had a very aggressive disease course and have been fatal.
+These cases have had a very aggressive disease course and have been fatal.
 Almost all patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with a TNF blocker at or prior to diagnosis.
 The majority of reported cases have occurred in patients with Crohn’s disease or ulcerative colitis and most were in adolescent and young adult males.
 It is uncertain whether the occurrence of HSTCL is related to TNF blockers or TNF blockers in combination with these other immunosuppressants.
@@ -81,7 +82,7 @@ Routine cervical cancer screening is recommended during treatment with ZYMFENTRA
 
 Other Malignancies
 
-In the controlled pportions of clinical trials of some TNF blockers, including infliximab products, more malignancies (excluding lymphoma and nonmelanoma skin cancer) have been observed in patients receiving those TNF blockers compared with control patients.
+In the controlled portions of clinical trials of some TNF blockers, including infliximab products, more malignancies (excluding lymphoma and nonmelanoma skin cancer) have been observed in patients receiving those TNF blockers compared with control patients.
 The most common malignancies were breast, colorectal, and melanoma in these controlled trials of TNF blockers.
 
 In controlled trials of TNF blockers in adult patients at higher risk for malignancies (i.e., patients with COPD with a significant smoking history and cyclophosphamide-treated patients with Wegener’s granulomatosis), a greater proportion of malignancies occurred in the TNF blocker group compared to the control group.

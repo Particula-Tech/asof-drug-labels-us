@@ -49,7 +49,7 @@ The following configurations are available:
 
 Storage and Handling
 
-Store in refrigerator at 2°C to 8°C (36°F to 46°F).
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
 DO NOT FREEZE.
 Keep the product in its outer carton until time of administration in order to protect from light.
 
