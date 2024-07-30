@@ -6,14 +6,14 @@ This information does not take the place of talking with your healthcare provide
 
 Important information:
 
-- Follow your healthcare provider's instructions for the dose of VFEND to take.
-- Ask your healthcare provider or pharmacist if you are not sure how to take VFEND.
-- VFEND for oral suspension is a liquid form of VFEND.
+- •Follow your healthcare provider's instructions for the dose of VFEND to take.
+- •Ask your healthcare provider or pharmacist if you are not sure how to take VFEND.
+- •VFEND for oral suspension is a liquid form of VFEND.
   Your pharmacist will mix (reconstitute) the medicine before it is dispensed to you.
   If VFEND is still in powder form, do not use it.
   Return it to your pharmacist.
-- Always use the oral dispenser provided with VFEND to make sure you measure the right amount of VFEND.
-- Shake the closed bottle of mixed (reconstituted) oral suspension well for about 10 seconds before each use.
+- •Always use the oral dispenser provided with VFEND to make sure you measure the right amount of VFEND.
+- •Shake the closed bottle of mixed (reconstituted) oral suspension well for about 10 seconds before each use.
 
 Each pack contains:
 
@@ -32,20 +32,20 @@ How to prepare the bottle and take VFEND:
 
 Rinse the oral dispenser after each use.
 
-- Pull the plunger out of the oral dispenser and wash both parts with warm soapy water.
-- Rinse both parts with water and allow to air dry after each use.
-- After air drying, push the plunger back into the oral dispenser.
-- Store the oral dispenser with VFEND oral suspension in a clean safe place.
+- •Pull the plunger out of the oral dispenser and wash both parts with warm soapy water.
+- •Rinse both parts with water and allow to air dry after each use.
+- •After air drying, push the plunger back into the oral dispenser.
+- •Store the oral dispenser with VFEND oral suspension in a clean safe place.
 
 How should I store VFEND oral suspension?
 
-- Store VFEND oral suspension at room temperature between 59°F to 86°F (15°C to 30°C).
-- Do not refrigerate or freeze.
-- Keep the bottle cap tightly closed.
-- Use VFEND oral suspension within 14 days after it has been mixed (reconstituted) by the pharmacist.
+- •Store VFEND oral suspension at room temperature between 59°F to 86°F (15°C to 30°C).
+- •Do not refrigerate or freeze.
+- •Keep the bottle cap tightly closed.
+- •Use VFEND oral suspension within 14 days after it has been mixed (reconstituted) by the pharmacist.
   The pharmacist will write the expiration date on the bottle label (the expiration date of the oral suspension is 14 days from the date it was mixed (reconstituted) by the pharmacist).
   Throw away (discard) any unused VFEND after the expiration date.
-- Keep VFEND and all medicines out of the reach of children.
+- •Keep VFEND and all medicines out of the reach of children.
 
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.

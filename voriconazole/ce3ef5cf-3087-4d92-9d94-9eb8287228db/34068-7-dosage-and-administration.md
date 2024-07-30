@@ -160,10 +160,10 @@ Dilution
 VFEND must be infused over 1 to 3 hours, at a concentration of 5 mg/mL or less.
 Therefore, the required volume of the 10 mg/mL VFEND concentrate should be further diluted as follows (appropriate diluents listed below):
 
-1. Calculate the volume of 10 mg/mL VFEND concentrate required based on the patient's weight (see Table 3).
-2. In order to allow the required volume of VFEND concentrate to be added, withdraw and discard at least an equal volume of diluent from the infusion bag or bottle to be used.
+1. 1.Calculate the volume of 10 mg/mL VFEND concentrate required based on the patient's weight (see Table 3).
+2. 2.In order to allow the required volume of VFEND concentrate to be added, withdraw and discard at least an equal volume of diluent from the infusion bag or bottle to be used.
    The volume of diluent remaining in the bag or bottle should be such that when the 10 mg/mL VFEND concentrate is added, the final concentration is not less than 0.5 mg/mL nor greater than 5 mg/mL.
-3. Using a suitable size syringe and aseptic technique, withdraw the required volume of VFEND concentrate from the appropriate number of vials and add to the infusion bag or bottle.
+3. 3.Using a suitable size syringe and aseptic technique, withdraw the required volume of VFEND concentrate from the appropriate number of vials and add to the infusion bag or bottle.
    Discard Partially Used Vials.
 
 The final VFEND solution must be infused over 1 to 3 hours at a maximum rate of 3 mg/kg per hour.

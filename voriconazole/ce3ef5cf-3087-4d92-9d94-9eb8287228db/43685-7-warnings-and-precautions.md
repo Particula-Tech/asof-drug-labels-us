@@ -22,11 +22,11 @@ These cases usually involved seriously ill patients with multiple confounding ri
 
 VFEND should be administered with caution to patients with potentially proarrhythmic conditions, such as:
 
-- Congenital or acquired QT prolongation
-- Cardiomyopathy, in particular when heart failure is present
-- Sinus bradycardia
-- Existing symptomatic arrhythmias
-- Concomitant medicinal product that is known to prolong QT interval [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)]
+- •Congenital or acquired QT prolongation
+- •Cardiomyopathy, in particular when heart failure is present
+- •Sinus bradycardia
+- •Existing symptomatic arrhythmias
+- •Concomitant medicinal product that is known to prolong QT interval [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)]
 
 Rigorous attempts to correct potassium, magnesium and calcium should be made before starting and during voriconazole therapy [see Clinical Pharmacology (12.3)].
 
