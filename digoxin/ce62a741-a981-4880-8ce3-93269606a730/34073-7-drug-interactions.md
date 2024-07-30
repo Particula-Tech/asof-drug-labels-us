@@ -60,7 +60,7 @@ NA – Not available/reported
 | Sotalol | Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin. |  |
 | Parathyroid Hormone Analog | Teriparatide | Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serumcalcium. |
 | Thyroid Supplement | Thyroid | Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin. |
-| Sympathomimetics | Epinepherine Norepinephrine Dopamine | Can increase the risk of cardiac arrhythmias. |
+| Sympathomimetics | Epinephrine Norepinephrine Dopamine | Can increase the risk of cardiac arrhythmias. |
 | Neuromuscular Blocking Agents | Succinylcholine | May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin. |
 | Supplements | Calcium | If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients. |
 | Beta-adrenergic Blockers and Calcium Channel Blockers | Additive effects on AV node conduction can result in complete heart block. |  |

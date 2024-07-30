@@ -19,4 +19,8 @@ Patients receiving digoxin should be given the following instructions by the phy
   For doses less than 0.1 mL, provide another measuring syringe to the patient for accurate dosing, since the provided calibrated oral syringe is not appropriate to measure doses less than 0.1 mL.
 - Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with digoxin.
 
-Distributed by: VistaPharm, Inc. Largo, FL 33771 USA Trademarks are the property of their respective owners Issued Date: 08/2019 LB4159-02
+Distributed by: VistaPharm, LLC Parsippany, NJ 07054 USA
+
+Trademarks are the property of their respective owners
+
+Issued Date: 06/2024 LB4159-03
