@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203050"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-104-05",
+    "83831-105-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "palonosetron",
+      "name": "posfrea"
+    }
+  ],
+  "setid": "13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7",
+  "source": "dailymed"
+}
