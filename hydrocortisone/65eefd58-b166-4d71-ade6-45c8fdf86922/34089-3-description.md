@@ -12,8 +12,8 @@ ACT-O-VIAL® System (Single-Dose Vial) in four strengths:
 
 |  | Each 2 mL contains (when mixed): | Each 2 mL contains (when mixed): | Each 4 mL contains (when mixed): | Each 8 mL contains (when mixed): |
 | --- | --- | --- | --- | --- |
-|  | 100 mg ACT-O-VIAL | 250 mg ACT-O-VIAL | 500 mg ACT-O-VIAL | 1000 mg ACT-O-VIAL |
-| Hydrocortisone sodium succinate | equiv. to 100 mg Hydrocortisone | equiv. to 250 mg Hydrocortisone | equiv. to 500 mg Hydrocortisone | equiv. to 1000 mg Hydrocortisone |
+|  | 100 mg ACT-O-VIAL | 250 mg ACT-O-VIAL | 500 mg ACT-O-VIAL | 1,000 mg ACT-O-VIAL |
+| Hydrocortisone sodium succinate | equiv. to 100 mg Hydrocortisone | equiv. to 250 mg Hydrocortisone | equiv. to 500 mg Hydrocortisone | equiv. to 1,000 mg Hydrocortisone |
 | Monobasic sodium phosphate anhydrous | 0.8 mg | 2 mg | 4 mg | 8 mg |
 | Dibasic sodium phosphate dried | 8.73 mg | 21.8 mg | 44 mg | 87.32 mg |
 

@@ -8,8 +8,8 @@ This preparation may be administered by intravenous injection, by intravenous in
 Following the initial emergency period, consideration should be given to employing a longer acting injectable preparation or an oral preparation.
 
 Therapy is initiated by administering SOLU-CORTEF Sterile Powder intravenously over a period of 30 seconds (e.g., 100 mg) to 10 minutes (e.g., 500 mg or more).
-In general, high dose corticosteroid therapy should be continued only until the patient's condition has stabilized, usually not beyond 48 to 72 hours.
-When high dose hydrocortisone therapy must be continued beyond 48–72 hours, hypernatremia may occur.
+In general, high dose corticosteroid therapy should be continued only until the patient's condition has stabilized, usually not beyond 48 hours to 72 hours.
+When high dose hydrocortisone therapy must be continued beyond 48 –72 hours, hypernatremia may occur.
 Under such circumstances, it may be desirable to replace SOLU-CORTEF with a corticoid such as methylprednisolone sodium succinate which causes little or no sodium retention.
 
 The initial dose of SOLU-CORTEF Sterile Powder is 100 mg to 500 mg, depending on the specific disease entity being treated.
@@ -24,7 +24,7 @@ In this latter situation, it may be necessary to increase the dosage of the cort
 If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
 In pediatric patients, the initial dose of hydrocortisone may vary depending on the specific disease entity being treated.
-The range of initial doses is 0.56 to 8 mg/kg/day in three or four divided doses (20 to 240 mg/m2bsa/day).
+The range of initial doses is 0.56 mg/kg/day to 8 mg/kg/day in three or four divided doses (20 mg/m2bsa/day to 240 mg/m2bsa/day).
 For the purpose of comparison, the following is the equivalent milligram dosage of the various glucocorticoids:
 
 | Cortisone, 25 | Triamcinolone, 4 |
@@ -42,7 +42,9 @@ When these substances or their derivatives are injected intramuscularly or into 
 ### 100 mg Plain
 
 For intravenous or intramuscular injection, prepare solution by aseptically adding not more than 2 mL of Bacteriostatic Water for Injection or Bacteriostatic Sodium Chloride Injection to the contents of one vial.
-For intravenous infusion, first prepare solution by adding not more than 2 mL of Bacteriostatic Water for Injection to the vial; this solution may then be added to 100 to 1000 mL of the following: 5% dextrose in water (or isotonic saline solution or 5% dextrose in isotonic saline solution if patient is not on sodium restriction).
+For intravenous infusion, first prepare solution by adding not more than 2 mL of Bacteriostatic Water for Injection to the vial; this solution may then be added to 100 mL to 1,000 mL of the following: 5% dextrose in water (or isotonic saline solution or 5% dextrose in isotonic saline solution if patient is not on sodium restriction).
+From a microbiological point of view, unless the method of opening/reconstitution/dilution precludes the risk of microbial contamination, the product should be used immediately.
+If not used immediately, in use storage times and conditions are the responsibility of the user.
 
 This product, like many other steroid formulations, is sensitive to heat.
 Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial.
@@ -58,9 +60,9 @@ Therefore, it should not be autoclaved when it is desirable to sterilize the ext
 
 Further dilution is not necessary for intravenous or intramuscular injection.
 For intravenous infusion, first prepare solution as just described.
-The 100 mg solution may then be added to 100 to 1000 mL of 5% dextrose in water (or isotonic saline solution or 5% dextrose in isotonic saline solution if patient is not on sodium restriction).
-The 250 mg solution may be added to 250 to 1000 mL, the 500 mg solution may be added to 500 to 1000 mL, and the 1000 mg solution to 1000 mL of the same diluents.
-In cases where administration of a small volume of fluid is desirable, 100 mg to 3000 mg of SOLU-CORTEF may be added to 50 mL of the above diluents.
+The 100 mg solution may then be added to 100 mL to 1,000 mL of 5% dextrose in water (or isotonic saline solution or 5% dextrose in isotonic saline solution if patient is not on sodium restriction).
+The 250 mg solution may be added to 250 mL to 1,000 mL, the 500 mg solution may be added to 500 mL to 1,000 mL, and the 1,000 mg solution to 1,000 mL of the same diluents.
+In cases where administration of a small volume of fluid is desirable, 100 mg to 3,000 mg of SOLU-CORTEF may be added to 50 mL of the above diluents.
 The resulting solutions are stable for at least 4 hours and may be administered either directly or by IV piggyback.
 
 When reconstituted as directed, pH's of the solutions range from 7 to 8.

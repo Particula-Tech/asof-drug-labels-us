@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Serious Neurologic Adverse Reactions with Epidural Administration
+## Serious Neurologic Adverse Reactions with Epidural Administration:
 
 Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids.
 Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke.
@@ -188,7 +188,7 @@ Patients should be warned not to discontinue the use of corticosteroids abruptly
 Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
 
-## Drug Interactions:
+## Drug Interactions
 
 Aminoglutethimide: Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
 Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
