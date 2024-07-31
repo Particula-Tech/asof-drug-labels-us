@@ -6,5 +6,5 @@ The molecular formula is C66H75Cl2N9O24 • HCl and the molecular weight is 1,48
 Vancomycin hydrochloride, USP has the following structural formula:
 
 Vancomycin Hydrochloride for Injection, USP is a sterile off-white to light tan colored lyophilized plug or powder for injection.
-Vancomycin Hydrochloride for Injection, USP is supplied in single-dose vials, containing 256 mg, 769 mg, 1.28 g, or 1.54 g of vancomycin hydrochloride, USP equivalent to 250 mg, 750 mg, 1.25 g, or 1.5 g of vancomycin base.
+Vancomycin Hydrochloride for Injection, USP is supplied in single-dose vials, containing 256 mg, 769 mg, 1.28 g, 1.54 g, 1.79 g or 2.05 g of vancomycin hydrochloride, USP equivalent to 250 mg, 750 mg, 1.25 g, 1.5 g, 1.75 g or 2 g of vancomycin base.
 The lyophilized powder is reconstituted with Sterile Water for Injection, USP which forms a clear, colorless or light to dark tan solution and subsequently diluted prior to intravenous administration [see Dosage and Administration (2.5)].

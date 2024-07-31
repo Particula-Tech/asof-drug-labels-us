@@ -2,7 +2,7 @@
 
 ## 2.1 Important Administration Instructions
 
-To reduce the risk of infusion related adverse reactions, administer Vancomycin Hydrochloride for Injection in a diluted solution over 60 minutes or greater [see Warnings and Precautions (5.1)andAdverse Reactions (6.1)].
+To reduce the risk of infusion related adverse reactions, administer Vancomycin Hydrochloride for Injection in a diluted solution over 60 minutes or greater [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 Vancomycin Hydrochloride for Injection concentrations of no more than 5 mg/mL are recommended in adults [see Dosage and Administration (2.2)].
 See also age-specific recommendations [see Dosage and Administration (2.3)].
 In selected patients in need of fluid restriction, a concentration up to 10 mg/mL may be used [see Warnings and Precautions (5.1)].
@@ -64,6 +64,8 @@ Discard any reconstituted solution remaining in the vial.
 | 750 mg | 15 mL | 150 mL |
 | 1.25 g | 25 mL | 250 mL |
 | 1.5 g | 30 mL | 300 mL |
+| 1.75 g | 35 mL | 350 mL |
+| 2 g | 40 mL | 400 mL |
 
 aAfter reconstitution, the vials may be stored in a refrigerator for 14 days without significant loss of potency.
 
