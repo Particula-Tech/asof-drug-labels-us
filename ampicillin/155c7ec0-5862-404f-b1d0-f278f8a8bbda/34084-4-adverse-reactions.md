@@ -36,11 +36,13 @@ In addition to adverse reactions reported from clinical trials, the following ha
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to ampicillin sodium/sulbactam sodium.
 
+Infections and Infestations:Clostridioides difficile-associated diarrhea (see WARNINGS section).
+
 Blood and Lymphatic System Disorders: Hemolytic anemia, thrombocytopenic purpura, and agranulocytosis have been reported.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibacterials.
 
-Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, dyspepsia, black "hairy" tongue, and Clostridium difficile associated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
+Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, dyspepsia, and black "hairy" tongue (see CONTRAINDICATIONS and WARNINGS sections).
 
 General Disorders and Administration Site Conditions: Injection site reaction
 
@@ -50,6 +52,8 @@ Nervous System Disorders: Convulsion and dizziness
 
 Renal and Urinary Disorders: Tubulointerstitial nephritis
 
+Musculoskeletal and Connective TissueDisorders: Arthralgia
+
 Respiratory, Thoracic and Mediastinal Disorders: Dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, StevensJohnson syndrome, angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, urticaria (see CONTRAINDICATIONS and WARNINGS sections), and linear IgA bullous dermatosis.
+Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS), angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, urticaria (see CONTRAINDICATIONS and WARNINGS sections), and linear IgA bullous dermatosis.

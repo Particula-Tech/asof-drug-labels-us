@@ -16,12 +16,12 @@ Hepatic function should be monitored at regular intervals in patients with hepat
 
 ## Severe Cutaneous Adverse Reactions
 
-UNASYN may cause severe skin reactions, such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), dermatitis exfoliative, erythema multiforme, and Acute generalized exanthematous pustulosis (AGEP).
+UNASYN may cause severe skin reactions, such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), dermatitis exfoliative, erythema multiforme, and Acute generalized exanthematous pustulosis (AGEP).
 If patients develop a skin rash they should be monitored closely and UNASYN discontinued if lesions progress (see CONTRAINDICATIONS and ADVERSE REACTIONS sections).
 
-## Clostridium difficile-Associated Diarrhea
+## Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including UNASYN, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including UNASYN, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -80,7 +80,7 @@ Long-term studies in animals have not been performed to evaluate carcinogenic or
 Reproduction studies have been performed in mice, rats, and rabbits at doses up to ten (10) times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to UNASYN.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-(see –PRECAUTIONS-Drug/Laboratory Test Interactions section).
+(see PRECAUTIONS-Drug/Laboratory Test Interactions section).
 
 ## Labor and Delivery
 
