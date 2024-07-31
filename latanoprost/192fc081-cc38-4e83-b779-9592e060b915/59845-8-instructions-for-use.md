@@ -35,7 +35,7 @@ Please follow these instructions to use IYUZEH:
 
 Rx
 
-Manufactured for: Thea Pharma Inc. Lexington, MA.
+Manufactured for: Thea Pharma Inc. Waltham, MA 02451.
 
 All rights reserved.
 

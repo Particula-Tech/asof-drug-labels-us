@@ -38,6 +38,7 @@ The reactions, which have been chosen for inclusion due to either their seriousn
 - Nervous System Disorders: Dizziness; headache; toxic epidermal necrolysis
 - Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva.
 - Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
+- Gastrointesting Disorders: Nausea; vomiting
 - Skin and Subcutaneous Tissue Disorders: Pruritis
 - Infections and Infestations: Herpes keratitis
 - Cardiac Disorders: Angina; palpitations; angina unstable
