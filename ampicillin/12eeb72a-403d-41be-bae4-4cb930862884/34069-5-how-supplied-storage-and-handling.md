@@ -21,4 +21,4 @@ For medical information about UNASYN, please visit www.pfizermedinfo.com or call
 
 Rx only
 
-LAB-0018-22.0 Revised June 2024
+LAB-0018-23.0 Revised July 2024

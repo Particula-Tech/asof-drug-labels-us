@@ -20,4 +20,4 @@ Dilute solutions (up to 30 mg ampicillin and 15 mg sulbactam per mL) are essenti
 The pH of dilute solutions remains the same.
 
 UNASYN pharmacy bulk package is a vial containing a sterile preparation of ampicillin sodium and sulbactam sodium for parenteral use that contains many single doses.
-The Pharmacy Bulk Package is for use in a pharmacy admixture setting; it provides many single doses of UNASYN for addition to suitable parenteral fluids in the preparation of admixtures for intravenous infusion (see DIRECTIONS FOR USE – Directions for Proper Use of Pharmacy Bulk Package).
+The Pharmacy Bulk Package is for use in a pharmacy admixture setting; it provides many single doses of UNASYN for addition to suitable parenteral fluids in the preparation of admixtures for intravenous infusion (see DIRECTIONS FOR USE –Directions for Proper Use of Pharmacy Bulk Package section).
