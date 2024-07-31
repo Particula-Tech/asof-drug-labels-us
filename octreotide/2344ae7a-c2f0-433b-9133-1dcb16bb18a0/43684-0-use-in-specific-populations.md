@@ -70,10 +70,8 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Renal Impairment
 
-In patients with severe renal failure requiring dialysis, the half-life of octreotide acetate may be increased, necessitating adjustment of the maintenance dosage.
-[See Clinical Pharmacology (12.3)]
+In patients with severe renal failure requiring dialysis, the half-life of octreotide acetate may be increased, necessitating adjustment of the maintenance dosage [See Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment-Cirrhotic Patients
 
-In patients with liver cirrhosis, the half-life of the drug may be increased, necessitating adjustment of the maintenance dosage.
-[see Clinical Pharmacology (12.3)].
+In patients with liver cirrhosis, the half-life of the drug may be increased, necessitating adjustment of the maintenance dosage [see Clinical Pharmacology (12.3)].
