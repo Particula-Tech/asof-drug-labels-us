@@ -37,7 +37,8 @@ The results of five large case-control studies assessing the association between
 Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
 One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study2.
 
-Figure 1 Risk estimates for breast cancer in DMPA users
+Figure 1.
+Risk estimates for breast cancer in DMPA users
 
 | Odds ratio estimates were adjusted for the following covariates: |
 | --- |
@@ -51,8 +52,8 @@ Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 US 
 
 Cervical Cancer
 
-A statistically nonsignificant increase in RR estimates of invasive squamous-cell cervical cancer has been associated with the use of Depo-Provera CI in women who were first exposed before the age of 35 years (RR 1.22 to 1.28 and 95% CI 0.93 to 1.70).
-The overall, nonsignificant relative rate of invasive squamous-cell cervical cancer in women who ever used Depo-Provera CI was estimated to be 1.11 (95% CI 0.96 to 1.29).
+A statistically nonsignificant increase in relative risk (RR) estimates of invasive squamous-cell cervical cancer has been associated with the use of Depo-Provera CI in women who were first exposed before the age of 35 years (RR 1.22 to 1.28 and 95% CI 0.93 to 1.70).
+The overall, nonsignificant RR of invasive squamous-cell cervical cancer in women who ever used Depo-Provera CI was estimated to be 1.11 (95% CI 0.96 to 1.29).
 No trends in risk with duration of use or times since initial or most recent exposure were observed.
 
 Other Cancers
@@ -110,18 +111,11 @@ Two percent of women withdrew from a large-scale clinical trial because of exces
 A decrease in glucose tolerance has been observed in some patients on Depo-Provera CI treatment.
 Monitor diabetic patients carefully while receiving Depo-Provera CI.
 
-## 5.13 Lactation
-
-Detectable amounts of drug have been identified in the milk of mothers receiving Depo-Provera CI.
-In nursing mothers treated with Depo-Provera CI, milk composition, quality, and amount are not adversely affected.
-Neonates and infants exposed to medroxyprogesterone from breast milk have been studied for developmental and behavioral effects through puberty.
-No adverse effects have been noted.
-
-## 5.14 Fluid Retention
+## 5.13 Fluid Retention
 
 Because progestational drugs including Depo-Provera CI may cause some degree of fluid retention, monitor patients with conditions that might be influenced by this condition, such as epilepsy, migraine, asthma, and cardiac or renal dysfunction.
 
-## 5.15 Return of Fertility
+## 5.14 Return of Fertility
 
 Return to ovulation and fertility is likely to be delayed after stopping Depo-Provera CI.
 In a large US study of women who discontinued use of Depo-Provera CI to become pregnant, data are available for 61% of them.
@@ -130,20 +124,14 @@ Based on Life-Table analysis of these data, it is expected that 68% of women who
 The median time to conception for those who do conceive is 10 months following the last injection with a range of 4 to 31 months, and is unrelated to the duration of use.
 No data are available for 39% of the patients who discontinued Depo-Provera CI to become pregnant and who were lost to follow-up or changed their mind.
 
-## 5.16 Sexually Transmitted Diseases
+## 5.15 Sexually Transmitted Infections
 
-Patients should be counseled that Depo-Provera CI does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+Patients should be counseled that Depo-Provera CI does not protect against HIV infection (AIDS) and other sexually transmitted infections.
 
-## 5.17 Pregnancy
+## 5.16 Monitoring
 
-Although Depo-Provera CI should not be used during pregnancy, there appears to be little or no increased risk of birth defects in women who have inadvertently been exposed to medroxyprogesterone acetate injections in early pregnancy.
-Neonates exposed to medroxyprogesterone acetate in-utero and followed to adolescence showed no evidence of any adverse effects on their health including their physical, intellectual, sexual or social development.
+A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare professional for a blood pressure check and for other indicated healthcare.
 
-## 5.18 Monitoring
+## 5.17 Interference with Laboratory Tests
 
-A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
-
-## 5.19 Interference With Laboratory Tests
-
-The use of Depo-Provera CI may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.
-[See Drug Interactions (7.2).]
+The use of Depo-Provera CI may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins [see Drug Interactions (7.2)].

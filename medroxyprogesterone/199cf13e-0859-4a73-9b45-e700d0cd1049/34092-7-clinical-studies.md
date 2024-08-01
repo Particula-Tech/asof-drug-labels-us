@@ -3,13 +3,13 @@
 ## 14.1 Contraception
 
 In five clinical studies using Depo-Provera CI, the 12-month failure rate for the group of women treated with Depo-Provera CI was zero (no pregnancies reported) to 0.7 by Life-Table method.
-The effectiveness of Depo-Provera CI is dependent on the patient returning every 3 months (13 weeks) for reinjection.
+The effectiveness of Depo‑Provera CI is dependent on the patient returning every 3 months (13 weeks) for reinjection.
 
-## 14.2 Bone Mineral Density Changes in Women Treated with Depo-Provera CI
+## 14.2 Bone Mineral Density Changes in Women Treated with DepoProvera CI
 
 In a controlled, clinical study, adult women using Depo-Provera CI (150mg) for up to 5 years showed spine and hip bone mineral density (BMD) mean decreases of 5–6%, compared to no significant change in BMD in the control group.
 The decline in BMD was more pronounced during the first two years of use, with smaller declines in subsequent years.
-Mean changes in lumbar spine BMD of -2.86%, -4.11%, -4.89%, -4.93% and -5.38% after 1, 2, 3, 4, and 5 years, respectively, were observed.
+Mean changes in lumbar spine BMD of ‑2.86%, ‑4.11%, ‑4.89%, ‑4.93% and ‑5.38% after 1, 2, 3, 4, and 5 years, respectively, were observed.
 Mean decreases in BMD of the total hip and femoral neck were similar.
 
 After stopping use of Depo-Provera CI, there was partial recovery of BMD toward baseline values during the 2-year post-therapy period.
@@ -19,13 +19,13 @@ Table 4 shows the change in BMD in women after 5 years of treatment with Depo-Pr
 Table 4.
 Mean Percent Change from Baseline in BMD in Adults by Skeletal Site and Cohort (5 Years of Treatment and 2 Years of Follow-Up)
 
-|  | Depo-ProveraThe treatment group consisted of women who received Depo-Provera CI for 5 years and were then followed for 2 years post-use (total time in study of 7 years). | ControlThe control group consisted of women who did not use hormonal contraception and were followed for 7 years. | Depo-Provera | Control | Depo-Provera | Control |
+|  | Depo-ProveraThe treatment group consisted of women who received Depo-Provera CI for 5 years and were then followed for 2 years post‑use (total time in study of 7 years). | ControlThe control group consisted of women who did not use hormonal contraception and were followed for 7 years. | Depo-Provera | Control | Depo-Provera | Control |
 | --- | --- | --- | --- | --- | --- | --- |
 | Time in Study | Spine |  | Total Hip |  | Femoral Neck |  |
 | 5 years | -5.38% n=33 | 0.43% n=105 | -5.16% n=21 | 0.19% n=65 | -6.12% n=34 | -0.27% n=106 |
 | 7 years | -3.13% n=12 | 0.53% n=60 | -1.34% n=7 | 0.94% n=39 | -5.38% n=13 | -0.11% n=63 |
 
-## 14.3 Bone Mineral Density Changes in Adolescent Females (12 to 18 Years of Age) Treated with Depo-Provera CI
+## 14.3 Bone Mineral Density Changes in Adolescent Females (12 to 18 Years of Age) Treated with DepoProvera CI
 
 The impact of Depo-Provera CI (150 mg) use for up to 240 weeks (4.6 years) was evaluated in an open-label non-randomized clinical study in 389 adolescent females (12 to 18 years of age).
 Use of Depo-Provera CI was associated with a significant decline from baseline in BMD.
@@ -40,7 +40,7 @@ Adolescents in the untreated cohort had an increase in BMD during the period of 
 However, the two cohorts were not matched at baseline for age, gynecologic age, race, BMD and other factors that influence the rate of acquisition of BMD.
 
 Table 5.
-BMD Mean Percent Change from Baseline in Adolescents Receiving ≥4 Injections per 60-week Period, by Skeletal Site and Cohort
+BMD Mean Percent Change from Baseline in Adolescents Receiving ≥4 Injections per 60‑week Period, by Skeletal Site and Cohort
 
 |  | N | Mean % Change | N | Mean % Change |
 | --- | --- | --- | --- | --- |
@@ -62,11 +62,12 @@ BMD Recovery Post-Treatment in Adolescents
 
 Longer duration of treatment and smoking were associated with less recovery of BMD following the last injection of Depo-Provera CI.
 Table 6 shows the extent of recovery of BMD up to 60 months post-treatment for adolescents who received Depo-Provera CI for two years or less compared to more than two years.
-Post-treatment follow-up showed that, in women treated for more than two years, only lumbar spine BMD recovered to baseline levels after treatment was discontinued.
+Post‑treatment follow-up showed that, in women treated for more than two years, only lumbar spine BMD recovered to baseline levels after treatment was discontinued.
 Adolescents treated with Depo-Provera CI for more than two years did not recover to their baseline BMD level at femoral neck and total hip even up to 60 months post-treatment.
 Adolescents in the untreated cohort gained BMD throughout the trial period (data not shown) [see Warnings and Precautions (5.1)].
 
-Table 6: BMD Recovery (Months Post-Treatment) in Adolescents by Years of Depo Provera CI Use (2 Years or Less vs. More than 2 Years)
+Table 6.
+BMD Recovery (Months Post-Treatment) in Adolescents by Years of Depo‑Provera CI Use (2 Years or Less vs. More than 2 Years)
 
 |  | N | Mean % Change from baseline | N | Mean % Change from baseline |
 | --- | --- | --- | --- | --- |
@@ -93,7 +94,7 @@ Table 6: BMD Recovery (Months Post-Treatment) in Adolescents by Years of Depo Pr
 | 48 M post-treatment | 10 | 6.5% | 9 | 3.5% |
 | 60 M post-treatment | 3 | 6.2% | 2 | 5.7% |
 
-## 14.4 Bone Fracture Incidence in Women Treated with Depo-Provera CI
+## 14.4 Bone Fracture Incidence in Women Treated with DepoProvera CI
 
 A retrospective cohort study to assess the association between Depo-Provera CI injection and the incidence of bone fractures was conducted in 312,395 female contraceptive users in the UK.
 The incidence rates of fracture were compared between Depo-Provera CI users and contraceptive users who had no recorded use of Depo-Provera CI.

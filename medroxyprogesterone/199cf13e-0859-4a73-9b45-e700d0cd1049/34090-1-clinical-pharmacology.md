@@ -21,6 +21,8 @@ Plasma protein binding of MPA averages 86%.
 MPA binding occurs primarily to serum albumin.
 No binding of MPA occurs with sex-hormone-binding globulin (SHBG).
 
+Elimination
+
 Metabolism
 
 MPA is extensively metabolized in the liver by P450 enzymes.
