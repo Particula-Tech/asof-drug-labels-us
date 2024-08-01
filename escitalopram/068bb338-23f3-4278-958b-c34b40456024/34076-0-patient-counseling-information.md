@@ -44,20 +44,22 @@ Lactation Advise breastfeeding women using escitalopram to monitor infants for e
 
 Trademarks are the property of their respective owners.
 
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
-8096558 Revised: May 2024
+8097501 Revised: July 2024
 
 Or
 
 VKT Pharma Private Limited, Srikakulam-532409, India.
 
-8096587 Revised: May 2024
+8097483 Revised: July 2024
 
-800246
+800262
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
