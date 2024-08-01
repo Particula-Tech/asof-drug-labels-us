@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214850"
+  ],
+  "inn": "eribulin",
+  "labeler": "Long Grove Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "81298-3890-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "eribulin mesylate",
+      "name": "Eribulin Mesylate"
+    }
+  ],
+  "setid": "4a64918a-f674-4843-b544-ab815fdd1b8f",
+  "source": "dailymed"
+}
