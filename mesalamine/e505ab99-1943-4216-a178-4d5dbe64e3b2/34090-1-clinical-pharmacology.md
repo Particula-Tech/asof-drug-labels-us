@@ -1,61 +1,36 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Each ROWASA® (mesalamine) Rectal Suspension Enema delivers up to 4 g of mesalamine to the left side of the colon.
+## 12.1 Mechanism of Action
 
-The mechanism of action of mesalamine (and sulfasalazine) is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
-Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs) is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
+The mechanism of action of 5-ASA (mesalamine) is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
+Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase pathways (i.e., prostanoids), and through the lipoxygenase pathways (i.e., leukotrienes and hydroxyeicosatetraenoic acids) is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
 
-## Preclinical Toxicology
+## 12.2 Pharmacodynamics
 
-Preclinical studies have shown the kidney to be the major target organ for mesalamine toxicity.
-Adverse renal function changes were observed in rats after a single 600 mg/kg oral dose, but not after a 200 mg/kg dose.
-Gross kidney lesions, including papillary necrosis, were observed after a single oral >900 mg/kg dose, and after I.V. doses of >214 mg/kg.
-Mice responded similarly.
-In a 13-week oral (gavage) dose study in rats, the high dose of 640 mg/kg/day mesalamine caused deaths, probably due to renal failure, and dose-related renal lesions (papillary necrosis and/or multifocal tubular injury) were seen in most rats given the high dose (males and females) as well as in males receiving lower doses 160 mg/kg/day.
-Renal lesions were not observed in the 160 mg/kg/day female rats.
-Minimal tubular epithelial damage was seen in the 40 mg/kg/day males and was reversible.
-In a six-month oral study in dogs, the no-observable dose level of mesalamine was 40 mg/kg/day and doses of 80 mg/kg/day and higher caused renal pathology similar to that described for the rat.
-In a combined 52-week toxicity and 127-week carcinogenicity study in rats, degeneration in kidneys was observed at doses of 100 mg/kg/day and above admixed with diet for 52 weeks, and at 127 weeks increased incidence of kidney degeneration and hyalinization of basement membranes and Bowman's capsule were seen at 100 mg/kg/day and above.
-In the 12-month eye toxicity study in dogs, Keratoconjunctivitis Sicca (KCS) occurred at oral doses of 40 mg/kg/day and above.
-The oral preclinical studies were done with a highly bioavailable suspension where absorption throughout the gastrointestinal tract occurred.
-The human dose of 4 grams represents approximately 80 mg/kg but when mesalamine is given rectally as a suspension, absorption is poor and limited to the distal colon (see Pharmacokinetics).
-Overt renal toxicity has not been observed (see ADVERSE REACTIONS and PRECAUTIONS), but the potential must be considered.
+The exposure-response relationship and time course of pharmacodynamic response for the safety and effectiveness of mesalamine have not been fully characterized.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-Mesalamine administered rectally as ROWASA® (mesalamine) Rectal Suspension Enema is poorly absorbed from the colon and is excreted principally in the feces during subsequent bowel movements.
+### Absorption
+
+Mesalamine administered rectally as ROWASA is poorly absorbed from the colon and is excreted principally in the feces during subsequent bowel movements.
 The extent of absorption is dependent upon the retention time of the drug product, and there is considerable individual variation.
-At steady state, approximately 10 to 30% of the daily 4-gram dose can be recovered in cumulative 24-hour urine collections.
+Under clinical conditions patients demonstrated plasma levels 10 to 12 hours post mesalamine administration of 2 mcg/mL, about two-thirds of which was the N-acetyl metabolite.
+In addition, steady state plasma levels demonstrated a lack of accumulation of either parent drug or N-acetyl metabolite during repeated daily rectal administrations.
+
+### Distribution
+
 Other than the kidney, the organ distribution and other bioavailability characteristics of absorbed mesalamine in man are not known.
+The poor colonic absorption of rectally administered mesalamine is substantiated by the low serum concentration of 5-ASA and N-acetyl-5-ASA seen in ulcerative colitis patients after dosage with mesalamine.
+
+### Elimination
+
+#### Metabolism
+
 It is known that the compound undergoes acetylation but whether this process takes place at colonic or systemic sites has not been elucidated.
 
+#### Excretion
+
 Whatever the metabolic site, most of the absorbed mesalamine is excreted in the urine as the N-acetyl-5-ASA metabolite.
-The poor colonic absorption of rectally administered mesalamine is substantiated by the low serum concentration of 5-ASA and N-acetyl-5-ASA seen in ulcerative colitis patients after dosage with mesalamine.
-Under clinical conditions patients demonstrated plasma levels 10 to 12 hours post mesalamine administration of 2 µg/mL, about two-thirds of which was the N-acetyl metabolite.
-While the elimination half-life of mesalamine is short (0.5 to 1.5 h), the acetylated metabolite exhibits a half-life of 5 to 10 hours [U.
-Klotz, Clin.
-Pharmacokin.
-10:285-302 (1985)].
-In addition, steady state plasma levels demonstrated a lack of accumulation of either free or metabolized drug during repeated daily administrations.
-
-## Efficacy
-
-In a placebo-controlled, international, multicenter trial of 153 patients with active distal ulcerative colitis, proctosigmoiditis or proctitis, ROWASA® (mesalamine) Rectal Suspension Enema reduced the overall disease activity index (DAI) and individual components as follows:
-
-| EFFECT OF TREATMENT ON SEVERITY OF DISEASE DATA FROM U.S.-CANADA TRIAL COMBINED RESULTS OF EIGHT CENTERS Activity Indices, mean |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | N | Baseline | Day 22 | End Point | Change Baseline to End Point * |
-| Overall DAI | ROWASA® Placebo | 76 77 | 7.42 7.40 | 4.05† 6.03 | 3.37‡ 5.83 | -55.07%‡ -21.58% |
-| Stool Frequency | ROWASA® Placebo |  | 1.58 1.92 | 1.11§ 1.47 | 1.01† 1.50 | -0.57§ -0.41 |
-| Rectal Bleeding | ROWASA® Placebo |  | 1.82 1.73 | 0.59‡ 1.21 | 0.51‡ 1.11 | -1.30‡ -0.61 |
-| Mucosal Inflammation | ROWASA® Placebo |  | 2.17 2.18 | 1.22† 1.74 | 0.96‡ 1.61 | -1.21† -0.56 |
-| Physician's Assessment of Disease Severity | ROWASA® Placebo |  | 1.86 1.87 | 1.13‡ 1.62 | 0.88‡ 1.55 | -0.97‡ -0.30 |
-| Each parameter has a 4-point scale with a numerical rating: |  |  |  |  |  |  |
-| 0 = normal, 1 = mild, 2 = moderate, 3 = severe. The four parameters are added together to produce a maximum overall DAI of 12. |  |  |  |  |  |  |
-| * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). |  |  |  |  |  |  |
-| †Significant ROWASA®/placebo difference. p < 0.01 |  |  |  |  |  |  |
-| ‡Significant ROWASA®/placebo difference. p < 0.001 |  |  |  |  |  |  |
-| §Significant ROWASA®/placebo difference. p < 0.05 |  |  |  |  |  |  |
-
-Differences between ROWASA® (mesalamine) Rectal Suspension Enema and placebo were also statistically different in subgroups of patients on concurrent sulfasalazine and in those having an upper disease boundary between 5 and 20 or 20 and 40 cm.
-Significant differences between ROWASA® (mesalamine) Rectal Suspension Enema and placebo were not achieved in those subgroups of patients on concurrent prednisone or with an upper disease boundary between 40 and 50 cm.
+At steady state, approximately 10 to 30% of the daily 4-gram dose can be recovered in cumulative 24-hour urine collections.
+While the elimination half-life of mesalamine is short (0.5 to 1.5 hours), the acetylated metabolite exhibits a half-life of 5 to 10 hours.
