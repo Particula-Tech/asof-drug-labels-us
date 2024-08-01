@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Effect of Other Drugs on Depo-subQ provera 104
+## 7.1 Effect of Other Drugs on depo-SubQ provera 104
 
 Moderate or Strong CYP3A Inducers
 

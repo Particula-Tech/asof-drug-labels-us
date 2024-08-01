@@ -2,8 +2,8 @@
 
 Depo-subQ provera 104 is indicated in females of reproductive age for:
 
-- Prevention of pregnancy and
-- Management of endometriosis-associated pain.
+- •Prevention of pregnancy and
+- •Management of endometriosis-associated pain.
 
 Limitations of Use:
 

@@ -2,18 +2,18 @@
 
 The following important adverse reactions are described in more detail in other sections of the prescribing information:
 
-- Loss of bone mineral density [see Warnings and Precautions (5.1)]
-- Arterial and venous thromboembolic disorders [see Warnings and Precautions (5.2)]
-- Anaphylaxis [see Warnings and Precautions (5.5)]
-- Fluid retention [see Warnings and Precautions (5.6)]
-- Delayed return of ovulation or fertility [see Warnings and Precautions (5.8)]
-- Depression [see Warnings and Precautions (5.9)]
-- Injection site reactions [see Warnings and Precautions (5.10)]
-- Bleeding irregularities [see Warnings and Precautions (5.11)]
+- •Loss of bone mineral density [see Warnings and Precautions (5.1)]
+- •Arterial and venous thromboembolic disorders [see Warnings and Precautions (5.2)]
+- •Anaphylaxis [see Warnings and Precautions (5.5)]
+- •Fluid retention [see Warnings and Precautions (5.6)]
+- •Delayed return of ovulation or fertility [see Warnings and Precautions (5.8)]
+- •Depression [see Warnings and Precautions (5.9)]
+- •Injection site reactions [see Warnings and Precautions (5.10)]
+- •Bleeding irregularities [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Clinical trials are conducted under widely varying conditions, therefore adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described below reflect exposure to depo-subQ provera 104 in five clinical trials involving 2325 women including 2043 women who received treatment for contraception (1780 treated up to 1 year and 263 treated for up to 2 years) and 282 women for endometriosis for up to 6 months.
 In these pooled trials, 9% of women discontinued treatment due to an adverse reaction and the most common reason for discontinuation was dysfunctional uterine bleeding (3%).
@@ -74,18 +74,18 @@ Other Adverse Reactions Observed in Contraception Clinical Trials with depo-subQ
 
 Other adverse reactions occurring at an incidence of <1% in women who received depo-subQ provera 104 were as follows:
 
-- Neoplasms benign, malignant and unspecified (including cysts and polyps): breast lump
-- Blood and lymphatic system disorders: anemia
-- Immune system disorders: drug hypersensitivity
-- Metabolism and nutrition disorders: weight decreased, fluid retention
-- Nervous system disorders: facial palsy, syncope, paresthesia, somnolence
-- Cardiac disorders: tachycardia
-- Vascular disorders: hot flushes
-- Respiratory, thoracic and mediastinal disorders: asthma, dyspnea
-- Gastrointestinal disorders: diarrhea, abdominal distension
-- Skin and subcutaneous tissue disorders: urticaria, pruritus, dry skin
-- Reproductive system and breast disorders: dysmenorrhea, galactorrhea, dyspareunia
-- General disorders and administration site conditions: chest pain
+- •Neoplasms benign, malignant and unspecified (including cysts and polyps): breast lump
+- •Blood and lymphatic system disorders: anemia
+- •Immune system disorders: drug hypersensitivity
+- •Metabolism and nutrition disorders: weight decreased, fluid retention
+- •Nervous system disorders: facial palsy, syncope, paresthesia, somnolence
+- •Cardiac disorders: tachycardia
+- •Vascular disorders: hot flushes
+- •Respiratory, thoracic and mediastinal disorders: asthma, dyspnea
+- •Gastrointestinal disorders: diarrhea, abdominal distension
+- •Skin and subcutaneous tissue disorders: urticaria, pruritus, dry skin
+- •Reproductive system and breast disorders: dysmenorrhea, galactorrhea, dyspareunia
+- •General disorders and administration site conditions: chest pain
 
 Adverse Reactions in the Endometriosis Adult Studies
 
@@ -107,11 +107,11 @@ The safety profile of DMPA-IM for prevention of pregnancy in adolescents was obs
 The following adverse reactions have been identified during post-approval use of DMPA-IM.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Immune system disorders: anaphylactic reaction, anaphylactoid reaction, angioedema
-- Vascular disorders: pulmonary embolism, deep vein thrombosis, thrombophlebitis
-- Musculoskeletal and connective tissue disorders: osteoporosis (including osteoporotic fractures)
-- Reproductive system and breast disorders: prolonged anovulation, unexpected pregnancy, uterine hyperplasia
-- Respiratory, thoracic and mediastinal disorders: hoarseness
-- Skin and subcutaneous tissue disorders: increased body odor
-- Gastrointestinal disorders: gastrointestinal disturbances
-- General disorders and administration site conditions: axillary swelling, chills, thirst
+- •Immune system disorders: anaphylactic reaction, anaphylactoid reaction, angioedema
+- •Vascular disorders: pulmonary embolism, deep vein thrombosis, thrombophlebitis
+- •Musculoskeletal and connective tissue disorders: osteoporosis (including osteoporotic fractures)
+- •Reproductive system and breast disorders: prolonged anovulation, unexpected pregnancy, uterine hyperplasia
+- •Respiratory, thoracic and mediastinal disorders: hoarseness
+- •Skin and subcutaneous tissue disorders: increased body odor
+- •Gastrointestinal disorders: gastrointestinal disturbances
+- •General disorders and administration site conditions: axillary swelling, chills, thirst

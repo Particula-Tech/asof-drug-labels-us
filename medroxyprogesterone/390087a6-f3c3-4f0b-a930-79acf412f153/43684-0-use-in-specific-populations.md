@@ -2,15 +2,31 @@
 
 ## 8.1 Pregnancy
 
-There is no use for depo-subQ provera 104 in pregnancy and therefore depo-subQ provera 104 should be discontinued during pregnancy.
-There appears to be little or no increased risk of birth defects in women who have inadvertently been exposed to medroxyprogesterone acetate injections in early pregnancy.
-Neonates exposed to medroxyprogesterone acetate in-utero and followed to adolescence showed no evidence of any adverse effects on their health including their physical, intellectual, sexual, or social development.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There is no use for contraception in pregnancy; therefore, depo-subQ provera 104 should be discontinued during pregnancy.
+
+Epidemiologic studies and meta-analyses have not found an increased risk of genital or non-genital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to progestins before conception or during early pregnancy.
+
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15‑20%, respectively.
+
+## 8.2 Lactation
+
+Risk Summary
 
 Although medroxyprogesterone acetate is detectable in the milk of mothers receiving DMPA-IM, milk composition, quality, and amount do not appear to be adversely affected.
-Effects on milk production and lactation initiation/duration remain unclear when administered before 6 weeks after delivery.
-Neonates and infants exposed to medroxyprogesterone acetate from breast milk have been studied for developmental and behavioral effects through puberty, and no adverse effects have been noted.
+Effects on milk production and lactation initiation/duration remain unclear when administered before 6 weeks after delivery, therefore, in mothers who exclusively breastfeed, initiate depo-subQ provera 104 during or after the sixth post-partum week [see Dosage and Administration (2.1)].
+
+No adverse effects in breastfed infants would be expected with maternal use of progestins.
+Neonates and infants exposed to medroxyprogesterone acetate from breast milk have been studied and no adverse effects have been noted.
+
+The developmental and health benefits of breast-feeding should be considered along with the mother’s clinical need for depo-subQ provera 104 and any potential adverse effects on the breastfed child from depo-subQ provera 104 or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Depo-subQ provera 104 is indicated for the prevention of pregnancy and would therefore be expected to impair female fertility until cessation of treatment.
+Women may experience a delay in return to ovulation and fertility (conception) following discontinuation of depo-subQ provera 104 [see Warnings and Precautions (5.8)].
 
 ## 8.4 Pediatric Use
 

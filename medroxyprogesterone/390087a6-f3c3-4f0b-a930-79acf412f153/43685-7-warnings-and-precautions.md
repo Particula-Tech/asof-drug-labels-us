@@ -76,9 +76,9 @@ In a clinical study, after five years, 41 women using Depo-Provera CI (150 mg) h
 
 Return to ovulation is likely to be delayed after stopping depo-subQ provera 104, as demonstrated in a study of 15 women who received multiple doses of depo-subQ provera 104:
 
-- Median time to ovulation was 10 months after the last injection.
-- Earliest return to ovulation was 6 months after the last injection.
-- 12 women (80%) ovulated within 1 year of the last injection.
+- •Median time to ovulation was 10 months after the last injection.
+- •Earliest return to ovulation was 6 months after the last injection.
+- •12 women (80%) ovulated within 1 year of the last injection.
 
 However, ovulation has occurred as early as 14 weeks after a single dose of depo-subQ provera 104; therefore, administer the next depo-subQ provera 104 12 to 14 weeks after the last injection.
 
@@ -102,7 +102,7 @@ In post-marketing experience, injection site reactions such as persistent atroph
 ## 5.11 Bleeding Irregularities
 
 Most women using depo-subQ provera 104 experienced changes in menstrual bleeding patterns, such as amenorrhea, irregular unpredictable spotting or bleeding, prolonged spotting or bleeding, or heavy bleeding [see Adverse Reactions (6.1)].
-Fewer women experienced irregular bleeding and more experienced amenorrhea with longer term use of depo-subQ provera 104, consistent with expected endometrial thinning effects.
+Fewer women experienced irregular bleeding and more experienced amenorrhea with longer term use of depo‑subQ provera 104, consistent with expected endometrial thinning effects.
 
 In three contraception trials, 39% of 2053 depo-subQ provera 104-treated women experienced amenorrhea during Month 6, and 57% experienced amenorrhea during Month 12.
 In two endometriosis trials using depo-subQ provera 104, 24% of 289 women experienced amenorrhea during Month 6 [see Adverse Reactions (6.1)].

@@ -144,11 +144,10 @@ There were very few osteoporotic fractures (fracture sites known to be related t
 Importantly, this study could not determine whether use of DMPA-IM has an effect on fracture rate later in life.
 Given the similar effects on BMD from depo-subQ provera 104 and DMPA-IM described above, bone fracture incidence may also be expected to be similar.
 
-## 14.6 Bone Mineral Density in Women Treated with Depo-subQ provera 104 for Endometriosis
+## 14.6 Bone Mineral Density in Women Treated with depo-SubQ provera 104 for Endometriosis
 
 In two clinical studies of 573 adult women with endometriosis, the BMD effects of 6 months of depo-subQ provera 104 treatment (104 mg subcutaneously every 3 months) were compared to 6 months of leuprolide treatment (either 11.25 mg given subcutaneously every 3 months or 3.75 mg given subcutaneously every month).
-Subjects were then observed after treatment completion, for an additional 12 months.
-See Table 7 for the results.
+Subjects were then observed after treatment completion, for an additional 12 months. see Table 7 for the results.
 
 Table 7.
 BMD Mean Percent Change from Baseline after Therapy for Endometriosis with depo-subQ provera 104 or Leuprolide for 6 Months, and 6- and 12-Months Post-Therapy (Studies 268 and 270 Combined)

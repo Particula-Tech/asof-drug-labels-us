@@ -11,18 +11,18 @@ Suppression of serum estradiol concentrations is likely to be responsible for th
 
 The following laboratory tests are expected to be affected by progestins including depo-subQ provera 104:
 
-- Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
-- Gonadotropin levels are decreased.
-- Sex-hormone-binding-globulin concentrations are decreased.
-- Histology specimens may demonstrate changes consistent with progestin effects.
+- •Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
+- •Gonadotropin levels are decreased.
+- •Sex-hormone-binding-globulin concentrations are decreased.
+- •Histology specimens may demonstrate changes consistent with progestin effects.
 
 The following laboratory tests may be affected by depo-subQ provera 104, however the clinical significance is unknown:
 
-- Protein-bound iodine and butanol extractable protein-bound iodine may increase.
-- T3-uptake values may decrease.
-- Coagulation test values for prothrombin (Factor II), and Factors VII, VIII, IX, and X may increase.
-- Sulfobromophthalein and other liver function test values may be increased.
-- The effects of medroxyprogesterone acetate on lipid metabolism are inconsistent.
+- •Protein-bound iodine and butanol extractable protein-bound iodine may increase.
+- •T3-uptake values may decrease.
+- •Coagulation test values for prothrombin (Factor II), and Factors VII, VIII, IX, and X may increase.
+- •Sulfobromophthalein and other liver function test values may be increased.
+- •The effects of medroxyprogesterone acetate on lipid metabolism are inconsistent.
   Both increases and decreases in total cholesterol, triglycerides, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol have been observed in studies.
 
 ## 12.3 Pharmacokinetics
@@ -76,7 +76,7 @@ Specific Populations
 
 Racial Groups
 
-There were no significant differences in the pharmacokinetics and/or pharmacodynamics of MPA after subcutaneous administration of depo-subQ provera 104 in African-American, Caucasian, and Asian women.
+There were no significant differences in the pharmacokinetics and/or pharmacodynamics of MPA after subcutaneous administration of depo-subQ provera 104 in African-American, Caucasian, and Asian women
 
 Effect of Body Weight
 
