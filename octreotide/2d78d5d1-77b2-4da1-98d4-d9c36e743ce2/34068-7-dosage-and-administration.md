@@ -2,21 +2,17 @@
 
 ## 2.1 Dosage and Administration Overview
 
-Octreotide acetate injection may be administered subcutaneously or intravenously.
-Pain with subcutaneous administration may be reduced by using the smallest volume that will deliver the desired dose.
-Sites should be rotated in a systematic manner.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
-Do not use if particulates and/or discoloration are observed.
-Octreotide acetate injection is not compatible in Total Parenteral Nutrition solutions because of the formation of a glycosyl octreotide conjugate which may decrease the efficacy of the product.
-
-The needle shield of the prefilled syringes may contain natural rubber latex which may cause allergic reactions in sensitive individuals.
-
-Octreotide acetate injection may be diluted in volumes of 50 mL to 200 mL and infused intravenously over 15 to 30 minutes or administered by intravenous (IV) push over 3 minutes.
-In emergency situations (e.g., carcinoid crisis), it may be given by rapid bolus.
-Discard unused portion.
-
-Assess total and/or free T4 levels at baseline and periodically during chronic octreotide acetate injection therapy.
+- •Octreotide acetate injection may be administered subcutaneously or intravenously.
+  Pain with subcutaneous administration may be reduced by using the smallest volume that will deliver the desired dose.
+  Sites should be rotated in a systematic manner.
+  The needle shield of the prefilled syringes may contain natural rubber latex which may cause allergic reactions in sensitive individuals.
+- •Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+  Do not use if particulates and/or discoloration are observed.
+  Octreotide acetate injection is not compatible in Total Parenteral Nutrition solutions because of the formation of a glycosyl octreotide conjugate which may decrease the efficacy of the product.
+- •Octreotide acetate injection may be diluted in volumes of 50 mL to 200 mL and infused intravenously over 15 to 30 minutes or administered by intravenous (IV) push over 3 minutes.
+  In emergency situations (e.g., carcinoid crisis), it may be given by rapid bolus.
+  Discard unused portion.
+- •Assess total and/or free T4 levels at baseline and periodically during chronic octreotide acetate injection therapy.
 
 ## 2.2 Recommended Dosage and Monitoring for Acromegaly
 

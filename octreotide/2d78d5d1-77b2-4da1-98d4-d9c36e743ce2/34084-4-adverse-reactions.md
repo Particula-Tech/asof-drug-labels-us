@@ -1,5 +1,14 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- •Complete Atrioventricular Block [see Warnings and Precautions (5.1)]
+- •Cholelithiasis and Complications of Cholelithiasis [see Warnings and Precautions (5.2)]
+- •Hyperglycemia and Hypoglycemia [see Warnings and Precautions (5.3)]
+- •Thyroid Function Abnormalities [see Warnings and Precautions (5.4)]
+- •Steatorrhea and Malabsorption of Dietary Fats [see Warnings and Precautions (5.5)]
+- •Changes in Vitamin B12 Levels [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -54,6 +63,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hepatobiliary: cholelithiasis, cholecystitis, cholangitis and pancreatitis, which have sometimes required cholecystectomy
 
-Gastrointestinal: intestinal obstruction
+Gastrointestinal: intestinal obstruction, pancreatic exocrine insufficiency
 
 Hematologic: thrombocytopenia

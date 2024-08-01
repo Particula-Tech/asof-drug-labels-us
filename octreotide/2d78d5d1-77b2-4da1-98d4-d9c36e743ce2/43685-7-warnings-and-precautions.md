@@ -45,8 +45,12 @@ Adjust dosing of insulin or other anti-diabetic therapy accordingly.
 Octreotide suppresses secretion of thyroid stimulating hormone (TSH), which may result in hypothyroidism.
 Baseline and periodic assessment of thyroid function (TSH, total, and/or free T4) is recommended during chronic therapy [see Adverse Reactions (6)].
 
-## 5.5 Nutrition
+## 5.5 Steatorrhea and Malabsorption of Dietary Fats
 
-Octreotide acetate injection may alter absorption of dietary fats.
+New onset steatorrhea, stool discoloration and loose stools have been reported in patients receiving somatostatin analogs, including octreotide acetate injection.
+Somatostatin analogs reversibly inhibit secretion of pancreatic enzymes and bile acids, which may result in malabsorption of dietary fats and subsequent symptoms of steatorrhea, loose stools, abdominal bloating, and weight loss.
+If new occurrence or worsening of these symptoms are reported in patients receiving octreotide acetate injection, evaluate patients for potential pancreatic exocrine insufficiency and manage accordingly.
+
+## 5.6 Changes in Vitamin B12 Levels
 
 Depressed vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide acetate injection therapy, and monitoring of vitamin B12 levels is recommended during octreotide acetate injection therapy.
