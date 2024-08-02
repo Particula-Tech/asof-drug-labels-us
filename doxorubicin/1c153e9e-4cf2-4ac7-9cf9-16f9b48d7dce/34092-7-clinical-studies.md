@@ -142,7 +142,7 @@ The primary outcome measure was time to progression (TTP).
 TTP was defined as the time from randomization to the first occurrence of progressive disease or death due to progressive disease.
 The combination arm demonstrated significant improvement in TTP.
 As the prespecified primary objective was achieved at the interim analysis, patients in the bortezomib monotherapy group were then allowed to receive the DOXIL liposomal infusion + bortezomib combination.
-Efficacy results are as shown in Table 13 and Figure 1.
+Efficacy results are as shown in Table 13 and.
 
 Table 13: Efficacy of DOXIL Liposomal Infusion in Combination With Bortezomib in the Treatment of Patients With Multiple Myeloma
 
