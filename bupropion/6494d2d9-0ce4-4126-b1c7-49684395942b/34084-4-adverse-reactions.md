@@ -61,7 +61,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Asthenia | 2% | 2% | 4% |
 | Chest pain | 1% | 3% | 4% |
 | Pain | 2% | 2% | 3% |
-| Fever | — | 1% | 2% |
+| Fever | —Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. | 1% | 2% |
 | Cardiovascular |  |  |  |
 | Palpitation | 2% | 2% | 6% |
 | Flushing | — | 1% | 4% |

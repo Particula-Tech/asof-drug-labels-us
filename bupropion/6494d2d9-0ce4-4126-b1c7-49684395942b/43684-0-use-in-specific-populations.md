@@ -37,7 +37,7 @@ The prospectively observed rate of cardiovascular malformations in pregnancies w
 Data from the United Healthcare database, which has a limited number of exposed cases with cardiovascular malformations, and a case-controlled study (6,853 infants with cardiovascular malformations and 5,753 with non-cardiovascular malformations) from the National Birth Defects Prevention Study (NBDPS) did not show an increased risk for cardiovascular malformations overall after bupropion exposure during the first trimester.
 
 Study findings on bupropion exposure during the first trimester and risk left ventricular outflow tract obstruction (LVOTO) are inconsistent and do not allow conclusions regarding possible association.
-The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted odds ratio (OR) = 2.6; 95% Cl 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
+The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted odds ratio (OR) = 2.6; 95% CI 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
 
 Study findings on bupropion exposure during the first trimester and risk for ventricular septal defect (VSD) are inconsistent and do not allow conclusions regarding a possible association.
 The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n = 17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).

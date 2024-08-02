@@ -68,4 +68,4 @@ APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
 All other product/brand names and/or logos are the trademarks of their respective owners.
 
-U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2024 Bausch Health Companies Inc. or its affiliates 9386810
+1. U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2024 Bausch Health Companies Inc. or its affiliates 9386810 20005583

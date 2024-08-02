@@ -1,8 +1,7 @@
 # Medication Guide
 
-APLENZIN® (uh-PLEN-zin)
-
-1. (bupropion hydrobromide) extended-release tablets
+1. APLENZIN® (uh-PLEN-zin)
+2. (bupropion hydrobromide) extended-release tablets
 
 | IMPORTANT: Be sure to read the three sections of this Medication Guide. The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About APLENZIN?” |
 | --- |
@@ -153,9 +152,10 @@ Do not take APLENZIN if you:
 
 What should I tell my healthcare provider before taking APLENZIN?
 
-- •Tell your healthcare provider if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
-  You should also tell your healthcare provider about any symptoms you had during other times you tried to quit smoking, with or without APLENZIN.
-  See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
+Tell your healthcare provider if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
+You should also tell your healthcare provider about any symptoms you had during other times you tried to quit smoking, with or without APLENZIN.
+See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
+
 - •Tell your healthcare provider about your other medical conditions, including if you:
 - ohave liver problems, especially cirrhosis of the liver.
 - ohave kidney problems.
@@ -168,10 +168,10 @@ What should I tell my healthcare provider before taking APLENZIN?
 - odrink alcohol.
 - oabuse prescription medicines or street drugs.
 - oare pregnant or plan to become pregnant.
-  - •Talk to your healthcare provider about the risk to your unborn baby if you take APLENZIN during pregnancy.
-  - •Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with APLENZIN.
-    - If you become pregnant during treatment with APLENZIN, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
-      You can register by calling 1-844-405-6185.
+  - oTalk to your healthcare provider about the risk to your unborn baby if you take APLENZIN during pregnancy.
+  - oTell your healthcare provider if you become pregnant or think you are pregnant during treatment with APLENZIN.
+- If you become pregnant during treatment with APLENZIN, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  You can register by calling 1-844-405-6185.
 - oare breastfeeding or plan to breastfeed during treatment with APLENZIN.
   APLENZIN passes into your milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with APLENZIN.
@@ -232,7 +232,7 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-1. You may also report side effects to Bausch Health US, LLC at 1-800-321-4576.
+- You may also report side effects to Bausch Health US, LLC at 1-800-321-4576.
 
 How should I store APLENZIN?
 
@@ -254,9 +254,9 @@ What are the ingredients in APLENZIN?
 
 Active ingredient: bupropion hydrobromide
 
-1. Inactive ingredients: ethylcellulose, glyceryl behenate, polyvinyl alcohol, polyethylene glycol, povidone, and dibutyl sebacate.
-   Carnauba wax is included in the 174 mg and 348 mg strengths.
-   The tablets are printed with edible black ink.
+- Inactive ingredients: ethylcellulose, glyceryl behenate, polyvinyl alcohol, polyethylene glycol, povidone, and dibutyl sebacate.
+  Carnauba wax is included in the 174 mg and 348 mg strengths.
+  The tablets are printed with edible black ink.
 
 Distributed by:
 
@@ -282,5 +282,5 @@ U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,64
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-| 9386810 |  | Revised: 3/2024 |
-| --- | --- | --- |
+| 9386810 20005583 | Revised: 3/2024 |
+| --- | --- |

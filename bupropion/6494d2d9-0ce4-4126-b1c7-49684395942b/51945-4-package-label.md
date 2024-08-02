@@ -14,7 +14,7 @@ Rx only
 
 BAUSCH Health
 
-9422103
+9422104
 
 PRINCIPAL DISPLAY PANEL - 348 mg Tablet Bottle Label
 
@@ -32,7 +32,7 @@ Rx only
 
 BAUSCH Health
 
-9422303
+9422304
 
 PRINCIPAL DISPLAY PANEL - 522 mg Tablet Bottle Label
 
@@ -50,4 +50,4 @@ Rx only
 
 BAUSCH Health
 
-9422503
+9422504
