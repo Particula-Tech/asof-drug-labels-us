@@ -16,7 +16,7 @@ At the first sign or symptom of cardiac failure, COMBIGAN® should be discontinu
 
 ## 5.3 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN® is contraindicated [see Contraindications (4.1)]) should, in general, not receive beta-blocking agents, including COMBIGAN®.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN® is contraindicated [see Contraindications (4.1)] should, in general, not receive beta-blocking agents, including COMBIGAN®.
 
 ## 5.4 Potentiation of Vascular Insufficiency
 
