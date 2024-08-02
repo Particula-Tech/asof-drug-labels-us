@@ -120,9 +120,14 @@ Nebivolol tablets can help your blood vessels relax so your blood pressure is lo
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-July 2023 Manufactured by: Alkem Laboratories Ltd., INDIA.
+April 2024 Manufactured by:
+
+Alkem Laboratories Ltd.,
+
+Mumbai - 400 013, INDIA.
+
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
 Trademarks are the property of their respective owners.
 
-PT3536-03 / PT2503-02
+PT3536-04 / PT2503-03
