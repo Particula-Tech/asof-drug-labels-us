@@ -2,7 +2,7 @@
 
 Vasopressin injection, USP is a clear, colorless solution for intravenous administration available as:
 
-NDC 43598-914-25: A carton of 25 single dose vials.
+NDC 43598-914-06: A carton of 25 single dose vials.
 Each vial contains vasopressin, USP 1 mL at 20 units/mL.
 
 Store between 2°C and 8°C (36°F and 46°F).
