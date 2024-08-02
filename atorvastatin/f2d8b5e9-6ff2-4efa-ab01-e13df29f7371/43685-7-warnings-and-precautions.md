@@ -10,7 +10,7 @@ Risk Factors for Myopathy Risk factors for myopathy include age 65 years or grea
 Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis Atorvastatin calcium exposure may be increased by drug interactions due to inhibition of cytochrome P450 enzyme 3A4 (CYP3A4) and/or transporters (e.g., breast cancer resistant protein [BCRP], organic anion-transporting polypeptide [OATP1B1/OATP1B3] and P-glycoprotein [P-gp]), resulting in an increased risk of myopathy and rhabdomyolysis.
 Concomitant use of cyclosporine, gemfibrozil, tipranavir plus ritonavir, or glecaprevir plus pibrentasvir with atorvastatin calcium is not recommended.
 Atorvastatin calcium dosage modifications are recommended for patients taking certain anti-viral, azole antifungals, or macrolide antibiotic medications [see Dosage and Administration (2.5)].
-Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (>1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir.
+Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (>1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir [see Adverse Reactions (6.1)].
 Consider if the benefit of use of these products outweighs the increased risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
 
 Concomitant intake of large quantities, more than 1.2 liters daily, of grapefruit juice is not recommended in patients taking atorvastatin calcium [see Drug Interactions (7.1)].

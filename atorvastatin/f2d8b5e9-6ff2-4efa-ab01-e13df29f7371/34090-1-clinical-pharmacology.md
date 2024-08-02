@@ -40,7 +40,7 @@ Specific Populations Geriatric Plasma concentrations of atorvastatin calcium are
 
 Pediatric Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the body weight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-week study.
 
-Gender Plasma concentrations of atorvastatin calcium in women differ from those in men (approximately 20% higher for C maxand 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between men and women.
+Gender Plasma concentrations of atorvastatin calcium in females differ from those in males (approximately 20% higher for C maxand 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between males and females.
 
 Renal Impairment Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin calcium [see Use in Specific Populations (8.6)].
 
@@ -60,7 +60,7 @@ Table 5: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 |  | Dose (mg) | Ratio of AUC & | Ratio of C max& |
 | --- | --- | --- | --- |
-| Co-administered drug and dosing regimen | Atorvastatin |  |  |
+| Co-administered drug and dosage regimen | Atorvastatin |  |  |
 | #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD afor 28 days | 8.69 | 10.66 |
 | #Tipranavir 500 mg BID b/ritonavir 200 mg BID b, 7 days | 10 mg, SD c | 9.36 | 8.58 |
 | #Glecaprevir 400 mg QD a/pibrentasvir 120 mg QD a, 7 days | 10 mg QD afor 7 days | 8.28 | 22.00 |
@@ -118,9 +118,9 @@ fEvery 8 hours
 Table 6.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-|  | Drug/Dose (mg) | Ratio of AUC | Ratio of C max |
+|  | Drug/Dosage (mg) | Ratio of AUC | Ratio of C max |
 | --- | --- | --- | --- |
-| Atorvastatin | Co-administered drug and dosing regimen |  |  |
+| Atorvastatin | Co-administered drug and dosage regimen |  |  |
 | 80 mg QD afor 15 days | Antipyrine, 600 mg SD c | 1.03 | 0.89 |
 | 80 mg QD afor 10 days | #Digoxin 0.25 mg QD a, 20 days | 1.15 | 1.20 |
 | 40 mg QD afor 22 days | Oral contraceptive QD a, 2 months - norethindrone 1mg - ethinyl estradiol 35μg | 1.28 1.19 | 1.23 1.30 |
@@ -134,6 +134,6 @@ aOnce daily
 
 bTwice daily
 
-cSingle Dose
+cSingle Dosage
 
 Atorvastatin Calcium had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.

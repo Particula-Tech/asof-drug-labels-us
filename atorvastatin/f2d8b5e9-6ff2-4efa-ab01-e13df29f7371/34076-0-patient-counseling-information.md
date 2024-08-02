@@ -27,6 +27,10 @@ Lactation
 
 Advise patients that breastfeeding is not recommended during treatment with atorvastatin calcium [see Use in Specific Populations (8.2)].
 
+Missed Doses
+
+If a dose is missed, advise patients not to take the missed dose and resume with the next scheduled dose.
+
 Manufactured by:
 
 ScieGen Pharmaceuticals, Inc.
@@ -35,4 +39,4 @@ Hauppauge, NY 11788 USA
 
 Dispense the Patient Information available at: https://sciegenpharm.com/medication-guide/
 
-Rev: 8/2023
+Rev: 5/2024

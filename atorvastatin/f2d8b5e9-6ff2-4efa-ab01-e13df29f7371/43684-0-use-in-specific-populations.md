@@ -54,7 +54,7 @@ Atorvastatin and/or its metabolites were measured in the breast milk and pup pla
 
 The safety and effectiveness of atorvastatin calcium as an adjunct to diet to reduce LDL-C have been established pediatric patients 10 years of age and older with HeFH.
 Use of LIPITOR for this indication is based on a double-blind, placebo-controlled clinical trial in 187 pediatric patients 10 years of age and older with HeFH.
-In this limited controlled trial, there was no significant effect on growth or sexual maturation in the boys or girls, or on menstrual cycle length in girls.
+In this limited controlled trial, there was no significant effect on growth or sexual maturation in the males or females, or on menstrual cycle length in females.
 
 The safety and effectiveness of atorvastatin calcium as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established pediatric patients 10 years of age and older with HoFH.
 Use of atorvastatin calcium for this indication is based on a trial without a concurrent control group in 8 pediatric patients 10 years of age and older with HoFH [see Clinical Studies (14)].
