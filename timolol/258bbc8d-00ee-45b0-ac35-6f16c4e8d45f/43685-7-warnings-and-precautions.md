@@ -39,7 +39,7 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 
 ## 5.8 Contamination of Topical Ophthalmic Products After Use
 
-There have been reports of bacterial keratitis associated with the use of multidose containers of topical ophthalmic products.
+There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17)].
 
 ## 5.9 Impairment of Beta-adrenergically Mediated Reflexes During Surgery
@@ -67,3 +67,9 @@ If signs or symptoms suggesting reduced cerebral blood flow develop following in
 ## 5.12 Choroidal Detachment
 
 Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g., timolol).
+
+## 5.13 Contact Lens Use
+
+ISTALOL contains benzalkonium chloride, an anti-microbial preservative which may be absorbed by soft contact lenses.
+Contact lenses should be removed prior to administration of the solution.
+Lenses may be reinserted 15 minutes following ISTALOL administration.

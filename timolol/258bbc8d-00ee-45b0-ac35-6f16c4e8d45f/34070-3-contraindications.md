@@ -2,7 +2,7 @@
 
 ## 4.1 Asthma, COPD
 
-ISTALOL is contraindicated in patients with bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions (5.1, 5.3)].
+ISTALOL is contraindicated in patients with bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions(5.1, 5.3)].
 
 ## 4.2 Sinus Bradycardia, AV Block, Cardiac Failure, Cardiogenic Shock
 
