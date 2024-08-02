@@ -22,21 +22,14 @@ Mechanism of Action
 The bactericidal action of vancomycin against Staphylococcus aureus and the vegetative cells of Clostridioides difficile results primarily from inhibition of cell-wall biosynthesis.
 In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis.
 
-Resistance
+Resistance Staphylococcus aureus S. aureus isolates with vancomycin minimal inhibitory concentrations (MICs) as high as 1024 mcg/mL have been reported.
+The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material.
 
-1. Staphylococcus aureus
-2. S. aureus isolates with vancomycin minimal inhibitory concentrations (MICs) as high as 1024 mcg/mL have been reported.
-3. The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material.
-4. Clostridioides difficile
-5. Isolates of C. difficile generally have vancomycin MICs of <1 mcg/mL, however vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported.
+1. Clostridioides difficile Isolates of C. difficile generally have vancomycin MICs of <1 mcg/mL, however vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported.
    The mechanism which mediates C. difficile's decreased susceptibility to vancomycin has not been fully elucidated.
 
 Vancomycin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Gram-positive bacteria
+Gram-positive bacteria Staphylococcus aureus (including methicillin-resistant isolates) associated with enterocolitis.
 
-1. Staphylococcus aureus (including methicillin-resistant isolates) associated with enterocolitis.
-
-Anaerobic gram-positive bacteria
-
-1. Clostridioides difficile isolates associated with C. difficile associated diarrhea.
+Anaerobic gram-positive bacteria Clostridioides difficile isolates associated with C. difficile associated diarrhea.
