@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on findings in animals and its mechanism of action, Doxorubicin Hydrochloride Injection/for Injection can cause fetal harm when administered to a pregnant woman; avoid the use of Doxorubicin Hydrochloride Injection/for Injection during the 1st trimester.
+Based on findings in animals and its mechanism of action, Doxorubicin Hydrochloride Injection can cause fetal harm when administered to a pregnant woman; avoid the use of Doxorubicin Hydrochloride Injection during the 1st trimester.
 Available human data do not establish the presence or absence of major birth defects and miscarriage related to the use of doxorubicin hydrochloride during the 2nd and 3rd trimesters.
 Doxorubicin hydrochloride was teratogenic and embryotoxic in rats and embryotoxic in rabbits when administered during organogenesis at doses approximately 0.07 times (based on body surface area) the recommended human dose of 60 mg/m2 (see Data).
 Advise pregnant women of the potential risk to a fetus.
@@ -19,7 +19,7 @@ Doxorubicin hydrochloride was teratogenic and embryotoxic at doses of 0.8 mg/kg/
 Teratogenicity and embryotoxicity were also seen using discrete periods of treatment.
 The most susceptible was the 6- to 9-day gestation period at doses of 1.25 mg/kg/day and greater.
 Characteristic malformations included esophageal and intestinal atresia, tracheo-esophageal fistula, hypoplasia of the urinary bladder, and cardiovascular anomalies.
-Doxorubicin hydrochloride was embryotoxic (increase in embryofetal deaths) and abortifacient at 0.4 mg/kg/day (about 0.07 times the recommended human dose based on body surface area) in rabbits when administered during the period of organogenesis.
+Doxorubicin hydrochloride was embryotoxic (increase in embryo‑fetal deaths) and abortifacient at 0.4 mg/kg/day (about 0.07 times the recommended human dose based on body surface area) in rabbits when administered during the period of organogenesis.
 
 ## 8.2 Lactation
 
@@ -29,26 +29,26 @@ Doxorubicin was measured in the milk of one lactating patient after therapy with
 The peak milk concentration at 24 hours after treatment was 4.4-fold greater than the corresponding plasma concentration.
 Doxorubicin was detectable in the milk up to 72 hours.
 There are no data on the effects of doxorubicin hydrochloride on the breastfed child or the effects on milk production.
-Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with Doxorubicin Hydrochloride Injection/for Injection and for 10 days after the final dose.
+Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with Doxorubicin Hydrochloride Injection and for 10 days after the final dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to initiating Doxorubicin Hydrochloride Injection/for Injection.
+Verify the pregnancy status of females of reproductive potential prior to initiating Doxorubicin Hydrochloride Injection.
 
 Contraception
 
 Females
 
-Doxorubicin Hydrochloride Injection/for Injection can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
-Advise female patients of reproductive potential to use highly effective contraception during treatment with Doxorubicin Hydrochloride Injection/for Injection and for 6 months after treatment.
+Doxorubicin Hydrochloride Injection can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+Advise female patients of reproductive potential to use highly effective contraception during treatment with Doxorubicin Hydrochloride Injection and for 6 months after treatment.
 [see Use in Specific Populations (8.1)].
 
 Males
 
 Doxorubicin hydrochloride may damage spermatozoa and testicular tissue, resulting in possible genetic fetal abnormalities.
-Due to the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with Doxorubicin Hydrochloride Injection/for Injection and for 3 months after treatment [see Nonclinical Toxicology (13.1)].
+Due to the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with Doxorubicin Hydrochloride Injection and for 3 months after treatment [see Nonclinical Toxicology (13.1)].
 Males with pregnant partners should use condoms during treatment and for at least 10 days after the final dose [see Nonclinical Toxicology (13.1), Use in Specific Populations (8.1)].
 
 Infertility
@@ -82,5 +82,5 @@ Clinical experience in patients who were 65 years of age and older who received 
 ## 8.6 Hepatic Impairment
 
 The clearance of doxorubicin was reduced in patients with elevated serum total bilirubin levels.
-Doxorubicin Hydrochloride Injection/for Injection is contraindicated in patients with severe hepatic impairment (defined as Child Pugh Class C or serum bilirubin levels greater than 5 mg/dL) [see Contraindications (4)].
-Reduce the dose of Doxorubicin Hydrochloride Injection/for Injection in patients with serum total bilirubin levels greater than 1.2 mg/dL [See Dosage and Administration (2.4), Warnings and Precautions (5.5)].
+Doxorubicin Hydrochloride Injection is contraindicated in patients with severe hepatic impairment (defined as Child Pugh Class C or serum bilirubin levels greater than 5 mg/dL) [see Contraindications (4)].
+Reduce the dose of Doxorubicin Hydrochloride Injection in patients with serum total bilirubin levels greater than 1.2 mg/dL [See Dosage and Administration (2.4), Warnings and Precautions (5.5)].

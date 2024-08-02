@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Doxorubicin Hydrochloride Injection/for Injection are contraindicated in patients with:
+Doxorubicin Hydrochloride Injection are contraindicated in patients with:
 
 - •Severe myocardial insufficiency [see Warnings and Precautions (5.1)]
 - •Recent (occurring within the past 4-6 weeks) myocardial infarction [see Warnings and Precautions (5.1)]

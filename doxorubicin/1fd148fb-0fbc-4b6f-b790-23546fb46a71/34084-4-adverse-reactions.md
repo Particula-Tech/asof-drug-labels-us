@@ -25,7 +25,7 @@ Selected Adverse Reactions in Patients with Early Breast Cancer Involving Axilla
 
 | % | % |  |
 | --- | --- | --- |
-| Adverse Reactions | ACIncludes pooled data from patients who received either AC for 4 cycles or AC for 4 cycles followed by CMF for 3 cycles N=1492 | Conventional CMF N=739 |
+| Adverse Reactions | ACIncludes pooled data from patients who received either AC for 4 cycles or AC for 4 cycles followed by CMF for 3 cycles N = 1492 | Conventional CMF N = 739 |
 | Alopecia | 92 | 71 |
 | Vomiting |  |  |
 | Vomiting ≤12 hours | 34 | 25 |
@@ -47,7 +47,7 @@ Selected Adverse Reactions in Patients with Early Breast Cancer Involving Axilla
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of Doxorubicin Hydrochloride Injection/for Injection.
+The following adverse reactions have been identified during postapproval use of Doxorubicin Hydrochloride Injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiac – Cardiogenic shock

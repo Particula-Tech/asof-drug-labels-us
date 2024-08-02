@@ -1,4 +1,4 @@
-This product’s label may have been updated.
-For full prescribing information, please visit www.pfizer.com.
+This product’s labeling may have been updated.
+For the most current prescribing information, please visit www.pfizer.com.
 
-LAB-0073-18.0
+LAB-0073-19.0
