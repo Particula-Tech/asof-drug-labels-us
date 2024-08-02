@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217651"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-9777-01",
+    "0338-9779-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cyclophosphamide injection, solution",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "34dbffee-80e0-49c3-90e8-95713a0b7fbe",
+  "source": "dailymed"
+}
