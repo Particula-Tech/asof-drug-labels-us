@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021994"
+  ],
+  "inn": "travoprost",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-095-56",
+    "66758-095-75"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "travoprost",
+      "name": "Travatan Z"
+    }
+  ],
+  "setid": "4b5cffb0-74e0-44e4-8e18-f5d56e9db450",
+  "source": "dailymed"
+}
