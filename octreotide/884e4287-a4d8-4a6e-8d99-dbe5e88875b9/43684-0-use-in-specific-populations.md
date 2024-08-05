@@ -19,7 +19,9 @@ In postmarketing data, a limited number of exposed pregnancies have been reporte
 Most women were exposed to octreotide during the first trimester of pregnancy at doses ranging from 100 to 300 mcg/day of octreotide acetate injection or 20 mg to 30 mg once a month of octreotide acetate for injectable suspension, however some women elected to continue octreotide therapy throughout pregnancy.
 In cases with a known outcome, no congenital malformations were reported.
 
-Animal Data In embryo-fetal development studies in rats and rabbits, pregnant animals received IV doses of octreotide up to 1 mg/kg/day during the period of organogenesis.
+Animal Data
+
+In embryo-fetal development studies in rats and rabbits, pregnant animals received IV doses of octreotide up to 1 mg/kg/day during the period of organogenesis.
 A slight reduction in body weight gain was noted in pregnant rats at 0.1 and 1 mg/kg/day.
 There were no maternal effects in rabbits or embryo-fetal effects in either species up to the maximum dose tested.
 At 1 mg/kg/day in rats and rabbits, the dose multiple was approximately 7- and 13-times, respectively, at the highest recommended human dose of 1.5 mg/day based on BSA.
