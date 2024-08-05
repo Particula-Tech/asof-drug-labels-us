@@ -18,7 +18,7 @@ This dose may be repeated every 4 to 6 hours for 48 hours.
 
 In general, high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized; usually not beyond 48 to 72 hours.
 
-In other indications, initial dosage will vary from 10 to 40 mg of methylprednisolone depending on the specific disease entity being treated.
+In other indications, initial dosage will vary from 10 mg to 40 mg of methylprednisolone depending on the specific disease entity being treated.
 However, in certain overwhelming, acute, life-threatening situations, administrations in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
 It Should Be Emphasized that Dosage Requirements are Variable and Must Be Individualized on the Basis of the Disease Under Treatment and the Response of the Patient.
 After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
@@ -38,9 +38,9 @@ If not used immediately, in-use storage times and conditions are the responsibil
 Chemical and physical stability of the further diluted product has been demonstrated within 4 hours of preparation if stored below 25°C or within 24 hours of preparation if stored at 2° to 8°C.
 
 In pediatric patients, the initial dose of methylprednisolone may vary depending on the specific disease entity being treated.
-The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m2bsa/day).
+The range of initial doses is 0.11 mg/kg/day to 1.6 mg/kg/day in three or four divided doses (3.2 mg/m2bsa/day to 48 mg/m2bsa/day).
 
-The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone, or methylprednisolone in pediatric patients whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1 to 2 mg/kg/day in single or divided doses.
+The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone, or methylprednisolone in pediatric patients whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1 mg/kg/day to 2 mg/kg/day in single or divided doses.
 It is further recommended that short course, or “burst” therapy, be continued until the patient achieves a peak expiratory flow rate of 80% of his or her personal best or until symptoms resolve.
 This usually requires 3 to 10 days of treatment, although it can take longer.
 There is no evidence that tapering the dose after improvement will prevent a relapse.

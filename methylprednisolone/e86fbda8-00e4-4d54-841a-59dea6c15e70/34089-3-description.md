@@ -4,7 +4,7 @@ Methylprednisolone sodium succinate for injection, USP is an anti-inflammatory g
 Methylprednisolone sodium succinate, USP, is the sodium succinate ester of methylprednisolone, and it occurs as a white, or nearly white, odorless hygroscopic, amorphous solid.
 It is very soluble in water and in alcohol; it is insoluble in chloroform and is very slightly soluble in acetone.
 
-The chemical name for methylprednisolone sodium succinate is pregna-1,4-diene-3,20-dione,21-(3-carboxy-1-oxopropoxy)-11,17-dihydroxy-6-methyl-monosodium salt, (6α, 11β), and the molecular weight is 496.53.
+The chemical name for methylprednisolone sodium succinate is pregna-1,4-diene-3,20-dione,21-(3-carboxy-1-oxopropoxy)-11,17-dihydroxy-6-methyl-monosodium salt, (6α, 11β), and the molecular weight is 496.53 g/mol.
 The structural formula is represented below:
 
 Methylprednisolone sodium succinate, USP is soluble in water; it may be administered in a small volume of diluent and is well suited for intravenous use in situations where high blood levels of methylprednisolone are required rapidly.
