@@ -59,7 +59,7 @@ Postoperative Nausea and Vomiting
 
 The adverse reactions cited in Table 2 were reported in ≥ 2% of adults receiving intravenous palonosetron HCl 0.075 mg immediately before induction of anesthesia in three randomized placebo-controlled trials.
 Rates of adverse reactions between palonosetron HCl and placebo groups were similar.
-Some events are known to be associated with, or may be exacerbated by concomitant perioperative and intraoperative medications administered in this surgical population See Clinical Pharmacology (12.2) for thorough QT/QTc study results and data demonstrating the lack of palonosetron effect on QT/QTc.
+Some events are known to be associated with, or may be exacerbated by concomitant perioperative and intraoperative medications administered in this surgical population See Clinical Pharmacology (12.2)for thorough QT/QTc study results and data demonstrating the lack of palonosetron effect on QT/QTc.
 
 Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2% in any Treatment Group
 
