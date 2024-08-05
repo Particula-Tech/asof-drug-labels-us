@@ -28,12 +28,10 @@ No significant toxicological effects on embryo-fetal (rats and rabbits) or pre/p
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
-
 It is not known whether SUNLENCA is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
 After administration to pregnant rats, lenacapavir was detected in the plasma of nursing rat pups, without effects on these nursing pups (see Data).
 
-Because of the potential for 1) HIV transmission (in HIV-negative infants); 2) developing viral resistance (in HIV-positive infants); and 3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving SUNLENCA.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1-negative infants), (2) developing viral resistance (in HIV-1-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 
