@@ -59,3 +59,7 @@ Lactation
 Advise breastfeeding mothers using zolpidem tartrate extended-release tablets to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
 Instruct breastfeeding mothers to seek immediate medical care if they notice these signs.
 A lactating woman may consider pumping and discarding breastmilk during treatment and for 23 hours after zolpidem tartrate extended-release tablets administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)].
+
+Finished Drug Product Manufactured by Novartis d.o.o.
+
+1000 Ljubljana, Slovenia for Sandoz Inc., Princeton, NJ 08540

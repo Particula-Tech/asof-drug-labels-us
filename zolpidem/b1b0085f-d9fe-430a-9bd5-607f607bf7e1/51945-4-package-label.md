@@ -1,6 +1,6 @@
 # Principal Display Panel
 
-NDC 0781-5315-31
+NDC 0781-5315-01
 
 Zolpidem Tartrate Extended-Release Tablets, USP
 
@@ -10,11 +10,11 @@ Rx only
 
 Pharmacist: Dispense the Medication Guide provided separately to each patient
 
-30 Tablets
+100 Tablets
 
 # Principal Label Display Panel
 
-NDC 0781-5316-31
+NDC 0781-5316-01
 
 Zolpidem Tartrate Extended-Release Tablets, USP
 
@@ -24,4 +24,4 @@ Rx only
 
 Pharmacist: Dispense the Medication Guide provided separately to each patient
 
-30 Tablets
+100 Tablets
