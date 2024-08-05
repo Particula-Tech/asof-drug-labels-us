@@ -52,7 +52,7 @@ Nervous system - Insomnia, somnolence.
 
 Respiratory system - Asthma, pulmonary infiltration with eosinophilia.
 
-Skin and appendages - Angioedema, sweating, urticaria, exfoliative dermatitis, vesiculobullous rash, cutaneous vasculitis with purpura, Stevens-Johnson Syndrome, toxic epidermal necrolysis, leukocytoclastic vasculitis, hyperpigmentation, erythema multiforme.
+Skin and appendages - Angioedema, sweating, urticaria, exfoliative dermatitis, vesiculobullous rash, cutaneous vasculitis with purpura, Stevens-Johnson Syndrome, toxic epidermal necrolysis, fixed drug eruption (FDE), leukocytoclastic vasculitis, hyperpigmentation, erythema multiforme.
 
 Special senses - Photophobia, transient visual disturbances.
 
