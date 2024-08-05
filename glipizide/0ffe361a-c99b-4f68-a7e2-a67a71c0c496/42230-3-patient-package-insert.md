@@ -123,7 +123,8 @@ Active ingredient: glipizide Inactive ingredients: polyethylene oxide, hypromell
 
 Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 
-Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663
+Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816
 
-Oct.
-2018
+137127
+
+Revised: 07/2023
