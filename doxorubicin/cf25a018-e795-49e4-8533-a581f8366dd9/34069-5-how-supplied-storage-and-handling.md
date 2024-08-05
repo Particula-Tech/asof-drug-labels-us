@@ -6,10 +6,10 @@ The following individually cartoned vials are available:
 
 Table 14
 
-| vial concentration |  | vial size | NDC #s |
-| --- | --- | --- | --- |
-| 20 mg/ 10 mL(2 mg/mL) |  | 10-mL | 0338-0080-01 |
-| 50 mg/25 mL (2 mg/mL) |  | 30-mL | 0338-0086-01 |
+| vial concentration | vial size | NDC #’s |
+| --- | --- | --- |
+| 20 mg/10 mL (2 mg/mL) | 10-mL | 0338-0080-01 |
+| 50 mg/25 mL (2 mg/mL) | 30 mL | 0338-0086-01 |
 
 Refrigerate unopened vials of doxorubicin hydrochloride liposome injection at 2°C- 8°C (36°F- 46°F).
 Do not freeze.
