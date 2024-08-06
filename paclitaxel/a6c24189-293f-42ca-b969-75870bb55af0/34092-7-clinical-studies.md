@@ -40,7 +40,7 @@ Figure 2.
 Survival: Cc Versus Tc (GOG-111)
 
 The adverse event profile for patients receiving paclitaxel in combination with cisplatin in these studies was qualitatively consistent with that seen for the pooled analysis of data from 812 patients treated with single-agent paclitaxel in 10 clinical studies.
-These adverse events and adverse events from the Phase 3 first-line ovarian carcinoma studies are described in the ADVERSE REACTIONSsection in tabular (TABLES 10 and 11) and narrative form.
+These adverse events and adverse events from the Phase 3 first-line ovarian carcinoma studies are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 11) and narrative form.
 
 Second-Line Data
 
@@ -79,7 +79,7 @@ These statistical analyses should be viewed with caution because of the multiple
 Paclitaxel remained active in patients who had developed resistance to platinum-containing therapy (defined as tumor progression while on, or tumor relapse within 6 months from completion of, a platinum-containing regimen) with response rates of 14% in the Phase 3 study and 31% in the Phase 1 and 2 clinical studies.
 
 The adverse event profile in this Phase 3 study was consistent with that seen for the pooled analysis of data from 812 patients treated in 10 clinical studies.
-These adverse events and adverse events from the Phase 3 second-line ovarian carcinoma study are described in the ADVERSE REACTIONSsection in tabular (TABLES 10 and 12) and narrative form.
+These adverse events and adverse events from the Phase 3 second-line ovarian carcinoma study are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 12) and narrative form.
 
 The results of this randomized study support the use of paclitaxel at doses of 135 to 175 mg/m2, administered by a 3-hour intravenous infusion.
 The same doses administered by 24-hour infusion were more toxic.
@@ -166,7 +166,7 @@ TABLE 5: EFFICACY IN BREAST CANCER AFTER FAILURE OF INITIAL CHEMOTHERAPY OR WITH
 | • Survival - median (months) - p-value | 11.7 | 0.321 | 10.5 |
 
 The adverse event profile of the patients who received single-agent Paclitaxel Injection, USP, in the Phase 3 study was consistent with that seen for the pooled analysis of data from 812 patients treated in 10 clinical studies.
-These adverse events and adverse events from the Phase 3 breast carcinoma study are described in the ADVERSE REACTIONSsection in tabular (TABLES 10 and 14) and narrative form.
+These adverse events and adverse events from the Phase 3 breast carcinoma study are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 14) and narrative form.
 
 Non-Small Cell Lung Carcinoma (NSCLC)
 
@@ -191,7 +191,7 @@ Of the 7, the Lung Cancer Specific Symptoms subscale favored the paclitaxel 135 
 For all other factors, there was no difference in the treatment groups.
 
 The adverse event profile for patients who received paclitaxel in combination with cisplatin in this study was generally consistent with that seen for the pooled analysis of data from 812 patients treated with single-agent paclitaxel in 10 clinical studies.
-These adverse events and adverse events from the Phase 3 first-line NSCLC study are described in the ADVERSE REACTIONSsection in tabular (TABLES 10 and 15) and narrative form.
+These adverse events and adverse events from the Phase 3 first-line NSCLC study are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 15) and narrative form.
 
 AIDS-Related Kaposi's Sarcoma
 
@@ -254,6 +254,6 @@ Nonetheless, clinical descriptions and photographs indicated clear benefit in so
 Safety
 
 The adverse event profile of paclitaxel administered to patients with advanced HIV disease and poor-risk AIDS-related Kaposi's sarcoma was generally similar to that seen in the pooled analysis of data from 812 patients with solid tumors.
-These adverse events and adverse events from the Phase 2 second-line Kaposi's sarcoma studies are described in the ADVERSE REACTIONSsection in tabular (TABLES 10 and 16) and narrative form.
+These adverse events and adverse events from the Phase 2 second-line Kaposi's sarcoma studies are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 16) and narrative form.
 In this immunosuppressed patient population, however, a lower dose intensity of paclitaxel and supportive therapy including hematopoietic growth factors in patients with severe neutropenia are recommended.
 Patients with AIDS-related Kaposi’s sarcoma may have more severe hematologic toxicities than patients with solid tumors.

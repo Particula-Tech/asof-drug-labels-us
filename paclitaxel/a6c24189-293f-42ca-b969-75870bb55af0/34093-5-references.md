@@ -27,3 +27,11 @@ DOXIL® is a registered trademark of ALZA Corporation.
 IVEX-2® is a registered trademark of the Millipore Corporation.
 
 Chemo Dispensing Pin™ is a trademark of B. Braun Medical Incorporated.
+
+Lake Zurich,IL 60047
+
+For Product Inquiry:
+
+1-800-551-7176 or www.fresenius-kabi.com/us
+
+451224F/Revised: June 2024

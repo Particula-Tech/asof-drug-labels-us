@@ -170,7 +170,7 @@ During paclitaxel treatment, Grade IV neutropenia was reported for 15% of patien
 
 The incidences of severe hematologic toxicities, infections, mucositis, and cardiovascular events increased with higher doses of doxorubicin.
 
-## Breast Cancer After Failure of Initial Chemotherapy
+Breast Cancer After Failure of Initial Chemotherapy
 
 For the 458 patients who received single-agent paclitaxel in the Phase 3 breast carcinoma study, the following table shows the incidence of important adverse events by treatment arm (each arm was administered by a 3-hour infusion).
 TABLE 14: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 STUDY OF BREAST CANCER AFTER FAILURE OF INITIAL CHEMOTHERAPY OR WITHIN 6 MONTHS OF ADJUVANT CHEMOTHERAPY
@@ -343,7 +343,7 @@ Red cell transfusions were required in 25% of all patients and in 12% of those w
 
 Hypersensitivity Reactions (HSRs)
 
-All patients received premedication prior to paclitaxel administration (see WARNINGSand PRECAUTIONS: Hypersensitivity Reactions).
+All patients received premedication prior to paclitaxel administration (see WARNINGS and PRECAUTIONS: Hypersensitivity Reactions).
 The frequency and severity of HSRs were not affected by the dose or schedule of paclitaxel administration.
 In the Phase 3 second-line ovarian study, the 3-hour infusion was not associated with a greater increase in HSRs when compared to the 24-hour infusion.
 Hypersensitivity reactions were observed in 20% of all courses and in 41% of all patients.

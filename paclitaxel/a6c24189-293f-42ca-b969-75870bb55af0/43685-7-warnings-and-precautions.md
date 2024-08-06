@@ -152,4 +152,4 @@ TABLE 9: SELECTED ADVERSE EVENTS IN GERIATRIC PATIENTS RECEIVING PACLITAXEL IN C
 | (Phase 3/T175/3 c80a) | 37/89 (42)* | 56/267 (21) | 11/91 (12)* | 11/271 (4) |
 | * p<0.05 a Paclitaxel dose in mg/m2/infusion duration in hours; cisplatin doses in mg/m2. b Peripheral neuropathy was included within the neurotoxicity category in the Intergroup First-Line Ovarian Cancer study (see TABLE 11). c Paclitaxel dose in mg/m2/infusion duration in hours. d Paclitaxel (T) following 4 courses of doxorubicin and cyclophosphamide (AC) at a dose of 175 mg/m2/3 hours every 3 weeks for 4 courses. e Peripheral neuropathy reported as neurosensory toxicity in the Intergroup Adjuvant Breast Cancer study (see TABLE 13). f Peripheral neuropathy reported as neurosensory toxicity in the ECOG NSCLC study (see TABLE 15). |  |  |  |  |
 
-Information for Patients (seePatient Information Leaflet).
+Information for Patients (see Patient Information Leaflet).
