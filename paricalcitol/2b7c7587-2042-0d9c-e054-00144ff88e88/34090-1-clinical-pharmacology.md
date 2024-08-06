@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Paricalcitol is a synthetic, biologically active vitamin D 2 analog.
-Preclinical and in vitro studies have demonstrated that paricalcitol's biological actions are mediated through binding of the vitamin D receptor (VDR), which results in the selective activation of vitamin D responsive pathways.
+Paricalcitol is a synthetic, biologically active vitamin D 2analog.
+Preclinical and in vitrostudies have demonstrated that paricalcitol's biological actions are mediated through binding of the vitamin D receptor (VDR), which results in the selective activation of vitamin D responsive pathways.
 Vitamin D and paricalcitol have been shown to reduce PTH levels by inhibiting PTH synthesis and secretion.
 
 ## 12.3 Pharmacokinetics
@@ -25,9 +25,9 @@ Several metabolites were detected in both the urine and feces.
 Most of the systemic exposure was from the parent drug.
 Two minor metabolites, relative to paricalcitol, were detected in human plasma.
 One metabolite was identified as 24(R)-hydroxy paricalcitol, while the other metabolite was unidentified.
-The 24(R)-hydroxy paricalcitol is less active than paricalcitol in an in vivo rat model of PTH suppression.
+The 24(R)-hydroxy paricalcitol is less active than paricalcitol in an in vivorat model of PTH suppression.
 
-In vitro data suggest that paricalcitol is metabolized by multiple hepatic and non-hepatic enzymes, including mitochondrial CYP24, as well as CYP3A4 and UGT1A4.
+In vitrodata suggest that paricalcitol is metabolized by multiple hepatic and non-hepatic enzymes, including mitochondrial CYP24, as well as CYP3A4 and UGT1A4.
 The identified metabolites include the product of 24(R)-hydroxylation (present at low levels in plasma), as well as 24,26- and 24,28-dihydroxylation and direct glucuronidation.
 
 Excretion
@@ -42,10 +42,10 @@ Table 5: Mean ± SD Paricalcitol Pharmacokinetic Parameters in CKD Patients on D
 
 |  | CKD –HD (n=14) | CKD –PD (n=8) |
 | --- | --- | --- |
-| C max (ng/mL) | 1.680 ± 0.511 | 1.832 ± 0.315 |
-| AUC 0-∞ (ng·h/mL) | 14.51 ± 4.12 | 16.01 ± 5.98 |
+| C max(ng/mL) | 1.680 ± 0.511 | 1.832 ± 0.315 |
+| AUC 0-∞(ng·h/mL) | 14.51 ± 4.12 | 16.01 ± 5.98 |
 | β (1/h) | 0.050 ± 0.023 | 0.045 ± 0.026 |
-| t 1/2 (h)* | 13.9 ± 7.3 | 15.4 ± 10.5 |
+| t 1/2(h)* | 13.9 ± 7.3 | 15.4 ± 10.5 |
 | CL (L/h) | 1.49 ± 0.60 | 1.54 ± 0.95 |
 | Vdβ (L) | 30.8 ± 7.5 | 34.9 ± 9.5 |
 | * harmonic mean ± pseudo standard deviation, HD: hemodialysis, PD: peritoneal dialysis. The degree of accumulation was consistent with the half-life and dosing frequency. |  |  |
@@ -72,7 +72,7 @@ However, compared to healthy subjects, CKD patients on dialysis showed a decreas
 
 Drug Interaction Studies
 
-An in vitro study indicates that paricalcitol is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A at concentrations up to 50 nM (21 ng/mL) (approximately 20-fold greater than that obtained after highest tested dose).
+An in vitrostudy indicates that paricalcitol is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A at concentrations up to 50 nM (21 ng/mL) (approximately 20-fold greater than that obtained after highest tested dose).
 In fresh primary cultured hepatocytes, the induction observed at paricalcitol concentrations up to 50 nM was less than two-fold for CYP2B6, CYP2C9 or CYP3A, where the positive controls rendered a six- to nineteen-fold induction.
 Hence, paricalcitol is not expected to inhibit or induce the clearance of drugs metabolized by these enzymes.
 
@@ -89,5 +89,5 @@ Strong CYP3A Inhibitors
 Ketoconazole
 
 The effect of multiple doses of ketoconazole, a strong inhibitor of CYP3A administered as 200 mg BID for 5 days, on the pharmacokinetics of paricalcitol capsule has been studied in healthy subjects.
-The C max of paricalcitol was minimally affected, but AUC 0-∞ approximately doubled in the presence of ketoconazole.
+The C maxof paricalcitol was minimally affected, but AUC 0-∞approximately doubled in the presence of ketoconazole.
 The mean half-life of paricalcitol was 17.0 hours in the presence of ketoconazole as compared to 9.8 hours, when paricalcitol was administered alone [see Drug Interactions (7)].

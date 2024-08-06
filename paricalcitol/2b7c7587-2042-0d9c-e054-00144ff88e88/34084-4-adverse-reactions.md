@@ -39,43 +39,43 @@ Other Adverse Reactions
 
 The following adverse reactions occurred in less than 2% of the paricalcitol injection treated patients in the above mentioned studies and in additional double-blind, active-controlled and open-label studies:
 
-Blood and Lymphatic System Disorders: Anemia, lymphadenopathy
+Blood and Lymphatic System Disorders:Anemia, lymphadenopathy
 
-Cardiac Disorders: Arrhythmia, atrial flutter, irregular heart rate, cardiac arrest, chest discomfort, chest pain, edema peripheral
+Cardiac Disorders:Arrhythmia, atrial flutter, irregular heart rate, cardiac arrest, chest discomfort, chest pain, edema peripheral
 
-Ear and Labyrinth Disorders: Ear discomfort
+Ear and Labyrinth Disorders:Ear discomfort
 
-Endocrine Disorders: Hypoparathyroidism
+Endocrine Disorders:Hypoparathyroidism
 
-Eye Disorders: Conjunctivitis, glaucoma, ocular hyperemia
+Eye Disorders:Conjunctivitis, glaucoma, ocular hyperemia
 
-Gastrointestinal Disorders: Abdominal discomfort, constipation, diarrhea, dysphagia, gastritis, intestinal ischemia, rectal hemorrhage
+Gastrointestinal Disorders:Abdominal discomfort, constipation, diarrhea, dysphagia, gastritis, intestinal ischemia, rectal hemorrhage
 
-General Disorders: Asthenia, condition aggravated, fatigue, feeling abnormal, pain, swelling
+General Disorders:Asthenia, condition aggravated, fatigue, feeling abnormal, pain, swelling
 
-Infections: Nasopharyngitis, upper respiratory tract infection, vaginal infection
+Infections:Nasopharyngitis, upper respiratory tract infection, vaginal infection
 
-Injection site reactions: Injection site extravasation, injection site pain
+Injection site reactions:Injection site extravasation, injection site pain
 
-Laboratory abnormalities: Hypercalcemia, hyperkalemia, hyperphosphatemia, hypocalcemia, increased aspartate aminotransferase, prolonged bleeding time
+Laboratory abnormalities:Hypercalcemia, hyperkalemia, hyperphosphatemia, hypocalcemia, increased aspartate aminotransferase, prolonged bleeding time
 
-Metabolism and Nutrition Disorders: Decreased appetite, thirst, decreased weight
+Metabolism and Nutrition Disorders:Decreased appetite, thirst, decreased weight
 
-Musculoskeletal and Connective Tissue Disorders: Joint stiffness, muscle twitching, myalgia
+Musculoskeletal and Connective Tissue Disorders:Joint stiffness, muscle twitching, myalgia
 
-Neoplasms Benign, Malignant and Unspecified: Breast cancer
+Neoplasms Benign, Malignant and Unspecified:Breast cancer
 
-Nervous System Disorders: Cerebrovascular accident, dizziness, dysgeusia, headache, hypoesthesia, myoclonus, paresthesia, syncope, unresponsive to stimuli, gait disturbance
+Nervous System Disorders:Cerebrovascular accident, dizziness, dysgeusia, headache, hypoesthesia, myoclonus, paresthesia, syncope, unresponsive to stimuli, gait disturbance
 
-Psychiatric Disorders: Agitation, confusional state, delirium, insomnia, nervousness, restlessness
+Psychiatric Disorders:Agitation, confusional state, delirium, insomnia, nervousness, restlessness
 
-Reproductive System and Breast Disorders: Breast pain, erectile dysfunction
+Reproductive System and Breast Disorders:Breast pain, erectile dysfunction
 
-Respiratory, Thoracic and Mediastinal Disorders: Cough, dyspnea, orthopnea, pulmonary edema, wheezing
+Respiratory, Thoracic and Mediastinal Disorders:Cough, dyspnea, orthopnea, pulmonary edema, wheezing
 
-Skin and Subcutaneous Tissue Disorders: Alopecia, blister, hirsutism, night sweats, rash pruritic, pruritus, skin burning sensation
+Skin and Subcutaneous Tissue Disorders:Alopecia, blister, hirsutism, night sweats, rash pruritic, pruritus, skin burning sensation
 
-Vascular Disorders: Hypertension, hypotension
+Vascular Disorders:Hypertension, hypotension
 
 ## 6.2 Postmarketing Experience
 

@@ -14,11 +14,11 @@ Drug Interactions
 Advise patients to inform their physician of all medications, including prescription and nonprescription drugs, and supplements they are taking.
 Advise patients to also inform their physician that they are receiving Paricalcitol Injection if a new medication is prescribed [see Drug Interactions (7)].
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.
 Ahmedabad - 382 210, India.
 
-10 0246 1 695948
+10 0246 2 6027315
 
-Issued October, 2019
+Issued December, 2023
