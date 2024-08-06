@@ -176,7 +176,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes |
 |  | electrocardiogram QT prolonged |
 |  | [see Warnings and Precautions (5.11)] |
-|  | tachycardia |
+|  | tachycardia Acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic andMediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings andPrecautions (5.6)] |
 | Hepatobiliary Disorders | hepatic failure (including fatal cases) |

@@ -78,3 +78,13 @@ Plague and Anthrax Studies
 
 Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
+
+Rx Only
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Bachupally – 500 090 INDIA
+
+Revised: 06/2024
