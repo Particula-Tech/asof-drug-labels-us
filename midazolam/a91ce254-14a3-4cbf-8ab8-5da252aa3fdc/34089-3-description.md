@@ -5,9 +5,7 @@ Each mL contains midazolam hydrochloride equivalent to 1 mg or 5 mg midazolam co
 
 Midazolam is a white to light yellow crystalline compound, insoluble in water.
 The hydrochloride salt of midazolam, which is formed in situ, is soluble in aqueous solutions.
-Chemically, midazolam HCl is
-
-8-chloro-6-(2-fluorophenyl)- 1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine hydrochloride.
+Chemically, midazolam HCl is 8-chloro-6-(2-fluorophenyl)- 1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine hydrochloride.
 Midazolam hydrochloride has the following structural formula:
 
 | C18H13CIFN3 • HCl | M.W. 362.25 |

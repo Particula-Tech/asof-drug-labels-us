@@ -6,9 +6,7 @@ Midazolam injection is a potent sedative agent that requires slow administration
 Clinical experience has shown midazolam to be 3 to 4 times as potent per mg as diazepam.
 
 BECAUSE SERIOUS AND LIFE-THREATENING CARDIORESPIRATORY ADVERSE EVENTS HAVE BEEN REPORTED, PROVISION FOR MONITORING, DETECTION AND CORRECTION OF THESE REACTIONS MUST BE MADE FOR EVERY PATIENT TO WHOM MIDAZOLAM INJECTION IS ADMINISTERED, REGARDLESS OF AGE OR HEALTH STATUS.
-Excessive
-
-single doses or rapid intravenous administration may result in respiratory depression, airway obstruction and/or arrest.
+Excessive single doses or rapid intravenous administration may result in respiratory depression, airway obstruction and/or arrest.
 The potential for these latter effects is increased in debilitated patients, those receiving concomitant medications capable of depressing the CNS, and patients without an endotracheal tube but undergoing a procedure involving the upper airway such as endoscopy or dental (see BOXED WARNING and WARNINGS).
 
 Reactions such as agitation, involuntary movements, hyperactivity and combativeness have been reported in adult and pediatric patients.
@@ -35,9 +33,7 @@ Further recommendations include appropriate presedation fasting.
 
 Titration to effect with multiple small doses is essential for safe administration.
 It should be noted that adequate time to achieve peak central nervous system effect (3 to 5 minutes) for midazolam should be allowed between doses to minimize the potential for oversedation.
-Sufficient time must elapse between doses of concomitant sedative medications to allow the effect of each dose to be assessed before
-
-subsequent drug administration.
+Sufficient time must elapse between doses of concomitant sedative medications to allow the effect of each dose to be assessed before subsequent drug administration.
 This is an important consideration for all patients who receive intravenous midazolam.
 
 Immediate availability of resuscitative drugs and age- and size-appropriate equipment and personnel trained in their use and skilled in airway management should be assured (see WARNINGS).
@@ -48,7 +44,7 @@ Intravenous access is not thought to be necessary for all pediatric patients sed
 
 ## USUAL ADULT DOSE
 
-| INTRAMUSCULARLY For preoperative sedation/anxiolysis/ amnesia (induction of sleepiness or drowsiness and relief of apprehension and to impair memory of perioperative events). | The recommended premedication dose of midazolam for good risk (ASA Physical Status I & II) adult patients below the age of 60 years is 0.07 to 0.08 mg/kg IM (approximately 5 mg IM) administered up to 1 hour before surgery. |
+| INTRAMUSCULARLY For preoperative sedation/anxiolysis/amnesia (induction of sleepiness or drowsiness and relief of apprehension and to impair memory of perioperative events). | The recommended premedication dose of midazolam for good risk (ASA Physical Status I & II) adult patients below the age of 60 years is 0.07 to 0.08 mg/kg IM (approximately 5 mg IM) administered up to 1 hour before surgery. |
 | --- | --- |
 | For intramuscular use, midazolam should be injected deep in a large muscle mass. | The dose must be individualized and reduced when IM midazolam is administered to patients with chronic obstructive pulmonary disease, other higher risk surgical patients, patients 60 or more years of age, and patients who have received concomitant narcotics or other CNS depressants (see ADVERSE REACTIONS). In a study of patients 60 years or older, who did not receive concomitant administration of narcotics, 2 to 3 mg (0.02 to 0.05 mg/kg) of midazolam produced adequate sedation during the preoperative period. The dose of 1 mg IM midazolam may suffice for some older patients if the anticipated intensity and duration of sedation is less critical. As with any potential respiratory depressant, these patients require observation for signs of cardiorespiratory depression after receiving IM midazolam. Onset is within 15 minutes, peaking at 30 to 60 minutes. It can be administered concomitantly with atropine sulfate or scopolamine hydrochloride and reduced doses of narcotics. |
 

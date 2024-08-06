@@ -11,4 +11,4 @@ For more information concerning this drug, please call Fresenius Kabi USA, LLC a
 
 To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-www.fresenius-kabi.com/us 45836J Revised: April 2023
+www.fresenius-kabi.com/us 45836K Revised: April 2024

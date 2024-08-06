@@ -115,14 +115,14 @@ For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
 To assure safe and effective use of benzodiazepines, the following information and instructions should be communicated to the patient when appropriate:
 
-1. Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
+1. 1.Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
    Alcohol has an increased effect when consumed with benzodiazepines; therefore, caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment.
-2. Inform your physician if you are pregnant or are planning to become pregnant.
-3. Inform your physician if you are nursing.
-4. Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
+2. 2.Inform your physician if you are pregnant or are planning to become pregnant.
+3. 3.Inform your physician if you are nursing.
+4. 4.Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
    The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
-5. Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
-6. Effect of anesthetic and sedation drugs on early brain development Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+5. 5.Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
+6. 6.Effect of anesthetic and sedation drugs on early brain development Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
    Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
 
 Pregnancy
@@ -142,9 +142,7 @@ Effect of Concomitant Use of Benzodiazepines and Opioids
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
-When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory
-
-depression exists.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Monitor patients closely for respiratory depression and sedation.
 
 Other CNS Depressants
@@ -171,9 +169,7 @@ The effects of diltiazem (60 mg three times a day) and verapamil (80 mg three ti
 The half-life of midazolam increased from 5 to 7 hours when midazolam was taken in conjunction with verapamil or diltiazem.
 No interaction was observed in healthy subjects between midazolam and nifedipine.
 
-In a placebo-controlled study where saquinavir or placebo was administered orally as a 1,200 mg dose, three times a day, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single
-
-0.05 mg/kg IV dose was observed.
+In a placebo-controlled study where saquinavir or placebo was administered orally as a 1,200 mg dose, three times a day, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single 0.05 mg/kg IV dose was observed.
 The half-life was approximately doubled.
 
 A moderate reduction in induction dosage requirements of thiopental (about 15%) has been noted following use of intramuscular midazolam for premedication in adults.
@@ -277,9 +273,7 @@ A lactating woman may consider interrupting breastfeeding and pumping and discar
 
 The safety and efficacy of midazolam for sedation/anxiolysis/amnesia following single dose intramuscular administration, intravenously by intermittent injections and continuous infusion have been established in pediatric and neonatal patients.
 For specific safety monitoring and dosage guidelines see BOXED WARNING, CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION.
-UNLIKE ADULT PATIENTS, PEDIATRIC PATIENTS GENERALLY
-
-RECEIVE INCREMENTS OF MIDAZOLAM ON A MG/KG BASIS.
+UNLIKE ADULT PATIENTS, PEDIATRIC PATIENTS GENERALLY RECEIVE INCREMENTS OF MIDAZOLAM ON A MG/KG BASIS.
 As a group, pediatric patients generally require higher dosages of midazolam (mg/kg) than do adults.
 Younger (less than six years) pediatric patients may require higher dosages (mg/kg) than older pediatric patients, and may require closer monitoring.
 In obese PEDIATRIC PATIENTS, the dose should be calculated based on ideal body weight.
