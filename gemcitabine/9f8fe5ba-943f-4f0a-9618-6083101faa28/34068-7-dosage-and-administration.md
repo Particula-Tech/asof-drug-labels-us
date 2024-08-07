@@ -68,7 +68,7 @@ Table 4: Recommended Dosage Modifications for Gemcitabine for Injection for Myel
 
 ## 2.5 Dosage Modifications for Non-Hematologic Adverse Reactions
 
-Permanently discontinue Gemcitabine for Injection for any of the following: • Unexplained dyspnea or evidence of severe pulmonary toxicity [see Warnings and Precautions (5.3)] • Hemolytic Uremic Syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.4)] • Severe hepatic toxicity [see Warnings and Precautions (5.5)] • Capillary leak syndrome (CLS) [see Warnings and Precautions (5.8)] • Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)] Withhold Gemcitabine for Injection or reduce dose by 50% for other Grade 3 or 4 non-hematological adverse reactions until resolved.
+Permanently discontinue Gemcitabine for Injection for any of the following: • Severe Cutaneous Adverse Reactions (SCARs) [see Warnings and Precautions (5.3)] • Unexplained dyspnea or evidence of severe pulmonary toxicity [see Warnings and Precautions (5.4)] • Hemolytic Uremic Syndrome (HUS) or severe renal impairment [see Warnings and Precautions (5.5)] • Severe hepatic toxicity [see Warnings and Precautions (5.6)] • Capillary leak syndrome (CLS) [see Warnings and Precautions (5.9)] • Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.10)] Withhold Gemcitabine for Injection or reduce dose by 50% for other Grade 3 or 4 non-hematological adverse reactions until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.
 
 ## 2.6 Preparation
