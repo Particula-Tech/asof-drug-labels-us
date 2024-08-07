@@ -2,4 +2,4 @@
 
 No specific antidotes for CRESTOR are known.
 Hemodialysis does not significantly enhance clearance of rosuvastatin.
-Contact Poison Control (1-800-222-1222) for latest recommendations.
+In the event of overdose, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.

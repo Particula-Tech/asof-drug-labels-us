@@ -52,6 +52,9 @@ Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Colchicine |  |  |
 | Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with CRESTOR. |  |
 | Intervention: | Consider if the benefit of using colchicine concomitantly with CRESTOR outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
+| Ticagrelor |  |  |
+| Clinical Impact: | Concomitant use of CRESTOR and ticagrelor has been shown to increase rosuvastatin concentrations, which may result in increased risk of myopathy. Cases of myopathy and rhabdomyolysis have been reported in patients using both products concomitantly. Cases have occurred more frequently in patients taking 40 mg of rosuvastatin. |  |
+| Intervention: | In patients taking concomitant ticagrelor, especially those with additional risk factors for myopathy and rhabdomyolysis, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of CRESTOR. |  |
 
 ## 7.2 Drug Interactions that Decrease the Efficacy of CRESTOR
 
@@ -62,7 +65,7 @@ Table 6: Drug Interactions that Decrease the Efficacy of CRESTOR
 | Antacids |  |
 | --- | --- |
 | Clinical Impact: | Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see Clinical Pharmacology (12.3)]. |
-| Intervention: | In patients taking antacid, administer CRESTOR at least 2 hours after the antacid. |
+| Intervention: | In patients taking antacid, administer CRESTOR at least 2 hours before the antacid. |
 
 ## 7.3 CRESTOR Effects on Other Drugs
 

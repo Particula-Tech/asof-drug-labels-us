@@ -23,7 +23,7 @@ Data
 
 Human Data
 
-A Medicaid cohort linkage study of 1152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods.
+A Medicaid cohort linkage study of 1,152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods.
 The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus.
 There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for confounders.
 In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
@@ -56,14 +56,14 @@ The safety and effectiveness of CRESTOR as an adjunct to diet to reduce LDL-C ha
 Use of CRESTOR for this indication is based on one 12-week controlled trial with a 40-week open-label extension period in 176 pediatric patients 10 years of age and older with HeFH and one 2‑year open-label, uncontrolled trial in 175 pediatric patients 8 years of age and older with HeFH [see Clinical Studies (14)].
 In the 1-year trial with a 12-week controlled phase, there was no detectable effect of CRESTOR on growth, weight, BMI (body mass index), or sexual maturation in patients aged 10 to 17 years.
 
-The safety and effectiveness of CRESTOR as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established pediatric patients 7 years of age and older with HoFH.
+The safety and effectiveness of CRESTOR as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established in pediatric patients 7 years of age and older with HoFH.
 Use of CRESTOR for this indication is based on a randomized, placebo-controlled, cross-over study in 14 pediatric patients 7 years of age and older with HoFH [see Clinical Studies (14)].
 
 The safety and effectiveness of CRESTOR have not been established in pediatric patients younger than 8 years of age with HeFH, younger than 7 years of age with HoFH, or in pediatric patients with other types of hyperlipidemia (other than HeFH or HoFH).
 
 ## 8.5 Geriatric Use
 
-Of the total number of CRESTOR-treated patients in clinical studies, 3159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
+Of the 10,275 patients in clinical studies with CRESTOR, 3,159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 
 Advanced age (≥65 years) is a risk factor for CRESTOR-associated myopathy and rhabdomyolysis.

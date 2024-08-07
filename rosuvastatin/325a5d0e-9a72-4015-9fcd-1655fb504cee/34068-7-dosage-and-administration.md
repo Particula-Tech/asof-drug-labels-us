@@ -3,21 +3,22 @@
 ## 2.1 General Dosage and Administration Information
 
 - •Administer CRESTOR orally as a single dose at any time of day, with or without food.
-  The tablet should be swallowed whole.
+  Swallow the tablets whole.
 - •Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating CRESTOR, and adjust the dosage if necessary.
-- •If a dose is missed, advise patients not take an extra dose.
+- •If a dose is missed, advise patients not to take an extra dose.
   Resume treatment with the next dose.
+- •When taking CRESTOR with an aluminum and magnesium hydroxide combination antacid, administer CRESTOR at least 2 hours before the antacid [see Drug Interactions (7.2)].
 
 ## 2.2 Recommended Dosage in Adult Patients
 
 - •The dosage range for CRESTOR is 5 to 40 mg orally once daily.
-- •The recommended dose of CRESTOR depends on a patient’s indication for usage, LDL-C, and individual risk for cardiovascular events.
+- •The recommended dose of CRESTOR depends on a patient’s indication for usage, LDL-C, and individual risk for CV events.
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
 Dosage in Pediatric Patients 8 Years of Age and Older with HeFH
 
-The recommended dosage range is 5 mg to 10 mg orally once daily in patients aged 8 years to less than 10 years and 5 mg to 20 mg orally once daily in patients aged 10 years and older.
+The recommended dosage range is 5 mg to 10 mg orally once daily in patients aged 8 years to less than 10 years and 5 mg to 20 mg orally once daily in patients aged 10-years and older.
 
 Dosage in Pediatric Patients 7 Years of Age and Older with HoFH
 
@@ -34,9 +35,7 @@ In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m2) not 
 
 There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.
 
-## 2.6 Dosage and Administration Modifications Due to Drug Interactions
-
-CRESTOR Dosage Modifications Due to Drug Interactions
+## 2.6 Dosage Modifications Due to Drug Interactions
 
 Table 1 displays dosage modifications for CRESTOR due to drug interactions [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
@@ -57,7 +56,3 @@ Table 1: CRESTOR Dosage Modifications Due to Drug Interactions
 | •Simeprevir•Dasabuvir/ombitasvir/paritaprevir/ritonavir•Elbasvir/Grazoprevir•Sofosbuvir/Velpatasvir•Glecaprevir/Pibrentasvir•Atazanavir/Ritonavir•Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
 | Darolutamide | Do not exceed 5 mg once daily. |
 | Regorafenib | Do not exceed 10 mg once daily. |
-
-CRESTOR Administration Modifications Due to Drug Interactions
-
-When taking CRESTOR with an aluminum and magnesium hydroxide combination antacid, administer CRESTOR at least 2 hours before the antacid [see Drug Interactions (7.2)].
