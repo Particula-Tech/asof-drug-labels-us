@@ -1,7 +1,7 @@
 The Atropine prefilled autoinjector is a single dose, self-contained unit designed for self or caregiver administration.
 
 Each 2 mg Atropine autoinjector delivers 1.67 mg atropine (equivalent to 2 mg atropine sulfate) in 0.7 mL of sterile pyrogen-free solution for intramuscular injection.
-Each 2 mg autoinjector also contains the following inactive ingredients: citric acid monohydrate (buffer), 12.47 mg glycerin, 2.8 mg phenol, and 3.05 mg sodium citrate dihydrate (buffer).
+Each 2 mg autoinjector also contains the following inactive ingredients: 3.27 mg citric acid monohydrate (buffer), 12.47 mg glycerin, 2.8 mg phenol, and 3.05 mg sodium citrate dihydrate (buffer).
 The pH range is 4.1 - 4.5.
 
 Atropine, a cholinergic muscarinic antagonist, occurs as white crystals, usually needle-like, or as a white, crystalline powder.
