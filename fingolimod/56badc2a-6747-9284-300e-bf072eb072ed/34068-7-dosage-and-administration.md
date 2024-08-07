@@ -16,6 +16,15 @@ Serum Transaminases (ALT and AST) and Total Bilirubin Levels
 
 Prior to starting treatment with fingolimod capsules (i.e., within 6 months), obtain serum transaminases [alanine transaminase (ALT) and aspartate transferase (AST)] and total bilirubin levels [see Warnings and Precautions (5.5)].
 
+Ophthalmic Assessment
+
+Obtain a baseline evaluation of the fundus, including the macula, near the start of the treatment with fingolimod capsules [see Warnings and Precautions (5.4)].
+
+Skin Examination
+
+Obtain a baseline skin examination prior to or shortly after initiation of fingolimod capsules.
+If a suspicious skin lesion is observed, it should be promptly evaluated [see Warnings and Precautions (5.12)].
+
 Prior Medications
 
 If patients are taking antineoplastic, immunosuppressive, or immune-modulating therapies, or if there is a history of prior use of these drugs, consider possible unintended additive immunosuppressive effects before initiating treatment with fingolimod capsules [see Warnings and Precautions (5.2), Drug Interactions (7.4)].

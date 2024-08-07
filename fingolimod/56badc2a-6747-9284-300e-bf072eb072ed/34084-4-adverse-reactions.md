@@ -89,6 +89,6 @@ Musculoskeletal and Connective Tissue Disorders: Arthralgia, myalgia
 
 Nervous System Disorders: Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
 
-Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
+Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, cutaneous T-cell lymphoma (including mycosis fungoides), Kaposi’s sarcoma, squamous cell carcinoma [see Warnings and Precautions (5.12)]
 
 Skin and Subcutaneous Tissue Disorders: Hypersensitivity [see Warnings and Precautions (5.14)]

@@ -119,7 +119,7 @@ Gender has no clinically significant influence on fingolimod and fingolimod-phos
 
 Race
 
-The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of non-white patients in the clinical program.
+The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of patients who self-identified as Black or African American, Asian, or other races in the clinical program.
 
 Renal Impairment
 
