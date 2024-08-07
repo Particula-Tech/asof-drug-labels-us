@@ -8,7 +8,7 @@ Advise patients to contact their healthcare provider if they experience fever, s
 Embryo-Fetal Toxicity
 
 - •Advise pregnant women of the potential risk to a fetus.
-  Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6), Use in SpecificPopulations (8.1)].
+  Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.2, 5.6), Use in SpecificPopulations (8.1)].
 - •Advise females of reproductive potential to use effective contraception during treatment with Mercaptopurine Tablets and for 6 months after the last dose [see Use in Specific Populations (8.3)].
 - •Advise males with female partners of reproductive potential to use effective contraception during treatment with Mercaptopurine Tablets and for 3 months after the last dose [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 
@@ -30,6 +30,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000734/01
+C50000734/02
 
-Revised June 2021
+Revised July 2024

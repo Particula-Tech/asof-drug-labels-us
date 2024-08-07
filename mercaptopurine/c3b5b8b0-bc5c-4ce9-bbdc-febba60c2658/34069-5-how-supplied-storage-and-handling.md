@@ -14,4 +14,4 @@ Store in a dry place.
 Dispense in a tight, child-resistant container as defined in the USP/NF.
 
 Mercaptopurine Tablets is a cytotoxic drug.
-Follow special handling and disposal procedures.1
+Follow special handling and disposal procedures1.
