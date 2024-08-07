@@ -37,6 +37,8 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
+
 ## Endocrine
 
 Hypothalamic-pituitary adrenal (HPA) axis suppression.
@@ -46,44 +48,67 @@ Corticosteroids can produce reversible HPA axis suppression with the potential f
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 
-## Infections
+## Immunosuppression and Increased Risk of Infection
 
-### General
+Corticosteroids, including DEPO-MEDROL, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
 
-Persons who are on corticosteroids are more susceptible to infections than are healthy individuals.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infections with any pathogen (viral, bacterial, fungal, protozoan, or helminthic) in any location of the body, may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
+- •Reduce resistance to new infections
+- •Exacerbate existing infections
+- •Increase the risk of disseminated infections
+- •Increase the risk of reactivation or exacerbation of latent infections
+- •Mask some signs of infection
 
-These infections may be mild, but can be severe and at times fatal.
-With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
-Do not use intra-articularly, intrabursally, or for intratendinous administration for local effect in the presence of an acute infection.
-Corticosteroids may mask some signs of infection and new infections may appear during their use.
+Corticosteroid‑associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
 
-### Fungal Infections
+Monitor for the development of infection and consider DEPO-MEDROL withdrawal or dosage reduction as needed.
 
-Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug interactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
+Do not administer DEPO-MEDROL by an intraarticular, intrabursal, intratendinous or intralesional route in the presence of acute local infection.
 
-### Special Pathogens
+Tuberculosis
 
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, and Toxoplasma.
+If DEPO-MEDROL is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, as reactivation of the disease may occur.
+Closely monitor such patients for reactivation.
+During prolonged DEPO-MEDROL therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
-It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
+Varicella Zoster and Measles Viral Infections
 
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including DEPO-MEDROL.
+In corticosteroid‑treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
+
+- •If a DEPO-MEDROL-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- •If a DEPO-MEDROL-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
+
+Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including DEPO‑MEDROL.
+Reactivation can also occur infrequently in corticosteroid‑treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with DEPO-MEDROL.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+Fungal Infections
+
+Corticosteroids, including DEPO-MEDROL, may exacerbate systemic fungal infections; therefore, avoid DEPO-MEDROL use in the presence of such infections unless DEPO-MEDROL is needed to control drug reactions.
+For patients on chronic DEPO-MEDROL therapy who develop systemic fungal infections, DEPO‑MEDROL withdrawal or dosage reduction is recommended.
+
+Amebiasis
+
+Corticosteroids, including DEPO-MEDROL, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating DEPO-MEDROL in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+Strongyloides Infestation
+
+Corticosteroids, including DEPO-MEDROL, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-Corticosteroids should not be used in cerebral malaria.
-There is currently no evidence of benefit from steroids in this condition.
+Cerebral Malaria
 
-### Tuberculosis
+Avoid corticosteroids, including DEPO-MEDROL, in patients with cerebral malaria.
 
-The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
-
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary, as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
-
-### Vaccinations
+## Vaccinations
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
@@ -91,21 +116,17 @@ However, the response to such vaccines cannot be predicted.
 
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison's disease).
 
-### Viral Infections
-
-Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
-In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
-If exposed to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated (see the respective package inserts for complete VZIG and IG prescribing information).
-If chicken pox develops, treatment with antiviral agents should be considered.
-
 ## Ophthalmic
 
 Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
 The use of systemic corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should be used cautiously in patients with ocular herpes simplex because of corneal perforation.
 Corticosteroids should not be used in active ocular herpes simplex.
+
+## Kaposi’s Sarcoma
+
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement.
 
 # PRECAUTIONS
 
@@ -118,9 +139,6 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 When reduction in dosage is possible, the reduction should be gradual.
 
 Since complications of treatment with glucocorticosteroids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
-
-Karposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
-Discontinuation of corticosteroids may result in clinical improvement.
 
 ### Cardio-renal
 
@@ -181,7 +199,7 @@ Corticosteroids should be used cautiously in patients with ocular herpes simplex
 
 ### Tumor Lysis Syndrome
 
-In post marketing experience tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
+In post marketing experience, tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
 Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
 
 ## Information for the Patient
@@ -193,81 +211,47 @@ Patients should also be advised that if they are exposed, medical advice should 
 
 ## Drug Interactions
 
-### Aminoglutethimide
+Aminoglutethimide: Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
 
-Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
-
-### Amphotericin B injection and potassium-depleting agents
-
-When corticosteroids are administered concomitantly with potassium depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
+Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
-### Antibiotics
+Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see PRECAUTIONS: Drug Interactions, Hepatic Enzyme Inhibitors).
 
-Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see PRECAUTIONS: Drug Interactions, Hepatic Enzyme Inhibitors).
-
-### Anticholinesterases
-
-Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis.
+Anticholinesterases: Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis.
 If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.
 
-### Anticoagulants, oral
-
-Coadministration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.
+Anticoagulants, oral: Coadministration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.
 Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect.
 
-### Antidiabetics
+Antidiabetics: Because corticosteroids may increase blood glucose concentration, dosage adjustments of antidiabetic agents may be required.
 
-Because corticosteroids may increase blood glucose concentration, dosage adjustments of antidiabetic agents may be required.
+Antitubercular drugs: Serum concentrations of isoniazid may be decreased.
 
-### Antitubercular drugs
+Cholestyramine: Cholestyramine may increase the clearance of oral corticosteroids.
 
-Serum concentrations of isoniazid may be decreased.
-
-### Cholestyramine
-
-Cholestyramine may increase the clearance of oral corticosteroids.
-
-### Cyclosporine
-
-Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.
+Cyclosporine: Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.
 Convulsions have been reported with this concurrent use.
 
-### Digitalis glycosides
+Digitalis Glycosides: Patients on digitalis glycosides may be at risk of arrhythmias due to hypokalemia.
 
-Patients on digitalis glycosides may be at risk of arrhythmias due to hypokalemia.
+Estrogens, Including Oral Contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
 
-### Estrogens, including oral contraceptives
+Hepatic Enzyme Inducers (e.g., barbiturates, phenytoin, carbamazepine, rifampin): Drugs which induce cytochrome P450 3A4 enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
-Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
+Hepatic Enzyme Inhibitors (e.g., ketoconazole, macrolide antibiotics such as erythromycin and troleandomycin): Drugs which inhibit cytochrome P450 3A4 have the potential to result in increased plasma concentrations of corticosteroids.
 
-### Hepatic Enzyme Inducers (e.g., barbiturates, phenytoin, carbamazepine, rifampin)
+Ketoconazole: Ketoconazole has been reported to significantly decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 
-Drugs which induce cytochrome P450 3A4 enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
-
-### Hepatic Enzyme Inhibitors (e.g., ketoconazole, macrolide antibiotics such as erythromycin and troleandomycin)
-
-Drugs which inhibit cytochrome P450 3A4 have the potential to result in increased plasma concentrations of corticosteroids.
-
-### Ketoconazole
-
-Ketoconazole has been reported to significantly decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
-
-### Nonsteroidal anti-inflammatory drugs (NSAIDs)
-
-Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
+Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
 The clearance of salicylates may be increased with concurrent use of corticosteroids.
 
-### Skin tests
+Skin tests: Corticosteroids may suppress reactions to skin tests.
 
-Corticosteroids may suppress reactions to skin tests.
-
-### Vaccines
-
-Patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
+Vaccines: Patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
-Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infections, Vaccinations).
+Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Immunosuppression and Increased Risk of Infection, Vaccinations).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
