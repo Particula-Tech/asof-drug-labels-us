@@ -4,7 +4,7 @@ Advise patients to watch carefully for any signs of bleeding or bruising and to 
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Eugia Pharma Specialities Limited.
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
