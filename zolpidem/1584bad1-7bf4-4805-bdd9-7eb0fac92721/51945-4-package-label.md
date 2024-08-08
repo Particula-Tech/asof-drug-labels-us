@@ -2,11 +2,11 @@
 
 PRINCIPAL DISPLAY PANEL – 5 mg: (Indrad site)
 
+PRINCIPAL DISPLAY PANEL – 5 mg: (Dahej site)
+
 PRINCIPAL DISPLAY PANEL – 10 mg: (Indrad site)
 
-PRINCIPAL DISPLAY PANEL – 5 mg: (Bharuch site)
-
-PRINCIPAL DISPLAY PANEL – 10 mg: (Bharuch site)
+PRINCIPAL DISPLAY PANEL – 10 mg: (Dahej site)
 
 PRINCIPAL DISPLAY PANEL – 5 mg: (Piramal site)
 

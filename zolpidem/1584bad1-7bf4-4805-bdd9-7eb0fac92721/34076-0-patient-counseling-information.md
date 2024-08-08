@@ -1,21 +1,21 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patients to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients and their families about the benefits and risks of treatment with zolpidem.
-Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with zolpidem and with each prescription refill.
+Inform patients and their families about the benefits and risks of treatment with zolpidem tartrate tablets.
+Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with zolpidem tartrate tablets and with each prescription refill.
 Review the zolpidem tartrate tablets Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that zolpidem tartrate tablets should be taken only as prescribed.
 
 Complex Sleep Behaviors
 
-Instruct patients and their families that zolpidem may cause complex sleep behaviors, including sleep-walking, sleep-driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
+Instruct patients and their families that zolpidem tartrate tablets may cause complex sleep behaviors, including sleep-walking, sleep-driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
 Serious injuries and death have occurred during complex sleep behavior episodes.
-Tell patients to discontinue zolpidem and notify their healthcare provider immediately if they develop any of these symptoms [see Boxed Warning, Warnings and Precautions (5.1)].
+Tell patients to discontinue zolpidem tartrate tablets and notify their healthcare provider immediately if they develop any of these symptoms [see Boxed Warning, Warnings and Precautions (5.1)].
 
 CNS-Depressant Effects and Next-Day Impairment
 
-Tell patients that zolpidem has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
+Tell patients that zolpidem tartrate tablets has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 8 hours after dosing before driving or engaging in other activities requiring full mental alertness.
 Inform patients that impairment can be present despite feeling fully awake.
 Advise patients that increased drowsiness and decreased consciousness may increase the risk of falls in some patients [see Warnings and Precautions (5.2)].
@@ -29,22 +29,22 @@ Suicide
 
 Tell patients to immediately report any suicidal thoughts.
 
-Alcohol and Other Drugs
+Alcohol and other Drugs
 
 Ask patients about alcohol consumption, medicines they are taking, and drugs they may be taking without a prescription.
-Advise patients not to use zolpidem if they drank alcohol that evening or before bed.
+Advise patients not to use zolpidem tartrate tablets if they drank alcohol that evening or before bed.
 
 Concomitant Use with Opioids Inform patients and caregivers that potentially serious additive effects may occur if zolpidem tartrate tablets is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2, 5.7), Drug Interactions (7.1)].
 
 Tolerance, Abuse, and Dependence
 
-Tell patients not to increase the dose of zolpidem on their own, and to inform you if they believe the drug "does not work".
+Tell patients not to increase the dose of zolpidem tartrate tablets on their own, and to inform you if they believe the drug "does not work".
 
 Administration Instructions
 
-Patients should be counseled to take zolpidem right before they get into bed and only when they are able to stay in bed a full night (7 to 8 hours) before being active again.
+Patients should be counseled to take zolpidem tartrate tablets right before they get into bed and only when they are able to stay in bed a full night (7 to 8 hours) before being active again.
 Zolpidem tartrate tablets should not be taken with or immediately after a meal.
-Advise patients NOT to take zolpidem if they drank alcohol that evening.
+Advise patients NOT to take zolpidem tartrate tablets if they drank alcohol that evening.
 
 Pregnancy
 
@@ -58,18 +58,20 @@ Advise breastfeeding mothers using zolpidem tartrate tablets to monitor infants 
 Instruct breastfeeding mothers to seek immediate medical care if they notice these signs.
 A lactating woman may consider pumping and discarding breastmilk during treatment and for 23 hours after zolpidem tartrate tablets administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)].
 
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
-8089637 Revised: September 2022
+8097534 Revised: August 2024
 
 or
 
-Manufactured by: Piramal Pharma Limited, Pithampur - 454775, INDIA.
+Manufactured by: Piramal Pharma Limited, Pithampur - 454775, India.
 
-8092659 Revised: August 2023
+8097495 Revised: August 2024
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.

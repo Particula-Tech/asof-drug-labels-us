@@ -12,8 +12,8 @@ Alcohol
 
 An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1, 5.2)].
 
-Opioids The concomitant use of Zolpidem tartrate tablets with opioids may increase the risk of respiratory depression.
-Limit dosage and duration of concomitant use of Zolpidem tartrate tablets and opioids [see Dosage and Administration (2.3), Warnings and Precautions (5.7)]
+Opioids The concomitant use of zolpidem tartrate tablets with opioids may increase the risk of respiratory depression.
+Limit dosage and duration of concomitant use of zolpidem tartrate tablets and opioids [see Dosage and Administration (2.3), Warnings and Precautions (5.7)].
 
 Imipramine, Chlorpromazine
 

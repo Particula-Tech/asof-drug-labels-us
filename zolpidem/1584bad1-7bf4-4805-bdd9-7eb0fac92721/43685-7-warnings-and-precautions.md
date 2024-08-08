@@ -23,7 +23,7 @@ Patients should be warned against driving and other activities requiring complet
 Vehicle drivers and machine operators should be warned that, as with other hypnotics, there may be a possible risk of adverse reactions including drowsiness, prolonged reaction time, dizziness, sleepiness, blurred/double vision, reduced alertness, and impaired driving the morning after therapy.
 In order to minimize this risk a full night of sleep (7 to 8 hours) is recommended.
 
-Because zolpidem can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
+Because zolpidem tartrate tablets can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
 
 ## 5.3 Need to Evaluate for Comorbid Diagnoses
 
@@ -42,12 +42,12 @@ Patients who develop angioedema after treatment with zolpidem should not be rech
 
 ## 5.5 Abnormal Thinking and Behavioral Changes
 
-Abnormal thinking and behavior changes have been reported in patients treated with sedative/hypnotics, including zolpidem.
+Abnormal thinking and behavior changes have been reported in patients treated with sedative/hypnotics, including zolpidem tartrate tablets.
 Some of these changes included decreased inhibition (e.g., aggressiveness and extroversion that seemed out of character), bizarre behavior, agitation and depersonalization.
 Visual and auditory hallucinations have been reported.
 
-In controlled trials of zolpidem 10 mg taken at bedtime <1% of adults with insomnia reported hallucinations.
-In a clinical trial, 7% of pediatric patients treated with zolpidem 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see Use in Specific Populations (8.4)].There have been postmarketing reports of delirium with zolpidem use [Adverse Reactions (6.2)]
+In controlled trials of zolpidem tartrate tablets 10 mg taken at bedtime <1% of adults with insomnia reported hallucinations.
+In a clinical trial, 7% of pediatric patients treated with zolpidem tartrate tablets 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see Use in Specific Populations (8.4)].There have been postmarketing reports of delirium with zolpidem use [Adverse Reactions (6.2)]
 
 It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder.
 Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
@@ -61,15 +61,15 @@ Intentional overdosage is more common in this group of patients; therefore, the 
 ## 5.7 Respiratory Depression
 
 Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90%, was observed in patients with mild to moderate sleep apnea when treated with zolpidem compared to placebo.
-Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if zolpidem is prescribed to patients with compromised respiratory function or concomitant use with opioids or other CNS depressants.
-Post marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
-The risk of respiratory depression should be considered prior to prescribing zolpidem in patients with respiratory impairment including sleep apnea and myasthenia gravis or with concomitant opioid use [see Dosage and Administration (2.3), Drug Interactions (7.1)].
+Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if zolpidem tartrate tablets are prescribed to patients with compromised respiratory function or concomitant use with opioids or other CNS depressants.
+Postmarketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
+The risk of respiratory depression should be considered prior to prescribing zolpidem tartrate tablets in patients with respiratory impairment including sleep apnea and myasthenia gravis or with concomitant opioid use [see Dosage and Administration (2.3), Drug Interactions (7.1)].
 
 ## 5.8 Precipitation of Hepatic Encephalopathy
 
 Drugs affecting GABA receptors, such as zolpidem tartrate, have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
 In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
-Aoid zolpidem tartrate tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Avoid zolpidem tartrate tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 5.9 Withdrawal Effects
 

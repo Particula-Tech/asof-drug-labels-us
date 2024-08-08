@@ -18,7 +18,7 @@ Extended treatment should not take place without re-evaluation of the patient's 
 ## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
-The recommended dose of zolpidem tartrate in these patient is 5 mg once daily immediately before bedtime [see Warnings and Precautions (5.2), Use in Specific Populations (8.5)].
+The recommended dose of zolpidem tartrate in these patients is 5 mg once daily immediately before bedtime [see Warnings and Precautions (5.2), Use in Specific Populations (8.5)].
 
 Patients with mild to moderate hepatic impairment do not clear the drug as rapidly as normal subjects.
 The recommended dose of zolpidem tartrate tablets in these patients is 5 mg once daily immediately before bedtime.

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Neonates born to mothers using zolpidem late in the third trimester of pregnancy have been reported to experience symptoms of respiratory depression and sedation [see Clinical Considerations and Data].
+Neonates born to mothers using zolpidem late in the third trimester of pregnancy have been reported to experience symptoms of respiratory depression and sedation [see Clinical Considerationsand Data].
 Published data on the use of zolpidem during pregnancy have not reported a clear association with zolpidem and major birth defects [see Data].
 Oral administration of zolpidem to pregnant rats and rabbits did not indicate a risk for adverse effects on fetal development at clinically relevant doses [see Data].
 
@@ -17,7 +17,7 @@ Clinical Considerations
 Fetal/neonatal adverse reactions
 
 Zolpidem crosses the placenta and may produce respiratory depression and sedation in neonates.
-Monitor neonates exposed to zolpidem during pregnancy and labor for signs of excess sedation, hypotonia, and respiratory depression and manage accordingly.
+Monitor neonates exposed to zolpidem tartrate tablets during pregnancy and labor for signs of excess sedation, hypotonia, and respiratory depression and manage accordingly.
 
 Data
 
@@ -46,20 +46,20 @@ Risk Summary
 Limited data from published literature report the presence of zolpidem in human milk.
 There are reports of excess sedation in infants exposed to zolpidem through breastmilk [see Clinical Considerations].
 There is no information on the effects of zolpidem on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for zolpidem and any potential adverse effects on the breastfed infant from zolpidem or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for zolpidem tartrate tablets and any potential adverse effects on the breastfed infant from zolpidem tartrate tablets or from the underlying maternal condition.
 
 Clinical Considerations
 
-Infants exposed to zolpidem through breastmilk should be monitored for excess sedation, hypotonia, and respiratory depression.
-A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 23 hours (approximately 5 elimination half-lives) after zolpidem administration in order to minimize drug exposure to a breast fed infant.
+Infants exposed to zolpidem tartrate tablets through breastmilk should be monitored for excess sedation, hypotonia, and respiratory depression.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 23 hours (approximately 5 elimination half-lives) after zolpidem tartrate tablets administration in order to minimize drug exposure to a breast fed infant.
 
 ## 8.4 Pediatric Use
 
-Zolpidem is not recommended for use in children.
+Zolpidem tartrate tablets are not recommended for use in children.
 Safety and effectiveness of zolpidem in pediatric patients below the age of 18 years have not been established.
 
 In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (ADHD) an oral solution of zolpidem tartrate dosed at 0.25 mg/kg at bedtime did not decrease sleep latency compared to placebo.
-Psychiatric and nervous system disorders comprised the most frequent (>5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see Warnings and Precautions (5.5)].
+Psychiatric and nervous system disorders comprised the most frequent (>5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs 1.5%), headache (12.5% vs 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see Warnings and Precautions (5.5)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
 ## 8.5 Geriatric Use
@@ -83,11 +83,11 @@ The dose of zolpidem tartrate tablets in elderly patients is 5 mg to minimize ad
 ## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
-C max and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
-Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended initial dose of zolpidem for adult women is 5 mg, and the recommended dose for adult men is 5 or 10 mg.
+Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
+Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended initial dose of zolpidem tartrate tablets for adult women is 5 mg, and the recommended dose for adult men is 5 or 10 mg.
 
 In geriatric patients, clearance of zolpidem is similar in men and women.
-The recommended dose of zolpidem in geriatric patients is 5 mg regardless of gender.
+The recommended dose of zolpidem tartrate tablets in geriatric patients is 5 mg regardless of gender.
 
 ## 8.7 Hepatic Impairment
 

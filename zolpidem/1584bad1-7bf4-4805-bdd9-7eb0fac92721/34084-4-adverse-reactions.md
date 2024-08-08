@@ -4,9 +4,9 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Complex Sleep Behaviors [see Warnings and Precautions (5.1)]
 - CNS-Depressant Effects and Next-Day Impairment [see Warnings and Precautions (5.2)]
-- Serious Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
+- Severe Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
 - Abnormal Thinking and Behavior Changes [see Warnings and Precautions (5.5)]
-- Withdrawal effects [see Warnings and Precautions (5.9)]
+- Withdrawal Effects [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -36,7 +36,7 @@ However, the cited figures provide the physician with a basis for estimating the
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
-Table 1 Incidences of Treatment-Emergent Adverse Reactions in Placebo Controlled Clinical Trials Lasting up to 10 Nights (Percentage of patients reporting)
+Table 1: Incidences of Treatment-Emergent Adverse Reactions in Placebo-Controlled Clinical Trials Lasting up to 10 Nights (percentage of patients reporting)
 
 | Body System Adverse Reaction Reactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=685) | Placebo (N=473) |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ These trials involved patients with chronic insomnia who were treated for 28 to 
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-Table 2 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (percentage of patients reporting)
+Table 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (percentage of patients reporting)
 
 | Body System Adverse Event Reactions reported by at least 1% of patients treated with zolpidem tartrate tablets and at a greater frequency than placebo. | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
