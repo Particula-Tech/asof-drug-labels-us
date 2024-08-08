@@ -142,9 +142,9 @@ Use one pen every week.
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 2.5 mg/0.5 mL, Carton, Single-dose Vial
+PACKAGE LABEL - Zepbound®, 2.5 mg/0.5 mL, Carton, 4 Single-dose Vials
 
-NDC 0002-0152-01
+NDC 0002-0152-04
 
 Zepbound®
 
@@ -152,7 +152,9 @@ Zepbound®
 
 2.5 mg/0.5 mL
 
-Single-dose Vial - discard unused portion
+4 x 2.5 mg/0.5 mL single-dose vials
+
+Discard unused portion
 
 Rx Only
 
@@ -162,11 +164,15 @@ Needles and Syringes are not included
 
 Dispense enclosed Medication Guide to each patient.
 
+Use one vial every week.
+
+4 Single-dose vials
+
 Lilly
 
-PACKAGE LABEL - Zepbound®, 5 mg/0.5 mL, Single-dose Vial
+PACKAGE LABEL - Zepbound®, 5 mg/0.5 mL, Carton, 4 Single-dose Vials
 
-NDC 0002-0243-01
+NDC 0002-0243-04
 
 Zepbound®
 
@@ -174,7 +180,9 @@ Zepbound®
 
 5 mg/0.5 mL
 
-Single-dose Vial - discard unused portion
+4 x 5 mg/0.5 mL single-dose vials
+
+Discard unused portion
 
 Rx Only
 
@@ -183,6 +191,10 @@ For Subcutaneous Use
 Needles and Syringes are not included
 
 Dispense enclosed Medication Guide to each patient.
+
+Use one vial every week.
+
+4 Single-dose vials
 
 Lilly
 

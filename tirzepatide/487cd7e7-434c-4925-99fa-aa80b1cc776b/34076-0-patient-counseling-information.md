@@ -73,4 +73,4 @@ Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 Copyright © 2023, 2024, Eli Lilly and Company.
 All rights reserved.
 
-ZEP-0002-USPI-20240328
+ZEP-0003-USPI-20240523

@@ -2,16 +2,16 @@
 
 ## 16.1 How Supplied
 
-ZEPBOUND is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens or 1 single-dose vial as follows:
+ZEPBOUND is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens,1 single-dose vial, or 4 single-dose vials as follows:
 
-| Total Strength per Total Volume | Pen NDC | Vial NDC |
-| --- | --- | --- |
-| 2.5 mg/0.5 mL | 0002-2506-80 | 0002-0152-01 |
-| 5 mg/0.5 mL | 0002-2495-80 | 0002-0243-01 |
-| 7.5 mg/0.5 mL | 0002-2484-80 | 0002-1214-01 |
-| 10 mg/0.5 mL | 0002-2471-80 | 0002-1340-01 |
-| 12.5 mg/0.5 mL | 0002-2460-80 | 0002-1423-01 |
-| 15 mg/0.5 mL | 0002-2457-80 | 0002-2002-01 |
+| Total Strength per Total Volume | 4 pack Pen NDC | 1 pack Vial NDC | 4 pack Vial NDC |
+| --- | --- | --- | --- |
+| 2.5 mg/0.5 mL | 0002-2506-80 | 0002-0152-01 | 0002-0152-04 |
+| 5 mg/0.5 mL | 0002-2495-80 | 0002-0243-01 | 0002-0243-04 |
+| 7.5 mg/0.5 mL | 0002-2484-80 | 0002-1214-01 | 0002-1214-04 |
+| 10 mg/0.5 mL | 0002-2471-80 | 0002-1340-01 | 0002-1340-04 |
+| 12.5 mg/0.5 mL | 0002-2460-80 | 0002-1423-01 | 0002-1423-04 |
+| 15 mg/0.5 mL | 0002-2457-80 | 0002-2002-01 | 0002-2002-04 |
 
 ## 16.2 Storage and Handling
 

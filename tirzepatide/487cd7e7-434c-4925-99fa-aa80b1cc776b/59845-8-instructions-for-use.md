@@ -1,6 +1,6 @@
 # SINGLE-DOSE PEN INSTRUCTIONS FOR USE
 
-| INSTRUCTIONS FOR USE ZEPBOUND® (ZEHP-bownd) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
+| INSTRUCTIONS FOR USE ZEPBOUNDTM (ZEHP-bownd) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
 | --- |
 
 Important information you need to know before injecting ZEPBOUND
