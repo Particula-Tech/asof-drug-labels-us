@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211107"
+  ],
+  "inn": "macitentan",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-542-05",
+    "13668-542-30",
+    "13668-542-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "macitentan",
+      "name": "Macitentan"
+    }
+  ],
+  "setid": "fbfae088-44e6-4296-81d1-c2b6eecacc81",
+  "source": "dailymed"
+}
