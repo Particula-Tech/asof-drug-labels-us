@@ -11,7 +11,10 @@ Advise patients of the following:
   Patients should also inform their physician that they are taking ZEMPLAR capsules if a new medication is prescribed.
 - Breastfeeding is not recommended during treatment with ZEMPLAR capsules [see Use in Specific Populations (8.2)].
 
-© 1998-2021 AbbVie Inc.
+© 2024 AbbVie.
+All rights reserved.
+
+ZEMPLAR and its design are trademarks of AbbVie Inc.
 
 Manufactured for
 
@@ -19,4 +22,4 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-20067826 April 2021
+131899 R1 August 2024
