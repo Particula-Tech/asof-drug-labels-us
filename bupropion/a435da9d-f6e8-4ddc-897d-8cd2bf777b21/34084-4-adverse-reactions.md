@@ -2,14 +2,14 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Suicidal thoughts and behaviors in children, adolescents, and young adults [see Warnings and Precautions (5.1)]
-- Neuropsychiatric adverse events and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
-- Seizure [see Warnings and Precautions (5.3)]
-- Hypertension [see Warnings and Precautions (5.4)]
-- Activation of mania or hypomania [see Warnings and Precautions (5.5)]
-- Psychosis and other neuropsychiatric events [see Warnings and Precautions (5.6)]
-- Angle-Closure Glaucoma [see Warnings and Precautions (5.7)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.8)]
+- •Suicidal thoughts and behaviors in children, adolescents, and young adults [see Warnings and Precautions (5.1)]
+- •Neuropsychiatric adverse events and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
+- •Seizure [see Warnings and Precautions (5.3)]
+- •Hypertension [see Warnings and Precautions (5.4)]
+- •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
+- •Psychosis and other neuropsychiatric events [see Warnings and Precautions (5.6)]
+- •Angle-Closure Glaucoma [see Warnings and Precautions (5.7)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,9 +19,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse reactions that occurred in at least 5% of patients treated with bupropion HCl sustained-release (300 mg and 400 mg per day) and at a rate at least twice the placebo rate are listed below.
 
-300 mg/day of bupropion HCl sustained-release:anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
+300 mg/day of bupropion HCl sustained-release: anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
 
-400 mg/day of bupropion HCl sustained-release:abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
+400 mg/day of bupropion HCl sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
 Wellbutrin XL has been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
 The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
@@ -47,7 +47,7 @@ Reactions resulting in discontinuation (in addition to those listed above for th
 
 Adverse Reactions Occurring at an Incidence of >1% in Patients Treated with Bupropion HCl Immediate-Release or Bupropion HCl Sustained-Release in MDD
 
-Table 3summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion HCl sustained-release 300 mg/day and 400 mg/day.
+Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion HCl sustained-release 300 mg/day and 400 mg/day.
 These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group.
 
 Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
@@ -108,8 +108,8 @@ Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 2% | 5% |
 | Urinary urgency | 0% | — | 2% |
-| Vaginal hemorrhage Incidence based on the number of female patients. | — | 0% | 2% |
-| Urinary tract infection | — Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. | 1% | 0% |
+| Vaginal hemorrhage¹ | — | 0% | 2% |
+| Urinary tract infection | — | 1% | 0% |
 
 The following additional adverse reactions occurred in controlled trials of bupropion HCl immediate-release (300 to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
 
@@ -118,7 +118,7 @@ Seasonal Affective Disorder
 In placebo-controlled clinical trials in SAD, 9% of patients treated with Wellbutrin XL and 5% of patients treated with placebo discontinued treatment because of adverse reactions.
 The adverse reactions leading to discontinuation in at least 1% of patients treated with bupropion and at a rate numerically greater than the placebo rate were insomnia (2% vs. <1%) and headache (1% vs. <1%).
 
-Table 4summarizes the adverse reactions that occurred in patients treated with Wellbutrin XL for up to approximately 6 months in 3 placebo-controlled trials.
+Table 4 summarizes the adverse reactions that occurred in patients treated with Wellbutrin XL for up to approximately 6 months in 3 placebo-controlled trials.
 These include reactions that occurred at an incidence of 2% or more and were more frequent than in the placebo group.
 
 Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
@@ -164,7 +164,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 
 Changes in Body Weight
 
-Table 5presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
+Table 5 presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
 There was a dose-related decrease in body weight.
 
 Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using Bupropion HCl Sustained-Release
@@ -174,7 +174,7 @@ Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs) in MDD Trials Using 
 | Gained >5 lbs | 3% | 2% | 4% |
 | Lost >5 lbs | 14% | 19% | 6% |
 
-Table 6presents the incidence of body weight changes (≥5 lbs) in the 3 SAD trials using bupropion HCl extended-release.
+Table 6 presents the incidence of body weight changes (≥5 lbs) in the 3 SAD trials using bupropion HCl extended-release.
 A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥5 lbs, compared to the placebo group (11%).
 These were relatively long-term trials (up to 6 months).
 
@@ -229,7 +229,7 @@ Bronchospasm and pneumonia.
 
 Skin and Subcutaneous Tissue Disorders
 
-Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, acute generalized exanthematous pustulosis, and drug reaction with eosinophilias and system symptoms (DRESS).
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, acute generalized exanthematous pustulosis, and drug reaction with eosinophilias and systemic symptoms (DRESS).
 
 Special Senses
 

@@ -9,7 +9,9 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
-Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester have not identified an increased risk of congenital malformations overall (see Data).There are risks to the mother associated with untreated depression (see Clinical Considerations).When bupropion was administered to pregnant rats during organogenesis, there was no evidence of fetal malformations at doses up to approximately 10 times the maximum recommended human dose (MRHD) of 450 mg/day.
+Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester have not identified an increased risk of congenital malformations overall (see Data).
+There are risks to the mother associated with untreated depression (see Clinical Considerations).
+When bupropion was administered to pregnant rats during organogenesis, there was no evidence of fetal malformations at doses up to approximately 10 times the maximum recommended human dose (MRHD) of 450 mg/day.
 When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at doses approximately equal to the MRHD and greater.
 Decreased fetal weights were seen at doses twice the MRHD and greater (see Animal Data).
 
@@ -47,19 +49,20 @@ For the findings of LVOTO and VSD, the studies were limited by the small number 
 
 Animal Data
 
-In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg/kg/day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg/m 2basis).
+In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg/kg/day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg/m2 basis).
 There was no evidence of fetal malformations in rats.
-When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m 2basis) and greater.
-Decreased fetal weights were observed at doses of 50 mg/kg/day (approximately 2 times the MRHD on a mg/m 2basis) and greater.
+When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
+Decreased fetal weights were observed at doses of 50 mg/kg/day (approximately 2 times the MRHD on a mg/m2 basis) and greater.
 No maternal toxicity was evident at doses of 50 mg/kg/day or less.
 
-In a pre- and postnatal development study, bupropion administered orally to pregnant rats at doses of up to 150 mg/kg/day (approximately 3 times the MRHD on a mg/m 2basis) from embryonic implantation through lactation had no effect on pup growth or development.
+In a pre- and postnatal development study, bupropion administered orally to pregnant rats at doses of up to 150 mg/kg/day (approximately 3 times the MRHD on a mg/m2 basis) from embryonic implantation through lactation had no effect on pup growth or development.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-Data from published literature report the presence of bupropion and its metabolites in human milk (see Data).There are no data on the effects of bupropion or its metabolites on milk production.
+Data from published literature report the presence of bupropion and its metabolites in human milk (see Data).
+There are no data on the effects of bupropion or its metabolites on milk production.
 Limited data from postmarketing reports have not identified a clear association of adverse reactions in the breastfed infant.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Wellbutrin XL and any potential adverse effects on the breastfed child from Wellbutrin XL or from the underlying maternal condition.
 
@@ -73,7 +76,7 @@ The relationship of bupropion exposure and these seizures is unclear.
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established.
-When considering the use of Wellbutrin XL in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warningand Warnings and Precautions (5.1)].
+When considering the use of Wellbutrin XL in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 
