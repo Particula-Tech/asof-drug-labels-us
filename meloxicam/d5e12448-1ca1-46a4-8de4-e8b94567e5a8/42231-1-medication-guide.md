@@ -120,8 +120,5 @@ They may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 05/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: 08/2024
