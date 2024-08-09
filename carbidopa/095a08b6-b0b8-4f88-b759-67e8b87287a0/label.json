@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA217186"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "64896-967-16",
+    "64896-967-23",
+    "64896-968-16",
+    "64896-968-23",
+    "64896-969-16",
+    "64896-969-23",
+    "64896-970-16",
+    "64896-970-23"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carbidopa and levodopa",
+      "name": "CREXONT"
+    }
+  ],
+  "setid": "095a08b6-b0b8-4f88-b759-67e8b87287a0",
+  "source": "dailymed"
+}
