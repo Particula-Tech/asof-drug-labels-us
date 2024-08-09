@@ -30,8 +30,7 @@ Figure 1: Mean Methylphenidate Plasma Concentration-Time Profiles
 
 The mean single-dose pharmacokinetic parameters in 36 healthy adults following the administration of methylphenidate hydrochloride extended-release tablets 18 mg once daily and methylphenidate 5 mg three times daily are summarized in Table 7.
 
-Table 7.
-Methylphenidate Pharmacokinetic Parameters (Mean ± SD) After Single Dose in Healthy Adults
+Table 7: Methylphenidate Pharmacokinetic Parameters (Mean ± SD) After Single Dose in Healthy Adults
 
 | Parameters | Methylphenidate Hydrochloride Extended-release Tablets (18 mg once daily) (n=36) | Methylphenidate (5 mg three times daily) (n=35) |
 | --- | --- | --- |

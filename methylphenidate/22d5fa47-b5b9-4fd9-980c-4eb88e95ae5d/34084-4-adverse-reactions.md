@@ -27,8 +27,7 @@ Adults and pediatric patients 6 to 17 years with ADHD were evaluated in six cont
 Safety was assessed by collecting adverse reactions, vital signs, weights, and electrocardiograms (ECGs), and by performing physical examinations and laboratory analyses.
 A total of 3,906 patients participated in the clinical trials.
 
-Table 3.
-Exposure in Double-Blind and Open-Label Clinical Studies of Another Formulation of Methylphenidate Hydrochloride Extended-Release Tablets
+Table 3: Exposure in Double-Blind and Open-Label Clinical Studies of Another Formulation of Methylphenidate Hydrochloride Extended-Release Tablets
 
 | Patient Population | N | Dosage Range |
 | --- | --- | --- |
@@ -51,8 +50,7 @@ Pediatric Patients 6 to 17 Years
 
 Table 4 lists the adverse reactions reported in 1% or more of another formulation of methylphenidate hydrochloride extended-release tablet-treated pediatric patients (6 to 17 years) in four placebo-controlled, double-blind clinical trials.
 
-Table 4.
-Adverse Reactions Reported by ≥1% of Pediatric Patients (6 to 17 years) Treated with Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets in Four Placebo-Controlled, Double-Blind Clinical Trials
+Table 4: Adverse Reactions Reported by ≥1% of Pediatric Patients (6 to 17 years) Treated with Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets in Four Placebo-Controlled, Double-Blind Clinical Trials
 
 | System/Organ Class Adverse Reaction | Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets (n=321) % | Placebo (n=318) % |
 | --- | --- | --- |
@@ -76,8 +74,7 @@ Adults
 
 Table 5 lists the adverse reactions reported in 1% or more of adults treated with another formulation of methylphenidate hydrochloride extended-release tablets in two placebo-controlled, double-blind clinical trials.
 
-Table 5.
-Adverse Reactions Reported by ≥1% of Adults Treated with Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets in Two Placebo-Controlled, Double-Blind Clinical Trials*
+Table 5: Adverse Reactions Reported by ≥1% of Adults Treated with Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets in Two Placebo-Controlled, Double-Blind Clinical Trials*
 
 | System/Organ Class Adverse Reaction | Another Formulation of Methylphenidate Hydrochloride Extended-release Tablets (n=415) % | Placebo (n=212) % |
 | --- | --- | --- |

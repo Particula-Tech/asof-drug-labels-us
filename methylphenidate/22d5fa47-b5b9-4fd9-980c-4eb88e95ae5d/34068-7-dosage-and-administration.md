@@ -30,8 +30,7 @@ Table 1: Dosage Recommendations for RELEXXII in Pediatric Patients 6 to 17 years
 
 The recommended starting dosage of RELEXXII for patients who are currently taking methylphenidate twice daily or three times daily at doses of 10 mg to 60 mg daily is provided in Table 2.
 
-Table 2.
-Recommended Starting Dosage when Converting from Methylphenidate Regimens to RELEXXII
+Table 2: Recommended Starting Dosage when Converting from Methylphenidate Regimens to RELEXXII
 
 | Current Methylphenidate Daily Dosage | Recommended Starting Dosage of RELEXXII |
 | --- | --- |
