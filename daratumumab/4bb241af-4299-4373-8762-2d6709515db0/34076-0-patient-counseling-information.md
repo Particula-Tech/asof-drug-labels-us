@@ -23,7 +23,7 @@ Embryo-Fetal Toxicity
 Advise pregnant women of the potential hazard to a fetus.
 Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
 
-Advise females of reproductive potential to avoid becoming pregnant during treatment with DARZALEX FASPRO and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with DARZALEX FASPRO and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 Advise patients that lenalidomide, thalidomide and pomalidomide have the potential to cause fetal harm and have specific requirements regarding contraception, pregnancy testing, blood and sperm donation, and transmission in sperm.
 Lenalidomide, thalidomide and pomalidomide are only available through a REMS program [see Use in Specific Populations (8.1, 8.3)].

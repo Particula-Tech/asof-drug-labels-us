@@ -11,7 +11,95 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Newly Diagnosed Multiple Myeloma
+Newly Diagnosed Multiple Myeloma Eligible for Autologous Stem Cell Transplant
+
+In Combination with Bortezomib, Lenalidomide and Dexamethasone
+
+The safety of DARZALEX FASPRO in combination with bortezomib, lenalidomide and dexamethasone (n=351) from the start of induction to the end of consolidation compared to bortezomib, lenalidomide and dexamethasone (VRd) (n=347) was evaluated in PERSEUS [see Clinical Studies (14.1)].
+Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from weeks 1 to 8 and once every 2 weeks from weeks 9 to 16 during induction in combination with VRd or VRd alone.
+After week 16, patients underwent stem cell mobilization, high dose chemotherapy, and ASCT.
+Within 12 weeks of ASCT, and when engraftment was complete, patients received DARZALEX FASPRO once every 2 weeks from weeks 1 to 8 during consolidation in combination with VRd or VRd alone.
+
+The median duration of treatment for induction and consolidation was 9.9 months (0.5 to 18.5 months) for DARZALEX FASPRO-VRd.
+
+Serious adverse reactions occurred in 37% of patients who received DARZALEX FASPRO-VRd.
+The most frequent serious adverse reaction in >5% of patients who received DARZALEX FASPRO-VRd was pneumonia (6%).
+Fatal adverse reactions occurred in 1.7% of patients who received DARZALEX FASPRO-VRd.
+
+Permanent treatment discontinuation due to an adverse reaction occurred in 2% of patients who received DARZALEX FASPRO-VRd.
+An adverse reaction which resulted in permanent discontinuation of DARZALEX FASPRO-VRd in more than 1 patient included sepsis.
+
+The most common adverse reactions (≥20%) were peripheral neuropathy, fatigue, edema, pyrexia, upper respiratory infection, constipation, diarrhea, musculoskeletal pain, insomnia, and rash.
+
+Table 7 summarizes the adverse reactions in patients who received DARZALEX FASPRO in PERSEUS.
+
+Table 7: Adverse Reactions (≥10%) in Patients with Newly Diagnosed Multiple Myeloma Eligible for ASCT Who Received DARZALEX FASPRO-VRd through the End of Consolidation in PERSEUS
+
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | DARZALEX FASPRO-VRd (N=351) |  | VRd (N=347) |  |
+| Nervous system disorders |  |  |  |  |
+| Peripheral neuropathy Peripheral neuropathy includes neuropathy peripheral, peripheral motor neuropathy, peripheral sensorimotor neuropathy, and peripheral sensory neuropathy. | 52 | 5 | 54 | 4 |
+| Paraesthesia | 11 | <1 Only Grade 3 adverse reactions occurred. | 11 | <1 |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue Includes other related terms. | 35 | 3 | 37 | 5 |
+| Edema | 22 | 1 | 21 | 1 |
+| Pyrexia | 21 | 2 | 22 | 3 |
+| Infections |  |  |  |  |
+| Upper respiratory tract infection Upper respiratory tract infection includes fungal pharyngitis, h1n1 influenza, influenza, influenza like illness, laryngitis, nasopharyngitis, oral candidiasis, oropharyngeal candidiasis, parainfluenzae virus infection, pharyngitis, respiratory moniliasis, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, rhinovirus infection, sinusitis, tonsillitis, upper respiratory tract infection, viral tonsillitis, and viral upper respiratory tract infection. | 32 | 1 | 26 | 2 |
+| Pneumonia Pneumonia includes bronchopulmonary aspergillosis, lower respiratory tract infection, pneumocystis jirovecii pneumonia, pneumonia, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia influenzal, pneumonia klebsiella, pneumonia legionella, and pneumonia streptococcal. | 14 | 9 | 10 | 6 Fatal adverse reactions included Pneumonia: n=1 (0.3%) in the VRd arm. |
+| Gastrointestinal disorders |  |  |  |  |
+| Constipation | 31 | 2 | 30 | 2 |
+| Diarrhea | 23 | 3 | 25 | 5 |
+| Nausea | 16 | 1 | 12 | 1 |
+| Abdominal pain | 11 | 0 | 12 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal pain | 26 | 1 | 23 | 1 |
+| Muscle spasm | 12 | 0 | 9 | <1 |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 26 | 2 | 16 | 2 |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Rash | 25 | 3 | 31 | 5 |
+| Hepatobiliary disorders |  |  |  |  |
+| Hepatotoxicity Hepatotoxicity includes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic cytolysis, hepatic failure, hepatic function abnormal, hepatoxicity, hyperbilirubinemia, hypertransaminasemia, and liver disorder | 16 | 6 | 16 | 5 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Cough | 12 | <1 | 8 | 0 |
+| Key: VRd=bortezomib-lenalidomide-dexamethasone |  |  |  |  |
+
+Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO with bortezomib, lenalidomide and dexamethasone include:
+
+- Gastrointestinal disorders:vomiting, hemorrhoids
+- Musculoskeletal and connective tissue disorders:arthralgia
+- Infections:bronchitis, sepsis, urinary tract infection, herpes zoster, Covid-19, cytomegalovirus infection
+- Respiratory, thoracic, and mediastinal disorders:dyspnea, pulmonary edema
+- Metabolism and nutrition disorders:hypocalcemia, decreased appetite, hyperglycemia, dehydration
+- Vascular disorders:hypotension, hypertension, orthostatic hypotension
+- General disorders and administration site conditions:infusion reactions, injection site reaction, chills
+- Nervous system disorders:dizziness, headache, syncope
+- Cardiac disorders:thrombosis, atrial fibrillation, tachycardia
+- Skin and subcutaneous tissue disorders:pruritus
+
+Table 8 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in PERSEUS.
+
+Table 8: Select Laboratory Abnormalities (≥30%) That Worsened from Baseline in Patients with Newly Diagnosed Multiple Myeloma Eligible for ASCT Who Received DARZALEX FASPRO-VRd through the End of Consolidation in PERSEUS
+
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | DARZALEX FASPRO-VRd Denominator is based on number of subjects with a baseline and post-baseline laboratory value for each laboratory test: N=351 for DARZALEX FASPRO-VRd and N=346 for VRd. |  | VRd |  |
+| Hematology |  |  |  |  |
+| Decreased platelets | 89 | 34 | 78 | 25 |
+| Decreased lymphocytes | 87 | 69 | 69 | 43 |
+| Decreased leukocytes | 78 | 47 | 56 | 22 |
+| Decreased neutrophils | 67 | 52 | 47 | 34 |
+| Decreased hemoglobin | 39 | 7 | 43 | 6 |
+| Chemistry |  |  |  |  |
+| Increased alanine aminotransferase (ALT) | 52 | 7 | 48 | 5 |
+| Decreased sodium | 40 | 5 | 25 | 5 |
+| Increased alkaline phosphatase | 39 | 0 | 36 | 1 |
+| Decreased potassium | 30 | 6 | 24 | 3 |
+| Key: VRd=bortezomib-lenalidomide-dexamethasone |  |  |  |  |
+
+Newly Diagnosed Multiple Myeloma Ineligible for Autologous Stem Cell Transplant
 
 In Combination with Bortezomib, Melphalan and Prednisone
 
@@ -31,9 +119,9 @@ Adverse reactions requiring dosage interruptions in >5% of patients included thr
 
 The most common adverse reactions (≥20%) were upper respiratory tract infection, constipation, nausea, fatigue, pyrexia, peripheral sensory neuropathy, diarrhea, cough, insomnia, vomiting, and back pain.
 
-Table 6 summarizes the adverse reactions in patients who received DARZALEX FASPRO in PLEIADES.
+Table 9 summarizes the adverse reactions in patients who received DARZALEX FASPRO in PLEIADES.
 
-Table 6: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (DARZALEX FASPRO-VMP) in PLEIADES
+Table 9: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (DARZALEX FASPRO-VMP) in PLEIADES
 
 | All Grades (%) | Grades ≥3 (%) |  |
 | --- | --- | --- |
@@ -73,17 +161,17 @@ Table 6: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wit
 
 Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO with bortezomib, melphalan and prednisone included:
 
-- General disorders and administration site conditions: infusion reaction, injection site reaction, chills
-- Infections: herpes zoster, urinary tract infection, influenza, sepsis
-- Musculoskeletal and connective tissue disorders: arthralgia, muscle spasms
-- Nervous system disorders: headache, paresthesia
-- Metabolism and nutrition disorders: hypocalcemia, hyperglycemia
-- Respiratory, thoracic and mediastinal disorders: dyspnea, pulmonary edema
-- Cardiac disorders: atrial fibrillation
+- General disorders and administration site conditions:infusion reaction, injection site reaction, chills
+- Infections:herpes zoster, urinary tract infection, influenza, sepsis
+- Musculoskeletal and connective tissue disorders:arthralgia, muscle spasms
+- Nervous system disorders:headache, paresthesia
+- Metabolism and nutrition disorders:hypocalcemia, hyperglycemia
+- Respiratory, thoracic and mediastinal disorders:dyspnea, pulmonary edema
+- Cardiac disorders:atrial fibrillation
 
-Table 7 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in PLEIADES.
+Table 10 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in PLEIADES.
 
-Table 7: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (DARZALEX FASPRO-VMP) in PLEIADES
+Table 10: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (DARZALEX FASPRO-VMP) in PLEIADES
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -114,9 +202,9 @@ Adverse reactions requiring dosage interruptions in >5% of patients included neu
 
 The most common adverse reactions (≥20%) were fatigue, diarrhea, upper respiratory tract infection, muscle spasms, constipation, pyrexia, pneumonia, and dyspnea.
 
-Table 8 summarizes the adverse reactions in patients who received DARZALEX FASPRO in PLEIADES.
+Table 11 summarizes the adverse reactions in patients who received DARZALEX FASPRO in PLEIADES.
 
-Table 8: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (DARZALEX FASPRO-Rd) in PLEIADES
+Table 11: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (DARZALEX FASPRO-Rd) in PLEIADES
 
 | All Grades (%) | Grades ≥3 (%) |  |
 | --- | --- | --- |
@@ -151,19 +239,19 @@ Table 8: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wit
 
 Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO with lenalidomide and dexamethasone included:
 
-- Musculoskeletal and connective tissue disorders: arthralgia, musculoskeletal chest pain
-- Nervous system disorders: dizziness, headache, paresthesia
-- Skin and subcutaneous tissue disorders: rash, pruritus
-- Gastrointestinal disorders: abdominal pain
-- Infections: influenza, sepsis, herpes zoster
-- Metabolism and nutrition disorders: decreased appetite
-- Cardiac disorders: atrial fibrillation
-- General disorders and administration site conditions: chills, infusion reaction, injection site reaction
-- Vascular disorders: hypotension, hypertension
+- Musculoskeletal and connective tissue disorders:arthralgia, musculoskeletal chest pain
+- Nervous system disorders:dizziness, headache, paresthesia
+- Skin and subcutaneous tissue disorders:rash, pruritus
+- Gastrointestinal disorders:abdominal pain
+- Infections:influenza, sepsis, herpes zoster
+- Metabolism and nutrition disorders:decreased appetite
+- Cardiac disorders:atrial fibrillation
+- General disorders and administration site conditions:chills, infusion reaction, injection site reaction
+- Vascular disorders:hypotension, hypertension
 
-Table 9 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in PLEIADES.
+Table 12 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in PLEIADES.
 
-Table 9: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (DARZALEX FASPRO-Rd) in PLEIADES
+Table 12: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (DARZALEX FASPRO-Rd) in PLEIADES
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -188,9 +276,9 @@ Permanent treatment discontinuation due to an adverse reaction occurred in 2% of
 
 The most common adverse reactions (≥20%) were fatigue, pneumonia, upper respiratory tract infection, and diarrhea.
 
-Table 10 summarizes the adverse reactions in patients who received DARZALEX FASPRO in APOLLO.
+Table 13 summarizes the adverse reactions in patients who received DARZALEX FASPRO in APOLLO.
 
-Table 10: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5% Greater Frequency in the DARZALEX FASPRO-Pd Arm in APOLLO
+Table 13: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5% Greater Frequency in the DARZALEX FASPRO-Pd Arm in APOLLO
 
 | All Grades (%) | Grades ≥3 (%) | All Grades (%) | Grades ≥3 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -210,20 +298,20 @@ Table 10: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5
 
 Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO with pomalidomide and dexamethasone include:
 
-- Metabolism and nutrition disorders: hypocalcemia, hypokalemia, decreased appetite, dehydration
-- Nervous system disorders: peripheral sensory neuropathy, syncope, headache, paresthesia, dizziness
-- Musculoskeletal and connective tissue disorders: muscle spasms, musculoskeletal chest pain, arthralgia
-- Psychiatric disorders: insomnia
-- Gastrointestinal disorders: nausea, abdominal pain, vomiting
-- Skin and subcutaneous tissue disorders: rash, pruritus
-- Cardiac disorders: atrial fibrillation
-- General disorders and administration site conditions: infusion reactions, chills, injection site reaction
-- Infections: urinary tract infection, influenza, hepatitis B reactivation, herpes zoster, sepsis
-- Vascular disorders: hypertension, hypotension
+- Metabolism and nutrition disorders:hypocalcemia, hypokalemia, decreased appetite, dehydration
+- Nervous system disorders:peripheral sensory neuropathy, syncope, headache, paresthesia, dizziness
+- Musculoskeletal and connective tissue disorders:muscle spasms, musculoskeletal chest pain, arthralgia
+- Psychiatric disorders:insomnia
+- Gastrointestinal disorders:nausea, abdominal pain, vomiting
+- Skin and subcutaneous tissue disorders:rash, pruritus
+- Cardiac disorders:atrial fibrillation
+- General disorders and administration site conditions:infusion reactions, chills, injection site reaction
+- Infections:urinary tract infection, influenza, hepatitis B reactivation, herpes zoster, sepsis
+- Vascular disorders:hypertension, hypotension
 
-Table 11 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in APOLLO.
+Table 14 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in APOLLO.
 
-Table 11: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO-Pd or Pd in APOLLO
+Table 14: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO-Pd or Pd in APOLLO
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -250,9 +338,9 @@ Dosage interruptions due to an adverse reaction occurred in 46% of patients who 
 
 The most common adverse reactions (≥20%) were upper respiratory tract infection, fatigue, insomnia, hypertension, diarrhea, cough, dyspnea, headache, pyrexia, nausea, and edema peripheral.
 
-Table 12 summarizes the adverse reactions in patients who received DARZALEX FASPRO with carfilzomib and dexamethasone (DARZALEX FASPRO-Kd) in PLEIADES.
+Table 15 summarizes the adverse reactions in patients who received DARZALEX FASPRO with carfilzomib and dexamethasone (DARZALEX FASPRO-Kd) in PLEIADES.
 
-Table 12: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Carfilzomib and Dexamethasone (DARZALEX FASPRO-Kd) in PLEIADES
+Table 15: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Carfilzomib and Dexamethasone (DARZALEX FASPRO-Kd) in PLEIADES
 
 | All Grades (%) | Grade ≥3 (%) |  |
 | --- | --- | --- |
@@ -284,19 +372,19 @@ Table 12: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wi
 
 Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO with carfilzomib and dexamethasone include:
 
-- Gastrointestinal disorders: abdominal pain, constipation, pancreatitis
-- Infection and infestations: pneumonia, influenza, urinary tract infection, herpes zoster, sepsis
-- Metabolism and nutrition disorders: hyperglycemia, decreased appetite, hypocalcemia
-- Musculoskeletal and connective tissue disorders: muscle spasms, arthralgia
-- Nervous system disorders: paresthesia, dizziness, syncope
-- General disorders and administration site conditions: injection site reaction, infusion reactions, chills
-- Skin and subcutaneous tissue disorders: rash, pruritus
-- Cardiac disorders: cardiac failure
-- Vascular disorders: hypotension
+- Gastrointestinal disorders:abdominal pain, constipation, pancreatitis
+- Infection and infestations:pneumonia, influenza, urinary tract infection, herpes zoster, sepsis
+- Metabolism and nutrition disorders:hyperglycemia, decreased appetite, hypocalcemia
+- Musculoskeletal and connective tissue disorders:muscle spasms, arthralgia
+- Nervous system disorders:paresthesia, dizziness, syncope
+- General disorders and administration site conditions:injection site reaction, infusion reactions, chills
+- Skin and subcutaneous tissue disorders:rash, pruritus
+- Cardiac disorders:cardiac failure
+- Vascular disorders:hypotension
 
-Table 13 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO with carfilzomib and dexamethasone in PLEIADES.
+Table 16 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO with carfilzomib and dexamethasone in PLEIADES.
 
-Table 13: Select Laboratory Abnormalities (≥30%) Worsening from Baseline in Patients Who Received DARZALEX FASPRO-Kd in PLEIADES
+Table 16: Select Laboratory Abnormalities (≥30%) Worsening from Baseline in Patients Who Received DARZALEX FASPRO-Kd in PLEIADES
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -327,9 +415,9 @@ Adverse reactions requiring dosage interruption in >5% of patients included thro
 
 The most common adverse reaction (≥20%) was upper respiratory tract infection.
 
-Table 14 summarizes the adverse reactions in COLUMBA.
+Table 17 summarizes the adverse reactions in COLUMBA.
 
-Table 14: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
+Table 17: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
 
 | All Grades (%) | Grade ≥3 (%) | All Grades (%) | Grade ≥3 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -353,21 +441,21 @@ Table 14: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or
 
 Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO included:
 
-- General disorders and administration site conditions: injection site reaction, peripheral edema
-- Musculoskeletal and connective tissue disorders: arthralgia, musculoskeletal chest pain, muscle spasms
-- Gastrointestinal disorders: constipation, vomiting, abdominal pain
-- Metabolism and nutrition disorders: decreased appetite, hyperglycemia, hypocalcemia, dehydration
-- Psychiatric disorders: insomnia
-- Vascular disorders: hypertension, hypotension
-- Nervous system disorders: dizziness, peripheral sensory neuropathy, paresthesia
-- Infections: bronchitis, influenza, urinary tract infection, herpes zoster, sepsis, hepatitis B virus reactivation
-- Skin and subcutaneous tissue disorders: pruritus, rash
-- Cardiac disorders: atrial fibrillation
-- Respiratory, thoracic and mediastinal disorders: pulmonary edema
+- General disorders and administration site conditions:injection site reaction, peripheral edema
+- Musculoskeletal and connective tissue disorders:arthralgia, musculoskeletal chest pain, muscle spasms
+- Gastrointestinal disorders:constipation, vomiting, abdominal pain
+- Metabolism and nutrition disorders:decreased appetite, hyperglycemia, hypocalcemia, dehydration
+- Psychiatric disorders:insomnia
+- Vascular disorders:hypertension, hypotension
+- Nervous system disorders:dizziness, peripheral sensory neuropathy, paresthesia
+- Infections:bronchitis, influenza, urinary tract infection, herpes zoster, sepsis, hepatitis B virus reactivation
+- Skin and subcutaneous tissue disorders:pruritus, rash
+- Cardiac disorders:atrial fibrillation
+- Respiratory, thoracic and mediastinal disorders:pulmonary edema
 
-Table 15 summarizes the laboratory abnormalities in COLUMBA.
+Table 18 summarizes the laboratory abnormalities in COLUMBA.
 
-Table 15: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Receiving DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
+Table 18: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Receiving DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -399,9 +487,9 @@ Adverse reactions which required a dosage interruption in ≥3% of patients incl
 
 The most common adverse reactions (≥20%) were upper respiratory tract infection, diarrhea, peripheral edema, constipation, fatigue, peripheral sensory neuropathy, nausea, insomnia, dyspnea, and cough.
 
-Table 16 below summarizes the adverse reactions in patients who received DARZALEX FASPRO in ANDROMEDA.
+Table 19 below summarizes the adverse reactions in patients who received DARZALEX FASPRO in ANDROMEDA.
 
-Table 16: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) with a Difference Between Arms of >5% Compared to VCd in ANDROMEDA
+Table 19: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) with a Difference Between Arms of >5% Compared to VCd in ANDROMEDA
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -426,22 +514,22 @@ Table 16: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Receive
 | General disorders and administration site conditions |  |  |  |  |
 | Injection site reactions Injection site reactions includes terms determined by investigators to be related to daratumumab injection. | 11 | 0 | 0 | 0 |
 
-Clinically relevant adverse reactions not included in Table 16 and occurred in patients who received DARZALEX FASPRO with bortezomib, cyclophosphamide and dexamethasone included:
+Clinically relevant adverse reactions not included in Table 19 and occurred in patients who received DARZALEX FASPRO with bortezomib, cyclophosphamide and dexamethasone included:
 
-- Skin and subcutaneous tissue disorders: rash, pruritus
-- Nervous system disorders: paresthesia
-- General disorders and administration site conditions: infusion reaction, chills
-- Cardiac disorders: cardiac failure Cardiac failure includes cardiac dysfunction, cardiac failure, cardiac failure congestive, cardiovascular insufficiency, diastolic dysfunction, pulmonary edema, and left ventricular dysfunction occurred in 11% of patients., cardiac arrest
-- Metabolism and nutrition disorders: hyperglycemia, hypocalcemia, dehydration
-- Infections: bronchitis, herpes zoster, sepsis, urinary tract infection, influenza
-- Vascular disorders: hypertension
-- Musculoskeletal and connective tissue disorders: musculoskeletal chest pain
-- Gastrointestinal disorders: pancreatitis
-- Respiratory, thoracic and mediastinal disorders: pulmonary edema
+- Skin and subcutaneous tissue disorders:rash, pruritus
+- Nervous system disorders:paresthesia
+- General disorders and administration site conditions:infusion reaction, chills
+- Cardiac disorders:cardiac failure Cardiac failure includes cardiac dysfunction, cardiac failure, cardiac failure congestive, cardiovascular insufficiency, diastolic dysfunction, pulmonary edema, and left ventricular dysfunction occurred in 11% of patients., cardiac arrest
+- Metabolism and nutrition disorders:hyperglycemia, hypocalcemia, dehydration
+- Infections:bronchitis, herpes zoster, sepsis, urinary tract infection, influenza
+- Vascular disorders:hypertension
+- Musculoskeletal and connective tissue disorders:musculoskeletal chest pain
+- Gastrointestinal disorders:pancreatitis
+- Respiratory, thoracic and mediastinal disorders:pulmonary edema
 
-Table 17 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in ANDROMEDA.
+Table 20 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO in ANDROMEDA.
 
-Table 17: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) in ANDROMEDA
+Table 20: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd) in ANDROMEDA
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -461,26 +549,13 @@ Serious cardiac disorders in >2% of patients included cardiac failure (8%), card
 Fatal cardiac disorders occurred in 10% of patients (5% of patients with Mayo Cardiac Stage I and II and 19% of patients with Stage III) who received DARZALEX FASPRO in combination with VCd.
 Fatal cardiac disorders that occurred in more than one patient in the DARZALEX FASPRO-VCd arm included cardiac arrest (4%), sudden death (3%), and cardiac failure (3%).
 
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is the potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other daratumumab products or other hyaluronidase products may be misleading.
-
-In patients with multiple myeloma and light chain (AL) amyloidosis who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, less than 1% of 819 patients developed treatment-emergent anti-daratumumab antibodies.
-
-In patients with multiple myeloma and light chain (AL) amyloidosis who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 7% of 812 patients developed treatment-emergent anti-rHuPH20 antibodies.
-The anti-rHuPH20 antibodies did not appear to affect daratumumab exposure.
-None of the patients who tested positive for anti-rHuPH20 antibodies tested positive for neutralizing antibodies.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified with post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System: Anaphylactic reaction, Systemic administration reactions (including death)
 
-Gastrointestinal: Pancreatitis
+Gastrointestinal:Pancreatitis
 
-Infections: Cytomegalovirus, Listeriosis
+Infections:Cytomegalovirus, Listeriosis

@@ -3,14 +3,14 @@
 ## 5.1 Hypersensitivity and Other Administration Reactions
 
 Both systemic administration-related reactions, including severe or life-threatening reactions, and local injection-site reactions can occur with DARZALEX FASPRO.
-Fatal reactions have been reported with daratumumab-containing products, including DARZALEX FASPRO [see Adverse Reactions (6.3)].
+Fatal reactions have been reported with daratumumab-containing products, including DARZALEX FASPRO [see Adverse Reactions (6.2)].
 
 Systemic Reactions
 
-In a pooled safety population of 898 patients with multiple myeloma (N=705) or light chain (AL) amyloidosis (N=193) who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 9% of patients experienced a systemic administration-related reaction (Grade 2: 3.2%, Grade 3: 1%).
-Systemic administration-related reactions occurred in 8% of patients with the first injection, 0.3% with the second injection, and cumulatively 1% with subsequent injections.
-The median time to onset was 3.2 hours (range: 4 minutes to 3.5 days).
-Of the 140 systemic administration-related reactions that occurred in 77 patients, 121 (86%) occurred on the day of DARZALEX FASPRO administration.
+In a pooled safety population of 1249 patients with multiple myeloma (N=1056) or light chain (AL) amyloidosis (N=193) who received DARZALEX FASPRO as monotherapy or as part of a combination therapy, 7% of patients experienced a systemic administration-related reaction (Grade 2: 3.2%, Grade 3: 0.7%, Grade 4: 0.1%).
+Systemic administration-related reactions occurred in 7% of patients with the first injection, 0.2% with the second injection, and cumulatively 1% with subsequent injections.
+The median time to onset was 2.9 hours (range: 5 minutes to 3.5 days).
+Of the 165 systemic administration-related reactions that occurred in 93 patients, 144 (87%) occurred on the day of DARZALEX FASPRO administration.
 Delayed systemic administration-related reactions have occurred in 1% of the patients.
 
 Severe reactions include hypoxia, dyspnea, hypertension, and tachycardia, and ocular adverse reactions, including choroidal effusion, acute myopia, and acute angle closure glaucoma.
@@ -26,7 +26,7 @@ If ocular symptoms occur, interrupt DARZALEX FASPRO and seek immediate ophthalmo
 
 Local Reactions
 
-In this pooled safety population, injection-site reactions occurred in 8% of patients, including Grade 2 reactions in 0.7%.
+In this pooled safety population, injection-site reactions occurred in 7% of patients, including Grade 2 reactions in 0.8%.
 The most frequent (>1%) injection-site reaction was injection site erythema.
 These local reactions occurred a median of 5 minutes (range: 0 minutes to 6.5 days) after starting administration of DARZALEX FASPRO.
 Monitor for local reactions and consider symptomatic management.
