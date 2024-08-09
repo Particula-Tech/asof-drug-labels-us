@@ -2,24 +2,36 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-Esmolol hydrochloride has been shown to produce increased fetal resorptions with minimal maternal toxicity in rabbits when given in doses approximately 8 times the maximum human maintenance dose (300 mcg/kg/min).
-There are no adequate and well-controlled studies in pregnant women.
-Esmolol hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Available data from published case reports, case series and clinical studies over decades of use with Esmolol during pregnancy are insufficient to identify a drug-associated risk of major birth defects, miscarriage, or adverse maternal outcomes.
+Esmolol use in the last trimester of pregnancy or during labor or delivery has been reported to cause fetal bradycardia, which continued after termination of the drug infusion (see Clinical Considerations).
+In animal reproductive studies, administration of esmolol hydrochloride to pregnant rats during the period of organogenesis did not demonstrate embryotoxicity or teratogenicity at doses up to approximately 1.6 times the maximum human maintenance dose (300 mcg/kg/min).
+In rabbits, intravenous administration of esmolol hydrochloride at approximately 2.7 times the maximum human maintenance dose (300 mcg/kg/min) during organogenesis produced minimal maternal toxicity and increased fetal resorptions (see Data).
 
-Teratogenicity studies in rats at intravenous dosages of esmolol hydrochloride up to 3000 mcg/kg/min (10 times the maximum human maintenance dosage) for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while a dosage of 10,000 mcg/kg/min produced maternal toxicity and lethality.
-In rabbits, intravenous dosages up to 1000 mcg/kg/min for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while 2500 mcg/kg/min produced minimal maternal toxicity and increased fetal resorptions.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Clinical Considerations
 
-Although there are no adequate and well-controlled studies in pregnant women, use of esmolol in the last trimester of pregnancy or during labor or delivery has been reported to cause fetal bradycardia, which continued after termination of drug infusion.
-Esmolol hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Fetal/Neonatal Adverse Reactions
 
-## 8.3 Nursing Mothers
+Esmolol use in the last trimester of pregnancy or during labor or delivery has been reported to cause fetal bradycardia, which continued after termination of the drug infusion.
+Because of hypotension to the mother, monitor the pregnant woman for decreased uterine blood flow and resulting fetal hypoxia.
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from esmolol hydrochloride, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Data
+
+Animal Data
+
+In animal reproduction studies, administration of esmolol during organogenesis, in the rat study did not demonstrate embryotoxicity or teratogenicity in doses up to 3,000 mcg (3 mg)/kg/min for 30 min. Based on body surface area, this dose is approximately 1.6 times the maximum human maintenance dose (300 mcg/kg/min).
+In rabbits, intravenous dosage of 2,500 mcg (2.5 mg)/kg/min during organogenesis, produced minimal maternal toxicity and increased fetal resorptions, which is approximately 2.7 times the maximum human maintenance dose (300 mcg/kg/min).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of esmolol or its metabolite in either human or animal milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
+Consider the developmental and health benefits of breastfeeding along with the mother’s clinical need for esmolol and any potential adverse effects on the breastfed infant from esmolol hydrochloride or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

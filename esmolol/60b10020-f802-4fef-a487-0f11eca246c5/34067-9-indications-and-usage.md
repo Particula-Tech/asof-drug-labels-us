@@ -2,7 +2,7 @@
 
 ## 1.1 Supraventricular Tachycardia or Noncompensatory Sinus Tachycardia
 
-Esmolol hydrochloride is indicated for the rapid control of ventricular rate in patients with atrial fibrillation or atrial flutter in perioperative, postoperative, or other emergent circumstances where short term control of ventricular rate with a short-acting agent is desirable.
+Esmolol hydrochloride is indicated for the rapid control of ventricular rate in patients with atrial fibrillation or atrial flutter in perioperative, postoperative, or other emergent circumstances where short term control of ventricular rate is desirable.
 
 Esmolol hydrochloride is also indicated in noncompensatory sinus tachycardia where, in the physician’s judgment, the rapid heart rate requires specific intervention.
 Esmolol hydrochloride is intended for short-term use.
