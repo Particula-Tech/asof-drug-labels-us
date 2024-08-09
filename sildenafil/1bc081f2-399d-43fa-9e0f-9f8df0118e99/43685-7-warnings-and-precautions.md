@@ -39,7 +39,7 @@ It is not possible to determine whether these reported events are related direct
 
 Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking PDE-5 inhibitors, including sildenafil tablets.
 
-## 5.6 Combination with Other PDE-5 inhibitors
+## 5.6 Combination with Other PDE-5 Inhibitors
 
 Sildenafil is also marketed as VIAGRA®.
 The safety and efficacy of combinations of sildenafil tablets with VIAGRA or other PDE-5 inhibitors have not been studied.
