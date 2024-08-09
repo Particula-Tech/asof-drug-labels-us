@@ -61,8 +61,8 @@ Table 7: Patients with Endoscopic Healing of Erosive Esophagitis - U.S. Study (N
 
 |  | PEPCID40 mg twice daily (N=127) | PEPCID20 mg twice daily (N=125) | Placebotwice daily (N=66) |
 | --- | --- | --- | --- |
-| Week 6 | 48%p≤0.01 vs. PEPCID 20 mg twice daily | 32% | 18% |
-| Week 12 | 69%p≤0.05 vs. PEPCID 20 mg twice daily | 54% | 29% |
+| Week 6 | 48%p≤0.01 vs. placebo≤0.01 vs. PEPCID 20 mg twice daily | 32% | 18% |
+| Week 12 | 69%≤0.05 vs. PEPCID 20 mg twice daily | 54% | 29% |
 
 As compared to placebo, patients in the U.S. trial who received PEPCID had faster relief of daytime and nighttime heartburn, and a greater percentage of PEPCID-treated patients experienced complete relief of nighttime heartburn.
 These differences were statistically significant.
