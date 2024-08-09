@@ -1,10 +1,11 @@
-FDA-Approved Patient Labeling
-
-PREMARIN® (prem-uh-rin) (Conjugated estrogens) Vaginal Cream
+FDA-Approved Patient Labeling PREMARIN® (prem-uh-rin) (Conjugated estrogens) Vaginal Cream
 
 Read this PATIENT INFORMATION before you start using PREMARIN Vaginal Cream and read what you get each time you refill your PREMARIN Vaginal Cream prescription.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
+
+| What is the most important information I should know about PREMARIN Vaginal Cream (an estrogen mixture)? •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb) Report any unusual vaginal bleeding right away while you are using PREMARIN Vaginal Cream. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function)•Using estrogen-alone may increase your chances of getting strokes or blood clots•Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years of age or older•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years of age or older•You and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN Vaginal Cream |
+| --- |
 
 What is PREMARIN Vaginal Cream?
 
@@ -57,26 +58,26 @@ PREMARIN Vaginal Cream is a cream that you place in your vagina with the applica
 | Figure A |
 | --- |
 
-- •Step 3.
-  Gently squeeze tube from the bottom to force sufficient cream into the barrel to provide the prescribed dose.
-  Use the marked stopping points on the applicator to measure the correct dose, as prescribed by your healthcare provider (Figure B).
+1. Step 3.
+   Gently squeeze tube from the bottom to force sufficient cream into the barrel to provide the prescribed dose.
+   Use the marked stopping points on the applicator to measure the correct dose, as prescribed by your healthcare provider (Figure B).
 
 | Figure B |
 | --- |
 
-- •Step 4.
-  Unscrew applicator from tube.
-- •Step 5.
-  Lie on back with knees drawn up.
-  To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position (Figure C).
+1. Step 4.
+   Unscrew applicator from tube.
+2. Step 5.
+   Lie on back with knees drawn up.
+   To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position (Figure C).
 
 | Figure C |
 | --- |
 
-- Step 6.
-  TO CLEANSE: Pull plunger to remove it from barrel.
-  Wash with mild soap and warm water (Figure D).
-- DO NOT BOIL OR USE HOT WATER.
+1. Step 6.
+   TO CLEANSE: Pull plunger to remove it from barrel.
+   Wash with mild soap and warm water (Figure D).
+2. DO NOT BOIL OR USE HOT WATER.
 
 | Figure D |
 | --- |
@@ -163,4 +164,4 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0519-7.0 Rev 02/2024
+LAB-0519-7.0 Revised 02/2024

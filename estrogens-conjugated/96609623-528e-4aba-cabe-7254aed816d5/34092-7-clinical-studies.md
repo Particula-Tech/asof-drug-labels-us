@@ -39,9 +39,9 @@ Results of the estrogen-alone substudy, which included 10,739 women (average 63 
 Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
-| Absolute Risk per 10,000 Women-Years |  |  |  |
-| --- | --- | --- | --- |
 | Event | Relative Risk CE vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE n = 5,310 | Placebo n = 5,429 |
+| --- | --- | --- | --- |
+| Absolute Risk per 10,000 Women-Years |  |  |  |
 | CHD eventsResults are based on centrally adjudicated data for an average follow-up of 7.1 years. | 0.95 (0.78–1.16) | 54 | 57 |
 | Non-fatal MI | 0.91 (0.73–1.14) | 40 | 43 |
 | CHD death | 1.01 (0.71–1.43) | 16 | 16 |
@@ -84,9 +84,9 @@ These results reflect centrally adjudicated data after an average follow-up of 5
 Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
-| Absolute Risk per 10,000 Women-Years |  |  |  |
-| --- | --- | --- | --- |
 | Event | Relative Risk CE/MPA vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPA n = 8,506 | Placebo n = 8,102 |
+| --- | --- | --- | --- |
+| Absolute Risk per 10,000 Women-Years |  |  |  |
 | CHD events | 1.23 (0.99–1.53) | 41 | 34 |
 | Non-fatal MI | 1.28 (1.00–1.63) | 31 | 25 |
 | CHD death | 1.10 (0.70–1.75) | 8 | 8 |
