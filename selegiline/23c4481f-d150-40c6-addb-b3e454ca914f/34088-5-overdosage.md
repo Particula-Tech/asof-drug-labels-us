@@ -2,7 +2,7 @@
 
 Selegiline No specific information is available about clinically significant overdoses with selegiline.
 However, experience gained during selegiline’s development reveals that some individuals exposed to doses of 600 mg of d,l-selegiline suffered severe hypotension and psychomotor agitation.
-Since the selective inhibition of MAO B by selegiline hydrochloride is achieved only at doses in the range recommended for the treatment of Parkinson’s disease (e.g., 10 mg/day), overdoses are likely to cause significant inhibition of both MAO A and MAO B. Consequently, the signs and symptoms of overdose may resemble those observed with marketed non-selective MAO inhibitors [e.g., tranylcypromine, isocarboxazide, and phenelzine.
+Since the selective inhibition of MAO B by selegiline hydrochloride is achieved only at doses in the range recommended for the treatment of Parkinson’s disease (e.g., 10 mg/day), overdoses are likely to cause significant inhibition of both MAO A and MAO B. Consequently, the signs and symptoms of overdose may resemble those observed with marketed non-selective MAO inhibitors [e.g., tranylcypromine, isocarboxazide, and phenelzine].
 Overdose with Non-Selective MAO Inhibition NOTE: This section is provided for reference; it does not describe events that have actually been observed with selegiline in overdose.
 Characteristically, signs and symptoms of non-selective MAOI overdose may not appear immediately.
 Delays of up to 12 hours between ingestion of drug and the appearance of signs may occur.

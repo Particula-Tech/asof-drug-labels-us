@@ -1,6 +1,5 @@
 # ADVERSE REACTIONS
 
-To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 Introduction The number of patients who received selegiline in prospectively monitored pre-marketing studies is limited.
 While other sources of information about the use of selegiline are available (e.g., literature reports, foreign post-marketing reports, etc.) they do not provide the kind of information necessary to estimate the incidence of adverse events.
 Thus, overall incidence figures for adverse reactions associated with the use of selegiline cannot be provided.
@@ -27,4 +26,4 @@ Skin and Appendages increased sweating, diaphoresis, facial hair, hair loss, hem
 Miscellaneous asthma, diplopia, shortness of breath, speech affected.
 Post-marketing Reports The following experiences were described in spontaneous post-marketing reports.
 These reports do not provide sufficient information to establish a clear causal relationship with the use of selegiline.
-CNS Seizure in dialyzed chronic renal failure patient on concomitant medications. * indicates events reported only at doses greater than 10 mg/day
+CNS Seizure in dialyzed chronic renal failure patient on concomitant medications. * indicates events reported only at doses greater than 10 mg/day To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc., at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

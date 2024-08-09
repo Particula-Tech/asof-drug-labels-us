@@ -8,5 +8,5 @@ They are supplied as: Bottles of 60 capsules.
 Keep this medication and all medications out of reach of children.
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in USA Rev.
-03/20 554201 PIR65950-00
+Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Rev.
+07/24 554202 PIR65950-01

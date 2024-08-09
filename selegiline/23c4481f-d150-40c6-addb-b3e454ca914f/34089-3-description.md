@@ -2,7 +2,7 @@
 
 Selegiline hydrochloride, USP is a levorotatory acetylenic derivative of phenethylamine.
 It is commonly referred to in the clinical and pharmacological literature as l-deprenyl.
-The chemical name is: (R)-(-)-N α-dimethyl-N-2- propynylphenethylamine hydrochloride.
+The chemical name is: (R)-(-)-N α-Dimethyl-N-2-propynylphenethylamine hydrochloride.
 It is a white to near white crystalline powder, freely soluble in water, chloroform, and methanol, and has a molecular weight of 223.75.
 The molecular formula is C13H17N·HCl and the structural formula is as follows:
 

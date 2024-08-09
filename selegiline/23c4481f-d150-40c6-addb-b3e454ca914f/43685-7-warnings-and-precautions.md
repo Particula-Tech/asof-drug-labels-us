@@ -6,19 +6,19 @@ The selectivity of selegiline for MAO-B may not be absolute even at the recommen
 Rare cases of hypertensive reactions associated with ingestion of tyramine-containing foods have been reported in patients taking the recommended daily dose of selegiline.
 The selectivity is further diminished with increasing daily doses.
 The precise dose at which selegiline becomes a non-selective inhibitor of all MAO is unknown, but may be in the range of 30 to 40 mg a day.
-Severe CNS toxicity associated with hyperpyrexia and death have been reported with the combination of tricyclic antidepressants and non-selective MAOIs (Phenelzine, Tranylcypromine.).
+Severe CNS toxicity associated with hyperpyrexia and death have been reported with the combination of tricyclic antidepressants and non-selective MAOIs (Phenelzine, Tranylcypromine).
 A similar reaction has been reported for a patient on amitriptyline and selegiline.
 Another patient receiving protriptyline and selegiline developed tremors, agitation, and restlessness followed by unresponsiveness and death two weeks after selegiline was added.
 Related adverse events including hypertension, syncope, asystole, diaphoresis, seizures, changes in behavioral and mental status, and muscular rigidity have also been reported in some patients receiving selegiline and various tricyclic antidepressants.
 Serious, sometimes fatal, reactions with signs and symptoms that may include hyperthermia, rigidity, myoclonus, autonomic instability with rapid fluctuations of the vital signs, and mental status changes that include extreme agitation progressing to delirium and coma have been reported with patients receiving a combination of fluoxetine hydrochloride and non-selective MAOIs.
-Similar signs have been reported in some patients on the combination of selegiline (10 mg a day) and selective serotonin ruptake inhibitors including fluoxetine, sertraline and paroxetine.
+Similar signs have been reported in some patients on the combination of selegiline (10 mg a day) and selective serotonin reuptake inhibitors including fluoxetine, sertraline and paroxetine.
 Since the mechanisms of these reactions are not fully understood, it seems prudent, in general, to avoid this combination of selegiline and tricyclic antidepressants as well as selegiline and selective serotonin reuptake inhibitors.
 At least 14 days should elapse between discontinuation of selegiline and initiation of treatment with a tricyclic antidepressant or selective serotonin reuptake inhibitors.
 Because of the long half-lives of fluoxetine and its active metabolite, at least five weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should elapse between discontinuation of fluoxetine and initiation of treatment with selegiline.
 
 # PRECAUTIONS
 
-General Some patients given selegiline may experience an exacerbation of levodopa associated side effects, pre-sumably due to the increased amounts of dopamine reaction with super sensitive, post-synaptic receptors.
+General Some patients given selegiline may experience an exacerbation of levodopa associated side effects, presumably due to the increased amounts of dopamine reaction with super sensitive, post-synaptic receptors.
 These effects may often be mitigated by reducing the dose of levodopa/carbidopa by approximately 10 to 30%.
 The decision to prescribe selegiline should take into consideration that the MAO system of enzymes is complex and incompletely understood and there is only a limited amount of carefully documented clinical experience with selegiline.
 Consequently, the full spectrum of possible responses to selegiline may not have been observed in pre-marketing evaluation of the drug.

@@ -36,7 +36,7 @@ It is important to note that attempts to treat Parkinsonian patients with combin
 Pharmacokinetic Information (Absorption, Distribution, Metabolism and Elimination-ADME) The absolute bioavailability of selegiline following oral dosing is not known; however, selegiline undergoes extensive metabolism (presumably attributable to presystemic clearance in gut and liver).
 The major plasma metabolites are N-desmethylselegiline, L-amphetamine and L-methamphetamine.
 Only N-desmethylselegiline has MAO-B inhibiting activity.
-The peak plasma levels of these metabo- lites following a single oral dose of 10 mg are from 4 to almost 20 times greater than that of the maximum plasma concentration of selegiline [1 ng/mL].
+The peak plasma levels of these metabolites following a single oral dose of 10 mg are from 4 to almost 20 times greater than that of the maximum plasma concentration of selegiline [1 ng/mL].
 The maximum concentrations of amphetamine and methamphetamine, however, are far below those ordinarily expected to produce clinically important effects.
 Single oral dose studies do not predict multiple dose kinetics, however, at steady state the peak plasma level of selegiline is 4 fold that obtained following a single dose.
 Metabolite concentrations increase to a lesser extent, averaging 2 fold that seen after a single dose.
@@ -47,7 +47,7 @@ Following a single oral dose, the mean elimination half-life of selegiline is tw
 Under steady state conditions the elimination half-life increases to ten hours.
 Because selegiline’s inhibition of MAO-B is irreversible, it is impossible to predict the extent of MAO-B inhibition from steady state plasma levels.
 For the same reason, it is not possible to predict the rate of recovery of MAO-B activity as a function of plasma levels.
-The recovery of MAO-B activity is a function of de novo protein synthesis; however, information about the rate of de novo protein syn- thesis is not yet available.
+The recovery of MAO-B activity is a function of de novo protein synthesis; however, information about the rate of de novo protein synthesis is not yet available.
 Although platelet MAO-B activity returns to the normal range within 5 to 7 days of selegiline discontinuation, the linkage between platelet and brain MAO-B inhibition is not fully understood nor is the relationship of MAO-B inhibition to the clinical effect established (see CLINICAL PHARMACOLOGY).
 Special Populations Renal Impairment No pharmacokinetic information is available on selegiline or its metabolites in renally impaired subjects.
 Hepatic Impairment No pharmacokinetic information is available on selegiline or its metabolites in hepatically impaired subjects.
