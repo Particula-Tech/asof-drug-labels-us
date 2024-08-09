@@ -36,9 +36,9 @@ KwikPen®
 
 For Single Patient Use Only
 
-Needles not included
-
 Dispense in this sealed carton.
+
+Needles not included
 
 100 units per mL (U-100)
 
