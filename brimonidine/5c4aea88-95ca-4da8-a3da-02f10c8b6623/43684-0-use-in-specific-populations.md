@@ -17,7 +17,7 @@ Because of the potential for serious adverse reactions from brimonidine tartrate
 
 ## 8.4 Pediatric Use
 
-Brimonidine tartrate ophthalmic solution 0.1% and 0.15% is contraindicated in children under the age of 2 years (see CONTRAINDICATIONS, 4.1).
+Brimonidine tartrate ophthalmic solution 0.1% and 0.15% is contraindicated in children under the age of 2 years [see Contraindications (4.1)].
 During postmarketing surveillance, apnea, bradycardia, coma, hypotension, hypothermia, hypotonia, lethargy, pallor, respiratory depression, and somnolence have been reported in infants receiving brimonidine.
 The safety and effectiveness of brimonidine tartrate have not been studied in children below the age of 2 years.
 
