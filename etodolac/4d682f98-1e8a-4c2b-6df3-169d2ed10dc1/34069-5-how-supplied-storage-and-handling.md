@@ -14,14 +14,14 @@ Store at 20째C to 25째C (68째F to 77째F); excursions permitted from 15째C to 30�
 
 Dispense in a tight, light-resistant container [see USP].
 
-Dispense with Medication Guide available at www1.apotex.com/products/us
+Dispense with Medication Guide available at https://www.apotex.com/products/us/mg.asp
 
 APOTEX INC. ETODOLAC TABLETS, USP 400 mg and 500 mg
 
-| Manufactured by Apotex Inc.Toronto, OntarioCanada M9L 1T9 | Manufactured forApotex Corp.Weston, Florida33326 |
+| Manufactured by Apotex Inc.Toronto, OntarioCanada M9L 1T9 | Manufactured forApotex Corp.Weston, FloridaUSA, 33326 |
 | --- | --- |
 
-Revised: December 2021
+Revised: August 2024
 
 Rev.
-9
+10

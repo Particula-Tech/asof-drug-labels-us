@@ -1,6 +1,6 @@
 Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-Medication Guide available at www1.apotex.com/products/us
+Medication Guide available at https://www.apotex.com/products/us/mg.asp
 
 What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
 
@@ -118,7 +118,7 @@ You can ask your pharmacist or healthcare provider for information about NSAIDs 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-| Manufactured by Apotex Inc.Toronto, OntarioCanada M9L 1T9 | Manufactured forApotex Corp.Weston, Florida33326 |
+| Manufactured by Apotex Inc.Toronto, OntarioCanada M9L 1T9 | Manufactured forApotex Corp.Weston, FloridaUSA, 33326 |
 | --- | --- |
 
-Revised: December 2021
+Revised: August 2024

@@ -33,9 +33,12 @@ Mean (CV%)† Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults an
 | Oral Clearance, mL/h/kg (CL/F) | 49.1 (33%) | 49.4 (33%) | 35.7 (28%) | 45.7 (27%) | N/A | N/A | 58.3 (19%) | 42.0 (43%) |
 | Apparent Volume of Distribution, mL/kg (Vd/F) | 393 (29%) | 394 (29%) | 300 (8%) | 414 (38%) | N/A | N/A | N/A | N/A |
 | Terminal Half-Life, h | 6.4 (22%) | 6.4 (22%) | 7.9 (35%) | 6.5 (24%) | 5.1 (22%) | 7.5 (34%) | N/A | 5.7 (24%) |
-| †% Coefficient of variation |  |  |  |  |  |  |  |  |
-| *Age Range (years) |  |  |  |  |  |  |  |  |
-| N/A = not available |  |  |  |  |  |  |  |  |
+
+† % Coefficient of variation
+
+* Age Range (years)
+
+N/A = not available
 
 ### Distribution
 

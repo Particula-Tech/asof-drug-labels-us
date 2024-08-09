@@ -76,11 +76,14 @@ This symptom complex typically occurs in asthmatic patients who experience rhini
 Fatal reactions have been reported in such patients (see CONTRAINDICATIONS and PRECAUTIONS, General, Pre-existing Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
-Skin Reactions
+Serious Skin Reactions
 
-NSAIDs, including etodolac, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including etodolac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of etodolac tablets at the first appearance of skin rash or any other sign of hypersensitivity.
+Etodolac tablet is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -91,12 +94,15 @@ Other clinical manifestations may include hepatitis, nephritis, hematological ab
 Sometimes symptoms of DRESS may resemble an acute viral infection.
 Eosinophilia is often present.
 Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, discontinue etodolac and evaluate the patient immediately.
 
 Fetal Toxicity
 
-Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs, including etodolac, in pregnant women at about 30 weeks gestation and later.
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including etodolac, in pregnant women at about 30 weeks gestation and later.
 NSAIDs including etodolac, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
 
 Oligohydramnios/Neonatal Renal Impairment:
@@ -175,7 +181,9 @@ Patients should be informed of the signs of an anaphylactoid reaction (e.g., dif
 If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
 
 7.
-Fetal Toxicity Inform pregnant women to avoid use of etodolac and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+Fetal Toxicity
+
+Inform pregnant women to avoid use of etodolac and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
 If treatment with etodolac is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy].
 
 ## Laboratory Tests
@@ -241,7 +249,7 @@ These levels then remained stable for up to 1 year of therapy.
 
 No carcinogenic effect of etodolac was observed in mice or rats receiving oral doses of 15 mg/kg/day (45 to 89 mg/m2, respectively) or less for periods of 2 years or 18 months, respectively.
 Etodolac was not mutagenic in in vitro tests performed with S. typhimurium and mouse lymphoma cells as well as in an in vivo mouse micronucleus test.
-However, data from the in vitro human peripheral lymphocyte test showed an increase in the number of gaps (3.0 to 5.3% unstained regions in the chromatid without dislocation) among the etodolac-treated cultures (50 to 200 mcg/mL) compared to negative controls (2.0%); no other difference was noted between the controls and drug-treated groups.
+However, data from the in vitro human peripheral lymphocyte test showed an increase in the number of gaps (3 to 5.3% unstained regions in the chromatid without dislocation) among the etodolac-treated cultures (50 to 200 mcg/mL) compared to negative controls (2%); no other difference was noted between the controls and drug-treated groups.
 Etodolac showed no impairment of fertility in male and female rats up to oral doses of 16 mg/kg (94 mg/m2).
 However, reduced implantation of fertilized eggs occurred in the 8 mg/kg group.
 
@@ -271,7 +279,7 @@ Prostaglandins also have been shown to have an important role in fetal kidney de
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -283,7 +291,7 @@ Oligohydramnios/Neonatal Renal Impairment
 
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If etodolac treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
-If oligohydramnios occurs, discontinue etodolac and follow up according to clinical practice (see WARNINGS; Fetal Toxicity).
+If oligohydramnios occurs, discontinue etodolac and follow up according to clinical practice (seeWARNINGS; Fetal Toxicity).
 
 Data
 
