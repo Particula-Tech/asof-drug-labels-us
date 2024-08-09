@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050065"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-070-38"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "neomycin sulfate, polymyxin b sulfate and dexamethasone",
+      "name": "MAXITROL"
+    }
+  ],
+  "setid": "5776c435-ac60-49b6-8db1-23a3012b9155",
+  "source": "dailymed"
+}
