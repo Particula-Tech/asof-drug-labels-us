@@ -12,6 +12,8 @@ NDC 29300-124-19; Bottles of 90
 
 NDC 29300-124-01; Bottles of 100
 
+NDC 29300-124-05; Bottles of 500
+
 NDC 29300-124-10; Bottles of 1,000
 
 NDC 29300-124-50; Bottles of 5,000
@@ -24,11 +26,13 @@ NDC 29300-125-19; Bottles of 90
 
 NDC 29300-125-01; Bottles of 100
 
+NDC 29300-125-05; Bottles of 500
+
 NDC 29300-125-10; Bottles of 1,000
 
 NDC 29300-125-50; Bottles of 5,000
 
-Storage Store at 200 to 250C (680 to 770F) [see USP Controlled Room Temperature].
+Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Keep Meloxicam Tablets USP in a dry place
 
 Dispense tablets in a tight container.

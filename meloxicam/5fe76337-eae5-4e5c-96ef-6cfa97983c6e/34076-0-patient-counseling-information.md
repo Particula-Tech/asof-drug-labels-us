@@ -31,7 +31,7 @@ Instruct patients to seek immediate emergency help if these occur [see Contraind
 
 Serious Skin Reactions including DRESS
 
-Advise patients to stop taking Meloxicam tablets immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
+Advise patients to stop taking Meloxicam tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Female Fertility
 
@@ -65,6 +65,6 @@ Manufactured for:
 
 East Brunswick, NJ 08816
 
-11-R-10/2021
+12-R-07/2024
 
-13013588
+13015145
