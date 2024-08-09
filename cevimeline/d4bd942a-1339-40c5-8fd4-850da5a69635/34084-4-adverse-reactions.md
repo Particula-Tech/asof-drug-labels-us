@@ -4,7 +4,6 @@ Cevimeline was administered to 1777 patients during clinical trials worldwide, i
 In placebo-controlled Sjögren’s studies in the U.S., 320 patients received cevimeline doses ranging from 15 mg tid to 60 mg tid, of whom 93% were women and 7% were men.
 Demographic distribution was 90% Caucasian, 5% Hispanic, 3% Black and 2% of other origin.
 In these studies, 14.6% of patients discontinued treatment with cevimeline due to adverse events.
-To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 The following adverse events associated with muscarinic agonism were observed in the clinical trials of cevimeline in Sjögren’s syndrome patients:
 
 | Adverse Event | Cevimeline 30 mg (tid) nn is the total number of patients exposed to the dose at any time during the study.= 533 | Placebo (tid) n= 164 |
@@ -48,23 +47,23 @@ In addition, the following adverse events (≥3% incidence) were reported in the
 | Rigors | 1.3% | 1.2% |
 | Anxiety | 1.3% | 1.2% |
 
-The following events were reported in Sjögren’s patients at incidences of <3% and ≥1%: constipation, tremor, abnormal vision, hypertonia, peripheral edema, chest pain, myalgia, fever, anorexia, eye pain, earache, dry mouth, vertigo, salivary gland pain,pruritus, influenza- like symptoms, eye infection, post-operative pain, vaginitis, skin disorder, depression, hiccup, hyporeflexia, infection, fungal infection, sialoadenitis, otitis media, erythematous rash, pneumonia, edema, salivary gland enlargement, allergy, gastroesophageal reflux, eye abnormality, migraine, tooth disorder, epistaxis, flatulence, toothache, ulcerative stomatitis, anemia, hypoesthesia, cystitis, leg cramps, abscess, eructation, moniliasis, palpitation, increased amylase, xerophthalmia, allergic reaction.
+The following events were reported in Sjögren’s patients at incidences of <3% and ≥1%: constipation, tremor, abnormal vision, hypertonia, peripheral edema, chest pain, myalgia, fever, anorexia, eye pain, earache, dry mouth, vertigo, salivary gland pain, pruritus, influenza- like symptoms, eye infection, post-operative pain, vaginitis, skin disorder, depression, hiccup, hyporeflexia, infection, fungal infection, sialoadenitis, otitis media, erythematous rash, pneumonia, edema, salivary gland enlargement, allergy, gastroesophageal reflux, eye abnormality, migraine, tooth disorder, epistaxis, flatulence, toothache, ulcerative stomatitis, anemia, hypoesthesia, cystitis, leg cramps, abscess, eructation, moniliasis, palpitation, increased amylase, xerophthalmia, allergic reaction.
 
 The following events were reported rarely in treated Sjögren’s patients (<1%): Causal relation is unknown:
 
 Body as a Whole Disorders: aggravated allergy, precordial chest pain, abnormal crying, hematoma, leg pain, edema, periorbital edema, activated pain trauma, pallor, changed sensation temperature, weight decrease, weight increase, choking, mouth edema, syncope, malaise, face edema, substernal chest pain.
 
-Cardiovascular Disorders: abnormal ECG, heart disorder, heart murmur, aggravated hyper- tension, hypotension, arrhythmia,extrasystoles, t wave inversion, tachycardia, supraventricular tachycardia, angina pectoris, myocardial infarction, pericarditis, pulmonary embolism, peripheral ischemia, superficial phlebitis, purpura, deep thrombophlebitis, vascular disorder, vasculitis, hypertension.
+Cardiovascular Disorders: abnormal ECG, heart disorder, heart murmur, aggravated hyper- tension, hypotension, arrhythmia, extrasystoles, t wave inversion, tachycardia, supraventricular tachycardia, angina pectoris, myocardial infarction, pericarditis, pulmonary embolism, peripheral ischemia, superficial phlebitis, purpura, deep thrombophlebitis, vascular disorder, vasculitis, hypertension.
 
 Digestive Disorders: appendicitis, increased appetite, ulcerative colitis, diverticulitis, duodenitis, dysphagia, enterocolitis, gastric ulcer, gastritis, gastroenteritis, gastrointestinal hemorrhage, gingivitis, glossitis, rectum hemorrhage, hemorrhoids, ileus, irritable bowel syndrome, melena, mucositis, esophageal stricture, esophagitis, oral hemorrhage, peptic ulcer, periodontal destruction, rectal disorder, stomatitis, tenesmus, tongue discoloration, tongue disorder, geographic tongue, tongue ulceration, dental caries.
 
 Endocrine Disorders: increased glucocorticoids, goiter, hypothyroidism.
 
-Hematologic Disorders: thrombocytopenic purpura, thrombocythemia, thrombocytopenia, hypochromic anemia, eosinophilia,granulocytopenia, leucopenia, leukocytosis, cervical lymphadenopathy, lymphadenopathy.
+Hematologic Disorders: thrombocytopenic purpura, thrombocythemia, thrombocytopenia, hypochromic anemia, eosinophilia, granulocytopenia, leucopenia, leukocytosis, cervical lymphadenopathy, lymphadenopathy.
 
 Liver and Biliary System Disorders: cholelithiasis, increased gamma-glutamyl transferase, increased hepatic enzymes, abnormal hepatic function, viral hepatitis, increased serum glutamate oxaloacetic transaminase (SGOT) (also called AST-aspartate aminotransferase), increased serum glutamate pyruvate transaminase (SGPT) (also called ALT-alanine amino- transferase).
 
-Metabolic and Nutritional Disorders: dehydration, diabetes mellitus, hypercalcemia, hypercholesterolemia, hyperglycemia,hyperlipemia, hypertriglyceridemia, hyperuricemia, hypoglycemia, hypokalemia, hyponatremia, thirst.
+Metabolic and Nutritional Disorders: dehydration, diabetes mellitus, hypercalcemia, hypercholesterolemia, hyperglycemia, hyperlipemia, hypertriglyceridemia, hyperuricemia, hypoglycemia, hypokalemia, hyponatremia, thirst.
 
 Musculoskeletal Disorders: arthritis, aggravated arthritis, arthropathy, femoral head avascular necrosis, bone disorder, bursitis, costochondritis, plantar fasciitis, muscle weakness, osteomyelitis, osteoporosis, synovitis, tendinitis, tenosynovitis.
 
@@ -97,4 +96,8 @@ cholinergic syndrome, blood pressure fluctuation, cardiomegaly, postural hypoten
 The following adverse reaction has been identified during post-approval use of Cevimeline Hydrochloride.
 Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-POST-MARKETING ADVERSE EVENTS Liver and Biliary System Disorders: cholecystitis
+POST-MARKETING ADVERSE EVENTS
+
+Liver and Biliary System Disorders: cholecystitis
+
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc., at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

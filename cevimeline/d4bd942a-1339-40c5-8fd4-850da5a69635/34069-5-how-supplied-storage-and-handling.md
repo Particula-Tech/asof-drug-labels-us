@@ -11,6 +11,7 @@ Store at 25°C (77°F) excursions permitted to 15°-30°C (59°-86°F) [See USP 
 
 Rx only
 
-Manufactured by: Ingenus Pharmaceuticals NJ, LLC Fairfield, NJ 07004 Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Rx only
+Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-Revised 03/20 551601 PIR65710-00
+Rev.
+07/24 551604 PIR65710-02
