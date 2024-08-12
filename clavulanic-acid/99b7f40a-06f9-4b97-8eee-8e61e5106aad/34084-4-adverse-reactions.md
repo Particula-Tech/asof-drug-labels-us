@@ -4,8 +4,9 @@ The following are discussed in more detail in other sections of the labeling [se
 
 - •Anaphylactic reactions [see Warnings and Precautions (5.1)]
 - •Severe Cutaneous Adverse Reactions (SCAR) [see Warnings and Precautions (5.2)]
-- •Hepatic Dysfunction [see Warnings and Precautions (5.3)]
-- •Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.4)]
+- •Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
+- •Hepatic Dysfunction [see Warnings and Precautions (5.4)]
+- •Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -30,8 +31,7 @@ These events have been chosen for inclusion due to a combination of their seriou
 
 Gastrointestinal
 
-Diarrhea, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
-Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5)].
+Drug-induced enterocolitis syndrome (DIES), black hairy tongue, and hemorrhagic/pseudomembranous colitis.
 
 Immune
 
@@ -39,7 +39,7 @@ Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shoc
 
 Skin and Appendages
 
-Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis [see Warnings and Precautions (5.2)].
+Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis.
 
 Liver
 
@@ -49,7 +49,7 @@ It has been reported more commonly in the elderly, in males, or in patients on p
 The histologic findings on liver biopsy have consisted of cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.
 The hepatic dysfunction, which may be severe, is usually reversible.
-Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.3)].
+Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.4)].
 
 Renal
 
