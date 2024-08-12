@@ -1,6 +1,8 @@
 # WARNINGS
 
-Malignancy Patients receiving immunosuppressants, including azathioprine, are at increased risk of developing lymphoma and other malignancies, particularly of the skin.
+Malignancy
+
+Patients receiving immunosuppressants, including azathioprine, are at increased risk of developing lymphoma and other malignancies, particularly of the skin.
 Physicians should inform patients of the risk of malignancy with azathioprine.
 As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
@@ -64,8 +66,6 @@ Azathioprine has been reported to cause temporary depression in spermatogenesis 
 
 ## Pregnancy
 
-Pregnancy Category D.
-
 Azathioprine tablets can cause fetal harm when administered to a pregnant woman.
 Azathioprine tablets should not be given during pregnancy without careful weighing of risk versus benefit.
 Whenever possible, use of azathioprine tablets in pregnant patients should be avoided.
@@ -73,6 +73,10 @@ This drug should not be used for treating rheumatoid arthritis in pregnant women
 
 Azathioprine tablets are teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
 Abnormalities included skeletal malformations and visceral anomalies.2
+
+Postmarketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in women treated with azathioprine during pregnancy.
+ICP symptoms and evaluated bile acid levels improved following azathioprine discontinuation.
+Discontinue azathioprine tablets if ICP develops in a pregnant woman.
 
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on azathioprine tablets.
 In a detailed case report,4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
@@ -115,7 +119,7 @@ Consider genotyping or phenotyping patients for TPMT deficiency and genotyping f
 TPMT and NUDT15 testing cannot substitute for complete blood count (CBC) monitoring in patients receiving azathioprine.
 Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
 
-## DRUG INTERACTIONS
+## Drug Interactions
 
 Use with xanthine oxidase (XO) inhibitors:
 
@@ -157,7 +161,7 @@ See WARNINGS section.
 
 Teratogenic Effects
 
-Pregnancy Category D. See WARNINGSsection.
+See WARNINGS section.
 
 ## Nursing Mothers
 

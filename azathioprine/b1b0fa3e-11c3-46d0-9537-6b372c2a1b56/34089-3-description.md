@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Azathioprine is an immunosuppressive antimetabolite.
-Each uncoated azathioprine tablet intended for oral administration contains 50 mg of azathioprine.
+Each uncoated azathioprine tablet intended for oral administration contains 25 mg or 50 mg or 75 mg or 100 mg of azathioprine.
 In addition, each tablet contains the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone and starch.
 
 Azathioprine is chemically 6-[(1-methyl-4-nitro-1H-imidazol-5-yl)thio]-1H-purine.
