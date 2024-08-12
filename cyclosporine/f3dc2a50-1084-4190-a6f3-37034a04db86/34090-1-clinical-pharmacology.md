@@ -6,7 +6,7 @@ Cyclosporine has been demonstrated to suppress some humoral immunity and to a gr
 The effectiveness of cyclosporine results from specific and reversible inhibition of immunocompetent lymphocytes in the G0- and G1-phase of the cell cycle.
 T-lymphocytes are preferentially inhibited.
 The T-helper cell is the main target, although the T-suppressor cell may also be suppressed.
-Cyclosporine also inhibits lymphokine production and release including interleukin-2.
+Cyclosporine also inhibits lymphokine production and release, including interleukin-2.
 
 No effects on phagocytic function (changes in enzyme secretions, chemotactic migration of granulocytes, macrophage migration, carbon clearance in vivo) have been detected in animals.
 Cyclosporine does not cause bone marrow suppression in animal models or man.
@@ -21,43 +21,44 @@ The disposition of cyclosporine from blood is generally biphasic, with a termina
 Following intravenous administration, the blood clearance of cyclosporine (assay: HPLC) is approximately 5 to 7 mL/min/kg in adult recipients of renal or liver allografts.
 Blood cyclosporine clearance appears to be slightly slower in cardiac transplant patients.
 
-The Cyclosporine Capsules USP MODIFIED and Cyclosporine Oral Solution USP MODIFIED are bioequivalent.
-Cyclosporine Oral Solution USP MODIFIED diluted with orange juice or apple juice is bioequivalent to Cyclosporine Oral Solution USP MODIFIED diluted with water.
-The effect of milk on the bioavailability of cyclosporine when administered as Cyclosporine Oral Solution USP MODIFIED has not been evaluated.
+The cyclosporine capsules, USP MODIFIED and cyclosporine oral solution, USP MODIFIED are bioequivalent.
+Cyclosporine oral solution, USP MODIFIED diluted with orange juice or apple juice is bioequivalent to cyclosporine oral solution, USP MODIFIED diluted with water.
+The effect of milk on the bioavailability of cyclosporine when administered as cyclosporine oral solution, USP MODIFIED has not been evaluated.
 
 The relationship between administered dose and exposure (area under the concentration versus time curve, AUC) is linear within the therapeutic dose range.
-The intersubject variability (total, %CV) of cyclosporine exposure (AUC) when Cyclosporine Oral Solution USP MODIFIED or Sandimmune (Cyclosporine Oral Solution USP) is administered ranges from approximately 20% to 50% in renal transplant patients.
+The intersubject variability (total, %CV) of cyclosporine exposure (AUC) when cyclosporine oral solution, USP MODIFIED or Sandimmune (cyclosporine oral solution, USP) is administered ranges from approximately 20% to 50% in renal transplant patients.
 This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (see DOSAGE AND ADMINISTRATION).
-Intrasubject variability of AUC in renal transplant recipients (%CV) was 9% to 21% for Cyclosporine Oral Solution USP MODIFIED and 19% to 26% for Sandimmune (Cyclosporine Oral Solution USP).
-In the same studies, intrasubject variability of trough concentrations (%CV) was 17% to 30% for Cyclosporine Oral Solution USP MODIFIED and 16% to 38% for Sandimmune (Cyclosporine Oral Solution USP).
+Intrasubject variability of AUC in renal transplant recipients (%CV) was 9% to 21% for cyclosporine oral solution, USP MODIFIED and 19% to 26% for Sandimmune (cyclosporine oral solution, USP).
+In the same studies, intrasubject variability of trough concentrations (%CV) was 17% to 30% for cyclosporine oral solution, USP MODIFIED and 16% to 38% for Sandimmune (cyclosporine oral solution, USP).
 
 ## Absorption
 
-Cyclosporine Oral Solution USP MODIFIED has increased bioavailability compared to Sandimmune (Cyclosporine Oral Solution USP).
-The absolute bioavailability of cyclosporine administered as Sandimmune (Cyclosporine Oral Solution USP) is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
-The absolute bioavailability of cyclosporine administered as Cyclosporine Oral Solution USP MODIFIED has not been determined in adults.
-In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of Cyclosporine Oral Solution USP MODIFIED compared to following administration of Sandimmune (Cyclosporine Oral Solution USP).
-The dose normalized AUC in de novo liver transplant patients administered Cyclosporine Oral Solution USP MODIFIED 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune (Cyclosporine Oral Solution USP).
-AUC and Cmax are also increased (Cyclosporine Oral Solution USP MODIFIED relative to Sandimmune (Cyclosporine Oral Solution USP)) in heart transplant patients, but data are very limited.
-Although the AUC and Cmax values are higher on Cyclosporine Oral Solution USP MODIFIED relative to Sandimmune (Cyclosporine Oral Solution USP), the predose trough concentrations (dose-normalized) are similar for the two formulations.
+Cyclosporine oral solution, USP MODIFIED has increased bioavailability compared to Sandimmune (cyclosporine oral solution, USP).
+The absolute bioavailability of cyclosporine administered as Sandimmune (cyclosporine oral solution, USP) is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
+The absolute bioavailability of cyclosporine administered as cyclosporine oral solution, USP MODIFIED has not been determined in adults.
+In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of cyclosporine oral solution, USP MODIFIED compared to following administration of Sandimmune (cyclosporine oral solution, USP).
+The dose normalized AUC in de novo liver transplant patients administered cyclosporine oral solution, USP MODIFIED 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune (cyclosporine oral solution, USP).
+AUC and Cmax are also increased (cyclosporine oral solution, USP MODIFIED relative to Sandimmune (cyclosporine oral solution, USP)) in heart transplant patients, but data are very limited.
+Although the AUC and Cmax values are higher on cyclosporine oral solution, USP MODIFIED relative to Sandimmune (cyclosporine oral solution, USP), the predose trough concentrations (dose-normalized) are similar for the two formulations.
 
-Following oral administration of Cyclosporine Oral Solution USP MODIFIED, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2 hours.
-The administration of food with Cyclosporine Oral Solution USP MODIFIED decreases the cyclosporine AUC and Cmax.
-A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before Cyclosporine Oral Solution USP MODIFIED administration decreased the AUC by 13% and Cmax by 33%.
-The effects of a low fat meal (667 kcal, 15 grams fat) were similar.
+Following oral administration of cyclosporine oral solution, USP MODIFIED, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
+The administration of food with cyclosporine oral solution, USP MODIFIED decreases the cyclosporine AUC and Cmax.
+A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before cyclosporine oral solution, USP MODIFIED administration decreased the AUC by 13% and Cmax by 33%.
+The effects of a low-fat meal (667 kcal, 15 grams fat) were similar.
 
-The effect of T-tube diversion of bile on the absorption of cyclosporine from Cyclosporine Oral Solution USP MODIFIED was investigated in eleven de novo liver transplant patients.
-When the patients were administered Cyclosporine Oral Solution USP MODIFIED with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range -55% to 68%).
+The effect of T-tube diversion of bile on the absorption of cyclosporine from cyclosporine oral solution, USP MODIFIED was investigated in eleven de novo liver transplant patients.
+When the patients were administered cyclosporine oral solution, USP MODIFIED with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range 55% to 68%).
 
 Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/ dayTotal daily dose was divided into two doses administered every 12 hours (mg/d) | Dose/ weight (mg/kg/d) | AUCAUC was measured over one dosing interval (ng•hr/mL) | Cmax (ng/mL) | TroughTrough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
+| Patient Population | Dose/ day1 (mg/d) | Dose/ weight (mg/kg/d) | AUC2 (ng•hr/mL) | Cmax (ng/mL) | Trough3 (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| De novo renal transplantAssay: TDx specific monoclonal fluorescence polarization immunoassay Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
-| Stable renal transplant (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
-| De novo liver transplantAssay: Cyclo-trac specific monoclonal radioimmunoassay Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |
-| De novo rheumatoid arthritisAssay: INCSTAR specific monoclonal radioimmunoassay (N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |
-| De novo psoriasis Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |
+| De novo renal transplant4Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
+| Stable renal transplant4(N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
+| De novo liver transplant5Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |
+| De novo rheumatoid arthritis6(N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |
+| De novo psoriasis6Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |
+| 1Total daily dose was divided into two doses administered every 12 hours. 2AUC was measured over one dosing interval.3Trough concentration was measured just prior to the morning Cyclosporine, USP MODIFIED dose, approximately 12 hours after the previous dose.4Assay: TDx specific monoclonal fluorescence polarization immunoassay.5Assay: Cyclo-trac specific monoclonal radioimmunoassay.6Assay: INCSTAR specific monoclonal radioimmunoassay. |  |  |  |  |  |  |  |
 
 ## Distribution
 
@@ -76,8 +77,8 @@ The metabolism of cyclosporine can be altered by the coadministration of a varie
 At least 25 metabolites have been identified from human bile, feces, blood, and urine.
 The biological activity of the metabolites and their contributions to toxicity are considerably less than those of the parent compound.
 The major metabolites (M1, M9, and M4N) result from oxidation at the 1-beta, 9-gamma, and 4-N-demethylated positions, respectively.
-At steady state following the oral administration of Sandimmune (Cyclosporine Oral Solution USP), the mean AUCs for blood concentrations of M1, M9, and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
-Based on blood concentration data from stable renal transplant patients [13 patients administered Cyclosporine Oral Solution USP MODIFIED and Sandimmune (Cyclosporine Oral Solution USP) in a crossover study], and bile concentration data from de novo liver transplant patients (4 administered Cyclosporine Oral Solution USP MODIFIED; 3 administered Sandimmune (Cyclosporine Oral Solution USP)), the percentage of dose present as M1, M9, and M4N metabolites is similar when either Cyclosporine Oral Solution USP MODIFIED or Sandimmune (Cyclosporine Oral Solution USP) is administered.
+At steady state following the oral administration of Sandimmune (cyclosporine oral solution, USP), the mean AUCs for blood concentrations of M1, M9, and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
+Based on blood concentration data from stable renal transplant patients [13 patients administered cyclosporine oral solution, USP MODIFIED and Sandimmune (cyclosporine oral solution, USP) in a crossover study], and bile concentration data from de novo liver transplant patients (4 administered cyclosporine oral solution, USP MODIFIED; 3 administered Sandimmune (cyclosporine oral solution, USP)), the percentage of dose present as M1, M9, and M4N metabolites is similar when either cyclosporine oral solution, USP MODIFIED or Sandimmune (cyclosporine oral solution, USP) is administered.
 
 ## Excretion
 
@@ -87,8 +88,7 @@ Neither dialysis nor renal failure alters cyclosporine clearance significantly.
 
 ## Drug Interactions
 
-(See PRECAUTIONS, Drug Interactions.)
-When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS, Drug Interactions).
+(See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS, Drug Interactions).
 No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
 ## Specific Populations
@@ -107,26 +107,27 @@ Since severe hepatic impairment may result in significantly increased cyclospori
 
 ### Pediatric Population
 
-Pharmacokinetic data from pediatric patients administered Cyclosporine Oral Solution USP MODIFIED or Sandimmune (Cyclosporine Oral Solution USP) are very limited.
-In 15 renal transplant patients aged 3 to 16 years, cyclosporine whole blood clearance after IV administration of Sandimmune (Cyclosporine Oral Solution USP) was 10.6 ± 3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
+Pharmacokinetic data from pediatric patients administered cyclosporine oral solution, USP MODIFIED or Sandimmune (cyclosporine oral solution, USP) are very limited.
+In 15 renal transplant patients aged 3 to 16 years, cyclosporine whole blood clearance after IV administration of Sandimmune (cyclosporine oral solution, USP) was 10.6 ± 3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
 In a study of 7 renal transplant patients aged 2 to 16, the cyclosporine clearance ranged from 9.8 to 15.5 mL/min/kg.
 In 9 liver transplant patients aged 0.6 to 5.6 years, clearance was 9.3 ± 5.4 mL/min/kg (assay: HPLC).
 
-In the pediatric population, Cyclosporine Oral Solution USP MODIFIED also demonstrates an increased bioavailability as compared to Sandimmune (Cyclosporine Oral Solution USP).
-In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of Cyclosporine Oral Solution USP MODIFIED was 43% (range 30% to 68%) and for Sandimmune (Cyclosporine Oral Solution USP) in the same individuals absolute bioavailability was 28% (range 17% to 42%).
+In the pediatric population, cyclosporine oral solution, USP MODIFIED also demonstrates an increased bioavailability as compared to Sandimmune (cyclosporine oral solution, USP).
+In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of cyclosporine oral solution, USP MODIFIED was 43% (range 30% to 68%) and for Sandimmune (cyclosporine oral solution, USP) in the same individuals absolute bioavailability was 28% (range 17% to 42%).
 
 Pediatric Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/ day (mg/d) | Dose/weight (mg/kg/d) | AUCAUC was measured over one dosing interval(ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
+| Patient Population | Dose/ day (mg/d) | Dose/weight (mg/kg/d) | AUC1(ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Stable liver transplantAssay: Cyclo-trac specific monoclonal radioimmunoassay |  |  |  |  |  |  |
+| Stable liver transplant2 |  |  |  |  |  |  |
 | Age 2 to 8, Dosed TID (N = 9) | 101 ± 25 | 5.95 ± 1.32 | 2163 ± 801 | 629 ± 219 | 285 ± 94 | 16.6 ± 4.3 |
-| Age 8 to 15, Dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4 |
-| Stable liver transplantAssay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |
+| Age 8 to 15, Dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4.0 |
+| Stable liver transplant3 |  |  |  |  |  |  |
 | Age 3, Dosed BID (N = 1) | 120 | 8.33 | 5832 | 1050 | 171 | 11.9 |
-| Age 8 to 15, Dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11 ± 1.9 |
-| Stable renal transplant |  |  |  |  |  |  |
+| Age 8 to 15, Dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11.0 ± 1.9 |
+| Stable renal transplant3 |  |  |  |  |  |  |
 | Age 7 to 15, Dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
+| 1AUC was measured over one dosing interval.2Assay: Cyclo-trac specific monoclonal radioimmunoassay.3Assay: TDx specific monoclonal fluorescence polarization immunoassay. |  |  |  |  |  |  |
 
 ### Geriatric Population
 
@@ -136,7 +137,7 @@ Comparison of single dose data from both normal elderly volunteers (N = 18, mean
 
 ### Rheumatoid Arthritis
 
-The effectiveness of Sandimmune (Cyclosporine Oral Solution USP) and Cyclosporine Oral Solution USP MODIFIED in the treatment of severe rheumatoid arthritis was evaluated in 5 clinical studies involving a total of 728 cyclosporine treated patients and 273 placebo treated patients.
+The effectiveness of Sandimmune (cyclosporine oral solution, USP) and cyclosporine oral solution, USP MODIFIED in the treatment of severe rheumatoid arthritis was evaluated in 5 clinical studies involving a total of 728 cyclosporine treated patients and 273 placebo treated patients.
 
 A summary of the results is presented for the “responder” rates per treatment group, with a responder being defined as a patient having completed the trial with a 20% improvement in the tender and the swollen joint count and a 20% improvement in 2 of 4 of investigator global, patient global, disability, and erythrocyte sedimentation rates (ESR) for the Studies 651 and 652 and 3 of 5 of investigator global, patient global, disability, visual analog pain, and ESR for Studies 2008, 654 and 302.
 
@@ -164,7 +165,7 @@ The mean cyclosporine dose at the last visit was 2.8 mg/kg/day (range: 1.3 to 4.
 See graph below.
 
 Study 302 enrolled 299 patients with severe active RA, 99% of whom were unresponsive or intolerant to at least one prior major RA drug.
-Patients were randomized to 1 of 2 treatment groups (1) Cyclosporine Oral Solution USP MODIFIED and (2) cyclosporine, both of which were started at 2.5 mg/kg/day and increased after 4 weeks for inefficacy in increments of 0.5 mg/kg/day to a maximum of 5 mg/kg/day and decreased at any time for toxicity.
+Patients were randomized to 1 of 2 treatment groups (1) cyclosporine oral solution, USP MODIFIED and (2) cyclosporine, both of which were started at 2.5 mg/kg/day and increased after 4 weeks for inefficacy in increments of 0.5 mg/kg/day to a maximum of 5 mg/kg/day and decreased at any time for toxicity.
 Treatment duration was 24 weeks.
-The mean cyclosporine dose at the last visit was 2.91 mg/kg/day (range: 0.72 to 5.17) for Cyclosporine Oral Solution USP MODIFIED and 3.27 mg/kg/day (range: 0.73 to 5.68) for cyclosporine.
+The mean cyclosporine dose at the last visit was 2.91 mg/kg/day (range: 0.72 to 5.17) for cyclosporine oral solution, USP MODIFIED and 3.27 mg/kg/day (range: 0.73 to 5.68) for cyclosporine.
 See graph below.

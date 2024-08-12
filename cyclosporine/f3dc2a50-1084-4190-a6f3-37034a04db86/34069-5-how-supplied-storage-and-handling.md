@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Cyclosporine Oral Solution USP MODIFIED is available as a yellowish to yellow-brown oily liquid containing 100 mg/mL cyclosporine, USP in a 50 mL bottle (NDC 0172-7313-20).
+Cyclosporine oral solution, USP MODIFIED is available as a yellowish to yellow-brown oily liquid containing 100 mg/mL cyclosporine, USP in a 50 mL bottle (NDC 0172-7313-20).
 
 Store and Dispense
 
@@ -12,19 +12,12 @@ This solution, when mixed with juice, may appear cloudy.
 There is no impact on product performance or dosing using the syringe provided.
 Allow to warm to room temperature 25°C (77°F) to reverse these changes.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
-Manufactured In Czech Republic By:
-
-TEVA CZECH INDUSTRIES s.r.o.
-
+Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-F 4/2015
+G 7/2024
