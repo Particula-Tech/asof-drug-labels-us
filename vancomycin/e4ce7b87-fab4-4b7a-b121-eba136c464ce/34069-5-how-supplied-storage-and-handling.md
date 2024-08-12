@@ -3,6 +3,7 @@
 How supplied
 
 Vancomycin Hydrochloride for Injection is a white, almost white to tan to brown, sterile spray-dried powder in Pharmacy Bulk Package vials each containing vancomycin hydrochloride equivalent to 5 g or 10 g of vancomycin base.
+
 The vial stopper is not made with natural rubber latex.
 
 | NDC No. | Strength Unit of Sale |

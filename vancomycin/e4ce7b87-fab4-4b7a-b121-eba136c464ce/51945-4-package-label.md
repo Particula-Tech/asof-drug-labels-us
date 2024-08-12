@@ -28,7 +28,8 @@ READ INSERT FOR PRECAUTIONS AND DIRECTIONS BEFORE USE.
 
 DIRECTIONS FOR USE:
 
-Reconstitute with 45 mL of Sterile Water for Injection to the 5 g vial of dry, sterile vancomycin powder.
+Reconstitute with 47 mL of Sterile Water for Injection to the 5 g vial of dry, sterile vancomycin powder.
+See enclosed package insert for complete reconstitution instruction.
 
 The resultant solution will contain vancomycin 100 mg/mL.
 
@@ -44,7 +45,7 @@ DISCARD VIAL NO LATER THAN 4 HOURS AFTER INITIAL CLOSURE PUNCTURE.
 hikma
 
 Rev.
-3/2023
+2/2024
 
 Sterile.
 Spray dried.
@@ -78,11 +79,13 @@ Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 Linear barcode
 
-(01)103XXXXXXXXXXX
+N3 01439 16301 5
 
 Vial Label
 
 NDC 0143-9163-01
+
+Rx only
 
 Vancomycin Hydrochloride
 
@@ -122,7 +125,8 @@ See package insert for full information.
 
 DIRECTIONS FOR USE:
 
-Reconstitute with 45 mL of Sterile Water for Injection to the 5 g vial of dry, sterile vancomycin powder.
+Reconstitute with 47 mL of Sterile Water for Injection to the 5 g vial of dry, sterile vancomycin powder.
+See enclosed package for complete reconstitution instruction.
 
 The resultant solution will contain vancomycin 100 mg/mL.
 
@@ -154,7 +158,7 @@ Berkeley Heights, NJ 07922
 BZFD11201
 
 Rev.
-3/2023
+2/2024
 
 Lot
 
@@ -168,7 +172,7 @@ TIME: _____
 
 Linear barcode
 
-(01)103XXXXXXXXXXX
+(01)00301439163015
 
 # Package Label - NDC 0143-9164-01
 
@@ -200,7 +204,8 @@ READ INSERT FOR PRECAUTIONS AND DIRECTIONS BEFORE USE.
 
 DIRECTIONS FOR USE:
 
-Reconstitute with 90 mL of Sterile Water for Injection to the 10 g vial of dry, sterile vancomycin powder.
+Reconstitute with 94 mL of Sterile Water for Injection to the 10 g vial of dry, sterile vancomycin powder.
+See enclosed package for complete reconstitution instruction.
 
 The resultant solution will contain vancomycin 100 mg/mL.
 
@@ -216,7 +221,7 @@ DISCARD VIAL NO LATER THAN 4 HOURS AFTER INITIAL CLOSURE PUNCTURE.
 hikma.
 
 Rev.
-3/2023
+2/2024
 
 Sterile.
 Spray dried.
@@ -226,11 +231,11 @@ Preservative Free.
 
 Recommended Dosage: See prescribing information.
 
-﻿Important: ﻿Read package insert for ﻿PRECAUTIONS ﻿and DIRECTIONS FOR USE﻿.
+Important: Read package insert for PRECAUTIONS and DIRECTIONS FOR USE.
 
 Prior to reconstitution, store at 20ºC to 25ºC (68ºF to 77ºF) [See USP Controlled Room Temperature].
 
-After reconstitution, ﻿use promptly.
+After reconstitution, use promptly.
 (Discard vial within 4 hours after entry).
 See package insert for full information.
 
@@ -251,6 +256,8 @@ Distributed by:
 Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
+
+N3 01439 16401 2
 
 Vial Label
 
@@ -296,7 +303,8 @@ See package insert for full information.
 
 DIRECTIONS FOR USE:
 
-Reconstitute with 90 mL of Sterile Water for Injection to the 10 g vial of dry, sterile vancomycin powder.
+Reconstitute with 94 mL of Sterile Water for Injection to the 10 g vial of dry, sterile vancomycin powder.
+See enclosed package for complete reconstitution instruction.
 
 The resultant solution will contain vancomycin 100 mg/mL.
 
@@ -326,7 +334,7 @@ Hikma Pharmaceuticals USA Inc.
 Berkeley Heights, NJ 07922
 
 Rev.
-3/2023
+2/2024
 
 Lot
 
@@ -337,3 +345,5 @@ BOTTLE ENTRY
 DATE: _____
 
 TIME: _____
+
+(01)00301439164012

@@ -62,7 +62,7 @@ Measure trough vancomycin serum concentrations to guide therapy, especially in s
 For functionally anephric patients, an initial dose of 15 mg/kg of body weight should be given to achieve prompt therapeutic serum concentration.
 A dose of 1.9 mg/kg/24 hr should be given after the initial dose of 15 mg/kg.
 
-## 2.5 Directions for the Preparation, Dilution, and Storage of the Pharmacy Bulk Package for Intravenous Use
+## 2.5 Directions for the Preparation, Dilution and Storage of the Pharmacy Bulk Package for Intravenous Use
 
 Preparation
 
@@ -83,7 +83,7 @@ Reconstitution and Dilution
 
 5 g Pharmacy Bulk Package Vial
 
-At the time of use, reconstitute by adding 45 mL of Sterile Water for Injection to the 5 g vial of dry, sterile vancomycin powder.
+At the time of use, reconstitute by adding 47 mL of Sterile Water for Injection to the 5 g vial of dry, sterile vancomycin powder following the reconstitution steps below.
 The resultant solution will contain vancomycin equivalent to about 100 mg/mL.
 After reconstitution, further dilution is required using one of the compatible intravenous diluents listed below [see Dosage and Administration (2.6)], prior to intravenous administration.
 
@@ -94,7 +94,7 @@ The desired dose diluted in this manner should be administered by intermittent I
 
 10 g Pharmacy Bulk Package Vial
 
-At the time of use, reconstitute by adding 90 mL of Sterile Water for Injection to the 10 g vial of dry, sterile vancomycin powder.
+At the time of use, reconstitute by adding 94 mL of Sterile Water for Injection to the 10 g vial of dry, sterile vancomycin powder following the reconstitution steps below.
 The resultant solution will contain vancomycin equivalent to about 100 mg/mL.
 After reconstitution, further dilution is required using one of the compatible intravenous diluents listed below [see Dosage and Administration (2.6)], prior to intravenous administration.
 
@@ -104,6 +104,13 @@ For doses of 1 gram (10 mL), at least 200 mL of solution must be used.
 The desired dose diluted in this manner should be administered by intermittent IV infusion over a period of at least 60 minutes.
 
 Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+Reconstitution steps:
+
+1. Shake the vial to loosen the powder.
+2. Remove the flip-off cap and transfer sterile water for injection into the vial using a syringe.
+   When injecting the sterile water for injection into the vial, adjust the syringe needle angle pointing towards the vial wall, to disperse the powder and to prevent powder clump at the bottom.
+3. After the sterile water for injection transfer, within 1 minute begin to shake the vial vigorously, continuing for up to 3 minutes or until a uniform solution is obtained.
 
 ## 2.6 Compatibility with Intravenous Fluids for Intravenous Use
 
@@ -132,7 +139,7 @@ It is also recommended to dilute solutions of vancomycin to 5 mg/mL or less.
 
 Preparation of the Pharmacy Bulk Package for Oral Use
 
-1. Reconstitute Vancomycin Hydrochloride for Injection to 100 mg/mL by adding the appropriate amount of sterile water for injection: Table 1: Reconstitution-Volume of Sterile Water for Injection to be Added Vancomycin Hydrochloride for Injection Strength per VialVolume of Sterile Water for Injection to be added to achieve 100 mg/mL Vancomycin Hydrochloride Solution5 g45 mL10 g90 mL
+1. Reconstitute Vancomycin Hydrochloride for Injection to 100 mg/mL by adding the appropriate amount of sterile water for injection: Table 1: Reconstitution-Volume of Sterile Water for Injection to be Added Vancomycin Hydrochloride for Injection Strength per VialVolume of Sterile Water for Injection to be added to achieve 100 mg/mL Vancomycin Hydrochloride Solution5 g47 mL10 g94 mL
 2. Sweeteners may be added to this solution to improve the taste for oral administration following the steps outlined in Instructions for How to Prepare and Add Sweeteners below.
 
 Instructions for How to Prepare and Add Sweeteners
@@ -156,4 +163,4 @@ Administer the compounded mixtures within 4 hours after preparation when storing
 
 Oral Administration:
 
-Store the diluted solution for oral use in a plastic container refrigerated at 2°C to 8°C (36°F to 46°F) for up to 10 days.
+Store the diluted solution for oral use in a plastic container refrigerated at 2 °C to 8 °C (36°F to 46°F) for up to 10 days.
