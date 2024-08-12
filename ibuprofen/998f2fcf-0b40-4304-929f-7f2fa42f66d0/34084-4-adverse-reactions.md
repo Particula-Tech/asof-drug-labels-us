@@ -23,6 +23,6 @@ Additional adverse experiences reported occasionally include:
 | Metabolic and nutritional - | hyperglycemia |
 | Nervous system - | convulsions, coma, emotional lability, hallucinations, aseptic meningitis |
 | Respiratory - | apnea, respiratory depression, pneumonia, rhinitis |
-| Skin and appendages - | angioedema, toxic epidermal necrosis, erythema multiforme, exfoliative dermatitis, Stevens Johnson syndrome, urticaria, vesiculobullous eruptions |
+| Skin and appendages - | angioedema, toxic epidermal necrosis, erythema multiforme, exfoliative dermatitis, Stevens Johnson syndrome, fixed drug eruption (FDE), urticaria, vesiculobullous eruptions |
 | Special senses - | amblyopia (blurred and/or diminished vision, scotomata and/or changes in color vision), conjunctivitis, dry eyes, hearing impairment |
 | Urogenital - | azotemia, decreased creatinine clearance, glomerulitis, renal papillary necrosis, tubular necrosis |

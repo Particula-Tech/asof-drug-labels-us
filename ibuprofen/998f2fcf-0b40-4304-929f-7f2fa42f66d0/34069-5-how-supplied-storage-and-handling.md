@@ -21,8 +21,4 @@ Minneapolis, MN 55427
 
 www.padagis.com
 
-2204454
-
-Rev 11-21 A
-
-16K26 RC J1
+Rev 07-24
