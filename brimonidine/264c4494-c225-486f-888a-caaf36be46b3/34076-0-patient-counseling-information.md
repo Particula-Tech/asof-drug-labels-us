@@ -1,7 +1,7 @@
 # 17PATIENT COUNSELING INFORMATION
 
 Patients should be instructed that ocular solutions, if handled improperly or if the tip of the dispensing container contacts the eye or surrounding structures, can become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions (see WARNINGS AND PRECAUTIONS, 5.3).
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Warnings and Precautions (5.3)].
 Always replace the cap after using.
 If solution changes color or becomes cloudy, do not use.
 Do not use the product after the expiration date marked on the bottle.
@@ -13,10 +13,10 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 As with other similar medications, ALPHAGAN® P may cause fatigue and/or drowsiness in some patients.
 Patients who engage in hazardous activities should be cautioned of the potential for a decrease in mental alertness.
 
-Distributed by: AbbVie, Inc. North Chicago, IL 60064
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
 © 2024 AbbVie.
 All rights reserved.
-ALPHAGAN P and its design are trademarks of Allergan, Inc., an AbbVie company.
+ALPHAGAN P and its design and PURITE are trademarks of Allergan, Inc., an AbbVie company.
 
-20086819
+20086819R2
