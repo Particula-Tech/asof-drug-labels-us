@@ -127,7 +127,9 @@ When indomethacin capsules are used in patients with preexisting asthma (without
 
 ## 5.9 Serious Skin Reactions
 
-NSAIDs, including indomethacin, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens‑Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including indomethacin, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens - Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of indomethacin capsules at the first appearance of skin rash or any other sign of hypersensitivity.
 

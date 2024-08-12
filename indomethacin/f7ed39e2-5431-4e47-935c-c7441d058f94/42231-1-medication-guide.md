@@ -21,19 +21,19 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
 
 The risk of getting an ulcer or bleeding increases with:
 
-| •past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
+| opast history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
 | --- | --- |
-| •taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
-| •increasing doses of NSAIDs | •older age |
-| •longer use of NSAIDs | •poor health |
-| •smoking | •advanced liver disease |
-| •drinking alcohol | •bleeding problems |
+| otaking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
+| oincreasing doses of NSAIDs | oolder age |
+| olonger use of NSAIDs | opoor health |
+| osmoking | oadvanced liver disease |
+| odrinking alcohol | obleeding problems |
 
 NSAIDs should only be used:
 
-- •exactly as prescribed
-- •at the lowest dose possible for your treatment
-- •for the shortest time needed
+- oexactly as prescribed
+- oat the lowest dose possible for your treatment
+- ofor the shortest time needed
 
 What are NSAIDs?
 
@@ -135,6 +135,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-March 2021
+July 2024
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
