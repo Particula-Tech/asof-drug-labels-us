@@ -46,10 +46,12 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam
 
+OR
+
 Distributor: Dr. Reddy's Laboratories Inc.,
 
 Princeton, NJ 08540
 
 Made in India
 
-Revised: 10/2022
+Revised: 07/2024

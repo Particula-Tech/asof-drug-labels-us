@@ -34,7 +34,7 @@ However, due to Celgene Corporation's marketing exclusivity rights, this drug pr
 | ANC (x109/L) Less than 0.5 0.5 –1.5 Greater than 1.5 | Platelets (x109/L) Less than 25 25-50 Greater than 50 | 50% 67% 100% |
 
 - For adult patients whose baseline counts are WBC less than 3 x109/L, ANC less than 1.5 x109/L, or platelets less than 75 x109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
-  WBC or Platelet Nadir% decrease in countsfrom baselineBone MarrowBiopsy Cellularity at Timeof Nadir (%)30-6015-30Less than 1550 - 75 Greater than 75% Dose in theNext Course1005033755033
+  WBC or Platelet Nadir% decrease in countsfrom baselineBone MarrowBiopsy Cellularity at Timeof Nadir (%)30-6015-30Less than 1550-75 Greater than 75% Dose in theNext Course1005033755033
 
 If a nadir as defined in the table above has occurred, give the next course 28 days after the start of the preceding course, provided that both the WBC and the platelet counts are greater than 25% above the nadir and rising.
 If a greater than 25% increase above the nadir is not seen by day 28, reassess counts every 7 days.
@@ -53,7 +53,7 @@ Similarly, if unexplained elevations of BUN or serumcreatinine occur, delay the 
 Azacitidine and its metabolites are known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5)].
 
-## 2.8 Preparation of Azacitidine For Injection
+## 2.8 Preparation of Azacitidine for Injection
 
 Azacitidine for injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.
@@ -85,8 +85,13 @@ For doses requiring more than 1 vial, divide the dose equally between the syring
 Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product must be refrigerated immediately.
 See Table 2 for suspension stability storage timelines based on the temperature of the diluent for delayed subcutaneous administration.
+
 After removal from refrigerated conditions, the suspension may be allowed to equilibrate to room temperature for up to 30 minutes prior to administration.
-Subcutaneous AdministrationTo provide a homogeneous suspension, the contents of the syringe must be re-suspended by inverting the syringe 2-3 times and vigorously rolling the syringe between the palms for 30 seconds immediately prior to administration.
+
+Subcutaneous Administration
+
+To provide a homogeneous suspension, the contents of the syringe must be re-suspended by inverting the syringe 2-3 times and vigorously rolling the syringe between the palms for 30 seconds immediately prior to administration.
+
 Azacitidine for injection suspension is administered subcutaneously.
 Rotate sites for each injection (thigh, abdomen, or upper arm).
 New injections should be given at least one inch from an old site and never into areas where the site is tender, bruised, red, or hard.
@@ -101,7 +106,7 @@ Storage timelines based on the temperature of the diluent for suspension stabili
 | Room temperature (25°C / 77°F) Sterile Water for Injection, USP | Store at room temperature at 25°C (77°F) for up to 1 hour or refrigerated at 2°C to 8°C (36°F to 46°F) for up to 8 hours. |
 | Cold (2°C to 8°C / 36°F to 46°F) Sterile Water for Injection, USP | Store refrigerated at 2°C to 8°C(36°F to 46°F)for up to 22 hours. |
 
-## 2.5 Instructions for Intravenous Administration
+## 2.10 Instructions for Intravenous Administration
 
 Parenteral drug product should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use the product if there is evidence of particulate matter or discoloration.

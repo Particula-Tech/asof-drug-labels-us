@@ -36,7 +36,7 @@ Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
 Table 3 presents adverse reactions occurring in at least 5% of patients treated with azacitidine for injection (subcutaneous) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the azacitidine for injection-treated group than for the observation group: patients received azacitidine for injection for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-Table 3: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC Azacitidine for Injection Treated Patients; Studies 1 and 2)
+Table 3: Most Frequently Observed Adverse Reactions (≥ 5% in All SC Azacitidine for Injection Treated Patients; Studies 1 and 2)
 
 |  | Number (%) of Patients |  |  |
 | --- | --- | --- | --- |
@@ -218,11 +218,20 @@ However, due to Celgene Corporation's marketing exclusivity rights, this drug pr
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postmarketing use of azacitdine for injection.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. - Interstitial lung disease
 
-- Interstitial lung disease
-- Tumor lysis syndrome
+-Tumor lysis syndrome
+
 - Injection site necrosis
+
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+
 - Necrotizing fasciitis (including fatal cases)
+
 - Differentiation syndrome
+
+- Pericardial effusion
+
+- Pericarditis
+
+- Cutaneous vasculitis
