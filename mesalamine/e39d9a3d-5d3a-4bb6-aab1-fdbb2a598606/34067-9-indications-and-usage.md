@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-PENTASA is indicated for the induction of remission and for the treatment of adult patients with mildly to moderately active ulcerative colitis.
+PENTASA is indicated for the induction of remission and for the treatment of mildly to moderately active ulcerative colitis in adult patients.

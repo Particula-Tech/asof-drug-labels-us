@@ -1,66 +1,80 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In combined domestic and foreign clinical trials, more than 2100 patients with ulcerative colitis or Crohn's disease received PENTASA therapy.
-Generally, PENTASA therapy was well tolerated.
-The most common events (i.e., greater than or equal to 1%) were diarrhea (3.4%), headache (2.0%), nausea (1.8%), abdominal pain (1.7%), dyspepsia (1.6%), vomiting (1.5%), and rash (1.0%).
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-In two domestic placebo-controlled trials involving over 600 patients with ulcerative colitis, adverse events were fewer in PENTASA (mesalamine)-treated patients than in the placebo group (PENTASA 14% vs placebo 18%) and were not dose-related.
-Events occurring in more than 1% are shown in the table below.
-Of these, only nausea and vomiting were more frequent in the PENTASA group.
-Withdrawal from therapy due to adverse events was more common on placebo than PENTASA (7% vs 4%).
+- Renal impairment [see Warnings and Precautions (5.1)]
+- Mesalamine-induced acute intolerance syndrome [see Warnings and Precautions (5.2)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.3)]
+- Hepatic failure [see Warnings and Precautions (5.4)]
+- Severe cutaneous adverse reactions [see Warnings and Precautions (5.5)]
+- Photosensitivity [see Warnings and Precautions (5.6)]
+- Nephrolithiasis [see Warnings and Precautions (5.7)]
 
-Table 1.
-Adverse Events Occurring in More than 1% of Either Placebo or PENTASA Patients in Domestic Placebo-controlled Ulcerative Colitis Trials.
-(PENTASA Comparison to Placebo)
+## 6.1 Clinical Trials Experience
 
-| Event | PENTASA n=451 | Placebo n=173 |
-| --- | --- | --- |
-| Diarrhea | 16 (3.5%) | 13 (7.5%) |
-| Headache | 10 (2.2%) | 6 (3.5%) |
-| Nausea | 14 (3.1%) | ----- |
-| Abdominal Pain | 5 (1.1%) | 7 (4.0%) |
-| Melena (Bloody Diarrhea) | 4 (0.9%) | 6 (3.5%) |
-| Rash | 6 (1.3%) | 2 (1.2%) |
-| Anorexia | 5 (1.1%) | 2 (1.2%) |
-| Fever | 4 (0.9%) | 2 (1.2%) |
-| Rectal Urgency | 1 (0.2%) | 4 (2.3%) |
-| Nausea and Vomiting | 5 (1.1%) | ----- |
-| Worsening of Ulcerative Colitis | 2 (0.4%) | 2 (1.2%) |
-| Acne | 1 (0.2%) | 2 (1.2%) |
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical laboratory measurements showed no significant abnormal trends for any test, including measurement of hematological, liver, and kidney function.
+More than 2100 patients were exposed to PENTASA in clinical trials of ulcerative colitis or another gastrointestinal condition.
+The most common adverse reactions (i.e., greater than or equal to 1%) were diarrhea (3%), headache (2%), nausea (2%), abdominal pain (2%), dyspepsia (2%), vomiting (2%), and rash (1%).
 
-The following adverse events, presented by body system, were reported infrequently (i.e., less than 1%) during domestic ulcerative colitis and Crohn's disease trials.
-In many cases, the relationship to PENTASA has not been established.
+The safety of PENTASA was evaluated in two randomized, double-blind, placebo-controlled, dose-response trials (UC-1 and UC-2) of 624 patients with mildly to moderately active ulcerative colitis for up to 8 weeks of treatment [see Clinical Studies (14)].
+The most common adverse reaction was nausea and vomiting: 1% in the PENTASA group (N=451) and 0% in the placebo group (N=173).
+Withdrawal from therapy due to adverse reactions was 7% in the PENTASA group and 4% in the placebo group.
 
-Gastrointestinal: abdominal distention, anorexia, constipation, duodenal ulcer, dysphagia, eructation, esophageal ulcer, fecal incontinence, GGTP increase, GI bleeding, increased alkaline phosphatase, LDH increase, mouth ulcer, oral moniliasis, pancreatitis, rectal bleeding, SGOT increase, SGPT increase, stool abnormalities (color or texture change), thirst
+The following adverse reactions, presented by body system, were reported in less than 1% of patients in UC-1, UC-2, and clinical trials for another gastrointestinal condition.
 
-Dermatological: acne, alopecia, dry skin, eczema, erythema nodosum, nail disorder, photosensitivity, pruritus, sweating, urticaria
+Blood and lymphatic system disorders: thrombocythemia, thrombocytopenia
 
-Nervous System: depression, dizziness, insomnia, somnolence, paresthesia
+Cardiac Disorders: palpitations, pericarditis, vasodilation
 
-Cardiovascular: palpitations, pericarditis, vasodilation
+Gastrointestinal Disorders: abdominal distention, constipation, duodenal ulcer, dysphagia, eructation, esophageal ulcer, fecal incontinence, GI bleeding, mouth ulcer, pancreatitis, rectal bleeding, stool abnormalities (color or texture change)
 
-Other: albuminuria, amenorrhea, amylase increase, arthralgia, asthenia, breast pain, conjunctivitis, ecchymosis, edema, fever, hematuria, hypomenorrhea, Kawasaki-like syndrome, leg cramps, lichen planus, lipase increase, malaise, menorrhagia, metrorrhagia, myalgia, pulmonary infiltrates, thrombocythemia, thrombocytopenia, urinary frequency
+General disorders and administration site conditions: fever, malaise
 
-One week after completion of an 8-week ulcerative colitis study, a 72-year-old male, with no previous history of pulmonary problems, developed dyspnea.
+Infections and infestations: oral moniliasis, conjunctivitis
+
+Investigations: GGTP increase, increased alkaline phosphatase, LDH increase, SGOT increase, SGPT increase, lipase increase, amylase increase
+
+Metabolism and nutritional disorders: anorexia, edema, thirst
+
+Musculoskeletal and connective tissue disorders: arthralgia, leg cramps, myalgia
+
+Nervous System Disorders: dizziness, insomnia, somnolence, paresthesia
+
+Psychiatric disorders: depression, asthenia
+
+Renal and urinary disorders: albuminuria, hematuria, urinary frequency
+
+Reproductive system and breast disorders: amenorrhea, breast pain, hypomenorrhea, menorrhagia, metrorrhagia
+
+Respiratory, Thoracic and Mediastinal Disorders: pulmonary infiltrates, one week after completion of an 8-week ulcerative colitis study, a 72-year-old male, with no previous history of pulmonary problems, developed dyspnea.
 The patient was subsequently diagnosed with interstitial pulmonary fibrosis without eosinophilia by one physician and bronchiolitis obliterans with organizing pneumonitis by a second physician.
-A causal relationship between this event and mesalamine therapy has not been established.
 
-Published case reports and/or spontaneous postmarketing surveillance have described infrequent instances of pericarditis, fatal myocarditis, chest pain and T-wave abnormalities, hypersensitivity pneumonitis, pancreatitis, nephrotic syndrome, interstitial nephritis, hepatitis, aplastic anemia, pancytopenia, leukopenia, agranulocytosis, or anemia while receiving mesalamine therapy.
-Anemia can be a part of the clinical presentation of inflammatory bowel disease.
-Allergic reactions, which could involve eosinophilia, can be seen in connection with PENTASA therapy.
+Skin and Subcutaneous Tissue Disorders: acne, alopecia, dry skin, eczema, erythema nodosum, nail disorder, photosensitivity, pruritus, sweating, urticaria, ecchymosis, lichen planus
 
-## Postmarketing Reports
+## 6.2 Postmarketing Experience
 
-The following events have been identified during post-approval use of the PENTASA brand of mesalamine in clinical practice.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of seriousness, frequency of reporting, or potential causal connection to mesalamine:
+The following adverse reactions have been identified during post-approval use of mesalamine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal: Reports of hepatotoxicity, including elevated liver enzymes (SGOT/AST, SGPT/ALT, GGT, LDH, alkaline phosphatase, bilirubin), hepatitis, jaundice, cholestatic jaundice, cirrhosis, and possible hepatocellular damage including liver necrosis and liver failure.
+Cardiac Disorders: chest pain, fatal myocarditis, pericarditis, T-wave abnormalities
+
+Hematologic Disorders: agranulocytosis, anemia, aplastic anemia, leukopenia, pancytopenia
+
+Hepatic Disorders: cirrhosis, jaundice, including cholestatic jaundice; hepatotoxicity, hepatitis, and possible hepatocellular damage including liver necrosis and liver failure.
 Some of these cases were fatal.
 One case of Kawasaki-like syndrome which included hepatic function changes was also reported.
 
-Other: anaphylactic reaction, SJS/TEN, DRESS, AGEP, pleurisy/pleuritis, pneumonitis, granulocytopenia, systemic lupus erythematosus, lupus-like syndrome, acute renal failure, interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), chronic renal failure, nephrogenic diabetes insipidus, nephrolithiasis, intracranial hypertension, angioedema, and oligospermia (reversible).
+Immune System Disorders: anaphylactic reaction, angioedema, lupus-like syndrome, systemic lupus erythematosus
 
-- Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach (see PRECAUTIONS, Information for Patients).
+Nervous System Disorders: intracranial hypertension
+
+Renal and Urinary Disorders: acute renal failure, chronic renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis, nephrotic syndrome [see Warnings and Precautions (5.1, 5.7)]
+
+- Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach
+
+Reproductive System and Breast Disorders: reversible oligospermia
+
+Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), interstitial lung disease, pleurisy/pleuritis, pneumonitis
+
+Skin and Subcutaneous Tissue Disorders: AGEP, DRESS, SJS/TEN [see Warnings and Precautions (5.5)]

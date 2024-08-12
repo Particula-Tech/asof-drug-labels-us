@@ -1,11 +1,14 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dosage for the induction of remission and the symptomatic treatment of mildly to moderately active ulcerative colitis in adults is 1 g (4 PENTASA 250-mg capsules or 2 PENTASA 500-mg capsules) 4 times a day for a total daily dosage of 4 g. Treatment duration in controlled trials was up to 8 weeks.
+Evaluate renal function prior to initiation of PENTASA and periodically while on therapy [see Warnings and Precautions (5.1)].
 
-PENTASA capsules may be swallowed whole, or alternatively, the capsule may be opened and the entire contents sprinkled onto applesauce or yogurt.
-The entire contents should be consumed immediately.
-The capsules and capsule contents must not be crushed or chewed.
+Recommended Dosage
 
-Drink an adequate amount of fluids.
+The recommended dosage for the induction of remission and the symptomatic treatment of mildly to moderately active ulcerative colitis in adults is 1 g (4 PENTASA 250 mg capsules or 2 PENTASA 500 mg capsules) administered orally four times daily.
 
-Safety and efficacy of PENTASA in pediatric patients have not been established.
+Administration Instructions
+
+- Swallow PENTASA capsules whole; do not crush or chew.
+- Alternatively, the capsule(s) may be opened and the entire contents sprinkled onto applesauce or yogurt.
+  Consume the entire mixture immediately.
+- Drink an adequate amount of fluids during treatment [see Warnings and Precautions (5.7)].
