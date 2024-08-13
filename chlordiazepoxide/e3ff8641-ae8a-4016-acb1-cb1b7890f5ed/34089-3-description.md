@@ -12,6 +12,6 @@ The structural formula is:
 C16H14ClN3O • HCl M.W.
 336.22
 
-Each capsule, for oral administration, contains either 5 mg, 10 mg or 25 mg of chlordiazepoxide hydrochloride, USP and has the following inactive ingredients: anhydrous lactose, D&C yellow no. 10, FD&C blue no. 1, FD&C blue no. 1 aluminum lake, gelatin, hydrogenated vegetable oil, microcrystalline cellulose, pharmaceutical glaze, and titanium dioxide.
-The 5 mg and 25 mg also contain D&C yellow no. 10 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, propylene glycol, and synthetic black iron oxide.
-In addition, the 5 mg contains D&C red no. 33 and the 10 mg also contains butyl paraben, edetate calcium disodium, dimethyl polysiloxane, ethylene glycol monoethyl ether, FD&C red no. 40, methyl paraben, propyl paraben, sodium, sodium lauryl sulfate, sodium propionate, and soya lecithin.
+Each capsule, for oral administration, contains either 5 mg, 10 mg or 25 mg of chlordiazepoxide hydrochloride, USP and has the following inactive ingredients: anhydrous lactose, D&C yellow no. 10, FD&C blue no. 1, FD&C blue no. 1 aluminum lake, gelatin, hydrogenated vegetable oil, microcrystalline cellulose, pharmaceutical glaze, propylene glycol, and titanium dioxide.
+The 5 mg and 25 mg also contain D&C yellow no. 10 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, and synthetic black iron oxide.
+In addition, the 5 mg contains D&C red no. 33 and the 10 mg also contains FD&C red no. 40, povidone, and sodium hydroxide.

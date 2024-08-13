@@ -10,13 +10,11 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature] in a dry place.
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
 
-Manufactured For:
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-M 12/2022
+N 5/2024

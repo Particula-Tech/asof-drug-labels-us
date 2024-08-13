@@ -12,4 +12,4 @@ Changes in EEG patterns (low-voltage fast activity) have been observed in patien
 Blood dyscrasias (including agranulocytosis), jaundice and hepatic dysfunction have occasionally been reported during therapy.
 When chlordiazepoxide HCl treatment is protracted, periodic blood counts and liver function tests are advisable.
 
-To report SUSPECTED ADVERSE EVENTS, contact Teva Pharmaceuticals USA, Inc., at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
