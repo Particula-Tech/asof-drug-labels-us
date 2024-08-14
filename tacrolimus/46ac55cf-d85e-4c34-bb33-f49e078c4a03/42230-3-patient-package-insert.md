@@ -1,4 +1,4 @@
-| PATIENT INFORMATIONTacrolimus Capsules, USP, for oral use(tack-ROW-limus) |
+| PATIENT INFORMATIONTacrolimus Capsules, USP, for oral use(ta kroe′ li mus) |
 | --- |
 | Read this Patient Information before you start taking tacrolimus capsules and each time you get a refill. There may be new information. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment. |
 | What is the most important information I should know about Tacrolimus Capsules? Tacrolimus Capsules can cause serious side effects, including: •Increased risk of cancer. People who take tacrolimus capsules have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma). •Increased risk of infection. Tacrolimus capsules are a medicine that affects your immune system. Tacrolimus capsules can lower the ability of your immune system to fight infections. Serious infections can happen in people receiving tacrolimus capsules that can cause death. Call your healthcare provider right away if you have any symptoms of an infection, including:•fever•sweats or chills•cough or flu-like symptoms•muscle aches•warm, red, or painful areas on your skin |
@@ -16,4 +16,4 @@ Additional pediatric use information is approved for Astellas Pharma US, Inc.’
 However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Revised: October 2023
+   Revised: April 2024
