@@ -1,4 +1,4 @@
-# 14.CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 The efficacy and safety of nitisinone in patients with HT-1 was evaluated in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 22 years at enrollment (median age 9 months).
 Patients were diagnosed with HT-1 by the presence of succinylacetone in the urine or plasma.
@@ -13,7 +13,7 @@ Data for historical controls showed that patients presenting with HT-1 between 2
 
 The effects of nitisinone on urine and plasma succinylacetone, porphyrin metabolism, and urinary alpha-1-microglobulin were also assessed in this clinical study.
 
-Porphyria-like crisis were reported in 3 patients (0.3% of cases per year) during the clinical study.
+Porphyria-like crises were reported in 3 patients (0.3% of cases per year) during the clinical study.
 This compares to an incidence of 5 to 20% of cases per year expected as part of the natural history of the disorder.
 An assessment of porphyria-like crises was performed because these events are commonly reported in patients with HT-1 who are not treated with nitisinone.
 

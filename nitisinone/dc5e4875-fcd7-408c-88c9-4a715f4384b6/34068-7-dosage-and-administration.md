@@ -18,7 +18,7 @@ Titrate the dosage in each individual patient based on biochemical and/or clinic
 - If succinylacetone is still detectable in blood or urine 4 weeks after the start of nitisinone treatment, increase the nitisinone dosage to 0.75 mg/kg twice daily.
   A maximum total daily dosage of 2 mg/kg may be needed based on the evaluation of all biochemical parameters.
 - If the biochemical response is satisfactory (undetectable blood and/or urine succinylacetone), the dosage should be adjusted only according to body weight gain and not according to plasma tyrosine levels.
-- During initiation of therapy, when switching from twice daily to once daily dosing, or if there is a deterioration in the patient's condition, it may be necessary to follow all available biochemical parameters more closely (i.e., plasma and/or urine succinylacetone, urine 5- aminolevulinate (ALA) and erythrocyte porphobilinogen (PBG)-synthase activity).
+- During initiation of therapy, when switching from twice daily to once daily dosing, or if there is a deterioration in the patient's condition, it may be necessary to follow all available biochemical parameters more closely (i.e., plasma and/or urine succinylacetone, urine 5-aminolevulinate (ALA) and erythrocyte porphobilinogen (PBG)-synthase activity).
 - Maintain plasma tyrosine levels below 500 micromol/L by dietary restriction of tyrosine and phenylalanine intake [see Warnings and Precautions (5.1)].
   In patients who develop plasma tyrosine levels above 500 micromol/L, assess dietary tyrosine and phenylalanine intake.
   Do not adjust the Nitisinone Capsules dosage in order to lower the plasma tyrosine concentration.
