@@ -2,8 +2,8 @@
 
 Advise women to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
 
-Vaginal Bleeding: Inform postmenopausal women to report any vaginal bleeding to their healthcare provider as soon as possible [see Warning and Precautions (5.2)].
+Vaginal Bleeding Inform postmenopausal women to report any vaginal bleeding to their healthcare provider as soon as possible [see Warning and Precautions (5.2)].
 
-Possible Serious Adverse Reactions with Estrogen-Alone Therapy: Inform postmenopausal women of possible serious adverse reactions of estrogen-alone therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.1, 5.2, 5.3)].
+Possible Serious Adverse Reactions with Estrogen-Alone Therapy Inform postmenopausal women of possible serious adverse reactions of estrogen-alone therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-Possible Common Adverse Reactions with Estrogen-Alone Therapy: Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headache, breast pain and tenderness, nausea and vomiting.
+Possible Common Adverse Reactions with Estrogen-Alone Therapy Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headache, breast pain and tenderness, nausea and vomiting.

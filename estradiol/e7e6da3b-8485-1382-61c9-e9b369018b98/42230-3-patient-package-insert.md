@@ -226,4 +226,4 @@ This Patient Information and Instructions for Use have been approved by the U.S 
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 11/2021 ETS:R26/PL:ETS:R21
+Revised: 6/2024 ETS:R27/PL:ETS:R21

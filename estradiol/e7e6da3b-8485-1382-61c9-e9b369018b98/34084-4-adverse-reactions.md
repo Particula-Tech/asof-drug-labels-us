@@ -32,18 +32,18 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 P
 The following adverse reactions have been identified during post-approval use of estradiol transdermal system continuous delivery (once-weekly).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Genitourinary System: Changes in bleeding pattern, pelvic pain
+Genitourinary System Changes in bleeding pattern, pelvic pain
 
-Breast: Breast cancer, breast pain, breast tenderness
+Breast Breast cancer, breast pain, breast tenderness
 
-Cardiovascular: Changes in blood pressure, palpitations, hot flashes
+Cardiovascular Changes in blood pressure, palpitations, hot flashes
 
-Gastrointestinal: Vomiting, abdominal pain, abdominal distension, nausea
+Gastrointestinal Vomiting, abdominal pain, abdominal distension, nausea
 
-Skin: Alopecia, hyperhidrosis, night sweats, urticaria, rash
+Skin Alopecia, hyperhidrosis, night sweats, urticaria, rash
 
-Eyes: Visual disturbances, contact lens intolerance
+Eyes Visual disturbances, contact lens intolerance
 
-Central Nervous System: Depression, migraine, paresthesia, dizziness, anxiety, irritability, mood swings, nervousness, insomnia, headache
+Central Nervous System Depression, migraine, paresthesia, dizziness, anxiety, irritability, mood swings, nervousness, insomnia, headache
 
-Miscellaneous: Fatigue, menopausal symptoms, weight increase, application site reaction, anaphylactic reactions
+Miscellaneous Fatigue, menopausal symptoms, weight increase, application site reaction, anaphylactic reactions
