@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are no available human data on use of Naropin (ropivacaine) Injection in pregnant women to evaluate a drug- associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+There are no available human data on use of Naropin (ropivacaine) Injection in pregnant women to evaluate a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
 Local anesthetics may cause varying degrees of toxicity to the mother and fetus and adverse reactions include alterations of the central nervous system, peripheral vascular tone, and cardiac function (see Clinical Considerations).
 No teratogenicity was observed at doses up to 0.3 times the maximum recommended human dose of 770 mg/24 hours for epidural use, and equal to the MRHD of 250 mg for nerve block use, based on body surface area (BSA) comparisons and a 60 kg human weight (see Animal data).
 
