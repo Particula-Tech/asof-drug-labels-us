@@ -112,17 +112,14 @@ Elderly or debilitated patients seem to tolerate peptic ulceration or bleeding l
 Most spontaneous reports of fatal GI events are in the geriatric population [see Warnings and Precautions (5.2)].
 
 Naproxen is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (Error!
-Hyperlink reference not valid.)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 Geriatric patients may be at a greater risk for the development of a form of renal toxicity precipitated by reduced prostaglandin formation during administration of nonsteroidal anti-inflammatory drugs [see Warnings and Precautions (5.6)].
 
 ## 8.6 Hepatic Impairment
 
 Caution is advised when high doses are required and some adjustment of dosage may be required in these patients.
-It is prudent to use the lowest effective dose [see Clinical Pharmacology (Error!
-Hyperlink reference not valid.)].
+It is prudent to use the lowest effective dose [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-Naproxen-containing products are not recommended for use in patients with moderate to severe and severe renal impairment (creatinine clearance <30 mL/min) [see Warnings and Precautions (5.6), Clinical Pharmacology (Error!
-Hyperlink reference not valid.)].
+Naproxen-containing products are not recommended for use in patients with moderate to severe and severe renal impairment (creatinine clearance <30 mL/min) [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].

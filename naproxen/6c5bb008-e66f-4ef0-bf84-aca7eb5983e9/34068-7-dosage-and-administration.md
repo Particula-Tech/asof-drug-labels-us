@@ -32,8 +32,7 @@ When treating such patients with naproxen 1500 mg/day, the physician should obse
 Naproxen solid-oral dosage forms may not allow for the flexible dose titration needed in pediatric patients with polyarticular juvenile idiopathic arthritis.
 A liquid formulation may be more appropriate for weight-based dosing and due to the need for dose flexibility in children.
 
-In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (Error!
-Hyperlink reference not valid.)].
+In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (12)].
 The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses.
 Dosing with naproxen tablets is not appropriate for children weighing less than 50 kilograms.
 

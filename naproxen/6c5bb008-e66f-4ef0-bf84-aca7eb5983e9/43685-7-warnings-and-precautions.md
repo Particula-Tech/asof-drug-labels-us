@@ -79,8 +79,7 @@ The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of rand
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
-Use of naproxen may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (Error!
-Hyperlink reference not valid.)].
+Use of naproxen may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
 
 Avoid the use of naproxen tablets or naproxen sodium tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If naproxen tablets or naproxen sodium tablets is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
