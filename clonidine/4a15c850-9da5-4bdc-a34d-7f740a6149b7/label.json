@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217645"
+  ],
+  "inn": "clonidine",
+  "labeler": "NextWave Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "24478-148-01",
+    "24478-148-02"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION, EXTENDED RELEASE",
+      "generic": "clonidine hydrochloride",
+      "name": "ONYDA XR"
+    }
+  ],
+  "setid": "4a15c850-9da5-4bdc-a34d-7f740a6149b7",
+  "source": "dailymed"
+}
