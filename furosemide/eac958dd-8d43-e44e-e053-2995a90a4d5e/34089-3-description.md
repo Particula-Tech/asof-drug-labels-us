@@ -12,10 +12,10 @@ Molecular Formula: C 12H 11ClN 2O 5S
 
 Molecular Weight: 330.75 g/mol
 
-FUROSCIX is a single-dose prefilled cartridge co-packaged with a single-use, on-body infusor.
+FUROSCIX is a single-dose prefilled cartridge co-packaged with a single-use, On-body Infusor.
 The single-dose prefilled cartridge contains 80 mg per 10 mL sterile, clear to slightly yellow, and non-pyrogenic furosemide solution.
 The pH of FUROSCIX, 7.4, differs from that of Furosemide Injection, USP.
 
 Each 1 mL of FUROSCIX contains the following inactive ingredients: hydrochloric acid for pH adjustment if needed, sodium chloride (5.84 mg), sodium hydroxide for pH adjustment if needed, tris HCl (7.88 mg), and water for injection (q.s.).
 
-FUROSCIX is administered via a wearable, single-use, electromechanical (battery powered, micro-processor controlled), on-body delivery system that is pre-programmed to deliver 80 mg of FUROSCIX over 5-hours using a bi-phasic delivery profile.
+FUROSCIX is administered via a wearable, single-use, electromechanical (battery powered, micro-processor controlled), On-body delivery system that is pre-programmed to deliver 80 mg of FUROSCIX over 5-hours using a bi-phasic delivery profile.

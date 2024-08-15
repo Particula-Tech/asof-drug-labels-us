@@ -2,8 +2,6 @@ INSTRUCTIONS FOR USE
 
 Model/REF # FUR-80W5
 
-LBL-0063 R12
-
 Instructions For Use
 
 On-Body Infusor for
@@ -280,3 +278,5 @@ scPharmaceuticals, Inc.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Issued: 10/2023
+
+Reg-0017 Rev 01

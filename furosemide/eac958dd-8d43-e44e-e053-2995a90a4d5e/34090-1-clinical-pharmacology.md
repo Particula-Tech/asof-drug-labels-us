@@ -9,7 +9,7 @@ The action on the distal tubule is independent of any inhibitory effect on carbo
 ## 12.2 Pharmacodynamics
 
 In patients with NYHA Class II and Class III heart failure, subcutaneous administration of FUROSCIX (30 mg furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours, total 80 mg furosemide) produced similar diuresis and natriuresis to intravenous administration (two 40 mg bolus doses separated by 120 minutes) at 8 and 24 hour post-dose.
-The duration of diuretic effect with FUROSCIX is up to 8 hours or more after initiation of dosing.
+The duration of diuretic effect with FUROSCIX is up to 8 hours after initiation of dosing.
 
 ## 12.3 Pharmacokinetics
 
