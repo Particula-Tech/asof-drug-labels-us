@@ -32,7 +32,7 @@ Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Naples, FL 34108
+Baltimore, Maryland 21202
 
 United States
 
@@ -44,4 +44,4 @@ Pithampur (M.P.) - 454 775
 
 INDIA
 
-Revised: August 2024 ID#: 276412
+Revised: March 2024 ID#: 276158
