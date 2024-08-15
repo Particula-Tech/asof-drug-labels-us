@@ -74,9 +74,10 @@ Do not replace missed doses of capecitabine tablets; instead resume capecitabine
 When capecitabine tablets are administered with docetaxel, withhold capecitabine tablets and docetaxel until the requirements for resuming both capecitabine tablets and docetaxel are met.
 Refer to the Prescribing Information for docetaxel for additional dosing information as appropriate.
 
-| Table 1 Recommended Dosage Modifications for Adverse Reactions |  |  |
-| --- | --- | --- |
+Table 1 Recommended Dosage Modifications for Adverse Reactions
+
 | Severity | Dosage Modification | Resume at Same or Reduced Dose(Percent of Current Dose) |
+| --- | --- | --- |
 | Grade 2 |  |  |
 | 1st appearance | Withhold until resolved to grade 0-1. | 100% |
 | 2nd appearance | 75% |  |

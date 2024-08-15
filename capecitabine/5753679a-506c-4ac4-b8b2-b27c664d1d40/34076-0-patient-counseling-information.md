@@ -92,10 +92,14 @@ Drug interactions
 Instruct patients not to take products containing folic acid or folate analog products (e.g., leucovorin, levoleucovorin) unless directed to do so by their healthcare provider.
 Advise patients to inform their healthcare provider of all prescription or nonprescription medications, vitamins or herbal products [see Drug Interactions (7.1, 7.2, 7.3)].
 
-Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
+
+Manufactured In Czech Republic By:
+
+Teva Czech Industries s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-J 12/2022
+K 3/2024

@@ -69,9 +69,10 @@ No clinically significant differences in the pharmacokinetics of 5’-DFCR, 5’
 
 Patients with Renal Impairment
 
-| Table 8 Effect of Renal Impairment on the Pharmacokinetics of Capecitabine, 5’-DFUR, and FBAL |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 8 Effect of Renal Impairment on the Pharmacokinetics of Capecitabine, 5’-DFUR, and FBAL
+
 | Renal Impairment a | Changes in AUC b |  |  |  |
+| --- | --- | --- | --- | --- |
 | Capecitabine | 5’-DFURc | FBALc | 5-FU |  |
 | CLcr 30 to 50 mL/min | Increased by 25% | Increased by 42% | Increased by 85% | No relevant change |
 | CLcr <30 mL/min | Increased by 25% | Increased by 71% | Increased by 258% | Increased by 24% |

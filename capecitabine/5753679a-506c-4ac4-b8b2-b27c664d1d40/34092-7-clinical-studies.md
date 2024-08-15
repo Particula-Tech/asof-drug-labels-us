@@ -17,9 +17,10 @@ The major efficacy outcome measure was disease-free survival (DFS).
 The baseline demographics are shown in Table 9.
 The baseline characteristics were well-balanced between arms.
 
-| Table 9 Baseline Demographics in X-ACT |  |  |
-| --- | --- | --- |
+Table 9 Baseline Demographics in X-ACT
+
 |  | Capecitabine(N=1,004) | Fluorouracil + Leucovorin (N=983) |
+| --- | --- | --- |
 | Age (median, years) | 62 | 63 |
 | Range | (25 to 80) | (22 to 82) |
 | Sex |  |  |
@@ -46,9 +47,10 @@ The choice of the non-inferiority margin of 1.20 corresponds to the retention of
 The hazard ratio for capecitabine compared to fluorouracil + leucovorin with respect to overall survival was 0.86 (95% CI 0.74, 1.01).
 The 5-year overall survival rates were 71% for capecitabine and 68% for fluorouracil + leucovorin.
 
-| Table 10 Efficacy Results in X-ACTa (All Randomized Population) |  |  |
-| --- | --- | --- |
+Table 10 Efficacy Results in X-ACTa (All Randomized Population)
+
 | Efficacy Parameters | Capecitabine(N=1,004) | Fluorouracil + Leucovorin(N=983) |
+| --- | --- | --- |
 | 5-year Disease-free Survival Rateb | 59% | 55% |
 | Hazard Ratio | 0.88 |  |
 | (95% CI) | (0.77, 1.01) |  |
@@ -84,9 +86,10 @@ Survival was assessed based on a non-inferiority analysis.
 
 The baseline demographics are shown in Table 11.
 
-| Table 11 Baseline Demographics for Study SO14695 and Study SO14796 |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 11 Baseline Demographics for Study SO14695 and Study SO14796
+
 |  | Study SO14695 |  | Study SO14796 |  |
+| --- | --- | --- | --- | --- |
 | Capecitabine(N=302) | Fluorouracil + Leucovorin (N=303) | Capecitabine(N=301) | Fluorouracil + Leucovorin (N=301) |  |
 | Age (median, years) | 64 | 63 | 64 | 64 |
 | Range | (23 to 86) | (24 to 87) | (29 to 84) | (36 to 86) |
@@ -102,9 +105,10 @@ The baseline demographics are shown in Table 11.
 
 Efficacy results for Study SO14695 and Study SO14796 are shown in Table 12 and Table 13.
 
-| Table 12 Efficacy Results for First-Line Treatment of Metastatic Colorectal Cancer (Study SO14695) |  |  |
-| --- | --- | --- |
+Table 12 Efficacy Results for First-Line Treatment of Metastatic Colorectal Cancer (Study SO14695)
+
 |  | Capecitabine(N=302) | Fluorouracil + Leucovorin (N=303) |
+| --- | --- | --- |
 | Overall Response Rate |  |  |
 | % (95% CI) | 21 (16, 26) | 11 (8, 15) |
 | p-value | 0.0014 |  |
@@ -117,9 +121,10 @@ Efficacy results for Study SO14695 and Study SO14796 are shown in Table 12 and T
 | Hazard Ratio | 1.00 |  |
 | 95% CI | (0.84, 1.18) |  |
 
-| Table 13 Efficacy Results for First-Line Treatment of Metastatic Colorectal Cancer (Study SO14796) |  |  |
-| --- | --- | --- |
+Table 13 Efficacy Results for First-Line Treatment of Metastatic Colorectal Cancer (Study SO14796)
+
 |  | Capecitabine (N=301) | Fluorouracil + Leucovorin (N=301) |
+| --- | --- | --- |
 | Overall Response Rate |  |  |
 | % (95% CI) | 21 (16, 26) | 14 (10, 18) |
 | p-value | 0.027 |  |
@@ -159,9 +164,10 @@ The efficacy outcome measures were time to disease progression, overall survival
 
 Patient demographics are provided in Table 14.
 
-| Table 14 Baseline Demographics in Metastatic Breast Cancer (Study SO14999) |  |  |
-| --- | --- | --- |
+Table 14 Baseline Demographics in Metastatic Breast Cancer (Study SO14999)
+
 |  | Capecitabine +Docetaxel(N=255) | Docetaxel(N=256) |
+| --- | --- | --- |
 | Age (median, years) | 52 | 51 |
 | Karnofsky Performance Status (median) | 90 | 90 |
 | Site of Disease |  |  |
@@ -189,9 +195,10 @@ Patient demographics are provided in Table 14.
 
 Efficacy results are shown in Table 15, Figure 4 and Figure 5.
 
-| Table 15 Efficacy Results in Metastatic Breast Cancer (Study SO14999) |  |  |  |
-| --- | --- | --- | --- |
+Table 15 Efficacy Results in Metastatic Breast Cancer (Study SO14999)
+
 | Efficacy Parameter | Capecitabine + Docetaxel(N=255) |  | Docetaxel(N=256) |
+| --- | --- | --- | --- |
 | Time to Disease Progression |  |  |  |
 | Median, months | 6.1 |  | 4.2 |
 | 95% CI | (5.4, 6.5) |  | (3.5, 4.5) |
@@ -219,9 +226,10 @@ The major efficacy outcome measure was tumor response rate in patients with meas
 
 The baseline demographics are shown in Table 16.
 
-| Table 16 Baseline Demographics in Metastatic Breast Cancer (Study SO14697) |  |  |
-| --- | --- | --- |
+Table 16 Baseline Demographics in Metastatic Breast Cancer (Study SO14697)
+
 |  | Patients With Measurable Disease (N=135) | All Patients(N=162) |
+| --- | --- | --- |
 | Age (median, years) | 55 | 56 |
 | Karnofsky Performance Status | 90 | 90 |
 | No. Disease Sites |  |  |
@@ -243,9 +251,10 @@ The baseline demographics are shown in Table 16.
 
 Efficacy for Study SO14697 are shown in Table 17.
 
-| Table 17 Efficacy Results in Metastatic Breast Cancer (Study SO14697) |  |
-| --- | --- |
+Table 17 Efficacy Results in Metastatic Breast Cancer (Study SO14697)
+
 | Efficacy Parameter | Resistance to Both Paclitaxel and an Anthracycline(N=43) |
+| --- | --- |
 | Response Rate1(95% CI) | 25.6%(13.5, 41.2) |
 | Complete Response | 0% |
 | Partial Response1 | 11% |

@@ -30,9 +30,10 @@ Most common adverse reactions (>30%) were palmar-plantar erythrodysesthesia synd
 
 Tables 2 and 3 summarize the adverse reactions and laboratory abnormalities in X-ACT.
 
-| Table 2 Adverse Reactions (≥10%) in Patients Who Received Capecitabine for Adjuvant Treatment of Colon Cancer in X-ACT |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 2 Adverse Reactions (≥10%) in Patients Who Received Capecitabine for Adjuvant Treatment of Colon Cancer in X-ACT
+
 | Adverse Reaction | Capecitabine(N=995) |  | Fluorouracil + Leucovorin (N=974) |  |
+| --- | --- | --- | --- | --- |
 |  | All Grades(%) | Grade 3 or 4 (%) | All Grades(%) | Grade 3 or 4 (%) |
 | Skin and Subcutaneous Tissue |  |  |  |  |
 | Palmar-plantar erythrodysesthesia syndrome | 60 | 17 | 9 | <1 |
@@ -61,9 +62,10 @@ Nervous System: dizziness, dysgeusia, headache
 
 Skin & Subcutaneous Tissue: rash, alopecia, erythema
 
-| Table 3 Grade 3 or 4 Laboratory Abnormalities (>1%) in Patients Who Received Capecitabine as a Single Agent for Adjuvant Treatment of Colon Cancer in X-ACT |  |  |
-| --- | --- | --- |
+Table 3 Grade 3 or 4 Laboratory Abnormalities (>1%) in Patients Who Received Capecitabine as a Single Agent for Adjuvant Treatment of Colon Cancer in X-ACT
+
 | Laboratory Abnormality | Capecitabine (N=995) | Fluorouracil + Leucovorin (N=974) |
+| --- | --- | --- |
 | Grade 3 or 4 (%) | Grade 3 or 4 (%) |  |
 | Bilirubin increased | 20 | 6 |
 | Lymphocytes decreased | 13 | 13 |
@@ -100,9 +102,10 @@ Most common adverse reactions (>30%) were anemia, diarrhea, palmar-plantar eryth
 
 Table 4 shows the adverse reactions occurring in this pooled colorectal cancer population.
 
-| Table 4 Adverse Reactions (≥10%) in Patients Who Received Capecitabine in Pooled Metastatic Colorectal Cancer Population (Study SO14695 and Study SO14796) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 4 Adverse Reactions (≥10%) in Patients Who Received Capecitabine in Pooled Metastatic Colorectal Cancer Population (Study SO14695 and Study SO14796)
+
 | Adverse Reaction | Capecitabine (N=596) |  |  | Fluorouracil + Leucovorin(N=593) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | All Grades(%) | Grade 3 (%) | Grade 4(%) | All Grades (%) | Grade 3(%) | Grade 4(%) |  |
 | Blood and Lymphatic System |  |  |  |  |  |  |
 | Anemia | 80 | 2 | <1 | 79 | 1 | <1 |
@@ -183,9 +186,10 @@ Most common adverse reactions (>30%) were diarrhea, stomatitis, palmar-plantar e
 
 Table 5 summarizes the adverse reactions in Study SO14999.
 
-| Table 5 Adverse Reactions (≥10%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 5 Adverse Reactions (≥10%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999
+
 | Adverse Reaction | Capecitabine with Docetaxel (N=251) |  |  | Docetaxel (N=255) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
 | Gastrointestinal |  |  |  |  |  |  |
 | Diarrhea | 67 | 14 | <1 | 48 | 5 | <1 |
@@ -266,9 +270,10 @@ Vascular: lymphedema, hypotension, venous phlebitis and thrombophlebitis, postur
 
 Table 6 summarizes the laboratory abnormalities in this trial.
 
-| Table 6 Laboratory Abnormalities (≥20%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 6 Laboratory Abnormalities (≥20%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999
+
 | Laboratory Abnormality | Capecitabine with Docetaxel (N=251) |  |  | Docetaxel (N=255) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
 | Hematologic |  |  |  |  |  |  |
 | Lymphocytopenia | 99 | 48 | 41 | 98 | 44 | 40 |
@@ -291,9 +296,10 @@ Most common adverse reactions (>30%) were lymphopenia, anemia, diarrhea, hand-an
 
 Table 7 summarizes the adverse reactions in Study SO14697.
 
-| Table 7 Adverse Reactions (≥10%) in Patients Who Received Capecitabine for Metastatic Breast Cancer in Study SO14697 |  |  |  |
-| --- | --- | --- | --- |
+Table 7 Adverse Reactions (≥10%) in Patients Who Received Capecitabine for Metastatic Breast Cancer in Study SO14697
+
 | Adverse Reaction | Capecitabine (n=162) |  |  |
+| --- | --- | --- | --- |
 | All Grades(%) | Grade 3(%) | Grade 4(%) |  |
 | Blood and Lymphatic System |  |  |  |
 | Lymphopenia | 94 | 44 | 15 |
