@@ -360,7 +360,7 @@ Table 15: CTCAE Grade 3/4 Laboratory Abnormalities in ≥10% of Pediatric Patien
 
 Additional Pooled Data from Clinical Trials
 
-The following additional adverse reactions were reported in adult and pediatric patients (n=2809) in SPRYCEL CML clinical studies and adult patients in Ph+ ALL clinical studies at a frequency of ≥10%, 1%–<10%, 0.1%–<1%, or <0.1%.
+The following additional adverse reactions were reported in adult and pediatric patients (n=2809) in SPRYCEL CML clinical studies and adult patients in Ph+ ALL clinical studies at a frequency of ≥10%, 1%– <10%, 0.1%– <1%, or < 0.1%.
 These adverse reactions are included based on clinical relevance.
 
 Gastrointestinal Disorders: 1%–<10% – mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension, constipation, gastritis, colitis (including neutropenic colitis), oral soft tissue disorder; 0.1%–<1% – ascites, dysphagia, anal fissure, upper gastrointestinal ulcer, esophagitis, pancreatitis, gastroesophageal reflux disease; <0.1% – protein losing gastroenteropathy, ileus, acute pancreatitis, anal fistula.
@@ -369,7 +369,7 @@ General Disorders and Administration-Site Conditions: ≥10% – peripheral edem
 
 Skin and Subcutaneous Tissue Disorders: 1%–<10% – alopecia, acne, dry skin, hyperhidrosis, urticaria, dermatitis (including eczema); 0.1%–<1% – pigmentation disorder, skin ulcer, bullous conditions, photosensitivity, nail disorder, neutrophilic dermatosis, panniculitis, palmar-plantar erythrodysesthesia syndrome, hair disorder; <0.1% – leukocytoclastic vasculitis, skin fibrosis.
 
-Respiratory, Thoracic, and Mediastinal Disorders: 1%–<10% – lung infiltration, pneumonitis, cough; 0.1%–<1% – asthma, bronchospasm, dysphonia, pulmonary arterial hypertension; <0.1% – acute respiratory distress syndrome, pulmonary embolism.
+Respiratory, Thoracic, and Mediastinal Disorders: 1%–<10% – lung infiltration, pneumonitis, cough; 0.1%– <1% – asthma, bronchospasm, dysphonia, pulmonary arterial hypertension; <0.1% – acute respiratory distress syndrome, pulmonary embolism.
 
 Nervous System Disorders: 1%–<10% – neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1%–<1% – amnesia, tremor, syncope, balance disorder; <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
 
@@ -416,7 +416,7 @@ Infections: hepatitis B virus reactivation
 
 Cardiac disorders: atrial fibrillation/atrial flutter
 
-Respiratory, thoracic, and mediastinal disorders: interstitial lung disease
+Respiratory, thoracic, and mediastinal disorders: interstitial lung disease, chylothorax
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome
 
