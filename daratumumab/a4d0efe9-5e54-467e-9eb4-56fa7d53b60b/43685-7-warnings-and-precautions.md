@@ -3,7 +3,7 @@
 ## 5.1 Infusion-Related Reactions
 
 DARZALEX can cause severe and/or serious infusion-related reactions including anaphylactic reactions.
-These reactions can be life-threatening and fatal outcomes have been reported [see Adverse Reactions (6.3)].
+These reactions can be life-threatening and fatal outcomes have been reported [see Adverse Reactions (6.2)].
 
 In clinical trials (monotherapy and combination: N=2,066), infusion-related reactions occurred in 37% of patients with the Week 1 (16 mg/kg) infusion, 2% with the Week 2 infusion, and cumulatively 6% with subsequent infusions.
 Less than 1% of patients had a Grade 3/4 infusion-related reaction at Week 2 or subsequent infusions.

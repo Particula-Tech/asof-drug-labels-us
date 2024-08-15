@@ -31,7 +31,7 @@ Figure 2: Kaplan-Meier Curve of OS in MAIA
 
 Additional efficacy results from MAIA are presented in Table 23.
 
-Table 23: Additional Efficacy Results From MAIA Based on intent-to-treat population
+Table 23: Additional Efficacy Results From MAIA Based on intent-to-treat population.
 
 |  | DRd (N=368) | Rd (N=369) |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Table 23: Additional Efficacy Results From MAIA Based on intent-to-treat populat
 | p-value | <0.0001 |  |
 | MRD negativity rate,Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
 | 95% CI (%) | (19.9%, 28.9%) | (4.9%, 10.5%) |
-| p-value p-value from Fisherʼs exact test | <0.0001 |  |
+| p-value p-value from Fisherʼs exact test. | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
 | Number of patients with CR or better | N=175 | N=92 |
 | MRD negativity rate n(%) | 89 (50.9%) | 27 (29.3%) |
@@ -78,9 +78,12 @@ After a median follow-up of 40 months, the median PFS was 36.4 months (95% CI: 3
 | --- |
 
 After a median follow-up of 40 months, ALCYONE demonstrated an improvement in overall survival (OS) in the D-VMP arm as compared to the VMP arm (HR=0.60; 95% CI: 0.46, 0.80; p=0.0003), representing a 40% reduction in the risk of death in patients treated in the D-VMP arm.
-Median OS was not reached for either arm.
+Median OS had not been reached for either arm.
 
-Figure 4: Kaplan-Meier Curve of OS in ALCYONE
+After a median follow-up of 87 months, the median OS was 83 months (95% CI: 72.5, NE) in the D-VMP arm and 53.6 months (95% CI: 46.3, 60.9) in the VMP arm.
+
+| Figure 4: Kaplan-Meier Curve of OS in ALCYONE OS median follow-up of 40 months |
+| --- |
 
 Additional efficacy results from ALCYONE are presented in Table 24.
 
@@ -279,7 +282,7 @@ Table 28: Additional Efficacy Results From CANDOR (Intent-to-Treat Population)
 | Complete response (CR) | 89 (28%) | 16 (10%) |
 | Very good partial response (VGPR) | 127 (41%) | 59 (38%) |
 | Partial response (PR) | 47 (15%) | 40 (26%) |
-| MRD [-] CR rate at 12 months n(%) MRD[-]CR (at a 10 -5 level) is defined as achievement of CR per IMWG-URC and MRD[-] status as assessed by the next-generation sequencing assay (ClonoSEQ) | 39 (12%) | 2 (1.3%) |
+| MRD [-] CR rate at 12 months n(%) MRD[-]CR (at a 10 -5 level) is defined as achievement of CR per IMWG-URC and MRD[-] status as assessed by the next-generation sequencing assay (ClonoSEQ). | 39 (12%) | 2 (1.3%) |
 | 95% CI (%) | (9, 17) | (0.2, 4.6) |
 | p-value (1-sided) | <0.0001 |  |
 | MRD [-] CR | 43 (14%) | 5 (3.2%) |

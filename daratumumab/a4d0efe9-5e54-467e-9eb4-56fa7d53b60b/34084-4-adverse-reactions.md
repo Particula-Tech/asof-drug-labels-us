@@ -2,9 +2,9 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Infusion-related reactions [see Warning and Precautions (5.1)].
-- Neutropenia [see Warning and Precautions (5.3)].
-- Thrombocytopenia [see Warning and Precautions (5.4)].
+- Infusion-related reactions [see Warnings and Precautions (5.1)].
+- Neutropenia [see Warnings and Precautions (5.3)].
+- Thrombocytopenia [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -99,7 +99,7 @@ Table 9: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5%
 | Dyspnea dyspnea, dyspnea exertional | 13 | 2 | 1 | 5 | 1 | 0 |
 | Vascular disorders |  |  |  |  |  |  |
 | Hypertension hypertension, blood pressure increased | 10 | 4 | < 1 | 3 | 2 | 0 |
-| Key: D=daratumumab, VMP=bortezomib-melphalan-prednisone |  |  |  |  |  |  |
+| Key: D=daratumumab, VMP=bortezomib-melphalan-prednisone. |  |  |  |  |  |  |
 
 Laboratory abnormalities worsening during treatment from baseline listed in Table 10.
 
@@ -112,7 +112,7 @@ Table 10: Treatment-Emergent Hematology Laboratory Abnormalities in ALCYONE
 | Neutropenia | 86 | 34 | 10 | 87 | 32 | 11 |
 | Lymphopenia | 85 | 46 | 12 | 83 | 44 | 9 |
 | Anemia | 47 | 18 | 0 | 50 | 21 | 0 |
-| Key: D=daratumumab, VMP=bortezomib-melphalan-prednisone |  |  |  |  |  |  |
+| Key: D=daratumumab, VMP=bortezomib-melphalan-prednisone. |  |  |  |  |  |  |
 
 Newly Diagnosed Multiple Myeloma Eligible for Autologous Stem Cell Transplant
 
@@ -142,7 +142,7 @@ Table 11: Adverse Reactions Reported in ≥ 10% of Patients and With at Least a 
 | Cough Cough, Productive cough | 17 | 0 | 0 | 9 | 0 | 0 |
 | Vascular disorders |  |  |  |  |  |  |
 | Hypertension | 10 | 4 | 0 | 5 | 2 | 0 |
-| Key: D=daratumumab, VTd=bortezomib-thalidomide -dexamethasone. Note: Hematology laboratory related toxicities were excluded and reported separately in the table below |  |  |  |  |  |  |
+| Key: D=daratumumab, VTd=bortezomib-thalidomide -dexamethasone. Note: Hematology laboratory related toxicities were excluded and reported separately in the table below. |  |  |  |  |  |  |
 
 Table 12: Treatment-Emergent Hematology Laboratory Abnormalities in CASSIOPEIA
 
@@ -293,7 +293,7 @@ Table 17: Adverse Reactions (≥15%) in Patients Who Received DARZALEX in Combin
 | Insomnia | 18 | 3.9 | 11 | 2 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Back pain | 16 | 1.9 | 10 | 1.3 |
-| Key: D=daratumumab; Kd=carfilzomib-dexamethasone |  |  |  |  |
+| Key: D=daratumumab; Kd=carfilzomib-dexamethasone. |  |  |  |  |
 
 Adverse Reactions Occurring at a Frequency of < 15%
 
@@ -359,7 +359,7 @@ Table 18: Adverse Reactions (≥15%) of Patients Who Received DARZALEX in Combin
 | Musculoskeletal and connective tissue disorders |  |  |
 | Back pain | 25 | 0 |
 | Pain in extremity | 15 | 0 |
-| Key: D=daratumumab; Kd=carfilzomib-dexamethasone |  |  |
+| Key: D=daratumumab; Kd=carfilzomib-dexamethasone. |  |  |
 
 Adverse Reactions Occurring at a Frequency of < 15%
 
@@ -392,7 +392,7 @@ Table 19: Adverse Reactions With Incidence ≥10% Reported in EQUULEUS
 | Infusion-related reactions Infusion-related reaction includes terms determined by investigators to be related to infusion | 50 | 4 | 0 |
 | Pyrexia | 25 | 1 | 0 |
 | Chills | 20 | 0 | 0 |
-| Edema peripheral edema, edema peripheral, peripheral swelling. | 17 | 4 | 0 |
+| Edema peripheral edema, edema peripheral, peripheral swelling | 17 | 4 | 0 |
 | Asthenia | 15 | 0 | 0 |
 | Non-cardiac chest pain | 15 | 0 | 0 |
 | Pain | 11 | 0 | 0 |
@@ -535,17 +535,7 @@ The following adverse reactions have been reported following administration of d
 
 Nervous System disorders:Syncope
 
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is the potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other daratumumab products may be misleading.
-
-In clinical trials of patients with multiple myeloma treated with DARZALEX as monotherapy or as combination therapies, 0.35% (6/1,713) of patients developed treatment-emergent anti-daratumumab antibodies.
-Of those, 4 patients tested positive for neutralizing antibodies.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

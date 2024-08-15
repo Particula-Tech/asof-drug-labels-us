@@ -3,7 +3,7 @@
 ## 2.1 Important Dosing Information
 
 - Administer pre-infusion and post-infusion medications [see Dosage and Administration (2.3)].
-- Administer only as an intravenous infusion after dilution in 0.9% Sodium Chloride Injection, USP [see Dosage and Administration (2.5)].
+- Administer only as an intravenous infusion after dilution in 0.9% Sodium Chloride Injection [see Dosage and Administration (2.5)].
 - DARZALEX should be administered by a healthcare provider, with immediate access to emergency equipment and appropriate medical support to manage infusion-related reactions if they occur [see Warnings and Precautions (5.1)].
 - Type and screen patients prior to starting DARZALEX [see Warnings and Precautions (5.2)].
 
@@ -179,8 +179,8 @@ Prepare the solution for infusion using aseptic technique as follows:
 - DARZALEX vials of the same strength with different NDCs are available and can be admixed in the same infusion bag [see Description (11), How Supplied/Storage and Handling (16)].
 - Check that the DARZALEX solution is colorless to pale yellow.
   Do not use if opaque particles, discoloration or other foreign particles are present.
-- Remove a volume of 0.9% Sodium Chloride Injection, USP from the infusion bag/container that is equal to the required volume of DARZALEX solution.
-- Withdraw the necessary amount of DARZALEX solution and dilute to the appropriate volume by adding to the infusion bag/container containing 0.9% Sodium Chloride Injection, USP as specified in Table 6 [see Dosage and Administration (2.2)].
+- Remove a volume of 0.9% Sodium Chloride Injection from the infusion bag/container that is equal to the required volume of DARZALEX solution.
+- Withdraw the necessary amount of DARZALEX solution and dilute to the appropriate volume by adding to the infusion bag/container containing 0.9% Sodium Chloride Injection as specified in Table 6 [see Dosage and Administration (2.2)].
   Infusion bags/containers must be made of either polyvinylchloride (PVC), polypropylene (PP), polyethylene (PE) or polyolefin blend (PP+PE).
   Dilute under appropriate aseptic conditions.
   Discard any unused portion left in the vial.

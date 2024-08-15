@@ -49,3 +49,11 @@ The effect of severe (total bilirubin >3 times ULN and any AST) hepatic impairme
 Body Weight
 
 The central volume of distribution and clearance of daratumumab increased with increasing body weight.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibody (ADA, including neutralizing antibody) is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of daratumumab or of other daratumumab products.
+
+With the median DARZALEX treatment ranging from 3.3 to 48 months across 10 clinical trials of patients with multiple myeloma treated with DARZALEX as monotherapy or as combination therapies, the incidence of anti-daratumumab antibody development was 0.6% (14/2,179) and 12 patients tested positive for neutralizing antibodies.
+Because of the low occurrence of anti-drug antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of daratumumab products is unknown.
