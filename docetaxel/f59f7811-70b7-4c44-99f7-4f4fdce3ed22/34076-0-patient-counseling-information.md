@@ -93,10 +93,10 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured For:Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive Suite 200 Raleigh, NC 27617, USA.
 
 Manufactured By:Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
 
 10 0739 4 6023402
 
-Revised August 2023
+Revised September 2023
