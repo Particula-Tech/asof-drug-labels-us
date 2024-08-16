@@ -72,3 +72,21 @@ PHARMACIST: Dispense in well-closed, light-resistant container with child-resist
 
 STORE at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
 Protect from light.
+
+# PRINCIPAL DISPLAY PANEL - 20 mg bulk
+
+NDC 43547-401-94
+
+20 mg bulk
+
+# PRINCIPAL DISPLAY PANEL - 40 mg bulk
+
+NDC 43547-402-94
+
+40 mg bulk
+
+# PRINCIPAL DISPLAY PANEL - 80 mg bulk
+
+NDC 43547-403-94
+
+80 mg bulk
