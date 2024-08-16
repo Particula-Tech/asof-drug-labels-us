@@ -4,7 +4,7 @@ ALWAYS DISPENSE ENCLOSED MEDICATION GUIDE TO EACH PATIENT
 
 NDC 0069-0238-01 Rx only
 
-Ruxience™ (rituximab-pvvr) Injection
+Ruxience® (rituximab-pvvr) Injection
 
 100 mg/10 mL (10 mg/mL)
 
@@ -20,7 +20,7 @@ ALWAYS DISPENSE ENCLOSED MEDICATION GUIDE TO EACH PATIENT
 
 NDC 0069-0238-01
 
-Ruxience™ (rituximab-pvvr) Injection
+Ruxience® (rituximab-pvvr) Injection
 
 100 mg/10 mL (10 mg/mL)
 
@@ -32,7 +32,7 @@ DISCARD UNUSED PORTION.
 
 Rx only
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 # PRINCIPAL DISPLAY PANEL - 50 mL Vial Label
 
@@ -40,7 +40,7 @@ ALWAYS DISPENSE ENCLOSED MEDICATION GUIDE TO EACH PATIENT
 
 NDC 0069-0249-01
 
-Ruxience™ (rituximab-pvvr) Injection
+Ruxience® (rituximab-pvvr) Injection
 
 500 mg/50 mL (10 mg/mL)
 
@@ -58,7 +58,7 @@ ALWAYS DISPENSE ENCLOSED MEDICATION GUIDE TO EACH PATIENT
 
 NDC 0069-0249-01
 
-Ruxience™ (rituximab-pvvr) Injection
+Ruxience® (rituximab-pvvr) Injection
 
 500 mg/50 mL (10 mg/mL)
 
@@ -70,4 +70,4 @@ DISCARD UNUSED PORTION.
 
 Rx only
 
-Pfizer Biosimilars
+Pfizer Oncology
