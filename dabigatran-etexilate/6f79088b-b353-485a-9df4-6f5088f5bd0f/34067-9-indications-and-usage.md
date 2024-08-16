@@ -12,5 +12,8 @@ Dabigatran etexilate capsules are indicated for the treatment of deep venous thr
 
 Dabigatran etexilate capsules are indicated to reduce the risk of recurrence of deep venous thrombosis and pulmonary embolism in adult patients who have been previously treated.
 
+## 1.4 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
+
+Dabigatran etexilate capsules are indicated for the prophylaxis of deep vein thrombosis and pulmonary embolism in adult patients who have undergone hip replacement surgery.
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+However, due to Boehringer Ingelheim Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

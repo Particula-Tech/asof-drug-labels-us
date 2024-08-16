@@ -55,6 +55,8 @@ Adjust dose appropriately in patients with renal impairment receiving concomitan
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients Patients with severe renal impairment (CrCl ≤ 30 mL/min) were excluded from RE-COVER.
 Dosing recommendations for patients with CrCl ≤ 30 mL/min or on dialysis cannot be provided.
 Avoid use of dabigatran with concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
-
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery Patients with severe renal impairment (CrCl < 30 mL/min) were excluded from RE-NOVATE and RE-NOVATE II.
+Dosing recommendations for patients with CrCl < 30 mL/min or on dialysis cannot be provided.
+Avoid use of dabigatran with concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

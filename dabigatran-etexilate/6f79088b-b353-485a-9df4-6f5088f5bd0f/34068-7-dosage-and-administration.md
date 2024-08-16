@@ -18,6 +18,9 @@ Do not substitute different dosage forms on a milligram-to-milligram basis and d
 | Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE | CrCl > 30 mL/min: | 150 mg twice daily |
 | CrCl ≤ 30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
 | CrCl < 50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
+| Prophylaxis of DVT and PE Following Hip Replacement Surgery | CrCl > 30 mL/min: | 110 mg for first day, then 220 mg once daily |
+| CrCl ≤ 30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
+| CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients For patients with creatinine clearance (CrCl) > 30 mL/min, the recommended dosage of dabigatran etexilate capsules are 150 mg taken orally, twice daily.
 For patients with severe renal impairment (CrCl 15 to 30 mL/min), the recommended dosage of dabigatran etexilate capsules are 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
@@ -26,15 +29,15 @@ Treatment of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients For
 Dosing recommendations for patients with a CrCl ≤ 30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients For patients with CrCl >30 mL/min, the recommended dose of dabigatran etexilate capsules are 150 mg taken orally, twice daily after previous treatment.
 Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
-
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery For patients with CrCl > 30 mL/min, the recommended dosage of dabigatran etexilate capsules are 110 mg taken orally 1-4 hours after surgery and after hemostasis has been achieved, then 220 mg taken once daily for 28-35 days.
+If dabigatran etexilate capsule is not started on the day of surgery, after hemostasis has been achieved initiate treatment with 220 mg once daily.
+Dosing recommendations for patients with a CrCl ≤ 30 mL/min or on dialysis cannot be provided [see Dosage and Administration (2.4), Use in Specific Populations (8.6) and Clinical Pharmacology (12.2, 12.3)].
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustments
 
-Adult patients with renal impairment
-
-Assess renal function prior to initiation of treatment with dabigatran etexilate capsules.
+Adult patients with renal impairment Assess renal function prior to initiation of treatment with dabigatran etexilate capsules.
 Periodically assess renal function as clinically indicated (i.e., more frequently in clinical situations that may be associated with a decline in renal function) and adjust therapy accordingly.
 Discontinue dabigatran etexilate capsules in patients who develop acute renal failure while on dabigatran etexilate capsules and consider alternative anticoagulant therapy.
 Generally, in adult patients the extent of anticoagulation does not need to be assessed.
@@ -43,10 +46,9 @@ Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrill
 Reduce the dosage of dabigatran etexilate capsules to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism Dosing recommendations for patients with CrCl ≤ 30 mL/min cannot be provided.
 Avoid use of concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
-
-Pediatric patients with renal impairment
-
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
+Avoid use of concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Dosage and Administration (2.5), Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
+Pediatric patients with renal impairment Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Administration

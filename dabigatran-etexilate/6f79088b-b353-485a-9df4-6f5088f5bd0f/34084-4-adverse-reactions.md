@@ -5,10 +5,7 @@ The following clinically significant adverse reactions are described elsewhere i
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-Adult Trials
-
-Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation The RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy) study provided safety information on the use of two doses of dabigatran etexilate capsules and warfarin [see Clinical Studies (14.1)].
+Adult Trials Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation The RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy) study provided safety information on the use of two doses of dabigatran etexilate capsules and warfarin [see Clinical Studies (14.1)].
 The numbers of patients and their exposures are described in Table 2.
 Limited information is presented on the 110 mg dosing arm because this dose is not approved.
 Table 2 Summary of Treatment Exposure in RE-LY
@@ -40,10 +37,10 @@ Table 3 Adjudicated Major Bleeding Events in Treated Patientsa
 | ICH | 3 (0.03) | 9 (0.08) | 0.35 (0.09, 1.28) |
 | Non-intracranialg | 4 (0.04) | 7 (0.07) | 0.59 (0.17, 2.02) |
 
-aPatients during treatment or within 2 days of stopping study treatment.
+a Patients during treatment or within 2 days of stopping study treatment.
 Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. bAnnual event rate per 100 pt-years = 100 * number of subjects with event/subject-years.
 Subject-years is defined as cumulative number of days from first drug intake to event date, date of last drug intake + 2, death date (whatever occurred first) across all treated subjects divided by 365.25.
-In case of recurrent events of the same category, the first event was considered. cDefined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥ 2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome. dIntracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds. eOn-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14 Clinical Studies. fFatal bleed: Adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding. gNon-intracranial fatal bleed: Adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator’s clinical assessment.
+In case of recurrent events of the same category, the first event was considered. c Defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥ 2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome. d Intracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds. e On-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14 Clinical Studies. f Fatal bleed: Adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding. g Non-intracranial fatal bleed: Adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator’s clinical assessment.
 There was a higher rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg than in patients receiving warfarin (6.6% vs 4.2%, respectively).
 The risk of major bleeds was similar with dabigatran etexilate capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on dabigatran etexilate capsules (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥75 years of age.
 Figure 1 Adjudicated Major Bleeding by Baseline Characteristics Including Hemorrhagic Stroke Treated Patients
@@ -128,16 +125,45 @@ Table 6 Bleeding Events in RE-SONATE Treated Patients
 | Any bleeding | 72 (10.5) | 40 (6.1) | 1.77 (1.20, 2.61) |
 
 Note: MBE can belong to more than one criterion. aPatients with at least one MBE. bBleeding site based on investigator assessment.
-Patients can have more than one site of bleeding. cConfidence interval
-
-In the RE-SONATE study, the rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg was 0.7% (0.3% on placebo).
+Patients can have more than one site of bleeding. cConfidence interval In the RE-SONATE study, the rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg was 0.7% (0.3% on placebo).
 Clinical Myocardial Infarction Events In the active-controlled VTE studies, a higher rate of clinical myocardial infarction was reported in patients who received dabigatran etexilate capsules [20 (0.66 per 100 patient-years)] than in those who received warfarin [5 (0.17 per 100 patient-years)].
 In the placebo-controlled study, a similar rate of non-fatal and fatal clinical myocardial infarction was reported in patients who received dabigatran etexilate capsules [1 (0.32 per 100 patient-years)] and in those who received placebo [1 (0.34 per 100 patient-years)].
 Gastrointestinal Adverse Reactions In the four pivotal studies, patients on dabigatran etexilate capsules 150 mg had a similar incidence of gastrointestinal adverse reactions (24.7% vs 22.7% on warfarin).
 Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 7.5% vs 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3.0% vs 1.7%, respectively.
 Hypersensitivity Reactions In the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in 0.1% of patients receiving dabigatran etexilate capsules.
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery Dabigatran etexilate capsules was studied in 5,476 patients, randomized and treated in two double-blind, active-controlled non-inferiority trials (RE-NOVATE and RE-NOVATE II).
+The demographic characteristics were similar across the two studies and between the treatment groups within these studies.
+Approximately 45.3% of the treated patients were male, with a mean age of 63.2 years.
+The majority of the patients were white (96.1%), 3.6% were Asian, and 0.3% were black with a mean CrCl of 92 mL/min.
+Bleeding events for the RE-NOVATE and RE-NOVATE II studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or retroperitoneal bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells, requiring treatment cessation or leading to re-operation.
+The RE-NOVATE study compared dabigatran etexilate capsules 75 mg taken orally 1-4 hours after surgery followed by 150 mg once daily, dabigatran etexilate capsules 110 mg taken orally 1-4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
+The RE-NOVATE II study compared dabigatran etexilate capsules 110 mg taken orally 1-4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
+In the RE-NOVATE and RE-NOVATE II studies, patients received 28-35 days of dabigatran etexilate capsules or enoxaparin with median exposure of 33 days.
+Tables 7 and 8 show the number of patients experiencing bleeding events in the analysis of RE-NOVATE and RE-NOVATE II.
+Table 7 Bleeding Events in RE-NOVATE Treated Patients
+
+|  | Dabigatran etexilate capsules 220 mg N (%) | Enoxaparin N (%) |
+| --- | --- | --- |
+| Patients | N=1,146 | N=1154 |
+| Major bleeding event | 23 (2.0) | 18 (1.6) |
+| Clinically relevant non-major bleeding | 48 (4.2) | 40 (3.5) |
+| Any bleeding | 141 (12.3) | 132 (11.4) |
+
+Table 8 Bleeding Events in RE-NOVATE II Treated Patients
+
+|  | Dabigatran etexilate capsules 220 mg N (%) | Enoxaparin N (%) |
+| --- | --- | --- |
+| Patients | N=1,010 | N=1003 |
+| Major bleeding event | 14 (1.4) | 9 (0.9) |
+| Clinically relevant non-major bleeding | 26 (2.6) | 20 (2.0) |
+| Any bleeding | 98 (9.7) | 83 (8.3) |
+
+In the two studies, the rate of major gastrointestinal bleeds in patients receiving dabigatran etexilate capsules and enoxaparin was the same (0.1%) and for any gastrointestinal bleeds was 1.4% for dabigatran etexilate capsules 220 mg and 0.9% for enoxaparin.
+Gastrointestinal Adverse Reactions In the two studies, the incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs. 1.0%, respectively.
+Hypersensitivity Reactions In the two studies, drug hypersensitivity (such as urticaria, rash, and pruritus) was reported in 0.3% of patients receiving dabigatran etexilate capsules 220 mg.
+Clinical Myocardial Infarction Events In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience

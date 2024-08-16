@@ -14,5 +14,9 @@ The concomitant use of dabigatran and P-gp inhibitors in patients with severe re
 
 Avoid use of dabigatran and P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
+## 7.3 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
+
+In patients with CrCl ≥ 50 mL/min who have concomitant administration of P-gp inhibitors such as dronedarone or systemic ketoconazole, it may be helpful to separate the timing of administration of dabigatran and the P-gp inhibitor by several hours.
+The concomitant use of dabigatran and P-gp inhibitors in patients with CrCl <50 mL/min should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6) and Clinical Pharmacology (12.2, 12.3)].
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
