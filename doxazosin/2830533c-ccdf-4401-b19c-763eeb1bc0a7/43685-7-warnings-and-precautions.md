@@ -11,10 +11,10 @@ Concomitant administration of doxazosin with a PDE-5 inhibitor can result in add
 
 ## 5.2 Cataract Surgery
 
-Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha 1 blockers.
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha 1blockers.
 This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
 The patient’s surgeon should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
-There does not appear to be a benefit of stopping alpha 1 blocker therapy prior to cataract surgery.
+There does not appear to be a benefit of stopping alpha 1blocker therapy prior to cataract surgery.
 
 ## 5.3 Prostate Cancer
 
@@ -23,5 +23,5 @@ Carcinoma of the prostate should therefore be ruled out prior to commencing ther
 
 ## 5.4 Priapism
 
-Alpha 1 antagonists, including doxazosin, have been associated with priapism (painful penile erection, sustained for hours and unrelieved by sexual intercourse or masturbation).
+Alpha 1antagonists, including doxazosin, have been associated with priapism (painful penile erection, sustained for hours and unrelieved by sexual intercourse or masturbation).
 This condition can lead to permanent impotence if not promptly treated.

@@ -5,8 +5,8 @@ Two adolescents, who each intentionally ingested 40 mg doxazosin with diclofenac
 A two-year-old child who accidently ingested 4 mg doxazosin was treated with gastric lavage and remained normotensive during the five-hour emergency room observation period.
 A six-month-old child accidentally received a crushed 1 mg tablet of doxazosin and was reported to have been drowsy.
 A 32-year-old female with chronic renal failure, epilepsy, and depression intentionally ingested 60 mg doxazosin (blood level = 0.9 mcg/mL; normal values in hypertensives = 0.02 mcg/mL); death was attributed to a grand mal seizure resulting from hypotension.
-A 39-year-old female who ingested 70 mg doxazosin, alcohol, and Dalmane ® (flurazepam) developed hypotension which responded to fluid therapy.
+A 39-year-old female who ingested 70 mg doxazosin, alcohol, and Dalmane ®(flurazepam) developed hypotension which responded to fluid therapy.
 
-The oral LD 50 of doxazosin is greater than 1000 mg/kg in mice and rats.
+The oral LD 50of doxazosin is greater than 1000 mg/kg in mice and rats.
 The most likely manifestation of overdosage would be hypotension, for which the usual treatment would be intravenous infusion of fluid.
 As doxazosin is highly protein bound, dialysis would not be indicated.

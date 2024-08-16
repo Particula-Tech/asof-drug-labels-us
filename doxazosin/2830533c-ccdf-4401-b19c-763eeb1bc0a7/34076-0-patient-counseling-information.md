@@ -11,10 +11,10 @@ Priapism
 
 Advise patients of the possibility of priapism and to seek immediate medical attention if symptoms occur.
 
-Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-10 0858 3 6020796
+10 0858 4 6031202
 
-Issued November 2022
+Issued July 2024

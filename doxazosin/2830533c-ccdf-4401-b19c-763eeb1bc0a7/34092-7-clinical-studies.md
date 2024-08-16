@@ -36,7 +36,7 @@ TABLE 4
 
 Mean Changes in Blood Pressure from Baseline to the Mean of the Final Efficacy Phase in Normotensives (Diastolic BP <90 mmHg) in Two Double-blind, Placebo-controlled U.S. Studies with Doxazosin 1 mg to 8 mg once daily.
 
-|  | PLACEBO (N=85) |  | DOXAZOSIN (N=183) |  |
+|  | PLACEBO(N=85) |  | DOXAZOSIN(N=183) |  |
 | --- | --- | --- | --- | --- |
 | Sitting BP (mmHg) | Baseline | Change | Baseline | Change |
 | Systolic | 128.4 | –1.4 | 128.8 | –4.9* |

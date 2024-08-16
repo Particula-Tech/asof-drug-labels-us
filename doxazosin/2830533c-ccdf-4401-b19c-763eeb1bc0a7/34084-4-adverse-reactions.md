@@ -65,7 +65,7 @@ Doxazosin has been associated with decreases in white blood cell counts
 
 Laboratory changes observed in clinical studies
 
-Leukopenia/Neutropenia: Decreases in mean white blood cell (WBC) and mean neutrophil count were observed in controlled clinical trials of hypertensive patients receiving doxazosin.
+Leukopenia/Neutropenia:Decreases in mean white blood cell (WBC) and mean neutrophil count were observed in controlled clinical trials of hypertensive patients receiving doxazosin.
 In cases where follow-up was available, WBC and neutrophil counts returned to normal after discontinuation of doxazosin.
 No patients became symptomatic as a result of the low WBC or neutrophil counts.
 
@@ -76,26 +76,26 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 In post-marketing experience, the following additional adverse reactions have been reported:
 
-Blood and Lymphatic System Disorders: leukopenia, thrombocytopenia;
+Blood and Lymphatic System Disorders:leukopenia, thrombocytopenia;
 
-Immune System Disorders: allergic reaction;
+Immune System Disorders:allergic reaction;
 
-Nervous System Disorders: hypoesthesia;
+Nervous System Disorders:hypoesthesia;
 
-Eye Disorders: Intraoperative Floppy Iris Syndrome [see Warnings and Precautions (5.2)].
+Eye Disorders:Intraoperative Floppy Iris Syndrome [see Warnings and Precautions (5.2)].
 
-Cardiac Disorders: bradycardia;
+Cardiac Disorders:bradycardia;
 
-Respiratory, Thoracic and Mediastinal Disorders: bronchospasm aggravated;
+Respiratory, Thoracic and Mediastinal Disorders:bronchospasm aggravated;
 
-Gastrointestinal Disorders: vomiting;
+Gastrointestinal Disorders:vomiting;
 
-Hepatobiliary Disorders: cholestasis, hepatitis cholestatic;
+Hepatobiliary Disorders:cholestasis, hepatitis cholestatic;
 
-Skin and Subcutaneous Tissue Disorders: urticaria;
+Skin and Subcutaneous Tissue Disorders:urticaria;
 
-Musculoskeletal and Connective Tissue Disorders: muscle cramps, muscle weakness;
+Musculoskeletal and Connective Tissue Disorders:muscle cramps, muscle weakness;
 
-Renal and Urinary Disorders: hematuria, micturition disorder, micturition frequency, nocturia;
+Renal and Urinary Disorders:hematuria, micturition disorder, micturition frequency, nocturia;
 
-Reproductive System and Breast Disorders: gynecomastia, priapism.
+Reproductive System and Breast Disorders:gynecomastia, priapism.

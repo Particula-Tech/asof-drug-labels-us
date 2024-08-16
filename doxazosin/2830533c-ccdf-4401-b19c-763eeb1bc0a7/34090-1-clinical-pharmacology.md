@@ -8,13 +8,13 @@ The symptoms associated with benign prostatic hyperplasia (BPH), such as urinary
 The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma.
 However, the severity of BPH symptoms and the degree of urethral obstruction do not correlate well with the size of the prostate.
 The dynamic component of BPH is associated with an increase in smooth muscle tone in the prostate and bladder neck.
-The degree of tone in this area is mediated by the alpha 1 adrenoceptor, which is present in high density in the prostatic stroma, prostatic capsule and bladder neck.
-Blockade of the alpha 1 receptor decreases urethral resistance and may relieve the obstruction and BPH symptoms and improve urine flow.
+The degree of tone in this area is mediated by the alpha 1adrenoceptor, which is present in high density in the prostatic stroma, prostatic capsule and bladder neck.
+Blockade of the alpha 1receptor decreases urethral resistance and may relieve the obstruction and BPH symptoms and improve urine flow.
 
 Hypertension
 
-The mechanism of action of doxazosin is selective blockade of the alpha 1 (postjunctional) subtype of adrenergic receptors.
-Studies in normal human subjects have shown that doxazosin competitively antagonized the pressor effects of phenylephrine (an alpha 1 agonist) and the systolic pressor effect of norepinephrine.
+The mechanism of action of doxazosin is selective blockade of the alpha 1(postjunctional) subtype of adrenergic receptors.
+Studies in normal human subjects have shown that doxazosin competitively antagonized the pressor effects of phenylephrine (an alpha 1agonist) and the systolic pressor effect of norepinephrine.
 Doxazosin and prazosin have similar abilities to antagonize phenylephrine.
 The antihypertensive effect of doxazosin results from a decrease in systemic vascular resistance.
 The parent compound doxazosin is primarily responsible for the antihypertensive activity.
@@ -29,7 +29,7 @@ Administration of doxazosin to patients with symptomatic BPH resulted in a stati
 
 Effect on Normotensive Patients with Benign Prostatic Hyperplasia (BPH)
 
-Although blockade of alpha 1 adrenoceptors also lowers blood pressure in hypertensive patients with increased peripheral vascular resistance, doxazosin treatment of normotensive men with BPH did not result in a clinically significant blood pressure lowering effect (Table 4).
+Although blockade of alpha 1adrenoceptors also lowers blood pressure in hypertensive patients with increased peripheral vascular resistance, doxazosin treatment of normotensive men with BPH did not result in a clinically significant blood pressure lowering effect (Table 4).
 The proportion of normotensive patients with a sitting systolic blood pressure less than 90 mmHg and/or diastolic blood pressure less than 60 mmHg at any time during treatment with doxazosin 1 mg to 8 mg once daily was 6.7% with doxazosin and not significantly different (statistically) from that with placebo (5%).
 
 Hypertension
@@ -62,7 +62,7 @@ Doxazosin is extensively metabolized in the liver, mainly by O-demethylation of 
 In vitro studies suggest that the primary pathway for elimination is via CYP 3A4; however, CYP 2D6 and CYP 2C9 metabolic pathways are also involved to a lesser extent.
 Although several active metabolites of doxazosin have been identified, the pharmacokinetics of these metabolites have not been characterized.
 
-Excretion Plasma elimination of doxazosin is biphasic, with a terminal elimination half-life of about 22 hours.
+ExcretionPlasma elimination of doxazosin is biphasic, with a terminal elimination half-life of about 22 hours.
 Steady-state studies in hypertensive patients given doxazosin doses of 2 mg to 16 mg once daily showed linear kinetics and dose proportionality.
 In two studies, following the administration of 2 mg orally once daily, the mean accumulation ratios (steady-state AUC vs. first-dose AUC) were 1.2 and 1.7.
 Enterohepatic recycling is suggested by secondary peaking of plasma doxazosin concentrations.
@@ -89,6 +89,6 @@ Drug Interactions
 
 There are only limited data on the effects of drugs known to influence the hepatic metabolism of doxazosin (e.g., cimetidine).
 
-Cimetidine: In healthy volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin, and a slight but not significant increase in mean C max and mean half-life of doxazosin.
+Cimetidine:In healthy volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin, and a slight but not significant increase in mean C maxand mean half-life of doxazosin.
 
-In vitro data in human plasma indicate that doxazosin has no effect on protein binding of digoxin, warfarin, phenytoin, or indomethacin.
+In vitrodata in human plasma indicate that doxazosin has no effect on protein binding of digoxin, warfarin, phenytoin, or indomethacin.
