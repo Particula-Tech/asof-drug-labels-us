@@ -40,16 +40,27 @@ Especially tell your doctor if you take:
 - any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.
-
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
 How should I take pramipexole dihydrochloride tablets?
 
-• Take pramipexole dihydrochloride tablets exactly as your doctor tells you to take it. • Your doctor will tell you how much pramipexole dihydrochloride tablets to take and when to take it.
-Do not take more or less pramipexole dihydrochloride tablets than your doctor tells you to. • Your doctor may change your dose if needed. • Pramipexole dihydrochloride tablets can be taken with or without food.
-Taking pramipexole dihydrochloride tablets with food may lower your chances of getting nausea. • If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away. • If you miss a dose, do not double your next dose.
-Skip the dose you missed and take your next regular dose. • Do not stop taking pramipexole dihydrochloride without talking to your doctor first.
+• Take pramipexole dihydrochloride tablets exactly as your doctor tells you to take it.
+
+• Your doctor will tell you how much pramipexole dihydrochloride tablets to take and when to take it.
+Do not take more or less pramipexole dihydrochloride tablets than your doctor tells you to.
+
+• Your doctor may change your dose if needed.
+
+• Pramipexole dihydrochloride tablets can be taken with or without food.
+Taking pramipexole dihydrochloride tablets with food may lower your chances of getting nausea.
+
+• If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
+
+• If you miss a dose, do not double your next dose.
+Skip the dose you missed and take your next regular dose.
+
+• Do not stop taking pramipexole dihydrochloride without talking to your doctor first.
 If your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should ask your doctor for specific instructions on how to safely discontinue taking pramipexole dihydrochloride.
 If you stop pramipexole dihydrochloride tablets you may have withdrawal symptoms (see “withdrawal symptoms” under “What are the possible side effects of pramipexole dihydrochloride?”).
 
@@ -163,7 +174,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about pramipexole dihydrochloride tablets that is written for healthcare professionals.
 
-For additional information, you may also call at 1-800-912-9561.
+For more information, you may also call at 1-800-912-9561.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 

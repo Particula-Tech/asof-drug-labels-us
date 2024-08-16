@@ -67,7 +67,6 @@ Bottles of 1,500 NDC 13668-095-15
 ## 16.2 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° and 30°C (59° and 86°F) [see USP Controlled Room Temperature].
-
 Protect from light.
 
 Store in a safe place out of the reach of children.

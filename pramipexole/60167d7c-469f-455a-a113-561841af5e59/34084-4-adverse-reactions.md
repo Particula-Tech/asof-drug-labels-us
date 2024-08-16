@@ -174,7 +174,7 @@ Table 6 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with
 
 Table 7 summarizes data for adverse reactions that appeared to be dose related in the 12-week fixed dose study.
 
-Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in >5% of all Patients in the Treatment Phase)
+Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
 
 | Body System/Adverse Reaction | Pramipexole Dihydrochloride Tablets 0.25 mg (N=88) % | Pramipexole Dihydrochloride Tablets 0.5 mg (N=80) % | Pramipexole Dihydrochloride Tablets 0.75 mg (N=90) % | Placebo (N=86) % |
 | --- | --- | --- | --- | --- |

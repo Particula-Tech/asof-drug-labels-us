@@ -58,7 +58,7 @@ Thus, pramipexole is secreted by the renal tubules, probably by the organic cati
 
 Pharmacokinetics in Specific Populations
 
-Because therapy with pramipexole dihydrochloride tablets are initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, race, or age is not necessary.
+Because therapy with pramipexole dihydrochloride tablets is initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, race, or age is not necessary.
 However, renal insufficiency, which can cause a large decrease in the ability to eliminate pramipexole, may necessitate dosage adjustment [see Dosage and Administration (2.2)].
 
 Gender
