@@ -3,7 +3,7 @@
 In case of overdosage, discontinue amoxicillin tablets, treat symptomatically, and institute supportive measures as required.
 A prospective study of 51 pediatric patients at a poison-control center suggested that overdosages of less than 250 mg/kg of amoxicillin are not associated with significant clinical symptoms.
 
-Interstitial nephritis resulting in oliguric renal failure has been reported in a small number of patients after overdosage with amoxicillin1.
+Interstitial nephritis resulting in oliguric renal failure has been reported in a small number of patients after overdosage with amoxicillin.
 
 Crystalluria, in some cases leading to renal failure, has also been reported after amoxicillin overdosage in adult and pediatric patients.
 In case of overdosage, adequate fluid intake and diuresis should be maintained to reduce the risk of amoxicillin crystalluria.
