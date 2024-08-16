@@ -13,4 +13,4 @@ Vigabatrin was negative in in vitro (Ames, CHO/HGPRT mammalian cell forward gene
 
 Impairment of Fertility
 
-No adverse effects on male or female fertility were observed in rats at oral doses up to 150 mg/kg/day (approximately ½ the MRHD of 3 g/day on a mg/m2 basis for refractory complex partial seizures).
+No adverse effects on male or female fertility were observed in rats at oral doses up to 150 mg/kg/day.

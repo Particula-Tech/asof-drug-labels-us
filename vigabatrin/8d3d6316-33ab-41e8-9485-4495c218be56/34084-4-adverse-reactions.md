@@ -11,7 +11,7 @@ The following serious and otherwise important adverse reactions are described el
 - Peripheral Neuropathy [see Warnings and Precautions (5.8)]
 - Weight Gain [see Warnings and Precautions (5.9)]
 - Edema [see Warnings and Precautions (5.10)]
-- Suicidal Behavior and Ideation with Unapproved use in Adolescents and Adults [see Warnings and Precautions (5.11)
+- Suicidal Behavior and Ideation with Unapproved use in Adolescents and Adults [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,7 +23,7 @@ In a randomized, placebo-controlled study in patients with infantile spasms (IS)
 
 In patients with IS, the adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight gain, and insomnia.
 
-In a dose response study of low-dose (18 to 36 mg/kg/day), which is below the recommended starting dose for IS of 50 mg/kg/day), versus high-dose (100 to 148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse reactions was observed.
+In a dose response study of low-dose (18-36 mg/kg/day), which is below the recommended starting dose for IS of 50 mg/kg/day), versus high-dose (100-148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse reactions was observed.
 The adverse reactions (≥5% in either dose group) are summarized in Table 2.
 
 Table 2.
@@ -72,7 +72,7 @@ Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasm
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of vigabatrin.
+The following adverse reactions have been identified during postapproval use of vigabatrin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Ear Disorders: Deafness

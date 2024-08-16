@@ -6,7 +6,7 @@ If a patient is switching from vigabatrin powder for oral solution, inform the c
 
 Advise patients to stop using other products that contain vigabatrin.
 
-Administration Instructions for VIGAFYDE Powder for Oral Solution
+Administration Instructions for VIGAFYDE Oral Solution
 
 Physicians should confirm that caregiver(s) understand how to measure and administer the correct dose of VIGAFYDE oral solution to their infants.
 Instruct caregivers that VIGAFYDE should not be diluted prior to dosing.
@@ -19,17 +19,17 @@ Permanent Vision Loss
 
 Inform caregivers of the risk of permanent vision loss, particularly loss of peripheral vision, from VIGAFYDE, and the need for monitoring vision [see Warnings and Precautions (5.1)].
 
-Monitoring of vision, including assessment of visual fields and visual acuity, is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3 to 6 months after discontinuation of therapy.
-In patients for whom vision testing is not possible, treatment may continue without recommended testing according to clinical judgment with appropriate patient or caregiver counseling.
-Patients or caregivers should be informed that if baseline or subsequent vision is not normal, VIGAFYDE should only be used if the benefits of VIGAFYDE treatment clearly outweigh the risks of additional vision loss.
+Monitoring of vision, including assessment of visual fields and visual acuity, is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3-6 months after discontinuation of therapy.
+In patients for whom vision testing is not possible, treatment may continue without recommended testing according to clinical judgment with appropriate caregiver counseling.
+Caregivers should be informed that if baseline or subsequent vision is not normal, VIGAFYDE should only be used if the benefits of VIGAFYDE treatment clearly outweigh the risks of additional vision loss.
 
-Advise patients and caregivers that vision testing may be insensitive and may not detect vision loss before it is severe.
+Advise caregivers that vision testing may be insensitive and may not detect vision loss before it is severe.
 Also advise patients and caregivers that if vision loss is documented, such loss is irreversible.
 Ensure that both of these points are understood by patients and caregivers.
 
 Caregivers should be informed that if changes in vision are suspected, they should notify their physician immediately.
 
-Vigabatrin REMS
+VIGABATRIN REMS
 
 VIGAFYDE is available only through a restricted program called the Vigabatrin REMS [see Warnings and Precautions (5.2)].
 
@@ -49,9 +49,9 @@ As with all AEDs, withdrawal should normally be gradual [see Warnings and Precau
 
 Made in the United Kingdom
 
-Manufactured for:
+Manufactured for
 
-PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054, U.S.A.
+PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054 U.S.A.
 
 VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 

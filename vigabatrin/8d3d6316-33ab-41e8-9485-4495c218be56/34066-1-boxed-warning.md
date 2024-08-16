@@ -12,11 +12,11 @@
 - Consider drug discontinuation, balancing benefit and risk, if vision loss is documented.
 - Risk of new or worsening vision loss continues as long as VIGAFYDE is used.
   It is possible that vision loss can worsen despite discontinuation of VIGAFYDE.
-- Because of the risk of vision loss, VIGAFYDE should be withdrawn from patients with refractory complex partial seizures who fail to show substantial clinical benefit within 3 months of initiation and within 2 to 4 weeks of initiation for patients with infantile spasms, or sooner if treatment failure becomes obvious.
+- Because of the risk of vision loss, VIGAFYDE should be withdrawn from patients with infantile spasms who fail to show substantial clinical benefit within 2-4 weeks of initiation, or sooner if treatment failure becomes obvious.
   Patient response to and continued need for VIGAFYDE should be periodically reassessed.
 - VIGAFYDE should not be used in patients with, or at high risk of, other types of irreversible vision loss unless the benefits of treatment clearly outweigh the risks.
 - VIGAFYDE should not be used with other drugs associated with serious adverse ophthalmic effects such as retinopathy or glaucoma unless the benefits clearly outweigh the risks.
 - Use the lowest dosage and shortest exposure to VIGAFYDE consistent with clinical objectives [see Dosage and Administration (2.1)].
 
-Because of the risk of permanent vision loss, VIGAFYDE is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the Vigabatrin REMS [see Warnings and Precautions (5.2)].
+Because of the risk of permanent vision loss, VIGAFYDE is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the Vigabatrin REMS [see Warnings and Precautions (5.1)].
 Further information is available at www.vigabatrinREMS.com or call 1-866-244-8175.

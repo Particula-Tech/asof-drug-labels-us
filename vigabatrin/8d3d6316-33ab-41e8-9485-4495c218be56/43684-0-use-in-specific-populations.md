@@ -62,9 +62,9 @@ Abnormal MRI signal changes and Intramyelinic Edema (IME) in infants and young c
 
 Juvenile Animal Toxicity Data
 
-Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4 to 65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain gray matter vacuolation, decreased myelination, and retinal dysplasia) abnormalities.
+Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4-65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain gray matter vacuolation, decreased myelination, and retinal dysplasia) abnormalities.
 The no-effect dose for developmental neurotoxicity in juvenile rats (the lowest dose tested) was associated with plasma vigabatrin exposures (AUC) substantially less than those measured in pediatric patients at recommended doses.
-In dogs, oral administration of vigabatrin (30 or 100 mg/kg/day) during selected periods of juvenile development (postnatal days 22 to 112) produced neurohistopathological abnormalities (brain gray matter vacuolation).
+In dogs, oral administration of vigabatrin (30 or 100 mg/kg/day) during selected periods of juvenile development (postnatal days 22-112) produced neurohistopathological abnormalities (brain gray matter vacuolation).
 Neurobehavioral effects of vigabatrin were not assessed in the juvenile dog.
 A no-effect dose for neurohistopathology was not established in juvenile dogs; the lowest effect dose (30 mg/kg/day) was associated with plasma vigabatrin exposures lower than those measured in pediatric patients at recommended doses [see Warnings and Precautions (5.4)].
 

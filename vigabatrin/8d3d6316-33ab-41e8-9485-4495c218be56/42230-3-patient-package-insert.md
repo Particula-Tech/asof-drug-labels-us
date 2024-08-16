@@ -9,7 +9,7 @@ There may be new information.
 This information does not take the place of talking with your baby’s healthcare provider about your baby’s medical condition or treatment.
 Talk to your baby’s healthcare provider if you have any questions about the right dose of medicine to give your baby or how to measure it.
 
-Powder Formulation Users: VIGAFYDE contains more vigabatrin, 100 mg per milliliter (mL) compared to other types (formulations) of vigabatrin prepared from powder, at 50 mg per mL.
+Powder Formulation Users VIGAFYDE contains more vigabatrin, 100 mg per milliliter (mL) compared to other types (formulations) of vigabatrin prepared from powder, at 50 mg per mL.
 
 If your baby is switching from vigabatrin prepared from powder to VIGAFYDE oral solution, your baby’s healthcare provider may have prescribed a smaller volume (mL) of medicine than before.
 
@@ -26,10 +26,10 @@ Each VIGAFYDE oral solution carton contains (see Figure A):
 The pharmacy will provide (see Figure B) an:
 
 - Oral Syringe
-- Bottle Adapater
+- Bottle Adapter
 
-- Your baby's healthcare provider will tell you how many milliliters (mL) of VIGAFYDE you will need for each dose
-- Use the oral syringe provided by the pharmacy, to measure and give the prescribed dose.
+- Your baby's healthcare provider will tell you how many milliliters (mL) of VIGAFYDE you will need for each dose.
+- Use the oral syringe provided by the pharmacy to measure and give the prescribed dose.
   Do not use a household teaspoon or tablespoon.
 - Stop using other products that contain vigabatrin.
   Check with your healthcare provider.
@@ -85,7 +85,7 @@ Leave the oral syringe in the bottle adapter and turn the bottle to an upright p
 Place the bottle onto a flat surface.
 Carefully remove the oral syringe from the bottle adapter by gently pulling straight up on the oral syringe while holding the plunger in place (See Figure L).
 
-Check to mark sure that the dose in the oral syringe is the prescribed dose.
+Check to make sure that the dose in the oral syringe is the prescribed dose.
 If the dose of VIGAFYDE is not the right dose, insert the oral syringe tip firmly into the bottle adapter while the bottle is in an upright position.
 Push the plunger all the way down so that VIGAFYDE flows back into the bottle and repeat Steps 9 through 11.
 
@@ -111,18 +111,18 @@ How should I store VIGAFYDE?
 
 - Store unopened bottles at room temperature between 68°F to 77°F (20°C to 25°C).
   Once opened, store bottle in a refrigerator or at room temperature between 36°F to 86°F (2°C to 30°C).
-- Throw away (discard) any opened bottle of VIGAFYDE 90 days of first opening, even if there is still medicine in the bottle.
+- Throw away (discard) any opened bottle of VIGAFYDE 90 days after first opening, even if there is still medicine in the bottle.
 - Keep VIGAFYDE and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Made in the United Kingdom
 
-Manufactured for:
+Manufactured for
 
-PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054, U.S.A.
+PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054 U.S.A.
 
-VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
+VIGAFYDE is a registered trademark of Pyros Pharmaceuticals
 
 L3006 Rev 2.0
 

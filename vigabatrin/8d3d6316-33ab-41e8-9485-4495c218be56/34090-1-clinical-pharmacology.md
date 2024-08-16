@@ -21,7 +21,6 @@ VIGAFYDE is indicated for treatment in patients 1 month to 2 years of age [see I
 VIGAFYDE is not approved for use in adults.
 
 Vigabatrin displayed linear pharmacokinetics after administration of single doses ranging from 0.5 g to 4 g, and after administration of repeated doses of 0.5 g and 2.0 g twice daily.
-Bioequivalence has been established between the oral solution and tablet formulations.
 The following PK information (Tmax, half-life, and clearance) of vigabatrin was obtained from stand-alone PK studies and population PK analyses.
 
 Absorption
@@ -84,7 +83,7 @@ Drug Interactions
 Phenytoin
 
 A 16% to 20% average reduction in total phenytoin plasma levels was reported in adult controlled clinical studies.
-Invitro drug metabolism studies indicate that decreased phenytoin concentrations upon addition of vigabatrin therapy are likely to be the result of induction of cytochrome P450 2C enzymes in some patients.
+In vitro drug metabolism studies indicate that decreased phenytoin concentrations upon addition of vigabatrin therapy are likely to be the result of induction of cytochrome P450 2C enzymes in some patients.
 Although phenytoin dose adjustments are not routinely required, dose adjustment of phenytoin should be considered if clinically indicated [see Drug Interactions (7.1)].
 
 Clonazepam
@@ -94,10 +93,10 @@ Vigabatrin increases the mean Cmax of clonazepam by 30% and decreases the mean T
 
 Other AEDs
 
-When coadministered with vigabatrin, phenobarbital concentration (from phenobarbital or primidone) was reduced by an average of 8% to 16%, and sodium valproate plasma concentrations were reduced by an average of 8%.
+When co-administered with vigabatrin, phenobarbital concentration (from phenobarbital or primidone) was reduced by an average of 8% to 16%, and sodium valproate plasma concentrations were reduced by an average of 8%.
 These reductions did not appear to be clinically relevant.
 Based on population pharmacokinetics, carbamazepine, clorazepate, primidone, and sodium valproate appear to have no effect on plasma concentrations of vigabatrin [see Drug Interactions (7.1)].
 
 Alcohol
 
-Coadministration of ethanol (0.6 g/kg) with vigabatrin (1.5 g twice daily) indicated that neither drug influences the pharmacokinetics of the other.
+Co-administration of ethanol (0.6 g/kg) with vigabatrin (1.5 g twice daily) indicated that neither drug influences the pharmacokinetics of the other.

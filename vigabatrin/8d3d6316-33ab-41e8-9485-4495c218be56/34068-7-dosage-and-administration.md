@@ -22,7 +22,7 @@ VIGAFYDE is given orally with or without food.
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
-If a decision is made to discontinue VIGAFYDE, the dose should be gradually reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.5)]
+If a decision is made to discontinue VIGAFYDE, the dose should be gradually reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.5)].
 
 ## 2.2 Recommended Dosage for Infantile Spasms
 

@@ -33,7 +33,7 @@ Monitoring of Vision
 
 Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is recommended [see Warnings and Precautions (5.2)].
 Because vision testing in infants is difficult, vision loss may not be detected until it is severe.
-For patients receiving VIGAFYDE, vision assessment is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3 to 6 months after the discontinuation of therapy.
+For patients receiving VIGAFYDE, vision assessment is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3-6 months after the discontinuation of therapy.
 The diagnostic approach should be individualized for the patient and clinical situation.
 
 In cooperative pediatric patients, perimetry is recommended, preferably by automated threshold visual field testing.
@@ -67,19 +67,18 @@ Further information is available at www.vigabatrinREMS.com or by calling 1-866-2
 Abnormal magnetic resonance imaging (MRI) signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin.
 
 In a retrospective epidemiologic study in infants with infantile spasms (N=205), the prevalence of MRI changes was 22% in vigabatrin-treated patients versus 4% in patients treated with other therapies.
-In this study, in post-marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
+In this study, in postmarketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
 Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development, and brain histopathological changes were observed in dogs exposed to vigabatrin during the juvenile period of development.
-The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.4)].
+The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
 ## 5.4 Neurotoxicity
 
 Intramyelinic Edema (IME) has been reported in postmortem examination of infants being treated for infantile spasms with vigabatrin.
 
-Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have also been observed in some infants treated for IS with vigabatrin.
-Studies of the effects of vigabatrin on MRI and evoked potentials (EP) in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
+Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have also been observed in some infants treated for IS with vigabatrin [see Warnings and Precautions (5.3)].
 
 Vacuolation, characterized by fluid accumulation and separation of the outer layers of myelin, has been observed in brain white matter tracts in adult and juvenile rats and adult mice, dogs, and possibly monkeys following administration of vigabatrin.
 This lesion, referred to as intramyelinic edema (IME), was seen in animals at doses within the human therapeutic range.
@@ -99,7 +98,8 @@ In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodeg
 
 ## 5.5 Withdrawal of Antiepileptic Drugs
 
-As with all antiepileptic drugs, VIGAFYDE should be withdrawn gradually [see Dosage and Administration (2.4)].However, if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
+As with all antiepileptic drugs, VIGAFYDE should be withdrawn gradually [see Dosage and Administration (2.4)].
+However, if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
 Caregivers should be told not to suddenly discontinue VIGAFYDE therapy.
 
 ## 5.6 Anemia
@@ -127,7 +127,7 @@ Almost 1% of vigabatrin patients discontinued from clinical trials for somnolenc
 VIGAFYDE is indicated for treatment in patients 1 month to 2 years of age [see Indications and Usage (1)].
 VIGAFYDE is not approved for use in adults.
 Vigabatrin causes symptoms of peripheral neuropathy in adults.
-Pediatric clinical trials were not designed to assess symptoms of peripheral neuropathy but observed incidence of symptoms based on pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
+Pediatric clinical trials were not designed to assess symptoms of peripheral neuropathy, but observed incidence of symptoms based on pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
 In a pool of North American controlled and uncontrolled epilepsy studies, 4.2% (19/457) of vigabatrin patients developed signs and/or symptoms of peripheral neuropathy.
 In the subset of North American placebo-controlled epilepsy trials, 1.4% (4/280) of vigabatrin treated patients and no (0/188) placebo patients developed signs and/or symptoms of peripheral neuropathy.
 Initial manifestations of peripheral neuropathy in these trials included, in some combination, symptoms of numbness or tingling in the toes or feet, signs of reduced distal lower limb vibration or position sensation, or progressive loss of reflexes, starting at the ankles.
@@ -141,7 +141,7 @@ VIGAFYDE causes weight gain in pediatric patients.
 Data pooled from randomized controlled trials in pediatric patients with a different indication found that 47% (77/163) of vigabatrin patients versus 19% (19/102) of placebo patients gained ≥7% of baseline body weight.
 
 In all epilepsy trials, 0.6% (31/4855) of VIGAFYDE patients discontinued for weight gain.
-The long term effects of vigabatrin related weight gain are not known.
+The long-term effects of vigabatrin related weight gain are not known.
 Weight gain was not related to the occurrence of edema.
 
 ## 5.10 Edema
