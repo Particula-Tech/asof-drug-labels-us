@@ -1649,7 +1649,7 @@ Table 93: Efficacy Results in KEYNOTE-581
 
 KEYNOTE-B61
 
-The efficacy of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-B61 (NCT04704219), a multicenter, single-arm trial that enrolled 160 patients with advanced/metastatic non-clear cell RCC in the first-line setting.
+The efficacy of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-B61 (NCT04704219), a multicenter, single-arm trial that enrolled 160 patients with advanced or metastatic non-clear cell RCC in the first-line setting.
 Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
 Patients received KEYTRUDA 400 mg every 6 weeks in combination with lenvatinib 20 mg orally once daily.
@@ -1694,9 +1694,8 @@ Ninety-two percent of patients had a radical nephrectomy, and 8% had a partial n
 
 The major efficacy outcome measure was investigator-assessed disease-free survival (DFS), defined as time to recurrence, metastasis, or death.
 An additional outcome measure was OS.
-A statistically significant improvement in DFS was demonstrated at the pre-specified interim analysis in patients randomized to the KEYTRUDA arm compared with placebo.
-At the time of the DFS analysis, OS data were not mature, with 5% deaths in the overall population.
-Efficacy results are summarized in Table 95 and Figure 30.
+Statistically significant improvements in DFS and OS were demonstrated at pre-specified interim analyses in patients randomized to the KEYTRUDA arm compared with placebo.
+Efficacy results are summarized in Table 95 and Figures 30 and 31.
 
 Table 95: Efficacy Results in KEYNOTE-564
 
@@ -1708,9 +1707,18 @@ Table 95: Efficacy Results in KEYNOTE-564
 | Hazard ratioBased on the stratified Cox proportional hazard model (95% CI) | 0.68 (0.53, 0.87) |  |
 | p-ValueBased on stratified log-rank test | 0.0010p-Value (one-sided) is compared with a boundary of 0.0114. |  |
 | 24-month DFS rate (95% CI) | 77% (73, 81) | 68% (64, 72) |
+| OS |  |  |
+| Number (%) of patients with event | 55 (11%) | 86 (17%) |
+| Median in months (95% CI) | NR (NR, NR) | NR (NR, NR) |
+| Hazard ratio (95% CI) | 0.62 (0.44, 0.87) |  |
+| p-Value | 0.0024p-Value (one-sided) is compared with a boundary of 0.0072. |  |
+| 48-month OS rate (95% CI) | 91% (88, 93) | 86% (83, 89) |
 | NR = not reached |  |  |
 
 | Figure 30: Kaplan-Meier Curve for Disease-Free Survival in KEYNOTE-564 |
+| --- |
+
+| Figure 31: Kaplan-Meier Curve for Overall Survival in KEYNOTE-564 |
 | --- |
 
 ## 14.16 Endometrial Carcinoma
@@ -1744,7 +1752,7 @@ The pMMR population characteristics were: median age of 66 years (range: 29 to 9
 The histologic subtypes were endometrioid carcinoma (52%), serous carcinoma (26%), adenocarcinoma NOS (10%), clear cell carcinoma (7%), and other (5%).
 
 The trial demonstrated statistically significant improvements in PFS for patients randomized to KEYTRUDA in combination with paclitaxel and carboplatin compared to placebo in combination with paclitaxel and carboplatin in both the dMMR and pMMR populations.
-Table 96 and Figures 31 and 32 summarize the efficacy results for KEYNOTE-868 by MMR status.
+Table 96 and Figures 32 and 33 summarize the efficacy results for KEYNOTE-868 by MMR status.
 At the time of the PFS analysis, OS data were not mature with 12% deaths in the dMMR population and 17% deaths in the pMMR population.
 
 Table 96: Efficacy Results in KEYNOTE-868
@@ -1759,10 +1767,10 @@ Table 96: Efficacy Results in KEYNOTE-868
 | p-ValueBased on the stratified log-rank test | <0.0001 |  | <0.0001 |  |
 | NR = not reached |  |  |  |  |
 
-| Figure 31: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (dMMR Population) |
+| Figure 32: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (dMMR Population) |
 | --- |
 
-| Figure 32: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (pMMR Population) |
+| Figure 33: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (pMMR Population) |
 | --- |
 
 In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H
@@ -1787,7 +1795,7 @@ The histologic subtypes were endometrioid carcinoma (55%), serous (30%), clear c
 All 697 of these patients received prior systemic therapy for endometrial carcinoma: 67% had one, 30% had two, and 3% had three or more prior systemic therapies.
 Thirty-seven percent of patients received only prior neoadjuvant or adjuvant therapy.
 
-Efficacy results for the pMMR or not MSI-H patients are summarized in Table 97 and Figures 33 and 34.
+Efficacy results for the pMMR or not MSI-H patients are summarized in Table 97 and Figures 34 and 35.
 
 Table 97: Efficacy Results in KEYNOTE-775
 
@@ -1812,10 +1820,10 @@ Table 97: Efficacy Results in KEYNOTE-775
 | Duration of Response | n=105 | n=53 |
 | Median in months (range) | 9.2 (1.6+, 23.7+) | 5.7 (0.0+, 24.2+) |
 
-| Figure 33: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 34: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
-| Figure 34: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 35: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
@@ -1973,7 +1981,7 @@ An additional efficacy outcome was overall survival (OS).
 
 The study population characteristics were: median age of 49 years (range: 22 to 80), 11% age 65 or older; 99.9% female; 64% White, 20% Asian, 4.5% Black, and 1.8% American Indian or Alaska Native; 87% ECOG PS of 0 and 13% ECOG PS of 1; 56% were pre-menopausal status and 44% were post-menopausal status; 7% were primary Tumor 1 (T1), 68% T2, 19% T3, and 7% T4; 49% were nodal involvement 0 (N0), 40% N1, 11% N2, and 0.2% N3; 75% of patients were overall Stage II and 25% were Stage III.
 
-Table 102 and Figure 35 summarize the efficacy results for KEYNOTE-522.
+Table 102 and Figure 36 summarize the efficacy results for KEYNOTE-522.
 At the protocol pre-specified IA4 interim analysis of OS, OS data were not mature with 45% of the required events for the final analysis.
 
 Table 102: Efficacy Results in KEYNOTE-522
@@ -1989,7 +1997,7 @@ Table 102: Efficacy Results in KEYNOTE-522
 | Hazard ratio (95% CI)Based on stratified Cox regression model | 0.63 (0.48, 0.82) |  |
 | p-ValueBased on a pre-specified EFS interim analysis (compared to a significance level of 0.0052),Based on log-rank test stratified by nodal status, tumor size, and choice of carboplatin | 0.00031 |  |
 
-| Figure 35: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
+| Figure 36: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
 | --- |
 
 Locally Recurrent Unresectable or Metastatic TNBC
@@ -2010,7 +2018,7 @@ Additional efficacy outcome measures were ORR and DoR as assessed by BICR.
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 103 and Figures 36 and 37 summarize the efficacy results for KEYNOTE-355.
+Table 103 and Figures 37 and 38 summarize the efficacy results for KEYNOTE-355.
 
 Table 103: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
@@ -2033,10 +2041,10 @@ Table 103: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Duration of Response | n=116 | n=42 |
 | Median in months (95% CI) | 12.8 (9.9, 25.9) | 7.3 (5.5, 15.4) |
 
-| Figure 36: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 37: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-| Figure 37: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 38: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.20 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks
