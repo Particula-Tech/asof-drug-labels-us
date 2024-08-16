@@ -42,6 +42,8 @@ Itching and burning, especially on the plantar site of the feet, may occur [see 
 
 Episodes of painful, ischemic, and cyanosed limbs have been reported with heparin use.
 
+Metabolism and Nutrition Disorders – Hyperkalemia.
+
 Elevations of Serum Aminotransferases
 
 Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred in a high percentage of patients(and healthy subjects) who have received heparin.

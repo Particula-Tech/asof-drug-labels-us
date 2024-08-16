@@ -70,3 +70,10 @@ Adjustment of heparin doses based on anti-Factor Xa levels may be warranted.
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations [see Adverse Reactions (6.1)].
 
 Because heparin sodium is derived from animal tissue, monitor for signs and symptoms of hypersensitivity when it is used in patients with a history of allergy.
+
+## 5.8 Hyperkalemia
+
+Heparin can suppress adrenal secretion of aldosterone leading to hyperkalemia, particularly in patients with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, a raised plasma potassium, or taking potassium sparing drugs.
+The risk of hyperkalemia appears to increase with duration of therapy but is usually reversible upon discontinuation of heparin.
+
+Measure blood potassium in patients at risk of hyperkalemia before starting heparin therapy and periodically in all patients treated for more than 5 days or earlier as deemed fit by the clinician.
