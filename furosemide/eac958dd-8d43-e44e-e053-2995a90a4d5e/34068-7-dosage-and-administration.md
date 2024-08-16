@@ -11,7 +11,7 @@ FUROSCIX is not for chronic use and should be replaced with oral diuretics as so
 FUROSCIX is intended for use in a setting where the patient can limit their activity for the duration of administration.
 [see Warnings and Precautions (5.5)]
 
-FURSOSIX is not compatible with use in an MRI setting.
+FUROSCIX is not compatible with use in an MRI setting.
 
 Inspect FUROSCIX prefilled cartridge prior to administration.
 FUROSCIX is a clear to slightly yellow solution.
