@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209627"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "Mayne Pharma",
+  "package_ndcs": [
+    "68308-752-01"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "segesterone acetate and ethinyl estradiol",
+      "name": "Annovera"
+    }
+  ],
+  "setid": "eb18194f-2021-41fa-8bdf-31e0c0eb646b",
+  "source": "dailymed"
+}
