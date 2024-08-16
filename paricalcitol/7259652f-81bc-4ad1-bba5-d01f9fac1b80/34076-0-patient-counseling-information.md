@@ -14,6 +14,9 @@ Drug Interactions
 Advise patients to inform their physician of all medications, including prescription and nonprescription drugs, and supplements they are taking.
 Advise patients to also inform their physician that they are receiving ZEMPLAR if a new medication is prescribed [see Drug Interactions (7)].
 
-Manufactured for AbbVie Inc. North Chicago, IL 60064, U.S.A. © 1998-2021 AbbVie Inc.
+Manufactured for AbbVie Inc. North Chicago, IL 60064, U.S.A. © 2024 AbbVie.
+All rights reserved.
 
-8021417 May, 2021
+ZEMPLAR and its design are trademarks of AbbVie Inc.
+
+8022191 August, 2024
