@@ -44,7 +44,7 @@ If cutaneous vasculitic ulcers occur, institute treatment and discontinue HYDREA
 Avoid use of live vaccine in patients taking HYDREA.
 Concomitant use of HYDREA with a live virus vaccine may potentiate the replication of the virus and/or may increase the adverse reaction of the vaccine because normal defense mechanisms may be suppressed by HYDREA.
 Vaccination with live vaccines in a patient receiving HYDREA may result in severe infection.
-Patient’s antibody response to vaccines may be decreased.
+Patient's antibody response to vaccines may be decreased.
 Consider consultation with a specialist.
 
 ## 5.7 Risks with Concomitant Use of Antiretroviral Drugs

@@ -5,7 +5,7 @@
 HYDREA® (hydroxyurea capsules, USP) is supplied as 500 mg capsules in HDPE bottles with a plastic safety screw cap.
 Each bottle contains 100 capsules.
 The cap is opaque green and the body is opaque pink.
-The capsules are imprinted on both sections with “HYDREA” and “500” in black ink (NDC 61269-835-10).
+The capsules are imprinted on both sections with "HYDREA" and "500" in black ink (NDC 61269-835-10).
 
 ## 16.2 Storage
 

@@ -1,13 +1,23 @@
-# HYDREA 500 mg capsules Representative Packaging
+# PRINCIPAL DISPLAY PANEL - 500 mg Capsule Bottle Label
 
-See HOW SUPPLIED section for a complete list of available packages of HYDREA.
+100 CAPSULES NDC 61269-835-10
 
-100 CAPSULES NDC 61269-835-10 HYDREA® (hydroxyurea capsules, USP) 500 mg per capsule Rx only CAUTION: Cytotoxic Agent
+HYDREA® (hydroxyurea) capsules
+
+500 mg
+
+CAUTION: Cytotoxic Agent
 
 CHEPLAPHARM
 
-# HYDREA 500 mg capsules Representative Packaging
+# PRINCIPAL DISPLAY PANEL - 500 mg Capsule Bottle Carton
 
-100 CAPSULES NDC 61269-835-10 HYDREA® (hydroxyurea capsules, USP) 500 mg per capsule Rx only CAUTION: Cytotoxic Agent
+100 CAPSULES NDC 61269-835-10
+
+HYDREA® (hydroxyurea) capsules
+
+500 mg
+
+CAUTION: Cytotoxic Agent
 
 CHEPLAPHARM

@@ -5,7 +5,7 @@
 HYDREA is used alone or in conjunction with other antitumor agents or radiation therapy to treat neoplastic diseases.
 Individualize treatment based on tumor type, disease state, response to treatment, patient risk factors, and current clinical practice standards.
 
-Base all dosage on the patient’s actual or ideal weight, whichever is less.
+Base all dosage on the patient's actual or ideal weight, whichever is less.
 
 HYDREA is a cytotoxic drug.
 Follow applicable special handling and disposal procedures [see References (15)].
