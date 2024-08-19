@@ -4,7 +4,7 @@
 
 ### Risk Summary
 
-DROXIA can cause fetal harm based on findings from animal studies and the drug’s mechanism of action [see Clinical Pharmacology (12.1)].
+DROXIA can cause fetal harm based on findings from animal studies and the drug's mechanism of action [see Clinical Pharmacology (12.1)].
 There are no data with DROXIA use in pregnant women to inform a drug-associated risk.
 In animal reproduction studies, administration of hydroxyurea to pregnant rats and rabbits during organogenesis produced embryotoxic and teratogenic effects at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis (see Data).
 Advise women of the potential risk to a fetus and to avoid becoming pregnant while being treated with DROXIA.

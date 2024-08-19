@@ -6,11 +6,11 @@ DROXIA® (hydroxyurea capsules, USP) is supplied in HDPE bottles with a plastic 
 Each bottle contains 60 capsules.
 DROXIA is supplied in the following strengths:
 
-200 mg opaque blue-green capsules, marked in black ink with “DROXIA” and “200” (NDC 61269-402-60).
+200 mg opaque blue-green capsules, marked in black ink with "DROXIA" and "200" (NDC 61269-402-60).
 
-300 mg opaque purple capsules, marked in black ink with “DROXIA” and “300” (NDC 61269-403-60).
+300 mg opaque purple capsules, marked in black ink with "DROXIA" and "300" (NDC 61269-403-60).
 
-400 mg opaque reddish-orange capsules, marked in black ink with “DROXIA” and “400” (NDC 61269-404-60).
+400 mg opaque reddish-orange capsules, marked in black ink with "DROXIA" and "400" (NDC 61269-404-60).
 
 ## 16.2 Storage
 
