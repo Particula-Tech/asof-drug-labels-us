@@ -32,7 +32,7 @@ Table 11: First Occurrence of Stroke or Systemic Embolism in the RE-LY Study*
 | Patients (% per yr) with events | 135 (1.12%) | 183 (1.54%) | 203 (1.72%) |
 | Hazard ratio vs warfarin (95% CI) | 0.65 (0.52, 0.81) | 0.89 (0.73, 1.09) |  |
 | P-value for superiority | 0.0001 | 0.27 |  |
-| Hazard ratio vs dabigatran 110 mg (95% CI) | 0.72 (0.58, 0.91) |  |  |
+| Hazard ratio vs Dabigatran 110 mg (95% CI) | 0.72 (0.58, 0.91) |  |  |
 | P-value for superiority | 0.005 |  |  |
 
 * Randomized ITT
@@ -161,6 +161,64 @@ bNumber of patients with one or more events.
 
 cNumber of events.
 For patients with multiple events each event is counted independently.
+
+## 14.3 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
+
+In the randomized, parallel-group, double-blind, non-inferiority trials, RE-NOVATE and RE-NOVATE II patients received dabigatran etexilate capsules 75 mg orally 1 to 4 hours after surgery followed by 150 mg daily (RE-NOVATE), dabigatran etexilate capsules 110 mg orally 1 to 4 hours after surgery followed by 220 mg daily (RE-NOVATE and RE-NOVATE II) or subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery (RE-NOVATE and RE-NOVATE II) for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who have undergone hip replacement surgery.
+
+Overall, in RE-NOVATE and RE-NOVATE II, the median treatment duration was 33 days for dabigatran etexilate capsules and 33 days for enoxaparin.
+A total of 5,428 patients were treated with a mean age of 63.2 years.
+The patient population was 45.3% male, 96.1% white, 3.6% Asian, and 0.4 % black.
+The concomitant diseases of patients in these trials included hypertension (46.1%), venous insufficiency (15.4%), coronary artery disease (8.2%), diabetes mellitus (7.9%), reduced renal function (5.3%), heart failure (3.4%), gastric or duodenal ulcer (3%), VTE (2.7%), and malignancy (0.1%).
+Concomitant medications included cardiac therapy (69.7%), NSAIDs (68%), vasoprotectives (29.7%), agents acting on renin-angiotensin system (29.1%), beta-blockers (21.5%), diuretics (20.8%), lipid modifying agents (18.2%), any antithrombin/anticoagulant (16%), calcium channel blockers (13.6%), low molecular weight heparin (7.8%), aspirin (7%), platelet inhibitors excluding ASA (6.9%), other antihypertensives (6.7%), and peripheral vasodilators (2.6%).
+
+For efficacy evaluation all patients were to have bilateral venography of the lower extremities at 3 days after last dose of study drug unless an endpoint event had occurred earlier in the study.
+In the primary efficacy analysis, dabigatran etexilate capsules 110 mg orally 1 to 4 hours after surgery followed by 220 mg daily was non-inferior to enoxaparin 40 mg once daily in a composite endpoint of confirmed VTE (proximal or distal DVT on venogram, confirmed symptomatic DVT, or confirmed PE) and all cause death during the treatment period (Tables 16 and 17).
+In the studies 2628 (76.5%) patients in RE-NOVATE and 1572 (78.9%) patients in RE-NOVATE II had evaluable venograms at study completion.
+
+Table 16: Primary Efficacy Endpoint for RE-NOVATE
+
+|  | Dabigatran Etexilate Capsules 220 mg N (%) | Enoxaparin N (%) |
+| --- | --- | --- |
+| Number of Patientsa | N=880 | N= 897 |
+| Primary Composite Endpoint | 53 (6) | 60 (6.7) |
+| Risk difference (%) vs enoxaparin (95% CI) | -0.7 (-2.9, 1.6) |  |
+| Number of Patients | N=909 | N=917 |
+| Composite endpoint of major VTEb and VTE related mortality | 28 (3.1) | 36 (3.9) |
+| Number of Patients | N=905 | N=914 |
+| Proximal DVT | 23 (2.5) | 33 (3.6) |
+| Number of Patients | N=874 | N=894 |
+| Total DVT | 46 (5.3) | 57 (6.4) |
+| Number of Patients | N=1,137 | N=1,142 |
+| Symptomatic DVT | 6 (0.5) | 1 (0.1) |
+| PE | 5 (0.4) | 3 (0.3) |
+| Death | 3 (0.3) | 0 |
+
+aFull Analysis Set (FAS): The FAS included all randomized patients who received at least one subcutaneous injection or one oral dose of study medication, underwent surgery and subjects for whom the presence or absence of an efficacy outcome at the end of the study was known, i.e., an evaluable negative venogram for both distal and proximal DVT in both legs or any of the following: positive venography in one or both legs, or confirmed symptomatic DVT, PE, or death during the treatment period.
+
+bVTE is defined as proximal DVT and PE
+
+Table 17: Primary Efficacy Endpoint for RE-NOVATE II
+
+|  | Dabigatran Etexilate Capsules 220 mg N (%) | Enoxaparin N (%) |
+| --- | --- | --- |
+| Number of Patientsa | N=792 | N= 786 |
+| Primary Composite Endpoint | 61 (7.7) | 69 (8.8) |
+| Risk difference (%) vs enoxaparin (95% CI) | -1.1 (-3.8, 1.6) |  |
+| Number of Patients | N=805 | N=795 |
+| Composite endpoint of major VTEb and VTE related mortality | 18 (2.2) | 33 (4.2) |
+| Number of Patients | N=804 | N=793 |
+| Proximal DVT | 17 (2.1) | 31 (3.9) |
+| Number of Patients | N=791 | N=784 |
+| Total DVT | 60 (7.6) | 67 (8.5) |
+| Number of Patients | N=1,001 | N=992 |
+| Symptomatic DVT | 0 | 4 (0.4) |
+| PE | 1 (0.1) | 2 (0.2) |
+| Death | 0 | 1 (0.1) |
+
+aFull Analysis Set (FAS): The FAS included all randomized patients who received at least one subcutaneous injection or one oral dose of study medication, underwent surgery and subjects for whom the presence or absence of an efficacy outcome at the end of the study was known, i.e., an evaluable negative venogram for both distal and proximal DVT in both legs or any of the following: positive venography in one or both legs, or confirmed symptomatic DVT, PE, or death during the treatment period.
+
+bVTE is defined as proximal DVT and PE
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

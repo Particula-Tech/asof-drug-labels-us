@@ -28,6 +28,8 @@ The degree of anticoagulant activity can also be assessed by the ecarin clotting
 This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).
 In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
 
+In orthopedic hip surgery patients, maximum aPTT response (Emax) to dabigatran and baseline aPTT were higher shortly after surgery than at later time points (e.g. ≥3 days after surgery).
+
 Cardiac Electrophysiology
 
 No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.
@@ -102,6 +104,8 @@ Administration of dabigatran etexilate capsules in adult patients with moderate 
 Drug Interactions
 
 A summary of the effect of coadministered drugs on dabigatran exposure in healthy adult subjects is shown in Figures 3.1 and 3.2.
+
+In the orthopedic hip surgery patients, limited clinical data with P-gp inhibitors is available.
 
 Figure 3.1: Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).

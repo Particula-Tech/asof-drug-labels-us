@@ -64,6 +64,10 @@ Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and 
 
 Avoid use of dabigatran etexilate capsules and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
 
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
+
+Avoid use of dabigatran etexilate capsules and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
+
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 

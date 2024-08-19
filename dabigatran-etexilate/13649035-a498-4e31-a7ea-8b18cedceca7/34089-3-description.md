@@ -6,8 +6,8 @@ The structural formula is:
 
 Dabigatran etexilate mesylate is off-white to yellowish powder.
 It is freely soluble in methanol and ethanol; practically insoluble in acetone, ethyl acetate, water.
-Dabigatran etexilate capsules are supplied in 75 mg and 150 mg strengths for oral administration.
-Each capsule contains dabigatran etexilate mesylate as the active ingredient: 75 mg dabigatran etexilate (equivalent to 86.48 mg dabigatran etexilate mesylate) or 150 mg dabigatran etexilate (equivalent to 172.95 mg dabigatran etexilate mesylate) along with the following inactive ingredients: pelletized tartaric acid, hypromellose phthalate, talc, hydroxypropyl cellulose.
+Dabigatran etexilate capsules are supplied in 75 mg, 110 mg, and 150 mg strengths for oral administration.
+Each capsule contains dabigatran etexilate mesylate as the active ingredient: 75 mg dabigatran etexilate (equivalent to 86.48 mg dabigatran etexilate mesylate), 110 mg dabigatran etexilate (equivalent to 126.83 mg dabigatran etexilate mesylate) or 150 mg dabigatran etexilate (equivalent to 172.95 mg dabigatran etexilate mesylate) along with the following inactive ingredients: pelletized tartaric acid, hypromellose phthalate, talc, hydroxypropyl cellulose.
 The capsule shell is composed of titanium dioxide, carrageenan, potassium chloride, hypromellose.
-Additionally, 150 mg capsule shell also contains FD&C Blue No. 2.
+Additionally, 110 mg and 150 mg capsule shell also contains FD&C Blue No. 2.
 The empty hard hypromellose capsule shells are printed with edible black ink containing shellac, iron oxide black and potassium hydroxide.

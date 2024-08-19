@@ -18,6 +18,9 @@ Do not substitute different dosage forms on a milligram-to-milligram basis and d
 | Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE | CrCl >30 mL/min: | 150 mg twice daily |
 | CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
 | CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid coadministration |  |
+| Prophylaxis of DVT and PE Following Hip Replacement Surgery | CrCl >30 mL/min: | 110 mg for first day, then 220 mg once daily |
+| CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
+| CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid coadministration |  |
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
@@ -34,6 +37,12 @@ Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embo
 
 For patients with CrCl >30 mL/min, the recommended dosage of dabigatran etexilate capsules are 150 mg taken orally, twice daily after previous treatment.
 Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
+
+For patients with CrCl >30 mL/min, the recommended dosage of dabigatran etexilate capsules are 110 mg taken orally 1 to 4 hours after surgery and after hemostasis has been achieved, then 220 mg taken once daily for 28 to 35 days.
+If dabigatran etexilate capsules is not started on the day of surgery, after hemostasis has been achieved initiate treatment with 220 mg once daily.
+Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Dosage and Administration (2.4), Use in Specific Populations (8.6) and Clinical Pharmacology (12.2, 12.3)].
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -58,6 +67,11 @@ Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and 
 
 Dosing recommendations for patients with CrCl ≤30 mL/min cannot be provided.
 Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
+
+Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
+Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Dosage and Administration (2.5), Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
 
 Pediatric patients with renal impairment
 

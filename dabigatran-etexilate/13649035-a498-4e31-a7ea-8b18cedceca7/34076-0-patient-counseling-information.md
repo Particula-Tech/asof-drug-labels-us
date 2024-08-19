@@ -76,6 +76,6 @@ Advise patients not to breastfeed if they are taking dabigatran etexilate capsul
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
+Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Revised: 06/2024
+Revised: 07/2024
