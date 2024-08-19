@@ -1,42 +1,24 @@
-# HOW SUPPLIED:
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Naropin (ropivacaine HCl Injection, USP) is supplied as follows:
+NAROPIN (ropivacaine hydrochloride) Injection is a clear colorless, and preservative-free solution, available in single-dose containers in 2 mg/mL (0.2%), 5 mg/mL (0.5%) and 10 mg/mL (1%) concentrations.
 
-Naropin® Single Dose Vials
+Storage
 
-| Product Code | Unit of Sale | Strength | Each |
-| --- | --- | --- | --- |
-| NP278635 | NDC 63323-286-95 Unit of 25 | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-93 30 mL Single Dose Vial |
-| NP278821 | NDC 63323-288-29 Unit of 25 | 1% 200 mg per 20 mL (10 mg per mL) | NDC 63323-288-23 20 mL Single Dose Vial |
+Solutions should be stored at 20ºC to 25°C (68ºF to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-Naropin® Single Dose Infusion Bottles
+NAROPIN® Single-Dose Vials
 
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| NP278567 | NDC 63323-285-67 Unit of 12 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-55 100 mL Single Dose Infusion Bottle |
+| NP278635 | NDC 63323-286-95 Unit of 25 | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-93 30 mL Single-Dose Vial |
+| NP278821 | NDC 63323-288-29 Unit of 25 | 1% 200 mg per 20 mL (10 mg per mL) | NDC 63323-288-23 20 mL Single-Dose Vial |
 
-The solubility of ropivacaine is limited at pH above 6.
-Thus, care must be taken as precipitation may occur if Naropin is mixed with alkaline solutions.
-Disinfecting agents containing heavy metals, which cause release of respective ions (mercury, zinc, copper, etc.) should not be used for skin or mucous membrane disinfection since they have been related to incidents of swelling and edema.
+NAROPIN® Single-Dose Infusion Bottles
 
-When chemical disinfection of the container surface is desired, either isopropyl alcohol (91%) or ethyl alcohol (70%) is recommended.
-It is recommended that chemical disinfection be accomplished by wiping the ampule or vial stopper thoroughly with cotton or gauze that has been moistened with the recommended alcohol just prior to use.
-When a container is required to have a sterile outside, a Sterile-Pak should be chosen.
-Glass containers may, as an alternative, be autoclaved once.
-Stability has been demonstrated using a targeted F0 of 7 minutes at 121°C.
-Solutions should be stored at 20º to 25°C (68º to 77°F) [see USP Controlled Room Temperature].
-The container closure is not made with natural rubber latex.
-These products are intended for single dose and are free from preservatives.
-Any solution remaining from an opened container should be discarded promptly.
-In addition, continuous infusion bottles should not be left in place for more than 24 hours.
-NAROPIN is a trademark of Fresenius Kabi USA, LLC.
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| NP278567 | NDC 63323-285-67 Unit of 12 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-55 100 mL Single-Dose Infusion Bottle |
 
-Novaplus is a registered trademark of Vizient, Inc.
+For single-dose vials: Discard unused portion.
 
-Manufactured by:
-
-Fresenius Kabi Lake Zurich, IL 60047 www.fresenius-kabi.com/us
-
-451113F
-
-Revised: June 2020
+NAROPIN container closure is not made with natural rubber latex.
