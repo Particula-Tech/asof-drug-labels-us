@@ -1,8 +1,8 @@
-PACKAGE LABEL - Mounjaro™, 2.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+PACKAGE LABEL - Mounjaro®, 2.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-1506-80
 
-Mounjaro™
+Mounjaro®
 
 (tirzepatide) injection
 
@@ -22,11 +22,11 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+PACKAGE LABEL - Mounjaro®, 5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-1495-80
 
-Mounjaro™
+Mounjaro®
 
 (tirzepatide) injection
 
@@ -46,11 +46,11 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 7.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+PACKAGE LABEL - Mounjaro®, 7.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-1484-80
 
-Mounjaro™
+Mounjaro®
 
 (tirzepatide) injection
 
@@ -70,11 +70,11 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 10 mg/0.5 mL, Carton, 4 Single-Dose Pens
+PACKAGE LABEL - Mounjaro®, 10 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-1471-80
 
-Mounjaro™
+Mounjaro®
 
 (tirzepatide) injection
 
@@ -94,11 +94,11 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 12.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+PACKAGE LABEL - Mounjaro®, 12.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-1460-80
 
-Mounjaro™
+Mounjaro®
 
 (tirzepatide) injection
 
@@ -118,11 +118,11 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 15 mg/0.5 mL, Carton, 4 Single-Dose Pens
+PACKAGE LABEL - Mounjaro®, 15 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-1457-80
 
-Mounjaro™
+Mounjaro®
 
 (tirzepatide) injection
 
@@ -142,7 +142,7 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 2.5 mg/0.5 mL, Carton, Single-dose Vial
+PACKAGE LABEL - Mounjaro®, 2.5 mg/0.5 mL, Carton, Single-dose Vial
 
 NDC 0002-1152-01
 
@@ -164,7 +164,7 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 5 mg/0.5 mL, Single-dose Vial
+PACKAGE LABEL - Mounjaro®, 5 mg/0.5 mL, Single-dose Vial
 
 NDC 0002-1243-01
 
@@ -186,7 +186,7 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 7.5 mg/0.5 mL, Single-dose Vial
+PACKAGE LABEL - Mounjaro®, 7.5 mg/0.5 mL, Single-dose Vial
 
 NDC 0002-2214-01
 
@@ -208,7 +208,7 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 10 mg/0.5 mL, Carton, Single-dose Vial
+PACKAGE LABEL - Mounjaro®, 10 mg/0.5 mL, Carton, Single-dose Vial
 
 NDC 0002-2340-01
 
@@ -230,7 +230,7 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 12.5 mg/0.5 mL, Single-dose Vial
+PACKAGE LABEL - Mounjaro®, 12.5 mg/0.5 mL, Single-dose Vial
 
 NDC 0002-2423-01
 
@@ -252,7 +252,7 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Mounjaro™, 15 mg/0.5 mL, Single-dose Vial
+PACKAGE LABEL - Mounjaro®, 15 mg/0.5 mL, Single-dose Vial
 
 NDC 0002-3002-01
 

@@ -1,6 +1,6 @@
 # Mounjaro Single-Dose Pen Instructions for Use
 
-| INSTRUCTIONS FOR USE MOUNJARO™ (mown-JAHR-OH) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
+| INSTRUCTIONS FOR USE MOUNJARO® (mown-JAHR-OH) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
 | --- |
 
 Important information you need to know before injecting MOUNJARO
@@ -129,15 +129,15 @@ Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-MOUNJARO is a trademark of Eli Lilly and Company.
+MOUNJARO is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2022, Eli Lilly and Company.
+Copyright © 2022, 2024, Eli Lilly and Company.
 All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: September 2022
+Revised: May 2024
 
-MOU-0002-IFU-20220929
+MOU-0003-IFU-20240516
 
 # Mounjaro Single-Dose Vial Instructions for Use
 
@@ -252,15 +252,15 @@ Keep MOUNJARO vials, syringes, needles, and all medicines out of the reach of ch
 
 If you have any questions or problems with your MOUNJARO, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or call your healthcare provider for help.
 
-Manufactured by Eli Lilly and Company Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 MOUNJARO is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2023, Eli Lilly and Company.
+Copyright © 2023, 2024, Eli Lilly and Company.
 All rights reserved.
 
-MON-VL-0001-IFU-20230728
+MON-VL-0002-IFU-20240229
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Approved: July 2023
+Revised: February 2024
