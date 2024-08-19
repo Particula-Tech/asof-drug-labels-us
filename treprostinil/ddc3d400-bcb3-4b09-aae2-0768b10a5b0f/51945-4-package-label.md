@@ -38,12 +38,12 @@ FOR ORAL INHALATION ONLY KIT CONTAINS:
 
 This INSTITUTIONAL KIT is NOT intended for initial titration.
 
-TYVASO DPI™ (treprostinil) INHALATION POWDER
+TYVASO DPI® (treprostinil) INHALATION POWDER
 
 16 mcg per cartridge
 
 BLISTER STORAGE Unopened Blister Cards/Strips: Store refrigerated at 2°C to 8°C (36°F to 46°F).
-Discard unopened blister strips stored at room temperature after 5 weeks.
+Discard unopened blister strips stored at room temperature after 8 weeks.
 
 Opened Blister Strips: Store at 20°C to 25°C (68°F to 77°F) with excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 Discard opened blister strips holding unused cartridges 3 days after opening.
@@ -94,12 +94,12 @@ FOR ORAL INHALATION ONLY KIT CONTAINS:
 
 This INSTITUTIONAL KIT is NOT intended for initial titration.
 
-TYVASO DPI™ (treprostinil) INHALATION POWDER
+TYVASO DPI® (treprostinil) INHALATION POWDER
 
 32 mcg per cartridge
 
 BLISTER STORAGE Unopened Blister Cards/Strips: Store refrigerated at 2°C to 8°C (36°F to 46°F).
-Discard unopened blister strips stored at room temperature after 5 weeks.
+Discard unopened blister strips stored at room temperature after 8 weeks.
 
 Opened Blister Strips: Store at 20°C to 25°C (68°F to 77°F) with excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 Discard opened blister strips holding unused cartridges 3 days after opening.
@@ -150,12 +150,12 @@ FOR ORAL INHALATION ONLY KIT CONTAINS:
 
 This INSTITUTIONAL KIT is NOT intended for initial titration.
 
-TYVASO DPI™ (treprostinil) INHALATION POWDER
+TYVASO DPI® (treprostinil) INHALATION POWDER
 
 48 mcg per cartridge
 
 BLISTER STORAGE Unopened Blister Cards/Strips: Store refrigerated at 2°C to 8°C (36°F to 46°F).
-Discard unopened blister strips stored at room temperature after 5 weeks.
+Discard unopened blister strips stored at room temperature after 8 weeks.
 
 Opened Blister Strips: Store at 20°C to 25°C (68°F to 77°F) with excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 Discard opened blister strips holding unused cartridges 3 days after opening.
@@ -206,12 +206,12 @@ FOR ORAL INHALATION ONLY KIT CONTAINS:
 
 This INSTITUTIONAL KIT is NOT intended for initial titration.
 
-TYVASO DPI™ (treprostinil) INHALATION POWDER
+TYVASO DPI® (treprostinil) INHALATION POWDER
 
 64 mcg per cartridge
 
 BLISTER STORAGE Unopened Blister Cards/Strips: Store refrigerated at 2°C to 8°C (36°F to 46°F).
-Discard unopened blister strips stored at room temperature after 5 weeks.
+Discard unopened blister strips stored at room temperature after 8 weeks.
 
 Opened Blister Strips: Store at 20°C to 25°C (68°F to 77°F) with excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 Discard opened blister strips holding unused cartridges 3 days after opening.
@@ -344,7 +344,7 @@ FOR ORAL INHALATION ONLY KIT CONTAINS:
 
 This INSTITUTIONAL KIT is NOT intended for initial titration.
 
-TYVASO DPI™ (treprostinil) INHALATION POWDER
+TYVASO DPI® (treprostinil) INHALATION POWDER
 
 32 mcg per cartridge 48 mcg per cartridge
 
