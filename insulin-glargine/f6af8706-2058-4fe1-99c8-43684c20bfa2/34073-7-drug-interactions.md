@@ -13,7 +13,7 @@ Table 8: Clinically Significant Drug Interactions with REZVOGLAR
 | Intervention: | Dosage increases and increased frequency of glucose monitoring may be required when REZVOGLAR is coadministered with these drugs. |
 | Drugs that May Increase or Decrease the Blood Glucose Lowering Effect of REZVOGLAR |  |
 | Drugs: | Alcohol, beta-blockers, clonidine, and lithium salts. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. |
-| Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when REZVOGLAR is coadministered with these drugs. |
+| Intervention: | Dosage adjustment and increased frequency of glucose monitoring may be required when REZVOGLAR is coadministered with these drugs. |
 | Drugs that May Blunt Signs and Symptoms of Hypoglycemia |  |
 | Drugs: | Beta-blockers, clonidine, guanethidine, and reserpine. |
 | Intervention: | Increased frequency of glucose monitoring may be required when REZVOGLAR is coadministered with these drugs. |

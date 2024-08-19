@@ -37,4 +37,4 @@ Specific Populations
 Age, Race, Body Mass Index, and Gender
 
 Effect of age, race, body mass index (BMI), and gender on the pharmacokinetics of insulin glargine products has not been evaluated.
-However, in controlled clinical studies in adults (n=3890) and a controlled clinical study in pediatric patients (n=349), subgroup analyses based on age, race, BMI, and gender did not show differences in safety and efficacy between insulin glargine and NPH insulin [see Clinical Studies (14)].
+However, in controlled clinical studies in adults (n=3,890) and a controlled clinical study in pediatric patients (n=349), subgroup analyses based on age, race, BMI, and gender did not show differences in safety and efficacy between insulin glargine and NPH insulin [see Clinical Studies (14)].

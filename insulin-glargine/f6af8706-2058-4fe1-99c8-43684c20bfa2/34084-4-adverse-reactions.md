@@ -2,6 +2,7 @@
 
 The following adverse reactions are discussed elsewhere:
 
+- Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen [see Warnings and Precautions (5.2)]
 - Hypoglycemia [see Warnings and Precautions (5.3)].
 - Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)].
 - Hypersensitivity Reactions [see Warnings and Precautions (5.5)].
@@ -11,21 +12,21 @@ The following adverse reactions are discussed elsewhere:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
-The data in Table 1 reflect the exposure of 2327 patients with type 1 diabetes to insulin glargine or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
-The type 1 diabetes population had the following characteristics: Mean age was 39 years.
-Fifty-four percent were male, 97% were Caucasian, 2% were Black or African American and 3% were Hispanic.
-The mean BMI was 25.1 kg/m2.
+The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to insulin glargine or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
+The type 1 diabetes population had the following characteristics: the mean age was 39 years, 54% were male, and mean body mass index (BMI) was 25.1 kg/m2.
+Ninety-seven percent were White, 2% were Black or African American and less than 1% were Asian.
+Approximately 3% of the patients in studies B and C were Hispanic.
 
-The data in Table 2 reflect the exposure of 1563 patients with type 2 diabetes to insulin glargine or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
-The type 2 diabetes population had the following characteristics: Mean age was 59 years.
-Fifty-eight percent were male, 87% were Caucasian, 8% were Black or African American and 9% were Hispanic.
-The mean BMI was 29.2 kg/m2.
+The data in Table 2 reflect the exposure of 1,563 patients with type 2 diabetes to insulin glargine or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
+The type 2 diabetes population had the following characteristics: the mean age was 59 years, 58% were male, and mean BMI was 29.2 kg/m2.
+Eighty-seven percent were White, 8% were Black or African American and 3% were Asian.
+Approximately 9% of patients in Study F were Hispanic.
 
 The frequencies of adverse reactions during insulin glargine clinical studies in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below (Tables 1, 2, 3, and 4).
 
 Table 1: Adverse Reactions Occurring ≥5% in Pooled Clinical Studies up to 28 Weeks Duration in Adults with Type 1 Diabetes
 
-|  | Insulin Glargine, % (n=1257) | NPH, % (n=1070) |
+|  | Insulin Glargine, % (n=1,257) | NPH, % (n=1,070) |
 | --- | --- | --- |
 | Upper respiratory tract infection | 22.4 | 23.1 |
 | Infection* | 9.4 | 10.3 |
@@ -85,14 +86,14 @@ Table 5: Severe Symptomatic Hypoglycemia in Patients with Type 1 Diabetes
 
 |  | Study A Type 1 Diabetes Adults 28 weeks In combination with regular insulin |  | Study B Type 1 Diabetes Adults 28 weeks In combination with regular insulin |  | Study C Type 1 Diabetes Adults 16 weeks In combination with insulin lispro |  | Study D Type 1 Diabetes Pediatrics 26 weeks In combination with regular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Insulin Glargine N=292 | NPH N=293 | Insulin Glargine N=264 | NPH N=270 | Insulin Glargine N=310 | NPH N=309 | Insulin Glargine N=174 | NPH N=175 |
+|  | Insulin Glargine n=292 | NPH n=293 | Insulin Glargine n=264 | NPH n=270 | Insulin Glargine n=310 | NPH n=309 | Insulin Glargine n=174 | NPH n=175 |
 | Percent of patients | 10.6 | 15.0 | 8.7 | 10.4 | 6.5 | 5.2 | 23.0 | 28.6 |
 
 Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 
 |  | Study E Type 2 Diabetes Adults 52 weeks In combination with oral agents |  | Study F Type 2 Diabetes Adults 28 weeks In combination with regular insulin |  | Study G Type 2 Diabetes Adults 5 years In combination with regular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Insulin Glargine N=289 | NPH N=281 | Insulin Glargine N=259 | NPH N=259 | Insulin Glargine N=513 | NPH N=504 |
+|  | Insulin Glargine n=289 | NPH n=281 | Insulin Glargine n=259 | NPH n=259 | Insulin Glargine n=513 | NPH n=504 |
 | Percent of patients | 1.7 | 1.1 | 0.4 | 2.3 | 7.8 | 11.9 |
 
 Table 7 displays the proportion of patients who experienced severe symptomatic hypoglycemia in the insulin glargine and Standard Care groups in the ORIGIN study [see Clinical Studies (14)].
@@ -101,12 +102,12 @@ Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Study
 
 |  | ORIGIN Study Median duration of follow-up: 6.2 years |  |
 | --- | --- | --- |
-| Insulin Glargine (N=6231) | Standard Care (N=6273) |  |
+| Insulin Glargine (n=6,231) | Standard Care (n=6,273) |  |
 | Percent of patients | 5.6 | 1.8 |
 
 Peripheral Edema
 
-Some patients taking insulin glargine products have experienced sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+Some patients taking insulin glargine products have experienced sodium retention and edema, particularly if previously poor metabolic control was improved by intensified insulin therapy.
 
 Lipodystrophy
 

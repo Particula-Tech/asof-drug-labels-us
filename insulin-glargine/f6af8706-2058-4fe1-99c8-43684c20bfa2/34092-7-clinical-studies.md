@@ -229,16 +229,16 @@ There were two coprimary composite CV endpoints:
 - The first coprimary endpoint was the time to first occurrence of a major adverse CV event defined as the composite of CV death, nonfatal myocardial infarction and nonfatal stroke.
 - The second coprimary endpoint was the time to the first occurrence of CV death or nonfatal myocardial infarction or nonfatal stroke or revascularization procedure or hospitalization for heart failure.
 
-Patients were randomized to either insulin glargine (N=6264) titrated to a goal fasting plasma glucose of ≤95 mg/dL or to standard care (N=6273).
+Patients were randomized to either insulin glargine (N=6,264) titrated to a goal fasting plasma glucose of ≤95 mg/dL or to standard care (N=6,273).
 Anthropometric and disease characteristics were balanced at baseline.
 The mean age was 64 years and 8% of patients were 75 years of age or older.
 The majority of patients were male (65%).
-Fifty nine percent were Caucasian, 25% were Latin, 10% were Asian and 3% were Black.
+Fifty nine percent were White, 25% were Latin, 10% were Asian and 3% were Black or African American.
 The median baseline BMI was 29 kg/m2.
 Approximately 12% of patients had abnormal glucose levels (IGT and/or IFG) at baseline and 88% had type 2 diabetes.
 For patients with type 2 diabetes, 59% were treated with a single oral antidiabetic drug, 23% had known diabetes but were on no antidiabetic drug and 6% were newly diagnosed during the screening procedure.
 The mean HbA1c (SD) at baseline was 6.5% (1.0).
-Fifty-nine percent of the patients had had a prior CV event and 39% had documented coronary artery disease or other CV risk factors.
+Fifty-nine percent of the patients had a prior CV event and 39% had documented coronary artery disease or other CV risk factors.
 
 Vital status was available for 99.9% and 99.8% of patients randomized to insulin glargine and standard care respectively at end of study.
 The median duration of follow-up was 6.2 years (range: 8 days to 7.9 years).
@@ -252,12 +252,12 @@ All-cause mortality was also similar between groups.
 
 Table 14: Cardiovascular Outcomes in ORIGIN in Patients with Established CV Disease or CV Risk Factors - Time to First Event Analyses
 
-|  | Insulin Glargine N=6264 | Standard Care N=6273 | Insulin Glargine vs. Standard Care |
+|  | Insulin Glargine N=6,264 | Standard Care N=6,273 | Insulin Glargine vs. Standard Care |
 | --- | --- | --- | --- |
 |  | n (Events per 100 PY) | n (Events per 100 PY) | Hazard Ratio (95% CI) |
 | Coprimary endpoints |  |  |  |
-| CV death, nonfatal myocardial infarction, or nonfatal stroke | 1041 (2.9) | 1013 (2.9) | 1.02 (0.94, 1.11) |
-| CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for heart failure or revascularization procedure | 1792 (5.5) | 1727 (5.3) | 1.04 (0.97, 1.11) |
+| CV death, nonfatal myocardial infarction, or nonfatal stroke | 1,041 (2.9) | 1,013 (2.9) | 1.02 (0.94, 1.11) |
+| CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for heart failure or revascularization procedure | 1,792 (5.5) | 1,727 (5.3) | 1.04 (0.97, 1.11) |
 | Components of coprimary endpoints |  |  |  |
 | CV death | 580 | 576 | 1.00 (0.89, 1.13) |
 | Myocardial Infarction (fatal or nonfatal) | 336 | 326 | 1.03 (0.88, 1.19) |
@@ -269,7 +269,7 @@ In the ORIGIN study, the overall incidence of cancer (all types combined) or dea
 
 Table 15: Cancer Outcomes in ORIGIN – Time to First Event Analyses
 
-|  | Insulin Glargine N=6264 | Standard Care N=6273 | Insulin Glargine vs. Standard Care |
+|  | Insulin Glargine N=6,264 | Standard Care N=6,273 | Insulin Glargine vs. Standard Care |
 | --- | --- | --- | --- |
 |  | n (Events per 100 PY) | n (Events per 100 PY) | Hazard Ratio (95% CI) |
 | Cancer endpoints |  |  |  |

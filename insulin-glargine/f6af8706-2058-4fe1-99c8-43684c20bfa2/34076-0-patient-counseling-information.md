@@ -25,11 +25,9 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with insulin glargine products.
 Inform patients about the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
-Literature issued: Nov 2022
-
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA US License Number 1891
 
-Copyright © 2021, 2022, Eli Lilly and Company.
+Copyright © 2021, 2024, Eli Lilly and Company.
 All rights reserved.
 
-REZ-0002-USPI-20221116
+REZ-0003-USPI-20240809
