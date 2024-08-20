@@ -1,14 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
+THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFER FROM THAT OF THE OTHER TETRACYCLINES.
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
 
-Minocycline hydrochloride tablets may be taken with or without food (See CLINICAL PHARMACOLOGY).
+Minocycline hydrochloride tablets may be taken with or without food (see CLINICAL PHARMACOLOGY).
 
 Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
 The tablets should be swallowed whole.
 
-## For Pediatric Patients Above 8 Years Of Age
+## For Pediatric Patients above 8 Years of Age
 
 Usual pediatric dose: 4 mg/kg initially followed by 2 mg/kg every 12 hours, not to exceed the usual adult dose.
 
@@ -35,4 +35,4 @@ Ingestion of adequate amounts of fluids along with capsule and tablet forms of d
 The pharmacokinetics of minocycline in patients with renal impairment (CL CR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
-However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine should be monitored (See WARNINGS).
+However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine should be monitored (see WARNINGS-Antianabolic Action).

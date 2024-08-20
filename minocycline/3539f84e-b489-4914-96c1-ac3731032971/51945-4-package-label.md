@@ -2,8 +2,6 @@
 
 Minocycline Hydrochloride Tablets, USP, 50 mg
 
-​
-
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 75 mg
 
 Minocycline Hydrochloride Tablets, USP, 75 mg
