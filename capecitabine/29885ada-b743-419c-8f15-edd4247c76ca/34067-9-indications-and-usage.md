@@ -2,16 +2,24 @@
 
 ## 1.1 Colorectal Cancer
 
-- Capecitabine tablets USP is indicated as a single agent for adjuvant treatment in patients with Dukes’ C colon cancer who have undergone complete resection of the primary tumor when treatment with fluoropyrimidine therapy alone is preferred.
-  Capecitabine was non-inferior to 5- fluorouracil and leucovorin (5-FU/LV) for disease-free survival (DFS).
-  Physicians should consider results of combination chemotherapy trials, which have shown improvement in DFS and OS, when prescribing single-agent capecitabine in the adjuvant treatment of Dukes’ C colon cancer.
-- Capecitabine tablets USP are indicated as first-line treatment of patients with metastatic colorectal carcinoma when treatment with fluoropyrimidine therapy alone is preferred.
-  Combination chemotherapy has shown a survival benefit compared to 5-FU/LV alone.
-  A survival benefit over 5-FU/LV has not been demonstrated with capecitabine tablets monotherapy.
-  Use of capecitabine tablets USP instead of 5- FU/LV in combinations has not been adequately studied to assure safety or preservation of the survival advantage.
+Capecitabine tablets are indicated for the: • adjuvant treatment of patients with Stage III colon cancer as a single agent or as a component of a combination chemotherapy regimen. • perioperative treatment of adults with locally advanced rectal cancer as a component of chemoradiotherapy. • treatment of patients with unresectable or metastatic colorectal cancer as a single agent or as a component of a combination chemotherapy regimen.
 
 ## 1.2 Breast Cancer
 
-- Capecitabine tablets USP in combination with docetaxel are indicated for the treatment of patients with metastatic breast cancer after failure of prior anthracycline-containing chemotherapy.
-- Capecitabine tablets monotherapy is also indicated for the treatment of patients with metastatic breast cancer resistant to both paclitaxel and an anthracycline-containing chemotherapy regimen or resistant to paclitaxel and for whom further anthracycline therapy is not indicated (e.g., patients who have received cumulative doses of 400 mg/m2 of doxorubicin or doxorubicin equivalents).
-  Resistance is defined as progressive disease while on treatment, with or without an initial response, or relapse within 6 months of completing treatment with an anthracycline- containing adjuvant regimen.
+Capecitabine tablets are indicated for the:
+
+• treatment of patients with advanced or metastatic breast cancer as a single agent if an anthracycline- or taxane-containing chemotherapy is not indicated.
+
+• treatment of patients with advanced or metastatic breast cancer in combination with docetaxel after disease progression on prior anthracycline-containing chemotherapy.
+
+## 1.3 Gastric, Esophageal, or Gastroesophageal Junction Cancer
+
+Capecitabine tablets are indicated for the:
+
+• treatment of adults with unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer as a component of a combination chemotherapy regimen.
+
+• treatment of adults with HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma who have not received prior treatment for metastatic disease as a component of a combination regimen.
+
+## 1.4 Pancreatic Cancer
+
+Capecitabine tablets are indicated for the adjuvant treatment of adults with pancreatic adenocarcinoma as a component of a combination chemotherapy regimen.
