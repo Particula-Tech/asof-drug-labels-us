@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-AKEEGA™ (niraparib and abiraterone acetate) tablets contain niraparib tosylate (as the monohydrate) and abiraterone acetate.
+AKEEGA ®(niraparib and abiraterone acetate) tablets contain niraparib tosylate (as the monohydrate) and abiraterone acetate.
 
 Niraparib
 

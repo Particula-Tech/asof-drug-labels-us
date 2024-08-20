@@ -1,4 +1,4 @@
-| PATIENT INFORMATION AKEEGA™ (a kee' gah) (niraparib and abiraterone acetate) tablets |  |  |  |  |
+| PATIENT INFORMATION AKEEGA ®(a kee' gah) (niraparib and abiraterone acetate) tablets |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | What is the most important information I should know about AKEEGA? AKEEGA may cause serious side effects including: Bone marrow problems called myelodysplastic syndrome (MDS) or a type of cancer of the blood called acute myeloid leukemia (AML).MDS or AML that may lead to death has happened in people treated with niraparib, one of the medicines in AKEEGA. If you develop MDS or AML, your healthcare provider will stop treatment with AKEEGA. Symptoms of low blood cell counts (low red blood cells, low white blood cells, and low platelets) are common during treatment with AKEEGA but can also be a sign of serious bone marrow problems, including MDS and AML. Tell your healthcare provider if you have any of the following symptoms during treatment with AKEEGA: |  |  |  |  |
 |  | pale skinweaknessshortness of breathfeeling tiredbruising or bleeding more easily |  | feverfrequent infectionsblood in urine or stoolweight loss |  |

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AKEEGA™ (niraparib and abiraterone acetate) tablets are available in the strengths and packages listed below:
+AKEEGA ®(niraparib and abiraterone acetate) tablets are available in the strengths and packages listed below:
 
 - AKEEGA 50 mg/500 mg film-coated tablets Yellowish orange to yellowish brown, oval, film-coated tablets debossed with "N 50 A" on one side and plain on the other side.
   They are available in bottles of 60 tablets.

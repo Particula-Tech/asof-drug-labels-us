@@ -15,7 +15,7 @@ The following adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety population described in the WARNINGS and PRECAUTIONS reflect exposure to AKEEGA (niraparib 200 mg and abiraterone acetate 1,000 mg) in combination with prednisone 10 mg once daily in BRCA-mutated patients in Cohort 1 (N=113) of MAGNITUDE.
+The safety population described in the WARNINGS and PRECAUTIONS reflect exposure to AKEEGA (niraparib 200 mg and abiraterone acetate 1,000 mg) in combination with prednisone 10 mg daily in BRCA-mutated patients in Cohort 1 (N=113) of MAGNITUDE.
 
 BRCA-mutated Metastatic Castration-Resistant Prostate Cancer
 
