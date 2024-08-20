@@ -6,7 +6,7 @@ Phenylacetylglutamine then is excreted by the kidneys.
 On a molar basis, it is comparable to urea (each containing two moles of nitrogen).
 Therefore, phenylacetylglutamine provides an alternate vehicle for waste nitrogen excretion.
 
-## Pharmacokinetics
+## PHARMACOKINETICS
 
 General:
 
@@ -32,7 +32,7 @@ Excretion:
 A majority of the administered compound (approximately 80 to100%) was excreted by the kidneys within 24 hours as the conjugation product, phenylacetylglutamine.
 For each gram of sodium phenylbutyrate administered, it is estimated that between 0.12 to 0.15 grams of phenylacetylglutamine nitrogen are produced.
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 In patients with urea cycle disorders, sodium phenylbutyrate decreased elevated plasma ammonia glutamine levels.
 It increases waste nitrogen excretion in the form of phenylacetylglutamine.

@@ -10,86 +10,44 @@ Use of corticosteroids may cause the breakdown of body protein and increase plas
 
 # PRECAUTIONS
 
-General:
+## General:
 
 Sodium phenylbutyrate should not be administered to patients with known hypersensitivity to sodium phenylbutyrate or any component of this preparation.
 
 There have been published reports of hyperammonemia being induced by haloperidol and by valproic acid.
 
-Neurotoxicity of phenylacetate in animals:
+## Neurotoxicity of phenylacetate in animals:
 
 When given subcutaneously to rat pups, 190 to 474 mg/kg phenylacetate caused decreased proliferation and increased loss of neurons, and it reduced CNS myelin.
 Cerebral synapse maturation was retarded, and the number of functioning nerve terminals in the cerebrum was reduced, which resulted in impaired brain growth.
 Prenatal exposure of rat pups to phenylacetate produced lesions in layer 5 of the cortical pyramidal cells; dendritic spines were longer and thinner than normal and reduced in number.
 
-Information for Patients:
+## Information for Patients:
 
 The full text of the separate insert of information for patients is reprinted at the end of the labeling.
 
-Laboratory Tests:
+## Laboratory Tests:
 
 Plasma levels of ammonia, arginine, branched-chain amino acids, and serum proteins should be maintained within normal limits, and plasma glutamine should be maintained at levels less than 1,000 µmol/L.
 Serum drug levels of phenylbutyrate and its metabolites, phenylacetate and phenylacetylglutamine, should be monitored periodically.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Carcinogenicity, mutagenicity, and fertility studies of sodium phenylbutyrate have not been conducted.
 
-Pregnancy:
+## Pregnancy:
 
 Pregnancy Category C. Animal reproduction studies have not been conducted with sodium phenylbutyrate.
 It is also not known whether sodium phenylbutyrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 
 Sodium phenylbutyrate should be given to a pregnant woman only if clearly needed.
 
-Nursing Mothers:
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when sodium phenylbutyrate is administered to a nursing woman.
 
-Pediatric Use:
-
-The use of tablets for neonates, infants and children to the weight of 20 kg is not recommended.
-(See DOSAGE AND ADMINISTRATION)
-
-## General
-
-Sodium phenylbutyrate should not be administered to patients with known hypersensitivity to sodium phenylbutyrate or any component of this preparation.
-
-There have been published reports of hyperammonemia being induced by haloperidol and by valproic acid.
-
-## Neurotoxicity of phenylacetate in animals
-
-When given subcutaneously to rat pups, 190 to 474 mg/kg phenylacetate caused decreased proliferation and increased loss of neurons, and it reduced CNS myelin.
-Cerebral synapse maturation was retarded, and the number of functioning nerve terminals in the cerebrum was reduced, which resulted in impaired brain growth.
-Prenatal exposure of rat pups to phenylacetate produced lesions in layer 5 of the cortical pyramidal cells; dendritic spines were longer and thinner than normal and reduced in number.
-
-## Information for Patients
-
-The full text of the separate insert of information for patients is reprinted at the end of the labeling.
-
-## Laboratory Tests
-
-Plasma levels of ammonia, arginine, branched-chain amino acids, and serum proteins should be maintained within normal limits, and plasma glutamine should be maintained at levels less than 1,000 µmol/L.
-Serum drug levels of phenylbutyrate and its metabolites, phenylacetate and phenylacetylglutamine, should be monitored periodically.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Carcinogenicity, mutagenicity, and fertility studies of sodium phenylbutyrate have not been conducted.
-
-## Pregnancy
-
-Pregnancy Category C. Animal reproduction studies have not been conducted with sodium phenylbutyrate.
-It is also not known whether sodium phenylbutyrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-
-Sodium phenylbutyrate should be given to a pregnant woman only if clearly needed.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when sodium phenylbutyrate is administered to a nursing woman.
-
-## Pediatric Use
+## Pediatric Use:
 
 The use of tablets for neonates, infants and children to the weight of 20 kg is not recommended.
 (See DOSAGE AND ADMINISTRATION)

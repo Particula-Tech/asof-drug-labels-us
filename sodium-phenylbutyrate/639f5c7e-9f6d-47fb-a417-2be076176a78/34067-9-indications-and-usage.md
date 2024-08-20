@@ -7,7 +7,7 @@ It is important that the diagnosis be made early and treatment initiated immedia
 Any episode of acute hyperammonemia should be treated as a life-threatening emergency.
 
 Sodium phenylbutyrate powder must be combined with dietary protein restriction and, in some cases, essential amino acid supplementation.
-(SeeNutritional Supplementation subsection of the DOSAGE AND ADMINISTRATION section.)
+(See Nutritional Supplementation subsection of the DOSAGE AND ADMINISTRATION section.)
 
 Previously, neonatal-onset disease was almost universally fatal within the first year of life, even when treated with peritoneal dialysis and essential amino acids or their nitrogen-free analogs.
 However, with hemodialysis, use of alternative waste nitrogen excretion pathways (sodium phenylbutyrate, sodium benzoate, and sodium phenylacetate), dietary protein restriction, and, in some cases, essential amino acid supplementation, the survival rate in newborns diagnosed after birth but within the first month of life is almost 80%.

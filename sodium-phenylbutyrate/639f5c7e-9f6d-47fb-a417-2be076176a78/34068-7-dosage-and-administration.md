@@ -9,12 +9,12 @@ The powder is to be taken in equally divided amounts with each meal or feeding (
 
 Sodium phenylbutyrate powder is indicated for oral use (via mouth, gastrostomy, or nasogastric tube) only.
 The powder is to be mixed with food (solid or liquid) for immediate use; however, when dissolved in water, sodium phenylbutyrate powder has been shown to be stable for up to one week at room temperature or refrigerated.
-Sodium phenylbutyrate is very soluble in water (5 grams per 10 mL).
-When sodium phenylbutyrate powder is added to a liquid, only sodium phenylbutyrate will dissolve, the excipients will not.
-The effect of food on sodium phenylbutyrate has not been determined.
+Sodium phenylbutyrate, USP is very soluble in water (5 grams per 10 mL).
+When sodium phenylbutyrate powder is added to a liquid, only sodium phenylbutyrate, USP will dissolve, the excipients will not.
+The effect of food on sodium phenylbutyrate, USP has not been determined.
 
-Each level yellow teaspoon (enclosed) dispenses 3.2 grams of powder and 3 grams of sodium phenylbutyrate.
-Each level blue tablespoon (enclosed) dispenses 9.1 grams of powder and 8.6 grams of sodium phenylbutyrate.
+Each level yellow teaspoon (enclosed) dispenses 3.2 grams of powder and 3 grams of sodium phenylbutyrate, USP.
+Each level blue tablespoon (enclosed) dispenses 9.1 grams of powder and 8.6 grams of sodium phenylbutyrate, USP.
 
 Shake lightly before use.
 

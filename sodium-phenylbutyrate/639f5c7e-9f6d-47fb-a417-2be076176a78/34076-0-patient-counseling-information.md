@@ -1,6 +1,6 @@
 # PATIENT PACKAGE INSERT
 
-Sodium Phenylbutyrate Powder
+Sodium Phenylbutyrate Powder, USP
 
 SOE-dee-um fen-il-BUE-ti-rate
 
@@ -33,11 +33,11 @@ These include plasma ammonia, plasma amino acid levels, and other more routine b
 What is sodium phenylbutyrate powder?
 
 Sodium phenylbutyrate powder is a drug that helps to prevent ammonia from accumulating in the blood.
-Sodium phenylbutyrate powderaids the body in eliminating substances that produce ammonia.
+Sodium phenylbutyrate powder aids the body in eliminating substances that produce ammonia.
 However, despite drug treatment, blood ammonia levels may become elevated periodically and there may be episodes of altered brain function in association with these ammonia elevations.
 Patients who have disease onset as newborns have a high incidence of mental retardation.
 Medical attention should be obtained as soon as signs appear (see above under "What are urea cycle disorders?").
-Sodium phenylbutyrate powdermay be used as life-long therapy or as a temporary measure until liver transplantation is performed.
+Sodium phenylbutyrate powder may be used as life-long therapy or as a temporary measure until liver transplantation is performed.
 
 What diet should I or my child follow?
 
@@ -47,18 +47,18 @@ Because the diet is so important, it is recommended that the prescribed diet be 
 
 Who should not take sodium phenylbutyrate powder?
 
-Sodium phenylbutyrate powderis prescribed only for patients with urea cycle disorders.
+Sodium phenylbutyrate powder is prescribed only for patients with urea cycle disorders.
 It is not to be used for any other reason.
 Keep the medication in a safe place where children cannot reach it.
 
 What other medical conditions may also be present that could increase the risk of taking sodium phenylbutyrate powder?
 
-Heart failure or decreased kidney function may lead to retention of the sodium content of sodium phenylbutyrate powderwith potentially serious consequences such as worsening heart failure, high blood pressure, and swelling.
+Heart failure or decreased kidney function may lead to retention of the sodium content of sodium phenylbutyrate powder with potentially serious consequences such as worsening heart failure, high blood pressure, and swelling.
 If these medical conditions are present, the doctor will determine if your child should take sodium phenylbutyrate powder.
 
 How should I or my child take sodium phenylbutyrate powder?
 
-The dose of sodium phenylbutyrate powderprescribed for adults and children is based upon the patient's weight or size.
+The dose of sodium phenylbutyrate powder prescribed for adults and children is based upon the patient's weight or size.
 It is very important that the full amount prescribed for any 24-hour period be taken.
 If a dose is missed it should be administered as soon as possible that same day.
 The total daily dose should be administered in equally divided amounts with meals.
@@ -76,7 +76,7 @@ Probenecid, a medication used to treat gout, may affect the way the kidneys excr
 
 What are the most common side effects of sodium phenylbutyrate powder?
 
-The most common side effect reported in premenopausal women taking sodium phenylbutyrate powderwas absent or irregular menstrual periods.
+The most common side effect reported in premenopausal women taking sodium phenylbutyrate powder was absent or irregular menstrual periods.
 Decreased appetite was reported in 4% of all people treated.
 Body odor and bad taste were each reported in 3% of all patients treated.
 
@@ -93,28 +93,22 @@ Sodium phenylbutyrate powder should be stored in a tightly closed bottle at room
 
 This leaflet provides a brief summary of the information available on sodium phenylbutyrate powder.
 The information here is incomplete and is not designed to take the place of your doctor's instructions.
-For more information, consult your physician or call Par Pharmaceutical at 1-800-828-9393.
+For more information, consult your physician or call Endo at 1-800-828-9393.
 
 Trademarks are the properties of their respective owners.
 
-Dist. by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam - 603 103.
+Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Mfg.
-Lic.
-No.: TN00002121
+Neutral Code: TN/DRUGS/TN00002121
 
-OS006-01-74-01
+©2024 Endo, Inc. or one of its affiliates.
 
-Issued: 06/2017
+OS006-01-74-02
+
+Revised: 06/2024
