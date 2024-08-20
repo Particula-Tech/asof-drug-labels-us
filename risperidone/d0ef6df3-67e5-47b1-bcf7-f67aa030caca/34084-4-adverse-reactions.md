@@ -2,12 +2,12 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see BOXED WARNING and Warnings and Precautions(5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - Tardive dyskinesia [see Warnings and Precautions (5.4)]
 - Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.5)]
-- Hyperprolactinemia [see Warnings and Precautions(5.6)]
+- Hyperprolactinemia [see Warnings and Precautions (5.6)]
 - Orthostatic hypotension [see Warnings and Precautions (5.7)]
 - Falls [see Warnings and Precautions (5.8)]
 - Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
@@ -18,7 +18,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
 - Patients with Phenylketonuria [see Warnings and Precautions (5.15)]
 
-The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation,dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
+The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
 The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions, Discontinuations Due to Adverse Reactions (6.1)].
 
@@ -29,11 +29,11 @@ Safety was assessed by collecting adverse events and performing physical examina
 
 ## 6.1 Clinical Trials Experience
 
-### Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia
+### Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Schizophrenia
 
 Adult Patients with Schizophrenia
 
-Table 8 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with schizophrenia in three 4- to 8- week, double-blind, placebo-controlled trials.
+Table 8 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
 
 | Table 8. Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials |  |  |  |
 | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ Table 8 lists the adverse reactions reported in 2% or more of risperidone-treate
 | Blood creatine phosphokinase increased | 1 | 2 | <1 |
 | Heart rate increased | <1 | 2 | 0 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |
-| Back Pain | 4 | 1 | 1 |
+| Back pain | 4 | 1 | 1 |
 | Arthralgia | 2 | 3 | <1 |
 | Pain in extremity | 2 | 1 | 1 |
 | Nervous System Disorders |  |  |  |
@@ -89,11 +89,11 @@ Table 8 lists the adverse reactions reported in 2% or more of risperidone-treate
 | Dry skin | 1 | 3 | 0 |
 | Vascular Disorders |  |  |  |
 | Orthostatic hypotension | 2 | 1 | 0 |
-| * Parkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson’s disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. |  |  |  |
+| *Parkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson’s disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. |  |  |  |
 
 ### Pediatric Patients with Schizophrenia
 
-Table 9 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients with schizophrenia in a 6 week double-blind, placebo-controlled trial.
+Table 9 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients with schizophrenia in a 6-week double-blind, placebo-controlled trial.
 
 Table 9.
 Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greater than placebo) with Schizophrenia in a Double-Blind Trial
@@ -119,10 +119,10 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 
 #### Adult Patients with Bipolar Mania
 
-Table 10 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in four 3 week, double-blind, placebo-controlled monotherapy trials.
+Table 10 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 10.
-Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
+Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -145,9 +145,9 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients with Bipolar Ma
 | Dizziness | 6 | 5 |
 | Dystonia* | 5 | 1 |
 | Lethargy | 2 | 1 |
-| * Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |
+| *Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |
 
-Table 11 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in two 3 week, double-blind, placebo-controlled adjuvant therapy trials.
+Table 11 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
 
 Table 11.
 Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Adjunctive Therapy Trials
@@ -175,14 +175,14 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater th
 | Lethargy | 2 | 1 |  |  |  |
 | Psychiatric Disorders |  |  |  |  |  |
 | Anxiety | 3 | 2 |  |  |  |
-| Respiratory,Thoracic and Mediastinal Disorders |  |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
 | Pharyngolaryngeal pain | 5 | 2 |  |  |  |
 | Cough | 2 | 0 |  |  |  |
-| * Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. |  |  |  |  |  |
+| *Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. |  |  |  |  |  |
 
 #### Pediatric Patients with Bipolar Mania
 
-Table 12 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients with bipolar mania in a 3 week double-blind, placebo-controlled trial.
+Table 12 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients with bipolar mania in a 3-week double-blind, placebo-controlled trial.
 
 Table 12.
 Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Trials
@@ -216,11 +216,11 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Pharyngolaryngeal pain | 10 | 3 | 5 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 0 | 7 | 2 |
-| * Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia and nuchal rigidity. Dystonia includes dystonia, larngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. |  |  |  |
+| *Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. |  |  |  |
 
 ### Commonly-Observed Adverse Reactions in ≥5% Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder
 
-Table 13 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients treated for irritability associated with autistic disorder in two 8 week, double blind, placebo- controlled trials and one 6-week double blind, placebo-controlled study.
+Table 13 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients treated for irritability associated with autistic disorder in two 8-week, double-blind, placebo-controlled trials and one 6-week double blind, placebo-controlled study.
 
 Table 13.
 Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greater than placebo) Treated for Irritability Associated with Autistic Disorder in Double-Blind, Placebo-Controlled Trials
@@ -243,7 +243,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Rhinitis | 9 | 7 |
 | Upper respiratory tract infection | 8 | 3 |
 | Investigations |  |  |
-| Weight Increased | 8 | 2 |
+| Weight increased | 8 | 2 |
 | Metabolism and Nutrition Disorders |  |  |
 | Increased appetite | 44 | 15 |
 | Nervous System Disorders |  |  |
@@ -253,15 +253,15 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Tremor | 8 | 1 |
 | Dizziness | 8 | 2 |
 | Parkinsonism * | 8 | 1 |
-| Respiratory and Urinary Disorders |  |  |
+| Renal and Urinary Disorders |  |  |
 | Enuresis | 16 | 10 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
 | Cough | 17 | 12 |
 | Rhinorrhea | 12 | 10 |
-| Nasal Congestion | 10 | 4 |
+| Nasal congestion | 10 | 4 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 8 | 5 |
-| * Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. |  |  |
+| *Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. |  |  |
 
 ### Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
@@ -287,9 +287,9 @@ Infections and Infestations: pneumonia, influenza, ear infection, viral infectio
 
 Investigations: body temperature increased, blood prolactin increased, alanine aminotransferase increased, electrocardiogram abnormal, eosinophil count increased, white blood cell count decreased, blood glucose increased, hemoglobin decreased, hematocrit decreased, body temperature decreased, blood pressure decreased, transaminases increased
 
-Metabolism and Nutrition Disorders: polydipsia, anorexia
+Metabolism and Nutrition Disorders: decreased appetite, polydipsia, anorexia
 
-Musculoskeletal and Connective Tissue Disorders: joint swelling, musculoskeletal chest pain, posture abnormal, myalgia, neck pain, muscular weakness, rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: joint stiffness, joint swelling, musculoskeletal chest pain, posture abnormal, myalgia, neck pain, muscular weakness, rhabdomyolysis
 
 Nervous System Disorders: balance disorder, disturbance in attention, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, transient ischemic attack, coordination abnormal, cerebrovascular accident, speech disorder, syncope, loss of consciousness, hypoesthesia, tardive dyskinesia, dyskinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma, head titubation
 
@@ -299,7 +299,7 @@ Renal and Urinary Disorders: enuresis, dysuria, pollakiuria, urinary incontinenc
 
 Reproductive System and Breast Disorders: menstruation irregular, amenorrhea, gynecomastia, galactorrhea, vaginal discharge, menstrual disorder, erectile dysfunction, retrograde ejaculation, ejaculation disorder, sexual dysfunction, breast enlargement
 
-Respiratory, Thoracic and Mediastinal Disorders: wheezing, pneumonia aspiration, sinus congestion, dysphonia, productive cough, pulmonary congestion, respiratory tract congestion, rales, respiratory disorder, hyperventilation, nasal edema
+Respiratory, Thoracic, and Mediastinal Disorders: wheezing, pneumonia aspiration, sinus congestion, dysphonia, productive cough, pulmonary congestion, respiratory tract congestion, rales, respiratory disorder, hyperventilation, nasal edema
 
 Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesion, pruritus, skin disorder, rash erythematous, rash papular, rash generalized, rash maculopapular, acne, hyperkeratosis, seborrheic dermatitis
 
@@ -332,12 +332,12 @@ Discontinuation for extrapyramidal symptoms (including Parkinsonism, akathisia, 
 #### Schizophrenia - Pediatrics
 
 Approximately 7% (7/106), of risperidone-treated patients discontinued treatment due to an adverse reaction in a double-blind, placebo-controlled trial, compared with 4% (2/54) placebo-treated patients.
-The adverse reactions associated with discontinuation for at least one risperidone-treated patient were dizziness (2%), somnolence (1%), sedation (1%), lethargy (1%), anxiety (1%) balance disorder (1%), hypotension (1%), and palpitation (1%).
+The adverse reactions associated with discontinuation for at least one risperidone-treated patient were dizziness (2%), somnolence (1%), sedation (1%), lethargy (1%), anxiety (1%), balance disorder (1%), hypotension (1%), and palpitation (1%).
 
 #### Bipolar Mania – Adults
 
 In double-blind, placebo-controlled trials with risperidone as monotherapy, approximately 6% (25/448) of risperidone-treated patients discontinued treatment due to an adverse event, compared with approximately 5% (19/424) of placebo-treated patients.
-The adverse reactions associated with discontinuation in risperidone treated patients were:
+The adverse reactions associated with discontinuation in risperidone-treated patients were:
 
 | Table 15. Adverse Reactions Associated With Discontinuation in 2 or More Risperidone-Treated Adult Patients in Bipolar Mania Clinical Trials |  |  |
 | --- | --- | --- |
@@ -356,7 +356,7 @@ The adverse reactions associated with discontinuation in more than one risperido
 
 #### Autistic Disorder - Pediatrics
 
-In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n = 156), one risperidone -treated patient discontinued due to an adverse reaction (Parkinsonism), and one placebo-treated patient discontinued due to an adverse event.
+In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n=156), one risperidone-treated patient discontinued due to an adverse reaction (Parkinsonism), and one placebo-treated patient discontinued due to an adverse event.
 
 ### Dose Dependency of Adverse Reactions in Clinical Trials
 
@@ -372,7 +372,7 @@ Two methods were used to measure extrapyramidal symptoms (EPS) in an 8-week tria
 | Parkinsonism | 1.2 | 0.9 | 1.8 | 2.4 | 2.6 |
 | EPS Incidence | 13% | 17% | 21% | 21% | 35% |
 
-Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8 week trial comparing 5 fixed doses of risperidone (1, 4, 8, 12, and 16 mg/day):
+Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 5 fixed doses of risperidone (1, 4, 8, 12, and 16 mg/day):
 
 | Table 17. |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -394,8 +394,7 @@ A Cochran-Armitage Test for trend in these data revealed a positive trend (p<0.0
 
 Changes in Body Weight
 
-Weight gain was observed in short-term, controlled trials and longer-term uncontrolled studies in adult and pediatric patients.
-[see Warnings and Precautions (5.5), Adverse Reactions (6), and Use in Specific Populations (8.4)].
+Weight gain was observed in short-term, controlled trials and longer-term uncontrolled studies in adult and pediatric patients [see Warnings and Precautions (5.5), Adverse Reactions (6), and Use in Specific Populations (8.4)].
 
 ### Changes in ECG Parameters
 
@@ -413,7 +412,7 @@ In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), the
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of risperidone.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, catatonia, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, somnambulism, Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
 
 Postmarketing cases of extrapyramidal symptoms (dystonia and dyskinesia) have been reported in patients concomitantly taking methylphenidate and risperidone when there was an increase or decrease in dosage, initiation, or discontinuation of either or both medications.

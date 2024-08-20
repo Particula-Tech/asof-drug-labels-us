@@ -3,8 +3,7 @@
 ## 1.1 Schizophrenia
 
 Risperidone is indicated for the treatment of schizophrenia.
-Efficacy was established in 4 short-term trials in adults, 2 short-term trials in adolescents (ages 13 to 17 years), and one long-term maintenance trial in adults.
-[see Clinical Studies (14.1)].
+Efficacy was established in 4 short-term trials in adults, 2 short-term trials in adolescents (ages 13 to 17 years), and one long-term maintenance trial in adults [see Clinical Studies (14.1)].
 
 ## 1.2 Bipolar Mania
 
@@ -20,5 +19,5 @@ Efficacy was established in one short-term trial in adults [see Clinical Studies
 
 ## 1.3 Irritability Associated with Autistic Disorder
 
-Risperidone is indicated for the treatment of irritability associated with autistic disorder including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+Risperidone is indicated for the treatment of irritability associated with autistic disorder, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
 Efficacy was established in 3 short-term trials in children and adolescents (ages 5 to 17 years) [see Clinical Studies (14.4)].

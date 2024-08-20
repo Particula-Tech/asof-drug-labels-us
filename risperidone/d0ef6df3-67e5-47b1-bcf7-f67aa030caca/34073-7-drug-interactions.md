@@ -3,10 +3,10 @@
 ## 7.1 Pharmacokinetic-related Interactions
 
 The dose of risperidone should be adjusted when used in combination with CYP2D6 enzyme inhibitors (e.g., fluoxetine, and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18 and Dosage and Administration (2.5)].
-Dose adjustment is not recommended for risperidone when co-administered with ranitidine, cimetidine, amitriptyline, or erythromycin [see Table 18].
+Dose adjustment is not recommended for risperidone when coadministered with ranitidine, cimetidine, amitriptyline, or erythromycin [see Table 18].
 
 Table 18.
-Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperidone + 9-Hydroxy Risperidone) in Healthy Subjects or Patients with Schizophrenia
+Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperidone + 9-Hydroxy-Risperidone) in Healthy Subjects or Patients with Schizophrenia
 
 | Coadministered Drug | Dosing Schedule |  | Effect on Active Moiety (Risperidone + 9-Hydroxy-Risperidone(Ratio*) |  | Risperidone Dose recommendation |
 | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Effect of Risperidone on Other Drugs
 
 Lithium
 
-Repeated oral doses of risperidone (3mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
+Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
 Dose adjustment for lithium is not recommended.
 
 Valproate
@@ -43,7 +43,7 @@ Dose adjustment for valproate is not recommended.
 Digoxin
 
 Risperidone (0.25 mg twice daily) did not show a clinically relevant effect on the pharmacokinetics of digoxin.
-Dose adjustment for digoxin is not recommended.
+Dose adjustment for digoxin is not recommended
 
 ## 7.2 Pharmacodynamic-related Interactions
 

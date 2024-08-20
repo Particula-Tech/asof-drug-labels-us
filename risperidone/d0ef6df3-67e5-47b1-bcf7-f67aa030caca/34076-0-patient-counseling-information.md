@@ -36,7 +36,7 @@ Caution patients about performing activities requiring mental alertness, such as
 Priapism
 
 Advise patients of the possibility of painful or prolonged penile erections (priapism).
-Instruct the patient to seek immediate medical attention in the event of priapism [Warnings and Precautions (5.13)].
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.13)].
 
 Heat Exposure and Dehydration
 
@@ -51,7 +51,7 @@ Each 4 mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanin
 
 Concomitant Medication
 
-Advise patients to inform their healthcare providers if they are taking, or plan to take any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)]
+Advise patients to inform their healthcare providers if they are taking, or plan to take any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)].
 
 Alcohol
 
@@ -71,3 +71,13 @@ Infertility
 
 Advise females of reproductive potential that risperidone may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
+
+Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
+
+Made in India
+
+Neutral Code: MP/DRUGS/25/82/2020
+
+©2024 Endo, Inc. or one of its affiliates.
+
+OS212-01-74-02 Revised: 06/2024

@@ -10,3 +10,5 @@ It is practically insoluble in water, freely soluble in methylene chloride, and 
 
 Risperidone Orally Disintegrating Tablets, USP are available in 0.25 mg, 0.5 mg, 1 mg, 2 mg, 3 mg and 4 mg strengths and are white in color.
 Risperidone Orally Disintegrating Tablets, USP contain the following inactive ingredients: aspartame, croscarmellose sodium, crospovidone, magnesium stearate, maltodextrin, mannitol, methacrylic acid polymer with divinylbenzene, modified food starch, silicon dioxide, sorbitol, talc, tartaric acid, and natural grapefruit flavor.
+
+This product meets USP Disintegration Test 2.

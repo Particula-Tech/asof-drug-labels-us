@@ -4,6 +4,8 @@
 
 ### Pregnancy Exposure Registry
 
+Pregnancy Exposure Registry
+
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including risperidone, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
@@ -20,7 +22,7 @@ Learning was impaired in offspring of rats when the dams were dosed at 0.6-times
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2to 4% and 15 to20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -44,7 +46,7 @@ Human Data
 Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
 A prospective observational study including 6 women treated with risperidone demonstrated placental passage of risperidone.
 A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
-There was a small increase in the risk of major birth defects (RR=1.26, 95% CI 1.02 to1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88 to1.81) in a subgroup of 1566 women exposed to risperidone during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
+There was a small increase in the risk of major birth defects (RR=1.26, 95% CI 1.02 to 1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88 to 1.81) in a subgroup of 1566 women exposed to risperidone during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
 
 Animal Data
 
@@ -72,7 +74,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Clinical Considerations
 
-Infants exposed torisperidone through breastmilk should be monitored for excess sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements).
+Infants exposed to risperidone through breastmilk should be monitored for excess sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements).
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -80,7 +82,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of risperidone (D2 receptor antagonism), treatment with risperidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential[see Warnings and Precautions (5.6)].
+Based on the pharmacologic action of risperidone (D2 receptor antagonism), treatment with risperidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
 
 ## 8.4 Pediatric Use
 
@@ -88,26 +90,26 @@ Approved Pediatric Indications
 
 Schizophrenia
 
-The efficacy and safety of risperidone in the treatment of schizophrenia were demonstrated in 417 adolescents, aged 13 to 17 years, in two short-term (6 and 8 weeks, respectively) double-blind controlled trials [see Indications and Usage (1.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
+The efficacy and safety of risperidone in the treatment of schizophrenia were demonstrated in 417 adolescents, aged 13 to 17 years, in two short-term (6 and 8 weeks, respectively) double-blind controlled trials [see Indications and Usage (1.1), Adverse Reactions (6.1), and Clinical Studies(14.1)].
 Additional safety and efficacy information was also assessed in one long-term (6-month) open-label extension study in 284 of these adolescent patients with schizophrenia.
 
 Safety and effectiveness of risperidone in children less than 13 years of age with schizophrenia have not been established.
 
 Bipolar I Disorder
 
-The efficacy and safety of risperidone in the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in 169 children and adolescent patients, aged 10 to 17 years, were demonstrated in one double-blind, placebo-controlled, 3-week trial [see Indications and Usage (1.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of risperidone in the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in 169 children and adolescent patients, aged 10 to 17 years, were demonstrated in one double-blind, placebo-controlled, 3-week trial [see Indications and Usage (1.2), Adverse Reactions (6.1), and Clinical Studies(14.2)].
 
 Safety and effectiveness of risperidone in children less than 10 years of age with bipolar disorder have not been established.
 
 Autistic Disorder
 
-The efficacy and safety of risperidone in the treatment of irritability associated with autistic disorder were established in two 8-week, double-blind, placebo-controlled trials in 156 children and adolescent patients, aged 5 to 16 years [see Indications and Usage (1.3), Adverse Reactions (6.1) and Clinical Studies (14.4)].
+The efficacy and safety of risperidone in the treatment of irritability associated with autistic disorder were established in two 8-week, double-blind, placebo-controlled trials in 156 children and adolescent patients, aged 5 to 16 years [see Indications and Usage (1.3), Adverse Reactions (6.1), and Clinical Studies (14.4)].
 Additional safety information was also assessed in a long-term study in patients with autistic disorder, or in short- and long-term studies in more than 1200 pediatric patients with psychiatric disorders other than autistic disorder, schizophrenia, or bipolar mania who were of similar age and weight, and who received similar dosages of risperidone as patients treated for irritability associated with autistic disorder.
 
-A third study was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects 5 to 17 years of age with autistic disorder and associated irritability, and related behavioral symptoms.
+A third study was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects 5 to 17 years of age with autistic disorder and associated irritability, and related behavioral symptoms.
 There were two weight-based, fixed doses of risperidone (high-dose and low-dose).
-The high dose was 1.25 mg per day for patients weighing 20 to <45 kg, and it was 1.75 mg per day for patients weighing ≥45kg.
-The low dose was 0.125 mg per day for patients weighing 20 to <45kg, and it was 0.175 mg per day for patients weighing ≥45kg.
+The high dose was 1.25 mg per day for patients weighing 20 to <45 kg, and it was 1.75 mg per day for patients weighing ≥45 kg.
+The low dose was 0.125 mg per day for patients weighing 20 to <45 kg, and it was 0.175 mg per day for patients weighing ≥45 kg.
 The study demonstrated the efficacy of high-dose risperidone, but it did not demonstrate efficacy for low-dose risperidone.
 
 Adverse Reactions in Pediatric Patients
@@ -132,9 +134,8 @@ Somnolence was frequently observed in placebo-controlled clinical trials of pedi
 Most cases were mild or moderate in severity.
 These events were most often of early onset with peak incidence occurring during the first two weeks of treatment, and transient with a median duration of 16 days.
 Somnolence was the most commonly observed adverse reaction in the clinical trial of bipolar disorder in children and adolescents, as well as in the schizophrenia trials in adolescents.
-As was seen in the autistic disorder trials, these adverse reactions were most often of early onset and transient in duration.
-[See Adverse Reactions (6.1) and 6.2)].
-Patients experiencing persistent somnolence may benefit from a change in dosing regimen [see Dosage and Administration (2.1, 2.2, and 2.3)].
+As was seen in the autistic disorder trials, these adverse reactions were most often of early onset and transient in duration [see Adverse Reactions (6.1, 6.2)].
+Patients experiencing persistent somnolence may benefit from a change in dosing regimen [see Dosage and Administration (2.1, 2.2, 2.3)].
 
 Hyperprolactinemia
 
@@ -178,7 +179,7 @@ Risperidone doses should be reduced in patients with renal disease [see Dosage a
 
 ## 8.7 Hepatic Impairment
 
-While the pharmacokinetics of risperidone in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1 - acid glycoprotein.
+While the pharmacokinetics of risperidone in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1- acid glycoprotein.
 Risperidone doses should be reduced in patients with liver disease [see Dosage and Administration (2.4)].
 
 ## 8.8 Patients with Parkinson’s Disease or Lewy Body Dementia

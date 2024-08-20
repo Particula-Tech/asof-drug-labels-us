@@ -16,7 +16,7 @@ Risperidone Orally Disintegrating Tablets, USP 4 mg, are white, round, flat-face
 
 Risperidone Orally Disintegrating Tablets, USP 0.25 mg are packaged in cartons of 30 tablets with 5 blister packs of 6 (3 x 2) tablets.
 
-Risperidone Orally Disintegrating Tablets, USP 0.5 mg and 1 mg are packaged in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets, and on cartons of 30 tablets with 5 blister packs of 6 (3x2) tablets.
+Risperidone Orally Disintegrating Tablets, USP 0.5 mg and 1 mg are packaged in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets, and in cartons of 30 tablets with 5 blister packs of 6 (3x2) tablets.
 
 Risperidone Orally Disintegrating Tablets, USP 2 mg, 3 mg and 4 mg are packaged in cartons of 28 tablets with 7 blister packs of 4 (2 x 2) tablets.
 

@@ -12,14 +12,13 @@ The extent to which the findings of increased mortality in observational studies
 In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus risperidone when compared to patients treated with risperidone alone or with placebo plus furosemide.
 No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
 
-Risperidone is not approved for the treatment of dementia-related psychosis [see BOXED WARNING].
+Risperidone is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
-Cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
+Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
-Risperidone is not approved for the treatment of patients with dementia-related psychosis.
-[See also BOXED WARNING and Warnings and Precautions (5.1).]
+Risperidone is not approved for the treatment of patients with dementia-related psychosis [seeBoxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -69,7 +68,7 @@ Patients with an established diagnosis of diabetes mellitus who are started on a
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics, including risperidone, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of resperidone.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of risperidone.
 
 Pooled data from three double-blind, placebo-controlled schizophrenia studies and four double-blind, placebo-controlled bipolar monotherapy studies are presented in Table 2.
 
@@ -78,7 +77,7 @@ Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or 
 
 |  | Placebo | Risperidone 1 to 8 mg/day | >8 to 16 mg/day |
 | --- | --- | --- | --- |
-| Mean change from basline (mg/dL) |  |  |  |
+| Mean change from baseline (mg/dL) |  |  |  |
 |  | n=555 | n=748 | n=164 |
 | Serum Glucose | -1.4 | 0.8 | 0.6 |
 | Proportion of patients with shifts |  |  |  |
@@ -93,13 +92,13 @@ Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dos
 
 |  | Placebo | Risperidone 0.5 to 6mg/day |
 | --- | --- | --- |
-| Mean change from basline (mgdL) |  |  |
+| Mean change from baseline (mg/dL) |  |  |
 |  | n=76 | n=135 |
 | Serum Glucose | -1.3 | 2.6 |
 | Proportion of patients with shifts |  |  |
-| Serum Glucose (>100mg/dL to ≥126 mg/dL) | 0%(0/64) | 0.8%(1/120) |
+| Serum Glucose (<100mg/dL to ≥126 mg/dL) | 0%(0/64) | 0.8%(1/120) |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2mg/dL at Week 24 (n=119).
+In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
 
 Dyslipidemia
 
@@ -108,9 +107,9 @@ Undesirable alterations in lipids have been observed in patients treated with at
 Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 4.
 
 Table 4.
-Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
+Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
 
-| 1-8 mg/day | > 8-16 mg/day |  |  |
+| 1 to 8 mg/day | > 8 to 16 mg/day |  |  |
 | --- | --- | --- | --- |
 |  | Placebo | Risperidone |  |
 |  |  | Mean change from baseline (mg/dL) |  |
@@ -127,7 +126,7 @@ In longer-term, controlled and uncontrolled studies, risperidone was associated 
 Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 5.
 
 Table 5.
-Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
+Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
 
 |  | Placebo | Risperidone 0.5 to 6 mg/day |
 | --- | --- | --- |
@@ -141,8 +140,8 @@ Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dos
 | Triglycerides | n=77 | n=138 |
 | Change from baseline | -9.0 | -2.6 |
 |  | Proportion of patients with shifts |  |
-| Cholesterol(170 mg/dL to ≥200 mg/dL) | 2.4% (1/42) | 3.8% (3/80) |
-| LDL(110 mg/dL to ≥130 mg/dL) | 0% (0/16) | 0% (0/16) |
+| Cholesterol(<170 mg/dL to ≥200 mg/dL) | 2.4% (1/42) | 3.8% (3/80) |
+| LDL(<110 mg/dL to ≥130 mg/dL) | 0% (0/16) | 0% (0/16) |
 | HDL(≥40 mg/dL to < 40mg/dL) | 0% (0/19) | 10% (2/20) |
 | Triglycerides(<150 mg/dL to ≥200 mg/dL) | 1.5%(1/65) | 7.1%(8/113) |
 
@@ -158,17 +157,6 @@ Data on mean changes in body weight and the proportion of subjects meeting a wei
 Table 6.
 Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
 
-| Risperidone |  |  |  |
-| --- | --- | --- | --- |
-|  | Placebo(n=597) | 1 to 8mg/day (n=769) | >8 to 16 mg/day(n=158) |
-| Weight (kg) |  |  |  |
-| Change from baseline | -0.3 | 0.7 | 2.2 |
-| Weight Gain |  |  |  |
-| ≥7% increase from baseline | 2.9% | 8.7% | 20.9% |
-
-Table 6.
-Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
-
 | 1 to 8 mg/day (n=769) | >8 to 16 mg/day (n=158) |  |  |
 | --- | --- | --- | --- |
 |  | Placebo (n=597) | Risperidone |  |
@@ -177,14 +165,16 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 | Weight Gain |  |  |  |
 | ≥7% increase from baseline | 2.9% | 8.7% | 20.9% |
 
-In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in weight of +4.3kg at Week 24 (N=395) and +5.3kg at Week 48 (N=203).
+In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in weight of +4.3 kg at Week 24 (n=395) and +5.3 kg at Week 48 (n=203).
 
-Data on mean changes in body weight and the proportion of subjects meeting the criterion of ≥7% gain in body weight from nine placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), autistic disorder (5 to 17 years of age), or other psychiatric disorders (5 to 17 years of age) are presented in Table 7.
+Data on mean changes in body weight and the proportion of subjects meeting the criterion
+
+of ≥7% gain in body weight from nine placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), autistic disorder (5 to 17 years of age), or other psychiatric disorders (5 to 17 years of age) are presented in Table 7.
 
 Table 7.
-Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥ 7% Gain in Body Weight from Nine Placebo-Controlled, 3- to 8-Week, Fixed- Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5 to 17 Years of Age)
+Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥ 7% Gain in Body Weight from Nine Placebo-Controlled, 3- to 8-Week, Fixed- Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5 to 17 Years of Age)
 
-|  | Placebo (n=375) | Risperidone 0.5-6 mg/day (n=448) |
+|  | Placebo (n=375) | Risperidone 0.5 to 6 mg/day (n=448) |
 | --- | --- | --- |
 | Weight (kg) |  |  |
 | Change from baseline | 0.6 | 2.0 |
@@ -198,11 +188,11 @@ In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was obs
 The majority of that increase was observed within the first 6 months.
 The average percentiles at baseline and 8 months, respectively, were 56 and 72 for weight, 55 and 58 for height, and 51 and 71 for body mass index.
 
-In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5kg after 12 months of risperidone treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5kg per year adjusted for age, based on Center for Disease Control and Prevention normative data).
+In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of risperidone treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
 The majority of that increase occurred within the first 6 months of exposure to risperidone.
 The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
 
-In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90kg in the risperdidone 0.5 to 2 to 5 mg group, 1.44kg in the risperidone 3 to 6 mg group, and 0.65kg in the placebo group).
+In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90 kg in the risperidone 0.5 to 2.5 mg group, 1.44 kg in the risperidone 3 to 6 mg group, and 0.65 kg in the placebo group).
 A similar trend was observed in the mean change from baseline in body mass index.
 
 When treating pediatric patients with risperidone for any indication, weight gain should be assessed against that expected with normal growth.
@@ -215,7 +205,7 @@ Risperidone is associated with higher levels of prolactin elevation than other a
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
-Long- standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
+Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
@@ -240,11 +230,11 @@ For patients, particularly the elderly, with diseases, conditions, or medication
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
-Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropinia have been reported temporally related to antipsychotic agents, including risperidone.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of risperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of risperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue risperidone and have their WBC followed until recovery.
@@ -265,7 +255,7 @@ Risperidone should be used cautiously in patients with a history of seizures.
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer’s dementia.
-Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [See BOXED WARNING and Warning and Precautions (5.1)].
+Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [seeBoxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.13 Priapism
 
@@ -280,6 +270,6 @@ Caution is advised when prescribing for patients who will be exposed to temperat
 
 ## 5.15 Patients with Phenylketonuria
 
-Inform patients that risperidone orally disintegrating tablets contains phenylalanine.
+Inform patients that risperidone orally disintegrating tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
-Each 4mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanine, each 3 mg risperidone orally disintegrating tablet contains 5.04 mg phenylalanine each 2 mg risperidone orally disintegrating tablet contains 3.36 mg phenylalanine, each 1mg risperidone orally disintegrating tablet contains 1.68 mg phenylalanine, and each 0.5 mg risperidone orally disintegrating tablet contains 0.84 mg phenylalanine, and each 0.25 mg risperidone orally disintegrating tablet contains 0.42 mg phenylalanine.
+Each 4 mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanine, each 3 mg risperidone orally disintegrating tablet contains 5.04 mg phenylalanine, each 2 mg risperidone orally disintegrating tablet contains 3.36 mg phenylalanine, each 1 mg risperidone orally disintegrating tablet contains 1.68 mg phenylalanine, each 0.5 mg risperidone orally disintegrating tablet contains 0.84 mg phenylalanine and each 0.25 mg risperidone orally disintegrating tablet contains 0.42 mg phenylalanine.

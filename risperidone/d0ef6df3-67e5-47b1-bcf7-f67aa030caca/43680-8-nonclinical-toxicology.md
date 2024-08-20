@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 ### Carcinogenesis
 
@@ -25,7 +25,7 @@ The relevance for human risk of the findings of prolactin-mediated endocrine tum
 
 ### Mutagenesis
 
-No evidence of mutagenic or clastogenic potential for risperidone was found in the in vitro tests of Ames gene mutation, the mouse lymphoma assay, rat hepatocyte DNA-repair assay,the chromosomal aberration test in human lymphocytes, Chinese hamster ovary cells, or in the in vivo oral micronucleus test in mice and the sex-linked recessive lethal test in Drosophila.
+No evidence of mutagenic or clastogenic potential for risperidone was found in the in vitro tests of Ames gene mutation, the mouse lymphoma assay, rat hepatocyte DNA-repair assay, the chromosomal aberration test in human lymphocytes, Chinese hamster ovary cells, or in the in vivo oral micronucleus test in mice and the sex-linked recessive lethal test in Drosophila.
 
 ### Impairment of Fertility
 

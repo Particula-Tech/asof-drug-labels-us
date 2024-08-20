@@ -20,7 +20,7 @@ Risperidone is well absorbed.
 The absolute oral bioavailability of risperidone is 70% (CV=25%).
 The relative oral bioavailability of risperidone from a tablet is 94% (CV=10%) when compared to a solution.
 
-Pharmacokinetic studies showed that risperidone orally disintegrating tablets is bioequivalent to risperidone tablets.
+Pharmacokinetic studies showed that risperidone orally disintegrating tablets are bioequivalent to risperidone tablets.
 
 Plasma concentrations of risperidone, its major metabolite, 9-hydroxyrisperidone, and risperidone plus 9-hydroxyrisperidone are dose proportional over the dosing range of 1 to 16 mg daily (0.5 to 8 mg twice daily).
 Following oral administration of solution or tablet, mean peak plasma concentrations of risperidone occurred at about 1 hour.
@@ -37,7 +37,7 @@ Thus, risperidone can be given with or without meals.
 
 Risperidone is rapidly distributed.
 The volume of distribution is 1 to 2 L/kg.
-In plasma, risperidone is bound to albumin and α 1-acid glycoprotein.
+In plasma, risperidone is bound to albumin and α1-acid glycoprotein.
 The plasma protein binding of risperidone is 90%, and that of its major metabolite, 9-hydroxyrisperidone, is 77%.
 Neither risperidone nor 9-hydroxyrisperidone displaces each other from plasma binding sites.
 High therapeutic concentrations of sulfamethazine (100 mcg/mL), warfarin (10 mcg/mL), and carbamazepine (10 mcg/mL) caused only a slight increase in the free fraction of risperidone at 10 ng/mL and 9-hydroxyrisperidone at 50 ng/mL, changes of unknown clinical significance.
@@ -77,8 +77,8 @@ It would also be possible for risperidone to interfere with metabolism of other 
 Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
 
 In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
-Therefore, risperidoneis not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
-In drug interaction studies, risperidonedid not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
+Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
+In drug interaction studies, risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
 
 In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
 
@@ -86,7 +86,7 @@ In vitro studies demonstrated that drugs metabolized by other CYP isozymes, incl
 
 Renal and Hepatic Impairment
 
-[See Use in Specific Populations (8.6 and 8.7)].
+[See Use in Specific Populations (8.6, 8.7)].
 
 #### Elderly
 
@@ -95,7 +95,7 @@ Dosing should be modified accordingly in the elderly patients [see Use in Specif
 
 #### Pediatric
 
-The pharmacokinetics of risperidone and 9-hydroxyrisperidone in children were similar to those in adults after correcting for the difference in body weight..
+The pharmacokinetics of risperidone and 9-hydroxyrisperidone in children were similar to those in adults after correcting for the difference in body weight.
 
 #### Race and Gender Effects
 
