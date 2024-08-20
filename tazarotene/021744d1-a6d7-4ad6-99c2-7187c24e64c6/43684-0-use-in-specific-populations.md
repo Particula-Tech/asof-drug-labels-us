@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
@@ -35,7 +35,7 @@ A low incidence of retinoid-related malformations was observed at that dose.
 In a pre- and postnatal development toxicity study, topical administration of tazarotene gel (0.125 mg/kg/day) to pregnant female rats from gestation day 16 through lactation day 20 reduced pup survival, but did not affect the reproductive capacity of the offspring.
 Based on data from another study, the maximum systemic exposure in the rat would be equivalent to the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream, 0.1%.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
@@ -56,11 +56,11 @@ Females
 Based on animal studies, TAZORAC Cream may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with TAZORAC Cream.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 The safety and efficacy of TAZORAC Cream have not been established in patients with psoriasis under the age of 18 years, or in patients with acne under the age of 12 years.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 TAZORAC Cream for the treatment of acne has not been clinically tested in persons 65 years of age or older.
 

@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -15,7 +15,7 @@ In evaluation of photo co-carcinogenicity, median time to onset of tumors was de
 
 Mutagenesis
 
-Tazarotene was found to be non-mutagenic in the Ames assay and did not produce structural chromosomal aberrations in a human lymphocyte assay.
+Tazarotene was found to be non-mutagenic in the assay and did not produce structural chromosomal aberrations in a human lymphocyte assay.
 Tazarotene was non-mutagenic in the CHO/HGPRT mammalian cell forward gene mutation assay and was non-clastogenic in the in vivo mouse micronucleus test.
 
 Impairment of Fertility

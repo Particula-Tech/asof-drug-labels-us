@@ -32,7 +32,9 @@ Frequency of application should be closely monitored by careful observation of t
 Therapy can be resumed, or the drug concentration or frequency of application can be increased as the patient becomes able to tolerate treatment.
 
 Concomitant topical medications and cosmetics that have a strong drying effect should be avoided.
-It is also advisable to "rest" a patient's skin until the effects of such preparations subside before use of TAZORAC Cream is begun.
+It is
+
+also advisable to "rest" a patient's skin until the effects of such preparations subside before use of TAZORAC Cream is begun.
 
 TAZORAC Cream, should not be used on eczematous skin, as it may cause severe irritation.
 
