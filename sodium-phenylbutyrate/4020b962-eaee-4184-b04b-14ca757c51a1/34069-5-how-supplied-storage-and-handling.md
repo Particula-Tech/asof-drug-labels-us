@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Sodium Phenylbutyrate Tablets are available as 500 mg in bottles of 250 Sodium Phenylbutyrate Tablets (NDC 49884-170-04).
+Sodium Phenylbutyrate Tablets, USP are available as 500 mg in bottles of 250 Sodium Phenylbutyrate Tablets, USP (NDC 49884-170-04).
 The bottles are equipped with child-resistant caps.
 White to off-white, oval shaped tablet debossed 'EP 340' on one side and plain on the other side.
 Each tablet contains 500 mg of sodium phenylbutyrate, USP.

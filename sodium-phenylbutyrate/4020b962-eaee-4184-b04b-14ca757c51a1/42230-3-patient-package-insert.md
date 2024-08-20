@@ -1,6 +1,6 @@
-# PATIENT PACKAGE INSERT
+# PATIENT PACKAGE INSERT:
 
-Sodium Phenylbutyrate Tablets
+Sodium Phenylbutyrate Tablets, USP
 
 SOE-dee-um fen-il-BUE-ti-rate.
 
@@ -93,27 +93,13 @@ Sodium phenylbutyrate tablets should be stored in a tightly closed bottle at roo
 
 This leaflet provides a brief summary of the information available on sodium phenylbutyrate tablets.
 The information here is incomplete and is not designed to take the place of your doctor's instructions.
-For more complete information, consult your physician or call or write Par Pharmaceutical Companies, Inc. One Ram Ridge Road, Chestnut Ridge, New York 10977.
-Call toll free 1-800-828-9393.
+For more complete information, consult your physician or call Endo at 1-800-828-9393.
 
-Distributed by:
+Trademarks are the properties of their respective owners.
 
-Par Pharmaceutical Companies, Inc.
+Manufactured for:
 
-Chestnut Ridge, NY 10977 U.S.A.
+Endo USA Malvern, PA 19355 U.S.A. Made in India
 
-Manufactured by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam – 603 103
-
-Made in India
-
-Mfg.
-Lic.
-No.: TN00002121
-
-OS170-01-74-01
-
-Issued: 06/2017
+Neutral Code: TN/DRUGS/TN00002121 ©2024 Endo, Inc. or one of its affiliates.
+OS170-01-74-02 Revised: 06/2024
