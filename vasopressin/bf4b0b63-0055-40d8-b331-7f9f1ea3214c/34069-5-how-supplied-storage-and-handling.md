@@ -15,8 +15,8 @@ Store unopened vials refrigerated at 2°C to 8°C (36°F to 46°F).
 Do not freeze.
 Keep vials in original carton to protect from light.
 
-Vials may be held up to three (3) months for 0.2 units/mL and one (1) month for 0.4 units/mL and 1 unit/mL upon removal from refrigeration to room temperature storage conditions (20°C to 25°C [68°F to 77°F], USP Controlled Room Temperature), anytime within the labeled shelf life.
-Once removed from refrigeration, unopened vial should be marked to indicate the revised three (3) months expiration date for 0.2 units/mL and one (1) month expiration date for 0.4 units/mL and 1 unit/mL.
+Vials may be held up to three (3) months upon removal from refrigeration to room temperature storage conditions (20°C to 25°C [68°F to 77°F], USP Controlled Room Temperature), anytime within the labeled shelf life.
+Once removed from refrigeration, unopened vial should be marked to indicate the revised three (3) months expiration date.
 If the manufacturer's original expiration date is shorter than the revised expiration date, then the shorter date must be used.
 Do not use Vasopressin in Sodium Chloride Injection beyond the manufacturer's expiration date stamped on the vial.
 
