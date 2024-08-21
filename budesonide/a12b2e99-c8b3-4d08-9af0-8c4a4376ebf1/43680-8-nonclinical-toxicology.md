@@ -15,7 +15,7 @@ In a 91-week study in mice, budesonide caused no treatment-related carcinogenici
 
 Mutagenesis
 
-Budesonide was not genotoxic in the Ames test, the mouse lymphoma cell forward gene mutation (TK+/-) test, the human lymphocyte chromosome aberration test, the Drosophila melanogaster sex-linked recessive lethality test, the rat hepatocycte unscheduled DNA synthesis (UDS) test and the mouse micronucleus test.
+Budesonide was not genotoxic in the Ames test, the mouse lymphoma cell forward gene mutation (TK +/-) test, the human lymphocyte chromosome aberration test, the Drosophila melanogastersex-linked recessive lethality test, the rat hepatocycte unscheduled DNA synthesis (UDS) test and the mouse micronucleus test.
 
 Impairment of Fertility
 

@@ -9,4 +9,4 @@ Ingestion of grapefruit or grapefruit juice should be avoided in connection with
 
 ## 7.2 Inhibitors of Gastric Acid Secretion
 
-Since the dissolution of the coating of budesonide extended-release tablets is pH dependent, the release properties and uptake of the compound may be altered when budesonide extended-release tablets are used after treatment with gastric acid reducing agents (e.g., proton pump inhibitors (PPIs), H2 blockers and antacids).
+Since the dissolution of the coating of budesonide extended-release tablets is pH dependent, the release properties and uptake of the compound may be altered when budesonide extended-release tablets are used after treatment with gastric acid reducing agents (e.g., proton pump inhibitors (PPIs), H 2blockers and antacids).

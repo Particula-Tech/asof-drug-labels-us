@@ -20,18 +20,18 @@ In a study assessing the response to ACTH stimulation test in patients treated w
 
 Absorption
 
-Following single oral administration of budesonide extended-release tablets 9 mg in healthy subjects, peak plasma concentration (Cmax) was 1.35 ± 0.96 ng/mL, the time to peak concentration (Tmax) on average was 13.3 ± 5.9 hours, although it varied across different individual patients, and the area under the plasma concentration time curve (AUC) was approximately 16.43 ± 10.52 ng·hr/mL.
+Following single oral administration of budesonide extended-release tablets 9 mg in healthy subjects, peak plasma concentration (C max) was 1.35 ± 0.96 ng/mL, the time to peak concentration (T max) on average was 13.3 ± 5.9 hours, although it varied across different individual patients, and the area under the plasma concentration time curve (AUC) was approximately 16.43 ± 10.52 ng·hr/mL.
 The pharmacokinetic parameters of budesonide extended-release tablets 9 mg have a high degree of variability among subjects.
-There was no accumulation of budesonide with respect to both AUC and Cmax following 7 days of budesonide extended-release tablets 9 mg once daily dosing.
+There was no accumulation of budesonide with respect to both AUC and C maxfollowing 7 days of budesonide extended-release tablets 9 mg once daily dosing.
 
 Food Effect
 
-A food-effect study involving administration of budesonide extended-release tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax was decreased by 27% while there was no significant decrease in AUC.
+A food-effect study involving administration of budesonide extended-release tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that the C maxwas decreased by 27% while there was no significant decrease in AUC.
 Additionally, a mean delay in absorption lag time of 2.4 hours was observed under fed conditions.
 
 Distribution
 
-The mean volume of distribution (VSS) of budesonide varies between 2.2 and 3.9 L/kg in healthy subjects and in patients.
+The mean volume of distribution (V SS) of budesonide varies between 2.2 and 3.9 L/kg in healthy subjects and in patients.
 Plasma protein binding is estimated to be 85 to 90% in the concentration range 1 to 230 nmol/L, independent of gender.
 The erythrocyte/plasma partition ratio at clinically relevant concentrations is about 0.8.
 
@@ -40,13 +40,13 @@ Elimination
 Metabolism
 
 Following absorption, budesonide is subject to high first-pass metabolism (80-90%).
-In vitro experiments in human liver microsomes demonstrate that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
+In vitroexperiments in human liver microsomes demonstrate that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
 The glucocorticoid activity of these metabolites is negligible (<1/100) in relation to that of the parent compound.
 
-In vivo investigations with intravenous doses in healthy subjects are in agreement with the in vitro findings and demonstrate that budesonide has a high plasma clearance, 0.9-1.8 L/min.
+In vivoinvestigations with intravenous doses in healthy subjects are in agreement with the in vitrofindings and demonstrate that budesonide has a high plasma clearance, 0.9-1.8 L/min.
 These high plasma clearance values approach the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
 
-The plasma elimination half-life, t1/2, after administration of intravenous doses ranges between 2 and 3.6 hours.
+The plasma elimination half-life, t 1/2, after administration of intravenous doses ranges between 2 and 3.6 hours.
 
 Excretion
 
@@ -66,7 +66,7 @@ Patients with Hepatic Impairment
 In patients with liver cirrhosis, systemic availability of orally administered budesonide correlates with disease severity and is, on average, 2.5-fold higher compared with healthy controls.
 Patients with mild liver disease are minimally affected.
 Patients with severe liver dysfunction were not studied.
-Absorption parameters were not altered, and for the intravenous dose, no significant differences in CL or VSS were observed.
+Absorption parameters were not altered, and for the intravenous dose, no significant differences in CL or V SSwere observed.
 
 Drug Interaction Studies
 

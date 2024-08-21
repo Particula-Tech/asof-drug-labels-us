@@ -2,11 +2,11 @@
 
 Systemic glucocorticosteroid use may result in the following:
 
-- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
-- •Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
-- •Immunosuppression [see Warnings and Precautions (5.3)]
-- •Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.4)]
-- •Other Glucocorticosteroid Effects [see Warnings and Precautions (5.5)]
+- Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
+- Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
+- Immunosuppression [see Warnings and Precautions (5.3)]
+- Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.4)]
+- Other Glucocorticosteroid Effects [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -89,18 +89,18 @@ In addition to adverse events reported from clinical trials, the following adver
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting or causal connection to budesonide extended-release tablets, or a combination of these factors.
 
-Gastrointestinal Disorders: diarrhea, rectal bleeding
+Gastrointestinal Disorders:diarrhea, rectal bleeding
 
-General Disorders and Administrative Site Conditions: peripheral edema
+General Disorders and Administrative Site Conditions:peripheral edema
 
-Immune System Disorders: anaphylactic reactions
+Immune System Disorders:anaphylactic reactions
 
-Musculoskeletal and Connective Tissue Disorders: muscle cramps/spasms
+Musculoskeletal and Connective Tissue Disorders:muscle cramps/spasms
 
-Nervous System Disorders: benign intracranial hypertension, dizziness
+Nervous System Disorders:benign intracranial hypertension, dizziness
 
-Psychiatric Disorders: mood swings
+Psychiatric Disorders:mood swings
 
-Skin and Subcutaneous Tissue Disorders: rash
+Skin and Subcutaneous Tissue Disorders:rash
 
-Vascular Disorders: increased blood pressure
+Vascular Disorders:increased blood pressure

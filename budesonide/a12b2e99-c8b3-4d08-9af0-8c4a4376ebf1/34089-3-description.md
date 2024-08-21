@@ -4,7 +4,7 @@ Budesonide extended-release tablets, for oral administration, contain budesonide
 Budesonide is designated chemically as (RS)-11β, 16α, 17,21 tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17-acetal with butyraldehyde.
 
 Budesonide is provided as a mixture of two epimers (22R and 22S).
-The empirical formula of budesonide is C25H34O6 and its molecular weight is 430.5.
+The empirical formula of budesonide is C 25H 34O 6 and its molecular weight is 430.5.
 Its structural formula is:
 
 Budesonide is a white to off-white, odorless, crystalline powder that is practically insoluble in water, sparingly soluble in alcohol, and freely soluble in chloroform.
