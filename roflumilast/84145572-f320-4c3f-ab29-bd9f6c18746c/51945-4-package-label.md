@@ -14,6 +14,6 @@ NDC 68382-624-31
 
 Roflumilast Tablets, 250 mcg
 
-Blister pack of 28 tablets
+Carton of 28 tablets
 
 Rx only
