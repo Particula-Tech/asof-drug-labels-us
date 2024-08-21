@@ -1,17 +1,33 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised:
+Hepatotoxicity
 
-- of the potential benefits and risks of Antara.
-- not to use Antara if there is a known hypersensitivity to fenofibrate capsules or fenofibric acid.
-- that if they are taking coumarin anticoagulants, Antara may increase their anticoagulant effect, and increased monitoring may be necessary.
-- of medications that should not be taken in combination with Antara.
-- to continue to follow an appropriate lipid-modifying diet while taking Antara.
-- to take Antara once daily, without regard to food, at the prescribed dose, swallowing each capsule whole.
-- to inform their physician of all medications, supplements, and herbal preparations they are taking and any change to their medical condition.
-  Patients should also be advised to inform their physicians prescribing a new medication that they are taking Antara.
-- to inform their physician of symptoms of liver injury (e.g., jaundice, abnormal pain, nausea, malaise, dark urine, abnormal stool, pruritus); any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
-- to return to their physician's office for routine monitoring.
+Inform patients that Antara may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Contraindications (4), Warnings and Precautions (5.2)].
+
+Myopathy and Rhabdomyolysis
+
+Advise patients that Antara may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dosage of an existing medication that they are taking Antara.
+Instruct patients to promptly report any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3) and Drug Interactions (7)].
+
+Hypersensitivity Reactions
+
+Inform patients that serious hypersensitivity reactions, such as anaphylaxis and angioedema, have been reported with fibrates.
+Advise patients to report immediately any signs or symptoms suggesting allergic reaction, and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.9)].
+
+Pregnancy
+
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if Antara should be discontinued [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise patients that breastfeeding during treatment with Antara is not recommended [see Use in Specific Populations (8.2)].
+
+Missed Doses
+
+If a dose is missed, advise patients not take an extra dose and to resume treatment with the next dose.
 
 Distributed by:
 
@@ -21,14 +37,4 @@ Baltimore, Maryland 21202
 
 United States
 
-Address Medical Inquiries to:
-
-Lupin Pharmaceuticals Inc.
-
-111 South Calvert Street, 21st Floor
-
-Baltimore, MD 21202
-
-or Call: 1-800-399-2561
-
-June 2021
+For medical inquiries, call Lupin Pharmaceuticals, Inc. at 1-800-399-2561.
