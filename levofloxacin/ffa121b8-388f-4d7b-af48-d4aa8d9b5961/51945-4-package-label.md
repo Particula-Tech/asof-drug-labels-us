@@ -16,10 +16,10 @@ Rx only
 
 50 tablets
 
-NDC 65841-693-18 in bottle of 50 tablets
+NDC 65841-693-06 in bottle of 30 tablets
 
 Levofloxacin Tablets USP, 750 mg
 
 Rx only
 
-50 tablets
+30 tablets
