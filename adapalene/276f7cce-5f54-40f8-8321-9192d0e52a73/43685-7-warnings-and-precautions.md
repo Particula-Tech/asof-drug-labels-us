@@ -24,7 +24,7 @@ Patients using adapalene cream should receive the following information and inst
 2. 2.It is for external use only.
 3. 3.Avoid contact with the eyes, lips, angles of the nose, and mucous membranes.
 4. 4.Cleanse area with a mild or soapless cleanser before applying this medication.
-5. 5.Moisturizers may be used if necessary, however, products containing alpha hydroxyl or glycolic acids should be avoided.
+5. 5.Moisturizers may be used if necessary, however, products containing alpha hydroxy or glycolic acids should be avoided.
 6. 6.Exposure of the eye to this medication may result in reactions such as swelling, conjunctivitis, and eye irritation.
 7. 7.This medication should not be applied to cuts, abrasions, eczematous or sunburned skin.
 8. 8.Wax epilation should not be performed on treated skin due to the potential for skin erosions.
