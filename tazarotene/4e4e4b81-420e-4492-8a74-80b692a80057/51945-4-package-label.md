@@ -1,15 +1,35 @@
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-833-30 - 0.05% 30 g Tube Label
+# PRINCIPAL DISPLAY PANEL
 
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-833-30 - 0.05% 30 g Tube Carton Label
+NDC 16110-833-30
 
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-833-10 - 0.05% 100 g Tube Label
+TAZORAC®
 
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-833-10 - 0.05% 100 g Tube Carton Label
+(tazarotene) gel, 0.05%
 
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-042-30 - 0.1% 30 g Tube Label
+30 grams
 
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-042-30 - 0.1% 30 g Tube Carton Label
+For Dermatologic Use Only
 
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-042-10 - 0.1% 100 g Tube Label
+Not for Opthalmic Use
 
-# PRINCIPAL DISPLAY PANEL - NDC: 16110-042-10 - 0.1% 100 g Tube Carton Label
+Rx only
+
+almirall
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 16110-042-30
+
+TAZORAC®
+
+(tazarotene) gel, 0.1%
+
+30 grams
+
+For Dermatologic Use Only
+
+Not for Opthalmic Use
+
+Rx only
+
+almirall

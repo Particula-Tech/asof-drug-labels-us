@@ -17,25 +17,37 @@ Important Administration Instructions
 
 Advise the patient of the following:
 
-1. For the patient with psoriasis, apply TAZORAC Gel only to psoriasis skin lesions, avoiding uninvolved skin.
-2. If undue irritation (redness, peeling, or discomfort) occurs, reduce frequency of application or temporarily interrupt treatment.
-   Treatment may be resumed once irritation subsides [see Dosage and Adminstration (2.1)].
-3. Moisturizers may be used as frequently as desired.
-4. Patients with psoriasis may use a cream or lotion to soften or moisten skin at least 1 hour before applying TAZORAC Gel.
-5. Avoid contact with the eyes.
-   If TAZORAC Gel gets in or near eyes, rinse thoroughly with water.
-   Seek medical attention if eye irritation continues.
-6. TAZORAC Gel is for topical use only.
-   Do not apply to eyes, mouth, or other mucous membrane.
-   Not for ophthalmic, oral, or intravaginal use.
-7. Wash hands thoroughly after applying TAZORAC Gel.
+1.
+For the patient with psoriasis, apply TAZORAC Gel only to psoriasis skin lesions, avoiding uninvolved skin.
 
-Revised: 08/2019
+2.
+If undue irritation (redness, peeling, or discomfort) occurs, reduce frequency of application or temporarily interrupt treatment.
+Treatment may be resumed once irritation subsides [see Dosage and Administration (2.1)].
 
-Distributed by: Almirall, LLC Exton, PA 19341
+3.
+Moisturizers may be used as frequently as desired.
 
-© 2019 Almirall, Inc. All rights reserved.
-All trademarks are the property of their respective owners.
+4.
+Patients with psoriasis may use a cream or lotion to soften or moisten skin at least 1 hour before applying TAZORAC Gel.
+
+5.
+Avoid contact with the eyes.
+If TAZORAC Gel gets in or near eyes, rinse thoroughly with water.
+Seek medical attention if eye irritation continues.
+
+6.
+TAZORAC Gel is for topical use only.
+Do not apply to eyes, mouth, or other mucous membrane.
+Not for ophthalmic, oral, or intravaginal use.
+
+7.
+Wash hands thoroughly after applying TAZORAC Gel.
+
+Revised: 04/2018
+
+Distributed by Almirall, LLC, Exton, PA 19341, USA TAZORAC® is a trademark of Almirall, LLC.
+Almirall® and its design are trademarks of Almirall, Inc. © 2019 Almirall, Inc. All rights reserve4d.
+Made in the U.S.A.
 
 71722AM11
 
