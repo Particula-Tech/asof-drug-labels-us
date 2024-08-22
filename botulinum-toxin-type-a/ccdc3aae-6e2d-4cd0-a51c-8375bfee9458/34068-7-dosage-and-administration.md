@@ -135,14 +135,15 @@ Figure 4: Muscles Injected for Pediatric Upper Limb Spasticity
 
 ## 2.4 Recommended Dose for Cervical Dystonia
 
-The recommended dose of XEOMIN for cervical dystonia ranges from 120 Units to 240 Units given intramuscularly as a divided dose among affected muscles.
-In previously treated patients, consider their past dose, response to treatment, duration of effect, and adverse event history when determining the XEOMIN dose.
+The recommended initial dose of XEOMIN for cervical dystonia is 120 Units.
+In a placebo-controlled trial utilizing initial XEOMIN doses of 120 Units and 240 Units, no meaningful difference in effectiveness was demonstrated between the doses [see Clinical Studies (14.3)].
+In previously treated patients, their past dose, response to treatment, duration of effect, and adverse event history should be taken into consideration when determining the XEOMIN dose.
 
 In the treatment of cervical dystonia, XEOMIN is usually injected into the sternocleidomastoid, levator scapulae, splenius capitis, scalenus, and/or the trapezius muscle(s) (see Figure 5).
 This list is not exhaustive, as any of the muscles responsible for controlling head position may require treatment [see Clinical Studies (14.3)].
-Tailor the dose and number of injection sites in each treated muscle to the individual patient based on the number and location of the muscle(s) to be treated, the degree of spasticity/dystonia, muscle mass, body weight, and response to any previous botulinum toxin injections.
+The dose and number of injection sites in each treated muscle should be individualized based on the number and location of the muscle(s) to be treated, the degree of spasticity/dystonia, muscle mass, body weight, and response to any previous botulinum toxin injections.
 
-Determine the frequency of XEOMIN repeat treatments by clinical response, but administer repeat treatments no more frequent than every 12 weeks [see Clinical Studies (14.3)].
+The frequency of XEOMIN repeat treatments should be determined by clinical response, but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.3)].
 
 Figure 5: Muscles Involved in Cervical Dsytonia
 
