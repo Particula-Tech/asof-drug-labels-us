@@ -3,10 +3,13 @@
     "NDA210735"
   ],
   "inn": "cyclophosphamide",
-  "labeler": "AuroMedics Pharma LLC",
+  "labeler": "Eugia US LLC",
   "package_ndcs": [
     "55150-270-01",
-    "55150-271-01"
+    "55150-270-99",
+    "55150-271-01",
+    "55150-271-99",
+    "55150-272-01"
   ],
   "products": [
     {

@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient of the following: Myelosuppression, Immunosuppression, and Infections
+Advise the patient of the following: Myelosuppression, Immunosuppression, Bone Marrow Failure, and Infections
 
-- Inform patients of the possibility of myelosuppression, immunosuppression, and infections.
+- Inform patients of the possibility of myelosuppression, immunosuppression, bone marrow failure, and infections.
   Explain the need for routine blood cell counts.
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever [see Warnings and Precautions (5.1)].
 
@@ -28,9 +28,9 @@ Alcohol Content
 Embryo-Fetal Toxicity
 
 - Inform female patients of the risk to a fetus and potential loss of the pregnancy.
-  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
-- Advise females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [See Warning and Precautions (5.8) and Use in Specific Population (8.1, 8.3)].Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy.
-  [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
+  Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+- Advise females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [See Warning and Precautions (5.8) and Use in Specific Population (8.1, 8.3)].
+  Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -38,14 +38,14 @@ Lactation
 
 Infertility
 
-- Cyclophosphamide Injection may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.9) and Use in Specific Populations (8.3, 8.4)].
+- Advise males and females of reproductive potential that Cyclophosphamide Injection may impair fertility [see Warnings and Precautions (5.9) and Use in Specific Populations (8.3, 8.4)].
 
 Common Adverse Reactions
 
 - Explain to patients that side effects such as nausea, vomiting, stomatitis, impaired wound healing, amenorrhea, premature menopause, sterility and hair loss may be associated with cyclophosphamide administration.
   Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see Adverse Reactions (6)].
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
-Manufactured by: Eugia Pharma Specialities Limited Medchal-Malkajgiri District - 500101 India
+Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India
