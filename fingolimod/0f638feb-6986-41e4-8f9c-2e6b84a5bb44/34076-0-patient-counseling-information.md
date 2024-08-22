@@ -8,7 +8,7 @@ Advise patients to contact their physician if they accidently take more fingolim
 Cardiac Effects
 
 Advise patients that initiation of fingolimod treatment results in a transient decrease in heart rate.
-Inform patients that they will need to be observed in the doctor's office or other facility for at least 6 hours after the first dose, after reinitiation if treatment is interrupted or discontinued for certain periods, and after the dosage is increased [see Dosage and Administration (2.4),Warnings and Precautions (5.1)].
+Inform patients that they will need to be observed in the doctor's office or other facility for at least 6 hours after the first dose, after reinitiation if treatment is interrupted or discontinued for certain periods, and after the dosage is increased [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 
 Risk of Infections
 
@@ -45,8 +45,8 @@ Advise patients that they should contact their physician if they experience new 
 Fetal Risk
 
 • Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)]. • Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod and for two months after the final dose [see Use in Specific Populations (8.3)].
-Severe Increase in Disability after stopping Fingolimod
+Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)]. • Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod and for 2 months after the final dose [see Use in Specific Populations (8.3)].
+Severe Increase in Disability After Stopping Fingolimod
 
 Inform patients that severe increase in disability has been reported after discontinuation of fingolimod.
 Advise patients to contact their physician if they develop worsening symptoms of MS following discontinuation of fingolimod [see Warnings and Precautions (5.9)].
@@ -56,19 +56,19 @@ Malignancies
 Advise patients that basal cell carcinoma and melanoma are associated with use of fingolimod.
 Advise patients that any suspicious skin lesions should be promptly evaluated.
 Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor.
-Inform patients that lymphoma has also occurred in patients receiving fingolimod[see Warnings and Precautions (5.12)].
+Inform patients that lymphoma has also occurred in patients receiving fingolimod [see Warnings and Precautions (5.12)].
 
-Persistence of fingolimod Effects after Drug Discontinuation
+Persistence of fingolimod Effects After Drug Discontinuation
 
 Advise patients that fingolimod remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose [see Warnings and Precautions (5.13)].
 
 Hypersensitivity Reactions
 
-Advise patients that Fingolimod may cause hypersensitivity reactions including rash, urticaria, and angioedema.
+Advise patients that Fingolimod may cause hypersensitivity reactions, including rash, urticaria, and angioedema.
 Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.14)].
 
 Pregnancy
 
 Instruct patients that if they are pregnant or plan to become pregnant while taking fingolimod they should inform their physician.
 
-Revised: September, 2022
+Revised: February 2024

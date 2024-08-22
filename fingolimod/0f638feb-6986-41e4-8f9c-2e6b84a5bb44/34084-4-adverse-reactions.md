@@ -24,7 +24,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adults
 
 In clinical trials (Studies 1, 2, and 3), a total of 1,212 patients with relapsing forms of multiple sclerosis received fingolimod capsule 0.5 mg.
-This included 783 patients who received fingolimod capsule 0.5 mg in the 2-year placebo-controlled trials (Studies 1 and 3) and 429 patients who received fingolimod capsule 0.5 mg in the 1 year active-controlled trial (Study 2).
+This included 783 patients who received fingolimod capsule 0.5 mg in the 2-year placebo-controlled trials (Studies 1 and 3) and 429 patients who received fingolimod capsule 0.5 mg in the 1-year active-controlled trial (Study 2).
 The overall exposure in the controlled trials was equivalent to 1,716 person-years.
 Approximately 1,000 patients received at least 2 years of treatment with fingolimod capsule 0.5 mg.
 In all clinical studies, including uncontrolled extension studies, the exposure to fingolimod capsule 0.5 mg was approximately 4,119 person-years.
@@ -34,9 +34,9 @@ Adverse events that led to treatment discontinuation and occurred in more than 1
 
 Table 1 lists adverse reactions in clinical studies in adults that occurred in ≥ 1% of fingolimod-treated patients and ≥ 1% higher rate than for placebo.
 
-Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1% of Patients and Reported for fingolimod capsule 0.5 mg at ≥1% Higher Rate than for Placebo)
+Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1% of Patients and Reported for fingolimod capsule 0.5 mg at ≥1% Higher Rate Than for Placebo)
 
-| Adverse Drug Reactions | Fingolimod capsule 0.5 mg N=783% | Placebo N=773 % |
+| Adverse drug reactions | Fingolimod capsule 0.5 mg N=783% | Placebo N=773 % |
 | --- | --- | --- |
 | Infections |  |  |
 | Influenza | 11 | 8 |
@@ -78,6 +78,8 @@ Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥1%
 | Skin papilloma | 3 | 2 |
 | Basal cell carcinoma | 2 | 1 |
 
+Abbreviations: ALT, alanine transaminase; AST, aspartate transferase; GGT, gamma-glutamyl transferase.
+
 Adverse reactions of seizure, dizziness, pneumonia, eczema, and pruritus were also reported in Studies 1 and 3, but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
 
 Adverse reactions with fingolimod capsule 0.5 mg in Study 2, the 1-year active-controlled (versus interferon beta-1a) study were generally similar to those in Studies 1 and 3.
@@ -86,8 +88,8 @@ Vascular Events Vascular events, including ischemic and hemorrhagic strokes, and
 Seizure Cases of seizures, including status epilepticus, have been reported with the use of fingolimod in clinical trials and in the postmarketing setting in adults [see Adverse Reactions (6.2)].
 In adult clinical trials, the rate of seizures was 0.9% in fingolimod-treated patients and 0.3% in placebo-treated patients.
 It is unknown whether these events were related to the effects of multiple sclerosis alone, to fingolimod, or to a combination of both.
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients 10 Years of Age and Older In the controlled pediatric trial (Study 4), the safety profile in pediatric patients receiving fingolimod 0.25 mg or 0.5 mg daily was similar to that seen in adult patients.
+In the pediatric study, cases of seizures were reported in 5.6% of fingolimod-treated patients and 0.9% of interferon beta-1a-treated patients [see Use in Specific Populations (8.4)].
 
 ## 6.2 Postmarketing Experience
 
@@ -98,12 +100,12 @@ Blood and Lymphatic System Disorders: Hemolytic anemia and thrombocytopenia
 
 Hepatobiliary Disorders: Liver injury [see Warnings and Precautions (5.5)]
 
-Infections: infections including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+Infections: Infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
 
-Musculoskeletal and connective tissue disorders: arthralgia, myalgia
+Musculoskeletal and connective tissue disorders: Arthralgia, myalgia
 
-Nervous system disorders: posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
+Nervous System Disorders: Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
 
-Neoplasms, benign, malignant, and unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
+Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
 
-Skin and subcutaneous tissue disorders: hypersensitivity [see Warnings and Precautions (5.14)]
+Skin and Subcutaneous Tissue Disorders: Hypersensitivity [see Warnings and Precautions (5.14)]

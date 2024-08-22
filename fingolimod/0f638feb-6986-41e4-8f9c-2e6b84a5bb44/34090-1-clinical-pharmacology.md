@@ -96,13 +96,17 @@ Following single oral administration of [14C] fingolimod, the major fingolimod-r
 
 Elimination
 
-Fingolimod blood clearance is 6.3±2.3 L/h, and the average apparent terminal half-life (t 1/2) is 6 to 9 days.
+Fingolimod blood clearance is 6.3±2.3 L/h, and the average apparent terminal half-life (t1/2) is 6 to 9 days.
 Blood levels of fingolimod-phosphate decline in parallel with those of fingolimod in the terminal phase, yielding similar half-lives for both.
 
 After oral administration, about 81% of the dose is slowly excreted in the urine as inactive metabolites.
 Fingolimod and fingolimod-phosphate are not excreted intact in urine but are the major components in the feces with amounts of each representing less than 2.5% of the dose.
 
-Specific Populations Geriatric Patients
+Specific Populations
+
+Pediatric Patients The median fingolimod-phosphate (fingolimod-P) concentration in pediatric MS patients aged 10 to less than 18 years was 1.10 ng/mL, as compared to 1.35 ng/mL in adult MS patients.
+
+Geriatric Patients
 
 The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in elderly patients.
 However, clinical experience in patients aged above 65 years is limited.
@@ -119,7 +123,8 @@ Renal Impairment
 
 In adult patients with severe renal impairment, fingolimod Cmax and AUC are increased by 32% and 43%, respectively, and fingolimod-phosphate Cmax and AUC are increased by 25% and 14%, respectively, with no change in apparent elimination half-life.
 Based on these findings, the fingolimod capsule 0.5 mg dose is appropriate for use in adult patients with renal impairment.
-The systemic exposure of 2 metabolites (M2 and M3) is increased by 3-and 13-fold, respectively.
+Fingolimod hydrochloride 0.5 mg are appropriate for use in pediatric patients with renal impairment.
+The systemic exposure of 2 metabolites (M2 and M3) is increased by 3- and 13-fold, respectively.
 The toxicity of these metabolites has not been fully characterized.
 
 A study in patients with mild or moderate renal impairment has not been conducted.
@@ -185,7 +190,7 @@ Isoproterenol, Atropine, Atenolol, and Diltiazem
 Single-dose fingolimod and fingolimod-phosphate exposure was not altered by coadministered isoproterenol or atropine.
 Likewise, the single-dose pharmacokinetics of fingolimod and fingolimod-phosphate and the steady-state pharmacokinetics of both atenolol and diltiazem were unchanged during the coadministration of the latter 2 drugs individually with fingolimod.
 
-Population Pharmacokinetics Analysis A population pharmacokinetics evaluation performed in MS patients did not provide evidence for a significant effect of fluoxetine and paroxetine (strong CYP2D6 inhibitors) on fingolimod or fingolimod-phosphate predose concentrations.
+Population Pharmacokinetics Analysis
+
+A population pharmacokinetics evaluation performed in MS patients did not provide evidence for a significant effect of fluoxetine and paroxetine (strong CYP2D6 inhibitors) on fingolimod or fingolimod-phosphate predose concentrations.
 In addition, the following commonly coprescribed substances had no clinically relevant effect (<20%) on fingolimod or fingolimod-phosphate predose concentrations: baclofen, gabapentin, oxybutynin, amantadine, modafinil, amitriptyline, pregabalin, and corticosteroids.
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.

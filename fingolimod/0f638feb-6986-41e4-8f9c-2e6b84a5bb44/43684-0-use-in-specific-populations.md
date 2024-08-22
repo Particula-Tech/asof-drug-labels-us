@@ -5,6 +5,7 @@
 Risk Summary
 
 Based on findings from animal studies, fingolimod may cause fetal harm when administered to a pregnant woman.
+Data from prospective reports to the fingolimod Pregnancy Registry (GPR) are currently not sufficient to allow for an adequate assessment of the drug-associated risk for birth defects and miscarriage in humans.
 In oral studies conducted in rats and rabbits, fingolimod demonstrated developmental toxicity, including an increase in malformations (rats) and embryolethality, when given to pregnant animals.
 In rats, the highest no-effect dose was less than the recommended human dose of 0.5 mg/day on a body surface area (mg/m2) basis.
 The most common fetal visceral malformations in rats were persistent truncus arteriosus and ventricular septal defect.
@@ -49,6 +50,10 @@ Since it takes approximately 2 months to eliminate the compound from the body af
 
 ## 8.4 Pediatric Use
 
+Safety and effectiveness of fingolimod hydrochloride for the treatment of relapsing forms of multiple sclerosis in pediatric patients 10 to less than 18 years of age were established in one randomized, double-blind clinical study in 215 patients (fingolimod hydrochloride n = 107; intramuscular interferon (IFN) beta-1a n = 108) [see Clinical Studies (14.2)].
+In the controlled pediatric study, the safety profile in pediatric patients (10 to less than 18 years of age) receiving fingolimod hydrochloride 0.5 mg daily was similar to that seen in adult patients.
+In the pediatric study, cases of seizures were reported in 5.6% of fingolimod-treated patients and 0.9% of interferon beta-1a-treated patients.
+
 It is recommended that pediatric patients, if possible, complete all immunizations in accordance with current immunization guidelines prior to initiating fingolimod therapy.
 
 Safety and effectiveness of fingolimod in pediatric patients below the age of 10 years have not been established.
@@ -62,8 +67,6 @@ When fingolimod (0.5 or 5 mg/kg/day) was orally administered to rats from the ne
 This effect had not fully recovered by 6 to 8 weeks after the end of treatment.
 
 Overall, a no-effect dose for adverse developmental effects in juvenile animals was not identified.
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
@@ -72,7 +75,7 @@ Fingolimod should be used with caution in patients aged 65 years and over, refle
 
 ## 8.6 Hepatic Impairment
 
-Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.5),Clinical Pharmacology (12.3)].
+Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 No dose adjustment is needed in patients with mild or moderate hepatic impairment.
 
