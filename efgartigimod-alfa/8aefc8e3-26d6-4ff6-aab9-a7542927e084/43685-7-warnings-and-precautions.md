@@ -12,10 +12,9 @@ If serious infection occurs, administer appropriate treatment and consider withh
 
 Immunization
 
-Immunization with vaccines during VYVGART treatment has not been studied.
-The safety of immunization with live or live-attenuated vaccines and the response to immunization with any vaccine are unknown.
-Because VYVGART causes a reduction in IgG levels, vaccination with live-attenuated or live vaccines is not recommended during treatment with VYVGART.
 Evaluate the need to administer age-appropriate vaccines according to immunization guidelines before initiation of a new treatment cycle with VYVGART.
+The safety of immunization with live vaccines and the immune response to vaccination during treatment with VYVGART are unknown.
+Because VYVGART causes a reduction in IgG levels, vaccination with live vaccines is not recommended during treatment with VYVGART.
 
 ## 5.2 Hypersensitivity Reactions
 

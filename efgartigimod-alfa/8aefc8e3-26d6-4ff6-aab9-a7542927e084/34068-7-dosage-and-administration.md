@@ -2,8 +2,8 @@
 
 ## 2.1 Recommended Vaccination
 
-Because VYVGART causes transient reduction in IgG levels, immunization with live-attenuated or live vaccines is not recommended during treatment with VYVGART.
-Evaluate the need to administer age-appropriate immunizations according to immunization guidelines before initiation of a new treatment cycle with VYVGART [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
+Evaluate the need to administer age-appropriate vaccines according to immunization guidelines before initiation of a new treatment cycle with VYVGART.
+Because VYVGART causes transient reduction in IgG levels, vaccination with live vaccines is not recommended during treatment with VYVGART [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
 ## 2.2 Recommended Dose and Dose Schedules
 

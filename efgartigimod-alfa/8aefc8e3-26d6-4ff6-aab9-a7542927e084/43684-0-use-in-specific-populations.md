@@ -23,7 +23,7 @@ Monoclonal antibodies are increasingly transported across the placenta as pregna
 Therefore, efgartigimod alfa-fcab may be transmitted from the mother to the developing fetus.
 
 As VYVGART is expected to reduce maternal IgG antibody levels, reduction in passive protection to the newborn is anticipated.
-Risk and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to VYVGART in utero [see Warnings and Precautions (5.1)].
+Risk and benefits should be considered prior to administering live vaccines to infants exposed to VYVGART in utero [see Warnings and Precautions (5.1)].
 
 Data
 
