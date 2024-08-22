@@ -11,8 +11,8 @@
 | How should I store fluconazole tablets? Store fluconazole tablets at room temperature between 68°F to 77°F (20°C to 25°C). Keep fluconazole tablets and all medicines out of the reach of children. |
 | General information about the safe and effective use of fluconazole tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use fluconazole tablets for a condition for which it was not prescribed. Do not give fluconazole tablets to other people, even if they have the same symptoms you have. It may harm them. You can ask your healthcare provider for information about fluconazole tablets that is written for health professionals. |
 | What are the ingredients in fluconazole tablets? Active ingredient: fluconazole Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate anhydrous, povidone, croscarmellose sodium, FD&C Red No. 40 aluminum lake dye, and magnesium stearate. |
-| Distributed by: Rising Health, LLC East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 For medical information about fluconazole tablets, call 1-833-395-6928. |
+| Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 For medical information about fluconazole tablets, call 1-844-874-7464. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 09/2023
+Revised: 06/2024
