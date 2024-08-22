@@ -519,7 +519,7 @@ Patients with malignant or premalignant changes of the skin should be treated wi
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to cyclosporine, including Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]), during pregnancy.
-Encourage women who are taking Gengraf® during pregnancy to enroll in the Transplant Pregnancy Registry International (TPRI) by calling 1-877-955-8677 or visiting https://www.transplantpregnancyregistry.org.
+Encourage women who are taking Gengraf® during pregnancy to enroll in the Transplant Pregnancy Registry International (TPRI) by calling 1-877-955-6877 or visiting https://www.transplantpregnancyregistry.org.
 
 Risk Summary
 
