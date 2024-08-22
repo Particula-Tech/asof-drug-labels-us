@@ -2,6 +2,6 @@
 
 NDC82260-602-03
 
-Bromfenac Ophthalmic Solution 0.07% Sterile FOR TOPICAL OPHTHALMIC USE Once Daily Rx only
+Bromfenac Ophthalmic Solution 0.07% Sterile FOR TOPICAL OPHTHALMIC USE Once Daily Eye image
 
-3 mL BAUSCH + LOMB 9788600 MA49405
+Rx only 3 mL BAUSCH + LOMB 9788601 MA49405A
