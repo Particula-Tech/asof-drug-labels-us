@@ -1,4 +1,4 @@
-PATIENT INFORMATION Doxazosin Tablets (dox az' oh sin mes' i late)
+PATIENT INFORMATION Doxazosin Tablets (dox az' oh sin)
 
 What are doxazosin tablets?
 
