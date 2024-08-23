@@ -33,7 +33,7 @@ Printed in USA
 
 Baxter and Intravia are registered trademarks of Baxter International Inc.
 
-1. 07-19-00-0355
+07-19-00-0355
 
 Rev.
 May 2018
