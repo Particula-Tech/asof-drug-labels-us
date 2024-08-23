@@ -6,8 +6,8 @@ Advise patients to report to their healthcare provider if they experience any si
 
 - •Injection Site Reactions [see Warnings and Precautions (5.2)]
 - •Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.3)]
-- •Acute Tubulointerstitial Nephritis [see Contraindications (4), Warnings and Precautions (5.4)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- •Acute Tubulointerstitial Nephritis [see Contraindications (4) and Warnings and Precautions (5.4)]
+- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
 - •Bone Fracture [see Warnings and Precautions (5.6)]
 - •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.7)]
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
@@ -16,7 +16,10 @@ Advise patients to report to their healthcare provider if they experience any si
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [Contraindications (4)] and high dose methotrexate [Warnings and Precautions (5.14)].
+Advise patients to report to their healthcare provider before they start treatment with any of the following:
+
+- •rilpivirine-containing products [Contraindications (4)]
+- •high dose methotrexate [Warnings and Precautions (5.14)].
 
 Pregnancy
 

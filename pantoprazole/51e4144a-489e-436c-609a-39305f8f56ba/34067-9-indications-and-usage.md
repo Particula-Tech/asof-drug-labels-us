@@ -1,11 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Gastroesophageal Reflux Disease Associated with a History of Erosive Esophagitis
+PROTONIX I.V. is indicated for treatment of:
 
-PROTONIX I.V. is indicated for short-term treatment (7 to 10 days) of adult patients with gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE).
+- •gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE) for up to 10 days in adults and up to 7 days in pediatric patients 3 months and older.
+- •pathological hypersecretory conditions including Zollinger-Ellison (ZE) Syndrome in adults.
 
-Safety and efficacy of PROTONIX I.V. as a treatment of patients with GERD and a history of EE for more than 10 days have not been demonstrated.
+Limitations of Use
 
-## 1.2 Pathological Hypersecretion Including Zollinger-Ellison Syndrome
-
-PROTONIX I.V. is indicated for the treatment of pathological hypersecretory conditions including Zollinger-Ellison (ZE) Syndrome in adults.
+The safety and effectiveness of PROTONIX I.V. for the treatment of upper gastrointestinal bleeding have not been established in adult or pediatric patients.

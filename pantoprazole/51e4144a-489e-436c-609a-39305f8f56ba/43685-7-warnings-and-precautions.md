@@ -9,6 +9,7 @@ In older patients, also consider an endoscopy.
 ## 5.2 Injection Site Reactions
 
 Thrombophlebitis was associated with the administration of PROTONIX I.V.
+Assess the patient and remove the catheter if clinically indicated.
 
 ## 5.3 Potential for Exacerbation of Zinc Deficiency
 
@@ -23,9 +24,9 @@ Patients may present with varying signs and symptoms from symptomatic hypersensi
 In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
 Discontinue PROTONIX I.V. and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
-## 5.5 Clostridium difficile-Associated Diarrhea
+## 5.5 Clostridioides difficile-Associated Diarrhea
 
-Published observational studies suggest that PPI therapy like PROTONIX I.V. may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like PROTONIX I.V. may be associated with an increased risk of Clostridioides difficile-associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
@@ -35,12 +36,12 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2.2, 2.4), Adverse Reactions (6)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2.2, 2.4) and Adverse Reactions (6)].
 
 ## 5.7 Severe Cutaneous Adverse Reactions
 
 Severe cutaneous adverse reactions, including erythema multiforme, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with the use of PPIs [see Adverse Reactions (6.2)].
-Discontinue PROTONIX I.V at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.
+Discontinue PROTONIX I.V. at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.
 
 ## 5.8 Cutaneous and Systemic Lupus Erythematosus
 
