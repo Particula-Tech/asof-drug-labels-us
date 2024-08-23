@@ -7,11 +7,11 @@ Each Redi-ject® is supplied in a carton containing 29G × 1/2 inch disposable n
 
 The following package presentations are available:
 
-NDC 44087-1115-1 - One Gonal-f® RFF Redi-ject® delivers 300 International Units per 0.5 mL and 5 single-use disposable 29G × ½" needles
+NDC 44087-1115-1 - One Gonal-f® RFF Redi-ject® delivers 300 International Units per 0.48 mL and 5 single-use disposable 29G × ½" needles
 
-NDC 44087-1116-1 - One Gonal-f® RFF Redi-ject® delivers 450 International Units per 0.75 mL and 7 single-use disposable 29G × ½" needles
+NDC 44087-1116-1 - One Gonal-f® RFF Redi-ject® delivers 450 International Units per 0.72 mL and 7 single-use disposable 29G × ½" needles
 
-NDC 44087-1117-1 - One Gonal-f® RFF Redi-ject® delivers 900 International Units per 1.5 mL and 14 single-use disposable 29G × ½" needles
+NDC 44087-1117-1 - One Gonal-f® RFF Redi-ject® delivers 900 International Units per 1.44 mL and 14 single-use disposable 29G × ½" needles
 
 ## 16.2 Storage and Handling
 
