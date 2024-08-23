@@ -57,7 +57,7 @@ Drugs of this class should not be used extensively on pregnant patients, in larg
 ## Nursing Mothers
 
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
-Systemically administered corticosteroids are secreted into breast milk in quantities not likely to have a deleterious effect on the infant.
+Systemically administered corticosteroids are secreted into breast milk in quantities notlikely to have a deleterious effect on the infant.
 Nevertheless, caution should be exercised when topical corticosteroids are administered to a nursing woman.
 
 ## Pediatric Use

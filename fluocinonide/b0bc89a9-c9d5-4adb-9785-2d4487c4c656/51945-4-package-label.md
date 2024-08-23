@@ -54,14 +54,3 @@ TARO
 NDC 51672-1264-1
 
 Fluocinonide Ointment USP, 0.05%
-
-FOR EXTERNAL USE ONLY.
-NOT FOR OPHTHALMIC USE.
-
-Keep this and all medications out of the reach of children.
-
-15 g
-
-Rx only
-
-TARO
