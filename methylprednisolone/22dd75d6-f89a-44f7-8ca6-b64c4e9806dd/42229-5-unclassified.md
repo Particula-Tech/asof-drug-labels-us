@@ -9,6 +9,6 @@ In addition, they modify the body's immune responses to diverse stimuli.
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com.
 
-LAB-0158-8.0
+LAB-0158-9.0
 
-Revised December 2023
+Revised March 2024
