@@ -2,9 +2,9 @@
 
 Palonosetron injection is indicated in adults for prevention of:
 
-- acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy (MEC).
-- acute nausea and vomiting associated with initial and repeat courses highly emetogenic cancer chemotherapy (HEC).
-- postoperative nausea and vomiting (PONV) for up to 24 hours following surgery.
+- •acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy (MEC).
+- •acute nausea and vomiting associated with initial and repeat courses highly emetogenic cancer chemotherapy (HEC).
+- •postoperative nausea and vomiting (PONV) for up to 24 hours following surgery.
   Efficacy beyond 24 hours has not been demonstrated.
 
 As with other antiemetics, routine prophylaxis is not recommended in patients in whom there is little expectation that nausea and/or vomiting will occur postoperatively.

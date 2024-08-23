@@ -2,8 +2,8 @@
 
 Serious or otherwise clinically significant adverse reactions reported in other sections of labeling:
 
-- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -34,19 +34,19 @@ Common Adverse Reactions* in Adults with Receiving MEC (Studies 1 and 2) or HEC 
 
 Less common adverse reactions, reported in 1% or less of patients, in Studies 1, 2 and 3 were:
 
-- Cardiovascular: non-sustained tachycardia, bradycardia, hypotension, hypertension, myocardial ischemia, extrasystoles, sinus tachycardia, sinus arrhythmia, supraventricular extrasystoles and QT prolongation.
-- Dermatological: allergic dermatitis, rash
-- Hearing and Vision: motion sickness, tinnitus, eye irritation and amblyopia
-- Gastrointestinal System: diarrhea, dyspepsia, abdominal pain, dry mouth, hiccups and flatulence
-- General: weakness, fatigue, fever, hot flash, flu-like syndrome
-- Liver: transient, asymptomatic increases in AST and/or ALT and bilirubin.
+- •Cardiovascular: non-sustained tachycardia, bradycardia, hypotension, hypertension, myocardial ischemia, extrasystoles, sinus tachycardia, sinus arrhythmia, supraventricular extrasystoles and QT prolongation.
+- •Dermatological: allergic dermatitis, rash
+- •Hearing and Vision: motion sickness, tinnitus, eye irritation and amblyopia
+- •Gastrointestinal System: diarrhea, dyspepsia, abdominal pain, dry mouth, hiccups and flatulence
+- •General: weakness, fatigue, fever, hot flash, flu-like syndrome
+- •Liver: transient, asymptomatic increases in AST and/or ALT and bilirubin.
   These changes occurred predominantly in patients receiving highly emetogenic chemotherapy
-- Metabolic: hyperkalemia, electrolyte fluctuations, hyperglycemia, metabolic acidosis, glycosuria, appetite decrease, anorexia
-- Musculoskeletal: arthralgia
-- Nervous System: dizziness, somnolence, insomnia, hypersomnia, paresthesia
-- Psychiatric: anxiety, euphoric mood
-- Urinary System: urinary retention
-- Vascular: vein discoloration, vein distention
+- •Metabolic: hyperkalemia, electrolyte fluctuations, hyperglycemia, metabolic acidosis, glycosuria, appetite decrease, anorexia
+- •Musculoskeletal: arthralgia
+- •Nervous System: dizziness, somnolence, insomnia, hypersomnia, paresthesia
+- •Psychiatric: anxiety, euphoric mood
+- •Urinary System: urinary retention
+- •Vascular: vein discoloration, vein distention
 
 In other studies, 2 subjects experienced severe constipation following a single palonosetron HCl injection dose of approximately 0.75 mg (three times the recommended dose).
 
@@ -56,9 +56,9 @@ In a pediatric clinical trial, 163 pediatric cancer patients with a mean age of 
 Adverse reactions were evaluated in pediatric patients receiving palonosetron HCl injection for up to 4 chemotherapy cycles.
 The following adverse reactions were reported in less than 1% of patients:
 
-- Nervous System: headache, dizziness, dyskinesia.
-- General: infusion site pain.
-- Dermatological: allergic dermatitis, skin disorder.
+- •Nervous System: headache, dizziness, dyskinesia.
+- •General: infusion site pain.
+- •Dermatological: allergic dermatitis, skin disorder.
 
 Postoperative Nausea and Vomiting
 
@@ -80,21 +80,21 @@ Table 3: Common Adverse Reactions* in Trials of Adults with Postoperative Nausea
 
 Less common adverse reactions, reported in 1% of less of patients, in these PONV clinical trials were:
 
-- Cardiovascular: QTc prolongation, sinus bradycardia, tachycardia, blood pressure decreased, hypotension, hypertension, arrhythmia, ventricular extrasystoles, generalized edema, ECG T wave amplitude decreased, platelet count decreased.
+- •Cardiovascular: QTc prolongation, sinus bradycardia, tachycardia, blood pressure decreased, hypotension, hypertension, arrhythmia, ventricular extrasystoles, generalized edema, ECG T wave amplitude decreased, platelet count decreased.
   The frequency of these adverse effects did not appear to be different from placebo.
-- Dermatological: pruritus
-- Gastrointestinal System: flatulence, dry mouth, upper abdominal pain, salivary hypersecretion, dyspepsia, diarrhea, intestinal hypomotility, anorexia
-- General: chills
-- Liver: increases in AST and/or ALT, hepatic enzyme increased
-- Metabolic: hypokalemia, anorexia
-- Nervous System: dizziness
-- Respiratory: hypoventilation, laryngospasm
-- Urinary System: urinary retention
+- •Dermatological: pruritus
+- •Gastrointestinal System: flatulence, dry mouth, upper abdominal pain, salivary hypersecretion, dyspepsia, diarrhea, intestinal hypomotility, anorexia
+- •General: chills
+- •Liver: increases in AST and/or ALT, hepatic enzyme increased
+- •Metabolic: hypokalemia, anorexia
+- •Nervous System: dizziness
+- •Respiratory: hypoventilation, laryngospasm
+- •Urinary System: urinary retention
 
 ## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of palonosetron HCl.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Hypersensitivity reactions: including dyspnea, bronchospasm, swelling/edema, erythema, pruritus, rash, urticaria, anaphylaxis and anaphylactic shock [see Warnings and Precautions (5.1)]
-- Injection site reactions: including burning, induration, discomfort and pain
+- •Hypersensitivity reactions: including dyspnea, bronchospasm, swelling/edema, erythema, pruritus, rash, urticaria, anaphylaxis and anaphylactic shock [see Warnings and Precautions (5.1)]
+- •Injection site reactions: including burning, induration, discomfort and pain

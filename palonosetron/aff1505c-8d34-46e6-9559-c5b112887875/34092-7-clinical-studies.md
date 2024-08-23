@@ -27,14 +27,14 @@ The mean age was 52 years.
 Efficacy Results
 
 Studies 1, 2 and 3 show that palonosetron HCl injection was effective in the prevention of nausea and vomiting associated with initial and repeat courses of MEC and HEC in the acute phase (0 to 24 hours) [Table 5].
-Clinical superiority over other 5-HT 3 receptor antagonists has not been adequately demonstrated in the acute phase.
+Clinical superiority over other 5-HT3 receptor antagonists has not been adequately demonstrated in the acute phase.
 In Study 3, efficacy was greater when prophylactic corticosteroids were administered concomitantly.
 
 Studies 1 and 2 show that palonosetron HCl injection was effective in the prevention of nausea and vomiting associated with initial and repeat course of MEC in the delayed phase (24 to 120 hours) [Table 6] and overall phase (0 to 120 hours) [Table 7].
 
 Table 5: Prevention of Acute Nausea and Vomiting (0 to 24 Hours) in Adults with Nausea and Vomiting Associated with MEC or HEC in Studies 1, 2 and 3: Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | N Intent-to-treat cohort | % with Complete Response | p-value 2-sided Fisher’s exact test. Significance level at α=0.025. | 97.5% Confidence Interval Palonosetron HCl injection minus Comparator These studies were designed to show non-inferiority. A lower bound greater than –15% demonstrates non-inferiority between Palonosetron HCl injection and comparator. |
+| Chemotherapy | Study | Treatment Group | NIntent-to-treat cohort | % with Complete Response | p-value2-sided Fisher’s exact test. Significance level at α=0.025. | 97.5% Confidence Interval Palonosetron HCl injection minus ComparatorThese studies were designed to show non-inferiority. A lower bound greater than –15% demonstrates non-inferiority between Palonosetron HCl injection and comparator. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | Palonosetron HCl Injection 0.25 mg intravenously | 189 | 81 | 0.009 |  |
 | Ondansetron 32 mg intravenously | 185 | 69 |  |  |  |  |
@@ -45,19 +45,19 @@ Table 5: Prevention of Acute Nausea and Vomiting (0 to 24 Hours) in Adults with 
 
 Table 6: Prevention of Delayed Nausea and Vomiting (24 to 120 Hours) Associated with MEC in Adults in Studies 1 and 2: Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | N Intent-to-treat cohort | % with Complete Response | p-value 2-sided Fisher’s exact test. Significance level at α=0.025. | 97.5% Confidence Interval Palonosetron HCl injection minus Comparator 3 |
+| Chemotherapy | Study | Treatment Group | NIntent-to-treat cohort | % with Complete Response | p-value2-sided Fisher’s exact test. Significance level at α=0.025. | 97.5% Confidence Interval Palonosetron HCl injection minus Comparator3 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | Palonosetron HCl injection 0.25 mg intravenously | 189 | 74 | <0.001 |  |
-| Ondansetron32 mg intravenously Ondansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 55 |  |  |  |  |
+| Ondansetron32 mg intravenouslyOndansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 55 |  |  |  |  |
 | 2 | Palonosetron HCl injection0.25 mg intravenously | 189 | 54 | 0.004 |  |  |
 | Dolasetron100 mg intravenously | 191 | 39 |  |  |  |  |
 
 Table 7: Prevention of Overall Nausea and Vomiting (0 to 120 Hours) Associated with MEC in Adults in Studies 1 and 2: Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | NIntent-to-treat cohort | % with Complete Response | p-value2-sided Fisher’s exact test. Significance level at α=0.025. | 97.5% Confidence Interval Palonosetron HCl injection minus Comparator 3 |
+| Chemotherapy | Study | Treatment Group | NIntent-to-treat cohort | % with Complete Response | p-value2-sided Fisher’s exact test. Significance level at α=0.025. | 97.5% Confidence Interval Palonosetron HCl injection minus Comparator3 |
 | --- | --- | --- | --- | --- | --- | --- |
 | ModeratelyEmetogenic | 1 | Palonosetron HCl injection0.25 mg intravenously | 189 | 69 | <0.001 |  |
-| Ondansetron32 mg intravenously Ondansetron 32 mg intravenously was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 50 |  |  |  |  |
+| Ondansetron32 mg intravenouslyOndansetron 32 mg intravenously was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 50 |  |  |  |  |
 | 2 | Palonosetron HCl injection0.25 mg intravenously | 189 | 46 | 0.021 |  |  |
 | Dolasetron100 mg intravenously | 191 | 34 |  |  |  |  |
 
@@ -66,7 +66,7 @@ Table 7: Prevention of Overall Nausea and Vomiting (0 to 120 Hours) Associated w
 One double-blind, active-controlled clinical trial was conducted in pediatric cancer patients.
 The total population (N=327) had a mean age of 8.3 years (range 2 months to 16.9 years) and were 53% male; and 96% white.
 Patients were randomized and received a 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron HCl injection 30 minutes prior to the start of emetogenic chemotherapy (followed by placebo infusions 4 and 8 hours after the dose of palonosetron HCl injection) or 0.15 mg/kg of intravenous ondansetron 30 minutes prior to the start of emetogenic chemotherapy (followed by ondansetron 0.15 mg/kg infusions 4 and 8 hours after the first dose of ondansetron, with a maximum total dose of 32 mg).
-Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m 2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
+Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
 Adjuvant corticosteroids, including dexamethasone, were administered with chemotherapy in 55% of patients.
 
 Complete Response in the acute phase of the first cycle of chemotherapy was defined as no vomiting, no retching, and no rescue medication in the first 24 hours after starting chemotherapy.
@@ -107,9 +107,9 @@ Co-primary efficacy measures were Complete Response (CR) defined as no emetic ep
 
 Secondary efficacy endpoints included:
 
-- Complete Response (CR) 0 to 48 hours and 0 to 72 hours
-- Complete Control (CC) defined as CR and no more than mild nausea
-- Severity of nausea (none, mild, moderate, severe)
+- •Complete Response (CR) 0 to 48 hours and 0 to 72 hours
+- •Complete Control (CC) defined as CR and no more than mild nausea
+- •Severity of nausea (none, mild, moderate, severe)
 
 The primary hypothesis was that at least one of the three palonosetron doses were superior to placebo.
 
