@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
+PregnancyExposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, including VIGADRONE, during pregnancy.
 Encourage women who are taking VIGADRONE during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
@@ -26,18 +26,18 @@ Data
 Animal Data
 
 Administration of vigabatrin (oral doses of 50 to 200 mg/kg/day) to pregnant rabbits throughout the period of organogenesis was associated with an increased incidence of malformations (cleft palate) and embryofetal death; these findings were observed in two separate studies.
-The no-effect dose for adverse effects on embryofetal development in rabbits (100 mg/kg/day) is approximately ½ the maximum recommended human dose (MRHD) of 3 g/day on a body surface area (mg/m2) basis.
+The no-effect dose for adverse effects on embryofetal development in rabbits (100 mg/kg/day) is approximately ½ the maximum recommended human dose (MRHD) of 3 g/day on a body surface area (mg/m 2) basis.
 In rats, oral administration of vigabatrin (50, 100, or 150 mg/kg/day) throughout organogenesis resulted in decreased fetal body weights and increased incidences of fetal anatomic variations.
-The no-effect dose for adverse effects on embryo-fetal development in rats (50 mg/kg/day) is approximately 1/5 the MRHD on a mg/m2 basis.
+The no-effect dose for adverse effects on embryo-fetal development in rats (50 mg/kg/day) is approximately 1/ 5the MRHD on a mg/m 2basis.
 Oral administration of vigabatrin (50, 100, 150 mg/kg/day) to rats from the latter part of pregnancy through weaning produced long-term neurohistopathological (hippocampal vacuolation) and neurobehavioral (convulsions) abnormalities in the offspring.
-A no-effect dose for developmental neurotoxicity in rats was not established; the low-effect dose (50 mg/kg/day) is approximately 1/5 the MRHD on a mg/m2 basis.
+A no-effect dose for developmental neurotoxicity in rats was not established; the low-effect dose (50 mg/kg/day) is approximately 1/ 5the MRHD on a mg/m 2basis.
 
 In a published study, vigabatrin (300 or 450 mg/kg) was administered by intraperitoneal injection to a mutant mouse strain on a single day during organogenesis (day 7, 8, 9, 10, 11, or 12).
 An increase in fetal malformations (including cleft palate) was observed at both doses.
 
 Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4 to 65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain vacuolation, decreased myelination, and retinal dysplasia) abnormalities in treated animals.
 The early postnatal period in rats is generally thought to correspond to late pregnancy in humans in terms of brain development.
-The no-effect dose for developmental neurotoxicity in juvenile rats (5 mg/kg/day) was associated with plasma vigabatrin exposures (AUC) less than 1/30 of those measured in pediatric patients receiving an oral dose of 50 mg/kg.
+The no-effect dose for developmental neurotoxicity in juvenile rats (5 mg/kg/day) was associated with plasma vigabatrin exposures (AUC) less than 1/ 30of those measured in pediatric patients receiving an oral dose of 50 mg/kg.
 
 ## 8.2Lactation
 
@@ -46,27 +46,24 @@ Risk Summary
 Vigabatrin is excreted in human milk.
 The effects of VIGADRONE on the breastfed infant and on milk production are unknown.
 Because of the potential for serious adverse reactions from vigabatrin in nursing infants, breastfeeding is not recommended.
-If exposing a breastfed infant to VIGADRONE, observe for any potential adverse effects [see Warnings and Precautions (5.1, 5.3, 5.4, 5.8)].
+If exposing a breastfed infant to VIGADRONE, observe for any potential adverse effects [see Warnings and Precautions (5.1,5.3,5.4,5.8)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VIGADRONE as adjunctive treatment of refractory complex partial seizures in pediatric patients 2 to 16 years of age have been established and is supported by three double-blind, placebo-controlled studies in patients 3 to 16 years of age, adequate and well-controlled studies in adult patients, pharmacokinetic data from patients 2 years of age and older, and additional safety information in patients 2 years of age [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
-The dosing recommendation in this population varies according to age group and is weight-based [see Dosage and Administration (2.2)].
-Adverse reactions in this pediatric population are similar to those observed in the adult population [see Adverse Reactions (6.1)].
+The safety and effectiveness of VIGADRONE as adjunctive treatment of refractory complex partial seizures in pediatric patients 2 to 16 years of age have been established and is supported by three double-blind, placebo-controlled studies in patients 3 to 16 years of age, adequate and well-controlled studies in adult patients, pharmacokinetic data from patients 2 years of age and older, and additional safety information in patients 2 years of age [s eeClinical Pharmacology (12.3) andClinical Studies (14.1)].The dosing recommendation in this population varies according to age group and is weight-based [see Dosage and Administration (2.2)].Adverse reactions in this pediatric population are similar to those observed in the adult population [see Adverse Reactions (6.1)].
 The safety and effectiveness of VIGADRONE as monotherapy for pediatric patients with infantile spasms (1 month to 2 years of age) have been established [see Dosage and Administration (2.3) and Clinical Studies (14.2)].
 
 Safety and effectiveness as adjunctive treatment of refractory complex partial seizures in pediatric patients below the age of 2 and as monotherapy for the treatment of infantile spasms in pediatric patients below the age of 1 month have not been established.
 
 Duration of therapy for infantile spasms was evaluated in a post hoc analysis of a Canadian Pediatric Epilepsy Network (CPEN) study of developmental outcomes in infantile spasms patients.
 This analysis suggests that a total duration of 6 months of vigabatrin therapy is adequate for the treatment of infantile spasms.
-However, prescribers must use their clinical judgment as to the most appropriate duration of use [see Clinical Studies (14.2)].
+However, prescribers must use their clinical judgment as to the most appropriate duration of use [s ee Clinical Studies (14.2)].
 
-Abnormal MRI signal changes and Intramyelinic Edema (IME) in infants and young children being treated with vigabatrin have been observed [see Warnings and Precautions (5.3, 5.4)].
+Abnormal MRI signal changes and Intramyelinic Edema (IME) in infants and young children being treated with vigabatrin have been observed [see Warnings and Precautions (5.3,5.4)].
 
 Juvenile Animal Toxicity Data
 
-Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4 to 65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain gray matter vacuolation, decreased myelination, and retinal dysplasia) abnormalities.
-The no-effect dose for developmental neurotoxicity in juvenile rats (the lowest dose tested) was associated with plasma vigabatrin exposures (AUC) substantially less than those measured in pediatric patients at recommended doses.
+Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4 to 65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain gray matter vacuolation, decreased myelination, and retinal dysplasia) abnormalities.The no-effect dose for developmental neurotoxicity in juvenile rats (the lowest dose tested) was associated with plasma vigabatrin exposures (AUC) substantially less than those measured in pediatric patients at recommended doses.
 In dogs, oral administration of vigabatrin (30 or 100 mg/kg/day) during selected periods of juvenile development (postnatal days 22 to 112) produced neurohistopathological abnormalities (brain gray matter vacuolation).
 Neurobehavioral effects of vigabatrin were not assessed in the juvenile dog.
 A no-effect dose for neurohistopathology was not established in juvenile dogs; the lowest effect dose (30 mg/kg/day) was associated with plasma vigabatrin exposures lower than those measured in pediatric patients at recommended doses [see Warnings and Precautions (5.4)].

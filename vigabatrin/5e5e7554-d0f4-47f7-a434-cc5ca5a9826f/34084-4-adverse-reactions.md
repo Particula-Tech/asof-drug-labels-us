@@ -2,7 +2,7 @@
 
 The following serious and otherwise important adverse reactions are described elsewhere in labeling:
 
-- Permanent Vision Loss [see BOXED WARNING and Warnings and Precautions (5.1)]
+- Permanent Vision Loss [seeBOXED WARNINGand Warnings and Precautions (5.1)]
 - Magnetic Resonance Imaging (MRI) Abnormalities in Infants [see Warnings and Precautions (5.3)]
 - Neurotoxicity [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
@@ -126,7 +126,7 @@ Adverse Reactions in Pooled, Adjunctive Trials in Adults withRefractory Complex 
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 4 | 5 | 4 |
 
-Pediatrics 3 to 16 years of age
+Pediatrics3 to 16 years of age
 
 Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving vigabatrin or placebo as adjunctive therapy for refractory complex partial seizures.
 Adverse reactions that are listed occurred in at least 2% of vigabatrin-treated patients and more frequently than placebo.
@@ -198,7 +198,7 @@ Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasm
 | Urinary tract infection | 5 | 6 |
 | Influenza | 5 | 3 |
 | Croup infectious | 5 | 1 |
-| Metabolism and Nutrition Disorders |  |  |
+| MetabolismandNutrition Disorders |  |  |
 | Decreased appetite | 9 | 7 |
 | Nervous System Disorders |  |  |
 | Sedation | 19 | 17 |

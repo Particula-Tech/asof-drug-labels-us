@@ -8,7 +8,7 @@ Although phenytoin dose adjustments are not routinely required, dose adjustment 
 
 Clonazepam
 
-VIGADRONE may moderately increase the Cmax of clonazepam resulting in an increase of clonazepam-associated adverse reactions [see Clinical Pharmacology (12.3)].
+VIGADRONE may moderately increase the C maxof clonazepam resulting in an increase of clonazepam-associated adverse reactions [see Clinical Pharmacology(12.3)].
 
 Other AEDs
 

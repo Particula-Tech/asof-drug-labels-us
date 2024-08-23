@@ -32,8 +32,7 @@ VIGADRONE should not be used with other drugs associated with serious adverse op
 
 Monitoring of Vision
 
-Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is recommended [see Warnings and Precautions (5.2)].
-Because vision testing in infants is difficult, vision loss may not be detected until it is severe.
+Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is recommended [see Warnings and Precautions (5.2)].Because vision testing in infants is difficult, vision loss may not be detected until it is severe.
 For patients receiving VIGADRONE, vision assessment is recommended at baseline (no later than 4 weeks after starting VIGADRONE), at least every 3 months while on therapy, and about 3 to 6 months after the discontinuation of therapy.
 The diagnostic approach should be individualized for the patient and clinical situation.
 
@@ -49,7 +48,7 @@ It is expected that even with frequent monitoring, some VIGADRONE patients will 
 Consider drug discontinuation, balancing benefit and risk, if vision loss is documented.
 It is possible that vision loss can worsen despite discontinuation of VIGADRONE.
 
-## 5.2Vigabatrin REMS Program
+## 5.2VigabatrinREMS Program
 
 VIGADRONE is available only through a restricted distribution program called the Vigabatrin REMS Program, because of the risk of permanent vision loss.
 
@@ -98,7 +97,7 @@ An increase in apoptosis was seen in some brain regions following vigabatrin exp
 Long-term neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats.
 Administration of vigabatrin to juvenile dogs produced vacuolar changes in the brain gray matter (including the septal nuclei, hippocampus, hypothalamus, thalamus, cerebellum, and globus pallidus).
 Neurobehavioral effects of vigabatrin were not assessed in the juvenile dog.
-These effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see Use in Specific Populations (8.1, 8.4)].
+These effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see Use in Specific Populations (8.1,8.4)].
 
 In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5 to 7.
 

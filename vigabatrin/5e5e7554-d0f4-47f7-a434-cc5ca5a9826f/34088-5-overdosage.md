@@ -16,7 +16,7 @@ There is no specific antidote for VIGADRONE overdose.
 Standard measures to remove unabsorbed drug should be used, including elimination by emesis or gastric lavage.
 Supportive measures should be employed, including monitoring of vital signs and observation of the clinical status of the patient.
 
-In an in vitro study, activated charcoal did not significantly adsorb vigabatrin.
+In an in vitrostudy, activated charcoal did not significantly adsorb vigabatrin.
 
 The effectiveness of hemodialysis in the treatment of VIGADRONE overdose is unknown.
 In isolated case reports in renal failure patients receiving therapeutic doses of vigabatrin, hemodialysis reduced vigabatrin plasma concentrations by 40% to 60%.

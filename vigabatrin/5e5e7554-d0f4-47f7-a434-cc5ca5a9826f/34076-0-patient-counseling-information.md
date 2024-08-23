@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guideand Instructions for Use).
 
-Administration Instructions for VIGADRONE Powder for Oral Solution
+Administration Instructions forVIGADRONEPowderfor Oral Solution
 
 Physicians should confirm that caregiver(s) understand how to mix VIGADRONE for Oral Solution and to administer the correct dose to their infants and pediatric patients [see Dosage and Administration (2.5)].
 
@@ -20,10 +20,9 @@ Ensure that both of these points are understood by patients and caregivers.
 
 Patients and caregivers should be informed that if changes in vision are suspected, they should notify their physician immediately.
 
-Vigabatrin REMS Program
+VigabatrinREMS Program
 
-VIGADRONE is available only through a restricted program called the Vigabatrin REMS Program [see Warnings and Precautions (5.2)].
-Inform patients/caregivers of the following:
+VIGADRONE is available only through a restricted program called the Vigabatrin REMS Program [see Warnings and Precautions (5.2)].Inform patients/caregivers of the following:
 
 - Patients/caregivers must be enrolled in the program.
 - VIGADRONE is only available through pharmacies that are enrolled in the Vigabatrin REMS Program.
@@ -50,15 +49,15 @@ Counsel patients that VIGADRONE is excreted in breast milk.
 Because of the potential for serious adverse reactions in nursing infants from VIGADRONE, breastfeeding is not recommended.
 If a decision is made to breastfeed, nursing mothers should be counseled to observe their infants for signs of vision loss, sedation and poor sucking [see Use in Specific Populations (8.2)].
 
-Withdrawal of VIGADRONE Therapy
+Withdrawal ofVIGADRONETherapy
 
 Instruct patients and caregivers not to suddenly discontinue VIGADRONE therapy without consulting with their healthcare provider.
 As with all AEDs, withdrawal should normally be gradual [see Warnings and Precautions (5.6)].
 
-Manufactured for UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
+Manufactured for UPSHER-SMITH LABORATORIES,LLC Maple Grove, MN 55369
+
+Made in China
 
 VIGADRONE is a registered trademark of Upsher-Smith Laboratories, LLC.
 
-Made in Germany
-
-IN0556AU Revised 0220
+LB5060-00 Revised 1/2024

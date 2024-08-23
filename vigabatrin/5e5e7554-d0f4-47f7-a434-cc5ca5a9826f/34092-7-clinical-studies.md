@@ -71,7 +71,7 @@ Patients with an increase in seizure frequency ˃100% are represented on the Y-a
 For both studies, there was no difference in the effectiveness of vigabatrin between male and female patients.
 Analyses of age and race were not possible as nearly all patients were between the ages of 18 to 65 and Caucasian.
 
-Pediatric patients 3 to 16 years of age
+Pediatric patients3 to 16 years of age
 
 Vigabatrin was studied in three double-blind, placebo-controlled, parallel-group studies in 269 patients who received vigabatrin and 104 patients who received placebo.
 No individual study was considered adequately powered to determine efficacy in pediatric patients age 3 years and above.

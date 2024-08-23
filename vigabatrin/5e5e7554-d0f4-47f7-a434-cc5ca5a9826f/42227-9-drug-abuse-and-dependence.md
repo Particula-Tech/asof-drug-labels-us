@@ -1,4 +1,4 @@
-# 9DRUG ABUSE AND DEPENDENCE
+# 9DRUGABUSE AND DEPENDENCE
 
 ## 9.1 Controlled Substance
 

@@ -6,8 +6,7 @@ Dosing
 
 Use the lowest dosage and shortest exposure to VIGADRONE consistent with clinical objectives [see Warnings and Precautions (5.1)].
 
-The VIGADRONE dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2, 2.3)].
-Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
+The VIGADRONE dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2,2.3)].Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
 
 Monitoring of VIGADRONE plasma concentrations to optimize therapy is not helpful.
 
@@ -19,7 +18,7 @@ VIGADRONE powder for oral solution should be mixed with water prior to administr
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
-If a decision is made to discontinue VIGADRONE, the dose should be gradually reduced [see Dosage and Administration (2.2, 2.3) and Warnings and Precautions (5.6)].
+If a decision is made to discontinue VIGADRONE, the dose should be gradually reduced [see Dosage and Administration (2.2,2.3) and Warnings and Precautions (5.6)].
 
 ## 2.2 Refractory Complex Partial Seizures
 
@@ -32,7 +31,7 @@ A 6000 mg/day dose has not been shown to confer additional benefit compared to t
 
 In controlled clinical studies in adults with complex partial seizures, vigabatrin was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued [see Warnings and Precautions (5.6)].
 
-Pediatric (Patients 2 to 16 Years of Age)
+Pediatric (Patients2 to 16 Years of Age)
 
 The recommended dosage is based on body weight and administered as two divided doses, as shown in Table 1.
 The dosage may be increased in weekly intervals to the total daily maintenance dosage, depending on response.
@@ -40,7 +39,7 @@ The dosage may be increased in weekly intervals to the total daily maintenance d
 Pediatric patients weighing more than 60 kg should be dosed according to adult recommendations.
 
 Table 1.
-CPS Dosing Recommendations for Pediatric Patients Weighing 10 kg up to 60 kg††
+CPS Dosing Recommendations for Pediatric Patients Weighing 10 kg up to 60 kg ††
 
 | Body Weight [kg] | Total Daily* Starting Dose [mg/day] | Total Daily* Maintenance Dose† [mg/day] |
 | --- | --- | --- |
@@ -99,7 +98,7 @@ Infants
 
 Information about how to adjust the dose in infants with renal impairment is unavailable.
 
-Adult and pediatric patients 2 years and older
+Adult and pediatric patients2 years and older
 
 - Mild renal impairment (CLcr >50 to 80 mL/min): dose should be decreased by 25%
 - Moderate renal impairment (CLcr >30 to 50 mL/min): dose should be decreased by 50%
@@ -107,17 +106,17 @@ Adult and pediatric patients 2 years and older
 
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas:
 
-- Patients 2 to <12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scr
+- Patients 2 to <12 years old: CLcr (mL/min/1.73 m 2) = (K × Ht) / Scr
 
 height (Ht) in cm; serum creatinine (Scr) in mg/dL
 
 K (proportionality constant): Female Child (<12 years): K=0.55; Male Child (<12 years): K=0.70
 
-- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140–age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (×0.85 for female patients)
+- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140– age(years)] × weight(kg) / [72 × serum creatinine (mg/ dL)] (×0.85 for female patients)
 
 The effect of dialysis on VIGADRONE clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 
-## 2.5Preparation and Administration Instructions for VIGADRONE Powder for Oral Solution
+## 2.5Preparation and Administration Instructions forVIGADRONE Powderfor Oral Solution
 
 If using VIGADRONE powder for oral solution, physicians should review and discuss the Medication Guide and instructions for mixing and giving VIGADRONE with the patient or caregiver(s).
 Physicians should confirm that patients or caregiver(s) understand how to mix VIGADRONE powder with water and administer the correct daily dose.

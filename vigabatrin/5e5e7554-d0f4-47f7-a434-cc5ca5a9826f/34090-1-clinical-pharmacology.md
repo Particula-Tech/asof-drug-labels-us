@@ -19,14 +19,14 @@ Peak concentrations for 6.0 g vigabatrin were approximately 2-fold higher than t
 
 Vigabatrin displayed linear pharmacokinetics after administration of single doses ranging from 0.5 g to 4 g, and after administration of repeated doses of 0.5 g and 2.0 g twice daily.
 Bioequivalence has been established between the oral solution and tablet formulations.
-The following PK information (Tmax, half-life, and clearance) of vigabatrin was obtained from stand-alone PK studies and population PK analyses.
+The following PK information (T max, half-life, and clearance) of vigabatrin was obtained from stand-alone PK studies and population PK analyses.
 
 Absorption
 
 Following oral administration, vigabatrin is essentially completely absorbed.
-The time to maximum concentration (Tmax) is approximately 1 hour for children and adolescents (3 years to 16 years of age) and adults, and approximately 2.5 hours for infants (5 months to 2 years of age).
+The time to maximum concentration (T max) is approximately 1 hour for children and adolescents (3 years to 16 years of age) and adults, and approximately 2.5 hours for infants (5 months to 2 years of age).
 There was little accumulation with multiple dosing in adult and pediatric patients.
-A food effect study involving administration of vigabatrin to healthy volunteers under fasting and fed conditions indicated that the Cmax was decreased by 33%, Tmax was increased to 2 hours, and AUC was unchanged under fed conditions.
+A food effect study involving administration of vigabatrin to healthy volunteers under fasting and fed conditions indicated that the C maxwas decreased by 33%, T maxwas increased to 2 hours, and AUC was unchanged under fed conditions.
 
 Distribution
 
@@ -58,7 +58,7 @@ No gender differences were observed for the pharmacokinetic parameters of vigaba
 Race
 
 No specific study was conducted to investigate the effects of race on vigabatrin pharmacokinetics.
-A cross study comparison between 23 Caucasian and 7 Japanese patients who received 1, 2, and 4 g of vigabatrin indicated that the AUC, Cmax, and half-life were similar for the two populations.
+A cross study comparison between 23 Caucasian and 7 Japanese patients who received 1, 2, and 4 g of vigabatrin indicated that the AUC, C max, and half-life were similar for the two populations.
 However, the mean renal clearance of Caucasians (5.2 L/hr) was about 25% higher than the Japanese (4.0 L/hr).
 Inter-subject variability in renal clearance was 20% in Caucasians and was 30% in Japanese.
 
@@ -78,7 +78,7 @@ Infants with renal impairment
 
 Information about how to adjust the dose in infants with renal impairment is unavailable.
 
-Pediatric patients 2 years and older with renal impairment
+Pediatric patients2 years and older with renal impairment
 
 Although information is unavailable on the effects of renal impairment on vigabatrin clearance in pediatric patients 2 years and older, dosing can be calculated based upon adult data and an established formula [see Use in Specific Populations (8.6) and Dosage and Administration (2.4)].
 
@@ -92,13 +92,13 @@ Drug Interactions
 Phenytoin
 
 A 16% to 20% average reduction in total phenytoin plasma levels was reported in adult controlled clinical studies.
-In vitro drug metabolism studies indicate that decreased phenytoin concentrations upon addition of vigabatrin therapy are likely to be the result of induction of cytochrome P450 2C enzymes in some patients.
+In vitrodrug metabolism studies indicate that decreased phenytoin concentrations upon addition of vigabatrin therapy are likely to be the result of induction of cytochrome P450 2C enzymes in some patients.
 Although phenytoin dose adjustments are not routinely required, dose adjustment of phenytoin should be considered if clinically indicated [see Drug Interactions (7.1)].
 
 Clonazepam
 
 In a study of 12 healthy adult volunteers, clonazepam (0.5 mg) co-administration had no effect on vigabatrin (1.5 g twice daily) concentrations.
-Vigabatrin increases the mean Cmax of clonazepam by 30% and decreases the mean Tmax by 45% [see Drug Interactions (7.1)].
+Vigabatrin increases the mean C maxof clonazepam by 30% and decreases the mean T maxby 45% [see Drug Interactions (7.1)].
 
 Other AEDs
 
@@ -114,4 +114,4 @@ Oral Contraceptives
 
 In a double-blind, placebo-controlled study using a combination oral contraceptive containing 30 mcg ethinyl estradiol and 150 mcg levonorgestrel, vigabatrin (3 g/day) did not interfere significantly with the cytochrome P450 isoenzyme (CYP3A)-mediated metabolism of the contraceptive tested.
 Based on this study, vigabatrin is unlikely to affect the efficacy of steroid oral contraceptives.
-Additionally, no significant difference in pharmacokinetic parameters (elimination half-life, AUC, Cmax, apparent oral clearance, time to peak, and apparent volume of distribution) of vigabatrin were found after treatment with ethinyl estradiol and levonorgestrel [see Drug Interactions (7.2)].
+Additionally, no significant difference in pharmacokinetic parameters (elimination half-life, AUC, C max, apparent oral clearance, time to peak, and apparent volume of distribution) of vigabatrin were found after treatment with ethinyl estradiol and levonorgestrel [seeDrug Interactions (7.2)].
