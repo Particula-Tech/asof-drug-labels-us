@@ -2,8 +2,7 @@
 
 ## 2.1 Recommended Vaccination
 
-Because VYVGART HYTRULO causes transient reduction in IgG levels, immunization with live-attenuated or live vaccines is not recommended during treatment with VYVGART HYTRULO.
-Evaluate the need to administer age-appropriate immunizations according to immunization guidelines before initiation of a new treatment cycle with VYVGART HYTRULO [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
+Evaluate the need to administer age-appropriate vaccines according to immunization guidelines before initiation of a new treatment cycle with VYVGART HYTRULO Because VYVGART HYTRULO causes transient reduction in IgG levels, vaccination with live vaccines is not recommended during treatment with VYVGART HYTRULO [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 
 ## 2.2 Important Dosage and Administration Instructions
 

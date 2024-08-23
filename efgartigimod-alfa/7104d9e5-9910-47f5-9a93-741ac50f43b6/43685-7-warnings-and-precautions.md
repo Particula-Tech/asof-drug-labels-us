@@ -12,10 +12,9 @@ If serious infection occurs, administer appropriate treatment and consider withh
 
 Immunization
 
-Immunization with vaccines during VYVGART HYTRULO treatment has not been studied.
-The safety of immunization with live or live-attenuated vaccines and the response to immunization with any vaccine are unknown.
-Because VYVGART HYTRULO causes a reduction in IgG levels, vaccination with live-attenuated or live vaccines is not recommended during treatment with VYVGART HYTRULO.
 Evaluate the need to administer age-appropriate vaccines according to immunization guidelines before initiation of a new treatment cycle with VYVGART HYTRULO.
+The safety of immunization with live vaccines and the immune response to vaccination during treatment with VYVGART HYTRULO are unknown.
+Because VYVGART HYTRULO causes a reduction in IgG levels, vaccination with live vaccines is not recommended during treatment with VYVGART HYTRULO.
 
 ## 5.2 Hypersensitivity Reactions
 
