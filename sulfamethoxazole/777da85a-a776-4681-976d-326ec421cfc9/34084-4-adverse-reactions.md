@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 The most common adverse reactions are gastrointestinal disturbances (nausea, vomiting, anorexia) and allergic skin reactions (such as rash and urticaria).
-Fatalities and serious adverse reactions, including severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis(AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products, (see WARNINGS).
+Fatalities and serious adverse reactions, including severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products, (see WARNINGS).
 
 ## Hematologic
 
@@ -21,7 +21,7 @@ Renal failure, interstitial nephritis, BUN and serum creatinine elevation, toxic
 
 ## Metabolic and Nutritional
 
-Hyperkalemia (see PRECAUTIONS: Use in the Treatment of and Prophylaxis for Pneumocystis Carinii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS).
+Hyperkalemia (see PRECAUTIONS: Use in the Treatment of and Prophylaxis for Pneumocystis Carinii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS)).
 
 ## Neurologic
 
@@ -59,5 +59,4 @@ Weakness, fatigue, insomnia.
 The following adverse reactions have been identified during post-approval use of trimethoprim-sulfamethoxazole.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Thrombotic thrombocytopenia purpura
-- Idiopathic thrombocytopenic purpura
+• Thrombotic thrombocytopenia purpura • Idiopathic thrombocytopenic purpura
