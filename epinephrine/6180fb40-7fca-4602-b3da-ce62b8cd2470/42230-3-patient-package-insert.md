@@ -69,9 +69,9 @@ How should I use AUVI-Q?
   It can be injected through your clothing, if needed.
 - Read the Instructions for Use at the end of this Patient Information Leaflet for information about the right way to use AUVI-Q.
 - Use AUVI-Q exactly as your healthcare provider tells you to use it.
-- A Trainer for AUVI-Q with a separate Trainer Instructions for Use leaflet is included with AUVI-Q.
+- You may request a Trainer for AUVI-Q.
   Additional training resources are available at www.auvi-q.com.
-  - Practice with the Trainer for AUVI-Q before an allergic emergency happens to make sure you are able to safely use the real AUVI-Q in an emergency.
+  - Practice with the Trainer for AUVI-Q before an allergic emergency happens to familiarize yourself with the use of AUVI-Q in an allergic emergency.
   - The Trainer for AUVI-Q does not contain a needle or medicine and can be reused to practice your injection.
 
 What are the possible side effects of AUVI-Q?

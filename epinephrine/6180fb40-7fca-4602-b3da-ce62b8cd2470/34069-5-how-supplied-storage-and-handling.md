@@ -8,9 +8,9 @@ Table 1 AUVI-Q Autoinjector Package Configurations and Strengths
 
 | Package Configuration | Strength | National Drug Code (NDC) |
 | --- | --- | --- |
-| 2 autoinjectors and 1 trainer | 0.3 mg | NDC 60842-023-01 |
-| 2 autoinjectors and 1 trainer | 0.15 mg | NDC 60842-022-01 |
-| 2 autoinjectors and 1 trainer | 0.1 mg | NDC 60842-021-01 |
+| 2 autoinjectors | 0.3 mg | NDC 60842-023-02 |
+| 2 autoinjectors | 0.15 mg | NDC 60842-022-02 |
+| 2 autoinjectors | 0.1 mg | NDC 60842-021-02 |
 
 Storage and Handling
 
