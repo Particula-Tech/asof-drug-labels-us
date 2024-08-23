@@ -35,7 +35,7 @@ Rx only
 
 SANDOZ
 
-# 480 mcg Carton
+# 480 mcg PFS Carton
 
 Zarxio®
 

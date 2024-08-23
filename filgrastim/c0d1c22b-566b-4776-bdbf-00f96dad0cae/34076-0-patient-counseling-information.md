@@ -2,8 +2,8 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 Review the steps for direct patient administration with patients and caregivers.
-Training by the healthcare provider should aim to ensure that patients and caregivers can successfully perform all of the steps in the Instructions for Use of ZARXIO prefilled syringe, including showing the patient or caregiver how to measure the required dose, particularly if a patient is on a dose other than the entire prefilled syringe.
-If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO.
+Training by the healthcare provider should aim to ensure that patients and caregivers can successfully perform all of the steps in the Instructions for Use of ZARXIO vial and prefilled syringe, including showing the patient or caregiver how to measure the required dose, particularly if a patient is on a dose other than the entire prefilled syringe.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO or whether the patient would benefit from a different ZARXIO presentation.
 
 Advise patients of the following risks and potential risks with ZARXIO:
 
@@ -19,7 +19,7 @@ Advise patients of the following risks and potential risks with ZARXIO:
 - •Glomerulonephritis may occur.
   Symptoms include swelling of the face or ankles, dark colored urine or blood in the urine, or a decrease in urine production.
   Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
-- •There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive filgrastim and in patients with breast and lung cancer who receive filgrastim in conjunction with chemotherapy and/or radiation therapy.
+- •There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive filgrastim products and in patients with breast and lung cancer who receive filgrastim products in conjunction with chemotherapy and/or radiation therapy.
   Symptoms of MDS and AML may include tiredness, fever, and easy bruising or bleeding.
   Advise patients to report to their physician signs and symptoms of MDS/AML [see Warnings and Precautions (5.8)].
 - •Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
@@ -29,27 +29,24 @@ Advise patients of the following risks and potential risks with ZARXIO:
   Advise patients to report signs and symptoms of aortitis to their physician immediately [see Warnings and Precautions (5.15)].
 - 
 
-Instruct patients who self-administer ZARXIO using the prefilled syringe of the:
+Instruct patients who self-administer ZARXIO using the prefilled syringe or single-dose vial of the:
 
 - •Importance of following the applicable Instructions for Use.
-- •Dangers of reusing needles, and syringes.
-- •Importance of following local requirements for proper disposal of used syringes.
+- •Dangers of reusing needles, syringes or unused portions of single-dose vials.
+- •Importance of following local requirements for proper disposal of used syringes, needles, and unused vials.
 - •Importance of informing the healthcare provider if difficulty occurs when measuring or administering partial contents of the ZARXIO prefilled syringe.
+  If difficulties occur, use of the ZARXIO vial may be considered.
+- •Difference in product concentration of the ZARXIO prefilled syringe in comparison to the ZARXIO vial.
+  When switching patients from the ZARXIO prefilled syringe to the ZARXIO vial, or vice versa, ensure that patients understand the correct volume to be administered since the concentration of ZARXIO differs between the prefilled syringe and the vial.
 
 ZARXIO® (filgrastim-sndz)
 
-ZARXIO is a registered trademark of Novartis AG
+UltraSafe and UltraSafe Passive are registered trademarks of Safety Syringes, Inc.
 
-UltraSafe Passive is a registered trademark of Safety Syringes, Inc.
+BD is a registered trademark of Becton, Dickinson and Company.
 
 Manufactured by:
 
 Sandoz Inc., Princeton, NJ 08540
 
 US License No. 2003
-
-At:
-
-Novartis Pharmaceutical Manufacturing GmbH
-
-Langkampfen, Austria
