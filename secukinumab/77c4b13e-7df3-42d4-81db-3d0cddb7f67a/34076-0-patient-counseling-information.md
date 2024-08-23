@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Infections
 
-Inform patients that COSENTYX may lower the ability of their immune system to fight infections.
+Inform patients that COSENTYX may lower the ability of their immune system to fight infections and that serious infections, including opportunistic infections, may occur with the use of COSENTYX.
 Instruct patients of the importance of communicating any history of infections to the doctor and contacting their doctor if they develop any symptoms of infection [see Warnings and Precautions (5.1)].
 
 Hypersensitivity
@@ -47,4 +47,4 @@ US License Number 1244
 
 © Novartis
 
-T2023-80
+T2024-64

@@ -45,7 +45,7 @@ The mean (± SD) steady-state trough concentrations ranged from 16.7 ± 8.2 mcg/
 In healthy subjects and subjects with PsO, secukinumab bioavailability ranged from 55% to 77% following subcutaneous COSENTYX dose of 150 mg or 300 mg (administered as two injections of 150 mg).
 
 Following subcutaneous administrations of 300 mg of COSENTYX at Weeks 0, 1, 2, 3, and 4 and then every 2 weeks thereafter, steady-state concentrations of secukinumab were achieved by Week 24 in both HS trials.
-The mean (± SD) steady-state trough concentrations were 55.7±28.9 mcg/mL and 50.5±28.2 mcg/mL in HS Trial 1 and HS Trial 2, respectively.
+The mean (± SD) steady-state trough concentrations were 55.7 ± 28.9 mcg/mL and 50.5 ± 28.2 mcg/mL in HS Trial 1 and HS Trial 2, respectively.
 
 Distribution
 

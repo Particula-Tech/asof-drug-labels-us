@@ -8,12 +8,15 @@ In placebo-controlled clinical trials in subjects with moderate to severe PsO, h
 A similar increase in risk of infection in subjects treated with COSENTYX was seen in placebo-controlled trials in subjects with PsA, AS and nr-axSpA.
 The incidence of some types of infections, including fungal infections, appeared to be dose-dependent in clinical trials [see Adverse Reactions (6.1)].
 
-In the postmarketing setting, serious and some fatal infections have been reported in patients treated with COSENTYX.
+In the postmarketing setting, serious bacterial, viral, and fungal opportunistic infections, and some fatal infections have been reported in patients receiving IL-17 inhibitors including COSENTYX.
+Cases of Hepatitis B virus reactivation have been reported [see Adverse Reactions (6.2)].
 
 Exercise caution when considering the use of COSENTYX in patients with a chronic infection or a history of recurrent infection.
-
 Instruct patients to seek medical advice if signs or symptoms suggestive of an infection occur.
 If a patient develops a serious infection, monitor the patient closely and discontinue COSENTYX until the infection resolves.
+
+If signs of Hepatitis B virus reactivation occur, consult a hepatitis specialist.
+COSENTYX is not recommended for use in patients with active viral hepatitis.
 
 ## 5.2 Hypersensitivity Reactions
 
@@ -27,6 +30,8 @@ Avoid administration of COSENTYX to patients with active TB infection.
 Initiate treatment of latent TB prior to administering COSENTYX.
 Consider anti-TB therapy prior to initiation of COSENTYX in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
 Monitor patients closely for signs and symptoms of active TB during and after treatment.
+
+In the postmarketing setting, cases were reported where patients with a history of latent tuberculosis (TB) who were treated with COSENTYX developed active TB.
 
 ## 5.4 Inflammatory Bowel Disease
 
