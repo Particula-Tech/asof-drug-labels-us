@@ -4,4 +4,4 @@ For Intramuscular or Intra-articular Use Only NOT FOR INTRAVENOUS, INTRADERMAL, 
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Revised: June 2024
+Revised: Aug 2024

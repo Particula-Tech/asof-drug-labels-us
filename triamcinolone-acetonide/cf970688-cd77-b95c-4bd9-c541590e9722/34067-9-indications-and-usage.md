@@ -2,7 +2,7 @@
 
 ## Intramuscular
 
-Where oral therapy is not feasible, injectable corticosteroid therapy, including KENALOG-40 Injection and KENALOG-80 Injection (triamcinolone acetonide injectable suspension, USP) are indicated for intramuscular use as follows:
+Where oral therapy is not feasible, injectable corticosteroid therapy, including KENALOG-40 Injection and KENALOG-80 Injection (triamcinolone acetonide injectable suspension, USP) is indicated for intramuscular use as follows:
 
 Allergic states: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis, serum sickness, transfusion reactions.
 

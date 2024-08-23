@@ -4,7 +4,7 @@
 
 The following adverse reactions may be associated with corticosteroid therapy:
 
-Allergic reactions: Anaphylaxis including death, angioedema.
+Allergic reactions: Anaphylaxis including death, and angioedema.
 
 Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction (see WARNINGS), pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis.
 

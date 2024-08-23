@@ -186,7 +186,7 @@ Special consideration should be given to patients at increased risk of osteoporo
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-(See DOSAGE AND ADMINISTRATION.)
+(See DOSAGE AND ADMINISTRATION).
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.

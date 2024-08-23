@@ -56,7 +56,8 @@ Single injections into several joints, up to a total of 80 mg, have been given.
 STRICT ASEPTIC TECHNIQUE IS MANDATORY.
 The vial should be shaken before use to ensure a uniform suspension.
 Prior to withdrawal, the suspension should be inspected for clumping or granular appearance (agglomeration).
-An agglomerated product results from exposure to freezing temperatures and should not be used.
+Agglomeration occurs when the drug substance separates from the solution and appears as a white precipitate in the vial.
+An agglomerated product should be discarded and should not be used.
 After withdrawal, KENALOG-40 Injection and KENALOG-80 Injection should be injected without delay to prevent settling in the syringe.
 Careful technique should be employed to avoid the possibility of entering a blood vessel or introducing infection.
 
