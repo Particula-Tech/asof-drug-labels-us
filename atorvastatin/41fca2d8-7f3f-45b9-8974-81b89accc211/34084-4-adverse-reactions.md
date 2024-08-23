@@ -107,9 +107,9 @@ Musculoskeletal and connective tissue disorders: rhabdomyolysis, myositis.
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use.
 
 Nervous system disorders: dizziness, peripheral neuropathy.
-
 There have been rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with the use of all statins.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+There have been rare reports of new onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
 
 Psychiatric disorders: depression
 
