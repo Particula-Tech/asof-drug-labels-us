@@ -19,13 +19,13 @@ An unexplained fall in hematocrit or fall in blood pressure should lead to serio
 
 Use heparin sodium with caution in disease states in which there is increased risk of hemorrhage, including:
 
-- Cardiovascular – Subacute bacterial endocarditis, severe hypertension.
-- Surgical – During and immediately following: (a) spinal puncture or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
-- Hematologic – Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
-- Patients with hereditary antithrombin III deficiency receiving concurrent antithrombin III therapy – The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
+- •Cardiovascular – Subacute bacterial endocarditis, severe hypertension.
+- •Surgical – During and immediately following: (a) spinal puncture or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord, or eye.
+- •Hematologic – Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
+- •Patients with hereditary antithrombin III deficiency receiving concurrent antithrombin III therapy – The anticoagulant effect of heparin is enhanced by concurrent treatment with antithrombin III (human) in patients with hereditary antithrombin III deficiency.
   To reduce the risk of bleeding, reduce the heparin dose during concomitant treatment with antithrombin III (human).
-- Gastrointestinal – Ulcerative lesions, continuous tube drainage of the stomach or small intestine, and clinical settings in which stress-induced gastrointestinal hemorrhage is possible.
-- Other – Menstruation, liver disease with impaired hemostasis, severe renal disease, or in patients with indwelling catheters.
+- •Gastrointestinal – Ulcerative lesions, continuous tube drainage of the stomach or small intestine, and clinical settings in which stress-induced gastrointestinal hemorrhage is possible.
+- •Other – Menstruation, liver disease with impaired hemostasis, severe renal disease, or in patients with indwelling catheters.
 
 ## 5.3 Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis
 
@@ -74,3 +74,10 @@ Adjustment of heparin doses based on anti-Factor Xa levels may be warranted.
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
 
 Because HEPARIN SODIUM INJECTION is derived from animal tissue, it should be used with caution in patients with a history of allergy.
+
+## 5.9 Hyperkalemia
+
+Heparin can suppress adrenal secretion of aldosterone leading to hyperkalemia, particularly in patients with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, a raised plasma potassium, or taking potassium sparing drugs.
+The risk of hyperkalemia appears to increase with duration of therapy but is usually reversible upon discontinuation of heparin.
+
+Measure blood potassium in patients at risk of hyperkalemia before starting heparin therapy and periodically in all patients treated for more than 5 days or earlier as deemed fit by the clinician.
