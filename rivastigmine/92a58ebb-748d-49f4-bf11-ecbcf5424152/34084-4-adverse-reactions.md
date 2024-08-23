@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described below and elsewhere in the labeling:
+The following clinically significant adverse reactions are described below and elsewhere in the labeling:
 
 - •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)].
 - •Skin Reactions [see Warnings and Precautions (5.3)].
@@ -37,35 +37,28 @@ The unapproved 17.4 mg/24 hours rivastigmine transdermal system arm is included 
 
 Table 1: Proportion of Adverse Reactions Observed With a Frequency of Greater Than or Equal to 2% and Occurring at a Rate Greater Than Placebo in Study 1
 
-|  | Rivastigmine Transdermal System 9.5 mg/24 hours | Rivastigmine Transdermal System 17.4 mg/24 hours | Rivastigmine Tartrate Capsule 6 mg twice daily | Placebo |
+| Adverse reaction | Rivastigmine Transdermal System 9.5 mg/24 hours | Rivastigmine Transdermal System 17.4 mg/24 hours | Rivastigmine Tartrate Capsule 6 mg twice daily | Placebo |
 | --- | --- | --- | --- | --- |
-| Total Patients Studied | 291 | 303 | 294 | 302 |
-| Total Percentage of Patients with ARs (%) | 51 | 66 | 63 | 46 |
+| Total patients studied | 291 | 303 | 294 | 302 |
+| Total percentage of patients with ARs (%) | 51 | 66 | 63 | 46 |
 | Nausea | 7 | 21 | 23 | 5 |
-| Vomiting* | 6 | 19 | 17 | 3 |
+| VomitingVomiting was severe in 0% of patients who received rivastigmine transdermal system 9.5 mg/24 hours, 1% of patients who received rivastigmine transdermal system 17.4 mg/24 hours, 1% of patients who received the rivastigmine tartrate capsule at doses up to 6 mg twice daily, and 0% of those who received placebo. | 6 | 19 | 17 | 3 |
 | Diarrhea | 6 | 10 | 5 | 3 |
 | Depression | 4 | 4 | 4 | 1 |
 | Headache | 3 | 4 | 6 | 2 |
 | Anxiety | 3 | 3 | 2 | 1 |
-| Anorexia/Decreased Appetite | 3 | 9 | 9 | 2 |
-| Weight Decreased** | 3 | 8 | 5 | 1 |
+| Anorexia/Decreased appetite | 3 | 9 | 9 | 2 |
+| Weight decreasedWeight Decreased as presented in Table 1 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was also monitored at prespecified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 8% of those treated with rivastigmine transdermal system 9.5 mg/24 hours, 12% of those treated with rivastigmine transdermal system 17.4 mg/24 hours, 11% of patients who received the rivastigmine tartrate capsule at doses up to 6 mg twice daily and 6% of those who received placebo. It is not clear how much of the weight loss was associated with anorexia, nausea, vomiting, and the diarrhea associated with the drug. | 3 | 8 | 5 | 1 |
 | Dizziness | 2 | 7 | 7 | 2 |
-| Abdominal Pain | 2 | 4 | 1 | 1 |
-| Urinary Tract Infection | 2 | 2 | 1 | 1 |
+| Abdominal pain | 2 | 4 | 1 | 1 |
+| Urinary tract infection | 2 | 2 | 1 | 1 |
 | Asthenia | 2 | 3 | 6 | 1 |
 | Fatigue | 2 | 2 | 1 | 1 |
 | Insomnia | 1 | 4 | 2 | 2 |
-| Abdominal Pain Upper | 1 | 3 | 2 | 2 |
+| Abdominal pain upper | 1 | 3 | 2 | 2 |
 | Vertigo | 0 | 2 | 1 | 1 |
 
 Abbreviation: ARs, adverse reactions.
-
-*Vomiting was severe in 0% of patients who received rivastigmine transdermal system 9.5 mg/24 hours, 1% of patients who received rivastigmine transdermal system 17.4 mg/24 hours, 1% of patients who received the rivastigmine tartrate capsule at doses up to 6 mg twice daily, and 0% of those who received placebo.
-
-**Weight Decreased as presented in Table 1 is based upon clinical observations and/or adverse events reported by patients or caregivers.
-Body weight was also monitored at prespecified time points throughout the course of the clinical study.
-The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 8% of those treated with rivastigmine transdermal system 9.5 mg/24 hours, 12% of those treated with rivastigmine transdermal system 17.4 mg/24 hours, 11% of patients who received the rivastigmine tartrate capsule at doses up to 6 mg twice daily and 6% of those who received placebo.
-It is not clear how much of the weight loss was associated with anorexia, nausea, vomiting, and the diarrhea associated with the drug.
 
 48-Week International Active Comparator-Controlled Trial (Study 2)
 
@@ -81,12 +74,12 @@ Discontinuation Rates
 
 Table 2 displays the most common adverse reactions leading to discontinuation during the 48-week, double-blind treatment phase in Study 2.
 
-Table 2: Proportion of Most Common Adverse Reactions (greater than 1% at any dose) Leading to Discontinuation During 48-week Double-Blind Treatment Phase in Study 2
+Table 2: Proportion of Most Common Adverse Reactions (Greater Than 1% at any Dose) Leading to Discontinuation During 48-week Double-Blind Treatment Phase in Study 2
 
-|  | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 9.5 mg/24 hours | Total |
+| Adverse reaction | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 9.5 mg/24 hours | Total |
 | --- | --- | --- | --- |
-| Total Patients Studied | 280 | 283 | 563 |
-| Total Percentage of Patients with ARs Leading to Discontinuation (%) | 9.6 | 12.7 | 11.2 |
+| Total patients studied | 280 | 283 | 563 |
+| Total percentage of patients with ARs leading to discontinuation (%) | 9.6 | 12.7 | 11.2 |
 | Vomiting | 1.4 | 0.4 | 0.9 |
 | Application-site pruritus | 1.1 | 1.1 | 1.1 |
 | Aggression | 0.4 | 1.1 | 0.7 |
@@ -99,17 +92,17 @@ Other adverse reactions of interest which occurred less frequently, but which we
 The percentage of patients with these reactions decreased over time in each treatment group (Table 3).
 The adverse reaction severity profile was generally similar for both the rivastigmine transdermal system 13.3 mg/24 hours and 9.5 mg/24 hours groups.
 
-Table 3: Proportion of Adverse Reactions Over Time in the 48-week Double-Blind Treatment Phase (at least 3% in any treatment group) in Study 2
+Table 3: Proportion of Adverse Reactions Over Time in the 48-week Double-Blind Treatment Phase (at least 3% in any Treatment Group) in Study 2
 
 |  | Cumulative Week 0 to 48 (DB Phase) |  | Week 0 to 24 (DB Phase) |  | Week >24 to 48 (DB Phase) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Preferred Term | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 9.5 mg/ 24 hours | Rivastigmine Transdermal System 13.3 mg/ 24 hours | Rivastigmine Transdermal System 9.5 mg/ 24 hours | Rivastigmine Transdermal System 13.3 mg/ 24 hours | Rivastigmine Transdermal System 9.5 mg/ 24 hours |
-| Total Patients Studied | 280 | 283 | 280 | 283 | 241 | 246 |
-| Total Percentage of Patients with ARs (%) | 75 | 68 | 65 | 55 | 42 | 40 |
+| Adverse reaction‌ | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 9.5 mg/ 24 hours | Rivastigmine Transdermal System 13.3 mg/ 24 hours | Rivastigmine Transdermal System 9.5 mg/ 24 hours | Rivastigmine Transdermal System 13.3 mg/ 24 hours | Rivastigmine Transdermal System 9.5 mg/ 24 hours |
+| Total patients studied | 280 | 283 | 280 | 283 | 241 | 246 |
+| Total percentage of patients with ARs (%) | 75 | 68 | 65 | 55 | 42 | 40 |
 | Nausea | 12 | 5 | 10 | 4 | 4 | 2 |
 | Vomiting | 10 | 5 | 9 | 3 | 3 | 2 |
 | Fall | 8 | 6 | 4 | 4 | 4 | 3 |
-| Weight decreased* | 7 | 3 | 3 | 1 | 5 | 2 |
+| Weight decreasedDecreased Weight as presented in Table 3 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was monitored as a vital sign at pre-specified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 15.2% of those treated with rivastigmine transdermal system 9.5 mg/24 hours and 18.6% of those treated with rivastigmine transdermal system 13.3 mg/24 hours during the 48-week double-blind treatment period. | 7 | 3 | 3 | 1 | 5 | 2 |
 | Application-site erythema | 6 | 6 | 6 | 5 | 1 | 2 |
 | Decreased appetite | 6 | 3 | 5 | 2 | 2 | <1 |
 | Diarrhea | 6 | 5 | 5 | 4 | 2 | <1 |
@@ -128,10 +121,6 @@ Table 3: Proportion of Adverse Reactions Over Time in the 48-week Double-Blind T
 | Aggression | 2 | 3 | 1 | 3 | 1 | 1 |
 
 Abbreviations: DB, double blind; ARs, adverse reactions.
-
-*Decreased Weight as presented in Table 3 is based upon clinical observations and/or adverse events reported by patients or caregivers.
-Body weight was monitored as a vital sign at pre-specified time points throughout the course of the clinical study.
-The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 15.2% of those treated with rivastigmine transdermal system 9.5 mg/24 hours and 18.6% of those treated with rivastigmine transdermal system 13.3 mg/24 hours during the 48-week double-blind treatment period.
 
 Severe Alzheimer’s Disease
 
@@ -157,27 +146,25 @@ Slightly more patients in the 4.6 mg/24 hours patch group reported mild events t
 Severe adverse reactions were reported at a slightly higher percentage at the higher dose (12.4%) than at the lower-dose (10%) treatment groups.
 With the exception of severe adverse reactions of agitation (13.3 mg: 1.1%; 4.6 mg: 1.4%), fall (13.3 mg: 1.1%) and urinary tract infection (4.6 mg: 1.1%), all adverse reactions reported as severe occurred in less than 1% of patients in either treatment group.
 
-Table 4: Proportion of Adverse Reactions in the 24-week Double-Blind Treatment Phase (at least 5% in any treatment group) in Study 3
+Table 4: Proportion of Adverse Reactions in the 24-week Double-Blind Treatment Phase (at least 5% in any Treatment Group) in Study 3
 
-| Preferred term | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 4.6 mg/24 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Total number of patients studied | 355 | 359 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Total percentage of patients with ARs (%) | 75 | 73 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Application-site erythema | 13 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Agitation | 12 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Urinary tract infection | 8 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fall | 8 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Insomnia | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 7 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 7 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weight decreased* | 7 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 6 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Depression | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased appetite | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anxiety | 5 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hallucination | 2 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abbreviation: ARs, adverse reactions. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *Weight Decreased as presented in Table 4 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was monitored as a vital sign at prespecified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 11% of those treated with rivastigmine transdermal system 4.6 mg/24 hours and 14.1% of those treated with rivastigmine transdermal system 13.3 mg/24 hours during the 24-week double-blind treatment. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse reaction‌ | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 4.6 mg/24 hours |
+| --- | --- | --- |
+| Total number of patients studied | 355 | 359 |
+| Total percentage of patients with ARs (%) | 75 | 73 |
+| Application-site erythema | 13 | 12 |
+| Agitation | 12 | 14 |
+| Urinary tract infection | 8 | 10 |
+| Fall | 8 | 6 |
+| Insomnia | 7 | 4 |
+| Vomiting | 7 | 3 |
+| Diarrhea | 7 | 5 |
+| Weight decreasedWeight Decreased as presented in Table 4 is based upon clinical observations and/or adverse events reported by patients or caregivers. Body weight was monitored as a vital sign at prespecified time points throughout the course of the clinical study. The proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 11% of those treated with rivastigmine transdermal system 4.6 mg/24 hours and 14.1% of those treated with rivastigmine transdermal system 13.3 mg/24 hours during the 24-week double-blind treatment. | 7 | 3 |
+| Nausea | 6 | 3 |
+| Depression | 5 | 4 |
+| Decreased appetite | 5 | 1 |
+| Anxiety | 5 | 5 |
+| Hallucination | 2 | 5 |
 
 Application-Site Reactions
 
@@ -200,16 +187,16 @@ Adverse reactions are presented in Table 5.
 
 Table 5: Proportion of Adverse Reactions Reported at a Rate Greater Than or Equal to 2% During the Initial 24-Week Period in Study 4
 
-| Adverse Drug Reactions | Rivastigmine Transdermal System |
+| Adverse reaction | Rivastigmine Transdermal System |
 | --- | --- |
 | Total patients studied | 288 |
 |  | Percentage (%) |
-| Psychiatric Disorders |  |
+| Psychiatric disorders |  |
 | Insomnia | 6 |
 | Depression | 6 |
 | Anxiety | 5 |
 | Agitation | 3 |
-| Nervous System Disorders |  |
+| Nervous system disorders |  |
 | Tremor | 7 |
 | Dizziness | 6 |
 | Somnolence | 4 |
@@ -217,11 +204,11 @@ Table 5: Proportion of Adverse Reactions Reported at a Rate Greater Than or Equa
 | Bradykinesia | 4 |
 | Cogwheel rigidity | 3 |
 | Dyskinesia | 3 |
-| Gastrointestinal Disorders |  |
+| Gastrointestinal disorders |  |
 | Abdominal pain | 2 |
-| Vascular Disorders |  |
+| Vascular disorders |  |
 | Hypertension | 3 |
-| General Disorders and Administration-site Conditions |  |
+| General disorders and administration-site conditions |  |
 | Fall | 12 |
 | Application-site erythema | 11 |
 | Application-site irritation, pruritus, rash | 3; 5; 2 |
@@ -238,7 +225,7 @@ In patients with dementia associated with Parkinson’s disease, the following a
 The following adverse reactions have been identified during post approval use of rivastigmine tartrate capsules, rivastigmine tartrate oral solution, or rivastigmine transdermal system.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac Disorders: Tachycardia
+Cardiac Disorders: Tachycardia, QTc prolongation, torsades de pointes
 
 Hepatobiliary Disorders: Abnormal liver function tests, hepatitis
 

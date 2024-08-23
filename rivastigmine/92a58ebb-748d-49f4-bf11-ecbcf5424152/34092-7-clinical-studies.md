@@ -65,7 +65,7 @@ The 13.3 mg/24 hours dose was statistically significantly superior to the 9.5 mg
 Figure 6 illustrates the time course for the mean change from double-blind baseline in ADAS-Cog scores for both treatment groups over the 48-week treatment phase.
 The between-treatment group difference for rivastigmine transdermal system 13.3 mg/24 hours versus rivastigmine transdermal system 9.5 mg/24 hours was nominally statistically significant at week 24 (p=0.027), but not at week 48 (p=0.227), which was the primary endpoint.
 
-Figure 5: Time Course of the Change from Double-Blind Baseline in ADCS-IADL Score for Patients Observed at Each Time Point in Study 2
+Figure 5: Time Course of the Change From Double-Blind Baseline in ADCS-IADL Score for Patients Observed at Each Time Point in Study 2
 
 Severe Alzheimer’s Disease
 
@@ -100,6 +100,6 @@ Figure 8 illustrates the time course for the mean change from baseline in ADCS-A
 Decline in the mean ADCS-ADL-SIV score from baseline for the MFAS-LOCF analysis was less at each timepoint in the 13.3 mg/24 hours rivastigmine transdermal system treatment group than in the 4.6 mg/24 hours rivastigmine transdermal system treatment group.
 The 13.3 mg/24 hours dose was statistically significantly superior to the 4.6 mg/24 hours dose at weeks 16 and 24 (primary endpoint).
 
-Figure 7: Time Course of the Change from Baseline in SIB Score for Patients Observed at Each Time Point (Modified Full Analysis Set-LOCF)
+Figure 7: Time Course of the Change From Baseline in SIB Score for Patients Observed at Each Time Point (Modified Full Analysis Set-LOCF)
 
-Figure 8: Time Course of the Change from Baseline in ADCS-ADL-SIV Score for Patients Observed at Each Time Point (Modified Full Analysis Set-LOCF)
+Figure 8: Time Course of the Change From Baseline in ADCS-ADL-SIV Score for Patients Observed at Each Time Point (Modified Full Analysis Set-LOCF)

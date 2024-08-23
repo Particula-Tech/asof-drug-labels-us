@@ -7,9 +7,9 @@ Due to the risk of additive extra-pyramidal adverse reactions, the concomitant u
 ## 7.2 Cholinomimetic and Anticholinergic Medications
 
 Rivastigmine transdermal system may increase the cholinergic effects of other cholinomimetic medications and may also interfere with the activity of anticholinergic medications (e.g., oxybutynin, tolterodine).
-Concomitant use of rivastigmine transdermal system with medications having these pharmacologic effects is not recommended unless deemed clinically necessary [see Warnings and Precautions (5.4)].
+Concomitant use of rivastigmine transdermal system with medications having these pharmacologic effects is not recommended unless deemed clinically necessary [see Warnings and Precautions (5.5)].
 
-## 7.3 Beta-blockers
+## 7.3 Beta-Blockers
 
 Additive bradycardic effects resulting in syncope may occur when rivastigmine is used concomitantly with beta-blockers, especially cardioselective beta-blockers (including atenolol).
 Concomitant use is not recommended when signs of bradycardia, including syncope are present.

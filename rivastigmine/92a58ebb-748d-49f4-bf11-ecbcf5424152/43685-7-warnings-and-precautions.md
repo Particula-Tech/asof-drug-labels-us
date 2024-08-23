@@ -60,7 +60,6 @@ Cardiac Conduction Effects
 
 Because rivastigmine increases cholinergic activity, use of the rivastigmine transdermal system may have vagotonic effects on heart rate (e.g., bradycardia).
 The potential for this action may be particularly important in patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
-In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or electrocardiogram (ECG) abnormalities.
 
 Genitourinary Effects
 

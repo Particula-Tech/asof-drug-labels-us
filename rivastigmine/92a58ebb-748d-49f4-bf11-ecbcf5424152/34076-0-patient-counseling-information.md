@@ -48,5 +48,3 @@ Pregnancy
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
 Distributed by: Sandoz Inc. Princeton, NJ 08540
-
-T2020-99
