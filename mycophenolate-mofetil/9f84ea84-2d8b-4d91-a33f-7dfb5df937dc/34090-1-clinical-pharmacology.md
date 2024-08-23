@@ -41,10 +41,10 @@ Table 10 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administrati
 | Early (Less than 40 days) | 1 g/oral | 1.31 (±0.76) (n=25) | 8.16 (±4.50) (n=25) | 27.3 (±10.9) (n=25) |
 | Early (Less than 40 days) | 1.5 g/oral | 1.21 (±0.81) (n=27) | 13.5 (±8.18) (n=27) | 38.4 (±15.4) (n=27) |
 | Late (Greater than 3 months) | 1.5 g/oral | 0.90 (±0.24) (n=23) | 24.1 (±12.1) (n=23) | 65.3 (±35.4) (n=23) |
-| Heart transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0­-12h) (mcg•h/mL) |
+| Heart transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h) (mcg•h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (±1.3) (n=11) | 11.5 (±6.8) (n=11) | 43.3 (±20.8) (n=9) |
 | Late (Greater than 6 months) | 1.5 g/oral | 1.1 (±0.7) (n=52) | 20.0 (±9.4) (n=52) | 54.1a (±20.4) (n=49) |
-| Liver transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0­-12h) (mcg•h/mL) |
+| Liver transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h) (mcg•h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 (±0.517) (n=22) | 17.0 (±12.7) (n=22) | 34.0 (±17.4) (n=22) |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15 (±0.432) (n=20) | 13.1 (±6.76) (n=20) | 29.2 (±11.9) (n=20) |
 | Late (Greater than 6 months) | 1.5 g/oral | 1.54 (±0.51) (n=6) | 19.3 (±11.7) (n=6) | 49.3 (±14.8) (n=6) |
@@ -162,7 +162,7 @@ Table 12 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time
 | 1 to less than 2 yr (4)d 1 to less than 6 yr (15) 6 to less than 12 yr (14) 12 to 18 yr (17) | Late (Month 3) | 0.725 (0.276) 0.989 (0.511) 1.21 (0.532) 0.978 (0.484) | 23.8 (13.4) 22.7 (10.1) 27.8 (14.3) 17.9 (9.57) | 47.4 (14.7) 49.7 (18.2) 61.9 (19.6) 53.6 (20.3)c |
 | 1 to less than 2 yr (4)d 1 to less than 6 yr (12) 6 to less than 12 yr (11) 12 to 18 yr (14) | Late (Month 9) | 0.604 (0.208) 0.869 (0.479) 1.12 (0.462) 1.09 (0.518) | 25.6 (4.25) 30.4 (9.16) 29.2 (12.6) 18.1 (7.29) | 55.8 (11.6) 61.0 (10.7) 66.8 (21.2) 56.7 (14.0) |
 
-aadjusted to a dose of 600 mg/m2 bn=20 cn=16 da subset of 1 to less than 6 yr The mycophenolate mofetil for oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
+a adjusted to a dose of 600 mg/m2 b n=20 c n=16 d a subset of 1 to less than 6 yr The mycophenolate mofetil for oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
 There was wide variability in the data.
 As observed in adults, early post-transplant MPA AUC values were approximately 45% to 53% lower than those observed in the later post-transplant period (greater than 3 months).
 MPA AUC values were similar in the early and late post-transplant period across the 1 to 18-year age range.
@@ -217,7 +217,7 @@ This information should be taken into consideration when MMF is used without cyc
 
 Drugs Affecting Glucuronidation
 
-Concomitant administration of drugs inhibiting glucuronidation of MPA may increase MPA exposure (e.g., increase of MPA AUC (0-∞) by 35% was observed with concomitant administration of isavuconazole).
+Concomitant administration of drugs inhibiting glucuronidation of MPA may increase MPA exposure (e.g., increase of MPA AUC (0-∞) by 35% was observed with concomitant administration of is avuconazole).
 
 Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease in MPA concentrations.
 Telmisartan changes MPA’s elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and glucuronidation activity.

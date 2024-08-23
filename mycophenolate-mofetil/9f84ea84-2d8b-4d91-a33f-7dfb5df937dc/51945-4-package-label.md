@@ -26,11 +26,11 @@ Rx only
 
 Ascend Laboratories, LLC
 
-NDC 67877-266-38
+NDC 67877-225-01
 
 Mycophenolate Mofetil Tablets, USP
 
-250 mg
+500 mg
 
 100 Tablets
 
@@ -38,11 +38,11 @@ Rx only
 
 Ascend Laboratories, LLC
 
-NDC 67877-266-38
+NDC 67877-225-05
 
 Mycophenolate Mofetil Tablets, USP
 
-250 mg
+500 mg
 
 500Tablets
 

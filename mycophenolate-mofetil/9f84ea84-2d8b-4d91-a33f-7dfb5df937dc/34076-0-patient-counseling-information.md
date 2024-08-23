@@ -74,6 +74,10 @@ Advise males of childbearing potential not to donate semen during therapy and fo
 Advise patients that mycophenolate mofetil can affect the ability to drive or operate machines.
 Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [see Warnings and Precautions (5.14)].
 
-Manufactured by: Alkem Laboratories Ltd., INDIA.
+For Medication Guide, please visit:
+
+http://www.ascendlaboratories.com/mg/mycomofetil.pdf
+
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054

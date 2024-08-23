@@ -101,8 +101,7 @@ If neutropenia develops (ANC less than 1.3 x 103/mcL), dosing with mycophenolate
 General Preparation Instructions Before Handling the Formulations
 
 Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans.
-Follow applicable special handling and disposal procedures1.
-[see Warnings and Precautions (5.1), Adverse Reactions (6.2), Use in Specific Populations (8.1, 8.3), How Supplied/Storage and Handling (16.1)].
+Follow applicable special handling and disposal procedures1 [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Use in Specific Populations (8.1, 8.3), How Supplied/Storage and Handling (16.1)].
 
 Care should be taken to avoid inhalation or direct contact with skin or mucous membranes of the dry powder or the constituted suspension because MMF has demonstrated teratogenic effects in humans.
 Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table surface after reconstitution.

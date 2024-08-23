@@ -70,10 +70,12 @@ These serious infections can include:
   In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
   You are at risk for this brain infection because you have a weakened immune system.
   Call your doctor right away if you have any of the following symptoms:
-  - weakness on one side of the body
-  - you do not care about things you usually care about (apathy)
-  - you are confused or have problems thinking
-  - you cannot control your muscles
+
+- weakness on one side of the body
+- you do not care about things you usually care about (apathy)
+- you are confused or have problems thinking
+- you cannot control your muscles
+
 - Fungal infections.
   Yeasts and other types of fungal infections can happen with mycophenolate mofetil and can cause serious tissue and blood infections (See “What are the possible side effects of mycophenolate mofetil?”).
 
@@ -280,11 +282,15 @@ For more information call at Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+For Medication Guide, please visit:
+
+http://www.ascendlaboratories.com/mg/mycomofetil.pdf
+
 Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai - 400 013, INDIA.
 
 Distributed by:
 
@@ -292,6 +298,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: September, 2022
+Revised: May 2024
 
-PT 2075-12
+PT 2075-13

@@ -89,12 +89,6 @@ Advise patients to discuss with the physician before seeking any immunizations.
 
 Mycophenolate mofetil intravenous solution must not be administered by rapid or bolus intravenous injection as rapid infusion increases the risk of local adverse reactions such as phlebitis and thrombosis [see Adverse Reactions (6.1)].
 
-## 5.10 Risks in Patients with Phenylketonuria
-
-Phenylalanine can be harmful to patients with phenylketonuria (PKU).
-Mycophenolate mofetil for oral suspension contains aspartame, a source of phenylalanine (0.56 mg phenylalanine/mL suspension).
-Before prescribing mycophenolate mofetil for oral suspension to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including mycophenolate mofetil.
-
 ## 5.11 Blood Donation
 
 Patients should not donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil because their blood or blood products might be administered to a female of reproductive potential or a pregnant woman.
