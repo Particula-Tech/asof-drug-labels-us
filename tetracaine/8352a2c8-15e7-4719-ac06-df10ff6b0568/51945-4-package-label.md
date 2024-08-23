@@ -1,6 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- Carton 15 mL
 
-NDC 24208-092-15
+NDC24208-092-15
 
 Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% (Sterile)
 
@@ -12,4 +12,4 @@ Rx only
 
 BAUSCH + LOMB
 
-9780900
+9780901

@@ -16,4 +16,4 @@ Patients should not touch the eye for at least 10-20 minutes after using anesthe
 ## 5.4 For Administration by Healthcare Provider
 
 Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% is indicated for administration under the direct supervision of a healthcare provider.
-Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% is not intended for patient self-administration [see Warnings and Precautions (5.2)].
+Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% is not intended for patient self-administration [seeWarnings and Precautions (5.2)].
