@@ -1,10 +1,12 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 15 mL carton
 
-NDC 82260-920-15
+NDC82260-920-15
 
 Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% (Sterile)
 
 FOR OPHTHALMIC USE
+
+[EYE IMAGE]
 
 Rx only
 
@@ -12,4 +14,4 @@ Rx only
 
 BAUSCH + LOMB
 
-9780300 AB09111
+9780301 MA09111

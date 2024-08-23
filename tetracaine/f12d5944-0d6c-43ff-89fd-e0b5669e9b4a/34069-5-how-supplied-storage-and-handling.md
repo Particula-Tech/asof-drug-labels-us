@@ -7,6 +7,6 @@ Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% is supplied as a sterile,
 
 After opening, this product can be used until the expiration date stamped on the bottle.
 
-Storage: Store at 15°C to 25°C (59°F to 77°F).
+Storage:Store at 15°C to 25°C (59°F to 77°F).
 Protect from light.
 Do not use if solution contains crystals, cloudy, or discolored.
