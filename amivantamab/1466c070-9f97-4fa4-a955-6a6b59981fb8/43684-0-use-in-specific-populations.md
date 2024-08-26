@@ -49,8 +49,8 @@ The safety and efficacy of RYBREVANT have not been established in pediatric pati
 
 ## 8.5 Geriatric Use
 
-Of the 151 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with carboplatin and pemetrexed in the PAPILLON study, 37% were ≥65 years of age and 8% were ≥75 years of age.
-
-Of the 302 patients with locally advanced or metastatic NSCLC treated with RYBREVANT as a single agent in the CHRYSALIS study, 39% were ≥65 years of age and 11% were ≥75 years of age.
+- Of the 421 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with lazertinib in the MARIPOSA study, 45% were ≥65 years of age and 12% were ≥75 years of age.
+- Of the 151 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with carboplatin and pemetrexed in the PAPILLON study, 37% were ≥65 years of age and 8% were ≥75 years of age.
+- Of the 302 patients with locally advanced or metastatic NSCLC treated with RYBREVANT as a single agent in the CHRYSALIS study, 39% were ≥65 years of age and 11% were ≥75 years of age.
 
 No clinically important differences in safety or efficacy were observed between patients who were ≥65 years of age and younger patients.

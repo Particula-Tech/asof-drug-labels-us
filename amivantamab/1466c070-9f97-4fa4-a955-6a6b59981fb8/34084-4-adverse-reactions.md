@@ -4,14 +4,21 @@ The following adverse reactions are discussed elsewhere in the labeling:
 
 - Infusion-Related Reactions [see Warnings and Precautions (5.1)]
 - Interstitial Lung Disease/Pneumonitis [see Warnings and Precautions (5.2)]
-- Dermatologic Adverse Reactions [see Warnings and Precautions (5.3)]
-- Ocular Toxicity [see Warnings and Precautions (5.4)]
+- Venous Thromboembolic Events [see Warnings and Precautions (5.3)]
+- Dermatologic Adverse Reactions [see Warnings and Precautions (5.4)]
+- Ocular Toxicity [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described in the WARNINGS AND PRECAUTIONS reflect exposure to RYBREVANT in combination with carboplatin and pemetrexed in the PAPILLON study in 151 patients with locally advanced or metastatic NSCLC.
+The data described in the WARNINGS AND PRECAUTIONS reflect exposure to RYBREVANT in combination with lazertinib in the MARIPOSA study in 421 patients with previously untreated locally advanced or metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R substitution mutations in MARIPOSA [see Clinical Studies (14)].
+Patients received RYBREVANT intravenously at 1,050 mg (for patients < 80 kg) or 1,400 mg (for patients ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5 in combination with lazertinib, 240 mg orally once daily, until disease progression or unacceptable toxicity.
+Among 421 patients who received RYBREVANT in combination with lazertinib, 73% were exposed for 6 months or longer and 59% were exposed for greater than one year.
+The most common adverse reactions (≥20%) were rash, nail toxicity, infusion-related reaction, edema, musculoskeletal pain, stomatitis, VTE, paresthesia, fatigue, diarrhea, constipation, COVID-19, dry skin, hemorrhage, decreased appetite, pruritus, nausea and ocular toxicity.
+The most common Grade 3 or 4 laboratory abnormalities (≥ 2%) were decreased albumin, increased ALT, decreased sodium, decreased hemoglobin, increased AST, increased GGT and increased magnesium.
+
+The data described in the WARNINGS AND PRECAUTIONS also reflect exposure to RYBREVANT in combination with carboplatin and pemetrexed in the PAPILLON study in 151 patients with locally advanced or metastatic NSCLC.
 Patients received RYBREVANT intravenously at 1400 mg (for patients < 80 kg) or 1750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients < 80 kg) or 2100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity, in combination with carboplatin at area under the curve AUC 5 once every 3 weeks, for up to 12 weeks, and pemetrexed at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
 Among 151 patients who received RYBREVANT in combination with carboplatin and pemetrexed, 76% were exposed for 6 months or longer and 38% were exposed for greater than one year.
 In the safety population, the most common (≥ 20%) adverse reactions were rash, nail toxicity, stomatitis, infusion-related reaction, fatigue, edema, constipation, decreased appetite, nausea, COVID-19, diarrhea, and vomiting.
@@ -22,6 +29,105 @@ Patients received RYBREVANT at 1050 mg (for patient baseline body weight < 80 kg
 Among 302 patients who received RYBREVANT as a single agent, 36% were exposed for 6 months or longer and 12% were exposed for greater than one year.
 In the safety population, the most common (≥ 20%) adverse reactions were rash, infusion-related reaction, paronychia, musculoskeletal pain, dyspnea, nausea, edema, cough, fatigue, stomatitis, constipation, vomiting and pruritus.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were increased gamma glutamyl transference, decreased sodium, decreased potassium and increased alkaline phosphatase.
+
+First-line Treatment of NSCLC with Exon 19 deletions or Exon 21 L858R substitution mutations
+
+The safety data described below reflect exposure to RYBREVANT in combination with lazertinib in 421 previously untreated patients with locally advanced or metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R substitution mutation in the MARIPOSA [see Clinical Studies (14)].
+Patients received RYBREVANT intravenously at 1,050 mg (for patients < 80 kg) or 1,400 mg (for patients ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5 in combination with lazertinib, 240 mg orally once daily.
+Among the 421 patients who received RYBREVANT in combination with lazertinib, 73% were exposed to RYBREVANT for ≥ 6 months and 59% were exposed to RYBREVANT for > 1 year.
+
+The median age of patients who received RYBREVANT in combination with lazertinib was 64 years (25 to 88); 64% were female; 59% were Asian, 38% were White, 1.7% were American Indian or Alaska Native, 0.7% were Black or African American, 1% were of unknown or other races; and 13% were Hispanic or Latino, 67% had Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 1, 33% had ECOG PS of 0, 60% had EGFR exon 19 deletions, and 40% had EGFR exon 21 L858R substitution mutations.
+
+Serious adverse reactions occurred in 49% of patients who received RYBREVANT in combination with lazertinib.
+Serious adverse reactions occurring in ≥2% of patients included VTE (11%), pneumonia (4%), rash, and ILD/pneumonitis (2.9% each), COVID-19 (2.4%), pleural effusion and infusion-related reaction (2.1% each).
+Fatal adverse reactions occurred in 7% of patients who received RYBREVANT in combination with lazertinib due to death not otherwise specified (1.2%); sepsis and respiratory failure (1% each); pneumonia, myocardial infarction and sudden death (0.7% each); cerebral infarction, pulmonary embolism (PE), and COVID-19 infection (0.5% each); and ILD/pneumonitis, acute respiratory distress syndrome (ARDS), and cardiopulmonary arrest (0.2% each).
+
+Permanent discontinuation of RYBREVANT due to an adverse reaction occurred in 34% of patients.
+Adverse reactions which resulted in permanent discontinuation in ≥1% of patients included rash, infusion related reactions, nail toxicity, VTE, ILD/pneumonitis, pneumonia, edema, hypoalbuminemia, fatigue, paresthesia and dyspnea.
+
+Dosage interruption of RYBREVANT due to an adverse reaction occurred in 88% of patients.
+Adverse reactions which required dosage interruption in ≥5% of patients were infusion related reactions, rash, nail toxicity, COVID-19, VTE, increased ALT, edema, and hypoalbuminemia.
+
+Dose reductions of RYBREVANT due to an adverse reaction occurred in 46% of patients.
+Adverse reactions requiring dose reductions in ≥5% of patients were rash and nail toxicity.
+
+The most common adverse reactions (≥20%) were rash, nail toxicity, infusion-related reaction, musculoskeletal pain, stomatitis, edema, VTE, paresthesia, fatigue, diarrhea, constipation, COVID-19, hemorrhage, dry skin, decreased appetite, pruritus, and nausea.
+The most common Grade 3 or 4 laboratory abnormalities (≥ 2%) were decreased albumin, decreased sodium, increased ALT, decreased potassium, decreased hemoglobin, increased AST, increased GGT and increased magnesium.
+
+Table 10 summarizes the adverse reactions (≥ 10%) in MARIPOSA.
+
+Table 10: Adverse Reactions (≥10%) in Patients with NSCLC with Exon 19 Deletion or Exon 21 L858R Substitution Mutations in MARIPOSA
+
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | RYREVANT in combination with lazertinib (N=421) |  | Osimertinib (N=428) |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Rash Grouped terms | 86 | 26 | 48 | 1.2 |
+| Nail toxicity | 71 | 11 | 34 | 0.7 |
+| Dry skin | 25 | 1 | 18 | 0.2 |
+| Pruritus | 24 | 0.5 | 17 | 0.2 |
+| Injury, poisoning and procedural complications |  |  |  |  |
+| Infusion-related reaction Applicable for RYBREVANT only | 63 | 6 | 0 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal pain | 47 | 2.1 | 39 | 1.9 |
+| Gastrointestinal disorders |  |  |  |  |
+| Stomatitis | 43 | 2.4 | 27 | 0.5 |
+| Diarrhea | 31 | 2.6 | 45 | 0.9 |
+| Constipation | 29 | 0 | 13 | 0 |
+| Nausea | 21 | 1.2 | 14 | 0.2 |
+| Vomiting | 12 | 0.5 | 5 | 0 |
+| Abdominal pain | 11 | 0 | 10 | 0 |
+| Hemorrhoids | 10 | 0.2 | 2.1 | 0.2 |
+| General disorders and administration site conditions |  |  |  |  |
+| Edema | 43 | 2.6 | 8 | 0 |
+| Fatigue | 32 | 3.8 | 20 | 1.9 |
+| Pyrexia | 12 | 0 | 9 | 0 |
+| Vascular disorders |  |  |  |  |
+| Venous thromboembolism | 36 | 11 | 8 | 2.8 |
+| Hemorrhage | 25 | 1 | 13 | 1.2 |
+| Nervous system disorders |  |  |  |  |
+| Paresthesia | 35 | 1.7 | 10 | 0.2 |
+| Dizziness | 14 | 0 | 10 | 0 |
+| Headache | 13 | 0.2 | 13 | 0 |
+| Infections And Infestations |  |  |  |  |
+| COVID-19 | 26 | 1.7 | 24 | 1.4 |
+| Conjunctivitis | 11 | 0.2 | 1.6 | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Decreased appetite | 24 | 1 | 18 | 1.4 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 19 | 0 | 23 | 0 |
+| Dyspnea | 14 | 1.7 | 17 | 3.5 |
+| Eye disorders |  |  |  |  |
+| Ocular toxicity | 16 | 0.7 | 7 | 0 |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 10 | 0 | 11 | 0 |
+
+Clinically relevant adverse reactions in <10% of patients who received RYBREVANT in combination with lazertinib included ILD/pneumonitis (3.1%).
+
+Table 11 summarizes the laboratory abnormalities in MARIPOSA.
+
+Table 11: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletion or Exon 21 L858R Substitution Mutations in MARIPOSA The denominator used to calculate the rate is the number of patients with a baseline value and at least one post-treatment value for the specific lab test.
+
+|  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | RYBREVANT in combination with lazertinib (N=421) |  | Osimertinib (N=428) |  |
+| Chemistry |  |  |  |  |
+| Decreased albumin | 89 | 8 | 22 | 0.2 |
+| Increased ALT | 65 | 7 | 29 | 2.6 |
+| Increased AST | 52 | 3.8 | 36 | 1.9 |
+| Increased alkaline phosphatase | 45 | 0.5 | 15 | 0.5 |
+| Decreased calcium (corrected) | 41 | 1.4 | 27 | 0.7 |
+| Increased GGT | 39 | 2.6 | 24 | 1.9 |
+| Decreased Sodium | 38 | 7 | 35 | 5 |
+| Decreased potassium | 30 | 5 | 15 | 1.2 |
+| Increased creatinine | 26 | 0.7 | 35 | 0.7 |
+| Decreased magnesium | 25 | 0.7 | 10 | 0.2 |
+| Increased magnesium | 12 | 2.6 | 20 | 4.8 |
+| Hematology |  |  |  |  |
+| Decreased platelet count | 52 | 0.7 | 57 | 1.4 |
+| Decreased hemoglobin | 47 | 3.8 | 56 | 1.9 |
+| Decreased white blood cell | 38 | 1.0 | 66 | 0.7 |
+| Decreased neutrophils | 15 | 1.4 | 33 | 1.4 |
 
 First-line Treatment of Non-Small Cell Lung Cancer (NSCLC) with Exon 20 Insertion Mutations
 
@@ -48,11 +154,11 @@ Adverse reactions requiring dose reductions in ≥ 5% of patients included rash,
 The most common adverse reactions (≥ 20%) were rash, nail toxicity, stomatitis, infusion-related reaction, fatigue, edema, constipation, decreased appetite, nausea, COVID-19, diarrhea, and vomiting.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were decreased albumin, increased alanine aminotransferase, increased gamma-glutamyl transferase, decreased sodium, decreased potassium, decreased magnesium, and decreases in white blood cells, hemoglobin, neutrophils, platelets, and lymphocytes.
 
-Table 9 summarizes the adverse reactions in PAPILLON.
+Table 12 summarizes the adverse reactions in PAPILLON.
 
-Table 9: Adverse Reactions (≥10%) in Patients with Metastatic NSCLC with Exon 20 Insertion Mutations Who Received RYBREVANT in Combination with Carboplatin and Pemetrexed in PAPILLON
+Table 12: Adverse Reactions (≥10%) in Patients with Metastatic NSCLC with Exon 20 Insertion Mutations Who Received RYBREVANT in Combination with Carboplatin and Pemetrexed in PAPILLON
 
-| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+|  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction Adverse reactions were graded using CTCAE version 5.0 | RYBREVANT in Combination with Carboplatin and Pemetrexed (n=151) |  | Carboplatin and Pemetrexed (n=155) |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
@@ -91,9 +197,9 @@ Table 9: Adverse Reactions (≥10%) in Patients with Metastatic NSCLC with Exon 
 
 Clinically relevant adverse reactions in <10% of patients who received RYBREVANT in combination with carboplatin and pemetrexed included pulmonary embolism, deep vein thrombosis, skin ulcer, conjunctivitis and interstitial lung disease (ILD)/pneumonitis.
 
-Table 10 summarizes the laboratory abnormalities in PAPILLON.
+Table 13 summarizes the laboratory abnormalities in PAPILLON.
 
-Table 10: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Who Received RYBREVANT in Combination with Carboplatin and Pemetrexed in PAPILLON
+Table 13: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Who Received RYBREVANT in Combination with Carboplatin and Pemetrexed in PAPILLON
 
 | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -139,9 +245,9 @@ Adverse reactions requiring dose reductions in ≥ 2% of patients included rash 
 The most common adverse reactions (≥ 20%) were rash, IRR, paronychia, musculoskeletal pain, dyspnea, nausea, fatigue, edema, stomatitis, cough, constipation, and vomiting.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased albumin, decreased phosphate, decreased potassium, increased glucose, increased alkaline phosphatase, increased gamma-glutamyl transferase, and decreased sodium.
 
-Table 11 summarizes the adverse reactions in CHRYSALIS.
+Table 14 summarizes the adverse reactions in CHRYSALIS.
 
-Table 11: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Insertion Mutations Whose Disease Has Progressed on or after Platinum-based Chemotherapy and Received RYBREVANT in CHRYSALIS
+Table 14: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Insertion Mutations Whose Disease Has Progressed on or after Platinum-based Chemotherapy and Received RYBREVANT in CHRYSALIS
 
 | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- |
@@ -181,9 +287,9 @@ Table 11: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Insert
 
 Clinically relevant adverse reactions in <10% of patients who received RYBREVANT included ocular toxicity, ILD/pneumonitis, and toxic epidermal necrolysis (TEN).
 
-Table 12 summarizes the laboratory abnormalities in CHRYSALIS.
+Table 15 summarizes the laboratory abnormalities in CHRYSALIS.
 
-Table 12: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Whose Disease Has Progressed on or After Platinum-based Chemotherapy and Who Received RYBREVANT in CHRYSALIS
+Table 15: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Whose Disease Has Progressed on or After Platinum-based Chemotherapy and Who Received RYBREVANT in CHRYSALIS
 
 | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- |
