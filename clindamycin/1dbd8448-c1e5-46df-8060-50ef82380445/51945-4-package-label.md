@@ -6,11 +6,11 @@ NDC 63304-692-01
 
 CLINDAMYCIN HYDROCHLORIDE CAPSULES, USP
 
-150 mg*
+150 mg *
 
 Rx only 100 Capsules
 
-Ohm®
+Ohm ®
 
 # Package/Label Display Panel
 
@@ -24,7 +24,7 @@ CLINDAMYCIN HYDROCHLORIDE CAPSULES, USP
 
 Rx only 100 Capsules
 
-Ohm®
+Ohm ®
 
 # Package/Label Display Panel
 

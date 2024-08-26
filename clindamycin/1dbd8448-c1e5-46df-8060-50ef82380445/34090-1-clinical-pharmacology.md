@@ -19,7 +19,7 @@ No significant concentrations of clindamycin are attained in the cerebrospinal f
 
 Metabolism
 
-In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+In vitrostudies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 Excretion
 
@@ -38,7 +38,7 @@ Geriatric Patients
 
 Pharmacokinetic studies in elderly volunteers (61 to 79 years) and younger adults (18 to 39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4 hours (range 3.4 to 5.1 h) in the elderly compared to 3.2 hours (range 2.1 to 4.2 h) in younger adults.
-The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
+The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function 1.
 
 Obese Pediatric Patients Aged 2 to Less than 18 Years and Obese Adults Aged 18 to 20 Years
 
@@ -60,12 +60,12 @@ Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci sh
 
 Antimicrobial Activity
 
-Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)]:
+Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitroand in clinical infections [see Indications and Usage (1)]:
 
 Gram-positive bacteria
 
-- Staphylococcus aureus (methicillin-susceptible strains)
-- Streptococcus pneumoniae (penicillin-susceptible strains)
+- Staphylococcus aureus(methicillin-susceptible strains)
+- Streptococcus pneumoniae(penicillin-susceptible strains)
 - Streptococcus pyogenes
 - Anaerobic bacteria
 - Clostridium perfringens
@@ -74,13 +74,13 @@ Gram-positive bacteria
 - Peptostreptococcus anaerobius
 - Prevotella melaninogenica
 
-The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
+The following in vitrodata are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
 However, the efficacy of clindamycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
 
-- Staphylococcus epidermidis (methicillin-susceptible strains)
+- Staphylococcus epidermidis(methicillin-susceptible strains)
 - Streptococcus agalactiae
 - Streptococcus anginosus
 - Streptococcus mitis
