@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214697"
+  ],
+  "inn": "epinephrine",
+  "labeler": "ARS Pharmaceuticals Operations, Inc.",
+  "package_ndcs": [
+    "82580-020-02"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "epinephrine",
+      "name": "neffy"
+    }
+  ],
+  "setid": "a1758142-a905-401d-8961-05829f51023a",
+  "source": "dailymed"
+}
