@@ -130,9 +130,9 @@ Other adverse reactions in clinical studies involving pramipexole dihydrochlorid
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identifiedduring post-approval use of pramipexole dihydrochlorideimmediate-release tablets or pramipexole dihydrochlorideextended-release tablets, primarily in Parkinson’s diseasepatients.
-Because these reactions are reported voluntarilyfrom a population of uncertain size, it is not alwayspossible to reliably estimate their frequency or establish acausal relationship to drug exposure.
-Decisions to includethese reactions in labeling are typically based on one ormore of the following factors: (1) seriousness of thereaction, (2) frequency of reporting, or (3) strength ofcausal connection to pramipexole tablets.
+The following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride immediate-release tablets or pramipexole dihydrochloride extended-release tablets, primarily in Parkinson’s diseasepatients.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of thereaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
 
 Cardiac Disorders: cardiac failure
 
@@ -145,6 +145,8 @@ Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormo
 Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)]
 
 Nervous System Disorders: syncope
+
+Reproductive System and Breast Disorders: priapism
 
 Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
 

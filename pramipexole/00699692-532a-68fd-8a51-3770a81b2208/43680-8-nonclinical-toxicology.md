@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year carcinogenicity studies with pramipexole have been conducted in mice and rats.
 Pramipexole was administered in the diet to mice at doses up to 10 mg/kg/day [or approximately 10 times the maximum recommended human dose (MRHD) of 1.5 mg TID on a mg/m2 basis].

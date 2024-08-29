@@ -31,7 +31,7 @@ Postural (Orthostatic) Hypotension
 
 Advise patients that they may develop postural (orthostatic) hypotension, with or without symptoms such as dizziness, nausea, fainting, or blackouts, and sometimes, sweating.
 Hypotension may occur more frequently during initial therapy.
-Accordingly, caution patients against rising rapidly after sitting or lying down, especially if they have been doing so for prolonged periods and especially at the initiation of treatment with pramipexole dihydrochloride extended-release tablets [see Warnings and Precautions (5.2)].
+Accordingly, caution patients against rising rapidly after sitting or lying down, especially if they have been doing so for prolonged periods and especially at the initiation of treatment with pramipexole dihydrochloride extended-release [see Warnings and Precautions (5.2)].
 
 Impulse Control Symptoms Including Compulsive Behaviors
 

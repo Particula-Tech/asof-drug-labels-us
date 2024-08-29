@@ -8,7 +8,7 @@ Princeton, NJ 08540 USA
 
 Made in India
 
-Revised: 0821
+Revised: 0724
 
 # Patient Information
 
@@ -52,8 +52,8 @@ Especially tell your doctor if you take:
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   Pramipexole dihydrochloride extended-release tablets may not work as well if you take these medicines.
 - pramipexole.
-  Pramipexole is the active ingredient in both pramipexole dihydrochloride extended-release and pramipexole dihydrochloride tablets.
-  If you are taking pramipexole dihydrochloride tablets, you should not take pramipexole dihydrochloride extended-release tablets.
+  Pramipexole is the active ingredient in pramipexole dihydrochloride extended-release tablets.
+  If you are taking pramipexole, you should not take pramipexole dihydrochloride extended-release tablets.
 - any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride extended-release tablets, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.
@@ -192,4 +192,4 @@ Princeton, NJ 08540 USA
 
 Made in India
 
-Revised: 0821
+Revised: 0724
