@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021450"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-2351-6",
+    "69238-2352-6"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "zolmitriptan",
+      "name": "Zolmitriptan"
+    }
+  ],
+  "setid": "05a40502-149d-41bd-966e-771e937a955b",
+  "source": "dailymed"
+}
