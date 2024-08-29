@@ -17,9 +17,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## Anaphylactic and Severe Hypersensitivity Reactions
 
-Anaphylactic shock and anaphylactic reactions have been reported (see ADVERSE REACTIONS).
+Anaphylactic shock and anaphylactic reactions have been reported (See ADVERSE REACTIONS).
 
-Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (see ADVERSE REACTIONS).
+Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (See ADVERSE REACTIONS).
 
 In case of such an anaphylactic or severe hypersensitivity reaction, discontinue treatment permanently and institute appropriate therapy.
 
@@ -62,6 +62,8 @@ Although the overall incidence of FD&C yellow no. 5 (tartrazine) sensitivity in 
 
 Prescribing CLEOCIN HCl in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
+Due to the risk of esophagitis and esophageal ulcer, it is important to ensure adherence with administration guidance (See DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS).
+
 ## Information for Patients
 
 Patients should be counseled that antibacterial drugs, including CLEOCIN HCl, should only be used to treat bacterial infections.
@@ -72,6 +74,8 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
+
+Advise patients that due to the risk of esophagitis and esophageal ulcer, it is important to adhere to the administration guidance for CLEOCIN HCl Capsules (See DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS).
 
 ## Laboratory Tests
 

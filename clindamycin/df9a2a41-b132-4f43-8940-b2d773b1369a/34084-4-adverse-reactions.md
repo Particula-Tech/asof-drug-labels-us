@@ -4,9 +4,9 @@ The following reactions have been reported with the use of clindamycin.
 
 Infections and Infestations: Clostridioides difficile colitis
 
-Gastrointestinal: Abdominal pain, pseudomembranous colitis, esophagitis, nausea, vomiting, and diarrhea (see BOXED WARNING).
-The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).
-Esophageal ulcer has been reported.
+Gastrointestinal: Abdominal pain, pseudomembranous colitis, nausea, vomiting, and diarrhea (See BOXED WARNING).
+The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (See WARNINGS).
+Esophagitis and esophageal ulcer have been reported, particularly when taken in a lying position or with a small amount of water.
 An unpleasant or metallic taste has been reported after oral administration.
 
 Hypersensitivity Reactions: Generalized mild to moderate morbilliform-like (maculopapular) skin rashes are the most frequently reported adverse reactions.
@@ -16,8 +16,7 @@ Vesiculobullous rashes, as well as urticaria, have been observed during drug the
 Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (See WARNINGS).
 Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, anaphylactic shock, anaphylactic reaction and hypersensitivity have also been reported.
 
-Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported.
-(See Hypersensitivity Reactions.)
+Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported (See Hypersensitivity Reactions).
 
 Liver: Jaundice and abnormalities in liver function tests have been observed during clindamycin therapy.
 

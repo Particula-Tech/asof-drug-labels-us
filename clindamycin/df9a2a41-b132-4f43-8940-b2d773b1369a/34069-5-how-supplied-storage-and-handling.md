@@ -14,4 +14,4 @@ CLEOCIN HCl Capsules are available in the following strengths, colors and sizes:
 | --- | --- | --- |
 |  | Bottles of 100 | NDC 0009-0395-14 |
 
-Store at controlled room temperature 20° to 25° C (68° to 77° F) [see USP].
+Store at controlled room temperature 20° to 25° C (68° to 77° F) [See USP].

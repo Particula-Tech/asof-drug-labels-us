@@ -60,7 +60,7 @@ Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci sh
 
 ### Antimicrobial Activity
 
-Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)]:
+Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections (See INDICATIONS AND USAGE):
 
 Gram-positive bacteria
 

@@ -1,17 +1,17 @@
 # DOSAGE AND ADMINISTRATION
 
-If significant diarrhea occurs during therapy, this antibiotic should be discontinued (see BOXED WARNING).
+If significant diarrhea occurs during therapy, this antibacterial drug should be discontinued (See BOXED WARNING).
+
+Administer CLEOCIN HCl Capsules with a full glass of water (6 to 8 ounces, approximately 200 to 250 mL) and at least 30 minutes before lying down to reduce the potential for esophageal irritation (See ADVERSE REACTIONS).
 
 Adults: Serious infections – 150 to 300 mg every 6 hours.
 More severe infections – 300 to 450 mg every 6 hours.
 
-Pediatric Patients (for children who are able to swallow capsules): Serious infections – 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
+Pediatric Patients (who are able to swallow capsules): Serious infections – 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
 More severe infections – 16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into three or four equal doses.
 Clindamycin should be dosed based on total body weight regardless of obesity.
 
-To avoid the possibility of esophageal irritation, CLEOCIN HCl Capsules should be taken with a full glass of water.
-
-CLEOCIN HCl Capsules are not suitable for children who are unable to swallow them whole.
+CLEOCIN HCl Capsules are not suitable for pediatric patients who are unable to swallow them whole.
 The capsules do not provide exact mg/kg doses therefore it may be necessary to use the clindamycin palmitate oral solution in some cases.
 
 Serious infections due to anaerobic bacteria are usually treated with CLEOCIN PHOSPHATE® Sterile Solution.
