@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Alcohol and Current Medication Advise patients to notify their healthcare provider about alcohol or medication use, especially blood pressure medication and antibiotics.
-Alcohol and other CNS depressants, such as opioid analgesic and benzodiazepines, can have an additive effect when administered with Midazolam in Sodium Chloride Injection [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
+Alcohol and other CNS depressants, such as opioid analgesic and benzodiazepines, can have an additive effect when administered with Midazolam in 0.9% Sodium Chloride Injection [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 Effect of Anesthetic and Sedation Drugs on Early Brain Development\ Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
 Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs [see Warnings and Precautions (5.11), Use in Specific Populations (8.1)].
@@ -9,7 +9,7 @@ Discuss with parents and caregivers the benefits, risks, and timing and duration
 Pregnancy
 
 Advise pregnant females exposed to midazolam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns.
-Instruct patients to inform their healthcare provider if they are pregnant during treatment with Midazolam in Sodium Chloride Injection [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant during treatment with Midazolam in 0.9% Sodium Chloride Injection [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
 
 Lactation
 

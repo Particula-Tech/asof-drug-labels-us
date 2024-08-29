@@ -67,7 +67,7 @@ There are reports of sedation, poor feeding, and poor weight gain in infants exp
 Based on data from published studies, midazolam is present in human milk in low levels (see Data).
 There are no data on the effects of midazolam on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Midazolam in Sodium Chloride Injection and any potential adverse effects on the breastfed infant from Midazolam in Sodium Chloride Injection or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Midazolam in 0.9% Sodium Chloride Injection and any potential adverse effects on the breastfed infant from Midazolam in 0.9% Sodium Chloride Injection or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -96,7 +96,7 @@ Severe hypotension and seizures have been reported following rapid intravenous a
 
 ### Animal Data
 
-Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as Midazolam in Sodium Chloride Injection, that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
+Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as Midazolam in 0.9% Sodium Chloride Injection, that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis.
 Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
 
 In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
@@ -106,7 +106,7 @@ The clinical significance of these nonclinical findings is not known, and health
 ## 8.5 Geriatric Use
 
 Because geriatric patients may have altered drug distribution and diminished hepatic and/or renal function, reduced doses of midazolam are recommended.
-Doses of Midazolam in Sodium Chloride Injection should be decreased for elderly and for debilitated patients [see Warnings and Precautions (5.6) and Dosage and Administration (2)] and subjects over 70 years of age may be particularly sensitive.
+Doses of Midazolam in 0.9% Sodium Chloride Injection should be decreased for elderly and for debilitated patients [see Warnings and Precautions (5.6) and Dosage and Administration (2)] and subjects over 70 years of age may be particularly sensitive.
 These patients will also probably take longer to recover completely after midazolam administration for the induction of anesthesia.
 Administration of intravenous midazolam to elderly and/or high-risk surgical patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression.
 In most of these cases, the patients also received other central nervous system depressants capable of depressing respiration, especially opioids [see Dosage and Administration (2)].

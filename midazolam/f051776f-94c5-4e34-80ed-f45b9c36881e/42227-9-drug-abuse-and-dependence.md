@@ -2,11 +2,11 @@
 
 ## 9.1 Controlled Substance
 
-Midazolam in Sodium Chloride Injection contains midazolam, a Schedule IV controlled substance.
+Midazolam in 0.9% Sodium Chloride Injection contains midazolam, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-Midazolam in Sodium Chloride Injection contains the benzodiazepine, midazolam.
+Midazolam in 0.9% Sodium Chloride Injection contains the benzodiazepine, midazolam.
 Benzodiazepines are a class of sedative drugs with a known potential for abuse.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
@@ -21,10 +21,10 @@ Available data concerning the drug abuse and dependence potential of midazolam s
 
 Midazolam may produce physical dependence after long-term use.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-If Midazolam in Sodium Chloride Injection is administered long-term (i.e., for several days to weeks), abrupt discontinuation or rapid dosage reduction, or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+If Midazolam in 0.9% Sodium Chloride Injection is administered long-term (i.e., for several days to weeks), abrupt discontinuation or rapid dosage reduction, or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.5)].
 
-To reduce the risk of withdrawal reactions, after extended therapy, do not abruptly discontinue Midazolam in Sodium Chloride Injection.
+To reduce the risk of withdrawal reactions, after extended therapy, do not abruptly discontinue Midazolam in 0.9% Sodium Chloride Injection.
 Gradually taper the dosage using a tapering schedule that is individualized to the patient.
 
 Acute Withdrawal Signs and Symptoms

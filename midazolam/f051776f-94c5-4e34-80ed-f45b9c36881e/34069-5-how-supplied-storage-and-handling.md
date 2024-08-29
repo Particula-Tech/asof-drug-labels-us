@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Midazolam in Sodium Chloride Injection is a clear, colorless solution supplied in single-dose bags with an aluminum overwrap available as:
+Midazolam in 0.9% Sodium Chloride Injection is a clear, colorless solution supplied in single-dose bags with an aluminum overwrap available as:
 
 | Total Strength per Total Volume | Strength per mL | 10 single-dose bags NDC | Bag and Overwrap NDC |
 | --- | --- | --- | --- |

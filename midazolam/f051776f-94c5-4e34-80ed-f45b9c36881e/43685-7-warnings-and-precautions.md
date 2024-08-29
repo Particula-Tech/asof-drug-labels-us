@@ -3,11 +3,11 @@
 ## 5.1 Personnel and Equipment for Monitoring and Resuscitation
 
 - •Prior to the intravenous administration of midazolam in any dose, ensure the immediate availability of oxygen, resuscitative drugs, age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and skilled personnel for the maintenance of a patent airway and support of ventilation.
-- •Only personnel trained in the administration of procedural sedation, and not involved in the conduct of the diagnostic or therapeutic procedure, should administer Midazolam in Sodium Chloride Injection.
+- •Only personnel trained in the administration of procedural sedation, and not involved in the conduct of the diagnostic or therapeutic procedure, should administer Midazolam in 0.9% Sodium Chloride Injection.
 - •Administering personnel must be trained in the detection and management of airway obstruction, hypoventilation, and apnea, including the maintenance of a patent airway, supportive ventilation, and cardiovascular resuscitation.
 - •Continuously monitor patients for early signs of hypoventilation, airway obstruction, or apnea, with means readily available (e.g., pulse oximetry).
   Hypoventilation, airway obstruction, and apnea can lead to hypoxia and/or cardiac arrest unless effective countermeasures are taken immediately.
-- •A benzodiazepine reversal agent (i.e., flumazenil) should be immediately available during administration of Midazolam in Sodium Chloride Injection.
+- •A benzodiazepine reversal agent (i.e., flumazenil) should be immediately available during administration of Midazolam in 0.9% Sodium Chloride Injection.
 - •Continuously monitor vital signs during the recovery period.
   Because intravenous midazolam can depress respiration [see Clinical Pharmacology (12)], especially when used concomitantly with opioid agonists and other sedatives [see Dosage and Administration (2)], it should be used for sedation/anxiolysis/amnesia only in the presence of personnel skilled in early detection of hypoventilation, maintaining a patent airway, and supporting ventilation.
 
@@ -16,7 +16,7 @@
 Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.
 Monitor patients for respiratory depression and sedation [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
-Titrate the dose of Midazolam in Sodium Chloride Injection when administered with opioid analgesics and sedative-hypnotics to the desired clinical response.
+Titrate the dose of Midazolam in 0.9% Sodium Chloride Injection when administered with opioid analgesics and sedative-hypnotics to the desired clinical response.
 
 Continuously monitor sedated patients for hypotension, airway obstruction, hypoventilation, apnea, and oxygen desaturation.
 These cardiorespiratory effects may be more likely to occur in patients with obstructive sleep apnea, the elderly, and ASA‑PS III or IV patients.
@@ -42,14 +42,14 @@ These reactions may be due to inadequate or excessive dosing or improper adminis
 Should such reactions occur, the response to each dose of midazolam and all other drugs, including local anesthetics, should be evaluated before proceeding.
 Reversal of such responses with flumazenil has been reported in pediatric patients.
 
-## 5.5 Risk of Dependence and Withdrawal with Long-Term Use of Midazolam in Sodium Chloride Injection
+## 5.5 Risk of Dependence and Withdrawal with Long-Term Use of Midazolam in 0.9% Sodium Chloride Injection
 
 The continued use of benzodiazepines for several days to weeks may lead to clinically significant physical dependence.
 If used for long-term use (i.e., for several days to weeks), abrupt discontinuation or rapid dosage reduction of midazolam, or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use.
 
-After extended therapy, do not abruptly discontinue Midazolam in Sodium Chloride Injection.
+After extended therapy, do not abruptly discontinue Midazolam in 0.9% Sodium Chloride Injection.
 When discontinuing midazolam in a physically-dependent patient, gradually taper the dosage using a tapering schedule that is individualized to the patient [see Dosage and Administration (2.3), Dependence (9.3)].
 
 ## 5.6 Debilitation and Comorbid Considerations
@@ -60,7 +60,7 @@ Pediatric and adult patients undergoing procedures involving the upper airway su
 Adult and pediatric patients with chronic renal failure and patients with congestive heart failure eliminate midazolam more slowly [see Clinical Pharmacology (12.3)].
 Because elderly patients frequently have inefficient function of one or more organ systems and because dosage requirements have been shown to decrease with age, reduced initial dosage of midazolam is recommended, and the possibility of profound and/or prolonged effect should be considered.
 
-Do not administer Midazolam in Sodium Chloride Injection to adult or pediatric patients in shock or coma, or in acute alcohol intoxication with depression of vital signs.
+Do not administer Midazolam in 0.9% Sodium Chloride Injection to adult or pediatric patients in shock or coma, or in acute alcohol intoxication with depression of vital signs.
 Particular care should be exercised in the use of intravenous midazolam in adult or pediatric patients with uncompensated acute illnesses, such as severe fluid or electrolyte disturbances.
 
 ## 5.7 Risk of Intra-Arterial Injection
@@ -70,8 +70,8 @@ Adverse events have included local reactions, as well as isolated reports of sei
 Precautions against unintended intra-arterial injection should be taken.
 Extravasation should also be avoided.
 
-The safety and efficacy of Midazolam in Sodium Chloride Injection following nonintravenous routes of administration have not been established.
-Midazolam in Sodium Chloride Injection should only be administered intravenously.
+The safety and efficacy of Midazolam in 0.9% Sodium Chloride Injection following nonintravenous routes of administration have not been established.
+Midazolam in 0.9% Sodium Chloride Injection should only be administered intravenously.
 
 ## 5.8 Impaired Cognitive Function
 
@@ -92,8 +92,8 @@ The neonate also has reduced and/or immature organ function and is also vulnerab
 
 ## 5.10 Neonatal Sedation and Withdrawal Syndrome
 
-Receiving Midazolam in Sodium Chloride Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate.
-Monitor neonates exposed to Midazolam in Sodium Chloride Injection during pregnancy or labor for signs of sedation and manage these neonates accordingly [see Use in Specific Populations (8.1)].
+Receiving Midazolam in 0.9% Sodium Chloride Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate.
+Monitor neonates exposed to Midazolam in 0.9% Sodium Chloride Injection during pregnancy or labor for signs of sedation and manage these neonates accordingly [see Use in Specific Populations (8.1)].
 
 ## 5.11 Pediatric Neurotoxicity
 
@@ -109,8 +109,8 @@ Decisions regarding the timing of any elective procedures requiring anesthesia s
 
 ## 5.12 Risk of Increased Intraocular Pressure in Patients with Glaucoma
 
-Benzodiazepines, including Midazolam in Sodium Chloride Injection, can increase intraocular pressure in patients with glaucoma.
+Benzodiazepines, including Midazolam in 0.9% Sodium Chloride Injection, can increase intraocular pressure in patients with glaucoma.
 Measurements of intraocular pressure in patients without eye disease show a moderate lowering following induction with midazolam.
-Midazolam in Sodium Chloride Injection may be used in patients with open-angle glaucoma only if they are receiving appropriate therapy.
-Patients with open-angle glaucoma may need to have their ophthalmologic status evaluated following treatment with Midazolam in Sodium Chloride Injection.
-Midazolam in Sodium Chloride Injection is contraindicated in patients with narrow-angle glaucoma.
+Midazolam in 0.9% Sodium Chloride Injection may be used in patients with open-angle glaucoma only if they are receiving appropriate therapy.
+Patients with open-angle glaucoma may need to have their ophthalmologic status evaluated following treatment with Midazolam in 0.9% Sodium Chloride Injection.
+Midazolam in 0.9% Sodium Chloride Injection is contraindicated in patients with narrow-angle glaucoma.
