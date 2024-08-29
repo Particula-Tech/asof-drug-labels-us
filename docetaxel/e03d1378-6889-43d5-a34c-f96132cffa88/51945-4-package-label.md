@@ -2,7 +2,7 @@
 
 NDC 66758-050-01
 
-2 mL Multiple Dose Vial
+2 mL Multiple-Dose Vial
 
 Docetaxel
 
@@ -22,7 +22,7 @@ Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # Package/Label Principal Display Panel
 
@@ -48,7 +48,7 @@ Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # Package/Label Principal Display Panel
 
@@ -74,4 +74,4 @@ Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-SANDOZ – A Novartis Division
+SANDOZ
