@@ -4,6 +4,13 @@ KENALOG®-10 Injection (triamcinolone acetonide injectable suspension, USP) is s
 
 ## Storage
 
-Store at controlled room temperature, 20° to 25°C (68° to 77°F); protect from temperatures below 20°C (68°F).
+Store at controlled room temperature, 20°C to 25°C (68°F to 77°F); protect from temperatures below 20°C (68°F).
+Excursions are permitted between 15°C and 30°C (59°F and 86°F).
 Store vial in carton to protect from light.
+Do not refrigerate.
 Store vial upright.
+
+Once in use: Chemical and physical in-use stability has been demonstrated for 28 days below 25°C (77°F).
+
+From a microbiological point of view, once opened, the product may be stored for a maximum of 28 days at 15°C to 25°C (59°F to 77°F).
+Other in-use storage times and conditions are the responsibility of the user.

@@ -50,7 +50,8 @@ The site and volume of the injection should be carefully considered when triamci
 STRICT ASEPTIC TECHNIQUE IS MANDATORY.
 The vial should be shaken before use to ensure a uniform suspension.
 Prior to withdrawal, the suspension should be inspected for clumping or granular appearance (agglomeration).
-An agglomerated product results from exposure to freezing temperatures and should not be used.
+Agglomeration occurs when the drug substance separates from the solution and appears as a white precipitate in the vial.
+An agglomerated product should be discarded and should not be used.
 After withdrawal, inject without delay to prevent settling in the syringe.
 
 ### Injection Technique
