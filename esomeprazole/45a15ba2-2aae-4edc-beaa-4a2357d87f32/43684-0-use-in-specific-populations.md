@@ -13,7 +13,7 @@ The estimated background risks of major birth defects and miscarriage for the in
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 Data Human Data Esomeprazole is the S-isomer of omeprazole.
-Four epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2 receptor antagonists or other controls.
+Four epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2-receptor antagonists or other controls.
 A population based retrospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, from 1995 to 99, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
@@ -48,24 +48,24 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of esomeprazole have been established in pediatric patients 1 month to 17 years of age for the short-term treatment of GERD with EE, as an alternative to oral therapy when oral esomeprazole is not possible or appropriate.
-Use of esomeprazole in this age group is based on extrapolation of adult efficacy to children and the selection of dose based on exposure-matching of pediatrics to adults supported by the following evidence: a) results observed from a pharmacokinetic (PK) study on esomeprazole for injection in pediatric patients, b) predictions from a population PK model comparing I.V.
-PK data between adult and pediatric patients, and c) relationship between exposure and pharmacodynamic results obtained from adult I.V. and pediatric oral data and d) PK results from adequate and well-controlled studies that supported the approval of esomeprazole in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
-The safety and effectiveness of esomeprazole have not been established in patients less than 1 month of age for the treatment of GERD with EE or for risk reduction of rebleeding of gastric or duodenal ulcer following therapeutic endoscopy.
+The safety and effectiveness of esomeprazole sodium for injection have been established in pediatric patients 1 month to 17 years of age for the short-term treatment of GERD with EE, as an alternative to oral therapy when oral esomeprazole is not possible or appropriate.
+Use of esomeprazole sodium for injection in this age group is based on extrapolation of adult efficacy to children and the selection of dose based on exposure-matching of pediatrics to adults supported by the following evidence: a) results observed from a pharmacokinetic (PK) study on esomeprazole sodium for injection in pediatric patients, b) predictions from a population PK model comparing I.V.
+PK data between adult and pediatric patients, and c) relationship between exposure and pharmacodynamic results obtained from adult I.V. and pediatric oral data and d) PK results from adequate and well-controlled studies that supported the approval of esomeprazole sodium for injection in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+The safety and effectiveness of esomeprazole sodium for injection have not been established in patients less than 1 month of age for the treatment of GERD with EE or for risk reduction of rebleeding of gastric or duodenal ulcer following therapeutic endoscopy.
 Juvenile Animal Data In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
 Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
-In a clinical trial of patients with bleeding gastric or duodenal ulcers, 52% of 375 patients randomized to esomeprazole were 65 years of age and over.
-No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience with esomeprazole and oral esomeprazole has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In a clinical trial of patients with bleeding gastric or duodenal ulcers, 52% of 375 patients randomized to esomeprazole sodium for injection were 65 years of age and over.
+No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience with esomeprazole sodium for injection and oral esomeprazole has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment
 
 GERD with EE Exposure to esomeprazole was increased substantially in patients with severe hepatic impairment (Child-Pugh Class C) but not in patients with mild to moderate hepatic impairment (Child-Pugh Classes A and B) compared to patients with normal liver function [see Clinical Pharmacology (12.3)].
 For adult patients, no dosage adjustment is necessary for mild to moderate hepatic impairment.
 For patients with severe hepatic impairment the maximum recommended dosage is 20 mg once daily [see Dosage and Administration (2.3)].
-Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers following Therapeutic Endoscopy There are no pharmacokinetic data available for esomeprazole administered as continuous intravenous administration in patients with hepatic impairment.
+Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers following Therapeutic Endoscopy There are no pharmacokinetic data available for esomeprazole sodium for injection administered as continuous intravenous administration in patients with hepatic impairment.
 Exposure to intravenous omeprazole, of which esomeprazole is an enantiomer, increased in patients with all degrees of hepatic impairment compared to subjects with normal liver function [see Clinical Pharmacology (12.3)].
-For adult patients, no dosage adjustment of the initial esomeprazole 80 mg loading dose is necessary for patients with any degree of hepatic impairment.
+For adult patients, no dosage adjustment of the initial esomeprazole sodium for injection 80 mg loading dose is necessary for patients with any degree of hepatic impairment.
 Reduce the rate of the continuous infusion to 6 mg/hour for patients with mild to moderate liver impairment (Child-Pugh Classes A and B) and to 4 mg/hour for patients with severe hepatic impairment (Child-Pugh Class C) [see Dosage and Administration (2.3)].

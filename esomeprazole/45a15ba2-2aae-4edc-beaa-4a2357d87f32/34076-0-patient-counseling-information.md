@@ -19,7 +19,7 @@ Drug Interactions Advise patients to report to their healthcare provider before 
 
 Administration
 
-- Inform patients that antacids may be used while taking esomeprazole.
+- Inform patients that antacids may be used while taking esomeprazole sodium for injection.
 
 Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India

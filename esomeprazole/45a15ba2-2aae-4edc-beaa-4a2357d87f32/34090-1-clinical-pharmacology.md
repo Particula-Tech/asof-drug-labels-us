@@ -11,15 +11,15 @@ This effect is dose-related and leads to inhibition of both basal and stimulated
 
 Antisecretory Activity
 
-The effect of esomeprazole on 24-hour intragastric pH in healthy subjects was evaluated in two studies of 20 mg and 40 mg esomeprazole infused intravenously once daily over 30 minutes for 5 days, as shown in Table 7.
+The effect of esomeprazole on 24-hour intragastric pH in healthy subjects was evaluated in two studies of 20 mg and 40 mg esomeprazole sodium for injection infused intravenously once daily over 30 minutes for 5 days, as shown in Table 7.
 
-Table 7: Effect of Esomeprazole on Intragastric pH on Day 5
+Table 7: Effect of Esomeprazole Sodium for Injection on Intragastric pH on Day 5
 
-|  | Esomeprazole 20 mg once daily (n=22) | Esomeprazole 40 mg once daily (n=38) |
+|  | Esomeprazole sodium for injection 20 mg once daily (n=22) | Esomeprazole sodium for injection 40 mg once daily (n=38) |
 | --- | --- | --- |
 | % Time Gastric pH>4 (95% CI) | 49.5 41.9 to 57.2 | 66.2 62.4 to 70.0 |
 
-Gastric pH was measured over a 24-hour period The effects of esomeprazole on 24-hour intragastric pH following administration of an intravenous infusion of 80 mg esomeprazole over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours was evaluated in two studies.
+Gastric pH was measured over a 24-hour period The effects of esomeprazole on 24-hour intragastric pH following administration of an intravenous infusion of 80 mg esomeprazole sodium for injection over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours was evaluated in two studies.
 In H. pylori-negative healthy Caucasian subjects (n=24), the % time over 24 hours (95% CI) when the intragastric pH was > 6 and > 7 was 52.3 % (40.3, 64.4) and 4.8 % (1.8, 7.8), respectively.
 In H. pylori-positive (n=8) and H. pylori-negative (n=11) healthy Chinese subjects, the % time over 24 hours (95% CI) when intragastric pH was > 6 and > 7 was 53% (45.6, 60.3) and 15.1% (9.5, 20.7).
 The percentage of time with intragastric pH > 6 [59% vs. 47%] and with pH > 7 [17% vs. 11%] tended to be larger in the H. pylori positive subjects compared to H. pylori-negative subjects.
@@ -39,17 +39,17 @@ Oral doses of omeprazole 30 mg or 40 mg per day for 2 to 4 weeks had no effect o
 
 ## 12.3 Pharmacokinetics
 
-Absorption The pharmacokinetics of esomeprazole in healthy subjects following administration of esomeprazole 20 mg and 40 mg once daily as intravenous infusion over 30 minutes for 5 days are shown in Table 8.
+Absorption The pharmacokinetics of esomeprazole in healthy subjects following administration of esomeprazole sodium for injection 20 mg and 40 mg once daily as intravenous infusion over 30 minutes for 5 days are shown in Table 8.
 
-Table 8: Geometric Mean (95% CI) Pharmacokinetic Parameters of Esomeprazole Following Dosing for 5 Days
+Table 8: Geometric Mean (95% CI) Pharmacokinetic Parameters of Esomeprazole Sodium for Injection Following Dosing for 5 Days
 
-| Parameter | Esomeprazole 20 mg (n=24) | Esomeprazole 40 mg (n=38) |
+| Parameter | Esomeprazole sodium for injection 20 mg (n=24) | Esomeprazole sodium for injection 40 mg (n=38) |
 | --- | --- | --- |
 | AUC (micromol*h/L) | 5.1 (4.0:6.6) | 16.2 (14.5:18.2) |
 | Cmax (micromol/L)) | 3.9 (3.2:4.7) | 7.5 (6.9:8.1) |
 | t1/2 (h) | 1.1 (0.9:1.2) | 1.4 (1.3:1.5) |
 
-Following intravenous administration of esomeprazole in 24 healthy subjects as a loading dose of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours (for a total of 24 hours), esomeprazole pharmacokinetic parameters [geometric mean value (95% CI)] were as follows: AUCt 111.1 micromol*h/L (100.5, 122.7 micromol*h/L), Cmax 15.0 micromol/L (13.5, 16.6 micromol/L), and steady state plasma concentration (Css) 3.9 micromol/L (3.5, 4.5 micromol/L).
+Following intravenous administration of esomeprazole sodium for injection in 24 healthy subjects as a loading dose of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours (for a total of 24 hours), esomeprazole pharmacokinetic parameters [geometric mean value (95% CI)] were as follows: AUCt 111.1 micromol*h/L (100.5, 122.7 micromol*h/L), Cmax 15.0 micromol/L (13.5, 16.6 micromol/L), and steady state plasma concentration (Css) 3.9 micromol/L (3.5, 4.5 micromol/L).
 In another study of healthy Caucasian subjects administered the same treatment regimen.
 Esomeprazole is a time-dependent inhibitor of CYP2C19, resulting in autoinhibition and nonlinear pharmacokinetics.
 The systemic exposure increases in a more than dose proportional manner after multiple oral doses of esomeprazole.
@@ -63,14 +63,14 @@ The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
 Excretion Esomeprazole is excreted as metabolites primarily in urine but also in feces.
 Less than 1% of parent drug is excreted in the urine.
 Esomeprazole is completely eliminated from plasma, and there is no accumulation during once daily administration.
-The plasma elimination half-life of esomeprazole following intravenous administration of esomeprazole is approximately 1.1 to 1.4 hours and is prolonged with increasing doses.
-The plasma clearance (CL) is approximately 5.9 to 7.2 L/h during administration of esomeprazole as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours.
+The plasma elimination half-life of esomeprazole following intravenous administration of esomeprazole sodium for injection is approximately 1.1 to 1.4 hours and is prolonged with increasing doses.
+The plasma clearance (CL) is approximately 5.9 to 7.2 L/h during administration of esomeprazole sodium for injection as an intravenous infusion of 80 mg over 30 minutes followed by a continuous infusion of 8 mg/hour for 23.5 hours.
 Specific Populations Geriatric Patients The AUC and Cmax values of esomeprazole were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 This increase in exposure is not considered clinically relevant.
-Pediatric Patients The pharmacokinetics of esomeprazole were evaluated in 50 pediatric patients birth to 17 years of age, inclusive (of which 44 pediatric patients were 1 month to 17 years) in a randomized, open-label, multi-national, multiple dose study of 20 mg esomeprazole administered as a once-daily 3-minute intravenous injection.
+Pediatric Patients The pharmacokinetics of esomeprazole were evaluated in 50 pediatric patients birth to 17 years of age, inclusive (of which 44 pediatric patients were 1 month to 17 years) in a randomized, open-label, multi-national, multiple dose study of 20 mg esomeprazole sodium for injection administered as a once-daily 3-minute intravenous injection.
 Esomeprazole plasma AUC values were 183% and 60% higher in pediatric patients aged 6 to 11 years and 12 to 17 years, respectively, compared to adults.
-Subsequent pharmacokinetic analyses predicted the following dosage regimens would achieve comparable steady-state plasma exposures (AUC0-24) to those observed in adult patients administered 20 mg of esomeprazole once daily: 0.5 mg/kg once daily for pediatric patients 1 month to 11 months of age, 10 mg once daily for pediatric patients 1 year to 17 years with body weight less than 55 kg, and 20 mg once daily for pediatric patients 1 year to 17 years with body weight of 55 kg and greater.
-Increasing the infusion duration from 3 minutes to 10 minutes or 30 minutes was predicted to produce steady-state Cmax values that were comparable to those observed in adult patients at the 40 mg and 20 mg esomeprazole doses, respectively [see Use in Specific Populations (8.4)].
+Subsequent pharmacokinetic analyses predicted the following dosage regimens would achieve comparable steady-state plasma exposures (AUC0-24) to those observed in adult patients administered 20 mg of esomeprazole sodium for injection once daily: 0.5 mg/kg once daily for pediatric patients 1 month to 11 months of age, 10 mg once daily for pediatric patients 1 year to 17 years with body weight less than 55 kg, and 20 mg once daily for pediatric patients 1 year to 17 years with body weight of 55 kg and greater.
+Increasing the infusion duration from 3 minutes to 10 minutes or 30 minutes was predicted to produce steady-state Cmax values that were comparable to those observed in adult patients at the 40 mg and 20 mg esomeprazole sodium for injection doses, respectively [see Use in Specific Populations (8.4)].
 Male and Female Patients The AUC and Cmax values of esomeprazole were slightly higher (13%) in females than in males at steady state when dosed orally.
 Similar differences have been seen for intravenous administration of esomeprazole.
 This increase in exposure is not considered clinically relevant.
@@ -124,5 +124,5 @@ Approximately 3% of Caucasians and 15 to 20% of Asians are CYP2C19 poor metaboli
 Systemic esomeprazole exposures were modestly higher (approximately 17%) in CYP2C19 intermediate metabolizers (IM; n=6) compared to extensive metabolizers (EM; n=17) of CYP2C19.
 Similar pharmacokinetic differences were noted across these genotypes in a study of Chinese healthy subjects that included 7 EMs and 11 IMs.
 There is very limited pharmacokinetic information for poor metabolizers (PM) from these studies.
-At steady state following once daily administration of esomeprazole 40 mg, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (EMs) is approximately 1.5.
+At steady state following once daily administration of esomeprazole sodium for injection, 40 mg, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (EMs) is approximately 1.5.
 This change in exposure is not considered clinically meaningful.
