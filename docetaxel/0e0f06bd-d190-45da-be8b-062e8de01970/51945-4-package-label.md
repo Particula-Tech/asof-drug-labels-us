@@ -58,8 +58,6 @@ Baxter
 
 NDC 43066-010-01
 
-Rx Only
-
 16 mL Multiple-Dose Vial
 
 Docetaxel
