@@ -10,10 +10,11 @@ As with any IM injection, to avoid an inadvertent subcutaneous injection, body h
 Use for longer than 2 years is not recommended (unless other birth control methods are considered inadequate) due to the impact of long-term MPA Injectable Suspension, USP treatment on bone mineral density (BMD) [see Warnings and Precautions (5.1)].
 Dosage does not need to be adjusted for body weight [see Clinical Studies (14.1)].
 
-To ensure the patient is not pregnant at the time of the first injection, the first injection should be given ONLY during the first 5 days of a normal menstrual period; ONLY within the first 5-days postpartum if not breast-feeding; and if exclusively breast-feeding, ONLY at the sixth postpartum week.
+To ensure the patient is not pregnant at the time of the first injection, the first injection should be given ONLY during the first 5 days of a normal menstrual period or within the first 5-days post‑partum.
+In post-partum mothers who exclusively breastfeed, administer MPA Injectable Suspension, USP during or after the sixth post‑partum week.
 If the time interval between injections is greater than 13 weeks, the physician should determine that the patient is not pregnant before administering the drug.
 The efficacy of MPA Injectable Suspension, USP depends on adherence to the dosage schedule of administration.
 
-## 2.2 Switching From Other Methods of Contraception
+## 2.2 Switching from Other Methods of Contraception
 
 When switching from other contraceptive methods, MPA Injectable Suspension, USP should be given in a manner that ensures continuous contraceptive coverage based upon the mechanism of action of both methods, (e.g., patients switching from oral contraceptives should have their first injection of MPA Injectable Suspension, USP on the day after the last active tablet or at the latest, on the day following the final inactive tablet).

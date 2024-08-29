@@ -7,9 +7,9 @@ The effectiveness of MPA Injectable Suspension, USP is dependent on the patient 
 
 ## 14.2 Bone Mineral Density Changes in Women Treated with MPA Injectable Suspension, USP
 
-In a controlled, clinical study, adult women using MPA Injectable Suspension, USP (150mg) for up to 5 years showed spine and hip bone mineral density (BMD) mean decreases of 5–6%, compared to no significant change in BMD in the control group.
+In a controlled, clinical study, adult women using MPA Injectable Suspension, USP (150 mg) for up to 5 years showed spine and hip bone mineral density (BMD) mean decreases of 5–6%, compared to no significant change in BMD in the control group.
 The decline in BMD was more pronounced during the first two years of use, with smaller declines in subsequent years.
-Mean changes in lumbar spine BMD of -2.86%, -4.11%, -4.89%, -4.93% and -5.38% after 1, 2, 3, 4, and 5 years, respectively, were observed.
+Mean changes in lumbar spine BMD of -2.86%, ‑4.11%, ‑4.89%, ‑4.93% and ‑5.38% after 1, 2, 3, 4, and 5 years, respectively, were observed.
 Mean decreases in BMD of the total hip and femoral neck were similar.
 
 After stopping use of MPA Injectable Suspension, USP, there was partial recovery of BMD toward baseline values during the 2-year post-therapy period.
@@ -40,7 +40,7 @@ Adolescents in the untreated cohort had an increase in BMD during the period of 
 However, the two cohorts were not matched at baseline for age, gynecologic age, race, BMD and other factors that influence the rate of acquisition of BMD.
 
 Table 5.
-BDM Mean Percent Change from Baseline in Adolescents Receiving ≥4 Injections per 60-week Period, by Skeletal Site and Cohort
+BMD Mean Percent Change from Baseline in Adolescents Receiving ≥4 Injections per 60-week Period, by Skeletal Site and Cohort
 
 |  | N | Mean % Change | N | Mean % Change |
 | --- | --- | --- | --- | --- |
@@ -66,7 +66,8 @@ Post-treatment follow-up showed that, in women treated for more than two years, 
 Adolescents treated with MPA Injectable Suspension, USP for more than two years did not recover to their baseline BMD level at femoral neck and total hip even up to 60 months post-treatment.
 Adolescents in the untreated cohort gained BMD throughout the trial period (data not shown) [see Warnings and Precautions (5.1)].
 
-Table 6: BMD Recovery (Months Post-Treatment) in Adolescents by Years of MPA Injectable Suspension, USP Use (2 Years or Less vs. More than 2 Years)
+Table 6.
+BMD Recovery (Months Post-Treatment) in Adolescents by Years of MPA Injectable Suspension, USP Use (2 Years or Less vs. More than 2 Years)
 
 |  | N | Mean % Change from baseline | N | Mean % Change from baseline |
 | --- | --- | --- | --- | --- |

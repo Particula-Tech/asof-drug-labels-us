@@ -21,6 +21,8 @@ Plasma protein binding of medroxyprogesterone acetate averages 86%.
 Medroxyprogesterone acetate binding occurs primarily to serum albumin.
 No binding of medroxyprogesterone acetate occurs with sex-hormone-binding globulin (SHBG).
 
+Elimination
+
 Metabolism
 
 Medroxyprogesterone acetate is extensively metabolized in the liver by P450 enzymes.
