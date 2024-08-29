@@ -27,7 +27,7 @@ Gastric emptying and exocrine pancreatic function were not affected by famotidin
 
 ## Other Effects
 
-Systemic effects of famotidine in the CNS, cardiovascular, respiratory or endocrine systems were not noted in clinical pharmacology studies.
+Systemic effects of famotidine in the central nervous system (CNS), cardiovascular, respiratory or endocrine systems were not noted in clinical pharmacology studies.
 Also, no antiandrogenic effects were noted (see ADVERSE REACTIONS).
 Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testosterone, were not altered after treatment with famotidine.
 
@@ -50,7 +50,18 @@ In patients with severe renal insufficiency, i.e., creatinine clearance less tha
 In elderly patients, there are no clinically significant age-related changes in the pharmacokinetics of famotidine.
 However, in elderly patients with decreased renal function, the clearance of the drug may be decreased (see PRECAUTIONS, Geriatric Use).
 
-## Clinical Studies
+## Drug Interaction Studies
+
+Human Organic Anion Transporter (OAT) 1 and 3: In vitro studies indicate that famotidine is a substrate for OAT1 and OAT3.
+Following coadministration of probenecid (1500 mg), an inhibitor of OAT1 and OAT3, with a single oral 20 mg dose of famotidine in 8 healthy subjects, the serum AUC0-10h of famotidine increased from 424 to 768 ng•hr/mL and the maximum serum concentration (Cmax) increased from 73 to 113 ng/mL.
+Renal clearance, urinary excretion rate and amount of famotidine excreted unchanged in urine were decreased.
+The clinical relevance of this interaction is unknown.
+Multidrug and Toxin Extrusion Protein 1 (MATE-1): An in vitro study showed that famotidine is an inhibitor of MATE-1.
+However, no clinically significant interaction with metformin, a substrate for MATE-1, was observed.
+
+CYP1A2: Famotidine is a weak CYP1A2 inhibitor (see PRECAUTIONS, Drug Interactions).
+
+## CLINICAL STUDIES
 
 The majority of clinical study experience involved oral administration of famotidine tablets, and is provided herein for reference.
 

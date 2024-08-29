@@ -6,14 +6,23 @@ Symptomatic response to therapy with famotidine does not preclude the presence o
 
 ## Patients with Moderate or Severe Renal Insufficiency
 
-Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine (see CLINICAL PHARMACOLOGY IN ADULTS, DOSAGE AND ADMINISTRATION).
+CNS adverse reactions have been reported in elderly patients and patients with moderate and severe renal insufficiency.
+Prolonged QT intervals have also been reported in patients with moderate and severe renal insufficiency.
+Longer intervals between doses or lower doses may need to be used in adult and pediatric patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine (see CLINICAL PHARMACOLOGY IN ADULTS, DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
 
-No drug interactions have been identified.
-Studies with famotidine in man, in animal models, and in vitro have shown no significant interference with the disposition of compounds metabolized by the hepatic microsomal enzymes, e.g., cytochrome P450 system.
-Compounds tested in man include warfarin, theophylline, phenytoin, diazepam, aminopyrine and antipyrine.
-Indocyanine green as an index of hepatic drug extraction has been tested and no significant effects have been found.
+Drugs Dependent on Gastric pH for Absorption
+
+Famotidine can reduce the absorption of other drugs, due to its effect on reducing intragastric acidity, leading to loss of efficacy of the concomitant drug.
+See the prescribing information for other drugs dependent on gastric pH for absorption.
+
+Tizanidine (CYP1A2 Substrate)
+
+Although not studied clinically, famotidine is considered a weak CYP1A2 inhibitor.
+Concomitant use of tizanidine, a CYP1A2 substrate, with famotidine may lead to increased exposure of tizanidine and adverse reactions of hypotension, bradycardia or excessive drowsiness.
+Avoid concomitant use with famotidine.
+If use is clinically necessary, refer to the full prescribing information for tizanidine for dosage information.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -81,9 +90,8 @@ Published uncontrolled studies in pediatric patients have demonstrated gastric a
 
 Of the 4,966 subjects in clinical studies who were treated with famotidine, 488 subjects (9.8%) were 65 and older, and 88 subjects (1.7%) were greater than 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
-However, greater sensitivity of some older patients cannot be ruled out.
+In post marketing experience, CNS adverse reactions have been reported in elderly patients with and without renal impairment receiving famotidine (see WARNINGS).
 
-No dosage adjustment is required based on age (see CLINICAL PHARMACOLOGY IN ADULTS, Pharmacokinetics).
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Famotidine is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, monitor renal function.
 Dosage adjustment in the case of moderate or severe renal impairment is necessary (see PRECAUTIONS, Patients with Moderate or Severe Renal Insufficiency and DOSAGE AND ADMINISTRATION, Dosage Adjustment for Patients with Moderate or Severe Renal Insufficiency).

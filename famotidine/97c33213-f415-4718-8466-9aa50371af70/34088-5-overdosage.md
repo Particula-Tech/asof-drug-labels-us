@@ -3,7 +3,9 @@
 The adverse reactions in overdose cases are similar to the adverse reactions encountered in normal clinical experience (see ADVERSE REACTIONS).
 Oral doses of up to 640 mg/day have been given to adult patients with pathological hypersecretory conditions with no serious adverse effects.
 In the event of overdosage, treatment should be symptomatic and supportive.
-Unabsorbed material should be removed from the gastrointestinal tract, the patient should be monitored, and supportive therapy should be employed.
+In the event of overdosage, the patient should be monitored, and supportive therapy should be employed.
+Due to low binding to plasma proteins, famotidine is eliminated by hemodialysis.
+There is a limited experience on the usefulness of hemodialysis as a treatment for famotidine overdosage.
 
 The intravenous LD50 of famotidine for mice and rats ranged from 254-563 mg/kg and the minimum lethal single I.V. dose in dogs was approximately 300 mg/kg.
 Signs of acute intoxication in I.V. treated dogs were emesis, restlessness, pallor of mucous membranes or redness of mouth and ears, hypotension, tachycardia and collapse.
