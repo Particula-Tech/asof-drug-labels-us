@@ -18,10 +18,10 @@ Refer to the leucovorin Prescribing Information for additional information.
 
 - •For high-dose Methotrexate Injection regimens, follow the supportive care and monitoring instructions below.
   Also consider for patients receiving intermediate-dose Methotrexate Injection regimens.
-  - oMonitor serum creatinine, electrolytes, at baseline and at least daily during therapy
-  - oAdminister intravenous fluids starting before the first dose and continuing throughout treatment to maintain adequate hydration and urine output
-  - oAlkalinize urine starting before the first dose and continuing throughout treatment to maintain a urinary pH of 7 or higher
-  - oMonitor methotrexate concentrations at least daily and adjust hydration and leucovorin dosing as needed
+  - -Monitor serum creatinine, electrolytes, at baseline and at least daily during therapy
+  - -Administer intravenous fluids starting before the first dose and continuing throughout treatment to maintain adequate hydration and urine output
+  - -Alkalinize urine starting before the first dose and continuing throughout treatment to maintain a urinary pH of 7 or higher
+  - -Monitor methotrexate concentrations at least daily and adjust hydration and leucovorin dosing as needed
 - •Administer glucarpidase in patients who have toxic plasma methotrexate concentrations (>1 micromole per liter) and delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase Prescribing Information for additional information)
 
 ## 2.3 Recommended Dosage for Acute Lymphoblastic Leukemia
@@ -40,11 +40,11 @@ Prior to administration, dilute preservative-free Methotrexate Injection to a co
 
 The recommended intrathecal dose of Methotrexate Injection (preservative-free) is based on age:
 
-- •less than 1 year: 6 mg
-- •1 to less than 2 years: 8 mg
-- •2 to less than 3 years: 10 mg
-- •3 to less than 9 years: 12 mg
-- •greater than or equal to 9 years: 12 to15 mg
+- -less than 1 year: 6 mg
+- -1 to less than 2 years: 8 mg
+- -2 to less than 3 years: 10 mg
+- -3 to less than 9 years: 12 mg
+- -greater than or equal to 9 years: 12 to15 mg
 
 For treatment of meningeal leukemia, intrathecal methotrexate may be given at intervals of 2 or more days up to twice weekly; however, administration at intervals of less than 1 week may result in increased subacute toxicity.
 For meningeal leukemia prophylaxis, Methotrexate Injection is administered no more than once weekly.
@@ -150,7 +150,7 @@ Preservative-free (single-dose vial)
 Methotrexate Injection preservative-free may be administered by intramuscular, intravenous, subcutaneous, or intrathecal injection.
 
 - •Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
-- •Use preservative-free Methotrexate Injection for high-dose regimens unless immediate treatment is required, and preservative-free formulations are not available [see Warning and Precautions (5.3) and Use inSpecific Populations (8.4)].
+- •Use preservative-free Methotrexate Injection for high-dose regimens unless immediate treatment is required, and preservative-free formulations are not available [see Warning and Precautions (5.3) and Use in Specific Populations (8.4)].
 - •Preservative-free Methotrexate Injection may be further diluted before use with preservative-free 0.9% Sodium Chloride Injection, USP.
   Diluted product should be used within 4 hours when stored at room temperature (20°C to 25°C) or 24 hours when stored under refrigeration (2°C to 8°C).
 - •Visually inspect for particulate matter and discoloration prior to administration.
