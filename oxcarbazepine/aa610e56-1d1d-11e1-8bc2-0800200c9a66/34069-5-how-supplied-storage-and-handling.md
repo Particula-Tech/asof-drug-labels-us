@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Dosage Form Supplied
+## 16.1 How Supplied
 
 150 mg (yellow modified-oval shaped tablet printed "150" on one side with edible black ink).
 

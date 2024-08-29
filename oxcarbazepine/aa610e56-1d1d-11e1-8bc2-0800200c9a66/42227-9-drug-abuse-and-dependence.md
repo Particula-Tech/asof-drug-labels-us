@@ -2,8 +2,8 @@
 
 ## 9.2 Abuse
 
-The abuse potential of Oxtellar XR ®has not been evaluated in human studies.
-Oxtellar XR ®is not habit forming, and is not expected to encourage abuse.
+The abuse potential of Oxtellar XR has not been evaluated in human studies.
+Oxtellar XR is not habit forming, and is not expected to encourage abuse.
 
 ## 9.3 Dependence
 

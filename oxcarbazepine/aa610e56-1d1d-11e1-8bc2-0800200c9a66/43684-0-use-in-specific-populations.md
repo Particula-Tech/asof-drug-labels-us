@@ -9,7 +9,7 @@ Encourage women who are taking Oxtellar XR during pregnancy to enroll in the Nor
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with the use of Oxtellar XR ®in pregnant women; however, Oxtellar XR ®is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
+There are no adequate data on the developmental risks associated with the use of Oxtellar XR in pregnant women; however, Oxtellar XR is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
 Data on a limited number of pregnancies from pregnancy registries suggest that oxcarbazepine monotherapy use is associated with congenital malformations (e.g., craniofacial defects such as oral clefts, and cardiac malformations such as ventricular septal defects).
 Increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity (embryolethality, growth retardation) were observed in the offspring of animals treated with either oxcarbazepine or its active 10-hydroxy metabolite (MHD) during pregnancy at doses similar to the maximum recommended human dose (MRHD).
 
@@ -56,13 +56,11 @@ Advise women of reproductive potential taking Oxtellar XR who are using a contra
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Oxtellar XR ®in pediatric patients 6 years of age and older for the treatment of partial-onset seizures is supported by:
+The safety and effectiveness of Oxtellar XR in pediatric patients 6 years of age and older for the treatment of partial-onset seizures is supported by:
 
-1) An adequate and well-controlled safety and efficacy study of Oxtellar XR ®in adults that included pharmacokinetic sampling [see Clinical Studies (14.1)],
-
-2) A pharmacokinetic study of Oxtellar XR ®in pediatric patients, which included patients 6 to less than 17 years of age [see Clinical Pharmacology (12.3)],
-
-3) Safety and efficacy studies with the immediate-release formulation in adults and pediatric patients [see Clinical Studies (14.2)and Adverse Reactions (6.1)].
+- An adequate and well-controlled safety and efficacy study of Oxtellar XR in adults that included pharmacokinetic sampling [see Clinical Studies (14.1)],
+- A pharmacokinetic study of Oxtellar XR in pediatric patients, which included patients 6 to less than 17 years of age [see Clinical Pharmacology (12.3)],
+- Safety and efficacy studies with the immediate-release formulation in adults and pediatric patients [see Clinical Studies (14.2)and Adverse Reactions (6.1)].
 
 Oxtellar XR ®is not approved for pediatric patients less than 6 years of age because the size of the tablets are inappropriate for younger children.
 
@@ -77,11 +75,11 @@ Close monitoring of sodium levels is required in elderly patients at risk for hy
 
 There is a linear correlation between creatinine clearance and the renal clearance of MHD [see Clinical Pharmacology (12.3)and Dosage and Administration (2.3)].
 
-The pharmacokinetics of Oxtellar XR ®has not been evaluated in patients with renal impairment.
+The pharmacokinetics of Oxtellar XR has not been evaluated in patients with renal impairment.
 In patients with severe renal impairment (creatinine clearance <30 mL/min) given immediate-release oxcarbazepine, the elimination half-life of MHD was prolonged with a corresponding two-fold increase in AUC [see Clinical Pharmacology (12.3)].
-In these patients initiate Oxtellar XR ®at a lower starting dosage and increase, if necessary, at a slower than usual rate until the desired clinical response is achieved [see Dosage and Administration (2.3)].
+In these patients initiate Oxtellar XR at a lower starting dosage and increase, if necessary, at a slower than usual rate until the desired clinical response is achieved [see Dosage and Administration (2.3)].
 
-In patients with end-stage renal disease on dialysis, it is recommended that immediate-release oxcarbazepine be used instead of Oxtellar XR ®.
+In patients with end-stage renal disease on dialysis, it is recommended that immediate-release oxcarbazepine be used instead of Oxtellar XR.
 
 ## 8.7 Hepatic Impairment
 
