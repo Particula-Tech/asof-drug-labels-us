@@ -2,12 +2,12 @@
 
 ## 14.1 Chronic Obstructive Pulmonary Disease (COPD)
 
-The efficacy and safety of Roflumilast Tablets in COPD was evaluated in 8 randomized, double-blind, controlled, parallel-group clinical trials in 9394 adult patients (4425 receiving Roflumilast Tablets 500 mcg) 40 years of age and older with COPD.
+The efficacy and safety of Roflumilast Tablets (roflumilast) in COPD was evaluated in 8 randomized, double-blind, controlled, parallel-group clinical trials in 9394 adult patients (4425 receiving Roflumilast Tablets 500 mcg) 40 years of age and older with COPD.
 Of the 8 trials, two were placebo-controlled dose selection trials (Trials 1 and 2) of 6 months' duration that evaluated the efficacy of Roflumilast Tablets 250 mcg and 500 mcg once daily, four were placebo-controlled 1-year trials (Trials 3, 4, 5, and 6) primarily designed to evaluate the efficacy of Roflumilast Tablets on COPD exacerbations, and two were 6-month efficacy trials (Trials 7 and 8) which assessed the effect of Roflumilast Tablets as add-on therapy to a long-acting beta agonist or long-acting anti-muscarinic.
 The 8 trials enrolled patients with nonreversible obstructive lung disease (FEV1/FVC ≤ 70% and ≤ 12% or 200 mL improvement in FEV1 in response to 4 puffs of albuterol/salbutamol) but the severity of airflow obstruction at baseline was different among the trials.
-Patients enrolled in the dose selection trials had the full range of COPD severity (FEV1 30-80% predicted); median age of 63 years, 73% male, and 99% Caucasian.
+Patients enrolled in the dose selection trials had the full range of COPD severity (FEV1 30 to 80% predicted); median age of 63 years, 73% male, and 99% Caucasian.
 Patients enrolled in the four exacerbation trials had severe COPD (FEV1≤ 50% predicted); median age of 64 years, 74% male, and 90% Caucasian.
-Patients enrolled in the two 6-month efficacy trials had moderate to severe COPD (FEV1 40-70% predicted); median age of 65 years, 68% male, and 97% Caucasian.
+Patients enrolled in the two 6-month efficacy trials had moderate to severe COPD (FEV1 40 - 70% predicted); median age of 65 years, 68% male, and 97% Caucasian.
 COPD exacerbations and lung function (FEV1) were co-primary efficacy outcome measures in the four 1-year trials.
 In the two 6-month supportive efficacy trials, lung function (FEV1) alone was the primary efficacy outcome measure.
 

@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-ROFLUMILAST (roe-FLUE-mi-last) Tablets
+Dispense with Medication Guide available at: www.NovadozPharma.com/Products MEDICATION GUIDE ROFLUMILAST (roe-FLUE-mi-last) Tablets
 
 Read this Medication Guide before you start taking Roflumilast Tablets and each time you get a refill.
 There may be new information.
@@ -95,4 +93,10 @@ What are the ingredients in Roflumilast Tablets?
 Active ingredient: roflumilast Inactive ingredients: lactose monohydrate, magnesium stearate, polysorbate 80 and pregelatinised starch,.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854 -3714 Issued on: August 2022
+Manufactured by:
+
+MSN Laboratories Private Limited Telangana – 509 228, INDIA
+
+Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854 -3714
+
+Issued on: August 2024
