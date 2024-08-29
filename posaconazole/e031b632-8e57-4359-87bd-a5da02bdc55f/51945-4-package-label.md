@@ -8,13 +8,13 @@ Posaconazole Delayed-Release Tablets
 
 Each tablet contains 100 mg posaconazole.
 
-Attention: Posaconazole Oral Suspension and Delayed-Release Tablets are NOT interchangeable due to differences in the dosing of each formulation.
+Attention: Posaconazole Oral Suspension and Delayed-Release Tablets are NOT substitutable due to differences in the dosing of each formulation.
 
 Rx only
 
 60 Tablets
 
-PAR PHARMACEUTICAL
+endo®
 
 # PRINCIPAL DISPLAY PANEL - 105 ML BOTTLE CARTON
 
@@ -38,4 +38,4 @@ Carton contains measured dosing spoon.
 
 Rx only
 
-PAR PHARMACEUTICAL
+endo®
