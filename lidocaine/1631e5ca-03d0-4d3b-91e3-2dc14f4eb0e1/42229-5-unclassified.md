@@ -73,8 +73,8 @@ Disinfecting agents containing heavy metals, which cause release of respective i
 Manufactured by HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mό, 8, 8A e 8B – Fervença 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
+Distributed by Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised July 2019
+Revised August 2024
 
-PIN363-WES/4
+PIN363-WES/5
