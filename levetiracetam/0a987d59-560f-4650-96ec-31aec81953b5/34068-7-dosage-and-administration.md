@@ -100,4 +100,4 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 
 ## 2.6 Discontinuation of Levetiracetam Tablets
 
-Avoid abrupt withdrawal from levetiracetam tablets in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+Avoid abrupt withdrawal from levetiracetam tablets in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.8)].

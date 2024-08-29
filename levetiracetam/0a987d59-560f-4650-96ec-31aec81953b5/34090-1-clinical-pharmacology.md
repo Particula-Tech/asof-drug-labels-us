@@ -87,7 +87,7 @@ However, differences in exposures between obese and non-obese pediatric patients
 
 #### Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 #### Gender
 

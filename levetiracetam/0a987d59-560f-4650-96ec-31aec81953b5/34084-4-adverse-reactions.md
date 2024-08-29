@@ -7,9 +7,10 @@ The following adverse reactions are discussed in more details in other sections 
 - •Somnolence and Fatigue [see Warnings and Precautions (5.3)]
 - •Anaphylaxis and Angioedema [see Warnings and Precautions (5.4)]
 - •Serious Dermatological Reactions [see Warnings and Precautions (5.5)]
-- •Coordination Difficulties [see Warnings and Precautions (5.6)]
-- •Hematologic Abnormalities [see Warnings and Precautions (5.8)]
-- •Increase in Blood Pressure [see Warnings and Precautions (5.9)]
+- •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.6)]
+- •Coordination Difficulties [see Warnings and Precautions (5.7)]
+- •Hematologic Abnormalities [see Warnings and Precautions (5.9)]
+- •Increase in Blood Pressure [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
