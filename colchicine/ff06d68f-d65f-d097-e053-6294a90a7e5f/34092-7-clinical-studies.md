@@ -13,8 +13,6 @@ The primary end point of LoDoCo2 trial was a composite of cardiovascular death, 
 
 In the LoDoCo2 trial, 0.5 mg of colchicine once daily resulted in a 31% lower relative risk (RRR) of the primary composite endpoint events compared to placebo (HR, 0.69; 95% [CI] 0.57 to 0.83; p<0.001) and the number needed to treat (NNT) was 36.
 
-Figure 1: Cumulative Incidence of Primary End point in LoDoCo2 trial
-
 The results of the primary endpoint are summarized in Table 4.
 
 Table 4: Summary of efficacy results of LoDoCo2 trial

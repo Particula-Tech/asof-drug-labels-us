@@ -6,8 +6,7 @@ LODOCO can cause myelosuppression, leukopenia, granulocytopenia, thrombocytopeni
 Gastrointestinal symptoms often are the first sign of colchicine toxicity, so new symptoms should prompt an evaluation for toxicity.
 Concomitant use of drugs that reduce the metabolism of colchicine or the presence of hepatic or renal impairment increases the risk of developing blood dyscrasias.
 
-Use of LODOCO in patients with pre-existing blood dyscrasias, renal failure (Creatinine clearance less than 15 mL/minute), or severe hepatic dysfunction, and concomitant use of strong CYP3A4 inhibitors or P-glycoprotein inhibitors is contraindicated.
-[see Contraindications (4)].
+Use of LODOCO in patients with pre-existing blood dyscrasias, renal failure (Creatinine clearance less than 15 mL/minute), or severe hepatic dysfunction, and concomitant use of strong CYP3A4 inhibitors or P-glycoprotein inhibitors is contraindicated [see Contraindications (4)].
 
 Concomitant use of moderate CYP3A4 inhibitors with LODOCO should be avoided in patients with risk factors for increased systemic exposure of colchicine.
 Monitor patients with any degree of renal impairment and hepatic impairment for colchicine toxicity [see Use in Specific Populations (8.6, 8.7)].

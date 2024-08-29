@@ -23,6 +23,7 @@ Table 2: Summary of LODOCO Pharmacokinetic Parameters in Healthy Adults under Fa
 
 Absorption Oral colchicine intake undergoes an entero-hepatic recirculation.
 In healthy adults, LODOCO is absorbed when given orally, reaching a mean Cmax 2.1 ng/ml in approximately 1 hour after a single dose administered under fasting conditions.
+
 The mean absolute bioavailability of colchicine is reported to be approximately 45%.
 
 Effect of food When LODOCO was administered with or following a high-fat, high-calorie meal in a bioavailability study, the results showed a lack of a significant food effect, see Table 2, above.
@@ -31,9 +32,12 @@ The mean peak plasma concentration of LODOCO under fed conditions was found to b
 
 Distribution
 
-The mean apparent volume of distribution in healthy volunteers is approximately 1300 L. Colchicine binding to serum protein is 39 ± 5%, primarily to albumin regardless of concentration.
+The mean apparent volume of distribution in healthy volunteers is approximately 1300 L.
+
+Colchicine binding to serum protein is 39 ± 5%, primarily to albumin regardless of concentration.
 After reabsorption, is rapidly removed from the plasma and distributed to various tissues.
 Colchicine is found in high concentrations in leucocytes, kidneys, the liver, and spleen.
+
 Colchicine crosses the placenta.
 Colchicine also distributes into breast milk.
 Colchicine can also cross the blood-brain barrier and accumulate within the brain, which contains large amount of tubulin [see Use in Specific Populations (8.1, 8.2)].
@@ -46,15 +50,20 @@ Colchicine is demethylated to two primary metabolites, 2-O-demethylcolchicine an
 In vitro studies using human liver microsomes have shown that CYP3A4 is involved in the metabolism of colchicine to 2- and 3-DMC.
 Plasma levels of these metabolites are (less than 5% of parent drug).
 
-Excretion In healthy volunteers (n=12), 40 to 65% of 1 mg orally administered colchicine was recovered unchanged in urine.
+Excretion
+
+In healthy volunteers (n=12), 40 to 65% of 1 mg orally administered colchicine was recovered unchanged in urine.
 Enterohepatic recirculation and biliary excretion are also postulated to play a role in colchicine elimination.
 Following single oral dose of 0.5 mg daily, the mean effective half-life in healthy volunteers is 19 hours.
 Colchicine is a substrate of P-gp.
-
 Colchicine is not removed by hemodialysis.
 
-Specific Populations Geriatric Patients The pharmacokinetic studies of LODOCO were not conducted in elderly patients.
-In a study, conducted to compare the relative bioavailability in between 18 elderly subjects and 20 young subjects, the following pharmacokinetic parameter values (mean ± SD) were observed for colchicine in the young and elderly subjects, respectively: AUC (ng/.hr/mL) 22.4 ± 7.0 and 25.0 ± 6.9; Cmax (ng/mL) 2.6 ± 0.7 and 2.6 ± 1.0; Tmax (h) 1.4 ± 0.4 and 1.3 ± 0.4; apparent elimination half-life (h) 24.9 ± 5.3 and 30.1 ± 10.8.
+Specific Populations
+
+Geriatric Patients
+
+The pharmacokinetic studies of LODOCO were not conducted in elderly patients.
+In a study, conducted to compare the relative bioavailability in between 18 elderly subjects and 20 young subjects, the following pharmacokinetic parameter values (mean ± SD) were observed for colchicine in the young and elderly subjects, respectively: AUC (ng/.hr/mL) 22.4 ± 7.0 and 25.0 ± 6.9; C max (ng/mL) 2.6 ± 0.7 and 2.6 ± 1.0; T max (h) 1.4 ± 0.4 and 1.3 ± 0.4; apparent elimination half-life (h) 24.9 ± 5.3 and 30.1 ± 10.8.
 No statistical difference in the pharmacokinetic parameters were found between the groups and it was concluded that no dosing adjustments were required in elderly patients.
 
 Another study illustrated that after IV administration of 0.5 mg colchicine to six healthy male adults and 1mg colchicine to four elderly group the absorption is similar in healthy volunteers and elderly subjects.
@@ -65,19 +74,25 @@ Pediatric Patients
 The sponsor did not conduct any pharmacokinetic studies in pediatric patients.
 No literature was found in the database on pharmacokinetics of colchicine in pediatric patients with the intended indication.
 
-Patients with Renal Impairment The exposure of colchicine was similar for normal renal function and mild impairment (24.7–27.2 ng.h/mL) but doubled in subjects with moderate or severe renal impairment (48.9 and 48.0 ng.h/mL, respectively).
+Patients with Renal Impairment
+
+The exposure of colchicine was similar for normal renal function and mild impairment (24.7–27.2 ng.h/mL) but doubled in subjects with moderate or severe renal impairment (48.9 and 48.0 ng.h/mL, respectively).
 The same study showed an unexpected result that subjects with ESRD, prior to and during hemodialysis, only have a modest increase in exposure to colchicine (30.6 – 31.7 ng.h/mL) compared to healthy control.
 The reason for this is not clear.
 A small amount of the colchicine dose (mean of 5.2 %) was recovered in dialysate [see Use in Specific Population (8.6)].
 In another study, subjects with end-stage renal disease requiring dialysis had 75% lower colchicine clearance (0.17 vs 0.73 L/hr/kg) and prolonged plasma elimination half-life (18.8 vs 4.4 hours) as compared to subjects with normal renal function.
 
-Patients with Hepatic Impairment From the published literature, in some subjects with mild to moderate cirrhosis, healthy subjects had a mean clearance of 10.7 ml/min.kg, whereas cirrhotic patients had a mean clearance of 4.2 ml/min.kg.
+Patients with Hepatic Impairment
+
+From the published literature, in some subjects with mild to moderate cirrhosis, healthy subjects had a mean clearance of 10.7 ml/min.kg, whereas cirrhotic patients had a mean clearance of 4.2 ml/min.kg.
 The mean half-life was about 57 minutes in control subjects vs. about 114 minutes in cirrhotic patients.
 Volume of distribution was not different in the two groups (0.7 ± 0.1 L/kg in control subjects; 0.7 ± 0.2 L/kg in cirrhotic patients).
 The study concluded that cirrhosis impairs colchicine clearance.
 No pharmacokinetic data are available for patients with severe hepatic impairment [see Use in Specific Population (8.7)].
 
-Drug Interaction Studies In vitro drug interactions: In vitro studies in human liver microsomes have shown that colchicine is not an inhibitor or inducer of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 activity.
+Drug Interaction Studies
+
+In vitro drug interactions: In vitro studies in human liver microsomes have shown that colchicine is not an inhibitor or inducer of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 activity.
 
 In vivo drug interactions:
 

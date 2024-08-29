@@ -4,7 +4,7 @@
 
 Because clinical studies are conducted under widely varying and controlled conditions, adverse reaction rates observed in clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 
-In the LoDoCo2 trial, myalgia was reported for 21.2% of individuals randomized to colchicine and 18.5% of individuals randomized to matching placebo (hazard ratio 1.15, 95% CI 1.01-1.31).
+In the LoDoCo2 trial, myalgia was reported for 21.2% of individuals randomized to colchicine and 18.5% of individuals randomized to matching placebo (hazard ratio 1.15, 95%CI 1.01-1.31).
 
 6.2 Postmarketing Experience
 

@@ -7,15 +7,11 @@ Risk summary
 Available human data from published literature on colchicine use in pregnancy over several decades have not identified any drug associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 Colchicine crosses the human placenta.
 Although animal reproduction and developmental studies were not conducted with LODOCO (colchicine), published animal reproduction and development studies indicate that colchicine causes embryofetal toxicity and altered postnatal development at exposures within or above the clinical therapeutic range.
-
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Data Human Data
-
-Available data from published observational studies, case series, and case reports over several decades do not suggest an increased risk for major birth defects or miscarriage in pregnant women with rheumatic diseases (such as rheumatoid arthritis, Behcet’s disease, or Familial Mediterranean fever (FMF)) treated with colchicine at therapeutic doses during pregnancy.
-
+Data Human Data Available data from published observational studies, case series, and case reports over several decades do not suggest an increased risk for major birth defects or miscarriage in pregnant women with rheumatic diseases (such as rheumatoid arthritis, Behcet’s disease, or Familial Mediterranean fever (FMF)) treated with colchicine at therapeutic doses during pregnancy.
 Limitations of these data include the lack of randomization and inability to control for confounders such as underlying maternal disease and maternal use of concomitant medications.
 
 8.2 Lactation
@@ -31,7 +27,7 @@ Data
 
 Limited published data from case reports and a small lactation study demonstrate colchicine is present in breastmilk.
 A systematic review of literature reported no adverse effects in 149 breastfed children and advised to reconsider breastfeeding if the infant has diarrhea.
-In a prospective observational cohort study, no gastrointestinal or other symptoms were reported in 38 colchicineexposed breastfed infants.
+In a prospective observational cohort study, no gastrointestinal or other symptoms were reported in 38 colchicine-exposed breastfed infants.
 
 8.3 Females and Males of Reproductive Potential
 

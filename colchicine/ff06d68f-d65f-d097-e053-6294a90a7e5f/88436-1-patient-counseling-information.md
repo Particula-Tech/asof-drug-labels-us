@@ -4,11 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Dosing Instructions
 
-Advise patients to take LODOCO as prescribed, and patients should not alter or discontinue the medication without consulting their healthcare provider.
-
-Advise patients that if the dose of LODOCO is missed, they should take the missed dose as soon as possible and return to the normal dosing schedule.
-
-If a dose is skipped advise patient not to double the next dose.
+- Advise patients to take LODOCO as prescribed, and patients should not alter or discontinue the medication without consulting their healthcare provider.
+- Advise patients that if the dose of LODOCO is missed, they should take the missed dose as soon as possible and return to the normal dosing schedule.
+- If a dose is skipped advise patient not to double the next dose.
 
 Drug and food interactions
 
