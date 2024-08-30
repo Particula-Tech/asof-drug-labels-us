@@ -42,6 +42,14 @@ Bedminster, NJ 07921, USA.
 
 Manufactured by:
 
+Alembic Pharmaceuticals Limited
+
+Karakhadi - 391 450, Gujarat, India.
+
+(or)
+
+Manufactured by:
+
 Gland Pharma Limited,
 
 D.P.
@@ -116,6 +124,14 @@ Manufactured for:
 Alembic Pharmaceuticals, Inc.
 
 Bedminster, NJ 07921, USA.
+
+Manufactured by:
+
+Alembic Pharmaceuticals Limited
+
+Karakhadi - 391 450, Gujarat, India.
+
+(or)
 
 Manufactured by:
 
