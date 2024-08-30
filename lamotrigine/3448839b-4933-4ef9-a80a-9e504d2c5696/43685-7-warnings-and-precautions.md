@@ -27,7 +27,7 @@ Patients with History of Allergy or Rash to Other Antiepileptic Drugs
 
 The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
 
-## 5.2 Hemophagocytic Lymphohistiocytocis
+## 5.2 Hemophagocytic Lymphohistiocytosis
 
 Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking lamotrigine for various indications.
 HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
@@ -59,7 +59,7 @@ Prior to initiation of treatment with lamotrigine, the patient should be instruc
 
 ## 5.4 Cardiac Rhythm and Conduction Abnormalities
 
-In vitro testing showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations In vitro testing showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].
+In vitro testing showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].
 Based on these in vitro findings, lamotrigine could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease).
 Any expected or observed benefit of lamotrigine in an individual patient with clinically important structural or functional heart disease must be carefully weighed against the risks for serious arrhythmias and/or death for that patient.
 Concomitant use of other sodium channel blockers may further increase the risk of proarrhythmia.
@@ -129,7 +129,7 @@ Medication errors involving lamotrigine have occurred.
 In particular, the name lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of lamotrigine.
 To reduce the potential of medication errors, write and say lamotrigine clearly.
-Depictions of the lamotrigine tablets, USP can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
+Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
 
 ## 5.9 Concomitant Use with Oral Contraceptives
@@ -163,7 +163,7 @@ Consequently, whether these figures are reassuring or suggest concern depends on
 Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
-## 5.13 Addition of Lamotrigine Tablets to a Multidrug Regimen that Includes Valproate
+## 5.13 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
 
 Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage andAdministration (2.2, 2.3, 2.4), Drug Interactions (7)].
 

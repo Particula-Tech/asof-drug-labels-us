@@ -184,7 +184,7 @@ In the clinical development program in adults with bipolar disorder, 2 patients 
 Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with lamotrigine (100 to 400-mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n=227), 4% for patients treated with lithium (n=166), and 7% for patients treated with placebo (n=190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n=956), 3% of patients treated with lithium (n=280), and 4% of patients treated with placebo (n=803).
 
-## 6.2 Other Adverse Adverse Reactions Observed in All Clinical Trials
+## 6.2 Other Adverse Reactions Observed in All Clinical Trials
 
 Lamotrigine has been administered to 6,694 individuals for whom complete adverse reaction data was captured during all clinical trials, only some of which were placebo controlled.
 During these trials, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
@@ -270,7 +270,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic
 
-Agranulocytosis, hemolytic anemia, lymphadonepathy not associated with hypersensitivity disorder.
+Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
 
 Gastrointestinal
 

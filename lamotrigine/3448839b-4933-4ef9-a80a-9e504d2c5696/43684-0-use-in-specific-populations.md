@@ -85,7 +85,7 @@ Epilepsy
 Lamotrigine is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
 Safety and efficacy of lamotrigine used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
-Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, Placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).
+Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 

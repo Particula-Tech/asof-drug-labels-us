@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Actions
+## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown.
 In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity.
@@ -340,20 +340,14 @@ Concomitant AEDs which influence lamotrigine clearance in adults were found to h
 Table 16.
 Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 
-| Pediatric Study Population | Number of Subjects | T max (h) | t 1/2 (h) | CL/F (mL/min/kg) |
+| Pediatric Study Population | Number of Subjects | Tmax(h) | t1/2 (h) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- |
-| Ages 10 months to 5.3 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea Subjects taking antiepileptic | 10 | 3.0 (1.0 to 5.9) | 7.7 (5.7 to 11.4) | 3.62 (2.44 to 5.28) |
-| drugs with no known effect on the apparent clearance of lamotrigine Subjects taking | 7 | 5.2 (2.9 to 6.1) | 19.0 (12.9 to 27.1) | 1.2 (0.75 to 2.42) |
-| valproate only | 8 | 2.9 (1.0 to 6.0) | 44.9 (29.5 to 52.5) | 0.47 (0.23 to 0.77) |
-| Ages 5 to 11 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 7 | 1.6 (1.0 to 3.0) | 7.0 (3.8 to 9.8) | 2.54 (1.35 to 5.58) |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | 3.3 (1.0 to 6.4) | 19.1 (7.0 to 31.2) | 0.89 (0.39 to 1.93) |
-| Subjects taking valproate only b | 3 | 4.5 (3.0 to 6.0) | 65.8 (50.7 to 73.7) | 0.24 (0.21 to 0.26) |
-| Ages 13 to 18 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone a | 11 | ___c | ___c | 1.3 |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | ___c | ___c | 0.5 |
-| Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
-| a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
-| b Two subjects were included in the calculation for mean T max. |  |  |  |  |
-| c Parameter not estimated. |  |  |  |  |
+| Ages 10 months to 5.3 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidoneaSubjects taking antiepileptic drugs with no known effect on the apparent clearance of lamotrigineSubjects taking valproate only | 1078 | 3.0(1.0 to 5.9)5.2(2.9 to 6.1)2.9(1.0 to 6.0) | 7.7 (5.7 to 11.4)19.0 (12.9 to 27.1)44.9 (29.5 to 52.5) | 3.62 (2.44 to 5.28)1.2 (0.75 to 2.42)0.47 (0.23 to 0.77) |
+| Ages 5 to 11 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidoneaSubjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate Subjects taking valproate onlyb | 783 | 1.6 (1.0 to 3.0)3.3 (1.0 to 6.4)4.5 (3.0 to 6.0) | 7.0 (3.8 to 9.8)19.1 (7.0 to 31.2)65.8 (50.7 to 73.7) | 2.54(1.35 to 5.58)0.89 (0.39 to 1.93)0.24 (0.21 to 0.26) |
+| Ages 13 to 18 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidoneaSubjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproateSubjects taking valproate only | 1184 | ___c___c ___c | ___c___c ___c | 1.30.5 0.3 |
+
+a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. b Two subjects were included in the calculation for mean Tmax. c Parameter not estimated.
 
 Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).

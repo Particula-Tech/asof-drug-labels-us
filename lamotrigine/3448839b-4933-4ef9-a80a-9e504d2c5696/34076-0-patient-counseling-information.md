@@ -14,7 +14,7 @@ MultiorganHypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
 Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with lamotrigine.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
-Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
+Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.5)].
 
 Cardiac Rhythm and Conduction Abnormalities
 
@@ -68,3 +68,5 @@ Potential Medication Errors
 
 To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides depictions of the lamotrigine tablets.
+
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/

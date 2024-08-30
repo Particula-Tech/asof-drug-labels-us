@@ -13,7 +13,7 @@ The risk of nonserious rash may be increased when the recommended initial dose a
 Lamotrigine Tablets Starter Kits provide lamotrigine at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications, for patients with epilepsy (older than 12 years) and bipolar I disorder (adults) and are intended to help reduce the potential for rash.
 The use of lamotrigine Starter Kits is recommended for appropriate patients who are starting or restarting lamotrigine [see How Supplied/Storage and Handling (16)].
 
-It is recommended that lamotrigine tablets, USP not be restarted in patients who discontinued due to rash associated with prior treatment with lamotrigine unless the potential benefits clearly outweigh the risks.
+It is recommended that lamotrigine tablets not be restarted in patients who discontinued due to rash associated with prior treatment with lamotrigine unless the potential benefits clearly outweigh the risks.
 If the decision is made to restart a patient who has discontinued lamotrigine tablets, the need to restart with the initial dosing recommendations should be assessed.
 The greater the interval of time since the previous dose, the greater consideration should be given to restarting with the initial dosing recommendations.
 If a patient has discontinued lamotrigine for a period of more than 5 half-lives, it is recommended that initial dosing recommendations and guidelines be followed.
@@ -25,7 +25,7 @@ Because lamotrigine is metabolized predominantly by glucuronic acid conjugation,
 Drugs that induce glucuronidation include carbamazepine, phenytoin, phenobarbital, primidone, rifampin, estrogen-containing oral contraceptives, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
 Valproate inhibits glucuronidation.
 For dosing considerations for lamotrigine in patients on estrogen-containing contraceptives and atazanavir/ritonavir, see below and Table 13.
-For dosing considerations for lamotrigine in patients on other drugs known to induce or inhibit glucuronidation, see Tables 1, 2, 5 to 6, and 13.
+For dosing considerations for lamotrigine in patients on other drugs known to induce or inhibit glucuronidation, see Tables 1, 2, 5-6, and 13.
 
 Target Plasma Levels for Patients with Epilepsy or Bipolar Disorder
 
@@ -34,7 +34,7 @@ Dosing of lamotrigine tablets should be based on therapeutic response [see Clini
 
 Women Taking Estrogen-Containing Oral Contraceptives
 
-Starting Lamotrigine tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine tablets [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Starting Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives.
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine tablets based on the concomitant AED or other concomitant medications (see Tables 1, 5, and 7).
 See below for adjustments to maintenance doses of lamotrigine in women taking estrogen-containing oral contraceptives.
 
@@ -53,7 +53,7 @@ For women taking lamotrigine tablets in addition to carbamazepine, phenytoin, ph
 
 (3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of lamotrigine will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level.
 The decrease in dose of lamotrigine tablets should not exceed 25% of the total daily dose per week over a 2-week period, unless clinical response or lamotrigine plasma levels indicate otherwise [see Clinical Pharmacology (12.3)].
-In women taking lamotrigine tablets in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of lamotrigine tablets should be necessary.
+In women taking lamotrigine in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of lamotrigine tablets should be necessary.
 
 Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy
 
@@ -131,7 +131,7 @@ Table 2 Escalation Regimen for Lamotrigine in Patients Aged 2 to 12 Years with E
 | Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Week 5 onward to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. |
-| Usual Maintenance Dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
+| Usual maintenance dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
 | Maintenance dose in patients <30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
 | Note: Only whole tablets should be used for dosing. |  |  |  |
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
@@ -205,7 +205,7 @@ In patients discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or
 The dose of lamotrigine tablets may then be further adjusted to the target dose (200 mg) as clinically indicated.
 
 If other drugs are subsequently introduced, the dose of lamotrigine tablets may need to be adjusted.
-In particular, the introduction of valproate requires reduction in the dose of lamotrigine tablets [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+In particular, the introduction of valproate requires reduction in the dose of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations of lamotrigine should not be exceeded [see Boxed Warning].
 
@@ -218,7 +218,7 @@ Table 5 Escalation Regimen for Lamotrigine Tablets in Adults with Bipolar Disord
 | Week 5 | 50 mg daily | 100 mg daily | 200 mg daily, in divided doses |
 | Week 6 | 100 mg daily | 200 mg daily | 300 mg daily, in divided doses |
 | Week 7 | 100 mg daily | 200 mg daily | up to 400 mg daily, in divided doses |
-| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearaneof lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
+| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearane of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 | b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 Table 6 Dosage Adjustments to Lamotrigine Tablets in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
