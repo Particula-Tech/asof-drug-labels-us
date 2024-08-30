@@ -2,10 +2,11 @@
 
 ## Therapy
 
-Penicillin G Potassium for Injection, USP is indicated in the treatment of serious infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
+Penicillin G Potassium for Injection is indicated in the treatment of serious infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
+
 Appropriate culture and susceptibility tests should be done before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to penicillin G.
 
-Therapy with Penicillin G Potassium for Injection, USP may be initiated before results of such tests are known when there is reason to believe the infection may involve any of the organisms listed below; however, once these results become available, appropriate therapy should be continued.
+Therapy with Penicillin G Potassium for Injection may be initiated before results of such tests are known when there is reason to believe the infection may involve any of the organisms listed below; however, once these results become available, appropriate therapy should be continued.
 
 | CLINICAL INDICATION | INFECTING ORGANISM |
 | --- | --- |

@@ -35,7 +35,7 @@ Reactions include neutropenia, which resolves after penicillin therapy is discon
 
 ## Metabolic
 
-Penicillin G Potassium for Injection, USP (1 million units contains 1.68 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
+Penicillin G Potassium for Injection (1 million units contains 1.68 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
 
 ## Nervous system
 
@@ -50,5 +50,9 @@ Discontinuation of penicillin G results in resolution in the majority of patient
 ## Local reactions
 
 Phlebitis and thrombophlebitis may occur, and pain at the injection site has been reported with intravenous administration.
+
+## Immune system disorders
+
+Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction.
 
 To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.

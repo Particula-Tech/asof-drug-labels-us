@@ -11,11 +11,11 @@ If an allergic reaction occurs, penicillin G should be discontinued and appropri
 ## Severe cutaneous adverse reactions
 
 Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking beta-lactam antibiotics.
-When SCAR is suspected, Penicillin G Potassium for Injection, USP should be discontinued immediately and an alternative treatment should be considered.
+When SCAR is suspected, Penicillin G Potassium for Injection should be discontinued immediately and an alternative treatment should be considered.
 
 ## Clostridioides difficile associated diarrhea
 
-Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Penicillin G Potassium for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Penicillin G Potassium for Injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -32,14 +32,14 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see Warnings).
 Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to penicillin therapy.
-Penicillin G Potassium for Injection, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the potassium content of the penicillin.
-Penicillin G Potassium for Injection, USP contains 1.68 mEq potassium and 0.3 mEq of sodium per million units.
+Penicillin G Potassium for Injection by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the potassium content of the penicillin.
+Penicillin G Potassium for Injection contains 1.68 mEq potassium and 0.3 mEq of sodium per million units.
 The use of antibiotics may promote overgrowth of nonsusceptible organisms, including fungi.
 Indwelling intravenous catheters encourage superinfections.
 Should superinfection occur, appropriate measures should be taken.
 When indicated, incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy.
 
-Prescribing Penicillin G Potassium for Injection, USP in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Penicillin G Potassium for Injection in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Intramuscular and Intravenous Therapy
 
@@ -48,10 +48,10 @@ Particular care should be taken with IV administration because of the possibilit
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Penicillin G Potassium for Injection, USP should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including Penicillin G Potassium for Injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Penicillin G Potassium for Injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Penicillin G Potassium for Injection, USP or other antibacterial drugs in the future.
+When Penicillin G Potassium for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Penicillin G Potassium for Injection or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -117,7 +117,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-Penicillin G Potassium for Injection, USP contains 6.8 mg (0.3 mEq) of sodium per million units.
+Penicillin G Potassium for Injection contains 6.8 mg (0.3 mEq) of sodium per million units.
 At the usual recommended doses of 10 to 20 million units per day patients would receive between 68 and 136 mg/day (3 and 6 mEq) of sodium per day.
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.
