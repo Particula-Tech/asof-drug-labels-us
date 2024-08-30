@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Metoclopramide Injection, USP
+Metoclopramide (met” oh kloe’ pra mide) Injection, USP
 
 You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection and before you get another dose of metoclopramide injection.
 There may be new information.
@@ -177,6 +177,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1291-1.0
+LAB-1291-2.0
 
-Revised: 4/2018
+Revised: 09/2023
