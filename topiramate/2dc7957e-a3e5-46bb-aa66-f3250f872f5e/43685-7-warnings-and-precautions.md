@@ -8,7 +8,7 @@ Ophthalmologic findings can include some or all of the following: myopia, mydria
 This syndrome may be associated with supraciliary effusion resulting in anterior displacement of the lens and iris, with secondary angle closure glaucoma.
 Symptoms typically occur within 1 month of initiating topiramate therapy.
 In contrast to primary narrow angle glaucoma, which is rare under 40 years of age, secondary angle closure glaucoma associated with topiramate has been reported in pediatric patients as well as adults.
-The primary treatment to reverse symptoms is discontinuation of TROKENDI XR ® as rapidly as possible, according to the judgment of the treating physician.
+The primary treatment to reverse symptoms is discontinuation of TROKENDI XR ®as rapidly as possible, according to the judgment of the treating physician.
 Other measures, in conjunction with discontinuation of TROKENDI XR ®, may be helpful.
 
 Elevated intraocular pressure of any etiology, if left untreated, can lead to serious sequelae including permanent vision loss.
@@ -26,14 +26,14 @@ Decreased sweating and an elevation in body temperature above normal characteriz
 Some of the cases were reported after exposure to elevated environmental temperatures.
 
 The majority of the reports have been in pediatric patients.
-Patients, especially pediatric patients, treated with TROKENDI XR ® should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
-Caution should be used when TROKENDI XR ® is given with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
+Patients, especially pediatric patients, treated with TROKENDI XR ®should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Caution should be used when TROKENDI XR ®is given with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
 
 ## 5.4 Metabolic Acidosis
 
-TROKENDI XR ® can cause hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis).
+TROKENDI XR ®can cause hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis).
 This metabolic acidosis is caused by renal bicarbonate loss due carbonic anhydrase inhibition by TROKENDI XR.
-TROKENDI XR ® -induced metabolic acidosis can occur at any time during treatment.
+TROKENDI XR ®-induced metabolic acidosis can occur at any time during treatment.
 Bicarbonate decrements are usually mild to moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L.
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet, or specific drugs) may be additive to the bicarbonate lowering effects of TROKENDI XR.
 
@@ -47,7 +47,7 @@ A one-year, active-controlled study of pediatric patients treated with immediate
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
 Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old pediatrics.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
-TROKENDI XR treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+TROKENDI XR treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.8)and Use in Specific Populations (8.1)].
 
 Measurement of Serum Bicarbonate in Epilepsy and Migraine Patients
 
@@ -57,14 +57,14 @@ If the decision is made to continue patients on TROKENDI XR in the face of persi
 
 ## 5.5 Interaction With Alcohol
 
-In vitro data show that, in the presence of alcohol, the pattern of topiramate release from TROKENDI XR ® capsules is significantly altered.
-As a result, plasma levels of topiramate with TROKENDI XR ® may be markedly higher soon after dosing and subtherapeutic later in the day.
-Therefore, alcohol use should be completely avoided within 6 hours prior to and 6 hours after TROKENDI XR ® administration.
+In vitrodata show that, in the presence of alcohol, the pattern of topiramate release from TROKENDI XR ®capsules is significantly altered.
+As a result, plasma levels of topiramate with TROKENDI XR ®may be markedly higher soon after dosing and subtherapeutic later in the day.
+Therefore, alcohol use should be completely avoided within 6 hours prior to and 6 hours after TROKENDI XR ®administration.
 
 ## 5.6 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs) increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
-Patients treated with any AED, including TROKENDI XR ® for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts, or behavior, and/or any unusual changes in mood or behavior.
+Patients treated with any AED, including TROKENDI XR ®for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts, or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
@@ -90,7 +90,7 @@ Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing TROKENDI XR ® or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing TROKENDI XR ®or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
@@ -143,17 +143,17 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.8 Fetal Toxicity
 
 TROKENDI XR can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
+Data from pregnancy registries indicate that infants exposed to topiramate in uterohave an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and risks of TROKENDI XR ® when administering the drug in women of childbearing potential, particularly when TROKENDI XR ® is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1)].
-TROKENDI XR ® should be used during pregnancy only if the potential benefit outweighs the potential risk.
+Consider the benefits and risks of TROKENDI XR ®when administering the drug in women of childbearing potential, particularly when TROKENDI XR ®is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1)].
+TROKENDI XR ®should be used during pregnancy only if the potential benefit outweighs the potential risk.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.9 Withdrawal of Antiepileptic Drugs
 
 In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including TROKENDI XR ®, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
-In situations where rapid withdrawal of TROKENDI XR ® is medically required, appropriate monitoring is recommended.
+In situations where rapid withdrawal of TROKENDI XR ®is medically required, appropriate monitoring is recommended.
 
 ## 5.10 Decrease in Bone Mineral Density
 
@@ -170,7 +170,7 @@ Results of a one-year active-controlled study of pediatric patients (N=63) demon
 Although continued growth was observed in both treatment groups, the immediate-release topiramate group showed statistically significant reductions in mean annual change from baseline in body weight compared to the control group.
 A similar trend of attenuation in height velocity and height change from baseline was also observed in the immediate-release topiramate group compared to the control group.
 Negative effects on weight and height were seen across all immediate-release topiramate age subgroups.
-Growth (height and weight) of children receiving prolonged TROKENDI XR ® therapy should be carefully monitored.
+Growth (height and weight) of children receiving prolonged TROKENDI XR ®therapy should be carefully monitored.
 
 ## 5.12 Serious Skin Reactions
 
@@ -199,7 +199,7 @@ In some patients, hyperammonemia can be asymptomatic.
 Monitoring for Hyperammonemia
 
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
-Although not studied, topiramate or TROKENDI XR ® treatment or an interaction of concomitant topiramate-based product and valproic acid treatment may exacerbate existing defects or unmask deficiencies in susceptible persons.
+Although not studied, topiramate or TROKENDI XR ®treatment or an interaction of concomitant topiramate-based product and valproic acid treatment may exacerbate existing defects or unmask deficiencies in susceptible persons.
 
 In patients who develop unexplained lethargy, vomiting, or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 
@@ -210,12 +210,12 @@ During adjunctive epilepsy trials, the risk for kidney stones in immediate-relea
 As in the general population, the incidence of stone formation among topiramate-treated patients was higher in men.
 Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy or migraine.
 During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1-24 months old with epilepsy, 7% developed kidney or bladder stones.
-TROKENDI XR ® would be expected to have the same effect as immediate-release topiramate on the formation of kidney stones.
-TROKENDI XR ® is not approved for treatment of epilepsy in pediatric patients less than 6 years old [see Use in Specific Populations (8.4)].
+TROKENDI XR ®would be expected to have the same effect as immediate-release topiramate on the formation of kidney stones.
+TROKENDI XR ®is not approved for treatment of epilepsy in pediatric patients less than 6 years old [see Use in Specific Populations (8.4)].
 
 Topiramate is a carbonic anhydrase inhibitor.
 Carbonic anhydrase inhibitors can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4)].
-The concomitant use of TROKENDI XR ® with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
+The concomitant use of TROKENDI XR ®with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
 
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.

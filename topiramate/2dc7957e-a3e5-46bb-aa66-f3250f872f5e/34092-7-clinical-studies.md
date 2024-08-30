@@ -2,7 +2,7 @@
 
 ## 14.1 Bridging Study to Demonstrate Pharmacokinetic Equivalence between Extended-Release and Immediate-Release Topiramate Formulations
 
-The basis for approval of the extended-release formulation (TROKENDI XR ®) included the studies described below using an immediate-release formulation and the demonstration of the pharmacokinetic equivalence of TROKENDI XR ® to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
+The basis for approval of the extended-release formulation (TROKENDI XR ®) included the studies described below using an immediate-release formulation and the demonstration of the pharmacokinetic equivalence of TROKENDI XR ®to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
 
 The clinical studies described in the following sections were conducted using immediate-release topiramate.
 

@@ -19,7 +19,7 @@ The following serious adverse reactions are discussed in more detail in other se
 - Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.15)]
 
 The data described in the following sections were obtained using immediate-release topiramate tablets.
-TROKENDI XR ® has not been studied in a randomized, placebo-controlled Phase III clinical study; however, it is expected that TROKENDI XR ® would produce a similar adverse reaction profile as immediate-release topiramate.
+TROKENDI XR ®has not been studied in a randomized, placebo-controlled Phase III clinical study; however, it is expected that TROKENDI XR ®would produce a similar adverse reaction profile as immediate-release topiramate.
 
 ## 6.1 Clinical Trials Experience
 
@@ -386,11 +386,11 @@ Pediatric Patients
 
 In pediatric patients (1-24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein.
 The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis) and potassium with immediate-release topiramate (vs. placebo) [see Use in Specific Populations (8.4)].
-TROKENDI XR ® is not indicated for partial-onset seizures in pediatric patients less than 6 years of age.
+TROKENDI XR ®is not indicated for partial-onset seizures in pediatric patients less than 6 years of age.
 
 In pediatric patients (ranging from 6-17 years of age) receiving immediate-release topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils.
 The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
-TROKENDI XR ® is not indicated for the preventive treatment of migraine in pediatric patients less than 12 years of age.
+TROKENDI XR ®is not indicated for the preventive treatment of migraine in pediatric patients less than 12 years of age.
 
 ## 6.2 Postmarketing Experience
 
