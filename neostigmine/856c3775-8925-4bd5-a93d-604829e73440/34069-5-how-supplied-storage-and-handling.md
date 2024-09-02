@@ -26,8 +26,6 @@ Manufactured by:
 Amneal Pharmaceuticals Pvt.
 Ltd.
 
-Parenteral Unit
-
 Ahmedabad 382213, INDIA
 
 Distributed by:
@@ -37,4 +35,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-02-2021-03
+06-2024-04

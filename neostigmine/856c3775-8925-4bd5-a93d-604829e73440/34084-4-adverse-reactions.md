@@ -20,7 +20,7 @@ The following table lists the adverse reactions that occurred with an overall fr
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea, oxygen desaturation < 90% |
 | Skin and Subcutaneous Tissue Disorders | pruritus |
 
-## 6.2 Post Marketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during parenteral use of neostigmine methylsulfate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

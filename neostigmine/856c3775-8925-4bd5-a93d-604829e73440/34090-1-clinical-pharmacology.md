@@ -13,8 +13,8 @@ Neostigmine methylsulfate does not readily cross the blood-brain barrier and, th
 
 ## 12.3 Pharmacokinetics
 
-Distribution: Following intravenous injection, the observed neostigmine methylsulfate volume of distribution is reported between 0.12 and 1.4 L/kg.
-Protein binding of neostigmine methylsulfate to human serum albumin ranges from 15 to 25%.
+Distribution:Following intravenous injection, the observed neostigmine methylsulfate volume of distribution is reported between 0.12 L/kg and 1.4 L/kg.
+Protein binding of neostigmine methylsulfate to human serum albumin ranges from 15% to 25%.
 
 Metabolism: Neostigmine methylsulfate is metabolized by microsomal enzymes in the liver.
 
