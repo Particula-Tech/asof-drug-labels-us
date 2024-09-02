@@ -10,7 +10,7 @@ Its action is therefore independent of the pathways for angiotensin II synthesis
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
 Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
 The increased plasma levels of angiotensin II following AT1 receptor blockade with valsartan may stimulate the unblocked AT2 receptor.
-The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th that of valsartan itself.
+The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th (1/200th) that of valsartan itself.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
@@ -84,6 +84,7 @@ Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is lo
 #### Pediatric
 
 In a study of pediatric hypertensive patients (n = 26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Valsartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 
 #### Gender
 

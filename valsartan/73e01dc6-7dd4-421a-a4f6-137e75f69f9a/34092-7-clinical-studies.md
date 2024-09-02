@@ -16,7 +16,7 @@ During repeated dosing, the reduction in blood pressure with any dose is substan
 In long-term follow-up studies (without placebo control), the effect of valsartan appeared to be maintained for up to 2 years.
 The antihypertensive effect is independent of age, gender or race.
 The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin-II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
-In pooled, randomized, controlled trials of valsartan tablets that included a total of 140 blacks and 830 whites, valsartan and an ACE inhibitor control were generally at least as effective in blacks as whites.
+In pooled, randomized, controlled trials of valsartan tablets that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites.
 The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
@@ -37,27 +37,36 @@ There was essentially no change in heart rate in valsartan-treated patients in c
 
 ### Pediatric Hypertension
 
-The antihypertensive effects of valsartan were evaluated in two randomized, double-blind clinical studies.
+#### Children Between 1 to Less Than 6 Years of Age
 
-In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥ 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
+The antihypertensive effect of valsartan in 290 children aged between 1 to less than 6 years of age has been evaluated in three randomized, double-blind clinical studies.
+In the first study in 90 patients, patients who weighed less than 18 kg received 5, 20 or 40 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 18 kg received 10, 40, and 80 mg of valsartan daily (low, medium and high doses).
+At the end of 2 weeks, the three dose levels of valsartan (low, medium and high) reduced systolic blood pressure from the baseline by 8.4, 8.3, and 8.6 mmHg, respectively, but a dose response could not be demonstrated.
+In the second study of 74 patients, higher doses (1 mg/kg and 4 mg/kg daily) of valsartan were associated with numerically greater blood pressure reductions than the lowest dose (0.25 mg/kg) at the end of 6-weeks treatment.
+The third study was a 6 week, randomized double-blind study to evaluate the dose response of valsartan in 126 children 1 to 5 years of age with hypertension, with or without chronic kidney disease (CKD) randomized to receive either valsartan 0.25 mg/kg or 4 mg/kg daily.
+At the end of 6 weeks, dose dependent reductions in mean systolic blood pressure (MSBP) were observed.
+The reduction in MSBP was 8.5 mmHg with valsartan 4 mg/kg and 4.1 mmHg with valsartan 0.25 mg/kg.
+Similarly, the CKD subgroup showed reductions in MSBP with valsartan 4 mg/kg compared to 0.25 mg/kg (9.2 mmHg vs. 1.2 mmHg).
+
+#### Children Between 6 to 16 Years of Age
+
+In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed less than 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
 Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study.
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
-Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by -8, -10, -12 mmHg from the baseline, respectively.
+Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by 8, 10, and 12 mmHg from the baseline, respectively.
 Patients were re-randomized to either continue receiving the same dose of valsartan or were switched to placebo.
-In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was -4 and -7 mmHg lower than patients who received the placebo treatment.
+In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mmHg lower than patients who received the placebo treatment.
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
 
-In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group [see Adverse Reactions (6.1)].
-
 ## 14.2 Heart Failure
 
-The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF < 40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years.
+The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF less than 40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years.
 Although Val-HeFT’s primary goal was to examine the effect of valsartan when added to an ACE inhibitor, about 7% were not receiving an ACE inhibitor.
 Other background therapy included diuretics (86%), digoxin (67%), and beta-blockers (36%).
 The population studied was 80% male, 46% 65 years or older and 89% Caucasian.
 At the end of the trial, patients in the valsartan group had a blood pressure that was 4 mmHg systolic and 2 mmHg diastolic lower than the placebo group.
-There were two primary endpoints, both assessed as time to first event: all-cause mortality and heart failure morbidity, the latter defined as all-cause mortality, sudden death with resuscitation, hospitalization for heart failure, and the need for intravenous inotropic or vasodilatory drugs for at least 4 hours.
+There were two primary end points, both assessed as time to first event: all-cause mortality and heart failure morbidity, the latter defined as all-cause mortality, sudden death with resuscitation, hospitalization for heart failure, and the need for intravenous inotropic or vasodilatory drugs for at least 4 hours.
 These results are summarized in the following table.
 
 |  | Placebo(N = 2,499) | Valsartan(N = 2,511) | Hazard Ratio(95% CICI = Confidence Interval) | Nominalp-value |
@@ -77,7 +86,7 @@ Although the overall morbidity result favored valsartan, this result was largely
 The modest favorable trend in the group receiving an ACE inhibitor was largely driven by the patients receiving less than the recommended dose of ACE inhibitor.
 Thus, there is little evidence of further clinical benefit when valsartan is added to an adequate dose of ACE inhibitor.
 
-Secondary endpoints in the subgroup not receiving ACE inhibitors were as follows.
+Secondary end points in the subgroup not receiving ACE inhibitors were as follows.
 
 |  | Placebo(N = 181) | Valsartan(N = 185) | Hazard Ratio(95% CI) |
 | --- | --- | --- | --- |
@@ -87,7 +96,7 @@ Secondary endpoints in the subgroup not receiving ACE inhibitors were as follows
 | CHF therapy | 1 (0.6%) | 0 (0.0%) | – |
 | CHF hospitalization | 48 (26.5%) | 24 (13.0%) | 0.43 (0.27, 0.71) |
 | Cardiovascular mortality | 40 (22.1%) | 29 (15.7%) | 0.65 (0.40, 1.05) |
-| Nonfatal morbidity | 49 (27.1%) | 24 (13.0%) | 0.42 (0.26, 0.69) |
+| Non-fatal morbidity | 49 (27.1%) | 24 (13.0%) | 0.42 (0.26, 0.69) |
 
 In patients not receiving an ACE inhibitor, valsartan-treated patients had an increase in ejection fraction and reduction in left ventricular internal diastolic diameter (LVIDD).
 
@@ -114,7 +123,7 @@ The results are summarized in the following table.
 |  | No. of Deaths Valsartan/Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/Captopril | Hazard Ratio CI | p-value |
 | All-cause mortality | 979 (19.9%)/958 (19.5%) | 1.001(0.902, 1.111) | 0.98 | 941 (19.3%)/958 (19.5%) | 0.984(0.886, 1.093) | 0.73 |
 | CV mortality | 827 (16.8%)/830 (16.9%) | 0.976(0.875, 1.090) |  |  |  |  |
-| CV mortality, hospitalization for HF, and recurrent nonfatal MI | 1,529 (31.1%)/1,567 (31.9%) | 0.955(0.881, 1.035) |  |  |  |  |
+| CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%)/1,567 (31.9%) | 0.955(0.881, 1.035) |  |  |  |  |
 
 There was no difference in overall mortality among the three treatment groups.
 There was thus no evidence that combining the ACE inhibitor captopril and the angiotensin II blocker valsartan was of value.

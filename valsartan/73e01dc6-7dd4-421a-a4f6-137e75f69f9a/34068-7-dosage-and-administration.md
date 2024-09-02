@@ -1,6 +1,31 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Adult Hypertension
+## 2.1 Important Dosage and Preparation Information
+
+Valsartan tablets and oral suspension are not substitutable on a milligram-per-milligram basis.
+Do not combine two dosage forms to achieve the total dose.
+The systemic exposure to valsartan (AUC) is 60% higher with the suspension compared to tablets [see Clinical Pharmacology (12.3)].
+
+Use of the oral suspension is recommended:
+
+- •in pediatric patients aged 1 to 5 years
+- •in patients > 5 years of age who cannot swallow tablets and
+- •in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan tablets
+
+When switching between suspension and tablets, the dose of valsartan may need to be adjusted.
+
+Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
+
+- •Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing 8 valsartan 80 mg tablets and shake for a minimum of 2 minutes.
+- •Allow the suspension to stand for a minimum of 1 hour.
+- •After the standing time, shake the suspension for a minimum of 1 additional minute.
+- •Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
+- •The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30°C/86°F) or up to 75 days at refrigerated conditions (2°C to 8°C/35°F to 46°F) in the glass bottle with a child-resistant screw-cap closure.
+- •Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
+
+*Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
+
+## 2.2 Adult Hypertension
 
 The recommended starting dose of valsartan tablets is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
 Patients requiring greater reductions may be started at the higher dose.
@@ -12,43 +37,32 @@ Addition of a diuretic has a greater effect than dose increases beyond 80 mg.
 
 Valsartan tablets may be administered with other antihypertensive agents.
 
-## 2.2 Pediatric Hypertension 6 to 16 Years of Age
+## 2.3 Pediatric Hypertension 1 to 16 Years of Age
 
-For pediatric patients who can swallow tablets, the usual recommended starting dose is 1.3 mg/kg once daily (up to 40 mg total).
-The dosage should be adjusted according to blood pressure response.
-Doses higher than 2.7 mg/kg (up to 160 mg) once daily have not been studied in pediatric patients 6 to 16 years old.
-
-For pediatric patients who cannot swallow tablets, or children for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths of valsartan, the use of a suspension is recommended.
-Follow the suspension preparation instructions below to administer valsartan as a suspension.
-When the suspension is replaced by a tablet, the dose of valsartan may have to be increased.
-The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
+The usual recommended starting dose is 1 mg/kg once daily (up to 40 mg total).
+A higher starting dose of 2 mg/kg may be considered in selected cases when a greater reduction of blood pressure is needed.
+The dosage should be adjusted according to blood pressure response and tolerability, up to a maximum dose of 4 mg/kg once daily (maximum daily dose 160 mg).
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2[see Use in Specific Populations (8.4)].
 
-Valsartan tablets are not recommended for patients < 6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+Use of valsartan tablets is not recommended in children less than 1 year of age [see Adverse Reactions (6.1), Pediatric Use in Specific Populations (8.4), Nonclinical Toxicology (13.2)].
 
-### Preparation of Suspension (for 160 mL of a 4 mg/mL Suspension)
-
-Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing 8 valsartan 80 mg tablets, and shake for a minimum of 2 minutes.
-Allow the suspension to stand for a minimum of 1 hour.
-After the standing time, shake the suspension for a minimum of 1 additional minute.
-Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
-The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30°C/86°F) or up to 75 days at refrigerated conditions (2°C-8°C/35°F-46°F) in the glass bottle with a child-resistant screw-cap closure.
-Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
-
-*Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
-
-## 2.3 Heart Failure
+## 2.4 Heart Failure
 
 The recommended starting dose of valsartan tablets is 40 mg twice daily.
 Uptitrate to 80 mg and 160 mg twice daily or to the highest dose tolerated by the patient.
 Consider reducing the dose of concomitant diuretics.
 The maximum daily dose administered in clinical trials is 320 mg in divided doses.
 
-## 2.4 Post-Myocardial Infarction
+## 2.5 Post-Myocardial Infarction
 
 Valsartan tablets may be initiated as early as 12 hours after a myocardial infarction.
 The recommended starting dose of valsartan tablets is 20 mg twice daily.
 Patients may be uptitrated within 7 days to 40 mg twice daily, with subsequent titrations to a target maintenance dose of 160 mg twice daily, as tolerated by the patient.
 If symptomatic hypotension or renal dysfunction occurs, consider dosage reduction.
 Valsartan tablets may be given with other standard post-myocardial infarction treatment, including thrombolytics, aspirin, beta-blockers, and statins.
+
+## 2.6 Missed Dose
+
+If a dose of valsartan tablets is missed, it should be administered as soon as possible, unless it is almost time for the next dose.
+The dose should not be doubled to make up for a missed dose.

@@ -13,7 +13,7 @@ When pregnancy is detected, consider alternative drug treatment and discontinue 
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 ### Clinical Considerations
 
@@ -40,7 +40,7 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 
 #### Animal Data
 
-No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the MRHD on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
+No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the maximum recommended human dose (MRHD) on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
 
 In rats, oral valsartan administered at maternally toxic doses (600 mg/kg/day) during organogenesis or late gestation and lactation, resulted in decreased fetal and pup weight, pup survival and delayed developmental milestones.
 In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxicity was observed.
@@ -59,23 +59,22 @@ Valsartan was detected in the milk of lactating rats 15 minutes after oral admin
 
 ## 8.4 Pediatric Use
 
-The antihypertensive effects of valsartan tablets have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies (14.1)].
+The antihypertensive effects of valsartan tablets have been evaluated in 5 clinical studies in pediatric patients from 1-16 years of age [see Clinical Studies (14.1)].
 The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
-Valsartan tablets were generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
+The adverse experience profile of valsartan was similar to that described for adults [see Adverse Reactions (6.1)].
 
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
 
-Valsartan tablets are not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
+Use of valsartan is not recommended in children less than 1 year of age [see Nonclinical Toxicology (13.2)].
+It is not known whether post-natal use of valsartan, before maturation of renal function is complete, has a long-term deleterious effect on the kidney.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2.
-
-There is limited clinical experience with valsartan tablets in pediatric patients with mild-to-moderate hepatic impairment [see Warnings and Precautions (5.3)].
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate less than 30 mL/min/1.73 m2.
 
 ## 8.5 Geriatric Use
 
 In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patients treated with valsartan were ≥ 65 years and 265 (7.9%) were ≥ 75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
-Exposure (measured by AUC) to valsartan is higher by 70% in the elderly than in the young, however no dosage adjustment is necessary [see Clinical Pharmacology (12.3)].
+Exposure [measured by area under the curve (AUC)] to valsartan is higher by 70% in the elderly than in the young, however no dosage adjustment is necessary [see Clinical Pharmacology (12.3)].
 
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
 In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
@@ -83,8 +82,8 @@ There were no notable differences in efficacy or safety between older and younge
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of valsartan tablets in patients with severe renal impairment (CrCl ≤ 30 mL/min) have not been established.
-No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60 mL/min) renal impairment.
+Safety and effectiveness of valsartan tablets in patients with severe renal impairment (glomerular filtration rate less than 30 mL/min/1.73 m2) have not been established.
+No dose adjustment is required in patients with mild (glomerular filtration rate 60 to 90 mL/min/1.73 m2) or moderate (glomerular filtration rate 30 to 60 mL/min/1.73 m2) renal impairment.
 
 ## 8.7 Hepatic Impairment
 

@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Pregnancy: Advise female patients of childbearing age about the consequences of exposure to valsartan during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Ask patients to report pregnancies to their healthcare provider as soon as possible [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Ask patients to report pregnancies to their healthcare provider as soon as possible [see Warnings and Precautions (5.1), Use in Specific Populations (8.1)].
 
 Lactation: Advise women not to breastfeed during treatment with valsartan tablets [see Use in Specific Populations (8.2)].
 

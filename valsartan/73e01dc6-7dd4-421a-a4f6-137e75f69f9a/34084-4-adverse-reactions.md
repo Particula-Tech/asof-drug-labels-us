@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -16,7 +16,7 @@ The most common reasons for discontinuation of therapy with valsartan tablets we
 
 The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with valsartan tablets and at a higher incidence in valsartan (n = 2,316) than placebo (n = 888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
 
-In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
+In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE-inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
 In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69%, respectively (p < 0.001).
 
 Dose-related orthostatic effects were seen in less than 1% of patients.
@@ -24,23 +24,16 @@ An increase in the incidence of dizziness was observed in patients treated with 
 
 ### Pediatric Hypertension
 
-Valsartan tablets have been evaluated for safety in over 400 pediatric patients aged 6 to 17 years and more than 160 pediatric patients aged 6 months to 5 years.
-No relevant differences were identified between the adverse experience profile for pediatric patients aged 6 to 16 years and that previously reported for adult patients.
-Headache and hyperkalemia were the most common adverse events suspected to be study drug-related in older children (6 to 17 years old) and younger children (6 months to 5 years old), respectively.
-Hyperkalemia was mainly observed in children with underlying renal disease.
-Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 years revealed no overall clinically relevant adverse impact after treatment with valsartan tablets for up to 1 year.
+Valsartan tablets have been evaluated for safety in 290 pediatric patients aged 1 to less than 6 years and over 400 patients aged 6 to 17 years.
+No relevant differences were identified between the adverse experience profile for pediatric patients and that previously reported for adult patients.
+Hyperkalemia was more frequently observed in pediatric patients aged 1 to 17 years with underlying chronic kidney disease (CKD).
 
-Valsartan tablets are not recommended for pediatric patients under 6 years of age.
-In a study (n = 90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
-These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
-A causal relationship to valsartan tablets has not been established.
-In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
-The most common adverse reaction in children less than 6 years old was hyperkalemia.
-Hyperkalemia was mainly observed in children with underlying renal disease.
+Cases of elevated ALT and/or AST have been reported in pediatric patients 1 to less than 6 years of age.
+These events occurred in a study population which frequently had significant comorbidities; hence, a causal relationship to valsartan could not be established.
 
 ### Heart Failure
 
-In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n = 2,506) to placebo (n = 2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
+In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n = 2,506) to placebo (n = 2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
 All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers.
@@ -100,7 +93,7 @@ The following additional adverse reactions have been reported in postmarketing u
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity: Angioedema has been reported.
-Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+Some of these patients previously experienced angioedema with other drugs, including ACE inhibitors.
 Valsartan tablets should not be re-administered to patients who have had angioedema.
 
 Digestive: Elevated liver enzymes and very rare reports of hepatitis
