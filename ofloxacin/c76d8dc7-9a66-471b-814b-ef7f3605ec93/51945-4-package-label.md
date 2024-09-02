@@ -2,7 +2,7 @@
 
 Ofloxacin Ophthalmic Solution 0.3% 5 mL Container
 
-Rising Pharmaceuticals, Inc NDC 64980-515-05
+Rising Pharma Holdings, Inc. NDC 64980-515-05
 
 Ofloxacin Ophthalmic Solution USP
 
@@ -21,7 +21,7 @@ Protect from light.
 
 Ofloxacin Ophthalmic Solution 0.3% 10 mL Container
 
-Rising Pharmaceuticals, Inc NDC 64980-515-01
+Rising Pharma Holdings, Inc. NDC 64980-515-01
 
 Ofloxacin Ophthalmic Solution USP
 

@@ -24,11 +24,11 @@ Toll free number: 1-800-521-5340
 
 Distributed by:
 
-Rising Pharmaceuticals, Inc.
+Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 03/2022
+Revised: 06/2024
 
 INSTRUCTIONS FOR USE
 
