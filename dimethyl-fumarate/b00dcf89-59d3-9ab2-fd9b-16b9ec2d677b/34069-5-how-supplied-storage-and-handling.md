@@ -6,11 +6,12 @@ The 240 mg capsules are white to off white colored enteric coated mini tablets f
 
 Dimethyl fumarate delayed-release capsules, USP are available as follows: 120 mg capsules:
 
-- bottle of 14 capsules (NDC 43598-429-52) Store in original container
+- bottle of 14 capsules (NDC 43598-429-52)
 
 240 mg capsules:
 
-- bottle of 60 capsules (NDC 43598-430-60) Store in original container
+- bottle of 60 capsules (NDC 43598-430-60)
 
 Store at 15°C to 30°C (59 to 86°F).
 Protect the capsules from light.
+Store in original container

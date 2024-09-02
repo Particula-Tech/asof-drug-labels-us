@@ -2,11 +2,26 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary There are no adequate data on the developmental risk associated with the use of dimethyl fumarate in pregnant women.
-In animals, adverse effects on offspring survival, growth, sexual maturation, and neurobehavioral function were observed when dimethyl fumarate (DMF) was administered during pregnancy and lactation at clinically relevant doses.
-[see Data] In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+Risk Summary
+
+Available data from the dimethyl fumarate (DMF) Pregnancy Registry, observational studies, and pharmacovigilance with dimethyl fumarate use in pregnant women have not indicated an increased risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Most of the reported exposures to dimethyl fumarate occurred during the first trimester of pregnancy (see Data).
+
+In animals, adverse effects on offspring survival, growth, sexual maturation, and neurobehavioral function were observed when dimethyl fumarate (DMF) was administered during pregnancy and lactation at clinically relevant doses (see Data).
+
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
-Data Animal Data In rats administered DMF orally (25, 100, 250 mg/kg/day) throughout organogenesis, embryofetal toxicity (reduced fetal body weight and delayed ossification) were observed at the highest dose tested.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Human Data
+
+In a prospective observational dimethyl fumarate Pregnancy Registry (2013 to 2022), the rate of major birth defects among 362 live births and stillbirths from women who were exposed to dimethyl fumarate during pregnancy was 3.6% (95% CI: 1.9 to 6.1).
+No specific pattern of major birth defects was identified.
+Important potential study limitations include exposure misclassification, no adjustment for confounders, and lack of an internal comparator cohort.
+
+Animal Data In rats administered DMF orally (25, 100, 250 mg/kg/day) throughout organogenesis, embryofetal toxicity (reduced fetal body weight and delayed ossification) were observed at the highest dose tested.
 This dose also produced evidence of maternal toxicity (reduced body weight).
 Plasma exposure (AUC) for monomethyl fumarate (MMF), the major circulating metabolite, at the no-effect dose is approximately three times that in humans at the recommended human dose (RHD) of 480 mg/day.
 In rabbits administered DMF orally (25, 75, and 150 mg/kg/day) throughout organogenesis, embryolethality and decreased maternal body weight were observed at the highest dose tested.

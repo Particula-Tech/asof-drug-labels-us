@@ -22,7 +22,7 @@ A blood test should be obtained before patients start therapy and during treatme
 Flushing
 
 Inform patients that flushing is one of the most common reactions, especially at the initiation of therapy, and may decrease over time.
-Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing or GI reactions.
+Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing.
 Advise patients experiencing flushing that taking dimethyl fumarate with food or taking a non-enteric coated aspirin prior to taking dimethyl fumarate may help [see Adverse Reactions (6.1)].
 
 Gastrointestinal (GI) Events
@@ -30,5 +30,3 @@ Gastrointestinal (GI) Events
 Inform patients that GI events (abdominal pain, diarrhea, and nausea) are some of the most common adverse reactions, especially at the initiation of therapy, and may decrease over time.
 Some patients may experience more severe GI events.
 Advise patients to immediately contact their healthcare provider and discontinue dimethyl fumarate if they experience gastrointestinal bleeding (e.g., rectal bleeding, bloody diarrhea, hematemesis) or other serious gastrointestinal adverse events (e.g., severe abdominal pain, severe vomiting and/or diarrhea) [see Warnings and Precautions (5.7)].
-
-Pregnancy Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate they should inform their physician.

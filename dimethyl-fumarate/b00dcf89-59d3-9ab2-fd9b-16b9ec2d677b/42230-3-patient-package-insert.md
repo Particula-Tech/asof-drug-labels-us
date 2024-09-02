@@ -20,7 +20,8 @@ Before taking and while you take dimethyl fumarate delayed-release capsules, tel
 Tell your doctor if you are:
 
 - pregnant or plan to become pregnant.
-  It is not known if dimethyl fumarate delayed-release capsules will harm your unborn baby
+  It is not known if dimethyl fumarate delayed-release capsules will harm your unborn baby.
+  You and your doctor will have to decide if you should take dimethyl fumarate delayed-release capsules while you are pregnant or if you plan to become pregnant.
 - breastfeeding or plan to breastfeed.
   It is not known if dimethyl fumarate passes into your breast milk.
   You and your doctor should decide if you will take dimethyl fumarate or breastfeed.
@@ -36,7 +37,7 @@ How should I take dimethyl fumarate delayed-release capsules?
   Do not crush, chew, or sprinkle capsule contents on food.
 - Protect dimethyl fumarate delayed-release capsules from light.
   You can do this by storing the capsules in their original container.
-- If you take too much dimethyl fumarate delayed-release capsules, call your doctor or go to the nearest hospital emergency room right away.
+- If you take too much dimethyl fumarate, call your doctor or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of dimethyl fumarate delayed-release capsules?
 
@@ -109,4 +110,4 @@ Princetone, NJ 08540
 
 Made in India
 
-Revised: 02/2024
+Revised: 07/2024
