@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy registry that monitors pregnancy outcomes in pregnant persons exposed to OPZELURA during pregnancy.
-Pregnant persons exposed to OPZELURA and healthcare providers should report OPZELURA exposure by calling 1-855-463-3463.
+Pregnant persons exposed to OPZELURA and healthcare providers should report OPZELURA exposure by calling 1-855-463-3463 or visiting www.opzelura.pregnancy.incyte.com.
 
 Risk Summary
 

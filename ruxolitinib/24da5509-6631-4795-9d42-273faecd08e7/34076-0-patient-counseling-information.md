@@ -38,9 +38,9 @@ Advise patients or caregivers that OPZELURA is for topical use only [see Dosage 
 
 Advise patients to limit treatment to one 60 gram tube per week or one 100 gram tube per 2 weeks [see Dosage and Administration (2.1)].
 
-Pregnancy
+Pregnancy Registry
 
-Inform patients to report their pregnancy to Incyte Corporation at 1-855-463-3463 [see Use in Specific Populations (8.1)].
+Inform patients to report their pregnancy to Incyte Corporation at 1-855-463-3463 or by visiting www.opzelura.pregnancy.incyte.com [see Use in Specific Populations (8.1)].
 
 Lactation
 
@@ -50,5 +50,5 @@ Manufactured for: Incyte Corporation 1801 Augustine Cut-off Wilmington, DE 19803
 
 OPZELURA is a registered trademark of Incyte.
 All rights reserved.
-Patent Information: www.incyte.com/patents © 2021-2023 Incyte Corporation.
+Patent Information: www.incyte.com/patents © 2021-2024 Incyte Corporation.
 All rights reserved.
