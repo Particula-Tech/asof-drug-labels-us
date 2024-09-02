@@ -40,11 +40,11 @@ FDC Limited
 
 Distributed by:
 
-Rising Pharmaceuticals, Inc.
+Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 09/2023
+Revised: 07/2024
 
 INSTRUCTIONS FOR USE
 
@@ -95,8 +95,8 @@ FDC Limited
 
 Distributed by:
 
-Rising Pharmaceuticals, Inc.
+Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 09/2023
+Revised: 07/2024
