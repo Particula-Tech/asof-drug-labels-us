@@ -1,0 +1,145 @@
+# 14. CLINICAL STUDIES
+
+## 14.1 Newly Diagnosed Chronic Phase CML in Adults
+
+DASISION (Dasatinib vs Imatinib Study in Treatment-Naive Chronic Myeloid Leukemia Patients) (NCT00481247) was an open-label, multicenter, international, randomized trial conducted in adult patients with newly diagnosed chronic phase CML.
+A total of 519 patients were randomized to receive either dasatinib 100 mg once daily or imatinib 400 mg once daily.
+Patients with a history of cardiac disease were included in this trial except those who had a myocardial infarction within 6 months, congestive heart failure within 3 months, significant arrhythmias, or QTc prolongation.
+The primary endpoint was the rate of confirmed complete cytogenetic response (CCyR) within 12 months.
+Confirmed CCyR was defined as a CCyR noted on two consecutive occasions (at least 28 days apart).
+
+Median age was 46 years in the dasatinib group and 49 years in the imatinib groups, with 10% and 11% of patients ≥65 years of age, respectively.
+There were slightly more male than female patients in both groups (59% vs 41%).
+Fifty-three percent of all patients were Caucasian and 39% were Asian.
+At baseline, the distribution of Hasford scores was similar in the dasatinib and imatinib treatment groups (low risk: 33% and 34%; intermediate risk: 48% and 47%; high risk: 19% and 19%, respectively).
+With a minimum of 12 months follow-up, 85% of patients randomized to dasatinib and 81% of patients randomized to imatinib were still on study.
+
+With a minimum of 24 months follow-up, 77% of patients randomized to dasatinib and 75% of patients randomized to imatinib were still on study and with a minimum of 60 months follow-up, 61% and 62% of patients, respectively, were still on treatment at the time of study closure.
+
+Efficacy results are summarized in Table 9.
+
+Table 9: Efficacy Results in a Randomized Newly Diagnosed Chronic Phase CML Trial
+
+|  | Dasatinib (n=259) |  | Imatinib (n=260) |
+| --- | --- | --- | --- |
+| Confirmed CCyRa Within 12 months (95%CI) P-value | 76.8% (71.2-81.8) | 0.007* | 66.2% (60.1-71.9) |
+| Major Molecular Responseb 12 months (95% CI) P-value | 52.1% (45.9-58.3) | <0.0001 | 33.8% (28.1-39.9) |
+| 60 months (95% CI) | 76.4% (70.8-81.5) |  | 64.2% (58.1-70.1) |
+
+aConfirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. bMajor molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale.
+These are cumulative rates representing minimum follow up for the time frame specified. *Adjusted for Hasford score and indicated statistical significance at a pre-defined nominal level of significance.
+CI = confidence interval.
+
+The confirmed CCyR within 24, 36, and 60 months for dasatinib versus imatinib arms were 80% versus 74%, 83% versus 77%, and 83% versus 79%, respectively.
+The MMR at 24 and 36 months for dasatinib versus imatinib arms were 65% versus 50% and 69% versus 56%, respectively.
+
+After 60 months follow-up, median time to confirmed CCyR was 3.1 months in 215 dasatinib responders and 5.8 months in 204 imatinib responders.
+Median time to MMR after 60 months follow-up was 9.3 months in 198 dasatinib responders and 15.0 months in 167 imatinib responders.
+
+At 60 months, 8 patients (3%) on the dasatinib arm progressed to either accelerated phase or blast crisis while 15 patients (6%) on the imatinib arm progressed to either accelerated phase or blast crisis.
+
+The estimated 60-month survival rates for dasatinib- and imatinib-treated patients were 90.9% (CI: 86.6%–93.8%) and 89.6% (CI: 85.2%–92.8%), respectively.
+Based on data 5 years after the last patient was enrolled in the trial, 83% and 77% of patients were known to be alive in the dasatinib and imatinib treatment groups, respectively, 10% were known to have died in both treatment groups, and 7% and 13% had unknown survival status in the dasatinib and imatinib treatment groups, respectively.
+
+At 60 months follow-up in the dasatinib arm, the rate of MMR at any time in each risk group determined by Hasford score was 90% (low risk), 71% (intermediate risk) and 67% (high risk).
+In the imatinib arm, the rate of MMR at any time in each risk group determined by Hasford score was 69% (low risk), 65% (intermediate risk), and 54% (high risk).
+
+BCR-ABL sequencing was performed on blood samples from patients in the newly diagnosed trial who discontinued dasatinib or imatinib therapy.
+Among dasatinib-treated patients the mutations detected were T315I, F317I/L, and V299L.
+
+Dasatinib does not appear to be active against the T315I mutation, based on in vitro data.
+
+## 14.2 Imatinib-Resistant or -Intolerant CML or Ph+ ALL in Adults
+
+The efficacy and safety of dasatinib were investigated in adult patients with CML or Ph+ ALL whose disease was resistant to or who were intolerant to imatinib: 1158 patients had chronic phase CML, 858 patients had accelerated phase, myeloid blast phase, or lymphoid blast phase CML, and 130 patients had Ph+ ALL.
+In a clinical trial in chronic phase CML, resistance to imatinib was defined as failure to achieve a complete hematologic response (CHR; after 3 months), major cytogenetic response (MCyR; after 6 months), or complete cytogenetic response (CCyR; after 12 months); or loss of a previous molecular response (with concurrent ≥10% increase in Ph+ metaphases), cytogenetic response, or hematologic response.
+Imatinib intolerance was defined as inability to tolerate 400 mg or more of imatinib per day or discontinuation of imatinib because of toxicity.
+
+Results described below are based on a minimum of 2 years follow-up after the start of dasatinib therapy in patients with a median time from initial diagnosis of approximately 5 years.
+Across all studies, 48% of patients were women, 81% were white, 15% were black or Asian, 25% were 65 years of age or older, and 5% were 75 years of age or older.
+Most patients had long disease histories with extensive prior treatment, including imatinib, cytotoxic chemotherapy, interferon, and stem cell transplant.
+Overall, 80% of patients had imatinib-resistant disease and 20% of patients were intolerant to imatinib.
+The maximum imatinib dose had been 400–600 mg/day in about 60% of the patients and >600 mg/day in 40% of the patients.
+
+The primary efficacy endpoint in chronic phase CML was MCyR, defined as elimination (CCyR) or substantial diminution (by at least 65%, partial cytogenetic response) of Ph+ hematopoietic cells.
+The primary efficacy endpoint in accelerated phase, myeloid blast phase, lymphoid blast phase CML, and Ph+ ALL was major hematologic response (MaHR), defined as either a CHR or no evidence of leukemia (NEL).
+
+Chronic Phase CML
+
+Dose-Optimization Trial: A randomized, open-label trial (NCT00123474) was conducted in adult patients with chronic phase CML to evaluate the efficacy and safety of dasatinib administered once daily compared with dasatinib administered twice daily.
+Patients with significant cardiac diseases, including myocardial infarction within 6 months, congestive heart failure within 3 months, significant arrhythmias, or QTc prolongation were excluded from the trial.
+The primary efficacy endpoint was MCyR in patients with imatinib-resistant CML.
+A total of 670 patients, of whom 497 had imatinib-resistant disease, were randomized to the dasatinib 100 mg once-daily, 140 mg once-daily, 50 mg twice-daily, or 70 mg twice-daily group.
+Median duration of treatment was 22 months.
+
+Efficacy was achieved across all dasatinib treatment groups with the once-daily schedule demonstrating comparable efficacy (non-inferiority) to the twice-daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% CI [−6.8%–10.6%]); however, the 100-mg once-daily regimen demonstrated improved safety and tolerability.
+
+Efficacy results are presented in Tables 10 and 11 for adult patients with chronic phase CML who received the recommended starting dose of 100 mg once daily.
+
+Table 10: Efficacy of Dasatinib in Adult Patients with Imatinib-Resistant or -Intolerant Chronic Phase CML (minimum of 24 months follow-up)
+
+| All Patients | 100 mg Once Daily (n=167) |
+| --- | --- |
+| Hematologic Response Rate % (95% CI) |  |
+| CHRa | 92% (86-95) |
+| Cytogenetic Response Rate % (95% CI) |  |
+| MCyRb | 63% (56-71) |
+| CCyR | 50% (42-58) |
+
+aCHR (response confirmed after 4 weeks): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. bMCyR combines both complete (0% Ph+ metaphases) and partial (>0%–35%) responses.
+
+Table 11: Long-Term MMR of Dasatinib in the Dose Optimization Trial: Adult Patients with Imatinib-Resistant or -Intolerant Chronic Phase CMLa
+
+|  | Minimum Follow-up Period |  |  |
+| --- | --- | --- | --- |
+| 2 Years | 5 Years | 7 Years |  |
+| Major Molecular Responseb% (n/N) |  |  |  |
+| All Patients Randomized | 34% (57/167) | 43% (71/167) | 44% (73/167) |
+| Imatinib-Resistant Patients | 33% (41/124) | 40% (50/124) | 41% (51/124) |
+| Imatinib-Intolerant Patients | 37% (16/43) | 49% (21/43) | 51% (22/43) |
+
+aResults reported in recommended starting dose of 100 mg once daily. bMajor molecular response criteria: Defined as BCR-ABL/control transcripts ≤0.1% by RQ-PCR in peripheral blood samples.
+
+Based on data 7 years after the last patient was enrolled in the trial, 44% were known to be alive, 31% were known to have died, and 25% had an unknown survival status.
+
+By 7 years, transformation to either accelerated or blast phase occurred in nine patients on treatment in the 100 mg once-daily treatment group.
+
+Advanced Phase CML and Ph+ ALL
+
+Dose-Optimization Trial: One randomized open-label trial (NCT00123487) was conducted in patients with advanced phase CML (accelerated phase CML, myeloid blast phase CML, or lymphoid blast phase CML) to evaluate the efficacy and safety of dasatinib administered once daily compared with dasatinib administered twice daily.
+The primary efficacy endpoint was MaHR.
+A total of 611 patients were randomized to either the dasatinib 140 mg once-daily or 70 mg twice-daily group.
+Median duration of treatment was approximately 6 months for both treatment groups.
+The once-daily schedule demonstrated comparable efficacy (non-inferiority) to the twice-daily schedule on the primary efficacy endpoint; however, the 140-mg once-daily regimen demonstrated improved safety and tolerability.
+
+Response rates for patients in the 140 mg once-daily group are presented in Table 12.
+
+Table 12: Efficacy of Dasatinib in Imatinib-Resistant or -Intolerant Advanced Phase CML and Ph+ ALL (Two-Year Results)
+
+| Accelerated(n=158) | Myeloid Blast(n=75) | Lymphoid Blast(n=33) | Ph+ ALL(n=40) |  |
+| --- | --- | --- | --- | --- |
+|  | 140 mg Once Daily |  |  |  |
+| MaHRa | 66% | 28% | 42% | 38% |
+| (95% CI) | (59-74) | (18-40) | (26-61) | (23-54) |
+| CHRa (95% CI) | 47%(40-56) | 17%(10-28) | 21%(9-39) | 33%(19-49) |
+| NELa | 19% | 11% | 21% | 5% |
+| (95% CI) | (13-26) | (5-20) | (9-39) | (1-17) |
+| MCyRb | 39% | 28% | 52% | 70% |
+| (95% CI) | (31-47) | (18-40) | (34-69) | (54-83) |
+| CCyR | 32% | 17% | 39% | 50% |
+| (95% CI) | (25-40) | (10-28) | (23-58) | (34-66) |
+
+aHematologic response criteria (all responses confirmed after 4 weeks): Major hematologic response: (MaHR) = complete hematologic response (CHR) + no evidence of leukemia (NEL).
+CHR: WBC ≤ institutional ULN, ANC ≥1000/mm3, platelets ≥100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤5%, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement.
+NEL: same criteria as for CHR but ANC ≥500/mm3 and <1000/mm3, or platelets ≥20,000/mm3 and ≤100,000/mm3. bMCyR combines both complete (0% Ph+ metaphases) and partial (>0%–35%) responses.
+CI = confidence interval ULN = upper limit of normal range.
+
+In the dasatinib 140 mg once-daily group, the median time to MaHR was 1.9 months (min-max: 0.7-14.5) for patients with accelerated phase CML, 1.9 months (min-max: 0.9-6.2) for patients with myeloid blast phase CML, and 1.8 months (min-max: 0.9-2.8) for patients with lymphoid blast phase CML.
+
+In patients with myeloid blast phase CML, the median duration of MaHR was 8.1 months (min- max: 2.7-21.1) and 9.0 (min-max: 1.8-23.1) months for the 140 mg once-daily group and the 70 mg twice-daily group, respectively.
+In patients with lymphoid blast phase CML, the median duration of MaHR was 4.7 months (min-max: 3.0-9.0) and 7.9 months (min-max: 1.6-22.1) for the 140 mg once-daily group and the 70 mg twice-daily group, respectively.
+In patients with Ph+ ALL who were treated with dasatinib 140 mg once-daily, the median duration of MaHR was 4.6 months (min-max: 1.4-10.2).
+The medians of progression-free survival for patients with Ph+ ALL treated with dasatinib 140 mg once-daily and 70 mg twice-daily were 4.0 months (min- max: 0.4-11.1) and 3.1 months (min-max: 0.3-20.8), respectively.
+
+Pediatric use information is approved for Bristol-Myers Squibb Company’s SPRYCEL (dasatinib) tablets.
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

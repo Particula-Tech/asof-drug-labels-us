@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA216099"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Nanocopoeia",
+  "package_ndcs": [
+    "83858-101-60",
+    "83858-102-60",
+    "83858-103-60",
+    "83858-104-30",
+    "83858-105-30",
+    "83858-106-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dasatinib",
+      "name": "PHYRAGO"
+    }
+  ],
+  "setid": "f80d0dc2-3b72-42cb-87ea-8a14bdc50431",
+  "source": "dailymed"
+}
