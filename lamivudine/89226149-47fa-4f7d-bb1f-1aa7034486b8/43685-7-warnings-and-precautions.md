@@ -1,13 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Patients with Hepatitis B Virus Co-infection
+## 5.1 Patients with Hepatitis B Virus Co-Infection
 
 Posttreatment Exacerbations of Hepatitis
 
 Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
 These exacerbations have been detected primarily by serum ALT elevations in addition to re‑emergence of HBV DNA.
 Although most events appear to have been self‑limited, fatalities have been reported in some cases.
-Similar events have been reported from postmarketing experience after changes from lamivudine‑containing HIV‑1 treatment regimens to non‑lamivudine‑containing regimens in patients infected with both HIV‑1 and HBV.
+Similar events have been reported from postmarketing experience after changes from lamivudine‑containing HIV‑1 treatment regimens to non‑lamivudine–containing regimens in patients infected with both HIV‑1 and HBV.
 The causal relationship to discontinuation of lamivudine treatment is unknown.
 Patients should be closely monitored with both clinical and laboratory follow‑up for at least several months after stopping treatment.
 
@@ -22,7 +22,7 @@ If a decision is made to administer lamivudine to patients co‑infected with HI
 Emergence of Lamivudine-Resistant HBV
 
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV (see full prescribing information for EPIVIR-HBV).
-Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV-1-infected subjects who have received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
+Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV-1–infected subjects who have received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 
 ## 5.2 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 

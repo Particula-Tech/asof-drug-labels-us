@@ -13,7 +13,7 @@ Clinical Trials Experience in Adult Subjects
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The safety profile of EPIVIR in adults is primarily based on 3,568 HIV-1‑infected subjects in 7 clinical trials.
+The safety profile of EPIVIR in adults is primarily based on 3,568 HIV-1–infected subjects in 7 clinical trials.
 
 The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea, and cough.
 
@@ -138,7 +138,7 @@ One event of Grade 4 hepatitis in the once-daily cohort was considered as uncert
 Neonates: Limited short-term safety information is available from 2 small, uncontrolled trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see Clinical Pharmacology (12.3)].
 Selected adverse reactions reported in these neonates included increased liver function tests, anemia, diarrhea, electrolyte disturbances, hypoglycemia, jaundice and hepatomegaly, rash, respiratory infections, and sepsis; 3 neonates died (1 from gastroenteritis with acidosis and convulsions, 1 from traumatic injury, and 1 from unknown causes).
 Two other nonfatal gastroenteritis or diarrhea cases were reported, including 1 with convulsions; 1 infant had transient renal insufficiency associated with dehydration.
-The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1‑infected patients treated with lamivudine-containing combination regimens.
+The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1–infected patients treated with lamivudine-containing combination regimens.
 Long-term effects of in utero and infant lamivudine exposure are not known.
 
 ## 6.2 Postmarketing Experience

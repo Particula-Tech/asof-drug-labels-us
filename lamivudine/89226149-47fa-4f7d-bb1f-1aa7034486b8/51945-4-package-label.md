@@ -34,7 +34,6 @@ Trademark owned or licensed by ViiV Healthcare group of companies
 
 1. 62000000057908 Rev.
    11/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 

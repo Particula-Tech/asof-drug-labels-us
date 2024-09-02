@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Patients with Hepatitis B or C Co-infection
+Patients with Hepatitis B or C Co-Infection
 
 Inform patients co‑infected with HIV‑1 and HBV that deterioration of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
 Advise patients to discuss any changes in regimen with their healthcare provider [see Warnings and Precautions (5.1)].
@@ -46,7 +46,7 @@ Missed Dosage
 Instruct patients that if they miss a dose of EPIVIR, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 
-EPIVIR and RETROVIR are trademarks owned by or licensed to the ViiV Healthcare group of companies.
+EPIVIR, ZIAGEN, and RETROVIR are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
 EPIVIR-HBV is a trademark owned by or licensed to the GSK group of companies.
 
@@ -54,11 +54,11 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2020 ViiV Healthcare group of companies or its licensor.
+©2024 ViiV Healthcare group of companies or its licensor.
 
-EPV:13PI
+EPV:14PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
