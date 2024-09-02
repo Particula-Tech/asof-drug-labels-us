@@ -15,7 +15,13 @@ The frequencies of Grade 3-4 neutropenia, anemia, and thrombocytopenia varied fr
 Prior to each dose of gemcitabine for injection, obtain a complete blood count (CBC) with a differential and a platelet count.
 Modify the dosage as recommended [see Dosage and Administration (2.1, 2.2, 2.3, 2.4)].
 
-## 5.3 Pulmonary Toxicity and Respiratory Failure
+## 5.3 Severe Cutaneous Adverse Reactions (SCARs)
+
+SCARs, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia andsystemic symptoms (DRESS), and acute generalizedexanthematous pustulosis (AGEP), which can be life-threatening orfatal, have been reported in association with gemcitabine treatment [see Adverse Reactions (6.2)].
+Monitor patients for signs and symptoms of severe cutaneous adverse reactions.
+Permanently discontinue gemcitabine in patients who develop SCARs.
+
+## 5.4 Pulmonary Toxicity and Respiratory Failure
 
 Pulmonary toxicity, including interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS), has been reported.
 In some cases, these pulmonary events can lead to fatal respiratory failure despite the discontinuation of therapy.
@@ -23,7 +29,7 @@ The onset of pulmonary symptoms may occur up to 2 weeks after the last dose of g
 
 Permanently discontinue gemcitabine for injection in patients who develop unexplained dyspnea, with or without bronchospasm, or evidence of severe pulmonary toxicity.
 
-## 5.4 Hemolytic Uremic Syndrome
+## 5.5 Hemolytic Uremic Syndrome
 
 Hemolytic uremic syndrome (HUS), including fatalities from renal failure or the requirement for dialysis, can occur with gemcitabine for injection.
 In clinical trials, HUS occurred in 0.25% of 2429 patients.
@@ -35,14 +41,14 @@ Consider the diagnosis of HUS in patients who develop anemia with evidence of mi
 Permanently discontinue gemcitabine for injection in patients with HUS or severe renal impairment.
 Renal failure may not be reversible even with the discontinuation of therapy.
 
-## 5.5 Hepatic Toxicity
+## 5.6 Hepatic Toxicity
 
 Drug-induced liver injury, including liver failure and death, has been reported in patients receiving gemcitabine for injection alone or with other potentially hepatotoxic drugs [see Adverse Reactions (6.1, 6.2)].
 Administration of gemcitabine for injection in patients with concurrent liver metastases or a pre-existing medical history of hepatitis, alcoholism, or liver cirrhosis can lead to exacerbation of the underlying hepatic insufficiency.
 Assess hepatic function prior to initiation of gemcitabine for injection and periodically during treatment.
 Permanently discontinue gemcitabine for injection in patients who develop severe hepatic toxicity.
 
-## 5.6 Embryo-Fetal Toxicity
+## 5.7 Embryo-Fetal Toxicity
 
 Based on animal data and its mechanism of action, gemcitabine for injection can cause fetal harm when administered to a pregnant woman.
 Gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits.
@@ -51,7 +57,7 @@ Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with gemcitabine for injection and for 6 months after the final dose.
 Advise male patients with female partners of reproductive potential to use effective contraception during treatment with gemcitabine for injection and for 3 months following the final dose [see Use in Specific Populations (8.1, 8.3)].
 
-## 5.7 Exacerbation of Radiation Therapy Toxicity
+## 5.8 Exacerbation of Radiation Therapy Toxicity
 
 Gemcitabine for injection is not recommended for use in combination with radiation therapy.
 
@@ -64,12 +70,12 @@ Non-concurrent (given >7 days apart)
 Excessive toxicity has not been observed when gemcitabine for injection is administered more than 7 days before or after radiation.
 Radiation recall has been reported in patients who received gemcitabine for injection after prior radiation.
 
-## 5.8 Capillary Leak Syndrome
+## 5.9 Capillary Leak Syndrome
 
 Capillary leak syndrome (CLS) with severe consequences has been reported in patients receiving gemcitabine for injection as a single agent or in combination with other chemotherapeutic agents [see Adverse Reactions (6.2)].
 Permanently discontinue gemcitabine for injection if CLS develops during therapy.
 
-## 5.9 Posterior Reversible Encephalopathy Syndrome
+## 5.10 Posterior Reversible Encephalopathy Syndrome
 
 Posterior reversible encephalopathy syndrome (PRES) has been reported in patients receiving gemcitabine for injection as a single agent or in combination with other chemotherapeutic agents [see Adverse Reactions (6.2)].
 PRES can present with headache, seizure, lethargy, hypertension, confusion, blindness, and other visual and neurologic disturbances.
