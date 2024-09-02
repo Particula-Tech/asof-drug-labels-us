@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050536"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Dr. Reddy's Labratories Inc.",
+  "package_ndcs": [
+    "75907-076-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "erythromycin",
+      "name": "erythromycin"
+    }
+  ],
+  "setid": "a2dcb48a-212c-1b0c-ec35-ee2ade85847f",
+  "source": "dailymed"
+}
