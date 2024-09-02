@@ -156,7 +156,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about pioglitazone tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about pioglitazone tablets that is written for healthcare professionals.
-For more information, call 1-844-837-6511.
+For more information, call 1-845-232-1683.
 
 What are the ingredients in pioglitazone tablets?
 
@@ -166,14 +166,11 @@ Inactive Ingredients: lactose monohydrate, hydroxypropyl cellulose, carboxymethy
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: CELLTRION PHARM, INC. 82, 2sandan-ro, Ochang-eup, Cheongwon-gu, Cheongju-si, Chungcheongbuk-do, 28117, Republic of Korea
-
 Manufactured for: Chartwell RX, LLC.
 Congers, NY 10920
 
-L71820
+L72327
 
-Rev.
-11/2023
+Revised: 08/2024
 
 Print Medication Guides at: www.chartwellpharma.com/medguides

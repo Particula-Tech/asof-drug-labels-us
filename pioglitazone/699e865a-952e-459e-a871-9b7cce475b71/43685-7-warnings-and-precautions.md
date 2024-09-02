@@ -38,7 +38,7 @@ During the 13 years of both PROactive and observational follow-up, the occurrenc
 
 Findings regarding the risk of bladder cancer in patients exposed to pioglitazone tablets vary among observational studies; some did not find an increased risk of bladder cancer associated with pioglitazone tablets, while others did.
 
-A large prospective10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to pioglitazone tablets, compared to those never exposed to pioglitazone tablets (HR =1.06 [95% CI 0.89−1.26]).
+A large prospective 10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to pioglitazone tablets, compared to those never exposed to pioglitazone tablets (HR =1.06 [95% CI 0.89−1.26]).
 
 A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to pioglitazone tablets and bladder cancer (HR: 1.63; [95% CI: 1.22−2.19]).
 

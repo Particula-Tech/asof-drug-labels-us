@@ -174,7 +174,7 @@ exposure increase and decrease, respectively.
 | Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑ 5% | ↑ 4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓ 24% | ↓ 31% |
 | Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓ 4% | ↓ 2% |
-| Topiramate 96 mg twice daily for 7 days ▪️ (N=26) | 30 mg▪️ | ↓ 15% ¶ | 0% |
+| Topiramate 96 mg twice daily for 7 days § (N=26) | 30 mg§ | ↓ 15% ¶ | 0% |
 
 *Daily for 7 days unless otherwise noted
 
@@ -182,6 +182,6 @@ exposure increase and decrease, respectively.
 
 ‡The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3)and Drug Interactions (7.1)]
 
-▪️Indicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study
+§Indicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study
 
 ¶Additional decrease in active metabolites; 60% for M-III and 16% for M-IV

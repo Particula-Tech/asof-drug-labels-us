@@ -70,8 +70,8 @@ Treatment with 30 mg of pioglitazone tablets produced statistically significant 
 | Difference from placebo (adjusted mean *)) 95% Confidence Interval |  | -1.4 † (-1.8, -0.9) |
 | Fasting Plasma Glucose (mg/dL) | N=91 | N=99 |
 | Baseline (mean) | 270 | 273 |
-| Change from baseline (adjusted mean *)) | 8 | -50 |
-| Difference from placebo (adjusted mean *)) 95% Confidence Interval |  | -58 † (-77, -38) |
+| Change from baseline (adjusted mean *) | 8 | -50 |
+| Difference from placebo (adjusted mean *) 95% Confidence Interval |  | -58 † (-77, -38) |
 
 *Adjusted for baseline, pooled center, and pooled center by treatment interaction
 
@@ -125,7 +125,7 @@ The therapeutic effect of pioglitazone tablets in combination with sulfonylurea 
 | Fasting Plasma Glucose (mg/dL) | N=338 | N=329 |
 | Baseline (mean) | 214 | 217 |
 | Change from baseline (adjusted mean *) | -52 | -56 |
-| Difference from 30 mg daily pioglitazone tablets+ sulfonylurea (adjusted mean *) (95% CI) |  | -5 (-12, 3) |
+| Difference from 30 mg daily pioglitazone tablets + sulfonylurea (adjusted mean *) (95% CI) |  | -5 (-12, 3) |
 
 95% CI = 95% confidence interval
 
@@ -167,11 +167,11 @@ The mean reduction from baseline at Week 24 in HbA1c was 0.8% for the 30 mg dose
 | HbA1c (%) | N=400 | N=398 |
 | Baseline (mean) | 9.9 | 9.8 |
 | Change from baseline (adjusted mean *) | -0.8 | -1.0 |
-| Difference from 30 mg daily pioglitazone tablets+ Metformin (adjusted mean *) (95% CI) |  | -0.2 (-0.5, 0.1) |
+| Difference from 30 mg daily pioglitazone tablets + Metformin (adjusted mean *) (95% CI) |  | -0.2 (-0.5, 0.1) |
 | Fasting Plasma Glucose (mg/dL) | N=398 | N=399 |
 | Baseline (mean) | 233 | 232 |
 | Change from baseline (adjusted mean *) | -38 | -51 |
-| Difference from 30 mg daily pioglitazone tablets+ Metformin (adjusted mean *) (95% CI) |  | -12† (-21, -4) |
+| Difference from 30 mg daily pioglitazone tablets + Metformin (adjusted mean *) (95% CI) |  | -12† (-21, -4) |
 
 95% CI = 95% confidence interval
 

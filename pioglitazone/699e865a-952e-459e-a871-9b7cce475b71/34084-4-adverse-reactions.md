@@ -146,7 +146,7 @@ None of the events were fatal.
 |  | Placebo + Insulin N=187 | Pioglitazone 15 mg + Insulin N=191 |  | Pioglitazone 30 mg + Insulin N=188 | Pioglitazone 30 mg + Insulin N=345 | Pioglitazone 45 mg + Insulin N=345 |
 | At least one congestive heart failure event | 0 | 2 (1.0%) |  | 2 (1.1%) | 3 (0.9%) | 5 (1.4%) |
 | Hospitalized | 0 | 2 (1.0%) |  | 1 (0.5%) | 1 (0.3%) | 3 (0.9%) |
-| Patients Treated with Pioglitazoneor Placebo Added on to Metformin |  |  |  |  |  |  |
+| Patients Treated with Pioglitazone or Placebo Added on to Metformin |  |  |  |  |  |  |
 |  | Number (%) of Patients |  |  |  |  |  |
 |  | Placebo-Controlled Trial (16 weeks) |  |  |  | Non-Controlled Double-Blind Trial (24 weeks) |  |
 |  | Placebo + Metformin N=160 |  | Pioglitazone 30 mg + Metformin N=168 |  | Pioglitazone 30 mg + Metformin N=411 | Pioglitazone 45 mg + Metformin N=416 |
