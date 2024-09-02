@@ -28,10 +28,14 @@ Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Dig
 | Digoxin Injection/IV | 5 to 30 minutesb | 1 to 4 hours |
 | a Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes. b Depending upon rate of infusion. |  |  |
 
-Hemodynamic Effects: Short- and long-term therapy with the drug increases cardiac output and lowers pulmonary artery pressure, pulmonary capillary wedge pressure, and systemic vascular resistance in patients with heart failure.
+Hemodynamic Effects
+
+Short- and long-term therapy with the drug increases cardiac output and lowers pulmonary artery pressure, pulmonary capillary wedge pressure, and systemic vascular resistance in patients with heart failure.
 These hemodynamic effects are accompanied by an increase in the left ventricular ejection fraction and a decrease in end-systolic and end-diastolic dimensions.
 
-ECG Changes: The use of therapeutic doses of digoxin may cause prolongation of the PR interval and depression of the ST segment on the electrocardiogram.
+ECG Changes
+
+The use of therapeutic doses of digoxin may cause prolongation of the PR interval and depression of the ST segment on the electrocardiogram.
 Digoxin may produce false positive ST-T changes on the electrocardiogram during exercise testing.
 These electrophysiologic effects are not indicative of toxicity.
 Digoxin does not significantly reduce heart rate during exercise.
@@ -40,7 +44,9 @@ Digoxin does not significantly reduce heart rate during exercise.
 
 Note: The following data are from studies performed in adults, unless otherwise stated.
 
-Absorption: Following oral administration, peak serum concentrations of digoxin occur at 1 to 3 hours.
+Absorption
+
+Following oral administration, peak serum concentrations of digoxin occur at 1 to 3 hours.
 Absorption of digoxin from Digoxin Tablets has been demonstrated to be 60 to 80% complete compared to an identical intravenous dose of digoxin (absolute bioavailability).
 When Digoxin Tablets are taken after meals, the rate of absorption is slowed, but the total amount of digoxin absorbed is usually unchanged.
 When taken with meals high in bran fiber, however, the amount absorbed from an oral dose may be reduced.
@@ -57,7 +63,9 @@ Serum digoxin concentration relates to the extent of bacterial inactivation, and
 
 Patients with malabsorption syndromes (e.g., short bowel syndrome, celiac sprue, jejunoileal bypass) may have a reduced ability to absorb orally administered digoxin.
 
-Distribution: Following drug administration, a 6 to 8 hour tissue distribution phase is observed.
+Distribution
+
+Following drug administration, a 6 to 8 hour tissue distribution phase is observed.
 This is followed by a much more gradual decline in the serum concentration of the drug, which is dependent on the elimination of digoxin from the body.
 The peak height and slope of the early portion (absorption/distribution phases) of the serum concentration-time curve are dependent upon the route of administration and the absorption characteristics of the formulation.
 Clinical evidence indicates that the early high serum concentrations do not reflect the concentration of digoxin at its site of action, but that with chronic use, the steady-state post-distribution serum concentrations are in equilibrium with tissue concentrations and correlate with pharmacologic effects.
@@ -68,30 +76,46 @@ At delivery, the serum digoxin concentration in the newborn is similar to the se
 Approximately 25% of digoxin in the plasma is bound to protein.
 Serum digoxin concentrations are not significantly altered by large changes in fat tissue weight, so that its distribution space correlates best with lean (i.e., ideal) body weight, not total body weight.
 
-Metabolism: Only a small percentage (13%) of a dose of digoxin is metabolized in healthy volunteers.
+Metabolism
+
+Only a small percentage (13%) of a dose of digoxin is metabolized in healthy volunteers.
 The urinary metabolites, which include dihydrodigoxin, digoxigenin bisdigitoxoside, and their glucuronide and sulfate conjugates are polar in nature and are postulated to be formed via hydrolysis, oxidation, and conjugation.
 The metabolism of digoxin is not dependent upon the cytochrome P-450 system, and digoxin is not known to induce or inhibit the cytochrome P-450 system.
 
-Excretion: Elimination of digoxin follows first-order kinetics (that is, the quantity of digoxin eliminated at any time is proportional to the total body content).
+Excretion
+
+Elimination of digoxin follows first-order kinetics (that is, the quantity of digoxin eliminated at any time is proportional to the total body content).
 Following intravenous administration to healthy volunteers, 50 to 70% of a digoxin dose is excreted unchanged in the urine.
 Renal excretion of digoxin is proportional to creatinine clearance and is largely independent of urine flow.
 In healthy volunteers with normal renal function, digoxin has a half-life of 1.5 to 2 days.
 The half-life in anuric patients is prolonged to 3.5 to 5 days.
 Digoxin is not effectively removed from the body by dialysis, exchange transfusion, or during cardiopulmonary bypass because most of the drug is bound to extravascular tissues.
 
-Special Populations: Geriatrics: Because of age-related declines in renal function, elderly patients would be expected to eliminate digoxin more slowly than younger subjects.
+Special Populations
+
+Geriatrics
+
+Because of age-related declines in renal function, elderly patients would be expected to eliminate digoxin more slowly than younger subjects.
 Elderly patients may also exhibit a lower volume of distribution of digoxin due to age-related loss of lean muscle mass.
 Thus, the dosage of digoxin should be carefully selected and monitored in elderly patients [see Use in Specific Populations (8.5)].
 
-Gender: In a study of 184 patients, the clearance of digoxin was 12% lower in female than in male patients.
+Gender
+
+In a study of 184 patients, the clearance of digoxin was 12% lower in female than in male patients.
 This difference is not likely to be clinically important.
 
-Hepatic Impairment: Because only a small percentage (approximately 13%) of a dose of digoxin undergoes metabolism, hepatic impairment would not be expected to significantly alter the pharmacokinetics of digoxin.
+Hepatic Impairment
+
+Because only a small percentage (approximately 13%) of a dose of digoxin undergoes metabolism, hepatic impairment would not be expected to significantly alter the pharmacokinetics of digoxin.
 In a small study, plasma digoxin concentration profiles in patients with acute hepatitis generally fell within the range of profiles in a group of healthy subjects.
 No dosage adjustments are recommended for patients with hepatic impairment; however, serum digoxin concentrations should be used, as appropriate, to help guide dosing in these patients.
 
-Renal Impairment: Since the clearance of digoxin correlates with creatinine clearance, patients with renal impairment generally demonstrate prolonged digoxin elimination half-lives and greater exposures to digoxin.
+Renal Impairment
+
+Since the clearance of digoxin correlates with creatinine clearance, patients with renal impairment generally demonstrate prolonged digoxin elimination half-lives and greater exposures to digoxin.
 Therefore, titrate carefully in these patients based on clinical response and based on monitoring of serum digoxin concentrations, as appropriate.
 
-Race: The impact of race differences on digoxin pharmacokinetics has not been formally studied.
+Race
+
+The impact of race differences on digoxin pharmacokinetics has not been formally studied.
 Because digoxin is primarily eliminated as unchanged drug via the kidney and because there are no important differences in creatinine clearance among races, pharmacokinetic differences due to race are not expected.

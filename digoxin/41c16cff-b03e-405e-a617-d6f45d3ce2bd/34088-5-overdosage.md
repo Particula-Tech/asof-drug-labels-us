@@ -6,7 +6,9 @@ The signs and symptoms of toxicity are generally similar to those described in t
 Signs and symptoms of digoxin toxicity become more frequent with levels above 2 ng/mL.
 However, in deciding whether a patient’s symptoms are due to digoxin, the clinical state together with serum electrolyte levels and thyroid function are important factors [see Dosage and Administration (2)].
 
-Adults: The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30 to 70% of patients who are overdosed.
+Adults
+
+The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30 to 70% of patients who are overdosed.
 Extremely high serum concentrations produce hyperkalemia especially in patients with impaired renal function.
 Almost every type of cardiac arrhythmia has been associated with digoxin overdose and multiple rhythm disturbances in the same patient are common.
 Peak cardiac effects occur 3 to 6 hours following ingestion and may persist for 24 hours or longer.
@@ -15,7 +17,7 @@ Cardiac arrest from asystole or ventricular fibrillation is usually fatal.
 
 Digoxin toxicity is related to serum concentration.
 As digoxin serum levels increase above 1.2 ng/mL, there is a potential for increase in adverse reactions.
-Furthermore, lower potassium levels increases the risk for adverse reactions.
+Furthermore, lower potassium levels increase the risk for adverse reactions.
 In adults with heart disease, clinical observations suggest that an overdose of digoxin of 10 to 15 mg results in death of half of patients.
 A dose above 25 mg ingested by an adult without heart disease appeared to be uniformly fatal if no Digoxin Immune Fab (DIGIBIND®, DIGIFAB®) was administered.
 
@@ -25,7 +27,9 @@ Visual manifestations may also occur with aberration in color vision (predominan
 Neurological and visual symptoms may persist after other signs of toxicity have resolved.
 In chronic toxicity, non-specific extra-cardiac symptoms, such as malaise and weakness, may predominate.
 
-Children: In pediatric patients, signs and symptoms of toxicity can occur during or shortly after the dose of digoxin.
+Children
+
+In pediatric patients, signs and symptoms of toxicity can occur during or shortly after the dose of digoxin.
 Frequent non-cardiac effects are similar to those observed in adults although nausea and vomiting are not seen frequently in infants and small pediatric patients.
 Other reported manifestations of overdose are weight loss in older age groups, failure to thrive in infants, abdominal pain caused by mesenteric artery ischemia, drowsiness, and behavioral disturbances including psychotic episodes.
 Arrhythmias and combinations of arrhythmias that occur in adult patients can also occur in pediatric patients although sinus tachycardia, supraventricular tachycardia, and rapid atrial fibrillation are seen less frequently in pediatric patients.

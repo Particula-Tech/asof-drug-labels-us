@@ -5,7 +5,7 @@
 Risk Summary
 
 Experience with digoxin in pregnant women over several decades, based on published retrospective clinical studies and case reports, has not led to the identification of a drug associated risk of major birth defects, miscarriage or adverse maternal and fetal outcomes.
-Untreated underlying maternal conditions, such as heart failure and atrial fibrillation, during pregnancy pose a risk to the mother and fetus (see Clinical Consideration).
+Untreated underlying maternal conditions, such as heart failure and atrial fibrillation, during pregnancy pose a risk to the mother and fetus (see Clinical Considerations).
 Animal reproduction studies have not been conducted with digoxin.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.

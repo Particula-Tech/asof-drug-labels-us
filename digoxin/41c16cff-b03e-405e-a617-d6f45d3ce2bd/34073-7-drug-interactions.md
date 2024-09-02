@@ -58,7 +58,7 @@ Because of considerable variability of pharmacodynamic interactions, the dosage 
 
 | Drugs that Affect Renal Function | A decline in GFR or tubular secretion, as from ACE inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs [NSAIDS], COX-2 inhibitors may impair the excretion of digoxin. |  |
 | --- | --- | --- |
-| Antiarrthymics | Dofetilide | Concomitant administration with digoxin was associated with a higher rate of torsades de pointes |
+| Antiarrhythmics | Dofetilide | Concomitant administration with digoxin was associated with a higher rate of torsades de pointes. |
 |  | Sotalol | Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin. |
 |  | Dronedarone | Sudden death was more common in patients receiving digoxin with dronedarone than on either alone; it is not clear whether this represents an interaction or is related to the presence of advanced heart disease, a known risk factor for sudden death in patients receiving digoxin. |
 | Parathyroid Hormone Analog | Teriparatide | Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium. |

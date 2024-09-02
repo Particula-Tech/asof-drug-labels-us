@@ -108,9 +108,7 @@ Interpret the serum digoxin concentration in the overall clinical context, and d
 Serum digoxin concentrations may be falsely elevated by endogenous digoxin-like substances [see Drug Interactions (7.4)].
 If the assay is sensitive to these substances, consider obtaining a baseline digoxin level before starting Digoxin Tablets and correct post-treatment values by the reported baseline level.
 
-Obtain serum digoxin concentrations just before the next scheduled Digoxin Tablets dose or at least
-
-6 hours after the last dose.
+Obtain serum digoxin concentrations just before the next scheduled Digoxin Tablets dose or at least 6 hours after the last dose.
 The digoxin concentration is likely to be 10 to 25% lower when sampled right before the next dose (24 hours after dosing) compared to sampling 8 hours after dosing (using once-daily dosing).
 However, there will be only minor differences in digoxin concentrations using twice daily dosing whether sampling is done at 8 or 12 hours after a dose.
 
