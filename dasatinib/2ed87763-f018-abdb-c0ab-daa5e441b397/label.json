@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA202103"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-3628-6",
+    "60505-3629-6",
+    "60505-3630-6",
+    "60505-3631-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dasatinib",
+      "name": "Dasatinib"
+    }
+  ],
+  "setid": "2ed87763-f018-abdb-c0ab-daa5e441b397",
+  "source": "dailymed"
+}
