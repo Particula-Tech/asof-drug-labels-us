@@ -5,12 +5,13 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Hypersensitivity [see Contraindications (4)]
 - •Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
 - •Myelosuppression [see Warnings and Precautions (5.2)]
-- •Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
-- •Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
-- •Hepatic Toxicity [see Warnings and Precautions (5.5)]
-- •Exacerbation of Radiation Therapy Toxicity [see Warnings and Precautions (5.7)]
-- •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
-- •Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.3)]
+- •Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.4)]
+- •Hemolytic Uremic Syndrome [see Warnings and Precautions (5.5)]
+- •Hepatic Toxicity [see Warnings and Precautions (5.6)]
+- •Exacerbation of Radiation Therapy Toxicity [see Warnings and Precautions (5.8)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.9)]
+- •Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -94,6 +95,10 @@ Table 7: Adverse Reactions Occurring in >10% of Patients Receiving Gemcitabine w
 | Fatigue | 40 | 3 | <1 | 32 | 5 | 0 |
 | Diarrhea | 25 | 3 | 0 | 14 | <1 | 0 |
 | Stomatitis/Pharyngitis | 22 | <1 | 0 | 13 | 0 | 0 |
+
+Hematopoietic growth factors were administered more frequently in the gemcitabine-containing arm: leukocyte growth factor (24% and 10%) and erythropoiesis-stimulating agent (7% and 3.9%).
+
+The following clinically relevant Grade 3 and 4 adverse reactions occurred more frequently in the gemcitabine with carboplatin arm: dyspnea (3.4% versus 2.9%), febrile neutropenia (1.1% versus 0), hemorrhagic event (2.3% versus 1.1 %), motor neuropathy (1.1% versus 0.6%), and rash/desquamation (0.6% versus 0).
 
 Table 8: Laboratory Abnormalities Occurring in Patients Receiving Gemcitabine with Carboplatin and at Higher Incidence than in Patients Receiving Single Agent Carboplatin [Between Arm Difference of ≥5% (All Grades) or ≥2% (Grades 3–4)] in Study 1Grade based on National Cancer Institute CTC Version 2.0.
 
@@ -268,7 +273,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Blood and lymphatic system: Thrombotic microangiopathy (TMA)
 - •Cardiovascular: Congestive heart failure, myocardial infarction, arrhythmias, supraventricular arrhythmias
 - •Vascular: Peripheral vasculitis, gangrene, capillary leak syndrome
-- •Skin: Cellulitis, pseudocellulitis, severe skin reactions, including desquamation and bullous skin eruptions
+- •Skin: Cellulitis; pseudocellulitis; severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP); desquamation and bullous skin eruptions
 - •Hepatic: Hepatic failure, hepatic veno-occlusive disease
 - •Pulmonary: Interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, adult respiratory distress syndrome (ARDS), pulmonary eosinophilia
 - •Nervous System: Posterior reversible encephalopathy syndrome (PRES)
