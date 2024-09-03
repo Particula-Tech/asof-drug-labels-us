@@ -8,8 +8,8 @@ General Pharmacokinetic Characteristics
 
 Peak plasma concentrations are reached within 2.5 hours following administration of the oral solution.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with C max and AUC values 4 to 7-fold higher than those seen after a single dose.
-Steady-state C max values of about 2 mcg/mL are reached after oral administration of 200 mg once daily.
+Steady-state concentrations are generally reached within about 15 days, with C maxand AUC values 4 to 7-fold higher than those seen after a single dose.
+Steady-state C maxvalues of about 2 mcg/mL are reached after oral administration of 200 mg once daily.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
@@ -35,8 +35,8 @@ Concentrations in the cerebrospinal fluid are much lower than in plasma.
 Metabolism
 
 Itraconazole is extensively metabolized by the liver into a large number of metabolites.
-In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
-The main metabolite is hydroxy-itraconazole, which has in vitro antifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
+In vitrostudies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
+The main metabolite is hydroxy-itraconazole, which has in vitroantifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
 
 Excretion Itraconazole is excreted mainly as inactive metabolites in urine (35%) and in feces (54%) within one week of an oral solution dose.
 Renal excretion of itraconazole and the active metabolite hydroxy-itraconazole account for less than 1% of an intravenous dose.
@@ -55,9 +55,11 @@ Data are not available in renally impaired patients during long-term use of itra
 Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.
 (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
-Hepatic Impairment: Itraconazole is predominantly metabolized in the liver.
+Hepatic Impairment:
+
+Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100 mg dose of itraconazole as capsule.
-A statistically significant reduction in mean C max (47%) and a two fold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+A statistically significant reduction in mean C max(47%) and a two fold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 (See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
