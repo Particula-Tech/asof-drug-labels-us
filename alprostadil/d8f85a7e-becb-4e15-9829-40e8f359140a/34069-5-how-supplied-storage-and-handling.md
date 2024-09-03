@@ -14,6 +14,6 @@ CAVERJECT IMPULSE is supplied in a carton containing 2 blister trays.
 Each blister tray contains one dual chamber syringe system, one needle and 2 alcohol swabs.
 It is available in the following strengths:
 
-|  | 10 mcg | NDC 0009-5181-01 |
-| --- | --- | --- |
-|  | 20 mcg | NDC 0009-5182-01 |
+| 10 mcg | NDC 0009-5181-01 |
+| --- | --- |
+| 20 mcg | NDC 0009-5182-01 |
