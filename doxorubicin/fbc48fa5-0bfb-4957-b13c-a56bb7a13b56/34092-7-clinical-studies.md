@@ -21,6 +21,7 @@ Table 9: Response Rates in Patients With Refractory Ovarian Cancer From Single A
 
 In a pooled analysis of Trials 1-3, the response rate for all patients refractory to paclitaxel and platinum agents was 13.8% (95% CI 8.1% to 19.3%).
 The median time to progression was 15.9 weeks, the median time to response was 17.6 weeks, and the duration of response was 39.4 weeks.
+
 In Trial 4, a randomized, multicenter, open-label, trial in 474 patients with epithelial ovarian cancer after platinum-based chemotherapy, patients were randomized to receive either doxorubicin hydrochloride liposome injection 50 mg/m2 every 4 weeks (n=239) or topotecan 1.5 mg/m2 daily for 5 consecutive days every 3 weeks (n=235).
 Patients were stratified according to platinum sensitivity (response to initial platinum-based therapy and a progression-free interval of greater than 6 months off treatment) and the presence of bulky disease (tumor mass greater than 5 cm in size).
 The primary outcome measure was time to progression (TTP).
@@ -157,7 +158,9 @@ Table 13: Efficacy of Doxorubicin Hydrochloride Liposome Injection in Combinatio
 | Median Duration of Response (months) | 10.2 |  | 7 |
 | 95% CI | (10.2;12.9) |  | (5.9;8.3) |
 
-Figure 1-Time to Progression Kaplan-Meier Curve At the final analysis of survival, 78% of subjects in the doxorubicin hydrochloride liposome injection and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had died after a median follow up of 8.6 years.
+Figure 1-Time to Progression Kaplan-Meier Curve
+
+At the final analysis of survival, 78% of subjects in the doxorubicin hydrochloride liposome injection and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had died after a median follow up of 8.6 years.
 The median survival was 33 months in the doxorubicin hydrochloride liposome injection and bortezomib combination therapy group and 31 months in the bortezomib monotherapy group.
 There was no difference observed in overall survival at the final analysis [HR for doxorubicin hydrochloride liposome injection + bortezomib vs. bortezomib= 0.96 (95% CI 0.8, 1.14)].
 Seventy-eight percent of subjects in the doxorubicin hydrochloride liposome injection and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had received subsequent therapy.

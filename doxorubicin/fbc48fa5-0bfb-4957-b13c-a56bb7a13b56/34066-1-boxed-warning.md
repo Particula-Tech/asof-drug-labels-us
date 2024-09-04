@@ -6,4 +6,4 @@
 - Serious, life-threatening, and fatal infusion-related reactions can occur with doxorubicin hydrochloride liposome injection.
   Acute infusion-related reactions occurred in 11% of patients with solid tumors.
   Withhold doxorubicin hydrochloride liposome injection for infusion-related reactions and resume at a reduced rate.
-  Discontinue doxorubicin hydrochloride liposome injection infusion for serious or life-threatening infusion-related reactions [see Warnings and Precautions (5.2)].
+  Discontinue doxorubicin hydrochloride liposome injection for serious or life-threatening infusion-related reactions [see Warnings and Precautions (5.2)].

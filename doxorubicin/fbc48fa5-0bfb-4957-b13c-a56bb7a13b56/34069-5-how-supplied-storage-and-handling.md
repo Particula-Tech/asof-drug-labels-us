@@ -13,5 +13,6 @@ Table 14
 Refrigerate unopened vials of doxorubicin hydrochloride liposome injection at 2° to 8°C (36° to 46°F).
 Do not freeze.
 Discard unused portion.
+
 Doxorubicin hydrochloride liposome injection is a cytotoxic drug.
 Follow applicable special handling and disposal procedures1.
