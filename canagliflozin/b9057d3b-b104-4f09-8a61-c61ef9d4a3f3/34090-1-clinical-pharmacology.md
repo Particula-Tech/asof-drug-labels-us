@@ -11,14 +11,14 @@ This is believed to increase tubuloglomerular feedback and reduce intraglomerula
 
 ## 12.2 Pharmacodynamics
 
-Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in the renal threshold for glucose (RT G) and increases in urinary glucose excretion were observed.
+Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in RT Gand increases in urinary glucose excretion were observed.
 From a starting RT Gvalue of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RT Gthroughout the 24-hour period.
 Data from single oral doses of canagliflozin in healthy volunteers indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for doses up to 300 mg once daily.
 Maximal suppression of mean RT Gover the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 trials.
-The reductions in RT Gled to increases in mean UGE of approximately 100 g/day in subjects with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
+The reductions in RT Gled to increases in mean UGE of approximately 100 g/day in patients with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
 In patients with type 2 diabetes given 100 to 300 mg once daily over a 16-day dosing period, reductions in RT Gand increases in urinary glucose excretion were observed over the dosing period.
 In this trial, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
-In single-dose trials in healthy and type 2 diabetic subjects, treatment with canagliflozin 300 mg before a mixed-meal delayed intestinal glucose absorption and reduced postprandial glucose.
+In single-dose trials in healthy and type 2 diabetic patients, treatment with canagliflozin 300 mg before a mixed-meal delayed intestinal glucose absorption and reduced postprandial glucose.
 
 Cardiac Electrophysiology
 
@@ -66,7 +66,7 @@ Mean systemic clearance of canagliflozin was approximately 192 mL/min in healthy
 
 Specific Populations
 
-Renal Impairment
+Patients with Renal Impairment
 
 A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
 
@@ -78,7 +78,7 @@ The glucose lowering pharmacodynamic response to canagliflozin declines with inc
 
 Canagliflozin was negligibly removed by hemodialysis.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 Relative to subjects with normal hepatic function, the geometric mean ratios for C maxand AUC ∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate hepatic impairment) following administration of a single 300 mg dose of canagliflozin.
 
@@ -87,7 +87,7 @@ There is no clinical experience in patients with Child-Pugh class C (severe) hep
 
 Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
-Based on the population PK analysis with data collected from 1526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
+Based on the population PK analysis with data collected from 1,526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
 
 Drug Interaction Studies
 
@@ -112,7 +112,7 @@ Table 8: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozi
 | Cyclosporine | 400 mg | 300 mg QD for 8 days | 1.23 (1.19; 1.27) | 1.01 (0.91; 1.11) |
 | Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | 0.91 (0.88; 0.94) | 0.92 (0.84; 0.99) |
 | Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | 1.12 (1.08; 1.17) | 1.15 (1.06; 1.25) |
-| Metformin | 2,000 mg | 300 mg QD for 8 days | 1.10 (1.05; 1.15) | 1.05 (0.96; 1.16) |
+| Metformin HCl | 2,000 mg | 300 mg QD for 8 days | 1.10 (1.05; 1.15) | 1.05 (0.96; 1.16) |
 | Probenecid | 500 mg BID for 3 days | 300 mg QD for 17 days | 1.21 (1.16; 1.25) | 1.13 (1.00; 1.28) |
 | QD = once daily; BID = twice daily |  |  |  |  |
 
@@ -131,7 +131,7 @@ Table 9: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | 3-cis-hydroxy-glyburide | 1.01 (0.96; 1.07) | 0.99 (0.91; 1.08) |  |  |  |
 | 4-trans-hydroxy-glyburide | 1.03 (0.97; 1.09) | 0.96 (0.88; 1.04) |  |  |  |
 | Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | Hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
-| Metformin | 2,000 mg | 300 mg QD for 8 days | Metformin | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
+| Metformin HCl | 2,000 mg | 300 mg QD for 8 days | Metformin HCl | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
 | Simvastatin | 40 mg | 300 mg QD for 7 days | Simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
 | simvastatin acid | 1.18 (1.03; 1.35) | 1.26 (1.10; 1.45) |  |  |  |
 | Warfarin | 30 mg | 300 mg QD for 12 days | (R)-warfarin | 1.01 (0.96; 1.06) | 1.03 (0.94; 1.13) |

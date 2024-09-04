@@ -1,12 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
 Inform patients that INVOKANA can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
 
-Educate all patients on precipitating factors (such as infection, reduced caloric intake, ketogenic diet, surgery, insulin dose reduction, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Educate all patients on precipitating factors (such as insulin dose reduction or missed doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
 Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
 
 Advise patients that they may be asked to monitor ketones.
@@ -22,6 +22,11 @@ Volume Depletion
 
 Inform patients that symptomatic hypotension may occur with INVOKANA and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.3)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
+
+Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
+
+Inform patients that hypoglycemia has been reported when INVOKANA is used with insulin or insulin secretagogues.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.5)].
 
 Serious Urinary Tract Infections
 

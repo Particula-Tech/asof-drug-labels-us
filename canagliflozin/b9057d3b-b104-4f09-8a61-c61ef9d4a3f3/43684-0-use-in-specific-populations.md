@@ -4,12 +4,12 @@
 
 Risk Summary
 
-Based on animal data showing adverse renal effects, INVOKANA is not recommended during the second and third trimesters of pregnancy.
+Based on juvenile animal data showing adverse renal effects, INVOKANA is not recommended during the second and third trimesters of pregnancy.
 
 Limited data with INVOKANA in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-In animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at an exposure 0.5-times the 300 mg clinical dose, based on AUC.
+In juvenile animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at an exposure 0.5-times the 300 mg clinical dose, based on AUC.
 
 The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA 1C>7 and has been reported to be as high as 20–25% in women with a HbA 1C>10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -17,7 +17,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated Maternal and/or Embryo/Fetal Risk
 
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.

@@ -6,7 +6,7 @@ The following important adverse reactions are described below and elsewhere in t
 - Lower Limb Amputation [see Warnings and Precautions (5.2)]
 - Volume Depletion [see Warnings and Precautions (5.3)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
+- Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.6)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.7)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
@@ -22,14 +22,14 @@ The data in Table 2 is derived from four 26-week placebo-controlled trials where
 These data reflect exposure of 1,667 patients to INVOKANA and a mean duration of exposure to INVOKANA of 24 weeks.
 Patients received INVOKANA 100 mg (N=833), INVOKANA 300 mg (N=834) or placebo (N=646) once daily.
 The mean age of the population was 56 years and 2% were older than 75 years of age.
-Fifty percent (50%) of the population was male and 72% were Caucasian, 12% were Asian, and 5% were Black or African American.
+Fifty percent (50%) of the population was male and 72% were White, 12% were Asian, and 5% were Black or African American.
 At baseline the population had diabetes for an average of 7.3 years, had a mean HbA 1Cof 8.0% and 20% had established microvascular complications of diabetes.
 Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m 2).
 
 Table 2 shows common adverse reactions associated with the use of INVOKANA.
 These adverse reactions were not present at baseline, occurred more commonly on INVOKANA than on placebo, and occurred in at least 2% of patients treated with either INVOKANA 100 mg or INVOKANA 300 mg.
 
-Table 2: Adverse Reactions from Pool of Four 26–Week Placebo-Controlled Studies Reported in ≥ 2% of INVOKANA-Treated Patients The four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
+Table 2: Adverse Reactions from Pool of Four 26–Week Placebo-Controlled Studies Reported in ≥ 2% of INVOKANA-Treated Patients The four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin HCl, metformin HCl and sulfonylurea, or metformin HCl and pioglitazone.
 
 | Adverse Reaction | Placebo N=646 | INVOKANA 100 mg N=833 | INVOKANA 300 mg N=834 |
 | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ Placebo-Controlled Trial in Diabetic Nephropathy
 The occurrence of adverse reactions for INVOKANA was evaluated in patients participating in CREDENCE, a study in patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria > 300 mg/day [see Clinical Studies (14.3)].
 These data reflect exposure of 2,201 patients to INVOKANA and a mean duration of exposure to INVOKANA of 137 weeks.
 
-- The rate of lower limb amputations associated with the use of INVOKANA 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively, with 2.6 years mean duration of follow-up.
+- The rate of lower limb amputations associated with the use of INVOKANA 100 mg relative to placebo was 12.3 vs 11.2 events per 1,000 patient-years, respectively, with 2.6 years mean duration of follow-up.
 - The incidence of hypotension was 2.8% and 1.5% on INVOKANA 100 mg and placebo, respectively.
 
 Pool of Placebo- and Active-Controlled Trials for Glycemic Control and Cardiovascular Outcomes
@@ -77,33 +77,33 @@ Other adverse reactions occurring more frequently on INVOKANA than on comparator
 
 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
+An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 Patients in CANVAS and CANVAS-R were followed for an average of 5.7 and 2.1 years, respectively [see Clinical Studies (14.2)].
 The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively.
 
 Table 3: CANVAS Amputations
 
-|  | Placebo N=1441 | INVOKANA 100 mg N=1445 | INVOKANA 300 mg N=1441 | INVOKANA (Pooled) N=2886 |
+|  | Placebo N=1,441 | INVOKANA 100 mg N=1,445 | INVOKANA 300 mg N=1,441 | INVOKANA (Pooled) N=2,886 |
 | --- | --- | --- | --- | --- |
 | Patients with an amputation, n (%) | 22 (1.5) | 50 (3.5) | 45 (3.1) | 95 (3.3) |
 | Total amputations | 33 | 83 | 79 | 162 |
-| Amputation incidence rate (per 1000 patient-years) | 2.8 | 6.2 | 5.5 | 5.9 |
+| Amputation incidence rate (per 1,000 patient-years) | 2.8 | 6.2 | 5.5 | 5.9 |
 | Hazard Ratio (95% CI) | -- | 2.24 (1.36, 3.69) | 2.01 (1.20, 3.34) | 2.12 (1.34, 3.38) |
 | Note: Incidence is based on the number of patients with at least one amputation, and not the total number of amputation events. A patient's follow-up is calculated from Day 1 to the first amputation event date. Some patients had more than one amputation. |  |  |  |  |
 
 Table 4: CANVAS-R Amputations
 
-|  | Placebo N=2903 | INVOKANA 100 mg (with up-titration to 300 mg) N=2904 |
+|  | Placebo N=2,903 | INVOKANA 100 mg (with up-titration to 300 mg) N=2,904 |
 | --- | --- | --- |
 | Patients with an amputation, n (%) | 25 (0.9) | 45 (1.5) |
 | Total amputations | 36 | 59 |
-| Amputation incidence rate (per 1000 patient-years) | 4.2 | 7.5 |
+| Amputation incidence rate (per 1,000 patient-years) | 4.2 | 7.5 |
 | Hazard Ratio (95% CI) | -- | 1.80 (1.10, 2.93) |
 | Note: Incidence is based on the number of patients with at least one amputation, and not the total number of amputation events. A patient's follow-up is calculated from Day 1 to the first amputation event date. Some patients had more than one amputation. |  |  |
 
 Renal Cell Carcinoma
 
-In the CANVAS trial (mean duration of follow-up of 5.7 years) [see Clinical Studies (14.2)], the incidence of renal cell carcinoma was 0.15% (2/1331) and 0.29% (8/2716) for placebo and INVOKANA, respectively, excluding patients with less than 6 months of follow-up, less than 90 days of treatment, or a history of renal cell carcinoma.
+In the CANVAS trial (mean duration of follow-up of 5.7 years) [see Clinical Studies (14.2)], the incidence of renal cell carcinoma was 0.15% (2/1,331) and 0.29% (8/2,716) for placebo and INVOKANA, respectively, excluding patients with less than 6 months of follow-up, less than 90 days of treatment, or a history of renal cell carcinoma.
 A causal relationship to INVOKANA could not be established due to the limited number of cases.
 
 Volume Depletion-Related Adverse Reactions
@@ -136,7 +136,7 @@ In females, discontinuation due to genital mycotic infections occurred in 0% and
 
 In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.7%, 4.2%, and 3.8% of males treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
-Male patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrent infections (22% on INVOKANA versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
+Male patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrent infections (22% on INVOKANA versus none on placebo) and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and INVOKANA, respectively.
 
 In the pooled analysis of 8 randomized trials evaluating glycemic control, phimosis was reported in 0.3% of uncircumcised male patients treated with INVOKANA and 0.2% required circumcision to treat the phimosis.
@@ -152,21 +152,21 @@ Table 6: Incidence of Hypoglycemia Number of patients experiencing at least one 
 | Monotherapy (26 weeks) | Placebo (N=192) | INVOKANA 100 mg (N=195) | INVOKANA 300 mg (N=197) |
 | --- | --- | --- | --- |
 | Overall [N (%)] | 5 (2.6) | 7 (3.6) | 6 (3.0) |
-| In Combination with Metformin (26 weeks) | Placebo + Metformin (N=183) | INVOKANA 100 mg + Metformin (N=368) | INVOKANA 300 mg + Metformin (N=367) |
+| In Combination with Metformin HCl (26 weeks) | Placebo + Metformin HCl (N=183) | INVOKANA 100 mg + Metformin HCl (N=368) | INVOKANA 300 mg + Metformin HCl (N=367) |
 | Overall [N (%)] | 3 (1.6) | 16 (4.3) | 17 (4.6) |
 | Severe [N (%)] Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
-| In Combination with Metformin (52 weeks) | Glimepiride + Metformin (N=482) | INVOKANA 100 mg + Metformin (N=483) | INVOKANA 300 mg + Metformin (N=485) |
+| In Combination with Metformin HCl (52 weeks) | Glimepiride + Metformin HCl (N=482) | INVOKANA 100 mg + Metformin HCl (N=483) | INVOKANA 300 mg + Metformin HCl (N=485) |
 | Overall [N (%)] | 165 (34.2) | 27 (5.6) | 24 (4.9) |
 | Severe [N (%)] | 15 (3.1) | 2 (0.4) | 3 (0.6) |
 | In Combination with Sulfonylurea (18 weeks) | Placebo + Sulfonylurea (N=69) | INVOKANA 100 mg + Sulfonylurea (N=74) | INVOKANA 300 mg + Sulfonylurea (N=72) |
 | Overall [N (%)] | 4 (5.8) | 3 (4.1) | 9 (12.5) |
-| In Combination with Metformin + Sulfonylurea (26 weeks) | Placebo + Metformin + Sulfonylurea (N=156) | INVOKANA 100 mg + Metformin + Sulfonylurea (N=157) | INVOKANA 300 mg + Metformin + Sulfonylurea (N=156) |
+| In Combination with Metformin HCl + Sulfonylurea (26 weeks) | Placebo + Metformin HCl + Sulfonylurea (N=156) | INVOKANA 100 mg + Metformin HCl + Sulfonylurea (N=157) | INVOKANA 300 mg + Metformin HCl + Sulfonylurea (N=156) |
 | Overall [N (%)] | 24 (15.4) | 43 (27.4) | 47 (30.1) |
 | Severe [N (%)] | 1 (0.6) | 1 (0.6) | 0 |
-| In Combination with Metformin + Sulfonylurea (52 weeks) | Sitagliptin + Metformin + Sulfonylurea (N=378) |  | INVOKANA 300 mg + Metformin + Sulfonylurea (N=377) |
+| In Combination with Metformin HCl + Sulfonylurea (52 weeks) | Sitagliptin + Metformin HCl + Sulfonylurea (N=378) |  | INVOKANA 300 mg + Metformin HCl + Sulfonylurea (N=377) |
 | Overall [N (%)] | 154 (40.7) |  | 163 (43.2) |
 | Severe [N (%)] | 13 (3.4) |  | 15 (4.0) |
-| In Combination with Metformin + Pioglitazone (26 weeks) | Placebo + Metformin + Pioglitazone (N=115) | INVOKANA 100 mg + Metformin + Pioglitazone (N=113) | INVOKANA 300 mg + Metformin + Pioglitazone (N=114) |
+| In Combination with Metformin HCl + Pioglitazone (26 weeks) | Placebo + Metformin HCl + Pioglitazone (N=115) | INVOKANA 100 mg + Metformin HCl + Pioglitazone (N=113) | INVOKANA 300 mg + Metformin HCl + Pioglitazone (N=114) |
 | Overall [N (%)] | 3 (2.6) | 3 (2.7) | 6 (5.3) |
 | In Combination with Insulin (18 weeks) | Placebo (N=565) | INVOKANA 100 mg (N=566) | INVOKANA 300 mg (N=587) |
 | Overall [N (%)] | 208 (36.8) | 279 (49.3) | 285 (48.6) |

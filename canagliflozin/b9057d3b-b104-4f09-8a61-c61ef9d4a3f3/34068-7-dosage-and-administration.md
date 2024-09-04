@@ -19,7 +19,7 @@ Table 1: Recommended Dosage in Patients with Renal Impairment
 
 | Estimated Glomerular Filtration Rate [eGFR (mL/min/1.73 m 2)] | Recommended Dosage |
 | --- | --- |
-| eGFR 30 to less than 60 | The maximum recommended dosage is100 mg orally once daily. |
+| eGFR 30 to less than 60 | The maximum recommended dosage is 100 mg orally once daily. |
 | eGFR less than 30 | Initiation is not recommendedPatients taking INVOKANA with albuminuria greater than 300 mg/day may continue INVOKANA 100 mg once daily to reduce the risk of ESKD, doubling of serum creatinine, CV death, and hospitalization for heart failure [see Indications and Usage (1)and Use in Specific Populations (8.6)]. |
 
 ## 2.4 Concomitant Use with UDP-Glucuronosyl transferase (UGT) Enzyme Inducers
@@ -32,5 +32,5 @@ When co-administering INVOKANA with an inducer of UGT (e.g., rifampin, phenytoin
 
 ## 2.5 Temporary Interruption for Surgery
 
-Withhold INVOKANA at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Withhold INVOKANA at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume INVOKANA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.2)].

@@ -9,12 +9,12 @@ INVOKANA is not indicated for glycemic control in patients with type 1 diabetes 
 Type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are also risk factors for ketoacidosis.
 There have been postmarketing reports of fatal events of ketoacidosis in patients with type 2 diabetes mellitus using SGLT2 inhibitors, including INVOKANA.
 
-Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include acute febrile illness, reduced caloric intake, ketogenic diet, surgery, insulin dose reduction, volume depletion, and alcohol abuse.
+Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include under-insulinization due to insulin dose reduction or missed insulin doses, acute febrile illness, reduced caloric intake, ketogenic diet, surgery, volume depletion, and alcohol abuse.
 
 Signs and symptoms are consistent with dehydration and severe metabolic acidosis and include nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
 Blood glucose levels at presentation may be below those typically expected for diabetic ketoacidosis (e.g., less than 250 mg/dL).
 Ketoacidosis and glucosuria may persist longer than typically expected.
-Urinary glucose excretion persists for 3 days after discontinuing INVOKANA [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
+Urinary glucose excretion persists for 3 days after discontinuing INVOKANA [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and/or glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
 
 Consider ketone monitoring in patients at risk for ketoacidosis if indicated by the clinical situation.
 Assess for ketoacidosis regardless of presenting blood glucose levels in patients who present with signs and symptoms consistent with severe metabolic acidosis.
@@ -28,7 +28,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ## 5.2 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes mellitus who had either established cardiovascular disease or were at risk for cardiovascular disease.
+An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes mellitus who had either established cardiovascular disease or were at risk for cardiovascular disease.
 The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
 The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively [see Adverse Reactions (6.1)].
 
@@ -38,7 +38,6 @@ Some patients had multiple amputations, some involving both lower limbs.
 Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
 The risk of amputation was highest in patients with a baseline history of prior amputation, peripheral vascular disease, and neuropathy.
 
-Before initiating INVOKANA, consider factors in the patient history that may predispose to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving INVOKANA for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKANA if these complications occur.
 
@@ -56,11 +55,12 @@ There have been postmarketing reports of serious urinary tract infections includ
 Treatment with INVOKANA increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.5 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 INVOKANA may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with INVOKANA.
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
+Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
