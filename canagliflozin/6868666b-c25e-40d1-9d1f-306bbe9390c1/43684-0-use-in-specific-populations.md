@@ -4,16 +4,16 @@
 
 Risk Summary
 
-Based on animal data showing adverse renal effects from canagliflozin, INVOKAMET or INVOKAMET XR is not recommended during the second and third trimesters of pregnancy.
+Based on juvenile animal data showing adverse renal effects from canagliflozin, INVOKAMET or INVOKAMET XR is not recommended during the second and third trimesters of pregnancy.
 
 Limited data with INVOKAMET, INVOKAMET XR or canagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
 Published studies with metformin HCl use during pregnancy have not reported a clear association with metformin HCl and major birth defect or miscarriage risk [see Data].
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-In animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered at an exposure 0.5-times the 300 mg clinical dose, based on AUC during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
-No adverse developmental effects were observed when metformin HCl was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2000 mg clinical dose, based on body surface area [see Data].
+In juvenile animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at an exposure 0.5-times the 300 mg clinical dose, based on AUC.
+No adverse developmental effects were observed when metformin HCl was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2,000 mg clinical dose, based on body surface area [see Data].
 
-The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA 1C>7 and has been reported to be as high as 20–25% in women with a HbA 1C>10.
+The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA 1C>7 and has been reported to be as high as 20–25% in women with a HbA 1C>10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
@@ -38,7 +38,7 @@ Canagliflozin
 Canagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 4, 20, 65, or 100 mg/kg increased kidney weights and dose dependently increased the incidence and severity of renal pelvic and tubular dilatation at all doses tested.
 Exposure at the lowest dose was greater than or equal to 0.5-times the 300 mg clinical dose, based on AUC.
 These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
-The renal pelvic dilatations observed in juvenile animals did not fully reverse within a 1 month recovery period.
+The renal pelvic dilatations observed in juvenile animals did not fully reverse within a 1-month recovery period.
 
 In embryo-fetal development studies in rats and rabbits, canagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
 No developmental toxicities independent of maternal toxicity were observed when canagliflozin was administered at doses up to 100 mg/kg in pregnant rats and 160 mg/kg in pregnant rabbits during embryonic organogenesis or during a study in which maternal rats were dosed from gestation day (GD) 6 through PND 21, yielding exposures up to approximately 19-times the 300 mg clinical dose, based on AUC.
@@ -46,11 +46,11 @@ No developmental toxicities independent of maternal toxicity were observed when 
 Metformin HCl
 
 Metformin HCl did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
-This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m 2) for rats and rabbits, respectively.
+This represents an exposure of about 2- and 6-times a 2,000 mg clinical dose based on body surface area (mg/m 2) for rats and rabbits, respectively.
 
 Canagliflozin and Metformin HCl
 
-No adverse developmental effects were observed when canagliflozin and metformin HCl were co-administered to pregnant rats during the period of organogenesis at exposures up to 11 and 13 times, respectively, the 300 mg and 2000 mg clinical doses of canagliflozin and metformin HCl based on AUC.
+No adverse developmental effects were observed when canagliflozin and metformin HCl were co-administered to pregnant rats during the period of organogenesis at exposures up to 11 and 13 times, respectively, the 300 mg and 2,000 mg clinical doses of canagliflozin and metformin HCl based on AUC.
 
 ## 8.2 Lactation
 
@@ -89,7 +89,7 @@ Because renal function abnormalities can occur after initiating canagliflozin, m
 Canagliflozin
 
 In 13 clinical trials of canagliflozin, 2,294 patients 65 years and older, and 351 patients 75 years and older were exposed to canagliflozin.
-Of these patients, 1,534 patients 65 years and older and 196 patients 75 years and older were exposed to the combination of canagliflozin and metformin HCl [see Clinical Studies (14)].
+Of these patients, 1,534 patients 65 years and older and 196 patients 75 years and older were exposed to the combination of canagliflozin and metformin HCl [see Clinical Studies (14.1)].
 Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with canagliflozin (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1)and Adverse Reactions (6.1)].
 Smaller reductions in HbA 1Cwith canagliflozin relative to placebo were seen in older (65 years and older; -0.61% with canagliflozin 100 mg and -0.74% with canagliflozin 300 mg relative to placebo) compared to younger patients (-0.72% with canagliflozin 100 mg and -0.87% with canagliflozin 300 mg relative to placebo).
 

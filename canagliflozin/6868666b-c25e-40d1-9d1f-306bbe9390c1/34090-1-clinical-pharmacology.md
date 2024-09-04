@@ -4,7 +4,7 @@
 
 Canagliflozin
 
-SGLT2 expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
+SGLT2, expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Canagliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RT G), and thereby increases urinary glucose excretion (UGE).
 
@@ -122,7 +122,7 @@ Specific Populations
 Trials characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET or INVOKAMET XR were not conducted in patients with renal and hepatic impairment.
 Descriptions of the individual components in this patient population are described below.
 
-Renal Impairment
+Patients with Renal Impairment
 
 Canagliflozin
 
@@ -142,7 +142,7 @@ In patients with decreased renal function, the plasma and blood half-life of met
 Following a single dose administration of metformin HCl extended-release tablets 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively [see Warnings and Precautions (5.4)].
 Metformin peak and systemic exposure was 27% and 61% greater, respectively in mild renal impaired and 74% and 2.36-fold greater in moderate renal impaired patients as compared to healthy subjects [see Contraindications (4)and Warnings and Precautions (5.1)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 Canagliflozin
 
@@ -159,7 +159,7 @@ Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
 Canagliflozin
 
-Based on the population PK analysis with data collected from 1526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
+Based on the population PK analysis with data collected from 1,526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
 
 Metformin
 
@@ -176,7 +176,7 @@ Metformin
 Limited data from controlled pharmacokinetic trials of metformin HCl tablets in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and C maxis increased, compared with healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function [see Warnings and Precautions (5.1, 5.4)and Use in Specific Populations (8.5)].
 
-Drug-Drug Interactions
+Drug Interaction Studies
 
 INVOKAMET and INVOKAMET XR
 
@@ -258,7 +258,7 @@ Table 12: Effect of Metformin HCl on Co–Administered Drug Systemic Exposures
 | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered Drug Single dose unless otherwise noted | Dose of Metformin HCl | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
 | No dose adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mg AUC 0–24 hr reported | 0.78 Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
+| Glyburide | 5 mg | 500 mg AUC 0–24hr reported | 0.78 Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |

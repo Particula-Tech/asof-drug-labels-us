@@ -7,7 +7,7 @@ The following important adverse reactions are also discussed elsewhere in the la
 - Lower Limb Amputation [see Warnings and Precautions (5.3)]
 - Volume Depletion [see Warnings and Precautions (5.4)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
-- Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin [see Warnings and Precautions (5.6)]
+- Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.6)]
 - Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.7)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.8)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
@@ -27,7 +27,7 @@ These data reflect exposure of 1,667 patients to canagliflozin and a mean durati
 Patients received canagliflozin 100 mg (N=833), canagliflozin 300 mg (N=834) or placebo (N=646) once daily.
 The mean daily dose of metformin HCl was 2,138 mg (SD 337.3) for the 1,275 patients in the three placebo-controlled metformin HCl add-on trials.
 The mean age of the population was 56 years and 2% were older than 75 years of age.
-Fifty percent (50%) of the population was male and 72% were Caucasian, 12% were Asian, and 5% were Black or African American.
+Fifty percent (50%) of the population was male and 72% were White, 12% were Asian, and 5% were Black or African American.
 At baseline the population had diabetes for an average of 7.3 years, had a mean HbA 1Cof 8.0% and 20% had established microvascular complications of diabetes.
 Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m 2).
 
@@ -64,7 +64,7 @@ Placebo-Controlled Trial in Diabetic Nephropathy
 The occurrence of adverse reactions for canagliflozin was evaluated in patients participating in CREDENCE, a study in patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria ˃ 300 mg/day [see Clinical Studies (14.3)].
 These data reflect exposure of 2,201 patients to canagliflozin and a mean duration of exposure to canagliflozin of 137 weeks.
 
-The rate of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively, with 2.6 years mean duration of follow-up.
+The rate of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo was 12.3 vs 11.2 events per 1,000 patient-years, respectively, with 2.6 years mean duration of follow-up.
 
 The incidence of hypotension was 2.8% and 1.5% on canagliflozin 100 mg and placebo, respectively.
 
@@ -90,33 +90,33 @@ Other adverse reactions occurring more frequently on canagliflozin than on compa
 
 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with canagliflozin was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
+An increased risk of lower limb amputations associated with canagliflozin was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 Patients in CANVAS and CANVAS-R were followed for an average of 5.7 and 2.1 years, respectively [see Clinical Studies (14.2)].
 The amputation data for CANVAS and CANVAS-R are shown in Tables 4 and 5, respectively.
 
 Table 4: CANVAS Amputations
 
-|  | Placebo N=1441 | Canagliflozin 100 mg N=1445 | Canagliflozin 300 mg N=1441 | Canagliflozin (Pooled) N=2886 |
+|  | Placebo N=1,441 | Canagliflozin 100 mg N=1,445 | Canagliflozin 300 mg N=1,441 | Canagliflozin (Pooled) N=2,886 |
 | --- | --- | --- | --- | --- |
 | Patients with an amputation, n (%) | 22 (1.5) | 50 (3.5) | 45 (3.1) | 95 (3.3) |
 | Total amputations | 33 | 83 | 79 | 162 |
-| Amputation incidence rate (per 1000 patient-years) | 2.8 | 6.2 | 5.5 | 5.9 |
+| Amputation incidence rate (per 1,000 patient-years) | 2.8 | 6.2 | 5.5 | 5.9 |
 | Hazard Ratio (95% CI) | -- | 2.24 (1.36, 3.69) | 2.01 (1.20, 3.34) | 2.12 (1.34, 3.38) |
 | Note: Incidence is based on the number of patients with at least one amputation, and not the total number of amputation events. A patient's follow-up is calculated from Day 1 to the first amputation event date. Some patients had more than one amputation. |  |  |  |  |
 
 Table 5: CANVAS-R Amputations
 
-|  | Placebo N=2903 | Canagliflozin 100 mg (with up-titration to 300 mg) N=2904 |
+|  | Placebo N=2,903 | Canagliflozin 100 mg (with up-titration to 300 mg) N=2,904 |
 | --- | --- | --- |
 | Patients with an amputation, n (%) | 25 (0.9) | 45 (1.5) |
 | Total amputations | 36 | 59 |
-| Amputation incidence rate (per 1000 patient-years) | 4.2 | 7.5 |
+| Amputation incidence rate (per 1,000 patient-years) | 4.2 | 7.5 |
 | Hazard Ratio (95% CI) | -- | 1.80 (1.10, 2.93) |
 | Note: Incidence is based on the number of patients with at least one amputation, and not the total number of amputation events. A patient's follow-up is calculated from Day 1 to the first amputation event date. Some patients had more than one amputation. |  |  |
 
 Renal Cell Carcinoma
 
-In the CANVAS trial (mean duration of follow-up of 5.7 years) [see Clinical Studies (14.2)], the incidence of renal cell carcinoma was 0.15% (2/1331) and 0.29% (8/2716) for placebo and canagliflozin, respectively, excluding patients with less than 6 months of follow-up, less than 90 days of treatment, or a history of renal cell carcinoma.
+In the CANVAS trial (mean duration of follow-up of 5.7 years) [see Clinical Studies (14.2)], the incidence of renal cell carcinoma was 0.15% (2/1,331) and 0.29% (8/2,716) for placebo and canagliflozin, respectively, excluding patients with less than 6 months of follow-up, less than 90 days of treatment, or a history of renal cell carcinoma.
 A causal relationship to canagliflozin could not be established due to the limited number of cases.
 
 Volume Depletion-Related Adverse Reactions
@@ -149,7 +149,7 @@ In females, discontinuation due to genital mycotic infections occurred in 0% and
 
 In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.7%, 4.2%, and 3.8% of males treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
-Male patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrent infections (22% on canagliflozin versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
+Male patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrent infections (22% on canagliflozin versus none on placebo) and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and canagliflozin, respectively.
 
 In the pooled analysis of 8 randomized trials evaluating glycemic control, phimosis was reported in 0.3% of uncircumcised male patients treated with canagliflozin and 0.2% required circumcision to treat the phimosis.
@@ -231,7 +231,7 @@ At the end of treatment, 0.8%, 4.0%, and 2.7% of patients treated with placebo, 
 
 Decreases in Bone Mineral Density
 
-Bone mineral density (BMD) was measured by dual-energy X-ray absorptiometry in a clinical trial of 714 older adults (mean age 64 years).
+Bone mineral density (BMD) was measured by dual-energy X-ray absorptiometry in a clinical trial of 714 older adults (mean age 64 years) [see Clinical Studies (14.1)].
 At 2 years, patients randomized to canagliflozin 100 mg and canagliflozin 300 mg had placebo-corrected declines in BMD at the total hip of 0.9% and 1.2%, respectively, and at the lumbar spine of 0.3% and 0.7%, respectively.
 Additionally, placebo-adjusted BMD declines were 0.1% at the femoral neck for both canagliflozin doses and 0.4% at the distal forearm for patients randomized to canagliflozin 300 mg.
 The placebo-adjusted change at the distal forearm for patients randomized to canagliflozin 100 mg was 0%.

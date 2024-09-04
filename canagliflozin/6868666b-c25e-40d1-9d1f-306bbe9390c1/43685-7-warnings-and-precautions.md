@@ -77,7 +77,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ## 5.3 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET or INVOKAMET XR, versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
+An increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET or INVOKAMET XR, versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
 The amputation data for CANVAS and CANVAS-R are shown in Tables 4 and 5, respectively [see Adverse Reactions (6.1)].
 
@@ -104,11 +104,12 @@ There have been postmarketing reports of serious urinary tract infections includ
 Treatment with INVOKAMET or INVOKAMET XR increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.6 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
+## 5.6 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 INVOKAMET or INVOKAMET XR may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with INVOKAMET or INVOKAMET XR.
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
+Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 

@@ -70,5 +70,5 @@ Re-evaluate eGFR 48 hours after the imaging procedure; restart INVOKAMET or INVO
 
 ## 2.7 Temporary Interruption for Surgery
 
-Withhold INVOKAMET or INVOKAMET XR at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Withhold INVOKAMET or INVOKAMET XR at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume INVOKAMET or INVOKAMET XR when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.2)].

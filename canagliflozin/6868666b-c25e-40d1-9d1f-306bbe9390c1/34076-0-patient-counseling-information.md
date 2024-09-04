@@ -5,7 +5,7 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
 Lactic Acidosis
 
 Explain the risks of lactic acidosis, its symptoms, and conditions that predispose to its development, as noted in Warnings and Precautions (5.1).
-Advise patients to discontinue INVOKAMET or INVOKAMET XR immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgias, malaise, unusual somnolence or other nonspecific symptoms occur.
+Advise patients to discontinue INVOKAMET or INVOKAMET XR immediately and to promptly notify their health care provider if unexplained hyperventilation, myalgias, malaise, unusual somnolence or other nonspecific symptoms occur.
 Once a patient is stabilized on INVOKAMET or INVOKAMET XR, gastrointestinal symptoms, which are common during initiation of metformin HCl, are unlikely to recur.
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 
@@ -19,7 +19,7 @@ Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoac
 
 Inform patients that INVOKAMET or INVOKAMET XR can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
 
-Educate all patients on precipitating factors (such as infection, reduced caloric intake, ketogenic diet, surgery, insulin dose reduction, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
+Educate all patients on precipitating factors (such as insulin dose reduction or missed doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing).
 Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
 
 Advise patients that they may be asked to monitor ketones.
@@ -41,6 +41,11 @@ Serious Urinary Tract Infections
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
+
+Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
+
+Inform patients that hypoglycemia has been reported when INVOKAMET or INVOKAMET XR is used with insulin or insulin secretagogues.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.6)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 

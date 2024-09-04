@@ -18,7 +18,7 @@ Table 8: Clinically Significant Drug Interactions with INVOKAMET or INVOKAMET XR
 | Clinical Impact: | UGT enzyme inducers decrease canagliflozin exposure which may reduce the effectiveness of INVOKAMET or NVOKAMET XR. |
 | Intervention: | For patients with eGFR 60 mL/min/1.73 m 2or greater, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating INVOKAMET or INVOKAMET XR with a total daily dose of canagliflozin 100 mg. The total daily dose of canagliflozin may be increased to 300 mg in patients currently tolerating canagliflozin 200 mg and who require additional glycemic control. For patients with eGFR less than 60 mL/min/1.73 m 2, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating canagliflozin 100 mg [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)]. |
 | Examples: | Rifampin, phenytoin, phenobarbital, ritonavir |
-| Insulin Secretagogues or Insulin |  |
+| Insulin or Insulin Secretagogues |  |
 | Clinical Impact: | The risk of hypoglycemia is increased when INVOKAMET or INVOKAMET XR is used concomitantly with insulin secretagogues (e.g., sulfonylurea) or insulin. |
 | Intervention: | Concomitant use may require a lower dosage of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
 | Drugs Affecting Glycemic Control |  |
@@ -27,7 +27,7 @@ Table 8: Clinically Significant Drug Interactions with INVOKAMET or INVOKAMET XR
 | Examples: | Thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blockers, and isoniazid. |
 | Digoxin |  |
 | Clinical Impact: | Canagliflozin increases digoxin exposure [see Clinical Pharmacology (12.3)]. |
-| Intervention: | Monitor patients taking INVOKAMET or INVOKAMET XR with concomitant digoxin for a need to adjust dose of digoxin. |
+| Intervention: | Monitor patients taking INVOKAMET or INVOKAMET XR with concomitant digoxin for a need to adjust the dosage of digoxin. |
 | Lithium |  |
 | Clinical Impact: | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
 | Intervention: | Monitor serum lithium concentration more frequently during INVOKAMET or INVOKAMET XR initiation and dosage changes. |

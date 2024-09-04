@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-INVOKAMET ®(canagliflozin and metformin HCl) and INVOKAMET ®XR (canagliflozin and metformin HCl extended-release tablets) contain canagliflozin and metformin HCl.
+INVOKAMET ®(canagliflozin and metformin HCl immediate-release tablets) and INVOKAMET ®XR (canagliflozin and metformin HCl extended-release tablets) contain canagliflozin and metformin HCl.
 
 Canagliflozin
 

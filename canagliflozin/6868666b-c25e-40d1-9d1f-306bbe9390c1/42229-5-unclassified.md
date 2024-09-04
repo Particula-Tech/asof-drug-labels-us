@@ -1,4 +1,4 @@
-Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, USA
 
 Licensed from Mitsubishi Tanabe Pharma Corporation
 

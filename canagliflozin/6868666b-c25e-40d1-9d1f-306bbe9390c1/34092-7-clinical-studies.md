@@ -7,33 +7,33 @@ The efficacy of canagliflozin was compared to a dipeptidyl peptidase-4 (DPP-4) i
 
 There have been no clinical efficacy trials conducted with INVOKAMET or INVOKAMET XR; however, bioequivalence of INVOKAMET or INVOKAMET XR to canagliflozin and metformin HCl co-administered as individual tablets was demonstrated in healthy subjects.
 
-Canagliflozin as Initial Combination Therapy with Metformin HCl
+Canagliflozin as Initial Combination Therapy with Metformin HCl Extended-Release
 
-A total of 1,186 patients with type 2 diabetes inadequately controlled with diet and exercise participated in a 26-week double-blind, active-controlled, parallel-group, 5-arm, multicenter trial to evaluate the efficacy and safety of initial therapy with canagliflozin in combination with metformin HCl XR.
-The median age was 56 years, 48% of patients were men, and the mean baseline eGFR was 87.6 mL/min/1.73 m 2.
+A total of 1,186 patients with type 2 diabetes inadequately controlled with diet and exercise participated in a 26-week double-blind, active-controlled, parallel-group, 5-arm, multicenter trial to evaluate the efficacy and safety of initial therapy with canagliflozin in combination with metformin HCl extended-release.
+The median age was 56 years, 48% of patients were male, and the mean baseline eGFR was 87.6 mL/min/1.73 m 2.
 The median duration of diabetes was 1.6 years, and 72% of patients were treatment naïve.
 After completing a 2-week single-blind placebo run-in period, patients were randomly assigned for a double-blind treatment period of 26 weeks to 1 of 5 treatment groups (Table 13).
-The metformin HCl XR dose was initiated at 500 mg/day for the first week of treatment and then increased to 1,000 mg/day.
-Metformin HCl XR or matching placebo was up-titrated every 2–3 weeks during the next 8 weeks of treatment to a maximum daily dose of 1,500 to 2,000 mg/day, as tolerated; about 90% of patients reached 2,000 mg/day.
+The metformin HCl extended-release dose was initiated at 500 mg/day for the first week of treatment and then increased to 1,000 mg/day.
+Metformin HCl extended-release or matching placebo was up-titrated every 2–3 weeks during the next 8 weeks of treatment to a maximum daily dose of 1,500 to 2,000 mg/day, as tolerated; about 90% of patients reached 2,000 mg/day.
 
-At the end of treatment, canagliflozin 100 mg and canagliflozin 300 mg in combination with metformin HCl XR resulted in a statistically significant greater improvement in HbA 1Ccompared to their respective canagliflozin doses (100 mg and 300 mg) alone or metformin HCl XR alone.
+At the end of treatment, canagliflozin 100 mg and canagliflozin 300 mg in combination with metformin HCl extended-release resulted in a statistically significant greater improvement in HbA 1Ccompared to their respective canagliflozin doses (100 mg and 300 mg) alone or metformin HCl extended-release alone.
 
-Table 13: Results from 26-Week Active-Controlled Clinical Study of Canagliflozin Alone or Canagliflozin as Initial Combination Therapy with Metformin HCl XR Intent-to-treat population
+Table 13: Results from 26-Week Active-Controlled Clinical Study of Canagliflozin Alone or Canagliflozin as Initial Combination Therapy with Metformin HCl Extended-Release Intent-to-treat population
 
 | HbA 1C(%) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Efficacy Parameter | Metformin HCl XR (N=237) | Canagliflozin 100 mg (N=237) | Canagliflozin 300 mg (N=238) | Canagliflozin 100 mg + Metformin HCl XR (N=237) | Canagliflozin 300 mg + Metformin HCl XR (N=237) |
+| Efficacy Parameter | Metformin HCl extended-release (N=237) | Canagliflozin 100 mg (N=237) | Canagliflozin 300 mg (N=238) | Canagliflozin 100 mg + Metformin HCl extended-release (N=237) | Canagliflozin 300 mg + Metformin HCl extended-release (N=237) |
 | Baseline (mean) | 8.81 | 8.78 | 8.77 | 8.83 | 8.90 |
 | Change from baseline (adjusted mean) There were 121 patients without week 26 efficacy data. Analyses addressing missing data gave consistent results with the results provided in this table. | -1.30 | -1.37 | -1.42 | -1.77 | -1.78 |
 | Difference from canagliflozin 100 mg (adjusted mean) (95% CI) Least squares mean adjusted for covariates including baseline value and stratification factor |  |  |  | -0.40 Adjusted p=0.001 (-0.59, -0.21) |  |
 | Difference from canagliflozin 300 mg (adjusted mean) (95% CI) |  |  |  |  | -0.36 (-0.56, -0.17) |
-| Difference from metformin HCl XR (adjusted mean) (95% CI) |  |  |  | -0.46 (-0.66, -0.27) | -0.48 (-0.67, -0.28) |
+| Difference from metformin HCl extended-release (adjusted mean) (95% CI) |  |  |  | -0.46 (-0.66, -0.27) | -0.48 (-0.67, -0.28) |
 | Percent of patients achieving HbA 1C< 7% | 38 | 34 | 39 | 47 Adjusted p<0.05 | 51 |
 
 Canagliflozin as Add-on Combination Therapy with Metformin HCl
 
 A total of 1,284 patients with type 2 diabetes inadequately controlled on metformin HCl monotherapy (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) participated in a 26-week, double-blind, placebo- and active-controlled trial to evaluate the efficacy and safety of canagliflozin in combination with metformin HCl.
-The mean age was 55 years, 47% of patients were men, and the mean baseline eGFR was 89 mL/min/1.73 m 2.
+The mean age was 55 years, 47% of patients were male, and the mean baseline eGFR was 89 mL/min/1.73 m 2.
 Patients already on the required metformin HCl dose (N=1009) were randomized after completing a 2-week, single-blind, placebo run-in period.
 Patients taking less than the required metformin HCl dose or patients on metformin HCl in combination with another antihyperglycemic agent (N=275) were switched to metformin HCl monotherapy (at doses described above) for at least 8 weeks before entering the 2-week, single-blind, placebo run-in.
 After the placebo run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, sitagliptin 100 mg, or placebo, administered once daily as add-on therapy to metformin HCl.
@@ -68,7 +68,7 @@ Canagliflozin Compared to Glimepiride, Both as Add-on Combination Therapy with M
 
 A total of 1,450 patients with type 2 diabetes inadequately controlled on metformin HCl monotherapy (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) participated in a 52-week, double-blind, active-controlled trial to evaluate the efficacy and safety of canagliflozin in combination with metformin HCl.
 
-The mean age was 56 years, 52% of patients were men, and the mean baseline eGFR was 90 mL/min/1.73 m 2.
+The mean age was 56 years, 52% of patients were male, and the mean baseline eGFR was 90 mL/min/1.73 m 2.
 Patients tolerating maximally required metformin HCl dose (N=928) were randomized after completing a 2-week, single-blind, placebo run-in period.
 Other patients (N=522) were switched to metformin HCl monotherapy (at doses described above) for at least 10 weeks, then completed a 2-week single-blind run-in period.
 After the 2-week run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, or glimepiride (titration allowed throughout the 52-week trial to 6 or 8 mg), administered once daily as add-on therapy to metformin HCl.
@@ -100,7 +100,7 @@ Figure 1: Mean HbA 1CChange at Each Time Point (Completers) and at Week 52 Using
 Canagliflozin as Add-on Combination Therapy with Metformin HCl and Sitagliptin
 
 A total of 217 patients with type 2 diabetes inadequately controlled on the combination of metformin HCl (greater than or equal to 1,500 mg/day) and sitagliptin 100 mg/day (or equivalent fixed-dose combination) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of canagliflozin in combination with metformin HCl and sitagliptin.
-The mean age was 57 years, 58% of patients were men, 73% of patients were Caucasian, 15% were Asian, and 12% were Black or African-American.
+The mean age was 57 years, 58% of patients were male, 73% of patients were White, 15% were Asian, and 12% were Black or African American.
 The mean baseline eGFR was 90 mL/min/1.73 m 2and the mean baseline BMI was 32 kg/m 2.
 The mean duration of diabetes was 10 years.
 Eligible patients entered a 2-week, single-blind, placebo run-in period and were subsequently randomized to canagliflozin 100 mg or placebo, administered once daily as add-on to metformin HCl and sitagliptin.
@@ -126,7 +126,7 @@ Table 16: Results from 26–Week Placebo-Controlled Clinical Study of Canagliflo
 Canagliflozin as Add-on Combination Therapy with Metformin HCl and Sulfonylurea
 
 A total of 469 patients with type 2 diabetes inadequately controlled on the combination of metformin HCl (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (maximal or near-maximal effective dose) participated in a 26-week, double-blind, placebo-controlled trial to evaluate the efficacy and safety of canagliflozin in combination with metformin HCl and sulfonylurea.
-The mean age was 57 years, 51% of patients were men, and the mean baseline eGFR was 89 mL/min/1.73 m 2.
+The mean age was 57 years, 51% of patients were male, and the mean baseline eGFR was 89 mL/min/1.73 m 2.
 Patients already on the protocol-specified doses of metformin HCl and sulfonylurea (N=372) entered a 2-week, single-blind, placebo run-in period.
 Other patients (N=97) were required to be on a stable protocol-specified dose of metformin HCl and sulfonylurea for at least 8 weeks before entering the 2-week run-in period.
 Following the run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, or placebo administered once daily as add-on to metformin HCl and sulfonylurea.
@@ -155,7 +155,7 @@ Table 17: Results from 26–Week Placebo-Controlled Clinical Study of Canagliflo
 Canagliflozin Compared to Sitagliptin, Both as Add-on Combination Therapy with Metformin HCl and Sulfonylurea
 
 A total of 755 patients with type 2 diabetes inadequately controlled on the combination of metformin HCl (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and sulfonylurea (near-maximal or maximal effective dose) participated in a 52 week, double-blind, active-controlled trial to compare the efficacy and safety of canagliflozin 300 mg versus sitagliptin 100 mg in combination with metformin HCl and sulfonylurea.
-The mean age was 57 years, 56% of patients were men, and the mean baseline eGFR was 88 mL/min/1.73 m 2.
+The mean age was 57 years, 56% of patients were male, and the mean baseline eGFR was 88 mL/min/1.73 m 2.
 Patients already on protocol-specified doses of metformin HCl and sulfonylurea (N=716) entered a 2-week single-blind, placebo run-in period.
 Other patients (N=39) were required to be on a stable protocol-specified dose of metformin HCl and sulfonylurea for at least 8 weeks before entering the 2-week run-in period.
 Following the run-in period, patients were randomized to canagliflozin 300 mg or sitagliptin 100 mg as add-on to metformin HCl and sulfonylurea.
@@ -187,7 +187,7 @@ Figure 2: Mean HbA 1CChange at Each Time Point (Completers) and at Week 52 Using
 Canagliflozin as Add-on Combination Therapy with Metformin HCl and Pioglitazone
 
 A total of 342 patients with type 2 diabetes inadequately controlled on the combination of metformin HCl (greater than or equal to 2,000 mg/day or at least 1,500 mg/day if higher dose not tolerated) and pioglitazone (30 or 45 mg/day) participated in a 26-week, double--blind, placebo-controlled trial to evaluate the efficacy and safety of canagliflozin in combination with metformin HCl and pioglitazone.
-The mean age was 57 years, 63% of patients were men, and the mean baseline eGFR was 86 mL/min/1.73 m 2.
+The mean age was 57 years, 63% of patients were male, and the mean baseline eGFR was 86 mL/min/1.73 m 2.
 Patients already on protocol-specified doses of metformin HCl and pioglitazone (N=163) entered a 2-week, single-blind, placebo run-in period.
 Other patients (N=181) were required to be on stable protocol-specified doses of metformin HCl and pioglitazone for at least 8 weeks before entering the 2-week run-in period.
 Following the run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, or placebo, administered once daily as add-on to metformin HCl and pioglitazone.
@@ -219,7 +219,7 @@ Canagliflozin as Add-on Combination Therapy with Insulin (With or Without Other 
 A total of 1,718 patients with type 2 diabetes inadequately controlled on insulin greater than or equal to 30 units/day or insulin in combination with other antihyperglycemic agents participated in an 18-week, double-blind, placebo-controlled substudy of a cardiovascular trial to evaluate the efficacy and safety of canagliflozin in combination with insulin.
 Of these patients, a subgroup of 432 patients with inadequate glycemic control received canagliflozin or placebo plus metformin HCl and ≥ 30 units/day of insulin over 18 weeks.
 
-In this subgroup, the mean age was 61 years, 67% of patients were men, and the mean baseline eGFR was 81 mL/min/1.73 m 2.
+In this subgroup, the mean age was 61 years, 67% of patients were male, and the mean baseline eGFR was 81 mL/min/1.73 m 2.
 Patients on metformin HCl in combination with basal, bolus, or basal/bolus insulin for at least 10 weeks entered a 2-week, single-blind, placebo run-in period.
 Approximately 74% of these patients were on a background of metformin HCl and basal/bolus insulin regimen.
 After the run-in period, patients were randomized to canagliflozin 100 mg, canagliflozin 300 mg, or placebo, administered once daily as add-on to metformin HCl and insulin.
@@ -263,12 +263,12 @@ In CANVAS, patients were randomly assigned 1:1:1 to canagliflozin 100 mg, canagl
 In CANVAS-R, patients were randomly assigned 1:1 to canagliflozin 100 mg or matching placebo, and titration to 300 mg was permitted at the investigator's discretion (based on tolerability and glycemic needs) after Week 13.
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
-A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) for a mean exposure duration of 149 weeks (223 weeks [4.3 years] in CANVAS and 94 weeks [1.8 years] in CANVAS-R).Approximately 78% of the trial population was Caucasian, 13% was Asian, and 3% was Black.
+A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) for a mean exposure duration of 149 weeks (223 weeks [4.3 years] in CANVAS and 94 weeks [1.8 years] in CANVAS-R).Approximately 78% of the trial population was White, 13% was Asian, and 3% was Black or African American.
 The mean age was 63 years and approximately 64% were male.
 
 The mean HbA 1Cat baseline was 8.2% and mean duration of diabetes was 13.5 years with 70% of patients having had diabetes for 10 years or more.
 Approximately 31%, 21% and 17% reported a past history of neuropathy, retinopathy and nephropathy, respectively, and the mean eGFR 76 mL/min/1.73 m 2.
-At baseline, patients were treated with one (19%) or more (80%) antidiabetic medications including metformin (77%), insulin (50%), and sulfonylurea (43%).
+At baseline, patients were treated with one (19%) or more (80%) antidiabetic medications including metformin HCl (77%), insulin (50%), and sulfonylurea (43%).
 
 At baseline, the mean systolic blood pressure was 137 mmHg, the mean diastolic blood pressure was 78 mmHg, the mean LDL was 89 mg/dL, the mean HDL was 46 mg/dL, and the mean urinary albumin to creatinine ratio (UACR) was 115 mg/g.
 At baseline, approximately 80% of patients were treated with renin angiotensin system inhibitors, 53% with beta-blockers, 13% with loop diuretics, 36% with non-loop diuretics, 75% with statins, and 74% with antiplatelet agents (mostly aspirin).
@@ -285,7 +285,7 @@ The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Fi
 
 Table 21: Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the Integrated Analysis of CANVAS and CANVAS-R studies Intent-To-Treat Analysis Set
 
-|  | Placebo N=4347 (%) | Canagliflozin N=5795 (%) | Hazard ratio (95% CI) Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
+|  | Placebo N=4,347 (%) | Canagliflozin N=5,795 (%) | Hazard ratio (95% CI) Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
 | --- | --- | --- | --- |
 | Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence) P-value for superiority (2-sided) = 0.0158,Number and percentage of first events,Due to pooling of unequal randomization ratios, Cochran-Mantel-Haenszel weights were applied to calculate percentages, | 426 (10.4) | 585 (9.2) | 0.86 (0.75, 0.97) |
 | Non-fatal myocardial infarction, | 159 (3.9) | 215 (3.4) | 0.85 (0.69, 1.05) |
@@ -298,7 +298,7 @@ Figure 3: Time to First Occurrence of MACE
 
 Canagliflozin is indicated to reduce the risk of end-stage kidney disease (ESKD), doubling of serum creatinine, cardiovascular (CV) death, and hospitalization for heart failure in adults with type 2 diabetes mellitus and diabetic nephropathy with albuminuria > 300 mg/day.
 
-The Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation Trial (CREDENCE) was a multinational, randomized, double-blind, placebo-controlled trial comparing canagliflozin with placebo in patients with type 2 diabetes mellitus, an eGFR ≥ 30 to < 90 mL/min/1.73 m 2and albuminuria (urine albumin/creatinine ˃ 300 to ≤ 5000 mg/g) who were receiving standard of care including a maximum-tolerated, labeled daily dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
+The Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation Trial (CREDENCE) was a multinational, randomized, double-blind, placebo-controlled trial comparing canagliflozin with placebo in patients with type 2 diabetes mellitus, an eGFR ≥ 30 to < 90 mL/min/1.73 m 2and albuminuria (urine albumin/creatinine ˃ 300 to ≤ 5,000 mg/g) who were receiving standard of care including a maximum-tolerated, labeled daily dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
 
 The primary objective of CREDENCE was to assess the efficacy of canagliflozin relative to placebo in reducing the composite endpoint of end stage kidney disease (ESKD), doubling of serum creatinine, and renal or CV death.
 
@@ -307,7 +307,7 @@ Patients were randomized to receive canagliflozin 100 mg (N=2,202) or placebo (N
 The median follow-up duration for the 4,401 randomized subjects was 137 weeks.
 Vital status was obtained for 99.9% of subjects.
 
-The population was 67% White, 20% Asian, and 5% Black; 32% were of Hispanic or Latino ethnicity.
+The population was 67% White, 20% Asian, and 5% Black or African American; 32% were of Hispanic or Latino ethnicity.
 The mean age was 63 years and 66% were male.
 
 At randomization, the mean HbA 1cwas 8.3%, the median urine albumin/creatinine was 927 mg/g, the mean eGFR was 56.2 mL/min/1.73 m 2, 50% had prior CV disease, and 15% reported a history of heart failure.
