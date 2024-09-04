@@ -39,7 +39,7 @@ Pneumocystis jirovecii Pneumonia
 
 Treatment Adults and Children:
 
-The recommended dosage for treatment of patients with documented Pneumocystis jirovecii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.9 The following table is a guideline for the upper limit of this dosage:
+The recommended dosage for treatment of patients with documented Pneumocystis jirovecii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.12 The following table is a guideline for the upper limit of this dosage:
 
 | Weight |  | Dose–every 6 hours |
 | --- | --- | --- |

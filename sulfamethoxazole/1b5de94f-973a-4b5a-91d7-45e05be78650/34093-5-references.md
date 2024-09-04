@@ -50,4 +50,4 @@
     MMWR.
     1991; 40(RR-2):1–13.
 
-Manufactured for: CRONUS PHARMA LLC 2 Tower Center Blvd, Suite - 1101A East Brunswick, NJ 08816 USA Made in India Code: TS/DRUGS/22/2009 Revised: 06/2021
+Manufactured for: CRONUS PHARMA LLC 2 Tower Center Blvd, Suite - 1101A East Brunswick, NJ 08816 USA Made in India Code: TS/DRUGS/22/2009 Revised: 07/2024

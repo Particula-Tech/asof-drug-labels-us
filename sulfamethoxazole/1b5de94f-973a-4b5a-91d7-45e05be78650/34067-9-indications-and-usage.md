@@ -7,7 +7,7 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 Urinary Tract Infections For the treatment of urinary tract infections due to susceptible strains of the following organisms: Escherichia coli, Klebsiella species, Enterobacter species, Morganella morganii, Proteus mirabilis and Proteus vulgaris.
 It is recommended that initial episodes of uncomplicated urinary tract infections be treated with a single effective antibacterial agent rather than the combination.
 
-Acute Otitis Media For the treatment of acute otitis media in pediatric patients due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician sulfamethoxazole and trimethoprim tablets offers some advantage over the use of other antimicrobial agents.
+Acute Otitis Media For the treatment of acute otitis media in pediatric patients due to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician sulfamethoxazole and trimethoprim offers some advantage over the use of other antimicrobial agents.
 To date, there are limited data on the safety of repeated use of sulfamethoxazole and trimethoprim tablets in pediatric patients under two years of age.
 Sulfamethoxazole and trimethoprim tablets are not indicated for prophylactic or prolonged administration in otitis media at any age.
 
