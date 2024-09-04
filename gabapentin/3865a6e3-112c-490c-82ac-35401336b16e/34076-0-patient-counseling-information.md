@@ -41,7 +41,7 @@ Instruct patients to notify their physician if they become pregnant or intend to
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
 Medication Guide available at
 
@@ -58,4 +58,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-February 2021
+August 2024

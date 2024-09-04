@@ -119,7 +119,7 @@ Drug Interactions
 - Cimetidine
 - In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
   Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
-  This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
+  This decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
   The effect of gabapentin on cimetidine was not evaluated.
 - Oral Contraceptive
 - Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without coadministration of gabapentin (400 mg three times a day; N=13).
