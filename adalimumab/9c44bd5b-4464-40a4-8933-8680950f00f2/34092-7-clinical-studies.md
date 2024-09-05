@@ -508,12 +508,12 @@ In both studies, subjects received placebo or adalimumab at an initial dose of 1
 Subjects used topical antiseptic wash daily.
 Concomitant oral antibiotic use was allowed in Study HS-II.
 Both studies evaluated Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12.
-HiSCR was defined as at least a 50% reduction in total abscess and inflammatory nodule count with no increase in abscess count and no increase in draining fistula count relative to baseline (see Table 18).
+HiSCR was defined as at least a 50% reduction in total abscess and inflammatory nodule count with no increase in abscess count and no increase in draining fistula count relative to baseline (see Table 19).
 Reduction in HS-related skin pain was assessed using a Numeric Rating Scale in patients who entered the study with an initial baseline score of 3 or greater on a 11 point scale.
 
-In both studies, a higher proportion of adalimumab- than placebo-treated subjects achieved HiSCR (see Table 18).
+In both studies, a higher proportion of adalimumab- than placebo-treated subjects achieved HiSCR (see Table 19).
 
-Table 18.
+Table 19.
 Efficacy Results at 12 Weeks in Subjects with Moderate to Severe Hidradenitis Suppurativa
 
 |  | Placebo | Adalimumab 40 mg Weekly | Placebo | Adalimumab 40 mg Weekly |
@@ -543,9 +543,9 @@ Patients subsequently underwent a mandatory taper schedule, with complete cortic
 Clinical Response
 
 Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with adalimumab versus patients receiving placebo.
-In both studies, all components of the primary endpoint contributed cumulatively to the overall difference between adalimumab and placebo groups (Table 19).
+In both studies, all components of the primary endpoint contributed cumulatively to the overall difference between adalimumab and placebo groups (Table 20).
 
-Table 19.
+Table 20.
 Time to Treatment Failure in Studies UV I and UV II
 
 |  | Placebo (N = 107) | adalimumab (N = 110) | HR [95% CI]HR of adalimumab versus placebo from proportional hazards regression with treatment as factor. | Placebo (N = 111) | adalimumab (N = 115) | HR [95% CI] |

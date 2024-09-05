@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AMJEVITA™ (adalimumab-atto) injection is supplied as a preservative-free, sterile, clear, colorless to slightly yellow solution for subcutaneous administration.
+AMJEVITA® (adalimumab-atto) injection is supplied as a preservative-free, sterile, clear, colorless to slightly yellow solution for subcutaneous administration.
 AMJEVITA is supplied in a single-dose prefilled syringe (PFS) or single-dose prefilled SureClick autoinjector (AI).
 The AMJEVITA prefilled syringe and prefilled SureClick autoinjector are not made with natural rubber latex.
 The following packaging configurations are available.
@@ -9,9 +9,11 @@ The following packaging configurations are available.
 | --- | --- | --- |
 | 10 mg/0.2 mL prefilled glass syringe with a fixed 29 gauge needle | 1 | 55513-413-01 |
 | 20 mg/0.2 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-399-01 |
+| 72511-399-01 |  |  |
 | 20 mg/0.4 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-411-01 |
 | 40 mg/0.4 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-479-01 |
 | 2 | 55513-479-02 |  |
+| 72511-479-02 |  |  |
 | 40 mg/0.8 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-410-01 |
 | 2 | 55513-410-02 |  |
 | 80 mg/0.8 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-480-01 |
@@ -22,6 +24,7 @@ The following packaging configurations are available.
 |  | 2 | 55513-400-02 72511-400-02 |
 | 80 mg/0.8 mL Prefilled SureClick Autoinjector | 1 | 55513-481-01 |
 | 2 | 55513-481-02 |  |
+| 72511-481-02 |  |  |
 
 Storage and Stability
 

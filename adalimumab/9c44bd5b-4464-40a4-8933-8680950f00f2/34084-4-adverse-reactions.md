@@ -209,10 +209,9 @@ The safety profile for patients with UV treated with adalimumab was similar to t
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other adalimumab products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of adalimumab or of other adalimumab products.
+
 There are two assays that have been used to measure anti-adalimumab antibodies.
 With the ELISA, antibodies to adalimumab could be detected only when serum adalimumab concentrations were < 2 mcg/mL.
 The ECL assay can detect anti-adalimumab antibody titers independent of adalimumab concentrations in the serum samples.

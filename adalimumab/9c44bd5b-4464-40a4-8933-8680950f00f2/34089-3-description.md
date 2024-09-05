@@ -5,7 +5,7 @@ Adalimumab-atto is a recombinant human IgG1 monoclonal antibody with human deriv
 Adalimumab-atto is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary (CHO)) expression system and is purified by a process that includes specific viral inactivation and removal steps.
 It consists of 1330 amino acids and has a molecular weight of approximately 148 kilodaltons.
 
-AMJEVITA™ (adalimumab-atto) injection is supplied as a sterile, preservative-free solution for subcutaneous administration.
+AMJEVITA® (adalimumab-atto) injection is supplied as a sterile, preservative-free solution for subcutaneous administration.
 The drug product is supplied as either a single-dose, prefilled SureClick autoinjector, or as a single-dose, 1 mL prefilled glass syringe.
 Enclosed within the autoinjector is a single-dose, 1 mL prefilled glass syringe.
 The solution of AMJEVITA is clear, colorless to slightly yellow, with a pH of about 5.2.
