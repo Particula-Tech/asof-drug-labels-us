@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 For topical use only.
 Not for oral, ophthalmic, or intravaginal use.

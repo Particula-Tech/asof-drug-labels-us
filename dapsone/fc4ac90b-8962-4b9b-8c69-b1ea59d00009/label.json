@@ -3,7 +3,7 @@
     "NDA021794"
   ],
   "inn": "dapsone",
-  "labeler": "Almirall, LLC",
+  "labeler": "ALMIRALL, LLC",
   "package_ndcs": [
     "16110-367-60",
     "16110-367-90"
@@ -12,7 +12,7 @@
     {
       "form": "GEL",
       "generic": "dapsone",
-      "name": "Aczone"
+      "name": "ACZONE"
     }
   ],
   "setid": "fc4ac90b-8962-4b9b-8c69-b1ea59d00009",
