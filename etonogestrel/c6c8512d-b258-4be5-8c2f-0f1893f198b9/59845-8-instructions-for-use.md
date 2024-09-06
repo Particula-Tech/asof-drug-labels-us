@@ -174,4 +174,4 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2022-03
+08-2024-04

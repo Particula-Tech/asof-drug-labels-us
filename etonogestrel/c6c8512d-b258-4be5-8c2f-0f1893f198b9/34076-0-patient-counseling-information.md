@@ -23,10 +23,11 @@ Increased risk of cardiovascular events
   This is less likely to occur if breastfeeding is well established [see Use in Specific Populations (8.2)].
   Amenorrhea
 - Inform patients that amenorrhea may occur.
-  Rule out pregnancy in the event of amenorrhea if EluRyng has been out of the vagina for more than three consecutive hours, if the ring-free interval was extended beyond one week, if the woman has missed a period for two or more consecutive cycles, and if the ring has been retained for longer than four weeks [see Warnings and Precautions (5.11)].Disposal
+  Rule out pregnancy in the event of amenorrhea if EluRyng has been out of the vagina for more than three consecutive hours, if the ring-free interval was extended beyond one week, if the woman has missed a period for two or more consecutive cycles, and if the ring has been retained for longer than four weeks [see Warnings and Precautions (5.11)].
+  Disposal
 - Advise patients on the proper disposal of a used EluRyng [see How Supplied/Storage and Handling (16)].
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2022-03
+08-2024-04
