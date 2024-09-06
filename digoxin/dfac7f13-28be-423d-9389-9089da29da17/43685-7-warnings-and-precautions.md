@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Ventricular Fibrillation in Patients With Accessory AV Pathway (Wolff-Parkinson- White Syndrome)
+## 5.1 Ventricular Fibrillation in Patients With Accessory AV Pathway (Wolff-Parkinson-White Syndrome)
 
 Patients with Wolff-Parkinson-White syndrome who develop atrial fibrillation are at high risk of ventricular fibrillation.
 Treatment of these patients with digoxin leads to greater slowing of conduction in the atrioventricular node than in accessory pathways, and the risks of rapid ventricular response leading to ventricular fibrillation are thereby increased.

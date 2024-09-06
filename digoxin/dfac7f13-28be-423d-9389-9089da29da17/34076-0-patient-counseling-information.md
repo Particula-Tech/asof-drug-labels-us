@@ -6,3 +6,8 @@
 - Advise parents or caregivers that the symptoms of having too high digoxin tablets doses may be difficult to recognize in infants and pediatric patients.
   Symptoms such as weight loss, failure to thrive in infants, abdominal pain, and behavioral disturbances may be indications of digoxin toxicity.
 - Instruct the patient to monitor and record their heart rate and blood pressure daily.
+
+DIGIBIND® is a registered trademark of GlaxoSmithKline.
+DIGIFAB® is a registered trademark of Prostherics Inc. Manufactured by: Yung Shin Pharm.
+Ind Co. Ltd. Taichung City, 43769, Taiwan Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 684-13 Rev.
+08-2024-01

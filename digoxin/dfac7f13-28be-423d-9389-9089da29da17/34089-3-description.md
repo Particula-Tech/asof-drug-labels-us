@@ -12,6 +12,6 @@ Its molecular formula is C41H64O14, its molecular weight is 780.95, and its stru
 Digoxin, USP exists as odorless white crystals that melt with decomposition above 230°C.
 The drug is practically insoluble in water and in ether; slightly soluble in diluted (50%) alcohol and in chloroform; and freely soluble in pyridine.
 
-Digoxin tablets, USP are supplied as 125 mcg (0.125 mg) and 250 mcg (0.25 mg) tablets for oral administration.
+Digoxin tablets, USP are supplied as 125 mcg and 250 mcg tablets for oral administration.
 Each tablet contains the labeled amount of digoxin, USP and the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, and corn starch.
-The 125 mcg (0.125 mg) tablets contain FD&C Yellow No. 5 (tartrazine).
+The 125 mcg tablets contain FD&C Yellow No. 5 (tartrazine).
