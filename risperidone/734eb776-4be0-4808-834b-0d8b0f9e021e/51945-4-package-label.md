@@ -6,7 +6,7 @@ For administration by a healthcare professional
 
 Rx Only
 
-UZEDY™ (risperiDONE) extended-release injectable suspension
+UZEDY® (risperiDONE) extended-release injectable suspension
 
 FOR SUBCUTANEOUS USE ONLY
 
@@ -31,7 +31,7 @@ For administration by a healthcare professional
 
 Rx Only
 
-UZEDY™ (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
+UZEDY® (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
 
 NDC 51759-410-10 One single-dose prefilled syringe 75 mg/0.21 mL administered every one month
 
@@ -52,7 +52,7 @@ FOR ADMINISTRATION BY A HEALTHCARE PROFESSIONAL
 
 1 month dosing OR 2 month dosing Rx Only
 
-UZEDY™ (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
+UZEDY® (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
 
 NDC 51759-520-10 One single-dose prefilled syringe 100 mg/0.28 mL administered every one or two months
 
@@ -75,7 +75,7 @@ For administration by a healthcare professional
 
 Rx Only
 
-UZEDY™ (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
+UZEDY® (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
 
 NDC 51759-630-10 One single-dose prefilled syringe 125 mg/0.35 mL administered every one month
 
@@ -98,7 +98,7 @@ For administration by a healthcare professional
 
 Rx Only
 
-UZEDY™ (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
+UZEDY® (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
 
 NDC 51759-740-10 One single-dose prefilled syringe 150 mg/0.42 mL administered every two months
 
@@ -121,7 +121,7 @@ For administration by a healthcare professional
 
 Rx Only
 
-UZEDY™ (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
+UZEDY® (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
 
 NDC 51759-850-10 One single-dose prefilled syringe 200 mg/0.56 mL administered every two months
 
@@ -144,7 +144,7 @@ For administration by a healthcare professional
 
 Rx Only
 
-UZEDY™ (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
+UZEDY® (risperiDONE) extended-release injectable suspension FOR SUBCUTANEOUS USE ONLY
 
 NDC 51759-960-10 One single-dose prefilled syringe 250 mg/0.7 mL administered every two months
 
