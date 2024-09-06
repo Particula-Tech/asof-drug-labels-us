@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Clindamycin hydrochloride is the hydrated hydrochloride salt of clindamycin.
-Clindamycin is a semisynthetic antibiotic produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent compound lincomycin.
+Clindamycin is a semisynthetic antibacterial drug produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent compound lincomycin.
 
 CLEOCIN HCl Capsules contain clindamycin hydrochloride equivalent to 75 mg, 150 mg, or 300 mg of clindamycin.
 

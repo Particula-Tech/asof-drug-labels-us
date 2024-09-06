@@ -67,7 +67,9 @@ Gram-positive bacteria
 - Staphylococcus aureus (methicillin-susceptible strains)
 - Streptococcus pneumoniae (penicillin-susceptible strains)
 - Streptococcus pyogenes
-- Anaerobic bacteria
+
+Anaerobic bacteria
+
 - Clostridium perfringens
 - Fusobacterium necrophorum
 - Fusobacterium nucleatum
