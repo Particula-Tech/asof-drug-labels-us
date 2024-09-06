@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021986"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-233-60",
+    "66993-234-60",
+    "66993-235-60",
+    "66993-236-30",
+    "66993-237-30",
+    "66993-238-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dasatinib",
+      "name": "Dasatinib"
+    }
+  ],
+  "setid": "1931e73f-918c-4d69-9543-de9643513d05",
+  "source": "dailymed"
+}
