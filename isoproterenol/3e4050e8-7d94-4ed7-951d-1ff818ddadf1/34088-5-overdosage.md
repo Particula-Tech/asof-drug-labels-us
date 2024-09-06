@@ -1,8 +1,7 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The acute toxicity of isoproterenol hydrochloride in animals is much less than that of epinephrine.
-Excessive doses in animals or man can cause a striking drop in blood pressure, and repeated large doses in animals may result in cardiac enlargement and focal myocarditis.
-In case of accidental overdosage as evidenced mainly by tachycardia or other arrhythmias, palpitations, angina, hypotension, or hypertension, reduce rate of administration or discontinue isoproterenol hydrochloride injection until patient’s condition stabilizes.
-Blood pressure, pulse, respiration, and ECG should be monitored.
+Overdosage of isoproterenol can cause tachycardia or other arrhythmias, palpitations, angina, hypotension, or hypertension.
+In case of overdosage, reduce the rate of administration or discontinue isoproterenol hydrochloride injection until patient’s condition stabilizes.
+Monitor blood pressure, pulse, respiration, and EKG.
+
 It is not known whether isoproterenol hydrochloride is dialyzable.
-The oral LD50 of isoproterenol hydrochloride in mice is 3,850 mg/kg ± 1,190 mg/kg of pure drug in solution.

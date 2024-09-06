@@ -1,60 +1,10 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Isoproterenol hydrochloride injection, by increasing myocardial oxygen requirements while decreasing effective coronary perfusion, may have a deleterious effect on the injured or failing heart.
-Most experts discourage its use as the initial agent in treating cardiogenic shock following myocardial infarction.
-However, when a low arterial pressure has been elevated by other means, isoproterenol hydrochloride injection may produce beneficial hemodynamic and metabolic effects.
-In a few patients, presumably with organic disease of the AV node and its branches, isoproterenol hydrochloride injection has paradoxically been reported to worsen heart block or to precipitate Adams-Stokes attacks during normal sinus rhythm or transient heart block.
+## 5.1 Cardiac Arrhythmias and Ischemia
 
-# PRECAUTIONS
+Isoproterenol may induce cardiac arrhythmias and myocardial ischemia in patients, especially patients with coronary artery disease, or cardiomyopathy.
 
-## General
+## 5.2 Allergic Reactions associated with Sulfite
 
-Isoproterenol hydrochloride injection should generally be started at the lowest recommended dose.
-This may be gradually increased if necessary while carefully monitoring the patient.
-Doses sufficient to increase the heart rate to more than 130 beats per minute may increase the likelihood of inducing ventricular arrhythmias.
-Such increases in heart rate will also tend to increase cardiac work and oxygen requirements which may adversely affect the failing heart or the heart with a significant degree of arteriosclerosis.
-Adequate filling of the intravascular compartment by suitable volume expanders is of primary importance in most cases of shock and should precede the administration of vasoactive drugs.
-In patients with normal cardiac function, determination of central venous pressure is a reliable guide during volume replacement.
-If evidence of hypoperfusion persists after adequate volume replacement, isoproterenol hydrochloride injection may be given.
-In addition to the routine monitoring of systemic blood pressure, heart rate, urine flow, and the electrocardiograph, monitor the response to therapy by frequent determination of the central venous pressure and blood gases.
-Closely observe patients in shock during isoproterenol hydrochloride injection administration.
-If the heart rate exceeds 110 beats per minute, it may be advisable to decrease the infusion rate or temporarily discontinue the infusion.
-Determinations of cardiac output and circulation time may also be helpful.
-Take appropriate measures to ensure adequate ventilation.
-Pay attention to acid-base balance and to the correction of electrolyte disturbances.
-
-## Drug Interactions
-
-Isoproterenol hydrochloride injection and epinephrine should not be administered simultaneously because both drugs are direct cardiac stimulants and their combined effects may induce serious arrhythmias.
-The drugs may, however, be administered alternately provided a proper interval has elapsed between doses.
-Avoid isoproterenol hydrochloride when potent inhalational anesthetics such as halothane are employed because of potential to sensitize the myocardium to effects of sympathomimetic amines.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Long-term studies in animals to evaluate the carcinogenic potential of isoproterenol hydrochloride have not been done.
-Mutagenic potential and effect on fertility have not been determined.
-There is no evidence from human experience that isoproterenol hydrochloride injection may be carcinogenic or mutagenic or that it impairs fertility.
-
-## Pregnancy
-
-Animal reproduction studies have not been conducted with isoproterenol hydrochloride.
-It is also not known whether isoproterenol hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Isoproterenol hydrochloride should be given to a pregnant woman only if clearly needed.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when isoproterenol hydrochloride injection is administered to a nursing woman.
-
-## Pediatric Use
-
-Safety and efficacy of isoproterenol in pediatric patients have not been established.
-Intravenous infusions of isoproterenol in refractory asthmatic children at rates of 0.05 to 2.7 mcg/kg/min have caused clinical deterioration, myocardial necrosis, congestive heart failure and death.
-The risks of cardiac toxicity appear to be increased by some factors [acidosis, hypoxemia, coadministration of corticosteroids, coadministration of methylxanthines (theophylline, theobromine) or aminophylline] that are especially likely to be present in these patients.
-If I.V. isoproterenol is used in children with refractory asthma, patient monitoring must include continuous assessment of vital signs, frequent electrocardiography, and daily measurements of cardiac enzymes, including CPK-MB.
-
-## Geriatric Use
-
-Clinical studies of isoproterenol hydrochloride did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects in clinical circumstances.
-There are, however, some data that suggest that elderly healthy or hypertensive patients are less responsive to beta-adrenergic stimulation than are younger subjects.
-In general, dose selection for elderly patients should usually start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant diseases or other drug therapy.
+Isoproterenol hydrochloride contains sodium metabisulfite, which may cause mild to severe allergic reactions including anaphylaxis or asthmatic episodes, particularly in patients with a history of allergies.
+However, the presence of metabisulfite in this product should not preclude its use for treatment in emergency situations, even if the patient is sulfite-sensitive, as the alternatives to using isoproterenol in a life- threatening situation may not be satisfactory.
