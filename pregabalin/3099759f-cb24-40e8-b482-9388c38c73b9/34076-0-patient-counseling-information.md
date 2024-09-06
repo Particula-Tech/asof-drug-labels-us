@@ -71,7 +71,7 @@ Male Fertility
 
 Inform men being treated with pregabalin who plan to father a child of the potential risk of male-mediated teratogenicity.
 In preclinical studies in rats, pregabalin was associated with an increased risk of male-mediated teratogenicity.
-The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1) and Use in Specific populations (8.3)].
+The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1) and Use in Specific Populations (8.3)].
 
 Dermatopathy
 
@@ -81,11 +81,7 @@ Some animals treated with pregabalin developed skin ulcerations, although no inc
 This product’s label may have been updated.
 For current full prescribing information, please visit www.amneal.com.
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2021-01
+08-2024-03

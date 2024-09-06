@@ -15,4 +15,4 @@ In controlled clinical studies in over 5,500 patients, 4% of pregabalin-treated 
 ## 9.3 Dependence
 
 In clinical studies, following abrupt or rapid discontinuation of pregabalin, some patients reported symptoms including insomnia, nausea, headache or diarrhea [see Warnings and Precautions (5.6)], consistent with physical dependence.
-In the postmarketing experience, in addition to these reported symptoms there have also been reported cases of anxiety and hyperhidrosis.
+In the post-marketing experience, in addition to these reported symptoms there have also been reported cases of anxiety and hyperhidrosis.

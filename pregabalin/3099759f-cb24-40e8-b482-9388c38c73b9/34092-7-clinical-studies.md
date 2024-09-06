@@ -70,7 +70,7 @@ Some patients experienced a decrease in pain as early as Week 1, which persisted
 
 Figure 5: Patients Achieving Various Levels of Improvement in Pain Intensity– Study PHN 3
 
-## 14.3 Adjunctive Therapy for Partial-Onset Seizures in Patients 17 Years of Age and Older
+## 14.3 Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month of Age and Older
 
 Adjunctive Therapy for Partial-Onset Seizures in Adult Patients
 
@@ -119,8 +119,68 @@ Figure 7: Seizure Reduction by Dose (All Partial-Onset Seizures) for Studies E1,
 
 Subset evaluations of the antiseizure efficacy of pregabalin showed no clinically important differences as a function of age, gender, or race.
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Adjunctive Therapy for Partial-Onset Seizures in Pediatric Patients 4 to Less Than 17 Years of Age
+
+The efficacy of pregabalin as adjunctive therapy in partial-onset seizures was established in a 12-week, randomized, double-blind, placebo-controlled, multicenter study in pediatric patients 4 years to less than 17 years of age with partial-onset seizures with or without secondary generalization.
+During an 8-week baseline period, patients had to experience at least 6 partial-onset seizures with no seizure-free period exceeding 4 weeks.
+The mean duration of epilepsy was 6 years and the mean and median baseline seizure frequencies were 57 and 18 seizures per month, respectively.
+Approximately 74% of the patients were taking 2 to 3 concurrent AEDs at baseline.
+Among the pregabalin-treated patients, 87% completed the double-blind phase of the study.
+
+In this study, pregabalin 2.5 mg/kg/day (maximum 150 mg/day) and 10 mg/kg/day (maximum 600 mg/day) were compared to placebo.
+Administration of each daily dose was divided into two equal doses (twice a day dosing).
+Because of higher weight-normalized clearance in patients with body weight less than 30 kg [see Clinical Pharmacology (12.3)], the pregabalin dose was increased by 40% to 3.5 mg/kg/day for patients weighing less than 30 kg randomized to the 2.5 mg/kg/day group or to 14 mg/kg/day for patients randomized to the 10 mg/kg/day group.
+
+Table 12 shows median baseline seizure rates, median percent change from baseline in seizure rates, and percent difference relative to placebo (derived from the primary analysis model) by dose.
+
+Table 12.
+Seizure Response in Controlled Adjunctive Partial-Onset Seizure Study in Pediatric Patients 4 to Less Than 17 Years of Age
+
+| Daily Dose of Pregabalin | N | Median Baseline Seizure Frequency/28 days | Median % Change from Baseline | % Difference Relative to Placebo | p-value, versus placebo |
+| --- | --- | --- | --- | --- | --- |
+| Placebo | 93 | 16.5 | -16.9 | Not applicable |  |
+| 2.5 mg/kg/day (BID)a | 104 | 23.8 | -27.3 | -10.5 | 0.2577 |
+| 10 mg/kg/day (BID)b | 97 | 17.5 | -37.1 | -21.0 | 0.0185 |
+| Abbreviations: BID=twice daily; N=number.a 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day.b 10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. |  |  |  |  |  |
+
+There was evidence of a dose-response relationship for total daily doses of pregabalin between 2.5 mg/kg/day and 10 mg/kg/day.
+A significant improvement in seizure rate was observed for pregabalin 10 mg/kg/day group compared with placebo.
+While the 2.5 mg/kg/day group performed numerically better than placebo, this difference was not statistically significant.
+
+A key secondary efficacy measure, the responder rate (proportion of patients with greater than or equal to 50% reduction from baseline in partial seizure frequency) showed improvements for pregabalin groups compared with placebo.
+The following figure displays responder rate by dose:
+
+Figure 8: Responder Rate (Greater than or Equal to 50% Reduction)
+
+Adjunctive Therapy for Partial-Onset Seizures in Pediatric Patients 1 Month to Less Than 4 Years of Age
+
+The efficacy of pregabalin as adjunctive therapy in partial-onset seizures was established in a 14-day, randomized, double-blind, placebo-controlled, multicenter study in children 1 month to less than 4 years of age with partial-onset seizures with or without secondary generalization.
+The youngest patient evaluated was 3 months of age.
+During a 48- to 72-hour baseline video electroencephalogram (EEG), patients had to experience at least 2 partial-onset seizures.
+The mean duration of epilepsy at baseline was 1.6 years and the mean and median baseline seizure frequencies were 12.2 and 4.4 seizures per day, respectively.
+Approximately 33%, 50%, and 17% of patients were taking 1, 2, or 3 concurrent AEDs at baseline, respectively.
+Among the pregabalin-treated patients, 97% completed the double-blind phase of the study.
+
+In this study, pregabalin 7 mg/kg/day and 14 mg/kg/day were compared to placebo.
+Administration of each daily dose was divided into three equal doses (three times a day dosing).
+The primary endpoint was the 24-hour partial-onset seizure rate based on the comparison of the baseline video EEG to a repeat 48 to 72 hour video EEG performed at the end of 14 days of double-blind treatment.
+
+Table 13 shows median baseline seizure rates, median percent change from baseline in seizure rates, and percent difference relative to placebo (derived from the primary analysis model) by dose.
+
+Table 13.
+Seizure Response in Controlled Adjunctive Partial-Onset Seizure Study in Pediatric Patients 1 Month to Less Than 4 Years of Age
+
+| Daily Dose of Pregabalin | N | Median Baseline Seizure Frequency/24 hours | Median % Change from Baseline | % Difference Relative to Placebo | p-value, versus placebo |
+| --- | --- | --- | --- | --- | --- |
+| Placebo | 53 | 2.9 | 22.2 | Not applicable |  |
+| 7 mg/kg/day | 59 | 4.7 | 16.8 | 15.1 | 0.4606 |
+| 14 mg/kg/day | 28 | 5.4 | 70.0 | -43.9 | 0.0223 |
+| Abbreviations: N=number of patients. |  |  |  |  |  |
+
+A significant improvement in partial-onset seizure rate was observed for pregabalin 14 mg/kg/day group compared with placebo.
+Patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo.
+
+Responder rates (≥50% or greater reduction in partial-onset seizure frequency) were a secondary efficacy parameter; patients treated with pregabalin 14 mg/kg/day showed numerical improvement compared with placebo, while patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo: the responder rates were 53.6%, 30.5%, and 41.5% for pregabalin 14 mg/kg/day, pregabalin 7 mg/kg/day, and placebo, respectively.
 
 ## 14.4 Management of Fibromyalgia
 

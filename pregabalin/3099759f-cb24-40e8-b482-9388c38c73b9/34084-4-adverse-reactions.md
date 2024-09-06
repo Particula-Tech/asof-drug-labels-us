@@ -52,7 +52,7 @@ A majority of pregabalin-treated patients in clinical studies had adverse reacti
 Table 4.
 Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
-| Body system Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGB*[N=979] % | Placebo[N=459] % |
+| Body system Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGB* [N=979] % | Placebo [N=459] % |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body as a whole |  |  |  |  |  |  |
 | Asthenia | 4 | 2 | 4 | 7 | 5 | 2 |
@@ -169,7 +169,7 @@ A majority of pregabalin-treated patients in clinical studies had adverse reacti
 Table 6.
 Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Therapy for Partial-Onset Seizures in Adult Patients
 
-| Body System Preferred Term | 150 mg/d[N = 185]% | 300 mg/d[N = 90]% | 600 mg/d[N = 395]% | All PGB*[N = 670]†% | Placebo[N = 294]% |
+| Body System Preferred Term | 150 mg/d [N = 185] % | 300 mg/d [N = 90] % | 600 mg/d [N = 395] % | All PGB* [N = 670]† % | Placebo [N = 294] % |
 | --- | --- | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |  |  |
 | Accidental Injury | 7 | 11 | 10 | 9 | 5 |
@@ -200,6 +200,55 @@ Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Thera
 | Abnormal Vision | 3 | 1 | 5 | 4 | 1 |
 | * PGB: pregabalin† Excludes patients who received the 50 mg dose in Study E1.‡ Thinking abnormal primarily consists of events related to difficulty with concentration/attention but also includes events related to cognition and language problems and slowed thinking.§ Investigator term; summary level term is amblyopia. |  |  |  |  |  |
 
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+Adverse Reactions Leading to Discontinuation
+
+Approximately 2.5% of patients receiving pregabalin and no patients receiving placebo in trials of adjunctive therapy for partial-onset seizures discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the adverse reactions leading to discontinuation were somnolence (3 patients), worsening of epilepsy (1 patient), and hallucination (1 patient).
+
+Most Common Adverse Reactions
+
+Table 7 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin-treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 10 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 2.5 mg/kg/day groups.
+In this study, 201 patients received pregabalin and 94 patients received placebo for up to 12 weeks.
+A majority of pregabalin-treated patients in the clinical study had adverse reactions with a maximum intensity of "mild" or "moderate”.
+
+Table 7.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+| Body System Preferred Term | 2.5 mg/kg/daya [N=104] % | 10 mg/kg/dayb [N=97] % | All PGB [N = 201] % | Placebo [N = 94] % |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders |  |  |  |  |
+| Salivary hypersecretion | 1 | 4 | 2 | 0 |
+| Investigations |  |  |  |  |
+| Weight increased | 4 | 13 | 8 | 4 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Increased appetite | 7 | 10 | 8 | 4 |
+| Nervous system disorders |  |  |  |  |
+| Somnolence | 17 | 26 | 21 | 14 |
+| Abbreviations: N=number of patients; PGB = pregabalin.a 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day.b 10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. |  |  |  |  |
+
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+Most Common Adverse Reactions
+
+Table 8 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin-treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 14 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 7 mg/kg/day groups.
+In this study, 105 patients received pregabalin and 70 patients received placebo for up to 14 days.
+
+Table 8.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+| Body System Preferred Term | 7 mg/kg/day [N=71] % | 14 mg/kg/day [N=34] % | All PGB [N = 105] % | Placebo [N = 70] % |
+| --- | --- | --- | --- | --- |
+| Nervous system disorders |  |  |  |  |
+| Somnolence* | 13 | 21 | 15 | 9 |
+| Infections and infestations |  |  |  |  |
+| Pneumonia | 1 | 9 | 4 | 0 |
+| Viral infection | 3 | 6 | 4 | 3 |
+| Abbreviations: N=number of patients; PGB = pregabalin.* includes related terms including lethargy, sluggishness, and hypersomnia. |  |  |  |  |
+
 Controlled Studies with Fibromyalgia
 
 Adverse Reactions Leading to Discontinuation
@@ -218,7 +267,7 @@ A majority of pregabalin-treated patients in clinical studies experienced advers
 Table 9.
 Adverse Reaction Incidence in Controlled Trials in Fibromyalgia
 
-| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGB*[N=1517] % | Placebo[N=505] % |
+| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGB* [N=1517] % | Placebo [N=505] % |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ear and Labyrinth Disorders |  |  |  |  |  |  |
 | Vertigo | 2 | 2 | 2 | 1 | 2 | 0 |
@@ -289,7 +338,7 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 
 | % | % |  |
 | --- | --- | --- |
-| System Organ ClassPreferred term | PGB* (N=182) | Placebo (N=174) |
+| System Organ Class Preferred term | PGB* (N=182) | Placebo (N=174) |
 | Ear and labyrinth disorders |  |  |
 | Vertigo | 2.7 | 1.1 |
 | Eye disorders |  |  |
@@ -368,10 +417,7 @@ Comparison of Gender and Race
 The overall adverse event profile of pregabalin was similar between women and men.
 There are insufficient data to support a statement regarding the distribution of adverse experience reports by race.
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during postapproval use of pregabalin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -384,6 +430,6 @@ Reproductive System and Breast Disorders – Gynecomastia, Breast Enlargement
 
 Skin and subcutaneous tissue disorders – Bullous pemphigoid
 
-There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking pregabalin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
+There are post-marketing reports of life-threatening or fatal respiratory depression in patients taking pregabalin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
 
-In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+In addition, there are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.

@@ -2,7 +2,7 @@
 
 ## 5.1 Angioedema
 
-There have been postmarketing reports of angioedema in patients during initial and chronic treatment with pregabalin.
+There have been post-marketing reports of angioedema in patients during initial and chronic treatment with pregabalin.
 Specific symptoms included swelling of the face, mouth (tongue, lips, and gums), and neck (throat and larynx).
 There were reports of life-threatening angioedema with respiratory compromise requiring emergency treatment.
 Discontinue pregabalin immediately in patients with these symptoms.
@@ -12,7 +12,7 @@ In addition, patients who are taking other drugs associated with angioedema (e.g
 
 ## 5.2 Hypersensitivity
 
-There have been postmarketing reports of hypersensitivity in patients shortly after initiation of treatment with pregabalin.
+There have been post-marketing reports of hypersensitivity in patients shortly after initiation of treatment with pregabalin.
 Adverse reactions included skin redness, blisters, hives, rash, dyspnea, and wheezing.
 Discontinue pregabalin immediately in patients with these symptoms.
 
@@ -68,8 +68,8 @@ Dizziness and somnolence generally began shortly after the initiation of pregaba
 Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (4% each) from controlled studies.
 In pregabalin-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients [see Drug Interactions (7)].
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+In the pregabalin controlled trials in pediatric patients 4 to less than 17 years of age and 1 month to less than 4 years of age for the treatment of partial-onset seizures, somnolence was reported in 21% and 15% of pregabalin-treated patients compared to 14% and 9% of placebo-treated patients, respectively, and occurred more frequently at higher doses.
+For patients 1 month to less than 4 years of age, somnolence includes related terms lethargy, sluggishness, and hypersomnia.
 
 ## 5.6 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
 
@@ -102,7 +102,7 @@ Because there are limited data on congestive heart failure patients with New Yor
 Pregabalin treatment may cause weight gain.
 In pregabalin controlled clinical trials in adult patients of up to 14 weeks, a gain of 7% or more over baseline weight was observed in 9% of pregabalin-treated patients and 2% of placebo-treated patients.
 Few patients treated with pregabalin (0.3%) withdrew from controlled trials due to weight gain.
-Pregabalin associated weight gain was related to dose and duration of exposure, but did not appear to be associated with baseline BMI, gender, or age.
+Pregabalin associated weight gain was related to dose and duration of exposure but did not appear to be associated with baseline BMI, gender, or age.
 Weight gain was not limited to patients with edema [see Warnings and Precautions (5.7)].
 
 Although weight gain was not associated with clinically important changes in blood pressure in short-term controlled studies, the long-term cardiovascular effects of pregabalin-associated weight gain are unknown.

@@ -2,7 +2,7 @@
 
 Signs, Symptoms and Laboratory Findings of Acute Overdosage in Humans
 
-In the postmarketing experience, the most commonly reported adverse events observed with pregabalin when taken in overdose include reduced consciousness, depression/anxiety, confusional state, agitation, and restlessness.
+In the post-marketing experience, the most commonly reported adverse events observed with pregabalin when taken in overdose include reduced consciousness, depression/anxiety, confusional state, agitation, and restlessness.
 Seizures and heart block have also been reported.
 Deaths have been reported in the setting of lone pregabalin overdose and in combination with other CNS depressants.
 

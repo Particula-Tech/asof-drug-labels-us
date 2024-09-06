@@ -43,4 +43,4 @@ Bottles of 90: NDC 60219-1317-9
 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-Dispense in tight (USP), child-resistant containers.
+Dispense in a tight container as defined in the USP with child-resistant closure.

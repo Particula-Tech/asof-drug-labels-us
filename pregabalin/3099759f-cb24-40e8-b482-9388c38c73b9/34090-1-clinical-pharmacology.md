@@ -72,8 +72,16 @@ Reduction of pregabalin dose may be required in patients who have age-related co
 
 Pediatric Pharmacokinetics
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients (3 months to less than 17 years of age)
+
+Pregabalin pharmacokinetics were evaluated in 358 pediatric patients 3 months to less than 17 years of age with partial-onset seizures at dose levels of 2.5, 5, 10, and 15 mg/kg/day after single and multiple oral administration of pregabalin.
+Following oral administration, pregabalin reaches peak plasma concentration at 0.5 hours to 2 hours in the fasted state.
+Both apparent clearance (CL/F) and apparent volume of distribution increase as body weight increases.
+A weight-based dosing regimen is necessary to achieve pregabalin exposures in pediatric patients 1 month to less than 17 years of age similar to those observed in adults treated for partial-onset seizures at effective doses [see Dosage and Administration (2.4)].
+The mean t1/2 is 3 to 4 hours in pediatric subjects up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+Pregabalin CL/F is nearly proportional to CLcr (mL/min).
+The relationship is similar in pediatric and adult subjects.
+When normalized per body weight, CL/F (mL/min/kg) in pediatric subjects weighing less than 30 kg is approximately 40% higher in comparison to subjects weighing greater than or equal to 30 kg [see Dosage and Administration (2.4)].
 
 Drug Interactions
 

@@ -26,28 +26,28 @@ The dose may be increased to 300 mg/day within 1 week based on efficacy and tole
 Patients who do not experience sufficient pain relief following 2 to 4 weeks of treatment with 300 mg/day, and who are able to tolerate pregabalin capsules, may be treated with up to 300 mg two times a day, or 200 mg three times a day (600 mg/day).
 In view of the dose-dependent adverse reactions and the higher rate of treatment discontinuation due to adverse reactions, reserve dosing above 300 mg/day for those patients who have on-going pain and are tolerating 300 mg daily [see Adverse Reactions (6.1)].
 
-## 2.4 Adjunctive Therapy for Partial-Onset Seizures in Patients 17 Years of Age and Older
+## 2.4 Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month of Age and Older
 
-The recommended dosages for adult patients 17 years of age and older is included in Table 1.
+The recommended dosages for adults and pediatric patients 1 month of age and older are included in Table 1.
 Administer the total daily dosage orally in two or three divided doses as indicated in Table 1.
+In pediatric patients, the recommended dosing regimen is dependent upon body weight.
 Based on clinical response and tolerability, dosage may be increased, approximately weekly.
 
 Table 1.
-Recommended Dosage for Adult Patients 17 Years and Older
+Recommended Dosage for Adults and Pediatric Patients 1 Month and Older
 
 | Age and Body Weight | Recommended Initial Dosage | Recommended Maximum Dosage | Frequency of Administration |
 | --- | --- | --- | --- |
 | Adults (17 years and older) | 150 mg/day | 600 mg/day | 2 or 3 divided doses |
+| Pediatric patients weighing 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) | 2 or 3 divided doses |
+| Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age:3 divided doses 4 years of age and older: 2 or 3 divided doses |
 
 Both the efficacy and adverse event profiles of pregabalin capsules have been shown to be dose-related.
 
-The effect of dose escalation rate on the tolerability of pregabalin capsules has not been formally studied.
+The effect of dose escalation rate on the tolerability of pregabalin capsules have not been formally studied.
 
 The efficacy of adjunctive pregabalin capsules in patients taking gabapentin has not been evaluated in controlled trials.
 Consequently, dosing recommendations for the use of pregabalin capsules with gabapentin cannot be offered.
-
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.5 Management of Fibromyalgia in Adults
 
