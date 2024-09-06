@@ -18,7 +18,7 @@ Caution patients subject to spontaneous hypoglycemia, or diabetic patients recei
 Inform patients or caregivers that there is a risk of hypoglycemia when BYSTOLIC is given to patients who are fasting or who are vomiting.
 Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.5)].
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc., North Chicago IL 60064, USA
 
 Licensed from Mylan Laboratories, Inc.
 
@@ -26,9 +26,8 @@ Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
 
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 
-Bystolic® is a registered trademark of Allergan Sales, LLC.
+BYSTOLIC and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
 
-© 2023 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-
-V3.0USPI1402
+V3.1USPI1402

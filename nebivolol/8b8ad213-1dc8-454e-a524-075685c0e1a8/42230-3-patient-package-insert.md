@@ -126,15 +126,17 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 Rev.
 06 2023
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940 Licensed from Mylan Laboratories, Inc.
+Distributed by: AbbVie Inc., North Chicago IL 60064, USA
+
+Licensed from Mylan Laboratories, Inc.
 
 Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
 
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 
-BYSTOLIC® is a registered trademark of Allergan Sales, LLC.
+BYSTOLIC and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
 
-© 2023 Allergan.
+© 2024 AbbVie.
 All rights reserved.
 
-V3.0PPI1402
+V3.1PPI1402
