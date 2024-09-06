@@ -86,7 +86,7 @@ Preparation
 - •Withdraw necessary amount of ZIRABEV and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 - •Discard any unused portion left in a vial, as the product contains no preservatives.
-- •Diluted ZIRABEV solution may be stored at 2°C to 8°C (36°F to 46°F) for up to 8 hours, if not used immediately.
+- •Diluted ZIRABEV solution may be stored at 2°C to 8°C (36°F to 46°F) for up to 16 days, if not used immediately.
 - •No incompatibilities between ZIRABEV and polyvinylchloride or polyolefin bags have been observed.
 
 Administration
