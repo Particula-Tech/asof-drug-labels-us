@@ -1,10 +1,10 @@
 # 7 DRUG INTERACTIONS
 
-Table 2 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with PROTONIX I.V. and instructions for preventing or managing them.
+Table 3 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with PROTONIX I.V. and instructions for preventing or managing them.
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-Table 2: Clinically Relevant Interactions Affecting Drugs Co-Administered with PROTONIX I.V. and Interaction with Diagnostics
+Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with PROTONIX I.V. and Interaction with Diagnostics
 
 | Antiretrovirals |  |
 | --- | --- |
@@ -23,7 +23,7 @@ Table 2: Clinically Relevant Interactions Affecting Drugs Co-Administered with P
 | Clinical Impact: | Pantoprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
 | Intervention: | Mycophenolate mofetil (MMF): Co-administration of pantoprazole sodium in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH [see Clinical Pharmacology (12.3)]. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PROTONIX I.V. and MMF. Use PROTONIX I.V. with caution in transplant patients receiving MMF. See the prescribing information for other drugs dependent on gastric pH for absorption. |
 | Interactions with Investigations of Neuroendocrine Tumors |  |
-| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.12), Clinical Pharmacology (12.2)]. |
+| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.2)]. |
 | Intervention: | Temporarily stop PROTONIX I.V. treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
 | False Positive Urine Tests for THC |  |
 | Clinical Impact: | There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs [see Warnings and Precautions (5.13)]. |

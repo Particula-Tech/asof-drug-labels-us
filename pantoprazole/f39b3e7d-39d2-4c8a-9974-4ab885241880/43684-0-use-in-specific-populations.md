@@ -6,7 +6,7 @@ Risk Summary
 
 Available data from published observational studies did not demonstrate an association of major malformations or other adverse pregnancy outcomes with pantoprazole.
 
-In animal reproduction studies, no evidence of adverse development outcomes was observed with pantoprazole.
+In animal reproduction studies, no evidence of adverse development outcomes was observed with pantoprazole sodium.
 Reproduction studies have been performed in rats at intravenous doses up to 20 mg/kg/day (4 times the recommended human dose) and rabbits at intravenous doses up to 15 mg/kg/day (6 times the recommended human dose) with administration of pantoprazole during organogenesis in pregnant animals and have revealed no evidence of harm to the fetus due to pantoprazole in this study (see Data).
 
 A pre-and post-natal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium.
@@ -48,7 +48,7 @@ Changes in bone parameters were partially reversible following a recovery period
 
 Risk Summary
 
-Pantoprazole has been detected in breast milk of a nursing mother after a single 40 mg oral dose of pantoprazole.
+The limited data from a single case report the presence of pantoprazole in human breast milk.
 There were no effects on the breastfed infant (see Data).
 There are no data on pantoprazole effects on milk production.
 
@@ -65,13 +65,15 @@ No adverse events in the infant were reported by the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of PROTONIX I.V. have not been established in pediatric patients.
+The safety and effectiveness of PROTONIX I.V. for the treatment of GERD and a history of EE for up to 7 days have been established in pediatric patients 3 months of age and older.
+Use of PROTONIX I.V. for this indication is supported by evidence from adequate and well-controlled studies of intravenous and oral pantoprazole sodium in adults and oral pantoprazole sodium in pediatric patients, with additional pharmacokinetic and safety data of intravenous pantoprazole in pediatric patients 1 year of age and older and oral pantoprazole in pediatric patients 3 months of age and older.
+Adverse reactions were generally similar to those reported in adults with intravenous or oral pantoprazole sodium [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+
+The safety and effectiveness of PROTONIX I.V. have not been established in patients less than 3 months of age for the treatment of GERD and a history of EE.
+
+The safety and effectiveness of PROTONIX I.V. have not been established in pediatric patients for the treatment of pathological hypersecretory conditions including ZE syndrome.
 
 Animal Toxicity Data
-
-In a pre- and post-natal development toxicity study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day on postnatal day (PND 4) through PND 21, in addition to lactational exposure through milk.
-On PND 21, decreased mean femur length and weight and changes in femur bone mass and geometry were observed in the offspring at 5 mg/kg/day and higher doses.
-Changes in bone parameters were partially reversible following a recovery period [see Use in Specific Populations (8.1)].
 
 In neonatal/juvenile animals (rats and dogs) toxicities were similar to those observed in adult animals, including gastric alterations, decreases in red cell mass, increases in lipids, enzyme induction and hepatocellular hypertrophy.
 An increased incidence of eosinophilic chief cells in adult and neonatal/juvenile rats, and atrophy of chief cells in adult rats and in neonatal/juvenile dogs, was observed in the fundic mucosa of stomachs in repeated-dose studies.
@@ -80,4 +82,6 @@ Full to partial recovery of these effects were noted in animals of both age grou
 ## 8.5 Geriatric Use
 
 Of 286 patients in clinical studies of intravenous pantoprazole sodium in patients with GERD and a history of EE, 86 (43%) were 65 years of age and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience with oral pantoprazole sodium has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness were observed between these geriatric and younger adult patients, and other reported clinical experience with oral pantoprazole sodium has not identified differences in responses between geriatric and younger adult patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+No clinically meaningful differences in the pharmacokinetics of pantoprazole were observed in geriatric subjects compared to younger adult subjects [see Clinical Pharmacology (12.3)].
