@@ -29,11 +29,8 @@ Before using GELNIQUE, tell your healthcare provider about all of your medical c
 - have problems emptying your bladder completely
 - have a gastrointestinal obstruction (blockage in the digestive system)
 - have constipation or difficulty emptying your bowels
-
-◦ have ulcerative colitis (inflamed bowels)
-
-◦ have gastroesophageal reflux disease (GERD) or esophagitis (inflamed esophagus, the tube between your mouth and stomach)
-
+  - have ulcerative colitis (inflamed bowels)
+  - have gastroesophageal reflux disease (GERD) or esophagitis (inflamed esophagus, the tube between your mouth and stomach)
 - have myasthenia gravis (condition that causes muscle weakness)
 - are pregnant or plan to become pregnant
 - are breastfeeding or plan to breastfeed
