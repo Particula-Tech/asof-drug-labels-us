@@ -1,8 +1,6 @@
 # Package/Label Display Panel
 
-NDC 63459-700-60
-
-60 Capsules
+NDC 63459-700-60 60 Capsules
 
 amrix® (Cyclobenzaprine Hydrochloride Extended-Release Capsules)
 
@@ -14,9 +12,7 @@ teva
 
 # Package/Label Display Panel
 
-NDC 63459-701-60
-
-60 Capsules
+NDC 63459-701-60 60 Capsules
 
 amrix® (Cyclobenzaprine Hydrochloride Extended-Release Capsules)
 
