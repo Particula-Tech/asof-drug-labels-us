@@ -1,8 +1,6 @@
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 GRAM TUBE
+# 30g Carton
 
 NDC 0281-0326-30
-
-SAVAGE LABORATORIES®
 
 NITRO-BID® (Nitroglycerin Ointment USP, 2%)
 
@@ -10,26 +8,36 @@ Rx only
 
 NET WT 30 grams
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 GRAM CARTON
-
-NDC 0281-0326-30
-
 SAVAGE LABORATORIES®
 
-NITRO-BID® (Nitroglycerin Ointment USP, 2%)
+# 60g Carton
+
+NDC 0281-0326-60
+
+NITRO-BID®
+
+(Nitroglycerin Ointment USP, 2%)
 
 Rx only
 
-NET WT 30 grams
+NET WT 60 grams
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – APPLICATOR SHEET
+SAVAGE LABORATORIES®
 
-NITRO-BID (Nitroglycerin Ointment USP, 2%)
+# Foil Carton
 
-INCHES ½ 1 1 ½ 2
+NDC 0281-0326-08
 
-CENTIMETERS 1.25 2.5 3.75 5
+NITRO-BID®
 
-the applicator that measures the dose
+(Nitroglycerin Ointment USP, 2%)
 
-SAVAGE LABORATORIES® A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
+Rx only
+
+NET WT 1 g FOILPAC®
+
+48 PER BOX with PAD
+
+This product available in tubes.
+
+SAVAGE LABORATORIES®

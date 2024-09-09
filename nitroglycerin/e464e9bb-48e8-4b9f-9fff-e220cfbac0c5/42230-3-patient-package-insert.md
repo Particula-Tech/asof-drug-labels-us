@@ -31,4 +31,4 @@ foilpac®: DISCARD IMMEDIATELY AFTER USE.
 
 Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
 
-1. SAVAGE LABORATORIES® A division of Fougera Pharmaceuticals Inc. Melville, New York 11747 R09/11
+SAVAGE LABORATORIES® A division of Fougera Pharmaceuticals Inc. Melville, New York 11747 R09/11
