@@ -16,7 +16,7 @@ Each tablet contains 5 mg of dolutegravir equivalent to 5.26 mg of dolutegravir 
 
 Do not chew, cut, or crush tablet for oral suspension.
 
-Do not accept if membrane seal under cap is missing or broken.
+Do not accept if security seal is missing or broken.
 
 See prescribing information for dosage information.
 
@@ -30,14 +30,14 @@ Contents:
 
 60 tablets
 
-©2023 ViiV Healthcare group of companies or its licensor.
+©2024 ViiV Healthcare group of companies or its licensor.
 
 Made in Japan
 
 Rev.
-2/2023
+1/2024
 
-62000000085464
+62000000091728
 
 PRINCIPAL DISPLAY PANEL
 
