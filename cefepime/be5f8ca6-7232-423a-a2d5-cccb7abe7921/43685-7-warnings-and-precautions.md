@@ -41,7 +41,7 @@ Should superinfection occur during therapy, appropriate measures should be taken
 Urinary Glucose
 
 The administration of cefepime may result in a false-positive reaction for glucose in the urine when using some methods (e.g.
-CLINITEST tablets) [see Drug Interactions (7.1)].
+Clinitest tablets) [see Drug Interactions (7.1)].
 
 Coombs' Tests
 

@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Cefepime Injection is supplied as a frozen, iso-osmotic, sterile, nonpyrogenic solution in 50 mL and 100 mL single-dose Galaxy Containers (PL 2040 Plastic) as follows:
+Cefepime Injection is supplied as a frozen, iso-osmotic, sterile, nonpyrogenic solution in 50 mL and 100 mL single-dose Galaxy Containers as follows:
 
-| 2G3578 | NDC 0338-1301-41 | 1 gBased on cefepime activity in 50 mL | Supplied 24/box |
-| --- | --- | --- | --- |
-| 2G3579 | NDC 0338-1301-48 | 2 g in 100 mL | Supplied 12/box |
+| 1 gBased on cefepime activity in 50 mL | Supplied 24/box | NDC 0338-1301-41 |
+| --- | --- | --- |
+| 2 g in 100 mL | Supplied 12/box | NDC 0338-1301-48 |
 
 Store at or below –20°C (-4°F).
 

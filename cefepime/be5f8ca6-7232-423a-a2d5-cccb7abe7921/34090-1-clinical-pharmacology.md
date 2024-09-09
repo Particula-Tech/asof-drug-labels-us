@@ -96,7 +96,7 @@ Within bacterial cells, the molecular targets of cefepime are the penicillin bin
 
 Antimicrobial Activity
 
-Cefepime has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see INDICATIONS AND USAGE (1)]:
+Cefepime has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)]:
 
 Gram-negative bacteria
 

@@ -66,15 +66,14 @@ Pediatric Patients
 
 Data in pediatric patients with impaired renal function are not available; however, since cefepime pharmacokinetics are similar in adults and pediatric patients [see Clinical Pharmacology (12.3)], changes in the dosing regimen proportional to those in adults (see Table 1 and Table 2) are recommended for pediatric patients.
 
-## 2.4 Directions for Use of Cefepime Injection in GALAXY Container
+## 2.4 Directions for Use of Cefepime Injection in Galaxy Container
 
-Cefepime Injection in Galaxy Container (PL 2040 Plastic) is for intravenous administration using sterile equipment after thawing to room temperature.
+Cefepime Injection in Galaxy Container is for intravenous administration using sterile equipment after thawing to room temperature.
 
 Thawing of Plastic Container
 
 Thaw frozen container at room temperature 25°C (77°F) or under refrigeration 5°C (41°F).
-Do not force thaw by immersion in water baths or by microwave irradiation.
-[See How Supplied/Storage and Handling (16).]
+Do not force thaw by immersion in water baths or by microwave irradiation.[See How Supplied/Storage and Handling (16).]
 
 Check for minute leaks by squeezing container firmly.
 If leaks are detected, discard solution as sterility may be impaired.
