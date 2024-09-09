@@ -49,16 +49,10 @@ Blood Disorders
 - Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
   Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions (7.2), Use in Specific Populations (8.5)].
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2023 Allergan.
+© 2024 AbbVie.
 All rights reserved.
+CANASA and its design are trademarks of Aptalis Pharma Canada ULC, an AbbVie company.
 
-Patented.
-See www.allergan.com/patents
-
-CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
-
-For more information, go to www.canasa.com or call 1-800-678-1605.
-
-V5.0USPI0501
+V5.1USPI0501

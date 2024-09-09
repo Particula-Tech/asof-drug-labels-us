@@ -4,12 +4,8 @@ NDC 58914-501-33 3 Rectal Suppositories Canasa (mesalamine) suppositories for re
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 58914-501-56 30 Rectal Suppositories Canasa (mesalamine) suppositories for rectal use 1000 mg
-
-For Rectal Use Only Rx Only
+NDC 58914-501-56 30 Rectal Suppositories Canasa (mesalamine) suppositories for rectal use 1000 mg For Rectal Use Only Rx Only
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 58914-501-42 Canasa (mesalamine) suppositories for rectal use 1000 mg PAC
-
-42 Rectal Suppositories Full Course of therapy Rx Only
+NDC 58914-501-42 Canasa (mesalamine) suppositories for rectal use 1000 mg PAC 42 Rectal Suppositories Full Course of therapy Rx Only
