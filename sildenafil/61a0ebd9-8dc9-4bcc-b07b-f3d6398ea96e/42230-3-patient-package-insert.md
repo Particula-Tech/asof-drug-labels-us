@@ -73,4 +73,4 @@ However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 VIAGRA® is registered trademark of Pfizer Inc. All other trademarks herein are the property of their respective owners.
-Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: February 2024
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: July 2024
