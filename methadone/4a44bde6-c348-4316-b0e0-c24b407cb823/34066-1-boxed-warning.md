@@ -30,8 +30,8 @@ Healthcare providers are strongly encouraged to complete a REMS compliant educat
 Life-Threatening QT Prolongation
 
 QT interval prolongation and serious arrhythmia (torsades de pointes) have occurred during treatment with methadone.
-Most cases involve patients being treated for pain with large, multiple daily doses of methadone,although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
-Closely monitor patients with risk factors for development of prolonged QT interval, a historyof cardiac conduction abnormalities, and those taking medications affecting cardiac conduction for changes in cardiac rhythm during initiation and titration of methadone hydrochloride tablets [see WARNINGS AND PRECAUTIONS (5.4)].
+Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
+Closely monitor patients with risk factors for development of prolonged QT interval, a history of cardiac conduction abnormalities, and those taking medications affecting cardiac conduction for changes in cardiac rhythm during initiation and titration of methadone hydrochloride tablets [see WARNINGS AND PRECAUTIONS (5.4)].
 
 Cytochrome P450 Interaction
 
