@@ -44,6 +44,10 @@ If concomitant use of PAXIL CR with other serotonergic drugs is clinically warra
 
 ## 5.3 Drug Interactions Leading to QT Prolongation
 
+Cases of QT interval prolongation have been reported, although causality with PAXIL CR has not been established.
+
+PAXIL CR should be used with caution in patients with a history of QT interval prolongation, patients taking anti-arrhythmic or other medications that may potentially prolong QT interval, or those with relevant pre-existing cardiac disease.
+
 The CYP2D6 inhibitory properties of paroxetine can elevate plasma levels of thioridazine and pimozide.
 Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of PAXIL CR is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 

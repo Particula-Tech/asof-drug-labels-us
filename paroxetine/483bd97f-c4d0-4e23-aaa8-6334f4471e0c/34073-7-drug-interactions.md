@@ -12,7 +12,7 @@ Table 6: Clinically Significant Drug Interactions with PAXIL CR
 | Intervention | PAXIL CR is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.6), Contraindications (4), Warnings and Precautions (5.2)]. |
 | Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
 | Pimozide and Thioridazine |  |
-| Clinical Impact | Increased plasma concentrations of pimozide and thioridazine, drugs with a narrow therapeutic index, may increase the risk of QTc prolongation and ventricular arrhythmias. |
+| Clinical Impact | PAXIL CR should not be used in patients receiving medications that can prolong QT interval and are also metabolized by CYP450 2D6, such as thioridazine or pimozide (see Contraindications and Warnings and Precautions). |
 | Intervention | PAXIL CR is contraindicated in patients taking pimozide or thioridazine [see Contraindications (4)]. |
 | Other Serotonergic Drugs |  |
 | Clinical Impact | The concomitant use of serotonergic drugs with PAXIL CR increases the risk of serotonin syndrome. |
