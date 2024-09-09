@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-TOUJEO U-300 (insulin glargine) injection 300 units/mL is a clear and colorless solution and is available as:
+TOUJEO (insulin glargine) injection, 300 units/mL (U-300), is a clear and colorless solution and is available as:
 
 | TOUJEO | Total volume | Total units available in presentation | Max dose per injection | Dose increment | NDC number | Package size |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Protect TOUJEO SoloStar/TOUJEO Max SoloStar from direct heat and light.
 
 Storage conditions are summarized in the following table:
 
-|  | Not in-use (unopened) Refrigerated 36°F–46°F (2°C–8°C) | In-use (opened)To prevent degradation, always store the prefilled pens with the cap on during in-use period. Room temperature only (Do not refrigerate) up to 86°F (30°C) |
+| TOUJEO | Not in-use (unopened) Refrigerated 36°F–46°F (2°C–8°C) | In-use (opened)To prevent degradation, always store the prefilled pens with the cap on during in-use period. Room temperature only (Do not refrigerate) up to 86°F (30°C) |
 | --- | --- | --- |
-| 1.5 mL TOUJEO SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |
-| 3 mL TOUJEO Max SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |
+| 1.5 mL SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |
+| 3 mL Max SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |

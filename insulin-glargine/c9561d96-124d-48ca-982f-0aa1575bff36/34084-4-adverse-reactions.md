@@ -2,9 +2,10 @@
 
 The following adverse reactions are discussed elsewhere:
 
+- Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen [see Warnings and Precautions (5.2)]
 - Hypoglycemia [see Warnings and Precautions (5.3)]
 - Hypoglycemia due to medication errors [see Warnings and Precautions (5.4)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.5)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
 - Hypokalemia [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
@@ -13,14 +14,14 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in Table 1 reflect the exposure of 304 patients with type 1 diabetes to TOUJEO with mean exposure duration of 23 weeks.
 The type 1 diabetes population had the following characteristics: Mean age was 46 years and mean duration of diabetes was 21 years.
-Fifty-five percent were male, 86% were Caucasian, 5% were Black or African American, and 5% were Hispanic.
+Fifty-five percent were male, 86% were White, 5% were Black or African American, and 5% were Hispanic or Latino.
 At baseline, the mean eGFR was 82 mL/min/1.73 m2 and 35% of patients had eGFR ≥90 mL/min/1.73 m2.
-The mean BMI was 28 kg/m2.
+The mean body mass index (BMI) was 28 kg/m2.
 HbA1c at baseline was greater than or equal to 8% in 58% of patients.
 
 The data in Table 2 reflect the exposure of 1242 patients with type 2 diabetes to TOUJEO with mean exposure duration of 25 weeks.
 The type 2 diabetes population had the following characteristics: Mean age was 59 years and mean duration of diabetes was 13 years.
-Fifty-three percent were male, 88% were Caucasian, 7% were Black or African American, and 17% were Hispanic.
+Fifty-three percent were male, 88% were White, 7% were Black or African American, and 17% were Hispanic or Latino.
 At baseline, mean eGFR was 79 mL/min/1.73 m2 and 27% of patients had an eGFR ≥90 mL/min/1.73 m2.
 The mean BMI was 35 kg/m2.
 HbA1c at baseline was greater than or equal to 8% in 66% of patients.
@@ -77,7 +78,7 @@ Long-term use of insulin, including TOUJEO, can cause lipoatrophy (depression in
 
 Weight Gain
 
-Weight gain has occurred with insulins including TOUJEO and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
+Weight gain has occurred with insulins, including TOUJEO and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
 
 Hypersensitivity Reactions
 

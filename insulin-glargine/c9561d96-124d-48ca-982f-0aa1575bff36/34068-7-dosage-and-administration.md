@@ -15,9 +15,9 @@
 ## 2.2 General Dosing Instructions
 
 - TOUJEO is available in 2 single-patient-use prefilled pens:
-  - TOUJEO SoloStar contains 450 units of TOUJEO U-300.
+  - The TOUJEO SoloStar prefilled pen contains 450 units of insulin glargine.
     It delivers doses in 1-unit increments and can deliver up to 80 units in a single injection.
-  - TOUJEO Max SoloStar contains 900 units of TOUJEO U-300.
+  - The TOUJEO Max SoloStar prefilled pen contains 900 units of insulin glargine.
     It delivers doses in 2-unit increments and can deliver up to 160 units in a single injection.
     It is recommended for patients requiring at least 20 units per day.
 - When changing between TOUJEO SoloStar and TOUJEO Max SoloStar, if the patient's previous dose was an odd number, the dose should be increased or decreased by 1 unit to match the dose increments dialable on each prefilled pen.
@@ -35,7 +35,7 @@ Recommended Starting Dosage in Patients with Type 1 Diabetes
 - The recommended starting dose of TOUJEO in insulin-naive patients with type 1 diabetes is approximately one-third to one-half of the total daily insulin dose.
   The remainder of the total daily insulin dose should be given as a short-acting insulin and divided between each daily meal.
   As a general rule, 0.2 to 0.4 units of insulin per kilogram of body weight can be used to calculate the initial total daily insulin dose in insulin-naive patients with type 1 diabetes.
-- The maximum glucose lowering effect of a dose of TOUJEO may take five days to fully manifest and the first TOUJEO dose may be insufficient to cover metabolic needs in the first 24 hours of use [see Clinical Pharmacology (12.2)].
+- The maximum glucose lowering effect of a dose of TOUJEO may take five days to fully manifest and the first dose may be insufficient to cover metabolic needs in the first 24 hours of use [see Clinical Pharmacology (12.2)].
   When initiating TOUJEO, monitor glucose daily.
 
 Recommended Starting Dosage in Patients with Type 2 Diabetes

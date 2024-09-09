@@ -2,7 +2,7 @@ Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY 
 
 For patent information: https://www.sanofi.us/en/products-and-resources/patents
 
-©2023 sanofi-aventis U.S. LLC
+©2024 sanofi-aventis U.S. LLC
 
 LANTUS, TOUJEO, SoloStar, and TOUJEO Max SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 

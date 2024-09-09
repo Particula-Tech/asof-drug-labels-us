@@ -2,7 +2,7 @@
 
 ## 14.1 Overview of Clinical Studies
 
-The safety and effectiveness of TOUJEO given once daily was compared to that of once-daily LANTUS in 26-week, open-label, randomized, active-control, parallel studies of 546 adult patients and 463 pediatric patients with type 1 diabetes mellitus and 2,474 patients with type 2 diabetes mellitus (Tables 4 and 5).
+The efficacy of TOUJEO given once daily was compared to that of once-daily LANTUS in 26-week, open-label, randomized, active-control, parallel studies of 546 adult patients and 463 pediatric patients with type 1 diabetes mellitus and 2,474 patients with type 2 diabetes mellitus (Tables 4 and 5).
 At trial end, the reduction in glycated hemoglobin (HbA1c) and fasting plasma glucose with TOUJEO titrated to goal was similar to that with LANTUS titrated to goal.
 At the end of the trial, depending on the patient population and concomitant therapy, patients were receiving a higher dose of TOUJEO than LANTUS.
 
@@ -13,8 +13,8 @@ Adult Patients with Type 1 Diabetes
 In an open-label, controlled study (Study A), patients with type 1 diabetes (n=546), were randomized to basal-bolus treatment with TOUJEO or LANTUS and treated for 26 weeks.
 TOUJEO and LANTUS were administered once daily in the morning (time period covering from pre-breakfast until pre-lunch) or in the evening (time period defined as prior to the evening meal until at bedtime).
 A mealtime insulin analogue was administered before each meal.
-Mean age was 47years and mean duration of diabetes was 21 years.
-Fifty-seven percent were male, 85% were Caucasian, 5% Black or African American, and 5% were Hispanic; 32% of patients had GFR >90 mL/min/1.73 m2.
+Mean age was 47 years and mean duration of diabetes was 21 years.
+Fifty-seven percent were male, 85% were White, 5% Black or African American, and 5% were Hispanic or Latino; 32% of patients had GFR >90 mL/min/1.73 m2.
 The mean BMI was approximately 27.6 kg/m2.
 At week 26, treatment with TOUJEO provided a mean reduction in HbA1c that met the prespecified noninferiority margin of 0.4% (Table 4).
 Patients treated with TOUJEO used 18% more basal insulin than patients treated with LANTUS.
@@ -46,7 +46,7 @@ A mealtime insulin analogue was administered before each meal.
 
 The mean age of the trial population was 13 years; 31% were <12 years of age, 69% were ages ≥12 years of age.
 The mean duration of diabetes was 6 years.
-Of the 463 pediatric patients, 51% were male, 92% were White, 3% were Black or African American, and 30% were Hispanic.
+Of the 463 pediatric patients, 51% were male, 92% were White, 3% were Black or African American, and 30% were Hispanic or Latino.
 The mean baseline BMI percentile was 68.32.
 
 At week 26, the difference in HbA1c reduction from baseline between TOUJEO and LANTUS was 0.02% with a 95% confidence interval (-0.16%; 0.20%) and met the prespecified noninferiority margin (0.3%).
@@ -113,7 +113,7 @@ Table 6: Type 2 Diabetes Mellitus – Adult
 | Adjusted mean difference | 0.8 |  | 3 |  | 7 |  |
 | [95% Confidence interval] | [-5 to 7] |  | [-3 to 9] |  | [2 to 12] |  |
 
-Cardiovascular Safety
+Safety Outcomes Trial
 
 No clinical studies to establish the cardiovascular safety of TOUJEO have been conducted.
 A cardiovascular outcomes trial, ORIGIN, has been conducted with LANTUS.

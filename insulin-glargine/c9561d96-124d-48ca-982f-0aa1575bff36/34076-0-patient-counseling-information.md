@@ -25,7 +25,7 @@ Hypoglycemia Due to Medication Errors
 Instruct patients to always check the insulin label before each injection [see Warnings and Precautions (5.4)].
 The "300 units/mL (U-300)" is highlighted in honey gold on the labels of TOUJEO and TOUJEO Max SoloStar single-patient-use prefilled pens.
 
-Inform patients that TOUJEO (insulin glargine) 300 units/mL contains 3 times as much insulin in 1 mL as insulin glargine 100 units/mL.
+Inform patients that TOUJEO contains 300 units of insulin glargine per mL (U-300) compared to formulations of insulin glargine that contain 100 units/mL (U-100).
 To avoid dosing errors and potential overdose, instruct patients to never use a syringe to remove TOUJEO from the TOUJEO SoloStar or TOUJEO Max SoloStar single-patient-use prefilled pen [see Warnings and Precautions (5.4)].
 
 Inform patients that the dose counter of TOUJEO SoloStar or TOUJEO Max SoloStar single-patient-use prefilled pen shows the number of units of TOUJEO to be injected and no dose recalculation is required [see Dosage and Administration (2.1, 2.4)].

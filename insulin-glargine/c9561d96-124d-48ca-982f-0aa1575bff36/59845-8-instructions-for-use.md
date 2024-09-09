@@ -1,6 +1,6 @@
 # Instructions for Use
 
-TOUJEO® U-300 SoloStar® (Too-Jay-o) (insulin glargine) injection, for subcutaneous use 1.5 mL single-patient-use prefilled pen
+TOUJEO® U-300 SoloStar® [too-JAY-oh] (insulin glargine) injection, for subcutaneous use 300 units/mL (U-300) 1.5 mL single-patient-use prefilled pen
 
 Read this first
 
@@ -73,7 +73,7 @@ Step 2: Attach a new needle
 - Do not re-use needles.
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination and infection.
-- Always use needlesOther brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC. from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®).
+- Always use needles* from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®).
 
 - 2ATake a new needle and peel off the protective seal.
 - 2BKeep the needle straight and screw it onto the pen until fixed.
@@ -123,7 +123,7 @@ Step 4: Select the dose
 
 - Do not select a dose or press the injection button without a needle attached.
   This may damage your pen.
-- TOUJEO SoloStar is made to deliver the number of insulin units that your healthcare provider prescribed.
+- TOUJEO, SoloStar is made to deliver the number of insulin units that your healthcare provider prescribed.
   You do not need to do any dose calculations.
 - The dose selector of your TOUJEO SoloStar pen dials by 1 unit.
 
@@ -255,15 +255,19 @@ Throwing your pen away
 
 Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
 
-©2022 sanofi-aventis U.S. LLC
+©2024 sanofi-aventis U.S. LLC
+
+TOUJEO and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
+
+Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2022
+Revised: August 2024
 
 # Instructions for Use
 
-TOUJEO® U-300 Max SoloStar® (Too-Jay-o) (insulin glargine), injection, for subcutaneous use 3 mL single-patient-use prefilled pen
+TOUJEO U-300 Max SoloStar® [too-JAY-oh] (insulin glargine) injection, for subcutaneous use 300 units/mL (U-300) 3 mL single-patient-use prefilled pen
 
 Read this first
 
@@ -336,7 +340,7 @@ Step 2: Attach a new needle
 - Do not re-use needles.
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination and infection.
-- Always use needlesOther brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC. from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®) that are 8 mm long or shorter.
+- Always use needles* from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®) that are 8 mm long or shorter.
 
 - 2ATake a new needle and peel off the protective seal.
 - 2BKeep the needle straight and screw it onto the pen until fixed.
@@ -517,8 +521,12 @@ Throwing your pen away
 
 Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
 
-©2022 sanofi-aventis U.S. LLC
+©2024 sanofi-aventis U.S. LLC
+
+TOUJEO and TOUJEO Max SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
+
+Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2022
+Revised: August 2024
