@@ -68,6 +68,7 @@ Do not start taking an MAOI for at least 14 days after you stop treatment with P
 Before taking PAXIL, tell your healthcare provider about all your medical conditions, including if you:
 
 - have heart problems
+- have a heart tracing (electrocardiogram/ECG) has an abnormality known as prolonged QT interval or you are taking medicines that may affect the QT interval in the ECG
 - have or had bleeding problems
 - have, or have a family history of, bipolar disorder, mania or hypomania
 - have or had seizures or convulsions
@@ -279,4 +280,4 @@ For more information about PAXIL call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2023
+Revised: 09/2024
