@@ -3,14 +3,22 @@
 6.1 Spasticity of Spinal Cord Origin
 
 Most Common Adverse Reactions in Patients with Spasticity of Spinal Origin In pre- and post-marketing clinical trials, the most common adverse reactions associated with use of intrathecal baclofen which were not seen at an equivalent incidence among placebo-treated patients were: somnolence, dizziness, nausea, hypotension, headache, convulsions and hypotonia.
+
 Adverse Reactions Associated with Discontinuation of Treatment 8/474 patients with spasticity of spinal cord origin receiving long term infusion of intrathecal baclofen in pre- and post-marketing clinical studies in the U.S. discontinued treatment due to adverse reactions.
 These include: pump pocket infections (3), meningitis (2), wound dehiscence (1), gynecological fibroids (1) and pump overpressurization (1) with unknown, if any, sequela.
 Eleven patients who developed coma secondary to overdose had their treatment temporarily suspended, but all were subsequently re-started and were not, therefore, considered to be true discontinuations.
+
 Fatalities - [see Warnings and Precautions (5.6)].
-Incidence in Controlled Trials Experience with intrathecal baclofen obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse reactions because the studies were of very brief duration (up to three days of infusion) and involved only a total of 63 patients.
+
+Incidence in Controlled Trials
+
+Experience with intrathecal baclofen obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse reactions because the studies were of very brief duration (up to three days of infusion) and involved only a total of 63 patients.
 The following events occurred among the 31 patients receiving intrathecal baclofen in two randomized, placebo-controlled trials: hypotension (2), dizziness (2), headache (2), dyspnea (1).
 No adverse reactions were reported among the 32 patients receiving placebo in these studies.
-Events Observed during the Pre- and Post-marketing Evaluation of Intrathecal Baclofen Adverse events associated with the use of intrathecal baclofen reflect experience gained with 576 patients followed prospectively in the United States.
+
+Events Observed during the Pre- and Post-marketing Evaluation of Intrathecal Baclofen
+
+Adverse events associated with the use of intrathecal baclofen reflect experience gained with 576 patients followed prospectively in the United States.
 They received intrathecal baclofen for periods of one day (screening) (N=576) to over eight years (maintenance) (N=10).
 The usual screening bolus dose administered prior to pump implantation in these studies was typically 50 mcg.
 The maintenance dose ranged from 12 mcg to 2,003 mcg per day.
@@ -60,7 +68,9 @@ Table 1: Most Common (≥1%) Adverse Reactions in Patients with Spasticity of Sp
 | Hallucinations | 0.3 | 0.4 | 0.5 |
 | Hypertension | 0.2 | 0.6 | 0.5 |
 
-* Following administration of test bolus † Two month period following implant ‡ Beyond two months following implant N=Total number of patients entering each period %=% of patients evaluated In addition to the more common (1% or more) adverse reactions reported in the prospectively followed 576 domestic patients in pre- and post-marketing studies, experience from an additional 194 patients exposed to intrathecal baclofen from foreign studies has been reported.
+* Following administration of test bolus † Two month period following implant ‡ Beyond two months following implant N=Total number of patients entering each period %=% of patients evaluated
+
+In addition to the more common (1% or more) adverse reactions reported in the prospectively followed 576 domestic patients in pre- and post-marketing studies, experience from an additional 194 patients exposed to intrathecal baclofen from foreign studies has been reported.
 The following adverse reactions, not described in the table, and arranged in decreasing order of frequency, and classified by body system, were reported: Nervous System: Abnormal gait, thinking abnormal, tremor, amnesia, twitching, vasodilatation, cerebrovascular accident, nystagmus, personality disorder, psychotic depression, cerebral ischemia, emotional lability, euphoria, hypertonia, ileus, drug dependence, incoordination, paranoid reaction and ptosis.
 Digestive System: Flatulence, dysphagia, dyspepsia and gastroenteritis.
 Cardiovascular: Postural hypotension, bradycardia, palpitations, syncope, arrhythmia ventricular, deep thrombophlebitis, pallor and tachycardia.
@@ -124,7 +134,9 @@ Table 2: Most Common (≥1%) Adverse Reactions in Patients with Spasticity of Ce
 | Urinary Incontinence | 0.0 | 0.0 | 2.0 |
 | Urination Impaired | 0.0 | 0.0 | 2.0 |
 
-* Following administration of test bolus † Two month period following implant ‡ Beyond two months following implant N=Total number of patients entering each period.
+* Following administration of test bolus
+
+† Two month period following implant ‡ Beyond two months following implant N=Total number of patients entering each period.
 211 patients received drug; (1 of 212) received placebo only The more common (1% or more) adverse reactions reported in the prospectively followed 211 patients exposed to intrathecal baclofen have been reported.
 In the total cohort, the following adverse reactions, not described in Table 2, and arranged in decreasing order of frequency, and classified by body system, were reported: Nervous System: Akathisia, ataxia, confusion, depression, opisthotonos, amnesia, anxiety, hallucinations, hysteria, insomnia, nystagmus, personality disorder, reflexes decreased, and vasodilitation.
 Digestive System: Dysphagia, fecal incontinence, gastrointestinal hemorrhage and tongue disorder.

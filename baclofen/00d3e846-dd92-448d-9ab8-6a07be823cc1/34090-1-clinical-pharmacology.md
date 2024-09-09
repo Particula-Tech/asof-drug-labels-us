@@ -10,7 +10,9 @@ In people, as well as in animals, baclofen has been shown to have general CNS de
 
 ## 12.2 Pharmacodynamics
 
-Intrathecal Bolus Adult Patients The onset of action is generally one-half hour to one hour after an intrathecal bolus.
+Intrathecal Bolus
+
+Adult Patients The onset of action is generally one-half hour to one hour after an intrathecal bolus.
 Peak spasmolytic effect is seen at approximately four hours after dosing and effects may last four to eight hours.
 Onset, peak response, and duration of action may vary with individual patients depending on the dose and severity of symptoms.
 Pediatric Patients The onset, peak response and duration of action are similar to those seen in adult patients.
@@ -21,6 +23,7 @@ Pediatric Patients No additional information on continuous infusions is availabl
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of cerebrospinal fluid (CSF) clearance of intrathecal baclofen calculated from intrathecal bolus or continuous infusion studies approximates CSF turnover, suggesting elimination is by bulk-flow removal of CSF.
+
 Intrathecal Bolus After a bolus lumbar injection of 50 mcg or 100 mcg intrathecal baclofen in seven patients, the average CSF elimination half-life was 1.51 hours over the first four hours and the average CSF clearance was approximately 30 mL/hour.
 Continuous Infusion The mean CSF clearance for intrathecal baclofen was approximately 30 mL/hour in a study involving ten patients on continuous intrathecal infusion.
 Concurrent plasma concentrations of baclofen during intrathecal administration are expected to be low (0 to 5 ng/mL).
