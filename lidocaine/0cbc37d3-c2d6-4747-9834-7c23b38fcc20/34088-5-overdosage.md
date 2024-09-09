@@ -1,6 +1,6 @@
 # OVERDOSAGE:
 
-Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics (see ADVERSE REACTIONS, WARNINGS, and PRECAUTIONS).
+Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics (see ADVERSE REACTIONS, WARNINGS, and PRECAUTIONS.)
 
 ## Management of Local Anesthetic Emergencies
 
@@ -18,4 +18,4 @@ If cardiac arrest should occur, standard cardiopulmonary resuscitative measures 
 
 Dialysis is of negligible value in the treatment of acute overdosage with lidocaine.
 
-The oral LD50 of lidocaine hydrochloride in non-fasted female rats is 459 (346 to773) mg/kg (as the salt) and 214 (159 to 324) mg/kg (as the salt) in fasted female rats.
+The oral LD50 of lidocaine hydrochloride in non-fasted female rats is 459 (346 to 773) mg / kg (as the salt) and 214 (159 to 324) mg / kg (as the salt) in fasted female rats.

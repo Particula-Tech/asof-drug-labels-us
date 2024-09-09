@@ -5,14 +5,11 @@ PATIENTS SHOULD BE INSTRUCTED TO STRICTLY ADHERE TO THE RECOMMENDED DOSAGE AND A
 THE MANAGEMENT OF SERIOUS ADVERSE REACTIONS MAY REQUIRE THE USE OF RESUSCITATIVE EQUIPMENT, OXYGEN, AND OTHER RESUSCITATIVE DRUGS.
 
 Lidocaine Hydrochloride Jelly USP, 2% should be used with extreme caution in the presence of sepsis or severely traumatized mucosa in the area of application, since under such conditions there is the potential for rapid systemic absorption.
-
 When used for endotracheal tube lubrication, care should be taken to avoid introducing the product into the lumen of the tube.
 Do not use the jelly to lubricate the endotracheal stylettes. lf allowed into the inner lumen, the jelly may dry on the inner surface leaving a residue which tends to clump with flexion, narrowing the lumen.
-There have been rare reports in which this residue has caused the lumen to occlude (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION)
+There have been rare reports in which this residue has caused the lumen to occlude (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
-## Methemoglobinemia
-
-Cases of methemoglobinemia have been reported in association with local anesthetic use.
+Methemoglobinemia Cases of methemoglobinemia have been reported in association with local anesthetic use.
 Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
 If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 
@@ -69,16 +66,16 @@ Examples of Drugs Associated with Methemoglobinemia:
 | Anticonvulsants | Phenobarbital, phenytoin, sodium valproate, |
 | Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
 
-## Carcinogenesis
+### Carcinogenesis
 
 Long-term studies in animals have not been performed to evaluate the carcinogenic potential of lidocaine.
 
-## Mutagenesis
+### Mutagenesis
 
 The mutagenic potential of lidocaine has been tested in the Ames Salmonella reverse mutation assay, an in vitro chromosome aberrations assay in human lymphocytes and in an in vivo mouse micronucleus assay.
 There was no indication of any mutagenic effect in these studies.
 
-## Impairment of Fertility
+### Impairment of Fertility
 
 The effect of lidocaine on fertility was examined in the rat model.
 Administration of 30 mg/kg, s.c.
@@ -88,7 +85,11 @@ There was no evidence of altered fertility.
 
 ## Use in Pregnancy
 
-Teratogenic Effects: Pregnancy Category B. Reproduction studies for lidocaine have been performed in both rats and rabbits.
+### Teratogenic Effects
+
+#### Teratogenic Effects: Pregnancy Category B.
+
+Reproduction studies for lidocaine have been performed in both rats and rabbits.
 There was no evidence of harm to the fetus at subcutaneous doses of up to 50 mg/kg lidocaine (300 mg/m2 on a body surface area basis) in the rat model.
 In the rabbit model, there was no evidence of harm to the fetus at a dose of 5 mg/kg, s.c.
 (60 mg/m2 on a body surface area basis).
@@ -119,6 +120,7 @@ Caution should be exercised when lidocaine is administered to a nursing woman.
 ## Pediatric Use
 
 Although, the safety and effectiveness of Lidocaine Hydrochloride Jelly USP, 2% in pediatric patients have not been established, a study of 19 premature neonates (gestational age <33 weeks) found no correlation between the plasma concentration of lidocaine or monoethylglycinexylidide and infant body weight when moderate amounts of lidocaine (i.e.
-0.3 mL/kg of lidocaine gel 20 mg/mL) were used for lubricating both intranasal and endotracheal tubes.
+0.3 mL/kg of lidocaine gel 20 mg/ml) were used for lubricating both intranasal and endotracheal tubes.
 No neonate had plasma levels of lidocaine above 750 mcg/L.
-Dosages in children should be reduced, commensurate with age, body weight, and physical condition (see DOSAGE AND ADMINISTRATION.)
+Dosages in children should be reduced, commensurate with age, body weight, and physical condition.
+(See DOSAGE AND ADMINISTRATION.)

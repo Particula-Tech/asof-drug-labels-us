@@ -4,7 +4,7 @@
 
 Lidocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action.
 
-## Onset of Action
+## Onset of action
 
 The onset of action is 3 to 5 minutes.
 It is ineffective when applied to intact skin.
@@ -26,11 +26,11 @@ N-dealkylation, a major pathway of biotransformation, yields the metabolites mon
 The pharmacological / toxicological actions of these metabolites are similar to, but less potent than, those of lidocaine.
 Approximately 90% of lidocaine administered is excreted in the form of various metabolites, and less than 10% is excreted unchanged.
 
-The primary metabolite in urine is a conjugate of 4-hydroxy-2,6-dimethylaniline.
+The primary metabolite in urine is a conjugate of 4-hydroxy-2, 6-dimethylaniline.
 
 The plasma binding of lidocaine is dependent on drug concentration, and the fraction bound decreases with increasing concentration.
 At concentrations of 1 to 4 mcg of free base per mL, 60 to 80 percent of lidocaine is protein bound.
-Binding is also dependent on the plasma concentration of the alpha-I-acid glycoprotein.
+Binding is also dependent on the plasma concentration of the alpha-1-acid glycoprotein.
 
 Lidocaine crosses the blood-brain and placental barriers, presumably by passive diffusion.
 

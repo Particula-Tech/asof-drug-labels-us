@@ -27,16 +27,17 @@ In order to obtain adequate anesthesia, several minutes should be allowed prior 
 
 Apply a moderate amount of jelly to the external surface of the endotracheal tube shortly before use.
 Care should be taken to avoid introducing the product into the lumen of the tube.
-Do not use the jelly to lubricate endotracheal stylettes (see WARNINGS and ADVERSE REACTIONS) concerning rare reports of inner lumen occlusion.
+Do not use the jelly to lubricate endotracheal stylettes.
+See WARNINGS and ADVERSE REACTIONS concerning rare reports of inner lumen occlusion.
 It is also recommended that use of endotracheal tubes with dried jelly on the external surface be avoided for lack of lubricating effect.
 
 ## MAXIMUM DOSAGE:
 
-No more than 600 mg of lidocaine HCl should be given in any 12 hour period.
+No more than 600 mg of lidocaine hydrochloride should be given in any 12 hour period.
 
 ## Children
 
 It is difficult to recommend a maximum dose of any drug for children since this varies as a function of age and weight.
 For children less than ten years who have a normal lean body mass and a normal lean body development, the maximum dose may be determined by the application of one of the standard pediatric drug formulas (e.g., Clark's rule).
 For example, in a child of five years weighing 50 lbs., the dose of lidocaine hydrochloride should not exceed 75–100 mg when calculated according to Clark's rule.
-In any case, the maximum amount of lidocaine administered should not exceed 4.5 mg/kg (2 mg/lb) of body weight.
+In any case, the maximum amount of lidocaine administered should not exceed 4.5 mg / kg (2 mg / lb) of body weight.

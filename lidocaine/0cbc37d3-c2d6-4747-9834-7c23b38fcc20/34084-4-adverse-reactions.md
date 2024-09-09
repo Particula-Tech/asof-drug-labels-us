@@ -1,12 +1,11 @@
 # ADVERSE REACTIONS:
 
 Adverse experiences following the administration of lidocaine are similar in nature to those observed with other amide local anesthetic agents.
-These adverse experiences are, in general, dose-related and may result from high plasma levels caused by excessive dosage or rapid absorption, or may result from a hypersensitivity, idiosyncrasy or diminished tolerance on the part of the patient.
+These adverse experiences are, in general, dose-related and may result from high plasma levels caused by excessive dosage or rapid absorption, or may result from a hypersensitivity, idiosyncrasy, or diminished tolerance on the part of the patient.
 Serious adverse experiences are generally systemic in nature.
 The following types are those most commonly reported:
 
-There have been rare reports of endotracheal tube occlusion associated with the presence of dried jelly residue in the inner lumen of the tube.
-See also WARNINGS and DOSAGE AND ADMINISTRATION.
+There have been rare reports of endotracheal tube occlusion associated with the presence of dried jelly residue in the inner lumen of the tube (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 ## Central Nervous System
 
@@ -15,7 +14,7 @@ The excitatory manifestations may be very brief or may not occur at all, in whic
 
 Drowsiness following the administration of lidocaine is usually an early sign of a high blood level of the drug and may occur as a consequence of rapid absorption.
 
-## Cardiovascular System
+## Cardiovascular system
 
 Cardiovascular manifestations are usually depressant and are characterized by bradycardia, hypotension, and cardiovascular collapse, which may lead to cardiac arrest.
 
