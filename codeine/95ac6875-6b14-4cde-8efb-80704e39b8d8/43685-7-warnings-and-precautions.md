@@ -34,7 +34,7 @@ To ensure that the benefits of opioid analgesics outweigh the risks of addiction
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers involved in the Management or Support of Patients with Pain.
+- Complete a REMS-compliant education programoffered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
   The Patient Counseling Guide (PCG) can be obtained at this link: www.opioidanalgesicrems.com.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
@@ -48,7 +48,7 @@ The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see OVERDOSAGE].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of acetaminophen and codeine phosphate oral solution, the risk is greatest during the initiation of therapy or following a dosage increase.
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of acetaminophen and codeine phosphate oral solution.
@@ -57,7 +57,7 @@ To reduce the risk of respiratory depression, proper dosing and titration of ace
 Overestimating the acetaminophen and codeine phosphate oral solution dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of acetaminophen and codeine phosphate oral solution, especially by children, can result in respiratory depression and death due to an overdose of codeine.
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see PRECAUTIONS, Information for Patients].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see PRECAUTIONS,Information for Patients].
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
@@ -67,12 +67,12 @@ Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with acetaminophen and codeine phosphate oral solution.
 Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see PRECAUTIONS, Information for Patients].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see PRECAUTIONS,Information for Patients].
 
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see WARNINGS, Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS,Information for Patients].
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see WARNINGS,Addiction, Abuse, and Misuse, Risks from Concomitant Use with BenzodiazepinesorOther CNS Depressants; PRECAUTIONS,Information for Patients].
 
 ## Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -165,7 +165,7 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
-If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS, Life-Threatening Respiratory Depression; Dosage and Administration, Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS,Life-Threatening Respiratory Depression;Dosage and Administration,Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when acetaminophen and codeine phosphate oral solution is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -183,8 +183,7 @@ Acetaminophen and codeine phosphate oral solution-treated patients with signific
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see WARNINGS; Life-Threatening Respiratory Depression].
 
-Monitor such patients closely, particularly when initiating and titrating acetaminophen and codeine phosphate oral solution and when acetaminophen and codeine phosphate oral solution is given concomitantly with other drugs that depress respiration [see WARNINGS; Life-Threatening Respiratory Depression].
-Alternatively, consider the use of non-opioid analgesics in these patients.
+Monitor such patients closely, particularly when initiating and titrating acetaminophen and codeine phosphate oral solution and when acetaminophen and codeine phosphate oral solution is given concomitantly with other drugs that depress respiration [see WARNINGS; Life-Threatening Respiratory Depression].Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## Interaction with Monoamine Oxidase Inhibitors
 
@@ -216,7 +215,7 @@ Patients should be informed about the signs of serious skin reactions, and use o
 
 ## Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), acetaminophen and codeine phosphate oral solution may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), acetaminophen and codeine phosphate oral solution may reduce respiratory drive, and the resultant CO 2retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with acetaminophen and codeine phosphate oral solution.
 
 Opioids may also obscure the clinical course in a patient with a head injury.

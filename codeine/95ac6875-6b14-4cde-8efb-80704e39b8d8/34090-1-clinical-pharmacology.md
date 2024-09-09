@@ -92,4 +92,4 @@ Acetaminophen is primarily metabolized in the liver by first-order kinetics and 
 The principal cytochrome P450 isoenzyme involved appears to be CYP2E1, with CYP1A2 and CYP3A4 as additional pathways.
 Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
 
-See OVERDOSAGE for toxicity information.
+See OVERDOSAGEfor toxicity information.

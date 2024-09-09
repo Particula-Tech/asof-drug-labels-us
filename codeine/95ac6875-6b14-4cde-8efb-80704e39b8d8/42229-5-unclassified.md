@@ -97,8 +97,8 @@ Acetaminophen may produce false-positive test results for urinary 5-hydroxyindol
 Long-term studies to evaluate the carcinogenic potential of the combination of codeine and acetaminophen have not been conducted.
 
 Two-year carcinogenicity studies have been conducted in F344/N rats and B6C3F1 mice.
-There was no evidence of carcinogenicity in male and female rats, respectively, at dietary doses up to 70 and 80 mg/kg/day of codeine sulfate (approximately 2 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m2 basis) for two years.
-Similarly there was no evidence of carcinogenicity activity in male and female mice at dietary doses up to 400 mg/kg/day of codeine sulfate (approximately 5 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m2 basis) for two years.
+There was no evidence of carcinogenicity in male and female rats, respectively, at dietary doses up to 70 and 80 mg/kg/day of codeine sulfate (approximately 2 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m 2basis) for two years.
+Similarly there was no evidence of carcinogenicity activity in male and female mice at dietary doses up to 400 mg/kg/day of codeine sulfate (approximately 5 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m 2basis) for two years.
 
 Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen.
 In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm.
@@ -107,7 +107,7 @@ In contrast, there was no evidence of carcinogenic activity in male rats that re
 
 ### Mutagenesis
 
-Codeine sulfate was not mutagenic in the in vitro bacterial reverse mutation assay or clastogenic in the in vitro Chinese hamster ovary cell chromosome aberration assay.
+Codeine sulfate was not mutagenic in the in vitrobacterial reverse mutation assay or clastogenic in the in vitroChinese hamster ovary cell chromosome aberration assay.
 
 In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
@@ -194,7 +194,7 @@ Children with sleep apnea may be particularly sensitive to the respiratory depre
 Because of the risk of life-threatening respiratory depression and death:
 
 - Acetaminophen and codeine phosphate oral solution is contraindicated for all children younger than 12 years of age [see CONTRAINDICATIONS].
-- Acetaminophen and codeine phosphate oral solution is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
+- Acetaminophen and codeine phosphate oral solution is contraindicated for post-operative management in pediatric patients younger than 18 years of age followingtonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
 - Avoid the use of acetaminophen and codeine phosphate oral solution in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see WARNINGS].
 
