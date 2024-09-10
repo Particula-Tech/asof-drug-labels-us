@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Azathioprine Tablets USP, 50 mg is supplied as yellow round tablet, scored on one side and product identification code "54 043" debossed on the other side.
+Azathioprine Tablets USP, 50 mg is supplied as yellow round tablets, scored on one side and product identification code "54 043" debossed on the other side.
 
 Bottles of 100: NDC 60219-1076-1
 

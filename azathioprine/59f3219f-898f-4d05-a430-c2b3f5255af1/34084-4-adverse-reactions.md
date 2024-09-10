@@ -14,11 +14,7 @@ The relative incidences in clinical studies are summarized below:
 | Neoplasia |  | * |
 | Lymphoma | 0.5% |  |
 | Others | 2.8% |  |
-
-* Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited.
-The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population.
-In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg per day) was 1.8 cases per 1,000 patient-years of follow-up, compared with 0.8 cases per 1,000 patient-years of follow-up in those not receiving azathioprine.
-However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e., alkylating agents) received by patients treated with azathioprine cannot be determined.
+| * Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited. The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population. In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg per day) was 1.8 cases per 1,000 patient-years of follow-up, compared with 0.8 cases per 1,000 patient-years of follow-up in those not receiving azathioprine. However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e. alkylating agents) received by patients treated with azathioprine cannot be determined. |  |  |
 
 Hematologic: Leukopenia and/or thrombocytopenia are dose-dependent and may occur late in the course of therapy with azathioprine.
 Dose reduction or temporary withdrawal may result in reversal of these toxicities.
@@ -40,5 +36,12 @@ If hepatic veno-occlusive disease is clinically suspected, azathioprine should b
 
 Others: Additional side effects of low frequency have been reported.
 These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis, hepatosplenic T-cell lymphoma (see Warnings – Malignancy), and Sweet’s Syndrome (acute febrile neutrophilic dermatosis).
+
+Post-marketing Experience
+
+The following adverse reactions have been identified during post-approval use of azathioprine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+
+- intrahepatic cholestasis of pregnancy (see WARNINGS, Pregnancy).
 
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

@@ -69,6 +69,10 @@ This drug should not be used for treating rheumatoid arthritis in pregnant women
 Azathioprine is teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
 Abnormalities included skeletal malformations and visceral anomalies2.
 
+Post-marketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in women treated with azathioprine during pregnancy.
+ICP symptoms and evaluated bile acid levels improved following azathioprine discontinuation.
+Discontinue azathioprine if ICP develops in a pregnant woman.
+
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on azathioprine.
 In a detailed case report4, documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
 At 10 weeks most features were normalized.
@@ -85,9 +89,7 @@ Women of childbearing age should be advised to avoid becoming pregnant.
 
 # PRECAUTIONS
 
-## General
-
-A gastrointestinal hypersensitivity reaction characterized by severe nausea and vomiting has been reported.
+General: A gastrointestinal hypersensitivity reaction characterized by severe nausea and vomiting has been reported.
 These symptoms may also be accompanied by diarrhea, rash, fever, malaise, myalgias, elevations in liver enzymes, and occasionally, hypotension.
 Symptoms of gastrointestinal toxicity most often develop within the first several weeks of therapy with azathioprine and are reversible upon discontinuation of the drug.
 The reaction can recur within hours after re-challenge with a single dose of azathioprine.
@@ -102,11 +104,9 @@ Laboratory Tests: Complete Blood Count (CBC) Monitoring: Patients on azathioprin
 
 TPMT and NUDT15 Testing: Consider genotyping or phenotyping patients for TPMT deficiency and genotyping for NUDT15 deficiency in patients with severe myelosuppression.
 TPMT and NUDT15 testing cannot substitute for complete blood count (CBC) monitoring in patients receiving azathioprine.
-Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
+Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see CLINICAL PHARMACOLOGY, WARNINGS:Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
 
-## Drug Interactions
-
-Use with xanthine oxidase (XO) inhibitors: One of the pathways for inactivation of azathioprine is inhibited by XO inhibitors (allopurinol or febuxostat).
+Drug Interactions: Use with xanthine oxidase (XO) inhibitors: One of the pathways for inactivation of azathioprine is inhibited by XO inhibitors (allopurinol or febuxostat).
 Patients receiving azathioprine and allopurinol concomitantly should have a dose reduction of azathioprine, to approximately 1/3 to 1/4 the usual dose.
 Concomitant use of azathioprine with febuxostat is not recommended.
 Inhibition of XO may cause increased plasma concentrations of azathioprine or its metabolite, 6-MP, leading to toxicity.
@@ -126,20 +126,12 @@ Inosine monophosphate dehydrogenase (IMDH) is required for one of the metabolic 
 Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6-­MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia).
 Patients receiving azathioprine with ribavirin should have complete blood counts, including platelet counts, monitored weekly for the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage or other therapy changes are necessary.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility: See WARNINGS section.
 
-see WARNINGS section.
+Pregnancy: Teratogenic Effects: see WARNINGS section.
 
-## Pregnancy
-
-Teratogenic Effects: see WARNINGS section.
-
-## Nursing Mothers
-
-The use of azathioprine in nursing mothers is not recommended.
+Nursing Mothers: The use of azathioprine in nursing mothers is not recommended.
 Azathioprine or its metabolites are transferred at low levels, both transplacentally and in breast milk8, 9, 10.
 Because of the potential for tumorigenicity shown for azathioprine, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
-
-Safety and efficacy of azathioprine in pediatric patients have not been established.
+Pediatric Use: Safety and efficacy of azathioprine in pediatric patients have not been established.

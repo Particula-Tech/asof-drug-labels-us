@@ -26,7 +26,8 @@ Because of the risk of toxicity, patients with TPMT or NUDT15 deficiency require
 Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TPMT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
 The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
 NUDT15 deficiency is detected in <1% of patients of European or African ancestry.
-Among patients of East Asian ancestry (i.e., Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
+Among patients of East Asian ancestry (i.e.
+Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
 The p.R139C variant of NUDT15 (present on the *2 and *3 alleles) is the most commonly observed, but other less common loss-of-function NUDT15 alleles have been observed.
 
 Inhibition of xanthine oxidase (XO) may cause increased plasma concentrations of azathioprine or its metabolites leading to toxicity (see PRECAUTIONS: Drug Interactions).
