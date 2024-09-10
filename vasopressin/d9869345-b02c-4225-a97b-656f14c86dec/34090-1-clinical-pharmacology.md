@@ -32,7 +32,7 @@ The volume of distribution is 140 mL/kg.
 Elimination
 
 At infusion rates used in vasodilatory shock (0.01 to 0.1 units/minute), the clearance of vasopressin is 9 to 25 mL/min/kg in patients with vasodilatory shock.
-The apparent t1/2 of vasopressin at these levels is ≤10 minutes.
+The apparent t1/2 of vasopressin at these levels is ≤ 10 minutes.
 
 Metabolism
 

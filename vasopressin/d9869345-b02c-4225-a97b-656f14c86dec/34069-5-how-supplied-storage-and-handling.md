@@ -39,6 +39,12 @@ Parenteral Unit
 
 Ahmedabad 382213, INDIA
 
+Or
+
+Steril-Gene Life Sciences Private Limited
+
+Puducherry 605110, INDIA
+
 Distributed by:
 
 Amneal Pharmaceuticals LLC
@@ -46,4 +52,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-05-2023-02
+07-2024-03
