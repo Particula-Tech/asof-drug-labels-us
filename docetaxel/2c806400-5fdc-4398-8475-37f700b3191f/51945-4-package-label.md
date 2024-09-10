@@ -6,7 +6,7 @@ Docetaxel Injection, USP 20 mg/mL
 
 For Intravenous Infusion Only READY TO ADD TO INFUSION SOLUTION
 
-CAUTION: Cytotoxic Agent
+Warning: Hazardous Drug
 
 Rx only
 
@@ -20,7 +20,7 @@ Docetaxel Injection, USP 80 mg/4 mL (20 mg/mL)
 
 For Intravenous Infusion Only READY TO ADD TO INFUSION SOLUTION
 
-CAUTION: Cytotoxic Agent
+Warning: Hazardous Drug
 
 Rx only
 

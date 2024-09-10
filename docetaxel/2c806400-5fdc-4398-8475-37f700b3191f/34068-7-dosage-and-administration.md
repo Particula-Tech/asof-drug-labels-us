@@ -34,11 +34,11 @@ Patients must receive premedication with antiemetics, and appropriate hydration 
 Prophylaxis for neutropenic infections should be administered.
 All patients treated on the Docetaxel Injection containing arms of the TAX323 and TAX324 studies received prophylactic antibiotics.
 
-Induction chemotherapy followed by radiotherapy (TAX323) For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
+Induction Chemotherapy Followed by Radiotherapy (TAX323) For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
 This regimen is administered every 3 weeks for 4 cycles.
 Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
-Induction chemotherapy followed by chemoradiotherapy (TAX324) For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+Induction Chemotherapy Followed by Chemoradiotherapy (TAX324) For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
 Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
@@ -61,10 +61,10 @@ Combination Therapy with Docetaxel Injection in the Adjuvant Treatment of Breast
 
 Docetaxel Injection in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥1,500 cells/mm3.
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
-Patients who continue to experience this reaction should remain on G-CSF and have their Docetaxel Injection dose reduced to 60 mg/m².
-Patients who experience grade 3 or 4 stomatitis should have their Docetaxel Injection dose decreased to 60 mg/m².
-Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have their dosage of Docetaxel Injection reduced from 75 mg/m² to 60 mg/m².
-If the patient continues to experience these reactions at 60 mg/m², treatment should be discontinued.
+Patients who continue to experience this reaction should remain on G-CSF and have their Docetaxel Injection dose reduced to 60 mg/m2.
+Patients who experience grade 3 or 4 stomatitis should have their Docetaxel Injection dose decreased to 60 mg/m2.
+Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have their dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/m2.
+If the patient continues to experience these reactions at 60 mg/m2, treatment should be discontinued.
 
 Non-Small Cell Lung Cancer
 
@@ -84,8 +84,8 @@ Prostate Cancer
 Combination therapy with Docetaxel Injection for metastatic castration-resistant prostate cancer
 
 Docetaxel Injection should be administered when the neutrophil count is ≥1,500 cells/mm3.
-Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 mg/m² to 60 mg/m².
-If the patient continues to experience these reactions at 60 mg/m², the treatment should be discontinued.
+Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/m2.
+If the patient continues to experience these reactions at 60 mg/m2, the treatment should be discontinued.
 
 Gastric or Head and Neck Cancer
 
@@ -96,7 +96,7 @@ In both studies, G-CSF was recommended during the second and/or subsequent cycle
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
 If subsequent episodes of complicated neutropenia occur the Docetaxel Injection dose should be reduced from 60 mg/m2 to 45 mg/m2.
 In case of grade 4 thrombocytopenia the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
-Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3[see Contraindications (4)].
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
 Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
@@ -160,11 +160,11 @@ Combination Therapy with Strong CYP3A4 Inhibitors
 
 Avoid using concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole).
 There are no clinical data with a dose adjustment in patients receiving strong CYP3A4 inhibitors.
-Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require co-administration of a strong CYP3A4 inhibitor [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require coadministration of a strong CYP3A4 inhibitor [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 ## 2.8 Administration Precautions
 
-Docetaxel Injection is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing Docetaxel Injection solutions.
+Docetaxel Injection is a hazardous anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing Docetaxel Injection solutions.
 The use of gloves is recommended [see How Supplied/Storage and Handling (16.3)].
 
 If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.

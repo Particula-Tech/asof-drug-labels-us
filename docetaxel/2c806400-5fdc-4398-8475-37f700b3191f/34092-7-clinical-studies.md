@@ -11,7 +11,7 @@ Two hundred three patients were randomized to Docetaxel Injection and 189 to the
 Most patients had received prior chemotherapy for metastatic disease; only 27 patients on the Docetaxel Injection arm and 33 patients on the comparator arm entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The following table summarizes the study results (See Table 12).
+The following table summarizes the study results (see Table 12).
 
 Table 12 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
 
@@ -40,7 +40,7 @@ One hundred sixty-one patients were randomized to Docetaxel Injection and 165 pa
 Approximately one-half of patients had received prior chemotherapy for metastatic disease, and one-half entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The study results are summarized below (See Table 13).
+The study results are summarized below (see Table 13).
 
 Table 13 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
 
@@ -88,13 +88,13 @@ Adjuvant radiation therapy was prescribed according to guidelines in place at pa
 Results from a second interim analysis (median follow-up 55 months) are as follows: In study TAX316, the docetaxel-containing combination regimen TAC showed significantly longer disease-free survival (DFS) than FAC (hazard ratio=0.74; 2-sided 95% CI=0.60, 0.92, stratified log rank p=0.0047).
 The primary endpoint, disease-free survival, included local and distant recurrences, contralateral breast cancer and deaths from any cause.
 The overall reduction in risk of relapse was 25.7% for TAC-treated patients.
-(See Figure 1.)
+(see Figure 1.)
 
 At the time of this interim analysis, based on 219 deaths, overall survival was longer for TAC than FAC (hazard ratio=0.69, 2-sided 95% CI=0.53, 0.90).
-(See Figure 2.)
+(see Figure 2.)
 There will be further analysis at the time survival data mature.
 
-The following table describes the results of subgroup analyses for DFS and OS (See Table 14).
+The following table describes the results of subgroup analyses for DFS and OS (see Table 14).
 
 Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 
@@ -322,9 +322,9 @@ Induction chemotherapy followed by chemoradiotherapy (TAX324)
 
 The safety and efficacy of Docetaxel Injection in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
 In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two treatment arms.
-Patients on the Docetaxel Injection arm received Docetaxel Injection (T) 75 mg/m² by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m² administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m²/day from day 1 to day 4.
+Patients on the Docetaxel Injection arm received Docetaxel Injection (T) 75 mg/m2 by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m2 administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m2/day from day 1 to day 4.
 The cycles were repeated every 3 weeks for 3 cycles.
-Patients on the comparator arm received cisplatin (P) 100 mg/m² as a 30-minute to three-hour intravenous infusion on day 1 followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m²/day from day 1 to day 5.
+Patients on the comparator arm received cisplatin (P) 100 mg/m2 as a 30-minute to three-hour intravenous infusion on day 1 followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m2/day from day 1 to day 5.
 The cycles were repeated every 3 weeks for 3 cycles.
 
 All patients in both treatment arms who did not have progressive disease were to receive 7 weeks of chemoradiotherapy (CRT) following induction chemotherapy 3 to 8 weeks after the start of the last cycle.
@@ -347,5 +347,5 @@ Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patient
 | (95% CI) | (0.54 to 0.90) |  |
 | *p-value | 0.0058 |  |
 | A Hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil |  |  |
-| * un-adjusted log-rank test |  |  |
+| * unadjusted log-rank test |  |  |
 | NE - not estimable |  |  |
