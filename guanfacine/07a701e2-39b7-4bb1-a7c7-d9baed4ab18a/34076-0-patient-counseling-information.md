@@ -196,6 +196,6 @@ TWi Pharmaceuticals, Inc.
 
 Taoyuan City, 320023, Taiwan
 
-Revised: 10/22
+Revised: 10/2022
 
-OS24979533
+LA-3040-02
