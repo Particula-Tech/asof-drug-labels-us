@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA217192"
+  ],
+  "inn": "epinephrine",
+  "labeler": "American Regent, Inc.",
+  "package_ndcs": [
+    "0517-3030-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Epinephrine"
+    }
+  ],
+  "setid": "61cacda5-64ee-45ca-b94c-e8640c43e581",
+  "source": "dailymed"
+}
