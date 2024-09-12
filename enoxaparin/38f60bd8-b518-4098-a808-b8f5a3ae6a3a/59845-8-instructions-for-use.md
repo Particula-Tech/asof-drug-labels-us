@@ -158,4 +158,4 @@ Sandoz Inc., Princeton, NJ 08540
 
 1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
    Rev.
-   October 2023
+   June 2024

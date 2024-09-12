@@ -10,7 +10,7 @@ Injection, USP
 
 30 mg/0.3 mL
 
-Single Dose Syringes with Automatic
+Single-Dose Syringes with Automatic
 
 Safety Device
 
@@ -34,7 +34,7 @@ Injection, USP
 
 40 mg/0.4 mL
 
-Single Dose Syringes with Automatic
+Single-Dose Syringes with Automatic
 
 Safety Device
 
@@ -58,7 +58,7 @@ Injection, USP
 
 60 mg/0.6 mL
 
-Single Dose Syringes with Automatic
+Single-Dose Syringes with Automatic
 
 Safety Device
 
@@ -82,7 +82,7 @@ Injection, USP
 
 80 mg/0.8 mL
 
-Single Dose Syringes with Automatic
+Single-Dose Syringes with Automatic
 
 Safety Device
 
@@ -106,7 +106,7 @@ Injection, USP
 
 100 mg/mL
 
-Single Dose Syringes with Automatic
+Single-Dose Syringes with Automatic
 
 Safety Device
 
@@ -130,7 +130,7 @@ Injection, USP
 
 120 mg/0.8 mL
 
-Single Dose Syringes with Automatic
+Single-Dose Syringes with Automatic
 
 Safety Device
 
@@ -154,7 +154,7 @@ Injection, USP
 
 150 mg/mL
 
-Single Dose Syringes with Automatic Safety Device
+Single-Dose Syringes with Automatic Safety Device
 
 For Subcutaneous Injection
 
