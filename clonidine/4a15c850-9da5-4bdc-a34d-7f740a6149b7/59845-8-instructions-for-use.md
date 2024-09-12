@@ -29,7 +29,7 @@ Figure A
 
 | Step 1: Preparing to take ONYDA XR: Wash and dry your hands (see Figure B).Remove the ONYDA XR bottle, 1 oral dosing syringe, and 1 bottle adapter from the carton. Tell your pharmacist right away if you are missing any supplies from the carton. |  |
 | --- | --- |
-| Step 2: Place the ONYDA XR bottle on a flat surface like a table or countertop and remove the child resistant cap by pressing down and turning counterclockwise (see Figure C) Insert the bottle adapter (first time use only).Hold the bottle firmly and insert the ridged end of the bottle adapter into the neck of the bottle.Firmly push the bottle adapter all the way down with your thumb until the top of the adapter is aligned and flat (flush) with the top of the bottle (See Figure D).Do not remove the bottle adapter once it has been inserted into the bottle. |  |
+| Step 2: Place the ONYDA XR bottle on a flat surface like a table or countertop and remove the child resistant cap by pressing down and turning counterclockwise (see Figure C). Insert the bottle adapter (first time use only).Hold the bottle firmly and insert the ridged end of the bottle adapter into the neck of the bottle.Firmly push the bottle adapter all the way down with your thumb until the top of the adapter is aligned and flat (flush) with the top of the bottle (See Figure D).Do not remove the bottle adapter once it has been inserted into the bottle. |  |
 | Step 3: Put the cap back on the bottle and close it tightly by turning the cap clockwise (see Figure E).Shake the bottle gently with a smooth up and down motion to avoid foaming (see Figure F). Shake the bottle gently for at least 10 seconds before you take each dose. |  |
 | Step 4: Place the ONYDA XR bottle upright on the table or countertop. Open the cap again by pressing down and turn counterclockwise to remove the cap (see Figure G). |  |
 | Step 5: Check the ONYDA XR oral dosing syringe to find the right dose in milliliters (mL) that has been prescribed by the healthcare provider (see Figure H).Make sure the oral dosing syringe is dry. |  |
@@ -65,4 +65,4 @@ LB8730 Rev.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-Approved:05/2024
+Approved: 05/2024

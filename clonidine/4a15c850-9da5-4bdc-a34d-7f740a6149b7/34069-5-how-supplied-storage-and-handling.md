@@ -4,7 +4,7 @@ How Supplied
 
 ONYDA XR (clonidine hydrochloride) extended-release oral suspension 0.1 mg/mL is a light beige to tan viscous suspension.
 
-ONYDA XR is supplied in 120 mL bottles with a child-resistant closure and is packaged in a carton with two oral dosing dispensers and two press in bottle adapters (NDC 24478-148-02).
+ONYDA XR is supplied, as 30-days supply, in a bottle of 30 mL (NDC 24478-148-03) and a bottle of 60 mL (NDC 24478-148-04) with a child-resistant closure that are packaged in a carton with one oral dosing dispenser and one press in bottle adapter each and in a bottle of 120 mL (NDC 24478-148-02) with a child-resistant closure that are packaged in a carton with two oral dosing dispensers and two press in bottle adapters.
 
 Storage and Handling
 
