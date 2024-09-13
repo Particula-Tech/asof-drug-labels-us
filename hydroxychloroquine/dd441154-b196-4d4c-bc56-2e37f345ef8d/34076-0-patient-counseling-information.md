@@ -45,7 +45,7 @@ Pregnancy
 Inform the patient that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to SOVUNA during pregnancy.
 Encourage patients to register by contacting 1-877­311-8972 [see Use in Specific Populations (8.1)].
 
-Trademarks are the property of their respective owners.
+SOVUNA® is a registered trademark of ANI Pharmaceuticals, Inc.
 
 Distributed by:
 
@@ -53,6 +53,6 @@ ANI Pharmaceuticals, Inc.
 
 Baudette, MN 56623
 
-Issued: 04/2024
+Issued: 08/2024
 
-LB4637-01
+LB4637-02

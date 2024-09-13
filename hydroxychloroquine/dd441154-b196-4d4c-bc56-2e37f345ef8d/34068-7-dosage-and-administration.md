@@ -16,14 +16,14 @@ Advise the patient to take the prophylaxis dosage once a week, staring 2 weeks p
 The recommended prophylaxis dosage is:
 
 - Adult patients: 400 mg once a week
-- Pediatric patients ≥ 23 kg: 6.5 mg/kg actual body weight (up to 400 mg) once a week
+- Pediatric patients weighing greater than or equal to 23 kg: 6.5 mg/kg actual body weight (up to 400 mg) once a week
 
 Treatment of Uncomplicated Malaria
 
 The dosages for the treatment of uncomplicated malaria are:
 
-- Adult patients: Administer 800 mg initially; subsequently administer 400 mg at 6 hours, 24 hours, and 48 hours after the initial dose (total dosage = 2000 mg).
-- Pediatric patients ≥ 23 kg: Administer 13 mg/kg (up to 800 mg) initially; subsequently administer 6.5 mg/kg (up to 400 mg) at 6 hours, 24 hours, and 48 hours after the initial dose (total dosage = 31 mg/kg - up to 2000 mg).
+- Adult patients: Administer 800 mg initially; subsequently administer 400 mg at 6 hours, 24 hours, and 48 hours after the initial dose (total dosage = 2,000 mg).
+- Pediatric patients weighing greater than or equal to 23 kg: Administer 13 mg/kg (up to 800 mg) initially; subsequently administer 6.5 mg/kg (up to 400 mg) at 6 hours, 24 hours, and 48 hours after the initial dose (total dosage = 31 mg/kg - up to 2,000 mg).
 
 For radical cure of P. vivax and P. ovale infections, concomitant therapy with an 8­aminoquinoline drug is necessary [see Microbiology (12.4)].
 
