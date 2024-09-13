@@ -1,15 +1,13 @@
 Rx only.
 
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-I05/2023
+© 2024 Endo, Inc. or one of its affiliates.
 
-OS116P-01-95-01
-
-3003990
+R08/2024
