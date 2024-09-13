@@ -44,31 +44,31 @@ Risk Summary
 
 There are either no or only limited data on the presence of insulin glargine in human milk, the effects on breastfed infant, or the effects on milk production.
 Endogenous insulin is present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for INSULIN GLARGINE U-300, and any potential adverse effects on the breastfed child from INSULIN GLARGINE U-300 or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Insulin Glargine, U-300, and any potential adverse effects on the breastfed child from Insulin Glargine, U-300 or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of INSULIN GLARGINE U-300 to improve glycemic control in pediatric patients 6 years of age and older with diabetes mellitus have been established.
+The safety and effectiveness of Insulin Glargine, U-300 to improve glycemic control in pediatric patients 6 years of age and older with diabetes mellitus have been established.
 
-The use of INSULIN GLARGINE U-300 for this indication is supported by evidence from an adequate and well-controlled study in 463 pediatric patients 6 to 17 years of age with type 1 diabetes mellitus [see Clinical Studies (14.2)] and from studies in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.3)].
+The use of Insulin Glargine, U-300 for this indication is supported by evidence from an adequate and well-controlled study in 463 pediatric patients 6 to 17 years of age with type 1 diabetes mellitus [see Clinical Studies (14.2)] and from studies in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.3)].
 
-The safety and effectiveness of INSULIN GLARGINE U-300 have not been established in pediatric patients less than 6 years of age.
+The safety and effectiveness of Insulin Glargine, U-300 have not been established in pediatric patients less than 6 years of age.
 
 ## 8.5 Geriatric Use
 
-In controlled clinical studies, 30 of 304 (9.8%) insulin glargine-treated patients with type 1 diabetes and 327 of 1242 (26.3%) insulin glargine-treated patients with type 2 diabetes were ≥65 years of age, among them 2.0% of the patients with type 1 and 3.0% of the patients with type 2 diabetes were ≥75 years of age.
-No overall differences in safety or effectiveness of insulin glargine have been observed between patients 65 years of age and older and younger adult patients.
+In controlled clinical studies, 30 of 304 (9.8%) Insulin Glargine, U-300-treated patients with type 1 diabetes and 327 of 1242 (26.3%) Insulin Glargine, U-300-treated patients with type 2 diabetes were ≥65 years of age, among them 2.0% of the patients with type 1 and 3.0% of the patients with type 2 diabetes were ≥75 years of age.
+No overall differences in safety or effectiveness of Insulin Glargine, U-300 have been observed between patients 65 years of age and older and younger adult patients.
 
-Nevertheless, caution should be exercised when INSULIN GLARGINE U-300 is administered to geriatric patients.
+Nevertheless, caution should be exercised when Insulin Glargine, U-300 is administered to geriatric patients.
 In geriatric patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemia [see Warnings and Precautions (5.3), Adverse Reactions (6), and Clinical Studies (14)].
 
 ## 8.6 Renal Impairment
 
-The effect of kidney impairment on the pharmacokinetics of insulin glargine has not been studied.
+The effect of kidney impairment on the pharmacokinetics of Insulin Glargine, U-300 has not been studied.
 Some studies with human insulin have shown increased circulating levels of insulin in patients with kidney failure.
-Frequent glucose monitoring and dose adjustment may be necessary for insulin glargine in patients with kidney impairment [see Warnings and Precautions (5.3)].
+Frequent glucose monitoring and dose adjustment may be necessary for Insulin Glargine, U-300 in patients with kidney impairment [see Warnings and Precautions (5.3)].
 
 ## 8.7 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of insulin glargine has not been studied.
-Frequent glucose monitoring and dose adjustment may be necessary for INSULIN GLARGINE U-300 in patients with hepatic impairment [see Warnings and Precautions (5.3)].
+The effect of hepatic impairment on the pharmacokinetics of Insulin Glargine, U-300 has not been studied.
+Frequent glucose monitoring and dose adjustment may be necessary for Insulin Glargine, U-300 in patients with hepatic impairment [see Warnings and Precautions (5.3)].
