@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
@@ -21,7 +21,7 @@ Among subjects with recorded normal baseline values, the following laboratory ab
 
 ## Observed During Clinical Practice
 
-In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of Acyclovir Sodium Injection in clinical practice.
+In addition to adverse events reported from clinical trials, the following events have been identified during post-approval use of Acyclovir Injection in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, potential causal connection to acyclovir, or a combination of these factors.
 

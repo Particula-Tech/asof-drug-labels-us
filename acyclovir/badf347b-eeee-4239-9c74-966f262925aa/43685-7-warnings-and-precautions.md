@@ -1,12 +1,12 @@
-# WARNINGS
+# WARNINGS:
 
-Acyclovir Sodium Injection is intended for intravenous infusion only, and should not be administered topically, intramuscularly, orally, subcutaneously, or in the eye.
+Acyclovir Injection is intended for intravenous infusion only, and should not be administered topically, intramuscularly, orally, subcutaneously, or in the eye.
 Intravenous infusions must be given over a period of at least 1 hour to reduce the risk of renal tubular damage (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS, Observed During Clinical Practice and OVERDOSAGE).
 Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -69,11 +69,11 @@ Acyclovir should be administered to a nursing mother with caution and only when 
 
 ## Pediatric Use
 
-The safety and efficacy of Acyclovir Sodium Injection has been evaluated in pediatric patients, including neonates (see CLINICAL PHARMACOLOGY, CLINICAL TRIALS, INDICATIONS AND USAGE, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+The safety and efficacy of Acyclovir Injection has been evaluated in pediatric patients, including neonates (see CLINICAL PHARMACOLOGY, CLINICAL TRIALS, INDICATIONS AND USAGE, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
 
-Clinical studies of Acyclovir Sodium Injection did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
+Clinical studies of Acyclovir Injection did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
 Other reported clinical experience has identified differences in the severity of CNS adverse events between elderly and younger patients (see ADVERSE REACTIONS, Observed During Clinical Practice).
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased renal function, and of concomitant disease or other drug therapy.
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.

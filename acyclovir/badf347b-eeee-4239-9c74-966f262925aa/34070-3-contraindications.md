@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# CONTRAINDICATIONS:
 
-Acyclovir Sodium Injection is contraindicated for patients who develop hypersensitivity to acyclovir or valacyclovir.
+Acyclovir Injection is contraindicated for patients who develop hypersensitivity to acyclovir or valacyclovir.

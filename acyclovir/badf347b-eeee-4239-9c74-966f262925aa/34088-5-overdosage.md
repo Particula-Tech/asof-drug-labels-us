@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Overdoses involving ingestions of up to 20 g have been reported.
 Adverse events that have been reported in association with overdosage include agitation, coma, seizures, and lethargy.

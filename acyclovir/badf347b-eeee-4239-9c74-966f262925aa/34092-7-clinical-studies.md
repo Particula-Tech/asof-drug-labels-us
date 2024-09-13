@@ -1,4 +1,4 @@
-# CLINICAL TRIALS
+# CLINICAL TRIALS:
 
 ## Herpes Simplex Infections in Immunocompromised Patients
 

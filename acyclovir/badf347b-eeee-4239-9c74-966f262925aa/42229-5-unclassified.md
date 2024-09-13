@@ -1,6 +1,6 @@
 Rx only
 
-# VIROLOGY
+# VIROLOGY:
 
 ## Mechanism of Antiviral Action
 

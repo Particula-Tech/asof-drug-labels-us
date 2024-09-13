@@ -2,9 +2,7 @@
 
 NDC 63323-325-41 PRX302510
 
-ACYCLOVIR SODIUM
-
-INJECTION
+Acyclovir Injection, USP
 
 500 mg per 10 mL*
 
@@ -22,9 +20,7 @@ Rx only
 
 NDC 63323-325-14 PRX302510
 
-ACYCLOVIR SODIUM
-
-INJECTION
+Acyclovir Injection, USP
 
 500 mg per 10 mL*
 
@@ -34,9 +30,7 @@ For IV Infusion Only
 
 MUST BE DILUTED PRIOR TO USE
 
-10 mL Single Dose Vial
-
-10 Vials
+10 x 10 mL Single Dose Vials
 
 Rx only
 
@@ -44,9 +38,7 @@ Rx only
 
 NDC 63323-325-43 PRX302520
 
-ACYCLOVIR SODIUM
-
-INJECTION
+Acyclovir Injection, USP
 
 1,000 mg per 20 mL*
 
@@ -64,9 +56,7 @@ Rx only
 
 NDC 63323-325-24 PRX302520
 
-ACYCLOVIR SODIUM
-
-INJECTION
+Acyclovir Injection, USP
 
 1,000 mg per 20 mL*
 
@@ -76,8 +66,6 @@ For IV Infusion Only
 
 MUST BE DILUTED PRIOR TO USE
 
-20 mL Single Dose Vial
-
-10 Vials
+10 x 20 mL Single Dose Vials
 
 Rx only
