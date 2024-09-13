@@ -24,10 +24,14 @@ Strict adherence to the following precautions is advised to minimize the potenti
 
 - Children and women should avoid contact with unwashed or unclothed application site(s) of men using TESTIM.
 - Patients using TESTIM should apply the product as directed and strictly adhere to the following:
-  - Wash hands with soap and water immediately after application.
-  - Cover the application site(s) with clothing after the gel has dried.
-  - Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
-  - In the event that unwashed or unclothed skin to which TESTIM has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+
+- Wash hands with soap and water immediately after application.
+
+- Cover the application site(s) with clothing after the gel has dried.
+
+- Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
+
+- In the event that unwashed or unclothed skin to which TESTIM has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
 ## 17.3 Potential Adverse Reactions with Androgens
 
@@ -53,7 +57,7 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Wait 2 hours before swimming or washing following application of TESTIM.
   This will ensure that the greatest amount of TESTIM is absorbed into their system.
 
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Manufactured for: Endo USA Malvern, PA 19355
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215
 
@@ -63,6 +67,6 @@ Contract Pharmaceuticals Limited Mississauga, ON, Canada L5N 6R8
 
 US Patent Nos. 7,320,968; 7,608,605; 7,608,606; 7,608,607; 7,608,608; 7,608,609; 7,608,610; 7,935,690; 8,063,029; 8,178,518
 
-TESTIM is a registered trademark of Endo Pharmaceuticals Inc. or one of its affiliates
+© 2024 Endo, Inc. or one of its affiliates.
 
-© 2020 Endo Pharmaceuticals Inc. All rights reserved.
+Revised: 07/2024

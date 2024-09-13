@@ -163,14 +163,14 @@ Active ingredient: testosterone
 
 Inactive ingredients: purified water, pentadecalactone, carbopol, acrylates, propylene glycol, glycerin, polyethylene glycol, ethanol (74%), and tromethamine.
 
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+| Manufactured for:Endo USA Malvern, PA 19355 | Manufactured by:DPT Laboratories, Ltd. San Antonio, TX 78215 |
+| --- | --- |
+| orContract Pharmaceuticals LimitedMississauga, ONCanada L5N 6R8 |  |
 
-Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 or Contract Pharmaceuticals Limited Mississauga, ON, Canada L5N 6R8
-
-© 2020 Endo Pharmaceuticals Inc. All rights reserved.
+© 2024 Endo, Inc. or one of its affiliates.
 
 For more information, go to www.TESTIM.com or call 1-800-462-3636.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2020
+Revised: 07/2024

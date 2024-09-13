@@ -2,7 +2,7 @@
 
 ## 14.1 Clinical Trials in Adult Hypogonadal Males
 
-TESTIM was evaluated in a randomized multicenter, multi-dose, active and placebo controlled 90-day study in 406 adult males with morning testosterone levels ≤300 ng/dL.
+TESTIM was evaluated in a randomized multicenter, multi-dose, active and placebo controlled 90-day study in 406 adult males with morning testosterone concentrations ≤ 300 ng/dL.
 The study was double-blind for the doses of TESTIM and placebo, but open-label for the non-scrotal testosterone transdermal system.
 During the first 60 days, patients were evenly randomized to TESTIM 50 mg, TESTIM 100 mg, placebo gel, or testosterone transdermal system.
 At Day 60, patients receiving TESTIM were maintained at the same dose, or were titrated up or down within their treatment group, based on 24-hour averaged serum testosterone concentration obtained on Day 30.

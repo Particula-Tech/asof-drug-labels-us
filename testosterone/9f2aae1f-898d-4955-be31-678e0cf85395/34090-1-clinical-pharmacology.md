@@ -24,7 +24,7 @@ Approximately 10% of the testosterone applied on the skin surface is absorbed in
 
 Single Dose
 
-In single-dose studies, when either TESTIM 50 mg or 100 mg was administered, absorption of testosterone into the blood continued for the entire 24 hour dosing period.
+In single-dose studies, when either TESTIM 50 mg or 100 mg was administered, absorption of testosterone into the blood continued for the entire 24-hour dosing period.
 Also, mean peak and average serum concentrations within the normal range were achieved within 24 hours.
 
 Multiple Dose
@@ -33,7 +33,7 @@ With single daily applications of TESTIM 50 mg and 100 mg, follow-up measurement
 
 Figure 1 summarizes the 24-hour pharmacokinetic profile of testosterone for patients maintained on TESTIM 50 mg or TESTIM 100 mg for 30 days.
 
-Figure 1 Mean Steady-State Serum Testosterone (±SD) (ng/dL) Concentrations on Day 30 in Patients Applying TESTIM Once Daily
+Figure 1: Mean Steady-State Serum Testosterone (± SD) (ng/dL) Concentrations on Day 30 in Patients Applying TESTIM Once Daily
 
 The average daily testosterone concentration produced by TESTIM 100 mg at Day 30 was 612 (± 286) ng/dL and by TESTIM 50 mg at Day 30 was 365 (± 187) ng/dL.
 
@@ -50,7 +50,7 @@ The average daily DHT concentration produced by TESTIM 100 mg at Day 30 was 555 
 
 Figure 2 summarizes the 24-hour pharmacokinetic profile of DHT for patients maintained on TESTIM 50 mg or TESTIM 100 mg for 30 days.
 
-Figure 2 Mean Steady-State Serum Dihydrotestosterone (±SD) (pg/mL) Concentrations on Day 30 in Patients Applying TESTIM Once Daily
+Figure 2: Mean Steady-State Serum Dihydrotestosterone (± SD) (pg/mL) Concentrations on Day 30 in Patients Applying TESTIM Once Daily
 
 Excretion
 
@@ -64,7 +64,7 @@ Potential for Testosterone Transfer from Male Patients to Female Partners
 The potential for dermal testosterone transfer following TESTIM use was evaluated in two clinical trials with males dosed with TESTIM and their untreated female partners.
 
 In the first trial, 30 couples were evenly randomized to 5 groups.
-In the first 4 groups, 100 mg of TESTIM was applied to the male abdomen and the couples were then asked to rub abdomen-to-abdomen for 15 minutes at 1 hour, 4 hours, 8 hours or 12 hours after dose application, respectively.
+In the first 4 groups, 100 mg of TESTIM was applied to the male abdomen and the couples were then asked to rub abdomen-to-abdomen for 15 minutes at 1 hour, 4 hours, 8 hours, or 12 hours after dose application, respectively.
 In these couples, serum testosterone concentrations in female partners increased from baseline by at least 6 times and potential for transfer was seen at all time points.
 
 When 6 males used a shirt to cover the abdomen at 15 minutes post-application and partners again rubbed abdomens for 15 minutes at the 1-hour time point, serum testosterone concentrations in female partners increased from baseline by approximately 3 times.
@@ -77,5 +77,5 @@ When males wore a long-sleeved T-shirt and rubbing was started at 1 and at 4 hou
 
 Effect of Showering
 
-The effect of showering (with mild soap) at 1, 2 and 6 hours post application of TESTIM 100 mg was evaluated in a clinical trial in 12 men.
+The effect of showering (with mild soap) at 1, 2, and 6 hours post application of TESTIM 100 mg was evaluated in a clinical trial in 12 men.
 The study demonstrated that the overall effect of washing was to decrease testosterone concentrations; however, when washing occurred 2 or more hours post drug application, serum testosterone concentrations remained within the normal range.

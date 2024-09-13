@@ -7,9 +7,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In a controlled clinical study, 304 patients were treated with TESTIM 50 mg or 100 mg or placebo gel for up to 90 days.
 Two hundred five (205) patients received TESTIM 50 mg or 100 mg daily and 99 patients received placebo.
 Subjects could be counted in both TESTIM treatment groups if they received both 50 mg and 100 mg at different points in the study and experienced an adverse reaction at both dose levels.
-Adverse reactions reported by ≥1% of the TESTIM patients and greater than placebo are listed in Table 1.
+Adverse reactions reported by ≥ 1% of the TESTIM patients and greater than placebo are listed in Table 1.
 
-Table 1: Incidence of Adverse Reactions (Reported by ≥1% of the TESTIM Patients and Greater than Placebo) in the Controlled Clinical Trial Through 90 Days
+Table 1: Incidence of Adverse Reactions (Reported by ≥ 1% of the TESTIM Patients and Greater than Placebo) in the Controlled Clinical Trial Through 90 Days
 
 | Event | TESTIM 50 mg (n=103) | TESTIM 100 mg (n=149) | Placebo (n=99) |
 | --- | --- | --- | --- |
@@ -17,7 +17,7 @@ Table 1: Incidence of Adverse Reactions (Reported by ≥1% of the TESTIM Patient
 | Blood Pressure Increased | 1% | 1% | 0% |
 | Gynecomastia | 1% | 0% | 0% |
 | Headache | 1% | 1% | 0% |
-| Hematocrit/hemoglobin Increased | 1% | 2% | 0% |
+| Hematocrit / hemoglobin Increased | 1% | 2% | 0% |
 | Hot Flushes | 1% | 0% | 0% |
 | Insomnia | 1% | 0% | 0% |
 | Mood Swings | 1% | 0% | 0% |
@@ -50,7 +50,7 @@ Signs and symptoms of these reported cases have included enlargement of the clit
 In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure.
 In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
 In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported.
-In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user’s shirts and/or other fabrics, such as towels and sheets [see Warnings and Precautions (5.2)].
+In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user’s shirts and/or other fabric, such as towels and sheets [see Warnings and Precautions (5.2)].
 
 Vascular Disorders
 
