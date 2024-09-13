@@ -56,10 +56,10 @@ Effects on Ability to Drive and Use Machines
 
 Advise patients that the ability to drive or operate machinery might be impaired when treated with tretinoin capsules, particularly if patients are experiencing dizziness or severe headache.
 
-Manufactured for:
-
-Par Pharmaceutical Chestnut Ridge, NY 10977
+Manufactured for: Endo USA Malvern, PA 19355
 
 Made in France
 
-Revised: 03/2023
+© 2024 Endo, Inc. or one of its affiliates.
+
+Revised: 07/2024

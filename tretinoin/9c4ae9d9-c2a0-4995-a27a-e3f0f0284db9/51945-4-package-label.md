@@ -31,10 +31,10 @@ Store at 20ºC to 25ºC (68ºF to 77ºF).
 [see USP Controlled Room Temperature].
 Protect from light.
 
-R12/18
+R08/2024
 
-Manufactured for: Par Pharmaceutical Chestnut Ridge, NY 10977
+Manufactured for: Endo USA Malvern, PA 19355
 
 Made in France
 
-*Vesanoid is a registered trademark of Roche Laboratories Inc. Par Pharmaceutical is not affiliated with Roche Laboratories Inc.
+*Vesanoid is a registered trademark of Roche Laboratories Inc. Endo, Inc. is not affiliated with Roche Laboratories Inc.
