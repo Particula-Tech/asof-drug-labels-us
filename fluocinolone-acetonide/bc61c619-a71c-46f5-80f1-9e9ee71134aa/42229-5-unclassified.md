@@ -1,6 +1,7 @@
-Manufactured by: Hill Dermaceuticals, Inc.® Sanford, FL 32773 1.800.344.5707
+Manufactured by:
 
-For: Royal Pharmaceuticals, Inc Manasquan, NJ 08736 1.800.510.3401
+Hill Dermaceuticals, Inc. Sanford, Florida 32773
 
-Rev.
-CODE 171A240-1 Date: 10/2013
+For: Royal Pharmaceutical, Inc. Wall, NJ 07719
+
+DERMA-SMOOTHE/FS is a registered trademark of Hill Dermaceuticals, Inc. © 2024 Hill Dermaceuticals, Inc. All rights reserved.
