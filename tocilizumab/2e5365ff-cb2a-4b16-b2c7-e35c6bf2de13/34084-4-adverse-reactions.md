@@ -467,7 +467,6 @@ ALT or AST at or above 5× ULN occurred in 11.7% of patients who received ACTEMR
 The following adverse reactions have been identified during post-approval use of ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Fatal anaphylaxis [see Warnings and Precautions (5.6)]
-- Stevens-Johnson Syndrome
+- Hypersensitivity Reactions: Fatal anaphylaxis, Stevens-Johnson Syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
 - Pancreatitis
 - Drug-induced liver injury, Hepatitis, Hepatic failure, Jaundice [see Warnings and Precautions (5.3)]

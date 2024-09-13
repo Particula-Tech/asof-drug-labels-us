@@ -89,11 +89,11 @@ Neutropenia
 Treatment with ACTEMRA was associated with a higher incidence of neutropenia.
 Infections have been uncommonly reported in association with treatment-related neutropenia in long-term extension studies and postmarketing clinical experience.
 
-- –It is not recommended to initiate ACTEMRA treatment in RA, GCA and SSc-ILD patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
+- – It is not recommended to initiate ACTEMRA treatment in RA, GCA and SSc-ILD patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 - –Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
   For recommended modifications based on ANC results see Dosage and Administration (2.11).
-- –It is not recommended to initiate ACTEMRA treatment in COVID-19 patients with an ANC less than 1000 per mm3.
+- – It is not recommended to initiate ACTEMRA treatment in COVID-19 patients with an ANC less than 1000 per mm3.
   Neutrophils should be monitored.
 
 Thrombocytopenia
@@ -101,11 +101,11 @@ Thrombocytopenia
 Treatment with ACTEMRA was associated with a reduction in platelet counts.
 Treatment-related reduction in platelets was not associated with serious bleeding events in clinical trials [see Adverse Reactions (6.1, 6.2)].
 
-- –It is not recommended to initiate ACTEMRA treatment in RA, GCA and SSc-ILD patients with a platelet count below 100,000 per mm3.
+- – It is not recommended to initiate ACTEMRA treatment in RA, GCA and SSc-ILD patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 - –Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
   For recommended modifications based on platelet counts see Dosage and Administration (2.11).
-- –In COVID-19 patients with a platelet count less than 50,000 per mm3, treatment is not recommended.
+- – In COVID-19 patients with a platelet count less than 50,000 per mm3, treatment is not recommended.
   Platelets should be monitored.
 
 Elevated Liver Enzymes
@@ -118,7 +118,7 @@ Lipid Abnormalities
 Treatment with ACTEMRA was associated with increases in lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol [see Adverse Reactions (6.1, 6.2)].
 
 - –Assess lipid parameters approximately 4 to 8 weeks following initiation of ACTEMRA therapy.
-- –Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
+- – Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
 Patients with Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
@@ -133,7 +133,7 @@ ACTEMRA is an immunosuppressant, and treatment with immunosuppressants may resul
 
 ## 5.6 Hypersensitivity Reactions, Including Anaphylaxis
 
-Hypersensitivity reactions, including anaphylaxis, have been reported in association with ACTEMRA [see Adverse Reactions (6)] and anaphylactic events with a fatal outcome have been reported with intravenous infusion of ACTEMRA.
+Hypersensitivity reactions, including anaphylaxis, have been reported in association with ACTEMRA and anaphylactic events with a fatal outcome have been reported with intravenous infusion of ACTEMRA.
 Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials of intravenous ACTEMRA, 0.2% (8 out of 4009) of patients in the intravenous all-exposure RA population, 0.7% (8 out of 1068) in the subcutaneous 6-month controlled RA trials, and in 0.7% (10 out of 1465) of patients in the subcutaneous all-exposure population.
 In the SJIA controlled trial with intravenous ACTEMRA, 1 out of 112 patients (0.9%) experienced hypersensitivity reactions that required treatment discontinuation.
 In the PJIA controlled trial with intravenous ACTEMRA, 0 out of 188 patients (0%) in the ACTEMRA all-exposure population experienced hypersensitivity reactions that required treatment discontinuation.
@@ -142,11 +142,12 @@ Injection site reactions were categorized separately [see Adverse Reactions (6)]
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous ACTEMRA, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.8)].
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.12)].
+In addition, serious cutaneous reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported in patients with autoinflammatory conditions treated with ACTEMRA.
+
 ACTEMRA for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
 For ACTEMRA subcutaneous injection, advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
-If anaphylaxis or other hypersensitivity reaction occurs, stop administration of ACTEMRA immediately and discontinue ACTEMRA permanently.
-Do not administer ACTEMRA to patients with known hypersensitivity to ACTEMRA [see Contraindications (4) and Adverse Reactions (6)].
+If a hypersensitivity reaction occurs, immediately discontinue ACTEMRA, treat promptly and monitor until signs and symptoms resolve.
 
 ## 5.7 Demyelinating Disorders
 
