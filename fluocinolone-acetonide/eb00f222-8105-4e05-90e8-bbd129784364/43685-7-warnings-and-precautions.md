@@ -1,89 +1,50 @@
-# PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## General:
+## 5.1 Endocrine System Adverse Reactions
 
-Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
-Manifestations of Cushing's syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment.
+Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency.
+Cushing’s syndrome, hyperglycemia, and glucosuria can result from systemic absorption of topical corticosteroids.
 
-Patients applying a topical steroid to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA axis suppression.
-This may be done by using the ACTH stimulation, A.M. plasma cortisol, and urinary free cortisol tests.
+HPA axis suppression and Cushing’s syndrome have been reported in pediatric patients receiving topical corticosteroids.
+Manifestations of adrenal suppression in pediatric patients include linear growth retardation, delayed weight gain, low plasma cortisol levels, and subnormal response to ACTH stimulation.
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [see Use in Specific Populations (8.4)].
 
-If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent corticosteroid.
-Infrequently, signs and symptoms of glucocorticoid insufficiency may occur requiring supplemental systemic corticosteroids.
-For information on systemic supplementation, see prescribing information for those products.
+Conditions which increase systemic absorption include the use of more potent corticosteroids, use over large surface areas, use over prolonged periods, use of occlusive dressings, altered skin barrier, liver failure, and young age.
+Use of more than one corticosteroid-containing product at the same time may increase total systemic corticosteroid exposure.
+Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression.
+The ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression.
 
-Children may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios.
-"(See PRECAUTIONS-Pediatric use)"
+If HPA axis suppression is documented, an attempt should be made to withdraw the drug to reduce the frequency of application, or to substitute a less potent corticosteroid.
+Manifestations of adrenal insufficiency may require supplemental systemic corticosteroid.
+Recovery of HPA axis function is generally prompt upon discontinuation of topical corticosteroids.
 
-Allergic contact dermatitis to any component of topical corticosteroids is usually diagnosed by a failure to heal rather than noting a clinical exacerbation, which may occur with most topical products not containing corticosteroids.
-Such an observation should be corroborated with appropriate diagnostic testing.
-One peanut-sensitive child experienced a flare of his atopic dermatitis after 5 days of twice daily treatment with Derma-Smoothe/FS® Topical Oil (see CLINICAL STUDIES section).
+## 5.2 Local Adverse Reactions
 
-If wheal and flare type reactions (which may be limited to pruritus) or other manifestations of hypersensitivity develop, DermOtic® Oil should be discontinued immediately and appropriate therapy instituted.
+Local adverse reactions may occur with use of topical corticosteroids, including DERMOTIC OIL, and may be more likely to occur with occlusive use, prolonged use, or use of higher potency corticosteroids.
+Some local adverse reactions may be irreversible.
+Reactions may include atrophy, striae, telangiectasias, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria [see Adverse Reactions (6.1)].
 
-If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
-If a favorable response does not occur promptly, use of DermOtic® Oil should be discontinued until the infection has been adequately controlled.
+## 5.3 Ophthalmic Adverse Reactions
 
-DermOtic® Oil is formulated with 48% refined peanut oil NF.
-Peanut oil used in this product is routinely tested for peanut proteins through amino acid analysis; the quantity of amino acids is below 0.5 parts per million (ppm).
-Physicians should use caution in prescribing DermOtic® Oil for peanut-sensitive individuals.
+Use of topical corticosteroids may increase the risks of glaucoma and posterior subcapsular cataract.
+Glaucoma and cataracts have been reported in postmarketing experience with the use of topical corticosteroid products.
+Avoid contact of DERMOTIC OIL with eyes.
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
 
-## Information for Patients:
+## 5.4 Allergic Contact Dermatitis
 
-Patients using topical corticosteroids should receive the following information and instructions:
+Use of topical corticosteroids can cause allergic contact dermatitis.
+Allergic contact dermatitis to any component of topical corticosteroids is usually diagnosed by a failure to heal rather than a clinical exacerbation.
+Clinical diagnosis of allergic contact dermatitis can be confirmed by patch testing.
 
-1. This medication is to be used as directed by the physician.
-   It is for external ear use only.
-   Do not use occlusive dressings.
-2. Avoid contact with the eyes.
-   In case of contact, wash eyes liberally with water.
-3. This medication should not be used for any disorder other than that for which it was prescribed.
-4. Patients should promptly report to their physician any worsening of their skin condition.
-5. As with other corticosteroids, therapy should be discontinued when control is achieved.
-   If no improvement is seen within 2 weeks, contact the physician.
+## 5.5 Concomitant Skin Infections
 
-## Laboratory Tests:
+Use of topical corticosteroids may delay healing or worsen concomitant skin infections.
+Treat concomitant skin infections with an appropriate antimicrobial agent.
+If the infection persists unchanged, discontinue DERMOTIC OIL until the infection has been adequately treated.
 
-The following tests may be helpful in evaluating patients for HPA axis suppression:
+## 5.6 Use in Peanut Sensitive Individuals
 
-ACTH stimulation test A.M. plasma cortisol test Urinary free cortisol test
+Use caution in prescribing DERMOTIC OIL for peanut sensitive individuals [see Description (11)].
 
-## Carcinogenesis, mutagenesis, and impairment of fertility:
-
-Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of DermOtic® Oil.
-Studies have not been performed to evaluate the mutagenic potential of fluocinolone acetonide, the active ingredient in DermOtic® Oil.
-Some corticosteroids have been found to be genotoxic in various genotoxicity tests (i.e. the in vitro human peripheral blood lymphocyte chromosome aberration assay with metabolic activation, the in vivo mouse bone marrow micronucleus assay, the Chinese hamster micronucleus test and the in vitro mouse lymphoma gene mutation assay).
-
-## Pregnancy:
-
-Teratogenic effects: Pregnancy category C: Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
-
-There are no adequate and well-controlled studies in pregnant women on teratogenic effects from DermOtic® Oil.
-Therefore, DermOtic® Oil should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-## Nursing Mothers:
-
-Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when DermOtic® Oil is administered to a nursing woman.
-
-## Pediatric Use:
-
-DermOtic® Oil may be used twice daily for up to 2 weeks in pediatric patients 2 years of age and older with chronic eczematous external otitis.
-
-DermOtic® Oil is not recommended for use on the face (See ADVERSE REACTIONS section).
-
-Because of a higher ratio of skin surface area to body mass, children are at a greater risk than adults of HPA-axis-suppression when they are treated with topical corticosteroids.
-They are therefore also at greater risk of glucocorticosteroid insufficiency after withdrawal of treatment and of Cushing's syndrome while on treatment.
-Adverse effects including striae have been reported with inappropriate use of topical corticosteroids in infants and children.
-(See PRECAUTIONS).
-
-HPA axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Children may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios.
-Manifestations of adrenal suppression in children include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation.
-Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
-
-DermOtic® Oil is formulated with 48% refined peanut oil NF.
-Peanut oil used in this product is routinely tested for peanut proteins through amino acid analysis; the quantity of amino acids is below 0.5 parts per million (ppm).
-Physicians should use caution in prescribing DermOtic® Oil for peanut-sensitive individuals.
+Should signs of hypersensitivity present (wheal and flare reactions, pruritus, or other manifestations), or should disease exacerbations occur, discontinue DERMOTIC OIL immediately and institute appropriate therapy.

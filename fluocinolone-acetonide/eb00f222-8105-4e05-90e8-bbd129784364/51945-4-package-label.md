@@ -4,7 +4,7 @@ NDC 68791-103-20
 
 ​Rx only
 
-​DermOtic®
+​DermOtic® Oil
 
 (fluocinolone acetonide oil) 0.01%
 

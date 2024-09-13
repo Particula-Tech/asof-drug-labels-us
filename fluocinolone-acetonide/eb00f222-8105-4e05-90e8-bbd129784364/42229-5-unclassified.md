@@ -1,9 +1,6 @@
-For Otic Use Only- Not for Ophthalmic Use NDC 68791-103-20
+Manufactured by: Hill Dermaceuticals, Inc. Sanford.
+Florida 32773
 
-Manufactured by: Hill Dermaceuticals, Inc.® Sanford, FL 32773 1.800.344.5707
+For: Royal Pharmaceutical, Inc. Wall, NJ 07719
 
-For: Royal Pharmaceuticals, Inc Manasquan, NJ 08736 1.800.510.3401
-
-CODE: 171A241-2
-
-Date: 01/2020
+DERMOTIC is a registered trademark of Hill Dermaceuticals, Inc. © 2024 Hill Dermaceuticals, Inc. All rights reserved.
