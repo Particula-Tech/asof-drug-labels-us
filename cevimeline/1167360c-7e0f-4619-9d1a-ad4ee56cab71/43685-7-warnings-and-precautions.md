@@ -57,8 +57,6 @@ Females that were treated with cevimeline at dosages up to 45 mg/kg/day from 14 
 
 ## Pregnancy
 
-Pregnancy Category C.
-
 Cevimeline was associated with a reduction in the mean number of implantations when given to pregnant Sprague-Dawley rats from 14 days prior to mating through day seven of gestation at a dosage of 45 mg/kg/day (approximately 5 times the maximum recommended dose for a 60 kg human when compared on the basis of body surface area estimates).
 This effect may have been secondary to maternal toxicity.
 There are no adequate and well-controlled studies in pregnant women.
