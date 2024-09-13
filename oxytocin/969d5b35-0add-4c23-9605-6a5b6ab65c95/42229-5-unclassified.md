@@ -1,13 +1,11 @@
 Rx only.
 
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
-R06/2021
+© 2024 Endo, Inc. or one of its affiliates.
 
-OS116J-01-90-04
-
-3000791J
+Revised: August 2024
