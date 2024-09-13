@@ -11,5 +11,5 @@ The structural formula is:
 
 Argatroban is a white, odorless crystalline powder that is freely soluble in glacial acetic acid, slightly soluble in ethanol, and insoluble in acetone, ethyl acetate, and ether.
 
-Argatroban Injection is a sterile clear, colorless to pale yellow, slightly viscous solution in a single-use amber vial containing 250 mg/2.5 mL of argatroban.
+Argatroban Injection, USP is a sterile clear, colorless to pale yellow, slightly viscous solution in a single-use amber vial containing 250 mg/2.5 mL of argatroban.
 Each mL of sterile, nonpyrogenic solution contains 100 mg argatroban, 300 mg D-sorbitol, and 400 mg dehydrated alcohol in water for injection.

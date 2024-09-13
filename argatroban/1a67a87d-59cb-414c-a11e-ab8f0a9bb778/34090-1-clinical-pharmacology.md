@@ -80,7 +80,7 @@ Average percent recovery of unchanged drug, relative to total dose, was 16% in u
 ### Special Populations:
 
 Hepatic Impairment: The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
-Patients with hepatic impairment were not studied in percutaneous coronary interventions (PCI) trials.
+Patients with hepatic impairment were not studied in percutaneous coronary intervention (PCI) trials.
 At a dose of 2.5 mcg/kg/min, hepatic impairment is associated with decreased clearance and increased elimination half-life of argatroban (to 1.9 mL/kg/min and 181 minutes, respectively, for patients with a Child-Pugh score greater than 6).
 
 Renal Impairment: No dosage adjustment is necessary in patients with renal dysfunction.

@@ -56,7 +56,7 @@ BKA = below-the-knee amputation.
 Table 5 gives an overview of the most frequently observed non-hemorrhagic events sorted by decreasing frequency of occurrence (greater than or equal to 2%) among argatroban-treated HIT/HITTS patients.
 
 Table 5.
-Non-hemorrhagic Adverse Events in PatientsaWith HITb
+Non-hemorrhagic Adverse Events in Patientsa With HITb
 
 |  | Argatroban-Treated Patients (Study 1 and Study 2) (n = 568) % | Historical Controlc (n = 193) % |
 | --- | --- | --- |
@@ -170,7 +170,7 @@ Serious Adverse Events in Patients With HIT Undergoing PCIa
 
 a) Individual events may also have been reported elsewhere (see Table 6 and 7).
 
-b)91 patients underwent 112 procedures.
+b) 91 patients underwent 112 procedures.
 Some patients may have experienced more than 1 event.
 
 Intracranial Bleeding in Other Populations

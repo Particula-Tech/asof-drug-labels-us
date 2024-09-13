@@ -10,7 +10,7 @@ In animal reproduction studies, there was no evidence of adverse developmental o
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 ### Clinical Considerations
 
@@ -41,7 +41,7 @@ Risk Summary
 
 There are no data on the presence of argatroban in human milk, or its effects on milk production.
 Argatroban is present in rat milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Argatroban and any potential adverse effects on the breastfed infant from Argatroban or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for argatroban and any potential adverse effects on the breastfed infant from argatroban or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
