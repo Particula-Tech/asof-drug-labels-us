@@ -2,10 +2,12 @@ Pharmacy Bulk Package – Not for Direct Infusion
 
 Rx only.
 
-Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
+Manufactured for:
 
-R11/2020
+Endo USA
 
-OS130J-01-90-03
+Malvern, PA 19355
 
-3003253D
+© 2024 Endo, Inc. or one of its affiliates.
+
+Revised: August 2024

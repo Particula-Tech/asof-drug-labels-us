@@ -7,4 +7,4 @@ NDC 42023-130-06 Packages of six 50 mL Pharmacy Bulk Packages, each containing 1
 ## STORAGE
 
 Store between 20° to 25°C (68° to 77°F).
-See USP Controlled Room Temperature.
+(See USP Controlled Room Temperature.)
