@@ -1,28 +1,40 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following local adverse reactions have been reported infrequently with topical corticosteroids.
-They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids.
-These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.
-One peanut sensitive child experienced a flare of his atopic dermatitis after 5 days of twice daily treatment with Derma-Smoothe/FS®.
+The following serious adverse reactions are discussed in more detail in other sections of the labeling: • Endocrine System Adverse Reactions [see Warnings and Precautions (5.1)] • Local Adverse Reactions [see Warnings and Precautions (5.2)] • Ophthalmic Adverse Reactions [see Warnings and Precautions (5.3)]
 
-A post marketing (open-label) safety study was conducted in 58 children to evaluate the local safety of Derma-Smoothe/FS® when applied twice daily for 4 weeks to the face in children (2 to 12 years) with moderate to severe atopic dermatitis (see Table of Incidence of Adverse Events).
+## 6.1 Clinical Studies Experience
 
-Incidence of Adverse Events (%) N=58
+Because clinical trials are conducted under widely varying condition, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-| Adverse Event (AE)The number of individual adverse events reported does not necessarily reflect the number of individual subjects, since one subject could have multiple reporting of an adverse event. | # of patients (%) | Day 14 | Day 28End of Treatment | Day 56Four Weeks Post Treatment |
-| --- | --- | --- | --- | --- |
-| Any AE | 15 (25.9) | 6 (10.3) | 7 (12.1) | 7 (12.1) |
-| Telangiectasia | 5 (8.6) | 3 (5.2) | 4 (6.9) | 2 (3.5) |
-| Erythema | 3 (5.2) |  |  | 3 (5.2) |
-| Itching | 3 (5.2) |  |  | 3 (5.2) |
-| Irritation | 3 (5.2) |  |  | 3 (5.2) |
-| Burning | 3 (5.2) |  |  | 3 (5.2) |
-| Hypopigmentation | 2 (3.5) | 2 (3.5) |  |  |
-| Shiny Skin | 1 (1.7) |  | 1 (1.7) |  |
-| Secondary atopic dermatitis | 1 (1.7) |  |  | 1 (1.7) |
-| Papules and pustules | 1 (1.7) |  |  | 1 (1.7) |
-| Keratosis pilaris | 1 (1.7) |  |  | 1 (1.7) |
-| Folliculitis | 1 (1.7) |  | 1 (1.7) |  |
-| Facial herpes simplex | 1 (1.7) | 1 (1.7) |  |  |
-| Acneiform eruption | 1 (1.7) |  | 1 (1.7) |  |
-| Ear infection | 1 (1.7) |  | 1 (1.7) |  |
+An open-label safety study was conducted in 29 pediatric subjects 3 months to 2 years old to assess the HPA axis by ACTH stimulation testing following use of the formulation of DERMA-SMOOTHE/FS Scalp Oil twice daily for 4 weeks.
+DERMA-SMOOTHE/FS Scalp Oil is not approved for use in pediatric patients for the treatment of psoriasis of the scalp.
+The most common adverse reactions were reported in the study:
+
+Table 1: Adverse Reactions in ≥2% Pediatric Subjects 3 Months to 2 Years of Age Treated with the Formulation of DERMA-SMOOTHE/FS Scalp Oil, N=30Includes one subject who withdrew at Week 2
+
+| Adverse Reaction |  | n (%) |  |
+| --- | --- | --- | --- |
+| Cough |  | 6 (20) |  |
+| Rhinorrhea |  | 4 (13) |  |
+| Pyrexia |  | 3 (10) |  |
+| Nasopharyngitis |  | 2 (7) |  |
+| Hypopigmentation |  | 2 (7) |  |
+| Abscess |  | 1 (3) |  |
+| Atopic Dermatitis |  | 1 (3) |  |
+| Eczema |  | 1 (3) |  |
+| Hyperpigmentation |  | 1 (3) |  |
+| Molluscum |  | 1 (3) |  |
+| Rash |  | 1 (3) |  |
+| Diarrhea |  | 1 (3) |  |
+| Otitis Media |  | 1 (3) |  |
+| URI |  | 1 (3) |  |
+| Vomiting |  | 1 (3) |  |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of products containing topical corticosteroids.
+Because postmarketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Endocrine Disorders: HPA axis suppression and Cushing’s syndrome
+- Eye Disorders: glaucoma and cataracts
+- Nervous System Disorders: intracranial hypertension including bulging fontanelles, headaches, and bilateral papilledema

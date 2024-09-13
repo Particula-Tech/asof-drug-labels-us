@@ -1,18 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED / STORAGE AND HANDLING
 
-Derma-Smoothe/FS® is supplied in bottles containing 4 fluid ounces.
-It is labeled as Scalp Oil (NDC # 68791-102-04).
+DERMA-SMOOTHE/FS Scalp Oil (fluocinolone acetonide) topical oil, 0.01% (NDC # 68791-102-04) is supplied in bottles containing 4 fluid ounces and with 2 shower caps.
 
-Scalp Oil is supplied with 2 shower caps.
-
-Keep tightly closed.
-Store at 25°C (68° to 77°F); excursions permitted to 15°–30°C (59°–86° F) [see USP Controlled Room Temperature].
-
-CAUTION: Rx only
-
-Manufactured by: Hill Dermaceuticals, Inc.® Sanford, FL 32773 1.800.344.5707
-
-For: Royal Pharmaceuticals, Inc Manasquan, NJ 08736 1.800.510.3401
-
-Rev.
-CODE 171A239-1 Date: 1/2014
+Storage: Keep tightly closed.
+Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].

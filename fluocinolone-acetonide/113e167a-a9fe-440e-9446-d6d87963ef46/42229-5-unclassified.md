@@ -1,1 +1,5 @@
-For Topical Use Only- Not for Oral, Ophthalmic, or Intravaginal Use 68791-102-04
+Manufactured by: Hill Dermaceuticals, Inc. Sanford, Florida 32773
+
+For: Royal Pharmaceutical, Inc. Wall, NJ 07719
+
+DERMA-SMOOTHE/FS is a registered trademark of Hill Dermaceuticals, Inc. © 2024 Hill Dermaceuticals, Inc. All rights reserved.

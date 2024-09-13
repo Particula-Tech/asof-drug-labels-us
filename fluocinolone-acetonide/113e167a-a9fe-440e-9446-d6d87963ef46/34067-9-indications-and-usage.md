@@ -1,5 +1,3 @@
-# INDICATION AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Derma-Smoothe/FS® is a low to medium potency corticosteroid indicated:
-
-In adult patients for the treatment of psoriasis of the scalp (Scalp Oil).
+DERMA-SMOOTHE/FS® Scalp Oil is indicated for the treatment of psoriasis of the scalp in adults.
