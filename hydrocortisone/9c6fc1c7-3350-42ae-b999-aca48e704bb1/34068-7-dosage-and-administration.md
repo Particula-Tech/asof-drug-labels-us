@@ -1,7 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Therapy with this product should be limited to 10 days.
-(See WARNINGS.)
+Therapy with this product should be limited to 10 days (See WARNINGS).
 
 The external auditory canal should be thoroughly cleansed and dried with a sterile cotton applicator.
 

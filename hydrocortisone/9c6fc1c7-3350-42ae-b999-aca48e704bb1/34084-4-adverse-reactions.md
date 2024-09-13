@@ -7,10 +7,10 @@ Ototoxicity (see WARNINGS section) and nephrotoxicity have also been reported.
 Adverse reactions have occurred with topical use of antibiotic combinations.
 Exact incidence figures are not available since no denominator of treated patients is available.
 The reaction occurring most often is allergic sensitization.
-In one clinical study, using a 20% neomycin patch, neomycin-induced allergic skin reactions occurred in two of 2,175 (0.09%) individuals in the general populaton.
+In one clinical study, using a 20% neomycin patch, neomycin-induced allergic skin reactions occurred in two of 2,175 (0.09%) individuals in the general population.
 In another study the incidence was found to be approximately 1%.
 
 The following local adverse events have been reported with topical corticosteroids, especially under occlusive dressings: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.
 
 For medical advice about adverse reactions contact your medical professional.
-To report SUSPECTED ADVERSE REACTIONS, contact Endo Pharmaceuticals Inc. at 1-800-462-3636 or MEDWATCH at 1-800-FDA-1088 or http://www.fda.gov/medwatch/.
+To report SUSPECTED ADVERSE REACTIONS, contact Endo at 1-800-462-3636 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

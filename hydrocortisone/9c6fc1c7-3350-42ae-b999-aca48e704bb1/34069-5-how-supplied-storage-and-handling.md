@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Cortisporin®TC is supplied as:
+Cortisporin® TC Otic is supplied as:
 
 NDC 63481-529-10 10 mL bottle with dropper
 
@@ -11,6 +11,6 @@ A sterilized dropper-cap assembly for use on the bottle of suspension is include
 
 Shake well before using.
 
-Store at 20°–25°C (68°–77°F).
+Store at 20° to 25°C (68° to 77°F).
 
 Rx only.

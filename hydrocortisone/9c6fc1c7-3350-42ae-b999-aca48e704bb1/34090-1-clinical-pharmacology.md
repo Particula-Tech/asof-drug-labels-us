@@ -3,7 +3,7 @@
 Colistin sulfate is a polypeptide antibiotic which penetrates into and disrupts the bacterial cell membrane.
 Neomycin sulfate is an aminoglycoside antibiotic which inhibits protein synthesis, disrupting the normal cycle of ribosomal function.
 Hydrocortisone acetate is a corticosteroid hormone which is thought to act by regulating the rate of protein synthesis; it controls inflammation, edema, pruritus and other dermal reactions.
-Cortiscosteroids suppress the inflammatory response to a variety of agents and they may delay healing.
+Corticosteroids suppress the inflammatory response to a variety of agents and they may delay healing.
 Since corticoids may inhibit the body's defense mechanism against infection, a concomitant antimicrobial drug may be used when this inhibition is considered to be clinically significant in a particular case.
 
 The relative potency of corticosteroids depends on the molecular structure, concentration, and release from the vehicle.

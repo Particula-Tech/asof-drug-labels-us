@@ -1,7 +1,5 @@
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Manufactured for: Endo USA Malvern, PA 19355
 
-OS529E-01-90-01
+© 2024 Endo, Inc. or one of its affiliates.
 
-I05/2018
-
-3003827
+Revised: 07/2024

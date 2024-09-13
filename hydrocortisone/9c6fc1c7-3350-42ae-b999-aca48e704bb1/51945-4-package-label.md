@@ -1,3 +1,1 @@
-# PRINCIPAL DISPLAY PANEL - 10 mL Bottle Label
-
 # PRINCIPAL DISPLAY PANEL - 10 mL Bottle Carton
