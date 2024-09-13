@@ -1,15 +1,13 @@
 Rx only.
 
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-I06/2023
+© 2024 Endo, Inc. or one of its affiliates.
 
-OS116N-01-90-01
-
-3004003
+R08/2024
