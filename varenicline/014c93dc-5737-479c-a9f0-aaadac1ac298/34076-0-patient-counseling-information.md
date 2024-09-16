@@ -6,13 +6,13 @@
 - •Instruct patients to wipe the nasal applicator with a clean tissue after each use.
 - •Instruct patients to not shake or freeze the bottle.
 
-Manufactured for: Oyster Point Pharma, Inc, 202 Carnegie Center, Suite 109, Princeton, NJ 08540
+Manufactured for: Oyster Point Pharma, Inc., a Viatris company, 202 Carnegie Center, Suite 106, Princeton, NJ 08540
 
 Copyrights and Trademarks are property of their respective owners.
 
-TYRVAYA™ is a trademark of Oyster Point Pharma, Inc.
+TYRVAYA® is a registered trademark of Oyster Point Pharma, Inc., a Viatris company.
 
-TYRVAYA™ and/or the use of TYRVAYA™ in a method may be covered by one or more patents or patent applications, available at www.oysterpointrx.com/patent-notices.
+TYRVAYA® and/or the use of TYRVAYA® in a method may be covered by one or more patents or patent applications, available at www.oysterpointrx.com/patent-notices.
 
-©2021 Oyster Point Pharma, Inc. All Rights Reserved.
-Issued: Oct/2021
+©2023 Oyster Point Pharma, Inc., a Viatris Company.
+All Rights Reserved.
