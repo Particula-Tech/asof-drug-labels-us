@@ -5,19 +5,30 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as gabapentin, during pregnancy.
-Encourage women who are taking gabapentin during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll free number 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+Encourage women who are taking gabapentin during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll-free number 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with the use of gabapentin in pregnant women.
+The totality of available data from published prospective and retrospective cohort studies pertaining to gabapentin use during pregnancy has not indicated an increased risk of major birth defects or miscarriage.
+There are important methodological limitations hindering interpretation of these studies [see Data].
 In nonclinical studies in mice, rats, and rabbits, gabapentin was developmentally toxic (increased fetal skeletal and visceral abnormalities, and increased embryofetal mortality) when administered to pregnant animals at doses similar to or lower than those used clinically [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
-Animal data
+Human Data
+
+An observational study based on routinely collected data from administrative and medical registers in Denmark, Finland, Norway, and Sweden, compared the prevalence of major congenital malformations in approximately 1,500 pregnancies exposed to gabapentin monotherapy in the first trimester to pregnancies unexposed to antiepileptics (n=2,995,816) and pregnancies exposed to lamotrigine monotherapy in the first trimester (n=7,582).
+The adjusted prevalence ratios in a pooled analysis were 1.00 (95% CI: 0.80 to 1.24) compared to pregnancies unexposed to antiepileptics and 1.29 (95% CI: 1.00 to 1.67) compared to pregnancies exposed to lamotrigine monotherapy in the first trimester.
+
+Data from another observational study in the U.S. based on Medicaid data, which compared the risk for major congenital malformations in more than 4,600 pregnancies exposed to gabapentin during the first trimester to unexposed pregnancies (n=1,753,865), estimated an adjusted relative risk of 1.07 (95% CI: 0.94 to 1.21).
+
+The data from these observational studies should be interpreted with caution due to the potential for exposure misclassification, outcome misclassification, and residual confounding, including by underlying disease.
+
+Animal Data
 
 When pregnant mice received oral doses of gabapentin (500, 1000, or 3000 mg/kg/day) during the period of organogenesis, embryofetal toxicity (increased incidences of skeletal variations) was observed at the two highest doses.
 The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3600 mg on a body surface area (mg/m2) basis.
@@ -44,6 +55,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of gabapentin in the management of postherpetic neuralgia in pediatric patients have not been established.
+
 Safety and effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established [see Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use

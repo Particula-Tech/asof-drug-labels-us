@@ -114,8 +114,9 @@ Morphine pharmacokinetic parameter values were not affected by administration of
 The magnitude of interaction at other doses is not known.
 Cimetidine In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
 Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
-This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
+This decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
+
 Oral Contraceptive Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without coadministration of gabapentin (400 mg three times a day; N=13).
 The Cmax of norethindrone was 13% higher when it was coadministered with gabapentin; this interaction is not expected to be of clinical importance.
 Antacid (Maalox®) (aluminum hydroxide, magnesium hydroxide) Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N=16) by about 20%.
