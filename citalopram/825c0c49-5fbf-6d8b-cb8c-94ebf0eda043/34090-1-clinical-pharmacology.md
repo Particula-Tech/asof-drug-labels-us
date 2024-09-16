@@ -18,7 +18,7 @@ Based on the established exposure-response relationship, the predicted QTcNi cha
 
 ## 12.3 Pharmacokinetics
 
-The single-and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10 to 40 mg/day.
+The single- and multiple-dose pharmacokinetics of citalopram are linear and dose-proportional in a dose range of 10 to 40 mg/day.
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
 With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
@@ -94,7 +94,7 @@ However, coadministration of citalopram and the potent CYP3A4 inhibitor ketocona
 
 #### Cimetidine
 
-In subjects who had received 21 days of 40 mg/day citalopram tablets, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively [seeDosage and Administration (2), Warnings and Precautions (5.2), Drug Interactions (7)].
+In subjects who had received 21 days of 40 mg/day citalopram tablets, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively [see Dosage and Administration (2), Warnings and Precautions (5.2), Drug Interactions (7)].
 
 #### CYP2D6 Inhibitors
 

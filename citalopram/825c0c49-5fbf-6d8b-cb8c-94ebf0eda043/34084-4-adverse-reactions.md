@@ -114,11 +114,11 @@ Table 4: Adverse Reactions (≥ 2%) Related to Sexual Dysfunction in Citalopram 
 
 In female depressed patients receiving citalopram tablets, the reported incidence of decreased libido and anorgasmia was 1.3% (n = 638 females) and 1.1% (n = 252 females), respectively.
 
-Weight Changes
+### Weight Changes
 
 Patients treated with citalopram tablets in controlled trials experienced a weight loss of about 0.5 kg compared to no change for placebo patients.
 
-ECG Changes
+### ECG Changes
 
 In a thorough QT study, citalopram tablets were found to be associated with a dose-dependent increase in the QTc interval.
 
@@ -128,60 +128,60 @@ None of the patients in the placebo group had a post-dose QTcF > 500 msec compar
 The incidence of tachycardic outliers was 0.5% in the citalopram tablets group and 0.4% in the placebo group.
 The incidence of bradycardic outliers was 0.9% in the citalopram tablets group and 0.4% in the placebo group.
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Citalopram Tablets
+### Other Adverse Reactions Observed During the Premarketing Evaluation of Citalopram Tablets
 
 The following list of adverse reactions does not include reactions that are: 1) included in Table 3 or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, and those occurring in only one patient.
 
 Adverse reactions are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in less than 1/100 patients to 1/1000 patients; rare adverse reactions are those occurring in fewer than 1/1000 patients.
 
-Cardiovascular: Frequent: tachycardia, postural hypotension, hypotension.
+Cardiovascular - Frequent: tachycardia, postural hypotension, hypotension.
 Infrequent: hypertension, bradycardia, edema (extremities), angina pectoris, extrasystoles, cardiac failure, flushing, myocardial infarction, cerebrovascular accident, myocardial ischemia.
 Rare: transient ischemic attack, phlebitis, atrial fibrillation, cardiac arrest, bundle branch block.
 
-Central and Peripheral Nervous System Disorders: Frequent: paresthesia, migraine.
+Central and Peripheral Nervous System Disorders - Frequent: paresthesia, migraine.
 Infrequent: hyperkinesia, vertigo, hypertonia, extrapyramidal disorder, leg cramps, involuntary muscle contractions, hypokinesia, neuralgia, dystonia, abnormal gait, hypoesthesia, ataxia.
 Rare: abnormal coordination, hyperesthesia, ptosis, stupor.
 
-Endocrine Disorders: Rare: hypothyroidism, goiter, gynecomastia.
+Endocrine Disorders - Rare: hypothyroidism, goiter, gynecomastia.
 
-Gastrointestinal Disorders: Frequent: saliva increased, flatulence.
+Gastrointestinal Disorders - Frequent: saliva increased, flatulence.
 Infrequent: gastritis, gastroenteritis, stomatitis, eructation, hemorrhoids, dysphagia, teeth grinding, gingivitis, esophagitis.
 Rare: colitis, gastric ulcer, cholecystitis, cholelithiasis, duodenal ulcer, gastroesophageal reflux, glossitis, jaundice, diverticulitis, rectal hemorrhage, hiccups.
 
-General: Infrequent: hot flushes, rigors, alcohol intolerance, syncope, influenza-like symptoms.
+General - Infrequent: hot flushes, rigors, alcohol intolerance, syncope, influenza-like symptoms.
 Rare: hay fever.
 
-Hemic and Lymphatic Disorders: Infrequent: purpura, anemia, epistaxis, leukocytosis, leucopenia, lymphadenopathy.
+Hemic and Lymphatic Disorders - Infrequent: purpura, anemia, epistaxis, leukocytosis, leucopenia, lymphadenopathy.
 Rare: pulmonary embolism, granulocytopenia, lymphocytosis, lymphopenia, hypochromic anemia, coagulation disorder, gingival bleeding.
 
-Metabolic and Nutritional Disorders: Frequent: decreased weight, increased weight.
+Metabolic and Nutritional Disorders - Frequent: decreased weight, increased weight.
 Infrequent: increased hepatic enzymes, thirst, dry eyes, increased alkaline phosphatase, abnormal glucose tolerance.
 Rare: bilirubinemia, hypokalemia, obesity, hypoglycemia, hepatitis, dehydration.
 
-Musculoskeletal System Disorders: Infrequent: arthritis, muscle weakness, skeletal pain.
+Musculoskeletal System Disorders - Infrequent: arthritis, muscle weakness, skeletal pain.
 Rare: bursitis, osteoporosis.
 
-Psychiatric Disorders: Frequent: impaired concentration, amnesia, apathy, depression, increased appetite, aggravated depression, suicide attempt, confusion.
+Psychiatric Disorders - Frequent: impaired concentration, amnesia, apathy, depression, increased appetite, aggravated depression, suicide attempt, confusion.
 Infrequent: increased libido, aggressive reaction, paroniria, drug dependence, depersonalization, hallucination, euphoria, psychotic depression, delusion, paranoid reaction, emotional lability, panic reaction, psychosis.
 Rare: catatonic reaction, melancholia.
 
-Reproductive Disorders/Female*: Frequent: amenorrhea.
+Reproductive Disorders/Female* - Frequent: amenorrhea.
 Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage.
 (* % based on female subjects only: 2955)
 
-Respiratory System Disorders: Frequent: coughing.
+Respiratory System Disorders - Frequent: coughing.
 Infrequent: bronchitis, dyspnea, pneumonia.
 Rare: asthma, laryngitis, bronchospasm, pneumonitis, sputum increased.
 
-Skin and Appendages Disorders: Frequent: rash, pruritus.
+Skin and Appendages Disorders - Frequent: rash, pruritus.
 Infrequent: photosensitivity reaction, urticaria, acne, skin discoloration, eczema, alopecia, dermatitis, skin dry, psoriasis.
 Rare: hypertrichosis, decreased sweating, melanosis, keratitis, cellulitis, pruritus ani.
 
-Special Senses: Frequent: abnormal accommodation, taste perversion.
+Special Senses - Frequent: abnormal accommodation, taste perversion.
 Infrequent: tinnitus, conjunctivitis, eye pain.
 Rare: mydriasis, photophobia, diplopia, abnormal lacrimation, cataract, taste loss.
 
-Urinary System Disorders: Frequent: polyuria.
+Urinary System Disorders - Frequent: polyuria.
 Infrequent: micturition frequency, urinary incontinence, urinary retention, dysuria.
 Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal pain.
 
