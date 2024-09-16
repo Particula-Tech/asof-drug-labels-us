@@ -1,11 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ROXYBOND (oxycodone hydrochloride) tablets are supplied as 5 mg, 15 mg, and 30 mg strength round and color coated tablets with ink-prints on one side.
+ROXYBOND (oxycodone hydrochloride) tablets are supplied as 5 mg, 10 mg, 15 mg, and 30 mg strength round and color coated tablets with ink-prints on one side.
 The tablets are packaged in 100 tablet opaque HDPE bottles.
 
 | NDC | Strength | Tablet Shape | Tablet Color | Ink-Print on Tablet Side 1 | Ink-Print on Tablet Side 2 |
 | --- | --- | --- | --- | --- | --- |
 | 81140-101-10 | 5 mg | Round coated tablets | White | IDT/O 5 | None |
+| 81140-104-10 | 10 mg | Pink | IDT/O 10 | None |  |
 | 81140-102-10 | 15 mg | Green | IDT/O 15 | None |  |
 | 81140-103-10 | 30 mg | Blue | IDT/O 30 | None |  |
 
