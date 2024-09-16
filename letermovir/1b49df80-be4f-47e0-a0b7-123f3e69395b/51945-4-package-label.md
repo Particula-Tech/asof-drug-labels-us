@@ -6,8 +6,6 @@ PREVYMIS® (letermovir) tablets
 
 240 mg per tablet
 
-1 tablet a day 28-day supply
-
 Rx only
 
 28 Tablets
@@ -103,3 +101,39 @@ Rx only
 
 Single-dose vial.
 Discard unused portion.
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Oral Pellets Carton
+
+NDC 0006-5086-01
+
+PREVYMIS®
+
+(letermovir) oral pellets
+
+20 mg per packet
+
+Each packet contains 20 mg letermovir.
+
+DIRECTIONS FOR USE: See enclosed Instructions for Use booklet and prescribing information.
+
+Rx only
+
+30 packets
+
+# PRINCIPAL DISPLAY PANEL - 120 mg Oral Pellets Carton
+
+NDC 0006-5085-01
+
+PREVYMIS®
+
+(letermovir) oral pellets
+
+120 mg per packet
+
+Each packet contains 120 mg letermovir
+
+DIRECTIONS FOR USE: See enclosed Instructions for Use booklet and prescribing information.
+
+Rx only
+
+30 packets

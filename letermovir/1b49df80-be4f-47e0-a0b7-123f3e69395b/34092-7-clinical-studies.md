@@ -2,15 +2,16 @@
 
 ## 14.1 Overview of Clinical Studies
 
-An overview of the trials contributing to the assessment of efficacy and safety of PREVYMIS in HSCT and kidney transplant recipients is provided in Table 8.
+An overview of the trials contributing to the assessment of efficacy and safety of PREVYMIS in HSCT and kidney transplant recipients is provided in Table 17.
 
-Table: 8 Trials Conducted with PREVYMIS
+Table 17: Trials Conducted with PREVYMIS
 
-| Trial (NCT Number) | Population | Trial Arms (N)N represents the number of subjects treated. | Duration of Prophylaxis Post-Transplant | Primary Endpoint |
+| Trial (NCT Number) | Population | Trial Arms (N)N represents the number of subjects treated. | Duration of Prophylaxis Post-Transplant | Efficacy Endpoint |
 | --- | --- | --- | --- | --- |
 | P001 (NCT02137772) | Adult allogeneic HSCT recipients [R+] | PREVYMIS (373) Placebo (192) | Through Week 14 | Clinically significant CMV infection through Week 24 post-HSCT |
 | P040 (NCT03930615) | Adult allogeneic HSCT recipients [R+] at risk for late CMV infection and disease | PREVYMIS (144) Placebo (74) | Extension of prophylaxis from Week 14 through Week 28 | Clinically significant CMV infection through Week 28 post-HSCT |
 | P002 (NCT03443869) | Adult kidney transplant recipients [D+/R-] | PREVYMIS (292) Valganciclovir (297) | Through Week 28 | CMV disease through Week 52 post-kidney transplant |
+| P030 (NCT03940586) | Pediatric allogeneic HSCT recipients | PREVYMIS (63) | Through Week 14 | Clinically significant CMV infection through Week 24 post-HSCT |
 
 ## 14.2 Adult CMV-seropositive Recipients [R+] of an Allogeneic Hematopoietic Stem Cell Transplant (Trial P001 and Trial P040)
 
@@ -46,9 +47,9 @@ The protocol-specified guidance for CMV DNA thresholds for the initiation of PET
 From Week 14 through Week 24, the threshold was >300 copies/mL for both high and low risk strata subjects.
 The Non-Completer=Failure (NC=F) approach was used, where subjects who discontinued from the trial prior to Week 24 post-HSCT or had a missing outcome at Week 24 post-HSCT were counted as failures.
 
-Efficacy results from Trial P001 are shown in Table 9.
+Efficacy results from Trial P001 are shown in Table 18.
 
-Table 9: Trial P001 Incidence of Clinically Significant CMV Infection in HSCT Recipients (NC=F Approach, FAS Population) Through Week 24
+Table 18: Trial P001 Incidence of Clinically Significant CMV Infection in HSCT Recipients (NC=F Approach, FAS Population) Through Week 24
 
 | Parameter | PREVYMIS (N=325) | Placebo (N=170) |
 | --- | --- | --- |
@@ -66,7 +67,7 @@ Table 9: Trial P001 Incidence of Clinically Significant CMV Infection in HSCT Re
 Efficacy results were consistent across high and low risk strata for CMV reactivation.
 The time to clinically significant CMV infection is shown in Figure 1.
 Among subjects in the PREVYMIS group, the cumulative rate of clinically significant CMV infection increased from 6.8% at the end of prophylaxis (Week 14) to 18.9% at Week 24.
-In the placebo group, the cumulative rate of clinically significant CMV infection increased from 41.3% at Week 14 to 44.3% at Week 24 [see Dosage and Administration (2.3)].
+In the placebo group, the cumulative rate of clinically significant CMV infection increased from 41.3% at Week 14 to 44.3% at Week 24 [see Dosage and Administration (2.2)].
 
 | Figure 1: P001: Kaplan-Meier Plot of Time to Onset of Clinically Significant CMV Infection Through Week 24 Post-Transplant in HSCT Recipients (FAS Population) |
 | --- |
@@ -101,10 +102,10 @@ The Observed Failure (OF) approach was used, where subjects who discontinued pre
 The number of subjects who discontinued from the study before Week 28 without viremia was 14 (9.7%) in the PREVYMIS arm and 0 in the placebo arm.
 The number of subjects with a missing outcome in the Week 28 visit window was 3 (2.1%) in the PREVYMIS arm and 4 (5.4%) in the placebo arm, none had prior viremia.
 
-Efficacy results from Trial P040 are shown in Table 10.
+Efficacy results from Trial P040 are shown in Table 19.
 Efficacy was consistent across subgroups based on participant characteristics (age, gender, race) and risk factors for late CMV infection and disease.
 
-Table 10: Trial P040 Efficacy Results in HSCT Recipients at Risk for Late CMV Infection and Disease (OF Approach, FAS Population)
+Table 19: Trial P040 Efficacy Results in HSCT Recipients at Risk for Late CMV Infection and Disease (OF Approach, FAS Population)
 
 | Parameter | PREVYMIS (~200 days PREVYMIS) (N=144) | Placebo (~100 days PREVYMIS) (N=74) |
 | --- | --- | --- |
@@ -121,7 +122,7 @@ Table 10: Trial P040 Efficacy Results in HSCT Recipients at Risk for Late CMV In
 The time to clinically significant CMV infection is shown in Figure 2.
 Among subjects in the PREVYMIS group, the cumulative rate of clinically significant CMV infection increased from 1.6% at the end of prophylaxis (Week 28) to 15.6% at Week 38.
 In the placebo group, the cumulative rate of clinically significant CMV infection increased from 17.6% at Week 28 to 19.0% at Week 38.
-There were no additional cases of clinically significant CMV infection in either group between Weeks 38 and 48 [see Dosage and Administration (2.3)].
+There were no additional cases of clinically significant CMV infection in either group between Weeks 38 and 48 [see Dosage and Administration (2.2)].
 
 | Figure 2: Trial P040 Kaplan-Meier Plot of Time to Onset of Clinically Significant CMV Infection From Week 14 Through Week 48 Post-transplant in HSCT Recipients at Risk for Late CMV Infection and Disease (FAS Population) |
 | --- |
@@ -150,9 +151,9 @@ The Observed Failure (OF) approach was used, where subjects who discontinued pre
 The number of subjects who discontinued from the study before Week 52 was 32 (11%) in the PREVYMIS arm and 28 (9%) in the valganciclovir arm.
 The number of subjects with a missing outcome in the Week 52 visit window was 24 (8%) in the PREVYMIS arm and 25 (8%) in the valganciclovir arm.
 
-Efficacy results from Trial P002 are shown in Table 11.
+Efficacy results from Trial P002 are shown in Table 20.
 
-Table 11: Trial P002 Incidence of CMV Disease in Kidney Transplant Recipients (OF Approach, FAS Population) Through Week 52
+Table 20: Trial P002 Incidence of CMV Disease in Kidney Transplant Recipients (OF Approach, FAS Population) Through Week 52
 
 | Parameter | PREVYMIS (N=289) | Valganciclovir (N=297) |
 | --- | --- | --- |
@@ -166,3 +167,19 @@ Efficacy was comparable across all subgroups, including the use/nonuse of highly
 
 In an exploratory analysis of the incidence of CMV disease through Week 28 post-transplant, the difference (PREVYMIS – Valganciclovir) was -1.7% with 95% CI of (-3.4, 0.1).
 No subjects in the PREVYMIS group experienced CMV disease through Week 28 post-transplant (end of treatment period) compared with 5 subjects in the valganciclovir group.
+
+## 14.4 Pediatric Recipients of an Allogeneic HSCT (Trial P030)
+
+Sixty-three children 2 months to less than 18 years of age who had an allogeneic HSCT were enrolled in a multicenter, open-label, single-arm pharmacokinetic, safety and effectiveness study of PREVYMIS (P030, NCT03940586).
+Subjects received PREVYMIS daily either orally or intravenously for CMV prophylaxis within 28 days post-HSCT through Week 14 post-HSCT.
+The intravenous formulation was used for up to four weeks in subjects who were unable to take oral therapy.
+The daily doses of PREVYMIS were based on body weight [see Dosage and Administration (2.3, 2.5)].
+Among the 63 treated subjects, 8 were 2 months to less than 2 years of age, 27 were 2 to less than 12 years of age and 28 were 12 to less than 18 years of age.
+The median age was 11 years; 70% were male; 70% were White; 14% were Asian; 5% were Black; and 22% were Hispanic or Latino [see Use in Specific Populations (8.4)].
+
+The efficacy analyses population consisted of 56 subjects who received at least one dose of study drug and had no detectable CMV DNA at baseline.
+The proportion of subjects who failed CMV prophylaxis through Week 24 post-HSCT was 25% (14 of the 56 subjects).
+Six subjects had initiation of pre-emptive therapy based on CMV viremia and 8 subjects discontinued from the study before Week 24.
+None of the subjects had CMV end-organ disease.
+
+PREVYMIS is indicated for pediatric recipients of an allogeneic HSCT aged 6 months and older and weighing at least 6 kg.

@@ -20,9 +20,9 @@ Among those subjects who experienced one or more cardiac adverse events, 85% of 
 
 Common Adverse Events
 
-The rate of adverse events occurring in at least 10% of subjects in the PREVYMIS group and at a frequency at least 2% greater than placebo are outlined in Table 1.
+The rate of adverse events occurring in at least 10% of subjects in the PREVYMIS group and at a frequency at least 2% greater than placebo are outlined in Table 8.
 
-Table 1: Trial P001 All Grade Adverse Events Reported in ≥ 10% of PREVYMIS-Treated HSCT Recipients at a Frequency at least 2% Greater than Placebo
+Table 8: Trial P001 All Grade Adverse Events Reported in ≥ 10% of PREVYMIS-Treated HSCT Recipients at a Frequency at least 2% Greater than Placebo
 
 | Adverse Events | PREVYMIS (N=373) | Placebo (N=192) |
 | --- | --- | --- |
@@ -41,9 +41,9 @@ Hypersensitivity reaction, with associated moderate dyspnea, occurred in one sub
 
 Laboratory Abnormalities
 
-Selected laboratory abnormalities reported during treatment or within 2 weeks of stopping treatment are presented in the table below.
+Selected laboratory abnormalities reported during treatment or within 2 weeks of stopping treatment are presented in Table 9.
 
-Table 2: Trial P001 Selected Laboratory Abnormalities
+Table 9: Trial P001 Selected Laboratory Abnormalities
 
 |  | PREVYMIS N=373 | Placebo N=192 |
 | --- | --- | --- |
@@ -87,9 +87,9 @@ The most frequently reported adverse events that led to study drug discontinuati
 
 Laboratory Abnormalities
 
-Selected laboratory abnormalities reported through Week 28 post-transplant are presented in the table below.
+Selected laboratory abnormalities reported through Week 28 post-transplant are presented in Table 10.
 
-Table 3: Trial P002 Selected Laboratory Abnormalities
+Table 10: Trial P002 Selected Laboratory Abnormalities
 
 |  | PREVYMIS N=292 | Valganciclovir N=297 |
 | --- | --- | --- |
@@ -116,3 +116,10 @@ Table 3: Trial P002 Selected Laboratory Abnormalities
 | > 2.5 | 24% | 22% |
 | > 1.5 – 2.5 | 49% | 52% |
 | Total > 1.5 | 73% | 73% |
+
+Pediatric Recipients of an Allogeneic HSCT
+
+The safety of PREVYMIS was evaluated in 63 pediatric subjects aged 2 months to less than 18 years of age who received an allogeneic HSCT (P030).
+PREVYMIS was administered orally (tablet or pellet) or intravenously.
+The duration of PREVYMIS exposure ranged from 3 days to 102 days (median duration 84 days).
+The safety profile was consistent with the safety profile observed in clinical trials of PREVYMIS in adults [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].

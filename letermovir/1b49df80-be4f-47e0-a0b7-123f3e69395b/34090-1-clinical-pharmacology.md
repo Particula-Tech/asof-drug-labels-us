@@ -8,38 +8,39 @@ PREVYMIS is an antiviral drug against CMV [see Microbiology (12.4)].
 
 Cardiac Electrophysiology
 
-In a thorough QT trial in healthy subjects, letermovir at the therapeutic IV dose or at a dose of 2 times the approved IV dose did not prolong QTc to any clinically relevant extent.
+In a thorough QT trial in healthy adult subjects, letermovir at the therapeutic IV dose or at a dose of 2 times the approved IV dose did not prolong QTc to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic properties of letermovir are displayed in Table 5.
+The pharmacokinetic properties of letermovir are displayed in Table 12.
 
-Table 5: Absorption, Distribution, Metabolism, Elimination (ADME), and Pharmacokinetic Properties of PREVYMISValues were obtained in studies of healthy subjects unless otherwise indicated.
+Table 12: Absorption, Distribution, Metabolism, Elimination (ADME), and Pharmacokinetic Properties of PREVYMISValues were obtained in studies of healthy adult subjects unless otherwise indicated.
 
-| Pharmacokinetics in HSCT Recipients |  |
+| Pharmacokinetics in Adult HSCT Recipients |  |
 | --- | --- |
 | Treatment Regimen | Steady-state median (90% prediction interval) AUC (ng∙hr/mL) of PREVYMIS |
 | 480 mg oral once daily, no cyclosporine | 34,400 (16,900, 73,700) |
 | 480 mg IV once daily, no cyclosporine | 100,000 (65,300, 148,000) |
 | 240 mg oral once daily, with cyclosporine | 60,800 (28,700, 122,000) |
 | 240 mg IV once daily, with cyclosporine | 70,300 (46,200, 106,000) |
-| Pharmacokinetics in Kidney Transplant Recipients |  |
+| Pharmacokinetics in Adult Kidney Transplant Recipients |  |
 | Treatment Regimen | Steady-state median (90% prediction interval) AUC (ng∙hr/mL) of PREVYMIS |
 | 480 mg oral once daily, no cyclosporine | 62,700 (17,500, 139,000) |
 | 240 mg oral once daily, with cyclosporine | 71,900 (42,400, 125,000) |
-| Pharmacokinetics in Healthy Subjects |  |
+| Pharmacokinetics in Adult Healthy Subjects |  |
 | Treatment Regimen | Steady-state geometric mean AUC and Cmax of PREVYMIS |
 | 480 mg oral once daily | Cmax: 13,000 ng/mL |
-|  | AUC: 71,500 ng∙hr/mL |
+|  | AUC: 71,500 ng•hr/mL |
 | Dose proportionality | Greater than proportional following single and multiple oral or IV doses of PREVYMIS 240 mg and 480 mg |
 | Accumulation ratioBased on geometric mean data. | Cmax: 1.03 AUC: 1.22 |
 | Time to steady-state | 9-10 days |
 | Absorption |  |
-| Bioavailability | Healthy subjects administered PREVYMIS without cyclosporine: 94% at an oral dose range of 240 mg to 480 mg HSCT recipients administered PREVYMIS without cyclosporine: 35% with 480 mg oral once daily HSCT recipients administered PREVYMIS with cyclosporine: 85% with 240 mg oral once daily Kidney transplant recipients administered PREVYMIS without cyclosporine: 56%95% CI (46%, 65%) with 480 mg oral once daily |
+| Bioavailability | Healthy adult subjects administered PREVYMIS without cyclosporine: 94% at an oral dose range of 240 mg to 480 mg Adult HSCT recipients administered PREVYMIS without cyclosporine: 35% with 480 mg oral once daily Adult HSCT recipients administered PREVYMIS with cyclosporine: 85% with 240 mg oral once daily Adult kidney transplant recipients administered PREVYMIS without cyclosporine: 56%95% CI (46%, 65%) with 480 mg oral once daily |
 | Median Tmax (hr) | 1.5 to 3.0 hr |
 | Effect of food (relative to fasting)Values refer to geometric mean ratio [fed/fasted] percentage and 90% confidence interval back transformed from linear mixed-effects model performed on natural log-transformed values. The meal administered was a standard high fat and high calorie meal (33 grams protein, 65 grams carbohydrates, 58 grams fat; 920 total calories). | AUC: 99.63% [84.27% - 117.80%] Cmax: 129.82% [104.35% -161.50%] |
+| Oral pellets versus tablet (fasting) | AUC and Cmax values were comparable when comparing PREVYMIS tablet (240 mg) and PREVYMIS oral pellets (2 X 120 mg) |
 | Distribution |  |
-| Mean steady-state volume of distribution | 45.5 L following IV administration in HSCT recipients |
+| Mean steady-state volume of distribution | 45.5 L following IV administration in adult HSCT recipients |
 | % In vitro bound to human plasma proteins | 99% across the concentration range of 0.2 to 50 mg/L |
 | In vitro blood-to plasma ratio | 0.56 across the concentration range of 0.1 to 10 mg/L |
 | Metabolism |  |
@@ -54,23 +55,42 @@ Table 5: Absorption, Distribution, Metabolism, Elimination (ADME), and Pharmacok
 
 Specific Populations
 
-Pediatric Population
+Pediatric Patients
 
-The pharmacokinetics of letermovir in patients less than 18 years of age have not been evaluated.
+Letermovir AUC in pediatric HSCT recipients was estimated using population pharmacokinetic analysis using Trial P030 data (see Table 13 and Table 14).
+Exposures for pediatric HSCT recipients for body weight bands 6 kg and above are within the range of exposures observed at the recommended doses of PREVYMIS in adults (see Table 12).
+
+Table 13: PREVYMIS AUC (ng•hr/mL) Values Following Once Daily Oral Administration in Pediatric HSCT Recipients
+
+| Body Weight | Oral Dose, No Cyclosporine | Steady-state Median (90% Prediction Interval)Medians and 90% prediction intervals are based on simulations using the pediatric HSCT population PK model with inter-individual variability. | Oral Dose, With Cyclosporine | Steady-state Median (90% Prediction Interval) |
+| --- | --- | --- | --- | --- |
+| 30 kg and aboveIncludes pediatric patients 12 years of age and older or weighing ≥ 30 kg. | 480 mg | 38,500 (18,100, 78,100) | 240 mg | 50,200 (24,100, 102,000) |
+| 15 kg to less than 30 kg | 240 mg | 39,600 (21,300, 71,800) | 120 mg | 53,200 (27,800, 102,000) |
+| 7.5 kg to less than 15 kg | 120 mg | 32,900 (16,800, 61,200) | 60 mg | 42,300 (22,300, 81,500) |
+| 6 kg to less than 7.5 kgIncludes pediatric patients 6 months of age and older and weighing 6 kg to < 7.5 kg. | 80 mg | 29,400 (16,600, 54,100) | 40 mg | 39,200 (20,900, 71,800) |
+
+Table 14: PREVYMIS AUC (ng•hr/mL) Values Following Once Daily IV Administration in Pediatric HSCT Recipients
+
+| Body Weight | IV Dose, No Cyclosporine | Steady-state Median (90% Prediction Interval)Medians and 90% prediction intervals are based on simulations using the pediatric HSCT population PK model with inter-individual variability. | IV Dose, With Cyclosporine | Steady-state Median (90% Prediction Interval) |
+| --- | --- | --- | --- | --- |
+| 30 kg and aboveIncludes pediatric patients 12 years of age and older or weighing ≥ 30 kg. | 480 mg | 114,000 (53,900, 230,000) | 240 mg | 61,400 (29,300, 128,000) |
+| 15 kg to less than 30 kg | 120 mg | 56,400 (29,100, 110,000) | 120 mg | 62,300 (32,100, 114,000) |
+| 7.5 kg to less than 15 kg | 60 mg | 45,900 (24,500, 86,400) | 60 mg | 49,900 (26,300, 96,300) |
+| 6 kg to less than 7.5 kgIncludes pediatric patients 6 months of age and older and weighing 6 kg to < 7.5 kg. | 40 mg | 42,800 (23,800, 79,200) | 40 mg | 46,400 (26,300, 86,500) |
 
 Age, Gender, Race, and Weight
 
-Age (18 to 82 years), gender, race (White vs. non-White), and body weight (up to 100 kg) did not have a clinically significant effect on the pharmacokinetics of letermovir.
+Age (18 to 82 years), gender, race, and body weight (up to 100 kg) did not have a clinically significant effect on the pharmacokinetics of letermovir in adult subjects.
 
 Renal Impairment
 
 Clinical Study in a Renally Impaired Population
 
-Letermovir AUC was approximately 1.9- and 1.4-fold higher in subjects with moderate (eGFR greater than or equal to 30 to 59 mL/min/1.73m2) and severe (eGFR less than 30 mL/min/1.73m2) renal impairment, respectively, compared to healthy subjects.
+Letermovir AUC was approximately 1.9- and 1.4-fold higher in adult subjects with moderate (eGFR greater than or equal to 30 to 59 mL/min/1.73m2) and severe (eGFR less than 30 mL/min/1.73m2) renal impairment, respectively, compared to healthy adult subjects.
 
 Post-kidney Transplant
 
-Based on population pharmacokinetic analysis, letermovir AUC was approximately 1.1-, 1.3- and 1.4-fold higher in subjects with mild (CLcr greater than or equal to 60 to less than 90 mL/min), moderate (CLcr greater than or equal to 30 to less than 60 mL/min) and severe (CLcr greater than or equal to 15 to less than 30 mL/min) renal impairment, respectively, compared to subjects with CLcr greater than or equal to 90 mL/min.
+Based on population pharmacokinetic analysis, letermovir AUC was approximately 1.1-, 1.3- and 1.4-fold higher in adult subjects with mild (CLcr greater than or equal to 60 to less than 90 mL/min), moderate (CLcr greater than or equal to 30 to less than 60 mL/min) and severe (CLcr greater than or equal to 15 to less than 30 mL/min) renal impairment, respectively, compared to adult subjects with CLcr greater than or equal to 90 mL/min.
 
 Intravenous Formulation
 
@@ -79,11 +99,11 @@ Decreased elimination of hydroxypropyl betadex has been reported in the literatu
 
 Hepatic Impairment
 
-Letermovir AUC was approximately 1.6- and 3.8-fold higher in subjects with moderate (Child-Pugh Class B [CP-B], score of 7-9) and severe (Child-Pugh Class C [CP-C], score of 10-15) hepatic impairment, respectively, compared to healthy subjects.
+Letermovir AUC was approximately 1.6- and 3.8-fold higher in adult subjects with moderate (Child-Pugh Class B [CP-B], score of 7-9) and severe (Child-Pugh Class C [CP-C], score of 10-15) hepatic impairment, respectively, compared to healthy adult subjects.
 
 Drug Interaction Studies
 
-Drug interaction studies were performed in healthy subjects with PREVYMIS and drugs likely to be co-administered or drugs commonly used as probes for pharmacokinetic interactions (see Table 6 and Table 7).
+Drug interaction studies were performed in healthy adult subjects with PREVYMIS and drugs likely to be co-administered or drugs commonly used as probes for pharmacokinetic interactions (see Table 15 and Table 16).
 
 In vitro results indicate that letermovir is a substrate of drug metabolizing enzymes CYP3A, CYP2D6, UGT1A1, and UGT1A3, and transporters OATP1B1/3 and P-gp.
 Oxidative metabolism is considered to be a minor elimination pathway based on in vivo human data.
@@ -95,23 +115,23 @@ Based on in vitro studies, the metabolism of letermovir is not mediated by CYP1A
 The transport of letermovir is not mediated by OATP2B1, OCT1, OAT1, BCRP, or MRP2 in vitro.
 
 Letermovir is a time-dependent inhibitor and inducer of CYP3A in vitro.
-Co-administration of PREVYMIS with midazolam resulted in increased exposure of midazolam, indicating that the net effect of letermovir on CYP3A is moderate inhibition (see Table 7).
-Based on these results, co-administration of PREVYMIS with CYP3A substrates may increase the plasma concentrations of the CYP3A substrates [see Contraindications (4), Warnings and Precautions (5.1), Drug Interactions (7.2, 7.3), and Table 4].
+Co-administration of PREVYMIS with midazolam resulted in increased exposure of midazolam, indicating that the net effect of letermovir on CYP3A is moderate inhibition (see Table 16).
+Based on these results, co-administration of PREVYMIS with CYP3A substrates may increase the plasma concentrations of the CYP3A substrates [see Contraindications (4), Warnings and Precautions (5.1), Drug Interactions (7.2, 7.3), and Table 11].
 Letermovir is a reversible inhibitor of CYP2C8 in vitro.
-When co-administered with PREVYMIS, plasma concentrations of CYP2C8 substrates are predicted to be increased [see Table 4 in Drug Interactions (7.3)].
+When co-administered with PREVYMIS, plasma concentrations of CYP2C8 substrates are predicted to be increased [see Table 11 in Drug Interactions (7.3)].
 Co-administration of PREVYMIS reduced the exposure of voriconazole, most likely due to the induction of voriconazole elimination pathways, CYP2C9 and CYP2C19.
-Co-administration of PREVYMIS with CYP2C9 and CYP2C19 substrates may decrease the plasma concentrations of the CYP2C9 and CYP2C19 substrates [see Table 4 in Drug Interactions (7.3)].
+Co-administration of PREVYMIS with CYP2C9 and CYP2C19 substrates may decrease the plasma concentrations of the CYP2C9 and CYP2C19 substrates [see Table 11 in Drug Interactions (7.3)].
 Letermovir is an inducer of CYP2B6 in vitro; the clinical relevance is unknown.
 
 Letermovir inhibited efflux transporters P-gp, breast cancer resistance protein (BCRP), bile salt export pump (BSEP), multidrug resistance-associated protein 2 (MRP2), OAT3, and hepatic uptake transporter OATP1B1/3 in vitro.
-Co-administration of PREVYMIS with substrates of OATP1B1/3 transporters (e.g. atorvastatin, a known substrate of CYP3A, OATP1B1/3, and potentially BCRP) may result in a clinically relevant increase in plasma concentrations of OATP1B1/3 substrates [see Table 4 in Drug Interactions (7.3)].
-There were no clinically relevant changes in plasma concentrations of digoxin, a P-gp substrate, or acyclovir, an OAT3 substrate, following co-administration with PREVYMIS in clinical studies (see Table 7).
+Co-administration of PREVYMIS with substrates of OATP1B1/3 transporters (e.g., atorvastatin, a known substrate of CYP3A, OATP1B1/3, and potentially BCRP) may result in a clinically relevant increase in plasma concentrations of OATP1B1/3 substrates [see Table 11 in Drug Interactions (7.3)].
+There were no clinically relevant changes in plasma concentrations of digoxin, a P-gp substrate, or acyclovir, an OAT3 substrate, following co-administration with PREVYMIS in clinical studies (see Table 16).
 The effect of letermovir on BCRP, BSEP, and MRP2 substrates was not evaluated in clinical studies; the clinical relevance is unknown.
 
 Based on in vitro results letermovir is not an inhibitor of CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, UGT1A4, UGT1A6, UGT1A9, or UGT2B7 and is not an inducer of CYP1A2.
 Letermovir is not an inhibitor of OATP2B1, OCT1, OCT2, or OAT1 in vitro.
 
-Table 6: Drug Interactions: Changes in Pharmacokinetics of Letermovir in the Presence of Co-administered Drug
+Table 15: Drug Interactions: Changes in Pharmacokinetics of Letermovir in the Presence of Co-administered Drug
 
 | AUC | Cmax | C24hrC12hr for tacrolimus |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -130,7 +150,7 @@ Table 6: Drug Interactions: Changes in Pharmacokinetics of Letermovir in the Pre
 | tacrolimus | 5 mg single dose PO | 80 mg twice daily PO | 1.02 (0.97, 1.07) | 0.92 (0.84, 1.00) | 1.02 (0.93, 1.12) |
 | Abbreviations: PO= oral |  |  |  |  |  |
 
-Table 7: Drug Interactions: Changes in Pharmacokinetics for Co-administered Drug in the Presence of Letermovir
+Table 16: Drug Interactions: Changes in Pharmacokinetics for Co-administered Drug in the Presence of Letermovir
 
 | AUC | Cmax | C24hrC12hr reported for voriconazole. |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -185,19 +205,23 @@ EC50 values for recombinant CMV mutants expressing these substitutions are 1.6- 
 
 In Clinical Studies
 
-In a Phase 2b trial evaluating letermovir or placebo in 131 HSCT recipients, DNA sequence analysis of a select region of UL56 (amino acids 231 to 369) was performed on samples obtained from 12 letermovir-treated subjects who experienced prophylaxis failure and for whom on-treatment samples were available for analysis.
+In a Phase 2b trial evaluating letermovir or placebo in 131 adult HSCT recipients, DNA sequence analysis of a select region of UL56 (amino acids 231 to 369) was performed on samples obtained from 12 letermovir-treated subjects who experienced prophylaxis failure and for whom on-treatment samples were available for analysis.
 One subject had a letermovir resistance substitution, pUL56 V236M (19-50-fold reduction in susceptibility).
 
-In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 50 letermovir-treated subjects who had received at least one dose of study drug and experienced prophylaxis failure and for whom samples were available for analysis.
+In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 50 letermovir-treated adult subjects who had received at least one dose of study drug and experienced prophylaxis failure and for whom samples were available for analysis.
 The pUL56 substitutions V236M (19-50-fold reduction), E237G (13-fold reduction), C325W (9300-fold reduction), and R369T (52-fold reduction) were detected in 3 subjects; however, no 2 subjects had substitutions at the same positions.
 
-In a Phase 3 trial (P040), DNA sequence analysis of the entire coding regions of UL51, UL56 and UL89 was performed on samples obtained from 32 subjects (regardless of treatment group) who experienced prophylaxis failure or who discontinued early with CMV viremia.
+In a Phase 3 trial (P040), DNA sequence analysis of the entire coding regions of UL51, UL56 and UL89 was performed on samples obtained from 32 adult subjects (regardless of treatment group) who experienced prophylaxis failure or who discontinued early with CMV viremia.
 No letermovir resistance-associated substitutions were detected above the validated assay limit.
 
-In a Phase 3 trial (P002), DNA sequence analysis of the entire coding regions of UL51, UL56 and UL89 was performed on samples obtained from 52 letermovir-treated subjects who experienced CMV disease or who discontinued early with CMV viremia.
+In a Phase 3 trial (P002), DNA sequence analysis of the entire coding regions of UL51, UL56 and UL89 was performed on samples obtained from 52 letermovir-treated adult subjects who experienced CMV disease or who discontinued early with CMV viremia.
 No previously characterized resistance-associated substitutions were identified.
 Novel substitutions were detected in letermovir-treated subjects at resistance-associated positions (pUL56 S229Y [n=1], pUL56 M329I [n=9], and pUL89 D344Y [n=5]) at low frequencies, ranging between 0.05 to 0.07.
 The clinical significance of these substitutions is unknown; phenotypic analysis is planned.
+
+In a Phase 2b trial (P030), DNA sequence analysis of the entire coding regions of UL51, UL56 and UL89 was performed on samples obtained from 10 letermovir-treated pediatric subjects at a visit for evaluation of CMV infection.
+A total of 2 letermovir resistance-associated substitutions both mapping to pUL56 were detected in 2 subjects.
+One subject had the substitution C325W (9300-fold reduction), and the other had R369S (38-fold reduction).
 
 Cross Resistance
 

@@ -20,3 +20,8 @@ No fertility or testicular effects were observed at dose levels resulting in let
 
 Testicular toxicity in rats observed at ≥180 mg/kg/day (greater than or equal to 3 times the human exposure at the RHD) was characterized by decreased testis weight, bilateral seminiferous tubular degeneration, decreased sperm count and motility, and resultant decreased male fertility.
 Male reproductive system toxicities were not observed in either a monkey testicular toxicity study up to 240 mg/kg/day (approximately 2 times higher than human exposure at the RHD), or a general toxicology study in mice up to 250 mg/kg/day (approximately 3 times higher than human exposure at the RHD).
+
+The excipient, hydroxypropyl betadex, present in the IV letermovir formulation, has been associated with hearing loss resulting from damage to the inner ear in multiple animal species.
+In published studies in rats, a single subcutaneous dose of 2000 mg/kg hydroxypropyl betadex resulted in changes in hearing parameters and associated decreases in outer hair cells in the inner ear.
+These findings were observed at hydroxypropyl betadex levels approximately 3 times higher than those present in the letermovir IV drug product at the MRHD, based on body surface area (BSA) comparisons.
+No adverse changes in hearing parameters or hair cell populations in the inner ear were observed in rats following a single subcutaneous dose of 1000 mg/kg hydroxypropyl betadex, which corresponds to levels approximately 1.5 times higher than those present in the letermovir IV drug product at the MRHD, based on BSA comparisons [see Warnings and Precautions (5.2)].

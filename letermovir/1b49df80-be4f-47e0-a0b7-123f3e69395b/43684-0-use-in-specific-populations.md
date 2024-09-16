@@ -54,23 +54,37 @@ Decreased fertility due to testicular toxicity was observed in male rats [see No
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of PREVYMIS in patients below 18 years of age have not been established.
+The safety and effectiveness of PREVYMIS have been established for:
+
+- Prophylaxis of CMV infection and disease in pediatric CMV-seropositive recipients of an allogeneic HSCT 6 months of age and older and weighing at least 6 kg, and
+- Prophylaxis of CMV disease in pediatric kidney transplant recipients 12 years of age and older and weighing at least 40 kg who are at high risk [D+/R-].
+
+HSCT Recipients: The use of PREVYMIS for prophylaxis of CMV infection and disease in pediatric recipients of an allogeneic HSCT is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data from pediatric patients in Trial P030.
+The safety and pharmacokinetic results were similar to those in adults [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical studies (14.2, 14.4)].
+
+Kidney Transplant Recipients: The use of PREVYMIS for prophylaxis of CMV disease in high-risk [D+/R-] kidney transplant recipients 12 years of age and older and weighing at least 40 kg is supported by evidence from an adequate and well-controlled study in adults and safety data from pediatric HSCT recipients (Trial P030).
+Letermovir exposures are expected to be similar between adult and pediatric patients 12 years of age and older and weighing at least 40 kg [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical studies (14.3, 14.4)].
+
+The safety and effectiveness of PREVYMIS have not been established for:
+
+- HSCT recipients less than 6 months of age or weighing less than 6 kg, or
+- Kidney transplant recipients less than 12 years of age or weighing less than 40 kg.
 
 ## 8.5 Geriatric Use
 
 Of the 373 subjects treated with PREVYMIS in Trial P001, 56 (15%) subjects were 65 years of age or older.
-Of 144 subjects treated with PREVYMIS in Trial P040, 32 (22%) subjects were 65 years of age or older.
+Of the 144 subjects treated with PREVYMIS in Trial P040, 32 (22%) subjects were 65 years of age or older.
 Of the 292 subjects treated with PREVYMIS in Trial P002, 48 (16%) subjects were 65 years of age or older.
 Safety and efficacy were similar across older and younger subjects in each trial.
 No dosage adjustment of PREVYMIS is required based on age [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-For patients with CLcr greater than 10 mL/min (by Cockcroft-Gault equation), no dosage adjustment of PREVYMIS is required based on renal impairment [see Clinical Pharmacology (12.3)].
-The safety of PREVYMIS in patients with end-stage renal disease (CLcr less than 10 mL/min), including patients on dialysis, is unknown.
+For adult patients with CLcr greater than 10 mL/min (by Cockcroft-Gault equation), and pediatric patients with a similar degree of renal impairment (based on age-appropriate assessment of renal function), no dosage adjustment of PREVYMIS is required based on renal impairment [see Clinical Pharmacology (12.3)].
+The safety of PREVYMIS in adult patients with end-stage renal disease (CLcr less than 10 mL/min) or in pediatric patients with a similar degree of renal impairment (based on age-appropriate assessment of renal function), including patients on dialysis, is unknown.
 
-In patients with CLcr less than 50 mL/min receiving PREVYMIS injection, accumulation of the intravenous vehicle, hydroxypropyl betadex, could occur.
-Closely monitor serum creatinine levels in these patients.
+In adult patients with CLcr less than 50 mL/min and in pediatric patients with a similar degree of renal impairment (based on age-appropriate assessment of renal function) receiving PREVYMIS injection, accumulation of the intravenous vehicle, hydroxypropyl betadex, could occur.
+Closely monitor serum creatinine levels in these patients [see Dosage and Administration (2.7) and Warnings and Precautions (5.2)].
 
 ## 8.7 Hepatic Impairment
 
