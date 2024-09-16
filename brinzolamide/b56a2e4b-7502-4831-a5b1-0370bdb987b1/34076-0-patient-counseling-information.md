@@ -31,6 +31,6 @@ Manufactured for Padagis® Minneapolis, MN 55427
 
 www.padagis.com
 
-Rev 07-23
+Rev 11-23
 
-3Y000 RC PH3
+3Y000 RC PH4
