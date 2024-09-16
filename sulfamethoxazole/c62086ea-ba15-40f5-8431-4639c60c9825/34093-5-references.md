@@ -63,6 +63,6 @@ CDC Guidelines for prophylaxis against Pneumocystis carinii pneumonia for childr
 MMWR.
 1991; 40(RR-2):1–13.
 
-Manufactured for: Pharmaceutical Associates, Inc. Greenville, SC 29605
+Manufactured for: PAI Pharma Greenville, SC 29605
 
-R05/24
+R06/24
