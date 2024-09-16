@@ -4,4 +4,4 @@ Alogliptin and pioglitazone tablets are indicated as an adjunct to diet and exer
 
 Limitations of Use
 
-Alogliptin and pioglitazone tablets should not be used in patients with type 1 diabetes mellitus.
+Alogliptin and pioglitazone tablets are not recommended for use in patients with type 1 diabetes mellitus.

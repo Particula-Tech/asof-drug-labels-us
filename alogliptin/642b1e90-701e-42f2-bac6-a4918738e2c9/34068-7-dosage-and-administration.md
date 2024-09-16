@@ -1,35 +1,51 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommendations for All Patients
+## 2.1 Important Dosage and Administration Information
 
-Alogliptin and pioglitazone tablets should be taken once daily and can be taken with or without food.
-Do not split tablets.
+- Obtain liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) prior to initiating alogliptin and pioglitazone tablets [see Warnings and Precautions (5.4)].
+- Take alogliptin and pioglitazone tablets orally once daily.
+  Do not split tablets.
+- Alogliptin and pioglitazone tablets may be taken with or without food [see Clinical Pharmacology (12.3)].
+- If a dose is missed, do not double the next dose.
 
-The recommended starting dose for alogliptin and pioglitazone tablets:
+## 2.2 Recommended Dosage and Administration
 
-- for patients inadequately controlled on diet and exercise is 25 mg/15 mg or 25 mg/30 mg,
-- for patients inadequately controlled on metformin monotherapy is 25 mg/15 mg or 25 mg/30 mg,
-- for patients on alogliptin who require additional glycemic control is 25 mg/15 mg or 25 mg/30 mg,
-- for patients on pioglitazone who require additional glycemic control is 25 mg/15 mg, 25 mg/30 mg or 25 mg/45 mg as appropriate based upon current therapy,
-- for patients switching from alogliptin coadministered with pioglitazone, alogliptin and pioglitazone tablets may be initiated at the dose of alogliptin and pioglitazone based upon current therapy,
-- for patients with congestive heart failure (NYHA Class I or II) is 25 mg/15 mg.
+Recommended Starting Dosage Based on Current Regimen
 
-The alogliptin and pioglitazone tablets dose can be titrated up to a maximum of 25 mg/45 mg once daily based on glycemic response as determined by hemoglobin A1c (A1C).
+Individualize the starting dosage of alogliptin and pioglitazone tablets based on the patient's current regimen and the available strengths of alogliptin and pioglitazone tablets (see Table 1).
 
-After initiation of alogliptin and pioglitazone tablets or with dose increase, monitor patients carefully for adverse reactions related to fluid retention as has been seen with pioglitazone (e.g., weight gain, edema and signs and symptoms of congestive heart failure) [see Boxed Warning and Warnings and Precautions (5.1)].
+Table 1: Recommended Starting Dosage Based on the Patient’s Current Regimen
 
-## 2.2 Patients with Renal Impairment
+| Current Regimen | Starting Dosage of Alogliptin and Pioglitazone TabletsFor dosage recommendations for patients with renal impairment and/or congestive heart failure, [see Dosage and Administration (2.3, 2.4)]. |
+| --- | --- |
+| Not treated with either alogliptin or pioglitazone | 25 mg/15 mg or 25 mg/30 mg |
+| Alogliptin | 25 mg/15 mg or 25 mg/30 mg |
+| Pioglitazone | 25 mg/15 mg, 25 mg/30 mg, or 25 mg/45 mg |
+| Alogliptin and pioglitazone | Select a dosage that is as close as possible to the current dosage of alogliptin and pioglitazone |
 
-No dose adjustment of alogliptin and pioglitazone tablets is necessary for patients with mild renal impairment (creatinine clearance [CrCl] ≥60 mL/min).
+Dosage Titration for Additional Glycemic Control
 
-The dose of alogliptin and pioglitazone tablets is 12.5 mg/15 mg, 12.5 mg/30 mg or 12.5 mg/45 mg once daily for patients with moderate renal impairment (CrCl ≥30 to <60 mL/min).
+Titrate the alogliptin and pioglitazone tablets dosage gradually, as needed, after assessing therapeutic response and tolerability, up to a maximum dosage of 25 mg of alogliptin and 45 mg of pioglitazone once daily.
 
-Alogliptin and pioglitazone tablets are not recommended for patients with severe renal impairment or ESRD [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
-Coadministration of pioglitazone and alogliptin 6.25 mg once daily based on individual requirements may be considered in these patients.
+## 2.3 Recommended Dosage for Patients with Renal Impairment
 
-Because there is a need for dose adjustment based upon renal function, assessment of renal function is recommended prior to initiation of alogliptin and pioglitazone tablets therapy and periodically thereafter.
+- Assess renal function prior to initiation of alogliptin and pioglitazone tablets and periodically thereafter [see Use in Specific Populations (8.6)].
+- The recommended dosage of alogliptin and pioglitazone tablets in patients with mild renal impairment (creatinine clearance [CrCl] ≥60 mL/min) is the same as the recommended dosage in patients with normal renal function [see Dosage and Administration (2.1)].
+- The recommended dosage of alogliptin and pioglitazone tablets for patients with moderate renal impairment (CrCl ≥30 to <60 mL/min) is 12.5 mg of alogliptin and 30 mg of pioglitazone once daily.
+- Alogliptin and pioglitazone tablets are not recommended for patients with severe renal impairment (CrCl ≥15 to <30 mL/min) or ESRD (CrCl <15 mL/min or requiring hemodialysis) because these patients require a lower dosage of alogliptin than what is available in the fixed dose combination product, alogliptin and pioglitazone tablets [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.3 Coadministration with Strong CYP2C8 Inhibitors
+## 2.4 Recommendations for Congestive Heart Failure
 
-Coadministration of pioglitazone and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately three-fold.
-Therefore, the maximum recommended dose of alogliptin and pioglitazone tablets is 25 mg/15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Starting Dosage in Patients with NYHA Class I or II Congestive Heart Failure
+
+For patients with preexisting NYHA Class I or II congestive heart failure, the recommended starting dosage of alogliptin and pioglitazone tablets is 25 mg of alogliptin and 15 mg of pioglitazone [see Boxed Warning and Warnings and Precautions (5.1)].
+
+Monitoring for Fluid Retention and Dosage Modifications for Congestive Heart Failure
+
+After initiation of alogliptin and pioglitazone tablets or with dosage increase, monitor patients carefully for adverse reactions related to fluid retention as has been seen with pioglitazone (e.g., weight gain, edema and signs and symptoms of congestive heart failure).
+
+If congestive heart failure develops while taking alogliptin and pioglitazone tablets, consider discontinuation of alogliptin and pioglitazone tablets or dosage reduction of pioglitazone in alogliptin and pioglitazone tablets [see Boxed Warning and Warnings and Precautions (5.1)].
+
+## 2.5 Coadministration with Strong CYP2C8 Inhibitors
+
+The maximum recommended dosage of alogliptin and pioglitazone tablets is 25 mg of alogliptin and 15 mg of pioglitazone once daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

@@ -1,5 +1,7 @@
 # 4 CONTRAINDICATIONS
 
-Serious hypersensitivity reaction to alogliptin or pioglitazone or any of the excipients in alogliptin and pioglitazone tablets, such as anaphylaxis, angioedema and severe cutaneous adverse reactions have been reported [see Warnings and Precautions (5.3), Adverse reactions (6.2)].
+Alogliptin and pioglitazone tablets are contraindicated in patients with:
 
-Do not initiate in patients with NYHA Class III or IV heart failure [see Boxed Warning].
+- Established NYHA Class III or IV heart failure at the time of alogliptin and pioglitazone tablets initiation [see Boxed Warning].
+- A history of serious hypersensitivity reaction to alogliptin, pioglitazone, or any of the excipients in alogliptin and pioglitazone tablets.
+  Reactions such as anaphylaxis, angioedema and severe cutaneous adverse reactions have been reported [see Warnings and Precautions (5.3), Adverse reactions (6.2)].
