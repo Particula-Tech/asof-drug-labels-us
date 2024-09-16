@@ -90,7 +90,7 @@ Patients with severe renal impairment (CrCl <30 mL/min) were excluded from RE-NO
 
 Dosing recommendations for patients with CrCl <30 mL/min or on dialysis cannot be provided.
 
-Avoid use of Dabigatran Etexilate Capsules with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
+Avoid use of Dabigatran Etexilate Capsules with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3), and Clinical Pharmacology (12.2, 12.3)].
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

@@ -110,11 +110,11 @@ In the orthopedic hip surgery patients, limited clinical data with P-gp inhibito
 
 Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference)
 
 Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
-The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
+The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference)
 
 In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.

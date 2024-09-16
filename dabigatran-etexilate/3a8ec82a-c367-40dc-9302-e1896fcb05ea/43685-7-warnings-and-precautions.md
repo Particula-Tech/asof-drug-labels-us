@@ -14,7 +14,7 @@ Discontinue Dabigatran Etexilate Capsules in patients with active pathological b
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 Dabigatran Etexilate Capsules’s anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
-Reversal of Anticoagulant Effect:
+Reversal of Anticoagulant Effect
 
 In adults, a specific reversal agent (idarucizumab) for Dabigatran Etexilate Capsules is available when reversal of the anticoagulant effect of dabigatran is needed:
 
@@ -51,12 +51,13 @@ The use of Dabigatran Etexilate Capsules for the prophylaxis of thromboembolic e
 ## 5.5 Effect of P-gp Inducers and Inhibitors on Dabigatran Exposure
 
 The concomitant use of Dabigatran Etexilate Capsules with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided [see Clinical Pharmacology (12.3)].
+
 P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)].
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
-Reduce the dose of Dabigatran Etexilate Capsules to 75 mg twice daily when dronedarone or systemic ketoconazole is co-administered with Dabigatran Etexilate Capsules in patients with moderate renal impairment (CrCl 30 to 50 mL/min).
+Reduce the dosage of Dabigatran Etexilate Capsules to 75 mg twice daily when dronedarone or systemic ketoconazole is co-administered with Dabigatran Etexilate Capsules in patients with moderate renal impairment (CrCl 30 to 50 mL/min).
 Avoid use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with severe renal impairment (CrCl 15 to 30 mL/min) [see Drug Interactions (7.1) and Use in Specific Populations (8.6)].
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients

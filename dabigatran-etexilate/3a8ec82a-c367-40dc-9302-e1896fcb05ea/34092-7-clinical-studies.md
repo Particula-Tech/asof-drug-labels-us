@@ -2,7 +2,7 @@
 
 ## 14.1 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
-The clinical evidence for the efficacy of Dabigatran Etexilate Capsules was derived from RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy), a multi-center, multi-national, randomized, parallel group trial comparing two blinded doses of Dabigatran Etexilate Capsules (110 mg twice daily and 150 mg twice daily) with open-label warfarin (dosed to target INR of 2 to 3) in patients with non-valvular, persistent, paroxysmal, or permanent atrial fibrillation and one or more of the following additional risk factors:
+The clinical evidence for the efficacy of Dabigatran Etexilate Capsules was derived from RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy), a multi-center, multi-national, randomized, parallel group trial comparing two blinded dosages of Dabigatran Etexilate Capsules (110 mg twice daily and 150 mg twice daily) with open-label warfarin (dosed to target INR of 2 to 3) in patients with non-valvular, persistent, paroxysmal, or permanent atrial fibrillation and one or more of the following additional risk factors:
 
 - Previous stroke, transient ischemic attack (TIA), or systemic embolism
 - Left ventricular ejection fraction <40%
@@ -167,7 +167,7 @@ For patients with multiple events each event is counted independently.
 
 ## 14.3 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
-In the randomized, parallel group, double-blind, non-inferiority trials, RE-NOVATE and RE-NOVATE II patients received Dabigatran Etexilate Capsules 75 mg orally 1-4 hours after surgery followed by 150 mg daily (RE-NOVATE), Dabigatran Etexilate Capsules 110 mg orally 1-4 hours after surgery followed by 220 mg daily (RE-NOVATE and RE-NOVATE II) or subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery (RE-NOVATE and RE-NOVATE II) for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who have undergone hip replacement surgery.
+In the randomized, parallel-group, double-blind, non-inferiority trials, RE-NOVATE and RE-NOVATE II patients received Dabigatran Etexilate Capsules 75 mg orally 1-4 hours after surgery followed by 150 mg daily (RE-NOVATE), Dabigatran Etexilate Capsules 110 mg orally 1-4 hours after surgery followed by 220 mg daily (RE-NOVATE and RE-NOVATE II) or subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery (RE-NOVATE and RE-NOVATE II) for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who have undergone hip replacement surgery.
 
 Overall, in RE-NOVATE and RE-NOVATE II, the median treatment duration was 33 days for Dabigatran Etexilate Capsules and 33 days for enoxaparin.
 A total of 5,428 patients were treated with a mean age of 63.2 years.

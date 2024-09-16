@@ -6,12 +6,12 @@ Dabigatran etexilate is available in different dosage forms and not all dosage f
 In addition, there are differences between the dosage forms with respect to dosing due to differences in bioavailability.
 Do not substitute different dosage forms on a milligram-to-milligram basis and do not combine more than one dosage form to achieve the total dose [see Clinical Pharmacology (12.3)].
 
-## 2.2 Recommended Dabigatran Etexilate Capsules Dose for Adults
+## 2.2 Recommended Dabigatran Etexilate Capsules Dosage for Adults
 
 | Indication | Dosage |  |
 | --- | --- | --- |
 | Reduction in Risk of Stroke and Systemic Embolism in Non-valvular AF | CrCl >30 mL/min: CrCl 15 to 30 mL/min: CrCl <15 mL/min or on dialysis: | 150 mg twice daily 75 mg twice daily Dosing recommendations cannot be provided |
-| CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: CrCl <30 mL/min with concomitant use of P-gp inhibitors: | Reduce dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or systemic ketoconazole. Avoid coadministration |  |
+| CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: CrCl <30 mL/min with concomitant use of P-gp inhibitors: | Reduce dosage to 75 mg twice daily if given with P-gp inhibitors dronedarone or systemic ketoconazole. Avoid coadministration |  |
 | Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE | CrCl >30 mL/min: CrCl ≤30 mL/min or on dialysis: | 150 mg twice daily Dosing recommendations cannot be provided |
 | CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid coadministration |  |
 | Prophylaxis of DVT and PE Following Hip Replacement Surgery | CrCl >30 mL/min: | 110 mg for first day, then 220 mg once daily |
@@ -20,25 +20,25 @@ Do not substitute different dosage forms on a milligram-to-milligram basis and d
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients
 
-For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dose of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily.
-For patients with severe renal impairment (CrCl 15 to 30 mL/min), the recommended dose of Dabigatran Etexilate Capsules is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dosage of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily.
+For patients with severe renal impairment (CrCl 15 to 30 mL/min), the recommended dosage of Dabigatran Etexilate Capsules is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with a CrCl <15 mL/min or on dialysis cannot be provided.
 
 Treatment of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
-For patients with CrCl >30 mL/min, the recommended dose of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily, after 5 to 10 days of parenteral anticoagulation.
+For patients with CrCl >30 mL/min, the recommended dosage of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily, after 5 to 10 days of parenteral anticoagulation.
 Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
-For patients with CrCl >30 mL/min, the recommended dose of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily after previous treatment.
+For patients with CrCl >30 mL/min, the recommended dosage of Dabigatran Etexilate Capsules is 150 mg taken orally, twice daily after previous treatment.
 Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
-For patients with CrCl >30 mL/min, the recommended dose of Dabigatran Etexilate Capsules is 110 mg taken orally 1-4 hours after surgery and after hemostasis has been achieved, then 220 mg taken once daily for 28 to 35 days.
+For patients with CrCl >30 mL/min, the recommended dosage of Dabigatran Etexilate Capsules is 110 mg taken orally 1-4 hours after surgery and after hemostasis has been achieved, then 220 mg taken once daily for 28 to 35 days.
 If Dabigatran Etexilate Capsules is not started on the day of surgery, after hemostasis has been achieved initiate treatment with 220 mg once daily.
-Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Dosage and Administration (2.4), Use in Specific Populations (8.6) and Clinical Pharmacology (12.2, 12.3)].
+Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Dosage and Administration (2.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.2, 12.3)].
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -57,7 +57,7 @@ When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activi
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
 
 In patients with moderate renal impairment (CrCl 30 to 50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment.
-Reduce the dose of Dabigatran Etexilate Capsules to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Reduce the dosage of Dabigatran Etexilate Capsules to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
@@ -67,7 +67,7 @@ Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see W
 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
 
 Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
-Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Dosage and Administration (2.5), Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
+Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Dosage and Administration (2.5), Warnings and Precautions (5.5), Drug Interactions (7.3), and Clinical Pharmacology (12.2, 12.3)].
 
 Pediatric patients with renal impairment
 

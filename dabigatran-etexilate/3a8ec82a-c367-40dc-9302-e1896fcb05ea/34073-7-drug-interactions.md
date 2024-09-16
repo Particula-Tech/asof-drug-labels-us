@@ -7,8 +7,8 @@ The concomitant use of Dabigatran Etexilate Capsules with P-gp inducers (e.g., r
 P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)].
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 
-In patients with moderate renal impairment (CrCl 30 to 50 mL/min), reduce the dose of Dabigatran Etexilate Capsules to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole.
-The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor does not require a dose adjustment of Dabigatran Etexilate Capsules.
+In patients with moderate renal impairment (CrCl 30 to 50 mL/min), reduce the dosage of Dabigatran Etexilate Capsules to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole.
+The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor does not require a dosage adjustment of Dabigatran Etexilate Capsules.
 These results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 The concomitant use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with severe renal impairment (CrCl 15 to 30 mL/min) should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
@@ -20,7 +20,7 @@ Avoid use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with 
 ## 7.3 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery
 
 In patients with CrCl ≥50 mL/min who have concomitant administration of P-gp inhibitors such as dronedarone or systemic ketoconazole, it may be helpful to separate the timing of administration of Dabigatran Etexilate Capsules and the P-gp inhibitor by several hours.
-The concomitant use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with CrCl <50 mL/min should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6) and Clinical Pharmacology (12.2, 12.3)].
+The concomitant use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with CrCl <50 mL/min should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.2, 12.3)].
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

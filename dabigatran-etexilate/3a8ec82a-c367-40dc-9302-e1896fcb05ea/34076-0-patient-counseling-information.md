@@ -12,7 +12,15 @@ Instructions for Patients
 - Instruct patient to remove only one capsule from the opened bottle at the time of use.
   The bottle should be immediately and tightly closed.
 - Advise patients not to chew or break the capsules before swallowing them and not to open the capsules and take the pellets alone.
-- Advise patients that the capsule should be taken with a full glass of water.[see Boxed Warning, Dosage and Administration (2.5)] Bleeding Inform patients that they may bleed more easily, may bleed longer, and should call their healthcare provider for any signs or symptoms of bleeding [see Warnings and Precautions (5.2)].Instruct patients to seek emergency care right away if they have any of the following, which may be a sign or symptom of serious bleeding:
+- Advise patients that the capsule should be taken with a full glass of water.
+  [see Boxed Warning, Dosage and Administration (2.5)]
+
+Bleeding
+
+Inform patients that they may bleed more easily, may bleed longer, and should call their healthcare provider for any signs or symptoms of bleeding [see Warnings and Precautions (5.2)].
+
+Instruct patients to seek emergency care right away if they have any of the following, which may be a sign or symptom of serious bleeding:
+
 - Unusual bruising (bruises that appear without known cause or that get bigger)
 - Pink or brown urine
 - Red or black, tarry stools
@@ -25,18 +33,18 @@ Instructions for Patients
 - Bleeding from a cut that takes a long time to stop
 - Menstrual bleeding or vaginal bleeding that is heavier than normal If patients have had neuraxial anesthesia or spinal puncture, and particularly, if they are taking concomitant NSAIDs or platelet inhibitors, advise patients to watch for signs and symptoms of spinal or epidural hematoma, such as back pain, tingling, numbness (especially in the lower limbs), muscle weakness, and stool or urine incontinence.
   If any of these symptoms occur, advise the patient to contact his or her physician immediately [see Boxed Warning].
-  Gastrointestinal Adverse Reactions Instruct patients to call their healthcare provider if they experience any signs or symptoms of dyspepsia or gastritis:
+
+Gastrointestinal Adverse Reactions
+
+Instruct patients to call their healthcare provider if they experience any signs or symptoms of dyspepsia or gastritis:
+
 - Dyspepsia (upset stomach), burning, or nausea
 - Abdominal pain or discomfort
-- Epigastric discomfort, GERD (gastric indigestion)
-
-[see Adverse Reactions (6.1)]
+- Epigastric discomfort, GERD (gastric indigestion) [see Adverse Reactions (6.1)]
 
 Invasive or Surgical Procedures
 
-Instruct patients to inform their healthcare provider that they are taking Dabigatran Etexilate Capsules before any invasive procedure (including dental procedures) is scheduled [see
-
-Dosage and Administration (2.8)].
+Instruct patients to inform their healthcare provider that they are taking Dabigatran Etexilate Capsules before any invasive procedure (including dental procedures) is scheduled [see Dosage and Administration (2.8)].
 
 Concomitant Medications
 
@@ -75,4 +83,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: June, 2022
+Revised: July 2024

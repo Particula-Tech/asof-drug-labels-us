@@ -128,7 +128,9 @@ Table 4 Bleeding Events in RE-COVER and RE-COVER II Treated Patients
 | Clinically relevant non-major bleeding | 101 (4.0) | 170 (6.7) | 0.58 (0.46, 0.75) |
 | Any bleeding | 411 (16.1) | 567 (22.7) | 0.70 (0.61, 0.79) |
 
-Note: MBE can belong to more than one criterion. aPatients with at least one MBE. bBleeding site based on investigator assessment.
+Note: MBE can belong to more than one criterion.
+
+aPatients with at least one MBE. bBleeding site based on investigator assessment.
 Patients can have more than one site of bleeding.
 
 cConfidence interval
@@ -215,7 +217,7 @@ In the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and 
 
 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
 
-Dabigatran Etexilate Capsules was studied in 5476 patients, randomized and treated in two double-blind, active-controlled non-inferiority trials (RE-NOVATE and RE-NOVATE II).
+Dabigatran Etexilate Capsules was studied in 5,476 patients, randomized and treated in two double-blind, active-controlled non-inferiority trials (RE-NOVATE and RE-NOVATE II).
 The demographic characteristics were similar across the two studies and between the treatment groups within these studies.
 Approximately 45.3% of the treated patients were male, with a mean age of 63.2 years.
 The majority of the patients were white (96.1%), 3.6% were Asian, and 0.3% were black with a mean CrCl of 92 mL/min.
@@ -250,7 +252,7 @@ In the two studies, the rate of major gastrointestinal bleeds in patients receiv
 Gastrointestinal Adverse Reactions
 
 In the two studies, the incidence of gastrointestinal adverse reactions for patients on Dabigatran Etexilate Capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
-Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on Dabigatran Etexilate Capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs. 1.0%, respectively.
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on Dabigatran Etexilate Capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs 1.0%, respectively.
 
 Hypersensitivity Reactions
 
@@ -267,4 +269,5 @@ However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusi
 
 The following adverse reactions have been identified during post approval use of Dabigatran Etexilate Capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post approval use of Dabigatran Etexilate Capsules: angioedema, thrombocytopenia, esophageal ulcer, alopecia, neutropenia, agranulocytosis.
+
+Blood and Lymphatic System Disorders: Agranulocytosis, neutropenia, thrombocytopenia Gastrointestinal Disorders: Esophageal ulcer Immune System Disorders: Angioedema Renal and Urinary Disorders: Anticoagulant-related nephropathy Skin and Subcutaneous Tissue Disorders: Alopecia
