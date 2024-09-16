@@ -29,7 +29,6 @@ Made in Singapore
 
 1. 62000000062556 Rev.
    5/21
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -62,7 +61,6 @@ Made in Singapore
 
 1. 62000000062557 Rev.
    5/21
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -95,4 +93,3 @@ Made in Singapore
 
 1. 62000000062558 Rev.
    5/21
-2. 

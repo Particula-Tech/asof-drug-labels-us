@@ -9,8 +9,7 @@
 | General information about the safe and effective use of FLOVENT HFA.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use FLOVENT HFA for a condition for which it was not prescribed. Do not give FLOVENT HFA to other people, even if they have the same symptoms that you have. It may harm them.You can ask your healthcare provider or pharmacist for information about FLOVENT HFA that was written for health professionals. |
 | What are the ingredients in FLOVENT HFA?Active ingredient: fluticasone propionateInactive ingredient: propellant HFA-134aFor more information about FLOVENT HFA, call 1-888-825-5249. Trademarks are owned by or licensed to the GSK group of companies.GlaxoSmithKline, Durham, NC 27701©2023 GSK group of companies or its licensor.FLH:10PIL |
 
-- This Patient Information has been approved by the U.S. Food and Drug Administration.
-  Revised: September 2023
+- This Patient Information has been approved by the U.S. Food and Drug Administration Revised: September 2023
 
 | INSTRUCTIONS FOR USEFLOVENT (FLO vent) HFA(fluticasone propionate inhalation aerosol)for oral inhalation use |  |
 | --- | --- |
