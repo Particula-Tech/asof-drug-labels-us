@@ -1,9 +1,23 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 250 mg
 
-Tetracycline hydrochloride capsules, USP
+NDC 23155-017-01
 
-250 mg, 100 count label
+Tetracycline HCl Capsules, USP
 
-Tetracycline hydrochloride capsules, USP
+250 mg
 
-500 mg, 100 count label
+100 Capsules
+
+Rx only
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 500 mg
+
+NDC 23155-018-01
+
+Tetracycline HCl Capsules, USP
+
+500 mg
+
+100 Capsules
+
+Rx only
