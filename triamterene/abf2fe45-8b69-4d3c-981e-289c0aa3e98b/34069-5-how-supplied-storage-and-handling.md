@@ -1,4 +1,4 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
 Triamterene and Hydrochlorothiazide Tablets USP, 37.5 mg/25 mg, are light green, round, scored tablets, debossed with Watson 424 and are available in bottles of 100 (NDC 0591-0424-01) and 500 (NDC 0591-0424-05).
 
@@ -9,8 +9,9 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
-Revised: November 2020
+Rev.
+A 5/2024

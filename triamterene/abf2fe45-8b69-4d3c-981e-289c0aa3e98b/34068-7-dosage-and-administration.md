@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 Note: 37.5 mg/25 mg=37.5 mg triamterene and 25 mg hydrochlorothiazide
 

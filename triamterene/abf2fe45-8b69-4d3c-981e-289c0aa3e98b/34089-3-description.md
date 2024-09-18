@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Triamterene and hydrochlorothiazide tablets, USP combine triamterene USP, a potassium-conserving diuretic, with the natriuretic agent, hydrochlorothiazide, USP.
 Triamterene and hydrochlorothiazide tablets, USP are available in two strengths.

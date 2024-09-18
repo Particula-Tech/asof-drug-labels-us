@@ -1,4 +1,4 @@
-# OVERDOSAGE:
+# OVERDOSAGE
 
 No specific data are available regarding triamterene and hydrochlorothiazide overdosage in humans and no specific antidote is available.
 

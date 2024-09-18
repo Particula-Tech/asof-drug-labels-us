@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Triamterene and hydrochlorothiazide is a diuretic, antihypertensive drug product, principally due to its hydrochlorothiazide component; the triamterene component reduces the excessive potassium loss which may occur with hydrochlorothiazide use.
 

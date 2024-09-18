@@ -1,6 +1,4 @@
-# WARNINGS:
-
-| Hyperkalemia: Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-conserving diuretic combinations, including triamterene and hydrochlorothiazide. Hyperkalemia is more likely to occur in patients with renal impairment, diabetes (even without evidence of renal impairment), or elderly or severely ill patients. Since uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients first receiving triamterene and hydrochlorothiazide, when dosages are changed or with any illness that may influence renal function. |
+| WARNINGS: Hyperkalemia: Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-conserving diuretic combinations, including triamterene and hydrochlorothiazide. Hyperkalemia is more likely to occur in patients with renal impairment, diabetes (even without evidence of renal impairment), or elderly or severely ill patients. Since uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients first receiving triamterene and hydrochlorothiazide, when dosages are changed or with any illness that may influence renal function. |
 | --- |
 
 If hyperkalemia is suspected, (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock), an electrocardiogram (ECG) should be obtained.
@@ -39,7 +37,7 @@ The primary treatment is to discontinue hydrochlorothiazide as rapidly as possib
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## General:
 

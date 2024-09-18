@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
 This fixed combination drug is not indicated for the initial therapy of edema or hypertension except in individuals in whom the development of hypokalemia cannot be risked.
 

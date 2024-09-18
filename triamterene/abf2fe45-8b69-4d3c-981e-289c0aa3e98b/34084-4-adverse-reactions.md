@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 Side effects observed in association with the use of triamterene and hydrochlorothiazide tablets, other combination products containing triamterene and hydrochlorothiazide, and products containing triamterene or hydrochlorothiazide include the following:
 
@@ -38,4 +38,4 @@ Non-melanoma Skin Cancer: Hydrochlorothiazide is associated with an increased ri
 In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
 The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥ 50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
 
-To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
