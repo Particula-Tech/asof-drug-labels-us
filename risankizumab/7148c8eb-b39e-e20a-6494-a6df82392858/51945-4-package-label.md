@@ -54,17 +54,19 @@ NDC 0074-1070-01
 
 1 x 2.4 mL Prefilled Cartridge
 
+1 On-Body Injector
+
 Skyrizi®
 
 risankizumab-rzaa Injection
 
-(360 mg/2.4 mL)
+360 mg/2.4 mL
 
-150 mg/mL
+(150 mg/mL)
 
 FOR SUBCUTANEOUS USE ONLY
 
-Single Dose
+Single-Dose
 
 SKYRIZI.com
 
@@ -144,13 +146,13 @@ Skyrizi®
 
 risankizumab-rzaa Injection
 
-(180 mg/1.2 mL)
+180 mg/1.2 mL
 
-150 mg/mL
+(150 mg/mL)
 
 FOR SUBCUTANEOUS USE ONLY
 
-Single Dose
+Single-Dose
 
 SKYRIZI.com
 
