@@ -14,7 +14,7 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
 If these occur, instruct patients to stop CELEBREX and seek immediate medical therapy [see Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
 
 Heart Failure and Edema
@@ -26,7 +26,7 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions, including DRESS
+Serious Skin Reactions, Including DRESS
 
 Advise patients to stop taking CELEBREX immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
@@ -50,11 +50,11 @@ Inform patients not to use low-dose aspirin concomitantly with CELEBREX until th
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 202X Viatris Inc.
 
 CELEBREX is a registered trademark of G.D.
 Searle LLC, a Viatris Company.
 
-UPJ:CLBRXC:R1mmt
+UPJ:CLBRXC:RX
 
-Revised: 2/2023
+Revised: MM/YYYY

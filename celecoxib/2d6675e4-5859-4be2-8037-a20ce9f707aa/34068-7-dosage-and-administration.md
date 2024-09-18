@@ -18,7 +18,7 @@ For RA, the dosage is 100 mg to 200 mg twice daily.
 ## 2.4 Juvenile Rheumatoid Arthritis
 
 For JRA, the dosage for pediatric patients (age 2 years and older) is based on weight.
-For patients >10 kg to <25 kg the recommended dose is 50 mg twice daily.
+For patients ≥10 kg to ≤25 kg the recommended dose is 50 mg twice daily.
 For patients >25 kg the recommended dose is 100 mg twice daily.
 
 For patients who have difficulty swallowing capsules, the contents of a CELEBREX capsule can be added to applesauce.
@@ -47,4 +47,4 @@ Poor Metabolizers of CYP2C9 Substrates
 
 In adult patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin), initiate treatment with half of the lowest recommended dose.
 
-In patients with JRA who are known or suspected to be poor CYP2C9 metabolizers, consider using alternative treatments [see Use in Specific populations (8.8) and Clinical Pharmacology (12.5)].
+In patients with JRA who are known or suspected to be poor CYP2C9 metabolizers, consider using alternative treatments [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.5)].

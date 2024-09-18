@@ -26,7 +26,7 @@ Approximately 3,900 patients received CELEBREX at these doses for 6 months or mo
 Table 1 lists all adverse events, regardless of causality, occurring in ≥2% of patients receiving CELEBREX from 12 controlled studies conducted in patients with OA or RA that included a placebo and/or a positive control group.
 Since these 12 trials were of different durations, and patients in the trials may not have been exposed for the same duration of time, these percentages do not capture cumulative rates of occurrence.
 
-Table 1: Adverse Events Occurring in >2% of CELEBREX Patients from Pre-marketing Controlled Arthritis Trials
+Table 1: Adverse Events Occurring in ≥2% of CELEBREX Patients from Pre-marketing Controlled Arthritis Trials
 
 |  | CBX N=414 6 | Placebo N=1864 | NAP N=1366 | DCF N=387 | IBU N=345 |
 | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ In placebo- or active-controlled clinical trials, the discontinuation rate due t
 Among the most common reasons for discontinuation due to adverse events in the CELEBREX treatment groups were dyspepsia and abdominal pain (cited as reasons for discontinuation in 0.8% and 0.7% of CELEBREX patients, respectively).
 Among patients receiving placebo, 0.6% discontinued due to dyspepsia and 0.6% withdrew due to abdominal pain.
 
-### The following adverse reactions occurred in 0.1% to 1.9% of patients treated with CELEBREX (100 mg to 200 mg twice daily or 200 mg once daily)
+### The following adverse reactions occurred in 0.1% to 1.9% of patients treated with CELEBREX (100 mg to 200 mg twice daily or 200 mg once daily):
 
 Gastrointestinal: Constipation, diverticulitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, gastroesophageal reflux, hemorrhoids, hiatal hernia, melena, dry mouth, stomatitis, tenesmus, vomiting
 
@@ -80,7 +80,7 @@ Metabolic and nutritional: blood urea nitrogen (BUN) increased, creatine phospho
 
 Musculoskeletal: Arthralgia, arthrosis, myalgia, synovitis, tendinitis
 
-Platelets (bleeding or clotting): Ecchymosis, epistaxis, thrombocythemia,
+Platelets (bleeding or clotting): Ecchymosis, epistaxis, thrombocythemia
 
 Psychiatric: Anorexia, anxiety, appetite increased, depression, nervousness, somnolence
 
@@ -94,7 +94,7 @@ Application site disorders: Cellulitis, dermatitis contact
 
 Urinary: Albuminuria, cystitis, dysuria, hematuria, micturition frequency, renal calculus
 
-### The following serious adverse events (causality not evaluated) occurred in <0.1% of patients
+### The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:
 
 Cardiovascular: Syncope, congestive heart failure, ventricular fibrillation, pulmonary embolism, cerebrovascular accident, peripheral gangrene, thrombophlebitis
 
@@ -175,7 +175,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 ### The APC and PreSAP Trials
 
-#### Adverse reactions from long-term, placebo-controlled polyp prevention studies
+#### Adverse Reactions from Long-term, Placebo-controlled Polyp Prevention Studies
 
 Exposure to CELEBREX in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
@@ -228,3 +228,5 @@ Metabolic: Hypoglycemia, hyponatremia
 Nervous: Aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage
 
 Renal: Interstitial nephritis
+
+Skin and Appendages: Erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE)

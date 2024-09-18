@@ -4,7 +4,7 @@
 
 ### Carcinogenesis
 
-Celecoxib was not carcinogenic in Sprague-Dawley rats given oral doses up to 200 mg/kg for males and 10 mg/kg for females (approximately 2-to 4-times the human exposure as measured by the AUC0-24 at 200 mg twice daily) or in mice given oral doses up to 25 mg/kg for males and 50 mg/kg for females (approximately equal to human exposure as measured by the AUC0-24 at 200 mg twice daily) for two years.
+Celecoxib was not carcinogenic in Sprague-Dawley rats given oral doses up to 200 mg/kg for males and 10 mg/kg for females (approximately 2- to 4-times the human exposure as measured by the AUC0-24 at 200 mg twice daily) or in mice given oral doses up to 25 mg/kg for males and 50 mg/kg for females (approximately equal to human exposure as measured by the AUC0-24 at 200 mg twice daily) for two years.
 
 ### Mutagenesis
 

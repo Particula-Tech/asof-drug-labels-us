@@ -68,7 +68,7 @@ Methodological limitations of these postmarketing studies and reports include la
 These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
 Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
-#### Animal data
+#### Animal Data
 
 Celecoxib at oral doses ≥150 mg/kg/day (approximately 2 times the human exposure at 200 mg twice daily as measured by AUC0-24), caused an increased incidence of ventricular septal defects, a rare event, and fetal alterations, such as ribs fused, sternebrae fused and sternebrae misshapen when rabbits were treated throughout organogenesis.
 A dose-dependent increase in diaphragmatic hernias was observed when rats were given celecoxib at oral doses ≥30 mg/kg/day (approximately 6 times human exposure based on the AUC0-24 at 200 mg twice daily for RA) throughout organogenesis.
@@ -111,7 +111,7 @@ In some patients with systemic onset JRA, both celecoxib and naproxen were assoc
 When NSAIDs including celecoxib are used in patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, due to the risk of disseminated intravascular coagulation.
 Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.15), Adverse Reactions (6.1), Animal Toxicology (13.2), Clinical Studies (14.3)].
 
-Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates (8.8)].
+Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 Substrates (8.8)].
 
 ## 8.5 Geriatric Use
 
