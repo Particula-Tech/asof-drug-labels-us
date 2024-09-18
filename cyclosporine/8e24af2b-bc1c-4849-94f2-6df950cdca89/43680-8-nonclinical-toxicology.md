@@ -9,7 +9,7 @@ In the 78-week oral (diet) mouse study, at doses of 1, 4, and 16 mg/kg/day, evid
 
 In the 24-month oral (diet) rat study, conducted at 0.5, 2, and 8 mg/kg/day, pancreatic islet cell adenomas significantly exceeded the control rate in the low dose level.
 The hepatocellular carcinomas and pancreatic islet cell adenomas were not dose related.
-The low doses in mice and rats are approximately 80 times greater (normalized to body surface area) than the daily recommended human dose of one drop (approximately 28 mcL) of 0.05% RESTASIS® twice daily into each eye of a 60 kg person (0.001 mg/kg/day), assuming that the entire dose is absorbed.
+The low doses in mice and rats are approximately 80 times greater (normalized to body surface area) than the daily recommended human dose of one drop (approximately 28 mcL) of 0.05% RESTASIS twice daily into each eye of a 60 kg person (0.001 mg/kg/day), assuming that the entire dose is absorbed.
 
 Mutagenesis
 

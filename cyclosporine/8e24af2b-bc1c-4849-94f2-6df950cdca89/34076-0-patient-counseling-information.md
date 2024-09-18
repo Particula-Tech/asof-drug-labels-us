@@ -7,22 +7,19 @@ Advise patients to not touch the vial tip to their eye to avoid the potential fo
 
 Use with Contact Lenses
 
-RESTASIS® should not be administered while wearing contact lenses.
+RESTASIS should not be administered while wearing contact lenses.
 Patients with decreased tear production typically should not wear contact lenses.
 Advise patients that if contact lenses are worn, they should be removed prior to the administration of the emulsion.
-Lenses may be reinserted 15 minutes following administration of RESTASIS® ophthalmic emulsion [see Warnings and Precautions (5.2)].
+Lenses may be reinserted 15 minutes following administration of RESTASIS ophthalmic emulsion [see Warnings and Precautions (5.2)].
 
 Administration
 
 Advise patients that the emulsion from one individual single-use vial is to be used immediately after opening for administration to one or both eyes, and the remaining contents should be discarded immediately after administration.
 
-© 2017 Allergan.
+Distributed by: AbbVie Inc. North Chicago, IL 60064
+
+© 2024 AbbVie.
 All rights reserved.
-All trademarks are the property of their respective owners.
+RESTASIS and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-Patented.
-See www.allergan.com/patents Irvine, CA 92612
-
-Made in the U.S.A.
-
-71876US19
+v1.0USPI9163

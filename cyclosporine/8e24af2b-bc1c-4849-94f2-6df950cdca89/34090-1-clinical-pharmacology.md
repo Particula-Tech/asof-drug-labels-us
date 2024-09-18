@@ -10,5 +10,5 @@ The exact mechanism of action is not known.
 ## 12.3Pharmacokinetics
 
 Blood cyclosporine A concentrations were measured using a specific high pressure liquid chromatography-mass spectrometry assay.
-Blood concentrations of cyclosporine, in all the samples collected, after topical administration of RESTASIS® 0.05%, twice daily, in humans for up to 12 months, were below the quantitation limit of 0.1 ng/mL.
-There was no detectable drug accumulation in blood during 12 months of treatment with RESTASIS® ophthalmic emulsion.
+Blood concentrations of cyclosporine, in all the samples collected, after topical administration of RESTASIS 0.05%, twice daily, in humans for up to 12 months, were below the quantitation limit of 0.1 ng/mL.
+There was no detectable drug accumulation in blood during 12 months of treatment with RESTASIS ophthalmic emulsion.

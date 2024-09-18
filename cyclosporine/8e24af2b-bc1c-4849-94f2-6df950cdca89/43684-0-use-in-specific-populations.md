@@ -25,8 +25,8 @@ No adverse effects in dams or offspring were observed at oral doses up to 15 mg/
 Risk Summary
 
 Cyclosporine is known to appear in human milk following systemic administration, but its presence in human milk following topical treatment has not been investigated.
-Although blood concentrations are undetectable following topical administration of RESTASIS® ophthalmic emulsion [see Clinical Pharmacology (12.3)], caution should be exercised when RESTASIS® is administered to a nursing woman.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for RESTASIS® and any potential adverse effects on the breast-fed child from cyclosporine.
+Although blood concentrations are undetectable following topical administration of RESTASIS ophthalmic emulsion [see Clinical Pharmacology (12.3)], caution should be exercised when RESTASIS is administered to a nursing woman.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for RESTASIS and any potential adverse effects on the breast-fed child from cyclosporine.
 
 ## 8.4Pediatric Use
 
