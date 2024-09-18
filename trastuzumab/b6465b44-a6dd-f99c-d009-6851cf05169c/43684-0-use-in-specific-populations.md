@@ -68,9 +68,9 @@ The safety and effectiveness of trastuzumab products in pediatric patients have 
 ## 8.5 Geriatric Use
 
 Trastuzumab has been administered to 386 patients who were 65 years of age or over (253 in the adjuvant treatment and 133 in metastatic breast cancer treatment settings).
-The risk of cardiac dysfunction was increased in geriatric patients as compared to younger patients in both those receiving treatment for metastatic disease in Studies 5 and 6, or adjuvant therapy in Studies 1 and 2.
+The risk of cardiac dysfunction was increased in geriatric patients as compared to younger patients in both those receiving treatment for metastatic disease in Studies H0648g and H0649g, or adjuvant therapy in Studies NSABP B31 and NCCTG N9831.
 Limitations in data collection and differences in study design of the 4 studies of trastuzumab in adjuvant treatment of breast cancer preclude a determination of whether the toxicity profile of trastuzumab in older patients is different from younger patients.
 The reported clinical experience is not adequate to determine whether the efficacy improvements (ORR, TTP, OS, DFS) of trastuzumab treatment in older patients is different from that observed in patients < 65 years of age for metastatic disease and adjuvant treatment.
 
-In Study 7 (metastatic gastric cancer), of the 294 patients treated with trastuzumab, 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
+In ToGA (metastatic gastric cancer), of the 294 patients treated with trastuzumab, 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
 No overall differences in safety or effectiveness were observed.
