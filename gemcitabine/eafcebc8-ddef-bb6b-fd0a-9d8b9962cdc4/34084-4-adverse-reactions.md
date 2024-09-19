@@ -297,7 +297,7 @@ Table 14: Selected Laboratory Abnormalities Occurring in Patients Receiving Gemc
 The following adverse reactions have been identified during post approval use of gemcitabine for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Blood and lymphatic system disorders: Thrombotic microangiopathy (TMA)
+- Blood and lymphatic system: Thrombotic microangiopathy (TMA)
 - Cardiovascular: Congestive heart failure, myocardial infarction, arrhythmias, supraventricular arrhythmias
 - Vascular: Peripheral vasculitis, gangrene, capillary leak syndrome
 - Skin: Cellulitis; pseudocellulitis; severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP); desquamation and bullous skin eruptions
