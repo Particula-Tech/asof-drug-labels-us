@@ -1498,9 +1498,9 @@ For further support, you can:
 
 | Packaging Dimensions (Approximate Length × Width × Height) |  |
 | --- | --- |
-| Patient Starter Kit (PSK) | 12.2" × 14.3" × 16.0" |
-| Monthly Refill Kit (MRK) | 9.9" × 6.1" × 16.1" |
-| Institutional Starter Kit (ISK) | 12.2" × 14.3" × 16.0" |
+| Patient Starter Kit (PSK) | 13.0" × 12.4" × 9.2" |
+| Monthly Refill Kit (MRK) | 11.8" × 8.2" × 3.0" |
+| Institutional Starter Kit (ISK) | 13.0" × 12.4" × 9.2" |
 
 | TYVASO Mass and Particle Specifications for 9 breaths |  |
 | --- | --- |
@@ -1514,7 +1514,7 @@ For further support, you can:
 | Accessories |  |
 | --- | --- |
 | TD-300N-US | AC wall plug |
-| ON-102/1/C | Medicine cup, Quantity-16 |
+| TD-132 | Medicine cup, Quantity - 32 |
 | ON-109 | Filter membranes |
 | ON-120/C | Plugs |
 | ON-101/C | Filter shell |
@@ -1677,13 +1677,13 @@ For further questions and information, or to report a problem with your device o
 
 Distributed by: United Therapeutics Corporation Research Triangle Park, North Carolina 27709
 
-© 2022, United Therapeutics Corporation.
+© 2024, United Therapeutics Corporation.
 All rights reserved.
 
-102040
+102131
 
 TYVASO is a registered trademark of United Therapeutics Corporation.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2022
+Revised: January 2024
