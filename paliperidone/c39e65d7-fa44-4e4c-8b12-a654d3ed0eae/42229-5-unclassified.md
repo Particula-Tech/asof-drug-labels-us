@@ -2,6 +2,6 @@ Product of Ireland
 
 Manufactured by: Janssen Pharmaceutica NV Beerse, Belgium
 
-Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, USA
 
-© 2015 Janssen Pharmaceutical Companies
+For patent information: www.janssenpatents.com © 2015 Janssen Pharmaceutical Companies

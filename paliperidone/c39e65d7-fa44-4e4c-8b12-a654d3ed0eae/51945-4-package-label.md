@@ -13,7 +13,7 @@ Each single-dose prefilled syringe contains 273 mg (0.88 mL) paliperidone palmit
 NDC 50458-606-01 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA TRINZA® 273 mg paliperidone palmitate extended-release injectable suspension
+INVEGA TRINZA ®273 mg paliperidone palmitate extended-release injectable suspension
 
 FOR INTRAMUSCULAR INJECTION ONLY Each injection must be administered only by a health care professional.
 Shake before using
@@ -42,7 +42,7 @@ Each single-dose prefilled syringe contains 410 mg (1.32 mL) paliperidone palmit
 NDC 50458-607-01 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA TRINZA® 410 mg paliperidone palmitate extended-release injectable suspension
+INVEGA TRINZA ®410 mg paliperidone palmitate extended-release injectable suspension
 
 FOR INTRAMUSCULAR INJECTION ONLY Each injection must be administered only by a health care professional.
 Shake before using
@@ -71,7 +71,7 @@ Each single-dose prefilled syringe contains 546 mg (1.75 mL) paliperidone palmit
 NDC 50458-608-01 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA TRINZA® 546 mg paliperidone palmitate extended-release injectable suspension
+INVEGA TRINZA ®546 mg paliperidone palmitate extended-release injectable suspension
 
 FOR INTRAMUSCULAR INJECTION ONLY Each injection must be administered only by a health care professional.
 Shake before using
@@ -100,7 +100,7 @@ Each single-dose prefilled syringe contains 819 mg (2.63 mL) paliperidone palmit
 NDC 50458-609-01 Single-dose prefilled syringe.
 Use entire contents of syringe.
 
-INVEGA TRINZA® 819 mg paliperidone palmitate extended-release injectable suspension
+INVEGA TRINZA ®819 mg paliperidone palmitate extended-release injectable suspension
 
 FOR INTRAMUSCULAR INJECTION ONLY Each injection must be administered only by a health care professional.
 Shake before using
