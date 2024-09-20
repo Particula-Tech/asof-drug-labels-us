@@ -51,17 +51,17 @@ Animal Data
 
 No developmental toxicity studies were conducted with the 6-month paliperidone palmitate extended-release injectable suspension.
 
-There were no treatment-related effects on the offspring when pregnant rats were injected intramuscularly with 1-month paliperidone palmitate extended-release injectable suspension during the period of organogenesis at doses up to 250 mg/kg, which is ~10 times the MRHD of 234 mg of the 1-month paliperidone palmitate extended-release injectable suspension based on mg/m2 body surface area.
+There were no treatment-related effects on the offspring when pregnant rats were injected intramuscularly with 1-month paliperidone palmitate extended-release injectable suspension during the period of organogenesis at doses up to 250 mg/kg, which is ~10 times the MRHD of 234 mg of the 1-month paliperidone palmitate extended-release injectable suspension based on mg/m 2body surface area.
 
-In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the oral MRHD of 12 mg based on mg/m2 body surface area.
+In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the oral MRHD of 12 mg based on mg/m 2body surface area.
 
 Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone.
-Cleft palate was observed in the offspring of pregnant mice treated with risperidone at 3 to 4 times the MRHD of 16 mg based on mg/m2 body surface area; maternal toxicity occurred at 4 times the MRHD.
-There was no evidence of teratogenicity in embryo-fetal developmental toxicity studies with risperidone in rats and rabbits at doses up to 6 times the MRHD of 16 mg/day risperidone based on mg/m2 body surface area.
-When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on mg/m2 body surface area, reached adulthood, learning was impaired.
+Cleft palate was observed in the offspring of pregnant mice treated with risperidone at 3 to 4 times the MRHD of 16 mg based on mg/m 2body surface area; maternal toxicity occurred at 4 times the MRHD.
+There was no evidence of teratogenicity in embryo-fetal developmental toxicity studies with risperidone in rats and rabbits at doses up to 6 times the MRHD of 16 mg/day risperidone based on mg/m 2body surface area.
+When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on mg/m 2body surface area, reached adulthood, learning was impaired.
 Increased neuronal cell death occurred in the fetal brains of the offspring of pregnant rats treated at 0.5 to 1.2 times the MRHD; the postnatal development and growth of the offspring was delayed.
 
-In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m2 body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or, to effects on the dams.
+In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m 2body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or, to effects on the dams.
 
 ## 8.2 Lactation
 
@@ -83,7 +83,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of paliperidone (D2 receptor antagonism), treatment with INVEGA HAFYERA may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.10)].
+Based on the pharmacologic action of paliperidone (D 2receptor antagonism), treatment with INVEGA HAFYERA may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.10)].
 
 ## 8.4 Pediatric Use
 
@@ -113,7 +113,8 @@ Because elderly patients are more likely to have decreased renal function, INVEG
 
 ## 8.6 Renal Impairment
 
-Use of INVEGA HAFYERA is not recommended for use in patients with mild, moderate, or severe renal impairment (creatinine clearance <90 mL/min) because necessary dosage adjustment is not possible with available strengths of INVEGA HAFYERA [Clinical Pharmacology (12.3)].
+Use of INVEGA HAFYERA is not recommended for use in patients with moderate or severe renal impairment (creatinine clearance <50 mL/min).
+Use of INVEGA HAFYERA in patients with mild renal impairment (creatinine clearance ≥50 mL/min to <80 mL/min) is based on the patient’s previous dose of PP1M or PP3M before transitioning to INVEGA HAFYERA [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

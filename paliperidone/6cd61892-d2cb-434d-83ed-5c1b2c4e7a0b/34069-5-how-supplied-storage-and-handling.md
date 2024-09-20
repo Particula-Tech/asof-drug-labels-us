@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INVEGA HAFYERA™ is available as a white to off-white sterile aqueous extended-release suspension for gluteal intramuscular injection in dose strengths of 1,092 mg/3.5 mL and 1,560 mg/5 mL paliperidone palmitate.
+INVEGA HAFYERA ®is available as a white to off-white sterile aqueous extended-release suspension for gluteal intramuscular injection in dose strengths of 1,092 mg/3.5 mL and 1,560 mg/5 mL paliperidone palmitate.
 The kit contains a single-dose prefilled syringe and a 20G, 1½-inch safety needle.
 
 1,092 mg paliperidone palmitate kit (NDC 50458-611-01)

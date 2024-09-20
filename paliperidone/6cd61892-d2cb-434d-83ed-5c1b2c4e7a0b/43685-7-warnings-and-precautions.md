@@ -8,13 +8,13 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-INVEGA HAFYERA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.2)].
+INVEGA HAFYERA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 No studies have been conducted with oral paliperidone, the 1-month paliperidone palmitate extended-release injectable suspension, the 3-month paliperidone extended-release injectable suspension or INVEGA HAFYERA in elderly patients with dementia.
-These medications are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
+These medications are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -31,13 +31,13 @@ Paliperidone causes a modest increase in the corrected QT (QTc) interval.
 The use of paliperidone should be avoided in combination with other drugs that are known to prolong QTc including Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval.
 Paliperidone should also be avoided in patients with congenital long QT syndrome and in patients with a history of cardiac arrhythmias.
 
-Certain circumstances may increase the risk of the occurrence of Torsades de pointes and/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
+Certain circumstances may increase the risk of the occurrence of Torsades de pointesand/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
 
 The effects of paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter Thorough QT study with oral paliperidone in adult patients, and in four fixed-dose efficacy studies and one maintenance study of the 1-month paliperidone palmitate injectable product.
 
 In the Thorough QT study (n=141), the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD (QT interval corrected for heart rate using the population specified linear derived method) of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
-The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate release (Cmax ss=113 ng/mL) was approximately 1.3-fold the exposure with the maximum recommended 1,560 mg dose of INVEGA HAFYERA administered in the gluteal muscle (mean Cmax md=89.3 ng/mL).
-In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which Cmax ss=35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
+The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate release (C max ss=113 ng/mL) was approximately 1.3-fold the exposure with the maximum recommended 1,560 mg dose of INVEGA HAFYERA administered in the gluteal muscle (mean C max md=89.3 ng/mL).
+In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C max ss=35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
 
 In the four fixed-dose efficacy studies of the 1-month paliperidone palmitate injectable product, no subject had a change in QTcLD exceeding 60 msec and no subject had a QTcLD value of >500 msec at any time point.
 In the maintenance study, no subject had a QTcLD change >60 msec, and one subject had a QTcLD value of 507 msec (Bazett's QT corrected interval [QTcB] value of 483 msec); this latter subject also had a heart rate of 45 beats per minute.
@@ -94,7 +94,7 @@ Data from the randomized double-blind active controlled study with INVEGA HAFYER
 Table 5.
 Change in Fasting Glucose from the randomized double-blind active controlled study with INVEGA HAFYERA in patients with schizophrenia
 
-| Total no. of patientsThe number of subjects with paired fasting data (baseline and any post baseline assessment). Using the conversion factor (1 mg/dL=0.05551 mmol/L) the ADA specified limits are as follows: Normal: <100 mg/dL (<5.551 mmol/L) Impaired: ≥100 mg/dL (≥5.551 mmol/L) to <126 mg/dL (<6.994 mmol/L) High: ≥126 mg/dL (≥6.994 mmol/L) 126 mg/dL=6.994 mmol/L; 140 mg/dL=7.771 mmol/L; 200 mg/dL=11.102 mmol/L; 300 mg/dL=16.653 mmol/L | PP3MPP3M – Every-three-month paliperidone palmitate extended-release injectable suspension N=195 | INVEGA HAFYERA N=423 |
+| Total no. of patients The number of subjects with paired fasting data (baseline and any post baseline assessment). Using the conversion factor (1 mg/dL=0.05551 mmol/L) the ADA specified limits are as follows: Normal: <100 mg/dL (<5.551 mmol/L) Impaired: ≥100 mg/dL (≥5.551 mmol/L) to <126 mg/dL (<6.994 mmol/L) High: ≥126 mg/dL (≥6.994 mmol/L) 126 mg/dL=6.994 mmol/L; 140 mg/dL=7.771 mmol/L; 200 mg/dL=11.102 mmol/L; 300 mg/dL=16.653 mmol/L | PP3M PP3M – Every-three-month paliperidone palmitate extended-release injectable suspension N=195 | INVEGA HAFYERA N=423 |
 | --- | --- | --- |
 | Normal to high | 3% | 4% |
 | Impaired glucose tolerance to high | 4% | 5% |
@@ -112,7 +112,7 @@ Shifts in lipid parameters from the randomized double-blind active controlled st
 Table 6.
 Shifts in Fasting Lipids in the Double-Blind Phase from the randomized active controlled study with INVEGA HAFYERA in patients with schizophrenia
 
-|  | PP3MPP3M – Every-three-month paliperidone palmitate extended-release injectable suspension. N=194 | INVEGA HAFYERA N=423 |
+|  | PP3M PP3M – Every-three-month paliperidone palmitate extended-release injectable suspension. N=194 | INVEGA HAFYERA N=423 |
 | --- | --- | --- |
 | Fasting Cholesterol (mg/dL) |  |  |
 | <200 mg/dL to >=240 mg/dL | 2 (1%) | 3 (0.7%) |
@@ -152,11 +152,11 @@ In patients with a history of a clinically significant low WBC/ANC or a drug-ind
 In such patients, consider discontinuation of INVEGA HAFYERA at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Discontinue INVEGA HAFYERA in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC until recovery.
+Discontinue INVEGA HAFYERA in patients with severe neutropenia (absolute neutrophil count <1000/mm 3) and follow their WBC until recovery.
 
 ## 5.10 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.

@@ -19,7 +19,7 @@ Clinically Important Drug Interactions with INVEGA HAFYERA
 | Clinical Recommendation | Monitor orthostatic vital signs in patients who are vulnerable to hypotension [see Warnings and Precautions (5.7)]. |
 | Strong Inducers of CYP3A4 and P-gp |  |
 | Clinical Rationale | The concomitant use of INVEGA HAFYERA and strong inducers of CYP3A4 and P-gp may decrease the exposure of paliperidone [see Clinical Pharmacology (12.3)]. |
-| Clinical Recommendation | Avoid using CYP3A4 and/or P-gp inducers with INVEGA HAFYERA during the 6-month dosing interval, if possible. If administering a strong inducer is necessary, consider managing the patient using paliperidone extended-release tablets [see Dosage and Administration (2.7)]. |
+| Clinical Recommendation | Avoid using CYP3A4 and/or P-gp inducers with INVEGA HAFYERA during the 6-month dosing interval, if possible. If administering a strong inducer is necessary, consider managing the patient using paliperidone extended-release tablets [see Dosage and Administration (2.1)]. |
 | Examples | carbamazepine, rifampin, or St. John's Wort |
 | Levodopa and Other Dopamine Agonists |  |
 | Clinical Rationale | Paliperidone may antagonize the effect of levodopa and other dopamine agonists. |
@@ -33,5 +33,5 @@ Additionally, no dosage adjustment is necessary for valproate when co-administer
 Pharmacokinetic interaction between lithium and INVEGA HAFYERA is unlikely.
 
 Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes.
-In vitro studies indicate that CYP2D6 and CYP3A4 may be involved in paliperidone metabolism; however, there is no evidence in vivo that inhibitors of these enzymes significantly affect the metabolism of paliperidone.
+In vitrostudies indicate that CYP2D6 and CYP3A4 may be involved in paliperidone metabolism; however, there is no evidence in vivothat inhibitors of these enzymes significantly affect the metabolism of paliperidone.
 Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19; an interaction with inhibitors or inducers of these isozymes is unlikely [see Clinical Pharmacology (12.3)].

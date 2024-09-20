@@ -2,7 +2,7 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
 - Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
@@ -39,12 +39,12 @@ Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA HAFYERA-Trea
 Table 7.
 Incidences of Adverse Reactions 2% or More of INVEGA HAFYERA-Treated Patients for the Double-Blind Phase of the Randomized Double-blind Active Controlled Trial in Patients with Schizophrenia
 
-| Adverse Reaction |  |  |
+| System Organ Class | PP3M PP3M – Every-three-month paliperidone palmitate extended-release injectable suspension (N=224) % | INVEGA HAFYERA (N=478) % |
 | --- | --- | --- |
 |  | Double Blind |  |
-| System Organ Class | PP3MPP3M – Every-three-month paliperidone palmitate extended-release injectable suspension (N=224) % | INVEGA HAFYERA (N=478) % |
+| Adverse Reaction |  |  |
 | Gastrointestinal disorders |  |  |
-| DiarrheaThe following terms were combined: Diarrhea includes: Diarrhea, Diarrhea infectious. Injection site reaction: includes Injection site reaction, Injection site discomfort, Injection site erythema, Injection site hemorrhage, Injection site induration, Injection site nodule, Injection site oedema, Injection site pain, Injection site swelling. Weight increased includes: Weight increased, Body mass index increased, Obesity, Waist circumference increased. Upper respiratory tract infection includes: Upper respiratory tract infection, Nasopharyngitis, Pharyngitis, Rhinitis, Viral pharyngitis, Viral upper respiratory tract infection. Back pain includes: Back pain, Neck pain, Spinal pain. Musculoskeletal pain includes: Musculoskeletal pain, Musculoskeletal chest pain, Myalgia, Pain in extremity. Akathisia includes: Akathisia, Restless legs syndrome, Restlessness. Extrapyramidal symptoms includes: blepharospasms, bradykinesia, drooling, dyskinesia, dystonia, hypokinesia, musculoskeletal stiffness, muscle rigidity, muscle spasms, oculogyric crisis, Parkinsonism, Parkinsonism rest tremor, reduced facial expression, tardive dyskinesia. Insomnia includes: Insomnia, Initial insomnia, Middle insomnia. Psychosis includes: acute psychosis, delusion, delusion of reference, hallucination (auditory), psychotic disorder, psychotic symptom, and schizophrenia. | 1 | 2 |
+| Diarrhea The following terms were combined: Diarrhea includes: Diarrhea, Diarrhea infectious. Injection site reaction: includes Injection site reaction, Injection site discomfort, Injection site erythema, Injection site hemorrhage, Injection site induration, Injection site nodule, Injection site oedema, Injection site pain, Injection site swelling. Weight increased includes: Weight increased, Body mass index increased, Obesity, Waist circumference increased. Upper respiratory tract infection includes: Upper respiratory tract infection, Nasopharyngitis, Pharyngitis, Rhinitis, Viral pharyngitis, Viral upper respiratory tract infection. Back pain includes: Back pain, Neck pain, Spinal pain. Musculoskeletal pain includes: Musculoskeletal pain, Musculoskeletal chest pain, Myalgia, Pain in extremity. Akathisia includes: Akathisia, Restless legs syndrome, Restlessness. Extrapyramidal symptoms includes: blepharospasms, bradykinesia, drooling, dyskinesia, dystonia, hypokinesia, musculoskeletal stiffness, muscle rigidity, muscle spasms, oculogyric crisis, Parkinsonism, Parkinsonism rest tremor, reduced facial expression, tardive dyskinesia. Insomnia includes: Insomnia, Initial insomnia, Middle insomnia. Psychosis includes: acute psychosis, delusion, delusion of reference, hallucination (auditory), psychotic disorder, psychotic symptom, and schizophrenia. | 1 | 2 |
 | General disorders and administration site conditions |  |  |
 | Injection site reaction | 5 | 11 |
 | Infections and infestations |  |  |
@@ -76,18 +76,18 @@ Several methods were used to measure EPS: (1) the Simpson-Angus Rating Scale Glo
 Table 8.
 Extrapyramidal Symptoms (EPS) Assessed by Rating Scales Incidence and Use of Anticholinergic Medication During the Double-blind Phase
 
-|  | PP3MPP3M - Every-three-month paliperidone palmitate extended-release injectable suspension (N=224) % | INVEGA HAFYERA (N=478) % |
+|  | PP3M PP3M - Every-three-month paliperidone palmitate extended-release injectable suspension (N=224) % | INVEGA HAFYERA (N=478) % |
 | --- | --- | --- |
-| Use of Anticholinergic MedicationUse of Anti-EPS Medication During the Double-blind Phase | 13 | 15 |
-| ParkinsonismPercent of subjects with Simpson-Angus Scale Global Score >0.3(Global Score defined as total sum of items score divided by the number of items). | 6 | 7 |
-| AkathisiaPercent of subjects with Barnes Akathisia Rating Scale Global Clinical Rating Score ≥2 | 3 | 3 |
-| DyskinesiaPercent of subjects with a score ≥3 on any of the first seven items or a score ≥2 on two or more of any of the first seven items of the Abnormal Involuntary Movement Scale | 1 | 1 |
+| Use of Anticholinergic Medication Use of Anti-EPS Medication During the Double-blind Phase | 13 | 15 |
+| Parkinsonism Percent of subjects with Simpson-Angus Scale Global Score >0.3(Global Score defined as total sum of items score divided by the number of items). | 6 | 7 |
+| Akathisia Percent of subjects with Barnes Akathisia Rating Scale Global Clinical Rating Score ≥2 | 3 | 3 |
+| Dyskinesia Percent of subjects with a score ≥3 on any of the first seven items or a score ≥2 on two or more of any of the first seven items of the Abnormal Involuntary Movement Scale | 1 | 1 |
 | Note: Percentages are calculated based on number of subjects in the DB Safety analysis set per treatment group. |  |  |
 
 Table 9.
 Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term
 
-| EPS Group | PP3MPP3M – Every-three-month paliperidone palmitate extended-release injectable suspension Parkinsonism group includes: Bradykinesia, drooling, hypokinesia, muscle rigidity, musculoskeletal stiffness, parkinsonism, parkinsonian rest tremor, reduced facial expression Hyperkinesia group includes: Akathisia, restlessness, restless legs syndrome Dyskinesia group includes: Dyskinesia, muscle twitching, tardive dyskinesia Dystonia group includes: Blepharospasm, dystonia, muscle spasms, oculogyric crisis (N=224) % | INVEGA HAFYERA (N=478) % |
+| EPS Group | PP3M PP3M – Every-three-month paliperidone palmitate extended-release injectable suspension Parkinsonism group includes: Bradykinesia, drooling, hypokinesia, muscle rigidity, musculoskeletal stiffness, parkinsonism, parkinsonian rest tremor, reduced facial expression Hyperkinesia group includes: Akathisia, restlessness, restless legs syndrome Dyskinesia group includes: Dyskinesia, muscle twitching, tardive dyskinesia Dystonia group includes: Blepharospasm, dystonia, muscle spasms, oculogyric crisis (N=224) % | INVEGA HAFYERA (N=478) % |
 | --- | --- | --- |
 |  | Double-blind Phase |  |
 | Overall percentage of subjects with EPS-related adverse events | 9 | 10 |
@@ -208,4 +208,4 @@ The following adverse reactions have been identified during post-approval use of
 Cases of anaphylactic reaction after injection with the 1-month paliperidone palmitate extended-release suspension have been reported during postmarketing experience in patients who have previously tolerated oral risperidone or oral paliperidone.
 
 Paliperidone is the major active metabolite of risperidone.
-Adverse reactions reported with oral risperidone and risperidone long-acting injection can be found in the Adverse Reactions (6) section of the Prescribing Information for those products.
+Adverse reactions reported with oral risperidone and risperidone long-acting injection can be found in the Adverse Reactions (6)section of the Prescribing Information for those products.

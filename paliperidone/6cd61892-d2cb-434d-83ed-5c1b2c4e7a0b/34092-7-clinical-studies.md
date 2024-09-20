@@ -15,6 +15,6 @@ The upper bound of the 95% CI (6.8%) was less than 10%, the prespecified non-inf
 The study demonstrated non-inferiority of INVEGA HAFYERA to PP3M.
 A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 4.
 
-Figure 4 Kaplan-Meier Plot of Cumulative Proportion of Patients with Relapse Over Time
+Figure 4: Kaplan-Meier Plot of Cumulative Proportion of Patients with Relapse Over Time
 
 An evaluation of population subgroups did not reveal any clinically significant differences in responsiveness on the basis of gender, age, or race.
