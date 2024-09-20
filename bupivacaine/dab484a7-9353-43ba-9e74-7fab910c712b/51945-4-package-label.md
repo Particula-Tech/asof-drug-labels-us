@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - Kit Carton - 14 mL
+# PRINCIPAL DISPLAY PANEL - 14 mL Vial Carton Kit
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -40,7 +40,7 @@ Vial Contents: 14 mL* Withdraw 14 mL to deliver 13.5 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - 10.5 mL
+# PRINCIPAL DISPLAY PANEL - 10.5 mL Vial Carton Kit
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -82,7 +82,7 @@ Vial Contents: 10.5 mL* Withdraw 10.5 mL to deliver 10.2 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - 7 mL
+# PRINCIPAL DISPLAY PANEL - 7 mL Vial Carton Kit
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -124,7 +124,7 @@ Vial Contents: 7 mL* Withdraw 7 mL to deliver 6.7 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - 2.3 mL
+# PRINCIPAL DISPLAY PANEL - 2.3 mL Vial Carton Kit
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
