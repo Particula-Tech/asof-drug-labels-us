@@ -2,7 +2,7 @@
 
 NDC 50111-647-01
 
-Fluoxetine Capsules, USP 10 mg*
+Fluoxetine Capsules, USP 10 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -14,7 +14,7 @@ Rx only
 
 NDC 50111-648-01
 
-Fluoxetine Capsules, USP 20 mg*
+Fluoxetine Capsules, USP 20 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
