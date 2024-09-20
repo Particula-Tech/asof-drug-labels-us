@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA011265"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-758-04",
+    "62559-758-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "promethazine hydrochloride and dextromethorphan hydrobromide",
+      "name": "Promethazine Hydrochloride and Dextromethorphan Hydrobromide"
+    }
+  ],
+  "setid": "a52e210f-b99d-493e-b679-ec565c6ff72d",
+  "source": "dailymed"
+}
