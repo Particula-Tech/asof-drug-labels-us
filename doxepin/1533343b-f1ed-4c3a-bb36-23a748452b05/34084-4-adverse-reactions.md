@@ -3,26 +3,42 @@
 NOTE: Some of the adverse reactions noted below have not been specifically reported with doxepin use.
 However, due to the close pharmacological similarities among the tricyclics, the reactions should be considered when prescribing doxepin.
 
-Anticholinergic Effects: Dry mouth, blurred vision, constipation and urinary retention have been reported.
+## Anticholinergic Effects
+
+Dry mouth, blurred vision, constipation and urinary retention have been reported.
 If they do not subside with continued therapy or become severe, it may be necessary to reduce the dosage.
 
-Central Nervous System Effects: Drowsiness is the most commonly noticed side effect.
+## Central Nervous System Effects
+
+Drowsiness is the most commonly noticed side effect.
 This tends to disappear as therapy is continued.
 Other infrequently reported CNS side effects are confusion, disorientation, hallucinations, numbness, paresthesias, ataxia, extrapyramidal symptoms, seizures, tardive dyskinesia and tremor.
 
-Cardiovascular: Cardiovascular effects including hypotension, hypertension and tachycardia have been reported occasionally.
+## Cardiovascular
 
-Allergic: Skin rash, edema, photosensitization and pruritus have occasionally occurred.
+Cardiovascular effects including hypotension, hypertension and tachycardia have been reported occasionally.
 
-Hematologic: Eosinophilia has been reported in a few patients.
+## Allergic
+
+Skin rash, edema, photosensitization and pruritus have occasionally occurred.
+
+## Hematologic
+
+Eosinophilia has been reported in a few patients.
 There have been occasional reports of bone marrow depression manifesting as agranulocytosis, leukopenia, thrombocytopenia and purpura.
 
-Gastrointestinal: Nausea, vomiting, indigestion, taste disturbances, diarrhea, anorexia and aphthous stomatitis have been reported.
+## Gastrointestinal
+
+Nausea, vomiting, indigestion, taste disturbances, diarrhea, anorexia and aphthous stomatitis have been reported.
 (See Anticholinergic Effects.)
 
-Endocrine: Raised or lowered libido, testicular swelling, gynecomastia in males, enlargement of breasts and galactorrhea in the female, raising or lowering of blood sugar levels and syndrome of inappropriate antidiuretic hormone secretion have been reported with tricyclic administration.
+## Endocrine
 
-Other: Dizziness, tinnitus, weight gain, sweating, chills, fatigue, weakness, flushing, jaundice, alopecia, headache, exacerbation of asthma, angle closure glaucoma, mydriasis and hyperpyrexia (in association with chlorpromazine) have been occasionally observed as adverse effects.
+Raised or lowered libido, testicular swelling, gynecomastia in males, enlargement of breasts and galactorrhea in the female, raising or lowering of blood sugar levels and syndrome of inappropriate antidiuretic hormone secretion have been reported with tricyclic administration.
+
+## Other
+
+Dizziness, tinnitus, weight gain, sweating, chills, fatigue, weakness, flushing, jaundice, alopecia, headache, exacerbation of asthma, angle closure glaucoma, mydriasis and hyperpyrexia (in association with chlorpromazine) have been occasionally observed as adverse effects.
 
 ## Withdrawal Symptoms
 

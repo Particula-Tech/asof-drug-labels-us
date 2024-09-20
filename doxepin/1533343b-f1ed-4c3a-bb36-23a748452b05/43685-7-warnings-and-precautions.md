@@ -15,10 +15,9 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-Table 1
-
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality Per 1,000 Patients Treated |
+| Table 1 |  |
 | --- | --- |
+| Age Range | Drug-Placebo Difference inNumber of Cases of SuicidalityPer 1,000 Patients Treated |
 | Increases Compared to Placebo |  |
 | < 18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
@@ -57,7 +56,7 @@ The pupillary dilation that occurs following use of many antidepressant drugs in
 
 ## Geriatric Use
 
-The use of doxepin on a once a day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition (see PRECAUTIONS: Geriatric Use).
+The use of doxepin on a once a day dosage regimen in geriatric patients should be adjusted carefully based on the patient’s condition (see PRECAUTIONS: Geriatric Use).
 
 ## Pregnancy
 
@@ -75,7 +74,7 @@ The use of doxepin in children under 12 years of age is not recommended because 
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families and their caregivers about the benefits and risks associated with treatment with doxepin and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses and Suicidal Thoughts or Actions" is available for doxepin.
+A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses and Suicidal Thoughts or Actions” is available for doxepin.
 The prescriber or health professional should instruct patients, their families and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -98,7 +97,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 ### Drugs Metabolized by P450 2D6
 
-The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called "poor metabolizers"); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
+The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
 Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
 Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).
 

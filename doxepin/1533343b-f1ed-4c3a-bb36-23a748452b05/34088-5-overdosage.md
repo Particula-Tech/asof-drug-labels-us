@@ -19,7 +19,7 @@ Deaths have been reported involving overdoses of doxepin.
 ### General
 
 Obtain an ECG and immediately initiate cardiac monitoring.
-Protect the patient's airway, establish an intravenous line and initiate gastric decontamination.
+Protect the patient’s airway, establish an intravenous line and initiate gastric decontamination.
 A minimum of 6 hours of observation with cardiac monitoring and observation for signs of CNS or respiratory depression, hypotension, cardiac dysrhythmias and/or conduction blocks, and seizures is strongly advised.
 If signs of toxicity occur at any time during this period, extended monitoring is recommended.
 There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination.

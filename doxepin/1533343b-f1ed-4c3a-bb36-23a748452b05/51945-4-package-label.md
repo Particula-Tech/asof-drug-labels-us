@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg
+# PRINCIPAL DISPLAY PANEL – 10 mg
 
 NDC 0378-1049-01
 
@@ -8,17 +8,12 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
-*Each capsule contains doxepin hydrochloride, USP equivalent to 10 mg of doxepin.
-
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from light.
 
 Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
@@ -27,13 +22,11 @@ See package insert for complete dosage information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
+RVPL1049A1
 
-Mylan.com
+*Each capsule contains doxepin hydrochloride, USP equivalent to 10 mg of doxepin.
 
-RM1049A12
-
-# PRINCIPAL DISPLAY PANEL - 25 mg
+# PRINCIPAL DISPLAY PANEL – 25 mg
 
 NDC 0378-3125-01
 
@@ -43,17 +36,12 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
-*Each capsule contains doxepin hydrochloride, USP equivalent to 25 mg of doxepin.
-
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from light.
 
 Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
@@ -62,13 +50,11 @@ See package insert for complete dosage information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
+RVPL3125A1
 
-Mylan.com
+*Each capsule contains doxepin hydrochloride, USP equivalent to 25 mg of doxepin.
 
-RM3125A14
-
-# PRINCIPAL DISPLAY PANEL - 50 mg
+# PRINCIPAL DISPLAY PANEL – 50 mg
 
 NDC 0378-4250-01
 
@@ -78,17 +64,12 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
-*Each capsule contains doxepin hydrochloride, USP equivalent to 50 mg of doxepin.
-
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from light.
 
 Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
@@ -97,13 +78,13 @@ See package insert for complete dosage information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
-
 Mylan.com
 
-RM4250A13
+RVPL4250A1
 
-# PRINCIPAL DISPLAY PANEL - 75 mg
+*Each capsule contains doxepin hydrochloride, USP equivalent to 50 mg of doxepin.
+
+# PRINCIPAL DISPLAY PANEL – 75 mg
 
 NDC 0378-5375-01
 
@@ -113,17 +94,12 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
-*Each capsule contains doxepin hydrochloride, USP equivalent to 75 mg of doxepin.
-
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from light.
 
 Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
@@ -132,13 +108,13 @@ See package insert for complete dosage information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
-
 Mylan.com
 
-RM5375A13
+RVPL5375A1
 
-# PRINCIPAL DISPLAY PANEL - 100 mg
+*Each capsule contains doxepin hydrochloride, USP equivalent to 75 mg of doxepin.
+
+# PRINCIPAL DISPLAY PANEL – 100 mg
 
 NDC 0378-6410-01
 
@@ -148,17 +124,12 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
-*Each capsule contains doxepin hydrochloride, USP equivalent to 100 mg of doxepin.
-
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from light.
 
 Usual Daily Dosage: Mild to moderate symptomatology: 75 mg to 150 mg.
@@ -167,8 +138,8 @@ See package insert for complete dosage information.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Made in Puerto Rico
-
 Mylan.com
 
-RM6410A12
+RVPL6410A1
+
+*Each capsule contains doxepin hydrochloride, USP equivalent to 100 mg of doxepin.
