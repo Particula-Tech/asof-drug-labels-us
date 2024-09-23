@@ -27,6 +27,6 @@ Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zheji
 
 Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Revision: 08/2020
+Revised: 08/2024
 
-200278-01
+200278-02

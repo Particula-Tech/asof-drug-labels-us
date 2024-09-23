@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet
+# PRINCIPAL DISPLAY PANEL - 2.5 mg 30 Tablets
 
 Solco Healthcare US, LLC
 
@@ -10,7 +10,7 @@ Lisinopril Tablets USP
 
 30 Tablets
 
-PRINCIPAL DISPLAY PANEL - 5 mg Tablet
+# PRINCIPAL DISPLAY PANEL - 5 mg 100 Tablets
 
 Solco Healthcare US, LLC
 
@@ -20,11 +20,9 @@ Lisinopril Tablets USP
 
 5 mg
 
-100 Tablets
+# PRINCIPAL DISPLAY PANEL - 10 mg 30 Tablets
 
-### PRINCIPAL DISPLAY PANEL - 10 mg Tablet
-
-Solco Healthcare US
+Solco Healthcare US, LLC
 
 NDC 43547-353-03 Rx only
 
@@ -32,9 +30,7 @@ Lisinopril Tablets USP
 
 10 mg
 
-30 Tablets
-
-#### PRINCIPAL DISPLAY PANEL - 20 mg Tablet
+# PRINCIPAL DISPLAY PANEL - 20 mg 30 Tablets
 
 Solco Healthcare US, LLC
 
@@ -44,9 +40,7 @@ Lisinopril Tablets USP
 
 20 mg
 
-30 Tablets
-
-##### PRINCIPAL DISPLAY PANEL - 30 mg Tablet
+# PRINCIPAL DISPLAY PANEL - 30 mg 30 Tablets
 
 Solco Healthcare US, LLC
 
@@ -56,16 +50,12 @@ Lisinopril Tablets USP
 
 30 mg
 
-30 Tablets
-
-###### PRINCIPAL DISPLAY PANEL - 40 mg Tablet
+# PRINCIPAL DISPLAY PANEL - 40 mg 100 Tablets
 
 Solco Healthcare US, LLC
 
-NDC 43547-356-10
+NDC 43547-356-10 Rx only
 
 Lisinopril Tablets USP
 
-40 mg
-
-100 Tablets
+100 mg
