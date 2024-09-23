@@ -93,7 +93,13 @@ Safety and effectiveness in pediatric patients younger than 6 years of age with 
 
 CRSwNP
 
-Safety and effectiveness in pediatric patients younger than 18 years of age with CRSwNP have not been established.
+The safety and effectiveness of DUPIXENT for add-on maintenance treatment in patients with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP) have been established in pediatric patients aged 12 years and older.
+Use of DUPIXENT for this indication is supported by evidence from adequate and well-controlled studies of DUPIXENT as add-on maintenance treatment in adults with inadequately controlled CRSwNP (SINUS-24 and SINUS- 52) with the following additional data:
+
+- Pharmacokinetic (PK) data from adult and pediatric patients aged 12 years and older with moderate-to-severe asthma and adult patients with inadequately controlled CRSwNP
+- Safety data in pediatric patients aged 12 years and older with moderate-to-severe asthma [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)]
+
+Safety and effectiveness in pediatric patients younger than 12 years of age with CRSwNP have not been established.
 
 EoE
 

@@ -94,7 +94,12 @@ The mean ± SD steady-state trough concentrations of dupilumab were 107±51.6 mc
 
 In VOYAGE, dupilumab pharmacokinetics was investigated in 270 subjects with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 pediatric subjects weighing <30 kg) or 200 mg Q2W (for 179 pediatric subjects weighing ≥30 kg).
 The mean ± SD steady-state trough concentration was 58.4±28.0 mcg/mL and 85.1±44.9 mcg/mL, respectively.
-Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years of age with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mcg/L) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg).
+Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years of age with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mcg/mL) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg).
+
+CRSwNP
+
+Clinical studies have not been conducted in pediatric patients aged 12 years and older with CRSwNP.
+Dupilumab exposures are expected to be comparable between adults and pediatric patients aged 12 years and older at the recommended dosage for CRSwNP (300 mg every 2 weeks).
 
 Eosinophilic Esophagitis
 
@@ -137,9 +142,9 @@ Similar results were observed in pediatric subjects 6 to 11 years of age with as
 
 Approximately 9% of subjects with asthma who received DUPIXENT 200 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 4% exhibited persistent ADA responses, and approximately 4% had neutralizing antibodies.
 
-Chronic Rhinosinusitis with Nasal Polyposis
+Chronic Rhinosinusitis with Nasal Polyps
 
-Approximately 5% of subjects with CRSwNP who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
+Approximately 5% of adult subjects with CRSwNP who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
 
 Eosinophilic Esophagitis
 

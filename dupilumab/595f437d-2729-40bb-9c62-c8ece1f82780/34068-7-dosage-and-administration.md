@@ -82,7 +82,7 @@ Table 3: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older w
 | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
 | Or |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
-| Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid chronic rhinosinusitis with nasal polyposis |  |
+| Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid chronic rhinosinusitis with nasal polyps |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 
 Dosage in Pediatric Patients 6 to 11 Years of Age
@@ -98,9 +98,9 @@ Table 4: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asth
 
 For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe AD, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
 
-## 2.5 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyposis
+## 2.5 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyps
 
-The recommended dosage of DUPIXENT for adult patients is 300 mg given every other week.
+The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older is 300 mg given every other week (Q2W).
 
 ## 2.6 Recommended Dosage for Eosinophilic Esophagitis
 

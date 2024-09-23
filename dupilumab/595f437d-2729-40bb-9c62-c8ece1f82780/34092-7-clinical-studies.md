@@ -249,7 +249,7 @@ Table 17: Demographics and Baseline Characteristics of Asthma Trials
 | Mean FeNO ppb (± SD) | 39 (35) | 35 (33) | 38 (31) |
 | Mean total IgE IU/mL (± SD) | 435 (754) | 432 (747) | 431 (776) |
 | Mean baseline blood Eosinophil count (± SD) cells/mcL | 350 (430) | 360 (370) | 350 (310) |
-| ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; AD = atopic dermatitis; NP = nasal polyposis; AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide |  |  |  |
+| ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; AD = atopic dermatitis; NP = nasal polyps; AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide |  |  |  |
 
 Exacerbations
 
@@ -407,11 +407,11 @@ Greater responder rates were observed for ACQ-7-IA and PAQLQ(S)-IA compared to p
 The responder rate was defined as an improvement in score of 0.5 or more (scale range 0-6 for ACQ-7-IA and 1-7 for PAQLQ(S)-IA).
 In the subgroup of subjects with baseline blood eosinophil count ≥300 cells/mcL, DUPIXENT led to a higher proportion of subjects with a response in ACQ-7-IA (80.6% versus 64.3% for placebo) with an OR of 2.79 (95% CI: 1.43, 5.44), and in PAQLQ(S)-IA (72.8% versus 63.0% for placebo) with an OR of 1.84 (95% CI: 0.92, 3.65) at Week 24.
 
-## 14.3 Chronic Rhinosinusitis with Nasal Polyposis
+## 14.3 Chronic Rhinosinusitis with Nasal Polyps
 
-The chronic rhinosinusitis with nasal polyposis (CRSwNP) development program included two randomized, double-blind, parallel-group, multicenter, placebo-controlled studies (SINUS-24 (NCT02912468) and SINUS-52 (NCT02898454)) in 724 adult subjects 18 years of age and older on background intranasal corticosteroids (INCS).
+The efficacy of DUPIXENT as an add-on maintenance treatment in adults with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP) was evaluated in two randomized, double-blind, parallel-group, multicenter, placebo-controlled studies (SINUS-24 (NCT02912468) and SINUS-52 (NCT02898454)) in 724 adult subjects 18 years of age and older on background intranasal corticosteroids (INCS).
 These studies included subjects with CRSwNP despite prior sino-nasal surgery or treatment with, or who were ineligible to receive or were intolerant to, systemic corticosteroids in the past 2 years.
-Subjects with chronic rhinosinusitis without nasal polyposis were not included in these trials.
+Subjects with chronic rhinosinusitis without nasal polyps were not included in these trials.
 Rescue with systemic corticosteroids or surgery was allowed during the studies at the investigator's discretion.
 In SINUS-24, a total of 276 subjects were randomized to receive either 300 mg DUPIXENT (N=143) or placebo (N=133) every other week for 24 weeks.
 In SINUS-52, 448 subjects were randomized to receive either 300 mg DUPIXENT (N=150) every other week for 52 weeks, 300 mg DUPIXENT (N=145) every other week until Week 24 followed by 300 mg DUPIXENT every 4 weeks until Week 52, or placebo (N=153).

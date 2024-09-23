@@ -108,7 +108,7 @@ In DRI12544 and QUEST, the proportion of subjects who discontinued treatment due
 
 Table 7 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator groups in DRI12544 and QUEST.
 
-Table 7: Adverse Reactions Occurring in ≥1% of the DUPIXENT Groups in DRI12544 and QUEST and Greater than Placebo (6 Month Safety Pool)
+Table 7: Adverse Reactions Occurring in ≥1% of Adult and Pediatric Subjects 12 Years of Age and Older with Asthma in the DUPIXENT Groups in DRI12544 and QUEST and Greater than Placebo (6 Month Safety Pool)
 
 | N=779 n (%) | N=788 n (%) | N=792 n (%) |  |
 | --- | --- | --- | --- |
@@ -131,16 +131,16 @@ The majority of cases were enterobiasis, reported in 1.8% (5 subjects) in the DU
 There was one case of ascariasis in the DUPIXENT group.
 All helminth infection cases were mild to moderate and subjects recovered with anti-helminth treatment without DUPIXENT treatment discontinuation.
 
-Chronic Rhinosinusitis with Nasal Polyposis
+Chronic Rhinosinusitis with Nasal Polyps
 
-A total of 722 adult subjects with chronic rhinosinusitis with nasal polyposis (CRSwNP) were evaluated in 2 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks duration (SINUS-24 and SINUS-52).
+A total of 722 adult subjects with chronic rhinosinusitis with nasal polyps (CRSwNP) were evaluated in 2 randomized, placebo-controlled, multicenter trials of 24 to 52 weeks duration (SINUS-24 and SINUS-52).
 The safety pool consisted of data from the first 24 weeks of treatment from both studies.
 
-In the safety pool, the proportion of subjects who discontinued treatment due to adverse events was 5% of the placebo group and 2% of the DUPIXENT 300 mg Q2W group.
+In the safety pool, the proportion of adult subjects who discontinued treatment due to adverse events was 5% of the placebo group and 2% of the DUPIXENT 300 mg Q2W group.
 
-Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in SINUS-24 and SINUS-52.
+Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% in adult subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in SINUS-24 and SINUS-52.
 
-Table 8: Adverse Reactions Occurring in ≥1% of the DUPIXENT Group in SINUS-24 and SINUS-52 and Greater than Placebo (24-Week Safety Pool)
+Table 8: Adverse Reactions Occurring in ≥1% of Adult Subjects with CRSwNP in the DUPIXENT Group in SINUS-24 and SINUS-52 and Greater than Placebo (24-Week Safety Pool)
 
 | N=440 n (%) | N=282 n (%) |  |
 | --- | --- | --- |
@@ -160,7 +160,7 @@ Eosinophilic Esophagitis
 
 Adults and Pediatric Subjects 12 Years of Age and Older with EoE
 
-A total of 239 adult and pediatric subjects 12 years of age and older, weighing at least 40 kg, with EoE were evaluated in a randomized, double-blind, parallel-group, multicenter, placebo-controlled trial, including two 24-week treatment periods (Study EoE-1 Parts A and B) and received either DUPIXENT 300 mg QW or placebo[see Clinical Studies (14.4)].
+A total of 239 adult and pediatric subjects 12 years of age and older, weighing at least 40 kg, with EoE were evaluated in a randomized, double-blind, parallel-group, multicenter, placebo-controlled trial, including two 24-week treatment periods (Study EoE-1 Parts A and B) and received either DUPIXENT 300 mg QW or placebo [see Clinical Studies (14.4)].
 
 The proportion of subjects who discontinued treatment due to adverse events was 2% of the placebo group and 2% of the DUPIXENT 300 mg QW group.
 
@@ -228,9 +228,9 @@ Most subjects with conjunctivitis or keratitis recovered or were recovering duri
 
 Among subjects with asthma, the frequency of conjunctivitis and keratitis was similar between DUPIXENT and placebo.
 
-In subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT group compared to 1% in the placebo group in the 24-week safety pool; these subjects recovered.
+In adult subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT group compared to 1% in the placebo group in the 24-week safety pool; these subjects recovered.
 
-In the 52-week CRSwNP study (SINUS-52), the frequency of conjunctivitis was 3% in the DUPIXENT subjects and 1% in the placebo subjects; all of these subjects recovered.
+In the 52-week CRSwNP study (SINUS-52), the frequency of conjunctivitis was 3% in the DUPIXENT adult subjects and 1% in the placebo subjects; all of these subjects recovered.
 There were no cases of keratitis reported in the CRSwNP development program [see Warnings and Precautions (5.2)].
 
 Among subjects with EoE, there were no reports of conjunctivitis and keratitis in the DUPIXENT group in placebo-controlled trials [see Warnings and Precautions (5.2)].
@@ -286,8 +286,8 @@ In the 1-year placebo-controlled trial in adult and pediatric subjects 12 years 
 
 In the 1-year placebo-controlled trial in subjects with AD (CHRONOS), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.9%) of the DUPIXENT + TCS 300 mg Q2W group, 0 (0.0%) of the DUPIXENT + TCS 300 mg QW group, and 1 (0.3%) of the placebo + TCS group.
 
-In the 24-week placebo-controlled trial in subjects with CRSwNP (SINUS-24), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.7%) of the DUPIXENT group and 0 (0.0%) of the placebo group.
-In the 1-year placebo-controlled trial in subjects with CRSwNP (SINUS-52), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
+In the 24-week placebo-controlled trial in adult subjects with CRSwNP (SINUS-24), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.7%) of the DUPIXENT group and 0 (0.0%) of the placebo group.
+In the 1-year placebo-controlled trial in adult subjects with CRSwNP (SINUS-52), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
 
 In the 24-week placebo-controlled trial in subjects with EoE (Study EoE-1 Parts A and B), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
 
