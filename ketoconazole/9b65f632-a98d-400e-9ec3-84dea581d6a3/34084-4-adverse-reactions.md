@@ -9,7 +9,7 @@ The safety data presented in Table 1 reflect exposure to ketoconazole foam, 2% i
 Subjects applied ketoconazole foam, 2% or vehicle foam twice daily for 4 weeks to affected areas on the face, scalp, and/or chest.
 Adverse reactions occurring in > 1% of subjects are presented in Table 1.
 
-Table 1: Adverse Reactions Reported by >1% Subjects in Clinical Trials
+Table 1: Adverse Reactions Reported by > 1% Subjects in Clinical Trials
 
 | Adverse Reactions | Ketoconazole Foam, 2%N = 672n (%) | Vehicle FoamN = 497n (%) |
 | --- | --- | --- |

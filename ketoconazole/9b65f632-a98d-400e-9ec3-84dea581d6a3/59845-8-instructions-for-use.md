@@ -34,20 +34,14 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Rx Only
 
-Made in Israel
-
-Manufactured By Padagis
+Manufactured by Padagis®
 
 Yeruham, Israel
 
-Distributed By
-
-Padagis
-
-Allegan, MI 49010
-
 www.padagis.com
 
-Rev 09-21
+Rev 02-24
 
-5K200 RC J5
+5K200 RC PH6
+
+Product of India
