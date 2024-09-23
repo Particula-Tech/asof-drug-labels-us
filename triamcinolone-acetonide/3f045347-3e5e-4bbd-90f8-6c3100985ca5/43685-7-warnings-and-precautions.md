@@ -2,7 +2,7 @@
 
 ## 5.1 Ophthalmic Effects
 
-TRIESENCE® suspension should not be administered intravenously.
+TRIESENCE ®suspension should not be administered intravenously.
 Strict aseptic technique is mandatory.
 
 Risk of infection
@@ -35,7 +35,7 @@ Use of corticosteroids may produce cataracts, particularly posterior subcapsular
 Patients with Ocular Herpes Simplex
 
 Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
-Corticosteroids should not be used in active ocular herpes simplex.
+Corticosteroids should not be used in activeocular herpes simplex.
 
 ## 5.2 Alterations in Endocrine Function
 

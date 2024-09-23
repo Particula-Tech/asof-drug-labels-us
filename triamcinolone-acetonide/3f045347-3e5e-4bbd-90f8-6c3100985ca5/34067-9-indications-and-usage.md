@@ -2,7 +2,7 @@
 
 ## 1.1 Ophthalmic Diseases
 
-TRIESENCE® (triamcinolone acetonide injectable suspension) 40 mg/mL is indicated for:
+TRIESENCE ®(triamcinolone acetonide injectable suspension) 40 mg/mL is indicated for:
 
 • sympathetic ophthalmia,
 
@@ -14,4 +14,4 @@ TRIESENCE® (triamcinolone acetonide injectable suspension) 40 mg/mL is indicate
 
 ## 1.2 Visualization during Vitrectomy
 
-TRIESENCE® suspension is indicated for visualization during vitrectomy.
+TRIESENCE ®suspension is indicated for visualization during vitrectomy.
