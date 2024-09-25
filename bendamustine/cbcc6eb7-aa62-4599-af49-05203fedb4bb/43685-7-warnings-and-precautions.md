@@ -13,7 +13,7 @@ Delay the next cycle of therapy if ANC less than 1 x 109/L or platelet count les
 
 ## 5.2 Infections
 
-Infection, including pneumonia, sepsis, septic shock, hepatitis and death has occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride.
+Infection, including pneumonia, sepsis, septic shock, hepatitis and death has occurred in adult and pediatric patients in clinical trials and in postmarketing reports for bendamustine hydrochloride [see Adverse Reactions (6.1, 6.2)].
 Patients with myelosuppression following treatment with bendamustine hydrochloride are more susceptible to infections.
 Advise patients with myelosuppression following VIVIMUSTA treatment to contact healthcare provider immediately if they have symptoms or signs of infection.
 Patients treated with VIVIMUSTA are at risk for reactivation of infections including (but not limited to) hepatitis B, cytomegalovirus, Mycobacterium tuberculosis, and herpes zoster.
@@ -44,7 +44,7 @@ Tumor lysis syndrome associated with bendamustine hydrochloride has occurred in 
 The onset tends to be within the first treatment cycle of bendamustine hydrochloride and, without intervention, may lead to acute renal failure and death.
 Administer vigorous hydration and monitor blood chemistry, particularly potassium and uric acid levels at baseline and closely during treatment with VIVIMUSTA.
 Allopurinol has also been used during the beginning of bendamustine hydrochloride therapy.
-However, there may be an increased risk of severe skin toxicity when bendamustine hydrochloride and allopurinol are administered concomitantly [see Warnings and Precautions (5.5)].
+However, there may be an increased risk of severe skin toxicity when bendamustine hydrochloride and allopurinol are administered concomitantly [see Warnings and Precautions (5.6)].
 
 ## 5.6 Skin Reactions
 
@@ -56,7 +56,7 @@ If skin reactions are severe or progressive, withhold or discontinue VIVIMUSTA.
 
 ## 5.7 Hepatotoxicity
 
-Fatal and serious cases of liver injury have been reported with bendamustine hydrochloride injection.
+Fatal and serious cases of liver injury have been reported with Bendamustine Hydrochloride Injection [see Adverse Reactions (6.1)].
 Combination therapy, progressive disease or reactivation of hepatitis B were confounding factors in some patients [see Warnings and Precautions (5.2)].
 Most cases were reported within the first three months of starting therapy.
 Monitor liver chemistry tests prior to and during treatment with VIVIMUSTA.

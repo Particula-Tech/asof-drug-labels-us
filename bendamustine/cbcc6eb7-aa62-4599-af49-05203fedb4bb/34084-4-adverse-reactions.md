@@ -24,7 +24,7 @@ Three of these 4 adverse reactions were described as a hypertensive crisis and w
 
 The most frequent adverse reactions leading to study withdrawal for patients receiving bendamustine hydrochloride were hypersensitivity (2%) and pyrexia (1%).
 
-Table 2 summarizes the adverse reactions, that were reported in ≥ 5% of patients in either treatment group in the randomized CLL clinical study.
+Table 2 summarizes the adverse reactions that were reported in ≥ 5% of patients in either treatment group in the randomized CLL clinical study.
 
 Table 2: Non-Hematologic Adverse Reactions that Occurred in at Least 5% of Patients Who Received Bendamustine Hydrochloride or Chlorambucil in the Randomized CLL Clinical Study
 
@@ -164,6 +164,7 @@ Table 4: Non-Hematologic Adverse Reactions that Occurred in at Least 5% of Patie
 | Hypotension | 10 (6) | 2 (1) |
 
 *Patients may have reported more than 1 adverse reaction.
+
 NOTE: Patients counted only once in each preferred term category and once in each body system category.
 
 Hematologic toxicities, based on laboratory values and CTC grade, in patients with NHL treated in both single arm studies combined are described in Table 5.
@@ -193,6 +194,8 @@ General disorders and administration site conditions: Injection site reactions (
 Immune system disorders: Anaphylaxis.
 
 Infections and infestations: Pneumocystis jiroveci pneumonia, progressive multifocal leukoencephalopathy (PML).
+
+Renal and urinary disorders: Nephrogenic diabetes insipidus (NDI)
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis.
 

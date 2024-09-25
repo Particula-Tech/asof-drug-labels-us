@@ -21,9 +21,8 @@ Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity
 ## 2.3 Preparation and Administration
 
 VIVIMUSTA is a hazardous drug.
-Follow applicable special handling and disposal procedures.1
+Follow applicable special handling and disposal procedures.1 VIVIMUSTA is a clear and colorless to yellow solution in a multiple-dose vial.
 
-VIVIMUSTA is a clear and colorless to yellow solution in a multiple-dose vial.
 Store VIVIMUSTA refrigerated at 2°C to 8°C (36°F to 46°F).
 When refrigerated, the contents may partially freeze.
 Allow the vial to reach room temperature (15°C to 30°C or 59°F to 86°F) prior to use.
@@ -33,6 +32,7 @@ Do not use the product if solid or particulate matter is observed after reaching
 Intravenous Infusion
 
 Aseptically withdraw the volume needed for the required dose from the 25 mg/mL solution as per Table 1 below and immediately transfer to a 250 mL infusion bag of one of the following diluents: 0.9% Sodium Chloride Injection, USP; or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
+
 The resulting final concentration of bendamustine hydrochloride in the infusion bag should be within 0.1 mg/mL to 1.36 mg/mL.
 After transferring, thoroughly mix the contents of the infusion bag.
 The admixture should be a clear and colorless to slightly yellow solution.
@@ -74,7 +74,7 @@ Discard any unused solution according to institutional procedures for hazardous 
 VIVIMUSTA contains no antimicrobial preservative.
 Prepare the admixture as close as possible to the time of patient administration.
 
-Once diluted with 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored refrigerated conditions (2°C to 8°C or 36°F to 46°F) or for 3 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
+Once diluted with 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored refrigerated (2°C to 8°C or 36°F to 46°F) or for 3 hours when stored at room temperature (15°C to 30°C or 59°F to 86°F) and room light.
 Complete administration of diluted VIVIMUSTA within this period of time.
 VIVIMUSTA (bendamustine hydrochloride injection) is supplied in a multiple-dose vial.
 Retain the partially used vial in original package to protect from light and store refrigerated (2°C to 8°C or 36°F to 46°F) if additional dose withdrawal from the same vial is intended.

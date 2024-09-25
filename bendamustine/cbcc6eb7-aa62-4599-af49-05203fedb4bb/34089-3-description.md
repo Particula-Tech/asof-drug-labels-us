@@ -7,4 +7,5 @@ Bendamustine hydrochloride monohydrate contains a mechlorethamine group and a be
 
 VIVIMUSTA (bendamustine hydrochloride injection) is intended for intravenous use after dilution with either 0.9% Sodium Chloride Injection, USP or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
 It is supplied as a sterile, clear, and colorless to yellow solution in a clear glass multiple-dose vial.
-Each millilitre contains 25 mg of bendamustine hydrochloride equivalent to 22.7 mg of bendamustine, 5 mg of monothioglycerol, 39.45 mg dehydrated alcohol, and q.s. to 1 mL polyethylene glycol 400.
+Each milliliter contains 25 mg of bendamustine hydrochloride equivalent to 22.7 mg of bendamustine, 5 mg of monothioglycerol, 39.45 mg (5% v/v) of absolute alcohol, and q.s. to 1 mL polyethylene glycol 400.
+Sodium hydroxide is used to adjust pH of polyethylene glycol 400.

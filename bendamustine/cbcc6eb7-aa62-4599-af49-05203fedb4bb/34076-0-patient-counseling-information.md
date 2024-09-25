@@ -5,8 +5,7 @@ Advise patients to report shortness of breath, significant fatigue, bleeding, fe
 
 Progressive Multifocal Leukoencephalopathy (PML) Inform patients to immediately contact their healthcare provider if they experience confusion, memory loss, trouble thinking, difficulty talking or walking, vision loss or other neurological or cognitive symptoms [see Warnings and Precautions (5.3)].
 
-Anaphylaxis and Infusion-Related Reactions Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
-Advise patients to immediately contact their healthcare provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.4)].
+Anaphylaxis and Infusion-Related Reactions Inform patients of the possibility of serious or mild allergic reactions and to immediately report rash, facial swelling, or difficulty breathing during or soon after infusion [see Warnings and Precautions (5.4)].
 Skin Reactions Advise patients that a rash or itching may occur during treatment with VIVIMUSTA.
 Advise patients to immediately report severe or worsening rash or itching [see Warnings and Precautions (5.6)].
 Hepatotoxicity Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
@@ -29,5 +28,5 @@ Infertility Advise males of reproductive potential that VIVIMUSTA may impair fer
 
 Manufactured for: Slayback Pharma LLC Princeton, NJ 08540.
 
-Manufactured at: Corden Pharma Latina S.p.A.
+Manufactured at: Latina Pharma S.p.A.
 04013 Sermoneta (LT), Italy.

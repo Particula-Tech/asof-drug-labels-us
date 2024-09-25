@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied VIVIMUSTA (bendamustine hydrochloride injection) is a sterile clear, colorless to yellow solution for intravenous use supplied in individual cartons of 5mL clear glass multiple-dose vials providing 100 mg bendamustine hydrochloride per 4 mL.
+How Supplied VIVIMUSTA (bendamustine hydrochloride injection) is a sterile clear, colorless to yellow solution for intravenous use supplied in individual cartons of multiple-dose vials providing 100 mg bendamustine hydrochloride per 4 mL.
 
 100 mg/4 mL (25 mg/mL) NDC 71225-120-01 Safe Handling and Disposal
 
