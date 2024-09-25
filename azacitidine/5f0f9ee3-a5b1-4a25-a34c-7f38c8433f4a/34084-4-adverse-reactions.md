@@ -2,10 +2,10 @@
 
 The following clinically significant adverse reactions are described elsewhere in labeling:
 
-- Myelosuppression [see Warnings and Precautions (5.1)]
-- Hepatic Toxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.2)]
-- Renal Toxicity [see Warnings and Precautions (5.3)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+- Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.2)]
+- Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [seeWarnings and Precautions (5.3)]
+- Renal Toxicity [seeWarnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [seeWarnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,15 +25,26 @@ Of these patients, 119 were exposed for 6 or more cycles, and 63 for at least 12
 The mean age of this population was 68.1 years (ranging from 42 to 83 years), 74% were male, and 99% were white.
 Most patients received daily azacitidine doses of 75 mg/m 2.
 
+Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route) in Adult Patients with MDS: nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
+The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
+
+Adverse Reactions Most Frequently (Greater Than 2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route) in Adult Patients with MDS:
+
+Discontinuation: leukopenia, thrombocytopenia, neutropenia.
+
+Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
+
+Dose Reduced: leukopenia, neutropenia, thrombocytopenia
+
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with azacitidine (subcutaneous) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the azacitidine -treated group than for the observation group; patients received azacitidine for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
 Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in All Subcutaneous Azacitidine-Treated Patients; Studies 1 and 2)
 
-| Adverse reaction a | (N=220) | (N=92) |
+|  | (N=220) | (N=92) |
 | --- | --- | --- |
 |  | Number (%) of Patients |  |
-| Body System | All Azacitidine b | Observation c |
+| Body System Adverse Reaction a | All Azacitidine b | Observation c |
 | Blood and lymphatic system disorders |  |  |
 | Anemia | 153 (70) | 59 (64) |
 | Anemia aggravated | 12 (6) | 5 (5) |
@@ -95,22 +106,20 @@ Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Hematoma | 19 (9) | 0 |
 | Hypotension | 15 (7) | 2 (2) |
 | Petechiae | 52 (24) | 8 (9) |
-| a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. |  |  |
-| b Includes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. |  |  |
-| c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
+| a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. b Includes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
 
 Table 2 presents adverse reactions occurring in at least 5% of patients treated with azacitidine in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with azacitidine was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
 
 Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in the Azacitidine -Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
 
-| Adverse Reaction a | (N=175) | (N=102) | (N=175) | (N=102) |
+|  | (N=175) | (N=102) | (N=175) | (N=102) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Patients |  |  |  |
 |  | Any Grade |  | Grade 3/4 |  |
 |  |  | Best |  | Best |
 |  | Azacitidine | Supportive | Azacitidine | Supportive |
-| Body System |  | Care Only |  | Care Only |
+| Body System Adverse Reactions a |  | Care Only |  | Care Only |
 | Blood and lymphatic system disorders |  |  |  |  |
 | Anemia | 90 (51) | 45 (44) | 24 (14) | 9 (9) |
 | Febrile neutropenia | 24 (14) | 10 (10) | 22 (13) | 7 (7) |
@@ -159,7 +168,7 @@ Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Rash | 18 (10) | 1 (1) | 0 | 0 |
 | Vascular disorders |  |  |  |  |
 | Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |
-| a Multiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
+| aMultiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
 
 In Studies 1, 2 and 4 with subcutaneous administration of azacitidine, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of azacitidine.
 Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
@@ -168,52 +177,46 @@ There did not appear to be any adverse reactions that increased in frequency ove
 Overall, adverse reactions were qualitatively similar between the intravenous and subcutaneous studies.
 Adverse reactions that appeared to be specifically associated with the intravenous route of administration included infusion site reactions (e.g. erythema or pain) and catheter site reactions (e.g. infection, erythema, or hemorrhage).
 
-Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
-The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
+In clinical studies of either subcutaneous or intravenous azacitidine, the following serious adverse reactions
 
-Adverse Reactions Most Frequently (Greater Than 2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route):
+occurring at a rate of less than 5% (and not described in Tables 1 or 2) were reported:
 
-Discontinuation: leukopenia, thrombocytopenia, neutropenia.
+Blood and lymphatic system disorders:agranulocytosis, bone marrow failure, pancytopenia, splenomegaly.
 
-Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
+Cardiac disorders:atrial fibrillation, cardiac failure, cardiac failure congestive, cardio-respiratory arrest, congestive cardiomyopathy.
 
-Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
+Eye disorders:eye hemorrhage
 
-In clinical studies of either subcutaneous or intravenous azacitidine, the following serious adverse reactions occurring at a rate of less than 5% (and not described in Tables 1 or 2) were reported:
+Gastrointestinal disorders:diverticulitis, gastrointestinal hemorrhage, melena, perirectal abscess.
 
-Blood and lymphatic system disorders: agranulocytosis, bone marrow failure, pancytopenia, splenomegaly.
+General disorders and administration site conditions:catheter site hemorrhage, general physical health deterioration, systemic inflammatory response syndrome.
 
-Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardio-respiratory arrest, congestive cardiomyopathy.
+Hepatobiliary disorders:cholecystitis.
 
-Eye disorders: eye hemorrhage
+Immune system disorders:anaphylactic shock, hypersensitivity.
 
-Gastrointestinal disorders: diverticulitis, gastrointestinal hemorrhage, melena, perirectal abscess.
+Infections and infestations:abscess limb, bacterial infection, cellulitis, blastomycosis, injection site infection, Klebsiella sepsis, neutropenic sepsis, pharyngitis streptococcal, pneumonia Klebsiella, sepsis, septic shock, Staphylococcal bacteremia, Staphylococcal infection, toxoplasmosis.
 
-General disorders and administration site conditions: catheter site hemorrhage, general physical health deterioration, systemic inflammatory response syndrome.
+Metabolism and nutrition disorders:dehydration.
 
-Hepatobiliary disorders: cholecystitis.
+Musculoskeletal and connective tissue disorders:bone pain aggravated, muscle weakness, neck pain.
 
-Immune system disorders: anaphylactic shock, hypersensitivity.
+Neoplasms benign, malignant and unspecified:leukemia cutis.
 
-Infections and infestations: abscess limb, bacterial infection, cellulitis, blastomycosis, injection site infection, Klebsiella sepsis, neutropenic sepsis, pharyngitis streptococcal, pneumonia Klebsiella, sepsis, septic shock, Staphylococcal bacteremia, Staphylococcal infection, toxoplasmosis.
+Nervous system disorders:cerebral hemorrhage, convulsions, intracranial hemorrhage.
 
-Metabolism and nutrition disorders: dehydration.
+Renal and urinary disorders:loin pain, renal failure.
 
-Musculoskeletal and connective tissue disorders: bone pain aggravated, muscle weakness, neck pain.
+Respiratory, thoracic and mediastinal disorders:hemoptysis, lung infiltration, pneumonitis, respiratory distress.
 
-Neoplasms benign, malignant and unspecified: leukemia cutis.
+Skin and subcutaneous tissue disorders:pyoderma gangrenosum, rash pruritic, skin induration.
 
-Nervous system disorders: cerebral hemorrhage, convulsions, intracranial hemorrhage.
+Surgical and medical procedures:cholecystectomy.
 
-Renal and urinary disorders: loin pain, renal failure.
+Vascular disorders:orthostatic hypotension.
 
-Respiratory, thoracic and mediastinal disorders: hemoptysis, lung infiltration, pneumonitis, respiratory distress.
-
-Skin and subcutaneous tissue disorders: pyoderma gangrenosum, rash pruritic, skin induration.
-
-Surgical and medical procedures: cholecystectomy.
-
-Vascular disorders: orthostatic hypotension.
+Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
@@ -226,3 +229,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
 - Necrotizing fasciitis (including fatal cases)
 - Differentiation syndrome
+- Pericardial effusion
+- Pericarditis

@@ -12,8 +12,6 @@ Handling and Disposal
 
 Azacitidine for Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.
-1
-
-Sterile, Nonpyrogenic, Preservative-free.
+1Sterile, Nonpyrogenic, Preservative-free.
 
 This vial stopper is not made with natural rubber latex.

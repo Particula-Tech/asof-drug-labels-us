@@ -2,15 +2,15 @@
 
 Myelodysplastic Syndromes (MDS)
 
-Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites that compared the safety and efficacy of subcutaneous azacitidine plus supportive care with supportive care alone (“observation”) in patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
+Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites that compared the safety and efficacy of subcutaneous azacitidine plus supportive care with supportive care alone (“observation”) in adult patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
 RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts less than or equal to 50 x 10 9/L; required platelet transfusions; or were neutropenic (ANC less than 1 x 10 9/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
 The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
-Azacitidine was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days every 4 weeks.
-The dose was increased to 100 mg/m 2 if no beneficial effect was seen after 2 treatment cycles.
+Azacitidine was administered at a subcutaneous dose of 75 mg/m 2daily for 7 days every 4 weeks.
+The dose was increased to 100 mg/m 2if no beneficial effect was seen after 2 treatment cycles.
 The dose was decreased and/or delayed based on hematologic response or evidence of renal toxicity.
 Patients in the observation arm were allowed by protocol to cross over to azacitidine if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
 For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 4).
@@ -22,10 +22,8 @@ Approximately 55% of the patients randomized to observation crossed over to rece
 Table 3.
 Baseline Demographics and Disease Characteristics
 
-|  | Azacitidine |  |
+|  | Azacitidine(N=99) | Observation(N=92) |
 | --- | --- | --- |
-|  |  | Observation |
-|  | (N=99) | (N=92) |
 | Gender (n%) |  |  |
 | Male | 72 (72.7) | 60 (65.2) |
 | Female | 27 (27.3) | 32 (34.8) |
@@ -58,15 +56,15 @@ Response Criteria
 
 |  |  | RA | RARS | RAEB | RAEB-T | CMMoL |
 | --- | --- | --- | --- | --- | --- | --- |
-| Complete Response (CR), duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |
-| Peripheral Blood | Normal CBC if abnormal at baseline Absence of blasts in the peripheral circulation |  |  |  |  |  |
-| Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blasts Improvement of marrow dyspoiesis |  |  |
-| Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulationFor CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |  |
+| Complete Response(CR),duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |
+| PeripheralBlood | Normal CBC if abnormal at baselineAbsence of blasts in the peripheral circulation |  |  |  |  |  |
+| PartialResponse(PR),duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blastsImprovement of marrow dyspoiesis |  |  |
+| PeripheralBlood | ≥50% restoration in the deficit from normal levels of baseline white cells,hemoglobin and platelets if abnormal at baselineNo blasts in the peripheral circulationFor CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excesscount over the upper limit of normal |  |  |  |  |  |
 
 The overall response rate (CR + PR) of 15.7% in azacitidine -treated patients without AML (16.2% for all azacitidine randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
 The majority of patients who achieved either CR or PR had either 2 or 3 cell line abnormalities at baseline (79%; 11/14) and had elevated bone marrow blasts or were transfusion dependent at baseline.
 Patients responding to azacitidine had a decrease in bone marrow blasts percentage, or an increase in platelets, hemoglobin or WBC.
-Greater than 90% of the responders initially demonstrated these changes by the 5 th treatment cycle.
+Greater than 90% of the responders initially demonstrated these changes by the 5 thtreatment cycle.
 All patients who had been transfusion dependent became transfusion independent during PR or CR.
 The mean and median duration of clinical response of PR or better was estimated as 512 and 330 days, respectively; 75% of the responding patients were still in PR or better at completion of treatment.
 Response occurred in all MDS subtypes as well as in patients with adjudicated baseline diagnosis of AML.
@@ -74,7 +72,7 @@ Response occurred in all MDS subtypes as well as in patients with adjudicated ba
 Table 5.
 Response Rates
 
-|  | Azacitidine (N=89) | Observation Before Crossover(N=83) |  |
+|  | Azacitidine (N=89) | Observation BeforeCrossover(N=83) |  |
 | --- | --- | --- | --- |
 | Response | n (%) | n (%) | P value |
 | Overall (CR+PR) | 14 (15.7) | 0 (0.0) | (<0.0001) |
@@ -106,7 +104,7 @@ At baseline, 95% of the patients were higher risk by FAB classification: RAEB (5
 By IPSS classification, 87% were higher risk: Int-2 (41%), High (47%).
 At baseline, 32% of patients met WHO criteria for AML.
 
-Azacitidine was administered subcutaneously at a dose of 75 mg/m 2 daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
+Azacitidine was administered subcutaneously at a dose of 75 mg/m 2daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
 Patients continued treatment until disease progression, relapse after response, or unacceptable toxicity.
 Azacitidine patients were treated for a median of 9 cycles (range 1 to 39), BSC only patients for a median of 7 cycles (range 1 to 26), low dose cytarabine patients for a median of 4.5 cycles (range 1 to 15), and chemotherapy with cytarabine and anthracycline patients for a median of 1 cycle (range 1 to 3, i.e. induction plus 1 or 2 consolidation cycles).
 
@@ -126,4 +124,6 @@ Effect of Azacitidine on RBC Transfusions in MDS Patients
 | Efficacy Parameter | Azacitidine plus BSC (n= 179) | Conventional Care Regimens (n= 179) |
 | --- | --- | --- |
 | Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment 1 Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |
-| 1 A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |
+| 1A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |
+| Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection). However |  |  |
+| due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information. |  |  |
