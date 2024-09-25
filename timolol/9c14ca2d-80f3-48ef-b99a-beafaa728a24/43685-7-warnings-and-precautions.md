@@ -9,7 +9,7 @@ For example, severe respiratory reactions and cardiac reactions, including death
 
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition of beta-adrenergic receptor blockade may precipitate more severe failure.
 
-In Patients Without a History of Cardiac Failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
+In Patients Without a History of Cardiac Failurecontinued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of cardiac failure, Timolol Maleate Ophthalmic Solution should be discontinued.
 
 ## Obstructive Pulmonary Disease
@@ -137,7 +137,7 @@ Reproduction and fertility studies in rats demonstrated no adverse effect on mal
 
 ## Pregnancy
 
-Teratogenic Effects - Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
+Teratogenic Effects- Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
 Doses of 1,000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.

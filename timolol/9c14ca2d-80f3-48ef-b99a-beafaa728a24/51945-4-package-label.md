@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 0.25% Carton
 
-NDC 82260-812-05
+NDC82260-812-05
 
 Timolol Maleate Ophthalmic Solution
 
@@ -20,7 +20,7 @@ BAUSCH + LOMB
 
 # PRINCIPAL DISPLAY PANEL - 0.5% Carton
 
-NDC 82260-813-05
+NDC82260-813-05
 
 Timolol Maleate Ophthalmic Solution
 

@@ -8,23 +8,20 @@ This information does not take the place of talking with your doctor about your 
 
 Important information about Timolol Maleate Ophthalmic Solution:
 
-- •Use Timolol Maleate Ophthalmic Solution exactly as your doctor tells you to use it.
+- Use Timolol Maleate Ophthalmic Solution exactly as your doctor tells you to use it.
   Your doctor will tell you how much Timolol Maleate Ophthalmic Solution to use and when to use it.
-- •If you use other medicines in your eye, wait at least 10 minutes between using Timolol Maleate Ophthalmic Solution and your other eye medicines.
-- •Do not touch your eye or areas around your eye with the tip of the Timolol Maleate Ophthalmic Solution bottle.
-  You may get bacteria on the tip of the bottle that can cause you to get an eye infection that can lead to serious eye damage or vision loss.
+- If you use other medicines in your eye, wait at least 10 minutesbetween using Timolol Maleate Ophthalmic Solution and your other eye medicines.
+- Do not touch your eye or areas around your eye with the tip of the Timolol Maleate Ophthalmic Solution bottle.You may get bacteria on the tip of the bottle that can cause you to get an eye infection that can lead to serious eye damage or vision loss.
 
 How should I use Timolol Maleate Ophthalmic Solution?
 
-Step 1.
-Wash your hands.
+Step 1.Wash your hands.
 
-Step 2.
-Turn your closed bottle of Timolol Maleate Ophthalmic Solution upside down (invert) and shake once.
+Step 2.Turn your closed bottle of Timolol Maleate Ophthalmic Solution upside down (invert) and shake once.
 
 Step 3.
 Remove the Timolol Maleate Ophthalmic Solution cap by turning the cap in the direction of the arrows shown (See Figure A). Put the cap in a clean and dry area.
-Do not let the tip of the bottle touch your fingers or other surfaces.
+Do notlet the tip of the bottle touch your fingers or other surfaces.
 
 Figure A
 
@@ -47,18 +44,18 @@ If your doctor has told you to use Timolol Maleate Ophthalmic Solution in both e
 Step 7.
 Put the cap back on the bottle and close.
 
-- •The Timolol Maleate Ophthalmic Solution bottle tip is made to give 1 drop at a time.
+- The Timolol Maleate Ophthalmic Solution bottle tip is made to give 1 drop at a time.
   Do not try to make the hole in the tip of your bottle bigger.
-- •Do not wash the bottle tip.
-- •After you have used all of your Timolol Maleate Ophthalmic Solution doses, there will be some Timolol Maleate Ophthalmic Solution left in the bottle.
+- Do not wash the bottle tip.
+- After you have used all of your Timolol Maleate Ophthalmic Solution doses, there will be some Timolol Maleate Ophthalmic Solution left in the bottle.
   Do not try to remove the extra Timolol Maleate Ophthalmic Solution from the bottle.
   Throw it away.
 
 How should I store Timolol Maleate Ophthalmic Solution?
 
-- •Store Timolol Maleate Ophthalmic Solution at room temperature between 59°F to 77°F (15°C to 25°C) in an upright position.
-- •Do not freeze Timolol Maleate Ophthalmic Solution.
-- •Keep Timolol Maleate Ophthalmic Solution out of light.
+- Store Timolol Maleate Ophthalmic Solution at room temperature between 59°F to 77°F (15°C to 25°C) in an upright position.
+- Do not freeze Timolol Maleate Ophthalmic Solution.
+- Keep Timolol Maleate Ophthalmic Solution out of light.
 
 Keep Timolol Maleate Ophthalmic Solution and all medicines out of the reach of children.
 
