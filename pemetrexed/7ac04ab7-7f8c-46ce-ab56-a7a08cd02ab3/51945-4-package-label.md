@@ -8,19 +8,19 @@ Pemetrexed Injection
 
 (25 mg/mL)
 
-Cytotoxic Agent
+For Intravenous Infusion After Dilution
 
-For Intravenous Infusion Only After Dilution.
+Warning: Hazardous Drug
 
 Single-Dose Vial
 
-Discard unused Portion.
+Discard unused Portion
 
 Rx Only
 
 Sterile
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # Principal Display Panel – 20 mL
 
@@ -32,9 +32,9 @@ Pemetrexed Injection
 
 (25 mg/mL)
 
-Cytotoxic Agent
+For Intravenous Infusion After Dilution
 
-For Intravenous Infusion Only After Dilution.
+Warning: Hazardous Drug
 
 Single-Dose Vial
 
@@ -44,7 +44,7 @@ Rx Only
 
 Sterile
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # Principal Display Panel
 
@@ -56,9 +56,9 @@ Pemetrexed Injection
 
 (25 mg/mL)
 
-Cytotoxic Agent
+For Intravenous Infusion After Dilution
 
-For Intravenous Infusion Only After Dilution.
+Warning: Hazardous Drug
 
 Single-Dose Vial
 
@@ -68,4 +68,4 @@ Rx Only
 
 Sterile
 
-SANDOZ – A Novartis Division
+SANDOZ
