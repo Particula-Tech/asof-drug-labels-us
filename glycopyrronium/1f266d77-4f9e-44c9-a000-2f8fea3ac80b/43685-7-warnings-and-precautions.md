@@ -5,7 +5,7 @@ In the presence of a high environmental temperature, heat prostration (fever and
 Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomyor colostomy.
 In this instance treatment with this drug would be inappropriate and possibly harmful.
 
-Glycopyrrolate may produce drowsiness and blurred vision.
+Glycopyrrolate may produce drowsiness or blurred vision.
 In this event, the patient should be warned not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery, or performing hazardous work while taking this drug.
 
 Theoretically, with overdosage, a curare-like action may occur, i.e., neuro-muscular blockade leading to muscular weakness and possible paralysis.
@@ -13,7 +13,7 @@ Theoretically, with overdosage, a curare-like action may occur, i.e., neuro-musc
 ## Pregnancy
 
 The safety of this drug during pregnancy has not been established.
-The use of any drug during pregnancy requires that potential benefits of the drug be weighed against possible hazards to mother and child.
+The use of any drug during pregnancy requires that the potential benefits of the drug be weighed against possible hazards to mother and child.
 Reproduction studies in rats revealed no teratogenic effects from glycopyrrolate; however, the potent anticholinergic action of this agent resulted in diminished rates of conception and of survival at weaning, in a dose-related manner.
 Other studies in dogs suggest that this may be due to diminished seminal secretion which is evident at high doses of glycopyrrolate.
 Information on possible adverse effects in the pregnant female is limited to uncontrolled data derived from marketing experience.
@@ -36,5 +36,5 @@ Use glycopyrrolate with caution in the elderly and in all patients with:
 - Autonomic neuropathy.
 - Hepatic or renal disease.
 - Ulcerative colitis-large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate “toxic megacolon,” a serious complication of the disease.
-- Hyperthyrodism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, hypertension and prostatic hypertrophy.
+- Hyperthyroidism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, hypertension and prostatic hypertrophy.
 - Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition.

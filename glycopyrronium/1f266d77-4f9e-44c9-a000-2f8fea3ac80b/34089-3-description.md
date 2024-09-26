@@ -10,4 +10,4 @@ Each 1 mg tablet contains: Glycopyrrolate, USP 1mg
 
 Each 2 mg tablet contains: Glycopyrrolate, USP 2mg
 
-Inactive Ingredients: Dibasic Calcium Phosphate, Lactose, Magnesium Stearate, Povidone, Sodium Starch Glycolate
+Inactive Ingredients: Dibasic Calcium Phosphate, Lactose, Magnesium Stearate, Povidone, Sodium Starch Glycolate.

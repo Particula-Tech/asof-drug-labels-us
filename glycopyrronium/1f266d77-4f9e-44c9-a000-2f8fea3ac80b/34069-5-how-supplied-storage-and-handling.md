@@ -8,20 +8,16 @@ Glycopyrrolate tablets 2 mg are bisected, compressed white, round tablets deboss
 
 Available in bottles of 100 (NDC 49884-066-01).
 
-Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59 to 86°F) [See USP Controlled Room Temperature].
 
-Dispense in tight container.
+Keep out of reach of children.
 
-Rx only
+Dispense in a tight container.
 
-* Dopram® is a registered trademark of Baxter Healthcare Corporation.
+Manufactured for: Endo USA Malvern, PA 19355 U.S.A Product of Finland Made in India
 
-Manufactured by:
+Neutral Code: TN/DRUGS/ TN00002121 ©2024 Endo, Inc. or one of its affiliates.
 
-Par Pharmaceutical Companies, Inc.
+from Active Pharmaceutical Ingredient made in Finland
 
-Spring Valley, NY 10977
-
-Rev: 07/2010
-
-OS065-01-1-02
+OS065-01-74-04 Revised: 08/2024
