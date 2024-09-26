@@ -23,3 +23,9 @@ Peripheral neuropathy, which was severe in some cases, has been reported in pati
 Interference with Uric Acid, Urea, or Lactic Acid Assays
 
 Studies have shown that there is an analytical interference of hydroxyurea with the enzymes (urease, uricase, and lactate dehydrogenase) used in the determination of urea, uric acid, and lactic acid, rendering falsely elevated results of these in patients treated with hydroxyurea.
+
+Interference with Continuous Glucose Monitoring Systems
+
+Hydroxyurea may falsely elevate sensor glucose results from certain continuous glucose monitoring (CGM) systems and may lead to hypoglycemia if sensor glucose results are relied upon to dose insulin.
+
+If a patient using a CGM is to be prescribed hydroxyurea, consult with the CGM prescriber about alternative glucose monitoring methods.

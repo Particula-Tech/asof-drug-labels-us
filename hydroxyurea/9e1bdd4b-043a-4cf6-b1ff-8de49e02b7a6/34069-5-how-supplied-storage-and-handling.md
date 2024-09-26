@@ -10,12 +10,12 @@ Dispense in a tight container as defined in the USP.
 
 ## 16.2 Storage
 
-Store at 20 to 25°C (68 to77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Keep tightly closed.
 
 ## 16.3 Handling and Disposal
 
-Hydroxyurea capsules is a cytotoxic drug.
+Hydroxyurea capsule are a cytotoxic drug.
 Follow applicable special handling and disposal procedures [see References(15)].
 
 To decrease the risk of contact, advise caregivers to wear disposable gloves when handling hydroxyurea capsules or bottles containing hydroxyurea capsules.

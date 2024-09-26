@@ -9,7 +9,7 @@ This hypothesis explains why, under certain conditions, hydroxyurea may induce t
 Three mechanisms of action have been postulated for the increased effectiveness of concomitant use of hydroxyurea therapy with irradiation on squamous cell (epidermoid) carcinomas of the head and neck.
 In vitro studies utilizing Chinese hamster cells suggest that hydroxyurea (1) is lethal to normally radioresistant S-stage cells, and (2) holds other cells of the cell cycle in the G1 or pre-DNA synthesis stage where they are most susceptible to the effects of irradiation.
 The third mechanism of action has been theorized on the basis of in vitro studies of HeLa cells.
-It appears that hydroxyurea, by inhibition of DNA synthesis, hinders the normal repair process of cells damaged but not killed by irradiation, thereby decreasing their survival rate; RNA and protein synthesis have shown no alteration.
+It appears that hydroxyurea, by inhibition of DNA synthesis, hinders the normal repair process of cells damaged but not killed by irradiation, thereby decreasing their survival rate; RNA and protein syntheses have shown no alteration.
 
 ## 12.3 Pharmacokinetics
 
