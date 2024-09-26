@@ -16,22 +16,14 @@ Keep bottles tightly closed.
 
 Dispense in a light-resistant, tight container.
 
-Dist. by:
-
-Par Pharmaceutical
-
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam - 603 103.
+Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Mfg.Lic.No.: TN00002121
+Neutral Code: TN/DRUGS/TN00002121
 
-OS556-01-74-01
+© 2024 Endo, Inc. or one of its affiliates.
 
-Issued: 04/2019
+OS556-01-74-02
+
+Revised: 08/2024
