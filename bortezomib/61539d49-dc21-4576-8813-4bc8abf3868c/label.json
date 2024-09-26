@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212782"
+  ],
+  "inn": "bortezomib",
+  "labeler": "Shilpa Medicare Limited",
+  "package_ndcs": [
+    "63759-3032-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bortezomib",
+      "name": "Bortezomib"
+    }
+  ],
+  "setid": "61539d49-dc21-4576-8813-4bc8abf3868c",
+  "source": "dailymed"
+}
