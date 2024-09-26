@@ -16,7 +16,7 @@ Important Information:
 - After you have diluted or mixed TIROSINT-SOL it must be taken or thrown away.
 
 Step 1.
-Open the aluminum pouch by tearing the edge along the dotted line (See Figure A).
+Using scissors, open the aluminum pouch by cutting the edge along the dotted line (See Figure A).
 
 Figure A
 
@@ -68,7 +68,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufacturer: IBSA Institut Biochimique SA, 6912 Pazzallo, Switzerland Marketed and Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-Issued: November 2023
+Issued: July 2024
 
 FI/169 (USA) 5000003397 Rev.
-05 11.23
+06 06.24

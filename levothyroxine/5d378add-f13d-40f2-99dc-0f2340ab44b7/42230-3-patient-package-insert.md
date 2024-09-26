@@ -19,4 +19,4 @@
 | General information about the safe and effective use of TIROSINT-SOL |  |  |  |  |
 | Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use TIROSINT-SOL for a condition for which it was not prescribed. Do not give TIROSINT-SOL to other people, even if they have the same symptoms as you. It may harm them. You can ask your pharmacist or doctor for information about TIROSINT-SOL that is written for health professionals. |  |  |  |  |
 | What are the ingredients in TIROSINT- SOL oral solution? Active ingredient: levothyroxine sodium Inactive ingredients: glycerol, and water Manufactured by: IBSA Institut Biochimique SA, 6912 Pazzallo, Switzerland Marketed and distributed by: IBSA Pharma Inc, Parsippany, NJ 07054 USA For more information, go to www.tirosintsol.com or call 1-800-587-3513. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Issued: 11/2023 |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Issued: 07/2024 |  |
