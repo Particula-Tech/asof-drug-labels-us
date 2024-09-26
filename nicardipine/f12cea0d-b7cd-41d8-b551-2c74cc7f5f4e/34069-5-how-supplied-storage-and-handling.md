@@ -6,7 +6,6 @@ CARDENE I.V. is supplied as a single-dose, ready-to-use, iso-osmotic solution fo
 
 | Pack Size | Diluent | NDC Number |
 | --- | --- | --- |
-| 10 bags, each containing 20 mg in 200 mL (0.1mg/mL) | 4.8% Dextrose | NDC 10122-314-10 |
 | 10 bags, each containing 20 mg in 200 mL (0.1mg/mL) | 0.86% Sodium Chloride | NDC 43066-009-10 |
 | 10 bags, each containing 40 mg in 200 mL (0.2mg/mL) | 0.83% Sodium Chloride | NDC 43066-016-10 |
 
