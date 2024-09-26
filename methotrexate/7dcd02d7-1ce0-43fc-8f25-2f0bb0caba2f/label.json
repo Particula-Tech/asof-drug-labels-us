@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "NDA204824"
+  ],
+  "inn": "methotrexate",
+  "labeler": "Otter Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "82497-010-02",
+    "82497-010-04",
+    "82497-012-02",
+    "82497-012-04",
+    "82497-015-02",
+    "82497-015-04",
+    "82497-017-02",
+    "82497-017-04",
+    "82497-020-02",
+    "82497-020-04",
+    "82497-022-02",
+    "82497-022-04",
+    "82497-025-02",
+    "82497-025-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "methotrexate",
+      "name": "Otrexup"
+    }
+  ],
+  "setid": "7dcd02d7-1ce0-43fc-8f25-2f0bb0caba2f",
+  "source": "dailymed"
+}
