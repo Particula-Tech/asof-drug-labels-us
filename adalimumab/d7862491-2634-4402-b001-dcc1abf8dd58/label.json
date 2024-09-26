@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "BLA761024"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Optum Health Solutions (Ireland) Limited",
+  "package_ndcs": [
+    "84612-399-01",
+    "84612-479-01",
+    "84612-479-02",
+    "84612-481-01",
+    "84612-481-02",
+    "84612-482-01",
+    "84612-482-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "adalimumab-atto",
+      "name": "AMJEVITA"
+    }
+  ],
+  "setid": "d7862491-2634-4402-b001-dcc1abf8dd58",
+  "source": "dailymed"
+}
