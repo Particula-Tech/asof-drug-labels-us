@@ -61,19 +61,18 @@ The geometric mean could not be estimated due to values being below the limitati
 
 Table 10 Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pediatric Patients
 
-| Population | 3-Day Dose of Fosaprepitant (aprepitant) (IV/Oral/Oral*) | Geometric Mean |  |  |  |  |
+| Population | 3-Day Dose of Fosaprepitant (Aprepitant) (IV/Oral/Oral*) | Geometric Mean |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | AUC 0-24hr. (mcg*hr/mL) | Cmax (mcg/mL) | C24 (mcg/mL) | C48 (mcg/mL) | C72 (mcg/mL) |  |  |
 | 12 Years to 17 Years | 115/80/80 mg | 18.0 | 3.0 | 0.4 | 0.2 | NE† |
 | 6 Years to less than 12 Years | 3/2/2 mg/kg | 25.7 | 2.7 | 0.5 | 0.3 | 0.3 |
-| 2 Years to less than 6 Years | 20.2 | 2.3 | 0.3 | 0.2 | 0.3 |  |
+| 2 Years to less than 6 Years | 20.2 | 2.3 | 0.3 | 0.2 | 0.2 |  |
 | 6 Months to less than 2 Years | 16.6 | 1.9 | 0.2 | 0.1 | 0.1 |  |
 
 *IV on Day 1, Oral on Day 2, and Oral on Day 3
 
 †NE = Not Estimated.
 The geometric mean could not be estimated due to values being below the limitation of quantification.
-
 Plasma concentrations of fosaprepitant are negligible within 15 to 30 minutes after the completion of the infusion in pediatric patients.
 
 Sex Following oral administration of a single dose of aprepitant, ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
@@ -110,7 +109,7 @@ Aprepitant is also an inducer of CYP2C9.
 Fosaprepitant or aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter.
 
 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs CYP3A4 Substrates Midazolam: Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by approximately 1.8-fold on Day 1 and had no effect on Day 4 when midazolam was coadministered as a single oral dose of 2 mg on Days 1 and 4 [see Drug Interactions (7.1)].
-Corticosteroids: Dexamethasone: Fosaprepitant administered as a single 150 mg intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, administered as a single 8-mg oral dose on Days 1, 2, and 3, by approximately 2-fold on Days 1 and 2 [see Dosage and Administration (2.1),Drug Interactions (7.1)].
+Corticosteroids: Dexamethasone: Fosaprepitant administered as a single 150 mg intravenous dose on Day 1 increased the AUC0-24hr of dexamethasone, administered as a single 8-mg oral dose on Days 1, 2, and 3, by approximately 2-fold on Days 1 and 2 [see Dosage and Administration (2.1), Drug Interactions (7.1)].
 
 Methylprednisolone: When oral aprepitant as a 3-day regimen (125-mg/80-mg/80-mg) was administered with intravenous methylprednisolone 125 mg on Day 1 and oral methylprednisolone 40 mg on Days 2 and 3, the AUC of methylprednisolone was increased by 1.34-fold on Day 1 and by 2.5-fold on Day 3 [see Drug Interactions (7.1)].
 
@@ -141,3 +140,6 @@ Co-administration of fosaprepitant and diltiazem; however, did not result in any
 
 Paroxetine: Coadministration of once daily doses of oral aprepitant 170 mg, with paroxetine 20 mg once daily, resulted in a decrease in AUC by approximately 25% and Cmax by approximately 20% of both aprepitant and paroxetine.
 This effect was not considered clinically important.
+
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.

@@ -10,8 +10,6 @@ Instruct patients to use effective alternative or back-up methods of contracepti
 Distributed by: BE Pharmaceuticals Inc. 203 New Edition Court Cary, NC 27511 Manufactured by:
 
 Biological E. Limited Plot No.4, Survey no. 542/P, Biotech Park Phase-II, Kolthur Village, Shameerpet Mandal, Medchal, Telangana 500078, India.
-Revised: August 2022
-
-20003024
+Revised: September 2024
 
 .

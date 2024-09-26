@@ -3,13 +3,13 @@
 ## 14.1 Prevention of Nausea and Vomiting Associated with HEC in Adults
 
 In a randomized, parallel, double-blind, active-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=1147) was compared to a 3-day oral aprepitant regimen (N=1175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
-All patients in both groups received dexamethasone and ondansetron (see Table 11).
+All patients in both groups received dexamethasone and ondansetron (see Table 12).
 Patient demographics were similar between the two treatment groups.
 Of the total 2322 patients, 63% were men, 56% White, 26% Asian, 3% American Indian/Alaska Native, 2% Black, 13% Multi-Racial, and 33% Hispanic/Latino ethnicity.
 Patient ages ranged from 19 to 86 years of age, with a mean age of 56 years.
 Other concomitant chemotherapy agents commonly administered were fluorouracil (17%), gemcitabine (16%), paclitaxel (15%), and etoposide (12%).
 
-Table 11 Treatment Regimens in Adult HEC Trial*
+Table 12 Treatment Regimens in Adult HEC Trial*
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
@@ -29,12 +29,12 @@ Although this dose was used in clinical trials, this is no longer the currently 
 Refer to the ondansetron prescribing information for the current recommended dose. § Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4.
 The 12 mg dose of dexamethasone on Day 1 and the 8 mg once daily dose on Days 2 through 4 reflects a dosage adjustment to account for a drug interaction with the oral aprepitant regimen [see Clinical Pharmacology (12.3)].
 
-The efficacy of fosaprepitant for injection was evaluated based on the primary and secondary endpoints listed in Table 12 and was shown to be non-inferior to that of the 3-day oral aprepitant regimen with regard to complete response in each of the evaluated phases.
+The efficacy of fosaprepitant for injection was evaluated based on the primary and secondary endpoints listed in Table 13 and was shown to be non-inferior to that of the 3-day oral aprepitant regimen with regard to complete response in each of the evaluated phases.
 The pre-specified non-inferiority margin for complete response in the overall phase was 7%.
 The pre-specified non-inferiority margin for complete response in the delayed phase was 7.3%.
 The pre-specified non-inferiority margin for no vomiting in the overall phase was 8.2%.
 
-Table 12 Percent of Adult Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
+Table 13 Percent of Adult Patients Receiving HEC Responding by Treatment Group and Phase - Cycle 1
 
 | ENDPOINTS | Fosaprepitant for Injection Regimen (N = 1106)* % | Oral aprepitant Regimen (N = 1134)* % | Difference† (95% CI) |
 | --- | --- | --- | --- |
@@ -51,13 +51,15 @@ Table 12 Percent of Adult Patients Receiving HEC Responding by Treatment Group a
 
 ## 14.2 Prevention of Nausea and Vomiting Associated with MEC in Adults
 
-In a randomized, parallel, double-blind, active comparator-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=502) in combination with ondansetron and dexamethasone (fosaprepitant for injection regimen) was compared with ondansetron and dexamethasone alone (standard therapy) (N=498) (see Table 13) in patients receiving a MEC regimen.
+In a randomized, parallel, double-blind, active comparator-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=502) in combination with ondansetron and dexamethasone (fosaprepitant for injection regimen) was compared with ondansetron and dexamethasone alone (standard therapy) (N=498) (see Table 14) in patients receiving a MEC regimen.
 Patient demographics were similar between the two treatment groups.
 Of the total 1,000 patients included in the efficacy analysis, 41% were men, 84% White, 4% Asian, 1% American Indian/Alaska Native, 2% Black, 10% Multi-Racial, and 19% Hispanic/Latino ethnicity.
 Patient ages ranged from 23 to 88 years of age, with a mean age of 60 years.
 The most commonly administered MEC chemotherapeutic agents were carboplatin (51%), oxaliplatin (24%), and cyclophosphamide (12%).
 
-Table 13 Treatment Regimens in Adult MEC Trial*
+Table 14
+
+Treatment Regimens in Adult MEC Trial*
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
@@ -72,9 +74,9 @@ Table 13 Treatment Regimens in Adult MEC Trial*
 * Fosaprepitant for injection placebo and dexamethasone placebo (on Day 1) were used to maintain blinding. † Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
 The 12 mg dose reflects a dosage adjustment to account for a drug interaction with the fosaprepitant for injection regimen [see Clinical Pharmacology (12.3)]. ‡ The first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose.
 The primary endpoint was complete response (defined as no vomiting and no rescue therapy) in the delayed phase (25 to 120 hours) of chemotherapy-induced nausea and vomiting.
-The results by treatment group are shown in Table 14.
+The results by treatment group are shown in Table 15.
 
-Table 14 Percent of Adult Patients Receiving MEC Responding by Treatment Group
+Table 15 Percent of Adult Patients Receiving MEC Responding by Treatment Group
 
 | ENDPOINTS | Fosaprepitant for Injection Regimen (N = 502)* % | Standard TherapyRegimen (N = 498)* % | P-Value | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- |

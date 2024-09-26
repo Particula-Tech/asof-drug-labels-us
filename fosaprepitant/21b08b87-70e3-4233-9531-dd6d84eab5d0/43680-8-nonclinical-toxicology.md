@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis Carcinogenicity studies were conducted in Sprague-Dawley rats and in CD-1 mice for 2 years.
 In the rat carcinogenicity studies, animals were treated with oral doses ranging from 0.05 to 1000 mg/kg twice daily.

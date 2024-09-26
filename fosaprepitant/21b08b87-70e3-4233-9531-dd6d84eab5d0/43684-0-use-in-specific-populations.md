@@ -25,7 +25,7 @@ Advise females of reproductive potential using hormonal contraceptives to use an
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of a single dose and a 3-day IV/oral/oral regimen have been established in pediatric patients 6 months to 17 years for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC and MEC.
+The safety and effectiveness of a single dose and a 3-day regimen of fosaprepitant have been established in pediatric patients 6 months to 17 years for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC and MEC.
 
 Use of fosaprepitant in this age group is supported by evidence from adequate and well-controlled studies of fosaprepitant for injection in adults, with additional safety, efficacy and pharmacokinetic data in pediatric patients 6 months to 17 years.
 Efficacy and safety were also supported by data from an adequate and well-controlled study of a 3-day oral aprepitant regimen in pediatric patients 6 months to 17 years.
@@ -42,6 +42,9 @@ A study was also conducted in young rats to evaluate the effects of aprepitant o
 Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily (providing exposure in male and female rats lower than the exposure at the recommended pediatric human dose) from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human)).
 Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
 There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
+
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
