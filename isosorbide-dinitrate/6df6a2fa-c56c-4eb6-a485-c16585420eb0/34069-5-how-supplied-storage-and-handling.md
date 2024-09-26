@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Isosorbide dinitrate tablets, USP are available as follows:
+Isosorbide Dinitrate Tablets, USP are available as follows:
 
 5 mg oral, white, round, bisected tablets, debossed with "PAR 020" on one side and plain on the other side.
 
@@ -31,3 +31,5 @@ Protect from light.
 Keep bottles tightly closed.
 
 Dispense in a light-resistant, tight container.
+Manufactured for: Endo USA Malvern, PA 19355 U.S.A. Made in India Neutral Code: TN/DRUGS/TN00002121 © 2024 Endo, Inc. or one of its affiliates.
+OS020-01-74-02 Revised: 08/2024

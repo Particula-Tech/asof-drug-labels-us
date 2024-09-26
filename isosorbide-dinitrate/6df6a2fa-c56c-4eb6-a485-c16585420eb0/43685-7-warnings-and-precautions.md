@@ -8,7 +8,9 @@ The benefits of immediate-release oral isosorbide dinitrate in patients with acu
 If one elects to use isosorbide dinitrate in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.
 Because the effects of oral isosorbide dinitrate are so difficult to terminate rapidly, this formulation is not recommended in these settings.
 
-# GENERAL PRECAUTIONS
+# PRECAUTIONS
+
+General
 
 Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide dinitrate.
 This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive.
@@ -19,7 +21,7 @@ Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
 As tolerance to isosorbide dinitrate develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted.
 
 Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day.
-During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound anddecreasedexercise tolerance.
+During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance.
 The importance of these observations to the routine, clinical use of immediate-release oral isosorbide dinitrate is not known.
 
 In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs.
@@ -45,7 +47,7 @@ Concomitant use of isosorbide dinitrate with phosphodiesterase inhibitors in any
 
 Concomitant use of isosorbide dinitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS).
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate.
 In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day.
