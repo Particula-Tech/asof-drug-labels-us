@@ -37,6 +37,15 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between the use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
+## Endocrine
+
+Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
+Monitor patients for these conditions with chronic use.
+
+Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
+Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
+This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
+
 ## Drug-Induced Liver Injury
 
 Rarely high doses of cyclically pulsed intravenous methylprednisolone (usually for the treatment of exacerbations of multiple sclerosis at doses of 1 gram/day) can induce a toxic form of acute hepatitis.
@@ -46,15 +55,6 @@ However, serious liver injury can occur, sometimes resulting in acute liver fail
 Discontinue intravenous methylprednisolone if toxic hepatitis occurs.
 
 Since recurrence has occurred after re-challenge, avoid use of high dose intravenous methylprednisolone in patients with a history of toxic hepatitis caused by methylprednisolone.
-
-## Endocrine
-
-Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
-Monitor patients for these conditions with chronic use.
-
-Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
-Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
-This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 
 ## Infections
 
@@ -187,6 +187,11 @@ Also, existing emotional instability or psychotic tendencies may be aggravated b
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
+## Tumor Lysis Syndrome
+
+In post marketing experience, tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
+Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
+
 ## Information for Patients
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids, and to seek medical advice at once should they develop fever or other signs of infection.
@@ -289,7 +294,8 @@ There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
-This product when reconstituted contains benzyl alcohol as a preservative and benzyl alcohol can cross the placenta.
+This product when reconstituted contains benzyl alcohol as a preservative.
+Benzyl alcohol can cross the placenta.
 See PRECAUTIONS: Pediatric use.
 
 ## Nursing Mothers
@@ -320,6 +326,8 @@ This negative impact of corticosteroids on growth has been observed at low syste
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
+
+Hypertrophic cardiomyopathy may develop after administration of methylprednisolone to prematurely born infants, therefore appropriate diagnostic evaluation and monitoring of cardiac function and structure should be performed.
 
 ## Geriatric Use
 

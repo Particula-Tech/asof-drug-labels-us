@@ -5,7 +5,6 @@ NOTE: Methylprednisolone Sodium Succinate for Injection contains benzyl alcohol 
 Because of the possible physical incompatibilities, Methylprednisolone Sodium Succinate for Injection should not be diluted or mixed with other solutions.
 
 Use only the Bacteriostatic Water For Injection with Benzyl Alcohol when reconstituting Methylprednisolone Sodium Succinate (see DESCRIPTION).
-Use within 48 hours after mixing.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
@@ -35,6 +34,9 @@ If desired, the medication may be administered in diluted solutions by adding Wa
 
 To prepare solutions for intravenous infusion, first prepare the solution for injection as directed.
 This solution may then be added to indicated amounts of 5% dextrose in water, isotonic saline solution, or 5% dextrose in isotonic saline solution.
+From a microbiological point of view, unless the method of opening/reconstitution/dilution precludes the risk of microbial contamination, the product should be used immediately.
+If not used immediately, in-use storage times and conditions are the responsibility of the user.
+Chemical and physical stability of the further diluted product has been demonstrated within 4 hours of preparation if stored below 25°C or within 24 hours of preparation if stored at 2°C to 8°C.
 
 In pediatric patients, the initial dose of methylprednisolone may vary depending on the specific disease entity being treated.
 The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m2bsa/day).
