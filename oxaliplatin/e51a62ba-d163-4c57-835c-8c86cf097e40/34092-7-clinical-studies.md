@@ -98,7 +98,7 @@ Table 17: Summary of DFS Analysis in Adjuvant Treatment Study - ITT Population
 | Hazard ratio (95% CI) | 0.84 (0.62, 1.14) |  |
 | Log rank test | p=0.258 |  |
 | A hazard ratio of less than 1 favors Oxaliplatin + Infusional FU/LV |  |  |
-| Data cutoff for disease-free survival June 1, 2006 |  |  |
+| Data cut off for disease-free survival June 1, 2006 |  |  |
 
 Figure 1: Kaplan-Meier Curves of Disease-Free Survival (cutoff: 1 June 2006) in Adjuvant Treatment Trial – ITT Population
 
@@ -214,7 +214,7 @@ In descriptive subgroup analyses, the improvement in overall survival (OS) for O
 The efficacy of Oxaliplatin in combination with fluorouracil (FU)/leucovorin (LV) was evaluated in a multicenter, open-label, randomized, three-arm controlled trial was conducted in the US and Canada in patients with advanced colorectal cancer who had relapsed/progressed during or within 6 months of first-line treatment with bolus fluorouracil/leucovorin and irinotecan (A multicenter, open-label, randomized, three-arm study of 5-fluorouracil (5-FU) + leucovorin (LV) or oxaliplatin or a combination of 5-FU/LV + oxaliplatin as second-line treatment of metastatic colorectal carcinoma: NCT00008281).
 Patients were randomized to one of three regimens; the dosing regimens are presented in Table 22.
 Eligible patients were at least 18 years of age, had unresectable, measurable, histologically proven colorectal adenocarcinoma, with a Karnofsky performance status (KPS) greater than 50%.
-Patients had to have aspartate transaminase (AST), alanine transaminase (ALT) and alkaline phosphatase less than or equal to 2 × upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case less than or equal to 5 × ULN was permitted.
+Patients had to have aspartate transaminase (AST), alanine transaminase (ALT) and alkaline phosphatase less than or equal to 2× upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case less than or equal to 5× ULN was permitted.
 Prior radiotherapy was permitted if it had been completed at least 3 weeks before randomization.
 The main efficacy outcome measure was 3-year disease-free survival (DFS) and an additional outcome measure was overall survival (OS).
 

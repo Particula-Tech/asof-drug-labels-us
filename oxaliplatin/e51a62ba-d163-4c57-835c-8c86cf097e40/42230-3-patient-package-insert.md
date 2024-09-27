@@ -1,6 +1,6 @@
 | Patient Information Oxaliplatin (ox-Al-ah-platin) injection for intravenous use |  |  |  |
 | --- | --- | --- | --- |
-| What is the most important information I should know about Oxaliplatin?Oxaliplatin can cause serious allergic reactions, including allergic reactions that can lead to death. Oxaliplatin is a platinum -based medicine. Serious allergic reactions including death can happen in people who take Oxaliplatin and who have had previous allergic reactions to platinum-based medicines. Serious allergic reactions can happen within a few minutes of your Oxaliplatin infusion or any time during your treatment with Oxaliplatin.Get emergency help right away if you: •have trouble breathing•feel like your throat is closing up•chest tightness Call your doctor right away if you have any of the following signs or symptoms of an allergic reaction: |  |  |  |
+| What is the most important information I should know about Oxaliplatin?Oxaliplatin can cause serious allergic reactions, including allergic reactions that can lead to death. Oxaliplatin is a platinum-based medicine. Serious allergic reactions including death can happen in people who take Oxaliplatin and who have had previous allergic reactions to platinum-based medicines. Serious allergic reactions can happen within a few minutes of your Oxaliplatin infusion or any time during your treatment with Oxaliplatin.Get emergency help right away if you: •have trouble breathing•feel like your throat is closing up•chest tightness Call your doctor right away if you have any of the following signs or symptoms of an allergic reaction: |  |  |  |
 | •rash•flushed face•hives•itching•swelling of your lips or tongue, face or eyelids |  | •wheezing•sudden cough•dizziness or feel faint•sweating•chest pain |  |
 | See "What are the possible side effects of Oxaliplatin?" for information about other serious side effects. |  |  |  |
 | What is Oxaliplatin? Oxaliplatin is an anti-cancer (chemotherapy) medicine that is used with other anti-cancer medicines called fluorouracil and leucovorin to treat people with: •stage III colon cancer after surgery to remove the tumor•advanced colon or rectal cancer (colorectal cancer) It is not known if Oxaliplatin is safe and effective in children. |  |  |  |
@@ -26,6 +26,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045
 
-LAB-1359-3.0
+LAB-1359-4.0
 
-Revised: 9/2023
+Revised: 9/2024
