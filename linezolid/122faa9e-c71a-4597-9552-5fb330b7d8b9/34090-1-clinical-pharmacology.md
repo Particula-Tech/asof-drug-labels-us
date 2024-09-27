@@ -229,7 +229,7 @@ Mechanism of Action
 
 Linezolid is a synthetic antibacterial agent of the oxazolidinone class, which has clinical utility in the treatment of infections caused by aerobic Gram-positive bacteria.
 The in vitro spectrum of activity of linezolid also includes certain Gram-negative bacteria and anaerobic bacteria.
-Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is essential component for bacterial reproduction.
+Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is essential for bacterial reproduction.
 The results of time-kill studies have shown linezolid to be bacteriostatic against enterococci and staphylococci.
 For streptococci, linezolid was found to be bactericidal for the majority of isolates.
 

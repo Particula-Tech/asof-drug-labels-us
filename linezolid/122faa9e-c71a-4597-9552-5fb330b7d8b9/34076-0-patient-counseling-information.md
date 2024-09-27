@@ -15,7 +15,7 @@ Advise patients to inform their physician if taking serotonergic agents, includi
 Potential Interactions Producing Elevation of Blood Pressure
 
 - •Advise patients to inform their physician if they have a history of hypertension.
-- •Advise patients to avoid large quantities of foods or beverages with high tyramine content while taking linezolid.
+- •Advise patients to avoid large quantities of foods or beverages with high tyramine content while taking ZYVOX.
   Foods high in tyramine content include those that may have undergone protein changes by aging, fermentation, pickling, or smoking to improve flavor, such as aged cheeses, fermented or air-dried meats, sauerkraut, soy sauce, tap beers, and red wines.
   The tyramine content of any protein-rich food may be increased if stored for long periods or improperly refrigerated.
 - •Advise patients to inform their physician if taking medications containing pseudoephedrine HCl or phenylpropanolamine HCl, such as cold remedies and decongestants [see Warnings and Precautions (5.6)].
@@ -28,22 +28,26 @@ Convulsions
 
 Advise patients to inform their physician if they have a history of seizures or convulsions [see Warnings and Precautions (5.8)].
 
+Rhabdomyolysis
+
+Advise patients to inform their physician if they experience signs and symptoms of rhabdomyolysis including muscle pain, tenderness or weakness and dark urine [see Warnings and Precautions (5.9)].
+
 Hypoglycemia
 
 Advise patients to inform their physician if they have diabetes mellitus.
 Hypoglycemic reactions, such as diaphoresis and tremulousness, along with low blood glucose measurements may occur when treated with linezolid.
-If such reactions occur, patients should contact a physician or other health professional for proper treatment [see Warnings and Precautions (5.9)].
+If such reactions occur, patients should contact a physician or other health professional for proper treatment [see Warnings and Precautions (5.10)].
 
 Hyponatremia and/or SIADH
 
-Advise patients at risk for hyponatremia to inform their physician if they experience signs and symptoms of hyponatremia and/or SIADH, including confusion, somnolence, generalized weakness, and respiratory distress [see Warnings and Precautions (5.10)].
+Advise patients at risk for hyponatremia to inform their physician if they experience signs and symptoms of hyponatremia and/or SIADH, including confusion, somnolence, generalized weakness, and respiratory distress [see Warnings and Precautions (5.11)].
 
 Phenylketonuria
 
 Advise patients with phenylketonuria (PKU) that each 5 mL of the 100 mg/5 mL ZYVOX for Oral Suspension contains 20 mg phenylalanine.
 The other ZYVOX formulations do not contain phenylalanine.
 Phenylalanine can be harmful to patients with phenylketonuria.
-Contact your physician or pharmacist when prescribed with ZYVOX oral suspension.
+Contact your physician or pharmacist when prescribed with ZYVOX for oral suspension.[see Warnings and Precautions (5.12)]
 
 Antibacterial Resistance
 

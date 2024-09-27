@@ -72,8 +72,8 @@ There were 241 linezolid-treated and 120 comparator-treated patients in the inte
 Two hundred twelve (86%) linezolid-treated patients and 105 (85%) comparator-treated patients were clinically evaluable.
 In the ITT population, the cure rates were 68.5% (165/241) in linezolid-treated patients and 64% (77/120) in comparator-treated patients, where those with indeterminate and missing outcomes were considered failures.
 The cure rates in the clinically evaluable patients (excluding those with indeterminate and missing outcomes) were 83% (159/192) and 73% (74/101) in the linezolid- and comparator-treated patients, respectively.
-A critical post-hoc analysis focused on 121 linezolid-treated and 60 comparator-treated patients who had a Gram-positive pathogen isolated from the site of infection or from blood, who had less evidence of underlying osteomyelitis than the overall study population, and who did not receive prohibited antimicrobials.
-Based upon that analysis, the cure rates were 71% (86/121) in the linezolid-treated patients and 63% (38/60) in the comparator-treated patients.
+A critical post-hoc analysis focused on 121 linezolid-treated and 60 comparator-treated patients who had a Gram positive pathogen isolated from the site of infection or from blood, who had less evidence of underlying osteomyelitis than the overall study population, and who did not receive prohibited antimicrobials.
+Based upon that analysis, the cure rates were 71% (86/121) in the linezolid-treated patients and 63% (38/60) in the comparator treated patients.
 None of the above analyses were adjusted for the use of adjunctive therapies.
 The cure rates by pathogen for microbiologically evaluable patients are presented in Table 14.
 
@@ -116,7 +116,7 @@ Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vanc
 
 Infections due to Gram-positive Bacteria
 
-A safety and efficacy study provided experience on the use of ZYVOX in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
+A safety and efficacy study provided experience on the use of ZYVOX in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin resistant Enterococcus faecium.
 Pediatric patients ranging in age from birth through 11 years with infections caused by the documented or suspected Gram-positive bacteria were enrolled in a randomized, open-label, comparator-controlled trial.
 One group of patients received ZYVOX I.V.
 Injection 10 mg/kg every 8 hours followed by ZYVOX for Oral Suspension 10 mg/kg every 8 hours.
