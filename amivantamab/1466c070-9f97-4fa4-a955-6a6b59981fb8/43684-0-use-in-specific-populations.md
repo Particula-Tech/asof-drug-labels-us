@@ -7,7 +7,8 @@ Risk Summary
 Based on the mechanism of action and findings in animal models, RYBREVANT can cause fetal harm when administered to a pregnant woman.
 There are no available data on the use of RYBREVANT in pregnant women or animal data to assess the risk of RYBREVANT in pregnancy.
 Disruption or depletion of EGFR in animal models resulted in impairment of embryo-fetal development including effects on placental, lung, cardiac, skin, and neural development.
-The absence of EGFR or MET signaling has resulted in embryo lethality, malformations, and post-natal death in animals (see Data).Advise pregnant women of the potential risk to a fetus.
+The absence of EGFR or MET signaling has resulted in embryo lethality, malformations, and post-natal death in animals (see Data).
+Advise pregnant women of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
@@ -27,7 +28,7 @@ Human IgG1 is known to cross the placenta; therefore, amivantamab-vmjw has the p
 Risk Summary
 
 There are no data on the presence of amivantamab-vmjw in human milk, the effects on the breastfed child or on milk production.
-Because of the potential for serious adverse reactions from RYBREVANT in breast-fed children, advise women not to breast-feed during treatment with RYBREVANT and for 3 months after the last dose.
+Because of the potential for serious adverse reactions from RYBREVANT in breast-fed children, advise women not to breastfeed during treatment with RYBREVANT and for 3 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -49,8 +50,9 @@ The safety and efficacy of RYBREVANT have not been established in pediatric pati
 
 ## 8.5 Geriatric Use
 
-- Of the 421 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with lazertinib in the MARIPOSA study, 45% were ≥65 years of age and 12% were ≥75 years of age.
-- Of the 151 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with carboplatin and pemetrexed in the PAPILLON study, 37% were ≥65 years of age and 8% were ≥75 years of age.
-- Of the 302 patients with locally advanced or metastatic NSCLC treated with RYBREVANT as a single agent in the CHRYSALIS study, 39% were ≥65 years of age and 11% were ≥75 years of age.
+- Of the 421 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with lazertinib in the MARIPOSA study, 45% were ≥ 65 years of age and 12% were ≥ 75 years of age.
+- Of the 130 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with carboplatin and pemetrexed in the MARIPOSA-2 study, 40% were ≥ 65 years of age and 10% were ≥ 75 years of age.
+- Of the 151 patients with locally advanced or metastatic NSCLC treated with RYBREVANT in combination with carboplatin and pemetrexed in the PAPILLON study, 37% were ≥ 65 years of age and 8% were ≥ 75 years of age.
+- Of the 302 patients with locally advanced or metastatic NSCLC treated with RYBREVANT as a single agent in the CHRYSALIS study, 39% were ≥ 65 years of age and 11% were ≥ 75 years of age.
 
-No clinically important differences in safety or efficacy were observed between patients who were ≥65 years of age and younger patients.
+No clinically important differences in safety or efficacy were observed between patients who were ≥ 65 years of age and younger patients.
