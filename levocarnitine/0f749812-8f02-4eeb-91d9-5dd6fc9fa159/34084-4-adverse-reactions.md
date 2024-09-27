@@ -13,3 +13,5 @@ Neurologic Reactions: Seizures have been reported to occur in patients with or w
 In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
 
 Hypersensitivity Reactions: Rash, urticaria, and facial edema have been reported with oral levocarnitine (see WARNINGS).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

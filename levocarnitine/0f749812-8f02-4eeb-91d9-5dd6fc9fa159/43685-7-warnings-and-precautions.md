@@ -1,8 +1,8 @@
 # WARNINGS
 
-Hypersensitivity Reactions Serious hypersensitivity reactions, including rash, urticarial, and facial edema have been reported with oral Levocarnitine.
+Hypersensitivity Reactions Serious hypersensitivity reactions, including rash, urticaria, and facial edema have been reported with oral levocarnitine.
 Other serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following intravenous levocarnitine administration, mostly in patients with end stage renal disease undergoing dialysis.
-Discontinue use of Levocarnitine tablets, USP and instruct patients to seek medical attention if they experience symptoms suggestive of a hypersensitivity reaction.
+Discontinue use of levocarnitine tablets and instruct patients to seek medical attention if they experience symptoms suggestive of a hypersensitivity reaction.
 
 # PRECAUTIONS
 
@@ -36,4 +36,4 @@ Consideration may be given to discontinuation of nursing or of levocarnitine tre
 
 ## Pediatric Use
 
-See Dosage and Administration.
+See DOSAGE AND ADMINISTRATION.
