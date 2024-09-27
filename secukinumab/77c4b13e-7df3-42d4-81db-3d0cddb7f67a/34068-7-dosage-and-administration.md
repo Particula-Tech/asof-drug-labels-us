@@ -30,7 +30,7 @@ The COSENTYX “Instructions for Use” for each presentation and strength conta
 Important Intravenous Infusion Instructions
 
 Intravenous infusion is only for use by a healthcare professional in a healthcare setting.
-Prepare COSENTYX intravenous infusion by diluting COSENTYX injection in vial(s) and administering based on patient body weight [see Dosage and Administration (2.10)].
+Prepare COSENTYX intravenous infusion by diluting COSENTYX injection in vial(s) and administering based on patient body weight [see Dosage and Administration (2.11)].
 Intravenous infusion may be administered only in adults with PsA, AS, and nr-axSPA.
 
 ## 2.3 Recommended Dosage in Plaque Psoriasis
@@ -74,9 +74,9 @@ The recommended intravenous dosage regimen in adults with PsA:
 - With a loading dosage is 6 mg/kg loading dose given at Week 0, followed by 1.75 mg/kg every 4 weeks thereafter (maintenance dosage).
 - Without a loading dosage is 1.75 mg/kg every 4 weeks.
 
-Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.10)].
+Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.11)].
 
-Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in adults with PsA [see Dosage and Administration (2.10)].
+Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in adults with PsA [see Dosage and Administration (2.11)].
 
 ## 2.5 Recommended Dosage in Pediatric Patients 2 Years of Age and Older with Juvenile Psoriatic Arthritis
 
@@ -107,9 +107,9 @@ The recommended intravenous dosage regimen in adult patients with active AS:
 - With a loading dosage is 6 mg/kg loading dose given at Week 0, followed by 1.75 mg/kg every 4 weeks thereafter (maintenance dosage).
 - Without a loading dosage is 1.75 mg/kg every 4 weeks.
 
-Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.10)].
+Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.11)].
 
-Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in patients with AS [see Dosage and Administration (2.10)].
+Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in patients with AS [see Dosage and Administration (2.11)].
 
 ## 2.7 Recommended Dosage in Adults with Non-Radiographic Axial Spondyloarthritis
 
@@ -130,9 +130,9 @@ The recommended intravenous dosage regimen in adult patients with active nr-axSp
 - With a loading dosage is 6 mg/kg loading dose given at Week 0, followed by 1.75 mg/kg every 4 weeks thereafter (maintenance dosage).
 - Without a loading dosage is 1.75 mg/kg every 4 weeks.
 
-Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.10)].
+Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.11)].
 
-Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in patients with nr-axSpA [see Dosage and Administration (2.10)].
+Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in patients with nr-axSpA [see Dosage and Administration (2.11)].
 
 ## 2.8 Recommended Dosage in Enthesitis-Related Arthritis
 
@@ -179,7 +179,6 @@ Volume Calculation
 Step 2.
 Dilution
 
-- Before dilution, allow the COSENTYX solution in vial(s) to sit for approximately 20 minutes at room temperature 20ºC to 25ºC (68ºF to 77ºF).
 - Parenteral drug product should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not use if particulates or discolorations are noted.
 - Follow Table 1 for recommended infusion bag size based on patient's body weight.
@@ -198,6 +197,7 @@ Table 1: Recommended Infusion Bags for Dilution and Preparation of COSENTYX for 
   Do not shake.
 - Discard unused COSENTYX product in vials because it does not contain preservatives.
 
+Allow the diluted COSENTYX solution for infusion to warm to room temperature prior to the start of the intravenous infusion.
 Administer the diluted COSENTYX solution for infusion as soon as possible.
 If not administered immediately, store the diluted solution either:
 
@@ -211,6 +211,6 @@ Administration
 
 - Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
 - Administer the infusion at a flow rate of about 3.3 mL/minute for a 100 mL bag or 1.7 mL/min for a 50 mL bag (total administration time: 30 minutes).
-- When administration is complete, flush the line with at least 50 mL of 0.9% Sodium Chloride Injection, USP to guarantee that all the COSENTYX solution for infusion in the line has been administered.
+- When administration is complete, flush the line with 0.9% Sodium Chloride Injection, USP to guarantee that all the COSENTYX solution for infusion in the line has been administered.
 - Do not infuse COSENTYX concomitantly in the same intravenous line with other drugs.
   No physical or biochemical compatibility studies have been conducted to evaluate the IV coadministration of COSENTYX with other drugs.
