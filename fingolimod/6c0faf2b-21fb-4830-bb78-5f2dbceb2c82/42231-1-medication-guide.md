@@ -1,10 +1,12 @@
 # MEDICATION GUIDE
 
+Dispense with Medication Guide available at: www.solcohealthcare.com/medguide/fingolimod-capsules.pdf
+
 Fingolimod Capsules
 
 (fin gol’ i mod)
 
-Dispense with Medication Guide available at:www.solcohealthcare.com/medguide/fingolimod-capsules.pdf
+for oral use
 
 Read this Medication Guide before you start taking fingolimod capsules and each time you get a refill.
 There may be new information.
@@ -24,7 +26,7 @@ Fingolimod capsules may cause serious side effects, including:
 4. After you take your first dose of fingolimod capsules, and after a child takes their first dose of 0.5 mg of fingolimod capsules when switching from the 0.25 mg dose:
 5. •Your pulse and blood pressure should be checked every hour.
 6. •You should be observed by a healthcare professional to see if you have any serious side effects.
-   If your heart rate slows down too much, you may have symptoms such as:
+   If your heart rate slows down too much, you may have symptoms, such as:
 7. odizziness
 8. otiredness
 9. ofeeling like your heart is beating slowly or skipping beats
@@ -79,10 +81,10 @@ Fingolimod capsules may cause serious side effects, including:
 1. 5.A problem with your vision called macular edema.
    Macular edema can cause some of the same vision symptoms as a multiple sclerosis (MS) attack (optic neuritis).
    You may not notice any symptoms with macular edema.
-   If macular edema happens, it usually starts in the first 3 to 4 months after you start taking fingolimod capsules.
-   Your doctor should test your vision before you start taking fingolimod capsules and 3 to 4 months after you start taking fingolimod capsules, or any time you notice vision changes during treatment with fingolimod capsules.
+   If macular edema happens, it usually starts in the first 3 to 4 months after you start taking fingolimod capsules but can happen at any time.
+   Your doctor should test your vision around the time you start taking fingolimod capsules, 3 to 4 months after you start taking fingolimod capsules, periodically while you continue taking fingolimod capsules, and any time you notice vision changes during treatment with fingolimod capsules.
    Your risk of macular edema is higher if you have diabetes or have had an inflammation of your eye called uveitis.
-2. Call your doctor right away if you have any of the following:
+2. Call your doctor right away if you have any of the following symptoms:
 
 | •blurriness or shadows in the center of your vision | •sensitivity to light |
 | --- | --- |
@@ -98,7 +100,7 @@ Who should not take fingolimod capsules?
 
 Do not take fingolimod capsules if you:
 
-- •have had a heart attack, unstable angina, stroke or mini-stroke (transient ischemic attack or TIA) or certain types of heart failure in the last 6 months.
+- •have had a heart attack, unstable angina, stroke, or mini stroke (transient ischemic attack or TIA) or certain types of heart failure in the last 6 months.
 - •have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom a heart finding called prolonged QT is seen on ECG before starting fingolimod capsules.
 - •have a heart rhythm problem that needs treatment with certain medicines.
 - •are allergic to fingolimod or any of the ingredients in fingolimod capsules.
@@ -112,7 +114,7 @@ What should I tell my doctor before taking fingolimod capsules?
 Before you take fingolimod capsules, tell your doctor about all your medical conditions, including if you had or now have:
 
 - •an irregular or abnormal heartbeat (arrhythmia).
-- •a history of stroke or mini-stroke.
+- •a history of stroke or mini stroke.
 - •heart problems, including heart attack or angina.
 - •a history of repeated fainting (syncope).
 - •a fever or infection, or you are unable to fight infections due to a disease or take or have taken medicines that lower your immune system.
@@ -127,7 +129,7 @@ Before you take fingolimod capsules, tell your doctor about all your medical con
 - •breathing problems, including during your sleep.
 - •liver problems.
 - •high blood pressure.
-- •types of skin cancer called basal cell carcinoma (BCC) or melanoma.
+- •any type of skin cancer, including basal cell carcinoma (BCC), melanoma, or squamous cell carcinoma (SCC).
 - •are pregnant or plan to become pregnant.
   Fingolimod capsules may harm your unborn baby.
   Talk to your doctor if you are pregnant or are planning to become pregnant.
@@ -201,14 +203,14 @@ Fingolimod capsules can cause serious side effects, including:
 - • severe worsening of multiple sclerosis after stopping fingolimod capsules.
 - When fingolimod capsules are stopped, symptoms of MS can return and become worse compared to before or during treatment.
   Many people who have worsening of MS symptoms after stopping fingolimod capsules do not return to the level of function that they had before stopping fingolimod capsules.
-  This worsening happens most often within 12 weeks after stopping fingolimod capsules, but can happen later.
+  This worsening happens most often within 12 weeks after stopping fingolimod capsules but can happen later.
   Always talk to your doctor before you stop taking fingolimod capsules for any reason.
   Tell your doctor if you have worsening symptoms of MS after stopping fingolimod capsules.
 - •increased blood pressure.
   Your doctor should check your blood pressure during treatment with fingolimod capsules.
-- •types of skin cancer called basal cell carcinoma (BCC) and melanoma.
-  Tell your doctor if you have any changes in the appearance of your skin, including changes in a mole, a new darkened area on your skin, a sore that does not heal, or growths on your skin such as a bump that may be shiny, pearly white, skin-colored, or pink.
-  Your doctor should check your skin for any changes during treatment with fingolimod capsules.
+- •types of skin cancer, including basal cell carcinoma, melanoma, and squamous cell carcinoma.
+  Tell your doctor if you have any changes in the appearance of your skin, including changes in a mole, a new darkened area on your skin, a sore that does not heal, or growths on your skin, such as a bump that may be shiny, pearly white, skin-colored, or pink.
+  Your doctor should check your skin for any changes at the start of and during treatment with fingolimod capsules.
   Limit the amount of time you spend in sunlight and ultraviolet (UV) light.
   Wear protective clothing and use a sunscreen with a high sun protection factor.
 - •allergic reactions.
@@ -252,7 +254,7 @@ What are the ingredients in fingolimod capsules?
 
 Active ingredient: fingolimod hydrochloride, USP
 
-Inactive ingredients: gelatin, magnesium stearate, silicified microcrystalline cellulose, titanium dioxide, potassium hydroxide, propylene glycol, shellac, black iron oxide.
+Inactive ingredients: black iron oxide, gelatin, magnesium stearate, potassium hydroxide, propylene glycol, silicified microcrystalline cellulose, shellac and titanium dioxide.
 
 Distributed by:
 
@@ -268,4 +270,4 @@ Xunqiao, Linhai, Zhejiang 317024, China
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 09/2022
+Revised: 07/2024

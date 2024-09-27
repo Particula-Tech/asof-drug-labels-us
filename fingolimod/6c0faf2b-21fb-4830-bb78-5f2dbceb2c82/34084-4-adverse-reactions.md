@@ -23,22 +23,22 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults
 
-In clinical trials (Studies 1, 2, and 3), a total of 1212 patients with relapsing forms of multiple sclerosis received fingolimod capsules 0.5 mg.
+In clinical trials (Studies 1, 2, and 3), a total of 1,212 patients with relapsing forms of multiple sclerosis received fingolimod capsules 0.5 mg.
 This included 783 patients who received fingolimod capsules 0.5 mg in the 2-year placebo-controlled trials (Studies 1 and 3) and 429 patients who received fingolimod capsules 0.5 mg in the 1-year active-controlled trial (Study 2).
-The overall exposure in the controlled trials was equivalent to 1716 person-years.
-Approximately 1000 patients received at least 2 years of treatment with fingolimod capsules 0.5 mg.
-In all clinical studies, including uncontrolled extension studies, the exposure to fingolimod capsules 0.5 mg was approximately 4119 person-years.
+The overall exposure in the controlled trials was equivalent to 1,716 person-years.
+Approximately 1,000 patients received at least 2 years of treatment with fingolimod capsules 0.5 mg.
+In all clinical studies, including uncontrolled extension studies, the exposure to fingolimod capsules 0.5 mg was approximately 4,119 person-years.
 
 In placebo-controlled trials, the most frequent adverse reactions (incidence ≥ 10% and greater than placebo) for fingolimod capsules 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity.
 Adverse events that led to treatment discontinuation and occurred in more than 1% of patients taking fingolimod capsules 0.5 mg, were serum transaminase elevations (4.7% compared to 1% on placebo) and basal cell carcinoma (1% compared to 0.5% on placebo).
 
 Table 1 lists adverse reactions in clinical studies in adults that occurred in ≥ 1% of fingolimod capsules-treated patients and ≥ 1% higher rate than for placebo.
 
-Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1% of Patients and Reported for Fingolimod Capsules 0.5 mg at ≥ 1% Higher Rate than for Placebo)
+Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1% of Patients and Reported for Fingolimod Capsules 0.5 mg at ≥ 1% Higher Rate Than for Placebo)
 
 |  | Fingolimod Capsules 0.5 mg | Placebo |
 | --- | --- | --- |
-| Adverse Drug Reactions | N = 783 % | N = 773 % |
+| Adverse drug reactions | N = 783 % | N = 773 % |
 | Infections |  |  |
 | Influenza | 11 | 8 |
 | Sinusitis | 11 | 8 |
@@ -79,6 +79,7 @@ Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1
 | (including cysts and polyps) |  |  |
 | Skin papilloma | 3 | 2 |
 | Basal cell carcinoma | 2 | 1 |
+| Abbreviations: ALT, alanine transaminase; AST, aspartate transferase; GGT, gamma-glutamyl transferase. |  |  |
 
 Adverse reactions of seizure, dizziness, pneumonia, eczema, and pruritus were also reported in Studies 1 and 3, but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
 
@@ -86,7 +87,7 @@ Adverse reactions with fingolimod capsules 0.5 mg in Study 2, the 1-year active-
 
 Vascular Events
 
-Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received fingolimod capsules doses (1.25-5 mg) higher than recommended for use in MS. Similar events have been reported with fingolimod capsules in the postmarketing setting although a causal relationship has not been established.
+Vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received fingolimod capsules doses (1.25 mg to 5 mg) higher than recommended for use in MS. Similar events have been reported with fingolimod capsules in the postmarketing setting although a causal relationship has not been established.
 
 Seizure
 
@@ -107,8 +108,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 1. Blood and Lymphatic System Disorders: Hemolytic anemia and thrombocytopenia
 2. Hepatobiliary Disorders: Liver injury [see Warnings and Precautions (5.5)]
-3. Infections: infections including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
-4. Musculoskeletal and connective tissue disorders: arthralgia, myalgia
-5. Nervous system disorders: posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
-6. Neoplasms, benign, malignant, and unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
-7. Skin and subcutaneous tissue disorders: hypersensitivity [see Warnings and Precautions (5.14)]
+3. Infections: Infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+4. Musculoskeletal and connective tissue disorders: Arthralgia, myalgia
+5. Nervous System Disorders: Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
+6. Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, cutaneous T-cell lymphoma (including mycosis fungoides), Kaposi’s sarcoma, squamous cell carcinoma [see Warnings and Precautions (5.12)]
+7. Skin and Subcutaneous Tissue Disorders: Hypersensitivity [see Warnings and Precautions (5.14)]

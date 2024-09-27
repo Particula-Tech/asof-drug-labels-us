@@ -4,7 +4,7 @@
 
 0.5 mg fingolimod capsules are supplied as follows:
 
-1. hard white opaque gelatin capsules printed with "573" in black ink on the cap and "0.5 mg" in black ink on the body.
+1. hard white opaque capsules printed with "573" in black ink on the cap and "0.5 mg" in black ink on the body.
 2. Bottles of 30 (NDC 43547-003-03)
 3. Bottles of 90 (NDC 43547-003-09)
 

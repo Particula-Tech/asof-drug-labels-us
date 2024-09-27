@@ -31,7 +31,7 @@ Effects on Immune Cell Numbers in the Blood
 
 In a study in which 12 adult subjects received fingolimod capsules 0.5 mg daily, the lymphocyte count decreased to approximately 60% of baseline within 4 to 6 hours after the first dose.
 With continued daily dosing, the lymphocyte count continued to decrease over a 2-week period, reaching a nadir count of approximately 500 cells/mcL or approximately 30% of baseline.
-In a placebo-controlled study in 1272 MS patients (of whom 425 received fingolimod 0.5 mg daily and 418 received placebo), 18% (N = 78) of patients on fingolimod 0.5 mg reached a nadir of < 200 cells/mcL on at least 1 occasion.
+In a placebo-controlled study in 1,272 MS patients (of whom 425 received fingolimod 0.5 mg daily and 418 received placebo), 18% (N = 78) of patients on fingolimod 0.5 mg reached a nadir of < 200 cells/mcL on at least 1 occasion.
 No patient on placebo reached a nadir of < 200 cells/mcL.
 Low lymphocyte counts are maintained with chronic daily dosing of fingolimod capsules 0.5 mg daily.
 
@@ -68,7 +68,7 @@ Fingolimod 1.25 mg was associated with a 5-fold increase in the use of rescue sh
 
 Absorption
 
-The Tmax of fingolimod is 12-16 hours.
+The Tmax of fingolimod is 12 to 16 hours.
 The apparent absolute oral bioavailability is 93%.
 
 Food intake does not alter Cmax or (AUC) of fingolimod or fingolimod-phosphate.
@@ -83,7 +83,7 @@ Fingolimod-phosphate has a smaller uptake in blood cells of < 17%.
 Fingolimod and fingolimod-phosphate are > 99.7% protein bound.
 Fingolimod and fingolimod-phosphate protein binding is not altered by renal or hepatic impairment.
 
-Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1200 ± 260 L.
+Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1,200 ± 260 L.
 
 Metabolism
 
@@ -119,7 +119,7 @@ Gender has no clinically significant influence on fingolimod and fingolimod-phos
 
 Race
 
-The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of non-white patients in the clinical program.
+The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of patients who self-identified as Black or African American, Asian, or other races in the clinical program.
 
 Renal Impairment
 

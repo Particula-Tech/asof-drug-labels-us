@@ -24,14 +24,15 @@ Table 2: Clinical and MRI Results of Study 1
 |  | Fingolimod Capsules 0.5 mg | Placebo | p-value |
 | --- | --- | --- | --- |
 | N = 425 | N = 418 |  |  |
-| Clinical Endpoints |  |  |  |
+| Clinical endpoints |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.18 | 0.40 | < 0.001 |
 | Percentage of patients without relapse | 70% | 46% | < 0.001 |
 | Hazard ratio‡ of disability progression | 0.70 |  | 0.02 |
 | (95% CI) | (0.52, 0.96) |  |  |
-| MRI Endpoint |  |  |  |
+| MRI endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 24 months | 2.5 (0) | 9.8 (5.0) | < 0.001 |
 | Mean (median) number of T1 Gd-enhancing lesions at Month 24 | 0.2 (0) | 1.1 (0) | < 0.001 |
+| Abbreviation: CI, confidence interval. |  |  |  |
 | All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. |  |  |  |
 | ‡ Hazard ratio is an estimate of the relative risk of having the event of disability progression on fingolimod capsules as compared to placebo. |  |  |  |
 
@@ -60,18 +61,19 @@ Table 3: Clinical and MRI Results of Study 2
 |  | Fingolimod Capsules 0.5 mg | Interferon beta-1a IM 30 mcg | p-value |
 | --- | --- | --- | --- |
 |  | N = 429 | N = 431 |  |
-| Clinical Endpoints |  |  |  |
+| Clinical endpoints |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.16 | 0.33 | < 0.001 |
 | Percentage of patients without relapse | 83% | 70% | < 0.001 |
 | Hazard ratio‡ of disability progression | 0.71 |  | 0.21 |
 | (95% CI) | (0.42, 1.21) |  |  |
-| MRI Endpoint |  |  |  |
+| MRI endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 12 months | 1.6 (0) | 2.6 (1.0) | 0.002 |
 | Mean (median) number of T1 Gd-enhancing lesions at Month 12 | 0.2 (0) | 0.5 (0) | < 0.001 |
+| Abbreviation: CI, confidence interval. |  |  |  |
 | All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. |  |  |  |
 | ‡ Hazard ratio is an estimate of the relative risk of having the event of disability progression on fingolimod capsules as compared to control. |  |  |  |
 
-Pooled results of study 1 and study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
+Pooled results of Study 1 and Study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
 
 ## 14.2 Pediatric Patients (10 to less than 18 Years of Age)
 
@@ -90,13 +92,13 @@ In the fingolimod capsules group, 6.5% of patients did not complete the study, c
 
 The primary endpoint, the annualized relapse rate (ARR), was significantly lower in patients treated with fingolimod capsules (0.122) than in patients who received interferon beta-1a (0.675).
 Relative reduction in ARR was 81.9%.
-The annualized rate of the number of new or newly enlarged T2 lesions up to month 24 (key secondary endpoint) was significantly lower in patients treated with fingolimod capsules, as was the number of Gd-enhancing T1 lesions per scan up to month 24.
+The annualized rate of the number of new or newly enlarged T2 lesions up to Month 24 (key secondary endpoint) was significantly lower in patients treated with fingolimod capsules, as was the number of Gd-enhancing T1 lesions per scan up to Month 24.
 
 Table 4 summarizes the results of Study 4.
 
 Table 4: Clinical and MRI Results of Study 4
 
-|  | Fingolimod capsules 0.25 or 0.5 mg PON = 107 | Interferon beta-1a30 mcg IMN = 107 | p-value | RelativeReduction |
+|  | Fingolimod capsules 0.25 mg or 0.5 mg PON = 107 | Interferon beta-1a30 mcg IMN = 107 | p-value | Relativereduction |
 | --- | --- | --- | --- | --- |
 | Clinical endpoints |  |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.122 | 0.675 | < 0.001* | 81.9% |
@@ -104,5 +106,6 @@ Table 4: Clinical and MRI Results of Study 4
 | MRI endpoints |  |  |  |  |
 | Annualized rate of the number of new or newly enlarging T2 lesions | 4.393 | 9.269 | < 0.001* | 52.6% |
 | Mean number of Gd-enhancing T1 lesions per scan up to Month 24 | 0.436 | 1.282 | < 0.001* | 66.0% |
+| Abbreviations: IM, intramuscular; MRI, magnetic resonance imaging; PO, by mouth. |  |  |  |  |
 | All analyses of clinical endpoints were on full analysis set. MRI analyses used the evaluable dataset. |  |  |  |  |
 | *Indicates statistical significance vs. Interferon beta-1a IM at two-sided 0.05 level. |  |  |  |  |

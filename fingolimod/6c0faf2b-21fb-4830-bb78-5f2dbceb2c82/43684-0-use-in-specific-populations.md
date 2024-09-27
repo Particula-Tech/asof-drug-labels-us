@@ -13,7 +13,7 @@ The most common fetal visceral malformations in rats were persistent truncus art
 The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
-In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations
@@ -72,7 +72,7 @@ Delayed sexual maturation was noted in females at the highest dose tested and in
 The bone changes observed in fingolimod-treated juvenile rats are consistent with a reported role of S1P in the regulation of bone mineral homeostasis.
 
 When fingolimod (0.5 or 5 mg/kg/day) was orally administered to rats from the neonatal period through sexual maturity, a marked decrease in T-cell dependent antibody response was observed at both doses.
-This effect had not fully recovered by 6-8 weeks after the end of treatment.
+This effect had not fully recovered by 6 to 8 weeks after the end of treatment.
 
 Overall, a no-effect dose for adverse developmental effects in juvenile animals was not identified.
 
