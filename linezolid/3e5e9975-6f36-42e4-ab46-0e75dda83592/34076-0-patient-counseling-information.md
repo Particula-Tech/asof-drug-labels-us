@@ -28,15 +28,19 @@ Convulsions
 
 Advise patients to inform their physician if they have a history of seizures or convulsions [see Warnings and Precautions (5.8)].
 
+### Rhabdomyolysis
+
+Advise patients to inform their physician if they experience signs and symptoms of rhabdomyolysis including muscle pain, tenderness or weakness and dark urine [see Warnings and Precautions (5.9)].
+
 Hypoglycemia
 
 Advise patients to inform their physician if they have diabetes mellitus.
 Hypoglycemic reactions, such as diaphoresis and tremulousness, along with low blood glucose measurements may occur when treated with linezolid.
-If such reactions occur, patients should contact a physician or other health professional for proper treatment [see Warnings and Precautions (5.9)].
+If such reactions occur, patients should contact a physician or other health professional for proper treatment [see Warnings and Precautions (5.10)].
 
 Hyponatremia and/or SIADH
 
-Advise patients at risk for hyponatremia to inform their physician if they experience signs and symptoms of hyponatremia and/or SIADH, including confusion, somnolence, generalized weakness, and respiratory distress [see Warnings and Precautions (5.10)].
+Advise patients at risk for hyponatremia to inform their physician if they experience signs and symptoms of hyponatremia and/or SIADH, including confusion, somnolence, generalized weakness, and respiratory distress [see Warnings and Precautions (5.11)].
 
 Phenylketonuria
 
