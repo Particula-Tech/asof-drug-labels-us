@@ -23,9 +23,9 @@ To reduce the risk of withdrawal reactions, use a gradual taper to discontinue c
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 Acute Withdrawal Reactions The continued use of benzodiazepines, including clobazam, may lead to clinically significant physical dependence.
 Abrupt discontinuation or rapid dosage reduction of clobazam after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
-Protracted Withdrawal Syndrome In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence (9.3)]
+Protracted Withdrawal Syndrome In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence (9.3)].
 
-## 5.4 Potentiation of Sedation from Concomitant Use with CentralNervous System Depressants
+## 5.4 Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants
 
 Since clobazam has a central nervous system (CNS) depressant effect, patients or their caregivers should be cautioned against simultaneous use with other CNS depressant drugs or alcohol, and cautioned that the effects of other CNS depressant drugs or alcohol may be potentiated [see Drug Interactions (7.2)].
 
@@ -44,12 +44,22 @@ Patients should be closely monitored for signs or symptoms of SJS/TEN, especiall
 Clobazam tablets should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered [see Contraindications (4)].
 
-## 5.7 Suicidal Behavior and Ideation
+## 5.7 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+
+Drug ReactionwithEosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, includingclobazamtablets.
+These events can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically,although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ systeminvolvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.Eosinophilia isoften present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that earlymanifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms arepresent, the patient should be evaluated immediately.
+Clobazam tablets should be discontinued if an alternative etiology for the signs or symptomscannotbe established [see Contraindications (4)].
+
+## 5.8 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including clobazam tablets, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted relative risk 1.8, 95% confidence interval [CI]: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
-In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo- treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
@@ -74,7 +84,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.8 Neonatal Sedation and Withdrawal Syndrome
+## 5.9 Neonatal Sedation and Withdrawal Syndrome
 
 Use of clobazam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
 Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation and monitor neonates exposed to clobazam during pregnancy for signs of withdrawal; manage these neonates accordingly.
