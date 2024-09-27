@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Myopathy and Rhabdomyolysis
 
 Advise patients that rosuvastatin may cause myopathy and rhabdomyolysis.
-Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over-the-counter, with their healthcare provider.
 Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1), and Drug Interactions (7.1)].
 
 Hepatic Dysfunction
@@ -17,7 +17,6 @@ Increases in HbA1c and Fasting Serum Glucose Levels
 
 Inform patients that increases in HbA1c and fasting serum glucose levels may occur with rosuvastatin.
 Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.5)].
-
 Pregnancy
 
 Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
@@ -29,15 +28,13 @@ Advise patients that breastfeeding during treatment with rosuvastatin is not rec
 
 Concomitant Use of Antacids
 
-When taking rosuvastatin with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after rosuvastatin administration [see Drug Interactions (7.2)].
+When taking rosuvastatin with an aluminum and magnesium hydroxide combination antacid, administer rosuvastatin at least 2 hours before the antacid [see Drug Interactions (7.2)].
 
 Missed Doses
 
-If a dose is missed, advise patients not take an extra dose.
-Just resume the usual schedule [see General Dosage and Administration Information (2.1)].
-
-CRESTOR is a trademark of the AstraZeneca group of companies.
+If a dose is missed, advise patients not to take an extra dose.
+Just resume the usual schedule [see Dosage and Administration (2.1)].
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 09/2023
+Revised: 09/2024

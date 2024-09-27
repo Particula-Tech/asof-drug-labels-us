@@ -51,16 +51,16 @@ There were no differences in plasma concentrations of rosuvastatin between the n
 
 Pediatric Patients
 
-In a population pharmacokinetic analysis of two pediatric trials involving patients with heterozygous familial hypercholesterolemia 10 to 17 years of age and 8 to 17 years of age, respectively, rosuvastatin exposure appeared comparable to or lower than rosuvastatin exposure in adult patients.
+In a population pharmacokinetic analysis of two pediatric trials involving patients with HeFH 10 to 17 years of age and 8 to 17 years of age, respectively, rosuvastatin exposure appeared comparable to or lower than rosuvastatin exposure in adult patients.
 
 Male and Female Patients
 
-There were no differences in plasma concentrations of rosuvastatin between men and women.
+There were no differences in plasma concentrations of rosuvastatin between males and females.
 
 Racial or Ethnic Groups
 
-A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
-However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2-fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a Caucasian control group.
+A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among White, Hispanic or Latino ethnicity, and Black or Afro-Caribbean groups.
+However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2-fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a White control group.
 
 Patients with Renal Impairment
 
@@ -76,12 +76,12 @@ In patients with chronic alcohol liver disease, plasma concentrations of rosuvas
 In patients with Child-Pugh A disease, Cmax and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
 In patients with Child-Pugh B disease, Cmax and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function.
 
-Drug Interactions Studies
+Drug Interaction Studies
 
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of rosuvastatin with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations [see Dosage and Administration (2.6) and Drug Interactions (7.1)].
+Concomitant administration of rosuvastatin with medications that are inhibitors of these transporter proteins (e.g., cyclosporine, certain HIV protease inhibitors [see Dosage and Administration (2.6) and Drug Interactions (7.1)] and ticagrelor [see Drug Interactions (7.1]) may result in increased rosuvastatin plasma concentrations.
 
 Table 8: Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 
@@ -89,7 +89,7 @@ Table 8: Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | --- | --- | --- | --- |
 |  |  | Mean Ratio (ratio with/without coadministered drug) No Effect=1.0 |  |
 |  | Dose (mg)1 | Change in AUC | Change in Cmax |
-| Sofosbuvir/velpatasvir/voxilaprevir (400 mg to 100 mg to 100 mg) + Voxilaprevir (100 mg) once daily for 15 days | 10 mg, single dose | 7.392 (6.68 to 8.18) 3 | 18.882 (16.23 to 21.96) 3 |
+| Sofosbuvir/velpatasvir/voxilaprevir (400 mg / 100 mg / 100 mg) + Voxilaprevir (100 mg) once daily for 15 days | 10 mg, single dose | 7.392 (6.68 to 8.18) 3 | 18.882 (16.23 to 21.96) 3 |
 | Cyclosporine – stable dose required (75 mg to 200 mg BID) | 10 mg, QD for 10 days | 7.12 | 112 |
 | Darolutamide 600 mg BID, 5 days | 5 mg, single dose | 5.22 | ~52 |
 | Regorafenib 160 mg QD, 14 days | 5 mg, single dose | 3.82 | 4.62 |

@@ -48,7 +48,7 @@ Table 3: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastat
 | ALT greater than 3x ULN1 | 0.7 | 2.2 |
 | 1 Frequency recorded as abnormal laboratory value. |  |  |
 
-In the JUPITER study, patients were treated with rosuvastatin 20 mg (n=8901) or placebo (n=8901) for a mean duration of 2 years.
+In the JUPITER study, patients were treated with rosuvastatin 20 mg (n=8,901) or placebo (n=8,901) for a mean duration of 2 years.
 In JUPITER, there was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
 The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Clinical Studies (14)].
@@ -57,7 +57,7 @@ Adverse reactions reported in ≥2% of patients and at a rate greater than place
 
 Table 4: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in the JUPITER Trial
 
-| Adverse Reactions | Placebo N=8901 % | Rosuvastatin 20 mg N=8901 % |
+| Adverse Reactions | Placebo N=8,901 % | Rosuvastatin 20 mg N=8,901 % |
 | --- | --- | --- |
 | Myalgia | 6.6 | 7.6 |
 | Arthralgia | 3.2 | 3.8 |
@@ -67,7 +67,7 @@ Table 4: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastat
 
 Pediatric Patients with HeFH
 
-In a 12-week controlled study in pediatric patients 10 to 17 years of age with HeFH with rosuvastatin 5 to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14)], elevations in serum CK greater than 10 x ULN were observed more frequently in rosuvastatin-treated patients compared with patients receiving placebo.
+In a 12-week controlled study in pediatric patients 10 to 17 years of age with HeFH with rosuvastatin 5 mg to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14)], elevations in serum CK greater than 10 x ULN were observed more frequently in rosuvastatin-treated patients compared with patients receiving placebo.
 Four of 130 (3%) patients treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK greater than 10 x ULN, compared to 0 of 46 patients on placebo.
 
 ## 6.2 Postmarketing Experience
