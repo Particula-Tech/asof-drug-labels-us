@@ -21,7 +21,7 @@ During treatment with RUXIENCE and chemotherapy, obtain CBC with differential an
 In patients with RA, GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RUXIENCE therapy.
 Continue to monitor for cytopenias after final dose and until resolution.
 
-- •First InfusionStandard Infusion: Initiate infusion at a rate of 50 mg/hour.
+- •First Infusion Standard Infusion: Initiate infusion at a rate of 50 mg/hour.
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hour increments every 30 minutes, to a maximum of 400 mg/hour.
 - •Subsequent Infusions Standard Infusion: Initiate infusion at a rate of 100 mg/hour.
   In the absence of infusion toxicity, increase rate by 100 mg/hour increments at 30-minute intervals, to a maximum of 400 mg/hour.

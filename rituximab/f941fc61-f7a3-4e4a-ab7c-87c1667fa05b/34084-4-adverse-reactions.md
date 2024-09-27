@@ -2,15 +2,15 @@
 
 The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- • Infusion-related reactions [see Warnings and Precautions (5.1)]
-- • Severe mucocutaneous reactions [see Warnings and Precautions (5.2)]
-- • Hepatitis B reactivation with fulminant hepatitis [see Warnings and Precautions (5.3)]
-- • Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.4)]
-- • Tumor lysis syndrome [see Warnings and Precautions (5.5)]
-- • Infections [see Warnings and Precautions (5.6)]
-- • Cardiovascular adverse reactions [see Warnings and Precautions (5.7)]
-- • Renal toxicity [see Warnings and Precautions (5.8)]
-- • Bowel obstruction and perforation [see Warnings and Precautions (5.9)]
+- •Infusion-related reactions [see Warnings and Precautions (5.1)]
+- •Severe mucocutaneous reactions [see Warnings and Precautions (5.2)]
+- •Hepatitis B reactivation with fulminant hepatitis [see Warnings and Precautions (5.3)]
+- •Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.4)]
+- •Tumor lysis syndrome [see Warnings and Precautions (5.5)]
+- •Infections [see Warnings and Precautions (5.6)]
+- •Cardiovascular adverse reactions [see Warnings and Precautions (5.7)]
+- •Renal toxicity [see Warnings and Precautions (5.8)]
+- •Bowel obstruction and perforation [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
