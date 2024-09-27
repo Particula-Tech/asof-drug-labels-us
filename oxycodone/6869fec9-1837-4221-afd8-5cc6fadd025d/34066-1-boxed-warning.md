@@ -37,4 +37,4 @@ Cytochrome P450 3A4 Interaction
 
 The concomitant use of Oxycodone Hydrochloride Oral Solution with all cytochrome P450 3A4 inhibitors may result in an increase in oxycodone plasma concentrations, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
 In addition, discontinuation of a concomitantly used cytochrome P450 3A4 inducer may result in an increase in oxycodone plasma concentration.
-Regularly evaluate patients receiving Oxycodone Hydrochloride Oral Solution and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.7), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Regularly evaluate patients receiving Oxycodone Hydrochloride Oral Solution and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.7 Drug Interactions (7), Clinical Pharmacology (12.3)].
