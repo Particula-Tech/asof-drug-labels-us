@@ -24,6 +24,10 @@ Patients should be advised that if they develop an intercurrent ocular condition
 
 Patients should be advised that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
 
-© 2012 Allergan, Inc., Irvine, CA 92612, U.S.A. ACULAR® is manufactured and distributed by Allergan, Inc. under license from its developer, Roche Palo Alto LLC, Palo Alto, CA, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
+Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-72379US10
+© 2024 AbbVie.
+All rights reserved.
+ACULAR and its design are trademarks of Allergan, Inc., an AbbVie company.
+
+20088598
