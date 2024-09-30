@@ -27,14 +27,14 @@ Constipation associated with colestipol hydrochloride tablets may aggravate hemo
 
 While there have been no reports of hypothyroidism induced in individuals with normal thyroid function, the theoretical possibility exists, particularly in patients with limited thyroid reserve.
 
-Since colestipol hydrochloride is a chloride form of an anion exchange resin, there is a possibility that prolonged use may lead to the development of hyperchloremic acidosis.
+Since colestipol hydrochloride is a chloride form of an anion exchange resin, there is a possibility that prolonged use may lead to the development of hyperchloremia acidosis.
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
 In studies conducted in rats in which cholestyramine resin (a bile acid sequestering agent similar to colestipol hydrochloride) was used as a tool to investigate the role of various intestinal factors, such as fat, bile salts, and microbial flora, in the development of intestinal tumors induced by potent carcinogens, the incidence of such tumors was observed to be greater in cholestyramine resin treated rats than in control rats.
 
 The relevance of this laboratory observation from studies in rats with cholestyramine resin to the clinical use of colestipol hydrochloride tablets is not known.
-In the LRC-CPPT study referred to above, the total incidence of fatal and non-fatal neoplasms was similar in both treatment groups.
+In the LRC-CPPT study referred to above, the total incidence of fatal and nonfatal neoplasms was similar in both treatment groups.
 When the many different categories of tumors are examined, various alimentary system cancers were somewhat more prevalent in the cholestyramine group.
 The small numbers and the multiple categories prevent conclusions from being drawn.
 Further follow-up of the LRC-CPPT participants by the sponsors of that study is planned for cause-specific mortality and cancer morbidity.
@@ -79,7 +79,7 @@ Do not take colestipol hydrochloride tablets again without your doctor's advice.
 
 If you are taking other medications, you should take them at least one hour before or four hours after taking colestipol hydrochloride tablets.
 
-## Drug Interactions
+## DRUG INTERACTIONS
 
 Since colestipol hydrochloride is an anion exchange resin, it may have a strong affinity for anions other than the bile acids.
 In vitro studies have indicated that colestipol hydrochloride binds a number of drugs.

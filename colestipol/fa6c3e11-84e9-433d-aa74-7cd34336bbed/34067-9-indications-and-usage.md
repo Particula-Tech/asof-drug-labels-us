@@ -16,7 +16,7 @@ The NCEP treatment guidelines are shown below.
 
 |  |  | LDL-Cholesterol mg/dL (mmol/L) |  |
 | --- | --- | --- | --- |
-| Definite Atheroschlerotic Disease* | Two or More Other Risk Factors† | Initiation Level | Goal |
+| Definite Atherosclerotic Disease* | Two or More Other Risk Factors† | Initiation Level | Goal |
 | No | No | ≥ 190(≥ 4.9) | < 160 (< 4.1) |
 | No | Yes | ≥ 160(≥ 4.1) | < 130 (< 3.4) |
 | Yes | Yes or No | ≥ 130(≥ 3.4) | ≤ 100 (≤ 2.6) |

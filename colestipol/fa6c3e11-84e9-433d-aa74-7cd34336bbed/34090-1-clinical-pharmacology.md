@@ -27,7 +27,7 @@ Periodic determinations of serum cholesterol levels as outlined in the National 
 
 In a large, placebo-controlled, multiclinic study, the LRC-CPPT2, hypercholesterolemic subjects treated with cholestyramine, a bile-acid sequestrant with a mechanism of action and an effect on serum cholesterol similar to that of colestipol hydrochloride, had reductions in total and LDL-C.
 Over the 7-year study period the cholestyramine group experienced a 19% reduction (relative to the incidence in the placebo group) in the combined rate of coronary heart disease (CHD) death plus nonfatal myocardial infarction (cumulative incidences of 7% cholestyramine and 8.6% placebo).
-The subjects included in the study were middle-aged men (age 35 to 59) with serum cholesterol levels above 265 mg/dL, LDL-C above 175 mg/dL on a moderate cholesterol-lowering diet, and no history of heart disease.
+The subjects included in the study were middle-aged men (aged 35 to 59) with serum cholesterol levels above 265 mg/dL, LDL-C above 175 mg/dL on a moderate cholesterol-lowering diet, and no history of heart disease.
 It is not clear to what extent these findings can be extrapolated to other segments of the hypercholesterolemic population not studied.
 
 Treatment with colestipol results in a significant increase in lipoprotein LpAI.
