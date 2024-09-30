@@ -4,59 +4,63 @@
 
 Serious infusion-related reactions including life-threatening anaphylactic reactions have occurred with SARCLISA treatment.
 Severe signs and symptoms included cardiac arrest, hypertension, hypotension, bronchospasm, dyspnea, angioedema, and swelling.
-
-Based on ICARIA-MM, infusion-related reactions occurred in 38% of patients treated with SARCLISA, pomalidomide, and dexamethasone (Isa-Pd) [see Adverse Reactions (6.1)].
-All infusion-related reactions started during the first SARCLISA infusion and resolved on the same day in 98% of the cases.
-
-In IKEMA, infusion-related reactions occurred in 46% of patients treated with SARCLISA, carfilzomib, and dexamethasone (Isa-Kd).
-In the Isa-Kd arm, the infusion-related reactions occurred on the infusion day in 99% of episodes.
-In patients treated with Isa-Kd, 95% of those experiencing an infusion-related reaction experienced it during the first cycle of treatment.
-All infusion-related reactions resolved: within the same day in 74% of episodes, and the day after in 24% of episodes [see Adverse Reactions (6.1)].
-
-The most common symptoms (≥5%) of an infusion-related reaction in ICARIA-MM and IKEMA (N=329) included dyspnea, cough, nasal congestion, and nausea.
+In clinical trials (ICARIA-MM, IKEMA, and IMROZ), in patients treated with SARCLISA (N=592), infusion-related reactions occurred in 206 patients (35%).
+Among these 206 patients, 92% experienced infusion-related reactions during the first infusion and 12% after the first cycle.
+The most common symptoms (≥5%) of an infusion-related reaction included dyspnea and cough.
+Grade 1 infusion-related reactions were reported in 6% of patients, grade 2 in 28%, and grade 3 or 4 in 1.2%.
 Anaphylactic reactions occurred in less than 1% of patients.
+The total incidence of SARCLISA infusion interruptions was less than 1% and the incidence of patients with at least one SARCLISA infusion interruption due to infusion-related reactions was 26%.
+The median time to first SARCLISA infusion interruption was 61 minutes (range 4 to 240 minutes).
+SARCLISA was discontinued in 1% of patients due to infusion-related reactions.
 
 To decrease the risk and severity of infusion-related reactions, premedicate patients prior to SARCLISA infusion with acetaminophen, H2 antagonists, diphenhydramine, or equivalent, and dexamethasone [see Dosage and Administration (2.2)].
 
 Monitor vital signs frequently during the entire SARCLISA infusion.
 For patients with grade ≥2 reactions, interrupt SARCLISA infusion and provide appropriate medical management.
 For patients with grade 2 or grade 3 reactions, if symptoms improve to grade ≤1, restart SARCLISA infusion at half of the initial infusion rate, with supportive care as needed, and closely monitor patients.
-If symptoms do not recur after 30 minutes, the infusion rate may be increased to the initial rate, and then increased incrementally, as shown in Table 2 [see Dosage and Administration (2.5)].
+If symptoms do not recur after 30 minutes, the infusion rate may be increased to the initial rate, and then increased incrementally, as shown in Table 3 [see Dosage and Administration (2.5)].
 In case symptoms do not improve to grade ≤1 after interruption of SARCLISA infusion, persist or worsen despite appropriate medications, or require hospitalization, permanently discontinue SARCLISA and institute appropriate management.
 Permanently discontinue SARCLISA if an anaphylactic reaction or life-threatening (grade 4) infusion-related reaction occurs and institute appropriate management.
 
-## 5.2 Neutropenia
+## 5.2 Infections
 
-SARCLISA may cause neutropenia.
+SARCLISA can cause severe, life-threatening, or fatal infections.
+In patients who received SARCLISA at the recommended dose in ICARIA-MM, IKEMA, and IMROZ (N=592), serious infections, including opportunistic infections, occurred in 46% of patients, grade 3 or 4 infections occurred in 43%, and fatal infections occurred in 4.7%.
+The most common type of serious infection reported was pneumonia (32%).
 
-In patients treated with Isa-Pd, neutropenia occurred in 96% of patients and grade 3–4 neutropenia occurred in 85% of patients.
-Neutropenic complications occurred in 30% of patients, including febrile neutropenia (12%) and neutropenic infections (25%), defined as infection with concurrent grade ≥3 neutropenia.
-The most frequent neutropenic infections included infections of the upper respiratory tract (10%), lower respiratory tract (9%), and urinary tract (3%) [see Adverse Reactions (6.1)].
+Monitor patients for signs and symptoms of infection prior to and during treatment with SARCLISA and treat appropriately.
+Administer prophylactic antimicrobials according to guidelines [see Dosage and Administration (2.2)].
 
-In patients treated with Isa-Kd, neutropenia occurred in 55% of patients, with grade 3–4 neutropenia in 19% of patients (grade 3 in 18% and grade 4 in 1.7%).
-Neutropenic complications occurred in 2.8% of patients, including febrile neutropenia (1.1%) and neutropenic infections (1.7%) [see Adverse Reactions (6.1)].
+## 5.3 Neutropenia
+
+SARCLISA can cause neutropenia.
+
+In clinical trials (ICARIA-MM, IKEMA, and IMROZ), in patients treated with SARCLISA (N=592), neutropenia based on laboratory values occurred in 81%, with grade 3 or 4 occurring in 52%.
+Neutropenic infections occurred in 12% of patients, with grade 3 or 4 in 4.9%, and febrile neutropenia in 4% [see Adverse Reactions (6.1)].
 
 Monitor complete blood cell counts periodically during treatment.
-Consider the use of antibacterial and antiviral prophylaxis during treatment [see Dosage and Administration (2.2)].
+If needed, use antibacterial and antiviral prophylaxis during treatment [see Dosage and Administration (2.2)].
 Monitor patients with neutropenia for signs of infection.
 In case of grade 4 neutropenia delay SARCLISA dose until neutrophil count recovery to at least 1 × 109/L, and provide supportive care with growth factors, according to institutional guidelines.
 No dose reductions of SARCLISA are recommended.
 
-## 5.3 Second Primary Malignancies
+## 5.4 Second Primary Malignancies
 
-The incidence of second primary malignancies is increased in patients treated with SARCLISA-containing regimens.
-The overall incidence of second primary malignancies in all the SARCLISA-exposed patients was 4.1%.
+The incidence of second primary malignancies, during treatment and post-treatment, is increased in patients treated with SARCLISA-containing regimens.
+In clinical trials (ICARIA-MM, IKEMA, and IMROZ), in patients treated with SARCLISA (N=592), second primary malignancies occurred in 71 patients (12%).
 
 In ICARIA-MM, at a median follow-up time of 52 months, second primary malignancies occurred in 7% of patients in the Isa-Pd arm and in 2% of patients in the Pd arm.
 
 In ongoing IKEMA study, at a median follow-up time of 21 months, second primary malignancies occurred in 7% of patients in the Isa-Kd arm and in 4.9% of patients in the Kd arm.
 
-The most common (≥1%) second primary malignancies in ICARIA-MM and IKEMA (N=329) included skin cancers (5% with SARCLISA-containing regimens and 2.6% with comparative regimens) and solid tumors other than skin cancer (3% with SARCLISA-containing regimens and 1.8% with comparative regimens).
-All patients with non-melanoma skin cancer continued treatment after resection of the skin cancer.
+In IMROZ study, at a median follow-up time of 60 months, second primary malignancies occurred in 16% of patients in the Isa-VRd arm and in 9% of patients in the VRd arm.
+
+The most common (≥1%) second primary malignancies in ICARIA-MM, IKEMA, and IMROZ (N=592) included skin cancers (7% with SARCLISA-containing regimens and 3.1% with comparative regimens) and solid tumors other than skin cancer (4.6% with SARCLISA-containing regimens and 2.9% with comparative regimens).
+Patients with non-melanoma skin cancer continued treatment after resection of the skin cancer, except 2 patients on the Isa-VRd arm and 1 patient on the VRd arm of the IMROZ study.
 
 Monitor patients for the development of second primary malignancies.
 
-## 5.4 Laboratory Test Interference
+## 5.5 Laboratory Test Interference
 
 Interference with Serological Testing (Indirect Antiglobulin Test)
 
@@ -75,11 +79,11 @@ Interference with Serum Protein Electrophoresis and Immunofixation Tests
 SARCLISA is an IgG kappa monoclonal antibody that can be incidentally detected on both serum protein electrophoresis and immunofixation assays used for the clinical monitoring of endogenous M-protein.
 This interference can impact the accuracy of the determination of complete response in some patients with IgG kappa myeloma protein [see Drug Interactions (7.1)].
 
-## 5.5 Embryo-Fetal Toxicity
+## 5.6 Embryo-Fetal Toxicity
 
 Based on the mechanism of action, SARCLISA can cause fetal harm when administered to a pregnant woman.
 SARCLISA may cause fetal immune cell depletion and decreased bone density.
 Advise pregnant women of the potential risk to a fetus.
 Advise females with reproductive potential to use an effective method of contraception during treatment with SARCLISA and for 5 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
-The combination of SARCLISA with pomalidomide is contraindicated in pregnant women because pomalidomide may cause birth defects and death of the unborn child.
-Refer to the pomalidomide prescribing information on use during pregnancy.
+The combination of SARCLISA with pomalidomide or lenalidomide is contraindicated in pregnant women because pomalidomide or lenalidomide may cause birth defects and death of the unborn child.
+Refer to the pomalidomide or lenalidomide prescribing information on use during pregnancy.

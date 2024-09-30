@@ -2,4 +2,4 @@ Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY 
 
 SARCLISA is a registered trademark of Sanofi
 
-©2022 sanofi-aventis U.S. LLC
+©2024 sanofi-aventis U.S. LLC

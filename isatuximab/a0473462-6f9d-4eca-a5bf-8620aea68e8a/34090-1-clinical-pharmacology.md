@@ -28,6 +28,8 @@ Following administration of isatuximab-irfc in combination with carfilzomib and 
 
 The median time to reach steady state of isatuximab-irfc was 18 weeks with a 3.1-fold accumulation.
 
+Following administration of isatuximab-irfc in combination with bortezomib, lenalidomide, and dexamethasone at the recommended dose and schedule, the mean (CV%) predicted Cmax and AUC of isatuximab-irfc after the dose on Week 21 were 496 µg/mL (25.6%) and 120,000 µg∙h/mL (28.9%), respectively.
+The geometric mean (CV%) of accumulation ratio between steady state AUC and AUC after the dose on Week 21 is predicted to be 1.4 (35.8%).
 Isatuximab-irfc AUC increases in a greater than dose proportional manner over a dosage range from 1 mg/kg to 20 mg/kg (0.1 to 2 times the approved recommended dosage) every 2 weeks.
 Isatuximab-irfc AUC increases proportionally over a dosage range from 5 mg/kg to 20 mg/kg (0.5 to 2 times the approved recommended dosage) every week for 4 weeks followed by every 2 weeks.
 
@@ -66,7 +68,12 @@ The effect of Black (n=18, 4%) race on the exposure of isatuximab-irfc is unknow
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of isatuximab-irfc or of other isatuximab products.
 
-In ICARIA-MM and IKEMA, no patients tested positive for antidrug antibodies (ADA).
+Overall, across 9 clinical studies in relapsed and/or refractory multiple myeloma (RRMM) with SARCLISA single-agent and combination therapies including ICARIA-MM and IKEMA (N=1023), the incidence of treatment emergent anti-drug antibodies (ADAs) was <2%.
+In ICARIA-MM and IKEMA, no patients with RRMM tested positive for ADA.
 Therefore, the neutralizing ADA status was not determined.
-Overall, across 9 clinical studies in multiple myeloma (MM) with SARCLISA single-agent and combination therapies including ICARIA-MM and IKEMA (N=1018), the incidence of treatment emergent ADAs was 1.9%.
-No clinically significant differences in the pharmacokinetics, safety, or efficacy of isatuximab-irfc were observed in patients with ADAs.
+In RRMM, no effect of ADAs was observed on the pharmacokinetics, safety, or efficacy of SARCLISA.
+
+In IMROZ, out of the 263 patients with NDMM treated with SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone, 253 were evaluable for the presence of ADA, 22 patients (8.7%) tested positive for treatment-emergent ADAs, with 21 patients considered to have a transient ADA response and 1 considered to have an indeterminate ADA response.
+Among these 22 ADA-positive patients, 13 (5.9%) had neutralizing antibodies.
+In IMROZ, a trend to lower exposure was observed in ADA-positive patients, which was considered not clinically relevant.
+In patients with ADA-positive status to SARCLISA, including those with neutralizing antibodies, no meaningful impact of ADAs on safety or efficacy of SARCLISA was observed.

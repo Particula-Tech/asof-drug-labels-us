@@ -12,9 +12,9 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, miscarriage, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-The combination of SARCLISA and pomalidomide is contraindicated in pregnant women because pomalidomide may cause birth defects and death of the unborn child.
-Refer to the pomalidomide prescribing information on use during pregnancy.
-Pomalidomide is only available through a REMS program.
+The combination of SARCLISA and pomalidomide or lenalidomide is contraindicated in pregnant women because pomalidomide and lenalidomide may cause birth defects and death of the unborn child.
+Refer to the pomalidomide or lenalidomide prescribing information on use during pregnancy.
+Pomalidomide and lenalidomide are only available through a REMS program.
 
 Clinical Considerations
 
@@ -38,8 +38,8 @@ Risk Summary
 There are no available data on the presence of isatuximab-irfc in human milk, milk production, or the effects on the breastfed child.
 Maternal immunoglobulin G is known to be present in human milk.
 The effects of local gastrointestinal exposure and limited systemic exposure in the breastfed infant to SARCLISA are unknown.
-Because of the potential for serious adverse reactions in the breastfed child from isatuximab-irfc administered in combination with pomalidomide and dexamethasone, advise lactating women not to breastfeed during treatment with SARCLISA.
-Refer to pomalidomide prescribing information for additional information.
+Because of the potential for serious adverse reactions in the breastfed child from isatuximab-irfc administered in combination with pomalidomide or lenalidomide and dexamethasone, advise lactating women not to breastfeed during treatment with SARCLISA.
+Refer to pomalidomide or lenalidomide prescribing information for additional information.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -47,18 +47,18 @@ SARCLISA can cause fetal harm when administered to a pregnant woman [see Use in 
 
 Pregnancy Testing
 
-With the combination of SARCLISA with pomalidomide, refer to the pomalidomide labeling for pregnancy testing requirements prior to initiating treatment in females of reproductive potential.
+With the combination of SARCLISA with pomalidomide or lenalidomide, refer to the pomalidomide or lenalidomide labeling for pregnancy testing requirements prior to initiating treatment in females of reproductive potential.
 
 Contraception
 
 Females
 
 Advise female patients of reproductive potential to use effective contraception during treatment and for 5 months after the last dose of SARCLISA.
-Additionally, refer to the pomalidomide labeling for contraception requirements prior to initiating treatment in females of reproductive potential.
+Additionally, refer to the pomalidomide or lenalidomide labeling for contraception requirements prior to initiating treatment in females of reproductive potential.
 
 Males
 
-Refer to the pomalidomide prescribing information.
+Refer to the pomalidomide or lenalidomide prescribing information.
 
 ## 8.4 Pediatric Use
 
@@ -66,5 +66,11 @@ Safety and effectiveness of SARCLISA in pediatric patients have not been establi
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in clinical studies of SARCLISA, 56% (586 patients) were 65 and over, while 16% (163 patients) were 75 and over.
-No overall differences in safety or effectiveness were observed between subjects 65 and over and younger subjects, and other reported clinical experience has not identified differences in responses between the adults 65 years and over and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Of the total number of patients with relapsed or refractory multiple myeloma in clinical studies of SARCLISA, 56% (n=586) were 65 years of age and older, while 16% (n=163) were 75 years of age and older [see Clinical Studies (14)].
+No overall differences in safety or effectiveness were observed between patients 65 years of age and older compared to younger patients and other reported clinical experience has not identified differences in responses between the adults 65 years of age and older and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+Of the total number of SARCLISA-treated patients with newly diagnosed multiple myeloma in IMROZ, 72% (n=319) were less than 75 years of age and 28% (n=125) were 75 years of age and older.
+The clinical trial did not enroll patients over age 80 [see Clinical Studies (14)].
+Adverse reactions occurring at a higher frequency in the SARCLISA arm (≥5%) in patients 75 years of age and older included neutropenia.
+Adverse reactions leading to dose modifications in patients 75 years of age and older occurred at a higher frequency (≥5%) in the SARCLISA arm.
+The hazard ratio for overall survival (OS) in patients 75 years of age and older was 1.25 [95% CI: 0.68 to 2.3].

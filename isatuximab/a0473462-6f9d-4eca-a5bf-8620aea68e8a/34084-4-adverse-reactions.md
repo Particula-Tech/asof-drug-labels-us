@@ -3,14 +3,15 @@
 The following clinically significant adverse reactions from SARCLISA are also described in other sections of the labeling:
 
 - Infusion-Related Reactions [see Warnings and Precautions (5.1)]
-- Neutropenia [see Warnings and Precautions (5.2)]
-- Second Primary Malignancies [see Warnings and Precautions (5.3)]
+- Infections [see Warnings and Precautions (5.2)]
+- Neutropenia [see Warnings and Precautions (5.3)]
+- Second Primary Malignancies [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Multiple Myeloma
+Relapsed and/or Refractory Multiple Myeloma
 
 Combination treatment with pomalidomide and dexamethasone (Isa-Pd)
 
@@ -31,9 +32,9 @@ The most frequent adverse reaction requiring dosage interruption was infusion-re
 
 The most common adverse reactions (≥20%) were upper respiratory tract infection, infusion-related reactions, pneumonia, and diarrhea.
 
-Table 3 summarizes the adverse reactions in ICARIA-MM.
+Table 4 summarizes the adverse reactions in ICARIA-MM.
 
-Table 3: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Pomalidomide, and Dexamethasone with a Difference Between Arms of ≥5% Compared to Control Arm in ICARIA-MM Trial
+Table 4: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Pomalidomide, and Dexamethasone with a Difference Between Arms of ≥5% Compared to Control Arm in ICARIA-MM Trial
 
 |  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,9 +55,9 @@ Table 3: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Pomalidomide
 | Vomiting | 12 | 1.3 | 0 | 3.4 | 0 | 0 |
 | CTCAE version 4.03 |  |  |  |  |  |  |
 
-Table 4 summarizes the hematology laboratory abnormalities in ICARIA-MM.
+Table 5 summarizes the hematology laboratory abnormalities in ICARIA-MM.
 
-Table 4: Hematology Laboratory Abnormalities During the Treatment Period in Patients Receiving Isa-Pd versus Pd in ICARIA-MM
+Table 5: Hematology Laboratory Abnormalities During the Treatment Period in Patients Receiving Isa-Pd versus Pd in ICARIA-MM
 
 |  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -87,9 +88,9 @@ The most frequent adverse reaction requiring dosage interruption was infusion-re
 
 The most common adverse reactions (≥20%) were upper respiratory tract infection, infusion-related reactions, fatigue, hypertension, diarrhea, pneumonia, dyspnea, insomnia, bronchitis, cough, and back pain.
 
-Table 5 summarizes the adverse reactions in IKEMA.
+Table 6 summarizes the adverse reactions in IKEMA.
 
-Table 5: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Carfilzomib, and Dexamethasone with a Difference Between Arms of ≥5% Compared to Control Arm in IKEMA
+Table 6: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Carfilzomib, and Dexamethasone with a Difference Between Arms of ≥5% Compared to Control Arm in IKEMA
 
 |  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -111,9 +112,9 @@ Table 5: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Carfilzomib,
 | Diarrhea | 36 | 2.8 | 0 | 29 | 2.5 | 0 |
 | Vomiting | 15 | 1.1 | 0 | 9 | 0.8 | 0 |
 
-Table 6 summarizes the hematology laboratory abnormalities in IKEMA.
+Table 7 summarizes the hematology laboratory abnormalities in IKEMA.
 
-Table 6: Hematology Laboratory Abnormalities During the Treatment Period in Patients Receiving Isa-Kd versus Kd in IKEMA
+Table 7: Hematology Laboratory Abnormalities During the Treatment Period in Patients Receiving Isa-Kd versus Kd in IKEMA
 
 |  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -125,40 +126,72 @@ Table 6: Hematology Laboratory Abnormalities During the Treatment Period in Pati
 | Neutrophils decreased | 55 | 18 | 1.7 | 43 | 7 | 0.8 |
 | The denominator used to calculate the percentage was based on the safety population. |  |  |  |  |  |  |
 
+Newly Diagnosed Multiple Myeloma not Eligible for Autologous Stem Cell Transplant
+
+Combination treatment with bortezomib, lenalidomide, and dexamethasone (Isa-VRd)
+
+The safety of SARCLISA was evaluated in IMROZ, a randomized, open-label clinical trial in patients with newly diagnosed multiple myeloma.
+Patients received SARCLISA 10 mg/kg intravenously on day 1, 8, 15, 22, and 29 in the first 42-day cycle, followed by every two weeks from cycle 2 to 4 (42-day cycles), followed by every two weeks from cycle 5 to 17 (28-day cycles), and then on day 1 from cycle 18 and onwards (28-day cycles), in combination with bortezomib, lenalidomide, and dexamethasone (Isa-VRd) (n=263) or bortezomib, lenalidomide, and dexamethasone (VRd) (n= 181) [see Clinical Studies (14)].
+In IMROZ, median duration of exposure to treatment was 53 (range: 0.5–69) months in patients treated with Isa-VRd and 31 (range 0.6–67) months in patients treated with VRd.
+
+Serious adverse reactions occurred in 71% of patients receiving Isa-VRd.
+The serious adverse reaction in > 5% of patients who received Isa-VRd was pneumonia (30%).
+Fatal adverse reactions occurred in 11% of patients with Isa-VRd (those occurring in more than 1% of patients were pneumonia (5%).
+
+Permanent discontinuation of treatment due to an adverse reaction occurred in 22.8% of patients treated with Isa-VRd.
+The most frequent adverse reactions requiring permanent discontinuation in patients who received Isa-VRd were infections (8%).
+SARCLISA alone was discontinued in 2.3% of patients.
+
+Dosage interruptions due to an adverse reaction occurred in 21% of patients who received SARCLISA.
+The most frequent adverse reaction requiring dosage interruption was infusion related reaction (21%).
+
+The most common adverse reactions (≥20%) were upper respiratory tract infections, diarrhea, fatigue, peripheral sensory neuropathy, pneumonia, musculoskeletal pain, cataract, constipation, peripheral edema, rash, infusion-related reaction, insomnia, and COVID-19.
+The most common hematologic laboratory abnormalities (≥80%) were decreased hemoglobin, decreased leukocytes, decreased lymphocytes, decreased platelets, and decreased neutrophils.
+
+Table 8 summarizes the adverse reactions in IMROZ.
+
+Table 8: Adverse Reactions (≥ 20%) in Patients Receiving SARCLISA, Bortezomib, Lenalidomide, and Dexamethasone in IMROZ
+
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+|  | IMROZ study |  |  |  |
+| Adverse Reactions | SARCLISA + Bortezomib + Lenalidomide + Dexamethasone (N=263) |  | Bortezomib + Lenalidomide + Dexamethasone (N=181) |  |
+| Infections and infestations |  |  |  |  |
+| Upper respiratory tract infectionIncludes other related terms | 65 | 4.6 | 57Includes 1 patient (0.6%) with fatal URTI. | 6 |
+| PneumoniaPneumonia includes Atypical pneumonia, Bronchopulmonary aspergillosis, COVID-19 pneumonia, Lower respiratory tract infection, Pneumocystis jirovecii pneumonia, Pneumonia, Pneumonia aspiration, Pneumonia bacterial, Pneumonia influenzal, Pneumonia klebsiella, Pneumonia legionella, Pneumonia parainfluenzae viral, Pneumonia pneumococcal, Pneumonia pseudomonal, Pneumonia respiratory syncytial viral, Pneumonia viral, Pulmonary sepsis. | 45Includes 14 patients (5%) with fatal pneumonia. | 26 | 31Includes 4 patients (2.2%) with fatal pneumonia. | 19 |
+| COVID-19COVID-19 includes COVID-19 infections other than COVID-19 pneumonia. | 22 | 0.8 | 17 Includes 2 patients (1.1%) with fatal COVID-19. | 1.7 |
+| General disorders and administration site conditions |  |  |  |  |
+| FatigueFatigue includes Fatigue, Asthenia, or Malaise. | 55 | 11 | 50 | 9 |
+| Edema peripheral | 33 | 0 | 33 | 1.1 |
+| Infusion-related reaction | 24 | 0.4 | 1.1 | 0 |
+| Gastrointestinal disorders |  |  |  |  |
+| Diarrhea | 55 | 8 | 49 | 8 |
+| Constipation | 36 | 2.3 | 41 | 1.7 |
+| Nervous system disorders |  |  |  |  |
+| Peripheral sensory neuropathy | 54 | 7 | 61 | 6 |
+| Eye disorders |  |  |  |  |
+| Cataract | 38 | 16 | 25 | 11 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal pain | 38 | 4.2 | 33 | 3.3 |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| RashRash includes Dermatitis, Dermatitis acneiform, Dermatitis allergic, Dermatitis atopic, Dermatitis exfoliative generalized, Drug eruption, Rash, Rash erythematous, Rash macular, Rash maculo-papular, Rash pruritic, Rash pustular, Skin exfoliation, Skin hyperpigmentation, Skin lesion, Skin reaction, and Toxic skin eruption. | 32 | 5 | 34 | 5 |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 22 | 3.8 | 24 | 2.2 |
+
+Table 9 summarizes the hematology laboratory abnormalities in IMROZ.
+
+Table 9: Hematology Laboratory Abnormalities During the Treatment Period in Patients Receiving Isa-VRd Versus VRd in IMROZ
+
+| All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory parameter | SARCLISA + Bortezomib + Lenalidomide + DexamethasoneThe denominator used to calculate the rate is based on the number of patients with a baseline value and at least one post-baseline value. |  | Bortezomib + Lenalidomide + Dexamethasone |  |
+| Decreased hemoglobin | 99 | 17 | 98 | 16 |
+| Decreased leukocytes | 97 | 32 | 88 | 17 |
+| Decreased lymphocytes | 95 | 60 | 92 | 53 |
+| Decreased platelets | 95 | 30 | 85 | 28 |
+| Decreased neutrophils | 87 | 54 | 80 | 37 |
+
 Description of Selected Adverse Reactions
-
-Infusion-related reactions
-
-In ICARIA-MM, infusion-related reactions (defined as adverse reactions associated with the SARCLISA infusions, with an onset typically within 24 hours from the start of the infusion) were reported in 58 patients (38%) treated with SARCLISA.
-All patients who experienced infusion-related reactions experienced them during the 1st infusion of SARCLISA, with 3 patients (2%) also having infusion-related reactions at their 2nd infusion, and 2 patients (1.3%) at their 4th infusion.
-Grade 1 infusion-related reactions were reported in 3.9%, grade 2 in 32%, grade 3 in 1.3%, and grade 4 in 1.3% of the patients.
-Signs and symptoms of grade 3 or 4 infusion-related reactions included dyspnea, hypertension, and bronchospasm.
-The incidence of infusion interruptions because of infusion-related reactions was 30%.
-The median time to infusion interruption was 55 minutes.
-SARCLISA was discontinued in 2.6% of patients due to infusion-related reactions.
-
-In IKEMA, infusion-related reactions were reported in 81 patients (46%) treated with Isa-Kd.
-Grade 1 infusion-related reactions were reported in 14%, grade 2 in 32%, and grade 3 in 0.6% of the patients treated with Isa-Kd.
-Signs and symptoms of grade 3 infusion-related reactions included dyspnea and hypertension.
-SARCLISA was discontinued in 0.6% of patients due to infusion-related reactions [see Warnings and Precautions (5.1)].
-
-In a separate study (TCD14079 Part B) with SARCLISA 10 mg/kg administered from a 250 mL fixed-volume infusion in combination with Pd, infusion-related reactions (all grade 2) were reported in 40% of patients, at the first administration, the day of the infusion.
-Overall, the infusion-related reactions of SARCLISA 10 mg/kg administered as a 250 mL fixed-volume infusion were similar to that of SARCLISA as administered in ICARIA-MM.
-
-Infections
-
-In ICARIA-MM, the incidence of grade 3 or higher infections was 43% in the Isa-Pd group.
-Pneumonia was the most common severe infection with grade 3 reported in 22% of patients in the Isa-Pd group compared to 16% in the Pd group, and grade 4 in 3.3% of patients in the Isa-Pd group compared to 2.7% in the Pd group.
-Discontinuations from treatment due to infection were reported in 2.6% of patients in the Isa-Pd group compared to 5% in the Pd group.
-Fatal infections occurred in 3.3% of patients in the Isa-Pd group and in 4% in the Pd group.
-
-In IKEMA, the incidence of grade 3 or higher infections was 38% in the Isa-Kd group.
-Pneumonia was the most common severe infection with grade 3 in 19% of patients in the Isa-Kd group compared to 15% in the Kd group, and grade 4 in 3.4% of patients in the Isa-Kd group compared to 2.5% in the Kd group.
-Treatment was discontinued due to infection in 2.8% of patients in the Isa-Kd group compared to 4.9% in the Kd group.
-Fatal infections occurred in 2.3% of patients in the Isa-Kd group and 0.8% in the Kd group.
-
-In relapsed and refractory multiple myeloma clinical trials, herpes zoster was reported in 2% of patients.
-In ICARIA-MM, the incidence of herpes zoster was 4.6% in the Isa-Pd group compared to 0.7% in the Pd group, and, in IKEMA, incidence was 2.3% in the Isa-Kd group compared to 1.6% in the Kd group.
 
 Cardiac failure
 
