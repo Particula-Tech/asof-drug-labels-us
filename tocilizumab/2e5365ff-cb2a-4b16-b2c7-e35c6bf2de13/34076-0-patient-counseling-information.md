@@ -10,7 +10,7 @@ Instruct the patient of the importance of contacting their doctor immediately wh
 Gastrointestinal Perforation
 
 Inform patients that some patients who have been treated with ACTEMRA have had serious side effects in the stomach and intestines [see Warnings and Precautions (5.2)].
-Instruct the patient of the importance of contacting their doctor immediately when symptoms of severe, persistent abdominal pain appear to assure rapid evaluation and appropriate treatment.
+Instruct the patient of the importance of contacting their doctor immediately when symptoms of fever, severe, persistent abdominal pain, and change in bowel habits appear to assure rapid evaluation and appropriate treatment.
 
 Hypersensitivity and Serious Allergic Reactions
 
@@ -30,10 +30,6 @@ Advise patients to consult their healthcare provider if the full dose is not rec
 
 A puncture-resistant container for disposal of needles, syringes and autoinjectors should be used and should be kept out of the reach of children.
 Instruct patients or caregivers in the technique as well as proper needle, syringe and autoinjector disposal, and caution against reuse of these items.
-
-Pregnancy Exposure Registry
-
-Inform patients that there is a pregnancy registry to monitor fetal outcomes of pregnant women exposed to ACTEMRA [see Use in Specific Populations (8.1)].
 
 Pregnancy
 

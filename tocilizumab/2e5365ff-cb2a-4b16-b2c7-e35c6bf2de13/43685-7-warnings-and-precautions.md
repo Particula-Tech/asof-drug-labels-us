@@ -50,7 +50,7 @@ No cases of Hepatitis B reactivation were observed in the trials; however patien
 
 Events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in patients treated with ACTEMRA.
 Use ACTEMRA with caution in patients who may be at increased risk for gastrointestinal perforation.
-Promptly evaluate patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
+Promptly evaluate patients presenting with fever, new onset abdominal symptoms, and a change in bowel habits for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.3 Hepatotoxicity
 

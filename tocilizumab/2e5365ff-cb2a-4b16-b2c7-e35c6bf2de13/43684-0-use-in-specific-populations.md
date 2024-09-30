@@ -2,14 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ACTEMRA during pregnancy.
-Healthcare providers are encouraged to register patients and pregnant women are encouraged to register themselves by calling 1-877-311-8972.
-
 Risk Summary
 
-The limited available data with ACTEMRA in pregnant women are not sufficient to determine whether there is a drug-associated risk for major birth defects and miscarriage.
+The available data with ACTEMRA from a pregnancy exposure registry, retrospective cohort study, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for cofounders.
 Monoclonal antibodies, such as tocilizumab, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of tocilizumab to Cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at doses 1.25 times and higher than the maximum recommended human dose by the intravenous route of 8 mg per kg every 2 to 4 weeks.
 The literature in animals suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition [see Data].
@@ -25,6 +21,11 @@ Fetal/Neonatal adverse reactions
 
 Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
 Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions 5.9)].
+
+Disease-associated Maternal Risk
+
+Published data suggest that the risk of adverse pregnancy outcomes in women with rheumatoid arthritis is associated with increased disease activity.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
 
 Data
 
@@ -104,7 +105,7 @@ No overall differences in effectiveness of ACTEMRA were observed between patient
 
 ## 8.6 Hepatic Impairment
 
-The safety and efficacy of ACTEMRA have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions 5.8)].
+The safety and efficacy of ACTEMRA have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions (5.8)].
 
 ## 8.7 Renal Impairment
 
