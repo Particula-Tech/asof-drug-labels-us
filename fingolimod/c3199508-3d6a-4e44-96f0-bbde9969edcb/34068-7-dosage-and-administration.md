@@ -6,6 +6,10 @@ Cardiac Evaluation Obtain a cardiac evaluation in patients with certain preexist
 Prior to starting treatment, determine whether patients are taking drugs that could slow heart rate or atrioventricular (AV) conduction [see Dosage and Administration (2.4), Drug Interactions (7.5)].
 Complete Blood Count (CBC) Review results of a recent CBC [see Warnings and Precautions (5.2), Drug Interactions (7.6)].
 Serum Transaminases (ALT and AST) and Total Bilirubin Levels Prior to starting treatment with fingolimod capsules (i.e., within 6 months), obtain serum transaminases [alanine transaminase (ALT) and aspartate transferase (AST)] and total bilirubin levels [see Warnings and Precautions (5.5)].
+
+Ophthalmic Assessment Obtain a baseline evaluationof the fundus, including the macula, near the start of the treatment with fingolimod capsules [see Warnings and Precautions (5.4)].
+Skin Examination Obtain a baseline skin examination priortoor shortly after initiation of fingolimod capsules.
+If a suspicious skin lesion is observed, it should be promptly evaluated [see Warnings and Precautions (5.12)].
 Prior Medications If patients are taking antineoplastic, immunosuppressive, or immune-modulating therapies, or if there is a history of prior use of these drugs, consider possible unintended additive immunosuppressive effects before initiating treatment with fingolimod capsules [see Warnings and Precautions (5.2), Drug Interactions (7.4)].
 Vaccinations Test patients for antibodies to varicella zoster virus (VZV) before initiating fingolimod capsules; VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with fingolimod capsules [see Warnings and Precautions (5.2)].
 It is recommended that pediatric patients if possible, complete all immunizations in accordance with current immunization guidelines prior to initiating fingolimod capsules therapy.
@@ -19,6 +23,8 @@ Fingolimod capsules can be taken with or without food.
 ## 2.3 Recommended Dosage
 
 In adults and pediatric patients 10 years of age and older weighing more than 40 kg, the recommended dosage of fingolimod capsule is 0.5 mg orally once-daily.
+
+In pediatric patients 10 years of age and older weighing less than or equal to 40 kg, the recommended dosage of fingolimod capsule is 0.25 mg orally once daily.
 Fingolimod doses higher than 0.5 mg are associated with a greater incidence of adverse reactions without additional benefit.
 
 ## 2.4 First-Dose Monitoring

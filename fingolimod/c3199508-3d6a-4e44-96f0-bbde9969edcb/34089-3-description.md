@@ -12,4 +12,4 @@ Fingolimod is provided as 0.5 mg hard gelatin capsules for oral use.
 
 Each 0.5 mg capsule contains 0.56 mg of fingolimod hydrochloride USP, equivalent to 0.5 mg of fingolimod.
 
-Each fingolimod 0.5 mg capsule contains the following inactive ingredients: black iron oxide, FD & C Blue # 2 Aluminum Lake, gelatin, iron oxide yellow, magnesium stearate, potassium hydroxide, powdered cellulose, propylene glycol, shellac, sodium lauryl sulfate and titanium dioxide.
+Each fingolimod 0.5 mg capsule contains the following inactive ingredients: black iron oxide, FD&C blue # 2 aluminum lake, gelatin, iron oxide yellow, magnesium stearate, potassium hydroxide, powdered cellulose, propylene glycol, shellac, sodium lauryl sulfate and titanium dioxide.

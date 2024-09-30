@@ -41,7 +41,7 @@ Patients with active acute or chronic infections should not start treatment unti
 In MS placebo-controlled trials in adult patients, the overall rate of infections (72%) with fingolimod was similar to placebo.
 However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in fingolimod-treated patients.
 Serious infections occurred at a rate of 2.3% in the fingolimod group versus 1.6% in the placebo group.
-In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus [JCV], herpes simplex viruses 1 and 2, varicella zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with fingolimod.
+In the postmarketing setting, serious infections with opportunistic pathogens, including viruses (e.g., John Cunningham virus [JCV], herpes simplex viruses 1 and 2, varicella zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with fingolimod.
 Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and appropriate treatment.
 Herpes Viral Infections In placebo-controlled trials in adult patients, the rate of herpetic infections was 9% in patients receiving fingolimod 0.5 mg and 7% on placebo.
 Two patients died of herpetic infections during controlled trials.
@@ -67,30 +67,30 @@ Cancer screening, including Papanicolaou (Pap) test, is recommended as per stand
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 
 Cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients with MS who received fingolimod in the postmarketing setting.
-PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
+PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads todeath or severe disability.
 PML has occurred in patients who had not been treated previously with natalizumab, which has a known association with PML, were not taking any other immunosuppressive or immunomodulatory medications concomitantly, and did not have any ongoing systemic medical conditions resulting in compromised immune system function.
-The majority of cases have occurred in patients treated with fingolimod for at least 2 years.
-The relationship between the risk of PML and the duration of treatment is unknown.
+Longer treatment duration increases the risk of PML in fingolimod-treated patients; the majority of cases have occurred in patients treated with fingolimod for at least 18 months.
 At the first sign or symptom suggestive of PML, withhold fingolimod and perform an appropriate diagnostic evaluation.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
-Magnetic reasonace imaging (MRI) findings may be apparent before clinical signs or symptoms.
+Magnetic resonance imaging (MRI) findings may be apparent before clinical signs or symptoms.
 Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with MS medications associated with PML, including fingolimod.
 Many of these patients subsequently became symptomatic with PML.
 Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
 Lower PML-related mortality and morbidity have been reported following discontinuation of another MS medication associated with PML in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
 It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
 
-IfPML isconfirmed, treatment with fingolimod should be discontinued.
+If PML is confirmed, treatment with fingolimod should be discontinued.
 
-Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with S1P receptor modulators, including fingolimod, whodeveloped PML and subsequently discontinued treatment.
+Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with S1P receptor modulators, including fingolimod, who developed PML and subsequently discontinued treatment.
 IRIS presents as a clinical decline in the patient’s condition that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes on MRI.
 The time to onset of IRIS in patients with PML was generally within a few months after S1P receptor modulator discontinuation.
 Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
 ## 5.4 Macular Edema
 
-Fingolimod increases the risk of macular edema.
-Perform an examination of the fundus, including the macula in all patients before starting treatment, again 3 to 4 months after starting treatment, and again at any time after a patient reports visual disturbances while on fingolimod therapy.
+S1P receptor modulators, including fingolimod, have been associated with an increased risk of macular edema.
+Obtain a baseline evaluation of the fundus, including the macula, near thestart of treatment with fingolimod.
+Perform an examination of the fundus, including the macula, 3 to 4 months after starting treatment, periodically while on therapy, and any time there is a change in vision.
 A dose-dependent increase in the risk of macular edema occurred in the fingolimod clinical development program.
 
 In 2-year double-blind, placebo-controlled studies in adult patients with multiple sclerosis, macular edema with or without visual symptoms occurred in 1.5% of patients (11/799) treated with fingolimod 1.25 mg, 0.5% of patients (4/783) treated with fingolimod 0.5 mg, and 0.4% of patients (3/773) treated with placebo.
@@ -102,13 +102,12 @@ Macular edema generally partially or completely resolved with or without treatme
 Some patients had residual visual acuity loss even after resolution of macular edema.
 Macular edema has also been reported in patients taking fingolimod in the postmarketing setting, usually within the first 6 months of treatment.
 Continuation of fingolimod in patients who develop macular edema has not been evaluated.
-A decision on whether or not to discontinue fingolimod therapy should include an assessment of the potential benefits and risks for the individual patient.
+Macular edema over an extended period of time (i.e., 6 months) can leadto permanent visual loss.
+Consider discontinuing fingolimod if macular edema develops; this decision should include an assessment of the potential benefits and risks for the individual patient.
 The risk of recurrence after rechallenge has not been evaluated.
-Macular Edema in Patients with History of Uveitis or Diabetes Mellitus Patients with a history of uveitis and patients with diabetes mellitus are at increased risk of macular edema during fingolimod therapy.
-The incidence of macular edema is also increased in MS patients with a history of uveitis.
-In the combined clinical trial experience in adult patients with all doses of fingolimod, the rate of macular edema was approximately 20% in MS patients with a history of uveitis versus 0.6% in those without a history of uveitis.
+Macular Edema in Patients with History of Uveitis or Diabetes Mellitus Patients with a historyofuveitis and patients with diabetes mellitus are at increased risk of macular edema during fingolimod therapy.
+In the combined clinical trial experience in adult patients with all doses of fingolimod, the rate of macular edema was higher in MS patients with a history of uveitis compared to those without a history of uveitis (approximately 20% versus 0.6%, respectively).
 Fingolimod has not been tested in MS patients with diabetes mellitus.
-In addition to the examination of the fundus, including the macula prior to treatment and at 3 to 4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
 
 ## 5.5 Liver Injury
 
@@ -180,13 +179,14 @@ Blood pressure (BP) should be monitored during treatment with fingolimod.
 
 ## 5.12 Malignancies
 
-Cutaneous Malignancies The risk of basal cell carcinoma (BCC) and melanoma is increased in patients treated with fingolimod.
+Cutaneous Malignancies The risk of cutaneous malignancies (including basal cell carcinoma (BCC), squamous cell carcinoma (SCC) and melanoma) is increased in patients treated with S1P receptor modulators.Use of fingolimod has been associated with an increased risk of BCC and melanoma.
 In two-year placebo-controlled trials in adult patients, the incidence of BCC was 2% in patients on fingolimod 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
-Melanoma, squamous cell carcinoma and Merkel cell carcinoma have been reported with fingolimod in the postmarketing setting.
-Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+Melanoma, basalcell carcinoma, squamous cell carcinoma, Kaposi’s sarcoma [see Warnings and Precautions (5.2)], and Merkel cell carcinoma have been reported with fingolimod in the postmarketing setting.
+Skin examinations are recommended prior to or shortly after the start of treatment and periodically thereafter for all patients, particularly those with risk factors for skin cancer.
 Providers and patients are advised to monitor for suspicious skin lesions.
 If a suspicious skin lesion is observed, it should be promptly evaluated.
-As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+As usual for patientswith increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+Concomitant phototherapy with UV-B radiation or PUVA photochemotherapy is not recommended in patients taking fingolimod.
 Lymphoma Cases of lymphoma, including both T-cell and B-cell types and CNS lymphoma, have occurred in patients receiving fingolimod.
 The reporting rate of non-Hodgkin lymphoma with fingolimod is greater than that expected in the general population adjusted by age, gender, and region.
 Cutaneous T-cell lymphoma (including mycosis fungoides) has also been reported with fingolimod in the postmarketing setting.

@@ -9,7 +9,7 @@ Neurological evaluations were performed at screening, every 3 months and at time
 MRI evaluations were performed at screening, Month 6, Month 12, and Month 24.
 The primary endpoint was the annualized relapse rate.
 Median age was 37 years, median disease duration was 6.7 years and median EDSS score at baseline was 2.0.
-Patients were randomized to receive fingolimod 0.5 mg (N=425), 1.25 mg (N=429), or placebo (N=418) for up to 24 months.
+Patients were randomized to receive fingolimod 0.5 mg (N = 425), 1.25 mg (N = 429), or placebo (N = 418) for up to 24 months.
 Median time on study drug was 717 days on 0.5 mg, 715 days on 1.25 mg, and 719 days on placebo.
 The annualized relapse rate was significantly lower in patients treated with fingolimod than in patients who received placebo.
 The secondary endpoint was the time to 3-month confirmed disability progression as measured by at least a 1-point increase from baseline in EDSS (0.5-point increase for patients with baseline EDSS of 5.5) sustained for 3 months.
@@ -19,16 +19,16 @@ The results for this study are shown in Table 2 and Figure 1.
 
 Table 2: Clinical and MRI Results of Study 1
 
-|  | Fingolimod 0.5 mg N=425 | Placebo N=418 | p-value |
+|  | Fingolimod 0.5 mg N = 425 | Placebo N = 418 | p-value |
 | --- | --- | --- | --- |
 | Clinical endpoints |  |  |  |
-| Annualized relapse rate (primary endpoint) | 0.18 | 0.40 | <0.001 |
-| Percentage of patients without relapse | 70% | 46% | <0.001 |
+| Annualized relapse rate (primary endpoint) | 0.18 | 0.40 | < 0.001 |
+| Percentage of patients without relapse | 70% | 46% | < 0.001 |
 | Hazard ratio ‡of disability progression | 0.70 |  | 0.02 |
 | (95% CI) | (0.52, 0.96) |  |  |
 | MRI endpoint |  |  |  |
-| Mean (median) number of new or newly enlarging T2 lesions over 24 months | 2.5 (0) | 9.8 (5.0) | <0.001 |
-| Mean (median) number of T1 Gd-enhancing lesions at Month 24 | 0.2 (0) | 1.1 (0) | <0.001 |
+| Mean (median) number of new or newly enlarging T2 lesions over 24 months | 2.5 (0) | 9.8 (5.0) | < 0.001 |
+| Mean (median) number of T1 Gd-enhancing lesions at Month 24 | 0.2 (0) | 1.1 (0) | < 0.001 |
 
 Abbreviation: CI, confidence interval.
 
@@ -42,7 +42,7 @@ Neurological evaluations were performed at screening, every 3 months, and at the
 MRI evaluations were performed at screening and at Month 12.
 The primary endpoint was the annualized relapse rate.
 Median age was 36 years, median disease duration was 5.9 years, and median EDSS score at baseline was 2.0.
-Patients were randomized to receive fingolimod 0.5 mg (N=431), 1.25 mg (N=426), or interferon beta-1a, 30 mcg via the intramuscular route (IM) once-weekly (N=435) for up to 12 months.
+Patients were randomized to receive fingolimod 0.5 mg (N = 431), 1.25 mg (N = 426), or interferon beta-1a, 30 mcg via the intramuscular route (IM) once-weekly (N = 435) for up to 12 months.
 Median time on study drug was 365 days on fingolimod 0.5 mg, 354 days on 1.25 mg, and 361 days on interferon beta-1a IM.
 The annualized relapse rate was significantly lower in patients treated with fingolimod 0.5 mg than in patients who received interferon beta-1a IM.
 The key secondary endpoints were number of new and newly enlarging T2 lesions and time to onset of 3-month confirmed disability progression as measured by at least a 1-point increase from baseline in EDSS (0.5-point increase for those with baseline EDSS of 5.5) sustained for 3 months.
@@ -52,16 +52,16 @@ The 1.25 mg dose resulted in no additional benefit over the fingolimod 0.5 mg do
 The results for this study are shown in Table 3.
 Table 3: Clinical and MRI Results of Study 2
 
-|  | Fingolimod 0.5 mg N=429 | Interferon beta-1a IM 30 mcg N=431 | p-value |
+|  | Fingolimod 0.5 mg N = 429 | Interferon beta-1a IM 30 mcg N = 431 | p-value |
 | --- | --- | --- | --- |
 | Clinical endpoints |  |  |  |
-| Annualized relapse rate (primary endpoint) | 0.16 | 0.33 | <0.001 |
-| Percentage of patients without relapse | 83% | 70% | <0.001 |
+| Annualized relapse rate (primary endpoint) | 0.16 | 0.33 | < 0.001 |
+| Percentage of patients without relapse | 83% | 70% | < 0.001 |
 | Hazard ratio ‡of disability progression | 0.71 |  | 0.21 |
 | (95% CI) | (0.42, 1.21) |  |  |
 | MRI endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 12 months | 1.6 (0) | 2.6 (1.0) | 0.002 |
-| Mean (median) number of T1 Gd- enhancing lesions at Month 12 | 0.2 (0) | 0.5 (0) | <0.001 |
+| Mean (median) number of T1 Gd- enhancing lesions at Month 12 | 0.2 (0) | 0.5 (0) | < 0.001 |
 
 Abbreviation: CI, confidence interval.
 
@@ -70,11 +70,11 @@ MRI analysis used evaluable dataset.
 
 ‡Hazard ratio is an estimate of the relative risk of having the event of disability progression on fingolimod as compared to control.
 
-Pooled results of study 1 and study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
+Pooled results of Study 1 and Study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
 
 ## 14.2 Pediatric Patients (10 to less than 18 Years of Age)
 
-Study 4 (NCT 01892722) evaluated the efficacy of once-daily oral doses of fingolimod 0.5 mg in pediatric patients 10 to less than 18 years of age with relapsing-remitting multiple sclerosis.
+Study 4 (NCT 01892722) evaluated the efficacy of once-daily oral doses of fingolimod 0.25 mg or fingolimod 0.5 mg in pediatric patients 10 to less than 18 years of age with relapsing-remitting multiple sclerosis.
 Study 4 was a 215-patient, double-blind, randomized, clinical trial that compared fingolimod to intramuscular interferon beta-1a.
 Prior therapy with interferon-beta, dimethyl fumarate, or glatiramer acetate up to the time of randomization was permitted.
 The study included patients who had experienced at least 1 clinical relapse during the year prior or 2 relapses during the 2 years prior to screening, or evidence of 1 or more Gd-enhancing lesions on MRI within 6 months prior to randomization, and had an EDSS score from 0 to 5.5.
@@ -91,7 +91,7 @@ The annualized rate of the number of new or newly enlarged T2 lesions up to Mont
 Table 4 summarizes the results of Study 4.
 Table 4: Clinical and MRI Results of Study 4
 
-|  | Fingolimod 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative reduction |
+|  | Fingolimod 0.25 mg or 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative reduction |
 | --- | --- | --- | --- | --- |
 | Clinical endpoints |  |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.122 | 0.675 | < 0.001* | 81.9% |

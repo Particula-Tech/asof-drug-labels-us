@@ -64,10 +64,10 @@ Specific Populations Pediatric Patients The median fingolimod-phosphate (fingoli
 Geriatric Patients The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in elderly patients.
 However, clinical experience in patients aged above 65 years is limited.
 Gender Gender has no clinically significant influence on fingolimod and fingolimod-phosphate pharmacokinetics.
-Race The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of non-white patients in the clinical program.
+Race The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of patients who self-identified as Black or African American, Asian, or other races in the clinical program.
 Renal Impairment In adult patients with severe renal impairment, fingolimod C maxand AUC are increased by 32% and 43%, respectively, and fingolimod-phosphate C maxand AUC are increased by 25% and 14%, respectively, with no change in apparent elimination half-life.
 Based on these findings, the fingolimod 0.5 mg dose is appropriate for use in adult patients with renal impairment.
-Fingolimod 0.5 mg are appropriate for use in pediatric patients with renal impairment.
+Fingolimod 0.25 mg and 0.5 mg are appropriate for use in pediatric patients with renal impairment.
 The systemic exposure of 2 metabolites (M2 and M3) is increased by 3- and 13-fold, respectively.
 The toxicity of these metabolites has not been fully characterized.
 A study in patients with mild or moderate renal impairment has not been conducted.
