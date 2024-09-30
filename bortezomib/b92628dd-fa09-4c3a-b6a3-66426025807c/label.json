@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212782"
+  ],
+  "inn": "bortezomib",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-2484-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bortezomib",
+      "name": "BORUZU"
+    }
+  ],
+  "setid": "b92628dd-fa09-4c3a-b6a3-66426025807c",
+  "source": "dailymed"
+}
