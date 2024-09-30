@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022186"
+  ],
+  "inn": "fluorescein",
+  "labeler": "Long Grove Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "81298-8660-1",
+    "81298-8660-3"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fluorescein",
+      "name": "AK-FLUOR"
+    }
+  ],
+  "setid": "73511e79-c050-4dc0-aa2f-a79ed320b5b0",
+  "source": "dailymed"
+}
