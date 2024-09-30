@@ -69,4 +69,4 @@ Zagreb, Croatia
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-E 12/2023
+F 9/2024
