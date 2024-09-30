@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-Primary Prevention of Cardiovascular Disease
+Primary Prevention of CV Disease
 
-In the Justification for the Use of Statins in Primary Prevention: An Intervention Trial Evaluating Rosuvastatin (JUPITER) study, the effect of rosuvastatin on the occurrence of major cardiovascular (CV) disease events was assessed in 17,802 men (≥50 years) and women (≥60 years) who had no clinically evident cardiovascular disease, LDL-C levels <130 mg/dL and hsCRP levels ≥2 mg/L.
+In the Justification for the Use of Statins in Primary Prevention: An Intervention Trial Evaluating Rosuvastatin (JUPITER) study, the effect of rosuvastatin on the occurrence of major CV disease events was assessed in 17,802 males (≥50 years) and females (≥60 years) who had no clinically evident CV disease, LDL-C levels <130 mg/dL and hsCRP levels ≥2 mg/L.
 The study population had an estimated baseline coronary heart disease risk of 11.6% over 10 years based on the Framingham risk criteria and included a high percentage of patients with additional risk factors such as hypertension (58%), low HDL-C levels (23%), cigarette smoking (16%), or a family history of premature CHD (12%).
 Patients had a median baseline LDL-C of 108 mg/dL and hsCRP of 4.3 mg/L.
 Patients were randomly assigned to placebo (n=8901) or rosuvastatin 20 mg once daily (n=8901) and were followed for a mean duration of 2 years.
@@ -14,11 +14,11 @@ Rosuvastatin significantly reduced the risk of major CV events (252 events in th
 The risk reduction for the primary end point was consistent across the following predefined subgroups: age, sex, race, smoking status, family history of premature CHD, body mass index, LDL-C, HDL-C, and hsCRP levels.
 
 Figure 1.
-Time to First Occurrence of Major Cardiovascular Events in JUPITER
+Time to First Occurrence of Major CV Events in JUPITER
 
 The individual components of the primary end point are presented in Figure 3.
 Rosuvastatin significantly reduced the risk of nonfatal myocardial infarction, nonfatal stroke, and arterial revascularization procedures.
-There were no significant treatment differences between the rosuvastatin and placebo groups for death due to cardiovascular causes or hospitalizations for unstable angina.
+There were no significant treatment differences between the rosuvastatin and placebo groups for death due to CV causes or hospitalizations for unstable angina.
 
 Rosuvastatin significantly reduced the risk of myocardial infarction (6 fatal events and 62 nonfatal events in placebo-treated subjects vs. 9 fatal events and 22 nonfatal events in rosuvastatin-treated subjects) and the risk of stroke (6 fatal events and 58 nonfatal events in placebo-treated subjects vs. 3 fatal events and 30 nonfatal events in rosuvastatin-treated subjects).
 
@@ -35,7 +35,7 @@ Rosuvastatin reduces Total-C, LDL-C, ApoB, non-HDL-C, and TG, and increases HDL-
 
 In a multicenter, double-blind, placebo-controlled study in patients with hyperlipidemia, rosuvastatin given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total-C, LDL-C, non-HDL-C, and ApoB, across the dose range (Table 10).
 
-Table 10: Lipid-modifying Effect of Rosuvastatin in Adult Patients with Hyperlipidemia (Adjusted Mean % Change from Baseline at Week 6)
+Table 10: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Hyperlipidemia (Adjusted Mean % Change from Baseline at Week 6)
 
 | Dose | N | Total-C | LDL-C | Non-HDL-C | ApoB | TG | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ Table 10: Lipid-modifying Effect of Rosuvastatin in Adult Patients with Hyperlip
 | Rosuvastatin 40 mg | 18 | -46 | -63 | -60 | -54 | -28 | 10 |
 
 Rosuvastatin was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose-ranging study of 2,240 patients with hyperlipidemia or mixed dyslipidemia.
-After randomization, patients were treated for 6 weeks with a single daily dose of either rosuvastatin, atorvastatin, simvastatin, or pravastatin (Figure 3 and Table 11).
+After randomization, patients were treated for 6 weeks with a single daily dose of either rosuvastatin, atorvastatin, simvastatin, or pravastatin (see Figure 3 and Table 11).
 
 Figure 3.
 Percent LDL-C Change by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia
@@ -64,12 +64,9 @@ Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvast
 | Simvastatin | -28 | -35 | -39 | -46 |
 | Pravastatin | -20 | -24 | -30 | --‑ |
 
-1. 1Corresponding standard errors are approximately 1
-2. 2Rosuvastatin 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg.
-   (p<0.002)
-3. 3Rosuvastatin 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg.
-   (p<0.002)
-4. 4Rosuvastatin 40 mg reduced LDL-C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg.
+- 1 Corresponding standard errors are approximately 1
+
+1. 2 Rosuvastatin 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg.
    (p<0.002)
 
 Slowing of the Progression of Atherosclerosis
@@ -88,7 +85,7 @@ HeFH in Adults
 
 In a study of adult patients with HeFH (baseline mean LDL of 291 mg/dL), patients were randomized to rosuvastatin 20 mg or atorvastatin 20 mg.
 The dose was increased at 6-week intervals.
-Significant LDL-C reductions from baseline were seen at each dose in both treatment groups (Table 12).
+Significant LDL-C reductions from baseline were seen at each dose in both treatment groups (see Table 12).
 
 Table 12: LDL-C Percent Change from Baseline
 
@@ -98,20 +95,20 @@ Table 12: LDL-C Percent Change from Baseline
 | Week 12 | 40 mg | -55% (-57%, -54%) | -47% (-49%, -45%) |
 | Week 18 | 80 mg | NA | -52% (-54%, -50%) |
 
-1. 1 LS Means are least square means adjusted for baseline LDL-C
+- 1 LS Means are least square means adjusted for baseline LDL-C
 
 HeFH in Pediatric Patients
 
-In a double-blind, randomized, multicenter, placebo-controlled, 12-week study, 176 (97 male and 79 female) children and adolescents with heterozygous familial hypercholesterolemia were randomized to rosuvastatin 5 mg, 10 mg or 20 mg or placebo daily.
+In a double-blind, randomized, multicenter, placebo-controlled, 12-week study, 176 (97 male and 79 female) pediatric patients with HeFH were randomized to rosuvastatin 5 mg, 10 mg or 20 mg or placebo daily.
 Patients ranged in age from 10 to 17 years (median age of 14 years) with approximately 30% of the patients 10 to 13 years and approximately 17%, 18%, 40%, and 25% at Tanner stages II, III, IV, and V, respectively.
-Females were at least 1 year postmenarche.
+Females were at least 1-year postmenarche.
 Mean LDL-C at baseline was 233 mg/dL (range of 129 to 399).
-The 12-week double-blind phase was followed by a 40 week open label dose-titration phase, where all patients (n=173) received 5 mg, 10 mg or 20 mg rosuvastatin daily.
+The 12-week double-blind phase was followed by a 40-week open-label dose-titration phase, where all patients (n=173) received 5 mg, 10 mg or 20 mg rosuvastatin daily.
 
 Rosuvastatin significantly reduced LDL-C (primary end point), total cholesterol and ApoB levels at each dose compared to placebo.
 Results are shown in Table 13 below.
 
-Table 13: Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17 years of Age with Heterozygous Familial Hypercholesterolemia (Least-Squares Mean Percent Change from Baseline To Week 12)
+Table 13: Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17 years of Age with HeFH (Least-Squares Mean Percent Change from Baseline To Week 12)
 
 | Dose (mg) | N | LDL-C | HDL-C | Total-C | TG1 | ApoB |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -124,13 +121,13 @@ Table 13: Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17
 
 2Difference from placebo not statistically significant
 
-Rosuvastatin was also studied in a two-year open-label, uncontrolled, titration-to-goal trial that included 175 children and adolescents with heterozygous familial hypercholesterolemia who were 8 to 17 years old (79 boys and 96 girls).
+Rosuvastatin was also studied in a two-year open-label, uncontrolled, titration-to-goal trial that included 175 pediatric patients with HeFH who were 8 to 17 years old (79 males and 96 females).
 All patients had a documented genetic defect in the LDL receptor or in ApoB.
-Approximately 89% were White, 7% were Asian, 1% were Black, and fewer than 1% were Hispanic.
+Approximately 89% were White, 7% were Asian, 1% were Black or African American, and fewer than 1% were Hispanic or Latino ethnicity.
 Mean LDL-C at baseline was 236 mg/dL.
 Fifty-eight (33%) patients were prepubertal at baseline.
-The starting rosuvastatin dosage for all children and adolescents was 5 mg once daily.
-Children 8 to less than 10 years of age (n=41 at baseline) could titrate to a maximum dosage of 10 mg once daily, and children and adolescents 10 to 17 years of age could titrate to a maximum dosage of 20 mg once daily.
+The starting rosuvastatin dosage for all pediatric patients was 5 mg once daily.
+Pediatric patients aged 8 to less than 10 years (n=41 at baseline) could titrate to a maximum dosage of 10 mg once daily, and pediatric patients aged 10 to 17 years could titrate to a maximum dosage of 20 mg once daily.
 
 The reductions in LDL-C from baseline were generally consistent across age groups within the trial as well as with previous experience in both adult and pediatric controlled trials.
 
@@ -147,15 +144,15 @@ HoFH in Pediatric Patients
 
 Rosuvastatin was studied in a randomized, double-blind, placebo-controlled, multicenter, cross- over study in 14 pediatric patients with HoFH.
 The study included a 4-week dietary lead-in phase during which patients received rosuvastatin 10 mg daily, a cross-over phase that included two 6-week treatment periods with either rosuvastatin 20 mg or placebo in random order, followed by a 12-week open-label phase during which all patients received rosuvastatin 20 mg.
-Patients ranged in age from 7 to 15 years of age (median 11 years), 50% were male, 71% were White, 21% were Asian, 7% were Black, and no patients were of Hispanic ethnicity.
+Patients ranged in age from 7 to 15 years of age (median 11 years), 50% were male, 71% were White, 21% were Asian, 7% were Black or African American, and no patients were of Hispanic or Latino ethnicity.
 Fifty percent were on apheresis therapy and 57% were taking ezetimibe.
 Patients who entered the study on apheresis therapy or ezetimibe continued the treatment throughout the entire study.
 Mean LDL-C at baseline was 416 mg/dL (range 152 to 716 mg/dL).
 A total of 13 patients completed both treatment periods of the randomized cross-over phase; one patient withdrew consent due to inability to have blood drawn during the cross-over phase.
 
-Rosuvastatin 20 mg significantly reduced LDL-C, total cholesterol, ApoB, and non- HDL-C compared to placebo (Table 14).
+Rosuvastatin 20 mg significantly reduced LDL-C, total cholesterol, ApoB, and non- HDL-C compared to placebo (see Table 14).
 
-Table 14: Lipid-modifying Effects of Rosuvastatin in Pediatric Patients 7 to 15 years of Age with Homozygous Familial Hypercholesterolemia After 6 Weeks
+Table 14: Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 7 to 15 years of Age with HoFH After 6 Weeks
 
 |  | Placebo(N=13) | Rosuvastatin 20 mg(N=13) | Percent difference(95% CI) |
 | --- | --- | --- | --- |
@@ -170,15 +167,15 @@ Table 14: Lipid-modifying Effects of Rosuvastatin in Pediatric Patients 7 to 15 
 
 Primary Dysbetalipoproteinemia in Adults
 
-In a randomized, multicenter, double-blind crossover study, 32 adult patients (27 with є2/є2 and 4 with apo E mutation [Arg145Cys] with primary dysbetalipoproteinemia entered a 6-week dietary lead-in period on the NCEP Therapeutic Lifestyle Change (TLC) diet.
+In a randomized, multicenter, double-blind cross-over study, 32 adult patients (27 with є2/є2 and 4 with apo E mutation [Arg145Cys] with primary dysbetalipoproteinemia entered a 6-week dietary lead-in period on the NCEP Therapeutic Lifestyle Change (TLC) diet.
 Following dietary lead-in, patients were randomized to a sequence of treatments for 6 weeks each: rosuvastatin 10 mg followed by rosuvastatin 20 mg or rosuvastatin 20 mg followed by rosuvastatin 10 mg. rosuvastatin reduced non-HDL-C (primary end point) and circulating remnant lipoprotein levels.
 Results are shown in the table below.
 
-Table 15: Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Adult Patients with Primary Dysbetalipoproteinemia (Type III hyperlipoproteinemia) After Six Weeks by Median Percent Change (95% CI) from Baseline (N=32)
+Table 15: Lipid-Modifying Effects of Rosuvastatin 10 mg and 20 mg in Adult Patients with Primary Dysbetalipoproteinemia (Type III hyperlipoproteinemia) After Six Weeks by Median Percent Change (95% CI) from Baseline (N=32)
 
 |  | Median at Baseline (mg/dL) | Median percent change from baseline (95% CI) Rosuvastatin 10 mg | Median percent change from baseline (95% CI) Rosuvastatin 20 mg |
 | --- | --- | --- | --- |
-| Total-C | 342.5 | -43.3 (-46.9,-37.5) | -47.6 (-51.6,-42.8) |
+| Total-C | 342.5 | -43.3 (-46.9,-37.5) | -47.6 (-51.6, -42.8) |
 | Triglycerides | 503.5 | -40.1 (-44.9, -33.6) | -43 (-52.5, -33.1) |
 | Non-HDL-C | 294.5 | -48.2 (-56.7, -45.6) | -56.4 (-61.4, -48.5) |
 | VLDL-C + IDL-C | 209.5 | -46.8 (-53.7, -39.4) | -56.2 (-67.7, -43.7) |
@@ -189,7 +186,7 @@ Table 15: Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Adult Patie
 
 Hypertriglyceridemia in Adults
 
-In a double-blind, placebo-controlled study in adult patients with baseline TG levels from 273 to 817 mg/dL, rosuvastatin given as a single daily dose (5 to 40 mg) over 6 weeks significantly reduced serum TG levels (Table 16).
+In a double-blind, placebo-controlled study in adult patients with baseline TG levels from 273 to 817 mg/dL, rosuvastatin given as a single daily dose (5 to 40 mg) over 6 weeks significantly reduced serum TG levels (see Table 16).
 
 Table 16: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Primary Hypertriglyceridemia After Six Weeks by Median (Min, Max) Percent Change from Baseline to Week 6
 

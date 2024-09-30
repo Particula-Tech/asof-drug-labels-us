@@ -35,7 +35,7 @@ Discontinue rosuvastatin if IMNM is suspected.
 
 Increases in serum transaminases have been reported with use of rosuvastatin [see Adverse Reactions (6.1)].
 In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy.
-In a pooled analysis of placebo-controlled trials, increases in serum transaminases to >3 times the upper limit of normal occurred in 1.1% of patients taking rosuvastatin versus 0.5% of patients treated with placebo.
+In a pooled analysis of placebo-controlled trials, increases in serum transaminases to more than three times the ULN occurred in 1.1% of patients taking rosuvastatin versus 0.5% of patients treated with placebo.
 Marked persistent increases of hepatic transaminases have also occurred with rosuvastatin.
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including rosuvastatin.
 

@@ -30,7 +30,7 @@ Table 2: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastat
 | Constipation | 2.4 | 2.1 | 2.1 | 4.7 | 2.8 | 2.4 |
 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
-The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
+The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria;elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
 In the METEOR study, patients were treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years.
 Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 3.
@@ -45,9 +45,11 @@ Table 3: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastat
 | Dizziness | 2.8 | 4 |
 | Increased CPK | 0.7 | 2.6 |
 | Abdominal pain | 1.8 | 2.4 |
-| ALT >3 x ULN1 | 0.7 | 2.2 |
+| ALT greater than 3 x ULN1 | 0.7 | 2.2 |
 
-In the JUPITER study, patients were treated with rosuvastatin 20 mg (n=8901) or placebo (n=8901) for a mean duration of 2 years.
+1 Frequency recorded as abnormal laboratory value.
+
+In the JUPITER study, patients were treated with rosuvastatin 20 mg (n=8,901) or placebo (n=8,901) for a mean duration of 2 years.
 In JUPITER, there was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
 The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Clinical Studies (14)].
@@ -66,12 +68,12 @@ Table 4: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastat
 
 Pediatric Patients with HeFH
 
-In a 12-week controlled study in pediatric patients 10 to 17 years of age with HeFH with rosuvastatin 5 to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14)], elevations in serum CK >10 x ULN were observed more frequently in rosuvastatin-treated patients compared with patients receiving placebo.
-Four of 130 (3%) patients treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK >10 x ULN, compared to 0 of 46 patients on placebo.
+In a 12-week controlled study in pediatric patients 10 to 17 years of age with HeFH with rosuvastatin 5 to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14)], elevations in serum CK greater than 10 x ULN were observed more frequently in rosuvastatin-treated patients compared with patients receiving placebo.
+Four of 130 (3%) patients treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK greater than 10 x ULN, compared to 0 of 46 patients on placebo.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of rosuvastatin:
+The following adverse reactions have been identified during postapproval use of rosuvastatin.
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
