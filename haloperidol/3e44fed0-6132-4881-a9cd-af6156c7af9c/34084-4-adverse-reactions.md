@@ -64,4 +64,4 @@ Other: Cases of sudden and unexpected death have been reported in association wi
 The nature of the evidence makes it impossible to determine definitively what role, if any, haloperidol played in the outcome of the reported cases.
 The possibility that haloperidol caused death cannot, of course, be excluded, but it is to be kept in mind that sudden and unexpected death may occur in psychotic patients when they go untreated or when they are treated with other antipsychotic drugs.
 
-Postmarketing Events: Hyperammonemia has been reported in a 5 ½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.
+Postmarketing Events: Hyperammonemia has been reported in a 5 1/2 year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.

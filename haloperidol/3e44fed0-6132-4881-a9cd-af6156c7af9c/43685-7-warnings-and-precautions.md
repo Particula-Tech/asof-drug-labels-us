@@ -24,7 +24,7 @@ The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
-(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS.)
+(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS).
 
 Neuroleptic Malignant Syndrome (NMS)
 
@@ -94,9 +94,12 @@ Haloperidol should be administered cautiously to patients:
 - with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
   Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur.
   Instead, metaraminol, phenylephrine or norepinephrine should be used.
+
 - receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
   If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
+
 - with known allergies, or with a history of allergic reactions to drugs.
+
 - receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates.
@@ -125,7 +128,7 @@ Antipsychotic drugs elevate prolactin levels; the elevation persists during chro
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
-Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+Some epidemiologic studies have indicated a potential association between chronic administration of prolactin-increasing antipsychotics and breast cancer.
 
 ## Geriatric Use:
 

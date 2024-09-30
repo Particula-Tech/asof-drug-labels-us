@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Haloperidol Oral Solution USP (Concentrate) 2 mg per mL (as the lactate) is colorless, odorless, and tasteless solution.
+Haloperidol Oral Solution, USP (Concentrate) 2 mg per mL (as the lactate) is colorless, odorless, and tasteless solution.
 This product is available in 120 mL bottles (NDC 54838-501-40), with dropper graduated at 0.5 mg, and 1 mg, 1.5 mg, 2 mg, 3 mg, 4 mg, and 15 mL bottles (NDC 54838-501-15), with dropper graduated at 0.5 mg, and 1 mg.
 
 Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
@@ -15,7 +15,7 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19136
 
-10-1100
+CIB72213A
 
 Rev.
-02/20
+09/24
