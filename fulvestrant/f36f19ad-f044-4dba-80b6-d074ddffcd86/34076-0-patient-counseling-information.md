@@ -22,9 +22,9 @@ Combination Therapy
 When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Parenteral Unit Ahmedabad 382213, INDIA
+Ltd. Ahmedabad 382213, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2021-07
+08-2024-08

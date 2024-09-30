@@ -36,7 +36,7 @@ Table 11: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Pos
 
 Distribution:
 
-The apparent volume of distribution at steady-state is approximately 3 to 5 L/kg.
+The apparent volume of distribution at steady-state is approximately 3 L/kg to 5 L/kg.
 This suggests that distribution is largely extravascular.
 Fulvestrant is highly (99%) bound to plasma proteins; VLDL, LDL and HDL lipoprotein fractions appear to be the major binding components.
 The role of sex hormone-binding globulin, if any, could not be determined.

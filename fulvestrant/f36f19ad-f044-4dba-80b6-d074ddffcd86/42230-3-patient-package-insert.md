@@ -8,8 +8,8 @@ Fulvestrant injection is a prescription medicine used to treat advanced breast c
 
 Fulvestrant injection may be used alone, if you have gone through menopause, and your advanced breast cancer is:
 
-- hormone receptor (HR)-positive and human epidermal growth factor receptor 2 (HER2)-negative and has not been previously treated with endocrine therapyor
-- HR-positive has progressed after endocrine therapy.
+- hormone receptor (HR)-positive and human epidermal growth factor receptor 2 (HER2)-negative and has not been previously treated with endocrine therapy or
+- HR-positive and has progressed after endocrine therapy.
 
 Fulvestrant injection may be used in combination with ribociclib, if you have gone through menopause, and your advanced or metastatic breast cancer is HR-positive and HER2-negative, and has not been previously treated with endocrine therapy or has progressed after endocrine therapy.
 
@@ -106,7 +106,7 @@ For more information, go to www.amneal.com or call 1-877-835-5472.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Parenteral Unit Ahmedabad 382213, INDIA
+Ltd. Ahmedabad 382213, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev.
-06-2019-02
+08-2024-03

@@ -40,7 +40,7 @@ Table 12: Efficacy Resultsin CONFIRM (Intent-To-Treat (ITT) Population)
 | Median OS (months) | 26.4 | 22.3 |
 | Hazard Ratio2 (95% CI3)6 | 0.81 (0.69 to 0.96) |  |
 | ORR7 (95% CI3) | 13.8% (9.7%, 18.8%) (33/240) | 14.6% (10.5%, 19.4%) (38/261) |
-| 1. PFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.2. Hazard Ratio <1 favors fulvestrant 500 mg.3. CI=Confidence Interval.4. OS=Overall Survival.5.Minimum follow up duration of 50 months.6. Not statistically significant as no adjustments were made for multiplicity.7. ORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months. |  |  |
+| 1. PFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.2. Hazard Ratio < 1 favors fulvestrant 500 mg.3. CI=Confidence Interval.4. OS=Overall Survival.5.Minimum follow up duration of 50 months.6. Not statistically significant as no adjustments were made for multiplicity.7. ORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months. |  |  |
 
 Figure 6: Kaplan-Meier PFS: CONFIRM ITT Population
 
@@ -117,11 +117,11 @@ Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (OR
 | % Difference in TumorResponse Rate (FUL3-ANA4) 2–sided 95.4% CI5 | 0.0(-6.3, 8.9) |  | 5.4(-1.4, 14.8) |  |
 | Time to Progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
 | Hazard Ratio62-sided 95.4% CI | 0.9(0.7, 1.1) |  | 1.0(0.8, 1.2) |  |
-| Stable Disease for ≥24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
+| Stable Disease for ≥ 24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%)Median Survival (days) | 152 (73.8%)844 | 149 (76.8%)913 | 167 (75.2%)803 | 173 (75.5%)736 |
 | Hazard Ratio6(2-sided 95% CI) | 0.98(0.78, 1.24) |  | 0.97(0.78, 1.21) |  |
-| 1. CR = Complete Response.2. PR = Partial Response.3. FUL = Fulvestrant.4. ANA = anastrozole.5. CI = Confidence Interval.6. Hazard Ratio <1 favors fulvestrant. |  |  |  |  |
+| 1. CR = Complete Response.2. PR = Partial Response.3. FUL = Fulvestrant.4. ANA = anastrozole.5. CI = Confidence Interval.6. Hazard Ratio < 1 favors fulvestrant. |  |  |  |  |
 
 Combination Therapy
 
@@ -156,7 +156,7 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 | Progression-Free Survival for ITT | N=347 | N=174 |
 | Number of PFS Events (%) | 145 (41.8%) | 114 (65.5%) |
 | Median PFS (months) (95% CI) | 9.5 (9.2 to 11.0) | 4.6 (3.5 to 5.6) |
-| Hazard Ratio (95% CI) and p-value | 0.461 (0.360 to 0.591) p <0.0001 |  |
+| Hazard Ratio (95% CI) and p-value | 0.461 (0.360 to 0.591) p < 0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
 | Objective response rate1 (%, 95% CI) | 24.6 (19.6 to 30.2) | 10.9 (6.2 to 17.3) |
 | Overall Survival for ITT population | N=347 | N=174 |
@@ -197,12 +197,12 @@ Table 16: Efficacy Results in MONARCH 2 (Intent-to-Treat Population)
 | Number of patients with an event (n, %) | 222 (49.8) | 157 (70.4) |
 | Median (months, 95% CI) | 16.4 (14.4, 19.3) | 9.3 (7.4, 12.7) |
 | Hazard ratio (95% CI)1 | 0.553 (0.449, 0.681) |  |
-| p-value1 | p<0.0001 |  |
+| p-value1 | p < 0.0001 |  |
 | Overall Survival2 |  |  |
 | Number of deaths (n, %) | 211 (47.3) | 127 (57.0) |
 | Median OS in months (95% CI) | 46.7 (39.2, 52.2) | 37.3 (34.4, 43.2) |
 | Hazard ratio (95% CI)1 | 0.757 (0.606, 0.945) |  |
-| p-value1 | p=0.0137 |  |
+| p-value1 | p = 0.0137 |  |
 | Objective Response for Patients with Measurable Disease | N=318 | N=164 |
 | Objective response rate3(n, %) | 153 (48.1) | 35 (21.3) |
 | 95% CI | 42.6, 53.6 | 15.1, 27.6 |
@@ -242,7 +242,7 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | Events (n, %) | 210 (43.4%) | 151 (62.4%) |
 | Median (months, 95% CI) | 20.5 (18.5, 23.5) | 12.8 (10.9, 16.3) |
 | Hazard Ratio (95% CI) | 0.593 (0.480 to 0.732) |  |
-| p-value1 | <0.0001 |  |
+| p-value1 | < 0.0001 |  |
 | Overall Survival | N=484 | N=242 |
 | Events (n, %) | 167 (34.5%) | 108 (44.6%) |
 | Median (months, 95% CI) | NR (42.5, NR) | 40.0 (37.0, NR) |

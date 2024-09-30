@@ -17,8 +17,8 @@ Data
 Animal Data
 
 Administration of fulvestrant to rats prior to and up to implantation caused embryonic loss at daily doses that were 0.6% of the daily maximum recommended human dose based on mg/m2.
-When fulvestrant was administered to pregnant rats during the period of organogenesis, intramuscular doses ≥0.1 mg/kg/day (6% of the human recommended dose based on mg/m2) caused effects on embryo-fetal development consistent with its antiestrogenic activity.
-Fulvestrant caused an increased incidence of fetal abnormalities in rats (tarsal flexure of the hind paw at 2 mg/kg/day; equivalent to the human dose based on mg/m2) and non-ossification of the odontoid and ventral tubercle of the first cervical vertebra at doses ≥0.1 mg/kg/day.
+When fulvestrant was administered to pregnant rats during the period of organogenesis, intramuscular doses ≥ 0.1 mg/kg/day (6% of the human recommended dose based on mg/m2) caused effects on embryo-fetal development consistent with its antiestrogenic activity.
+Fulvestrant caused an increased incidence of fetal abnormalities in rats (tarsal flexure of the hind paw at 2 mg/kg/day; equivalent to the human dose based on mg/m2) and non-ossification of the odontoid and ventral tubercle of the first cervical vertebra at doses ≥ 0.1 mg/kg/day.
 Fulvestrant administered at 2 mg/kg/day caused fetal loss.
 
 When administered to pregnant rabbits during the period of organogenesis, fulvestrant caused pregnancy loss at an intramuscular dose of 1 mg/kg/day (equivalent to the human dose based on mg/m2).
@@ -83,7 +83,7 @@ No patients discontinued study treatment due to an AE and no patients died.
 Pharmacokinetics
 
 The pharmacokinetics of fulvestrant was characterized using a population pharmacokinetic analysis with sparse samples per patient obtained from 30 female pediatric patients aged 1 to 8 years with PPP associated with MAS.
-Pharmacokinetic data from 294 postmenopausal women with breast cancer who received 125 or 250 mg monthly dosing regimen were also included in the analysis.
+Pharmacokinetic data from 294 postmenopausal women with breast cancer who received 125 mg or 250 mg monthly dosing regimen were also included in the analysis.
 
 In these pediatric patients receiving 4 mg/kg monthly intramuscular dose of fulvestrant, the geometric mean (SD) CL/F was 444 (165) mL/min which was 32% lower than adults.
 The geometric mean (SD) steady-state trough concentration (Cmin,ss) and AUCss was 4.19 (0.87) ng/mL and 3680 (1020) ng*hr/mL, respectively.
@@ -96,7 +96,7 @@ For fulvestrant 250 mg, when tumor response was considered by age, objective res
 
 Fulvestrant is metabolized primarily in the liver.
 
-The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n=7 subjects/group), using a shorter-acting intramuscular injection formulation.
+The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n = 7 subjects/group), using a shorter-acting intramuscular injection formulation.
 Subjects with mild hepatic impairment (Child-Pugh class A) had comparable mean AUC and clearance values to those with normal hepatic function.
 In subjects with moderate hepatic impairment (Child-Pugh class B), the average AUC of fulvestrant increased by 70% compared to patients with normal hepatic function.
 AUC was positively correlated with total bilirubin concentration (p = 0.012).
