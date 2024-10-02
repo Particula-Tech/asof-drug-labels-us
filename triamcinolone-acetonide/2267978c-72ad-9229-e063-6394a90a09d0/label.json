@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022048"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-800-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "triamcinolone acetonide",
+      "name": "TRIESENCE"
+    }
+  ],
+  "setid": "2267978c-72ad-9229-e063-6394a90a09d0",
+  "source": "dailymed"
+}
