@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022048"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0897-78"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "triamcinolone acetonide",
+      "name": "TRIESENCE"
+    }
+  ],
+  "setid": "22692d92-1359-9252-e063-6394a90ab669",
+  "source": "dailymed"
+}
