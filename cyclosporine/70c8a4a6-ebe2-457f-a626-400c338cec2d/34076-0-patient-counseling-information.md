@@ -16,11 +16,9 @@ Administration
 
 Advise patients that the emulsion from one individual single-use vial is to be used immediately after opening for administration to one or both eyes, and the remaining contents should be discarded immediately after administration.
 
-Manufactured by Allergan Sales, LLC, Waco, TX 76712 USA Manufactured by Apotex Corp., Weston, FL 33326 USA
+Manufactured by Allergan Sales, LLC, Waco, TX 76712 USA Manufactured for Apotex Corp., Weston, FL 33326 USA
 
-© 2018 Allergan.
+© 2024 AbbVie.
 All rights reserved.
-Patented.
-See www.allergan.com/patents
 
-v1.0USPI6202AG
+v2.0USPI6202AG

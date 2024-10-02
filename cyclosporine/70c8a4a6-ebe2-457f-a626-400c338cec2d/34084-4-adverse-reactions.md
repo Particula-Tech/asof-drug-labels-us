@@ -12,7 +12,7 @@ In clinical trials, the most common adverse reaction following the use of cyclos
 
 Other reactions reported in 1% to 5% of patients included conjunctival hyperemia, discharge, epiphora, eye pain, foreign body sensation, pruritus, stinging, and visual disturbance (most often blurring).
 
-## 6.2 Post-marketing Experience
+## 6.2Post-marketing Experience
 
 The following adverse reactions have been identified during post approval use of cyclosporine ophthalmic emulsion.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

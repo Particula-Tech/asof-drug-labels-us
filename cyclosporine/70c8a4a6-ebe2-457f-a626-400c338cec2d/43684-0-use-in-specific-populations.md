@@ -1,6 +1,6 @@
 # 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
@@ -20,7 +20,7 @@ An oral dose of 45 mg/kg/day cyclosporine administered to rats from Day 15 of pr
 This dose is 7,000 times greater than the daily recommended human dose.
 No adverse effects in dams or offspring were observed at oral doses up to 15 mg/kg/day (2,000 times greater than the daily recommended human dose).
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
@@ -28,10 +28,10 @@ Cyclosporine is known to appear in human milk following systemic administration,
 Although blood concentrations are undetectable following topical administration of cyclosporine ophthalmic emulsion [see Clinical Pharmacology (12.3)], caution should be exercised when cyclosporine ophthalmic emulsion is administered to a nursing woman.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for cyclosporine ophthalmic emulsion and any potential adverse effects on the breast-fed child from cyclosporine.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Safety and efficacy have not been established in pediatric patients below the age of 16.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 No overall difference in safety or effectiveness has been observed between elderly and younger patients.
