@@ -81,10 +81,14 @@ As with other NSAIDs, anaphylactoid reactions may occur inpatients without known
 Ibuprofen tablets should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).Emergency help should be sought in cases where an anaphylactoidreaction occurs.
 
-### Skin Reactions
+### Serious Skin Reactions
 
-NSAIDs, including Ibuprofen tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome(SJS), and toxic epidermal necrolysis (TEN), which can be fatal.These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin reaction or any other sign of hypersensitivity.
+NSAIDs, including ibuprofen tablets, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of ibuprofen tablets at the first appearance of skin rash or any other sign of hypersensitivity.
+Ibuprofen tablets are contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 ### Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 

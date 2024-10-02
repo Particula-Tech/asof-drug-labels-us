@@ -161,4 +161,6 @@ Princeton, NJ 08540
 
 Made in India
 
-Revised:04/2022.
+Revised:07/2024.
+
+Dispense with Medication Guide available at: www.drreddys.com/medguide/ibuprofentabs.pdf

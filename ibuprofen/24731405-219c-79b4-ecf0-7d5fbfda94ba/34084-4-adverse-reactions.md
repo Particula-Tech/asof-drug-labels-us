@@ -32,3 +32,10 @@ The increases in incidence were slight and stillwithin the ranges reported in th
 
 ** Reactions are classified under “Probable Causal Relationship (PCR)” if there has been one positive rechallange or if three or more cases occur which might be causally related.
 Reactions are classified under “Causal Relationship Unknown” if seven or more events have been reported but the criteria for PCR have not been met.
+
+Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of ibuprofen.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).
