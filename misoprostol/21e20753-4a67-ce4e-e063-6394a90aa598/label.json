@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210201"
+  ],
+  "inn": "misoprostol",
+  "labeler": "GenBioPro, Inc.",
+  "package_ndcs": [
+    "43393-200-48",
+    "43393-200-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "misoprostol",
+      "name": "Misoprostol"
+    }
+  ],
+  "setid": "21e20753-4a67-ce4e-e063-6394a90aa598",
+  "source": "dailymed"
+}
