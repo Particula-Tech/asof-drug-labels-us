@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218304"
+  ],
+  "inn": "formoterol",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-463-62",
+    "42571-463-73"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "formoterol fumarate",
+      "name": "Formoterol fumarate"
+    }
+  ],
+  "setid": "0796acea-70d6-479f-af48-18723b1efd2a",
+  "source": "dailymed"
+}
