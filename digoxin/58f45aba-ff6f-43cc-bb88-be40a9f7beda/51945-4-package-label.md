@@ -12,6 +12,8 @@ Rx Only
 
 For Intravenous or Intramuscular Injection Dilution not required
 
+Protect from light
+
 Sterile
 
 10 x 2 mL Ampules

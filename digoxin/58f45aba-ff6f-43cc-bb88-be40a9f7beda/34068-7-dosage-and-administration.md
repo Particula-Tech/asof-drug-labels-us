@@ -20,6 +20,8 @@ Immediate use of the diluted product is recommended.
 
 Consider interruption or reduction in digoxin injection dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
+Discard unused portion of digoxin injection.
+
 ## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients
 
 Table 1.
