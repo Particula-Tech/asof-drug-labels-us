@@ -1,14 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0456-3205-60
-
-Namenda
-
-memantine HCl tablets
-
-5 mg
-
-60 Tablets
+Rx Only NDC 0456-3205-60 Namenda memantine HCl tablets 5 mg 60 Tablets
 
 # PRINCIPAL DISPLAY PANEL
 

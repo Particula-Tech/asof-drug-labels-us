@@ -13,11 +13,7 @@ If a patient fails to take NAMENDA for several days, dosing should not be resume
 
 Made in Ireland
 
-Distributed by:
-
-Allergan USA, Inc.
-
-Madison, NJ 07940
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from Merz Pharmaceuticals GmbH
 
@@ -28,6 +24,4 @@ All other trademarks are the property of their respective owners.
 Allergan® and its design are trademarks of Allergan, Inc.
 
 © 2019 Allergan.
-All rights reserved.
-
-v1.1USPI3205
+All rights reserved. v1.1USPI3205

@@ -113,11 +113,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Made in Ireland
 
-Distributed by:
-
-Allergan USA, Inc.
-
-Madison, NJ 07940
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from Merz Pharmaceuticals GmbH
 
