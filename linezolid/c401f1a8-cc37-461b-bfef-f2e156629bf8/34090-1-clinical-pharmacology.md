@@ -265,7 +265,7 @@ Gram-positive bacteria
 Enterococcus faecium (vancomycin-resistant isolates only) Staphylococcus aureus (including methicillin-resistant isolates) Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-Greater than 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
+Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
