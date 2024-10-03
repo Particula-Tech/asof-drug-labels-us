@@ -1,5 +1,9 @@
 # MEDICATION GUIDE
 
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
+MEDICATION GUIDE
+
 Trazodone hydrochloride tablets, USP, for oral use
 
 (traz' oh done hye" droe klor' ide)
@@ -143,9 +147,9 @@ Trazodone hydrochloride tablets can cause serious side effects or death, includi
   Symptoms of withdrawal can include anxiety, agitation, and sleep problems.
   Do not stop taking trazodone hydrochloride tablets without talking to your healthcare provider.
 - Visual problems.
-  - Eye pain
-  - Changes in vision
-  - Swelling or redness in or around the eye
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
 
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
@@ -157,14 +161,14 @@ Get medical help right away, if you have any of the symptoms listed above.
 
 The most common side effects of trazodone hydrochloride tablets include:
 
-- Swelling
-- Blurred vision
-- Dizziness
-- Sleepiness
-- Tiredness
-- Diarrhea
-- Stuffy nose
-- Weight loss
+- swelling
+- blurred vision
+- dizziness
+- sleepiness
+- tiredness
+- diarrhea
+- stuffy nose
+- weight loss
 
 These are not all the possible side effects of trazodone hydrochloride tablets.
 Call your doctor for medical advice about side effects.
@@ -193,16 +197,16 @@ Active ingredient: trazodone hydrochloride, USP
 
 Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized maize starch, sodium lauryl sulfate, and sodium starch glycolate.
 
+For more information, go to www.torrentpharma.com or call 1-800-FDA-1088
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920
 
-For more information, go to www.torrentpharma.com or call 1-800-FDA-1088
+8097088 Revised: September 2024
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-8090150 Revised: October 2022

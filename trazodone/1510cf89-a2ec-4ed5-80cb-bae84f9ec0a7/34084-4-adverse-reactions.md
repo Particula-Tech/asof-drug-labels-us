@@ -6,7 +6,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Cardiac Arrythmias [see Warnings and Precautions (5.3)]
 - Orthostatic Hypotension and Syncope [see Warnings and Precautions (5.4)]
-- Increased risk of Bleeding [see Warnings and Precautions (5.5)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.5)]
 - Priapism [see Warnings and Precautions (5.6)]
 - Activation of Mania or Hypomania [see Warnings and Precautions (5.7)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.8)]

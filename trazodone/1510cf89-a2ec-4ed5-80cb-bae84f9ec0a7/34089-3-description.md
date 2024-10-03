@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Trazodone hydrochloride tablets for oral administration contain trazodone hydrochloride, a selective serotonin reuptake inhibitor and 5HT2 receptor antagonist.
-Trazodone hydrochloride is a triazolopyridine derivative designated as 2-[3-[4-(3-chlorophenyl)-1-piperazinyl]propyl]-1,2,4-triazolo[4,3-a]pyridin-3(2 H)-one hydrochloride.
+Trazodone hydrochloride is a triazolopyridine derivative designated as 2-[3-[4-(3-chlorophenyl)-1-piperazinyl]propyl]-1,2,4-triazolo[4,3-a]pyridin-3(2H)-one hydrochloride.
 It is a white odorless crystalline powder which is freely soluble in water.
 The structural formula is represented as follows:
 

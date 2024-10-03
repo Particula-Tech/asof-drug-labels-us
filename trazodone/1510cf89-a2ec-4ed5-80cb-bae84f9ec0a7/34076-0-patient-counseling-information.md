@@ -39,12 +39,16 @@ Pregnancy
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with trazodone hydrochloride tablets.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone hydrochloride tablets during pregnancy [see Use in Special Populations (8.1)].
 
+For more information, go to www.torrentpharma.com or call 1-800-FDA-1088
+
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920
 
-8090149 Revision: October 2022
+8097087 Revision: September 2024
