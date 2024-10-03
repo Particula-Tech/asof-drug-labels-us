@@ -27,7 +27,7 @@ Other medications used at any time during the study included digoxin (78%), anti
 
 The primary endpoint for the Randomized Spironolactone Evaluation Study was time to all-cause mortality.
 The Randomized Spironolactone Evaluation Study was terminated early because of significant mortality benefit demonstrated during a planned interim analysis.
-Compared to placebo, spironolactone reduced the risk of death by 30% (p< 0.001; 95% confidence interval 18% to 40%).
+Compared to placebo, spironolactone reduced the risk of death by 30% (p < 0.001; 95% confidence interval 18% to 40%).
 Spironolactone also reduced the risk of hospitalization for cardiac causes (defined as worsening heart failure, angina, ventricular arrhythmias, or myocardial infarction) by 30% (p < 0.001; 95% confidence interval 18% to 41%).
 
 The survival curves by treatment group are shown in Figure 1.

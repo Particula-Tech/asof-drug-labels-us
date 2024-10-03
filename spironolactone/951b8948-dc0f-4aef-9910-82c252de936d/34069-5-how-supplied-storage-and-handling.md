@@ -32,7 +32,7 @@ Bottles of 500: NDC 53746-514-05
 
 Bottles of 1000: NDC 53746-514-10
 
-Spironolactone Tablets USP, 100 mg are beige, film-coated, round tablets, debossed “AN” above bisect and “515” below bisect on one side and plain on other side.
+Spironolactone Tablets USP, 100 mg are beige, film-coated, round tablets, debossed “AN” bisect “515” on one side and plain on other side.
 
 They are available as follows:
 
@@ -51,3 +51,4 @@ Bottles of 1000: NDC 53746-515-10
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
+Protect from light.

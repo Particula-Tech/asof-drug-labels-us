@@ -8,7 +8,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - Gynecomastia [see Warnings and Precautions (5.4)].
 - Impaired neurological function/coma in patients with hepatic impairment, cirrhosis and ascites [see Use in Specific Populations (8.7)].
 
-The following adverse reactions associated with the use of spironolactone were identified in clinical trials or postmarketing reports.
+The following adverse reactions associated with the use of spironolactone were identified in clinical trials or post-marketing reports.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency, reliably, or to establish a causal relationship to drug exposure.
 
 Digestive: Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting.
