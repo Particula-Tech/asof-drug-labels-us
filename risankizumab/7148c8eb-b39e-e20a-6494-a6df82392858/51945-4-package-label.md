@@ -92,7 +92,7 @@ One 10 mL Single-Dose Vial-
 
 Discard Unused Portion
 
-Attention: Dispense the enclosed Medication Guide to each patient.
+ATTENTION: Dispense the enclosed Medication Guide to each patient.
 
 Rx only
 
