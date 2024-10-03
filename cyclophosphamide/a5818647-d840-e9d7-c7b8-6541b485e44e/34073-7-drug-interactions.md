@@ -1,73 +1,50 @@
 # 7 DRUG INTERACTIONS
 
-Cyclophosphamide is a pro-drug that is activated by cytochrome P450s [see Clinical Pharmacology (12.3)].
+## 7.1 Effect of Other Drugs on Cyclophosphamide Exposure
 
-An increase of the concentration of cytotoxic metabolites may occur with:
+Protease inhibitors:
 
-- Protease inhibitors: Concomitant use of protease inhibitors may increase the concentration of cytotoxic metabolites.
-  Use of protease inhibitor-based regimens was found to be associated with a higher Incidence of infections and neutropenia in patients receiving cyclophosphamide, doxorubicin, and etoposide (CDE) than use of a Non-Nucleoside Reverse Transcriptase Inhibitor-based regimen.
+Concomitant use of protease inhibitors may increase the concentration of cytotoxic metabolites and may enhance the toxicities of cyclophosphamide, including higher incidence of infections, neutropenia, and mucositis.
+Monitor for increased toxicities in patients receiving protease inhibitors.
 
-Combined or sequential use of cyclophosphamide and other agents with similar toxicities can potentiate toxicities.
+## 7.2 Drugs That Potentiate Cyclophosphamide Toxicities
 
-- Increased hematotoxicity and/or immunosuppression may result from a combined effect of cyclophosphamide and, for example:
+Radiation therapy or drugs with similar toxicities to Cyclophosphamide Injection can potentiate toxicities for cyclophosphamide.
+Monitor for increased toxicities in patients receiving radiation therapy or drugs known to cause:
 
-• ACE inhibitors: ACE inhibitors can cause leukopenia.
+- Myelosuppression and/or immunosuppression [see Warnings and Precautions (5.1)]
+- Nephrotoxicity including hemorrhagic cystitis [see Warnings and Precautions (5.2)]
+- Cardiotoxicity [see Warnings and Precautions (5.3)]
+- Pulmonary toxicity [see Warnings and Precautions (5.4)]
+- Secondary malignancies [see Warnings and Precautions (5.5)]
+- Hepatotoxicity including liver necrosis and VOD [see Warnings and Precautions (5.6)]
 
-• Natalizumab
+## 7.3 Effect of Cyclophosphamide on Other Drugs
 
-• Paclitaxel: Increased hematotoxicity has been reported when cyclophosphamide was administered after paclitaxel infusion.
+Metronidazole
 
-• Thiazide diuretics
+Acute encephalopathy has been reported in a patient receiving cyclophosphamide and metronidazole.
+Monitor for neurologic toxicities in patients receiving metronidazole.
 
-• Zidovudine
+Tamoxifen
 
-- Increased cardiotoxicity may result from a combined effect of cyclophosphamide and, for example:
+Concomitant use of tamoxifen and a cyclophosphamide-containing chemotherapy regimen may increase the risk of thromboembolic complications.
+Monitor for signs and symptoms of thromboembolic events in patients receiving tamoxifen.
 
-• Anthracyclines
+Coumarins
 
-• Cytarabine
+Both increased and decreased warfarin effect have been reported in patients receiving warfarin and cyclophosphamide.
+Monitor anticoagulant activity closely in patients receiving warfarin or other coumarins.
 
-• Pentostatin
+Cyclosporine
 
-• Radiation therapy of the cardiac region
-
-• Trastuzumab
-
-- Increased pulmonary toxicity may result from a combined effect of cyclophosphamide and, for example:
-
-• Amiodarone
-
-• G-CSF, GM-CSF (granulocyte colony-stimulating factor, granulocyte macrophage colony-stimulating factor): Reports suggest an increased risk of pulmonary toxicity in patients treated with cytotoxic chemotherapy that includes cyclophosphamide and G-CSF or GMCSF.
-
-- Increased nephrotoxicity may result from a combined effect of cyclophosphamide and, for example:
-
-• Amphotericin B
-
-• Indomethacin: Acute water intoxication has been reported with concomitant use of indomethacin
-
-- Increase in other toxicities:
-
-• Azathioprine: Increased risk of hepatotoxicity (liver necrosis)
-
-• Busulfan: Increased incidence of hepatic veno-occlusive disease and mucositis has been reported.
-
-• Protease inhibitors: Increased incidence of mucositis
-
-- Increased risk of hemorrhagic cystitis may result from a combined effect of cyclophosphamide and past or concomitant radiation treatment.
-
-Etanercept: In patients with Wegener's granulomatosis, the addition of etanercept to standard treatment, including cyclophosphamide, was associated with a higher incidence of non-cutaneous malignant solid tumors.
-
-Metronidazole: Acute encephalopathy has been reported in a patient receiving cyclophosphamide and metronidazole.
-Causal association is unclear.
-In an animal study, the combination of cyclophosphamide with metronidazole was associated with increased cyclophosphamide toxicity.
-
-Tamoxifen: Concomitant use of tamoxifen and chemotherapy may increase the risk of thromboembolic complications.
-
-Coumarins: Both increased and decreased warfarin effect have been reported in patients receiving warfarin and cyclophosphamide.
-
-Cyclosporine: Lower serum concentrations of cyclosporine have been observed in patients receiving a combination of cyclophosphamide and cyclosporine than in patients receiving only cyclosporine.
+Concomitant administration of cyclophosphamide may decrease serum concentrations of cyclosporine.
 This interaction may result in an increased incidence of graft-versus-host disease.
+Monitor for signs and symptoms of graft-versus-host disease in patients receiving cyclosporine.
 
-Depolarizing muscle relaxants: Cyclophosphamide treatment causes a marked and persistent inhibition of cholinesterase activity.
-Prolonged apnea may occur with concurrent depolarizing muscle relaxants (e.g., succinylcholine).
+Depolarizing muscle relaxants
+
 If a patient has been treated with cyclophosphamide within 10 days of general anesthesia, alert the anesthesiologist.
+
+Cyclophosphamide causes a marked and persistent inhibition of cholinesterase activity.
+Prolonged apnea may occur with concurrent depolarizing muscle relaxants (e.g., succinylcholine).

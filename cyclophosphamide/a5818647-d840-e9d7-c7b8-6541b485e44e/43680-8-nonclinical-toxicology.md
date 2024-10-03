@@ -5,7 +5,7 @@
 Cyclophosphamide administered by different routes, including intravenous, subcutaneous or intraperitoneal injection, or in drinking water, caused tumors in both mice and rats.
 In addition to leukemia and lymphoma, benign and malignant tumors were found at various tissue sites, including urinary bladder, mammary gland, lung, liver, and injection site [see Warnings and Precautions (5.5)].
 
-Cyclophosphamide was mutagenic and clastogenic in multiple in vitro and in vivo genetic toxicology studies.
+Cyclophosphamide was mutagenic and clastogenic in multiple in vitroand in vivogenetic toxicology studies.
 
 Cyclophosphamide is genotoxic in male and female germ cells.
 Animal data indicate that exposure of oocytes to cyclophosphamide during follicular development may result in a decreased rate of implantations and viable pregnancies, and in an increased risk of malformations.
