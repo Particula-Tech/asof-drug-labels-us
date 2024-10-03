@@ -25,12 +25,14 @@ Tell patients to consult their physician prior to using salt substitutes contain
 
 Vasotec is a registered trademark of Valeant International Bermuda.
 
-Distributed by:
-
-Bionpharma Inc.
+Distributed by: Bionpharma Inc.
 
 Princeton, NJ 08540
 
-FDA-05
+MADE IN INDIA
 
-March 2023
+FDA-06
+
+December 2023
+
+948026816
