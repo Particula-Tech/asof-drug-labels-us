@@ -74,7 +74,6 @@ Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
 1. 30000000001038 Rev.
    7/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -86,11 +85,11 @@ RETROVIR
 
 INJECTION
 
+200 mg/20 mL (10 mg/mL)
+
 5 Single-Use Vials
 
 20 mL each
-
-200 mg/20 mL (10 mg/mL)
 
 10 mg/mL
 
@@ -100,22 +99,12 @@ Rx only
 
 Sterile
 
-See prescribing information for dosage information.
-
-Contains no preservative.
-The vial stopper of this product contains dry natural rubber.
-
-The vehicle contains Water for Injection, qs.
-Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.
-
 Made in India
 
-©2017 the ViiV Healthcare group of companies or its licensor.
+©2023 ViiV Healthcare group of companies or its licensor.
 
 Trademark is owned by or licensed to the ViiV Healthcare group of companies.
 
-Do not accept if the vial plastic overseal is missing or not securely fitted.
-
-1. 10000000147416 Rev.
-   8/17
+1. 62000000089608 Rev.
+   8/23
 2. 
