@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The following reactions have been reported during treatment with metronidazole formulations.
+The following reactions have been reported during treatment with metronidazole formulations:
 
 INFECTIONS AND INFESTATIONS: Vaginal candidiasis
 
@@ -16,7 +16,7 @@ NERVOUS SYSTEM DISORDERS: Encephalopathy, Seizure, Neuropathy peripheral, Ataxia
 
 EYE DISORDERS: Optic neuropathy, Saccadic eye movement
 
-EAR AND LABYRINTH DISORDERS: Vertigo
+EAR AND LABYRINTH DISORDERS: Vertigo, tinnitus, hearing impairment, hearing loss
 
 CARDIAC DISORDERS: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
 Flattening of the T-wave may be seen in electrocardiographic tracings, Tachycardia, Palpitation
@@ -27,7 +27,7 @@ GASTROINTESTINAL DISORDERS: Pancreatitis, Abdominal pain, Diarrhea, Nausea, Vomi
 
 HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see CONTRAINDICATIONS), Jaundice
 
-SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) (see WARNINGS)
 
 MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS: Muscle spasms, Arthralgia, Myalgia
 
@@ -37,7 +37,7 @@ Hepatic: Cases of severe irreversible hepatotoxicity/acute liver failure, includ
 
 REPRODUCTIVE: Dyspareunia
 
-GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Injection site reaction, Malaise, Face edema, Edema peripheral, Chest pain, Chills,
+GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Injection site reaction, Malaise, Face edema, Edema peripheral, Chest pain, Chills
 
 INVESTIGATIONS: Hepatic enzyme increased
 

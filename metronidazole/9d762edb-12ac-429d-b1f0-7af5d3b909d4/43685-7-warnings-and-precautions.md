@@ -1,5 +1,11 @@
 # WARNINGS
 
+## Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
+Symptoms can be serious and potentially life threatening.
+If symptoms or signs of SCARs develop, discontinue Metronidazole injection immediately and institute appropriate therapy.
+
 ## Central and Peripheral Nervous System Effects
 
 Severe neurological disturbances, including encephalopathy, cerebellar symptoms, convulsive seizures, peripheral neuropathy, optic neuropathy, and aseptic meningitis, have been reported in patients treated with metronidazole.
@@ -8,7 +14,7 @@ Encephalopathy associated with metronidazole may manifest as confusion or decrea
 Cerebellar toxicity associated with metronidazole may manifest as ataxia, dizziness, dysarthria, nystagmus and saccadic pursuit and is accompanied by T2 flair lesions within the dentate nuclei seen on MRI.
 Cerebellar toxicity may concurrently occur with encephalopathy, peripheral neuropathy or seizures.
 CNS symptoms and CNS lesions are generally reversible within days to weeks upon discontinuation of Metronidazole Injection, USP.
-Peripheral neuropathy, usually symmetric and mainly of sensory type has been reported and is characterized by numbness or paresthesia of an extremity.
+Peripheral neuropathy, usually symmetric and mainly of sensory type is characterized by numbness or paresthesia of an extremity.
 Symptoms may be prolonged after drug discontinuation.
 Aseptic meningitis may occur within hours of dose administration and generally resolve after metronidazole therapy is discontinued (see ADVERSE REACTIONS).
 
@@ -30,7 +36,7 @@ Reduce the dose of Metronidazole Injection, USP as necessary.
 
 ### Renal Impairment
 
-For patients with mild to moderate renal impairment does adjustment is not considered necessary as elimination half-life is not significantly altered.
+For patients with mild to moderate renal impairment dose adjustment is not considered necessary as elimination half-life is not significantly altered.
 In patients with severe renal impairment or end stage of renal disease, metronidazole and metronidazole metabolites may accumulate significantly because of reduced urinary excretion in those patients.
 Monitoring for metronidazole associated adverse events is recommended when metronidazole is administered in patients with severe renal impairment or end stage of renal disease who are not undergoing hemodialysis (see CLINICAL PHARMACOLOGY).
 
@@ -45,10 +51,11 @@ Known or previously unrecognized candidiasis may present more prominent symptoms
 
 ### Use in Patients with Blood Dyscrasias
 
-Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia, Agranulocytosis, leukopenia and neutropenia have associated with metronidazole administration.
+Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia.
+Agranulocytosis, leukopenia and neutropenia have been associated with metronidazole administration.
 Monitor complete blood count in these patients.
 
-Monitoring for Leukopenia
+### Monitoring for Leukopenia
 
 Monitoring of complete blood count (CBC) is recommended before, during, and after prolonged or repeated courses of metronidazole therapy.
 
@@ -73,6 +80,12 @@ Patients should be counseled that antibacterial drugs including Metronidazole In
 They do not treat viral infections (e.g., the common cold).
 When Metronidazole Injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Metronidazole Injection, USP or other antibacterial drugs in the future.
+
+### Severe Cutaneous Adverse Reactions
+
+Advise patients that Metronidazole Injection may increase the risk of serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Instruct the patient to be alert for skin rash, blisters, fever or other signs and symptoms of these hypersensitivity reactions.
+Advise patients to stop Metronidazole Injection immediately if they develop any type of rash and seek medical attention.
 
 ## Drug Interactions
 
