@@ -194,11 +194,11 @@ The safety pool included data from the 24-week treatment and 12-week follow-up p
 The proportion of subjects who discontinued treatment due to adverse events was 3% of the placebo group and 0% of the DUPIXENT 300 mg Q2W group.
 
 The safety population had a mean age of 49 years; 65% of subjects were female, 56% were White, 34% were Asian, and 6% were Black or African American.
-Subjects with co-morbid conditions included 43% of subjects with a history of atopy (defined as having a medical history of AD, allergic rhinitis/rhinoconjunctivitis, asthma, or food allergy), 8% of subjects with a history of hypothyroidism and 9% of subjects with a history of diabetes mellitus type 2.
+Subjects with co-morbid conditions included 43% of subjects with a history of atopy (defined as having a medical history of AD, allergic rhinitis/rhino conjunctivitis, asthma, or food allergy), 8% of subjects with a history of hypothyroidism and 9% of subjects with a history of diabetes mellitus type 2.
 
 Table 10 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in PRIME and PRIME2.
 
-Table 10: Adverse Reactions Occurring in ≥2% of the DUPIXENT Group in PRIME and PRIME2 and Greater than Placebo
+Table 10: Adverse Reactions Occurring in ≥2% of Adult Subjects with PN in the DUPIXENT Group in PRIME and PRIME2 and Greater than Placebo
 
 | N=152 n (%) | N=157 n (%) |  |
 | --- | --- | --- |
@@ -211,7 +211,41 @@ Table 10: Adverse Reactions Occurring in ≥2% of the DUPIXENT Group in PRIME an
 | MyalgiaMyalgia includes musculoskeletal pain and musculoskeletal chest pain | 5 (3%) | 2 (1%) |
 | Diarrhea | 4 (3%) | 1 (1%) |
 
-Specific Adverse Reactions
+Chronic Obstructive Pulmonary Disease
+
+A total of 1874 adult subjects with inadequately controlled chronic obstructive pulmonary disease (COPD) and an eosinophilic phenotype were evaluated in two randomized, double-blind, multicenter, parallel group, placebo-controlled trials with a 52-week treatment period (BOREAS and NOTUS) [see Clinical Studies (14.6)].
+Of those randomized, 1872 subjects received at least one dose of DUPIXENT 300 mg or placebo subcutaneously every 2 weeks (Q2W).
+The safety of DUPIXENT was assessed in the pooled safety population from BOREAS and NOTUS, which consisted of 938 adult subjects treated with DUPIXENT.
+Of the subjects treated with DUPIXENT, 98% utilized inhaled triple therapy at baseline (comprising of an inhaled corticosteroid, long-acting beta-agonist, and long-acting muscarinic antagonist), and 97% had chronic bronchitis.
+
+Table 11 summarizes the adverse reactions that occurred in at least 2% of subjects treated with DUPIXENT and at a higher rate than placebo in BOREAS and NOTUS trials.
+
+Table 11: Adverse Reactions That Occurred in ≥2% of Adult Subjects with COPD Treated with DUPIXENT in BOREAS and NOTUS Trials (Pooled Safety Population) and Greater than Placebo
+
+| N=938 n (%) | N=934 n (%) |  |
+| --- | --- | --- |
+| Adverse Reaction | BOREAS and NOTUS |  |
+| DUPIXENT 300 mg Q2W | Placebo |  |
+| Viral InfectionConsists of multiple similar terms. | 133 (14.2) | 115 (12.3) |
+| Headache | 73 (7.8) | 62 (6.6) |
+| Nasopharyngitis | 73 (7.8) | 69 (7.4) |
+| Back Pain | 42 (4.5) | 29 (3.1) |
+| Diarrhea | 35 (3.7) | 30 (3.2) |
+| Arthralgia | 29 (3.1) | 25 (2.7) |
+| Urinary Tract Infection | 28 (3.0) | 18 (1.9) |
+| Local Administration Reaction | 26 (2.8) | 6 (0.6) |
+| Injection Site Reaction | 11 (1.2) | 2 (0.2) |
+| Rhinitis | 24 (2.6) | 17 (1.8) |
+| EosinophiliaEosinophilia was defined as blood eosinophils ≥3,000 cells/mcL or deemed by the investigator to be an adverse event. None met the criteria for serious eosinophilic conditions. | 22 (2.3) | 7 (0.7) |
+| Toothache | 20 (2.1) | 11 (1.2) |
+| Gastritis | 19 (2) | 7 (0.7) |
+
+Less Common Adverse Reaction in Subjects with COPD: Cholecystitis
+
+In adult subjects with COPD, cholecystitis was reported in 6 subjects (0.6%) in the DUPIXENT group compared to 1 subject (0.1%) in the placebo group.
+Among these subjects, serious cholecystitis was reported in 4 (0.4%) of the DUPIXENT group compared with 0% of the placebo group.
+
+Specific Adverse Reactions for AD, Asthma, CRSwNP, EoE, PN and COPD
 
 Conjunctivitis and Keratitis
 
@@ -239,6 +273,8 @@ In the 36-week active treatment extension period of Study EoE-2 Part B, conjunct
 Among subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; all of these subjects recovered or were recovering during the treatment period.
 There were no cases of keratitis reported in the PN development program [see Warnings and Precautions (5.2)].
 
+Among subjects with COPD, the frequency of conjunctivitis and keratitis was 1.4% and 0.1% in the DUPIXENT group and 1% and 0% in the placebo group, respectively [see Warnings and Precautions (5.2)].
+
 Eczema Herpeticum and Herpes Zoster
 
 The rate of eczema herpeticum was similar in the placebo and DUPIXENT groups in the AD trials.
@@ -252,6 +288,9 @@ Among subjects with CRSwNP or EoE there were no reported cases of herpes zoster 
 
 Among subjects with PN, herpes zoster and ophthalmic herpes zoster were each reported in <1% of the DUPIXENT group (1 per 100 subject-years) and 0% of the placebo group.
 
+Among subjects with COPD, herpes zoster was reported in 0.9% of the DUPIXENT group and 0.2% of the placebo group.
+Ophthalmic herpes zoster was reported in 0.1% of the DUPIXENT group and 0.2% of the placebo group.
+
 Hypersensitivity Reactions
 
 Hypersensitivity reactions were reported in <1% of DUPIXENT-treated subjects.
@@ -259,7 +298,7 @@ These included anaphylaxis, serum sickness or serum sickness-like reactions, gen
 
 Eosinophils
 
-DUPIXENT-treated subjects with AD, asthma, and CRSwNP had a greater initial increase from baseline in blood eosinophil count compared to subjects treated with placebo.
+DUPIXENT-treated subjects with AD, asthma, CRSwNP, and COPD had a greater initial increase from baseline in blood eosinophil count compared to subjects treated with placebo.
 In adult subjects with AD (SOLO 1, SOLO 2, and AD-1021), the mean and median increases in blood eosinophils from baseline to Week 4 were 100 and 0 cells/mcL, respectively.
 In pediatric subjects <6 years old with AD, the mean and median increases from baseline to week 4 were 478 and 90 cells/mcL, respectively.
 
@@ -268,25 +307,31 @@ In subjects 6 to 11 years of age with asthma (VOYAGE), the mean and median incre
 
 In adult subjects with CRSwNP (SINUS-24 and SINUS-52), the mean and median increases in blood eosinophils from baseline to Week 16 were 150 and 50 cells/mcL, respectively.
 
+In subjects with COPD (BOREAS and NOTUS), the mean and median increases in blood eosinophils from baseline to Week 8 were 60 and 0 cells/mcL, respectively.
+
 An increase from baseline in blood eosinophil count was not observed in adult and pediatric subjects 12 years of age and older with EoE treated with DUPIXENT as compared to placebo (Study EoE-1).
 In pediatric subjects 1 to 11 years of age with EoE (Study EoE-2 Part A), blood eosinophil counts were generally consistent with those observed in Study EoE-1.
 
 In subjects with PN (PRIME and PRIME2), the mean and median decrease in blood eosinophils from baseline to Week 4 were 9 and 10 cells/mcL, respectively.
 
+In the trials for the COPD indication, treatment-emergent eosinophilia (≥500 cells/mcL) was higher in DUPIXENT (41.7%) than in the placebo group (39.4%); none of the cases were associated with clinical symptoms, and treatment-emergent eosinophilia (≥1000 cells/mcL) was higher in DUPIXENT (13.6%) than in the placebo group (8.1%).
+
 Across the trials for AD, asthma, and CRSwNP indications, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was similar in DUPIXENT and placebo groups.
+
 In the trials for the PN indication, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was lower in DUPIXENT than in the placebo group.
 
-Treatment-emergent eosinophilia (≥5,000 cells/mcL) was reported in <3% of DUPIXENT-treated subjects and <0.5% in placebo-treated subjects (SOLO 1, SOLO 2, and AD-1021; DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52; PRIME and PRIME2).
-Blood eosinophil counts declined to near baseline or remained below baseline levels (PRIME and PRIME2) during study treatment.
+Treatment-emergent eosinophilia (≥5,000 cells/mcL) was reported in <3% of DUPIXENT-treated subjects and <0.5% in placebo-treated subjects (SOLO 1, SOLO 2, and AD-1021; DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52; PRIME and PRIME2; BOREAS and NOTUS).
+Blood eosinophil counts declined to near baseline or remained below baseline levels (PRIME and PRIME2; BOREAS and NOTUS) during study treatment.
 In study AD-1539, treatment-emergent eosinophilia (≥5,000 cells/mcL) was reported in 8% of DUPIXENT-treated subjects and 0% in placebo-treated subjects [see Warnings and Precautions (5.3)].
 
-Cardiovascular
+Cardiovascular Thromboembolic Events
 
 In the 1-year placebo-controlled trial in adult and pediatric subjects 12 years of age and older with asthma (QUEST), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.2%) of the DUPIXENT 200 mg Q2W group, 4 (0.6%) of the DUPIXENT 300 mg Q2W group, and 2 (0.3%) of the placebo group.
 
 In the 1-year placebo-controlled trial in subjects with AD (CHRONOS), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.9%) of the DUPIXENT + TCS 300 mg Q2W group, 0 (0.0%) of the DUPIXENT + TCS 300 mg QW group, and 1 (0.3%) of the placebo + TCS group.
 
 In the 24-week placebo-controlled trial in adult subjects with CRSwNP (SINUS-24), cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) were reported in 1 (0.7%) of the DUPIXENT group and 0 (0.0%) of the placebo group.
+
 In the 1-year placebo-controlled trial in adult subjects with CRSwNP (SINUS-52), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
 
 In the 24-week placebo-controlled trial in subjects with EoE (Study EoE-1 Parts A and B), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.

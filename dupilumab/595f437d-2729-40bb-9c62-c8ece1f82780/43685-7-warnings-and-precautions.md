@@ -23,6 +23,8 @@ Among subjects with EoE, there were no reports of conjunctivitis and keratitis i
 In subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; these subjects recovered or were recovering during the treatment period.
 There were no cases of keratitis reported in the PN development program [see Adverse Reactions (6.1)].
 
+Among subjects with COPD, the frequency of conjunctivitis and keratitis was 1.4% and 0.1% in the DUPIXENT group and 1% and 0% in the placebo group, respectively [see Adverse Reactions (6.1)].
+
 Conjunctivitis and keratitis adverse events have also been reported with DUPIXENT in postmarketing settings, predominantly in AD patients.
 Some patients reported visual disturbances (e.g., blurred vision) associated with conjunctivitis or keratitis.
 
@@ -37,11 +39,11 @@ Healthcare providers should be alert to vasculitic rash, worsening pulmonary sym
 Cases of eosinophilic pneumonia were reported in adult subjects who participated in the asthma development program and cases of vasculitis consistent with eosinophilic granulomatosis with polyangiitis have been reported with DUPIXENT in adult subjects who participated in the asthma development program as well as in adult subjects with co-morbid asthma in the CRSwNP development program.
 A causal association between DUPIXENT and these conditions has not been established.
 
-## 5.4 Acute Asthma Symptoms or Deteriorating Disease
+## 5.4 Acute Symptoms of Asthma or Chronic Obstructive Pulmonary Disease or Acute Deteriorating Disease
 
-DUPIXENT should not be used to treat acute asthma symptoms or acute exacerbations.
+DUPIXENT should not be used to treat acute symptoms or acute exacerbations of asthma or COPD.
 Do not use DUPIXENT to treat acute bronchospasm or status asthmaticus.
-Patients should seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment with DUPIXENT.
+Patients should seek medical advice if their asthma or COPD remains uncontrolled or worsens after initiation of treatment with DUPIXENT.
 
 ## 5.5 Risk Associated with Abrupt Reduction of Corticosteroid Dosage
 

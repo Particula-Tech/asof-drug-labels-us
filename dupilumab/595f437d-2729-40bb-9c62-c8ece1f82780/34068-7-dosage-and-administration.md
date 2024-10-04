@@ -118,7 +118,11 @@ Table 5: Dosage of DUPIXENT in Adult and Pediatric Patients 1 Year of Age and Ol
 
 The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections) followed by 300 mg given every other week (Q2W).
 
-## 2.8 Missed Doses
+## 2.8 Recommended Dosage for Chronic Obstructive Pulmonary Disease
+
+The recommended dosage of DUPIXENT for adult patients is 300 mg given every other week (Q2W).
+
+## 2.9 Missed Doses
 
 If a weekly dose is missed, administer the dose as soon as possible, and start a new weekly schedule from the date of the last administered dose.
 
@@ -128,7 +132,7 @@ If the missed dose is not administered within 7 days, wait until the next dose o
 If an every 4 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
 
-## 2.9 Preparation for Use
+## 2.10 Preparation for Use
 
 Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, and 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen) without removing the needle cap.
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.

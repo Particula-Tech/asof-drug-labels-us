@@ -24,10 +24,10 @@ Eosinophilic Conditions
 
 Advise patients to notify their healthcare provider if they present with clinical features of eosinophilic pneumonia or vasculitis consistent with eosinophilic granulomatosis with polyangiitis [see Warnings and Precautions (5.3)].
 
-Not for Acute Asthma Symptoms or Deteriorating Disease
+Not for Acute Symptoms of Asthma or Chronic Obstructive Pulmonary Disease or Acute Deteriorating Disease
 
-Inform patients that DUPIXENT does not treat acute asthma symptoms or acute exacerbations.
-Inform patients to seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment with DUPIXENT [see Warnings and Precautions (5.4)].
+Inform patients that DUPIXENT does not treat acute symptoms or acute exacerbations of asthma or COPD.
+Inform patients to seek medical advice if their asthma or COPD remains uncontrolled or worsens after initiation of treatment with DUPIXENT [see Warnings and Precautions (5.4)].
 
 Reduction in Corticosteroid Dosage
 

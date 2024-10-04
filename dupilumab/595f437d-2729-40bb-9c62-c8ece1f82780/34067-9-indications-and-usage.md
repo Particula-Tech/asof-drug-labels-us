@@ -24,3 +24,11 @@ DUPIXENT is indicated for the treatment of adult and pediatric patients aged 1 y
 ## 1.5 Prurigo Nodularis
 
 DUPIXENT is indicated for the treatment of adult patients with prurigo nodularis (PN).
+
+## 1.6 Chronic Obstructive Pulmonary Disease
+
+DUPIXENT is indicated as an add-on maintenance treatment of adult patients with inadequately controlled chronic obstructive pulmonary disease (COPD) and an eosinophilic phenotype.
+
+Limitations of Use
+
+DUPIXENT is not indicated for the relief of acute bronchospasm.

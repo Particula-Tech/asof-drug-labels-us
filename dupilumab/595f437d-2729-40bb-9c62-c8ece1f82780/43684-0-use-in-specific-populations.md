@@ -94,7 +94,7 @@ Safety and effectiveness in pediatric patients younger than 6 years of age with 
 CRSwNP
 
 The safety and effectiveness of DUPIXENT for add-on maintenance treatment in patients with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP) have been established in pediatric patients aged 12 years and older.
-Use of DUPIXENT for this indication is supported by evidence from adequate and well-controlled studies of DUPIXENT as add-on maintenance treatment in adults with inadequately controlled CRSwNP (SINUS-24 and SINUS- 52) with the following additional data:
+Use of DUPIXENT for this indication is supported by evidence from adequate and well-controlled studies of DUPIXENT as add-on maintenance treatment in adults with inadequately controlled CRSwNP (SINUS-24 and SINUS-52) with the following additional data:
 
 - Pharmacokinetic (PK) data from adult and pediatric patients aged 12 years and older with moderate-to-severe asthma and adult patients with inadequately controlled CRSwNP
 - Safety data in pediatric patients aged 12 years and older with moderate-to-severe asthma [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)]
@@ -113,6 +113,11 @@ Prurigo Nodularis
 
 Safety and effectiveness in pediatric patients younger than 18 years of age with PN have not been established.
 
+Chronic Obstructive Pulmonary Disease
+
+The safety and effectiveness in pediatric patients less than 18 years of age with COPD have not been established.
+COPD is largely a disease of adult patients.
+
 ## 8.5 Geriatric Use
 
 Of the 1539 subjects with AD exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 70 subjects were 65 years or older.
@@ -128,3 +133,6 @@ Clinical studies of DUPIXENT in EoE did not include sufficient numbers of subjec
 
 Of the 152 subjects with PN exposed to DUPIXENT, a total of 37 were 65 years or older including 8 subjects 75 years or older.
 Clinical trials did not include a sufficient number of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
+
+Of the 1874 subjects with COPD randomized in clinical trials of DUPIXENT, a total of 1072 were 65 years or older, while 244 subjects were 75 years or older.
+No overall differences in safety or effectiveness of DUPIXENT have been observed between subjects 65 years of age and older and younger adult subjects.

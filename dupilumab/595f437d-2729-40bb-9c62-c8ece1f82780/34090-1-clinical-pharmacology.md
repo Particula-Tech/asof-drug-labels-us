@@ -5,7 +5,7 @@
 Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes.
 Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor.
 
-Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, and PN.
+Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, PN, and COPD.
 Multiple cell types that express IL-4Rα (e.g., mast cells, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation.
 Blocking IL-4Rα with dupilumab inhibits IL-4 and IL-13 cytokine-induced inflammatory responses, including the release of proinflammatory cytokines, chemokines, nitric oxide, and IgE.
 The mechanism of dupilumab action has not been definitively established.
@@ -31,15 +31,15 @@ Antibody responses to other non-live vaccines were also not assessed.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE and PN.
+The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE, PN, and COPD.
 
 Absorption
 
 Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilumab reached peak mean ± SD concentrations (Cmax) of 70.1±24.1 mcg/mL, 41.8±12.4 mcg/mL, or 30.5±9.39 mcg/mL, respectively, by approximately 1 week post dose.
 Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
-Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg administered Q2W.
+Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 55.3±34.3 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg administered Q2W.
 
-The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, and PN subjects, ranging between 61% and 64%.
+The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, PN, and COPD subjects, ranging between 61% and 64%.
 
 Distribution
 
@@ -75,7 +75,7 @@ In pediatric subjects 6 months to 5 years of age, clearance increased with age.
 
 Geriatric Patients
 
-In subjects who are 65 years and older, the mean ± SD steady-state trough concentrations of dupilumab were 69.4±31.4 mcg/mL and 166±62.3 mcg/mL, respectively, for 300 mg administered Q2W and weekly, and 39.7±21.7 mcg/mL for 200 mg administered Q2W.
+No overall differences in the pharmacokinetics of dupilumab were observed between elderly and younger adult subjects.
 
 Pediatric Patients
 
@@ -154,6 +154,10 @@ Similar results were observed in pediatric subjects 1 to 11 years of age with Eo
 Prurigo Nodularis
 
 Approximately 8% of subjects with PN who received DUPIXENT 300 mg Q2W for 24 weeks developed antibodies to DUPIXENT; approximately 1% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
+
+Chronic Obstructive Pulmonary Disease
+
+Approximately 8% of subjects with COPD who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 3% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
 
 The antibody titers detected in subjects who received DUPIXENT were mostly low.
 In subjects who received DUPIXENT, development of high titer antibodies to DUPIXENT was associated with lower serum dupilumab concentrations [see Clinical Pharmacology (12.3)].
