@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216318"
+  ],
+  "inn": "testosterone",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-055-01",
+    "24338-056-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "testosterone cypionate",
+      "name": "AZMIRO"
+    }
+  ],
+  "setid": "235b5625-570d-3fba-e063-6394a90aa2d1",
+  "source": "dailymed"
+}
