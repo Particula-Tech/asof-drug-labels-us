@@ -8,6 +8,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Thrombocytopenia [see Warnings and Precautions (5.5)]
 - •Heparin Resistance [see Warnings and Precautions (5.7)]
 - •Hypersensitivity [see Warnings and Precautions (5.8)]
+- •Hyperkalemia [see Warnings and Precautions (5.9)]
 
 ## 6.1 Postmarketing Experience
 
