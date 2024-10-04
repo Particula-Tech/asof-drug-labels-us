@@ -1,6 +1,8 @@
 # Instructions for Use
 
-Lansoprazole Delayed-Release Capsules USP, for oral use (lan soe′ pra zole)
+Lansoprazole (lan soe′ pra zole)
+
+Delayed-Release Capsules, for oral use
 
 Important:
 
@@ -56,6 +58,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75102577
+7510XXXX
 
-Revised: 3/2024 MX:LANS:R13mmh/MX:MG:LANS:R6m/MX:MG:LANS:R6mh
+Revised: 9/2024 MX:LANS:R14mmh/MX:MG:LANS:R7m/MX:MG:LANS:R7mh

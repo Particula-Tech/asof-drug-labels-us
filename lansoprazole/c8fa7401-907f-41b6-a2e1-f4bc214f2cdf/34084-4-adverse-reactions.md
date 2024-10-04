@@ -15,15 +15,15 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Worldwide, over 10,000 patients have been treated with lansoprazole in Phase 2 or Phase 3 clinical trials involving various dosages and durations of treatment.
-In general, lansoprazole treatment has been well-tolerated in both short-term and long-term trials.
+Worldwide, over 10,000 patients have been treated with lansoprazole delayed-release capsules in Phase 2 or Phase 3 clinical trials involving various dosages and durations of treatment.
+In general, lansoprazole delayed-release capsules treatment has been well-tolerated in both short-term and long-term trials.
 
-The following adverse reactions were reported by the treating physician to have a possible or probable relationship to drug in 1% or more of lansoprazole-treated patients and occurred at a greater rate in lansoprazole-treated patients than placebo-treated patients in Table 1.
+The following adverse reactions were reported by the treating physician to have a possible or probable relationship to drug in 1% or more of lansoprazole delayed-release capsules-treated patients and occurred at a greater rate in lansoprazole delayed-release capsules-treated patients than placebo-treated patients in Table 1.
 
 Table 1.
-Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
+Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Delayed-Release Capsules Studies
 
-| Body System/Adverse Reaction | Lansoprazole(N = 2768)% | Placebo(N = 1023)% |
+| Body System/Adverse Reaction | Lansoprazole Delayed- Release Capsules(N = 2768)% | Placebo(N = 1023)% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Abdominal Pain | 2.1 | 1.2 |
@@ -33,16 +33,16 @@ Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-T
 | Nausea | 1.3 | 1.2 |
 
 Headache was also seen at greater than 1% incidence but was more common on placebo.
-The incidence of diarrhea was similar between patients who received placebo and patients who received 15 and 30 mg of lansoprazole, but higher in the patients who received 60 mg of lansoprazole (2.9, 1.4, 4.2, and 7.4%, respectively).
+The incidence of diarrhea was similar between patients who received placebo and patients who received 15 and 30 mg of lansoprazole delayed-release capsules, but higher in the patients who received 60 mg of lansoprazole delayed-release capsules (2.9, 1.4, 4.2, and 7.4%, respectively).
 
 The most commonly reported possibly or probably treatment-related adverse event during maintenance therapy was diarrhea.
 
-In the risk reduction study of lansoprazole for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with lansoprazole, misoprostol, and placebo was 5, 22, and 3%, respectively.
+In the risk reduction study of lansoprazole delayed-release capsules for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with lansoprazole delayed-release capsules, misoprostol, and placebo was 5, 22, and 3%, respectively.
 
 Another study for the same indication, where patients took either a COX-2 inhibitor or lansoprazole and naproxen, demonstrated that the safety profile was similar to the prior study.
-Additional reactions from this study not previously observed in other clinical trials with lansoprazole included contusion, duodenitis, epigastric discomfort, esophageal disorder, fatigue, hunger, hiatal hernia, hoarseness, impaired gastric emptying, metaplasia, and renal impairment.
+Additional reactions from this study not previously observed in other clinical trials with lansoprazole delayed-release capsules included contusion, duodenitis, epigastric discomfort, esophageal disorder, fatigue, hunger, hiatal hernia, hoarseness, impaired gastric emptying, metaplasia, and renal impairment.
 
-Additional adverse experiences occurring in less than 1% of patients or subjects who received lansoprazole in domestic trials are shown below:
+Additional adverse experiences occurring in less than 1% of patients or subjects who received lansoprazole delayed-release capsules in domestic trials are shown below:
 
 Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, candidiasis, carcinoma, chest pain (not otherwise specified), chills, edema, fever, flu syndrome, halitosis, infection (not otherwise specified), malaise, neck pain, neck rigidity, pain, pelvic pain
 
@@ -95,12 +95,12 @@ Urogenital System: interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
 
-In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no adverse reactions peculiar to these drug combinations were observed.
-Adverse reactions that have occurred have been limited to those that had been previously reported with lansoprazole, amoxicillin, or clarithromycin.
+In clinical trials using combination therapy with lansoprazole delayed-release capsules plus amoxicillin and clarithromycin, and lansoprazole delayed-release capsules plus amoxicillin, no adverse reactions peculiar to these drug combinations were observed.
+Adverse reactions that have occurred have been limited to those that had been previously reported with lansoprazole delayed-release capsules, amoxicillin, or clarithromycin.
 
 ### Triple Therapy
 
-#### Lansoprazole/Amoxicillin/Clarithromycin
+#### Lansoprazole Delayed-Release Capsules/Amoxicillin/Clarithromycin
 
 The most frequently reported adverse reactions for patients who received triple therapy for 14 days were diarrhea (7%), headache (6%), and taste perversion (5%).
 There were no statistically significant differences in the frequency of reported adverse reactions between the 10 and 14 day triple therapy regimens.
@@ -108,24 +108,24 @@ No treatment-emergent adverse reactions were observed at significantly higher ra
 
 ### Dual Therapy
 
-#### Lansoprazole/Amoxicillin
+#### Lansoprazole Delayed-Release Capsules/Amoxicillin
 
-The most frequently reported adverse reactions for patients who received lansoprazole three times daily plus amoxicillin three times daily dual therapy were diarrhea (8%) and headache (7%).
-No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole three times daily plus amoxicillin three times daily dual therapy than with lansoprazole alone.
+The most frequently reported adverse reactions for patients who received lansoprazole delayed-release capsules three times daily plus amoxicillin three times daily dual therapy were diarrhea (8%) and headache (7%).
+No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole delayed-release capsules three times daily plus amoxicillin three times daily dual therapy than with lansoprazole delayed-release capsules alone.
 
 For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the Adverse Reactions section of their prescribing information.
 
 ## 6.4 Laboratory Values
 
-The following changes in laboratory parameters in patients who received lansoprazole were reported as adverse reactions:
+The following changes in laboratory parameters in patients who received lansoprazole delayed-release capsules were reported as adverse reactions:
 
 Abnormal liver function tests, increased SGOT (AST), increased SGPT (ALT), increased creatinine, increased alkaline phosphatase, increased globulins, increased GGTP, increased/decreased/abnormal WBC, abnormal AG ratio, abnormal RBC, bilirubinemia, blood potassium increased, blood urea increased, crystal urine present, eosinophilia, hemoglobin decreased, hyperlipemia, increased/decreased electrolytes, increased/decreased cholesterol, increased glucocorticoids, increased LDH, increased/decreased/abnormal platelets, increased gastrin levels and positive fecal occult blood.
 Urine abnormalities such as albuminuria, glycosuria, and hematuria were also reported.
 Additional isolated laboratory abnormalities were reported.
 
-In the placebo-controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
-None of these patients who received lansoprazole reported jaundice at any time during the study.
+In the placebo-controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2677) patients, who received placebo and lansoprazole delayed-release capsules, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
+None of these patients who received lansoprazole delayed-release capsules reported jaundice at any time during the study.
 
-In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
+In clinical trials using combination therapy with lansoprazole delayed-release capsules plus amoxicillin and clarithromycin, and lansoprazole delayed-release capsules plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
 
 For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the Adverse Reactions section of their prescribing information.

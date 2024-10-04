@@ -19,9 +19,9 @@ Lansoprazole inhibited the normal increases in secretion volume, acidity and aci
 The intragastric pH results of a five day, pharmacodynamic, crossover study of 15 and 30 mg of once daily lansoprazole are presented in Table 6:
 
 Table 6.
-Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole Dosing
+Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole Delayed-Release Capsules Dosing
 
-|  |  | Lansoprazole |  |  |  |
+|  |  | Lansoprazole Delayed-Release Capsules |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Parameter | BaselineValue | 15 mg |  | 30 mg |  |
 | Day 1 | Day 5 | Day 1 | Day 5 |  |  |
@@ -35,15 +35,15 @@ After the initial dose in this study, increased gastric pH was seen within one t
 After multiple daily dosing, increased gastric pH was seen within the first hour postdosing with 30 mg of lansoprazole and within one to two hours postdosing with 15 mg of lansoprazole.
 
 Acid suppression may enhance the effect of antimicrobials in eradicating Helicobacter pylori (H. pylori).
-The percentage of time gastric pH was elevated above five and six was evaluated in a crossover study of lansoprazole given daily, twice daily and three times daily (Table 7).
+The percentage of time gastric pH was elevated above five and six was evaluated in a crossover study of lansoprazole delayed-release capsules given daily, twice daily and three times daily (Table 7).
 
 Table 7.
 Mean Antisecretory Effects After Five Days of Twice Daily and Three Times Daily Dosing
 
-|  | Lansoprazole |  |  |  |
+|  | Lansoprazole Delayed-Release Capsules |  |  |  |
 | --- | --- | --- | --- | --- |
 | Parameter | 30 mgdaily | 15 mgtwice daily | 30 mgtwice daily | 30 mgthree times daily |
-| % Time Gastric pH > 5 | 43 | 47 | 59(p < 0.05) vs lansoprazole 30 mg daily. | 77(p < 0.05) vs lansoprazole 30 mg daily, 15 and 30 mg twice daily. |
+| % Time Gastric pH > 5 | 43 | 47 | 59(p < 0.05) vs lansoprazole delayed-release capsules 30 mg daily. | 77(p < 0.05) vs lansoprazole delayed-release capsules 30 mg daily, 15 and 30 mg twice daily. |
 | % Time Gastric pH > 6 | 20 | 23 | 28 | 45 |
 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
@@ -118,7 +118,7 @@ Therefore, the plasma elimination half-life of lansoprazole does not reflect its
 
 #### Excretion
 
-Following single-dose oral administration of lansoprazole, virtually no unchanged lansoprazole was excreted in the urine.
+Following single-dose oral administration of lansoprazole delayed-release capsules, virtually no unchanged lansoprazole was excreted in the urine.
 In one study, after a single oral dose of 14C-lansoprazole, approximately one-third of the administered radiation was excreted in the urine and two-thirds was recovered in the feces.
 This implies a significant biliary excretion of the lansoprazole metabolites.
 
@@ -147,8 +147,8 @@ In a study comparing 12 male and six female human subjects who received lansopra
 
 #### Racial or Ethnic Groups
 
-The pooled mean pharmacokinetic parameters of lansoprazole from twelve U.S. studies (N = 513) were compared to the mean pharmacokinetic parameters from two Asian studies (N = 20).
-The mean AUCs of lansoprazole in Asian subjects were approximately twice those seen in pooled U.S. data; however, the inter-individual variability was high.
+The pooled mean pharmacokinetic parameters of lansoprazole delayed-release capsules from twelve U.S. studies (N = 513) were compared to the mean pharmacokinetic parameters from two Asian studies (N = 20).
+The mean AUCs of lansoprazole delayed-release capsules in Asian subjects were approximately twice those seen in pooled U.S. data; however, the inter-individual variability was high.
 The Cmax values were comparable.
 
 #### Patients with Renal Impairment
@@ -160,10 +160,10 @@ Therefore, the pharmacokinetics of lansoprazole were not clinically different in
 
 #### Patients with Hepatic Impairment
 
-In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg lansoprazole for seven days.
+In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg lansoprazole delayed-release capsules for seven days.
 The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 to four hours (Child-Pugh A) or five hours (Child-Pugh B).
 
-In patients with compensated and decompensated cirrhosis, there was an approximate 6- and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg lansoprazole [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
+In patients with compensated and decompensated cirrhosis, there was an approximate 6- and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg lansoprazole delayed-release capsules [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 ### Drug Interaction Studies
 
@@ -172,38 +172,38 @@ In patients with compensated and decompensated cirrhosis, there was an approxima
 ##### Cytochrome P450 Interactions
 
 Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
-Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
+Studies have shown that lansoprazole delayed-release capsules does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
 These compounds are metabolized through various cytochrome P450 isozymes including CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
 
 ##### Theophylline
 
-When lansoprazole was administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen.
+When lansoprazole delayed-release capsules were administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen.
 Because of the small magnitude and the direction of the effect on theophylline clearance, this interaction is unlikely to be of clinical concern [see Drug Interactions (7)].
 
 ##### Methotrexate and 7-hydroxymethotrexate
 
-In an open-label, single-arm, eight day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of seven days of naproxen 500 mg twice daily and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
+In an open-label, single-arm, eight day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of seven days of naproxen 500 mg twice daily and lansoprazole delayed-release capsules 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
 While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
 However, this study was conducted with low doses of methotrexate.
 A drug interaction study with high doses of methotrexate has not been conducted [see Warnings and Precautions (5.10)].
 
 ##### Amoxicillin
 
-Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.
+Lansoprazole delayed-release capsules have also been shown to have no clinically significant interaction with amoxicillin.
 
 ##### Sucralfate
 
-In a single-dose crossover study examining lansoprazole 30 mg administered alone and concomitantly with sucralfate 1 gram, absorption of lansoprazole was delayed and the bioavailability was reduced by 17% when administered concomitantly with sucralfate [see Dosage and Administration (2.4), Drug Interactions (7)].
+In a single-dose crossover study examining lansoprazole delayed-release capsules 30 mg administered alone and concomitantly with sucralfate 1 gram, absorption of lansoprazole was delayed and the bioavailability was reduced by 17% when administered concomitantly with sucralfate [see Dosage and Administration (2.4), Drug Interactions (7)].
 
 ##### Antacids
 
-In clinical trials, antacids were administered concomitantly with lansoprazole and there was no evidence of a change in the efficacy of lansoprazole.
+In clinical trials, antacids were administered concomitantly with lansoprazole delayed-release capsules and there was no evidence of a change in the efficacy of lansoprazole delayed-release capsules.
 
 ##### Clopidogrel
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n = 40), for nine days was conducted.
-The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was coadministered compared to administration of clopidogrel alone.
+A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole delayed-release capsules 30 mg (n = 40), for nine days was conducted.
+The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole delayed-release capsules were coadministered compared to administration of clopidogrel alone.
 
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
 The effect on exposure to the active metabolite of clopidogrel and on clopidogrel-induced platelet inhibition is not considered clinically important.

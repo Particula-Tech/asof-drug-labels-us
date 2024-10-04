@@ -53,11 +53,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of lansoprazole delayed-release capsules have been established in pediatric patients one year to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis.
 
-In clinical studies of symptomatic GERD and erosive esophagitis, lansoprazole was not administered beyond 12 weeks in patients one year to 11 years of age.
+In clinical studies of symptomatic GERD and erosive esophagitis, lansoprazole delayed-release capsules were not administered beyond 12 weeks in patients one year to 11 years of age.
 It is not known if lansoprazole delayed-release capsules are safe and effective if used longer than the recommended duration.
 Do not exceed the recommended dose and duration of use in pediatric patients (see Juvenile Animal Toxicity Data).
 
-Lansoprazole was not effective in pediatric patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo-controlled study.
+Lansoprazole delayed-release capsules were not effective in pediatric patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo-controlled study.
 Therefore, safety and effectiveness have not been established in patients less than one year of age.
 Nonclinical studies in juvenile rats have demonstrated an adverse effect of heart valve thickening and bone changes at lansoprazole doses higher than the maximum recommended equivalent human dose.
 
@@ -82,11 +82,11 @@ Therefore, these results do not support the use of lansoprazole in treating symp
 
 ### One Year to 11 Years of Age
 
-In an uncontrolled, open-label, U.S. multicenter study, 66 pediatric patients (one year to 11 years of age) with GERD were assigned, based on body weight, to receive an initial dose of either lansoprazole 15 mg daily if ≤ 30 kg or lansoprazole 30 mg daily if greater than 30 kg administered for eight to 12 weeks.
-The lansoprazole dose was increased (up to 30 mg twice daily) in 24 of 66 pediatric patients after two or more weeks of treatment if they remained symptomatic.
+In an uncontrolled, open-label, U.S. multicenter study, 66 pediatric patients (one year to 11 years of age) with GERD were assigned, based on body weight, to receive an initial dose of either lansoprazole delayed-release capsules 15 mg daily if ≤ 30 kg or lansoprazole delayed-release capsules 30 mg daily if greater than 30 kg administered for eight to 12 weeks.
+The lansoprazole delayed-release capsules dose was increased (up to 30 mg twice daily) in 24 of 66 pediatric patients after two or more weeks of treatment if they remained symptomatic.
 At baseline, 85% of patients had mild to moderate overall GERD symptoms (assessed by investigator interview), 58% had non-erosive GERD and 42% had erosive esophagitis (assessed by endoscopy).
 
-After eight to 12 weeks of lansoprazole treatment, the intent-to-treat analysis demonstrated an approximate 50% reduction in frequency and severity of GERD symptoms.
+After eight to 12 weeks of lansoprazole delayed-release capsules treatment, the intent-to-treat analysis demonstrated an approximate 50% reduction in frequency and severity of GERD symptoms.
 
 Twenty-one of 27 erosive esophagitis patients were healed at eight weeks and 100% of patients were healed at 12 weeks by endoscopy (Table 4).
 
@@ -101,23 +101,23 @@ GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Pati
 | Improvement in Overall GERD Symptoms | 81% (22/27) |
 | Healing Rate | 100% (27/27) |
 
-In a study of 66 pediatric patients in the age group one year to 11 years old after treatment with lansoprazole given orally in doses of 15 mg daily to 30 mg twice daily, increases in serum gastrin levels were similar to those observed in adult studies.
+In a study of 66 pediatric patients in the age group one year to 11 years old after treatment with lansoprazole delayed-release capsules given orally in doses of 15 mg daily to 30 mg twice daily, increases in serum gastrin levels were similar to those observed in adult studies.
 Median fasting serum gastrin levels increased 89% from 51 pg/mL at baseline to 97 pg/mL [interquartile range (25th to 75th percentile) of 71 to 130 pg/mL] at the final visit.
 
 The pediatric safety of lansoprazole delayed-release capsules has been assessed in 66 pediatric patients aged one to 11 years of age.
-Of the 66 patients with GERD, 85% (56/66) took lansoprazole for eight weeks and 15% (10/66) took it for 12 weeks.
+Of the 66 patients with GERD, 85% (56/66) took lansoprazole delayed-release capsules for eight weeks and 15% (10/66) took it for 12 weeks.
 
 The most frequently reported (two or more patients) treatment-related adverse reactions in patients one to 11 years of age (N = 66) were constipation (5%) and headache (3%).
 
 ### Twelve Years to 17 Years of Age
 
-In an uncontrolled, open-label, U.S. multicenter study, 87 adolescent patients (12 years to 17 years of age) with symptomatic GERD were treated with lansoprazole for eight to 12 weeks.
+In an uncontrolled, open-label, U.S. multicenter study, 87 adolescent patients (12 years to 17 years of age) with symptomatic GERD were treated with lansoprazole delayed-release capsules for eight to 12 weeks.
 Baseline upper endoscopies classified these patients into two groups: 64 (74%) non-erosive GERD and 23 (26%) erosive esophagitis (EE).
-The non-erosive GERD patients received lansoprazole 15 mg daily for eight weeks and the EE patients received lansoprazole 30 mg daily for eight to 12 weeks.
+The non-erosive GERD patients received lansoprazole delayed-release capsules 15 mg daily for eight weeks and the EE patients received lansoprazole delayed-release capsules 30 mg daily for eight to 12 weeks.
 At baseline, 89% of these patients had mild to moderate overall GERD symptoms (assessed by investigator interviews).
-During eight weeks of lansoprazole treatment, adolescent patients experienced a 63% reduction in frequency and a 69% reduction in severity of GERD symptoms based on diary results.
+During eight weeks of lansoprazole delayed-release capsules treatment, adolescent patients experienced a 63% reduction in frequency and a 69% reduction in severity of GERD symptoms based on diary results.
 
-Twenty-one of 22 (95.5%) adolescent erosive esophagitis patients were healed after eight weeks of lansoprazole treatment.
+Twenty-one of 22 (95.5%) adolescent erosive esophagitis patients were healed after eight weeks of lansoprazole delayed-release capsules treatment.
 One patient remained unhealed after 12 weeks of treatment (Table 5).
 
 Table 5.
@@ -137,7 +137,7 @@ In these 87 adolescent patients, increases in serum gastrin levels were similar 
 (Normal serum gastrin levels are 25 to 111 pg/mL.)
 
 The safety of lansoprazole delayed-release capsules has been assessed in these 87 adolescent patients.
-Of the 87 adolescent patients with GERD, 6% (5/87) took lansoprazole for less than six weeks, 93% (81/87) for six to 10 weeks, and 1% (1/87) for greater than 10 weeks.
+Of the 87 adolescent patients with GERD, 6% (5/87) took lansoprazole delayed-release capsules for less than six weeks, 93% (81/87) for six to 10 weeks, and 1% (1/87) for greater than 10 weeks.
 
 The most frequently reported (at least 3%) treatment-related adverse reactions in these patients were headache (7%), abdominal pain (5%), nausea (3%) and dizziness (3%).
 Treatment-related dizziness, reported in this prescribing information as occurring in less than 1% of adult patients, was reported in this study by three adolescent patients with non-erosive GERD, who had dizziness concurrently with other reactions (such as migraine, dyspnea, and vomiting).
@@ -163,7 +163,7 @@ Longer term data were not collected.
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients (n = 21,486) in clinical studies of lansoprazole, 16% of patients were aged 65 years and over, while 4% were 75 years and over.
+Of the total number of patients (n = 21,486) in clinical studies of lansoprazole delayed-release capsules, 16% of patients were aged 65 years and over, while 4% were 75 years and over.
 No overall differences in safety or effectiveness were observed between these patients and younger patients and other reported clinical experience has not identified significant differences in responses between geriatric and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
