@@ -22,6 +22,9 @@ There may be quantitative differences between various established methods for aP
 The degree of anticoagulant activity can also be assessed by the ecarin clotting time (ECT).
 This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).
 In the RE-LY trial, the median (10 thto 90 thpercentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
+
+In orthopedic hip surgery patients, maximum aPTT response (E max) to dabigatran and baseline aPTT were higher shortly after surgery than at later time points (e.g. ≥3 days after surgery).
+
 Cardiac Electrophysiology No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -49,11 +52,11 @@ The half-life of dabigatran in healthy adult subjects is 12 to 17 hours.
 Metabolism After oral administration, dabigatran etexilate is converted to dabigatran.
 The cleavage of the dabigatran etexilate by esterase-catalyzed hydrolysis to the active principal dabigatran is the predominant metabolic reaction.
 Dabigatran is not a substrate, inhibitor, or inducer of CYP450 enzymes.
-Dabigatran is subject to conjugation forming pharmacologically active acyl glucuronides.
+Dabigatran is subject to conjugation, forming pharmacologically active acyl glucuronides.
 Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each accounts for less than 10% of total dabigatran in plasma.
 Specific Populations Renal Impairment An open, parallel-group, single-center study compared dabigatran pharmacokinetics in healthy adult subjects and adult patients with mild to moderate renal impairment receiving a single dose of dabigatran etexilate capsules 150 mg.
 Exposure to dabigatran increases with severity of renal function impairment (Table 10).
-Similar findings were observed in the RE-LY and RE-COVER trials.
+Similar findings were observed in the RE-LY, RE-COVER and RE-NOVATE II trials.
 Table 10 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 
 | Renal Function | CrCl (mL/min) | Increase in AUC | Increase in C max | t 1/2 (h) |
@@ -63,10 +66,13 @@ Table 10 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 | Moderate | 30 to 50 | 3.2x | 1.7x | 18 |
 | Severe + | 15 to 30 | 6.3x | 2.1x | 27 |
 
-+Patients with severe renal impairment were not studied in RE-LY and RE-COVER.
++Patients with severe renal impairment were not studied in RE-LY, RE-COVER and RE-NOVATE II.
 Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.2, 2.4) and Use in Specific Populations (8.6)].
 Hepatic Impairment Administration of dabigatran etexilate capsules in adult patients with moderate hepatic impairment (Child-Pugh B) showed a large inter-subject variability, but no evidence of a consistent change in exposure or pharmacodynamics.
 Drug Interactions A summary of the effect of coadministered drugs on dabigatran exposure in healthy adult subjects is shown in Figures 3.1 and 3.2.
+
+In the orthopedic hip surgery patients, limited clinical data with P-gp inhibitors is available.
+
 Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
 The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference)

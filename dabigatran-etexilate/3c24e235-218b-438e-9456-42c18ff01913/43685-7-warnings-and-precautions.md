@@ -14,7 +14,7 @@ Discontinue dabigatran etexilate capsules in patients with active pathological b
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 Dabigatran etexilate capsules anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
-Reversal of Anticoagulant Effect: In adults, a specific reversal agent (idarucizumab) for dabigatran etexilate capsules is available when reversal of the anticoagulant effect of dabigatran is needed: • For emergency surgery/urgent procedures • In life-threatening or uncontrolled bleeding
+Reversal of Anticoagulant Effect In adults, a specific reversal agent (idarucizumab) for dabigatran etexilate capsules is available when reversal of the anticoagulant effect of dabigatran is needed: • For emergency surgery/urgent procedures • In life-threatening or uncontrolled bleeding
 
 In pediatric patients, the efficacy and safety of idarucizumab have not been established.
 
@@ -53,6 +53,8 @@ Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrill
 Avoid use of dabigatran etexilate capsules and P-gp inhibitors in patients with severe renal impairment (CrCl 15 to 30 mL/min) [see Drug Interactions (7.1) and Use in Specific Populations (8.6)].
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients Avoid use of dabigatran etexilate capsules and concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
+
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery Avoid use of PRADAXA Capsules and concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
 
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
