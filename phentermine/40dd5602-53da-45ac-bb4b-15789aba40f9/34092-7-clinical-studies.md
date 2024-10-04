@@ -6,40 +6,40 @@ The effect of QSYMIA on weight loss in conjunction with reduced caloric intake a
 Both studies had a 4-week titration period, followed by 52 weeks of treatment.
 There were two co-primary efficacy outcomes measured after 1 year of treatment (Week 56): 1) the percent weight loss from baseline; and 2) treatment response defined as achieving at least 5% weight loss from baseline.
 
-In Study 1, patients with obesity (BMI greater than or equal to 35 kg/m 2) were randomized to receive 1 year of treatment with placebo (N=514), QSYMIA 3.75 mg/23 mg (N=241), or QSYMIA 15 mg/92 mg (N=512) in a 2:1:2 ratio.
+In Study 1 (NCT00554216), patients with obesity (BMI greater than or equal to 35 kg/m 2) were randomized to receive 1 year of treatment with placebo (N=514), QSYMIA 3.75 mg/23 mg (N=241), or QSYMIA 15 mg/ 92 mg (N=512) in a 2:1:2 ratio.
 Patients ranged in age from 18-71 years old (mean age 43) and 83% were female.
-Approximately 80% were Caucasian, 18% were African American, and 15% were Hispanic/Latino.
+Approximately 80% were White, 18% were Black or African American, and 15% were Hispanic or Latino ethnicity.
 At the beginning of the study the average weight and BMI of patients was 116 kg and 42 kg/m 2, respectively.
-Patients with type 2 diabetes were excluded from participating in Study 1.
+Patients with type 2 diabetes mellitus were excluded from participating in Study 1.
 During the study, a well-balanced, reduced-calorie diet to result in an approximate 500 kcal/day decrease in caloric intake was recommended to all patients and patients were offered nutritional and lifestyle modification counseling.
 
-In Study 2, patients with overweight or obesity were randomized to receive 1 year of treatment with placebo (N=994), QSYMIA 7.5 mg/46 mg (N=498), or QSYMIA 15 mg/92 mg (N=995) in a 2:1:2 ratio.
-Eligible patients had to have a BMI greater than or equal to 27 kg/m 2and less than or equal to 45 kg/m 2(there was no lower limit on BMI for patients with type 2 diabetes) and two or more of the following obesity-related co-morbid conditions:
+In Study 2 (NCT00553787), patients with overweight or obesity were randomized to receive 1 year of treatment with placebo (N=994), QSYMIA 7.5 mg/46 mg (N=498), or QSYMIA 15 mg/92 mg (N=995) in a 2:1:2 ratio.
+Eligible patients had to have a BMI greater than or equal to 27 kg/m 2and less than or equal to 45 kg/m 2(there was no lower limit on BMI for patients with type 2 diabetes mellitus) and two or more of the following obesity-related co-morbid conditions:
 
 - Elevated blood pressure (greater than or equal to 140/90 mmHg, or greater than or equal to 130/85 mmHg for diabetics) or requirement for greater than or equal to 2 antihypertensive medications;
 - Triglycerides greater than 200-400 mg/dL or were receiving treatment with 2 or more lipid-lowering agents;
 - Elevated fasting blood glucose (greater than 100 mg/dL) or diabetes; and/or
-- Waist circumference greater than or equal to 102 cm for men or greater than or equal to 88 cm for women.
+- Waist circumference greater than or equal to 102 cm for men or greater than or equal to 88 cm for females.
 
-Patients ranged in age from 19-71 years old (mean age 51) and 70% were female.
-Approximately 86% were Caucasian, 12% were African American, and 13% were Hispanic/Latino.
+Patients ranged in age from 19 to71 years of age (mean age 51) and 70% were female.
+Approximately 86% were White, 12% were Black or African American, and 13% were Hispanic or Latino ethnicity.
 The average weight and BMI of patients at the start of the study was 103 kg and 36.6 kg/m 2, respectively.
 Approximately half (53%) of patients had hypertension at the start of the study.
-There were 388 (16%) patients with type 2 diabetes at the start of the study.
+There were 388 (16%) patients with type 2 diabetes mellitus at the start of the study.
 During the study, a well-balanced, reduced-calorie diet to result in an approximate 500 kcal/day decrease in caloric intake was recommended to all patients and patients were offered nutritional and lifestyle modification counseling.
 
 The percentage of randomized patients who withdrew from each study prior to week 56 was 40% in Study 1, and 31% in Study 2.
 
-Table 11 provides the results for weight loss at 1 year in Studies 1 and 2.
-After 1 year of treatment with QSYMIA, all dose levels resulted in statistically significant weight loss compared to placebo (see Table 11, Figure 1and Figure 2).
+Table 10 provides the results for weight loss at 1 year in Studies 1 and 2.
+After 1 year of treatment with QSYMIA, all dose levels resulted in statistically significant weight loss compared to placebo (see Table 10, Figure 1and Figure 2).
 A statistically significant greater proportion of the patients randomized to QSYMIA than placebo achieved 5% and 10% weight loss.
 
-Table 11.
+Table 10.
 Weight Loss at One Year in Adult Patients in Studies 1 and 2
 
-| Analysis Method | Placebo | QSYMIA 3.75 mg/23 mg | QSYMIA 15 mg/92 mg | Placebo | QSYMIA 7.5 mg/46 mg | QSYMIA 15 mg/92 mg |
+| Placebo | QSYMIA 3.75 mg/23 mg | QSYMIA 15 mg/92 mg | Placebo | QSYMIA 7.5 mg/46 mg | QSYMIA 15 mg/92 mg |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Study 1 (Obesity) |  |  | Study 2 (Obesity or Overweight with Co-morbidities) |  |  |
+| Analysis Method | Study 1 (Obesity) |  |  | Study 2 (Obesity or Overweight with Co-morbidities) |  |  |
 | ITT-LOCF (Primary) Uses all available data from subjects in ITT population, including data collected from subjects who discontinued drug but remained on study. Last Observation Carried Forward (LOCF) method used to impute missing data. | n = 498 | n = 234 | n = 498 | n = 979 | n = 488 | n = 981 |
 | Weight (kg) |  |  |  |  |  |  |
 | Baseline mean (SD) | 115.7 (21.4) | 118.6 (21.9) | 115.2 (20.8) | 103.3 (18.1) | 102.8 (18.2) | 103.1 (17.6) |
@@ -52,13 +52,13 @@ Weight Loss at One Year in Adult Patients in Studies 1 and 2
 | SD=standard deviation; LS=least-squares; SE=standard error; CI=confidence interval |  |  |  |  |  |  |
 | Type 1 error was controlled across all pairwise treatment comparisons. |  |  |  |  |  |  |
 
-|  | Figure 1. Study 1 Percent Weight Change from Baseline to Week 56 in Adults with Obesity |  | Figure 2. Study 2 Percent Weight Change from Baseline to Week 56 in Adults with Obesity or Overweight with Co-morbidities |
+| Figure 1. | Study 1 Percent Weight Change from Baseline to Week 56 in Adults with Obesity | Figure 2. | Study 2 Percent Weight Change from Baseline to Week 56 in Adults with Obesity or Overweight with Co-morbidities |
 | --- | --- | --- | --- |
+| p<0.0001 for all three Qsymia doses vs placebo, and 15 mg/92 mg vs 7.5 mg/46 mg or 3.75 mg/23 mg at all time points for both completers and ITT-LOCF |  |  |  |
 
-The changes in cardiovascular, metabolic, and anthropometric risk factors associated with obesity from Study 1 and 2 are presented in Table 12 and Table 13.
-One year of therapy with QSYMIA resulted in relative improvement over placebo in several risk factors associated with obesity with the exception of heart rate [see Warnings and Precautions (5.2)].
+The changes in cardiovascular, metabolic, and anthropometric risk factors associated with obesity from Study 1 and 2 are presented in Table 11 and Table 12.
 
-Table 12.
+Table 11.
 Least-Squares (LS) Mean Study 1 adjusted for baseline bodyweightChange from Baseline and Treatment Difference from Placebo in Cardiometabolic Parameters in Adults Following One Year of Treatment in Study 1 (Obesity)
 
 | QSYMIA 3.75 mg/23 mg | QSYMIA 15 mg/92 mg |  |  |  |  |
@@ -93,7 +93,7 @@ Least-Squares (LS) Mean Study 1 adjusted for baseline bodyweightChange from Base
 | LS Mean Change (SE) | -3.1 (0.5) | -5.6 (0.6) | -10.9 (0.5) |  |  |
 | SD=standard deviation; SE=standard error |  |  |  |  |  |
 
-Table 13.
+Table 12.
 Least-Squares (LS) Mean Study 2 adjusted for baseline bodyweight and diabetic statusChange from Baseline and Treatment Difference from Placebo in Cardiometabolic Parameters in Adults Following One Year of Treatment in Study 2 (Obese or Overweight with Comorbidities)
 
 | QSYMIA 7.5 mg/46 mg | QSYMIA 15 mg/92 mg |  |  |  |  |
@@ -131,24 +131,24 @@ Least-Squares (LS) Mean Study 2 adjusted for baseline bodyweight and diabetic st
 | LS Mean Change (SE) | -2.4 (0.3) | -7.6 (0.4) | -9.2 (0.3) |  |  |
 | SD=standard deviation; SE=standard error |  |  |  |  |  |
 
-Among the 388 subjects with type 2 diabetes treated in Study 2, reductions in HbA1c from baseline (6.8%) were 0.1% for placebo compared to 0.4% and 0.4% with QSYMIA 7.5 mg/46 mg and QSYMIA 15 mg/92 mg, respectively [see Warnings and Precautions (5.10)].
+Among the 388 subjects with type 2 diabetes mellitus treated in Study 2, reductions in HbA1c from baseline (6.8%) were 0.1% for placebo compared to 0.4% and 0.4% with QSYMIA 7.5 mg/46 mg and QSYMIA 15 mg/92 mg, respectively.
 
 Clinical Studies in Pediatric Patients Aged 12 Years and Older
 
-The effect of QSYMIA on BMI in conjunction with reduced caloric intake and increased physical activity was evaluated in Study 3 (NCT 03922945), a 56-week, randomized, double-blind, placebo-controlled study in pediatric patients (12 to 17 years of age) with BMI ≥ 95 thpercentile standardized by age and sex.
-Patients were randomized to receive treatment with placebo (N=56), QSYMIA 7.5 mg/46 mg (N=54), or QSYMIA 15 mg/92 mg (N=113) in a 1:1:2 ratio.
+The effect of QSYMIA on BMI in conjunction with reduced caloric intake and increased physical activity was evaluated in Study 3 (NCT03922945), a 56-week, randomized, double-blind, placebo-controlled study in pediatric patients (12 to 17 years of age) with BMI ≥ 95 thpercentile standardized by age and sex.
+Patients were randomized to receive treatment with placebo (N=56), QSYMIA 7.5 mg/46 mg (N=54), or QSYMIA 15 mg/ 92 mg (N=113) in a 1:1:2 ratio.
 During the study, a well-balanced, reduced-calorie diet to result in an approximate 500 kcal/day decrease in caloric intake was recommended to all patients and patients were offered a family-based lifestyle modification program for adolescents.
 
-Patients' mean age was 14 years old, approximately 55% were female, 67% were Caucasian, 26% were African American, and 33% were Hispanic/Latino.
+Patients' mean age was 14 years old, approximately 55% were female, 67% were White, 26% were Black or African American, and 33% were Hispanic or Latino ethnicity.
 At the beginning of the study, the average weight and BMI of patients was 106 kg and 38 kg/m 2, respectively, with approximately 81% considered severely obese (120% of the 95 thpercentile or greater for BMI standardized by age and sex).
 Thirty-eight (38%) of randomized patients withdrew from the study prior to week 56.
 
 The primary efficacy parameter was mean percent change in BMI.
-Table 14 provides results for BMI reduction at Week 56 in Study 3.
-After 56 weeks of treatment with QSYMIA, all dose levels resulted in statistically significant reduction in BMI compared to placebo (see Table 14, Figure 3).
+Table 13 provides results for BMI reduction at Week 56 in Study 3.
+After 56 weeks of treatment with QSYMIA, all dose levels resulted in statistically significant reduction in BMI compared to placebo (see Table 13, Figure 3).
 A greater proportion of patients randomized to QSYMIA than placebo achieved 5%, 10%, and 15% BMI reduction.
 
-Table 14.
+Table 13.
 Change in BMI at Week 56 in Pediatric Patients Aged 12 to 17 Years in Study 3 (Obesity)
 
 | Analysis Method | Placebo | QSYMIA 7.5 mg/46 mg | QSYMIA 15 mg/92 mg |
@@ -169,7 +169,9 @@ Change in BMI at Week 56 in Pediatric Patients Aged 12 to 17 Years in Study 3 (O
 Figure 3.
 Study 3 Percent BMI Change from Baseline to Week 56 in Pediatric Patients Aged 12 to 17 Years with Obesity
 
-Table 15.
+The changes in cardiovascular, metabolic, and anthropometric risk factors associated with obesity from Study 3 are presented in Table 14.
+
+Table 14.
 Change from Baseline and Treatment Difference from Placebo in Cardiometabolic Parameters in Pediatric Patients Aged 12 to 17 Years Following 56 Weeks of Treatment in Study 3 (Obesity)
 
 | QSYMIA 7.5 mg/46 mg | QSYMIA 15 mg/92 mg |  |  |  |  |

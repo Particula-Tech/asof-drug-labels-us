@@ -21,7 +21,7 @@ Maternal obesity increases the risk for congenital malformations, including neur
 
 Fetal/Neonatal Adverse Reactions
 
-QSYMIA can cause metabolic acidosis [see Warnings and Precautions (5.8)].
+QSYMIA can cause metabolic acidosis [see Warnings and Precautions (5.7)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
 
 Data
@@ -95,7 +95,7 @@ Because of the potential for serious adverse reactions, including changes in sle
 
 Pregnancy Testing
 
-Pregnancy testing is recommended in patients who can become pregnant before initiating QSYMIA and monthly during QSYMIA therapy [see Warnings and Precautions (5.1), Use in Specific Populations (8.1)].
+Pregnancy testing is recommended in patients who can become pregnant before initiating QSYMIA and monthly during QSYMIA therapy [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
 
 Contraception
 
@@ -105,15 +105,15 @@ QSYMIA can cause fetal harm when administered to a pregnant patient [see Use in 
 Advise patients who can become pregnant to use effective contraception during therapy with QSYMIA.
 
 For patients taking combined oral contraceptives (COCs), use of QSYMIA may cause irregular bleeding [see Drug Interactions (7)].
-Advise patients not to discontinue taking their COC and to contact their healthcare provider.
+Advise patients not to discontinue taking their COC and to contact their health care provider.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of QSYMIA as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management in pediatric patients aged 12 years and older with a BMI in the 95th percentile or greater standardized for age and sex have been established.
+The safety and effectiveness of QSYMIA as an adjunct to a reduced-calorie diet and increased physical activity for weight reduction and long-term maintenance of body weight have been established in pediatric patients aged 12 years and older with obesity.
 Use of QSYMIA for this indication is supported by a 56-week, double-blind, placebo-controlled study in 223 pediatric patients aged 12 years and above, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3)and Clinical Studies (14)].
 
-In a pediatric clinical trial, there was one episode of serious suicidal ideation in a QSYMIA-treated patient requiring hospitalization and pharmacologic treatment [see Warnings and Precautions (5.3)]; more patients treated with QSYMIA versus placebo reported adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) [see Warnings and Precautions (5.5)].
-Increases in bone mineral density and linear growth were attenuated in QSYMIA- versus placebo-treated patients [see Warnings and Precautions (5.7)].
+In a pediatric clinical trial, there was one episode of serious suicidal ideation in a QSYMIA-treated patient requiring hospitalization and pharmacologic treatment [see Warnings and Precautions (5.2)] more patients treated with QSYMIA versus placebo reported adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) [see Warnings and Precautions (5.4).
+Increases in bone mineral density and linear growth were attenuated in QSYMIA- versus placebo-treated patients [see Warnings and Precautions (5.6)].
 Serious adverse reactions seen in pediatric patients using topiramate include acute angle glaucoma, oligohidrosis and hyperthermia, metabolic acidosis, cognitive and neuropsychiatric reactions, hyperammonemia and encephalopathy, and kidney stones.
 
 The safety and effectiveness of QSYMIA in pediatric patients below the age of 12 years have not been established.
@@ -122,7 +122,7 @@ The safety and effectiveness of QSYMIA in pediatric patients below the age of 12
 
 In the QSYMIA clinical trials, a total of 254 (7%) of the patients were 65 to 69 years of age; no patients 70 years of age or older were enrolled.
 
-Clinical studies of QSYMIA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of QSYMIA did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Renal Impairment
@@ -134,7 +134,7 @@ The recommended dosage of QSYMIA in patients with mild renal impairment (CrCl gr
 In patients with moderate (CrCl greater than or equal to 30 to less than 50 mL/min) and severe (CrCl less than 30 mL/min) renal impairment, the maximum recommended dosage is QSYMIA 7.5 mg/46 mg once daily.
 
 QSYMIA has not been studied in patients with end-stage renal disease on dialysis.
-Avoid QSYMIA in this patient population [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)].
+Avoid QSYMIA in this patient population [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -146,4 +146,4 @@ The recommended dosage of QSYMIA in patients with mild hepatic impairment (Child
 In patients with moderate hepatic impairment, the maximum recommended dosage is QSYMIA 7.5 mg/46 mg once daily.
 
 QSYMIA has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15).
-Avoid QSYMIA in this patient population [see Dosage and Administration (2.6)and Clinical Pharmacology (12.3)].
+Avoid QSYMIA in this patient population [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)].

@@ -4,11 +4,11 @@
 
 Phentermine is a sympathomimetic amine with pharmacologic activity similar to the prototype drugs of this class used in obesity, amphetamine (d- and d/l-amphetamine).
 Drugs of this class used in obesity are commonly known as "anorectics" or "anorexigenics."
-The effect of phentermine on chronic weight management is likely mediated by release of catecholamines in the hypothalamus, resulting in reduced appetite and decreased food consumption, but other metabolic effects may also be involved.
+The effect of phentermine on weight reduction and long-term maintenance of body weight is likely mediated by release of catecholamines in the hypothalamus, resulting in reduced appetite and decreased food consumption, but other metabolic effects may also be involved.
 The exact mechanism of action is not known.
 
-The precise mechanism of action of topiramate on chronic weight management is not known.
-Topiramate's effect on chronic weight management may be due to its effects on both appetite suppression and satiety enhancement, induced by a combination of pharmacologic effects including augmenting the activity of the neurotransmitter gamma-aminobutyrate, modulation of voltage-gated ion channels, inhibition of AMPA/kainite excitatory glutamate receptors, or inhibition of carbonic anhydrase.
+The precise mechanism of action of topiramate on weight reduction and long-term maintenance of body weight is not known.
+Topiramate's effect on weight reduction and long-term maintenance of body weight may be due to its effects on both appetite suppression and satiety enhancement, induced by a combination of pharmacologic effects including augmenting the activity of the neurotransmitter gamma-aminobutyrate, modulation of voltage-gated ion channels, inhibition of AOBMPA/kainite excitatory glutamate receptors, or inhibition of carbonic anhydrase.
 
 ## 12.2 Pharmacodynamics
 
@@ -23,9 +23,30 @@ QSYMIA 22.5 mg/138 mg [a supra-therapeutic dose resulting in a phentermine and t
 
 Glomerular Filtration Rate (GFR)
 
-Healthy obese men and women received QSYMIA daily for 4 weeks (3.75 mg/23 mg on Days 1 to 3, 7.5 mg/46 mg on Days 4 to 6, 11.25 mg/69 mg on Days 7 to 9, and 15 mg/92 mg on Days 10 to 28).
+Healthy obese males and females received QSYMIA daily for 4 weeks (3.75 mg/23 mg on Days 1 to 3, 7.5 mg/46 mg on Days 4 to 6, 11.25 mg/69 mg on Days 7 to 9, and 15 mg/92 mg on Days 10 to 28).
 The glomerular filtration rate (GFR) of these participants was assessed via iohexol clearance.
-On average, GFR decreased during QSYMIA treatment and returned to baseline within 4 weeks after discontinuing QSYMIA [see Warnings and Precautions (5.9)]
+On average, GFR decreased during QSYMIA treatment and returned to baseline within 4 weeks after discontinuing QSYMIA [see Warnings and Precautions (5.8)]
+
+Ambulatory Blood Pressure Monitoring
+
+The effect of QSYMIA on blood pressure as measured by 24-hr ABPM was evaluated in a randomized, double-blind, 3-arm (QSYMIA, placebo, and active phentermine comparator) study of adults with obesity or overweight and at least one weight-related comorbidity.
+The study had a treatment duration of 8 weeks, and the primary endpoint was the change from baseline to Week 8 in mean systolic blood pressure (SBP) as measured by 24-hr ABPM.
+
+QSYMIA 15 mg/92 mg did not demonstrate a pressor effect (see Table 6).
+At Week 8, placebo-adjusted mean (95% CI) treatment differences by 24-hr ABPM for QSYMIA 15 mg/92 mg were SBP -3.2 mmHg (-5.5, -0.9), DBP +1.2 mmHg (-0.2, +2.6), and heart rate (HR) +3.6 bpm (+2.1, +5.2).
+Placebo-adjusted mean weight loss was -3.9% (-4.9%, -3.0%) for QSYMIA 15 mg/92 mg and -3.8% (-4.7%, -2.9%) for phentermine 30 mg at Week 8.
+
+Table 6.
+Ambulatory Blood Pressure Monitoring Results in Adults with Obesity or Overweight Treated with QSYMIA, Placebo, or Phentermine - Change from Baseline and Treatment Difference from Placebo and Phentermine at Week 8
+
+| Placebo (n=130) | QSYMIA 15 mg/ 92 mg (n=122) | Phentermine 30 mg (n=133) | Qsymia – Placebo | Qsymia - Phentermine | Phentermine - Placebo |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| APBM Measure | Change from Baseline |  |  | Treatment Difference |  |  |
+| SBP (mmHg) Mean (95% CI) | -0.1 (-2.2, +1.9) | -3.3 (-5.4, -1.2) | +1.4 (-0.7, +3.4) | -3.2 (-5.5, -0.9) | -4.7 (-7.0, -2.5) | +1.5 (-0.7, +3.7) |
+| DBP (mmHg) Mean (95% CI) | -0.4 (-1.6, +0.9) | +0.8 (-0.4, +2.1) | +2.4 (+1.1, +3.6) | +1.2 (-0.2, +2.6) | -1.5 (-2.9, -0.2) | +2.7 (+1.4, +4.1) |
+| HR (bpm) Mean (95% CI) | -1.0 (-2.4, +0.4) | +2.6 (+1.2, +4.0) | +6.2 (+4.8, +7.6) | +3.6 (+2.1, +5.2) | -3.6 (-5.2, -2.1) | +7.2 (+5.7, +8.8) |
+| SBP=systolic blood pressure; DBP=diastolic blood pressure; HR=heart rate; BPM=beats per minute; ABPM=ambulatory blood pressure monitoring; CI=confidence interval |  |  |  |  |  |  |
+| An analysis of covariance (ANCOVA) model was used in the per protocol population (observed and single imputation data) to evaluate change from baseline and between-group differences. |  |  |  |  |  |  |
 
 ## 12.3 Pharmacokinetics
 
@@ -91,14 +112,14 @@ Compared to healthy volunteers, phentermine AUC 0-infwas 91%, 45%, and 22% highe
 Compared to healthy volunteers, topiramate AUC 0-infwas 126%, 85%, and 25% higher for patients with severe, moderate, and mild renal impairment, respectively; topiramate C maxwas 6% to 17% higher.
 An inverse relationship between phentermine or topiramate C maxor AUC and creatinine clearance was observed.
 
-QSYMIA has not been studied in patients with end-stage renal disease on dialysis [see Dosage and Administration (2.5), and Use in Specific Populations (8.6)].
+QSYMIA has not been studied in patients with end-stage renal disease on dialysis [see Dosage and Administration (2.4)and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of QSYMIA 15 mg/92 mg in healthy volunteers with normal hepatic function compared with patients with mild (Child-Pugh score 5 - 6) and moderate (Child-Pugh score 7 - 9) hepatic impairment.
 In patients with mild and moderate hepatic impairment, phentermine AUC was 37% and 60% higher compared to healthy volunteers.
 Pharmacokinetics of topiramate was not affected in patients with mild and moderate hepatic impairment when compared with healthy volunteers.
-QSYMIA has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15) [see Dosage and Administration (2.6), and Use in Specific Populations (8.7)].
+QSYMIA has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15) [see Dosage and Administration (2.5)and Use in Specific Populations (8.7)].
 
 Pediatric Patients 12 to 17 years old
 
@@ -125,23 +146,23 @@ Topiramate is not a P-glycoprotein substrate.
 
 Effects of Phentermine/Topiramate on Other Drugs
 
-Table 8 describes the effect of phentermine/topiramate on the pharmacokinetics of co-administered drugs.
+Table 7 describes the effect of phentermine/topiramate on the pharmacokinetics of co-administered drugs.
 
-Table 8.
+Table 7.
 Effect of Phentermine/Topiramate on the Pharmacokinetics of Co-administered Drugs
 
 | Drug and Dose (mg) | Change in AUC | Change in C max |  |
 | --- | --- | --- | --- |
 | Phentermine/Topiramate | Co-administered Drug and Dosing Regimen |  |  |
-| A single study examined the effect of multiple-dose QSYMIA 15 mg/92 mg once daily on the pharmacokinetics of multiple-dose 500 mg metformin twice daily and multiple-dose 100 mg sitagliptin once daily in 10 men and 10 women (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. The significance of these interactions are unknown. 15 mg/92 mg dose QD for 16 days | Metformin 500 mg BID for 5 days | ↑ 23% | ↑ 16% |
+| A single study examined the effect of multiple-dose QSYMIA 15 mg/92 mg once daily on the pharmacokinetics of multiple-dose 500 mg metformin twice daily and multiple-dose 100 mg sitagliptin once daily in 10 males and 10 females (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. The significance of these interactions is unknown. 15 mg/92 mg dose QD for 16 days | Metformin 500 mg BID for 5 days | ↑ 23% | ↑ 16% |
 | 15 mg/92 mg dose QD for 21 days | Sitagliptin 100 mg QD for 5 days | ↓ 3% | ↓ 9% |
 | See Drug Interactions (7)15 mg/92 mg dose QD for 15 days | Oral contraceptive single dose norethindrone 1 mg ethinyl estradiol 35 mcg | ↑ 16% ↓ 16% | ↑ 22% ↓ 8% |
 
 Effect of Other Drugs on Phentermine/Topiramate
 
-Table 9 describes the effect of other drugs on the pharmacokinetics of phentermine/topiramate.
+Table 8 describes the effect of other drugs on the pharmacokinetics of phentermine/topiramate.
 
-Table 9.
+Table 8.
 Effect of Co-administered Drugs on the Pharmacokinetics of Phentermine/Topiramate
 
 | Dose (mg) | Change in AUC | Change in C max |  |
@@ -149,7 +170,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Phentermine/Topiramat
 | Co-administered Drug and Dosing Regimen | Phentermine/Topiramate |  |  |
 | Topiramate 92 mg single dose | 15 mg phentermine single dose | ↑ 42% | ↑ 13% |
 | Phentermine 15 mg single dose | 92 mg topiramate single dose | ↑ 6% | ↑ 2% |
-| The same single study examined the effect of multiple-dose 500 mg metformin twice daily, a single-dose 2 g probenecid, and multiple-dose 100 mg sitagliptin once daily on the pharmacokinetics of multiple-dose phentermine/topiramate 15 mg/92 mg once daily in 10 men and 10 women (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. Metformin 500 mg BID for 5 days | 15 mg/92 mg dose QD for 16 days phentermine topiramate | ↑ 5% ↓ 5% | ↑ 7% ↓ 4% |
+| The same single study examined the effect of multiple-dose 500 mg metformin twice daily, a single-dose 2 g probenecid, and multiple-dose 100 mg sitagliptin once daily on the pharmacokinetics of multiple-dose phentermine/topiramate 15 mg/92 mg once daily in 10 males and 10 females (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. Metformin 500 mg BID for 5 days | 15 mg/92 mg dose QD for 16 days phentermine topiramate | ↑ 5% ↓ 5% | ↑ 7% ↓ 4% |
 | Sitagliptin 100 mg QD for 5 days | 15 mg/92 mg dose QD for 21 days phentermine topiramate | ↑ 9% ↓ 2% | ↑ 10% ↓ 2% |
 | Probenecid 2 g QD | 15 mg/92 mg dose QD for 11 days phentermine topiramate | ↓ 0.3% ↑ 0.7% | ↑ 4% ↑ 3% |
 
@@ -158,12 +179,12 @@ Effects of Topiramate Alone on Other Drugs and Effects of Other Drugs on Topiram
 Antiepileptic Drugs
 
 Potential interactions between topiramate and standard antiepileptic (AED) drugs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 10.
+The effects of these interactions on mean plasma AUCs are summarized in Table 9.
 
-In Table 10, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
+In Table 9, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone [see Drug Interactions (7)].
 
-Table 10.
+Table 9.
 Summary of AED Interactions with Topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
@@ -188,7 +209,7 @@ A drug-drug interaction study conducted in healthy volunteers evaluated the stea
 The results of this study indicate that topiramate C maxincreased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
 The steady-state pharmacokinetics of HCTZ were not significantly influenced by the concomitant administration of topiramate.
-Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination [see Drug Interactions (7)and Warnings and Precautions (5.15)].
+Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination [see Drug Interactions (7)and Warnings and Precautions (5.12)].
 
 Pioglitazone
 
@@ -199,7 +220,7 @@ In addition, a 13% and 16% decrease in C max,ssand AUC τ,ssrespectively, of the
 
 Glyburide
 
-A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
+A drug-drug interaction study conducted in patients with type 2 diabetes mellitus evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
 There was a 22% decrease in C maxand a 25% reduction in AUC 24for glyburide during topiramate administration.
 Systemic exposure (AUC) of the active metabolites, 4- trans-hydroxyglyburide (M1), and 3- cis-hydroxyglyburide (M2), was reduced by 13% and 15%, and C maxwas reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
@@ -239,8 +260,8 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD ®) with topiramate (150 mg/day) resulted in a 10% decrease in C maxand a 25% decrease in diltiazem AUC, a 27% decrease in C maxand an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Co-administration of topiramate with diltiazem resulted in a 16% increase in C maxand a 19% increase in AUC 12of topiramate.
+Co-administration of diltiazem hydrochloride extended-release with topiramate (150 mg/day) resulted in a 10% decrease in C maxand a 25% decrease in diltiazem AUC, a 27% decrease in C maxand an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of topiramate with diltiazem hydrochloride extended-release resulted in a 16% increase in C maxand a 19% increase in AUC 12of topiramate.
 
 Venlafaxine
 

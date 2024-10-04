@@ -2,6 +2,7 @@
 
 In the event of a significant overdose with QSYMIA, if the ingestion is recent, the stomach should be emptied immediately by gastric lavage or by induction of emesis.
 Appropriate supportive treatment should be provided according to the patient's clinical signs and symptoms.
+In the event of an overdose of QSYMIA, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
 
 Acute overdose of phentermine may be associated with restlessness, tremor, hyperreflexia, rapid respiration, confusion, aggressiveness, hallucinations, and panic states.
 Fatigue and depression usually follow the central stimulation.

@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-QSYMIA (phentermine and topiramate extended-release capsules) are available as follows (see Table 16):
+QSYMIA (phentermine and topiramate extended-release capsules) are available as follows (see Table 15):
 
-Table 16.
+Table 15.
 QSYMIA Presentations
 
 | Strength (phentermine mg/topiramate mg) | Description | How Supplied | NDC |

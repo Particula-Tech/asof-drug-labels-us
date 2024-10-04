@@ -1,11 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-QSYMIA is indicated as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management in:
+QSYMIA is indicated in combination with a reduced-calorie diet and increased physical activity to reduce excess body weight and maintain weight reduction long term in:
 
-- Adults with an initial body mass index (BMI) of:
-  - 30 kg/m 2or greater (obese), or
-  - 27 kg/m 2or greater (overweight) in the presence of at least one weight-related comorbidity such as hypertension, type 2 diabetes mellitus, or dyslipidemia
-- Pediatric patients aged 12 years and older with an initial BMI in the 95 thpercentile or greater standardized for age and sex.
+- Adults and pediatric patients aged 12 years and older with obesity
+- Adults with overweight in the presence of at least one weight-related comorbid condition
 
 Limitations of Use
 

@@ -1,39 +1,38 @@
 # 6 ADVERSE REACTIONS
 
-The following important adverse reactions are described elsewhere in the labeling:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1, 8.6)]
-- Increase in Heart Rate [see Warnings and Precautions (5.2)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
-- Risk of Ophthalmologic Adverse Reactions [see Warnings and Precautions (5.4)]
-- Mood and Sleep Disorders [see Warnings and Precautions (5.5)]
-- Cognitive Impairment [see Warnings and Precautions (5.6)]
-- Slowing of Linear Growth [see Warnings and Precautions (5.7)]
-- Metabolic Acidosis [see Warnings and Precautions (5.8)]
-- Decrease in Renal Function [see Warnings and Precautions (5.9)]
-- Risk of Seizures with Abrupt Withdrawal of QSYMIA [see Warnings and Precautions (5.12)]
-- Kidney Stones [see Warnings and Precautions (5.13)]
-- Oligohydrosis and Hyperthermia [see Warnings and Precautions (5.14)]
-- Hypokalemia [see Warnings and Precautions (5.15)]
-- Serious Skin Reactions [see Warnings and Precautions (5.16)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.2)]
+- Risk of Ophthalmologic Adverse Reactions [see Warnings and Precautions (5.3)]
+- Mood and Sleep Disorders [see Warnings and Precautions (5.4)]
+- Cognitive Impairment [see Warnings and Precautions (5.5)]
+- Slowing of Linear Growth [see Warnings and Precautions (5.6)]
+- Metabolic Acidosis [see Warnings and Precautions (5.7)]
+- Decrease in Renal Function [see Warnings and Precautions (5.8)]
+- Risk of Seizures with Abrupt Withdrawal of QSYMIA [see Warnings and Precautions (5.9)]
+- Kidney Stones [see Warnings and Precautions (5.10)]
+- Oligohydrosis and Hyperthermia [see Warnings and Precautions (5.11)]
+- Hypokalemia [see Warnings and Precautions (5.12)]
+- Serious Skin Reactions [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The data described herein reflects exposure to QSYMIA in two 1-year, randomized, double-blind, placebo-controlled, multicenter clinical trials and two supportive trials in 2318 adult patients with overweight or obesity (936 [40%] patients with hypertension, 309 [13%] patients with type 2 diabetes, 808 [35%] patients with BMI greater than 40 kg/m 2) exposed for a mean duration of 298 days.
+The data described herein reflect exposure to QSYMIA in two 1-year, randomized, double-blind, placebo-controlled, multicenter clinical trials and two supportive trials in 2,318 adult patients with overweight or obesity [936 (40%) patients with hypertension, 309 (13%) patients with type 2 diabetes mellitus, 808 (35%) patients with BMI greater than 40 kg/m 2] exposed for a mean duration of 298 days.
 Data in this section also describe adverse reactions from a 1-year, randomized, double-blind, placebo-controlled multicenter clinical trial that evaluated 223 pediatric patients (12 to 17 years old) with obesity [see Clinical Studies (14)].
 
 Adults
 
 Adverse reactions occurring at greater than or equal to 5% and at least 1.5 times placebo in adults include paraesthesia, dizziness, dysgeusia, insomnia, constipation, and dry mouth.
 
-Adverse reactions reported in greater than or equal to 2% of QSYMIA-treated adults and more frequently than in the placebo group are shown in Table 3.
+Adverse reactions reported in greater than or equal to 2% of QSYMIA-treated adults and more frequently than in the placebo group are shown in Table 1.
 
-Table 3.
+Table 1.
 Adverse Reactions Reported in ≥2% of QSYMIA-Treated Adults with Overweight or Obesity and More Frequently than Placebo in Overall Study Population of 1 Year Duration
 
-| Preferred Term | Placebo (N = 1561) % | QSYMIA 3.75 mg/23 mg (N = 240) % | QSYMIA 7.5 mg/46 mg (N = 498) % | QSYMIA 15 mg/92 mg (N = 1580) % |
+| Adverse Reaction | Placebo (N = 1561) % | QSYMIA 3.75 mg/23 mg (N = 240) % | QSYMIA 7.5 mg/46 mg (N = 498) % | QSYMIA 15 mg/92 mg (N = 1,580) % |
 | --- | --- | --- | --- | --- |
 | Paraesthesia | 2 | 4 | 14 | 20 |
 | Dry Mouth | 3 | 7 | 14 | 19 |
@@ -86,12 +85,12 @@ Pediatric Patients Aged 12 Years and Older
 
 Adverse reactions occurring in pediatric patients treated with either QSYMIA 15 mg/92 mg or QSYMIA 7.5 mg/46 mg at greater than or equal to 4% and higher than placebo include depression, pyrexia, dizziness, arthralgia, influenza, and ligament sprain.
 
-Adverse reactions reported in greater than or equal to 2% of QSYMIA-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older are shown in Table 4.
+Adverse reactions reported in greater than or equal to 2% of QSYMIA-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older are shown in Table 2.
 
-Table 4.
+Table 2.
 Adverse Reactions Reported in ≥2% of QSYMIA-Treated Pediatric Patients Aged 12 to 17 Years and More Frequently than Placebo during 56 Weeks of Treatment
 
-| Preferred Term | Placebo (N = 56) % | QSYMIA 7.5 mg/46 mg (N = 54) % | QSYMIA 15 mg/92 mg (N = 113) % |
+| Adverse Reaction | Placebo (N = 56) % | QSYMIA 7.5 mg/46 mg (N = 54) % | QSYMIA 15 mg/92 mg (N = 113) % |
 | --- | --- | --- | --- |
 | Depression | 0 | 2 | 4 |
 | Nausea | 4 | 4 | 4 |
@@ -110,10 +109,12 @@ Adverse Reactions Reported in ≥2% of QSYMIA-Treated Pediatric Patients Aged 12
 Increase in Heart Rate
 
 In adult and pediatric clinical trials, there was a higher incidence of heart rate elevations observed in QSYMIA-treated compared to placebo-treated patients.
+In an 8-week ambulatory blood pressure monitoring (ABPM) study in adults, QSYMIA increased the 24-hr average heart rate by 3.6 beats per minute (bpm) (95% CI 2.1, 5.2) compared to the placebo group [see Clinical Pharmacology (12.2)].
 
-Table 5 and Table 6 provide the numbers and percentages of adult and pediatric patients, respectively, with elevations in heart rate in clinical studies of up to one year.
+In clinical trials, a higher percentage of QSYMIA-treated adults and pediatric patients aged 12 years and older experienced heart rate increases from baseline of more than 5, 10, 15, and 20 bpm compared to placebo-treated patients.
+Table 3 and Table 4 provide the numbers and percentages of adult and pediatric patients, respectively, with elevations in heart rate in clinical studies of up to one year.
 
-Table 5.
+Table 3.
 Number and Percentage of Adults with Overweight or Obesity with an Increase in Heart Rate at a Single Time Point from Baseline
 
 |  | Placebo N=1561 n (%) | QSYMIA 3.75 mg/23 mg N=240 n (%) | QSYMIA 7.5 mg/46 mg N=498 n (%) | QSYMIA 15 mg/92 mg N=1580 n (%) |
@@ -123,7 +124,7 @@ Number and Percentage of Adults with Overweight or Obesity with an Increase in H
 | Greater than 15 bpm | 410 (26.3) | 79 (32.9) | 165 (33.1) | 590 (37.3) |
 | Greater than 20 bpm | 186 (11.9) | 36 (15.0) | 67 (13.5) | 309 (19.6) |
 
-Table 6.
+Table 4.
 Number and Percentage of Pediatric Patients with an Increase in Heart Rate at a Single Time Point from Baseline
 
 |  | Placebo N=56 n (%) | QSYMIA 7.5 mg/46 mg N=54 n (%) | QSYMIA 15 mg/92 mg N=113 n (%) |
@@ -135,8 +136,8 @@ Number and Percentage of Pediatric Patients with an Increase in Heart Rate at a 
 
 Paraesthesia/Dysgeusia
 
-In adult clinical trials, reports of paraesthesia, characterized as tingling in hands, feet, or face, and dysgeusia, characterized as a metallic taste, occurred (see Table 3).
-Adverse reactions of paraesthesia were also reported in pediatric patients (see Table 4).
+In adult clinical trials, reports of paraesthesia, characterized as tingling in hands, feet, or face, and dysgeusia, characterized as a metallic taste, occurred (see Table 1).
+Adverse reactions of paraesthesia were also reported in pediatric patients (see Table 2).
 QSYMIA-treated adult patients discontinued treatment due to these adverse reactions (1% for paraesthesia and 0.6% for dysgeusia); no pediatric patients discontinued treatment due to paraesthesia or dysgeusia.
 
 Mood and Sleep Disorders
@@ -148,7 +149,7 @@ Reports of anxiety occurred in 4.8% and 7.9% of patients treated with QSYMIA 7.5
 Reports of depression/mood problems occurred in 3.8% and 7.6% of patients treated with QSYMIA 7.5 mg/46 mg and 15 mg/92 mg, respectively, compared to 3.4% of patients treated with placebo.
 Mood and sleep disorder adverse reactions occurred in patients with and without a history of depression.
 
-In a pediatric clinical trial, higher proportions of QSYMIA-treated patients reported one or more adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) compared to placebo-treated patients (See Table 4).
+In a pediatric clinical trial, higher proportions of QSYMIA-treated patients reported one or more adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) compared to placebo-treated patients (see Table 2).
 
 Cognitive Disorders
 
@@ -159,7 +160,7 @@ These events occurred at any time during treatment with QSYMIA.
 Slowing of Linear Growth
 
 QSYMIA is associated with a reduction in height velocity (centimeters of height gained per year) in obese pediatric patients 12 to 17 years of age.
-In a 56-week study, average height increased from baseline in both QSYMIA- and placebo-treated patients; however, a lower height velocity of -1.3 to -1.4 cm/year was observed in QSYMIA-treated compared to placebo-treated patients
+In a 56-week study, average height increased from baseline in both QSYMIA- and placebo-treated patients; however, a lower height velocity of -1.3 to -1.4 cm/year was observed in QSYMIA-treated compared to placebo-treated patients.
 
 Decrease in Bone Mineral Density
 
