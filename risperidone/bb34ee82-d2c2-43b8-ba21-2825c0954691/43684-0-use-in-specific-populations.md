@@ -4,16 +4,16 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including RISPERDAL CONSTA ®, during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including RISPERDAL CONSTA, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
 Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall, available data from published epidemiologic studies of pregnant women exposed to risperidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
-There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including RISPERDAL CONSTA ®, during pregnancy (see Clinical Considerations).
-Risperidone has been detected in plasma in adult subjects up to 8 weeks after a single-dose administration of RISPERDAL CONSTA ®[see Clinical Pharmacology (12.3)].
-The clinical significance of RISPERDAL CONSTA ®administered before pregnancy or anytime during pregnancy is not known.
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including RISPERDAL CONSTA, during pregnancy (see Clinical Considerations).
+Risperidone has been detected in plasma in adult subjects up to 8 weeks after a single-dose administration of RISPERDAL CONSTA [see Clinical Pharmacology (12.3)].
+The clinical significance of RISPERDAL CONSTA administered before pregnancy or anytime during pregnancy is not known.
 
 Oral administration of risperidone to pregnant mice caused cleft palate at doses 3 to 4 times the maximum recommended human dose (MRHD) with maternal toxicity observed at 4-times the MRHD based on mg/m 2body surface area.
 Risperidone was not teratogenic in rats or rabbits at doses up to 6-times the MRHD based on mg/m 2body surface area.
@@ -26,7 +26,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated Maternal and/or Embryo/Fetal Risk
 
 There is a risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
 Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
@@ -34,7 +34,7 @@ It is not known if this is a direct result of the illness or other comorbid fact
 
 Fetal/Neonatal Adverse Reactions
 
-Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including RISPERDAL CONSTA ®, during the third trimester of pregnancy.
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including RISPERDAL CONSTA, during the third trimester of pregnancy.
 These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
@@ -69,13 +69,13 @@ Risk Summary
 
 Limited data from published literature reports the presence of risperidone and its metabolite, 9-hydroxyrisperidone, in human breast milk at relative infant dose ranging between 2.3% and 4.7% of the maternal weight-adjusted dosage.
 There are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to risperidone (see Clinical Considerations).
-Risperidone has been detected in plasma in adult subjects up to 8 weeks after a single-dose administration of RISPERDAL CONSTA ®[see Clinical Pharmacology (12.3)], and the clinical significance on the breastfed infant is not known.
+Risperidone has been detected in plasma in adult subjects up to 8 weeks after a single-dose administration of RISPERDAL CONSTA [see Clinical Pharmacology (12.3)], and the clinical significance on the breastfed infant is not known.
 There is no information on the effects of risperidone on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for RISPERDAL CONSTA ®and any potential adverse effects on the breastfed child from RISPERDAL CONSTA ®or from the mother's underlying condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for RISPERDAL CONSTA and any potential adverse effects on the breastfed child from RISPERDAL CONSTA or from the mother's underlying condition.
 
 Clinical Considerations
 
-Infants exposed to RISPERDAL CONSTA ®through breastmilk should be monitored for excess sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements).
+Infants exposed to RISPERDAL CONSTA through breastmilk should be monitored for excess sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements).
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -83,11 +83,11 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of risperidone (D 2receptor antagonism), treatment with RISPERDAL CONSTA ®may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
+Based on the pharmacologic action of risperidone (D 2receptor antagonism), treatment with RISPERDAL CONSTA may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of RISPERDAL CONSTA ®in pediatric patients have not been established.
+Safety and effectiveness of RISPERDAL CONSTA in pediatric patients have not been established.
 However, juvenile animal toxicology studies have been conducted with oral risperidone.
 
 Juvenile Animal Studies
@@ -102,8 +102,8 @@ No other consistent effects on neurobehavioral or reproductive development were 
 
 ## 8.5 Geriatric Use
 
-In an open-label study, 57 clinically stable, elderly patients (≥ 65 years old) with schizophrenia or schizoaffective disorder received RISPERDAL CONSTA ®every 2 weeks for up to 12 months.
-In general, no differences in the tolerability of RISPERDAL CONSTA ®were observed between otherwise healthy elderly and nonelderly patients.
+In an open-label study, 57 clinically stable, elderly patients (≥ 65 years old) with schizophrenia or schizoaffective disorder received RISPERDAL CONSTA every 2 weeks for up to 12 months.
+In general, no differences in the tolerability of RISPERDAL CONSTA were observed between otherwise healthy elderly and nonelderly patients.
 Therefore, dosing recommendations for otherwise healthy elderly patients are the same as for nonelderly patients.
 Because elderly patients exhibit a greater tendency to orthostatic hypotension than nonelderly patients, elderly patients should be instructed in nonpharmacologic interventions that help to reduce the occurrence of orthostatic hypotension (e.g., sitting on the edge of the bed for several minutes before attempting to stand in the morning and slowly rising from a seated position).
 In addition, monitoring of orthostatic vital signs should be considered in elderly patients for whom orthostatic hypotension is of concern [see Warnings and Precautions (5.7)].
@@ -113,17 +113,17 @@ Concomitant use with Furosemide in Elderly Patients with Dementia-Related Psycho
 In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus oral risperidone when compared to patients treated with oral risperidone alone or with oral placebo plus furosemide.
 No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
 An increase of mortality in elderly patients with dementia-related psychosis was seen with the use of oral risperidone regardless of concomitant use with furosemide.
-RISPERDAL CONSTA ®is not approved for the treatment of patients with dementia-related psychosis.
+RISPERDAL CONSTA is not approved for the treatment of patients with dementia-related psychosis.
 [see Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 8.6 Renal or Hepatic Impairment
 
-In patients with renal or hepatic impairment, carefully titrate with oral risperidone prior to initiating treatment with RISPERDAL CONSTA ®[see Dosage and Administration (2.4)].
+In patients with renal or hepatic impairment, carefully titrate with oral risperidone prior to initiating treatment with RISPERDAL CONSTA [see Dosage and Administration (2.4)].
 
 Patients with renal impairment may have less ability to eliminate risperidone than patients with normal renal function.
 Patients with impaired hepatic function may have an increase in the free fraction of risperidone, possibly resulting in an enhanced effect [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Parkinson's Disease or Lewy Body Dementia
 
-Patients with Parkinson's Disease or Dementia with Lewy Bodies can experience increased sensitivity to RISPERDAL CONSTA ®.
+Patients with Parkinson's Disease or Dementia with Lewy Bodies can experience increased sensitivity to RISPERDAL CONSTA.
 Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.
