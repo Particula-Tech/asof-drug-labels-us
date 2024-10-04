@@ -2,7 +2,7 @@
 
 Desvenlafaxine Extended-Release Tablets (des VEN la FAX een)
 
-Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation
+Dispense with Medication Guide available at: www.breckenridgepharma.com/prescription-products/
 
 What is the most important information I should know about desvenlafaxine?
 
@@ -188,7 +188,7 @@ Do not give desvenlafaxine to other people, even if they have the same symptoms 
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about desvenlafaxine that is written for healthcare professionals.
 
-For more information call Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or go to www.bpirx.com.
+For more information call Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or go to www.breckenridgepharma.com.
 
 What are the ingredients in desvenlafaxine extended-release tablets?
 
@@ -208,4 +208,4 @@ Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Revised: 12/2023
+Revised: 08/2024

@@ -65,4 +65,4 @@ Residual Inert Matrix Tablet
 Patients receiving desvenlafaxine may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
-Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation
+Dispense with Medication Guide available at: www.breckenridgepharma.com/prescription-products/
