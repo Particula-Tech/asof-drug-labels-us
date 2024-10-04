@@ -151,7 +151,7 @@ Antipsychotic drugs elevate prolactin levels; the elevation persists during chro
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
-Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+Some epidemiologic studies have indicated a potential association between chronic administration of prolactin-increasing antipsychotics and breast cancer.
 
 There are no well controlled studies with haloperidol in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.

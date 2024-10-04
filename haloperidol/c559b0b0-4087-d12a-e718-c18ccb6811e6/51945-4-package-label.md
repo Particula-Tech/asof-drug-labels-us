@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 0.5 mg
+# PRINCIPAL DISPLAY PANEL – 0.5 mg
 
 NDC 0378-0351-01
 
@@ -31,7 +31,7 @@ Keep container tightly closed.
 
 Code No.: MP/DRUGS/25/1/2014
 
-PRINCIPAL DISPLAY PANEL - 1 mg
+# PRINCIPAL DISPLAY PANEL – 1 mg
 
 NDC 0378-0257-01
 
@@ -64,7 +64,7 @@ Keep container tightly closed.
 
 Code No.: MP/DRUGS/25/1/2014
 
-PRINCIPAL DISPLAY PANEL - 2 mg
+# PRINCIPAL DISPLAY PANEL – 2 mg
 
 NDC 0378-0214-01
 
@@ -97,7 +97,7 @@ Keep container tightly closed.
 
 Code No.: MP/DRUGS/25/1/2014
 
-PRINCIPAL DISPLAY PANEL - 5 mg
+# PRINCIPAL DISPLAY PANEL – 5 mg
 
 NDC 0378-0327-01
 
@@ -130,7 +130,7 @@ Keep container tightly closed.
 
 Code No.: MP/DRUGS/25/1/2014
 
-PRINCIPAL DISPLAY PANEL - 10 mg
+# PRINCIPAL DISPLAY PANEL – 10 mg
 
 NDC 0378-0334-01
 
@@ -163,7 +163,7 @@ Keep container tightly closed.
 
 Code No.: MP/DRUGS/25/1/2014
 
-PRINCIPAL DISPLAY PANEL - 20 mg
+# PRINCIPAL DISPLAY PANEL – 20 mg
 
 NDC 0378-0335-01
 

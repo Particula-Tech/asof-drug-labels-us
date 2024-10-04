@@ -51,6 +51,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75076829
+750XXXXX
 
-Revised: 7/2020 MXI:HALO:R1
+Revised: 9/2024 MXI:HALO:RX
