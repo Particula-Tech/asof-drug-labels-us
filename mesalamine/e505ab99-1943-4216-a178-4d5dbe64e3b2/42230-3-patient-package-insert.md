@@ -67,7 +67,7 @@ Giving the medicine.
 - •Throw away (discard) the bottle.
 - •Try to keep the medicine inside your body all night, if possible.
 
-IN-003606-X10
+IN-003606-08
 
 Rev.
 7/2024

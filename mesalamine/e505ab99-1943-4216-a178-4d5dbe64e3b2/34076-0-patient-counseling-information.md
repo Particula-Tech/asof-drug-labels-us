@@ -52,7 +52,7 @@ Instruct patients:
   If discolored urine is observed, advise patients to observe their urine flow.
   Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 
-IN-003606-X10
+IN-003606-08
 
 Distributed by: MEDA PHARMACEUTICALS Canonsburg, PA 15317 U.S.A.
 
