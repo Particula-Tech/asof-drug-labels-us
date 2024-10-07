@@ -1,34 +1,36 @@
-WARNING: RISK OF MEDICATION ERRORS; ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF CODEINE AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; DEATH RELATED TO ULTRA-RAPID METABOLISM OF CODEINE TO MORPHINE; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; HEPATOTOXICITY; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OFACETAMINOPHEN AND CODEINE PHOSPHATE ORAL SOLUTION
 
 ## Risk of Medication Errors
 
-Ensure accuracy when prescribing, dispensing, and administering acetaminophen and codeine phosphate oral solution.
+Ensure accuracy when prescribing, dispensing, and administering acetaminophen and codeine phosphate oral solution, 120 mg/12 mg per 5 mL.
 Dosing errors due to confusion between mg and mL, and other codeine containing oral products of different concentrations can result in accidental overdose and death [see WARNINGS, DOSAGE AND ADMINISTRATION].
 
 ## Addiction, Abuse, and Misuse
 
-Acetaminophen and codeine phosphate oral solution exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient's risk prior to prescribing acetaminophen and codeine phosphate oral solution, and monitor all patients regularly for the development of these behaviors and conditions [see WARNINGS].
-
-## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
-
-To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings].
-Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
-Healthcare providers are strongly encouraged to
-
-- complete a REMS-compliant education program,
-- counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products,
-- emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and
-- consider other tools to improve patient, household, and community safety.
+Because the use of acetaminophen and codeine phosphate oral solution exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see WARNINGS].
 
 ## Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of acetaminophen and codeine phosphate oral solution.
-Monitor for respiratory depression, especially during initiation of acetaminophen and codeine phosphate oral solution or following a dose increase [see WARNINGS].
+Serious, life-threatening, or fatal respiratory depression may occur with use of acetaminophen and codeine phosphate oral solution, especially during initiation or following a dose increase.
+To reduce the risk of respiratory depression, proper dosing and titration of acetaminophen and codeine phosphate oral solution are essential [see WARNINGS].
 
 ## Accidental Ingestion
 
-Accidental ingestion of acetaminophen and codeine phosphate oral solution, especially by children, can result in a fatal overdose of acetaminophen and codeine phosphate oral solution [see WARNINGS].
+Accidental ingestion of even one dose of acetaminophen and codeine phosphate oral solution, especially by children, can result in a fatal overdose of acetaminophen and codeine [see WARNINGS].
+
+## Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
+
+Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
+Reserve concomitant prescribing of acetaminophen and codeine phosphate oral solution and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see WARNINGS; Drug Interactions].
+
+## Neonatal Opioid Withdrawal Syndrome
+
+If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Ensure that management by neonatology experts will be available at delivery [see WARNINGS].
+
+## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+
+Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see WARNINGS].
 
 ## Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -36,11 +38,6 @@ Life-threatening respiratory depression and death have occurred in children who 
 Most of the reported cases occurred following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being an ultra-rapid metabolizer of codeine due to a CYP2D6 polymorphism [see WARNINGS].
 Acetaminophen and codeine phosphate oral solution is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
 Avoid the use of acetaminophen and codeine phosphate oral solution in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine.
-
-## Neonatal Opioid Withdrawal Syndrome
-
-Prolonged use of acetaminophen and codeine phosphate oral solution during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
-If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see WARNINGS].
 
 ## Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
@@ -51,11 +48,3 @@ Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with acet
 
 Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
 Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4,000 milligrams per day, and often involve more than one acetaminophen-containing product [see WARNINGS].
-
-## Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
-
-Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see WARNINGS; DRUG INTERACTIONS].
-
-- Reserve concomitant prescribing of acetaminophen and codeine phosphate oral solution and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
-- Limit dosages and durations to the minimum required.
-- Follow patients for signs and symptoms of respiratory depression and sedation.

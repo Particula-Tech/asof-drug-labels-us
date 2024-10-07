@@ -2,20 +2,19 @@
 
 ## Important Dosage and Administration Instructions
 
-Ensure accuracy when prescribing, dispensing, and administering acetaminophen and codeine phosphate oral solution to avoid dosing errors due to confusion between mg and mL, and with other acetaminophen and codeine phosphate oral solution of different concentrations, which could result in accidental overdose and death.
-Ensure the proper dose is communicated and dispensed.
-When writing prescriptions, include both the total dose in mg and the total dose in volume.
+Acetaminophen and codeine phosphate oral solution should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
 
-Ensure that the dose is communicated clearly and dispensed accurately.
-A household teaspoon or tablespoon is not an adequate measuring device.
-Given the inexactitude of the household spoon measure and the risk of using a tablespoon instead of a teaspoon, which could lead to overdosage, it is strongly recommended that caregivers obtain and use a calibrated measuring device.
-Health care providers should recommend a calibrated device that can measure and deliver the prescribed dose accurately, and instruct caregivers to use extreme caution in measuring the dosage [see WARNINGS].
+Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see WARNINGS].
+Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of acetaminophen and codeine phosphate oral solution for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see WARNINGS].
+Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
+Clinical guidelines on opioid prescribing for some acute pain conditions are available.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see WARNINGS].
+There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see WARNINGS].
 
-Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with acetaminophen and codeine phosphate oral solution and adjust the dosage accordingly [see WARNINGS].
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with acetaminophen and codeine phosphate oral solution.
+Consider this risk when selecting an initial dose and when making dose adjustments [see WARNINGS].
 
 ## Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -30,10 +29,12 @@ Consider prescribing naloxone when the patient has household members (including 
 
 ## Initial Dosage
 
-### Initiating Treatment with Acetaminophen and Codeine Phosphate Oral Solution
+Use of Acetaminophen and Codeine Phosphate Oral Solution as the First Opioid Analgesic
+
+Initiate treatment with acetaminophen and codeine phosphate oral solution at a dose of 15 mL (1 tablespoonful every 4 hours as needed for pain.
+Titrate the dose based upon the individual patient’s response to their initial dose of acetaminophen and codeine phosphate oral solution.
 
 Dosage should be adjusted according to severity of pain and response of the patient.
-
 However, it should be kept in mind that tolerance to codeine can develop with continued use and that the incidence of untoward effects is dose related.
 Adult doses of codeine higher than 60 mg are associated with an increased incidence of adverse reactions and are not associated with greater efficacy.
 
@@ -49,20 +50,14 @@ There is inter-patient variability in the potency of opioid drugs and opioid for
 Therefore, a conservative approach is advised when determining the total daily dosage of acetaminophen and codeine phosphate oral solution.
 It is safer to underestimate a patient’s 24-hour acetaminophen and codeine phosphate oral solution dosage than to overestimate the 24-hour acetaminophen and codeine phosphate oral solution dosage and manage an adverse reaction due to overdose.
 
-### Conversion from Other Opioids to Acetaminophen and Codeine Phosphate Oral Solution
-
-There is inter-patient variability in the potency of opioid drugs and opioid formulations.
-Therefore, a conservative approach is advised when determining the total daily dosage of acetaminophen and codeine phosphate oral solution.
-It is safer to underestimate a patient's 24-hour acetaminophen and codeine phosphate oral solution dosage than to overestimate the 24-hour acetaminophen and codeine phosphate oral solution dosage and manage an adverse reaction due to overdose.
-
 ## Titration and Maintenance of Therapy
 
 Individually titrate acetaminophen and codeine phosphate oral solution to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving acetaminophen and codeine phosphate oral solution to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see WARNINGS].
+Continually reevaluate patients receiving acetaminophen and codeine phosphate oral solution to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as reassess for the development of addiction, abuse, or misuse [see WARNINGS].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the acetaminophen and codeine phosphate oral solution dosage.
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase), consider reducing the dosage [see WARNINGS].
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## Safe Reduction or Discontinuation of Acetaminophen and Codeine Phosphate Oral Solution
@@ -72,7 +67,7 @@ Rapid discontinuation of opioid analgesics in patients who are physically depend
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking acetaminophen and codeine phosphate oral solution, there are a variety of factors that should be considered, including the dose of acetaminophen and codeine phosphate oral solution the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking acetaminophen and codeine phosphate oral solution, there are a variety of factors that should be considered, including the total daily dose of opioid (including acetaminophen and codeine phosphate oral solution) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.

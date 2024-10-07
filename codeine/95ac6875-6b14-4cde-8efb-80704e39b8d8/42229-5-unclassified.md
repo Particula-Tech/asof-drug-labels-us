@@ -20,10 +20,10 @@ The concomitant use of acetaminophen and codeine phosphate oral solution and CYP
 After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, it may result in lower codeine levels, greater norcodeine levels, and less metabolism via CYP2D6 with resultant lower morphine levels [see CLINICAL PHARMACOLOGY], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to codeine.
 
 If concomitant use of CYP3A4 inhibitor is necessary, consider dosage reduction of acetaminophen and codeine phosphate oral solution until stable drug effects are achieved.
-Monitor patients for respiratory depression and sedation at frequent intervals.
+Evaluate patients at frequent intervals for respiratory depression and sedation.
 
 If a CYP3A4 inhibitor is discontinued, consider increasing the acetaminophen and codeine phosphate oral solution dosage until stable drug effects are achieved.
-Monitor for signs of opioid withdrawal.
+Assess for signs of opioid withdrawal.
 
 ## CYP3A4 Inducers
 
@@ -31,9 +31,9 @@ The concomitant use of acetaminophen and codeine phosphate oral solution and CYP
 
 After stopping a CYP3A4 inducer, as the effects of the inducer decline, codeine plasma concentrations may increase, with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels [see CLINICAL PHARMACOLOGY], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
 
-If concomitant use of a CYP3A4 inducer is necessary, follow the patient for reduced efficacy and signs of opioid withdrawal and consider increasing the acetaminophen and codeine phosphate oral solution dosage as needed.
+If concomitant use of a CYP3A4 inducer is necessary, evaluate the patient for reduced efficacy and signs of opioid withdrawal and consider increasing the acetaminophen and codeine phosphate oral solution dosage as needed.
 
-If a CYP3A4 inducer is discontinued, consider an acetaminophen and codeine phosphate oral solution dosage reduction and monitor for signs of respiratory depression and sedation at frequent intervals.
+If a CYP3A4 inducer is discontinued, consider an acetaminophen and codeine phosphate oral solution dose reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation.
 
 ## Benzodiazepines and Other Central Nervous System (CNS) Depressants
 
@@ -41,7 +41,7 @@ Due to additive pharmacologic effect, the concomitant use of benzodiazepines or 
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
-Follow patients closely for signs of respiratory depression and sedation.
+Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
 If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
 
 ## Serotonergic Drugs
@@ -49,7 +49,7 @@ If concomitant use is warranted, consider prescribing naloxone for the emergency
 The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome.
 Examples of these drugs include, selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and monoamine oxidase (MAO) inhibitors (used to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see PRECAUTIONS; Information for Patients].
 
-If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
+If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
 Discontinue acetaminophen and codeine phosphate oral solution if serotonin syndrome is suspected.
 
 ## Monoamine Oxidase Inhibitors (MAOIs)
@@ -69,7 +69,7 @@ Advise patient to avoid concomitant use of these drugs.
 
 Acetaminophen and codeine phosphate oral solution may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
-If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of acetaminophen and codeine phosphate oral solution and/or the muscle relaxant as necessary.
+If concomitant use is warranted, because respiratory depression may be greater than otherwise expected, decrease the dosage of acetaminophen and codeine phosphate oral solution and/or the muscle relaxant as necessary.
 Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
 
 ## Diuretics
@@ -82,7 +82,7 @@ If concomitant use is warranted, monitor patients for signs of diminished diures
 
 The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
-If concomitant use is warranted, monitor patients for signs of urinary retention or reduced gastric motility when acetaminophen and codeine phosphate oral solution is used concomitantly with anticholinergic drugs.
+If concomitant use is warranted, evaluate patients for signs of urinary retention or reduced gastric motility when acetaminophen and codeine phosphate oral solution is used concomitantly with anticholinergic drugs.
 
 ## Drug/Laboratory Test Interactions
 
@@ -97,8 +97,8 @@ Acetaminophen may produce false-positive test results for urinary 5-hydroxyindol
 Long-term studies to evaluate the carcinogenic potential of the combination of codeine and acetaminophen have not been conducted.
 
 Two-year carcinogenicity studies have been conducted in F344/N rats and B6C3F1 mice.
-There was no evidence of carcinogenicity in male and female rats, respectively, at dietary doses up to 70 and 80 mg/kg/day of codeine sulfate (approximately 2 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m 2basis) for two years.
-Similarly there was no evidence of carcinogenicity activity in male and female mice at dietary doses up to 400 mg/kg/day of codeine sulfate (approximately 5 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m 2basis) for two years.
+There was no evidence of carcinogenicity in male and female rats, respectively, at dietary doses up to 70 and 80 mg/kg/day of codeine sulfate (approximately 2 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m2 basis) for two years.
+Similarly there was no evidence of carcinogenicity activity in male and female mice at dietary doses up to 400 mg/kg/day of codeine sulfate (approximately 5 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m2 basis) for two years.
 
 Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen.
 In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm.
@@ -107,7 +107,7 @@ In contrast, there was no evidence of carcinogenic activity in male rats that re
 
 ### Mutagenesis
 
-Codeine sulfate was not mutagenic in the in vitrobacterial reverse mutation assay or clastogenic in the in vitroChinese hamster ovary cell chromosome aberration assay.
+Codeine sulfate was not mutagenic in the in vitro bacterial reverse mutation assay or clastogenic in the in vitro Chinese hamster ovary cell chromosome aberration assay.
 
 In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
@@ -146,7 +146,7 @@ Acetaminophen and codeine phosphate oral solution should be used during pregnanc
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Use of opioid for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -211,8 +211,8 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 # MANUFACTURED BY
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
+PAI Pharma Greenville, SC 29605
 
-R06/22
+R12/23
 
 MEDICATION GUIDE See attached.

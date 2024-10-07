@@ -35,7 +35,7 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see ADVERSE REACTIONS].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see ADVERSE REACTIONS].
 
 ### Effects on the Immune System
@@ -90,6 +90,7 @@ The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage an
 Elimination of acetaminophen is principally by liver metabolism and subsequent renal excretion of metabolites.
 Acetaminophen is primarily metabolized in the liver by first-order kinetics and involves three principal separate pathways: conjugation with glucuronide; conjugation with sulfate; and oxidation via the cytochrome, P450-dependent, mixed-function oxidase enzyme pathway to form a reactive intermediate metabolite, which conjugates with glutathione and is then further metabolized to form cysteine and mercapturic acid conjugates.
 The principal cytochrome P450 isoenzyme involved appears to be CYP2E1, with CYP1A2 and CYP3A4 as additional pathways.
+
 Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
 
-See OVERDOSAGEfor toxicity information.
+See OVERDOSAGE for toxicity information.

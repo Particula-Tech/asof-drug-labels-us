@@ -35,5 +35,8 @@ Skin and Appendages: rash, sweating, urticarial
 - Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 - Anaphylaxis: Anaphylaxis has been reported with ingredients contained in acetaminophen and codeine phosphate oral solution.
 - Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY].
+- Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see WARNINGS]
+- Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+  Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Pharmaceutical Associates, Inc. at 1-800-845-8210.
+To report SUSPECTED ADVERSE REACTIONS, contact PAI Pharma. at 1-800-845-8210 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
