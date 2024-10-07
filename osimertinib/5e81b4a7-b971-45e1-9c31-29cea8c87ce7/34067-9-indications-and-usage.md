@@ -4,14 +4,18 @@
 
 TAGRISSO is indicated as adjuvant therapy after tumor resection in adult patients with non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test [see Dosage and Administration (2.2)].
 
-## 1.2 First-line Treatment of EGFR Mutation-Positive Metastatic NSCLC
+## 1.2 Locally Advanced, Unresectable (Stage III) EGFR Mutation-Positive NSCLC
+
+TAGRISSO is indicated for the treatment of adult patients with locally advanced, unresectable (stage III) NSCLC whose disease has not progressed during or following concurrent or sequential platinum-based chemoradiation therapy and whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test [see Dosage and Administration (2.2)].
+
+## 1.3 First-line Treatment of EGFR Mutation-Positive Metastatic NSCLC
 
 TAGRISSO is indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test [see Dosage and Administration (2.2)].
 
-## 1.3 First-line Treatment of EGFR Mutation-Positive Locally Advanced or Metastatic NSCLC
+## 1.4 First-line Treatment of EGFR Mutation-Positive Locally Advanced or Metastatic NSCLC
 
 TAGRISSO in combination with pemetrexed and platinum-based chemotherapy is indicated for the first-line treatment of adult patients with locally advanced or metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test [see Dosage and Administration (2.2)].
 
-## 1.4 Previously Treated EGFR T790M Mutation-Positive Metastatic NSCLC
+## 1.5 Previously Treated EGFR T790M Mutation-Positive Metastatic NSCLC
 
 TAGRISSO is indicated for the treatment of adult patients with metastatic EGFR T790M mutation-positive NSCLC, as detected by an FDA-approved test, whose disease has progressed on or after EGFR tyrosine kinase inhibitor (TKI) therapy [see Dosage and Administration (2.2)].

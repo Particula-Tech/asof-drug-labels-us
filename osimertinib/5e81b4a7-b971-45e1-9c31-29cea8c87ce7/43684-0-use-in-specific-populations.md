@@ -64,6 +64,11 @@ Of the 1813 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positi
 Exploratory analysis suggests a higher incidence of Grade 3 or higher adverse reactions (43% vs 33%) and more frequent dosage modifications for adverse reactions (34% vs 23%) in patients 65 years or older as compared to those younger than 65 years.
 No overall differences in safety or effectiveness were observed between patients 65 years or older and younger patients.
 
+TAGRISSO Following Definitive Platinum-based Chemoradiation Therapy
+
+Of the 142 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, locally advanced unresectable (Stage III) NSCLC treated with TAGRISSO following definitive platinum-based chemoradiation therapy, 62 patients were ≥65 years and 13 patients were ≥75 years of age [see Adverse Reactions (6.1)].
+No overall differences in safety or effectiveness were observed between patients 65 years or older and younger patients.
+
 TAGRISSO in Combination with Pemetrexed and Platinum-based Chemotherapy
 
 Of the 276 patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, locally advanced or metastatic NSCLC treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, 104 patients were ≥65 years and 23 patients were ≥75 years of age [see Adverse Reactions (6.1)].

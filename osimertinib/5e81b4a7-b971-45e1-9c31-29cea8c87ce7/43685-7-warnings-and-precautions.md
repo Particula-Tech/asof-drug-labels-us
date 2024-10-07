@@ -1,17 +1,30 @@
-# 5 WARNINGS AND PRECAUTIONS
-
 ## 5.1 Interstitial Lung Disease/Pneumonitis
 
-Interstitial lung disease (ILD)/pneumonitis occurred in 4% of the 1813 TAGRISSO-treated patients; 0.4% of cases were fatal.
+TAGRISSO can cause severe and fatal ILD/pneumonitis.
+
+Across clinical trials, interstitial lung disease (ILD)/pneumonitis occurred in 4% of the 1813 patients treated with TAGRISSO monotherapy who had not received recent definitive chemoradiation therapy; 0.4% of cases were fatal.
+
+ILD/Pneumonitis with TAGRISSO in Combination with Pemetrexed and Platinum-based Chemotherapy
 
 In the FLAURA2 study, ILD/pneumonitis occurred in 3.3% of the 276 patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy; 0.4% of cases were fatal.
 
-Withhold TAGRISSO and promptly investigate for ILD in patients who present with worsening of respiratory symptoms which may be indicative of ILD (e.g., dyspnea, cough and fever).
+ILD/Pneumonitis Following Definitive Platinum-based Chemoradiation Therapy
+
+In the LAURA study, following definitive platinum-based chemoradiation therapy, ILD/pneumonitis, including radiation pneumonitis, occurred in 80 of the 143 patients (56%) who received TAGRISSO monotherapy and 28 of the 73 patients (38%) who received placebo.
+There was one fatal case (0.7%), 3.5% Grade 3, 34% Grade 2, and 18% Grade 1 adverse reactions of ILD/pneumonitis in TAGRISSO-treated patients.
+For TAGRISSO-treated patients, ILD/pneumonitis led to permanent discontinuation of TAGRISSO in 7% of patients and dosage interruptions of TAGRISSO in 35% of patients.
+Among the 46 patients who were rechallenged with TAGRISSO, 11% had recurrence of ILD/pneumonitis.
+In the 80 TAGRISSO-treated patients, ILD/pneumonitis resolved in 40%, resolved with sequelae in 1.3%, were resolving in 16%, did not resolve in 41%, and resulted in death in 1.3%.
+
+For patients receiving TAGRISSO who have not received recent definitive platinum-based chemoradiation therapy, withhold TAGRISSO and promptly investigate for ILD in patients who present with worsening or respiratory symptoms which may be indicative of ILD (e.g., dyspnea, cough, and fever).
 Permanently discontinue TAGRISSO if ILD/pneumonitis is confirmed [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
+
+For patients who have received recent definitive platinum-based chemoradiation therapy with Grade 1 ILD/pneumonitis continue TAGRISSO or interrupt and restart, as appropriate.
+Permanently discontinue TAGRISSO in patients diagnosed with Grade ≥2 ILD/pneumonitis [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
 
 ## 5.2 QTc Interval Prolongation
 
-Heart rate-corrected QT (QTc) interval prolongation occurs in patients treated with TAGRISSO.
+TAGRISSO can cause heart rate-corrected QT (QTc) interval prolongation.
 Of the 1813 patients treated with TAGRISSO monotherapy in clinical trials, 1.1% were found to have a QTc >500 msec, and 4.3% of patients had an increase from baseline QTc >60 msec [see Clinical Pharmacology (12.2)].
 
 Of the 276 patients treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy in the FLAURA2 study, 1.8% were found to have a QTc >500 msec, and 10.5% of patients had an increase from baseline QTc >60 msec.
@@ -24,12 +37,15 @@ Permanently discontinue TAGRISSO in patients who develop QTc interval prolongati
 
 ## 5.3 Cardiomyopathy
 
-Across clinical trials, cardiomyopathy (defined as cardiac failure, chronic cardiac failure, congestive heart failure, pulmonary edema or decreased ejection fraction) occurred in 3.8% of the 1813 TAGRISSO-treated patients; 0.1% of cardiomyopathy cases were fatal.
+TAGRISSO can cause cardiomyopathy, including cardiac failure, chronic cardiac failure, congestive heart failure, pulmonary edema or decreased ejection fraction.
+
+Across clinical trials, cardiomyopathy occurred in 3.8% of the 1813 TAGRISSO-treated patients; 0.1% of cardiomyopathy cases were fatal.
 
 In the FLAURA2 study, cardiomyopathy occurred in 9% of the 276 patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy; 1.1% of cardiomyopathy cases were fatal.
 
 A decline in left ventricular ejection fraction (LVEF) ≥10 percentage points from baseline and to less than 50% LVEF occurred in 4.2% of 1557 patients who had baseline and at least one follow-up LVEF assessment.
 In the ADAURA study, 1.5% (5/325) of patients treated with TAGRISSO experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
+In the LAURA study, following platinum based chemoradiation therapy, 3% (4/135) of patients treated with TAGRISSO and no patients treated with placebo experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
 In the FLAURA2 study, 8% (21/262) of patients treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, who had baseline and at least one follow-up LVEF assessment, experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
 
 For patients who will be receiving TAGRISSO monotherapy, conduct cardiac monitoring, including assessment of LVEF at baseline and during treatment, in patients with cardiac risk factors.
