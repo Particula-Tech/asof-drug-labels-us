@@ -54,7 +54,7 @@ For patients with diseases, conditions, or medications that could exacerbate the
 
 ## General:
 
-Patients with bone marrow depression or who have previously demonstrated a hypersensitivity reaction (e.g., blood dyscrasias, jaundice) with a phenothiazine should not receive any phenothiazine, including prochlorperazine, unless in the judgement of the physician the potential benefits of treatment outweigh the possible hazards.
+Patients with bone marrow depression or who have previously demonstrated a hypersensitivity reaction (e.g., blood dyscrasias, jaundice) with a phenothiazine should not receive any phenothiazine, including prochlorperazine, unless in the judgment of the physician the potential benefits of treatment outweigh the possible hazards.
 
 Prochlorperazine may impair mental and/or physical abilities, especially during the first few days of therapy.
 Therefore, caution patients about activities requiring alertness (e.g., operating vehicles or machinery).
@@ -101,8 +101,8 @@ Deep sleep, from which patients can be aroused, and coma have been reported, usu
 Neuroleptic drugs elevate prolactin levels; the elevation persists during chronic administration.
 Tissue culture experiments indicate that approximately one third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescribing of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
-An increase in mammary neoplasms has been found in rodents after chronic administration of neuroleptic drugs.
-Neither clinical nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
+Some epidemiologic studies have indicated a potential association between chronic administration of prolactin-increasing antipsychotics and breast cancer.
 
 Chromosomal aberrations in spermatocytes and abnormal sperm have been demonstrated in rodents treated with certain neuroleptics.
 
