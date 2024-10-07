@@ -13,7 +13,7 @@ Concomitant use of argatroban with antiplatelet agents, thrombolytics, and other
 
 When administering Argatroban in Sodium Chloride Injection to patients with hepatic impairment, start with a lower dose and carefully titrate until the desired level of anticoagulation is achieved.
 Achievement of steady-state aPTT levels may take longer and require more argatroban dose adjustments in patients with hepatic impairment compared to patients with normal hepatic function [see Use in Specific Populations (8.6)].
-Also, upon cessation of argatroban infusion in the hepatically impaired patient, full reversal of anticoagulant effects may require longer than 4 hours due to decreased clearance and increased elimination half-life of argatroban [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Also, upon cessation of argatroban infusion in the hepatically impaired patient, full reversal of anticoagulant effects may require longer than 4 hours due to decreased clearance and increased elimination half-life of argatroban [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 Avoid the use of high doses of Argatroban in Sodium Chloride Injection in patients undergoing PCI who have clinically significant hepatic disease or AST/ALT levels ≥3 times the upper limit of normal.
 
 ## 5.3 Laboratory Tests
@@ -21,4 +21,4 @@ Avoid the use of high doses of Argatroban in Sodium Chloride Injection in patien
 Anticoagulation effects associated with argatroban infusion at doses up to 40 mcg/kg/min correlate with increases of the activated partial thromboplastin time (aPTT).
 Although other global clot-based tests including prothrombin time (PT), the International Normalized Ratio (INR), and thrombin time (TT) are affected by argatroban, the therapeutic ranges for these tests have not been identified for argatroban therapy.
 In clinical trials in PCI, the activated clotting time (ACT) was used for monitoring argatroban anticoagulant activity during the procedure.
-The concomitant use of argatroban and warfarin results in prolongation of the PT and INR beyond that produced by warfarin alone [see Dosage and Administration (2.5) and Clinical Pharmacology (12.2)].
+The concomitant use of argatroban and warfarin results in prolongation of the PT and INR beyond that produced by warfarin alone [see Dosage and Administration (2.5)and Clinical Pharmacology (12.2)].

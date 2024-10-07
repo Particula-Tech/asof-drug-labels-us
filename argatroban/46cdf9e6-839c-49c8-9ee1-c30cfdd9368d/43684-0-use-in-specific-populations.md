@@ -69,9 +69,9 @@ Four pediatric patients with elevated bilirubin (secondary to cardiac complicati
 
 These PK/PD analysis models based on a goal of aPTT prolongation of 1.5 to 3 times the baseline value and avoidance of an aPTT > 100 seconds for seriously ill pediatric patients with HIT/HITTS who require an alternative to heparin suggested the following:
 
-- For patients with normal hepatic function, a starting infusion rate of 0.75 mcg/kg/min may have comparable aPTT responses as a starting dose of 2 mcg/kg/min in health adults.
+- For patients with normal hepatic function,a starting infusion rate of 0.75 mcg/kg/min may have comparable aPTT responses as a starting dose of 2 mcg/kg/min in health adults.
   Additionally, based on an evaluation of aPTT every two hours, increasing the dosage by 0.1 to 0.25 mcg/kg/min could achieve additional aPTT responses.
-- For patients with hepatic impairment a starting infusion rate of 0.2 mcg/kg/min with increasing dosing by increments of 0.05 mcg/kg/min may have comparable argatroban exposure as expected with adult doses.
+- For patients with hepatic impairmenta starting infusion rate of 0.2 mcg/kg/min with increasing dosing by increments of 0.05 mcg/kg/min may have comparable argatroban exposure as expected with adult doses.
 
 The safety and effectiveness of argatroban with the above dosing have not been adequately assessed in pediatric patients and the safety and effectiveness of argatroban is not established in pediatric patients.
 In addition, the described dosage did not take into account multiple factors that could affect the dosage such as current aPTT, target aPTT, and the clinical status of the patient.

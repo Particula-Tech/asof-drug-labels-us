@@ -23,38 +23,38 @@ Representative steady-state plasma argatroban concentrations and anticoagulant e
 Figure 1.
 Relationship at Steady State Between Argatroban Dose, Plasma Argatroban Concentration and Anticoagulant Effect
 
-Effect on International Normalized Ratio (INR): Because argatroban is a direct thrombin inhibitor, co-administration of argatroban and warfarin produces a combined effect on the laboratory measurement of the INR.
+Effect on International Normalized Ratio (INR):Because argatroban is a direct thrombin inhibitor, co-administration of argatroban and warfarin produces a combined effect on the laboratory measurement of the INR.
 However, concurrent therapy, compared to warfarin monotherapy, exerts no additional effect on vitamin K-dependent factor Xa activity.
 
 The relationship between INR on co-therapy and warfarin alone is dependent on both the dose of argatroban and the thromboplastin reagent used.
 This relationship is influenced by the International Sensitivity Index (ISI) of the thromboplastin.
-Data for 2 commonly utilized thromboplastins with ISI values of 0.88 (Innovin, Dade) and 1.78 (Thromboplastin C Plus, Dade) are presented in Figure 2 for an argatroban dose of 2 mcg/kg/min.
+Data for 2 commonly utilized thromboplastins with ISI values of 0.88 (Innovin, Dade) and 1.78 (Thromboplastin C Plus, Dade) are presented in Figure 2for an argatroban dose of 2 mcg/kg/min.
 Thromboplastins with higher ISI values than shown result in higher INRs on combined therapy of warfarin and argatroban.
 These data are based on results obtained in normal individuals [see Dosage and Administration (2.5), Warnings and Precautions (5.3)].
 
 Figure 2.
 INR Relationship of Argatroban Plus Warfarin Versus Warfarin Alone
 
-Figure 2 demonstrates the relationship between INR for warfarin alone and INR for warfarin co-administered with argatroban at a dose of 2 mcg/kg/min.
+Figure 2demonstrates the relationship between INR for warfarin alone and INR for warfarin co-administered with argatroban at a dose of 2 mcg/kg/min.
 To calculate INR for warfarin alone (INR W), based on INR for co-therapy of warfarin and argatroban (INR WA), when the argatroban dose is 2 mcg/kg/min, use the equation next to the appropriate curve.
-Example: At a dose of 2 mcg/kg/min and an INR performed with Thromboplastin A, the equation 0.19 + 0.57 (INR WA) = INR W would allow a prediction of the INR on warfarin alone (INR W). Thus, using an INR WA value of 4 obtained on combined therapy: INR W = 0.19 + 0.57 (4) = 2.47 as the value for INR on warfarin alone.
+Example: At a dose of 2 mcg/kg/min and an INR performed with Thromboplastin A, the equation 0.19 + 0.57 (INR WA) = INR Wwould allow a prediction of the INR on warfarin alone (INR W). Thus, using an INR WAvalue of 4 obtained on combined therapy: INR W= 0.19 + 0.57 (4) = 2.47 as the value for INR on warfarin alone.
 The error (confidence interval) associated with a prediction is ± 0.4 units.
 Similar linear relationships and prediction errors exist for argatroban at a dose of 1 mcg/kg/min.
-Thus, for argatroban doses of 1 or 2 mcg/kg/min, INR W can be predicted from INR WA.
-For argatroban doses greater than 2 mcg/kg/min, the error associated with predicting INR W from INR WA is ± 1.
-Thus, INR W cannot be reliably predicted from INR WA at doses greater than 2 mcg/kg/min.
+Thus, for argatroban doses of 1 or 2 mcg/kg/min, INR Wcan be predicted from INR WA.
+For argatroban doses greater than 2 mcg/kg/min, the error associated with predicting INR Wfrom INR WAis ± 1.
+Thus, INR Wcannot be reliably predicted from INR WAat doses greater than 2 mcg/kg/min.
 
 ## 12.3 Pharmacokinetics
 
 Distribution
 
 Argatroban distributes mainly in the extra cellular fluid as evidenced by an apparent steady-state volume of distribution of 174 mL/kg (12.18 L in a 70 kg adult).
-Argatroban is 54% bound to human serum proteins, with binding to albumin and α 1 – acid glycoprotein being 20% and 34%, respectively.
+Argatroban is 54% bound to human serum proteins, with binding to albumin and α 1– acid glycoprotein being 20% and 34%, respectively.
 
 Metabolism
 
 The main route of argatroban metabolism is hydroxylation and aromatization of the 3-methyltetrahydroquinoline ring in the liver.
-The formation of each of the 4 known metabolites is catalyzed in vitro by the human liver microsomal cytochrome P450 enzymes CYP3A4/5.
+The formation of each of the 4 known metabolites is catalyzed in vitroby the human liver microsomal cytochrome P450 enzymes CYP3A4/5.
 The primary metabolite (M1) exerts 3- to 5-fold weaker anticoagulant effects than argatroban.
 Unchanged argatroban is the major component in plasma.
 The plasma concentrations of M1 range between 0% and 20% of that of the parent drug.
@@ -77,7 +77,7 @@ Average percent recovery of unchanged drug, relative to total dose, was 16% in u
 
 Special Populations
 
-Hepatic Impairment: The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)].
+Hepatic Impairment: The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.4)and Warnings and Precautions (5.2)].
 Patients with hepatic impairment were not studied in percutaneous coronary intervention (PCI) trials.
 At a dose of 2.5 mcg/kg/min, hepatic impairment is associated with decreased clearance and increased elimination half-life of argatroban (to 1.9 mL/kg/min and 181 minutes, respectively, for patients with a Child-Pugh score >6).
 
@@ -98,6 +98,6 @@ Drug-Drug Interactions
 Digoxin: In 12 healthy volunteers, intravenous infusion of argatroban (2 mcg/kg/min) over 5 days (study days 11 to 15) did not affect the steady-state pharmacokinetics of oral digoxin (0.375 mg daily for 15 days).
 
 Erythromycin: In 10 healthy subjects, orally administered erythromycin (a potent inhibitor of CYP3A4/5) at 500 mg four times daily for 7 days had no effect on the pharmacokinetics of argatroban at a dose of 1 mcg/kg/min for 5 hours.
-These data suggest oxidative metabolism by CYP3A4/5 is not an important elimination pathway in vivo for argatroban.
+These data suggest oxidative metabolism by CYP3A4/5 is not an important elimination pathway in vivofor argatroban.
 
 Aspirin and Acetaminophen: Drug-drug interactions have not been demonstrated between argatroban and concomitantly administered aspirin (162.5 mg orally given 26 and 2 hours prior to initiation of argatroban 1 mcg/kg/min over 4 hours) or acetaminophen (1,000 mg orally given 12, 6, and 0 hours prior to, and 6 and 12 hours subsequent to, initiation of argatroban 1.5 mcg/kg/min over 18 hours).

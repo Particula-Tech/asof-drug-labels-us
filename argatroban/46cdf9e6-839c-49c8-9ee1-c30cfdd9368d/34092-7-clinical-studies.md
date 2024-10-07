@@ -28,7 +28,7 @@ The test results for the remainder of the patients and controls were either nega
 There was a significant improvement in the composite outcome in patients with HIT and HITTS treated with argatroban versus those in the historical control group (see Table 9).
 The components of the composite endpoint are shown in Table 9.
 
-| Table 9. Efficacy Results of Study 1: Composite Endpoint a and Individual Components, Ranked by Severity b |  |  |  |  |  |  |
+| Table 9. Efficacy Results of Study 1: Composite Endpoint aand Individual Components, Ranked by Severity b |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | HIT |  | HITTS |  | HIT/HITTS |  |
 | Parameter, N (%) | Control n = 147 | Argatroban n = 160 | Control n = 46 | Argatroban n = 144 | Control n = 193 | Argatroban n = 304 |
@@ -41,7 +41,7 @@ The components of the composite endpoint are shown in Table 9.
 Time-to-event analyses showed significant improvements in the time-to-first event in patients with HIT or HITTS treated with argatroban versus those in the historical control group.
 The between-group differences in the proportion of patients who remained free of death, amputation, or new thrombosis were statistically significant in favor of argatroban by these analyses.
 
-A time-to-event analysis for the composite endpoint is shown in Figure 3 for patients with HIT and Figure 4 for patients with HITTS.
+A time-to-event analysis for the composite endpoint is shown in Figure 3for patients with HIT and Figure 4for patients with HITTS.
 
 Figure 3.
 Time-to-First Event for the Composite Efficacy Endpoint: HIT Patients STUDY 1
@@ -90,7 +90,7 @@ An aPTT was drawn 2 hours after this dose reduction and the dose of argatroban t
 
 In 92 of the 112 interventions (82%), the patient received the initial bolus of 350 mcg/kg and an initial infusion dose of 25 mcg/kg/min.
 The majority of patients did not require additional bolus dosing during the PCI procedure.
-The mean value for the initial ACT measurement after the start of dosing for all interventions was 379 sec (median 338 sec; 5 th percentile-95 th percentile 238 to 675 sec). The mean ACT value per intervention over all measurements taken during the procedure was 416 sec (median 390 sec; 5 th percentile-95 th percentile 261 to 698 sec). About 65% of patients had ACTs within the recommended range of 300 to 450 seconds throughout the procedure.
+The mean value for the initial ACT measurement after the start of dosing for all interventions was 379 sec (median 338 sec; 5 thpercentile-95 thpercentile 238 to 675 sec). The mean ACT value per intervention over all measurements taken during the procedure was 416 sec (median 390 sec; 5 thpercentile-95 thpercentile 261 to 698 sec). About 65% of patients had ACTs within the recommended range of 300 to 450 seconds throughout the procedure.
 The investigators did not achieve anticoagulation within the recommended range in about 23% of patients.
 However, in this small sample, patients with ACTs below 300 seconds did not have more coronary thrombotic events, and patients with ACTs over 450 seconds did not have higher bleeding rates.
 

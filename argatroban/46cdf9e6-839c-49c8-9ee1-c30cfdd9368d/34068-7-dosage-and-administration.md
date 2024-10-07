@@ -130,7 +130,7 @@ A loading dose of warfarin should not be used.
 The relationship between INR and bleeding risk is altered when argatroban and warfarin are co-administered.
 The combination of argatroban and warfarin does not cause further reduction in the vitamin-K dependent factor Xa activity than that which is seen with warfarin alone.
 The relationship between INR obtained on combined therapy and INR obtained on warfarin alone is dependent on both the dose of argatroban and the thromboplastin reagent used.
-The INR value on warfarin alone (INR w) can be calculated from the INR value on combination argatroban and warfarin therapy [see Drug Interactions (7.2) and Clinical Pharmacology (12.2)].
+The INR value on warfarin alone (INR w) can be calculated from the INR value on combination argatroban and warfarin therapy [see Drug Interactions (7.2)and Clinical Pharmacology (12.2)].
 
 Co-Administration of Warfarin and Argatroban in Sodium Chloride injection at Doses Up to 2 mcg/kg/min:
 

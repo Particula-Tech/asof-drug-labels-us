@@ -17,31 +17,31 @@ Adverse reactions are separated into hemorrhagic and non-hemorrhagic reactions.
 Major bleeding was defined as bleeding that was overt and associated with a hemoglobin decrease ≥2 g/dL, that led to a transfusion of ≥2 units, or that was intracranial, retroperitoneal, or into a major prosthetic joint.
 Minor bleeding was overt bleeding that did not meet the criteria for major bleeding.
 
-Table 4 gives an overview of the most frequently observed hemorrhagic reactions, presented separately by major and minor bleeding, sorted by decreasing occurrence among argatroban-treated patients with HIT (with or without thrombosis).
+Table 4gives an overview of the most frequently observed hemorrhagic reactions, presented separately by major and minor bleeding, sorted by decreasing occurrence among argatroban-treated patients with HIT (with or without thrombosis).
 
-| Table 4. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT* |  |  |
-| --- | --- | --- |
-|  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control c (n = 193) % |
-| Major Hemorrhagic Reactions a |  |  |
-| Overall bleeding | 5.3 | 6.7 |
-| Gastrointestinal | 2.3 | 1.6 |
-| Genitourinary and hematuria | 0.9 | 0.5 |
-| Decrease in hemoglobin and hematocrit | 0.7 | 0 |
-| Multisystem hemorrhage and DIC | 0.5 | 1 |
-| Limb and BKA stump | 0.5 | 0 |
-| Intracranial hemorrhage | 0 b | 0.5 |
-| Minor Hemorrhagic Reactionsa |  |  |
-| Gastrointestinal | 14.4 | 18.1 |
-| Genitourinary and hematuria | 11.6 | 0.8 |
-| Decrease in hemoglobin and hematocrit | 10.4 | 0 |
-| Groin | 5.4 | 3.1 |
-| Hemoptysis | 2.9 | 0.8 |
-| Brachial | 2.4 | 0.8 |
-| *with or without thrombosisa) Patients may have experienced more than 1 adverse reaction.b) One patient experienced intracranial hemorrhage 4 days after discontinuation of argatroban and following therapy with urokinase and oral anticoagulation.c) The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel. DIC = disseminated intravascular coagulation. BKA = below-the-knee amputation |  |  |
+| Table 4. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT* |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control c (n = 193) % |  |  |  |  |
+| Major Hemorrhagic Reactions a |  |  |  |  |  |  |
+| Overall bleeding | 5.3 | 6.7 |  |  |  |  |
+| Gastrointestinal | 2.3 | 1.6 |  |  |  |  |
+| Genitourinary and hematuria | 0.9 | 0.5 |  |  |  |  |
+| Decrease in hemoglobin and hematocrit | 0.7 | 0 |  |  |  |  |
+| Multisystem hemorrhage and DIC | 0.5 | 1 |  |  |  |  |
+| Limb and BKA stump | 0.5 | 0 |  |  |  |  |
+| Intracranial hemorrhage | 0 b | 0.5 |  |  |  |  |
+| Minor Hemorrhagic Reactionsa |  |  |  |  |  |  |
+| Gastrointestinal | 14.4 | 18.1 |  |  |  |  |
+| Genitourinary and hematuria | 11.6 | 0.8 |  |  |  |  |
+| Decrease in hemoglobin and hematocrit | 10.4 | 0 |  |  |  |  |
+| Groin | 5.4 | 3.1 |  |  |  |  |
+| Hemoptysis | 2.9 | 0.8 |  |  |  |  |
+| Brachial | 2.4 | 0.8 |  |  |  |  |
+| *with or without thrombosisa) Patients may have experienced more than 1 adverse reaction.b) One patient experienced intracranial hemorrhage 4 days after discontinuation of argatroban and following therapy with urokinase and oral anticoagulation.c) The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel. DIC = disseminated intravascular coagulation. BKA = below-the-knee amputation |  |  |  |  |  |  |
 
-Table 5 gives an overview of the most frequently observed non-hemorrhagic reactions sorted by decreasing frequency of occurrence (≥2%) among argatroban-treated HIT/HITTS patients.
+Table 5gives an overview of the most frequently observed non-hemorrhagic reactions sorted by decreasing frequency of occurrence (≥2%) among argatroban-treated HIT/HITTS patients.
 
-| Table 5. Non-hemorrhagic Adverse Reactions in Patients a With HIT b |  |  |
+| Table 5. Non-hemorrhagic Adverse Reactions in Patients aWith HIT b |  |  |
 | --- | --- | --- |
 |  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control c (n = 193) % |
 | Dyspnea | 8.1 | 8.8 |
@@ -73,27 +73,27 @@ Major bleeding was defined as bleeding that was overt and associated with a hemo
 
 The rate of major bleeding reactions in patients treated with argatroban in the PCI trials was 1.8%.
 
-| Table 6. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT Undergoing PCI |  |
-| --- | --- |
-| Major Hemorrhagic Reactions a |  |
-|  | Argatroban-treated Patients (n = 112) b % |
-| Retroperitoneal | 0.9 |
-| Gastrointestinal | 0.9 |
-| Intracranial | 0 |
-| Minor Hemorrhagic Reactions a |  |
-| Groin (bleeding or hematoma) | 3.6 |
-| Gastrointestinal (includes hematemesis) | 2.6 |
-| Genitourinary (includes hematuria) | 1.8 |
-| Decrease in hemoglobin and/or hematocrit | 1.8 |
-| CABG (coronary arteries) | 1.8 |
-| Access site | 0.9 |
-| Hemoptysis | 0.9 |
-| Other | 0.9 |
-| a) Patients may have experienced more than 1 adverse reaction.b) 91 patients who underwent 112 interventions. CABG = coronary artery bypass graft |  |
+| Table 6. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT Undergoing PCI |  |  |
+| --- | --- | --- |
+| Major Hemorrhagic Reactions a |  |  |
+|  | Argatroban-treated Patients (n = 112) b % |  |
+| Retroperitoneal | 0.9 |  |
+| Gastrointestinal | 0.9 |  |
+| Intracranial | 0 |  |
+| Minor Hemorrhagic Reactions a |  |  |
+| Groin (bleeding or hematoma) | 3.6 |  |
+| Gastrointestinal (includes hematemesis) | 2.6 |  |
+| Genitourinary (includes hematuria) | 1.8 |  |
+| Decrease in hemoglobin and/or hematocrit | 1.8 |  |
+| CABG (coronary arteries) | 1.8 |  |
+| Access site | 0.9 |  |
+| Hemoptysis | 0.9 |  |
+| Other | 0.9 |  |
+| a) Patients may have experienced more than 1 adverse reaction.b) 91 patients who underwent 112 interventions. CABG = coronary artery bypass graft |  |  |
 
-Table 7 gives an overview of the most frequently observed non-hemorrhagic reactions (>2%), sorted by decreasing frequency of occurrence among argatroban-treated PCI patients.
+Table 7gives an overview of the most frequently observed non-hemorrhagic reactions (>2%), sorted by decreasing frequency of occurrence among argatroban-treated PCI patients.
 
-| Table 7. Non-hemorrhagic Adverse Reactions a in Patients With HIT Undergoing PCI |  |
+| Table 7. Non-hemorrhagic Adverse Reactions ain Patients With HIT Undergoing PCI |  |
 | --- | --- |
 |  | Argatroban Proceduresa (n = 112)b % |
 | Chest pain | 15.2 |
@@ -109,7 +109,7 @@ Table 7 gives an overview of the most frequently observed non-hemorrhagic reacti
 | a) Patients may have experienced more than 1 adverse reaction.b) 91 patients who underwent 112 interventions. |  |
 
 There were 22 serious adverse reactions in 17 PCI patients (19.6% in 112 interventions).
-Table 8 lists the serious adverse reactions occurring in argatroban-treated-patients with or at risk for HIT undergoing PCI.
+Table 8lists the serious adverse reactions occurring in argatroban-treated-patients with or at risk for HIT undergoing PCI.
 
 | Table 8. Serious Adverse Reaction in Patients With HIT Undergoing PCI a |  |
 | --- | --- |
@@ -129,7 +129,7 @@ Table 8 lists the serious adverse reactions occurring in argatroban-treated-pati
 | Cerebrovascular disorder | 1 (0.9%) |
 | Lung edema disorder | 1 (0.9%) |
 | Vascular disorder | 1 (0.9%) |
-| a) Individual reactions may also have been reported elsewhere (see Table 6 and Table 7). b) 91 patients underwent 112 procedures. Some patients may have experienced more than 1 reaction. |  |
+| a) Individual reactions may also have been reported elsewhere (see Table 6and Table 7). b) 91 patients underwent 112 procedures. Some patients may have experienced more than 1 reaction. |  |
 
 Intracranial Bleeding in Other Populations
 
