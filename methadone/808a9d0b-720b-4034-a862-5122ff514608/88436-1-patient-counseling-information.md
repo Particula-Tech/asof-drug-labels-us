@@ -73,7 +73,7 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2023 Mallinckrodt.
+© 2024 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA Made in USA
 
