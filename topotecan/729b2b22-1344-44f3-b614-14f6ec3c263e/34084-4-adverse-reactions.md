@@ -10,7 +10,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data in Warnings and Precautions reflect exposure to topotecan hydrochloride for injection from eight trials in which 879 patients with ovarian cancer or small cell lung cancer (SCLC) received topotecan hydrochloride for injection 1.5 mg/m 2 by intravenous infusion daily for 5 consecutive days, starting on Day 1 of a 21 day cycle and from one trial (Study GOG 0179) in which 147 patients with cervical cancer received topotecan hydrochloride for injection 0.75 mg/m 2 by intravenous infusion daily on Days 1, 2, and 3, with cisplatin 50 mg/m2 by intravenous infusion on Day 1, of a 21-day cycle.
+The data in Warnings and Precautions reflect exposure to topotecan hydrochloride for injection from eight trials in which 879 patients with ovarian cancer or small cell lung cancer (SCLC) received topotecan hydrochloride for injection 1.5 mg/m 2by intravenous infusion daily for 5 consecutive days, starting on Day 1 of a 21 day cycle and from one trial (Study GOG 0179) in which 147 patients with cervical cancer received topotecan hydrochloride for injection 0.75 mg/m 2by intravenous infusion daily on Days 1, 2, and 3, with cisplatin 50 mg/m2 by intravenous infusion on Day 1, of a 21-day cycle.
 
 Ovarian Cancer
 
@@ -41,7 +41,7 @@ Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Ovar
 | Fatigue | 7 | 6 |
 | Pain b | 5 | 7 |
 | Asthenia | 5 | 3 |
-| a Death related to sepsis occurred in 2% of patients receiving topotecan hydrochloride for injection and 0% of patients receiving paclitaxel. b Pain includes body pain, skeletal pain, and back pain. |  |  |
+| aDeath related to sepsis occurred in 2% of patients receiving topotecan hydrochloride for injection and 0% of patients receiving paclitaxel. bPain includes body pain, skeletal pain, and back pain. |  |  |
 
 Small Cell Lung Cancer (SCLC)
 
@@ -69,7 +69,7 @@ Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Smal
 | Asthenia | 9 | 7 |
 | Fatigue | 6 | 10 |
 | Pain b | 5 | 7 |
-| a Death related to sepsis occurred in 3% of patients receiving topotecan hydrochloride for injection and 1% of patients receiving CAV. b Pain includes body pain, skeletal pain, and back pain. c CAV = cyclophosphamide, doxorubicin and vincristine. |  |  |
+| aDeath related to sepsis occurred in 3% of patients receiving topotecan hydrochloride for injection and 1% of patients receiving CAV. bPain includes body pain, skeletal pain, and back pain. cCAV = cyclophosphamide, doxorubicin and vincristine. |  |  |
 
 Hepatobiliary Disorders in Ovarian and Small Cell Lung Cancer (SCLC)
 
@@ -81,7 +81,7 @@ The safety of topotecan hydrochloride for injection was evaluated in a comparati
 Table 3 shows the hematologic and non-hematologic adverse reactions in patients with cervical cancer.
 
 Table 3.
-Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Cervical Cancer (Between-Arm Difference ≥ 2%) a in Study GOG 0179
+Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Cervical Cancer (Between-Arm Difference ≥ 2%) ain Study GOG 0179
 
 | Adverse Reactions | Topotecan Hydrochloride for Injection With Cisplatin (n = 140) % | Cisplatin(n = 144) % |
 | --- | --- | --- |
@@ -107,21 +107,21 @@ Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Cerv
 | Infection |  |  |
 | Febrile neutropenia f | 28 | 18 |
 | Cardiovascular f | 25 | 15 |
-| a Includes patients who were eligible and treated. b Severity based on using National Cancer Institute (NCI) Common Toxicity Criteria (CTC), Version 2.0. c Grades 1 through 4 only. There were 3 patients who experienced deaths with investigator-designated attribution. The first patient experienced a Grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event. A second patient experienced bowel obstruction, cardiac arrest, pleural effusion, and respiratory failure which were not treatment-related but probably aggravated by treatment. A third patient experienced a pulmonary embolism and adult respiratory distress syndrome; the latter was indirectly treatment-related. d Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss. e Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain. f High-level terms were included if the between-arm difference was ≥ 10%. |  |  |
+| aIncludes patients who were eligible and treated. bSeverity based on using National Cancer Institute (NCI) Common Toxicity Criteria (CTC), Version 2.0. cGrades 1 through 4 only. There were 3 patients who experienced deaths with investigator-designated attribution. The first patient experienced a Grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event. A second patient experienced bowel obstruction, cardiac arrest, pleural effusion, and respiratory failure which were not treatment-related but probably aggravated by treatment. A third patient experienced a pulmonary embolism and adult respiratory distress syndrome; the latter was indirectly treatment-related. dConstitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss. ePain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain. fHigh-level terms were included if the between-arm difference was ≥ 10%. |  |  |
 
 ## 6.2 Postmarketing Experience
 
 The following reactions have been identified during post approval use of topotecan hydrochloride for injection.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System: severe bleeding (in association with thrombocytopenia)
+Blood and Lymphatic System:severe bleeding (in association with thrombocytopenia)
 
-Hypersensitivity: allergic manifestations, anaphylactoid reactions, angioedema
+Hypersensitivity:allergic manifestations, anaphylactoid reactions, angioedema
 
-Gastrointestinal: abdominal pain potentially associated with neutropenic enterocolitis, gastrointestinal perforation
+Gastrointestinal:abdominal pain potentially associated with neutropenic enterocolitis, gastrointestinal perforation
 
-Pulmonary: interstitial lung disease
+Pulmonary:interstitial lung disease
 
-Skin and Subcutaneous Tissue: severe dermatitis, severe pruritus
+Skin and Subcutaneous Tissue:severe dermatitis, severe pruritus
 
-General and Administration Site Conditions: extravasation, mucosal inflammation
+General and Administration Site Conditions:extravasation, mucosal inflammation

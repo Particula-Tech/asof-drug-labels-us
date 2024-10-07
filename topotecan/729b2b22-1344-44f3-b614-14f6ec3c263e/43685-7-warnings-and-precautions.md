@@ -20,7 +20,7 @@ Grade 3 or 4 anemia occurred in 40% of patients.
 Topotecan can cause fatal typhlitis (neutropenic enterocolitis).
 Consider the possibility of typhlitis in patients presenting with fever, neutropenia, and abdominal pain.
 
-Administer the first cycle of topotecan hydrochloride for injection only to patients with a baseline neutrophil count of greater than or equal to 1,500/mm 3 and a platelet count greater than or equal to 100,000/mm 3.
+Administer the first cycle of topotecan hydrochloride for injection only to patients with a baseline neutrophil count of greater than or equal to 1,500/mm 3and a platelet count greater than or equal to 100,000/mm 3.
 Monitor blood counts frequently during treatment.
 Withhold and reduce dose of topotecan hydrochloride for injection based on neutrophil counts, platelet counts and hemoglobin levels [see Dosage and Administration (2.5)].
 

@@ -34,12 +34,12 @@ These symptoms may impair the ability to safely drive or operate machinery.
 
 Manufactured For:
 
-Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist. - Ahmedabad – 382 210, India.
 
-10 4086 0 604281
+10 4086 1 6027351
 
-Issued December, 2019
+Issued December, 2023

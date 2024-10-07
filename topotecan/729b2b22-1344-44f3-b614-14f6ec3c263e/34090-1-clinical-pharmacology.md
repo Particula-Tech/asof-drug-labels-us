@@ -9,7 +9,7 @@ Mammalian cells cannot efficiently repair these double-strand breaks.
 
 ## 12.3 Pharmacokinetics
 
-Following administration of topotecan hydrochloride for injection at doses of 0.5 to 1.5 mg/m 2 (0.1 to 0.3 times the recommended single agent dose) administered as a 30-minute infusion, area under the curve (AUC) increases proportionally with dose.
+Following administration of topotecan hydrochloride for injection at doses of 0.5 to 1.5 mg/m 2(0.1 to 0.3 times the recommended single agent dose) administered as a 30-minute infusion, area under the curve (AUC) increases proportionally with dose.
 
 Distribution
 
