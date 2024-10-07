@@ -11,9 +11,9 @@ Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [
 The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
 Ciprofloxacin maximum serum concentrations (Cmax) and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
 
-Table 12: Ciprofloxacin Cmax and AUC Following Adminstration of Single Doses of CIPRO Tablets to Healthy Subjects
+Table 12: Ciprofloxacin Cmax and AUC Following Administration of Single Doses of CIPRO Tablets to Healthy Subjects
 
-| Dose (mg) | Cmax | AUC (mcg•hr/mL) |
+| Dose (mg) | Cmax (mcg/mL) | AUC (mcg•hr/mL) |
 | --- | --- | --- |
 | 250 | 1.2 | 4.8 |
 | 500 | 2.4 | 11.6 |
@@ -25,7 +25,7 @@ Mean concentrations 12 hours after dosing with 250, 500, or 750 mg are 0.1, 0.2,
 The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
 Serum concentrations increase proportionately with doses up to 1000 mg.
 
-A 500 mg oral dose given every 12 hours has been shown to produce AUC equivalent to that produced by an intravenous infusion of 400 mg CIPRO given over 60 minutes every 12 hours.
+A 500 mg oral dose given every 12 hours has been shown to produce an AUC equivalent to that produced by an intravenous infusion of 400 mg CIPRO given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
 A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose (Table 13).
 A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg CIPRO given every 12 hours.
@@ -35,7 +35,7 @@ Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
 |  | every 12 hours, orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
-| AUC0-24h,ss (µg•h/mL) | 27.4AUC0-12h x 2 | 25.4* | 31.6* | 32.9** |
+| AUC0-24h,ss (µg•h/mL) | 27.4AUC0-12h x 2 | 25.4 | 31.6 | 32.9AUC0-8h x 3 |
 | Cmax,ss (µg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
 #### Food
@@ -102,11 +102,13 @@ The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, have
 
 #### Pediatrics
 
+Table 14 summarizes pharmacokinetic parameters in pediatric patients aged less than 1 to less than 12 years of age receiving intravenous treatment.
+
 Table 14: Estimated AUC0–24,ss and Cmax,ss for Intravenous Treatment (1-h infusion) in Pediatric Patients Following a Multiple Dosing Regimen of 10 mg/kg, Three Times Daily
 
 | Age | AUC0–24,ss (mg h/L) | Cmax,ss (mg/L) |
 | --- | --- | --- |
-| Less than1 year | 30.9 | 2.8 |
+| Less than1 year | 30.93 x AUC0–8,ss | 2.8 |
 | 1 to less than 2 years | 27.8 | 3.6 |
 | 2 to less than 6 years | 28.9 | 2.7 |
 | 6 to less than 12 years | 20.4 | 2.0 |

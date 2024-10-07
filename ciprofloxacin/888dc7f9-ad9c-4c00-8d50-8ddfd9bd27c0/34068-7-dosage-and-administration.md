@@ -48,9 +48,16 @@ Table 3: Pediatric Dosage Guidelines
 
 | Infection | Dose | Frequency | Total Duration |
 | --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis(patients from 1 to 17 years of age) | 10 mg/kg to 20 mg/kg(maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 12 hours | 10–21 days |
+| Complicated Urinary Tract or Pyelonephritis(patients from 1 to 17 years of age) | 10 mg/kg to 20 mg/kg(maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 12 hours | 10–21 days1 |
 | Inhalational Anthrax (Post-Exposure)2 | 15 mg/kg(maximum 500 mg per dose) | Every 12 hours | 60 days |
-| Plague2,3 | 15 mg/kg(maximum 500 mg per dose) | Every 8 to 12 hours | 14 days |
+| Plague2,3 | 15 mg/kg(maximum 500 mg per dose) | Every 8 to 12 hours | 14days |
+
+1 The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician.
+The mean duration of treatment was 11 days (range 10 to 21 days).
+
+2Begin drug administration as soon as possible after suspected or confirmed exposure.
+
+3Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis.
 
 ## 2.3 Dosage Modifications in Patients with Renal Impairment
 
@@ -148,12 +155,11 @@ The Co-packaged graduated teaspoon (5mL) is provided, with markings for 1/2 (2.5
 - •Do Not chew the microcapsules in the CIPRO Oral Suspension, instead swallow them whole.
 - •Water may be taken afterwards.
 - •Reclose the bottle properly after each use according to instructions on the cap.
-
-After treatment has been completed, CIPRO Oral Suspension should not be reused.
+- •After treatment has been completed, CIPRO Oral Suspension should not be reused.
 
 ## 2.7 Dosing of CIPRO for Oral Suspension using the Co-Packaged Spoon in Adults and Pediatric Patients
 
-Table: 5% Cipro for Oral Suspension: 250 mg ciprofloxacin per 5 mL after reconstitution
+Table 6: 5% Cipro for Oral Suspension: 250 mg ciprofloxacin per 5 mL after reconstitution
 
 | Infection | Body weight (kg) | Dose by Measuring Spoonful(s) using Co-Packed Spoon* (teaspoonful (s) (volume (mL)) | Dose Strength(mg) |
 | --- | --- | --- | --- |

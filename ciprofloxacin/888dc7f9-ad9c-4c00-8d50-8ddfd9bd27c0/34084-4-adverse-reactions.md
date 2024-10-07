@@ -102,7 +102,7 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
-| Cardiovascular | QT prolongationTorsade de PointesVasculitis and ventricular arrhythmia |
+| Cardiovascular | QT prolongationTorsade de PointesVasculitis and ventricular arrhythmiaAcute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction |
 | Central Nervous System | HypertoniaMyastheniaExacerbation of myasthenia gravisPeripheral neuropathyPolyneuropathyTwitching |
 | Eye Disorders | Nystagmus |
 | Gastrointestinal | Pseudomembranous colitis |
@@ -119,7 +119,7 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 Changes in laboratory parameters while on CIPRO are listed below:
 
-1. Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+- Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
 Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 

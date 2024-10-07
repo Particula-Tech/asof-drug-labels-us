@@ -2,7 +2,7 @@
 
 ## 3.1 Tablets
 
-- •250 mg slightly yellowish, film-coated, round, functionally scored, imprinted with “BAYER” on one side and “CIP 250” on the other
+- •250 mg, slightly yellowish, film-coated, round, functionally scored, imprinted with “BAYER” on one side and “CIP 250” on the other
 - •500 mg, slightly yellowish, film-coated, capsule shaped, functionally scored, imprinted with “BAYER” on one side and “CIP 500” on the other
 
 ## 3.2 Oral Suspension

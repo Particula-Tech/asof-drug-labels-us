@@ -58,4 +58,4 @@ Mortality in the ciprofloxacin group was significantly lower (1/10) compared to 
 The one ciprofloxacin-treated animal that died did not receive the proposed dose of ciprofloxacin due to a failure of the administration catheter.
 Circulating ciprofloxacin concentration was below 0.5 mcg/mL at all timepoints tested in this animal.
 It became culture negative on Day 2 of treatment, but had a resurgence of low grade bacteremia on Day 6 after treatment initiation.
-Terminal blood culture in this animal was negative.12
+Terminal blood culture in this animal was negative.8

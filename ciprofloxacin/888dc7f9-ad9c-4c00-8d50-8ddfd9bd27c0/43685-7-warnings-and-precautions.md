@@ -14,7 +14,7 @@ In addition, avoid the use of fluoroquinolones, including CIPRO, in patients who
 
 Fluoroquinolones, including CIPRO, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
 This adverse reaction most frequently involves the Achilles tendon, and has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendons.
-Tendinitis or tendon rupture can occur, within hours or days of starting CIPRO, or as long as several months after completion of fluoroquinolone therapy..
+Tendinitis or tendon rupture can occur, within hours or days of starting CIPRO, or as long as several months after completion of fluoroquinolone therapy.
 Tendinitis and tendon rupture can occur bilaterally.
 
 The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is increased in patients over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
@@ -72,9 +72,9 @@ Discontinue CIPRO immediately at the first appearance of a skin rash, jaundice, 
 ## 5.7 Hypersensitivity Reactions
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving fluoroquinolone therapy, including CIPRO.
-Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
+Some reactions were accompanied by cardiovascular collapse, acute myocardial ischemia with or without myocardial infarction, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Only a few patients had a history of hypersensitivity reactions.
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1)].
+Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.8 Hepatotoxicity
 
