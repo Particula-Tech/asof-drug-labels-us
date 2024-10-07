@@ -1,8 +1,6 @@
 # INDICATIONS AND USAGE
 
-Minocycline hydrochloride capsules are indicated in the treatment of the following infections due to susceptible strains of the designated microorganisms:
-
-Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox and tick fevers caused by rickettsiae.
+Minocycline hydrochloride capsules are indicated in the treatment of the following infections due to susceptible strains of the designated microorganisms: Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox and tick fevers caused by rickettsiae.
 
 Respiratory tract infections caused by Mycoplasma pneumoniae.
 
@@ -33,12 +31,11 @@ Brucellosis due to Brucella species (in conjunction with streptomycin).
 Bartonellosis due to Bartonella bacilliformis.
 
 Granuloma inguinale caused by Klebsiella granulomatis.
-
 Minocycline is indicated for the treatment of infections caused by the following gram-negative microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Escherichia coli.
 
-Enterobacter aerogenes.
+Klebsiella aerogenes
 
 Shigella species.
 
@@ -52,7 +49,7 @@ Minocycline hydrochloride capsules are indicated for the treatment of infections
 
 Upper respiratory tract infections caused by Streptococcus pneumoniae.
 Skin and skin structure infections caused by Staphylococcus aureus.
-(Note: Minocycline is not the drug of choice in the treatment of any type of staphylococcal infection.)
+(NOTE: Minocycline is not the drug of choice in the treatment of any type of staphylococcal infection).
 
 When penicillin is contraindicated, minocycline is an alternative drug in the treatment of the following infections:
 

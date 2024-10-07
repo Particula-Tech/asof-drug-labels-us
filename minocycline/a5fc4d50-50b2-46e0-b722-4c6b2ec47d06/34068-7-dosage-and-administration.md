@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
+THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF MINOCYCLINE DIFFER FROM THAT OF THE OTHER TETRACYCLINES.
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
 
 Minocycline hydrochloride capsules may be taken with or without food (see CLINICAL PHARMACOLOGY).
@@ -30,9 +30,9 @@ Mycobacterium marinum infections: Although optimal doses have not been establish
 
 Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis or Ureaplasma urealyticum: 100 mg orally, every 12 hours for at least 7 days.
 
-Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
+Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline class is recommended to reduce the risk of esophageal irritation and ulceration.
 
 The pharmacokinetics of minocycline in patients with renal impairment (CLCR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
-However, due to the antianabolic effect of tetracyclines, BUN and creatinine should be monitored (see WARNINGS).
+However, due to the antianabolic effect of tetracyclines, BUN and creatinine should be monitored (see WARNINGS-Antianabolic Action).

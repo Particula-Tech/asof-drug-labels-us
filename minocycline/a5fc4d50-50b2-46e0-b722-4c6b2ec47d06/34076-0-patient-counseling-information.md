@@ -1,147 +1,16 @@
 # PATIENT INFORMATION
 
-Minocycline (mye-no-SYE-kleen) Hydrochloride Capsules
+Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
 
-50, 75 and 100 mg
-
-Read the Patient Information that comes with minocycline hydrochloride capsules before you or a family member starts taking it and each time you get a refill.
-There may be new information.
-This leaflet does not take the place of talking to your doctor about your medical condition or treatment.
-
-What are minocycline hydrochloride capsules?
-
-Minocycline hydrochloride capsules are a tetracycline-class antibiotic medicine.
-Minocycline hydrochloride capsules are used to treat certain infections caused by bacteria.
-These include infections of the skin, respiratory tract, urinary tract, some sexually transmitted diseases, and others.
-Minocycline hydrochloride capsules may be used along with other treatments for severe acne.
-
-Sometimes other germs, called viruses, cause infections.
-The common cold is a virus.
-Minocycline hydrochloride, like other antibiotics, does not treat viruses.
-
-Who should not use minocycline hydrochloride capsules?
-
-Do not take minocycline hydrochloride capsules if you are allergic to minocycline or other tetracycline antibiotics.
-
-Ask your doctor or pharmacist for a list of these medications if you are not sure.
-See the end of this leaflet for a complete list of ingredients in minocycline hydrochloride capsules.
-
-Minocycline hydrochloride capsules are not recommended for pregnant women or children up to 8 years old because:
-
-1. Minocycline hydrochloride capsules may harm an unborn baby
-2. Minocycline hydrochloride capsules may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
-   Tooth development happens in the last half of pregnancy and birth to age 8 years.
-
-What should I tell my doctor before starting minocycline hydrochloride capsules?
-
-Tell your doctor about all of your medical conditions, including if you:
-
-- have liver or kidney problems.
-
-- are pregnant or planning to become pregnant.
-  Minocycline hydrochloride may harm your unborn baby.
-  Stop taking minocycline hydrochloride capsules and call your doctor if you become pregnant while taking it.
-
-- are breastfeeding.
-  Minocycline hydrochloride passes into your milk and may harm your baby.
-  You should decide whether to use minocycline hydrochloride capsules or breastfeed, but not both.
-
-Tell your doctor about all the medicines you are taking including prescription and non-prescription medications, vitamins, and herbal supplements.
-Minocycline hydrochloride capsules and other medicines may interact.
-Especially tell your doctor if you take:
-
-- birth control pills.
-  Minocycline hydrochloride capsules may make your birth control pills less effective
-- a blood thinner medicine.
-  The dose of your blood thinner may have to be lowered.
-- a penicillin antibiotic medicine.
-  Minocycline hydrochloride capsules and penicillins should not be used together.
-- migraine medicines called ergot alkaloids.
-- an acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
-- antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
-
-Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
-
-How should I take minocycline hydrochloride capsules?
-
-- Take minocycline hydrochloride capsules exactly as your doctor tells you to take them.
-  Skipping doses or not taking all your minocycline hydrochloride capsules may:
-  - Decrease the effectiveness of the treatment
-  - Increase the chance that bacteria will develop resistance to minocycline hydrochloride capsules
-
-- Take minocycline hydrochloride capsules with a full glass of liquid.
-  Taking minocycline hydrochloride capsules with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
-  Your esophagus is the tube that connects your mouth to your stomach.
-- Minocycline hydrochloride capsules may be taken with or without food.
-  If you forget to take minocycline hydrochloride capsules, take it as soon as you remember.
-- If you take too many minocycline hydrochloride capsules, call your doctor or poison control center right away.
-
-What are the possible side effects of minocycline hydrochloride capsules?
-
-Minocycline hydrochloride may cause serious side effects.
-Stop minocycline hydrochloride capsules and call your doctor if you have:
-
-- watery diarrhea
-- bloody stools
-- stomach cramps
-- unusual headaches
-- blurred vision
-- fever
-- rash
-- joint pain
-- feeling very tired
-- swollen lymph nodes
-
-Minocycline hydrochloride may also cause:
-
-- central nervous system effects.
-  Symptoms include light-headedness, dizziness, and a spinning feeling (vertigo).
-  You should not drive or operate machines if you have these symptoms.
-- sun sensitivity (photosensitivity).
-  You may get a worse sunburn with minocycline hydrochloride capsules.
-  Avoid sun exposure and the use of sunlamps or tanning beds.
-  Protect your skin while out in the sunlight.
-  Stop minocycline hydrochloride capsules and call your doctor if your skin turns red.
-
-These are not all the side effects with minocycline hydrochloride capsules.
-Ask your doctor or pharmacist for more information.
-
-CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
-
-How should I store minocycline hydrochloride capsules?
-
-- Store minocycline hydrochloride capsules at room temperature and away from excess heat and moisture.
-- Throw away any minocycline hydrochloride capsules that are outdated or no longer needed.
-- Keep minocycline hydrochloride capsules and all medicines out of the reach of children.
-
-General advice about minocycline hydrochloride capsules
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use minocycline hydrochloride capsules for a condition for which it was not prescribed.
-Do not give minocycline hydrochloride capsules to other people, even if they have the same symptoms you have.
-It may harm them.
-
-This Patient Information leaflet summarizes the most important information about minocycline hydrochloride.
-If you would like more information, talk with your doctor.
-
-Your doctor or pharmacist can give you information about minocycline hydrochloride that is written for healthcare professionals.
-For more information, you can also call Actavis at 1-800-272-5525.
-
-What are the ingredients in minocycline hydrochloride capsules?
-
-Active ingredient: minocycline hydrochloride, 50 mg, 75 mg and 100 mg
-
-Inactive ingredients: magnesium stearate and starch (corn).
-
-The 50 mg, 75 mg, and 100 mg capsule shells contain: D&C Red No. 28, D&C Yellow No. 10, gelatin, silicon dioxide, sodium lauryl sulfate and titanium dioxide.
-The 100 mg capsule shell also contains black iron oxide.
-
-Brands listed are the trademarks of their respective owners.
-
-Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
-
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
-
-Rev.
-A 9/2018
+| PATIENT INFORMATION Minocycline Hydrochloride (min″ oh sye′ kleen hye″ droe klor′ ide) Capsules |
+| --- |
+| Read the Patient Information that comes with minocycline hydrochloride capsules before you or a family member starts taking it and each time you get a refill. There may be new information. This Patient Information leaflet does not take the place of talking to your healthcare provider about your medical condition or treatment. |
+| What are minocycline hydrochloride capsules? Minocycline hydrochloride capsules are a tetracycline-class antibiotic medicine. Minocycline hydrochloride capsules are used to treat certain infections caused by bacteria. These include infections of the skin, respiratory tract, urinary tract, some sexually transmitted diseases, and others. Minocycline hydrochloride capsules may be used along with other treatments for severe acne. Sometimes other germs, called viruses, cause infections. The common cold is a virus. Minocycline hydrochloride, like other antibiotics, does not treat viruses. |
+| Who should not take minocycline hydrochloride capsules? Do not take minocycline hydrochloride capsules if you are allergic to minocycline or other tetracycline antibiotics. Ask your doctor or pharmacist for a list of these medicines if you are not sure. See the end of this Patient Information leaflet for a complete list of ingredients in minocycline hydrochloride capsules. Minocycline hydrochloride capsules are not recommended for pregnant women or children under 8 years of age because: 1. Minocycline hydrochloride capsules may harm an unborn baby. 2. Minocycline hydrochloride capsules may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development. Tooth development happens in the last half of pregnancy and birth to age 8 years. |
+| What should I tell my doctor before taking minocycline hydrochloride capsules? Before taking minocycline hydrochloride capsules, tell your doctor about all of your medical conditions, including if you: have liver or kidney problems.are pregnant or plan to become pregnant. Minocycline hydrochloride may harm your unborn baby. Stop taking minocycline hydrochloride capsules and call your doctor if you become pregnant while taking it.are breastfeeding or plan to breastfeed. Minocycline hydrochloride passes into your breast milk and may harm your baby. You and your doctor should decide if you will take minocycline hydrochloride capsules or breastfeed. You should not do both. Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Using Minocycline hydrochloride capsules with other medicines can cause side effects. Especially tell your doctor if you take: birth control pills. Minocycline hydrochloride capsules may make your birth control pills less effective.a blood thinner medicine. The dose of your blood thinner may have to be lowered.a penicillin antibiotic medicine. Minocycline hydrochloride capsules and penicillins should not be used together.migraine medicines called ergot alkaloids.an acne medicine by mouth called isotretinoin.antacids that contain aluminum, calcium, or magnesium, or iron-containing products. Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine. |
+| How should I take minocycline hydrochloride capsules? Take minocycline hydrochloride capsules exactly as your doctor tells you to take them. Skipping doses or not taking all your minocycline hydrochloride capsules may: Decrease the effectiveness of the treatment.Increase the chance that bacteria will develop resistance to minocycline hydrochloride capsules. Take minocycline hydrochloride capsules with a full glass of liquid. Taking minocycline hydrochloride capsules with enough liquid may lower your chance of getting irritation or ulcers in your esophagus. Your esophagus is the tube that connects your mouth to your stomach.Minocycline hydrochloride capsules may be taken with or without food. If you forget to take minocycline hydrochloride capsules, take it as soon as you remember. If you take too many minocycline hydrochloride capsules, call your doctor or poison control center right away. |
+| What are the possible side effects of minocycline hydrochloride capsules? Minocycline hydrochloride may cause serious side effects. Stop minocycline hydrochloride capsules and call your doctor if you have: watery diarrheabloody stoolsstomach crampsunusual headachesblurred visionfeverrashjoint painfeeling very tiredswollen lymph nodes Minocycline hydrochloride may also cause: central nervous system effects. Symptoms include light-headedness, dizziness, and a spinning feeling (vertigo). You should not drive or operate machines if you have these symptoms.sun sensitivity (photosensitivity). You may get a worse sunburn with minocycline hydrochloride capsules. Avoid sun exposure and the use of sunlamps or tanning beds. Protect your skin while out in the sunlight. Stop minocycline hydrochloride capsules and call your doctor if your skin turns red. These are not all the possible side effects of minocycline hydrochloride capsules. For more information ask your doctor or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store minocycline hydrochloride capsules? Store minocycline hydrochloride capsules at room temperature between 68°F to 77°F (20°C to 25°C).Keep minocycline hydrochloride capsules away from light, moisture, and excess heat. Throw away any minocycline hydrochloride capsules that are outdated or no longer needed.Keep minocycline hydrochloride capsules and all medicines out of the reach of children. |
+| General information about the safe and effective use of minocycline hydrochloride capsules. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not take minocycline hydrochloride capsules for a condition for which it was not prescribed. Do not give minocycline hydrochloride capsules to other people, even if they have the same symptoms you have. It may harm them. This Patient Information leaflet summarizes the most important information about minocycline hydrochloride. If you would like more information, talk with your doctor. You can ask your doctor or pharmacist for information about minocycline hydrochloride that is written for health professionals. For more information, you can also call Teva at 1-888-838-2872. |
+| What are the ingredients in minocycline hydrochloride capsules? Active ingredient: minocycline hydrochloride, USP, 50 mg, 75 mg, and 100 mg Inactive ingredients: corn starch and magnesium stearate. The 50 mg, 75 mg, and 100 mg capsule shells contain: D&C Red No. 28, D&C Yellow No. 10, gelatin, and titanium dioxide. The 75 mg capsule shell also contains FD&C Yellow No. 6. The 100 mg capsule shell also contains black iron oxide. The black imprinting ink contains the following ingredients that are common to all strengths: black iron oxide, butyl alcohol, D&C Yellow #10 aluminum lake, FD&C Blue #1 aluminum lake, FD&C Blue #2 aluminum lake, FD&C Red #40 aluminum lake, propylene glycol, and shellac glaze. Brands listed are the trademarks of their respective owners. Manufactured In India By: Watson Pharma Private Limited., Verna, Salcette Goa 403 722, India Manufactured For: Teva Pharmaceuticals., Parsippany, NJ 07054 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration Rev. B 8/2024 |
