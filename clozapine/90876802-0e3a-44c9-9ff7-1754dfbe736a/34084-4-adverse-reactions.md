@@ -130,7 +130,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Central Nervous System
 
-Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome, and post-discontinuation cholinergic rebound adverse reactions.
+Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome and post-discontinuation cholinergic rebound adverse reactions.
 
 Cardiovascular System
 

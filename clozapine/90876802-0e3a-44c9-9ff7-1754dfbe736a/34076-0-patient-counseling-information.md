@@ -14,8 +14,8 @@ Discuss the following issues with patients and caregivers:
   - oCLOZARIL is available only from certified pharmacies participating in the program.
     Provide patients (and caregivers) with website information and the telephone number on how to obtain the product (www.clozapinerems.com or 1-844-267-8678) [see Warnings and Precautions (5.2)].
 - •Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
-  Instruct them to strictly follow the clinician’s instructions for dosage and administration [see Dosage and Administration (2.2, 2.5)].
-  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Warnings and Precautions (5.3)].
+  Instruct them to strictly follow the clinician’s instructions for dosage and administration [see Dosage and Administration (2.2, 2.6)].
+  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [Warnings and Precautions (5.3)].
 - •Seizures: Inform patients and caregivers about the significant risk of seizure during CLOZARIL treatment.
   Caution them about driving and any other potentially hazardous activity while taking CLOZARIL [see Warnings and Precautions (5.5)].
 - •Gastrointestinal Hypomotility with Severe Complications: Educate patients and caregivers on the risks, prevention and treatment of clozapine-induced constipation, including medications to avoid when possible (e.g., drugs with anticholinergic activity).
@@ -23,7 +23,7 @@ Discuss the following issues with patients and caregivers:
   Advise patients and caregivers to contact their health care provider if they experience symptoms of constipation (e.g., difficulty passing stools, incomplete passage of stool, decreased bowel movement frequency) or other symptoms associated with gastrointestinal hypomotility (e.g., nausea, abdominal distension or pain, vomiting) [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
 - •QT Interval Prolongation: Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of arrhythmia.
   Instruct patients to not take CLOZARIL with other drugs that cause QT interval prolongation.
-  Instruct patients to inform their clinicians that they are taking CLOZARIL before any new drug [see Warnings and Precautions (5.10), and Drug Interactions (7.1)].
+  Instruct patients to inform their clinicians that they are taking CLOZARIL before any new drug [see Warnings and Precautions (5.10), Drug Interactions (7.1)].
 - •Metabolic Changes (hyperglycemia and diabetes mellitus, dyslipidemia, weight gain): Educate patients and caregivers about the risk of metabolic changes and the need for specific monitoring.
   The risks include hyperglycemia and diabetes mellitus, dyslipidemia, weight gain, and cardiovascular reactions.
   Educate patients and caregivers about the symptoms of hyperglycemia (high blood sugar) and diabetes mellitus (e.g., polydipsia, polyuria, polyphagia, and weakness).
@@ -33,6 +33,9 @@ Discuss the following issues with patients and caregivers:
   Clinical monitoring of weight is recommended [see Warnings and Precautions (5.11)].
 - •Interference with Cognitive and Motor Performance: Because CLOZARIL may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that CLOZARIL therapy does not affect them adversely [see Warnings and Precautions (5.17)].
 - •Missed Doses and Re-initiating Treatment: Inform patients and caregivers that if the patient misses taking CLOZARIL for more than 2 days, they should not restart their medication at the same dosage but should contact their physician for dosing instructions [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.3)].
-- •Pregnancy: Patients and caregivers should notify the clinician if the patient becomes pregnant or intends to become pregnant during therapy [see Use in Specific Populations (8.1)].
-- •Nursing: Advise patients and caregivers that the patient should not breastfeed an infant if they are taking CLOZARIL [see Use in Specific Populations (8.3)].
+- •Pregnancy: Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with CLOZARIL.
+  Advise patients that CLOZARIL may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distresss, and feeding disorder) in a neonate.
+  Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to CLOZARIL during pregnancy [see Use in Specific Populations (8.1)].
+- •Lactation: Advise breastfeeding women using CLOZARIL to monitor infants for excess sedation and to seek medical care if they notice this sign.
+  Inform breastfeeding women using CLOZARIL that their healthcare provider will monitor infants for neutropenia[see Use in Specific Populations (8.2)].
 - •Concomitant Medication: Advise patients to inform their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs; there is a potential for significant drug-drug interactions [see Dosage and Administration (2.6), Drug Interactions (7.1)].

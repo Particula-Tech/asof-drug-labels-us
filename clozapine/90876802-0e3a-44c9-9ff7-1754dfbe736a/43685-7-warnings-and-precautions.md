@@ -162,7 +162,7 @@ CLOZARIL is not approved for the treatment of patients with dementia-related psy
 
 Severe gastrointestinal adverse reactions have occurred with the use of CLOZARIL, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, perforation, ulceration or necrosis [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk of severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
 
@@ -367,7 +367,7 @@ Whether pulmonary embolus and deep-vein thrombosis can be attributed to clozapin
 CLOZARIL has potent anticholinergic effects.
 Treatment with CLOZARIL can result in CNS and peripheral anticholinergic toxicity, especially at higher dosages, or in overdose situations [see Overdosage (10)].
 Use with caution in patients with a current diagnosis or prior history of constipation, urinary retention, clinically significant prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
-When possible, avoid concomitant use, with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [See Warnings and Precautions (5.8), Drug Interactions (7.1)].
+When possible, avoid concomitant use, with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
 
 ## 5.17 Interference with Cognitive and Motor Performance
 
