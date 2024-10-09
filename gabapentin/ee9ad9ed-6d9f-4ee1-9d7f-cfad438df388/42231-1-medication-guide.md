@@ -73,21 +73,22 @@ See the end of this Medication Guide for a complete list of ingredients in NEURO
 
 What should I tell my healthcare provider before taking NEURONTIN?
 
-1. Before taking NEURONTIN, tell your healthcare provider if you:
-2. •have or have had kidney problems or are on hemodialysis
-3. •have or have had depression, mood problems, or suicidal thoughts or behavior
-4. •have diabetes
-5. •have breathing problems
-6. •are pregnant or plan to become pregnant.
-   It is not known if NEURONTIN can harm your unborn baby.
-   Tell your healthcare provider right away if you become pregnant while taking NEURONTIN.
-   You and your healthcare provider will decide if you should take NEURONTIN while you are pregnant.
-   - •Pregnancy Registry: If you become pregnant while taking NEURONTIN, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-     You can enroll in this registry by calling 1-888-233-2334.
-7. •are breast-feeding or plan to breast-feed.
-   NEURONTIN can pass into breast milk.
-   You and your healthcare provider should decide how you will feed your baby while you take NEURONTIN.
+Before taking NEURONTIN, tell your healthcare provider if you:
+
+- •have or have had kidney problems or are on hemodialysis
+- •have or have had depression, mood problems, or suicidal thoughts or behavior
+- •have diabetes
+- •have breathing problems
+- •are pregnant or plan to become pregnant.
+  It is not known if NEURONTIN can harm your unborn baby.
+  Tell your healthcare provider right away if you become pregnant while taking NEURONTIN.
+  You and your healthcare provider will decide if you should take NEURONTIN while you are pregnant.
+  - •Pregnancy Registry: If you become pregnant while taking NEURONTIN, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+    The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+    You can enroll in this registry by calling 1-888-233-2334.
+- •are breast-feeding or plan to breast-feed.
+  NEURONTIN can pass into breast milk.
+  You and your healthcare provider should decide how you will feed your baby while you take NEURONTIN.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
