@@ -70,7 +70,7 @@ Adding a progestogen to estrogen therapy in postmenopausal women has been shown 
 
 Breast Cancer
 
-The WHI substudy of daily CE (0.625 mg)-alone provided information abour breast cancer in estrogen-alone users.
+The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
 In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80] compared to placebo5[see Clinical Studies (14.2)].
 
 After a mean follow-up of 5.6 years, the WHI substudy of daily CE (0.625 mg) plus MPS (2.5 mg) reported an increased risk of invasive breast cancer in women who took daily CE plus MPA compared to placebo.
@@ -83,9 +83,12 @@ Metastatic disease was rare, with no apparent difference between the two groups.
 Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups6[see Clinical Studies (14.2)].
 
 Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
-The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with systemic estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
+One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use of systemic estrogen plus progestin therapy and systemic estrogen-alone therapy.
+These risks could last up to >10 years after discontinuation of these systemic therapies depending on the duration of use.
+There was no increase in risk of developing breast cancer in women taking vaginal estrogens.
 
 The use of estrogen-alone and estrogen plus progestin therapy has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 
@@ -115,10 +118,10 @@ The absolute risk of probable dementia for CE-alone versus placebo was 37 versus
 In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5),andClinical Studies (14.3)].
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5), and Clinical Studies(14.3)].
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8[see Use in Specific Populations (8.5), andClinical Studies (14.3)].
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
 ## 5.5 Gallbladder Disease
 

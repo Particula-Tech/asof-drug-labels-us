@@ -16,9 +16,9 @@ Inform postmenopausal women of possible less serious but common adverse reaction
 
 Vagifem® is a registered trademark owned by Novo Nordisk Health Care AG.
 
-© 2003-2022 Novo Nordisk
+© 2003-2024 Novo Nordisk
 
-Revised: 09/2022
+Revised: 02/2024
 
 For information contact:
 

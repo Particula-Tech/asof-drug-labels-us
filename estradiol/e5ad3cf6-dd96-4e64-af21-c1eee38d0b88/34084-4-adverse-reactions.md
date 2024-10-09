@@ -24,7 +24,10 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 P
 | Urogenital System |  |  |
 | Vulvovaginal Mycotic Infection | 3 (3) | 17 (8) |
 | Vulvovaginal Pruritus | 2 (2) | 16 (8) |
-| N = Total number of women in study.n = Number of women who experienced adverse reactions. |  |  |
+
+N = Total number of women in study.
+
+n = Number of women who experienced adverse reactions.
 
 ## 6.2 Postmarketing Experience
 

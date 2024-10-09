@@ -2,7 +2,7 @@
 
 Vagifem is contraindicated in women with any of the following conditions:
 
-- •Undiagnosed abnormal genital bleeding [see Warning and Precautions (5.3)].
+- •Undiagnosed abnormal genital bleeding [see Warnings and Precautions (5.3)].
 - •Breast cancer or a history of breast cancer [see Warnings and Precautions (5.3)].
 - •Estrogen-dependent neoplasia [see Warnings and Precautions (5.3)].
 - •Active DVT, PE, or history of these conditions [see Warnings and Precautions (5.2)].
