@@ -19,6 +19,6 @@
 | What are the ingredients in INQOVI? |  |  |  |
 | Active ingredients: decitabine and cedazuridine |  |  |  |
 | Inactive ingredients: lactose monohydrate, hypromellose, croscarmellose sodium, colloidal silicon dioxide and magnesium stearate. The film coating material contains polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc, and iron oxide red. |  |  |  |
-| Manufactured for: Otsuka Pharmaceutical Co., Ltd., Japan Distributed by: Taiho Oncology, Inc., Princeton, NJ 08540 USA |  |  |  |
-| INQOVI is a registered trademark of Otsuka Pharmaceutical Company, Ltd. For more information, go to www.INQOVI.com or call 1-844-878-2446. |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Issued: 4/2022 |
+| Manufactured for: Taiho Pharmaceutical Co., Ltd. Japan Distributed by: Taiho Oncology, Inc., Princeton, NJ 08540 USA |  |  |  |
+| INQOVI is a registered trademark of Taiho Pharmaceutical Co., Ltd. For more information, go to www.INQOVI.com or call 1-888-878-2446. |  |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  | Issued: 10/2024 |
