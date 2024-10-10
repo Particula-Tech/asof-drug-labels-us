@@ -35,9 +35,7 @@ Inform patients that XELJANZ/XELJANZ XR/XELJANZ Oral Solution may affect certain
 Pregnancy
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females to inform their prescriber of a known or suspected pregnancy.
-Inform patients that Pfizer has a registry for pregnant women who have taken XELJANZ/XELJANZ XR/XELJANZ Oral Solution during pregnancy.
-Advise patients to contact the registry at 1-877-311-8972 to enroll [see Use in Specific Populations (8.1)].
+Advise females to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
@@ -52,3 +50,10 @@ Residual Tablet Shell
 
 Patients receiving XELJANZ XR may notice an inert tablet shell passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert tablet shell.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+For medical information about XELJANZ/XELJANZ XR/XELJANZ Oral Solution, please visit www.pfizermedinfo.com or call 1-800-438-1985.
+
+LAB-0445-26.0
