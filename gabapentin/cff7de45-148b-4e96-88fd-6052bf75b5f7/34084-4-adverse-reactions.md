@@ -166,7 +166,7 @@ Psychiatric disorders: agitation
 
 Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
 
-1. Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
+Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
 
 There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.7)].
 
