@@ -43,15 +43,15 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months after the last dose [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months after the last dose [see use in specific Populations (8.1) and Clinical Pharmacology (12.3)].
 
 Males
 
-Based on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 3 months after the last dose [see Nonclinical Toxicology (13.1)].
+Based on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 3 months after the last dose [see Nonclinical Toxicology(13.1)].
 
 Infertility
 
-Based on animal data, azacitidine could have an effect on male or female fertility [see Nonclinical Toxicology (13.1)].
+Based on animal data, azacitidine could have an effect on male or female fertility [see Nonclinical Toxicology(13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -71,4 +71,4 @@ Survival data for patients 65 years and older were consistent with overall survi
 The majority of adverse reactions occurred at similar frequencies in patients less than 65 years of age and patients 65 years of age and older.
 
 Elderly patients are more likely to have decreased renal function.
-Monitor renal function in these patients [see Dosage and Administration (2.6)and Warnings and Precautions (5.4)].
+Monitor renal function in these patients [s ee Dosage and Administration (2.6) and Warning and Precautions (5.4)].

@@ -3,9 +3,9 @@
 The following clinically significant adverse reactions are described elsewhere in labeling:
 
 - Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.2)]
-- Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [seeWarnings and Precautions (5.3)]
-- Renal Toxicity [seeWarnings and Precautions (5.4)]
-- Tumor Lysis Syndrome [seeWarnings and Precautions (5.5)]
+- Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.3)]
+- Renal Toxicity [see Warnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -37,7 +37,7 @@ Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febril
 Dose Reduced: leukopenia, neutropenia, thrombocytopenia
 
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with azacitidine (subcutaneous) in Studies 1 and 2.
-It is important to note that duration of exposure was longer for the azacitidine -treated group than for the observation group; patients received azacitidine for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
+It is important to note that duration of exposure was longer for the azacitidine-treated group than for the observation group; patients received azacitidine for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
 Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in All Subcutaneous Azacitidine-Treated Patients; Studies 1 and 2)
 
@@ -106,7 +106,7 @@ Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Hematoma | 19 (9) | 0 |
 | Hypotension | 15 (7) | 2 (2) |
 | Petechiae | 52 (24) | 8 (9) |
-| a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. b Includes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
+| a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. bIncludes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
 
 Table 2 presents adverse reactions occurring in at least 5% of patients treated with azacitidine in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with azacitidine was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).

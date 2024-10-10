@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Azacitidine for Injection is supplied as 100mg of lyophilized powder in single-dose vials packaged in cartons of 1 vial (NDC 68001-313-56).
+Azacitidine for Injection is supplied as 100 mg of lyophilized powder in single-dose vials packaged in cartons of 1 vial (NDC 68001-313-56).
 
 Storage
 

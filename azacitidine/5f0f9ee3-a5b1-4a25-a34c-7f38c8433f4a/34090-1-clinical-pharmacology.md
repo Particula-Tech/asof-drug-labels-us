@@ -48,28 +48,14 @@ The effects of hepatic impairment, gender, or race/ethnicity on the pharmacokine
 Pediatric Patients
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
-However
-
-due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that
-
-information.
+Howeverdue to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with thatinformation.
 
 Patients with Renal Impairment
 
-In adult patients with cancer, the pharmacokinetics of azacitidine in 6 patients with normal renal function (CLcr >80
-
-mL/min) and 6 patients with severe renal impairment (CLcr <30 mL/min) were compared following daily
-
-subcutaneous dosing (Days 1 through 5) at 75 mg/m2/day.
-Severe renal impairment increased azacitidine exposure by
-
-approximately 70% after single and 41% after multiple subcutaneous administrations.).
-This increase in exposure
-
-was not correlated with an increase in adverse events.
-The exposure was similar to exposure in patients with
-
-normal renal function receiving 100 mg/m 2.
+In adult patients with cancer, the pharmacokinetics of azacitidine in 6 patients with normal renal function (CLcr >80 mL/min) and 6 patients with severe renal impairment (CLcr <30 mL/min) were compared following daily subcutaneous dosing (Days 1 through 5) at 75 mg/m2/day.
+Severe renal impairment increased azacitidine exposure by approximately 70% after single and 41% after multiple subcutaneous administrations.).
+This increase in exposure was not correlated with an increase in adverse events.
+The exposure was similar to exposure in patients with normal renal function receiving 100 mg/m 2.
 
 Drug Interactions Studies
 
@@ -77,22 +63,10 @@ No formal clinical drug interaction studies with azacitidine have been conducted
 
 In vitro Studies
 
-Cytochrome P450 (CYP) Enzymes:An in vitro study at azacitidine concentrations up to 100 μM (IV Cmax = 10.6
+Cytochrome P450 (CYP) Enzymes:An in vitro study at azacitidine concentrations up to 100 μM (IV Cmax = 10.6 μM) in human liver microsomes indicated that azacitidine does not cause any inhibition of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, or CYP2E1 at clinically achievable concentrations.
 
-μM) in human liver microsomes indicated that azacitidine does not cause any inhibition of CYP isoforms CYP1A2,
+In vitro studies with human cultured hepatocytes indicate that azacitidine at concentrations of 1.0 μM to 100 μM does not induce CYP 1A2, 2C19, or 3A4/5.
 
-CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, or CYP2E1 at clinically achievable concentrations.
+Transporter Systems:An in vitro study with LLC-PK1 cells expressing P-glycoprotein (P-gp) indicated that azacitidine is not a substrate or inhibitor of P-gp.
 
-In vitro studies with human cultured hepatocytes indicate that azacitidine at concentrations of
-
-1. μM to 100 μM does not induce CYP 1A2, 2C19, or 3A4/5.
-
-Transporter Systems:An in vitro study with LLC-PK1 cells expressing P-glycoprotein (P-gp) indicated that
-
-azacitidine is not a substrate or inhibitor of P-gp.
-
-Azacitidine does not inhibit, breast cancer resistance protein (BCRP), organic anion transporters (OAT) OAT1 and
-
-OAT3, organic anion transporting polypeptides (OATP) OATP1B1 and OATP1B3, or organic cation transporter
-
-(OCT) OCT2 at clinically relevant concentrations.
+Azacitidine does not inhibit, breast cancer resistance protein (BCRP), organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptides (OATP) OATP1B1 and OATP1B3, or organic cation transporter (OCT) OCT2 at clinically relevant concentrations.

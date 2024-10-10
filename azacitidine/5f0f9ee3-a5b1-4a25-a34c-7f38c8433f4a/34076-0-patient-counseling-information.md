@@ -2,16 +2,16 @@
 
 Hepatic Toxicity in Patients with Severe Pre-Existing Hepatic Impairment
 
-Instruct patients to inform their healthcare provider about any underlying liver disease [seeWarnings and Precautions (5.3)].
+Instruct patients to inform their healthcare provider about any underlying liver disease [see Warnings and Precautions (5.3)].
 
 Renal Toxicity
 
-Instruct patients to inform their healthcare provider about any underlying renal disease [seeWarnings and Precautions (5.4)].
+Instruct patients to inform their healthcare provider about any underlying renal disease [see Warnings and Precautions (5.4)].
 
 Embryo-Fetal Toxicity
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [seeWarnings and Precautions (5.6) and Use in Specific Populations (8.1)].
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)].
 
 Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months after the last dose [see Use in Specific Populations (8.3)].
 
@@ -19,7 +19,7 @@ Advise male patients with female partners of reproductive potential to use effec
 
 Lactation
 
-Advise women not to breastfeed during treatment with Azacitidine for Injection and for 1 week after the last dose [seeUse in Specific Populations (8.2)].
+Advise women not to breastfeed during treatment with Azacitidine for Injection and for 1 week after the last dose [see Use in Specific Populations(8.2)].
 
 Infertility
 

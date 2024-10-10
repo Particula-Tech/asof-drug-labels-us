@@ -11,12 +11,11 @@ Do not substitute Azacitidine for Injection for oral azacitidine [see Dosage and
 
 Azacitidine for Injection causes anemia, neutropenia and thrombocytopenia.
 Monitor complete blood counts frequently for response and/or toxicity, at a minimum, prior to each dosing cycle.
-After administration of the recommended dosage for the first cycle, adjust dosage for subsequent cycles based on nadir counts and hematologic response [see Dosage and Administration (2.4)].
+After administration of the recommended dosage for the first cycle, adjust dosage for subsequent cycles based on nadir counts and hematologic response [see Error!
+Hyperlink reference not valid.].
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
-However
-
-due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+Howeverdue to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.3 Hepatic Toxicity in Patients with Severe Pre-existing Hepatic Impairment
 
@@ -29,11 +28,7 @@ Monitor liver chemistries prior to initiation of therapy and with each cycle.
 Safety and effectiveness of Azacitidine for Injection in patients with MDS and hepatic impairment have not been studied as these patients were excluded from the clinical trials.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
-However
-
-due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that
-
-information.
+However,due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with thatinformation.
 
 ## 5.4 Renal Toxicity
 
@@ -41,7 +36,7 @@ Renal toxicity ranging from elevated serum creatinine to renal failure and death
 In addition, renal tubular acidosis, defined as a fall in serum bicarbonate to less than 20 mEq/L in association with an alkaline urine and hypokalemia (serum potassium less than 3 mEq/L) developed in 5 patients with CML (an unapproved use) treated with azacitidine and etoposide.
 
 Monitor serum creatinine and electrolytes prior to initiation of therapy and with each cycle.
-If unexplained reductions in serum bicarbonate less than 20 mEq/L or elevations of BUN or serum creatinine occur, reduce or hold the dose [see Dosage and Administration (2.5)].
+If unexplained reductions in serum bicarbonate less than 20 mEq/L or elevations of BUN or serum creatinine occur, reduce or hold the dose [se Dosage and Administration (2.5)].
 
 Patients with renal impairment may be at increased risk for renal toxicity.
 Also, azacitidine and its metabolites are primarily excreted by the kidney.
@@ -49,11 +44,7 @@ Therefore, monitor these patients closely for toxicity [see Dosage and Administr
 Patients with MDS and renal impairment were excluded from the clinical studies.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
-However
-
-due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that
-
-information.
+Howeverdue to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with thatinformation.
 
 ## 5.5 Tumor Lysis Syndrome
 

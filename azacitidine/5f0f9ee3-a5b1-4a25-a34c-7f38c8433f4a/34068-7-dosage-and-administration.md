@@ -19,10 +19,10 @@ It is recommended that patients be treated for a minimum of 4 to 6 cycles.
 However, complete or partial response may require additional treatment cycles.
 Treatment may be continued as long as the patient continues to benefit.
 
-Monitor patients for hematologic response and renal toxicities [seeWarnings and Precautions (5.4)]and delay or reduce dosage if necessary as described below.
+Monitor patients for hematologic response and renal toxicities [see Warnings and Precautions (5.4)]and delay or reduce dosage if necessary as described below.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
-However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustment Based on Hematology Laboratory Values
 
@@ -46,11 +46,7 @@ If a greater than 25% increase above the nadir is not seen by day 28, reassess c
 If a 25% increase is not seen by day 42, reduce the scheduled dose by 50%.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However
-
-due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that
-
-information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
@@ -60,7 +56,9 @@ If unexplained elevations of BUN or serum creatinine occur, delay the next cycle
 ## 2.6 Use in Geriatric Patients
 
 Azacitidine and its metabolites are known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Warnings and Precautions (5.4)and Use in Specific Populations (8.5)].
+Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Error!
+Hyperlink reference not valid.and Error!
+Hyperlink reference not valid.].
 
 ## 2.7 Preparation of Azacitidine for Injection
 
