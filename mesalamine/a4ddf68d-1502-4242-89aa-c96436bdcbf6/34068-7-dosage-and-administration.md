@@ -1,18 +1,20 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended adult dosage of mesalamine rectal suspension enema in 60 mL units is one rectal instillation (4 grams) once a day, preferably at bedtime, and retained for approximately eight hours.
-While the effect of mesalamine rectal suspension enema may be seen within 3 to 21 days, the usual course of therapy would be from 3 to 6 weeks depending on symptoms and sigmoidoscopic findings.
-Studies available to date have not assessed if mesalamine rectal suspension enema will modify relapse rates after the 6-week short-term treatment.
-Mesalamine rectal suspension enema is for rectal use only.
+Evaluate renal function before initiating therapy with mesalamine rectal suspension enema [see Warnings and Precautions (5.1)].
 
-Drink an adequate amount of fluids during treatment.
+Recommended Dosage
 
-Patients should be instructed to shake the bottle well to make sure the suspension is homogeneous.
-The patient should remove the protective sheath from the applicator tip.
-Holding the bottle at the neck will not cause any of the medication to be discharged.
-The position most often used is obtained by lying on the left side (to facilitate migration into the sigmoid colon); with the lower leg extended and the upper right leg flexed forward for balance.
-An alternative is the knee-chest position.
-The applicator tip should be gently inserted in the rectum pointing toward the umbilicus.
-A steady squeezing of the bottle will discharge most of the preparation.
-The preparation should be taken at bedtime with the objective of retaining it all night.
-Patient instructions are included with every seven units.
+The recommended dosage is one rectal instillation (4 grams) once a day, preferably at bedtime, and retained for approximately eight hours for 3 to 6 weeks depending on symptoms and sigmoidoscopic findings.
+
+Administration Instructions
+
+1. • Shake the bottle to ensure the suspension is homogeneous.
+2. • Remove the protective sheath from the applicator tip.
+3. • Assume the correct body position:
+4. ° Lie on the left side with the lower leg extended and the upper right leg flexed forward for balance.
+5. ° Alternatively, sit in the knee to chest position.
+6. • Gently insert the applicator tip in the rectum pointing toward the umbilicus.
+7. • Steadily squeeze the bottle to discharge the medication.
+8. • Remain in the position for at least 30 minutes.
+   Administer at bedtime with the objective of retaining it all night.
+9. • Drink an adequate amount of fluids during treatment [see Warnings and Precautions (5.7)].

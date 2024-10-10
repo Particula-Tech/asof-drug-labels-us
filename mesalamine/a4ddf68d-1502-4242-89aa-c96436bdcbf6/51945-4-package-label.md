@@ -1,8 +1,8 @@
-# Principal Display Panel - Carton
-
-Rx Only
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 45802-098-51
+
+Rx Only
 
 Mesalamine Rectal Suspension, USP Enema
 

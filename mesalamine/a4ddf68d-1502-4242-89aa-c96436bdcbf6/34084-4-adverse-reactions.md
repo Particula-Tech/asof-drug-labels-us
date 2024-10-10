@@ -1,62 +1,56 @@
-# To report SUSPECTED ADVERSE REACTIONS, contact Padagis® at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+# 6 ADVERSE REACTIONS
 
-# ADVERSE REACTIONS
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-## Clinical Adverse Experience -
+1. • Hypersensitivity reactions [see Warnings and Precautions (5.1)]
+2. • Renal impairment [see Warnings and Precautions (5.2)]
+3. • Mesalamine-induced acute intolerance syndrome [see Warnings and Precautions (5.3)]
+4. • Hepatic failure [see Warnings and Precautions (5.4)]
+5. • Severe cutaneous adverse reactions [see Warnings and Precautions (5.5)]
+6. • Photosensitivity [see Warnings and Precautions (5.6)]
+7. • Nephrolithiasis [see Warnings and Precautions (5.7)]
 
-Mesalamine rectal suspension enema is usually well tolerated.
-Most adverse effects have been mild and transient.
+## 6.1 Clinical Trials Experience
 
-ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESALAMINE RECTAL SUSPENSION ENEMA TREATED PATIENTS (COMPARISON TO PLACEBO)
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-|  | MESALAMINE RECTAL SUSPENSION ENEMA |  | PLACEBO |  |
-| --- | --- | --- | --- | --- |
-| SYMPTOM | N=815N | % | N=128N | % |
-| Abdominal Pain/Cramps/Discomfort | 66 | 8.10 | 10 | 7.81 |
-| Headache | 53 | 6.50 | 16 | 12.50 |
-| Gas/Flatulence | 50 | 6.13 | 5 | 3.91 |
-| Nausea | 47 | 5.77 | 12 | 9.38 |
-| Flu | 43 | 5.28 | 1 | 0.78 |
-| Tired/Weak/Malaise/Fatigue | 28 | 3.44 | 8 | 6.25 |
-| Fever | 26 | 3.19 | 0 | 0.00 |
-| Rash/Spots | 23 | 2.82 | 4 | 3.12 |
-| Cold/Sore Throat | 19 | 2.33 | 9 | 7.03 |
-| Diarrhea | 17 | 2.09 | 5 | 3.91 |
-| Leg/Joint Pain | 17 | 2.09 | 1 | 0.78 |
-| Dizziness | 15 | 1.84 | 3 | 2.34 |
-| Bloating | 12 | 1.47 | 2 | 1.56 |
-| Back Pain | 11 | 1.35 | 1 | 0.78 |
-| Pain on Insertion of Enema Tip | 11 | 1.35 | 1 | 0.78 |
-| Hemorrhoids | 11 | 1.35 | 0 | 0.00 |
-| Itching | 10 | 1.23 | 1 | 0.78 |
-| Rectal Pain | 10 | 1.23 | 0 | 0.00 |
-| Constipation | 8 | 0.98 | 4 | 3.12 |
-| Hair Loss | 7 | 0.86 | 0 | 0.00 |
-| Peripheral Edema | 5 | 0.61 | 11 | 8.59 |
-| UTI/Urinary Burning | 5 | 0.61 | 4 | 3.12 |
-| Rectal Pain/Soreness/Burning | 5 | 0.61 | 3 | 2.34 |
-| Asthenia | 1 | 0.12 | 4 | 3.12 |
-| Insomnia | 1 | 0.12 | 3 | 2.34 |
+Table 1: Adverse Reactions* in Clinical Trials of Mesalamine Rectal Suspension Enema in Adult Patients with Ulcerative Colitis, Proctosigmoiditis or Proctitis
 
-In addition, the following adverse events have been identified during post-approval use of products which contain (or are metabolized to) mesalamine in clinical practice: nephrotoxicity, pancreatitis, fibrosing alveolitis, elevated liver enzymes, nephrogenic diabetes insipidus, intracranial hypertension and nephrolithiasis.
-Cases of pancreatitis and fibrosing alveolitis have been reported as manifestations of inflammatory bowel disease as well.
+| Adverse Reaction | Mesalamine Rectal Suspension Enema(N=815)% | Placebo(N=128)% |
+| --- | --- | --- |
+| Gas/Flatulence | 6 | 4 |
+| Flu | 5 | 1 |
+| Fever | 3 | 0 |
+| Leg/Joint pain | 2 | 1 |
+| Hemorrhoids | 1 | 1 |
+| Rectal pain | 1 | 0 |
+| Hair loss | 1 | 0 |
 
-Published case reports and/or spontaneous post marketing surveillance have described rare instances of aplastic anemia, agranulocytosis, thrombocytopenia, eosinophilia, pancytopenia, neutropenia, oligospermia, and infertility in men.
-Anemia, leukocytosis and thrombocytosis can be part of the clinical presentation of inflammatory bowel disease.
+*reported in 1% or more of mesalamine rectal suspension enema-treated patients and greater than placebo
 
-Postmarketing cases of severe cutaneous adverse reactions (SJS/TEN, DRESS, and AGEP) and pleurisy/pleuritis have been reported.
-
-## Hair Loss
-
-Mild hair loss characterized by "more hair in the comb" but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
-In the literature there are at least six additional patients with mild hair loss who received either mesalamine or sulfasalazine.
-Retreatment is not always associated with repeated hair loss.
-
-## Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of mesalamine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Renal Disorders
+Cardiac Disorders: myocarditis, pericarditis [see Warnings and Precautions (5.1)]
 
-- •Urine discoloration occurring ex-vivo caused by contact of mesalamine including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach (see PRECAUTIONS: Information for Patients).
+Gastrointestinal Disorders: pancreatitis
+
+Hematologic Disorders: agranulocytosis, aplastic anemia, eosinophilia, leukopenia, neutropenia, pancytopenia, thrombocytopenia
+
+Hepatic Disorders: elevated liver enzymes, hepatic failure [see Warnings and Precautions (5.4)]
+
+Nervous System: intracranial hypertension
+
+Renal and Urinary Disorders: acute renal failure, chronic renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis, nephrotoxicity [see Warnings and Precautions (5.2), (5.7)]
+
+1. • Urine discoloration occurring ex-vivo caused by contact of mesalamine including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach
+
+Reproductive System and Breast Disorders: reversible oligospermia
+
+Respiratory, Thoracic, and Mediastinal Disorders: fibrosing alveolitis,
+
+pleurisy/pleuritis
+
+Skin and Subcutaneous Tissue Disorders: AGEP, DRESS, SJS/TEN [see Warnings and Precautions (5.5)]
