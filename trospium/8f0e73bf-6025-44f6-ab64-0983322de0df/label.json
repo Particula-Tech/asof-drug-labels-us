@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA216158"
+  ],
+  "inn": "trospium",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
+  "package_ndcs": [
+    "0003-0050-14",
+    "0003-0050-60",
+    "0003-0125-14",
+    "0003-0125-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "xanomeline and trospium chloride",
+      "name": "Cobenfy"
+    }
+  ],
+  "setid": "8f0e73bf-6025-44f6-ab64-0983322de0df",
+  "source": "dailymed"
+}

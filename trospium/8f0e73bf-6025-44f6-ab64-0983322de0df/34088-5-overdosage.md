@@ -1,0 +1,8 @@
+# 10 OVERDOSAGE
+
+Overdose of COBENFY may produce cholinergic, anticholinergic or a combination of cholinergic and anticholinergic signs and symptoms:
+
+- •Cholinergic Signs and Symptoms: seizures, vomiting, diarrhea, abdominal pain, hyperhidrosis, salivary hypersecretion, and hypotension possibly preceded by hypertension.
+- •Anticholinergic Signs and Symptoms (geriatric patients may be more susceptible): delirium, agitation, garbled speech, dizziness, hypertension, tachycardia, dry mouth and eyes, ileus, blurred vision, and urinary retention.
+
+Consider calling the Poison Help Line 1-800-222-1222 or a medical toxicologist for specific treatment recommendations.
