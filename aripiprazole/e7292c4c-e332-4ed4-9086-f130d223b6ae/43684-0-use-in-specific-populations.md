@@ -12,11 +12,12 @@ Risk Summary
 Neonates exposed to antipsychotic drugs, including aripiprazole, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to aripiprazole have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia, bipolar I disorder, or major depressive disorder, and with exposure to antipsychotics, including aripiprazole, during pregnancy (see Clinical Considerations).
+Aripiprazole exposure during pregnancy can have variable effects on milk supply in the post-partum period [see Use in Specific Populations (8.2)].
 
 In animal reproduction studies, oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 19 times, respectively, the maximum recommended human dose (MRHD) of 30 mg/day based on mg/m2 body surface area, produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
 Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the MRHD based on mg/m2 body surface area, produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
@@ -74,10 +75,15 @@ There were no effects on postnatal behavioral and reproductive development.
 
 Risk Summary
 
-Limited data from published literature report the presence of aripiprazole in human breast milk, at relative infant doses ranging between 0.7% to 8.3% of the maternal weight-adjusted dosage.
-There are reports of poor weight gain in breastfed infants exposed to aripiprazole and reports of inadequate milk supply in lactating women taking aripiprazole.
+Aripiprazole is present in human breast milk.
+Based on published case reports and pharmacovigilance reports, aripiprazole exposure during pregnancy and/or the postpartum period can lead to variable effects on milk supply in the post-partum period, including clinically relevant decreases in milk supply which may be reversible with discontinuation of the drug.
+There are also reports of aripiprazole exposure during pregnancy and no maternal milk supply in the post-partum period.
+Effects on milk supply are likely mediated through decreases in prolactin levels, which have been observed [see Adverse Reactions (6.2)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for aripiprazole, and any potential adverse effects on the breastfed infant from aripiprazole, or from the underlying maternal condition.
 
-The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for aripiprazole and any potential adverse effects on the breastfed infant from aripiprazole or from the underlying maternal condition.
+Clinical Considerations
+
+Monitor infants exposed to aripiprazole through breastmilk for dehydration and lack of appropriate weight gain.
 
 ## 8.4 Pediatric Use
 
