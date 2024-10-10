@@ -256,4 +256,9 @@ Table 9: Adverse Reactions Reported in 5% or More of SOLIRIS-Treated Patients in
 The following adverse reactions have been identified during post-approval use of SOLIRIS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SOLIRIS exposure.
 
-Fatal or serious infections: Neisseria gonorrhoeae, Neisseria meningitidis, Neisseria sicca/subflava, Neisseria spp unspecified.
+Adverse Reactions from Postmarketing Spontaneous Reports
+
+- Fatal or serious infections: Neisseria gonorrhoeae, Neisseria meningitidis, Neisseria sicca/subflava, Neisseria spp unspecified.
+- Cases of cholestatic or mixed pattern liver injury with increased serum liver enzymes and bilirubin levels have been reported in adult and pediatric patients with aHUS who were treated with Soliris.
+  These events occurred within 3 to 27 days after starting treatment.
+  The median time to resolution (or return to baseline) was approximately 3 weeks.
