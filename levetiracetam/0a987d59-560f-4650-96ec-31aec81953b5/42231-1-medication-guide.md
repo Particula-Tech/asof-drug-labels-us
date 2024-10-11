@@ -26,6 +26,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-751XXXXX
+75106187
 
-Revised: 7/2024 MXA:LVTC:RX1
+Revised: 7/2024 MXA:LVTC:R4mmh/MXA:MG:LVTC:R3m/MXA:MG:LVTC:R3mh
