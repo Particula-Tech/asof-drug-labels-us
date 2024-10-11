@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA207926"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-0343-02",
+    "0065-0349-04",
+    "0065-0349-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Phenylephrine Hydrochloride"
+    }
+  ],
+  "setid": "cacbb3fd-1c03-4523-a1bf-0ccc4be102ef",
+  "source": "dailymed"
+}
