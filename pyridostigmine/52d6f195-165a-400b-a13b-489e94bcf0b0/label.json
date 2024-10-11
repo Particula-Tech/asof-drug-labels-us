@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217604"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "60846-559-10",
+    "60846-559-27"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "pyridostigmine bromide",
+      "name": "Pyridostigmine bromide"
+    }
+  ],
+  "setid": "52d6f195-165a-400b-a13b-489e94bcf0b0",
+  "source": "dailymed"
+}
