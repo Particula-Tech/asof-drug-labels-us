@@ -22,6 +22,7 @@ NDC 0378-6120-01 bottles of 100 capsules
 
 Store at 20º to 25ºC (68º to 77ºF).
 [See USP Controlled Room Temperature.]
+Avoid excessive humidity.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -29,6 +30,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75077831
+75106328
 
-Revised: 11/2020 MX:DILER:R2
+Revised: 9/2024 MX:DILER:R3
