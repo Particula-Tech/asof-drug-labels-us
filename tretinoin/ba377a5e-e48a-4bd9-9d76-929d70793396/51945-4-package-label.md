@@ -1,57 +1,41 @@
-# PRINCIPAL DISPLAY PANEL – 0.025% Cream
+# PRINCIPAL DISPLAY PANEL – 45 g Tube Carton - 0.025% Cream
 
-NDC 0378-8082-20 Rx only
+Rx only
 
-Tretinoin 0.025% Cream For Topical Use Only Mylan ® Net Wt.
-20 g
+Tretinoin 0.025% Cream
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+For Topical Use Only
 
-Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
-
-Product of Germany
-
-Mylan.com
-
-VAL:8082:20:1C:R2 9629804 20005433A
-
-# PRINCIPAL DISPLAY PANEL – 0.05% Cream
-
-NDC 0378-8083-20 Rx only
-
-Tretinoin 0.05% Cream For Topical Use Only Mylan ®
+Mylan®
 
 Net Wt.
-20 g
+45 g
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+# PRINCIPAL DISPLAY PANEL – 45 g Tube Carton - 0.05% Cream
 
-Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
+Rx only
 
-Product of Germany
+Tretinoin 0.05% Cream
 
-Mylan.com
+For Topical Use Only
 
-VAL:8083:20:1C:R2 9629004 20005451A
-
-# PRINCIPAL DISPLAY PANEL – 0.1% Cream
-
-NDC 0378-8084-20 Rx only
-
-Tretinoin 0.1% Cream For Topical Use Only
+Mylan®
 
 Net Wt.
-20 g
+45 g
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+# PRINCIPAL DISPLAY PANEL – 45 g Tube Carton - 0.1% Cream
 
-Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
+Rx only
 
-Product of Germany
+Tretinoin 0.1% Cream
 
-Mylan.com
+For Topical Use Only
 
-VAL:8084:20:1C:R2 9629404 20005435A
+Mylan®
+
+Net Wt.
+45 g
 
 # PRINCIPAL DISPLAY PANEL – 0.01% Gel
 
