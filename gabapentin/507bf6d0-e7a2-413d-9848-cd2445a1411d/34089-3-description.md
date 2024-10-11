@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 The active ingredient in gabapentin capsule, USP is gabapentin, USP, which has the chemical name 1-(aminomethyl)cyclohexaneacetic acid.
-The molecular formula of gabapentin is C9H17NO2 and the molecular weight is 171.24.
+The molecular formula of gabapentin is C9H17NO2 and the molecular weight is 171.24 g/mol.
 The structural formula of gabapentin is:
 
 Gabapentin, USP is a white to off-white crystalline solid with a pKa1 of 3.7 and a pKa2 of 10.7.

@@ -5,17 +5,28 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as gabapentin, during pregnancy.
-Encourage women who are taking gabapentin during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll free number 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+Encourage women who are taking gabapentin during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll-free number 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with the use of gabapentin in pregnant women.
+The totality of available data from published prospective and retrospective cohort studies pertaining to gabapentin use during pregnancy has not indicated an increased risk of major birth defects or miscarriage.
+There are important methodological limitations hindering interpretation of these studies [see Data].
 In nonclinical studies in mice, rats, and rabbits, gabapentin was developmentally toxic (increased fetal skeletal and visceral abnormalities, and increased embryofetal mortality) when administered to pregnant animals at doses similar to or lower than those used clinically [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4% and 15% to 20%, respectively.
 
 Data
+
+Human Data
+
+An observational study based on routinely collected data from administrative and medical registers in Denmark, Finland, Norway, and Sweden, compared the prevalence of major congenital malformations in approximately 1,500 pregnancies exposed to gabapentin monotherapy in the first trimester to pregnancies unexposed to antiepileptics (n=2,995,816) and pregnancies exposed to lamotrigine monotherapy in the first trimester (n=7,582).
+The adjusted prevalence ratios in a pooled analysis were 1.00 (95% CI: 0.80-1.24) compared to pregnancies unexposed to antiepileptics and 1.29 (95% CI: 1.00-1.67) compared to pregnancies exposed to lamotrigine monotherapy in the first trimester.
+
+Data from another observational study in the US based on Medicaid data, which compared the risk for major congenital malformations in more than 4,600 pregnancies exposed to gabapentin during the first trimester to unexposed pregnancies (n=1,753,865), estimated an adjusted relative risk of 1.07 (95% CI: 0.94-1.21).
+
+The data from these observational studies should be interpreted with caution due to the potential for exposure misclassification, outcome misclassification, and residual confounding, including by underlying disease.
 
 Animal data
 
@@ -25,7 +36,7 @@ The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day
 In studies in which rats received oral doses of gabapentin (500 mg to 2,000 mg/kg/day) during pregnancy, adverse effect on offspring development (increased incidences of hydroureter and/or hydronephrosis) were observed at all doses.
 The lowest dose tested is similar to the MRHD on a mg/m2 basis.
 
-When pregnant rabbits were treated with gabapentin during the period of organogenesis, an increase in embryo-fetal mortality was observed at all doses tested (60 mg, 300 mg, or 1,500 mg/kg).
+When pregnant rabbits were treated with gabapentin during the period of organogenesis, an increase in embryo-fetal mortality was observed at all doses tested (60 mg/kg, 300 mg/kg, or 1,500 mg/kg).
 The lowest dose tested is less than the MRHD on a mg/m2 basis.
 
 In a published study, gabapentin (400 mg/kg/day) was administered by intraperitoneal injection to neonatal mice during the first postnatal week, a period of synaptogenesis in rodents (corresponding to the last trimester of pregnancy in humans).
