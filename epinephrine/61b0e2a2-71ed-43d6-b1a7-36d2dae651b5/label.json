@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215875"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Endo USA, Inc.",
+  "package_ndcs": [
+    "42023-315-01",
+    "42023-315-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine in sodium chloride",
+      "name": "Adrenalin (epinephrine in sodium chloride)"
+    }
+  ],
+  "setid": "61b0e2a2-71ed-43d6-b1a7-36d2dae651b5",
+  "source": "dailymed"
+}

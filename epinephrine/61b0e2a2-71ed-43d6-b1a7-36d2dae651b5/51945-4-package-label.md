@@ -1,0 +1,1 @@
+# PRINCIPAL DISPLAY PANEL - 4 mg per 250 mL (16 mcg/mL)
