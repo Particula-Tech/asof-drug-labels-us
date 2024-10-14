@@ -40,6 +40,8 @@ In some of these cases, the same intravenous infusion line was used for both cef
 At least one fatality has been reported in a neonate in whom ceftriaxone and calcium-containing fluids were administered at different time points via different intravenous lines; no crystalline material was observed at autopsy in this neonate.
 There have been no similar reports in patients other than neonates.
 
+IMMUNE SYSTEM DISORDER – Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction.
+
 GASTROINTESTINAL – stomatitis and glossitis.
 
 GENITOURINARY – oliguria.
