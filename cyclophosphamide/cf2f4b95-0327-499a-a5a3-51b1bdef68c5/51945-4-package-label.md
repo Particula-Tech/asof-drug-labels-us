@@ -24,7 +24,7 @@ SANDOZ
 
 Cyclophosphamide Injection
 
-1000 mg/10 mL
+1,000 mg/10 mL
 
 (100 mg/mL)
 
@@ -44,7 +44,7 @@ SANDOZ
 
 Cyclophosphamide Injection
 
-2000 mg/20 mL
+2,000 mg/20 mL
 
 (100 mg/mL)
 
