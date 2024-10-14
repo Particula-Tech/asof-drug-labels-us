@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Risperidone was administered in the diet at doses of 0.63, 2.5, and 10 mg/kg for 18 months to mice and for 25 months to rats.
-These doses are equivalent to approximately 0.2, 0.75, and 3 times (mice) and 0.4, 1.5, and 6 times (rats) the MRHD of 16 mg/day, based on mg/m 2 body surface area.
+These doses are equivalent to approximately 0.2, 0.75, and 3 times (mice) and 0.4, 1.5, and 6 times (rats) the MRHD of 16 mg/day, based on mg/m2 body surface area.
 A maximum tolerated dose was not achieved in male mice.
 There were statistically significant increases in pituitary gland adenomas, endocrine pancreas adenomas, and mammary gland adenocarcinomas.
 The table below summarizes the multiples of the human dose on a mg/m 2 (mg/kg) basis at which these tumors occurred.

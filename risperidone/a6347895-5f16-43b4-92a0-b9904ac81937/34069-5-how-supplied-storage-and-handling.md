@@ -68,7 +68,7 @@ Bottle of 2,100 NDC-13668-040-57
 
 ## 16.2 Storage and Handling
 
-Store at 20 o to 25 oC (68 o to 77 oF); excursions permitted to 15 o to 30 oC (59 o to 86 oF).
+Store at 20o to 25oC (68o to 77oF); excursions permitted to 15o to 30 oC (59o to 86oF).
 [See USP Controlled Room Temperature].
 PROTECT FROM MOISTURE.
 Keep out of reach of children.

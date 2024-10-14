@@ -155,7 +155,7 @@ Adverse Reactions in ≥2% of Risperidone -Treated Adult Patients (and greater t
 | Cardiac Disorders |  |  |
 | Palpitations | 2 | 0 |
 | Gastrointestinal Disorders |  |  |
-| Dyspepsia | 9 | 8 4 |
+| Dyspepsia | 9 | 8 |
 | Nausea | 6 | 4 |
 | Diarrhea | 6 | 4 |
 | Salivary hypersecretion | 2 | 0 |
