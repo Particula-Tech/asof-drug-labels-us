@@ -39,8 +39,8 @@ Discard any unused medicine.
 
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
-Manufactured in Slovenia by
+Manufactured by
 
-Lek Pharmaceuticals d.d. for
+Sandoz GmbH for Sandoz Inc.,
 
-Sandoz Inc., Princeton, NJ 08540
+Princeton, NJ 08540
