@@ -46,12 +46,11 @@ RE-ALIGN was terminated early due to the occurrence of significantly more thromb
 These bleeding and thromboembolic events were seen both in patients who were initiated on Dabigatran Etexilate Capsules postoperatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment.
 Therefore, the use of Dabigatran Etexilate Capsules is contraindicated in all patients with mechanical prosthetic valves [see Contraindications (4)].
 
-The use of Dabigatran Etexilate Capsules for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve,has not been studied and is not recommended.
+The use of Dabigatran Etexilate Capsules for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.
 
 ## 5.5 Effect of P-gp Inducers and Inhibitors on Dabigatran Exposure
 
 The concomitant use of Dabigatran Etexilate Capsules with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided [see Clinical Pharmacology (12.3)].
-
 P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)].
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 

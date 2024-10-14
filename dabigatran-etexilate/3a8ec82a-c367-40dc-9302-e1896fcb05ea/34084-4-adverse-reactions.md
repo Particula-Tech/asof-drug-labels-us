@@ -270,4 +270,12 @@ However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusi
 The following adverse reactions have been identified during post approval use of Dabigatran Etexilate Capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Agranulocytosis, neutropenia, thrombocytopenia Gastrointestinal Disorders: Esophageal ulcer Immune System Disorders: Angioedema Renal and Urinary Disorders: Anticoagulant-related nephropathy Skin and Subcutaneous Tissue Disorders: Alopecia
+Blood and Lymphatic System Disorders: Agranulocytosis, neutropenia, thrombocytopenia
+
+Gastrointestinal Disorders: Esophageal ulcer
+
+Immune System Disorders: Angioedema
+
+Renal and Urinary Disorders: Anticoagulant-related nephropathy
+
+Skin and Subcutaneous Tissue Disorders: Alopecia
