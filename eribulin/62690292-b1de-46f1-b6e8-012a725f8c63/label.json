@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA217250"
+  ],
+  "inn": "eribulin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "10019-080-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "eribulin mesylate",
+      "name": "Eribulin Mesylate"
+    }
+  ],
+  "setid": "62690292-b1de-46f1-b6e8-012a725f8c63",
+  "source": "dailymed"
+}
