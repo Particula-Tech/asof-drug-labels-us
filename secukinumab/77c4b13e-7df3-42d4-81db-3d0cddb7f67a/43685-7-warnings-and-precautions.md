@@ -20,8 +20,8 @@ COSENTYX is not recommended for use in patients with active viral hepatitis.
 
 ## 5.2 Hypersensitivity Reactions
 
-Anaphylaxis and cases of urticaria occurred in COSENTYX treated subjects in clinical trials.
-If an anaphylactic or other serious allergic reaction occurs, administration of COSENTYX should be discontinued immediately and appropriate therapy initiated [see Contraindications (4)].
+Serious hypersensitivity reactions including anaphylaxis, angioedema, and urticaria have been reported in COSENTYX treated subjects in clinical trials and in the post-marketing setting [see Adverse Reactions (6.1, 6.2)].
+If an anaphylactic or other serious allergic reaction occurs, immediately discontinue administration of COSENTYX and initiate appropriate therapy [see Contraindications (4)].
 
 ## 5.3 Pre-Treatment Evaluation for Tuberculosis
 
