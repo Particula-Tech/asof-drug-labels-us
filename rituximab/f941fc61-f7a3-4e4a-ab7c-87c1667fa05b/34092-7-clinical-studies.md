@@ -36,8 +36,7 @@ Table 5 Summary of Rituximab NHL Efficacy Data by Schedule and Clinical Setting
 | --- | --- | --- | --- | --- |
 | Overall Response Rate | 48% | 57% | 36% | 38% |
 | Complete Response Rate | 6% | 14% | 3% | 10% |
-| Median Duration of ResponseKaplan-Meier projected with observed range.,"+" indicates an ongoing response.,Duration of response: interval from the onset of response to disease progression. | 11.2 | 13.4 | 6.9 | 15.0 |
-| (Months) [Range] | [1.9 to 42.1+] | [2.5 to 36.5+] | [2.8 to 25.0+] | [3.0 to 25.1+] |
+| Median Duration of ResponseKaplan-Meier projected with observed range.,"+" indicates an ongoing response.,Duration of response: interval from the onset of response to disease progression. (Months) [Range] | 11.2 [1.9 to 42.1+] | 13.4 [2.5 to 36.5+] | 6.9 [2.8 to 25.0+] | 15.0 [3.0 to 25.1+] |
 
 ## 14.2 Previously Untreated, Low-Grade or Follicular, CD20-Positive, B-Cell NHL
 
@@ -180,13 +179,13 @@ The results of exploratory subset analyses in elderly patients are presented in 
 
 Table 9 Efficacy Results in CLL Studies 1 and 2 in Subgroups Defined by AgeFrom exploratory analyses.
 
-| Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |  |
-| --- | --- | --- | --- | --- |
-| Age subgroup | CLL Study 1 |  | CLL Study 2 |  |
-| Age less than 65 yrs | 572 | 0.52 (0.39, 0.70) | 313 | 0.61 (0.45, 0.84) |
-| Age greater than or equal to 65 yrs | 245 | 0.62 (0.39, 0.99) | 233 | 0.99 (0.70, 1.40) |
-| Age less than 70 yrs | 736 | 0.51 (0.39, 0.67) | 438 | 0.67 (0.51, 0.87) |
-| Age greater than or equal to 70 yrs | 81 | 1.17 (0.51, 2.66) | 108 | 1.22 (0.73, 2.04) |
+| Number of Patients | Hazard Ratio for PFS (95% CI) |  | Number of Patients | Hazard Ratio for PFS (95% CI) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Age subgroup | CLL Study 1 |  | CLL Study 2 |  |  |  |
+| Age less than 65 yrs | 572 | 0.52 (0.39, 0.70) | 313 |  |  | 0.61 (0.45, 0.84) |
+| Age greater than or equal to 65 yrs | 245 | 0.62 (0.39, 0.99) | 233 |  |  | 0.99 (0.70, 1.40) |
+| Age less than 70 yrs | 736 | 0.51 (0.39, 0.67) | 438 |  |  | 0.67 (0.51, 0.87) |
+| Age greater than or equal to 70 yrs | 81 | 1.17 (0.51, 2.66) | 108 |  |  | 1.22 (0.73, 2.04) |
 
 ## 14.6 Rheumatoid Arthritis (RA)
 

@@ -74,10 +74,14 @@ Table 4 Population PK in Adult Patients with GPA/MPA
 | Parameter | Statistic | GPA/MPA Study 1 |
 | --- | --- | --- |
 | N | Number of Patients | 97 |
-| Terminal Half-life(days) | Median(Range) | 25(11 to 52) |
-| AUC0–180d(µg/mL*day) | Median(Range) | 10302(3653 to 21874) |
-| Clearance(L/day) | Median(Range) | 0.279(0.113 to 0.653) |
-| Volume of Distribution(L) | Median(Range) | 3.12(2.42 to 3.91) |
+| Terminal Half-life | Median | 25 |
+| (days) | (Range) | (11 to 52) |
+| AUC0–180d | Median | 10302 |
+| (µg/mL*day) | (Range) | (3653 to 21874) |
+| Clearance | Median | 0.279 |
+| (L/day) | (Range) | (0.113 to 0.653) |
+| Volume of Distribution | Median | 3.12 |
+| (L) | (Range) | (2.42 to 3.91) |
 
 The population PK analysis in adults with GPA and MPA showed that male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
 However, further dose adjustment based on gender or anti-drug antibody status is not necessary.
