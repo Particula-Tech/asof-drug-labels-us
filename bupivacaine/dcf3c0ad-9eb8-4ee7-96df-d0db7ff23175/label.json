@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA018304"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-462-03",
+    "63323-462-38",
+    "63323-464-09",
+    "63323-464-39",
+    "63323-466-09",
+    "63323-466-39"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "SENSORCAINE"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride and epinephrine bitartrate",
+      "name": "SENSORCAINE"
+    }
+  ],
+  "setid": "dcf3c0ad-9eb8-4ee7-96df-d0db7ff23175",
+  "source": "dailymed"
+}
