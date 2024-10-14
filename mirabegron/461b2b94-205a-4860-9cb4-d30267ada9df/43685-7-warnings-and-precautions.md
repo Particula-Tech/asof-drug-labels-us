@@ -19,10 +19,7 @@ Increases in Blood Pressure in Pediatric Patients 3 Years and Older
 Mirabegron can increase blood pressure in pediatric patients.
 Blood pressure increases may be larger in children (3 to less than 12 years of age) than in adolescents (12 to less than 18 years of age).
 Periodic blood pressure determinations are recommended.
-Mirabegron is not recommended for use in pediatric patients with severe uncontrolled hypertension, defined as a systolic and/or diastolic blood pressure above the 99th percentile plus 5 mm Hg for age, sex, and stature using appropriate reference values.
-
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+Mirabegron is not recommended for use in pediatric patients with severe uncontrolled hypertension, defined as a systolic and/or diastolic blood pressure above the 99th percentile plus 5 mm Hg for age, sex, and stature using appropriate reference values [see Adverse Reactions (6.1)].
 
 ## 5.2 Urinary Retention in Patients with Bladder Outlet Obstruction and in Patients Taking Muscarinic Antagonist Medications for OAB
 

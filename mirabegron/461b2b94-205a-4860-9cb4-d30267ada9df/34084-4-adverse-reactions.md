@@ -25,7 +25,7 @@ The most frequent adverse events (0.2%) leading to discontinuation in Studies 1,
 
 Atrial fibrillation (0.2%) and prostate cancer (0.1%) were reported as serious adverse events by more than 1 patient and at a rate greater than placebo.
 
-Table 3 lists adverse reactions, derived from all adverse events that were reported in Studies 1, 2 and 3 at an incidence greater than placebo and in 1% or more of patients treated with mirabegron 25 mg or 50 mg once daily for up to 12 weeks.
+Table 3 the lists adverse reactions, derived from all adverse events that were reported in Studies 1, 2 and 3 at an incidence greater than placebo and in 1% or more of patients treated with mirabegron 25 mg or 50 mg once daily for up to 12 weeks.
 The most commonly reported adverse reactions (greater than 2% of mirabegron patients and greater than placebo) were hypertension, nasopharyngitis, urinary tract infection, and headache.
 
 | Table 3: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo Rate and Reported in ≥ 1% of OAB Patients Treated with mirabegron 25 mg or 50 mg Once Daily in Studies 1, 2, and 3 |  |  |  |
@@ -93,8 +93,38 @@ A causal relationship between mirabegron and these reported neoplasms has not be
 
 In a separate clinical study in Japan, a single case was reported as Stevens-Johnson syndrome with increased serum ALT, AST, and bilirubin in a patient taking mirabegron 100 mg as well as an herbal medication (Kyufu Gold).
 
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+The safety of mirabegron was evaluated in a 52-week, open-label, baseline-controlled, multicenter, dose titration study (Study 9) [see Clinical Studies (14.3)].
+The study included 86 pediatric patients 3 to 17 years of age with neurogenic detrusor overactivity (NDO); 55% were female, 72% were White.
+Treatment was initiated at the weight-based starting recommended dose and was increased to a dose equivalent of mirabegron 50 mg daily dose in adults by Week 8.
+Subsequent to the dose titration period, patients continued their optimized dose for the duration of the 52-week study (mean exposure duration 303 days, range 1 to 390 days).
+
+The most commonly reported adverse reactions were UTI, nasopharyngitis, constipation, and headache.
+
+Table 5 lists the adverse reactions that were reported in 2% or more of patients treated with mirabegron in Study 9.
+
+Table 5: Percentages of Patients with Adverse Reactions Reported in ≥ 2% of Patients 3 to 17 Years of Age with Neurogenic Detrusor Overactivity (NDO) Treated with Mirabegron in Study 9
+
+| Adverse Reaction | Percentage (%) of Patients Reporting Adverse Reactions N=86 |
+| --- | --- |
+| N umber of Patients | 51 (59.3) |
+| Urinary Tract Infection1 | 24.4 |
+| Nasopharyngitis | 5.8 |
+| Constipation | 4.7 |
+| Headache | 3.5 |
+| Nausea | 2.3 |
+| Gastroenteritis | 2.3 |
+| Rhinitis | 2.3 |
+| Cough | 2.3 |
+| 1. Includes any recorded UTI while patient was on treatment with mirabegron. |  |
+
+Increased Blood Pressure in Pediatric Patients with NDO Treated with mirabegron:
+
+Mean systolic and diastolic blood pressures increased in Study 9 by 4.3 mm Hg and 1.7 mm Hg, respectively, in patients less than 12 years of age on mirabegron at a dose equivalent of mirabegron 50 mg daily dose in adults.
+The blood pressure increases were larger in patients less than 8 years of age with mean systolic and diastolic blood pressure increases of 5.9 mm Hg and 2.3 mm Hg, respectively.
+Ten (24%) patients less than 12 years of age who were normotensive at baseline had at least one blood pressure measured at or above the 95th percentile for age, sex, and stature during Study 9.
+Stage 1 hypertension, defined as repeated blood pressure measurements at or above the 95th percentile for age, sex, and stature, was sustained in six of these 10 patients (60%) at the end of the study.
 
 ## 6.2 Postmarketing Experience
 
@@ -112,6 +142,6 @@ There have been postmarketing reports of confusion, hallucinations, insomnia and
 The majority of these patients had pre-existing medical conditions or concomitant medications that may cause confusion, hallucinations, insomnia and anxiety.
 A causal relationship between mirabegron and these disorders has not been established.
 
-Skin and subcutaneous tissue: angioedema of the face, lips, tongue, and larynx, with or without respiratory symptoms [see Warnings and Precautions (5.3)]; pruritus
+Skin and subcutaneous tissue disorders: angioedema of the face, lips, tongue, and larynx, with or without respiratory symptoms [see Warnings and Precautions (5.3)]; pruritus
 
 Renal and urinary disorders: urinary retention [see Warnings and Precautions (5.2)]

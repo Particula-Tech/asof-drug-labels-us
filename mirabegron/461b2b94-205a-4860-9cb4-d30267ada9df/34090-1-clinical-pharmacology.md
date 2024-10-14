@@ -61,11 +61,21 @@ In the overall population of males and females, a 2-fold increase in dose from 5
 Steady-state concentrations were achieved within 7 days of once daily dosing with mirabegron.
 After once daily administration, plasma exposure of mirabegron at steady-state was approximately double that seen after a single dose.
 
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+The median Tmax of mirabegron following oral administration of a single dose of mirabegron or mirabegron for extended-release oral suspension in pediatric patients under fed state was 4 to 5 hours.
+Population pharmacokinetic analysis predicted that the median Tmax of mirabegron or mirabegron for extended-release oral suspension at steady-state was 3 to 4 hours.
+
 Effect of Food
 
 Mirabegron Monotherapy for Adult OAB
 
 There were no clinically significant differences in mirabegron pharmacokinetics when administered with or without food in adult patients.
+
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+The median Tmax of mirabegron following oral administration of a single dose of mirabegron or mirabegron for extended-release oral suspension in pediatric patients under fed state was 4 to 5 hours.
+Population pharmacokinetic analysis predicted that the median Tmax of mirabegron or mirabegron for extended-release oral suspension at steady-state was 3 to 4 hours.
 
 Distribution
 
@@ -77,11 +87,19 @@ Mirabegron is bound (approximately 71%) to human plasma proteins, and shows mode
 Mirabegron distributes to erythrocytes.
 Based on an in vitro study, erythrocyte concentrations of 14C-mirabegron were about 2-fold higher than in plasma.
 
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+Mirabegron volume of distribution was relatively large in pediatric patients (the range of mean Vz/F under fed state in pediatric patients across studies: 4,895 to 13,726 L) and increased with increasing body weight.
+
 Elimination
 
 Mirabegron Monotherapy for Adult OAB
 
 The terminal elimination half-life (t1/2) of mirabegron is approximately 50 hours in patients.
+
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+Mirabegron volume of distribution was relatively large in pediatric patients (the range of mean Vz/F under fed state in pediatric patients across studies: 4,895 to 13,726 L) and increased with increasing body weight.
 
 Metabolism
 
@@ -104,18 +122,30 @@ The urinary elimination of unchanged mirabegron is dose-dependent and ranges fro
 Following the administration of 160 mg 14C-mirabegron solution to healthy volunteers, approximately 55% of the radioactivity dose was recovered in the urine and 34% in the feces.
 Approximately 25% of unchanged mirabegron was recovered in urine and 0% in feces.
 
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+Population pharmacokinetic model predicted that mirabegron clearance in pediatric patients increased with body weight.
+
 Specific Populations
 
 Geriatric Patients
 
 The Cmax and AUC of mirabegron following multiple oral doses in elderly volunteers (≥ 65 years) were similar to those in younger volunteers (18 to 45 years) [see Use in Specific Populations (8.5)].
 
+Pediatric Patients
+
+In patients 3 to less than 18 years of age, age was not predicted to affect mirabegron pharmacokinetic parameters after accounting for differences in body weight [see Use in Specific Populations (8.4)].
+
 Gender
 
 Mirabegron Monotherapy for Adult OAB
 
 The Cmax and AUC of mirabegron were approximately 40% to 50% higher in females than in males.
-When corrected for differences in body weight, the mirabegron systemic exposure was 20% - 30% higher in females compared to males.
+When corrected for differences in body weight, the mirabegron systemic exposure was 20% to 30% higher in females compared to males.
+
+Pediatric Patients
+
+In patients 3 to less than 18 years of age, age was not predicted to affect mirabegron pharmacokinetic parameters after accounting for differences in body weight [see Use in Specific Populations (8.4)].
 
 Race
 
@@ -194,6 +224,3 @@ Based on this single-dose study, mirabegron had no effect on the warfarin pharma
 However, the effect of mirabegron on multiple doses of warfarin and on warfarin pharmacodynamic end points such as INR and prothrombin time has not been fully investigated [see Drug Interactions (7.3)].
 
 (4) Although no dose adjustment is recommended with solifenacin succinate or tamsulosin based on the lack of pharmacokinetic interaction, mirabegron should be administered with caution to patients taking muscarinic antagonist medications for the treatment of OAB and in BOO because of the risk of urinary retention [see Warnings and Precautions (5.2)].
-
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

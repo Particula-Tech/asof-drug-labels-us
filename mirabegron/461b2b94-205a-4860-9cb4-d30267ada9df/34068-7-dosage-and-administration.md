@@ -4,7 +4,7 @@
 
 Mirabegron extended-release tablets and Mirabegron Granules are two different products and they are not substitutable on a milligram-per-milligram basis.
 
-- Select the recommended product (Mirabegron extended-release tablets and Mirabegron Granules) based on the indication[see Indications and Usage (1)].
+- Select the recommended product (Mirabegron extended-release tablets and Mirabegron Granules) based on the indication and patient's weight [see Indications and Usage (1) and Dosage and Administration (2.2, 2.3, 2.4, 2.5)].
 
 ## 2.2 Recommended Dosage for Adult Patients with OAB
 
@@ -14,8 +14,15 @@ The recommended starting dosage of mirabegron extended-release tablets is 25 mg 
 If needed, increase to the maximum dosage of mirabegron extended-release tablets 50 mg orally once daily after 4 to 8 weeks.
 For administration instructions, see Dosage and Administration (2.7).
 
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+## 2.3 Recommended Dosage for Pediatric Patients Aged 3 Years and Older with NDO
+
+For pediatric patients 3 years of age and older, select the appropriate product (Mirabegron extended-release tablets and Mirabegron Granules) based on the patient's weight.
+
+Pediatric Patients weighing 35 kg or more: Use mirabegron extended-release tablets
+
+The recommended starting dosage of mirabegron extended-release tablets is 25 mg orally once daily.
+If needed, increase to a maximum dosage of mirabegron extended-release tablets 50 mg orally once daily after 4 to 8 weeks.
+For administration instructions, see Dosage and Administration (2.7).
 
 ## 2.4 Recommended Dosage in Adult Patients with Renal or Hepatic Impairment
 
@@ -44,8 +51,23 @@ For administration instructions, see Dosage and Administration (2.7).
 | Child-Pugh Class B (Moderate hepatic impairment | 25 mg | 25 mg |
 | Child-Pugh Class C (Severe hepatic impairment | Not Recommended |  |
 
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+## 2.5 Recommended Dosage in Pediatric Patients with Renal or Hepatic Impairment
+
+For pediatric patients 3 years of age and older, select the appropriate product (Mirabegron extended-release tablets and Mirabegron Granules) based on the patient's weight.
+
+Pediatric Patients weighing 35 kg or more with renal or hepatic impairment: Use Mirabegron Extended-Release Tablets
+
+Dosage in Pediatric Patients with Renal Impairment
+
+The recommended dosage of mirabegron extended-release tablets in pediatric patients with renal impairment weighing 35 kg or more (administered orally once daily) is described in Table 1 (above).
+Note that the dosage is the same as for adult patients with renal impairment [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
+For administration instructions, see Dosage and Administration (2.7).
+
+Dosage in Pediatric Patients with Hepatic Impairment
+
+The recommended dosage of mirabegron extended-release tablets in pediatric patients with hepatic impairment weighing 35 kg or more (administered orally once daily) is described in Table 2 (above).
+Note that the dosage is the same as for adult patients with hepatic impairment [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
+For administration instructions, see Dosage and Administration (2.7).
 
 ## 2.7 Administration Instructions
 
@@ -54,6 +76,10 @@ Mirabegron extended-release tablets
 Adult patients: Swallow mirabegron extended-release tablets whole with water.
 Do not chew, divide, or crush.
 Take with or without food.
+
+Pediatric patients: Swallow mirabegron extended-release tablets whole with water.
+Do not chew, divide, or crush.
+Take with food [see Use in Specific Populations (8.4)].
 
 ## 2.8 Missed Dose
 
