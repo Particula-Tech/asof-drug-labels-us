@@ -28,6 +28,9 @@ Mirabegron extended-release tablets
 Advise adult patients to swallow mirabegron whole with water and not to chew, divide, or crush.
 Advise adult patients to take mirabegron with or without food.
 
+Advise pediatric patients and/or their caregivers to swallow mirabegron extended-release tablets whole with water and not to chew, divide, or crush.
+Advise pediatric patients to take mirabegron extended-release tablets with food.
+
 Missed Dose
 
 Instruct patients and/or their caregivers to take any missed doses as soon as they remember, unless more than 12 hours have passed since the missed dose.
@@ -45,4 +48,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Revised: 07/2023
+Revised: 10/2024

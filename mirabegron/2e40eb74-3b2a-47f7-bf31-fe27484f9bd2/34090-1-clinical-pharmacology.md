@@ -16,11 +16,11 @@ Nonetheless, mirabegron should be administered with caution to patients with cli
 
 Cardiac Electrophysiology
 
-The effect of multiple doses of mirabegron 50 mg, 100 mg and 200 mg (four times the maximum recommended dose) once daily on QTc interval was evaluated in a randomized, placebo- and active-controlled (moxifloxacin 400 mg), four-treatment arm, parallel crossover study in 352 healthy subjects.
+The effect of multiple doses of mirabegron 50 mg, 100 mg, and 200 mg (four times the maximum recommended dose) once daily on QTc interval was evaluated in a randomized, placebo- and active-controlled (moxifloxacin 400 mg), four-treatment arm, parallel crossover study in 352 healthy subjects.
 In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo-adjusted, baseline-corrected QTc based on individual correction method (QTcI) was below 10 msec.
 For the 50 mg mirabegron dose group (the maximum approved dosage), the mean difference from placebo on QTcI interval at 4 to 5 hours post-dose was 3.7 msec (upper bound of the 95% CI 5.1 msec).
 
-For the mirabegron 100 mg and 200 mg doses groups (dosages greater than the maximum approved dose and resulting in substantial multiples of the anticipated maximum blood levels at 50 mg), the mean differences from placebo in QTcI interval at 4 to 5 hours post-dose were 6.1 msec (upper bound of the 95% CI 7.6 msec) and 8.1 msec (upper bound of the 95% CI 9.8 msec), respectively.
+For the mirabegron 100 mg and 200 mg dose groups (dosages greater than the maximum approved dose and resulting in substantial multiples of the anticipated maximum blood levels at 50 mg), the mean differences from placebo in QTcI interval at 4 to 5 hours post-dose were 6.1 msec (upper bound of the 95% CI 7.6 msec) and 8.1 msec (upper bound of the 95% CI 9.8 msec), respectively.
 At the mirabegron 200 mg dose, in females, the mean effect was 10.4 msec (upper bound of the 95% CI 13.4 msec).
 
 In this thorough QT study, mirabegron increased heart rate on ECG in a dose-dependent manner.
@@ -35,11 +35,11 @@ The 24-hour average increases in SBP compared to placebo were 3.0, 5.5, and 9.7 
 Increases in DBP were also dose-dependent, but were smaller than SBP.
 
 In another study in 96 healthy subjects to assess the impact of age on pharmacokinetics of multiple daily doses of 50 mg, 100 mg, 200 mg, and 300 mg (six times the maximum recommended dose) of mirabegron for 10 days, SBP also increased in a dose-dependent manner.
-The mean maximum increases in SBP were approximately 2.5, 4.5, 5.5 and 6.5 mm Hg for mirabegron exposures associated with doses of 50 mg, 100 mg, 200 mg and 300 mg, respectively.
+The mean maximum increases in SBP were approximately 2.5, 4.5, 5.5, and 6.5 mm Hg for mirabegron exposures associated with doses of 50 mg, 100 mg, 200 mg and 300 mg, respectively.
 
-In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies (Studies 1, 2 and 3) in patients with OAB receiving mirabegron 25 mg, 50 mg, or 100 mg (two times the maximum recommended dose) once daily, mean increases in SBP/DBP compared to placebo of approximately 0.5 - 1 mm Hg were observed.
+In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies (Studies 1, 2, and 3) in patients with OAB receiving mirabegron 25 mg, 50 mg, or 100 mg (two times the maximum recommended dose) once daily, mean increases in SBP/DBP compared to placebo of approximately 0.5 - 1 mm Hg were observed.
 Morning SBP increased by at least 15 mm Hg from baseline in 5.3%, 5.1%, and 6.7% of placebo, mirabegron 25 mg and mirabegron 50 mg patients, respectively.
-Morning DBP increased by at least 10 mm Hg in 4.6%, 4.1% and 6.6% of placebo, mirabegron 25 mg, and mirabegron 50 mg patients, respectively.
+Morning DBP increased by at least 10 mm Hg in 4.6%, 4.1%, and 6.6% of placebo, mirabegron 25 mg, and mirabegron 50 mg patients, respectively.
 Both SBP and DBP increases were reversible upon discontinuation of treatment.
 
 Effect on Intraocular Pressure (IOP)
@@ -57,15 +57,25 @@ After oral administration of mirabegron in healthy volunteers, mirabegron was ab
 The absolute bioavailability increased from 29% at a dose of 25 mg to 35% at a dose of 50 mg.
 Mean Cmax and AUC increased more than dose proportionally.
 This relationship was more apparent at doses above 50 mg.
-In the overall population of males and females, a 2-fold increase in dose from 50 to 100 mg mirabegron increased Cmax and AUCtau by approximately 2.9- and 2.6-fold, respectively, whereas a 4-fold increase in dose from 50 to 200 mg mirabegron increased Cmax and AUCtau by approximately 8.4- and 6.5-fold.
+In the overall population of males and females, a 2-fold increase in dose from 50 mg to 100 mg mirabegron increased Cmax and AUCtau by approximately 2.9- and 2.6-fold, respectively, whereas a 4-fold increase in dose from 50 mg to 200 mg mirabegron increased Cmax and AUCtau by approximately 8.4- and 6.5-fold.
 Steady-state concentrations were achieved within 7 days of once daily dosing with mirabegron.
 After once daily administration, plasma exposure of mirabegron at steady-state was approximately double that seen after a single dose.
+
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+The median Tmax of mirabegron following oral administration of a single dose of mirabegron or mirabegron for extended-release oral suspension in pediatric patients under fed state was 4 to 5 hours.
+Population pharmacokinetic analysis predicted that the median Tmax of mirabegron or mirabegron for extended-release oral suspension at steady-state was 3 to 4 hours.
 
 Effect of Food
 
 Mirabegron Monotherapy for Adult OAB
 
 There were no clinically significant differences in mirabegron pharmacokinetics when administered with or without food in adult patients.
+
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+In the fasted state, steady-state mirabegron AUC increased by 120% relative to the fed state in pediatric patients receiving mirabegron.
+Fasted Cmax and AUC increased by 170% and 80%, respectively, compared to the fed state following administration of mirabegron in healthy volunteers.
 
 Distribution
 
@@ -77,11 +87,19 @@ Mirabegron is bound (approximately 71%) to human plasma proteins, and shows mode
 Mirabegron distributes to erythrocytes.
 Based on an in vitro study, erythrocyte concentrations of 14C-mirabegron were about 2-fold higher than in plasma.
 
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+Mirabegron volume of distribution was relatively large in pediatric patients (the range of mean Vz/F under fed state in pediatric patients across studies: 4,895 to 13,726 L) and increased with increasing body weight.
+
 Elimination
 
 Mirabegron Monotherapy for Adult OAB
 
 The terminal elimination half-life (t1/2) of mirabegron is approximately 50 hours in patients.
+
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+The mean terminal elimination half-life (t1/2) of mirabegron is approximately 26 to 31 hours in pediatric patients.
 
 Metabolism
 
@@ -91,7 +109,7 @@ Two major metabolites were observed in human plasma and are phase 2 glucuronides
 These metabolites are not pharmacologically active toward beta-3 adrenergic receptor.
 Although in vitro studies suggest a role for CYP2D6 and CYP3A4 in the oxidative metabolism of mirabegron, in vivo results indicate that these isozymes play a limited role in the overall elimination.
 In healthy subjects who were genotypically poor metabolizers of CYP2D6, mean Cmax and AUCtau were approximately 16% and 17% higher than in extensive metabolizers of CYP2D6, respectively.
-In vitro and ex vivo studies have shown the involvement of butylcholinesterase, uridine diphospho-glucuronosyltransferases (UGT) and possibly alcohol dehydrogenase in the metabolism of mirabegron, in addition to CYP3A4 and CYP2D6.
+In vitro and ex vivo studies have shown the involvement of butylcholinesterase, uridine diphospho-glucuronosyltransferases (UGT), and possibly alcohol dehydrogenase in the metabolism of mirabegron, in addition to CYP3A4 and CYP2D6.
 
 Excretion
 
@@ -104,18 +122,30 @@ The urinary elimination of unchanged mirabegron is dose-dependent and ranges fro
 Following the administration of 160 mg 14C-mirabegron solution to healthy volunteers, approximately 55% of the radioactivity dose was recovered in the urine and 34% in the feces.
 Approximately 25% of unchanged mirabegron was recovered in urine and 0% in feces.
 
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+Population pharmacokinetic model predicted that mirabegron clearance in pediatric patients increased with body weight.
+
 Specific Populations
 
 Geriatric Patients
 
 The Cmax and AUC of mirabegron following multiple oral doses in elderly volunteers (≥ 65 years) were similar to those in younger volunteers (18 to 45 years) [see Use in Specific Populations (8.5)].
 
+Pediatric Patients
+
+In patients 3 to less than 18 years of age, age was not predicted to affect mirabegron pharmacokinetic parameters after accounting for differences in body weight [see Use in Specific Populations (8.4)].
+
 Gender
 
 Mirabegron Monotherapy for Adult OAB
 
 The Cmax and AUC of mirabegron were approximately 40% to 50% higher in females than in males.
-When corrected for differences in body weight, the mirabegron systemic exposure was 20% - 30% higher in females compared to males.
+When corrected for differences in body weight, the mirabegron systemic exposure was 20% to 30% higher in females compared to males.
+
+Mirabegron for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+Gender has no meaningful impact on mirabegron pharmacokinetics in the pediatric population from 3 to less than 18 years of age.
 
 Race
 
@@ -143,7 +173,7 @@ In Vitro Studies
 Effect of Other Drugs on Mirabegron
 
 Mirabegron is transported and metabolized through multiple pathways.
-Mirabegron is a substrate for CYP3A4, CYP2D6, butyrylcholinesterase, UGT, the efflux transporter P-glycoprotein (P-gp) and the influx organic cation transporters (OCT) OCT1, OCT2, and OCT3.
+Mirabegron is a substrate for CYP3A4, CYP2D6, butyrylcholinesterase, UGT, the efflux transporter P-glycoprotein (P-gp), and the influx organic cation transporters (OCT) OCT1, OCT2, and OCT3.
 Sulfonylurea hypoglycemic agents glibenclamide (a CYP3A4 substrate), gliclazide (a CYP2C9 and CYP3A4 substrate), and tolbutamide (a CYP2C9 substrate) did not affect the in vitro metabolism of mirabegron.
 
 Effect of Mirabegron on Other Drugs
@@ -194,6 +224,3 @@ Based on this single-dose study, mirabegron had no effect on the warfarin pharma
 However, the effect of mirabegron on multiple doses of warfarin and on warfarin pharmacodynamic end points such as INR and prothrombin time has not been fully investigated [see Drug Interactions (7.3)].
 
 (4) Although no dose adjustment is recommended with solifenacin succinate or tamsulosin based on the lack of pharmacokinetic interaction, mirabegron should be administered with caution to patients taking muscarinic antagonist medications for the treatment of OAB and in BOO because of the risk of urinary retention [see Warnings and Precautions (5.2)].
-
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

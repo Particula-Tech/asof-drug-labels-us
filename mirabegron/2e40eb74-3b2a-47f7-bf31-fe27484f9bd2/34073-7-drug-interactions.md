@@ -7,12 +7,12 @@ The following are drug interactions for which monitoring is recommended:
 
 ## 7.1 Drugs Metabolized by CYP2D6
 
-Since mirabegron is a moderate CYP2D6 inhibitor, the systemic exposure of drugs metabolized by CYP2D6 enzyme, is increased when coadministered with mirabegron.
+Since mirabegron is a moderate CYP2D6 inhibitor, the systemic exposure of drugs metabolized by CYP2D6 enzyme is increased when coadministered with mirabegron.
 Therefore, appropriate monitoring and dose adjustment may be necessary when mirabegron is coadministered with these drugs, especially with narrow therapeutic index CYP2D6 substrates [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Digoxin
 
-When given in combination, 100 mg mirabegron increased mean digoxin Cmax from 1.01 to 1.3 ng/mL (29%) and AUC from 16.7 to 19.3 ng.h/mL (27%).
+When given in combination, 100 mg mirabegron increased mean digoxin Cmax from 1.01 ng/mL to 1.3 ng/mL (29%) and AUC from 16.7 ng.h/mL to 19.3 ng.h/mL (27%).
 For patients who are initiating a combination of mirabegron and digoxin, the lowest dose for digoxin should initially be considered.
 Serum digoxin concentrations should be monitored and used for titration of the digoxin dose to obtain the desired clinical effect [see Clinical Pharmacology (12.3)].
 

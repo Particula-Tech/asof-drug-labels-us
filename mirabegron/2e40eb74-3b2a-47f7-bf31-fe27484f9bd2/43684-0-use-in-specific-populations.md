@@ -9,7 +9,7 @@ Mirabegron administration to pregnant animals during organogenesis resulted in r
 At maternally-toxic exposures in rats (96-fold), decreased fetal weight and increased fetal mortality were observed and, in rabbits (36-fold), cardiac findings (fetal cardiomegaly and fetal dilated aortae) were observed [see Data].
 
 The estimated background risks of major birth defects and miscarriage for the indicated populations are unknown.
-In the U.S. general population, the estimated background risks of major birth defects or miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects or miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -41,10 +41,17 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Increased mean systolic and diastolic blood pressures with use of mirabegron occurred in patients less than 12 years of age with larger increases in patients younger than 8 years of age.
+The safety and effectiveness have been established only for the following pediatric indications:
 
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+- Mirabegron: Treatment of neurogenic detrusor overactivity (NDO) in pediatric patients 3years of age and older and weighing 35 kg or more.
+
+The safety and effectiveness of mirabegron in pediatric patients aged 3 years and older have been established for the treatment of neurogenic detrusor overactivity (NDO) and the information on this use is discussed throughout the labeling.
+Use of mirabegron for this indication is supported by evidence from a 52-week, open-label, baseline-controlled, multicenter, dose titration trial in pediatric patients 3 years of age and older with NDO (Study 9) [see Adverse Reactions (6.1), Clinical Studies (14.3)].
+Results showed an improvement from baseline in maximum cystometric (bladder) capacity (MCC) with mirabegron use [see Clinical Studies (14.3)].
+The most commonly reported adverse reactions in Study 9 (≥3%) were UTI, nasopharyngitis, constipation, and headache.
+Increased mean systolic and diastolic blood pressures with use of mirabegron occurred in patients less than 12 years of age with larger increases in patients younger than 8 years of age [see Adverse Reactions (6.1)].
+
+Take mirabegron with food to reduce potential exposure-related risks, such as increased heart rate, as predicted by modeling of vital signs data in Study 9 [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -57,17 +64,11 @@ Mirabegron have not been studied in patients with End-Stage Renal Disease (eGFR 
 No dose adjustment is necessary in patients with mild or moderate renal impairment (eGFR 30 to 89 mL/min/1.73 m2).
 
 In adult patients with severe renal impairment (eGFR 15 to 29 mL/min/1.73 m2), the daily dose of mirabegron should not exceed 25 mg.
-[see Clinical Pharmacology (12.3)].
-
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+In pediatric patients with severe renal impairment, the daily dose of mirabegron should not exceed the recommended starting dose [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Mirabegron has not been studied in patients with severe hepatic impairment (Child-Pugh Class C) and, therefore, is not recommended for use in this patient population.
 
 In adult patients with moderate hepatic impairment (Child-Pugh Class B), the daily dose of mirabegron should not exceed 25 mg.
-No dose adjustment is necessary in patients with mild hepatic impairment (Child-Pugh Class A) [see Clinical Pharmacology (12.3)].
-
-Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
-However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+In pediatric patients with moderate hepatic impairment (Child-Pugh Class B), the daily dose of mirabegron should not exceed the recommended starting dose [see Clinical Pharmacology (12.3)].
