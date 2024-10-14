@@ -2,6 +2,8 @@
 
 Donepezil Hydrochloride Tablets USP, 5 mg
 
+Donepezil Hydrochloride Tablets USP, 5 mg - dahej
+
 Donepezil Hydrochloride Tablets USP, 10 mg
 
-Dahej
+Donepezil Hydrochloride Tablets USP, 10 mg - Dahej

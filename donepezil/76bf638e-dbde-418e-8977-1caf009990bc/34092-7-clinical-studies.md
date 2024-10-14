@@ -134,7 +134,7 @@ Probable Alzheimer's disease was diagnosed in the majority of the patients (83.6
 Study Outcome Measures
 
 The effectiveness of treatment with donepezil hydrochloride tablets was determined using a dual outcome assessment strategy that evaluated cognitive function using an instrument designed for more impaired patients and overall function through caregiver-rated assessment.
-This study showed that patients on donepezil hydrochloride tablets experienced significant improvement on both measures compared to placebo.
+This study showed that patients on donepezil hydrochloride tabletsexperienced significant improvement on both measures compared to placebo.
 
 The ability of donepezil hydrochloride tablets to improve cognitive performance was assessed with the Severe Impairment Battery (SIB).
 The SIB, a multi-item instrument, has been validated for the evaluation of cognitive function in patients with moderate to severe dementia.
@@ -162,6 +162,9 @@ While patients assigned both to donepezil hydrochloride tablets and to placebo h
 
 Figure 8.
 Cumulative Percentage of Patients Completing 6 Months of Double-blind Treatment with Particular Changes from Baseline in SIB Scores.
+
+Figure 9.
+Time Course of the Change from Baseline in ADCS-ADL-Severe Score for Patients Completing 6 Months of Treatment.
 
 Effects on the ADCS-ADL-severe
 
