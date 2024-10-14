@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217228"
+  ],
+  "inn": "travoprost",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-586-01",
+    "70069-587-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "travoprost (isomer free)",
+      "name": "Travoprost"
+    }
+  ],
+  "setid": "e9dd2388-afd3-4f40-b35d-54df8c239d29",
+  "source": "dailymed"
+}
