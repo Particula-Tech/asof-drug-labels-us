@@ -8,7 +8,7 @@ Studies conducted in pediatric subjects demonstrated reversible HPA-axis suppres
 Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of Locoid Lipocream due to their larger skin-surface-to-body-mass ratios [see Use in Specific Populations (8.4)].
 
 Patients applying a topical corticosteroid to a large surface area or to areas under occlusion should be considered for periodic evaluation of the HPA axis.
-This may be done by using cosyntropin (ACTH1-24) stimulation testing (CST).
+This may be done by using cosyntropin (ACTH 1-24) stimulation testing (CST).
 
 Minimize systemic corticosteroid effects by mitigating the risk factors for increased systemic absorption and using Locoid Lipocream as recommended [see Dosage and Administration (2)].
 

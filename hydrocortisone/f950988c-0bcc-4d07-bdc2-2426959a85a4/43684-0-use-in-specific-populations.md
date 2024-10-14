@@ -10,7 +10,7 @@ Therefore, Locoid Lipocream should be used during pregnancy only if the potentia
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
-Note: The animal multiples of human exposure calculations in this label were based on body surface area comparisons for an adult (i.e., mg/m2/day dose comparisons) assuming 100% human percutaneous absorption of a maximum topical human dose (MTHD) for hydrocortisone butyrate cream (25 g).
+Note: The animal multiples of human exposure calculations in this label were based on body surface area comparisons for an adult (i.e., mg/m 2/day dose comparisons) assuming 100% human percutaneous absorption of a maximum topical human dose (MTHD) for hydrocortisone butyrate cream (25 g).
 
 Systemic embryofetal development studies were conducted in rats and rabbits.
 Subcutaneous doses of 0.6, 1.8, and 5.4 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats during gestation days 6 - 17.

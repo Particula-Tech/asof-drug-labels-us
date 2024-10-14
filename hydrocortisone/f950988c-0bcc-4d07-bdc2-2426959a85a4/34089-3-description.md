@@ -4,7 +4,7 @@ Locoid Lipocream (hydrocortisone butyrate) Cream, 0.1% contains hydrocortisone b
 The chemical name of hydrocortisone butyrate is 11ß,17,21-Trihydroxypregn-4-ene-3,20-dione 17-butyrate.
 It has the following structural formula:
 
-Hydrocortisone butyrate is a white to off-white powder with a molecular weight of 432.56, and a molecular formula of C25H36O6.
+Hydrocortisone butyrate is a white to off-white powder with a molecular weight of 432.56, and a molecular formula of C 25H 36O 6.
 It is practically insoluble in water, slightly soluble in ether, soluble in methanol, in alcohol, and in acetone, and freely soluble in chloroform.
 
 Each gram of Locoid Lipocream contains 1 mg of hydrocortisone butyrate in a white to off-white hydrophilic cream base consisting of anhydrous citric acid, butylparaben, ceteth-20, cetostearyl alcohol, mineral oil, propylparaben, purified water, sodium citrate, and white petrolatum.
