@@ -5,4 +5,4 @@ For Medical Information about Furosemide Injection, please visit www.pfizermedin
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1025-6.0
+LAB-1025-7.0
