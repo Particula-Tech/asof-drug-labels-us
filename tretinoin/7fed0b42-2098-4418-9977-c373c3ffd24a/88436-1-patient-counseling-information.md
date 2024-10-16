@@ -74,5 +74,5 @@ H2-Pharma, LLC
 
 Montgomery, AL 36117, USA
 
-© 2019 CHEPLAPHARM Arzneimittel GmbH.
+© 2024 CHEPLAPHARM Arzneimittel GmbH.
 All rights reserved.

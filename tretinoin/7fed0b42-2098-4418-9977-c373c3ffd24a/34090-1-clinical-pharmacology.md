@@ -52,9 +52,12 @@ The effect of age, sex, race, renal impairment, and hepatic impairment on the ph
 
 Drug Interaction Studies
 
-Clinical Studies
+Clinical Studies and Post Marketing Experience
 
-Coadministration of ketoconazole (strong CYP3A inhibitor) increased tretinoin AUC by 72%.
+Strong CYP3A inhibitors: Tretinoin AUC increased by 72% following concomitant use with ketoconazole (strong CYP3A inhibitor).
+Increased tretinoin toxicity has also been reported post-marketing with strong CYP3A inhibitors including certain antimycotics.
+
+Moderate CYP3A Inhibitors: Increased tretinoin toxicity following concomitant use of VESANOID with certain antimycotics that are moderate CYP3A4 inhibitors has been reported post-marketing.
 
 In Vitro Studies
 

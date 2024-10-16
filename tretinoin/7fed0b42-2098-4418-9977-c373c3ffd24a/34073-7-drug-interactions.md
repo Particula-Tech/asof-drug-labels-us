@@ -2,16 +2,18 @@
 
 ## 7.1 Effects of Other Drugs on VESANOID
 
-Strong CYP3A Inhibitors
+Strong or moderate CYP3A Inhibitors
 
-The coadministration of VESANOID with ketoconazole, a strong CYP3A4 inhibitor, increased tretinoin plasma concentration, which may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)].
-Avoid coadministration of VESANOID with strong CYP3A inhibitors if possible.
-Monitor patients taking a strong CYP3A inhibitor with VESANOID more frequently for adverse reactions.
+Avoid concomitant use of VESANOID with strong CYP3A inhibitors if possible and monitor more frequently if concomitant use is unavoidable.
+Monitor patients taking moderate CYP3A inhibitors concomitantly with VESANOID more frequently for adverse reactions.
+
+Tretinoin is a CYP3A substrate.
+Concomitant use with a strong CYP3A4 inhibitor increases tretinoin plasma concentrations, which may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]﻿.
 
 Strong CYP3A Inducers
 
-The coadministration of VESANOID with strong CYP3A4 inducers may decrease tretinoin plasma concentrations, which may reduce its efficacy.
-Avoid coadministration with strong CYP3A inducers if possible.
+Concomitant use of VESANOID with strong CYP3A4 inducers may decrease tretinoin plasma concentrations, which may reduce its efficacy.
+Avoid concomitant use with strong CYP3A inducers if possible.
 
 ## 7.2 Concomitant Use of Products Known to Cause Intracranial Hypertension
 
