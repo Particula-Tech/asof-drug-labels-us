@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 RIZATRIPTAN BENZOATE TABLETS, USP
 
@@ -12,12 +12,19 @@ Unless otherwise stated, the information in this Patient Information leaflet app
 What is rizatriptan benzoate tablets, USP?
 
 Rizatriptan benzoate tablets, USP is a prescription medicine that belongs to a class of medicines called Triptans.
+
 Rizatriptan benzoate tablets is available as a traditional tablet and as an orally disintegrating tablet.
+
 Rizatriptan benzoate tablet are used to treat migraine attacks with or without aura in adults and in children 6 to 17 years of age.
+
 Rizatriptan benzoate tablets is not to be used to prevent migraine attacks.
+
 Rizatriptan benzoate tablets is not for the treatment of hemiplegic or basilar migraines.
+
 It is not known if rizatriptan benzoate tablets is safe and effective for the treatment of cluster headaches.
+
 It is not known if taking more than 1 dose of rizatriptan benzoate tablets in 24 hours is safe and effective in children 6 to 17 years of age.
+
 It is not known if rizatriptan benzoate tablets is safe and effective in children under 6 years of age.
 
 Who should not take rizatriptan benzoate tablets?
@@ -67,7 +74,7 @@ Rizatriptan benzoate tablets may affect the way other medicines work, and other 
 
 Especially tell your doctor if you take:
 
-- propranolol containing medicines such as Inderal®, Inderal® LA, or Innopran® XL
+- propranolol containing medicines such as Inderal®, Inderal®LA, or Innopran®XL
 - medicines used to treat mood disorders, including selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
@@ -151,7 +158,7 @@ These are not all the possible side effects of rizatriptan benzoate tablets.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-­1088.
+You may report side effects to FDA at 1-800-FDA- 1088.
 
 How should I store rizatriptan benzoate tablets?
 
@@ -175,7 +182,9 @@ For more information contact Creekwood Pharmaceuticals LLC. at 1-732-344-0220 or
 
 What are the ingredients in rizatriptan benzoate tablets?
 
-Active ingredient in rizatriptan benzoate tablets: rizatriptan benzoate, USP.
+Active ingredient in rizatriptan benzoate tablets:
+
+rizatriptan benzoate, USP.
 
 Inactive ingredients in rizatriptan benzoate tablets: Lactose Monohydrate USP NF, Microcrystalline Cellulose USP NF, Pregelatinised Starch USP NF, Ferric Oxide USP NF and Magnesium Stearate USP NF.
 
@@ -183,10 +192,17 @@ The brands listed are the trademarks of their respective owners.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: V-Ensure Pharma Technologies Pvt.
-Ltd. Raigad Maharashtra 410206, India
+Manufactured by:
 
-Distributed by: Creekwood Pharmaceuticals LLC.
+V-Ensure Pharma Technologies Pvt.
+Ltd
+
+Raigad Maharashtra 410206, India
+
+Distributed by:
+
+Creekwood Pharmaceuticals LLC
+
 Parsippany, NJ 07054
 
 IA1110101

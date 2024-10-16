@@ -52,7 +52,7 @@ There are no data on the presence of rizatriptan or any active metabolites in hu
 
 Rizatriptan was excreted in rat milk, with levels in milk approximately 6 times those in maternal plasma.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for rizatriptan benzoate tablets and any potential adverse effects on the breastfed infant from rizatriptan benzoate tablets from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for rizatriptan benzoate tablets and any potential adverse effects on the breastfed infant from rizatriptan benzoate tablets from the underlying maternal condition.
 
 Data
 
@@ -61,7 +61,9 @@ Following oral administration of rizatriptan to lactating rats at a dose of 100 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients under 6 years of age have not been established.
+
 The efficacy and safety of rizatriptan benzoate tablets in the acute treatment of migraine in patients aged 6 to 17 years was established in an adequate and well-controlled study [see Clinical Studies (14.2)].
+
 The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received rizatriptan benzoate tablets to those who received placebo.
 The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
 
@@ -72,4 +74,5 @@ Other reported clinical experience has not identified differences in responses b
 
 Although the pharmacokinetics of rizatriptan were similar in elderly (aged ≥65 years) and in younger adults (n=17), in general, dose selection for an elderly patient should be cautious, starting at the low end of the dosing range.
 This reflects the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
 Geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of coronary artery disease) should have a cardiovascular evaluation prior to receiving rizatriptan benzoate tablets [see Warnings and Precautions (5.1)].
