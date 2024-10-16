@@ -50,15 +50,13 @@ Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
 
-8097501 Revised: July 2024
+8098540 Revised: October 2024
 
 Or
 
 VKT Pharma Private Limited, Srikakulam-532409, India.
 
-8097483 Revised: July 2024
-
-800262
+800264 Revised: October 2024
 
 Manufactured for:
 
