@@ -22,21 +22,33 @@ How to Apply the Clonidine Transdermal System PATCH
 
 Each box of clonidine transdermal system contains two types of pouches:
 
-1. Apply the square, tan clonidine transdermal system PATCH once a week, preferably at a convenient time on the same day of the week (i.e., prior to bedtime on Tuesday of week one; prior to bedtime on Tuesday of week two, etc.).
-2. Select a hairless area such as on the upper, outer arm or upper chest.
-   The area chosen should be free of cuts, abrasions, irritation, scars or calluses and should not be shaved before applying the clonidine transdermal system PATCH.
-   Do not place the clonidine transdermal system PATCH on skin folds or under tight undergarments, since premature loosening may occur.
-3. Wash hands with soap and water and thoroughly dry them.
-4. Clean the area chosen with soap and water.
-   Rinse and wipe dry with a clean, dry tissue.
-5. Select the pouch labeled Clonidine Transdermal System, USP and open it as illustrated in Figure 3.
-   Remove the square, tan PATCH from the pouch.Figure 3
-6. Remove the clear plastic protective backing from the PATCH by gently peeling off one half of the backing at a time as shown in Figure 4.
-   Avoid touching the sticky side of the clonidine transdermal system PATCH.Figure 4
-7. Place the clonidine transdermal system PATCH on the prepared skin site (sticky side down) by applying firm pressure over the PATCH to ensure good contact with the skin, especially around the edges (Figure 5).
-   Discard the clear plastic protective backing and wash your hands with soap and water to remove any drug from your hands.Figure 5
-8. After one week, remove the old PATCH and discard it (refer to Instructions for Disposal).
-   After choosing a different skin site, repeat instructions 2 through 7 for the application of your next clonidine transdermal system PATCH.
+1.
+Apply the square, tan clonidine transdermal system PATCH once a week, preferably at a convenient time on the same day of the week (i.e., prior to bedtime on Tuesday of week one; prior to bedtime on Tuesday of week two, etc.). 2.
+Select a hairless area such as on the upper, outer arm or upper chest.
+The area chosen should be free of cuts, abrasions, irritation, scars or calluses and should not be shaved before applying the clonidine transdermal system PATCH.
+Do not place the clonidine transdermal system PATCH on skin folds or under tight undergarments, since premature loosening may occur.
+3.
+Wash hands with soap and water and thoroughly dry them.
+4.
+Clean the area chosen with soap and water.
+Rinse and wipe dry with a clean, dry tissue.
+5.
+Select the pouch labeled Clonidine Transdermal System, USP and open it as illustrated in Figure 3.
+Remove the square, tan PATCH from the pouch.
+
+Figure 3
+
+6.
+Remove the clear plastic protective backing from the PATCH by gently peeling off one half of the backing at a time as shown in Figure 4.
+Avoid touching the sticky side of the clonidine transdermal system PATCH.
+
+Figure 4 7.
+Place the clonidine transdermal system PATCH on the prepared skin site (sticky side down) by applying firm pressure over the PATCH to ensure good contact with the skin, especially around the edges (Figure 5).
+Discard the clear plastic protective backing and wash your hands with soap and water to remove any drug from your hands.
+
+Figure 5 8.
+After one week, remove the old PATCH and discard it (refer to Instructions for Disposal).
+After choosing a different skin site, repeat instructions 2 through 7 for the application of your next clonidine transdermal system PATCH.
 
 What to do if your clonidine transdermal system PATCH becomes loose while wearing:
 
@@ -60,7 +72,9 @@ During or even after use, a PATCH contains active medication which may be harmfu
 After use, fold in half with the sticky sides together.
 Dispose of carefully out of reach of children.
 
-Distributed by: TruPharma LLC, Tampa FL 33609, USA
+Distributed by:
+
+TruPharma LLC, Tampa FL 33609, USA
 
 Revised: March 2023
 
