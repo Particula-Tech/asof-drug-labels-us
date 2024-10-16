@@ -89,7 +89,7 @@ Olanzapine and fluoxetine hydrochloride capsules are dosed between 3 mg/25 mg (o
 The following table demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus olanzapine and fluoxetine hydrochloride capsules.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
-Table 1: Approximate Dose Correspondence Between Olanzapine and Fluoxetine Hydrochloride Capsules * and the Combination of Olanzapine and Fluoxetine
+Table 1: Approximate Dose Correspondence Between Olanzapine and Fluoxetine Hydrochloride Capsules a and the Combination of Olanzapine and Fluoxetine
 
 | For | Use in Combination |  |
 | --- | --- | --- |
@@ -99,7 +99,7 @@ Table 1: Approximate Dose Correspondence Between Olanzapine and Fluoxetine Hydro
 | 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
 | 6 mg olanzapine/50 mg fluoxetine | 5 | 40+10 |
 | 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
-| * Olanzapine and fluoxetine hydrochloride capsules (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine |  |  |
+| a Olanzapine and fluoxetine hydrochloride capsules (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine |  |  |
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The healthcare provider should periodically reexamine the need for continued pharmacotherapy.
