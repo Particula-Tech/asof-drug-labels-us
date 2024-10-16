@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA217836"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Orasis Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "83661-018-10",
+    "83661-018-20",
+    "83661-018-30",
+    "83661-018-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "pilocarpine hydrochloride",
+      "name": "Qlosi"
+    }
+  ],
+  "setid": "4ee2a840-1203-473a-aa42-316a3ddf2fbe",
+  "source": "dailymed"
+}
