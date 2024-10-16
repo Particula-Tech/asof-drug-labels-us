@@ -26,15 +26,15 @@ Dosage modifications for Doxorubicin Hydrochloride Injection in patients with el
 Table 1.
 Recommended Dosage Modification for Elevated Serum Total Bilirubin
 
-| Serum total bilirubin concentration | Dosage Modification |
+| Serum Total Bilirubin Concentration | Dosage Modification |
 | --- | --- |
-| 1.2 – 3 mg/dL | 50% |
-| 3.1 – 5 mg/dL | 75% |
-| greater than 5 mg/dL | Do not initiate Doxorubicin Hydrochloride Injection; discontinue Doxorubicin Hydrochloride Injection |
+| 1.2–3 mg/dL | 50% |
+| 3.1–5 mg/dL | 75% |
+| Greater than 5 mg/dL | Do not initiate Doxorubicin Hydrochloride Injection; discontinue Doxorubicin Hydrochloride Injection |
 
 ## 2.5 Preparation and Administration
 
-Doxorubicin Hydrochloride Injection is a cytotoxic drug.
+Doxorubicin Hydrochloride Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 Preparation

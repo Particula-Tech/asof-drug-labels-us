@@ -68,7 +68,7 @@ This may occur several years after the end of therapy [see Nonclinical Toxicolog
 ## 8.4 Pediatric Use
 
 Based on postmarketing reports, pediatric patients treated with doxorubicin hydrochloride are at risk for developing late cardiovascular dysfunction.
-Risk factors include young age at treatment (especially <5 years), high cumulative doses and receipt of combined modality therapy.
+Risk factors include young age at treatment (especially < 5 years), high cumulative doses and receipt of combined modality therapy.
 Long-term periodic cardiovascular monitoring is recommended for all pediatric patients who have received doxorubicin hydrochloride.
 Doxorubicin hydrochloride, as a component of intensive chemotherapy regimens administered to pediatric patients, may contribute to prepubertal growth failure and may also contribute to gonadal impairment, which is usually temporary.
 

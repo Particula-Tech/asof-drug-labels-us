@@ -25,7 +25,7 @@ Selected Adverse Reactions in Patients with Early Breast Cancer Involving Axilla
 
 | % | % |  |
 | --- | --- | --- |
-| Adverse Reactions | ACIncludes pooled data from patients who received either AC for 4 cycles or AC for 4 cycles followed by CMF for 3 cycles N=1492 | Conventional CMF N=739 |
+| Adverse Reactions | ACIncludes pooled data from patients who received either AC for 4 cycles or AC for 4 cycles followed by CMF for 3 cycles N = 1492 | Conventional CMF N = 739 |
 | Alopecia | 92 | 71 |
 | Vomiting |  |  |
 | Vomiting ≤12 hours | 34 | 25 |

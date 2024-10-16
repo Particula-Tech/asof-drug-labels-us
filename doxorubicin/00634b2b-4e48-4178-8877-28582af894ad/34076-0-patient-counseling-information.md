@@ -42,5 +42,5 @@ Administration
 
 Advise patients that Doxorubicin Hydrochloride Injection can cause their urine to appear red for 1 to 2 days after administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most current prescribing information, please visit www.pfizer.com.

@@ -30,7 +30,7 @@ If anthracyclines are used before this time, carefully monitor cardiac function.
 ## 7.3 Concomitant Use of Dexrazoxane
 
 Do not administer dexrazoxane as a cardioprotectant at the initiation of doxorubicin hydrochloride-containing chemotherapy regimens.
-In a randomized trial in women with metastatic breast cancer, initiation of dexrazoxane with doxorubicin hydrochloride-based chemotherapy resulted in a significantly lower tumor response rate (48% vs. 63%; p=0.007) and shorter time to progression compared to doxorubicin hydrochloride-based chemotherapy alone.
+In a randomized trial in women with metastatic breast cancer, initiation of dexrazoxane with doxorubicin hydrochloride-based chemotherapy resulted in a significantly lower tumor response rate (48% vs. 63%; p = 0.007) and shorter time to progression compared to doxorubicin hydrochloride-based chemotherapy alone.
 
 ## 7.4 Concomitant Use of 6-Mercaptopurine
 

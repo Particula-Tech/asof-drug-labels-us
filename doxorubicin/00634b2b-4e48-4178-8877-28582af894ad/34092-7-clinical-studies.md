@@ -18,7 +18,7 @@ Summary of Randomized Trials Comparing Doxorubicin Hydrochloride-Containing Regi
 
 | DFS | OS |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study (starting year) | Regimens | No. of Cycles | No. of Patients | Doxorubicin Hydrochloride-Containing Regimens vs. CMF HRHazard ratio of less than 1 indicates that the treatment with doxorubicin hydrochloride-containing regimens is associated with lower risk of disease recurrences or death compared to the treatment with CMF. (95% CI) |  |
+| Study (starting year) | Regimens | No. of Cycles | No. of Patients | Doxorubicin Hydrochloride‑Containing Regimens vs. CMF HRHazard ratio of less than 1 indicates that the treatment with doxorubicin hydrochloride-containing regimens is associated with lower risk of disease recurrences or death compared to the treatment with CMF. (95% CI) |  |
 | NSABP B-15 (1984) | AC | 4 | 1562Includes pooled data from patients who received either AC alone for 4 cycles, or who were treated with AC for 4 cycles followed by 3 cycles of CMF. | 0.93 (0.82, 1.06) | 0.97 (0.83, 1.12) |
 | CMF | 6 | 776 |  |  |  |
 | SECSG 2 (1976) | FAC | 6 | 260 | 0.86 (0.66, 1.13) | 0.93 (0.69, 1.26) |

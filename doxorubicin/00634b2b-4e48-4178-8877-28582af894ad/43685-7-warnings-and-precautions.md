@@ -9,7 +9,7 @@ The risk of cardiomyopathy is generally proportional to the cumulative exposure.
 Include prior doses of other anthracyclines or anthracenediones in calculations of total cumulative dosage for doxorubicin hydrochloride.
 Cardiomyopathy may develop during treatment or up to several years after completion of treatment and can include decrease in LVEF and signs and symptoms of congestive heart failure (CHF).
 The probability of developing cardiomyopathy is estimated to be 1 to 2% at a total cumulative dose of 300 mg/m2 of doxorubicin hydrochloride, 3 to 5% at a dose of 400 mg/m2, 5 to 8% at a dose of 450 mg/m2, and 6 to 20% at a dose of 500 mg/m2, when doxorubicin hydrochloride is administered every 3 weeks.
-There is an additive or potentially synergistic increase in the risk of cardiomyopathy in patients who have received radiotherapy to the mediastinum or concomitant therapy with other known cardiotoxic agents such as cyclophosphamide and trastuzumab.
+There is an additive or potentially synergistic increase in the risk of cardiomyopathy in patients who have received radiotherapy to the mediastinum or concomitant therapy with other known cardiotoxic agents, such as cyclophosphamide and trastuzumab.
 
 Pericarditis and myocarditis have also been reported during or following doxorubicin hydrochloride treatment.
 
@@ -24,7 +24,7 @@ Arrhythmias
 
 Doxorubicin hydrochloride can result in arrhythmias, including life-threatening arrhythmias, during or within a few hours after doxorubicin hydrochloride administration and at any time point during treatment.
 Tachyarrhythmias, including sinus tachycardia, premature ventricular contractions, and ventricular tachycardia, as well as bradycardia, can occur.
-Electrocardiographic changes including non-specific ST-T wave changes, atrioventricular and bundle-branch block can also occur.
+Electrocardiographic changes, including non-specific ST-T wave changes, atrioventricular and bundle-branch block can also occur.
 These electrocardiographic changes may be transient and self-limited and may not require a dosage modification of doxorubicin hydrochloride.
 
 ## 5.2 Secondary Malignancies

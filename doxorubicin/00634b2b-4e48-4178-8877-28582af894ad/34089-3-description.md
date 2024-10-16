@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Doxorubicin hydrochloride is an anthracycline, topoisomerase inhibitor isolated from cultures of Streptomyces peucetius var. caesius.
+Doxorubicin hydrochloride is an anthracycline topoisomerase inhibitor isolated from cultures of Streptomyces peucetius var. caesius.
 The chemical name of doxorubicin hydrochloride is 5,12-Naphthacenedione, 10-[(3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxylacetyl)-1-methoxy-, hydrochloride (8S-cis)-.
 The chemical structure of doxorubicin hydrochloride is:
 
