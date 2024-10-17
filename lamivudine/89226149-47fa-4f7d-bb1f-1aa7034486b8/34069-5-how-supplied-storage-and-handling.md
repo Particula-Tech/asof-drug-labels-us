@@ -14,7 +14,7 @@ Recommended Storage:
 
 Store EPIVIR tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-EPIVIR oral solution is a clear, colorless to pale yellow, strawberry-banana-flavored liquid.
+EPIVIR oral solution is a clear, colorless to pale yellow, strawberry‑banana-flavored liquid.
 Each mL of the solution contains 10 mg of lamivudine.
 Packaged as follows:
 

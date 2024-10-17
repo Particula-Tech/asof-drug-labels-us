@@ -16,6 +16,8 @@ Rx only
 
 Each scored tablet contains 150 mg of lamivudine.
 
+Do not accept if membrane seal under cap is missing or broken.
+
 See prescribing information for dosage information.
 
 Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
@@ -24,16 +26,17 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-Made in Canada
+Made in India and Singapore
 
-Trademark owned or licensed by ViiV Healthcare group of companies
+Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
-©2020 ViiV Healthcare group of companies or its licensor.
+©2024 ViiV Healthcare group of companies or its licensor.
 
-1. 62000000057908 Rev.
-   11/20
+1. A095896 (62000000095896) Rev.
+   09/24
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -53,6 +56,8 @@ Rx only
 
 Each tablet contains 300 mg of lamivudine.
 
+Do not accept if membrane seal under cap is missing or broken.
+
 See prescribing information for dosage information.
 
 Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
@@ -61,16 +66,16 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-Made in Canada
+Made in India and Singapore
 
-Trademark owned or licensed by ViiV Healthcare group of companies
+Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
-©2020 ViiV Healthcare group of companies or its licensor.
+©2024 ViiV Healthcare group of companies or its licensor.
 
-1. 62000000057948 Rev.
-   11/20
+1. A095897 (62000000095897) Rev.
+   09/24
 2. 
 
 PRINCIPAL DISPLAY PANEL
@@ -85,18 +90,20 @@ ORAL SOLUTION
 
 10 mg/mL
 
+ViiV Healthcare
+
 ALCOHOL FREE
 
 Rx only
 
 240 mL
 
-Made in Canada
+Made in India and Singapore
 
-Do not use if shrinkband on bottle is broken or missing.
+Do not accept if security seal is missing or broken.
 
-- ©2020 ViiV Healthcare group of companies or its licensor.
+- ©2024 ViiV Healthcare group of companies or its licensor.
 
-1. 62000000057201 Rev.
-   10/20
+1. 30000000001587 Rev.
+   9/24
 2. 
