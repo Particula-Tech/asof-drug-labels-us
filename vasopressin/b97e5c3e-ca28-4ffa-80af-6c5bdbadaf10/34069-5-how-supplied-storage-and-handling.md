@@ -2,8 +2,14 @@
 
 Vasostrict® (vasopressin injection, USP) is a clear, practically colorless solution for intravenous administration available as:
 
+NDC 42023-164-85: A carton of 10 single dose vials.
+Each vial contains vasopressin 1 mL at 20 units/mL.
+
 NDC 42023-164-83: A carton of 25 single dose vials.
 Each vial contains vasopressin 1 mL at 20 units/mL.
+
+NDC 42023-190-89: A carton of 1 multiple dose vial.
+Each vial contains vasopressin 10 mL at 200 units/10 mL (20 units/mL).
 
 Store between 2°C and 8°C (36°F and 46°F).
 Do not freeze.

@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no available data on Vasostrict® use in pregnant women to inform a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-Animal reproduction studies have not been conducted with vasopressin.
+Animal reproduction studies have not been conducted.
 
 Clinical Considerations
 
