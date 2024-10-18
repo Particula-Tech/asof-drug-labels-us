@@ -49,7 +49,7 @@ If naloxone is prescribed, also advise patients and caregivers:
 
 - How to treat naloxone in the event of an opioid overdose
 - To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- To read the Patient Information (or other educational material) that will come with the naloxone.
+- To read the Patient Information (or other educational material) that will come with their naloxone.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
@@ -124,7 +124,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -134,11 +134,12 @@ If treatment with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules,
 
 Lactation
 
-Advise women that breastfeeding is not recommended during treatment with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP [see Use in Specific Populations (8.2)].
+Advise nursing mothers to carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
+Instruct nursing mothers to seek immediate medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Inform patients that chronic use of opioids may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Serious Skin Reactions, including DRESS
@@ -149,4 +150,4 @@ Manufactured by:
 
 LGM Pharma Solutions, LLC, Irvine, CA 92614
 
-6094-PD Rev 02/2024
+6094-PD Rev 07/2024

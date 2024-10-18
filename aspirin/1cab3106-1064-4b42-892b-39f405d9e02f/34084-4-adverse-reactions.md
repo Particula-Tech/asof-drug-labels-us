@@ -2,20 +2,35 @@
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.3)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.6)]
-- Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.8)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.11)]
-- Severe Hypotension [see Warnings and Precautions (5.12)]
-- Risk of Use in Patients with Gastrointestinal Conditions Including Peptic Ulcer Disease [see Warnings and Precautions (5.14)]
-- Increase Risk of Seizures in Patients with Seizure Disorders [see Warnings and Precautions (5.15)]
-- Withdrawal [see Warnings and Precautions (5.16)]
-- Coagulation Abnormalities and Bleeding Risks [see Warnings and Precautions (5.19)]
-- Reye’s Syndrome [see Warnings and Precautions (5.20)]
-- Allergy [see Warnings and Precautions (5.22)]
+• Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+
+• Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)
+
+• Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.3)]
+
+• Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+
+• Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.6)]
+
+• Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.8)]
+
+• Adrenal Insufficiency [see Warnings and Precautions (5.11)]
+
+• Severe Hypotension [see Warnings and Precautions (5.12)]
+
+• Risk of Use in Patients with Gastrointestinal Conditions Including Peptic Ulcer Disease [see Warnings and Precautions (5.14)]
+
+• Increase Risk of Seizures in Patients with Seizure Disorders [see Warnings and Precautions (5.15)]
+
+• Withdrawal [see Warnings and Precautions (5.16)]
+
+• Coagulation Abnormalities and Bleeding Risks [see Warnings and Precautions (5.19)]
+
+• Reye’s Syndrome [see Warnings and Precautions (5.20)]
+
+• Serious Skin Reactions [see Warnings and Precautions (5.21)]
+
+• Allergy [see Warnings and Precautions (5.23)]
 
 ## 6.1Clinical Trials Experience
 
@@ -88,7 +103,7 @@ Gastrointestinal: anorexia, appetite increased, constipation, diarrhea, esophagi
 
 Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope.
 
-Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis.
+Skin: erythema, erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), hives, rash, toxic epidermal necrolysis, and fixed drug eruption (FDE).
 
 Urinary: kidney impairment, urinary difficulty.
 

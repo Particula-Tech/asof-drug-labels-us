@@ -12,13 +12,13 @@ Addiction can occur at recommended dosages and if the drug is misused or abused.
 Assess each patient’s risk for addiction, abuse, or misuse prior to prescribing Butalbital, Aspirin, Caffeine, and Codeine Phosphate, USP, and reassess all patients receiving Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients at increased risk may be prescribed opioids such as Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, but use in such patients necessitates intensive counseling about the risks and proper use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP along with intensive monitoring for signs of addiction, abuse, and misuse.
+Patients at increased risk may be prescribed opioids such as Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, but use in such patients necessitates intensive counseling about the risks and proper use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP along with frequent reevaluation for signs of addiction, abuse, and misuse.
 Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
-Opioids and barbiturates are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
+Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP.
-Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug.
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on careful storage of the drug during the course of treatment and proper disposal of unused drug.
+Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2Life-Threatening Respiratory Depression
 
@@ -28,8 +28,6 @@ Management of respiratory depression may include close observation, supportive m
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, the risk is greatest during the initiation of therapy or following a dosage increase.
-
-Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP.
 
 To reduce the risk of respiratory depression, proper dosing and titration of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP are essential [see Dosage and Administration (2.1)].
 Overestimating the Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
@@ -53,11 +51,12 @@ Consider prescribing naloxone, based on the patient’s risk factors for overdos
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
-[see Dosage and Administration (2.2), Warnings and Precautions (5.1,5.3), Overdosage (10)].
+[see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3), Overdosage (10)].
 
 ## 5.3Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -74,12 +73,12 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
-5.4 Neonatal Opioid Withdrawal Syndrome
+## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP for an extended period of time during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
+Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
 ## 5.5 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
@@ -138,7 +137,7 @@ The concomitant use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Caps
 The concomitant use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels.
 This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
 
-Evaluate patients receiving Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP and any CYP3A4 inhibitor or inducer for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is used in conjunction with inhibitors and inducers of CYP3A4.
+Evaluate patients receiving Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP and any CYP3A4 inhibitor or inducer at frequent intervals for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is used in conjunction with inhibitors and inducers of CYP3A4.
 
 If concomitant use of a CYP3A4 inhibitor is necessary or if a CYP3A4 inducer is discontinued, consider dosage reduction of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP until stable drug effects are achieved.
 Evaluate patients at frequent intervals for respiratory depression and sedation.
@@ -153,13 +152,13 @@ The concomitant use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Caps
 
 Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in codeine plasma concentration and an increase in active metabolite morphine plasma concentration which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
 
-Evaluate patients receiving Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP and any CYP2D6 inhibitor for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP are used in conjunction with inhibitors of CYP2D6.
+Evaluate patients receiving Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP and any CYP2D6 inhibitor at frequent intervals for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP are used in conjunction with inhibitors of CYP2D6.
 
 If concomitant use with a CYP2D6 inhibitor is necessary, evaluate patients at frequent intervals for signs of reduced efficacy or opioid withdrawal and consider increasing the Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP dosage.
 After stopping use of a CYP2D6 inhibitor, consider reducing the Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP dosage and evaluate patients at frequent intervals for signs and symptoms of respiratory depression or sedation.
 [see Drug Interactions (7)].
 
-5.8Opioid-Induced Hyperalgesia and Allodynia
+## 5.8Opioid-Induced Hyperalgesia and Allodynia
 
 Opioid-Induced Hyperalgesia (OIH) occurs when an opioid analgesic paradoxically causes an increase in pain, or an increase in sensitivity to pain.
 This condition differs from tolerance, which is the need for increasing doses of opioids to maintain a defined effect [see Dependence (9.3)].
@@ -197,7 +196,7 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-5.12Severe Hypotension
+## 5.12Severe Hypotension
 
 Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
@@ -227,7 +226,7 @@ The aspirin in Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, US
 Although minor upper GI symptoms, such as dyspepsia, are common and can occur anytime during therapy, physicians should remain alert for signs of ulceration and bleeding, even in the absence of previous GI symptoms.
 Physicians should inform patients about the signs and symptoms of GI side effects and what steps to take if they occur.
 
-5.15Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.15Increased Risk of Seizures in Patients with Seizure Disorders
 
 The codeine in Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Regularly evaluate patients with a history of seizure disorders for worsened seizure control during Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP therapy.
@@ -255,12 +254,13 @@ Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs, including Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
-Oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
 In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
 
 If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP use to the lowest effective dose and shortest duration possible.
 Consider ultrasound monitoring of amniotic fluid if Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP treatment extends beyond 48 hours.
-Discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP if oligohydramnios occurs and follow up according to clinical practice [see Use in Populations (8.1)].
+Discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
 
 ## 5.18Risks of Driving and Operating Machinery
 
@@ -281,7 +281,16 @@ Patients who consume three or more alcoholic drinks every day should be counsele
 
 Aspirin should not be used in children or teenagers for viral infections, with or without fever, because of the risk of Reye’s syndrome with concomitant use of aspirin in certain viral illnesses.
 
-## 5.21Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.21 Serious Skin Reactions
+
+NSAIDs, including aspirin, a component of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP at the first appearance of skin rash or any other sign of hypersensitivity.
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+
+## 5.22Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP.
 Some of these events have been fatal or life threatening.
@@ -293,12 +302,12 @@ Because this disorder is variable in its presentation, other organ systems not n
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP and evaluate the patient immediately.
 
-## 5.22Allergy
+## 5.23Allergy
 
 Aspirin is contraindicated in patients with known allergy to nonsteroidal anti-inflammatory drug products (NSAIDs) and in patients with the syndrome of asthma, rhinitis, and nasal polyps.
 Aspirin may cause severe urticaria, angioedema, or bronchospasm (asthma).
 
-## 5.23Drug/Laboratory Test Interactions
+## 5.24Drug/Laboratory Test Interactions
 
 Aspirin: Aspirin may interfere with the following laboratory determinations in blood: serum amylase, fasting blood glucose, cholesterol, protein, serum glutamic-oxalacetic transaminase (SGOT), uric acid, prothrombin time and bleeding time.
 Aspirin may interfere with the following laboratory determinations in urine: glucose, 5-hydroxy-indoleacetic acid, Gerhardt ketone, vanillylmandelic acid (VMA), uric acid, diacetic acid, and spectrophotometric detection of barbiturates.

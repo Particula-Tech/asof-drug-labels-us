@@ -23,7 +23,7 @@ Table 1: Clinically Significant Drug Interactions with Butalbital, Aspirin, Caff
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
-| Intervention: | If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment. Discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP if serotonin syndrome is suspected. |
+| Intervention: | If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment. Discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP immediately if serotonin syndrome is suspected. |
 | Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.10)]. |
@@ -59,7 +59,7 @@ Table 1: Clinically Significant Drug Interactions with Butalbital, Aspirin, Caff
 | Intervention: | Use caution if using concomitantly, especially in elderly patients or patients with renal impairment. Evaluate patients for methotrexate toxicity. |
 | Nephrotoxic Agents |  |
 | Clinical Impact: | Concomitant use with aspirin may lead to additive nephrotoxicity due to the inhibition of renal prostaglandins by aspirin. Also, the plasma concentration of aspirin is increased by conditions that reduce the glomerular filtration rate or tubular secretion. |
-| Intervention: | Use Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP with caution if used concomitantly with nephrotoxic agents. Closely monitor the renal function of patients. |
+| Intervention: | Use Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP with caution if used concomitantly with nephrotoxic agents. Evaluate the renal function of patients. |
 | Examples: | Aminoglycosides, amphotericin B, systemic bacitracin, cisplatin, cyclosporine, foscarnet, or parenteral vancomycin |
 | Angiotensin Converting Enzyme (ACE) Inhibitors |  |
 | Clinical Impact: | The hyponatremic and hypotensive effects of ACE inhibitors may be diminished by the concomitant administration of aspirin due to its indirect effect on the renin- angiotensin conversion pathway. |

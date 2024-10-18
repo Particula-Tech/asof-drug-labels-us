@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14CLINICAL TRIALS
 
 Evidence supporting the efficacy of Butalbital, Aspirin, Caffeine, and Codeine Phosphate, USP Capsules is derived from 2 multi-clinic trials that compared patients with tension headache randomly assigned to 4 parallel treatments: Butalbital, Aspirin, Caffeine, and Codeine Phosphate, USP Capsules, codeine, Butalbital, Aspirin, and Caffeine capsules, USP, and placebo.
 Response was assessed over the course of the first 4 hours of each of 2 distinct headaches, separated by at least 24 hours.

@@ -25,7 +25,7 @@ Aspirin is not mutagenic in the Ames Salmonella assay; however, aspirin did indu
 
 Caffeine (as caffeine base) increased the sister chromatid exchange (SCE) SCE/cell metaphase (exposure time dependent) in an in vivo mouse metaphase analysis.
 Caffeine also potentiated the genotoxicity of known mutagens and enhanced the micronuclei formation (5-fold) in folate-deficient mice.
-However, caffeine did not increase chromosomal aberrations in invitro Chinese hamster ovary cell (CHO) and human lymphocyte assays and was not mutagenic in an in vitro CHO/hypoxanthine guanine phosphoribosyltransferase (HGPRT) gene mutation assay, except at cytotoxic concentrations.
+However, caffeine did not increase chromosomal aberrations in in vitro Chinese hamster ovary cell (CHO) and human lymphocyte assays and was not mutagenic in an in vitro CHO/hypoxanthine guanine phosphoribosyltransferase (HGPRT) gene mutation assay, except at cytotoxic concentrations.
 In addition, caffeine was not clastogenic in an in vivo mouse micronucleus assay.
 Caffeine was negative in the in vitro bacterial reverse mutation assay (Ames test).
 

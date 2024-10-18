@@ -17,7 +17,7 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Animal reproduction studies have not been conducted with the combination of butalbital, aspirin, caffeine, and codeine phosphate capsules or with butalbital alone.
-In animal reproduction studies, codeine administration during organogenesis has been shown to produce delayed ossification in the offspring of mice at 2.8 times maximum recommended human dose (MRHD) of 180 mg/day, embryolethal and fetotoxic effects in the offspring of rats and hamsters between 2 and 8 times the MRHD [see Data].
+In animal reproduction studies, codeine administration during organogenesis has been shown to produce delayed ossification in the offspring of mice at 2.8 times maximum recommended human dose (MRHD) of 180 mg/day, embryolethal and fetotoxic effects in the offspring of rats and hamsters at approximately 4 to 6 times the MRHD, and cranial malformations/cranioschisis in the offspring of hamsters between 2 and 8 times the MRHD [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as aspirin, resulted in increased pre-and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
@@ -37,7 +37,7 @@ Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and 
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
-Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women about 30 weeks gestation and later in pregnancy, because NSAIDs, including Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, can cause premature closure of the fetal ductus arteriosus (see Data).
+Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, can cause premature closure of the fetal ductus arteriosus (see Data).
 
 Oligohydramnios/Neonatal Renal Impairment: If NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
@@ -52,7 +52,6 @@ Opioids such as codeine cross the placenta and may produce respiratory depressio
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
-
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 

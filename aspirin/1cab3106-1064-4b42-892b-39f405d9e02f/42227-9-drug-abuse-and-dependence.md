@@ -7,7 +7,7 @@ Codeine in combination with butalbital, aspirin, and caffeine is a Schedule III 
 
 ## 9.2Abuse
 
-Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP contains codeine, a substance with a high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP contains aspirin, butalbital, caffeine, and codeine phosphate, a substance with a high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
@@ -31,7 +31,7 @@ Preoccupation with achieving adequate pain relief can be appropriate behavior in
 Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP
 
@@ -50,7 +50,7 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
 Do not abruptly discontinue Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP in a patient physically dependent on opioids.

@@ -15,4 +15,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 6094-PD
 
-Rev 02/2024
+Rev 07/2024

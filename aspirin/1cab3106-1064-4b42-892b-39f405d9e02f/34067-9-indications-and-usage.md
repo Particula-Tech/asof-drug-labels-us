@@ -1,6 +1,6 @@
 # 1INDICATIONS AND USAGE
 
-Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is indicated for the management of the symptom complex of tension (or muscle contraction) headache when non-opioid analgesic and alternative treatments are inadequate.
+Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP is indicated for the management of the symptom complex of tension (or muscle contraction) headache, when non-opioid analgesic and alternative treatments are inadequate.
 
 Limitations of Use
 
