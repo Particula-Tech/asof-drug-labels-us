@@ -34,7 +34,9 @@ IF NECESSARY.
 
 # PRINCIPAL DISPLAY PANEL - 0.1 mg Pouch
 
-Catapres-TTS®-1 (clonidine transdermal system)
+Catapres-TTS®-1
+
+(clonidine transdermal system)
 
 Programmed delivery in vivo of 0.1 mg clonidine
 
@@ -88,7 +90,9 @@ IF NECESSARY.
 
 # PRINCIPAL DISPLAY PANEL - 0.2 mg Pouch
 
-Catapres-TTS®-2 (clonidine transdermal system)
+Catapres-TTS®-2
+
+(clonidine transdermal system)
 
 Programmed delivery in vivo of 0.2 mg clonidine
 
