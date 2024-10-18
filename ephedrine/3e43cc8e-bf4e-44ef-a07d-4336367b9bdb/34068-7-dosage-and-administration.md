@@ -1,7 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Ephedrine sulfate injection is indicated for the treatment of clinically important hypotension occurring in the setting of anesthesia.
-
 ## 2.1 General Dosage and Administration Instructions
 
 Ephedrine sulfate injection must be diluted before administration to achieve the desired concentration as an intravenous bolus or intravenous infusion.

@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Ephedrine Sulfate Injection, USP, 50 mg/mL, is supplied as follows:
 
