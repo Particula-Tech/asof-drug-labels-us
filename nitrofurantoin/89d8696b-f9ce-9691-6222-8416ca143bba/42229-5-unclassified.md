@@ -5,6 +5,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
 Rev.
-06/2020
+06/2023
 
-PI286-08
+PI286-09
