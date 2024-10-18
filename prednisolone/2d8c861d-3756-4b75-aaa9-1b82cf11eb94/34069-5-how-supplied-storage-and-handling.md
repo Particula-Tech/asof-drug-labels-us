@@ -4,6 +4,10 @@ Prednisolone sodium phosphate oral solution is a clear, colorless to light yello
 
 NDC 62135-330-41: 120 mL bottle
 
+NDC 62135-330-05: 5 mL Unit Dose Cup
+
+NDC 62135-330-24: 20 Unit Dose Cups of 5 mL each
+
 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
@@ -21,4 +25,4 @@ Made in USA
 L70328
 
 Rev.
-02/2024
+10/2024
