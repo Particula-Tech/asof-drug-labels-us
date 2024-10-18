@@ -38,10 +38,6 @@ If piggyback bottles are unavailable, standard vials of UNASYN sterile powder ma
 Initially, the vials may be reconstituted with Sterile Water for Injection to yield solutions containing 375 mg UNASYN per mL (250 mg ampicillin/125 mg sulbactam per mL).
 An appropriate volume should then be immediately diluted with a suitable parenteral diluent to yield solutions containing 3 to 45 mg UNASYN per mL (2 to 30 mg ampicillin/1 to 15 mg sulbactam/per mL).
 
-## In 0.9% Sodium Chloride Injection, USP
-
-The final diluted solution of UNASYN should be completely administered within 8 hours in order to assure proper potency.
-
 ## Preparation for Intramuscular Injection
 
 ### 1.5 g and 3.0 g Standard Vials
@@ -68,4 +64,4 @@ To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0017-23.0 Revised July 2024
+LAB-0017-24.0 Revised October 2024
