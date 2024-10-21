@@ -46,8 +46,6 @@ Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 40 mg in 200 mL
 
-DOUBLE CONCENTRATION: CHECK INFUSION RATE
-
 NDC 43066-016-10 Code 2G3444
 
 CARDENE I.V.
@@ -59,9 +57,6 @@ DOUBLE CONCENTRATION: CHECK INFUSION RATE
 
 Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in the USA
 
-CARDENE I.V.
-Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
-
 Rx only
 
 40 mg in 200 mL (0.2 mg/mL)
@@ -70,7 +65,12 @@ STORE IN CARTON UNTIL READY TO USE
 
 1 GALAXY Single Dose Container Discard unused portion
 
-40 mg in 200 mL
+CARDENE® I.V.
+Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
+
+40 mg in 200 mL (0.2 mg/mL)
+
+DOULBE CONCENTRATE: CHECK INFUSION RATE
 
 CARDENE® I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
@@ -79,9 +79,7 @@ Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 UNVARNISHED AREA FOR LOT AND EXP.
 
-UCC/EAN 128 BAR CODE POSITION
-
-1.75” W (excluding quiet zone) 0.5” H (excluding human readable) (01) 00343066016104
+GS1 128 BAR CODE POSITION (01) 00343066016104
 
 Iso-osmotic Sterile, nonpyrogenic
 
@@ -101,13 +99,13 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 CARDENE® is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc.
+U.S. Patent Numbers 7612102 and 7659291 Baxter and Galaxy are registered trademarks of Baxter International Inc. CARDENE is a registered trademark of Chiesi USA, Inc. and is used under license.
 
 Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472
 
-07-01-00-0858
+07-01-00-1715
 
 CARDENE® I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
@@ -178,9 +176,14 @@ Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in the US
 
 Rx only
 
+20 mg in 200 mL (0.1 mg/ml)
+
 STORE IN CARTON UNTIL READY TO USE
 
 1 GALAXY Single Dose Container Discard unused portion
+
+CARDENE I.V.
+Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
 
 20 mg in 200 mL
 
@@ -191,7 +194,7 @@ Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
 
 UNVARNISHED AREA FOR LOT AND EXP.
 
-UCC/EAN 128 BAR CODE POSITION 1.75” W (excluding quiet zone) 0.5” H (excluding human readable) (01) 00343066009106
+GS1 128 BAR CODE POSITION (01) 00343066009106
 
 Iso-osmotic Sterile, nonpyrogenic
 
@@ -211,13 +214,13 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 CARDENE is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc.
+U.S. Patent Numbers 7612102 and 7659291 Baxter and Galaxy are registered trademarks of Baxter International Inc. CARDENE is a registered trademark of Chiesi USA, Inc. and is used under license.
 
 Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472
 
-07-01-00-0857
+07-01-00-1714
 
 CARDENE I.V.
 Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
