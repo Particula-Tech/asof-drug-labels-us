@@ -41,7 +41,7 @@ Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephri
 ## 7.7 Other Antiplatelet Agents
 
 Coadministration of antiplatelet agents increase the risk of bleeding due to an additive effect.
-Promptly evaluate any signs or symptoms or blood loss of patients are treated concomitantly with other antiplatelet agents [see Warnings and Precautions (5.2)].
+Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with other antiplatelet agents [see Warnings and Precautions (5.2)].
 
 ## 7.8 Repaglinide (CYP2C8 Substrates)
 

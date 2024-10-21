@@ -1,5 +1,7 @@
 # Medication Guide
 
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 Clopidogrel (kloe PID oh grel) Tablets, USP
 
 Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
@@ -191,10 +193,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8092893 Revised: May 2023
+8097794 Revised: October 2024

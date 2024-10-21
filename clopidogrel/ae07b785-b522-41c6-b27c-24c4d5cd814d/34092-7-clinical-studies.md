@@ -72,7 +72,7 @@ Table 5: Outcome Events in COMMIT
 | * 9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. |  |  |  |  |
 | † Nonfatal MI and nonfatal stroke exclude patients who died (of any cause). |  |  |  |  |
 
-Figure 4: Cumulative Event Rates for Death in the Commit Study *
+Figure 4: Cumulative Event Rates for Death in the COMMIT Study *
 
 Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke or Death in the COMMIT Study*
 
