@@ -17,19 +17,19 @@ The systemic bioavailability of etodolac from etodolac capsules and tablets is 1
 Etodolac is well absorbed and had a relative bioavailability of 100% when 200 mg capsules were compared with a solution of etodolac.
 Based on mass balance studies, the systemic availability of etodolac from either the tablet or capsule formulation is at least 80%.
 Etodolac does not undergo significant first-pass metabolism following oral administration.
-Mean (± 1 SD) peak plasma concentrations (Cmax) range from approximately 14 ± 4 to 37 ± 9 μg/mL after 200 to 600 mg single doses and are reached in 80 ± 30 minutes (see Table 1 for summary of pharmacokinetic parameters).
+Mean (± 1 SD) peak plasma concentrations (C max) range from approximately 14 ± 4 to 37 ± 9 μg/mL after 200 to 600 mg single doses and are reached in 80 ± 30 minutes (see Table 1for summary of pharmacokinetic parameters).
 The dose-proportionality based on the area under the plasma concentration-time curve (AUC) is linear following doses up to 600 mg every 12 hours.
 Peak concentrations are dose proportional for both total and free etodolac following doses up to 400 mg every 12 hours, but following a 600 mg dose, the peak is about 20% higher than predicted on the basis of lower doses.
 The extent of absorption of etodolac is not affected when etodolac tablets or capsules are administered after a meal.
 Food intake, however, reduces the peak concentration reached by approximately one-half and increases the time to peak concentration by 1.4 to 3.8 hours.
 
 Table 1.
-Mean (CV%)% Coefficient of variation Pharmacokinetic Parameters of etodolac in Normal Healthy Adults and Various Special Populations
+Mean (CV%) % Coefficient of variationPharmacokinetic Parameters of etodolac in Normal Healthy Adults and Various Special Populations
 
 |  | (n=179) | (n=176) | (n=3) |  | Dialysis On | Dialysis Off | (n=10) | (n=9) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PK Parameters | Normal Healthy Adults (18-65)Age Range (years) | Healthy Males (18-65) | Healthy Females (27-65) | Elderly (>65) (70-84) | Hemodialysis (24-65) (n=9) |  | Renal Impairment (46-73) | Hepatic Impairment (34-60) |
-| Tmax, h | 1.4 (61%) | 1.4 (60%) | 1.7 (60%) | 1.2 (43%) | 1.7 (88%) | 0.9 (67%) | 2.1 (46%) | 1.1 (15%) |
+| PK Parameters | Normal Healthy Adults (18-65) Age Range (years) | Healthy Males (18-65) | Healthy Females (27-65) | Elderly (>65) (70-84) | Hemodialysis (24-65) (n=9) |  | Renal Impairment (46-73) | Hepatic Impairment (34-60) |
+| T max, h | 1.4 (61%) | 1.4 (60%) | 1.7 (60%) | 1.2 (43%) | 1.7 (88%) | 0.9 (67%) | 2.1 (46%) | 1.1 (15%) |
 | Oral Clearance, mL/h/kg (CL/F) | 49.1 (33%) | 49.4 (33%) | 35.7 (28%) | 45.7 (27%) | NA | NA | 58.3 (19%) | 42.0 (43%) |
 | Apparent Volume of Distribution, mL/kg (Vd/F) | 393 (29%) | 394 (29%) | 300 (8%) | 414 (38%) | NA | NA | NA | NA |
 | Terminal Half-Life, h | 6.4 (22%) | 6.4 (22%) | 7.9 (35%) | 6.5 (24%) | 5.1 (22%) | 7.5 (34%) | NA | 5.7 (24%) |
@@ -41,7 +41,7 @@ The mean apparent volume of distribution (Vd/F) of etodolac is approximately 390
 Etodolac is more than 99% bound to plasma proteins, primarily to albumin.
 The free fraction is less than 1% and is independent of etodolac total concentration over the dose range studied.
 It is not known whether etodolac is excreted in human milk; however, based on its physical-chemical properties, excretion into breast milk is expected.
-Data from in vitro studies, using peak serum concentrations at reported therapeutic doses in humans, show that the etodolac free fraction is not significantly altered by acetaminophen, ibuprofen, indomethacin, naproxen, piroxicam, chlorpropamide, glipizide, glyburide, phenytoin, and probenecid.
+Data from in vitrostudies, using peak serum concentrations at reported therapeutic doses in humans, show that the etodolac free fraction is not significantly altered by acetaminophen, ibuprofen, indomethacin, naproxen, piroxicam, chlorpropamide, glipizide, glyburide, phenytoin, and probenecid.
 
 ### Metabolism
 
@@ -68,7 +68,7 @@ Approximately 1% of an etodolac dose is excreted unchanged in the urine with 72%
 |  | -unidentified metabolites | 33% |
 
 Although renal elimination is a significant pathway of excretion for etodolac metabolites, no dosing adjustment in patients with mild to moderate renal dysfunction is generally necessary.
-The terminal half-life (t½) of etodolac is 6.4 hours (22% CV).
+The terminal half-life (t ½) of etodolac is 6.4 hours (22% CV).
 In patients with severe renal dysfunction or undergoing hemodialysis, dosing adjustment is not generally necessary.
 
 Fecal excretion accounted for 16% of the dose.

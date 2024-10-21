@@ -93,14 +93,17 @@ If etodolac capsules and tablets therapy must be initiated, close monitoring of 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without prior exposure to etodolac capsules and tablets.
 Etodolac capsules and tablets should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
-Fatal reactions have been reported in such patients (see CONTRAINDICATIONS and PRECAUTIONS, General, Pre-existing Asthma).
+Fatal reactions have been reported in such patients (see CONTRAINDICATIONSand PRECAUTIONS, General, Pre-existing Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
-### Skin Reactions
+### Serious Skin Reactions
 
-NSAIDs, including etodolac capsules and tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including etodolac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of etodolac capsules and tablets at the first appearance of skin rash or any other sign of hypersensitivity.
+Etodolac Capsules and Tablets are contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 ### Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -243,7 +246,7 @@ Careful monitoring of lithium levels is advised in the event NSAID dosage adjust
 ### Phenylbutazone
 
 Phenylbutazone causes increase (by about 80%) in the free fraction of etodolac.
-Although in vivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.
+Although in vivostudies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.
 
 ### Phenytoin
 
@@ -271,10 +274,10 @@ These levels then remained stable for up to 1 year of therapy.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-No carcinogenic effect of etodolac was observed in mice or rats receiving oral doses of 15 mg/kg/day (45 to 89 mg/m2, respectively) or less for periods of 2 years or 18 months, respectively.
-Etodolac was not mutagenic in in vitro tests performed with S. typhimurium and mouse lymphoma cells as well as in an in vivo mouse micronucleus test.
-However, data from the in vitro human peripheral lymphocyte test showed an increase in the number of gaps (3.0 to 5.3% unstained regions in the chromatid without dislocation) among the etodolac-treated cultures (50 to 200 μg/mL) compared to negative controls (2.0%); no other difference was noted between the controls and drug-treated groups.
-Etodolac showed no impairment of fertility in male and female rats up to oral doses of 16 mg/kg (94 mg/m2).
+No carcinogenic effect of etodolac was observed in mice or rats receiving oral doses of 15 mg/kg/day (45 to 89 mg/m 2, respectively) or less for periods of 2 years or 18 months, respectively.
+Etodolac was not mutagenic in in vitrotests performed with S. typhimuriumand mouse lymphoma cells as well as in an in vivomouse micronucleus test.
+However, data from the in vitrohuman peripheral lymphocyte test showed an increase in the number of gaps (3.0 to 5.3% unstained regions in the chromatid without dislocation) among the etodolac-treated cultures (50 to 200 μg/mL) compared to negative controls (2.0%); no other difference was noted between the controls and drug-treated groups.
+Etodolac showed no impairment of fertility in male and female rats up to oral doses of 16 mg/kg (94 mg/m 2).
 However, reduced implantation of fertilized eggs occurred in the 8 mg/kg group.
 
 ## Pregnancy
@@ -326,7 +329,6 @@ If oligohydramnios occurs, discontinue etodolac capsules and tablets and follow 
 
 There are no adequate and well-controlled studies in pregnant women.
 Etodolac capsules and tablets should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
 
 ##### Premature Closure of Fetal Ductus Arteriosus
 

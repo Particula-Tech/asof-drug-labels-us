@@ -2,9 +2,9 @@
 
 In patients taking etodolac capsules and tablets or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1-10% of patients are:
 
-Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), vomiting.
+Gastrointestinal experiences including:abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), vomiting.
 
-Other events including: abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritis, rashes, tinnitus.
+Other events including:abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritis, rashes, tinnitus.
 
 Adverse-reaction information for etodolac was derived from 2,629 arthritic patients treated with etodolac capsules and tablets in double-blind and open-label clinical trials of 4 to 320 weeks in duration and worldwide postmarketing surveillance studies.
 In clinical trials, most adverse reactions were mild and transient.
@@ -18,7 +18,7 @@ The incidences were determined from clinical trials involving 465 patients with 
 
 Body as a whole - Chills and fever.
 
-Digestive system - Dyspepsia (10%), abdominal painDrug-related patient complaints occurring in 3 to 9% of patients treated with etodolac., diarrhea, flatulence, nausea, abdominal distension, epigastric pain, abnormal stools, constipation, gastritis, melena, vomiting.
+Digestive system - Dyspepsia (10%), abdominal pain Drug-related patient complaints occurring in 3 to 9% of patients treated with etodolac., diarrhea, flatulence, nausea, abdominal distension, epigastric pain, abnormal stools, constipation, gastritis, melena, vomiting.
 
 Nervous system - Asthenia/malaise, dizziness, depression, nervousness, fatigue.
 
@@ -40,7 +40,7 @@ Body as a whole - Allergic reaction, anaphylactic/anaphylactoid reactions (inclu
 
 Cardiovascular system - Hypertension, congestive heart failure, flushing, palpitations, syncope, vasculitis (including necrotizing and allergic).
 
-Digestive system - Thirst, dry mouth, ulcerative stomatitis, anorexia, eructation, elevated liver enzymes, cholestatic hepatitis, hepatitis, cholestatic jaundice, duodenitis, jaundice, hepatic failure, liver necrosis, peptic ulcer with or without bleeding and/or perforation, intestinal ulceration, pancreatitis.
+Digestive system - Thirst, dry mouth, ulcerative stomatitis, anorexia, eructation, elevated liver enzymes, cholestatic hepatitis,hepatitis, cholestatic jaundice, duodenitis, jaundice, hepatic failure, liver necrosis,peptic ulcer with or without bleeding and/or perforation, intestinal ulceration, pancreatitis.
 
 Hemic and lymphatic system - Ecchymosis, anemia, thrombocytopenia, bleeding time increased, agranulocytosis, hemolytic anemia, aplastic anemia, leukopenia, neutropenia, pancytopenia.
 
@@ -50,7 +50,7 @@ Nervous system - Insomnia, somnolence.
 
 Respiratory system - Asthma, pulmonary infiltration with eosinophilia.
 
-Skin and appendages - Angioedema, sweating, urticaria, exfoliative dermatitis, vesiculobullous rash, cutaneous vasculitis with purpura, Stevens-Johnson Syndrome, toxic epidermal necrolysis, leukocytoclastic vasculitis, hyperpigmentation, erythema multiforme.
+Skin and appendages - Angioedema, sweating, urticaria, exfoliative dermatitis, vesiculobullous rash, cutaneous vasculitis with purpura, Stevens-Johnson Syndrome, toxic epidermal necrolysis, fixed drug eruption (FDE), leukocytoclastic vasculitis,hyperpigmentation, erythema multiforme.
 
 Special senses - Photophobia, transient visual disturbances.
 

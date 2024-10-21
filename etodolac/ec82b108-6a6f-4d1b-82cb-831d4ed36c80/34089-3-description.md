@@ -8,12 +8,12 @@ Etodolac is a white crystalline compound, insoluble in water but soluble in alco
 The chemical name is (±) 1,8-diethyl-1,3,4,9-tetrahydropyrano-[3,4-b]indole-1-acetic acid.
 The molecular weight of the base is 287.37.
 It has a pKa of 4.65 and an n-octanol: water partition coefficient of 11.4 at pH 7.4.
-The molecular formula for etodolac is C17H21NO3, and it has the following structural formula:
+The molecular formula for etodolac is C 17H 21NO 3, and it has the following structural formula:
 
 Each Capsule, for oral administration, contains 200 or 300 mg of Etodolac.
-In addition, each capsule contains the following inactive ingredients: Ammonium Hydroxide USP, Black Iron Oxide USP, Colloidal Silicone Dioxide NF, Erythrosine (200 mg only), Ethyl Alcohol USP, Gelatin, Isopropyl Alcohol USP, Lactose Monohydrate NF, Magnesium Stearate NF, Microcrystalline Cellulose NF, N-Butyl Alcohol USP, Povidone USP, Propylene Glycol USP, Purified Water USP, Shellac, Titanium Dioxide.
+In addition, each capsule contains the following inactive ingredients:Ammonium Hydroxide USP, Black Iron Oxide USP, Colloidal Silicone Dioxide NF, Erythrosine (200 mg only), Ethyl Alcohol USP, Gelatin, Isopropyl Alcohol USP, Lactose Monohydrate NF, Magnesium Stearate NF, Microcrystalline Cellulose NF, N-Butyl Alcohol USP, Povidone USP, Propylene Glycol USP, Purified Water USP, Shellac, Titanium Dioxide.
 
 Each Tablet, for oral administration, contains 400 mg or 500 mg of Etodolac.
-In addition, each tablet contains the following inactive ingredients: Hydroxypropyl Methylcellulose USP, Lactose Monohydrate NF, Magnesium Stearate, Microcrystalline Cellulose NF, Polyethylene Glycol, Povidone USP, Sodium Starch Glycolate NF and Titanium Dioxide.
+In addition, each tablet contains the following inactive ingredients:Hydroxypropyl Methylcellulose USP, Lactose Monohydrate NF, Magnesium Stearate, Microcrystalline Cellulose NF, Polyethylene Glycol, Povidone USP, Sodium Starch Glycolate NF and Titanium Dioxide.
 Also, each 400 mg tablet contains Iron Oxide Red and Iron Oxide Yellow.
 Each 500 mg tablet contains D&C Yellow #10 Aluminum Lake, FD&C Blue #1 Aluminum Lake, and FD&C Red #40 Aluminum Lake.
