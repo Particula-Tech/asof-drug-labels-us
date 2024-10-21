@@ -5,14 +5,27 @@
   "inn": "trospium",
   "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
+    "0003-0050-00",
+    "0003-0050-04",
     "0003-0050-14",
     "0003-0050-60",
     "0003-0125-14",
-    "0003-0125-60"
+    "0003-0125-60",
+    "0003-1100-01",
+    "0003-1100-10",
+    "0003-1100-14",
+    "0003-1100-60",
+    "0003-5150-14",
+    "0003-5200-56"
   ],
   "products": [
     {
       "form": "CAPSULE, COATED PELLETS",
+      "generic": "xanomeline and trospium chloride",
+      "name": "Cobenfy"
+    },
+    {
+      "form": "KIT",
       "generic": "xanomeline and trospium chloride",
       "name": "Cobenfy"
     }

@@ -7,11 +7,11 @@ COBENFY™ (xanomeline and trospium chloride) capsules
 Recommended Dosage: Take one capsule twice daily.
 See Prescribing Information
 
-50 mg/20 mg 60Capsules
+50 mg/20 mg 60 Capsules
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/20 mg Capsule Bottle Label
 
-NDC 0003-0100-60
+NDC 0003-1100-60
 
 COBENFY™ (xanomeline and trospium chloride) capsules
 

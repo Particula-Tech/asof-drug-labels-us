@@ -15,7 +15,7 @@ Table 5: COBENFY Packaging Configurations
 | Capsule Strength | Total Package Count | Package Configuration | Package Components | NDC Code |
 | --- | --- | --- | --- | --- |
 | 50 mg/20 mg | 60 | Bottle | N/A | 0003-0050-60 |
-| 100 mg/20 mg | 60 | Bottle | N/A | 0003-0100-60 |
+| 100 mg/20 mg | 60 | Bottle | N/A | 0003-1100-60 |
 | 125 mg/30 mg | 60 | Bottle | N/A | 0003-0125-60 |
 | 50 mg/20 mg (4)100 mg/20 mg (52) | 56 | Starter Pack for 100 mg/20 mg dose | 1 Mixed Blister Wallet: four (4) 50 mg/20 mg capsules and ten (10) 100 mg/20 mg capsulesand3 Wallets: fourteen (14) 100 mg/20 mg capsules in each wallet | 0003-5200-56 |
 
