@@ -55,11 +55,11 @@ Because of the potential for genotoxicity, advise males (including those who hav
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ARRANON for relapsed or refractory T-ALL and T-LBL has been established in pediatric patients age 1 year and older.
-The effectiveness of ARRANON in pediatric patients is supported by one single-arm clinical trial, and safety has been asssessed in 165 pediatric patients age 1 year and older across multiple Phase I and Phase II trials.
-The trial establishing efficacy included 84 patients age 21 years and younger, who had relapsed or refractory T-ALL or T-LBL.
-The most frequent adverse reactions of any grade occurring on treatment in this study were hematologic laboratory abnormalities.
-Hematologic toxicity observed in the pediatric population was higher than that seen in the adult population [see Dosage and Administration (2.1), Adverse Reactions (6.1), Clinical Studies (14.2)].
+1. The safety and effectiveness of ARRANON for relapsed or refractory T-ALL and T-LBL has been established in pediatric patients age 1 year and older.
+   The effectiveness of ARRANON in pediatric patients is supported by one single-arm clinical trial, and safety has been asssessed in 165 pediatric patients age 1 year and older across multiple Phase I and Phase II trials.
+   The trial establishing efficacy included 84 patients age 21 years and younger, who had relapsed or refractory T-ALL or T-LBL.
+   The most frequent adverse reactions of any grade occurring on treatment in this study were hematologic laboratory abnormalities.
+   Hematologic toxicity observed in the pediatric population was higher than that seen in the adult population [see Dosage and Administration (2.1), Adverse Reactions (6.1), Clinical Studies (14.2)].
 
 Nervous system adverse reactions have been reported for 42% of pediatric patients across the Phase I and Phase II trials.
 The incidence of nervous system adverse reactions was less in the pediatric population than that seen in adult patients with relapsed/refractory T-ALL/T-LBL [see Adverse Reactions (6.1)].

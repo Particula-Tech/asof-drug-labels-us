@@ -2,10 +2,10 @@
 
 The following clinically-significant adverse reactions are discussed in greater detail in other sections of the label:
 
-- Neurologic [see Boxed Warning, Warnings and Precautions (5.1)]
-- Hematologic [see Warnings and Precautions (5.2)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
-- Effects on Ability to Drive and Use Machines [see Warnings and Precautions (5.6)]
+- •Neurologic [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Hematologic [see Warnings and Precautions (5.2)]
+- •Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+- •Effects on Ability to Drive and Use Machines [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -86,7 +86,9 @@ Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Trea
 | Vascular Disorders |  |  |  |
 | Petechiae | 2 | 0 | 12 |
 | Hypotension | 1 | 1 | 8 |
-| Abbreviation: AST, aspartate transaminase. a Five (5) patients had a fatal adverse reaction. Fatal adverse reactions included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1). |  |  |  |
+
+1. Abbreviation: AST, aspartate transaminase. a Five (5) patients had a fatal adverse reaction.
+   Fatal adverse reactions included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1).
 
 Other Adverse Reactions: Blurred vision was also reported in 4% of adult patients.
 
@@ -165,7 +167,9 @@ Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients 
 | Asthenia | 1 | 0 | 6 |
 | Infections & Infestations |  |  |  |
 | Infection | 2 | 1 | 5 |
-| a Three (3) patients had a fatal adverse reaction. Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/seizure (n = 1), and fungal pneumonia (n = 1). |  |  |  |
+
+1. a Three (3) patients had a fatal adverse reaction.
+   Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/seizure (n = 1), and fungal pneumonia (n = 1).
 
 Neurologic Adverse Reactions: Nervous system adverse reactions were reported for 42% of pediatric patients across the Phase I and Phase II trials.
 The most common neurologic adverse reactions (≥ 2%) in pediatric patients including all grades (NCI CTCAE) are shown in Table 4.
@@ -193,7 +197,8 @@ Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/
 | Paresthesia | 0 | 2 | 1 | 0 | 4 |
 | Tremor | 1 | 2 | 0 | 0 | 4 |
 | Ataxia | 1 | 0 | 1 | 0 | 2 |
-| a One (1) patient had a fatal neurologic adverse reaction, status epilepticus. |  |  |  |  |  |
+
+1. a One (1) patient had a fatal neurologic adverse reaction, status epilepticus.
 
 The other Grade 3 neurologic adverse reaction in pediatric patients was hypertonia reported in 1 patient (1%).
 The additional Grade 4 neurologic adverse reactions, were third nerve paralysis, and sixth nerve paralysis, each reported in 1 patient (1%).

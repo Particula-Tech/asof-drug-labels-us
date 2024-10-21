@@ -1,4 +1,4 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Neurologic Adverse Reactions
 
@@ -24,12 +24,11 @@ Complete blood counts including platelets should be monitored regularly [see Dos
 
 ## 5.3 Embryo-Fetal Toxicity
 
-Based on its mechanism of action and findings in animal studies, ARRANON can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
-In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1500 mg/m2/day (see Data).
-
-Advise pregnant women of the potential risk to the fetus.
-Advise females of reproductive potential to use effective contraception during treatment with ARRANON.
-Advise males with female partners of reproductive potential to use condoms during treatment with ARRANON and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
+1. Based on its mechanism of action and findings in animal studies, ARRANON can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+   In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1500 mg/m2/day (see Data).
+2. Advise pregnant women of the potential risk to the fetus.
+   Advise females of reproductive potential to use effective contraception during treatment with ARRANON.
+   Advise males with female partners of reproductive potential to use condoms during treatment with ARRANON and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
 ## 5.4 Tumor Lysis Syndrome
 
@@ -42,5 +41,5 @@ Avoid the administration of live vaccines to immunocompromised patients.
 
 ## 5.6 Effects on Ability to Drive and Use Machines
 
-Patients treated with ARRANON may experience somnolence during and for several days after treatment [see Adverse Reactions (6.1)].
-Advise patients to refrain from driving or engaging in hazardous occupations or activities until somnolence has resolved.
+1. Patients treated with ARRANON may experience somnolence during and for several days after treatment [see Adverse Reactions (6.1)].
+   Advise patients to refrain from driving or engaging in hazardous occupations or activities until somnolence has resolved.
