@@ -1,5 +1,6 @@
 # 10 OVERDOSAGE
 
-The adverse reactions to overdosage are life-threatening and affect mainly the pulmonary and cardiovascular systems.
+The adverse effects of overdosage in intra-arterial or intravenous administration are life-threatening and affect mainly the pulmonary and cardiovascular systems.
+The symptoms include: cyanosis, bradycardia, acidosis, pulmonary hemorrhage, convulsions, coma, and cardiac arrest.
 Treatment of an overdosage is directed toward the support of all vital functions, and prompt institution of symptomatic therapy.
-Iohexol displays a low affinity for serum or plasma proteins and is poorly bound to serum albumin and, therefore, can be dialyzed.
+Iohexol can be dialyzed.
