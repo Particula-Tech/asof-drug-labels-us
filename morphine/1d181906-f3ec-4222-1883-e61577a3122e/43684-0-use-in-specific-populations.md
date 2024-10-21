@@ -7,11 +7,9 @@ Risk Summary
 Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 Available data with preservative-free morphine sulfate injection in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 There are adverse outcomes reported with fetal exposure to opioid analgesics (see Clinical Considerations).
-Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Error!
-Hyperlink reference not valid.].
+Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Human Data].
 In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) at 5 and 16 times the human daily dose of 60 mg based on body surface area (HDD) in hamsters and mice, respectively, lower fetal body weight and increased incidence of abortion at 0.4 times the HDD in the rabbit, growth retardation at 6 times the HDD in the rat, and axial skeletal fusion and cryptorchidism at 16 times the HDD in the mouse.
-Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3-4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Error!
-Hyperlink reference not valid.].
+Administration of morphine sulfate to pregnant rats during organogenesis and through lactation resulted in cyanosis, hypothermia, decreased brain weights, pup mortality, decreased pup body weights, and adverse effects on reproductive tissues at 3-4 times the HDD; and long-term neurochemical changes in the brain of offspring which correlate with altered behavioral responses that persist through adulthood at exposures comparable to and less than the HDD [see Animal Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.

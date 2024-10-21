@@ -58,8 +58,7 @@ The minimum effective analgesic concentration of morphine for any individual pat
 Concentration – Adverse Reaction Relationships
 
 There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, Error!
-Hyperlink reference not valid., 2.6)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.6)].
 
 ## 12.3 Pharmacokinetics
 
