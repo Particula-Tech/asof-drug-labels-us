@@ -44,17 +44,14 @@ Consider avoiding use of succinylcholine chloride in these patients or verify th
 
 ## 5.5 Malignant Hyperthermia
 
-In susceptible individuals, succinylcholine may trigger malignant hyperthermia, a skeletal muscle hypermetabolic state leading to high oxygen demand.
-Fatal outcomes of malignant hyperthermia have been reported.
-The risk of developing malignant hyperthermia increases with the concomitant administration of succinylcholine and volatile anesthetic agents.
-Succinylcholine chloride can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.
-[see Contraindications (4), Clinical Pharmacology (12.5)].
-Signs consistent with malignant hyperthermia may include hyperthermia, hypoxia, hypercapnia, muscle rigidity (e.g., jaw muscle spasm), tachycardia (e.g., particularly that unresponsive to deepening anesthesia or analgesic medication administration), tachypnea, cyanosis, arrhythmias, hypovolemia, and hemodynamic instability.
+Insusceptible individuals, succinylcholine may trigger malignant hyperthermia, a skeletal muscle hypermetabolic state leading to high oxygen demand.Fatal outcomes of malignant hyperthermia have been reported.
+Therisk of developing malignant hyperthermia increases with the concomitant administration of succinylcholine and volatile anesthetic agents.Succinylcholine chloride can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or familyhistory, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.
+[see Contraindications (4),Clinical Pharmacology (12.5)].
+Signsconsistent with malignant hyperthermia may include hyperthermia, hypoxia, hypercapnia, muscle rigidity (e.g., jaw muscle spasm), tachycardia(e.g., particularly that unresponsive to deepening anesthesia or analgesic medication administration), tachypnea, cyanosis, arrhythmias, hypovolemia,and hemodynamic instability.
 Skin mottling, coagulopathies, and renal failure may occur later in the course of the hypermetabolic process.
-Successful treatment of malignant hyperthermia depends on early recognition of the clinical signs.
-If malignant hyperthermia is suspected, discontinue all triggering agents (i.e., volatile anesthetic agents and succinylcholine), administer intravenous dantrolene sodium, and initiate supportive therapies.
-Consult prescribing information for intravenous dantrolene sodium for additional information on patient management.
-Supportive therapies include administration of supplemental oxygen and respiratory support based on clinical need, maintenance of hemodynamic stability and adequate urinary output, management of fluid and electrolyte balance, correction of acid base derangements, and institution of measures to control rising temperature.
+Successfultreatment of malignant hyperthermia depends on early recognition of the clinical signs.
+If malignant hyperthermia is suspected, discontinueall triggering agents (i.e., volatile anesthetic agents and succinylcholine), administer intravenous dantrolene sodium, and initiate supportive therapies.Consult prescribing information for intravenous dantrolene sodium for additional information on patient management.
+Supportive therapies includeadministration of supplemental oxygen and respiratory support based on clinical need, maintenance of hemodynamic stability and adequate urinaryoutput, management of fluid and electrolyte balance, correction of acid base derangements, and institution of measures to control rising temperature.
 
 ## 5.6 Bradycardia
 

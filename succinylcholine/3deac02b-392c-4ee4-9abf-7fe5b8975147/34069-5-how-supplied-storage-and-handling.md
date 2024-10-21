@@ -10,4 +10,4 @@ Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854
 Manufactured by:
 
 Aspiro Pharma Limited Survey No. 321, Biotech Park, Phase – III Karkapatla Village, Markook (Mandal) Siddipet, Telangana-502281, India.
-Revised: 01/2023
+Revised: 11/2022

@@ -4,8 +4,7 @@
 
 Risk Summary Available data from published literature from case reports and case series over decades of use with succinylcholine during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 Succinylcholine is used commonly during delivery by caesarean section to provide muscle relaxation.
-If succinylcholine is used during labor and delivery, there is a risk for prolonged apnea in some pregnant women (see Clinical Considerations).
-Animal reproduction studies have not been conducted with succinylcholine chloride.
+If succinylcholine is used during labor and delivery, there is a risk for prolonged apnea in some pregnant women (see Clinical Considerations).Animal reproduction studies have not been conducted with succinylcholine chloride.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
