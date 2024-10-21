@@ -5,6 +5,6 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 Etodolac extended-release tablets are indicated:
 
-- *For relief of signs and symptoms of juvenile arthritis
-- *For relief of the signs and symptoms of rheumatoid arthritis
-- *For relief of the signs and symptoms of osteoarthritis
+- For relief of signs and symptoms of juvenile arthritis
+- For relief of the signs and symptoms of rheumatoid arthritis
+- For relief of the signs and symptoms of osteoarthritis

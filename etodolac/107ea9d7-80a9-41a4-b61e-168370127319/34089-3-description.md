@@ -7,7 +7,7 @@ It is a white crystalline compound, insoluble in water, but soluble in alcohols,
 
 The chemical name is (±) 1,8-diethyl-1,3,4,9-tetrahydropyrano-[3,4-b]indole-1-acetic acid.
 The molecular weight is 287.37.
-Its molecular formula is C17H21NO3 and it has the following structural formula:
+Its molecular formula is C 17H 21NO 3and it has the following structural formula:
 
 The inactive ingredients in etodolac extended-release tablets include: HPMC 2910, hydroxypropyl methylcellulose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, PEG 8000, polydextrose FCC, povidone, titanium dioxide and triacetin.
 In addition, the 500 mg and 600 mg tablets contain Indigo Carmine Lake and the 400 mg and 600 mg tablets contain Allura Red AC Lake and Sunset Yellow F.C.F.

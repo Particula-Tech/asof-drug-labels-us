@@ -13,7 +13,7 @@ In patients taking NSAIDs, including etodolac extended-release tablets, the most
 
 other events including:
 
-| abnormal renal functionAdverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials. | anemia | asthenia |
+| abnormal renal function Adverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials. | anemia | asthenia |
 | --- | --- | --- |
 | dizziness | edema | elevated liver enzymes |
 | headaches | hypertension | increased bleeding time |
@@ -58,7 +58,7 @@ Nervous system - coma, convulsions, hallucinations, meningitis
 
 Respiratory - bronchitis, pneumonia, respiratory depression, sinusitis
 
-Skin and appendages - alopecia, exfoliative dermatitis, maculopapular rash, photosensitivity, skin peeling, Stevens-Johnson syndrome, toxic epidermal necrosis
+Skin and appendages - alopecia, exfoliative dermatitis, maculopapular rash, photosensitivity, skin peeling, Stevens-Johnson syndrome, toxic epidermal necrosis (TEN), and fixed drug eruption (FDE) (see WARNINGS)
 
 Special senses - conjunctivitis, deafness, hearing impairment, taste perversion
 

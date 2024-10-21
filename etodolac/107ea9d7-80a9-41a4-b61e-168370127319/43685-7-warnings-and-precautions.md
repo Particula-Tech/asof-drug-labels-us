@@ -60,7 +60,7 @@ These trends continue with longer duration of use, increasing the likelihood of 
 However, even short-term therapy is not without risk.
 
 NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
-Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
+Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleedingwho use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
 Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
 Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
 
@@ -90,14 +90,17 @@ If etodolac extended-release tablet therapy must be initiated, close monitoring 
 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to etodolac extended-release tablets.
 Etodolac extended-release tablets should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONSand PRECAUTIONS, Preexisting Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
-## Skin Reactions
+## Serious Skin Reactions
 
-NSAIDs, including etodolac extended-release tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including etodolac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of etodolac extended-release tablets at the first appearance of skin rash or any other sign of hypersensitivity.
+Etodolac extended-release tablets are contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 ## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -230,7 +233,7 @@ Caution should be used when NSAIDs are administered concomitantly with methotrex
 ### Phenylbutazone
 
 Phenylbutazone causes an increase (by about 80%) in the free fraction of etodolac.
-Although in vivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.
+Although in vivostudies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.
 
 ### Warfarin
 
@@ -249,10 +252,10 @@ These levels then remained stable for up to 1 year of therapy.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-No carcinogenic effect of etodolac was observed in mice or rats receiving oral doses of 15 mg/kg/day (45 to 89 mg/m2, respectively) or less for periods of 18 months or 2 years, respectively.
-Etodolac was not mutagenic in in vitro tests performed with S. typhimurium and mouse lymphoma cells as well as in an in vivo mouse micronucleus test.
-However, data from the in vitro human peripheral lymphocyte test showed an increase in the number of gaps (3% to 5% unstained regions in the chromatid without dislocation) among the etodolac-treated cultures (50 to 200 g/mL) compared to negative controls (2%); no other difference was noted between the controls and drug-treated groups.
-Etodolac showed no impairment of fertility in male and female rats up to oral doses of 16 mg/kg (94 mg/m2).
+No carcinogenic effect of etodolac was observed in mice or rats receiving oral doses of 15 mg/kg/day (45 to 89 mg/m 2, respectively) or less for periods of 18 months or 2 years, respectively.
+Etodolac was not mutagenic in in vitrotests performed with S. typhimuriumand mouse lymphoma cells as well as in an in vivomouse micronucleus test.
+However, data from the in vitrohuman peripheral lymphocyte test showed an increase in the number of gaps (3% to 5% unstained regions in the chromatid without dislocation) among the etodolac-treated cultures (50 to 200 g/mL) compared to negative controls (2%); no other difference was noted between the controls and drug-treated groups.
+Etodolac showed no impairment of fertility in male and female rats up to oral doses of 16 mg/kg (94 mg/m 2).
 However, reduced implantation of fertilized eggs occurred in the 8 mg/kg group.
 
 ## Pregnancy

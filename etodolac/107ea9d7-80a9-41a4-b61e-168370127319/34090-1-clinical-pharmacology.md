@@ -14,30 +14,30 @@ The systemic availability of etodolac from etodolac extended-release tablets is 
 Etodolac does not undergo significant first-pass metabolism following oral administration.
 After oral administration of etodolac extended-release tablets in doses up to 800 mg once daily, peak concentrations occur approximately 6 hours after dosing and are dose proportional for both total and free etodolac.
 
-Table 1 shows the comparison of etodolac pharmacokinetic parameters after the administration of etodolac tablets and etodolac extended-release tablets.
+Table 1shows the comparison of etodolac pharmacokinetic parameters after the administration of etodolac tablets and etodolac extended-release tablets.
 
-Table 2 shows the etodolac pharmacokinetic parameters in various populations.
+Table 2shows the etodolac pharmacokinetic parameters in various populations.
 The data from patients with renal and hepatic impairment were obtained following administration of (immediate-release) etodolac tablets.
 
 Table 1.
 
 | Pharmacokinetic Parameters | Etodolac Tablets | Etodolac Extended-Release Tablets |
 | --- | --- | --- |
-|  | Mean (CV)%% Coefficient of variation |  |
+|  | Mean (CV)% % Coefficient of variation |  |
 | Extent of Oral Absorption (Bioavailability) [F] | ≥ 80% | ≥ 80% |
-| Time to Peak Concentration (Tmax), h | 1.4 (61%) | 6.7 (47%) |
+| Time to Peak Concentration (T max), h | 1.4 (61%) | 6.7 (47%) |
 | Oral Clearance (CL/F), mL/h/kg | 49.1 (33%) | 46.8 (37%) |
 | Apparent Volume of Distribution (Vd/F), mL/kg | 393 (29%) | 566 (26%) |
 | Terminal Half-Life (t½), h | 6.4 (22%) | 8.4 (30%) |
 
 Table 2.
-Mean (CV%)% Coefficient of variation Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults and Various Special Populations
+Mean (CV%) % Coefficient of variationPharmacokinetic Parameters of Etodolac in Normal Healthy Adults and Various Special Populations
 
-|  | (18 to 44)Age range (years)(n=116) | (18 to 43) (n=102) | (25 to 44) (n=14) | (66 to 88) (n=24 | Dialysis On | Dialysis Off | (46 to 73) (n=10) | (34 to 60) (n=9) |
+|  | (18 to 44) Age range (years)(n=116) | (18 to 43) (n=102) | (25 to 44) (n=14) | (66 to 88) (n=24 | Dialysis On | Dialysis Off | (46 to 73) (n=10) | (34 to 60) (n=9) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Etodolac Extended-Release Tablets |  |  |  | Etodolac Tablets |  |  |  |
-| PK Parameters | Normal Healthy Adults | Healthy Males | Healthy Females | Elderly (> 65 yr) | HemodialysisPharmacokinetic parameters obtained following administration of etodolac tablets(24 to 65) (n=9) |  | Renal Impairment | Hepatic Impairment |
-| Tmax, h | 6.7 (47%) | 6.8 (45%) | 4.5 (56%) | 6.2 (51%) | 1.7 (88%) | 0.9 (67%) | 2.1 (46%) | 1.1 (15%) |
+| PK Parameters | Normal Healthy Adults | Healthy Males | Healthy Females | Elderly (> 65 yr) | Hemodialysis Pharmacokinetic parameters obtained following administration of etodolac tablets(24 to 65) (n=9) |  | Renal Impairment | Hepatic Impairment |
+| T max, h | 6.7 (47%) | 6.8 (45%) | 4.5 (56%) | 6.2 (51%) | 1.7 (88%) | 0.9 (67%) | 2.1 (46%) | 1.1 (15%) |
 | Oral Clearance, mL/h/kg (CL/F) | 46.8 (37%) | 46.8 (37%) | 47.2 (38%) | 51.6 (40%) | NA | NA | 58.3 (19%) | 42.0 (43%) |
 | Apparent Volume of Distribution, mL/kg (Vd/F) | 566 (26%) | 580 (26%) | 459 (28%) | 552 (34%) | NA | NA | NA | NA |
 | Terminal Half-Life, h | 8.4 (30%) | 8.4 (29%) | 7.6 (45%) | 7.8 (26%) | 5.1 (22%) | 7.5 (34%) | NA | 5.7 (24%) |
@@ -45,7 +45,7 @@ Mean (CV%)% Coefficient of variation Pharmacokinetic Parameters of Etodolac in N
 
 ### Food/Antacid Effects
 
-Food has no significant effect on the extent of etodolac extended-release tablets absorption, however, food significantly increased Cmax (54%) following a 600 mg dose.
+Food has no significant effect on the extent of etodolac extended-release tablets absorption, however, food significantly increased C max(54%) following a 600 mg dose.
 
 The extent of absorption of etodolac is not affected when etodolac is administered with antacid.
 Coadministration, with an antacid, decreases the peak concentration reached by about 15 to 20% with no measurable effect on time-to-peak.
@@ -73,7 +73,7 @@ The hydroxylated-etodolac metabolites undergo further glucuronidation followed b
 ### Excretion
 
 The mean oral clearance of etodolac following oral etodolac extended-release tablets dosing is 47 (±17) mL/h/kg.
-The terminal half-life (t½) of etodolac after etodolac extended-release tablets administration is 8.4 hours compared to 6.4 hours for etodolac tablets.
+The terminal half-life (t ½) of etodolac after etodolac extended-release tablets administration is 8.4 hours compared to 6.4 hours for etodolac tablets.
 Approximately 1% of an etodolac tablet dose is excreted unchanged in the urine, with 72% of the dose excreted into the urine as parent drug plus metabolites:
 
 | -etodolac, unchanged | 1% |
@@ -102,11 +102,11 @@ The results from a population pharmacokinetic analysis based on the 59 subjects 
 Table 3.
 Pharmacokinetic Parameter Estimates for Etodolac Extended-Release Tablets in Patients with Juvenile Rheumatoid Arthritis
 
-| Parameter | JRAMean (CV) of parameter estimates predicted from population pharmacokinetics (Age: 6 to 16)Age range (years) n = 59 |
+| Parameter | JRA Mean (CV) of parameter estimates predicted from population pharmacokinetics(Age: 6 to 16) Age range (years)n = 59 |
 | --- | --- |
 | Oral Clearance (CL/F), mL/h/kg | 47.8 (38%) |
 | Apparent Volume of Distribution (Vd/F), mL/kg | 78.9 (61%) |
-| Half-life (t½), h | 12.1 (75%) |
+| Half-life (t ½), h | 12.1 (75%) |
 
 While similar, the pharmacokinetic parameters for children with juvenile rheumatoid arthritis did not directly correlate with adult pharmacokinetic data in rheumatoid arthritis.
 In the population pharmacokinetic analysis, body weights below 50 kg were found to correlate with CL/F (see DOSAGE AND ADMINISTRATION).
