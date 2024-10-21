@@ -18,4 +18,4 @@ Distributed by: AbbVie Inc. North Chicago, IL 60064
 All rights reserved.
 DURYSTA and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v1.2USPI9652
+V2.0USPI9652

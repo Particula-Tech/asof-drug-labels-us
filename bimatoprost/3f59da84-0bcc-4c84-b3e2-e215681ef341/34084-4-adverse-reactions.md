@@ -17,6 +17,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The most common ocular adverse reaction observed in two randomized, active-controlled clinical trials with DURYSTA in patients with OAG or OHT was conjunctival hyperemia, which was reported in 27% of patients.
 Other common ocular adverse reactions reported in 5-10% of patients were foreign body sensation, eye pain, photophobia, conjunctival hemorrhage, dry eye, eye irritation, intraocular pressure increased, corneal endothelial cell loss, vision blurred, and iritis.
 Ocular adverse reactions occurring in 1-5% of patients were anterior chamber cell, lacrimation increased, corneal edema, aqueous humor leakage, iris adhesions, ocular discomfort, corneal touch, iris hyperpigmentation, anterior chamber flare, anterior chamber inflammation, and macular edema.
-The following additional adverse drug reactions occurred in less than 1% of patients: hyphema, iridocyclitis, uveitis, corneal opacity, product administered at inappropriate site, corneal decompensation, cystoid macular edema, and drug hypersensitivity.
+The following additional adverse drug reactions occurred in less than 1% of patients: hyphema, iridocyclitis, uveitis, corneal opacity, corneal thickening, product administered at inappropriate site, corneal decompensation, cystoid macular edema, and drug hypersensitivity.
 
 The most common nonocular adverse reaction was headache, which was observed in 5% of patients.
+
+## 6.2Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of DURYSTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Eye disorders: endophthalmitis

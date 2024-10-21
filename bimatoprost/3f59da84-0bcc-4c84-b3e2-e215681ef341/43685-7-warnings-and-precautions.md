@@ -31,5 +31,5 @@ While treatment with DURYSTA can be continued in patients who develop noticeably
 
 ## 5.6Endophthalmitis
 
-Intraocular surgical procedures and injections have been associated with endophthalmitis.
+Intraocular surgical procedures and injections, including DURYSTA, have been associated with endophthalmitis.
 Proper aseptic technique must always be used with administering DURYSTA, and patients should be monitored following the administration.

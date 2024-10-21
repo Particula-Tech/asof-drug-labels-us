@@ -12,7 +12,7 @@ The eye should not be dilated prior to the procedure.
 
 Remove the foil pouch from the carton and examine for damage.
 Then, open the foil pouch over a sterile field and gently drop the applicator on a sterile tray.
-Once the foil pouch is opened, use promptly.
+Once the foil pouch is opened, use the applicator promptly.
 
 Figure 1
 
