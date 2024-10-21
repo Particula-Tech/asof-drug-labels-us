@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In studies in which dipyridamole was administered in the feed to mice (up to 111 weeks in males and females) and rats (up to 128 weeks in males and up to 142 weeks in females), there was no evidence of drug-related carcinogenesis.
 The highest dose administered in these studies (75 mg/kg/day) was, on a mg/m2 basis, about equivalent to the maximum recommended daily human oral dose (MRHD) in mice and about twice the MRHD in rats.

@@ -1,10 +1,10 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Aspirin and Extended-Release Dipyridamole Capsules are not interchangeable with the individual components of aspirin and dipyridamole tablets.
 
 The recommended dose of Aspirin and Extended-Release Dipyridamole Capsules is one capsule given orally twice daily, one in the morning and one in the evening.
 Swallow capsules whole without chewing.
-Aspirin and Extended-Release Dipyridamole Capsulescan be administered with or without food.
+Aspirin and Extended-Release Dipyridamole Capsules can be administered with or without food.
 
 ## 2.1 Alternative Regimen in Case of Intolerable Headaches
 

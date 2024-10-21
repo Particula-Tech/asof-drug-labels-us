@@ -24,7 +24,7 @@ The effect of either agent on the other's inhibition of platelet reactivity has 
 ## 12.3 Pharmacokinetics
 
 There are no significant interactions between aspirin and dipyridamole.
-The kinetics of the components are unchanged by their coadministration as aspirin and extended-release dipyridamole.
+The kinetics of the components are unchanged by their co-administration as aspirin and extended-release dipyridamole.
 
 Absorption
 
@@ -125,7 +125,7 @@ Avoid aspirin in patients with severe renal failure (glomerular filtration rate 
 
 Drug Interaction Studies
 
-A dedicated drug interaction study was conducted in 60 healthy volunteers to evaluate the effects of omeprazole 80 mg administered once daily on the pharmacokinetics (PK) of dipyridamole and the pharmacodynamics (PD) of acetylsalicylic acid when coadministered with aspirin and extended-release dipyridamole twice daily.
-Dipyridamole exposure (Cmax and AUC) at steady-state were similar with or without omeprazole coadministration.
+A dedicated drug interaction study was conducted in 60 healthy volunteers to evaluate the effects of omeprazole 80 mg administered once daily on the pharmacokinetics (PK) of dipyridamole and the pharmacodynamics (PD) of acetylsalicylic acid when co-administered with aspirin and extended-release dipyridamole twice daily.
+Dipyridamole exposure (Cmax and AUC) at steady-state were similar with or without omeprazole co-administration.
 The pharmacokinetics of acetylsalicylic acid was not characterized.
 However, the antiplatelet activity as measured by arachidonic acid induced platelet aggregation was similar between the treatment arms at steady-state.

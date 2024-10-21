@@ -2,11 +2,11 @@
 
 The following adverse reactions are discussed elsewhere in the labeling:
 
-- Hypersensitivity [see Contraindications (4.1)].
-- Allergy [see Contraindications (4.2)].
+- Hypersensitivity [see Contraindications (4.1)]
+- Allergy [see Contraindications (4.2)]
 - Risk of Bleeding [see Warnings and Precautions (5.1)]
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -14,7 +14,7 @@ The efficacy and safety of aspirin and extended-release dipyridamole was establi
 ESPS2 was a double-blind, placebo-controlled study that evaluated 6602 patients over the age of 18 years who had a previous ischemic stroke or transient ischemic attack within ninety days prior to entry.
 Patients were randomized to either aspirin and extended-release dipyridamole, aspirin, ER-DP, or placebo [see Clinical Studies (14)]; primary endpoints included stroke (fatal or nonfatal) and death from all causes.
 
-This 24-month, multicenter, double-blind, randomized study (ESPS2) was conducted to compare the efficacy and safety of aspirin and extended-release dipyridamole with placebo, extended- release dipyridamole alone and aspirin alone.
+This 24-month, multicenter, double-blind, randomized study (ESPS2) was conducted to compare the efficacy and safety of aspirin and extended-release dipyridamole with placebo, extended-release dipyridamole alone and aspirin alone.
 The study was conducted in a total of 6602 male and female patients who had experienced a previous ischemic stroke or transient ischemia of the brain within three months prior to randomization.
 
 Table 1 presents the annualized event rate for adverse events that occurred in 1%/year or more of patients treated with aspirin and extended-release dipyridamole where the incidence was also at least 1%/year greater than in those patients treated with placebo.
@@ -22,20 +22,20 @@ There is no clear benefit of the dipyridamole/aspirin combination over aspirin w
 
 Table 1 Incidence of Adverse Events in ESPS2a
 
-| Individual Treatment Group |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System/Preferred Term | Aspirin and Extended-Release Dipyridamolen (%/year)b |  | ER-DP Alonen (%/year)b |  | ASA Alonen (%/year)b |  | Placebon (%/year)b |  |
-| Total Number of Patients | 1,650 |  | 1,654 |  | 1,649 |  | 1,649 |  |
-| Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |
-| Headache | 647 | (28.25) | 634 | (27.91) | 558 | (22.10) | 543 | (22.29) |
-| Gastrointestinal System Disorders |  |  |  |  |  |  |  |  |
-| Dyspepsia | 303 | (13.23) | 288 | (12.68) | 299 | (11.84) | 275 | (11.29) |
-| Abdominal Pain | 289 | (12.62) | 255 | (11.22) | 262 | (10.38) | 239 | (9.81) |
-| Nausea | 264 | (11.53) | 254 | (11.18) | 210 | (8.32) | 232 | (9.53) |
-| Diarrhea | 210 | (9.17) | 257 | (11.31) | 112 | (4.44) | 161 | (6.61) |
-| Vomiting | 138 | (6.03) | 129 | (5.68) | 101 | (4.00) | 118 | (4.84) |
-| Platelet, Bleeding and Clotting Disorders |  |  |  |  |  |  |  |  |
-| Hemorrhage NOS | 52 | (2.27) | 24 | (1.06) | 46 | (1.82) | 24 | (0.99) |
+| Individual Treatment Group |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System/Preferred Term | Aspirin and Extended-Release Dipyridamolen (%/year)b |  | ER-DP Alonen (%/year)b |  |  | ASA Alonen (%/year)b |  | Placebon (%/year)b |  |
+| Total Number of Patients | 1,650 |  | 1,654 |  |  | 1,649 |  | 1,649 |  |
+| Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |
+| Headache | 647 | (28.25) |  | 634 | (27.91) | 558 | (22.10) | 543 | (22.29) |
+| Gastrointestinal System Disorders |  |  |  |  |  |  |  |  |  |
+| Dyspepsia | 303 | (13.23) |  | 288 | (12.68) | 299 | (11.84) | 275 | (11.29) |
+| Abdominal Pain | 289 | (12.62) |  | 255 | (11.22) | 262 | (10.38) | 239 | (9.81) |
+| Nausea | 264 | (11.53) |  | 254 | (11.18) | 210 | (8.32) | 232 | (9.53) |
+| Diarrhea | 210 | (9.17) |  | 257 | (11.31) | 112 | (4.44) | 161 | (6.61) |
+| Vomiting | 138 | (6.03) |  | 129 | (5.68) | 101 | (4.00) | 118 | (4.84) |
+| Platelet, Bleeding and Clotting Disorders |  |  |  |  |  |  |  |  |  |
+| Hemorrhage NOS | 52 | (2.27) |  | 24 | (1.06) | 46 | (1.82) | 24 | (0.99) |
 
 aReported by ≥1%/year of patients during aspirin and extended-release dipyridamole treatment where the incidence was at least 1%/year greater than in those treated with placebo.
 
@@ -47,13 +47,13 @@ The dosage regimen for all treatment groups is BID.
 
 NOS = not otherwise specified.
 
-Discontinuation due to adverse events in ESPS2 was 25% for aspirin and extended-release dipyridamole, 25% for extended-release dipyridamole, 19% for aspirin, and 21% for placebo (refer to Table 2)
+Discontinuation due to adverse events in ESPS2 was 25% for aspirin and extended-release dipyridamole, 25% for extended-release dipyridamole, 19% for aspirin, and 21% for placebo (refer to Table 2).
 
-Table 2 Incidence of Adverse Events that Led to the Discontinuation of Treatment: Adverse Events with an Incidence of ≥1% in the Aspirin and Extended-Release Dipyridamole Group
+Table 2 Incidence of Adverse Events that Led to the Discontinuation of Treatmenta
 
 |  | Treatment Groups |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Aspirin and Extended-Release Dipyridamolen (%/year)b |  | ER-DPn (%/year)b |  | ASAn (%/year)b |  | Placebon (%/year)b |  |
+|  | Aspirin and Extended-Release Dipyridamole n (%/year)b |  | ER-DPn (%/year)b |  | ASAn (%/year)b |  | Placebon (%/year)b |  |
 | Total Number of Patients | 1,650 |  | 1,654 |  | 1,649 |  | 1,649 |  |
 | Patients with at least one Adverse Event that led to treatment discontinuation | 417 | (18.21) | 419 | (18.44) | 318 | (12.59) | 352 | (14.45) |
 | Headache | 165 | (7.20) | 166 | (7.31) | 57 | (2.26) | 69 | (2.83) |
@@ -105,7 +105,7 @@ Psychiatric Disorders: Confusion, agitation
 
 Respiratory: Tachypnea, dyspnea, hemoptysis
 
-Skin and Appendages Disorders: Rash, alopecia, angioedema, Stevens-Johnson syndrome, skin hemorrhages such as bruising, ecchymosis, and hematoma, pruritus, urticaria
+Skin and Appendages Disorders: Rash, alopecia, angioedema, Stevens-Johnson syndrome, skin hemorrhages such as bruising, ecchymosis, and hematoma, pruritus, urticaria, and drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 Urogenital: Interstitial nephritis, papillary necrosis, proteinuria, renal insufficiency and failure, hematuria
 

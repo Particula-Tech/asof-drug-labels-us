@@ -6,8 +6,6 @@ Aspirin and extended-release dipyridamole is contraindicated in patients with kn
 
 ## 4.2 Allergy
 
-Aspirin is contraindicated in patients with known allergy to nonsteroidal anti-in
-
 Aspirin is contraindicated in patients with known allergy to nonsteroidal anti-inflammatory drug (NSAID) products and in patients with the syndrome of asthma, rhinitis, and nasal polyps.
 Aspirin may cause severe urticaria, angioedema or bronchospasm.
 

@@ -68,4 +68,4 @@ No overall differences in safety or effectiveness were observed between these su
 ## 8.6 Patients with Severe Hepatic or Severe Renal Dysfunction
 
 Aspirin and extended-release dipyridamole has not been studied in patients with hepatic or renal impairment.
-Avoid using aspirin containing products, such as aspirin and extended-release dipyridamole in patients with severe hepatic or severe renal (glomerular filtration rate <10 mL/min) dysfunction [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
+Avoid using aspirin containing products, such as aspirin and extended-release dipyridamole, in patients with severe hepatic or severe renal (glomerular filtration rate <10 mL/min) dysfunction [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
