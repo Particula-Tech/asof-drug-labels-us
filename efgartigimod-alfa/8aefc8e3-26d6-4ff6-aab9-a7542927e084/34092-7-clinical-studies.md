@@ -9,7 +9,7 @@ Study 1 enrolled patients who met the following criteria at screening:
 3. - On stable dose of MG therapy prior to screening, that included acetylcholinesterase (AChE) inhibitors, steroids, or non-steroidal immunosuppressive therapies (NSISTs), either in combination or alone
 4. - IgG levels of at least 6 g/L
 
-A total of 167 patients were enrolled in Study 1 and were randomized to receive either VYVGART 10 mg/kg (1200 mg for those weighing 120 kg or more) (n=84) or placebo (n=83).
+A total of 167 patients were enrolled in Study 1 and were randomized to receive either VYVGART 10mg/kg (1200 mg for those weighing 120 kg or more) (n=84) or placebo (n=83).
 Baseline characteristics were similar between treatment groups.
 Patients had a median age of 46 years at screening (range: 19 to 81 years) and a median time since diagnosis of 7 years.
 Seventy-one percent were female, and 84% were White.
