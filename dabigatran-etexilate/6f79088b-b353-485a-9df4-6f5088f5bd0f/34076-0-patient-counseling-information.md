@@ -25,6 +25,7 @@ Gastrointestinal Adverse Reactions Instruct patients to call their healthcare pr
 [see Adverse Reactions (6.1)] Invasive or Surgical Procedures Instruct patients to inform their healthcare provider that they are taking dabigatran before any invasive procedure (including dental procedures) is scheduled [see Dosage and Administration (2.8)].
 Concomitant Medications Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take so their healthcare provider knows about other treatments that may affect bleeding risk (e.g., aspirin or NSAIDs) or dabigatran exposure (e.g., dronedarone or systemic ketoconazole) [see Warnings and Precautions (5.2, 5.5)].
 Prosthetic Heart Valves Instruct patients to inform their healthcare provider if they will have or have had surgery to place a prosthetic heart valve [see Warnings and Precautions (5.4)].
+
 Allergic Reactions Advise adult patients and caregivers that some adults taking dabigatran have developed symptoms of an allergic reaction.
 Advise adult patients or caregivers to inform their healthcare provider if they develop symptoms of an allergic reaction, such as hives, rash, or itching.
 Advise adult patients or caregivers to seek emergency medical attention if they develop chest pain or tightness, swelling of the face or tongue, trouble breathing or wheezing, or feeling dizzy or faint.
@@ -33,6 +34,8 @@ Lactation Advise patients not to breastfeed if they are taking dabigatran etexil
 Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
+Dispense with Medication Guide available at: www.NovadozPharma.com/Products
+
 Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
-Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854 -3714 Issued on: July 2024
+Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854 -3714 Issued on: October 2024

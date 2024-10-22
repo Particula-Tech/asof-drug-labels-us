@@ -1,13 +1,19 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-75 mg-container-label-60's count
+Dabigatran Etexilate Capsules 75 mg 60's Count Container Label
 
-75 mg-Carton-Container-label-60's Count
+Dabigatran Etexilate Capsules 75 mg Blister Carton
 
-110 mg-container-label-60's count
+Dabigatran Etexilate Capsules 75 mg Blister Foil
 
-110 mg-Carton-Container-label-60's Count
+Dabigatran Etexilate Capsules 110 mg 60's Count Container Label
 
-150 mg-Conatiner-label-60's Count
+Dabigatran Etexilate Capsules 110 mg Blister Carton
 
-150 mg-Carton-Container-label-60's Count
+Dabigatran Etexilate Capsules 110 mg Blister Foil
+
+Dabigatran Etexilate Capsules 150 mg 60's Count Container Label
+
+Dabigatran Etexilate Capsules 150 mg Blister Carton
+
+Dabigatran Etexilate Capsules 150 mg Blister Foil

@@ -62,7 +62,7 @@ Table 10 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 | Moderate | 30-50 | 3.2x | 1.7x | 18 |
 | Severe+ | 15-30 | 6.3x | 2.1x | 27 |
 
-+Patients with severe renal impairment were not studied in RE-LY, and RE-COVER and RE-NOVATE II.
++Patients with severe renal impairment were not studied in RE-LY, RE-COVER and RE-NOVATE II.
 Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.2, 2.4) and Use in Specific Populations (8.6)].
 Hepatic Impairment Administration of dabigatran etexilate capsules in adult patients with moderate hepatic impairment (Child-Pugh B) showed a large inter-subject variability, but no evidence of a consistent change in exposure or pharmacodynamics.
 Drug Interactions A summary of the effect of coadministered drugs on dabigatran exposure in healthy adult subjects is shown in Figures 3.1 and 3.2.

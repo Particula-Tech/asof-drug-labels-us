@@ -163,7 +163,9 @@ In the two studies, the rate of major gastrointestinal bleeds in patients receiv
 Gastrointestinal Adverse Reactions In the two studies, the incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
 Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs. 1.0%, respectively.
 Hypersensitivity Reactions In the two studies, drug hypersensitivity (such as urticaria, rash, and pruritus) was reported in 0.3% of patients receiving dabigatran etexilate capsules 220 mg.
-Clinical Myocardial Infarction Events In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
+Clinical Myocardial Infarction Events In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.
+
+Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
 However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
