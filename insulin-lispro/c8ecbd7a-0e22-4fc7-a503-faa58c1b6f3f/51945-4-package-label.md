@@ -1,4 +1,4 @@
-PACKAGE CARTON – HUMALOG 10 mL vial
+PACKAGE CARTON – HUMALOG 10 mL vial U100
 
 NDC 0002-7510-01
 
@@ -42,7 +42,7 @@ www.humalog.com
 
 Lilly
 
-PACKAGE CARTON – HUMALOG KwikPen
+PACKAGE CARTON – HUMALOG KwikPen U100
 
 NDC 0002-8799-59
 
@@ -70,7 +70,7 @@ Rx only
 
 Read Insulin Delivery Device Instructions for Use
 
-PACKAGE CARTON – HUMALOG Cartridge 3mL
+PACKAGE CARTON – HUMALOG U100 Cartridge 3mL
 
 NDC 0002-7516-59
 
@@ -94,7 +94,7 @@ www.humalog.com
 
 Lilly
 
-PACKAGE CARTON – HUMALOG U200 KwikPen 2ct
+PACKAGE CARTON – HUMALOG KwikPen U200 2ct
 
 Dispense in this sealed carton.
 
@@ -158,7 +158,7 @@ This device is recommended for use with Becton, Dickinson and Company's insulin 
 
 Lilly
 
-PACKAGE CARTON – HUMALOG Tempo Pen
+PACKAGE CARTON – HUMALOG Tempo Pen (U-100)
 
 NDC 0002-8213-05
 
@@ -187,3 +187,25 @@ Rx only
 5 x 3 mL Prefilled Pens
 
 Read Insulin Delivery Device Instructions for Use
+
+PACKAGE CARTON – STERILE DILUENT Vial 10mL 1ct
+
+1–ND 800
+
+Lilly
+
+10 mL
+
+STERILE DILUENT FOR
+
+HUMALOG® U-100
+
+insulin lispro injection
+
+HUMULIN® R U-100
+
+REGULAR insulin human injection
+
+Insulin Lispro Injection U-100
+
+WARNING: Use ONLY with insulins listed on side panel.
