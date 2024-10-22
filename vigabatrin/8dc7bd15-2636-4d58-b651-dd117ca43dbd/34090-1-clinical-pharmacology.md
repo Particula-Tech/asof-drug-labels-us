@@ -66,7 +66,7 @@ Renal Impairment
 
 Mean AUC increased by 30% and the terminal half-life increased by 55% (8.1 hr vs 12.5 hr) in adult patients with mild renal impairment (CLcr from >50 to 80 mL/min) in comparison to normal subjects.
 
-Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from >30 to 50 mL/min) in comparison to normal subjects.
+Mean AUC increased by two-fold and the terminal half-life increased by two-fold in adult patients with moderate renal impairment (CLcr from > 30 to 50 mL/min) in comparison to normal subjects.
 
 Mean AUC increased by 4.5-fold and the terminal half-life increased by 3.5-fold in adult patients with severe renal impairment (CLcr from >10 to 30 mL/min) in comparison to normal subjects.
 

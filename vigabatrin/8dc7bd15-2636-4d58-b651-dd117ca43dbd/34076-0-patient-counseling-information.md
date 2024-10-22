@@ -47,9 +47,9 @@ Withdrawal of Vigabatrin Tablet Therapy
 Instruct patients and caregivers not to suddenly discontinue vigabatrin tablet therapy without consulting with their healthcare provider.
 As with all AEDs, withdrawal should normally be gradual [see Warnings and Precautions (5.6)].
 
-Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Manufactured for: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Rev.
-C 3/2022
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054 Rev.
+D 9/2024
