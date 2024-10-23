@@ -7,7 +7,7 @@ Important immune-mediated adverse reactions listed under Warnings and Precaution
 
 Immune-mediated adverse reactions, which may be severe or fatal, can occur in any organ system or tissue.
 Immune-mediated adverse reactions can occur at any time after starting treatment with a PD-1/PD-L1 blocking antibody.
-While immune-mediated adverse reactions usually manifest during treatment with PD-1/PD-L1 blocking antibodies, immune-mediated adverse reactions can also manifest after discontinuation of PD-1/PD-L1 blocking antibodies.
+While immune-mediated adverse reactions usually manifest during treatment with PD‑1/PD-L1 blocking antibodies, immune-mediated adverse reactions can also manifest after discontinuation of PD-1/PD-L1 blocking antibodies.
 
 Early identification and management of immune-mediated adverse reactions are essential to ensure safe use of PD-1/PD-L1 blocking antibodies.
 Monitor patients closely for symptoms and signs that may be clinical manifestations of underlying immune-mediated adverse reactions.
@@ -27,7 +27,7 @@ Toxicity management guidelines for adverse reactions that do not necessarily req
 OPDIVO can cause immune-mediated pneumonitis, which is defined as requiring use of steroids and no clear alternate etiology.
 In patients treated with other PD-1/PD-L1 blocking antibodies, the incidence of pneumonitis is higher in patients who have received prior thoracic radiation.
 
-OPDIVO as a Single Agent
+#### OPDIVO as a Single Agent
 
 Immune-mediated pneumonitis occurred in 3.1% (61/1994) of patients receiving OPDIVO as a single agent, including Grade 4 (<0.1%), Grade 3 (0.9%), and Grade 2 (2.1%) adverse reactions.
 Pneumonitis led to permanent discontinuation of OPDIVO in 1.1% and withholding of OPDIVO in 0.8% of patients.
@@ -36,9 +36,9 @@ Systemic corticosteroids were required in 100% (61/61) of patients with pneumoni
 Pneumonitis resolved in 84% of the 61 patients.
 Of the 15 patients in whom OPDIVO was withheld for pneumonitis, 14 reinitiated OPDIVO after symptom improvement; of these, 4 (29%) had recurrence of pneumonitis.
 
-OPDIVO with Ipilimumab
+#### OPDIVO with Ipilimumab
 
-OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg: In NSCLC, immune-mediated pneumonitis occurred in 9% (50/576) of patients receiving OPDIVO 3 mg/kg every 2 weeks with ipilimumab 1 mg/kg every 6 weeks, including Grade 4 (0.5%), Grade 3 (3.5%), and Grade 2 (4.0%) immune-mediated pneumonitis.
+OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg: In NSCLC, immune-mediated pneumonitis occurred in 9% (50/576) of patients receiving OPDIVO 3 mg/kg every 2 weeks with ipilimumab 1 mg/kg every 6 weeks, including Grade 4 (0.5%), Grade 3 (3.5%), and Grade 2 (4%) immune-mediated pneumonitis.
 Four patients (0.7%) died due to pneumonitis.
 Immune-mediated pneumonitis led to permanent discontinuation of OPDIVO with ipilimumab in 5% of patients and withholding of OPDIVO with ipilimumab in 3.6% of patients.
 
@@ -53,7 +53,7 @@ A common symptom included in the definition of colitis was diarrhea.
 Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-mediated colitis.
 In cases of corticosteroid-refractory colitis, consider repeating infectious workup to exclude alternative etiologies.
 
-OPDIVO as a Single Agent
+#### OPDIVO as a Single Agent
 
 Immune-mediated colitis occurred in 2.9% (58/1994) of patients receiving OPDIVO as a single agent, including Grade 3 (1.7%) and Grade 2 (1%) adverse reactions.
 Colitis led to permanent discontinuation of OPDIVO in 0.7% and withholding of OPDIVO in 0.9% of patients.
@@ -63,7 +63,7 @@ Four patients required addition of infliximab to high-dose corticosteroids.
 Colitis resolved in 86% of the 58 patients.
 Of the 18 patients in whom OPDIVO was withheld for colitis, 16 reinitiated OPDIVO after symptom improvement; of these, 12 (75%) had recurrence of colitis.
 
-OPDIVO with Ipilimumab
+#### OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg: Immune-mediated colitis occurred in 25% (115/456) of patients with melanoma or HCC receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, including Grade 4 (0.4%), Grade 3 (14%), and Grade 2 (8%) adverse reactions.
 Colitis led to permanent discontinuation of OPDIVO with ipilimumab in 14% and withholding of OPDIVO with ipilimumab in 4.4% of patients.
@@ -85,7 +85,7 @@ Of the 18 patients in whom OPDIVO with ipilimumab was withheld for colitis, 16 r
 
 OPDIVO can cause immune-mediated hepatitis, defined as requiring the use of corticosteroids and no clear alternate etiology.
 
-OPDIVO as a Single Agent
+#### OPDIVO as a Single Agent
 
 Immune-mediated hepatitis occurred in 1.8% (35/1994) of patients receiving OPDIVO as a single agent, including Grade 4 (0.2%), Grade 3 (1.3%), and Grade 2 (0.4%) adverse reactions.
 Hepatitis led to permanent discontinuation of OPDIVO in 0.7% and withholding of OPDIVO in 0.6% of patients.
@@ -95,7 +95,7 @@ Two patients required the addition of mycophenolic acid to high-dose corticoster
 Hepatitis resolved in 91% of the 35 patients.
 Of the 12 patients in whom OPDIVO was withheld for hepatitis, 11 reinitiated OPDIVO after symptom improvement; of these, 9 (82%) had recurrence of hepatitis.
 
-OPDIVO with Ipilimumab
+#### OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg: Immune-mediated hepatitis occurred in 15% (70/456) of patients with melanoma or HCC receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, including Grade 4 (2.4%), Grade 3 (11%), and Grade 2 (1.8%) adverse reactions.
 Immune-mediated hepatitis led to permanent discontinuation of OPDIVO with ipilimumab in 8% or withholding of OPDIVO with ipilimumab in 3.5% of patients.
@@ -113,7 +113,7 @@ Approximately 19% of patients with immune-mediated hepatitis required addition o
 Hepatitis resolved in 88% of the 48 patients.
 Of the 17 patients in whom OPDIVO with ipilimumab was withheld for hepatitis, 14 reinitiated treatment after symptom improvement; of these, 10 (71%) had recurrence of hepatitis.
 
-OPDIVO with Cabozantinib
+#### OPDIVO with Cabozantinib
 
 OPDIVO in combination with cabozantinib can cause hepatic toxicity with higher frequencies of Grade 3 and 4 ALT and AST elevations compared to OPDIVO alone.
 Monitor liver enzymes before initiation of and periodically throughout treatment.
@@ -126,7 +126,7 @@ Among the 44 patients with Grade ≥2 increased ALT or AST who were rechallenged
 
 ### Immune-Mediated Endocrinopathies
 
-Adrenal Insufficiency
+#### Adrenal Insufficiency
 
 OPDIVO can cause primary or secondary adrenal insufficiency.
 For grade 2 or higher adrenal insufficiency, initiate symptomatic treatment, including hormone replacement as clinically indicated.
@@ -145,7 +145,7 @@ Of the 8 patients in whom OPDIVO was withheld for adrenal insufficiency, 4 reini
 OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg: Adrenal insufficiency occurred in 8% (35/456) of patients with melanoma or HCC receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, including Grade 4 (0.2%), Grade 3 (2.4%), and Grade 2 (4.2%) adverse reactions.
-Adrenal insufficiency led to permanent discontinuation of OPDIVO with ipilimumab in 0.4% and withholding of OPDIVO with ipilimumab in 2.0% of patients.
+Adrenal insufficiency led to permanent discontinuation of OPDIVO with ipilimumab in 0.4% and withholding of OPDIVO with ipilimumab in 2% of patients.
 
 Approximately 71% (25/35) of patients with adrenal insufficiency received hormone replacement therapy, including systemic corticosteroids.
 Adrenal insufficiency resolved in 37% of the 35 patients.
@@ -167,7 +167,7 @@ Approximately 80% (12/15) of patients with adrenal insufficiency received hormon
 Adrenal insufficiency resolved in 27% (n=4) of the 15 patients.
 Of the 9 patients in whom OPDIVO with cabozantinib was withheld for adrenal insufficiency, 6 reinstated treatment after symptom improvement; of these, all (n=6) received hormone replacement therapy and 2 had recurrence of adrenal insufficiency.
 
-Hypophysitis
+#### Hypophysitis
 
 OPDIVO can cause immune-mediated hypophysitis.
 Hypophysitis can present with acute symptoms associated with mass effect such as headache, photophobia, or visual field defects.
@@ -201,7 +201,7 @@ Approximately 72% (21/29) of patients with hypophysitis received hormone replace
 Hypophysitis resolved in 59% of the 29 patients.
 Of the 14 patients in whom OPDIVO with ipilimumab was withheld for hypophysitis, 11 reinitiated treatment after symptom improvement; of these, 2 (18%) had recurrence of hypophysitis.
 
-Thyroid Disorders
+#### Thyroid Disorders
 
 OPDIVO can cause immune-mediated thyroid disorders.
 Thyroiditis can present with or without endocrinopathy.
@@ -280,7 +280,7 @@ Systemic corticosteroids were required in 7% (9/122) of patients with hypothyroi
 Hypothyroidism resolved in 27% of the 122 patients.
 Of the 9 patients in whom OPDIVO with ipilimumab was withheld for hypothyroidism, 5 reinitiated treatment after symptom improvement; of these, 1 (20%) had recurrence of hypothyroidism.
 
-Type 1 Diabetes Mellitus, which can present with Diabetic Ketoacidosis
+#### Type 1 Diabetes Mellitus, which can present with Diabetic Ketoacidosis
 
 Monitor patients for hyperglycemia or other signs and symptoms of diabetes.
 Initiate treatment with insulin as clinically indicated.
@@ -299,7 +299,7 @@ Of the 2 patients in whom OPDIVO was withheld for diabetes, both reinitiated OPD
 
 OPDIVO can cause immune-mediated nephritis, which is defined as requiring use of steroids and no clear alternate etiology.
 
-OPDIVO as a Single Agent
+#### OPDIVO as a Single Agent
 
 Immune-mediated nephritis and renal dysfunction occurred in 1.2% (23/1994) of patients receiving OPDIVO as a single agent, including Grade 4 (<0.1%), Grade 3 (0.5%), and Grade 2 (0.6%) adverse reactions.
 Immune-mediated nephritis and renal dysfunction led to permanent discontinuation of OPDIVO in 0.3% and withholding of OPDIVO in 0.4% of patients.
@@ -315,7 +315,7 @@ Exfoliative dermatitis, including Stevens-Johnson Syndrome, toxic epidermal necr
 Topical emollients and/or topical corticosteroids may be adequate to treat mild to moderate non-exfoliative rashes.
 Withhold or permanently discontinue OPDIVO depending on severity [see Dosage and Administration (2.3)].
 
-OPDIVO as a Single Agent
+#### OPDIVO as a Single Agent
 
 Immune-mediated rash occurred in 9% (171/1994) of patients, including Grade 3 (1.1%) and Grade 2 (2.2%) adverse reactions.
 Immune-mediated rash led to permanent discontinuation of OPDIVO in 0.3% and withholding of OPDIVO in 0.5% of patients.
@@ -324,7 +324,7 @@ Systemic corticosteroids were required in 100% (171/171) of patients with immune
 Rash resolved in 72% of the 171 patients.
 Of the 10 patients in whom OPDIVO was withheld for immune-mediated rash, 9 reinitiated OPDIVO after symptom improvement; of these, 3 (33%) had recurrence of immune-mediated rash.
 
-OPDIVO with Ipilimumab
+#### OPDIVO with Ipilimumab
 
 OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg: Immune-mediated rash occurred in 28% (127/456) of patients with melanoma or HCC receiving OPDIVO 1 mg/kg with ipilimumab 3 mg/kg every 3 weeks, including Grade 3 (4.8%) and Grade 2 (10%) adverse reactions.
 Immune-mediated rash led to permanent discontinuation of OPDIVO with ipilimumab in 0.4% and withholding of OPDIVO with ipilimumab in 3.9% of patients.
@@ -364,7 +364,7 @@ Other (Hematologic/Immune): Hemolytic anemia, aplastic anemia, hemophagocytic ly
 
 ## 5.2 Infusion-Related Reactions
 
-OPDIVO can cause severe infusion-related reactions, which have been reported in <1.0% of patients in clinical trials.
+OPDIVO can cause severe infusion-related reactions, which have been reported in <1% of patients in clinical trials.
 Discontinue OPDIVO in patients with severe or life-threatening infusion-related reactions.
 Interrupt or slow the rate of infusion in patients with mild or moderate infusion-related reactions [see Dosage and Administration (2.3)].
 
