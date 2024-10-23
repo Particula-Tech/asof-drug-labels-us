@@ -5,6 +5,8 @@
   "inn": "dextromethorphan",
   "labeler": "Chartwell RX, LLC",
   "package_ndcs": [
+    "62135-302-05",
+    "62135-302-24",
     "62135-302-47",
     "62135-302-48"
   ],

@@ -6,6 +6,10 @@ Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hyd
 
 16 fl oz (473 mL) NDC 62135-302-47
 
+5 mL Unit Dose Cup NDC 62135-302-05
+
+20 Unit Dose Cups of 5 mL each NDC 62135-302-24
+
 RECOMMENDED STORAGE
 
 Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
@@ -22,4 +26,5 @@ Congers, NY 10920
 
 L71079
 
-Revised 01/2023
+Rev.
+10/2024
