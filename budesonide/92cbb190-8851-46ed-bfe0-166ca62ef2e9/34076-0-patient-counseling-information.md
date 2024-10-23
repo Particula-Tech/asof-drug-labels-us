@@ -13,12 +13,11 @@ Taper slowly from systemic corticosteroids if transferring to UCERIS extended-re
 Immunosuppression and Increased Risk of Infection
 
 Advise patients to avoid exposure to people with varicella (chicken pox) or measles.
-Advise patients to inform their healthcare provider if they are exposed to varicella or measles or develop a new or worsening infection.
-[seeWarnings and Precautions (5.3)]
+Advise patients to inform their healthcare provider if they are exposed to varicella or measles or develop a new or worsening infection [see Warnings and Precautions (5.3)].
 
 Kaposi’s Sarcoma
 
-Advise patients that Kaposi’s sarcoma has been reported in patients receiving corticosteroids for chronic conditions and to inform their healthcare provider if they experience signs or symptoms of Kaposi’s sarcoma [seeWarnings and Precautions (5.4)].
+Advise patients that Kaposi’s sarcoma has been reported in patients receiving corticosteroids for chronic conditions and to inform their healthcare provider if they experience signs or symptoms of Kaposi’s sarcoma [see Warnings and Precautions (5.4)].
 
 How to Take UCERIS Extended-Release Tablets
 
@@ -44,7 +43,7 @@ Manufactured by:
 
 Cosmo S.p.A.
 
-Milan, 20020 Italy
+Milan, 20045 Italy
 
 By license of Cosmo Technologies Ltd., Dublin, Ireland
 

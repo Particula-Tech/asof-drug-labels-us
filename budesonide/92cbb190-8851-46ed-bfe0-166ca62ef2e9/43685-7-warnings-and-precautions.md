@@ -23,11 +23,11 @@ Replacement of systemic glucocorticosteroids with UCERIS tablets may unmask alle
 Corticosteroids, including UCERIS, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
 Corticosteroids can:
 
-- •Reduce resistance to new infections
-- •Exacerbate existing infections
-- •Increase the risk of disseminated infections
-- •Increase the risk of reactivation or exacerbation of latent infections
-- •Mask some signs of infection
+- Reduce resistance to new infections
+- Exacerbate existing infections
+- Increase the risk of disseminated infections
+- Increase the risk of reactivation or exacerbation of latent infections
+- Mask some signs of infection
 
 Corticosteroid-associated infections can be mild but can be severe and at times fatal.
 The rate of infectious complications increases with increasing corticosteroid dosages.
@@ -45,9 +45,9 @@ Varicella Zoster and Measles Viral Infections
 Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including UCERIS.
 In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
 
-- •If a UCERIS-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
+- If a UCERIS-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
   If varicella develops, treatment with antiviral agents may be considered.
-- •If a UCERIS-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
+- If a UCERIS-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
 
 Hepatitis B Virus Reactivation
 
@@ -83,7 +83,7 @@ Discontinuation of corticosteroids may result in clinical improvement of Kaposi�
 
 ## 5.5 Increased Systemic Glucocorticoid Susceptibility
 
-Reduced liver function affects the elimination of glucocorticosteroids, and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis [seeUse in Specific Populations (8.6)].
+Reduced liver function affects the elimination of glucocorticosteroids, and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis [see Use in Specific Populations (8.6)].
 
 ## 5.6 Other Glucocorticosteroid Effects
 

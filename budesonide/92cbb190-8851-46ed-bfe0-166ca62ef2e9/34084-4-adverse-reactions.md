@@ -2,12 +2,12 @@
 
 Systemic glucocorticosteroid use may result in the following:
 
-- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
-- •Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
-- •Immunosuppression and Increased Risk of Infection [see Warnings and Precautions (5.3)]
-- •Kaposi’s Sarcoma [see Warnings and Precautions (5.4)]
-- •Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.5)]
-- •Other Glucocorticosteroid Effects [see Warnings and Precautions (5.6)]
+- Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
+- Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
+- Immunosuppression and Increased Risk of Infection [see Warnings and Precautions (5.3)]
+- Kaposi’s Sarcoma [see Warnings and Precautions (5.4)]
+- Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.5)]
+- Other Glucocorticosteroid Effects [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,8 +20,7 @@ They ranged in age from 18-77 years (mean=43), 56% were male, and 75% were Cauca
 The most common adverse reactions were headache, nausea, decreased blood cortisol, upper abdominal pain, fatigue, flatulence, abdominal distension, acne, urinary tract infection, arthralgia, and constipation.
 The adverse reactions occurring in 2% or more of patients on therapy with UCERIS 9 mg are summarized in Table 1.
 
-Table 1.
-Summary of Adverse Reactions in Two Placebo-Controlled Trials Experienced by at Least 2% of the UCERIS 9 mg Group (Studies 1 and 2)
+Table 1: Summary of Adverse Reactions in Two Placebo-Controlled Trials Experienced by at Least 2% of the UCERIS 9 mg Group (Studies 1 and 2)
 
 |  | UCERIS 9 mg (N=255) n (%) | UCERIS 6 mg (N=254) n (%) | Placebo (N=258) n (%) |
 | --- | --- | --- | --- |
@@ -41,8 +40,7 @@ Of UCERIS 9 mg patients, a total of 15% discontinued treatment due to any advers
 
 Table 2 summarizes the percentages of patients reporting glucocorticoid-related effects in the 2 placebo-controlled studies.
 
-Table 2.
-Summary of Glucocorticoid-Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
+Table 2: Summary of Glucocorticoid-Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
 
 |  | UCERIS 9 mg (N=255) n (%) | UCERIS 6 mg (N=254) n (%) | Placebo (N=258) n (%) |
 | --- | --- | --- | --- |
@@ -69,8 +67,7 @@ After up to 12 months of study treatment, 77% (27/35) of the patients in the UCE
 
 In Study 4, the glucocorticoid-related effects were similar in patients with up to 12 months of therapy with UCERIS 6 mg and placebo (Table 3).
 
-Table 3.
-Summary of Glucocorticoid-Related Effects Over 12-Month Treatment (Study 4)
+Table 3: Summary of Glucocorticoid-Related Effects Over 12-Month Treatment (Study 4)
 
 |  | UCERIS 6 mg (N=62) n (%) | Placebo (N=61) n (%) |
 | --- | --- | --- |
@@ -92,16 +89,16 @@ These events have been chosen for inclusion due to either their seriousness, fre
 
 Gastrointestinal Disorders: diarrhea, rectal bleeding
 
-General Disorders and Administrative Site Conditions: peripheral edema
+General Disorders and Administrative Site Conditions:peripheral edema
 
-Immune System Disorders: anaphylactic reactions
+Immune System Disorders:anaphylactic reactions
 
-Musculoskeletal and Connective Tissue Disorders: muscle cramps/spasms
+Musculoskeletal and Connective Tissue Disorders:muscle cramps/spasms
 
-Nervous System Disorders: benign intracranial hypertension, dizziness
+Nervous System Disorders:benign intracranial hypertension, dizziness
 
-Psychiatric Disorders: mood swings
+Psychiatric Disorders:mood swings
 
-Skin and Subcutaneous Tissue Disorders: rash
+Skin and Subcutaneous Tissue Disorders:rash
 
-Vascular Disorders: increased blood pressure
+Vascular Disorders:increased blood pressure

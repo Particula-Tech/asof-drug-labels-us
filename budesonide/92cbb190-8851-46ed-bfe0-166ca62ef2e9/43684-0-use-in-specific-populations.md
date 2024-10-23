@@ -5,8 +5,7 @@
 Risk Summary
 
 Limited published studies report on the use of budesonide in pregnant women; however, the data are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
-There are clinical considerations (see Clinical Considerations).
-In animal reproduction studies with pregnant rats and rabbits, subcutaneous administration of budesonide during organogenesis at doses 0.5 times and 0.05 times, respectively, the maximum recommended human dose, resulted in increased fetal loss, decreased pup weights, and skeletal abnormalities.
+There are clinical considerations (see Clinical Considerations).In animal reproduction studies with pregnant rats and rabbits, subcutaneous administration of budesonide during organogenesis at doses 0.5 times and 0.05 times, respectively, the maximum recommended human dose, resulted in increased fetal loss, decreased pup weights, and skeletal abnormalities.
 Maternal toxicity was observed in both rats and rabbits at these dose levels (see Data).
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 The estimated background risk of major birth defects and miscarriage of the indicated population is unknown.
@@ -35,8 +34,8 @@ In an embryofetal development study in pregnant rabbits dosed during the period 
 Maternal toxicity, including reduction in body weight gain, was observed at subcutaneous doses of 5 mcg/kg in rabbits (approximately 0.01 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats
 
 (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
-In a peri-and postnatal development study, rats dosed subcutaneously with budesonide during the period of Day 15 post coitum to Day 21 postpartum, budesonide had no effects on delivery but did have an effect on growth and development of offspring.
-In addition, offspring survival was reduced, and surviving offspring had decreased mean body weights at birth and during lactation at exposures 0.02 times the MRHD (on a mg/m2 basis at maternal subcutaneous doses of 20 mcg/kg/day and higher).
+In a peri- and postnatal development study, rats dosed subcutaneously with budesonide during the period of Day 15 post coitum to Day 21 postpartum, budesonide had no effects on delivery but did have an effect on growth and development of offspring.
+In addition, offspring survival was reduced, and surviving offspring had decreased mean body weights at birth and during lactation at exposures 0.02 times the MRHD (on a mg/m 2basis at maternal subcutaneous doses of 20 mcg/kg/day and higher).
 These findings occurred in the presence of maternal toxicity.
 
 ## 8.2 Lactation
@@ -52,7 +51,7 @@ Data
 One published study reports that budesonide is present in human milk following maternal inhalation of budesonide which resulted in infant doses approximately 0.3% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.4 and 0.5.
 Budesonide plasma concentrations were not detected, and no adverse events were noted in the breastfed infants following maternal use of inhaled budesonide.
 The recommended daily dose of UCERIS is higher (9 mg daily) compared with inhaled budesonide (up to 800 mcg daily) given to mothers in the above described study.
-The maximum budesonide plasma concentration following a 9 mg daily dose (in both single-and repeated-dose pharmacokinetic studies) of oral budesonide is approximately 5 to 10 nmol/L which is up to 10 times higher than the 1 to 2 nmol/L for a 800 mcg daily dose of inhaled budesonide at steady state in the above inhalation study.
+The maximum budesonide plasma concentration following a 9 mg daily dose (in both single- and repeated-dose pharmacokinetic studies) of oral budesonide is approximately 5 to 10 nmol/L which is up to 10 times higher than the 1 to 2 nmol/L for a 800 mcg daily dose of inhaled budesonide at steady state in the above inhalation study.
 Assuming the coefficient of extrapolation between the inhaled and oral doses is constant across all dose levels, at therapeutic doses of UCERIS, budesonide exposure to the nursing child may be up to 10 times higher than that by budesonide inhalation.
 
 ## 8.4 Pediatric Use
@@ -69,4 +68,4 @@ In general, UCERIS should be used cautiously in elderly patients due to the pote
 ## 8.6 Hepatic Impairment
 
 Patients with moderate to severe liver disease should be monitored for increased signs and/or symptoms of hypercorticism.
-Discontinuing the use of UCERIS tablets should be considered in these patients [see Warnings and Precautions (5.5)].
+Discontinuing the use of UCERIS tablets should be considered in these patients [see Warnings and Precautions(5.5)].

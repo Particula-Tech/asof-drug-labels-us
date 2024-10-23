@@ -18,8 +18,7 @@ The primary endpoint was induction of remission after 8 weeks of treatment.
 Remission was defined as a UCDAI score of ≤1, with subscores of 0 for rectal bleeding, stool frequency, and mucosal appearance and with a ≥1 point reduction in an endoscopy-only score.
 In both studies, UCERIS 9 mg extended-release tablets demonstrated superiority to placebo in inducing remission (Table 4).
 
-Table 4.
-Induction of Remission in Studies 1 and 2 Treatment Group
+Table 4: Induction of Remission in Studies 1 and 2 Treatment Group
 
 | Treatment Group | Study 1 n/N (%) | Study 2 n/N (%) |
 | --- | --- | --- |
@@ -27,7 +26,7 @@ Induction of Remission in Studies 1 and 2 Treatment Group
 | UCERIS 6 mg | 16/121 (13.2) | 9/109 (8.3) |
 | Reference arm* | 15/124 (12.1) | 13/103 (12.6) |
 | Placebo | 9/121 (7.4) | 4/89 (4.5) |
-| Treatment difference between UCERIS 9 mg and placebo (95% CI)† | 10.4% (2.2%, 18.7%) | 12.9% (4.6%, 21.3%) |
+| Treatment difference between UCERIS 9 mg and placebo (95% CI) † | 10.4% (2.2%, 18.7%) | 12.9% (4.6%, 21.3%) |
 
 The primary analysis population included only patients that had histology consistent with active UC.
 

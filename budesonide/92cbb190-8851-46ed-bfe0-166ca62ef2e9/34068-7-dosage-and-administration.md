@@ -3,7 +3,7 @@
 ## 2.1 Mild to Moderate Ulcerative Colitis
 
 The recommended dosage for the induction of remission in adult patients with active, mild to moderate ulcerative colitis is 9 mg taken orally once daily in the morning with or without food for up to 8 weeks.
-UCERIS should be swallowed whole and not chewed, crushed or broken.
+UCERIS should be swallowed whole and not chewed or crushed.
 
 ## 2.2 CYP3A4 Inhibitors
 
