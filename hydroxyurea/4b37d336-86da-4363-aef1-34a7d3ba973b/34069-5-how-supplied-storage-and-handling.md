@@ -2,8 +2,8 @@
 
 ## 16.1 How Supplied
 
-XROMI (hydroxyurea) 100 mg/mL is a colorless to pale yellow liquid supplied in an Amber type III glass bottle with tamper evident child-resistant closure (HDPE with expanded polyethylene liner) containing 150 mL of oral solution.
-Each carton NDC 62484-0015-2 contains 1 bottle XROMI NDC 62484-0015-1, an LDPE bottle adaptor and 2 oral dosing syringes (a red oral dosing syringe graduated to 3 mL and a white oral dosing syringe graduated to 12 mL).
+XROMI (hydroxyurea) 100 mg/mL is a colorless to pale yellow liquid supplied in an Amber type III glass bottle with tamper evident child-resistant closure (HDPE with expanded polyethylene liner) containing 148 mL of oral solution.
+Each carton NDC 62484-0015-5 contains 1 bottle XROMI NDC 62484-0015-4, an LDPE bottle adaptor and 2 oral dosing syringes (one oral dosing syringe graduated to 3 mL and one oral dosing syringe graduated to 10 mL).
 
 ## 16.2 Storage
 
