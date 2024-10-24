@@ -7,7 +7,7 @@
 Available data from published observational studies, case reports, and postmarketing reports, from decades of use, have not demonstrated a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes with furosemide use during pregnancy.
 Untreated congestive heart failure and cirrhosis of the liver can lead to adverse outcomes for the mother and the fetus (see Clinical Considerations).
 
-In animal reproduction studies, furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits. when administered orally during organogenesis at 4 times a human i.v. dose of 80 mg based on body surface area (BSA) and oral bioavailability corrections, presumably secondary to volume depletion (see Data).
+In animal reproduction studies, furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits when administered orally during organogenesis at 4 times a human i.v. dose of 80 mg based on body surface area (BSA) and oral bioavailability corrections, presumably secondary to volume depletion (see Data).
 
 The estimated background risk for major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
