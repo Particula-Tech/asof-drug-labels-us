@@ -16,9 +16,9 @@ Dispense in a tight, light-resistant container.
 
 Manufactured in Slovenia
 
-by Novartis Pharmaceutical Manufacturing LLC
+by Novartis d.o.o.
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-March 2024
+June 2024
