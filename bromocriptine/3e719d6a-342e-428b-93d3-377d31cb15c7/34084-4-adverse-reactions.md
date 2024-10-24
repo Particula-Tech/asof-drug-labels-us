@@ -15,7 +15,7 @@ The CYCLOSET safety trial was a 52-week, placebo-controlled study.
 A total of 3,070 patients were randomized to CYCLOSET (titrated to 1.6 to 4.8 mg daily, as tolerated) or placebo.
 The study population had a mean baseline age of 60 years (range 27-80) and 33% were 65 years of age or older.
 Approximately 43% of the patients were female, 68% were Caucasian, 17% were Black, 13% were Hispanic, and 1% were Asian.
-The mean baseline body mass index was 32 kg/m2.
+The mean baseline body mass index was 32 kg/m 2.
 The mean duration of diabetes at baseline was 8 years, and the mean baseline HbA1c was 7.0% with a mean baseline fasting plasma glucose of 142 mg/dL.
 At baseline, 12% of patients were treated with diet only, 40% were treated with one oral antidiabetic agent, 33% were treated with two oral antidiabetic agents, and 16% were treated with insulin alone or insulin in combination with an oral antidiabetic agent.
 At baseline, 76% of patients reported a history of hypercholesterolemia, 75% reported a history of hypertension, 11% reported a history of revascularization surgery, 10% reported a history of myocardial infarction, 10% reported a history of angina, and 5% reported a history of stroke.
@@ -27,7 +27,7 @@ There were no differences in the pattern of common adverse reactions across race
 In the 52-week CYCLOSET safety trial, 11.5% of CYCLOSET-treated women compared to 3.6% of placebo-treated women reported vomiting.
 In this same trial, 5.4% of CYCLOSET-treated men compared to 2.8% of placebo-treated men reported vomiting.
 
-Table 1: Adverse Reactions Occurring in ≥5% in CYCLOSET-Treated Patients and More Frequent than in Placebo in CYCLOSET Clinical TrialsAll randomized subjects receiving at least one dose of study drug
+Table 1: Adverse Reactions Occurring in ≥5% in CYCLOSET-Treated Patients and More Frequent than in Placebo in CYCLOSET Clinical Trials All randomized subjects receiving at least one dose of study drug
 
 | Monotherapy | CYCLOSET 1.6 mg – 4.8 mg N (%) | Placebo N (%) |
 | --- | --- | --- |

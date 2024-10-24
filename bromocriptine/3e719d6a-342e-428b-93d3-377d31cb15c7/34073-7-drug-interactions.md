@@ -16,4 +16,4 @@
 - There are postmarketing reports of hypertension and tachycardia when bromocriptine was co-administered with sympathomimetic drugs (e.g., phenylpropanolamine and isometheptene) in postpartum women.
   There are limited clinical trial data supporting the safety of co-administering sympathomimetic drugs and CYCLOSET for more than 10 days.
   Therefore, concomitant use of these agents with CYCLOSET for more than 10 days duration is not recommended.
-  Also, there are limited clinical trial data supporting the safety of selective 5-hydroxytryptamine1B (5-HT1B) agonists (e.g., sumatriptan) used concurrently with CYCLOSET, and the concomitant use of these agents with CYCLOSET should be avoided.
+  Also, there are limited clinical trial data supporting the safety of selective 5-hydroxytryptamine 1B(5-HT 1B) agonists (e.g., sumatriptan) used concurrently with CYCLOSET, and the concomitant use of these agents with CYCLOSET should be avoided.

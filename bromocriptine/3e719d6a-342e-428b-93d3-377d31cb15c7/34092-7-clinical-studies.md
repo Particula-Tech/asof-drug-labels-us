@@ -9,7 +9,7 @@ In patients with type 2 diabetes, treatment with CYCLOSET produced clinically si
 
 ## 14.1 Monotherapy
 
-A total of 159 adults with type 2 diabetes, overweight (body mass index ≥26.0 kg/m2 for males and ≥28.0 kg/m2 for females), and inadequate glycemic control (HbA1c 7.5-11%) participated in a 24-week, placebo-controlled, monotherapy trial that evaluated the efficacy and safety of CYCLOSET as an adjunct to diet and exercise.
+A total of 159 adults with type 2 diabetes, overweight (body mass index ≥26.0 kg/m 2for males and ≥28.0 kg/m 2for females), and inadequate glycemic control (HbA1c 7.5-11%) participated in a 24-week, placebo-controlled, monotherapy trial that evaluated the efficacy and safety of CYCLOSET as an adjunct to diet and exercise.
 Mean body weight at baseline was 93 kg in the CYCLOSET group and 96 kg in the placebo group.
 Mean HbA1c at baseline was 9.0% in the CYCLOSET group and 8.8% in the placebo group.
 Mean duration of diabetes at baseline was 5 years in the CYCLOSET group and 4 years in the placebo group.
@@ -17,18 +17,18 @@ Of the 80 patients in the CYCLOSET group, 69% (N = 55) achieved the maximum dail
 CYCLOSET improved HbA1c and fasting plasma glucose compared to placebo (Table 2).
 Mean change from baseline in body weight was +0.2 kg in the CYCLOSET group (N = 78) and +0.5 kg in the placebo group (N = 77).
 
-Table 2: Changes in Glycemic Parameters in a 24-Week Placebo-Controlled Study of CYCLOSET as Monotherapy in Patients with Type 2 Diabetesintent-to-treat population with last observation carried forward
+Table 2: Changes in Glycemic Parameters in a 24-Week Placebo-Controlled Study of CYCLOSET as Monotherapy in Patients with Type 2 Diabetes intent-to-treat population with last observation carried forward
 
 |  | CYCLOSET N = 80 (1.6 - 4.8 mg) | Placebo N = 79 |
 | --- | --- | --- |
 | HbA1c (%) | N = 74 | N = 74 |
 | Baseline (mean) | 9.0 | 8.8 |
 | Change from baseline (adj. mean) | -0.1 | 0.3 |
-| Difference from placebo (adj. mean) | -0.4p = 0.05, |  |
+| Difference from placebo (adj. mean) | -0.4 p = 0.05, |  |
 | Fasting Plasma Glucose (mg/dL) | N = 76 | N = 75 |
 | Baseline (mean) | 215 | 205 |
 | Change from baseline (adj. mean) | 0 | 23 |
-| Difference from placebo (adj. mean) | -23p = 0.005 |  |
+| Difference from placebo (adj. mean) | -23 p = 0.005 |  |
 | P-value calculated by ANOVA; |  |  |
 
 ## 14.2 Combination Therapy
@@ -37,12 +37,12 @@ CYCLOSET Add-on to Sulfonylurea Therapy
 
 Patients with type 2 diabetes and inadequate glycemic control (HbA1c 7.8-12.5%) on sulfonylurea therapy (mean HbA1c 9.4%) participated in Study L, a 24-week, randomized, double-blind, placebo-controlled trial that evaluated the safety and glycemic efficacy of CYCLOSET when added to stable sulfonylurea therapy.
 The mean duration of diabetes was 6 years in the CYCLOSET group and 8 years in the placebo group.
-The range of body mass index was 26-40 kg/m2 for men and 28-40 kg/m2 for women, with a mean of 32 kg/m2 in both treatment groups.
+The range of body mass index was 26-40 kg/m 2for men and 28-40 kg/m 2for women, with a mean of 32 kg/m 2in both treatment groups.
 Of the 122 patients in the CYCLOSET group, 83 (68%) achieved the maximum dose of study drug.
 The mean change from baseline in body weight was +0.9 kg in the CYCLOSET group and +0.5 kg in the placebo group.
 
 In another similarly designed trial, Study K, patients with type 2 diabetes and inadequate glycemic control (HbA1c 7.8-12.5 %) on stable sulfonylurea therapy were randomized to add-on therapy with either CYCLOSET (N = 122) or placebo (N = 123).
-The range of body mass index was 26-40 kg/m2 for men and 28-40 kg/m2 for women, with a mean of 32 kg/m2 in the CYCLOSET group and 33 kg/m2 in the placebo group.
+The range of body mass index was 26-40 kg/m 2for men and 28-40 kg/m 2for women, with a mean of 32 kg/m 2in the CYCLOSET group and 33 kg/m 2in the placebo group.
 Of the 122 patients in the CYCLOSET group, 91 (75%) achieved the maximum dose of study drug.
 Mean change from baseline in body weight was +1.4 kg in the CYCLOSET group and +0.5 kg in the placebo group.
 CYCLOSET improved HbA1c and fasting blood glucose concentrations compared to placebo (Table 3).
@@ -55,11 +55,11 @@ Table 3: Changes in Glycemic Parameters for CYCLOSET Versus Placebo in Two Add-o
 | HbA1c (%) | n = 114 | n = 122 | n = 114 | n = 123 |
 | Baseline (mean) | 9.3 | 9.4 | 9.3 | 9.4 |
 | Change from baseline (adj. mean) | -0.1 | 0.4 | -0.4 | 0.3 |
-| Difference from placebo (adj. mean) | -0.5p≤ 0.001, |  | -0.6 |  |
+| Difference from placebo (adj. mean) | -0.5 p≤ 0.001, |  | -0.6 |  |
 | Fasting Plasma Glucose (mg/dL) | n = 116 | n = 119 | n = 113 | n = 123 |
 | Baseline (mean) | 216 | 227 | 220 | 226 |
 | Change from baseline (adj. mean) | 10 | 28 | 3 | 23 |
-| Difference from placebo (adj. mean) | -18p = 0.02; |  | -20p = 0.006 |  |
+| Difference from placebo (adj. mean) | -18 p = 0.02; |  | -20 p = 0.006 |  |
 | P-value calculated by ANOVA; |  |  |  |  |
 
 CYCLOSET Add-on to Various Oral Antidiabetic Agents
@@ -76,7 +76,7 @@ Patients receiving CYCLOSET, compared to placebo, experienced a significant impr
 The mean change in body weight for the glycemic efficacy subgroup (N = 559) from baseline to week 24 was -0.1 kg with CYCLOSET and +0.1 kg.
 The mean change in body weight for the entire study population (N = 3070) from baseline to week 52 was +0.2 kg with CYCLOSET and +0.1 kg with placebo.
 
-Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial Subgroup of Patients with Type 2 Diabetes and Inadequate Glycemic Control (Baseline HbA1c ≥7.5%) on 1-2 Oral Antidiabetic Medicationsintent-to-treat population using last observation carried forward between-group change from baseline in HbA1c
+Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial Subgroup of Patients with Type 2 Diabetes and Inadequate Glycemic Control (Baseline HbA1c ≥7.5%) on 1-2 Oral Antidiabetic Medications intent-to-treat population using last observation carried forward between-group change from baseline in HbA1c
 
 |  | CYCLOSET | Placebo |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial 
 | HbA1c (%) |  |  |
 | Baseline mean | 8.3 | 8.4 |
 | Change from baseline (adjusted mean) | -0.4 | 0.0 |
-| Difference from placebo (adjusted mean) | -0.5p<0.001 |  |
+| Difference from placebo (adjusted mean) | -0.5 p<0.001 |  |
 | % Patients achieving HbA1c of ≤7.0 | 25 | 9 |
 | Adjunct to Metformin + Sulfonylurea Onlypatients in the "metformin + sulfonylurea only" subgroup are also counted in the "adjunct to 1-2 oral antidiabetic medications" subgroup | N = 177 | N = 90 |
 | HbA1c (%) |  |  |

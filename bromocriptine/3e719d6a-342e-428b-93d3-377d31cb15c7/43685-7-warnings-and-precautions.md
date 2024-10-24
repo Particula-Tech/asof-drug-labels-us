@@ -48,6 +48,6 @@ Concomitant use is not recommended.
 ## 5.7 Risks in Postpartum Patients
 
 CYCLOSET is contraindicated in postpartum patients.
-Serious and life-threatening adverse reactions including hypertension, myocardial infarction, seizures, stroke and psychosis have been reported postmarketing in postpartum women who were administered bromocriptine for inhibition of lactation [see Adverse Reactions (6.2)].
+Serious and life-threatening adverse reactions including hypertension, myocardial infarction, seizures, stroke and psychosis have been reported postmarketing in postpartum women who were administered bromocriptine for inhibition of lactation [seeAdverse Reactions (6.2)].
 These risks may be higher in postpartum patients with cardiovascular disease.
 The indication for use of bromocriptine for inhibition of postpartum lactation was withdrawn from bromocriptine-containing products and is not approved for CYCLOSET.
