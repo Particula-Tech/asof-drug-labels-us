@@ -42,52 +42,45 @@ However, a lactating woman may consider interrupting breastfeeding and pumping a
 
 Intrathecal Use
 
-The safety and effectiveness of OMNIPAQUE 180 have been established in pediatric patients 2 weeks to 17 years of age for myelography (lumbar, thoracic, cervical, total columnar) and for CT (myelography, cisternography).
-Use of OMNIPAQUE 180 is supported by controlled clinical studies in adults for myelography, in addition to clinical studies in pediatric patients undergoing myelography.
-The safety and effectiveness of OMNIPAQUE 180 have not been established for intrathecal use in patient pediatric patients less than 2 weeks of age.
-The safety and effectiveness of OMNIPAQUE 240 and 300 have not been established in pediatric patients for myelography (lumbar, thoracic, cervical, total columnar) and for CT (myelography, cisternography, or ventriculography).
+The safety and effectiveness of OMNIPAQUE have been established in pediatric patients aged 2 weeks and older for myelography and CT myelography (lumbar, thoracic, cervical, total columnar) and for CT cisternography.
+Use of OMNIPAQUE is supported by controlled clinical studies in adults for myelography, in addition to clinical studies in pediatric patients undergoing myelography.
 
-Intravascular Use
+The safety and effectiveness of OMNIPAQUE have not been established for intrathecal use in pediatric patients less than 2 weeks of age.
 
-Angiocardiography (Ventriculography, Pulmonary Arteriography, Venography, and Studies of the Collateral Arteries) and Aortography
+The safety and effectiveness of OMNIPAQUE for CT cerebral ventriculography have not been established in pediatric patients.
 
-The safety and effectiveness of OMNIPAQUE 300 have been established in pediatric patients from birth to 17 years of age for angiocardiography (ventriculography) and of OMNIPAQUE 350 in pediatric patients from birth to 17 years of age for angiocardiography (ventriculography, pulmonary arteriography, venography, and studies of the collateral arteries) and aortography.
-Use of OMNIPAQUE 300 and 350 is supported by controlled clinical studies in adults for angiocardiography and aortography, in addition to controlled clinical studies in pediatric patients undergoing angiocardiography, including aortography.
-The safety and effectiveness of OMNIPAQUE 300 have not been established in pediatric patients for aortography.
+Intra-arterial or Intravenous Use
 
-Intra-arterial Digital Subtraction Angiography, Intravenous Digital Subtraction Angiography, Cerebral Arteriography, or Peripheral Arteriography and Venography
+Cardiac Ventriculography, Aortography, and Pulmonary Angiography
 
-The safety and effectiveness of OMNIPAQUE have not been established in pediatric patients for intra-arterial digital subtraction angiography, intravenous digital subtraction angiography, cerebral arteriography, or peripheral arteriography and venography.
+The safety and effectiveness of OMNIPAQUE have been established in pediatric patients from birth to 17 years of age for cardiac ventriculography, aortography, and pulmonary angiography.
+Use of OMNIPAQUE is supported by controlled clinical studies in adults for cardiac ventriculography and aortography, in addition to controlled clinical studies in pediatric patients undergoing cardiac ventriculography, including aortography.
+
+Excretory Urography
+
+The safety and effectiveness of OMNIPQUE have been established in pediatric patients from birth to 17 years of age for excretory urography.
+Use of OMNIPAQUE is supported by controlled clinical studies in adults for urography, in addition to controlled clinical studies in pediatric patients undergoing urography and clinical safety data in pediatric patients down to birth.
 
 CT of the Head and Body
 
-The safety and effectiveness of OMNIPAQUE 240 and 300 have been established in pediatric patients from birth to 17 years of age for CT imaging of the head and body.
-Use of OMNIPAQUE 240 and 300 is supported by controlled clinical studies in adults for head and body CT, in addition to clinical studies in pediatric patients undergoing head CT and in 69 pediatric patients undergoing CT of the abdomen after oral administration of diluted OMNIPAQUE plus intravenous administration of OMNIPAQUE.
-The safety and effectiveness of OMNIPAQUE 350 have not been established in pediatric patients for CT imaging of the head and body.
+The safety and effectiveness of OMNIPAQUE have been established in pediatric patients from birth to 17 years of age for CT imaging of the head and body.
+Use of OMNIPAQUE is supported by controlled clinical studies in adults for head and body CT, in addition to clinical studies in pediatric patients undergoing head CT and in 69 pediatric patients undergoing CT of the abdomen after oral administration of diluted OMNIPAQUE plus intravenous administration of OMNIPAQUE.
 
-Urography
+Selective Coronary Arteriography, Cerebral and Peripheral Arteriography, Intra-arterial Digital Subtraction Angiography, Peripheral Venography, and Intravenous Digital Subtraction Angiography
 
-The safety and effectiveness of OMNIPQUE 300 have been established in pediatric patients from birth to 17 years of age for urography.
-Use of OMNIPAQUE 300 is supported by controlled clinical studies in adults for urography, in addition to controlled clinical studies in pediatric patients undergoing urography and clinical safety data in pediatric patients down to birth.
+The safety and effectiveness of OMNIPAQUE have not been established in pediatric patients for selective coronary arteriography, cerebral or peripheral arteriography, intra-arterial digital subtraction angiography, peripheral venography, and intravenous digital subtraction angiography.
 
 Oral or Rectal Use
 
-Undiluted OMNIPAQUE Injection
+Examination of the GI Tract
 
-The safety and effectiveness of OMNIPAQUE 180, 240, and 300 administered orally and rectally have been established in pediatric patients, from birth to 17 years of age for examination of the GI tract.
-Use of OMNIPAQUE 180, 240, and 300 administered orally and rectally is supported by controlled studies in adults for examination of the GI tract, in addition to clinical studies in pediatric patients undergoing examination of the GI tract.
+The safety and effectiveness of OMNIPAQUE have been established in pediatric patients, from birth to 17 years of age for examination of the GI tract.
+Use of OMNIPAQUE is supported by controlled studies in adults for examination of the GI tract, in addition to clinical studies in pediatric patients undergoing examination of the GI tract.
 
-Oral Use in Conjunction with Intravenous Use
+CT of the Abdomen and Pelvis in Conjunction with Intravenous Use
 
-Diluted OMNIPAQUE Injection
-
-The safety and effectiveness of OMNIPAQUE injection diluted to concentrations from 9 to 21 mg iodine/mL administered orally in conjunction with OMNIPAQUE injection administered intravenously for CT of the abdomen have been established in pediatric patients from birth to 17 years of age.
-Use is supported by clinical trials in adults, in addition to clinical studies in 69 pediatric patients undergoing CT of the abdomen after oral administration of diluted OMNIPAQUE plus intravenous administration of OMNIPAQUE.
-
-OMNIPAQUE Oral Solution
-
-The safety and effectiveness of OMNIPAQUE oral solution 9 and 12 administered orally in conjunction with OMNIPAQUE injection administered intravenously for CT of the abdomen in pediatric patients have been established in pediatric patients from birth to 17 years of age.
-Use is supported by the data establishing safety and effectiveness for OMNIPAQUE injection diluted and administered orally in conjunction with OMNIPAQUE injection administered intravenously for CT of the abdomen in pediatric patients.
+The safety and effectiveness of OMNIPAQUE for CT of the abdomen and pelvis have been established in pediatric patients from birth to 17 years of age.
+Use is supported by clinical trials in adults, in addition to clinical studies in 69 pediatric patients undergoing CT of the abdomen.
 
 Intraarticular Use
 
@@ -95,8 +88,13 @@ The safety and effectiveness of OMNIPAQUE have not been established in pediatric
 
 Body Cavity Use
 
-OMNIPAQUE 240, 300, 350 diluted to concentrations from 50 mg iodine/mL to 100 mg iodine/mL is indicated for use in pediatric patients from birth to 17 years of age for voiding cystourethrography (VCU).
-The use for voiding cystourethrography is supported by clinical studies in 51 pediatric patients undergoing VCU.
+Voiding Cystourethrography
+
+OMNIPAQUE is indicated for use in pediatric patients from birth to 17 years of age for voiding cystourethrography (VCU).
+Use for voiding cystourethrography is supported by clinical studies in 51 pediatric patients undergoing VCU.
+
+ERCP, Herniography, and Hysterosalpingography
+
 The safety and effectiveness of OMNIPAQUE have not been established in pediatric patients for ERCP, herniography, or hysterosalpingography.
 
 In general, the frequency of adverse reactions in pediatric patients was similar to that seen in adults [see Adverse Reactions (6.1)].
@@ -108,7 +106,15 @@ After exposure to iodinated contrast media, individualize thyroid function monit
 
 ## 8.5 Geriatric Use
 
-In clinical studies of OMNIPAQUE for CT, 52/299 (17%) of patients were 70 and over.
+In clinical studies of OMNIPAQUE for CT of the head and body, 52 (17%) of patients were 70 and over.
 No overall differences in safety were observed between these patients and younger patients.
-Other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-In general, dose selection for an elderly patient should be cautious usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+Other reported clinical experience has not identified differences in safety and effectiveness between the elderly and younger patients.
+
+Iohexol is substantially excreted by the kidney, and the risk of adverse reactions to iohexol may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+## 8.6 Renal Impairment
+
+The clearance of iohexol decreases with increasing degree of renal impairment and results in delayed opacification of the urinary system.
+In addition, preexisting renal impairment increases the risk for acute kidney injury [see Warnings and Precautions (5.4)].
+Iohexol can be removed by dialysis.

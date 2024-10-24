@@ -1,46 +1,45 @@
 # 11 DESCRIPTION
 
-## 11.1 Chemical Characteristics
+Iohexol is a nonionic radiographic contrast agent available as:
 
-OMNIPAQUE (iohexol) injection is a nonionic, x-ray or radiographic contrast medium for intrathecal, intravenous, oral, rectal and body cavity use.
-OMNIPAQUE oral solution is for oral use only.
+- OMNIPAQUE (iohexol) injection for intrathecal, intra-arterial, intravenous, oral, rectal, intraarticular, and body cavity use
+- OMNIPAQUE (iohexol) oral solution for oral use
 
-OMNIPAQUE injection and OMNIPAQUE oral solution are both provided as sterile, pyrogen-free and gluten-free solutions.
-OMNIPAQUE injection and OMNIPAQUE oral solution are colorless to pale yellow solutions.
 The chemical name of iohexol is Bis(2,3-dihydroxypropyl)-5-[N-(2,3-dihydroxypropyl)-acetamido]-2,4,6- triiodoisophthalamide with a molecular weight of 821.14 (iodine content 46.36%).
 Iohexol has the following structural formula:
 
-OMNIPAQUE injection is available in five strengths:
+OMNIPAQUE injection is a sterile, pyrogen-free, colorless to pale yellow solution available in five concentrations of iodine:
 
-- OMNIPAQUE 140 mg iodine/mL (302 mg of iohexol/mL): Each mL contains 140 mg organically bound iodine, 1.21 mg tromethamine and 0.1 mg edetate calcium disodium
-- OMNIPAQUE 180 mg iodine/mL (388 mg of iohexol/mL): Each mL contains 180 mg organically bound iodine, 1.21 mg tromethamine and 0.1 mg edetate calcium disodium
-- OMNIPAQUE 240 mg iodine/mL (518 mg of iohexol/mL): Each mL contains 240 mg organically bound iodine, 1.21 mg tromethamine and 0.1 mg edetate calcium disodium
-- OMNIPAQUE 300 mg iodine/mL (647 mg of iohexol/mL): Each mL contains 300 mg organically bound iodine, 1.21 mg tromethamine and 0.1 mg edetate calcium disodium
-- OMNIPAQUE 350 mg iodine/mL (755 mg of iohexol/mL): Each mL contains 350 mg organically bound iodine, 1.21 mg tromethamine and 0.1 mg edetate calcium disodium
+- OMNIPAQUE 140 mg iodine/mL: Each mL contains 302 mg iohexol (providing 140 mg organically bound iodine) and the following inactive ingredients: 0.1 mg edetate calcium disodium and 1.21 mg tromethamine.
+- OMNIPAQUE 180 mg iodine/mL: Each mL contains 388 mg iohexol (providing 180 mg organically bound iodine) and the following inactive ingredients: 0.1 mg edetate calcium disodium and 1.21 mg tromethamine.
+- OMNIPAQUE 240 mg iodine/mL: Each mL contains 518 mg iohexol (providing 240 mg organically bound iodine) and the following inactive ingredients: 0.1 mg edetate calcium disodium and 1.21 mg tromethamine.
+- OMNIPAQUE 300 mg iodine/mL: Each mL contains 647 mg iohexol (providing 300 mg organically bound iodine) and the following inactive ingredients: 0.1 mg edetate calcium disodium and 1.21 mg tromethamine.
+- OMNIPAQUE 350 mg iodine/mL: Each mL contains 755 mg iohexol (providing 350 mg organically bound iodine) and the following inactive ingredients: 0.1 mg edetate calcium disodium and 1.21 mg tromethamine.
 
-OMNIPAQUE oral solution is available in two strengths:
+OMNIPAQUE oral solution is a sterile, pyrogen-free, colorless to pale yellow solution available in two concentrations of iodine:
 
-- OMNIPAQUE oral solution 9 mg iodine/mL (19 mg of iohexol/mL): Each mL contains 9 mg organically bound iodine, 1.21 mg tromethamine and 0.1 mg edetate calcium disodium
-- OMNIPAQUE oral solution 12 mg iodine/mL (26 mg of iohexol/mL): Each mL contains 12 mg organically bound iodine, 1.21 mg tromethamine and 0.1 mg edetate calcium disodium
+- OMNIPAQUE oral solution 9 mg iodine/mL: Each mL contains 19 mg iohexol (providing 9 mg organically bound iodine) and the following inactive ingredients: 0.1 mg edetate calcium disodium and 1.21 mg tromethamine.
+- OMNIPAQUE oral solution 12 mg iodine/mL: Each mL contains 26 mg iohexol (providing 12 mg organically bound iodine) and the following inactive ingredients: 0.1 mg edetate calcium disodium and 1.21 mg tromethamine.
 
 The pH is adjusted between 6.8 and 7.7 with hydrochloric acid or sodium hydroxide.
-OMNIPAQUE injection and OMNIPAQUE oral solution are sterilized by autoclaving and contain no preservatives.
-
-## 11.2 Physical Characteristics
+OMNIPAQUE injection and OMNIPAQUE oral solution contain no preservatives and no ingredient made from a gluten-containing grain (wheat, barley, or rye).
 
 OMNIPAQUE injection and OMNIPAQUE oral solution have the following physical properties:
 
-|  |  |  | 20°C | 37°C | 37°C |
+Table 21.
+Physicochemical Properties of OMNIPAQUE
+
+| 20°C | 37°C | 37°C |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Presentation | Concentration (mg iodine/mL) | OsmolalityBy vapor-pressure osmometry. (mOsmol/kg water) | Absolute Viscosity (cP) |  | Specific Gravity |
-| OMNIPAQUE 140 | 140 | 322 | 2.3 | 1.5 | 1.164 |
-| OMNIPAQUE 180 | 180 | 408 | 3.1 | 2.0 | 1.209 |
-| OMNIPAQUE 240 | 240 | 520 | 5.8 | 3.4 | 1.280 |
-| OMNIPAQUE 300 | 300 | 672 | 11.8 | 6.3 | 1.349 |
-| OMNIPAQUE 350 | 350 | 844 | 20.4 | 10.4 | 1.406 |
-| OMNIPAQUE oral solution 9 | 9 | 38 | 1.1 | 0.8 | 1.011 |
-| OMNIPAQUE oral solution 12 | 12 | 45 | 1.1 | 0.8 | 1.014 |
+| Dosage Form | Concentration (mg iodine/mL) | OsmolalityBy vapor-pressure osmometry. (mOsmol/kg water) | Absolute Viscosity (cP) |  | Specific Gravity |
+| Injection | 140 | 322 | 2.3 | 1.5 | 1.164 |
+| 180 | 408 | 3.1 | 2.0 | 1.209 |  |
+| 240 | 520 | 5.8 | 3.4 | 1.280 |  |
+| 300 | 672 | 11.8 | 6.3 | 1.349 |  |
+| 350 | 844 | 20.4 | 10.4 | 1.406 |  |
+| Oral solution | 9 | 38 | 1.1 | 0.8 | 1.011 |
+| 12 | 45 | 1.1 | 0.8 | 1.014 |  |
 
-OMNIPAQUE 140, OMNIPAQUE 180, OMNIPAQUE 240, OMNIPAQUE 300, and OMNIPAQUE 350 have osmolalities from approximately 1.1 to 3.0 times that of plasma (285 mOsmol/kg water) or cerebrospinal fluid (301 mOsmol/kg water) as shown in the above table and are hypertonic under conditions of use.
+OMNIPAQUE injection has osmolalities from approximately 1.1 to 3 times that of plasma (285 mOsmol/kg water) or cerebrospinal fluid (301 mOsmol/kg water) as shown in the above table and are hypertonic.
 
-OMNIPAQUE oral solution 9 and OMNIPAQUE oral solution 12 are hypotonic under conditions of use (see table above).
+OMNIPAQUE oral solution is hypotonic.

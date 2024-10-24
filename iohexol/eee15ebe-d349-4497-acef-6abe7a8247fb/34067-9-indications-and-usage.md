@@ -1,137 +1,53 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Intrathecal Administration
+## 1.1 Intrathecal Procedures‡
 
-Adults
+OMNIPAQUE is indicated for:
 
-OMNIPAQUE 180, 240, and 300
+- Myelography and computerized tomography (CT) myelography (lumbar, thoracic, cervical, total columnar) in adults and pediatric patients aged 2 weeks and older
+- CT cisternography in adults and pediatric patients aged 2 weeks and older
 
-- Myelography (lumbar, thoracic, cervical, total columnar)
-- Computerized Tomography (CT) (myelography, cisternography, ventriculography)
+## 1.2 Intra-arterial Procedures‡
 
-Pediatrics
+OMNIPAQUE is indicated for:
 
-OMNIPAQUE 180
+- Cardiac ventriculography in adults and pediatric patients
+- Aortography including studies of aorta and its branches in adults and pediatric patients
+- Selective coronary arteriography in adults
+- Cerebral arteriography in adults
+- Peripheral arteriography in adults
+- Intra-arterial digital subtraction angiography (IA-DSA) of the head, neck, abdominal, renal, and peripheral vessels in adults
+- Pulmonary angiography in pediatric patients
 
-- Myelography (lumbar, thoracic, cervical, total columnar)
-- CT (myelography, cisternography)
+## 1.3 Intravenous Procedures‡
 
-## 1.2 Intravascular Administration
+OMNIPAQUE is indicated for:
 
-Adults
+- Excretory urography in adults and pediatric patients
+- CT of the head and body in adults and pediatric patients
+- Peripheral venography (phlebography) in adults
+- Intravenous digital subtraction angiography (IV-DSA) of the head, neck, abdominal, renal, and peripheral vessels in adults
 
-OMNIPAQUE 140
+## 1.4 Oral or Rectal Procedures‡
 
-- Intra-arterial digital subtraction angiography of the head, neck, abdominal, renal and peripheral vessels
+OMNIPAQUE is indicated for:
 
-OMNIPAQUE 240
+- Radiographic examination of the gastrointestinal (GI) tract in adults and pediatric patients
+- CT of the abdomen and pelvis in conjunction with intravenous administration of OMNIPAQUE in adults and pediatric patients
 
-- CT head imaging
-- Peripheral venography (phlebography)
+## 1.5 Intraarticular Procedures‡
 
-OMNIPAQUE 300
+OMNIPAQUE is indicated for:
 
-- Aortography including studies of the aortic arch, abdominal aorta and its branches
-- CT head and body imaging
-- Cerebral arteriography
-- Peripheral venography (phlebography)
-- Peripheral arteriography
-- Excretory urography
+- Arthrography in adults
 
-OMNIPAQUE 350
+## 1.6 Body Cavity Procedures‡
 
-- Angiocardiography (ventriculography, selective coronary arteriography)
-- Aortography including studies of the aortic root, aortic arch, ascending aorta, abdominal aorta and its branches
-- CT head and body imaging
-- Intravenous digital subtraction angiography of the head, neck, abdominal, renal and peripheral vessels
-- Peripheral arteriography
-- Excretory urography
+OMNIPAQUE is indicated for:
 
-Pediatrics
+- Endoscopic retrograde pancreatography (ERP) and cholangiopancreatography (ERCP) in adults
+- Herniography in adults
+- Hysterosalpingography in adults
+- Voiding cystourethrography (VCU) in pediatric patients
 
-OMNIPAQUE 240
-
-- CT head and body imaging
-
-OMNIPAQUE 300
-
-- Angiocardiography (ventriculography)
-- Excretory urography
-- CT head and body imaging
-
-OMNIPAQUE 350
-
-- Angiocardiography (ventriculography, pulmonary arteriography, venography, and studies of the collateral arteries)
-- Aortography including the aortic root, aortic arch, ascending and descending aorta
-
-## 1.3 Oral or Rectal Administration
-
-Adults
-
-OMNIPAQUE 350
-
-- Oral radiographic examination of the gastrointestinal tract
-
-Pediatrics
-
-OMNIPAQUE 180, 240 and 300
-
-- Oral and rectal radiographic examination of the gastrointestinal tract
-
-## 1.4 Oral Administration in Conjunction with Intravenous Administration
-
-Diluted OMNIPAQUE Injection
-
-Adults
-
-OMNIPAQUE 240, 300 and 350 diluted and administered orally in conjunction with OMNIPAQUE 300 administered intravenously
-
-- CT of the abdomen
-
-Pediatrics
-
-OMNIPAQUE 240, 300 and 350 diluted and administered orally in conjunction with OMNIPAQUE 240 or OMNIPAQUE 300 administered intravenously
-
-- CT of the abdomen
-
-OMNIPAQUE Oral Solution
-
-Adults
-
-OMNIPAQUE oral solution 9 and 12 administered orally in conjunction with OMNIPAQUE 300 administered intravenously
-
-- CT of the abdomen
-
-Pediatrics
-
-OMNIPAQUE oral solution 9 and 12 administered orally in conjunction with OMNIPAQUE 240 or OMNIPAQUE 300 administered intravenously
-
-- CT of the abdomen
-
-## 1.5 Intraarticular Administration
-
-Adults
-
-OMNIPAQUE 240, 300, and 350
-
-- Arthrography
-
-## 1.6 Body Cavity Administration
-
-Adults
-
-OMNIPAQUE 240
-
-- Endoscopic retrograde pancreatography (ERP) and cholangiopancreatography (ERCP)
-- Herniography
-- Hysterosalpingography
-
-OMNIPAQUE 300
-
-- Hysterosalpingography
-
-Pediatrics
-
-OMNIPAQUE 240, 300 and 350 diluted
-
-- Voiding cystourethrography (VCU)
+‡ Specific dosage forms, concentrations, and presentations of OMNIPAQUE are recommended for each type of imaging procedure [see Dosage and Administrations (2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9) and Warnings and Precautions (5.1, 5.2)].

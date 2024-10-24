@@ -3,11 +3,11 @@
 Hypersensitivity Reactions
 
 Advise the patient concerning the risk of hypersensitivity reactions that can occur both during and after OMNIPAQUE administration.
-Advise the patient to report any signs or symptoms of hypersensitivity reactions during the procedure and to seek immediate medical attention for any signs or symptoms experienced after discharge [see Warnings and Precautions (5.3)]
+Advise the patient to report any signs or symptoms of hypersensitivity reactions during the procedure and to seek immediate medical attention for any signs or symptoms experienced after discharge [see Warnings and Precautions (5.3)].
 
 Advise patients to inform their physician if they develop a rash after receiving OMNIPAQUE [see Warnings and Precautions (5.12)].
 
-Contrast-Induced Acute Kidney Injury
+Acute Kidney Injury
 
 Advise the patient concerning appropriate hydration to decrease the risk of contrast-induced acute kidney injury [see Warnings and Precautions (5.4)].
 
