@@ -4,25 +4,25 @@ Systemic glucocorticosteroid use may result in the following:
 
 - Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
 - Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
-- Immunosuppression [see Warnings and Precautions (5.3)]
-- Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.4)]
-- Other Glucocorticosteroid Effects [see Warnings and Precautions (5.5)]
+- Immunosuppression and Increased Risk of Infection [see Warnings and Precautions (5.3)]
+- Kaposi’s Sarcoma [see Warnings and Precautions (5.4)]
+- Increased Systemic Glucocorticoid Susceptibility [see Warnings and Precautions (5.5)]
+- Other Glucocorticosteroid Effects [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of budesonide extended-release tablets have been evaluated in controlled and open-label clinical trials which enrolled a combined total of 1,105 patients with ulcerative colitis.
+The safety of budesonide extended-release tablets has been evaluated in controlled and open-label clinical trials which enrolled a combined total of 1,105 patients with ulcerative colitis.
 
 In two 8-week, placebo-controlled studies in patients with active disease (Study 1 and Study 2), a total of 255 patients received budesonide extended-release tablets 9 mg, 254 patients received budesonide extended-release tablets 6 mg, and 258 patients received placebo.
 They ranged in age from 18-77 years (mean=43), 56% were male, and 75% were Caucasian.
 The most common adverse reactions were headache, nausea, decreased blood cortisol, upper abdominal pain, fatigue, flatulence, abdominal distension, acne, urinary tract infection, arthralgia, and constipation.
 The adverse reactions occurring in 2% or more of patients on therapy with budesonide extended-release tablets 9 mg are summarized in Table 1.
 
-Table 1.
-Summary of Adverse Reactions in Two Placebo-Controlled Trials Experienced by at Least 2% of the Budesonide Extended-Release Tablets 9 mg Group (Studies 1 and 2)
+Table 1: Summary of Adverse Reactions in Two Placebo-Controlled Trials Experienced by at Least 2% of the Budesonide Extended-Release Tablets 9 mg Group (Studies 1 and 2)
 
-|  | Budesonide extended- release tablets 9 mg (N=255) n (%) | Budesonide extended- release tablets 6 mg (N=254) n (%) | Placebo (N=258) n (%) |
+|  | Budesonide Extended- Release Tablets9 mg (N=255) n (%) | Budesonide Extended- Release Tablets6 mg (N=254) n (%) | Placebo (N=258) n (%) |
 | --- | --- | --- | --- |
 | Headache | 29 (11.4) | 37 (14.6) | 27 (10.5) |
 | Nausea | 13 (5.1) | 12 (4.7) | 11 (4.3) |
@@ -40,10 +40,9 @@ Of budesonide extended-release tablets 9 mg patients, a total of 15% discontinue
 
 Table 2 summarizes the percentages of patients reporting glucocorticoid-related effects in the 2 placebo-controlled studies.
 
-Table 2.
-Summary of Glucocorticoid-Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
+Table 2: Summary of Glucocorticoid-Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
 
-|  | Budesonide extended- release tablets 9 mg (N=255) n (%) | Budesonide extended- release tablets 6 mg (N=254) n (%) | Placebo (N=258) n (%) |
+|  | Budesonide Extended- Release Tablets9 mg (N=255) n (%) | Budesonide Extended- Release Tablets6 mg (N=254) n (%) | Placebo (N=258) n (%) |
 | --- | --- | --- | --- |
 | Overall | 26 (10.2) | 19 (7.5) | 27 (10.5) |
 | Mood changes | 9 (3.5) | 10 (3.9) | 11 (4.3) |
@@ -69,9 +68,10 @@ After up to 12 months of study treatment, 77% (27/35) of the patients in the bud
 In Study 4, the glucocorticoid-related effects were similar in patients with up to 12 months of therapy with budesonide extended-release tablets 6 mg and placebo (Table 3).
 
 Table 3.
-Summary of Glucocorticoid-Related Effects Over 12-Month Treatment (Study 4)
 
-|  | Budesonide extended- release tablets 6 mg (N=62) n (%) | Placebo (N=61) n (%) |
+Table 3: Summary of Glucocorticoid-Related Effects Over 12-Month Treatment (Study 4)
+
+|  | Budesonide Extended- Release Tablets 6 mg (N=62) n (%) | Placebo (N=61) n (%) |
 | --- | --- | --- |
 | Overall | 9 (14.5) | 7 (11.5) |
 | Insomnia | 4 (6.5) | 4 (6.6) |
