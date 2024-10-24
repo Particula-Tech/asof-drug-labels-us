@@ -3,9 +3,13 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - HPA-axis suppression.
-  This has been observed in pediatric subjects using Locoid Lipocream [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)]
-- Concomitant skin infections [see Warnings and Precautions (5.2)]
-- Allergic contact dermatitis [see Warnings and Precautions (5.3)]
+  This has been observed in pediatric subjects using Locoid Lipocream [seeError!
+  Hyperlink reference not valid.) and Error!
+  Hyperlink reference not valid.]
+- Concomitant skin infections [seeError!
+  Hyperlink reference not valid.]
+- Allergic contact dermatitis [seeError!
+  Hyperlink reference not valid.]
 
 ## 6.1 Clinical Trials Experience
 

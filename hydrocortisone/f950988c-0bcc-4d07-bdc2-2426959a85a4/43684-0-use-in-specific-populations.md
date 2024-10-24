@@ -59,7 +59,8 @@ Because many drugs are excreted in breast milk, caution should be exercised when
 
 Safety and efficacy in pediatric patients below 3 months of age have not been established.
 
-Because of higher skin-surface-to-body-mass ratios, pediatric patients are at a greater risk than adults of HPA-axis suppression when they are treated with topical corticosteroids [see Warnings and Precautions (5.1)].
+Because of higher skin-surface-to-body-mass ratios, pediatric patients are at a greater risk than adults of HPA-axis suppression when they are treated with topical corticosteroids [seeError!
+Hyperlink reference not valid.].
 They are therefore also at a greater risk of glucocorticosteroid insufficiency after withdrawal of treatment and of Cushing’s syndrome while on treatment.
 
 Eighty-six (86) pediatric subjects (between 5 months and 18 years of age) with moderate to severe atopic dermatitis affecting at least 25% of body surface area (BSA) treated with Locoid Lipocream 3 times daily for up to 4 weeks were assessed for HPA-axis suppression in two separate studies.
