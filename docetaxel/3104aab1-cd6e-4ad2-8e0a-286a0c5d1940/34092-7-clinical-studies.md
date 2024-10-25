@@ -20,7 +20,7 @@ Table 12: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previ
 | Median Survival | 11.4 months | 8.7 months | p=0.01Log Rank |
 | Risk RatioFor the risk ratio, a value less than 1.00 favors docetaxel., Mortality (Docetaxel: Control)95% CI (Risk Ratio) | 0.730.58-0.93 |  |  |
 | Median Time to Progression | 4.3 months | 2.5 months | p=0.01Log Rank |
-| Risk Ratio,Progression(Docetaxel: Control)95% CI (Risk Ratio) | 0.750.61-0.94 |  |  |
+| Risk Ratio,Progression(Docetaxel: Control)95% CI (Risk Ratio) | 0.75 0.61-0.94 |  |  |
 | Overall Response Rate Complete Response Rate | 28.1%3.4% | 9.5%1.6% | p<0.0001Chi Square |
 
 In a second randomized trial, patients previously treated with an alkylating-containing regimen were assigned to treatment with docetaxel (100 mg/m2) or doxorubicin (75 mg/m2) every 3 weeks.
