@@ -118,9 +118,9 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland
+Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-Distributed by: IBSA Pharma Inc, Parsippany, NJ 07054
+Manufactured for: IBSA Institut Biochimique SA, CH-6912 Pazzallo, Switzerland
 
 For more information go to www.Flector.com or call 1-800-587-3513.
 
@@ -128,4 +128,4 @@ FLECTOR is a registered trademark of IBSA Institut Biochimique SA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised 04/2021
+Revised 07/2023
