@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020816"
+  ],
+  "inn": "brinzolamide",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-085-70",
+    "66758-085-85"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "brinzolamide",
+      "name": "Azopt"
+    }
+  ],
+  "setid": "0afb6589-51ba-432c-aed1-20a12d5d3455",
+  "source": "dailymed"
+}
