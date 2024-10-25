@@ -12,6 +12,7 @@ In a study conducted by the Gynecological Oncology Group (GOG), 410 patients wit
 In both studies, patients treated with paclitaxel in combination with cisplatin had significantly higher response rate, longer time to progression, and longer survival time compared with standard therapy.
 These differences were also significant for the subset of patients in the Intergroup study with non-optimally debulked disease, although the study was not fully powered for subset analyses (TABLES 2A and 2B).
 Kaplan- Meier survival curves for each study are shown in FIGURES 1 and 2.
+
 TABLE 2A.
 EFFICACY IN THE PHASE 3 FIRST-LINE OVARIAN CARCINOMA STUDIES
 
@@ -127,7 +128,7 @@ These retrospective subgroup analyses suggest that the beneficial effect of pacl
 With respect to menopausal status, the benefit of paclitaxel is consistent (see TABLE 4 and FIGURES 5 to 8).
 
 The adverse event profile for the patients who received paclitaxel subsequent to AC was consistent with that seen in the pooled analysis of data from 812 patients (TABLE 10) treated with single-agent paclitaxel in 10 clinical studies.
-These adverse events are described in the ADVERSE REACTIONSsection in tabular (TABLES 10 and 13) and narrative form.
+These adverse events are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 13) and narrative form.
 
 After Failure of Initial Chemotherapy
 

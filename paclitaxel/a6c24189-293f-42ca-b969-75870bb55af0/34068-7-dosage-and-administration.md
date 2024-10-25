@@ -54,6 +54,7 @@ For the therapy of patients with solid tumors (ovary, breast and NSCLC), courses
 Paclitaxel should not be given to patients with AIDS-related Kaposi’s sarcoma if the baseline or subsequent neutrophil count is less than 1,000 cells/mm3.
 Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe peripheral neuropathy during paclitaxel therapy should have dosage reduced by 20% for subsequent courses of paclitaxel.
 The incidence of neurotoxicity and the severity of neutropenia increase with dose.
+
 Preparation and Administration Precautions:
 
 Paclitaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling paclitaxel.
@@ -73,9 +74,9 @@ Patients should be monitored closely for the development of profound myelosuppre
 TABLE 17.
 RECOMMENDATIONS FOR DOSING IN PATIENTS WITH HEPATIC IMPAIRMENT BASED ON CLINICAL TRIAL DATAa
 
-| Degree of Hepatic Impairment |  |  |  |
+| Degree of Hepatic Impairment |  |  | Recommended Paclitaxel Dosec |
 | --- | --- | --- | --- |
-| Transaminase Levels |  | Bilirubin Levelsb | Recommended Paclitaxel Dosec |
+| Transaminase Levels |  | Bilirubin Levelsb |  |
 | 24-Hour Infusion |  |  |  |
 | <2 x ULN | and | ≤1.5 mg/dL | 135 mg/m2 |
 | 2 to <10 x ULN | and | ≤1.5 mg/dL | 100 mg/m2 |

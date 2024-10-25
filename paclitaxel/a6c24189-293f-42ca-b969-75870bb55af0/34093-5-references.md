@@ -28,7 +28,7 @@ IVEX-2® is a registered trademark of the Millipore Corporation.
 
 Chemo Dispensing Pin™ is a trademark of B. Braun Medical Incorporated.
 
-Lake Zurich,IL 60047
+Lake Zurich, IL 60047
 
 For Product Inquiry:
 

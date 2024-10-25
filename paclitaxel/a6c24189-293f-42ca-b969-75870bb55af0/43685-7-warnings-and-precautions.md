@@ -127,14 +127,15 @@ In 2 clinical studies in NSCLC, the elderly patients treated with paclitaxel had
 Estimates of efficacy appeared similar in elderly patients and in younger patients; however, comparative efficacy cannot be determined with confidence due to the small number of elderly patients studied.
 In a study of first-line treatment of ovarian cancer, elderly patients had a lower median survival than younger patients, but no other efficacy parameters favored the younger group.
 TABLE 9 presents the incidences of Grade IV neutropenia and severe neuropathy in clinical studies according to age.
+
 TABLE 9: SELECTED ADVERSE EVENTS IN GERIATRIC PATIENTS RECEIVING PACLITAXEL IN CLINICAL STUDIES
 
-| (Study/Regimen) | ≥65 | <65 | ≥65 | <65 |
+| ≥65 | <65 | ≥65 | <65 |  |
 | --- | --- | --- | --- | --- |
-|  | Patients [n/total (%)] |  |  |  |
-|  | Neutropenia (Grade IV) |  | Peripheral Neuropathy (Grades III/IV) |  |
-| INDICATION | Age (y) |  | Age (y) |  |
-| • OVARIAN Cancer |  |  |  |  |
+| INDICATION (Study/Regimen) | Patients [n/total (%)] |  |  |  |
+| Neutropenia (Grade IV) |  | Peripheral Neuropathy (Grades III/IV) |  |  |
+| Age (y) |  | Age (y) |  |  |
+| •OVARIAN Cancer |  |  |  |  |
 | (Intergroup First-Line/T175/3 c75a) | 34/83 (41) | 78/252 (31) | 24/84 (29)*b | 46/255 (18)b |
 | (GOG-111 First-Line/T135/24 c75a) | 48/61 (79) | 106/129 (82) | 3/62 (5) | 2/134 (1) |
 | (Phase 3 Second-Line/T175/3c) | 5/19 (26) | 21/76 (28) | 1/19 (5) | 0/76 (0) |

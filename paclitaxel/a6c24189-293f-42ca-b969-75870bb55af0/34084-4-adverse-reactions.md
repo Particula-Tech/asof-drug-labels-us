@@ -8,7 +8,7 @@ Three hundred and one patients were treated in the randomized Phase 3 ovarian ca
 
 Two hundred and thirty-six patients with breast carcinoma received paclitaxel (135 or 175 mg/m2) administered over 3 hours in a controlled study.
 
-TABLE10.
+TABLE 10.
 SUMMARYa OF ADVERSE EVENTS IN PATIENTS WITH SOLID TUMORS RECEIVING SINGLE-AGENT PACLITAXEL
 
 |  |  | Percent of Patients (n=812) |
@@ -68,8 +68,8 @@ TABLE 11: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 FIRST-LINE OVARI
 
 |  | Percent of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Intergroup |  | GOG-111 |  |
-|  | T175/3b c75c (n=339) | C750c c75c (n=336) | T135/24b c75c (n=196) | C750c c75c (n=213) |
+| Intergroup |  | GOG-111 |  |  |
+| T175/3b c75c (n=339) | C750c c75c (n=336) | T135/24b c75c (n=196) | C750c c75c (n=213) |  |
 | • Bone Marrow |  |  |  |  |
 | - Neutropenia < 2,000/mm3 | 91d | 95d | 96 | 92 |
 | < 500/mm3 | 33d | 43d | 81d | 58d |
@@ -111,7 +111,7 @@ FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 SECOND-LINE OVARIAN CARCIN
 
 |  | Percent of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | 175/3b (n=95) | 175/24b (n=105) | 135/3b (n=98) | 135/24b (n=105) |
+| 175/3b (n=95) | 175/24b (n=105) | 135/3b (n=98) | 135/24b (n=105) |  |
 | • Bone Marrow |  |  |  |  |
 | -Neutropenia <2,000/mm3 | 78 | 98 | 78 | 98 |
 | <500/mm3 | 27 | 75 | 14 | 67 |
@@ -145,8 +145,8 @@ FREQUENCYa OF IMPORTANT SEVEREb ADVERSE EVENTS IN THE PHASE 3 ADJUVANT BREAST CA
 
 |  | Percent of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Early Population |  | Total Population |  |
-|  | ACc (n=166) | ACc followed by Td (n=159) | ACc (n=1,551) | ACc followed by Td (n=1,570) |
+| Early Population |  | Total Population |  |  |
+| ACc (n=166) | ACc followed by Td (n=159) | ACc (n=1,551) | ACc followed by Td (n=1,570) |  |
 | • Bone Marrowe |  |  |  |  |
 | - Neutropenia < 500/mm3 | 79 | 76 | 48 | 50 |
 | -Thrombocytopenia < 50,000/mm3 | 27 | 25 | 11 | 11 |
@@ -177,7 +177,7 @@ TABLE 14: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 STUDY OF BREAST 
 
 |  | Percent of Patients |  |
 | --- | --- | --- |
-|  | 175/3b (n=229) | 135/3b (n=229) |
+| 175/3b (n=229) | 135/3b (n=229) |  |
 | • Bone Marrow |  |  |
 | - Neutropenia < 2,000/mm3 | 90 | 81 |
 | < 500/mm3 | 28 | 19 |
@@ -212,7 +212,7 @@ FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 STUDY FOR FIRST-LINE NSCLC
 
 |  | Percent of Patients |  |  |
 | --- | --- | --- | --- |
-|  | T135/24b c75 (n=195) | T250/24c c75 (n=197) | VP100d c75 (n=196) |
+| T135/24b c75 (n=195) | T250/24c c75 (n=197) | VP100d c75 (n=196) |  |
 | • Bone Marrow |  |  |  |
 | - Neutropenia < 2,000/mm3 | 89 | 86 | 84 |
 | < 500/mm3 | 74e | 65 | 55 |
@@ -257,7 +257,7 @@ FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE AIDS -RELATED KAPOSI'S SARCOMA STU
 
 |  | Percent of Patients |  |
 | --- | --- | --- |
-|  | Study CA139-174 Paclitaxel 135/3b q 3 wk (n=29) | Study CA139-281 Paclitaxel 100/3b q 2 wk (n=56) |
+| Study CA139-174 Paclitaxel 135/3b q 3 wk (n=29) | Study CA139-281 Paclitaxel 100/3b q 2 wk (n=56) |  |
 | • Bone Marrow |  |  |
 | - Neutropenia < 2,000/mm3 | 100 | 95 |
 | < 500/mm3 | 76 | 35 |
