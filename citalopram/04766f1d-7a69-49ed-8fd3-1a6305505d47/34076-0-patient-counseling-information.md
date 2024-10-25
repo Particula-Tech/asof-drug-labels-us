@@ -51,7 +51,7 @@ Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
 
-8096917 Revised: July 2024
+8098289 Revised: September 2024
 
 or
 
@@ -59,7 +59,7 @@ Manufactured by:
 
 Piramal Pharma Limited, Pithampur - 454775, India.
 
-8096918 Revised: July 2024
+8098290 Revised: September 2024
 
 Manufactured for:
 
