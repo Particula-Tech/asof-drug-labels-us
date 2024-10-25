@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 64980-503-12 Rising®
+64980-503-12 Rising®
 
 Levocarnitine
 

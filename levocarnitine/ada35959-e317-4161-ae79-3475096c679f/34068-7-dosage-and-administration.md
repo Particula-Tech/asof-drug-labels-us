@@ -2,8 +2,7 @@
 
 Levocarnitine Oral Solution USP.
 
-For oral use only.
-Not for parenteral use.
+For oral use only.Not for parenteral use.
 
 Adults: The recommended dosage of levocarnitine is 1 to 3 g/day for a 50 kg subject, which is equivalent to 10 to 30 mL/day of Levocarnitine Oral Solution USP.
 Higher doses should be administered only with caution and only where clinical and biochemical considerations make it seem likely that higher doses will be of benefit.

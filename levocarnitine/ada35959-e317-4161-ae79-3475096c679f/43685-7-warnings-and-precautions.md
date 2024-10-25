@@ -1,6 +1,8 @@
 # WARNINGS
 
-None.
+Hypersensitivity Reactions Serious hypersensitivity reactions, including rash, urticaria, and facial edema have been reported with Levocarnitine Oral Solution USP.
+Other serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following intravenous levocarnitine administration, mostly in patients with end stage renal disease undergoing dialysis.
+Discontinue use of Levocarnitine Oral Solution USP and instruct patients to seek medical attention if they experience symptoms suggestive of a hypersensitivity reaction.
 
 # PRECAUTIONS
 
@@ -12,10 +14,13 @@ Not for parenteral use.
 
 Gastrointestinal reactions may result from a too rapid consumption of carnitine.
 Levocarnitine Oral Solution USP may be consumed alone, or dissolved in drinks or other liquid foods to reduce taste fatigue.
-It should be consumed slowly and doses should be spaced evenly throughout the day to maximize tolerance.
+They should be consumed slowly and doses should be spaced evenly throughout the day to maximize tolerance.
 
 The safety and efficacy of oral levocarnitine has not been evaluated in patients with renal insufficiency.
 Chronic administration of high doses of oral levocarnitine in patients with severely compromised renal function or in ESRD patients on dialysis may result in accumulation of the potentially toxic metabolites, trimethylamine (TMA) and trimethylamine-N-oxide (TMAO), since these metabolites are normally excreted in the urine.
+
+Drug Interactions Reports of INR increase with the use of warfarin have been observed.
+It is recommended that INR levels be monitored in patients on warfarin therapy after the initiation of treatment with levocarnitine or after dose adjustments.
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
