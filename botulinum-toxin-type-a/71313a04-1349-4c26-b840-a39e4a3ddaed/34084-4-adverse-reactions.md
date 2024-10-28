@@ -56,7 +56,7 @@ Table 7: Most Common Adverse Reactions (≥ 5%) and Greater than Placebo in the 
 | Headache | 11 | 9 |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Dysphonia | 6 | 2 |
-| Eye Disorders The following preferred terms were reported: vision blurred, diplopia, visual acuity reduced, eye pain, eyelid disorder, accommodation disorder, dry eye, eye pruritus. | 7 | 2 |
+| Eye DisordersThe following preferred terms were reported: vision blurred, diplopia, visual acuity reduced, eye pain, eyelid disorder, accommodation disorder, dry eye, eye pruritus. | 7 | 2 |
 
 Dose-response relationships for common adverse reactions in a randomized multiple fixed-dose study in which the total dose was divided between two muscles (the sternocleidomastoid and splenius capitis) are shown in Table 8.
 
@@ -84,7 +84,7 @@ The following adverse reactions were reported less frequently (<5%).
 
 Breathing Difficulty
 
-Breathing difficulties were reported by approximately 3% of patients following DYSPORTadministration and in 1% of placebo patients in clinical trials during the double-blind phase.
+Breathing difficulties were reported by approximately 3% of patients following DYSPORT administration and in 1% of placebo patients in clinical trials during the double-blind phase.
 These consisted mainly of dyspnea.
 The median time to onset from last dose of DYSPORT was approximately one week, and the median duration was approximately three weeks.
 
@@ -92,7 +92,7 @@ Other adverse reactions with incidences of less than 5% in the DYSPORT 500 Units
 
 Laboratory Findings
 
-Patients treated with DYSPORTexhibited a small increase from baseline (0.23 mol/L) in mean blood glucose relative to placebo-treated patients.
+Patients treated with DYSPORT exhibited a small increase from baseline (0.23 mol/L) in mean blood glucose relative to placebo-treated patients.
 This was not clinically significant among patients in the development program but could be a factor in patients whose diabetes is difficult to control.
 
 Electrocardiographic Findings
@@ -104,7 +104,7 @@ Glabellar Lines
 
 In placebo-controlled clinical trials of DYSPORT, the most common adverse reactions(≥2%) following injection of DYSPORT were nasopharyngitis, headache, injection site pain, injection site reaction, upper respiratory tract infection, eyelid edema, eyelid ptosis, sinusitis, nausea, and blood present in urine.
 
-Table 9 reflects exposure to DYSPORT in 398 patients 19 to 75 years of age who were evaluated in the randomized, placebo-controlled clinical studies that assessed the use of DYSPORT for the temporary improvement in the appearance of glabellar lines [see Clinical Studies (14.2)].
+Table 9 reflects exposure to DYSPORT in 398 patients 19 to 75 years of age who were evaluated in the randomized, placebo-controlled clinical studies that assessed the use of DYSPORT for the temporary improvement in the appearance of glabellar lines [seeClinical Studies (14.2)].
 Adverse reactions of any cause occurred in 48% of the DYSPORT-treated patients and 33% of the placebo-treated patients.
 
 Table 9: Most Common Adverse Reactions with > 1% Incidence in Pooled, Placebo-Controlled Trials for Glabellar Lines
@@ -202,14 +202,13 @@ Falls were reported more frequently in patients 65 years of age and over.
 
 Upper Limb Spasticity in Pediatric Patients
 
-Table 12 reflects exposure to DYSPORT in 210 patients, 2 to 17 years of age, who were evaluated in a double blind, active-controlled, multicenter study in patients treated for upper limb spasticity [see Clinical Studies (14.4)].
-The most commonly observed adverse reactions (≥10% of patients) were: upper respiratory tract infection and pharyngitis.
+Table 12 reflects exposure to DYSPORT in 210 patients, 2 to 17 years of age, who were evaluated in a double blind, active-controlled, multicenter study in patients treated for upper limb spasticity [see Clinical Studies (14.4)].The most commonly observed adverse reactions (≥10% of patients) were: upper respiratory tract infection and pharyngitis.
 
 Table 12: Adverse Reactions Observed in ≥ 3% of Patients Treated in the Double-Blind Study of Pediatric Patients with Upper Limb Spasticity and Reported More Frequently than Control Group
 
-| Adverse Reactions | Dysport 2 Units/kg1 (N=70) % | Dysport 8 Units/kg (N=70) % | Dysport 16 Units/kg (N=70) % |
+| Adverse Reactions | Dysport 2 Units/kg 1 (N=70) % | Dysport 8 Units/kg (N=70) % | Dysport 16 Units/kg (N=70) % |
 | --- | --- | --- | --- |
-| Infections and infestations Upper respiratory tract infection Influenza Pharyngitis2 | 7 1 9 | 9 1 6 | 11 3 10 |
+| Infections and infestations Upper respiratory tract infection Influenza Pharyngitis 2 | 7 1 9 | 9 1 6 | 11 3 10 |
 | Gastrointestinal disorders Nausea | 0 | 3 | 1 |
 | Musculoskeletal and connective tissue diorders Muscular weakness | 1 | 4 | 6 |
 | Nervous system disorders Headache Epilepsy | 0 1 | 6 0 | 3 4 |
@@ -218,7 +217,7 @@ Table 12: Adverse Reactions Observed in ≥ 3% of Patients Treated in the Double
 
 Additional adverse reactions occurring below 3% and considered to be drug related include: myalgia, pain in extremity, fatigue, influenza-like illness, injection site eczema, injection site bruising, injection site rash, injection site pain, and injection site swelling.
 
-Lower Limb Spasticity in Pediatric Patients Table 13 reflects exposure to DYSPORTin 160 patients, 2 to 17 years of age, who were evaluated in the randomized, placebo-controlled clinical study that assessed the use of DYSPORTfor the treatment of unilateral or bilateral lower limb spasticity in pediatric cerebral palsy patients [see Clinical Studies (14.4)].
+Lower Limb Spasticity in Pediatric Patients Table 13 reflects exposure to DYSPORT in 160 patients, 2 to 17 years of age, who were evaluated in the randomized, placebo-controlled clinical study that assessed the use of DYSPORT for the treatment of unilateral or bilateral lower limb spasticity in pediatric cerebral palsy patients [see Clinical Studies (14.4)].
 The most commonly observed adverse reactions (≥ 10% of patients) are: upper respiratory tract infection, nasopharyngitis, influenza, pharyngitis, cough and pryrexia.
 
 Table 13: Adverse Reactions Observed in ≥ 4% of Patients Treated in the Double-Blind Trial of Pediatric Patients with Lower Limb Spasticity and Reported More Frequently than with Placebo

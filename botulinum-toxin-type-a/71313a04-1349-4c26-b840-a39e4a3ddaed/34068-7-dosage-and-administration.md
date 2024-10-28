@@ -9,17 +9,17 @@ Reconstituted DYSPORT is intended for intramuscular injection only.
 
 DYSPORT is supplied as a dry powder, in single-dose 300 Unit and 500 Unit vials, which must be reconstituted with preservative-free 0.9% Sodium Chloride Injection, USP using aseptic technique prior to intramuscular injection.
 Table 1 provides dilution instructions for the 300 Unit and 500 Unit vials, depending on the desired final concentration.
-The desired final concentration after dilution varies depending on the indication (see Table 2 for the recommended solution concentration after dilution).
+The desired final concentration after dilution varies depending on the indication (see Table 2for the recommended solution concentration after dilution).
 
 Table 1: Dilution Instructions for DYSPORT Vials (500 Units and 300 Units)
 
-| DiluentPreservative-free 0.9% Sodium Chloride Injection, USP Only per 500 Unit Vial | Resulting Dose Unites per 0.1 mL | DIluent per 300 Unit Vial | Resulting Dose Units per 0.1 mL |
+| DiluentPreservative-free 0.9% Sodium Chloride Injection, USP Onlyper 500 Unit Vial | Resulting Dose Unites per 0.1 mL | DIluent per 300 Unit Vial | Resulting Dose Units per 0.1 mL |
 | --- | --- | --- | --- |
 | 1 mL | 50 Units | 0.6 mL | 50 Units |
 | 2 mL | 25 Units | -- | -- |
 | 2.5 mL | 20 Units | 1.5 mL | 20 Units |
 | -- | -- | 2.5 mL | 12 Units |
-| 5 mL‡ | 10 Units | 3 mL | 10 Units |
+| 5 mL ‡ | 10 Units | 3 mL | 10 Units |
 
 Note: These dilutions are calculated for an injection volume of 0.1 mL.
 A decrease or increase in the DYSPORT dose is also possible by administering a smaller or larger injection volume (i.e., 0.05 mL (50% decrease in dose), 0.08% (20% decrease in dose) or 0.15 mL (50% increase in dose)).
@@ -59,9 +59,9 @@ Table 2: Recommended Solution Concentration and Dosing Range of DYSPORT by Indic
 | Cervical Dystonia, Adults | 50 Units/0.1 mL or 25 Units/0.1 mL | 500 Units to 1000 Units |
 | Glabellar Lines, Adults | 12 Units/0.1 mL or 20 Units/0.1 mL | 50 Units, divided in five equal aliquots of 10 Units (0.08 mL) each or 50 Units, divided in five equal aliquots of 10 Units (0.05 mL) each |
 | Spasticity, Adults* | 10 Units/0.1 mL or 20 Units/0.1 mL | Upper Limb: 500 Units to 1000 Units Lower Limb: 1000 Units to 1500 Units Maximum total dose per treatment session = 1500 Units |
-| Spasticity, Pediatric Patients‡ | 20 Units/0.1 mL or 50 Units/0.1 mL** | Upper Limb: 8 Units/kg to 16 Units/kg per limb Maximum total dose per treatment session = 16 Units/kg or 640 Units, whichever is lower Lower Limb: 10 Units/kg to 15 Units/kg per limb Maximum total dose per treatment session for unilateral limb injections = 15 Units/kg or 1000 Units, whichever is lower Maximum total dose per treatment session for bilateral limb injections = 30 Units/kg or 1000 Units, whichever is lower Maximum total dose per treatment session = 30 Units/kg or 1000 Units, whichever is lower |
+| Spasticity, Pediatric Patients ‡ | 20 Units/0.1 mL or 50 Units/0.1 mL** | Upper Limb: 8 Units/kg to 16 Units/kg per limb Maximum total dose per treatment session = 16 Units/kg or 640 Units, whichever is lower Lower Limb: 10 Units/kg to 15 Units/kg per limb Maximum total dose per treatment session for unilateral limb injections = 15 Units/kg or 1000 Units, whichever is lowerMaximum total dose per treatment session for bilateral limb injections = 30 Units/kg or 1000 Units, whichever is lower Maximum total dose per treatment session = 30 Units/kg or 1000 Units, whichever is lower |
 
-* No more than 1 mL should generally be administered at any single injections site ‡ No more than 0.5 mL of DYSPORT should be administered in any single injection site ** Further dilution with preservative-free 0.9% Sodium Chloride Injection, USP, may be required to achieve the final volume for injection.
+* No more than 1 mL should generally be administered at any single injections site ‡No more than 0.5 mL of DYSPORT should be administered in any single injection site ** Further dilution with preservative-free 0.9% Sodium Chloride Injection, USP, may be required to achieve the final volume for injection.
 
 ## 2.3 Dosing in Cervical Dystonia
 
@@ -121,7 +121,7 @@ Although actual location of the injection sites can be determined by palpation, 
 
 Upper Limb Spasticity
 
-In the clinical trial that assessed the efficacy and safety of DYSPORT for treatment of upper limb spasticity in adults [see Clinical Studies (14.3)], doses of 500 Units and 1000 Units were divided among selected muscles at a given treatment session (see Table 3 and Figure 2).
+In the clinical trial that assessed the efficacy and safety of DYSPORT for treatment of upper limb spasticity in adults [see Clinical Studies (14.3)], doses of 500 Units and 1000 Units were divided among selected muscles at a given treatment session (see Table 3and Figure 2).
 
 Table 3: DYSPORT Dosing by Muscle for Upper Limb Spasticity in Adults
 

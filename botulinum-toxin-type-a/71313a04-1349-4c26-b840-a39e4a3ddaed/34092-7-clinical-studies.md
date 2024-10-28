@@ -9,7 +9,7 @@ Ninety-nine percent of the patients were Caucasian.
 In both placebo-controlled studies (Study 1 and Study 2), a dose of 500 Units of DYSPORT was given by intramuscular injection divided among two to four affected muscles.
 These studies were followed by long-term open-label extensions that allowed titration in 250 Unit steps to doses in a range of 250 to 1000 Units, after the initial dose of 500 Units.
 In the extension studies, re-treatment was determined by clinical need after a minimum of 12 weeks.
-The median time to re-treatment was 14 weeks and 18 weeks for the 75th percentile.
+The median time to re-treatment was 14 weeks and 18 weeks for the 75 thpercentile.
 
 The primary assessment of efficacy was based on the total Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) change from baseline at Week 4 for both studies.
 The scale evaluates the severity of dystonia, patient-perceived disability from dystonia, and pain.
@@ -101,7 +101,7 @@ Efficacy was assessed in the final randomized treatment cycle.
 The study enrolled 311 subjects into the first treatment cycle and 142 subjects were randomized into the final treatment cycle.
 Overall, the mean age was 47 years; most of the subjects were women (86%) and predominantly Caucasian (80%).
 
-At Day 30, 52% of DYSPORT-treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 16).
+At Day 30, 52% of DYSPORT -treated subjects achieved treatment success: a composite 2 grade improvement of glabellar line severity at maximum frown (see Table 16).
 
 The proportion of responders in the final treatment cycle was comparable to the proportion of responders in all prior treatment cycles.
 
@@ -226,12 +226,12 @@ Table 24: Modified Ashworth Scale Score in the PTMG Change from Baseline at Week
 | Baseline |  |  |  |
 | Mean (SD) | 3.1 (0.3) | 3.1 (0.3) | 3.1 (0.5) |
 | Week 6 |  |  |  |
-| LSa mean change from baseline in PTMGb on MAS | -1.6 | -2.0 | -2.3 |
-| Difference from control in LSa means |  | -0.4 | -0.7 |
-| p-valuec |  | 0.0118d | <0.0001 |
+| LS amean change from baseline in PTMG bon MAS | -1.6 | -2.0 | -2.3 |
+| Difference from control in LS ameans |  | -0.4 | -0.7 |
+| p-value c |  | 0.0118 d | <0.0001 |
 | Week 16 |  |  |  |
-| LSa mean change from baseline in PGMGb on MAS | -0.9 | -1.2 | -1.5 |
-| Difference from control in LSa means |  | -0.3d | -0.6d |
+| LS amean change from baseline in PGMG bon MAS | -0.9 | -1.2 | -1.5 |
+| Difference from control in LS ameans |  | -0.3 d | -0.6 d |
 
 aLS = Least Square bPTMG=Primary Targeted Muscle Group cp-value is derived from ANCOVA on ranked MAS score change from baseline with treatment, baseline score, age range at baseline, prior botulinum toxin treatment status at baseline, and center as explanatory variables dNominal p-value <0.05
 
@@ -242,16 +242,16 @@ Table 25: Physician Global Assessment of Treatment Response at Week 6 in Pediatr
 |  | DYSPORT 2 U/kg (N=68) | DYSPORT 8 U/kg (N=69) | DYSPORT 16 U/kg (N=70) |
 | Week 6 |  |  |  |
 | Mean score (SD) | 1.7 (0.9) | 2.0 (0.9) | 2.0 (0.9) |
-| LSa mean in PGA | 1.8 | 2.0 | 2.0 |
-| Difference from control in LSa mean |  | 0.2 | 0.2 |
-| p-valueb |  | 0.2043 | 0.1880 |
+| LS amean in PGA | 1.8 | 2.0 | 2.0 |
+| Difference from control in LS amean |  | 0.2 | 0.2 |
+| p-value b |  | 0.2043 | 0.1880 |
 | Week 16 |  |  |  |
 | Mean score (SD) | 1.7 (1.0) | 1.6 (1.1) | 1.9 (1.2) |
-| LSa mean in PGA | 1.8 | 1.7 | 1.9 |
-| Difference from contron in LSa mean |  | -0.1 | 0.1 |
-| p-valueb |  | 0.7001 | 0.4041 |
+| LS amean in PGA | 1.8 | 1.7 | 1.9 |
+| Difference from contron in LS amean |  | -0.1 | 0.1 |
+| p-value b |  | 0.7001 | 0.4041 |
 
-aLS=Least Square b p-value is derived from ANOVA on ranked PGA score with treatment, age range at baseline, prior botulinum toxin treatment status at baseline, and center as explanatory variables
+aLS=Least Square bp-value is derived from ANOVA on ranked PGA score with treatment, age range at baseline, prior botulinum toxin treatment status at baseline, and center as explanatory variables
 
 Lower Limb Spasticity in Pediatric Patients The efficacy of DYSPORT for the treatment of lower limb spasticity in patients 2 to 17 years of age was evaluated in a double-blind, placebo-controlled, multicenter study.
 A total of 235 patients with cerebral palsy causing dynamic equinus foot deformity who were toxin-naïve or non-naïve and had a Modified Ashworth Score (MAS) of grade 2 or greater at the ankle plantar flexors were enrolled.

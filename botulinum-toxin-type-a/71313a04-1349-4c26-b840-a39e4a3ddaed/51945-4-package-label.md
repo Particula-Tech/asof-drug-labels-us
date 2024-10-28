@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 300 UNIT
 
-GALDERMA Dysport®(AbobotulinumtoxinA) for injection For intramuscular use
+GALDERMA Dysport ®(AbobotulinumtoxinA) for injection For intramuscular use
 
 300 UNITS/SINGLE-DOSE VIAL
 

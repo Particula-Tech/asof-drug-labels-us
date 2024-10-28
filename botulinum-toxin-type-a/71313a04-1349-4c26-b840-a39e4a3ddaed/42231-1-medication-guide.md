@@ -4,7 +4,7 @@ Call your doctor or get medical help right away if you have any of these problem
 
 1.
 Problems swallowing, speaking, or breathing.
-These problems can happen within hours, or days to weeks after an injection of DYSPORT usually because the muscles that you use to breathe and swallow can become weak after the injection.
+These problems can happen within hours, or days to weeks after an injection of DYSPORTusually because the muscles that you use to breathe and swallow can become weak after the injection.
 Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with DYSPORT. • People with certain breathing problems may need to use muscles in their neck to help them breathe.
 These patients may be at greater risk for serious breathing problems with DYSPORT. • Swallowing problems may last for several weeks.
 People who cannot swallow well may need a feeding tube to receive food and water.
@@ -12,14 +12,12 @@ If swallowing problems are severe, food or liquids may go into your lungs.
 People who already have swallowing or breathing problems before receiving DYSPORT have the highest risk of getting these problems.
 
 2.
-Spread of toxin effects.
-In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
+Spread of toxin effects.In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
 The symptoms of botulism include:
 
 • loss of strength and muscle weakness all over the body • blurred vision and drooping eyelids • trouble saying words clearly (dysarthria) • trouble breathing • double vision • hoarseness or change or loss of voice (dysphonia) • loss of bladder control • trouble swallowing
 
-These symptoms can happen within hours, or days to weeks after you receive an injection of DYSPORT.
-These problems could make it unsafe for you to drive a car or do other dangerous activities.
+These symptoms can happen within hours, or days to weeks after you receive an injection of DYSPORT.These problems could make it unsafe for you to drive a car or do other dangerous activities.
 See "What should I avoid while receiving DYSPORT?"
 
 What is DYSPORT?
@@ -138,7 +136,7 @@ The most common side effects of DYSPORT in adults with upper limb spasticity inc
 
 • muscle weakness
 
-The most common side effects of DYSPORT in adults with lower limb spasticity include:
+The most common side effects of DYSPORTin adults with lower limb spasticity include:
 
 - muscle weakness
 - pain in your arms or legs
@@ -178,7 +176,7 @@ Active ingredient: (botulinum toxin Type A) Inactive ingredients: human albumin 
 DYSPORT may contain cow's milk protein.
 
 Distributed by: Ipsen Biopharmaceuticals, Inc. Cambridge, MA 02142 and Galderma Laboratories, L.P.
-Dallas, TX 75201 Manufactured by: Ipsen Biopharma Ltd., Wrexham, LL13 9UF, UK U.S. License No. 1787 For more information about DYSPORT, call 855-463-5127 or go to www.dysport.com or www.DysportUSA.com.
+Dallas, TX 75201 Manufactured by: Ipsen Biopharma Ltd., Wrexham, LL13 9UF, UK U.S. License No. 1787 For more information about DYSPORT, call 855-463-5127 or go to www.dysport.comor www.DysportUSA.com.
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Revised 09/2023 DYSPORT is a registered trademark of Ipsen Biopharm Limited.
