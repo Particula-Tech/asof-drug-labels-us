@@ -109,7 +109,7 @@ Safety and tolerability of montelukast in a single-dose pharmacokinetic study in
 The 4 mg oral granule formulation should be used for pediatric patients 12 to 23 months of age for the treatment of asthma, or for pediatric patients 6 to 23 months of age for the treatment of perennial allergic rhinitis.
 Since the 4 mg oral granule formulation is bioequivalent to the 4 mg chewable tablet, it can also be used as an alternative formulation to the 4 mg chewable tablet in pediatric patients 2 to 5 years of age.
 
-Drug InteractionStudies
+Drug Interaction Studies
 
 Theophylline, Prednisone, and Prednisolone
 

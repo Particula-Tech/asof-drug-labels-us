@@ -41,7 +41,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Safety and effectiveness of montelukast sodium for asthma have been established in pediatric patients 6 to 14 years of age.
 Use of montelukast sodium for this indication is supported by evidence from well-controlled studies.
-Safety and efficacy data in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Specific Populations (12.3), and Clinical Studies (14.1, 14.2)].
+Safety and efficacy data in this age group are similar to those seen in adults [see Adverse Reactions(6.1), Clinical Pharmacology, Specific Populations (12.3), and Clinical Studies (14.1, 14.2)].
 
 The effectiveness of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 2 to 14 years of age have been established and is supported by extrapolation from the demonstrated effectiveness in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
 
