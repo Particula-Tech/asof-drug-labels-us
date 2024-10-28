@@ -2,8 +2,7 @@
 
 SOOLANTRA® (SOO-LAWN-TRAH) (ivermectin) cream
 
-Important: SOOLANTRA cream is for use on the skin only (topical use).
-Do not use SOOLANTRA cream in your mouth, eyes, or vagina.
+Important: SOOLANTRA cream is for use on the skin only (topical use).Do not use SOOLANTRA cream in your mouth, eyes, or vagina.
 
 What is SOOLANTRA cream?
 SOOLANTRA cream is a prescription medicine used on the skin (topical) to treat pimples and bumps (inflammatory lesions) caused by a condition called rosacea.
@@ -28,7 +27,7 @@ See the detailed “Instructions for Use” that comes with SOOLANTRA cream for 
 - if SOOLANTRA cream is accidentally swallowed (ingested), call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of SOOLANTRA cream?
-The most common side effects of SOOLANTRA cream include skin burning sensation and skin irritation.
+The most common side effects of SOOLANTRA cream includeskin burning sensation and skin irritation.
 These are not all of the possible side effects of SOOLANTRA cream.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -48,7 +47,7 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about SOOLANTRA cream that is written for health professionals.
 
 What are the ingredients in SOOLANTRA cream?
-Active ingredient: ivermectin Inactive ingredients: carbomer copolymer type B, cetyl alcohol, citric acid monohydrate, dimethicone, edetate disodium, glycerin, isopropyl palmitate, methylparaben, oleyl alcohol, phenoxyethanol, polyoxyl 20 cetostearyl ether, propylene glycol, propylparaben, purified water, sodium hydroxide, sorbitan monostearate, and stearyl alcohol.
+Active ingredient:ivermectin Inactive ingredients:carbomer copolymer type B, cetyl alcohol, citric acid monohydrate, dimethicone, edetate disodium, glycerin, isopropyl palmitate, methylparaben, oleyl alcohol, phenoxyethanol, polyoxyl 20 cetostearyl ether, propylene glycol, propylparaben, purified water, sodium hydroxide, sorbitan monostearate, and stearyl alcohol.
 
 Marketed by: Galderma Laboratories, L.P., Dallas, Texas 75201 USA P52476-3 Made in Canada For more information about SOOLANTRA cream, call 1-866-735-4137.
 

@@ -2,7 +2,7 @@
 
 NDC 0299-3823-45
 
-soolantra®
+soolantra ®
 
 (ivermectin) cream, 1%
 

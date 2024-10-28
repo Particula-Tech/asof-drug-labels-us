@@ -11,7 +11,7 @@ The clinical relevance of this finding is unknown.
 No drug-related tumors were noted in females up to the highest dose evaluated in this study of 9 mg/kg/day (1959 times the MRHD based on AUC comparison).
 No drug-related tumors were noted in males at doses ≤ 3 mg/kg/day (599 times the MRHD based on AUC comparison).
 
-Ivermectin revealed no evidence of genotoxic potential based on the results of two in vitro genotoxicity tests (the Ames test and the L5178Y/TK+/- mouse lymphoma assay) and one in vivo genotoxicity test (rat micronucleus assay).
+Ivermectin revealed no evidence of genotoxic potential based on the results of two in vitro genotoxicity tests (the Ames test and the L5178Y/TK +/-mouse lymphoma assay) and one in vivo genotoxicity test (rat micronucleus assay).
 
 In a fertility study, oral doses of 0.1, 1 and 9 mg/kg/day ivermectin were administered to male and female rats.
 Mortality occurred at 9 mg/kg/day (1027 times the MRHD based on AUC comparison).

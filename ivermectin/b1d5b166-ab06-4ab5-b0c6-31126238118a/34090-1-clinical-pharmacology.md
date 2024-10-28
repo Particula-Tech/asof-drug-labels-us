@@ -11,7 +11,7 @@ Cardiac Electrophysiology At therapeutic doses, SOOLANTRA cream is not expected 
 ## 12.3 Pharmacokinetics
 
 Absorption The absorption of ivermectin from SOOLANTRA cream was evaluated in a clinical trial in 15 adult male and female subjects with severe papulopustular rosacea applying 1 g SOOLANTRA cream, 1% once daily.
-At steady state (after 2 weeks of treatment), the highest mean ± standard deviation plasma concentrations of ivermectin peaked (Tmax) at 10 ± 8 hours post dose, the maximum concentration (Cmax) was 2.10 ± 1.04 ng/mL (range: 0.69 - 4.02 ng/mL) and the area under the concentration curve (AUC0-24hr) was 36.14 ± 15.56 ng.hr/mL (range: 13.69-75.16 ng.hr/mL).
+At steady state (after 2 weeks of treatment), the highest mean ± standard deviation plasma concentrations of ivermectin peaked (T max) at 10 ± 8 hours post dose, the maximum concentration (C max) was 2.10 ± 1.04 ng/mL (range: 0.69 - 4.02 ng/mL) and the area under the concentration curve (AUC 0-24hr) was 36.14 ± 15.56 ng.hr/mL (range: 13.69-75.16 ng.hr/mL).
 In addition, systemic exposure assessment in longer treatment duration (Phase 3 studies) showed that there was no plasma accumulation of ivermectin over the 52-week treatment period.
 
 Distribution An in vitro study demonstrated that ivermectin is greater than 99% bound to plasma proteins and is bound primarily to human serum albumin.
