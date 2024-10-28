@@ -67,8 +67,6 @@ After up to 12 months of study treatment, 77% (27/35) of the patients in the bud
 
 In Study 4, the glucocorticoid-related effects were similar in patients with up to 12 months of therapy with budesonide extended-release tablets 6 mg and placebo (Table 3).
 
-Table 3.
-
 Table 3: Summary of Glucocorticoid-Related Effects Over 12-Month Treatment (Study 4)
 
 |  | Budesonide Extended- Release Tablets 6 mg (N=62) n (%) | Placebo (N=61) n (%) |

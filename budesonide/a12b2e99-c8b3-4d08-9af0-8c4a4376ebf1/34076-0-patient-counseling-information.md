@@ -41,5 +41,4 @@ See https://patents.salix.com for US patent information.
 
 © 2024 Oceanside Pharmaceuticals, Inc. or its affiliates
 
-| 9628702 |  |
-| --- | --- |
+9628702
