@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761216"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-815-81",
+    "71288-816-81"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "adalimumab-aqvh",
+      "name": "YUSIMRY"
+    }
+  ],
+  "setid": "4cab600d-6950-409f-a6d8-d447da22cd95",
+  "source": "dailymed"
+}
