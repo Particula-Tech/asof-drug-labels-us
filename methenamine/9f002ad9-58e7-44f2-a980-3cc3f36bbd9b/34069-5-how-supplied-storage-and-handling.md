@@ -8,18 +8,4 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in well-closed, light-resistant container with child-resistant closure.
 
-Distributed by:
-
-Aurobindo Pharma USA, Inc.
-
-279 Princeton-Hightstown Road
-
-East Windsor, NJ 08520
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 038, India
-
-Revised: 11/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2024
