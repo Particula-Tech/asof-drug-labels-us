@@ -75,22 +75,17 @@ Use sunscreen and wear clothes that cover your skin while out in sunlight.
 What are the possible side effects of ORACEA?
 ORACEA may cause serious side effects, including:
 
-- Harm to an unborn baby.
-  See “What should I tell my doctor before taking ORACEA?”
-- Permanent teeth discoloration.
+- Harm to an unborn baby.See “ What should I tell my doctor before taking ORACEA?”
+- P ermanent teeth discoloration.
   ORACEA may permanently turn a baby or child's teeth yellow-grey-brown during tooth development.
   ORACEA should not be used during tooth development.
   Tooth development happens in the last half of pregnancy, and from birth to 8 years of age.
   See “What should I tell my doctor before taking ORACEA?”
-- Intestine infection (pseudomembranous colitis).
-  Pseudomembranous colitis can happen with most antibiotics, including ORACEA.
+- Intestine infection (pseudomembranous colitis).Pseudomembranous colitis can happen with most antibiotics, including ORACEA.
   Call your doctor right away if you get diarrhea or bloody stools.
-- Immune system reactions including a lupus-like syndrome, hepatitis,and inflammation of blood or lymph vessels (vasculitis).
-  Stop taking ORACEA and tell your doctor right away if you get joint pain, fever, rash, or body weakness.
-- Discoloration (hyperpigmentation).
-  ORACEA can cause darkening of your skin, scars, teeth, gums, nails, and whites of your eyes.
-- Benign intracranial hypertension, also called pseudotumor cerebri.
-  This is a condition where there is high pressure in the fluid around the brain.
+- I mmune system reactions including a lupus-like syndrome, hepatitis,and inflammation of blood or lymph vessels (vasculitis).Stop taking ORACEA and tell your doctor right away if you get joint pain, fever, rash, or body weakness.
+- Discoloration (hyperpigmentation).ORACEA can cause darkening of your skin, scars, teeth, gums, nails, and whites of your eyes.
+- Benign intracranial hypertension, also called pseudotumor cerebri.This is a condition where there is high pressure in the fluid around the brain.
   This swelling may lead to vision changes and permanent vision loss.
   Stop taking ORACEA and tell your doctor right away if you have blurred vision, vision loss, or unusual headaches
 

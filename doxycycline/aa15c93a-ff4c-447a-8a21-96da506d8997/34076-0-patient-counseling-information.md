@@ -4,7 +4,7 @@ See FDA-approved patient labeling (Patient Information)
 
 Patients taking ORACEA Capsules 40 mg should receive the following information and instructions:
 
-- Advise pregnant women that doxycycline, like other tetracycline-class drugs, may cause permanent discoloration of deciduous teeth and reversible inhibition of bone growth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.1 and 5.2) and Use in Specific Populations (8.1)].
+- Advise pregnant women that doxycycline, like other tetracycline-class drugs, may cause permanent discoloration of deciduous teeth and reversible inhibition of bone growth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.1and 5.2) and Use in Specific Populations (8.1)].
 - Advise women not to breastfeed during treatment with ORACEA and for 5 days after the last dose [see Use in Specific Populations (8.2)].
 - Advise patients that use of tetracycline class drugs orally during tooth development (infancy and childhood up to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
 - Advise patients that use of doxycycline, like other tetracycline-class drugs, may cause inhibition of bone growth when administered during infancy and childhood.

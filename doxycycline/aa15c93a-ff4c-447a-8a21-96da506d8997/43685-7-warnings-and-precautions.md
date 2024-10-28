@@ -15,15 +15,15 @@ This adverse reaction is more common during long-term use of the drug but has be
 Enamel hypoplasia has also been reported.
 Use of tetracycline drugs is not recommended during tooth development [see Use in Specific Populations (8.1)].
 
-## 5.3 Clostridium difficile Associated Diarrhea (CDAD)
+## 5.3 Clostridium difficileAssociated Diarrhea (CDAD)
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including doxycycline, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficileassociated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including doxycycline, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficilemay need to be discontinued.
 Appropriate management should be instituted as clinically indicated.
 
 ## 5.4 Metabolic Effects
@@ -71,7 +71,7 @@ Because of the potential for drug-resistant bacteria to develop during the use o
 As with other antibiotic preparations, use of ORACEA may result in overgrowth of non-susceptible microorganisms, including fungi.
 If superinfection occurs, ORACEA should be discontinued and appropriate therapy instituted.
 Although not observed in clinical trials with ORACEA, the use of tetracyclines may increase the incidence of vaginal candidiasis.
-ORACEA should be used with caution in patients with a history of or predisposition to Candida overgrowth.
+ORACEA should be used with caution in patients with a history of or predisposition to Candidaovergrowth.
 
 ## 5.11 Laboratory Monitoring
 
