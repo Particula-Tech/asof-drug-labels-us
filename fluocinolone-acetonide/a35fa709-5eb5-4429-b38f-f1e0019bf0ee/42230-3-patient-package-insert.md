@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-TRI-LUMA® (try-LOOM-ah)
+TRI-LUMA ®(try-LOOM-ah)
 
 (fluocinolone acetonide 0.01%, hydroquinone 4%, and tretinoin 0.05%)
 
@@ -11,8 +11,7 @@ Do not use TRI-LUMA Cream in your mouth, eyes, or vagina.
 
 What is the most important information I should know about TRI-LUMA Cream?
 
-TRI-LUMA Cream may cause birth defects or death of the baby if used during pregnancy.
-The risk of birth defects or death of the baby may be greater if TRI-LUMA Cream is used during the first trimester of pregnancy.
+TRI-LUMA Cream may cause birth defects or death of the baby if used during pregnancy.The risk of birth defects or death of the baby may be greater if TRI-LUMA Cream is used during the first trimester of pregnancy.
 Tell your doctor if you are pregnant or plan to become pregnant.
 
 If you become pregnant while using TRI-LUMA Cream, tell your doctor right away.
@@ -30,7 +29,7 @@ It is not known if TRI-LUMA Cream is safe and effective in people with dark brow
 It is not known if TRI-LUMA Cream is safe and effective in the treatment of dark spots (hyperpigmentation) of the skin caused by conditions other than melasma of the face.
 
 It is not known if TRI-LUMA Cream is safe and effective in females who are pregnant or who are breastfeeding.
-See "What is the most important information I should know about TRI-LUMA Cream? and What should I tell my doctor before using TRI-LUMA Cream?"
+See "What is the most important information I should know about TRI-LUMA Cream?and What should I tell my doctor before using TRI-LUMA Cream?"
 
 Who should not use TRI-LUMA Cream?
 
@@ -49,7 +48,7 @@ Before you use TRI-LUMA Cream, tell your doctor if you:
   It is not known if TRI-LUMA Cream passes into your breast milk.
   You should avoid skin-to-skin contact between areas treated with TRI-LUMA Cream and your baby.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements and skin products that you use.
+Tell your doctor about all the medicines you take,including prescription and over-the-counter medicines, vitamins, herbal supplements and skin products that you use.
 
 How should I use TRI-LUMA Cream?
 
@@ -95,8 +94,7 @@ TRI-LUMA Cream may cause serious side effects, including:
   One of the medicines in TRI-LUMA Cream can cause a blue-black darkening of your skin.
   Stop using TRI-LUMA Cream and tell your doctor if you develop a blue-black darkening of your skin.
 
-• TRI-LUMA Cream can pass through your skin.
-Too much TRI-LUMA Cream passing through your skin can cause your adrenal glands to stop working.
+• TRI-LUMA Cream can pass through your skin.Too much TRI-LUMA Cream passing through your skin can cause your adrenal glands to stop working.
 Your doctor may do blood tests to check for adrenal gland problems.
 
 - skin irritation.
@@ -143,9 +141,9 @@ You can ask your pharmacist or doctor for information about TRI-LUMA Cream that 
 
 What are the ingredients in TRI-LUMA Cream?
 
-Active ingredients: fluocinolone acetonide, hydroquinone, and tretinoin
+Active ingredients:fluocinolone acetonide, hydroquinone, and tretinoin
 
-Inactive ingredients: butylated hydroxytoluene, cetyl alcohol, citric acid anhydrous, glycerin, glyceryl stearate, magnesium aluminum silicate, methyl gluceth-10, methylparaben, PEG-100 stearate, propylparaben, purified water, sodium metabisulfite, stearic acid, and stearyl alcohol
+Inactive ingredients:butylated hydroxytoluene, cetyl alcohol, citric acid anhydrous, glycerin, glyceryl stearate, magnesium aluminum silicate, methyl gluceth-10, methylparaben, PEG-100 stearate, propylparaben, purified water, sodium metabisulfite, stearic acid, and stearyl alcohol
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 

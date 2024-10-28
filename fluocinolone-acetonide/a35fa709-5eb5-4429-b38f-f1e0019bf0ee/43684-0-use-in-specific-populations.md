@@ -24,13 +24,13 @@ Animal reproductive studies are not available with topical hydroquinone.
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
-• In a dermal application study using TRI-LUMA Cream in pregnant rabbits, there was an increase in the number of in utero deaths and a decrease in fetal weights in litters from dams treated topically with the drug product.
+• In a dermal application study using TRI-LUMA Cream in pregnant rabbits, there was an increase in the number of in uterodeaths and a decrease in fetal weights in litters from dams treated topically with the drug product.
 
 • In a dermal application study in pregnant rats treated with TRI-LUMA Cream during organogenesis there was evidence of teratogenicity of the type expected with tretinoin.
 These morphological alterations included cleft palate, protruding tongue, open eyes, umbilical hernia, and retinal folding or dysplasia.
 
 • In a dermal application study on the gestational and postnatal effects of a 10-fold dilution of TRI-LUMA Cream in rats, an increase in the number of stillborn pups, lower pup body weights, and delay in preputial separation were observed.
-An increase in overall activity was seen in some treated litters at postnatal day 22 and in all treated litters at five weeks, a pattern consistent with effects previously noted in animals exposed in utero with retinoic acids.
+An increase in overall activity was seen in some treated litters at postnatal day 22 and in all treated litters at five weeks, a pattern consistent with effects previously noted in animals exposed in uterowith retinoic acids.
 No adequate study of the late gestational and postnatal effects of the full-strength TRI-LUMA Cream has been performed.
 
 • It is difficult to interpret these animal studies on teratogenicity with TRI-LUMA Cream, because the availability of the dermal applications in these studies could not be assured, and comparison with clinical dosing is not possible.

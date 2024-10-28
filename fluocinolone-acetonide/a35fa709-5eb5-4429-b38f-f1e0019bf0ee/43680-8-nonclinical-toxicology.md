@@ -2,9 +2,9 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-When fluocinolone acetonide, hydroquinone, and tretinoin in fixed combinations equivalent to 10%, 50%, 100%, and 150% of the concentrations in the clinical formulation of TRI-LUMA Cream were applied topically to male and female CD-1 mice for up to 24 months at dosages approximating up to 50, 19,000, and 250 µg/kg/day, respectively (corresponding to dosages of 150, 57,000, and 750 μg/m2/day, respectively), no statistically significant changes in tumor incidence were observed.
+When fluocinolone acetonide, hydroquinone, and tretinoin in fixed combinations equivalent to 10%, 50%, 100%, and 150% of the concentrations in the clinical formulation of TRI-LUMA Cream were applied topically to male and female CD-1 mice for up to 24 months at dosages approximating up to 50, 19,000, and 250 µg/kg/day, respectively (corresponding to dosages of 150, 57,000, and 750 μg/m 2/day, respectively), no statistically significant changes in tumor incidence were observed.
 
-When fluocinolone acetonide, hydroquinone, and tretinoin in fixed combinations equivalent to 10%, 25%, 50%, and 100% of the concentrations in the clinical formulation of TRI-LUMA Cream were applied topically to male and female SD rats for up to 24 months at dosages approximating up to 10, 4000, and 50 µg/kg/day, respectively (corresponding to dosages of 60, 24,000, and 300 μg/m2/day, respectively), statistically significant increases in the incidences of islet cell adenomas and combined islet cell adenomas and carcinomas of the pancreas in both males and females were observed.
+When fluocinolone acetonide, hydroquinone, and tretinoin in fixed combinations equivalent to 10%, 25%, 50%, and 100% of the concentrations in the clinical formulation of TRI-LUMA Cream were applied topically to male and female SD rats for up to 24 months at dosages approximating up to 10, 4000, and 50 µg/kg/day, respectively (corresponding to dosages of 60, 24,000, and 300 μg/m 2/day, respectively), statistically significant increases in the incidences of islet cell adenomas and combined islet cell adenomas and carcinomas of the pancreas in both males and females were observed.
 The clinical relevance of these findings is unknown.
 
 Studies of hydroquinone in animals have demonstrated some evidence of carcinogenicity.
@@ -16,7 +16,7 @@ Although the significance of these studies to humans is not clear, patients shou
 
 Mutagenicity studies were not conducted with this combination of active ingredients.
 Published studies have demonstrated that hydroquinone is a mutagen and a clastogen.
-Treatment with hydroquinone has resulted in positive findings for genetic toxicity in the Ames assay in bacterial strains sensitive to oxidizing mutagens, in in vitro studies in mammalian cells, and in the in vivo mouse micronucleus assay.
+Treatment with hydroquinone has resulted in positive findings for genetic toxicity in the Ames assay in bacterial strains sensitive to oxidizing mutagens, in in vitrostudies in mammalian cells, and in the in vivomouse micronucleus assay.
 Tretinoin has been shown to be negative for mutagenesis in the Ames assay.
 Additional information regarding the genetic toxicity potential of tretinoin and of fluocinolone acetonide is not available.
 

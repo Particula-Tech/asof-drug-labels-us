@@ -33,7 +33,7 @@ In the Investigators’ assessment of melasma severity at Day 56 of treatment, t
 
 | Table 3. Investigators' Assessment of Change in Melasma Severity from Baseline to Day 56 of Treatment (combined results from trials 1 and 2) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Number (%) of Subjects at Day 56Assessment based on subjects with severity scores at Day 56. Percentages are bases on the total number in the treatment group population. |  |  |  |  |
+|  |  |  | Number (%) of Subjects at Day 56 Assessment based on subjects with severity scores at Day 56. Percentages are bases on the total number in the treatment group population. |  |  |  |  |
 |  | Baseline |  | Cleared Does not include subjects who cleared before Day 56 or were missing from the Day 56 Assessment | Mild | Moderate | Severe | Missing |
 |  | Severity Rating | n | n (%) | n (%) | n (%) | n (%) | n (%) |
 | TRI-LUMA Cream N=161 | Moderate | 124 | 36 (29) | 63 (51) | 18 (15) | 0 (0) | 7 (6) |
