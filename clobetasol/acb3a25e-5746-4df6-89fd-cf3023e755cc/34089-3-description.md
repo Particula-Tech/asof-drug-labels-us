@@ -7,6 +7,6 @@ The chemical name of clobetasol propionate is 21-chloro-9-fluoro-11β, 17-dihydr
 It has the following structural formula:
 
 Clobetasol propionate has a molecular weight of 466.97 (CAS Registry Number 25122-46-7).
-The molecular formula is C25H32CIFO5.
+The molecular formula is C 25H 32CIFO 5.
 Clobetasol propionate is a white to practically white crystalline, odorless powder insoluble in water.
 Each gram of CLOBEX (clobetasol propionate) Shampoo, 0.05%, contains 0.5 mg of clobetasol propionate in a translucent, colorless to pale yellow viscous liquid shampoo base consisting of alcohol, citric acid, coco-betaine, polyquaternium-10, purified water, sodium citrate, and sodium laureth sulfate.

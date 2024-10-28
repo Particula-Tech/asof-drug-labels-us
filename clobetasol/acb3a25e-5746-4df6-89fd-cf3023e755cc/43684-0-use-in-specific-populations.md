@@ -11,8 +11,8 @@ Clobetasol propionate has greater teratogenic potential than steroids that are l
 The effect of clobetasol propionate on pregnancy outcome and development of offspring was studied in the rat.
 Clobetasol propionate was administered subcutaneously to female rats twice daily (0, 12.5, 25, and 50 µg/kg/day) from day 7 of presumed gestation through day 25 of lactation or day 24 presumed gestation for those rats that did not deliver a litter.
 The maternal no-observed-effect-level (NOEL) for clobetasol propionate was less than 12.5 μg/kg/day due to reduced body weight gain and feed consumption during the gestation period.
-The reproductive NOEL in the dams was 25 μg/kg/day (ratio of animal dose to proposed human dose of 0.07 on a mg/m2/day basis) based on prolonged delivery at a higher dose level.
-The no-observed-adverse-effect-level (NOAEL) for viability and growth in the offspring was 12.5 μg/kg/day (ratio of animal dose to proposed human dose of 0.03 on a mg/m2/day basis) based on incidence of stillbirths, reductions in pup body weights on days 1 and 7 of lactation, increased pup mortality, increases in the incidence of umbilical hernia, and increases in the incidence of pups with cysts on the kidney at higher dose levels during the preweaning period.
+The reproductive NOEL in the dams was 25 μg/kg/day (ratio of animal dose to proposed human dose of 0.07 on a mg/m 2/day basis) based on prolonged delivery at a higher dose level.
+The no-observed-adverse-effect-level (NOAEL) for viability and growth in the offspring was 12.5 μg/kg/day (ratio of animal dose to proposed human dose of 0.03 on a mg/m 2/day basis) based on incidence of stillbirths, reductions in pup body weights on days 1 and 7 of lactation, increased pup mortality, increases in the incidence of umbilical hernia, and increases in the incidence of pups with cysts on the kidney at higher dose levels during the preweaning period.
 The weights of the epididymides and testes were significantly reduced at higher dosages.
 Despite these changes, there were no effects on the mating and fertility of the offspring.
 

@@ -1,4 +1,4 @@
-Patient Information CLOBEX® (Klo-bex) (clobetasol propionate) Shampoo Important: For use on the scalp only.
+Patient Information CLOBEX® (Klo-bex) (clobetasol propionate) Shampoo Important:For use on the scalp only.
 Do not get CLOBEX Shampoo near or in your eyes, mouth or vagina.
 Read the Patient Information that comes with CLOBEX Shampoo before you start using it and each time you get a refill.
 There may be new information.
@@ -33,7 +33,7 @@ Before you use CLOBEX Shampoo, tell your doctor if you:
 
 Talk to your doctor about the best way to feed your baby if you use CLOBEX Shampoo.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take,including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take other corticosteroid medicines by mouth or use other products on your skin that contain corticosteroids.
 You should not use other products that contain corticosteroids while you are using CLOBEX Shampoo.
 Ask your doctor or pharmacist if you are not sure.
@@ -56,8 +56,7 @@ How should I use CLOBEX Shampoo?
 
 See the “Instructions for Use” at the end of the Patient Information for detailed information about the right way to use CLOBEX Shampoo.
 What are the possible side effects of CLOBEX Shampoo?
-CLOBEX Shampoo can pass through your skin.
-Too much CLOBEX Shampoo passing through your skin can cause your adrenal glands to stop working.
+CLOBEX Shampoo can pass through your skin.Too much CLOBEX Shampoo passing through your skin can cause your adrenal glands to stop working.
 Your doctor may do blood tests to check how well your adrenal glands are working.
 The most common side effects of CLOBEX Shampoo include:
 
@@ -96,15 +95,14 @@ What are the ingredients in CLOBEX Shampoo?
 Active ingredient: clobetasol propionate Inactive ingredients (shampoo base): alcohol, citric acid, coco-betaine, polyquaternium-10, purified water, sodium citrate and sodium laureth sulfate.
 Instructions for Use CLOBEX® (KLO-bex) (clobetasol propionate) Shampoo
 
-Important: For use on the scalp only.
+Important:For use on the scalp only.
 Do not get CLOBEX Shampoo near or in your eyes, mouth or vagina.
 
 Read the Instructions for Use that comes with CLOBEX Shampoo before you start using it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 How to apply CLOBEX Shampoo to your scalp: Your hair should be dry when you apply CLOBEX Shampoo to your scalp.
-Do not get CLOBEX Shampoo on your face, in your eyes or on your lips.
-If CLOBEX Shampoo does get on these areas, rinse well with water.
+Do not get CLOBEX Shampoo on your face, in your eyes or on your lips.If CLOBEX Shampoo does get on these areas, rinse well with water.
 Step 1: To apply CLOBEX Shampoo to your scalp, part your hair at the area where it is to be applied.
 Step 2: Hold the bottle of CLOBEX Shampoo over the affected area.
 Gently squeeze the bottle and apply a small amount of shampoo to the affected area.
@@ -112,7 +110,7 @@ Step 3: Gently rub CLOBEX Shampoo into the affected area so that only the affect
 Step 4: Repeat Steps 1 through 3 to apply CLOBEX Shampoo to other affected areas on your scalp as instructed by your doctor.
 Step 5: Wash your hands after applying CLOBEX Shampoo.
 Step 6: Leave CLOBEX Shampoo on your scalp for 15 minutes.
-You should not bandage or cover your head with a shower cap, bathing cap, or a towel while CLOBEX Shampoo is on your scalp, unless your doctor tells you to.
+You should not bandage or cover your head with a shower cap, bathing cap, or a towelwhile CLOBEX Shampoo is on your scalp, unless your doctor tells you to.
 Step 7: After 15 minutes have passed, wet your hair with water.
 Lather and rinse your hair and scalp completely.
 Rinse any other parts of your body that come into contact with CLOBEX Shampoo, such as your hands, face, neck and shoulders.
