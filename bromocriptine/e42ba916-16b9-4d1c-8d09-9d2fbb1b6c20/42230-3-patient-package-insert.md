@@ -39,5 +39,5 @@
 | Distributed by: Avvisto Therapeutics, LLC Tiverton, RI 02878 USA |  |  |  |  |
 | For information for healthcare professionals, call 1-888-621-1215. |  |  |  |  |
 | CYCLOSET is a registered trademark of: VeroScience, LLC Tiverton, RI 02878 |  |  |  |  |
-| For more information, go to www.CYCLOSET.com or call 1-888-321-1215. |  |  |  |  |
+| For more information, go to www.CYCLOSET.com or call 1-888-621-1215. |  |  |  |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: 08/2020 |
