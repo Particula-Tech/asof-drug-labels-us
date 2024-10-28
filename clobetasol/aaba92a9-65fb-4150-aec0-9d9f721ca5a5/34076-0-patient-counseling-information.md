@@ -8,13 +8,13 @@ Patients using topical corticosteroids should receive the following information 
 
 - This medication is to be used as directed by the physician and should not be used longer than the prescribed time period.
 - This medication should not be used for any disorder other than that for which it was prescribed.
-- Do not use other corticosteroid-containing products while using CLOBEX® Spray, 0.05% unless directed by your physician.
+- Do not use other corticosteroid-containing products while using CLOBEX ®Spray, 0.05% unless directed by your physician.
 - The treated skin area should not be bandaged, otherwise covered, or wrapped so as to be occlusive unless directed by the physician.
 - Patients should wash their hands after applying the medication.
 - Advise patients to report any visual symptoms to their healthcare providers.
 - Patients should report any signs of local or systemic adverse reactions to the physician.
-- Patients should inform their physicians that they are using CLOBEX® Spray, 0.05% if surgery is contemplated.
-- If you go to another doctor for illness, injury or surgery, tell that doctor you are using CLOBEX® Spray, 0.05%.
+- Patients should inform their physicians that they are using CLOBEX ®Spray, 0.05% if surgery is contemplated.
+- If you go to another doctor for illness, injury or surgery, tell that doctor you are using CLOBEX ®Spray, 0.05%.
 - This medication is for external use only.
   It should not be used on the face, underarms, or groin area.
   Also avoid contact with the eyes and lips.
@@ -22,7 +22,7 @@ Patients using topical corticosteroids should receive the following information 
   If no improvement is seen within 2 weeks, contact the physician.
 - Advise a woman to use CLOBEX Spray on the smallest area of skin and for the shortest duration possible while pregnant or breastfeeding.
   Advise breastfeeding women not to apply CLOBEX Spray directly to the nipple and areola to avoid direct infant exposure
-- Patients should not use more than 50 g (59 mL or 2 fl.oz.) per week of CLOBEX® Spray, 0.05%.
+- Patients should not use more than 50 g (59 mL or 2 fl.oz.) per week of CLOBEX ®Spray, 0.05%.
 - Do not use more than 26 sprays per application or 52 sprays per day.
 - This medication is flammable; avoid heat, flame or smoking when applying this product.
 

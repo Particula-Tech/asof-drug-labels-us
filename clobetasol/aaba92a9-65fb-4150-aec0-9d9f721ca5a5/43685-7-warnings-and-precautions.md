@@ -7,7 +7,7 @@ Clobetasol propionate is a highly potent topical corticosteroid that has been sh
 Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency.
 This may occur during treatment or upon withdrawal of the topical corticosteroid.
 
-In studies evaluating the potential for hypothalamic-pituitary-adrenal (HPA) axis suppression, using the Cosyntropin Stimulation Test, CLOBEX® Spray, 0.05% demonstrated rates of suppression that were comparable after 2 and 4 weeks of twice-daily use (19% and 15-20%, respectively), in adult patients with moderate to severe plaque psoriasis (≥ 20% BSA).
+In studies evaluating the potential for hypothalamic-pituitary-adrenal (HPA) axis suppression, using the Cosyntropin Stimulation Test, CLOBEX ®Spray, 0.05% demonstrated rates of suppression that were comparable after 2 and 4 weeks of twice-daily use (19% and 15-20%, respectively), in adult patients with moderate to severe plaque psoriasis (≥ 20% BSA).
 In these studies, HPA axis suppression was defined as serum cortisol level ≤18 μg/dL 30-min post cosyntropin stimulation [see Clinical Pharmacology (12)].
 
 Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression.
@@ -45,8 +45,8 @@ Clinical diagnosis of allergic contact dermatitis can be confirmed by patch test
 ## 5.5 Concomitant Skin Infections
 
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
-If a favorable response does not occur promptly, use of CLOBEX® Spray, 0.05% should be discontinued until the infection has been adequately controlled.
+If a favorable response does not occur promptly, use of CLOBEX ®Spray, 0.05% should be discontinued until the infection has been adequately controlled.
 
 ## 5.6 Flammable Contents
 
-CLOBEX® Spray, 0.05% is flammable; keep away from heat or flame.
+CLOBEX ®Spray, 0.05% is flammable; keep away from heat or flame.

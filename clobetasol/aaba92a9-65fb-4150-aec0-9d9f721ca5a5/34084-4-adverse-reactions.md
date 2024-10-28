@@ -4,8 +4,8 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In controlled, clinical trials with CLOBEX® Spray, 0.05%, the most common adverse reaction was burning at the site of application [40% of subjects treated with CLOBEX® Spray, 0.05% and 47% of subjects treated with Spray Vehicle].
-Other commonly reported adverse reactions for CLOBEX® Spray, 0.05% and Spray Vehicle, respectively, are noted in Table 1.
+In controlled, clinical trials with CLOBEX ®Spray, 0.05%, the most common adverse reaction was burning at the site of application [40% of subjects treated with CLOBEX ®Spray, 0.05% and 47% of subjects treated with Spray Vehicle].
+Other commonly reported adverse reactions for CLOBEX ®Spray, 0.05% and Spray Vehicle, respectively, are noted in Table 1.
 
 Table 1 - Commonly Occurring Adverse Reactions (≥1% Incidence)
 
@@ -36,8 +36,8 @@ Systemic absorption of topical corticosteroids has produced hypothalamic-pituita
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during post-approval use of CLOBEX® Spray, 0.05%.
+The following adverse reactions have been identified during post-approval use of CLOBEX ®Spray, 0.05%.
 
-Skin: Burning, pruritus, erythema, pain, irritation, rash, peeling, urticaria, and contact dermatitis.
+Skin:Burning, pruritus, erythema, pain, irritation, rash, peeling, urticaria, and contact dermatitis.
 
 Ophthalmic adverse reactions of blurred vision, cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy have been reported with the use of topical corticosteroids.

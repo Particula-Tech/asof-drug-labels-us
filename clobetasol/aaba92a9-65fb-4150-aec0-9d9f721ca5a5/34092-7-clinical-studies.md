@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of CLOBEX® Spray, 0.05% in psoriasis has been demonstrated in two randomized, vehicle controlled clinical trials, which were identical in design.
+The efficacy of CLOBEX ®Spray, 0.05% in psoriasis has been demonstrated in two randomized, vehicle controlled clinical trials, which were identical in design.
 The studies were conducted in patients aged 18 years and older with moderate to severe plaque psoriasis.
-Patients were treated twice daily for up to 4 weeks with either CLOBEX® Spray, 0.05% or vehicle spray.
+Patients were treated twice daily for up to 4 weeks with either CLOBEX ®Spray, 0.05% or vehicle spray.
 
 Patients were evaluated on their Overall Disease Severity, a 5-point scale based on scaling, erythema, and plaque elevation that classified subjects as clear, almost clear, mild, moderate, or severe/very severe.
 Only patients classified as moderate or severe/very severe at baseline were enrolled in the studies.

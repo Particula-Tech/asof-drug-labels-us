@@ -39,19 +39,16 @@ You should not use CLOBEX® Spray for more than 4 weeks unless your doctor tells
 This can increase your risk of serious side effects.
 See the "Instructions for Use" at the end of the Patient Information for detailed information on the right way to apply CLOBEX® Spray.
 
-What should I avoid while using CLOBEX®Spray? • CLOBEX® Spray is flammable.
-Avoid heat, flames or smoking while applying CLOBEX® Spray to your skin.
+What should I avoid while using CLOBEX®Spray? • CLOBEX® Spray is flammable.Avoid heat, flames or smoking while applying CLOBEX® Spray to your skin.
 
-What are the possible side effects of CLOBEX® Spray? • Clobex® Spray can pass through your skin.
-Too much Clobex® Spray passing through your skin can cause your adrenal glands to stop working.
+What are the possible side effects of CLOBEX® Spray? • Clobex® Spray can pass through your skin.Too much Clobex® Spray passing through your skin can cause your adrenal glands to stop working.
 Your doctor may do blood tests to check how well your adrenal glands are working.
 The most common side effects with CLOBEX® Spray include: • burning at treated site • upper respiratory tract infection • runny nose • sore throat • dry, itchy, and reddened skin If you go to another doctor for illness, injury or surgery, tell that doctor you are using Clobex® Spray.
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of CLOBEX® Spray.
 For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137
+You may report side effects to FDA at 1-800-FDA-1088.You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137
 
 How should I store CLOBEX®Spray? • Store CLOBEX® Spray at room temperature between 68°F to 77°F (20°C to 25°C). • Do not store CLOBEX® Spray above 86°F (30°C). • Do not freeze or refrigerate CLOBEX® Spray. • Keep the bottle of CLOBEX® Spray tightly closed. • Keep away from heat or flame.
 
@@ -66,7 +63,7 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about CLOBEX® Spray that is written for health professionals.
 
 What are the ingredients of CLOBEX® Spray?
-Active ingredient: clobetasol propionate Inactive ingredients: alcohol, isopropyl myristate, sodium lauryl sulfate, and undecylenic acid.
+Activeingredient: clobetasol propionate Inactiveingredients: alcohol, isopropyl myristate, sodium lauryl sulfate, and undecylenic acid.
 
 Read the Instructions for Use that comes with CLOBEX® Spray before you start using it and each time you get a refill.
 There may be new information.
@@ -74,25 +71,25 @@ This information does not take the place of talking with your doctor about your 
 Parts of CLOBEX® Spray (See Figure A) When you receive CLOBEX® Spray the Directional Spray Nozzle is in the “locked” position with the nozzle pointing downwards.
 (See Figure B)
 
-How to apply CLOBEX® Spray: Step 1: To unlock the Directional Spray Nozzle, hold the CLOBEX® Spray bottle and sides of the Pump Top with one hand.
+How to apply CLOBEX® Spray: Step 1:To unlock the Directional Spray Nozzle, hold the CLOBEX® Spray bottle and sides of the Pump Top with one hand.
 Use your other hand to turn the Directional Spray Nozzle to either the right or the left.
-(See Figure C) The spray will come out through the opening at the end of the Directional Spray Nozzle.
+(SeeFigure C) The spray will come out through the opening at the end of the Directional Spray Nozzle.
 
-Step 2: To apply CLOBEX® Spray, point the Directional Spray Nozzle to the affected area.
+Step 2:To apply CLOBEX® Spray, point the Directional Spray Nozzle to the affected area.
 To spray, push down on the Pump Top.
 Apply CLOBEX® Spray to the affected area as instructed by your doctor.
 (See Figure D)
 
-Step 3: Spray only enough CLOBEX® Spray to cover the affected area, for example, the elbow.
+Step 3:Spray only enough CLOBEX® Spray to cover the affected area, for example, the elbow.
 (SeeFigure E) Rub in CLOBEX® Spray gently and completely. • You should not apply CLOBEX® Spray to your face, underarms or groin.
 Avoid contact with eyes. • To apply to your scalp, part your hair at the area where CLOBEX® Spray is to be applied.
 Spray directly on the affected area, and then rub in gently and completely.
 (See Figure F) • Repeat Steps 2 and 3 to apply CLOBEX® Spray to other affected areas as instructed by your doctor
 
-Step 4: After applying CLOBEX® Spray, return the Directional Spray Nozzle to the “locked” position.
-(See Figure G)
+Step 4:After applying CLOBEX® Spray, return the Directional Spray Nozzle to the “locked” position.
+(SeeFigure G)
 
-Step 5: Wash your hands after applying CLOBEX® Spray.
+Step 5:Wash your hands after applying CLOBEX® Spray.
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 Marketed by: GALDERMA LABORATORIES, L.P., Dallas, TX 75201 USA Made in Canada Revised: 02/2023 All trademarks are the property of their respective owners.
 P51011-3

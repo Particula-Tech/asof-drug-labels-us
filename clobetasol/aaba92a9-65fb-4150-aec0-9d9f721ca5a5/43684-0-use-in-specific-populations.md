@@ -41,7 +41,7 @@ Advise breastfeeding women not to apply CLOBEX® Spray directly to the nipple an
 ## 8.3 Pediatric Use
 
 Use in patients under 18 years of age is not recommended, because safety has not been established and because numerically high rates of HPA axis suppression were seen with other clobetasol propionate topical formulations.
-Safety and effectiveness in pediatric patients treated with CLOBEX® Spray, 0.05% have not been established [see Warnings and Precautions (5.1)].
+Safety and effectiveness in pediatric patients treated with CLOBEX ®Spray, 0.05% have not been established [see Warnings and Precautions (5.1)].
 
 Because of higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of glucocorticosteroid insufficiency during and/or after withdrawal of treatment.
@@ -53,6 +53,6 @@ Manifestations of intracranial hypertension include bulging fontanelles, headach
 
 ## 8.4 Geriatric Use
 
-Clinical studies of CLOBEX® Spray, 0.05% did not include sufficient numbers of patients aged 65 and over to adequately determine whether they respond differently than younger patients.
+Clinical studies of CLOBEX ®Spray, 0.05% did not include sufficient numbers of patients aged 65 and over to adequately determine whether they respond differently than younger patients.
 In two randomized, vehicle controlled clinical trials, 21 of the 240 patients (9%) were over the age of 65.
 In general, dose selection for an elderly patient should be made with caution, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
