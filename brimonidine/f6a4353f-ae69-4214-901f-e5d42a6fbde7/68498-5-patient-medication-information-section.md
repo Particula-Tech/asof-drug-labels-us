@@ -2,7 +2,7 @@
 
 MIRVASO (Mer-VAY-soe) (brimonidine) topical gel
 
-Important information: MIRVASO® topical gel is for use on the face only.
+Important information:MIRVASO ®topical gel is for use on the face only.
 Do not use MIRVASO topical gel in your eyes, mouth, or vagina.
 Keep MIRVASO topical gel out of the reach of children.
 If anyone, especially a child, accidentally swallows MIRVASO topical gel, they may have serious side effects and need to be treated in a hospital.
@@ -15,7 +15,7 @@ It is not known if MIRVASO topical gel is safe and effective in children.
 
 Who should not use MIRVASO topical gel?
 
-Do not use MIRVASO topical gel if you have had a serious allergic reaction to any of the ingredients in MIRVASO topical gel.
+Do not use MIRVASO topical gel if youhave had a serious allergic reaction to any of the ingredients in MIRVASO topical gel.
 See the end of this Patient Information leaflet for a list of ingredients in MIRVASO topical gel.
 See “What are the possible side effects of MIRVASO topical gel?”
 
@@ -35,8 +35,7 @@ How should I use MIRVASO topical gel?
 
 See the detailed Instructions for Use that comes with your MIRVASO topical gel tube or pump for information about how to apply MIRVASO topical gel correctly.
 
-• Use MIRVASO topical gel exactly as your doctor tells you.
-Do not use more MIRVASO topical gel than prescribed.
+• Use MIRVASO topical gel exactly as your doctor tells you.Do not use more MIRVASO topical gel than prescribed.
 Call your doctor if you are not sure. • You should not apply MIRVASO topical gel to irritated skin or open wounds. • MIRVASO topical gel is for use on your skin only.
 Do not use MIRVASO topical gel in your eyes, mouth, or vagina.
 Avoid contact with your lips and eyes.
@@ -47,12 +46,11 @@ MIRVASO topical gel may cause serious side effects, including:
 
 • See “Important information” at the beginning of this Patient Information leaflet.
 
-• Problems with blood circulation.
-People who use MIRVASO topical gel can have problems with blood circulation, including a slow heart rate, low blood pressure, and dizziness.
+• Problems with blood circulation.People who use MIRVASO topical gel can have problems with blood circulation, including a slow heart rate, low blood pressure, and dizziness.
 These problems may sometimes be serious and lead to hospitalization.
 See “What should I tell my doctor before using MIRVASO topical gel?”
 
-• Serious allergic (hypersensitivity) reactions have happened in people who use MIRVASO topical gel.
+• Serious allergic (hypersensitivity) reactionshave happened in people who use MIRVASO topical gel.
 Stop using MIRVASO topical gel and go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of a serious allergic reaction including:
 
 o swelling of your face, lips, tongue, or throat o hives o trouble breathing
@@ -95,7 +93,7 @@ Revised: Nov 2017
 
 Instructions for Use MIRVASO (Mer-VAY-soe) (brimonidine)topical geltube
 
-Important: MIRVASO® topical gel is for use on the face only.
+Important:MIRVASO ®topical gel is for use on the face only.
 Do not use MIRVASO topical gel in your eyes, mouth, or vagina.
 
 Keep MIRVASO topical gel out of the reach of children.
@@ -147,7 +145,7 @@ Revised: October 2015
 
 Instructions for Use MIRVASO (Mer-VAY-soe) (brimonidine)topical gelPump
 
-Important: MIRVASO® topical gel is for use on the face only.
+Important:MIRVASO ®topical gel is for use on the face only.
 Do not use MIRVASO topical gel in your eyes, mouth, or vagina.
 
 Keep MIRVASO topical gel out of the reach of children.
@@ -162,7 +160,7 @@ Read and follow the steps below so that you use your MIRVASO topical gel correct
 1.
 Push the cap down and turn it counter-clockwise until the cap can be removed.
 See Figures A and B. The clear sticker will break when opening for the first time.
-Note: when the cap is removed, the pump is not child-resistant.
+Note:when the cap is removed, the pump is not child-resistant.
 
 Figure A
 

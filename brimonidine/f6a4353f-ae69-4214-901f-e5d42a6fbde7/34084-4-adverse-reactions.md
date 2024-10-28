@@ -35,7 +35,7 @@ Table 1 - Adverse Reactions Reported in Clinical Trials by at Least 1% of Subjec
 Open-label, Long-term Study An open-label study of MIRVASO topical gel when applied once daily for up to one year was conducted in subjects with persistent (nontransient) facial erythema of rosacea.
 Subjects were allowed to use other rosacea therapies.
 A total of 276 subjects applied MIRVASO topical gel for at least one year.
-The most common adverse events (> 4% of subjects) for the entire study were flushing (10%), erythema (8%), rosacea (5%), nasopharyngitis (5%), skin burning sensation (4%), increased intraocular pressure (4%), and headache (4%).
+The most common adverse events (>4% of subjects) for the entire study were flushing (10%), erythema (8%), rosacea (5%), nasopharyngitis (5%), skin burning sensation (4%), increased intraocular pressure (4%), and headache (4%).
 
 Allergic contact dermatitis Allergic contact dermatitis to MIRVASO topical gel was reported in approximately 1% of subjects across the clinical development program.
 Two subjects underwent patch testing with individual product ingredients.
@@ -46,10 +46,10 @@ One subject was found to be sensitive to brimonidine tartrate, and one subject w
 The following adverse reactions have been identified during post-approval use of MIRVASO topical gel.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular disorders: bradycardia, hypotension (including orthostatic hypotension)
+Cardiovascular disorders:bradycardia, hypotension (including orthostatic hypotension)
 
-Immune system disorders: angioedema, hypersensitivity, lip swelling, swollen tongue, throat tightness, urticaria
+Immune system disorders:angioedema, hypersensitivity, lip swelling, swollen tongue, throat tightness, urticaria
 
-Nervous systemic disorders: dizziness
+Nervous systemic disorders:dizziness
 
-Skin and subcutaneous disorders: pallor
+Skin and subcutaneous disorders:pallor

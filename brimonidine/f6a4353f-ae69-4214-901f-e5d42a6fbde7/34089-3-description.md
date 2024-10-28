@@ -2,7 +2,7 @@
 
 MIRVASO (brimonidine) topical gel, 0.33% contains brimonidine tartrate, an alpha adrenergic agonist.
 
-The molecular formula of brimonidine tartrate is C11H10BrN5 • C4H6O6.
+The molecular formula of brimonidine tartrate is C 11H 10BrN 5• C 4H 6O 6.
 It has the following structural formula:
 
 Chemically, brimonidine tartrate is 5-Bromo-6-(2-imidazolidinylideneamino) quinoxaline L-tartrate.

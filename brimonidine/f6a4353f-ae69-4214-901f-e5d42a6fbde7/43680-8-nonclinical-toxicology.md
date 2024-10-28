@@ -15,7 +15,7 @@ The results of this study suggest that topical treatment with MIRVASO topical ge
 
 Mutagenesis
 
-Brimonidine tartrate was not mutagenic or clastogenic in a series of in vitro and in vivo studies, including the Ames test, a chromosomal aberration assay in Chinese Hamster Ovary (CHO) cells, and three studies in CD1 mice (a host-mediated assay, a cytogenetic study, and a dominant lethal assay).
+Brimonidine tartrate was not mutagenic or clastogenic in a series of in vitroand in vivostudies, including the Ames test, a chromosomal aberration assay in Chinese Hamster Ovary (CHO) cells, and three studies in CD1 mice (a host-mediated assay, a cytogenetic study, and a dominant lethal assay).
 
 Impairment of Fertility
 

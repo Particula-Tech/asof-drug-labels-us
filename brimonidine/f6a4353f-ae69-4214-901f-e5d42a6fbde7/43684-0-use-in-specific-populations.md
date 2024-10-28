@@ -25,5 +25,5 @@ Safety and effectiveness in pediatric patients have not been established.
 ## 8.5 Geriatric Use
 
 One hundred and five subjects aged 65 and older were included in clinical trials with MIRVASO topical gel.
-No overall differences in safety or effectiveness were observed between subjects > 65 years of age and younger adult subjects.
+No overall differences in safety or effectiveness were observed between subjects >65 years of age and younger adult subjects.
 Clinical studies of MIRVASO topical gel did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

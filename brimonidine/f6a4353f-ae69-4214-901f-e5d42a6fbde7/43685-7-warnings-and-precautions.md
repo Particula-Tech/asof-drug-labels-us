@@ -32,7 +32,7 @@ Erythema
 Some subjects in the clinical trials discontinued use of MIRVASO topical gel because of erythema.
 Some subjects in the clinical trials reported a rebound phenomenon, where erythema was reported to return worse compared to the severity at baseline.
 
-Erythema appeared to resolve after discontinuation of MIRVASO topical gel.[see Adverse Reactions (6.1)].
+Erythema appeared to resolve after discontinuation of MIRVASO topical gel.[seeAdverse Reactions (6.1)].
 
 The treatment effect of MIRVASO topical gel may begin to diminish hours after application.
 
