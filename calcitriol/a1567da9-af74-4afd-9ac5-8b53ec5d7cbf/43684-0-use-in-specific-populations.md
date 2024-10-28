@@ -9,7 +9,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Data Animal Data Embryo-fetal development studies with calcitriol were performed in which rats were treated orally at dosages up to 0.9 mcg/kg/day (5.4 mcg/m2/day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area.
+Data Animal Data Embryo-fetal development studies with calcitriol were performed in which rats were treated orally at dosages up to 0.9 mcg/kg/day (5.4 mcg/m 2/day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area.
 No effects on reproductive or fetal parameters were observed in rats.
 In rabbits, topically applied calcitriol induced a significantly elevated mean post-implantation loss and an increased incidence of minor skeletal abnormalities due to delayed ossification of the pubic bones.
 A slightly increased incidence of skeletal variation (extra 13th rib, reduced ossification of epiphyses) was also observed.

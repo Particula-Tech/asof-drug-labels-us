@@ -1,7 +1,6 @@
 PATIENT INFORMATION VECTICAL® (Vek te kal) (calcitriol) Ointment
 
-Important: VECTICAL Ointment is for use on the skin only (topical use).
-Do not use VECTICAL Ointment in your mouth, eyes, or vagina.
+Important: VECTICAL Ointment is for use on the skin only (topical use).Do not use VECTICAL Ointment in your mouth, eyes, or vagina.
 What is VECTICAL Ointment?
 VECTICAL Ointment is a prescription medicine used on the skin (topical) to treat mild to moderate plaque psoriasis in adults and children 2 years and older.
 It is not known if VECTICAL Ointment is safe and effective in children under 2 years of age.
@@ -41,9 +40,8 @@ How should I use VECTICAL Ointment?
 What are the possible side effects of VECTICAL Ointment?
 VECTICAL Ointment may cause serious side effects, including:
 
-- Too much calcium in your blood (hypercalcemia) may occur with VECTICAL Ointment.
-  Your healthcare provider may tell you to stop using VECTICAL Ointment until your calcium levels become normal.
-- The most common side effects of VECTICAL Ointment include increased urine calcium level, itching, and skin discomfort.
+- Too much calcium in your blood (hypercalcemia) may occur with VECTICAL Ointment.Your healthcare provider may tell you to stop using VECTICAL Ointment until your calcium levels become normal.
+- The most common side effects of VECTICAL Ointment includeincreased urine calcium level, itching, and skin discomfort.
 
 These are not all of the possible side effects of VECTICAL Ointment.
 Call your doctor for medical advice about side effects.
@@ -65,7 +63,7 @@ It may harm them.
 You can ask your healthcare provider or pharmacist for information about VECTICAL Ointment that is written for health professionals.
 
 What are the ingredients in VECTICAL Ointment?
-Active ingredient: calcitriol Inactive ingredients: mineral oil, dl-α-tocopherol, and white petrolatum.
+Active ingredient:calcitriol Inactive ingredients:mineral oil, dl-α-tocopherol, and white petrolatum.
 
 Manufactured by:
 

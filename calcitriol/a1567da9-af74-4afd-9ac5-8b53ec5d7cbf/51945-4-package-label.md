@@ -7,9 +7,9 @@ For topical use only.
 Not for ophthalmic, oral or intravaginal use.
 Usual dosage: Apply to affected areas twice daily.
 See package insert for complete prescribing information.
-Each gram contains: calcitriol 3mcg in an ointment base consisting of mineral oil, dl-α-tocopherol, and white petrolatum,
+Each gram contains:calcitriol 3mcg in an ointment base consisting of mineral oil, dl-α-tocopherol, and white petrolatum,
 
-Storage: Store at controlled room temperature 68° - 77° (20° -25°C) with excursions permitted between 59° - 86°F (15° - 30°C).
+Storage:Store at controlled room temperature 68° - 77° (20° -25°C) with excursions permitted between 59° - 86°F (15° - 30°C).
 Do not freeze or refrigerate.
 Marketed by: GALDERMA LABORATORIES, L.P.
 Dallas, Texas 75201 USA Made in Canada.

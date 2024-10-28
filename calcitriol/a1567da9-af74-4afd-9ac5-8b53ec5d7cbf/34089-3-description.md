@@ -6,7 +6,7 @@ The structural formula is:
 
 Calcitriol is a white or almost white crystalline solid.
 It is practically insoluble in water, soluble in alcohol and in fatty oils.
-The molecular formula is C27H44O3, and the molecular weight is 416.64.
+The molecular formula is C 27H 44O 3, and the molecular weight is 416.64.
 
 VECTICAL Ointment is a translucent ointment containing 3 mcg/g (0.0003% w/w) of calcitriol, packaged in aluminum tubes with screw caps.
 Other components of the ointment are mineral oil, dl-α-tocopherol, and white petrolatum.
