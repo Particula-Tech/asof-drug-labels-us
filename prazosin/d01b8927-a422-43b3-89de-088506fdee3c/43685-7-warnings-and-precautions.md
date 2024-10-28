@@ -32,7 +32,7 @@ This variant of small pupil syndrome is characterized by the combination of a fl
 The patient’s ophthalmologist should be prepared for possible modifications to the surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
 There does not appear to be a benefit of stopping alpha-1 blocker therapy prior to cataract surgery.
 
-## Information for Patients
+## Information for Patients:
 
 Dizziness or drowsiness may occur after the first dose of this medicine.
 Avoid driving or performing hazardous tasks for the first 24 hours after taking this medicine or when the dose is increased.
@@ -45,7 +45,8 @@ Check with your physician if you have any questions.
 
 ## Drug Interactions
 
-Prazosin hydrochloride has been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides– digitalis and digoxin; (2) hypoglycemics–insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives–chlordiazepoxide, diazepam, and phenobarbital; (4) antigout– allopurinol, colchicine, and probenecid; (5) antiarrhythmics–procainamide, propranolol (see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories– propoxyphene, aspirin, indomethacin, and phenylbutazone.
+Prazosin hydrochloride has been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides– digitalis and digoxin; (2) hypoglycemics-insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives-chlordiazepoxide, diazepam, and phenobarbital; (4) antigout-allopurinol, colchicine, and probenecid; (5) antiarrhythmics-procainamide, propranolol (see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories-propoxyphene, aspirin, indomethacin, and phenylbutazone.
+
 Addition of a diuretic or other antihypertensive agent to prazosin hydrochloride has been shown to cause an additive hypotensive effect.
 This effect can be minimized by reducing the prazosin hydrochloride dose to 1 to 2 mg three times a day, by introducing additional antihypertensive drugs cautiously, and then by retitrating prazosin hydrochloride based on clinical response.
 Concomitant administration of prazosin hydrochloride with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension (see DOSAGE AND ADMINISTRATION).
@@ -60,7 +61,7 @@ If an elevated VMA is found, prazosin should be discontinued and the patient ret
 
 In clinical studies in which lipid profiles were followed, there were generally no adverse changes noted between pre-and post-treatment lipid levels.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 No carcinogenic potential was demonstrated in an 18 month study in rats with prazosin hydrochloride at dose levels more than 225 times the usual maximum recommended human dose of 20 mg per day.
 Prazosin hydrochloride was not mutagenic in in vivo genetic toxicology studies.
@@ -71,7 +72,7 @@ No testicular changes were seen in rats or dogs at 10 mg/kg/day (30 times the us
 In view of the testicular changes observed in animals, 105 patients on long term prazosin hydrochloride therapy were monitored for 17-ketosteroid excretion and no changes indicating a drug effect were observed.
 In addition, 27 males on prazosin hydrochloride for up to 51 months did not have changes in sperm morphology suggestive of drug effect.
 
-## Usage in Pregnancy
+## Usage in Pregnancy:
 
 Prazosin hydrochloride has been shown to be associated with decreased litter size at birth, 1, 4, and 21 days of age in rats when given doses more than 225 times the usual maximum recommended human dose.
 No evidence of drug-related external, visceral, or skeletal fetal abnormalities were observed.
@@ -88,7 +89,7 @@ No fetal or neonatal abnormalities have been reported with the use of prazosin.
 There are no adequate and well controlled studies which establish the safety of prazosin hydrochloride in pregnant women.
 Prazosin hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Prazosin hydrochloride has been shown to be excreted in small amounts in human milk.
 Caution should be exercised when prazosin hydrochloride is administered to a nursing woman.

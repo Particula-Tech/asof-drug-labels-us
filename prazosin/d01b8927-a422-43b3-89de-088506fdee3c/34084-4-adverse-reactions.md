@@ -16,7 +16,7 @@ Dermatologic: rash.
 
 Genitourinary: urinary frequency.
 
-EENT: blurred vision, reddened sclera, epistaxis, dry mouth, nasal congestion
+EENT: blurred vision, reddened sclera, epistaxis, dry mouth, nasal congestion.
 
 In addition, fewer than 1% of patients have reported the following (in some instances, exact causal relationships have not been established):
 
