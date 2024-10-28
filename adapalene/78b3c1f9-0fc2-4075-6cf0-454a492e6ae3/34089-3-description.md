@@ -8,5 +8,5 @@ Adapalene has the following structural formula:
 
 Adapalene:
 
-Molecular formula: C28H28O3 Molecular weight: 412.5 Each gram of DIFFERIN Lotion contains 1 mg of adapalene.
+Molecular formula: C 28H 28O 3 Molecular weight: 412.5 Each gram of DIFFERIN Lotion contains 1 mg of adapalene.
 The lotion also contains the following inactive ingredients: carbomer 941, disodium edetate, medium chain triglycerides, methylparaben, phenoxyethanol, poloxamer 124, polyoxyl-6-polyoxyl-32 palmitostearate, PPG12/SMDI copolymer, propylene glycol, propylparaben, purified water, sodium hydroxide, and stearyl alcohol.

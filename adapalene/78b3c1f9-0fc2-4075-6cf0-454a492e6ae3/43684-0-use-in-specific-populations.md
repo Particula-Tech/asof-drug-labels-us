@@ -9,9 +9,9 @@ All pregnancies have a background risk of birth defects, loss, or other adverse 
 In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
 
 Data Animal Data No malformations were observed in rats treated with oral adapalene doses of 0.15 to 5.0 mg/kg/day, up to 24 times the MRHD based on a mg/m2 comparison.
-However, malformations were observed in rats and rabbits when treated with oral doses of ≥ 25 mg/kg/day adapalene (122 and 243 times the MRHD, respectively, based on a mg/m2 comparison).
+However, malformations were observed in rats and rabbits when treated with oral doses of ≥ 25 mg/kg/day adapalene (122 and 243 times the MRHD, respectively, based on a mg/m 2comparison).
 Findings included cleft palate, microphthalmia, encephalocele, and skeletal abnormalities in rats and umbilical hernia, exophthalmos, and kidney and skeletal abnormalities in rabbits.
-Dermal adapalene embryofetal development studies in rats and rabbits at doses up to 6.0 mg/kg/day (29 and 58 times the MRHD, respectively, based on a mg/m2 comparison) exhibited no fetotoxicity and only minimal increases in skeletal variations (supernumerary ribs in both species and delayed ossification in rabbits).
+Dermal adapalene embryofetal development studies in rats and rabbits at doses up to 6.0 mg/kg/day (29 and 58 times the MRHD, respectively, based on a mg/m 2comparison) exhibited no fetotoxicity and only minimal increases in skeletal variations (supernumerary ribs in both species and delayed ossification in rabbits).
 
 ## 8.2 Lactation
 

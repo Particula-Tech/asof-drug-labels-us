@@ -23,5 +23,5 @@ In the adult population, all plasma concentrations in 12 out of 14 subjects were
 One subject had one sample above LOQ at day 30 and the other subject had four plasma samples above LOQ on both days 1 and 15, which ranged from 0.102 and 0.131 ng/mL.
 
 In the adolescent population, plasma concentrations were quantifiable (>0.1 ng/mL) in five subjects.
-On Day 28, the mean Cmax was 0.128 ± 0.049 ng/mL (range: <0.100 to 0.244 ng/mL) and the mean of AUC0-24hr was 3.07 ± 1.21 ng.hr/mL (range: 1.86 to 4.93 ng.hr/mL).
+On Day 28, the mean C maxwas 0.128 ± 0.049 ng/mL (range: <0.100 to 0.244 ng/mL) and the mean of AUC 0-24hrwas 3.07 ± 1.21 ng.hr/mL (range: 1.86 to 4.93 ng.hr/mL).
 Adapalene plasma concentrations in all subjects were below the limit of quantification (<0.1 ng/mL) 48 hours after the last application on Day 28.

@@ -41,4 +41,4 @@ In an open label postmarketing pharmacokinetic trial of 13 adolescent subjects, 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of adapalene: Immune system disorders: angioedema, face edema, lip swelling Skin disorders: application site pain Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of adapalene: Immune system disorders:angioedema, face edema, lip swelling Skin disorders:application site pain Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
