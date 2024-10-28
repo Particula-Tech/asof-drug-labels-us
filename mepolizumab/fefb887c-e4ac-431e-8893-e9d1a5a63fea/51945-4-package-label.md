@@ -1,5 +1,3 @@
-# Package/Label Display Panel
-
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0881-01
@@ -74,6 +72,8 @@ Do not accept if security seal is missing or broken.
 
 1. 62000000087671 Rev.
    5/23
+2. 
+3. 
 
 PRINCIPAL DISPLAY PANEL
 
