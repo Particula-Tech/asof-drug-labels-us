@@ -2,14 +2,14 @@
 
 EPIDUO FORTE (Ep-E-Do-Oh For-Tay) (adapalene and benzoyl peroxide) topical gel
 
-Important Information: EPIDUO FORTE is for use on the skin only (topical).
+Important Information:EPIDUO FORTE is for use on the skin only (topical).
 Do not use EPIDUO FORTE in or on your mouth, eyes, or vagina.
 
 What is EPIDUO FORTE?
 EPIDUO FORTE is a prescription medicine used on the skin (topical) to treat acne vulgaris.
 It is not known whether EPIDUO FORTE is safe and effective in children under 12 years of age.
 
-Do not use EPIDUO FORTE if you have had an allergic reaction to benzoyl peroxide or any of the ingredients in EPIDUO FORTE.
+Do not use EPIDUO FORTE if youhave had an allergic reaction to benzoyl peroxide or any of the ingredients in EPIDUO FORTE.
 See the end of this Patient Information leaflet for a complete list of ingredients in EPIDUO FORTE.
 
 Before using EPIDUO FORTE, tell your doctor about all of your medical conditions, including if you:
@@ -55,15 +55,13 @@ What should I avoid while using EPIDUO FORTE?
 What are the possible side effects of EPIDUO FORTE?
 EPIDUO FORTE may cause serious side effects including:
 
-- Allergic reactions.
-  Stop using EPIDUO FORTE and get medical help right away if you have any of the following symptoms during treatment with EPIDUO FORTE:
+- Allergic reactions.Stop using EPIDUO FORTE and get medical help right away if you have any of the following symptoms during treatment with EPIDUO FORTE:
   - hives, rash or severe itching
   - swelling of your face, eyes, lips, tongue, or throat
   - trouble breathing or throat tightness
   - feeling faint, dizzy, or lightheaded
 
-- Skin irritation.
-  Skin irritation is common with EPIDUO FORTE and is most likely to happen during the first 4 weeks of treatment, and usually lessen with continued use of EPIDUO FORTE.
+- Skin irritation.Skin irritation is common with EPIDUO FORTE and is most likely to happen during the first 4 weeks of treatment, and usually lessen with continued use of EPIDUO FORTE.
   Skin reactions at the treatment area include redness, scaling, dryness, stinging, burning, itching and swelling.
   Tell your doctor if you get any skin reactions.
 - Sensitivity to sunlight.
@@ -90,9 +88,9 @@ You can ask your doctor or pharmacist for information about EPIDUO FORTE that is
 
 What are the ingredients in EPIDUO FORTE?
 
-Active ingredient: adapalene and benzoyl peroxide
+Active ingredient:adapalene and benzoyl peroxide
 
-Inactive ingredients: acrylamide/sodium acryloydimethyltaurate copolymer, docusate sodium, edetate disodium, glycerin, isohexadecane, polaxamer 124, polysorbate 80, propylene glycol, purified water and sorbitan oleate
+Inactive ingredients:acrylamide/sodium acryloydimethyltaurate copolymer, docusate sodium, edetate disodium, glycerin, isohexadecane, polaxamer 124, polysorbate 80, propylene glycol, purified water and sorbitan oleate
 
 Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA Made in Canada All trademarks are the property of their respective owners.
 For more information, call GALDERMA LABORATORIES, L.P. at 1-866-735-4137.

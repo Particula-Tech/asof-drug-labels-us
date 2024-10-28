@@ -7,7 +7,7 @@ It has the following structural formula:
 
 Adapalene:
 
-Molecular formula: C28H28O3 Molecular weight: 412.5
+Molecular formula: C 28H 28O 3Molecular weight: 412.5
 
 Benzoyl Peroxide is a highly lipophilic oxidizing agent that localizes in both bacterial and keratinocyte cell membranes.
 The chemical name for benzoyl peroxide is dibenzoyl peroxide.
@@ -15,6 +15,6 @@ It has the following structural formula:
 
 Benzoyl Peroxide:
 
-Molecular formula: C14H10O4 Molecular weight: 242.23
+Molecular formula: C 14H 10O 4Molecular weight: 242.23
 
 EPIDUO FORTE gel contains the following inactive ingredients: acrylamide/sodium acryloyldimethyltaurate copolymer, docusate sodium, edetate disodium, glycerin, isohexadecane, poloxamer 124, polysorbate 80, propylene glycol, purified water, and sorbitan oleate.
