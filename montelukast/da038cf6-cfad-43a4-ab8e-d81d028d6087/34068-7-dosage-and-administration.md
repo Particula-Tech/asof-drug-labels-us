@@ -20,9 +20,9 @@ Table 1: Recommended Dosage in Asthma
 
 Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
 
-## 2.2 Exercise-Induced Brochoconstriction (EIB)
+## 2.2 Exercise-Induced Bronchoconstriction (EIB)
 
-For prevention of EIB, administer single dose of montelukast sodium orally at least 2 hours, before exercise.
+For prevention of EIB, administer a single dose of montelukast sodium orally at least 2 hours, before exercise.
 
 The following doses are recommended:
 
@@ -53,7 +53,7 @@ Table 3: Recommended Dosage in Seasonal Allergic Rhinitis
 | Age | Dose |
 | --- | --- |
 | Adult and adolescent patients 15 years of age and older | one 10 mg tablet |
-| Pediatric Patients 6 to 14 years of age | one 5 mg chewable tablet |
+| Pediatric patients 6 to 14 years of age | one 5 mg chewable tablet |
 | Pediatric patients 2 to 5 years of age* | one 4 mg chewable tablet or one packet of 4 mg oral granules |
 
 *Safety and effectiveness in pediatric patients younger than 2 years of age with seasonal allergic rhinitis have not been established.

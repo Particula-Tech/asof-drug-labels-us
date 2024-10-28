@@ -41,7 +41,7 @@ The 4-mg oral granule formulation is bioequivalent to the 4-mg chewable tablet w
 The co-dministration of the oral granule formulation with applesauce did not have a clinically significant effect on the pharmacokinetics of montelukast.
 A high fat meal in the morning did not affect the AUC of montelukast oral granules; however, the meal decreased Cmax by 35% and prolonged Tmax from 2.3 ± 1.0 hours to 6.4 ± 2.9 hours.
 
-The safety and efficacy of montelukast sodium in patients with asthma were demonstrated in clinical trials in which the 10-mg film-coated tablet and 5-mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion.
+The safety and effectiveness of montelukast sodium in patients with asthma were demonstrated in clinical trials in which the 10-mg film-coated tablet and 5-mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion.
 The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4-mg chewable tablet and 4-mg oral granule formulations were administered in the evening without regard to the time of food ingestion.
 The safety and effectiveness of montelukast sodium in patients with seasonal allergic rhinitis were demonstrated in clinical trials in which the 10-mg film-coated tablet was administered in the morning or evening without regard to the time of food ingestion.
 
@@ -66,14 +66,14 @@ During once-daily dosing with 10-mg montelukast, there is little accumulation of
 Metabolism
 
 Montelukast is extensively metabolized.
-In studies with therapeutic doses, plasma concentrations of metabolites of montelukast are undetectavle at steady state in adults and pediatric patients.
+In studies with therapeutic doses, plasma concentrations of metabolites of montelukast are undetectable at steady state in adults and pediatric patients.
 
 In vitro ﻿studies using human liver microsomes indicate that CYP3A4, 2C8, and 2C9 are involved in the metabolism of montelukast.
 At clinically relevant concentrations, 2C8, appears to play a major role in the metabolism of montelukast.
 
 Specific Populations
 
-Patient with Hepatic Impairment
+Patients with Hepatic Impairment
 
 Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast AUC following a single 10-mg dose.
 The elimination of montelukast was slightly prolonged compared with that in healthy subjects (mean half-life, 7.4 hours).
@@ -95,7 +95,7 @@ Pharmacokinetic differences due to race have not been studied.
 
 Adolescents and Pediatric Patients
 
-Pharmacokinetic studies evaluated the systemic exposure of the 4-mg granule formulation in pediatric patients 6 to 23 months of age, the 4-mg chewable tablets in pediatric patients 2 to 5 years of age, the 5-mg chewable tablets in pediatric patients 6 to 14 years of age, and the 10-mg film-coated tablets in young adults and adolescents ≥15 years of age.
+Pharmacokinetic studies evaluated the systemic exposure of the 4-mg oral granule formulation in pediatric patients 6 to 23 months of age, the 4-mg chewable tablets in pediatric patients 2 to 5 years of age, the 5-mg chewable tablets in pediatric patients 6 to 14 years of age, and the 10-mg film-coated tablets in young adults and adolescents ≥15 years of age.
 
 The plasma concentration profile of montelukast following administration of the 10-mg film-coated tablet is similar in adolescents ≥15 years of age and young adults.
 The 10-mg film-coated tablet is recommended for use in patients ≥15 years of age.
@@ -111,7 +111,7 @@ Safety and tolerability of montelukast in a single-dose pharmacokinetic study in
 The 4-mg oral granule formulation should be used for pediatric patients 12 to 23 months of age for the treatment of asthma, or for pediatric patients 6 to 23 months of age for the treatment of perennial allergic rhinitis.
 Since the 4-mg oral granule formulation is bioequivalent to the 4-mg chewable tablet, it can also be used as an alternative formulation to the 4-mg chewable tablet in pediatric patients 2 to 5 years of age.
 
-Drug Interactions Studies
+Drug Interaction Studies
 
 Theophylline, Prednisone, and Prednisolone Montelukast sodium has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions.
 In drug-interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: theophylline, prednisone, and prednisolone.
@@ -121,7 +121,7 @@ Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state, d
 
 Oral Contraceptives, fexofenadine, Digoxin, and Warfarin In drug interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: oral contraceptives (norethindrone 1 mg/ethinyl estradiol 35 mcg), digoxin, and warfarin.
 Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg/ethinyl estradiol 35 mcg.
-Montelukast at a dose of 10 mg once daiy doses to pharmacokinetic steady state did not change the plasma concentration profile of fexofenadine, did not change the pharmacokinetic profile of warfarin (primarily a substrate of CYP2C9, 3A4 and 1A2) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the international Normalized Ratio (INR)
+Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state did not change the plasma concentration profile of fexofenadine, did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin; did not change the pharmacokinetic profile of warfarin (primarily a substrate of CYP2C9, 3A4 and 1A2) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the International Normalized Ratio (INR).
 
 Thyroid Hormones, Sedative Hypnotics, Non-Steroidal Anti-Inflammatory Agents, Benzodiazepines, and Decongestants
 
@@ -145,6 +145,6 @@ Cytochrome P450 (CYP) Enzyme Inhibitors
 
 In vitro studies have shown that montelukast is a substrate of CYP 2C8, 2C9, and 3A4.
 Co-administration of montelukast with itraconazole, a strong CYP 3A4 inhibitor, resulted in no significant increase in the systemic exposure of montelukast.
-Data from a clinical drug-drug interaction study involving montelukast and gemfibrozil (an inhibitor of both CYP 2C8 and 2C9) demonstrated that gemfibrozil, at a therapeutic dose, increased the systemic exposure of montelukast by 4.4-fold.
+Data from a clinical drug interaction study involving montelukast and gemfibrozil (an inhibitor of both CYP 2C8 and 2C9) demonstrated that gemfibrozil, at a therapeutic dose, increased the systemic exposure of montelukast by 4.4-fold.
 Co-administration of itraconazole, gemfibrozil, and montelukast did not further increase the systemic exposure of montelukast.
 Based on available clinical experience, no dosage adjustment of montelukast is required upon co-administration with gemfibrozil [see Overdosage (10)].

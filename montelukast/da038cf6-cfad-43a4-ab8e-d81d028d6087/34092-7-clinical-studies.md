@@ -106,7 +106,7 @@ The primary endpoint was the mean maximum percent fall in FEV 1 following the 2 
 Some patients were protected from EIB at 8.5 and 24 hours after administration; however, some patients were not.
 The results for the mean maximum percent fall at each timepoint in Study A are shown in TABLE 7 and are representative of the results from the other two studies.
 
-Table 7: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A (N=47) ANOVA MODEL
+Table 7: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A (N=47) ANOVA Model
 
 | Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for Montelukast Sodium versus Placebo (95%CI)* |
 | --- | --- | --- | --- |
@@ -117,7 +117,7 @@ Table 7: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study
 | *Least squares-mean |  |  |  |
 
 The efficacy of montelukast sodium 5-mg chewable tablets, when given as a single dose 2 hours before exercise for the prevention of EIB, was investigated in one multinational, randomized, double-blind, placebo-controlled crossover study that included a total of 64 pediatric patients 6 to 14 years of age with EIB.
-Exercise challenge testing was conducted at 2 hours and 24 hours following administration of a single dose of study drug (montelukast 5 mg or placebo).
+Exercise challenge testing was conducted at 2 hours and 24 hours following administration of a single dose of study drug (montelukast sodium 5 mg or placebo).
 The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post-dose exercise challenge.
 A single dose of montelukast sodium 5 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise (TABLE 8).
 Similar results were shown at 24 hours post-dose (a secondary endpoint).
@@ -170,7 +170,7 @@ Table 9: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pla
 | --- | --- | --- | --- |
 | Montelukast 10 mg (344) | 2.09 | -0.39 | -0.13† (-0.21, -0.06) |
 | Placebo (351) | 2.10 | -0.26 | N.A. |
-| Active control‡ (Loratadine 10 mg) (599) | 2.06 | -0.46 | -0.24† (-0.31, -0.17) |
+| Active Control‡ (Loratadine 10 mg) (599) | 2.06 | -0.46 | -0.24† (-0.31, -0.17) |
 | * Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0 to 3 categorical scale. |  |  |  |
 | † Statistically different from placebo (p≤0.001). |  |  |  |
 | ‡ The study was not designed for statistical comparison between Montelukast Sodium and the active control (loratadine). |  |  |  |

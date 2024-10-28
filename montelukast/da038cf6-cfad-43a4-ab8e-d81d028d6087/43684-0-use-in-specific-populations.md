@@ -33,23 +33,24 @@ In embryo-fetal development studies, montelukast administered to pregnant rats a
 Risk Summary
 
 A published clinical lactation study reports the presence of montelukast in human milk.
-Data available on the effects of the drug on infants, either directly [see Use in Specific Populations (8.4)] or through breast milk, do not suggest a significant risk of adverse events from exposure to montelukast sodium.
+Data available on the effects of the drug on infants, either directly [see Use in Specific Populations (8.4)] or through breast milk, do not suggest a significant risk of adverse reactions from exposure to montelukast sodium.
 The effects of the drug on milk production are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for montelukast sodium and any potential adverse effects on the breastfed infant from montelukast sodium or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for montelukast sodium and any potential adverse reactions on the breastfed infant from montelukast sodium or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of montelukast sodium have been established in adequate and well-controlled studies in pediatric patients with asthma 6 to 14 years of age.
-Safety and efficacy profiles in this age group are similar to those seen in adults [seeAdverse Reactions (6.1), Clinical Pharmacology, SpecialPopulations (12.3), and Clinical Studies (14.1, 14.2)].
+Safety and effectiveness of montelukast sodium for asthma have been established in pediatric patients with asthma 6 to 14 years of age.
+Use of montelukast for this indication is supported by evidence from well-controlled studies.
+Safety and efficacy data in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Specific Populations (12.3), and Clinical Studies (14.1, 14.2)].
 
-The effectiveness of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 6 months to 14 years of age is supported by extrapolation from the demonstrated efficacy in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug's effect are substantially similar among these populations.
+The effectiveness of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 6 months to 14 years of age have been established and is supported by extrapolation from the demonstrated effectiveness in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug's effect are substantially similar among these populations.
 
 The safety of montelukast sodium 4-mg chewable tablets in pediatric patients 2 to 5 years of age with asthma has been demonstrated by adequate and well-controlled data [seeAdverse Reactions (6.1)].
 Efficacy of montelukast sodium in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma and is based on similar pharmacokinetic data, as well as the assumption that the disease course, pathophysiology and the drug's effect are substantially similar among these populations.
-Efficacy in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
+Effectiveness in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
 
 The safety of montelukast sodium 4-mg oral granules in pediatric patients 12 to 23 months of age with asthma has been demonstrated in an analysis of 172 pediatric patients, 124 of whom were treated with montelukast sodium, in a 6-week, double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
-Efficacy of montelukast sodium in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma based on similar mean systemic exposure (AUC), and that the disease course, pathophysiology and the drug's effect are substantially similar among these populations, supported by efficacy data from a safety trial in which efficacy was an exploratory assessment.
+Effectivenessof montelukast sodium in this age group is extrapolated from the demonstrated effectiveness in patients 6 years of age and older with asthma based on similar mean systemic exposure (AUC), and that the disease course, pathophysiology and the drug's effect are substantially similar among these populations, supported by efficacy data from a safety trial in which efficacy was an exploratory assessment.
 
 The safety of montelukast sodium 4-mg and 5-mg chewable tablets in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma.
 A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [seeAdverse Reactions (6.1)].
@@ -83,7 +84,7 @@ No dosage adjustment in the elderly is required.
 
 ## 8.6 Hepatic Impairment
 
-No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency [see Clinical Pharmacology (12.3)].
+No dosage adjustment is recommended required in patients with mild-to-moderate hepatic insufficiency [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

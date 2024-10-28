@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Montelukast sodium oral granules USP 4 mg are white to off white granules with 500 mg net weight, packed in a child-resistant foil packet.
+Montelukast sodium oral granules USP, 4 mg, are white to off white granules with 500 mg net weight, packed in a child-resistant foil packet.
 They are supplied as follows:
 
-NDC 13668-531-11unit packet
+NDC 13668-531-11 unit packet
 
 NDC 13668-531-94 carton with 30 packets.
 
@@ -22,7 +22,7 @@ Bottles of 500 NDC 13668-081-05
 
 Bottles of 3,200 NDC 13668-081-32
 
-For Montelukast sodium chewable tablets 4 mg and 5 mg
+For Montelukast sodium chewable tablets USP 4 mg and 5 mg
 
 The tablets are available as follow:
 
