@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended starting dose of PURIXAN is 1.5 to 2.5 mg/kg (50 to 75 mg/m2) orally once daily as part of combination chemotherapy maintenance regimen.
+The recommended starting dose of PURIXAN is 1.5 mg/kg to 2.5 mg/kg (50 mg/m2 to 75 mg/m2) orally once daily as part of combination chemotherapy maintenance regimen.
 Take PURIXAN either consistently with or without food.
 After initiating PURIXAN, monitor complete blood counts (CBC) and adjust the dose to maintain absolute neutrophil count (ANC) at a desirable level and for excessive myelosuppression.
 Evaluate the bone marrow in patients with prolonged myelosuppression or repeated episodes of myelosuppression to assess leukemia status and marrow cellularity.
@@ -44,12 +44,12 @@ Advise patients that the oral dispensing syringe is intended for multiple uses a
 - Ensure the oral dispensing syringe is completely dry before use of the oral dispensing syringe again; and
 - Store the oral dispensing syringe in a hygienic place with PURIXAN.
 
-PURIXAN is a cytotoxic drug.
+PURIXAN is a hazardous drug.
 Follow special handling and disposal procedures.1
 
 ## 3 DOSAGE FORMS AND STRENGTHS
 
-Oral Suspension: 2000 mg/100 mL (20 mg/mL) pink to brown in color.
+Oral Suspension: 2,000 mg/100 mL (20 mg/mL) pink to brown in color.
 
 ## 4 CONTRAINDICATIONS
 
@@ -143,7 +143,7 @@ Drug fever has been reported with PURIXAN.
 
 The following adverse reactions have been identified during postapproval use of PURIXAN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: photosensitivity, hypoglycemia, portal hypertension, and intrahepatic cholestasis of pregnancy (ICP).
+These reactions include: photosensitivity, hypoglycemia, portal hypertension, intrahepatic cholestasis of pregnancy (ICP), pellagra, and erythema nodosum.
 
 ## 7 DRUG INTERACTIONS
 
@@ -174,6 +174,12 @@ When aminosalicylates and PURIXAN are coadministered, use the lowest possible do
 PURIXAN can cause hepatotoxicity.
 Hepatotoxicity may be increased when PURIXAN is coadministered with other products that cause hepatotoxicity.
 Monitor liver tests more frequently in patients who are receiving PURIXAN with other hepatotoxic products [see Warnings and Precautions (5.2)].
+
+## 7.6 Methotrexate
+
+PURIXAN dosage may need adjustment when administered concomitantly with high dose methotrexate [see Warnings and Precautions (5.1)].
+Mercaptopurine exposure increases with concomitant methotrexate use [see Clinical Pharmacology (12.3)] which may increase the risk of PURIXAN adverse reactions.
+The mechanism of this interaction has not been fully characterized [see Clinical Pharmacology (12.3)].
 
 ## 8 USE IN SPECIFIC POPULATIONS
 

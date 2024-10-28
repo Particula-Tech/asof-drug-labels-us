@@ -7,6 +7,6 @@ The structural formula is:
 
 Mercaptopurine is a yellow, odorless or practically odorless, crystalline powder.
 It is practically insoluble in water with pKa 7.8, 11.2.
-PURIXAN (mercaptopurine) oral suspension contains 2000 mg/100 mL (20 mg/mL) of mercaptopurine.
+PURIXAN (mercaptopurine) oral suspension contains 2,000 mg/100 mL (20 mg/mL) of mercaptopurine.
 The suspension also contains the following inactive ingredients: xanthan gum, aspartame, concentrated raspberry juice, sucrose, ethyl parahydroxybenzoate sodium, methyl parahydroxybenzoate sodium, potassium sorbate, sodium hydroxide and purified water.
 PURIXAN is a pink to brown viscous suspension.

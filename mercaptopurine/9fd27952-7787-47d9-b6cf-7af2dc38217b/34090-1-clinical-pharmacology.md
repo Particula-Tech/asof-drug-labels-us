@@ -30,12 +30,14 @@ In one subject, a total of 46% of the dose could be accounted for in the urine (
 Specific Populations Pediatrics Patients Wide inter individual variations in systemic exposure is observed.
 Following oral administration of 50 mg/m2 mercaptopurine in 10 children, median plasma concentrations 1 hour post dose was 0.35 (range 0.03 to 1.03) μM and median AUC1–5hours was 56 (range 23 to 65) μM·min.
 Tmax ranged from 1 to 3 hours.
+Drug Interactions Studies Methotrexate: Mercaptopurine AUC increased by approximately 31% when coadministered with oral methotrexate 20 mg/m2.
+Mercaptopurine AUC increased by 69% when coadministered with IV methotrexate 2 g/m2, and by 93% when coadministered with IV methotrexate 5 g/m2.
 
 ## 12.5 Pharmacogenomics
 
 Several published studies indicate that patients with reduced TPMT or NUDT15 activity receiving usual doses of mercaptopurine, accumulate excessive cellular concentrations of active 6-TGNs, and are at higher risk for severe myelosuppression [see Warnings and Precautions (5.1)].
 In a study of 1028 children with ALL, the approximate tolerated mercaptopurine dosage for patients with TPMT and/or NUDT15 deficiency on mercaptopurine maintenance therapy (as a percentage of the planned dosage) was as follows: heterozygous for either TPMT or NUDT15, 50-90%; heterozygous for both TPMT and NUDT15, 30-50%; homozygous for either TPMT or NUDT15, 5-10%.
-Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TMPT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
+Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TPMT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
 The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
 NUDT15 deficiency is detected in <1% of patients of European or African ancestry.
 Among patients of East Asian ancestry (i.e., Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
