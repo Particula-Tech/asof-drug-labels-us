@@ -228,7 +228,7 @@ Table 9 Efficacy Results from Study WA28119
 
 |  | PBO + 26 weeks prednisone taper N=50 | PBO + 52 weeks prednisone taper N=51 | TCZ 162mg SC QW + 26 weeks prednisone taper N=100 | TCZ 162 mg SC Q2W + 26 weeks prednisone taper N=49 |
 | --- | --- | --- | --- | --- |
-| Sustained remissionSustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptoms†, normalization of ESR‡, normalization of CRP§ and adherence to the prednisone taper regimen¶ |  |  |  |  |
+| Sustained remissionSustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptoms†, normalization of ESR‡, normalization of CRP§ and adherence to the prednisone taper regimen¶. |  |  |  |  |
 | Responders, n (%) | 7 (14.0%) | 9 (17.6%) | 56 (56.0%) | 26 (53.1%) |
 | Unadjusted difference in proportions vs PBO + 26 weeks taper (99.5% CI) | N/A | N/A | 42.0% (18.0, 66.0) | 39.1% (12.5, 65.7) |
 | Unadjusted difference in proportions vs PBO + 52 weeks taper (99.5% CI) | N/A | N/A | 38.4% (14.4, 62.3) | 35.4% (8.6, 62.2) |
