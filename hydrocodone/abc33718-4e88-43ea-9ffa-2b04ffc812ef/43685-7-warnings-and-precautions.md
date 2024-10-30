@@ -112,7 +112,7 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, and Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers, OVERDOSAGE).
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, and Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers; OVERDOSAGE).
 
 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
@@ -301,6 +301,8 @@ When hydrocodone bitartrate and ibuprofen is used in patients with pre-existing 
 Serious Skin Reactions
 
 NSAIDs, including ibuprofen, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of hydrocodone bitartrate and ibuprofen at the first appearance of skin rash or any other sign of hypersensitivity.
 Hydrocodone bitartrate and ibuprofen is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
@@ -389,7 +391,7 @@ Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and ibuprofen or when the dosage is increased, and that it can occur even at recommended dosages.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see WARNINGS, Life-Threatening Respiratory Depression).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see WARNINGS, Life Threatening Respiratory Depression).
 
 4.
 Accidental Ingestion

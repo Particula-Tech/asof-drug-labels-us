@@ -139,4 +139,6 @@ Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been report
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
 
+Skin and Appendages: exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE)
+
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
