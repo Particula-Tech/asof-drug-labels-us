@@ -12,23 +12,23 @@ The following clinically significant adverse reactions to ibuprofen or acetamino
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
 - Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
-The most common adverse reactions (incidence of ≥ 2% for patients receiving COMBOGESIC®) are: nausea, vomiting, headache, dizziness, somnolence, post-procedural hemorrhage, and swelling of the face (Table 1).
+The most common adverse reactions (incidence of ≥ 2% for patients receiving COMBOGESIC) are: nausea, vomiting, headache, dizziness, somnolence, post-procedural hemorrhage, and swelling of the face (Table 1).
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under varying conditions, adverse reaction rates observed in the clinical trials of one drug cannot be directly compared to the rates reported from clinical trials of another drug and may not reflect the rates observed in practice.
 
-The clinical trials of COMBOGESIC® have been conducted in patients with postoperative pain following dental and arthroscopic procedures, who received double-blind treatment every 6 hours for 24 or 48 hours.
+The clinical trials of COMBOGESIC have been conducted in patients with postoperative pain following dental and arthroscopic procedures, who received double-blind treatment every 6 hours for 24 or 48 hours.
 
 Most commonly (≥2%) reported adverse reactions by organ system during double-blind treatment are listed in the table below.
 Adverse reactions are closely related to the extent (the level and length) of exposure.
-The incidences of overall and individual adverse reactions reported during the double-blind treatment period did not suggest an increase of risks associated with short-term (up to one or two days) use of the combination drug, COMBOGESIC® in comparison to each individual component, acetaminophen or ibuprofen, and to placebo.
+The incidences of overall and individual adverse reactions reported during the double-blind treatment period did not suggest an increase of risks associated with short-term (up to one or two days) use of the combination drug, COMBOGESIC in comparison to each individual component, acetaminophen or ibuprofen, and to placebo.
 
 Table 1: Most commonly (≥2%) reported adverse reactions by organ system during double-blind treatment
 
 |  | N=261 | N=231 | N=231 | N=199 |
 | --- | --- | --- | --- | --- |
-|  | COMBOGESIC® | Acetaminophen | Ibuprofen | Placebo |
+|  | COMBOGESIC | Acetaminophen | Ibuprofen | Placebo |
 | Total number of AEs | 145 | 142 | 101 | 133 |
 | % of patients with ≥1 AE | 30 | 38 | 29 | 37 |
 | Gastrointestinal disorders |  |  |  |  |

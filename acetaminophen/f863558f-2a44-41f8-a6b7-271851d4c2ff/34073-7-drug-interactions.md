@@ -26,7 +26,7 @@ Table 2: Clinically Significant Drug Interactions with COMBOGESIC
 | Intervention: | During concomitant use of COMBOGESIC and methotrexate, monitor patients for methotrexate toxicity. |
 | Cyclosporine |  |
 | Clinical Impact: | Concomitant use of NSAIDS and cyclosporine may increase cyclosporine's nephrotoxicity. |
-| Intervention: | During concomitant use of COMBIOGESIC and cyclosporine, monitor patients for signs of worsening renal function. |
+| Intervention: | During concomitant use of COMBOGESIC and cyclosporine, monitor patients for signs of worsening renal function. |
 | NSAIDs and Salicylates |  |
 | Clinical Impact: | Concomitant use of ibuprofen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [see Warnings and Precautions (5.3)]. |
 | Intervention: | The concomitant use of ibuprofen with other NSAIDs or salicylates is not recommended. |

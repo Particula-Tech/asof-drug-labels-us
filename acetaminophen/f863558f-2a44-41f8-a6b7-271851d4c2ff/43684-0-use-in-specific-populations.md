@@ -92,7 +92,8 @@ Animal Data
 
 Ibuprofen:
 
-In a published study, female rabbits given 7.5, 20, or 60 mg/kg ibuprofen (0.12, 0.33, or 0.99-times the maximum human daily dose of 1170 mg of ibuprofen based on a body surface area comparison) from Gestation Days 1 to 29, no clear treatment-related adverse developmental effects were noted This dose was associated with significant maternal toxicity (stomach ulcers, gastric lesions).
+In a published study, female rabbits given 7.5, 20, or 60 mg/kg ibuprofen (0.12, 0.33, or 0.99-times the maximum human daily dose of 1170 mg of ibuprofen based on a body surface area comparison) from Gestation Days 1 to 29, no clear treatment-related adverse developmental effects were noted.
+This dose was associated with significant maternal toxicity (stomach ulcers, gastric lesions).
 In the same publication, female rats were administered 7.5, 20, 60, 180 mg/kg ibuprofen (0.06, 0.17, 0.50, 1.5-times the maximum daily dose) did not result in clear adverse developmental effects.
 Maternal toxicity (gastrointestinal lesions) was noted at 20 mg/kg and above.
 

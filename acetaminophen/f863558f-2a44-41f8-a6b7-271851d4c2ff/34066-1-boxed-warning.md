@@ -10,8 +10,7 @@ CARDIOVASCULAR RISK
 
 COMBOGESIC contains ibuprofen, a nonsteroidal anti-inflammatory drug (NSAID).
 NSAIDs cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal.
-This risk may occur early in treatment and may increase with duration of use.
-[see Warnings and Precautions (5.2)].
+This risk may occur early in treatment and may increase with duration of use [see Warnings and Precautions (5.2)].
 
 COMBOGESIC is contraindicated for treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.2)].
 

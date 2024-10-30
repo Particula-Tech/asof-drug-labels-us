@@ -119,7 +119,7 @@ In patients with normal renal function, these effects have been attributed to a 
 
 Acetaminophen
 
-There have been post-marketing reports of hypersensitivity and anaphylaxis associated with the use of acetaminophen.
+There have been postmarketing reports of hypersensitivity and anaphylaxis associated with the use of acetaminophen.
 Clinical signs included swelling of the face, mouth, and throat, respiratory distress, urticaria, rash, pruritus, and vomiting.
 There were infrequent reports of life-threatening anaphylaxis requiring emergency medical attention.
 Instruct patients to discontinue COMBOGESIC immediately and seek emergency medical care if they experience these symptoms.

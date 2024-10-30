@@ -16,12 +16,10 @@ Instruct patients to stop therapy and seek immediate medical assistance if these
 Alcohol: Advise patients not to take COMBOGESIC concomitantly with alcohol-containing beverages [see Warnings and Precautions (5.1)].
 
 Cardiovascular Thrombotic Effects: Inform patients that COMBOGESIC, like other NSAID-containing medications, may cause serious CV side effects such as MI or stroke, which may result in hospitalization and even death.
-Advise patients to be alert for chest pain, shortness of breath, weakness, and slurring of speech, and to seek medical assistance when observing any sign or symptom indicative of CV effects.
-[see Warnings and Precautions (5.2)].
+Advise patients to be alert for chest pain, shortness of breath, weakness, and slurring of speech, and to seek medical assistance when observing any sign or symptom indicative of CV effects [see Warnings and Precautions (5.2)].
 
 Gastrointestinal Bleeding, Ulceration, and Perforation: Inform patients that COMBOGESIC, like other NSAID-containing medications, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Advise patients to be alert for the signs and symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis, and to seek medical assistance should these symptoms occur.
-[see Warnings and Precautions (5.3)].
+Advise patients to be alert for the signs and symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis, and to seek medical assistance should these symptoms occur [see Warnings and Precautions (5.3)].
 
 Heart Failure and Edema: Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
 
@@ -30,8 +28,7 @@ Weight Gain and Edema: Advise patients to promptly report unexplained weight gai
 Anaphylactic Reactions: Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Warnings and Precautions (5.7)].
 
-Serious Skin Reactions, including DRESS: Advise patients to stop taking COMBOGESIC immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible.
-[see Warnings and Precautions (5.9, 5.10)].
+Serious Skin Reactions, including DRESS: Advise patients to stop taking COMBOGESIC immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Female Fertility: Advise females of reproductive potential who desire pregnancy that NSAID containing products, including COMBOGESIC tablets, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
 
