@@ -11,7 +11,7 @@ Hydroxyurea is a cytotoxic drug.
 Follow applicable special handling and disposal procedures [see References (15)].
 
 Swallow hydroxyurea capsule whole.
-Do NOT open, break, or chew capsule because hydroxyurea is a cytotoxic drug.
+Do NOT open, break, or chew capsules because hydroxyurea is a cytotoxic drug.
 
 Prophylactic administration of folic acid is recommended [see Warnings and Precautions (5.8)].
 

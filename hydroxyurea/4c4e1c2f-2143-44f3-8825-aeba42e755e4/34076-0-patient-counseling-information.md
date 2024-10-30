@@ -14,21 +14,14 @@
 - Patients with HIV infection should contact their physician for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.7)].
 - Post-irradiation erythema can occur in patients who have received previous irradiation therapy [see Warnings and Precautions (5.8)].
 - Advise patients of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.10)].
+- Advise patients to notify their healthcare provider if they are using a continuous glucose monitoring system while taking hydroxyurea capsules [see Warnings and Precautions (5.11)].
 
 Rx only
 
-Manufactured by:
-
-Halo Pharmaceutical Inc
-
-30 North Jefferson Road,
-
-Whippany, NJ 07981
+Manufactured by: Halo Pharmaceutical Inc 30 North Jefferson Road, Whippany, NJ 07981
 
 Distributed by:
 
-Leading Pharma, LLC
+Leading Pharma, LLC Fairfield, NJ 07004
 
-Fairfield, NJ 07004
-
-Rev.05 02/23
+Rev.06 11/23
