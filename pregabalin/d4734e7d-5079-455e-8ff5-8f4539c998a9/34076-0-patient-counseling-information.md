@@ -65,7 +65,7 @@ There is a pregnancy exposure registry that monitors pregnancy outcomes in women
 
 Lactation
 
-Advise nursing mothers that breastfeeding is not recommended during treatment with LYRICA [seeUse in Specific Populations (8.2)].
+Advise nursing mothers that breastfeeding is not recommended during treatment with LYRICA [see Use in Specific Populations (8.2)].
 
 Male Fertility
 
@@ -86,4 +86,4 @@ LYRICA is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:LYRCCOS:RXB
+UPJ:LYRCCOS:R1

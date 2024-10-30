@@ -115,7 +115,7 @@ Among the LYRICA-treated patients, 87% completed the double‑blind phase of the
 
 In this study, LYRICA 2.5 mg/kg/day (maximum 150 mg/day) and 10 mg/kg/day (maximum 600 mg/day) were compared to placebo.
 Administration of each daily dose was divided into two equal doses (twice a day dosing).
-Because of higher weight-normalized clearance in patients with body weight less than 30 kg [see Clinical Pharmacology (12.3)],the LYRICA dose was increased by 40% to 3.5 mg/kg/day for patients weighing less than 30 kg randomized to the 2.5 mg/kg/day group or to 14 mg/kg/day for patients randomized to the 10 mg/kg/day group.
+Because of higher weight-normalized clearance in patients with body weight less than 30 kg [see Clinical Pharmacology (12.3)], the LYRICA dose was increased by 40% to 3.5 mg/kg/day for patients weighing less than 30 kg randomized to the 2.5 mg/kg/day group or to 14 mg/kg/day for patients randomized to the 10 mg/kg/day group.
 
 Table 12 shows median baseline seizure rates, median percent change from baseline in seizure rates, and percent difference relative to placebo (derived from the primary analysis model) by dose.
 
@@ -231,10 +231,10 @@ Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter
 The 12-week study consisted of a 3‑week dose adjustment phase and a 9-week dose maintenance phase.
 Treatment with LYRICA 150-600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 11.
-Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
 Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150-600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
 The 16-week study consisted of a 4‑week dose adjustment phase and a 12-week dose maintenance phase.
 Treatment with LYRICA statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 16 is presented in Figure 12.
-Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.

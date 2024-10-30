@@ -39,8 +39,8 @@ Recommended Dosage for Adults and Pediatric Patients 1 Month and Older
 | Age and Body Weight | Recommended Initial Dosage | Recommended Maximum Dosage | Frequency of Administration |
 | --- | --- | --- | --- |
 | Adults (17 years and older) | 150 mg/day | 600 mg/day | 2 or 3 divided doses |
-| Pediatric patients weighing 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) | 2 or 3 divided doses |
-| Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age:3 divided doses 4 years of age and older:2 or 3 divided doses |
+| Pediatric patients weighting 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) | 2 or 3 divided doses |
+| Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age: 3 divided doses4 years of age and older: 2 or 3 divided doses |
 
 Both the efficacy and adverse event profiles of LYRICA have been shown to be dose-related.
 
@@ -86,15 +86,12 @@ In addition to the daily dose adjustment, administer a supplemental dose immedia
 Table 2.
 Pregabalin Dosage Adjustment Based on Renal Function
 
-| Creatinine Clearance (CLcr) (mL/min) | Total Pregabalin Daily Dose (mg/day)Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose. |  |  |  | Dose Regimen |
+| Creatinine Clearance (CLcr) (mL/min) | Total Pregabalin Daily Dose(mg/day)Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose. |  |  |  | Dose Regimen |
 | --- | --- | --- | --- | --- | --- |
 | Greater than or equal to 60 | 150 | 300 | 450 | 600 | BID or TID |
 | 30-60 | 75 | 150 | 225 | 300 | BID or TID |
 | 15-30 | 25-50 | 75 | 100-150 | 150 | QD or BID |
 | Less than 15 | 25 | 25-50 | 50-75 | 75 | QD |
 | Supplementary dosage following hemodialysis (mg)Supplementary dose is a single additional dose. |  |  |  |  |  |
-| Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mg |  |  |  |  |  |
-| Patients on the 25-50 mg QD regimen: take one supplemental dose of 50 mg or 75 mg |  |  |  |  |  |
-| Patients on the 50-75 mg QD regimen: take one supplemental dose of 75 mg or 100 mg |  |  |  |  |  |
-| Patients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg |  |  |  |  |  |
+| Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mgPatients on the 25-50 mg QD regimen: take one supplemental dose of 50 mg or 75 mgPatients on the 50-75 mg QD regimen: take one supplemental dose of 75 mg or 100 mgPatients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg |  |  |  |  |  |
 | TID = Three divided doses; BID = Two divided doses; QD = Single daily dose. |  |  |  |  |  |

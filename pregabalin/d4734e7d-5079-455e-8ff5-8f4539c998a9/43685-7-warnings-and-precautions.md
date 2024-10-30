@@ -102,7 +102,7 @@ Because there are limited data on congestive heart failure patients with New Yor
 LYRICA treatment may cause weight gain.
 In LYRICA controlled clinical trials in adult patients of up to 14 weeks, a gain of 7% or more over baseline weight was observed in 9% of LYRICA‑treated patients and 2% of placebo-treated patients.
 Few patients treated with LYRICA (0.3%) withdrew from controlled trials due to weight gain.
-LYRICA associated weight gain was related to dose and duration of exposure but did not appear to be associated with baseline BMI, gender, or age.
+LYRICA associated weight gain was related to dose and duration of exposure, but did not appear to be associated with baseline BMI, gender, or age.
 Weight gain was not limited to patients with edema [see Warnings and Precautions (5.7)].
 
 Although weight gain was not associated with clinically important changes in blood pressure in short-term controlled studies, the long-term cardiovascular effects of LYRICA-associated weight gain are unknown.
@@ -150,13 +150,13 @@ Discontinue treatment with LYRICA if myopathy is diagnosed or suspected or if ma
 LYRICA treatment was associated with a decrease in platelet count.
 LYRICA-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/µL, compared to 11 × 103/µL in placebo patients.
 In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of LYRICA patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/µL.
-A single LYRICA‑treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ µL.
+A single LYRICA‑treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/µL.
 In randomized controlled trials, LYRICA was not associated with an increase in bleeding-related adverse reactions.
 
 ## 5.13 PR Interval Prolongation
 
 LYRICA treatment was associated with PR interval prolongation.
-In analyses of clinical trial ECG data in adult patients, the mean PR interval increase was 3-6 msec at LYRICA doses greater than or equal to300 mg/day.
+In analyses of clinical trial ECG data in adult patients, the mean PR interval increase was 3-6 msec at LYRICA doses greater than or equal to 300 mg/day.
 This mean change difference was not associated with an increased risk of PR increase greater than or equal to 25% from baseline, an increased percentage of subjects with on-treatment PR greater than 200 msec, or an increased risk of adverse reactions of second or third degree AV block.
 
 Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications.

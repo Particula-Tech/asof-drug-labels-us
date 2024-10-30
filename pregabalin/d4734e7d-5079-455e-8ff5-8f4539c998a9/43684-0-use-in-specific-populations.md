@@ -127,7 +127,7 @@ The most common adverse reactions (≥5%) with LYRICA in this study were somnole
 
 The use of LYRICA 2.5 mg/kg/day in pediatric patients is further supported by evidence from adequate and well‑controlled studies in adults with partial-onset seizures and pharmacokinetic data from adult and pediatric patients [see Clinical Pharmacology (12.3)].
 
-#### 1 Month to Less than 4 Years of Age with Partial-Onset Seizures
+#### 1 Month to Less Than 4 Years of Age with Partial-Onset Seizures
 
 The safety and effectiveness of LYRICA as adjunctive treatment for partial‑onset seizures in pediatric patients 1 month to less than 4 years of age have been established in a 14‑day double‑blind, placebo-controlled study (N=175) [see Clinical Studies (14.3)].
 The youngest subject evaluated was 3 months of age; use in patients 1 month to less than 3 months of age is supported by additional pharmacokinetic analyses.
