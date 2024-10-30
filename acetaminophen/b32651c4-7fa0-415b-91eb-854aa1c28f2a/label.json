@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209471"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Hikma Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0143-9432-27"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "acetaminophen and ibuprofen",
+      "name": "Combogesic"
+    }
+  ],
+  "setid": "b32651c4-7fa0-415b-91eb-854aa1c28f2a",
+  "source": "dailymed"
+}
