@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA075468"
+  ],
+  "inn": "clonazepam",
+  "labeler": "Northstar Rx LLC",
+  "package_ndcs": [
+    "72603-307-01",
+    "72603-307-02",
+    "72603-308-01",
+    "72603-308-02",
+    "72603-308-03",
+    "72603-309-01",
+    "72603-309-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonazepam",
+      "name": "Clonazepam"
+    }
+  ],
+  "setid": "017534e6-49ff-45f3-b88f-2f34cf0cf8fd",
+  "source": "dailymed"
+}
