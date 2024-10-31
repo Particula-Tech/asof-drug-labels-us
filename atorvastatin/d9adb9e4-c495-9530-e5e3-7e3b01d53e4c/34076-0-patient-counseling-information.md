@@ -45,5 +45,20 @@ ATORVASTATIN CALCIUM TABLETS, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | USA, 33326 |
 
+| Manufactured By |
+| --- |
+| Piramal Pharma Limited, |
+| Plot No. 67-70, Sector - 2, |
+| Pithampur 454775, Dist. Dhar, |
+| Madhya Pradesh, INDIA |
+| Mfg Lic. No.: 25/10/92 |
+
+| Manufactured By |
+| --- |
+| Apotex Research Pvt. Ltd. |
+| Bangalore-560 099, India. |
+| Code No. |
+| KR. DRUGS/KTK/25/521/2006 |
+
 Rev.
 24

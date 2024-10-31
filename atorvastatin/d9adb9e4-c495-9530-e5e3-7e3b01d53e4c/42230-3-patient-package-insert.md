@@ -181,6 +181,20 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | USA, 33326 |
 
+| Manufactured By |
+| --- |
+| Piramal Pharma Limited, |
+| Plot No. 67-70, Sector-2 |
+| Pithamur 454775, Dist. Dhar, |
+| Mfg Lic. No.: 25/10/92 |
+
+| Manufactured By |
+| --- |
+| Apotex Research Pvt. Ltd. |
+| Bangalore-560 099, India |
+| Code No. |
+| KR. DRUG/KTK/25/521/2006 |
+
 Revised: May 2024
 
 Rev.
