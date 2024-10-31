@@ -33,5 +33,5 @@ For Adults with Renal Impairment Receiving FARXIGA for Indications Other than Gl
 
 ## 2.4 Temporary Interruption for Surgery
 
-Withhold FARXIGA for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
-Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+- Withhold FARXIGA for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+  Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
