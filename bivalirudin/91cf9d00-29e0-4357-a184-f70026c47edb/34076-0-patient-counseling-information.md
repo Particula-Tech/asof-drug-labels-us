@@ -2,12 +2,12 @@
 
 Advise patients to watch carefully for any signs of bleeding or bruising and to report these to their healthcare provider when they occur.
 
-Distributed by
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
 Product of India
 
-I04/2023
+R03/2024
