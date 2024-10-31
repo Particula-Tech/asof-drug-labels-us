@@ -44,9 +44,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥20% IN AT LEAST ONE OF THE RAPAMUNE TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)Patients received cyclosporine and corticosteroids.
 
-| 2 mg/day (n = 218) | 5 mg/day (n = 208) | Placebo (n = 124) |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | –––Rapamune Oral Solution––– |  |  |
+| --- | --- | --- | --- |
+| 2 mg/day (n = 218) | 5 mg/day (n = 208) | Placebo (n = 124) |  |
 | Peripheral edema | 54 | 58 | 48 |
 | Hypertriglyceridemia | 45 | 57 | 23 |
 | Hypertension | 45 | 49 | 48 |
@@ -103,9 +103,9 @@ At 24 months (Study 1) and 36 months (Study 2) post-transplant, there were no si
 
 TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
-| Malignancy | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2–3 mg/kg/day | Placebo |
+| --- | --- | --- | --- | --- | --- | --- |
+| Malignancy | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |
 | Lymphoma/lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
 | Skin Carcinoma |  |  |  |  |  |  |
 | Any Squamous CellPatients may be counted in more than one category. | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |

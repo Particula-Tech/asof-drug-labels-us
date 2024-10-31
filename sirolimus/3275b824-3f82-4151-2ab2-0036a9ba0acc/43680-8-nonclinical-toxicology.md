@@ -15,6 +15,6 @@ The NOAEL for female rat fertility was 0.1 mg/kg (0.5-fold the clinical dose of 
 
 When male rats were treated by oral gavage with sirolimus and mated to untreated females, male fertility was decreased at 2 mg/kg (9.7-fold the clinical dose of 2 mg, on a body surface area basis).
 Atrophy of testes, epididymides, prostate, seminiferous tubules, and reduced sperm counts were observed.
-The NOAEL for male rat fertility was 0.5 mg/kg (2.5-fold the clinical dose of 2 mg).
+The NOAEL for male rat fertility was 0.5 mg/kg (2.5-fold the clinical dose of 2 mg,).
 
 Testicular tubular degeneration was also seen in a 4-week intravenous study of sirolimus in monkeys at 0.1 mg/kg (1-fold the clinical dose of 2 mg, on a body surface area basis).
