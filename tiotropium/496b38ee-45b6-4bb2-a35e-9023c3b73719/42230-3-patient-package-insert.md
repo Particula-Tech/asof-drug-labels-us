@@ -4,7 +4,7 @@ Tiotropium Bromide Inhalation Powder
 
 (tye-oh-TROE-pee-um BROE-mide)
 
-Do not swallow Tiotropium Bromide Inhalation Powder Capsules.
+Do NOT swallow Tiotropium Bromide Inhalation Powder Capsules.
 
 Important Information: Do not swallow tiotropium bromide inhalation powder capsules.
 Tiotropium bromide inhalation powder capsules should only be used with the LupinHaler™ device and inhaled through your mouth (oral inhalation).
@@ -194,7 +194,7 @@ Instructions for Use
 
 Tiotropium Bromide (tye-oh-TROE-pee-um BROE-mide) Inhalation Powder LupinHaler™
 
-Do not swallow Tiotropium Bromide Inhalation Powder Capsules.
+Do NOT swallow Tiotropium Bromide Inhalation Powder Capsules.
 
 Important Information about using your tiotropium bromide inhalation powder LupinHaler
 
@@ -242,7 +242,7 @@ After removing your LupinHaler device from the pouch:
 - Pull the dust cap (lid) upwards away from the base to expose the mouthpiece.
   (See Figure E)
 
-- Open the mouthpiece by pulling the mouthpiece ridge up and away from the base so the center chamber is showing.
+- Open the mouthpiece by pulling the mouthpiece ridge up from the base so the center chamber is showing.
   (See Figure F)
 
 Step 2.
@@ -377,7 +377,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 LupinHaler™ is a trademark of Lupin Pharmaceuticals, Inc.
 
-®The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
+®The other brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
 Manufactured for:
 
@@ -395,4 +395,4 @@ Pithampur (M.P.) - 454 775
 
 India
 
-September 2022
+October 2024 ID#: 275971

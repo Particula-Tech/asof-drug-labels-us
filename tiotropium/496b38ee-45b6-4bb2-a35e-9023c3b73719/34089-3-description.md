@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Tiotropium bromide inhalation powder consists of tiotropium bromide inhalation powder capsules and a LupinHaler device.
-Each white opaque, hypromellose tiotropium bromide inhalation powder capsule contains a dry powder consisting of 18 mcg tiotropium (equivalent to 22.5 mcg tiotropium bromide monohydrate) blended with lactose monohydrate (which may contain milk proteins).
+Each white opaque, hypromellose tiotropium bromide inhalation powder capsule contains a dry powder consisting of 18 mcg tiotropium (equivalent to 22.5 mcg tiotropium bromide monohydrate USP) blended with lactose monohydrate (which may contain milk proteins).
 
 The contents of tiotropium bromide inhalation powder capsules are intended for oral inhalation only, and are intended for administration only with the LupinHaler device.
 

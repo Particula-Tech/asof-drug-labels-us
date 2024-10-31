@@ -39,9 +39,9 @@ Remind patients that the contents of tiotropium bromide inhalation powder capsul
 Instruct patients always to store tiotropium bromide inhalation powder capsules in sealed blisters and to remove only one tiotropium bromide inhalation powder capsule immediately before use or its effectiveness may be reduced.
 Instruct patients to discard unused additional tiotropium bromide inhalation powder capsules that are exposed to air (i.e., not intended for immediate use).
 
-LupinHaler is a trademark of Lupin Pharmaceuticals, Inc.
+LupinHaler™ is a trademark of Lupin Pharmaceuticals, Inc.
 
-®The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
+®The other brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
 Manufactured for:
 
@@ -58,3 +58,5 @@ Lupin Limited
 Pithampur (M.P.) - 454 775
 
 India
+
+October 2024

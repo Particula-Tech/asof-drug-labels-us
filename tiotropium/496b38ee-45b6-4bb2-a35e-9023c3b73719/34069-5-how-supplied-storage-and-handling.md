@@ -13,7 +13,7 @@ The drug should be used immediately after the packaging over an individual tiotr
 
 The following packages are available:
 
-- carton containing 30 Tiotropium Bromide Inhalation Powder Capsules (3 unit-dose blister cards NDC 68180-964-11) and 1 LupinHaler inhalation device (NDC 68180-964-12)
+- carton (NDC 68180-964-12) containing 30 Tiotropium Bromide Inhalation Powder Capsules (3 unit-dose blister cards NDC 68180-964-11) and 1 LupinHaler inhalation device
 
 Keep out of reach of children.
 Do not get powder into eyes.
