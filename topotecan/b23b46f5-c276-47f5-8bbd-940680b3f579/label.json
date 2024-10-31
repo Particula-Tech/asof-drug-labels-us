@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020981"
+  ],
+  "inn": "topotecan",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-101-11",
+    "66758-102-11"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "topotecan",
+      "name": "HYCAMTIN"
+    }
+  ],
+  "setid": "b23b46f5-c276-47f5-8bbd-940680b3f579",
+  "source": "dailymed"
+}
