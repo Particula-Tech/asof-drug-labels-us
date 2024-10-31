@@ -30,9 +30,11 @@ Instruct patients to notify their healthcare provider if emergence of new tics o
 
 Pregnancy Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release capsules, during pregnancy [see Use in Specific Populations (8.1)].
 
+Brands listed are the trademarks of their respective owners.
+
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-M 5/2024
+N 10/2024

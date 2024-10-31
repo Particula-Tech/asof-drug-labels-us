@@ -27,7 +27,7 @@ This study was a randomized, double-blind, placebo-controlled, parallel-group st
 
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache, and anxiety.
 
-Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with dexmethylphenidate hydrochloride immediate-release tablets experienced an adverse reaction that resulted in discontinuation.
+Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with Focalin tablets experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
 
 Table 1 enumerates adverse reactions for the placebo-controlled, parallel-group study in children and adolescents with ADHD at flexible dexmethylphenidate hydrochloride extended-release capsules doses of 5 to 30 mg/day.
@@ -121,9 +121,9 @@ Musculoskeletal: rhabdomyolysis
 
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-Adverse Reactions Reported With All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations
+Adverse Reactions Reported With All Ritalin and Focalin Formulations
 
-The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
+The following adverse reactions associated with the use of all Ritalin and Focalin formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
 Infections and Infestations: nasopharyngitis
@@ -158,7 +158,7 @@ Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
 Additional Adverse Reactions Reported with Other Methylphenidate Products
 
-The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations that have been reported with other methylphenidate products based on clinical trials data and postmarketing spontaneous reports.
+The list below shows adverse reactions not listed with Ritalin and Focalin formulations that have been reported with other methylphenidate products based on clinical trials data and postmarketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 

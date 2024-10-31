@@ -14,7 +14,7 @@ A decrease in the CADS-T DSM-IV total subscale score from baseline indicates imp
 
 The CADS-T total scores showed a statistically significant treatment effect in favor of dexmethylphenidate hydrochloride extended-release capsules than placebo (Table 6).
 There were insufficient adolescents enrolled in this study to assess the efficacy for dexmethylphenidate hydrochloride extended-release capsules in the adolescent population.
-However, pharmacokinetic considerations and evidence of effectiveness of immediate-release dexmethylphenidate hydrochloride in adolescents support the effectiveness of dexmethylphenidate hydrochloride extended-release capsules in this population.
+However, pharmacokinetic considerations and evidence of effectiveness of Focalin tablets in adolescents support the effectiveness of dexmethylphenidate hydrochloride extended-release capsules in this population.
 
 Table 6: Summary of Efficacy Results from ADHD Study in Pediatric Patients (6 to 17 years) (Study 1)
 

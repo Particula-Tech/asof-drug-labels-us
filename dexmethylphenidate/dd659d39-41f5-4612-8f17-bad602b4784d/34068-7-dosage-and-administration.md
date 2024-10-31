@@ -20,7 +20,7 @@ Patients Currently on Methylphenidate
 
 The recommended starting dose of dexmethylphenidate hydrochloride extended-release capsules for patients currently using methylphenidate is half (1/2) the total daily dose of racemic methylphenidate.
 
-Patients currently using dexmethylphenidate hydrochloride immediate-release tablets may be given the same daily dose of dexmethylphenidate hydrochloride extended-release capsules.
+Patients currently using Focalin tablets may be given the same daily dose of dexmethylphenidate hydrochloride extended-release capsules.
 
 Titration Schedule
 
