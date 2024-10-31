@@ -2,10 +2,10 @@
 
 ## 2.1 Important Dosage and Administration Information
 
-• PREVDUOTM should be administered by trained healthcare providers familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents (NMBA) and neuromuscular block reversal agents.
-Doses of PREVDUOTM should be individualized, and a peripheral nerve stimulator should be used to determine the time of initiation of PREVDUOTM and should be used to determine the need for additional doses. • PREVDUOTM is for intravenous use only and should be injected slowly over a period of at least 1 minute.
-The PREVDUOTM dosage is weight-based [see Dosage and Administration (2.2)]. • Prior to PREVDUOTM administration and until complete recovery of normal ventilation, the patient should be well ventilated and a patent airway maintained.
-Satisfactory recovery should be judged by adequacy of skeletal muscle tone and respiratory measurements in addition to the response to peripheral nerve stimulation. • Peripheral nerve stimulation devices capable of delivering a train-of-four (TOF) stimulus are essential to effectively using PREVDUOTM. • There must be a twitch response to the first stimulus in the TOF of at least 10% of its baseline level, i.e., the response prior to NMBA administration, prior to the administration of PREVDUOTM. • Prior to administration, visually inspect PREVDUOTM for particulate matter and discoloration. • TOF monitoring should continue to be used to evaluate the extent of recovery of neuromuscular function and the possible need for an additional dose of PREVDUOTM. • TOF monitoring alone should not be relied upon to determine the adequacy of reversal of neuromuscular blockade as related to a patient’s ability to adequately ventilate and maintain a patent airway following tracheal extubation. • Patients should continue to be monitored for adequacy of reversal from NMBAs for a period of time that would assure full recovery based on the patient’s medical condition and the pharmacokinetics of neostigmine and the NMBA used.
+• PREVDUO® should be administered by trained healthcare providers familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents (NMBA) and neuromuscular block reversal agents.
+Doses of PREVDUO® should be individualized, and a peripheral nerve stimulator should be used to determine the time of initiation of PREVDUO® and should be used to determine the need for additional doses. • PREVDUO® is for intravenous use only and should be injected slowly over a period of at least 1 minute.
+The PREVDUO® dosage is weight-based [see Dosage and Administration (2.2)]. • Prior to PREVDUO® administration and until complete recovery of normal ventilation, the patient should be well ventilated and a patent airway maintained.
+Satisfactory recovery should be judged by adequacy of skeletal muscle tone and respiratory measurements in addition to the response to peripheral nerve stimulation. • Peripheral nerve stimulation devices capable of delivering a train-of-four (TOF) stimulus are essential to effectively using PREVDUO®. • There must be a twitch response to the first stimulus in the TOF of at least 10% of its baseline level, i.e., the response prior to NMBA administration, prior to the administration of PREVDUO®. • Prior to administration, visually inspect PREVDUO® for particulate matter and discoloration. • TOF monitoring should continue to be used to evaluate the extent of recovery of neuromuscular function and the possible need for an additional dose of PREVDUO®. • TOF monitoring alone should not be relied upon to determine the adequacy of reversal of neuromuscular blockade as related to a patient’s ability to adequately ventilate and maintain a patent airway following tracheal extubation. • Patients should continue to be monitored for adequacy of reversal from NMBAs for a period of time that would assure full recovery based on the patient’s medical condition and the pharmacokinetics of neostigmine and the NMBA used.
 
 ## 2.2 Dosage in Adults
 
@@ -16,9 +16,9 @@ Dose selection should be based on the extent of spontaneous recovery that has oc
 
 ## 2.3 Dosage in Pediatric Patients age 2 years and above
 
-For pediatric population age >2 years, adult guidelines should be followed when PREVDUOTM is administered.
-Pediatric patients require PREVDUOTM doses similar to those for adult patients.
-PREVDUOTM is not recommended for use in pediatric patients less than 2 years of age, as the blood pressure in pediatric patients, particularly infants and neonates, is sensitive to changes in heart rate [see Use in Specific Populations (8.4)].
+For pediatric population age >2 years, adult guidelines should be followed when PREVDUO® is administered.
+Pediatric patients require PREVDUO® doses similar to those for adult patients.
+PREVDUO® is not recommended for use in pediatric patients less than 2 years of age, as the blood pressure in pediatric patients, particularly infants and neonates, is sensitive to changes in heart rate [see Use in Specific Populations (8.4)].
 
 ## 2.4 Instructions for Use (Administration Technique)
 

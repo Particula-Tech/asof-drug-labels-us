@@ -14,7 +14,7 @@ In animal reproduction studies in pregnant rats and rabbits administered glycopy
 The estimated background risk for major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-PREVDUOTM should be only given to a pregnant woman if the benefit outweighs the risk.
+PREVDUO@ should be only given to a pregnant woman if the benefit outweighs the risk.
 
 Data Human Data Neostigmine Methylsulfate: There are no adequate or well-controlled studies of neostigmine methylsulfate in pregnant women.
 Glycopyrrolate: Published, randomized, controlled trials over several decades, which compared the use of glycopyrrolate to another antimuscarinic agent in pregnant women during Cesarean section, have not identified adverse maternal or infant outcomes.
@@ -37,11 +37,11 @@ A preclinical study on reproductive performance of rats given glycopyrrolate res
 
 Risk Summary It is not known whether neostigmine methylsulfate and glycopyrrolate are excreted in human milk.
 As with other anticholinergics, glycopyrrolate may cause suppression of lactation.
-The developmental and health benefits of breast feeding should be considered along with the mother’s clinical need for PREVDUOTM and any potential adverse effects on the breastfed child from PREVDUOTM Injection or from the underlying maternal condition.
+The developmental and health benefits of breast feeding should be considered along with the mother’s clinical need for PREVDUO@ and any potential adverse effects on the breastfed child from PREVDUO@ Injection or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-PREVDUOTM is not recommended to be used in pediatric patients less than 2 years of age, as the blood pressure in pediatric patients, particularly infants and neonates, is sensitive to changes in heart rate.
+PREVDUO@ is not recommended to be used in pediatric patients less than 2 years of age, as the blood pressure in pediatric patients, particularly infants and neonates, is sensitive to changes in heart rate.
 In these patients, a formulation that allows for glycopyrrolate to be administered prior to neostigmine to lessen the probability of bradycardia and hypotension is recommended.
 Neostigmine Methylsulfate Recovery of neuromuscular activity occurs more rapidly with smaller doses of cholinesterase inhibitors in infants and children than in adults.
 However, infants and small children may be at greater risk of complications from incomplete reversal of neuromuscular blockade due to decreased respiratory reserve.
@@ -53,9 +53,9 @@ Infants and young children are especially susceptible to the toxic effects of an
 
 ## 8.5 Geriatric Use
 
-Because elderly patients are more likely to have decreased renal function, PREVDUOTM should be used with caution and monitored for a longer period in elderly patients.
-The duration of action of PREVDUOTM is prolonged in the elderly; however, elderly patients also experience slower spontaneous recovery from neuromuscular blocking agents.
-Therefore, dosage adjustments are not generally needed in geriatric patients; however, they should be monitored for longer periods than younger adults to assure additional doses of PREVDUOTM are not required.
+Because elderly patients are more likely to have decreased renal function, PREVDUO@ should be used with caution and monitored for a longer period in elderly patients.
+The duration of action of PREVDUO@ is prolonged in the elderly; however, elderly patients also experience slower spontaneous recovery from neuromuscular blocking agents.
+Therefore, dosage adjustments are not generally needed in geriatric patients; however, they should be monitored for longer periods than younger adults to assure additional doses of PREVDUO@ are not required.
 The duration of monitoring should be predicated on the anticipated duration of action for the NMBA used on the patient.
 
 ## 8.6 Renal Impairment
@@ -65,14 +65,14 @@ In one study glycopyrrolate was administered IV in uremic patients undergoing re
 The mean elimination half-life was significantly longer (46.8 minutes) than in healthy patients (18.6 minutes).
 The mean area-under-the-concentration-time curve (10.6 hr-μg/L), mean plasma clearance (0.43 L/hr/kg), and mean 3-hour urine excretion (0.7%) for glycopyrrolate were also significantly different than those of controls (3.73 hr-μg/L, 1.14 L/hr/kg, and 50%, respectively).
 These results suggests that, the renal elimination of glycopyrrolate may be severely impaired in patients with renal failure.
-Although no adjustments to PREVDUOTM dosing appear to be warranted in patients with impaired renal function, they should be closely monitored to assure the effects of the neuromuscular blocking agent, particularly one cleared by the kidneys, do not persist beyond those of Neostigmine Methylsulfate and Glycopyrrolate.
+Although no adjustments to PREVDUO@ dosing appear to be warranted in patients with impaired renal function, they should be closely monitored to assure the effects of the neuromuscular blocking agent, particularly one cleared by the kidneys, do not persist beyond those of Neostigmine Methylsulfate and Glycopyrrolate.
 In this regard, the interval for re-dosing the neuromuscular blocking agent during the surgical procedure may be useful in determining whether, and to what extent, post-operative monitoring needs to be extended.
 
 ## 8.7 Hepatic Impairment
 
 The pharmacokinetics of neostigmine methylsulfate in patients with hepatic impairment have not been studied.
 Neostigmine methylsulfate is metabolized by microsomal enzymes in the liver, while glycopyrrolate is mostly eliminated unchanged by the kidney.
-No adjustments to the dosing of PREVDUOTM appear to be warranted in patients with hepatic insufficiency.
+No adjustments to the dosing of PREVDUO@ appear to be warranted in patients with hepatic insufficiency.
 However, patients should be carefully monitored if hepatically cleared neuromuscular blocking agents were used during their surgical procedure as their duration of action may be prolonged by hepatic insufficiency.
 This could result in the effects of the neuromuscular blocking agent outlasting those of neostigmine methylsulfate.
 This same situation may arise if the neuromuscular blocking agent has active metabolites.

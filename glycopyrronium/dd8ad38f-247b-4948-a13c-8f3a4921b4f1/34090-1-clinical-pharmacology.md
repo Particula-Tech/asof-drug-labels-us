@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Neostigmine methylsulfate, a component of PREVDUOTM, is a competitive cholinesterase inhibitor.
+Neostigmine methylsulfate, a component of PREVDUO@, is a competitive cholinesterase inhibitor.
 By reducing the breakdown of acetylcholine, neostigmine methylsulfate induces an increase in acetylcholine in the synaptic cleft which competes for the same binding site as nondepolarizing neuromuscular blocking agents and reverses the neuromuscular blockade.
 Glycopyrrolate, like other anticholinergic (antimuscarinic) agents, inhibits the action of acetylcholine on structures innervated by postganglionic cholinergic nerves and on smooth muscles that respond to acetylcholine but lack cholinergic innervation.
 These peripheral cholinergic receptors are present in the autonomic effector cells of smooth muscle, cardiac muscle, the sinoatrial node, the atrioventricular node, exocrine glands and, to a limited degree, in the autonomic ganglia.
@@ -11,7 +11,7 @@ Glycopyrrolate antagonizes muscarinic symptoms (e.g., bronchorrhea, bronchospasm
 
 ## 12.2 Pharmacodynamics
 
-The addition of glycopyrrolate to neostigmine (in the PREVDUO prefilled syringe) mitigates neostigmine-induced bradycardia.
+The addition of glycopyrrolate to neostigmine (in the PREVDUO@ prefilled syringe) mitigates neostigmine-induced bradycardia.
 Neostigmine Methylsulfate Neostigmine methylsulfate-induced increases in acetylcholine levels results in the potentiation of both muscarinic and nicotinic cholinergic activity.
 The resulting elevation of acetylcholine competes with nondepolarizing neuromuscular blocking agents to reverse neuromuscular blockade.
 Neostigmine methylsulfate does not readily cross the blood-brain barrier and, therefore, does not significantly affect cholinergic function in the central nervous system.
