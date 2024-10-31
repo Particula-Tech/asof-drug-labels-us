@@ -8,8 +8,9 @@ There are no studies or adequate data from postmarketing surveillance on the dev
 
 In animal studies, administrations of BOTOX Cosmetic during pregnancy resulted in adverse effects on fetal growth (decreased fetal body weight and skeletal ossification) at clinically relevant doses, which were associated with maternal toxicity [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
@@ -35,7 +36,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4Pediatric Use
 
-Safety and effectiveness in patients below the age of 18 years have not been established.
+The safety and effectiveness of BOTOX Cosmetic have not been established in pediatric patients.
 
 ## 8.5Geriatric Use
 
@@ -50,3 +51,8 @@ In the two lateral canthal lines clinical studies of BOTOX Cosmetic, the respond
 Forehead Lines
 
 In the two forehead lines clinical studies of BOTOX Cosmetic, the responder rates appeared to be higher for subjects younger than age 65 than for subjects 65 years or older.
+
+Platysma Bands
+
+In the two platysma bands clinical studies of BOTOX Cosmetic, 3.6% of subjects (13 subjects) treated with BOTOX Cosmetic were 65 years or older.
+Although the responder rates appeared to be higher for subjects younger than age 65 than for subjects 65 years or older, clinical studies of BOTOX Cosmetic did not include sufficient numbers of subjects 65 years or older to determine whether they respond differently from younger subjects.

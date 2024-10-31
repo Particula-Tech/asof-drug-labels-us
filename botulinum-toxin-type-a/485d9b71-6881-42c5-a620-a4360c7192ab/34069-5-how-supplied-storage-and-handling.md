@@ -13,6 +13,6 @@ Do not use the product and contact AbbVie for additional information at 1-800-67
 
 Storage
 
-Unopened vials of BOTOX Cosmetic should be stored in a refrigerator 2° to 8°C (36º to 46ºF).
+Store unopened vials of BOTOX Cosmetic in a refrigerator 2°C to 8°C (36ºF to 46ºF).
 Do not use after the expiration date on the vial.
-Reconstituted BOTOX Cosmetic should be stored in a refrigerator 2° to 8°C (36º to 46ºF) and administered within 24 hours.
+Store reconstituted BOTOX Cosmetic in a refrigerator 2°C to 8°C (36ºF to 46ºF) and administer within 24 hours [see Dosage and Administration (2.3)].

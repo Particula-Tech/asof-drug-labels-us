@@ -1,9 +1,9 @@
 # 5WARNINGS AND PRECAUTIONS
 
-## 5.1Lack of Interchangeability between Botulinum Toxin Products
+## 5.1Lack of Equivalency Between Botulinum Toxin Products
 
 The potency Units of BOTOX Cosmetic are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX Cosmetic cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+BOTOX Cosmetic is not equivalent to other preparations of botulinum toxin products, and therefore, Units of biological activity of BOTOX Cosmetic cannot be compared to nor converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
 ## 5.2Spread of Toxin Effect
 
@@ -13,7 +13,7 @@ These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death related to spread of toxin effects.
 The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, and particularly in those patients who have an underlying condition that would predispose them to these symptoms.
 In unapproved uses and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia and spasticity.
-Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory disorders occur.
+Advise patients or caregivers to seek immediate medical care if swallowing, speech or respiratory disorders occur.
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines), 24 Units (for lateral canthal lines), 40 Units (for forehead lines with glabellar lines), 44 Units (for simultaneous treatment of lateral canthal lines and glabellar lines), 64 Units (for simultaneous treatment of lateral canthal lines, glabellar lines, and forehead lines), or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
 
@@ -31,7 +31,7 @@ The safety and effectiveness of BOTOX for unapproved uses have not been establis
 
 Serious and/or immediate hypersensitivity reactions have been reported.
 These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea.
-If such a reaction occurs, further injection of BOTOX Cosmetic should be discontinued and appropriate medical therapy immediately instituted.
+If such a reaction occurs, discontinue further injection of BOTOX Cosmetic and immediately institute appropriate medical therapy.
 One fatal case of anaphylaxis has been reported in which lidocaine was used as the diluent, and consequently the causal agent cannot be reliably determined.
 
 ## 5.5 Cardiovascular System
@@ -42,8 +42,8 @@ Use caution when administering to patients with pre-existing cardiovascular dise
 
 ## 5.6Increased Risk of Clinically Significant Effects with Pre-Existing Neuromuscular Disorders
 
-Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored when given botulinum toxin.
 Patients with neuromuscular disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from onabotulinumtoxinA [see Warnings and Precautions (5.2, 5.7)].
+Monitor individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) when given botulinum toxin.
 
 ## 5.7 Dysphagia and Breathing Difficulties
 
@@ -68,13 +68,13 @@ These reactions can occur within hours to weeks after injection with botulinum t
 
 ## 5.8 Pre-existing Conditions at the Injection Site
 
-Caution should be used when BOTOX Cosmetic treatment is used in the presence of inflammation at the proposed injection site(s), ptosis, or when excessive weakness or atrophy is present in the targeted muscle(s).
+Use caution when BOTOX Cosmetic treatment is used in the presence of inflammation at the proposed injection site(s), ptosis, or when excessive weakness or atrophy is present in the targeted muscle(s).
 
 ## 5.9 Corneal Exposure and Ulceration in Patients Treated with BOTOX for Blepharospasm
 
 Reduced blinking from injection of botulinum toxin products in or near the orbicularis oculi muscle can lead to corneal exposure, persistent corneal epithelial defect, and corneal ulceration, especially in patients with VII nerve disorders.
 
-Vigorous treatment of any corneal epithelial defect should be employed.
+Employ vigorous treatment of any corneal epithelial defect.
 This may require protective drops, ointment, therapeutic soft contact lenses, or closure of the eye by patching or other means.
 
 ## 5.10 Dry Eye in Patients Treated with BOTOX Cosmetic
@@ -90,6 +90,6 @@ Covering the affected eye may alleviate these symptoms.
 ## 5.12Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
-Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
-There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transmission would also be considered extremely remote.
+Based on effective donor screening and product manufacturing processes, it carries a remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
+There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), which would also be considered remote.
 No cases of transmission of viral diseases, CJD or vCJD have ever been identified for licensed albumin or albumin contained in other licensed products.
