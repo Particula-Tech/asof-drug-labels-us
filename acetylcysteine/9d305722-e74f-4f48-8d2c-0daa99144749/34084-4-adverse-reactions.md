@@ -33,7 +33,7 @@ Incidence of Drug-Related Adverse Reactions Occurring Within the First 2 Hours F
 | Respiratory, thoracic and mediastinal disorders | 2 (2%) |  |  |  | 2 (3%) |  |  |  |
 | Severity: | Unkn | Mild | Moderate | Severe | Unkn | Mild | Moderate | Severe |
 | Pharyngitis |  |  | 1 (1%) |  |  |  |  |  |
-| Rhinorrhoea |  | 1 (1%) |  |  |  |  |  |  |
+| Rhinorrhea |  | 1 (1%) |  |  |  |  |  |  |
 | Rhonchi |  |  |  |  |  | 1 (1%) |  |  |
 | Throat tightness |  |  |  |  |  | 1 (1%) |  |  |
 | Skin & subcutaneous tissue disorders | 6 (6%) |  |  |  | 5 (7%) |  |  |  |
@@ -44,9 +44,7 @@ Incidence of Drug-Related Adverse Reactions Occurring Within the First 2 Hours F
 | Severity: | Unkn | Mild | Moderate | Severe | Unkn | Mild | Moderate | Severe |
 | Flushing |  | 1 (1%) | 1 (1%) |  |  | 2 (3%) | 1 (1%) |  |
 
-Unkn=Unknown
-
-NOS=not otherwise specified
+Unkn=Unknown; NOS=not otherwise specified
 
 Safety Study
 

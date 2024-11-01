@@ -39,7 +39,7 @@ If the patient presents less than 8 hours after ingestion and the time of acute 
 
 - •Use the Rumack-Matthew nomogram (Figure 1) to determine whether or not to initiate treatment with acetylcysteine injection [see Dosage and Administration (2.2)].
 
-## 2.2 Nomogram for Estimating Potential for Hepatoxicity from Acute Acetaminophen Ingestion and Need for Acetylcysteine Injection Treatment
+## 2.2 Nomogram for Estimating Potential for Hepatotoxicity from Acute Acetaminophen Ingestion and Need for Acetylcysteine Injection Treatment
 
 Acetylcysteine injection is an antidote for acetaminophen overdose.
 The critical ingestion-treatment interval for maximal protection against severe hepatic injury is between 0 – 8 hours.
@@ -143,7 +143,7 @@ For the recommended weight-based dosage and weight-based dilution in patients wh
 
 | Table 2. Recommended Acetylcysteine Injection Dosage and Dilution for Patients 5 kg to 20 kg |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body Weight | Bag 1 (Loading Dose)150 mg/kg in 3 mL/kg of diluent* infused over 1 hour |  | Bag 2 (Second Dose)50 mg/kg in 1 mL/kg of diluent* infused over 4 hours |  | Bag 3 (Third Dose)100 mg/kg diluted in 14 mL/kg of diluent * infused over 16 hours |  |
+| Body Weight | Bag 1 (Loading Dose)150 mg/kg in 3 mL/kg of diluent* infused over 1 hour |  | Bag 2 (Second Dose)50 mg/kg in 7 mL/kg of diluent* infused over 4 hours |  | Bag 3 (Third Dose)100 mg/kg diluted in 14 mL/kg of diluent* infused over 16 hours |  |
 | Loading Dose | Diluent Volume | Second Dose | Diluent Volume | Third Dose | Diluent Volume |  |
 | 5 kg** | 750 mg | 15 mL | 250 mg | 35 mL | 500 mg | 70 mL |
 | 10 kg | 1,500 mg | 30 mL | 500 mg | 70 mL | 1,000 mg | 140 mL |
