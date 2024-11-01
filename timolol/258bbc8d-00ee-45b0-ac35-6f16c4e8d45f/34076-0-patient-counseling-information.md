@@ -22,3 +22,29 @@ Contact Lens Use
 Advise patients that ISTALOL contains benzalkonium chloride, an anti-microbial preservative, which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to administration of the solution.
 Lenses may be reinserted 15 minutes following ISTALOL administration.
+
+Distributed by:
+
+Bausch & Lomb Americas Inc.
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch & Lomb Incorporated
+
+Tampa, FL 33637 USA
+
+Under License from:
+
+Senju Pharmaceutical Co., Ltd.
+
+Osaka, Japan 541-0046
+
+ISTALOL is a trademark of Bausch & Lomb Incorporated or its affiliates.
+
+© 2024 Bausch & Lomb Incorporated or its affiliates
+
+9733102 (Folded)
+
+9733202 (Flat)
