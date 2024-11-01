@@ -17,7 +17,8 @@ Important Information You Need to Know Before Taking ONYDA XR:
 - Check the expiration date (EXP) on the carton label.
   Do not take ONYDA XR after the expiration date has passed.
   Call your healthcare provider or pharmacist if your medicine is expired.
-- Throw away (discard of) any remaining ONYDA XR if you have not used it after 60 days of first opening the bottle.
+- For the bottles of 30 ml and 60 ml, throw away (discard of) any remaining ONYDA XR if you have not used it after 30 days of first opening the bottle.
+- For the 120 ml bottle, throw away (discard of) any remaining ONYDA XR if you have not used it after 60 days of first opening the bottle.
 
 Supplies included in the ONYDA XR carton:
 
@@ -44,7 +45,8 @@ Figure A
 Disposing of ONYDA XR:
 
 - Throw away any unused or expired ONYDA XR in your household trash.
-- Throw away any remaining ONYDA XR if you have not used it 60 days after first opening the bottle.
+- For the bottles of 30 ml and 60 ml, throw away any remaining ONYDA XR if you have not used it 30 days after first opening the bottle.
+- For the 120 ml bottle, throw away any remaining ONYDA XR if you have not used it 60 days after first opening the bottle.
 
 Storing ONYDA XR:
 
@@ -61,8 +63,8 @@ Tris Pharma, Inc.
 Monmouth Junction, NJ 08852
 
 LB8730 Rev.
-00
+01
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-Approved: 05/2024
+Revised: 09/2024
