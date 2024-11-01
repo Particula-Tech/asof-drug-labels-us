@@ -20,7 +20,8 @@ North Chicago, IL.
 
 © 2023 AbbVie.
 All rights reserved.
-BOTOX and its design are trademarks of Allergan Inc., an AbbVie company Patented.
+BOTOX and its design are trademarks of Allergan Inc., an AbbVie company.
+Patented.
 See: https://www.abbvie.com/patents.html
 
 v11.0USPI1145
