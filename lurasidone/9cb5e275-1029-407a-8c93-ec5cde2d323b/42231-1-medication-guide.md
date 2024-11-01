@@ -1,5 +1,3 @@
-# SPL MEDGUIDE
-
 MEDICATION GUIDE
 
 Lurasidone Hydrochloride (loo-RAS-i-done HYE-droe-KLOR-ide) Tablets

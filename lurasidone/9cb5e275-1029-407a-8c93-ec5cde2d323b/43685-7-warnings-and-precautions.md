@@ -18,7 +18,7 @@ There were suicides in the adult studies, but the number was not sufficient to r
 
 Table 2: Risk Differences of the Number of Cases of Suicidal Thoughts or Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
-| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional patients |
@@ -173,7 +173,7 @@ Schizophrenia
 
 Adults
 
-Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 6.
+Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
 
 Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
 
