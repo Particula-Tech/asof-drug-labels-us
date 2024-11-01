@@ -80,7 +80,7 @@ No overall differences in safety or effectiveness were observed between these su
 
 ## 8.6 Patients with Hepatic Impairment
 
-Acetaminophen is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease [seeWarnings and Precautions (5.1) and Clinical Pharmacology (12)].
+Acetaminophen is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease [see Warnings and Precautions (5.1) and Clinical Pharmacology (12)].
 A reduced total daily dose of acetaminophen may be warranted.
 
 ## 8.7 Patients with Renal Impairment

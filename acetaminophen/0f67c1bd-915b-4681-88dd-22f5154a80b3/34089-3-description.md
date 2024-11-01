@@ -14,4 +14,5 @@ The suitability of the container material has been confirmed by tests in animals
 
 Acetaminophen injection is a sterile, clear, colorless, non pyrogenic, isotonic formulation of acetaminophen intended for intravenous infusion.
 It has a pH of approximately between 5.0 to 6.3 and an osmolality of approximately 290 mOsm/kg.
+
 Each 100 mL contains 1000 mg acetaminophen, USP, 3850 mg mannitol, USP, 25 mg L-cysteine hydrochloride monohydrate, USP, and 10.4 mg dibasic sodium phosphate anhydrous, USP. pH is adjusted with hydrochloric acid and/or sodium hydroxide.
