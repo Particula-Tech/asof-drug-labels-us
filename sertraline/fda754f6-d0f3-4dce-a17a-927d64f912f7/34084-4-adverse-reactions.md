@@ -35,7 +35,7 @@ The following are the most common adverse reactions in trials of ZOLOFT (≥5% a
 
 Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDDAdverse reactions that occurred greater than 2% in ZOLOFT-treated patients and at least 2% greater in ZOLOFT-treated patients than placebo-treated patients.
 
-|  | ZOLOFT(N=3066) | Placebo(N=2293) |
+|  | ZOLOFT (N=3066) | Placebo (N=2293) |
 | --- | --- | --- |
 | Cardiac disorders |  |  |
 | Palpitations | 4% | 2% |
@@ -56,7 +56,7 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Dizziness | 12% | 8% |
 | Somnolence | 11% | 6% |
 | Tremor | 9% | 2% |
-| Psychiatric Disorders |  |  |
+| Psychiatric disorders |  |  |
 | Insomnia | 20% | 13% |
 | Agitation | 8% | 5% |
 | Libido decreased | 6% | 2% |
@@ -64,7 +64,7 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Ejaculation failureDenominator used was for male patients only (n=1316 ZOLOFT; n=973 placebo). | 8% | 1% |
 | Erectile dysfunction | 4% | 1% |
 | Ejaculation disorder | 3% | 0% |
-| Male sexual dysfunction | 2% | 0% |
+| Male sexual dysfunctiom | 2% | 0% |
 | Skin and subcutaneous tissue disorders |  |  |
 | Hyperhidrosis | 7% | 3% |
 

@@ -10,11 +10,17 @@ Zoloft® (sertraline hydrochloride) tablets 25 mg*
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
-DOSAGE AND USE
+DOSAGE AND USE See accompanying prescribing information.
 
-See accompanying prescribing information.
+*Each tablet contains 28.0 mg sertraline hydrochloride equivalent to 25 mg sertraline.
 
-Each tablet contains 28.0 mg sertraline hydrochloride equivalent to 25 mg sertraline.
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
+
+© 2023 Viatris Inc.
+
+Made in Germany
+
+RUPJ574H
 
 # PRINCIPAL DISPLAY PANEL – 50 mg
 
@@ -28,11 +34,17 @@ Zoloft® (sertraline hydrochloride) tablets 50 mg*
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
-DOSAGE AND USE
+DOSAGE AND USE See accompanying prescribing information.
 
-See accompanying prescribing information.
+*Each tablet contains 56.0 mg sertraline hydrochloride equivalent to 50 mg sertraline.
 
-Each tablet contains 56.0 mg sertraline hydrochloride equivalent to 50 mg sertraline.
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
+
+© 2023 Viatris Inc.
+
+Made in Germany
+
+RUPJ575H
 
 # PRINCIPAL DISPLAY PANEL – 100 mg
 
@@ -46,17 +58,23 @@ Zoloft® (sertraline hydrochloride) tablets 100 mg*
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
-DOSAGE AND USE
+DOSAGE AND USE See accompanying prescribing information.
 
-See accompanying prescribing information.
+*Each tablet contains 111.9 mg sertraline hydrochloride equivalent to 100 mg sertraline.
 
-Each tablet contains 111.9 mg sertraline hydrochloride equivalent to 100 mg sertraline.
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
+
+© 2023 Viatris Inc.
+
+Made in Germany
+
+RUPJ576H
 
 # PRINCIPAL DISPLAY PANEL – 20 mg/mL
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0049-0050-01
+NDC 58151-601-35
 
 Zoloft® (sertraline hydrochloride) oral solution equivalent to 20 mg/mL* of sertraline
 
@@ -86,3 +104,11 @@ At times, a slight haze may appear after mixing; this is normal.
 The medicine should be given immediately after mixing.
 
 DO NOT MIX IN ADVANCE.
+
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
+
+© 2023 Viatris Inc.
+
+Made in Spain
+
+ZOLOFT is a registered trademark of Viatris Specialty LLC, a Viatris Company.

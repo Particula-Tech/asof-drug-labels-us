@@ -91,9 +91,11 @@ Response during the open phase was defined as a CGI-I score of 1(very much impro
 Insufficient clinical response in the double-blind phase indicated a worsening of the patient’s condition that resulted in study discontinuation, as assessed by the investigator.
 Relapse during the double-blind phase was defined as the following conditions being met on three consecutive visits:
 
-1. (1)CGI-I ≥ 3;
-2. (2)meets DSM-III-R criteria for PD;
-3. (3)number of panic attacks greater than at baseline.
+(1) CGI-I ≥ 3;
+
+(2) meets DSM-III-R criteria for PD;
+
+(3) number of panic attacks greater than at baseline.
 
 Patients receiving continued ZOLOFT treatment experienced a statistically significantly lower rate of discontinuation due to relapse or insufficient clinical response over the subsequent 28 weeks compared to those receiving placebo.
 This pattern was demonstrated in male and female subjects.
@@ -121,9 +123,11 @@ In Study PSTD-5, patients meeting DSM-III-R criteria for PTSD who had responded 
 Response during the open phase was defined as a CGI-I of 1 (very much improved) or 2 (much improved), and a decrease in the CAPS-2 score of > 30% compared to baseline.
 Relapse during the double-blind phase was defined as the following conditions being met on two consecutive visits:
 
-1. (1)CGI-I ≥ 3;
-2. (2)CAPS-2 score increased by ≥ 30% and by ≥ 15 points relative to baseline; and
-3. (3)worsening of the patient's condition in the investigator's judgment.
+(1) CGI-I ≥ 3;
+
+(2) CAPS-2 score increased by ≥ 30% and by ≥ 15 points relative to baseline; and
+
+(3) worsening of the patient's condition in the investigator's judgment.
 
 Patients receiving continued ZOLOFT treatment experienced statistically significantly lower relapse rates over the subsequent 28 weeks compared to those receiving placebo.
 This pattern was demonstrated in male and female subjects.
@@ -135,8 +139,9 @@ The effectiveness of ZOLOFT in the treatment of SAD (also known as social phobia
 Study SAD-1 was a 12-week, flexible dose study comparing ZOLOFT (50-200 mg/day), n=211, to placebo, n=204, in which ZOLOFT was initiated at 25 mg/day for the first week, then titrated to the maximum tolerated dose in 50 mg increments biweekly.
 Study outcomes were assessed by the:
 
-1. (1)Liebowitz Social Anxiety Scale (LSAS), a 24-item clinician administered instrument that measures fear, anxiety, and avoidance of social and performance situations, and
-2. (2)Proportion of responders as defined by the Clinical Global Impression of Improvement (CGI-I) criterion of CGI-I ≤ 2 (very much or much improved).
+(1) Liebowitz Social Anxiety Scale (LSAS), a 24-item clinician administered instrument that measures fear, anxiety, and avoidance of social and performance situations, and
+
+(2) Proportion of responders as defined by the Clinical Global Impression of Improvement (CGI-I) criterion of CGI-I ≤ 2 (very much or much improved).
 
 ZOLOFT was statistically significantly more effective than placebo as measured by the LSAS and the percentage of responders.
 
@@ -144,9 +149,11 @@ Study SAD-2 was a 20-week, flexible dose study that compared ZOLOFT (50-200 mg/d
 ZOLOFT was titrated to the maximum tolerated dose in 50 mg increments every 3 weeks.
 Study outcome was assessed by the:
 
-1. (1)Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
-2. (2)Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and
-3. (3)CGI-I responder criterion of ≤ 2.
+(1) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
+
+(2) Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and
+
+(3) CGI-I responder criterion of ≤ 2.
 
 ZOLOFT was shown to be statistically significantly more effective than placebo as measured by the BSPS total score and fear, avoidance and physiologic factor scores, as well as the FQ-SPS total score, and to have statistically significantly more responders than placebo as defined by the CGI-I.
 Subgroup analyses did not suggest differences in treatment outcome on the basis of gender.

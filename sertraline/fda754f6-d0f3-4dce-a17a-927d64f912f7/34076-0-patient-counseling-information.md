@@ -58,12 +58,10 @@ Advise women that there is a pregnancy exposure registry that monitors pregnancy
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-Made in Germany
-
 © 2023 Viatris Inc.
 
 ZOLOFT is a registered trademark of Viatris Specialty LLC a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:ZLFTTOS:RX4
+UPJ:ZLFTTOS:R1

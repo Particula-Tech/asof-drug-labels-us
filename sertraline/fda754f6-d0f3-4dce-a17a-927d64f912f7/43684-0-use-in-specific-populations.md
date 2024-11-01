@@ -26,7 +26,7 @@ ZOLOFT oral solution contains 12% alcohol and is not recommended during pregnanc
 
 ### Clinical Considerations
 
-#### Disease-associated maternal and/or embryo/fetal risk
+#### Disease-associated Maternal and/or Embryo/Fetal Risk
 
 A prospective longitudinal study followed 201 pregnant women with a history of major depression who were euthymic taking antidepressants at the beginning of pregnancy.
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
@@ -36,7 +36,7 @@ Consider the risks of untreated depression when discontinuing or changing treatm
 
 Use of ZOLOFT in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.3)].
 
-#### Fetal/Neonatal adverse reactions
+#### Fetal/Neonatal Adverse Reactions
 
 Exposure to SSRIs and SNRIs, including ZOLOFT in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN).
 
@@ -96,8 +96,10 @@ No adverse reactions were observed in these infants.
 ## 8.4 Pediatric Use
 
 The safety and efficacy of ZOLOFT have been established in the treatment of OCD in pediatric patients aged 6 to 17 [See Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+
 Safety and effectiveness in pediatric patients in patients with OCD below the age of 6 have not been established.
 Safety and effectiveness have not been established in pediatric patients for indications other than OCD.
+
 Two placebo-controlled trials were conducted in pediatric patients with MDD, but the data were not sufficient to support an indication for use in pediatric patients.
 
 ### Monitoring Pediatric Patients Treated with ZOLOFT
