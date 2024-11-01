@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA216778"
+  ],
+  "inn": "sitagliptin",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1886-6",
+    "70771-1887-6",
+    "70771-1888-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "sitagliptin and metformin hydrochloride",
+      "name": "Sitagliptin and Metformin Hydrochloride"
+    }
+  ],
+  "setid": "a07fa1d9-7171-4f2a-ab34-f8fa410364a6",
+  "source": "dailymed"
+}
