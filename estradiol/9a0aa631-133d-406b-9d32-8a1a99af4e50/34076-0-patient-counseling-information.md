@@ -30,10 +30,12 @@ Possible Common Adverse Reactions with Estrogen-Alone Therapy
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
-Distributed By
+Manufactured by Padagis®
 
-Padagis
+Yeruham, Israel
 
-Allegan, MI 49010
+www.padagis.com
 
-Rev 12/2023
+Rev 10-2024
+
+9E400 RC PH3

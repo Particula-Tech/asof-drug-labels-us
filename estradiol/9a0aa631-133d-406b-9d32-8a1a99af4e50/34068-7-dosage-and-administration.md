@@ -12,7 +12,7 @@ Re-evaluate postmenopausal women periodically as clinically appropriate to deter
 Start Evamist therapy with one spray of Evamist per day.
 Make dosage adjustment based on the clinical response.
 
-Prime the Evamist container by spraying 3 sprays with the cover on before applying the first dose from a new applicator.
+Prime the Evamist container by spraying 5 sprays with the cover on before applying the first dose from a new applicator.
 Hold the container upright and vertical for spraying.
 
 Apply one, two or three sprays each morning to adjacent, non-overlapping areas on the inner surface of the forearm, starting near the elbow.

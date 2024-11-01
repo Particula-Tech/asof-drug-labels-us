@@ -84,7 +84,7 @@ Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHIa
 | Event | Relative Risk CE vs. Placebo(95% nCIb) | CE(n = 5,310) | Placebo(n = 5,429) |
 | --- | --- | --- | --- |
 | Absolute Risk per10,000 Women-Years |  |  |  |
-| CHD eventsc Non-fatal MIcc CHD death c CHD death c | 0.95 (0.78-1.16)0.91 (0.73-1.14)1.01 (0.71-1.43) | 544016 | 574316 |
+| CHD eventsc Non-fatal MIc CHD death c CHD death c | 0.95 (0.78-1.16)0.91 (0.73-1.14)1.01 (0.71-1.43) | 544016 | 574316 |
 | All strokesc Ischemic stroke c | 1.33 (1.05-1.68)1.55 (1.19-2.01) | 4538 | 3325 |
 | Deep vein thrombosisc,d | 1.47 (1.06-2.06) | 23 | 15 |
 | Pulmonary embolismc | 1.37 (0.90-2.07) | 14 | 10 |

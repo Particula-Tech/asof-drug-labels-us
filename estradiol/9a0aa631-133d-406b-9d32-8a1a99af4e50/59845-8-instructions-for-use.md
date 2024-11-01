@@ -18,7 +18,7 @@ Priming your EVAMIST
 - •Before you use your EVAMIST applicator for the first time, the applicator must be primed.
 - •Hold the EVAMIST applicator upright.
   Keep the cover on.
-  Fully press down the pump button 3 times with your thumb or index finger (see Figure B). After priming, the EVAMIST applicator is ready to use.
+  Fully press down the pump button 5 times with your thumb or index finger (see Figure B). After priming, the EVAMIST applicator is ready to use.
 - •The EVAMIST applicator should be primed only 1 time when you first start using a new applicator.
   Do not prime the EVAMIST applicator before your dose each day.
 
@@ -49,17 +49,17 @@ After you use EVAMIST
 Step 4.
 Throwing away used EVAMIST applicators
 
-- •Your EVAMIST applicator contains enough medicine to allow for initial priming of the pump with 3 sprays and application of 56 sprays.
+- •Your EVAMIST applicator contains enough medicine to allow for initial priming of the pump with 5 sprays and application of 56 sprays.
 - •Do not use your EVAMIST applicator for more than 56 application sprays even though the bottle may not be completely empty.
   You may not get the correct dose.
 - •Always replace the cover over the cone of your EVAMIST applicator before you throw it away to prevent accidental exposure to other people or pets.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Distributed By
+Manufactured by Padagis®
 
-Padagis
+Yeruham, Israel
 
-Allegan, MI 49010
+www.padagis.com
 
-Rev 12/2023
+Rev 10-2024 9E400 RC PH3
