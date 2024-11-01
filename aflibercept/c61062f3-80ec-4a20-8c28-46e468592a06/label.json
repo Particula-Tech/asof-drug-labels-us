@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761298"
+  ],
+  "inn": "aflibercept",
+  "labeler": "Amgen, Inc",
+  "package_ndcs": [
+    "55513-056-01",
+    "55513-065-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aflibercept-ayyh",
+      "name": "PAVBLU"
+    }
+  ],
+  "setid": "c61062f3-80ec-4a20-8c28-46e468592a06",
+  "source": "dailymed"
+}
