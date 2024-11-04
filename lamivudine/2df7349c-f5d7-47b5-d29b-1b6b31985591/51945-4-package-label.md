@@ -36,7 +36,6 @@ Trademarks are owned by or licensed to the GSK group of companies.
 
 1. 62000000058305 Rev.
    12/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -62,4 +61,3 @@ Made in Canada
 
 1. 62000000052473 Rev.
    9/20
-2. 

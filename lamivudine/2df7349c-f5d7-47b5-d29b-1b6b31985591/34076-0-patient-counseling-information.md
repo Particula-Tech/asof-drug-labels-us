@@ -53,8 +53,8 @@ EPIVIR is a trademark owned by or licensed to the ViiV Healthcare group of compa
 
 Distributed by:
 
-GlaxoSmithKline Research Triangle Park, NC 27709
+GlaxoSmithKline Durham, NC 27701
 
-©2021 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-EPH:9PI
+EPH:10PI
