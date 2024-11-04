@@ -239,7 +239,7 @@ Inactive ingredients: lactose monohydrate; magnesium stearate; microcrystalline 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Trademarks are the property of their respective owners.
+The brands listed are trademarks of their respective owners.
 
 Manufactured by:
 
@@ -249,4 +249,6 @@ Manufactured for:
 
 OWP Pharmaceuticals, Inc., 400 E. Diehl Road, Suite 400, Naperville, IL 60563.
 
-8082161 OWOSSUBMGI0321 Revised May 2021
+OWOSSUBMGI0824 Revised:August 2024
+
+8097262

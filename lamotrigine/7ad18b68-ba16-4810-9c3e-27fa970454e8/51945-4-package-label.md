@@ -88,7 +88,7 @@ Contains
 
 69102-300-01 Subvenite
 
-(lamotrigine tablets, USP) Green Starter Kit
+(lamotrigine tablets, USP) Orange Starter Kit
 
 Contains
 

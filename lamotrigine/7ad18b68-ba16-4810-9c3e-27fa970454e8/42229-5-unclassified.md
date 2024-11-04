@@ -6,4 +6,6 @@ Manufactured for:
 
 OWP Pharmaceuticals, Inc., 400 E. Diehl Road, Suite 400, Naperville, IL 60563
 
-8082096 OWOSSUBPI0321 Revised May 2021
+OWOSSUBPI10824 Revised August 2024
+
+8097261
