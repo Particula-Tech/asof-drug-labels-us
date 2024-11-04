@@ -10,7 +10,9 @@ Discontinue Zoledronic Acid Injection when pregnancy is recognized.
 In animal reproduction studies, daily subcutaneous administration of zoledronic acid to pregnant rats during organogenesis resulted in increases in fetal skeletal, visceral, and external malformations, decreases in postimplantation survival, and decreases in viable fetuses and fetal weight starting at doses equivalent to 2 times the recommended human 5 mg intravenous dose (based on AUC).
 Subcutaneous administration of zoledronic acid to rabbits during organogenesis did not cause adverse fetal effects at up to 0.4 times the human 5 mg intravenous dose (based on body surface area, mg/m2), but resulted in maternal mortality and abortion associated with hypocalcemia starting at doses equivalent to 0.04 times the human 5 mg intravenous dose.
 Subcutaneous dosing of female rats from before mating through gestation and lactation and allowed to deliver caused maternal dystocia and periparturient mortality, increases in stillbirths and neonatal deaths, and reduced pup body weight starting at doses equivalent to 0.1 times the human 5 mg intravenous dose (based on AUC).
-(see Data).Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
+(see Data).
+
+Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
 The amount of bisphosphonate incorporated into adult bone, and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
 Consequently, based on the mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on the risk has not been studied.
@@ -59,7 +61,7 @@ The safety and effectiveness of zoledronic acid was studied in a one-year active
 The enrolled population was subjects with severe osteogenesis imperfecta, aged 1 to 17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
-The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget's disease of bone including osteonecrosis of the jaw (ONJ) and renal impairment.
+The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget's disease of bone and treatment of osteoporosis including osteonecrosis of the jaw (ONJ) and renal impairment.
 However, adverse reactions seen more commonly in pediatric patients included pyrexia (61%), arthralgia (26%), hypocalcemia (22%) and headache (22%).
 These reactions, excluding arthralgia, occurred most frequently within three days after the first infusion and became less common with repeat dosing.
 No cases of ONJ or renal impairment were observed in this study.
@@ -71,9 +73,12 @@ The plasma concentration time profile of zoledronic acid in pediatric patients r
 
 ## 8.5 Geriatric Use
 
-Of the patients receiving Zoledronic Acid Injection in the Paget's disease studies, 132 patients were 65 years of age or over, while 68 patients were at least 75 years of age.
+The combined osteoporosis trials included 4863 Zoledronic Acid Injection-treated patients who were at least 65 years of age, while 2101 patients were at least 75 years old.
+No overall differences in efficacy or safety were observed between patients under 75 years of age with those at least 75 years of age, except that the acute phase reactions occurred less frequently in the older patients.
 
-Because decreased renal function occurs more commonly in the elderly, special care should be taken to monitor renal function.
+Of the patients receiving Zoledronic Acid Injection in the osteoporosis study in men, glucocorticoid-induced osteoporosis, and Paget's disease studies, 83, 116, and 132 patients, respectively were 65 years of age or over, while 24, 29, and 68 patients, respectively were at least 75 years of age.
+
+However, because decreased renal function occurs more commonly in the elderly, special care should be taken to monitor renal function.
 
 ## 8.6 Renal Impairment
 
