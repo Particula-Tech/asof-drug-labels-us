@@ -111,3 +111,22 @@ Additional efficacy endpoints included a comparison between patients randomized 
 The incidence for each of these 5 clinical parameters was lower in the filgrastim arm compared to the control arm for cohorts in each of the 3 major diagnostic categories.
 An analysis of variance showed no significant interaction between treatment and diagnosis‚ suggesting that efficacy did not differ substantially in the different diseases.
 Although filgrastim substantially reduced neutropenia in all patient groups‚ in patients with cyclic neutropenia‚ cycling persisted but the period of neutropenia was shortened to 1 day.
+
+## 14.6 Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+
+Efficacy studies of filgrastim products could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.
+Approval of this indication was based on efficacy studies conducted in animals and data supporting the use of filgrastim for other approved indications [see Dosage and Administration (2.1 to 2.4)].
+
+Because of the uncertainty associated with extrapolating animal efficacy data to humans, the selection of human dose for ZARXIO is aimed at providing exposures to filgrastim that exceed those observed in animal efficacy studies.
+The 10 mcg/kg daily dose is selected for humans exposed to myelosuppressive doses of radiation because the exposure associated with such a dose is expected to exceed the exposure associated with a 10 mcg/kg dose in non-human primates [see Clinical Pharmacology (12.3)].
+The safety of filgrastim at a daily dose of 10 mcg/kg has been assessed on the basis of clinical experience in approved indications.
+
+The efficacy of filgrastim was studied in a randomized, blinded, placebo-controlled study in a non-human primate model of radiation injury.
+The planned sample size was 62 animals, but the study was stopped at the interim analysis with 46 animals because efficacy was established.
+Rhesus macaques were randomized to a control (n = 22) or treated (n = 24) group.
+Animals were exposed to total body irradiation of 7.4 ± 0.15 Gy delivered at 0.8 ± 0.03 Gy/min, representing a dose that would be lethal in 50% of animals by 60 days of follow-up (LD50/60).
+Starting on day 1 after irradiation, animals received daily subcutaneous injections of placebo (5% dextrose in water) or filgrastim (10 mcg/kg/day).
+Blinded treatment was stopped when one of the following criteria was met: ANC ≥ 1,000/mm3 for 3 consecutive days, or ANC ≥ 10,000/mm3 for more than 2 consecutive days within study day 1 to 5, or ANC ≥ 10,000/mm3 any time after study day 5.
+Animals received medical management consisting of intravenous fluids, antibiotics, blood transfusions, and other support as required.
+
+Filgrastim significantly (at 0.023 level of significance) reduced 60-day mortality in the irradiated non-human primates: 21% mortality (5/24) in the filgrastim group compared to 59% mortality (13/22) in the control group.

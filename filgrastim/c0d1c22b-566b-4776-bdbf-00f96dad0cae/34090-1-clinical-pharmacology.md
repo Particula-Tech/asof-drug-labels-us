@@ -39,6 +39,12 @@ The absolute bioavailability of filgrastim after subcutaneous administration is 
 
 Specific Populations
 
+Patients Acutely Exposed to Myelosuppressive Doses of Radiation
+
+The pharmacokinetics of filgrastim products are not available in patients acutely exposed to myelosuppressive doses of radiation.
+Based on limited pharmacokinetics data in irradiated non-human primates, the area under the time-concentration curve (AUC), reflecting the exposure to filgrastim in non-human primates at 10 mcg/kg dose of filgrastim, appears to be similar to that in humans at 5 mcg/kg.
+Simulations conducted using the population pharmacokinetic model indicates that the exposures to filgrastim at a filgrastim dose of 10 mcg/kg in patients acutely exposed to myelosuppressive doses of radiation are expected to exceed the exposures at a dose of 10 mcg/kg in irradiated non-human primates.
+
 Pediatric Patients
 
 The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim products [see Use in Specific Populations (8.4)].

@@ -57,14 +57,21 @@ During the initial 4 weeks of ZARXIO therapy and during the 2 weeks following an
 Once a patient is clinically stable‚ monitor CBCs with differential and platelet counts monthly during the first year of treatment.
 Thereafter, if the patient is clinically stable, less frequent routine monitoring is recommended.
 
-## 2.5 Important Administration Instructions
+## 2.5 Dosage in Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+
+The recommended dosage of ZARXIO is 10 mcg/kg as a single daily subcutaneous injection for patients exposed to myelosuppressive doses of radiation.
+Administer ZARXIO as soon as possible after suspected or confirmed exposure to radiation doses greater than 2 gray (Gy).
+
+Estimate a patient’s absorbed radiation dose (i.e., level of radiation exposure) based on information from public health authorities, biodosimetry if available, or clinical findings such as time to onset of vomiting or lymphocyte depletion kinetics.
+
+Obtain a baseline CBC and then serial CBCs approximately every third day until the ANC remains greater than 1,000/mm3 for 3 consecutive CBCs.
+Do not delay administration of ZARXIO if a CBC is not readily available.
+
+Continue administration of ZARXIO until the ANC remains greater than 1,000/mm3 for 3 consecutive CBCs or exceeds 10,000/mm3 after a radiation-induced nadir.
+
+## 2.6 Important Administration Instructions
 
 ZARXIO (for subcutaneous use or intravenous use) is supplied in single-dose vials and in single-dose prefilled syringes [see Dosage Forms and Strengths (3)].
-
-Patients who will self-administer and caregivers who will administer to the patient may benefit from training by a healthcare professional.
-Training should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use for the vial or prefilled syringe with BD UltraSafe Passive® Needle Guard.
-If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO prefilled syringe or whether the patient would benefit from the ZARXIO vial presentation.
-If a patient or caregiver experiences difficulty measuring the required dose, especially if it is other than the entire content of the ZARXIO prefilled syringe, use of the ZARXIO vial may be considered [see Instructions for Use].
 
 Administration Instructions for Subcutaneous Injection
 
@@ -72,6 +79,11 @@ Inject ZARXIO subcutaneously in the outer area of upper arms, abdomen, thighs, o
 If patients or caregivers are to administer ZARXIO, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for prefilled syringe with BD UltraSafe Passive ® Needle Guard or for the vial.
 
 If the patient or caregiver misses a dose of ZARXIO, instruct them to contact their healthcare provider.
+
+Patients who will self-administer and caregivers who will administer to the patient may benefit from training by a healthcare professional.
+Training should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use for the vial or prefilled syringe with BD UltraSafe Passive® Needle Guard.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO prefilled syringe or whether the patient would benefit from the ZARXIO vial presentation.
+If a patient or caregiver experiences difficulty measuring the required dose, especially if it is other than the entire content of the ZARXIO prefilled syringe, use of the ZARXIO vial may be considered [see Instructions for Use].
 
 Instructions for the Prefilled Syringe
 
@@ -106,11 +118,11 @@ Do not save unused drug for later administration.
 
 Administration Instructions for Dilution
 
-If required for intravenous administration ZARXIO may be diluted in 5% Dextrose Injection, USP to concentrations between 5 mcg/mL and 15 mcg/mL.
+If required for intravenous administration, ZARXIO may be diluted in 5% Dextrose Injection, USP to concentrations between 5 mcg/mL and 15 mcg/mL.
 ZARXIO diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.
-When diluted in 5% Dextrose Injection, USP, or 5% Dextrose plus Albumin (Human)‚ ZARXIO is compatible with glass, polyvinylchloride, polyolefin, and polypropylene.
+When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)‚ ZARXIO is compatible with glass, polyvinylchloride, polyolefin, and polypropylene.
 
-Do not dilute with Sodium Chloride Injection at any time, because the product may precipitate.
+Do not dilute with Sodium Chloride Injection at any time because the product may precipitate.
 
 Diluted ZARXIO solution from ZARXIO prefilled syringe can be stored at room temperature [between 20℃ to 25℃ (68℉ to 77℉)] for up to 24 hours.
 This 24‑hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.

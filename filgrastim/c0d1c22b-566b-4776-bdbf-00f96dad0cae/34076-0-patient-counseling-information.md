@@ -28,6 +28,7 @@ Advise patients of the following risks and potential risks with ZARXIO:
   Symptoms may include fever, abdominal pain, malaise, back pain, and increased inflammatory markers.
   Advise patients to report signs and symptoms of aortitis to their physician immediately [see Warnings and Precautions (5.15)].
 - 
+- Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Syndrome of Acute Radiation Syndrome) that efficacy studies of filgrastim products for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.6)].
 
 Instruct patients who self-administer ZARXIO using the prefilled syringe or single-dose vial of the:
 

@@ -29,7 +29,7 @@ The safe use of ZARXIO in latex-sensitive individuals has not been studied.
 Storage:
 
 Store ZARXIO in the refrigerator at 2°C to 8°C (36°F to 46°F) in the original pack to protect from light.
-Do not leave Zarxio in direct sunlight.
+Do not leave ZARXIO in direct sunlight.
 Avoid shaking.
 Avoid freezing; if frozen, thaw in the refrigerator before administration.
 Discard ZARXIO if frozen more than once.
