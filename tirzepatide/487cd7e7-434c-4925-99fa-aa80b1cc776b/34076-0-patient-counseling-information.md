@@ -46,6 +46,11 @@ Suicidal Behavior and Ideation
 Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking ZEPBOUND [see Warnings and Precautions (5.9)].
 
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that ZEPBOUND may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking ZEPBOUND [see Warnings and Precautions (5.10)].
+
 Pregnancy
 
 Advise a pregnant patient of the potential risk to a fetus.
@@ -60,17 +65,17 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 Administration
 
 Instruct patients how to prepare and administer the correct dose of ZEPBOUND and assess their ability to inject subcutaneously to ensure the proper administration of ZEPBOUND.
-Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.4)].
+Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.3)].
 
 Missed Doses
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 4 days after the missed dose.
 If more than 4 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
-In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.3)].
+In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.2)].
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 Copyright © 2023, 2024, Eli Lilly and Company.
 All rights reserved.
 
-ZEP-0003-USPI-20240523
+ZEP-0006-USPI-20241023

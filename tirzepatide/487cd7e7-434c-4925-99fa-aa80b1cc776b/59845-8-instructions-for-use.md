@@ -193,7 +193,7 @@ Check the vial label to make sure you have the right medicine and dose, and that
 
 Make sure the medicine:
 
-| is not frozenis not cloudy | is colorless to slightly yellowdoes not have particles |
+| is not frozen is not cloudy | is colorless to slightly yellow does not have particles |
 | --- | --- |
 
 Always use a new syringe and needle for each injection to prevent infections and blocked needles.
@@ -230,7 +230,7 @@ Injecting ZEPBOUND
 | --- | --- |
 | Step 14: Insert the needle into your skin. |  |
 | Step 15: Push down on the plunger to inject your dose. The needle should stay in your skin for at least 5 seconds to make sure you have injected all of your dose. |  |
-| Step 16: Pull the needle out of your skin. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze or an alcohol swab. Do not rub the area.Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
+| Step 16: Pull the needle out of your skin. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze or an alcohol swab. Do not rub the area. Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
 
 Disposing of used needles and syringes
 

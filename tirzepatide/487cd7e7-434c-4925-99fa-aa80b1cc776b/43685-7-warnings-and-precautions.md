@@ -14,15 +14,16 @@ Significantly elevated serum calcitonin values may indicate MTC and patients wit
 If serum calcitonin is measured and found to be elevated, the patient should be further evaluated.
 Patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.
 
-## 5.2 Severe Gastrointestinal Disease
+## 5.2 Severe Gastrointestinal Adverse Reactions
 
 Use of ZEPBOUND has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
-In clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving ZEPBOUND (5 mg 1.7%, 10 mg 2.5%, 15 mg 3.1%) than placebo (1%).
+In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), severe gastrointestinal adverse reactions were reported more frequently among patients receiving ZEPBOUND (5 mg 1.7%, 10 mg 2.5%, 15 mg 3.1%) than placebo (1%).
+
 ZEPBOUND has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and is therefore not recommended in these patients.
 
 ## 5.3 Acute Kidney Injury
 
-Use of ZEPBOUND has been associated with acute kidney injury, which can result from dehydration due to gastrointestinal adverse reactions to ZEPBOUND; including nausea, vomiting, and diarrhea [see Adverse Reactions (6.1)].
+Use of ZEPBOUND has been associated with acute kidney injury, which can result from dehydration due to gastrointestinal adverse reactions to ZEPBOUND, including nausea, vomiting, and diarrhea [see Adverse Reactions (6.1)].
 
 In patients treated with GLP-1 receptor agonists, there have been postmarketing reports of acute kidney injury and worsening of chronic renal failure, which may sometimes require hemodialysis.
 Some of these events have been reported in patients without known underlying renal disease.
@@ -33,7 +34,7 @@ Monitor renal function in patients reporting adverse reactions to ZEPBOUND that 
 
 Treatment with ZEPBOUND and GLP-1 receptor agonists is associated with an increased occurrence of acute gallbladder disease.
 
-In clinical trials of ZEPBOUND, cholelithiasis was reported in 1.1% of ZEPBOUND-treated patients and 1% of placebo-treated patients, cholecystitis was reported in 0.7% of ZEPBOUND-treated patients and 0.2% of placebo-treated patients, and cholecystectomy was reported in 0.2% of ZEPBOUND-treated patients and no placebo-treated patients.
+In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), cholelithiasis was reported in 1.1% of ZEPBOUND-treated patients and 1% of placebo-treated patients, cholecystitis was reported in 0.7% of ZEPBOUND-treated patients and 0.2% of placebo-treated patients, and cholecystectomy was reported in 0.2% of ZEPBOUND-treated patients and no placebo-treated patients.
 Acute gallbladder events were associated with weight reduction.
 If cholecystitis is suspected, gallbladder diagnostic studies and appropriate clinical follow-up are indicated.
 
@@ -42,7 +43,7 @@ If cholecystitis is suspected, gallbladder diagnostic studies and appropriate cl
 Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists or tirzepatide.
 
 In clinical trials of tirzepatide for a different indication, 14 events of acute pancreatitis were confirmed by adjudication in 13 tirzepatide-treated patients (0.23 patients per 100 years of exposure) versus 3 events in 3 comparator-treated patients (0.11 patients per 100 years of exposure).
-In ZEPBOUND clinical trials, 0.2% of ZEPBOUND-treated patients had acute pancreatitis confirmed by adjudication (0.14 patients per 100 years of exposure) versus 0.2% of placebo-treated patients (0.15 patients per 100 years of exposure).
+In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), 0.2% of ZEPBOUND-treated patients had acute pancreatitis confirmed by adjudication (0.14 patients per 100 years of exposure) versus 0.2% of placebo-treated patients (0.15 patients per 100 years of exposure).
 ZEPBOUND has not been studied in patients with a prior history of pancreatitis.
 It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on ZEPBOUND.
 
@@ -53,7 +54,7 @@ If the diagnosis of pancreatitis is confirmed, ZEPBOUND should not be restarted.
 ## 5.6 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) in patients treated with tirzepatide.
-In ZEPBOUND clinical trials, 0.1% of ZEPBOUND-treated patients had severe hypersensitivity reactions compared to no placebo-treated patients.
+In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), 0.1% of ZEPBOUND-treated patients had severe hypersensitivity reactions compared to no placebo-treated patients.
 If hypersensitivity reactions occur, advise patients to promptly seek medical attention and discontinue use of ZEPBOUND.
 Do not use in patients with a previous serious hypersensitivity reaction to tirzepatide or any of the excipients in ZEPBOUND [see Contraindications (4) and Adverse Reactions (6.2)].
 
@@ -64,7 +65,7 @@ Use caution in patients with a history of angioedema or anaphylaxis with a GLP-1
 
 ZEPBOUND lowers blood glucose and can cause hypoglycemia.
 
-In a trial of patients with type 2 diabetes mellitus and BMI ≥27 kg/m2, hypoglycemia (plasma glucose <54 mg/dL) was reported in 4.2% of ZEPBOUND-treated patients versus 1.3% of placebo-treated patients.
+In a trial of patients with type 2 diabetes mellitus and BMI ≥27 kg/m2 (Study 2), hypoglycemia (plasma glucose <54 mg/dL) was reported in 4.2% of ZEPBOUND-treated patients versus 1.3% of placebo-treated patients.
 In this trial, patients taking ZEPBOUND in combination with an insulin secretagogue (e.g., sulfonylurea) had increased risk of hypoglycemia (10.3%) compared to ZEPBOUND-treated patients not taking a sulfonylurea (2.1%).
 There is also increased risk of hypoglycemia in patients treated with tirzepatide in combination with insulin [see Drug Interactions (7.1)].
 
@@ -72,7 +73,7 @@ Hypoglycemia has also been associated with ZEPBOUND and GLP-1 receptor agonists 
 
 Inform patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 In patients with diabetes mellitus, monitor blood glucose prior to starting ZEPBOUND and during ZEPBOUND treatment.
-The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogue) or insulin.
+The risk of hypoglycemia may be lowered by a reduction in the dose of insulin or sulfonylurea (or other concomitantly administered insulin secretagogue).
 
 ## 5.8 Diabetic Retinopathy Complications in Patients with Type 2 Diabetes Mellitus
 
@@ -82,7 +83,15 @@ Patients with a history of diabetic retinopathy should be monitored for progress
 
 ## 5.9 Suicidal Behavior and Ideation
 
-Suicidal behavior and ideation have been reported in clinical trials with other chronic weight management products.
+Suicidal behavior and ideation have been reported in clinical trials with other weight management products.
 Monitor patients treated with ZEPBOUND for the emergence or worsening of depression, suicidal thoughts or behaviors, and/or any unusual changes in mood or behavior.
 Discontinue ZEPBOUND in patients who experience suicidal thoughts or behaviors.
 Avoid ZEPBOUND in patients with a history of suicidal attempts or active suicidal ideation.
+
+## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+ZEPBOUND delays gastric emptying [see Clinical Pharmacology (12.2)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking ZEPBOUND, including whether modifying preoperative fasting recommendations or temporarily discontinuing ZEPBOUND could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking ZEPBOUND.

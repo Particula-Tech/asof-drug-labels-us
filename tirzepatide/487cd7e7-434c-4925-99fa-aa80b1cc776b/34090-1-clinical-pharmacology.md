@@ -9,10 +9,15 @@ Tirzepatide selectively binds to and activates both the GIP and GLP-1 receptors,
 GLP-1 is a physiological regulator of appetite and caloric intake.
 Nonclinical studies suggest the addition of GIP may further contribute to the regulation of food intake.
 
+Both GIP receptors and GLP-1 receptors are found in areas of the brain involved in appetite regulation.
+Animal studies show that tirzepatide distributes to and activates neurons in brain regions involved in regulation of appetite and food intake.
+
 ## 12.2 Pharmacodynamics
 
 Tirzepatide lowers body weight with greater fat mass loss than lean mass loss.
-Tirzepatide decreases calorie intake, and the effects are likely mediated by affecting appetite.
+
+Tirzepatide decreases calorie intake.
+The effects are likely mediated by affecting appetite.
 
 Tirzepatide stimulates insulin secretion in a glucose-dependent manner and reduces glucagon secretion.
 Tirzepatide increases insulin sensitivity, as demonstrated in a hyperinsulinemic euglycemic clamp study in patients with type 2 diabetes mellitus after 28 weeks of treatment.
@@ -88,7 +93,7 @@ A delay in tmax of 2.5 to 4.5 hours was observed.
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the trials described below with the incidence of anti-drug antibodies in other trials.
 
-During the 72-week treatment period with anti-drug antibodies (ADA) sampling in the chronic weight management studies [see Clinical Studies (14)], 64.5% (1591/2467) of ZEPBOUND-treated patients developed anti-tirzepatide antibodies.
+During the 72-week treatment period with anti-drug antibodies (ADA) sampling in Studies 1 and 2 [see Clinical Studies (14)], 64.5% (1591/2467) of ZEPBOUND-treated patients developed anti-tirzepatide antibodies.
 In these trials, anti-tirzepatide antibody formation in 40% and 16.5% of ZEPBOUND-treated patients showed cross-reactivity to native GIP or native GLP-1, respectively.
 
 Of the ZEPBOUND-treated patients, 2.8% and 2.7% developed neutralizing antibodies against tirzepatide activity on the GIP or GLP-1 receptors, respectively, and 0.8% and 0.1% developed neutralizing antibodies against native GIP or GLP-1, respectively.

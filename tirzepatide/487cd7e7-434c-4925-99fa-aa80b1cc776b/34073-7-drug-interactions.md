@@ -1,9 +1,9 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
+## 7.1 Concomitant Use with Insulin or an Insulin Secretagogue (e.g., Sulfonylurea)
 
 ZEPBOUND lowers blood glucose.
-When initiating ZEPBOUND, consider reducing the dose of concomitantly administered insulin secretagogues (e.g., sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7)].
+When initiating ZEPBOUND, consider reducing the dose of concomitantly administered insulin or insulin secretagogues (e.g., sulfonylureas) to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7)].
 
 ## 7.2 Oral Medications
 
