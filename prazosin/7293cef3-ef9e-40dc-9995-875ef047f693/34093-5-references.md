@@ -10,9 +10,9 @@ Med J, Oct.
 
 Distributed By:
 
-Teva Pharmaceuticals USA, Inc.
+TEVA PHARMACEUTICALS USA, INC.
 
 North Wales, PA 19454
 
 Rev.
-H 8/2019
+G 8/2015
