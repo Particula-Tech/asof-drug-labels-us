@@ -77,7 +77,7 @@ Patients should be advised not to try to inhale (e.g., “sniff”) when blowing
 
 Patients should be advised not to block the other nostril because the exhaled breath must pass around the back of the nasal septum and out the other side of the nose.
 
-Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd Yardley, PA 19067
+Distributed by: OptiNose US, Inc. Yardley, PA 19067
 
 XHANCE and OPTINOSE are registered trademarks of OptiNose, Inc.
 
