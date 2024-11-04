@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022114"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Powder Pharmaceutical Incorporated",
+  "package_ndcs": [
+    "61388-123-12",
+    "61388-123-26",
+    "61388-123-48"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "lidocaine hydrochloride monohydrate",
+      "name": "Zingo"
+    }
+  ],
+  "setid": "25368079-b2ac-4d31-e063-6394a90aa324",
+  "source": "dailymed"
+}
