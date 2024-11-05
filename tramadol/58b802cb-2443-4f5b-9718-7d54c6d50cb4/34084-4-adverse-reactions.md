@@ -29,7 +29,7 @@ The overall incidence rates of adverse experiences in these trials were similar 
 
 Table 1: Cumulative Incidence of Adverse Reactions for Tramadol Hydrochloride in Chronic Trials of Nonmalignant Pain (N=427)
 
-|  | Up to 7 Days | Up to 30 Days | Up to 90 Days |
+|  | Up to7 Days | Up to 30 Days | Up to 90 Days |
 | --- | --- | --- | --- |
 | Dizziness/Vertigo | 26% | 31% | 33% |
 | Nausea | 24% | 34% | 40% |
@@ -44,7 +44,7 @@ Table 1: Cumulative Incidence of Adverse Reactions for Tramadol Hydrochloride in
 | Dyspepsia | 5% | 9% | 13% |
 | Dry Mouth | 5% | 9% | 10% |
 | Diarrhea | 5% | 6% | 10% |
-| 1 “CNS Stimulation” is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional lability and hallucinations |  |  |  |
+| 1“CNS Stimulation” is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional lability and hallucinations |  |  |  |
 
 Incidence 1% to Less than 5% Possibly Causally Related
 
