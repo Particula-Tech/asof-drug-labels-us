@@ -25,11 +25,11 @@ Neuraxial analgesia also did not affect fetal heart rate, beat-to-beat variabili
 
 Animal Data
 
-Reproductive studies with lidocaine have been performed in rats at doses up to 30 mg/kg (2.7 times the maximum recommended daily dose [MRDD] of 108 mg from ZTLIDO on a mg/m2 basis) subcutaneously and have revealed no evidence of harm to the fetus due to lidocaine.
+Reproductive studies with lidocaine have been performed in rats at doses up to 30 mg/kg (2.7 times the maximum recommended daily dose [MRDD] of 108 mg from ZTLIDO on a mg/m 2basis) subcutaneously and have revealed no evidence of harm to the fetus due to lidocaine.
 
-In a published study, lidocaine administered to pregnant rats by continuous subcutaneous infusion during the period of organogenesis at 100, 250, and 500 mg/kg/day, did not produce any structural abnormalities, but did result in lower fetal weights at 500 mg/kg/day dose (approximately 45 times the MRDD on a mg/m2 basis) in the absence of maternal toxicity.
+In a published study, lidocaine administered to pregnant rats by continuous subcutaneous infusion during the period of organogenesis at 100, 250, and 500 mg/kg/day, did not produce any structural abnormalities, but did result in lower fetal weights at 500 mg/kg/day dose (approximately 45 times the MRDD on a mg/m 2basis) in the absence of maternal toxicity.
 
-In a published study, lidocaine containing 1:100,000 epinephrine at a dose of 6 mg/kg (approximately 0.5 times the MRDD on a mg/m2 basis) injected into the masseter muscle of the jaw or into the gum of the lower jaw of pregnant Long-Evans hooded rats on Gestation Day 11 resulted in developmental delays in the neonates.
+In a published study, lidocaine containing 1:100,000 epinephrine at a dose of 6 mg/kg (approximately 0.5 times the MRDD on a mg/m 2basis) injected into the masseter muscle of the jaw or into the gum of the lower jaw of pregnant Long-Evans hooded rats on Gestation Day 11 resulted in developmental delays in the neonates.
 Developmental delays were observed for negative geotaxis, static righting reflex, visual discrimination response, sensitivity and response to thermal and electrical shock stimuli, and water maze acquisition.
 The developmental delays of the neonatal animals were transient, with responses becoming comparable to untreated animals later in life.
 The clinical relevance of these animal data is uncertain.

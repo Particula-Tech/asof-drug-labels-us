@@ -12,18 +12,18 @@ The penetration of lidocaine into intact skin after application of ZTLIDO is suf
 ## 12.3 Pharmacokinetics
 
 ZTLIDO has different bioavailability compared to Lidoderm.
-In a single-dose, crossover study conducted in 53 healthy volunteers, ZTLIDO (lidocaine topical system) 1.8% demonstrated equivalent exposure (AUC) and peak concentration (Cmax) of lidocaine to Lidoderm (lidocaine patch 5%).
+In a single-dose, crossover study conducted in 53 healthy volunteers, ZTLIDO (lidocaine topical system) 1.8% demonstrated equivalent exposure (AUC) and peak concentration (C max) of lidocaine to Lidoderm (lidocaine patch 5%).
 
 Absorption
 
 The amount of lidocaine systemically absorbed from ZTLIDO is directly related to both the duration of application and the surface area over which it is applied.
-In a pharmacokinetic study, three ZTLIDO topical systems were applied over an area of 420 cm2 of intact skin on the backs of normal healthy volunteers for 12 hours.
+In a pharmacokinetic study, three ZTLIDO topical systems were applied over an area of 420 cm 2of intact skin on the backs of normal healthy volunteers for 12 hours.
 Blood samples were drawn for determination of lidocaine concentration during the topical system application and for 12 hours after removal of topical systems.
 The results are summarized in Table 1.
 
 Table 1 Mean ± SD Absorption of lidocaine from ZTLIDO Healthy Volunteers (n = 54, 12-hour application time)
 
-| Topical System | Application Site | Area (cm2) | Cmax (ng/mL) | Tmax (hr)median (min, max) |
+| Topical System | Application Site | Area (cm 2) | C max(ng/mL) | T max(hr) median (min, max) |
 | --- | --- | --- | --- | --- |
 | 3 Topical systems of ZTLIDO (108 mg) | Back | 420 | 75.1 ± 28.0 | 13.9 (4.0, 18.0) |
 

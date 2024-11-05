@@ -1,4 +1,4 @@
-Instructions for Use ZTLIDO® (ZEE-TEE-LIE-DOH) (lidocaine topical system)
+Instructions for Use ZTLIDO ®(ZEE-TEE-LIE-DOH) (lidocaine topical system)
 
 Read this Instructions for Use before you start using ZTLIDO and each time you get a refill.
 There may be new information.
@@ -22,7 +22,7 @@ Important information:
   In either of these cases, you may put on a replacement (a new) ZTLIDO topical system.
   Take off the replacement ZTLIDO at your usual removal time.
   The total time that you may wear the used and replacement ZTLIDO is 12 hours.
-  - If ZTLIDO lifts off the skin or detaches more than 1 time, do not try to re-attach it.
+  - If ZTLIDO lifts off the skin or detaches more than 1 time, do nottry to re-attach it.
     Throw it away (See Step 6).
   - If the ZTLIDO you are wearing comes off completely, and will not stick to your skin, throw it away (see Step 6).
 
@@ -33,34 +33,34 @@ Figure A: ZTLIDO Topical System
 
 Applying your ZTLIDO topical system:
 
-| Step 1: Select the application site. ZTLIDO should only be applied to clean, dry, and intact skin to cover the most painful area. |  |
+| Step 1:Select the application site. ZTLIDO should only be applied to clean, dry, and intact skin to cover the most painful area. |  |
 | --- | --- |
-| Step 2: Using scissors, carefully cut the envelope along the dotted line and open it to remove ZTLIDO. Do not use ZTLIDO if it is damaged. Throw it away and get a new one.ZTLIDO may be cut into smaller sizes with scissors prior to removal of the transparent release liner. |  |
-| Step 3a: Remove the transparent release liner before applying ZTLIDO to the skin. Apply ZTLIDO right away after removing the transparent release liner. Apply ZTLIDO only to intact skin. |  |
-| Step 3b: Place the adhesive side of ZTLIDO to skin, while not touching the sticky side. Smooth the ZTLIDO using your hands and firmly press to make sure it sticks well to skin. |  |
-| Step 4: Wash your hands well right away after applying ZTLIDO. Avoid contact of your hands or fingers with your eyes until after you wash your hands. |  |
+| Step 2:Using scissors, carefully cut the envelope along the dotted line and open it to remove ZTLIDO. Do not use ZTLIDO if it is damaged. Throw it away and get a new one.ZTLIDO may be cut into smaller sizes with scissors prior to removal of the transparent release liner. |  |
+| Step 3a:Remove the transparent release liner before applying ZTLIDO to the skin. Apply ZTLIDO right away after removing the transparent release liner. Apply ZTLIDO only to intact skin. |  |
+| Step 3b:Place the adhesive side of ZTLIDO to skin, while not touching the sticky side. Smooth the ZTLIDO using your hands and firmly press to make sure it sticks well to skin. |  |
+| Step 4:Wash your hands well right away after applying ZTLIDO. Avoid contact of your hands or fingers with your eyes until after you wash your hands. |  |
 
 Removing your ZTLIDO topical system:
 
-| Step 5: Remove ZTLIDO from your skin after you have worn it for up to 12 hours. Fold the used ZTLIDO so that the sticky sides stick together. |  |
+| Step 5:Remove ZTLIDO from your skin after you have worn it for up to 12 hours. Fold the used ZTLIDO so that the sticky sides stick together. |  |
 | --- | --- |
-| Step 6: Throw away the used whole or cut pieces of ZTLIDO where children and pets cannot get to them. Wash your hands well right away after removing ZTLIDO. Avoid contact of your hands and fingers with your eyes until after you wash your hands. |  |
+| Step 6:Throw away the used whole or cut pieces of ZTLIDO where children and pets cannot get to them. Wash your hands well right away after removing ZTLIDO. Avoid contact of your hands and fingers with your eyes until after you wash your hands. |  |
 
 How to reattach ZTLIDO or apply a replacement ZTLIDO:
 
 - If the ZTLIDO you are wearing comes off completely or lifts at the edges, reattach to the affected area by pressing firmly on the edges of the topical system or lifted areas.
-  If ZTLIDO lifts off the skin or comes off completely more than 1 time, do not try to re-attach it.
+  If ZTLIDO lifts off the skin or comes off completely more than 1 time, do nottry to re-attach it.
   Throw away the used ZTLIDO as instructed above in Step 6.
 - If the ZTLIDO you are wearing comes off completely and will not stick to your skin, throw away the used ZTLIDO as instructed above in Step 6.
 - Pat dry the area of skin if ZTLIDO came off while swimming or showering.
 - Apply a replacement ZTLIDO the same way you would apply a new ZTLIDO as described above in Steps 1 through 6.
 - Remove the replacement ZTLIDO at your usual removal time as described above in Steps 5 and 6.
-- The total time you may wear the used and replacement ZTLIDO is 12 hours.
+- The total timeyou may wear the used and replacement ZTLIDO is 12 hours.
 
 Manufactured for: Scilex Pharmaceuticals Inc. Palo Alto, CA 94303 USA
 
-ZTLIDO® is a trademark owned by Scilex Pharmaceuticals Inc. © 2021 Scilex Pharmaceuticals Inc. All rights reserved.
+ZTLIDO ®is a trademark owned by Scilex Pharmaceuticals Inc. © 2021 Scilex Pharmaceuticals Inc. All rights reserved.
 
-SCILEX® PHARMACEUTICALS
+SCILEX ® PHARMACEUTICALS
 
 Revised: 4/2021
