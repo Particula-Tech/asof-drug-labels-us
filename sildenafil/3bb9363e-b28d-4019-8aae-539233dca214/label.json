@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA021845",
+    "NDA022473",
+    "NDA203109"
+  ],
+  "inn": "sildenafil",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-385-35",
+    "58151-395-31",
+    "58151-402-77"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sildenafil citrate",
+      "name": "Revatio"
+    },
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "sildenafil citrate",
+      "name": "Revatio"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sildenafil citrate",
+      "name": "Revatio"
+    }
+  ],
+  "setid": "3bb9363e-b28d-4019-8aae-539233dca214",
+  "source": "dailymed"
+}
