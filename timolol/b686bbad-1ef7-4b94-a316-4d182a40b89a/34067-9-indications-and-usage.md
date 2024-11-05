@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Timolol Maleate Ophthalmic Solution 0.5% is a non-selective beta-adrenergic receptor blocking agent indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+Timolol Maleate Ophthalmic Solution is indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.

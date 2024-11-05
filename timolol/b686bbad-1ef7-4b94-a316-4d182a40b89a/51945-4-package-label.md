@@ -4,12 +4,12 @@ NDC82260-045-05 Timolol Maleate Ophthalmic Solution 0.5% Sterile
 
 FOR TOPICAL OPHTHALMIC USE
 
+(EYE IMAGE)
+
 Once Daily
 
-Rx only
-
-5 mL
+Rx only5 mL
 
 BAUSCH + LOMB
 
-9777001 MA44207A
+9777002 MA44207A

@@ -2,12 +2,12 @@
 
 ## 7.1 Beta-Adrenergic Blocking Agents
 
-Patients who are receiving a beta-adrenergic blocking agent orally and Timolol Maleate Ophthalmic Solution 0.5% should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
+Patients who are receiving a beta-adrenergic blocking agent orally and Timolol Maleate Ophthalmic Solution should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 The concomitant use of two topical beta-adrenergic blocking agents is not recommended.
 
 ## 7.2 Calcium Antagonists
 
-Caution should be used in the co-administration of beta-adrenergic blocking agents, such as Timolol Maleate Ophthalmic Solution 0.5%, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
+Caution should be used in the co-administration of beta-adrenergic blocking agents, such as Timolol Maleate Ophthalmic Solution, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
 In patients with impaired cardiac function, co-administration should be avoided.
 
 ## 7.3 Catecholamine-Depleting Drugs
