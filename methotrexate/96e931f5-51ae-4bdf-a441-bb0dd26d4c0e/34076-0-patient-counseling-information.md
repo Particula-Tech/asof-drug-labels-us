@@ -46,7 +46,7 @@ For patients who are prescribed a once weekly dosing regimen, advise patients an
 
 Importance of Proper Dosage and Administration
 
-Before use, instruct patients and caregivers on how to measure, dose, and administer the recommended dosage, utilizing the copackaged syringe and that a teaspoon is not an appropriate measuring device.
+Before use, instruct patients and caregivers on how to measure and administer the recommended dosage, utilizing the copackaged syringe and bottle adaptor and that a teaspoon is not an appropriate measuring device.
 Advise patients and caregivers to only use the copackaged syringe and that a household spoon is not an accurate measuring device [see Dosage and Administration (2)].
 
 Neurotoxicity
@@ -56,6 +56,10 @@ Advise patients and their caregivers to report new neurological signs or symptom
 Secondary Malignancies
 
 Advise patients on the risk of second primary malignancies during treatment with JYLAMVO [see Warnings and Precautions (5.13)].
+
+Ineffective Immunization and Risks Associated with Live Vaccines
+
+Advise patients to avoid receiving vaccines during treatment with JYLAMVO because they may not be effective and live virus vaccines may cause infections [see Warnings and Precautions(5.15)].
 
 Lactation
 

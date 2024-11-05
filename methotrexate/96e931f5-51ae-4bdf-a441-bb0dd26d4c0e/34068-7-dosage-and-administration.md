@@ -4,7 +4,7 @@
 
 Verify pregnancy status in females of reproductive potential before starting JYLAMVO [see Contraindications (4), Warnings and Precautions (5.1)].
 
-Instruct patients and caregivers on how to measure, dose, and administer the recommended dosage as directed, because medication errors have led to deaths [see Warnings and Precautions (5.9)].
+Instruct patients and caregivers on how to measure and administer the recommended dosage using the copackaged syringe and bottle adaptor as directed, because medication errors have led to deaths [see Warnings and Precautions (5.9)].
 
 Ensure patients and caregivers understand the instructions provided in the Patient Information on proper dosing of Jylamvo based on volume (mL) utilizing the copackaged syringe before use.
 
@@ -15,7 +15,7 @@ JYLAMVO contains 2 mg of methotrexate in each mL of solution.
 JYLAMVO is intended for oral use only.
 When switching the patient’s dosing regimen from a methotrexate product for oral administration to a methotrexate product for intravenous, intramuscular, or subcutaneous administration, an alternative dosing regimen may be necessary due to potential differences in bioavailability.
 
-JYLAMVO is a cytotoxic drug.
+JYLAMVO is a hazardous drug.
 Follow applicable special handling and disposal procedures1.
 
 ## 2.2 Recommended Dosage for Neoplastic Diseases
@@ -27,7 +27,7 @@ After initiating JYLAMVO, periodically monitor absolute neutrophil count (ANC) a
 
 Mycosis Fungoides
 
-The recommended dosage of JYLAMVO is 25 to 75 mg orally once weekly when administered as a single agent or 10 mg/m2 orally twice weekly as part of a combination chemotherapy regimen.
+The recommended dosage of JYLAMVO is 25 mg to 75 mg orally once weekly when administered as a single agent or 10 mg/m2 orally twice weekly as part of a combination chemotherapy regimen.
 
 Relapsed or Refractory Non-Hodgkin Lymphomas
 
@@ -41,15 +41,23 @@ When responses are observed, the majority occur between 3 and 6 weeks from initi
 
 Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.10)].
 
-## 2.4 Recommended Dosage for Psoriasis
+## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
-The recommended dosage of JYLAMVO is 10 to 25 mg orally once weekly until an adequate response is achieved.
+The recommended starting dose of Jylamvo is 10 mg/m2 orally once weekly with escalation to achieve optimal response.
+Dosages of more than 30 mg/m2once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
+When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
+
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.10)].
+
+## 2.5 Recommended Dosage for Psoriasis
+
+The recommended dosage of JYLAMVO is 10 mg to 25 mg orally once weekly until an adequate response is achieved.
 Adjust the dose gradually to achieve optimal clinical response; do not exceed a dose of 30 mg per week.
 Once optimal clinical response has been achieved, reduce the dosage to the lowest possible dosing regimen.
 
 Administer folic acid or folinic acid supplementation to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.10)].
 
-## 2.5 Dosage Modifications for Adverse Reactions
+## 2.6 Dosage Modifications for Adverse Reactions
 
 Discontinue JYLAMVO for:
 

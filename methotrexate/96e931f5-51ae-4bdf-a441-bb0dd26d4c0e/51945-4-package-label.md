@@ -1,10 +1,10 @@
 # PRINCIPAL DISPLAY PANEL
 
-CAUTION: Cytotoxic agent
+WARNING: Hazardous drug
 
 NDC 81927-204-01
 
-JYLAMVO
+Jylamvo
 
 (methotrexate)
 
@@ -20,11 +20,11 @@ Attention Pharmacist: Dispense the accompanying Patient Information to each pati
 
 Rx Only
 
-CAUTION: Cytotoxic agent
+WARNING: hazardous drug
 
 NDC 81927-204-01
 
-JYLAMVO
+Jylamvo
 
 (methotrexate)
 

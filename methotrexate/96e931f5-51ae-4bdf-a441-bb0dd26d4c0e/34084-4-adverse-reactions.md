@@ -25,7 +25,7 @@ Other clinically relevant adverse reactions were infection, malaise, fatigue, ch
 Rheumatoid Arthritis
 
 The most common adverse reactions of methotrexate that exceeded the rate of placebo in 12- to 18-week double-blind studies in patients (n=128) with rheumatoid arthritis are listed below.
-Patients received methotrexate 7.5 to 15 mg orally once weekly.
+Patients received methotrexate 7.5 mg to 15 mg orally once weekly.
 Most patients received concomitant nonsteroidal anti-inflammatory drugs (NSAIDs) and some also received corticosteroids.
 Hepatic histology was not examined in these short-term studies.
 
@@ -40,6 +40,11 @@ Two other controlled trials of patients (n=680) with rheumatoid arthritis who re
 Incidence 1%: Interstitial pneumonitis
 
 Other less common adverse reactions were: anemia, headache, upper respiratory infection, anorexia, arthralgias, chest pain, coughing, dysuria, eye discomfort, epistaxis, fever, infection, sweating, tinnitus, vaginal discharge.
+
+Polyarticular Juvenile Idiopathic Arthritis (pJIA)
+
+The most common adverse reactions reported in patients 2 to 18 years of age with pJIA treated with methotrexate 5 mg/m2 to 20 mg/m2 orally once weekly or 0.1 mg/kg to 0.65 mg/kg orally once weekly were as follows: elevated liver tests 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea) 11%; stomatitis 2%; leukopenia 2%; headache 1.2%; alopecia 0.5%; dizziness 0.2%; rash 0.2%.
+Most patients received concomitant NSAIDs and some also received corticosteroids.
 
 Psoriasis
 

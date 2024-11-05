@@ -1,4 +1,4 @@
-# WARNING: EMBRYO-FETAL TOXICITY, HYPERSENSITIVITY REACTIONS AND SEVERE ADVERSE REACTIONS
+# WARNING: EMBRYO-FETAL TOXICITY, HYPERSENSITIVITY REACTIONS and SEVERE ADVERSE REACTIONS
 
 - Methotrexate can cause embryo-fetal toxicity, including fetal death.
   For non-neoplastic diseases, Jylamvo is contraindicated in pregnancy.

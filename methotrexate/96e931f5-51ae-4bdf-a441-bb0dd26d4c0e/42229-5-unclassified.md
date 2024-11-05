@@ -1,15 +1,9 @@
-Manufactured by:
+Manufactured By:
 
-SGS Quay Pharmaceuticals Ltd.,
+SGS Quay Pharmaceuticals Ltd., Deeside, UK
 
-Deeside, UK
+Distributed By:
 
-Distributed by:
+Shorla Oncology Inc., Cambridge, MA 02142, USA.
 
-Shorla Oncology Inc.,
-
-Cambridge, MA 02142, USA
-
-Version: JYPI002
-
-Revision: Oct 2023
+Version: JYLPI008
