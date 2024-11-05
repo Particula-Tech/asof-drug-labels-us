@@ -18,9 +18,7 @@ The equivalent theoretical molecular formula is BiC12H14K5O17.
 The molecular mass of the theoretical molecular formula of a single unit of bismuth subcitrate potassium is 834.71.
 
 Metronidazole is a white to pale yellow crystalline powder.
-Metronidazole is 2-methyl-5-nitroimidazole-1-ethanol, with a molecular
-
-formula of C6H9N3O3 and the following structural formula:
+Metronidazole is 2-methyl-5-nitroimidazole-1-ethanol, with a molecular formula of C6H9N3O3 and the following structural formula:
 
 Tetracycline hydrochloride is a yellow, odorless, crystalline powder.
 Tetracycline hydrochloride is stable in air, but exposure to strong sunlight causes it to darken.
