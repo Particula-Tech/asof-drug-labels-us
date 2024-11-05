@@ -35,8 +35,8 @@ Concentrations in the cerebrospinal fluid are much lower than in plasma.
 #### Metabolism
 
 Itraconazole is extensively metabolized by the liver into a large number of metabolites.
-In vitrostudies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
-The main metabolite is hydroxy-itraconazole, which has in vitroantifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
+In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
+The main metabolite is hydroxy-itraconazole, which has in vitro antifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
 
 #### Excretion
 
@@ -68,14 +68,14 @@ A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who
 A statistically significant reduction in mean C max(47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
-(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactionsand DOSAGE AND ADMINISTRATION.)
+(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
 #### Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of SPORANOX ®Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX ®Oral Solution administration.
-(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactionsand ADVERSE REACTIONS: Post-marketing Experiencefor more information.)
+(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactionsand ADVERSE REACTIONS: Postmarketing Experiencefor more information.)
 
 #### Cystic Fibrosis
 
@@ -94,11 +94,11 @@ This low oral bioavailability of hydroxypropyl-β-cyclodextrin is not modified b
 
 ### Mechanism of Action
 
-In vitrostudies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
+In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
 ### Antimicrobial Activity
 
-Itraconazole has been shown to be active against most strains of the following microorganism, both in vitroand in clinical infections.
+Itraconazole has been shown to be active against most strains of the following microorganism, both in vitro and in clinical infections.
 
 Candida albicans
 
@@ -108,20 +108,20 @@ For specific information regarding susceptibility test interpretive criteria and
 
 ### Drug Resistance
 
-Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitroand from patients receiving prolonged therapy.
+Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 
-Candida krusei, Candida glabrataand Candida tropicalisare generally the least susceptible Candidaspecies, with some isolates showing unequivocal resistance to itraconazole in vitro.
+Candida krusei, Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
 
-Itraconazole is not active against Zygomycetes(e.g., Rhizopusspp., Rhizomucorspp., Mucorspp. and Absidiaspp.), Fusariumspp., Scedosporiumspp. and Scopulariopsisspp.
+Itraconazole is not active against Zygomycetes (e.g., Rhizopusspp., Rhizomucorspp., Mucorspp. and Absidiaspp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
 ### Cross-Resistance
 
-In systemic candidosis, if fluconazole-resistant strains of Candidaspecies are suspected, it cannot be assumed that these are sensitive to itraconazole, hence their sensitivity should be tested before the start of itraconazole therapy.
+In systemic candidosis, if fluconazole-resistant strains of Candida species are suspected, it cannot be assumed that these are sensitive to itraconazole, hence their sensitivity should be tested before the start of itraconazole therapy.
 
-Several in vitrostudies have reported that some fungal clinical isolates, including Candidaspecies, with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
+Several in vitro studies have reported that some fungal clinical isolates, including Candida species, with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.
 
-Studies (both in vitroand in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
+Studies (both in vitro and in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
 As with other azoles, itraconazole inhibits the 14C-demethylation step in the synthesis of ergosterol, a cell wall component of fungi.
-Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatusinfections in mice was inhibited by ketoconazole therapy.
+Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
 The clinical significance of test results obtained in this study is unknown.

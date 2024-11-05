@@ -6,7 +6,7 @@
 
 - If signs or symptoms of congestive heart failure occur during administration of SPORANOX ®(itraconazole) Oral Solution, continued SPORANOX ®use should be reassessed.
 - When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen.
-  (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populationsfor more information.)
+  (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.)
 
 ### Drug Interactions
 
@@ -18,4 +18,4 @@
   See PRECAUTIONS: Drug InteractionsSection for specific examples.
 - Coadministration with itraconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.
   For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia.
-  See CONTRAINDICATIONSand WARNINGSSections, and PRECAUTIONS: Drug InteractionsSection for specific examples.
+  See CONTRAINDICATIONS and WARNINGS Sections, and PRECAUTIONS: Drug Interactions Section for specific examples.

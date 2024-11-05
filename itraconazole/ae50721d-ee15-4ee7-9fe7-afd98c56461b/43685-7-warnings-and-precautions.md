@@ -27,15 +27,21 @@ When itraconazole was administered intravenously to anesthetized dogs, a dose-re
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 
 SPORANOX ®has been associated with reports of congestive heart failure.
-In post-marketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
+In postmarketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
 
 Calcium channel blockers can have negative inotropic effects which may be additive to those of itraconazole.
 In addition, itraconazole can inhibit the metabolism of calcium channel blockers.
 Therefore, caution should be used when co-administering itraconazole and calcium channel blockers due to an increased risk of CHF.
 Concomitant administration of SPORANOX ®and felodipine or nisoldipine is contraindicated.
 
-Cases of CHF, peripheral edema, and pulmonary edema have been reported in the post-marketing period among patients being treated for onychomycosis and/or systemic fungal infections.
-(See CONTRAINDICATIONS, CLINICAL PHARMACOLOGY: Special Populations, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Post-marketing Experiencefor more information.)
+Cases of CHF, peripheral edema, and pulmonary edema have been reported in the postmarketing period among patients being treated for onychomycosis and/or systemic fungal infections.
+(See CONTRAINDICATIONS, CLINICAL PHARMACOLOGY: Special Populations, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Postmarketing Experiencefor more information.)
+
+## Pseudoaldosteronism
+
+Pseudoaldosteronism, manifested by the onset of hypertension or worsening of hypertension, and abnormal laboratory findings (hypokalemia, low serum renin and aldosterone, and elevated 11-deoxycortisol), has been reported with itraconazole use in the postmarketing setting.
+Monitor blood pressure and potassium levels and manage as necessary.
+Management of pseudoaldosteronism may include discontinuation of SPORANOX ®, substitution with an appropriate antifungal drug that is not associated with pseudoaldosteronism, or use of aldosterone receptor antagonists.
 
 ## Interaction Potential
 
@@ -114,7 +120,7 @@ Increased concentrations may increase the risk of adverse reactions associated w
 Reduced concentrations of concomitant drugs may reduce their efficacy.
 The table below lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list.
 
-Refer to the approved product labeling to become familiar with the interaction pathways risk, potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with SPORANOX ®.
+Refer to the approved product labeling to become familiar with the interaction pathways, risk potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with SPORANOX ®.
 
 Although many of the clinical drug interactions in Table 1 below are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX ®.
 
@@ -272,7 +278,7 @@ These sarcomas may have been a consequence of hypercholesterolemia, which is a r
 Female rats treated with 50 mg/kg/day (1.2 times the MRHD based on body surface area comparisons) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
 Although the occurrence of squamous cell carcinoma in the lung is extremely uncommon in untreated rats, the increase in this study was not statistically significant.
 
-Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium(6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
+Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
 
 Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (1 time the MRHD based on body surface area comparisons), even though parental toxicity was present at this dosage level.
 More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (4 times the MRHD based on body surface area comparisons).
@@ -311,8 +317,8 @@ There are no studies in pregnant women.
 SPORANOX ®should be used in pregnancy only if the benefit outweighs the potential risk.
 Highly effective contraception should be continued throughout SPORANOX ®therapy and for 2 months following the end of treatment.
 
-During post-marketing experience, cases of congenital abnormalities have been reported.
-(See ADVERSE REACTIONS: Post-marketing Experience.)
+During postmarketing experience, cases of congenital abnormalities have been reported.
+(See ADVERSE REACTIONS: Postmarketing Experience.)
 
 ## Nursing Mothers
 
