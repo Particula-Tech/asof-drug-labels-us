@@ -12,13 +12,13 @@ Signs and symptoms of colchicine toxicity should be evaluated promptly and, if t
 
 ## 7.1 CYP3A4
 
-The concomitant use of GLOPERBA and CYP3A4 inhibitors (e.g., clarithromycin, ketoconazole, grapefruit juice, erythromycin, verapamil, etc.) should be avoided due to the potential for serious and life threatening toxicity [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+The concomitant use of GLOPERBA and CYP3A4 inhibitors (e.g., clarithromycin, ketoconazole, grapefruit juice, erythromycin, verapamil, etc.) should be avoided due to the potential for serious and life threatening toxicity [see Warnings and Precautions (5.3)and Clinical Pharmacology (12.3)].
 
 If co-administration of GLOPERBA and a CYP3A4 inhibitor is necessary, the dose of GLOPERBA should be adjusted by either reducing the daily dose or reducing the dose frequency, and the patient should be monitored carefully for colchicine toxicity [see Clinical Pharmacology (12.3)].
 
 ## 7.2 P-Glycoprotein
 
-The concomitant use of GLOPERBA and inhibitors of P-glycoprotein (e.g. clarithromycin, ketoconazole, cyclosporine, etc.) should be avoided due to the potential for serious and life threatening toxicity [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+The concomitant use of GLOPERBA and inhibitors of P-glycoprotein (e.g. clarithromycin, ketoconazole, cyclosporine, etc.) should be avoided due to the potential for serious and life threatening toxicity [see Warnings and Precautions (5.3)and Clinical Pharmacology (12.3)].
 
 If co-administration of GLOPERBA and a P-gp inhibitor is necessary, the dose of GLOPERBA should be adjusted by either reducing the daily dose or reducing the dose frequency, and the patient should be monitored carefully for colchicine toxicity [see Clinical Pharmacology (12.3)].
 

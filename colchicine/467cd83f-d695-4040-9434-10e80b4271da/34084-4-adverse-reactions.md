@@ -12,16 +12,16 @@ These toxicities most often occur with excessive accumulation or overdosage [see
 The following adverse reactions have been reported with colchicine.
 These adverse reactions have been generally reversible upon interrupting treatment or lowering the dose of colchicine.
 
-Neurological: sensory motor neuropathy
+Neurological:sensory motor neuropathy
 
-Dermatological: alopecia, maculopapular rash, purpura, rash
+Dermatological:alopecia, maculopapular rash, purpura, rash
 
-Digestive: abdominal cramping, abdominal pain, diarrhea, lactose intolerance, nausea, vomiting
+Digestive:abdominal cramping, abdominal pain, diarrhea, lactose intolerance, nausea, vomiting
 
-Hematological: leukopenia, granulocytopenia, thrombocytopenia, pancytopenia, aplastic anemia
+Hematological:leukopenia, granulocytopenia, thrombocytopenia, pancytopenia, aplastic anemia
 
-Hepatobiliary: elevated AST, elevated ALT
+Hepatobiliary:elevated AST, elevated ALT
 
-Musculoskeletal: myopathy, elevated CPK, myotonia, muscle weakness, muscle pain, rhabdomyolysis
+Musculoskeletal:myopathy, elevated CPK, myotonia, muscle weakness, muscle pain, rhabdomyolysis
 
-Reproductive: azoospermia, oligospermia
+Reproductive:azoospermia, oligospermia

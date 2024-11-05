@@ -2,7 +2,7 @@
 
 NDC 69557-222-01
 
-GLOPERBA® (colchicine) oral solution
+GLOPERBA ® (colchicine) oral solution
 
 0.6 mg/5 mL
 

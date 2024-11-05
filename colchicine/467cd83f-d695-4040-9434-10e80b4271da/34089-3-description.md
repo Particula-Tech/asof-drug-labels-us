@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Colchicine is an alkaloid obtained from various species of Colchicum.
-The chemical name for colchicine is (S)-N-(5,6,7,9-tetrahydro- 1,2,3,10-tetramethoxy-9-oxobenzo[a]heptalen-7-yl) acetamide with a molecular formula of C22H25NO6 and a molecular weight of 399.4.
+The chemical name for colchicine is (S)- N-(5,6,7,9-tetrahydro- 1,2,3,10-tetramethoxy-9-oxobenzo[a]heptalen-7-yl) acetamide with a molecular formula of C 22H 25NO 6and a molecular weight of 399.4.
 
 The structural formula of colchicine is provided in Figure 1.
 

@@ -14,9 +14,9 @@ The pharmacodynamics of colchicine are unknown.
 
 Absorption
 
-In healthy adults, GLOPERBA reached a mean Cmax of 2.16 ± 0.87 ng/mL in 1 hour (range 0.5 to 2 hours) after a single dose administered under fasting conditions.
+In healthy adults, GLOPERBA reached a mean C maxof 2.16 ± 0.87 ng/mL in 1 hour (range 0.5 to 2 hours) after a single dose administered under fasting conditions.
 A minimal food effect was observed when GLOPERBA was administered following a high fat, high calorie meal.
-A slight decrease in Cmax was observed; however, the overall extent of absorption based on AUC0-t and AUC0-inf, was similar in the fed and fasted states.
+A slight decrease in C maxwas observed; however, the overall extent of absorption based on AUC 0-tand AUC 0-inf, was similar in the fed and fasted states.
 The absolute bioavailability of colchicine is reported to be approximately 45%.
 Mean pharmacokinetic parameter values for GLOPERBA in healthy adults are shown in Table 1.
 
@@ -24,11 +24,11 @@ Table 1: Mean Pharmacokinetic Parameter Estimates for GLOPERBA in Healthy Adults
 
 | Parameter | GLOPERBA, 0.6 mg (0.12 mg/mL, 5 mL) Fasted (N=34) | GLOPERBA, 0.6 mg (0.12 mg/mL, 5 mL) Fed (N=34) |
 | --- | --- | --- |
-| Cmax (ng/mL) | 2.16 (0.87) | 1.68 (0.39) |
-| AUC0-t (h∙ng/mL) | 18.59 (4.64) | 17.20 (4.23) |
-| AUC0-inf (h∙ng/mL) | 19.90 (4.74) | 18.47 (4.29) |
-| Tmax (h) (Min-Max) | 1.00 (0.50: 2.00) | 2.00 (1.00: 4.00) |
-| t1/2 (h) | 31.04 (5.99) | 30.54 (5.22) |
+| C max(ng/mL) | 2.16 (0.87) | 1.68 (0.39) |
+| AUC 0-t(h∙ng/mL) | 18.59 (4.64) | 17.20 (4.23) |
+| AUC 0-inf(h∙ng/mL) | 19.90 (4.74) | 18.47 (4.29) |
+| T max(h) (Min-Max) | 1.00 (0.50: 2.00) | 2.00 (1.00: 4.00) |
+| t 1/2(h) | 31.04 (5.99) | 30.54 (5.22) |
 
 Distribution
 
@@ -39,7 +39,7 @@ Colchicine also distributes into breast milk at concentrations similar to those 
 
 Metabolism
 
-In vitro studies using human liver microsomes have shown that CYP3A4 is involved in the metabolism of colchicine to 2-O-demethylcolchicine (2-DMC) and 3-O-demethylcolchicine (3-DMC).
+In vitrostudies using human liver microsomes have shown that CYP3A4 is involved in the metabolism of colchicine to 2- O-demethylcolchicine (2-DMC) and 3- O-demethylcolchicine (3-DMC).
 Glucuronidation is also believed to be a metabolic pathway for colchicine.
 
 Elimination
@@ -53,19 +53,19 @@ Specific Populations
 
 There is no difference between men and women in the pharmacokinetic disposition of colchicine.
 
-Pediatric Patients: Pharmacokinetics of colchicine were not evaluated in pediatric patients.
+Pediatric Patients:Pharmacokinetics of colchicine were not evaluated in pediatric patients.
 
-Geriatric Patients: Pharmacokinetics of GLOPERBA have not been determined in elderly patients.
+Geriatric Patients:Pharmacokinetics of GLOPERBA have not been determined in elderly patients.
 A published report described the pharmacokinetics of a 1 mg oral colchicine tablet dose in four elderly women compared to six young healthy males.
 The mean age of the four elderly women was 83 years (range 75 to 93), mean weight was 47 kg (38 to 61 kg) and mean creatinine clearance was 46 mL/minute (range 25 to 75 mL/minute).
 Mean peak plasma levels and AUC of colchicine were two times higher in elderly subjects compared to young healthy males.
 It is possible that the higher exposure in the elderly subjects was due to decreased renal function.
 
-Patients with Renal Impairment: Pharmacokinetics of colchicine in patients with mild and moderate renal impairment is not known.
+Patients with Renal Impairment:Pharmacokinetics of colchicine in patients with mild and moderate renal impairment is not known.
 A published report described the disposition of colchicine (1 mg) in young adult men and women patients who had end stage renal disease requiring dialysis compared to patients with normal renal function.
 Patients with end stage renal disease had 75% lower colchicine clearance (0.17 vs. 0.73 L/hr/kg) and prolonged plasma elimination half-life (18.8 hours vs. 4.4 hours) as compared to subjects with normal renal function [see Use in Specific Populations (8.6)].
 
-Patients with Hepatic Impairment: Published reports on the pharmacokinetics of intravenous colchicine in patients with severe chronic liver disease, as well as those with alcoholic or primary biliary cirrhosis, and normal renal function suggest wide inter-patient variability.
+Patients with Hepatic Impairment:Published reports on the pharmacokinetics of intravenous colchicine in patients with severe chronic liver disease, as well as those with alcoholic or primary biliary cirrhosis, and normal renal function suggest wide inter-patient variability.
 In some subjects with mild to moderate cirrhosis, the clearance of colchicine is significantly reduced and plasma half-life prolonged compared to healthy subjects.
 In subjects with primary biliary cirrhosis, no consistent trends were noted [see Use in Specific Populations (8.7)].
 No pharmacokinetic data are available for patients with severe hepatic impairment (Child Pugh C).
