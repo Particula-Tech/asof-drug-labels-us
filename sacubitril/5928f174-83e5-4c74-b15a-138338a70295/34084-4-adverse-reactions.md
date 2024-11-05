@@ -1,0 +1,73 @@
+# 6 ADVERSE REACTIONS
+
+Clinically significant adverse reactions that appear in other sections of the labeling include:
+
+- Angioedema [see Warnings and Precautions (5.2)]
+- Hypotension [see Warnings and Precautions (5.3)]
+- Impaired Renal Function [see Warnings and Precautions (5.4)]
+- Hyperkalemia [see Warnings and Precautions (5.5)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+A total of 6,622 heart failure patients were treated with sacubitril and valsartan in the PARADIGM-HF (vs. enalapril) and PARAGON-HF (vs. valsartan) clinical trials.
+Of these, 5,085 were exposed for at least 1 year.
+
+Adult Heart Failure
+
+In PARADIGM-HF, patients were required to complete sequential enalapril and sacubitril and valsartan run-in periods of (median) 15 and 29 days, respectively, prior to entering the randomized double-blind period comparing sacubitril and valsartan and enalapril.
+During the enalapril run-in period, 1,102 patients (10.5%) were permanently discontinued from the study, 5.6% because of an adverse event, most commonly renal dysfunction (1.7%), hyperkalemia (1.7%) and hypotension (1.4%).
+During the sacubitril and valsartan run-in period, an additional 10.4% of patients permanently discontinued treatment, 5.9% because of an adverse event, most commonly renal dysfunction (1.8%), hypotension (1.7%) and hyperkalemia (1.3%).
+Because of this run-in design, the adverse reaction rates described below are lower than expected in practice.
+
+In the double-blind period, safety was evaluated in 4,203 patients treated with sacubitril and valsartan and 4,229 treated with enalapril.
+In PARADIGM-HF, patients randomized to sacubitril and valsartan received treatment for up to 4.3 years, with a median duration of exposure of 24 months; 3,271 patients were treated for more than one year.
+Discontinuation of therapy because of an adverse event during the double-blind period occurred in 450 (10.7%) of sacubitril and valsartan-treated patients and 516 (12.2%) of patients receiving enalapril.
+
+Adverse reactions occurring at an incidence of greater than or equal to 5% in patients who were treated with sacubitril and valsartan in the double-blind period of PARADIGM-HF are shown in Table 3.
+
+In PARADIGM-HF, the incidence of angioedema was 0.1% in both the enalapril and sacubitril and valsartan run-in periods.
+In the double-blind period, the incidence of angioedema was higher in patients treated with sacubitril and valsartan than enalapril (0.5% and 0.2%, respectively).
+The incidence of angioedema in Black patients was 2.4% with sacubitril and valsartan and 0.5% with enalapril [see Warnings and Precautions (5.2)].
+
+Orthostasis was reported in 2.1% of patients treated with sacubitril and valsartan compared to 1.1% of patients treated with enalapril during the double-blind period of PARADIGM-HF.
+Falls were reported in 1.9% of patients treated with sacubitril and valsartan compared to 1.3% of patients treated with enalapril.
+
+Table 3: Adverse Reactions Reported in greater than or equal to 5% of Patients Treated with Sacubitril and Valsartan in the Double-Blind Period of PARADIGM-HF
+
+|  | Sacubitril and Valsartan (n = 4,203) % | Enalapril (n = 4,229) % |
+| --- | --- | --- |
+| Hypotension | 18 | 12 |
+| Hyperkalemia | 12 | 14 |
+| Cough | 9 | 13 |
+| Dizziness | 6 | 5 |
+| Renal failure/acute renal failure | 5 | 5 |
+
+In PARAGON-HF, no new adverse reactions were identified.
+
+Pediatric Heart Failure The adverse reactions observed in pediatric patients 1 year to less than 18 years old who received treatment with sacubitril and valsartan were consistent with those observed in adult patients.
+
+Laboratory Abnormalities
+
+Hemoglobin and Hematocrit
+
+Decreases in hemoglobin/hematocrit of greater than 20% were observed in approximately 5% of both sacubitril and valsartan- and enalapril­-treated patients in the double-blind period in PARADIGM-HF.
+Decreases in hemoglobin/hematocrit of greater than 20% were observed in approximately 7% of sacubitril and valsartan-treated patients and 9% of valsartan-treated patients in the double-blind period in PARAGON-HF.
+
+Serum Creatinine
+
+During the double-blind period in PARADIGM-HF, approximately 16% of both sacubitril and valsartan -and enalapril-treated patients had increases in serum creatinine of greater than 50%.
+During the double-blind period in PARAGON-HF, approximately 17% of sacubitril and valsartan-treated patients and 21% of valsartan-treated patients had increases in serum creatinine of greater than 50%.
+
+Serum Potassium
+
+During the double-blind period of PARADIGM-HF, approximately 16% of both sacubitril and valsartan-and enalapril-treated patients had potassium concentrations greater than 5.5 mEq/L.
+During the double-blind period of PARAGON-HF, approximately 18% of sacubitril and valsartan-treated patients and 20% of valsartan-treated patients had potassium concentrations greater than 5.5 mEq/L.
+
+## 6.2 Postmarketing Experience
+
+The following additional adverse reactions have been reported in postmarketing experience.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hypersensitivity including rash, pruritus, and anaphylactic reaction
