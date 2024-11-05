@@ -12,4 +12,4 @@ PACIFIC PHARMA NDC 82182-773-15 BRIMONIDINE TARTRATE ophthalmic solution, 0.15% 
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC: 82182-321-05 Pacific Pharma® BRIMONIDINE TARTRATE ophthalmic solution, 0.1% 5 ML Sterile Rx only
+PACIFIC PHARMA NDC: 82182-321-05 BRIMONIDINE TARTRATE ophthalmic solution, 0.1% 5 mL sterile Rx only
