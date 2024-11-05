@@ -44,8 +44,7 @@ How should Ofloxacin Otic Solution be given?
 | --- | --- | --- |
 | Gently clean any discharge that can be removed easily from the outer ear. DO NOT INSERT ANY OBJECT OR SWAB INTO THE EAR CANAL. |  |  |
 | Hold the bottle of Ofloxacin Otic Solution in the hand for one or two minutes to warm the solution. |  |  |
-| Before using the medication for the first time, be sure the white plastic sealing tape between the bottle and the cap is unbroken. |  |  |
-| To break the seal and open the bottle, unscrew the cap by turning as indicated by the arrow. |  |  |
+| To open the bottle, unscrew the cap by turning as indicated by the arrow. |  |  |
 
 | 3. Add drops |  |
 | --- | --- |
@@ -121,7 +120,7 @@ HOW SUPPLIED
 
 Bottles containing 5 mL and 10 mL.
 
-Store at 20° to 25°C (68° to 77°F).
+Store at 20°C to 25°C (68°C to 77°F).
 [See USP Controlled Room Temperature].
 Protect from light.
 
@@ -134,4 +133,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-000000 September 2015
+000000 September 2018

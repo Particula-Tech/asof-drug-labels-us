@@ -8,7 +8,7 @@ The NDC codes are:
 
 60505-0363-2 10 mL
 
-Store at 20° to 25°C (68° to 77°F).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature].
 Protect from light.
 
@@ -19,4 +19,4 @@ Protect from light.
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-000000 September 2015
+September 2018
