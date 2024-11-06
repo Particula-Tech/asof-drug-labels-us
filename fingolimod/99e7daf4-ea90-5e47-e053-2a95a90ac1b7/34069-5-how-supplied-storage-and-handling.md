@@ -6,11 +6,17 @@
 
 Fingolimod capsules are supplied as follows:
 
-Bottle of 30 capsules NDC 64980-449-03
+Bottle of 30 capsules
 
-Carton of 28 capsules containing 4 blister cards of 7 capsules per blister card NDC 64980-449-28
+NDC 64980-449-03
 
-Carton of 7 capsules containing 1 blister card of 7 capsules per blister card NDC 64980-449-07
+Carton of 28 capsules containing 4 blister cards of 7 capsules per blister card
+
+NDC 64980-449-28
+
+Carton of 7 capsules containing 1 blister card of 7 capsules per blister card
+
+NDC 64980-449-07
 
 ## 16.2 Storage and Handling
 
