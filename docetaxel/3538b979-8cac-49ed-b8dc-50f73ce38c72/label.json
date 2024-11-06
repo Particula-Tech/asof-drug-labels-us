@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA125154",
+    "NDA218711"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Zhuhai Beihai Biotech Co., Ltd.",
+  "package_ndcs": [
+    "68982-643-01",
+    "83513-009-01",
+    "83513-010-01"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "docetaxel",
+      "name": "BEIZRAY"
+    }
+  ],
+  "setid": "3538b979-8cac-49ed-b8dc-50f73ce38c72",
+  "source": "dailymed"
+}
