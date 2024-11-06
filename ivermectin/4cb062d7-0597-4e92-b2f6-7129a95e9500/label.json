@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218324"
+  ],
+  "inn": "ivermectin",
+  "labeler": "DR. REDDY'S LABORATORIES, INC.",
+  "package_ndcs": [
+    "75907-167-21"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ivermectin",
+      "name": "IVERMECTIN"
+    }
+  ],
+  "setid": "4cb062d7-0597-4e92-b2f6-7129a95e9500",
+  "source": "dailymed"
+}
