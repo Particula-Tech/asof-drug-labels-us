@@ -13,9 +13,9 @@ The activation of different receptors leading to its effects are dependent on do
 Dopamine's onset of action occurs within five minutes of intravenous administration and the duration of action is less than about ten minutes.
 Dopamine effects are dosage-dependent.
 
-- At <5 mcg/kg/minute, dopamine HCl activates dopamine D1 and D2 receptors in the renal, mesenteric, and coronary vasculature causing vasodilation.
-- At 5 to 10 mcg/kg/minute, dopamine HCl activates beta-1 receptors enhancing heart rate and contractility.
-- At >10 mcg/kg/minute, dopamine HCl activates alpha-1 receptors causing vasoconstriction and increased blood pressure
+- •At <5 mcg/kg/minute, dopamine HCl activates dopamine D1 and D2 receptors in the renal, mesenteric, and coronary vasculature causing vasodilation.
+- •At 5 to 10 mcg/kg/minute, dopamine HCl activates beta-1 receptors enhancing heart rate and contractility.
+- •At >10 mcg/kg/minute, dopamine HCl activates alpha-1 receptors causing vasoconstriction and increased blood pressure
 
 ## 12.3 Pharmacokinetics
 

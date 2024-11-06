@@ -52,8 +52,8 @@ Example 2: for a 70 kg person at a dose of 5 mcg/kg/minute using a 3,200 mcg/mL 
 
 Dopamine HCl in Dextrose Injection is incompatible with the following products; therefore, avoid simultaneous administration (through the same infusion set):
 
-- Sodium bicarbonate or other alkalinizing substances, because dopamine is inactivated in alkaline solution.
-- Blood, because of the risk of pseudoagglutination of red cells
-- Iron salts
+- •Sodium bicarbonate or other alkalinizing substances, because dopamine is inactivated in alkaline solution.
+- •Blood, because of the risk of pseudoagglutination of red cells
+- •Iron salts
 
 Do not add additional medications in the premixed infusion solution.

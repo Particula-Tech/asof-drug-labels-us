@@ -2,7 +2,7 @@
 
 Risk of Tissue Damage
 
-Advise the patient, family, or caregiver to report signs of extravasation urgently [see Warnings and Precautions (5.1)].
+1. Advise the patient, family, or caregiver to report signs of extravasation urgently [see Warnings and Precautions (5.1)].
 
 Cardiac Arrhythmias
 

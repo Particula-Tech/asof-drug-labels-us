@@ -15,8 +15,8 @@ Emergency Treatment of Extravasation
 
 To prevent sloughing and necrosis in areas in which extravasation has occurred, infiltrate the ischemic area as soon as possible, using a syringe with a fine hypodermic needle with:
 
-- 5 to 10 mg of phentolamine mesylate in 10 to 15 mL of 0.9% Sodium Chloride Injection in adults
-- 0.1 to 0.2 mg/kg of phentolamine mesylate up to a maximum of 10 mg per dose in pediatric patients.
+- •5 to 10 mg of phentolamine mesylate in 10 to 15 mL of 0.9% Sodium Chloride Injection in adults
+- •0.1 to 0.2 mg/kg of phentolamine mesylate up to a maximum of 10 mg per dose in pediatric patients.
 
 Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours.
 

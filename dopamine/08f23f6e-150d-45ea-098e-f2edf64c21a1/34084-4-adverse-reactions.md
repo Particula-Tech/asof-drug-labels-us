@@ -2,10 +2,10 @@
 
 The following adverse reactions are described elsewhere in the labeling:
 
-- Tissue Ischemia [see Warnings and Precautions (5.1)]
-- Cardiac Arrhythmias [see Warnings and Precautions (5.2)]
-- Hypotension [see Warnings and Precautions (5.3)]
-- Severe Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- •Tissue Ischemia [see Warnings and Precautions (5.1)]
+- •Cardiac Arrhythmias [see Warnings and Precautions (5.2)]
+- •Hypotension [see Warnings and Precautions (5.3)]
+- •Severe Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 
 The following adverse reactions have been identified during post-approval use of dopamine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
