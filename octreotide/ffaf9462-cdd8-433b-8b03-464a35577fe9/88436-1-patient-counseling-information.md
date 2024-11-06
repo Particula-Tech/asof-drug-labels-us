@@ -4,10 +4,12 @@ Sterile Subcutaneous Injection Technique Careful instruction in sterile subcutan
 
 Cholelithiasis and Complications of Cholelithiasis Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones (cholelithiasis) or complications of cholelithiasis (e.g., cholecystitis, cholangitis, and pancreatitis) [see Warnings and Precautions (5.2)].
 
+Steatorrhea and Malabsorption of Dietary Fats Advise patients to contact their healthcare provider if they experience new or worsening of steatorrhea, stool discoloration, loose stools, abdominal bloating, and weight loss [see Warnings and Precautions (5.5)].
+
 Pregnancy Inform female patients that treatment with octreotide acetate injection may result in unintended pregnancy [see Use in Specific Populations (8.3)].
 
 Manufactured by: USV Private Limited Daman – 396210, India
 
 Manufactured for: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784)
 
-Revised: 12/2023
+Revised: 10/2024
