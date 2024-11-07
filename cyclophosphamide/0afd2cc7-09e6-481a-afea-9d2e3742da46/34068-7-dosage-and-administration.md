@@ -17,7 +17,7 @@ When cyclophosphamide is included in combined cytotoxic regimens, it may be nece
 ## 2.3 Preparation, Handling and Administration
 
 Handle and dispose of cyclophosphamide in a manner consistent with other cytotoxic drugs.
-1 Caution should be exercised when handling and preparing Cyclophosphamide Injection.
+1Caution should be exercised when handling and preparing Cyclophosphamide Injection.
 To minimize the risk of dermal exposure, always wear gloves when handling vials containing Cyclophosphamide Injection.
 
 Cyclophosphamide Injection

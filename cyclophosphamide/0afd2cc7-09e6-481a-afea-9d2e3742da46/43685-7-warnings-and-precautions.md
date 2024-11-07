@@ -79,7 +79,7 @@ Other cyclophosphamide products may have a different amount of alcohol or no alc
 
 ## 5.8 Embryo-Fetal Toxicity
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
 
@@ -95,7 +95,7 @@ Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3 and 8.4)].
+Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3and 8.4)].
 
 ## 5.10 Impairment of Wound Healing
 

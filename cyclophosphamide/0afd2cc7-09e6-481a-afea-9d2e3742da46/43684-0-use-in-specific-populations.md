@@ -4,9 +4,11 @@
 
 Risk Summary
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
-Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data].
-Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)and Nonclinical Toxicology (13.1)].
+Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [seeError!
+Hyperlink reference not valid.].
+Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [seeError!
+Hyperlink reference not valid.].
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -46,7 +48,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 Males
 
-Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
+Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.1)and Nonclinical Toxicology (13.1)].
 
 Infertility
 

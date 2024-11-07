@@ -13,7 +13,7 @@ These metabolites interfere with the growth of susceptible rapidly proliferating
 
 Following IV administration, elimination half-life (t ½) ranges from 3 to 12 hours with total body clearance (CL) values of 4 to 5.6 L/h.
 Pharmacokinetics are linear over the dose range used clinically.
-When cyclophosphamide was administered at 4.0 g/m 2 over a 90 minutes infusion, saturable elimination in parallel with first-order renal elimination describe the kinetics of the drug.
+When cyclophosphamide was administered at 4.0 g/m 2over a 90 minutes infusion, saturable elimination in parallel with first-order renal elimination describe the kinetics of the drug.
 
 Distribution
 
@@ -32,7 +32,7 @@ This spontaneous conversion can be catalyzed by albumin and other proteins.
 Less than 5% of cyclophosphamide may be directly detoxified by side chain oxidation, leading to the formation of inactive metabolites 2-dechloroethylcyclophosphamide.
 At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide in patients.
 Cyclophosphamide appears to induce its own metabolism.
-Auto-induction results in an increase in the total clearance, increased formation of 4-hydroxyl metabolites and shortened t 1/2 values following repeated administration at 12- to 24-hour interval.
+Auto-induction results in an increase in the total clearance, increased formation of 4-hydroxyl metabolites and shortened t 1/2values following repeated administration at 12- to 24-hour interval.
 
 Elimination
 
@@ -51,10 +51,10 @@ The increase in exposure was significant in the severe group (p>0.05); thus, pat
 The dialyzability of cyclophosphamide was investigated in four patients on long-term hemodialysis.
 Dialysis clearance calculated by arterial-venous difference and actual drug recovery in dialysate averaged 104 mL/min, which is in the range of the metabolic clearance of 95 mL/min for the drug.
 A mean of 37% of the administered dose of cyclophosphamide was removed during hemodialysis.
-The elimination half-life (t 1/2) was 3.3 hours in patients during hemodialysis, a 49% reduction of the 6.5 hours to t 1/2 reported in uremic patients.
+The elimination half-life (t 1/2) was 3.3 hours in patients during hemodialysis, a 49% reduction of the 6.5 hours to t 1/2reported in uremic patients.
 Reduction in t 1/2, larger dialysis clearance than metabolic clearance, high extraction efficiency, and significant drug removal during dialysis, suggest that cyclophosphamide is dialyzable.
 
 Hepatic Impairment
 
 Total body clearance (CL) of cyclophosphamide is decreased by 40% in patients with severe hepatic impairment and elimination half-life (t ½) is prolonged by 64%.
-Mean CL and t ½ were 45 ± 8.6 L/kg and 12.5 ± 1.0 hours respectively, in patients with severe hepatic impairment and 63 ± 7.6 L/kg and 7.6 ± 1.4 hours respectively in the control group [see Use in Specific Populations (8.7)].
+Mean CL and t ½were 45 ± 8.6 L/kg and 12.5 ± 1.0 hours respectively, in patients with severe hepatic impairment and 63 ± 7.6 L/kg and 7.6 ± 1.4 hours respectively in the control group [see Use in Specific Populations (8.7)].
