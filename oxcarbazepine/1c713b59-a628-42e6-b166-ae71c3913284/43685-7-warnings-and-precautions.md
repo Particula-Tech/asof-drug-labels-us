@@ -2,10 +2,10 @@
 
 ## 5.1 Hyponatremia
 
-Clinically significant hyponatremia (sodium <125 mmol/L) can develop during oxcarbazepine use.
-In the 14 controlled epilepsy studies 2.5% of oxcarbazepine-treated patients (38/1,524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
-Clinically significant hyponatremia generally occurred during the first 3 months of treatment with oxcarbazepine, although there were patients who first developed a serum sodium <125 mmol/L more than 1 year after initiation of therapy.
-Most patients who developed hyponatremia were asymptomatic but patients in the clinical trials were frequently monitored and some had their oxcarbazepine dose reduced, discontinued, or had their fluid intake restricted for hyponatremia.
+Clinically significant hyponatremia (sodium < 125 mmol/L) can develop during oxcarbazepine use.
+In the 14 controlled epilepsy studies, 2.5% of oxcarbazepine-treated patients (38/1,524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
+Clinically significant hyponatremia generally occurred during the first 3 months of treatment with oxcarbazepine, although there were patients who first developed a serum sodium < 125 mmol/L more than 1 year after initiation of therapy.
+Most patients who developed hyponatremia were asymptomatic, but patients in the clinical trials were frequently monitored and some had their oxcarbazepine dose reduced, discontinued, or had their fluid intake restricted for hyponatremia.
 Whether or not these maneuvers prevented the occurrence of more severe events is unknown.
 Cases of symptomatic hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH) have been reported during postmarketing use.
 In clinical trials, patients whose treatment with oxcarbazepine was discontinued due to hyponatremia generally experienced normalization of serum sodium within a few days without additional treatment.
@@ -36,28 +36,28 @@ The reporting rate of TEN and SJS associated with oxcarbazepine use, which is ge
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking oxcarbazepine, consideration should be given to discontinuing oxcarbazepine use and prescribing another antiepileptic medication.
 
-Association with HLA-B*1502
+Association With HLA-B*1502
 
 Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with oxcarbazepine treatment.
 Human Leukocyte Antigen (HLA) allele B*1502 increases the risk for developing SJS/TEN in patients treated with carbamazepine.
 The chemical structure of oxcarbazepine is similar to that of carbamazepine.
 Available clinical evidence, and data from nonclinical studies showing a direct interaction between oxcarbazepine and HLA-B*1502 protein, suggest that the HLA-B*1502 allele may also increase the risk for SJS/TEN with oxcarbazepine.
 
-The frequency of HLA-B*1502 allele ranges from 2 to 12% in Han Chinese populations, is about 8% in Thai populations, and above 15% in the Philippines and in some Malaysian populations.
+The frequency of HLA-B*1502 allele ranges from 2% to 12% in Han Chinese populations, is about 8% in Thai populations, and above 15% in the Philippines, and in some Malaysian populations.
 Allele frequencies up to about 2% and 6% have been reported in Korea and India, respectively.
-The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (<1%).
+The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (< 1%).
 
 Testing for the presence of the HLA-B*1502 allele should be considered in patients with ancestry in genetically at-risk populations, prior to initiating treatment with oxcarbazepine.
 The use of oxcarbazepine should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
 Consideration should also be given to avoid the use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
-Screening is not generally recommended in patients from populations in which the prevalence of HLAB* 1502 is low, or in current oxcarbazepine users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA B*1502 status.
+Screening is not generally recommended in patients from populations in which the prevalence of HLA-B* 1502 is low, or in current oxcarbazepine users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA-B*1502 status.
 
 The use of HLA-B*1502 genotyping has important limitations and must never substitute for appropriate clinical vigilance and patient management.
-The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as antiepileptic drug (AED) dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.
+The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as AED dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.
 
 ## 5.5 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including oxcarbazepine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs including oxcarbazepine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -74,7 +74,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidenceof Events in Drug Patients/Incidence inPlacebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo patients with events per 1,000 patients | Drug patients with events per 1,000 patients | Relative risk: incidence of events in drug patients/incidence in placebo patients | Risk difference: additional drug patients with events per 1,000 patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -90,15 +90,15 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Withdrawal of AEDs
+## 5.6 Withdrawal of Antiepileptic Drugs
 
-As with most antiepileptic drugs, oxcarbazepine should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4) and Clinical Studies (14)].
+As with most AEDs, oxcarbazepine should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4) and Clinical Studies (14)].
 But if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
 
 ## 5.7 Cognitive/Neuropsychiatric Adverse Reactions
 
-Use of oxcarbazepine has been associated with central nervous system-related adverse reactions.
-The most significant of these can be classified into 3 general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) coordination abnormalities, including ataxia and gait disturbances.
+Use of oxcarbazepine has been associated with CNS-related adverse reactions.
+The most significant of these can be classified into three general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) coordination abnormalities, including ataxia and gait disturbances.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery.
 
@@ -129,11 +129,11 @@ Oxcarbazepine was titrated to reach a target dose ranging from 30 mg/kg to 46 mg
 
 Cognitive adverse events occurred in 5.8% of oxcarbazepine-treated patients (the single most common event being concentration impairment, 4 of 138 patients) and in 3.1% of patients treated with placebo.
 In addition, 34.8% of oxcarbazepine-treated patients and 14% of placebo-treated patients experienced somnolence.
-(No patient discontinued due to a cognitive adverse reaction or somnolence.).
+(no patient discontinued due to a cognitive adverse reaction or somnolence.).
 Finally, 23.2% of oxcarbazepine-treated patients and 7% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
-## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
+## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms / Multi-Organ Hypersensitivity
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with oxcarbazepine.
 Some of these events have been fatal or life-threatening.

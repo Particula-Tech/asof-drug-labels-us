@@ -41,7 +41,7 @@ Many people who are allergic to carbamazepine are also allergic to oxcarbazepine
 Tell your healthcare provider if you are allergic to carbamazepine.
 
 3.
-Like other antiepileptic drugs, oxcarbazepine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+Like other antiepileptic drugs (AEDs), oxcarbazepine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -63,7 +63,7 @@ Do not stop taking oxcarbazepine tablets without first talking to a healthcare p
 Suicidal thoughts or actions may be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-What are oxcarbazepine tablets?
+What is oxcarbazepine tablets?
 
 Oxcarbazepine tablets are a prescription medicine used:
 
@@ -170,9 +170,11 @@ You can ask your pharmacist or healthcare provider for information about oxcarba
 
 What are the ingredients in oxcarbazepine tablets?
 
-Active ingredient:s oxcarbazepine
+Active ingredient: oxcarbazepine
 
-Inactive ingredients: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
+Inactive ingredients:
+
+- •Film-coated tablets: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 
 Medication Guide available at
 
@@ -180,7 +182,7 @@ www.glenmarkpharma-us.com/medguides
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited
+Glenmark Pharmaceuticals Limited.
 
 India
 
@@ -191,10 +193,11 @@ Glenmark Pharmaceuticals Inc., USA
 Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-August 2019
+October 2024
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+1. This Medication Guide has been approved by the U.S. Food and Drug Administration.
+   October 2024

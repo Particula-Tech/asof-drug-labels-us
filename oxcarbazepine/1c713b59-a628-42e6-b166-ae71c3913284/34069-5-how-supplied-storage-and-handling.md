@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Tablets
+
 150 mg Film-Coated Tablets: yellow, film-coated oval, biconvex tablets with a deep break line on both sides and "G" engraved on one side of the deep break line on one side of the tablet and "13" and "7" engraved on either side of the deep break line on the other side of the tablet.
 
 Bottle of 100.........NDC 68462-137-01

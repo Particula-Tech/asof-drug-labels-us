@@ -5,6 +5,6 @@ Oxcarbazepine, USP is 10,11-Dihydro-10-oxo-5H-dibenz[b,f]azepine-5-carboxamide, 
 
 Oxcarbazepine, USP is a light orange to creamish white or off-white powder.
 It is soluble in acetic acid, sparingly soluble in chloroform, practically insoluble in water.
-Its molecular weight is 252.27 g/mol.
+Its molecular weight is 252.27 g/mol
 
 Oxcarbazepine film-coated tablets contain the following inactive ingredients: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
