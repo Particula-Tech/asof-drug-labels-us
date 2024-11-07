@@ -82,11 +82,18 @@ Men wishing to father a child should discontinue use of teriflunomide and either
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
-Pancreatitis has been reported in adults in the postmarketing setting, but appears to occur at higher frequency in the pediatric population [see Warnings and Precautions (5.11)].
-Additionally, elevated or abnormal blood creatine phosphokinase was reported.
-Juvenile Animal Toxicity Data Oral administration of teriflunomide (0, 0.3, 3, or 6 mg/kg/day) to young rats on postnatal days 21 to 70 resulted in suppression of immune function (T-cell dependent antibody response) at the mid and high doses, and adverse effects on male reproductive organs (reduced sperm count) and altered neurobehavioral function (increased locomotor activity) at the high dose.
-Pediatric information describing a clinical study in which efficacy was not demonstrated is approved for Sanofi-Aventis U.S. LLC’s Aubagio® (teriflunomide) tablets.
-However, due to Sanofi-Aventis U.S. LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
+Effectiveness of teriflunomide for the treatment of relapsing form of multiple sclerosis in pediatric patients (10 to 17 years of age) was not established in an adequate and well-controlled clinical study in 166 patients (109 patients received once-daily doses of teriflunomide and 57 patients received placebo) for up to 96 weeks.
+
+Pancreatitis has been reported in adults in the postmarketing setting, but appears to occur at higher frequency in the pediatric population.
+In this pediatric study, cases of pancreatitis were reported in 1.8% (2/109) of patients who received teriflunomide compared to no patients in the placebo group.
+All patients in the pediatric trial recovered or were recovering after treatment discontinuation and accelerated elimination procedure [see Warnings and Precautions (5.11)].
+
+Additionally, elevated or abnormal blood creatine phosphokinase was reported in 6.4% of pediatric patients who received teriflunomide compared to no patients in the placebo group.
+
+Juvenile Animal Toxicity Data
+
+Oral administration of teriflunomide (0, 0.3, 3, or 6 mg/kg/day) to young rats on postnatal days 21 to 70 resulted in suppression of immune function (T-cell dependent antibody response) at the mid and high doses, and adverse effects on male reproductive organs (reduced sperm count) and altered neurobehavioral function (increased locomotor activity) at the high dose.
+At the no-effect dose (0.3 mg/kg/day) for developmental toxicity in juvenile rats, plasma exposures were less than those in pediatric patients at the doses of teriflunomide tested in the clinical study.
 
 ## 8.5 Geriatric Use
 

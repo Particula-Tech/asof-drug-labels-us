@@ -166,11 +166,9 @@ If discontinuation of the drug is necessary, consider initiation of an accelerat
 
 ## 5.11 Pancreatitis in Pediatric Patients
 
-Teriflunomide is not approved for use in pediatric patients [see Use in Specific Populations (8.4)].
+Teriflunomide is not approved for use in pediatric patients.
+In the pediatric clinical trial, cases of pancreatitis were observed in 1.8% (2/109) of patients receiving teriflunomide; one of these cases was serious [see Use in Specific Populations (8.4)].
 If pancreatitis is suspected, discontinue teriflunomide and start an accelerated elimination procedure [see Warnings and Precautions (5.3)].
-
-Pediatric information describing a clinical study in which efficacy was not demonstrated is approved for Sanofi-Aventis U.S. LLC’s Aubagio® (teriflunomide) tablets.
-However, due to Sanofi-Aventis U.S. LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.12 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
 
