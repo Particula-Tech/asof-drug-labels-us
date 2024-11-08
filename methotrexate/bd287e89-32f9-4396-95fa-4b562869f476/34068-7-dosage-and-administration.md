@@ -27,7 +27,7 @@ Refer to the leucovorin Prescribing Information for additional information.
 ## 2.3 Recommended Dosage for Acute Lymphoblastic Leukemia
 
 Methotrexate Injection is used as part of a multi-drug regimen.
-The recommended dosage varies from 10 to 5,000 mg/m2 intravenously.
+The recommended dosage varies from 10 to 5000 mg/m2 intravenously.
 For high-dose Methotrexate Injection regimens, use leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
 Lower doses (e.g., 20 to 30 mg/m2/week) may be used intramuscularly.
 Individualize the dose and schedule of Methotrexate Injection based on disease state, patient risk category, concurrent drugs used, phase of treatment, and response to treatment.
@@ -55,7 +55,7 @@ For patients with Down Syndrome, administer leucovorin rescue with intrathecal M
 
 The recommended dosage of Methotrexate Injection varies.
 When used in combination, recommended dosages range from 10 mg/m2 to 8,000 mg/m2 intravenously.
-When used as a single-agent, recommended dosages include 8,000 mg/m2 intravenously for central nervous system-directed therapy or 5 to 75 mg intravenously for cutaneous forms of Non-Hodgkin lymphoma.
+When used as a single agent, recommended dosages include 8000 mg/m2 intravenously for central nervous system-directed therapy or 5 to 75 mg intravenously for cutaneous forms of Non-Hodgkin lymphoma.
 
 As part of a combination chemotherapy regimen, a recommended dosage of Methotrexate Injection is 1,000 mg/m2 or 3,000 mg/m2 as an intravenous infusion over 24 hours followed by leucovorin rescue in accordance with high-dose methotrexate regimen guidelines [see Dosage and Administration (2.2)].
 

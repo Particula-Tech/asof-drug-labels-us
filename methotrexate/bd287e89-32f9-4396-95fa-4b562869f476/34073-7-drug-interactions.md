@@ -14,7 +14,7 @@ If coadministration cannot be avoided, monitor closely for methotrexate adverse 
 - •Proton pump inhibitors
 - •Probenecid
 - •Antifolate drugs (e.g., dapsone, pemetrexed, pyrimethamine and sulfonamides)
-- •Aspirin and other nonsteroidal anti-inflammatory drugs Unexpectedly severe and fatal gastrointestinal toxicity can occur with concomitant administration of methotrexate (primarily at high-dose) and nonsteroidal anti-inflammatory drugs (NSAIDs)
+- •Aspirin and other nonsteroidal anti-inflammatory drugs Unexpectedly severe and fatal gastrointestinal toxicity can occur with concomitant administration of methotrexate (primarily at high dose) and nonsteroidal anti-inflammatory drugs (NSAIDs)
 - •Mercaptopurine
 - •Hepatotoxic products
 - •Weak acids (e.g., salicylates)

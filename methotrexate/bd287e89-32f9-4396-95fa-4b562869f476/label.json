@@ -5,7 +5,9 @@
   "inn": "methotrexate",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
-    "61703-124-40"
+    "61703-124-40",
+    "61703-161-02",
+    "61703-161-05"
   ],
   "products": [
     {
