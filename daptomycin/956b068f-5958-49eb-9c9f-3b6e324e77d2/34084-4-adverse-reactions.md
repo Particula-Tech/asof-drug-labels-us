@@ -8,7 +8,7 @@ The following adverse reactions are described, or described in greater detail, i
 - Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
 - Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
 - Peripheral Neuropathy [see Warnings and Precautions (5.6)]
-- Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
+- Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11)and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -48,34 +48,34 @@ Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients
 
 Drug-related adverse reactions (possibly or probably drug-related) that occurred in <1% of adult patients receiving daptomycin in the cSSSI trials are as follows:
 
-Body as a Whole: fatigue, weakness, rigors, flushing, hypersensitivity
+Body as a Whole:fatigue, weakness, rigors, flushing, hypersensitivity
 
-Blood/Lymphatic System: leukocytosis, thrombocytopenia, thrombocytosis, eosinophilia, increased International Normalized Ratio (INR)
+Blood/Lymphatic System:leukocytosis, thrombocytopenia, thrombocytosis, eosinophilia, increased International Normalized Ratio (INR)
 
-Cardiovascular System: supraventricular arrhythmia
+Cardiovascular System:supraventricular arrhythmia
 
-Dermatologic System: eczema
+Dermatologic System:eczema
 
-Digestive System: abdominal distension, stomatitis, jaundice, increased serum lactate dehydrogenase
+Digestive System:abdominal distension, stomatitis, jaundice, increased serum lactate dehydrogenase
 
-Metabolic/Nutritional System: hypomagnesemia, increased serum bicarbonate, electrolyte disturbance
+Metabolic/Nutritional System:hypomagnesemia, increased serum bicarbonate, electrolyte disturbance
 
-Musculoskeletal System: myalgia, muscle cramps, muscle weakness, arthralgia
+Musculoskeletal System:myalgia, muscle cramps, muscle weakness, arthralgia
 
-Nervous System: vertigo, mental status change, paresthesia
+Nervous System:vertigo, mental status change, paresthesia
 
-Special Senses: taste disturbance, eye irritation
+Special Senses:taste disturbance, eye irritation
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
-In the S. aureus bacteremia/endocarditis trial involving adult patients, daptomycin was discontinued in 20/120 (16.7%) patients due to an adverse reaction, while comparator was discontinued in 21/116 (18.1%) patients.
+In the S. aureusbacteremia/endocarditis trial involving adult patients, daptomycin was discontinued in 20/120 (16.7%) patients due to an adverse reaction, while comparator was discontinued in 21/116 (18.1%) patients.
 
 Serious Gram-negative infections (including bloodstream infections) were reported in 10/120 (8.3%) daptomycin-treated patients and 0/115 comparator-treated patients.
 Comparator-treated patients received dual therapy that included initial gentamicin for 4 days.
 Infections were reported during treatment and during early and late follow-up.
 Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal osteomyelitis/mediastinitis, bowel infarction, recurrent Crohn's disease, recurrent line sepsis, and recurrent urosepsis caused by a number of different Gram-negative bacteria.
 
-The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg daptomycin) are displayed in Table 7.
+The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureusbacteremia/endocarditis (receiving 6 mg/kg daptomycin) are displayed in Table 7.
 
 Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients in the Daptomycin Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
 
@@ -104,31 +104,31 @@ Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients
 
 The following reactions, not included above, were reported as possibly or probably drug-related in the daptomycin-treated group:
 
-Blood and Lymphatic System Disorders: eosinophilia, lymphadenopathy, thrombocythemia, thrombocytopenia
+Blood and Lymphatic System Disorders:eosinophilia, lymphadenopathy, thrombocythemia, thrombocytopenia
 
-Cardiac Disorders: atrial fibrillation, atrial flutter, cardiac arrest
+Cardiac Disorders:atrial fibrillation, atrial flutter, cardiac arrest
 
-Ear and Labyrinth Disorders: tinnitus
+Ear and Labyrinth Disorders:tinnitus
 
-Eye Disorders: vision blurred
+Eye Disorders:vision blurred
 
-Gastrointestinal Disorders: dry mouth, epigastric discomfort, gingival pain, hypoesthesia oral
+Gastrointestinal Disorders:dry mouth, epigastric discomfort, gingival pain, hypoesthesia oral
 
-Infections and Infestations: candidal infection NOS, vaginal candidiasis, fungemia, oral candidiasis, urinary tract infection fungal
+Infections and Infestations:candidal infection NOS, vaginal candidiasis, fungemia, oral candidiasis, urinary tract infection fungal
 
-Investigations: blood phosphorous increased, blood alkaline phosphatase increased, INR increased, liver function test abnormal, alanine aminotransferase increased, aspartate aminotransferase increased, prothrombin time prolonged
+Investigations:blood phosphorous increased, blood alkaline phosphatase increased, INR increased, liver function test abnormal, alanine aminotransferase increased, aspartate aminotransferase increased, prothrombin time prolonged
 
-Metabolism and Nutrition Disorders: appetite decreased NOS
+Metabolism and Nutrition Disorders:appetite decreased NOS
 
-Musculoskeletal and Connective Tissue Disorders: myalgia
+Musculoskeletal and Connective Tissue Disorders:myalgia
 
-Nervous System Disorders: dyskinesia, paresthesia
+Nervous System Disorders:dyskinesia, paresthesia
 
-Psychiatric Disorders: hallucination NOS
+Psychiatric Disorders:hallucination NOS
 
-Renal and Urinary Disorders: proteinuria, renal impairment NOS
+Renal and Urinary Disorders:proteinuria, renal impairment NOS
 
-Skin and Subcutaneous Tissue Disorders: pruritus generalized, rash vesicular
+Skin and Subcutaneous Tissue Disorders:pruritus generalized, rash vesicular
 
 Other Trials in Adults
 
@@ -160,7 +160,7 @@ Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the 
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
-In the S. aureus bacteremia/endocarditis trial in adult patients, at a dose of 6 mg/kg, 11/120 (9.2%) daptomycin-treated patients, including two patients with baseline CPK levels >500 U/L, had CPK elevations to levels >500 U/L, compared with 1/116 (0.9%) comparator-treated patients.
+In the S. aureusbacteremia/endocarditis trial in adult patients, at a dose of 6 mg/kg, 11/120 (9.2%) daptomycin-treated patients, including two patients with baseline CPK levels >500 U/L, had CPK elevations to levels >500 U/L, compared with 1/116 (0.9%) comparator-treated patients.
 Of the 11 daptomycin-treated patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
 Three of these 11 daptomycin-treated patients discontinued therapy due to CPK elevation, while the one comparator-treated patient did not discontinue therapy [see Warnings and Precautions (5.2)].
 
@@ -231,26 +231,26 @@ Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Pat
 The following adverse reactions have been identified during post-approval use of daptomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: anemia, thrombocytopenia
+Blood and lymphatic system disorders:anemia, thrombocytopenia
 
-General and administration site conditions: pyrexia
+General and administration site conditions:pyrexia
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4) and Warnings and Precautions (5.1)]
+Immune System Disorders:anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4)and Warnings and Precautions (5.1)]
 
 Infections and Infestations: Clostridioides difficile–associated diarrhea [see Warnings and Precautions (5.8)]
 
 Laboratory Investigations: platelet count decreased
 
-Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with daptomycin and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
+Musculoskeletal Disorders:myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with daptomycin and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 
-Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia, organizing pneumonia [see Warnings and Precautions (5.3)]
+Respiratory, Thoracic, and Mediastinal Disorders:cough, eosinophilic pneumonia, organizing pneumonia [see Warnings and Precautions (5.3)]
 
-Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
+Nervous System Disorders:peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)].
+Skin and Subcutaneous Tissue Disorders:serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)].
 
-Gastrointestinal Disorders: nausea, vomiting
+Gastrointestinal Disorders:nausea, vomiting
 
-Renal and urinary disorders: acute kidney injury, renal insufficiency, renal failure, and tubulointerstitial nephritis (TIN) [see Warnings and Precautions (5.5)].
+Renal and urinary disorders:acute kidney injury, renal insufficiency, renal failure, and tubulointerstitial nephritis (TIN) [see Warnings and Precautions (5.5)].
 
-Special Senses: visual disturbances
+Special Senses:visual disturbances
