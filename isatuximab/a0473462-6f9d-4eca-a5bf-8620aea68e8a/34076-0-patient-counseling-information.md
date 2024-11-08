@@ -16,7 +16,7 @@ Inform patients about the risk of neutropenia and infection during SARCLISA trea
 
 Second Primary Malignancies
 
-Inform patients of the risk of developing second primary malignancies during treatment with SARCLISA when given with pomalidomide and dexamethasone, or with carfilzomib and dexamethasone, or with bortezomib, lenalidomide, and dexamethasone [see Warnings and Precautions (5.4)].
+Inform patients of the risk of developing second primary malignancies during treatment with SARCLISA when given with pomalidomide and dexamethasone or with carfilzomib and dexamethasone, or with bortezomib, lenalidomide, and dexamethasone [see Warnings and Precautions (5.4)].
 
 Cardiac Toxicities
 
@@ -24,7 +24,8 @@ Inform patients about the risk of cardiac failure during treatment with SARCLISA
 
 Interference with Laboratory Tests
 
-Advise patients to inform healthcare providers and transfusion center personnel that they are treated with SARCLISA in case a red blood cell transfusion is planned [see Warnings and Precautions (5.5) and Drug Interactions (7.1)].
+Advise patients to inform healthcare providers and transfusion center personnel that they are treated with SARCLISA in case a red blood cell transfusion is planned.
+Advise patients that SARCLISA may affect the results of blood tests to match their blood type for approximately 6 months after their last infusion of SARCLISA [see Warnings and Precautions (5.5) and Drug Interactions (7.1)].
 
 Embryo-Fetal Toxicity
 

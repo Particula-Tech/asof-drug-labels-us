@@ -49,7 +49,7 @@ The elimination of isatuximab-irfc was similar when given as a single agent or a
 
 Specific Populations
 
-The following factors have no clinically meaningful effect on the exposure of isatuximab-irfc: age (36 to 85 years, 70 patients were ≥75 years old), sex, renal impairment (eGFR <90 mL/min/1.73 m2), and mild hepatic impairment (total bilirubin ≤ upper limit of normal [ULN] and aspartate aminotransferase [AST] >ULN, or total bilirubin >1 to 1.5 × ULN and any AST).
+The following factors have no clinically meaningful effect on the exposure of isatuximab-irfc: age (36 to 85 years, 70 patients were ≥75 years old), sex, renal impairment including patients with End-Stage Renal Disease (ESRD) or on dialysis (eGFR <90 mL/min/1.73 m2), and mild hepatic impairment (total bilirubin ≤ upper limit of normal [ULN] and aspartate aminotransferase [AST] >ULN, or total bilirubin >1 to 1.5 × ULN and any AST).
 The effect of moderate (total bilirubin >1.5 to 3 × ULN and any AST) and severe (total bilirubin >3 × ULN and any AST) hepatic impairment on isatuximab-irfc pharmacokinetics is unknown.
 
 No dose adjustments are recommended in these specific patient populations.

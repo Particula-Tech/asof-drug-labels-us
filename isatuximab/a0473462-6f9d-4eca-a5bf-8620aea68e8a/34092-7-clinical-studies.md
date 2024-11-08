@@ -103,6 +103,8 @@ Figure 2: Kaplan-Meier Curves of PFS – ITT Population – IKEMA (assessment by
 At a median follow-up time of 44.0 months, final PFS analysis showed a median PFS of 41.7 months for Isa-Kd group compared to 20.8 months for Kd group, with a hazard ratio of 0.594 (95.4% CI: 0.424 to 0.832).
 Final complete response, determined using a FDA-cleared isatuximab-irfc-specific IFE assay [see Drug Interactions (7.1)], was 44.1% in Isa-Kd group compared to 28.5% in Kd group.
 
+At a median follow-up time of 57 months, median overall survival was not reached in the Isa-Kd group (95% CI: 52.172–NR) and was 50.6 months in Kd group (95% CI: 38.932–NR) (HR=0.855; 95% CI: 0.608–1.202).
+
 Newly Diagnosed Multiple Myeloma
 
 IMROZ

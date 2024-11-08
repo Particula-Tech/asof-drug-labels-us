@@ -62,12 +62,17 @@ Refer to the pomalidomide or lenalidomide prescribing information.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SARCLISA in pediatric patients have not been established.
+The safety and effectiveness of SARCLISA in pediatric patients have not been established.
+
+The safety and efficacy of SARCLISA in combination with chemotherapy were assessed, but not established, in an open-label study (ACT15378, ISAKIDS, NCT03860844) in 62 pediatric patients aged 1.4 years to < 17 years with relapsed or refractory T-acute lymphoblastic leukemia (T-ALL), B-acute lymphoblastic leukemia (B-ALL), or acute myeloid leukemia (AML).
+No new safety signals were observed in pediatric patients in this trial.
+
+Body weight adjusted clearance at steady state and volume of distribution of isatuximab in pediatric patients were within the range of values that were observed in adults.
 
 ## 8.5 Geriatric Use
 
 Of the total number of patients with relapsed or refractory multiple myeloma in clinical studies of SARCLISA, 56% (n=586) were 65 years of age and older, while 16% (n=163) were 75 years of age and older [see Clinical Studies (14)].
-No overall differences in safety or effectiveness were observed between patients 65 years of age and older compared to younger patients and other reported clinical experience has not identified differences in responses between the adults 65 years of age and older and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness were observed between patients 65 years of age and older compared to younger patients, and other reported clinical experience has not identified differences in responses between the adults 65 years of age and older and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Of the total number of SARCLISA-treated patients with newly diagnosed multiple myeloma in IMROZ, 72% (n=319) were less than 75 years of age and 28% (n=125) were 75 years of age and older.
 The clinical trial did not enroll patients over age 80 [see Clinical Studies (14)].

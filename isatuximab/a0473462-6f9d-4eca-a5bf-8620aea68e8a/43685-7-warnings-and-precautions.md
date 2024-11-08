@@ -51,7 +51,7 @@ In clinical trials (ICARIA-MM, IKEMA, and IMROZ), in patients treated with SARCL
 
 In ICARIA-MM, at a median follow-up time of 52 months, second primary malignancies occurred in 7% of patients in the Isa-Pd arm and in 2% of patients in the Pd arm.
 
-In ongoing IKEMA study, at a median follow-up time of 21 months, second primary malignancies occurred in 7% of patients in the Isa-Kd arm and in 4.9% of patients in the Kd arm.
+In IKEMA study, at a median follow-up time of 57 months, second primary malignancies occurred in 10% of patients in the Isa-Kd arm and in 8% of patients in the Kd arm.
 
 In IMROZ study, at a median follow-up time of 60 months, second primary malignancies occurred in 16% of patients in the Isa-VRd arm and in 9% of patients in the VRd arm.
 
@@ -65,6 +65,7 @@ Monitor patients for the development of second primary malignancies.
 Interference with Serological Testing (Indirect Antiglobulin Test)
 
 SARCLISA binds to CD38 on red blood cells (RBCs) and may result in a false positive indirect antiglobulin test (indirect Coombs test).
+This interference with the indirect Coombs test may persist for approximately 6 months after the last infusion of SARCLISA.
 The indirect antiglobulin test was positive during Isa-Pd treatment in 68% of the tested patients, and during Isa-Kd treatment in 63% of patients.
 In patients with a positive indirect antiglobulin test, blood transfusions were administered without evidence of hemolysis.
 ABO/RhD typing was not affected by SARCLISA treatment.

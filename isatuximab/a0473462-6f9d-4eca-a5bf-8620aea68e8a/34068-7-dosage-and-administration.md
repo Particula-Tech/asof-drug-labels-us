@@ -72,7 +72,7 @@ More than one SARCLISA vial may be necessary to obtain the required dose for the
 
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 - Remove the volume of diluent from the 250 mL Sodium Chloride Injection, or 5% Dextrose Injection, diluent bag that is equal to the required volume of SARCLISA injection.
-- Withdraw the necessary volume of SARCLISA injection from the vial and dilute by adding to the infusion bag of 0.9% Sodium Chloride Injection or 5% Dextrose Injection.
+- Withdraw the necessary volume of SARCLISA injection from the vial and dilute by adding to the infusion bag of 0.9% Sodium Chloride Injection, or 5% Dextrose Injection.
   Discard any unused portion left in the vial.
 - The infusion bag must be made of polyolefins (PO), polyethylene (PE), polypropylene (PP), polyvinyl chloride (PVC) with di-(2-ethylhexyl) phthalate (DEHP) or ethyl vinyl acetate (EVA).
 - Gently homogenize the diluted solution by inverting the bag.
