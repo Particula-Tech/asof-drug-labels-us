@@ -10,7 +10,7 @@ Storage and Handling
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from light.
+
 Store and dispense ONYDA XR in the original bottle.
 Dispense with bottle adapter and oral dosing dispenser supplied in the carton.
-For the bottles of 30 ml and 60 ml, discard any unused ONYDA XR remaining in the bottle after 30 days of first opening the bottle.
-For the 120 ml bottle, discard any unused ONYDA XR remaining in the bottle after 60 days of first opening the bottle.
+Discard any unused ONYDA XR remaining in the bottle after 60 days of first opening the bottle.

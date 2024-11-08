@@ -16,8 +16,7 @@ Advise patients to:
 - firmly insert the bottle adapter into the bottle and do not remove the bottle adapter once inserted.
   Use the oral dispenser provided with ONYDA XR.
 - gently shake ONYDA XR with a smooth up and down motion (to avoid foaming) for at least 10 seconds before each administration.
-- For the bottles of 30 ml and 60 ml, discard any unused ONYDA XR after 30 days of opening the bottle.
-- For the 120 ml bottle, discard any unused ONYDA XR after 60 days of opening the bottle.
+- discard any unused ONYDA XR after 60 days of opening the bottle.
 
 Missed Dose
 
@@ -63,4 +62,4 @@ www.trispharma.com
 LB8735
 
 Rev.
-03
+02
