@@ -59,7 +59,7 @@ Dihydroergotamine Mesylate Injection, USP should be discontinued immediately if 
 Significant elevation in blood pressure has been reported on rare occasions in patients with and without a history of hypertension treated with dihydroergotamine mesylate injection.
 Dihydroergotamine Mesylate Injection, USP is contraindicated in patients with uncontrolled hypertension (see CONTRAINDICATIONS).
 
-An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5-HT1 agonist in a study evaluating subjects undergoing cardiac catheterization.
+An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5-HT 1agonist in a study evaluating subjects undergoing cardiac catheterization.
 
 ## Medication Overuse Headache
 
@@ -109,11 +109,11 @@ Although the results of a clinical study did not indicate a safety problem assoc
 
 Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy.
 
-CYP3A4 Inhibitors (e.g., Macrolide Antibiotics and Protease Inhibitors) (see CONTRAINDICATIONS and WARNINGS)
+CYP3A4 Inhibitors (e.g., Macrolide Antibiotics and Protease Inhibitors)(see CONTRAINDICATIONSand WARNINGS)
 
 ### SSRI's
 
-Weakness, hyperreflexia, and incoordination have been reported rarely when 5-HT1 agonists have been co-administered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
+Weakness, hyperreflexia, and incoordination have been reported rarely when 5-HT 1agonists have been co-administered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI's and Dihydroergotamine Mesylate Injection, USP.
 
 ### Oral Contraceptives
@@ -125,7 +125,7 @@ The effect of oral contraceptives on the pharmacokinetics of Dihydroergotamine M
 ### Carcinogenesis
 
 In a 2-year mouse carcinogenicity study, subcutaneous (SC) administration of dihydroergotamine mesylate (0, 0.5, 1.5 or 5 mg/kg/day) resulted in an increased incidence of fibrosarcoma at the injection sites in males and females at the high dose.
-The higher dose not associated with an increase in tumors (1.5 mg/kg/day) is approximately 2 times the recommended human dose (RHD) of 3 mg/day SC on a body surface area (mg/m2) basis.
+The higher dose not associated with an increase in tumors (1.5 mg/kg/day) is approximately 2 times the recommended human dose (RHD) of 3 mg/day SC on a body surface area (mg/m 2) basis.
 
 In a 2-year rat carcinogenicity study, intranasal administration of dihydroergotamine mesylate (0, 0.4, 0.8 or 1.6 mg/day for 13 weeks, followed by 0, 0.08, 0.24 or 0.8 mg/day for the remainder of the study) did not result in an increase in tumors.
 
@@ -144,8 +144,7 @@ Intranasal administration of dihydroergotamine to rats at doses up to 1.6 mg/day
 Risk Summary
 
 Available data from published literature indicated an increased risk of preterm delivery with Dihydroergotamine Mesylate Injection, USP use during pregnancy.
-Avoid use of Dihydroergotamine Mesylate Injection, USP during pregnancy (see WARNINGS).
-Data collected over decades have shown no increased risk of major birth defects or miscarriage with the use of dihydroergotamine mesylate during pregnancy.
+Avoid use of Dihydroergotamine Mesylate Injection, USP during pregnancy (see WARNINGS).Data collected over decades have shown no increased risk of major birth defects or miscarriage with the use of dihydroergotamine mesylate during pregnancy.
 
 In animal reproduction studies, adverse effects on development were observed following intranasal administration of dihydroergotamine mesylate during pregnancy (decreased fetal body weight and/or skeletal ossification) in rats and rabbits or during pregnancy and lactation in rats (decreased body weight and impaired reproductive function in the offspring) at doses that were not associated with maternal toxicity (see Data).
 

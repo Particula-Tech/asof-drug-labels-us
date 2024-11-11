@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 1 mL Ampule Label
 
-NDC 81284-411-00 1 mL Ampule Rx only
+NDC 81284- 411-00 1 mL Ampule Rx only
 
 Dihydroergotamine
 
@@ -10,7 +10,7 @@ Mesylate Injection, USP
 
 # PRINCIPAL DISPLAY PANEL - 5 x 1 mL Ampules Carton Label
 
-NDC 81284-411-05 Sterile Rx only
+NDC 81284- 411-05 Sterile Rx only
 
 Dihydroergotamine
 
@@ -32,7 +32,7 @@ Life Solutions
 
 # PRINCIPAL DISPLAY PANEL - 10 x 1 mL Ampules Carton Label
 
-NDC 81284-411-10 Sterile Rx only
+NDC 81284- 411-10 Sterile Rx only
 
 Dihydroergotamine
 
