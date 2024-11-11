@@ -25,11 +25,11 @@ Read Before Starting
 
 Important Information
 
-| Important information you need to know before inhaling TYVASO DPI Inhalation Powder using the TYVASO DPI Inhaler | Take TYVASO DPI exactly as prescribed by your healthcare provider.Take TYVASO DPI 4 times per day while you are awake, about 4 hours apart.If you miss a dose, take it as soon as possible at your usual dose.If your prescribed dose is higher than 64 mcg per treatment session, you will need to use more than 1 cartridge. If using more than 1 cartridge, the cartridges can be used in any order, regardless of cartridge strength.If you need to use more than 1 cartridge for your dose, remove the used cartridge from the inhaler before getting a new one. You can tell a cartridge has been used when the cartridge cup has moved from the front to the middle position in the cartridge base.Only TYVASO DPI cartridges should be used with the TYVASO DPI Inhaler.Each cartridge is for 1 time (single use) only. Use a new cartridge for each treatment session. After each treatment session, throw away the used cartridge right away.Do not open the cartridges. The inhaler opens the cartridge automatically during use.Warning: If any powder from the cartridge spills on your hands, throw away the cartridge right away into regular household trash and wash your hands. Then start with a new cartridge.Do not breathe in the TYVASO DPI treprostinil powder in any other way.Do not put cartridges in your mouth.Do not swallow cartridges.Use only 1 inhaler at a time. The same inhaler should be used even when needing to use more than 1 cartridge for your dose. Inhale 1 cartridge at a time.The inhaler lasts for 7 days. After 7 days of use, throw away your used inhaler and get a new one.Store the inhaler in a clean, dry place with the mouthpiece cover on until your next dose. |
+| Important information you need to know before inhaling TYVASO DPI Inhalation Powder using the TYVASO DPI Inhaler | Take TYVASO DPI exactly as prescribed by your healthcare provider.Take TYVASO DPI 4 times per day while you are awake, about 4 hours apart.If you miss a dose, take it as soon as possible at your usual dose.If your prescribed dose is higher than 80 mcg per treatment session, you will need to use more than 1 cartridge. If using more than 1 cartridge, the cartridges can be used in any order, regardless of cartridge strength.If you need to use more than 1 cartridge for your dose, remove the used cartridge from the inhaler before getting a new one. You can tell a cartridge has been used when the cartridge cup has moved from the front to the middle position in the cartridge base.Only TYVASO DPI cartridges should be used with the TYVASO DPI Inhaler.Each cartridge is for 1 time (single use) only. Use a new cartridge for each treatment session. After each treatment session, throw away the used cartridge right away.Do not open the cartridges. The inhaler opens the cartridge automatically during use.Warning: If any powder from the cartridge spills on your hands, throw away the cartridge right away into regular household trash and wash your hands. Then start with a new cartridge.Do not breathe in the TYVASO DPI treprostinil powder in any other way.Do not put cartridges in your mouth.Do not swallow cartridges.Use only 1 inhaler at a time. The same inhaler should be used even when needing to use more than 1 cartridge for your dose. Inhale 1 cartridge at a time.The inhaler lasts for 7 days. After 7 days of use, throw away your used inhaler and get a new one.Store the inhaler in a clean, dry place with the mouthpiece cover on until your next dose. |
 | --- | --- |
-| TYVASO DPI cartridges come in 4 strengths (see Figure D). Important: Always make sure you have the right number of TYVASO DPI cartridges for your dose before you start. Only use TYVASO DPI cartridges with the TYVASO DPI Inhaler. |  |
+| TYVASO DPI cartridges come in 5 strengths (see Figure D). Important: Always make sure you have the right number of TYVASO DPI cartridges for your dose before you start. Only use TYVASO DPI cartridges with the TYVASO DPI Inhaler. |  |
 | Figure D |  |
-| If you are having problems with your TYVASO DPI Inhaler, have any side effects, or if your TYVASO DPI Inhaler breaks and you need a new one, please call 1-877-UNITHER (1-877-864-8437). |  |
+| If you are having problems with your TYVASO DPI Inhaler, have any side effects, or if your TYVASO DPI Inhaler breaks and you need a new one, please call 1-844-UNITHER (1-844-864-8437). |  |
 
 Storing TYVASO DPI Inhalers and Cartridges
 
@@ -42,12 +42,12 @@ Storing TYVASO DPI Inhalers and Cartridges
 
 Preparing to Inhale TYVASO DPI
 
-| Step 1: Select the TYVASO DPI cartridges for your dose (see Figure I) |  |  |  | Step 2: Tear off 1 strip |  | Step 3: Check the expiration date on the strip |
-| --- | --- | --- | --- | --- | --- | --- |
-| Select the TYVASO DPI cartridges for your dose (see Figure I). Note: If using more than 1 cartridge, the cartridges can be used in any order, regardless of cartridge strength. |  |  |  | Tear along the perforation to remove 1 strip from the blister card (see Figure J). | Figure J | Check the expiration date on the foil strip label (see Figure K). Do not use the cartridges if the Expiration Date on the strip has passed. |
-| If your prescribed TYVASO DPI dose is 16 mcg, use... | If your prescribed TYVASO DPI dose is 32 mcg, use... | If your prescribed TYVASO DPI dose is 48 mcg, use... | If your prescribed TYVASO DPI dose is 64 mcg, use... | Figure K |  |  |
-| If your prescribed TYVASO DPI dose is more than 64 mcg per treatment session, you will need to use more than 1 cartridge to get the right dose. Example: If your prescribed TYVASO DPI dose is 80 mcg per treatment session, you can use... |  |  |  |  |  |  |
-| Figure I |  |  |  |  |  |  |
+| Step 1: Select the TYVASO DPI cartridges for your dose (see Figure I) |  |  |  |  | Step 2: Tear off 1 strip |  | Step 3: Check the expiration date on the strip |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Select the TYVASO DPI cartridges for your dose (see Figure I). Note: If using more than 1 cartridge, the cartridges can be used in any order, regardless of cartridge strength. |  |  |  |  | Tear along the perforation to remove 1 strip from the blister card (see Figure J). | Figure J | Check the expiration date on the foil strip label (see Figure K). Do not use the cartridges if the Expiration Date on the strip has passed. |
+| If your prescribed TYVASO DPI dose is 16 mcg, use... | If your prescribed TYVASO DPI dose is 32 mcg, use... | If your prescribed TYVASO DPI dose is 48 mcg, use... | If your prescribed TYVASO DPI dose is 64 mcg, use... | If your prescribed TYVASO DPI dose is 80 mcg, use... | Figure K |  |  |
+| If your prescribed TYVASO DPI dose is more than 80 mcg per treatment session, you will need to use more than 1 cartridge to get the right dose. Example: If your prescribed TYVASO DPI dose is 96 mcg per treatment session, you can use... |  |  |  |  |  |  |  |
+| Figure I |  |  |  |  |  |  |  |
 
 | Step 4: Remove cartridge(s) from strip |  |  |  |  | Step 5: Check supplies before continuing |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -103,21 +103,21 @@ Inhaling Multiple Cartridges of TYVASO DPI
 | Step 10: Inhaling multiple cartridges (skip if not needed) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | If your dose requires you to inhale multiple cartridges, repeat steps 6 through 9 for each cartridge. |  | Warning: Be careful not to mix NEW cartridges with used cartridges (see Figure AG). |  |  |
-| Example: If your prescribed TYVASO DPI dose is 80 mcg per treatment session, you can use one 32 mcg cartridge and one 48 mcg cartridge (see Figure AF): |  |  |  |  |
+| Example: If your prescribed TYVASO DPI dose is 96 mcg per treatment session, you can use one 32 mcg cartridge and one 64 mcg cartridge (see Figure AF): |  |  |  |  |
 |  |  |  | The cup moves to the middle of the cartridge when it has been used. |  |
 | Figure AF |  |  | Figure AG |  |
 
 | Caring for Your TYVASO DPI Inhaler |  | Disposing of Your TYVASO DPI Inhaler |  |
 | --- | --- | --- | --- |
 | Inhaler Care Instructions |  | Throw away used inhaler after 7 days of use |  |
-| Cleaning After taking your dose, powder residue in the mouthpiece is normal; this will not affect your dose. | Use Time Only use 1 inhaler at a time. The same inhaler can be used to take 16 mcg, 32 mcg, 48 mcg, or 64 mcg cartridges. | After 7 days of use, throw away the used inhaler in your regular household trash (see Figure AH and Figure AI). |  |
+| Cleaning After taking your dose, powder residue in the mouthpiece is normal; this will not affect your dose. | Use Time Only use 1 inhaler at a time. The same inhaler can be used to take 16 mcg, 32 mcg, 48 mcg, 64 mcg, or 80 mcg cartridges. | After 7 days of use, throw away the used inhaler in your regular household trash (see Figure AH and Figure AI). |  |
 | The outside of the inhaler can be wiped with a clean, dry cloth only, if needed. Never wash the inhaler. Always keep the inhaler dry. | Replace the inhaler after 7 days (see Figure AH and Figure AI). Keep track of 7 days from when you start using the inhaler with a calendar. | Figure AI |  |
 |  | Figure AH |  |  |
 
-For further questions and information, or to report a problem with your device or any side effects with your TYVASO DPI, please call 1-877-UNITHER (1-877-864-8437).
+For further questions and information, or to report a problem with your device or any side effects with your TYVASO DPI, please call 1-844-UNITHER (1-844-864-8437).
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: November 2023
+Revised: October 2024
 
 TYVASO DPI® is a registered trademark of United Therapeutics Corporation.
 
@@ -127,4 +127,4 @@ Distributed by: United Therapeutics Corporation Research Triangle Park, NC 27709
 
 Manufactured by: MannKind Corporation Danbury, CT 06810 USA
 
-11/2023 30-1311-006-02
+10/2024 30-1311-006-03

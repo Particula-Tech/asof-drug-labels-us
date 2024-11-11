@@ -1,13 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tyvaso DPI (treprostinil) inhalation powder is available as 16 mcg, 32 mcg, 48 mcg, or 64 mcg of treprostinil in single-dose plastic cartridges with approximate fill weights of 1.6 mg, 3.2 mg, 4.8 mg, or 6.4 mg of Tyvaso DPI, respectively.
+Tyvaso DPI (treprostinil) inhalation powder is available as 16 mcg, 32 mcg, 48 mcg, 64 mcg, or 80 mcg of treprostinil in single-dose plastic cartridges with approximate fill weights of 1.6 mg, 3.2 mg, 4.8 mg, 6.4 mg, or 8.0 mg of Tyvaso DPI, respectively.
 Four cartridges are contained in a single cavity of a blister strip.
 A card contains 7 blister strips separated by perforations for a total of 28 cartridges of each labeled strength in Titration and Maintenance Kits.
 For convenience, the perforation allows users to remove a single blister strip containing 4 cartridges.
 The Institutional Kits contain 4 blister strips for a total of 16 cartridges of each labeled strength.
 
-The cartridges are color-coded, purple for 16 mcg, dark blue for 32 mcg, light blue for 48 mcg, and light green for 64 mcg.
-Each cartridge is marked with "Tyvaso DPI" and the corresponding dosage strength of "16 mcg", "32 mcg", "48 mcg", or "64 mcg".
+The cartridges are color-coded, purple for 16 mcg, dark blue for 32 mcg, light blue for 48 mcg, light green for 64 mcg, and orange for 80 mcg.
+Each cartridge is marked with "Tyvaso DPI" and the corresponding dosage strength of "16 mcg", "32 mcg", "48 mcg", "64 mcg", or "80 mcg".
 
 The Tyvaso DPI Inhaler is individually packaged in a clear overwrap.
 The inhaler is fully assembled with a removable mouthpiece cover.
@@ -28,6 +28,7 @@ Tyvaso DPI is available in the following configurations:
 | 66302-632-03 | 112 cartridges, each containing 32 mcg per cartridge | 5 |  |
 | 66302-648-03 | 112 cartridges, each containing 48 mcg per cartridge | 5 |  |
 | 66302-664-03 | 112 cartridges, each containing 64 mcg per cartridge | 5 |  |
+| 66302-680-03 | 112 cartridges, each containing 80 mcg per cartridge | 5 |  |
 | 66302-620-03 | 112 cartridges, each containing 32 mcg per cartridge | 5 |  |
 | 112 cartridges, each containing 48 mcg per cartridge |  |  |  |
 | 66302-630-03 | 112 cartridges, each containing 32 mcg per cartridge | 5 |  |
@@ -41,6 +42,7 @@ Tyvaso DPI is available in the following configurations:
 | 66302-732-04 | 16 cartridges, each containing 32 mcg per cartridge | 2 |  |
 | 66302-748-04 | 16 cartridges, each containing 48 mcg per cartridge | 2 |  |
 | 66302-764-04 | 16 cartridges, each containing 64 mcg per cartridge | 2 |  |
+| 66302-780-04 | 16 cartridges, each containing 80 mcg per cartridge | 2 |  |
 | 66302-720-04 | 16 cartridges, each containing 32 mcg per cartridge | 2 |  |
 | 16 cartridges, each containing 48 mcg per cartridge |  |  |  |
 

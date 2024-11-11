@@ -7,7 +7,7 @@ Tyvaso DPI is administered using a single inhalation per cartridge.
 Administer Tyvaso DPI in 4 separate, equally spaced treatment sessions per day, during waking hours.
 The treatment sessions should be approximately 4 hours apart.
 
-If the prescribed dose is higher than 64 mcg per treatment session, more than 1 cartridge will be needed per session.
+If the prescribed dose is higher than 80 mcg per treatment session, more than 1 cartridge will be needed per session.
 Patients should follow the instructions for use for operation and care of the Tyvaso DPI Inhaler.
 
 Do not use the Tyvaso DPI Inhaler with other medications.
@@ -41,4 +41,5 @@ The following regimens of Tyvaso DPI and Tyvaso give similar exposure:
 | 16 mcg | ≤5 (≤30 mcg) |
 | 32 mcg | 6 to 7 (36 to 42 mcg) |
 | 48 mcg | 8 to 10 (48 to 60 mcg) |
-| 64 mcg | 11 to 12 (66 to 72 mcg) |
+| 64 mcg | 11 to 13 (66 to 78 mcg) |
+| 80 mcg | 14 to 15 (84 to 90 mcg) |
