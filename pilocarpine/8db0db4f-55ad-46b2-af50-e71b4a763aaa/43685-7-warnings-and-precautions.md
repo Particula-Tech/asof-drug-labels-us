@@ -45,16 +45,16 @@ Child-Pugh scoring system for Hepatic Impairment
 | Clinical and Biochemical Measurements | Points Scored for Increasing Abnormality |  |  |
 | --- | --- | --- | --- |
 |  | 1 | 2 | 3 |
-| Encephalopathy (grade)According to grading of Trey C, Burns D, and Saunders S. Treatment of hepatic coma by exchange blood transfusion. N Engl J Med. 1966; 274:473-481. | None | 1 and 2 | 3 and 4 |
+| Encephalopathy (grade)According to grading of Trey, Burns, and Saunders (1966) | None | 1 and 2 | 3 and 4 |
 | Ascites | Absent | Slight | Moderate |
-| Bilirubin (mg. Per 100 ml.) | 1-2 | 2-3 | >3 |
+| Bilirubin (mg. per 100 ml.) | 1-2 | 2-3 | >3 |
 | Albumin (g. per 100 ml.) | 3-5 | 2.8-3.5 | <2.8 |
 | Prothrombin time (sec. Prolonged) | 1-4 | 4-6 | >6 |
-| For primary biliary cirrhosis:- Bilirubin (mg. Per 100 ml.) | 1-4 | 4-10 | >10 |
+| For primary biliary cirrhosis:- Bilirubin (mg. per 100 ml.) | 1-4 | 4-10 | >10 |
 
-Reference: Pugh, RNH, Murray-Lyon, IM, Dawson, JL Pietroni, MC, Williams, R. Transection of the Oesophagus for Bleeding Oesophageal Varices, Brit.
-J. Surg.
-1973;60:646-9.
+Reference: Pugh, R.N.H., Murray-Lyon, I.M., Dawson, J.L.
+Pietroni, M.C., Williams, R. 1973, Transection of the Oesophagus for Bleeding Oesophageal Varices, Brit.
+J. Surg., 60:646-9.
 
 ## Information for Patients:
 

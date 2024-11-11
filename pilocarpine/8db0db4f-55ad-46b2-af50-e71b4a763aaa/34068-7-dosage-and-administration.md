@@ -8,8 +8,8 @@ If needed, refer to the Hepatic Insufficiency subsection of the Precautions sect
 ## Head & Neck Cancer Patients:
 
 The recommended initial dose of pilocarpine hydrochloride tablets is 5 mg taken three times a day.
-Dosage should be titrated according to therapeutic response and tolerance.
-The usual dosage range is up to 15-30 mg per day.
+Dosage should be titrated according to therapeutic response and tolerability.
+The usual dosage range is 15-30 mg per day.
 (Not to exceed 10 mg per dose.)
 Although early improvement may be realized, at least 12 weeks of uninterrupted therapy with pilocarpine hydrochloride tablets may be necessary to assess whether a beneficial response will be achieved.
 The incidence of the most common adverse events increases with dose.
@@ -17,5 +17,5 @@ The lowest dose that is tolerated and effective should be used for maintenance.
 
 ## Sjogren's Syndrome Patients:
 
-The recommended dose of pilocarpine hydrochloride tablets is 5 mg taken four times a day.
+The recommended dose of pilocarpine hydrochloride tablets is one tablet (5 mg) taken four times a day.
 Efficacy was established by 6 weeks of use.
