@@ -1,175 +1,182 @@
-# Patient Information SILDENAFIL CITRATE TABLETS (sildenafil citrate) Tablets
+# Patient Information
 
-What is the most important information I should know about SILDENAFIL CITRATE TABLETS?
+SILDENAFIL CITRATE TABLETS (sildenafil citrate) Tablets
 
-SILDENAFIL CITRATE TABLETS can cause your blood pressure to drop suddenly to an unsafe level if it is taken with certain other medicines.
-Do not take SILDENAFIL CITRATE TABLETS if you take any other medicines called "nitrates."
+What is the most important information I should know about sildenafil citrate tablets?
+
+Sildenafil citrate tablets can cause your blood pressure to drop suddenly to an unsafe level if it is taken with certain other medicines.
+Do not take sildenafil citrate tablets if you take any other medicines called “nitrates”.
 Nitrates are used to treat chest pain (angina).
 A sudden drop in blood pressure can cause you to feel dizzy, faint, or have a heart attack or stroke.
 
-Do not take SILDENAFIL CITRATE TABLETS if you take medicines called guanylate cyclase stimulators which include:
+Do not take sildenafil citrate tablets if you take medicines called guanylate cyclase stimulators which include:
 
-1. 1.Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
+- •Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
 
-Tell all your healthcare providers that you take SILDENAFIL CITRATE TABLETS.
-If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took SILDENAFIL CITRATE TABLETS.
+Tell all your healthcare providers that you take sildenafil citrate tablets.
+If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took sildenafil citrate tablets.
 
 Stop sexual activity and get medical help right away if you get symptoms such as chest pain, dizziness, or nausea during sex.
 
 Sexual activity can put an extra strain on your heart, especially if your heart is already weak from a heart attack or heart disease.
 Ask your doctor if your heart is healthy enough to handle the extra strain of having sex.
 
-SILDENAFIL CITRATE TABLETS does not protect you or your partner from getting sexually transmitted diseases, including HIV—the virus that causes AIDS.
+Sildenafil citrate tablets does not protect you or your partner from getting sexually transmitted diseases, including HIV—the virus that causes AIDS.
 
-What is SILDENAFIL CITRATE TABLETS?
+What are sildenafil citrate tablets?
 
-SILDENAFIL CITRATE TABLETS is a prescription medicine used to treat erectile dysfunction (ED).
+Sildenafil citrate tablets are a prescription medicine used to treat erectile dysfunction (ED).
 You will not get an erection just by taking this medicine.
-SILDENAFIL CITRATE TABLETS helps a man with erectile dysfunction get and keep an erection only when he is sexually excited (stimulated).
+Sildenafil citrate tablets helps a man with erectile dysfunction get and keep an erection only when he is sexually excited (stimulated).
 
-SILDENAFIL CITRATE TABLETS is not for use in women or children.
+Sildenafil citrate tablets are not for use in women or children.
 
-It is not known if SILDENAFIL CITRATE TABLETS is safe and effective in women or children under 18 years of age.
+It is not known if sildenafil citrate tablets are safe and effective in women or children under 18 years of age.
 
-Who should not take SILDENAFIL CITRATE TABLETS?
+Who should not take sildenafil citrate tablets?
 
-Do not take SILDENAFIL CITRATE TABLETS if you:
+Do not take sildenafil citrate tablets if you:
 
-1. 1.take medicines called nitrates (such as nitroglycerin)
-2. 2.use street drugs called "poppers" such as amyl nitrate or amyl nitrite, and butyl nitrate
-3. 3.take any medicines called guanylate cyclase stimulators such as riociguat (Adempas)
-4. 4.are allergic to sildenafil, as contained in SILDENAFIL CITRATE TABLETS and REVATIO, or any of the ingredients in SILDENAFIL CITRATE TABLETS.
-   See the end of this leaflet for a complete list of ingredients in SILDENAFIL CITRATE TABLETS.
+- •take medicines called nitrates (such as nitroglycerin)
+- •use street drugs called “poppers” such as amyl nitrate or amyl nitrite, and butyl nitrate
+- •take any medicines called guanylate cyclase stimulators such as riociguat (Adempas)
+- •are allergic to sildenafil, as contained in sildenafil citrate tablets and REVATIO, or any of the ingredients in sildenafil citrate tablets.
+  See the end of this leaflet for a complete list of ingredients in sildenafil citrate tablets.
 
-What should I tell my healthcare provider before taking SILDENAFIL CITRATE TABLETS?
+What should I tell my healthcare provider before taking sildenafil citrate tablets?
 
-Before you take SILDENAFIL CITRATE TABLETS, tell your healthcare provider if you:
+Before you take sildenafil citrate tablets, tell your healthcare provider if you:
 
-1. 1.have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
-2. 2.have had heart surgery within the last 6 months
-3. 3.have pulmonary hypertension
-4. 4.have had a stroke
-5. 5.have low blood pressure, or high blood pressure that is not controlled
-6. 6.have a deformed penis shape
-7. 7.have had an erection that lasted for more than 4 hours
-8. 8.have problems with your blood cells such as sickle cell anemia, multiple myeloma, or leukemia
-9. 9.have retinitis pigmentosa, a rare genetic (runs in families) eye disease
-10. 10.have ever had severe vision loss, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION)
-11. 11.have bleeding problems
-12. 12.have or have had stomach ulcers
-13. 13.have liver problems
-14. 14.have kidney problems or are having kidney dialysis
-15. 15.have any other medical conditions
+- •have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
+- •have had heart surgery within the last 6 months
+- •have pulmonary hypertension
+- •have had a stroke
+- •have low blood pressure, or high blood pressure that is not controlled
+- •have a deformed penis shape
+- •have had an erection that lasted for more than 4 hours
+- •have problems with your blood cells such as sickle cell anemia, multiple myeloma, or leukemia
+- •have retinitis pigmentosa, a rare genetic (runs in families) eye disease
+- •have ever had severe vision loss, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION)
+- •have bleeding problems
+- •have or have had stomach ulcers
+- •have liver problems
+- •have kidney problems or are having kidney dialysis
+- •have any other medical conditions
 
-Tell your healthcare provider about all the medicines you takeThe other brands listed are trademarks of their respective owners and are not trademarks of Pfizer Inc. The makers of these brands are not affiliated with and do not endorse Pfizer Inc or its products., including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take*, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-SILDENAFIL CITRATE TABLETS may affect the way other medicines work, and other medicines may affect the way SILDENAFIL CITRATE TABLETS works causing side effects.
+Sildenafil citrate tablets may affect the way other medicines work, and other medicines may affect the way Sildenafil citrate tablets works causing side effects.
 Especially tell your healthcare provider if you take any of the following:
 
-1. 1.medicines called nitrates (see "What is the most important information I should know about SILDENAFIL CITRATE TABLETS?")
-2. 2.medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
-3. 3.medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
-   Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
-   In some patients, the use of SILDENAFIL CITRATE TABLETS with alpha-blockers can lead to a drop in blood pressure or to fainting.
-4. 4.medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
-5. 5.some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconazole (Sporanox)
-6. 6.some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
-7. 7.other medicines that treat high blood pressure
-8. 8.other medicines or treatments for ED
-9. 9.SILDENAFIL CITRATE TABLETS contains sildenafil, which is the same medicine found in another drug called SILDENAFIL TABLETS.
-   SILDENAFIL TABLETS is used to treat a rare disease called pulmonary arterial hypertension (PAH).
-   SILDENAFIL CITRATE TABLETS should not be used with SILDENAFIL TABLETS or with other PAH treatments containing sildenafil or any other PDE5 inhibitors (such as Adcirca [tadalafil]).
+- •medicines called nitrates (see “What is the most important information I should know about sildenafil citrate tablets?”)
+- •medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
+- •medicines called alpha-blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
+  Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
+  In some patients, the use of sildenafil citrate tablets with alpha-blockers can lead to a drop in blood pressure or to fainting.
+- •medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
+- •some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconazole (Sporanox)
+- •some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
+- •other medicines that treat high blood pressure
+- •other medicines or treatments for ED
+- •Sildenafil citrate tablets contain sildenafil, which is the same medicine found in another drug called sildenafil tablets.
+  Sildenafil tablets are used to treat a rare disease called pulmonary arterial hypertension (PAH).
+  Sildenafil citrate tablets should not be used with sildenafil tablets or with other PAH treatments containing sildenafil or any other PDE5 inhibitors (such as Adcirca [tadalafil]).
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
 
 Know the medicines you take.
 Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take SILDENAFIL CITRATE TABLETS?
+How should I take sildenafil citrate tablets?
 
-1. 1.Take SILDENAFIL CITRATE TABLETS exactly as your healthcare provider tells you to take it.
-2. 2.Your healthcare provider will tell you how much SILDENAFIL CITRATE TABLETS to take and when to take it.
-3. 3.Your healthcare provider may change your dose if needed.
-4. 4.Take SILDENAFIL CITRATE TABLETS about 1 hour before sexual activity.
-   You may take SILDENAFIL CITRATE TABLETS between 30 minutes to 4 hours before sexual activity if needed.
-5. 5.SILDENAFIL CITRATE TABLETS can be taken with or without food.
-   If you take SILDENAFIL CITRATE TABLETS after a high fat meal (such as a cheeseburger and french fries), SILDENAFIL CITRATE TABLETS may take a little longer to start working
-6. 6.Do not take SILDENAFIL CITRATE TABLETS more than 1 time a day.
-7. 7.If you accidentally take too much SILDENAFIL CITRATE TABLETS, call your doctor or go to the nearest hospital emergency room right away.
+- •Take sildenafil citrate tablets exactly as your healthcare provider tells you to take it.
+- •Your healthcare provider will tell you how much sildenafil citrate tablets to take and when to take it.
+- •Your healthcare provider may change your dose if needed.
+- •Take sildenafil citrate tablets about 1 hour before sexual activity.
+  You may take sildenafil citrate tablets between 30 minutes to 4 hours before sexual activity if needed.
+- •Sildenafil citrate tablets can be taken with or without food.
+  If you take sildenafil citrate tablets after a high fat meal (such as a cheeseburger and french fries), sildenafil citrate tablets may take a little longer to start working.
+- •Do not take sildenafil citrate tablets more than 1 time a day.
+- •If you accidentally take too much sildenafil citrate tablets, call your doctor or go to the nearest hospital emergency room right away.
 
-What are the possible side effects of SILDENAFIL CITRATE TABLETS?
+What are the possible side effects of sildenafil citrate tablets?
 
-SILDENAFIL CITRATE TABLETS can cause serious side effects.
+Sildenafil citrate tablets can cause serious side effects.
 Rarely reported side effects include:
 
-1. 1.an erection that will not go away (priapism).
-   If you have an erection that lasts more than 4 hours, get medical help right away.
-   If it is not treated right away, priapism can permanently damage your penis.
-2. 2.sudden vision loss in one or both eyes.
-   Sudden vision loss in one or both eyes can be a sign of a serious eye problem called non-arteritic anterior ischemic optic neuropathy (NAION).
-   It is uncertain whether PDE5 inhibitors directly cause the vision loss.
-   Stop taking SILDENAFIL CITRATE TABLETS and call your healthcare provider right away if you have sudden vision loss in one or both eyes.
-3. 3.sudden hearing decrease or hearing loss.
-   Some people may also have ringing in their ears (tinnitus) or dizziness.
-   If you have these symptoms, stop taking SILDENAFIL CITRATE TABLETS and contact a doctor right away.
+- •an erection that will not go away (priapism).
+  If you have an erection that lasts more than 4 hours, get medical help right away.
+  If it is not treated right away, priapism can permanently damage your penis.
+- •sudden vision loss in one or both eyes.
+  Sudden vision loss in one or both eyes can be a sign of a serious eye problem called non-arteritic anterior ischemic optic neuropathy (NAION).
+  It is uncertain whether PDE5 inhibitors directly cause the vision loss.
+  Stop taking sildenafil citrate tablets and call your healthcare provider right away if you have sudden vision loss in one or both eyes.
+- •sudden hearing decrease or hearing loss.
+  Some people may also have ringing in their ears (tinnitus) or dizziness.
+  If you have these symptoms, stop taking sildenafil citrate tablets and contact a doctor right away.
 
-The most common side effects of SILDENAFIL CITRATE TABLETS are:
+The most common side effects of sildenafil citrate tablets are:
 
-1. 1.headache
-2. 2.flushing
-3. 3.upset stomach
-4. 4.abnormal vision, such as changes in color vision (such as having a blue color tinge) and blurred vision
-5. 5.stuffy or runny nose
-6. 6.back pain
-7. 7.muscle pain
-8. 8.nausea
-9. 9.dizziness
-10. 10.rash
+- •headache
+- •flushing
+- •upset stomach
+- •abnormal vision, such as changes in color vision (such as having a blue color tinge) and blurred vision
+- •stuffy or runny nose
+- •back pain
+- •muscle pain
+- •nausea
+- •dizziness
+- •rash
 
-In addition, heart attack, stroke, irregular heartbeats and death have happened rarely in men taking SILDENAFIL CITRATE TABLETS.
-Most, but not all, of these men had heart problems before taking SILDENAFIL CITRATE TABLETS.
-It is not known if SILDENAFIL CITRATE TABLETS caused these problems.
+In addition, heart attack, stroke, irregular heartbeats and death have happened rarely in men taking sildenafil citrate tablets.
+Most, but not all, of these men had heart problems before taking sildenafil citrate tablets.
+It is not known if sildenafil citrate tablets caused these problems.
 
 Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
-These are not all the possible side effects of SILDENAFIL CITRATE TABLETS.
+These are not all the possible side effects of sildenafil citrate tablets.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1- 800-FDA-1088.
 
-How should I store SILDENAFIL CITRATE TABLETS?
+How should I store sildenafil citrate tablets?
 
-1. 1.Store SILDENAFIL CITRATE TABLETS at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Store sildenafil citrate tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 
-Keep SILDENAFIL CITRATE TABLETS and all medicines out of the reach of children.
+Keep sildenafil citrate tablets and all medicines out of the reach of children.
 
-General information about the safe and effective use of SILDENAFIL CITRATE TABLETS.
+General information about the safe and effective use of sildenafil citrate tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use SILDENAFIL CITRATE TABLETS for a condition for which it was not prescribed.
-Do not give SILDENAFIL CITRATE TABLETS to other people, even if they have the same symptoms that you have.
+Do not use sildenafil citrate tablets for a condition for which it was not prescribed.
+Do not give sildenafil citrate tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about SILDENAFIL CITRATE TABLETS.
+This Patient Information leaflet summarizes the most important information about sildenafil citrate tablets.
 If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about SILDENAFIL CITRATE TABLETS that is written for health professionals.
+You can ask your healthcare provider or pharmacist for information about sildenafil citrate tablets that is written for health professionals.
 
-For more information, go to www.greenstonellc.com, or call 1-800-438-1985
+For more information call Viatris at 1-877-446-3679 (1-877-4-INFO-RX).
 
-What are the ingredients in SILDENAFIL CITRATE TABLETS?
+What are the ingredients in sildenafil citrate tablets?
 
-Active ingredient: Sildenafil citrate
+Active ingredient: sildenafil citrate
 
-Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, lactose and triacetin.
+Inactive ingredients: anhydrous dibasic calcium phosphate, croscarmellose sodium, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin
+
+GREENSTONE® BRAND Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2024 Viatris Inc.
+
+The brands listed are trademarks of their respective owners.
+
+Viagra (sildenafil citrate), Revatio (sildenafil) and Cardura (doxazosin mesylate) are registered trademarks of Viatris Inc.
+
+*The other brands listed are trademarks of their respective owners and are not trademarks of Viatris Inc. The makers of these brands are not affiliated with and do not endorse Viatris Inc or its products.
+
+GST:PL:SILD:R1
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com.
-
-Cardura (doxazosin mesylate), and Minipress (prazosin HCl) are registered trademarks of Pfizer Inc.
-
-LAB-0898-2.0
-
-Revised: 09/2017
+Revised: 8/2024

@@ -1,20 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Nitrates
 
-Physicians should discuss with patients the contraindication of SILDENAFIL CITRATE TABLETS with regular and/or intermittent use of nitric oxide donors, such as organic nitrates or organic nitrites in any form [see Contraindications (4.1)].
+Physicians should discuss with patients the contraindication of sildenafil citrate tablets with regular and/or intermittent use of nitric oxide donors, such as organic nitrates or organic nitrites in any form [see Contraindications (4.1)].
 
 Guanylate Cyclase (GC) Stimulators
 
-Physicians should discuss with patients the contraindication of SILDENAFIL CITRATE TABLETS with use of guanylate cyclase stimulators such as riociguat [see Contraindications (4.3)].
+Physicians should discuss with patients the contraindication of sildenafil citrate tablets with use of guanylate cyclase stimulators such as riociguat [see Contraindications (4.3)].
 
 Concomitant Use with Drugs Which Lower Blood Pressure
 
-Physicians should advise patients of the potential for SILDENAFIL CITRATE TABLETS to augment the blood pressure lowering effect of alpha-blockers and anti-hypertensive medications.
-Concomitant administration of SILDENAFIL CITRATE TABLETS and an alpha-blocker may lead to symptomatic hypotension in some patients.
-Therefore, when SILDENAFIL CITRATE TABLETS are co-administered with alpha-blockers, patients should be stable on alpha-blocker therapy prior to initiating SILDENAFIL CITRATE TABLETS treatment and SILDENAFIL CITRATE TABLETS should be initiated at the lowest dose [see Warnings and Precautions (5.5)].
+Physicians should advise patients of the potential for sildenafil citrate tablets to augment the blood pressure lowering effect of alpha-blockers and anti-hypertensive medications.
+Concomitant administration of sildenafil citrate tablets and an alpha-blocker may lead to symptomatic hypotension in some patients.
+Therefore, when sildenafil citrate tablets are co-administered with alpha-blockers, patients should be stable on alpha-blocker therapy prior to initiating sildenafil citrate tablets treatment and sildenafil citrate tablets should be initiated at the lowest dose [see Warnings and Precautions (5.5)].
 
 Cardiovascular Considerations
 
@@ -23,14 +23,14 @@ Patients who experience symptoms (e.g., angina pectoris, dizziness, nausea) upon
 
 Sudden Loss of Vision
 
-Physicians should advise patients to stop use of all PDE5 inhibitors, including SILDENAFIL CITRATE TABLETS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
+Physicians should advise patients to stop use of all PDE5 inhibitors, including sildenafil citrate tablets, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
 Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including possible permanent loss of vision, that has been reported rarely post-marketing in temporal association with the use of all PDE5 inhibitors.
 Physicians should discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye.
-Physicians should also discuss with patients the increased risk of NAION among the general population in patients with a "crowded" optic disc, although evidence is insufficient to support screening of prospective users of PDE5 inhibitor, including SILDENAFIL CITRATE TABLETS, for this uncommon condition [see Warnings and Precautions (5.3) and Adverse Reactions (6.2)].
+Physicians should also discuss with patients the increased risk of NAION among the general population in patients with a “crowded” optic disc, although evidence is insufficient to support screening of prospective users of PDE5 inhibitor, including sildenafil citrate tablets, for this uncommon condition [see Warnings and Precautions (5.3) and Adverse Reactions (6.2)].
 
 Sudden Hearing Loss
 
-Physicians should advise patients to stop taking PDE5 inhibitors, including SILDENAFIL CITRATE TABLETS, and seek prompt medical attention in the event of sudden decrease or loss of hearing.
+Physicians should advise patients to stop taking PDE5 inhibitors, including sildenafil citrate tablets, and seek prompt medical attention in the event of sudden decrease or loss of hearing.
 These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including sildenafil citrate.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
 
@@ -42,11 +42,19 @@ If priapism is not treated immediately, penile tissue damage and permanent loss 
 
 Avoid Use with other PDE5 Inhibitors
 
-Physicians should inform patients not to take SILDENAFIL CITRATE TABLETS with other PDE5 inhibitors including VIAGRA (for treatment of erectile dysfunction), REVATIO or other pulmonary arterial hypertension (PAH) treatments containing sildenafil.
+Physicians should inform patients not to take sildenafil citrate tablets with other PDE5 inhibitors including VIAGRA (for treatment of erectile dysfunction), REVATIO or other pulmonary arterial hypertension (PAH) treatments containing sildenafil.
 Sildenafil is also marketed as VIAGRA for the treatment of erectile dysfunction and REVATIO for the treatment of PAH.
-The safety and efficacy of SILDENAFIL CITRATE TABLETS with other PDE5 inhibitors, including REVATIO, have not been studied [see Warnings and Precautions (5.7)].
+The safety and efficacy of sildenafil citrate tablets with other PDE5 inhibitors, including REVATIO, have not been studied [see Warnings and Precautions (5.7)].
 
 Sexually Transmitted Disease
 
-The use of SILDENAFIL CITRATE TABLETS offers no protection against sexually transmitted diseases.
+The use of sildenafil citrate tablets offers no protection against sexually transmitted diseases.
 Counseling of patients about the protective measures necessary to guard against sexually transmitted diseases, including the Human Immunodeficiency Virus (HIV), may be considered [see Warnings and Precautions (5.9)].
+
+GREENSTONE® BRAND Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2024 Viatris Inc.
+
+The brands listed are trademarks of their respective owners.
+
+GST:SILD:R1

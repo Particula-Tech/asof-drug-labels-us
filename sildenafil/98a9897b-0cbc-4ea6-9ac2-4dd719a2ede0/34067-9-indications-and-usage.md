@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-SILDENAFIL CITRATE TABLETS is indicated for the treatment of erectile dysfunction.
+Sildenafil citrate tablets are indicated for the treatment of erectile dysfunction.

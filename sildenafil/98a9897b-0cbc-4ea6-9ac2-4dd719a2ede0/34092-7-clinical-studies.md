@@ -36,7 +36,7 @@ The patients in studies had varying degrees of ED.
 One-third to one-half of the subjects in these studies reported successful intercourse at least once during a 4-week, treatment-free run-in period.
 
 In many of the studies, of both fixed dose and titration designs, daily diaries were kept by patients.
-In these studies, involving about 1600 patients, analyses of patient diaries showed no effect of sildenafil citrate on rates of attempted intercourse (about 2 per week), but there was clear treatment-related improvement in sexual function: per patient weekly success rates averaged 1.3 on 50–100 mg of sildenafil citrate vs 0.4 on placebo; similarly, group mean success rates (total successes divided by total attempts) were about 66% on sildenafil citrate vs about 20% on placebo.
+In these studies, involving about 1600 patients, analyses of patient diaries showed no effect of sildenafil citrate on rates of attempted intercourse (about 2 per week), but there was clear treatment-related improvement in sexual function: per patient weekly success rates averaged 1.3 on 50-100 mg of sildenafil citrate vs 0.4 on placebo; similarly, group mean success rates (total successes divided by total attempts) were about 66% on sildenafil citrate vs about 20% on placebo.
 
 During 3 to 6 months of double-blind treatment or longer-term (1 year), open-label studies, few patients withdrew from active treatment for any reason, including lack of effectiveness.
 At the end of the long-term study, 88% of patients reported that sildenafil citrate improved their erections.
@@ -63,4 +63,5 @@ Diary data in two of the studies (n=178) showed rates of successful intercourse 
 
 Efficacy Results in Subpopulations in Controlled Clinical Studies
 
-A review of population subgroups demonstrated efficacy regardless of baseline severity, etiology, race and age. sildenafil citrate was effective in a broad range of ED patients, including those with a history of coronary artery disease, hypertension, other cardiac disease, peripheral vascular disease, diabetes mellitus, depression, coronary artery bypass graft (CABG), radical prostatectomy, transurethral resection of the prostate (TURP) and spinal cord injury, and in patients taking antidepressants/antipsychotics and anti-hypertensives/diuretics.
+A review of population subgroups demonstrated efficacy regardless of baseline severity, etiology, race and age.
+Sildenafil citrate was effective in a broad range of ED patients, including those with a history of coronary artery disease, hypertension, other cardiac disease, peripheral vascular disease, diabetes mellitus, depression, coronary artery bypass graft (CABG), radical prostatectomy, transurethral resection of the prostate (TURP) and spinal cord injury, and in patients taking antidepressants/antipsychotics and anti-hypertensives/diuretics.

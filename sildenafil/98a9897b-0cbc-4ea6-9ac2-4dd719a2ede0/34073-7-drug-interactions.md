@@ -2,27 +2,27 @@
 
 ## 7.1 Nitrates
 
-Administration of SILDENAFIL CITRATE TABLETS with nitric oxide donors such as organic nitrates or organic nitrites in any form is contraindicated.
+Administration of sildenafil citrate tablets with nitric oxide donors such as organic nitrates or organic nitrites in any form is contraindicated.
 Consistent with its known effects on the nitric oxide/cGMP pathway, sildenafil citrate was shown to potentiate the hypotensive effects of nitrates [see Dosage and Administration (2.3), Contraindications (4.1), Clinical Pharmacology (12.2)].
 
 ## 7.2 Alpha-blockers
 
-Use caution when co-administering alpha-blockers with SILDENAFIL CITRATE TABLETS because of potential additive blood pressure-lowering effects.
-When SILDENAFIL CITRATE TABLETS are co-administered with an alpha-blocker, patients should be stable on alpha-blocker therapy prior to initiating SILDENAFIL CITRATE TABLETS treatment and SILDENAFIL CITRATE TABLETS should be initiated at the lowest dose [see Dosage and Administration (2.3), Warnings and Precautions (5.5), Clinical Pharmacology (12.2)].
+Use caution when co-administering alpha-blockers with sildenafil citrate tablets because of potential additive blood pressure-lowering effects.
+When sildenafil citrate tablets are co-administered with an alpha-blocker, patients should be stable on alpha-blocker therapy prior to initiating sildenafil citrate tablets treatment and sildenafil citrate tablets should be initiated at the lowest dose [see Dosage and Administration (2.3),Warnings and Precautions (5.5), Clinical Pharmacology (12.2)].
 
 ## 7.3 Amlodipine
 
 When sildenafil citrate 100 mg was co-administered with amlodipine (5 mg or 10 mg) to hypertensive patients, the mean additional reduction on supine blood pressure was 8 mmHg systolic and 7 mmHg diastolic [see Warnings and Precautions (5.5), Clinical Pharmacology (12.2)].
 
-## 7.4 Ritonavir and other CYP3A4 inhibitors
+## 7.4 Ritonavir and Other CYP3A4 Inhibitors
 
 Co-administration of ritonavir, a strong CYP3A4 inhibitor, greatly increased the systemic exposure of sildenafil (11-fold increase in AUC).
-It is therefore recommended not to exceed a maximum single dose of 25 mg of SILDENAFIL CITRATE TABLETS in a 48 hour period [see Dosage and Administration (2.4), Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
+It is therefore recommended not to exceed a maximum single dose of 25 mg of sildenafil citrate tablets in a 48 hour period [see Dosage and Administration (2.4), Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
 
-Co-administration of erythromycin, a moderate CYP3A4 inhibitor, resulted in a 160% and 182% increases in sildenafil Cmax and AUC, respectively.
+Co-administration of erythromycin, a moderate CYP3A4 inhibitor, resulted in 160% and 182% increases in sildenafil Cmax and AUC, respectively.
 Co-administration of saquinavir, a strong CYP3A4 inhibitor, resulted in 140% and 210% increases in sildenafil Cmax and AUC, respectively.
 Stronger CYP3A4 inhibitors such as ketoconazole or itraconazole could be expected to have greater effects than seen with saquinavir.
-A starting dose of 25 mg of SILDENAFIL CITRATE TABLETS should be considered in patients taking erythromycin or strong CYP3A4 inhibitors (such as saquinavir, ketoconazole, itraconazole) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+A starting dose of 25 mg of sildenafil citrate tablets should be considered in patients taking erythromycin or strong CYP3A4 inhibitors (such as saquinavir, ketoconazole, itraconazole) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 7.5 Alcohol
 

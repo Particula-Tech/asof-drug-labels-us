@@ -30,7 +30,7 @@ The erectile response, as assessed by RigiScan®, generally increased with incre
 The time course of effect was examined in one study, showing an effect for up to 4 hours but the response was diminished compared to 2 hours.
 
 Effects of Sildenafil Citrate on Blood Pressure: Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in sitting blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8.3/5.3 mmHg).
-The decrease in sitting blood pressure was most notable approximately 1–2 hours after dosing, and was not different than placebo at 8 hours.
+The decrease in sitting blood pressure was most notable approximately 1-2 hours after dosing, and was not different than placebo at 8 hours.
 Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg of sildenafil citrate, therefore the effects are not related to dose or plasma levels within this dosage range.
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4.1)].
 
@@ -50,7 +50,7 @@ The mean subject age was 66.5 years.
 
 For the 17 subjects who received sildenafil citrate 25 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
 
-| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | SILDENAFIL CITRATE 25 mg |
+| Placebo-subtracted mean maximum decrease in systolic blood pressure (mmHg) | Sildenafil Citrate 25 mg |
 | --- | --- |
 | Supine | 7.4 (-0.9, 15.7) |
 | Standing | 6.0 (-0.8, 12.8) |
@@ -66,7 +66,7 @@ No severe adverse events potentially related to blood pressure effects were repo
 Of the four subjects who received sildenafil citrate 100 mg in the first part of this study, a severe adverse event related to blood pressure effect was reported in one patient (postural hypotension that began 35 minutes after dosing with sildenafil citrate with symptoms lasting for 8 hours), and mild adverse events potentially related to blood pressure effects were reported in two others (dizziness, headache and fatigue at 1 hour after dosing; and dizziness, lightheadedness and nausea at 4 hours after dosing).
 There were no reports of syncope among these patients.
 For these four subjects, the placebo-subtracted mean maximum decreases from baseline in supine and standing systolic blood pressures were 14.8 mmHg and 21.5 mmHg, respectively.
-Two of these subjects had a standing SBP < 85 mmHg.
+Two of these subjects had a standing SBP <85 mmHg.
 Both of these subjects were protocol violators, one due to a low baseline standing SBP, and the other due to baseline orthostatic hypotension.
 
 Study 2: Sildenafil Citrate with Doxazosin
@@ -81,7 +81,7 @@ This patient had been taking minoxidil, a potent vasodilator, during the study.
 
 For the 19 subjects who received both sildenafil citrate and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
 
-| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | SILDENAFIL CITRATE 50 mg (95% CI) |
+| Placebo-subtracted mean maximum decrease in systolic blood pressure (mmHg) | Sildenafil Citrate 50 mg (95% CI) |
 | --- | --- |
 | Supine | 9.08 (5.48, 12.68) |
 | Standing | 11.62 (7.34, 15.90) |
@@ -89,9 +89,9 @@ For the 19 subjects who received both sildenafil citrate and matching placebo, t
 The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 50 mg sildenafil citrate or matching placebo are shown in Figure 3.
 
 Blood pressure was measured after administration of sildenafil citrate at the same times as those specified for the first doxazosin study.
-There were two subjects who had a standing SBP of < 85 mmHg.
+There were two subjects who had a standing SBP of <85 mmHg.
 In these two subjects, hypotension was reported as a moderately severe adverse event, beginning at approximately 1 hour after administration of sildenafil citrate 50 mg and resolving after approximately 7.5 hours.
-There was one subject with a decrease from baseline in standing systolic BP >30 mmHg following sildenafil citrate 50 mg and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil citrate 50 mg and placebo.
+There was one subject with a decrease from baseline in standing systolic BP >30 mmHg following sildenafil citrate 50 mg and one subject with a decrease from baseline in standing systolic BP >30 mmHg following both sildenafil citrate 50 mg and placebo.
 There were no severe adverse events potentially related to blood pressure and no episodes of syncope reported in this study.
 
 Study 3: Sildenafil Citrate with Doxazosin
@@ -110,7 +110,7 @@ Of the twenty subjects who were ultimately assigned to treatment, a total of 13 
 
 For the 20 subjects who received sildenafil citrate 100 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
 
-| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | SILDENAFIL CITRATE100 mg |
+| Placebo-subtracted mean maximum decrease in systolic blood pressure (mmHg) | Sildenafil Citrate 100 mg |
 | --- | --- |
 | Supine | 7.9 (4.6, 11.1) |
 | Standing | 4.3 (-1.8,10.3) |
@@ -118,15 +118,15 @@ For the 20 subjects who received sildenafil citrate 100 mg and matching placebo,
 The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 100 mg sildenafil citrate or matching placebo are shown in Figure 4.
 
 Blood pressure was measured after administration of sildenafil citrate at the same times as those specified for the previous doxazosin studies.
-There were three subjects who had a standing SBP of < 85 mmHg.
+There were three subjects who had a standing SBP of <85 mmHg.
 All three were taking sildenafil citrate 100 mg, and all three reported mild adverse events at the time of reductions in standing SBP, including vasodilation and lightheadedness.
-There were four subjects with a decrease from baseline in standing systolic BP > 30 mmHg following sildenafil citrate 100 mg, one subject with a decrease from baseline in standing systolic BP > 30 mmHg following placebo and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil citrate and placebo.
+There were four subjects with a decrease from baseline in standing systolic BP >30 mmHg following sildenafil citrate 100 mg, one subject with a decrease from baseline in standing systolic BP >30 mmHg following placebo and one subject with a decrease from baseline in standing systolic BP >30 mmHg following both sildenafil citrate and placebo.
 While there were no severe adverse events potentially related to blood pressure reported in this study, one subject reported moderate vasodilatation after both sildenafil citrate 50 mg and 100 mg.
 There were no episodes of syncope reported in this study.
 
 Effect of Sildenafil Citrate on Blood Pressure When Co-administered with Anti-hypertensives: When sildenafil 100 mg oral was co-administered with amlodipine, 5 mg or 10 mg oral, to hypertensive patients, the mean additional reduction on supine blood pressure was 8 mmHg systolic and 7 mmHg diastolic.
 
-Effect of Sildenafil Citrate on Blood Pressure When Co-administered with Alcohol: sildenafil (50 mg) did not potentiate the hypotensive effect of alcohol (0.5 g/kg) in healthy volunteers with mean maximum blood alcohol levels of 0.08%.
+Effect of Sildenafil Citrate on Blood Pressure When Co-administered with Alcohol: Sildenafil (50 mg) did not potentiate the hypotensive effect of alcohol (0.5 g/kg) in healthy volunteers with mean maximum blood alcohol levels of 0.08%.
 The maximum observed decrease in systolic blood pressure was -18.5 mmHg when sildenafil was co-administered with alcohol versus -17.4 mmHg when alcohol was administered alone.
 The maximum observed decrease in diastolic blood pressure was -17.2 mmHg when sildenafil was co-administered with alcohol versus -11.1 mmHg when alcohol was administered alone.
 There were no reports of postural dizziness or orthostatic hypotension.
@@ -145,9 +145,9 @@ Even though this total dosage produced plasma sildenafil concentrations which we
 Table 3.
 Hemodynamic Data in Patients with Stable Ischemic Heart Disease after Intravenous Administration of 40 mg of Sildenafil
 
-|  | N | Baseline (B2) | n | Sildenafil (D1) | n | Baseline | n | Sildenafil |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Means ± SD | At rest |  |  |  | After 4 minutes of exercise |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | N | Baseline (B2) | n | Sildenafil (D1) | n | Baseline | n | Sildenafil |
 | PAOP (mmHg) | 8 | 8.1 ± 5.1 | 8 | 6.5 ± 4.3 | 8 | 36.0 ± 13.7 | 8 | 27.8 ± 15.3 |
 | Mean PAP (mmHg) | 8 | 16.7 ± 4 | 8 | 12.1 ± 3.9 | 8 | 39.4 ± 12.9 | 8 | 31.7 ± 13.2 |
 | Mean RAP (mmHg) | 7 | 5.7 ± 3.7 | 8 | 4.1 ± 3.7 | - | - | - | - |
@@ -170,14 +170,16 @@ Effects of Sildenafil Citrate on Sperm: There was no effect on sperm motility or
 
 ## 12.3 Pharmacokinetics
 
-Sildenafil citrate is rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (range 25–63%).
+Sildenafil citrate is rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (range 25-63%).
 The pharmacokinetics of sildenafil are dose-proportional over the recommended dose range.
 It is eliminated predominantly by hepatic metabolism (mainly CYP3A4) and is converted to an active metabolite with properties similar to the parent, sildenafil.
 Both sildenafil and the metabolite have terminal half lives of about 4 hours.
 
 Mean sildenafil plasma concentrations measured after the administration of a single oral dose of 100 mg to healthy male volunteers is depicted below:
 
-Absorption and Distribution: Sildenafil citrate is rapidly absorbed.
+Absorption and Distribution
+
+Sildenafil citrate is rapidly absorbed.
 Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.
 When sildenafil citrate is taken with a high fat meal, the rate of absorption is reduced, with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29%.
 The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indicating distribution into the tissues.
@@ -186,33 +188,41 @@ Protein binding is independent of total drug concentrations.
 
 Based upon measurements of sildenafil in semen of healthy volunteers 90 minutes after dosing, less than 0.001% of the administered dose may appear in the semen of patients.
 
-Metabolism and Excretion: Sildenafil is cleared predominantly by the CYP3A4 (major route) and CYP2C9 (minor route) hepatic microsomal isoenzymes.
+Metabolism and Excretion
+
+Sildenafil is cleared predominantly by the CYP3A4 (major route) and CYP2C9 (minor route) hepatic microsomal isoenzymes.
 The major circulating metabolite results from N-desmethylation of sildenafil, and is itself further metabolized.
 This metabolite has a PDE selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% of the parent drug.
-Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil, so that the metabolite accounts for about 20% of sildenafil's pharmacologic effects.
+Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil, so that the metabolite accounts for about 20% of sildenafil’s pharmacologic effects.
 
 After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose).
 Similar values for pharmacokinetic parameters were seen in normal volunteers and in the patient population, using a population pharmacokinetic approach.
 
 Pharmacokinetics in Special Populations
 
-Geriatrics: Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18–45 years).
-Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)]
+Geriatrics
 
-Renal Impairment: In volunteers with mild (CLcr=50–80 mL/min) and moderate (CLcr=30–49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil citrate (50 mg) were not altered.
-In volunteers with severe (CLcr <30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18-45 years).
+Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively [see Dosage and Administration (2.5), and Use in Specific Populations (8.5)].
+
+Renal Impairment
+
+In volunteers with mild (CLcr=50-80 mL/min) and moderate (CLcr=30-49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil citrate (50 mg) were not altered.
+In volunteers with severe (CLcr <30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment [see Dosage and Administration (2.5), and Use in Specific Populations (8.6)].
 
 In addition, N-desmethyl metabolite AUC and Cmax values significantly increased by 200% and 79%, respectively in subjects with severe renal impairment compared to subjects with normal renal function.
 
-Hepatic Impairment: In volunteers with hepatic impairment (Child-Pugh Class A and B), sildenafil clearance was reduced, resulting in increases in AUC (85%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
-The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child-Pugh Class C) has not been studied [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+Hepatic Impairment
+
+In volunteers with hepatic impairment (Child-Pugh Class A and B), sildenafil clearance was reduced, resulting in increases in AUC (85%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
+The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child-Pugh Class C) have not been studied [see Dosage and Administration (2.5), and Use in Specific Populations (8.7)].
 
 Therefore, age >65, hepatic impairment and severe renal impairment are associated with increased plasma levels of sildenafil.
 A starting oral dose of 25 mg should be considered in those patients [see Dosage and Administration (2.5)].
 
 Drug Interaction Studies
 
-Effects of Other Drugs on SILDENAFIL CITRATE TABLETS
+Effects of Other Drugs on Sildenafil Citrate Tablets
 
 Sildenafil metabolism is principally mediated by CYP3A4 (major route) and CYP2C9 (minor route).
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
@@ -230,7 +240,7 @@ Population pharmacokinetic data from patients in clinical trials also indicated 
 
 In another study in healthy male volunteers, co-administration with the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg bid) with sildenafil citrate (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1000% (11-fold) increase in sildenafil plasma AUC.
 At 24 hours the plasma levels of sildenafil were still approximately 200 ng/mL, compared to approximately 5 ng/mL when sildenafil was dosed alone.
-This is consistent with ritonavir's marked effects on a broad range of P450 substrates.
+This is consistent with ritonavir’s marked effects on a broad range of P450 substrates.
 Sildenafil citrate had no effect on ritonavir pharmacokinetics [see Dosage and Administration (2.4) and Drug Interactions (7.4)].
 
 Although the interaction between other protease inhibitors and sildenafil has not been studied, their concomitant use is expected to increase sildenafil levels.
@@ -246,12 +256,12 @@ Pharmacokinetic data from patients in clinical trials showed no effect on silden
 The AUC of the active metabolite, N-desmethyl sildenafil, was increased 62% by loop and potassium-sparing diuretics and 102% by nonspecific beta-blockers.
 These effects on the metabolite are not expected to be of clinical consequence.
 
-Effects of SILDENAFIL CITRATE TABLETS on Other Drugs
+Effects of Sildenafil Citrate Tablets on Other Drugs
 
 In vitro studies:
 
 Sildenafil is a weak inhibitor of the CYP isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 µM).
-Given sildenafil peak plasma concentrations of approximately 1 µM after recommended doses, it is unlikely that SILDENAFIL CITRATE TABLETS will alter the clearance of substrates of these isoenzymes.
+Given sildenafil peak plasma concentrations of approximately 1 µM after recommended doses, it is unlikely that sildenafil citrate tablets will alter the clearance of substrates of these isoenzymes.
 
 In vivo studies:
 
