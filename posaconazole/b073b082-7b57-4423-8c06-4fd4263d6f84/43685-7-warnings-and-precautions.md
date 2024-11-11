@@ -25,7 +25,13 @@ Do not administer with drugs that are known to prolong the QTc interval and are 
 
 Electrolyte disturbances, especially those involving potassium, magnesium or calcium levels, should be monitored and corrected as necessary before and during Noxafil therapy.
 
-## 5.4 Hepatic Toxicity
+## 5.4 Pseudoaldosteronism
+
+Pseudoaldosteronism, manifested by the onset of hypertension or worsening of hypertension, and abnormal laboratory findings (hypokalemia, low serum renin and aldosterone, and elevated 11-deoxycortisol), has been reported with posaconazole use in the postmarket setting.
+Monitor blood pressure and potassium levels and manage as necessary.
+Management of pseudoaldosteronism may include discontinuation of Noxafil, substitution with an appropriate antifungal drug that is not associated with pseudoaldosteronism, or use of aldosterone receptor antagonists.
+
+## 5.5 Hepatic Toxicity
 
 Hepatic reactions (e.g., mild to moderate elevations in alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase, total bilirubin, and/or clinical hepatitis) have been reported in clinical trials.
 The elevations in liver tests were generally reversible on discontinuation of therapy, and in some instances these tests normalized without drug interruption.
@@ -37,7 +43,7 @@ Patients who develop abnormal liver tests during Noxafil therapy should be monit
 Patient management should include laboratory evaluation of hepatic function (particularly liver tests and bilirubin).
 Discontinuation of Noxafil must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to Noxafil.
 
-## 5.5 Renal Impairment
+## 5.6 Renal Impairment
 
 Due to the variability in exposure with Noxafil delayed-release tablets, Noxafil oral suspension, and Noxafil PowderMix for delayed-release oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.9) and Use in Specific Populations (8.6)].
 
@@ -45,27 +51,27 @@ Noxafil injection should be avoided in patients with moderate or severe renal im
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
 Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.9) and Use in Specific Populations (8.6)].
 
-## 5.6 Midazolam Toxicity
+## 5.7 Midazolam Toxicity
 
 Concomitant administration of Noxafil with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Patients must be monitored closely for adverse effects associated with high plasma concentrations of midazolam and benzodiazepine receptor antagonists must be available to reverse these effects [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
 
-## 5.7 Vincristine Toxicity
+## 5.8 Vincristine Toxicity
 
 Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
 Reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.10)].
 
-## 5.8 Risk in Patients with Hereditary Fructose Intolerance (HFI)
+## 5.9 Risk in Patients with Hereditary Fructose Intolerance (HFI)
 
 Noxafil PowderMix for delayed-release oral suspension contains sorbitol, an inactive ingredient, and may precipitate a metabolic crisis that may include, but is not limited to life-threatening hypoglycemia, hypophosphatemia, lactic acidosis, and hepatic failure in patients with HFI.
 Obtain careful history of HFI symptoms (nausea, vomiting, abdominal pain) with sorbitol/fructose/sucrose exposure prior to Noxafil PowderMix for delayed-release oral suspension administration because a diagnosis of HFI may not yet be established in pediatric patients [see Contraindications (4), Use in Specific Populations (8.4)].
 
-## 5.9 Breakthrough Fungal Infections
+## 5.10 Breakthrough Fungal Infections
 
 Patients who have severe diarrhea or vomiting should be monitored closely for breakthrough fungal infections when receiving Noxafil delayed-release tablets, Noxafil oral suspension, or Noxafil PowderMix for delayed-release oral suspension.
 
-## 5.10 Venetoclax Toxicity
+## 5.11 Venetoclax Toxicity
 
 Concomitant administration of Noxafil, a strong CYP3A4 inhibitor, with venetoclax may increase venetoclax toxicities, including the risk of tumor lysis syndrome (TLS), neutropenia, and serious infections.
 In patients with CLL/SLL, administration of Noxafil during initiation and the ramp-up phase of venetoclax is contraindicated [see Contraindications (4.6)].

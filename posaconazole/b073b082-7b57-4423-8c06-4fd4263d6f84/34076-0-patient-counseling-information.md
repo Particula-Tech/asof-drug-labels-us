@@ -48,5 +48,5 @@ Advise patients to inform their physician immediately if they:
 
 Hereditary Fructose Intolerance (HFI)
 
-Inform patients and caregivers that Noxafil PowderMix for delayed-release oral suspension contains sorbitol and can be life-threatening when administered to patients with hereditary fructose intolerance (HFI) [see Warnings and Precautions (5.8)].
+Inform patients and caregivers that Noxafil PowderMix for delayed-release oral suspension contains sorbitol and can be life-threatening when administered to patients with hereditary fructose intolerance (HFI) [see Warnings and Precautions (5.9)].
 Inquire for symptoms of sorbitol/fructose and/or sucrose intolerance before administration.

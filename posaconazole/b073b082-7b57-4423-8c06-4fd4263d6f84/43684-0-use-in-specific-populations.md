@@ -49,7 +49,7 @@ The safety and effectiveness of Noxafil have not been established in pediatric p
 Noxafil PowderMix for delayed-release oral suspension is not recommended for use in patients who weigh greater than 40 kg because the recommended dosage cannot be achieved with this formulation.
 
 Noxafil PowderMix for delayed-release oral suspension is contraindicated in patients with HFI.
-Because a diagnosis of HFI may not yet be established in pediatric patients, obtain a careful history of HFI symptoms with sorbitol/fructose/sucrose exposure prior to administration of Noxafil PowderMix for delayed-release oral suspension [see Warnings and Precautions (5.8)].
+Because a diagnosis of HFI may not yet be established in pediatric patients, obtain a careful history of HFI symptoms with sorbitol/fructose/sucrose exposure prior to administration of Noxafil PowderMix for delayed-release oral suspension [see Warnings and Precautions (5.9)].
 
 ## 8.5 Geriatric Use
 
@@ -73,7 +73,7 @@ Similar recommendations apply to Noxafil delayed-release tablets; however, a spe
 
 Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
-Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.9) and Warnings and Precautions (5.5)].
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.9) and Warnings and Precautions (5.6)].
 
 ## 8.7 Hepatic Impairment
 
@@ -82,7 +82,7 @@ Compared to subjects with normal hepatic function, the mean Cmax was 1% higher, 
 The mean apparent oral clearance (CL/F) was reduced by 18%, 36%, and 28% in subjects with mild, moderate, or severe hepatic impairment, respectively, compared to subjects with normal hepatic function.
 The elimination half-life (t½) was 27 hours, 39 hours, 27 hours, and 43 hours in subjects with normal hepatic function and mild, moderate, or severe hepatic impairment, respectively.
 
-It is recommended that no dose adjustment of Noxafil oral suspension, Noxafil delayed-release tablets, Noxafil PowderMix for delayed-release oral suspension, and Noxafil injection is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.4)].
+It is recommended that no dose adjustment of Noxafil oral suspension, Noxafil delayed-release tablets, Noxafil PowderMix for delayed-release oral suspension, and Noxafil injection is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.5)].
 However, a specific study has not been conducted with Noxafil delayed-release tablets, Noxafil PowderMix for delayed-release oral suspension, and Noxafil injection.
 
 ## 8.8 Gender

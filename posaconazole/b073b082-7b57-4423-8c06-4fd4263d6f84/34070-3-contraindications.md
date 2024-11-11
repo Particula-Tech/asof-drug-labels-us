@@ -24,8 +24,8 @@ Noxafil may increase the plasma concentrations of ergot alkaloids (ergotamine an
 
 ## 4.6 Use with Venetoclax
 
-Coadministration of Noxafil with venetoclax at initiation and during the ramp-up phase is contraindicated in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) due to the potential for increased risk of tumor lysis syndrome [see Warnings and Precautions (5.10) and Drug Interactions (7.16)].
+Coadministration of Noxafil with venetoclax at initiation and during the ramp-up phase is contraindicated in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) due to the potential for increased risk of tumor lysis syndrome [see Warnings and Precautions (5.11) and Drug Interactions (7.16)].
 
 ## 4.7 Use of Noxafil PowderMix for Delayed-Release Oral Suspension in Patients with Hereditary Fructose Intolerance
 
-Noxafil PowderMix for delayed-release oral suspension is contraindicated in patients with known or suspected hereditary fructose intolerance (HFI) [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)].
+Noxafil PowderMix for delayed-release oral suspension is contraindicated in patients with known or suspected hereditary fructose intolerance (HFI) [see Warnings and Precautions (5.9) and Use in Specific Populations (8.4)].

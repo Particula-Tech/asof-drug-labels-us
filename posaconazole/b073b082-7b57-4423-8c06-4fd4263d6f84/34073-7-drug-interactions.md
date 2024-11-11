@@ -45,7 +45,7 @@ Therefore, Noxafil is contraindicated with ergot alkaloids [see Contraindication
 Concomitant administration of Noxafil with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Concomitant use of Noxafil and other benzodiazepines metabolized by CYP3A4 (e.g., alprazolam, triazolam) could result in increased plasma concentrations of these benzodiazepines.
-Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
 
 ## 7.6 Anti-HIV Drugs
 
@@ -93,7 +93,7 @@ No dosage adjustment of Noxafil oral suspension is required when Noxafil oral su
 ## 7.10 Vinca Alkaloids
 
 Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates of CYP3A4.
-Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.7)].
+Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.8)].
 Noxafil may increase the plasma concentrations of vinca alkaloids which may lead to neurotoxicity and other serious adverse reactions.
 Therefore, reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options.
 
@@ -134,5 +134,5 @@ Administration of Noxafil PowderMix for delayed-release oral suspension with alc
 
 ## 7.16 Venetoclax
 
-Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.10)].
+Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.11)].
 Refer to the venetoclax prescribing information for more information on the dosing instructions and the extent of increase in venetoclax exposure.
