@@ -1,18 +1,13 @@
 Rx only
 
-Revised: January 2019
-
-A4805964-1
-
 Manufactured for:
 
-B. Braun Medical Inc.
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA
 
-Bethlehem, PA 18018-3524 USA
+Manufactured by: Solupharm Pharmazeutische Erzeugnisse GmbH
 
 Prepared in Germany.
+
 API from Switzerland.
 
-Manufactured by:
-
-Solupharm Pharmazeutische Erzeugnisse GmbH
+A4805964-2
