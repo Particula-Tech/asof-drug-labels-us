@@ -1,14 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Label
 
-4 mL Single-dose
-
-NDC 0409-1144-62 Rx only
-
-Verapamil HCl Injection, USP
-
-10 mg/4 mL (2.5 mg/mL)
-
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+4 mL Single-dose NDC 0409-1144-62 Rx only Verapamil HCl Injection, USP 10 mg/4 mL (2.5 mg/mL) Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Protect from light.
 For I.V. use only.
