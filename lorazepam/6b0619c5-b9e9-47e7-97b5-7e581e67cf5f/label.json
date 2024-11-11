@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA071591"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-861-01",
+    "62135-862-01",
+    "62135-863-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
+  "setid": "6b0619c5-b9e9-47e7-97b5-7e581e67cf5f",
+  "source": "dailymed"
+}
