@@ -138,7 +138,7 @@ The decrease in respiratory rate and hypoxia was similar between dexmedetomidine
 
 Table 7: Adverse Reactions with an Incidence > 2%–Adult Procedural Sedation Population
 
-| Adverse Event | Dexmedetomidine Injection N = 318 (%) | Placebo N = 113 (%) |
+| Adverse Event | Dexmedetomidine Injection (N = 318) (%) | Placebo (N = 113) (%) |
 | --- | --- | --- |
 | HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of < 80 mmHg or ≤ 30% lower than pre-study drug infusion value, or Diastolic blood pressure of < 50 mmHg. | 54% | 30% |
 | Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) < 8 beats per minute or > 25% decrease from baseline. | 37% | 32% |

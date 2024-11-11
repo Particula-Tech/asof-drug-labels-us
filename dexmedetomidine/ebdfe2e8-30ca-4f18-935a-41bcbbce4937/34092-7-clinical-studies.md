@@ -20,7 +20,7 @@ Table 12: Ramsay Level of Sedation Scale
 | 2 | Patient cooperative, oriented, and tranquil |
 | 1 | Patient anxious, agitated, or restless |
 
-In the first study, 175 adult patients were randomized to receive placebo and 178 to receive dexmedetomidine injection by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+In the first study, 175 adult patients were randomized to receive placebo and 178 to receive dexmedetomidine injection by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 mcg/kg/hr and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion rate was adjusted to maintain a Ramsay sedation score of ≥ 3.
 Patients were allowed to receive “rescue” midazolam as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered for pain as needed.
@@ -32,20 +32,20 @@ A significantly greater percentage of adult patients in the dexmedetomidine inje
 
 Table 13: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
-|  | Placebo(N = 175) | Dexmedetomidine Injection(N = 178) | p-value |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Mean Total Dose (mg) of MidazolamStandard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011ANOVA model with treatment center. |  |  |
-| Categorized Midazolam Use |  |  |  |  |  |
-| 0 mg | 43 (25%) | 108 (61%) | < 0.001Chi-square. |  |  |
-| 0–4 mg | 34 (19%) | 36 (20%) |  |  |  |
-| > 4 mg | 98 (56%) | 34 (19%) |  |  |  |
-| ITT (intent-to-treat) population includes all randomized patients. |  |  |  |  |  |
+|  | Placebo(N = 175) | Dexmedetomidine Injection(N = 178) | p-value |
+| --- | --- | --- | --- |
+| Mean Total Dose (mg) of MidazolamStandard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011ANOVA model with treatment center. |
+| Categorized Midazolam Use |  |  |  |
+| 0 mg | 43 (25%) | 108 (61%) | < 0.001Chi-square. |
+| 0–4 mg | 34 (19%) | 36 (20%) |  |
+| > 4 mg | 98 (56%) | 34 (19%) |  |
+| ITT (intent-to-treat) population includes all randomized patients. |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to adult patients in the dexmedetomidine injection and placebo groups.
 On average, dexmedetomidine injection-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
 In addition, 44% (79 of 178 patients) of dexmedetomidine injection patients received no morphine sulfate for pain versus 19% (33 of 175 patients) in the placebo group.
 
-In a second study, 198 adult patients were randomized to receive placebo and 203 to receive dexmedetomidine injection by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+In a second study, 198 adult patients were randomized to receive placebo and 203 to receive dexmedetomidine injection by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 mcg/kg/hr and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥ 3.
 Patients were allowed to receive “rescue” propofol as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered as needed for pain.

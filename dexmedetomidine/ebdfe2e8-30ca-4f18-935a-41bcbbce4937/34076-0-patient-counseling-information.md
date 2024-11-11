@@ -16,6 +16,4 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0940L105
-
-Revised: 6/2023 MI:DEXDIJ:R13
+Revised: 10/2024 MI:DEXDIJ:RX
