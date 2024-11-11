@@ -5,3 +5,5 @@ The capsules are supplied in unit-dose blister packs of 3 × 10 capsules (NDC 50
 
 Store at controlled room temperature 15°–25°C (59°–77°F).
 Protect from light and moisture.
+
+For patent information: www.janssenpatents.com
