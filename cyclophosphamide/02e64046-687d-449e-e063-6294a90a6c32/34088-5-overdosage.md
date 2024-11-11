@@ -9,6 +9,6 @@ Serious consequences of overdosage include manifestations of dose dependent toxi
 Patients who received an overdose should be closely monitored for the development of toxicities, and hematologic toxicity in particular.
 
 Cyclophosphamide and its metabolites are dialyzable.
-Therefore, rapid hemodialysis is indicated when treating any suicidal or accidental overdose or intoxication.
+Therefore, rapid hemodialysis is indicated when treating any suicidal or accidental overdose or intoxication [see Clinical Pharmacology (12.3)].
 
 Cystitis prophylaxis with mesna may be helpful in preventing or limiting urotoxic effects with cyclophosphamide overdose.

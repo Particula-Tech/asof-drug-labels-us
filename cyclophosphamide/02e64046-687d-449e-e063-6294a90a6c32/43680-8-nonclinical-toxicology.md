@@ -9,4 +9,4 @@ Cyclophosphamide was mutagenic and clastogenic in multiple in vitro and in vivo 
 
 Cyclophosphamide is genotoxic in male and female germ cells.
 Animal data indicate that exposure of oocytes to cyclophosphamide during follicular development may result in a decreased rate of implantations and viable pregnancies, and in an increased risk of malformations.
-Male mice and rats treated with cyclophosphamide show alterations in male reproductive organs (e.g., decreased weights, atrophy, changes in spermatogenesis), and decreases in reproductive potential (e.g., decreased implantations and increased post-implantation loss) and increases in fetal malformations when mated with untreated females [see Use in Specific Populations (8.6)].
+Male mice and rats treated with cyclophosphamide show alterations in male reproductive organs (e.g., decreased weights, atrophy, changes in spermatogenesis), and decreases in reproductive potential (e.g., decreased implantations and increased post-implantation loss) and increases in fetal malformations when mated with untreated females [see Use in Specific Populations (8.3)].

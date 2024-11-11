@@ -2,7 +2,7 @@
 
 ## 1.1 Malignant Diseases
 
-Cyclophosphamide is indicated for the treatment of:
+Cyclophosphamide for injection is indicated for the treatment of adult and pediatric patients with:
 
 - malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma
 - multiple myeloma
@@ -17,8 +17,8 @@ Cyclophosphamide, although effective alone in susceptible malignancies, is more 
 
 ## 1.2 Minimal Change Nephrotic Syndrome in Pediatric Patients
 
-Cyclophosphamide is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatrics patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy.
+Cyclophosphamide for injection is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatrics patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy.
 
 Limitations of Use:
 
-The safety and effectiveness for the treatment of nephrotic syndrome in adults or other renal disease has not been established.
+The safety and effectiveness of cyclophosphamide for injection for the treatment of nephrotic syndrome in adults or other renal disease has not been established.

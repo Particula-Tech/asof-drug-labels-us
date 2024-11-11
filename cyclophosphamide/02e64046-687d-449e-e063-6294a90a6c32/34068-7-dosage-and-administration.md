@@ -1,35 +1,38 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-During or immediately after the administration, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity.
-Therefore, cyclophosphamide should be administered in the morning.
+## 2.1 Important Administration Instructions
 
-## 2.1 Dosing for Malignant Diseases
+During or immediately after the administration of cyclophosphamide for injection, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity.
+Therefore, cyclophosphamide for injection should be administered in the morning.
 
-Adults and Pediatric Patients Intravenous When used as the only oncolytic drug therapy, the initial course of cyclophosphamide for patients with no hematologic deficiency usually consists of 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days.
+## 2.2 Recommended Dosage for Malignant Diseases
+
+Adults and Pediatric Patients
+
+Intravenous Use
+
+When used as the only oncolytic drug therapy, the recommended dosage for the initial course of cyclophosphamide for injection for patients with no hematologic deficiency is 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days.
 Other intravenous regimens include 10 mg per kg to 15 mg per kg given every 7 to 10 days or 3 mg per kg to 5 mg per kg twice weekly.
 
-Oral
+Oral Use
 
-Oral cyclophosphamide dosing is usually in the range of 1 mg per kg per day to 5 mg per kg per day for both initial and maintenance dosing.
+The recommended dosage for oral cyclophosphamide is 1 mg per kg per day to 5 mg per kg per day for both initial and maintenance dosing.
 
-Many other regimens of intravenous and oral cyclophosphamide have been reported.
-Dosages must be adjusted in accord with evidence of antitumor activity and/or leukopenia.
-The total leukocyte count is a good, objective guide for regulating dosage.
+Adjust the dosage of cyclophosphamide for injection based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [see Warning and Precautions (5)].
 
-When cyclophosphamide is included in combined cytotoxic regimens, it may be necessary to reduce the dose of cyclophosphamide as well as that of the other drugs.
+## 2.3 Recommended Dosage for Minimal Change Nephrotic Syndrome in Pediatric Patients
 
-## 2.2 Dosing for Minimal Change Nephrotic Syndrome in Pediatric Patients
-
-An oral dose of 2 mg per kg daily for 8 to 12 weeks (maximum cumulative dose 168 mg per kg) is recommended.
+The recommended dosage is 2 mg per kg orally once daily for 8 to 12 weeks (maximum cumulative dose 168 mg per kg) is recommended.
 Treatment beyond 90 days increases the probability of sterility in males [see Use in Specific Populations (8.4)].
 
-## 2.3 Preparation, Handling and Administration
+## 2.4 Preparation, Handling and Administration
 
-Handle and dispose of cyclophosphamide in a manner consistent with other cytotoxic drugs.
-1 Caution should be exercised when handling and preparing Cyclophosphamide for Injection, USP (lyophilized powder).
-To minimize the risk of dermal exposure, always wear gloves when handling vials containing Cyclophosphamide for Injection, USP (lyophilized powder).
+Cyclophosphamide for injection is a hazardous drug.
+Follow applicable special handling and disposal procedures.
+1 Caution should be exercised when handling and preparing cyclophosphamide for injection.
+To minimize the risk of dermal exposure, always wear gloves when handling vials containing cyclophosphamide for injection.
 
-Cyclophosphamide for Injection, USP
+Cyclophosphamide for Injection
 
 Intravenous Administration
 
@@ -37,18 +40,19 @@ Parenteral drug products should be inspected visually for particulate matter and
 Do not use cyclophosphamide vials if there are signs of melting.
 Melted cyclophosphamide is a clear or yellowish viscous liquid usually found as a connected phase or in droplets in the affected vials.
 
-Cyclophosphamide does not contain any antimicrobial preservative and thus care must be taken to assure the sterility of prepared solutions.
+Cyclophosphamide for injection does not contain any antimicrobial preservative and thus care must be taken to assure the sterility of prepared solutions.
 Use aseptic technique.
 
 For Direct Intravenous Injection
 
-Reconstitute Cyclophosphamide with 0.9% Sodium Chloride Injection, USP only, using the volumes listed below in Table 1.
-Gently swirl the vial to dissolve the drug completely.
+Reconstitute cyclophosphamide for injection with 0.9% Sodium Chloride Injection, USP only, using the volumes listed below in Table 1.
+Shake the vial vigorously to dissolve the drug completely.
 Do not use Sterile Water for Injection, USP because it results in a hypotonic solution and should not be injected directly.
+Discard unused solution.
 
 Table 1: Reconstitution for Direct Intravenous Injection
 
-| Strength | Volume of 0.9% Sodium Chloride | Cyclophosphamide Concentration |
+| Strength | Volume of 0.9% Sodium Chloride Injection, USP | Cyclophosphamide Concentration |
 | --- | --- | --- |
 | 500 mg | 25 mL | 20 mg per mL |
 | 1 g | 50 mL |  |
@@ -56,10 +60,9 @@ Table 1: Reconstitution for Direct Intravenous Injection
 
 For Intravenous Infusion
 
-Reconstitution of Cyclophosphamide:
-
-Reconstitute Cyclophosphamide using 0.9% Sodium Chloride Injection, USP or Sterile Water for Injection, USP with the volume of diluent listed below in Table 2.
-Add the diluent to the vial and gently swirl to dissolve the drug completely.
+Reconstitution of Cyclophosphamide for Injection: Reconstitute cyclophosphamide for injection using 0.9% Sodium Chloride Injection, USP or Sterile Water for Injection, USP with the volume of diluent listed below in Table 2.
+Add the diluent to the vial and shake the vial vigorously to dissolve the drug completely.
+Discard unused solution.
 
 Table 2: Reconstitution in preparation for Intravenous Infusion
 
@@ -69,13 +72,13 @@ Table 2: Reconstitution in preparation for Intravenous Infusion
 | 1 g | 50 mL |  |
 | 2 g | 100 mL |  |
 
-Dilution of Reconstituted Cyclophosphamide:
+Dilution of Reconstituted Cyclophosphamide for Injection:
 
-Further dilute the reconstituted Cyclophosphamide solution to a minimum concentration of 2 mg per mL with any of the following diluents:
+Further dilute the reconstituted cyclophosphamide for injection solution to a minimum concentration of 2 mg per mL with any of the following diluents:
 
+- 0.45% Sodium Chloride Injection, USP
 - 5% Dextrose Injection, USP
 - 5% Dextrose and 0.9% Sodium Chloride Injection, USP
-- 0.45% Sodium Chloride Injection, USP
 
 To reduce the likelihood of adverse reactions that appear to be administration rate-dependent (e.g., facial swelling, headache, nasal congestion, scalp burning), cyclophosphamide should be injected or infused very slowly.
 Duration of the infusion also should be appropriate for the volume and type of carrier fluid to be infused.
@@ -92,14 +95,16 @@ Table 3: Storage of Cyclophosphamide Solutions
 | Reconstituted Solution (Without Further Dilution) |  |  |
 | 0.9% Sodium Chloride Injection, USP | up to 24 hrs | Up to 6 days |
 | Sterile Water for Injection, USP | Do not store; use immediately |  |
-| Diluted Solutions* |  |  |
+| Diluted Solutions 1 |  |  |
 | 0.45% Sodium Chloride Injection, USP | up to 24 hrs | up to 6 days |
 | 5% Dextrose Injection, USP | up to 24 hrs | up to 36 hrs |
 | 5% Dextrose and 0.9% Sodium Chloride Injection, USP | up to 24 hrs | up to 36 hrs |
 
-*Storage time is the total time cyclophosphamide is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP.
+1Storage time is the total time cyclophosphamide is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP.
 
-Use of Reconstituted Solution for Oral Administration
+Reconstituted Solution for Oral Administration
 
 Liquid preparations of cyclophosphamide for oral administration may be prepared by dissolving cyclophosphamide for injection in Aromatic Elixir, National Formulary (NF).
-Such preparations should be stored under refrigeration in glass containers and used within 14 days.
+
+Store preparations under refrigeration in glass containers and used within 14 days.
+See the prescribing information for cyclophosphamide for oral use for additional dosage information.

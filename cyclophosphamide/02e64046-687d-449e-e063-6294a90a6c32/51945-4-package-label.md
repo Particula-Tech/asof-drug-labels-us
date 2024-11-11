@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 1 g Vial Carton
+# PRINCIPAL DISPLAY PANEL - 1 g Carton and Vial
 
 NDC 39822-0255-1
 
@@ -17,7 +17,7 @@ Discard unused solution.
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 2 g Vial Carton
+# PRINCIPAL DISPLAY PANEL - 2 g Carton and Vial
 
 NDC 39822-0260-1
 
@@ -36,7 +36,7 @@ Discard unused solution.
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 500 mg Carton and Vial
 
 NDC 39822-0250-1
 
