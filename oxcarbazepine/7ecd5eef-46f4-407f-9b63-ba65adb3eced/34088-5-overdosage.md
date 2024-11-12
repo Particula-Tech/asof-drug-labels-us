@@ -6,7 +6,7 @@ Isolated cases of overdose with oxcarbazepine have been reported.
 The maximum dose taken was approximately 48,000 mg.
 All patients recovered with symptomatic treatment.
 Nausea, vomiting, somnolence, aggression, agitation, hypotension, and tremor each occurred in more than one patient.
-Coma, confusional state, convulsion, dyscoordination, depressed level of consciousness, diplopia, dizziness, dyskinesia, dyspnea, QT prolongation, headache, miosis, nystagmus, overdose, decreased urine output, blurred vision also occurred.
+Coma, confusional state, convulsion, dyscoordination, depressed level of consciousness, diplopia, dizziness, dyskinesia, dyspnea, QT prolongation, headache, miosis, nystagmus, overdose, decreased urine output, and blurred vision also occurred.
 
 ## 10.2 Treatment and Management
 

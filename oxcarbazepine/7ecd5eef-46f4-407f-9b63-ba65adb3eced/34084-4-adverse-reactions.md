@@ -17,28 +17,28 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Most Common Adverse Reactions in All Clinical Studies
 
-Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
+Adjunctive Therapy/Monotherapy in Adults Previously Treated With Other AEDs
 
 The most common (≥10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with oxcarbazepine: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
 
 Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), and hyponatremia (1%).
 
-Monotherapy in Adults Not Previously Treated with Other AEDs
+Monotherapy in Adults Not Previously Treated With Other AEDs
 
 The most common (≥5%) adverse reactions with oxcarbazepine in these patients were similar to those in previously treated patients.
 
 Approximately 9% of these 295 adult patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: dizziness (1.7%), nausea (1.7%), rash (1.7%), headache (1.4%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (1.7%), nausea (1.7%), rash (1.7%), and headache (1.4%).
 
-Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated with Other AEDs
+Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated With Other AEDs
 
 The most common (≥5%) adverse reactions with oxcarbazepine in these patients were similar to those seen in adults.
 
 Approximately 11% of these 456 pediatric patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
+The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), and nystagmus (1.1%).
 
-Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with Other AEDs
+Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated With Other AEDs
 
 The most common (≥5%) adverse reactions with oxcarbazepine in these patients were similar to those in adults.
 
@@ -47,104 +47,104 @@ The adverse reactions most commonly associated (≥1%) with discontinuation were
 
 Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to <4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
 
-The most common (≥5%) adverse reactions with oxcarbazepine in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
+The most common (≥5%) adverse reactions with oxcarbazepine in these patients were similar to those seen in older children and adults, except for infections and infestations which were more frequently seen in these younger children.
 
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
 
-Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
+Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated With Other AEDs
 
 Table 3 lists adverse reactions that occurred in at least 2% of adult patients with epilepsy, treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of oxcarbazepine.
 
 Table 4 lists adverse reactions in patients converted from other AEDs to either high-dose oxcarbazepine (2,400 mg/day) or low-dose (300 mg/day) oxcarbazepine.
 Note that in some of these monotherapy studies patients who dropped out during a preliminary tolerability phase are not included in the tables.
 
-Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy with oxcarbazepine in Adults
+Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy With Oxcarbazepine in Adults
 
-|  | Oxcarbazepine Dosage (mg/day) |  |  |  |
+| Oxcarbazepine600N = 163% | Oxcarbazepine1,200N = 171% | Oxcarbazepine2,400N = 126% | PlaceboN = 166% |  |
 | --- | --- | --- | --- | --- |
-| Oxcarbazepine 600 | Oxcarbazepine 1,200 | Oxcarbazepine 2,400 | Placebo |  |
-| Body System/ Adverse Reaction | N=163 % | N=171 % | N=126 % | N=166 % |
-| Body as a Whole |  |  |  |  |
+| Body system/ Adverse reaction | Oxcarbazepine dosage (mg/day) |  |  |  |
+| Body as a whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
-| Leg Edema | 2 | 1 | 2 | 1 |
-| Increased Weight | 1 | 2 | 2 | 1 |
-| Feeling Abnormal | 0 | 1 | 2 | 0 |
-| Cardiovascular System |  |  |  |  |
+| Leg edema | 2 | 1 | 2 | 1 |
+| Increased weight | 1 | 2 | 2 | 1 |
+| Feeling abnormal | 0 | 1 | 2 | 0 |
+| Cardiovascular system |  |  |  |  |
 | Hypotension | 0 | 1 | 2 | 0 |
-| Digestive System |  |  |  |  |
+| Digestive system |  |  |  |  |
 | Nausea | 15 | 25 | 29 | 10 |
 | Vomiting | 13 | 25 | 36 | 5 |
-| Abdominal Pain | 10 | 13 | 11 | 5 |
+| Abdominal pain | 10 | 13 | 11 | 5 |
 | Diarrhea | 5 | 6 | 7 | 6 |
 | Dyspepsia | 5 | 5 | 6 | 2 |
 | Constipation | 2 | 2 | 6 | 4 |
 | Gastritis | 2 | 1 | 2 | 1 |
-| Metabolic and Nutritional Disorders |  |  |  |  |
+| Metabolic and nutritional disorders |  |  |  |  |
 | Hyponatremia | 3 | 1 | 2 | 1 |
-| Musculoskeletal System |  |  |  |  |
-| Muscle Weakness | 1 | 2 | 2 | 0 |
-| Sprains and Strains | 0 | 2 | 2 | 1 |
-| Nervous System |  |  |  |  |
+| Musculoskeletal system |  |  |  |  |
+| Muscle weakness | 1 | 2 | 2 | 0 |
+| Sprains and strains | 0 | 2 | 2 | 1 |
+| Nervous system |  |  |  |  |
 | Headache | 32 | 28 | 26 | 23 |
 | Dizziness | 26 | 32 | 49 | 13 |
 | Somnolence | 20 | 28 | 36 | 12 |
 | Ataxia | 9 | 17 | 31 | 5 |
 | Nystagmus | 7 | 20 | 26 | 5 |
-| Abnormal Gait | 5 | 10 | 17 | 1 |
+| Abnormal gait | 5 | 10 | 17 | 1 |
 | Insomnia | 4 | 2 | 3 | 1 |
 | Tremor | 3 | 8 | 16 | 5 |
 | Nervousness | 2 | 4 | 2 | 1 |
 | Agitation | 1 | 1 | 2 | 1 |
-| Abnormal Coordination | 1 | 3 | 2 | 1 |
+| Abnormal coordination | 1 | 3 | 2 | 1 |
 | Abnormal EEG | 0 | 0 | 2 | 0 |
-| Speech Disorder | 1 | 1 | 3 | 0 |
+| Speech disorder | 1 | 1 | 3 | 0 |
 | Confusion | 1 | 1 | 2 | 1 |
-| Cranial Injury NOS | 1 | 0 | 2 | 1 |
+| Cranial injury NOS | 1 | 0 | 2 | 1 |
 | Dysmetria | 1 | 2 | 3 | 0 |
-| Abnormal Thinking | 0 | 2 | 4 | 0 |
-| Respiratory System |  |  |  |  |
+| Abnormal thinking | 0 | 2 | 4 | 0 |
+| Respiratory system |  |  |  |  |
 | Rhinitis | 2 | 4 | 5 | 4 |
-| Skin and Appendages |  |  |  |  |
+| Skin and appendages |  |  |  |  |
 | Acne | 1 | 2 | 2 | 0 |
-| Special Senses |  |  |  |  |
+| Special senses |  |  |  |  |
 | Diplopia | 14 | 30 | 40 | 5 |
 | Vertigo | 6 | 12 | 15 | 2 |
-| Abnormal Vision | 6 | 14 | 13 | 4 |
-| Abnormal Accommodation | 0 | 0 | 2 | 0 |
+| Abnormal vision | 6 | 14 | 13 | 4 |
+| Abnormal accommodation | 0 | 0 | 2 | 0 |
 
-Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with Oxcarbazepine in Adults Previously Treated with Other AEDs
+Abbreviations: EEG, electroencephalogram; NOS, not otherwise specified.
 
-| Body System/ Adverse Reaction |  |  |
+Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With Oxcarbazepine in Adults Previously Treated With Other Antiepileptic Drugs
+
+| Body system/Adverse reaction | Oxcarbazepine dosage (mg/day) |  |
 | --- | --- | --- |
-| Oxcarbazepine | Oxcarbazepine |  |
-| 2,400 mg/day N=86 % | 300 mg/day N=86 % |  |
-| Body as a Whole |  |  |
+| Oxcarbazepine2,400 mg/dayN = 86% | Oxcarbazepine300 mg/dayN = 86% |  |
+| Body as a whole |  |  |
 | Fatigue | 21 | 5 |
 | Fever | 3 | 0 |
 | Allergy | 2 | 0 |
-| Generalized Edema | 2 | 1 |
-| Chest Pain | 2 | 0 |
-| Digestive System |  |  |
+| Generalized edema | 2 | 1 |
+| Chest pain | 2 | 0 |
+| Digestive system |  |  |
 | Nausea | 22 | 7 |
 | Vomiting | 15 | 5 |
 | Diarrhea | 7 | 5 |
 | Dyspepsia | 6 | 1 |
 | Anorexia | 5 | 3 |
-| Abdominal Pain | 5 | 3 |
-| Dry Mouth | 3 | 0 |
-| Hemorrhage Rectum | 2 | 0 |
+| Abdominal pain | 5 | 3 |
+| Dry mouth | 3 | 0 |
+| Hemorrhage rectum | 2 | 0 |
 | Toothache | 2 | 1 |
-| Hemic and Lymphatic System |  |  |
+| Hemic and lymphatic system |  |  |
 | Lymphadenopathy | 2 | 0 |
-| Infections and Infestations |  |  |
-| Viral Infection | 7 | 5 |
+| Infections and infestations |  |  |
+| Viral infection | 7 | 5 |
 | Infection | 2 | 0 |
-| Metabolic and Nutritional Disorders |  |  |
+| Metabolic and nutritional disorders |  |  |
 | Hyponatremia | 5 | 0 |
 | Thirst | 2 | 0 |
-| Nervous System |  |  |
+| Nervous system |  |  |
 | Headache | 31 | 15 |
 | Dizziness | 28 | 8 |
 | Somnolence | 19 | 5 |
@@ -155,141 +155,145 @@ Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with Ox
 | Insomnia | 6 | 3 |
 | Tremor | 6 | 3 |
 | Amnesia | 5 | 1 |
-| Aggravated Convulsions | 5 | 2 |
-| Emotional Lability | 3 | 2 |
+| Aggravated convulsions | 5 | 2 |
+| Emotional lability | 3 | 2 |
 | Hypoesthesia | 3 | 1 |
-| Abnormal Coordination | 2 | 1 |
+| Abnormal coordination | 2 | 1 |
 | Nystagmus | 2 | 0 |
-| Speech Disorder | 2 | 0 |
-| Respiratory System |  |  |
-| Upper Respiratory Tract Infection | 10 | 5 |
+| Speech disorder | 2 | 0 |
+| Respiratory system |  |  |
+| Upper respiratory tract infection | 10 | 5 |
 | Coughing | 5 | 0 |
 | Bronchitis | 3 | 0 |
 | Pharyngitis | 3 | 0 |
-| Skin and Appendages |  |  |
-| Hot Flushes | 2 | 1 |
+| Skin and appendages |  |  |
+| Hot flushes | 2 | 1 |
 | Purpura | 2 | 0 |
-| Special Senses |  |  |
-| Abnormal Vision | 14 | 2 |
+| Special senses |  |  |
+| Abnormal vision | 14 | 2 |
 | Diplopia | 12 | 1 |
-| Taste Perversion | 5 | 0 |
+| Taste perversion | 5 | 0 |
 | Vertigo | 3 | 0 |
 | Earache | 2 | 1 |
-| Ear Infection NOS | 2 | 0 |
-| Urogenital and Reproductive System |  |  |
-| Urinary Tract Infection | 5 | 1 |
-| Micturition Frequency | 2 | 1 |
+| Ear infection NOS | 2 | 0 |
+| Urogenital and reproductive system |  |  |
+| Urinary tract infection | 5 | 1 |
+| Micturition frequency | 2 | 1 |
 | Vaginitis | 2 | 0 |
 
-Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs
+Abbreviation: NOS, not otherwise specified.
+
+Controlled Clinical Study of Monotherapy in Adults Not Previously Treated With Other AEDs
 
 Table 5 lists adverse reactions in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with oxcarbazepine or placebo and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with Oxcarbazepine in Adults Not Previously Treated with Other AEDs
+Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy With Oxcarbazepine in Adults Not Previously Treated With Other Antiepileptic Drugs
 
-| Body System/ Adverse Reaction | Oxcarbazepine N=55 % | Placebo N=49 % |
+| Body system/ Adverse reaction | OxcarbazepineN = 55% | Placebo N = 49% |
 | --- | --- | --- |
-| Body as a Whole |  |  |
-| Falling Down NOS | 4 | 0 |
-| Digestive System |  |  |
+| Body as a whole |  |  |
+| Falling down NOS | 4 | 0 |
+| Digestive system |  |  |
 | Nausea | 16 | 12 |
 | Diarrhea | 7 | 2 |
 | Vomiting | 7 | 6 |
 | Constipation | 5 | 0 |
 | Dyspepsia | 5 | 4 |
-| Musculoskeletal System |  |  |
-| Back Pain | 4 | 2 |
-| Nervous System |  |  |
+| Musculoskeletal system |  |  |
+| Back pain | 4 | 2 |
+| Nervous system |  |  |
 | Dizziness | 22 | 6 |
 | Headache | 13 | 10 |
 | Ataxia | 5 | 0 |
 | Nervousness | 5 | 2 |
 | Amnesia | 4 | 2 |
-| Abnormal Coordination | 4 | 2 |
+| Abnormal coordination | 4 | 2 |
 | Tremor | 4 | 0 |
-| Respiratory System |  |  |
-| Upper Respiratory Tract Infection | 7 | 0 |
+| Respiratory system |  |  |
+| Upper respiratory tract infection | 7 | 0 |
 | Epistaxis | 4 | 0 |
-| Infection Chest | 4 | 0 |
+| Infection chest | 4 | 0 |
 | Sinusitis | 4 | 2 |
-| Skin and Appendages |  |  |
+| Skin and appendages |  |  |
 | Rash | 4 | 2 |
-| Special Senses |  |  |
-| Vision Abnormal | 4 | 0 |
+| Special senses |  |  |
+| Vision abnormal | 4 | 0 |
 
-Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs
+Abbreviation: NOS, not otherwise specified.
+
+Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated With Other AEDs
 
 Table 6 lists adverse reactions that occurred in at least 2% of pediatric patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with Oxcarbazepine in Pediatric Patients Previously Treated with Other AEDs
+Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy With Oxcarbazepine in Pediatric Patients Previously Treated With Other Antiepileptic Drugs
 
-| Body System/ Adverse Reaction | Oxcarbazepine N=171 % | Placebo N=139 % |
+| Body system/ Adverse reaction | OxcarbazepineN = 171% | Placebo N = 139% |
 | --- | --- | --- |
-| Body as a Whole |  |  |
+| Body as a whole |  |  |
 | Fatigue | 13 | 9 |
 | Allergy | 2 | 0 |
 | Asthenia | 2 | 1 |
-| Digestive System |  |  |
+| Digestive system |  |  |
 | Vomiting | 33 | 14 |
 | Nausea | 19 | 5 |
 | Constipation | 4 | 1 |
 | Dyspepsia | 2 | 0 |
-| Nervous System |  |  |
+| Nervous system |  |  |
 | Headache | 31 | 19 |
 | Somnolence | 31 | 13 |
 | Dizziness | 28 | 8 |
 | Ataxia | 13 | 4 |
 | Nystagmus | 9 | 1 |
-| Emotional Lability | 8 | 4 |
-| Abnormal Gait | 8 | 3 |
+| Emotional lability | 8 | 4 |
+| Abnormal gait | 8 | 3 |
 | Tremor | 6 | 4 |
-| Speech Disorder | 3 | 1 |
-| Impaired Concentration | 2 | 1 |
+| Speech disorder | 3 | 1 |
+| Impaired concentration | 2 | 1 |
 | Convulsions | 2 | 1 |
-| Involuntary Muscle Contractions | 2 | 1 |
-| Respiratory System |  |  |
+| Involuntary muscle contractions | 2 | 1 |
+| Respiratory system |  |  |
 | Rhinitis | 10 | 9 |
 | Pneumonia | 2 | 1 |
-| Skin and Appendages |  |  |
+| Skin and appendages |  |  |
 | Bruising | 4 | 2 |
-| Increased Sweating | 3 | 0 |
-| Special Senses |  |  |
+| Increased sweating | 3 | 0 |
+| Special senses |  |  |
 | Diplopia | 17 | 1 |
-| Abnormal Vision | 13 | 1 |
+| Abnormal vision | 13 | 1 |
 | Vertigo | 2 | 0 |
 
-Other Events Observed in Association with the Administration of Oxcarbazepine
+Other Events Observed in Association With the Administration of Oxcarbazepine
 
 In the paragraphs that follow, the adverse reactions, other than those in the preceding tables or text, that occurred in a total of 565 children and 1,574 adults exposed to oxcarbazepine and that are reasonably likely to be related to drug use are presented.
 Events common in the population, events reflecting chronic illness and events likely to reflect concomitant illness are omitted particularly if minor.
 They are listed in order of decreasing frequency.
 Because the reports cite events observed in open label and uncontrolled trials, the role of oxcarbazepine in their causation cannot be reliably determined.
 
-Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease.
+Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease
 
-Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia.
+Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia
 
-Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative.
+Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative
 
-Hematologic and Lymphatic System: thrombocytopenia.
+Hematologic and Lymphatic System: thrombocytopenia
 
-Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased.
+Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased
 
-Musculoskeletal System: hypertonia muscle.
+Musculoskeletal System: hypertonia muscle
 
-Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany.
+Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany
 
-Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy.
+Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy
 
-Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria.
+Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria
 
-Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia.
+Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia
 
-Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin.
+Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin
 
-Urogenital and Reproductive System:dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus.
+Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus
 
-Other: Systemic lupus erythematosus.
+Other: Systemic lupus erythematosus
 
 Laboratory Tests
 
@@ -302,5 +306,23 @@ Laboratory data from clinical trials suggest that Oxcarbazepine use was associat
 
 The following adverse reactions have been identified during postapproval use of Oxcarbazepine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Body as a Whole: multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia [see Warnings and Precautions (5.8)] Cardiovascular System: atrioventricular block Immune System Disorders: anaphylaxis [see Warnings and Precautions (5.2)] Digestive System: pancreatitis and/or lipase and/or amylase increase Hematologic and Lymphatic Systems: aplastic anemia [see Warnings and Precautions (5.9)] Metabolism and Nutrition Disorders: hypothyroidism and syndrome of inappropriate antidiuretic hormone secretion (SIADH) Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP) Musculoskeletal, connective tissue and bone disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with oxcarbazepine.
-Injury, Poisoning, and Procedural Complications: fall Nervous System Disorders: dysarthria
+
+Body as a Whole: multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia [see Warnings and Precautions (5.8)]
+
+Cardiovascular System: atrioventricular block
+
+Immune System Disorders: anaphylaxis [see Warnings and Precautions (5.2)]
+
+Digestive System: pancreatitis and/or lipase and/or amylase increase
+
+Hematologic and Lymphatic Systems: aplastic anemia [see Warnings and Precautions (5.9)]
+
+Metabolism and Nutrition Disorders: hypothyroidism and syndrome of inappropriate antidiuretic hormone secretion (SIADH)
+
+Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP)
+
+Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis, and fractures in patients on long-term therapy with oxcarbazepine.
+
+Injury, Poisoning, and Procedural Complications: fall
+
+Nervous System Disorders:dysarthria
