@@ -16,7 +16,7 @@ ECG Changes
 The effects of lurasidone hydrochloride on the QTc interval were evaluated in a randomized, double-blind, multiple-dose, parallel-dedicated thorough QT study in 43 patients with another indication, who were treated with lurasidone hydrochloride doses of 120 mg daily, 600 mg daily and completed the study.
 The maximum mean (upper 1-sided, 95% CI) increase in baseline-adjusted QTc intervals based on individual correction method (QTcI) was 7.5 (11.7) ms and 4.6 (9.5) ms, for the 120 mg and 600 mg dose groups respectively, observed at 2 to 4 hours after dosing.
 In this study, there was no apparent dose (exposure)-response relationship.
-In short-term, placebo-controlled studies in bipolar depression and another indication, no post- baseline QT prolongations exceeding 500 msec were reported in patients treated with lurasidone hydrochloride tablets or placebo.
+In short-term, placebo-controlled studies in bipolar depression and another indication, no post-baseline QT prolongations exceeding 500 msec were reported in patients treated with lurasidone hydrochloride tablets or placebo.
 
 ## 12.3 Pharmacokinetics
 

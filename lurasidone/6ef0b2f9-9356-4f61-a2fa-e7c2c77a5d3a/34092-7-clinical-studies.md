@@ -38,7 +38,7 @@ Table 37: Primary Efficacy Results for Adult Studies in Depressive Episodes Asso
 | Placebo | 30.5 (5.0) | -10.7 (0.8) | -- |  |
 | Adjunctive Therapy study | Lurasidone hydrochloride (20 to 120 mg/day)* + lithium or valproate | 30.6 (5.3) | -17.1 (0.9) | -3.6 (-6.0, -1.1) |
 | Placebo + lithium or valproate | 30.8 (4.8) | -13.5 (0.9) | -- |  |
-| SD: standard deviation; SE: standard error; LS Mean: least‐squares mean; CI: confidence interval, unadjusted for multiple comparisons. a Difference (drug minus placebo) in least‐squares mean change from baseline. * Treatment group statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least‐squares mean; CI: confidence interval, unadjusted for multiple comparisons.a Difference (drug minus placebo) in least‐squares mean change from baseline. * Treatment group statistically significantly superior to placebo. |  |  |  |  |
 
 Pediatric Patients (10 to 17 years)
 

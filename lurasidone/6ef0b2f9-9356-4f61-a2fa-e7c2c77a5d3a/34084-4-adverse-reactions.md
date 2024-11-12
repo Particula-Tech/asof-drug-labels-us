@@ -125,7 +125,7 @@ Table 23: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Pa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Body System or Organ Class Dictionary-derived Term | Placebo(N=172) | Lurasidone Hydrochloride20 to 80 mg/day(N=175) |
+| Body System or Organ ClassDictionary-derived Term | Placebo(N=172) | Lurasidone Hydrochloride20 to 80 mg/day(N=175) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 6 | 16 |
 | Vomiting | 4 | 6 |

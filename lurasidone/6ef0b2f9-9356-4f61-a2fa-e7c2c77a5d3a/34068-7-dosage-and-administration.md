@@ -26,7 +26,7 @@ The efficacy of lurasidone hydrochloride tablets in the treatment of mania assoc
 Lurasidone hydrochloride tablets should be taken with food (at least 350 calories).
 Administration with food substantially increases the absorption of lurasidone hydrochloride.
 Administration with food increases the AUC approximately 2-fold and increases the Cmax approximately 3-fold.
-In the clinical studies, lurasidone hydrochloride tablets was administered with food [see Clinical Pharmacology (12.3)].
+In the clinical studies, lurasidone hydrochloride tablets were administered with food [see Clinical Pharmacology (12.3)].
 
 The effectiveness of lurasidone hydrochloride tablets for longer-term use, that is, for more than 6 weeks, has not been established in controlled studies.
 Therefore, the physician who elects to use lurasidone hydrochloride tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.2)].
