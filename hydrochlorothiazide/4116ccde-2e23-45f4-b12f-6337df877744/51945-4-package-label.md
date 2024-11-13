@@ -7,7 +7,7 @@ Hyzaar® (Losartan Potassium and Hydrochlorothiazide Tablets)
 50 mg/12.5 mg
 
 Each tablet contains 50 mg losartan potassium and 12.5 mg hydrochlorothiazide.
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 77°F (25°C); excursions permitted to 59°F to 86°F (15°C to 30°C).
 Keep container tightly closed.
 Protect from light.
 
@@ -24,7 +24,7 @@ Hyzaar® (Losartan Potassium and Hydrochlorothiazide Tablets)
 100 mg/12.5 mg
 
 Each tablet contains 100 mg losartan potassium and 12.5 mg hydrochlorothiazide.
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 77°F (25°C); excursions permitted to 59°F to 86°F (15°C to 30°C).
 Keep container tightly closed.
 Protect from light.
 
@@ -41,7 +41,7 @@ Hyzaar® (Losartan Potassium and Hydrochlorothiazide Tablets)
 100 mg/25 mg
 
 Each tablet contains 100 mg losartan potassium and 25 mg hydrochlorothiazide.
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 77°F (25°C); excursions permitted to 59°F to 86°F (15°C to 30°C).
 Keep container tightly closed.
 Protect from light.
 
