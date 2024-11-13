@@ -1,5 +1,7 @@
-Varibar Pudding Label
+230 mL Varibar Pudding Label
 
-Varibar Pudding Tube
+230 mL Varibar Pudding Tube
 
-Varibar Pudding Carton NDC: 32909­125­22
+30 mL Varibar Pudding Label
+
+30 mL Varibar Pudding Tube
