@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA015197",
+    "NDA015230"
+  ],
+  "inn": "aminocaproic-acid",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-1100-58",
+    "0054-1110-13"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "aminocaproic acid",
+      "name": "Aminocaproic Acid"
+    },
+    {
+      "form": "TABLET",
+      "generic": "aminocaproic acid",
+      "name": "Aminocaproic Acid"
+    }
+  ],
+  "setid": "7b8f0ddb-00fd-4c22-afae-afe636f95f3a",
+  "source": "dailymed"
+}
