@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-VARIBAR HONEY is supplied as a suspension in a multiple-dose polyethylene bottle containing 250 mL of barium sulfate (40 % w/v).
+VARIBAR HONEY is supplied as a suspension in both a multiple-dose polyethylene bottle containing 250 mL and multiple-dose polyethylene tube containing 30 mL of barium sulfate (40 % w/v).
 
-Provided as: 12 x 250 mL bottles (NDC 32909-122-07)
+Provided as: 12 x 250 mL bottles (NDC 32909-122-07); 24 x 30 mL tubes (NDC 32909-122-54)
 
 ## 16.2 Storage and Handling
 
