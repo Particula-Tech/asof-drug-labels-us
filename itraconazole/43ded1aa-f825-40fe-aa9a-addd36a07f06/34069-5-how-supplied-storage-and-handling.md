@@ -8,9 +8,7 @@ It is also available as:
 Store at or below 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Do not freeze.
 
-Keep out of the reach of children.
-
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2024-08
+11-2024-09

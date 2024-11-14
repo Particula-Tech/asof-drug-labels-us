@@ -2,4 +2,4 @@
 
 Itraconazole oral solution is indicated for the treatment of oropharyngeal and esophageal candidiasis.
 
-(see CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information).
+(see CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and ADVERSE REACTIONS: Postmarketing Experience for more information).

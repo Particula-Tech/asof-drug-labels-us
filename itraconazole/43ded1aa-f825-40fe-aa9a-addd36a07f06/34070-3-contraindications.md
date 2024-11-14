@@ -2,7 +2,7 @@
 
 Congestive Heart Failure:
 
-Itraconazole oral solution should not be administered to patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF except for the treatment of life-threatening or other serious infections (see BOXED WARNING, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations).
+Itraconazole oral solution should not be administered to patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF except for the treatment of life-threatening or other serious infections (see BOXED WARNING, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populations).
 
 ## Drug Interactions:
 

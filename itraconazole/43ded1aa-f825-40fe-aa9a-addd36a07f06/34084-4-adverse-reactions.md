@@ -58,7 +58,7 @@ Edema, hypokalemia and menstrual disorders have been reported in clinical trials
 
 Adverse Events Reported from Other Clinical Trials
 
-A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/ itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials” or listed below as post-marketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
+A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/ itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials” or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
 
 In addition, the following adverse drug reactions were reported in patients who participated in itraconazole oral solution clinical trials:
 
@@ -104,16 +104,17 @@ In addition, the following adverse drug reaction was reported in children only w
 
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-## Post-marketing Experience
+## Postmarketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 4 below.
+Adverse drug reactions that have been first identified during postmarketing experience with itraconazole (all formulations) are listed in Table 4 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 4: Post-marketing Reports of Adverse Drug Reactions
+Table 4: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
 | Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
+| Endocrine Disorders: | Pseudoaldosteronism |
 | Metabolism and Nutrition Disorders: | Hypertriglyceridemia |
 | Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
@@ -130,5 +131,5 @@ Table 4: Post-marketing Reports of Adverse Drug Reactions
 | Investigations: | Blood creatine phosphokinase increased |
 
 There is limited information on the use of itraconazole during pregnancy.
-Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
+Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during postmarketing experience.
 A causal relationship with itraconazole has not been established (see CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information).
