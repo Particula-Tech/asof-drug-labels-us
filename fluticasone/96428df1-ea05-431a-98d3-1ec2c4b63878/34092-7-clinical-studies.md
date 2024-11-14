@@ -139,7 +139,7 @@ Adult Patients
 
 The efficacy of BREO ELLIPTA for the maintenance treatment of asthma was based on data from 4 randomized, double-blind, parallel-group clinical trials (Trial 8 [NCT01165138], Trial 9 [NCT01686633], Trial 10 [NCT01134042] and Trial 12 [NCT01086384]).
 While these 4 trials enrolled pediatric patients 12 to 17 years of age, these trials only support efficacy in adults [see Use in Specific Populations (8.4)].
-In addition, patients in these trials were treated with BREO ELLIPTA 200/25 mcg once daily by oral inhalation, which is not the approved recommended dosage for pediatric patients 12 years of age and older [see Dosage and Administration (2.3)].
+In addition, patients in these trials were treated with BREO ELLIPTA 200/25 mcg once daily by oral inhalation, which is not the approved recommended dosage for pediatric patients 12 years of age and older [see Dosage and Administration (2.2)].
 Trials 8, 9, and 10 were designed to evaluate the safety and efficacy of BREO ELLIPTA given once daily in patients who were not controlled on their current treatments of ICS or combination therapy consisting of an ICS plus a LABA.
 Trial 12 (24- to 76-week exacerbation trial) was designed to demonstrate that treatment with BREO ELLIPTA 100/25 mcg significantly decreased the risk of asthma exacerbations as measured by time to first asthma exacerbation when compared with fluticasone furoate 100 mcg.
 This trial enrolled patients who had 1 or more asthma exacerbations in the year prior to trial entry.
@@ -182,8 +182,8 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 
 | Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Treatment | Difference from |  |  |  |  |  |  |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |  |
+| Difference from |  |  |  |  |  |  |  |  |  |  |
+| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |
 | Trial 8 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 mcg | 108 | 302(178, 426) | 116(-5, 236) | –– |  |  |  |  |  |  |
 | Trial 9 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
@@ -191,15 +191,15 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 | Trial 10 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
 | BREO ELLIPTA 200/25 mcg | 89 | –– | –– | 136(1, 270) |  |  |  |  |  |  |
 | Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |  |  |  |  |  |  |
-| Treatment | Difference from |  |  |  |  |  |  |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |  |
+| Difference from |  |  |  |  |  |  |  |  |  |  |
+| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |
 | Trial 8 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 mcg | 200 | 172(87, 258) | 36(-48, 120) | –– |  |  |  |  |  |  |
 | Trial 9 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 mcg | 334 | –– | 77(16, 138) | –– |  |  |  |  |  |  |
 | Trial 10 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
 | BREO ELLIPTA 200/25 mcg | 187 | –– | –– | 193(108, 277) |  |  |  |  |  |  |
-| FEV1 = Forced Expiratory Volume in 1 second, ICS = inhaled corticosteroid, LABA = long-acting beta2-adrenergic agonist. |  |  |  |  |  |  |  |  |  |  |
+| FEV1 = Forced Expiratory Volume in 1 second, ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist. |  |  |  |  |  |  |  |  |  |  |
 | a Although these trials included pediatric patients 12 to 17 years of age, they only support the efficacy in adult patients. |  |  |  |  |  |  |  |  |  |  |
 
 In Trial 8, weighted mean FEV1 (0 to 24 hours) was assessed in a subset of patients (n = 309).
@@ -252,7 +252,7 @@ This trial evaluated the efficacy of BREO ELLIPTA compared with fluticasone furo
 All inhalations were administered once daily in the morning.
 At trial entry patients had at least a 6-month history of asthma and had been receiving stable asthma therapy for at least 4 weeks prior to screening.
 Patients had to have a pre-bronchodilator FEV1 >50% to ≤100% of predicted normal and demonstrate a ≥12% reversibility of FEV1 within 15 to 40 minutes following 2 to 4 inhalations of albuterol inhalation aerosol (or 1 nebulized treatment with albuterol solution).
-Exclusion criteria included a history of life-threatening asthma or any asthma exacerbation requiring the use of oral corticosteroids, systemic or depot corticosteroids, emergency department visit, or hospitalization within 6 weeks, 3 months, 3 months, or 6 months of screening, respectively.
+Exclusion criteria included a history of life-threatening asthma or any asthma exacerbation requiring the use of oral corticosteroids, systemic or depot corticosteroids, emergency department visit, or hospitalization within 6 weeks, 3 months, or 6 months of screening, respectively.
 
 Patients entered a 4-week open-label run-in period during which all patients received fluticasone propionate 100 mcg twice daily.
 Patients reporting symptoms and/or rescue beta2-agonist medication use during the last week of the run-in period were continued in the trial and were stratified by age.
@@ -272,7 +272,7 @@ Weighted Mean FEV1 (0-4 h) (mL) at Week 12 in Patients Aged 5 to 17 Years (Inten
 | LS mean change (SE) | 323 (16.4) | 406 (16.5) |  |  |  |  |  |  |  |  |  |  |  |
 | Difference vs fluticasone furoate |  | 83 |  |  |  |  |  |  |  |  |  |  |  |
 | (95% CI) |  | (37, 129) |  |  |  |  |  |  |  |  |  |  |  |
-| FEV1 = Forced Expiratory Volume in 1 second, LS = Least squares, SE = standard error. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| FEV1 = Forced Expiratory Volume in 1 second, LS = Least Squares, SE = Standard Error. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 1. a The dose of fluticasone furoate was 100 mcg once daily for pediatric patients aged 12 to 17 years and 50 mcg once daily for pediatric patients aged 5 to 11 years.
 2. b The dose of BREO ELLIPTA was 100/25 mcg once daily for pediatric patients aged 12 to 17 years and 50/25 mcg once daily for pediatric patients aged 5 to 11 years.

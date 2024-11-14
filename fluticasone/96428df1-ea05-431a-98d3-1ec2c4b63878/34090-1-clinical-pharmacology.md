@@ -144,7 +144,7 @@ The increase in fluticasone furoate exposure was associated with a 27% reduction
 The increase in vilanterol exposure was not associated with an increase in beta-agonist–related systemic effects on heart rate or blood potassium.
 
 Figure 2.
-Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination or Vilanterol Coadministered with a Long-acting Muscarinic Antagonist
+Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination or Vilanterol Coadministered with a Long-Acting Muscarinic Antagonist
 
 - aCompared with placebo group.
 

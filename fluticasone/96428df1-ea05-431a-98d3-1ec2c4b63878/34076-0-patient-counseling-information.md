@@ -23,7 +23,7 @@ Instruct patients to seek medical attention immediately if they experience any o
 Tell patients they should not stop therapy with BREO ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
 [See Warnings and Precautions (5.2).]
 
-Do Not Use Additional Long-acting Beta2-agonists
+Do Not Use Additional Long-Acting Beta2-Agonists
 
 Instruct patients not to use other LABA for COPD and asthma.
 [See Warnings and Precautions (5.3).]
@@ -82,7 +82,7 @@ Glaucoma and Cataracts
 Advise patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 [See Warnings and Precautions (5.15).]
 
-Risks Associated with Beta-agonist Therapy
+Risks Associated with Beta-Agonist Therapy
 
 Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 Instruct patients to consult a healthcare practitioner immediately should any of these signs and symptoms develop.
@@ -96,6 +96,6 @@ GlaxoSmithKline
 
 Durham, NC 27701
 
-©2023 GSK group of companies or its licensor.
+©2024 GSK group of companies or its licensor.
 
-BRE:12PI
+BRE:13PI

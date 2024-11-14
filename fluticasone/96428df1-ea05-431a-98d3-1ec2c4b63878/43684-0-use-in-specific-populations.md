@@ -48,7 +48,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of BREO ELLIPTA for the maintenance treatment of asthma in pediatric patients 5 years of age and older have been established.
-This indication is based on Trial 14, an adequate and well-controlled trial in pediatric patients aged 5 to 17 years [see Adverse Reactions (6.2) and Clinical Studies (14.2)].
+This indication is based on Trial 14, an adequate and well-controlled trial in pediatric patients aged 5 to 17 years [see Adverse Reactions (6.2), Clinical Studies (14.2)].
 The recommended dosage for pediatric patients is different than the adult dosage [see Dosage and Administration (2.2)].
 
 The safety and efficacy of BREO ELLIPTA in pediatric patients aged younger than 5 years have not been established.

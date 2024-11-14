@@ -1,6 +1,21 @@
 # 6 ADVERSE REACTIONS
 
-## The following clinically significant adverse reactions are described elsewhere in labeling: Serious Asthma-Related Events – Hospitalizations, Intubations, Death [see Warnings and Precautions ()] Oropharyngeal Candidiasis [see Warnings and Precautions ()] Pneumonia [see Warnings and Precautions ()] Immunosuppression and Risk of Infections [see Warnings and Precautions ()] Hypercorticism and Adrenal Suppression [see Warnings and Precautions ()] Paradoxical Bronchospasm [see Warnings and Precautions ()] Cardiovascular Effects [see Warnings and Precautions ()] Reduction in Bone Mineral Density [see Warnings and Precautions ()] Growth Effects [see Warnings and Precautions ()] Glaucoma and Cataracts [see Warnings and Precautions ()] Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice. 6.1 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
+The following clinically significant adverse reactions are described elsewhere in labeling:
+
+- •Serious Asthma-Related Events – Hospitalizations, Intubations, Death [see Warnings and Precautions (5.1)]
+- •Oropharyngeal Candidiasis [see Warnings and Precautions (5.4)]
+- •Pneumonia [see Warnings and Precautions (5.5)]
+- •Immunosuppression and Risk of Infections [see Warnings and Precautions (5.6)]
+- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.8)]
+- •Paradoxical Bronchospasm [see Warnings and Precautions (5.10)]
+- •Cardiovascular Effects [see Warnings and Precautions (5.12)]
+- •Reduction in Bone Mineral Density [see Warnings and Precautions (5.13)]
+- •Growth Effects [see Warnings and Precautions (5.14)]
+- •Glaucoma and Cataracts [see Warnings and Precautions (5.15)]
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+## 6.1 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
 
 The safety data described below are based on two 6-month and two 12-month trials and one long-term mortality trial.
 In these studies, 5,356 patients with COPD received at least 1 dose of BREO ELLIPTA 100/25 mcg.
@@ -46,7 +61,7 @@ In addition to the events in COPD trials shown in Table 2, adverse reactions occ
 ## 6.2 Clinical Trials Experience in Asthma
 
 The safety data described below were based on trials that evaluated BREO ELLIPTA 100/25 mcg in 1,757 patients and BREO ELLIPTA 200/25 mcg in 745 patients.
-While patients aged 12 to 17 years were included in these trials, BREO ELLIPTA 200/25 mcg is not approved for use in this age group [see Dosage and Administration (2.3)].
+While patients aged 12 to 17 years were included in these trials, BREO ELLIPTA 200/25 mcg is not approved for use in this age group [see Dosage and Administration (2.2)].
 
 One additional 24-week trial enrolled 902 pediatric patients with asthma.
 In this trial, BREO ELLIPTA 100/25 mcg was studied in 117 patients aged 12 to 17 years and BREO ELLIPTA 50/25 mcg was studied in 337 patients aged 5 to 11 years.
