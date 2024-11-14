@@ -23,10 +23,7 @@ Physicians should advise patients of the reported signs and symptoms of secondar
 Strict adherence to the following precautions is advised to minimize the potential for secondary exposure to testosterone from FORTESTA in men [see Medication Guide]:
 
 - Children and women should avoid contact with unwashed or unclothed application site(s) of men using FORTESTA.
-- Patients using FORTESTA should apply the product as directed and strictly adhere to the following:
-  - Wash hands with soap and water after application.
-  - Cover the application site(s) with clothing after the gel has dried.
-  - Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
+- Patients using FORTESTA should apply the product as directed and strictly adhere to the following: • Wash hands with soap and water after application. • Cover the application site(s) with clothing after the gel has dried. • Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
 - In the event that unwashed or unclothed skin to which FORTESTA has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
 ## 17.3 Potential Adverse Reactions with Androgens
@@ -52,8 +49,6 @@ Patients should be informed that treatment with androgens may lead to adverse re
 
 Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
-Distributed by: Endo Pharmaceuticals Inc., Malvern, PA 19355
+Manufactured for: Endo USA, Malvern, PA 19355
 
-© 2020 Endo Pharmaceuticals Inc. All rights reserved.
-
-FORTESTA is a registered trademark of Endo Pharmaceuticals Inc.
+© 2024 Endo, Inc. or one of its affiliates.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-FORTESTA is a clear, colorless to slightly yellow, odorless, gel containing testosterone.
+FORTESTA is a clear, colorless, odorless, gel containing testosterone.
 The product may attain slightly yellow color during its shelf-life.
 FORTESTA is available in a metered-dose pump.
 Each pump actuation provides 10 mg of testosterone and each container is capable of dispensing 120 pump actuations.

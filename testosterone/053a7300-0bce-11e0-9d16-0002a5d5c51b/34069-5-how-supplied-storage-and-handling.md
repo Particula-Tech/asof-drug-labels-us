@@ -6,7 +6,7 @@ One (1) pump actuation dispenses 0.5 g of gel.
 
 FORTESTA is available in packages of 1, 2, and 3 canisters (NDC 63481-183-16, NDC 63481-183-17, and NDC 63481-183-18, respectively).
 
-Store at controlled room temperature 20oC-25oC (68oF-77oF); excursions permitted to 15oC-30oC (59oF-86oF).
+Store at controlled room temperature 20ºC-25ºC (68ºF-77ºF); excursions permitted to 15ºC-30ºC (59ºF-86ºF).
 [See USP].
 Do Not Freeze.
 

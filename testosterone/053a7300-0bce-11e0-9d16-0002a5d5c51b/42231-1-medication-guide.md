@@ -105,13 +105,7 @@ FORTESTA can cause serious side effects including:
 See “What is the most important information I should know about FORTESTA?”
 
 - If you already have enlargement of your prostate gland your signs and symptoms can get worse while using FORTESTA.
-  This can include:
-  - increased urination at night.
-  - trouble starting your urine stream.
-  - having to pass urine many times during the day.
-  - having an urge to go to the bathroom right away.
-  - having a urine accident.
-  - being unable to pass urine or weak urine flow.
+  This can include: • increased urination at night. • trouble starting your urine stream. • having to pass urine many times during the day. • having an urge to go to the bathroom right away. • having a urine accident. • being unable to pass urine or weak urine flow.
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use FORTESTA.
 - Blood clots in the legs or lungs.
@@ -169,12 +163,16 @@ Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, ole
 
 Manufactured by: Pharbil Waltrop GmbH Im Wirrigen 25, 45731 Waltrop, Germany
 
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Manufactured for:
 
-© 2020 Endo Pharmaceuticals Inc. All rights reserved.
+Endo USA
+
+Malvern, PA 19355
+
+© 2024 Endo, Inc. or one of its affiliates.
 
 For more information about FORTESTA, go to www.fortestagel.com or call 1-800-462-3636.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 06/2020
+Revised: 09/2024
