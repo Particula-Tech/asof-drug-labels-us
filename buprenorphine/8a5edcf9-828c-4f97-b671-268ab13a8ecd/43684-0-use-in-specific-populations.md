@@ -68,7 +68,7 @@ Because of the imbalance in discontinuation rates between the buprenorphine and 
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to the human sublingual dose of 16 mg buprenorphine via SUBOXONE sublingual tablets.
+The exposure margins listed below are based on body surface area comparisons (mg/m 2) to the human sublingual dose of 16 mg buprenorphine via SUBOXONE sublingual tablets.
 
 Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russian white rabbits following oral (1:1) and intramuscular (IM) (3:2) administration of mixtures of buprenorphine and naloxone during the period of organogenesis.
 Following oral administration to rats no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 150 times the human sublingual dose of 16 mg) in the presence of maternal toxicity (mortality).
@@ -121,7 +121,7 @@ In a study of six lactating women who were taking a median sublingual buprenorph
 
 0.33 mcg/kg/day of norbuprenorphine, equal to 0.2% and 0.12%, respectively, of the maternal weight-adjusted dose (relative dose/kg (%) of norbuprenorphine was calculated from the assumption that buprenorphine and norbuprenorphine are equipotent).
 
-Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of
+Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (C avg) of
 
 buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
 Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose.

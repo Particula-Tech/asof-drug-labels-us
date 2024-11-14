@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 4 Includes clinically significant drug interactions with SUBOXONE.
+Table 4Includes clinically significant drug interactions with SUBOXONE.
 
 Table 4.
 Clinically Significant Drug Interactions

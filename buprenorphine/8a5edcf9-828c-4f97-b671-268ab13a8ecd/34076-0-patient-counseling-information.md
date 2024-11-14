@@ -69,7 +69,7 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
 © 2023, Indivior UK Limited.
 All Rights Reserved.
 
-SUBOXONE® and SUBUTEX® are registered trademarks of Indivior UK Limited.
+SUBOXONE ®and SUBUTEX ®are registered trademarks of Indivior UK Limited.
 
 Manufactured for Indivior Inc.
 

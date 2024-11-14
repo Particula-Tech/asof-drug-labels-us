@@ -10,17 +10,20 @@ Important Information You Need to Know Before Taking SUBOXONE sublingual film:
 - Each SUBOXONE sublingual film comes in a sealed child‐resistant foil pouch.
   Do not open the foil pouch until you are ready to take it.
 
-Preparing to take SUBOXONE sublingual film:
+Preparing to take SUBOXONEsublingual film:
 
-- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line (see Figure 1).Figure 1
-- Tear down at slit or cut with scissors along the arrow (see Figure 2).Figure 2
+- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line (see Figure 1).
+  Figure 1
+- Tear down at slit or cut with scissors along the arrow (see Figure 2).
+  Figure 2
 - Before taking SUBOXONE sublingual film, drink water to moisten your mouth.
   This helps the film dissolve more easily.
 
 To take SUBOXONE sublingual film under your tongue (sublingual administration):
 
 - Hold the film between two fingers by the outside edges.
-- Place the SUBOXONE sublingual film under your tongue, close to the base either to the left or right of the center (see Figure 3).Figure 3
+- Place the SUBOXONE sublingual film under your tongue, close to the base either to the left or right of the center (see Figure 3).
+  Figure 3
 - If your healthcare provider tells you to take 2 films at a time, place the second film under your tongue on the opposite side.
   Avoid letting the films touch.
 - Keep the films in place until they have completely dissolved.
@@ -29,7 +32,8 @@ To take SUBOXONE sublingual film under your tongue (sublingual administration):
 To take SUBOXONE sublingual film on the inside of your cheek (buccal administration):
 
 - Hold the film between two fingers by the outside edges.
-- Place one film on the inside of your right or left cheek (see Figure 4).Figure 4
+- Place one film on the inside of your right or left cheek (see Figure 4).
+  Figure 4
   - If your healthcare provider tells you to take 2 films at a time, place the other film on the inside of the opposite cheek.
   - Keep the films in place until they have completely dissolved.
   - If your healthcare provider tells you to take a third film, place it on the inside of your right or left cheek after the first 2 films have dissolved.
@@ -59,11 +63,11 @@ Disposing of SUBOXONE Sublingual Film:
 - Dispose of unused SUBOXONE sublingual film as soon as you no longer need them.
 - Dispose of expired, unwanted or unused SUBOXONE sublingual film by removing the SUBOXONE sublingual film from the foil packaging, and promptly flushing down the toilet (if a drug take-back option is not readily available).
   Do not flush the SUBOXONE sublingual film foil pouch down the toilet.
-  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
+  Visit www.fda.gov/drugdisposalfor additional information on disposal of unused medicines.
 
 If you need help with disposal of SUBOXONE sublingual film, call 1‐877‐782‐6966.
 
-SUBOXONE® is a registered trademark of Indivior UK Limited.
+SUBOXONE ®is a registered trademark of Indivior UK Limited.
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
 Revised 06/2022

@@ -60,7 +60,7 @@ Adverse Events (≥ 5%) by Body System and Treatment Group in a 4 Week Study
 | Abbreviations: COSTART = Coding Symbols for Thesaurus of Adverse Reaction Terms. |  |  |  |
 
 The adverse event profile of buprenorphine was also characterized in the dose-controlled study of a buprenorphine ethanolic solution, over a range of doses in four months of treatment.
-Table 3 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled trial.
+Table 3shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled trial.
 
 Table 3.
 Adverse Events (≥ 5%) by Body System and Treatment Group in a 16 Week Study
