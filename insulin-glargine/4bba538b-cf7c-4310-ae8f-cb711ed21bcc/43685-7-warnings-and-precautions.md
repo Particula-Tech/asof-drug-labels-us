@@ -110,3 +110,11 @@ If heart failure develops, it should be managed according to current standards o
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
 In a cardiovascular outcomes trial, cholelithiasis occurred in 0.4% of lixisenatide-treated patients versus 0.2% in placebo-treated patients and acute cholecystitis in 0.3% of lixisenatide-treated patients versus 0.2% in placebo-treated patients.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
+
+## 5.12 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+SOLIQUA 100/33 delays gastric emptying [see Clinical Pharmacology (12.1)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking SOLIQUA 100/33, including whether modifying preoperative fasting recommendations or temporarily discontinuing SOLIQUA 100/33 could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SOLIQUA 100/33.

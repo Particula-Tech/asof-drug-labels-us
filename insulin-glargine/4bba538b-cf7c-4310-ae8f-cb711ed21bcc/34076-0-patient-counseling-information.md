@@ -44,6 +44,11 @@ Acute Gallbladder Disease
 Inform patients of the potential risk for cholelithiasis or cholecystitis.
 Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.11)].
 
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that SOLIQUA 100/33 may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SOLIQUA 100/33 [see Warnings and Precautions (5.12)].
+
 Use in Pregnancy
 
 Advise patients to inform their physicians if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1)].

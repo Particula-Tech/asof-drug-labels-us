@@ -254,10 +254,10 @@ Throwing your pen away
 
 Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
 
-©2023 sanofi-aventis U.S. LLC
+©2024 sanofi-aventis U.S. LLC
 
 SOLIQUA and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: September 2023
+Revised: November 2024

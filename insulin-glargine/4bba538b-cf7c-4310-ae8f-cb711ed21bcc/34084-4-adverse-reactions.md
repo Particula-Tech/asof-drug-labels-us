@@ -8,6 +8,7 @@ The following adverse reactions are discussed elsewhere:
 - Acute Kidney Injury [see Warnings and Precautions (5.7)]
 - Hypokalemia [see Warnings and Precautions (5.9)]
 - Acute Gallbladder Disease [see Warnings and Precautions (5.11)]
+- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -133,3 +134,5 @@ Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy
 Gastrointestinal: ileus
 
 Nervous system: dysgeusia
+
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
