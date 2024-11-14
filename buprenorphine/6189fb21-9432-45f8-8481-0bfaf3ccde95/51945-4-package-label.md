@@ -2,7 +2,7 @@ Principal Display Panel - Sublocade 100 mg Carton Label
 
 NDC 12496-0100-1
 
-Sublocade®
+Sublocade ®
 
 (buprenorphine extended-release)
 
@@ -16,7 +16,7 @@ Principal Display Panel - Sublocade 300 mg Carton Label
 
 NDC 12496-0300-1
 
-Sublocade®
+Sublocade ®
 
 (buprenorphine extended-release)
 

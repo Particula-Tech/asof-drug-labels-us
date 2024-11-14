@@ -28,7 +28,7 @@ Initiation of Treatment following Induction
 
 Patients should first undergo induction and stabilization by initiating a buprenorphine-containing product, delivering the equivalent of 8-24 mg/day of transmucosal buprenorphine for a minimum of 7 days.
 Dosing and induction with buprenorphine-containing products should be based on instructions in their appropriate product label.
-One SUBOXONE® (buprenorphine and naloxone) 8 mg/2 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBUTEX® (buprenorphine HCl) 8 mg sublingual tablet or one Bunavail® (buprenorphine and naloxone) 4.2 mg/0.7 mg buccal film or one Zubsolv® (buprenorphine and naloxone) 5.7 mg/1.4 mg sublingual tablet.
+One SUBOXONE ®(buprenorphine and naloxone) 8 mg/2 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBUTEX ®(buprenorphine HCl) 8 mg sublingual tablet or one Bunavail ®(buprenorphine and naloxone) 4.2 mg/0.7 mg buccal film or one Zubsolv ®(buprenorphine and naloxone) 5.7 mg/1.4 mg sublingual tablet.
 
 The recommended dose of SUBLOCADE following induction is 300 mg monthly for the first two months followed by a maintenance dose of 100 mg monthly.
 
@@ -43,7 +43,7 @@ Patients should be cautioned that the peak plasma level after injection of a 300
 
 Transition of Patients Established on Long-term Treatment with Transmucosal Buprenorphine
 
-Patients established on long-term treatment with transmucosal buprenorphine (8-24 mg/day) and whose disease symptoms are controlled may be directly transitioned to SUBLOCADE [see Table 1].
+Patients established on long-term treatment with transmucosal buprenorphine (8-24 mg/day) and whose disease symptoms are controlled may be directly transitioned to SUBLOCADE [seeTable 1].
 At steady-state, buprenorphine plasma concentrations achieved with 100-mg monthly dosing are contained within the range obtained with transmucosal treatment; peak concentrations with SUBLOCADE may be lower, while average and trough concentrations may be higher.
 Potential differences in steady state levels need to be taken into consideration when transitioning a patient established on long term treatment with transmucosal buprenorphine to SUBLOCADE [see Clinical Pharmacology (12.3), Table 7].
 

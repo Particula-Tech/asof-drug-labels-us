@@ -107,6 +107,6 @@ Tell your patients not to tamper with or try to remove their depot [see Dosage a
 © 2023, Indivior UK Limited.
 All Rights Reserved.
 
-SUBLOCADE® and SUBOXONE® are registered trademarks of Indivior UK Limited.
+SUBLOCADE ®and SUBOXONE ® are registered trademarks of Indivior UK Limited.
 
 Manufactured for Indivior Inc., North Chesterfield VA, 23235
