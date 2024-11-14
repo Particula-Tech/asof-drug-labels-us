@@ -25,7 +25,7 @@ Absorption
 
 Based on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
 
-After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range 3 to 13) hours.
+After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range, 3 to 13) hours.
 After single-dose administration of oxcarbazepine oral suspension to healthy male volunteers under fasted conditions, the median tmax was 6 hours.
 
 Steady-state plasma concentrations of MHD are reached within 2 to 3 days in patients when oxcarbazepine is given twice a day.
@@ -71,6 +71,14 @@ The mean weight-adjusted clearance in children 4 to 12 years of age is approxima
 Therefore, MHD exposure in these children is expected to be about three-quarters that of adults when treated with a similar weight-adjusted dose.
 As weight increases, for patients 13 years of age and above, the weight-adjusted MHD clearance is expected to reach that of adults.
 
+Pediatric Patients With Obesity
+
+A population PK analysis of oxcarbazepine was conducted that included n = 92 obese and non-obese pediatric patients < 18 years of age to evaluate the potential impact of obesity on plasma oxcarbazepine exposures.
+Obesity was defined as BMI ≥ 95th percentile for age and sex based on CDC 2000 growth chart recommendations.
+Simulated results from this analysis suggested that the target maintenance doses for oxcarbazepine, applied in pediatric patients ≥ 2 years of age, produced equivalent steady-state exposure of MHD between pediatric patients with and without obesity.
+This finding is consistent when using total body weight, or when using fat-free mass in patients ≥ 3 years and total body weight in patients < 3 years in the simulations.
+Dosage adjustment according to obesity status is not necessary.
+
 Gender
 
 No gender-related pharmacokinetic differences have been observed in children, adults, or the elderly.
@@ -102,7 +110,7 @@ In addition, several AEDs that are cytochrome P450 inducers can decrease plasma 
 No autoinduction has been observed with oxcarbazepine.
 
 Oxcarbazepine was evaluated in human liver microsomes to determine its capacity to inhibit the major cytochrome P450 enzymes responsible for the metabolism of other drugs.
-Results demonstrate that oxcarbazepine and its pharmacologically active 10-monohydroxy metabolite (MHD) have little or no capacity to function as inhibitors for most of the human cytochrome P450 enzymes evaluated (CYP1A2, CYP2A6, CYP2C9, CYP2D6, CYP2E1, CYP4A9 and CYP4A11) with the exception of CYP2C19 and CYP3A4/5.
+Results demonstrate that oxcarbazepine and its pharmacologically active 10-monohydroxy metabolite (MHD) have little or no capacity to function as inhibitors for most of the human cytochrome P450 enzymes evaluated (CYP1A2, CYP2A6, CYP2C9, CYP2D6, CYP2E1, CYP4A9, and CYP4A11) with the exception of CYP2C19 and CYP3A4/5.
 Although inhibition of CYP3A4/5 by oxcarbazepine and MHD did occur at high concentrations, it is not likely to be of clinical significance.
 The inhibition of CYP2C19 by oxcarbazepine and MHD can cause increased plasma concentrations of drugs that are substrates of CYP2C19, which is clinically relevant.
 
@@ -121,7 +129,7 @@ Other Antiepileptic Drugs
 Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
 The effect of these interactions on mean AUCs and Cmin are summarized in Table 7 [see Drug Interactions (7.1, 7.2)].
 
-Table 7: Summary of AED Interactions with Oxcarbazepine
+Table 7: Summary of Antiepileptic Drug Interactions With Oxcarbazepine
 
 | AED Co-administered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
 | --- | --- | --- | --- | --- |
@@ -130,11 +138,11 @@ Table 7: Summary of AED Interactions with Oxcarbazepine
 | Phenytoin | 250 to 500 | 600 to 1,800 >1,200 to 2,400 | nc1,2 up to 40% increase3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
 | Valproic acid | 400 to 2,800 | 600 to 1,800 | nc1 | 18% decrease [CI: 13% decrease, 40% decrease] |
 | Lamotrigine | 200 | 1,200 | nc1 | nc1 |
-| 1nc denotes a mean change of less than 10%2Pediatrics3Mean increase in adults at high oxcarbazepine doses |  |  |  |  |
+| Abbreviations: AED, antiepileptic drugs; CI, confidence interval; MHD, 10-monohydroxy derivative.1nc denotes a mean change of less than 10%.2Pediatrics.3Mean increase in adults at high oxcarbazepine doses. |  |  |  |  |
 
 Hormonal Contraceptives
 
-Co-administration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG) [see Drug Interactions (7.3)].
+Co-administration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components: ethinylestradiol (EE) and levonorgestrel (LNG) [see Drug Interactions (7.3)].
 The mean AUC values of EE were decreased by 48% [90% CI: 22 to 65] in one study and 52% [90% CI: 38 to 52] in another study.
 The mean AUC values of LNG were decreased by 32% [90% CI: 20 to 45] in one study and 52% [90% CI: 42 to 52] in another study.
 

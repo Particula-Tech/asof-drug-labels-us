@@ -44,7 +44,7 @@ Many people who are allergic to carbamazepine are also allergic to oxcarbazepine
 Tell your healthcare provider if you are allergic to carbamazepine.
 
 3.
-Like other antiepileptic drugs, oxcarbazepine oral suspension may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+Like other antiepileptic drugs (AEDs), oxcarbazepine oral suspension may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -100,12 +100,14 @@ Before taking oxcarbazepine oral suspension, tell your healthcare provider about
 - are pregnant or plan to become pregnant.
   Oxcarbazepine oral suspension may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine oral suspension.
-  You and your healthcare provider will decide if you should take oxcarbazepine oral suspension while you are pregnant.If you become pregnant while taking oxcarbazepine oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  You and your healthcare provider will decide if you should take oxcarbazepine oral suspension while you are pregnant.
+  If you become pregnant while taking oxcarbazepine oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
   The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
   You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
   Oxcarbazepine passes into breast milk.
-  Talk with your healthcare provider about the best way to feed your baby if you take oxcarbazepine oral suspension.Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+  Talk with your healthcare provider about the best way to feed your baby if you take oxcarbazepine oral suspension.
+  Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
   Taking oxcarbazepine oral suspension with certain other medicines may cause side effects or affect how well they work.
   Do not start or stop other medicines without talking to your healthcare provider.Know the medicines you take.
   Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.How should I take oxcarbazepine oral suspension?
@@ -132,7 +134,7 @@ What are the possible side effects of oxcarbazepine oral suspension?
 
 See “What is the most important information I should know about oxcarbazepine oral suspension?”
 
-Oxcarbazepine oral suspension may cause other serious side effects including:
+Oxcarbazepine oral suspension may cause other serious side effects, including:
 
 - trouble concentrating
 - problems with your speech and language
@@ -192,4 +194,4 @@ For more information, go to www.amneal.com or call 1-877-835-5472.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2019-05
+10-2024-06

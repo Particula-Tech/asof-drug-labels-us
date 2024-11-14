@@ -7,9 +7,9 @@ The effectiveness of oxcarbazepine as monotherapy for partial-onset seizures in 
 ## 14.1 Oxcarbazepine Monotherapy Trials
 
 Four randomized, controlled, double-blind, multicenter trials, conducted in a predominately adult population, demonstrated the efficacy of oxcarbazepine as monotherapy.
-Two trials compared oxcarbazepine to placebo and 2 trials used a randomized withdrawal design to compare a high dose (2,400 mg) with a low dose (300 mg) of oxcarbazepine, after substituting oxcarbazepine 2,400 mg/day for 1 or more antiepileptic drugs (AEDs).
-All doses were administered on a twice-a-day schedule.
-A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low and high dose oxcarbazepine treatment groups.
+Two trials compared oxcarbazepine to placebo and 2 trials used a randomized withdrawal design to compare a high dose (2,400 mg) with a low dose (300 mg) of oxcarbazepine, after substituting oxcarbazepine 2,400 mg/day for 1 or more AEDs.
+All doses were administered on a twice a day schedule.
+A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low- and high-dose oxcarbazepine-treatment groups.
 
 One placebo-controlled trial was conducted in 102 patients (11 to 62 years of age) with refractory partial-onset seizures who had completed an inpatient evaluation for epilepsy surgery.
 Patients had been withdrawn from all AEDs and were required to have 2 to 10 partial-onset seizures within 48 hours prior to randomization.
@@ -71,7 +71,7 @@ This comparison was statistically significant in favor of oxcarbazepine at all d
 The number of patients randomized to each dose, the median baseline seizure rate, and the median percentage seizure rate reduction for each trial are shown in Table 8.
 It is important to note that in the high-dose group in the study in adults, over 65% of patients discontinued treatment because of adverse events; only 46 (27%) of the patients in this group completed the 28-week study [see Adverse Reactions (6)], an outcome not seen in the monotherapy studies.
 
-Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
+Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency From Baseline For Placebo-Controlled Adjunctive Therapy Trials
 
 | Trial | Treatment Group |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -82,7 +82,7 @@ Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency from Ba
 |  | Oxcarbazepine 1,200 mg/day | 177 | 9.8 | 40.21 |
 |  | Oxcarbazepine 600 mg/day | 168 | 9.6 | 26.41 |
 |  | Placebo | 173 | 8.6 | 7.6 |
-| 1p=0.0001; * = number of seizures per 28 days |  |  |  |  |
+| 1p=0.0001. * = number of seizures per 28 days. |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of oxcarbazepine with regard to gender in these trials revealed no important differences in response between men and women.
 Because there were very few patients over the age of 65 years in controlled trials, the effect of the drug in the elderly has not been adequately assessed.
