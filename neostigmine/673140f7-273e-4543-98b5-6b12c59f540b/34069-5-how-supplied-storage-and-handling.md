@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 Neostigmine Methylsulfate Injection, USP is available in the following:
 
@@ -13,10 +13,12 @@ Neostigmine methylsulfate injection should be stored at 20° to 25°C (68° to 7
 Protect from light.
 Store in carton until time of use.
 
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
-R 03/2021
+© 2024 Endo, Inc. or one of its affiliates.
+
+R09/2024
