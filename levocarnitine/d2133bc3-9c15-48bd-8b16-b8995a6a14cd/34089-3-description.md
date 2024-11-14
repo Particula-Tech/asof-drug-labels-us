@@ -15,7 +15,7 @@ Molecular Weight: 161.20
 Each CARNITOR® (levocarnitine) Tablet contains 330 mg of levocarnitine and the inactive ingredients magnesium stearate, microcrystalline cellulose and povidone.
 
 Each 118 mL container of CARNITOR® (levocarnitine) Oral Solution contains 1 g of levocarnitine/10 mL.
-Also contains: Artificial Cherry Flavor, D,L,-Malic Acid, Purified Water, Sucrose Syrup.
+Also contains: Artificial Cherry Flavor, D,L,-Malic Acid, Purified Water, Sucrose.
 Methylparaben NF and Propylparaben NF are added as preservatives.
 The pH is approximately 5.
 
