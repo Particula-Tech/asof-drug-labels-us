@@ -31,9 +31,7 @@ Poorly controlled diabetes mellitus increases the fetal risk for major birth def
 
 Data
 
-Animal Data
-
-Insulin degludec
+Animal Data Insulin degludec
 
 Insulin degludec was investigated in studies covering fertility, embryo-fetal development and pre- and post-natal development in rats and during the period of embryo-fetal development in rabbits.
 Human insulin (NPH insulin) was included as comparator.

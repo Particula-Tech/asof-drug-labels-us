@@ -51,6 +51,11 @@ Acute Gallbladder Disease
 Inform patients of the potential risk for cholelithiasis or cholecystitis.
 Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.9)].
 
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that XULTOPHY 100/3.6 may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking XULTOPHY 100/3.6 [see Warnings and Precautions (5.12)].
+
 Pregnancy
 
 Advise a pregnant woman of the potential risk to a fetus.
@@ -63,7 +68,7 @@ Instruct patients who miss a dose of XULTOPHY 100/3.6 to resume the once-daily d
 If more than three days have elapsed since the last XULTOPHY 100/3.6 dose, reinitiate XULTOPHY 100/3.6 at the recommended starting dose to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
 XULTOPHY 100/3.6 should be titrated at the direction of a healthcare provider [see Dosage and Administration (2.1, 2.2, 2.3)].
 
-© 2023 Novo Nordisk
+© 2024 Novo Nordisk
 
 Novo Nordisk®, TRESIBA® and XULTOPHY® 100/3.6 are registered trademarks of Novo Nordisk A/S.
 

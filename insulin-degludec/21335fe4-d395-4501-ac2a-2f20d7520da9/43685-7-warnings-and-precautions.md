@@ -120,3 +120,11 @@ Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor 
 Fluid retention may lead to or exacerbate congestive heart failure.
 Patients treated with insulin containing products, including XULTOPHY 100/3.6 and a PPAR-gamma agonist should be observed for signs and symptoms of congestive heart failure.
 If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
+
+## 5.12 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+XULTOPHY 100/3.6 delays gastric emptying [seeClinical Pharmacology (12.1)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking XULTOPHY 100/3.6, including whether modifying preoperative fasting recommendations or temporarily discontinuing XULTOPHY 100/3.6 could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking XULTOPHY 100/3.6.

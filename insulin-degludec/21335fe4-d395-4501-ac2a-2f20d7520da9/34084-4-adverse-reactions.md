@@ -9,6 +9,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.9)]
 - •Hypokalemia [see Warnings and Precautions (5.10)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -171,5 +172,6 @@ Liraglutide
 - •Metabolism and nutrition: Dehydration resulting from nausea, vomiting and diarrhea
 - •Neoplasms: Medullary thyroid carcinoma
 - •Nervous system: Dysgeusia, dizziness
+- •Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
 - •Renal and urinary: Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
 - •Skin and subcutaneous tissue: Cutaneous amyloidosis
