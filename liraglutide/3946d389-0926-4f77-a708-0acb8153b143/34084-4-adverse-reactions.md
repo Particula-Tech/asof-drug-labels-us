@@ -10,6 +10,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Renal Impairment [see Warnings and Precautions (5.6)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 - •Suicidal Behavior and Ideation [see Warnings and Precautions (5.8)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -206,7 +207,7 @@ Among SAXENDA-treated patients, 2.1% had a lipase value at anytime during treatm
 0.1% of SAXENDA-treated patients had an amylase value at anytime in the trial of greater than or equal to 3 times the upper limit of normal versus 0.1% of placebo-treated patients.
 The clinical significance of elevations in lipase or amylase with SAXENDA is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
-## 6.2 Post Marketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been reported during post-approval use of liraglutide, the active ingredient of SAXENDA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -240,3 +241,7 @@ Hepatobiliary Disorders
 - Hyperbilirubinemia, elevations of liver enzymes, cholestasis and hepatitis
 - Skin and Subcutaneous Tissue Disorders
 - Cutaneous amyloidosis
+
+Pulmonary
+
+- Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.

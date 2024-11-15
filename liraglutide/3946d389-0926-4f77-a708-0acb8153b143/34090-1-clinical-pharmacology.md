@@ -20,6 +20,10 @@ Liraglutide does not increase 24-hour energy expenditure.
 As with other GLP-1 receptor agonists, liraglutide stimulates insulin secretion and reduces glucagon secretion in a glucose-dependent manner.
 These effects can lead to a reduction of blood glucose.
 
+Gastric Emptying
+
+Liraglutide delays gastric emptying.
+
 Cardiac Electrophysiology (QTc) in healthy volunteers
 
 The effect of liraglutide on cardiac repolarization was tested in a QTc study.

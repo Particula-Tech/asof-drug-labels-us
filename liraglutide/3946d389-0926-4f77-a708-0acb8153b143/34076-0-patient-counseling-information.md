@@ -19,28 +19,28 @@ Acute Pancreatitis
 
 Inform patients of the potential risk for acute pancreatitis.
 Explain that persistent severe abdominal pain that may radiate to the back which may or may not be accompanied by vomiting is the hallmark symptom of acute pancreatitis.
-Instruct patients to discontinue SAXENDA promptly and contact their health care provider if persistent severe abdominal pain occurs.
+Instruct patients to discontinue SAXENDA promptly and contact their health care provider if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
 Acute Gallbladder Disease
 
 Inform patients of the risk of acute gallbladder disease.
 Advise patients that substantial or rapid weight loss can increase the risk of gallbladder disease, but that gallbladder disease may also occur in the absence of substantial or rapid weight loss.
-Instruct patients to contact their healthcare provider for appropriate clinical follow-up if gallbladder disease is suspected.
+Instruct patients to contact their healthcare provider for appropriate clinical follow-up if gallbladder disease is suspected [see Warnings and Precautions (5.3)].
 
 Hypoglycemia
 
 Inform pediatric patients of the risk of hypoglycemia and educate all patients on the signs and symptoms of hypoglycemia.
-Inform adult patients with type 2 diabetes mellitus on an insulin secretagogue (e.g., sulfonylurea) or insulin that they may have an increased risk of hypoglycemia when using SAXENDA and to report signs and/or symptoms of hypoglycemia to their healthcare provider.
+Inform adult patients with type 2 diabetes mellitus on an insulin secretagogue (e.g., sulfonylurea) or insulin that they may have an increased risk of hypoglycemia when using SAXENDA and to report signs and/or symptoms of hypoglycemia to their healthcare provider [see Warnings and Precautions (5.4)].
 
 Heart Rate Increase
 
 Inform patients to report symptoms of sustained periods of heart pounding or racing while at rest to their healthcare provider.
-Discontinue SAXENDA in patients who experience a sustained increase in resting heart rate.
+Discontinue SAXENDA in patients who experience a sustained increase in resting heart rate [see Warnings and Precautions (5.5)].
 
 Dehydration and Renal Impairment
 
 Advise patients of the risk of dehydration due to gastrointestinal adverse reactions and to take precautions to avoid fluid depletion.
-Inform patients of the potential risk for worsening renal function, which in some cases may require dialysis.
+Inform patients of the potential risk for worsening renal function, which in some cases may require dialysis [see Warnings and Precautions (5.6)].
 
 Hypersensitivity Reactions
 
@@ -50,7 +50,12 @@ Advise patients on the symptoms of hypersensitivity reactions and instruct them 
 Suicidal Behavior and Ideation
 
 Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking SAXENDA.
+Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking SAXENDA [see Warnings and Precautions (5.8)].
+
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that SAXENDA may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SAXENDA [see Warnings and Precautions (5.9)].
 
 Jaundice and Hepatitis
 
@@ -62,13 +67,13 @@ Never Share a SAXENDA Pen Between Patients
 Inform patients that they should never share a SAXENDA pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-Version: 10
+Version: 11
 
 SAXENDA® and VICTOZA® are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2023 Novo Nordisk
+© 2024 Novo Nordisk
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 

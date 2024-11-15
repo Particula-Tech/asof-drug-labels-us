@@ -80,7 +80,7 @@ Use caution when initiating or escalating doses of SAXENDA in patients with rena
 
 ## 5.7 Hypersensitivity Reactions
 
-There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with SAXENDA [see Contraindications (4), Adverse Reactions (6.1, 6.2)].
+There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with SAXENDA [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 If a hypersensitivity reaction occurs, the patient should discontinue SAXENDA and other suspect medications and promptly seek medical advice.
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
@@ -96,3 +96,11 @@ There was insufficient information to establish a causal relationship to SAXENDA
 Patients treated with SAXENDA should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 Discontinue SAXENDA in patients who experience suicidal thoughts or behaviors.
 Avoid SAXENDA in patients with a history of suicidal attempts or active suicidal ideation.
+
+## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+SAXENDA delays gastric emptying [see Clinical Pharmacology (12.2)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking SAXENDA, including whether modifying preoperative fasting recommendations or temporarily discontinuing SAXENDA could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SAXENDA.
