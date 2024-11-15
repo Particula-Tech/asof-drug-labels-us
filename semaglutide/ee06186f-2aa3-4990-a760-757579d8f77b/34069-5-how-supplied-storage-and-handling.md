@@ -2,7 +2,7 @@
 
 How Supplied
 
-WEGOVY injection is a clear, colorless solution in a pre-filled, disposable, single-dose pen-injector with an integrated needle.
+WEGOVY injection is a clear, colorless solution in a prefilled, disposable, single-dose pen-injector with an integrated needle.
 It is supplied in cartons containing 4 pen-injectors in the following packaging configurations:
 
 | Total Strength per Total Volume | NDC |

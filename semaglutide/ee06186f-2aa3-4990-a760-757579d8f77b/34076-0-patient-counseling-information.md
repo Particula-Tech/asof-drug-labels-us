@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 Risk of Thyroid C-cell Tumors
 
 Inform patients that semaglutide causes thyroid C-cell tumors in rodents and that the human relevance of this finding has not been determined.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Acute Pancreatitis
 
@@ -46,6 +46,11 @@ Suicidal Behavior and Ideation
 Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking WEGOVY [see Warnings and Precautions (5.9)].
 
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that WEGOVY may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking WEGOVY [see Warnings and Precautions (5.10)].
+
 Pregnancy
 
 WEGOVY may cause fetal harm.
@@ -70,7 +75,7 @@ Plainsboro, NJ 08536
 
 1-833-934-6891
 
-Version: 4
+Version: 5
 
 WEGOVY® is a registered trademark of Novo Nordisk A/S.
 

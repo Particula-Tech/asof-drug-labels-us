@@ -19,7 +19,7 @@ In rabbits and cynomolgus monkeys administered semaglutide during organogenesis,
 These findings coincided with a marked maternal body weight loss in both animal species (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -56,7 +56,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In lactating rats, semaglutide was detected in milk at levels 3-12-fold lower than in maternal plasma.
+In lactating rats, semaglutide was detected in milk at levels 3 to 12-fold lower than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 

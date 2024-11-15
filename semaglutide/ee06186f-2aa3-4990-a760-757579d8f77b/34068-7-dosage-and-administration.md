@@ -61,7 +61,7 @@ Maintenance Dosage
 
 Dosage Modifications for Adverse Reactions
 
-- •If patients do not tolerate the 2.4 mg once weekly maintenance dosage, the maintenance dosage may be reduced to 1.7 mg once weekly.
+- •If patients do not tolerate the 2.4 mg once-weekly maintenance dosage, the maintenance dosage may be reduced to 1.7 mg once weekly.
 - •Discontinue WEGOVY if the patient cannot tolerate the 1.7 mg once-weekly dosage.
 
 ## 2.4 Recommendations Regarding Missed Dose

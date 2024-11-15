@@ -11,6 +11,8 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Diabetic Retinopathy Complications in Patients with Type 2 Diabetes [see Warnings and Precautions (5.7)]
 - •Heart Rate Increase [see Warnings and Precautions (5.8)]
 - •Suicidal Behavior and Ideation [see Warnings and Precautions (5.9)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
+- 
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,7 +34,7 @@ Adverse reactions reported in clinical trials in adults and greater than or equa
 Table 3.
 Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY-treated Adults with Obesity or Overweight
 
-|  | PlaceboN = 1,261% | WEGOVY 2.4 mgN = 2,116% |
+|  | PlaceboN=1,261% | WEGOVY 2.4 mgN=2,116% |
 | --- | --- | --- |
 | Nausea | 16 | 44 |
 | Diarrhea | 16 | 30 |
@@ -80,7 +82,7 @@ Table 4 shows adverse reactions reported in greater than or equal to 3% of WEGOV
 Table 4.
 Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY-Treated Pediatric Patients Aged 12 Years and Older with Obesity
 
-|  | Placebo N = 67 % | WEGOVY 2.4 mg N = 133 % |
+|  | Placebo N=67 % | WEGOVY 2.4 mg N=133 % |
 | --- | --- | --- |
 | Nausea | 18 | 42 |
 | Vomiting | 10 | 36 |
@@ -205,7 +207,7 @@ Laboratory Abnormalities
 
 Amylase and Lipase
 
-Adult and pediatric patients treated with WEGOVY had a mean increase from baseline in amylase of 15-16% and lipase of 39%.
+Adult and pediatric patients treated with WEGOVY had a mean increase from baseline in amylase of 15 to 16% and lipase of 39%.
 These changes were not observed in the placebo group.
 The clinical significance of elevations in lipase or amylase with WEGOVY is unknown in the absence of other signs and symptoms of pancreatitis.
 
@@ -225,3 +227,5 @@ Gastrointestinal Disorders: acute pancreatitis and necrotizing pancreatitis, som
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 
 Renal and Urinary Disorders: acute kidney injury
+
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.

@@ -89,7 +89,7 @@ No clinically relevant drug-drug interactions with semaglutide (Figure 3) were o
 In a separate study, no apparent effect on the rate of gastric emptying was observed with semaglutide 2.4 mg.
 
 1. Figure 3.
-   Impact of semaglutide 1 mg on the pharmacokinetics of co-administered medications
+   Impact of Semaglutide 1 mg on the Pharmacokinetics of Co-administered Medications
 
 Relative exposure in terms of AUC and Cmax for each medication when given with semaglutide compared to without semaglutide.
 Metformin and oral contraceptive drug (ethinylestradiol/levonorgestrel) were assessed at steady state.

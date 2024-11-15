@@ -6,7 +6,7 @@ WEGOVY lowers blood glucose and can cause hypoglycemia.
 The risk of hypoglycemia is increased when WEGOVY is used in combination with insulin or insulin secretagogues (e.g., sulfonylureas).
 The addition of WEGOVY in patients treated with insulin has not been evaluated.
 
-When initiating WEGOVY, consider reducing the dose of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+When initiating WEGOVY, consider reducing the dose of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4), Adverse Reactions (6.1)].
 
 ## 7.2 Oral Medications
 
