@@ -3,7 +3,7 @@
 ## 5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections
 
 Cyclophosphamide can cause myelosuppression (leukopenia, neutropenia, thrombocytopenia and anemia), bone marrow failure, and severe immunosuppression which may lead to serious and sometimes fatal infections, including sepsis and septic shock.
-Latent infections can be reactivated [see Adverse Reactions (6.2)].
+Latent infections can be reactivated [seeAdverse Reactions (6.1)].
 
 Antimicrobial prophylaxis may be indicated in certain cases of neutropenia at the discretion of the managing physician.
 In case of neutropenic fever, antibiotic therapy is indicated.
@@ -86,7 +86,7 @@ Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits an
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1)].
 Verify the pregnancy status of females of reproductive potential prior to initiation of Cyclophosphamide Injection.
 Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after completion of therapy.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.1, 8.3)].
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [seeUse in Specific Populations (8.1, 8.3)].
 
 ## 5.9 Infertility
 
@@ -95,7 +95,7 @@ Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3and 8.4)].
+Advise patients on the potential risks for infertility [see Use in Specific Populations(8.3and 8.4)].
 
 ## 5.10 Impairment of Wound Healing
 

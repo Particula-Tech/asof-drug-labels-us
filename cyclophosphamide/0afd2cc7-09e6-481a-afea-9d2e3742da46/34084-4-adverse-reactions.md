@@ -9,35 +9,16 @@ The following adverse reactions are discussed in more detail in other sections o
 - Pulmonary Toxicity [see Warnings and Precautions (5.4)]
 - Secondary Malignancies [see Warnings and Precautions (5.5)]
 - Veno-occlusive Liver Disease [see Warnings and Precautions (5.6)]
-- Alcohol Content [see Warnings and Precautions (5.7)]
-- Infertility [see Warnings and Precautions (5.9)and Use in Specific Populations (8.3and 8.4)]
+- Alcohol Content [seeWarnings and Precautions (5.7)]
+- Infertility [seeWarnings and Precautions (5.9)and Use in Specific Populations(8.3and 8.4)]
 - Impaired Wound Healing [see Warnings and Precautions (5.10)]
 - Hyponatremia [see Warnings and Precautions (5.11)]
 
-## 6.1 Common Adverse Reactions
+## 6.1 Clinical Trials and Postmarketing Experience
 
-Hematopoietic system:
-
-Neutropenia occurs in patients treated with cyclophosphamide.
-The degree of neutropenia is particularly important because it correlates with a reduction in resistance to infections.
-Fever without documented infection has been reported in neutropenic patients.
-
-Gastrointestinal system:
-
-Nausea and vomiting occur with cyclophosphamide therapy.
-Anorexia and, less frequently, abdominal discomfort or pain and diarrhea may occur.
-There are isolated reports of hemorrhagic colitis, oral mucosal ulceration and jaundice occurring during therapy.
-
-Skin and its structures:
-
-Alopecia occurs in patients treated with cyclophosphamide.
-Skin rash occurs occasionally in patients receiving the drug.
-Pigmentation of the skin and changes in nails can occur.
-
-## 6.2 Postmarketing Experience
-
-The following adverse reactions have been identified from clinical trials or post-marketing surveillance.
-Because they are reported from a population from unknown size, precise estimates of frequency cannot be made.
+The following adverse reactions associated with the use of cyclophosphamide were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The most common adverse reactions were neutropenia, febrile neutropenia, fever, alopecia, nausea, vomiting, and diarrhea.
 
 Cardiac:cardiac arrest, ventricular fibrillation, ventricular tachycardia, cardiogenic shock, pericardial effusion (progressing to cardiac tamponade), myocardial hemorrhage, myocardial infarction, cardiac failure (including fatal outcomes), cardiomyopathy, myocarditis, pericarditis, carditis, atrial fibrillation, supraventricular arrhythmia, ventricular arrhythmia, bradycardia, tachycardia, palpitations, QT prolongation.
 
@@ -49,9 +30,9 @@ Endocrine:water intoxication.
 
 Eye:visual impairment, conjunctivitis, lacrimation.
 
-Gastrointestinal:gastrointestinal hemorrhage, acute pancreatitis, colitis, enteritis, cecitis, stomatitis, constipation, parotid gland inflammation.
+Gastrointestinal:gastrointestinal hemorrhage, acute pancreatitis, colitis, enteritis, cecitis, stomatitis, constipation, parotid gland inflammation, nausea, vomiting, diarrhea.
 
-General Disorders and Administrative Site Conditions:multiorgan failure, general physical deterioration, influenza-like illness, injection/infusion site reactions (thrombosis, necrosis, phlebitis, inflammation, pain, swelling, erythema), pyrexia, edema, chest pain, mucosal inflammation, asthenia, pain, chills, fatigue, malaise, headache.
+General Disorders and Administrative Site Conditions:multiorgan failure, general physical deterioration, influenza-like illness, injection/infusion site reactions (thrombosis, necrosis, phlebitis, inflammation, pain, swelling, erythema), pyrexia, edema, chest pain, mucosal inflammation, asthenia, pain, chills, fatigue, malaise, headache febrile neutropenia.
 
 Hematologic:myelosuppression, bone marrow failure, disseminated intravascular coagulation and hemolytic uremic syndrome (with thrombotic microangiopathy).
 
@@ -81,7 +62,7 @@ Reproductive System:infertility, ovarian failure, ovarian disorder, amenorrhea, 
 
 Respiratory:pulmonary veno-occlusive disease, acute respiratory distress syndrome, interstitial lung disease as manifested by respiratory failure (including fatal outcomes), obliterative bronchiolitis, organizing pneumonia, alveolitis allergic, pneumonitis, pulmonary hemorrhage; respiratory distress, pulmonary hypertension, pulmonary edema, pleural effusion, bronchospasm, dyspnea, hypoxia, cough, nasal congestion, nasal discomfort, oropharyngeal pain, rhinorrhea.
 
-Skin and Subcutaneous Tissue:toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, palmar-plantar erythrodysesthesia syndrome, radiation recall dermatitis, toxic skin eruption, urticaria, dermatitis, blister, pruritus, erythema, nail disorder, facial swelling, hyperhidrosis.
+Skin and Subcutaneous Tissue:toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, palmar-plantar erythrodysesthesia syndrome, radiation recall dermatitis, toxic skin eruption, urticaria, dermatitis, blister, pruritus, erythema, nail disorder, facial swelling, hyperhidrosis alopecia.
 
 Tumor lysis syndrome:like other cytotoxic drugs, cyclophosphamide may induce tumor-lysis syndrome and hyperuricemia in patients with rapidly growing tumors.
 

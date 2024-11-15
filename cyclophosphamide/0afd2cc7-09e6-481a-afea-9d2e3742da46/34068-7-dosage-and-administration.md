@@ -1,23 +1,25 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-During or immediately after the administration, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity.
-Therefore, cyclophosphamide should be administered in the morning.
+## 2.1 Important Administration Instructions
 
-## 2.1 Dosing for Malignant Diseases
+During or immediately after the administration of Cyclophosphamide injection, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity.
+Therefore, cyclophosphamide injection should be administered in the morning.
+
+## 2.2 Recommended Dosage for Malignant Diseases
 
 Adults and Pediatric Patients
 
-Intravenous
+Intravenous Use
 
-When used as the only oncolytic drug therapy, the initial course of cyclophosphamide for patients with no hematologic deficiency usually consists of 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days.
-Other intravenous regimens include 10 mg per kg to 15 mg per kg given every 7 to 10 days or 3 mg per kg to 5 mg per kg twice weekly.
+When used as the only oncolytic drug therapy, the recommended dosage for the initial course of cyclophosphamide for patients with no hematologic deficiency is 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days.
+Other intravenous regimens include 10mg per kg to 15 mg per kg given every 7 to 10 days or 3 mg per kg to 5 mg per kg twice weekly.
+Adjust the dosage of Cyclophosphamide Injection based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [see Warnings and Precautions (5)].
 
-When cyclophosphamide is included in combined cytotoxic regimens, it may be necessary to reduce the dose of cyclophosphamide as well as that of the other drugs.
+## 2.4 Preparation, Handling and Administration
 
-## 2.3 Preparation, Handling and Administration
-
-Handle and dispose of cyclophosphamide in a manner consistent with other cytotoxic drugs.
-1Caution should be exercised when handling and preparing Cyclophosphamide Injection.
+Cyclophosphamide Injection is a hazardous drug.
+Follow applicable special handling and disposal procedures 1.
+Caution should be exercised when handling and preparing Cyclophosphamide Injection.
 To minimize the risk of dermal exposure, always wear gloves when handling vials containing Cyclophosphamide Injection.
 
 Cyclophosphamide Injection
@@ -60,15 +62,15 @@ Table 1: Storage of Cyclophosphamide Solutions
 | --- | --- | --- |
 |  | Room Temperature | Refrigerated |
 | Diluted solutions (20 mg/mL) |  |  |
-| 0.9% Sodium Chloride Injection, USP | up to 24 hrs | Up to 6 days |
-| 0.45% Sodium Chloride Injection, USP | up to 24 hrs | Up to 6 days |
-| 5% Dextrose Injection, USP | up to 24 hrs | Up to 6 days |
-| 5% Dextrose and 0.9% Sodium chloride Injection, USP | up to 24 hrs | Up to 6 days |
+| 0.9% Sodium Chloride Injection, USP | up to 24 hours | Up to 6 days |
+| 0.45% Sodium Chloride Injection, USP | up to 24 hours | Up to 6 days |
+| 5% Dextrose Injection, USP | up to 24 hours | Up to 6 days |
+| 5% Dextrose and 0.9% Sodium chloride Injection, USP | up to 24 hours | Up to 6 days |
 | Diluted Solutions (2 mg/mL) |  |  |
-| 0.9% Sodium Chloride Injection, USP | up to 24 hrs | Up to 6 days |
-| 0.45% Sodium Chloride Injection, USP | up to 24 hrs | up to 6 days |
-| 5% Dextrose Injection, USP | up to 24 hrs | up to 6 days |
-| 5% Dextrose and 0.9% Sodium chloride Injection, USP | up to 24 hrs | up to 6 days |
+| 0.9% Sodium Chloride Injection, USP | up to 24 hours | Up to 6 days |
+| 0.45% Sodium Chloride Injection, USP | up to 24 hours | up to 6 days |
+| 5% Dextrose Injection, USP | up to 24 hours | up to 6 days |
+| 5% Dextrose and 0.9% Sodium chloride Injection, USP | up to 24 hours | up to 6 days |
 
 Storage of Undiluted Cyclophosphamide Solution: After first use, store partially used multiple-dose vial in the original carton at 2°C to 8°C (36ºF to 46°F) for up to 28 days.
 Discard unused portion after 28 days.
