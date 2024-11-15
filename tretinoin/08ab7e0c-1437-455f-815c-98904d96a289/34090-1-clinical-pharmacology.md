@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Although tretinoin activates three members of the retinoic acid (RAR) nuclear receptors (RARα, RARβ, and RARγ) which may act to modify gene expression, subsequent protein synthesis, and epithelial cell growth and differentiation, it has not been established whether the clinical effects of tretinoin are mediated through activation of retinoic acid receptors and/or other mechanisms.
+Although tretinoin activates three members of the retinoic acid (RAR) nuclear receptors (RARα, RARß, and RARγ) which may act to modify gene expression, subsequent protein synthesis, and epithelial cell growth and differentiation, it has not been established whether the clinical effects of tretinoin are mediated through activation of retinoic acid receptors and/or other mechanisms.
 
 The exact mode of action of tretinoin is unknown.
 Current evidence suggests that topical tretinoin decreases cohesiveness of follicular epithelial cells with decreased microcomedone formation.

@@ -28,9 +28,11 @@ Table 2: Mean Percent Reduction in Lesion Counts Retin-A Micro (tretinoin) Gel m
 |  | Study #3 108 pts | Study #4 111 pts | Study #3 110 pts | Study #4 103 pts |
 | --- | --- | --- | --- | --- |
 |  | Retin-A Micro (tretinoin) Gel microsphere, 0.04% |  | Vehicle Gel |  |
-| Non-inflammatory lesion counts | 37% | 29% | −2% - That is, a mean percent increase of 2% | 14% |
+| Non-inflammatory lesion counts | 37% | 29% | −2%* | 14% |
 | Inflammatory lesion counts | 44% | 41% | 13% | 30% |
 | Total lesion counts | 40% | 35% | 8% | 20% |
+
+1. * - That is, a mean percent increase of 2%
 
 Retin-A Micro (tretinoin) Gel microsphere, 0.04%, was also superior (p<0.05) to the vehicle in the investigator's global evaluation of the clinical response.
 In Study #3, fourteen percent (14%) of subjects using Retin-A Micro (tretinoin) Gel microsphere, 0.04%, achieved an excellent result compared to five percent (5%) of subjects on vehicle control.

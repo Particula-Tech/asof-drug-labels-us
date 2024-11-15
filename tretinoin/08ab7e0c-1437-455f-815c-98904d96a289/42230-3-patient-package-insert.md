@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 Retin-A Micro ®(ret-in-A MY-kroe) (tretinoin) Gel microsphere, 0.1%, 0.08%, 0.06%, and 0.04% for topical use
 
@@ -119,7 +119,7 @@ What are the ingredients of Retin-A Micro?
 
 Active ingredient:tretinoin
 
-Inactive ingredients:benzyl alcohol, butylated hydroxytoluene, carbomer 974P, cyclomethicone and dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid and trolamine
+Inactive ingredients:benzyl alcohol, butylated hydroxytoluene, carbomer 974P, cyclomethicone and dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid, trolamine, methyl methacrylate/glycol dimethacrylate crosspolymer and propylene glycol dicaprylate/dicaprate
 
 Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
@@ -130,10 +130,10 @@ Retin-A Micro is a trademark of Bausch Health Companies Inc. or its affiliates.
 Microsponge is a registered trademark of AMCOL International Corporation.
 All other product/brand names and/or logos are trademarks of the respective owners.
 
-© 2023 Bausch Health Companies Inc. or its affiliates
-
-9470905
+© 2024 Bausch Health Companies Inc. or its affiliates
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2023
+Revised: 09/2024
+
+9454706
