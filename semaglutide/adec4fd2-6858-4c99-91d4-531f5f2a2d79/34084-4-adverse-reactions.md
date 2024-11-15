@@ -2,19 +2,14 @@
 
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
-• Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
-
-• Pancreatitis [see Warnings and Precautions (5.2)]
-
-• Diabetic Retinopathy Complications [see Warnings and Precautions (5.3)]
-
-• Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.5)]
-
-• Acute Kidney Injury [see Warnings and Precautions (5.6)]
-
-• Hypersensitivity [see Warnings and Precautions (5.7)]
-
-• Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
+- •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
+- •Pancreatitis [see Warnings and Precautions (5.2)]
+- •Diabetic Retinopathy Complications [see Warnings and Precautions (5.3)]
+- •Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.5)]
+- •Acute Kidney Injury [see Warnings and Precautions (5.6)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- •Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions [(5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -144,3 +139,5 @@ Gastrointestinal Disorders: Ileus
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria.
 
 Hepatobiliary: cholecystitis, cholecystectomy
+
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.

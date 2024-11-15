@@ -53,7 +53,7 @@ Some of these events have been reported in patients without known underlying ren
 A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
 Monitor renal function when initiating or escalating doses of OZEMPIC in patients reporting severe adverse gastrointestinal reactions.
 
-## 5.7 Hypersensitivity
+## 5.7 Hypersensitivity Reactions
 
 Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported in patients treated with OZEMPIC.
 If hypersensitivity reactions occur, discontinue use of OZEMPIC; treat promptly per standard of care, and monitor until signs and symptoms resolve.
@@ -68,3 +68,11 @@ Acute events of gallbladder disease such as cholelithiasis or cholecystitis have
 In placebo-controlled trials, cholelithiasis was reported in 1.5% and 0.4% of patients-treated with OZEMPIC 0.5 mg and 1 mg, respectively.
 Cholelithiasis was not reported in placebo-treated patients.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
+
+## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+OZEMPIC delays gastric emptying [see Clinical Pharmacology (12.2)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking OZEMPIC, including whether modifying preoperative fasting recommendations or temporarily discontinuing OZEMPIC could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking OZEMPIC.

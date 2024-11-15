@@ -40,6 +40,11 @@ Acute Gallbladder Disease
 Inform patients of the potential risk for cholelithiasis or cholecystitis.
 Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.8)].
 
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that OZEMPIC may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking OZEMPIC [see Warnings and Precautions (5.9)].
+
 Pregnancy
 
 Advise a pregnant woman of the potential risk to a fetus.
@@ -69,10 +74,10 @@ Plainsboro, NJ 08536
 
 1-888-693-6742
 
-Version: 9
+Version: 10
 
 OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2023 Novo Nordisk
+© 2024 Novo Nordisk
