@@ -37,6 +37,11 @@ Acute Gallbladder Disease
 Inform patients of the potential risk for cholelithiasis or cholecystitis.
 Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.7)].
 
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that VICTOZA may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking VICTOZA [see Warnings and Precautions (5.8)].
+
 Missed Dose
 
 Inform patients not to take an extra dose of VICTOZA to make up for a missed dose.
@@ -50,13 +55,13 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Version: 16
+Version: 17
 
 VICTOZA® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2023 Novo Nordisk
+© 2024 Novo Nordisk
 
 For information about VICTOZA contact:
 

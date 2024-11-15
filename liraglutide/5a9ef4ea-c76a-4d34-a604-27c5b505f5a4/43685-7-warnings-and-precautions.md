@@ -71,5 +71,13 @@ VICTOZA is contraindicated in patients who have had a serious hypersensitivity r
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
 In the LEADER trial [see Clinical Studies (14.3)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis
 
-[seeAdverse Reactions (6.1)].
+[see Adverse Reactions (6.1)].
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
+
+## 5.8 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+VICTOZA delays gastric emptying [see Clinical Pharmacology (12.2)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking VICTOZA, including whether modifying preoperative fasting recommendations or temporarily discontinuing VICTOZA could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking VICTOZA.

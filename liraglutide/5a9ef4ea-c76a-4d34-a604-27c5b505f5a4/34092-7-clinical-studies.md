@@ -396,7 +396,7 @@ e Estimated using a mixed model for repeated measurement with treatment, country
 VICTOZA was evaluated in a 26-week, double-blind, randomized, parallel group, placebo controlled multi-center trial (NCT01541215), in 134 pediatric patients with type 2 diabetes mellitus aged 10 years and older.
 Patients were randomized to VICTOZA once-daily or placebo once-daily in combination with metformin with or without basal insulin treatment.
 All patients were on a metformin dose of 1000 to 2000 mg prior to randomization.
-The basal insulin dose was decreased by 20% at randomization and VICTOZA was titrated weekly by 0.6 mg for 2 to 3 weeks based on tolerability and an average fasting plasma glucose goal of <110 mg/dL.
+The basal insulin dose was decreased by 20% at randomization and VICTOZA was titrated weekly by 0.6 mg for 2 to 3 weeks based on tolerability and an average fasting plasma glucose goal of ≤110 mg/dL.
 
 The mean age was 14.6 years: 29.9% were ages 10-14 years, and 70.1% were greater than 14 years of age.
 38.1% were male, 64.9% were White, 13.4% were Asian, 11.9% were Black or African American; 29.1% were of Hispanic or Latino ethnicity.
