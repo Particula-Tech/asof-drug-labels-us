@@ -1,5 +1,17 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Peripheral and Optic Neuropathy [see Warnings and Precautions (5.2)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.3)]
+- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- •Lactic Acidosis [see Warnings and Precautions (5.7)]
+- •Convulsions [see Warnings and Precautions (5.8)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.9)]
+- •Hypoglycemia [see Warnings and Precautions (5.10)]
+- •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.11)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -82,14 +94,14 @@ In an outpatient study of pediatric patients aged from 5 through 17 years, the p
 Thrombocytopenia associated with the use of linezolid appears to be dependent on duration of therapy (generally greater than 2 weeks of treatment).
 The platelet counts for most patients returned to the normal range/baseline during the follow-up period.
 No related clinical adverse events were identified in Phase 3 clinical trials in patients developing thrombocytopenia.
-Bleeding events were identified in thrombocytopenic patients in a compassionate use program for linezolid; the role of linezolid in these events cannot be determined [see Warning and Precautions (5.1)].
+Bleeding events were identified in thrombocytopenic patients in a compassionate use program for linezolid; the role of linezolid in these events cannot be determined [see Warnings and Precautions (5.1)].
 
 Changes seen in other laboratory parameters, without regard to drug relationship, revealed no substantial differences between linezolid and the comparators.
 These changes were generally not clinically significant, did not lead to discontinuation of therapy, and were reversible.
 The incidence of adult and pediatric patients with at least one substantially abnormal hematologic or serum chemistry value is presented in Tables 4, 5, 6, and 7.
 
 Table 4.
-Percent of Adult Patients who Experienced at Least One Substantially Abnormal<75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; 75% (<50% for neutrophils) of LLN and of baseline for values abnormal at baseline.
+Percent of Adult Patients who Experienced at Least One Substantially Abnormal<75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; <75% (<50% for neutrophils) of LLN and of baseline for values abnormal at baseline.
 Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
 |  | Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |
@@ -144,18 +156,19 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with L
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of linezolid.
+The following adverse reactions have been identified during post-approval use of linezolid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure;
 
+- •Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
 - •Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia).
   Thrombocytopenia has been reported more often in patients with severe renal impairment and in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.1)]; sideroblastic anemia.
 - •Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
+- •Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and linezolid [see Warnings and Precautions (5.3)].
 - •Lactic acidosis [see Warnings and Precautions (5.7)].
   Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
-- •Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and linezolid [see Warnings and Precautions (5.3)].
 - •Convulsions [see Warnings and Precautions (5.8)].
-- •Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
+- •Rhabdomyolysis [see Warnings and Precautions (5.9)].
+- •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.10)].
+- •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.11)].
 - •Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
   The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
-- •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
-- •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.10)].

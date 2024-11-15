@@ -6,7 +6,7 @@ Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopen
 In cases where the outcome is known, when linezolid was discontinued, the affected hematologic parameters have risen toward pretreatment levels.
 Thrombocytopenia has been reported more often in patients with severe renal impairment, whether or not on dialysis, and in patients with moderate to severe hepatic impairment.
 Complete blood counts should be monitored weekly in patients who receive linezolid, particularly in those who receive linezolid for longer than two weeks, those with pre-existing myelosuppression, those with severe renal impairment or moderate to severe hepatic impairment, those receiving concomitant drugs that produce bone marrow suppression, or those with a chronic infection who have received previous or concomitant antibacterial drug therapy.
-Discontinuation of therapy with linezolid should be considered in patients who develop or have worsening myelosuppression [seeAdverse Reactions (6.2)].
+Discontinuation of therapy with linezolid should be considered in patients who develop or have worsening myelosuppression [see Adverse Reactions (6.2)].
 
 ## 5.2 Peripheral and Optic Neuropathy
 
@@ -70,7 +70,12 @@ Patients who develop recurrent nausea or vomiting, unexplained acidosis, or a lo
 Convulsions have been reported in patients when treated with linezolid.
 In some of these cases, a history of seizures or risk factors for seizures was reported.
 
-## 5.9 Hypoglycemia
+## 5.9 Rhabdomyolysis
+
+Rhabdomyolysis has been reported with the use of linezolid, including Linezolid for Oral Suspension [see Adverse Reactions (6.2)].
+If signs or symptoms of rhabdomyolysis such as muscle pain, tenderness or weakness, dark urine or elevated creatine phosphokinase are observed, discontinue Linezolid for Oral Suspension and initiate appropriate therapy.
+
+## 5.10 Hypoglycemia
 
 Postmarketing cases of symptomatic hypoglycemia have been reported in patients with diabetes mellitus receiving insulin or oral hypoglycemic agents when treated with linezolid, a reversible, nonselective MAO inhibitor.
 Some MAO inhibitors have been associated with hypoglycemic episodes in diabetic patients receiving insulin or hypoglycemic agents.
@@ -78,14 +83,14 @@ While a causal relationship between linezolid and hypoglycemia has not been esta
 
 If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic agent, or discontinuation of oral hypoglycemic agent, insulin, or linezolid may be required.
 
-## 5.10 Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)
+## 5.11 Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)
 
 Postmarketing cases of hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) have been observed in patients treated with linezolid.
 In reported cases, the signs and symptoms included confusion, somnolence, generalized weakness, and in severe cases led to respiratory failure and even death.
 Monitor serum sodium levels regularly in the elderly, in patients taking diuretics, and in other patients at risk of hyponatremia and/or SIADH while taking linezolid.
-If signs and symptoms of hyponatremia and/or SIADH occur, discontinue linezolid, and institute appropriate supportive measures.
+If signs and symptoms of hyponatremia and/or SIADH occur, discontinue Linezolid for Oral Suspension, and institute appropriate supportive measures.
 
-## 5.11 Risks in Patients with Phenylketonuria
+## 5.12 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 Linezolid for Oral Suspension contains phenylalanine, a component of aspartame.
@@ -94,6 +99,6 @@ Before prescribing Linezolid for Oral Suspension to a patient with PKU, consider
 
 The other Linezolid formulations do not contain phenylalanine.
 
-## 5.12 Development of Drug-Resistant Bacteria
+## 5.13 Development of Drug-Resistant Bacteria
 
 Prescribing linezolid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
