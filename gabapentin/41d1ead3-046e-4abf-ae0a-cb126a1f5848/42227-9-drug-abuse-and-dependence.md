@@ -10,7 +10,7 @@ Abuse is the intentional, non-therapeutic use of a drug, even once, for its desi
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 
 Gabapentin does not exhibit affinity for benzodiazepine, opioid (mu, delta or kappa), or cannabinoid 1 receptor sites.
-A small number of postmarketing cases report gabapentin misuse and abuse have been reported in the postmarketing setting and published literature.Most of the individuals described in these reports had a history of polysubstance abuse.
+Gabapentin misuse and abuse have been reported in the postmarketing setting and published literature.Most of the individuals described in these reports had a history of polysubstance abuse.
 Some of these individuals were taking.
 These individuals were taking higher than recommended doses of gabapentin for unapproved uses.
 Most of the individuals described in these reports had a history of polysubstance abuse.

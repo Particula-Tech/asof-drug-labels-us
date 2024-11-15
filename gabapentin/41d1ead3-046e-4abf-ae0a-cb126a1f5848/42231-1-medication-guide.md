@@ -69,8 +69,16 @@ A health care provider should examine you to decide if you should continue takin
 4.
 Serious breathing problems.
 Serious breathing problems can occur when Gabapentin Capsules are taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
-Watch for increased sleepiness or decreased breathing when starting Gabapentin Capsules or when the dose is increased.
-Get help right away if breathing problems occur.
+
+Call your healthcare provider or get medical help right away if you have any of the following symptoms:
+
+• feel short of breath • feel very tired • dizziness
+
+• breathing slower than normal • confusion • headache
+
+Be sure that your caregiver or family members know which symptoms may be serious so they can call your healthcare provider or get medical help if you are unable to seek treatment on your own.
+
+Your healthcare provider may lower your dose or stop your treatment with gabapentin capsule if you have serious breathing problems.
 
 What are gabapentin capsules?
 
@@ -79,17 +87,21 @@ Gabapentin capsules are prescription medicine used to treat:
 - Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
 - Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
 
-Who should not take gabapentin capsules?
+It is not known if gabapentin capsule is safe and effective to treat:
 
-Do not take gabapentin capsules if you are allergic to gabapentin or any of the other ingredients in gabapentin capsules.
-See the end of this Medication Guide for a complete list of ingredients in gabapentin capsules.
+- children with pain from damaged nerves from a painful rash caused by the chicken pox virus.
+- partial seizures in children under 3 years of age.
 
-What should I tell my healthcare provider before taking gabapentin capsules?
+Do not take gabapentin capsules if you:
 
-Before taking gabapentin capsules, tell your healthcare provider if you:
+- are allergic to gabapentin or any of the other ingredients in gabapentin capsules.
+  See the end of this Medication Guide for a complete list of ingredients in gabapentin capsules.
+
+Before taking gabapentin capsules, tell your healthcare provider about all of your medical conditions including if you:
 
 - have or have had kidney problems or are on hemodialysis
 - have or have had depression, mood problems, or suicidal thoughts or behavior
+- have a history of drug abuse.
 - have diabetes
 - have breathing problems
 - are pregnant or plan to become pregnant.
@@ -98,15 +110,18 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
   You and your healthcare provider will decide if you should take gabapentin while you are pregnant.
   - Pregnancy Registry: If you become pregnant while taking gabapentin capsules, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-    You can enroll in this registry by calling 1-888-233-2334.
+    You can enroll in this registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 - are breast-feeding or plan to breast-feed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin capsules.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
 
-You may have a higher chance for dizziness, sleepiness, or breathing problems if these medicines are taken with Gabapentin Capsules.
+Especially tell your healthcare provider if you take:
+
+- any opioid pain medicine such as morphine, hydrocodone, oxycodone, or buprenorphine.
+- any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
+  You may have a higher chance for dizziness, sleepiness, or breathing problems if these medicines are taken with Gabapentin Capsules.
 
 Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -118,11 +133,12 @@ How should I take gabapentin capsules?
 
 - Take gabapentin capsules exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin capsules to take.
-  - Do not change your dose of gabapentin capsules without talking to your healthcare provider.
-  - Take gabapentin capsules with water.
+- Do not change your dose of gabapentin capsules without talking to your healthcare provider.
+- Gabapentin capsules can be taken with or without food.
+- Swallow gabapentin capsules with water.
 - If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
-
-If you take too much gabapentin capsules, call your healthcare provider or your local Poison Control Center right away at 1-800-222-1222.
+- In case of overdose, get medical help or contact a live Poison Center expert right away at 1-800-222-1222.
+  Advice is also available online at poisonhelp.org.
 
 What should I avoid while taking gabapentin capsules?
 
@@ -140,20 +156,22 @@ See “What is the most important information I should know about gabapentin cap
 - problems driving while using gabapentin capsules.
   See “What I should avoid while taking gabapentin capsules?”
 - sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
-- The most common side effects of gabapentin capsules include:
-  - lack of coordination
-  - viral infection
-  - feeling drowsy
-  - nausea and vomiting
-  - difficulty with speaking
-  - jerky movements
-  - tremor
-  - difficulty with coordination
-  - swelling,usually of legs and feet
-  - double vision
-  - feeling tired
-  - unusual eye movement
-  - fever
+
+The most common side effects of gabapentin capsules include:
+
+- lack of coordination
+- viral infection
+- feeling drowsy
+- nausea and vomiting
+- difficulty with speaking
+- jerky movements
+- tremor
+- difficulty with coordination
+- swelling,usually of legs and feet
+- double vision
+- feeling tired
+- unusual eye movement
+- fever
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -165,8 +183,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store gabapentin capsules?
 
-- Store gabapentin capsules at 20° to 25°C (68° to 77°F).
-  [see USP Controlled Room Temperature].
+- Store gabapentin capsules at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep gabapentin capsules and all medicines out of the reach of children.
 
@@ -176,10 +193,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use gabapentin capsules for a condition for which it was not prescribed.
 Do not give gabapentin capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about gabapentin capsules.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about gabapentin capsules that was written for healthcare professionals.
+You can ask your healthcare provider or pharmacist for information about gabapentin capsules that is written for healthcare professionals.
 
 For more information about gabapentin capsules, or to report side effects regarding gabapentin capsules, please call Exelan Pharmaceuticals, Inc. at 1-866-604-3268.
 
@@ -200,4 +214,4 @@ Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Haup
 
 Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-Revised: 02/2022
+Revised: 08/2024

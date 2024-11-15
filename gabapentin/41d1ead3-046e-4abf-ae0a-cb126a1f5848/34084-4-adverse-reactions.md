@@ -113,7 +113,7 @@ Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patient
 | Special Senses |  |  |
 | Diplopia | 6 | 2 |
 | Amblyopiab | 4 | 1 |
-| a Plus background antiepileptic drug therapy b Amblyopia was often described as blurred vision. |  |  |
+| a Plus background antiepileptic drug therapyb Amblyopia was often described as blurred vision. |  |  |
 
 Among the adverse reactions occurring at an incidence of at least 10% in gabapentin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
 
