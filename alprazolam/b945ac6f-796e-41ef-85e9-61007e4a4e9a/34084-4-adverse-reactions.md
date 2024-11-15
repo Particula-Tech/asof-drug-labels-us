@@ -49,7 +49,7 @@ Table 2: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and
 | Memory Impairment | 33% | 22% |
 | Cognitive Disorder | 29% | 21% |
 | Decreased Libido | 14% | 8% |
-| Dysarthria | 23% | 6% |
+| Dysartharia | 23% | 6% |
 | Confusional state | 10% | 8% |
 | Increased libido | 8% | 4% |
 | Change in libido (not specified) | 7% | 6% |

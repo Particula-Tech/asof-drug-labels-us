@@ -44,4 +44,4 @@ Advise patients that breastfeeding is not recommended during treatment with alpr
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000247/02 Revised: January 2023
+C50000247/02 Revised: 01/2023
