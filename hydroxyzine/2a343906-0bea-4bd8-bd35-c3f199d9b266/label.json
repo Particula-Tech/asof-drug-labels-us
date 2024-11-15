@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040391"
+  ],
+  "inn": "hydroxyzine",
+  "labeler": "PAI Holdings, LLC dba PAI Pharma",
+  "package_ndcs": [
+    "0121-1034-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydroxyzine hydrochloride",
+      "name": "Hydroxyzine Hydrochloride"
+    }
+  ],
+  "setid": "2a343906-0bea-4bd8-bd35-c3f199d9b266",
+  "source": "dailymed"
+}
