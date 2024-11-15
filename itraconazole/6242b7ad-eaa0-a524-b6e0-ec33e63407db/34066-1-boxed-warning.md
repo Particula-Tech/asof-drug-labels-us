@@ -7,7 +7,7 @@
 - Itraconazole Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
   If signs or symptoms of congestive heart failure occur during administration of Itraconazole Capsules, discontinue administration.
 - When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen.
-  (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populationsfor more information.)
+  (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populationsfor more information.)
 
 ### Drug Interactions
 

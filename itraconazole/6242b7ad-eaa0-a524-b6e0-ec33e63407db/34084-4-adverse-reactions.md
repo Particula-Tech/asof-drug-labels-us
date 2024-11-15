@@ -116,16 +116,17 @@ Skin and Subcutaneous Tissue Disorders:rash erythematous, hyperhidrosis;
 
 Vascular Disorders:hypotension
 
-## Post-marketing Experience
+## Postmarketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during postmarketing experience with itraconazole (all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Post-marketing Reports of Adverse Drug Reactions
+Table 6: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
 | Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
+| Endocrine Disorders: | Pseudoaldosteronism |
 | Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
@@ -141,6 +142,6 @@ Table 6: Post-marketing Reports of Adverse Drug Reactions
 | Investigations: | Blood creatine phosphokinase increased |
 
 There is limited information on the use of itraconazole during pregnancy.
-Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
+Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during postmarketing experience.
 A causal relationship with itraconazole has not been established.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactionsfor more information.)
