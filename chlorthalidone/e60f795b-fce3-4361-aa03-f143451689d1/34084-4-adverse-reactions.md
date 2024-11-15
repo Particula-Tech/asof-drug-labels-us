@@ -42,7 +42,7 @@ Generally, adverse reactions were mild, not dose related and similar regardless 
 
 Adverse reactions with a plausible relationship to treatment that have been reported with an incidence of ≥0.3% and greater than placebo in more than 3300 patients treated with azilsartan medoxomil in controlled trials are listed below:
 
-Gastrointestinal Disorders: diarrhea, nausea General Disorders and Administration Site Conditions: asthenia, fatigue Musculoskeletal and Connective Tissue Disorders: muscle spasm Nervous System Disorders: dizziness, dizziness postural Respiratory, Thoracic and Mediastinal Disorders: cough
+Gastrointestinal Disorders:diarrhea, nausea General Disorders and Administration Site Conditions:asthenia, fatigue Musculoskeletal and Connective Tissue Disorders:muscle spasm Nervous System Disorders:dizziness, dizziness postural Respiratory, Thoracic and Mediastinal Disorders:cough
 
 Chlorthalidone
 

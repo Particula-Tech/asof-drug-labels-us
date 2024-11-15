@@ -38,14 +38,14 @@ Before you take Edarbyclor, tell your doctor if you:
 - are vomiting or have diarrhea
 - have gout
 - are pregnant or plan to become pregnant.
-  See "What is the most important information I should know about Edarbyclor?"
+  See " What is the most important information I should know about Edarbyclor?"
 - are breastfeeding or plan to breastfeed.
   It is not known if Edarbyclor passes into your breast milk.
   You and your doctor should decide if you will take Edarbyclor or breastfeed.
   You should not do both.
   Talk with your doctor about the best way to feed your baby if you take Edarbyclor.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, includingprescription and nonprescription medicines, vitamins, and herbal supplements.
 
 Especially tell your doctor if you take:
 
@@ -68,14 +68,14 @@ How should I take Edarbyclor?
 - If you miss a dose, take it later in the same day.
   Do not take more than 1 dose of Edarbyclor in a day.
 - If you take too much Edarbyclor and have symptoms of low blood pressure (hypotension) and dizziness, call your doctor for advice.
-  See "What are the possible side effects of Edarbyclor?"
+  See " What are the possible side effects of Edarbyclor?"
 
 What are the possible side effects of Edarbyclor?
 
 Edarbyclor may cause serious side effects, including:
 
-- See "What is the most important information I should know about Edarbyclor?"
-- Low blood pressure (hypotension) and dizziness is most likely to happen if you also:
+- See" What is the most important information I should know about Edarbyclor?"
+- Low blood pressure (hypotension) and dizzinessis most likely to happen if you also:
   - take water pills (diuretics)
   - are on a low-salt diet
   - take other medicines that affect your blood pressure
@@ -87,14 +87,11 @@ If you feel faint or dizzy, lie down and call your doctor right away.
 If you pass out (faint) have someone call your doctor or get medical help.
 Stop taking Edarbyclor.
 
-- Kidney problems.
-  Kidney problems may become worse in people that already have kidney disease.
+- Kidney problems.Kidney problems may become worse in people that already have kidney disease.
   Some people have changes in blood tests for kidney function and may need a lower dose of Edarbyclor or may need to stop treatment with Edarbyclor.
   During treatment with Edarbyclor, certain people who have severe heart failure, narrowing of the artery to the kidney, or who lose too much body fluid such as with nausea, vomiting, bleeding, or trauma, may develop sudden kidney failure and in rare instances, death.
-- Fluid and body salt (electrolyte) problems.
-  Tell your doctor if you get any of the following symptoms: dry mouththirstlack of energy (lethargic)weaknessdrowsiness confusionseizuresmuscle pain or crampsrestlessnessmuscle tiredness (fatigue) passing very little urine or passing large amounts of urinefast or abnormal heartbeatnausea and vomitingconstipation
-- Increased uric acid levels in the blood.
-  People who have increased levels of uric acid in the blood may develop gout.
+- Fluid and body salt (electrolyte) problems.Tell your doctor if you get any of the following symptoms: dry mouththirstlack of energy (lethargic)weaknessdrowsiness confusionseizuresmuscle pain or crampsrestlessnessmuscle tiredness (fatigue) passing very little urine or passing large amounts of urinefast or abnormal heartbeatnausea and vomitingconstipation
+- Increased uric acid levels in the blood.People who have increased levels of uric acid in the blood may develop gout.
   If you already have gout, tell your doctor about worsening of your gout symptoms.
 
 The most common side effects of Edarbyclor are:
@@ -141,20 +138,20 @@ Medicines that lower your blood pressure may lower your chance of having a strok
 
 What are the ingredients in Edarbyclor?
 
-Active ingredients: azilsartan medoxomil and chlorthalidone
+Activeingredients:azilsartan medoxomil and chlorthalidone
 
-Inactive ingredients: mannitol, microcrystalline cellulose, fumaric acid, sodium hydroxide, hydroxypropyl cellulose, crospovidone, magnesium stearate, hypromellose 2910, talc, titanium dioxide, ferric oxide red, polyethylene glycol 8000, and printing ink gray F1.
+Inactiveingredients:mannitol, microcrystalline cellulose, fumaric acid, sodium hydroxide, hydroxypropyl cellulose, crospovidone, magnesium stearate, hypromellose 2910, talc, titanium dioxide, ferric oxide red, polyethylene glycol 8000, and printing ink gray F1.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Takeda Ireland
 
-Manufactured for: azurity® pharmaceuticals Woburn, MA 01801
+Manufactured for: azurity ® pharmaceuticals Woburn, MA 01801
 
-Patent: https://azurity.com/patents
+https://azurity.com/patents
 
-Revised: April 2023
+Revised: July 2022
 
 Edarbyclor is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Azurity Pharmaceuticals, Inc.
 
-EC-PI-09
+EC-PI-08

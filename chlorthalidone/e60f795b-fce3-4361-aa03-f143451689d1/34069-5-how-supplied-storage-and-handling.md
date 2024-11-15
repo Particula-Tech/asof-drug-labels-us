@@ -8,7 +8,6 @@ Edarbyclor is supplied as fixed dose combination tablets that are round, biconve
 | 40 / 12.5 mg | Pale red | A/C 40/12.5 | 412-30 |
 | 40 / 25 mg | Light red | A/C 40/25 | 425-30 |
 
-Store at 25°C (77°F), excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-Keep container tightly closed.
+Store at 25°C (77°F), excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].Keep container tightly closed.
 Protect from moisture and light.
 Do not repackage; dispense and store in original container.

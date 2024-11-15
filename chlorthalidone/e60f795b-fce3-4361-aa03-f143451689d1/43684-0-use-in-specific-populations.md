@@ -30,8 +30,8 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Closely observe infants with histories of in utero exposure to Edarbyclor for hypotension, oliguria, and hyperkalemia.
-In neonates with a history of in utero exposure to Edarbyclor, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to Edarbyclor for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in uteroexposure to Edarbyclor, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 Chlorthalidone
@@ -55,8 +55,8 @@ In an embryo-fetal developmental study in rats, there was no teratogenicity or i
 
 Azilsartan medoxomil
 
-Reproductive Toxicology: In peri- and postnatal rat development studies, adverse effects on pup viability, delayed incisor eruption and dilatation of the renal pelvis along with hydronephrosis were seen when azilsartan medoxomil was administered to pregnant and nursing rats at 1.2 times the MRHD on a mg/m2 basis.
-Reproductive toxicity studies indicated that azilsartan medoxomil was not teratogenic when administered at oral doses up to 1000 mg azilsartan medoxomil/kg/day to pregnant rats (122 times the MRHD on a mg/m2 basis) or up to 50 mg azilsartan medoxomil/kg/day to pregnant rabbits (12 times the MRHD on a mg/m2 basis).
+Reproductive Toxicology:In peri- and postnatal rat development studies, adverse effects on pup viability, delayed incisor eruption and dilatation of the renal pelvis along with hydronephrosis were seen when azilsartan medoxomil was administered to pregnant and nursing rats at 1.2 times the MRHD on a mg/m 2basis.
+Reproductive toxicity studies indicated that azilsartan medoxomil was not teratogenic when administered at oral doses up to 1000 mg azilsartan medoxomil/kg/day to pregnant rats (122 times the MRHD on a mg/m 2basis) or up to 50 mg azilsartan medoxomil/kg/day to pregnant rabbits (12 times the MRHD on a mg/m 2basis).
 M-II also was not teratogenic in rats or rabbits at doses up to 3000 mg M-II/kg/day.
 Azilsartan crossed the placenta and was found in the fetuses of pregnant rats and was excreted into the milk of lactating rats.
 
@@ -90,8 +90,8 @@ No overall differences in safety or effectiveness were observed between elderly 
 
 Edarbyclor
 
-Safety and effectiveness of Edarbyclor in patients with severe renal impairment (eGFR <30 mL/min/1.73 m2) have not been established.
-No dose adjustment is required in patients with mild (eGFR 60-90 mL/min/1.73 m2) or moderate (eGFR 30-60 mL/min/1.73 m2) renal impairment.
+Safety and effectiveness of Edarbyclor in patients with severe renal impairment (eGFR <30 mL/min/1.73 m 2) have not been established.
+No dose adjustment is required in patients with mild (eGFR 60-90 mL/min/1.73 m 2) or moderate (eGFR 30-60 mL/min/1.73 m 2) renal impairment.
 
 Chlorthalidone
 

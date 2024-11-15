@@ -19,8 +19,7 @@ Adverse reactions include fetal or neonatal jaundice and thrombocytopenia.
 
 In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with Edarbyclor.
 Such patients are probably not good candidates to start therapy with more than one drug; therefore, correct volume prior to administration of Edarbyclor.
-If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
-A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
 ## 5.3 Impaired Renal Function
 
@@ -33,7 +32,7 @@ Azilsartan medoxomil
 
 As a consequence of inhibiting the renin-angiotensin system, changes in renal function may be anticipated in susceptible individuals treated with Edarbyclor.
 In patients whose renal function may depend on the activity of the renin-angiotensin system (e.g., patients with severe congestive heart failure, renal artery stenosis, or volume depletion), treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor blockers has been associated with oliguria or progressive azotemia and rarely with acute renal failure and death.
-Similar results may be anticipated in patients treated with Edarbyclor [see Drug Interactions (7), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Similar results may be anticipated in patients treated with Edarbyclor [see Drug Interactions (7), Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen have been reported.
 There has been no long-term use of azilsartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar results are expected.

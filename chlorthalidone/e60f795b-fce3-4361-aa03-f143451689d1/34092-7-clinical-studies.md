@@ -3,7 +3,7 @@
 The antihypertensive effects of Edarbyclor have been demonstrated in a total of 5 randomized controlled studies, which included 4 double-blind, active-controlled studies and 1 open-label, long-term active-controlled study.
 The studies ranged from 8 weeks to 12 months in duration, at doses ranging from 20/12.5 mg to 80/25 mg once daily.
 A total of 5310 patients (3082 given Edarbyclor and 2228 given active comparator) with moderate or severe hypertension were studied.
-Overall, randomized patients had a mean age of 57 years, and included 52% males, 72% whites, 21% blacks, 15% with diabetes, 70% with mild or moderate renal impairment, and a mean BMI of 31.6 kg/m2.
+Overall, randomized patients had a mean age of 57 years, and included 52% males, 72% whites, 21% blacks, 15% with diabetes, 70% with mild or moderate renal impairment, and a mean BMI of 31.6 kg/m 2.
 
 An 8-week, multicenter, randomized, double-blind, active-controlled, parallel group factorial trial in patients with moderate to severe hypertension compared the effect on blood pressure of Edarbyclor with the respective monotherapies.
 The trial randomized 1714 patients with baseline systolic blood pressure between 160 and 190 mm Hg (mean 165 mm Hg) and a baseline diastolic blood pressure <119 mm Hg (mean 95 mm Hg) to one of the 11 active treatment arms.

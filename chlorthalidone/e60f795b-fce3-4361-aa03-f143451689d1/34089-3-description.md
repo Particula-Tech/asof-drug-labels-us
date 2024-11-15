@@ -6,11 +6,11 @@ Azilsartan medoxomil, a prodrug, is hydrolyzed to azilsartan in the gastrointest
 Azilsartan is an angiotensin II receptor blocker.
 Chlorthalidone is a monosulfamyl thiazide-like diuretic that differs chemically from thiazide diuretics by the lack of a benzothiadiazine structure.
 
-The potassium salt of azilsartan medoxomil, azilsartan kamedoxomil, is chemically described as (5-Methyl-2-oxo-1,3-dioxol-4-yl)methyl 2-ethoxy-1-{[2'-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)biphenyl-4-yl]methyl}-1H-benzimidazole-7-carboxylate monopotassium salt.
-Its empirical formula is C30H23KN4O8.
+The potassium salt of azilsartan medoxomil, azilsartan kamedoxomil, is chemically described as (5-Methyl-2-oxo-1,3-dioxol-4-yl)methyl 2-ethoxy-1-{[2'-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)biphenyl-4-yl]methyl}-1 H-benzimidazole-7-carboxylate monopotassium salt.
+Its empirical formula is C 30H 23KN 4O 8.
 
 Chlorthalidone is chemically described as 2-chloro-5(1-hydroxy-3-oxo-1- isoindolinyl) benzenesulfonamide.
-Its empirical formula is C14H11ClN2O4S.
+Its empirical formula is C 14H 11ClN 2O 4S.
 
 The structural formula for azilsartan medoxomil is
 
