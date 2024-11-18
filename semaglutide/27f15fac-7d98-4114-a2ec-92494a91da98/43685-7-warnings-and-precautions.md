@@ -27,7 +27,7 @@ If pancreatitis is suspected, RYBELSUS should be discontinued and appropriate ma
 
 In a pooled analysis of glycemic control trials with RYBELSUS, patients reported diabetic retinopathy related adverse reactions during the trial (4.2% with RYBELSUS and 3.8% with comparator).
 
-In a 2-year cardiovascular outcomes trial with semaglutide injection involving patients with type 2 diabetes and high cardiovascular risk, diabetic retinopathy complications (which was a 4-component adjudicated endpoint) occurred in patients treated with semaglutide injection (3.0%) compared to placebo (1.8%).
+In a 2-year cardiovascular outcomes trial with semaglutide injection involving patients with type 2 diabetes and high cardiovascular risk, diabetic retinopathy complications (which was a 4-component adjudicated endpoint) occurred in patients treated with semaglutide injection (3%) compared to placebo (1.8%).
 The absolute risk increase for diabetic retinopathy complications was larger among patients with a history of diabetic retinopathy at baseline (semaglutide injection 8.2%, placebo 5.2%) than among patients without a known history of diabetic retinopathy (semaglutide injection 0.7%, placebo 0.4%).
 
 Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy.
@@ -48,11 +48,11 @@ Some of these events have been reported in patients without known underlying ren
 A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
 Monitor renal function when initiating or escalating doses of RYBELSUS in patients reporting severe adverse gastrointestinal reactions.
 
-## 5.6 Hypersensitivity
+## 5.6 Hypersensitivity Reactions
 
 Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported in patients treated with RYBELSUS.
 If hypersensitivity reactions occur, discontinue use of RYBELSUS; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-RYBELSUS is contraindicated in patients with a prior serious hypersensitivity reaction to semaglutide or to any of the excipients in RYBELSUS [seeAdverse Reactions (6.2)].
+RYBELSUS is contraindicated in patients with a prior serious hypersensitivity reaction to semaglutide or to any of the excipients in RYBELSUS [see Adverse Reactions (6.2)].
 
 Anaphylaxis and angioedema have been reported with GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema or anaphylaxis with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to anaphylaxis with RYBELSUS.
@@ -63,3 +63,11 @@ Acute events of gallbladder disease such as cholelithiasis or cholecystitis have
 In placebo-controlled trials, cholelithiasis was reported in 1% of patients treated with RYBELSUS 7 mg.
 Cholelithiasis was not reported in RYBELSUS 14 mg or placebo-treated patients.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated [see Adverse Reactions (6.2)].
+
+## 5.8 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+RYBELSUS delays gastric emptying [see Clinical Pharmacology (12.2)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking RYBELSUS, including whether modifying preoperative fasting recommendations or temporarily discontinuing RYBELSUS could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking RYBELSUS.

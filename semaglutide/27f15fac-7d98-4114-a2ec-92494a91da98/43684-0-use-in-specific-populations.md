@@ -59,9 +59,9 @@ Because of the unknown potential for serious adverse reactions in the breastfed 
 
 Data
 
-In lactating rats, semaglutide was detected in milk at levels 3- to 12-fold lower than in maternal plasma.
+In lactating rats, semaglutide was detected in milk at levels 3 to 12-fold lower than in maternal plasma.
 SNAC and/or its metabolites were detected in milk of lactating rats following a single maternal administration on lactation day 10.
-Mean levels of SNAC and/or its metabolites in milk were approximately 2- to 12-fold higher than in maternal plasma.
+Mean levels of SNAC and/or its metabolites in milk were approximately 2 to 12-fold higher than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 

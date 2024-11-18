@@ -7,8 +7,9 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Diabetic Retinopathy Complications [see Warnings and Precautions (5.3)]
 - •Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.4)]
 - •Acute Kidney Injury [see Warnings and Precautions (5.5)]
-- •Hypersensitivity [see Warnings and Precautions (5.6)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.7)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -76,7 +77,7 @@ Hypoglycemia
 Table 2 summarizes the incidence of hypoglycemia by various definitions in the placebo-controlled trials.
 
 Table 2.
-Hypoglycemia Adverse Reactions in Placebo-Controlled Trials In Patients with Type 2 Diabetes Mellitus
+Hypoglycemia Adverse Reactions in Placebo-Controlled Trials in Patients with Type 2 Diabetes Mellitus
 
 |  | Placebo | RYBELSUS7 mg | RYBELSUS14 mg |
 | --- | --- | --- | --- |
@@ -123,4 +124,6 @@ Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 
 Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy
 
-Nervous system disorders:dizziness, dysgeusia
+Nervous system disorders: dizziness, dysgeusia
+
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.

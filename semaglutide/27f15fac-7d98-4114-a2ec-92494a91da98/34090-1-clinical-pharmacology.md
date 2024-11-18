@@ -87,12 +87,12 @@ However, RYBELSUS doses of 7 mg and 14 mg provide adequate systemic exposure ove
 The effects of intrinsic factors on the pharmacokinetics of semaglutide are shown in Figure 1.
 
 Figure 1.
-Impact of intrinsic factors on semaglutide exposure
+Impact of Intrinsic Factors on Semaglutide Exposure
 
-Semaglutide exposure (Cavg) relative to reference subject profile: White, non-Hispanic or Latino female aged 18-64 years, with body weight of 85 kg, without upper GI disease or renal impairment, dosed 14 mg.
+Semaglutide exposure (Cavg) relative to reference subject profile: White, non-Hispanic or Latino female aged 18 to 64 years, with body weight of 85 kg, without upper GI disease or renal impairment, dosed 14 mg.
 Body weight categories (56 and 129 kg) represent the 5% and 95% percentiles in the dataset.
 
-Abbreviations: Cavg: average semaglutide concentration, GI: gastrointestinal, CI: confidence interval
+Abbreviations: Cavg: average semaglutide concentration, GI: gastrointestinal, CI: confidence interval.
 
 Patients with Renal impairment - Renal impairment does not impact the pharmacokinetics of semaglutide in a clinically relevant manner.
 This was shown in a study with 10 consecutive days of once daily oral doses of semaglutide in patients with different degrees of renal impairment (mild, moderate, severe, end staged renal disease) compared with subjects with normal renal function.
@@ -118,14 +118,16 @@ Total exposure (AUC) of thyroxine (adjusted for endogenous levels) was increased
 Maximum exposure (Cmax) was unchanged [see Drug Interactions (7.2)].
 
 Figure 2.
-Impact of semaglutide on the exposure of treatment with other oral medications
+Impact of Semaglutide on the Exposure of Treatment with other Oral Medications
 
 Relative exposure in terms of AUC and Cmax for each medication when given with semaglutide compared to without semaglutide.
 Metformin and oral contraceptive drug (ethinylestradiol/levonorgestrel) were assessed at steady state.
 Effect on levothyroxine is measured as baseline corrected total T4 (thyroxine) concentration.
 Lisinopril, warfarin (S-warfarin/R-warfarin), digoxin, furosemide, rosuvastatin and levothyroxine were assessed after a single dose.
 
-Abbreviations: AUC: area under the curve, Cmax: maximum concentration, CI: confidence interval
+Abbreviations: AUC: area under the curve.
+Cmax: maximum concentration.
+CI: confidence interval.
 
 No clinically relevant change in semaglutide exposure was observed when taken with omeprazole.
 
@@ -134,7 +136,7 @@ No clinically relevant change in semaglutide exposure was observed when taken wi
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of semaglutide or of other semaglutide products.
 
-During the 26- to 78-week treatment periods in 5 clinical trials [see Clinical Studies (14.2), (14.3)] and 1 clinical trial in Japanese adults with type 2 diabetes mellitus, 14/2924 (0.5%) of RYBELSUS-treated patients developed anti-semaglutide antibodies.
+During the 26 to 78-week treatment periods in 5 clinical trials [see Clinical Studies (14.2), (14.3)] and 1 clinical trial in Japanese adults with type 2 diabetes mellitus, 14/2924 (0.5%) of RYBELSUS-treated patients developed anti-semaglutide antibodies.
 Of these 14 RYBELSUS-treated patients, 7 patients (0.2% of the total RYBELSUS-treated study population) developed antibodies that cross-reacted with native GLP-1.
 No identified clinically significant effect of anti-semaglutide antibodies on pharmacokinetics of RYBELSUS was observed.
 There is insufficient information to characterize the effects of anti-semaglutide antibodies on pharmacodynamics, safety, or effectiveness of semaglutide.

@@ -26,7 +26,7 @@ Results at Week 26 in a Trial of RYBELSUS as Monotherapy in Adult Patients with 
 | --- | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 178 | 175 | 175 |
 | HbA1c (%) |  |  |  |
-| Baseline (mean) | 7.9 | 8.0 | 8.0 |
+| Baseline (mean) | 7.9 | 8 | 8 |
 | Change at week 26b | -0.3 | -1.2 | -1.4 |
 | Difference from placebob [95% CI] |  | −0.9 [−1.1; −0.6]c | −1.1 [−1.3; −0.9]c |
 | Patients (%) achieving HbA1c <7% | 31 | 69 | 77 |
@@ -44,7 +44,7 @@ b Estimated using an ANCOVA model based on data irrespectively of discontinuatio
 
 c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
-The mean baseline body weight was 88.6 kg, 89.0 kg and 88.1 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
+The mean baseline body weight was 88.6 kg, 89 kg and 88.1 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
 The mean changes from baseline to week 26 were -1.4 kg, -2.3 kg and -3.7 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
 The difference from placebo (95% CI) for RYBELSUS 7 mg was -0.9 kg (-1.9, 0.1) and for RYBELSUS 14 mg was -2.3 kg (-3.1, -1.5).
 
@@ -124,7 +124,7 @@ c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 91.3 kg, 91.2 kg and 90.9 kg in the RYBELSUS 7 mg, RYBELSUS 14 mg and sitagliptin 100 mg arms, respectively.
 The mean changes from baseline to week 26 were -2.2 kg, -3.1 kg and -0.6 kg in the RYBELSUS 7 mg, RYBELSUS 14 mg and sitagliptin 100 mg arms, respectively.
-The difference from sitagliptin (95% CI) for RYBELSUS 7 mg was -1.6 kg (-2.0, -1.1) and RYBELSUS 14 mg was -2.5 kg (-3.0, -2.0).
+The difference from sitagliptin (95% CI) for RYBELSUS 7 mg was -1.6 kg (-2 -1.1) and RYBELSUS 14 mg was -2.5 kg (-3, -2).
 
 Combination with Metformin or Metformin with SGLT-2 Inhibitors
 
@@ -143,10 +143,10 @@ Results at Week 26 in a Trial of RYBELSUS Compared to Liraglutide and Placebo in
 | --- | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 142 | 284 | 285 |
 | HbA1c (%) |  |  |  |
-| Baseline (mean) | 7.9 | 8.0 | 8.0 |
+| Baseline (mean) | 7.9 | 8 | 8 |
 | Change at week 26b | -0.2 | -1.1 | -1. 2 |
 | Difference from placebob [95% CI] |  |  | -1.1 [-1.2; -0.9]c |
-| Difference from liraglutideb [95% CI] |  |  | -0.1 [-0.3; 0.0] |
+| Difference from liraglutideb [95% CI] |  |  | -0.1 [-0.3; 0] |
 | Patients (%) achieving HbA1c <7% | 14 | 62 | 68 |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 167 | 168 | 167 |
@@ -164,7 +164,7 @@ c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 93.2 kg, 95.5 kg and 92.9 kg in the placebo, liraglutide 1.8 mg, and RYBELSUS 14 mg arms, respectively.
 The mean changes from baseline to week 26 were -0.5 kg, -3.1 kg and -4.4 kg in the placebo, liraglutide 1.8 mg, and RYBELSUS 14 mg arms, respectively.
-The difference from placebo (95% CI) for RYBELSUS 14 mg was -3.8 kg (-4.7, -3.0).
+The difference from placebo (95% CI) for RYBELSUS 14 mg was -3.8 kg (-4.7, -3).
 The difference from liraglutide 1.8 mg for RYBELSUS 14 mg was -1.2 (-1.9, -0.6).
 
 Combination in patients with Type 2 Diabetes Mellitus and Moderate Renal Impairment with Metformin alone, Sulfonylurea alone, Basal Insulin alone, or Metformin in Combination with either Sulfonylurea or Basal Insulin
@@ -188,9 +188,9 @@ Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Patients with M
 | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 161 | 163 |
 | HbA1c (%) |  |  |
-| Baseline (mean) | 7.9 | 8.0 |
-| Change at week 26b | -0.2 | -1.0 |
-| Difference from placebob [95% CI] |  | -0.8[-1.0; -0.6]c |
+| Baseline (mean) | 7.9 | 8 |
+| Change at week 26b | -0.2 | -1 |
+| Difference from placebob [95% CI] |  | -0.8[-1; -0.6]c |
 | Patients (%) achieving HbA1c <7% | 23 | 58 |
 | FPG (mg/dL) |  |  |
 | Baseline (mean) | 164 | 164 |
@@ -247,15 +247,15 @@ b Estimated using an ANCOVA based on data irrespectively of discontinuation of t
 
 c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
-The mean baseline body weight was 86.0 kg, 87.1 kg and 84.6 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
+The mean baseline body weight was 86kg, 87.1 kg and 84.6 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
 The mean changes from baseline to week 26 were -0.4 kg, -2.4 kg and -3.7 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
-The difference from placebo (95% CI) for RYBELSUS 7 mg was -2.0 kg (-3.0, -1.0), and for RYBELSUS 14 mg was -3.3 kg (-4.2, -2.3).
+The difference from placebo (95% CI) for RYBELSUS 7 mg was -2 kg (-3, -1), and for RYBELSUS 14 mg was -3.3 kg (-4.2, -2.3).
 
 ## 14.4 Cardiovascular Outcomes Trial in Patients with Type 2 Diabetes Mellitus and Cardiovascular Disease
 
 PIONEER 6 (NCT02692716) was a multi-center, multi-national, placebo-controlled, double-blind trial.
 In this trial, 3,183 adult patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to RYBELSUS 14 mg once daily or placebo for a median observation time of 16 months.
-The trial compared the risk of a major adverse cardiovascular event (MACE) between RYBELSUS 14 mg and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
+The trial compared the risk of a Major Adverse Cardiovascular Event (MACE) between RYBELSUS 14 mg and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
 The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
 
 Patients eligible to enter the trial were 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease.
