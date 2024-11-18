@@ -6,7 +6,8 @@ Risk Summary
 
 There are no adequate and well-controlled studies of latanoprost administration in pregnant women.to inform drug-associated risks.
 
-In animal reproduction studies, intravenous (IV) administration of latanoprost to pregnant rabbits and rats throughout the period of organogenesis produced malformations, embryofetal lethality and spontaneous abortion at clinically relevant doses [see Data].
+In animal reproduction studies, intravenous (IV) administration of latanoprost to pregnant rabbits and rats throughout the period of organogenesis produced malformations, embryofetal lethality and spontaneous abortion at clinically relevant doses [see Error!
+Hyperlink reference not valid.].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 However, the background risk in the U.S. general population of major birth defects is 2 to 4%, and of miscarriage is 15 to 20% of clinically recognized pregnancies.
