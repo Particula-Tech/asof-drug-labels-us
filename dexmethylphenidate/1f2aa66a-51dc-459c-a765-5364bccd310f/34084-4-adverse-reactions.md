@@ -46,16 +46,16 @@ Abbreviation: ADHD, attention deficit hyperactivity disorder.
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use of dexmethylphenidate.
+The following additional adverse reactions have been identified during post-approval use of dexmethylphenidate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal: rhabdomyolysis
 
 Immune System Disorders: hypersensitivity reactions, such as angioedema, anaphylactic reactions
 
-Adverse Reactions Reported with All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Tablets Formulations
+Adverse Reactions Reported with All Methylphenidate Hydrochloride Tablets and Dexmethylphenidate Hydrochloride Tablets Formulations
 
-The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
+The following adverse reactions associated with the use of all methylphenidate hydrochloride tablets and dexmethylphenidate hydrochloride tablets formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
 Infections and Infestations: nasopharyngitis

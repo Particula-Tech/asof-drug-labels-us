@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Abuse, Misuse, and Addiction
 
-Educate patients and their families about the risks of abuse, misuse, and addiction of dexmethylphenidate hydrochloride, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Educate patients and their families about the risks of abuse, misuse, and addiction of dexmethylphenidate hydrochloride tablets, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
 Advise patients to store dexmethylphenidate hydrochloride tablets in a safe place, preferably locked, and instruct patients to not give dexmethylphenidate hydrochloride tablets to anyone else.
 
 Risks to Patients with Serious Cardiac Disease
@@ -39,11 +39,11 @@ Advise patients that dexmethylphenidate hydrochloride tablets may cause slowing 
 
 Increased Intraocular Pressure (IOP) and Glaucoma
 
-Advise patients that IOP and glaucoma may occur during treatment with dexmethylphenidate hydrochloride [see Warnings and Precautions (5.9)].
+Advise patients that IOP and glaucoma may occur during treatment with dexmethylphenidate hydrochloride tablets [see Warnings and Precautions (5.9)].
 
 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
-Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with dexmethylphenidate hydrochloride.
+Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with dexmethylphenidate hydrochloride tablets.
 Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.10)].
 
 Pregnancy Registry
@@ -52,5 +52,7 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
+For: Cranbury Pharmaceuticals, LLC Monmouth Junction, NJ 08852
+
 LB8408 Rev.
-05 11/2023
+06 07/2024

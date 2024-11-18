@@ -2,28 +2,28 @@
 
 ## 5.1 Abuse, Misuse, and Addiction
 
-Dexmethylphenidate hydrochloride has a high potential for abuse and misuse.
-The use of dexmethylphenidate hydrochloride exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+Dexmethylphenidate hydrochloride tablets have a high potential for abuse and misuse.
+The use of dexmethylphenidate hydrochloride tablets exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
 Dexmethylphenidate hydrochloride tablets can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2)].
 Misuse and abuse of CNS stimulants, including dexmethylphenidate hydrochloride tablets, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
 Before prescribing dexmethylphenidate hydrochloride tablets, assess each patient’s risk for abuse, misuse, and addiction.
 Educate patients and their families about these risks and proper disposal of any unused drug.
-Advise patients to store dexmethylphenidate hydrochloride in a safe place, preferably locked, and instruct patients to not give dexmethylphenidate hydrochloride tablets to anyone else.
-Throughout dexmethylphenidate hydrochloride treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
+Advise patients to store dexmethylphenidate hydrochloride tablets in a safe place, preferably locked, and instruct patients to not give dexmethylphenidate hydrochloride tablets to anyone else.
+Throughout dexmethylphenidate hydrochloride tablets treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
 ## 5.2 Risks to Patients With Serious Cardiac Disease
 
 Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosage.
 
-Avoid dexmethylphenidate hydrochloride use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
+Avoid dexmethylphenidate hydrochloride tablets use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
 ## 5.3 Increased Blood Pressure and Heart Rate
 
 CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 beats per minute).
 Some patients may have larger increases.
 
-Monitor all dexmethylphenidate hydrochloride-treated patients for hypertension and tachycardia.
+Monitor all dexmethylphenidate hydrochloride tablets-treated patients for hypertension and tachycardia.
 
 ## 5.4 Psychiatric Adverse Reactions
 
@@ -34,7 +34,7 @@ CNS stimulants may exacerbate symptoms of behavior disturbance and thought disor
 Induction of a Manic Episode in Patients with Bipolar Disorder
 
 CNS stimulants may induce a manic or mixed mood episode in patients.
-Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
+Prior to initiating dexmethylphenidate hydrochloride tablets treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
 
 New Psychotic or Manic Symptoms
 
@@ -46,9 +46,9 @@ If such symptoms occur, consider discontinuing dexmethylphenidate hydrochloride 
 
 Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate use in both adult and pediatric male patients.
 Although priapism was not reported with methylphenidate initiation, it developed after some time on methylphenidate, often subsequent to an increase in dosage.
-Priapism has also occurred during methylphenidate withdrawal (drug holidays or during discontinuation).
+Priapism also occurred during methylphenidate withdrawal (drug holidays or during discontinuation).
 
-Dexmethylphenidate hydrochloride-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+Dexmethylphenidate hydrochloride tablets-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
 ## 5.6 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
@@ -57,8 +57,8 @@ Signs and symptoms are usually intermittent and mild; however, sequelae have inc
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
 Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant.
 
-Careful observation for digital changes is necessary during dexmethylphenidate hydrochloride treatment.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for dexmethylphenidate hydrochloride-treated patients who develop signs or symptoms of peripheral vasculopathy.
+Careful observation for digital changes is necessary during dexmethylphenidate hydrochloride tablets treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for dexmethylphenidate hydrochloride tablets-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
@@ -66,26 +66,26 @@ CNS stimulants have been associated with weight loss and slowing of growth rate 
 
 Careful follow-up of weight and height in patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year had a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period.
 
-Closely monitor growth (weight and height) in dexmethylphenidate hydrochloride-treated pediatric patients.
+Closely monitor growth (weight and height) in dexmethylphenidate hydrochloride tablets-treated pediatric patients.
 Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
 ## 5.8 Acute Angle Closure Glaucoma
 
 There have been reports of angle closure glaucoma associated with methylphenidate treatment.
 
-Although the mechanism is not clear, dexmethylphenidate hydrochloride-treated patients considered at risk for acute angle closure glaucoma (e.g., patients with significant hyperopia) should be evaluated by an ophthalmologist.
+Although the mechanism is not clear, dexmethylphenidate hydrochloride tablets-treated patients considered at risk for acute angle closure glaucoma (e.g., patients with significant hyperopia) should be evaluated by an ophthalmologist.
 
 ## 5.9 Increased Intraocular Pressure and Glaucoma
 
 There have been reports of an elevation of intraocular pressure (IOP) associated with methylphenidate treatment [see Adverse Reactions (6.2)].
 
 Prescribe dexmethylphenidate hydrochloride tablets to patients with open-angle glaucoma or abnormally increased IOP only if the benefit of treatment is considered to outweigh the risk.
-Closely monitor dexmethylphenidate hydrochloride-treated patients with a history of abnormally increased IOP or open angle glaucoma.
+Closely monitor dexmethylphenidate hydrochloride tablets-treated patients with a history of abnormally increased IOP or open angle glaucoma.
 
 ## 5.10 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
 CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics.
 Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6.2)].
 
-Before initiating dexmethylphenidate hydrochloride, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
-Regularly monitor dexmethylphenidate hydrochloride-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.
+Before initiating dexmethylphenidate hydrochloride tablets, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
+Regularly monitor dexmethylphenidate hydrochloride tablets-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.

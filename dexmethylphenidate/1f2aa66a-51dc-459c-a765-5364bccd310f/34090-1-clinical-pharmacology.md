@@ -9,12 +9,12 @@ The mode of therapeutic action in ADHD is not known.
 
 Pharmacodynamics
 
-Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
+Dexmethylphenidate hydrochloride tablet is the more pharmacologically active d-enantiomer of racemic methylphenidate.
 Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
-A formal QT study has not been conducted in patients taking dexmethylphenidate; however, a large QT effect is not expected.
+A formal QT study has not been conducted in patients taking dexmethylphenidate hydrochloride tablets; however, a large QT effect is not expected.
 At the recommended maximum total daily dosage of 40 mg, dexmethylphenidate extended-release capsule does not prolong the QTc interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
@@ -23,10 +23,10 @@ Absorption
 
 Dexmethylphenidate hydrochloride is readily absorbed following oral administration of dexmethylphenidate hydrochloride tablets.
 In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose.
-No differences in the pharmacokinetics of dexmethylphenidate were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
+No differences in the pharmacokinetics of dexmethylphenidate hydrochloride tablets were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 
 After single dose administration of dexmethylphenidate hydrochloride tablets to pediatric patients, dexmethylphenidate exposure (Cmax and AUC0-inf) showed dose-proportional increase in the range of 2.5 mg to 10 mg.
-Comparable plasma dexmethylphenidate levels were achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate).
+Comparable plasma dexmethylphenidate levels were achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate hydrochloride tablets).
 
 Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate.
 However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
@@ -64,12 +64,12 @@ Male and Female Patients
 
 Pharmacokinetic parameters were similar for boys and girls (mean age 10 years).
 
-In a single dose study conducted in adults, the mean dexmethylphenidate AUC0-inf values (adjusted for body weight) following single two 10 mg doses of dexmethylphenidate hydrochloride were 25% to 35% higher in adult female volunteers (n = 6) compared to male volunteers (n = 9).
+In a single dose study conducted in adults, the mean dexmethylphenidate AUC0-inf values (adjusted for body weight) following single two 10 mg doses of dexmethylphenidate hydrochloride tablets were 25% to 35% higher in adult female volunteers (n = 6) compared to male volunteers (n = 9).
 Both Tmax and t1/2 were comparable for males and females.
 
 Racial or Ethnic Groups
 
-There is insufficient experience with the use of dexmethylphenidate hydrochloride to detect ethnic variations in pharmacokinetics.
+There is insufficient experience with the use of dexmethylphenidate hydrochloride tablets to detect ethnic variations in pharmacokinetics.
 
 Pediatric Patients
 

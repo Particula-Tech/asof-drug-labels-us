@@ -1,8 +1,8 @@
 # WARNING: ABUSE, MISUSE, AND ADDICTION
 
-Dexmethylphenidate hydrochloride has a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
-Misuse and abuse of CNS stimulants, including dexmethylphenidate hydrochloride, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
+Dexmethylphenidate hydrochloride tablets have a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+Misuse and abuse of CNS stimulants, including dexmethylphenidate hydrochloride tablets, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-Before prescribing dexmethylphenidate hydrochloride, assess each patient’s risk for abuse, misuse, and addiction.
+Before prescribing dexmethylphenidate hydrochloride tablets, assess each patient’s risk for abuse, misuse, and addiction.
 Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug.
-Throughout dexmethylphenidate hydrochloride treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.2)].
+Throughout dexmethylphenidate hydrochloride tablets treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.2)].

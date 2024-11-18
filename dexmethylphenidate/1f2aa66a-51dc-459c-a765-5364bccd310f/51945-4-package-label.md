@@ -10,13 +10,15 @@ Dexmethylphenidate Hydrochloride Tablets
 
 100 Tablets
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide to each patient.
+
+Print Medication Guide at: https://www.cranburypharma.com/products/
 
 Rx only
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 5 mg
+Package Label –5 mg
 
 NDC 27808-092-01
 
@@ -26,7 +28,9 @@ Dexmethylphenidate Hydrochloride Tablets
 
 100 Tablets
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide to each patient.
+
+Print Medication Guide at: https://www.cranburypharma.com/products/
 
 Rx only
 
@@ -42,6 +46,8 @@ Dexmethylphenidate Hydrochloride Tablets
 
 100 Tablets
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide to each patient.
+
+Print Medication Guide at: https://www.cranburypharma.com/products/
 
 Rx only
