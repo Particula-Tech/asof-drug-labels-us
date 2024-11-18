@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL-5 mg BOTTLE LABEL
 
-Representative sample of labeling (see HOW SUPPLIED section for completed listing):
+Representative sample of labeling (see HOW SUPPLIEDsection for completed listing):
 
 i3 Pharmaceuticals, LLC
 

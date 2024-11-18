@@ -68,7 +68,7 @@ Symptoms usually resolve over days when the combination is discontinued.
 This is typical of the interaction of meperidine and MAOIs.
 Other serious reactions (including severe agitation, hallucinations, and death) have been reported in patients receiving this combination (see CONTRAINDICATIONS).
 Severe toxicity has also been reported in patients receiving the combination of tricyclic antidepressants and selegiline and selective serotonin reuptake inhibitors and selegiline.
-(See WARNING for details.)
+(See WARNINGfor details.)
 One case of hypertensive crisis has been reported in a patient taking the recommended doses of selegiline and a sympathomimetic medication (ephedrine).
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
@@ -76,7 +76,7 @@ One case of hypertensive crisis has been reported in a patient taking the recomm
 Assessment of the carcinogenic potential of selegiline in mice and rats is ongoing for all dosage forms.
 Selegiline did not induce mutations or chromosomal damage when tested in the bacterial mutation assay in Salmonella typhimurium and in an in vivo chromosomal aberration assay.
 While these studies provide some reassurance that selegiline is not mutagenic or clastogenic, they are not definitive because of methodological limitations.
-No definitive in vitro chromosomal aberration or in vitro mammalian gene mutation assays have been performed.
+No definitive in vitro chromosomal aberration or in vitromammalian gene mutation assays have been performed.
 
 The effect of selegiline on fertility has not been adequately assessed.
 
@@ -85,10 +85,10 @@ The effect of selegiline on fertility has not been adequately assessed.
 ### Pregnancy Category C
 
 No teratogenic effects were observed in a study of embryo-fetal development in Sprague-Dawley rats at oral doses of 4, 12, and 36 mg/kg or 4, 12 and 35 times the human therapeutic dose on a mg/m2 basis.
-No teratogenic effects were observed in a study of embryo-fetal development in New Zealand White rabbits at oral doses of 5, 25, and 50 mg/kg or 10, 48, and 95 times the human therapeutic dose on a mg/m 2 basis; however, in this study, the number of litters produced at the two higher doses was less than recommended for assessing teratogenic potential.
+No teratogenic effects were observed in a study of embryo-fetal development in New Zealand White rabbits at oral doses of 5, 25, and 50 mg/kg or 10, 48, and 95 times the human therapeutic dose on a mg/m 2basis; however, in this study, the number of litters produced at the two higher doses was less than recommended for assessing teratogenic potential.
 In the rat study, there was a decrease in fetal body weight at the highest dose tested.
 In the rabbit study, increases in total resorptions and % post- implantation loss, and a decrease in the number of live fetuses per dam occurred at the highest dose tested.
-In a peri- and postnatal development study in Sprague-Dawley rats (oral doses of 4, 16, and 64 mg/kg or 4, 15, and 62 times the human therapeutic dose on a mg/m 2 basis), an increase in the number of stillbirths and decreases in the number of pups per dam, pup survival, and pup body weight (at birth and throughout the lactation period) were observed at the two highest doses.
+In a peri- and postnatal development study in Sprague-Dawley rats (oral doses of 4, 16, and 64 mg/kg or 4, 15, and 62 times the human therapeutic dose on a mg/m 2basis), an increase in the number of stillbirths and decreases in the number of pups per dam, pup survival, and pup body weight (at birth and throughout the lactation period) were observed at the two highest doses.
 At the highest dose tested, no pups born alive survived to Day 4 postpartum.
 Postnatal development at the highest dose tested in dams could not be evaluated because of the lack of surviving pups.
 The reproductive performance of the untreated offspring was not assessed.

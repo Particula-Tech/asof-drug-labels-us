@@ -24,7 +24,7 @@ The pathophysiology of the ‘cheese reaction’ is complicated and, in addition
 However, until the pathophysiology of the ‘cheese reaction’ is more completely understood, it seems prudent to assume that selegiline can ordinarily only be used safely without dietary restrictions at doses where it presumably selectively inhibits MAO-B (e.g., 10 mg/day).
 
 In short, attention to the dose dependent nature of selegiline’s selectivity is critical if it is to be used without elaborate restrictions being placed on diet and concomitant drug use although, as noted above, a few cases of hypertensive reactions have been reported at the recommended dose.
-(See WARNING and PRECAUTIONS.)
+(See WARNINGand PRECAUTIONS.)
 
 It is important to be aware that selegiline may have pharmacological effects unrelated to MAO-B inhibition.
 As noted above, there is some evidence that it may increase dopaminergic activity by other mechanisms, including interfering with dopamine re-uptake at the synapse.
