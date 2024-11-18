@@ -17,4 +17,4 @@
 | General advice about the safe and effective use of Kyleena.Medicines are sometimes prescribed for conditions other than those listed in patient information leaflets. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider for information about Kyleena that is written for health professionals. |  |
 | What are the ingredients in KYLEENA?Active ingredient: levonorgestrelInactive ingredients: silicone, polyethylene, silver, silica, barium sulfate, polypropylene, copper phthalocyanineManufactured for: Bayer HealthCare Pharmaceuticals Inc. Whippany, NJ 07981© 2016, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.For more information, go to www.Kyleena.com or call 1-888-842-2937 |  |
 
-1. This Patient Information has been approved by the U.S. Food and Drug Administration.7/2021
+This Patient Information has been approved by the U.S. Food and Drug Administration.7/2021

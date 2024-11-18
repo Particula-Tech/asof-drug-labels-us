@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-1. Kyleena (levonorgestrel-releasing intrauterine system), containing a total of 19.5 mg LNG, is available in a carton of one sterile unit.
-   NDC# 50419-424-01
+- Kyleena (levonorgestrel-releasing intrauterine system), containing a total of 19.5 mg LNG, is available in a carton of one sterile unit.
+  NDC# 50419-424-01
 
 Kyleena is supplied sterile.
 Kyleena is sterilized with ethylene oxide.
