@@ -15,7 +15,9 @@ If symptoms occur, the drug should be discontinued and a physician contacted.
 Dicyclomine hydrochloride may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking dicyclomine hydrochloride [see Warnings and Precautions (5.3)].
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette, Goa 403722 INDIA
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 11/2020
+B 4/2024
