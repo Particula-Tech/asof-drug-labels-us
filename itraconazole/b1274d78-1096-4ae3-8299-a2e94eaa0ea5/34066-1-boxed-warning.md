@@ -6,7 +6,7 @@ Congestive Heart Failure and Cardiac Effects: • Itraconazole capsules should n
 If signs or symptoms of congestive heart failure occur during administration of itraconazole capsules, discontinue administration.
 
 • When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen.
-(See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.)
+(See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.)
 
 Drug Interactions: • Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole capsules.
 Some examples of drugs that are contraindicated for coadministration with itraconazole capsules are: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.

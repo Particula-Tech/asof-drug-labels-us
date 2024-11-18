@@ -19,13 +19,13 @@ Peak plasma concentrations of itraconazole are reached within 2 to 5 hours follo
 The observed absolute oral bioavailability of itraconazole is about 55%.
 
 The oral bioavailability of itraconazole is maximal when itraconazole capsules are taken immediately after a full meal.
-Absorption of itraconazole capsules is reduced in subjects with reduced gastric acidity, such as subjects taking medications known as gastric acid secretion suppressors (e.g., H 2-receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases.
+Absorption of itraconazole capsules is reduced in subjects with reduced gastric acidity, such as subjects taking medications known as gastric acid secretion suppressors (e.g., H2-receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases.
 (See PRECAUTIONS: Drug Interactions.)
 Absorption of itraconazole under fasted conditions in these subjects is increased when itraconazole capsules are administered with an acidic beverage (such as a non-diet cola).
-When itraconazole capsules were administered as a single 200-mg dose under fasted conditions with non-diet cola after ranitidine pretreatment, a H 2-receptor antagonist, itraconazole absorption was comparable to that observed when itraconazole capsules were administered alone.
+When itraconazole capsules were administered as a single 200-mg dose under fasted conditions with non-diet cola after ranitidine pretreatment, a H2-receptor antagonist, itraconazole absorption was comparable to that observed when itraconazole capsules were administered alone.
 (See PRECAUTIONS: Drug Interactions.)
 
-Itraconazole exposure is lower with the capsule formulation than with the oral solution when the same dose of drug is given.
+Itraconazole exposure is lower with the Capsule formulation than with the Oral Solution when the same dose of drug is given.
 (See WARNINGS)
 
 Distribution
@@ -81,7 +81,7 @@ Decreased Cardiac Contractility:
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of itraconazole capsules, itraconazole should be discontinued.
-(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Postmarketing Experience for more information.)
 
 ## MICROBIOLOGY
 

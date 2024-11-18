@@ -16,7 +16,7 @@ Itraconazole capsules are also indicated for the treatment of the following fung
 
 Prior to initiating treatment, appropriate nail specimens for laboratory testing (KOH preparation, fungal culture, or nail biopsy) should be obtained to confirm the diagnosis of onychomycosis.
 
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Postmarketing Experience for more information.)
 
 ## Description of Clinical Studies:
 

@@ -37,7 +37,13 @@ Therefore, caution should be used when co-administering itraconazole and calcium
 Concomitant administration of itraconazole and felodipine or nisoldipine is contraindicated.
 
 Cases of CHF, peripheral edema, and pulmonary edema have been reported in the post-marketing period among patients being treated for onychomycosis and/or systemic fungal infections.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Postmarketing Experience for more information.)
+
+Pseudoaldosteronism:
+
+Pseudoaldosteronism, manifested by the onset of hypertension or worsening of hypertension, and abnormal laboratory findings (hypokalemia, low serum renin and aldosterone, and elevated 11-deoxycortisol), has been reported with itraconazole use in the postmarketing setting.
+Monitor blood pressure and potassium levels and manage as necessary.
+Management of pseudoaldosteronism may include discontinuation of itraconazole, substitution with an appropriate antifungal drug that is not associated with pseudoaldosteronism, or use of aldosterone receptor antagonists.
 
 ## Interaction Potential:
 
@@ -301,8 +307,8 @@ Itraconazole should not be administered for the treatment of onychomycosis to pr
 Itraconazole should not be administered to women of childbearing potential for the treatment of onychomycosis unless they are using effective measures to prevent pregnancy and they begin therapy on the second or third day following the onset of menses.
 Highly effective contraception should be continued throughout itraconazole therapy and for 2 months following the end of treatment.
 
-During post-marketing experience, cases of congenital abnormalities have been reported.
-(See ADVERSE REACTIONS: Post-marketing Experience.)
+During postmarketing experience, cases of congenital abnormalities have been reported.
+(See ADVERSE REACTIONS: Postmarketing Experience.)
 
 ## Nursing Mothers:
 

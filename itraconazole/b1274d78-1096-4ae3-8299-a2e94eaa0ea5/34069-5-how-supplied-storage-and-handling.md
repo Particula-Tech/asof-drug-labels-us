@@ -12,12 +12,14 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 3
 
 Protect from light and moisture.
 
+Dispense with Patient Information available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920
 
-8095543 Revised: February 2024
+8098794 Revised: November 2024
