@@ -255,10 +255,4 @@ Manufactured by:
 
 Qilu Pharmaceutical (Hainan) Co., Ltd. Haikou, 570314, China
 
-Manufactured for:
-
-Apotex Corp.
-
-Weston, Florida, USA 33326
-
-Revised: 03/2021
+Revised: 11/2024
