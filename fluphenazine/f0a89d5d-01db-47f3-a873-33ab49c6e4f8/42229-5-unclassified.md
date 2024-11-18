@@ -1,5 +1,11 @@
 Rx ONLY
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
+Distributed by:
 
-R12/16
+PAI Pharma
+
+Greenville, SC 29605
+
+www.paipharma.com
+
+R09/24
