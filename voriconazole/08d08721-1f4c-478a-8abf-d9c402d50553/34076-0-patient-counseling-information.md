@@ -15,4 +15,4 @@ Photosensitivity
 Embryo-Fetal Toxicity
 
 - •Advise female patients of the potential risks to a fetus.
-- •Advise females of reproductive potential to use effective contraception during treatment with VFEND
+- •Advise females of reproductive potential to use effective contraception during treatment with VFEND.

@@ -12,7 +12,7 @@ VFEND is indicated in adults and pediatric patients (2 years of age and older) f
 
 ## 1.3 Esophageal Candidiasis
 
-VFEND is indicated in adults and pediatric patients (2 years of age and older) for the treatment of esophageal candidiasis (EC) in adults and pediatric patients 2 years of age and older [see Clinical Studies (14.3, 14.5) and Microbiology (12.4)].
+VFEND is indicated in adults and pediatric patients (2 years of age and older) for the treatment of esophageal candidiasis (EC) [see Clinical Studies (14.3, 14.5) and Microbiology (12.4)].
 
 ## 1.4 Scedosporiosis and Fusariosis
 
