@@ -1,6 +1,6 @@
 # Package/Label Display Panel – 500 MG
 
-NDC 68682-017-10
+NDC68682-017-10
 
 Rx only
 
@@ -16,7 +16,7 @@ Oceanside Pharmaceuticals
 
 # Package/Label Display Panel- 500 mg
 
-NDC 68682-021-50
+NDC68682-021-50
 
 Rx only
 
@@ -32,7 +32,7 @@ OCEANSIDE Pharmaceuticals
 
 # Package/Label Display Panel -1000 mg
 
-NDC 68682-018-90
+NDC68682-018-90
 
 Rx only
 

@@ -63,11 +63,10 @@ Assess renal function more frequently in elderly patients.
 ## 8.6 Renal Impairment
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-Metformin Hydrochloride Extended-Release Tablets are contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
+Metformin Hydrochloride Extended-Release Tablets are contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m 2.
 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3).]
 
 ## 8.7 Hepatic Impairment
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-Metformin Hydrochloride Extended-Release Tablets are not recommended in patients with hepatic impairment.
-[see Warnings and Precautions (5.1).]
+Metformin Hydrochloride Extended-Release Tablets are not recommended in patients with hepatic impairment.[see Warnings and Precautions (5.1).]

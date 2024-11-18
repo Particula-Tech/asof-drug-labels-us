@@ -4,7 +4,7 @@ Metformin Hydrochloride Extended-Release Tablets contain the biguanide antihyper
 The chemical name of metformin hydrochloride is N,N-dimethylimidodicarbonimidic diamide hydrochloride.
 The structural formula is as shown:
 
-Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
+Metformin hydrochloride is a white to off-white crystalline compound with a molecular formula of C 4H 11N 5•HCl and a molecular weight of 165.63.
 Metformin hydrochloride is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.

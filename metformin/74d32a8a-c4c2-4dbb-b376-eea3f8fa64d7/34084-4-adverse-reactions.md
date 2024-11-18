@@ -2,9 +2,9 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- • Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- • Vitamin B12 Deficiency [see Warnings and Precautions (5.2)]
-- • Hypoglycemia [see Warnings and Precautions (5.3)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Vitamin B 12Deficiency [see Warnings and Precautions (5.2)]
+- Hypoglycemia [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -18,7 +18,7 @@ In total, 431 patients received Metformin Hydrochloride Extended-Release Tablets
 Adverse reactions reported in greater than 5% of patients treated with Metformin Hydrochloride Extended-Release Tablets that were more common in the combined Metformin Hydrochloride Extended-Release Tablets and glyburide group than in the placebo and glyburide group are shown in Table 1.
 In 0.7% of patients treated with Metformin Hydrochloride Extended-Release Tablets and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group.
 
-Table 1: Adverse Reactions Reported by >5%Adverse reactions that were more common in the Metformin Hydrochloride Extended-Release Tablets-treated than in the placebo-treated patients. of Patients for the Combined Metformin Hydrochloride Extended-Release Tablets Groups Versus Placebo Group
+Table 1: Adverse Reactions Reported by >5% Adverse reactions that were more common in the Metformin Hydrochloride Extended-Release Tablets-treated than in the placebo-treated patients.of Patients for the Combined Metformin Hydrochloride Extended-Release Tablets Groups Versus Placebo Group
 
 | Adverse Reaction | Metformin Hydrochloride Extended-Release Tablets + Glyburide (n=431) | Placebo + Glyburide (n=144) |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Table 1: Adverse Reactions Reported by >5%Adverse reactions that were more commo
 | Diarrhea | 13% | 6% |
 | Nausea | 7% | 4% |
 
-Laboratory Tests Vitamin B12 Concentrations In clinical trials of 29-week duration with metformin HCl tablets, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+Laboratory Tests Vitamin B 12Concentrations In clinical trials of 29-week duration with metformin HCl tablets, a decrease to subnormal levels of previously normal serum vitamin B 12levels was observed in approximately 7% of patients.
 
 ## 6.2 Postmarketing Experience
 
