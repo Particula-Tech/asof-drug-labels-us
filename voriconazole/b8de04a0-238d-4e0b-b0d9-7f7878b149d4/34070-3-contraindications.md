@@ -5,7 +5,7 @@
   Caution should be used when prescribing voriconazole to patients with hypersensitivity to other azoles.
 - •Coadministration of pimozide, quinidine or ivabradine with voriconazole is contraindicated because increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes [see Drug Interactions (7)].
 - •Coadministration of voriconazole with sirolimus is contraindicated because voriconazole significantly increases sirolimus concentrations [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
-- •Coadministration of voriconazole with rifampin, carbamazepine, long-acting barbiturates, and St John's Wort is contraindicated because these drugs are likely to decrease plasma voriconazole concentrations significantly [seeDrug Interactions (7) and Clinical Pharmacology (12.3)].
+- •Coadministration of voriconazole with rifampin, carbamazepine, long-acting barbiturates, and St John's Wort is contraindicated because these drugs are likely to decrease plasma voriconazole concentrations significantly [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - •Coadministration of standard doses of voriconazole with efavirenz doses of 400 mg every 24 hours or higher is contraindicated, because efavirenz significantly decreases plasma voriconazole concentrations in healthy subjects at these doses.
   Voriconazole also significantly increases efavirenz plasma concentrations [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - •Coadministration of voriconazole with high-dose ritonavir (400 mg every 12 hours) is contraindicated because ritonavir (400 mg every 12 hours) significantly decreases plasma voriconazole concentrations.
