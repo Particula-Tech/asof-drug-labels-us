@@ -44,11 +44,12 @@ No subject receiving paliperidone extended-release tablets had a QTcLD exceeding
 
 ## 5.5 Tardive Dyskinesia
 
-A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
+Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase with duration of treatment and the cumulative dose The syndrome can develop after relatively brief treatment periods, even at low doses.
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase with duration of treatment and the cumulative dose.
+The syndrome can develop after relatively brief treatment periods, even at low doses.
 It may also occur after discontinuation of treatment.
 
 Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
@@ -266,7 +267,7 @@ In patients with a history of a clinically significant low WBC/ANC or a drug-ind
 In such patients, consider discontinuation of paliperidone extended-release tablets at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue paliperidone extended-release tabletsin patients with severe neutropenia (absolute neutrophil count < 1,000/mm3)and follow their WBC until recovery.
+Discontinue paliperidone extended-release tablets in patients with severe neutropenia (absolute neutrophil count < 1,000/mm3) and follow their WBC until recovery.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 

@@ -8,7 +8,7 @@ However, the drug's therapeutic effect in schizophrenia could be mediated throug
 
 ## 12.2 Pharmacodynamics
 
-In vitro, paliperidone acts as an antagonist at the central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptors, with binding affinities (Ki values) of 1.6nM to 2.8 nM for D2 and 0.8 nM to 1.2 nM for 5HT2A receptors.
+In vitro, paliperidone acts as an antagonist at the central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptors, with binding affinities (Ki values) of 1.6 nM to 2.8 nM for D2 and 0.8 nM to 1.2 nM for 5HT2A receptors.
 Paliperidone is also active as an antagonist at the α1 and α2 adrenergic receptors and H1 histaminergic receptors, which may explain some of the other effects of the drug.
 Paliperidone has no affinity for cholinergic muscarinic or β1- and β2-adrenergic receptors.
 The pharmacological activity of the (+)- and (-)- paliperidone enantiomers is qualitatively and quantitatively similar in vitro.

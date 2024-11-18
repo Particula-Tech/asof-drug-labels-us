@@ -73,18 +73,9 @@ The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 The brands listed are trademarks of their respective owners.
 
-Manufactured by:
+Manufactured by: CSPC Ouyi Pharmaceutical Co., Ltd. Shijiazhuang, Hebei, China, 052160
 
-CSPC Ouyi Pharmaceutical Co., Ltd.
+For: Cranbury Pharmaceuticals, LLC Monmouth Junction, NJ 08852
 
-Shijiazhuang, Hebei, China, 052160
-
-Manufactured for:
-
-Tris Pharma, Inc.
-
-Monmouth Junction, NJ 08852
-
-www.trispharma.com
-
-LB8649 Rev.00 06/2021
+LB8649 Rev.
+01 07/2024

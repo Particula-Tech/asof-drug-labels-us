@@ -4,16 +4,16 @@ Paliperidone extended-release tablets are available in the following strengths a
 All tablets are capsule-shaped.
 
 1.5 mg tablets are brown, capsule-shaped, film-coated tablets, with a small orifice on one end, and imprinted with “A86” on the body.
-They are available in bottles of 30 with child-resistant closure (NDC 27808-222-01).
+They are available in bottles of 30 with child-resistant closure (NDC 27808-222-01) and bottles of 500 (NDC 27808-222-02).
 
 3 mg tablets are white, capsule-shaped, film-coated tablets, with a small orifice on one end, and imprinted with “A87” on the body.
-They are available in bottles of 30 with child-resistant closure (NDC 27808-223-01).
+They are available in bottles of 30 with child-resistant closure (NDC 27808-223-01) and bottles of 500 (NDC 27808-223-02).
 
 6 mg tablets are beige, capsule-shaped, film-coated tablets, with a small orifice on one end, and imprinted with “A88” on the body.
-They are available in bottles of 30 with child-resistant closure (NDC 27808-224-01).
+They are available in bottles of 30 with child-resistant closure (NDC 27808-224-01) and bottles of 500 (NDC 27808-224-02).
 
 9 mg tablets are pink, capsule-shaped, film-coated tablets, with a small orifice on one end, and imprinted with “A89” on the body.
-They are available in bottles of 30 with child-resistant closure (NDC 27808-225-01)
+They are available in bottles of 30 with child-resistant closure (NDC 27808-225-01) and bottles of 500 (NDC 27808-225-02).
 
 Storage and Handling
 

@@ -149,7 +149,7 @@ Gynecomastia includes the terms gynecomastia and breast swelling.
 
 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials–Schizoaffective Disorder in Adults
 
-Table 6 enumerates the pooled incidences of adverse reactions reported in the two placebo-controlled 6-week studies in adult subjects, listing those that occurred in 2% or more of subjects treated with paliperidone extended-release tabletsand for which the incidence in paliperidone extended-release tablets-treated subjects was greater than the incidence in subjects treated with placebo.
+Table 6 enumerates the pooled incidences of adverse reactions reported in the two placebo-controlled 6-week studies in adult subjects, listing those that occurred in 2% or more of subjects treated with paliperidone extended-release tablets and for which the incidence in paliperidone extended-release tablets-treated subjects was greater than the incidence in subjects treated with placebo.
 
 Table 6.
 Adverse Drug Reactions Reported by ≥ 2% of PaliperidoneExtended-Release Tablets-Treated Adult Subjects with Schizoaffective Disorder in Two Double-Blind, Placebo-Controlled Clinical Trials *
@@ -177,10 +177,10 @@ Adverse Drug Reactions Reported by ≥ 2% of PaliperidoneExtended-Release Tablet
 | Upper respiratory tract infection | 1 | 2 | 2 | 2 |
 | Investigations |  |  |  |  |
 | Weight increased | 1 | 5 | 4 | 4 |
-| Metabolism and nutritiondisorders |  |  |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |
 | Decreased appetite | < 1 | 1 | 0 | 2 |
 | Increased appetite | < 1 | 3 | 2 | 2 |
-| Musculoskeletal and connectivetissue disorders |  |  |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Back pain | 1 | 1 | 1 | 3 |
 | Myalgia | < 1 | 2 | 4 | 1 |
 | Nervous system disorders |  |  |  |  |
@@ -202,6 +202,8 @@ Among the 420 subjects treated with paliperidone extended-release tablets, 230 (
 Extrapyramidal symptoms includes the terms bradykinesia, drooling, dyskinesia, dystonia, hypertonia, muscle rigidity, muscle twitching, oculogyration, parkinsonian gait, parkinsonism, restlessness, and tremor.
 Somnolence includes the terms sedation and somnolence.
 Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
+
+Monotherapy versus Adjunctive Therapy
 
 The designs of the two placebo-controlled, 6-week, double-blind trials in adult subjects with schizoaffective disorder included the option for subjects to receive antidepressants (except monoamine oxidase inhibitors) and/or mood stabilizers (lithium, valproate, or lamotrigine).
 In the subject population evaluated for safety, 230 (55%) subjects received paliperidone extended-release tablets as monotherapy and 190 (45%) subjects received paliperidone extended-release tablets as an adjunct to mood stabilizers and/or antidepressants.
@@ -399,7 +401,7 @@ Adverse reactions reported during the long-term double-blind phase of this study
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of paliperidone extended-release tablets; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, catatonia, ileus, priapism, somnambulism, swollen tongue, tardive dyskinesia, thromobotic thrombocytopenic purpura, urinary incontinence, urinary retention.
+The following adverse reactions have been identified during postapproval use of paliperidone extended-release tablets; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, catatonia, ileus, priapism, somnambulism, swollen tongue, tardive dyskinesia, thrombotic thrombocytopenic purpura, urinary incontinence, urinary retention.
 
 ## 6.3 Adverse Reactions Reported with Risperidone
 
