@@ -18,10 +18,15 @@ Its empirical formula is C6H12O6•H2O and its molecular weight is 198.17.
 
 Hydrous Dextrose USP has the following structural (molecular) formula:
 
-Cefazolin Sodium USP is supplied as a lyophilized form equivalent to either 1 g or 2 g of cefazolin.
-Dextrose hydrous USP has been added to the diluent to adjust osmolality (approximately 2 g [4.0% w/v] and 1.5 g [3.0% w/v] for the 1 g and 2 g dosages, respectively).
+Cefazolin Sodium USP is supplied as a lyophilized form equivalent to either 1 gram, 2 grams or 3 grams of cefazolin.
+The 1 gram / container Cefazolin Sodium USP contains 1 gram of cefazolin (equivalent to 1.048 grams of cefazolin sodium).
+The 2 grams / container Cefazolin Sodium USP contains 2 grams of cefazolin (equivalent to 2.096 grams of cefazolin sodium).
+The 3 grams / container Cefazolin Sodium USP contains 3 grams of cefazolin (equivalent to 3.145 grams of cefazolin sodium).
+Dextrose Hydrous USP has been added to the diluent (Water for Injection USP) to adjust osmolality (approximately 2 grams [4% w/v], 1.5 grams [3% w/v] and 1 gram [2% w/v] for the 1 gram, 2 gram or 3 gram dosages, respectively).
 
 After removing the peelable foil strip, activating the seals, and thoroughly mixing, the reconstituted drug product is intended for single intravenous use.
+
+The pH of reconstituted solutions of Cefazolin for Injection and Dextrose Injection is 3.5 to 7.0.
 
 Reconstituted solutions of Cefazolin for Injection and Dextrose Injection range in color from pale yellow to amber.
 

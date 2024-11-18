@@ -32,15 +32,21 @@ These reactions have been reported in patients receiving high concentrations of 
 50% dextrose)1.
 The reactions have also been reported when corn-derived dextrose solutions were administered to patients with or without a history of hypersensitivity to corn products.2
 
-## 5.5 Risk of Development of Drug-resistant Bacteria
+## 5.5 Prothrombin Activity
 
-Prescribing cefazolin for injection and dextrose injection in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Cefazolin for Injection and Dextrose Injection may be associated with a fall in prothrombin activity.
+Those at risk include patients with renal or hepatic impairment or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy, and patients previously stabilized on anticoagulant therapy.
+Prothrombin time should be monitored in patients at risk and exogenous vitamin K administered as indicated.
+
+## 5.6 Risk of Development of Drug-resistant Bacteria
+
+Prescribing Cefazolin for Injection and Dextrose Injection in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 As with other antimicrobials, prolonged use of Cefazolin for Injection and Dextrose Injection may result in overgrowth of nonsusceptible microorganisms.
 Repeated evaluation of the patient's condition is essential.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
-## 5.6 Drug/Laboratory Test Interactions
+## 5.7 Drug/Laboratory Test Interactions
 
 ### Urinary Glucose
 
@@ -52,6 +58,6 @@ It is recommended that glucose tests based on enzymatic glucose oxidase be used.
 Positive direct Coombs' tests have been reported during treatment with cefazolin.
 In hematologic studies or in transfusion cross-matching procedures when antiglobulin tests are performed on the minor side or in Coombs' testing of newborns whose mothers have received cephalosporin antibacterial drugs before parturition, it should be recognized that a positive Coombs' test may be due to the drug.
 
-## 5.7 Patients with Overt or Known Subclinical Diabetes Mellitus or Carbohydrate Intolerance
+## 5.8 Patients with Overt or Known Subclinical Diabetes Mellitus or Carbohydrate Intolerance
 
 As with other dextrose-containing solutions, Cefazolin for Injection and Dextrose Injection should be prescribed with caution in patients with overt or known subclinical diabetes mellitus or carbohydrate intolerance for any reason.

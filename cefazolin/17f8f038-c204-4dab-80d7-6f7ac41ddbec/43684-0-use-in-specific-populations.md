@@ -47,8 +47,8 @@ The safety and effectiveness of Cefazolin for Injection and Dextrose Injection f
 Use of Cefazolin for Injection and Dextrose Injection in these age groups is supported by evidence from adults with additional safety and pharmacokinetic data in pediatric patients aged 10 to 17 years old.
 Safety and pharmacokinetics were evaluated in two multicenter, non-comparative studies (Study 1 and Study 2).
 These studies were conducted to assess the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of Cefazolin for Injection and Dextrose Injection for perioperative prophylaxis in pediatric patients.
-Study 1 evaluated the safety and pharmacokinetics of 1 g of Cefazolin for Injection and Dextrose Injection in pediatric patients aged 10 to 17 years old scheduled for surgery with a weight of at least 25 kg but less than 60 kg and, 2 g in pediatric patients with a weight of at least 60 kg.
-Study 2 evaluated 1 g of Cefazolin for Injection and Dextrose Injection in pediatric patients aged 10 to 12 years old scheduled for surgery with a weight of at least 25 kg but less than 50 kg and, 2 g in pediatric patients with a weight of at least 50 kg to less than 85 kg [see Dosage and Administration (2.3), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+Study 1 evaluated the safety and pharmacokinetics of 1 gram of Cefazolin for Injection and Dextrose Injection in pediatric patients aged 10 to 17 years old scheduled for surgery with a weight of at least 25 kg but less than 60 kg and, 2 grams in pediatric patients with a weight of at least 60 kg.
+Study 2 evaluated 1 gram of Cefazolin for Injection and Dextrose Injection in pediatric patients aged 10 to 12 years old scheduled for surgery with a weight of at least 25 kg but less than 50 kg and, 2 grams in pediatric patients with a weight of at least 50 kg to less than 85 kg [see Dosage and Administration (2.3), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 The safety and effectiveness of Cefazolin for Injection and Dextrose Injection for perioperative prophylaxis have not been established in pediatric patients younger than 10 years old.
 

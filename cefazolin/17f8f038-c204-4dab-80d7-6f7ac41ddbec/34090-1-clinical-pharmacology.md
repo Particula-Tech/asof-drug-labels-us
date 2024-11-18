@@ -20,8 +20,19 @@ Plasma pharmacokinetic parameters of cefazolin in healthy volunteers (N=12) foll
 
 | Table 7: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | N | Cmax(mcg/mL) | TmaxTmax reported as median (range) (h) | AUC0-inf (mcg*h/mL) | t1/2 (h) | CL (L/h) | Vz (L) |
+| Dosage of Cefazolin for Injection and Dextrose Injection | N | Cmax(mcg/mL) | TmaxTmax reported as median (range) (h) | AUC0-inf (mcg*h/mL) | t1/2 (h) | CL (L/h) | Vz (L) |
 | Single 2 grams Dose as a 15-Minute IV Infusion | 12 | 280.9 (45.9) | 0.25 (0.25-0.33) | 509.9 (89.3) | 2.01 (0.28) | 4.03 (0.68) | 11.50 (1.53) |
+
+N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution
+
+Model derived plasma pharmacokinetic parameters of cefazolin in adult patients weighing 120 kg or greater (N=12) following a single 30-minute IV infusion of 3 grams of Cefazolin for Injection and Dextrose Injection are summarized in Table 8.
+
+| Table 8: Mean (Standard Deviation) Model Derived Plasma Pharmacokinetic Parameters of Cefazolin in Adult Patients Weighing ≥ 120 kg |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dosage of Cefazolin for Injection and Dextrose Injection | N | Cmax (mcg/mL) | Tmax (h) | AUC0--inf (mcg*h/mL) | t1/2 (h) | CL (L/h) | Vz (L) |
+| Single 3 grams Dose as a 30-Minute IV Infusion | 12 | 197.7 (46.6) | 0.5 | 598.6 (206.6) | 2.36 (0.687) | 5.52 (1.72) | 17.51 (3.63) |
+
+* Tmax reported based on infusion duration
 
 N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution
 
@@ -41,7 +52,7 @@ Specific Populations
 
 Pediatric Patients for Perioperative Prophylaxis
 
-A simulation based on pharmacokinetic data from healthy adults (n=24), pediatric patients aged 10 to 17 years (n=26: Study 1 [see Adverse Reactions (6.1)]), and pediatric patients aged 10 to 12 years (n=12: Study 2 [see Adverse Reactions (6.1)] indicate that the administration of a 1 gram cefazolin dose for pediatric patients weighing less than 50 kg and a 2 grams cefazolin dose for those weighing 50 kg or greater will provide comparable exposures between pediatric patients aged 10 to 17 years and healthy adults receiving 2 grams Cefazolin for Injection and Dextrose Injection [see Dosage and Administration (2.2 and 2.3) and Use in Specific Populations (8.4)].
+A simulation based on pharmacokinetic data from healthy adults (n=24), pediatric patients aged 10 to 17 years (n=26: Study 1 [see Adverse Reactions (6.1)]), and pediatric patients aged 10 to 12 years (n=12: Study 2 [see Adverse Reactions (6.1)] indicate that the administration of a 1 gram cefazolin dose for pediatric patients weighing less than 50 kg and a 2 gram cefazolin dose for those weighing 50 kg or greater will provide comparable exposures between pediatric patients aged 10 to 17 years and healthy adults receiving 2 grams Cefazolin for Injection and Dextrose Injection [see Dosage and Administration (2.2 and 2.3) and Use in Specific Populations (8.4)].
 
 ## 12.4 Microbiology
 
@@ -57,18 +68,20 @@ Predominant mechanisms of bacterial resistance to cephalosporins include the pre
 
 Cefazolin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-- Gram-positive bacteria
-  - Staphylococcus aureus
-  - Staphylococcus epidermidis
-  - Streptococcus agalactiae
-  - Streptococcus pneumoniae
-  - Streptococcus pyogenes
+Gram-positive bacteria
+
+- Staphylococcus aureus
+- Staphylococcus epidermidis
+- Streptococcus agalactiae
+- Streptococcus pneumoniae
+- Streptococcus pyogenes
 
 Methicillin-resistant staphylococci are uniformly resistant to cefazolin.
 
-- Gram-negative bacteria
-  - Escherichia coli
-  - Proteus mirabilis
+Gram-negative bacteria
+
+- Escherichia coli
+- Proteus mirabilis
 
 Most isolates of indole positive Proteus (Proteus vulgaris), Enterobacter spp., Morganella morganii, Providencia rettgeri, Serratia spp., and Pseudomonas spp. are resistant to cefazolin.
 

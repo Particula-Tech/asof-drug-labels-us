@@ -1,19 +1,15 @@
-PRINCIPAL DISPLAY PANEL - 1g Cefazolin
+# PRINCIPAL DISPLAY PANEL - 1g Cefazolin
 
 Cefazolin for Injection USP and Dextrose Injection USP
 
-1g*
+1g* 50 mL
 
 REF 3103-11 NDC 0264-3103-11
 
-DUPLEX® CONTAINER
-
-50 mL
+DUPLEX®CONTAINER
 
 Use only after mixing contents of both chambers.
-For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic
-
-* Contains Cefazolin Sodium USP equivalent to 1 g cefazolin.
+For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic * Contains Cefazolin Sodium USP equivalent to 1 g cefazolin.
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
 To activate seal, squeeze folded diluent chamber until seal between diluent and drug chamber opens, releasing diluent into drug chamber.
@@ -39,12 +35,11 @@ Do not introduce additives into this container.
 Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
-
 Not made with natural rubber latex, PVC or DEHP.
 
-B. Braun Medical Inc. Bethlehem, PA 18018-3524
-
 Rx only
+
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
 Prepared in USA.
 API from USA and Italy.
@@ -61,22 +56,18 @@ Visually inspect drug prior to reconstitution.
 See package insert for complete directions for reconstitution and administration.
 LD-336-1 X27-001-485
 
-PRINCIPAL DISPLAY PANEL - 2g Cefazolin
+# PRINCIPAL DISPLAY PANEL - 2g Cefazolin
 
 Cefazolin for Injection USP and Dextrose Injection USP
 
-2g*
+2g* 50 mL
 
 REF 3105-11 NDC 0264-3105-11
 
-DUPLEX® CONTAINER
-
-50 mL
+DUPLEX®CONTAINER
 
 Use only after mixing contents of both chambers.
-For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic
-
-* Contains Cefazolin Sodium USP equivalent to 2 g cefazolin.
+For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic * Contains Cefazolin Sodium USP equivalent to 2 g cefazolin.
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
 To activate seal, squeeze folded diluent chamber until seal between diluent and drug chamber opens, releasing diluent into drug chamber.
@@ -102,17 +93,70 @@ Do not introduce additives into this container.
 Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
-
 Not made with natural rubber latex, PVC or DEHP.
 
-B. Braun Medical Inc. Bethlehem, PA 18018-3524
-
-Rx only
+Rx only B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
 Prepared in USA.
 API from USA and Italy.
 
 LD-200-4 Y37-002-542
+
+EXP LOT
+
+PEEL HERE
+
+Drug Chamber Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+See package insert for complete directions for reconstitution and administration.
+LD-336-1 X27-001-485
+
+# PRINCIPAL DISPLAY PANEL - 3g Cefazolin
+
+Cefazolin for Injection USP and Dextrose Injection USP
+
+3g* 50 mL
+
+REF 3107-11 NDC 0264-3107-11
+
+DUPLEX®CONTAINER
+
+Use only after mixing contents of both chambers.
+For IV Use Only Iso-osmotic Single-Dose Sterile/Nonpyrogenic * Contains 3.145 g of Cefazolin Sodium USP equivalent to 3 g of cefazolin.
+
+Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
+To activate seal, squeeze folded diluent chamber until seal between diluent and drug chamber opens, releasing diluent into drug chamber.
+Agitate the reconstituted solution until the drug powder is completely dissolved.
+Fold the container a second time and squeeze until seal between drug chamber and set port opens.
+
+After reconstitution each 50 mL single-dose unit contains: Cefazolin for Injection USP (3 g cefazolin, equivalent to 3.145 g of cefazolin sodium) with approx. 1 g (2% w/v) Hydrous Dextrose USP in Water for Injection USP.
+Approximate osmolality: 290 mOsmol/kg
+
+Prior to Reconstitution: Store at 20-25°C (68-77°F).
+Excursions permitted to 15-30°C (59-86°F).
+[See USP Controlled Room Temperature.]
+Use only if container and seals are intact.
+Do not peel foil strip until ready for use.
+After foil strip removal, product must be used within 7 days, but not beyond the labeled expiration date.
+Protect from light after removal of foil strip.
+
+After Reconstitution: Use only if prepared solution is clear and free from particulate matter.
+Use within 24 hours if stored at room temperature or within 7 days if stored under refrigeration.
+Do not use in a series connection.
+Do not introduce additives into this container.
+Prior to administration check for minute leaks by squeezing container firmly.
+If leaks are found, discard container and solution as sterility may be impaired.
+Do not freeze.
+Discard unused portion.
+Not made with natural rubber latex, PVC or DEHP.
+
+Rx only
+
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 Prepared in USA.
+API from USA and Italy.
+
+LD-792-2 Y37-002-609
 
 EXP LOT
 
