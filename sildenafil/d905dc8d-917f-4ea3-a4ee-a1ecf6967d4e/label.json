@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA020895"
+  ],
+  "inn": "sildenafil",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-426-93",
+    "58151-427-01",
+    "58151-427-93",
+    "58151-428-01",
+    "58151-428-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sildenafil citrate",
+      "name": "Viagra"
+    }
+  ],
+  "setid": "d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+  "source": "dailymed"
+}
