@@ -28,16 +28,10 @@ Use with Other Ophthalmic Drugs
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least 5 minutes between applications.
 
-Manufactured for:
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc.
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Morgantown, WV 26505 U.S.A.
+SEPTEMBER 2023
 
-Manufactured by:
-
-Wintac Limited
-
-Bangalore, India
-
-MAY 2020
+1034574
