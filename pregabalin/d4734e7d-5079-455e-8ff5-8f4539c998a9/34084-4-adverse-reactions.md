@@ -165,7 +165,7 @@ In these studies, 758 patients received LYRICA and 294 patients received placebo
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of “mild” or “moderate”.
 
 Table 6.
-Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Therapy for Partial‑Onset Seizures in Adult Patients
+Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Therapy for PartialOnset Seizures in Adult Patients
 
 | Body system Preferred term | 150 mg/d[N=185]% | 300 mg/d[N=90]% | 600 mg/d[N=395]% | All PGBPGB: pregabalin [N=670]Excludes patients who received the 50 mg dose in Study E1. % | Placebo[N=294]% |
 | --- | --- | --- | --- | --- | --- |
@@ -261,7 +261,7 @@ Each of these adverse reactions led to withdrawal in approximately 1% of patient
 Table 9 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with fibromyalgia in the ‘all pregabalin’ treatment group for which the incidence was greater than in the placebo treatment group.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of “mild” or “moderate”.
 
-Table 9.
+Table 7.
 Adverse Reaction Incidence in Controlled Trials in Fibromyalgia
 
 | System Organ ClassPreferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGBPGB: pregabalin [N=1517] % | Placebo [N=505] % |
@@ -329,7 +329,7 @@ Each of these adverse reactions led to withdrawal in less than 2% of patients.
 Table 10 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients for which the incidence was greater than in the placebo treatment group with neuropathic pain associated with spinal cord injury in the controlled trials.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of “mild” or “moderate”.
 
-Table 10.
+Table 8.
 Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Spinal Cord Injury
 
 | % | % |  |

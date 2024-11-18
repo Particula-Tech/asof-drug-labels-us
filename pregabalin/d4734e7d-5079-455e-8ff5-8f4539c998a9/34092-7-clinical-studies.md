@@ -74,7 +74,7 @@ Among the LYRICA-treated patients, 80% completed the double-blind phase of the s
 
 Table 11 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
 
-Table 11.
+Table 9.
 Seizure Response in Controlled, Adjunctive Epilepsy Studies in Adults
 
 | Daily Dose of Pregabalin | Dosing Regimen | N | Baseline Seizure Frequency/mo | Median % Change from Baseline | p-value, vs. placebo |
@@ -187,7 +187,7 @@ The figure is cumulative.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Table 14.
+Table 10.
 Patient Global Response in Fibromyalgia Study F1
 
 | Patient Global Impression of Change |  |  |
