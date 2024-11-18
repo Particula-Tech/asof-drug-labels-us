@@ -1,6 +1,6 @@
 Principal Display Panel - 10 mL Carton Label
 
-NDC 14789-600-10
+NDC14789- 600-10
 
 Rx Only
 
@@ -12,13 +12,13 @@ For Intravenous Use Only
 
 Single Dose Vials - Discard Unused Portion
 
-10 x 10 mL Single Dose Vials
+10 x 10 mLSingle Dose Vials
 
 NEXUS PHARMACEUTICALS
 
 Principal Display Panel - 10 mL Vial Label
 
-NDC 14789-600-07
+NDC14789- 600-07
 
 Rx Only
 

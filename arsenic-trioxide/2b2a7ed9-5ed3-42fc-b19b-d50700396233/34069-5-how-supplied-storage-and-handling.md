@@ -11,4 +11,5 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C
 Do not freeze.
 
 Arsenic Trioxide Injection is a hazardous drug.
-Follow applicable special handling and disposal procedures.1
+Follow applicable special handling and disposal procedures.
+1

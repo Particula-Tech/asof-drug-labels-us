@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Arsenic Trioxide Injection is a sterile injectable solution of arsenic trioxide.
-The molecular formula of arsenic trioxide in the solid state is As2O3, with a molecular weight of 197.8 and has the following structural formula:
+The molecular formula of arsenic trioxide in the solid state is As 2O 3, with a molecular weight of 197.8 and has the following structural formula:
 
 Arsenic Trioxide Injection is available in 10 mL, single-dose vials containing 10 mg of arsenic trioxide.
 Arsenic Trioxide Injection is formulated as a sterile, nonpyrogenic, clear solution of arsenic trioxide in water for injection using sodium hydroxide and dilute hydrochloric acid to adjust to pH 8.

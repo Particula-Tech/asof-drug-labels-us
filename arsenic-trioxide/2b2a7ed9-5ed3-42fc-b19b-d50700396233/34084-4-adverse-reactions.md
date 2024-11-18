@@ -22,7 +22,7 @@ Serious adverse reactions observed in the 40 patients with refractory or relapse
 
 The most common adverse reactions (> 30%) were nausea, cough, fatigue, pyrexia, headache, abdominal pain, vomiting, tachycardia, diarrhea, dyspnea, hypokalemia, leukocytosis, hyperglycemia, hypomagnesemia, insomnia, dermatitis, edema, QTc prolongation, rigors, sore throat, arthralgia, paresthesia, and pruritus.
 
-Table 5 describes the adverse reactions in patients aged 5 to 73 years with APL who received Arsenic Trioxide Injection at the recommended dose.
+Table 5describes the adverse reactions in patients aged 5 to 73 years with APL who received Arsenic Trioxide Injection at the recommended dose.
 Similar adverse reactions profiles were seen in the other patient populations who received Arsenic Trioxide Injection.
 
 Table 5: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL Who Received Arsenic Trioxide Injection in Study PLRXAS01
@@ -188,20 +188,20 @@ In the relapsed/refractory setting, a relationship did not exist between baselin
 The following adverse reactions have been identified during postapproval use of Arsenic Trioxide Injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 
-Cardiac disorders: Ventricular extrasystoles in association with QT prolongation, ventricular tachycardia in association with QT prolongation, including torsade de pointes, atrioventricular block, and congestive heart failure
+Cardiac disorders:Ventricular extrasystoles in association with QT prolongation, ventricular tachycardia in association with QT prolongation, including torsade de pointes, atrioventricular block, and congestive heart failure
 
-Ear and labyrinth disorders: Deafness
+Ear and labyrinth disorders:Deafness
 
-Hematologic disorders: Pancytopenia, bone marrow necrosis
+Hematologic disorders:Pancytopenia, bone marrow necrosis
 
-Infections: Herpes zoster
+Infections:Herpes zoster
 
-Investigations: Gamma-glutamyltransferase increased
+Investigations:Gamma-glutamyltransferase increased
 
-Musculoskeletal and connective tissue disorders: Bone pain, myalgia, rhabdomyolysis
+Musculoskeletal and connective tissue disorders:Bone pain, myalgia, rhabdomyolysis
 
-Neoplasms benign, malignant and unspecified: Melanoma, pancreatic cancer, squamous cell carcinoma
+Neoplasms benign, malignant and unspecified:Melanoma, pancreatic cancer, squamous cell carcinoma
 
-Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion, encephalopathy, Wernicke's encephalopathy, posterior reversible encephalopathy syndrome
+Nervous system disorders:Peripheral neuropathy, paresis, seizures, confusion, encephalopathy, Wernicke's encephalopathy, posterior reversible encephalopathy syndrome
 
-Skin and subcutaneous tissue disorders: Toxic epidermal necrolysis
+Skin and subcutaneous tissue disorders:Toxic epidermal necrolysis
