@@ -15,10 +15,12 @@ Avoid use with strong inducers of CYP3A (e.g., rifampin, phenytoin, carbamazepin
 As with other oral P2Y12 inhibitors, co-administration of opioid agonists delay and reduce the absorption of ticagrelor and its active metabolite presumably because of slowed gastric emptying [see Clinical Pharmacology (12.3)].
 Consider the use of a parenteral anti-platelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists.
 
-## 7.4 Simvastatin, Lovastatin
+## 7.4 Simvastatin, Lovastatin, Rosuvastatin
 
 BRILINTA increases serum concentrations of simvastatin and lovastatin because these drugs are metabolized by CYP3A4.
 Avoid simvastatin and lovastatin doses greater than 40 mg [see Clinical Pharmacology (12.3)].
+
+Brilinta increases serum concentration of rosuvastatin because rosuvastatin is a BCRP substrate [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Digoxin
 
