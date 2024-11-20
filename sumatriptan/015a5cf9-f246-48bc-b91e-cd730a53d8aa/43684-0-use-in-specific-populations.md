@@ -13,7 +13,7 @@ The reported rate of major birth defects among deliveries to women with migraine
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/Fetal Risk: Several studies have suggested that women with migraine may be at increased risk of preeclampsia during pregnancy.
+Disease-Associated Maternal and/or Embryo/Fetal Risk:Several studies have suggested that women with migraine may be at increased risk of preeclampsia during pregnancy.
 
 Data
 

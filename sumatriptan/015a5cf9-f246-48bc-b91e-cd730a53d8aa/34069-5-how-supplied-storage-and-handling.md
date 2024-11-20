@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-- TOSYMRA® 10 mg (NDC 0245-0812-89) contains sumatriptan and is supplied as a ready-to-use, single-dose, disposable unit.
+- TOSYMRA ®10 mg (NDC 0245-0812-89) contains sumatriptan and is supplied as a ready-to-use, single-dose, disposable unit.
 - Each carton contains 6 units (NDC 0245-0812-61) and a Patient Information and Instructions for Use leaflet.
 
 ## 16.2 Storage and Handling

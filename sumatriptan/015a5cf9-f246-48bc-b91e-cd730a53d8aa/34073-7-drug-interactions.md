@@ -10,9 +10,9 @@ Because these effects may be additive, use of ergotamine-containing or ergot-typ
 MAO-A inhibitors increase systemic exposure by 2-fold.
 Therefore, the use of TOSYMRA in patients receiving MAO-A inhibitors is contraindicated [see Clinical Pharmacology (12.3)].
 
-## 7.3 Other 5-HT1 Agonists
+## 7.3 Other 5-HT 1Agonists
 
-Because their vasospastic effects may be additive, coadministration of TOSYMRA and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
+Because their vasospastic effects may be additive, coadministration of TOSYMRA and other 5-HT 1agonists (e.g., triptans) within 24 hours of each other is contraindicated.
 
 ## 7.4 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
 

@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
-Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine headache through agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
+Sumatriptan binds with high affinity to human cloned 5-HT 1B/1Dreceptors.
+Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine headache through agonist effects at the 5-HT 1B/1Dreceptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,7 +27,7 @@ The relative bioavailability of TOSYMRA was 58% [90% CI 55 to 62] following 6 mg
 Absorption
 
 Peak plasma concentration of sumatriptan was observed in a median time of 10 minutes (range 5 to 23 minutes).
-After single nasal administration of the 10 mg dose, the mean (CV%) Cmax and AUC were 51.8 ng/mL (58%) and 60.70 ng∙hr/mL (42%), respectively.
+After single nasal administration of the 10 mg dose, the mean (CV%) C maxand AUC were 51.8 ng/mL (58%) and 60.70 ng∙hr/mL (42%), respectively.
 
 Distribution
 
@@ -42,7 +42,7 @@ The elimination half-life of sumatriptan following administration of TOSYMRA is 
 
 Metabolism
 
-In vitro studies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
+In vitrostudies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
 Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
 
 Excretion
@@ -67,7 +67,7 @@ The use of TOSYMRA in this population is contraindicated [see Contraindications 
 
 Racial Groups
 
-The systemic clearance and Cmax of subcutaneous sumatriptan were similar in black (n=34) and Caucasian (n=38) healthy male subjects.
+The systemic clearance and C maxof subcutaneous sumatriptan were similar in black (n=34) and Caucasian (n=38) healthy male subjects.
 TOSYMRA has not been evaluated for race differences.
 
 Drug Interaction Studies

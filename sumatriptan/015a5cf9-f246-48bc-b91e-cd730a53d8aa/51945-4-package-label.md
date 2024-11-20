@@ -4,7 +4,7 @@ UPSHER-SMITH
 
 NDC 0245-0812-61 Rx only
 
-tosymra® (sumatriptan nasal spray) 10 mg
+tosymra ® (sumatriptan nasal spray) 10 mg
 
 This box contains six (6) unit-dose nasal spray devices.
 Each unit-dose contains 10 mg of sumatriptan in 0.1 mL.

@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-TOSYMRA contains sumatriptan, a selective 5-HT1B/1D receptor agonist.
-Sumatriptan is chemically designated as 1-[3-[2-(dimethylamino)ethyl]-1H-indol-5-yl]-N-methylmethanesulfonamide, and it has the following structure:
+TOSYMRA contains sumatriptan, a selective 5-HT 1B/1Dreceptor agonist.
+Sumatriptan is chemically designated as 1-[3-[2-(dimethylamino)ethyl]-1H-indol-5-yl]- N-methylmethanesulfonamide, and it has the following structure:
 
-The empirical formula is C14H21N3O2S, representing a molecular weight of 295.40.
+The empirical formula is C 14H 21N 3O 2S, representing a molecular weight of 295.40.
 Sumatriptan is a white to pale yellow powder that is very slightly soluble in water.
 
 TOSYMRA nasal spray is a clear, pale yellow to yellow colored liquid.

@@ -9,7 +9,7 @@ There was no evidence in either species of an increase in tumors related to suma
 
 Mutagenesis
 
-Sumatriptan was negative in in vitro (bacterial reverse mutation [Ames], gene cell mutation in Chinese hamster V79/HGPRT, chromosomal aberration in human lymphocytes) and in vivo (rat micronucleus) assays.
+Sumatriptan was negative in in vitro(bacterial reverse mutation [Ames], gene cell mutation in Chinese hamster V79/HGPRT, chromosomal aberration in human lymphocytes) and in vivo(rat micronucleus) assays.
 
 Impairment of Fertility
 
