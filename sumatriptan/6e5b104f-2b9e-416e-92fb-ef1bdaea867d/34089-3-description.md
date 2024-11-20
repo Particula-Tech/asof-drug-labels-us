@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-ZEMBRACE SymTouch injection contains sumatriptan succinate, a selective 5-HT1B/1D receptor agonist.
+ZEMBRACE SymTouch injection contains sumatriptan succinate, a selective 5-HT 1B/1Dreceptor agonist.
 Sumatriptan succinate is chemically designated as 3-[2-(dimethylamino) ethyl]-N-methyl-indole-5-methanesulfonamide succinate (1:1), and it has the following structure:
 
-The empirical formula is C14H21N3O2S∙C4H6O4, representing a molecular weight of 413.5.
+The empirical formula is C 14H 21N 3O 2S∙C 4H 6O 4, representing a molecular weight of 413.5.
 Sumatriptan succinate is a white to off-white powder that is readily soluble in water and in saline.
 
 ZEMBRACE SymTouch is a clear, colorless to pale yellow, sterile, nonpyrogenic solution for subcutaneous injection.

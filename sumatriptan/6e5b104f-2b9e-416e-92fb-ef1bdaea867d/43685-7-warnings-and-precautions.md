@@ -5,7 +5,7 @@
 The use of ZEMBRACE SymTouch injection is contraindicated in patients with ischemic or vasospastic CAD.
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of sumatriptan injection.
 Some of these reactions occurred in patients without known CAD.
-5-HT1 agonists, including ZEMBRACE SymTouch injection, may cause coronary artery vasospasm (Prinzmetal's angina), even in patients without a history of CAD.
+5-HT 1agonists, including ZEMBRACE SymTouch injection, may cause coronary artery vasospasm (Prinzmetal's angina), even in patients without a history of CAD.
 
 Perform a cardiovascular evaluation in triptan-naive patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving ZEMBRACE SymTouch injection.
 If there is evidence of CAD or coronary artery vasospasm, ZEMBRACE SymTouch injection is contraindicated.
@@ -14,7 +14,7 @@ For such patients, consider periodic cardiovascular evaluation in intermittent l
 
 ## 5.2 Arrhythmias
 
-Life-threatening disturbances of cardiac rhythm, including ventricular tachycardia and ventricular fibrillation leading to death, have been reported within a few hours following the administration of 5-HT1 agonists.
+Life-threatening disturbances of cardiac rhythm, including ventricular tachycardia and ventricular fibrillation leading to death, have been reported within a few hours following the administration of 5-HT 1agonists.
 
 Discontinue ZEMBRACE SymTouch injection if these disturbances occur.
 ZEMBRACE SymTouch injection is contraindicated in patients with Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders.
@@ -27,8 +27,8 @@ The use of ZEMBRACE SymTouch injection is contraindicated in patients with CAD a
 
 ## 5.4 Cerebrovascular Events
 
-Cerebral hemorrhage, subarachnoid hemorrhage, and stroke have occurred in patients treated with 5-HT1 agonists, and some have resulted in fatalities.
-In a number of cases, it appears possible that the cerebrovascular events were primary, the 5-HT1 agonist having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine when they were not.
+Cerebral hemorrhage, subarachnoid hemorrhage, and stroke have occurred in patients treated with 5-HT 1agonists, and some have resulted in fatalities.
+In a number of cases, it appears possible that the cerebrovascular events were primary, the 5-HT 1agonist having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine when they were not.
 Also, patients with migraine may be at increased risk of certain cerebrovascular events (e.g., stroke, hemorrhage, TIA).
 Discontinue ZEMBRACE SymTouch injection if a cerebrovascular event occurs.
 
@@ -38,10 +38,10 @@ ZEMBRACE SymTouch injection is contraindicated in patients with a history of str
 ## 5.5 Other Vasospasm Reactions
 
 ZEMBRACE SymTouch injection may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud's syndrome.
-In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional ZEMBRACE SymTouch injections.
+In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT 1agonist, rule out a vasospastic reaction before receiving additional ZEMBRACE SymTouch injections.
 
-Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
-Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists have not been clearly established.
+Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT 1agonists.
+Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT 1agonists have not been clearly established.
 
 ## 5.6 Medication Overuse Headache
 
@@ -58,7 +58,7 @@ Discontinue ZEMBRACE SymTouch injection if serotonin syndrome is suspected.
 
 ## 5.8 Increase in Blood Pressure
 
-Significant elevation in blood pressure, including hypertensive crisis with acute impairment of organ systems, has been reported on rare occasions in patients treated with 5-HT1 agonists, including patients without a history of hypertension.
+Significant elevation in blood pressure, including hypertensive crisis with acute impairment of organ systems, has been reported on rare occasions in patients treated with 5-HT 1agonists, including patients without a history of hypertension.
 Monitor blood pressure in patients treated with ZEMBRACE SymTouch.
 ZEMBRACE SymTouch injection is contraindicated in patients with uncontrolled hypertension.
 

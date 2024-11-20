@@ -5,12 +5,12 @@
 Carcinogenesis
 
 In carcinogenicity studies in mouse and rat, sumatriptan was administered orally for 78 weeks and 104 weeks, respectively, at doses up to 160 mg/kg/day (the high dose in rat was reduced from 360 mg/kg/day during Week 21).
-The highest dose tested in mice and rats was approximately 130 and 260 times, respectively, the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
+The highest dose tested in mice and rats was approximately 130 and 260 times, respectively, the single MRHD of 6 mg administered subcutaneously on a mg/m 2basis.
 There was no evidence in either species of an increase in tumors related to sumatriptan administration.
 
 Mutagenesis
 
-Sumatriptan was negative in in vitro (bacterial reverse mutation [Ames], gene cell mutation in Chinese hamster V79/HGPRT, chromosomal aberration in human lymphocytes) and in vivo (rat micronucleus) assays.
+Sumatriptan was negative in in vitro(bacterial reverse mutation [Ames], gene cell mutation in Chinese hamster V79/HGPRT, chromosomal aberration in human lymphocytes) and in vivo(rat micronucleus) assays.
 
 Impairment of Fertility
 

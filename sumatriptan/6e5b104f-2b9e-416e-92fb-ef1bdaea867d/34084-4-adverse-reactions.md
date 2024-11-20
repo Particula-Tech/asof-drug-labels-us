@@ -19,7 +19,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions in Placebo-Controlled Trials with Sumatriptan Injection
 
-Migraine Headache: Table 1 lists adverse reactions that occurred in 2 US placebo-controlled clinical trials in migraine subjects (Studies 2 and 3), following either a single 6-mg dose of sumatriptan injection or placebo.
+Migraine Headache:Table 1 lists adverse reactions that occurred in 2 US placebo-controlled clinical trials in migraine subjects (Studies 2 and 3), following either a single 6-mg dose of sumatriptan injection or placebo.
 Only reactions that occurred at a frequency of 2% or more in groups treated with sumatriptan injection 6 mg and that occurred at a frequency greater than the placebo group are included in Table 1.
 
 Table 1: Adverse Reactions in Pooled Placebo-Controlled Trials in Patients with Migraine (Studies 2 and 3)
@@ -45,7 +45,7 @@ Table 1: Adverse Reactions in Pooled Placebo-Controlled Trials in Patients with 
 | Ear, nose, and throat |  |  |
 | Throat discomfort | 3 | <1 |
 | Discomfort: nasal cavity/sinuses | 2 | <1 |
-| Injection site reactionIncludes injection site pain, stinging/burning, swelling, erythema, bruising, bleeding. | 59 | 24 |
+| Injection site reaction Includes injection site pain, stinging/burning, swelling, erythema, bruising, bleeding. | 59 | 24 |
 | Miscellaneous |  |  |
 | Jaw discomfort | 2 | 0 |
 | Musculoskeletal |  |  |

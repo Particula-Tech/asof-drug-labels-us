@@ -4,7 +4,7 @@ NDC 0245-0809-38
 
 Rx only
 
-Zembrace® SYMTOUCH® (sumatriptan injection)
+Zembrace ®SYMTOUCH ® (sumatriptan injection)
 
 3 mg
 

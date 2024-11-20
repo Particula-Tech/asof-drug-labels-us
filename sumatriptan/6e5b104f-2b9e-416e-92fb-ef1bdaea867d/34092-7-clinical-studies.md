@@ -11,7 +11,7 @@ Table 2: Proportion of Patients with Migraine Relief and Incidence of Adverse Re
 
 | at 10 Minutes | at 30 Minutes | at 1 Hour | at 2 Hours |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Dose of Sumatriptan Injection | Percent Patients With ReliefRelief is defined as the reduction of moderate or severe pain to no or mild pain after dosing without use of rescue medication |  |  |  | Adverse Reactions Incidence (%) |
+| Dose of Sumatriptan Injection | Percent Patients With Relief Relief is defined as the reduction of moderate or severe pain to no or mild pain after dosing without use of rescue medication |  |  |  | Adverse Reactions Incidence (%) |
 | Placebo | 5 | 15 | 24 | 21 | 55 |
 | 1 mg | 10 | 40 | 43 | 40 | 63 |
 | 2 mg | 7 | 23 | 57 | 43 | 63 |
@@ -31,13 +31,13 @@ Table 3: Proportion of Patients with Pain Relief and Relief of Migraine Symptoms
 | 1-Hour Data | Study 2 |  | Study 3 |  |
 | --- | --- | --- | --- | --- |
 | Placebo (n = 190) | Sumatriptan 6 mg (n = 384) | Placebo (n = 180) | Sumatriptan 6 mg (n = 350) |  |
-| Subjects with pain relief (grade 0/1) | 18% | 70%P<0.05 versus placebo. | 26% | 70% |
+| Subjects with pain relief (grade 0/1) | 18% | 70% P<0.05 versus placebo. | 26% | 70% |
 | Subjects with no pain | 5% | 48% | 13% | 49% |
 | Subjects without nausea | 48% | 73% | 50% | 73% |
 | Subjects without photophobia | 23% | 56% | 25% | 58% |
-| Subjects with little or no clinical disabilityA successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally. | 34% | 76% | 34% | 76% |
+| Subjects with little or no clinical disability A successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally. | 34% | 76% | 34% | 76% |
 | 2-Hour Data | Study 2 |  | Study 3 |  |
-| PlaceboIncludes patients that may have received an additional placebo injection 1 hour after the initial injection. | Sumatriptan 6 mgIncludes patients that may have received an additional 6 mg of sumatriptan injection 1 hour after the initial injection. | Placebo | Sumatriptan 6 mg |  |
+| Placebo Includes patients that may have received an additional placebo injection 1 hour after the initial injection. | Sumatriptan 6 mg Includes patients that may have received an additional 6 mg of sumatriptan injection 1 hour after the initial injection. | Placebo | Sumatriptan 6 mg |  |
 | Subjects with pain relief (grade 0/1) | 31% | 81% | 39% | 82% |
 | Subjects with no pain | 11% | 63% | 19% | 65% |
 | Subjects without nausea | 56% | 82% | 63% | 81% |

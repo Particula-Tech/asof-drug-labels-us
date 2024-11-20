@@ -12,7 +12,7 @@ Hypersensitivity Reactions
 
 Inform patients that anaphylactic reactions have occurred in patients receiving sumatriptan injection.
 Such reactions can be life-threatening or fatal.
-In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Contraindications (4) and Warnings and Precautions (5.9)].
+In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Contraindications (4)and Warnings and Precautions (5.9)].
 
 Concomitant Use with Other Triptans or Ergot Medications
 
