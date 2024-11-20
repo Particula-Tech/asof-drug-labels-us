@@ -31,10 +31,10 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 
 Manufactured by
 
-SA Alcon-Couvreur NV
+Novartis Manufacturing NV
 
-Puurs, Belgium for
+Puurs-Sint-Amands, Belgium for
 
 Sandoz Inc., Princeton, NJ 08540
 
-9101215 US
+9103382 US
