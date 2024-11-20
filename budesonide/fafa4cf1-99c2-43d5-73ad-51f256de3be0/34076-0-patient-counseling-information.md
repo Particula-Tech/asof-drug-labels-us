@@ -11,9 +11,11 @@ Provide patients with such medication and instruct the patient in how it should 
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
 
-1. • Decreasing effectiveness of inhaled, short-acting beta 2 -agonists
-2. • Need for more inhalations than usual of inhaled, short-acting beta 2 -agonists
-3. • Significant decrease in lung function as outlined by the physician
+• Decreasing effectiveness of inhaled, short-acting beta2-agonists
+
+• Need for more inhalations than usual of inhaled, short-acting beta2-agonists
+
+• Significant decrease in lung function as outlined by the physician
 
 Tell patients they should not stop therapy with SYMBICORT without physician/provider guidance since symptoms may recur after discontinuation.
 
