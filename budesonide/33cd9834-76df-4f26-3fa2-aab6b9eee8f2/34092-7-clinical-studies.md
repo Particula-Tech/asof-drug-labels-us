@@ -31,8 +31,8 @@ Similar decreases were also observed for daytime asthma symptom scores.
 Changes from baseline to the double-blind phase for the budesonide treatment groups compared to placebo were made using analysis of variance techniques.
 The model included terms for the respective changes from baseline as the dependent variable and terms for treatment, center and treatment by center interaction as exploratory variables (see Figures 1-3).
 
-1. Figure 1: A 12-Week Trial in Pediatric Patients Not on Inhaled Corticosteroid Therapy Prior to Study Entry.
-   Nighttime Asthma Change from Baseline
+Figure 1: A 12-Week Trial in Pediatric Patients Not on Inhaled Corticosteroid Therapy Prior to Study Entry.
+Nighttime Asthma Change from Baseline
 
 p-value – 0.25 mg: 0.001, 0.5 mg: 0.010, 1.0 mg: 0.009
 
@@ -45,8 +45,8 @@ Similar decreases were also observed for daytime asthma symptom scores.
 
 Statistically significant increases in FEV1 compared to placebo were observed with PULMICORT RESPULES at a dose of 0.5 mg twice daily and in morning PEF for both doses (0.25 mg and 0.5 mg twice daily).
 
-1. Figure 2: A 12-Week Trial in Pediatric Patients Previously Maintained on Inhaled Corticosteroid Therapy Prior to Study Entry.
-   Nighttime Asthma Change from Baseline
+Figure 2: A 12-Week Trial in Pediatric Patients Previously Maintained on Inhaled Corticosteroid Therapy Prior to Study Entry.
+Nighttime Asthma Change from Baseline
 
 p-values: 0.25 mg: 0.022, 0.5 mg: 0.021
 
@@ -63,7 +63,7 @@ PULMICORT RESPULES at a dose of 0.5 mg twice daily resulted in statistically sig
 The evidence supports the efficacy of the same nominal dose of PULMICORT RESPULES administered on either a once-daily or twice-daily schedule.
 However, when all measures are considered together, the evidence is stronger for twice-daily dosing [see Dosage and Administration (2)].
 
-1. Figure 3: A 12-Week Trial in Pediatric Patients Either Maintained on Bronchodilators Alone or Inhaled Corticosteroid Therapy Prior to Study Entry.
-   Nighttime Asthma Change from Baseline
+Figure 3: A 12-Week Trial in Pediatric Patients Either Maintained on Bronchodilators Alone or Inhaled Corticosteroid Therapy Prior to Study Entry.
+Nighttime Asthma Change from Baseline
 
 p-values: 0.25 mg qd: 0.121, 0.25 mg bid: <0.001, 0.5 mg bid: 0.003, 1.0 mg qd: 0.005
