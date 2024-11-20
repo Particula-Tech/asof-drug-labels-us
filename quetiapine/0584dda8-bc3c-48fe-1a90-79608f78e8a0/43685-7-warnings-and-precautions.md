@@ -334,8 +334,8 @@ Table 8 shows the incidence of these shifts in short-term placebo-controlled cli
 
 ____________
 
-1. 1Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-   Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.
+1Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.
 
 Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline.
 Shifts in total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.Includes SEROQUEL and SEROQUEL XR data.
