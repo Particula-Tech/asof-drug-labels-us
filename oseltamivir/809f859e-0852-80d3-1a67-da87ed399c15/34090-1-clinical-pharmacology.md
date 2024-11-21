@@ -96,7 +96,7 @@ Mechanism of Action
 
 Oseltamivir phosphate is an ethyl ester prodrug requiring ester hydrolysis for conversion to the active form, oseltamivir carboxylate.
 Oseltamivir carboxylate is an inhibitor of influenza virus neuraminidase affecting release of viral particles.
-The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2, and influenza B clinical isolates were 2.5 nM (range 0.93-4.16 nM, N=74), 0.96 nM (range 0.13 - 7.95 nM, N=774), and 60 nM (20-285 nM, N=256), respectively, in a neuraminidase assay with a fluorescently labeled MUNANA substrate.
+The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2, and influenza B clinical isolates were 2.5 nM (range 0.93-4.16 nM, N=74), 0.96 nM (range 0.13-7.95 nM, N=774), and 60 nM (20-285 nM, N=256), respectively, in a neuraminidase assay with a fluorescently labeled MUNANA substrate.
 
 Antiviral Activity
 
@@ -104,13 +104,16 @@ The antiviral activity of oseltamivir carboxylate against laboratory strains and
 The concentrations of oseltamivir carboxylate required for inhibition of influenza virus in cell culture were highly variable depending on the assay method used and the virus tested.
 The 50% and 90% effective concentrations (EC50 and EC90) were in the range of 0.0008 micromolar to greater than 35 micromolar and 0.004 micromolar to greater than 100 micromolar, respectively (1 micromolar=0.284 microgram per mL).
 The relationship between the antiviral activity in cell culture, inhibitory activity in the neuraminidase assay, and the inhibition of influenza virus replication in humans has not been established.
+
 Resistance
 
 Cell culture studies: Influenza A virus isolates with reduced susceptibility to oseltamivir carboxylate have been recovered by serial passage of virus in cell culture in the presence of increasing concentrations of oseltamivir carboxylate.
 Reduced susceptibility of influenza virus to inhibition by oseltamivir carboxylate may be conferred by amino acid substitutions in the viral neuraminidase and/or hemagglutinin proteins.
+
 Clinical studies: Reduced susceptibility isolates have been obtained during treatment with oseltamivir and from sampling during community surveillance studies.
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
 The clinical impact of this reduced susceptibility is unknown.
+
 Hemagglutinin (HA) substitutions selected in cell culture and associated with reduced susceptibility to oseltamivir include (influenza virus subtype-specific numbering) A11T, K173E, and R453M in H3N2; and H99Q in influenza B virus (Yamagata lineage).
 In some cases, HA substitutions were selected in conjunction with known NA resistance substitutions and may contribute to reduced susceptibility to oseltamivir; however, the impact of HA substitutions on antiviral activity of oseltamivir in humans is unknown and likely to be strain-dependent.
 
@@ -128,6 +131,10 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
 Oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at frequencies of 27% to 37% and 3% to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
+
+In immunocompromised adults and pediatrics (1 year of age and older), selection of influenza viruses resistant to oseltamivir can occur at higher frequencies than in the otherwise healthy population.
+In a treatment study of immunocompromised subjects, treatment‐associated genotypic resistance was detected in 27% (8/30), 12% (6/52), and 0% (0/42) of influenza A/H1N1, A/H3N2, and B virus infections, respectively.
+Treatment‐emergent resistance was observed at a higher frequency in hematopoietic stem cell transplant recipients (32%; 6/19).
 
 The frequency of resistance selection to oseltamivir and the prevalence of such resistant virus vary seasonally and geographically.
 
