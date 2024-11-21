@@ -27,8 +27,8 @@ Patients at an increased risk of withdrawal adverse reactions after benzodiazepi
 
 Acute Withdrawal Reactions
 
-The continued use of benzodiazepines may lead to clinically significant physical dependence.
-Although diazepam is indicated only for intermittent use (seeINDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of diazepam or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (seeDRUG ABUSE AND DEPENDENCE; Dependence).
+The continued use of benzodiazepines, including diazepam may lead to clinically significant physical dependence.
+Although diazepam is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of diazepam or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE; Dependence).
 
 Protracted Withdrawal Syndrome
 
@@ -39,14 +39,14 @@ When used intravenously, the following procedures should be undertaken to reduce
 Do not mix or dilute diazepam with other solutions or drugs in syringe or infusion container.
 If it is not feasible to administer diazepam directly intravenous, it may be injected slowly through the infusion tubing as close as possible to the vein insertion.
 
-Extreme care must be used in administering Diazepam Injection, particularly by the intravenous route, to the elderly, to very ill patients and to those with limited pulmonary reserve because of the possibility that apnea and/or cardiac arrest may occur.
+Extreme care must be used in administering diazepam injection, particularly by the intravenous route, to the elderly, to very ill patients and to those with limited pulmonary reserve because of the possibility that apnea and/or cardiac arrest may occur.
 Concomitant use of barbiturates, alcohol or other central nervous system depressants increases depression with increased risk of apnea.
 Resuscitative equipment including that necessary to support respiration should be readily available.
 
 When diazepam is used with a narcotic analgesic, the dosage of the narcotic should be reduced by at least one-third and administered in small increments.
 In some cases the use of a narcotic may not be necessary.
 
-Diazepam Injection should not be administered to patients in shock, coma, or in acute alcoholic intoxication with depression of vital signs.
+Diazepam injection should not be administered to patients in shock, coma, or in acute alcoholic intoxication with depression of vital signs.
 As is true of most CNS-acting drugs, patients receiving diazepam should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
 Tonic status epilepticus has been precipitated in patients treated with intravenous diazepam for petit mal status or petit mal variant status.
@@ -108,7 +108,7 @@ Inform patients that in some cases, patients taking benzodiazepines have develop
 
 ## Pregnancy
 
-Advise pregnant females that use of Diazepam Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS; Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS; Pregnancy).
+Advise pregnant females that use of diazepam Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS; Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS; Pregnancy).
 
 Instruct patients to inform their healthcare provider if they are pregnant.
 
@@ -116,7 +116,7 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 ## Nursing
 
-Advise patients that breastfeeding is not recommended during treatment with Diazepam Injection (see PRECAUTIONS; Nursing Mothers).
+Advise patients that breastfeeding is not recommended during treatment with diazepam (see PRECAUTIONS; Nursing Mothers).
 
 ## Drug Interactions
 

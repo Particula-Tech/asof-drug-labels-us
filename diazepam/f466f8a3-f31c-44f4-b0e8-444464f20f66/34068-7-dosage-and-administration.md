@@ -12,7 +12,7 @@ When intravenous use is indicated, facilities for respiratory assistance should 
 
 ## Intramuscular
 
-Diazepam Injection should be injected deeply into the muscle.
+Diazepam injection should be injected deeply into the muscle.
 
 ## Intravenous Use
 

@@ -36,6 +36,6 @@ CAUTION: Federal (USA) law prohibits dispensing without prescription.
 
 Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised January 2023
+Revised 05 2023
 
-462-003-06
+462-003-07
