@@ -279,7 +279,7 @@ For Intravenous Use Only Warning: Hazardous Drug
 
 # PRINCIPAL DISPLAY PANEL – 200 mg/100 mL Vial ONCO-TAIN® Carton
 
-NDC 0069-1542-20 Rx only
+NDC 0069-1542-20
 
 Multiple-dose Vial
 
@@ -290,5 +290,7 @@ DOXOrubicin Hydrochloride Injection
 For Intravenous Use Only
 
 Pfizer Hospital
+
+Rx only
 
 Warning: Hazardous Drug
