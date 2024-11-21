@@ -22,7 +22,7 @@ Dispense in a tight, light-resistant container as defined in the USP with a chil
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIB70359E
+CIB70359F
 
 Rev.
-09/24
+11/24
