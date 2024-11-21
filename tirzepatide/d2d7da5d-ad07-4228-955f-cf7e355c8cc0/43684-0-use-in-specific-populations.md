@@ -50,7 +50,7 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of MOUNJARO have not been established in pediatric patients (younger than 18 years of age).
+Safety and effectiveness of MOUNJARO have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 

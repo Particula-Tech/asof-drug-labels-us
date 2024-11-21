@@ -3,6 +3,7 @@
 ## 2.1 Dosage
 
 - The recommended starting dosage of MOUNJARO is 2.5 mg injected subcutaneously once weekly.
+  Follow the dosage escalation below to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
   The 2.5 mg dosage is for treatment initiation and is not intended for glycemic control.
 - After 4 weeks, increase the dosage to 5 mg injected subcutaneously once weekly.
 - If additional glycemic control is needed, increase the dosage in 2.5 mg increments after at least 4 weeks on the current dose.

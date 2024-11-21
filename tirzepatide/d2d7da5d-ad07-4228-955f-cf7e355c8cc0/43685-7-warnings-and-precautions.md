@@ -51,9 +51,11 @@ Some of these events have been reported in patients without known underlying ren
 A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
 Monitor renal function when initiating or escalating doses of MOUNJARO in patients with renal impairment reporting severe gastrointestinal adverse reactions.
 
-## 5.6 Severe Gastrointestinal Disease
+## 5.6 Severe Gastrointestinal Adverse Reactions
 
 Use of MOUNJARO has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions 6.1].
+In the pool of placebo-controlled trials, severe gastrointestinal adverse reactions occurred more frequently among patients receiving MOUNJARO (5 mg 1.3%, 10 mg 0.4%, 15 mg 1.2%) than placebo (0.9%).
+
 MOUNJARO has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and is therefore not recommended in these patients.
 
 ## 5.7 Diabetic Retinopathy Complications in Patients with a History of Diabetic Retinopathy
@@ -68,3 +70,11 @@ Acute events of gallbladder disease such as cholelithiasis or cholecystitis have
 
 In MOUNJARO placebo-controlled clinical trials, acute gallbladder disease (cholelithiasis, biliary colic, and cholecystectomy) was reported by 0.6% of MOUNJARO-treated patients and 0% of placebo-treated patients.
 If cholelithiasis is suspected, gallbladder diagnostic studies and appropriate clinical follow-up are indicated.
+
+## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+MOUNJARO delays gastric emptying [see Clinical Pharmacology (12.2)].
+There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
+Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking MOUNJARO, including whether modifying preoperative fasting recommendations or temporarily discontinuing MOUNJARO could reduce the incidence of retained gastric contents.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking MOUNJARO.

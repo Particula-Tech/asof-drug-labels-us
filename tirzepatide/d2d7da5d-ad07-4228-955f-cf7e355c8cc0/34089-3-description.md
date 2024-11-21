@@ -1,8 +1,7 @@
 # 11 DESCRIPTION
 
 MOUNJARO (tirzepatide) injection, for subcutaneous use, contains tirzepatide, a once weekly GIP receptor and GLP-1 receptor agonist.
-It is a 39-amino-acid modified peptide based on the GIP sequence.
-Tirzepatide contains 2 non-coded amino acids (aminoisobutyric acid, Aib) in positions 2 and 13, a C-terminal amide, and Lys residue at position 20 that is attached to 1,20-eicosanedioic acid via a linker.
+Tirzepatide is based on the GIP sequence and contains aminoisobutyric acid (Aib) in positions 2 and 13, a C-terminal amide, and Lys residue at position 20 that is attached to 1,20-eicosanedioic acid via a linker.
 The molecular weight is 4813.53 Da and the empirical formula is C225H348N48O68.
 
 Structural formula:

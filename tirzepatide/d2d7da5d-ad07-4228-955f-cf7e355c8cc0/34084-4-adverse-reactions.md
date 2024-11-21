@@ -7,9 +7,10 @@ The following serious adverse reactions are described below or elsewhere in the 
 - Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.3)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 - Acute Kidney Injury [see Warnings and Precautions (5.5)]
-- Severe Gastrointestinal Disease [see Warnings and Precautions (5.6)]
+- Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Diabetic Retinopathy Complications [see Warnings and Precautions (5.7)]
 - Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
+- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -110,6 +111,15 @@ Acute Gallbladder Disease
 
 In the pool of placebo-controlled clinical trials, acute gallbladder disease (cholelithiasis, biliary colic and cholecystectomy) was reported by 0.6% of MOUNJARO-treated patients and 0% of placebo-treated patients.
 
+Dysesthesia
+
+In the pool of placebo-controlled clinical trials, dysesthesia was reported by 0.4%, 0.4%, and 0.4% of patients treated with MOUNJARO 5 mg, 10 mg, and 15 mg, respectively.
+No events were reported by patients receiving placebo.
+
+Dysgeusia
+
+In the pool of placebo-controlled clinical trials, dysgeusia was reported by 0.1% of MOUNJARO-treated patients and 0% of placebo-treated patients.
+
 Laboratory Abnormalities
 
 Amylase and Lipase Increase
@@ -126,3 +136,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Hypersensitivity: anaphylaxis, angioedema
 
 Gastrointestinal: ileus
+
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
