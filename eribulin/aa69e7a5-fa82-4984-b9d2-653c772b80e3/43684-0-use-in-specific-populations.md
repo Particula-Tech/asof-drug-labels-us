@@ -51,8 +51,8 @@ Based on animal data, eribulin mesylate injection may result in damage to male r
 
 The safety and effectiveness of eribulin mesylate injection in pediatric patients have not been established.
 
-Pediatric use information describing clinical studies in which efficacy was not demonstrated is approved for Eisai Inc’s HALAVEN® (eribulin mesylate) injection.
-However, due to Eisai Inc’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Eisai Inc.’s HALAVEN® (eribulin mesylate) injection.
+However, due to Eisai Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
@@ -65,7 +65,7 @@ Clinical studies of eribulin mesylate injection did not include a sufficient num
 ## 8.6 Hepatic Impairment
 
 Administration of eribulin mesylate injection at a dose of 1.1 mg/m2 to patients with mild hepatic impairment and 0.7 mg/m2 to patients with moderate hepatic impairment resulted in similar exposure to eribulin as a dose of 1.4 mg/m2 to patients with normal hepatic function.
-Therefore, a lower starting dose of 1.1 mg/m2 is recommended for patients with mild hepatic impairment (Child-Pugh A) and of 0.7 mg/m2 is recommended for patients with moderate hepatic impairment (Child-Pugh B). eribulin mesylate injection was not studied in patients with severe hepatic impairment (Child-Pugh C) [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
+Therefore, a lower starting dose of 1.1 mg/m2 is recommended for patients with mild hepatic impairment (Child-Pugh A) and of 0.7 mg/m2 is recommended for patients with moderate hepatic impairment (Child-Pugh B). Eribulin mesylate injection was not studied in patients with severe hepatic impairment (Child-Pugh C) [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

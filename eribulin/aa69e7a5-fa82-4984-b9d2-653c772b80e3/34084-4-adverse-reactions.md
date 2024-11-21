@@ -74,7 +74,7 @@ Peripheral Neuropathy: In Study 1, 17% of enrolled patients had Grade 1 peripher
 Dose reduction due to peripheral neuropathy was required by 3% (14/503) of patients who received eribulin mesylate injection.
 Four percent (20/503) of patients experienced peripheral motor neuropathy of any grade and 2% (8/503) of patients developed Grade 3 peripheral motor neuropathy.
 
-Liver Function Test Abnormalities: Among patients with Grade 0 or 1 ALT levels at baseline, 18% of eribulin mesylate injection - treated patients experienced Grade 2 or greater ALT elevation.
+Liver Function Test Abnormalities: Among patients with Grade 0 or 1 ALT levels at baseline, 18% of eribulin mesylate injection-treated patients experienced Grade 2 or greater ALT elevation.
 One eribulin mesylate injection-treated patient without documented liver metastases had concomitant Grade 2 elevations in bilirubin and ALT; these abnormalities resolved and did not recur with re-exposure to eribulin mesylate injection.
 
 Less Common Adverse Reactions: The following additional adverse reactions were reported in ≥5% to <10% of the eribulin mesylate injection-treated group:
@@ -106,13 +106,13 @@ The most common adverse reactions resulting in discontinuation of eribulin mesyl
 Twenty-six percent of patients required at least one dose reduction.
 The most frequent adverse reactions that led to dose reduction were neutropenia (18%) and peripheral neuropathy (4.0%).
 
-Table 3 summarizes the incidence of adverse reactions occurring in at least 10% of patients in the eribulin mesylate injection - treated arm in Study 2.
+Table 3 summarizes the incidence of adverse reactions occurring in at least 10% of patients in the eribulin mesylate injection-treated arm in Study 2.
 
 Table 3: Adverse Reactionsa Occurring in ≥10% (all Grades) of Patients Treated on the eribulin mesylate injection arm and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% for All Grades or ≥2% for Grades 3 and 4) (Study 2)b
 
 | Adverse Reactions | Eribulin Mesylate Injection n=223 |  | Control Group n=221 |  |
 | --- | --- | --- | --- | --- |
-| All Grades | Grades 3-4 | All Grades | Grade 3-4 |  |
+| All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |
 | Nervous system disorders |  |  |  |  |
 | Peripheral neuropathyc | 29% | 3.1% | 8% | 0.5% |
 | Headache | 18% | 0% | 10% | 0% |
@@ -131,7 +131,7 @@ Table 3: Adverse Reactionsa Occurring in ≥10% (all Grades) of Patients Treated
 Other clinically important adverse reactions occurring in ≥10% of the eribulin mesylate injection-treated patients were:
 
 - Gastrointestinal Disorders: nausea (41%); vomiting (19%), diarrhea (17%)
-- General Disorders: asthenia/fatigue(62%); peripheraledema(12%)
+- General Disorders: asthenia/fatigue (62%); peripheral edema (12%)
 - Metabolism and Nutrition Disorders: decreased appetite (19%)
 - Musculoskeletal and Connective Tissue Disorders: arthralgia/myalgia (16%); back pain (16%)
 - Respiratory Disorders: cough (18%)
@@ -152,7 +152,7 @@ Table 4: Laboratory Abnormalities Occurring in ≥10% (all Grades) of Patients T
 
 | Laboratory Abnormality | Eribulin Mesylate Injection |  | Dacarbazine |  |
 | --- | --- | --- | --- | --- |
-| All Grades | Grades 3-4 | All Grades | Grade 3-4 |  |
+| All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |
 | Hematology |  |  |  |  |
 | Anemia | 70% | 4.1% | 52% | 6% |
 | Neutropenia | 63% | 32% | 30% | 8.9% |

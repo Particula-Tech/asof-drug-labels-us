@@ -22,14 +22,14 @@ Peripheral neuropathy was the most common toxicity leading to discontinuation of
 Neuropathy lasting more than one year occurred in 5% (26/503) of patients.
 Twenty-two percent (109/503) of patients developed a new or worsening neuropathy that had not recovered within a median follow-up duration of 269 days (range 25-662 days).
 
-In Study 2, Grade 3 peripheral neuropathy occurred in 3.1% (7/223) of eribulin mesylate injection - treated patients.
+In Study 2, Grade 3 peripheral neuropathy occurred in 3.1% (7/223) of eribulin mesylate injection-treated patients.
 Peripheral neuropathy led to discontinuation of eribulin mesylate injection in 0.9% of patients.
 The median time to first occurrence of peripheral neuropathy of any severity was 5 months (range: 3.5 months to 9 months).
 Neuropathy lasting more than 60 days occurred in 58% (38/65) of patients.
 Sixty three percent (41/65) had not recovered within a median follow-up duration of 6.4 months (range: 27 days to 29 months).
 
 Monitor patients closely for signs of peripheral motor and sensory neuropathy.
-Withhold Eribulin mesylate injection in patients who experience Grade 3 or 4 peripheral neuropathy, until resolution to Grade 2 or less [see Dosage and Administration (2.2)].
+Withhold eribulin mesylate injection in patients who experience Grade 3 or 4 peripheral neuropathy, until resolution to Grade 2 or less [see Dosage and Administration (2.2)].
 
 ## 5.3 Embryo-Fetal Toxicity
 

@@ -88,7 +88,7 @@ Table 7: Efficacy Results for the Leiomyosarcoma Stratum in Study 2a
 
 |  | Leiomyosarcoma Stratum |  |
 | --- | --- | --- |
-|  | Eribulin Mesylate Injection (n=154) | Dacarbazine (n=149) |
+|  | Eribulin Mesylate Injection (n=154) | Control Arm (n=149) |
 | Overall Survival |  |  |
 | Deaths, n (%) | 121 (79) | 116 (78) |
 | Median, months (95% CI) | 12.8 (10.3, 14.8) | 12.3 (11.0, 15.1) |

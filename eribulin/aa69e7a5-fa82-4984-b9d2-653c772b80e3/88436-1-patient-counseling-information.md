@@ -24,4 +24,4 @@ Manufactured for: Jiangxi Qingfeng Pharmaceutical Co., Ltd. Ganzhou, Jiangxi 341
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 Made in China
 
-© 2023-XXXX Hikma Pharmaceuticals USA Inc.
+© 2024 Hikma Pharmaceuticals USA Inc.

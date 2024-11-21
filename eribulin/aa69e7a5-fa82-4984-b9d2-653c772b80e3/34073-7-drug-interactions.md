@@ -2,7 +2,7 @@
 
 ## 7.1 Effects of Other Drugs on Eribulin Mesylate Injection
 
-No drug-drug interactions are expected with CYP3A4 inhibitors, CYP3A4 inducers or P- glycoprotein (P-gp) inhibitors.
+No drug-drug interactions are expected with CYP3A4 inhibitors, CYP3A4 inducers or P-glycoprotein (P-gp) inhibitors.
 Clinically meaningful differences in exposure (AUC) were not observed in patients with advanced solid tumors when eribulin mesylate injection was administered with or without ketoconazole (a strong inhibitor of CYP3A4 and a P-gp inhibitor) and when eribulin mesylate injection was administered with or without rifampin (a CYP3A4 inducer) [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Effects of Eribulin Mesylate Injection on Other Drugs
