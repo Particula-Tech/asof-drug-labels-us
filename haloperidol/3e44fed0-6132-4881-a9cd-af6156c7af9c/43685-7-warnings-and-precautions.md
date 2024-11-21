@@ -128,11 +128,11 @@ Antipsychotic drugs elevate prolactin levels; the elevation persists during chro
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
-Some epidemiologic studies have indicated a potential association between chronic administration of prolactin-increasing antipsychotics and breast cancer.
+Published epidemiologic studies have shown inconsistent results when exploring the association between hyperprolactinemia and breast cancer.
 
 ## Geriatric Use:
 
 Clinical studies of haloperidol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
-However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive dyskinesia).
+However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).
