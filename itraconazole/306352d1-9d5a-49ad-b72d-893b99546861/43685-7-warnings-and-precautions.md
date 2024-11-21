@@ -2,7 +2,7 @@
 
 ## 5.1 Congestive Heart Failure
 
-TOLSURA can cause or exacerbate congestive heart failure (CHF) [see Boxed Warningand Adverse Reactions (6.1)].
+TOLSURA can cause or exacerbate congestive heart failure (CHF) [see Boxed Warning and Adverse Reactions (6.1)].
 For patients with evidence of ventricular dysfunction such as CHF, history or risk factors for CHF, physicians should carefully review the risks and benefits of TOLSURA therapy.
 These risk factors include cardiac disease such as ischemic and valvular disease; significant pulmonary disease such as chronic obstructive pulmonary disease; and renal failure and other edematous disorders.
 Inform such patients of the signs and symptoms of CHF and monitor carefully for signs and symptoms of CHF during treatment.
@@ -17,7 +17,7 @@ In post-marketing experience, heart failure was more frequently reported in pati
 Calcium channel blockers can have negative inotropic effects which may be additive to those of itraconazole.
 In addition, itraconazole can inhibit the metabolism of calcium channel blockers.
 Therefore, when co-administering itraconazole and calcium channel blockers, monitor carefully for signs and symptoms of CHF during treatment due to an increased risk of CHF.
-Concomitant administration of TOLSURA and felodipine or nisoldipine is contraindicated [see Contraindications (4.1), Drug Interactions (7.1)and Adverse Reactions (6.2)]
+Concomitant administration of TOLSURA and felodipine or nisoldipine is contraindicated [see Contraindications (4.1), Drug Interactions (7.1) and Adverse Reactions (6.2)]
 
 ## 5.2 Hepatotoxicity
 
@@ -29,27 +29,33 @@ Continued TOLSURA use or reinstitution of treatment with TOLSURA is strongly dis
 ## 5.3 Cardiac Dysrhythmias
 
 Life-threatening cardiac dysrhythmias and/or sudden death have occurred in patients using drugs such as, pimozide, methadone, or quinidine concomitantly with oral itraconazole and/or other CYP3A4 inhibitors.
-Concomitant administration of these drugs with TOLSURA is contraindicated [see Boxed Warning, Contraindications (4)and Drug Interactions (7)].
+Concomitant administration of these drugs with TOLSURA is contraindicated [see Boxed Warning, Contraindications (4) and Drug Interactions (7)].
 
-## 5.4 Drug Interaction Potential
+## 5.4 Pseudoaldosteronism
+
+Pseudoaldosteronism, manifested by the onset of hypertension or worsening of hypertension, and abnormal laboratory findings (hypokalemia, low serum renin and aldosterone, and elevate 11-deoxycortisol), has been reported with itraconazole use in the postmarketing setting.
+Monitor blood pressure and potassium levels and manage as necessary.
+Management of pseudoaldosteronism may include discontinuation of TOLSURA, substitution with an appropriate antifungal drug that is not associated with pseudoaldosteronism, or use of aldosterone receptor antagonists.
+
+## 5.5 Drug Interaction Potential
 
 Itraconazole has a potential for clinically important drug interactions [see Drug Interactions (7.1, 7.2)].
 Co-administration of specific drugs with TOLSURA may result in changes in the efficacy of itraconazole and/or the co-administered drug, life-threatening effects and/or sudden death.
-[see Boxed Warning, Contraindications (4.1)and Drug Interactions (7.1, 7.2)].
+[see Boxed Warning, Contraindications (4.1) and Drug Interactions (7.1, 7.2)].
 
-## 5.5 Peripheral Neuropathy
+## 5.6 Peripheral Neuropathy
 
 Cases of peripheral neuropathy have been reported in patients on long-term therapy with itraconazole.
 Monitor for and promptly evaluate neurologic symptoms.
 If neuropathy attributable to TOLSURA occurs, discontinue treatment.
 
-## 5.6 Hearing Loss
+## 5.7 Hearing Loss
 
 Reversible or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated [see Boxed Warning, Contraindications (4.2)and Drug Interactions (7)].
+Several of these reports included concurrent administration of quinidine which is contraindicated [see Boxed Warning, Contraindications (4.2) and Drug Interactions (7)].
 The hearing loss usually resolves when treatment is stopped but can persist in some patients.
 
-## 5.7 Hypersensitivity Reactions
+## 5.8 Hypersensitivity Reactions
 
 TOLSURA is contraindicated in patients with a known hypersensitivity to itraconazole [see Contraindications (4.2)].
 Hypersensitivity reactions have been reported with the use of itraconazole [see Adverse Reactions (6.2)].

@@ -1,5 +1,5 @@
 Mayne Pharma
 
-Greenville, NC 27834
+Raleigh, NC 27609
 
 TOLSURA is a registered trademark of Mayne Pharma.
