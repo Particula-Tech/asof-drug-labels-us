@@ -99,10 +99,6 @@ The brands listed are the registered trademark of their respective owners and ar
 
 Manufactured by Gland Pharma Limited
 
-Hyderabad 500043, D.P Pally, India
-
 for Sandoz Inc., Princeton, NJ 08540
 
-M.L: 103/AP/RR/97/F/R
-
-Revised: April 2020
+M.L.No.: 103/AP/RR/97/F/R

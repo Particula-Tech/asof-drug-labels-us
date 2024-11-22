@@ -4,9 +4,9 @@
 
 Olanzapine for Injection is available in:
 
-NDC 0781-3159-72, 10 mg vial (1s)
+NDC 0781-3159-72, 10 mg single-dose vial (1s)
 
-NDC 0781-3159-95, package of 10 vials
+NDC 0781-3159-95, package of 10 single-dose vials
 
 ## 16.2 Storage and Handling
 
