@@ -77,7 +77,7 @@ Efficacy was not established with tumor response rates ranging from one complete
 Docetaxel in Combination
 
 Docetaxel was studied in combination with cisplatin and 5-fluorouracil (TCF) versus cisplatin and 5-fluorouracil (CF) for the induction treatment of nasopharyngeal carcinoma (NPC) in pediatric patients prior to chemoradiation consolidation.
-Seventy-five patients (median age 16 years, range 9 to 21 years) were randomized (2:1) to docetaxel (75 mg/m2) in combination with cisplatin (75 mg/m2) and 5-fluorouracil (750 mg/m2) (TCF) or to cisplatin (80 mg/m2) and 5-fluorouracil (1000 mg/m2/day) (CF).
+Seventy-five patients (median age 16 years, range 9 to 21 years) were randomized (2:1) to docetaxel (75 mg/m2) in combination with cisplatin (75 mg/m2) and 5-fluorouracil (750 mg/m2) (TCF) or to cisplatin (80 mg/m2) and 5-fluorouracil (1,000 mg/m2/day) (CF).
 The primary endpoint was the CR rate following induction treatment of NPC.
 One patient out of 50 in the TCF group (2%) had a complete response while none of the 25 patients in the CF group had a complete response.
 
@@ -108,7 +108,7 @@ When docetaxel was combined with carboplatin for the treatment of chemotherapy-n
 Prostate Cancer
 
 Of the 333 patients treated with docetaxel every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the following treatment-emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%), respectively.
+In patients treated with docetaxel every three weeks, the following treatment-emergent adverse reactions occurred at rates ≥ 10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%), respectively.
 
 Breast Cancer
 
@@ -120,7 +120,7 @@ Gastric Cancer
 Among the 221 patients treated with docetaxel in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
 In this study, the number of patients who were 65 years of age or older was insufficient to determine whether they respond differently from younger patients.
 However, the incidence of serious adverse reactions was higher in the elderly patients compared to younger patients.
-The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥10% higher in patients who were 65 years of age or older compared to younger patients.
+The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
 Elderly patients treated with TCF should be closely monitored.
 
 Head and Neck Cancer
@@ -132,6 +132,6 @@ Other reported clinical experience with this treatment regimen has not identifie
 
 ## 8.6 Hepatic Impairment
 
-Avoid docetexel in patients with bilirubin >ULN and patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Avoid docetaxel in patients with bilirubin > ULN and patients with AST and/or ALT > 1.5 × ULN concomitant with alkaline phosphatase > 2.5 × ULN [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 The alcohol content of docetaxel injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.13)].

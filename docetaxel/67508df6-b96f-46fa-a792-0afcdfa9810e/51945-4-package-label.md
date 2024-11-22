@@ -1,31 +1,31 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC: 70121-1221-1
+NDC 70121-1221-1
 
-Name: Docetaxel Injection, USP
+Docetaxel Injection, USP
 
-Strength: 20 mg/mL
+20 mg/mL
 
-Rx Only
-
-Amneal Pharmaceuticals LLC
-
-NDC: 70121-1222-1
-
-Name: Docetaxel Injection, USP
-
-Strength: 80 mg/4 mL
-
-Rx Only
+Rx only
 
 Amneal Pharmaceuticals LLC
 
-NDC: 70121-1223-1
+NDC 70121-1222-1
 
-Name: Docetaxel Injection, USP
+Docetaxel Injection, USP
 
-Strength: 160 mg/8 mL
+80 mg/4 mL
 
-Rx Only
+Rx only
+
+Amneal Pharmaceuticals LLC
+
+NDC 70121-1223-1
+
+Docetaxel Injection, USP
+
+160 mg/8 mL
+
+Rx only
 
 Amneal Pharmaceuticals LLC

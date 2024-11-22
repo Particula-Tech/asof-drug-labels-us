@@ -4,7 +4,7 @@
 
 Breast Cancer
 
-Docetaxel administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2.0% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT >1.5 times ULN together with AP >2.5 times ULN).
+Docetaxel administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT > 1.5 times ULN together with AP > 2.5 times ULN).
 Among patients dosed at 60 mg/m2, mortality related to treatment occurred in 0.6% (3/481) of patients with normal liver function, and in 3 of 7 patients with abnormal liver function.
 Approximately half of these deaths occurred during the first cycle.
 Sepsis accounted for the majority of the deaths.
@@ -19,28 +19,28 @@ Among patients who experienced treatment-related mortality at the 75 mg/m2 dose 
 
 Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
 
-Avoid docetaxel in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Warnings and Precautions (5.1)].
+Avoid docetaxel in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT > 1.5 × ULN concomitant with alkaline phosphatase > 2.5 × ULN [see Warnings and Precautions (5.1)].
 
-For patients with isolated elevations of transaminase >1.5 × ULN, consider docetaxel dose modifications [see Dosage and Administration (2.7)].
+For patients with isolated elevations of transaminase > 1.5 × ULN, consider docetaxel dose modifications [see Dosage and Administration (2.7)].
 
 Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of docetaxel therapy.
 
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving docetaxel.
-Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
-Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level > 1,500 cells/mm3 [see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level > 100,000 cells/mm3.
 
-A 25% reduction in the dose of docetaxel is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel cycle [see Dosage and Administration (2.7)].
+A 25% reduction in the dose of docetaxel is recommended during subsequent cycles following severe neutropenia (< 500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel cycle [see Dosage and Administration (2.7)].
 
-Neutropenia (<2,000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
+Neutropenia (< 2,000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (< 500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
-Docetaxel should not be administered to patients with neutrophils <1,500 cells/mm3.
+Docetaxel should not be administered to patients with neutrophils < 1,500 cells/mm3.
 
 Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
 Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
 
-Three breast cancer patients with severe liver impairment (bilirubin >1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia.
+Three breast cancer patients with severe liver impairment (bilirubin > 1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia.
 In gastric cancer patients treated with docetaxel in combination with cisplatin and fluorouracil (TCF), febrile neutropenia and/or neutropenic infection occurred in 12% of patients receiving G-CSF compared to 28% who did not.
 Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)].
 
@@ -137,7 +137,7 @@ Advise male patients with female partners of reproductive potential to use effec
 Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
 The alcohol content in a dose of docetaxel injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
 Consideration should be given to the alcohol content in docetaxel injection on the ability to drive or use machines immediately after the infusion.
-Each administration of docetaxel injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
+Each administration of docetaxel injection at 100 mg/m2 delivers 2 g/m2 of ethanol.
 For a patient with a BSA of 2 m2, this would deliver 4 g of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
 

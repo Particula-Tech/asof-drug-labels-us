@@ -2,7 +2,7 @@
 
 For all indications, toxicities may warrant dosage adjustments [see Dosage and Administration (2.7)].
 
-Administer in a facility equipped to manage possible complications (e.g. anaphylaxis).
+Administer in a facility equipped to manage possible complications (e.g., anaphylaxis).
 
 ## 2.1 Breast Cancer
 
@@ -58,14 +58,14 @@ For metastatic castration-resistant prostate cancer, given the concurrent use of
 
 Breast Cancer
 
-Patients who are dosed initially at 100 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than 1 week, or severe or cumulative cutaneous reactions during docetaxel injection therapy should have the dosage adjusted from 100 mg/m2 to 75 mg/m2.
+Patients who are dosed initially at 100 mg/m2 and who experience either febrile neutropenia, neutrophils < 500 cells/mm3 for more than 1 week, or severe or cumulative cutaneous reactions during docetaxel injection therapy should have the dosage adjusted from 100 mg/m2 to 75 mg/m2.
 If the patient continues to experience these reactions, the dosage should either be decreased from 75 mg/m2 to 55 mg/m2 or the treatment should be discontinued.
-Conversely, patients who are dosed initially at 60 mg/m2 and who do not experience febrile neutropenia, neutrophils <500 cells/mm3 for more than 1 week, severe or cumulative cutaneous reactions, or severe peripheral neuropathy during docetaxel injection therapy may tolerate higher doses.
-Patients who develop ≥grade 3 peripheral neuropathy should have docetaxel injection treatment discontinued entirely.
+Conversely, patients who are dosed initially at 60 mg/m2 and who do not experience febrile neutropenia, neutrophils < 500 cells/mm3 for more than 1 week, severe or cumulative cutaneous reactions, or severe peripheral neuropathy during docetaxel injection therapy may tolerate higher doses.
+Patients who develop ≥ grade 3 peripheral neuropathy should have docetaxel injection treatment discontinued entirely.
 
 Combination Therapy with Docetaxel Injection in the Adjuvant Treatment of Breast Cancer
 
-Docetaxel injection in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥1,500 cells/mm3.
+Docetaxel injection in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥ 1,500 cells/mm3.
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
 Patients who continue to experience this reaction should remain on G-CSF and have their docetaxel injection dose reduced to 60 mg/m2.
 Patients who experience grade 3 or 4 stomatitis should have their docetaxel injection dose decreased to 60 mg/m2.
@@ -76,12 +76,12 @@ Non-small Cell Lung Cancer
 
 Monotherapy with docetaxel injection for NSCLC treatment after failure of prior platinum-based chemotherapy
 
-Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during docetaxel injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
-Patients who develop ≥grade 3 peripheral neuropathy should have docetaxel injection treatment discontinued entirely.
+Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils < 500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during docetaxel injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
+Patients who develop ≥ grade 3 peripheral neuropathy should have docetaxel injection treatment discontinued entirely.
 
 Combination therapy with docetaxel injection for chemotherapy-naive NSCLC
 
-For patients who are dosed initially at docetaxel injection 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the docetaxel injection dosage in subsequent cycles should be reduced to 65 mg/m2.
+For patients who are dosed initially at docetaxel injection 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is < 25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the docetaxel injection dosage in subsequent cycles should be reduced to 65 mg/m2.
 In patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
 For cisplatin dosage adjustments, see manufacturers’ prescribing information.
 
@@ -89,8 +89,8 @@ Prostate Cancer
 
 Combination therapy with docetaxel injection for metastatic castration-resistant prostate cancer
 
-Docetaxel injection should be administered when the neutrophil count is ≥1,500 cells/mm3.
-Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel injection therapy should have the dosage of docetaxel injection reduced from 75 mg/m2 to 60 mg/m2.
+Docetaxel injection should be administered when the neutrophil count is ≥ 1,500 cells/mm3.
+Patients who experience either febrile neutropenia, neutrophils < 500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel injection therapy should have the dosage of docetaxel injection reduced from 75 mg/m2 to 60 mg/m2.
 If the patient continues to experience these reactions at 60 mg/m2, the treatment should be discontinued.
 
 Gastric or Head and Neck Cancer
@@ -102,8 +102,8 @@ In both studies, G-CSF was recommended during the second and/or subsequent cycle
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the docetaxel injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
 If subsequent episodes of complicated neutropenia occur the docetaxel injection dose should be reduced from 60 mg/m2 to 45 mg/m2.
 In case of grade 4 thrombocytopenia the docetaxel injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
-Do not retreat patients with subsequent cycles of docetaxel injection until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
-Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of docetaxel injection until neutrophils recover to a level > 1,500 cells/mm3 [see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level > 100,000 cells/mm3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
 Recommended dose modifications for toxicities in patients treated with docetaxel injection in combination with cisplatin and fluorouracil are shown in Table 1.
@@ -117,9 +117,9 @@ Table 1: Recommended Dose Modifications for Toxicities in Patients Treated with 
 | Stomatitis/mucositisgrade 3 | First episode: reduce fluorouracil dose by 20%.Second episode: stop fluorouracil only, at all subsequent cycles.Third episode: reduce docetaxel injection dose by 20%. |
 | Stomatitis/mucositisgrade 4 | First episode: stop fluorouracil only, at all subsequent cycles.Second episode: reduce docetaxel injection dose by 20%. |
 
-Liver dysfunction: In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, docetaxel injection should be reduced by 20%.
+Liver dysfunction: In case of AST/ALT > 2.5 to ≤ 5 × ULN and AP ≤ 2.5 × ULN, or AST/ALT > 1.5 to ≤ 5 × ULN and AP > 2.5 to ≤ 5 × ULN, docetaxel injection should be reduced by 20%.
 
-In case of AST/ALT >5 x ULN and/or AP >5 x ULN docetaxel injection should be stopped.
+In case of AST/ALT > 5 × ULN and/or AP > 5 × ULN docetaxel injection should be stopped.
 
 The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below.
 
@@ -133,17 +133,17 @@ In the case of neurological signs or symptoms, more frequent examinations should
 
 Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.
 
-Nephrotoxicity: In the event of a rise in serum creatinine ≥grade 2 (>1.5 x normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
+Nephrotoxicity: In the event of a rise in serum creatinine ≥ grade 2 (> 1.5 × normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
 
 For other cisplatin dosage adjustments, also refer to the manufacturers’ prescribing information.
 
 Table 2: Dose Reductions for Evaluation of Creatinine Clearance
 
-| Creatinine clearance resultbefore next cycle | Cisplatin dose next cycle |
+| Creatinine clearance result before next cycle | Cisplatin dose next cycle |
 | --- | --- |
-| CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
-| CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle.If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
-| CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only.If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued.If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle.If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
+| CrCl ≥ 60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
+| CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was > 60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle.If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
+| CrCl < 40 mL/min | Dose of cisplatin was omitted in that treatment cycle only.If CrCl was still < 40 mL/min at the end of cycle, cisplatin was discontinued.If CrCl was > 40 and < 60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle.If CrCl was > 60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
 | CrCl = Creatinine clearance |  |
 
 Fluorouracil dose modifications and treatment delays
@@ -153,7 +153,7 @@ For diarrhea and stomatitis, see Table 1.
 In the event of grade 2 or greater plantar-palmar toxicity, fluorouracil should be stopped until recovery.
 The fluorouracil dosage should be reduced by 20%.
 
-For other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤1 and then recommenced, if medically appropriate.
+For other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤ 1 and then recommenced, if medically appropriate.
 
 For other fluorouracil dosage adjustments, also refer to the manufacturers’ prescribing information.
 
