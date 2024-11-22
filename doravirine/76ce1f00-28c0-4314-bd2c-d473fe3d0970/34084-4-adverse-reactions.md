@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Immune Reconstitution Syndrome [see Warnings and Precautions (5.2)]
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,16 +12,16 @@ Adverse Reactions in Adults with No Antiretroviral Treatment History
 
 The safety assessment of PIFELTRO used in combination with other antiretroviral agents is based on Week 96 data from two Phase 3, randomized, international, multicenter, double-blind, active-controlled trials (DRIVE-FORWARD (Protocol 018) and DRIVE-AHEAD (Protocol 021)).
 
-In DRIVE-FORWARD, 766 adult subjects received either PIFELTRO 100 mg (n=383) or darunavir 800 mg + ritonavir 100 mg (DRV+r) (n=383) once daily, each in combination with emtricitabine/tenofovir disoproxil fumarate (FTC/TDF) or abacavir/lamivudine (ABC/3TC).
+In DRIVE-FORWARD, 766 adult participants received either PIFELTRO 100 mg (n=383) or darunavir 800 mg + ritonavir 100 mg (DRV+r) (n=383) once daily, each in combination with emtricitabine/tenofovir disoproxil fumarate (FTC/TDF) or abacavir/lamivudine (ABC/3TC).
 By Week 96, 2% in the PIFELTRO group and 3% in the DRV+r group had adverse events leading to discontinuation of study medication.
 
-In DRIVE-AHEAD, 728 adult subjects received either DELSTRIGO [doravirine (DOR)/3TC/TDF] (n=364) or efavirenz (EFV)/FTC/TDF once daily (n=364).
+In DRIVE-AHEAD, 728 adult participants received either DELSTRIGO [doravirine (DOR)/3TC/TDF] (n=364) or efavirenz (EFV)/FTC/TDF once daily (n=364).
 By Week 96, 3% in the DELSTRIGO group and 7% in the EFV/FTC/TDF group had adverse events leading to discontinuation of study medication.
 
-Adverse reactions reported in greater than or equal to 5% of subjects in any treatment group in DRIVE-FORWARD and DRIVE-AHEAD are presented in Table 1.
+Adverse reactions reported in greater than or equal to 5% of participants in any treatment group in DRIVE-FORWARD and DRIVE-AHEAD are presented in Table 1.
 
 Table 1: Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
-(All Grades) Reported in ≥5%No adverse reactions of Grade 2 or higher (moderate or severe) occurred in ≥ 2% of subjects treated with doravirine. of Subjects in Any Treatment Group in Adults with No Antiretroviral Treatment History in DRIVE-FORWARD and DRIVE-AHEAD (Week 96)
+(All Grades) Reported in ≥5%No adverse reactions of Grade 2 or higher (moderate or severe) occurred in ≥ 2% of participants treated with doravirine. of Participants in Any Treatment Group in Adults with No Antiretroviral Treatment History in DRIVE-FORWARD and DRIVE-AHEAD (Week 96)
 
 | PIFELTRO+2 NRTIsNRTI = nucleoside reverse transcriptase inhibitor. Once Daily N=383 | DRV+r+2 NRTIs Once Daily N=383 | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 |  |
 | --- | --- | --- | --- | --- |
@@ -42,12 +42,12 @@ The majority (77%) of adverse reactions associated with doravirine occurred at s
 
 Neuropsychiatric Adverse Events
 
-For DRIVE-AHEAD, the analysis of subjects with neuropsychiatric adverse events by Week 48 is presented in Table 2.
-The proportion of subjects who reported one or more neuropsychiatric adverse events was 24% and 57% in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
+For DRIVE-AHEAD, the analysis of participants with neuropsychiatric adverse events by Week 48 is presented in Table 2.
+The proportion of participants who reported one or more neuropsychiatric adverse events was 24% and 57% in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
 
-A statistically significantly lower proportion of DELSTRIGO-treated subjects compared to EFV/FTC/TDF-treated subjects reported neuropsychiatric adverse events by Week 48 in the three pre-specified categories of dizziness, sleep disorders and disturbances, and altered sensorium.
+A statistically significantly lower proportion of DELSTRIGO-treated participants compared to EFV/FTC/TDF-treated participants reported neuropsychiatric adverse events by Week 48 in the three pre-specified categories of dizziness, sleep disorders and disturbances, and altered sensorium.
 
-Table 2: DRIVE-AHEAD - Analysis of Subjects with Neuropsychiatric Adverse EventsAll causality and all grade events were included in the analysis.
+Table 2: DRIVE-AHEAD - Analysis of Participants with Neuropsychiatric Adverse EventsAll causality and all grade events were included in the analysis.
 (Week 48)
 
 |  | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 | Treatment Difference DELSTRIGO - EFV/FTC/TDF Estimate (95% CI)The 95% CIs were calculated using Miettinen and Nurminen's method. Categories pre-specified for statistical testing were dizziness (p <0.001), sleep disorders and disturbances (p <0.001), and altered sensorium (p=0.033). |
@@ -56,26 +56,26 @@ Table 2: DRIVE-AHEAD - Analysis of Subjects with Neuropsychiatric Adverse Events
 | Dizziness | 9% | 37% | -28.3 (-34.0, -22.5) |
 | Altered sensoriumPredefined using MedDRA preferred terms, including: altered state of consciousness, lethargy, somnolence, syncope. | 4% | 8% | -3.8 (-7.6, -0.3) |
 
-Neuropsychiatric adverse events in the pre-defined category of depression and suicide/self-injury were reported in 4% and 7% of subjects, in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
+Neuropsychiatric adverse events in the pre-defined category of depression and suicide/self-injury were reported in 4% and 7% of participants, in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
 
-In DRIVE-AHEAD through 48 weeks of treatment, the majority of subjects who reported neuropsychiatric adverse events reported events that were mild to moderate in severity (97% [83/86] and 96% [198/207], in the DELSTRIGO and EFV/FTC/TDF groups, respectively) and the majority of subjects reported these events in the first 4 weeks of treatment (72% [62/86] in the DELSTRIGO group and 86% [177/207] in the EFV/FTC/TDF group).
+In DRIVE-AHEAD through 48 weeks of treatment, the majority of participants who reported neuropsychiatric adverse events reported events that were mild to moderate in severity (97% [83/86] and 96% [198/207], in the DELSTRIGO and EFV/FTC/TDF groups, respectively) and the majority of participants reported these events in the first 4 weeks of treatment (72% [62/86] in the DELSTRIGO group and 86% [177/207] in the EFV/FTC/TDF group).
 
-Neuropsychiatric adverse events led to treatment discontinuation in 1% (2/364) and 1% (5/364) of subjects in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
-The proportion of subjects who reported neuropsychiatric adverse events through Week 4 was 17% (62/364) in the DELSTRIGO group and 49% (177/364) in the EFV/FTC/TDF group.
+Neuropsychiatric adverse events led to treatment discontinuation in 1% (2/364) and 1% (5/364) of participants in the DELSTRIGO and EFV/FTC/TDF groups, respectively.
+The proportion of participants who reported neuropsychiatric adverse events through Week 4 was 17% (62/364) in the DELSTRIGO group and 49% (177/364) in the EFV/FTC/TDF group.
 At Week 48, the prevalence of neuropsychiatric adverse events was 12% (44/364) in the DELSTRIGO group and 22% (81/364) in the EFV/FTC/TDF group.
 At Week 96, the prevalence of neuropsychiatric adverse events was 13% (47/364) in the DELSTRIGO group and 23% (82/364) in the EFV/FTC/TDF group.
 
 Laboratory Abnormalities
 
-The percentages of subjects with selected laboratory abnormalities (that represent a worsening from baseline) who were treated with PIFELTRO or DRV+r in DRIVE-FORWARD, or DELSTRIGO or EFV/FTC/TDF in DRIVE-AHEAD are presented in Table 3.
+The percentages of participants with selected laboratory abnormalities (that represent a worsening from baseline) who were treated with PIFELTRO or DRV+r in DRIVE-FORWARD, or DELSTRIGO or EFV/FTC/TDF in DRIVE-AHEAD are presented in Table 3.
 
-Table 3: Selected Laboratory Abnormalities Reported in Adult Subjects with No Antiretroviral Treatment History in DRIVE-FORWARD and DRIVE-AHEAD (Week 96)
+Table 3: Selected Laboratory Abnormalities Reported in Adult Participants with No Antiretroviral Treatment History in DRIVE-FORWARD and DRIVE-AHEAD (Week 96)
 
 | Blood Chemistry |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | DRIVE-FORWARD |  | DRIVE-AHEAD |  |
 | Laboratory Parameter Preferred Term (Unit)/Limit | PIFELTRO+2 NRTIs Once Daily N=383 | DRV+r+2 NRTIs Once Daily N=383 | DELSTRIGO Once Daily N=364 | EFV/FTC/TDF Once Daily N=364 |
-| Total bilirubin |  |  |  |  |
+| Total bilirubin (mg/dL) |  |  |  |  |
 | 1.1 - < 1.6 × ULN | 6% | 2% | 5% | 0% |
 | 1.6 - <2.6 × ULN | 2% | <1% | 2% | 0% |
 | ≥2.6 × ULN | <1% | 0% | 1% | <1% |
@@ -103,7 +103,7 @@ Table 3: Selected Laboratory Abnormalities Reported in Adult Subjects with No An
 | ≥190 mg/dL | <1% | 4% | <1% | 2% |
 | Triglycerides, fasted (mg/dL) |  |  |  |  |
 | >500 mg/dL | 1% | 2% | 1% | 3% |
-| Each subject is only counted once per parameter at the highest toxicity grade. Only subjects with a baseline value and at least one on-treatment value for a given laboratory parameter are included. ULN = Upper limit of normal range. Note: NRTIs = FTC/TDF or ABC/3TC. |  |  |  |  |
+| Each participant is only counted once per parameter at the highest toxicity grade. Only participants with a baseline value and at least one on-treatment value for a given laboratory parameter are included. ULN = Upper limit of normal range. Note: NRTIs = FTC/TDF or ABC/3TC. |  |  |  |  |
 
 Change in Lipids from Baseline
 
@@ -114,7 +114,7 @@ The LDL and non-HDL comparisons were pre-specified and are summarized in Table 4
 The differences were statistically significant, showing superiority for doravirine for both parameters.
 The clinical benefit of these findings has not been demonstrated.
 
-Table 4: Mean Change from Baseline in Fasting Lipids in Adult Subjects with No Antiretroviral Treatment History in DRIVE-FORWARD and DRIVE-AHEAD (Week 48)
+Table 4: Mean Change from Baseline in Fasting Lipids in Adult Participants with No Antiretroviral Treatment History in DRIVE-FORWARD and DRIVE-AHEAD (Week 48)
 
 |  | DRIVE-FORWARD |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -133,28 +133,28 @@ Table 4: Mean Change from Baseline in Fasting Lipids in Adult Subjects with No A
 | Total Cholesterol (mg/dL) | 156.8 | -2.2 | 156.8 | 21.1 | - |
 | Triglycerides (mg/dL) | 118.7 | -12.0 | 122.6 | 21.6 | - |
 | HDL-Cholesterol (mg/dL) | 42.1 | 1.8 | 41.6 | 8.4 | - |
-| Subjects on lipid-lowering agents at baseline were excluded from these analyses (in DRIVE-FORWARD: PIFELTRO n=12 and DRV+r n=14; in DRIVE-AHEAD: DELSTRIGO n=15 and EFV/FTC/TDF n=10). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (in DRIVE-FORWARD: PIFELTRO n=6 and DRV+r n=4; in DRIVE-AHEAD: DELSTRIGO n=3 and EFV/FTC/TDF n=8). |  |  |  |  |  |
+| Participants on lipid-lowering agents at baseline were excluded from these analyses (in DRIVE-FORWARD: PIFELTRO n=12 and DRV+r n=14; in DRIVE-AHEAD: DELSTRIGO n=15 and EFV/FTC/TDF n=10). Participants initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (in DRIVE-FORWARD: PIFELTRO n=6 and DRV+r n=4; in DRIVE-AHEAD: DELSTRIGO n=3 and EFV/FTC/TDF n=8). |  |  |  |  |  |
 
 Adverse Reactions in Virologically-Suppressed Adults
 
-The safety of DELSTRIGO in virologically-suppressed adults was based on Week 48 data from 670 subjects in the DRIVE-SHIFT trial (Protocol 024), a randomized, international, multicenter, open-label trial in which virologically-suppressed subjects were switched from a baseline regimen consisting of two NRTIs in combination with a protease inhibitor (PI) plus either ritonavir or cobicistat, or elvitegravir plus cobicistat, or a non-nucleoside reverse transcriptase inhibitor (NNRTI) to DELSTRIGO.
-Overall, the safety profile in virologically-suppressed adult subjects was similar to that in subjects with no antiretroviral treatment history.
+The safety of DELSTRIGO in virologically-suppressed adults was based on Week 48 data from 670 participants in the DRIVE-SHIFT trial (Protocol 024), a randomized, international, multicenter, open-label trial in which virologically-suppressed participants were switched from a baseline regimen consisting of two NRTIs in combination with a protease inhibitor (PI) plus either ritonavir or cobicistat, or elvitegravir plus cobicistat, or a non-nucleoside reverse transcriptase inhibitor (NNRTI) to DELSTRIGO.
+Overall, the safety profile in virologically-suppressed adult participants was similar to that in participants with no antiretroviral treatment history.
 
 Laboratory Abnormalities
 
-Serum ALT and AST Elevations: In the DRIVE-SHIFT trial, 22% and 16% of subjects in the immediate switch group experienced ALT and AST elevations greater than 1.25 × ULN, respectively, through 48 weeks on DELSTRIGO.
+Serum ALT and AST Elevations: In the DRIVE-SHIFT trial, 22% and 16% of participants in the immediate switch group experienced ALT and AST elevations greater than 1.25 × ULN, respectively, through 48 weeks on DELSTRIGO.
 For these ALT and AST elevations, no apparent patterns with regard to time to onset relative to switch were observed.
-One percent of subjects had ALT or AST elevations greater than 5 × ULN through 48 weeks on DELSTRIGO.
+One percent of participants had ALT or AST elevations greater than 5 × ULN through 48 weeks on DELSTRIGO.
 The ALT and AST elevations were generally asymptomatic and not associated with bilirubin elevations.
-In comparison, 4% and 4% of subjects in the delayed switch group experienced ALT and AST elevations of greater than 1.25 × ULN through 24 weeks on their baseline regimen.
+In comparison, 4% and 4% of participants in the delayed switch group experienced ALT and AST elevations of greater than 1.25 × ULN through 24 weeks on their baseline regimen.
 
 Change in Lipids from Baseline
 
-Changes from baseline at Week 24 in LDL-cholesterol, non-HDL-cholesterol, total cholesterol, triglycerides, and HDL-cholesterol in subjects on a PI plus ritonavir-based regimen at baseline are shown in Table 5.
+Changes from baseline at Week 24 in LDL-cholesterol, non-HDL-cholesterol, total cholesterol, triglycerides, and HDL-cholesterol in participants on a PI plus ritonavir-based regimen at baseline are shown in Table 5.
 The LDL and non-HDL comparisons were pre-specified, and the differences were statistically significant, showing superiority for an immediate switch to DELSTRIGO for both parameters.
 The clinical benefit of these findings has not been demonstrated.
 
-Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Suppressed Subjects on a PI plus Ritonavir-based Regimen at Baseline in DRIVE-SHIFT (Week 24)
+Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Suppressed Participants on a PI plus Ritonavir-based Regimen at Baseline in DRIVE-SHIFT (Week 24)
 
 |  | Baseline | Change | Baseline | Change | Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -164,12 +164,19 @@ Table 5: Mean Change from Baseline in Fasting Lipids in Adult Virologically-Supp
 | Total Cholesterol (mg/dL)Not pre-specified for hypothesis testing. | 188.5 | -26.1 | 187.4 | -0.2 | - |
 | Triglycerides (mg/dL) | 153.1 | -44.4 | 151.4 | -0.4 | - |
 | HDL-Cholesterol (mg/dL) | 50.0 | -1.3 | 48.5 | 1.9 | - |
-| Subjects on lipid-lowering agents at baseline were excluded from these analyses (DELSTRIGO n=26 and PI+ritonavir n=13). |  |  |  |  |  |
-| Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (DELSTRIGO n=4 and PI+ritonavir n=2). |  |  |  |  |  |
+| Participants on lipid-lowering agents at baseline were excluded from these analyses (DELSTRIGO n=26 and PI+ritonavir n=13). |  |  |  |  |  |
+| Participants initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (DELSTRIGO n=4 and PI+ritonavir n=2). |  |  |  |  |  |
 
-Adverse Reactions in Pediatric Patients
+Adverse Reactions in Pediatric Participants
 
-The safety of doravirine as a component of DELSTRIGO was evaluated in 45 HIV-1-infected virologically-suppressed or treatment-naïve pediatric patients 12 to less than 18 years of age through Week 24 in an open-label trial (IMPAACT 2014 (Protocol 027)) [see Clinical Studies (14.3)].
-The safety profile in pediatric subjects was similar to that in adults.
+The safety of doravirine as a component of DELSTRIGO was evaluated in 45 virologically-suppressed or treatment-naïve pediatric participants 12 to less than 18 years of age living with HIV through Week 24 in an open-label trial (IMPAACT 2014 (Protocol 027)) [see Clinical Studies (14.3)].
+The safety profile in pediatric participants was similar to that in adults.
 There were no serious or Grade 3 or 4 adverse reactions.
-No subjects discontinued due to an adverse event.
+No participants discontinued due to an adverse event.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postmarketing experience in patients receiving doravirine-containing regimens.
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN)

@@ -30,11 +30,9 @@ Doravirine was transferred to the fetus through the placenta in embryo-fetal stu
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking potential transmission of HIV-1 infection.
-
 It is unknown whether doravirine is present in human milk, affects human milk production, or has effects on the breastfed infant.
 Doravirine is present in the milk of lactating rats (see Data).
-Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving PIFELTRO.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1-negative infants), (2) developing viral resistance (in HIV-1-positive infants), and (3) serious adverse reactions in a breastfed infant in a breastfed infant similar to those seen in adults.
 
 Data
 
@@ -44,15 +42,14 @@ Doravirine was excreted into the milk of lactating rats following oral administr
 
 The safety and efficacy of PIFELTRO for the treatment of HIV-1 infection have been established in pediatric patients weighing at least 35 kg [see Indications and Usage (1) and Dosage and Administration (2.1)].
 
-Use of PIFELTRO in this group is supported by evidence from adequate and well-controlled trials in adults and an open-label trial in virologically-suppressed or treatment-naïve pediatric subjects 12 to less than 18 years of age.
-The safety, efficacy, and exposure of doravirine in these pediatric subjects were similar to that in adults.
-[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3).]
+Use of PIFELTRO in this group is supported by evidence from adequate and well-controlled trials in adults and an open-label trial in virologically-suppressed or treatment-naïve pediatric participants 12 to less than 18 years of age.
+The safety, efficacy, and exposure of doravirine in these pediatric participants were similar to that in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
 
 Safety and efficacy of PIFELTRO in pediatric patients weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of PIFELTRO did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
+Clinical trials of PIFELTRO did not include sufficient numbers of participants aged 65 years and over to determine whether they respond differently from younger participants.
 In general, caution should be exercised in the administration of PIFELTRO in elderly patients, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment

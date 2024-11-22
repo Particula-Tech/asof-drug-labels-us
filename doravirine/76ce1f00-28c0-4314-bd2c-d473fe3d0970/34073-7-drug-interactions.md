@@ -2,7 +2,7 @@
 
 ## 7.1 Effect of Other Drugs on PIFELTRO
 
-Co-administration of PIFELTRO with a CYP3A inducer decreases doravirine plasma concentrations, which may reduce PIFELTRO efficacy [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Co-administration of PIFELTRO with a CYP3A inducer decreases doravirine plasma concentrations, which may reduce PIFELTRO efficacy [see Contraindications (4), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 Co-administration of PIFELTRO and drugs that are inhibitors of CYP3A may result in increased plasma concentrations of doravirine.
 
 Table 6 shows significant drug interactions with PIFELTRO.

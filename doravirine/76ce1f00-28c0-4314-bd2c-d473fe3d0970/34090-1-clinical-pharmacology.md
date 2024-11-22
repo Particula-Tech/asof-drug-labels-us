@@ -6,7 +6,7 @@ Doravirine is an antiretroviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a Phase 2 trial evaluating doravirine over a dose range of 0.25 to 2 times the recommended dose of PIFELTRO, (in combination with FTC/TDF) in HIV-1-infected subjects with no antiretroviral treatment history, no exposure-response relationship for efficacy was identified for doravirine.
+In a Phase 2 trial evaluating doravirine over a dose range of 0.25 to 2 times the recommended dose of PIFELTRO, (in combination with FTC/TDF) in participants living with HIV with no antiretroviral treatment history, no exposure-response relationship for efficacy was identified for doravirine.
 
 Cardiac Electrophysiology
 
@@ -14,7 +14,7 @@ At a doravirine dose of 1200 mg, which provides approximately 4 times the peak c
 
 ## 12.3 Pharmacokinetics
 
-Doravirine pharmacokinetics are similar in healthy subjects and HIV-1-infected subjects.
+Doravirine pharmacokinetics are similar in healthy participants and participants living with HIV.
 Doravirine pharmacokinetics are provided in Table 7.
 
 Table 7: Pharmacokinetic Properties of Doravirine
@@ -22,7 +22,7 @@ Table 7: Pharmacokinetic Properties of Doravirine
 | Parameter | Doravirine |
 | --- | --- |
 | General |  |
-| Steady State ExposureDoravirine 100 mg once daily to HIV-1-infected subjects,Presented as geometric mean (%CV: geometric coefficient of variation) |  |
+| Steady State ExposureDoravirine 100 mg once daily to participants living with HIV,Presented as geometric mean (%CV: geometric coefficient of variation) |  |
 | AUC0-24 (mcg∙h/mL) | 16.1 (29) |
 | Cmax (mcg/mL) | 0.962 (19) |
 | C24 (mcg/mL) | 0.396 (63) |
@@ -56,22 +56,22 @@ In adults, no clinically significant difference on the pharmacokinetics of dorav
 
 Patients with Renal Impairment
 
-In a study comparing 8 subjects with severe renal impairment to 8 subjects without renal impairment, the single dose exposure of doravirine was 43% higher in subjects with severe renal impairment.
+In a study comparing 8 participants with severe renal impairment to 8 participants without renal impairment, the single dose exposure of doravirine was 43% higher in participants with severe renal impairment.
 In a population pharmacokinetic analysis, renal function did not have a clinically relevant effect on doravirine pharmacokinetics.
 Doravirine has not been studied in patients with end-stage renal disease or in patients undergoing dialysis [see Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-No clinically significant difference in the pharmacokinetics of doravirine was observed in subjects with moderate hepatic impairment (Child-Pugh score B) compared to subjects without hepatic impairment.
-Doravirine has not been studied in subjects with severe hepatic impairment (Child-Pugh score C) [see Use in Specific Populations (8.7)].
+No clinically significant difference in the pharmacokinetics of doravirine was observed in participants with moderate hepatic impairment (Child-Pugh score B) compared to participants without hepatic impairment.
+Doravirine has not been studied in participants with severe hepatic impairment (Child-Pugh score C) [see Use in Specific Populations (8.7)].
 
 Pediatric Patients
 
-Mean doravirine exposures were similar in 54 pediatric patients aged 12 to less than 18 years and weighing at least 35 kg who received doravirine or DELSTRIGO in IMPAACT 2014 (Protocol 027) relative to adults following administration of doravirine or DELSTRIGO (Table 8).
-For pediatric patients weighing ≥ 35 kg and < 45 kg who receive doravirine 100 mg or DELSTRIGO, the population pharmacokinetic model-predicted mean C24 of doravirine was comparable to that achieved in adults, whereas mean AUC0-24 and Cmax of doravirine were 25% and 36% higher than adult values, respectively.
+Mean doravirine exposures were similar in 54 pediatric participants aged 12 to less than 18 years and weighing at least 35 kg who received doravirine or DELSTRIGO in IMPAACT 2014 (Protocol 027) relative to adults following administration of doravirine or DELSTRIGO (Table 8).
+For pediatric participants weighing ≥ 35 kg and < 45 kg who received doravirine 100 mg or DELSTRIGO, the population pharmacokinetic model-predicted mean C24 of doravirine was comparable to that achieved in adults, whereas mean AUC0-24 and Cmax of doravirine were 25% and 36% higher than adult values, respectively.
 However, the predicted AUC0-24 and Cmax increases are not considered clinically significant.
 
-Table 8: Steady State Pharmacokinetics for Doravirine Following Administration of Doravirine or DELSTRIGO in HIV-1-Infected Pediatric Patients Aged 12 to Less than 18 Years and Weighing at Least 35 kg
+Table 8: Steady State Pharmacokinetics for Doravirine Following Administration of Doravirine or DELSTRIGO in Pediatric Participants Living with HIV Aged 12 to Less than 18 Years and Weighing at Least 35 kg
 
 | ParameterPresented as geometric mean (%CV: geometric coefficient of variation) | DoravirineFrom population PK analysis (n=53 weighing ≥45 kg, n=1 weighing ≥35 kg to <45 kg) |
 | --- | --- |
@@ -142,28 +142,28 @@ In Clinical Trials
 
 Clinical Trial Results in Adults with No Antiretroviral Treatment History
 
-In the doravirine treatment arms of the DRIVE-FORWARD and DRIVE-AHEAD trials (n=747) through Week 96, 13 subjects showed the emergence of doravirine resistance-associated substitutions in their HIV among 36 (36%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having post-baseline resistance samples).
+In the doravirine treatment arms of the DRIVE-FORWARD and DRIVE-AHEAD trials (n=747) through Week 96, 13 participants showed the emergence of doravirine resistance-associated substitutions in their HIV among 36 (36%) participants in the resistance analysis subset (participants with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having post-baseline resistance samples).
 Emergent doravirine resistance-associated substitutions in RT included one or more of the following: V90G/I, A98G, V106A, V106I, V106M/T, V108I, E138G, Y188L, H221Y, P225H, P225L, P225P/S, F227C, F227C/R, Y318Y/F and Y318Y/S.
-Eight of 13 (62%) subjects with emergent doravirine resistance-associated substitutions showed doravirine phenotypic resistance and most of them had at least a 100-fold reduction in doravirine susceptibility (range >95- to >211–fold reduction in doravirine susceptibility).
+Eight of 13 (62%) participants with emergent doravirine resistance-associated substitutions showed doravirine phenotypic resistance and most of them had at least a 100-fold reduction in doravirine susceptibility (range >95- to >211–fold reduction in doravirine susceptibility).
 The other 5 virologic failures who had only amino acid mixtures of NNRTI resistance substitutions showed doravirine phenotypic fold-changes of less than 2-fold.
-Of the 36 subjects in the resistance analysis subset, 10 subjects (28%) developed genotypic and/or phenotypic resistance to the other drugs (abacavir, emtricitabine, lamivudine, or tenofovir) in the regimens of the DRIVE-FORWARD and DRIVE-AHEAD trials.
+Of the 36 participants in the resistance analysis subset, 10 participants (28%) developed genotypic and/or phenotypic resistance to the other drugs (abacavir, emtricitabine, lamivudine, or tenofovir) in the regimens of the DRIVE-FORWARD and DRIVE-AHEAD trials.
 The resistance-associated substitutions that emerged were RT M41L (n=1), A62A/V (n=1), K65R (n=2), T69T/A (n=1), V75V/I (n=1), and M184I or V (n=7).
 
-In the DRV/r treatment arm of the DRIVE-FORWARD trial (n=383) through Week 96, no subjects showed the emergence of darunavir resistance-associated substitutions among 15 subjects with resistance data and 2 of the subjects had emergent genotypic or phenotypic resistance to lamivudine or tenofovir.
-In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364) through Week 96, 15 subjects showed the emergence of efavirenz resistance-associated substitutions among 25 (60%) subjects in the resistance analysis subset and genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable subjects; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), M184I or V (n=5), and K219K/E (n=1).
+In the DRV/r treatment arm of the DRIVE-FORWARD trial (n=383) through Week 96, no participants showed the emergence of darunavir resistance-associated substitutions among 15 participants with resistance data and 2 of the participants had emergent genotypic or phenotypic resistance to lamivudine or tenofovir.
+In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364) through Week 96, 15 participants showed the emergence of efavirenz resistance-associated substitutions among 25 (60%) participants in the resistance analysis subset and genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable participants; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), M184I or V (n=5), and K219K/E (n=1).
 
 Clinical Trial Results in Virologically-Suppressed Adults
 
-In the DRIVE-SHIFT clinical trial [see Clinical Studies (14.2)], there were 6 subjects in the immediate switch group (n=447) and 2 subjects in the delayed switch group (n=209) who met the protocol-defined virologic failure criteria (confirmed HIV-1 RNA ≥ 50 copies/mL).
-Two of the 6 virologic failure subjects in the immediate switch group had available resistance data and neither developed detectable genotypic or phenotypic resistance to doravirine, lamivudine, or tenofovir during treatment with DELSTRIGO.
-One of the two virologic failure subjects in the delayed switch group who had available resistance data developed the RT M184M/I substitution and phenotypic resistance to emtricitabine and lamivudine during treatment with their baseline regimen.
+In the DRIVE-SHIFT clinical trial [see Clinical Studies (14.2)], there were 6 participants in the immediate switch group (n=447) and 2 participants in the delayed switch group (n=209) who met the protocol-defined virologic failure criteria (confirmed HIV-1 RNA ≥ 50 copies/mL).
+Two of the 6 virologic failure participants in the immediate switch group had available resistance data and neither developed detectable genotypic or phenotypic resistance to doravirine, lamivudine, or tenofovir during treatment with DELSTRIGO.
+One of the two virologic failure participants in the delayed switch group who had available resistance data developed the RT M184M/I substitution and phenotypic resistance to emtricitabine and lamivudine during treatment with their baseline regimen.
 
 Cross-Resistance
 
 Cross-resistance has been observed among NNRTIs.
 Treatment-emergent doravirine resistance-associated substitutions can confer cross-resistance to efavirenz, etravirine, nevirapine, and rilpivirine.
-Of the 8 virologic failure subjects who developed doravirine phenotypic resistance, all had phenotypic resistance to nevirapine, 6 had phenotypic resistance to efavirenz, 4 had phenotypic resistance to rilpivirine, and 4 had resistance to etravirine in the Monogram PhenoSense assay.
-Of the 11 virologic failure subjects in DRIVE-AHEAD phenotypically resistant to efavirenz, 2 (18%) had decreased susceptibility to doravirine (18- and 36-fold).
+Of the 8 virologic failure participants who developed doravirine phenotypic resistance, all had phenotypic resistance to nevirapine, 6 had phenotypic resistance to efavirenz, 4 had phenotypic resistance to rilpivirine, and 4 had resistance to etravirine in the Monogram PhenoSense assay.
+Of the 11 virologic failure participants in DRIVE-AHEAD phenotypically resistant to efavirenz, 2 (18%) had decreased susceptibility to doravirine (18- and 36-fold).
 
 The treatment-emergent doravirine resistance-associated substitution Y318F did not confer reduced susceptibility to efavirenz, etravirine, or rilpivirine.
 
