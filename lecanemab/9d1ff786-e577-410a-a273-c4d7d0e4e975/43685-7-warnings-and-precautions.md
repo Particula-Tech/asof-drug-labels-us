@@ -3,7 +3,7 @@
 ## 5.1Amyloid Related Imaging Abnormalities
 
 Monoclonal antibodies directed against aggregated forms of beta amyloid, including LEQEMBI, can cause amyloid related imaging abnormalities (ARIA), characterized as ARIA with edema (ARIA-E), which can be observed on MRI as brain edema or sulcal effusions, and ARIA with hemosiderin deposition (ARIA-H), which includes microhemorrhage and superficial siderosis.
-ARIA can occur spontaneously in patients with Alzheimer’s disease.
+ARIA can occur spontaneously in patients with Alzheimer’s disease, particularly in patients with MRI findings suggestive of cerebral amyloid angiopathy, such as pretreatment microhemorrhage or superficial siderosis.
 ARIA-H associated with monoclonal antibodies directed against aggregated forms of beta amyloid generally occurs in association with an occurrence of ARIA-E.
 ARIA-H of any cause and ARIA-E can occur together.
 
@@ -11,7 +11,6 @@ ARIA usually occurs early in treatment and is usually asymptomatic, although ser
 When present, reported symptoms associated with ARIA may include headache, confusion, visual changes, dizziness, nausea, and gait difficulty.
 Focal neurologic deficits may also occur.
 Symptoms associated with ARIA usually resolve over time.
-The risk of ARIA, including symptomatic and serious ARIA, is increased in apolipoprotein E ε4 (ApoE ε4) homozygotes.
 In addition to ARIA, intracerebral hemorrhages greater than 1 cm in diameter have occurred in patients treated with LEQEMBI.
 
 Consider the benefit of LEQEMBI for the treatment of Alzheimer’s disease and potential risk of serious adverse events associated with ARIA when deciding to initiate treatment with LEQEMBI.
@@ -25,25 +24,57 @@ Similar findings were observed in Study 1.
 
 Including asymptomatic radiographic events, ARIA was observed in 21% (191/898) of patients treated with LEQEMBI, compared to 9% (84/897) of patients on placebo in Study 2.
 
-ARIA-E was observed in 13% (113/898) of patients treated with LEQEMBI compared with 2% (15/897) of patients on placebo.
-ARIA-H was observed in 17% (152/898) of patients treated with LEQEMBI compared with 9% (80/897) of patients on placebo.
+ARIA-E was observed in 13% (113/898) of patients treated with LEQEMBI, compared to 2% (15/897) of patients on placebo.
+ARIA-H was observed in 17% (152/898) of patients treated with LEQEMBI, compared to 9% (80/897) of patients on placebo.
 There was no increase in isolated ARIA-H (i.e., ARIA-H in patients who did not also experience ARIA-E) for LEQEMBI compared to placebo.
 
-ApoE ε4 Carrier Status and Risk of ARIA
+Incidence of Intracerebral Hemorrhage
 
+Intracerebral hemorrhage greater than 1 cm in diameter was reported in 0.7% (6/898) of patients in Study 2 after treatment with LEQEMBI, compared to 0.1% (1/897) on placebo.
+Fatal events of intracerebral hemorrhage in patients taking LEQEMBI have been observed.
+
+Risk Factors for ARIA and Intracerebral Hemorrhage
+
+ApoE ε4 Carrier Status
+
+The risk of ARIA, including symptomatic and serious ARIA, is increased in apolipoprotein E ε4 (ApoE ε4) homozygotes.
 Approximately 15% of Alzheimer’s disease patients are ApoE ε4 homozygotes.
 In Study 2, 16% (141/898) of patients in the LEQEMBI arm were ApoE ε4 homozygotes, 53% (479/898) were heterozygotes, and 31% (278/898) were noncarriers.
 The incidence of ARIA was higher in ApoE ε4 homozygotes (45% on LEQEMBI vs. 22% on placebo) than in heterozygotes (19% on LEQEMBI vs 9% on placebo) and noncarriers (13% on LEQEMBI vs 4% on placebo).
-Among patients treated with LEQEMBI, symptomatic ARIA-E occurred in 9% of ApoE ε4 homozygotes compared with 2% of heterozygotes and 1% noncarriers.
+Among patients treated with LEQEMBI, symptomatic ARIA-E occurred in 9% of ApoE ε4 homozygotes compared to 2% of heterozygotes and 1% noncarriers.
 Serious events of ARIA occurred in 3% of ApoE ε4 homozygotes, and approximately 1% of heterozygotes and noncarriers.
 The recommendations on management of ARIA do not differ between ApoE ε4 carriers and noncarriers [see Dosage and Administration (2.3)].
 Testing for ApoE ε4 status should be performed prior to initiation of treatment to inform the risk of developing ARIA.
 Prior to testing, prescribers should discuss with patients the risk of ARIA across genotypes and the implications of genetic testing results.
-Prescribers should inform patients that if genotype testing is not performed they can still be treated with LEQEMBI; however, it cannot be determined if they are ApoE ε4 homozygotes and at higher risk for ARIA.
+Prescribers should inform patients that if genotype testing is not performed, they can still be treated with LEQEMBI; however, it cannot be determined if they are ApoE ε4 homozygotes and at higher risk for ARIA.
 An FDA-authorized test for the detection of ApoE ε4 alleles to identify patients at risk of ARIA if treated with LEQEMBI is not currently available.
 Currently available tests used to identify ApoE ε4 alleles may vary in accuracy and design.
 
-Radiographic Findings
+Radiographic Findings of Cerebral Amyloid Angiopathy (CAA)
+
+Neuroimaging findings that may indicate CAA include evidence of prior intracerebral hemorrhage, cerebral microhemorrhage, and cortical superficial siderosis.
+CAA has an increased risk for intracerebral hemorrhage.
+The presence of an ApoE ε4 allele is also associated with cerebral amyloid angiopathy.
+
+The baseline presence of at least 2 microhemorrhages or the presence of at least 1 area of superficial siderosis on MRI, which may be suggestive of CAA, have been identified as risk factors for ARIA.
+Patients were excluded from enrollment in Study 2 for the presence of more than 4 microhemorrhages and additional findings suggestive of cerebral amyloid angiopathy (prior cerebral hemorrhage greater than 1 cm in greatest diameter, superficial siderosis, vasogenic edema) or other lesions (aneurysm, vascular malformation) that could potentially increase the risk of intracerebral hemorrhage.
+
+Concomitant Antithrombotic or Thrombolytic Medication
+
+In Study 2, baseline use of antithrombotic medication (aspirin, other antiplatelets, or anticoagulants) was allowed if the patient was on a stable dose.
+The majority of exposures to antithrombotic medications were to aspirin.
+Antithrombotic medications did not increase the risk of ARIA with LEQEMBI.
+The incidence of intracerebral hemorrhage was 0.9% (3/328 patients) in patients taking LEQEMBI with a concomitant antithrombotic medication at the time of the event, compared to 0.6% (3/545 patients) in those who did not receive an antithrombotic.
+Patients taking LEQEMBI with an anticoagulant alone or combined with an antiplatelet medication or aspirin had an incidence of intracerebral hemorrhage of 2.5% (2/79 patients), compared to none in patients who received placebo.
+
+Fatal cerebral hemorrhage has occurred in a patient taking an anti-amyloid monoclonal antibody in the setting of focal neurologic symptoms of ARIA and the use of a thrombolytic agent.
+
+Additional caution should be exercised when considering the administration of antithrombotics or a thrombolytic agent (e.g., tissue plasminogen activator) to a patient already being treated with LEQEMBI.
+Because ARIA-E can cause focal neurologic deficits that can mimic an ischemic stroke, treating clinicians should consider whether such symptoms could be due to ARIA-E before giving thrombolytic therapy in a patient being treated with LEQEMBI.
+
+Caution should be exercised when considering the use of LEQEMBI in patients with factors that indicate an increased risk for intracerebral hemorrhage and in particular for patients who need to be on anticoagulant therapy, or patients with findings on MRI that are suggestive of cerebral amyloid angiopathy.
+
+Radiographic Severity
 
 The radiographic severity of ARIA associated with LEQEMBI was classified by the criteria shown in Table 3.
 
@@ -63,30 +94,6 @@ The maximum radiographic severity of ARIA-H microhemorrhage in patients treated 
 Among patients treated with LEQEMBI, the rate of severe radiographic ARIA-E was highest in ApoE ε4 homozygotes 5% (7/141), compared to heterozygotes 0.4% (2/479) or noncarriers 0% (0/278).
 Among patients treated with LEQEMBI, the rate of severe radiographic ARIA-H was highest in ApoE ε4 homozygotes 13.5% (19/141), compared to heterozygotes 2.1% (10/479) or noncarriers 1.1% (3/278).
 
-Intracerebral Hemorrhage
-
-Intracerebral hemorrhage greater than 1 cm in diameter was reported in 0.7% (6/898) of patients in Study 2 after treatment with LEQEMBI compared to 0.1% (1/897) on placebo.
-Fatal events of intracerebral hemorrhage in patients taking LEQEMBI have been observed.
-
-Concomitant Antithrombotic Medication
-
-In Study 2, baseline use of antithrombotic medication (aspirin, other antiplatelets, or anticoagulants) was allowed if the patient was on a stable dose.
-The majority of exposures to antithrombotic medications were to aspirin.
-Antithrombotic medications did not increase the risk of ARIA with LEQEMBI.
-The incidence of intracerebral hemorrhage was 0.9% (3/328 patients) in patients taking LEQEMBI with a concomitant antithrombotic medication at the time of the event compared to 0.6% (3/545 patients) in those who did not receive an antithrombotic.
-Patients taking LEQEMBI with an anticoagulant alone or combined with an antiplatelet medication or aspirin had an incidence of intracerebral hemorrhage of 2.5% (2/79 patients) compared to none in patients who received placebo.
-
-Because intracerebral hemorrhages greater than 1 cm in diameter have been observed in patients taking LEQEMBI, additional caution should be exercised when considering the administration of anticoagulants or a thrombolytic agent (e.g., tissue plasminogen activator) to a patient already being treated with LEQEMBI.
-
-Other Risk Factors for Intracerebral Hemorrhage
-
-Patients were excluded from enrollment in Study 2 for findings on neuroimaging that indicated an increased risk for intracerebral hemorrhage.
-These included findings suggestive of cerebral amyloid angiopathy (prior cerebral hemorrhage greater than 1 cm in greatest diameter, more than 4 microhemorrhages, superficial siderosis, vasogenic edema) or other lesions (aneurysm, vascular malformation) that could potentially increase the risk of intracerebral hemorrhage.
-
-The presence of an ApoE ε4 allele is also associated with cerebral amyloid angiopathy, which has an increased risk for intracerebral hemorrhage.
-
-Caution should be exercised when considering the use of LEQEMBI in patients with factors that indicate an increased risk for intracerebral hemorrhage and in particular for patients who need to be on anticoagulant therapy.
-
 Monitoring and Dose Management Guidelines
 
 Recommendations for dosing in patients with ARIA-E depend on clinical symptoms and radiographic severity [see Dosage and Administration (2.3)].
@@ -102,8 +109,8 @@ There is no experience in patients who continued dosing through symptomatic ARIA
 There is limited experience in patients who continued dosing through asymptomatic but radiographically mild to moderate ARIA-E.
 There are limited data in dosing patients who experienced recurrent ARIA-E.
 
-The Alzheimer’s Network for Treatment and Diagnostics (ALZ-NET) is a voluntary provider-enrolled patient registry that collects information on treatments for Alzheimer’s disease, including LEQEMBI.
-Providers may obtain information about the registry at www.alz-net.org or contact alz-net@acr.org.
+Providers should encourage patients to participate in real world data collection (e.g., registries) to help further the understanding of Alzheimer’s disease and the impact of Alzheimer’s disease treatments.
+Providers and patients can contact Eisai at 888-274-2378 for a list of currently enrolling programs.
 
 ## 5.2 Hypersensitivity Reactions
 
@@ -113,12 +120,12 @@ LEQEMBI is contraindicated in patients with a history of serious hypersensitivit
 
 ## 5.3 Infusion-Related Reactions
 
-In Study 2, infusion-related reactions were observed in 26% (237/898) of patients treated with LEQEMBI compared to 7% (66/897) of patients on placebo; and the majority (75%, 178/237) occurred with the first infusion.
+In Study 2, infusion-related reactions were observed in 26% (237/898) of patients treated with LEQEMBI, compared to 7% (66/897) of patients on placebo; and the majority (75%, 178/237) occurred with the first infusion.
 Infusion-related reactions were mostly mild (69%) or moderate (28%) in severity.
 Infusion-related reactions resulted in discontinuations in 1% (12/898) of patients treated with LEQEMBI.
 Symptoms of infusion-related reactions include fever and flu-like symptoms (chills, generalized aches, feeling shaky, and joint pain), nausea, vomiting, hypotension, hypertension, and oxygen desaturation.
 
-After the first infusion in Study 1, 38% of patients treated with LEQEMBI had transient decreased lymphocyte counts to less than 0.9 x109/L compared to 2% in patients on placebo, and 22% of patients treated with LEQEMBI had transient increased neutrophil counts to greater 7.9 x109/L compared to 1% of patients on placebo.
+After the first infusion in Study 1, 38% of patients treated with LEQEMBI had transient decreased lymphocyte counts to less than 0.9 x109/L, compared to 2% in patients on placebo, and 22% of patients treated with LEQEMBI had transient increased neutrophil counts to greater than 7.9 x109/L, compared to 1% of patients on placebo.
 Lymphocyte and neutrophil counts were not obtained after the first infusion in Study 2.
 
 In the event of an infusion-related reaction, the infusion rate may be reduced, or the infusion may be discontinued, and appropriate therapy initiated as clinically indicated.

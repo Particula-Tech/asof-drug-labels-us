@@ -4,10 +4,10 @@
 
 Risk Summary
 
-There are no adequate data on LEQEMBI use in pregnant women to evaluate for a drug associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+There are no adequate data on LEQEMBI use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
 No animal studies have been conducted to assess the potential reproductive or developmental toxicity of LEQEMBI.
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 ## 8.2 Lactation
@@ -23,7 +23,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Safety and effectiveness of LEQEMBI in pediatric patients have not been established.
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 In Studies 1 and 2, the age of patients exposed to LEQEMBI 10 mg/kg every two weeks (n=1059) ranged from 50 to 90 years, with a mean age of 72 years; 81% were 65 years and older, and 39% were 75 years and older.
 No overall differences in safety or effectiveness of LEQEMBI have been observed between patients 65 years of age and older and younger adult patients.

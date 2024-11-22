@@ -3,7 +3,8 @@
 Monoclonal antibodies directed against aggregated forms of beta amyloid, including LEQEMBI, can cause amyloid related imaging abnormalities (ARIA), characterized as ARIA with edema (ARIA-E) and ARIA with hemosiderin deposition (ARIA-H).
 Incidence and timing of ARIA vary among treatments.
 ARIA usually occurs early in treatment and is usually asymptomatic, although serious and life-threatening events rarely can occur.
-Serious intracerebral hemorrhages, some of which have been fatal, have been observed in patients treated with this class of medications [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+Serious intracerebral hemorrhages > 1 cm, some of which have been fatal, have been observed in patients treated with this class of medications.
+Because ARIA-E can cause focal neurologic deficits that can mimic an ischemic stroke, treating clinicians should consider whether such symptoms could be due to ARIA-E before giving thrombolytic therapy to a patient being treated with LEQEMBI [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 
 ApoE ε4 Homozygotes
 

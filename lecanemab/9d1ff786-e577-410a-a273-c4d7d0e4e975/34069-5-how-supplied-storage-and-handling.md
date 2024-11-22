@@ -19,4 +19,4 @@ Unopened Vial
 
 Diluted Solution
 
-For storage of the diluted infusion solution, see Dosage and Administration (2.5).
+For storage of the diluted infusion solution, see Dosage and Administration (2.4).

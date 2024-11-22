@@ -35,11 +35,15 @@ Table 1: Dosing Recommendations for Patients with ARIA-E
 | Mild | May continue dosing based on clinical judgment | Suspend dosing3 |  |
 | Moderate or Severe | Suspend dosing3 |  |  |
 
-1 Clinical Symptom Severity Categories: Mild: discomfort noticed, but no disruption of normal daily activity.
+1 Clinical Symptom Severity Categories:
+
+Mild: discomfort noticed, but no disruption of normal daily activity.
+
 Moderate: discomfort sufficient to reduce or affect normal daily activity.
+
 Severe: incapacitating, with inability to work or to perform normal daily activity.
 
-2 See Table 3 for MRI severity [Warnings and Precautions (5.1)].
+2 See Table 3 for MRI radiographic severity [Warnings and Precautions (5.1)].
 
 3 Suspend until MRI demonstrates radiographic resolution and symptoms, if present, resolve; consider a follow-up MRI to assess for resolution 2 to 4 months after initial identification.
 Resumption of dosing should be guided by clinical judgment.
@@ -56,7 +60,7 @@ Table 2: Dosing Recommendations for Patients with ARIA-H
 | Asymptomatic | May continue dosing | Suspend dosing2 | Suspend dosing3 |
 | Symptomatic | Suspend dosing2 | Suspend dosing2 |  |
 
-1 See Table 3 for MRI severity [Warnings and Precautions (5.1)].
+1 See Table 3 for MRI radiographic severity [Warnings and Precautions (5.1)].
 
 2 Suspend until MRI demonstrates radiographic stabilization and symptoms, if present, resolve; resumption of dosing should be guided by clinical judgment; consider a follow-up MRI to assess for stabilization 2 to 4 months after initial identification.
 
@@ -88,7 +92,7 @@ Use clinical judgment in considering whether to continue treatment after radiogr
 ## 2.5 Administration Instructions
 
 - Visually inspect the LEQEMBI diluted solution for particles or discoloration prior to administration.
-  Do not use if it is discolored, or opaque or foreign particles are seen.
+  Do not use if it is discolored, opaque, or foreign particles are seen.
 - Prior to infusion, allow the LEQEMBI diluted solution to warm to room temperature.
 - Infuse the entire volume of the LEQEMBI diluted solution intravenously over approximately one hour through an intravenous line containing a terminal low-protein binding 0.2 micron in-line filter.
   Flush infusion line to ensure all LEQEMBI is administered.

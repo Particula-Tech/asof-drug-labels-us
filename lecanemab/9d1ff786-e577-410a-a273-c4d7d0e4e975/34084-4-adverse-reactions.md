@@ -17,9 +17,9 @@ The mean age at study entry was 72 years (range from 50 to 90 years).
 
 In the combined double-blind, placebo-controlled period and long-term extension period of Studies 1 and 2, 1604 patients received LEQEMBI for at least 6 months, 1261 patients for at least 12 months, and 965 patients for 18 months.
 
-In the double-blind, placebo-controlled period in Study 1 patients stopped study treatment because of an adverse reaction in 15% of patients treated with LEQEMBI, compared to 6% patients on placebo; in Study 2 patients stopped study treatment because of an adverse reaction in 7% of patients treated with LEQEMBI, compared to 3% patients on placebo.
-In Study 1, the most common adverse reaction leading to discontinuation of LEQEMBI was infusion-related reactions that led to discontinuation in 2% (4/161) of patients treated with LEQEMBI compared to 1% (2/245) of patients on placebo.
-In Study 2, the most common adverse reaction leading to discontinuation of LEQEMBI was ARIA-H microhemorrhages that led to discontinuation in 2% (15/898) of patients treated with LEQEMBI compared to <1% (1/897) of patients on placebo.
+In the double-blind, placebo-controlled period in Study 1, patients stopped study treatment because of an adverse reaction in 15% of patients treated with LEQEMBI, compared to 6% patients on placebo; in Study 2, patients stopped study treatment because of an adverse reaction in 7% of patients treated with LEQEMBI, compared to 3% patients on placebo.
+In Study 1, the most common adverse reaction leading to discontinuation of LEQEMBI was infusion-related reactions that led to discontinuation in 2% (4/161) of patients treated with LEQEMBI, compared to 1% (2/245) of patients on placebo.
+In Study 2, the most common adverse reaction leading to discontinuation of LEQEMBI was ARIA-H microhemorrhages that led to discontinuation in 2% (15/898) of patients treated with LEQEMBI, compared to <1% (1/897) of patients on placebo.
 
 Table 4 shows adverse reactions that were reported in at least 5% of patients treated with LEQEMBI and at least 2% more frequently than in patients on placebo in Study 1.
 
@@ -51,5 +51,5 @@ Table 5: Adverse Reactions Reported in at Least 5% of Patients Treated with LEQE
 
 Less Common Adverse Reactions
 
-Atrial fibrillation occurred in 3% of patients treated with LEQEMBI compared to 2% in patients on placebo.
-In Study 1, lymphopenia or decreased lymphocyte count were reported in 4% of patients treated with LEQEMBI after the first dose, compared to less than 1% of patients on placebo [see Warnings and Precautions (5.3)]; lymphocytes were not measured after the first dose in Study 2.
+Atrial fibrillation occurred in 3% of patients treated with LEQEMBI, compared to 2% in patients on placebo.
+In Study 1, lymphopenia or decreased lymphocyte count was reported in 4% of patients treated with LEQEMBI after the first dose, compared to less than 1% of patients on placebo [see Warnings and Precautions (5.3)]; lymphocytes were not measured after the first dose in Study 2.
