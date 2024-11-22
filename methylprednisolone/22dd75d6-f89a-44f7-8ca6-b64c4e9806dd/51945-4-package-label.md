@@ -26,7 +26,7 @@ DAY 5 Before Breakfast At Bedtime
 
 DAY 6 Before Breakfast
 
-Distributed by: Greenstone LLC Peapack, NJ 07977
+Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
 
 NDC 59762-4440-2 GREENSTONE® BRAND methylprednisolone tablets, USP Dosepak™ 4 mg
 
