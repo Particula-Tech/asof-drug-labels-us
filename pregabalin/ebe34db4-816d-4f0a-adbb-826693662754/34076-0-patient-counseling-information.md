@@ -71,9 +71,17 @@ Male Fertility
 
 Inform men being treated with pregabalin who plan to father a child of the potential risk of male-mediated teratogenicity.
 In preclinical studies in rats, pregabalin was associated with an increased risk of male-mediated teratogenicity.
-The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1) and Use in Specific populations (8.3)].
+The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1) and Use in Specific Populations (8.3)].
 
 Dermatopathy
 
 Instruct diabetic patients to pay particular attention to skin integrity while being treated with pregabalin and to inform their healthcare provider about any sores or skin problems.
 Some animals treated with pregabalin developed skin ulcerations, although no increased incidence of skin lesions associated with pregabalin was observed in clinical trials [see Nonclinical Toxicology (13.2)].
+
+GREENSTONE® BRAND Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2024 Viatris Inc.
+
+The brands listed are trademarks of their respective owners.
+
+GST:PREG:R1

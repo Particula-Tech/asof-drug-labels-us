@@ -21,7 +21,7 @@ Discontinue pregabalin immediately in patients with these symptoms.
 Antiepileptic drugs (AEDs), including pregabalin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Monitor patients treated with any AED for any indication for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -30,7 +30,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
@@ -116,7 +116,7 @@ While the effects of pregabalin-associated weight gain on glycemic control have 
 
 In standard preclinical in vivo lifetime carcinogenicity studies of pregabalin, an unexpectedly high incidence of hemangiosarcoma was identified in two different strains of mice [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
-Clinical experience during pregabalin's premarketing development provides no direct means to assess its potential for inducing tumors in humans.
+Clinical experience during pregabalin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
 In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients greater than 12 years of age, new or worsening-preexisting tumors were reported in 57 patients.
 Without knowledge of the background incidence and recurrence in similar populations not treated with pregabalin, it is impossible to know whether the incidence seen in these cohorts is or is not affected by treatment.
@@ -148,15 +148,15 @@ Discontinue treatment with pregabalin if myopathy is diagnosed or suspected or i
 ## 5.12 Decreased Platelet Count
 
 Pregabalin treatment was associated with a decrease in platelet count.
-Pregabalin-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/µL, compared to 11 × 103/µL in placebo patients.
-In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of pregabalin patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/µL.
-A single pregabalin-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/µL.
+Pregabalin-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/μL, compared to 11 × 103/μL in placebo patients.
+In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of pregabalin patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/μL.
+A single pregabalin-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/μL.
 In randomized controlled trials, pregabalin was not associated with an increase in bleeding-related adverse reactions.
 
 ## 5.13 PR Interval Prolongation
 
 Pregabalin treatment was associated with PR interval prolongation.
-In analyses of clinical trial ECG data in adult patients, the mean PR interval increase was 3–6 msec at pregabalin doses greater than or equal to 300 mg/day.
+In analyses of clinical trial ECG data in adult patients, the mean PR interval increase was 3-6 msec at pregabalin doses greater than or equal to 300 mg/day.
 This mean change difference was not associated with an increased risk of PR increase greater than or equal to 25% from baseline, an increased percentage of subjects with on-treatment PR greater than 200 msec, or an increased risk of adverse reactions of second or third degree AV block.
 
 Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications.

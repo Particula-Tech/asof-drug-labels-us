@@ -2,66 +2,51 @@
 
 25 mg capsules:
 
-White, hard-gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 25" on the body; available in:
+White, hard-gelatin capsule printed with black ink “Pfizer” on the cap, “PGN” over “25” on the body; available in:
 
-| Bottles of 90: | NDC 59762-1342-1 |
-| --- | --- |
+Bottles of 90: NDC 59762-1342-1
 
 50 mg capsules:
 
-White, hard-gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 50" and an ink band on the body, available in:
+White, hard-gelatin capsule printed with black ink “Pfizer” on the cap, “PGN” over “50” and an ink band on the body, available in:
 
-| Bottles of 90: | NDC 59762-1344-1 |
-| --- | --- |
+Bottles of 90: NDC 59762-1344-1
 
 75 mg capsules:
 
-White/orange hard gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 75" on the body; available in:
+White/orange hard gelatin capsule printed with black ink “Pfizer” on the cap, “PGN” over “75” on the body; available in:
 
-| Bottles of 90: | NDC 59762-1346-1 |
-| --- | --- |
+Bottles of 90: NDC 59762-1346-1
 
 100 mg capsules:
 
-Orange, hard-gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 100" on the body, available in:
+Orange, hard-gelatin capsule printed with black ink “Pfizer” on the cap, “PGN” over “100” on the body, available in:
 
-| Bottles of 90: | NDC 59762-1348-1 |
-| --- | --- |
+Bottles of 90: NDC 59762-1348-1
 
 150 mg capsules:
 
-White hard gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 150" on the body, available in:
+White hard gelatin capsule printed with black ink “Pfizer” on the cap, “PGN” over “150” on the body, available in:
 
-| Bottles of 90: | NDC 59762-1351-1 |
-| --- | --- |
+Bottles of 90: NDC 59762-1351-1
 
 200 mg capsules:
 
-Light orange hard gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 200" on the body, available in:
+Light orange hard gelatin capsule printed with black ink “Pfizer” on the cap, “PGN” over “200” on the body, available in:
 
-| Bottles of 90: | NDC 59762-1354-1 |
-| --- | --- |
-
-225 mg capsules:
-
-White/light orange hard gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 225" on the body; available in:
-
-| Bottles of 90: | NDC 59762-1360-1 |
-| --- | --- |
+Bottles of 90: NDC 59762-1354-1
 
 300 mg capsules:
 
-White/orange hard gelatin capsule printed with black ink "Pfizer" on the cap, "PGN 300" on the body, available in:
+White/orange hard gelatin capsule printed with black ink “Pfizer” on the cap, “PGN” over “300” on the body, available in:
 
-| Bottles of 90: | NDC 59762-1364-1 |
-| --- | --- |
+Bottles of 90: NDC 59762-1364-1
 
 20 mg/mL oral solution:
 
 16 fluid ounce white high density polyethylene (HDPE) bottle with a polyethylene-lined closure:
 
-| 16 fluid ounce bottle | NDC 59762-1576-1 |
-| --- | --- |
+16 fluid ounce bottle NDC 59762-1576-1
 
 Storage and Handling
 

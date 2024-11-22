@@ -18,16 +18,12 @@ The figure is cumulative, so that patients whose change from baseline is, for ex
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 1: Patients Achieving Various Levels of Improvement in Pain Intensity – Study DPN 1
-
 Study DPN 2: This 8-week study compared pregabalin 100 mg three times a day with placebo.
 Treatment with pregabalin 100 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
 For various levels of improvement in pain intensity from baseline to study endpoint, Figure 2 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
-
-Figure 2: Patients Achieving Various Levels of Improvement in Pain Intensity– Study DPN 2
 
 ## 14.2 Postherpetic Neuralgia
 
@@ -48,8 +44,6 @@ The figure is cumulative, so that patients whose change from baseline is, for ex
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 3: Patients Achieving Various Levels of Improvement in Pain Intensity– Study PHN 1
-
 Study PHN 2: This 8-week study compared pregabalin 100 or 200 mg three times a day with placebo, with doses assigned based on creatinine clearance.
 Patients with creatinine clearance between 30 to 60 mL/min were treated with 100 mg three times a day, and patients with creatinine clearance greater than 60 mL/min were treated with 200 mg three times daily.
 Treatment with pregabalin statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
@@ -57,8 +51,6 @@ For various levels of improvement in pain intensity from baseline to study endpo
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
-
-Figure 4: Patients Achieving Various Levels of Improvement in Pain Intensity – Study PHN 2
 
 Study PHN 3: This 8-week study compared pregabalin 50 or 100 mg three times a day with placebo with doses assigned regardless of creatinine clearance.
 Treatment with pregabalin 50 and 100 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
@@ -68,11 +60,9 @@ The figure is cumulative, so that patients whose change from baseline is, for ex
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 5: Patients Achieving Various Levels of Improvement in Pain Intensity– Study PHN 3
-
 ## 14.3 Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month of Age and Older
 
-Adjunctive Therapy for Partial-Onset Seizures in Adult Patients
+### Adjunctive Therapy for Partial-Onset Seizures in Adult Patients
 
 The efficacy of pregabalin as adjunctive therapy for partial-onset seizures in adult patients was established in three 12-week, randomized, double-blind, placebo-controlled, multicenter studies.
 Patients were enrolled who had partial-onset seizures with or without secondary generalization and were not adequately controlled with 1 to 3 concomitant antiepileptic drugs (AEDs).
@@ -113,13 +103,9 @@ While the three times a day dosing group in Study E3 performed numerically bette
 A secondary outcome measure included the responder rate (proportion of patients with greater than or equal to 50% reduction from baseline in partial seizure frequency).
 The following figure displays responder rate by dose for two of the studies.
 
-Figure 6: Responder Rate by Adjunctive Epilepsy Study
-
-Figure 7: Seizure Reduction by Dose (All Partial-Onset Seizures) for Studies E1, E2, and E3
-
 Subset evaluations of the antiseizure efficacy of pregabalin showed no clinically important differences as a function of age, gender, or race.
 
-Adjunctive Therapy for Partial-Onset Seizures in Pediatric Patients 4 to Less Than 17 Years of Age
+### Adjunctive Therapy for Partial-Onset Seizures in Pediatric Patients 4 to Less Than 17 Years of Age
 
 The efficacy of pregabalin as adjunctive therapy in partial-onset seizures was established in a 12-week, randomized, double-blind, placebo-controlled, multicenter study in pediatric patients 4 years to less than 17 years of age with partial-onset seizures with or without secondary generalization.
 During an 8-week baseline period, patients had to experience at least 6 partial-onset seizures with no seizure-free period exceeding 4 weeks.
@@ -150,9 +136,7 @@ While the 2.5 mg/kg/day group performed numerically better than placebo, this di
 A key secondary efficacy measure, the responder rate (proportion of patients with greater than or equal to 50% reduction from baseline in partial seizure frequency) showed improvements for pregabalin groups compared with placebo.
 The following figure displays responder rate by dose:
 
-Figure 8: Responder Rate (Greater than or Equal to 50% Reduction)
-
-Adjunctive Therapy for Partial-Onset Seizures in Pediatric Patients 1 Month to Less Than 4 Years of Age
+### Adjunctive Therapy for Partial-Onset Seizures in Pediatric Patients 1 Month to Less Than 4 Years of Age
 
 The efficacy of pregabalin as adjunctive therapy in partial-onset seizures was established in a 14-day, randomized, double-blind, placebo-controlled, multicenter study in children 1 month to less than 4 years of age with partial-onset seizures with or without secondary generalization.
 The youngest patient evaluated was 3 months of age.
@@ -163,7 +147,7 @@ Among the pregabalin-treated patients, 97% completed the double-blind phase of t
 
 In this study, pregabalin 7 mg/kg/day and 14 mg/kg/day were compared to placebo.
 Administration of each daily dose was divided into three equal doses (three times a day dosing).
-The primary endpoint was the 24-hour partial-onset seizure rate based on the comparison of the baseline video EEG to a repeat 48–72 hour video EEG performed at the end of 14 days of double-blind treatment.
+The primary endpoint was the 24-hour partial-onset seizure rate based on the comparison of the baseline video EEG to a repeat 48-72 hour video EEG performed at the end of 14 days of double-blind treatment.
 
 Table 13 shows median baseline seizure rates, median percent change from baseline in seizure rates, and percent difference relative to placebo (derived from the primary analysis model) by dose.
 
@@ -180,7 +164,7 @@ Seizure Response in Controlled Adjunctive Partial-Onset Seizure Study in Pediatr
 A significant improvement in partial-onset seizure rate was observed for pregabalin 14 mg/kg/day group compared with placebo.
 Patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo.
 
-Responder rates (≥50% or greater reduction in partial-onset seizure frequency) were a secondary efficacy parameter; patients treated with pregabalin 14 mg/kg/day showed numerical improvement compared with placebo, while patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo: the responder rates were 53.6%, 30.5%, and 41.5% for pregabalin 14 mg/kg/day, pregabalin 7 mg/kg/day, and placebo, respectively.
+Responder rates (≥ 50% or greater reduction in partial-onset seizure frequency) were a secondary efficacy parameter; patients treated with pregabalin 14 mg/kg/day showed numerical improvement compared with placebo, while patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo: the responder rates were 53.6%, 30.5%, and 41.5% for pregabalin 14 mg/kg/day, pregabalin 7 mg/kg/day, and placebo, respectively.
 
 ## 14.4 Management of Fibromyalgia
 
@@ -194,7 +178,7 @@ Patients were enrolled with a minimum mean baseline pain score of greater than o
 The baseline mean pain score in this trial was 6.7.
 Responders to placebo in an initial one-week run-in phase were not randomized into subsequent phases of the study.
 A total of 64% of patients randomized to pregabalin completed the study.
-There was no evidence of a greater effect on pain scores of the 600 mg daily dose than the 450 mg daily dose, but there was evidence of dose--dependent adverse reactions [see Adverse Reactions (6.1)].
+There was no evidence of a greater effect on pain scores of the 600 mg daily dose than the 450 mg daily dose, but there was evidence of dose-dependent adverse reactions [see Adverse Reactions (6.1)].
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 The results are summarized in Figure 9 and Table 14.
 
@@ -203,15 +187,13 @@ The figure is cumulative.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 9: Patients Achieving Various Levels of Improvement in Pain Intensity – Fibromyalgia Study F1
-
 Table 14.
 Patient Global Response in Fibromyalgia Study F1
 
-| Treatment Group (mg/day) | % Any Improvement | 95% CI |
-| --- | --- | --- |
 | Patient Global Impression of Change |  |  |
-| Placebo | 47.6 | (40.0,55.2) |
+| --- | --- | --- |
+| Treatment Group(mg/day) | % Any Improvement | 95% CI |
+| Placebo | 47.6 | (40.0, 55.2) |
 | PGB 300 | 68.1 | (60.9, 75.3) |
 | PGB 450 | 77.8 | (71.5, 84.0) |
 | PGB 600 | 66.1 | (59.1, 73.1) |
@@ -219,7 +201,7 @@ Patient Global Response in Fibromyalgia Study F1
 
 Study F2: This randomized withdrawal study compared pregabalin with placebo.
 Patients were titrated during a 6-week open-label dose optimization phase to a total daily dose of 300 mg, 450 mg, or 600 mg.
-Patients were considered to be responders if they had both: 1) at least a 50% reduction in pain (VAS) and, 2) rated their overall improvement on the PGIC as "much improved" or "very much improved."
+Patients were considered to be responders if they had both: 1) at least a 50% reduction in pain (VAS) and, 2) rated their overall improvement on the PGIC as “much improved” or “very much improved.”
 Those who responded to treatment were then randomized in the double-blind treatment phase to either the dose achieved in the open-label phase or to placebo.
 Patients were treated for up to 6 months following randomization.
 Efficacy was assessed by time to loss of therapeutic response, defined as 1) less than 30% reduction in pain (VAS) from open-label baseline during two consecutive visits of the double-blind phase, or 2) worsening of FM symptoms necessitating an alternative treatment.
@@ -228,9 +210,11 @@ Of the patients entering the randomized treatment phase assigned to remain on pr
 
 When considering return of pain or withdrawal due to adverse events as loss of response (LTR), treatment with pregabalin resulted in a longer time to loss of therapeutic response than treatment with placebo.
 Fifty-three percent of the pregabalin-treated subjects compared to 33% of placebo patients remained on study drug and maintained a therapeutic response to Week 26 of the study.
-Treatment with pregabalin also resulted in a longer time to loss of response based on the FIQTime to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score., and longer time to loss of overall assessment of patient status, as measured by the PGICTime to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than "much improvement.".
+Treatment with pregabalin also resulted in a longer time to loss of response based on the FIQ1, and longer time to loss of overall assessment of patient status, as measured by the PGIC2.
 
-Figure 10: Time to Loss of Therapeutic Response, Fibromyalgia Study F2 (Kaplan-Meier Analysis)
+1Time to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score.
+
+2Time to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than “much improvement.”
 
 ## 14.5 Management of Neuropathic Pain Associated with Spinal Cord Injury
 
@@ -243,18 +227,14 @@ The baseline mean pain scores across the two studies ranged from 6.5 to 6.7.
 Patients were allowed to take opioids, non-opioid analgesics, antiepileptic drugs, muscle relaxants, and antidepressant drugs if the dose was stable for 30 days prior to screening.
 Patients were allowed to take acetaminophen and nonsteroidal anti-inflammatory drugs during the studies.
 
-Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter, flexible dose (150–600 mg/day) study compared pregabalin with placebo.
+Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter, flexible dose (150-600 mg/day) study compared pregabalin with placebo.
 The 12-week study consisted of a 3-week dose adjustment phase and a 9-week dose maintenance phase.
-Treatment with pregabalin 150–600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
+Treatment with pregabalin 150-600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 11.
-Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 11: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 1
-
-Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150–600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
+Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150-600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
 The 16-week study consisted of a 4-week dose adjustment phase and a 12-week dose maintenance phase.
 Treatment with pregabalin statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 16 is presented in Figure 12.
-Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
-
-Figure 12: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 2
+Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.

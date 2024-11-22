@@ -1,127 +1,213 @@
-# PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
+# PRINCIPAL DISPLAY PANEL – 25 mg
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1342-1 90 Capsules
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1342-1 90 Capsules
 
 GREENSTONE® BRAND
 
-pregabalin capsules CV
+Pregabalin capsules CV
 
 25 mg
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1344-1 90 Capsules
+Dispense in tight (USP), child-resistant containers.
+
+DOSAGE AND USE See accompanying prescribing information.
+
+Each capsule contains 25 mg pregabalin.
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
+
+MADE IN SINGAPORE
+
+# PRINCIPAL DISPLAY PANEL – 50 mg
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1344-1 90 Capsules
 
 GREENSTONE® BRAND
 
-pregabalin capsules CV
+Pregabalin capsules CV
 
 50 mg
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1346-1 90 Capsules
+Dispense in tight (USP), child-resistant containers.
+
+DOSAGE AND USE See accompanying prescribing information.
+
+Each capsule contains 50 mg pregabalin.
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
+
+MADE IN SINGAPORE
+
+# PRINCIPAL DISPLAY PANEL – 75 mg
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1346-1 90 Capsules
 
 GREENSTONE® BRAND
 
-pregabalin capsules CV
+Pregabalin capsules CV
 
 75 mg
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1348-1 90 Capsules
+Dispense in tight (USP), child-resistant containers.
+
+DOSAGE AND USE See accompanying prescribing information.
+
+Each capsule contains 75 mg pregabalin.
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
+
+MADE IN SINGAPORE
+
+# PRINCIPAL DISPLAY PANEL – 100 mg
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1348-1 90 Capsules
 
 GREENSTONE® BRAND
 
-pregabalin capsules CV
+Pregabalin capsules CV
 
 100 mg
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Label
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1351-1 90 Capsules
+Dispense in tight (USP), child-resistant containers.
+
+DOSAGE AND USE See accompanying prescribing information.
+
+Each capsule contains 100 mg pregabalin.
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
+
+MADE IN SINGAPORE
+
+# PRINCIPAL DISPLAY PANEL – 150 mg
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1351-1 90 Capsules
 
 GREENSTONE® BRAND
 
-pregabalin capsules CV
+Pregabalin capsules CV
 
 150 mg
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1354-1 90 Capsules
+Dispense in tight (USP), child-resistant containers.
+
+DOSAGE AND USE See accompanying prescribing information.
+
+Each capsule contains 150 mg pregabalin.
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
+
+MADE IN SINGAPORE
+
+# PRINCIPAL DISPLAY PANEL – 200 mg
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1354-1 90 Capsules
 
 GREENSTONE® BRAND
 
-pregabalin capsules CV
+Pregabalin capsules CV
 
 200 mg
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 225 mg Capsule Bottle Label
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1360-1 90 Capsules
+Dispense in tight (USP), child-resistant containers.
+
+DOSAGE AND USE See accompanying prescribing information.
+
+Each capsule contains 200 mg pregabalin.
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
+
+MADE IN SINGAPORE
+
+# PRINCIPAL DISPLAY PANEL – 300 mg
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-1364-1 90 Capsules
 
 GREENSTONE® BRAND
 
-pregabalin capsules CV
-
-225 mg
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1364-1 90 Capsules
-
-GREENSTONE® BRAND
-
-pregabalin capsules CV
+Pregabalin capsules CV
 
 300 mg
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+Dispense in tight (USP), child-resistant containers.
 
-NDC 59762-1576-1 16 fl oz (473 mL)
+DOSAGE AND USE See accompanying prescribing information.
+
+Each capsule contains 300 mg pregabalin.
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
+
+MADE IN SINGAPORE
+
+# PRINCIPAL DISPLAY PANEL – 20 mg/mL
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 59762-1576-1 16 fl oz (473 mL)
 
 GREENSTONE® BRAND
 
-pregabalin oral solution CV
+Pregabalin oral solution CV
 
 20 mg per mL
 
 for oral use only
 
-Rx only
+Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Carton
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+Dispense in tight (USP), child-resistant containers.
 
-NDC 59762-1576-1 16 fl oz (473 mL)
+Usual Dosage: See package insert for dosage information.
 
-GREENSTONE® BRAND
+Each mL contains 20 mg of pregabalin.
 
-pregabalin oral solution CV
+GST:1576:1C:R1
 
-20 mg per mL
+Distributed by:
 
-for oral use only
+Greenstone LLC
 
-Rx only
+Morgantown, WV 26505 U.S.A.
+
+© 2024 Viatris Inc.
