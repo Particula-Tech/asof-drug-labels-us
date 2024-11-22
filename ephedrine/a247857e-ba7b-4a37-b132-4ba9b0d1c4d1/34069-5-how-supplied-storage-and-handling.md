@@ -12,12 +12,14 @@ Store in carton until time of use.
 For single use only.
 Discard unused portion.
 
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
+
+© 2024 Endo, Inc. or one of its affiliates.
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-I05/2023 OS243N-01-90-01
+04/2024
