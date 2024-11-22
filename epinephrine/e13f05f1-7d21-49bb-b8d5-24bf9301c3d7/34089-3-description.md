@@ -13,7 +13,7 @@ The solution remaining after activation is not available for future use and shou
 Each 0.3 mL in epinephrine injection, USP 0.3 mg contains 0.3 mg epinephrine, 2.6 mg sodium chloride, not more than 1.5 mg chlorobutanol, 0.45 mg sodium bisulfite, hydrochloric acid and sodium hydroxide to adjust pH, and water for injection.
 The pH range is 2.2-5.0.
 
-Each 0.15 mL in epinephrine injection, USP 0.15 mg contains 0.15 mg epinephrine, 1.3 mg sodium chloride, not more than 0.75 mg chlorobutanol, 0.225 sodium bisulfite, hydrochloric acid and sodium hydroxide to adjust pH, and water for injection.
+Each 0.15 mL in epinephrine injection, USP 0.15 mg contains 0.15 mg epinephrine, 1.3 mg sodium chloride, not more than 0.75 mg chlorobutanol, 0.225 mg sodium bisulfite, hydrochloric acid and sodium hydroxide to adjust pH, and water for injection.
 The pH range is 2.2-5.0.
 
 Epinephrine is a sympathomimetic catecholamine.

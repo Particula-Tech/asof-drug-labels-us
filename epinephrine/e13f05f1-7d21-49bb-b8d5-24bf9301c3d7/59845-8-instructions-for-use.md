@@ -16,13 +16,17 @@ If you have any questions, ask your healthcare provider.
 Your epinephrine injection
 
 Step 1.
-Prepare epinephrine injection for injection
+Prepare epinephrine injection, for injection
 
 - Remove epinephrine injection from its protective carrying case.
+  See Figure A.
+
+Figure A
+
 - Pull off blue end caps.
   You will now see a red tip.
   Grasp the epinephrine injection in your fist with the red tip pointing downward.
-  See Figure A.
+  See Figure B.
 
 Note:
 
@@ -30,13 +34,17 @@ Note:
 - To avoid an accidental injection, never put your thumb, fingers, or hand over the red tip.
   If an accidental injection happens, get medical help right away.
 
+Figure B
+
 Step 2.
 Administer epinephrine injection
 
 - If you are administering epinephrine injection to a young child, hold the leg firmly in place and limit movement prior to and while administering an injection.
-- Put the red tip against the middle of the outer thigh (upper leg) at a 90° angle (perpendicular) to the thigh.
+- Place the red tip against the middle of the outer thigh (upper leg) at a 90° angle (perpendicular) to the thigh.
 - Press down hard and hold firmly against the thigh for approximately 10 seconds to deliver the medicine.
-  See Figure B.
+  See Figure C.
+
+Figure C
 
 - Only inject into the middle of the outer thigh.
   Do not inject into any other part of the body.
@@ -57,11 +65,15 @@ After use Disposal
 Carefully cover the needle with the carrying case.
 
 - Lay the labeled half of the carrying case cover down on a flat surface.
-  Use one hand to carefully slide the end of the epinephrine injection needle first, into the labeled carrying case cover.
-  See Figure C.
+  Use one hand to carefully slide the end of epinephrine injection, needle first, into the labeled carrying case cover.
+  See Figure D.
+
+Figure D
 
 - After the needle is inside the labeled cover, push the unlabeled half of the carrying case cover firmly over the non-needle end of the epinephrine injection.
-  See Figure D.
+  See Figure E.
+
+Figure E
 
 - Take your used epinephrine injection with you when you go to see a healthcare provider.
 - Tell the healthcare provider that you have received an injection of epinephrine.
@@ -81,7 +93,7 @@ Note:
   The beige epinephrine injection Trainer contains no medicine and no needle.
   Practice with your epinephrine injection Trainer, but always carry your real epinephrine injection in case of an allergic emergency.
 - If you will be administering epinephrine injection to a young child, ask your healthcare provider to show you how to properly hold the leg in place while administering a dose.
-- Do not try to take epinephrine injection.
+- Do not try to take epinephrine injection apart.
 
 For more information and video instructions on the use of epinephrine injection, go to www.epinephrineautoinject.com or call 1-877-835-5472.
 
@@ -92,4 +104,4 @@ All rights reserved.
 
 Manufactured by: Hospira, Inc. McPherson, KS 67460
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 1872-03 Revised 02-2021-03
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 1872-05 Revised 10-2024-05

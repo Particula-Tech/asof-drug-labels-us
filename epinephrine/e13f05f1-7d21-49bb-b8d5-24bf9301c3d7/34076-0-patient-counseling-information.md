@@ -52,9 +52,9 @@ Instruct patients to tell their healthcare provider if they plan to breastfeed t
 Storage and Handling
 
 Instruct patients to inspect the epinephrine solution visually through the viewing window periodically.
-Replace epinephrine injection, USP auto-injector if the epinephrine solution appears discolored (pinkish or brown), cloudy, or contains particles.
+Replace epinephrine injection if the epinephrine solution appears discolored (pinkish or brown), cloudy, or contains particles.
 Epinephrine is light sensitive, store in the outer case provided to protect it from light.
-Instruct patients that epinephrine injection, USP auto-injector must be properly disposed of once the blue caps have been removed or after use [see How Supplied/Storage and Handling (16)].
+Instruct patients that epinephrine injection must be properly disposed of once the blue caps have been removed or after use [see How Supplied/Storage and Handling (16)].
 
 Complete patient information, including dosage, directions for proper administration and precautions are provided inside each epinephrine injection carton.
 
@@ -75,4 +75,7 @@ All rights reserved.
 
 For inquiries call 1-877-835-5472
 
-1871-03
+1871-04
+
+Rev.
+02-2021-04
