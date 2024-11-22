@@ -2,7 +2,7 @@
 
 ## 1.1 Non-Squamous Non-Small Cell Lung Cancer (NSCLC)
 
-PEMRYDI RTUTM is indicated:
+PEMRYDI RTU® is indicated:
 
 - in combination with pembrolizumab and platinum chemotherapy, for the initial treatment of patients with metastatic non-squamous non-small cell lung cancer (NSCLC), with no EGFR or ALK genomic tumor aberrations.
 - in combination with cisplatin for the initial treatment of patients with locally advanced or metastatic, non-squamous NSCLC.
