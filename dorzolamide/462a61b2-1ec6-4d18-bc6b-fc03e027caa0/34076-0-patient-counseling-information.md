@@ -31,46 +31,46 @@ When to Seek Physician Advice
 
 Advise patients that if they develop any ocular reactions, particularly conjunctivitis and lid reactions, they should discontinue use and seek their physician's advice.
 
-Instruct patients to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures.
-
 Manufactured by:
 
 Indoco Remedies Limited
 
-L-32, 33, 34, Verna Industrial Area
-
 Verna, Goa-403722, India.
 
-Revised: January 2021
+Revised: October 2024
 
-## INSTRUCTIONS FOR USE
+INSTRUCTIONS FOR USE
 
-INSTRUCTIONS FOR USE Dorzolamide Hydrochloride Ophthalmic Solution, USP 2%
+Dorzolamide Hydrochloride Ophthalmic Solution USP, 2%
 
-Before using your dorzolamide hydrochloride ophthalmic solution Before using your dorzolamide hydrochloride ophthalmic solution for the first time, be sure the tamper evident ring between the bottle and the cap is unbroken (See Figure A).
+Before using your dorzolamide hydrochloride ophthalmic solution
 
-figure A
+Before using your dorzolamide hydrochloride ophthalmic solution for the first time, be sure the tamper evident ring between the bottle and the cap is unbroken (See Figure A).
+
+Figure A
 
 Step 1.
 Wash your hands.
+
 Step 2.
 Before opening the bottle for the first time, tear off the tamper evident ring to break the seal (See Figure B).
 
-figure B
+Figure B
 
 Step 3.
 To open the bottle, remove the cap by turning it in the counterclockwise direction (See Figure C).
 
-figure C
+Figure C
 
 Giving your dorzolamide hydrochloride ophthalmic solution drops Step 4.
 Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
 See Figure D.
 
-figure D
+Figure D
 
 Step 5.
-Turn your dorzolamide hydrochloride ophthalmic solution dispenser upside down and squeeze lightly with the thumb or index finger (as shown) until a single drop is dispensed into the eye as directed by your doctor.
+Turn your dorzolamide hydrochloride ophthalmic solution bottle upside down and squeeze lightly with the thumb or index finger (as shown) until a single drop is placed in your eye.
+Do not touch your eye or eyelid with the dropper tip.
 See Figure E.
 
 figure E
@@ -81,6 +81,8 @@ Step 7.
 If your doctor has told you to use dorzolamide hydrochloride ophthalmic solution drops in both eyes, repeat Steps 4 and 5.
 After using your dorzolamide hydrochloride ophthalmic solution Step 8.
 Replace the cap by turning until it is firmly on the bottle.
+(If the cap is not replaced firmly after use, product dries up and may cause clogging of dropper tip).
+
 After you have used all of your dorzolamide hydrochloride ophthalmic solution doses, there will be some dorzolamide hydrochloride ophthalmic solution medicine left in the dispenser.
 Do not try to remove the extra medicine from the dorzolamide hydrochloride ophthalmic solution dispenser.
 Throw away your dorzolamide hydrochloride ophthalmic solution dispenser in your household trash.
@@ -101,6 +103,6 @@ You can place your contact lenses back into your eyes 15 minutes after using you
 
 This Instructions for use has been approved by the U.S Food and Drug Administration.
 
-Manufactured by: Indoco Remedies Limited L-32, 33, 34, Verna Industrial Area Verna, Goa-403722, India.
+Manufactured by: Indoco Remedies Limited Verna, Goa-403722, India.
 
-Revised: January 2021
+Revised: October 2024
