@@ -11,7 +11,7 @@ Cyclophosphamide Injection
 
 Store the vials refrigerated at 2°C to 8°C (36°F to 46°F).
 
-Store diluted solutions of cyclophosphamide according to Table 1 [seeDosage and Administration (2.4)].
+Store diluted solutions of cyclophosphamide according to Table 1 [see Dosage and Administration (2.4)].
 
 Cyclophosphamide is an antineoplastic product.
 Follow special handling and disposal procedures 1.

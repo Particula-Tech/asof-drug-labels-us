@@ -24,20 +24,20 @@ Pulmonary Toxicity
 
 Secondary Malignancies
 
-• Inform patients that there is an increased risk of secondary malignancies with Cyclophosphamide Injection [see Warnings and Precautions (5.5)].
+• Inform patients that there is an increased risk of secondary malignancies with Cyclophosphamide Injection [see Warnings and Precautions(5.5)].
 
 Alcohol Content
 
 - Explain to patients the possible effects of the alcohol content in Cyclophosphamide Injection, including possible effects on central nervous system.
   Patients in whom alcohol should be avoided or minimized should consider the alcohol content of Cyclophosphamide Injection.
-  Alcohol could impair their ability to drive or use machines immediately after infusion [see Warnings and Precautions (5.7)].
+  Alcohol could impair their ability to drive or use machines immediately after infusion [see Warnings and Precautions(5.7)].
 
 Embryo-Fetal Toxicity
 
 - Inform female patients of the risk to a fetus and potential loss of the pregnancy.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8)and Use in Specific Populations (8.1)].
-- Advise females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see Warnings and Precautions (5.8)and Use in Specific Populations(8.1, 8.3)].
-  Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see Warnings and Precautions (5.8)and Use in Specific Populations(8.1, 8.3)].
+- Advise females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see Warnings and Precautions (5.8) and Use in Specific Populations(8.1, 8.3)].
+  Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -45,7 +45,7 @@ Lactation
 
 Infertility
 
-- Cyclophosphamide Injection may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.9)and Use in Specific Populations (8.3, 8.4)].
+- Cyclophosphamide Injection may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.9) and Use in Specific Populations (8.3, 8.4)].
 
 Common Adverse Reactions
 

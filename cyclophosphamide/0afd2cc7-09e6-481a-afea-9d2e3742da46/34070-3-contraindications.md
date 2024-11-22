@@ -8,4 +8,4 @@ Cross-sensitivity with other alkylating agents can occur.
 
 - Urinary Outflow Obstruction
 
-Cyclophosphamide Injection is contraindicated in patients with urinary outflow obstruction [see Warnings and Precautions (5.2)].
+Cyclophosphamide Injection is contraindicated in patients with urinary outflow obstruction [see Warnings and Precautions(5.2)].

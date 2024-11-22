@@ -95,7 +95,7 @@ Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see Use in Specific Populations(8.3and 8.4)].
+Advise patients on the potential risks for infertility [see Use in Specific Populations(8.3 and 8.4)].
 
 ## 5.10 Impairment of Wound Healing
 

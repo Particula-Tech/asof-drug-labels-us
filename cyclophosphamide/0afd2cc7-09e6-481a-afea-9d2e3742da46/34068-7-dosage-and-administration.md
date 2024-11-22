@@ -13,7 +13,7 @@ Intravenous Use
 
 When used as the only oncolytic drug therapy, the recommended dosage for the initial course of cyclophosphamide for patients with no hematologic deficiency is 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days.
 Other intravenous regimens include 10mg per kg to 15 mg per kg given every 7 to 10 days or 3 mg per kg to 5 mg per kg twice weekly.
-Adjust the dosage of Cyclophosphamide Injection based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [see Warnings and Precautions (5)].
+Adjust the dosage of Cyclophosphamide Injection based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [see Warnings and Precautions (5].
 
 ## 2.4 Preparation, Handling and Administration
 

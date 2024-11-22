@@ -10,7 +10,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Secondary Malignancies [see Warnings and Precautions (5.5)]
 - Veno-occlusive Liver Disease [see Warnings and Precautions (5.6)]
 - Alcohol Content [seeWarnings and Precautions (5.7)]
-- Infertility [seeWarnings and Precautions (5.9)and Use in Specific Populations(8.3and 8.4)]
+- Infertility [seeWarnings and Precautions (5.9)and Use in Specific Populations(8.3 and 8.4)]
 - Impaired Wound Healing [see Warnings and Precautions (5.10)]
 - Hyponatremia [see Warnings and Precautions (5.11)]
 

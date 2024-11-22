@@ -20,7 +20,7 @@ Monitor for increased toxicities in patients receiving radiation therapy or drug
 
 • Pulmonary toxicity [see Warnings and Precautions (5.4)]
 
-• Secondary malignancies [see Warnings and Precautions (5.5)]
+• Secondary malignancies [see Warnings and Precautions (5.5]
 
 • Hepatotoxicity including liver necrosis and VOD [see Warnings and Precautions (5.6)]
 
