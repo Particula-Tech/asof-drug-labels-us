@@ -7,7 +7,7 @@ Information regarding potential drug-drug interactions with other antiretroviral
 
 ## 7.2 Effect of Other Drugs on DELSTRIGO
 
-Co-administration of DELSTRIGO with a CYP3A inducer decreases doravirine plasma concentrations, which may reduce DELSTRIGO efficacy [see Contraindications (4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
+Co-administration of DELSTRIGO with a CYP3A inducer decreases doravirine plasma concentrations, which may reduce DELSTRIGO efficacy [see Contraindications (4), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
 
 Co-administration of DELSTRIGO and drugs that are inhibitors of CYP3A may result in increased plasma concentrations of doravirine.
 
@@ -37,7 +37,7 @@ Table 6: Drug Interactions with DELSTRIGOThis table is not all-inclusive
 | All other drug-drug interactions shown are anticipated based on the known metabolic and elimination pathways. |  |  |
 
 Co-administration of DELSTRIGO with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of lamivudine, tenofovir, and/or other renally eliminated drugs.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 No clinically significant changes in concentration were observed for doravirine when co-administered with the following agents: TDF, lamivudine, elbasvir and grazoprevir, ledipasvir and sofosbuvir, ritonavir, ketoconazole, aluminum hydroxide/magnesium hydroxide/simethicone containing antacid, pantoprazole, or methadone [see Clinical Pharmacology (12.3)].
 
@@ -47,6 +47,6 @@ No clinically significant changes in concentration were observed for tenofovir w
 
 No clinically significant changes in concentration were observed for the following agents when co-administered with doravirine: lamivudine, TDF, elbasvir and grazoprevir, ledipasvir and sofosbuvir, atorvastatin, an oral contraceptive containing ethinyl estradiol and levonorgestrel, metformin, methadone, or midazolam.
 
-No clinically significant drug interactions have been observed between TDF and the following medications: entecavir, methadone, oral contraceptives, sofosbuvir, or tacrolimus in studies conducted in healthy subjects.
+No clinically significant drug interactions have been observed between TDF and the following medications: entecavir, methadone, oral contraceptives, sofosbuvir, or tacrolimus in studies conducted in healthy participants.
 
 Lamivudine is not significantly metabolized by CYP enzymes nor does it inhibit or induce this enzyme system; therefore, it is unlikely that clinically significant drug interactions will occur through these pathways [see Clinical Pharmacology (12.3)].

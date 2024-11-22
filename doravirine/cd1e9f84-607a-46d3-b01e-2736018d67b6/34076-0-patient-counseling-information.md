@@ -2,32 +2,38 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
+Severe Skin Reactions
 
-Inform patients that severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued lamivudine or TDF and may occur with discontinuation of DELSTRIGO [see Warnings and Precautions (5.1)].
+Inform patients that severe skin reactions including Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) have been reported with DELSTRIGO.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking DELSTRIGO and seek medical attention if a painful rash with mucosal involvement develops [see Warnings and Precautions (5.1)].
+
+Severe Acute Exacerbation of Hepatitis B in people with concomitant HIV-1 and HBV
+
+Inform patients that severe acute exacerbations of hepatitis B have been reported in people with concomitant HIV-1 and HBV who have discontinued lamivudine or TDF and may occur with discontinuation of DELSTRIGO [see Warnings and Precautions (5.2)].
 Advise patients not to discontinue DELSTRIGO without first informing their healthcare provider.
 
 Drug Interactions
 
-Inform patients that DELSTRIGO may interact with certain other drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.3), and Drug Interactions (7)].
+Inform patients that DELSTRIGO may interact with certain other drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7)].
 
 For patients concomitantly receiving rifabutin, take one tablet of doravirine (PIFELTRO) 100 mg approximately 12 hours after the dose of DELSTRIGO [see Dosage and Administration (2.4)].
 
 New Onset or Worsening Renal Impairment
 
 Inform patients that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of TDF.
-Advise patients to avoid DELSTRIGO with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDS) [see Warnings and Precautions (5.2)].
+Advise patients to avoid DELSTRIGO with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDS) [see Warnings and Precautions (5.3)].
 
 Bone Loss and Mineralization Defects
 
 Inform patients that decreases in bone mineral density have been observed with the use of TDF, a component of DELSTRIGO.
-Assessment of bone mineral density (BMD) should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.4)].
+Assessment of bone mineral density (BMD) should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.5)].
 
 Immune Reconstitution Syndrome
 
 Inform patients that in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
 It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
-Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.5)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.6)].
 
 Dosing Instructions
 
@@ -42,4 +48,4 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1-negative infants), (2) developing viral resistance (in HIV-1-positive infants), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].

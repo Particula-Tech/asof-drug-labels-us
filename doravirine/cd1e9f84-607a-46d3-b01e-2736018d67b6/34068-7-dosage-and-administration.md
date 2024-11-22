@@ -2,10 +2,10 @@
 
 ## 2.1 Testing When Initiating and During Treatment with DELSTRIGO
 
-Prior to or when initiating DELSTRIGO, test patients for HBV infection [see Warnings and Precautions (5.1)].
+Prior to or when initiating DELSTRIGO, test patients for HBV infection [see Warnings and Precautions (5.2)].
 
 Prior to or when initiating DELSTRIGO, and during treatment with DELSTRIGO, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
-In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.2)].
+In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.3)].
 
 ## 2.2 Recommended Dosage
 
@@ -14,7 +14,7 @@ The recommended dosage of DELSTRIGO in adults and pediatric patients weighing at
 
 ## 2.3 Renal Impairment
 
-Because DELSTRIGO is a fixed-dose combination tablet and the dosage of lamivudine and TDF cannot be adjusted, DELSTRIGO is not recommended in patients with estimated creatinine clearance less than 50 mL/min [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+Because DELSTRIGO is a fixed-dose combination tablet and the dosage of lamivudine and TDF cannot be adjusted, DELSTRIGO is not recommended in patients with estimated creatinine clearance less than 50 mL/min [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 ## 2.4 Dosage Adjustment with Rifabutin
 

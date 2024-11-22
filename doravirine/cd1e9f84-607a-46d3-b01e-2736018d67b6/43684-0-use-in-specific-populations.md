@@ -54,12 +54,10 @@ TDF: Reproduction studies have been performed in rats and rabbits at doses up to
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking potential transmission of HIV-1 infection.
-
 Based on limited published data, both lamivudine and tenofovir are present in human milk.
 It is unknown whether doravirine is present in human milk, but doravirine is present in the milk of lactating rats (see Data).
 It is not known whether DELSTRIGO or the components of DELSTRIGO affects human milk production, or has effects on the breastfed infant.
-Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving DELSTRIGO.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1-negative infants), (2) developing viral resistance (in HIV-1-positive infants), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 
@@ -69,20 +67,20 @@ Doravirine: Doravirine was excreted into the milk of lactating rats following or
 
 The safety and efficacy of DELSTRIGO for the treatment of HIV-1 infection have been established in pediatric patients weighing at least 35 kg [see Indications and Usage (1) and Dosage and Administration (2.2)].
 
-Use of DELSTRIGO in this group is supported by evidence from adequate and well-controlled trials in adults with additional pharmacokinetic, safety, and efficacy data from an open-label trial in virologically-suppressed or treatment-naïve pediatric subjects 12 to less than 18 years of age.
-The safety and efficacy of DELSTRIGO in these pediatric subjects were similar to that in adults, and there was no clinically significant difference in exposure for the components of DELSTRIGO.
-[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3).]
+Use of DELSTRIGO in this group is supported by evidence from adequate and well-controlled trials in adults with additional pharmacokinetic, safety, and efficacy data from an open-label trial in virologically-suppressed or treatment-naïve pediatric participants 12 to less than 18 years of age.
+The safety and efficacy of DELSTRIGO in these pediatric participants were similar to that in adults, and there was no clinically significant difference in exposure for the components of DELSTRIGO.
+[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
 
 Safety and efficacy of DELSTRIGO in pediatric patients weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of doravirine, lamivudine, or TDF did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
+Clinical trials of doravirine, lamivudine, or TDF did not include sufficient numbers of participants aged 65 years and over to determine whether they respond differently from younger participants.
 In general, caution should be exercised in the administration of DELSTRIGO in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-Because DELSTRIGO is a fixed-dose combination tablet and the dosage of lamivudine and TDF, both components of DELSTRIGO, cannot be altered, DELSTRIGO is not recommended in patients with estimated creatinine clearance less than 50 mL/min [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Because DELSTRIGO is a fixed-dose combination tablet and the dosage of lamivudine and TDF, both components of DELSTRIGO, cannot be altered, DELSTRIGO is not recommended in patients with estimated creatinine clearance less than 50 mL/min [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

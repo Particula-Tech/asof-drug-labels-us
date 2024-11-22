@@ -6,7 +6,7 @@ DELSTRIGO is a fixed-dose combination of the antiretroviral drugs doravirine, la
 
 ## 12.2 Pharmacodynamics
 
-In a Phase 2 trial evaluating doravirine over a dose range of 0.25 to 2 times the recommended dose of doravirine in DELSTRIGO (in combination with FTC/TDF) in HIV-1-infected subjects with no antiretroviral treatment history, no exposure-response relationship for efficacy was identified for doravirine.
+In a Phase 2 trial evaluating doravirine over a dose range of 0.25 to 2 times the recommended dose of doravirine in DELSTRIGO (in combination with FTC/TDF) in participants living with HIV with no antiretroviral treatment history, no exposure-response relationship for efficacy was identified for doravirine.
 
 Cardiac Electrophysiology
 
@@ -14,8 +14,8 @@ At a doravirine dose of 1200 mg, which provides approximately 4 times the peak c
 
 ## 12.3 Pharmacokinetics
 
-Single-dose administration of one DELSTRIGO tablet to healthy subjects provided comparable exposures of doravirine, lamivudine, and tenofovir to administration of doravirine tablets (100 mg) plus lamivudine tablets (300 mg) plus TDF tablets (300 mg).
-Doravirine pharmacokinetics are similar in healthy subjects and HIV-1-infected subjects.
+Single-dose administration of one DELSTRIGO tablet to healthy participants provided comparable exposures of doravirine, lamivudine, and tenofovir to administration of doravirine tablets (100 mg) plus lamivudine tablets (300 mg) plus TDF tablets (300 mg).
+Doravirine pharmacokinetics are similar in healthy participants and participants living with HIV.
 Pharmacokinetic properties of the components of DELSTRIGO are provided in Table 7.
 
 Table 7: Pharmacokinetic Properties of the Components of DELSTRIGO
@@ -24,7 +24,7 @@ Table 7: Pharmacokinetic Properties of the Components of DELSTRIGO
 | --- | --- | --- | --- |
 | General |  |  |  |
 | Steady State ExposurePresented as geometric mean (%CV: geometric coefficient of variation) or mean ± SD. |  |  |  |
-| AUC0-24 (mcg∙h/mL) | 16.1 (29)Doravirine 100 mg once daily to HIV-1-infected subjects. | 8.87 ± 1.83Lamivudine 300 mg once daily for 7 days to 60 healthy subjects. | 2.29 ± 0.69Single 300 mg dose of TDF to HIV-1-infected subjects in the fasted state. |
+| AUC0-24 (mcg∙h/mL) | 16.1 (29)Doravirine 100 mg once daily to participants living with HIV. | 8.87 ± 1.83Lamivudine 300 mg once daily for 7 days to 60 healthy participants. | 2.29 ± 0.69Single 300 mg dose of TDF to participants living with HIV in the fasted state. |
 | Cmax (mcg/mL) | 0.962 (19) | 2.04 ± 0.54 | 0.30 ± 0.09 |
 | C24 (mcg/mL) | 0.396 (63) | NA | NA |
 | Absorption |  |  |  |
@@ -56,31 +56,31 @@ The effects of age (≥65 years) on the pharmacokinetics of lamivudine and tenof
 
 Patients with Renal Impairment
 
-Doravirine: No clinically significant difference in the pharmacokinetics of doravirine were observed in subjects with mild to severe renal impairment (creatinine clearance (CLcr) >15 mL/min, estimated by Cockcroft-Gault).
+Doravirine: No clinically significant difference in the pharmacokinetics of doravirine were observed in participants with mild to severe renal impairment (creatinine clearance (CLcr) >15 mL/min, estimated by Cockcroft-Gault).
 Doravirine has not been studied in patients with end-stage renal disease or in patients undergoing dialysis.
 
 Lamivudine: The AUC∞, Cmax, and half-life of lamivudine increased and CL/F decreased to a clinically significant extent with diminishing renal function (CLcr 111 to < 10 mL/min).
 
-TDF: A clinically significant increase in the Cmax and AUC of tenofovir was observed in subjects with CLcr < 50 mL/min or with end stage renal disease requiring dialysis [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+TDF: A clinically significant increase in the Cmax and AUC of tenofovir was observed in participants with CLcr < 50 mL/min or with end stage renal disease requiring dialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-Doravirine: No clinically significant difference in the pharmacokinetics of doravirine was observed in subjects with moderate hepatic impairment (Child-Pugh score B) compared to subjects without hepatic impairment.
-Doravirine has not been studied in subjects with severe hepatic impairment (Child-Pugh score C).
+Doravirine: No clinically significant difference in the pharmacokinetics of doravirine was observed in participants with moderate hepatic impairment (Child-Pugh score B) compared to participants without hepatic impairment.
+Doravirine has not been studied in participants with severe hepatic impairment (Child-Pugh score C).
 
 Lamivudine: No clinically significant differences in lamivudine pharmacokinetics were observed with diminishing hepatic function.
 Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
 
-TDF: No clinically significant differences in tenofovir pharmacokinetics were observed between subjects with any degree of hepatic impairment and healthy subjects.
+TDF: No clinically significant differences in tenofovir pharmacokinetics were observed between participants with any degree of hepatic impairment and unimpaired participants.
 
 Pediatric Patients
 
-Mean doravirine exposures were similar in 54 pediatric patients aged 12 to less than 18 years and weighing at least 35 kg who received doravirine or DELSTRIGO in IMPAACT 2014 (Protocol 027) relative to adults following administration of doravirine or DELSTRIGO.
-Exposures of lamivudine and tenofovir in pediatric patients following the administration of DELSTRIGO were similar to those in adults following administration of lamivudine and tenofovir (Table 8).
-For pediatric patients weighing ≥ 35 kg and < 45 kg who receive doravirine 100 mg or DELSTRIGO, the population pharmacokinetic model-predicted mean C24 of doravirine was comparable to that achieved in adults, whereas mean AUC0-24 and Cmax of doravirine were 25% and 36% higher than adult values, respectively.
+Mean doravirine exposures were similar in 54 pediatric participants aged 12 to less than 18 years and weighing at least 35 kg who received doravirine or DELSTRIGO in IMPAACT 2014 (Protocol 027) relative to adults following administration of doravirine or DELSTRIGO.
+Exposures of lamivudine and tenofovir in pediatric participants following the administration of DELSTRIGO were similar to those in adults following administration of lamivudine and tenofovir (Table 8).
+For pediatric participants weighing ≥ 35 kg and < 45 kg who receive doravirine 100 mg or DELSTRIGO, the population pharmacokinetic model-predicted mean C24 of doravirine was comparable to that achieved in adults, whereas mean AUC0-24 and Cmax of doravirine were 25% and 36% higher than adult values, respectively.
 However, the predicted AUC0-24 and Cmax increases are not considered clinically significant.
 
-Table 8: Steady State Pharmacokinetics for Doravirine, Lamivudine, and Tenofovir Following Administration of Doravirine or DELSTRIGO in HIV-1-Infected Pediatric Patients Aged 12 to Less than 18 Years and Weighing at Least 35 kg
+Table 8: Steady State Pharmacokinetics for Doravirine, Lamivudine, and Tenofovir Following Administration of Doravirine or DELSTRIGO in Pediatric Participants Living with HIV Aged 12 to Less than 18 Years and Weighing at Least 35 kg
 
 | ParameterPresented as geometric mean (%CV: geometric coefficient of variation) | DoravirineFrom population PK analysis (n=53 weighing ≥45 kg, n=1 weighing ≥35 kg to <45 kg) | LamivudineFrom intensive PK analysis (n=10) | Tenofovir |
 | --- | --- | --- | --- |
@@ -182,7 +182,7 @@ Observed emergent amino acid substitutions in RT included: V106A, V106I, V106M, 
 The V106A, V106M, V108I, H221Y, F227C, M230I, P236L, and Y318F substitutions conferred 3.4-fold to 70-fold reductions in susceptibility to doravirine.
 Y318F in combination with V106A, V106M, V108I, or F227C conferred greater decreases in susceptibility to doravirine than Y318F alone, which conferred a 10-fold reduction in susceptibility to doravirine.
 
-Lamivudine: Lamivudine-resistant variants of HIV-1 have been selected in cell culture and in subjects treated with lamivudine.
+Lamivudine: Lamivudine-resistant variants of HIV-1 have been selected in cell culture and in participants treated with lamivudine.
 Genotypic analysis showed that substitutions M184I or V cause resistance to lamivudine.
 
 TDF: HIV-1 isolates selected by tenofovir in cell culture expressed a K65R substitution in HIV-1 RT and showed a 2–4 -fold reduction in susceptibility to tenofovir.
@@ -192,23 +192,23 @@ In Clinical Trials
 
 Clinical Trial Results in Adults with No Antiretroviral Treatment History
 
-Doravirine: In the doravirine treatment arm of the DRIVE-AHEAD trial (n=364) through 96 weeks, 10 subjects showed the emergence of doravirine resistance-associated substitutions among 24 (42%) subjects in the resistance analysis subset (subjects with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having post-baseline resistance samples).
+Doravirine: In the doravirine treatment arm of the DRIVE-AHEAD trial (n=364) through 96 weeks, 10 participants showed the emergence of doravirine resistance-associated substitutions among 24 (42%) participants in the resistance analysis subset (participants with HIV-1 RNA greater than 400 copies per mL at virologic failure or early study discontinuation and having post-baseline resistance samples).
 Emergent doravirine resistance-associated substitutions in RT included one or more of the following: V90V/G, A98G, V106A, V106I, V106M/T, V108I, E138G, Y188L, H221Y, P225H, P225L, P225P/S, F227C, F227C/R, Y318Y/F, and Y318Y/S.
-Six of the 10 subjects with emergent doravirine resistance-associated substitutions showed doravirine phenotypic resistance and all of them had a greater than 100-fold reduction in doravirine susceptibility (range >103 to >211).
+Six of the 10 participants with emergent doravirine resistance-associated substitutions showed doravirine phenotypic resistance and all of them had a greater than 100-fold reduction in doravirine susceptibility (range >103 to >211).
 The other 4 virologic failures who had only amino acid mixtures of NNRTI resistance substitutions showed doravirine phenotypic fold-changes of less than 2-fold.
 
-In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364) through Week 96, 15 subjects showed the emergence of efavirenz resistance-associated substitutions among 25 (60%) subjects in the resistance analysis subset.
+In the EFV/FTC/TDF treatment arm of the DRIVE-AHEAD trial (n=364) through Week 96, 15 participants showed the emergence of efavirenz resistance-associated substitutions among 25 (60%) participants in the resistance analysis subset.
 
-Lamivudine and TDF: In a pooled analysis of antiretroviral-naïve subjects who received doravirine, lamivudine, and TDF, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure or at time of early study drug discontinuation.
-Genotypic resistance developed in 8 evaluable subjects who received DOR/3TC/TDF through Week 96.
+Lamivudine and TDF: In a pooled analysis of antiretroviral-naïve participants who received doravirine, lamivudine, and TDF, genotyping was performed on plasma HIV-1 isolates from all participants with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure or at time of early study drug discontinuation.
+Genotypic resistance developed in 8 evaluable participants who received DOR/3TC/TDF through Week 96.
 The resistance–associated substitutions that emerged were RT M41L (n=1), A62A/V (n=1), K65R (n=2), T69T/A (n=1), V75V/I (n=1), and M184V (n=5).
-In comparison, genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable subjects who received EFV/FTC/TDF in DRIVE-AHEAD; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), M184I or V (n=5), and K219K/E (n=1).
+In comparison, genotypic resistance to emtricitabine or tenofovir developed in 5 evaluable participants who received EFV/FTC/TDF in DRIVE-AHEAD; emergent resistance-associated substitutions were RT K65R (n=1), D67G/K70E (n=1), L74V/V75M/V118I (n=1), M184I or V (n=5), and K219K/E (n=1).
 
 Clinical Trial Results in Virologically-Suppressed Adults
 
-In the DRIVE-SHIFT clinical trial [see Clinical Studies (14.2)], there were 6 subjects in the immediate switch group (n=447) and 2 subjects in the delayed switch group (n=209) who met the protocol-defined virologic failure criteria (confirmed HIV-1 RNA ≥ 50 copies/mL).
-Two of the 6 virologic failure subjects in the immediate switch group had available resistance data and neither developed detectable genotypic or phenotypic resistance to doravirine, lamivudine, or tenofovir during treatment with DELSTRIGO.
-One of the two virologic failure subjects in the delayed switch group who had available resistance data developed the RT M184M/I substitution and phenotypic resistance to emtricitabine and lamivudine during treatment with their baseline regimen.
+In the DRIVE-SHIFT clinical trial [see Clinical Studies (14.2)], there were 6 participants in the immediate switch group (n=447) and 2 participants in the delayed switch group (n=209) who met the protocol-defined virologic failure criteria (confirmed HIV-1 RNA ≥ 50 copies/mL).
+Two of the 6 virologic failure participants in the immediate switch group had available resistance data and neither developed detectable genotypic or phenotypic resistance to doravirine, lamivudine, or tenofovir during treatment with DELSTRIGO.
+One of the two virologic failure participants in the delayed switch group who had available resistance data developed the RT M184M/I substitution and phenotypic resistance to emtricitabine and lamivudine during treatment with their baseline regimen.
 
 Cross-Resistance
 
@@ -216,8 +216,8 @@ No significant cross-resistance has been demonstrated between doravirine-resista
 
 Doravirine: Cross-resistance has been observed among NNRTIs.
 Treatment-emergent doravirine resistance-associated substitutions can confer cross resistance to efavirenz, etravirine, nevirapine, and rilpivirine.
-Of the 6 virologic failure subjects who developed doravirine phenotypic resistance, all had phenotypic resistance to efavirenz and nevirapine, 4 had phenotypic resistance to rilpivirine, and 4 had resistance to etravirine in the Monogram PhenoSense assay.
-Of the 11 virologic failure subjects phenotypically resistant to efavirenz, 2 (18%) had decreased susceptibility to doravirine (18- and 36-fold).
+Of the 6 virologic failure participants who developed doravirine phenotypic resistance, all had phenotypic resistance to efavirenz and nevirapine, 4 had phenotypic resistance to rilpivirine, and 4 had resistance to etravirine in the Monogram PhenoSense assay.
+Of the 11 virologic failure participants phenotypically resistant to efavirenz, 2 (18%) had decreased susceptibility to doravirine (18- and 36-fold).
 
 The treatment-emergent doravirine resistance-associated substitution Y318F did not confer reduced susceptibility to efavirenz, etravirine, or rilpivirine.
 
@@ -229,10 +229,10 @@ The M184I/V lamivudine resistance-associated substitution confers resistance to 
 Lamivudine also has reduced susceptibility against the K65R substitution.
 
 TDF: Cross-resistance has been observed among NRTIs.
-The K65R substitution in HIV-1 RT selected by tenofovir is also selected in some HIV-1-infected patients treated with abacavir or didanosine.
+The K65R substitution in HIV-1 RT selected by tenofovir is also selected in some patients living with HIV treated with abacavir or didanosine.
 HIV-1 isolates with the K65R substitution also showed reduced susceptibility to emtricitabine and lamivudine.
 Therefore, cross-resistance among these NRTIs may occur in patients whose virus harbors the K65R substitution.
 The K70E substitution selected clinically by TDF results in reduced susceptibility to abacavir, didanosine, emtricitabine, lamivudine, and tenofovir.
 HIV-1 isolates from patients (n=20) whose HIV-1 expressed a mean of 3 zidovudine resistance-associated substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
-Subjects whose virus expressed an RT L74V substitution without zidovudine resistance-associated substitutions (n=8) had reduced response to TDF.
+Participants whose virus expressed an RT L74V substitution without zidovudine resistance-associated substitutions (n=8) had reduced response to TDF.
 Limited data are available for patients whose virus expressed a Y115F substitution (n=3), Q151M substitution (n=2), or T69 insertion (n=4) in HIV-1 RT, all of whom had a reduced response in clinical trials.
