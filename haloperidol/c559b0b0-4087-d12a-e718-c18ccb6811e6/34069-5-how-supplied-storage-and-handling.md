@@ -53,4 +53,4 @@ Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
 750XXXXX
 
-Revised: 9/2024 MXI:HALO:RX
+Revised: 11/2024 MXI:HALO:RX1
