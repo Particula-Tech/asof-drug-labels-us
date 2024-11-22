@@ -13,12 +13,15 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by
+For additional medication guide please go to www.us.sandoz.com or call 1-800-525-8747.
 
-Sandoz Inc.
+Manufactured in India by
 
-Princeton, NJ 08540
+Sandoz Private Ltd., for
 
-46299643
+Sandoz Inc., Princeton, NJ 08540
 
-MF42029400REV11/23
+46347775
+
+Rev.
+05/2024

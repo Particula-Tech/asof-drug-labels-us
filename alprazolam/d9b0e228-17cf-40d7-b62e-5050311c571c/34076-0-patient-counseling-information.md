@@ -44,3 +44,9 @@ Advise patients that breastfeeding is not recommended during treatment with alpr
 
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.sandoz.com.
+
+Manufactured in India by
+
+Sandoz Private Ltd., for
+
+Sandoz Inc., Princeton, NJ 08540
