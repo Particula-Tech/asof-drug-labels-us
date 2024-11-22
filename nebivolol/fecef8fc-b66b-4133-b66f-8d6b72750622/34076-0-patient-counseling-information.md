@@ -31,3 +31,5 @@ Ascend Laboratories, LLC
 Parsippany, NJ 07054
 
 Trademarks are the property of their respective owners.
+
+For Patient Information, please visit: www.ascendlaboratories.com/pti/nebivololtabs.pdf
