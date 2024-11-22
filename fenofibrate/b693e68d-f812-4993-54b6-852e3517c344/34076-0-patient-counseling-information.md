@@ -16,4 +16,9 @@ Patients should be advised:
 
 Manufactured for AbbVie Inc., North Chicago, IL 60064, U.S.A. by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.
 
-20067131 June, 2021
+© 2024 AbbVie.
+All rights reserved.
+
+TRICOR and its design are trademarks of AbbVie Inc.
+
+November, 2024
