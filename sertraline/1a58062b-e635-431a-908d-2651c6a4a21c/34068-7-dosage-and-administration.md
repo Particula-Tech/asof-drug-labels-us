@@ -13,12 +13,12 @@ Table 1: Recommended Daily Dosage of Sertraline Hydrochloride in Patients with M
 | Indication | Starting Dose | Therapeutic Range |
 | --- | --- | --- |
 | Adults |  |  |
-| MDD | 50 mg | 50–200 mg |
+| MDD | 50 mg | 50-200 mg |
 | OCD | 50 mg |  |
 | PD, PTSD, SAD | 25 mg |  |
 | Pediatric Patients |  |  |
-| OCD (ages 6–12 years old) | 25 mg | 50–200 mg |
-| OCD (ages 13–17 years old) | 50 mg |  |
+| OCD (ages 6-12 years old) | 25 mg | 50-200 mg |
+| OCD (ages 13-17 years old) | 50 mg |  |
 
 ## 2.2 Dosage in Patients with PMDD
 
@@ -36,7 +36,7 @@ Prior to initiating treatment with sertraline hydrochloride or another antidepre
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
 Both the recommended starting dosage and therapeutic range in patients with mild hepatic impairment (Child Pugh scores 5 or 6) are half the recommended daily dosage [See Dosage and Administration (2.1, 2.2)].
-The use of sertraline hydrochloride in patients with moderate (Child Pugh scores 7 to 9) or severe hepatic impairment (Child Pugh scores 10–15) is not recommended [See Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+The use of sertraline hydrochloride in patients with moderate (Child Pugh scores 7 to 9) or severe hepatic impairment (Child Pugh scores 10-15) is not recommended [See Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 

@@ -14,9 +14,9 @@ Table 2: Risk Differences of the Number of Cases of Suicidal Thoughts or Behavio
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional patients |
-| 18–24 | 5 additional patients |
+| 18-24 | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25–64 | 1 fewer patient |
+| 25-64 | 1 fewer patient |
 | ≥65 | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in pediatric and young adult patients extends to longer-term use, i.e., beyond four months.
@@ -29,7 +29,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing sert
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective serotonin reuptake inhibitors (SSRIs), including sertraline hydrochloride, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [See Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [See Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -48,6 +48,7 @@ If concomitant use of sertraline hydrochloride with other serotonergic drugs is 
 Drugs that interfere with serotonin reuptake inhibition, including sertraline hydrochloride, increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations (8.1)].
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients of the increased risk of bleeding associated with the concomitant use of sertraline hydrochloride and antiplatelet agents or anticoagulants.
@@ -61,8 +62,8 @@ Prior to initiating treatment with sertraline hydrochloride, screen patients for
 
 ## 5.5 Discontinuation Syndrome
 
-1. Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-   A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [See Dosage and Administration (2.6)].
+Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
+A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [See Dosage and Administration (2.6)].
 
 ## 5.6 Seizures
 
@@ -95,10 +96,10 @@ Confirmatory tests, such as gas chromatography/mass spectrometry, will help dist
 
 ## 5.10 QTc Prolongation
 
-1. During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
-   Most reports were confounded by other risk factors.
-   In a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration.
-   Therefore, sertraline hydrochloride should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].
+During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
+Most reports were confounded by other risk factors.
+In a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration.
+Therefore, sertraline hydrochloride should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].
 
 ## 5.11 Sexual Dysfunction
 

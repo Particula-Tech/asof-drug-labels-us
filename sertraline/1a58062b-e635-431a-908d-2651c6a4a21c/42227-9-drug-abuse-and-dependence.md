@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Sertraline hydrochloride is not a controlled substance.
+Sertraline hydrochloride oral solution contains sertraline, which is not a controlled substance.
 
 ## 9.2 Abuse
 

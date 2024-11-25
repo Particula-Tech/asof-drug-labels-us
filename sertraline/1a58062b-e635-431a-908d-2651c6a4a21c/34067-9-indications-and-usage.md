@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Sertraline hydrochloride is indicated for the treatment of the following [See Clinical Studies (14)]:
+Sertraline hydrochloride oral solution is indicated for the treatment of the following [See Clinical Studies (14)]:
 
 - •Major depressive disorder (MDD)
 - •Obsessive-compulsive disorder (OCD)

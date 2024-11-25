@@ -18,14 +18,14 @@ For patients prescribed sertraline hydrochloride oral solution, inform them that
   At times, a slight haze may appear after mixing; this is normal.
 - •The dropper dispenser contains dry natural rubber, a consideration for patients with latex sensitivity.
 
-Disulfiram Contraindication for sertraline hydrochloride Oral Solution
+Disulfiram Contraindication for Sertraline Hydrochloride Oral Solution
 
 Inform patients not to take disulfiram when taking sertraline hydrochloride oral solution.
 Concomitant use is contraindicated due the alcohol content of the oral solution [See Contraindication (4)].
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of sertraline hydrochloride with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of sertraline hydrochloride with other serotonergic drugs including triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Patients should contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [See Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 Increased Risk of Bleeding
@@ -54,3 +54,12 @@ Advise patients to notify their healthcare provider if they develop an allergic 
 Pregnancy
 
 Inform pregnant women that sertraline hydrochloride may cause withdrawal symptoms in the newborn or persistent pulmonary hypertension of the newborn (PPHN) [See Use in Specific Populations (8.1)].
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes of women exposed to sertraline hydrochloride during pregnancy.
+
+GREENSTONE® BRAND Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2024 Viatris Inc.
+
+The brands listed are trademarks of their respective owners.
+
+GST:SERT:R1

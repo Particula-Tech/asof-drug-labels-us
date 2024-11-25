@@ -1,30 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label - NDC 59762-0067-1
+# PRINCIPAL DISPLAY PANEL – 20 mg/mL
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 59762-0067-1
-
-GREENSTONE® BRAND
-
-60 mL
-
-sertraline hydrochloride ORAL SOLUTION
-
-equivalent to 20 mg/mL* of sertraline
-
-Must Be Diluted Before Use (see side panel for instructions)
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 59762-0067-1
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE
-
-NDC 59762-0067-1
-
-GREENSTONE® BRAND
-
-New Label, Same Product.
 
 60 mL
 
@@ -34,46 +12,30 @@ equivalent to 20 mg/mL* of sertraline
 
 Must Be Diluted Before Use (see side panel for instructions)
 
-Distributed by: Greenstone LLC Peapack, NJ 07977
-
-# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE
-
-NDC 59762-6347-1 30 Tablets
-
-GREENSTONE® BRAND
-
-sertraline hydrochloride tablets
-
-25 mg*
-
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+STORE UPRIGHT.
 
-NDC 59762-6443-1 30 Tablets
+DOSAGE AND USE See accompanying prescribing information.
 
-GREENSTONE® BRAND
+* Each mL of solution contains 22.4 mg sertraline hydrochloride equivalent to 20 mg of sertraline.
 
-sertraline hydrochloride tablets
+Contains 12% alcohol.
 
-50 mg*
+THE PACKAGING OF THIS PRODUCT CONTAINS DRY NATURAL RUBBER.
 
-Rx only
+GST:0067:1C:R1
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+SERTRALINE HYDROCHLORIDE ORAL SOLUTION MUST BE DILUTED BEFORE USE.
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+MIXING INSTRUCTIONS
 
-NDC 59762-5160-1 30 Tablets
+Just before taking, use the dropper provided to remove the required amount of Sertraline hydrochloride oral solution and mix with 4 oz (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+Do not mix Sertraline hydrochloride oral solution with anything other than the liquids listed.
+At times, a slight haze may appear after mixing; this is normal.
+The medicine should be given immediately after mixing.
+DO NOT MIX IN ADVANCE.
 
-GREENSTONE® BRAND
-
-sertraline hydrochloride tablets
-
-100 mg*
-
-Rx only
+Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A. © 2024 Viatris Inc. Made in Spain

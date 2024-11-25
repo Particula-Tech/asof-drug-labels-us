@@ -9,4 +9,4 @@ Sertraline hydrochloride is contraindicated in patients:
 In addition to the contraindications for all sertraline hydrochloride formulations listed above, sertraline hydrochloride oral solution is contraindicated in patients:
 
 - •Taking disulfiram.
-  Sertraline hydrochloride oral solution contains alcohol, and concomitant use of sertraline hydrochloride and disulfiram may result in a disulfiram-alcohol reaction.
+  Sertraline hydrochloride oral solution contains alcohol, and concomitant use of sertraline hydrochloride oral solution and disulfiram may result in a disulfiram-alcohol reaction.

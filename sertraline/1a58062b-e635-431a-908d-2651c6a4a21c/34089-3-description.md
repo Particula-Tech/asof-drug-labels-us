@@ -1,12 +1,10 @@
 # 11 DESCRIPTION
 
-Sertraline hydrochloride is an SSRI.
+Sertraline hydrochloride oral solution contains sertraline hydrochloride, an SSRI.
 Sertraline hydrochloride has a molecular weight of 342.7 and has the following chemical name: (1S-cis)-4-(3,4-dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride.
-The empirical formula C17H17NCl2∙HCl is represented by the following structural formula:
+The empirical formula C17H17NCl2•HCl is represented by the following structural formula:
 
 Sertraline hydrochloride is a white crystalline powder that is slightly soluble in water and isopropyl alcohol, and sparingly soluble in ethanol.
-
-Sertraline hydrochloride tablets for oral administration contain 28.0 mg, 56.0 mg and 111.9 mg sertraline hydrochloride equivalent to 25, 50 and 100 mg of sertraline and the following inactive ingredients: dibasic calcium phosphate dihydrate, D & C Yellow #10 aluminum lake (in 25 mg tablet), FD & C Blue #1 aluminum lake (in 25 mg tablet), FD & C Red #40 aluminum lake (in 25 mg tablet), FD & C Blue #2 aluminum lake (in 50 mg tablet), hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate, synthetic yellow iron oxide (in 100 mg tablet), and titanium dioxide.
 
 Sertraline hydrochloride oral solution is available in a multidose 60 mL bottle.
 Each mL of solution contains 22.4 mg sertraline hydrochloride equivalent to 20 mg of sertraline.

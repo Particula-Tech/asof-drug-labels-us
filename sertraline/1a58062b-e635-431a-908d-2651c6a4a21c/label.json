@@ -1,30 +1,17 @@
 {
   "application_numbers": [
-    "NDA019839",
     "NDA020990"
   ],
   "inn": "sertraline",
   "labeler": "Greenstone LLC",
   "package_ndcs": [
-    "59762-0067-1",
-    "59762-5160-1",
-    "59762-5160-2",
-    "59762-5160-3",
-    "59762-6347-1",
-    "59762-6443-1",
-    "59762-6443-2",
-    "59762-6443-3"
+    "59762-0067-1"
   ],
   "products": [
     {
       "form": "SOLUTION, CONCENTRATE",
       "generic": "sertraline hydrochloride",
-      "name": "SERTRALINE HYDROCHLORIDE"
-    },
-    {
-      "form": "TABLET, FILM COATED",
-      "generic": "sertraline hydrochloride",
-      "name": "SERTRALINE HYDROCHLORIDE"
+      "name": "Sertraline hydrochloride"
     }
   ],
   "setid": "1a58062b-e635-431a-908d-2651c6a4a21c",

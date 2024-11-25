@@ -35,15 +35,15 @@ The following are the most common adverse reactions in trials of sertraline hydr
 
 Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDDAdverse reactions that occurred greater than 2% in sertraline hydrochloride-treated patients and at least 2% greater in sertraline hydrochloride-treated patients than placebo-treated patients.
 
-|  | Sertraline Hydrochloride (N=3066) | Placebo (N=2293) |
+|  | Sertraline Hydrochloride(N=3066) | Placebo(N=2293) |
 | --- | --- | --- |
 | Cardiac disorders |  |  |
 | Palpitations | 4% | 2% |
 | Eye disorders |  |  |
 | Visual impairment | 4% | 2% |
-| Gastrointestinal Disorders |  |  |
+| Gastrointestinal disorders |  |  |
 | Nausea | 26% | 12% |
-| Diarrhea/Loose Stools | 20% | 10% |
+| Diarrhea/Loose stools | 20% | 10% |
 | Dry mouth | 14% | 9% |
 | Dyspepsia | 8% | 4% |
 | Constipation | 6% | 4% |
@@ -56,19 +56,19 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Dizziness | 12% | 8% |
 | Somnolence | 11% | 6% |
 | Tremor | 9% | 2% |
-| Psychiatric Disorders |  |  |
+| Psychiatric disorders |  |  |
 | Insomnia | 20% | 13% |
 | Agitation | 8% | 5% |
-| Libido Decreased | 6% | 2% |
+| Libido decreased | 6% | 2% |
 | Reproductive system and breast disorders |  |  |
-| Ejaculation failure Denominator used was for male patients only (n=1316 sertraline hydrochloride; n=973 placebo). | 8% | 1% |
+| Ejaculation failureDenominator used was for male patients only (n=1316 sertraline hydrochloride; n=973 placebo). | 8% | 1% |
 | Erectile dysfunction | 4% | 1% |
 | Ejaculation disorder | 3% | 0% |
 | Male sexual dysfunction | 2% | 0% |
 | Skin and subcutaneous tissue disorders |  |  |
 | Hyperhidrosis | 7% | 3% |
 
-Adverse Reactions Leading to Discontinuation in Placebo-Controlled Clinical Trials
+### Adverse Reactions Leading to Discontinuation in Placebo-Controlled Clinical Trials
 
 In all placebo-controlled studies in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 368 (12%) of the 3066 patients who received sertraline hydrochloride discontinued treatment due to an adverse reaction, compared with 93 (4%) of the 2293 placebo-treated patients.
 In placebo-controlled studies, the following were the common adverse reactions leading to discontinuation in sertraline hydrochloride-treated patients:
@@ -78,7 +78,7 @@ In placebo-controlled studies, the following were the common adverse reactions l
 - •OCD: somnolence.
 - •PD: nervousness and somnolence.
 
-Male and Female Sexual Dysfunction
+### Male and Female Sexual Dysfunction
 
 Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of SSRI treatment.
 However, reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, in part because patients and healthcare providers may be reluctant to discuss them.
@@ -101,18 +101,18 @@ Table 4: Most Common Sexual Adverse Reactions (≥2% and twice placebo) in Men o
 | Women only | (N=1750) | (N=1320) |
 | Libido decreased | 4% | 2% |
 
-Adverse Reactions in Pediatric Patients
+### Adverse Reactions in Pediatric Patients
 
 In 281 pediatric patients treated with sertraline hydrochloride in placebo-controlled studies, the overall profile of adverse reactions was generally similar to that seen in adult studies.
 Adverse reactions that do not appear in Table 3 (most common adverse reactions in adults) yet were reported in at least 2% of pediatric patients and at a rate of at least twice the placebo rate include fever, hyperkinesia, urinary incontinence, aggression, epistaxis, purpura, arthralgia, decreased weight, muscle twitching, and anxiety.
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Sertraline Hydrochloride
+### Other Adverse Reactions Observed During the Premarketing Evaluation of Sertraline Hydrochloride
 
 Other infrequent adverse reactions, not described elsewhere in the prescribing information, occurring at an incidence of < 2% in patients treated with sertraline hydrochloride were:
 
-Cardiac disorders – tachycardia
+Cardiac disorders - tachycardia
 
-Ear and labyrinth disorders – tinnitus
+Ear and labyrinth disorders - tinnitus
 
 Endocrine disorders - hypothyroidism
 
@@ -173,7 +173,7 @@ Psychiatric disorders - psychosis, enuresis, paroniria
 
 Renal and urinary disorders - acute renal failure
 
-Respiratory, thoracic and mediastinal disorders - pulmonary hypertension
+Respiratory, thoracic and mediastinal disorders - pulmonary hypertension, eosinophilic pneumonia, anosmia, hyposmia
 
 Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN)
 
