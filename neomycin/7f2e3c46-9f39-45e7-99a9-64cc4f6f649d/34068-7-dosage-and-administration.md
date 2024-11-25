@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Apply a small amount into the conjunctival sac(s) up to three or four times daily.
+Apply a small amount into the conjunctival sac(s) up to three or four times daily, or may be used adjunctively with Neomycin and Polymyxin B Sulfates and Dexamethasone Ophthalmic Suspension at bedtime.
 
 How to Apply Neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment:
 

@@ -1,13 +1,11 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-631-36
+NDC 61314-631-36 Rx Only
 
 Neomycin and Polymyxin B Sulfates and
 
 Dexamethasone Ophthalmic Ointment
 
-Rx Only
+FOR EYE USE ONLY
 
-STERILE 3.5 g Net Wt.
-
-SANDOZ
+SANDOZ STERILE 3.5 g Net Wt.

@@ -8,14 +8,15 @@ Storage: Store at 2°C to 25°C (36°F to 77°F).
 
 After opening, neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment can be used until the expiration date on the tube.
 
-Distributed by:
+Manufactured by
 
-Sandoz Inc.
+Novartis Manufacturing NV
 
-Princeton, NJ 08540
+Puurs-Sint-Amands, Belgium for
 
-T2021-98
+Sandoz Inc., Princeton, NJ 08540
 
-May 2021
+Rev.
+07/2024
 
-450573 US
+9103458 US
