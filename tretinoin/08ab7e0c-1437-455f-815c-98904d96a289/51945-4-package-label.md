@@ -8,12 +8,12 @@ PUMP
 
 For Topical Use Only Rx Only
 
-VALEANT
+Ortho Dermatologics
 
 NET WT.
 50 g
 
-9440606 20000365G
+9440607 20000365H
 
 # PRINCIPAL DISPLAY PANEL - 0.06% 50 g Carton
 
@@ -25,12 +25,12 @@ PUMP
 
 For Topical Use Only Rx only
 
-VALEANT
+Ortho Dermatologics
 
 NET WT.
 50 g
 
-9581502 20001795C
+9581503 20001795D
 
 # PRINCIPAL DISPLAY PANEL - 0.04% 50 g Carton
 
@@ -42,7 +42,7 @@ PUMP
 
 For Topical Use Only Rx Only
 
-VALEANT
+Ortho Dermatologics
 
 Net Wt.
 50g
@@ -59,9 +59,9 @@ PUMP
 
 For Topical Use Only Rx Only
 
-VALEANT
+Ortho Dermatologics
 
 Net Wt.
 50g
 
-9450705 50104801E
+9450706 50104801E

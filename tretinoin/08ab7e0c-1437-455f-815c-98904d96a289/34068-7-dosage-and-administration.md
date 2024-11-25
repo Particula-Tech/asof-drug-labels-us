@@ -12,7 +12,7 @@ Frequency of application should be closely monitored by careful observation of t
 Efficacy has not been established for less than once daily dosing frequencies.
 
 During the early weeks of therapy, an apparent exacerbation of inflammatory lesions may occur.
-If tolerated, this should not be considered a reason to discontinue therapy [see Adverse Reactions (6.1)].
+If tolerated, this should not be considered a reason to discontinue therapy [see ADVERSE REACTIONS(6.1)].
 
 Therapeutic results may be noticed after two weeks, but more than seven weeks of therapy are required before consistent beneficial effects are observed.
 
