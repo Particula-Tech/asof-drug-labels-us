@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020805"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-087-70"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "ciprofloxacin hydrochloride and hydrocortisone",
+      "name": "CIPRO"
+    }
+  ],
+  "setid": "b26594a3-2adf-4954-8be0-5bd6f8de9671",
+  "source": "dailymed"
+}
