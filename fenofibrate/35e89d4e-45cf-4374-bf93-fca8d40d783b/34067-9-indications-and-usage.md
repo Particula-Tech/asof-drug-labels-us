@@ -2,7 +2,7 @@
 
 ## 1.1 Primary Hypercholesterolemia and Mixed Dyslipidemia
 
-FENOGLIDE® is indicated as adjunctive therapy to diet to reduce elevated low-density lipoprotein cholesterol (LDL-C), total cholesterol (Total-C), triglycerides (TG), and apolipoprotein B (Apo B), and to increase high-density lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia.
+FENOGLIDE ®is indicated as adjunctive therapy to diet to reduce elevated low-density lipoprotein cholesterol (LDL-C), total cholesterol (Total-C), triglycerides (TG), and apolipoprotein B (Apo B), and to increase high-density lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia.
 
 ## 1.2 Severe Hypertriglyceridemia
 

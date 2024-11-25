@@ -2,24 +2,24 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- •Mortality and coronary heart disease morbidity [see Warnings and Precautions (5.1)]
-- •Hepatoxicity [see Warnings and Precautions (5.2)]
-- •Pancreatitis [see Warnings and Precautions (5.7)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- •Venothromboembolic Disease [see Warnings and Precautions (5.10)]
+- Mortality and coronary heart disease morbidity [see Warnings and Precautions (5.1)]
+- Hepatoxicity [see Warnings and Precautions (5.2)]
+- Pancreatitis [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Venothromboembolic Disease [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect rates observed in clinical practice.
 
-Adverse reactions reported by 2% or more of patients treated with fenofibrate and greater than placebo during double-blind, placebo-controlled trials are listed in Table 1.
+Adverse reactions reported by 2% or more of patients treated with fenofibrate and greater than placebo during double-blind, placebo-controlled trials are listed in Table1.
 Adverse reactions led to discontinuation of treatment in 5.0% of patients treated with fenofibrate and in 3.0% treated with placebo.
 Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
 Table 1.
 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
 
-| BODY SYSTEM Adverse Reaction | FenofibrateDosage equivalent to 130 mg fenofibrate (N=439) | Placebo (N=365) |
+| BODY SYSTEM Adverse Reaction | Fenofibrate (N=439) | Placebo (N=365) |
 | --- | --- | --- |
 | BODY AS A WHOLE |  |  |
 | Abdominal Pain | 4.6% | 4.4% |

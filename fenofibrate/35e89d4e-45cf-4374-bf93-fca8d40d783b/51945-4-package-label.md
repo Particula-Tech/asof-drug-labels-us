@@ -1,6 +1,6 @@
 Bottle LABEL – PRINCIPAL DISPLAY PANEL 40MG
 
-NDC 68012-490-90 Fenoglide® (fenofibrate) Tablets
+NDC68012-490-90 Fenoglide® (fenofibrate) T ablets
 
 40 mg
 
@@ -8,7 +8,7 @@ NDC 68012-490-90 Fenoglide® (fenofibrate) Tablets
 
 Bottle LABEL – PRINCIPAL DISPLAY PANEL 120MG
 
-NDC 68012-495-90 Fenoglide®
+NDC68012-495-90 Fenoglide®
 
 (fenofibrate)
 

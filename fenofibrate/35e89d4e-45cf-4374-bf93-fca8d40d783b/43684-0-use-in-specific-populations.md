@@ -5,7 +5,7 @@
 Risk Summary
 
 Limited available data with fenofibrate use in pregnant women are insufficient to determine a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
-In animal reproduction studies, no evidence of embryo-fetal toxicity was observed with oral administration of fenofibrate in rats and rabbits during organogenesis at doses less than or equivalent to the maximum recommended clinical dose of 120 mg daily, based on body surface area (mg/m2).
+In animal reproduction studies, no evidence of embryo-fetal toxicity was observed with oral administration of fenofibrate in rats and rabbits during organogenesis at doses less than or equivalent to the maximum recommended clinical dose of 120 mg daily, based on body surface area (mg/m 2).
 Adverse reproductive outcomes occurred at higher doses in the presence of maternal toxicity [see Data].
 FENOGLIDE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -42,13 +42,13 @@ Safety and efficacy have not been established in pediatric patients.
 
 Fenofibric acid is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Fenofibric acid exposure is not influenced by age.
-Since elderly patients have a higher incidence of renal impairment, dose selection for the elderly should be made on the basis of renal function [seeDosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Since elderly patients have a higher incidence of renal impairment, dose selection for the elderly should be made on the basis of renal function [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 Elderly patients with normal renal function should require no dose modifications.
 Consider monitoring renal function in elderly patients taking FENOGLIDE.
 
 ## 8.6 Renal Impairment
 
-The use of FENOGLIDE should be avoided in patients with severe renal impairment [seeContraindications (4)].
+The use of FENOGLIDE should be avoided in patients with severe renal impairment [see Contraindications (4)].
 Dose reduction is required in patients with mild to moderate renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Monitoring renal function in patients with renal impairment is recommended.
 
