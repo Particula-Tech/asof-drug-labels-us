@@ -14,7 +14,7 @@ For subcutaneous injection only
 
 Rx only
 
-Each cartridge contains somatropin 5 mg/1.5 mL
+Each Single-Patient-Use Cartridge contains somatropin 5 mg/1.5 mL
 
 1 cartridge
 
@@ -36,7 +36,7 @@ For subcutaneous injection only
 
 Rx only
 
-Each cartridge contains somatropin 10 mg/1.5 mL
+Each Single-Patient-Use Cartridge contains somatropin 10 mg/1.5 mL
 
 1 cartridge
 
@@ -48,7 +48,7 @@ NDC 0781-4004-36
 
 Omnitrope®
 
-somatropin for injection
+(somatropin) for injection
 
 and
 
@@ -58,9 +58,9 @@ diluent with preservative (Bacteriostatic Water for Injection 1.14 mL)
 
 Each carton contains:
 
-8 vials of Omnitrope 5.8 mg/vial
+8 Single-Patient-Use Vials of Omnitrope 5.8 mg/vial
 
-8 single use vials of Bacteriostatic Water for Injection 1.14 mL
+8 Single-Dose Vials of Bacteriostatic water for injection 1.14 mL
 
 For subcutaneous injection only
 

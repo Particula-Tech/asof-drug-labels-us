@@ -1,11 +1,11 @@
 # 6 ADVERSE REACTIONS
 
-The following important adverse reactions area also described elsewhere in labeling:
+The following important adverse reactions are also described elsewhere in labeling:
 
 - •Increased mortality in patients with acute critical illness [see Warnings and Precautions (5.1)]
 - •Fatalities in children with Prader-Willi Syndrome [see Warnings and Precautions (5.2)]
 - •Neoplasms [see Warnings and Precautions (5.3)]
-- •aGlucose intolerance and diabetes mellitus [Warnings and Precautions (5.4)]
+- •Glucose intolerance and diabetes mellitus [see Warnings and Precautions (5.4)]
 - •Intracranial hypertension [see Warnings and Precautions (5.5)]
 - •Severe hypersensitivity [see Warnings and Precautions (5.6)]
 - •Fluid retention [see Warnings and Precautions (5.7)]
@@ -13,10 +13,10 @@ The following important adverse reactions area also described elsewhere in label
 - •Hypothyroidism [see Warnings and Precautions (5.9)]
 - •Slipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.10)]
 - •Progression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.11)]
-- •Otitis media and cardiovascular disorders in patients with Turner syndrome [see Warnings and Precautions (5.13)]
-- •Lipoatrophy [see Warnings and Precautions (5.14)]
-- •Pancreatitis [see Warnings and Precautions (5.16)]
-- •Benzyl Alcohol [see Warnings and Precautions (5.17)]
+- •Otitis media and cardiovascular disorders in patients with Turner Syndrome [see Warnings and Precautions (5.12)]
+- •Lipoatrophy [see Warnings and Precautions (5.13)]
+- •Pancreatitis [see Warnings and Precautions (5.15)]
+- •Benzyl Alcohol [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,10 +24,10 @@ Because clinical trials are conducted under varying conditions, adverse reaction
 
 ### Clinical Trials in Pediatric GHD Patients
 
-The following events were observed during clinical studies with Omnitrope Cartridge conducted in children with GHD:
+The following events were observed during clinical studies with OMNITROPE Cartridge conducted in children with GHD:
 
 Table 1.
-Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with Omnitrope Cartridge (N=86)
+Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with OMNITROPE Cartridge (N=86)
 
 | Adverse Event | n (%) |
 | --- | --- |
@@ -36,10 +36,10 @@ Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD Du
 | Hematoma | 8 (9%) |
 | N=number of patients receiving treatment n=number of patients who reported the event during study period %=percentage of patients who reported the event during study period |  |
 
-The following events were observed during clinical studies with Omnitrope for injection conducted in children with GHD:
+The following events were observed during clinical studies with OMNITROPE for injection conducted in children with GHD:
 
 Table 2.
-Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with Omnitrope for Injection (N=44)
+Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with OMNITROPE for Injection (N=44)
 
 | Adverse Event | n (%) |  |  |
 | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ IGF-1 SD scores above +2 SD were observed as follows: 1 subject (3%), 10 subject
 
 ### Clinical Trials in Children with Turner Syndrome
 
-In two clinical studies with another somatropin product in pediatric patients with Turner syndrome, the most frequently reported adverse events were respiratory illnesses (influenza, tonsillitis, otitis, sinusitis), joint pain, and urinary tract infection.
+In two clinical studies with another somatropin product in pediatric patients with Turner Syndrome, the most frequently reported adverse events were respiratory illnesses (influenza, tonsillitis, otitis, sinusitis), joint pain, and urinary tract infection.
 The only treatment-related adverse event that occurred in more than 1 patient was joint pain.
 
 ### Clinical Trials in Adults with GHD
@@ -105,19 +105,12 @@ All 12 patients had predisposing factors, e.g., elevated glycated hemoglobin lev
 Of the 3,031 patients receiving this other somatropin product, 61 (2%) developed symptoms of carpal tunnel syndrome, which lessened after dosage reduction or treatment interruption (52) or surgery (9).
 Other adverse events that have been reported include generalized edema and hypoesthesia.
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to Omnitrope with the incidence of antibodies to other products may be misleading.
-In the case of growth hormone, antibodies with binding capacities lower than 2 mg/mL have not been associated with growth attenuation.
-In a very small number of patients treated with somatropin, when binding capacity was greater than 2 mg/mL, interference with the growth response was observed.
-
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
+The adverse events reported during postmarketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
 
-Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products [see Warnings and Precautions (5.6)].
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropins [see Warnings and Precautions (5.6)].
 
 Leukemia has been reported in a small number of GH deficient children treated with somatropin, somatrem (methionylated rhGH) and GH of pituitary origin.
 It is uncertain whether these cases of leukemia are related to GH therapy, the pathology of GHD itself, or other associated treatments such as radiation therapy.

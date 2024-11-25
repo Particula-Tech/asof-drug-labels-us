@@ -2,23 +2,23 @@
 
 ## 14.1 Pediatric Growth Hormone Deficiency (GHD)
 
-The efficacy and safety of Omnitrope were compared with another somatropin product approved for growth hormone deficiency (GHD) in pediatric patients.
-In sequential clinical trials involving a total of 89 GHD children, 44 patients received Omnitrope for Injection (lyophilized powder) 5.8 mg/vial and 45 patients received the comparator somatropin product for 9 months.
-After 9 months of treatment patients who had received the comparator somatropin product were switched to Omnitrope Cartridge (liquid) 5 mg/1.5 mL.
-After 15 months of treatment, all patients were switched to Omnitrope Cartridge to collect long-term efficacy and safety data.
+The efficacy and safety of OMNITROPE were compared with another somatropin product approved for growth hormone deficiency (GHD) in pediatric patients.
+In sequential clinical trials involving a total of 89 GHD children, 44 patients received OMNITROPE for Injection (lyophilized powder) 5.8 mg/vial and 45 patients received the comparator somatropin product for 9 months.
+After 9 months of treatment patients who had received the comparator somatropin product were switched to OMNITROPE Cartridge (liquid) 5 mg/1.5 mL.
+After 15 months of treatment, all patients were switched to OMNITROPE Cartridge to collect long-term efficacy and safety data.
 
 In both groups, somatropin was administered as a daily subcutaneous injection at a dose of 0.03 mg/kg.
-Similar effects on growth were observed between Omnitrope for Injection and the comparator somatropin product during the initial 9 months of treatment.
+Similar effects on growth were observed between OMNITROPE for Injection and the comparator somatropin product during the initial 9 months of treatment.
 
-The efficacy results after 9 months of treatment (Omnitrope for Injection vs. the comparator somatropin product) and after 15 months (Omnitrope Cartridge) are summarized in Table 5.
+The efficacy results after 9 months of treatment (OMNITROPE for Injection vs. the comparator somatropin product) and after 15 months (OMNITROPE Cartridge) are summarized in Table 5.
 
 Table 5.
-Baseline Growth Characteristics and Effect of Omnitrope after 9 and 15 Months of Treatment
+Baseline Growth Characteristics and Effect of OMNITROPE after 9 and 15 Months of Treatment
 
 | Treatment Duration | Treatment Group | Treatment Group |
 | --- | --- | --- |
-| 0 - 9 months | Omnitrope for Injection (n=44) | Another Somatropin Product(n=45) |
-| 9 - 15 months | Omnitrope for Injection (n=42) | Omnitrope Cartridge (n=44) |
+| 0 - 9 months | OMNITROPE for Injection (n=44) | Another Somatropin Product(n=45) |
+| 9 - 15 months | OMNITROPE for Injection (n=42) | OMNITROPE Cartridge (n=44) |
 | Treatment Parameter | Mean (SD) | Mean (SD) |
 | Height velocity (cm/yr) |  |  |
 | Pre-treatment | 3.8 (1.2) | 4.0 (0.8) |
@@ -43,8 +43,8 @@ Baseline Growth Characteristics and Effect of Omnitrope after 9 and 15 Months of
 
 ## 14.2 Adult Growth Hormone Deficiency (GHD)
 
-Another somatropin product was compared with placebo in six randomized clinical trials involving a total of 172 adult GHD patients.
-These trials included a 6-month double-blind treatment period, during which 85 patients received this other somatropin product and 87 patients received placebo, followed by an open-label treatment period in which participating patients received this other somatropin product for up to a total of 24 months.
+Another somatropin lyophilized powder was compared with placebo in six randomized clinical trials involving a total of 172 adult GHD patients.
+These trials included a 6-month double-blind treatment period, during which 85 patients received this other somatropin and 87 patients received placebo, followed by an open-label treatment period in which participating patients received this other somatropin for up to a total of 24 months.
 This other somatropin product was administered as a daily SC injection at a dose of 0.04 mg/kg/week for the first month of treatment and 0.08 mg/kg/week for subsequent months.
 
 Beneficial changes in body composition were observed at the end of the 6-month treatment period for the patients receiving this other somatropin product as compared with the placebo patients.
@@ -138,14 +138,14 @@ Final height SDS results for pre-pubertal patients with ISSMean (SD) are observe
 
 ## 14.6 Turner Syndrome
 
-Two randomized, open-label, clinical trials were conducted that evaluated the efficacy and safety of another somatropin product in Turner syndrome patients with short stature.
-Turner syndrome patients were treated with this other somatropin product alone or this other somatropin product plus adjunctive hormonal therapy (ethinylestradiol or oxandrolone).
+Two randomized, open-label, clinical trials were conducted that evaluated the efficacy and safety of another somatropin product in Turner Syndrome patients with short stature.
+Turner Syndrome patients were treated with this other somatropin product alone or this other somatropin product plus adjunctive hormonal therapy (ethinylestradiol or oxandrolone).
 A total of 38 patients were treated with this other somatropin product alone in the two studies.
 In Study 1, 22 patients were treated for 12 months, and in Study 2, 16 patients were treated for 12 months.
 Patients received this other somatropin product at a dose between 0.13 to 0.33 mg/kg/week.
 
-SDS for height velocity and height are expressed using either the Tanner (Study 1) or Sempé (Study 2) standards for age-matched normal children as well as the Ranke standard (both studies) for age-matched, untreated Turner syndrome patients.
-As seen in Table 10, height velocity SDS and height SDS values were smaller at baseline and after treatment with this other somatropin product when the normative standards were utilized as opposed to the Turner syndrome standard.
+SDS for height velocity and height are expressed using either the Tanner (Study 1) or Sempé (Study 2) standards for age-matched normal children as well as the Ranke standard (both studies) for age-matched, untreated Turner Syndrome patients.
+As seen in Table 10, height velocity SDS and height SDS values were smaller at baseline and after treatment with this other somatropin product when the normative standards were utilized as opposed to the Turner Syndrome standard.
 
 Both studies demonstrated statistically significant increases from baseline in all of the linear growth variables (i.e., mean height velocity, height velocity SDS, and height SDS) after treatment with this other somatropin product (see Table 10).
 The linear growth response was greater in Study 1 wherein patients were treated with a larger dose of this other somatropin product.
@@ -175,4 +175,4 @@ Growth Parameters (mean ± SD) after 12 Months of Treatment with Another Somatro
 | Baseline | -0.2 ± 0.8 | -0.3 ± 0.8 |
 | Month 12 | 0.6 ± 0.9 | 0.1 ± 0.8 |
 | Change from baseline (95% CI) | 0.8 (0.7, 0.9) | 0.5 (0.4, 0.5) |
-| SDS = Standard Deviation Score Ranke standard based on age-matched, untreated Turner syndrome patients Tanner*/Sempé† standards based on age-matched normal children p<0.05, for all changes from baseline |  |  |
+| SDS = Standard Deviation Score Ranke standard based on age-matched, untreated Turner Syndrome patients Tanner*/Sempé† standards based on age-matched normal children p<0.05, for all changes from baseline |  |  |

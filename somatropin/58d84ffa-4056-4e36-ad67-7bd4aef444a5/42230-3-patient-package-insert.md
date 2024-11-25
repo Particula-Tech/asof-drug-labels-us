@@ -1,16 +1,16 @@
 INSTRUCTIONS FOR USE
 
-OMNITROPE® PEN 5 INSTRUCTIONS FOR USE
+OMNITROPE® PEN 5
 
-Omnitrope (om-KNEE-trope)
+OMNITROPE (om-KNEE-trope)
 
 (somatropin) injection, for subcutaneous use
 
-5 mg/1.5 mL cartridges for use with
+5 mg/1.5 mL Single-Patient-Use cartridges for use with
 
 Omnitrope Pen 5
 
-Read these Instructions for Use before you start using Omnitrope Pen 5 and each time you get a refill.
+Read this Instructions for Use before you start using Omnitrope Pen 5 and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to the healthcare provider about the medical condition or the treatment.
 
@@ -19,9 +19,9 @@ Note:
 - •Omnitrope is for use under the skin only (subcutaneous).
 - •Do not share your Omnitrope Pen or needles with anyone else.
   You may give an infection to them or get an infection from them.
-- •The “Start use by no later than” date, presented in year, month and day on the outer carton, indicates the date after which therapy should not be initiated with this pen.
+- •The “Start use by no later than” date, printed in year, month, and day on the outer carton, shows the date after which treatment should not be started with this pen.
 
-Omnitrope Pen 5, cartridge containing Omnitrope, needle, alcohol swab and storage case:
+Omnitrope Pen 5, Single-Patient-Use cartridge containing Omnitrope, needle, alcohol swab and storage case:
 
 Supplies you will need to give an Omnitrope Injection.
 See Figure A.
@@ -33,7 +33,7 @@ See Figure A.
 - •1 alcohol swab
 - •flat surface like a table
 - •a sharps disposal container.
-  See Step 6 for information on how to dispose of used needles and syringes.
+  See Step 6 for information on how to throw away (dispose of) used needles and cartridges.
 
 Steps you should follow to give an Omnitrope injection:
 
@@ -86,7 +86,7 @@ Attaching the needle to the Omnitrope Pen 5
   See Figure F.
 
 - •Holding the cartridge holder with 1 hand, firmly press the needle onto the cartridge holder end of the Pen.
-  See Figure G. Screw the threaded hub of the needle onto the cartridge holder in a counterclockwise direction until the needle will not turn anymore.
+  See Figure G. Screw the threaded part of the needle onto the cartridge holder in a counterclockwise direction until the needle will not turn anymore.
   See Figure H.
 
 - •Gently pull off the outer needle shield and put it on a flat surface.
@@ -145,11 +145,15 @@ The correct dose can now be redialed.
 Step 5.
 Selecting the injection site and injecting the dose of Omnitrope
 
+The best sites for injection are tissues with a layer of fat between skin and muscle such as the upper leg (thigh), buttocks, or stomach area (abdomen) as in the picture shown below.
+Do not inject near your belly button (navel) or waistline.
+
 Change the injection site every day.
 See Figure P.
 
-- •Select the injection site and wipe the skin with an alcohol pad as your healthcare provider showed you.
-- •Insert the needle under the skin as your healthcare provider showed you.
+- •Select the injection site and wipe the skin with an alcohol swab as your healthcare provider showed you.
+- •With 1 hand, pinch a fold of loose skin at the injection site.
+- •With your other hand, insert the needle under the skin (at an angle of 45° to 90°) as your healthcare provider showed you.
   See Figure Q.
 
 - •After inserting the needle into the skin, push the injection button as far in as it will go and press the button firmly.
@@ -225,9 +229,8 @@ Contact your Omnitrope Pen 5 provider after you have used the pen for 2 years to
 
 This guarantee is invalid if your Omnitrope Pen 5 has not been used in accordance with the manufacturer’s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
-These Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-BD and BD Logo are trademarks of Becton, Dickinson and Company © 2017 BD
+BD and BD Logo are trademarks of Becton, Dickinson and Company © 2019 BD.
+All rights reserved.
 
 Manufactured by:
 
@@ -235,21 +238,25 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-U.S. License No. 2003
+US License No. 2003
 
-03/2024
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-OMNITROPE® PEN 10 INSTRUCTIONS FOR USE
+November 2024
 
-Omnitrope (om-KNEE-trope)
+INSTRUCTIONS FOR USE
+
+OMNITROPE® PEN 10
+
+OMNITROPE (om-KNEE-trope)
 
 (somatropin) injection, for subcutaneous use
 
-10 mg/1.5 mL cartridges for use with
+10 mg/1.5 mL Single-Patient-Use cartridges for use with
 
 Omnitrope Pen 10
 
-Read these Instructions for Use before you start using Omnitrope Pen 10 and each time you get a refill.
+Read this Instructions for Use before you start using Omnitrope Pen 10 and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to the healthcare provider about the medical condition or the treatment.
 
@@ -258,9 +265,9 @@ Note:
 - •Omnitrope is for use under the skin only (subcutaneous).
 - •Do not share your Omnitrope Pen or needles with anyone else.
   You may give an infection to them or get an infection from them.
-- •The “Start use by no later than” date, presented in year, month and day on the outer carton, indicates the date after which therapy should not be initiated with this pen.
+- •The “Start use by no later than” date, printed in year, month, and day on the outer carton, shows the date after which treatment should not be started with this pen.
 
-Omnitrope Pen 10, cartridge containing Omnitrope, needle, alcohol swab and storage case:
+Omnitrope Pen 10, Single-Patient-Use cartridge containing Omnitrope, needle, alcohol swab and storage case:
 
 Supplies you will need to give an Omnitrope Injection.
 See Figure A.
@@ -272,7 +279,7 @@ See Figure A.
 - •1 alcohol swab
 - •flat surface like a table
 - •a sharps disposal container.
-  See Step 6 for information on how to dispose of used needles and syringes.
+  See Step 6 for information on how to throw away (dispose of) used needles and cartridges.
 
 Steps you should follow to give an Omnitrope injection:
 
@@ -325,7 +332,7 @@ Attaching the needle to the Omnitrope Pen 10
   See Figure F.
 
 - •Holding the cartridge holder with 1 hand, firmly press the needle onto the cartridge holder end of the Pen.
-  See Figure G. Screw the threaded hub of the needle onto the cartridge holder in a counterclockwise direction until the needle will not turn anymore.
+  See Figure G. Screw the threaded part of the needle onto the cartridge holder in a counterclockwise direction until the needle will not turn anymore.
   See Figure H.
 
 - •Gently pull off the outer needle shield and put it on a flat surface.
@@ -384,11 +391,15 @@ The correct dose can now be redialed.
 Step 5.
 Selecting the injection site and injecting the dose of Omnitrope
 
+The best sites for injection are tissues with a layer of fat between skin and muscle such as the upper leg (thigh), buttocks, or stomach area (abdomen) as in the picture shown below.
+Do not inject near your belly button (navel) or waistline.
+
 Change the injection site every day.
 See Figure P.
 
-- •Select the injection site and wipe the skin with an alcohol pad as your healthcare provider showed you.
-- •Insert the needle under the skin as your healthcare provider showed you.
+- •Select the injection site and wipe the skin with an alcohol swab as your healthcare provider showed you.
+- •With 1 hand, pinch a fold of loose skin at the injection site.
+- •With your other hand, insert the needle under the skin (at an angle of 45° to 90°) as your healthcare provider showed you.
   See Figure Q.
 
 - •After inserting the needle into the skin, push the injection button as far in as it will go and press the button firmly.
@@ -464,9 +475,8 @@ Contact your Omnitrope Pen 10 provider after you have used the pen for 2 years t
 
 This guarantee is invalid if your Omnitrope Pen 10 has not been used in accordance with the manufacturer’s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
-These Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-BD and BD Logo are trademarks of Becton, Dickinson and Company © 2017 BD
+BD and BD Logo are trademarks of Becton, Dickinson and Company © 2019 BD.
+All rights reserved.
 
 Manufactured by:
 
@@ -474,23 +484,31 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-U.S. License No. 2003
+US License No. 2003
 
-03/2024
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-INSTRUCTIONS FOR OMNITROPE® 5.8 MG/VIAL
+November 2024
+
+INSTRUCTIONS FOR USE
+
+OMNITROPE (om-KNEE-trope)
+
+(somatropin) for injection, for subcutaneous use
+
+OMNITROPE® 5.8 mg/vial
 
 The following instructions explain how to inject OMNITROPE 5.8 mg.
 Do not inject OMNITROPE yourself until your healthcare provider has taught you and you understand the instructions.
 Ask your healthcare provider or pharmacist if you have any questions about injecting OMNITROPE.
 
-- •OMNITROPE 5.8 mg is for multiple uses.
+- •OMNITROPE 5.8 mg is for Single-Patient-Use.
 - •The concentration of OMNITROPE after mixing is 5 mg/mL.
 - •After mixing, OMNITROPE 5.8 mg contains a preservative and should not be used in newborns.
 
 Preparation
 
-Collect necessary items before you begin:
+Collect the needed items before you begin:
 
 - •a vial with OMNITROPE 5.8 mg
 - •a vial with diluent (mixing liquid - Bacteriostatic Water for Injection containing benzyl alcohol as preservative) for OMNITROPE 5.8 mg
@@ -505,7 +523,7 @@ Mixing OMNITROPE 5.8 mg
 - •Remove the protective caps from the two vials.
   With one alcohol swab, clean both the rubber top of the vial that contains the powder and the rubber top of the vial that contains diluent.
 
-- •Next Use the sterile diluent vial, the disposal 3 mL syringe and a needle.
+- •Next use the sterile diluent vial, the disposal 3 mL syringe and a needle.
 - •Attach the needle to the syringe (if not attached already).
   Pull back the syringe plunger and fill the syringe with air.
   Push the needle fitted to the syringe through the rubber top of the diluent vial, push all the air from the syringe into the vial, turn the vial upside down, and withdraw all the diluent from the vial into the syringe.
@@ -514,7 +532,7 @@ Mixing OMNITROPE 5.8 mg
 - •Next take the syringe with the diluent in it and push the needle through the rubber stopper of the vial that contains the white powder.
   Inject the diluent slowly.
   Aim the stream of liquid against the glass wall in order to avoid foam.
-  Remove the syringe and needle and dispose of them.
+  Remove the syringe and needle and throw them away.
 
 - •Gently swirl the vial until the content is completely dissolved.
   Do not shake.
@@ -522,7 +540,7 @@ Mixing OMNITROPE 5.8 mg
 - •If the medicine is cloudy or contains particles, it should not be used.
   The medicine must be clear and colorless after mixing.
 - •After mixing the medicine, the medicine in the vial must be used within 3 weeks.
-  Store the vial in a refrigerator at 2° to 8°C (36° to 46°F) after mixing and using it each time.
+  Store the vial in a refrigerator between 36°F to 46°F (2°C to 8°C) after mixing and using it each time.
 
 Measuring the Dose of OMNITROPE 5.8 mg to Be Injected
 
@@ -531,7 +549,7 @@ Measuring the Dose of OMNITROPE 5.8 mg to Be Injected
 - •Turn the vial and the syringe upside down.
 
 - •Be sure the tip of the syringe is in the OMNITROPE mixed medicine.
-- •Pull back on the plunger slowly and withdraw the dose prescribed by your doctor into the syringe.
+- •Pull back on the plunger slowly and withdraw the dose prescribed by your healthcare provider into the syringe.
 - •Hold the syringe with the needle in the vial pointing up and remove the syringe from the vial.
 - •Check for air bubbles in the syringe.
   If you see any bubbles, pull the plunger slightly back; tap the syringe gently, with the needle pointing upwards, until the bubble disappears.
@@ -549,12 +567,12 @@ Injecting OMNITROPE 5.8 mg
 
 - •Make sure you rotate the injection sites on your body.
   Inject at least 1/2 inch from the last injection.
-  Change the places on your body where you inject, as you have been taught.
+  Change the places on your body where you inject, as instructed by your healthcare provider.
 - •Before you make an injection, clean your skin well with an alcohol swab.
   Wait for the area to air dry.
 
 - •With one hand, pinch a fold of loose skin at the injection site.
-  With your other hand, hold the syringe as you would a pencil.
+  With your other hand, hold the syringe as you would hold a pencil.
   Insert the needle into the pinched skin straight in or at a slight angle (an angle of 45° to 90°).
   After the needle is in, remove the hand used to pinch the skin and use it to hold the syringe barrel.
   Pull back the plunger very slightly with one hand.
@@ -568,18 +586,34 @@ Injecting OMNITROPE 5.8 mg
 
 After Injecting OMNITROPE 5.8 mg
 
-- •Discard the injection materials.
-- •Dispose the syringes safely in a closed container.
-  You can ask your healthcare provider or pharmacist for a “sharps” container.
-  A sharps container is a special container to put used needles and syringes in.
-  You can return a full sharps container to your pharmacist or healthcare provider for disposal.
-- •The vial of mixed medicine must be stored in the refrigerator in its carton at 2° to 8°C (36° to 46°F) and used within 3 weeks.
-- •The solution should be clear after removal from the refrigerator.
-  If the solution is cloudy or contains particles, discard the vial.
+- •Put your used needles and syringes in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and syringes in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and cartridges.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+
+How should I store OMNITROPE 5.8 mg?
+
+- •Before Use: store the vials in the refrigerator between 36°F to 46°F (2°C to 8°C) until the expiration date.
+  Do not use if the expiration date has passed.
+- •After Mixing: store the vial of mixed medicine in the refrigerator between 36°F to 46°F (2°C to 8°C) and use within 3 weeks.
+  Throw away any unused medicine after 3 weeks.
+- •Protect the vials from light by storing in their cartons.
+- •Do not freeze.
+- •The liquid should be clear after removal from the refrigerator.
+  If the liquid is cloudy or contains particles, throw away the vial.
   Do not inject the medicine from this vial.
   Start over with a new vial of OMNITROPE 5.8 mg.
   Call your pharmacist if you need a replacement.
-- •Before each use disinfect the rubber top of the reconstituted vial with an alcohol swab.
+- •Before each use clean the rubber top of the mixed medicine vial with an alcohol swab.
   You must use a new disposable 1 mL syringe and needle for each injection.
 
 Manufactured by:
@@ -588,6 +622,8 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-U.S. License No. 2003
+US License No. 2003
 
-03/2024
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+November 2024

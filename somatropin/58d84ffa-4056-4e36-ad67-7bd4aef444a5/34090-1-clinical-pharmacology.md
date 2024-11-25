@@ -17,7 +17,7 @@ This effect is demonstrated in children with GHD and children who have PWS, were
 The measurable increase in bone length after administration of somatropin results from its effect on the cartilaginous growth areas of long bones.
 Studies in vitro have shown that the incorporation of sulfate into proteoglycans is not due to a direct effect of somatropin, but rather is mediated by the somatomedins or insulin-like growth factors (IGFs).
 The somatomedins, among them IGF-1, are polypeptide hormones which are synthesized in the liver, kidney, and various other tissues.
-IGF-1 levels are low in the serum of hypopituitary dwarfs and hypophysectomized humans or animals, and increase after treatment with somatropin.
+IGF-1 levels are low in the serum of hypopituitary dwarfs and hypophysectomized humans or animals and increase after treatment with somatropin.
 
 ### Cell Growth
 
@@ -58,18 +58,18 @@ Negative calcium balance, however, may occasionally occur during somatropin trea
 
 ### Connective Tissue Metabolism
 
-Somatropin stimulates the synthesis of chondroitin sulfate and collagen, and increases the urinary excretion of hydroxyproline.
+Somatropin stimulates the synthesis of chondroitin sulfate and collagen and increases the urinary excretion of hydroxyproline.
 
 ## 12.3 Pharmacokinetics
 
-There are no pharmacokinetic studies using Omnitrope Cartridges in patients with growth hormone deficiency.
+There are no pharmacokinetic studies using OMNITROPE Cartridges in patients with growth hormone deficiency.
 
 ### Absorption
 
-Following a subcutaneous injection of single dose of 5 mg Omnitrope 5 mg/1.5 mL Cartridge or 5 mg Omnitrope 10 mg/1.5 mL Cartridge in healthy male and female adults, the peak concentration (Cmax) was 72-74 mcg/L.
-The time to reach Cmax (tmax) for Omnitrope was 4.0 hours.
+Following a subcutaneous injection of single dose of 5 mg OMNITROPE 5 mg/1.5 mL Cartridge or 5 mg OMNITROPE 10 mg/1.5 mL Cartridge in healthy male and female adults, the peak concentration (Cmax) was 72-74 mcg/L.
+The time to reach Cmax (tmax) for OMNITROPE was 4.0 hours.
 
-The aqueous formulations of 5 mg/1.5 mL Omnitrope cartridge and 10 mg/mL Omnitrope cartridge are bioequivalent to the lyophilized 5.8 mg/vial Omnitrope formulation.
+The aqueous formulations of 5 mg/1.5 mL OMNITROPE cartridge and 10 mg/mL OMNITROPE cartridge are bioequivalent to the lyophilized 5.8 mg/vial OMNITROPE formulation.
 
 ### Metabolism
 
@@ -78,15 +78,23 @@ In renal cells, at least a portion of the breakdown products are returned to the
 
 ### Excretion
 
-The mean terminal half-life of somatropin after subcutaneous administration of Omnitrope Cartridge in healthy adults is 2.5-2.8 hours.
-The mean clearance of subcutaneously administered Omnitrope Cartridge in healthy adults was about 0.14 L/hr·kg.
+The mean terminal half-life of somatropin after subcutaneous administration of OMNITROPE Cartridge in healthy adults is 2.5-2.8 hours.
+The mean clearance of subcutaneously administered OMNITROPE Cartridge in healthy adults was about 0.14 L/hr·kg.
 
 ### Specific Populations
 
-Pediatric: No pharmacokinetic studies of Omnitrope have been conducted in pediatric patients.
+Pediatric: No pharmacokinetic studies of OMNITROPE have been conducted in pediatric patients.
 
-Gender: The effect of gender on pharmacokinetics of Omnitrope has not been evaluated in pediatric patients.
+Gender: The effect of gender on pharmacokinetics of OMNITROPE has not been evaluated in pediatric patients.
 
-Race: No studies have been conducted with Omnitrope to assess pharmacokinetic differences among races.
+Race: No studies have been conducted with OMNITROPE to assess pharmacokinetic differences among races.
 
-Renal or hepatic impairment: No pharmacokinetic studies have been conducted with Omnitrope in patients with renal or hepatic impairment.
+Renal or hepatic impairment: No pharmacokinetic studies have been conducted with OMNITROPE in patients with renal or hepatic impairment.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of OMNITROPE or other somatropins.
+
+In the case of growth hormone, antibodies with binding capacities lower than 2 mg/mL have not been associated with growth attenuation.
+In a very small number of patients treated with somatropin, when binding capacity was greater than 2 mg/mL, interference with the growth response was observed.

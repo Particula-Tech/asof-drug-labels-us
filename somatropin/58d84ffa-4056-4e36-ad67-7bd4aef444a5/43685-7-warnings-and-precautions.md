@@ -33,45 +33,44 @@ Treatment with somatropin may decrease insulin sensitivity, particularly at high
 As a result, previously undiagnosed impaired glucose tolerance and overt diabetes mellitus may be unmasked, and new onset type 2 diabetes mellitus has been reported in patients taking somatropin.
 Therefore, glucose levels should be monitored periodically in all patients treated with somatropin, especially in those with risk factors for diabetes mellitus, such as obesity, Turner Syndrome, or a family history of diabetes mellitus.
 Patients with preexisting type 1 or type 2 diabetes mellitus or impaired glucose tolerance should be monitored closely during somatropin therapy.
-The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require adjustment when somatropin therapy is instituted in these patients.
-[See Drug Interactions (7.5)]
+The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require adjustment when somatropin therapy is instituted in these patients [see Drug Interactions (7.5)].
 
 ## 5.5 Intracranial Hypertension (IH)
 
-Intracranial hypertension (IH) with papilledema, visual changes, headache, nausea, and/or vomiting has been reported in a small number of patients treated with somatropin products.
+Intracranial hypertension (IH) with papilledema, visual changes, headache, nausea, and/or vomiting has been reported in a small number of patients treated with somatropins.
 Symptoms usually occurred within the first eight (8) weeks after the initiation of somatropin therapy.
 In all reported cases, IH-associated signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose.
 
 Funduscopic examination should be performed routinely before initiating treatment with somatropin to exclude preexisting papilledema, and periodically during the course of somatropin therapy.
-If papilledema is observed by funduscopy during somatropin treatment, treatment should be stopped.
+If papilledema is observed by fundoscopy during somatropin treatment, treatment should be stopped.
 If somatropin-induced IH is diagnosed, treatment with somatropin can be restarted at a lower dose after IH-associated signs and symptoms have resolved.
-Patients with Turner syndrome and Prader-Willi Syndrome may be at increased risk for the development of IH.
+Patients with Turner Syndrome and Prader-Willi Syndrome may be at increased risk for the development of IH.
 
 ## 5.6 Hypersensitivity
 
-Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products.
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropins.
 Patients and caregivers should be informed that such reactions are possible and that prompt medical attention should be sought if an allergic reaction occurs [see Contraindications (4)].
 
 ## 5.7 Fluid Retention
 
 Fluid retention during somatropin replacement therapy in adults may frequently occur.
-Clinical manifestations of fluid retention (e.g. edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias) are usually transient and dose dependent.
+Clinical manifestations of fluid retention (e.g. edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paresthesias) are usually transient and dose dependent.
 
 ## 5.8 Hypoadrenalism
 
 Patients receiving somatropin therapy who have or are at risk for pituitary hormone deficiency(s) may be at risk for reduced serum cortisol levels and/or unmasking of central (secondary) hypoadrenalism.
-In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment [see Section 7.1, 11-β Hydroxysteroid Dehydrogenase Type 1]
+In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment [see Drug Interactions (7.1)].
 
 ## 5.9 Hypothyroidism
 
 Undiagnosed/untreated hypothyroidism may prevent an optimal response to somatropin, in particular, the growth response in children.
-Patients with Turner syndrome have an inherently increased risk of developing autoimmune thyroid disease and primary hypothyroidism and should have their thyroid function checked prior to initiation of somatropin therapy.
+Patients with Turner Syndrome have an inherently increased risk of developing autoimmune thyroid disease and primary hypothyroidism and should have their thyroid function checked prior to initiation of somatropin therapy.
 In patients with GHD, central (secondary) hypothyroidism may first become evident or worsen during somatropin treatment.
 Therefore, patients treated with somatropin should have periodic thyroid function tests and thyroid hormone replacement therapy should be initiated or appropriately adjusted when indicated.
 
 ## 5.10 Slipped Capital Femoral Epiphysis in Pediatric Patients
 
-Slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders (including GHD and Turner syndrome) or in patients undergoing rapid growth.
+Slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders (including GHD and Turner Syndrome) or in patients undergoing rapid growth.
 Any pediatric patient with the onset of a limp or complaints of hip or knee pain during somatropin therapy should be carefully evaluated.
 
 ## 5.11 Progression of Preexisting Scoliosis in Pediatric Patients
@@ -79,38 +78,34 @@ Any pediatric patient with the onset of a limp or complaints of hip or knee pain
 Progression of scoliosis can occur in patients who experience rapid growth.
 Because somatropin increases growth rate, patients with a history of scoliosis who are treated with somatropin should be monitored for progression of scoliosis.
 However, somatropin has not been shown to increase the occurrence of scoliosis.
-Skeletal abnormalities including scoliosis are commonly seen in untreated Turner syndrome patients.
+Skeletal abnormalities including scoliosis are commonly seen in untreated Turner Syndrome patients.
 Scoliosis is also commonly seen in untreated patients with Prader-Willi Syndrome.
 Physicians should be alert to these abnormalities, which may manifest during somatropin therapy.
 
-## 5.12 Confirmation of Childhood Onset Adult GHD
+## 5.12 Otitis Media and Cardiovascular Disorders in Turner Syndrome
 
-Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in Indications and Usage (1.2) before continuation of somatropin therapy at the reduced dose level recommended for GH deficient adults.
+Patients with Turner Syndrome should be evaluated carefully for otitis media and other ear disorders since these patients have an increased risk of ear and hearing disorders.
+Somatropin treatment may increase the occurrence of otitis media in patients with Turner Syndrome.
+In addition, patients with Turner Syndrome should be monitored closely for cardiovascular disorders (e.g., stroke, aortic aneurysm/dissection, hypertension) as these patients are also at risk for these conditions.
 
-## 5.13 Otitis Media and Cardiovascular Disorders in Turner Syndrome
-
-Patients with Turner syndrome should be evaluated carefully for otitis media and other ear disorders since these patients have an increased risk of ear and hearing disorders.
-Somatropin treatment may increase the occurrence of otitis media in patients with Turner syndrome.
-In addition, patients with Turner syndrome should be monitored closely for cardiovascular disorders (e.g., stroke, aortic aneurysm/dissection, hypertension) as these patients are also at risk for these conditions.
-
-## 5.14 Lipoatrophy
+## 5.13 Lipoatrophy
 
 When somatropin is administered subcutaneously at the same site over a long period of time, tissue atrophy may result.
 This can be avoided by rotating the injection site [see Dosage and Administration (2.3)].
 
-## 5.15 Laboratory Tests
+## 5.14 Laboratory Tests
 
-Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-I may increase after somatropin therapy.
+Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-1 may increase after somatropin therapy.
 
-## 5.16 Pancreatitis
+## 5.15 Pancreatitis
 
 Cases of pancreatitis have been reported rarely in children and adults receiving somatropin treatment, with some evidence supporting a greater risk in children compared with adults.
-Published literature indicates that girls who have Turner syndrome may be at greater risk than other somatropin-treated children.
+Published literature indicates that girls who have Turner Syndrome may be at greater risk than other somatropin-treated children.
 Pancreatitis should be considered in any somatropin treated patient, especially a child, who develops persistent severe abdominal pain.
 
-## 5.17 Benzyl Alcohol
+## 5.16 Benzyl Alcohol
 
-Benzyl alcohol, a component of Omnitrope Cartridge 5 mg/1.5 mL and the diluent for Omnitrope for injection 5.8 mg/vial, has been associated with serious adverse events and death, particularly in pediatric patients.
+Benzyl alcohol, a component of OMNITROPE Cartridge 5 mg/1.5 mL and the diluent for OMNITROPE for injection 5.8 mg/vial, has been associated with serious adverse events and death, particularly in pediatric patients.
 The “gasping syndrome,” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
