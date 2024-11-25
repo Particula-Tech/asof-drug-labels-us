@@ -4,7 +4,7 @@ Intentional and unintentional overdose may result in death, particularly in chil
 The drug is chemically related to tetracaine and other topical anesthetics and shares various aspects of their pharmacology and toxicology.
 Drugs of this type are generally well absorbed after ingestion.
 
-Signs and Symptoms The signs and symptoms of overdose of benzonatate have been reported within 15-20 minutes.
+Signs and Symptoms The signs and symptoms of overdose of benzonatate have been reported within 15 to 20 minutes.
 If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly, which may cause choking and airway compromise.
 CNS stimulation may cause restlessness and tremors which may proceed to clonic convulsions followed by profound CNS depression.
 Convulsions, coma, cerebral edema and cardiac arrest leading to death have been reported within 1 hour of ingestion.
