@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 84571- 140-02 Rx Only ZIMHI (naloxone HCL Injection, USP) 5 mg/ 0.5 mL

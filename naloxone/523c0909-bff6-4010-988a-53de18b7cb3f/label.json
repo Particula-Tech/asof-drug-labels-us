@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212854"
+  ],
+  "inn": "naloxone",
+  "labeler": "ZMI Pharma Inc.",
+  "package_ndcs": [
+    "84571-140-02",
+    "84571-140-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "naloxone hydrochloride",
+      "name": "ZIMHI"
+    }
+  ],
+  "setid": "523c0909-bff6-4010-988a-53de18b7cb3f",
+  "source": "dailymed"
+}
