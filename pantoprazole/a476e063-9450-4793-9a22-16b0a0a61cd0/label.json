@@ -5,8 +5,11 @@
   "inn": "pantoprazole",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
+    "0338-9644-01",
     "0338-9644-12",
+    "0338-9646-01",
     "0338-9646-24",
+    "0338-9648-01",
     "0338-9648-12"
   ],
   "products": [
