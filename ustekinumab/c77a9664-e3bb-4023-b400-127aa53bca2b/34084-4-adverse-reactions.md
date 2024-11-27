@@ -18,7 +18,7 @@ The safety data reflect exposure to STELARA ®in 3117 adult subjects with plaque
 
 Table 5 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the STELARA ®groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
 
-Table 5: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the STELARA ®groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
+Table 5: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the STELARA ® groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ Malignancies
 In the controlled and non-controlled portions of plaque psoriasis clinical trials (median follow-up of 3.2 years, representing 8998 subject-years of exposure), 1.7% of STELARA ®-treated subjects reported malignancies excluding non-melanoma skin cancers (0.60 per hundred subject-years of follow-up).
 Non-melanoma skin cancer was reported in 1.5% of STELARA ®-treated subjects (0.52 per hundred subject-years of follow-up) [see Warnings and Precautions (5.4)].
 The most frequently observed malignancies other than non-melanoma skin cancer during the clinical trials were: prostate, melanoma, colorectal and breast.
-Malignancies other than non-melanoma skin cancer in STELARA ®-treated patients during the controlled and uncontrolled portions of trials were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).
+Malignancies other than non-melanoma skin cancer in STELARA ®-treated subjects during the controlled and uncontrolled portions of trials were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).
 1
 
 Pediatric Subjects with Plaque Psoriasis
@@ -104,7 +104,7 @@ Table 7: Common adverse reactions through Week 44 in Trial CD-3 occurring in ≥
 
 Infections
 
-In patients with Crohn's disease, serious or other clinically significant infections included anal abscess, gastroenteritis, and pneumonia.
+In subjects with Crohn's disease, serious or other clinically significant infections included anal abscess, gastroenteritis, and pneumonia.
 In addition, listeria meningitis and ophthalmic herpes zoster were reported in one patient each [see Warnings and Precautions (5.1)].
 
 Malignancies
@@ -114,15 +114,15 @@ Malignancies other than non-melanoma skin cancers occurred in 0.2% of STELARA ®
 
 Hypersensitivity Reactions Including Anaphylaxis
 
-In CD trials, two patients reported hypersensitivity reactions following STELARA ®administration.
-One patient experienced signs and symptoms consistent with anaphylaxis (tightness of the throat, shortness of breath, and flushing) after a single subcutaneous administration (0.1% of patients receiving subcutaneous STELARA ®).
-In addition, one patient experienced signs and symptoms consistent with or related to a hypersensitivity reaction (chest discomfort, flushing, urticaria, and increased body temperature) after the initial intravenous STELARA ®dose (0.08% of patients receiving intravenous STELARA ®).
-These patients were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour.
+In CD trials, two subjects reported hypersensitivity reactions following STELARA ®administration.
+One patient experienced signs and symptoms consistent with anaphylaxis (tightness of the throat, shortness of breath, and flushing) after a single subcutaneous administration (0.1% of subjects receiving subcutaneous STELARA ®).
+In addition, one subject experienced signs and symptoms consistent with or related to a hypersensitivity reaction (chest discomfort, flushing, urticaria, and increased body temperature) after the initial intravenous STELARA ®dose (0.08% of subjects receiving intravenous STELARA ®).
+These subjects were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour.
 
 Ulcerative Colitis
 
 The safety of STELARA ®was evaluated in two randomized, double-blind, placebo-controlled clinical trials (UC-1 [IV induction] and UC-2 [SC maintenance]) in 960 adult subjects with moderately to severely active ulcerative colitis [see Clinical Studies (14.5)].
-The overall safety profile of STELARA ®in patients with ulcerative colitis was consistent with the safety profile seen across all approved indications.
+The overall safety profile of STELARA ®in subjects with ulcerative colitis was consistent with the safety profile seen across all approved indications.
 Adverse reactions reported in at least 3% of STELARA ®-treated subjects and at a higher rate than placebo were:
 
 - Induction (UC-1): nasopharyngitis (7% vs 4%).
@@ -130,8 +130,8 @@ Adverse reactions reported in at least 3% of STELARA ®-treated subjects and at 
 
 Infections
 
-In patients with ulcerative colitis, serious or other clinically significant infections included gastroenteritis and pneumonia.
-In addition, listeriosis and ophthalmic herpes zoster were reported in one patient each [see Warnings and Precautions (5.1)].
+In subjects with ulcerative colitis, serious or other clinically significant infections included gastroenteritis and pneumonia.
+In addition, listeriosis and ophthalmic herpes zoster were reported in one subject each [see Warnings and Precautions (5.1)].
 
 Malignancies
 
@@ -155,14 +155,14 @@ No apparent association between the development of antibodies to ustekinumab and
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of STELARA ®.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to STELARA ®exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to STELARA ® exposure.
 
-Immune system disorders:Serious hypersensitivity reactions (including anaphylaxis and angioedema), other hypersensitivity reactions (including rash and urticaria).
+Immune system disorders: Serious hypersensitivity reactions (including anaphylaxis and angioedema), other hypersensitivity reactions (including rash and urticaria).
 
-Infections and infestations:Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
+Infections and infestations: Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
 
-Neurological disorders:Posterior Reversible Encephalopathy Syndrome (PRES).
+Neurological disorders: Posterior Reversible Encephalopathy Syndrome (PRES).
 
-Respiratory, thoracic and mediastinal disorders:Interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia.
+Respiratory, thoracic, and mediastinal disorders:Interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia.
 
 Skin reactions: Pustular psoriasis, erythrodermic psoriasis, hypersensitivity vasculitis.

@@ -54,7 +54,7 @@ If an anaphylactic or other clinically significant hypersensitivity reaction occ
 ## 5.6 Posterior Reversible Encephalopathy Syndrome (PRES)
 
 Two cases of posterior reversible encephalopathy syndrome (PRES), also known as Reversible Posterior Leukoencephalopathy Syndrome (RPLS), were reported in clinical trials.
-Cases have also been reported in postmarketing experience in patients with psoriasis, psoriatic arthritis and Crohn's disease.
+Cases have also been reported in postmarketing experience in patients with psoriasis, psoriatic arthritis, and Crohn's disease.
 Clinical presentation included headaches, seizures, confusion, visual disturbances, and imaging changes consistent with PRES a few days to several months after ustekinumab initiation.
 A few cases reported latency of a year or longer.
 Patients recovered with supportive care following withdrawal of ustekinumab.
@@ -65,15 +65,15 @@ If PRES is suspected, promptly administer appropriate treatment and discontinue 
 ## 5.7 Immunizations
 
 Prior to initiating therapy with STELARA ®, patients should receive all age-appropriate immunizations as recommended by current immunization guidelines.
-Patients being treated with STELARA ®should avoid receiving live vaccines.
-Avoid administering BCG vaccines during treatment with STELARA ®or for one year prior to initiating treatment or one year following discontinuation of treatment.
-Caution is advised when administering live vaccines to household contacts of patients receiving STELARA ®because of the potential risk for shedding from the household contact and transmission to patient.
+Patients being treated with STELARA ® should avoid receiving live vaccines.
+Avoid administering BCG vaccines during treatment with STELARA ® or for one year prior to initiating treatment or one year following discontinuation of treatment.
+Caution is advised when administering live vaccines to household contacts of patients receiving STELARA ® because of the potential risk for shedding from the household contact and transmission to patient.
 
-Non-live vaccinations received during a course of STELARA ®may not elicit an immune response sufficient to prevent disease.
+Non-live vaccinations received during a course of STELARA ® may not elicit an immune response sufficient to prevent disease.
 
 ## 5.8 Noninfectious Pneumonia
 
-Cases of interstitial pneumonia, eosinophilic pneumonia and cryptogenic organizing pneumonia have been reported during post-approval use of STELARA ®.
+Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia have been reported during post-approval use of STELARA ®.
 Clinical presentations included cough, dyspnea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalization.
 Patients improved with discontinuation of therapy and in certain cases administration of corticosteroids.

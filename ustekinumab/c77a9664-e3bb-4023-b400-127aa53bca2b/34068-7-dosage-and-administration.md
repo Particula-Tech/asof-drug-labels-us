@@ -150,7 +150,7 @@ To prevent premature activation of the needle safety guard, do not touch the NEE
 
 ## 2.6 Preparation and Administration of STELARA ®130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
 
-STELARA ®solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
+STELARA ®solution for intravenous infusion must be diluted, prepared, and infused by a healthcare professional using aseptic technique.
 
 1. Calculate the dose and the number of STELARA ®vials needed based on patient weight (Table 4).
    Each 26 mL vial of STELARA ®contains 130 mg of ustekinumab.
