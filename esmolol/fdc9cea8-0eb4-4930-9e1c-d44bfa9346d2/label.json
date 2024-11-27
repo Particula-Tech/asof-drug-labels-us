@@ -5,7 +5,10 @@
   "inn": "esmolol",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
-    "63323-652-10"
+    "63323-652-01",
+    "63323-652-10",
+    "63323-661-04",
+    "63323-661-14"
   ],
   "products": [
     {
