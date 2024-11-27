@@ -4,7 +4,7 @@ The safety and efficacy of oxybutynin chloride was evaluated in a total of 199 p
 These participants were treated with oxybutynin chloride 5 to 20 mg/day for up to 6 weeks.
 Table 3 shows the incidence of adverse events judged by investigators to be at least possibly related to treatment and reported by at least 5% of patients.
 
-Table 3: Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using Oxybutynin Chloride (5 to 20 mg/day)
+Table 3 Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using Oxybutynin Chloride (5 to 20 mg/day)
 
 | Body System | Adverse Event | Oxybutynin Chloride (5 to 20 mg/day) (n = 199) |
 | --- | --- | --- |
@@ -12,15 +12,15 @@ Table 3: Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using Ox
 | Psychiatric Disorders | Insomnia | 5.5% |
 | Nervousness | 6.5% |  |
 | Nervous System Disorders | Dizziness | 16.6% |
-| Somnolence | 14% |  |
+| Somnolence | 14.0% |  |
 | Headache | 7.5% |  |
 | Eye Disorders | Blurred vision | 9.6% |
 | Gastrointestinal Disorders | Dry mouth | 71.4% |
 | Constipation | 15.1% |  |
 | Nausea | 11.6% |  |
-| Dyspepsia | 6% |  |
+| Dyspepsia | 6.0% |  |
 | Renal and Urinary Disorders | Urinary Hesitation | 8.5% |
-|  | Urinary Retention | 6% |
+|  | Urinary Retention | 6.0% |
 
 The most common adverse events reported by patients receiving oxybutynin chloride 5 to 20 mg/day were the expected side effects of anticholinergic agents.
 The incidence of dry mouth was dose-related.
@@ -32,3 +32,5 @@ Infections and Infestations: nasopharyngitis, upper respiratory tract infection,
 
 Because postmarketing adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The following additional adverse events have been reported from worldwide postmarketing experience with oxybutynin chloride: Psychiatric Disorders: psychotic disorder, agitation, hallucination, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: cycloplegia, mydriasis, glaucoma; Cardiac Disorders: tachycardia, QT interval prolongation; Gastrointestinal Disorders: decreased gastrointestinal motility; Skin and Subcutaneous Tissue Disorders: rash, decreased sweating; Renal and Urinary Disorders: impotence; Reproductive System and Breast Disorders: suppression of lactation; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; rare anaphylactic reactions requiring hospitalization for emergency treatment.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.

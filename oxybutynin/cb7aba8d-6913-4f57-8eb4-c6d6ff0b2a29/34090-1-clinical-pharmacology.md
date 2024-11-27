@@ -22,13 +22,13 @@ Wide interindividual variation in pharmacokinetic parameters is evident followin
 The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 1.
 The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin.
 
-Table 1: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three Doses of Oxybutynin Chloride 5 mg Administered Every 8 Hours (n = 23)
+Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three Doses of Oxybutynin Chloride 5 mg Administered Every 8 Hours (n = 23)
 
 | Parameters (Units) | R-Oxybutynin | S-Oxybutynin |
 | --- | --- | --- |
 | Cmax (ng/mL) | 3.6 (2.2) | 7.8 (4.1) |
 | Tmax (h) | 0.89 (0.34) | 0.65 (0.32) |
-| AUCt (ng⋅h/mL) | 22.6 (11.3) | 35 (17.3) |
+| AUCt (ng⋅h/mL) | 22.6 (11.3) | 35.0 (17.3) |
 | AUCinf (ng⋅h/mL) | 24.3 (12.3) | 37.3 (18.7) |
 
 Figure 1.
@@ -41,17 +41,17 @@ Sparse sampling technique was used to obtain serum samples.
 When all available data are normalized to an equivalent of 5 mg twice daily oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 2.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg twice daily.
 
-Table 2: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N = 11)
+Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N = 11)
 
 | All Available Data Normalized to an Equivalent of Oxybutynin Chloride Tablets 5 mg BID or TID at Steady-State |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
-| CmaxReflects Cmax for pooled data (ng/mL) | 6.1 ± 3.2 | 10.1 ± 7.5 | 55.4 ± 17.9 | 28.2 ± 10 |
-| Tmax (hr) | 1 | 1 | 2 | 2 |
+| CmaxReflects Cmax for pooled data (ng/mL) | 6.1 ± 3.2 | 10.1 ± 7.5 | 55.4 ± 17.9 | 28.2 ± 10.0 |
+| Tmax (hr) | 1.0 | 1.0 | 2.0 | 2.0 |
 | AUCAUC0-end of dosing interval (ng.hr/mL) | 19.8 ± 7.4 | 28.4 ± 12.7 | 238.8 ± 77.6 | 119.5 ± 50.7 |
 
 Figure 2.
-Mean Steady-State (± SD) R-Oxybutynin Plasma Concentrations Following Administration of Total Daily Oxybutynin Chloride Tablet Dose of 7.5 mg to 15 mg (0.22 mg/kg to 0.53 mg/kg) in Children 5 to 15 Years of Age. – Plot Represents All Available Data Normalized to the Equivalent of Oxybutynin Chloride 5 mg BID or TID at Steady-State
+Mean steady-state (± SD) R-oxybutynin plasma concentrations following administration of total daily oxybutynin chloride tablet dose of 7.5 mg to 15 mg (0.22 mg/kg to 0.53 mg/kg) in children 5 to 15 years of age. – Plot represents all available data normalized to the equivalent of oxybutynin chloride 5 mg BID or TID at steady-state
 
 ### Food Effects
 

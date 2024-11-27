@@ -15,7 +15,7 @@
 
 Manufactured In Bulgaria By: Balkanpharma Dupnitsa AD Dupnitsa 2600, Bulgaria
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-D 9/2015
+E 9/2024
