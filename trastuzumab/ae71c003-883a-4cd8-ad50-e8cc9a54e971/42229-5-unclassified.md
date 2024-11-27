@@ -1,5 +1,3 @@
-HERZUMA® [trastuzumab-pkrb]
-
 Manufactured by:
 
 CELLTRION, Inc.
