@@ -46,6 +46,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-751XXXXX
+75106719
 
-Revised: 9/2024 MXA:CLOZOD:RX3
+Revised: 9/2024 MXA:CLOZOD:R4
