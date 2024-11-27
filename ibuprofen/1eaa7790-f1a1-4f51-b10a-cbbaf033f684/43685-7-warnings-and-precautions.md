@@ -122,6 +122,8 @@ When CALDOLOR is used in patients with preexisting asthma (without known aspirin
 ## 5.9 Serious Skin Reactions
 
 NSAIDs, including ibuprofen, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of CALDOLOR at the first appearance of skin rash or any other sign of hypersensitivity.
 CALDOLOR is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
@@ -169,7 +171,7 @@ Co-morbid conditions such as coagulation disorder, concomitant use of warfarin, 
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 CALDOLOR must be diluted prior to use.
-Infusion of the drug product without dilution can cause hemolysis [see Dosage and Administration (2.3)].
+Infusion of the drug product without dilution can cause hemolysis [see Dosage and Administration (2.1)].
 
 ## 5.13 Masking of Inflammation and Fever
 
@@ -182,7 +184,7 @@ Because serious GI bleeding, hepatotoxicity, and renal injury can occur without 
 ## 5.15 Ophthalmological Effects
 
 Blurred or diminished vision, scotomata, and changes in color vision have been reported with oral ibuprofen.
-Discontinue ibuprofen if a patient develops such complaints, and refer the patient for an ophthalmologic examination that includes central visual fields and color vision testing.
+Discontinue ibuprofen if a patient develops such complaints and refer the patient for an ophthalmologic examination that includes central visual fields and color vision testing.
 
 ## 5.16 Aseptic Meningitis
 

@@ -4,11 +4,11 @@
 
 The effect of CALDOLOR on acute pain was evaluated in three multi-center, randomized, double-blind, placebo-controlled studies.
 
-In a study of women who had undergone an elective abdominal hysterectomy, 319 patients were randomized and treated with CALDOLOR 800 mg or placebo administered every 6 hours (started intra-operatively) and morphine administered on an as needed basis.
+In a study of women who had undergone an elective abdominal hysterectomy, 319 patients were randomized and treated with CALDOLOR 800 mg or placebo administered every 6 hours (started intra-operatively) and morphine administered on an as-needed basis.
 Efficacy was demonstrated as a statistically significant greater reduction in the mean morphine consumption through 24 hours in patients who received CALDOLOR as compared to those receiving placebo (47 mg and 56 mg, respectively).
-The clinical relevance of this finding is supported by a greater reduction in pain intensity over 24 hours for patients treated with CALDOLOR, even though morphine was available on an as needed basis.
+The clinical relevance of this finding is supported by a greater reduction in pain intensity over 24 hours for patients treated with CALDOLOR, even though morphine was available on an as-needed basis.
 
-In a study of patients who had undergone an elective abdominal or orthopedic surgery, 406 patients (87 men, 319 women) were randomized to receive CALDOLOR 400 mg, CALDOLOR 800 mg, or placebo administered every 6 hours (started intra-operatively), and morphine on an as needed basis.
+In a study of patients who had undergone an elective abdominal or orthopedic surgery, 406 patients (87 men, 319 women) were randomized to receive CALDOLOR 400 mg, CALDOLOR 800 mg, or placebo administered every 6 hours (started intra-operatively), and morphine on an as-needed basis.
 This study failed to demonstrate a statistically significant difference in outcome between patients receiving CALDOLOR 800 mg or 400 mg and placebo, although there were trends favoring the active treatments.
 
 An additional study of orthopedic surgical pain confirmed the findings of the study of abdominal surgical pain.
@@ -29,5 +29,6 @@ In a single-center study, 60 hospitalized patients (48 men, 12 women) with uncom
 There was a significant reduction in fever within the first 24 hours of treatment, measured as the area above the temperature 98.6°F vs. time curve for patients treated with CALDOLOR.
 
 In a multi-center, open-label study, 100 hospitalized pediatric patients 6 months of age and older with temperatures of 101.0ºF or greater were randomized and treated with 10 mg/kg of CALDOLOR or a low dose of an active comparator every 4 hours as needed for fever.
+
 Efficacy was demonstrated as a statistically significant greater reduction in temperature for the primary endpoint, an area under the curve analyses of temperature versus time for the first 2 hours, as well as over the entire dosing interval.
 Seventy-four percent of CALDOLOR treated patients became afebrile (temperature <99.5ºF) by the end of first dosing interval.

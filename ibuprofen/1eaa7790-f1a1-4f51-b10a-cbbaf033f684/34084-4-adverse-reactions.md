@@ -59,9 +59,9 @@ In hospitalized febrile patients (all causes), adverse reactions observed in mor
 
 Table 2: Patients with Adverse Reactions Observed in ≥ 3% of Patients in any CALDOLOR Treatment Group in All-Cause Fever Study
 
-| 100 mg N=30 | 200 mg N=30 | 400 mg N=31 |  |  |
-| --- | --- | --- | --- | --- |
 | Event | CALDOLOR |  |  | Placebo N=28 |
+| --- | --- | --- | --- | --- |
+| 100 mg N=30 | 200 mg N=30 | 400 mg N=31 |  |  |
 | Any Reaction | 27 (87%) | 25 (83%) | 23 (74%) | 25 (89%) |
 | Anemia | 5 (17%) | 6 (20%) | 11 (36%) | 4 (14%) |
 | Eosinophilia | 7 (23%) | 7 (23%) | 8 (26%) | 7 (25%) |
@@ -85,3 +85,10 @@ A total of 143 pediatric patients ages 6 months and older have received CALDOLOR
 The most common adverse reactions (incidence greater than or equal to 2%) in pediatric patients treated with CALDOLOR were infusion site pain, vomiting, nausea, anemia and headache.
 
 Twenty-one hospitalized patients ages 3 months to less than 6 months were treated with CALDOLOR for pain or fever in an open-label, non-controlled clinical study; 18 of 21 patients were treated with a single dose.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of ibuprofen.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).

@@ -39,7 +39,7 @@ Principal Panel Display – Bag Label
 
 200 mL NDC 66220-284-11
 
-CALDOLOR®
+CALDOLOR ®
 
 (ibuprofen) Injection
 
@@ -62,7 +62,7 @@ Rx Only
 
 Manufactured For:
 
-CUMBERLAND®
+CUMBERLAND ®
 
 PHARMACEUTICALS
 
@@ -70,7 +70,7 @@ Nashville, TN, USA, 37203
 
 Principal Panel Display – Case Label
 
-CALDOLOR®
+CALDOLOR ®
 
 (ibuprofen) Injection 800 mg/200 mL
 
@@ -91,7 +91,7 @@ NDC 66220-284-22
 
 Manufactured For:
 
-CUMBERLAND®
+CUMBERLAND ®
 
 PHARMACEUTICALS
 

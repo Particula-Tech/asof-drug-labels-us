@@ -7,15 +7,18 @@ Risk Summary
 Use of NSAIDs, including CALDOLOR, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 Because of these risks, limit dose and duration of CALDOLOR use between about 20 and 30 weeks of gestation, and avoid CALDOLOR use at about 30 weeks of gestation and later in pregnancy (see Clinical Considerations, Data).
 
-- Premature Closure of Fetal Ductus Arteriosus
-- Use of NSAIDs, including CALDOLOR, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
-- Oligohydramnios/Neonatal Renal Impairment
-- Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+Premature Closure of Fetal Ductus Arteriosus
+
+Use of NSAIDs, including CALDOLOR, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
 
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
-In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre and post-implantation loss.
+In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 
@@ -103,7 +106,7 @@ Safety and effectiveness of CALDOLOR in pediatric patients less than 3 months of
 ## 8.5 Geriatric Use
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14)].
+If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
 
 Clinical studies of CALDOLOR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

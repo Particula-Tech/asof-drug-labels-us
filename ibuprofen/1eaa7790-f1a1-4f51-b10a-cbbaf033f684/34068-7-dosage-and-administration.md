@@ -6,7 +6,7 @@ Use the lowest effective dosage for the shortest duration consistent with indivi
 
 After observing the response to initial therapy with CALDOLOR, the dose and frequency should be adjusted to suit an individual patient's needs.
 Do not exceed 3200 mg total daily dose in adults.
-Do not exceed 40 mg/kg or 2,400 mg, whichever is less, total daily dose in pediatric patients less thanup 6 months to 17 years of age.
+Do not exceed 40 mg/kg or 2,400 mg, whichever is less, total daily dose in pediatric patients 6 months to 17 years of age.
 
 The dosage is limited to a single dose not to exceed 10 mg/kg or 100 mg, whichever is less, in pediatric patients 3 months to less than 6 months of age.
 
@@ -47,7 +47,7 @@ Maximum daily dose is 3,200 mg.
 
 ## 2.3 Pediatric Patients
 
-For Analgesia (pain) and Fever
+For Analgesia (pain) and Fever:
 
 Ages 12 to 17 years
 
