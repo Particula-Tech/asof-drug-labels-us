@@ -24,7 +24,7 @@ After 8 weeks of treatment with 9 mg once daily budesonide delayed-release capsu
 The mean morning p-cortisol was 6.3 mcg/dL in the budesonide group and 2.6 mcg/dL in the prednisolone group (Table 4).
 
 Table 4.
-Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of Budesonide Delayed-release Capsules or Prednisolone for 8 weeks
+Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of Budesonide Delayed-Release Capsules or Prednisolone for 8 weeks
 
 |  | Budesonide | Prednisolone |
 | --- | --- | --- |

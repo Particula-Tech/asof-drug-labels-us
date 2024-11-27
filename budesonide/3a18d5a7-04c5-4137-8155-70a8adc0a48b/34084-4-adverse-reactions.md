@@ -4,8 +4,9 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - •Hypercorticism and adrenal axis suppression [see Warnings and Precautions (5.1)]
 - •Symptoms of steroid withdrawal in those patients transferred from other systemic corticosteroids [see Warnings and Precautions (5.2)]
-- •Increased risk of infection [see Warnings and Precautions (5.3)]
-- •Other corticosteroid effects [see Warnings and Precautions (5.4)]
+- •Immunosuppression and increased risk of infection [see Warnings and Precautions (5.3)]
+- •Kaposi’s sarcoma [see Warnings and Precautions (5.4)]
+- •Other corticosteroid effects [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

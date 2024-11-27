@@ -7,10 +7,14 @@ Hypercorticism and Adrenal Axis Suppression
 Advise patients that budesonide delayed-release capsules may cause hypercorticism and adrenal axis suppression and to follow a taper schedule, as instructed by their healthcare provider if transferring to budesonide delayed-release capsules from systemic corticosteroids [see Warnings and Precautions (5.1), (5.2)].
 Advise patients that replacement of systemic corticosteroids with budesonide delayed-release capsules may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
-Increased Risk of Infection
+Immunosuppression and Increased Risk of Infection
 
-Advise patients to avoid exposure to people with chicken pox or measles and, if exposed, to consult their healthcare provider immediately.
-Inform patients that they are at increased risk of developing a variety of infections; including worsening of existing tuberculosis, fungal, bacterial, viral or parasitic infections or ocular herpes simplex and to contact their healthcare provider if they develop any symptoms of infection [see Warnings and Precautions (5.3)].
+Advise patients to avoid exposure to people with varicella (chicken pox) or measles.
+Advise patients inform their healthcare provider if they are exposed to varicella or measles or if they develop a new or worsening infection [see Warnings and Precautions (5.3)].
+
+Kaposi’s Sarcoma
+
+Advise patients that Kaposi’s sarcoma has been reported in patients receiving corticosteroids for chronic conditions and to inform their healthcare provider if they experience signs or symptoms of Kaposi’s sarcoma [see Warnings and Precautions (5.4)].
 
 Pregnancy
 
@@ -33,8 +37,8 @@ Administration
 9. 6.Follow the applesauce and granules immediately with a glass (8 ounces) of cool water to ensure complete swallowing of the granules.
 10. •Avoid consumption of grapefruit juice for the duration of their budesonide delayed-release capsules therapy [see Drug Interactions (7.1)].
 
-ENTOCORT is a registered trademark of Padagis US LLC. © Padagis LLC 2023
+ENTOCORT is a registered trademark of Padagis US LLC. © Padagis LLC 2024
 
 Manufactured for Padagis® Minneapolis, MN 55427
 
-Rev 06-23 5V000 RC PH7 2204813
+Rev 06-24 5V000 RC PH8 2204932

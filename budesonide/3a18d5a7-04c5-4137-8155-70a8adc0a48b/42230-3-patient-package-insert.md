@@ -29,13 +29,14 @@ Before you take budesonide delayed-release capsules tell your healthcare provide
 - •have liver problems.
 - •are planning to have surgery.
 - •have chicken pox or measles or have recently been near anyone with chicken pox or measles.
-- •have an infection.
+- •have an infection, including fungal and threadworm (Strongyloides) infections.
 - •have diabetes or glaucoma or have a family history of diabetes or glaucoma.
 - •have cataracts.
 - •have or had tuberculosis.
 - •have high blood pressure (hypertension).
 - •have decreased bone mineral density (osteoporosis).
 - •have stomach ulcers.
+- •have malaria of the brain (cerebral malaria).
 - •are pregnant or plan to become pregnant.
   Budesonide delayed-release capsules may harm your unborn baby.
   Talk to your healthcare provider about the possible risk to your unborn baby if you take budesonide delayed-release capsules when you are pregnant.
@@ -96,17 +97,32 @@ Budesonide delayed-release capsules may cause serious side effects, including:
   If you take certain other corticosteroid medicines to treat allergies, switching to budesonide delayed-release capsules may cause your allergies to come back.
   These allergies may include a skin condition called eczema or inflammation inside your nose (rhinitis).
   Tell your healthcare provider if any of your allergies become worse while taking budesonide delayed-release capsules.
-- •Increased risk of infection.
-  Budesonide delayed-release capsules weaken your immune system.
-  Taking medicines that weaken your immune system makes you more likely to get infections.
-  Avoid contact with people who have contagious diseases, such as chicken pox or measles, while taking budesonide delayed-release capsules.
-  Tell your healthcare provider right away if you come in contact with anyone who has chicken pox or measles.
-- •Tell your healthcare provider about any signs or symptoms of infection during treatment with budesonide delayed-release capsules, including:
+- •Decreased ability of your body to fight infections (immunosuppression) and increased risk of infection.
+  Corticosteroid medicines, including budesonide delayed-release capsules, lower the ability of your immune system to fight infections and increase the risk of infections caused by virus, bacteria, fungi, protozoan, or certain parasites.
+  Corticosteroid medicines including budesonide delayed-release capsules can also:
+- omake current infections worse
+- oincrease the risk of infections spreading (disseminated)
+- oincrease the risk of making infections active again or making infections worse that have not been active (latent)
+- ohide (mask) some signs of infection
+- These infections can be mild, but can be severe and lead to death.
+  Your healthcare provide should check you closely for signs and symptoms of an infection while taking budesonide delayed-release capsules.
+  Tell your healthcare provider right away about any signs or symptoms of a new or worsening infection while taking budesonide delayed-release capsules, including flu-like symptoms such as:
 
-| ofever | ochills |
+| ofever | ocough |
 | --- | --- |
-| opain | ofeeling tired |
+| ochillsostomach area (abdominal) pain stomach area (abdominal) pain | opainfeeling tiredofeeling tired |
 | oaches | onausea and vomiting |
+| odiarrhea |  |
+
+- oTuberculosis: If you have inactive (latent) tuberculosis, your tuberculosis may become active again while taking budesonide delayed-release capsules your healthcare provider should check you closely for signs and symptoms of tuberculosis while taking budesonide delayed-release capsules.
+- oChicken pox and measles: People taking corticosteroid medicines, including budesonide delayed-release capsules, who have not had chicken pox or measles, should avoid contact with people who have these diseases.
+  Tell your healthcare provider right away if you come in contact with anyone who has chicken pox or measles.
+- oHepatitis B Virus (HBV) reactivation: If you are a carrier of HBV, the virus can become an active infection again while taking budesonide delayed-release capsules.
+  Your healthcare provider will test you for HBV before you start taking budesonide delayed-release capsules.
+- oAmebiasis: Inactive (latent) amebiasis before you start taking budesonide delayed-release capsules.
+  Your healthcare provider should check you for amebiasis before you start taking budesonide delayed-release capsules in people who have spent time in the tropics or have unexplained diarrhea.
+- oKaposi’s Sarcoma.
+  Kaposi’s sarcoma has happened in people who receive corticosteroid therapy, most often for treatment of long-lasting (chronic) conditions.
 
 The most common side effects of budesonide delayed-release capsules in adults include:
 
@@ -152,7 +168,7 @@ The capsule shell contains: gelatin, iron oxide, and titanium dioxide.
 
 Manufactured for Padagis® Minneapolis, MN 55427
 
-Rev 06-23 5V000 RC PH7
+Rev 06-24 5V000 RC PH8 2204932
 
 For more information, go to www.padagis.com or call 1-866-634-9120.
 
