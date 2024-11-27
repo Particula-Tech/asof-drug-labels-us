@@ -59,9 +59,9 @@ Fulvestrant injection may cause serious side effects, including:
 
 - •Injection site related nerve damage.
   Call your healthcare provider if you develop any of the following symptoms in your legs following a fulvestrant injection:
-- onumbness
-- otingling
-- oweakness
+- •numbness
+- •tingling
+- •weakness
 
 The most common side effects of fulvestrant injection include:
 
