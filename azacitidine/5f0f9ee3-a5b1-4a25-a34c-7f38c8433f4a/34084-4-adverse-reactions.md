@@ -34,7 +34,7 @@ Discontinuation: leukopenia, thrombocytopenia, neutropenia.
 
 Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
 
-Dose Reduced: leukopenia, neutropenia, thrombocytopenia
+Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
 
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with azacitidine (subcutaneous) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the azacitidine-treated group than for the observation group; patients received azacitidine for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
@@ -106,20 +106,19 @@ Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Hematoma | 19 (9) | 0 |
 | Hypotension | 15 (7) | 2 (2) |
 | Petechiae | 52 (24) | 8 (9) |
-| a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. bIncludes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
+| a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. |  |  |
+| b Includes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. |  |  |
+| c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
 
 Table 2 presents adverse reactions occurring in at least 5% of patients treated with azacitidine in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with azacitidine was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
 
 Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in the Azacitidine -Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
 
-|  | (N=175) | (N=102) | (N=175) | (N=102) |
+| Body System Adverse Reactions a | Azacitidine (N=175) | Best Supportive Care Only (N= 102) | Azacitidine (N=175) | Best Supportive Care Only (N= 102) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Patients |  |  |  |
-|  | Any Grade |  | Grade 3/4 |  |
-|  |  | Best |  | Best |
-|  | Azacitidine | Supportive | Azacitidine | Supportive |
-| Body System Adverse Reactions a |  | Care Only |  | Care Only |
+| Any Grade |  | Grade 3/4 |  |  |
 | Blood and lymphatic system disorders |  |  |  |  |
 | Anemia | 90 (51) | 45 (44) | 24 (14) | 9 (9) |
 | Febrile neutropenia | 24 (14) | 10 (10) | 22 (13) | 7 (7) |
@@ -168,7 +167,7 @@ Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Rash | 18 (10) | 1 (1) | 0 | 0 |
 | Vascular disorders |  |  |  |  |
 | Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |
-| aMultiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
+| a Multiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
 
 In Studies 1, 2 and 4 with subcutaneous administration of azacitidine, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of azacitidine.
 Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
@@ -177,9 +176,7 @@ There did not appear to be any adverse reactions that increased in frequency ove
 Overall, adverse reactions were qualitatively similar between the intravenous and subcutaneous studies.
 Adverse reactions that appeared to be specifically associated with the intravenous route of administration included infusion site reactions (e.g. erythema or pain) and catheter site reactions (e.g. infection, erythema, or hemorrhage).
 
-In clinical studies of either subcutaneous or intravenous azacitidine, the following serious adverse reactions
-
-occurring at a rate of less than 5% (and not described in Tables 1 or 2) were reported:
+In clinical studies of either subcutaneous or intravenous azacitidine, the following serious adverse reactions occurring at a rate of less than 5% (and not described in Tables 1 or 2) were reported:
 
 Blood and lymphatic system disorders:agranulocytosis, bone marrow failure, pancytopenia, splenomegaly.
 
@@ -216,7 +213,7 @@ Surgical and medical procedures:cholecystectomy.
 Vascular disorders:orthostatic hypotension.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
-However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 

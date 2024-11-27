@@ -9,8 +9,8 @@ Supportive care allowed in this study included blood transfusion products, antib
 The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
-Azacitidine was administered at a subcutaneous dose of 75 mg/m 2daily for 7 days every 4 weeks.
-The dose was increased to 100 mg/m 2if no beneficial effect was seen after 2 treatment cycles.
+Azacitidine was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days every 4 weeks.
+The dose was increased to 100 mg/m 2 if no beneficial effect was seen after 2 treatment cycles.
 The dose was decreased and/or delayed based on hematologic response or evidence of renal toxicity.
 Patients in the observation arm were allowed by protocol to cross over to azacitidine if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
 For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 4).
@@ -72,7 +72,7 @@ Response occurred in all MDS subtypes as well as in patients with adjudicated ba
 Table 5.
 Response Rates
 
-|  | Azacitidine (N=89) | Observation BeforeCrossover(N=83) |  |
+|  | Azacitidine(N=89) | Observation BeforeCrossover(N=83) |  |
 | --- | --- | --- | --- |
 | Response | n (%) | n (%) | P value |
 | Overall (CR+PR) | 14 (15.7) | 0 (0.0) | (<0.0001) |
@@ -123,7 +123,6 @@ Effect of Azacitidine on RBC Transfusions in MDS Patients
 
 | Efficacy Parameter | Azacitidine plus BSC (n= 179) | Conventional Care Regimens (n= 179) |
 | --- | --- | --- |
-| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment 1 Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |
+| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment 1Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%)(95% CI: 35.6%, 54.8%)10/68 (14.7%)(95% CI: 7.3%, 25.4%) | 13/114 (11.4%)(95% CI: 6.2%, 18.7%)28/65 (43.1%)(95% CI: 30.9%, 56.0%) |
 | 1A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |
-| Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection). However |  |  |
-| due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information. |  |  |
+| Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection). However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information. |  |  |

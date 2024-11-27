@@ -7,21 +7,22 @@ The indications and dosing regimen for Azacitidine for Injection differ from tha
 
 ## 2.2 First Treatment Cycle for Adults
 
-The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2subcutaneously or intravenously, daily for 7 days.
+The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2 subcutaneously or intravenously, daily for 7 days.
+
 Premedicate patients for nausea and vomiting.
 Obtain complete blood counts, liver chemistries and serum creatinine prior to the first dose.
 
-## 2.3 Subsequent Treatment Cycle for Adults
+## 2.3 Subsequent Treatment Cycles for Adults
 
 Repeat cycles every 4 weeks.
-The dose may be increased to 100 mg/m 2if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
+The dose may be increased to 100 mg/m 2 if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
 It is recommended that patients be treated for a minimum of 4 to 6 cycles.
 However, complete or partial response may require additional treatment cycles.
 Treatment may be continued as long as the patient continues to benefit.
 
-Monitor patients for hematologic response and renal toxicities [see Warnings and Precautions (5.4)]and delay or reduce dosage if necessary as described below.
+Monitor patients for hematologic response and renal toxicities [see Warnings and Precautions (5.4)] and delay or reduce dosage if necessary as described below.
 
-Pediatric use information is approved for Celgene Corporation’s Vidaza® (azacitidine for injection).
+Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
 However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustment Based on Hematology Laboratory Values
@@ -46,19 +47,17 @@ If a greater than 25% increase above the nadir is not seen by day 28, reassess c
 If a 25% increase is not seen by day 42, reduce the scheduled dose by 50%.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
 If unexplained reductions in serum bicarbonate levels to less than 20 mEq/L occur, reduce the dose by 50% for the next course.
-If unexplained elevations of BUN or serum creatinine occur, delay the next cycle until values return to normal or baseline and reduce the dose by 50% for the next course [see Warning and Precautions (5.4)].
+If unexplained elevations of BUN or serum creatinine occur, delay the next cycle until values return to normal or baseline and reduce the dose by 50% for the next course [see Warnings and Precautions (5.4)].
 
 ## 2.6 Use in Geriatric Patients
 
 Azacitidine and its metabolites are known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Error!
-Hyperlink reference not valid.and Error!
-Hyperlink reference not valid.].
+Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5)].
 
 ## 2.7 Preparation of Azacitidine for Injection
 
@@ -70,7 +69,7 @@ Do not save any unused portions for later administration.
 
 ## 2.8 Instructions for Subcutaneous Administration
 
-Reconstitute Azacitidine for Injection aseptically with 4 mL Sterile Water for Injection to obtain concentration of 25 mg/mL.
+Reconstitute Azacitidine for Injection aseptically with 4 mL Sterile Water for Injection to obtain a concentration of 25 mg/mL.
 Inject the diluent slowly into the vial.
 Vigorously shake or roll the vial until a uniform suspension is achieved.
 The suspension will be cloudy.
@@ -86,13 +85,14 @@ The product may be held at room temperature for up to 1 hour, but must be admini
 Preparation for Delayed Subcutaneous Administration
 
 The reconstituted product may be kept in the vial or drawn into a syringe.
-For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
 Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product must be refrigerated immediately.
 
 When Azacitidine for Injection is reconstituted using Sterile Water for Injection that has not been refrigerated, the reconstituted product may be held under refrigerated conditions (2°C to 8°C, 36°F to 46°F) for up to 12 hours.
 
 When Azacitidine for Injection is reconstituted using refrigerated (2°C to 8°C, 36°F to 46°F) Sterile Water for Injection, the reconstituted product may be stored under refrigerated conditions (2°C to 8°C, 36°F to 46°F) for up to 30 hours.
+
 After removal from refrigerated conditions, the suspension may be allowed to equilibrate to room temperature for up to 30 minutes prior to administration.
 
 Subcutaneous Administration
@@ -138,8 +138,4 @@ Solution Stability
 Azacitidine for Injection reconstituted for intravenous administration may be stored at 25°C (77°F), but administration must be completed within 1 hour of reconstitution.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However
-
-due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that
-
-information.
+However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
