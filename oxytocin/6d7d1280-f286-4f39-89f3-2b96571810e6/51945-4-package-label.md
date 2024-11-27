@@ -1,40 +1,20 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY - Oxytocin 1 mL Vial Label
 
-NDC 63323-012-21
+NDC 63323-012-17
 
-NP91201
+NP912011
 
-Oxytocin
+OXYTOCIN
 
-Injection, USP
-
-(Synthetic)
+INJECTION, USP (SYNTHETIC)
 
 For IV Infusion or IM Use
 
-10 USP Units/mL
+10 USP units per mL
 
 1 mL
 
-Rx only
-
-# PACKAGE LABEL - PRINCIPAL DISPLAY - Oxytocin 1 mL Vial Tray Label
-
-NDC 63323-012-12
-
-NP91201
-
-Oxytocin
-
-Injection, USP
-
-(Synthetic)
-
-For IV Infusion or IM Use
-
-10 USP Units/mL
-
-1 mL
+Single Dose Vial Discard Unused Portion
 
 Rx only
 
@@ -44,17 +24,13 @@ NDC 63323-012-17
 
 NP912011
 
-Oxytocin
-
-Injection, USP
-
-(Synthetic)
+OXYTOCIN INJECTION, USP (SYNTHETIC)
 
 For IV Infusion or IM Use
 
-10 USP Units/mL
+10 USP units per mL
 
-1 mL
+1 mL Single Dose Vial Discard Unused Portion
 
 Rx only
 
@@ -64,16 +40,12 @@ NDC 63323-012-07
 
 NP912011
 
-Oxytocin
-
-Injection, USP
-
-(Synthetic)
+OXYTOCIN INJECTION, USP (SYNTHETIC)
 
 For IV Infusion or IM Use
 
-10 USP Units/mL
+10 USP units per mL
 
-1 mL
+25 x 1 mL Single Dose Vials
 
 Rx only
