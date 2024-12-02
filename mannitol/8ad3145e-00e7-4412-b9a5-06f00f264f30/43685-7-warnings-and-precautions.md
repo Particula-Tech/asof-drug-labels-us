@@ -51,13 +51,13 @@ Such imbalances may be severe and potentially fatal.
 
 Imbalances that may result from administration of Mannitol Injection include:
 
-- Hypernatremia, dehydration, and hemoconcentration
-- Hyponatremia, which can lead to headache, nausea, seizures, lethargy, coma, cerebral edema, and death.
+- •Hypernatremia, dehydration, and hemoconcentration
+- •Hyponatremia, which can lead to headache, nausea, seizures, lethargy, coma, cerebral edema, and death.
   Acute symptomatic hyponatremic encephalopathy is considered a medical emergency.
-- Hypo/hyperkalemia.
+- •Hypo/hyperkalemia.
   The development of electrolyte imbalances (e.g., hyperkalemia, hypokalemia) associated with mannitol administration may result in cardiac adverse reactions in patients receiving drugs that are sensitive to such imbalances (e.g., digoxin, agents that may cause QT prolongation, neuromuscular blocking agents) [see Drug Interactions (7.4)].
-- Other electrolyte disturbances
-- Metabolic acidosis/alkalosis
+- •Other electrolyte disturbances
+- •Metabolic acidosis/alkalosis
 
 Pediatric patients less than two years of age, particularly preterm and term neonates, may be at higher risk for fluid and electrolyte abnormalities following administration of Mannitol Injection due to decreased glomerular filtration rate and limited ability to concentrate urine [see Use in Specific Populations (8.4)].
 
@@ -67,11 +67,11 @@ During and following infusion of Mannitol Injection for the reduction in intracr
 
 During and following infusion of Mannitol Injection for the reduction in intracranial pressure, monitor:
 
-- serum osmolarity, serum electrolytes (including sodium, potassium, calcium and phosphate) and acid/base balance,
-- the osmol gap
-- signs of hypo- or hypervolemia, including urine output
-- renal, cardiac, and pulmonary function
-- intracranial pressure
+- •serum osmolarity, serum electrolytes (including sodium, potassium, calcium and phosphate) and acid/base balance,
+- •the osmol gap
+- •signs of hypo- or hypervolemia, including urine output
+- •renal, cardiac, and pulmonary function
+- •intracranial pressure
 
 Discontinue Mannitol Injection if renal, cardiac, or pulmonary status worsens or CNS toxicity develops [see Contraindications (4)].
 

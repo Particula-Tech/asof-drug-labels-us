@@ -2,5 +2,5 @@
 
 Mannitol Injection is indicated for the reduction of:
 
-- intracranial pressure and treatment of cerebral edema.
-- elevated intraocular pressure.
+- •intracranial pressure and treatment of cerebral edema.
+- •elevated intraocular pressure.
