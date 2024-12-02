@@ -1,7 +1,6 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-ZIPSOR (diclofenac potassium) 25 mg, are translucent, pale yellow, liquid-filled capsules printed with “X592” in black ink supplied as: Bottles of 100 Capsules NDC# 13913-008-11.
-Bottles of 120 Capsules NDC# 13913-008-12.
+ZIPSOR (diclofenac potassium) 25 mg, are translucent, pale yellow, liquid-filled capsules printed with “X592” in black ink supplied as: Bottles of 120 Capsules NDC# 13913-008-12.
 
 Storage
 

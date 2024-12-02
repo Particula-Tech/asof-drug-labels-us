@@ -50,4 +50,4 @@ Inform patients not to use low-dose aspirin concomitantly with ZIPSOR until they
 
 US Patents: 6,365,180; 7,662,858; 7,884,095; 7,939,518; 8,110,606; 6,287,594; 8,623,920
 
-Distributed by: Assertio Therapeutics, Inc. Lake Forest, IL 60045, USA Issued: 4/2021
+Distributed by: Assertio Therapeutics, Inc. Lake Forest, IL 60045, USA Issued: 11/2024
