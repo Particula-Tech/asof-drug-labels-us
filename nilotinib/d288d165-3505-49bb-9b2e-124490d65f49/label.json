@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA219293"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-154-01",
+    "24338-154-02",
+    "24338-154-03",
+    "24338-155-01",
+    "24338-155-02",
+    "24338-155-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nilotinib",
+      "name": "DANZITEN"
+    }
+  ],
+  "setid": "d288d165-3505-49bb-9b2e-124490d65f49",
+  "source": "dailymed"
+}
