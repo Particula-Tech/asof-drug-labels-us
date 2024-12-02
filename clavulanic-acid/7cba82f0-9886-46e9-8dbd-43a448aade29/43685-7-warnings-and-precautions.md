@@ -50,8 +50,8 @@ If superinfection occurs, amoxicillin and clavulanate potassium should be discon
 
 ## 5.8 Phenylketonurics
 
-Amoxicillin and clavulanate potassium chewable tablets and amoxicillin and clavulanate potassium for oral suspension contain aspartame which contains phenylalanine.
-Each 200-mg chewable tablet of amoxicillin and clavulanate potassium contains 2 mg phenylalanine; each 400 mg chewable tablet contains 4 mg phenylalanine; each 5 mL of either the 200 mg/5 mL or 400 mg/5 mL oral suspension contains 7 mg phenylalanine.
+Amoxicillin and clavulanate potassium for oral suspension contains aspartame which contains phenylalanine.
+Each 5 mL of either the 200 mg/5 mL or 400 mg/5 mL oral suspension contains 7 mg phenylalanine.
 The other formulations of amoxicillin and clavulanate potassium do not contain phenylalanine.
 
 ## 5.9 Development of Drug-Resistant Bacteria

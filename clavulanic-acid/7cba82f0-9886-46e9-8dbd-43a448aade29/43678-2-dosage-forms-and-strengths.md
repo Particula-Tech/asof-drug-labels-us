@@ -15,9 +15,3 @@ Each 5 mL of reconstituted orange-flavored suspension contains 200 mg amoxicilli
 
 Amoxicillin and Clavulanate Potassium for Oral Suspension, USP, 400 mg/57 mg per 5 mL: as a dry, white powder.
 Each 5 mL of reconstituted orange-flavored suspension contains 400 mg amoxicillin as the trihydrate and 57 mg clavulanic acid as the potassium salt.
-
-Chewable Tablets
-
-Amoxicillin and Clavulanate Potassium Tablets, USP, (Chewable) 200 mg/28.5 mg: Each chewable tablet is round, pink, cherry-banana flavored, embossed GGN2 on one side and plain on the reverse side, and contains 200 mg amoxicillin as the trihydrate and 28.5 mg clavulanic acid as the potassium salt.
-
-Amoxicillin and Clavulanate Potassium Tablets, USP, (Chewable) 400 mg/57 mg: Each chewable tablet is round, pink, cherry-banana flavored, embossed GGN4 on one side and plain on the reverse side, and contains 400 mg amoxicillin as the trihydrate and 57 mg clavulanic acid as the potassium salt.

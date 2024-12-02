@@ -2,15 +2,12 @@
   "application_numbers": [
     "ANDA065063",
     "ANDA065064",
-    "ANDA065065",
     "ANDA065066",
     "ANDA065189"
   ],
   "inn": "clavulanic-acid",
   "labeler": "Sandoz Inc",
   "package_ndcs": [
-    "0781-1619-66",
-    "0781-1643-66",
     "0781-1831-01",
     "0781-1831-13",
     "0781-1831-20",
@@ -28,11 +25,6 @@
   "products": [
     {
       "form": "POWDER, FOR SUSPENSION",
-      "generic": "amoxicillin and clavulanate potassium",
-      "name": "Amoxicillin and Clavulanate Potassium"
-    },
-    {
-      "form": "TABLET, CHEWABLE",
       "generic": "amoxicillin and clavulanate potassium",
       "name": "Amoxicillin and Clavulanate Potassium"
     },

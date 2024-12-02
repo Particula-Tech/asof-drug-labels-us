@@ -48,17 +48,4 @@ Store dry powder at 20° to 25°C (68° to 77°F) [see USP Controlled Room Tempe
 Dispense in original container; Store reconstituted suspension under refrigeration.
 Discard unused suspension after 10 days.
 
-Chewable Tablets
-
-Amoxicillin and Clavulanate Potassium 200 mg/28.5 mg tablets, USP (chewable): Each chewable tablet is round, pink, cherry-banana flavored, embossed GGN2 on one side and plain on the reverse side, and contains 200 mg amoxicillin as the trihydrate and 28.5 mg clavulanic acid as the potassium salt.
-
-NDC 0781-1619-66 Carton of 20 (4 x 5) tablets
-
-Amoxicillin and Clavulanate Potassium 400 mg/57 mg tablets, USP (chewable): Each chewable tablet is round, pink, cherry-banana flavored, embossed GGN4 on one side and plain on the reverse side, and contains 400 mg amoxicillin as the trihydrate and 57 mg clavulanic acid as the potassium salt.
-
-NDC 0781-1643-66 Carton of 20 (4 x 5) tablets
-
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-Dispense in original container.
-
 KEEP OUT OF THE REACH OF CHILDREN.

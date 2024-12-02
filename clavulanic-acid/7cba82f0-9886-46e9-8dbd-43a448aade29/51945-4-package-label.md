@@ -121,39 +121,3 @@ CLAVULANIC ACID, 57 mg,
 as clavulanate potassium
 
 SANDOZ
-
-# Chewable Tablets 200 mg/28.5 mg Carton
-
-NDC 0781-1619-66
-
-Amoxicillin and Clavulanate
-
-Potassium Tablets, USP
-
-(Chewable)
-
-200 mg/28.5 mg*
-
-Rx only
-
-20 Chewable Tablets
-
-SANDOZ
-
-# Chewable Tablets 400 mg/57 mg Carton
-
-NDC 0781-1643-66
-
-Amoxicillin and Clavulanate
-
-Potassium Tablets, USP
-
-(Chewable)
-
-400 mg/57 mg*
-
-Rx only
-
-20 Chewable Tablets
-
-SANDOZ
