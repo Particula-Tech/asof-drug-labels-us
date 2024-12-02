@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214835"
+  ],
+  "inn": "risperidone",
+  "labeler": "Laboratorios Farmaceuticos Rovi, S.A.",
+  "package_ndcs": [
+    "82090-001-01",
+    "82090-003-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SUSPENSION, EXTENDED RELEASE",
+      "generic": "risperidone",
+      "name": "RISVAN"
+    }
+  ],
+  "setid": "15202704-9cc1-1c34-e063-6394a90a2bf8",
+  "source": "dailymed"
+}
