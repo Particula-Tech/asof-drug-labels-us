@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019614"
+  ],
+  "inn": "verapamil",
+  "labeler": "Wilshire Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52536-880-01",
+    "52536-882-01",
+    "52536-884-01",
+    "52536-886-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "verapamil hydrochloride",
+      "name": "Verapamil Hydrochloride"
+    }
+  ],
+  "setid": "f9399858-fd7a-4b73-8759-3e5bf3af2666",
+  "source": "dailymed"
+}
