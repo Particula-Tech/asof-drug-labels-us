@@ -85,8 +85,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Product of Canada, Active Ingredient made in Ireland
+
 Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 03/2019
+Rev 09/2024
 
 Mallinckrodt™

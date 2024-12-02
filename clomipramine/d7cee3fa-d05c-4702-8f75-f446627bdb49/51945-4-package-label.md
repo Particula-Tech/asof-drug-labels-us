@@ -17,9 +17,9 @@ RX only
 
 Mallinckrodt™
 
-2000010729
+2000017737
 
-Rev 07/2018
+Rev 09/2024
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 50 mg Bottle
 
@@ -40,9 +40,9 @@ RX only
 
 Mallinckrodt™
 
-2000010730
+2000017738
 
-Rev 07/2018
+Rev 09/2024
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 75 mg Bottle
 
@@ -50,19 +50,27 @@ NDC 0406-8808-01
 
 100 Capsules
 
-ClomiPRAMINE Hydrochloride Capsules USP
+ClomiPRAMINE
+
+Hydrochloride
+
+Capsules USP
 
 75 mg
 
-Each capsule contains: Clomipramine Hydrochloride USP...
+Each capsule contains:
+
+Clomipramine Hydrochloride USP...
 75 mg
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE
+PHARMACIST: PLEASE DISPENSE
+
+WITH ATTACHED MEDICATION GUIDE
 
 RX only
 
 Mallinckrodt™
 
-2000010731
+2000017739
 
-Rev 07/2018
+Rev 09/2024
