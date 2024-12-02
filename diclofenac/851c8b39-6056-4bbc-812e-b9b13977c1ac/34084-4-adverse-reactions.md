@@ -46,4 +46,10 @@ Common Adverse Reactions (by System Organ Class) in ≥ 1% of Patients Treated w
 The following adverse reactions have been identified during post-approval use of diclofenac topical system.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+LICART
+
 Cases suggesting dermal allergic reactions and photoallergic reactions have been reported through foreign post-marketing surveillance.
+
+Diclofenac
+
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), fixed drug eruption (FDE) [see Warnings and Precautions (5.9)]

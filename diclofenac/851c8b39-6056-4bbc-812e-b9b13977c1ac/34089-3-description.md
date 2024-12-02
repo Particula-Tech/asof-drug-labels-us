@@ -8,4 +8,4 @@ The chemical name of diclofenac epolamine is 2-[(2,6-dichlorophenyl) amino] benz
 
 Each LICART contains 182 mg of diclofenac epolamine in an aqueous base.
 Each gram of adhesive contains 13 mg of diclofenac epolamine (equivalent to 9.4 mg diclofenac).
-Each LICART also contains the following inactive ingredients: butylene glycol, carboxymethylcellulose sodium, dihydroxyaluminum aminoacetate, edetate disodium, fragrance (Dalin PH), gelatin, heparin sodium, kaolin, methylparaben, polysorbate 80, povidone, propylene glycol, propylparaben, sodium polyacrylate, sorbitol solution, tartaric acid, titanium dioxide, and purified water.
+Each LICART also contains the following inactive ingredients: butylene glycol, carboxymethylcellulose sodium, dihydroxyaluminum aminoacetate, edetate disodium, gelatin, heparin sodium, kaolin, methylparaben, polysorbate 80, povidone, propylene glycol, propylparaben, sodium polyacrylate, sorbitol solution, tartaric acid, titanium dioxide, and purified water.
