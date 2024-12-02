@@ -28,7 +28,7 @@ The primary outcome measure for this study was the total amount of rescue medica
 Patients randomized to placebo received significantly more midazolam than patients randomized to PRECEDEX (see Table 13).
 
 A second prospective primary analysis assessed the sedative effects of PRECEDEX by comparing the percentage of adult patients who achieved a Ramsay sedation score of ≥3 during intubation without the use of additional rescue medication.
-A significantly greater percentage of adult patients in the PRECEDEX group maintained a Ramsay sedation score of ≥3 without receiving any midazolam rescue compared to the placebo group (see Table 13Table 13).
+A significantly greater percentage of adult patients in the PRECEDEX group maintained a Ramsay sedation score of ≥3 without receiving any midazolam rescue compared to the placebo group (see Table 13).
 
 Table 13: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 

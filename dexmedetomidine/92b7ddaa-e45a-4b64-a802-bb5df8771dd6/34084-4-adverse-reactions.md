@@ -88,16 +88,16 @@ Table 5: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 
 | Adverse Event | Dexmedetomidine(N = 244) | Midazolam(N = 122) |
 | --- | --- | --- |
-| Hypotension | 56% | 56% |
+| HypotensionHypotension was defined in absolute terms as Systolic blood pressure of <80 mmHg or Diastolic blood pressure of <50 mmHg or in relative terms as ≤30% lower than pre-study drug infusion value. | 56% | 56% |
 | Hypotension Requiring Intervention | 28% | 27% |
-| Bradycardia | 42% | 19% |
+| BradycardiaBradycardia was defined in absolute terms as <40 bpm or in relative terms as ≤30% lower than pre-study drug infusion value. | 42% | 19% |
 | Bradycardia Requiring Intervention | 5% | 1% |
-| Systolic Hypertension | 28% | 42% |
-| Tachycardia | 25% | 44% |
+| Systolic HypertensionHypertension was defined in absolute terms as Systolic blood pressure >180 mmHg or Diastolic blood pressure of >100 mmHg or in relative terms as ≥30% higher than pre-study drug infusion value. | 28% | 42% |
+| TachycardiaTachycardia was defined in absolute terms as >120 bpm or in relative terms as ≥30% greater than pre-study drug infusion value. | 25% | 44% |
 | Tachycardia Requiring Intervention | 10% | 10% |
 | Diastolic Hypertension | 12% | 15% |
 | Hypertension | 11% | 15% |
-| Hypertension Requiring Intervention | 19% | 30% |
+| Hypertension Requiring InterventionIncludes any type of hypertension | 19% | 30% |
 | Hypokalemia | 9% | 13% |
 | Pyrexia | 7% | 2% |
 | Agitation | 7% | 6% |
@@ -177,7 +177,7 @@ Table 8: Treatment-Emergent Adverse Events with Incidence >5%—Pediatric Patien
 | BradycardiaBradycardia was defined as a decrease in HR of 30% from baseline or absolute HR ≤1st centile of the age adjusted normal range. | 24 (57) | 24 (57) | 27 (71) | 75 (62) |
 | HypertensionFor pediatric patients 1 month to less than 1 year old, hypertension was defined as supine systolic blood pressure ≥104 mm/Hg and/or diastolic blood pressure ≥56 mmHg measurements. For pediatric patients 1 to less than 17 years old: hypertension was defined as supine systolic blood pressure and/or diastolic blood pressure measurements ≥95th percentile for gender, age, and height. | 11 (26) | 17 (41) | 18 (47) | 46 (38) |
 | HypotensionHypotension was defined as a decrease in systolic blood pressure ≥30% from baseline. | 13 (31) | 11 (26) | 6 (16) | 30 (25) |
-| Hypoxia | 6 (14) | 3 (7) | 1 (3) | 10 (8) |
+| HypoxiaHypoxia was defined as oxygen saturation <90% for any duration. | 6 (14) | 3 (7) | 1 (3) | 10 (8) |
 | Diastolic Hypertension | 3 (7) | 3 (7) | 4 (11) | 10 (8) |
 | Systolic Hypertension | 1 (2) | 5 (12) | 3 (8) | 9 (7) |
 | Tachycardia | 3 (7) | 1 (2) | 1 (3) | 5 (4) |
