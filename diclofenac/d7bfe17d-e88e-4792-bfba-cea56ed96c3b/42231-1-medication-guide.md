@@ -128,4 +128,4 @@ For more information call 1-888-838-2872
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: April, 2023
+Revised: 07-2023

@@ -4,7 +4,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
 - GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
 - Heart Failure and Edema [see Warnings and Precautions (5.5)]
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
@@ -61,3 +61,9 @@ Pediatric Clinical Trials Experience
 In one open-label trial, 104 male and female pediatric patients 6 years and older presenting with minor strains, sprains, and contusions received DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% twice a day for as many as 16 days.
 The most commonly reported adverse events (incidence ≥ 2%) were headache (9%), application site pruritus (7%), nausea (3%), and dyspepsia (3%).
 No adverse events led to discontinuation of treatment.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of diclofenac.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).
