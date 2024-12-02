@@ -14,7 +14,7 @@ Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 CADUET exposure may be increased by drug interactions due to inhibition of cytochrome P450 enzyme 3A4 (CYP3A4) and/or transporters (e.g., breast cancer resistant protein [BCRP], organic anion-transporting polypeptide [OATP1B1/OATP1B3] and P-glycoprotein [P-gp]), resulting in an increased risk of myopathy and rhabdomyolysis.
 Concomitant use of cyclosporine, gemfibrozil, tipranavir plus ritonavir or glecaprevir plus pibrentasvir with CADUET is not recommended.
 CADUET dosage modifications are recommended for patients taking certain anti-viral, azole antifungals, or macrolide antibiotic medications [see Dosage and Administration (2)].
-Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (> 1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir.
+Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (> 1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir [see Adverse Reactions (6.1)].
 Consider if the benefit of use of these products outweighs the increased risk of myopathy and rhabdomyolysis [see Drug Interactions (7.3)].
 
 Concomitant intake of large quantities, more than 1.2 liters daily, of grapefruit juice is not recommended in patients taking CADUET [see Drug Interactions (7.3)].
@@ -58,8 +58,8 @@ Because of the gradual onset of action, acute hypotension is unlikely.
 
 ## 5.6 Increases in HbA1c and Fasting Serum Glucose Levels
 
-Symptomatic hypotension is possible with use of amlodipine, particularly in patients with severe aortic stenosis.
-Because of the gradual onset of action, acute hypotension is unlikely.
+Increases in HbA1c and fasting serum glucose levels have been reported with statins, including atorvastatin.
+Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
 
 ## 5.7 Increased Risk of Hemorrhagic Stroke in Patients on Atorvastatin 80 mg with Recent Hemorrhagic Stroke
 

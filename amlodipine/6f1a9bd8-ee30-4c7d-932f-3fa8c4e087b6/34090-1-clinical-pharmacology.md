@@ -121,7 +121,7 @@ Geriatric
 
 Amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose of amlodipine may be required.
 
-Atorvastatin: Plasma concentrations of atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥65 years) than in young adults.
+Atorvastatin: Plasma concentrations of atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥ 65 years) than in young adults.
 
 Pediatric
 
@@ -132,14 +132,14 @@ Atorvastatin: Apparent oral clearance of atorvastatin in pediatric subjects appe
 
 Gender
 
-Atorvastatin: Plasma concentrations of atorvastatin in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin between men and women.
+Atorvastatin: Plasma concentrations of atorvastatin in females differ from those in males (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin between males and females.
 
 Renal Impairment
 
 Amlodipine: The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
 Patients with renal failure may therefore receive the usual initial amlodipine dose.
 
-Atorvastatin: Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin.
+Atorvastatin: Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin [see Use inSpecific Populations (8.6)].
 
 While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to clear atorvastatin or amlodipine since both drugs are extensively bound to plasma proteins.
 
@@ -176,15 +176,15 @@ Table 6 shows effects of other drugs on the pharmacokinetics of atorvastatin.
 Table 6.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-|  | Dose (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs atorvastatin alone). | Ratio of Cmax |
+|  | Dosage (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs atorvastatin alone). | Ratio of Cmax |
 | --- | --- | --- | --- |
-| Co-administered drug and dosing regimen | Atorvastatin |  |  |
+| Co-administered drug and dosage regimen | Atorvastatin |  |  |
 | See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDOnce daily for 28 days | 8.69 | 10.66 |
-| Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 10 mg SDSingle dose | 9.36 | 8.58 |
+| Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 10 mg SDSingle dosage | 9.36 | 8.58 |
 | Glecaprevir 400 mg QD/pibrentasvir 120 mg QD, 7 days | 10 mg QD for 7 days | 8.28 | 22.00 |
 | Telaprevir 750 mg q8hEvery 8 hours, 10 days | 20 mg SD | 7.88 | 10.60 |
 | , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ritonavir 400 mg BID, 15 days | 40 mg QD for 4 days | 3.93 | 4.31 |
-| Elbasvir 50 mg QD/grazoprevir 200 mg QD, 13 days | 10 mg SD | 1.95 | 4.34 |
+| Elbasvir 50 mg QD/grazoprevir 200 mg QD, 13 days | 10 mg SD | 1.94 | 4.34 |
 | Simeprevir 150 mg QD, 10 days | 40 mg SD | 2.12 | 1.70 |
 | Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | 4.54 | 5.38 |
 | Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days | 10 mg QD for 4 days | 3.45 | 2.25 |
@@ -220,7 +220,7 @@ Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin
 Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7.2)].
 
 Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
-This finding was not observed in CYP3A5 non-expressers (N= 6).
+This finding was not observed in CYP3A5 non-expressers (N=6).
 However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
 Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7.2)].
 
@@ -231,10 +231,10 @@ Table 7 shows the effects of atorvastatin on the pharmacokinetics of other drugs
 Table 7.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-|  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
+|  | Drug/Dosage (mg) | Ratio of AUC | Ratio of Cmax |
 | --- | --- | --- | --- |
-| Atorvastatin | Co-administered drug and dosing regimen |  |  |
-| 80 mg QDOnce daily for 15 days | Antipyrine, 600 mg SDSingle dose | 1.03 | 0.89 |
+| Atorvastatin | Co-administered drug and dosage regimen |  |  |
+| 80 mg QDOnce daily for 15 days | Antipyrine, 600 mg SDSingle dosage | 1.03 | 0.89 |
 | 80 mg QD for 10 days | See Section 7 for clinical significance. Digoxin 0.25 mg QD, 20 days | 1.15 | 1.20 |
 | 40 mg QD for 22 days | Oral contraceptive QD, 2 months |  |  |
 | – norethindrone 1 mg – ethinyl estradiol 35 µg | 1.28 1.19 | 1.23 1.30 |  |

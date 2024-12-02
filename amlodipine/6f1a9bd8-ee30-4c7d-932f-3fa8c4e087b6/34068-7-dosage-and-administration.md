@@ -56,7 +56,7 @@ The dosage range is 10 mg to 80 mg once daily.
 
 Dosage Modifications Due to Drug Interactions
 
-Concomitant use of atorvastatin with the following drugs requires dosage modification of atorvastatin [see Warnings and_5.1_Myopathy_andPrecautions (5.1) and Drug Interactions (7.1)].
+Concomitant use of atorvastatin with the following drugs requires dosage modification of atorvastatin [see Warnings andPrecautions (5.1) and Drug Interactions (7.1)].
 
 Anti-Viral Medications
 

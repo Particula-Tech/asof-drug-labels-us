@@ -54,7 +54,7 @@ Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with
 | Intervention: | In patients taking clarithromycin or itraconazole, do not exceed atorvastatin 20 mg [see Dosage and Administration (2)]. Consider the risk/benefit of concomitant use of other azole antifungals or macrolide antibiotics with atorvastatin. Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
 | Examples: | Erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole. |
 | Niacin |  |
-| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin (≥1 gram/day niacin) with atorvastatin. |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin (> 1 gram/day niacin) with atorvastatin. |
 | Intervention: | Consider if the benefit of using lipid modifying dosages of niacin concomitantly with atorvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
 | Fibrates (other than Gemfibrozil) |  |
 | Clinical Impact: | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with atorvastatin. |

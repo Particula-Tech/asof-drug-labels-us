@@ -4,8 +4,8 @@ CADUET® (CAD-oo-et) (amlodipine and atorvastatin) Tablets
 
 Read the patient information that comes with CADUET before you start taking it, and each time you get a refill.
 There may be new information.
-This information does not replace talking with your doctor about your condition or treatment.
-If you have any questions about CADUET, ask your doctor or pharmacist.
+This information does not replace talking with your healthcare provider about your condition or treatment.
+If you have any questions about CADUET, ask your healthcare provider or pharmacist.
 
 What is CADUET?
 
@@ -49,9 +49,9 @@ Do not use CADUET if you:
 
 See the end of this leaflet for a complete list of ingredients.
 
-What should I tell my doctor before taking CADUET?
+What should I tell my healthcare provider before taking CADUET?
 
-Tell your doctor about all of your health conditions, including, if you:
+Tell your healthcare provider about all of your health conditions, including, if you:
 
 - •have unexplained muscle aches or weakness
 - •drink more than 2 glasses of alcohol daily
@@ -62,31 +62,26 @@ Tell your doctor about all of your health conditions, including, if you:
 - •had a stroke
 - •are pregnant or plan to become pregnant.
   CADUET may harm your unborn baby.
-  If you become pregnant, stop taking CADUET and call your doctor right away.
+  If you become pregnant, stop taking CADUET and call your healthcare provider right away.
 - •are breastfeeding or plan to breastfeed.
-  You and your doctor should decide if you will take CADUET or breastfeed.
+  You and your healthcare provider should decide if you will take CADUET or breastfeed.
   You should not do both.
-  Talk to your doctor about the best way to feed your baby if you take CADUET.
+  Talk to your healthcare provider about the best way to feed your baby if you take CADUET.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 CADUET and certain other medicines can increase the risk of muscle problems or other side effects.
-Especially tell your doctor if you take medicines for:
+Especially tell your healthcare provider if you take medicines for:
 
-your immune system
-
+- •your immune system (cyclosporine)
 - •cholesterol (gemfibrozil)
 - •infections (erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and
-
-voriconazole)
-
+- •voriconazole)
 - •birth control pills
 - •heart failure (digoxin)
 - •gout (colchicine)
 - •niacin
-
-• fibrates
-
-• viruses that treat HIV, AIDS, or hepatitis C (anti-virals)
+- •fibrates
+- •treating HIV, AIDS, or hepatitis C (anti-virals)
 
 | otipranavir plus ritonavir | oglecaprevir plus pibrentasvir |
 | --- | --- |
@@ -99,27 +94,27 @@ voriconazole)
 You can use nitroglycerin and CADUET together.
 If you take nitroglycerin for chest pain (angina), do not stop taking it while taking CADUET.
 
-Ask your doctor or pharmacist for a list of medicines if you are not sure.
+Ask your healthcare provider or pharmacist for a list of medicines if you are not sure.
 Know all the medicines you take.
-Keep a list of them with you to show your doctor and pharmacist when you get a new medicine.
+Keep a list of them with you to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take CADUET?
 
-- •Take CADUET exactly as your doctor tells you to take it.
-- •Do not change your dose or stop CADUET without talking to your doctor.
-- •Your doctor may do blood tests to check your cholesterol levels during your treatment with CADUET.
+- •Take CADUET exactly as your healthcare provider tells you to take it.
+- •Do not change your dose or stop CADUET without talking to your healthcare provider.
+- •Your healthcare provider may do blood tests to check your cholesterol levels during your treatment with CADUET.
   Your dose of CADUET may be changed based on these blood test results.
 - •Take CADUET each day at any time of day.
   CADUET can be taken with or without food.
 - •Do not break the tablets before taking them.
-  Talk to your doctor if you have a problem swallowing pills.
-- •Your doctor may start you on a cholesterol-lowering diet before giving you CADUET.
+  Talk to your healthcare provider if you have a problem swallowing pills.
+- •Your healthcare provider may start you on a cholesterol-lowering diet before giving you CADUET.
   Stay on this low-fat diet when you take CADUET.
 - •If you miss a dose, take it as soon as you remember.
   Do not take CADUET if it has been more than 12 hours since you missed your last dose.
   Wait and take the next dose at your regular time.
   Do not take 2 doses of CADUET at the same time.
-  If you take too much CADUET or overdose, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest emergency room right away.
+  If you take too much CADUET or overdose, call your healthcare provider or Poison Control Center at 1-800-222-1222 or go to the nearest emergency room right away.
 
 What should I avoid while taking CADUET?
 
@@ -131,10 +126,10 @@ CADUET can cause serious side effects including:
 
 - •Muscle pain, tenderness and weakness (myopathy).
   Muscle problems, including muscle breakdown, can be serious in some people and, rarely, cause kidney damage that can lead to death.
-- Tell your doctor right away if you have:
+- Tell your healthcare provider right away if you have:
 - ounexplained muscle pain, tenderness, or weakness, especially if you also have a fever or feel more tired than usual while you take CADUET.
-- omuscle problems that do not go away after your doctor has told you to stop taking CADUET.
-  Your doctor may do further tests to diagnose the cause of your muscle problems.
+- omuscle problems that do not go away after your healthcare provider has told you to stop taking CADUET.
+  Your healthcare provider may do further tests to diagnose the cause of your muscle problems.
 - Your chances of getting muscle problems are higher if you:
 - oare taking certain other medicines while you take CADUET
 - odrink large amounts of grapefruit juice
@@ -143,8 +138,8 @@ CADUET can cause serious side effects including:
 - ohave kidney problems
 - oare taking higher doses of CADUET
 - •Liver problems.
-  Your doctor should do blood tests to check your liver before you start taking CADUET and if you have symptoms of liver problems while you take CADUET.
-  Call your doctor right away if you have the following symptoms of liver problems:
+  Your healthcare provider should do blood tests to check your liver before you start taking CADUET and if you have symptoms of liver problems while you take CADUET.
+  Call your healthcare provider right away if you have the following symptoms of liver problems:
 - ofeel tired or weak
 - onausea or vomiting
 - oloss of appetite
@@ -158,29 +153,29 @@ CADUET can cause serious side effects including:
 
 Exercise regularly and make healthy food choices to maintain healthy body weight.
 
-1. Call your doctor right away if:
+1. Call your healthcare provider right away if:
 2. •allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away
 3. •you have allergic skin reactions
 4. •Chest pain that does not go away or gets worse.
    Sometimes when you start CADUET or increase your dose, chest pain can get worse or a heart attack can happen.
-   If this happens, call your doctor or go to the emergency room right away.
+   If this happens, call your healthcare provider or go to the emergency room right away.
 
 Common side effects of CADUET include:
 
-| • nasal congestion, sore throat, runny nose | • muscle and joint pain |
+| •nasal congestion, sore throat, runny nose | •muscle and joint pain |
 | --- | --- |
-| • diarrhea | • pain in extremity |
-| • urinary tract infection | • upset stomach |
-| • nausea | • musculoskeletal pain |
-| • muscle spasms | • trouble sleeping |
-| • throat pain | • swelling of your legs or ankles |
+| •diarrhea | •pain in extremity |
+| •urinary tract infection | •upset stomach |
+| •nausea | •musculoskeletal pain |
+| •muscle spasms | •trouble sleeping |
+| •throat pain | •swelling of your legs or ankles |
 
 Additional side effects have been reported: tiredness, tendon problems, memory loss, and confusion.
 
-Talk to your doctor or pharmacist about side effects that bother you or do not go away.
+Talk to your healthcare provider or pharmacist about side effects that bother you or do not go away.
 
 There are other side effects of CADUET.
-Ask your doctor or pharmacist for a complete list.
+Ask your healthcare provider or pharmacist for a complete list.
 
 How do I store CADUET?
 
@@ -195,8 +190,8 @@ Do not use CADUET for a condition for which it was not prescribed.
 Do not give CADUET to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-If you want more information about CADUET, talk with your doctor.
-You can ask your pharmacist or doctor for information about CADUET that is written for health professionals.
+If you want more information about CADUET, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about CADUET that is written for health professionals.
 
 What is high blood pressure (hypertension)?
 
@@ -236,6 +231,6 @@ Active ingredients: amlodipine besylate, atorvastatin calcium
 
 Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline cellulose, pregelatinized starch, polysorbate 80, hydroxypropyl cellulose, purified water, colloidal silicon dioxide (anhydrous), magnesium stearate
 
-Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000,talc, and FD&C blue #2)
+Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
 
-LAB-0347-14.0 Revised May 2024
+LAB-0347-15.0 Revised November 2024

@@ -53,7 +53,8 @@ Animal Data
 
 Atorvastatin
 
-When administered to pregnant rats and rabbits during organogenesis at oral doses up to 300 mg/kg/day and 100 mg/kg/day, respectively, atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day.
+Was administered to pregnant rats and rabbits during organogenesis at oral doses up to 300 mg/kg/day and 100 mg/kg/day, respectively.
+Atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day.
 These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure at the MRHD based on surface area (mg/m2).
 In rats, the maternally toxic dose of 300 mg/kg resulted in increased post-implantation loss and decreased fetal body weight.
 At the maternally toxic doses of 50 and 100 mg/kg/day in rabbits, there was increased post-implantation loss, and at 100 mg/kg/day fetal body weights were decreased.
@@ -108,8 +109,8 @@ The effect of amlodipine on blood pressure in patients less than 6 years of age 
 Atorvastatin
 
 The safety and effectiveness of atorvastatin as an adjunct to diet to reduce LDL-C have been established in pediatric patients 10 years of age and older with HeFH.
-Use of atorvastatin for this indication based on a double-blind, placebo-controlled clinical trial in 187 pediatric patients 10 years of age and older with HeFH.
-In this limited controlled trial, there was no significant effect on growth or sexual maturation in the boys or girls, or on menstrual cycle length in girls.
+Use of atorvastatin for this indication is based on a double-blind, placebo-controlled clinical trial in 187 pediatric patients 10 years of age and older with HeFH.
+In this limited controlled trial, there was no significant effect on growth or sexual maturation in the males or females, or on menstrual cycle length in females.
 
 The safety and effectiveness of atorvastatin as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established in pediatric patients 10 years of age and older with HoFH.
 Use of CADUET for this indication is based on a trial without a concurrent control group in 8 pediatric patients 10 years of age and older with HoFH [see Clinical Studies (14)].
