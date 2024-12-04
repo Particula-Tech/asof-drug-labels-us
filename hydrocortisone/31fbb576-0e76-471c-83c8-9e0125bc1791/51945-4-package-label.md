@@ -2,14 +2,13 @@
 
 NDC 0168-0020-16
 
-FOUGERA®
+Hydrocortisone Ointment USP, 1%
 
 Rx only
 
-HYDROCORTISONE OINTMENT USP, 1%
+For External Use Only Not For Ophthalmic Use
 
-FOR EXTERNAL USE ONLY NOT FOR OPHTHALMIC USE
+Net Wt.
+453.6 g (1 lb)
 
-NET WT 453.6 g (1 Lb)
-
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
+FOUGERA®
