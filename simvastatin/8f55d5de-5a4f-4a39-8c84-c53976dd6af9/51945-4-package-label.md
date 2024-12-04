@@ -39,17 +39,3 @@ Each tablet contains 40 mg of simvastatin.
 Rx only
 
 30 Tablets
-
-PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
-
-NDC 78206-179-01
-
-Zocor® (Simvastatin) Tablets
-
-80 mg
-
-Each tablet contains 80 mg of simvastatin.
-
-Rx only
-
-30 Tablets
