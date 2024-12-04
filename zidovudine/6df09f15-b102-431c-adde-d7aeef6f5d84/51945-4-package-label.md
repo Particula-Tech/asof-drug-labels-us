@@ -107,4 +107,3 @@ Trademark is owned by or licensed to the ViiV Healthcare group of companies.
 
 1. 62000000089608 Rev.
    8/23
-2. 
