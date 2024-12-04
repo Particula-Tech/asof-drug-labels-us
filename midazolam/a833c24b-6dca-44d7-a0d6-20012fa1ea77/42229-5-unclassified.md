@@ -52,6 +52,6 @@ Distributed by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000720/02
+C50000720/03
 
-Revised November 2022
+Revised June 2023
