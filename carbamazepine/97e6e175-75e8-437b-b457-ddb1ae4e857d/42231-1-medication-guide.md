@@ -1,6 +1,8 @@
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 MEDICATION GUIDE
 
-Carbamazepine (kar ba MAZ e peen) Tablets, USP, 100 mg, 200 mg, 300 mg, 400 mg and Carbamazepine (kar ba MAZ e peen) Tablets, USP (Chewable), 100 mg
+Carbamazepine (kar ba MAZ e peen) Tablets, USP, 200 mg and Carbamazepine (kar ba MAZ e peen) Tablets, USP (Chewable), 100 mg
 
 Rx Only
 
@@ -240,10 +242,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8094266 Revised: October 2023
+8098269 Revised: November 2024

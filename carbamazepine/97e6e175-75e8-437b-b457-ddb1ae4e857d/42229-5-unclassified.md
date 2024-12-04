@@ -4,7 +4,7 @@ Prescribing Information
 
 Before prescribing carbamazepine, the physician should be thoroughly familiar with the details of this prescribing information, particularly regarding use with other drugs, especially those which accentuate toxicity potential.
 
-DOSAGE AND ADMINISTRATION (see table below)
+DOSAGE AND ADMINISTRATION (SEE TABLE BELOW)
 
 Monitoring of blood levels has increased the efficacy and safety of anticonvulsants (see PRECAUTIONS, Laboratory Tests).
 Dosage should be adjusted to the needs of the individual patient.
@@ -14,7 +14,7 @@ Medication should be taken with meals.
 
 Conversion of patients from oral carbamazepine tablets to carbamazepine suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., twice a day. tablets to three times a day suspension).
 
-Epilepsy (see INDICATIONS AND USAGE)
+Epilepsy (SEE INDICATIONS AND USAGE)
 
 Adults and children over 12 years of age-Initial: 200 mg twice a day.
 Increase at weekly intervals by adding up to 200 mg/day using a three times a day or four times a day regimen until the optimal response is obtained.
