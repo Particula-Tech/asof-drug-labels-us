@@ -8,7 +8,7 @@ Dextromethorphan hydrobromide has the empirical formula C18H25NO•HBr•H2O wit
 The structural formula is:
 
 Quinidine sulfate is a specific inhibitor of CYP2D6-dependent oxidative metabolism used in NUEDEXTA to increase the systemic bioavailability of dextromethorphan.
-The chemical name is quinidine sulfate: cinchonan-9-o1, 6’-methoxy-, (9S) sulfate (2:1), (salt), dihydrate.
+The chemical name is quinidine sulfate: cinchonan-9-o1, 6'-methoxy-, (9S) sulfate (2:1), (salt), dihydrate.
 Quinidine sulfate dihydrate has the empirical formula of (C20H24N2O2)2•H2SO4•2H2O with a molecular weight of 782.96.
 The structural formula is:
 

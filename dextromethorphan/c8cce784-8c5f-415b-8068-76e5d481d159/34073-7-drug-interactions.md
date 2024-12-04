@@ -14,7 +14,7 @@ Recommend ECG in patients taking drugs with NUEDEXTA that prolong the QT interva
 
 ## 7.4 SSRIs and Tricyclic Antidepressants
 
-Use of NUEDEXTA with SSRIs or tricyclic antidepressants increases the risk of ‘serotonin syndrome’ [see Warnings and Precautions (5.6)].
+Use of NUEDEXTA with SSRIs or tricyclic antidepressants increases the risk of 'serotonin syndrome' [see Warnings and Precautions (5.6)].
 
 ## 7.5 CYP2D6 Substrate
 

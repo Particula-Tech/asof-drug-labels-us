@@ -32,7 +32,7 @@ Risk Summary
 Quinidine is excreted in human milk.
 It is not known whether dextromethorphan is excreted in human milk.
 There are no data on the effects of quinidine or dextromethorphan on the breastfed infant or the effects on milk production.
-The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for NUEDEXTA and any potential adverse effects on the breastfed infant from NUEDEXTA or from the underlying material condition.
+The development and health benefits of breastfeeding should be considered along with the mother's clinical need for NUEDEXTA and any potential adverse effects on the breastfed infant from NUEDEXTA or from the underlying material condition.
 
 ## 8.4 Pediatric Use
 

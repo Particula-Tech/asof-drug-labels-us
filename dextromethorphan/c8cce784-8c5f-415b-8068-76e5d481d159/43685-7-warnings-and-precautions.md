@@ -48,7 +48,7 @@ In a controlled trial of NUEDEXTA, 10% of patients on NUEDEXTA and 5% on placebo
 
 ## 5.6 Serotonin Syndrome
 
-When used with SSRIs (such as fluoxetine) or tricyclic antidepressants (such as clomipramine and imipramine), NUEDEXTA may cause “serotonin syndrome”, with changes including altered mental status, hypertension, restlessness, myoclonus, hyperthermia, hyperreflexia, diaphoresis, shivering, and tremor [see Drug Interactions (7.4), Overdosage (10)].
+When used with SSRIs (such as fluoxetine) or tricyclic antidepressants (such as clomipramine and imipramine), NUEDEXTA may cause "serotonin syndrome", with changes including altered mental status, hypertension, restlessness, myoclonus, hyperthermia, hyperreflexia, diaphoresis, shivering, and tremor [see Drug Interactions (7.4), Overdosage (10)].
 
 ## 5.7 Anticholinergic Effects of Quinidine
 

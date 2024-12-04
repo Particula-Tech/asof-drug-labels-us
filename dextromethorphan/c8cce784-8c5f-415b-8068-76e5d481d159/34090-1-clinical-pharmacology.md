@@ -21,7 +21,7 @@ The supratherapeutic doses are adequate to represent exposure increases due to d
 ## 12.3 Pharmacokinetics
 
 NUEDEXTA contains dextromethorphan and quinidine, both of which are metabolized primarily by liver enzymes.
-Quinidine’s primary pharmacological action in NUEDEXTA is to competitively inhibit the metabolism of dextromethorphan catalyzed by CYP2D6 in order to increase and prolong plasma concentrations of dextromethorphan [see Warnings and Precautions (5.4, 5.8), and Clinical Pharmacology (12.5)].
+Quinidine's primary pharmacological action in NUEDEXTA is to competitively inhibit the metabolism of dextromethorphan catalyzed by CYP2D6 in order to increase and prolong plasma concentrations of dextromethorphan [see Warnings and Precautions (5.4, 5.8), and Clinical Pharmacology (12.5)].
 Studies were conducted with the individual components of NUEDEXTA in healthy subjects to determine single-dose and multiple-dose kinetics of orally administered dextromethorphan in combination with quinidine.
 The increase in dextromethorphan levels appeared approximately dose proportional when the dextromethorphan dose was increased from 20 mg to 30 mg in the presence of 10 mg of quinidine.
 
