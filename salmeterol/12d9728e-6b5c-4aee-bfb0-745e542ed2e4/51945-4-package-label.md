@@ -26,6 +26,5 @@ Made in Singapore
 
 ©2022 GSK group of companies or its licensor.
 
-1. 62000000084267 Rev.
-   12/22
-2. 
+- 62000000084267 Rev.
+  12/22
