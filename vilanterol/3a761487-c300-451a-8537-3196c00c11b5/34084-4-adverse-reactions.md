@@ -61,7 +61,7 @@ In addition to the events in COPD trials shown in Table 2, adverse reactions occ
 ## 6.2 Clinical Trials Experience in Asthma
 
 The safety data described below are based on trials that evaluated fluticasone furoate/vilanterol ELLIPTA 100/25 mcg in 1,757 patients and fluticasone furoate/vilanterol ELLIPTA 200/25 mcg in 745 patients.
-While patients aged 12 to 17 years were included in these trials, fluticasone furoate/vilanterol ELLIPTA 200/25 mcg is not approved for use in this age group [see Dosage and Administration (2.3)].
+While patients aged 12 to 17 years were included in these trials, fluticasone furoate/vilanterol ELLIPTA 200/25 mcg is not approved for use in this age group [see Dosage and Administration (2.2)].
 
 One additional 24-week trial enrolled 902 pediatric patients with asthma.
 In this trial, fluticasone furoate/vilanterol ELLIPTA 100/25 mcg was studied in 117 patients aged 12 to 17 years and fluticasone furoate/vilanterol ELLIPTA 50/25 mcg was studied in 337 patients aged 5 to 11 years.

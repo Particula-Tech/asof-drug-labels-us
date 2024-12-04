@@ -20,7 +20,7 @@ The trough FEV1 comparison of the fluticasone furoate/vilanterol combination wit
 Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg demonstrated a larger increase in the weighted mean FEV1 (0 to 4 hours) relative to placebo and fluticasone furoate 100 mcg at Day 168 (Table 6).
 
 Table 6.
-Least Squares Mean Change from Baseline in Weighted Mean FEV1 (0-4 h) and Trough FEV1 at 6 Months
+Least Squares (LS) Mean Change from Baseline in Weighted Mean FEV1 (0-4 h) and Trough FEV1 at 6 Months
 
 | Treatment | N | Weighted Mean FEV1 (0-4 h)a (mL) |  |  | Trough FEV1b (mL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -100,7 +100,7 @@ Of the 828 patients in Trial 7 (NCT01706328), 72% were male and 98% were White; 
 At screening in the treatment group using fluticasone furoate/vilanterol ELLIPTA 100/25 mcg, the mean postbronchodilator percent predicted FEV1 was 48% (range: 18% to 70%), the mean (SD) FEV1/FVC ratio was 0.52 (0.10), and the mean percent reversibility was 12% (range: -26% to 84%).
 At screening in the treatment group using fluticasone propionate/salmeterol 250/50 mcg, the mean postbronchodilator percent predicted FEV1 was 48% (range: 16% to 70%), the mean (SD) FEV1/FVC ratio was 0.51 (0.10), and the mean percent reversibility was 12% (range: -15% to 67%).
 
-In Trial 5, the mean (SE) change from baseline in weighted mean FEV1 (0 to 24 hours) with fluticasone furoate/vilanterol ELLIPTA 100/25 mcg was 174 (15) mL compared with 94 (16) mL with fluticasone propionate/salmeterol 250/50 mcg (treatment difference 80 mL; 95% CI: 37, 124; P<0.001).
+In Trial 5, the mean SE change from baseline in weighted mean FEV1 (0 to 24 hours) with fluticasone furoate/vilanterol ELLIPTA 100/25 mcg was 174 (15) mL compared with 94 (16) mL with fluticasone propionate/salmeterol 250/50 mcg (treatment difference 80 mL; 95% CI: 37, 124; P<0.001).
 In Trials 6 and 7, the mean (SE) change from baseline in weighted mean FEV1 (0 to 24 hours) with fluticasone furoate/vilanterol ELLIPTA 100/25 mcg was 142 (18) mL and 168 (12) mL, respectively, compared with 114 (18) mL and 142 (12) mL, respectively, for fluticasone propionate/salmeterol 250/50 mcg (Trial 6 treatment difference 29 mL; 95% CI: -22, 80; P = 0.267; Trial 7 treatment difference 25 mL; 95% CI: -8, 59; P = 0.137).
 
 Mortality Trial
@@ -137,7 +137,7 @@ Adult Patients
 
 The efficacy of fluticasone furoate/vilanterol ELLIPTA for the maintenance treatment of asthma was based on data from 4 randomized, double-blind, parallel-group clinical trials (Trial 8 [NCT01165138], Trial 9 [NCT01686633], Trial 10 [NCT01134042] and Trial 12 [NCT01086384]).
 While these 4 trials enrolled pediatric patients 12 to 17 years of age, these trials only support efficacy in adults [see Use in Specific Populations (8.4)].
-In addition, patients in these trials were treated with fluticasone furoate/vilanterol ELLIPTA 200/25 mcg once daily by oral inhalation, which is not the approved recommended dosage for pediatric patients 12 years of age and older [see Dosage and Administration (2.3)].
+In addition, patients in these trials were treated with fluticasone furoate/vilanterol ELLIPTA 200/25 mcg once daily by oral inhalation, which is not the approved recommended dosage for pediatric patients 12 years of age and older [see Dosage and Administration (2.2)].
 Trials 8, 9, and 10 were designed to evaluate the safety and efficacy of fluticasone furoate/vilanterol ELLIPTA given once daily in patients who were not controlled on their current treatments of ICS or combination therapy consisting of an ICS plus a LABA.
 Trial 12 (24- to 76-week exacerbation trial) was designed to demonstrate that treatment with fluticasone furoate/vilanterol ELLIPTA 100/25 mcg significantly decreased the risk of asthma exacerbations as measured by time to first asthma exacerbation when compared with fluticasone furoate 100 mcg.
 This trial enrolled patients who had 1 or more asthma exacerbations in the year prior to trial entry.
@@ -197,7 +197,7 @@ Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at
 | Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 334 | –– | 77(16, 138) | –– |  |  |  |  |  |  |
 | Trial 10 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
 | Fluticasone furoate/vilanterol ELLIPTA 200/25 mcg | 187 | –– | –– | 193(108, 277) |  |  |  |  |  |  |
-| FEV1 = Forced Expiratory Volume in 1 second, ICS = inhaled corticosteroid, LABA = long-acting beta2-adrenergic agonist. a Although these trials included pediatric patients 12 to 17 years of age, they only support the efficacy in adult patients. |  |  |  |  |  |  |  |  |  |  |
+| FEV1 = Forced Expiratory Volume in 1 second, ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist. a Although these trials included pediatric patients 12 to 17 years of age, they only support the efficacy in adult patients. |  |  |  |  |  |  |  |  |  |  |
 
 In Trial 8, weighted mean FEV1 (0 to 24 hours) was assessed in a subset of patients (n = 309).
 At Week 12, change from baseline in weighted mean FEV1 (0 to 24 hours) was significantly greater for fluticasone furoate/vilanterol ELLIPTA 100/25 mcg compared with placebo (302 mL; 95% CI: 178, 426; P<0.001) (Table 9); change from baseline in weighted mean FEV1 (0 to 24 hours) for fluticasone furoate/vilanterol ELLIPTA 100/25 mcg was numerically greater than fluticasone furoate 100 mcg, but not statistically significant (116 mL; 95% CI: -5, 236).
@@ -253,7 +253,7 @@ Exclusion criteria included a history of life-threatening asthma or any asthma e
 
 Patients entered a 4-week open-label run-in period during which all patients received fluticasone propionate 100 mcg twice daily.
 Patients reporting symptoms and/or rescue beta2-agonist medication use during the last week of the run-in period were continued in the trial and were stratified by age.
-Pediatric patients aged 12 to 17 years (n = 229) were randomized 1:1 to fluticasone furoate/vilanterol ELLIPTA 100/25 mcg once daily (= 117) or fluticasone furoate 100 mcg once daily (n = 112).
+Pediatric patients aged 12 to 17 years (n = 229) were randomized 1:1 to fluticasone furoate/vilanterol ELLIPTA 100/25 mcg once daily (n = 117) or fluticasone furoate 100 mcg once daily (n = 112).
 Pediatric patients aged 5 to 11 years (n = 673) were randomized 1:1 to fluticasone furoate/vilanterol ELLIPTA 50/25 mcg once daily (n = 337) or fluticasone furoate 50 mcg once daily (n = 336).
 The primary endpoint was weighted mean FEV1 (0 to 4 hours) at Week 12.
 Of the 902 patients, the mean age was 10.0 years, 61% were male, and 73% were White, 8% African American, 6% American Indian or Alaska Native, 6% Asian, and 7% Other.
@@ -269,7 +269,7 @@ Weighted Mean FEV1 (0-4 h) (mL) at Week 12 in Patients Aged 5 to 17 Years (Inten
 | LS mean change (SE) | 323 (16.4) | 406 (16.5) |  |  |  |  |  |  |  |  |  |  |  |
 | Difference vs fluticasone furoate |  | 83 |  |  |  |  |  |  |  |  |  |  |  |
 | (95% CI) |  | (37, 129) |  |  |  |  |  |  |  |  |  |  |  |
-| FEV1 = Forced Expiratory Volume in 1 second, LS = Least squares, SE = standard error. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| FEV1 = Forced Expiratory Volume in 1 second, LS = Least Squares, SE = Standard Error. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a The dose of fluticasone furoate was 100 mcg once daily for pediatric patients aged 12 to 17 years and 50 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | b The dose of fluticasone furoate/vilanterol ELLIPTA was 100/25 mcg once daily for pediatric patients aged 12 to 17 years and 50/25 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 

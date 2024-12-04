@@ -30,5 +30,7 @@ The recommended dosage of Fluticasone Furoate/Vilanterol ELLIPTA 50/25 mcg (cont
 
 ## 2.3 Administration Information
 
-• After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis [see Warnings and Precautions (5.4)]. • Fluticasone Furoate/Vilanterol ELLIPTA should be used at the same time every day.
-Do not use Fluticasone Furoate/Vilanterol ELLIPTA more than 1 time every 24 hours. • More frequent administration or a greater number of inhalations (more than 1 inhalation daily) of the prescribed strength of Fluticasone Furoate/Vilanterol ELLIPTA is not recommended as some patients are more likely to experience adverse effects with higher doses.
+- •After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis [see Warnings and Precautions (5.4)].
+- •Fluticasone Furoate/Vilanterol ELLIPTA should be used at the same time every day.
+  Do not use Fluticasone Furoate/Vilanterol ELLIPTA more than 1 time every 24 hours.
+- •More frequent administration or a greater number of inhalations (more than 1 inhalation daily) of the prescribed strength of Fluticasone Furoate/Vilanterol ELLIPTA is not recommended as some patients are more likely to experience adverse effects with higher doses.

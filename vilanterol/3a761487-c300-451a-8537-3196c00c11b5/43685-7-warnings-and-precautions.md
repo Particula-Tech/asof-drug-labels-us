@@ -2,12 +2,12 @@
 
 ## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
+Use of Long-acting Beta2-adrenergic Agonist (LABA) as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
 Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric patients.
 These findings are considered a class effect of LABA monotherapy.
-When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma‑related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists).
+When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma‑related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-Acting Beta2-Adrenergic Agonists).
 
-Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists
+Serious Asthma-Related Events with Inhaled Corticosteroid/Long-Acting Beta2-Adrenergic Agonists
 
 Four (4) large, 26-week, randomized, double-blind, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed‑dose combination with ICS compared with ICS alone in patients with asthma.
 Three (3) trials included adult and pediatric patients aged 12 years and older: 1 trial compared budesonide/formoterol with budesonide, 1 trial compared fluticasone propionate/salmeterol inhalation powder with fluticasone propionate inhalation powder, and 1 trial compared mometasone furoate/formoterol with mometasone furoate.
@@ -21,7 +21,7 @@ A meta-analysis of the 3 adult and pediatric trials did not show a significant i
 These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
 
 Table 1.
-Meta-analysis of Serious Asthma-Related Events in Patients with Asthma Aged 12 Years and Older
+Meta-Analysis of Serious Asthma-Related Events in Patients with Asthma Aged 12 Years and Older
 
 |  | ICS/LABA(n = 17,537)a | ICS(n = 17,552)a | ICS/LABA vs. ICSHazard Ratio (95% CI)b |
 | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 When beginning treatment with Fluticasone Furoate/Vilanterol ELLIPTA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs and to use them only for symptomatic relief of acute respiratory symptoms.
 When prescribing Fluticasone Furoate/Vilanterol ELLIPTA, the healthcare provider should also prescribe an inhaled, short‑acting beta2-agonist and instruct the patient on how it should be used.
 
-## 5.3 Risk Associated with Excessive Use of Long-acting Beta2-agonists, including Fluticasone Furoate/Vilanterol ELLIPTA
+## 5.3 Risk Associated with Excessive Use of Long-Acting Beta2-Agonists, including Fluticasone Furoate/Vilanterol ELLIPTA
 
 Fluticasone Furoate/Vilanterol ELLIPTA should not be used more often than recommended, at higher doses than recommended [see Dosage and Administration (2)], or in conjunction with other therapies containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
@@ -111,7 +111,7 @@ ICS should be used with caution, if at all, in patients with active or quiescent
 
 ## 5.7 Transferring Patients from Systemic Corticosteroid Therapy
 
-HPA Suppression/Adrenal Insufficiency
+Hypothalamic-Pituitary-Adrenal Suppression/Adrenal Insufficiency
 
 Particular care is needed for patients who have been transferred from systemically active corticosteroids to ICS because deaths due to adrenal insufficiency have occurred in patients during and after transfer from systemic corticosteroids to less systemically available ICS.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.

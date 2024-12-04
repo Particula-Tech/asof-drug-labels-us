@@ -12,12 +12,12 @@ Vilanterol trifenatate has the chemical name triphenylacetic acid-4-{(1R)-2-[(6-
 Vilanterol trifenatate is a white powder with a molecular weight of 774.8, and the empirical formula is C24H33Cl2NO5•C20H16O2.
 It is practically insoluble in water.
 
-Fluticasone Furoate/Vilanterol ELLIPTA is a light grey and pale blue plastic inhaler containing 2 foil blister strips.
-Each blister on one strip contains a white powder blend of micronized fluticasone furoate (100 or 200 mcg) and lactose monohydrate (12.4 or 12.3 mg, respectively), and each blister on the other strip contains a white powder blend of micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (125 mcg), and lactose monohydrate (12.34 mg).
+Fluticasone furoate/vilanterol ELLIPTA is a light grey and pale blue plastic inhaler containing 2 foil blister strips.
+Each blister on one strip contains a white powder blend of micronized fluticasone furoate (50, 100 or 200 mcg) and lactose monohydrate (12.5, 12.4 or 12.3 mg, respectively), and each blister on the other strip contains a white powder blend of micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (125 mcg), and lactose monohydrate (12.34 mg).
 The lactose monohydrate contains milk proteins.
 After the inhaler is activated, the powder within both blisters is exposed and ready for dispersion into the airstream created by the patient inhaling through the mouthpiece.
 
-Under standardized in vitro test conditions, fluticasone furoate/vilanterol ELLIPTA delivers 92 or 184 mcg of fluticasone furoate and 22 mcg of vilanterol per dose when tested at a flow rate of 60 L/min for 4 seconds.
+Under standardized in vitro test conditions, fluticasone furoate/vilanterol ELLIPTA delivers 46, 92 or 184 mcg of fluticasone furoate and 22 mcg of vilanterol per dose when tested at a flow rate of 60 L/min for 4 seconds.
 
 In adult patients with obstructive lung disease and severely compromised lung function (COPD with FEV1/FVC <70% and FEV1 <30% predicted or FEV1 <50% predicted plus chronic respiratory failure), mean peak inspiratory flow through the ELLIPTA inhaler was 66.5 L/min (range: 43.5 to 81.0 L/min).
 
