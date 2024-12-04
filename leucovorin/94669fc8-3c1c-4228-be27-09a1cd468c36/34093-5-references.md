@@ -6,17 +6,7 @@
 2. Link MP, Goorin AM, Miser AW et al. The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity.
    N Engl J Med 1986;314:1600-1606.
 
-Manufactured In Bulgaria By:
+Manufactured In Bulgaria By: Balkanpharma Dupnitsa AD Dupnitsa 2600, Bulgaria
 
-Balkanpharma Dupnitsa AD
-
-Dupnitsa 2600, Bulgaria
-
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
-
-Rev.
-B 3/2019
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054 Rev.
+C 8/2024
