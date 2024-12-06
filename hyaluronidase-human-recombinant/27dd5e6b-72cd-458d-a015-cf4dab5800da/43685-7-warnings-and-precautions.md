@@ -22,7 +22,7 @@ Following completion of PHESGO, continue to monitor for cardiomyopathy and asses
 
 PHESGO
 
-In the FeDeriCa study, the percentage of patients with at least one cardiac disorder was 22% in the PHESGO arm.
+In the FeDeriCa trial, the percentage of patients with at least one cardiac disorder was 22% in the PHESGO arm.
 The most frequent cardiac adverse reaction in the PHESGO arm was ejection fraction decreased.
 
 The incidence of cardiac failure (NYHA Class III/IV) with a LVEF decline ≥ 10% and a drop to less than 50% was 0.8% in the PHESGO arm.
@@ -58,7 +58,7 @@ The incidence of septic death was similar among patients who received trastuzuma
 Severe administration-related reactions (ARRs), including hypersensitivity, anaphylaxis, and events with fatal outcomes, have been associated with intravenous pertuzumab and trastuzumab.
 Patients experiencing dyspnea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of a severe or of a fatal ARR.
 
-In the FeDeriCa study, the incidence of hypersensitivity was 1.2% in the PHESGO arm.
+In the FeDeriCa trial, the incidence of hypersensitivity was 1.2% in the PHESGO arm.
 Administration-related reactions occurred in 21% of patients who received PHESGO.
 In the PHESGO arm, the most common administration-related reactions were injection site reaction (15%) and injection site pain (2%).
 

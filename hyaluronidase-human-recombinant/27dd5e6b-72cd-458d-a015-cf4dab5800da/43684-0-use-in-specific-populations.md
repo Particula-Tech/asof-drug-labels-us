@@ -96,7 +96,7 @@ The safety and effectiveness of PHESGO in pediatric patients have not been estab
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in the FeDeriCa study (n=500) treated with PHESGO, 11% were 65 and over, while 1.6% were 75 and over.
+Of the total number of patients in the FeDeriCa trial (n=500) treated with PHESGO, 11% were 65 and over, while 1.6% were 75 and over.
 Clinical studies of PHESGO did not include sufficient numbers of patients age 65 years and older to determine whether they respond differently from younger patients.
 
 In the intravenous trastuzumab trials, the risk of cardiac dysfunction was increased in geriatric patients as compared to younger patients, in both those receiving treatment for adjuvant therapy or metastatic disease.

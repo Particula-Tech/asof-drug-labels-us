@@ -7,8 +7,8 @@ Use of PHESGO for this indication is supported by evidence from adequate and wel
 
 FeDeriCa
 
-The FeDeriCa study (NCT03493854) was an open-label, multicenter, randomized study conducted in 500 patients with operable or locally advanced (including inflammatory) HER2-positive breast cancer with a tumor size > 2 cm or node-positive.
-HER2 overexpression was defined as IHC 3+ in > 10% of immunoreactive cells or HER2 gene amplification by ISH (ratio of HER2 gene signals to centromere 17 signals ≥ 2.0) using an FDA-approved test.
+The FeDeriCa trial (NCT03493854) was an open-label, multicenter, randomized trial conducted in 500 patients with operable or locally advanced (including inflammatory) HER2-positive breast cancer with a tumor size >2 cm or node-positive.
+HER2 overexpression was defined as IHC 3+ in >10% of immunoreactive cells or HER2 gene amplification by ISH (ratio of HER2 gene signals to centromere 17 signals ≥2.0) using an FDA-approved test.
 Patients were randomized to receive 8 cycles of neoadjuvant chemotherapy with concurrent administration of 4 cycles of either PHESGO or intravenous pertuzumab and trastuzumab during cycles 5-8, followed by surgery.
 Investigators selected one of two of the following neoadjuvant chemotherapy regimens for individual patients:
 
@@ -18,9 +18,9 @@ Investigators selected one of two of the following neoadjuvant chemotherapy regi
 Following surgery, patients continued therapy with PHESGO or intravenous pertuzumab and trastuzumab as treated prior to surgery, for an additional 14 cycles, to complete 18 cycles of anti-HER2 therapy.
 Patients also received adjuvant radiotherapy and endocrine therapy as per investigator's discretion.
 In adjuvant period, substitution of intravenous trastuzumab for subcutaneous trastuzumab was permitted at investigator discretion.
-Patients received HER2-targeted therapy every 3 weeks according to Table 6 as follows:
+Patients received HER2-targeted therapy every 3 weeks according to Table 5 as follows:
 
-Table 6: Dosing and Administration of PHESGO, Intravenous Pertuzumab, Intravenous Trastuzumab, and Subcutaneous Trastuzumab
+Table 5: Dosing and Administration of PHESGO, Intravenous Pertuzumab, Intravenous Trastuzumab, and Subcutaneous Trastuzumab
 
 | Initial | Maintenance |  |  |
 | --- | --- | --- | --- |
@@ -30,18 +30,17 @@ Table 6: Dosing and Administration of PHESGO, Intravenous Pertuzumab, Intravenou
 | Trastuzumab | Intravenously | 8 mg/kg | 6 mg/kg |
 | Trastuzumab-oysk | SubcutaneouslyIn adjuvant period substitution of intravenous trastuzumab for subcutaneous trastuzumab was permitted at investigator discretion | 600 mg |  |
 
-FeDeriCa was designed to demonstrate non-inferiority of the Cycle 7 (i.e., pre-dose Cycle 8) pertuzumab serum Ctrough from PHESGO pertuzumab to the intravenous pertuzumab (primary endpoint) [see Clinical Pharmacology 12.3].
-Secondary endpoints included Cycle 7 serum trastuzumab Ctrough, efficacy (pathological complete response [pCR], defined as the absence of invasive neoplastic cells in the breast and in the axillary lymph nodes), and safety.
-The median age was 51 years (range: 25-81), and the majority of patients were White (66%).
+FeDeriCa was designed to demonstrate non-inferiority of the Cycle 7 (i.e., pre-dose Cycle 8) pertuzumab serum Ctrough from PHESGO pertuzumab to the intravenous pertuzumab (major efficacy outcome measure) [see Clinical Pharmacology 12.3].
+Additional outcome measures included Cycle 7 serum trastuzumab Ctrough, efficacy (pathological complete response [pCR], defined as the absence of invasive neoplastic cells in the breast and in the axillary lymph nodes), and safety.
+
+The median age of patients was 51 years (range: 25-81); 99% were female; 66% were White, 21% were Asian, 4% were American Indian or Alaska Native, 1.2% were Black or African American, 15% were Hispanic or Latino.
 The majority of patients had hormone receptor-positive disease (61%) or node-positive disease (58%).
 
-The pCR rate was 59.7% (95% CI: 53.3, 65.8) in the PHESGO arm and 59.5% (95% CI: 53.2, 65.6) in the intravenous pertuzumab and trastuzumab arm.
-
-Table 7: Summary of Pathological Complete Response (pCR) (FeDeriCa)
+Table 6: Summary of Pathological Complete Response (pCR) (FeDeriCa)
 
 |  | PHESGO n=248 | Intravenous pertuzumab + trastuzumab n=252 |
 | --- | --- | --- |
-| pCR (ypT0/is, ypN0) | 148 (59.7%) | 150 (59.5%) |
+| pCR: ypT0/is, ypN0 | 148 (59.7%) | 150 (59.5%) |
 | Exact 95% CI for pCR RateConfidence interval for one sample binomial using Pearson-Clopper method | (53.3%, 65.8%) | (53.2%, 65.6%) |
 | Difference in pCR rate (SC minus IV arm) | 0.15% |  |
 | 95% CI for the difference in pCRHauck-Anderson continuity correction has been used in this calculation rate | (-8.7%; 9.0%) |  |
@@ -53,7 +52,7 @@ Use of PHESGO for this indication is supported by evidence from adequate and wel
 
 ## 14.3 Patient Experience
 
-The PHranceSCa study (NCT03674112) was a randomized, multi-center, open-label cross-over trial conducted in 160 patients with HER2-positive breast cancer undergoing adjuvant treatment.
+The PHranceSCa trial (NCT03674112) was a randomized, multi-center, open-label cross-over trial conducted in 160 patients with HER2-positive breast cancer undergoing adjuvant treatment.
 All patients completed neoadjuvant treatment with pertuzumab, trastuzumab and chemotherapy and had surgery before randomization.
 Following randomization, 80 patients in arm A received 3 cycles of intravenous pertuzumab and trastuzumab followed by 3 cycles of PHESGO and 80 patients in arm B received 3 cycles of PHESGO followed by 3 cycles of intravenous pertuzumab and trastuzumab.
 All patients received 18 total cycles of HER2-targeted therapy.

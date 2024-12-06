@@ -3,7 +3,7 @@
 Cardiomyopathy
 
 PHESGO administration can result in subclinical and clinical cardiac failure.
-The incidence and severity was highest in patients receiving PHESGO with anthracycline-containing chemotherapy regimens.
+The incidence and severity were highest in patients receiving PHESGO with anthracycline-containing chemotherapy regimens.
 Evaluate cardiac function prior to and during treatment with PHESGO.
 Discontinue PHESGO treatment in patients receiving adjuvant therapy and withhold PHESGO in patients with metastatic disease for clinically significant decrease in left ventricular function [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 

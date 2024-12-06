@@ -67,7 +67,7 @@ Administer PHESGO until disease progression or unmanageable toxicity, whichever 
 
 ## 2.4 Dose Modification
 
-Dose Modification for delayed or missed doses
+Dose Modification for Delayed or Missed Doses
 
 For delayed or missed doses of PHESGO, if the time between two sequential injections is less than 6 weeks, administer the maintenance dose of 600 mg, 600 mg, and 20,000 units/10 mL.
 Do not wait until the next planned dose.
