@@ -27,7 +27,7 @@ Approximately 100 mg Sodium Citrate Dihydrate added as a buffer. pH adjusted wit
 
 Baxter Logo Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-00-1522
+07-34-00-2323
 
 Barcode 3 03389 63201 6
 
@@ -58,7 +58,7 @@ Approximately 150 mg Sodium Citrate Dihydrate added as a buffer. pH adjusted wit
 
 Baxter Logo Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-00-1561
+07-34-00-2322
 
 Barcode 3 03389 63601 4
 
@@ -89,7 +89,7 @@ Approximately 200 mg Sodium Citrate Dihydrate added as a buffer. pH adjusted wit
 
 Baxter Logo Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-00-1562
+07-34-00-2321
 
 Barcode 3 03389 63801 8
 
@@ -104,7 +104,7 @@ Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter Logo
 
-GTIN: 20303389632249 PL 2040 Plastic 07-04-00-0721
+GTIN: 20303389632249 07-04-00-1383
 
 ZOSYN Rx only
 
@@ -152,7 +152,7 @@ Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter Logo
 
-GTIN: 20303389636247 PL 2040 Plastic 07-04-00-0722
+GTIN: 20303389636247 07-04-00-1382
 
 ZOSYN Rx only
 
@@ -200,7 +200,7 @@ Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter Logo
 
-GTIN: 20303389638128 PL 2040 Plastic 07-04-00-0941
+GTIN: 20303389638128 07-04-00-1381
 
 ZOSYN Rx only
 

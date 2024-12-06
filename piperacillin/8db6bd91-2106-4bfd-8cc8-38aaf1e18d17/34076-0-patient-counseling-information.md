@@ -13,7 +13,7 @@ Diarrhea
 
 Advise patients, their families, or caregivers that diarrhea is a common problem caused by antibacterial drugs, including ZOSYN, which usually ends when the drug is discontinued.
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the drug.
-If this occurs, patients should contact their physician as soon as possible [see Warnings and Precautions (5.8)].
+If this occurs, patients should contact their physician as soon as possible [see Warnings and Precautions (5.9)].
 
 Antibacterial Resistance
 
@@ -36,4 +36,4 @@ Baxter, Galaxy and Zosyn are trademarks of Baxter International Inc. or its subs
 
 Clinitest is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-07-565
+07-19-08-744
