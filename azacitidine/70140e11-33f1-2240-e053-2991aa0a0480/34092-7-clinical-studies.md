@@ -131,5 +131,5 @@ Effect of Azacitidine on RBC Transfusions in Patients with MDS
 
 ## 14.2
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.

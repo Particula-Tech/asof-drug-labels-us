@@ -24,8 +24,8 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 
 ## 2.4
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Dosage Adjustment Based on Hematology Laboratory Values
 
@@ -48,8 +48,8 @@ If a nadir as defined in the table above has occurred, give the next course 28 d
 If a greater than 25% increase above the nadir is not seen by day 28, reassess counts every 7 days.
 If a 25% increase is not seen by day 42, reduce the scheduled dose by 50%.
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.6 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
@@ -140,5 +140,5 @@ The administration must be completed within 1 hour of reconstitution of the Azac
 
 Solution Stability: Azacitidine for injection reconstituted and diluted for intravenous administration may be stored at 25°C (77°F), but administration must be completed within 1 hour of reconstitution.
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.

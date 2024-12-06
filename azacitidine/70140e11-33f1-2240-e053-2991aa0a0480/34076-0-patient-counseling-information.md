@@ -32,6 +32,6 @@ Intas Pharmaceuticals Limited,
 
 Ahmedabad – 380 054, India
 
-10 6505 1 6026033
+10 6505 2 6031705
 
-Issued: October 2023
+Issued: July 2024

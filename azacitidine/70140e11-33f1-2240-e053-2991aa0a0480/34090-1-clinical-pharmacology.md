@@ -11,8 +11,8 @@ Non-proliferating cells are relatively insensitive to azacitidine.
 
 ## 12.2 Pharmacodynamics
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 12.3 Pharmacokinetics
 
@@ -48,8 +48,8 @@ Specific Populations
 
 The effects of hepatic impairment, gender, or race/ethnicity on the pharmacokinetics of intravenous and subcutaneous azacitidine have not been studied.
 
-Pediatric Patients Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Patients with Renal Impairment
 

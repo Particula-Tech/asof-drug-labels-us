@@ -205,8 +205,8 @@ Surgical and medical procedures:cholecystectomy.
 
 Vascular disorders:orthostatic hypotension.
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
@@ -221,3 +221,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Differentiation syndrome
 - Pericardial effusion
 - Pericarditis
+- Cutaneous vasculitis

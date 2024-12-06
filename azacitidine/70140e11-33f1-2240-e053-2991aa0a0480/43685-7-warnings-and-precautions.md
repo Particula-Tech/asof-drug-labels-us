@@ -15,8 +15,8 @@ Monitor complete blood counts frequently for response and/or toxicity, at a mini
 
 In adult patients with MDS, after administration of the recommended dosage for the first cycle, adjust dosage for subsequent cycles based on nadir counts and hematologic response [see Dosage and Administration (2.5)].
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.3 Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment
 
@@ -27,8 +27,8 @@ Monitor liver chemistries prior to initiation of therapy and with each cycle.
 
 Safety and effectiveness of Azacitidine for injection in patients with MDS and hepatic impairment have not been studied as these patients were excluded from the clinical trials.
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.4 Renal Toxicity
 
@@ -42,8 +42,8 @@ Also, azacitidine and its metabolites are primarily excreted by the kidney.
 Therefore, monitor these patients closely for toxicity [see Dosage and Administration (2.6, 2.7)].
 Patients with MDS and renal impairment were excluded from the clinical studies.
 
-Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
-However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric use information is approved for Bristol-Myers Squibb Company’s Vidaza (azacitidine for injection).
+However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.5 Tumor Lysis Syndrome
 
