@@ -121,4 +121,4 @@ If you would like more information about NSAIDs, talk with your healthcare provi
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 08/2024
+Revised: 12/2024

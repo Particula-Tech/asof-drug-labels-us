@@ -73,7 +73,7 @@ Animal Data
 Meloxicam was not teratogenic when administered to pregnant rats during fetal organogenesis at oral doses up to 4 mg/kg/day (2.6-fold greater than the MRHD of 15 mg of meloxicam based on BSA comparison).
 Administration of meloxicam to pregnant rabbits throughout embryogenesis produced an increased incidence of septal defects of the heart at an oral dose of 60 mg/kg/day (78-fold greater than the MRHD based on BSA comparison).
 The no effect level was 20 mg/kg/day (26-fold greater than the MRHD based on BSA conversion).
-In rats and rabbits, embryolethality occurred at oral meloxicam doses of 1 mg/kg/day and 5 mg/kg/day, respectively (0.65-and 6.5-fold greater, respectively, than the MRHD based on BSA comparison) when administered throughout organogenesis.
+In rats and rabbits, embryolethality occurred at oral meloxicam doses of 1 mg/kg/day and 5 mg/kg/day, respectively (0.65- and 6.5-fold greater, respectively, than the MRHD based on BSA comparison) when administered throughout organogenesis.
 
 Oral administration of meloxicam to pregnant rats during late gestation through lactation increased the incidence of dystocia, delayed parturition, and decreased offspring survival at meloxicam doses of 0.125 mg/kg/day or greater (0.08-times MRHD based on BSA comparison).
 
