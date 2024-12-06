@@ -114,11 +114,11 @@ PROTECT FROM LIGHT
 
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-# PRINCIPAL DISPLAY PANEL - 2 mg/mL Vial Tray
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Vial Carton
 
-1 mL 25 Single-dose vials Rx only
+1 mL 10 Single-dose vials Rx only
 
-NDC 0409-3365-01 Contains 25 of NDC 0409-3365-11
+NDC 0409-3365-10 Contains 10 of NDC 0409-3365-11
 
 HYDROmorphone HCl Injection, USP 2 mg/mL CII
 
