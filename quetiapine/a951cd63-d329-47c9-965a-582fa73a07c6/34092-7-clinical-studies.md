@@ -33,7 +33,7 @@ The primary efficacy variable was the mean change from baseline in total Positiv
 Quetiapine at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score.
 The primary efficacy results of this study in the treatment of schizophrenia in adolescents is presented in Table 19.
 
-$ Table19:SchizophreniaShort-TermTrials
+Table19:SchizophreniaShort-TermTrials
 
 | Study Number | Treatment Group | Primary Efficacy Endpoint: BPRS Total |  |  |
 | --- | --- | --- | --- | --- |

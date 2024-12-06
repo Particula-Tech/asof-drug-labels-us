@@ -79,6 +79,8 @@ Effectiveness and safety of quetiapine have not been established in pediatric pa
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms [see INDICATIONS AND USAGE (1.3)].
 
+*Brands listed are the trademarks of their respective owners.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -89,4 +91,4 @@ United States.
 
 MADE IN INDIA.
 
-Rev: May 2022 ID#: 270006
+Rev: July 2023 ID#: 273942

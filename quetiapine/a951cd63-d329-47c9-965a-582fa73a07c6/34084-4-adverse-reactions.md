@@ -63,6 +63,8 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Table 9 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) in 2% or more of patients treated with quetiapine (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
+Table 9: Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy)
+
 | Preferred Term | Quetiapine (n=719) | Placebo (n=404) |
 | --- | --- | --- |
 | Headache | 21% | 14% |
@@ -93,6 +95,8 @@ Table 9 enumerates the incidence, rounded to the nearest percent, of adverse rea
 In the acute adjunct therapy of bipolar mania (up to 3 weeks) studies, the most commonly observed adverse reactions associated with the use of quetiapine (incidence of 5% or greater) and observed at a rate on quetiapine at least twice that of placebo were somnolence (34%), dry mouth (19%), asthenia (10%), constipation (10%), abdominal pain (7%), postural hypotension (7%), pharyngitis (6%), and weight gain (6%).
 
 Table 10 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 3 weeks) of acute mania in 2% or more of patients treated with quetiapine (doses ranging from 100 to 800 mg/day) used as adjunct therapy to lithium and divalproex where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
+
+Table 10: Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy)
 
 | Preferred Term | Quetiapine (n=196) | Placebo (n=203) |
 | --- | --- | --- |
@@ -137,6 +141,8 @@ Table 10 enumerates the incidence, rounded to the nearest percent, of adverse re
 In bipolar depression studies (up to 8 weeks), the most commonly observed adverse reactions associated with the use of quetiapine (incidence of 5% or greater) and observed at a rate on quetiapine at least twice that of placebo were somnolence (57%), dry mouth (44%), dizziness (18%), constipation (10%), and lethargy (5%).
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 8 weeks) of bipolar depression in 2% or more of patients treated with quetiapine (doses of 300 and 600 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
+
+Table11:AdverseReactionIncidencein8-WeekPlacebo-ControlledClinicalTrialsfortheTreatmentofBipolarDepression
 
 | Preferred Term | Quetiapine (n=698) | Placebo (n=347) |
 | --- | --- | --- |
@@ -207,6 +213,8 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
+Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
+
 | Preferred Term | Quetiapine 75 mg/day (N=53) |  | Quetiapine 150 mg/day (N=48) |  | Quetiapine 300 mg/day (N=52) |  | Quetiapine 600 mg/day (N=51) |  | Quetiapine 750 mg/day (N=54) |  | Placebo (N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % | n | % | n | % |
@@ -250,7 +258,7 @@ In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse
 
 In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (53%), dizziness (18%), fatigue (11%), increased appetite (9%), nausea (8%), vomiting (8%), tachycardia (7%), dry mouth (7%), and weight increased (6%).
 
-In an acute (8-week) quetiapine extended-release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of quetiapine extended-release (incidence of 5% or greater and at least twice that for placebo) were dizziness 7%, diarrhea 5%, fatigue 5%, and nausea 5%.
+In an acute (8-week) SEROQUEL XR* trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR* (incidence of 5% or greater and at least twice that for placebo) were dizziness 7%, diarrhea 5%, fatigue 5%, and nausea 5%.
 
 Adverse Reactions Occurring at an Incidence of ≥2% among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials
 
@@ -261,6 +269,8 @@ The following findings were based on a 6-week placebo-controlled trial in which 
 Table 13 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 6 weeks) of schizophrenia in 2% or more of patients treated with quetiapine (doses of 400 or 800 mg/day) where the incidence in patients treated with quetiapine was at least twice the incidence in placebo-treated patients.
 
 Adverse reactions that were potentially dose-related with higher frequency in the 800 mg group compared to the 400 mg group included dizziness (8% vs. 15%), dry mouth (4% vs. 10%), and tachycardia (6% vs. 11%).
+
+Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Trial for the Treatment of Schizophrenia in Adolescent Patients
 
 | Preferred Term | Quetiapine 400 mg (n=73) | Quetiapine 800 mg (n=74) | Placebo (n=75) |
 | --- | --- | --- | --- |
@@ -293,6 +303,8 @@ In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reac
 Table 14 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 3 weeks) of bipolar mania in 2% or more of patients treated with quetiapine (doses of 400 or 600 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
 Adverse reactions that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%) and tachycardia (6% vs. 9%).
+
+Table14:AdverseReactionsina3-WeekPlacebo-ControlledClinicalTrialfortheTreatmentofBipolarManiainChildrenandAdolescentPatients
 
 | Preferred Term | Quetiapine 400 mg (n=95) | Quetiapine 600 mg (n=98) | Placebo (n=90) |
 | --- | --- | --- | --- |
@@ -335,6 +347,8 @@ Table 15 presents a listing of patients with adverse reactions potentially assoc
 
 In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
+Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
+
 | Preferred Term | Quetiapine 400 mg/day (N=73) |  | Quetiapine 800 mg/day (N=74) |  | All Quetiapine (N=147) |  | Placebo (N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % |
@@ -345,6 +359,8 @@ In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and musc
 | Other Extrapyramidal Event | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 | 0 | 0.0 |
 
 Table 16 presents a listing of patients with adverse reactions associated with extrapyramidal symptoms in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
+
+Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
 | Preferred Term* | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -406,8 +422,8 @@ Mean increases in heart rate were 3.8 bpm and 11.2 bpm for quetiapine 400 mg and
 In the acute (3-week) bipolar mania trial in children and adolescents, increases in heart rate (>110 bpm) occurred in 1.1% (1/89) of patients receiving quetiapine 400 mg and 4.7% (4/85) of patients receiving quetiapine 600 mg compared to 0% (0/98) of patients receiving placebo.
 Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see WARNINGS AND PRECAUTIONS (5.7)].
 
-In an acute (8-week) quetiapine extended-release trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (>110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine extended-release and 1.2% of patients receiving placebo.
-Mean increases in heart rate were 3.4 bpm for quetiapine extended-release, compared to 0.3 bpm in the placebo group [see WARNINGS AND PRECAUTIONS (5.7)].
+In an acute (8-week) SEROQUEL XR* trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (>110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving SEROQUEL XR* and 1.2% of patients receiving placebo.
+Mean increases in heart rate were 3.4 bpm for SEROQUEL XR*, compared to 0.3 bpm in the placebo group [see WARNINGS AND PRECAUTIONS (5.7)].
 
 ## 6.2 Postmarketing Experience
 

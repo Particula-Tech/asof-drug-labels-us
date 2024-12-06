@@ -113,7 +113,7 @@ Table 3: Fasting Glucose-Proportion of Patients Shifting to ≥126 mg/dL in Shor
 |  |  | Placebo | 1346 | 19 (1.4%) |
 | Fasting Glucose | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |
 |  |  | Placebo | 279 | 33 (11.8%) |
-| *Includes quetiapine and quetiapine extended-release data |  |  |  |  |
+| * Includes SEROQUEL* and SEROQUEL XR* data |  |  |  |  |
 
 In a 24-week trial (active-controlled, 115 patients treated with quetiapine) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting blood glucose level ≥126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2-hour glucose from baseline was -1.8 mg/dL for quetiapine.
@@ -127,9 +127,9 @@ In a placebo-controlled quetiapine monotherapy study of adolescent patients (13 
 In a placebo-controlled quetiapine monotherapy study of children and adolescent patients (10 to 17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for quetiapine (n=170) compared to placebo (n=81) was 3.62 mg/dL versus -1.17 mg/dL.
 No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a blood glucose level of ≥126 mg/dL.
 
-In a placebo-controlled quetiapine extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for quetiapine extended-release (n=60) compared to placebo (n=62) was 1.8 mg/dL versus 1.6 mg/dL.
-In this study, there were no patients in the quetiapine extended-release or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level >126 mg/dL.
-There was one patient in the quetiapine extended-release group with a baseline borderline fasting glucose level (>100 mg/dL and <126 mg/dL) who had an increase in blood glucose level of >126 mg/dL compared to zero patients in the placebo group.
+In a placebo-controlled SEROQUEL XR* monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for SEROQUEL XR* (n=60) compared to placebo (n=62) was 1.8 mg/dL versus 1.6 mg/dL.
+In this study, there were no patients in the SEROQUEL XR* or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level >126 mg/dL.
+There was one patient in the SEROQUEL XR* group with a baseline borderline fasting glucose level (>100 mg/dL and <126 mg/dL) who had an increase in blood glucose level of >126 mg/dL compared to zero patients in the placebo group.
 
 Dyslipidemia
 
@@ -183,7 +183,7 @@ Table5:PercentageofChildrenandAdolescentswithShiftsinTotalCholesterol, Triglycer
 | HDL-Cholesterol ≤40 mg/dL | Bipolar Mania | Quetiapine | 154 | 16 (10%) |
 |  |  | Placebo | 61 | 4 (7%) |
 
-In a placebo-controlled quetiapine extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine extended-release vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine extended-release vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine extended-release vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine extended-release vs. 15% (11/74) for placebo.
+In a placebo-controlled SEROQUEL XR* monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR* vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR* vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR* vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR* vs. 15% (11/74) for placebo.
 
 Weight Gain
 
@@ -227,8 +227,8 @@ After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
 Forty-five percent of the patients gained ≥7% of their body weight, not adjusted for normal growth.
 In order to adjust for normal growth over 26 weeks an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on quetiapine met this criterion after 26 weeks of treatment.
 
-In a clinical trial for quetiapine extended-release in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of patients with weight gain ≥7% of body weight at any time was 15% (14/92) for quetiapine extended-release vs. 10% (10/100) for placebo.
-The mean change in body weight was 1.4 kg in the quetiapine extended-release group vs. 0.6 kg in the placebo group.
+In a clinical trial for SEROQUEL XR* in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of patients with weight gain ≥7% of body weight at any time was 15% (14/92) for SEROQUEL XR* vs. 10% (10/100) for placebo.
+The mean change in body weight was 1.4 kg in the SEROQUEL XR* group vs. 0.6 kg in the placebo group.
 
 When treating pediatric patients with quetiapine for any indication, weight gain should be assessed against that expected for normal growth.
 
@@ -274,7 +274,7 @@ In placebo-controlled trials in children and adolescents with schizophrenia (6-w
 In the 26-week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
 Blood pressure in children and adolescents should be measured at the beginning of, and periodically during treatment.
 
-In a placebo-controlled quetiapine extended-release clinical trial (8 weeks duration) in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 6.5% (6/92) for quetiapine extended-release and 6.0% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for quetiapine extended-release and 36.0% (36/100) for placebo.
+In a placebo-controlled SEROQUEL XR* clinical trial (8 weeks duration) in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 6.5% (6/92) for SEROQUEL XR* and 6.0% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for SEROQUEL XR* and 36.0% (36/100) for placebo.
 
 ## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
@@ -346,8 +346,8 @@ Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Pla
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
 | 3.4% (37/1097) | 0.6% (4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5673) | 0.0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
-| 1Based on shifts from normal baseline to potentially clinically important value at any time post-baseline. Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time. |  |  |  |  |  |  |  |  |  |
-| 2Includes quetiapine and quetiapine extended-release data. |  |  |  |  |  |  |  |  |  |
+| 1 Based on shifts from normal baseline to potentially clinically important value at any time post-baseline. Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time. |  |  |  |  |  |  |  |  |  |
+| 2 Includes SEROQUEL* and SEROQUEL XR* data. |  |  |  |  |  |  |  |  |  |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0% (1/3007) for placebo.
 
@@ -400,7 +400,7 @@ Quetiapine and other antipsychotic drugs should be used cautiously in patients a
 ## 5.19 Discontinuation Syndrome
 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine.
-In short-term placebo-controlled, monotherapy clinical trials with quetiapine extended-release that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for quetiapine extended-release and 6.7% (71/1065) for placebo.
+In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR* that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for SEROQUEL XR* and 6.7% (71/1065) for placebo.
 The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised.
 [see USE IN SPECIFIC POPULATIONS (8.1)]
