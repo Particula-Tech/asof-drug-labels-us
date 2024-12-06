@@ -9,7 +9,7 @@ Orenitram® (treprostinil) Extended-Release Tablets
 0.125 mg
 
 Swallow whole.
-Do not split, chew, crush or break tablets.
+Do not split, chew, crush, or break tablets.
 
 # PRINCIPAL DISPLAY PANEL - 0.125 mg Tablet Blister Pack Carton
 
@@ -37,7 +37,7 @@ Orenitram® (treprostinil) Extended-Release Tablets
 0.25 mg
 
 Swallow whole.
-Do not split, chew, crush or break tablets.
+Do not split, chew, crush, or break tablets.
 
 # PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Blister Pack Carton
 
@@ -65,7 +65,7 @@ Orenitram® (treprostinil) Extended-Release Tablets
 1 mg
 
 Swallow whole.
-Do not split, chew, crush or break tablets.
+Do not split, chew, crush, or break tablets.
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Pack Carton
 
@@ -93,7 +93,7 @@ Orenitram® (treprostinil) Extended-Release Tablets
 2.5 mg
 
 Swallow whole.
-Do not split, chew, crush or break tablets.
+Do not split, chew, crush, or break tablets.
 
 # PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Blister Pack Carton
 
@@ -121,7 +121,7 @@ Orenitram® (treprostinil) Extended-Release Tablets
 5 mg
 
 Swallow whole.
-Do not split, chew, crush or break tablets.
+Do not split, chew, crush, or break tablets.
 
 # PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Pack Carton
 
@@ -138,7 +138,7 @@ Pharmacist: Dispense the accompanying Patient Information Leaflet to each patien
 
 Rx Only NDC 66302-350-02
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - Month 1
+# PRINCIPAL DISPLAY PANEL - 0.125 mg 0.25 mg Titration Kit Carton - Month 1
 
 Rx Only
 
@@ -160,7 +160,7 @@ Do not split, chew, crush, or break tablets.
 Kit Contains: 168 tablets (126 x 0.125 mg per tablet and 42 x 0.25 mg per tablet).
 Monthly carton contains 4 individual weekly cartons each with 7 daily wallet blister packs.
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - Month 2
+# PRINCIPAL DISPLAY PANEL - 0.125 mg 0.25 mg Titration Kit Carton - Month 2
 
 Rx Only
 
@@ -182,7 +182,7 @@ Do not split, chew, crush, or break tablets.
 Kit Contains: 336 tablets (126 x 0.125 mg per tablet and 210 x 0.25 mg per tablet).
 Monthly carton contains 4 individual weekly cartons each with 7 daily wallet blister packs.
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - Month 3
+# PRINCIPAL DISPLAY PANEL - 0.125 mg 0.25 mg 1 mg Titration Kit Carton - Month 3
 
 Rx Only
 
