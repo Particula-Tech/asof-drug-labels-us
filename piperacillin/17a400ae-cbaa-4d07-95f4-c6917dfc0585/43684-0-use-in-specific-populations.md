@@ -6,7 +6,7 @@ Risk Summary
 
 Piperacillin and tazobactam cross the placenta in humans.
 However, there are insufficient data with piperacillin and/or tazobactam in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
-No fetal structural abnormalities were observed in rats or mice when piperacillin/tazobactam was administered intravenously during organogenesis at doses 1 to 2 times and 2 to 3 times the human dose of piperacillin and tazobactam, respectively, based on body surface area (mg/m2).
+No fetal structural abnormalities were observed in rats or mice when piperacillin and tazobactam was administered intravenously during organogenesis at doses 1 to 2 times and 2 to 3 times the human dose of piperacillin and tazobactam, respectively, based on body surface area (mg/m2).
 However, fetotoxicity in the presence of maternal toxicity was observed in developmental toxicity and peri/postnatal studies conducted in rats (intraperitoneal administration prior to mating and throughout gestation or from gestation day 17 through lactation day 21) at doses less than the maximum recommended human daily dose based on body-surface area (mg/m2) [see Data].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.

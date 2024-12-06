@@ -24,11 +24,11 @@ Probenecid should not be co-administered with piperacillin and tazobactam for in
 
 ## 7.3 Vancomycin
 
-Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [seeWarnings and Precautions (5.6)].
+Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin and tazobactam and vancomycin as compared to vancomycin alone [seeWarnings and Precautions (5.6)].
 
 Monitor kidney function in patients concomitantly administered with piperacillin and tazobactam and vancomycin.
 
-No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
+No pharmacokinetic interactions have been noted between piperacillin and tazobactam and vancomycin.
 
 ## 7.4 Anticoagulants
 
@@ -50,9 +50,9 @@ If concurrent therapy is necessary, serum concentrations of methotrexate as well
 
 ## 7.7 Effects on Laboratory Tests
 
-There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin/tazobactam injection who were subsequently found to be free of Aspergillus infection.
+There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin and tazobactam injection who were subsequently found to be free of Aspergillus infection.
 Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the Bio-Rad Laboratories Platelia Aspergillus EIA test have been reported.
-Therefore, positive test results in patients receiving piperacillin/tazobactam should be interpreted cautiously and confirmed by other diagnostic methods.
+Therefore, positive test results in patients receiving piperacillin and tazobactam should be interpreted cautiously and confirmed by other diagnostic methods.
 
 As with other penicillins, the administration of piperacillin and tazobactam for injection may result in a false-positive reaction for glucose in the urine using a copper-reduction method (CLINITEST®).
 It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.

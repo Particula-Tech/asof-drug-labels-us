@@ -57,7 +57,7 @@ The second trial used a dosing regimen of 3.375 g given every 4 hours with an am
 
 Other Trials - Nephrotoxicity
 
-In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1 [see Warnings and Precautions(5.6)].
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin and tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1 [see Warnings and Precautions(5.6)].
 
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
@@ -94,7 +94,7 @@ Hepatobiliary—hepatitis, jaundice
 
 Hematologic—hemolytic anemia, agranulocytosis, pancytopenia
 
-Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
+Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), hemophagocytic lymphohistiocytosis (HLH), acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction
 
 Renal—interstitial nephritis
 
@@ -104,7 +104,7 @@ Psychiatric disorders—delirium
 
 Respiratory—eosinophilic pneumonia
 
-Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
+Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative, and linear IgA bullous dermatosis
 
 Postmarketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.
 

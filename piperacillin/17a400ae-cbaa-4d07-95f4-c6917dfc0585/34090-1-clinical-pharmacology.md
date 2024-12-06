@@ -40,7 +40,7 @@ Piperacillin and tazobactam are widely distributed into tissues and body fluids 
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
 Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 9).
 
-| Table 9. Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
+| Table 9. Piperacillin and Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tissue or Fluid | Na | Sampling periodb (h) | Mean PIP Concentration Range (mg/L) | Tissue:Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue:Plasma Range |
 | Skin | 35 | 0.5 to 4.5 | 34.8 to 94.2 | 0.60 to 1.1 | 4.0 to 7.7 | 0.49 to 0.93 |
