@@ -547,11 +547,11 @@ Table 69: Efficacy Results in KEYNOTE-483
 | Median in months (95% CI) | 7.1 (6.9, 8.1) | 7.1 (6.8, 7.7) |
 | Hazard ratio (95% CI) | 0.80 (0.65, 0.99) |  |
 | p-Value | 0.0194 |  |
-| Overall Response Rate |  |  |
+| Objective Response Rate |  |  |
 | ORR % (95% CI) | 52% (45.5, 59.0) | 29% (23.0, 35.4) |
 | Complete responses | 1 (0.5%) | 0 (0%) |
 | Partial responses | 115 (52%) | 63 (29%) |
-| p-ValueBased on Miettinen & Nurminen method stratified by histological subtype at randomization (epithelioid vs non-epithelioid) | <0.00001 |  |
+| p-ValueBased on Miettinen and Nurminen method stratified by histological subtype at randomization (epithelioid vs. non-epithelioid) | <0.00001 |  |
 | Duration of ResponseBased on patients with a best overall response as confirmed complete or partial response; n=116 for patients in the KEYTRUDA combination arm; n=63 for patients in the chemotherapy arm |  |  |
 | Median in months (95% CI) | 6.9 (5.8, 8.3) | 6.8 (5.5, 8.5) |
 

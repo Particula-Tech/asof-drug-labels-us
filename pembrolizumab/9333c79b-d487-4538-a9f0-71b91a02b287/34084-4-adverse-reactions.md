@@ -184,12 +184,12 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Melanoma 
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 503 to 507 patients) and placebo (range: 492 to 498 patients). | KEYTRUDA 200 mg every 3 weeks |  | Placebo |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 502 to 505 patients) and placebo (range: 491 to 497 patients). | KEYTRUDA 200 mg every 3 weeks |  | Placebo |  |
 | Chemistry |  |  |  |  |
-| Increased ALT | 27 | 2.4 | 16 | 0.2 |
-| Increased AST | 24 | 1.8 | 15 | 0.4 |
+| Increased ALT | 25 | 2.4 | 15 | 0.2 |
+| Increased AST | 22 | 1.8 | 14 | 0.4 |
 | Hematology |  |  |  |  |
-| Lymphopenia | 24 | 1 | 16 | 1.2 |
+| Lymphopenia | 22 | 1 | 15 | 1.2 |
 
 NSCLC
 
@@ -238,8 +238,8 @@ Table 11: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/pemetrexed/platinum chemotherapy (range: 381 to 401 patients) and placebo/pemetrexed/platinum chemotherapy (range: 184 to 197 patients). | KEYTRUDA 200 mg every 3 weeks Pemetrexed Platinum Chemotherapy |  | Placebo Pemetrexed Platinum Chemotherapy |  |
 | Hematology |  |  |  |  |
 | Anemia | 85 | 17 | 81 | 18 |
-| Lymphopenia | 64 | 22 | 64 | 25 |
-| Neutropenia | 48 | 20 | 41 | 19 |
+| Lymphopenia | 65 | 22 | 64 | 25 |
+| Neutropenia | 50 | 21 | 41 | 19 |
 | Thrombocytopenia | 30 | 12 | 29 | 8 |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 63 | 9 | 60 | 7 |
@@ -322,7 +322,7 @@ Table 13: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients 
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 598 to 610 patients) and chemotherapy (range: 588 to 597 patients); increased prothrombin INR: KEYTRUDA n=203 and chemotherapy n=173. | KEYTRUDA 200 mg every 3 weeks |  | Chemotherapy |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 598 to 610 patients) and chemotherapy (range: 585 to 598 patients); increased prothrombin INR: KEYTRUDA n=203 and chemotherapy n=173. | KEYTRUDA 200 mg every 3 weeks |  | Chemotherapy |  |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 52 | 4.7 | 51 | 5 |
 | Increased ALT | 33 | 4.8 | 34 | 2.9 |
@@ -333,9 +333,10 @@ Table 13: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients 
 | Hypocalcemia | 25 | 2.5 | 19 | 0.7 |
 | Hyperkalemia | 23 | 3.0 | 20 | 2.2 |
 | Increased prothrombin INR | 21 | 2.0 | 15 | 2.9 |
+| Hypophosphatemia | 20 | 4.7 | 17 | 4.3 |
 | Hematology |  |  |  |  |
 | Anemia | 43 | 4.4 | 79 | 19 |
-| Lymphopenia | 30 | 7 | 41 | 13 |
+| Lymphopenia | 30 | 7 | 42 | 13 |
 
 Previously Treated NSCLC
 
@@ -384,14 +385,15 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of NSCLC Pat
 
 |  | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 631 to 638 patients) and docetaxel (range: 274 to 277 patients). | KEYTRUDA 2 or 10 mg/kg every 3 weeks |  | Docetaxel 75 mg/m2 every 3 weeks |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 631 to 638 patients) and docetaxel (range: 271 to 277 patients). | KEYTRUDA 2 or 10 mg/kg every 3 weeks |  | Docetaxel 75 mg/m2 every 3 weeks |  |
 | Chemistry |  |  |  |  |
 | Hyponatremia | 32 | 8 | 27 | 2.9 |
 | Increased alkaline phosphatase | 28 | 3.0 | 16 | 0.7 |
 | Increased AST | 26 | 1.6 | 12 | 0.7 |
 | Increased ALT | 22 | 2.7 | 9 | 0.4 |
+| Hypocalcemia | 20 | 0.9 | 20 | 1.8 |
 
-Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUDA were hyperglycemia (44% all Grades; 4.1% Grades 3-4), anemia (37% all Grades; 3.8% Grades 3-4), hypertriglyceridemia (36% all Grades; 1.8% Grades 3-4), lymphopenia (35% all Grades; 9% Grades 3-4), hypoalbuminemia (34% all Grades; 1.6% Grades 3-4), and hypercholesterolemia (20% all Grades; 0.7% Grades 3-4).
+Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUDA were hyperglycemia (44% all Grades; 4.1% Grades 3-4), anemia (37% all Grades; 3.8% Grades 3-4), hypertriglyceridemia (36% all Grades; 1.8% Grades 3-4), lymphopenia (32% all Grades; 9% Grades 3-4), hypoalbuminemia (34% all Grades; 1.6% Grades 3-4), and hypercholesterolemia (20% all Grades; 0.7% Grades 3-4).
 
 Neoadjuvant and Adjuvant Treatment of Resectable NSCLC
 
@@ -518,28 +520,28 @@ Table 16: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA i
 
 Table 17: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA in KEYNOTE-048
 
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/chemotherapy (range: 235 to 266 patients), KEYTRUDA (range: 241 to 288 patients), cetuximab/chemotherapy (range: 249 to 282 patients). | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/chemotherapy (range: 240 to 267 patients), KEYTRUDA (range: 245 to 292 patients), cetuximab/chemotherapy (range: 249 to 282 patients). | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | KEYTRUDA 200 mg every 3 weeks |  | KEYTRUDA 200 mg every 3 weeks Platinum FU |  | Cetuximab Platinum FU |  |
 | Hematology |  |  |  |  |  |  |
-| Lymphopenia | 54 | 25 | 69 | 35 | 74 | 45 |
-| Anemia | 52 | 7 | 89 | 28 | 78 | 19 |
+| Lymphopenia | 54 | 25 | 70 | 35 | 75 | 46 |
+| Anemia | 52 | 7 | 89 | 29 | 79 | 20 |
 | Thrombocytopenia | 12 | 3.8 | 73 | 18 | 76 | 18 |
-| Neutropenia | 7 | 1.4 | 67 | 35 | 71 | 42 |
+| Neutropenia | 8 | 1.4 | 68 | 37 | 73 | 43 |
 | Chemistry |  |  |  |  |  |  |
-| Hyperglycemia | 47 | 3.8 | 55 | 6 | 66 | 4.7 |
-| Hyponatremia | 46 | 17 | 56 | 20 | 59 | 20 |
-| Hypoalbuminemia | 44 | 3.2 | 47 | 4.0 | 49 | 1.1 |
-| Increased AST | 28 | 3.1 | 24 | 2.0 | 37 | 3.6 |
-| Increased ALT | 25 | 2.1 | 22 | 1.6 | 38 | 1.8 |
-| Increased alkaline phosphatase | 25 | 2.1 | 27 | 1.2 | 33 | 1.1 |
-| Hypercalcemia | 22 | 4.6 | 16 | 4.3 | 13 | 2.6 |
-| Hypocalcemia | 22 | 1.1 | 32 | 4 | 58 | 7 |
-| Hyperkalemia | 21 | 2.8 | 27 | 4.3 | 29 | 4.3 |
-| Hypophosphatemia | 20 | 5 | 35 | 12 | 48 | 19 |
-| Hypokalemia | 19 | 5 | 34 | 12 | 47 | 15 |
-| Increased creatinine | 18 | 1.1 | 36 | 2.3 | 27 | 2.2 |
-| Hypomagnesemia | 16 | 0.4 | 42 | 1.7 | 76 | 6 |
+| Hyperglycemia | 47 | 3.8 | 54 | 6 | 65 | 4.7 |
+| Hyponatremia | 46 | 18 | 55 | 20 | 59 | 20 |
+| Hypoalbuminemia | 44 | 3.5 | 46 | 3.9 | 49 | 1.1 |
+| Increased AST | 28 | 3.1 | 25 | 1.9 | 37 | 3.6 |
+| Increased ALT | 25 | 2.1 | 22 | 1.5 | 38 | 1.8 |
+| Increased alkaline phosphatase | 25 | 2.1 | 26 | 1.1 | 33 | 1.1 |
+| Hypercalcemia | 22 | 4.5 | 16 | 4.2 | 13 | 2.5 |
+| Hypocalcemia | 22 | 1.0 | 32 | 3.8 | 58 | 6 |
+| Hyperkalemia | 21 | 2.8 | 28 | 4.2 | 29 | 4.6 |
+| Hypophosphatemia | 20 | 5 | 34 | 12 | 49 | 20 |
+| Hypokalemia | 19 | 5 | 33 | 12 | 47 | 15 |
+| Increased creatinine | 17 | 1.0 | 36 | 2.3 | 27 | 2.1 |
+| Hypomagnesemia | 15 | 0.4 | 40 | 1.7 | 76 | 9 |
 
 Previously treated recurrent or metastatic HNSCC
 
@@ -618,25 +620,24 @@ Table 19: Laboratory Abnormalities (≥15%) That Worsened from Baseline in Patie
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
 | --- | --- | --- | --- | --- |
-| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 143 to 148 patients) and BV (range: 146 to 152 patients); hypomagnesemia: KEYTRUDA n=53 and BV n=50. | KEYTRUDA 200 mg every 3 weeks |  | Brentuximab Vedotin 1.8 mg/kg every 3 weeks |  |
+| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 143 to 148 patients) and BV (range: 145 to 152 patients); hypomagnesemia: KEYTRUDA n=52 and BV n=47. | KEYTRUDA 200 mg every 3 weeks |  | Brentuximab Vedotin 1.8 mg/kg every 3 weeks |  |
 | Chemistry |  |  |  |  |
-| Hyperglycemia | 46 | 4.1 | 36 | 2.0 |
-| Increased AST | 39 | 5 | 41 | 3.9 |
-| Increased ALT | 34 | 6 | 45 | 5 |
-| Hypophosphatemia | 31 | 5 | 18 | 2.7 |
-| Increased creatinine | 28 | 3.4 | 14 | 2.6 |
-| Hypomagnesemia | 25 | 0 | 12 | 0 |
+| Hyperglycemia | 45 | 4.1 | 36 | 2.0 |
+| Increased AST | 38 | 4.7 | 38 | 2.0 |
+| Increased ALT | 31 | 5 | 43 | 2.6 |
+| Hypophosphatemia | 31 | 4.9 | 17 | 2.8 |
+| Increased creatinine | 26 | 3.4 | 13 | 2.6 |
+| Hypomagnesemia | 23 | 0 | 13 | 0 |
 | Hyponatremia | 24 | 4.1 | 20 | 3.3 |
-| Hypocalcemia | 22 | 2.0 | 16 | 0 |
-| Increased alkaline phosphatase | 21 | 2.1 | 22 | 2.6 |
-| Hyperbilirubinemia | 16 | 2.0 | 9 | 1.3 |
-| Hypoalbuminemia | 16 | 0.7 | 19 | 0.7 |
-| Hyperkalemia | 15 | 1.4 | 8 | 0 |
+| Hypocalcemia | 21 | 2.0 | 15 | 0 |
+| Increased alkaline phosphatase | 19 | 2.1 | 21 | 2.0 |
+| Hypoalbuminemia | 16 | 0.7 | 18 | 0.7 |
+| Hyperbilirubinemia | 15 | 1.4 | 8 | 0.7 |
 | Hematology |  |  |  |  |
-| Lymphopenia | 35 | 9 | 32 | 13 |
-| Thrombocytopenia | 34 | 10 | 26 | 5 |
-| Neutropenia | 28 | 8 | 43 | 17 |
-| Anemia | 24 | 5 | 33 | 8 |
+| Lymphopenia | 34 | 8 | 32 | 13 |
+| Thrombocytopenia | 32 | 9 | 24 | 4.0 |
+| Neutropenia | 27 | 8 | 42 | 16 |
+| Anemia | 22 | 4.1 | 32 | 7 |
 
 KEYNOTE-087
 
@@ -686,13 +687,13 @@ Table 21: Select Laboratory Abnormalities (≥15%) That Worsened from Baseline i
 | --- | --- | --- |
 | Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 208 to 209 patients) | KEYTRUDA 200 mg every 3 weeks |  |
 | Chemistry |  |  |
-| HypertransaminasemiaIncludes elevation of AST or ALT | 34 | 2 |
+| HypertransaminasemiaIncludes elevation of AST or ALT | 35 | 2.4 |
 | Increased alkaline phosphatase | 17 | 0 |
 | Increased creatinine | 15 | 0.5 |
 | Hematology |  |  |
 | Anemia | 30 | 6 |
-| Thrombocytopenia | 27 | 4 |
-| Neutropenia | 24 | 7 |
+| Thrombocytopenia | 27 | 4.3 |
+| Neutropenia | 25 | 7 |
 
 Hyperbilirubinemia occurred in less than 15% of patients on KEYNOTE-087 (10% all Grades, 2.4% Grade 3-4).
 
@@ -736,21 +737,18 @@ Table 23: Laboratory Abnormalities (≥15%) That Worsened from Baseline in Patie
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) |
 | --- | --- | --- |
-| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 44 to 48 patients) | KEYTRUDA 200 mg every 3 weeks |  |
+| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 41 to 45 patients) | KEYTRUDA 200 mg every 3 weeks |  |
 | Hematology |  |  |
-| Anemia | 47 | 0 |
-| Leukopenia | 35 | 9 |
-| Lymphopenia | 32 | 18 |
-| Neutropenia | 30 | 11 |
+| Anemia | 23 | 0 |
+| Leukopenia | 47 | 12 |
+| Lymphopenia | 27 | 10 |
+| Neutropenia | 39 | 15 |
 | Chemistry |  |  |
-| Hyperglycemia | 38 | 4 |
-| Hypophosphatemia | 29 | 10 |
-| HypertransaminasemiaIncludes elevation of AST or ALT | 27 | 4 |
-| Hypoglycemia | 19 | 0 |
-| Increased alkaline phosphatase | 17 | 0 |
-| Increased creatinine | 17 | 0 |
-| Hypocalcemia | 15 | 4 |
-| Hypokalemia | 15 | 4 |
+| Hyperglycemia | 33 | 2.2 |
+| Hypophosphatemia | 24 | 11 |
+| HypertransaminasemiaIncludes elevation of AST or ALT | 24 | 4.4 |
+| Hypoglycemia | 20 | 0 |
+| Increased creatinine | 16 | 0 |
 
 Urothelial Cancer
 
@@ -1007,7 +1005,7 @@ Table 30: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 52 | 8 | 60 | 7 |
 | Anemia | 52 | 13 | 68 | 18 |
-| Lymphopenia | 45 | 15 | 53 | 25 |
+| Lymphopenia | 45 | 15 | 55 | 26 |
 | Hypoalbuminemia | 43 | 1.7 | 50 | 3.8 |
 | Hyponatremia | 37 | 9 | 47 | 13 |
 | Increased alkaline phosphatase | 37 | 7 | 33 | 4.9 |
@@ -1065,14 +1063,14 @@ Table 32: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | --- | --- | --- |
 | Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 124 to 147 patients) | KEYTRUDA 200 mg every 3 weeks |  |
 | Chemistry |  |  |
-| Hyperglycemia | 59 | 8 |
-| Increased ALT | 25 | 3.4 |
+| Hyperglycemia | 59 | 7 |
+| Increased ALT | 25 | 2.7 |
 | Hyponatremia | 24 | 7 |
 | Hypophosphatemia | 24 | 6 |
-| Hypoalbuminemia | 24 | 2.1 |
+| Hypoalbuminemia | 24 | 1.4 |
 | Hyperkalemia | 23 | 1.4 |
 | Hypocalcemia | 22 | 0.7 |
-| Increased AST | 20 | 3.4 |
+| Increased AST | 20 | 2.7 |
 | Increased creatinine | 20 | 0.7 |
 | Hematology |  |  |
 | Anemia | 35 | 1.4 |
@@ -1107,7 +1105,7 @@ Adverse reactions leading to interruption of KEYTRUDA occurred in 58% of patient
 In the KEYTRUDA arm versus placebo, there was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for diarrhea (53% vs 44%) and nausea (49% vs 44%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
-There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for increased ALT (34% vs 29%) and increased creatinine (20% vs 10%).
+There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for increased creatinine (20% vs 10%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Negative Gastric or Gastroesophageal Junction Adenocarcinoma
@@ -1215,23 +1213,23 @@ Table 36: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/cisplatin/FU (range: 345 to 365 patients) and placebo/cisplatin/FU (range: 330 to 358 patients) | KEYTRUDA 200 mg every 3 weeks Cisplatin FU |  | Chemotherapy (Cisplatin and FU) |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/cisplatin/FU (range: 353 to 365 patients) and placebo/cisplatin/FU (range: 347 to 359 patients) | KEYTRUDA 200 mg every 3 weeks Cisplatin FU |  | Chemotherapy (Cisplatin and FU) |  |
 | Hematology |  |  |  |  |
-| Anemia | 83 | 21 | 86 | 24 |
-| Neutropenia | 74 | 43 | 71 | 41 |
-| Leukopenia | 72 | 21 | 73 | 17 |
-| Lymphopenia | 55 | 22 | 53 | 18 |
+| Anemia | 84 | 21 | 87 | 25 |
+| Neutropenia | 77 | 44 | 73 | 41 |
+| Leukopenia | 73 | 21 | 73 | 17 |
+| Lymphopenia | 57 | 23 | 53 | 18 |
 | Thrombocytopenia | 43 | 5 | 46 | 8 |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 56 | 7 | 55 | 6 |
-| Hyponatremia | 53 | 19 | 54 | 19 |
-| Hypoalbuminemia | 52 | 2.8 | 52 | 2.3 |
+| Hyponatremia | 53 | 19 | 53 | 19 |
+| Hypoalbuminemia | 53 | 2.8 | 52 | 2.3 |
 | Increased creatinine | 45 | 2.5 | 42 | 2.5 |
-| Hypocalcemia | 44 | 3.9 | 38 | 2 |
+| Hypocalcemia | 44 | 3.9 | 37 | 2 |
 | Hypophosphatemia | 37 | 9 | 31 | 10 |
 | Hypokalemia | 30 | 12 | 34 | 15 |
 | Increased alkaline phosphatase | 29 | 1.9 | 29 | 1.7 |
-| Hyperkalemia | 28 | 3.6 | 27 | 2.6 |
+| Hyperkalemia | 28 | 3.6 | 28 | 2.5 |
 | Increased AST | 25 | 4.4 | 22 | 2.8 |
 | Increased ALT | 23 | 3.6 | 18 | 1.7 |
 
@@ -1363,21 +1361,21 @@ Table 40: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA plus chemotherapy (range: 297 to 301 patients) and placebo plus chemotherapy (range: 299 to 302 patients) | KEYTRUDA 200 mg every 3 weeks and chemotherapyChemotherapy (paclitaxel and cisplatin or paclitaxel and carboplatin) with or without bevacizumab n=307 |  | Placebo and chemotherapy with or without bevacizumab n=309 |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA plus chemotherapy (range: 296 to 301 patients) and placebo plus chemotherapy (range: 299 to 302 patients) | KEYTRUDA 200 mg every 3 weeks and chemotherapyChemotherapy (paclitaxel and cisplatin or paclitaxel and carboplatin) with or without bevacizumab n=307 |  | Placebo and chemotherapy with or without bevacizumab n=309 |  |
 | Hematology |  |  |  |  |
 | Anemia | 80 | 35 | 77 | 33 |
 | Leukopenia | 76 | 27 | 69 | 19 |
-| Neutropenia | 66 | 39 | 58 | 31 |
-| Lymphopenia | 61 | 33 | 56 | 33 |
+| Neutropenia | 73 | 43 | 62 | 32 |
+| Lymphopenia | 64 | 35 | 59 | 35 |
 | Thrombocytopenia | 57 | 19 | 53 | 15 |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 51 | 4.7 | 46 | 2.3 |
-| Hypoalbuminemia | 46 | 1.3 | 38 | 5 |
-| Hyponatremia | 40 | 14 | 38 | 11 |
+| Hypoalbuminemia | 46 | 1.4 | 37 | 5 |
+| Hyponatremia | 39 | 14 | 38 | 11 |
 | Increased ALT | 40 | 7 | 38 | 6 |
 | Increased AST | 40 | 6 | 36 | 3.0 |
 | Increased alkaline phosphatase | 38 | 3.4 | 40 | 2.3 |
-| Hypocalcemia | 37 | 4.0 | 31 | 5 |
+| Hypocalcemia | 37 | 4.1 | 31 | 5 |
 | Increased creatinine | 34 | 5 | 32 | 6 |
 | Hypokalemia | 29 | 7 | 26 | 7 |
 | Hyperkalemia | 23 | 3.7 | 27 | 4.7 |
@@ -1434,10 +1432,10 @@ Table 42: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 76 to 79 patients) | KEYTRUDA 200 mg every 3 weeks |  |
 | Hematology |  |  |
 | Anemia | 54 | 24 |
-| Lymphopenia | 47 | 9 |
+| Lymphopenia | 45 | 9 |
 | Chemistry |  |  |
 | Hypoalbuminemia | 44 | 5 |
-| Increased alkaline phosphatase | 42 | 2.6 |
+| Increased alkaline phosphatase | 40 | 1.3 |
 | Hyponatremia | 38 | 13 |
 | Hyperglycemia | 38 | 1.3 |
 | Increased AST | 34 | 3.9 |
@@ -1446,7 +1444,7 @@ Table 42: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Increased ALT | 21 | 3.9 |
 | Hypokalemia | 20 | 6 |
 
-Other laboratory abnormalities occurring in ≥10% of patients receiving KEYTRUDA were hypophosphatemia (19% all Grades; 6% Grades 3-4), increased INR (19% all Grades; 0% Grades 3-4), hypercalcemia (14% all Grades; 2.6% Grades 3-4), platelet count decreased (14% all Grades; 1.3% Grades 3-4), activated partial thromboplastin time prolonged (14% all Grades; 0% Grades 3-4), hypoglycemia (13% all Grades; 1.3% Grades 3-4), white blood cell decreased (13% all Grades; 2.6% Grades 3-4), and hyperkalemia (13% all Grades; 1.3% Grades 3-4).
+Other laboratory abnormalities occurring in ≥10% of patients receiving KEYTRUDA were hypophosphatemia (19% all Grades; 6% Grades 3-4), increased INR (17% all Grades; 0% Grades 3-4), hypercalcemia (14% all Grades; 2.6% Grades 3-4), platelet count decreased (14% all Grades; 1.3% Grades 3-4), activated partial thromboplastin time prolonged (10% all Grades; 0% Grades 3-4), hypoglycemia (13% all Grades; 1.3% Grades 3-4), white blood cell decreased (13% all Grades; 2.6% Grades 3-4), and hyperkalemia (13% all Grades; 1.3% Grades 3-4).
 
 HCC
 
@@ -1594,7 +1592,7 @@ Table 46: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/axitinib (range: 342 to 425 patients) and sunitinib (range: 345 to 422 patients). | KEYTRUDA 200 mg every 3 weeks and Axitinib |  | Sunitinib |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA/axitinib (range: 342 to 425 patients) and sunitinib (range: 345 to 421 patients). | KEYTRUDA 200 mg every 3 weeks and Axitinib |  | Sunitinib |  |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 62 | 9 | 54 | 3.2 |
 | Increased ALT | 60 | 20 | 44 | 5 |
@@ -1610,7 +1608,7 @@ Table 46: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Blood bilirubin increased | 22 | 2.1 | 21 | 1.9 |
 | Activated partial thromboplastin time prolongedTwo patients with a Grade 3 elevated activated partial thromboplastin time prolonged (aPTT) were also reported as having an adverse reaction of hepatotoxicity. | 22 | 1.2 | 14 | 0 |
 | Hematology |  |  |  |  |
-| Lymphopenia | 33 | 11 | 46 | 8 |
+| Lymphopenia | 33 | 11 | 47 | 9 |
 | Anemia | 29 | 2.1 | 65 | 8 |
 | Thrombocytopenia | 27 | 1.4 | 78 | 14 |
 
@@ -1759,13 +1757,13 @@ Table 50: SelectedLaboratory abnormalities occurring at same or higher incidence
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 440 to 449 patients) and placebo (range: 461 to 469 patients); increased INR: KEYTRUDA n=228 and placebo n=254. | KEYTRUDA 200 mg every 3 weeks |  | Placebo |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 440 to 449 patients) and placebo (range: 461 to 469 patients); increased INR: KEYTRUDA n=199 and placebo n=224. | KEYTRUDA 200 mg every 3 weeks |  | Placebo |  |
 | Chemistry |  |  |  |  |
-| Increased glucose | 48 | 8 | 45 | 4.5 |
-| Increased creatinine | 40 | 1.1 | 28 | 0.2 |
-| Increased INR | 27 | 0.9 | 20 | 0.8 |
+| Hyperglycemia | 48 | 8 | 45 | 4.5 |
+| Increased creatinine | 39 | 1.1 | 28 | 0.2 |
+| Increased INR | 29 | 1.0 | 20 | 0.9 |
 | Hyponatremia | 21 | 3.3 | 13 | 1.9 |
-| Increased ALT | 20 | 3.8 | 11 | 0.2 |
+| Increased ALT | 20 | 3.6 | 11 | 0.2 |
 | Hematology |  |  |  |  |
 | Anemia | 28 | 0.5 | 20 | 0.4 |
 
@@ -1856,7 +1854,7 @@ Table 52: Laboratory Abnormalities Worsened from BaselineWith at least one grade
 | Hypoalbuminemia | 60 | 2.7 | 42 | 1.6 |
 | Increased aspartate aminotransferase | 58 | 9 | 23 | 1.6 |
 | Hyperglycemia | 58 | 8 | 45 | 4.4 |
-| Hypomagnesemia | 53 | 6 | 32 | 3.8 |
+| Hypomagnesemia | 46 | 0 | 27 | 1.3 |
 | Increased alanine aminotransferase | 55 | 9 | 21 | 1.2 |
 | Hypercholesteremia | 53 | 3.2 | 23 | 0.7 |
 | Hyponatremia | 46 | 15 | 28 | 7 |
@@ -1871,11 +1869,11 @@ Table 52: Laboratory Abnormalities Worsened from BaselineWith at least one grade
 | Increased creatine kinase | 19 | 3.7 | 7 | 0 |
 | Increased bilirubin | 18 | 3.6 | 6 | 1.6 |
 | Hematology |  |  |  |  |
-| Lymphopenia | 50 | 16 | 65 | 20 |
+| Lymphopenia | 51 | 18 | 66 | 23 |
 | Thrombocytopenia | 50 | 8 | 30 | 4.7 |
 | Anemia | 49 | 8 | 84 | 14 |
 | Leukopenia | 43 | 3.5 | 83 | 43 |
-| Neutropenia | 31 | 6 | 76 | 58 |
+| Neutropenia | 34 | 8 | 80 | 60 |
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
 
@@ -1952,24 +1950,23 @@ Table 54: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA in combination with chemotherapy followed by KEYTRUDA as a single agent (range: 759 to 777 patients) and placebo in combination with chemotherapy followed by placebo (range: 378 to 389 patients). | KEYTRUDA 200 mg every 3 weeks with chemotherapyChemotherapy: carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide/KEYTRUDA |  | Placebo with chemotherapy/Placebo |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA in combination with chemotherapy followed by KEYTRUDA as a single agent (range: 762 to 777 patients) and placebo in combination with chemotherapy followed by placebo (range: 381 to 389 patients). | KEYTRUDA 200 mg every 3 weeks with chemotherapyChemotherapy: carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide/KEYTRUDA |  | Placebo with chemotherapy/Placebo |  |
 | Hematology |  |  |  |  |
 | Anemia | 97 | 22 | 96 | 19 |
 | Leukopenia | 93 | 41 | 91 | 32 |
 | Neutropenia | 88 | 62 | 89 | 62 |
-| Lymphopenia | 80 | 28 | 74 | 22 |
-| Thrombocytopenia | 58 | 11 | 57 | 9 |
+| Lymphopenia | 79 | 28 | 74 | 22 |
+| Thrombocytopenia | 57 | 10 | 56 | 8 |
 | Chemistry |  |  |  |  |
-| Increased ALT | 71 | 9 | 69 | 4.6 |
-| Increased AST | 66 | 6 | 58 | 1.8 |
-| Hyperglycemia | 65 | 5 | 62 | 2.8 |
-| Increased alkaline phosphatase | 41 | 1 | 37 | 0.8 |
-| Hyponatremia | 38 | 9 | 28 | 6 |
-| Hypoalbuminemia | 36 | 1.2 | 30 | 1.5 |
-| Hypocalcemia | 32 | 3.2 | 29 | 4.4 |
-| Hypokalemia | 32 | 6 | 24 | 2.8 |
-| Hypophosphatemia | 23 | 6 | 18 | 4.5 |
-| Hypercalcemia | 21 | 3 | 24 | 3.4 |
+| Increased ALT | 70 | 9 | 67 | 3.9 |
+| Increased AST | 65 | 6 | 56 | 1.5 |
+| Hyperglycemia | 63 | 4.3 | 61 | 2.8 |
+| Increased alkaline phosphatase | 37 | 1 | 35 | 0.5 |
+| Hyponatremia | 35 | 9 | 25 | 4.6 |
+| Hypoalbuminemia | 34 | 1.0 | 30 | 1.3 |
+| Hypocalcemia | 31 | 2.2 | 28 | 3.1 |
+| Hypokalemia | 31 | 6 | 22 | 2.8 |
+| Hypophosphatemia | 20 | 6 | 15 | 4.2 |
 
 Locally Recurrent Unresectable or Metastatic TNBC
 
@@ -2020,14 +2017,14 @@ Table 56: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Hematology |  |  |  |  |
 | Anemia | 90 | 20 | 85 | 19 |
 | Leukopenia | 85 | 39 | 86 | 39 |
-| Neutropenia | 76 | 49 | 77 | 52 |
-| Lymphopenia | 70 | 26 | 70 | 19 |
+| Neutropenia | 78 | 50 | 79 | 53 |
+| Lymphopenia | 73 | 28 | 71 | 19 |
 | Thrombocytopenia | 54 | 19 | 53 | 21 |
 | Chemistry |  |  |  |  |
 | Increased ALT | 60 | 11 | 58 | 8 |
 | Increased AST | 57 | 9 | 55 | 6 |
 | Hyperglycemia | 52 | 4.4 | 51 | 2.2 |
-| Hypoalbuminemia | 37 | 2.2 | 32 | 2.2 |
+| Hypoalbuminemia | 36 | 2.0 | 32 | 2.2 |
 | Increased alkaline phosphatase | 35 | 3.9 | 39 | 2.2 |
 | Hypocalcemia | 29 | 3.3 | 27 | 1.8 |
 | Hyponatremia | 28 | 5 | 26 | 6 |
