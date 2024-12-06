@@ -142,7 +142,7 @@ Table 7: Adverse Reactions with an Incidence >2%—Adult Procedural Sedation Pop
 | --- | --- | --- |
 | HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of <80 mmHg or ≤30% lower than pre-study drug infusion value, or Diastolic blood pressure of <50 mmHg. | 54% | 30% |
 | Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) <8 beats per minute or >25% decrease from baseline. | 37% | 32% |
-| BradycardiaBradycardia was defined in absolute and relative terms as <40 beats per minute or ≤30% lower than pre-study drug infusion value. Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Clinical Studies (14.2)]. Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Clinical Studies (14.2)]. | 14% | 4% |
+| BradycardiaBradycardia was defined in absolute and relative terms as <40 beats per minute or ≤30% lower than pre-study drug infusion value. Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Clinical Studies (14.2)]. | 14% | 4% |
 | HypertensionHypertension was defined in absolute and relative terms as Systolic blood pressure >180 mmHg or ≥30% higher than pre-study drug infusion value or Diastolic blood pressure of >100 mmHg. | 13% | 24% |
 | TachycardiaTachycardia was defined in absolute and relative terms as >120 beats per minute or ≥30% greater than pre-study drug infusion value. | 5% | 17% |
 | Nausea | 3% | 2% |
@@ -173,15 +173,15 @@ Table 8: Treatment-Emergent Adverse Events with Incidence >5%—Pediatric Patien
 | --- | --- | --- | --- | --- |
 | Number (%) of Pediatric Patients | n (%) | n (%) | n (%) | n (%) |
 | Adverse Event |  |  |  |  |
-| Bradypnea1 | 33 (79) | 27 (64) | 22 (58) | 82 (67) |
-| Bradycardia2 | 24 (57) | 24 (57) | 27 (71) | 75 (62) |
-| Hypertension3 | 11 (26) | 17 (41) | 18 (47) | 46 (38) |
-| Hypotension4 | 13 (31) | 11 (26) | 6 (16) | 30 (25) |
-| Hypoxia5 | 6 (14) | 3 (7) | 1 (3) | 10 (8) |
-| Diastolic Hypertension3 | 3 (7) | 3 (7) | 4 (11) | 10 (8) |
-| Systolic Hypertension3 | 1 (2) | 5 (12) | 3 (8) | 9 (7) |
+| BradypneaBradypnea was defined as respiratory rate <1st centile of the age adjusted normal range. | 33 (79) | 27 (64) | 22 (58) | 82 (67) |
+| BradycardiaBradycardia was defined as a decrease in HR of 30% from baseline or absolute HR ≤1st centile of the age adjusted normal range. | 24 (57) | 24 (57) | 27 (71) | 75 (62) |
+| HypertensionFor pediatric patients 1 month to less than 1 year old, hypertension was defined as supine systolic blood pressure ≥104 mm/Hg and/or diastolic blood pressure ≥56 mmHg measurements. For pediatric patients 1 to less than 17 years old: hypertension was defined as supine systolic blood pressure and/or diastolic blood pressure measurements ≥95th percentile for gender, age, and height. | 11 (26) | 17 (41) | 18 (47) | 46 (38) |
+| HypotensionHypotension was defined as a decrease in systolic blood pressure ≥30% from baseline. | 13 (31) | 11 (26) | 6 (16) | 30 (25) |
+| HypoxiaHypoxia was defined as oxygen saturation <90% for any duration. | 6 (14) | 3 (7) | 1 (3) | 10 (8) |
+| Diastolic Hypertension | 3 (7) | 3 (7) | 4 (11) | 10 (8) |
+| Systolic Hypertension | 1 (2) | 5 (12) | 3 (8) | 9 (7) |
 | Tachycardia | 3 (7) | 1 (2) | 1 (3) | 5 (4) |
-| N = Number of pediatric patients evaluable for adverse events.1 Bradypnea was defined as respiratory rate <1st centile of the age adjusted normal range.2 Bradycardia was defined as a decrease in HR of 30% from baseline or absolute HR ≤1st centile of the age adjusted normal range.3 For pediatric patients 1 month to less than 1 year old, hypertension was defined as supine systolic blood pressure ≥104 mm/Hg and/or diastolic blood pressure ≥56 mmHg measurements. For pediatric patients 1 to less than 17 years old: hypertension was defined as supine systolic blood pressure and/or diastolic blood pressure measurements ≥95th percentile for gender, age, and height.4 Hypotension was defined as a decrease in systolic blood pressure ≥30% from baseline.5 Hypoxia was defined as oxygen saturation <90% for any duration. |  |  |  |  |
+| N = Number of pediatric patients evaluable for adverse events. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

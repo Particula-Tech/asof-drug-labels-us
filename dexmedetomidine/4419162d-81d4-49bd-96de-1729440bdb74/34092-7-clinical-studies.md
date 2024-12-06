@@ -133,7 +133,7 @@ Table 17: PRECEDEX Loading and Maintenance Doses
 
 |  | High Dose |  | Middle Dose |  | Low Dose |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Age | Loading Dose (10 min) | Maintenance Dose | Loading Dose (10 min) | Maintenance Dose | Loading Dose (10 min) | Maintenance Dose |
+| Age | Loading Dose(10 min) | Maintenance Dose | Loading Dose(10 min) | Maintenance Dose | Loading Dose(10 min) | Maintenance Dose |
 | 1 month to less than 2 years | 1.5 mcg/kg | 1.5 mcg/kg/h | 1 mcg/kg | 1 mcg/kg/h | 0.5 mcg/kg | 0.5 mcg/kg/h |
 | 2 to less than 17 years | 2 mcg/kg | 1.5 mcg/kg/h | 1.2 mcg/kg | 1 mcg/kg/h | 0.5 mcg/kg | 0.5 mcg/kg/h |
 
@@ -145,14 +145,10 @@ Table 18: Percent of Pediatric Patients not Requiring Concomitant Propofol by Ag
 
 | Age Group |  | High Dose | Middle Dose | Low Dose | High Dose vs Low Dose |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | n (%)95% CI* | n (%)95% CI* | n (%)95% CI* | Odds Ratio95% CI** | p-value** |
+|  |  | n (%)95% CIExact 95% CI of proportion of subjects not requiring propofol in each dose level. | n (%)95% CI | n (%)95% CI | Odds Ratio95% CIp-values; CI is confidence interval of odds ratio. | p-value |
 | 1 month to less than 2 years | N=59 | 9/18 (50.0%)(0.26, 0.74) | 2/21 (9.5%)(0.01, 0.30) | 2/20 (15.0%)(0.03, 0.38) | 0.18 (0.04, 0.82) | 0.022 |
 | 2 to less than 17 years | N=63 | 15/20 (75.0%)(0.51, 0.91) | 13/21 (61.9%)(0.38, 0.82) | 3/22 (13.6%)(0.03, 0.35) | 0.05 (0.01, 0.26) | <0.001 |
 | Overall | N=122 | 24/38 (63.2%)(0.46, 0.78) | 15/42 (35.7%)(0.22, 0.52) | 6/42 (14.3%)(0.05, 0.29) | 0.10 (0.03, 0.29) | <0.001 |
-
-* Exact 95% CI of proportion of subjects not requiring propofol in each dose level.
-
-** p-values; CI is confidence interval of odds ratio.
 
 Secondarily, the sedative properties were also evaluated by examining the percent of time at a target sedation score using the Pediatric Sedation State Scale (PSSS).
 The PSSS is a validated 6-point scale specifically designed for evaluating pediatric patients undergoing sedation for diagnostic and therapeutic procedures.

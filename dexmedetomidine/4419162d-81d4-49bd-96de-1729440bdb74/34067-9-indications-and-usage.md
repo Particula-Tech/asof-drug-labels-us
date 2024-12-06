@@ -10,6 +10,6 @@ It is not necessary to discontinue PRECEDEX prior to extubation.
 
 ## 1.2 Procedural Sedation
 
-Precedex is indicated for sedation of non-intubated adult patients prior to and/or during surgical and other procedures.
+PRECEDEX is indicated for sedation of non-intubated adult patients prior to and/or during surgical and other procedures.
 
 PRECEDEX is indicated for sedation of non-intubated pediatric patients aged 1 month to less than 18 years prior to and during non-invasive procedures.
