@@ -19,5 +19,5 @@ Each tablet for oral suspension contains 2.75 mg rilpivirine hydrochloride equiv
 EDURANT PED 2.5 mg tablets for oral suspension are packaged in aluminum cold form film blister with integrated desiccant and an aluminum peelable lidding foil.
 Each blister contains 10 tablets with 9 blisters per carton (NDC 59676-280-90).
 
-Store EDURANT PED tablets for oral suspension in the original package in order to protect from moisture.
+Store EDURANT PED tablets for oral suspension in the original package in order to protect from light and moisture.
 Store at 20° to 25°C (68° to 77°F); with excursions permitted to 15° to 30°C (59° to 86°F) [see USP controlled room temperature].

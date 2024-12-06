@@ -32,7 +32,7 @@ Advise patients to inform their healthcare provider immediately of any signs or 
 EDURANT Tablets and EDURANT PED Tablets for Oral Suspension Are Not Substitutable
 
 Advise patients that EDURANT and EDURANT PED have differing pharmacokinetic profiles and are not substitutable on a milligram-per-milligram basis.
-Advise patients or their care providers that patients switching from EDURANT PED tablets for oral suspension to EDURANT tablets must adjust the dose [see Dosage and Administration (2.1, 2.3) and Warnings and Precautions (5.6)].
+Advise patients or their care providers that patients switching from EDURANT PED tablets for oral suspension to EDURANT tablets must adjust the dose [see Dosage and Administration (2.1, 2.3)and Warnings and Precautions (5.6)].
 
 To avoid a dosing error from using the wrong formulation of EDURANT, strongly advise patients and caregivers to visually inspect the tablets to verify the correct formulation each time the prescription is filled [see Dosage and Administration (2), Warnings and Precautions (5.6), and How Supplied/Storage and Handling (16)].
 

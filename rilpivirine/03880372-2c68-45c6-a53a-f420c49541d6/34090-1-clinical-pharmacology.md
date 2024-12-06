@@ -51,7 +51,7 @@ The distribution of rilpivirine into compartments other than plasma (e.g., cereb
 
 Metabolism
 
-In vitro experiments indicate that rilpivirine primarily undergoes oxidative metabolism mediated by the cytochrome P450 (CYP) 3A system.
+In vitroexperiments indicate that rilpivirine primarily undergoes oxidative metabolism mediated by the cytochrome P450 (CYP) 3A system.
 
 Elimination
 
@@ -81,7 +81,7 @@ Table 8: Pharmacokinetic Results of Total Rilpivirine After Administration of Ri
 
 Pediatric Patients
 
-The pharmacokinetics of rilpivirine in HIV-1 infected pediatric patients 2 to less than 18 years of age and weighing at least 16 kg receiving the recommended weight-based dosing regimen of EDURANT and EDURANT PED were comparable or slightly higher than those obtained in treatment-naïve HIV-1 infected adult patients (see Table 9and Table 10).
+The pharmacokinetics of rilpivirine in HIV-1 infected pediatric patients 2 to less than 18 years of age and weighing at least 16 kg receiving the recommended weight-based dosing regimen of EDURANT and EDURANT PED were comparable or slightly higher than those obtained in treatment-naïve HIV-1 infected adult patients (see Table 9 and Table 10).
 
 Table 9: Pharmacokinetic Estimates of Rilpivirine After Administration of the Recommended Daily Oral Dosing Regimen in Pediatric Patients ≥6 to <18 Years (Trial TMC278-C213) The 12.5 mg and 15 mg doses were administered as 5 and 6 dispersed 2.5 mg tablets, respectively.
 The 25 mg dose was administered as one 25 mg tablet.

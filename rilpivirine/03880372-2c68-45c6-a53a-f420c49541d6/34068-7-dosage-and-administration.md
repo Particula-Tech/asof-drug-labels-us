@@ -8,18 +8,18 @@ EDURANT is available in two dosage forms:
 - EDURANT PED 2.5 mg tablets for oral suspension should only be given to pediatric patients weighing at least 14 kg to less than 25 kg [see Dosage and Administration (2.3)].
 
 Do not substitute EDURANT tablets and EDURANT PED tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles.
-A difference in bioavailability between 1 × 25 mg film-coated tablet and 10 × 2.5 mg tablets for oral suspension was observed; therefore, they are NOT substitutable [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+A difference in bioavailability between 1 × 25 mg film-coated tablet and 10 × 2.5 mg tablets for oral suspension was observed; therefore, they are NOT substitutable [see Warnings and Precautions (5.6)and Clinical Pharmacology (12.3)].
 
 Take EDURANT and EDURANT PED once daily with a meal in combination with other antiretrovirals [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Recommended Dosage in Treatment-Naïve Adult Patients
 
-The recommended dosage of EDURANT in adult patients is one 25 mg tablet taken orally once daily with a meal [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+The recommended dosage of EDURANT in adult patients is one 25 mg tablet taken orally once daily with a meal [see Use in Specific Populations (8.1)and Clinical Pharmacology (12.3)].
 
 ## 2.3 Recommended Dosage in Treatment-Naïve Pediatric Patients 2 Years of Age and Older and Weighing at least 14 kg
 
 The recommended dosage of EDURANT and EDURANT PED in pediatric patients 2 years of age and older and weighing at least 14 kg is based on body weight (see Table 1).
-Both EDURANT and EDURANT PED should be taken orally once daily with a meal [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+Both EDURANT and EDURANT PED should be taken orally once daily with a meal [see Use in Specific Populations (8.4)and Clinical Pharmacology (12.3)].
 
 Table 1: Recommended Dosage of EDURANT and EDURANT PED for Pediatric Patients
 
@@ -52,7 +52,7 @@ The following instructions should be followed:
 
 For pregnant patients who are already on a stable EDURANT regimen prior to pregnancy and who are virologically suppressed (HIV-1 RNA less than 50 copies per mL) the recommended dosage in adults and pediatric patients weighing at least 25 kg is one 25 mg tablet once daily taken orally with a meal.
 Refer to Table 1 for dosing recommendations for pediatric patients [see Dosage and Administration (2.2, 2.3)].
-Lower exposures of rilpivirine were observed during pregnancy, therefore viral load should be monitored closely [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+Lower exposures of rilpivirine were observed during pregnancy, therefore viral load should be monitored closely [see Use in Specific Populations (8.1)and Clinical Pharmacology (12.3)].
 
 ## 2.6 Recommended Dosage in Combination with Cabotegravir in Adults and Adolescents 12 Years of Age and Older and Weighing at least 35 kg
 
@@ -91,7 +91,7 @@ See full prescribing information for CABENUVA to resume every-2-month injection 
 ## 2.7 Recommended Dosage with Rifabutin Coadministration
 
 If EDURANT is coadministered with rifabutin, the EDURANT dose should be increased to 50 mg (two 25 mg tablets) once daily, taken with a meal.
-When rifabutin coadministration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+When rifabutin coadministration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal [see Drug Interactions (7)and Clinical Pharmacology (12.3)].
 
 Note that use of CABENUVA (cabotegravir extended-release injectable suspension; rilpivirine extended-release injectable suspension) with rifabutin is contraindicated.
 Refer to CABENUVA labeling for additional detail.

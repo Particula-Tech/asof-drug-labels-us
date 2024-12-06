@@ -6,7 +6,7 @@ The evidence of efficacy of EDURANT is based on the analyses of 48- and 96-week 
 Antiretroviral treatment-naïve HIV-1 infected subjects enrolled in the Phase 3 trials had a plasma HIV-1 RNA ≥5000 copies/mL and were screened for susceptibility to N(t)RTIs and for absence of specific NNRTI resistance-associated substitutions (RASs).
 The Phase 3 trials were identical in design, apart from the background regimen (BR).
 In TMC278-C209, the BR was fixed to the N(t)RTIs, tenofovir disoproxil fumarate plus emtricitabine.
-In TMC278-C215, the BR consisted of 2 investigator-selected N(t)RTIs: tenofovir disoproxil fumarate plus emtricitabine orzidovudine plus lamivudine orabacavir plus lamivudine.
+In TMC278-C215, the BR consisted of 2 investigator-selected N(t)RTIs: tenofovir disoproxil fumarate plus emtricitabine or zidovudine plus lamivudine or abacavir plus lamivudine.
 In both trials, randomization was stratified by screening viral load.
 In TMC278-C215, randomization was also stratified by N(t)RTI BR.
 
@@ -79,7 +79,7 @@ At Week 96, the mean CD4+ cell count increase from baseline was 228 cells/mm 3fo
 Study TMC278-C204 was a randomized, active-controlled, Phase 2b trial in antiretroviral treatment-naïve HIV-1-infected adult subjects consisting of 2 parts: an initial 96 weeks, partially-blinded dose-finding part [EDURANT doses blinded] followed by a long-term, open-label part.
 After Week 96, subjects randomized to one of the 3 doses of EDURANT were switched to EDURANT 25 mg once daily.
 Subjects in the control arm received efavirenz 600 mg once daily in addition to a BR in both parts of the study.
-The BR consisted of 2 investigator-selected N(t)RTIs: zidovudine plus lamivudine ortenofovir disoproxil fumarate plus emtricitabine.
+The BR consisted of 2 investigator-selected N(t)RTIs: zidovudine plus lamivudine or tenofovir disoproxil fumarate plus emtricitabine.
 
 Study TMC278-C204 enrolled 368 HIV-1-infected treatment-naïve adult subjects who had a plasma HIV-1 RNA ≥5000 copies/mL, previously received ≤2 weeks of treatment with an N(t)RTI or protease inhibitor, had no prior use of NNRTIs, and were screened for susceptibility to N(t)RTI and for absence of specific NNRTI RASs.
 
@@ -119,4 +119,4 @@ Two out of 18 (11%) participants in the 15 mg once daily (20 to ≤25 kg) dose-w
 The viral load for these 2 subjects was <50 copies/mL, post-Week 48.
 The mean increase (SE) in CD4+ from baseline was 215.9 (62.42) cells/µL at Week 48.
 
-The safety and efficacy of EDURANT and EDURANT PED in treatment naïve pediatric subjects 2 to less than 6 years of age is supported by evidence from adequate and well-controlled studies of EDURANT in adults with additional population pharmacokinetic data from adults and pediatric subjects 6 years and older [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+The safety and efficacy of EDURANT and EDURANT PED in treatment naïve pediatric subjects 2 to less than 6 years of age is supported by evidence from adequate and well-controlled studies of EDURANT in adults with additional population pharmacokinetic data from adults and pediatric subjects 6 years and older [see Use in Specific Populations (8.4)and Clinical Pharmacology (12.3)].

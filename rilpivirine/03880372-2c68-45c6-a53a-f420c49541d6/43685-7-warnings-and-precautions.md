@@ -6,7 +6,7 @@ Severe skin and hypersensitivity reactions have been reported during the postmar
 While some skin reactions were accompanied by constitutional symptoms such as fever, other skin reactions were associated with organ dysfunctions, including elevations in hepatic serum biochemistries.
 During the Phase 3 clinical trials, treatment-related rashes with at least Grade 2 severity were reported in 3% of subjects receiving EDURANT.
 No Grade 4 rash was reported.
-Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6.1 and 6.2)].
+Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6.1and 6.2)].
 Discontinue EDURANT or EDURANT PED immediately if signs or symptoms of severe skin or hypersensitivity reactions develop, including but not limited to, severe rash or rash accompanied by fever, blisters, mucosal involvement, conjunctivitis, facial edema, angioedema, hepatitis or eosinophilia.
 Clinical status including laboratory parameters should be monitored and appropriate therapy should be initiated.
 
@@ -42,15 +42,15 @@ The concomitant use of EDURANT or EDURANT PED and other drugs may result in pote
 - Loss of therapeutic effect of EDURANT or EDURANT PED and possible development of resistance.
 
 In healthy subjects, 75 mg once daily and 300 mg once daily (3 times and 12 times the dose in EDURANT) have been shown to prolong the QTc interval of the electrocardiogram.
-Consider alternatives to EDURANT or EDURANT PED when coadministered with a drug that is known to have a risk of torsade de pointes [see Drug Interactions (7) and Clinical Pharmacology (12.2)].
+Consider alternatives to EDURANT or EDURANT PED when coadministered with a drug that is known to have a risk of torsade de pointes [see Drug Interactions (7)and Clinical Pharmacology (12.2)].
 
-See Table 6for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during EDURANT or EDURANT PED therapy and review concomitant medications during therapy.
 
 ## 5.5 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EDURANT.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium aviuminfection, cytomegalovirus, Pneumocystis jiroveciipneumonia or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 

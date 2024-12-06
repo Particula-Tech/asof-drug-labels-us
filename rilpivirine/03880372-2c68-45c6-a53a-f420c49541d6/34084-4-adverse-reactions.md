@@ -235,6 +235,6 @@ At Week 48, 6 subjects had normal (basal) cortisol (≥9 ug/dL) and the Week 48 
 Adverse reactions have been identified during postmarketing experience in patients receiving a rilpivirine containing regimen.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Renal and Genitourinary Disorders:nephrotic syndrome
+Renal and Genitourinary Disorders: nephrotic syndrome
 
-Skin and Subcutaneous Tissue Disorders:Severe skin and hypersensitivity reactions including DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)
+Skin and Subcutaneous Tissue Disorders: Severe skin and hypersensitivity reactions including DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)
