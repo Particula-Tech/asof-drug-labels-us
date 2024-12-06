@@ -13,3 +13,12 @@ Warfarin:Instruct patients on chronic warfarin therapy to follow instructions fr
 
 Hormonal Contraceptives:Advise patients that administration of FOCINVEZ may reduce the efficacy of hormonal contraceptives.
 Instruct patients to use effective alternative or back-up methods of contraception (such as condoms and spermicides) during treatment with FOCINVEZ and for 1 month following administration of fosaprepitant or oral aprepitant [see Warnings and Precautions (5.5) and Use in Specific Populations(8.3)].
+
+Manufactured for:
+
+Steriscience Pte.
+Limited
+
+Manufactured by:
+
+Steriscience Specialties Private Limited- Sterile Product Division Opp IIM, Bilekahalli, Bannerghatta Road, Bengaluru, Karnataka 560076, India.

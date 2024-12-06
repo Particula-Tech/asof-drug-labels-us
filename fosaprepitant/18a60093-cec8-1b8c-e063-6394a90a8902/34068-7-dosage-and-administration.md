@@ -73,7 +73,7 @@ Table 4.
 | 6 Months to 17 Years | Dexamethasone d | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4 |  |  |
 | 6 Months to 17 Years | 5-HT 3antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage |  |  |
 
-aDosing in pediatric patients less than 6 kg is not recommended b The concentration of FOCINVEZ is 3 mg/mL. cFor patients 12 years to 17 years who cannot swallow oral capsules, aprepitant for oral suspension can be used instead. dAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1
+aDosing in pediatric patients less than 6 kg is not recommended bThe concentration of FOCINVEZ is 3 mg/mL. cFor patients 12 years to 17 years who cannot swallow oral capsules, aprepitant for oral suspension can be used instead. dFor patients less than 12 years of age who weigh at least 40 kg and who are able to swallow oral capsules, aprepitant capsules can be used on Days 2 and 3. eAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1.
 
 Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
 However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -90,27 +90,19 @@ Adults The entire volume of the vial (50 mL) should be administered.
 Pediatrics In patients 12 years and older, the volume to be administered is calculated as follows:
 
 - Volume to administer (mL) = the recommended dose (mg) / 3 (mg/mL) *
-
-In patients 6 months to less than 12 years, the volume to be administered is calculated as follows:
-
+- In patients 6 months to less than 12 years, the volume to be administered is calculated as follows:
 - Volume to administer (mL) = the recommended dose (mg/kg) x weight (kg) / 3 (mg/mL)*
-
-Note: Do not exceed the maximum dose﻿ [see Dosage and Administration (2.2)]
-
+- Note: Do not exceed the maximum dose﻿ [see Dosage and Administration (2.2)]
 - In pediatric patients, the entire volume in vial may NOTbe required.
   Discard the unused portion.
-
 - * The recommended dose of FOCINVEZ is based on the patient’s age and weight.
   The concentration of FOCINVEZ is 3 mg/mL.
-
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
   Do not use if solution is cloudy, contains precipitates, or if the red flip top cap is not intact.
-
-- Vial may be inverted for use with a medical infusion set.
-  The vial hanger can be seperated from the vial label and hanged from an IV pole.
-
 - Allow FOCINVEZ to come to room temperature before use if the injection is NOTstored at room temperature.
-
+- Use a vented infusion set when FOCINVEZ is infused from the bottle.
+- The vial hanger can be separated from the vial label.
+- Gently invert the bottle and hang the bottle using the attached hanger and start infusion.
 - Caution:Do not mix FOCINVEZ with solutions for which physical and chemical compatibility have not been established.
   FOCINVEZ is incompatible with any solutions containing divalent cations (e.g., Ca 2+, Mg 2+), including Lactated Ringer’s Solution and Hartmann's Solution.
 
