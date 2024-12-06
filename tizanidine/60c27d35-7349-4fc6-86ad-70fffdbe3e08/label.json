@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA020397",
+    "NDA021447"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Legacy Pharma USA, Inc.",
+  "package_ndcs": [
+    "83107-001-15",
+    "83107-002-15",
+    "83107-003-15",
+    "83107-004-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tizanidine hydrochloride",
+      "name": "Zanaflex"
+    },
+    {
+      "form": "TABLET",
+      "generic": "tizanidine hydrochloride",
+      "name": "Zanaflex"
+    }
+  ],
+  "setid": "60c27d35-7349-4fc6-86ad-70fffdbe3e08",
+  "source": "dailymed"
+}
