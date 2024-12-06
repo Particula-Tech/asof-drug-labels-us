@@ -10,7 +10,7 @@ Its molecular weight is 295.80.
 
 Each 5 mL of Oral Solution for oral administration contains:
 
-1. Propranolol Hydrochloride, USP ………………………….20 mg or 40 mg
+Propranolol Hydrochloride, USP ………………………….20 mg or 40 mg
 
 Alcohol……………………………………………………0.6%
 
