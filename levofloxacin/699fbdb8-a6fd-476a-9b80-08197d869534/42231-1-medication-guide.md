@@ -265,9 +265,9 @@ LEVOFLOXACIN Injection in 5% dextrose in Single-Use Flexible Containers:
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2024 Sagent Pharmaceuticals
 
-Revised: July 2019
+Revised: September 2024
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

@@ -13,3 +13,35 @@ Rx only
 250 mg in 50 mL 5% Dextrose
 
 INFUSE OVER 60 MINUTES
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Bag Label
+
+NDC 25021-132-82
+
+100 mL
+
+Levofloxacin Injection in 5% Dextrose
+
+500 mg (5 mg per mL)
+
+Rx only
+
+500 mg in 100 mL 5% Dextrose
+
+INFUSE OVER 60 MINUTES
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Bag Label
+
+NDC 25021-132-83
+
+150 mL
+
+Levofloxacin Injection in 5% Dextrose
+
+750 mg (5 mg per mL)
+
+Rx only
+
+750 mg in 150 mL 5% Dextrose
+
+INFUSE OVER 90 MINUTES
