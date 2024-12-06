@@ -42,3 +42,5 @@ Metabolic:Hypoglycemia, hyponatremia
 Nervous:Aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage
 
 Renal:Interstitial nephritis
+
+Skin and Appendages: Erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE) [see Warnings and Precautions (5.9)].

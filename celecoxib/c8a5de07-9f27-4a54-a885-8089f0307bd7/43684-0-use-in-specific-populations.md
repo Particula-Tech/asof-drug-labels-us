@@ -84,7 +84,6 @@ Risk Summary
 Limited data from 3 published reports that included a total of 12 breastfeeding women showed low levels of celecoxib in breast milk.
 The calculated average daily infant dose was 10 to 40 mcg/kg/day, less than 1% of the weight-based therapeutic dose for a two-year old-child.
 A report of two breastfed infants who were 17 and 22 months of age did not show any adverse events.
-
 There is no information available regarding the effects of celecoxib on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ELYXYB and any potential adverse effects on the breastfed infant from the celecoxib or from the underlying maternal condition.
 

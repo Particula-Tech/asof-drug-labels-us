@@ -11,7 +11,6 @@ Patients enrolled in the trials were predominantly female (86%) and White (74%),
 The primary efficacy analyses were conducted in patients who treated a migraine with moderate to severe pain.
 The efficacy of ELYXYB was established by an effect on pain freedom at 2 hours post-dose and most bothersome symptom (MBS) freedom at 2 hours post-dose.
 Pain freedom was defined as a reduction of moderate or severe headache pain to no pain, and MBS freedom was defined as the absence of the self-identified MBS (photophobia, phonophobia, or nausea).
-
 Among patients who selected a MBS, the most commonly selected MBS was photophobia (56%), followed by nausea (25%), and phonophobia (18%).
 
 In both studies, the percentage of patients achieving MBS freedom at 2 hours post-dose was significantly greater among patients receiving ELYXYB, compared to those receiving placebo.

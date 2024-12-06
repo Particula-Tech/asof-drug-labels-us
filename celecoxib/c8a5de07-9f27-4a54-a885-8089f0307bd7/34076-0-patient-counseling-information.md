@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guideand Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Administration Information
 
@@ -62,10 +62,12 @@ Inform patients not to use low-dose aspirin concomitantly with ELYXYB until they
 
 ELYXYB is a trademark of SCILEX Pharmaceuticals Inc.
 
-Manufactured by: Contract Pharmaceuticals Limited, Mississauga, Ontario, Canada Manufactured for: SCILEX Pharmaceuticals Inc., Palo Alto, CA 94303
+Manufactured by: Contract Pharmaceuticals Limited, Mississauga, Ontario, Canada
+
+Manufactured for: SCILEX Pharmaceuticals Inc., Palo Alto, CA 94303
 
 Active Ingredient Made in India
 
 ©2023 SCILEX Pharmaceuticals Inc. All rights reserved.
 
-ELY-00083 06/2023
+ELY-00194 11/2024

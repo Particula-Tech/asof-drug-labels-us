@@ -98,8 +98,7 @@ Long-term administration of NSAIDs, including celecoxib, the active ingredient i
 
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-
-Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia,heart failure, liver dysfunction, those taking diuretics, ACE-inhibitors or the ARBs, and the elderly.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics, ACE-inhibitors or the ARBs, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 No information is available from controlled clinical studies regarding the use of celecoxib in patients with severe renal impairment.
@@ -127,7 +126,7 @@ When ELYXYB is used in patients with preexisting asthma (without known aspirin s
 
 ## 5.9 Serious Skin Reactions
 
-Serious skin reactions have occurred following treatment with celecoxib, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.10)], and acute generalized exanthematous pustulosis (AGEP).
+Serious skin reactions have occurred following treatment with celecoxib, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.10)], acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE), which may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE).
 These serious events may occur without warning and can be fatal.
 
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of ELYXYB at the first appearance of skin rash or any other sign of hypersensitivity.
