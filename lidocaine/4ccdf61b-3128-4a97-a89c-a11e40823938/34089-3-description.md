@@ -8,11 +8,11 @@ The net weight of lidocaine is 2.1 g and of tetracaine is 2.1 g per 30 g tube.
 
 Lidocaine, an amide local anesthetic, is chemically designated as acetamide,2-(diethylamino)-N-(2,6-dimethylphenyl) and has an octanol:water partition ratio of 182 at pH 7.3.
 
-The molecular weight of lidocaine is 234.3, and the molecular formula is C14H22N2O.
+The molecular weight of lidocaine is 234.3, and the molecular formula is C 14H 22N 2O.
 The structural formula is:
 
 Tetracaine, an ester local anesthetic, is chemically designated as 2-dimethylaminoethyl 4-n-butyl-aminobenzoate and has an octanol:water partition ratio of 5370 at pH 7.3.
-The molecular weight of tetracaine is 264.4, and the molecular formula is C15H24N2O2.
+The molecular weight of tetracaine is 264.4, and the molecular formula is C 15H 24N 2O 2.
 The structural formula is:
 
 Each gram of PLIAGLIS contains lidocaine 70 mg and tetracaine 70 mg in a 1:1 eutectic mixture and it also contains the following inactive ingredients: anhydrous dibasic calcium phosphate, methylparaben, polyvinyl alcohol, propylparaben, purified water, sorbitan monopalmitate, and white petrolatum.

@@ -16,9 +16,9 @@
 ## 2.2 Recommended Dosing Duration
 
 - For superficial dermatological procedures, such as dermal filler injection, non-ablative laser facial resurfacing, or pulsed-dye laser therapy, apply PLIAGLIS to intact skin for 20 to 30 minutes prior to the procedure.
-  See Table 1 for instructions on the amount to apply.
+  See Table 1for instructions on the amount to apply.
 - For superficial dermatological procedures, such as laser-assisted tattoo removal, apply PLIAGLIS to intact skin for 60 minutes prior to the procedure.
-  See Table 1 for instructions on the amount to apply.
+  See Table 1for instructions on the amount to apply.
 
 ## 2.3 Recommended Dosage
 
@@ -36,7 +36,7 @@ The amount (length) of PLIAGLIS that should be dispensed is determined by the si
 Table 1.
 Amount of PLIAGLIS According to Treatment Site Surface Area
 
-| Surface Area of Treatment Site (inch2) | Length of PLIAGLIS for 1 mm Thickness (inch) | Weight of PLIAGLIS Dispensed (g) |
+| Surface Area of Treatment Site (inch 2) | Length of PLIAGLIS for 1 mm Thickness (inch) | Weight of PLIAGLIS Dispensed (g) |
 | --- | --- | --- |
 | 2 | 1 | 1 |
 | 3 | 2 | 3 |

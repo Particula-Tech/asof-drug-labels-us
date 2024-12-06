@@ -22,22 +22,22 @@ Data
 
 Animal Data
 
-Lidocaine administered by subcutaneous injection to pregnant rats during organogenesis was not teratogenic at doses up to 60 mg/kg (0.16 times the level of lidocaine contained in the MRHD of 53 grams of PLIAGLIS based on a mg/m2 body surface area (BSA) comparison).
-Lidocaine administered by subcutaneous injection to pregnant rabbits during organogenesis was not teratogenic at doses up to 15 mg/kg (0.08 times the level of lidocaine in the MRHD of PLIAGLIS on a mg/m2 basis).
+Lidocaine administered by subcutaneous injection to pregnant rats during organogenesis was not teratogenic at doses up to 60 mg/kg (0.16 times the level of lidocaine contained in the MRHD of 53 grams of PLIAGLIS based on a mg/m 2body surface area (BSA) comparison).
+Lidocaine administered by subcutaneous injection to pregnant rabbits during organogenesis was not teratogenic at doses up to 15 mg/kg (0.08 times the level of lidocaine in the MRHD of PLIAGLIS on a mg/m 2basis).
 
-In a published study, lidocaine administered to pregnant rats by continuous subcutaneous infusion during the period of organogenesis at 100, 250, and 500 mg/kg/day, did not produce any structural abnormalities, but did result in lower fetal weights at 500 mg/kg/day dose (approximately 1.3 times the level of lidocaine in the MRHD of PLIAGLIS on a mg/m2 basis) in the absence of maternal toxicity.
+In a published study, lidocaine administered to pregnant rats by continuous subcutaneous infusion during the period of organogenesis at 100, 250, and 500 mg/kg/day, did not produce any structural abnormalities, but did result in lower fetal weights at 500 mg/kg/day dose (approximately 1.3 times the level of lidocaine in the MRHD of PLIAGLIS on a mg/m 2basis) in the absence of maternal toxicity.
 
-Tetracaine administered by subcutaneous injection to pregnant rats during organogenesis was not teratogenic at doses up to 10 mg/kg or in rabbits at doses up to 5 mg/kg (equivalent to 0.03 times of tetracaine in the MRHD of PLIAGLIS on a mg/m2 basis).
+Tetracaine administered by subcutaneous injection to pregnant rats during organogenesis was not teratogenic at doses up to 10 mg/kg or in rabbits at doses up to 5 mg/kg (equivalent to 0.03 times of tetracaine in the MRHD of PLIAGLIS on a mg/m 2basis).
 
-Lidocaine and tetracaine administered by subcutaneous injection to pregnant rats during organogenesis as a 1:1 eutectic mixture of 10 mg/kg each (equivalent to 0.03 times the active components in the MRHD of PLIAGLIS on a mg/m2 basis) was not teratogenic.
-Lidocaine and tetracaine by subcutaneous injection to pregnant rabbits during organogenesis as a 1:1 eutectic mixture of 5 mg/kg each was not teratogenic in rabbits (equivalent to 0.03 times the active components in the MRHD of PLIAGLIS on a mg/m2 basis).
+Lidocaine and tetracaine administered by subcutaneous injection to pregnant rats during organogenesis as a 1:1 eutectic mixture of 10 mg/kg each (equivalent to 0.03 times the active components in the MRHD of PLIAGLIS on a mg/m 2basis) was not teratogenic.
+Lidocaine and tetracaine by subcutaneous injection to pregnant rabbits during organogenesis as a 1:1 eutectic mixture of 5 mg/kg each was not teratogenic in rabbits (equivalent to 0.03 times the active components in the MRHD of PLIAGLIS on a mg/m 2basis).
 
-Lidocaine containing 1:100,000 epinephrine at a dose of 6 mg/kg (approximately 0.02 times the level of lidocaine in the MRHD of PLIAGLIS on a mg/m2 basis) injected into the masseter muscle of the jaw or into the gum of the lower jaw of pregnant Long-Evans hooded rats on Gestation Day 11, lead to developmental delays in neonatal behavior among offspring.
+Lidocaine containing 1:100,000 epinephrine at a dose of 6 mg/kg (approximately 0.02 times the level of lidocaine in the MRHD of PLIAGLIS on a mg/m 2basis) injected into the masseter muscle of the jaw or into the gum of the lower jaw of pregnant Long-Evans hooded rats on Gestation Day 11, lead to developmental delays in neonatal behavior among offspring.
 Developmental delays were observed for negative geotaxis, static righting reflex, visual discrimination response, sensitivity and response to thermal and electrical shock stimuli, and water maze acquisition.
 The developmental delays of the neonatal animals were transient with responses becoming comparable to untreated animals later in life.
 The clinical relevance of the animal data is uncertain.
 
-Pre- and post-natal maturational, behavioral, or reproductive development was not affected by maternal subcutaneous administration of tetracaine during gestation (Gestation Day 6 to Post-Partum Day 20) and lactation up to doses of 7.5 mg/kg (equivalent to 0.02 times the level of tetracaine in the MRHD of PLIAGLIS on a mg/m2 basis).
+Pre- and post-natal maturational, behavioral, or reproductive development was not affected by maternal subcutaneous administration of tetracaine during gestation (Gestation Day 6 to Post-Partum Day 20) and lactation up to doses of 7.5 mg/kg (equivalent to 0.02 times the level of tetracaine in the MRHD of PLIAGLIS on a mg/m 2basis).
 
 ## 8.2 Lactation
 
