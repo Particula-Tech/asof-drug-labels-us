@@ -14,7 +14,6 @@ Patients were randomized (2:1) to one of the following treatment arms:
 - Placebo, pemetrexed 500 mg/m2, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by placebo and pemetrexed 500 mg/m2 intravenously every 3 weeks.
 
 Treatment with pemetrexed continued until RECIST v1.1 (modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ)-defined progression of disease as determined by the investigator or unacceptable toxicity.
-
 Patients randomized to placebo, pemetrexed, and platinum chemotherapy were offered pembrolizumab as a single agent at the time of disease progression.
 
 Assessment of tumor status was performed at Week 6, Week 12, and then every 9 weeks thereafter.

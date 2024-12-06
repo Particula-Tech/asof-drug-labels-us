@@ -44,7 +44,7 @@ Permanently discontinue Pemetrexed Injection for signs of radiation recall.
 
 Exposure to Pemetrexed Injection is increased in patients with mild to moderate renal impairment who take concomitant ibuprofen, increasing the risks of adverse reactions of Pemetrexed Injection.
 In patients with creatinine clearances between 45 mL/min and 79 mL/min, avoid administration of ibuprofen for 2 days before, the day of, and 2 days following administration of Pemetrexed Injection.
-If concomitant ibuprofen use cannot be avoided, monitor patients more frequently for Pemetrexed Injection adverse reactions, including myelosuppression, renal, and gastrointestinal toxicity [see Dosage and Administration (2.5), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+If concomitant ibuprofen use cannot be avoided, monitor patients more frequently for Pemetrexed Injection adverse reactions, including myelosuppression, renal, and gastrointestinal toxicity [see Dosage and Administration (2.5), Drug Interactions (7), andClinical Pharmacology (12.3)].
 
 ## 5.7 Embryo-Fetal Toxicity
 

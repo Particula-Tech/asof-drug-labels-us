@@ -6,7 +6,7 @@ Risk Summary
 
 Based on findings from animal studies and its mechanism of action, pemetrexed can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data on Pemetrexed Injection use in pregnant women.
-In animal reproduction studies, intravenous administration of pemetrexed to pregnant mice during the period of organogenesis was teratogenic, resulting in developmental delays and malformations at doses lower than the recommended human dose of 500 mg/m2 [see Data].
+In animal reproduction studies, intravenous administration of pemetrexed to pregnant mice during the period of organogenesis was teratogenic, resulting in developmental delays and malformations at doses lower than the recommended human dose of 500 mg/m2[see Data].
 Advise pregnant women of the potential risk to a fetus [see Use in Special Populations (8.3)].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.

@@ -465,7 +465,7 @@ Blood and Lymphatic System — immune-mediated hemolytic anemia
 
 Gastrointestinal — colitis, pancreatitis
 
-General Disorders and Administration Site Conditions — edema
+GeneralDisorders and Administration Site Conditions — edema
 
 Injury, poisoning, and procedural complications — radiation recall
 

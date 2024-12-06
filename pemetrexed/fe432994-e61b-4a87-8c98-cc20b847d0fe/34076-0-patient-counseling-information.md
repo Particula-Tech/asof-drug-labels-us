@@ -3,7 +3,7 @@
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Premedication and Concomitant Medication: Instruct patients to take folic acid as directed and to keep appointments for vitamin B12 injections to reduce the risk of treatment-related toxicity.
-Instruct patients of the requirement to take corticosteroids to reduce the risks of treatment-related toxicity [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
+Instruct patients of the requirement to take corticosteroids to reduce the risks of treatment-related toxicity [see Dosage and Administration (2.4)and Warnings and Precautions (5.1)].
 
 Myelosuppression: Inform patients of the risk of low blood cell counts and instruct them to immediately contact their physician for signs of infection, fever, bleeding, or symptoms of anemia [see Warnings and Precautions (5.1)].
 
@@ -40,4 +40,4 @@ Shilpa Medicare Limited,
 
 Jadcherla-509301, India.
 
-Revised: 06/2023
+Revised: 11/2024

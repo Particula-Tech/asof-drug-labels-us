@@ -30,4 +30,4 @@
 | You can ask your pharmacist or healthcare provider for information about Pemetrexed Injection that is written for health professionals. |  |  |  |  |  |  |
 | What are the ingredients in Pemetrexed Injection? Active ingredient: pemetrexed Inactive ingredients: mannitol, sodium chloride, L-cysteine hydrochloride, sodium hydroxide and/or hydrochloric acid to adjust pH, and water for injection. |  |  |  |  |  |  |
 | Manufactured by: Zydus Lifesciences Limited, Ahmedabad, India. Manufactured for: Shilpa Medicare Limited, Jadcherla-509301, India. For more information, call 1-888-557-1212. |  |  |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: June 2023 |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: November 2024 |  |  |
