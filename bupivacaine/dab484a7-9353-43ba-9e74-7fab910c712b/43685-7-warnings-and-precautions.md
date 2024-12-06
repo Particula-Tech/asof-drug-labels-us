@@ -180,6 +180,8 @@ When ZYNRELEF is used in patients with preexisting asthma (without known aspirin
 ## 5.14 Serious Skin Reactions
 
 NSAIDs, including meloxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions.
 

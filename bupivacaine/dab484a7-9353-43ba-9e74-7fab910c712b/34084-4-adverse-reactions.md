@@ -104,7 +104,15 @@ Adverse Reactions with ZYNRELEF in Study 3 (Total Knee Arthroplasty) Occurring w
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of ZYNRELEF.
+The following adverse reactions have been identified during postapproval use of ZYNRELEF or other products containing NSAIDs.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-These adverse reactions involve the following 2 system organ classes: Injury, Poisoning, and Procedural Complications (wound necrosis, wound dehiscence) and Surgical and Medical Procedures (post-procedural drainage).
+ZYNRELEF
+
+Injury, Poisoning, and Procedural Complications: Wound necrosis, Wound dehiscence.
+
+Surgical and Medical Procedures: Post-procedural drainage.
+
+NSAIDs
+
+Skin and Appendages: Exfoliative dermatitis, SJS, TEN, and FDE [see Warnings and Precautions (5.14)].

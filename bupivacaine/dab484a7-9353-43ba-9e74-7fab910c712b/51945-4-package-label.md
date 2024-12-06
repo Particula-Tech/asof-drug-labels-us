@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 14 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 14 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -40,7 +40,7 @@ Vial Contents: 14 mL* Withdraw 14 mL to deliver 13.5 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 10.5 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 10.5 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -82,7 +82,7 @@ Vial Contents: 10.5 mL* Withdraw 10.5 mL to deliver 10.2 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 7 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 7 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -124,7 +124,7 @@ Vial Contents: 7 mL* Withdraw 7 mL to deliver 6.7 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 2.3 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 2.3 mL
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -157,6 +157,174 @@ Each Kit Contains:
 Vial Contents Sterile Vial exterior NOT STERILE
 
 - One sterile vented vial spike
+- One sterile 3 mL Luer Lock syringe
+- One sterile Luer lock applicator
+- One sterile syringe tip cap
+- Instructions for Use and Prescribing Information
+
+Vial Contents: 2.3 mL* Withdraw 2.3 mL to deliver 2 mL
+
+Rx Only
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 14 mL - NDC 47426-501
+
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
+
+400 mg bupivacaine and 12 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
+
+Single-Dose Application For Instillation Use
+
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
+
+NDC 47426-501-02
+
+Store ZYNRELEF kit at 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature]
+
+Protect from light and moisture
+
+Each Kit Contains:
+
+- One single-dose vial containing 400 mg bupivacaine and 12 mg meloxicam in a non-sterile carton.
+  The contents of the vial are sterile.
+  Discard unused portion.
+
+Vial Contents Sterile Vial exterior NOT STERILE
+
+- One 20 mL sterile vial access needle
+- Two sterile 12 mL Luer Lock syringes
+- Two sterile Luer lock applicators
+- Two sterile syringe tip caps
+- Instructions for Use and Prescribing Information
+
+Vial Contents: 14 mL* Withdraw 14 mL to deliver 13.5 mL
+
+Rx Only
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 10.5 mL - NDC 47426-502
+
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
+
+300 mg bupivacaine and 9 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
+
+Single-Dose Application For Instillation Use
+
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
+
+NDC 47426-502-02
+
+Store ZYNRELEF kit at 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature]
+
+Protect from light and moisture
+
+Each Kit Contains:
+
+- One single-dose vial containing 300 mg bupivacaine and 9 mg meloxicam in a non-sterile carton.
+  The contents of the vial are sterile.
+  Discard unused portion.
+
+Vial Contents Sterile Vial exterior NOT STERILE
+
+- One 20 mL sterile vial access needle
+- One sterile 12 mL Luer Lock syringe
+- One sterile Luer lock applicator
+- One sterile syringe tip cap
+- Instructions for Use and Prescribing Information
+
+Vial Contents: 10.5 mL* Withdraw 10.5 mL to deliver 10.2 mL
+
+Rx Only
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 7 mL - NDC 47426-503
+
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
+
+200 mg bupivacaine and 6 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
+
+Single-Dose Application For Instillation Use
+
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
+
+NDC 47426-503-01
+
+Store ZYNRELEF kit at 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature]
+
+Protect from light and moisture
+
+Each Kit Contains:
+
+- One single-dose vial containing 200 mg bupivacaine and 6 mg meloxicam in a non-sterile carton.
+  The contents of the vial are sterile.
+  Discard unused portion.
+
+Vial Contents Sterile Vial exterior NOT STERILE
+
+- One 10 mL sterile vial access needle
+- One sterile 12 mL Luer Lock syringe
+- One sterile Luer lock applicator
+- One sterile syringe tip cap
+- Instructions for Use and Prescribing Information
+
+Vial Contents: 7 mL* Withdraw 7 mL to deliver 6.7 mL
+
+Rx Only
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 2.3 mL - NDC 47426-504
+
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
+
+60 mg bupivacaine and 1.8 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
+
+Single-Dose Application For Instillation Use
+
+Refer to Instructions for Use
+
+See Prescribing Information for Dosage, Preparation, and Administration
+
+Do Not Substitute Components
+
+Use only the supplied components in this kit for preparation
+
+Do NOT remove crimp seal
+
+NDC 47426-504-01
+
+Store ZYNRELEF kit at 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature]
+
+Protect from light and moisture
+
+Each Kit Contains:
+
+- One single-dose vial containing 60 mg bupivacaine and 1.8 mg meloxicam in a non-sterile carton.
+  The contents of the vial are sterile.
+  Discard unused portion.
+
+Vial Contents Sterile Vial exterior NOT STERILE
+
+- One 10 mL sterile vial access needle
 - One sterile 3 mL Luer Lock syringe
 - One sterile Luer lock applicator
 - One sterile syringe tip cap

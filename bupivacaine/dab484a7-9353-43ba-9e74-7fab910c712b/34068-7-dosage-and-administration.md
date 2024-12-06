@@ -18,13 +18,13 @@ ADMINISTER ZYNRELEF VIA INSTILLATION ONLY.
 - Avoid intravascular administration of ZYNRELEF.
   Convulsions and cardiac arrest have occurred following accidental intravascular injection of bupivacaine and other amide-containing products.
 - Limit exposure to articular cartilage due to the potential risk of chondrolysis [see Warnings and Precautions (5.11)].
-- ZYNRELEF is a viscous solution supplied as a kit consisting of a single-dose glass vial, and the following sterile components: Luer Lock syringe(s), a vented vial spike, Luer Lock cone-shaped applicator(s), and syringe tip cap(s).
+- ZYNRELEF is a viscous solution supplied as a kit consisting of a single-dose glass vial, and the following sterile components: Luer lock syringe(s), a vented vial spike or vial access needle, Luer lock cone-shaped applicator(s), and syringe tip cap(s).
   ZYNRELEF should only be prepared and administered with the components provided in the ZYNRELEF kit.
   See the ZYNRELEF Instructions for Use included in the kit for complete administration instructions with illustrations.
 - The contents of the ZYNRELEF vial are sterile.
   The vial exterior is not sterile.
   Follow your facility's standard operating procedures regarding aseptic drug preparation.
-- Each ZYNRELEF vial contains overfill to compensate for residual amounts that remain in the vial, vented vial spike, Luer lock applicator, and syringe(s) during drug withdrawal and administration.
+- Each ZYNRELEF vial contains overfill to compensate for residual amounts that remain in the vial, vented vial spike or vial access needle, Luer lock applicator, and syringe(s) during drug withdrawal and administration.
 - ZYNRELEF is applied without a needle into the surgical site after placement of implant(s) (if applicable), following final irrigation and suctioning, and prior to suturing of each layer, when multiple tissue layers are involved.
 - When ZYNRELEF comes in contact with moisture in the tissues, it becomes more viscous, allowing it to stay in place.
 - ZYNRELEF does not degrade sutures.
@@ -36,17 +36,23 @@ ADMINISTER ZYNRELEF VIA INSTILLATION ONLY.
 
 ## 2.2 Preparation Instructions
 
+See the ZYNRELEF Instructions for Use included in the kit for complete administration instructions with illustrations.
+
 1. ZYNRELEF is a clear, pale yellow to yellow, viscous liquid.
    Visually inspect the ZYNRELEF vial for particulate matter and discoloration.
    Obtain a new vial if particulate matter or discoloration is observed.
-2. Prepare vial for filling of syringe(s) by attaching vented vial spike.
-3. Prepare syringe by filling with air then attach to vented vial spike.
-4. Invert to allow product to fill the vial neck and push air into vial.
-   Withdraw dose of ZYNRELEF into syringe.
-   (The dose volume takes into account the potential residual volume in the components.)
+2. Prepare vial for filling of syringe(s) by attaching vented vial spike or vial access needle.
+3. Syringe attachment for product withdrawal:
+   - For vented vial spike, fill syringe with air prior to attaching syringe.
+     Attach syringe to vented vial spike, invert vial and syringe to allow product to fill the vial neck, then push air into vented vial spike prior to withdrawing ZYNRELEF from vial.
+   - For vial access needle, do not fill syringe with air prior to attaching syringe.
+     Attach syringe to vial access needle, then invert vial and syringe to allow product to fill the vial neck prior to withdrawing ZYNRELEF from vial.
+4. Withdraw dose of ZYNRELEF into syringe.
+   (The dose volume takes into account the potential residual volume in the components.).
+   Withdrawal time using the vial access needle is faster than the vented vial spike.
    Nominal Dose of Bupivacaine / MeloxicamNumber of Syringes and LLAsLLA: Luer lock cone-shaped applicator Per DoseVolume to be Withdrawn60 mg/ 1.8 mg12.3 mL (using 3 mL syringe provided)200 mg / 6 mg17 mL (using 12 mL syringe provided)300 mg/ 9 mg110.5 mL (using 12 mL syringe provided)400 mg/ 12 mg214 mL (using two 12 mL syringes provided, 7 mL ZYNRELEF per syringe)
 5. Repeat steps 1-3 for more than one syringe.
-6. Prepare product immediately prior to use and apply syringe tip cap until product delivery.
+6. Prepare product immediately prior to use and apply syringe tip cap if needed until product delivery.
 
 ## 2.3 Administration Instructions
 
@@ -89,7 +95,7 @@ As a general guidance in selecting the proper dosing of ZYNRELEF, the following 
 
 ZYNRELEF is compatible with:
 
-- All components of the ZYNRELEF kit, including syringes, Luer lock cone-shaped applicator, vented vial spike, and syringe tip caps.
+- All components of the ZYNRELEF kit, including syringes, Luer lock cone-shaped applicator, vented vial spike, vial access needle, and syringe tip caps.
 - Surgical mesh materials, including polypropylene (Prolene®), Gore-tex, and polyester.
 - Silicone membranes.
 - Bone cement.
