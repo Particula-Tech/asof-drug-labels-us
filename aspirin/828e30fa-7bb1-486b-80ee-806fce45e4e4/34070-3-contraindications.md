@@ -14,5 +14,5 @@ BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE is also contraindicated in p
 - Hypersensitivity or intolerance to aspirin, caffeine, butalbital, or codeine.
 - Hemophilia [see Warnings and Precautions (5.19)]
 - Reye's Syndrome [see Warnings and Precautions (5.20)]
-- Known allergy to nonsteroidal anti-inflammatory drugs (NSAIDs) [see Warnings and Precautions (5.22)]
-- Syndrome of asthma, rhinitis, and nasal polyps [see Warnings and Precautions (5.22)]
+- Known allergy to nonsteroidal anti-inflammatory drugs (NSAIDs) [see Warnings and Precautions (5.23)]
+- Syndrome of asthma, rhinitis, and nasal polyps [see Warnings and Precautions (5.23)]

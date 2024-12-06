@@ -15,7 +15,8 @@ The following serious adverse reactions are described, or described in greater d
 - Withdrawal [see Warnings and Precautions (5.16)]
 - Coagulation Abnormalities and Bleeding Risks [see Warnings and Precautions (5.19)]
 - Reye's Syndrome [see Warnings and Precautions (5.20)]
-- Allergy [see Warnings and Precautions (5.22)]
+- Serious Skin Reactions [see Warnings and Precautions (5.21)]
+- Allergy [see Warnings and Precautions (5.23)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -28,7 +29,7 @@ The following table summarizes the incidence rates of the adverse events reporte
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 
-Table 1:Adverse Events Reported by atleast 1% of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE Treated Patients During Placebo Controlled Clinical Trials Incidence Rate of Adverse Events
+Table 1:Adverse Events Reported by at least 1% of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE Treated Patients During Placebo Controlled Clinical Trials Incidence Rate of Adverse Events
 
 | Body System/Adverse Event | BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE (N=382) | Placebo (N =377) |
 | --- | --- | --- |
@@ -86,7 +87,7 @@ Gastrointestinal: anorexia, appetite increased, constipation, diarrhea, esophagi
 
 Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope.
 
-Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis.
+Skin: erythema, erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), hives, rash, toxic epidermal necrolysis, and fixed drug eruption (FDE).
 
 Urinary: kidney impairment, urinary difficulty.
 

@@ -270,7 +270,16 @@ Patients who consume three or more alcoholic drinks every day should be counsele
 
 Aspirin should not be used in children or teenagers for viral infections, with or without fever, because of the risk of Reye's syndrome with concomitant use of aspirin in certain viral illnesses.
 
-## 5.21 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.21 Serious Skin Reactions
+
+NSAIDs, including aspirin, a component of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
+These serious events may occur without warning.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE at the first appearance of skin rash or any other sign of hypersensitivity.
+BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE is contraindicated in patients with previous serious skin reactions to NSAIDs [see CONTRAINDICATIONS (4)].
+
+## 5.22 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE.
 Some of these events have been fatal or life threatening.
@@ -282,12 +291,12 @@ Because this disorder is variable in its presentation, other organ systems not n
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, discontinue BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE and evaluate the patient immediately.
 
-## 5.22 Allergy
+## 5.23 Allergy
 
 Aspirin is contraindicated in patients with known allergy to nonsteroidal anti-inflammatory drug products (NSAIDs) and in patients with the syndrome of asthma, rhinitis, and nasal polyps.
 Aspirin may cause severe urticaria, angioedema, or bronchospasm (asthma).
 
-## 5.23 Drug/Laboratory Test Interactions
+## 5.24 Drug/Laboratory Test Interactions
 
 Aspirin: Aspirin may interfere with the following laboratory determinations in blood: serum amylase, fasting blood glucose, cholesterol, protein, serum glutamic-oxalacetic transaminase (SGOT), uric acid, prothrombin time and bleeding time.
 Aspirin may interfere with the following laboratory determinations in urine: glucose, 5-hydroxy-indoleacetic acid, Gerhardt ketone, vanillylmandelic acid (VMA), uric acid, diacetic acid, and spectrophotometric detection of barbiturates.
