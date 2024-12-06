@@ -7,4 +7,4 @@ Bendamustine hydrochloride contains a mechlorethamine group and a benzimidazole 
 
 Bendamustine Hydrochloride Injection for intravenous use is supplied as a sterile, clear, and colorless to yellow solution in a multiple-dose clear glass vial.
 Each milliliter contains 25 mg of bendamustine hydrochloride (equivalent to 22.7 mg bendamustine free base), 0.1 g of alcohol, USP (equivalent to 0.1 g absolute ethanol), 5 mg of monothioglycerol, NF (used as an antioxidant) and q.s. to 1 mL polyethylene glycol 400, NF.
-Sodium hydroxide, NF may have been used to adjust the acidity of polyethylene glycol 400.
+Sodium hydroxide, NF is used to adjust the acidity of polyethylene glycol 400.
