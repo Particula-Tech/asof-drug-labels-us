@@ -21,13 +21,13 @@ Adverse reactions were assessed by collecting spontaneously reported adverse rea
 
 Most common adverse reactions in clinical trials
 
-Localized Reactions: In clinical studies, the most common local reactions were erythema (47%), skin discoloration (e.g., blanching, ecchymosis, and purpura) (16%), and edema (14%).
+Localized Reactions:In clinical studies, the most common local reactions were erythema (47%), skin discoloration (e.g., blanching, ecchymosis, and purpura) (16%), and edema (14%).
 There were no serious adverse reactions.
 However, one patient withdrew due to burning pain at the treatment site.
 
-Other Localized Reactions: The following dermal adverse reactions occurred in 1% or less of PLIAGLIS-treated patients: ecchymosis, petechial rash, vesiculobullous rash, perifollicular erythema, perifollicular edema, pruritus, rash, maculopapular rash, dry skin, contact dermatitis, and acne.
+Other Localized Reactions:The following dermal adverse reactions occurred in 1% or less of PLIAGLIS-treated patients: ecchymosis, petechial rash, vesiculobullous rash, perifollicular erythema, perifollicular edema, pruritus, rash, maculopapular rash, dry skin, contact dermatitis, and acne.
 
-Systemic (Dose-Related) Reactions: Across all trials, 19 subjects experienced a systemic adverse reaction, 15 of whom were treated with PLIAGLIS and 4 with placebo.
+Systemic (Dose-Related) Reactions:Across all trials, 19 subjects experienced a systemic adverse reaction, 15 of whom were treated with PLIAGLIS and 4 with placebo.
 The frequency of systemic adverse reactions was greater for the PLIAGLIS group (1%) than the placebo group (0.3%).
 The most common systemic adverse events were headache, vomiting, dizziness, and fever, all of which occurred with a frequency of <1%.
 Other systemic reactions were syncope, nausea, confusion, dehydration, hyperventilation, hypotension, nervousness, paresthesia, pharyngitis, stupor, pallor, and sweating.
@@ -45,8 +45,8 @@ The following adverse reactions have been identified during post-approval use of
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Eye disorders: Eyelid swelling
+Eye disorders:Eyelid swelling
 
-Skin: Pruritus, Rash, Skin Burning Sensation, Erythema, Urticaria
+Skin:Pruritus, Rash, Skin Burning Sensation, Erythema, Urticaria
 
-Other: Drug ineffective
+Other:Drug ineffective
