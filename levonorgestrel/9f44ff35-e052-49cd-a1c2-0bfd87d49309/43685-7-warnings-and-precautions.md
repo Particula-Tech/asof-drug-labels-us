@@ -2,9 +2,9 @@
 
 ## 5.1 Risk of Ectopic Pregnancy
 
-- Evaluate women for ectopic pregnancy if they become pregnant with Skyla in place because the likelihood of a pregnancy being ectopic is increased with Skyla.
-  Approximately one-half of pregnancies that occur with Skyla in place are likely to be ectopic.
-  Also consider the possibility of ectopic pregnancy in the case of lower abdominal pain, especially in association with missed menses or if an amenorrheic woman starts bleeding.
+Evaluate women for ectopic pregnancy if they become pregnant with Skyla in place because the likelihood of a pregnancy being ectopic is increased with Skyla.
+Approximately one-half of pregnancies that occur with Skyla in place are likely to be ectopic.
+Also consider the possibility of ectopic pregnancy in the case of lower abdominal pain, especially in association with missed menses or if an amenorrheic woman starts bleeding.
 
 The incidence of ectopic pregnancy in clinical trials with Skyla, which excluded women with a history of ectopic pregnancy, was approximately 0.1% per year.
 The risk of ectopic pregnancy in women who have a history of ectopic pregnancy and use Skyla is unknown.
@@ -89,7 +89,7 @@ Partial or complete expulsion of Skyla may occur resulting in the loss of effica
 Expulsion may be associated with symptoms of bleeding or pain, or it may be asymptomatic and go unnoticed.
 Skyla typically decreases menstrual bleeding over time; therefore, an increase of menstrual bleeding may be indicative of an expulsion.
 Consider further diagnostic imaging, such as x-ray, if expulsion is suspected based on ultrasound [see Warnings and Precautions (5.10)].
-In clinical trials, a 5-year expulsion rate of 3.5% (59 out of 1,690 subjects) was reported.
+In clinical trials, a 3-year expulsion rate of 3.2% (54 out of 1,665 subjects) was reported.
 
 The risk of expulsion is increased with insertions immediately after delivery and appears to be increased with insertion after second-trimester abortion based on limited data.
 In a large postmarketing safety study conducted in the US, the risk of expulsion was lower with breastfeeding status [see Adverse Reactions (6.2)].

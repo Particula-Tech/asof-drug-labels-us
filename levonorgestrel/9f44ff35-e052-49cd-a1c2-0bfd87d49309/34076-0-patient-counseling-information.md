@@ -46,3 +46,9 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - •Inability to feel Skyla's threads
 - •Magnetic Resonance Imaging (MRI) Safety Information: Inform the patient that Skyla can be safely scanned with MRI only under specific conditions [see Warnings and Precautions (5.11)].
   Instruct patients who will have an MRI to tell their doctor that they have Skyla.
+
+Manufactured for:
+
+Bayer HealthCare Pharmaceuticals Inc. Whippany, NJ 07981
+
+© 2013, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.

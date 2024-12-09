@@ -49,14 +49,6 @@ Table 4: Adverse reactions that occurred in at least 1% of Skyla users in clinic
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of LNG-releasing IUSs.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-- •Arterial thrombotic and venous thromboembolic events, including cases of pulmonary embolism, deep vein thrombosis and stroke
-- •Device breakage
-- •Hypersensitivity (including rash, urticaria, and angioedema)
-- •Increased blood pressure
-
 ### Adverse Reactions from Postmarketing Spontaneous Reports
 
 The following adverse reactions have been identified during post-approval use of LNG-releasing IUSs.
@@ -89,7 +81,7 @@ Table 5: Uterine Perforation1 rates for LNG IUS, by Breastfeeding Status and Pos
 | Postpartum interval at time of insertion | Number of events/ insertions | Uterine perforation rate per 1,000 insertions | Number of events/ insertions | Uterine perforation rate per 1,000 insertions |
 | 0 to 3 days | 8/1,896 | 4.22 | 0/277 | 0.00 |
 | 4 days to ≤ 6 weeks | 120/10,735 | 11.18 | 28/2,377 | 11.78 |
-| > 6 to ≤ 14 weeks | 268/29,677 | 9.03 | 30/12,011 | 6.66 |
+| > 6 to ≤ 14 weeks | 268/29,677 | 9.03 | 80/12,011 | 6.66 |
 | > 14 to ≤ 52 weeks | 43/6,139 | 7.00 | 22/9,089 | 2.42 |
 | > 52 weeks or no delivery | no data available |  | 243/184,733 | 1.32 |
 

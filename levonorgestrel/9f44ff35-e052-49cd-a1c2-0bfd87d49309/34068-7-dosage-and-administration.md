@@ -40,7 +40,7 @@ Table 1: When to Insert Skyla
 | Switching to Skyla from a contraceptive implant or another IUS | •Insert Skyla on the same day the implant or IUS is removed. •Insert Skyla at any time during the menstrual cycle. |
 | Inserting Skyla after first trimester abortion or miscarriage | •Insert Skyla immediately after a first-trimester abortion or miscarriage, unless it is a septic abortion [see Contraindications (4)]. |
 | Inserting Skyla after childbirth or second-trimester abortion or miscarriage |  |
-| •Immediate insertion after childbirth or second-trimester abortion or miscarriage | •Insert Skyla after removal of the placenta. Back-up contraception is not needed. [See Contraindications (4), Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)].• |
+| Immediate insertion after childbirth or second-trimester abortion or miscarriage | •Insert Skyla after removal of the placenta. Back-up contraception is not needed. [See Contraindications (4), Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)]. |
 | Interval insertion following complete involution of the uterus | •Wait a minimum of 6 weeks or until the uterus is fully involuted before inserting Skyla [see Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)].•Insert Skyla any time there is reasonable certainty the woman is not pregnant.•If Skyla is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used, or the woman should abstain from vaginal intercourse for 7 days to prevent pregnancy [see Contraindications (4), Warnings and Precautions (5.2)]. |
 
 ### Tools for Insertion
@@ -94,7 +94,7 @@ Ensure use of aseptic technique throughout the entire procedure.
 
 #### Step 2–Load Skyla into the insertion tube
 
-- •Push the slider forward as far as possible in the direction of the arrow thereby moving the insertion tube over the Skyla T-body to load Skyla into the insertion tube (Figure 2).
+- •Push the slider forward as far as possible in the direction of the arrow, thereby moving the insertion tube over the Skyla T-body to load Skyla into the insertion tube (Figure 2).
   The tips of the arms will meet to form a rounded end that extends slightly beyond the insertion tube.
 
 - •Maintain forward pressure with your thumb or forefinger on the slider.
@@ -144,8 +144,7 @@ Fundal positioning of Skyla is important to prevent expulsion.
 - •If you suspect that Skyla is not in the correct position, check placement (for example, using transvaginal ultrasound).
   Remove Skyla if it is not positioned completely within the uterus.
   Do not reinsert a removed Skyla.
-
-If there is clinical concern, exceptional pain or bleeding during or after insertion, take appropriate steps (such as physical examination and ultrasound) immediately to exclude perforation.
+- •If there is clinical concern, exceptional pain or bleeding during or after insertion, take appropriate steps (such as physical examination and ultrasound) immediately to exclude perforation.
 
 ## 2.3 Patient Follow-up
 
@@ -179,8 +178,11 @@ Reexamine and evaluate patients 4 to 6 weeks after insertion and once a year the
 - •If Skyla is found to be in the uterine cavity on ultrasound exam, it may be removed using a narrow forceps, such as an alligator forceps.
   This may require dilation of the cervical canal.
   After removal of Skyla, examine the system to ensure that it is intact.
-
-Removal may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure, especially in patients with a predisposition to these conditions.
+  If unable to remove with gentle traction, determine Skyla location and exclude perforation by ultrasound or other imaging [see Warnings and Precautions (5.10)].
+- •Removal may be associated with some:
+  - opain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure, especially in patients with a predisposition to these conditions.
+  - obreakage or embedment of Skyla in the myometrium that can make removal difficult [see Warnings and Precautions (5.5)].
+    Analgesia, paracervical anesthesia, cervical dilation, alligator forceps or other grasping instrument, or hysteroscopy may be used to assist in removal.
 
 ## 2.5 Continuation of Contraception after Removal
 
