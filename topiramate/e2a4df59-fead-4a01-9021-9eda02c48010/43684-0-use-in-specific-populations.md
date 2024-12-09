@@ -13,7 +13,7 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 ### Risk Summary
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in uterohave an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
 SGA has been observed at all doses and appears to be dose-dependent.
 The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
 In addition, the prevalence of SGA in infants of women who continued topiramate use until later in pregnancy is higher compared to the prevalence in infants of women who stopped topiramate use before the third trimester.
@@ -55,7 +55,7 @@ It was also higher than the background prevalence in United States (0.17%) as es
 The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI] 5.9 – 26.37) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
-Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in uterois associated with an increased risk of SGA newborns (birth weight <10th percentile).
+Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
 In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
 In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9 % in the comparison group unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
@@ -70,16 +70,16 @@ The lowest dose tested, which was associated with increased malformations, is le
 In pregnant rats administered topiramate (0, 20, 100, and 500 mg/kg/day or 0, 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 and 500 mg/kg/day.
 Embryotoxicity (reduced fetal body weights, increased incidences of structural variations) was observed at doses as low as 20 mg/kg/day.
 Clinical signs of maternal toxicity were seen at 400 mg/kg/day and above, and maternal body weight gain was reduced at doses of 100 mg/kg/day or greater.
-The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2basis.
+The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
 In pregnant rabbits administered topiramate (0, 20, 60, and 180 mg/kg/day or 0, 10, 35, and 120 mg/kg/day) orally during organogenesis, embryofetal mortality was increased at 35 mg/kg/day, and increased incidences of fetal malformations (primarily rib and vertebral malformations) were observed at 120 mg/kg/day.
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
-The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m 2basis.
+The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m 2 basis.
 
 When topiramate (0, 0.2, 4, 20, and 100 mg/kg/day or 0, 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre- and/or postweaning body weight gain at 2 mg/kg/day and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
 In a rat embryofetal development study which included postnatal assessment of offspring, oral administration of topiramate (0, 0.2, 2.5, 30, and 400 mg/kg) to pregnant animals during the period of organogenesis resulted in delayed physical development in offspring at 400 mg/kg/day and persistent reductions in body weight gain in offspring at 30 mg/kg/day and higher.
-The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2basis.
+The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
 ## 8.2 Lactation
 
@@ -88,7 +88,6 @@ The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity
 Topiramate is excreted in human milk [see Data].
 The effects of topiramate on milk production are unknown.
 Diarrhea and somnolence have been reported in breastfed infants whose mothers receive topiramate treatment.
-
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for topiramate and any potential adverse effects on the breastfed infant from topiramate or from the underlying maternal condition.
 
 ### Data
@@ -152,7 +151,7 @@ The safety and effectiveness of EPRONTIA as monotherapy for the treatment of par
 
 A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of topiramate (N=28, 6-15 years of age) versus levetiracetam (N=35, 4-15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
-Table 10 summarizes effects of topiramate at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
+Table 10summarizes effects of topiramate at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
 All Least Square Mean values for topiramate and the comparator were positive.
 Therefore, the Least Square Mean treatment differences shown reflect a topiramate-induced attenuation of the key safety outcomes.
 Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.

@@ -32,7 +32,7 @@ Fetal Toxicity
 
 Inform pregnant women and women of childbearing potential that use of EPRONTIA during pregnancy can cause fetal harm.
 EPRONTIA increases the risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
-Also inform patients that infants exposed to topiramate monotherapy in uteromay be SGA [see Use in Specific Populations (8.1)].
+Also inform patients that infants exposed to topiramate monotherapy in utero may be SGA [see Use in Specific Populations (8.1)].
 There may also be risks to the fetus from chronic metabolic acidosis with use of EPRONTIA during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 

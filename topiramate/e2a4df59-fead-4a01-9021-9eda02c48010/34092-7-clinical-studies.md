@@ -29,8 +29,8 @@ Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure i
 Pediatric Patients 2 to 9 Years of Age
 
 The conclusion that topiramate is effective as initial monotherapy in pediatric patients 2 to 9 years of age with partial-onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials described in labeling.
-This approach consisted of first showing a similar exposure-response relationship between pediatric patients down to 2 years of age and adults when topiramate was given as adjunctive therapy.
-Similarity of exposure-response was also demonstrated in pediatric patients 6 to less than 16 years of age and adults when topiramate was given as initial monotherapy.
+This approach consisted of first showing a similar exposure response relationship between pediatric patients down to 2 years of age and adults when topiramate was given as adjunctive therapy.
+Similarity of exposure response was also demonstrated in pediatric patients 6 to less than 16 years of age and adults when topiramate was given as initial monotherapy.
 Specific dosing in pediatric patients 2 to 9 years of age was derived from simulations utilizing plasma exposure ranges observed in pediatric and adult patients treated with topiramate initial monotherapy [see Dosage and Administration (2.1)].
 
 ## 14.2 Adjunctive Therapy Epilepsy
@@ -179,7 +179,9 @@ Because most patients were Caucasian, there were insufficient numbers of patient
 
 For patients withdrawing from topiramate, daily dosages were decreased in weekly intervals by 25 to 50 mg/day.
 
-Figure 2: Reduction in 4-Week Migraine Headache Frequency (Studies 11 and 12 for Adults and Adolescents)
+Figure 2: Reduction in 4-Week Migraine Headache Frequency
+
+(Studies 11 and 12 for Adults and Adolescents)
 
 Pediatric Patients 12 to 17 Years of Age
 

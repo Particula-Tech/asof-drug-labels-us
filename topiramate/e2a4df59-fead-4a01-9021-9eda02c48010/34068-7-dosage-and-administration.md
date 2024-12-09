@@ -30,7 +30,7 @@ The total daily dose should not exceed the maximum maintenance dose for each ran
 
 Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Years of Age
 
-| Weight (kg) | Total Daily Dose (mg/day) Administered in two equally divided dosesMinimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
+| Weight (kg) | Total Daily Dose (mg/day)Administered in two equally divided dosesMinimum Maintenance Dose | Total Daily Dose (mg/day)Maximum Maintenance Dose |
 | --- | --- | --- |
 | Up to 11 | 150 | 250 |
 | 12-22 | 200 | 300 |

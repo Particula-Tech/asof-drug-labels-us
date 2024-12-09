@@ -71,7 +71,7 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 4shows absolute and relative risk by indication for all evaluated AEDs.
+Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 4: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
