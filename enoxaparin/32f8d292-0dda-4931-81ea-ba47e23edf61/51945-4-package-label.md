@@ -132,8 +132,6 @@ NDC 16714-046-10
 
 10 x 1 mL Single-Dose Prefilled Syringes with Automatic Safety Device
 
-Enoxaparin Sodium Injection, USP
-
 100 mg per mL
 
 For Subcutaneous Use
