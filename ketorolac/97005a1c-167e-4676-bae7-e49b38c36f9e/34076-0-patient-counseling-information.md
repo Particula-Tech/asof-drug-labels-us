@@ -30,7 +30,7 @@ Instruct patients to seek immediate emergency help if these occur [see Contraind
 
 Serious Skin Reactions, including DRESS
 
-Advise patients to stop taking SPRIX immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.11)].
+Advise patients to stop taking SPRIX immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Female Fertility
 
@@ -72,4 +72,4 @@ Manufactured for and Distributed by:
 
 Zyla Life Sciences US Inc. Wayne, PA 19087
 
-LBL # 101.04
+LBL # 101.05

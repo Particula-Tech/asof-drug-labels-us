@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -92,7 +92,7 @@ Body as a Whole: angioedema, death, hypersensitivity reactions such as anaphylax
 
 Cardiovascular: arrhythmia, bradycardia, chest pain, flushing, hypotension, myocardial infarction, vasculitis
 
-Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell's syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
+Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell's syndrome, bullous reactions including Stevens-Johnson syndrome, fixed drug eruption (FDE), and toxic epidermal necrolysis
 
 Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease)
 
