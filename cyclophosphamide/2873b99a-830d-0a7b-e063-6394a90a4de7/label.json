@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA040745"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Bamboo US Bidco LCC",
+  "package_ndcs": [
+    "83703-549-01",
+    "83703-549-25",
+    "83703-550-01",
+    "83703-550-50",
+    "83703-551-01",
+    "83703-551-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cyclophosphamide",
+      "name": "CYCLOPHOSPHAMIDE"
+    }
+  ],
+  "setid": "2873b99a-830d-0a7b-e063-6394a90a4de7",
+  "source": "dailymed"
+}
