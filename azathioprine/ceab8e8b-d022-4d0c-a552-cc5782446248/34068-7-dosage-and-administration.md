@@ -6,18 +6,18 @@ The dose of Azathioprine Tablets should not be increased to toxic levels because
 Discontinuation may be necessary for severe hematologic or other toxicity, even if rejection of the homograft may be a consequence of drug withdrawal.
 
 Rheumatoid Arthritis: Azathioprine Tablets are usually given on a daily basis.
-The initial dose should be approximately 1.0 mg/kg (50 to 100 mg) given as a single dose or on a twice daily schedule.
+The initial dose should be approximately 1.0 mg/kg (50 to 100 mg) given as a single dose or on a twice-daily schedule.
 The dose may be increased, beginning at 6 to 8 weeks and thereafter by steps at 4-week intervals, if there are no serious toxicities and if initial response is unsatisfactory.
-Dose increments should be 0.5 mg/kg daily, up to a maximum dose of 2.5 mg/kg/day.
+Dose increments should be 0.5 mg/kg daily, up to a maximum dose of 2.5 mg/kg per day.
 Therapeutic response occurs after several weeks of treatment, usually 6 to 8; an adequate trial should be a minimum of 12 weeks.
 Patients not improved after 12 weeks can be considered refractory.
 Azathioprine Tablets may be continued long-term in patients with clinical response, but patients should be monitored carefully, and gradual dosage reduction should be attempted to reduce risk of toxicities.
 
 Maintenance therapy should be at the lowest effective dose, and the dose given can be lowered decrementally with changes of 0.5 mg/kg or approximately 25 mg daily every 4 weeks while other therapy is kept constant.
-The optimum duration of maintenance Azathioprine Tablets has not been determined.
+The optimum duration of maintenance for Azathioprine Tablets has not been determined.
 Azathioprine Tablets can be discontinued abruptly, but delayed effects are possible.
 
-Patients with TPMT and/or NUDT15 Deficiency Patients with TPMT and/or NUDT15 Deficiency Consider testing for TPMT and NUDT15 deficiency in patients who experience severe bone marrow toxicities.
+Patients with TPMT and/or NUDT15 Deficiency Consider testing for TPMT and NUDT15 deficiency in patients who experience severe bone marrow toxicities.
 Early drug discontinuation may be considered in patients with abnormal CBC results that do not respond to dose reduction (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, and PRECAUTIONS: Laboratory Tests).
 Homozygous deficiency in either TPMT or NUDT15 Because of the risk of increased toxicity, consider alternative therapies for patients who are known to have TPMT or NUDT15 deficiency (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, and PRECAUTIONS: Laboratory Tests).
 Heterozygous deficiency in TPMT and/or NUDT15 Because of the risk of increased toxicity, dosage reduction is recommended in patients known to have heterozygous deficiency of TPMT or NUDT15.

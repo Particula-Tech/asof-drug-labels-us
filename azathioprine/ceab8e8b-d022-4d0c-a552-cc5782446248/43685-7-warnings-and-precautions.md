@@ -19,13 +19,12 @@ The majority of reported cases have occurred in patients with Crohn's disease or
 Some of the patients were treated with Azathioprine Tablets as monotherapy and some had received concomitant treatment with a TNFα blocker at or prior to diagnosis.
 The safety and efficacy of Azathioprine Tablets for the treatment of Crohn's disease and ulcerative colitis have not been established.
 
-Cytopenias: Severe leukopenia, thrombocytopenia, anemias including macrocytic and/or pancytopenia may occur in patients being treated with Azathioprine Tablets.
+Cytopenias: Severe leukopenia, thrombocytopenia, anemias including macrocytic anemia and/or pancytopenia may occur in patients being treated with Azathioprine Tablets.
 Severe bone marrow suppression may also occur.
-Patients with intermediate thiopurine S-methyl transferase (TPMT) activity may be at an increased risk of myelotoxicity if receiving conventional doses of Azathioprine Tablets.
-Hematologic toxicities are dose related and may be more severe in renal transplant patients whose homograft is undergoing rejection.
-It is suggested that patients on azathioprine have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
+Hematologic toxicities are dose-related and may be more severe in renal transplant patients whose homograft is undergoing rejection.
+It is suggested that patients on Azathioprine Tablets have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
 Delayed hematologic suppression may occur.
-Prompt reduction in dosage or temporary withdrawal of the drug may be necessary if there is a rapid fall in, or persistently low leukocyte count, or other evidence of bone marrow depression.
+Prompt reduction in dosage or temporary withdrawal of the drug may be necessary if there is a rapid fall in or persistently low leukocyte count, or other evidence of bone marrow depression.
 Leukopenia does not correlate with therapeutic effect; therefore, the dose should not be increased intentionally to lower the white blood cell count.
 
 TPMT or NUDT15 Deficiency
@@ -47,7 +46,7 @@ In transplant patients, consider the risk that the reduced immunosuppression rep
 Effect on Sperm in Animals Azathioprine Tablets have been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose; 1 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.
 2
 
-Pregnancy: Pregnancy Category D Azathioprine Tablets can cause fetal harm when administered to a pregnant woman.
+Pregnancy Azathioprine Tablets can cause fetal harm when administered to a pregnant woman.
 Azathioprine Tablets should not be given during pregnancy without careful weighing of risk versus benefit.
 Whenever possible, use of Azathioprine Tablets in pregnant patients should be avoided.
 This drug should not be used for treating rheumatoid arthritis in pregnant women.
@@ -56,6 +55,10 @@ This drug should not be used for treating rheumatoid arthritis in pregnant women
 Azathioprine Tablets are teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
 Abnormalities included skeletal malformations and visceral anomalies.
 2
+
+Postmarketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in women treated with azathioprine during pregnancy.
+ICP symptoms and evaluated bile acid levels improved following azathioprine discontinuation.
+Discontinue Azathioprine Tablets if ICP develops in a pregnant woman.
 
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on Azathioprine Tablets.
 In a detailed case report, 4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
@@ -87,9 +90,6 @@ The increased risk of malignancy following therapy with Azathioprine Tablets sho
 
 Laboratory Tests: Complete Blood Count (CBC) Monitoring: Patients on Azathioprine Tablets should have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
 
-PMT and NUDT15 Testing:
-
-Consider genotyping or phenotyping patients for TPMT deficiency and genotyping for NUDT15 deficiency in patients with severe myelosuppression.
+TPMT and NUDT15 Testing: Consider genotyping or phenotyping patients for TPMT deficiency and genotyping for NUDT15 deficiency in patients with severe myelosuppression.
 TPMT and NUDT15 testing cannot substitute for complete blood count (CBC) monitoring in patients receiving Azathioprine Tablets.
-Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions..
-See CLINICAL PHARMACOLOGY, WARNINGS, Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections.
+Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
