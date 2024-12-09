@@ -5,35 +5,30 @@ Dorzolamide Hydrochloride (dor zoe’ la mide hye” droe klor’ ide) Ophthalmi
 1.
 Before using the medication for the first time, be sure the tamper evident ring between the bottle and the cap is unbroken (See Figure A).
 
-Step 1.
-Wash your hands.
+Step 1.Wash your hands.
 
 Step 2.
 Before opening the bottle for the first time, tear off the tamper evident ring to break the seal (See Figure B).
 
-Step 3.
-To open the bottle, remove the cap by turning it in the counterclockwise direction (See Figure C). Giving your dorzolamide hydrochloride ophthalmic solution
+Step 3.To open the bottle, remove the cap by turning it in the counterclockwise direction (See Figure C). Giving your dorzolamide hydrochloride ophthalmic solution
 
 Step 4.
 Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
 (See Figure D).
 
-Step 5.
-Turn your dorzolamide hydrochloride ophthalmic solution dispenser upside down and hold and press gently middle of the bottle with your thumb until a single drop is placed in your eye.
-Do not touch your eye or eyelid with the dropper tip.
+Step 5.Turn your dorzolamide hydrochloride ophthalmic solution dispenser upside down and hold and press gently middle of the bottle with your thumb until a single drop is placed in your eye.
+Do nottouch your eye or eyelid with the dropper tip.
 (See Figure E).
 
-Step 6.
-If your doctor has told you to use dorzolamide hydrochloride ophthalmic solution in both eyes, repeat Steps 4 and 5 to give your dorzolamide hydrochloride ophthalmic solution.
+Step 6.If your doctor has told you to use dorzolamide hydrochloride ophthalmic solution in both eyes, repeat Steps 4 and 5 to give your dorzolamide hydrochloride ophthalmic solution.
 
 After using your dorzolamide hydrochloride solution
 
-Step 7.
-Replace the cap by turning it clockwise until tight.
+Step 7.Replace the cap by turning it clockwise until tight.
 (See Figure F).
 
 After you have used all of your dorzolamide hydrochloride ophthalmic solution doses, there will be some dorzolamide hydrochloride ophthalmic solution medicine left in the dispenser.
-Do not try to remove the extra medicine from the dorzolamide hydrochloride ophthalmic solution dispenser.
+Do not tryto remove the extra medicine from the dorzolamide hydrochloride ophthalmic solution dispenser.
 Throw away your dorzolamide hydrochloride ophthalmic solution dispenser in your household trash.
 
 How should I store dorzolamide hydrochloride ophthalmic solution?
@@ -42,7 +37,7 @@ How should I store dorzolamide hydrochloride ophthalmic solution?
 - Protect from light
 - Safely throw away medicine that is out of date or no longer needed.
 
-KEEP DORZOLAMIDE HYDROCHLORIDE OPHTHALMIC SOLUTION AND ALL MEDICINES OUT OF THE REACH OF CHILDREN.
+KEEPDORZOLAMIDE HYDROCHLORIDE OPHTHALMIC SOLUTIONAND ALL MEDICINES OUT OF THE REACH OF CHILDREN.
 
 Important information about using dorzolamide hydrochloride ophthalmic solution
 

@@ -16,7 +16,7 @@ No changes in bladder urothelium were seen in dogs given oral dorzolamide hydroc
 An oral dose of 2 mg/kg/day in dogs represents an estimated plasma C max level, 137 times higher than the lower limit of detection in human plasma following ocular administration.
 The topical ophthalmic dose in monkeys was approximately equivalent to the human topical ophthalmic dose.
 
-The following tests for mutagenic potential were negative: (1) in vivo (mouse) cytogenetic assay; (2) in vitro chromosomal aberration assay; (3) alkaline elution assay; (4) V-79 assay; and (5) Ames test.
+The following tests for mutagenic potential were negative: (1) in vivo(mouse) cytogenetic assay; (2) in vitrochromosomal aberration assay; (3) alkaline elution assay; (4) V-79 assay; and (5) Ames test.
 
 In fertility studies of dorzolamide hydrochloride in rats, there were no adverse effects on the reproductive capacity of males or females at doses of 15 and 7.5 mg/kg/day, respectively.
 These doses represent estimated plasma Cmax levels in rats, 103 and 52 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
