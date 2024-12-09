@@ -94,7 +94,7 @@ Table 2: Adverse Reactions Occurring in ≥1% of Patients Treated with PENNSAID 
 
 ## 6.2 Postmarketing Experience
 
-In postmarketing surveillance, the following adverse reactions have been reported during post- approval use of PENNSAID 1.5%.
+In postmarketing surveillance, the following adverse reactions have been reported during post-approval use of PENNSAID 1.5%.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: abdominal pain, accidental injury, allergic reactions, asthenia, back pain, body odor, chest pain, edema, face edema, halitosis, headache, neck rigidity, pain
@@ -113,7 +113,7 @@ Respiratory: asthma, dyspnea, laryngismus, laryngitis, pharyngitis, throat swell
 
 Skin and Appendages: At the Application Site: rash, skin burning sensation;
 
-Other Skin and Appendages Adverse Reactions: eczema, skin discoloration, urticaria
+Other Skin and Appendages Adverse Reactions: eczema, skin discoloration, urticaria, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).
 
 Special Senses: abnormal vision, blurred vision, cataract, ear pain, eye disorder, eye pain, taste perversion
 
