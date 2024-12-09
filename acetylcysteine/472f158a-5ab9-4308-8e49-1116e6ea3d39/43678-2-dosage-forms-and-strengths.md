@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: 200 mg/mL (6 grams of acetylcysteine in 30 mL) in a single-dose vial.
+Injection: 6000 mg/30 mL (200 mg/mL) of acetylcysteine in a single-dose vial.

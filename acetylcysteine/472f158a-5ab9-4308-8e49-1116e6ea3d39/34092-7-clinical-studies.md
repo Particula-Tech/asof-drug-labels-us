@@ -28,3 +28,15 @@ Evaluable data were available from a total of 148 pediatric patients (less than 
 There were no deaths of pediatric patients.
 None of the pediatric patients receiving intravenous acetylcysteine developed hepatotoxicity while two patients not receiving intravenous acetylcysteine developed hepatotoxicity.
 The number of pediatric patients is too small to provide a statistically significant finding of efficacy; however the results appear to be consistent to those observed for adults.
+
+Three-Bag vs. Two-Bag Regimen Observational Study
+
+A multi-center, observational, retrospective cohort study investigated rates of hypersensitivity reactions in 493 patients treated with a two-bag intravenous acetylcysteine regimen compared to 274 patients treated with a three-bag regimen in Denmark between January 2012 and December 2014.
+The two-bag regimen consisted of a 4 hour loading dose at 200 mg/kg followed by a 16 hour infusion at 100 mg/kg.
+The three-bag regimen used a 150 mg/kg loading dose administered over 15 minutes, followed by a second dose of 50 mg/kg over 4 hours and a final dose of 100 mg/kg for 16 hours.
+Patients in this study were treated with acetylcysteine regardless of plasma acetaminophen concentration.
+The median (range) serum acetaminophen concentration at presentation was <1 mcg/mL (0-353 mcg/mL) in the total study population, and only 12/767 patients (1.6%) had a serum acetaminophen level that would have warranted acetylcysteine treatment based on the revised Rumack-Mathew nomogram.
+
+Hepatotoxicity was defined as peak ALT >1,000 U/L at any point during hospitalization.
+In this population that was low-risk for hepatotoxicity based on median acetaminophen level at presentation, no differences were observed in unadjusted hepatotoxicity rates between patients who received the two-bag regimen (4%, 20/493) compared to patients who received the three-bag regimen (4%, 11/274).
+However, this study has significant limitations and was not designed to establish non-inferiority.
