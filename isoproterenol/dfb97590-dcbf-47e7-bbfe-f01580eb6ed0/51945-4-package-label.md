@@ -26,7 +26,7 @@ Isoproterenol Hydrochloride Injection, USP
 
 Intravenous, Subcutaneous Intramuscular or Intracardiac Use Only
 
-1 mL Single Dose Vial x 10 vials per carton
+1 mLSingle Dose Vial x 10 vials per carton
 
 Rx Only
 
@@ -58,6 +58,6 @@ Isoproterenol Hydrochloride Injection, USP
 
 Intravenous, Subcutaneous Intramuscular or Intracardiac Use Only
 
-5 mL Single Dose Vial x 10 vials per carton
+5 mLSingle Dose Vial x 10 vials per carton
 
 Rx Only
