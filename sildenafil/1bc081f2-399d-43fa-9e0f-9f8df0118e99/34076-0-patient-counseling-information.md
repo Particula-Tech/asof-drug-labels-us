@@ -15,12 +15,14 @@ These events may be accompanied by tinnitus and dizziness.
 
 Trademarks are the property of their respective owners.
 
+Dispense with Patient Information available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8094763 Revised: November 2023
+8098157 Revised: November 2024
