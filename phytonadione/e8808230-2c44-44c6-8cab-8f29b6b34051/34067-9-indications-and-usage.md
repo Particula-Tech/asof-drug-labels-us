@@ -4,8 +4,8 @@ Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP) is indicated in the
 
 Vitamin K1 Injection is indicated in:
 
-- anticoagulant-induced prothrombin deficiency caused by coumarin or indanedione derivatives;
-- prophylaxis and therapy of hemorrhagic disease of the newborn;
-- hypoprothrombinemia due to antibacterial therapy;
-- hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K, e.g., obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis;
-- other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism, e.g., salicylates.
+1. anticoagulant-induced prothrombin deficiency caused by coumarin or indanedione derivatives;
+2. prophylaxis and therapy of hemorrhagic disease of the newborn;
+3. hypoprothrombinemia due to antibacterial therapy;
+4. hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K, e.g., obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis;
+5. other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism, e.g., salicylates.
