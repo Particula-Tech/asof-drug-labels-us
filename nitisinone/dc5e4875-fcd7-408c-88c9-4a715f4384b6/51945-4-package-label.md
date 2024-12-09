@@ -1,47 +1,15 @@
-# PRINCIPAL DISPLAY PANEL - 2 mg Capsule Bottle Carton
+Nitisinone Capsules - NDC-71863-119-60 - 60 Capsules - 2 mg Container Label
 
-NDC 71863-119-60
+Nitisinone Capsules - NDC-71863-119-60 - 60 Capsules - 2 mg Carton Label
 
-Nitisinone Capsules 2 mg
+Nitisinone Capsules - NDC-71863-120-60 - 60 Capsules - 5 mg Container Label
 
-For Oral Use
+Nitisinone Capsules - NDC-71863-120-60 - 60 Capsules - 5 mg Carton Label
 
-60 Capsules
+Nitisinone Capsules - NDC-71863-121-60 - 60 Capsules - 10 mg Container Label
 
-Rx Only
+Nitisinone Capsules - NDC-71863-121-60 - 60 Capsules - 10 mg Carton Label
 
-# PRINCIPAL DISPLAY PANEL - 5 mg Capsule Bottle Carton
+Nitisinone Capsules - NDC-71863-122-60 - 60 Capsules - 20 mg Container Label
 
-NDC 71863-120-60
-
-Nitisinone Capsules 5 mg
-
-For Oral Use
-
-60 Capsules
-
-Rx Only
-
-# PRINCIPAL DISPLAY PANEL - 10 mg Capsule Bottle Carton
-
-NDC 71863-121-60
-
-Nitisinone Capsules 10 mg
-
-For Oral Use
-
-60 Capsules
-
-Rx Only
-
-# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Carton
-
-NDC 71863-122-60
-
-Nitisinone Capsules 20 mg
-
-For Oral Use
-
-60 Capsules
-
-Rx Only
+Nitisinone Capsules - NDC-71863-122-60 - 60 Capsules - 20 mg Carton Label
