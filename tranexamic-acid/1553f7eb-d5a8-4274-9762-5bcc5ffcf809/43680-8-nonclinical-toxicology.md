@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis and Impairment of Fertility
 
 Tranexamic acid was not carcinogenic in a 2-year study in rats and mice at oral doses up to 3 and 5.3 g/kg/day, which are approximately 12 and 11 times the maximum recommended human dose based on body surface area, respectively.
 

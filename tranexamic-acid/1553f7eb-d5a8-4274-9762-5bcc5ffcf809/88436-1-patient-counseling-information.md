@@ -28,4 +28,4 @@ Manufactured for: XGen Pharmaceuticals DJB, Inc. Big Flats, NY 14814
 
 Rx only
 
-Revised: April 2023 TRAN-AV-PI-01 8021845
+Revised: April 2024 TRAN-AV-PI-02 8022121

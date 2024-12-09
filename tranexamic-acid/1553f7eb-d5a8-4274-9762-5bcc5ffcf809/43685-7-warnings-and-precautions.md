@@ -44,5 +44,5 @@ Discontinue Tranexamic Acid Injection if changes in ophthalmological examination
 ## 5.6 Dizziness
 
 Tranexamic Acid Injection may cause dizziness.
-Concomitant use of other drugs that may also cause dizziness may women this effect.
+Concomitant use of other drugs that may also cause dizziness may worsen this effect.
 Advise patients to avoid driving or using machines until they know how Tranexamic Acid Injection affects them.

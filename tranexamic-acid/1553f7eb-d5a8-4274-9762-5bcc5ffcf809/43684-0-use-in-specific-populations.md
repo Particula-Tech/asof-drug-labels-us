@@ -29,7 +29,7 @@ There were 13 clinical studies that described fetal and/or neonatal functional i
 
 Animal Data
 
-In embryo-fetal development studies, tranexamic acid was administered to pregnan1 mice from Gestation day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
+In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
 There was no evidence of adverse developmental outcomes in mice and rats at multiple of 3 and 6 times the maximum recommended human dose based on body surface area in the mouse and rat, respectively.
 
 In rabbits, tranexamic acid was administered intravenously at doses of 50, 100, or 200 mg/kg/day or orally at doses of 100, 200, or 400 mg/kg/day from GD 6 through GD 18.
