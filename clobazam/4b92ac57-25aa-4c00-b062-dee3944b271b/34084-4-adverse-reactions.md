@@ -8,8 +8,9 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.4)]
 - Somnolence or Sedation [see Warnings and Precautions (5.5)]
 - Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
-- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.7)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.8)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 

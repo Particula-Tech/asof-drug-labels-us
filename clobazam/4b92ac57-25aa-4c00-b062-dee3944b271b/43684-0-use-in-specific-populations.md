@@ -9,7 +9,7 @@ Healthcare providers are encouraged to recommend that pregnant women taking clob
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations].
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.9) and Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
@@ -28,7 +28,7 @@ Fetal/Neonatal Adverse Reactions
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
 Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
 Monitor neonates exposed to clobazam during pregnancy for signs of withdrawal.
-Manage these neonates accordingly [see Warnings and Precautions (5.8)].
+Manage these neonates accordingly [see Warnings and Precautions (5.9)].
 
 Data
 
@@ -78,7 +78,7 @@ Administration of clobazam to rats prior to and during mating and early gestatio
 
 Safety and effectiveness in patients less than 2 years of age have not been established.
 
-In a study in which clobazam (0 mg/kg/day, 4 mg/kg/day, 36 mg/kg/day, or 120 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 14 to days 48), adverse effects on growth (decreased bone density and bone length) and behavior (altered motor activity and auditory startle response; learning deficit) were observed at the high dose.
+In a study in which clobazam (0 mg/kg/day, 4 mg/kg/day, 36 mg/kg/day, or 120 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 14 to 48), adverse effects on growth (decreased bone density and bone length) and behavior (altered motor activity and auditory startle response; learning deficit) were observed at the high dose.
 The effect on bone density, but not on behavior, was reversible when drug was discontinued.
 The no-effect level for juvenile toxicity (36 mg/kg/day) was associated with plasma exposures (AUC) to clobazam and its major active metabolite, N-desmethylclobazam, less than those expected at therapeutic doses in pediatric patients.
 
