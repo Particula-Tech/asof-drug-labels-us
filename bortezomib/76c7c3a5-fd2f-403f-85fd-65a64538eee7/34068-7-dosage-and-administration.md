@@ -113,10 +113,10 @@ Table 5: Recommended Dose Modification for Bortezomib for Injection-Related Neur
 | Severity of Peripheral Neuropathy Signs and Symptoms* | Modification of Dose and Regimen |
 | --- | --- |
 | Grade 1 (asymptomatic; loss of deep tendon reflexes or paresthesia) without pain or loss of function | No action |
-| Grade 1 with pain or Grade 2 (moderate symptoms; limiting instrumental Activities of Daily Living (ADL)†) | Reduce bortezomib for injection to 1 mg/m2 |
+| Grade 1 with pain or Grade 2 (moderate symptoms; limiting instrumental Activities of Daily Living (ADL) † | Reduce bortezomib for injection to 1 mg/m2 |
 | Grade 2 with pain or Grade 3 (severe symptoms; limiting self care ADL ‡) | Withhold bortezomib for injection therapy until toxicity resolves. When toxicity resolves reinitiate with a reduced dose of bortezomib for injection at 0.7 mg/m2 once per week. |
 | Grade 4 (life-threatening consequences; urgent intervention indicated) | Discontinue bortezomib for injection |
-| *Grading based on NCI Common Terminology Criteria CTCAE v4.0 † Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc. ‡ Self care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medications, and not bedridden |  |
+| * Grading based on NCI Common Terminology Criteria CTCAE v4.0 † Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc. ‡ Self care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medications, and not bedridden |  |
 
 ## 2.8 Dosage in Patients with Hepatic Impairment
 

@@ -235,13 +235,13 @@ Table 18: Summary of Efficacy Analyses in the Previously Untreated Mantle Cell L
 | Complete Response Rate (CR) § |  |  |
 | n (%) (95% CI) | 108 (44) (38, 51) | 82 (34) (28, 40) |
 | Overall Response Rate (CR+Cru+PR)¶ |  |  |
-| N (%) | 214 (88) | 208 (85) |
+| n (%) | 214 (88) | 208 (85) |
 | (95% CI) | (83, 92) | (80, 89) |
 | Overall Survival |  |  |
 | Events n (%) | 103 (42) | 138 (57) |
 | Median* (months) (95% CI) | 91 (71, NE) | 56 (47, 69) |
 | Hazard Ratio† (95% CI) | 0.66 (0.51, 0.85) |  |
-| Note: All results are based on the analysis performed at a median follow-up duration of 40 months except for the overall survival analysis, which was performed at a median follow-up of 78.5 months. CI=Confidence Interval; IPI= International Prognostic Index; LDH=Lactate dehydrogenase * Based on Kaplan-Meier product limit estimates. †Hazard ratio estimate is based on a Cox’s model stratified by IPI risk and stage of disease. A hazard ratio < 1 indicates an advantage for VcR-CAP. ‡Based on Log rank test stratified with IPI risk and stage of disease. § Includes CR by independent radiographic assessment, bone marrow, and LDH using ITT population. ¶Includes CR+ Cru+PR by independent radiographic assessment, regardless of the verification by bone marrow and LDH, using ITT population. |  |  |
+| Note: All results are based on the analysis performed at a median follow-up duration of 40 months except for the overall survival analysis, which was performed at a median follow-up of 78.5 months. CI = Confidence Interval; IPI = International Prognostic Index; LDH = Lactate dehydrogenase * Based on Kaplan-Meier product limit estimates. †Hazard ratio estimate is based on a Cox’s model stratified by IPI risk and stage of disease. A hazard ratio < 1 indicates an advantage for VcR-CAP. ‡Based on Log rank test stratified with IPI risk and stage of disease. § Includes CR by independent radiographic assessment, bone marrow, and LDH using ITT population. ¶Includes CR+ Cru+PR by independent radiographic assessment, regardless of the verification by bone marrow and LDH, using ITT population. |  |  |
 
 Figure 5: Progression-Free Survival VcR-CAP vs R-CHOP (previously Untreated Mantle Cell Lymphoma Study)
 

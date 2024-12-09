@@ -27,7 +27,7 @@ The Cmax after subcutaneous administration (20.4 ng/mL) was lower than after int
 
 Distribution
 
-The mean distribution volume of bortezomib ranged from approximately 498 to 1,884 L/m2 following single-or repeat-dose administration of 1 mg/m2 or 1.3 mg/m2 to patients with multiple myeloma.
+The mean distribution volume of bortezomib ranged from approximately 498 to 1,884 L/m2 following single- or repeat-dose administration of 1 mg/m2 or 1.3 mg/m2 to patients with multiple myeloma.
 The binding of bortezomib to human plasma proteins averaged 83% over the concentration range of 100 to 1,000 ng/mL.
 
 Elimination
