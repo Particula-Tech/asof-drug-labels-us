@@ -55,6 +55,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 MOBIC is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
 
-Copyright 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL9214AE042021
+COL9214BK222024
+
+SPL9216C
