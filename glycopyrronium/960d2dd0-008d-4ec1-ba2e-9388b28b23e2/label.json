@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA017558"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6212-01",
+    "0641-6212-10",
+    "0641-6213-01",
+    "0641-6213-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "glycopyrrolate",
+      "name": "Glycopyrrolate"
+    }
+  ],
+  "setid": "960d2dd0-008d-4ec1-ba2e-9388b28b23e2",
+  "source": "dailymed"
+}
