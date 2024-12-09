@@ -38,6 +38,9 @@ A rare, but life-threatening hepatic veno-occlusive disease associated with chro
 If hepatic veno-occlusive disease is clinically suspected, azathioprine tablets should be permanently withdrawn.
 
 Others: Additional side effects of low frequency have been reported.
-These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis, hepatosplenic T-cell lymphoma (see WARNINGS: Malignancy), and Sweet’s Syndrome (acute febrile neutrophilic dermatosis).
+These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis, hepatosplenic T-cell lymphoma (see Warnings - Malignancy), and Sweet’s Syndrome (acute febrile neutrophilic dermatosis).
+
+Postmarketing Experience The following adverse reactions have been identified during postapproval use of azathioprine tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure. • intrahepatic cholestasis of pregnancy (see WARNINGS, Pregnancy).
 
 To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
