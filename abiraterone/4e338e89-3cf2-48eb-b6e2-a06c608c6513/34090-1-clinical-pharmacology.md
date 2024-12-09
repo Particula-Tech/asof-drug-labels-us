@@ -36,15 +36,15 @@ Absorption
 Following oral administration of abiraterone acetate to patients with metastatic CRPC, the median time to reach maximum plasma abiraterone concentrations is 2 hours.
 Abiraterone accumulation is observed at steady-state, with a 2-fold higher exposure (steady-state AUC) compared to a single 1,000 mg dose of abiraterone acetate.
 
-At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of Cmax were 226 ± 178 ng/mL and of AUC were 993 ± 639 ng.hr/mL.
+At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of C max were 226 ± 178 ng/mL and of AUC were 993 ± 639 ng.hr/mL.
 No major deviation from dose proportionality was observed in the dose range of 250 mg to 1,000 mg.
 However, the exposure was not significantly increased when the dose was doubled from 1,000 to 2,000 mg (8% increase in the mean AUC).
 
 Effect of Food
 
 Systemic exposure of abiraterone is increased when abiraterone acetate is administered with food.
-In healthy subjects abiraterone Cmax and AUC0–∞ were approximately 7- and 5-fold higher, respectively, when a single dose of abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when a single dose of abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal compared to overnight fasting.
-Abiraterone AUC0–∞ was approximately 7-fold or 1.6-fold higher, respectively, when a single dose of abiraterone acetate was administered 2 hours after or 1 hour before a medium fat meal (25% fat, 491 calories) compared to overnight fasting.
+In healthy subjects abiraterone C max and AUC 0–∞ were approximately 7- and 5-fold higher, respectively, when a single dose of abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when a single dose of abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal compared to overnight fasting.
+Abiraterone AUC 0–∞ was approximately 7-fold or 1.6-fold higher, respectively, when a single dose of abiraterone acetate was administered 2 hours after or 1 hour before a medium fat meal (25% fat, 491 calories) compared to overnight fasting.
 
 Systemic exposures of abiraterone in patients with metastatic CRPC, after repeated dosing of abiraterone acetate were similar when abiraterone acetate was taken with low-fat meals for 7 days and increased approximately 2-fold when taken with high-fat meals for 7 days compared to when taken at least 2 hours after a meal and at least 1 hour before a meal for 7 days.
 
@@ -95,13 +95,13 @@ Clinical Studies
 
 Effect of Other Drugs on ZYTIGA
 
-Strong CYP3A4 inducers: In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55%.
+Strong CYP3A4 inducers: In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC ∞ of abiraterone was decreased by 55%.
 
 Strong CYP3A4 inhibitors: Co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone.
 
 Effect of ZYTIGA on Other Drugs
 
-CYP2D6 substrates: The Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily).
+CYP2D6 substrates: The C max and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily).
 The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold.
 
 CYP1A2 substrates: When abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily) was given with a single dose of 100 mg theophylline (CYP1A2 substrate), no increase in systemic exposure of theophylline was observed.
@@ -110,7 +110,7 @@ CYP2C8 substrates: The AUC of pioglitazone (CYP2C8 substrate) was increased by 4
 
 In Vitro Studies
 
-Cytochrome P450 (CYP) Enzymes: Abiraterone is a substrate of CYP3A4 and has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
+Cytochrome P450 (CYP) Enzymes:Abiraterone is a substrate of CYP3A4 and has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
 
 Transporter Systems: In vitro studies show that at clinically relevant concentrations, abiraterone acetate and abiraterone are not substrates of P-glycoprotein (P-gp) and that abiraterone acetate is an inhibitor of P-gp.
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.

@@ -17,7 +17,7 @@ Ninety percent of patients had metastases in bone and 30% had visceral involveme
 Seventy percent of patients had radiographic evidence of disease progression and 30% had PSA-only progression.
 Seventy percent of patients had previously received one cytotoxic chemotherapy regimen and 30% received two regimens.
 
-The protocol pre-specified interim analysis was conducted after 552 deaths and showed a statistically significant improvement in overall survival (OS) in patients treated with ZYTIGA with prednisone compared to patients in the placebo with prednisone arm (Table 9 and Figure 1).
+The protocol pre-specified interim analysis was conducted after 552 deaths and showed a statistically significant improvement in overall survival (OS) in patients treated with ZYTIGA with prednisone compared to patients in the placebo with prednisone arm (Table 7 and Figure 1).
 An updated survival analysis was conducted when 775 deaths (97% of the planned number of deaths for final analysis) were observed.
 Results from this analysis were consistent with those from the interim analysis (Table 7).
 
@@ -28,8 +28,8 @@ Table 7: Overall Survival of Patients Treated with Either ZYTIGA or Placebo in C
 | Primary Survival Analysis |  |  |
 | Deaths (%) | 333 (42%) | 219 (55%) |
 | Median survival (months) (95% CI) | 14.8 (14.1, 15.4) | 10.9 (10.2, 12.0) |
-| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0–1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). | <0.0001 |  |
-| Hazard ratio (95% CI)Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone. | 0.646 (0.543, 0.768) |  |
+| p-value p-value is derived from a log-rank test stratified by ECOG performance status score (0–1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). | <0.0001 |  |
+| Hazard ratio (95% CI) Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone. | 0.646 (0.543, 0.768) |  |
 | Updated Survival Analysis |  |  |
 | Deaths (%) | 501 (63%) | 274 (69%) |
 | Median survival (months) (95% CI) | 15.8 (14.8, 17.0) | 11.2 (10.4, 13.1) |
@@ -65,8 +65,8 @@ Table 8: Overall Survival of Patients Treated with Either ZYTIGA or Placebo in C
 | Overall Survival |  |  |
 | Deaths | 354 (65%) | 387 (71%) |
 | Median survival (months) (95% CI) | 34.7 (32.7, 36.8) | 30.3 (28.7, 33.3) |
-| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | 0.0033 |  |
-| Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone. (95% CI) | 0.81 (0.70, 0.93) |  |
+| p-value p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | 0.0033 |  |
+| Hazard ratio Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone.(95% CI) | 0.81 (0.70, 0.93) |  |
 
 Figure 2: Kaplan Meier Overall Survival Curves in COU-AA-302
 
@@ -80,8 +80,8 @@ Table 9: Radiographic Progression-free Survival of Patients Treated with Either 
 | Radiographic Progression-free Survival |  |  |
 | Progression or death | 150 (28%) | 251 (46%) |
 | Median rPFS (months) (95% CI) | NR (11.66, NR) | 8.28 (8.12, 8.54) |
-| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | <0.0001 |  |
-| Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone. (95% CI) | 0.425 (0.347, 0.522) |  |
+| p-value p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | <0.0001 |  |
+| Hazard ratio Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone.(95% CI) | 0.425 (0.347, 0.522) |  |
 | NR=Not reached. |  |  |
 
 Figure 3: Kaplan Meier Curves of Radiographic Progression-free Survival in COU-AA-302 (Intent-to-Treat Analysis)
@@ -118,11 +118,11 @@ Table 10: Overall Survival of Patients Treated with Either ZYTIGA or Placebos in
 
 |  | ZYTIGA with Prednisone (N=597) | Placebos (N=602) |
 | --- | --- | --- |
-| Overall SurvivalThis is based on the pre-specified interim analysis |  |  |
+| Overall Survival This is based on the pre-specified interim analysis |  |  |
 | Deaths (%) | 169 (28%) | 237 (39%) |
 | Median survival (months) (95% CI) | NE (NE, NE) | 34.7 (33.1, NE) |
-| p-valuep value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral (absent or present). | <0.0001 |  |
-| Hazard ratio (95% CI)Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone. | 0.62 (0.51, 0.76) |  |
+| p-value p value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral (absent or present). | <0.0001 |  |
+| Hazard ratio (95% CI) Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA with prednisone. | 0.62 (0.51, 0.76) |  |
 | Updated Overall Survival |  |  |
 | Deaths (%) | 275 (46%) | 343 (57%) |
 | Median survival (months) (95% CI) | 53.3 (48.2, NE) | 36.5 (33.5, 40.0) |

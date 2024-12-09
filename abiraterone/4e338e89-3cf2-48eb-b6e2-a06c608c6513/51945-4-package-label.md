@@ -2,7 +2,7 @@
 
 NDC 57894-150-12 Rx only
 
-Zytiga® (abiraterone acetate) tablets
+Zytiga ® (abiraterone acetate) tablets
 
 250 mg
 
@@ -16,7 +16,7 @@ Warning: Women who are or may be pregnant should not handle ZYTIGA without glove
 
 NDC 57894-195-06
 
-Zytiga® 500 mg (abiraterone acetate) Tablets
+Zytiga ® 500 mg (abiraterone acetate) Tablets
 
 Each film-coated tablet contains 500 mg of abiraterone acetate.
 

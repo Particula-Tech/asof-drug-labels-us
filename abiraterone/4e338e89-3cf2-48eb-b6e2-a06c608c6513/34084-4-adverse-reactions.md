@@ -44,12 +44,12 @@ Table 1: Adverse Reactions due to ZYTIGA in COU-AA-301
 | Adverse reaction | % | % | % | % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |
-| System/Organ Class | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
+| System/Organ Class | All Grades Adverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 30 | 4.2 | 23 | 4.1 |
-| Muscle discomfortIncludes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness. | 26 | 3.0 | 23 | 2.3 |
+| Joint swelling/discomfort Includes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 30 | 4.2 | 23 | 4.1 |
+| Muscle discomfort Includes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness. | 26 | 3.0 | 23 | 2.3 |
 | General disorders |  |  |  |  |
-| EdemaIncludes terms Edema, Edema peripheral, Pitting edema, and Generalized edema. | 27 | 1.9 | 18 | 0.8 |
+| Edema Includes terms Edema, Edema peripheral, Pitting edema, and Generalized edema. | 27 | 1.9 | 18 | 0.8 |
 | Vascular disorders |  |  |  |  |
 | Hot flush | 19 | 0.3 | 17 | 0.3 |
 | Hypertension | 8.5 | 1.3 | 6.9 | 0.3 |
@@ -65,11 +65,11 @@ Table 1: Adverse Reactions due to ZYTIGA in COU-AA-301
 | Urinary frequency | 7.2 | 0.3 | 5.1 | 0.3 |
 | Nocturia | 6.2 | 0 | 4.1 | 0 |
 | Injury, poisoning and procedural complications |  |  |  |  |
-| FracturesIncludes all fractures with the exception of pathological fracture. | 5.9 | 1.4 | 2.3 | 0 |
+| Fractures Includes all fractures with the exception of pathological fracture. | 5.9 | 1.4 | 2.3 | 0 |
 | Cardiac disorders |  |  |  |  |
-| ArrhythmiaIncludes terms Arrhythmia, Tachycardia, Atrial fibrillation, Supraventricular tachycardia, Atrial tachycardia, Ventricular tachycardia, Atrial flutter, Bradycardia, Atrioventricular block complete, Conduction disorder, and Bradyarrhythmia. | 7.2 | 1.1 | 4.6 | 1.0 |
-| Chest pain or chest discomfortIncludes terms Angina pectoris, Chest pain, and Angina unstable. Myocardial infarction or ischemia occurred more commonly in the placebo arm than in the ZYTIGA arm (1.3% vs. 1.1% respectively). | 3.8 | 0.5 | 2.8 | 0 |
-| Cardiac failureIncludes terms Cardiac failure, Cardiac failure congestive, Left ventricular dysfunction, Cardiogenic shock, Cardiomegaly, Cardiomyopathy, and Ejection fraction decreased. | 2.3 | 1.9 | 1.0 | 0.3 |
+| Arrhythmia Includes terms Arrhythmia, Tachycardia, Atrial fibrillation, Supraventricular tachycardia, Atrial tachycardia, Ventricular tachycardia, Atrial flutter, Bradycardia, Atrioventricular block complete, Conduction disorder, and Bradyarrhythmia. | 7.2 | 1.1 | 4.6 | 1.0 |
+| Chest pain or chest discomfort Includes terms Angina pectoris, Chest pain, and Angina unstable. Myocardial infarction or ischemia occurred more commonly in the placebo arm than in the ZYTIGA arm (1.3% vs. 1.1% respectively). | 3.8 | 0.5 | 2.8 | 0 |
+| Cardiac failure Includes terms Cardiac failure, Cardiac failure congestive, Left ventricular dysfunction, Cardiogenic shock, Cardiomegaly, Cardiomyopathy, and Ejection fraction decreased. | 2.3 | 1.9 | 1.0 | 0.3 |
 
 Table 2 shows laboratory abnormalities of interest from COU-AA-301.
 
@@ -98,13 +98,13 @@ Table 3: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in COU-AA-302
 | Adverse reaction | % | % | % | % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=542) |  | Placebo with Prednisone (N=540) |  |
-| System/Organ Class | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
+| System/Organ Class | All Grades Adverse events graded according to CTCAE version 3.0. | Grade 3–4 | All Grades | Grade 3–4 |
 | General disorders |  |  |  |  |
 | Fatigue | 39 | 2.2 | 34 | 1.7 |
-| EdemaIncludes terms Edema peripheral, Pitting edema, and Generalized edema. | 25 | 0.4 | 21 | 1.1 |
+| Edema Includes terms Edema peripheral, Pitting edema, and Generalized edema. | 25 | 0.4 | 21 | 1.1 |
 | Pyrexia | 8.7 | 0.6 | 5.9 | 0.2 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Joint swelling/discomfortIncludes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 30 | 2.0 | 25 | 2.0 |
+| Joint swelling/discomfort Includes terms Arthritis, Arthralgia, Joint swelling, and Joint stiffness. | 30 | 2.0 | 25 | 2.0 |
 | Groin pain | 6.6 | 0.4 | 4.1 | 0.7 |
 | Gastrointestinal disorders |  |  |  |  |
 | Constipation | 23 | 0.4 | 19 | 0.6 |
@@ -139,7 +139,7 @@ Table 4: Laboratory Abnormalities in >15% of Patients in the ZYTIGA Arm of COU-A
 | Hematology |  |  |  |  |
 | Lymphopenia | 38 | 8.7 | 32 | 7.4 |
 | Chemistry |  |  |  |  |
-| HyperglycemiaBased on non-fasting blood draws | 57 | 6.5 | 51 | 5.2 |
+| Hyperglycemia Based on non-fasting blood draws | 57 | 6.5 | 51 | 5.2 |
 | High ALT | 42 | 6.1 | 29 | 0.7 |
 | High AST | 37 | 3.1 | 29 | 1.1 |
 | Hypernatremia | 33 | 0.4 | 25 | 0.2 |
@@ -154,9 +154,9 @@ The median duration of treatment with ZYTIGA and prednisone was 24 months.
 
 Table 5 shows adverse reactions on the ZYTIGA arm that occurred in ≥5% of patients with a ≥2% absolute increase in frequency compared to those on the placebos arm.
 
-Table 5: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in LATITUDEAll patients were receiving an GnRH agonist or had undergone orchiectomy.
+Table 5: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in LATITUDE All patients were receiving an GnRH agonist or had undergone orchiectomy.
 
-| System/Organ Class Adverse reaction | All GradesAdverse events graded according to CTCAE version 4.0 % | Grade 3–4 % | All Grades % | Grade 3–4 % |
+| System/Organ Class Adverse reaction | All Grades Adverse events graded according to CTCAE version 4.0 % | Grade 3–4 % | All Grades % | Grade 3–4 % |
 | --- | --- | --- | --- | --- |
 |  | ZYTIGA with Prednisone (N=597) |  | Placebos (N=602) |  |
 | Vascular disorders |  |  |  |  |
@@ -165,7 +165,7 @@ Table 5: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in LATITUDEAll
 | Metabolism and nutrition disorders |  |  |  |  |
 | Hypokalemia | 20 | 10 | 3.7 | 1.3 |
 | Investigations |  |  |  |  |
-| Alanine aminotransferase increasedReported as an adverse event or reaction | 16 | 5.5 | 13 | 1.3 |
+| Alanine aminotransferase increased Reported as an adverse event or reaction | 16 | 5.5 | 13 | 1.3 |
 | Aspartate aminotransferase increased | 15 | 4.4 | 11 | 1.5 |
 | Infections and infestations |  |  |  |  |
 | Urinary tract infection | 7.0 | 1.0 | 3.7 | 0.8 |
@@ -173,7 +173,7 @@ Table 5: Adverse Reactions in ≥5% of Patients on the ZYTIGA Arm in LATITUDEAll
 | Nervous system disorders |  |  |  |  |
 | Headache | 7.5 | 0.3 | 5.0 | 0.2 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| CoughIncluding cough, productive cough, upper airway cough syndrome | 6.5 | 0.0 | 3.2 | 0 |
+| Cough Including cough, productive cough, upper airway cough syndrome | 6.5 | 0.0 | 3.2 | 0 |
 
 Table 6 shows laboratory abnormalities that occurred in >15% of patients, and more frequently (>5%) in the ZYTIGA arm compared to placebos.
 
@@ -206,12 +206,12 @@ Myocardial ischemia or myocardial infarction led to death in 3 patients in the p
 The following additional adverse reactions have been identified during post approval use of ZYTIGA with prednisone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
+Respiratory, Thoracic and Mediastinal Disorders:non-infectious pneumonitis.
 
-Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
+Musculoskeletaland Connective Tissue Disorders:myopathy, including rhabdomyolysis.
 
-Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
+Hepatobiliary Disorders:fulminant hepatitis, including acute hepatic failure and death.
 
-Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
+Cardiac Disorders:QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
 
-Immune System Disorders – Hypersensitivity: anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).
+Immune System Disorders – Hypersensitivity:anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).

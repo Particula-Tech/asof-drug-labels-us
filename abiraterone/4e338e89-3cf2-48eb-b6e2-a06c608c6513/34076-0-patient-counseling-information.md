@@ -22,7 +22,7 @@ Hepatotoxicity
 Hypoglycemia
 
 - Inform patients that severe hypoglycemia has been reported when ZYTIGA was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide, antidiabetic drugs.
-  Advise patients with diabetes to monitor glucose levels during and after treatment with ZYTIGA [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
+  Advise patients with diabetes to monitor glucose levels during and after treatment with ZYTIGA [see Warnings and Precautions (5.6)and Drug Interactions (7.2)].
 
 Use in Combination with Radium Ra 223 Dichloride
 
@@ -44,7 +44,7 @@ Embryo-Fetal Toxicity
 
 - Inform patients that ZYTIGA may harm a developing fetus and can cause loss of pregnancy.
 - Advise males with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the final dose of ZYTIGA [see Use in Specific Populations (8.1)].
-- Advise females who are pregnant or women who may be pregnant not to handle ZYTIGA 250 mg uncoated tablets or other ZYTIGA tablets if broken, crushed, or damaged without protection, e.g., gloves [see Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
+- Advise females who are pregnant or women who may be pregnant not to handle ZYTIGA 250 mg uncoated tablets or other ZYTIGA tablets if broken, crushed, or damaged without protection, e.g., gloves [see Use in Specific Populations (8.1)and How Supplied/Storage and Handling (16)].
 
 Infertility
 

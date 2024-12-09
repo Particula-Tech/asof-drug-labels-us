@@ -1,12 +1,7 @@
-Product of Belgium
+Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044, USA
 
-500 mg Tablets Manufactured by: Patheon France S.A.S.
-Bourgoin Jallieu, France
+For patent information: www.janssenpatents.com
 
-250 mg Tablets Manufactured by: Patheon Inc. Mississauga, Canada
+© Johnson & Johnson and its affiliates 2011, 2017, 2024
 
-Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
-
-© 2011, 2017 Janssen Pharmaceutical Companies
-
-Revised: 8/2021
+Revised: 11/2024
