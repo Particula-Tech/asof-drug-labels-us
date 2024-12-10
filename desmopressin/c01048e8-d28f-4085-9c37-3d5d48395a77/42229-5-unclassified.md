@@ -1,8 +1,10 @@
-Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312 www.amringusa.com
+Manufactured for: Nordic Pharma, Inc. Berwyn, PA 19312 www.nordicpharmausa.com
 
-The Amring Logo and the “A” Logo are trademarks of Amring Pharmaceuticals, Inc.
+The Nordic Pharma Logo is a trademark of Nordic Group B.V.
 
 Origin Sweden
 
 Rev.
-08/2020
+10/2024
+
+2009056650

@@ -25,7 +25,6 @@ No lessening of effect was observed in the 46 patients who were treated with Des
 The change in structure of arginine vasopressin to desmopressin acetate resulted in less vasopressor activity and decreased action on visceral smooth muscle relative to enhanced antidiuretic activity.
 Consequently, clinically effective antidiuretic doses are usually below the threshold for effects on vascular or visceral smooth muscle.
 In the four long-term studies of Desmopressin Acetate Tablets, no increases in blood pressure in 46 patients receiving Desmopressin Acetate Tablets for periods of 12 to 44 months were reported.
-
 In one study, the pharmacodynamic characteristics of Desmopressin Acetate Tablets and intranasal formulation were compared during an 8-hour dosing interval at steady state.
 The doses administered to 36 hydrated (water loaded) healthy male adult volunteers every 8 hours were 0.1, 0.2, 0.4 mg orally and 0.01 mg intranasally by rhinal tube.
 The results are shown in the following table:
