@@ -7,13 +7,16 @@ Hyponatremia and Fluid Restriction
 - Advise patients to contact a healthcare provider if symptoms of hyponatremia occur.
 - Discuss adjustment of fluid intake and monitoring of urine output with patients.
 
-Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312
+Manufactured for: Nordic Pharma, Inc. Berwyn, PA 19312
 
-www.amringusa.com
+www.nordicpharmausa.com
+
+PREMIER Pro Rx ®
+
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
 Origin Sweden
 
-Rev.
-8/2022
+Rev 10/2024
 
-601553
+602353
