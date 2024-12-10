@@ -14,5 +14,5 @@ Tizanidine was negative in in vitro (bacterial reverse mutation [Ames], mammalia
 
 Impairment of Fertility
 
-Oral administration of tizanidine to rats prior to and during mating and continuing during early pregnancy in females resulted in reduced fertility in male and female rats at doses of 30 and 10 mg/kg/day, respectively.
+Oral administration of tizanidine to rats prior to and during mating and continuing during early pregnancy in females resulted in reduced fertility in male and female rats at doses of 30 mg/kg/day and 10 mg/kg/day, respectively.
 No effect on fertility was observed at doses of 10 (male) and 3 (female) mg/kg/day, which are approximately 3 times and similar to the MRHD, respectively, on a mg/m2 basis.
