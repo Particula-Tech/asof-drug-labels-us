@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205724"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-245-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "itraconazole",
+      "name": "Itraconazole"
+    }
+  ],
+  "setid": "6df5ff94-47ba-4881-abb4-b321e35a6955",
+  "source": "dailymed"
+}
