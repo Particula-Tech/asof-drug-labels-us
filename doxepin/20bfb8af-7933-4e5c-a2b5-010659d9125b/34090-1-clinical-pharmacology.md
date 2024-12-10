@@ -3,7 +3,7 @@
 The mechanism of action of doxepin is not definitely known.
 It is not a central nervous system stimulant nor a monoamine oxidase inhibitor.
 The current hypothesis is that the clinical effects are due, at least in part, to influences on the adrenergic activity at the synapses so that deactivation of norepinephrine by reuptake into the nerve terminals is prevented.
-Animal studies suggest that doxepin HCl does not appreciably antagonize the antihypertensive action of guanethidine.
+Animal studies suggest that doxepin hydrochloride does not appreciably antagonize the antihypertensive action of guanethidine.
 In animal studies anticholinergic, antiserotonin and antihistamine effects on smooth muscle have been demonstrated.
 At higher than usual clinical doses, norepinephrine response was potentiated in animals.
 This effect was not demonstrated in humans.

@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 NOTE: Some of the adverse reactions noted below have not been specifically reported with doxepin use.
-However, due to the close pharmacological similarities among the tricyclics, the reactions should be considered when prescribing doxepin HCl.
+However, due to the close pharmacological similarities among the tricyclics, the reactions should be considered when prescribing doxepin hydrochloride.
 
 Anticholinergic Effects: Dry mouth, blurred vision, constipation, and urinary retention have been reported.
 If they do not subside with continued therapy, or become severe, it may be necessary to reduce the dosage.
