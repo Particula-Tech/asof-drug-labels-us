@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA216352"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Shandong Luye Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "72526-105-11",
+    "72526-106-11",
+    "72526-107-11",
+    "72526-108-11",
+    "72526-109-11",
+    "72526-110-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "paliperidone palmitate",
+      "name": "Erzofri extended-release"
+    }
+  ],
+  "setid": "492bf9dd-868e-421a-92db-8cca8973aac1",
+  "source": "dailymed"
+}
