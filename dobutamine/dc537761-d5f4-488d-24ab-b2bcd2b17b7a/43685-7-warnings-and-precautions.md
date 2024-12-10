@@ -1,13 +1,13 @@
 # WARNINGS
 
-1. Increase in Heart Rate or Blood PressureDobutamine hydrochloride may cause a marked increase in heart rate or blood pressure, especially systolic pressure.
+1. 1.Increase in Heart Rate or Blood Pressure Dobutamine hydrochloride may cause a marked increase in heart rate or blood pressure, especially systolic pressure.
    Approximately 10% of patients in clinical studies have had rate increases of 30 beats/minute or more, and about 7.5% have had a 50 mm Hg or greater increase in systolic pressure.
    Usually, reduction of dosage promptly reverses these effects.
    Because dobutamine hydrochloride facilitates atrioventricular conduction, patients with atrial fibrillation are at risk of developing rapid ventricular response.
    Patients with pre-existing hypertension appear to face an increased risk of developing an exaggerated pressor response.
-2. Ectopic ActivityDobutamine hydrochloride may precipitate or exacerbate ventricular ectopic activity, but it rarely has caused ventricular tachycardia.
-3. HypersensitivityReactions suggestive of hypersensitivity associated with administration of Dobutamine Injection, USP, including skin rash, fever, eosinophilia, and bronchospasm, have been reported occasionally.
-4. Dobutamine Injection, USP contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
+2. 2.Ectopic Activity Dobutamine hydrochloride may precipitate or exacerbate ventricular ectopic activity, but it rarely has caused ventricular tachycardia.
+3. 3.Hypersensitivity Reactions suggestive of hypersensitivity associated with administration of Dobutamine Injection, USP, including skin rash, fever, eosinophilia, and bronchospasm, have been reported occasionally.
+4. 4.Dobutamine Injection, USP contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
    The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
    Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 
@@ -15,10 +15,10 @@
 
 General
 
-1. During the administration of Dobutamine Injection, USP, as with any adrenergic agent, ECG and blood pressure should be continuously monitored.
+1. 1.During the administration of Dobutamine Injection, USP, as with any adrenergic agent, ECG and blood pressure should be continuously monitored.
    In addition, pulmonary wedge pressure and cardiac output should be monitored whenever possible to aid in the safe and effective infusion of dobutamine hydrochloride.
-2. Hypovolemia should be corrected with suitable volume expanders before treatment with dobutamine hydrochloride is instituted.
-3. No improvement may be observed in the presence of marked mechanical obstruction, such as severe valvular aortic stenosis.
+2. 2.Hypovolemia should be corrected with suitable volume expanders before treatment with dobutamine hydrochloride is instituted.
+3. 3.No improvement may be observed in the presence of marked mechanical obstruction, such as severe valvular aortic stenosis.
 
 Usage Following Acute Myocardial Infarction − Clinical experience with dobutamine hydrochloride following myocardial infarction has been insufficient to establish the safety of the drug for this use.
 There is concern that any agent that increases contractile force and heart rate may increase the size of an infarction by intensifying ischemia, but it is not known whether dobutamine hydrochloride does so.
