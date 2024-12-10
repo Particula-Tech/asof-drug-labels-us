@@ -12,4 +12,4 @@ Manufactured by: USV Private Limited Daman – 396210, India
 
 Manufactured for: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784)
 
-Revised: 10/2024
+Revised: 11/2024

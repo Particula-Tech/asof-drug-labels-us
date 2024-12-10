@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-Octreotide acetate injection, a cyclic octapeptide prepared as a clear sterile solution of octreotide, acetate salt, in a buffered acetic acid solution for administration by deep subcutaneous (intrafat) or intravenous IV injection.
+Octreotide acetate injection, a cyclic octapeptide prepared as a clear sterile solution of octreotide, acetate salt, in a buffered acetic acid solution for administration by deep subcutaneous or IV injection.
 Octreotide acetate, known chemically as L-Cysteinamide, D-phenylalanyl-L-cysteinyl-L-phenylalanyl-D-tryptophyl-L-lysyl-L-threonyl-N-[2-hydroxy-1-(hydroxymethyl) propyl]-,cyclic (2 → 7)-disulfide; [R-(R*, R*)] acetate salt, is a long-acting octapeptide with pharmacologic actions mimicking those of the natural hormone somatostatin.
 
-Octreotide acetate injection is available as sterile 1-mL single dose vials in 3 strengths, each mL containing 50 mcg, 100 mcg, or 500 mcg octreotide acetate, USP. as the active ingredient and sterile 5-mL multi-dose vials in 2 strengths, containing 200 and 1,000 mcg/mL of octreotide acetate, USP as the active ingredient.
+Octreotide acetate injection is available as sterile 1-mL single dose vials in 3 strengths, each mL containing 50 mcg, 100 mcg, or 500 mcg octreotide acetate, USP as the active ingredient and sterile 5-mL multi-dose vials in 2 strengths, containing 200 and 1,000 mcg/mL of octreotide acetate, USP as the active ingredient.
 
 Each mL of the single-dose vials also contains following inactive ingredients: glacial acetic acid, USP.......................................................................................................................................2 mg sodium acetate (trihydrate), USP........................................................................................................................2 mg sodium chloride, USP.........................................................................................................................................7 mg water for injection........................................................................................................... quantity sufficient to 1 mL
 
