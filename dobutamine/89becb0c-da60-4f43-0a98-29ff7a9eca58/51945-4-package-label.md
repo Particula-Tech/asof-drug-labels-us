@@ -17,11 +17,8 @@ NDC 0409-2344-88 20 mL Single-Dose
 
 Rx only 10 Fliptop Vials
 
-DOBUTamine Injection, USP
-
-250 mg/20 mL (12.5 mg/mL)
-
-MUST BE DILUTED PRIOR TO USE.
-FOR INTRAVENOUS USE ONLY.
-
-novaplus™
+1. DOBUTamine Injection, USP
+2. 250 mg/20 mL (12.5 mg/mL)
+3. MUST BE DILUTED PRIOR TO USE.
+   FOR INTRAVENOUS USE ONLY.
+4. novaplus™
