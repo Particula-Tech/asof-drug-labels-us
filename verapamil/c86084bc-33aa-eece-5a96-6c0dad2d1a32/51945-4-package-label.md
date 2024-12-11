@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 120 mg
+# PRINCIPAL DISPLAY PANEL - 120 mg
 
 NDC 0378-6320-01
 
@@ -27,7 +27,7 @@ Made in India
 
 Mylan.com
 
-RMX6320A
+RMX6320A1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -35,7 +35,7 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
-PRINCIPAL DISPLAY PANEL - 180 mg
+# PRINCIPAL DISPLAY PANEL - 180 mg
 
 NDC 0378-6380-01
 
@@ -64,7 +64,7 @@ Made in India
 
 Mylan.com
 
-RMX6380A
+RMX6380A1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -72,7 +72,7 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
-PRINCIPAL DISPLAY PANEL - 240 mg
+# PRINCIPAL DISPLAY PANEL - 240 mg
 
 NDC 0378-6440-01
 
@@ -101,7 +101,7 @@ Made in India
 
 Mylan.com
 
-RMX6440A
+RMX6440A1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
