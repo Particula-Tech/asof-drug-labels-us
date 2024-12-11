@@ -4,7 +4,7 @@
 
 Non-substitutable
 
-Noxafil® oral suspension is not substitutable withposaconazole delayed-release tablets or Noxafil® PowderMix for delayed-release oral suspension due to the differences in the dosing of each formulation.
+Noxafil® oral suspension is not substitutable with posaconazole delayed-release tablets or Noxafil® PowderMix for delayed-release oral suspension due to the differences in the dosing of each formulation.
 
 • Swallow tablets whole.
 Do not divide, crush, or chew.
@@ -24,7 +24,7 @@ Table 1: Dosing Regimens in Adult Patients
 
 ## 2.3 Dosing Regimen in Pediatric Patients (ages 13 to less than 18 years of age)
 
-The recommended dosing regimen of posaconazole delayed-release tablets for pediatric patients 13 to less than 18 years of age is shown inTable 2 [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+The recommended dosing regimen of posaconazole delayed-release tablets for pediatric patients 13 to less than 18 years of age is shown in Table 2 [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 Table 2: Posaconazole Delayed-Release Tablet Dosing Regimens for Pediatric Patients (ages 13 to less than 18 years of age)
 
@@ -36,16 +36,16 @@ Table 2: Posaconazole Delayed-Release Tablet Dosing Regimens for Pediatric Patie
 Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.’s NOXAFIL (posaconazole delayed-release tablets).
 However, due to Merck Sharp & Dohme Corp.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 2.5Administration Instructions for Posaconazole Delayed-Release Tablets
+## 2.5 Administration Instructions for Posaconazole Delayed-Release Tablets
 
 • Swallow tablets whole.
 Do not divide, crush, or chew.
 
 • Administer posaconazole delayed-release tablets with or without food [see Clinical Pharmacology (12.3)].
 
-## 2.7 Non-substitutability between Noxafil®Oral Suspension and Other Formulations
+## 2.7 Non-substitutability between Noxafil ® Oral Suspension and Other Formulations
 
-Noxafil®oral suspension is not substitutable with posaconazole delayed-release tablets or Noxafil®PowderMix for delayed-release oral suspension due to the differences in the dosing of each formulation.
+Noxafil ® oral suspension is not substitutable with posaconazole delayed-release tablets or Noxafil ® PowderMix for delayed-release oral suspension due to the differences in the dosing of each formulation.
 
 ## 2.9 Dosage Adjustments in Patients with Renal Impairment
 

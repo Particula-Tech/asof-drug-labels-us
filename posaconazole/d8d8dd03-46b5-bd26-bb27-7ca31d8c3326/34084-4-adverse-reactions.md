@@ -6,7 +6,7 @@ The following serious and otherwise important adverse reactions are discussed in
 
 • Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)]
 
-• Hepatic Toxicity [see Warnings and Precautions (5.4)]
+• Hepatic Toxicity [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

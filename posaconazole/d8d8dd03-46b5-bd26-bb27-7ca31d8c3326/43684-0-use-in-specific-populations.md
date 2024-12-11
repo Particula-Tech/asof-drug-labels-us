@@ -68,7 +68,7 @@ Compared to subjects with normal hepatic function, the mean Cmax was 1% higher, 
 The mean apparent oral clearance (CL/F) was reduced by 18%, 36%, and 28% in subjects with mild, moderate, or severe hepatic impairment, respectively, compared to subjects with normal hepatic function.
 The elimination half-life (t½) was 27 hours, 39 hours, 27 hours, and 43 hours in subjects with normal hepatic function and mild, moderate, or severe hepatic impairment, respectively.
 
-It is recommended that no dose adjustment of posaconazole delayed-release tablets is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.4)].
+It is recommended that no dose adjustment of posaconazole delayed-release tablets is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.5)].
 Similar recommendations apply to posaconazole delayed-release tablets; however, a specific study has not been conducted with posaconazole delayed-release tablets.
 
 ## 8.8 Gender
