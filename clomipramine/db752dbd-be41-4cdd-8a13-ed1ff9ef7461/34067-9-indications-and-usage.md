@@ -14,4 +14,4 @@ Patients on placebo showed no important clinical response on either scale.
 The maximum dose was 250 mg/day for most adults and 3 mg/kg/day (up to 200 mg) for all children and adolescents.
 
 The effectiveness of clomipramine for long-term use (i.e., for more than 10 weeks) has not been systematically evaluated in placebo-controlled trials.
-The physician who elects to use clomipramine for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+The physician who elects to use clomipramine for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (seeDOSAGE AND ADMINISTRATION).

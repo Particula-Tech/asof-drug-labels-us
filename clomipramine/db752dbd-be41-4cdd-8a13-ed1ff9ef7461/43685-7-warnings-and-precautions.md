@@ -40,8 +40,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
-Such monitoring should include daily observation by families and caregivers.
-Prescriptions for clomipramine hydrochloride should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
+Such monitoring should include daily observation by families and caregivers.Prescriptions for clomipramine hydrochloride should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -63,7 +62,7 @@ Clomipramine should also not be started in a patient who is being treated with M
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking clomipramine.
-Clomipramine should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+Clomipramine should be discontinued before initiating treatment with the MAOI (seeCONTRAINDICATIONSandDOSAGE AND ADMINISTRATION).
 If concomitant use of clomipramine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with clomipramine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
@@ -81,7 +80,7 @@ The cumulative rates correct the crude rate of 0.7%, (25 of 3519 patients) for t
 
 Although dose appears to be a predictor of seizure, there is a confounding of dose and duration of exposure, making it difficult to assess independently the effect of either factor alone.
 The ability to predict the occurrence of seizures in subjects exposed to doses of CMI greater than 250 mg is limited, given that the plasma concentration of CMI may be dose-dependent and may vary among subjects given the same dose.
-Nevertheless, prescribers are advised to limit the daily dose to a maximum of 250 mg in adults and 3 mg/kg (or 200 mg) in children and adolescents (see DOSAGE AND ADMINISTRATION).
+Nevertheless, prescribers are advised to limit the daily dose to a maximum of 250 mg in adults and 3 mg/kg (or 200 mg) in children and adolescents (seeDOSAGE AND ADMINISTRATION).
 
 Caution should be used in administering clomipramine to patients with a history of seizures or other predisposing factors, e.g., brain damage of varying etiology, alcoholism, and concomitant use with other drugs that lower the seizure threshold.
 
@@ -185,7 +184,7 @@ As with closely related tricyclic antidepressants, clomipramine should be used w
 
 A variety of withdrawal symptoms have been reported in association with abrupt discontinuation of clomipramine, including dizziness, nausea, vomiting, headache, malaise, sleep disturbance, hyperthermia, and irritability.
 In addition, such patients may experience a worsening of psychiatric status.
-While the withdrawal effects of clomipramine have not been systematically evaluated in controlled trials, they are well known with closely related tricyclic antidepressants, and it is recommended that the dosage be tapered gradually and the patient monitored carefully during discontinuation (see DRUG ABUSE AND DEPENDENCE).
+While the withdrawal effects of clomipramine have not been systematically evaluated in controlled trials, they are well known with closely related tricyclic antidepressants, and it is recommended that the dosage be tapered gradually and the patient monitored carefully during discontinuation (seeDRUG ABUSE AND DEPENDENCE).
 
 ## Information for Patients
 
@@ -205,9 +204,9 @@ Such symptoms should be reported to the patient's prescriber or health professio
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 Physicians are advised to discuss the following issues with patients for whom they prescribe clomipramine hydrochloride capsules:
 
-1. The risk of seizure (see WARNINGS);
-2. The relatively high incidence of sexual dysfunction among males (see Sexual Dysfunction);
-3. Since clomipramine may impair the mental and/or physical abilities required for the performance of complex tasks, and since clomipramine is associated with a risk of seizures, patients should be cautioned about the performance of complex and hazardous tasks (see WARNINGS);
+1. The risk of seizure (seeWARNINGS);
+2. The relatively high incidence of sexual dysfunction among males (seeSexual Dysfunction);
+3. Since clomipramine may impair the mental and/or physical abilities required for the performance of complex tasks, and since clomipramine is associated with a risk of seizures, patients should be cautioned about the performance of complex and hazardous tasks (seeWARNINGS);
 4. Patients should be cautioned about using alcohol, barbiturates, or other CNS depressants concurrently, since clomipramine may exaggerate their response to these drugs;
 5. Patients should notify their physician if they become pregnant or intend to become pregnant during therapy;
 6. Patients should notify their physician if they are breast-feeding.
@@ -220,14 +219,14 @@ Patients may wish to be examined to determine whether they are susceptible to an
 ## Drug Interactions
 
 The risks of using clomipramine in combination with other drugs have not been systematically evaluated.
-Given the primary CNS effects of clomipramine, caution is advised in using it concomitantly with other CNS-active drugs (see Information for Patients).
-Clomipramine should not be used with MAO inhibitors (see CONTRAINDICATIONS).
+Given the primary CNS effects of clomipramine, caution is advised in using it concomitantly with other CNS-active drugs (seeInformation for Patients).
+Clomipramine should notbe used with MAO inhibitors (seeCONTRAINDICATIONS).
 Close supervision and careful adjustment of dosage are required when clomipramine is administered with anticholinergic or sympathomimetic drugs.
 
 Several tricyclic antidepressants have been reported to block the pharmacologic effects of guanethidine, clonidine, or similar agents, and such an effect may be anticipated with CMI because of its structural similarity to other tricyclic antidepressants.
 
 The plasma concentration of CMI has been reported to be increased by the concomitant administration of haloperidol; plasma levels of several closely related tricyclic antidepressants have been reported to be increased by the concomitant administration of methylphenidate or hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decreased by the concomitant administration of hepatic enzyme inducers (e.g., barbiturates, phenytoin), and such an effect may be anticipated with CMI as well.
-Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly (see CLINICAL PHARMACOLOGY, Interactions).
+Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly (seeCLINICAL PHARMACOLOGY, Interactions).
 
 ### Drugs Metabolized by P450 2D6
 
@@ -247,25 +246,25 @@ Furthermore, whenever one of these drugs is withdrawn from co-therapy, an increa
 It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic antidepressant class including clomipramine is going to be co-administered with another drug known to be an inhibitor of P450 2D6 (and/or P450 1A2).
 
 Because clomipramine is highly bound to serum protein, the administration of clomipramine to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.
-Conversely, adverse effects may result from displacement of protein-bound clomipramine by other highly bound drugs (see CLINICAL PHARMACOLOGY, Distribution).
+Conversely, adverse effects may result from displacement of protein-bound clomipramine by other highly bound drugs (seeCLINICAL PHARMACOLOGY, Distribution).
 
 ### Monoamine Oxidase Inhibitors (MAOIs)
 
-(see CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+(seeCONTRAINDICATIONS, WARNINGS, andDOSAGE AND ADMINISTRATION.)
 
 ### Serotonergic Drugs
 
-(see CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+(seeCONTRAINDICATIONS, WARNINGS, andDOSAGE AND ADMINISTRATION.)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No evidence of carcinogenicity was found in two 2-year bioassays in rats at doses up to 100 mg/kg, which is 24 and 4 times the maximum recommended human daily dose (MRHD) on a mg/kg and mg/m2 basis, respectively, or in a 2-year bioassay in mice at doses up to 80 mg/kg, which is 20 and 1.5 times the MRHD on a mg/kg and mg/m2 basis respectively.
+No evidence of carcinogenicity was found in two 2-year bioassays in rats at doses up to 100 mg/kg, which is 24 and 4 times the maximum recommended human daily dose (MRHD) on a mg/kg and mg/m 2basis, respectively, or in a 2-year bioassay in mice at doses up to 80 mg/kg, which is 20 and 1.5 times the MRHD on a mg/kg and mg/m 2basis respectively.
 
-In reproduction studies, no effects on fertility were found in rats given up to 24 mg/kg, which is 6 times, and approximately equal to, the MRHD on a mg/kg and mg/m2 basis, respectively.
+In reproduction studies, no effects on fertility were found in rats given up to 24 mg/kg, which is 6 times, and approximately equal to, the MRHD on a mg/kg and mg/m 2basis, respectively.
 
 ## Pregnancy Category C
 
-No teratogenic effects were observed in studies performed in rats and mice at doses up to 100 mg/kg, which is 24 times the maximum recommended human daily dose (MRHD) on a mg/kg basis and 4 times (rats) and 2 times (mice) the MRHD on a mg/m2 basis.
+No teratogenic effects were observed in studies performed in rats and mice at doses up to 100 mg/kg, which is 24 times the maximum recommended human daily dose (MRHD) on a mg/kg basis and 4 times (rats) and 2 times (mice) the MRHD on a mg/m 2basis.
 Slight nonspecific embryo/fetotoxic effects were seen in the offspring of treated rats given 50 and 100 mg/kg and of treated mice given 100 mg/kg.
 
 There are no adequate or well-controlled studies in pregnant women.
@@ -279,13 +278,13 @@ Because of the potential for adverse reactions, a decision should be made whethe
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (seeBOX WARNINGandWARNINGS, Clinical Worsening and Suicide Risk).
 Anyone considering the use of clomipramine in a child or adolescent must balance the potential risks with the clinical need.
 
 In a controlled clinical trial in children and adolescents (10 to 17 years of age), 46 outpatients received clomipramine for up to 8 weeks.
 In addition, 150 adolescent patients have received clomipramine in open-label protocols for periods of several months to several years.
 Of the 196 adolescents studied, 50 were 13 years of age or less and 146 were 14 to 17 years of age.
-The adverse reaction profile in this age group (see ADVERSE REACTIONS) is similar to that observed in adults.
+The adverse reaction profile in this age group (seeADVERSE REACTIONS) is similar to that observed in adults.
 
 The risks, if any, that may be associated with clomipramine's extended use in children and adolescents with OCD have not been systemically assessed.
 The evidence supporting the conclusion that clomipramine is safe for use in children and adolescents is derived from relatively short term clinical studies and from extrapolation of experience gained with adult patients.
@@ -302,4 +301,4 @@ No unusual age-related adverse events were identified in this population.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 Clomipramine has been associated with cases of clinically significant hyponatremia.
-Elderly patients may be at greater risk for this adverse reaction (see PRECAUTIONS, Hyponatremia).
+Elderly patients may be at greater risk for this adverse reaction (seePRECAUTIONS, Hyponatremia).
