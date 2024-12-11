@@ -101,6 +101,7 @@ Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | Velpatasvir 100mg once daily | 10 mg single dose | 2.692(2.46 to 2.94)3 | 2.612(2.32 to 2.92)3 |
 | Ombitasvir 25mg/paritaprevir 150mg/ ritonavir 100mg + dasabuvir 400mg BID | 5mg single dose | 2.592 (2.09 to 3.21)3 | 7.132 (5.11 to 9.96)3 |
 | Teriflunomide | Not available | 2.512 | 2.652 |
+| Enasidenib 100 mg QD, 28 days | 10mg single dose | 2.44 | 3.66 |
 | Elbasvir 50mg/grazoprevir 200mg once daily | 10mg single dose | 2.262 (1.89 to 2.69)3 | 5.492(4.29 to 7.04)3 |
 | Glecaprevir 400mg/pibrentasvir 120mg once daily | 5mg once daily | 2.152 (1.88 to 2.46)3 | 5.622 (4.80 to 6.59)3 |
 | Lopinavir/ritonavir combination400 mg/100 mg BID for 17 days | 20 mg QD for 7 days | 2.12(1.7 to 2.6)3 | 52(3.4 to 6.4)3 |

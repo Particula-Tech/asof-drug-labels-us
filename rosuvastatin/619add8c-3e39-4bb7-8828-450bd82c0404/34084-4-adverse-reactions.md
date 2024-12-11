@@ -47,9 +47,9 @@ Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastatin and > 
 | Dizziness | 2.8 | 4.0 |
 | Increased CPK | 0.7 | 2.6 |
 | Abdominal pain | 1.8 | 2.4 |
-| ALT greater than 3x ULN2 | 0.7 | 2.2 |
+| ALT greater than 3x ULN1 | 0.7 | 2.2 |
 
-2 Frequency recorded as abnormal laboratory value.
+1 Frequency recorded as abnormal laboratory value.
 
 In the JUPITER study, patients were treated with rosuvastatin 20 mg (n=8,901) or placebo (n=8,901) for a mean duration of 2 years.
 In JUPITER there was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).

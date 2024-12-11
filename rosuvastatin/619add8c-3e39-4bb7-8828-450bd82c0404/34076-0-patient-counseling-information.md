@@ -50,6 +50,6 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-FDA-02
+FDA-03
 
 EZALLOR SPRINKLE is a trademark of Sun Pharmaceutical Industries Limited.
