@@ -7,9 +7,10 @@ Hyponatremia and Fluid Restriction
 - Advise patients to contact a healthcare provider if symptoms of hyponatremia occur.
 - Discuss adjustment of fluid intake and monitoring of urine output with patients.
 
-Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312
+Manufactured for: Nordic Pharma, Inc. Berwyn, PA 19132
 
-www.amringusa.com
+www.nordicpharmausa.com
 
-The Amring Logo and the “A” Logo are trademarks of Amring Pharmaceuticals Inc. Origin Sweden Rev.
-8/2022 601545
+The Nordic Pharma Logo is a trademark of Nordic Group B.V.
+Origin Sweden Rev.
+06/2024 602339

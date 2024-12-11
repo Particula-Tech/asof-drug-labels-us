@@ -26,6 +26,12 @@ One 10 mL Multiple-Dose Vial
 
 A
 
+NDC 69918-899-01
+
+DESMOPRESSIN ACETATE INJECTION
+
+4 mcg/mL
+
 NDC 69918-899-10
 
 Rx Only
