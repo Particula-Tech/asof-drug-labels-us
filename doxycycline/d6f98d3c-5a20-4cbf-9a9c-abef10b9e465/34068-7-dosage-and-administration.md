@@ -3,6 +3,9 @@
 The usual dosage and frequency of administration of doxycycline differs from that of the other tetracyclines.
 Exceeding the recommended dosage may result in an increased incidence of side effects.
 
+All dosage forms and strengths of Vibramycin are not currently being marketed.
+(See HOW SUPPLIED.)
+
 ## Adults
 
 The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.

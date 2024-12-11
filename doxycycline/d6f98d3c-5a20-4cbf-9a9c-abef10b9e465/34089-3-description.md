@@ -14,6 +14,9 @@ Doxycycline has a high degree of lipoid solubility and a low affinity for calciu
 It is highly stable in normal human serum.
 Doxycycline will not degrade into an epianhydro form.
 
+All dosage forms and strengths of Vibramycin are not currently being marketed.
+(See HOW SUPPLIED.)
+
 Inert ingredients in the syrup formulation are: apple flavor; butylparaben; calcium chloride; carmine; glycerin; hydrochloric acid; magnesium aluminum silicate; povidone; propylene glycol; propylparaben; raspberry flavor; simethicone emulsion; sodium hydroxide; sodium metabisulfite; sorbitol solution; water.
 
 Inert ingredients in the capsule formulations are: hard gelatin capsules (which may contain Blue 1 and other inert ingredients); magnesium stearate; microcrystalline cellulose; sodium lauryl sulfate.
