@@ -85,3 +85,5 @@ Follow applicable special handling and disposal procedures.1
 - Visually inspect for particulate matter and discoloration prior to administration.
   Discard if particulate matter or discoloration is observed.
 - Immediately administer PEMRYDI RTU undiluted, as an intravenous infusion over 10 minutes using an infusion pump.
+- If not used immediately, store undiluted PEMRYDI RTU solution in infusion bag for no more than 24 hours at controlled room temperature of 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+  Discard the infusion bag solution if not used within 24 hours.
