@@ -1,39 +1,33 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Appropriate Treatments
+Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis
 
-Patients with the following conditions should be instructed to receive appropriate management measures: variceal bleeding, hepatic encephalopathy, ascites, in need of an urgent liver transplant or hepatic function deterioration [see Warnings and Precautions (5)].
+Advise patients or their caretaker(s) to notify their healthcare provider if they experience obstructive gastrointestinal symptoms due to the risk of enteroliths [see Warnings and Precautions (5.2)].
 
-Caution has to be exercised to maintain the bile flow of the patients taking ursodiol.
-
-## 17.2 Drug Interactions
+Drug Interactions
 
 Patients should be informed that absorption of ursodiol may be reduced if they are taking bile acid sequestering agents, such as cholestyramine and colestipol, aluminum-based antacids, or drugs known to alter the metabolism of cholesterol [see Drug Interactions (7)].
 
 Rx Only
 
-Dist. by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977 U.S.A.
-
-Product of Italy
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam - 603 103.
+Malvern, PA 19355 U.S.A.
 
 Made in India
 
-from Active Pharmaceutical Ingredient made in Italy
+Product of Italy
 
-Mfg.
-Lic.
-No.: TN00002121
+from Active Pharmaceutical
 
-OS412-01-74-01
+Ingredient made in Italy
 
-R03/17
+Neutral Code: TN/DRUGS/TN00002121
+
+© 2024 Endo, Inc. or one of its affiliates.
+
+OS412-01-74-03
+
+Revised: 10/2024

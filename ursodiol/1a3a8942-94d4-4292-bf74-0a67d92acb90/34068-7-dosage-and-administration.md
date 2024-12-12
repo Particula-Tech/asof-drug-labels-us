@@ -2,14 +2,14 @@
 
 ## 2.1 General Dosing Information
 
-The recommended adult dosage for ursodiol in the treatment of PBC is 13 to 15 mg/kg/day administered in two to four divided doses with food.
+The recommended adult dosage for ursodiol tablets in the treatment of PBC is 13 to 15 mg/kg/day administered in two to four divided doses with food.
 Dosing regimen should be adjusted according to each patient’s need at the discretion of the physician.
 
 ## 2.2 Liver Function Tests
 
-Liver Function Tests (y-GT, alkaline phosphatase, AST, ALT) and bilirubin levels should be monitored every month for the three months after start of therapy, and every six months thereafter [see Warnings and Precautions (5.1)].
+Liver function tests (y-GT, alkaline phosphatase, AST, ALT) and bilirubin levels should be monitored every month for three months after start of therapy, and every six months thereafter [see Warnings and Precautions (5.1)].
 
-## 2.3 Scoring the Ursodiol 500 mg Tablet
+## 2.3 Scoring the Ursodiol Tablet 500 mg
 
 The ursodiol 500 mg scored tablet can be broken in halves to provide recommended dosage.
 
