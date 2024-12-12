@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
 The following adverse reactions are discussed elsewhere in the labeling:
 
@@ -13,7 +13,7 @@ The safety and efficacy of doxylamine succinate and pyridoxine hydrochloride wer
 The mean gestational age at enrollment was 9.3 weeks, range 7 to 14 weeks gestation [see Clinical Studies (14)].
 Adverse reactions for doxylamine succinate and pyridoxine hydrochloride that occurred at an incidence ≥5 percent and exceeded the incidence for placebo are summarized in Table 1.
 
-Table 1: Number (Percent) of Subjects with ≥ 5 Percent Adverse Reactions in a 15-Day Placebo-Controlled Study of Doxylamine Succinate and Pyridoxine Hydrochloride (Only Those Adverse Reactions Occurring at an Incidence ≥ 5 Percent and at a Higher Incidence with Doxylamine Succinate and Pyridoxine Hydrochloridethan Placebo are Shown)
+Table 1: Number (Percent) of Subjects with ≥ 5 Percent Adverse Reactions in a 15-Day Placebo-Controlled Study of Doxylamine Succinate and Pyridoxine Hydrochloride (Only Those Adverse Reactions Occurring at an Incidence ≥ 5 Percent and at a Higher Incidence with Doxylamine Succinate and Pyridoxine Hydrochloride than Placebo are Shown)
 
 |  | Doxylamine Succinate and Pyridoxine Hydrochloride (N = 133) | Placebo(n = 128) |
 | --- | --- | --- |

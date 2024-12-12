@@ -1,6 +1,6 @@
-# 16 HOW SUPPLIED
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How supplied
+## 16.1 How Supplied
 
 Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets 10 mg/10 mg are supplied in a high-density polyethylene bottle with a polypropylene child-resistant cap and a silica gel desiccant canister.
 Each white, round, biconvex, film-coated, delayed-release tablet contains 10 mg doxylamine succinate and 10 mg pyridoxine hydrochloride, and is imprinted on one side with “186” in black color.

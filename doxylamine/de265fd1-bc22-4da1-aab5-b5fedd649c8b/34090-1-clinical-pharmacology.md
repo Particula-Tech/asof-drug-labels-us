@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -42,7 +42,7 @@ The time to reach the maximum concentration is not affected by multiple doses (s
 
 Table 3 – Pharmacokinetics of Doxylamine and Pyridoxine Following Single Dose and Multiple Dose Administration of Doxylamine Succinate and Pyridoxine Hydrochloride to Healthy Non-Pregnant Adult Women
 
-|  |  | AUC0-last(ng•h/mL) | AUC0-inf(ng•h/mL) | Cmax(ng/mL) | Tmax(h) | T½el(h) |
+|  |  | AUC0-last(ng•h/mL) | AUC0-inf(ng•h/mL) | Cmax(ng/mL) | Tmax(h) | T1/2el(h) |
 | --- | --- | --- | --- | --- | --- | --- |
 | DoxylamineMean±SDN=18 | Single | 911.4 ± 205.6 | 1,280.9 ± 369.3 | 83.3 ± 20.6 | 7.2 ± 1.9 | 10.1 ± 2.1 |
 | Multiple | 3,661.3 ± 1,279.2 | 3,721.5 ± 1,318.5 | 168.6 ± 38.5 | 7.8 ± 1.6 | 11.9 ± 3.3 |  |
@@ -62,7 +62,7 @@ As for pyridoxamine and pyridoxamine 5’-phosphate, the rate and extent of abso
 
 Table 4 – Pharmacokinetics of Doxylamine and Pyridoxine Following Administration of Doxylamine Succinate and Pyridoxine Hydrochloride Under Fed and Fasted Conditions in Healthy Non-Pregnant Adult Women
 
-|  |  | AUC0-t(ng•h/mL) | AUC0-inf(ng•h/mL) | Cmax (ng/mL) | Tmax(h) | T½el(h) |
+|  |  | AUC0-t(ng•h/mL) | AUC0-inf(ng•h/mL) | Cmax (ng/mL) | Tmax(h) | T1/2el(h) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Doxylamine Mean±SD N=42 | Fasted | 1,407.2 ± 336.9 | 1,447.9 ± 332.2 | 94.9 ± 18.4 | 5.1 ± 3.4 | 12.6 ± 3.4 |
 | Fed | 1,488.0 ± 463.2 | 1,579.0 ± 422.7a | 75.7 ± 16.6 | 14.9 ± 7.4 | 12.5 ± 2.9a |  |
@@ -90,7 +90,7 @@ The terminal elimination half-life of doxylamine and pyridoxine are 12.5 hours a
 
 Table 5 – Terminal Elimination Half-Life (T1/2el) for Doxylamine Succinate and Pyridoxine Hydrochloride Administered as a Single Dose of Two Tablets under Fasting Conditions in Healthy Non-Pregnant Adult Women
 
-|  | T½el(h) |
+|  | T1/2el(h) |
 | --- | --- |
 | Doxylamine | 12.6 ± 3.4 |
 | Pyridoxine | 0.4 ± 0.2 |
