@@ -24,7 +24,7 @@ The frequency of these events in a 3-week placebo-controlled trial is shown in t
 
 ‡ Includes scalp pruritus
 
-§Includes patients who experienced an increase in supine hypertension
+§ Includes patients who experienced an increase in supine hypertension
 
 ¶ Includes abdominal pain and pain increase
 

@@ -27,22 +27,18 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Dist. by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam - 603 103.
+Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Mfg.Lic.No.: TN00002121
+Neutral Code: TN/DRUGS/TN00002121
 
-OS814-01-74-01
+© 2024 Endo, Inc. or one of its affiliates.
 
-Issued: 05/2017
+OS814-01-74-02
+
+Revised: 11/2024

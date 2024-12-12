@@ -1,8 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
-
-Midodrine hydrochloride forms an active metabolite, desglymidodrine, that is an alpha1-agonist, and exerts its actions via activation of the alpha-adrenergic receptors of the arteriolar and venous vasculature, producing an increase in vascular tone and elevation of blood pressure.
+Mechanism of Action: Midodrine hydrochloride forms an active metabolite, desglymidodrine, that is an alpha1-agonist, and exerts its actions via activation of the alpha-adrenergic receptors of the arteriolar and venous vasculature, producing an increase in vascular tone and elevation of blood pressure.
 Desglymidodrine does not stimulate cardiac beta-adrenergic receptors.
 Desglymidodrine diffuses poorly across the blood-brain barrier, and is therefore not associated with effects on the central nervous system.
 
@@ -10,9 +8,7 @@ Administration of midodrine hydrochloride results in a rise in standing, sitting
 Standing systolic blood pressure is elevated by approximately 15 to 30 mmHg at 1 hour after a 10 mg dose of midodrine, with some effect persisting for 2 to 3 hours.
 Midodrine hydrochloride has no clinically significant effect on standing or supine pulse rates in patients with autonomic failure.
 
-## Pharmacokinetics
-
-Midodrine hydrochloride is a prodrug, i.e., the therapeutic effect of orally administered midodrine is due to the major metabolite desglymidodrine, formed by deglycination of midodrine.
+Pharmacokinetics: Midodrine hydrochloride is a prodrug, i.e., the therapeutic effect of orally administered midodrine is due to the major metabolite desglymidodrine, formed by deglycination of midodrine.
 After oral administration, midodrine hydrochloride is rapidly absorbed.
 The plasma levels of the prodrug peak after about half an hour, and decline with a half-life of approximately 25 minutes, while the metabolite reaches peak blood concentrations about 1 to 2 hours after a dose of midodrine and has a half-life of about 3 to 4 hours.
 The absolute bioavailability of midodrine (measured as desglymidodrine) is 93%.
@@ -25,4 +21,4 @@ Neither midodrine nor desglymidodrine is a substrate for monoamine oxidase.
 
 Renal elimination of midodrine is insignificant.
 The renal clearance of desglymidodrine is of the order of 385 mL/minute, most, about 80%, by active renal secretion.
-The actual mechanism of active secretion has not been studied, but it is possible that it occurs by the base-secreting pathway responsible for the secretion of several other drugs that are bases (See alsoPRECAUTIONS: Potential for Drug Interactions).
+The actual mechanism of active secretion has not been studied, but it is possible that it occurs by the base-secreting pathway responsible for the secretion of several other drugs that are bases (See also PRECAUTIONS: Potential for Drug Interactions).
