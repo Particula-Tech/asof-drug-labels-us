@@ -9,8 +9,8 @@ Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck,
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis.
-Instruct patients to discontinue WEGOVY promptly and contact their physician if pancreatitis is suspected (severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting) [see Warnings and Precautions (5.2)].
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Instruct patients to discontinue WEGOVY promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Acute Gallbladder Disease
 
@@ -28,28 +28,33 @@ Dehydration and Renal Impairment
 Advise patients treated with WEGOVY of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
 Inform patients of the potential risk for worsening renal function and explain the associated signs and symptoms of renal impairment, as well as the possibility of dialysis as a medical intervention if renal failure occurs [see Warnings and Precautions (5.5)].
 
+Severe Gastrointestinal Adverse Reactions
+
+Inform patients of the potential risk of severe gastrointestinal adverse reactions.
+Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions (5.6)].
+
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of semaglutide, the active ingredient in WEGOVY.
-Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking WEGOVY and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
+Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking WEGOVY and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.7)].
 
 Diabetic Retinopathy Complications in Patients with Type 2 Diabetes
 
-Inform patients with type 2 diabetes to contact their physician if changes in vision are experienced during treatment with WEGOVY [see Warnings and Precautions (5.7)].
+Inform patients with type 2 diabetes to contact their physician if changes in vision are experienced during treatment with WEGOVY [see Warnings and Precautions (5.8)].
 
 Heart Rate Increase
 
-Instruct patients to inform their healthcare providers of palpitations or feelings of a racing heartbeat while at rest during WEGOVY treatment [see Warnings and Precautions (5.8)].
+Instruct patients to inform their healthcare providers of palpitations or feelings of a racing heartbeat while at rest during WEGOVY treatment [see Warnings and Precautions (5.9)].
 
 Suicidal Behavior and Ideation
 
 Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking WEGOVY [see Warnings and Precautions (5.9)].
+Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking WEGOVY [see Warnings and Precautions (5.10)].
 
 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 Inform patients that WEGOVY may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
-Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking WEGOVY [see Warnings and Precautions (5.10)].
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking WEGOVY [see Warnings and Precautions (5.11)].
 
 Pregnancy
 
@@ -75,7 +80,7 @@ Plainsboro, NJ 08536
 
 1-833-934-6891
 
-Version: 5
+Version: 6
 
 WEGOVY® is a registered trademark of Novo Nordisk A/S.
 

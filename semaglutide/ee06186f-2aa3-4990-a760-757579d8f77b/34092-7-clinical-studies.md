@@ -10,7 +10,7 @@ Patients with a history of type 1 or type 2 diabetes were excluded.
 Concomitant CV therapies could be adjusted, at the discretion of the investigator, to ensure participants were treated according to the current standard of care for patients with established cardiovascular disease.
 
 In this trial, 17,604 patients were randomized to WEGOVY or placebo.
-At baseline, the mean age was 62 years (range 45 to 93), 72% were male, 84% were White, 4% were Black or African American, and 8% were Asian, and 10% were Hispanic or Latino.
+At baseline, the mean age was 62 years (range 45 - 93), 72% were male, 84% were White, 4% were Black or African American, and 8% were Asian, and 10% were Hispanic or Latino.
 Mean baseline body weight was 97 kg and mean BMI was 33 kg/m2.
 At baseline, prior myocardial infarction was reported in 76% of randomized individuals, prior stroke in 23%, and peripheral arterial disease in 9%.
 Heart failure was reported in 24% of patients.
@@ -27,7 +27,7 @@ For the primary analysis, a Cox proportional hazards model was used to test for 
 Type 1 error was controlled across multiple tests.
 
 WEGOVY significantly reduced the risk for first occurrence of MACE.
-The estimated hazard ratio (95% CI) was 0.80 (0.72, 0.90) (see Figure 4 and Table 5).
+The estimated hazard ratio (95% CI) was 0.80 (0.72, 0.90) (see Figure 4 and Table 4).
 
 Figure 4.
 Cumulative Incidence Function: Time to First Occurrence of MACE in Study 1
@@ -38,11 +38,11 @@ Patients without events of interest were censored at the end of their in-trial o
 Time from randomization to first cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke was analyzed using a Cox proportional hazards model with treatment as categorical fixed factor.
 The hazard ratio and confidence interval are adjusted for the group sequential design using the likelihood ratio ordering.
 
-HR: hazard ratio; CI: confidence interval; CV: cardiovascular
+HR: Hazard ratio; CI: confidence interval; CV: cardiovascular
 
-The treatment effect for the primary composite endpoint, its components, and other relevant endpoints in Study 1 are shown in Table 5.
+The treatment effect for the primary composite endpoint, its components, and other relevant endpoints in Study 1 are shown in Table 4.
 
-Table 5.
+Table 4.
 Treatment Effect for MACE and Other Events in Study 1
 
 |  | Patients with events n (%) |  |  |
@@ -73,7 +73,7 @@ Not statistically significant based on the prespecified testing hierarchy.
 NOTE: Time to first event was analyzed in a Cox proportional hazards model with treatment as factor.
 For patients with multiple events, only the first event contributed to the composite endpoint.
 
-Table 6.
+Table 5.
 Mean Changes in Anthropometry and Cardiometabolic Parameters at Week 104 in Study 11,2
 
 |  |  | PLACEBO |  | WEGOVY |  |  |
@@ -111,7 +111,7 @@ In Study 5 (NCT#03548987), WEGOVY was escalated during a 20-week run-in period, 
 In Study 6 (NCT#03811574), WEGOVY was escalated to 1.7 mg or 2.4 mg subcutaneous weekly dosages or placebo over 12 to 16 weeks followed by 52 weeks on either maintenance dose.
 
 In Studies 2, 3 and 5, all patients received instruction for a reduced calorie diet (approximately 500 kcal/day deficit) and increased physical activity counseling (recommended to a minimum of 150 min/week) that began with the first dose of study medication or placebo and continued throughout the trial.
-In Study 4, patients received an initial 8-week low-calorie diet (total energy intake 1,000 to 1,200 kcal/day) followed by 60 weeks of a reduced calorie diet (1200 to 1800 kcal/day) and increased physical activity (100 mins/week with gradual increase to 200 mins/week).
+In Study 4, patients received an initial 8-week low-calorie diet (total energy intake 1,000 to 1,200 kcal/day) followed by 60 weeks of a reduced calorie diet (1200-1800 kcal/day) and increased physical activity (100 mins/week with gradual increase to 200 mins/week).
 
 Study 2 was a 68-week trial that enrolled 1,961 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27 to 29.9 kg/m2) and at least one weight-related comorbid condition, such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
 Patients were randomized in a 2:1 ratio to either WEGOVY or placebo.
@@ -126,13 +126,13 @@ At baseline, the mean age was 55 years (range 19 to 84), 51% were female, 62% we
 A total of 13% were Hispanic or Latino ethnicity.
 Mean baseline body weight was 99.8 kg and mean BMI was 35.7 kg/m2.
 
-Study 4 was a 68-week trial that enrolled 611 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
+Study 4 was a 68-week trial that enrolled 611 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27 to 29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
 The patients were randomized in a 2:1 ratio to receive either WEGOVY or placebo.
 At baseline, the mean age was 46 years, 81% were female, 76% were White, 19% were Black or African American and 2% were Asian.
 A total of 20% were Hispanic or Latino ethnicity.
-Mean baseline body weight was 105.8 kg and mean BMI was 38.0 kg/m2.
+Mean baseline body weight was 105.8 kg and mean BMI was 38 kg/m2.
 
-Study 5 was a 68-week trial that enrolled 902 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
+Study 5 was a 68-week trial that enrolled 902 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27 to 29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
 Mean body weight at baseline for the 902 patients was 106.8 kg and mean BMI was 38.3 kg/m².
 All patients received WEGOVY during the run-in period of 20 weeks that included 16 weeks of dose escalation.
 Trial product was permanently discontinued before randomization in 99 of 902 patients (11%); the most common reason was adverse reactions (n=48, 5.3%); 803 patients reached WEGOVY 2.4 mg and were then randomized in a 2:1 ratio to either continue on WEGOVY or receive placebo.
@@ -140,7 +140,7 @@ Among the 803 randomized patients, the mean age was 46 years, 79% were female, 8
 A total of 8% were Hispanic or Latino ethnicity.
 Mean body weight at randomization (week 20) was 96.1 kg and mean BMI at randomization (week 20) was 34.4 kg/m2.
 
-Study 6 was a 68-week trial that enrolled 401 East-Asian patients (Japan and South Korea) with BMI greater than or equal to 35 kg/m2 and at least one weight-related comorbid condition or with BMI 27-34.9 kg/m2 and at least two weight-related comorbid conditions.
+Study 6 was a 68-week trial that enrolled 401 East-Asian patients (Japan and South Korea) with BMI greater than or equal to 35 kg/m2 and at least one weight-related comorbid condition or with BMI 27 to 34.9 kg/m2 and at least two weight-related comorbid conditions.
 The patients were randomized 2:1:1 to receive WEGOVY 2.4 mg, WEGOVY 1.7 mg, or placebo.
 At baseline, the mean age was 51 years, 63% were male, and all patients were Asian.
 Mean baseline body weight was 87.5 kg and mean BMI was 31.9 kg/m2.
@@ -153,9 +153,9 @@ In Study 6, the proportions of patients who discontinued study drug were 7.9%, 6
 For Studies 2, 3 and 4, the primary efficacy parameters were mean percent change in body weight and the percentages of patients achieving greater than or equal to 5% weight loss from baseline to week 68.
 
 After 68 weeks, treatment with WEGOVY resulted in a statistically significant reduction in body weight compared with placebo.
-Greater proportions of patients treated with WEGOVY achieved 5%, 10% and 15% weight loss than those treated with placebo as shown in Table 7.
+Greater proportions of patients treated with WEGOVY achieved 5%, 10% and 15% weight loss than those treated with placebo as shown in Table 6.
 
-1. Table 7.
+1. Table 6.
    Changes in Body Weight at Week 68 in Studies 2, 3, and 4
 
 | Intention-to-Treat1 | PLACEBO N=655 | WEGOVY N=1306 | PLACEBO N=403 | WEGOVY N=404 | PLACEBO N=204 | WEGOVY N=407 |
@@ -176,7 +176,7 @@ LSMean = least squares mean; CI = confidence interval
 
 1The intent-to-treat population includes all randomized patients.
 In Study 2, at week 68, the body weight was missing for 7.2% and 11.9% of patients randomized to WEGOVY and placebo, respectively.
-In Study 3, at week 68, the body weight was missing for 4.0% and 6.7% of patients randomized to WEGOVY and placebo, respectively.
+In Study 3, at week 68, the body weight was missing for 4% and 6.7% of patients randomized to WEGOVY and placebo, respectively.
 In Study 4, at week 68, the body weight was missing for 8.4% and 7.4% of patients randomized to WEGOVY and placebo, respectively.
 Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI).
 
@@ -184,11 +184,11 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 
 For Study 5, the primary efficacy parameter was mean percent change in body weight from randomization (week 20) to week 68.
 
-From randomization (week 20) to week 68, treatment with WEGOVY resulted in a statistically significant reduction in body weight compared with placebo (Table 8).
+From randomization (week 20) to week 68, treatment with WEGOVY resulted in a statistically significant reduction in body weight compared with placebo (Table 7).
 Because patients who discontinued WEGOVY during titration and those who did not reach the 2.4 mg weekly dose were not eligible for the randomized treatment period, the results may not reflect the experience of patients in the general population who are first starting WEGOVY.
 
-1. Table 8.
-   Changes in Body Weight at Week 68 in Study 5 (Obesity or Overweight with Comorbidity after 20 Week Run-in)
+1. Table 7.
+   Changes in Body Weight at Week 68 in Study 5 (Obesity or overweight with comorbidity after 20-week run-in)
 
 |  | WEGOVYN=8031 |  |
 | --- | --- | --- |
@@ -212,12 +212,12 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 For Study 6, the primary efficacy parameters were mean percent change in body weight and the percentage of patients achieving greater than or equal to 5% weight loss from baseline to week 68.
 
 After 68 weeks, treatment with WEGOVY 1.7 mg and 2.4 mg resulted in a statistically significant reduction in body weight compared with placebo.
-Greater proportions of patients treated with WEGOVY achieved 5%, 10%, and 15% weight loss than those treated with placebo as shown in Table 9.
+Greater proportions of patients treated with WEGOVY achieved 5%, 10%, and 15% weight loss than those treated with placebo as shown in Table 8.
 
-Table 9.
+Table 8.
 Changes in Body Weight at Week 68 in Study 6 in East-Asian Patients (WEGOVY 1.7 mg)
 
-|  | Study 6 (BMI ≥35 kg/m2 with at least one comorbidity or BMI 27 to 34.9 kg/m2 with at least two comorbidities) |  |  |
+|  | Study 6 (BMI ≥35 kg/m2 with at least one comorbidity or BMI 27-34.9 kg/m2 with at least two comorbidities) |  |  |
 | --- | --- | --- | --- |
 | Intention-to-treat1 | PLACEBON=101 | WEGOVY 1.7 mgN=101 | WEGOVY 2.4 mgN=199 |
 | Body Weight |  |  |  |
@@ -242,7 +242,7 @@ A reduction in body weight was observed with WEGOVY irrespective of age, sex, ra
 
 The cumulative frequency distributions of change in body weight are shown in Figure 5 and Figure 6 for Studies 2 and 3.
 One way to interpret this figure is to select a change in body weight of interest on the horizontal axis and note the corresponding proportions of patients (vertical axis) in each treatment group who achieved at least that degree of weight loss.
-For example, note that the vertical line arising from ‑10% in Study 2 intersects the WEGOVY and placebo curves at approximately 66%, and 12%, respectively, which correspond to the values shown in Table 7.
+For example, note that the vertical line arising from ‑10% in Study 2 intersects the WEGOVY and placebo curves at approximately 66%, and 12%, respectively, which correspond to the values shown in Table 6.
 
 1. Figure 5.Change in body weight (%) from baseline to week 68 (Study 2)
 2. 
@@ -256,27 +256,28 @@ Observed data from in-trial period including imputed data for missing observatio
 
 The time courses of weight loss with WEGOVY and placebo from baseline through week 68 are depicted in Figure 7, Figure 8 and Figure 9.
 
-1. Figure 7.Change from Baseline (%) in Body Weight (Study 2 on left and Study 3 on right)
+1. Figure 7.Change from baseline (%) in body weight (Study 2 on left and Study 3 on right)
 
 Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI)
 
-1. Figure 8Change from Baseline (%) in Body Weight (Study 4 on left and Study 5a on right)
+1. Figure 8.
+   Change from baseline (%) in body weight (Study 4 on left and Study 5a on right)
 
 Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI) aChange from week 0 was not a primary endpoint in study 5.
 Dotted line indicates time of randomization.
 Randomized patients (shown) do not include 99 patients that discontinued during the 20-week run-in period.
 
 1. Figure 9.
-   Change in Body Weight (%) from Baseline to Week 68 (Study 6 in East-Asian Patients)
+   Change in body weight (%) from baseline to week 68 (Study 6 in East-Asian Patients)
 
 Observed values for patients completing each scheduled visit and estimates with multiple imputations from retrieved dropouts (RD-MI).
 At baseline, 24.7% of patients had type 2 diabetes mellitus.
 
 Effect of WEGOVY on Anthropometry and Cardiometabolic Parameters in Adults
 
-Changes in waist circumference and cardiometabolic parameters with WEGOVY are shown in Table 10 for Studies 2, 3, and 4; in Table 11 for Study 5; and in Table 12 for Study 6.
+Changes in waist circumference and cardiometabolic parameters with WEGOVY are shown in Table 9 for Studies 2, 3, and 4; in Table 10 for Study 5; and in Table 11 for Study 6.
 
-1. Table 10.
+1. Table 9.
    Changes in Anthropometry and Cardiometabolic Parameters at Week 68 in Studies 2, 3, and 4
 
 | Intention-to-Treat | PLACEBO N=655 | WEGOVY N=1306 | PLACEBO N=403 | WEGOVY N=404 | PLACEBO N=204 | WEGOVY N=407 |
@@ -302,8 +303,8 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 
 4Baseline value is the geometric mean.
 
-1. Table 11.
-   Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 5 (Obesity or Overweight with Comorbidity after 20-week Run-in)1
+1. Table 10.
+   Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 5 (Obesity or overweight with comorbidity after 20-week run-in)1
 
 |  | PLACEBON=268 |  | WEGOVYN=535 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -329,7 +330,7 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 
 4Baseline value is the geometric mean.
 
-Table 12.
+Table 11.
 Mean Changes in Anthropometry and Cardiometabolic Parameters at Week 68 in Study 6 in East-Asian Patients (WEGOVY 1.7 mg)
 
 |  | Study 6 (BMI ≥35 kg/m2 with at least one comorbidity or BMI 27 to 34.9 kg/m2 with at least two comorbidities) |  |  |
@@ -338,7 +339,7 @@ Mean Changes in Anthropometry and Cardiometabolic Parameters at Week 68 in Study
 | Waist circumference (cm) Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 103.8-1.8 | 101.4-7.7-5.9 | 103.8-11-9.3 |
 | Systolic blood pressure (mmHg)2 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 133-5.3 | 135-10.8-5.4 | 133-10.8-5.5 |
 | Diastolic blood pressure (mmHg)2 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 86-2.2 | 85-4.6-2.4 | 83-5.3-3.1 |
-| Heart Rate2, 3 Baseline Change from baseline (LSMean) Difference from placebo (LSMean) | 732.4 | 734.42 | 736.33.9 |
+| Heart Rate2, 3 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 732.4 | 734.42 | 736.33.9 |
 | HbA1c (%)2 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 6.40 | 6.4-0.9-0.9 | 6.4-0.9-0.9 |
 | Total Cholesterol (mg/dL)2,4 Baseline Percent change from baseline (LSMean1) Relative difference from placebo (LSMean) | 203.10.8 | 203.3-6.6-7.3 | 197.2-8.7-9.4 |
 | LDL Cholesterol (mg/dL)2,4 Baseline Percent change from baseline (LSMean1) Relative difference from placebo (LSMean) | 123.3-3.8 | 120.1-10.1-6.5 | 116.5-14.6-11.2 |
@@ -361,7 +362,7 @@ At baseline, 24.7% of patients had type 2 diabetes mellitus.
 Overview of Clinical Trial in Pediatric Patients WEGOVY was evaluated in a 68-week, double-blind, randomized, parallel group, placebo-controlled, multi-center trial in 201 pubertal pediatric patients aged 12 years and older with BMI corresponding to ≥95th percentile standardized for age and sex (Study 7) (NCT#04102189).
 After a 12-week lifestyle run-in period (including dietary recommendations and physical activity counseling), patients were randomized 2:1 to WEGOVY once weekly or placebo once weekly.
 WEGOVY or matching placebo was escalated to 2.4 mg or maximally tolerated dose during a 16-week period followed by 52 weeks on maintenance dose.
-Of WEGOVY-treated patients who completed the trial, 86.7% were on the 2.4 mg dose at the end of the trial; for 5% of patients, 1.7 mg was the maximum tolerated dose.
+Of WEGOVY-treated patients who completed the trial, 86.7% were on the 2.4 mg dosage at the end of the trial; for 5% of patients, 1.7 mg was the maximum tolerated dosage.
 
 The mean age was 15 years; 38% of patients were male; 79% were White, 8% were Black or African American, 2% were Asian, and 11% were of other or unknown race; and 11% were of Hispanic or Latino ethnicity.
 The mean baseline body weight was 108 kg, and mean BMI was 37 kg/m2.
@@ -372,9 +373,9 @@ The proportions of patients who discontinued study drug were 10% for the WEGOVY-
 
 The primary endpoint was percent change in BMI from baseline to week 68.
 After 68 weeks, treatment with WEGOVY resulted in a statistically significant reduction in percent BMI compared with placebo.
-Greater proportions of patients treated with WEGOVY achieved ≥5% reduction in baseline BMI than those treated with placebo as shown in Table 13.
+Greater proportions of patients treated with WEGOVY achieved ≥5% reduction in baseline BMI than those treated with placebo as shown in Table 12.
 
-Table 13.
+Table 12.
 Changes in Weight and BMI at Week 68 in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
 
 | Intention-to-Treata | PLACEBO N=67 | WEGOVY N=134 |
@@ -417,9 +418,9 @@ Observed data from in-trial period including imputed data for missing observatio
 
 Effect of WEGOVY on Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older
 
-Changes in waist circumference and cardiometabolic parameters with WEGOVY are shown in Table 14 for the study in pediatric patients aged 12 years and older.
+Changes in waist circumference and cardiometabolic parameters with WEGOVY are shown in Table 13 for the study in pediatric patients aged 12 years and older.
 
-Table 14.
+Table 13.
 Mean Changes in Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older in Study 71
 
 |  | PLACEBON=67 |  | WEGOVYN=134 |  |  |

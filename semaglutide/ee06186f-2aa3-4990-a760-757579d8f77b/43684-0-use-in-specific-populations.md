@@ -19,7 +19,7 @@ In rabbits and cynomolgus monkeys administered semaglutide during organogenesis,
 These findings coincided with a marked maternal body weight loss in both animal species (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -56,7 +56,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In lactating rats, semaglutide was detected in milk at levels 3 to 12-fold lower than in maternal plasma.
+In lactating rats, semaglutide was detected in milk at levels 3- to 12-fold lower than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -65,7 +65,8 @@ Because of the potential for fetal harm, discontinue WEGOVY in patients at least
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of WEGOVY as an adjunct to a reduced calorie diet and increased physical activity for weight reduction and long-term maintenance have been established in pediatric patients aged 12 years and older with obesity.
-Use of WEGOVY for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex and from studies in adult patients with obesity [see Clinical Studies (14.3)].
+Use of WEGOVY for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex [see Clinical Studies (14.3)] and from studies in adult patients with obesity [see Clinical Studies (14.2)].
+Use of the 1.7 mg once weekly maintenance dosage of WEGOVY in pediatric patients is also supported by additional exposure-efficacy and safety analyses in pooled adult and pediatric patients.
 
 Adverse reactions with WEGOVY treatment in pediatric patients aged 12 years and older were generally similar to those reported in adults.
 Pediatric patients aged 12 years and older treated with WEGOVY had greater incidences of cholelithiasis, cholecystitis, hypotension, rash, and urticaria compared to adults treated with WEGOVY [see Adverse Reactions (6.1)].
@@ -87,10 +88,10 @@ Patients aged 75 years and older (WEGOVY-treated and placebo-treated) reported m
 
 ## 8.6 Renal Impairment
 
-No dose adjustment of WEGOVY is recommended for patients with renal impairment.
+The recommended dosage of WEGOVY in patients with renal impairment is the same as those with normal renal function.
 In a study in patients with renal impairment, including end-stage renal disease, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-No dose adjustment of WEGOVY is recommended for patients with hepatic impairment.
+The recommended dosage of WEGOVY in patients with hepatic impairment is the same as those with normal hepatic function.
 In a study in patients with different degrees of hepatic impairment, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].

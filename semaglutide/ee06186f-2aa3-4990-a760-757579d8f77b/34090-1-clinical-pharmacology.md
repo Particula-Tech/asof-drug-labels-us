@@ -72,7 +72,7 @@ Patients with Renal Impairment
 
 Renal impairment did not impact the exposure of semaglutide in a clinically relevant manner.
 The pharmacokinetics of semaglutide were evaluated following a single dose of 0.5 mg semaglutide in a study of patients with different degrees of renal impairment (mild, moderate, severe, or ESRD) compared with subjects with normal renal function.
-The pharmacokinetics were also assessed in subjects with overweight (BMI 27-29.9 kg/m2) or obesity (BMI greater than or equal to 30 kg/m2) and mild to moderate renal impairment, based on data from clinical trials.
+The pharmacokinetics were also assessed in subjects with overweight (BMI 27 to 29.9 kg/m2) or obesity (BMI greater than or equal to 30 kg/m2) and mild to moderate renal impairment, based on data from clinical trials.
 
 Patients with Hepatic Impairment
 
@@ -89,7 +89,7 @@ No clinically relevant drug-drug interactions with semaglutide (Figure 3) were o
 In a separate study, no apparent effect on the rate of gastric emptying was observed with semaglutide 2.4 mg.
 
 1. Figure 3.
-   Impact of Semaglutide 1 mg on the Pharmacokinetics of Co-administered Medications
+   Impact of semaglutide 1 mg on the pharmacokinetics of co-administered medications
 
 Relative exposure in terms of AUC and Cmax for each medication when given with semaglutide compared to without semaglutide.
 Metformin and oral contraceptive drug (ethinylestradiol/levonorgestrel) were assessed at steady state.

@@ -7,12 +7,12 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.3)]
 - •Hypoglycemia [see Warnings and Precautions (5.4)]
 - •Acute Kidney Injury [see Warnings and Precautions (5.5)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
-- •Diabetic Retinopathy Complications in Patients with Type 2 Diabetes [see Warnings and Precautions (5.7)]
-- •Heart Rate Increase [see Warnings and Precautions (5.8)]
-- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.9)]
-- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
-- 
+- •Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.6)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- •Diabetic Retinopathy Complications in Patients with Type 2 Diabetes [see Warnings and Precautions (5.8)]
+- •Heart Rate Increase [see Warnings and Precautions (5.9)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.10)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -29,12 +29,12 @@ The baseline characteristics were 42% with hypertension, 19% with type 2 diabete
 In these clinical trials, 6.8% of patients treated with 2.4 mg WEGOVY and 3.2% of patients treated with placebo permanently discontinued treatment as a result of adverse reactions.
 The most common adverse reactions leading to discontinuation were nausea (1.8% versus 0.2%), vomiting (1.2% versus 0%), and diarrhea (0.7% versus 0.1%) for WEGOVY and placebo, respectively.
 
-Adverse reactions reported in clinical trials in adults and greater than or equal to 2% of WEGOVY-treated patients and more frequently than in placebo-treated patients are shown in Table 3.
+Adverse reactions reported in clinical trials in adults and greater than or equal to 2% of WEGOVY-treated patients and more frequently than in placebo-treated patients are shown in Table 2.
 
-Table 3.
+Table 2.
 Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY-treated Adults with Obesity or Overweight
 
-|  | PlaceboN=1,261% | WEGOVY 2.4 mgN=2,116% |
+|  | Placebo N=1,261 % | WEGOVY 2.4 mg N=2,116 % |
 | --- | --- | --- |
 | Nausea | 16 | 44 |
 | Diarrhea | 16 | 30 |
@@ -56,15 +56,17 @@ Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY-treated Adults with
 | Hair Loss | 1 | 3 |
 | Dysesthesiae | 1 | 2 |
 
-aIncludes abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain, abdominal tenderness, abdominal discomfort and epigastric discomfort
+a Includes abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain, abdominal tenderness, abdominal discomfort and epigastric discomfort
 
-bIncludes fatigue and asthenia
+b Includes fatigue and asthenia
 
-cDefined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia or severe hypoglycemia (requiring the assistance of another person) in patients with type 2 diabetes not on concomitant insulin (Study 3, WEGOVY N=403, Placebo N=402).
+c Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia or severe hypoglycemia (requiring the assistance of another person) in patients with type 2 diabetes not on concomitant insulin (Study 3, WEGOVY N=403, Placebo N=402).
 See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
 T2DM = type 2 diabetes mellitus
 
-dIncludes chronic gastritis, gastritis, gastritis erosive, and reflux gastritis eIncludes paresthesia, hyperesthesia, burning sensation, allodynia, dysesthesia, skin burning sensation, pain of skin, and sensitive skin
+d Includes chronic gastritis, gastritis, gastritis erosive, and reflux gastritis
+
+e Includes paresthesia, hyperesthesia, burning sensation, allodynia, dysesthesia, skin burning sensation, pain of skin, and sensitive skin
 
 In a cardiovascular outcomes trial, 8,803 patients were exposed to WEGOVY for a median of 37.3 months and 8,801 patients were exposed to placebo for a median of 38.6 months [see Clinical Studies (14.1)].
 Safety data collection was limited to serious adverse events (including death), adverse events leading to discontinuation, and adverse events of special interest.
@@ -77,10 +79,10 @@ WEGOVY was evaluated in a 68-week, double-blind, randomized, parallel group, pla
 Baseline characteristics included a mean age of 15.4 years; 38% of patients were male; 79% were White, 8% were Black or African American, 2% were Asian, and 11% were of other or unknown race; and 11% were of Hispanic or Latino ethnicity.
 The mean baseline body weight was 107.5 kg, and mean BMI was 37 kg/m2.
 
-Table 4 shows adverse reactions reported in greater than or equal to 3% of WEGOVY-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older.
+Table 3 shows adverse reactions reported in greater than or equal to 3% of WEGOVY-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older.
 
-Table 4.
-Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY-Treated Pediatric Patients Aged 12 Years and Older with Obesity
+1. Table 3.
+   Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY-Treated Pediatric Patients Aged 12 Years and Older with Obesity
 
 |  | Placebo N=67 % | WEGOVY 2.4 mg N=133 % |
 | --- | --- | --- |
@@ -105,7 +107,7 @@ Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY-Treated Pediatric P
 | Rash | 0 | 3 |
 | Urticaria | 0 | 3 |
 
-1. Other Adverse Reactions in Adults and/or Pediatric Patients
+Other Adverse Reactions in Adults and/or Pediatric Patients
 
 Acute Pancreatitis
 
@@ -146,7 +148,7 @@ The risk of renal adverse reactions with WEGOVY was increased in adult patients 
 Retinal Disorders in Patients with Type 2 Diabetes
 
 In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2, retinal disorders were reported by 6.9% of patients treated with WEGOVY (semaglutide 2.4 mg), 6.2% of patients treated with semaglutide 1 mg, and 4.2% of patients treated with placebo.
-The majority of events were reported as diabetic retinopathy (4.0%, 2.7%, and 2.7%, respectively) and non-proliferative retinopathy (0.7%, 0%, and 0%, respectively).
+The majority of events were reported as diabetic retinopathy (4%, 2.7%, and 2.7%, respectively) and non-proliferative retinopathy (0.7%, 0%, and 0%, respectively).
 
 Increase in Heart Rate
 
@@ -170,9 +172,9 @@ Gastrointestinal Adverse Reactions
 In clinical trials in adults, 73% of WEGOVY-treated patients and 47% of patients receiving placebo reported gastrointestinal adverse reactions, including severe reactions that were reported more frequently among patients receiving WEGOVY (4.1%) than placebo (0.9%).
 The most frequently reported reactions were nausea (44% vs. 16%), vomiting (25% vs. 6%), and diarrhea (30% vs. 16%).
 Other reactions that occurred at a higher incidence among WEGOVY-treated adult patients included dyspepsia, abdominal pain, abdominal distension, eructation, flatulence, gastroesophageal reflux disease, gastritis, hemorrhoids, and hiccups.
-These reactions increased during dose escalation.
+These reactions were most frequently reported during dosage escalation.
 
-In the pediatric clinical trial, 62% of WEGOVY-treated patients and 42% of placebo-treated patients reported gastrointestinal disorders.
+In the pediatric clinical trial, 62% of WEGOVY-treated patients and 42% of placebo-treated patients reported gastrointestinal adverse reactions.
 The most frequently reported reactions were nausea (42% vs. 18%), vomiting (36% vs. 10%), and diarrhea (22% vs. 19%).
 Other gastrointestinal-related reactions that occurred at a higher incidence than placebo among WEGOVY-treated pediatric patients included abdominal pain, constipation, eructation, gastroesophageal reflux disease, dyspepsia, and flatulence.
 
@@ -181,7 +183,7 @@ In a pediatric clinical trial, 2.3% of patients treated with WEGOVY versus 1.5% 
 
 Injection Site Reactions
 
-In clinical trials in adults, 1.4% of WEGOVY-treated patients and 1.0% of patients receiving placebo experienced injection site reactions (including injection site pruritus, erythema, inflammation, induration, and irritation).
+In clinical trials in adults, 1.4% of WEGOVY-treated patients and 1% of patients receiving placebo experienced injection site reactions (including injection site pruritus, erythema, inflammation, induration, and irritation).
 
 Hypersensitivity Reactions
 
@@ -193,7 +195,7 @@ In adult clinical trials, allergic reactions occurred in 16% (8/50) of WEGOVY-tr
 
 Fractures
 
-In the cardiovascular outcomes trial in adults, more fractures of the hip and pelvis were reported on WEGOVY than on placebo in female patients: 1.0% (24/2448) vs. 0.2% (5/2424), and in patients ages 75 years and older: 2.4% (17/703) vs. 0.6% (4/663), respectively.
+In the cardiovascular outcomes trial in adults, more fractures of the hip and pelvis were reported on WEGOVY than on placebo in female patients: 1% (24/2448) vs. 0.2% (5/2424), and in patients ages 75 years and older: 2.4% (17/703) vs. 0.6% (4/663), respectively.
 
 Urolithiasis
 
@@ -226,6 +228,8 @@ Gastrointestinal Disorders: acute pancreatitis and necrotizing pancreatitis, som
 
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 
-Renal and Urinary Disorders: acute kidney injury
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing
 
-Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
+elective surgeries or procedures requiring general anesthesia or deep sedation
+
+Renal and Urinary Disorders: acute kidney injury

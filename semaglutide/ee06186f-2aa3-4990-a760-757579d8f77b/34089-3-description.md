@@ -8,7 +8,7 @@ A minor modification was made in position 34 to ensure the attachment of only on
 The molecular formula is C187H291N45O59 and the molecular weight is 4113.58 g/mol.
 
 1. Figure 1.
-   Structural Formula of semaglutide
+   Structural Formula of Semaglutide
 
 WEGOVY is a sterile, aqueous, clear, colorless solution.
 Each 0.5 mL single-dose pen contains a solution of WEGOVY containing 0.25 mg, 0.5 mg or 1 mg of semaglutide; and each 0.75 mL single-dose pen contains a solution of WEGOVY containing 1.7 or 2.4 mg of semaglutide.
