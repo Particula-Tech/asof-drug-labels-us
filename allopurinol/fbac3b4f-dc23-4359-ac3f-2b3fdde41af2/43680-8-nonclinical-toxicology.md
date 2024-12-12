@@ -9,5 +9,3 @@ Allopurinol administered intravenously to rats (50 mg/kg) was not incorporated i
 No evidence of clastogenicity was observed in lymphocytes taken from patients treated with allopurinol (mean duration of treatment 40 months), or in an in vitro assay with human lymphocytes.
 
 Allopurinol oral doses of 20 mg/kg/day had no effect on male or female fertility in rats or rabbits (approximately 0.2 or 0.5 times the MRHD on a mg/m2 basis, respectively).
-
-## 13.2 Animal Toxicology and/or Pharmacology

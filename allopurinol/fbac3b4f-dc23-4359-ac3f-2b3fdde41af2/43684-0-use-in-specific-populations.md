@@ -42,8 +42,6 @@ The estimated relative infant dose were 0.14 mg/kg and 0.2 mg/kg of allopurinol 
 There was no report of effects of allopurinol on the breastfed infant or on milk production.
 Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatments with allopurinol tablets and for one week after the last dose.
 
-## 8.3 Nursing Mothers
-
 ## 8.4 Pediatric Use
 
 Hyperuricemia Associated with Cancer Therapy
@@ -62,8 +60,6 @@ The safety and effectiveness of allopurinol tablets have not been established fo
 Inborn Errors of Metabolism
 
 The safety and effectiveness of allopurinol tablets have not been established in pediatric patients with rare inborn errors of purine metabolism.
-
-## 8.5 Geriatric Use
 
 ## 8.6 Renal Impairment
 

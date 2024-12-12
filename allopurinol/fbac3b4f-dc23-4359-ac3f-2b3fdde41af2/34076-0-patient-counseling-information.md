@@ -50,24 +50,18 @@ Lactation
 
 Advise women not to breastfeed during treatment with allopurinol tablets and for one week after the last dose [see Use in Specific Populations (8.2)].
 
-Dist. by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam - 603 103.
+Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Mfg.
-Lic.
-No.: TN00002121
+Neutral Code: TN/DRUGS/TN00002121
 
-OS2115H-01-74-04
+© 2024 Endo, Inc. or one of its affiliates.
 
-Revised: 01/2024
+OS2115H-01-74-05
+
+Revised: 09/2024
