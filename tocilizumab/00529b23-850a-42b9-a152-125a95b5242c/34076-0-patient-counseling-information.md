@@ -14,8 +14,8 @@ Instruct the patient of the importance of contacting their doctor immediately wh
 
 - Hypersensitivity and Serious Allergic Reactions
 
-Inform patients that some patients who have been treated with TOFIDENCE have developed serious allergic reactions, including anaphylaxis [see Warnings and Precautions (5.6)].
-Advise patients to seek immediate medical attention if they experience any symptom of serious allergic reactions.
+Inform patients that some patients who have been treated with TOFIDENCE have developed serious allergic reactions, including anaphylaxis and serious skin reactions [see Warnings and Precautions (5.6)].
+Advise patients to stop taking TOFIDENCE and seek immediate medical attention if they experience any symptom of serious allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing).
 
 Pregnancy
 

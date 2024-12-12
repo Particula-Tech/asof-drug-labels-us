@@ -146,10 +146,10 @@ Reactions that required treatment discontinuation included generalized erythema,
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous tocilizumab products, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products [see Adverse Reactions (6.4)].
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products.In addition, serious cutaneous reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported in patients with autoinflammatory conditions treated with tocilizumab products.
+
 TOFIDENCE for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
-If anaphylaxis or other hypersensitivity reaction occurs, stop administration of TOFIDENCE immediately and discontinue TOFIDENCE permanently.
-Do not administer TOFIDENCE to patients with known hypersensitivity to tocilizumab products [see Contraindications (4)and Adverse Reactions (6)].
+If a hypersensitivity reaction occurs immediately discontinue TOFIDENCE; treat promptly and monitor until signs and symptoms resolve.
 
 ## 5.7 Demyelinating Disorders
 
