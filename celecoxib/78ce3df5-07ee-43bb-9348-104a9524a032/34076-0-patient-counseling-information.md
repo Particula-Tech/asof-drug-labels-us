@@ -10,15 +10,15 @@ If these occur, instruct patients to stop celecoxib and seek immediate medical t
 Heart Failure and Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
 Anaphylactic Reactions Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
-Serious Skin Reactions including DRESS Advise patients to stop celecoxib immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
+Serious Skin Reactions, Including DRESS Advise patients to stop taking celecoxib immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 Female Fertility Advise females of reproductive potential who desire pregnancy that NSAIDs, including celecoxib, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
 Fetal Toxicity Inform pregnant women to avoid use of celecoxib and other NSAIDs starting at 30 weeks of gestation because of the risk of the premature closing of the fetal ductus arteriosus If treatment with celecoxib is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of celecoxib with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
 Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with celecoxib capsules until they talk to their healthcare provider [see Drug Interactions (7)].
-Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 387810, District - Ahmedabad, Gujarat, INDIA Revised: January/2022
+Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 387810, District - Ahmedabad, Gujarat, INDIA Revised:December/2024
 
-Medication Guide for Non-Steroidal Anti-inflammatory Drugs (NSAIDs) What is the most important information I should know about medicines called Non-Steroidal Anti-inflammatory Drugs (NSAIDs)?
+Medication Guide for NonSteroidal Anti-inflammatory Drugs (NSAIDs) What is the most important information I should know about medicines called NonSteroidal Anti-inflammatory Drugs (NSAIDs)?
 
 NSAIDs can cause serious side effects, including:
 
@@ -50,7 +50,7 @@ NSAIDs should only be used: •exactly as prescribed •at the lowest dose possi
 NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
 
 Who should not take NSAIDs?
-Do not take NSAIDs: •if you have an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs. •right before or after heart bypass surgery.
+Do not take NSAIDs: • if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs. • right before or after heart bypass surgery.
 
 Before taking NSAIDS, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -81,12 +81,12 @@ See “What is the most important information I should know about medicines call
 - life-threatening allergic reactions
 - Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
 
-Get emergency help right away if you have any of the following symptoms:
+Get emergency help right away if you get any of the following symptoms:
 
 | shortness of breath or trouble breathingchest painweakness in one part or side of your body | slurred speechswelling of the face or throat |
 | --- | --- |
 
-Stop taking your NSAID and call your healthcare provider right away if you have any of the following symptoms:
+Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms:
 
 | nauseamore tired or weaker than usualdiarrheaitchingyour skin or eyes look yellowindigestion or stomach painflu-like symptoms | vomit bloodthere is blood in your bowel movement or it is black and sticky like tarskin rash or blisters with fever unusual weight gainswelling of the arms, legs, hands and feet |
 | --- | --- |
@@ -110,6 +110,8 @@ Do not give NSAIDs to other people, even if they have the same symptoms that you
 It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 Manufactured by: Cadila Pharmaceuticals Limited 1389, Dholka, District - Ahmedabad, Gujarat State, INDIA.
-Revised: January/2022
+Revised: December/2024

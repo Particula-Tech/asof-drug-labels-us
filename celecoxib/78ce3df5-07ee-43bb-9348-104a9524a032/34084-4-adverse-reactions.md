@@ -57,7 +57,7 @@ The lower incidence of events with celecoxib was maintained with or without aspi
 Withdrawals/Serious Adverse Events: Kaplan-Meier cumulative rates at 9 months for withdrawals due to adverse events for celecoxib, diclofenac and ibuprofen were 24%, 29%, and 26%, respectively.
 Rates for serious adverse events (i.e., causing hospitalization or felt to be life-threatening or otherwise medically significant), regardless of causality, were not different across treatment groups (8%, 7%, and 8%, respectively).
 Juvenile Rheumatoid Arthritis Study In a 12-week, double-blind, active-controlled study, 242 JRA patients 2 years to 17 years of age were treated with celecoxib or naproxen; 77 JRA patients were treated with celecoxib 3 mg/kg twice daily, 82 patients were treated with celecoxib 6 mg/kg twice daily, and 83 patients were treated with naproxen 7.5 mg/kg twice daily.
-The most commonly occurring (≥5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea and vomiting.
+The most commonly occurring (≥5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea, and vomiting.
 The most commonly occurring (≥5%) adverse experiences for naproxen-treated patients were headache, nausea, vomiting, fever, upper abdominal pain, diarrhea, cough, abdominal pain, and dizziness (Table 2).
 Compared with naproxen, celecoxib at doses of 3 and 6 mg/kg twice daily had no observable deleterious effect on growth and development during the course of the 12-week double-blind study.
 There was no substantial difference in the number of clinical exacerbations of uveitis or systemic features of JRA among treatment groups.
@@ -94,11 +94,11 @@ All patients in post-oral surgery pain studies received a single dose of study m
 Doses up to 600 mg/day of celecoxib were studied in primary dysmenorrhea and post-orthopedic surgery pain studies.
 The types of adverse events in the analgesia and dysmenorrhea studies were similar to those reported in arthritis studies.
 The only additional adverse event reported was post-dental extraction alveolar osteitis (dry socket) in the post-oral surgery pain studies.
-The APC and PreSAP Trials Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
+The APC and PreSAP Trials Adverse Reactions from Long-term, Placebo-controlled Polyp Prevention Studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxibpre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:
 
-|  | Celecoxib (400 mg to 800 mg daily) N = 2,285 | Placebo N=1,303 |
+|  | Celecoxib (400 to 800 mg daily) N = 2,285 | Placebo N=1,303 |
 | --- | --- | --- |
 | Diarrhea | 10.5% | 7.0% |
 | Gastroesophageal reflux disease | 4.7% | 3.1% |
@@ -114,3 +114,5 @@ The following additional adverse reactions occurred in ≥0.1% and <1% of patien
 
 The following adverse reactions have been identified during post approval use of celecoxib.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure Cardiovascular: Vasculitis, deep venous thrombosis General: Anaphylactoid reaction, angioedema Liver and biliary: Liver necrosis, hepatitis, jaundice, hepatic failure Hemic and lymphatic: Agranulocytosis, aplastic anemia, pancytopenia, leucopenia Metabolic: Hypoglycemia, hyponatremia Nervous: Aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage Renal: Interstitial nephritis
+
+Skin and Appendages: Erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE)

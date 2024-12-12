@@ -3,7 +3,7 @@
 See Table 3 for clinically significant drug interactions with celecoxib.
 Table 3: Clinically Significant Drug Interactions with Celecoxib
 
-| Drugs That Interfere with Hemostasis |  |
+| Drugs that Interfere with Hemostasis |  |
 | --- | --- |
 | Clinical Impact: | Celecoxib and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of celecoxib and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
 | Intervention: | Monitor patients with concomitant use of celecoxib with anticoagulants (e.g., warfarin), antiplatelet drugs (e.g., aspirin), SSRIs, and SNRIs for signs of bleeding [see Warnings and Precautions (5.12)]. |
@@ -12,7 +12,7 @@ Table 3: Clinically Significant Drug Interactions with Celecoxib
 | Intervention: | Concomitant use of celecoxib and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [see Warnings and Precautions (5.12)]. Celecoxib is not a substitute for low dose aspirin for cardiovascular protection. |
 | ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-Blockers |  |
 | Clinical Impact: | NSAIDs may diminish the antihypertensive effect of ACE inhibitors, ARBs, or beta-blockers (including propranolol).In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
-| Intervention: | During concomitant use of celecoxib and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.During concomitant use of celecoxib and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.6)].When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
+| Intervention: | During concomitant use of celecoxib and ACE inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.During concomitant use of celecoxib and ACE inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.6)].When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
 | Diuretics |  |
 | Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
 | Intervention: | During concomitant use of celecoxib with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [see Warnings and Precautions (5.6)]. |
@@ -34,7 +34,7 @@ Table 3: Clinically Significant Drug Interactions with Celecoxib
 | Pemetrexed |  |
 | Clinical Impact: | Concomitant use of celecoxib and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
 | Intervention: | During concomitant use of celecoxib and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
-| CYP2C9 Inhibitors or inducers |  |
+| CYP2C9 Inhibitors or Inducers |  |
 | Clinical Impact: | Celecoxib metabolism is predominantly mediated via cytochrome P450 (CYP) 2C9 in the liver. Co-administration of celecoxib with drugs that are known to inhibit CYP2C9 (e.g. fluconazole) may enhance the exposure and toxicity of celecoxib whereas co-administration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of celecoxib. |
 | Intervention: | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2C9 inhibitors or inducers. [see Clinical Pharmacology (12.3)]. |
 | CYP2D6 substrates |  |

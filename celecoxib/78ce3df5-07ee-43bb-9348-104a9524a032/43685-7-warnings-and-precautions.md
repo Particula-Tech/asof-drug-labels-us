@@ -11,7 +11,7 @@ The increase in CV thrombotic risk has been observed most consistently at higher
 In the APC (Adenoma Prevention with Celecoxib) trial, there was about a threefold increased risk of the composite endpoint of cardiovascular death, MI, or stroke for the celecoxib capsules 400 mg twice daily and celecoxib capsules 200 mg twice daily treatment arms compared to placebo.
 The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.7)].
 A randomized controlled trial entitled the Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION) was conducted to assess the relative cardiovascular thrombotic risk of a COX-2 inhibitor, celecoxib, compared to the non-selective NSAIDs naproxen and ibuprofen.
-Celecoxib 100 mg twice daily was non-inferior to naproxen 375 to 500 mg twice daily and ibuprofen 600 to 800 mg three times daily for the composite endpoint of the Antiplatelet Trialists’ Collaboration (APTC), which consists of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke [See Clinical Studies (14.6)].
+Celecoxib 100 mg twice daily was non-inferior to naproxen 375 to 500 mg twice daily and ibuprofen 600 to 800 mg three times daily for the composite endpoint of the Antiplatelet Trialists’ Collaboration (APTC), which consists of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke [see Clinical Studies (14.6)].
 To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
 Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
@@ -38,7 +38,7 @@ Most postmarketing reports of fatal GI events occurred in elderly or debilitated
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 Complicated and symptomatic ulcer rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA.
 Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.7)].
-Strategies to Minimize the GI Risks in NSAID-treated patients:
+Strategies to Minimize the GI Risks in NSAID-treated Patients:
 
 - Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
@@ -104,7 +104,7 @@ When celecoxib is used in patients with preexisting asthma (without known aspiri
 
 ## 5.9 Serious Skin Reactions
 
-Serious skin reactions have occurred following treatment with celecoxib capsules, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP).
+Serious skin reactions have occurred following treatment with celecoxib capsules, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE) which may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE).
 These serious events may occur without warning and can be fatal.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of celecoxib at the first appearance of skin rash or any other sign of hypersensitivity.
 Celecoxib is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
@@ -121,7 +121,7 @@ Because this disorder is variable in its presentation, other organ systems not n
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, discontinue celecoxib capsules and evaluate the patient immediately.
 
-## 5.11 Fetal Tocixity
+## 5.11 Fetal Toxicity
 
 Premature Closure of Fetal Ductus Arteriosus Avoid use of NSAIDs, including celecoxib capsules, in pregnant women at about 30 weeks gestation and later.
 NSAIDs, including celecoxib capsules, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
@@ -134,7 +134,7 @@ If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, l
 Consider ultrasound monitoring of amniotic fluid if celecoxib capsules treatment extends beyond 48 hours.
 Discontinue celecoxib capsules if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
 
-## 5.12 Hematological Toxicity
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
@@ -156,6 +156,6 @@ In controlled clinical trials, elevated BUN occurred more frequently in patients
 This laboratory abnormality was also seen in patients who received comparator NSAIDs in these studies.
 The clinical significance of this abnormality has not been established.
 
-## 5.15 Disseminated intravascular Coagulation (DIC)
+## 5.15 Disseminated Intravascular Coagulation (DIC)
 
 Because of the risk of disseminated intravascular coagulation with use of celecoxib in pediatric patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, and inform patients and their caregivers to report symptoms as soon as possible.

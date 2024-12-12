@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 General Dosing Instructions
 
@@ -19,7 +19,7 @@ For RA, the dosage is 100 mg to 200 mg twice daily.
 For JRA, the dosage for pediatric patients (age 2 years and older) is based on weight.
 For patients ≥10 kg to ≤25 kg the recommended dose is 50 mg twice daily.
 For patients >25 kg the recommended dose is 100 mg twice daily.
-For patients who have difficulty swallowing capsules, the contents of a celecoxib capsule can be added to applesauce.
+For patients who have difficulty swallowing capsules, the contents of a celecoxib capsules can be added to applesauce.
 The entire capsule contents are carefully emptied onto a level teaspoon of cool or room temperature applesauce and ingested immediately with water.
 The sprinkled capsule contents on applesauce are stable for up to 6 hours under refrigerated conditions (2° C to 8° C/ 35° F to 45° F).
 
@@ -37,7 +37,7 @@ On subsequent days, the recommended dose is 200 mg twice daily as needed.
 ## 2.7 Special Populations
 
 Hepatic Impairment In patients with moderate hepatic impairment (Child-Pugh Class B), reduce the dose by 50%.
-The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.3), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The use of celecoxib capsules in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 Poor Metabolizers of CYP2C9 Substrates In adult patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin), initiate treatment with half of the lowest recommended dose.
 In patients with JRA who are known or suspected to be poor CYP2C9 metabolizers, consider using alternative treatments.
-[see Use in Specific populations (8.8), and Clinical Pharmacology (12.5)].
+[see Use in Specific Populations (8.8), and Clinical Pharmacology (12.5)].

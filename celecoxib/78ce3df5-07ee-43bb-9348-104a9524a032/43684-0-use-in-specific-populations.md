@@ -23,7 +23,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions:
 
-Premature closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including celecoxib, can cause premature closure of the fetal ductus arteriosus (see Data).
+Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including celecoxib, can cause premature closure of the fetal ductus arteriosus (see Data).
 
 Oligohydramnios/Neonatal Renal Impairment: If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If celecoxib treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
@@ -44,8 +44,8 @@ Methodological limitations of these postmarketing studies and reports include la
 These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
 Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
-Animal data Celecoxib at oral doses ≥150 mg/kg/day (approximately 2 times the human exposure at 200 mg twice daily as measured by AUC0 to 24),caused an increased incidence of ventricular septal defects, a rare event, and fetal alterations, such as ribs fused, sternebrae fused and sternebrae misshapen when rabbits were treated throughout organogenesis.
-A dose-dependent increase in diaphragmatic hernias was observed when rats were given celecoxib at oral doses 30 mg/kg/day (approximately 6 times human exposure based on the AUC0 to 24 at 200 mg twice daily for RA) throughout organogenesis.
+Animal Data Celecoxib at oral doses ≥150 mg/kg/day (approximately 2 times the human exposure at 200 mg twice daily as measured by AUC0 to 24),caused an increased incidence of ventricular septal defects, a rare event, and fetal alterations, such as ribs fused, sternebrae fused and sternebrae misshapen when rabbits were treated throughout organogenesis.
+A dose-dependent increase in diaphragmatic hernias was observed when rats were given celecoxib at oral doses ≥30 mg/kg/day (approximately 6 times human exposure based on the AUC0 to 24 at 200 mg twice daily for RA) throughout organogenesis.
 In rats, exposure to celecoxib during early embryonic development resulted in pre-implantation and post-implantation losses at oral doses ≥50 mg/kg/day (approximately 6 times human exposure based on the AUC0 to 24 at 200 mg twice daily for RA).
 
 Celecoxib produced no evidence of delayed labor or parturition at oral doses up to 100 mg/kg in rats (approximately 7-fold human exposure as measured by the AUC0 to 24 at 200 mg twice daily).
@@ -77,7 +77,7 @@ Patients with systemic onset JRA (without active systemic features) appear to be
 In some patients with systemic onset JRA, both celecoxib and naproxen were associated with mild prolongation of activated partial thromboplastin time (APTT) but not prothrombin time (PT).
 When NSAIDs including celecoxib are used in patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, due to the risk of disseminated intravascular coagulation.
 Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see Dosage and Administration (2.4), Warnings and Precautions (5.15), Adverse Reactions (6.1), Animal Toxicology (13.2), Clinical Studies (14.3)].
-Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 substrates (8.8)].
+Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 Substrates (8.8)].
 
 ## 8.5 Geriatric Use
 

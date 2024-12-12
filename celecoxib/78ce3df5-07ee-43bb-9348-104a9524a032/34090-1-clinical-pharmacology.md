@@ -78,7 +78,7 @@ Renal Impairment In a cross-study comparison, celecoxib AUC was approximately 40
 No significant relationship was found between GFR and celecoxib clearance.
 Patients with severe renal insufficiency have not been studied.
 Similar to other NSAIDs, celecoxib is not recommended in patients with severe renal insufficiency [see Warnings and Precautions (5.6)].
-Drug interactions studies In vitro studies indicate that celecoxib is not an inhibitor of cytochrome P450 2C9, 2C19 or 3A4.
+Drug Interactions Studies In vitro studies indicate that celecoxib is not an inhibitor of cytochrome P450 2C9, 2C19 or 3A4.
 In vivo studies have shown the following: Aspirin When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
 See Table 3 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
@@ -92,7 +92,7 @@ Other Drugs The effects of celecoxib on the pharmacokinetics and/or pharmacodyna
 ## 12.5 Pharmacogenomics
 
 CYP2C9 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity, such as those homozygous for the CYP2C9*2 and CYP2C9*3 polymorphisms.
-Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *1/*3 genotypes.
+Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *I/*3 genotypes.
 The pharmacokinetics of celecoxib have not been evaluated in subjects with other CYP2C9 polymorphisms, such as *2, *5, *6, *9 and *11.
 It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups.
 [see Dosage and Administration (2.7), Use in Specific Populations (8.8)].

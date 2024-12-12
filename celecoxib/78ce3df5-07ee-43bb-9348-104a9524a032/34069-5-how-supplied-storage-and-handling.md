@@ -32,4 +32,6 @@ Celecoxib 400 mg capsules are white to off-white powder filled in size "00" hard
 | 71209-057-03 | bottle of 60 |
 | 71209-057-20 | bottle of 600 |
 
-Storage: Store at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]
+Storage:
+
+Store at room temperature 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
