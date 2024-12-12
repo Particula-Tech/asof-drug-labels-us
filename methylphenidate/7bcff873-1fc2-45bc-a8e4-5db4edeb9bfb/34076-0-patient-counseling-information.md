@@ -92,6 +92,6 @@ Distributed by
 Manufactured By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
 For more information, call Padagis at 1-866-634-9120
 
-DOT Matrix™ is a trademark of Noven Pharmaceuticals, Inc. DAYTRANA® is a registered trademark of Noven Therapeutics, LLC. © 2009-2023 Noven Pharmaceuticals, Inc.
+DOT Matrix™ is a trademark of Noven Pharmaceuticals, Inc. DAYTRANA® is a registered trademark of Noven Therapeutics, LLC.
 
-102652-3
+102652-4

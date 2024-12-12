@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Methylphenidate Transdermal System is supplied in a sealed tray or outer pouch containing 30 individually pouched transdermal systems.
+Methylphenidate Transdermal System is supplied in a sealed tray containing 30 individually pouched transdermal systems.
 See the chart below for information regarding available strengths.
 
 | Nominal Dose Delivered (mg) Over 9 Hours | Dosage Rate* (mg/hr) | ​Transdermal System Size (cm2) | Methylphenidate Content per Transdermal System** (mg) | TransdermalSystems Per Carton | NDC Number |
@@ -15,7 +15,7 @@ Store at 25° C (77° F); excursions permitted to 15-30° C (59-86° F) [see USP
 Do not store transdermal systems unpouched.
 Do not store transdermal systems in refrigerators or freezers.
 
-Once the sealed tray or outer pouch is opened, use contents within 2 months.
+Once the sealed tray is opened, use contents within 2 months.
 Apply the transdermal system immediately upon removal from the individual protective pouch.
 For transdermal use only.
 
