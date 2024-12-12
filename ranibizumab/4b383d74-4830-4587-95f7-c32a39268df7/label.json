@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761165"
+  ],
+  "inn": "ranibizumab",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "61314-624-94",
+    "61314-625-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ranibizumab-eqrn",
+      "name": "CIMERLI"
+    }
+  ],
+  "setid": "4b383d74-4830-4587-95f7-c32a39268df7",
+  "source": "dailymed"
+}

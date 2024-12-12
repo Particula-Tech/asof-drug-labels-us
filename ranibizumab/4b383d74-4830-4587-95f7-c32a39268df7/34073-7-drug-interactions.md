@@ -1,0 +1,6 @@
+# 7 DRUG INTERACTIONS
+
+Drug interaction studies have not been conducted with ranibizumab products.
+
+Ranibizumab intravitreal injection has been used adjunctively with PDT.
+Twelve of 105 (11%) patients with neovascular AMD developed serious intraocular inflammation; in 10 of the 12 patients, this occurred when ranibizumab was administered 7 days (± 2 days) after PDT.
