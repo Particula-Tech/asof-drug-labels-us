@@ -46,9 +46,10 @@ An event was considered treatment-emergent if it occurred for the first time or 
 ### Adverse Events Associated With Discontinuation of Treatment:
 
 Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam orally disintegrating tablets compared to 9% for placebo in the combined data of two 6- to 9-week trials.
-The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for clonazepam orally disintegrating tablets orally disintegrating tablets than that of placebo included the following:
+The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for clonazepam orally disintegrating tablets than that of placebo included the following:
 
-Table 2 Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
+Table 2.
+Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
 
 | Adverse Event | Clonazepam Orally Disintegrating Tablets (N=574) | Placebo (N=294) |
 | --- | --- | --- |
@@ -68,7 +69,8 @@ The prescriber should be aware that the figures in Table 3 cannot be used to pre
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence in the population studied.
 
-Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Controlled Clinical Trials*
+Table 3.
+Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Controlled Clinical Trials*
 
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -137,7 +139,7 @@ Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 
 ### Treatment-Emergent Depressive Symptoms:
 
 In the pool of two short-term placebo-controlled trials, adverse events classified under the preferred term “depression” were reported in 7% of clonazepam orally disintegrating tablets-treated patients compared to 1% of placebo-treated patients, without any clear pattern of dose relatedness.
-In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam orally disintegrating tablets -treated patients compared to 1% of placebo-treated patients.
+In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam orally disintegrating tablets-treated patients compared to 1% of placebo-treated patients.
 While these findings are noteworthy, Hamilton Depression Rating Scale (HAM-D) data collected in these trials revealed a larger decline in HAM-D scores in the clonazepam group than the placebo group suggesting that clonazepam-treated patients were not experiencing a worsening or emergence of clinical depression.
 
 ### Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam Orally Disintegrating Tablets in Panic Disorder:

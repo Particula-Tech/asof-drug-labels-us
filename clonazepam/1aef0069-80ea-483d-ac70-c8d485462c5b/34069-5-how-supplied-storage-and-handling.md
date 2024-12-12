@@ -14,10 +14,14 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [S
 
 Rx only
 
-Dist by:
+Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
 
-Par Pharmaceutical
+Made in India
 
-Cranbury, NJ 08512 U.S.A.
+Neutral Code: MP/DRUGS/25/82/2020
 
-Revised:11/2022
+© 2024 Endo, Inc. or one of its affiliates.
+
+OS306-01-74-02
+
+Revised: 10/2024

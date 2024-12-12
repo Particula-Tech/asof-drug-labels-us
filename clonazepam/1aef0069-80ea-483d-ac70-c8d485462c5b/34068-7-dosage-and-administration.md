@@ -29,7 +29,7 @@ If doses are not equally divided, the largest dose should be given before retiri
 ### Geriatric Patients:
 
 There is no clinical trial experience with clonazepam orally disintegrating tablets in seizure disorder patients 65 years of age and older.
-In general, elderly patients should be started on low doses of clonazepam orally disintegrating tablets and observed closely [see PRECAUTIONS, Geriatric Use].
+In general, elderly patients should be started on low doses of clonazepam orally disintegrating tablets and observed closely (see PRECAUTIONS: Geriatric Use).
 
 ## Panic Disorder:
 
@@ -54,9 +54,9 @@ There is no clinical trial experience with clonazepam orally disintegrating tabl
 ### Geriatric Patients:
 
 There is no clinical trial experience with clonazepam orally disintegrating tablets in panic disorder patients 65 years of age and older.
-In general, elderly patients should be started on low doses of clonazepam and observed closely [see PRECAUTIONS, Geriatric Use].
+In general, elderly patients should be started on low doses of clonazepam orally disintegrating tablets and observed closely (see PRECAUTIONS: Geriatric Use).
 
-## Discontinuation or Dosage Reduction of clonazepam orally disintegrating tablets
+## Discontinuation or Dosage Reduction of clonazepam orally disintegrating tablets:
 
 To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clonazepam orally disintegrating tablets or reduce the dosage.
 If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.

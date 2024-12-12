@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-CLONAZEPAM (kloe NAZ e pam)
+Clonazepam (kloe NAZ e pam)
 
 Orally Disintegrating Tablet (ODT), C-IV
 
@@ -35,10 +35,10 @@ Do not drive or operate heavy machinery until you know how taking clonazepam ora
 Stopping clonazepam orally disintegrating tablets suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
 Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms.
 
-- Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.
+- Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs, or feet, and ringing in your ears.
 - Physical dependence is not the same as drug addiction.
   Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
-- Do not take more clonazepam orally disintegrating tablets for longer than prescribed or take clonazepam orally disintegrating tablets for longer than prescribed.
+- Do not take more clonazepam orally disintegrating tablets than prescribed or take clonazepam orally disintegrating tablets for longer than prescribed.
 
 - Clonazepam orally disintegrating tablets can make you sleepy or dizzy and can slow your thinking and motor skills.
   This may get better over time.
@@ -53,17 +53,17 @@ Call your healthcare provider or go to the nearest hospital emergency room right
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
-- attempt to commit suicide
-- ·new or worse depression
-- ·new or worse anxiety
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
 - feeling agitated or restless
 - panic attacks
 - trouble sleeping (insomnia)
-- ·new or worse irritability
+- new or worse irritability
 - acting aggressive, being angry, or violent
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
-- ·other unusual changes in behavior or mood
+- other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -79,9 +79,9 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 - Stopping clonazepam orally disintegrating tablets suddenly can cause serious problems.
   Stopping clonazepam orally disintegrating tablets suddenly can cause seizures that will not stop (status epilepticus).
 
-What is clonazepam orally disintegrating tablets?
+What is clonazepam orally disintegrating tablet?
 
-clonazepam orally disintegrating tablet is a prescription medicine used alone or with other medicines to treat:
+Clonazepam orally disintegrating tablet is a prescription medicine used alone or with other medicines to treat:
 
 - certain types of seizure disorders (epilepsy) in adults and children
 - panic disorder with or without fear of open spaces (agoraphobia) in adults
@@ -114,7 +114,7 @@ Before you take clonazepam orally disintegrating tablets, tell your healthcare p
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 
 - are breastfeeding or plan to breastfeed.
-  Clonazepam can pass into your breast
+  Clonazepam can pass into your breast milk.
   - Breastfeeding during treatment with clonazepam orally disintegrating tablets may cause your baby to have sleepiness, feeding problems, and decreased weight gain.
   - Talk to your healthcare provider about the best way to feed your baby while you take clonazepam orally disintegrating tablets.
 
@@ -163,7 +163,7 @@ The most common side effects of clonazepam orally disintegrating tablets include
 
 These are not all the possible side effects of clonazepam orally disintegrating tablets.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Par Pharmaceutical at www.parpharm.com or call 1-800-828-9393.
+You may report side effects to FDA at 1-800-FDA-1088 or Endo at www.endo.com. or call 1-800-828-9393.
 
 How should I store clonazepam orally disintegrating tablets?
 
@@ -180,7 +180,7 @@ It may harm them.
 
 You can ask your pharmacist or healthcare provider for information about clonazepam orally disintegrating tablets that is written for health professionals.
 
-For more information, go to www.parpharm.com or call 1-800-828-9393.
+For more information, go to www.endo.com. or call 1-800-828-9393.
 
 What are the ingredients in clonazepam orally disintegrating tablets?
 
@@ -195,14 +195,18 @@ Inactive ingredients:
   - 1 mg tablets contain aspartame, crospovidone, magnesium stearate, mannitol, silicon dioxide, sorbitol, sodium lauryl sulfate and talc
   - 2 mg tablets contain aspartame, crospovidone, magnesium stearate, mannitol, silicon dioxide, sorbitol, sodium lauryl sulfate and talc
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.\
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dist by:
+For additional copies of this Medication Guide, visit www.endo.com. or call 1-800-828-9393.
 
-Par Pharmaceutical
+Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
 
-Cranbury, NJ 08512 U.S.A.
+Made in India
 
-For additional copies of this Medication Guide, visit www.parpharm.com or call 1-800-828-9393
+Neutral Code: MP/DRUGS/25/82/2020
 
-Revised: 11/2022
+© 2024 Endo, Inc. or one of its affiliates.
+
+OS306-01-74-02
+
+Revised: 10/2024
