@@ -95,6 +95,4 @@ For more information, call 1-877-567-7857 or visit www.daytrana.com.
 
 DOT Matrix™ is a trademark of Noven Pharmaceuticals, Inc. DAYTRANA® is a registered trademark of Noven Therapeutics, LLC.
 
-© 2009-2023 Noven Pharmaceuticals, Inc.
-
-102086-22
+102086-23
