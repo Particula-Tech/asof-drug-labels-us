@@ -12,7 +12,7 @@ Approximately 34% were Hispanic/Latino and 49% were younger than 18 years of age
 The most common adverse reaction reported by ≥1% of subjects treated with AMZEEQ and more frequently than in subjects treated with vehicle was headache, which was reported in 3% of subjects treated with AMZEEQ and 2% of subjects treated with vehicle.
 
 Local tolerability evaluations were conducted at each study visit in the clinical trial by assessment of erythema, dryness, hyperpigmentation, skin peeling and itching.
-Table 1 presents the active assessment of the signs and symptoms of local facial tolerability at Week 12 in subjects treated with AMZEEQ.
+Table 1presents the active assessment of the signs and symptoms of local facial tolerability at Week 12 in subjects treated with AMZEEQ.
 
 Local tolerability signs and symptoms occurred in similar frequency and severity as subjects treated with the vehicle component of AMZEEQ.
 
@@ -23,7 +23,7 @@ Table 1: Facial Cutaneous Tolerability Assessment
 | Symptom/Severity | Mild | Moderate | Severe |
 | Erythema | 14.2 | 1.5 | 0 |
 | Dryness | 6.8 | 0.6 | 0 |
-| HyperpigmentationHyperpigmentation was most frequently assessed as characteristic of inflammatory and post-inflammatory changes associated with acne. | 12.4 | 2.8 | 0.1 |
+| Hyperpigmentation Hyperpigmentation was most frequently assessed as characteristic of inflammatory and post-inflammatory changes associated with acne. | 12.4 | 2.8 | 0.1 |
 | Skin Peeling | 3.2 | 0.2 | 0 |
 | Itching | 5.1 | 0.8 | 0.1 |
 

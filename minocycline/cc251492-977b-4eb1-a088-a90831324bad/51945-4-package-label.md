@@ -2,9 +2,9 @@
 
 AMZEEQ Trade Label
 
-NDC 69489-201-30 - Label
+NDC 69489- 201-30 - Label
 
-amzeeq®
+amzeeq ®
 
 (minocycline) topical foam, 4%
 
@@ -16,9 +16,9 @@ Rx only
 
 30 g
 
-NDC 69489-201-30 - Carton
+NDC 69489- 201-30 - Carton
 
-amzeeq®
+amzeeq ®
 
 (minocycline) topical foam, 4%
 
@@ -38,11 +38,11 @@ Rx only
 
 AMZEEQ Sample Labels
 
-NDC 69489-201-03 - Label
+NDC 69489- 201-03 - Label
 
 Physician Sample Not for Sale
 
-amzeeq®
+amzeeq ®
 
 (minocycline) topical foam, 4%
 
@@ -56,13 +56,13 @@ Rx only
 
 3 g
 
-NDC 69489-201-03 - Carton
+NDC 69489- 201-03 - Carton
 
 Physician Sample
 
 Not for Sale
 
-amzeeq®
+amzeeq ®
 
 (minocycline) topical foam, 4%
 

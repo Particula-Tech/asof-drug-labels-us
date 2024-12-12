@@ -21,9 +21,9 @@ Tissue Hyperpigmentation
 
 Inform patients that AMZEEQ may cause discoloration of skin, scars, teeth or gums based on observations with oral minocycline.
 
-Clostridioides difficile Associated Diarrhea
+Clostridioides difficileAssociated Diarrhea
 
-Advise patients that Clostridioides difficile associated diarrhea can occur with oral minocycline therapy.
+Advise patients that Clostridioides difficileassociated diarrhea can occur with oral minocycline therapy.
 Advise patients to seek medical attention if they develop watery or bloody stools while using AMZEEQ.
 
 Hepatotoxicity
@@ -60,10 +60,10 @@ AMZEEQ should be applied exactly as directed.
 
 AMZEEQ may stain fabric.
 
-Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: Journey Medical Corporation, Scottsdale, AZ 85258 Product of Portugal or Switzerland
+Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: Journey Medical Corporation, Scottsdale, AZ 85258 Product of Portugal or Italy
 
-AMZ-P01-R00
+AMZ-P01-R01
 
 AMZEEQ is a registered trademark of Journey Medical Corporation All other trademarks are the properties of their respective owners.
-Copyright © 2022 Journey Medical Corporation.
+Copyright © 2023 Journey Medical Corporation.
 All rights reserved.
