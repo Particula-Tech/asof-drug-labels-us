@@ -10,7 +10,7 @@ In vitro, trastuzumab product-mediated ADCC has been shown to be preferentially 
 
 ## 12.2 Pharmacodynamics
 
-Trastuzumab exposure-response relationships and the time course of pharmacodynamic responses are not fully characterized.
+Trastuzumab product exposure-response relationships and the time course of pharmacodynamic responses are not fully characterized.
 
 ### Cardiac Electrophysiology
 

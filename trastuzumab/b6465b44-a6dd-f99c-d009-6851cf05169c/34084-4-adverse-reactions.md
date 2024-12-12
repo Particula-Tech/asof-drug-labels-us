@@ -15,17 +15,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The most common adverse reactions in patients receiving trastuzumab products in the adjuvant and metastatic breast cancer setting are fever, nausea, vomiting, infusion reactions, diarrhea, infections, increased cough, headache, fatigue, dyspnea, rash, neutropenia, anemia, and myalgia.
 Adverse reactions requiring interruption or discontinuation of trastuzumab product treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see Dosage and Administration (2.5)].
 
-In the metastatic gastric cancer setting, the most common adverse reactions (≥ 10%) that were increased (≥ 5% difference) in patients receiving trastuzumab as compared to patients receiving chemotherapy alone were neutropenia, diarrhea, fatigue, anemia, stomatitis, weight loss, upper respiratory tract infections, fever, thrombocytopenia, mucosal inflammation, nasopharyngitis, and dysgeusia.
+In the metastatic gastric cancer setting, the most common adverse reactions (≥ 10%) that were increased (≥ 5% difference) in the trastuzumab arm as compared to the chemotherapy alone arm were neutropenia, diarrhea, fatigue, anemia, stomatitis, weight loss, upper respiratory tract infections, fever, thrombocytopenia, mucosal inflammation, nasopharyngitis, and dysgeusia.
 
-The most common adverse reactions which resulted in discontinuation of trastuzumab treatment in the absence of disease progression were infection, diarrhea, and febrile neutropenia.
+The most common adverse reactions which resulted in discontinuation of treatment on the trastuzumab-containing arm in the absence of disease progression were infection, diarrhea, and febrile neutropenia.
 
-Adjuvant Breast Cancer Studies
+Adjuvant Breast Cancer
 
-The information below reflect exposure to one-year trastuzumab therapy across three randomized, open-label studies, Studies 1, 2, and 3, with (n = 3678) or without (n = 3363) trastuzumab in the adjuvant treatment of breast cancer.
+The information below reflects exposure to one-year trastuzumab therapy across three randomized, open-label studies, NSABP B31, NCCTG N9831, and HERA, with (n = 3678) or without (n = 3363) trastuzumab in the adjuvant treatment of breast cancer.
 
 HERA
 
-Table 3 reflects exposure to trastuzumab in 1678 patients; the median treatment duration was 51 weeks and median number of infusions was 18 [see Clinical Studies (14.1)].
+Table 3 reflects exposure to trastuzumab in 1678 patients in HERA; the median treatment duration was 51 weeks and median number of infusions was 18 [see Clinical Studies (14.1)].
 
 Table 3: Adverse Reactions (>1%) in HERA (All Grades)a
 
@@ -64,6 +64,7 @@ Table 3: Adverse Reactions (>1%) in HERA (All Grades)a
 | Rhinitis | 2 | 0.4 |
 | Pharyngolaryngeal pain | 2 | 0.5 |
 | Sinusitis | 2 | 0.3 |
+| Epistaxis | 2 | 0.06 |
 | Cardiac |  |  |
 | Hypertension | 4 | 2 |
 | Dizziness | 4 | 2 |
@@ -84,7 +85,7 @@ Clinically relevant adverse reactions in < 1% of patients who received trastuzum
 
 Adjuvant Treatment of Breast Cancer with Trastuzumab Beyond One Year
 
-Extending adjuvant treatment beyond one year is not recommended [see Dosage and Administration (2.2)].
+Extending adjuvant treatment beyond one year is not recommended [see Dosage and Administration (2.3)].
 In HERA, a comparison of trastuzumab administered once every 3 weeks for two years versus one year was performed.
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year trastuzumab compared to the 1-year trastuzumab treatment arm (8.1% versus 4.6%, respectively).
 More patients experienced at least one adverse reaction of Grade 3 or higher in the 2-year trastuzumab treatment arm (20.4%) compared with the one-year trastuzumab treatment arm (16.3%).
@@ -94,10 +95,10 @@ NSABP B31 and NCCTG N9831
 The safety data from NSABP B31 and NCCTG N9831 were obtained from 3655 patients, of whom 2000 received trastuzumab; the median treatment duration was 51 weeks [see Clinical Studies (14.1)].
 
 In NSABP B31, only Grade 3 to 5 adverse events, treatment-related Grade 2 events, and Grade 2 to 5 dyspnea were collected during and for up to 3 months following protocol-specified treatment.
-The following non-cardiac adverse reactions of Grade 2 to 5 occurred at an incidence of at least 2% greater among patients receiving trastuzumab plus chemotherapy as compared to chemotherapy alone: fatigue (29.5% vs. 22.4%), infection (24.0% vs. 12.8%), hot flashes (17.1% vs. 15%), anemia (12.3% vs. 6.7%), dyspnea (11.8% vs. 4.6%), rash/desquamation (10.9% vs. 7.6%), leukopenia (10.5% vs. 8.4%), neutropenia (6.4% vs. 4.3%), headache (6.2% vs. 3.8%), pain (5.5% vs. 3.0%), edema (4.7% vs. 2.7%) and insomnia (4.3% vs. 1.5%).
+The following non-cardiac adverse reactions of Grade 2 to 5 occurred at an incidence of at least 2% greater among patients receiving trastuzumab plus chemotherapy as compared to chemotherapy alone: fatigue (29.5% vs. 22.4%), infection (24.0% vs. 12.8%), hot flashes (17.1% vs. 15%), anemia (12.3% vs. 6.7%), dyspnea (11.8% vs. 4.6%), rash/desquamation (10.9% vs. 7.6%), leukopenia (10.5% vs. 8.4%), neutropenia (6.4% vs. 4.3%), headache (6.2% vs. 3.8%), pain (5.5% vs. 3%), edema (4.7% vs. 2.7%) and insomnia (4.3% vs. 1.5%).
 The majority of these events were Grade 2 in severity.
 
-In NCCTG N9831, data collection was limited to the following investigator-attributed treatment-related adverse reactions: NCI-CTC Grade 4 and 5 hematologic toxicities, Grade 3 to 5 non-hematologic toxicities, selected Grade 2 to 5 toxicities associated with taxanes (myalgia, arthralgias, nail changes, motor neuropathy, sensory neuropathy) and Grade 1 to 5 cardiac toxicities occurring during chemotherapy and/or trastuzumab treatment.
+In NCCTG N9831, data collection was limited to the following investigator-attributed treatment-related adverse reactions: NCI-CTC Grade 4 and 5 hematologic toxicities, Grade 3 to 5 non-hematologic toxicities, selected Grade 2 to 5 toxicities associated with taxanes (myalgia, arthralgias, nail changes, motor neuropathy, and sensory neuropathy) and Grade 1 to 5 cardiac toxicities occurring during chemotherapy and/or trastuzumab treatment.
 The following non-cardiac adverse reactions of Grade 2 to 5 occurred at an incidence of at least 2% greater among patients receiving trastuzumab plus chemotherapy as compared to chemotherapy alone: arthralgia (12.2% vs. 9.1%), nail changes (11.5% vs.6.8%), dyspnea (2.4% vs. 0.2%), and diarrhea (2.2% vs. 0%).
 The majority of these events were Grade 2 in severity.
 
@@ -106,7 +107,7 @@ BCIRG006
 Safety data from BCIRG006reflect exposure to trastuzumab as part of an adjuvant treatment regiimen from 2124 patients receiving at least one dose of study treatment [AC-TH: n = 1068; TCH: n = 1056].
 The overall median treatment duration was 54 weeks in both the AC-TH and TCH arms.
 The median number of infusions was 26 in the AC-TH arm and 30 in the TCH arm, including weekly infusions during the chemotherapy phase and once every three week dosing in the monotherapy period [see Clinical Studies (14.1)].
-In BCIRG006, the toxicity profile was similar to that reported in Studies NSABP B31, NCCTG N9831, and HERA with the exception of a low incidence of CHF in the TCH arm.
+In BCIRG006, the toxicity profile was similar to that reported in NSABP B31, NCCTG N9831, and HERA with the exception of a lower incidence of CHF in the TCH arm.
 
 Metastatic Breast Cancer Studies
 
@@ -186,7 +187,7 @@ The safety of trastuzumab was evaluated in patients with previously untreated fo
 Patients were randomized (1:1) to receive trastuzumab in combination with cisplatin and a fluoropyrimidine (FC+H) (n=294) or chemotherapy alone (FC) (n=290) Patients in the trastuzumab plus chemotherapy arm received trastuzumab 8 mg/kg administered on Day 1 (prior to chemotherapy) followed by 6 mg/kg every 21 days until disease progression.
 Cisplatin was administered at 80 mg/m2 on Day 1 and the fluoropyrimidine was administered as either capecitabine 1000 mg/m2 orally twice a day on Days 1 to 14 or 5-fluorouracil 800 mg/m2/day as a continuous intravenous infusion Days 1 through 5.
 Chemotherapy was administered for six 21-day cycles.
-Median duration of traztuzumab treatment was 21 weeks and the median number of trastuzumab infusions administered was eight.
+Median duration of trastuzumab treatment was 21 weeks and the median number of trastuzumab infusions administered was eight.
 
 Table 5: Adverse Reactions (All Grades > 5% or Grade 3-4 > 1% between Arms) in ToGA
 
@@ -227,14 +228,14 @@ Serial measurement of cardiac function (LVEF) was obtained in clinical trials in
 In HERA, the median duration of follow-up was 12.6 months (12.4 months in the observation arm; 12.6 months in the 1-year trastuzumab arm); and in NSABP B31 and NCCTG N9831, 7.9 years in the AC-T arm, 8.3 years in the AC-TH arm.
 Following initiation of trastuzumab therapy, the incidence of new-onset dose-limiting myocardial dysfunction was higher among patients receiving trastuzumab and paclitaxel as compared to those receiving paclitaxel alone in NSABP B31 and NCCTG N9831, and in patients receiving one-year trastuzumab monotherapy compared to observation in HERA (see Table 6, Figures 1 and 2).
 The incidence of new-onset cardiac dysfunction, as measured by LVEF, remained similar when compared to the analysis performed at a median follow-up of 2.0 years in the AC-TH arm.
-This analysis also showed evidence of reversibility of left ventricular dysfunction, with 64.5% of patients who experienced symptomatic CHF in the AC-TH group being asymptomatic at latest follow-up, and 90.3% having full or partial LVEF recovery.
+This analysis showed evidence of reversibility of left ventricular dysfunction, with 64.5% of patients who experienced symptomatic CHF in the AC-TH group being asymptomatic at latest follow-up, and 90.3% having full or partial LVEF recovery.
 
-Table 6: Myocardial Dysfunction (by LVEF) Studies 1, 2, 3 and 4a
+Table 6: Myocardial Dysfunction (by LVEF) in NSABP B31, NCCTG N9831, HERA and BCIRG006a
 
 | Study and Arm | LVEF <50%and Decrease from Baseline |  |  | LVEF Decrease |  |
 | --- | --- | --- | --- | --- | --- |
 |  | LVEF< 50% | ≥ 10%decrease | ≥ 16%decrease | < 20% and ≥ 10% | ≥ 20% |
-| Studies 1 & 2b,c |  |  |  |  |  |
+| NSABP B31 & NCCTGb,c |  |  |  |  |  |
 | AC → TH(n = 1856) | 23.1%(428) | 18.5%(344) | 11.2%(208) | 37.9%(703) | 8.9%(166) |
 | AC → T(n = 1170) | 11.7%(137) | 7.0%(82) | 3.0%(35) | 22.1%(259) | 3.4%(40) |
 | HERAd |  |  |  |  |  |
@@ -245,7 +246,7 @@ Table 6: Myocardial Dysfunction (by LVEF) Studies 1, 2, 3 and 4a
 | AC → TH(n = 1068) | 17%(182) | 13.3%(142) | 9.8%(105) | 44.3%(473) | 13.2%(141) |
 | AC → T(n = 1050) | 9.5%(100) | 6.6%(69) | 3.3%(35) | 34%(357) | 5.5%(58) |
 
-a For Studies 1, 2 and 3, events are counted from the beginning of trastuzumab treatment.
+a For NSABP B31, NCCTG N9831, and HERA, events are counted from the beginning of trastuzumab treatment.
 For BCIRG006, events are counted from the date of randomization.
 
 b NSABP B31 and NCCTG N9831 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC → T) or paclitaxel plus trastuzumab (AC → TH).
@@ -258,32 +259,26 @@ e BCIRG006regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC �
 
 Figure 1
 
-NSABP B31 and NCCTG N9831: Cumulative Incidence of Time to First LVEF
-
-Decline of ≥ 10 Percentage Points from Baseline and toBelow 50% with Death as a Competing Risk Event
+NSABP B31 and NCCTG N9831: Cumulative Incidence of Time to First LVEF Decline of ≥ 10 Percentage Points from Baseline and toBelow 50% with Death as a Competing Risk Event
 
 Time 0 is initiation of paclitaxel or trastuzumab + paclitaxel therapy.
 
 Figure 2
 
-HERA: Cumulative Incidence of Time to First LVEF
-
-Decline of ≥ 10 Percentage Points from Baseline and to Below 50% with Death as a Competing Risk Event
+HERA: Cumulative Incidence of Time to First LVEF Decline of ≥ 10 Percentage Points from Baseline and to Below 50% with Death as a Competing Risk Event
 
 Time 0 is the date of randomization.
 
 Figure 3
 
-BCIRG006: Cumulative Incidence of Time to First LVEF
-
-Decline of ≥ 10 Percentage Points from Baseline and to Below 50% with Death as a Competing Risk Event
+BCIRG006: Cumulative Incidence of Time to First LVEF Decline of ≥ 10 Percentage Points from Baseline and to Below 50% with Death as a Competing Risk Event
 
 Time 0 is the date of randomization.
 
-The incidence of treatment emergent congestive heart failure among patients in the metastatic breast cancer trials was classified for severity using the New York Heart Association classification system (I−IV, where IV is the most severe level of cardiac failure) (see Table 2).
+The incidence of congestive heart failure among patients in the metastatic breast cancer trials was classified for severity using the New York Heart Association classification system (I−IV, where IV is the most severe level of cardiac failure) (see Table 2).
 In the metastatic breast cancer trials, the probability of cardiac dysfunction was highest in patients who received trastuzumab concurrently with anthracyclines.
 
-In ToGA, 5.0% of patients in the trastuzumab plus chemotherapy arm compared to 1.1% of patients in the chemotherapy alone arm had LVEF value below 50% with a ≥ 10% absolute decrease in LVEF from pretreatment values.
+In ToGA, 5% of patients in the trastuzumab plus chemotherapy arm compared to 1.1% of patients in the chemotherapy alone arm had LVEF value below 50% with a ≥ 10% absolute decrease in LVEF from pretreatment values.
 
 Infusion Reactions
 
@@ -359,7 +354,7 @@ Complications included volume overload and congestive heart failure.
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of trastuzumab.
+The following adverse reactions have been identified during post-approval use of trastuzumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Infusion reaction [see Warnings and Precautions (5.2)]

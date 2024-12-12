@@ -9,9 +9,9 @@ There is a 4 to 6 fold increase in the incidence of symptomatic myocardial dysfu
 The highest absolute incidence occurs when a trastuzumab product is administered with an anthracycline.
 
 Withhold Ogivri for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.5)].
-The safety of continuation or resumption of Ogivri in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
+The safety of continuation or resumption of trastuzumab products in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
 
-Patients who receive anthracycline after stopping Ogivri may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Patients who receive anthracycline after stopping trastuzumab products may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ### Cardiac Monitoring
 
@@ -20,7 +20,7 @@ The following schedule is recommended:
 
 - Baseline LVEF measurement immediately prior to initiation of Ogivri
 - LVEF measurements every 3 months during and upon completion of Ogivri
-- Repeat LVEF measurement at 4 week intervals if Ogivri is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.4)]
+- Repeat LVEF measurement at 4 week intervals if Ogivri is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.5)]
 - LVEF measurements every 6 months for at least 2 years following completion of Ogivri as a component of adjuvant therapy.
 
 In NSABP B31, 15% (158/1031) of patients discontinued trastuzumab due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH (anthracycline, cyclophosphamide, paclitaxel, and trastuzumab) arm.
@@ -29,8 +29,8 @@ In BCIRG006, a total of 2.9% (31/1056) of patients in the TCH (docetaxel, carbop
 
 Among 64 patients receiving adjuvant chemotherapy (NSABP B31 and NCCTG N9831) who developed congestive heart failure, one patient died of cardiomyopathy, one patient died suddenly without documented etiology and 33 patients were receiving cardiac medication at last follow-up.
 Approximately 24% of the surviving patients had recovery to a normal LVEF (defined as ≥ 50%) and no symptoms on continuing medical management at the time of last follow-up.
-Incidence of congestive heart failure is presented in Table 1.
-The safety of continuation or resumption of Ogivri in patients with trastuzumab -induced left ventricular cardiac dysfunction has not been studied.
+Incidence of congestive heart failure (CHF) is presented in Table 1.
+The safety of continuation or resumption of trastuzumab products in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
 
 Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 
@@ -40,7 +40,7 @@ Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 | NSABPB31 & NCCTG N9831a | ACb → Paclitaxel + Trastuzumab | 3.2% (64/2000)c | 1.3% (21/1655) |
 | HERAd | Chemotherapy →Trastuzumab | 2% (30/1678) | 0.3% (5/1708) |
 | BCIRG006 | ACb → Docetaxel + Trastuzumab | 2% (20/1068) | 0.3% (3/1050) |
-| BCIRG006 | Docetaxel + Carbo + Trastuzumab | 0.4% (4/1056) | 0.3% (3/1050) |
+| BCIRG006 | Docetaxel + Carboplatin + Trastuzumab | 0.4% (4/1056) | 0.3% (3/1050) |
 
 a Median follow-up duration for NSABP B31 & NCCTG N9831 combined was 8.3 years in the AC → paclitaxel + trastuzumab arm.
 

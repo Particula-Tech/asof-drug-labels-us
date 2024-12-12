@@ -11,7 +11,7 @@ Discontinue Ogivri treatment in patients receiving adjuvant therapy and withhold
 Infusion Reactions; Pulmonary Toxicity
 
 Administration of trastuzumab products can result in serious and fatal infusion reactions and pulmonary toxicity.
-Symptoms usually occur during or within 24 hours of Ogivri administration..
+Symptoms usually occur during or within 24 hours of administration of trastuzumab products.
 Interrupt Ogivri infusion for dyspnea or clinically significant hypotension.
 Monitor patients until symptoms completely resolve.
 Discontinue Ogivri for anaphylaxis, angioedema, interstitial pneumonitis, or acute respiratory distress syndrome [see Warnings and Precautions (5.2, 5.4)].

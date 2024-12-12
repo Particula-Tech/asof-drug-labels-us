@@ -12,19 +12,19 @@ Patients with a history of active cardiac disease based on symptoms, abnormal el
 
 Patients were randomized (1:1) to receive doxorubicin and cyclophosphamide followed by paclitaxel (AC → paclitaxel) alone or paclitaxel plus trastuzumab (AC → paclitaxel + trastuzumab).
 In both trials, patients received four 21-day cycles of doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2.
-Paclitaxel was administered either weekly (80 mg/m2) or every 3 eeks (175 mg/m2) for a total of 12 weeks in NSABP B31; paclitaxel was administered only by the weekly schedule in NCCTG N9831.
+Paclitaxel was administered either weekly (80 mg/m2) or every 3 weeks (175 mg/m2) for a total of 12 weeks in NSABP B31; paclitaxel was administered only by the weekly schedule in NCCTG N9831.
 Trastuzumab was administered at 4 mg/kg on the day of initiation of paclitaxel and then at a dose of 2 mg/kg weekly for a total of 52 weeks.
 Trastuzumab treatment was permanently discontinued in patients who developed congestive heart failure, or persistent/recurrent LVEF decline [see Dosage and Administration (2.5)].
 Radiation therapy, if administered, was initiated after the completion of chemotherapy.
 Patients with ER+ and/or PR+ tumors received hormonal therapy.
 The major efficacy outcome measure of the combined efficacy analysis was Disease-Free Survival (DFS), defined as the time from randomization to recurrence, occurrence of contralateral breast cancer, other second primary cancer, or death.
-An additional efficacy outcome measure was was overall survival (OS).
+An additional efficacy outcome measure was overall survival (OS).
 
-A total of 3752 patients were included in the joint efficacy analysis of the primary endpoint of DFS following a median follow-up of 2.0 years in the AC → paclitaxel + trastuzumab arm.
+A total of 3752 patients were included in the joint efficacy analysis of DFS following a median follow-up of 2.0 years in the AC → paclitaxel + trastuzumab arm.
 The pre-planned final OS analysis from the joint analysis included 4063 patients and was performed when 707 deaths had occurred after a median follow-up of 8.3 years in the AC → paclitaxel + trastuzumab arm.
 The data from both arms in NSABP B31 and two of the three study arms in NCCTG N9831 were pooled for efficacy analyses.
 
-The patients included in the primary DFS analysis had a median age of 49 years (range, 22 to 80 years; 6% > 65 years), 84% were white, 7% black, 4% Hispanic, and 4% Asian/Pacific Islander.
+The patients included in the DFS analysis had a median age of 49 years (range, 22 to 80 years; 6% > 65 years), 84% were white, 7% black, 4% Hispanic, and 4% Asian/Pacific Islander.
 Disease characteristics included 90% infiltrating ductal histology, 38% T1, 91% nodal involvement, 27% intermediate and 66% high grade pathology, and 53% ER+ and/or PR+ tumors.
 
 ### HERA
@@ -39,7 +39,7 @@ Patients with ER+ and/or PgR+ disease received systemic adjuvant hormonal therap
 Trastuzumab was administered with an initial dose of 8 mg/kg followed by subsequent doses of 6 mg/kg once every three weeks.
 The major efficacy outcome measure was Disease-Free Survival (DFS), defined as in NSABP B31 and NCCTG N9831.
 
-HERA was designed to compare one and two years of three-week trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
+HERA was designed to compare one and two years of once every three week trastuzumab treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
 A protocol specified interim efficacy analysis comparing one-year trastuzumab treatment to observation was performed at a median follow-up duration of 12.6 months in the trastuzumab arm.
 
 Among the 3386 patients randomized to the observation (n = 1693) and trastuzumab one-year (n = 1693) treatment arms, the median age was 49 years (range 21 to 80), 83% were White, and 13% were Asian.
@@ -62,9 +62,9 @@ In the TCH arm, docetaxel 75 mg/m2 and carboplatin (at a target AUC of 6 mg/mL/m
 Trastuzumab was administered weekly (initial dose of 4 mg/kg followed by weekly dose of 2 mg/kg) concurrently with either T or TC, and then every 3 weeks (6 mg/kg) as monotherapy for a total of 52 weeks.
 Radiation therapy, if administered, was initiated after completion of chemotherapy.
 Patients with ER+ and/or PR+ tumors received hormonal therapy.
-Disease-Free Survival (DFS) was the main outcome measure.
+Disease-Free Survival (DFS) was the major efficacy outcome measure.
 
-Among the 3222 patients randomized, the median age was 49 (range 22 to 74 years; 6% ≥ 65 years).
+Among 3222 patients, the median age was 49 (range 22 to 74 years; 6% ≥ 65 years).
 Disease characteristics included 54% ER+ and/or PR+ and 71% node positive.
 Prior to randomization, all patients underwent primary surgery for breast cancer.
 
@@ -117,7 +117,7 @@ h NS = non-significant.
 
 i BCIRG006 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC → T) or docetaxel plus trastuzumab (AC → TH); docetaxel and carboplatin plus trastuzumab (TCH).
 
-j two-sided alpha level of 0.025 for each comparison.
+j A two-sided alpha level of 0.025 for each comparison.
 
 Figure 4
 
@@ -125,19 +125,19 @@ Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast 
 
 Figure 5
 
-Duration of Overall Survival in Patients with Adjuvant Treatment of Breast Cancer (NSABP B31 and NCCTG N9831)
+Overall Survival in Patients with Adjuvant Treatment of Breast Cancer (NSABP B31 and NCCTG N9831)
 
 Figure 6
 
-Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (BCIRG006)
+Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (BCIRG006)
 
-Exploratory analyses of DFS as a function of HER2 overexpression or gene amplification were conducted for patients in Studies 2 and 3, where central laboratory testing data were available.
+Exploratory analyses of DFS as a function of HER2 overexpression or gene amplification were conducted for patients in NCCTG N9831 and HERA, where central laboratory testing data were available.
 The results are shown in Table 10.
 The number of events in NCCTG N9831 was small with the exception of the IHC 3+/FISH+ subgroup, which constituted 81% of those with data.
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
 The number of events in HERA was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH +/IHC unknown subgroups.
 
-Table 10:DFS in NCCTG N9831 and HERA for Patients with HER2 Overexpression or Amplification
+Table 10: DFS in NCCTG N9831 and HERA for Patients with HER2 Overexpression or Amplification
 
 |  | NCCTG N9831 |  | HERAc |  |
 | --- | --- | --- | --- | --- |
@@ -170,8 +170,8 @@ Patients were randomized to receive chemotherapy alone or in combination with tr
 For those who had received prior anthracycline therapy in the adjuvant setting, chemotherapy consisted of paclitaxel (175 mg/m2 over 3 hours every 21 days for at least six cycles); for all other patients, chemotherapy consisted of anthracycline plus cyclophosphamide (AC: doxorubicin 60 mg/m2 or epirubicin 75 mg/m2 plus 600 mg/m2 cyclophosphamide every 21 days for six cycles).
 Sixty-five percent of patients randomized to receive chemotherapy alone in this study received trastuzumab at the time of disease progression as part of a separate extension study.
 
-Based upon the determination by an independent response evaluation committee the patients randomized to trastuzumab and chemotherapy experienced a significantly longer median time to disease progression, a higher overall response rate (ORR), and a longer median duration of response, as compared with patients randomized to chemotherapy alone.
-Patients randomized to trastuzumab and chemotherapy also had a longer median survival (see Table 11).
+Based upon the determination by an independent Response Evaluation Committee the patients randomized to trastuzumab and chemotherapy experienced a significantly longer median time to disease progression (TTP), a higher overall response rate (ORR), and a longer median duration of response (DoR), as compared with patients randomized to chemotherapy alone.
+Patients randomized to trastuzumab and chemotherapy also had a longer median overall survival (OS) (see Table 11).
 
 These treatment effects were observed both in patients who received trastuzumab plus paclitaxel and in those who received trastuzumab plus AC; however the magnitude of the effects was greater in the paclitaxel subgroup.
 
@@ -179,11 +179,11 @@ Table 11
 
 H0648g: Efficacy Results inFirst-Line Treatment for Metastatic Breast Cancer
 
-|  | Combined Results |  | Paclitaxel Subgroup |  | AC Subgroup |  |
+|  | Combined Results |  | Paclitaxel Subgroup |  | ACa Subgroup |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | trastuzumab +All Chemo-therapy(n = 235) | All Chemo-therapy(n = 234) | trastuzumab +Paclitaxel(n = 92) | Paclitaxel(n = 96) | trastuzumab +ACa(n = 143) | AC(n = 138) |
+|  | trastuzumab +All Chemo-therapy(n = 235) | All Chemo-therapy(n = 234) | trastuzumab +Paclitaxel(n = 92) | Paclitaxel(n = 96) | trastuzumab +ACa(n = 143) | ACa(n = 138) |
 | Time to Disease Progression (TTP) |  |  |  |  |  |  |
-| MedianTTP(mos)b,c | 7.2 | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |
+| Median(months)b,c | 7.2 | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |
 | 95% CI | 7, 8 | 4, 5 | 5, 10 | 2, 4 | 7, 9 | 5, 7 |
 | p-valued | < 0.0001 |  | < 0.0001 |  | 0.002 |  |
 | Overall Response Rate (ORR)b |  |  |  |  |  |  |
@@ -281,7 +281,7 @@ An exploratory analysis of OS in patients based on HER2 gene amplification (FISH
 
 Table 14
 
-Exploratory analyses by HER2 Status Using Updated Overall survival Results
+Exploratory Analyses by HER2 Status Using Updated Overall survival Results
 
 |  | FC(N = 296)a |  | FC + H(N = 298)b |
 | --- | --- | --- | --- |

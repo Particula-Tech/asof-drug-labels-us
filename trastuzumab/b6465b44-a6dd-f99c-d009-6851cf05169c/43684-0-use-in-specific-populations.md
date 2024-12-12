@@ -5,11 +5,11 @@
 ### Risk Summary
 
 Trastuzumab products can cause fetal harm when administered to a pregnant woman.
-In post-marketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death (see Data).
+In post-marketing reports and published literature, use of trastuzumab products during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Data].
 Apprise the patient of the potential risks to a fetus.
-There are clinical considerations if a trastuzumab product is used in a pregnant woman or if a patient becomes pregnant within 7 months following the last dose of a trastuzumab product (see Clinical Considerations).
+There are clinical considerations if a trastuzumab product is used in a pregnant woman or if a patient becomes pregnant within 7 months following the last dose of a trastuzumab product [see Clinical Considerations].
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 ### Clinical Considerations
@@ -17,20 +17,21 @@ In the U.S. general population, the estimated background risk of major birth def
 #### Fetal/Neonatal Adverse Reactions
 
 Monitor women who received Ogivri during pregnancy or within 7 months prior to conception for oligohydramnios.
-If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
+If oligohydramnios occurs, perform fetal/neonatal testing that is appropriate for gestational age and consistent with community standards of care.
 
 ### Data
 
 #### Human Data
 
-In post-marketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting in the fetus as pulmonary hypoplasia, skeletal abnormalities and neonatal death.
+In post-marketing reports and published literature, use of trastuzumab products during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence.
+Fetal manifestations includedpulmonary hypoplasia, skeletal abnormalities and neonatal death.
 These case reports described oligohydramnios in pregnant women who received trastuzumab either alone or in combination with chemotherapy.
-In some case reports, amniotic fluid index increased after trastuzumab was stopped.
-In one case, trastuzumab therapy resumed after amniotic index improved, and oligohydramnios recurred.
+In most reported cases, amniotic fluid index increased after trastuzumab was stopped.
+In reported cases where trastuzumab therapy was resumed after amniotic index improved, oligohydramnios recurred.
 
 #### Animal Data
 
-In studies where trastuzumab was administered to pregnant cynomolgus monkeys during the period of organogenesis at doses up to 25 mg/kg given twice weekly (up to 25 times the recommended weekly human dose of 2 mg/kg), trastuzumab crossed the placental barrier during the early (Gestation Days 20 to 50) and late (Gestation Days 120 to 150) phases of gestation.
+In studies where trastuzumab was administered to pregnant Cynomolgus monkeys during the period of organogenesis at doses up to 25 mg/kg given twice weekly (up to 25 times the recommended weekly human dose of 2 mg/kg), trastuzumab crossed the placental barrier during the early (Gestation Days 20 to 50) and late (Gestation Days 120 to 150) phases of gestation.
 The resulting concentrations of trastuzumab in fetal serum and amniotic fluid were approximately 33% and 25%, respectively, of those present in the maternal serum but were not associated with adverse developmental effects.
 
 ## 8.2 Lactation
@@ -45,7 +46,7 @@ This consideration should also take into account the trastuzumab product wash ou
 
 ### Data
 
-In lactating cynomolgus monkeys, trastuzumab was present in breast milk at about 0.3% of maternal serum concentrations after pre-(beginning Gestation Day 120) and post-partum (through Post-partum Day 28) doses of 25 mg/kg administered twice weekly (25 times the recommended weekly human dose of 2 mg/kg of trastuzumab products).
+In lactating Cynomolgus monkeys, trastuzumab was present in breast milk at about 0.3% of maternal serum concentrations after pre-(beginning Gestation Day 120) and post-partum (through Post-partum Day 28) doses of 25 mg/kg administered twice weekly (25 times the recommended weekly human dose of 2 mg/kg of trastuzumab products).
 Infant monkeys with detectable serum levels of trastuzumab did not exhibit any adverse effects on growth or development from birth to 1 month of age.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -63,7 +64,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of trastuzumab products in pediatric patients have not been established.
+The safety and effectiveness of Ogivri in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
