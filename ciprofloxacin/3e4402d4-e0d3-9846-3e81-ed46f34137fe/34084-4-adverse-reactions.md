@@ -164,6 +164,7 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 | Cardiovascular | QT prolongation |
 |  | Torsade de Pointes |
 |  | Vasculitis and ventricular arrhythmia |
+|  | Acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction |
 | Central Nervous System | Hypertonia |
 |  | Myasthenia |
 |  | Exacerbation of myasthenia gravis |

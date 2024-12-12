@@ -72,9 +72,9 @@ Discontinue ciprofloxacin immediately at the first appearance of a skin rash, ja
 ## 5.7 Hypersensitivity Reactions
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving fluoroquinolone therapy, including ciprofloxacin.
-Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
+Some reactions were accompanied by cardiovascular collapse, acute myocardial ischemia with or without myocardial infarction, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Only a few patients had a history of hypersensitivity reactions.
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1)].
+Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.8 Hepatotoxicity
 
