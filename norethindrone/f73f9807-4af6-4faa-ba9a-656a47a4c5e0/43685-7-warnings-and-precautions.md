@@ -46,8 +46,6 @@ Their significance with respect to humans has not been established.
 
 ## Pregnancy
 
-### Category X
-
 Norethindrone acetate is contraindicated during pregnancy as it may cause fetal harm when administered to pregnant women.
 Several reports suggest an association between intrauterine exposure to progestational drugs in the first trimester of pregnancy and congenital abnormalities in male and female fetuses.
 Some progestational drugs induce mild virilization of the external genitalia of female fetuses.

@@ -27,3 +27,5 @@ The following adverse reactions have been observed in women taking progestins:
 - Anaphylactic/anaphylactoid reactions
 - Thrombotic and thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, retinal vascular thrombosis, cerebral thrombosis and embolism)
 - Optic neuritis (which may lead to partial or complete loss of vision)
+
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.

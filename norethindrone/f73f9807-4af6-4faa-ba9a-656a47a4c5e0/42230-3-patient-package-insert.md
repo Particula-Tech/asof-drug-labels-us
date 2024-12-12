@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Norethindrone Acetate Tablets USP
+Norethindrone Acetate (nor eth′ in drone as′ e tate) Tablets, USP
 
 Read this PATIENT INFORMATION before you start taking norethindrone acetate tablets and read what you get each time you refill norethindrone acetate tablets.
 There may be new information.
@@ -50,7 +50,7 @@ Several reports suggest an association between mothers who take these drugs in t
 Although it is not clear that these events were drug related, you should check with your healthcare provider about the risks to your unborn child of any medication taken during pregnancy.
 
 You should avoid using norethindrone acetate tablets during pregnancy.
-If you take norethindrone acetate tablets and later find you were pregnant when you took it, be sure to discuss this with your healthcare provider as soon as possible.
+If you take Norethindrone acetate tablets and later find you were pregnant when you took it, be sure to discuss this with your healthcare provider as soon as possible.
 
 - Abnormal Blood Clotting
 
@@ -126,7 +126,7 @@ What are the ingredients in norethindrone acetate tablets?
 
 Norethindrone acetate tablets contain the following inactive ingredients: anhydrous lactose, magnesium stearate, and microcrystalline cellulose.
 
-TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 10/2015
+B 11/2022
