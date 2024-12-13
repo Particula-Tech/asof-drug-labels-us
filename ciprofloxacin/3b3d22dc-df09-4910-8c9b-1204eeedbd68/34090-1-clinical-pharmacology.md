@@ -38,15 +38,15 @@ Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 | AUC0-24h,ss (μg•h/mL) | 27.4* | 25.4* | 31.6* | 32.9** |
 | Cmax,ss (μg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
-*:AUC0–12h x 2
+* AUC0–12h x 2
 
-**:AUC0-8h x 3
+** AUC0-8h x 3
 
 Food
 
 When ciprofloxacin tablets are given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
-The overall absorption of ciprofloxacin tablets, however, is not substantially affected.
-Avoid concomitant administration of ciprofloxacin tablets with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products.
+The overall absorption of ciprofloxacin, however, is not substantially affected.
+Avoid concomitant administration of ciprofloxacin with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products.
 
 Distribution
 
@@ -106,14 +106,14 @@ Table 14 summarizes pharmacokinetic parameters in pediatric patients aged less t
 
 Table 14: Estimated AUC0–24,ss and Cmax,ss for Intravenous Treatment (1-h infusion) in Pediatric Patients Following a Multiple Dosing Regimen of 10 mg/kg, Three Times Daily
 
-| Age | AUC0-24, ss (mg h/L) | Cmax, ss (mg/L) |
+| Age | AUC0-24,ss (mg h/L) | Cmax,ss (mg/L) |
 | --- | --- | --- |
 | Less than 1 year | 30.9* | 2.8* |
 | 1 to less than 2 years | 27.8* | 3.6* |
 | 2 to less than 6 years | 28.9* | 2.7* |
 | 6 to less than 12 years | 20.4* | 2.0* |
 
-* 3 x AUC0-8, ss
+* 3 x AUC0-8,ss
 
 These values are within the range reported for adults at therapeutic doses.
 Based on population pharmacokinetic analysis of pediatric patients with variousinfections, the predicted mean half-life in children is approximately 4 hours –5 hours, and the bioavailability of the oral suspension is approximately 60%.
@@ -134,23 +134,23 @@ The serum concentrations of ciprofloxacin and metronidazole were not altered whe
 
 Tizanidine
 
-In a pharmacokinetic study, systemic exposure of tizanidine (4 mg single dose) was significantly increased (Cmax 7-fold, AUC 10-fold) when the drug was given concomitantly with ciprofloxacin tablets (500 mg twice a day for 3 days).
-Concomitant administration of tizanidine and ciprofloxacin tablets is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)].
+In a pharmacokinetic study, systemic exposure of tizanidine (4 mg single dose) was significantly increased (Cmax 7-fold, AUC 10-fold) when the drug was given concomitantly with ciprofloxacin (500 mg twice a day for 3 days).
+Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)].
 
 Ropinirole
 
-In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin tablets twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
-Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin tablets [see Warnings and Precautions (5.10)].
+In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.10)].
 
 Clozapine
 
-Following concomitant administration of 250 mg ciprofloxacin tablets with 304 mg clozapine for 7 days, serum concentrations of clozapine and N-desmethylclozapine were increased by 29% and 31%, respectively.
-Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin tablets are advised.
+Following concomitant administration of 250 mg ciprofloxacin with 304 mg clozapine for 7 days, serum concentrations of clozapine and N-desmethylclozapine were increased by 29% and 31%, respectively.
+Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin are advised.
 
 Sildenafil
 
-Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin tablets to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
-Use sildenafil with caution when co-administered with ciprofloxacin tablets due to the expected two-fold increase in the exposure of sildenafil upon co-administration of ciprofloxacin tablets.
+Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
+Use sildenafil with caution when co-administered with ciprofloxacin due to the expected two-fold increase in the exposure of sildenafil upon co-administration of ciprofloxacin.
 
 Duloxetine
 
@@ -158,8 +158,8 @@ In clinical studies it was demonstrated that concomitant use of duloxetine with 
 
 Lidocaine
 
-In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with ciprofloxacin tablets 500 mg twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
-Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with ciprofloxacin tablets and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
+In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with ciprofloxacin 500 mg twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
+Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with ciprofloxacin and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
 
 Metoclopramide
 
@@ -168,7 +168,7 @@ No significant effect was observed on the bioavailability of ciprofloxacin.
 
 Omeprazole
 
-When ciprofloxacin tablets was administered as a single 1000 mg dose concomitantly with omeprazole (40 mg once daily for three days) to 18 healthy volunteers, the mean AUC and Cmax of ciprofloxacin were reduced by 20% and 23%, respectively.
+When ciprofloxacin was administered as a single 1000 mg dose concomitantly with omeprazole (40 mg once daily for three days) to 18 healthy volunteers, the mean AUC and Cmax of ciprofloxacin were reduced by 20% and 23%, respectively.
 The clinical significance of this interaction has not been determined.
 
 ## 12.4 Microbiology

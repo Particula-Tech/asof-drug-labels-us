@@ -42,7 +42,7 @@ Table 8: Medically Important Adverse Reactions That Occurred in less than 1% of 
 | Skin/Hypersensitivity | Anaphylactic Reactions including life-threatening anaphylactic shock Erythema Multiforme/Stevens-Johnson Syndrome Exfoliative Dermatitis Toxic Epidermal Necrolysis Pruritus Urticaria Photosensitivity/Phototoxicity reaction Flushing Fever Angioedema Erythema Nodosum Sweating |
 | Special Senses | Blurred Vision Disturbed Vision (chromatopsia and photopsia) Decreased Visual Acuity Diplopia Tinnitus Hearing Loss Bad Taste |
 
-In randomized, double-blind controlled clinical trials comparing ciprofloxacin tablets [500 mg two times daily (BID)] to cefuroxime axetil (250 mg–500 mg BID) and to clarithromycin (500 mg BID) in patients with respiratory tract infections, ciprofloxacin tablets demonstrated a CNS adverse reaction profile comparable to the control drugs.
+In randomized, double-blind controlled clinical trials comparing ciprofloxacin tablets [500 mg two times daily (BID)] to cefuroxime axetil (250 mg–500 mg BID) and to clarithromycin (500 mg BID) in patients with respiratory tract infections, ciprofloxacin demonstrated a CNS adverse reaction profile comparable to the control drugs.
 
 Pediatric Patients
 
@@ -77,7 +77,7 @@ Table 9: Musculoskeletal Adverse Reactions* as Assessed by the IPSC
 † The study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%.
 At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group.
 
-The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin tablets group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
+The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
 
 In this trial, the overall incidence rates of adverse reactions within 6 weeks of treatment initiation were 41% (138/335) in the ciprofloxacin group versus 31% (109/349) in the comparator group.
 The most frequent adverse reactions were gastrointestinal: 15% (50/335) of ciprofloxacin patients compared to 9% (31/349) of comparator patients.
@@ -88,18 +88,18 @@ Other adverse reactions that occurred in at least 1% of ciprofloxacin patients w
 Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5–17 years).
 Sixty-seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10–21 days.
 Periodic musculoskeletal assessments were conducted by treatment-blinded examiners.
-Patients were followed for an average of 23 days after completing treatment (range 0– 93 days).
+Patients were followed for an average of 23 days after completing treatment (range 0–93 days).
 Musculoskeletal adverse reactions were reported in 22% of the patients in the ciprofloxacin group and 21% in the comparison group.
 Decreased range of motion was reported in 12% of the subjects in the ciprofloxacin group and 16% in the comparison group.
 Arthralgia was reported in 10% of the patients in the ciprofloxacin group and 11% in the comparison group.
 Other adverse reactions were similar in nature and frequency between treatment arms.
-The efficacy of ciprofloxacin tablets for the treatment of acute pulmonary exacerbations in pediatric cystic fibrosis patients has not been established.
+The efficacy of ciprofloxacin for the treatment of acute pulmonary exacerbations in pediatric cystic fibrosis patients has not been established.
 
 In addition to the adverse reactions reported in pediatric patients in clinical trials, it should be expected that adverse reactions reported in adults during clinical trials or postmarketing experience may also occur in pediatric patients.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin tablets.
+The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 10).
 
 Table 10: Postmarketing Reports of Adverse Drug Reactions
@@ -121,12 +121,12 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 ## 6.3 Adverse Laboratory Changes
 
-Changes in laboratory parameters while on ciprofloxacin tablets are listed below:
+Changes in laboratory parameters while on ciprofloxacin are listed below:
 
-Hepatic -Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+Hepatic - Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
-Hematologic-Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
+Hematologic - Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 
-Renal-Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
+Renal - Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 
 Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

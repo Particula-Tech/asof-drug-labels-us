@@ -19,7 +19,7 @@ Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo tes
 - Micronucleus Test (Mice)
 - Dominant Lethal Test (Mice)
 
-Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin tablets at daily oral dose levels up to 250 mg/kg and 750 mg/kg to rats and mice, respectively (approximately 1.7-and 2.5-times the highest recommended therapeutic dose based upon body surface area, respectively).
+Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin at daily oral dose levels up to 250 mg/kg and 750 mg/kg to rats and mice, respectively (approximately 1.7-and 2.5-times the highest recommended therapeutic dose based upon body surface area, respectively).
 
 Results from photo co-carcinogenicity testing indicate that ciprofloxacin does not reduce the time to appearance of UV-induced skin tumors as compared to vehicle control.
 Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin.

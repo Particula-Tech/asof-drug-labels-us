@@ -45,19 +45,19 @@ Intravenous administration of doses up to 20 mg/kg (approximately 0.3 times the 
 In peri-and post-natal studies, rats received ciprofloxacin doses up to 200 mg/kg/day (oral) or up to 30 mg/kg/day (subcutaneous) from GD 16 to 22 days postpartum.
 The 200 mg/kg dose is approximately 1.3-times the maximum recommended clinical oral dose based on body surface area.
 Neither maternal toxicity nor adverse effects on growth and development of the pups were observed, including no sign of arthropathy on the rear leg joints of the pups.
-Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested when administered directly [see Warnings and Precautions (5.13) and Nonclinical Toxicology 13.2].
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested when administered directly [see Warnings and Precautions (5.13) and Nonclinical Toxicology (13.2)].
 
 ## 8.2 Lactation
 
 Risk Summary
 
 Published literature reports that ciprofloxacin is present in human milk following intravenous and oral administration.
-There is no information regarding effects of Ciprofloxacin Tablets on milk production or the breastfed infant.
-Because of the potential risk of serious adverse reactions in breastfed infants, including arthropathy shown in juvenile animal studies [see Use in Specific Populations (8.4), (Clinical Considerations)], for most indications a lactating woman may consider pumping and discarding breast milk during treatment with Ciprofloxacin Tablets and an additional two days (five half-lives) after the last dose.
-Alternatively, advise a woman that breastfeeding is not recommended during treatment with Ciprofloxacin Tablets and for an additional two days (five half-lives) after the last dose.
+There is no information regarding effects of Ciprofloxacin on milk production or the breastfed infant.
+Because of the potential risk of serious adverse reactions in breastfed infants, including arthropathy shown in juvenile animal studies [see Use in Specific Populations (8.4), (Clinical Considerations)], for most indications a lactating woman may consider pumping and discarding breast milk during treatment with Ciprofloxacin and an additional two days (five half-lives) after the last dose.
+Alternatively, advise a woman that breastfeeding is not recommended during treatment with Ciprofloxacin and for an additional two days (five half-lives) after the last dose.
 
-However, for inhalation anthrax (post exposure), during an incident resulting in exposure to anthrax, the risk-benefit assessment of continuing breastfeeding while the mother (and potentially the infant) is (are) on Ciprofloxacin Tablets may be acceptable [see Dosage and Administration (2.2), Pediatric Use (8.4), and Clinical Studies (14.2)].
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ciprofloxacin Tablets and any potential adverse effects on the breastfed child from Ciprofloxacin Tablets or from the underlying maternal condition.
+However, for inhalation anthrax (post exposure), during an incident resulting in exposure to anthrax, the risk-benefit assessment of continuing breastfeeding while the mother (and potentially the infant) is (are) on Ciprofloxacin may be acceptable [see Dosage and Administration (2.2), Pediatric Use (8.4), and Clinical Studies (14.2)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ciprofloxacin and any potential adverse effects on the breastfed child from Ciprofloxacin or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -66,44 +66,44 @@ Advise a woman to monitor the breastfed infant for loose or bloody stools and ca
 
 ## 8.4 Pediatric Use
 
-Although effective in clinical trials, ciprofloxacin tablets are not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
+Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
 Quinolones, including ciprofloxacin tablets, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.13) and Nonclinical Toxicology (13.2)].
 
 Complicated Urinary Tract Infection and Pyelonephritis
 
-Ciprofloxacin tablets are indicated for the treatment of cUTI and pyelonephritis due to Escherichia coli in pediatric patients 1 to 17 years of age.
-Although effective in clinical trials, ciprofloxacin tablets are not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to the controls, including events related to joints and/or surrounding tissues [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+Ciprofloxacin is indicated for the treatment of cUTI and pyelonephritis due to Escherichia coli in pediatric patients 1 to 17 years of age.
+Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to the controls, including events related to joints and/or surrounding tissues [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 
 Inhalational Anthrax (Post-Exposure)
 
-Ciprofloxacin tablets are indicated in pediatric patients from birth to 17 years of age, for inhalational anthrax (post-exposure).
+Ciprofloxacin is indicated in pediatric patients from birth to 17 years of age, for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate [see Dosage and Administration (2.2) and Clinical Studies (14.2)].
 
 Plague
 
-Ciprofloxacin tablets are indicated in pediatric patients from birth to 17 years of age, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
-Efficacy studies of ciprofloxacin tablets could not be conducted in humans with pneumonic plague for feasibility reasons.
+Ciprofloxacin is indicated in pediatric patients from birth to 17 years of age, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
+Efficacy studies of ciprofloxacin could not be conducted in humans with pneumonic plague for feasibility reasons.
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
-The risk-benefit assessment indicates that administration of ciprofloxacin tablets to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.3)].
+The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.3)].
 
 ## 8.5 Geriatric Use
 
-Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin tablets.
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin.
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
-Caution should be used when prescribing ciprofloxacin tablets to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential adverse reaction and advised to discontinue ciprofloxacin tablets and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
+Caution should be used when prescribing ciprofloxacin to elderly patients especially those on corticosteroids.
+Patients should be informed of this potential adverse reaction and advised to discontinue ciprofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
 
 Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
 
-In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin tablets encompassing over 3500 ciprofloxacin-treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
+In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin-treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 No alteration of dosage is necessary for patients greater than 65 years of age with normal renal function.
 However, since some older individuals experience reduced renal function by virtue of their advanced age, care should be taken in dose selection for elderly patients, and renal function monitoring may be useful in these patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using ciprofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].
+Therefore, precaution should be taken when using ciprofloxacin with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].
 
 ## 8.6 Renal Impairment
 

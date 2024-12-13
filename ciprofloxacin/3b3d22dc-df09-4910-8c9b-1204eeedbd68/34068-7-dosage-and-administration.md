@@ -38,7 +38,7 @@ Patients whose therapy is started with ciprofloxacin IV may be switched to cipro
 
 Table 2: Equivalent AUC Dosing Regimens
 
-| Ciprofloxacin Tablets Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
+| Ciprofloxacin Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
 | --- | --- |
 | 250 mg Tablet every 12 hours | 200 mg intravenous every 12 hours |
 | 500 mg Tablet every 12 hours | 400 mg intravenous every 12 hours |
@@ -47,7 +47,7 @@ Table 2: Equivalent AUC Dosing Regimens
 ## 2.2 Dosage in Pediatric Patients
 
 Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
-Ciprofloxacin tablets should be administered as described in Table 3.
+Ciprofloxacin should be administered as described in Table 3.
 
 Table 3: Pediatric Dosage Guidelines
 
@@ -100,18 +100,18 @@ No information is available on dosing adjustments necessary for pediatric patien
 
 With Multivalent Cations
 
-Administer ciprofloxacin tablets at least 2 hours before or 6 hours after magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate; Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution; other highly buffered drugs; or other products containing calcium, iron or zinc.
+Administer ciprofloxacin at least 2 hours before or 6 hours after magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate; Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution; other highly buffered drugs; or other products containing calcium, iron or zinc.
 
 With Dairy Products
 
-Concomitant administration of ciprofloxacin tablets with dairy products (like milk or yogurt) or calcium-fortified juices alone should be avoided since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products.
+Concomitant administration of ciprofloxacin with dairy products (like milk or yogurt) or calcium-fortified juices alone should be avoided since decreased absorption is possible; however, ciprofloxacin may be taken with a meal that contains these products.
 
-Hydration of Patients Receiving Ciprofloxacin Tablets
+Hydration of Patients Receiving Ciprofloxacin
 
-Assure adequate hydration of patients receiving ciprofloxacin tablets to prevent the formation of highly concentrated urine.
+Assure adequate hydration of patients receiving ciprofloxacin to prevent the formation of highly concentrated urine.
 Crystalluria has been reported with quinolones.
 
-Instruct the patient of the appropriate ciprofloxacin tablets administration [see Patient Counseling Information (17)].
+Instruct the patient of the appropriate ciprofloxacin administration [see Patient Counseling Information (17)].
 
 Missed Doses
 
