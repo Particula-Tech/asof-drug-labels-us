@@ -7,7 +7,7 @@ KITABIS PAK (Ki TAH biss Pak)
 Follow the instructions below for using KITABIS PAK which contains tobramycin inhalation solution and the PARI LC PLUS Reusable Nebulizer (PARI LC PLUS).
 If you have any questions, ask your healthcare provider or pharmacist.
 
-Each KITABIS PAK carton (28-day supply) contains 56 tobramycin inhalation solution ampules packed in 14 foil pouches that each contain 4 singleuse tobramycin inhalation solution ampules.
+Each KITABIS PAK carton (28-day supply) contains 56 tobramycin inhalation solution ampules packed in 14 foil pouches that each contain 4 single use tobramycin inhalation solution ampules.
 
 You will need the following supplies (See Figure A):
 
@@ -41,7 +41,7 @@ Step 3: Separate 1 ampule by gently pulling apart starting at the top of the amp
 
 Step 4: Hold the bottom tab on the KITABIS PAK ampule with 1 hand (See Figure F). With your other hand, hold the top of the ampule and twist off the top of the ampule (See Figure F).
 
-- Do notsqueeze the ampule until you are ready to squeeze all of the medicine into the Nebulizer Cup.
+- Do not squeeze the ampule until you are ready to squeeze all of the medicine into the Nebulizer Cup.
 
 Step 5: Hold the Nebulizer Cup and twist off the Nebulizer Insert or Top in a counter-clockwise direction (See Figure G). Set the Top aside on a clean, dry, surface.
 
@@ -94,17 +94,18 @@ How should I store KITABIS PAK?
 Keep KITABIS PAK and all medicines out of the reach of children.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Revised: 4/23
 
-Additional Information
+Revised: 08/2023
 
-PARI LC PLUS® Reusable Nebulizer: 1-800-327-8632 DeVilbiss® Pulmo-Aide® Air Compressor: 1-800-338-1988 KITABIS PAK: 1-844-KITABIS (548-2247)
+Additional InformationPARI LC PLUS® Reusable Nebulizer: 1-800-327-8632 DeVilbiss® Pulmo-Aide® Air Compressor: 1-800-338-1988KITABIS PAK: 1-844-KITABIS (548-2247)
 
-Manufactured by:
+Manufactured by: Woodstock Sterile Solutions, Inc. Woodstock, IL 60098
 
-Catalent Pharma Solutions, LLC Woodstock, IL 60098
+Distributed by:
 
-Distributed by: PARI Respiratory Equipment, Inc. 2412 PARI Way, Midlothian, VA 23112
+PARI Respiratory Equipment, Inc. 2412 PARI Way, Midlothian, VA 23112
 
 850D5601 Rev.
-E 4/2023 © 2013-2023 PulmoFlow, Inc. All rights reserved.
+F 08/23 v5
+
+©2023 PulmoFlow, Inc. All rights reserved.

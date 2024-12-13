@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-KITABIS PAK co-packaged kit (NDC 70644-899-99) is available in cartons containing one reusable PARI LC PLUS nebulizer (Model No.: 022B81-TA) and 14 tobramycin inhalation solution pouches.
+KITABIS PAK co-packaged kit (NDC 24492-850-56) is available in cartons containing one reusable PARI LC PLUS nebulizer (Model No.: 022B81-T) and 14 tobramycin inhalation solution pouches.
 Each pouch contains four 300 mg/5 ml ampules of tobramycin inhalation solution for a total of 56 ampules in each carton.
 Each carton constitutes a 28 day supply.
 

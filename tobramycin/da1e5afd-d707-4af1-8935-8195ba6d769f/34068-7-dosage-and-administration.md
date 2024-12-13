@@ -9,7 +9,7 @@
 
 ## 2.2 Administration of Tobramycin Inhalation Solution
 
-Each dose of tobramycin inhalation solution is administered by oral inhalation using only the co-packaged PARI LC PLUS Reusable Nebulizer (Model No. 022B81-TA) included in the KITABIS PAK, along with a DeVilbiss Pulmo-Aide air compressor (Model No. 5650D).
+Each dose of tobramycin inhalation solution is administered by oral inhalation using only the co-packaged PARI LC PLUS Reusable Nebulizer (Model No. 022B81-T) included in the KITABIS PAK, along with a DeVilbiss Pulmo-Aide air compressor (Model No. 5650D).
 
 Tobramycin inhalation solution is not for subcutaneous, intravenous or intrathecal administration.
 

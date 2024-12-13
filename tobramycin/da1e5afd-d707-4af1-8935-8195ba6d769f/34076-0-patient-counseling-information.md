@@ -38,11 +38,15 @@ KITABIS PAK: 1-844-KITABIS (548-2247)
 
 Manufactured by:
 
-Catalent Pharma Solutions, LLC Woodstock, IL 60098
+Woodstock Sterile Solutions, Inc.Woodstock, IL 60098
 
-Distributed by: PARI Respiratory Equipment, Inc. 2412 PARI Way, Midlothian, VA 23112
+Distributed by:
+
+PARI Respiratory Equipment, Inc.
+
+2412 PARI Way, Midlothian, VA 23112
 
 850D5601 Rev.
-E 04/2023
+F 08/2023 v5
 
-© 2013-2023 PulmoFlow, Inc. All rights reserved.
+©2023 PulmoFlow, Inc. All rights reserved.
