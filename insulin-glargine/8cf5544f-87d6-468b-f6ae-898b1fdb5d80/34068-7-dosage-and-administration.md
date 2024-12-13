@@ -27,8 +27,6 @@
   Use short-acting, premeal insulin to satisfy the remainder of the daily insulin requirements.
 - Recommended Starting Dosage in Patients with Type 2 Diabetes The recommended starting dosage of SEMGLEE in patients with type 2 diabetes who are not currently treated with insulin is 0.2 units/kg or up to 10 units once daily.
 
-- 
-
 ## 2.4 Switching to SEMGLEE from Other Insulin Therapies
 
 Dosage adjustments are recommended to lower the risk of hypoglycemia when switching patients to SEMGLEE from other insulin therapies [see Warnings and Precautions (5.3)].When switching from:

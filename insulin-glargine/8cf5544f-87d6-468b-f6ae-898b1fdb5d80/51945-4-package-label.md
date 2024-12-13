@@ -1,12 +1,14 @@
 # PRINCIPAL DISPLAY PANEL – 100 units/mL Pen
 
-NDC 83257-012-33
+NDC 83257-012-31
 
 Rx only
 
 Semglee® (insulin glargine-yfgn) injection For Single Patient Use Only
 
 100 units/mL (U-100)
+
+One 3 mL Prefilled Pen
 
 For subcutaneous use only
 
@@ -17,8 +19,6 @@ Do not mix with other insulins
 Use only if solution is clear and colorless with no particles visible
 
 *Needles not included (see top panel)
-
-Five 3 mL Prefilled Pens
 
 Each mL contains 100 units of insulin glargine-yfgn, and inactive ingredients: glycerol (20 mg), metacresol (2.7 mg), zinc chloride (content adjusted to provide 30 mcg zinc ion), and Water for Injection, USP.
 The pH is approximately 4.

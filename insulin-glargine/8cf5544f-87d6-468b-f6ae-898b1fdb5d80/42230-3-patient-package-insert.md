@@ -178,9 +178,9 @@ INSTRUCTIONS FOR USE
 
 SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 units/mL (U-100)
 
-Read these Instructions for Use before you start taking the SEMGLEE pen and each time you get a new SEMGLEE pen.
+Read these Instructions for Use before you start using the SEMGLEE pen and each time you get a new SEMGLEE pen.
 There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment..
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 Do not share your SEMGLEE pen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
@@ -195,13 +195,20 @@ The plunger will only move to the end of the cartridge when 300 units of SEMGLEE
 
 Important Information You Need to Know Before Injecting SEMGLEE:
 
-•Do not use your pen if it is damaged or if you are not sure that it is working properly. • Do not use a syringe to remove SEMGLEE from your pen. • Do not reuse needles.
-If you do, you might get the wrong dose of SEMGLEE and/or increase the chance of getting an infection. • Always perform a safety test (see Step 3). • Always carry a spare pen and spare needles in case they get lost or stop working. • Change (rotate) your injection sites within the area you choose for each dose (see “Places to Inject”)
+- Do not use your pen if it is damaged or if you are not sure that it is working properly.
+- Do not use a syringe to remove SEMGLEE from your pen.
+- Do not reuse needles.
+  If you do, you might get the wrong dose of SEMGLEE or you may increase the chances of getting an infection.
+- Always perform a safety test (see Step 3).
+- Always carry a spare pen and spare needles in case they get lost or stop working.
+- Change (rotate) your injection sites within the area you choose for each dose (see Places to Inject).
 
 Learn to Inject
 
-• Talk with your healthcare provider about how to inject before using your pen. • Ask for help if you have problems handling the pen, for example if you have problems with your sight. • Read all these instructions before using your pen.
-If you do not follow all these instructions, you may get too much or too little insulin.
+- Talk with your healthcare provider about how to inject before using your pen.
+- Ask for help if you have problems handling the pen, for example if you have problems with your sight.
+- Read all these instructions before using your pen.
+  If you do not follow all these instructions, you may get too much or too little insulin.
 
 Need Help?
 
@@ -209,12 +216,18 @@ If you have any questions about your pen or about diabetes, ask your healthcare 
 
 Extra Items You Will Need
 
-• A new sterile needle (seeStep 2). • An alcohol swab. • A puncture-resistant container for used needles and pens.
-(See “Throwing your pen away”)
+- A new sterile needle (see Step 2).
+- An alcohol swab.
+- A puncture-resistant container for used needles and pens.
+  (See Throwing your pen away)
 
 Places to inject
 
-• Inject your insulin exactly as your healthcare provider has shown you. • Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen). • Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites. • Do not inject where the skin has pits, is thickened, or has lumps. • Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
+- Inject your insulin exactly as your healthcare provider has shown you.
+- Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
+- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
 
@@ -275,8 +288,14 @@ When insulin comes out of the needle tip, your pen is working correctly.
 If no insulin appears:
 
 • You may need to repeat this step up to 3 times before seeing insulin. • If no insulin comes out after the third time, the needle may be blocked.
-If this happens: — change the needle (see Step 6 and Step 2), — then repeat the safety test (Step 3). • Do not use your pen if there is still no insulin coming out of the needle tip.
-Use a new pen. • Do not use a syringe to remove insulin from your pen.
+If this happens:
+
+- change the needle (see Step 6 and Step 2),
+- then repeat the safety test (Step 3).
+
+- Do not use your pen if there is still no insulin coming out of the needle tip.
+  Use a new pen.
+- Do not use a syringe to remove insulin from your pen.
 
 If you see air bubbles:
 
@@ -288,11 +307,13 @@ Step 4: Select the dose
 Do not select a dose or press the injection button without a needle attached.
 This may damage your pen.
 
-4A Make sure a needle is attached and the dose is set to “0” (See Figure l).
+4AMake sure a needle is attached and the dose is set to “0” (See Figure l).
 
-4B Turn the dose selector until the dose pointer lines up with your dose(See Figure m).
+4B Turn the dose selector until the dose pointer lines up with your dose (See Figure m).
 
-• If you turn past your dose, you can turn back down. • If there are not enough units left in your pen for your dose, the dose selector will stop at the number of units left. • If you cannot select your full prescribed dose, use a new pen or inject the remaining units and use a new pen to complete your dose.
+- If you turn past your dose, you can turn back down.
+- If there are not enough units left in your pen for your dose, the dose selector will stop at the number of units left.
+- If you cannot select your full prescribed dose, use a new pen or inject the remaining units and use a new pen to complete your dose.
 
 How to read the dose window
 
@@ -302,41 +323,44 @@ Odd numbers are shown as a line between even numbers (See Figure o).
 
 Units of SEMGLEE in your pen:
 
-• Your pen contains a total of 300 units of SEMGLEE.
-You can select doses from 1 to 80 units in steps of 1 unit.
-Each pen contains more than 1 dose. • You can see roughly how many units of insulin are left by looking at where the plunger is on the insulin scale.
+- Your pen contains a total of 300 units of SEMGLEE.
+  You can select doses from 1 to 80 units in steps of 1 unit.
+  Each pen contains more than 1 dose.
+- You can see roughly how many units of insulin are left by looking at where the plunger is on the insulin scale.
 
-Step 5: Injecting Your SEMGLEE Dose.
+Step 5: Injecting Your SEMGLEE Dose
 
 If you find it hard to press the injection button in, do not force it as this may break your pen.
 See the section below for help.
 
-5A Choose a place to inject as shown in the section “Places to Inject”
-
-5B Push the needle into your skin as shown by your healthcare provider (See Figure p).
+- Choose a place to inject as shown in the section Places to Inject
+- Push the needle into your skin as shown by your healthcare provider (See Figure p).
 
 Do not touch the injection button yet.
 
 5C Place your thumb on the injection button.
-Then press all the way in and hold (See Figure q).
+Slowly press all the way in and hold (see Figure q). Do not press hard.
 
 • Do not press at an angle.
 Your thumb could block the dose selector from turning.
 
-5D Keep the injection button held in and when you see “0” in the dose window, slowly count to 10 (See Figure r).
+5D Keep the injection button held in and when you see 0 in the dose window, slowly count to 10 (See Figure r).
 
-• This will make sure you get your full dose.
+- This will make sure you get your full dose.
 
 5E After holding and slowly counting to 10, release the injection button.
 Then remove the needle from your skin.
 
 If you find it hard to press the button in:
 
-• Change the needle (see Step 6 and Step 2) then do a safety test (see Step 3). • If you still find it hard to press in, get a new pen. • Do not use a syringe to remove insulin from your pen.
+- Change the needle (see Step 6 and Step 2) then do a safety test (see Step 3).
+- If you still find it hard to press in, get a new pen.
+- Do not use a syringe to remove insulin from your pen.
 
 Step 6: Remove the needle
 
-• Take care when handling needles to prevent needle-stick injury and cross-infection. • Do not put the inner needle cap back on.
+- Take care when handling needles to prevent needle-stick injury and cross-infection.
+- Do not put the inner needle cap back on.
 
 6A Grip the widest part of the outer needle cap.
 Keep the needle straight and guide it into the outer needle cap.
@@ -347,7 +371,7 @@ Then push firmly on (See Figure s).
 6B Grip and squeeze the widest part of the outer needle cap.
 Turn your pen several times with your other hand to remove the needle (See Figure t).
 
-• Try again if the needle does not come off the first time.
+- Try again if the needle does not come off the first time.
 
 6C Throw away the used needle in a puncture-resistant container (see “Throwing your pen away” at the end of this Instructions for Use).
 (See Figure u).
@@ -382,14 +406,14 @@ This may damage it.
 Throwing your Pen away
 
 • The used SEMGLEE pen may be thrown away in your household trash after you have removed the needle. • Put the used needle in an FDA-cleared sharps disposal container right away after use.
-Do not throw away (dispose of) the used needles in your household trash. • If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: — made of a heavy-duty plastic, — can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, — upright and stable duringuse,leak-resistant, and properly labeled to warn of hazardous waste inside the container. — leak-resistant, and — properly labeled to warn of hazardous waste inside the container. • When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+Do not throw away (dispose of) the used needles in your household trash. • If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: — made of a heavy-duty plastic, — can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, — upright and stable during use, — leak-resistant, and — properly labeled to warn of hazardous waste inside the container. • When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
 There may be state or local laws about how you should throw away used needles and syringes.
 For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. • Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
 Do not recycle your used sharps disposal container.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2023
+Revised: 11/2024
 
 BD is a registered trademark of Becton, Dickinson, and Company.
 
