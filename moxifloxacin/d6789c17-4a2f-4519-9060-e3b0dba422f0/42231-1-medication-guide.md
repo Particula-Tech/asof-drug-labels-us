@@ -1,8 +1,6 @@
 # MEDICATION GUIDE
 
-Moxifloxacin Tablets, USP (mox'' i flox' a sin)
-
-for oral use
+Moxifloxacin (mox'' i flox' a sin) Tablets, USP for oral use
 
 Rx only
 
@@ -292,11 +290,9 @@ What are the ingredients in moxifloxacin tablets?
 - Active ingredient: moxifloxacin hydrochloride
 - Inactive ingredients: hypromellose, iron oxide red, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
-
-All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
 For more information call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 06/2020
+Revised: 11/2024
