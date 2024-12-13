@@ -10,7 +10,7 @@ No fetal toxicity or malformations were observed in pregnant rats and cynomolgus
 In rats administered intravenous meropenem in late pregnancy and during the lactation period, there were no adverse effects on offspring at doses equivalent to approximately 3.2 times the maximum recommended human dose based on body surface area comparison [see Data].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4 % and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 ### Data
 
@@ -59,8 +59,8 @@ A pharmacokinetic study with meropenem for injection in elderly patients has sho
 Each 500 mg of Meropenem for Injection and Sodium Chloride Injection delivers 245.1 mg (10.7 mEq) of sodium and each 1 gram of Meropenem for Injection and Sodium Chloride Injection delivers 290.2 mg (12.6 mEq) of sodium.
 At the usual recommended doses of 500 mg or 1000 mg every 8 hours, patients would receive between 735 mg/day and 870 mg/day (32 mEq and 38 mEq) of sodium.
 The geriatric population may respond with a blunted natriuresis to salt loading.
-This may be clinically important with regard to such diseases as congestive heart failure [see Contraindications (4) and Warnings and Precautions (5.10)].
+This may be clinically important with regard to such diseases as congestive heart failure [see Contraindications (4) and Warnings and Precautions (5.11)].
 
 ## 8.6 Patients with Renal Impairment
 
-Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].
+Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].
