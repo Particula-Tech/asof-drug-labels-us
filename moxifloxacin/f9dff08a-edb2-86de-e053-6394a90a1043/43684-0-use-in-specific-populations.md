@@ -13,7 +13,7 @@ Data
 
 Animal Data
 
-Embryo-fetal studies were conducted in pregnant rats administered with 20, 100, or 500 mg/kg/day moxifloxacin by oral gavage on Gestation Days 6 to 1 7, to target the period of organogenesis.
+Embryo-fetal studies were conducted in pregnant rats administered with 20, 100, or 500 mg/kg/day moxifloxacin by oral gavage on Gestation Days 6 to 17, to target the period of organogenesis.
 Decreased fetal body weight and delayed skeletal development were observed at 500 mg/kg/day [277 times the human area under the curve (AUC) at the recommended human ophthalmic dose].
 The No-Observed-Adverse-Effect-Level (NOAEL) for developmental toxicity was 100 mg/kg/day (30 times the human AUC at the recommended human ophthalmic dose).
 
@@ -22,7 +22,7 @@ Abortions, increased incidence of fetal malformations, delayed fetal skeletal os
 The NOAEL for developmental toxicity was 6.5 mg/kg/day (246 times the human AUC at the recommended human ophthalmic dose).
 
 Pregnant cynomolgus monkeys were administered moxifloxacin at doses of 10, 30, or 100 mg/kg/day by intragastric intubation between Gestation Days 20 and 50, targeting the period of organogenesis.
-At the maternal toxic doses of 2: 30 mg/kg/day, increased abortion, vomiting, and diarrhea were observed.
+At the maternal toxic doses of ≥ 30 mg/kg/day, increased abortion, vomiting, and diarrhea were observed.
 Smaller fetuses/reduced fetal body weights were observed at 100 mg/kg/day (2864 times the human AUC at the recommended human ophthalmic dose).
 The NOAEL for fetal toxicity was 10 mg/kg/day (174 times the human AUC at the recommended human ophthalmic dose).
 
