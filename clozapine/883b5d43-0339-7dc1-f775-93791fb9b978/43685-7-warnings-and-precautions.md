@@ -30,11 +30,11 @@ Clozapine Tablets Treatment Recommendations Based on Absolute Neutrophil Count (
 
 | ANC Level | Clozapine Tablets Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal range(≥ 1500/μL) | 1.Initiate treatment2.If treatment interrupted: < 30 days, continue monitoring as before ≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| Normal range (≥ 1500/μL) | •Initiate treatment•If treatment interrupted: -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 | •Discontinuation for reasons other than neutropenia | •See Section 2.4 |  |
-| Mild Neutropenia(1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Continue treatment | •Three times weekly until ANC ≥ 1500/μL•Once ANC ≥ 1500/μL, return to patient’s last “Normal Range” ANC monitoring intervalIf clinically appropriate |
-| Moderate Neutropenia(500 to 999/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine induced neutropenia•Resume treatment once ANC ≥ 1000/µL | •Daily until ANC ≥ 1000/µL, then•Three times weekly until ANC ≥ 1500/µL •Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
-| Severe Neutropenia(less than 500/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 1000/µL, then •Three times weekly until ANC ≥ 1500/µL •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1500/µL |
+| Mild Neutropenia (1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Continue treatment | •Three times weekly until ANC ≥ 1500/μL•Once ANC ≥ 1500/μL, return to patient’s last “Normal Range” ANC monitoring intervalIf clinically appropriate |
+| Moderate Neutropenia (500 to 999/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine induced neutropenia•Resume treatment once ANC ≥ 1000/µL | •Daily until ANC ≥ 1000/µL, then•Three times weekly until ANC ≥ 1500/µL•Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
+| Severe Neutropenia (less than 500/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 1000/µL, then •Three times weekly until ANC ≥ 1500/µL•If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1500/µL |
 
 ### Clozapine Tablets Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
@@ -54,10 +54,10 @@ Patients with Benign Ethnic Neutropenia (BEN); Clozapine Tablets Treatment Recom
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range(Established ANC baseline ≥ 1000/µL) | 1.Obtain at least two baseline ANC levels before initiating treatment2.If treatment interrupted < 30 days, continue monitoring as before ≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| Normal BEN Range (Established ANC baseline ≥ 1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 | •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |  |
-| BENNeutropenia500 to 999/µLConfirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.If clinically appropriate |
-| BEN Severe Neutropenialess than 500/µL | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 500/µL, then•Three times weekly until ANC ≥ patient’s baseline •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1000/µL or at patient’s baseline |
+| BEN Neutropenia 500 to 999/µLConfirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.If clinically appropriate |
+| BEN Severe Neutropenia less than 500/µL | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 500/µL, then•Three times weekly until ANC ≥ patient’s baseline •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1000/µL or at patient’s baseline |
 
 ### General Guidelines for Management of All Patients with Fever or with Neutropenia
 
@@ -107,7 +107,6 @@ The total daily dose can be increased in increments of 25 mg to 50 mg per day, i
 Subsequently, the dose can be increased weekly or twice weekly, in increments of up to 100 mg.
 The maximum dose is 900 mg per day.
 Use cautious titration and a divided dosage schedule to minimize the risk of serious cardiovascular reactions [see Dosage and Administration (2.2)].
-
 Consider reducing the dose if hypotension occurs.
 When restarting clozapine tablets in patients who have had even a brief interruption in treatment with clozapine tablets, the dosage must be reduced.
 This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Dosage and Administration (2.5)].
@@ -159,7 +158,7 @@ Clozapine tablets are not approved for the treatment of patients with dementia-r
 
 ## 5.8 Gastrointestinal Hypomotility with Severe Complications
 
-Severe gastrointestinal adverse reactions have occurred with the use of clozapine tablets, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
+Severe gastrointestinal adverse reactions have occurred with the use of clozapine tablets, primarily due to their potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
 Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
@@ -265,11 +264,11 @@ The clozapine tablets dose range was 100 mg to 900 mg daily; the maximum chlorpr
 Table 5.
 Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in Adult Subjects with Schizophrenia
 
-| Treatment Arm | Baseline total cholesterolconcentration (mg/dL) | Change from baselinemg/dL (%) |
+| Treatment Arm | Baseline total cholesterol concentration (mg/dL) | Change from baseline mg/dL (%) |
 | --- | --- | --- |
 | Clozapine Tablets (N = 334) | 184 | +13 (7) |
 | Chlorpromazine (N = 185) | 182 | +15 (8) |
-|  | Baseline triglycerideconcentration (mg/dL) | Change from baselinemg/dL (%) |
+|  | Baseline triglyceride concentration (mg/dL) | Change from baseline mg/dL (%) |
 | Clozapine Tablets (N = 6) | 130 | +71 (54) |
 | Chlorpromazine (N = 7) | 110 | +39 (35) |
 
@@ -301,7 +300,7 @@ The median duration of exposure was 609, 728, and 42 days, in the clozapine tabl
 Table 7.
 Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Subjects with Schizophrenia
 
-| Metabolic parameter | Exposure duration | Clozapine Tablets(N = 669) |  | Olanzapine(N = 442) |  | Chlorpromazine(N = 155) |  |
+| Metabolic parameter | Exposure duration | Clozapine Tablets (N = 669) |  | Olanzapine (N = 442) |  | Chlorpromazine (N = 155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | Mean | n | Mean | n | Mean |  |  |
 | Weight change from baseline | 2 weeks (Day 11-17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |

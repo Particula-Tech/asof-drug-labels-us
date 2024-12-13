@@ -29,12 +29,12 @@ The average minimum concentration at steady-state was 122 ng/mL (range: 41 to 34
 Food does not appear to affect the systemic bioavailability of clozapine tablets.
 Thus, clozapine tablets may be administered with or without food.
 
-### Distribution
+Distribution
 
 Clozapine is approximately 97% bound to serum proteins.
 The interaction between clozapine and other highly protein-bound drugs has not been fully evaluated but may be important [see Drug Interactions (7)].
 
-### Metabolism and Excretion
+Metabolism and Excretion
 
 Clozapine is almost completely metabolized prior to excretion, and only trace amounts of unchanged drug are detected in the urine and feces.
 Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP2D6, and CYP3A4.
@@ -48,29 +48,29 @@ However, at steady-state, approximately dose-proportional changes with respect t
 
 ### Drug-Drug Interaction Studies
 
-#### Fluvoxamine
+Fluvoxamine
 
 A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.
 After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about three-fold compared to baseline steady-state concentrations.
 
-#### Paroxetine, Fluoxetine, and Sertraline
+Paroxetine, Fluoxetine, and Sertraline
 
 In a study of schizophrenic patients (n = 14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
 However, other published reports describe modest elevations (less than two-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
 
 ### Specific Population Studies
 
-#### Renal or Hepatic Impairment
+Renal or Hepatic Impairment
 
 No specific pharmacokinetic studies were conducted to investigate the effects of renal or hepatic impairment on the pharmacokinetics of clozapine.
 Higher clozapine plasma concentrations are likely in patients with significant renal or hepatic impairment when given usual doses.
 
-#### CYP2D6 Poor Metabolizers
+CYP2D6 Poor Metabolizers
 
 A subset (3%-10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
 These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.
 
-#### Patients with Pneumonia and other Inflammatory Conditions
+Patients with Pneumonia and other Inflammatory Conditions
 
-Published case reports describe examples where pneumonia or other inflammatory conditions may increase clozapineconcentrations.
-The clinical significance, the impact of treatments to modulate this inflammation, and mechanism of thispotential increase in clozapine concentrations have not been fully characterized but may involve reduced cytochromeP450 1A2 activity.
+Published case reports describe examples where pneumonia or other inflammatory conditions may increase clozapine concentrations.
+The clinical significance, the impact of treatments to modulate this inflammation, and mechanism of this potential increase in clozapine concentrations have not been fully characterized but may involve reduced cytochrome P450 1A2 activity.

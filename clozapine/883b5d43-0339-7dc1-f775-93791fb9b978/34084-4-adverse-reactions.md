@@ -32,7 +32,7 @@ Table 9 summarizes the most commonly reported adverse reactions (≥ 5%) in cloz
 Table 9.
 Common Adverse Reactions (≥ 5%) in the 6-Week, Randomized, Chlorpromazine-Controlled Trial in Treatment-Resistant Schizophrenia
 
-| Adverse Reaction | Clozapine Tablets(N = 126)(%) | Chlorpromazine(N = 142)(%) |
+| Adverse Reaction | Clozapine Tablets (N = 126) (%) | Chlorpromazine (N = 142) (%) |
 | --- | --- | --- |
 | Sedation | 21 | 13 |
 | Tachycardia | 17 | 11 |
@@ -52,7 +52,7 @@ These rates are not adjusted for duration of exposure.
 Table 10.
 Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 842) Across all Clozapine Tablets Studies (excluding the 2-year InterSePT™ Study)
 
-| Body System Adverse ReactionRate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine tablets. | Clozapine TabletsN = 842Percentage of Patients |
+| Body System Adverse ReactionRate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine tablets. | Clozapine Tablets N = 842 Percentage of Patients |
 | --- | --- |
 | Central Nervous System |  |
 | Drowsiness/Sedation | 39 |
@@ -103,7 +103,7 @@ The rates are not adjusted for duration of exposure.
 Table 11.
 Incidence of Adverse Reactions in Patients Treated with Clozapine Tablets or Olanzapine in the InterSePT™ Study (≥ 10% in the Clozapine Tablets or Olanzapine Group)
 
-| Adverse Reactions | Clozapine TabletsN = 479% Reporting | OlanzapineN = 477% Reporting |
+| Adverse Reactions | Clozapine Tablets N = 479 % Reporting | Olanzapine N = 477 % Reporting |
 | --- | --- | --- |
 | Salivary hypersecretion | 48 | 6 |
 | Somnolence | 46 | 25 |
@@ -129,28 +129,54 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 The following adverse reactions have been identified during post-approval use of clozapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome and post-discontinuation cholinergic rebound adverse reactions.
+### Central Nervous System
 
-Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, myocarditis, and periorbital edema.
+Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome and post-discontinuation cholinergic rebound adverse reactions.
 
-Endocrine System: Pseudopheochromocytoma
+### Cardiovascular System
 
-Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
+Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, myocarditis, and periorbital edema.
 
-Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
+### Endocrine System
 
-Immune System Disorders: Angioedema, leukocytoclastic vasculitis.
+Pseudopheochromocytoma
 
-Urogenital System: Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure, and retrograde ejaculation.
+### Gastrointestinal System
 
-Skin and Subcutaneous Tissue Disorders: Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
+Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 
-Musculoskeletal System and Connective Tissue Disorders: Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
+### Hepatobiliary System
 
-Respiratory System: Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
+Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
-Hemic and Lymphatic System: Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+### Immune System Disorders
 
-Vision Disorders: Narrow-angle glaucoma.
+Angioedema, leukocytoclastic vasculitis.
 
-Miscellaneous: Creatine phosphokinase elevation, hyperuricemia, hyponatremia, polyserositis, and weight loss.
+### Urogenital System
+
+Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure, and retrograde ejaculation.
+
+### Skin and Subcutaneous Tissue Disorders
+
+Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
+
+### Musculoskeletal System and Connective Tissue Disorders
+
+Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
+
+### Respiratory System
+
+Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
+
+### Hemic and Lymphatic System
+
+Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+
+### Vision Disorders
+
+Narrow-angle glaucoma.
+
+### Miscellaneous
+
+Creatine phosphokinase elevation, hyperuricemia, hyponatremia, polyserositis, and weight loss.
