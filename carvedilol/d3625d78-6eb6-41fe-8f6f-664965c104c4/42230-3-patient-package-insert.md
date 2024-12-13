@@ -1,4 +1,4 @@
-# PATIENT INFORMATION COREG CR (Co-REG) Extended-release Capsules
+# PATIENT INFORMATION COREG CR (Co-REG) (carvedilol phosphate) Extended-release Capsules
 
 Read the Patient Information that comes with COREG CR before you start taking it and each time you get a refill.
 There may be new information.
@@ -13,7 +13,7 @@ If your doctor decides that you should stop taking COREG CR, your doctor may slo
 
 What is COREG CR?
 
-COREG CR is a prescription medicine that belongs to a group of medicines called "beta-blockers".
+COREG CR is a prescription medicine that belongs to a group of medicines called ' beta-blockers".
 COREG CR is used, often with other medicines, for the following conditions:
 
 - to treat patients with certain types of heart failure
@@ -56,7 +56,7 @@ Tell your doctor about all of your medical conditions, including if you:
 Tell your doctor about all of the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 COREG CR and certain other medicines can affect each other and cause serious side effects.
 COREG CR may affect the way other medicines work.
-Also, other medicines may affect how well COREG CR work.
+Also, other medicines may affect how well COREG CR works.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist before you start a new medicine.
@@ -67,7 +67,7 @@ How should I take COREG CR?
   Take COREG CR one time each day with food.
   It is important that you take COREG CR only one time each day.
   To lessen possible side effects, your doctor might begin with a low dose and then slowly increase the dose.
-- Swallow COREG CR whole.
+- Swallow COREG CR capsules whole.
   Do not chew or crush COREG CR capsules.
 - If you have trouble swallowing COREG CR whole:
   - The capsule may be carefully opened and the beads sprinkled over a spoonful of applesauce which should be eaten right away.
@@ -77,9 +77,9 @@ How should I take COREG CR?
 - If you miss a dose of COREG CR, take your dose as soon as you remember, unless it is time to take your next dose.
   Take your next dose at the usual time.
   Do not take 2 doses at the same time.
-- If you take too many COREG CR, call your doctor or poison control center right away.
+- If you take too much COREG CR, call your doctor or poison control center right away.
 
-What should I avoid while taking COREG CR?
+What should I avoıd whıle takıng COREG CR?
 
 COREG CR can cause you to feel dizzy, tired, or faint.
 Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
@@ -105,7 +105,8 @@ Serious side effects of COREG CR include:
 - masking the symptoms of hyperthyroidism (overactive thyroid), such as a fast heartbeat.
 - worsening of severe allergic reactions.
   Medicines to treat a severe allergic reaction may not work as well while you are taking COREG CR.
-- rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on COREG or COREG CR These reactions can be life-threatening.
+- rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on COREG or COREG CR.
+  These reactions can be life-threatening.
   In some cases, these reactions happened in patients who had been on COREG before taking COREG CR.
 
 Common side effects of COREG CR include shortness of breath, weight gain, diarrhea, and tiredness.
@@ -139,7 +140,9 @@ What are the ingredients in COREG CR?
 
 Active ingredient: carvedilol phosphate
 
-Inactive ingredients: crospovidone, hydrogenated castor oil, hydrogenated vegetable oil, magnesium stearate, methacrylic acid copolymers, microcrystalline cellulose, and povidone COREG CR come in the following strengths: 10 mg, 20 mg, 40 mg, 80 mg.
+Inactive ingredients: crospovidone, hydrogenated castor oil, hydrogenated vegetable oil, magnesium stearate, methacrylic acid copolymers, microcrystalline cellulose, and povidone.
+
+COREG CR capsules come in the following strengths: 10 mg, 20 mg, 40 mg, 80 mg.
 
 What is high blood pressure (hypertension)?
 
@@ -151,6 +154,7 @@ Medicines that lower blood pressure may lower your chance of having a stroke or 
 
 COREG CR and COREG are trademarks used under license by Waylis Therapeutics LLC.
 
-Manufactured for: Waylis Therapeutics LLC Wixom, MI 48393
+Manufactured for: Waylis Therapeutics LLC Rahway, NJ 07065
 
-October 2023
+Rev.
+10/2024

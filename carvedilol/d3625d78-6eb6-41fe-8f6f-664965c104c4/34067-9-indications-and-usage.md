@@ -10,5 +10,5 @@ COREG CR is indicated to reduce cardiovascular mortality in clinically stable pa
 
 ## 1.3 Hypertension
 
-COREG CR is indicated for the management of essential hypertension [see Clinical Studies (14.3, 14.4)].
-They can be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics [see Drug Interactions (7.2)].
+COREG CR is ındicated for the management of essential hypertension [see Clinical Studies (14.3, 14.4)].
+It can be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics [see Drug Interactions (7.2)].

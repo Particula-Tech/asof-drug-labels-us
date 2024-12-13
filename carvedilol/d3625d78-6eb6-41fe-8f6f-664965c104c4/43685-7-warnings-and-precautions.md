@@ -15,7 +15,7 @@ Because coronary artery disease is common and may be unrecognized, it may be pru
 
 ## 5.2 Bradycardia
 
-In clinical trials with immediate-release carvedilol, bradycardia was reported in about 2% of hypertensive subjects, 9% of subjects with heart failure, and 6.5% of subjects with myocardial infarction with left ventricular dysfunction.
+In clinical trials with immediate-release carvedilol, bradycardia was reported in about 2% of hypertensive subjects, 9% of subjects with heart failure, and 6.5% of subjects with myocardial infarction and left ventricular dysfunction.
 Bradycardia was reported in 0.5% of subjects receiving COREG CR in a trial of subjects with heart failure and subjects with myocardial infarction and left ventricular dysfunction.
 There were no reports of bradycardia in the clinical trial of COREG CR in hypertension.
 However, if pulse rate drops below 55 beats per minute, the dosage of COREG CR should be reduced.
@@ -27,9 +27,9 @@ The risk for these events was highest during the first 30 days of dosing, corres
 In a long-term, placebo-controlled trial in severe heart failure (COPERNICUS), hypotension and postural hypotension occurred in 15.1% and syncope in 2.9% of subjects with heart failure receiving carvedilol compared with 8.7% and 2.3% of placebo subjects, respectively.
 These events were a cause for discontinuation of therapy in 1.1% of carvedilol subjects, compared with 0.8% of placebo subjects.
 
-In a trial comparing subjects with heart failure switched to COREG CR or maintained on immediate-release carvedilol tablets, there was a 2-fold increase in the combined incidence of hypotension, syncope, or dizziness in elderly subjects (older than 65 years) switched from the highest dose of immediate-release carvedilol (25 mg twice daily) to COREG CR 80 mg once daily [see Dosage and Administration (2), Use in Specific Populations (8.5)].
+In a trial comparing subjects with heart failure switched to COREG CR or maintained on immediate-release carvedilol, there was a 2-fold increase in the combined incidence of hypotension, syncope, or dizziness in elderly subjects (older than 65 years) switched from the highest dose of carvedilol (25 mg twice daily) to COREG CR 80 mg once daily [see Dosage and Administration (2), Use in Specific Populations (8.5)].
 
-In the clinical trial of COREG CR in hypertensive subjects, syncope was reported in 0.3% of subjects receiving COREG CR compared with 0% of subjects receiving placebo.
+In the clinical trial of COREG CR in hypertensive subjects, syncope was reported in 0.3% of subjects receivıng COREG CR compared with 0% of subjects receiving placebo.
 There were no reports of postural hypotension in this trial.
 Postural hypotension occurred in 1.8% and syncope in 0.1% of hypertensive subjects receiving immediate-release carvedilol, primarily following the initial dose or at the time of dose increase and was a cause for discontinuation of therapy in 1% of subjects.
 
@@ -46,7 +46,7 @@ Worsening heart failure or fluid retention may occur during up-titration of carv
 If such symptoms occur, diuretics should be increased, and the dose of COREG CR should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
 Occasionally it is necessary to lower the dose of COREG CR or temporarily discontinue it.
 Such episodes do not preclude subsequent successful titration of, or a favorable response to, COREG CR.
-In a placebo-controlled trial of subjects with severe heart failure, worsening heart failure during the first 3 months was reported to a similar degree with immediate-release carvedilol and with placebo.
+In a placebo -controlled trial of subjects with severe heart failure, worsening heart failure during the first 3 months was reported to a similar degree with immediate-release carvedilol and with placebo.
 When treatment was maintained beyond 3 months, worsening heart failure was reported less frequently in subjects treated with carvedilol than with placebo.
 Worsening heart failure observed during long-term therapy is more likely to be related to the patients' underlying disease than to treatment with carvedilol.
 
@@ -54,7 +54,7 @@ Worsening heart failure observed during long-term therapy is more likely to be r
 
 Patients with bronchospastic disease (e.g., chronic bronchitis, emphysema) should, in general, not receive β-blockers.
 COREG CR may be used with caution, however, in patients who do not respond to, or cannot tolerate, other antihypertensive agents.
-It is prudent, if COREG CR are used, to use the smallest effective dose, so that inhibition of endogenous or exogenous β-agonists is minimized.
+It is prudent, if COREG CR is used, to use the smallest effective dose, so that inhibition of endogenous or exogenous β-agonists is minimized.
 
 In clinical trials of subjects with heart failure, subjects with bronchospastic disease were enrolled if they did not require oral or inhaled medication to treat their bronchospastic disease.
 In such patients, it is recommended that COREG CR be used with caution.
@@ -62,7 +62,6 @@ The dosing recommendations should be followed closely, and the dose should be lo
 
 ## 5.6 Effects on Blood Sugar
 
-.
 Betablockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
 If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 

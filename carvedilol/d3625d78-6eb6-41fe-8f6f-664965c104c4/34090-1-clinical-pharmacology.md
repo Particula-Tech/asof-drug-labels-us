@@ -19,13 +19,13 @@ The mechanism by which β-blockade produces an antihypertensive effect has not b
 β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects, (2) reduces exercise- and/or isoproterenol-induced tachycardia, and (3) reduces reflex orthostatic tachycardia.
 Significant β-adrenoreceptor blocking effect is usually seen within 1 hour of drug administration.
 
-α1-adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine, (2) causes vasodilation; and (3) reduces peripheral vascular resistance.
+α1-adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine, (2) causes vasodilation, and (3) reduces peripheral vascular resistance.
 These effects contribute to the reduction of blood pressure and usually are seen within 30 minutes of drug administration.
 
 Due to the α1-receptor blocking activity of carvedilol, blood pressure is lowered more in the standing than in the supine position, and symptoms of postural hypotension (1.8%), including rare instances of syncope, can occur.
 Following oral administration, when postural hypotension has occurred, it has been transient and is uncommon when immediate-release carvedilol is administered with food at the recommended starting dose and titration increments are closely followed [see Dosage and Administration (2)].
 
-In a randomized, double-blind, placebo-controlled trial, the β1-blocking effect of COREG CR, as measured by heart rate response to submaximal bicycle ergometry, was shown to be equivalent to that observed with immediate-release carvedilol tablets at steady state in adult subjects with essential hypertension.
+In a randomized, double-blind, placebo-controlled trial, the β1-blocking effect of COREG CR, as measured by heart rate response to submaximal bicycle ergometry, was shown to be equivalent to that observed with immediate-release carvedilol at steady state in adult subjects with essential hypertension.
 
 In hypertensive subjects with normal renal function, therapeutic doses of carvedilol decreased renal vascular resistance with no change in glomerular filtration rate or renal plasma flow.
 Changes in excretion of sodium, potassium, uric acid, and phosphorus in hypertensive patients with normal renal function were similar after carvedilol and placebo.
@@ -38,17 +38,17 @@ It also increases levels of atrial natriuretic peptide.
 Absorption
 
 Carvedilol is rapidly and extensively absorbed following oral administration of immediate-release carvedilol tablets, with an absolute bioavailability of approximately 25% to 35% due to a significant degree of first-pass metabolism.
-COREG CR have approximately 85% of the bioavailability of immediate-release carvedilol tablets.
-For corresponding dosages [see Dosage and Administration (2)], the exposure (AUC, Cmax, trough concentration) of carvedilol as COREG CR is equivalent to those of immediate-release carvedilol tablets when both are administered with food.
-The absorption of carvedilol from a COREG CR is slower and more prolonged compared with the immediate-release carvedilol tablet with peak concentrations achieved approximately 5 hours after administration.
+COREG CR extended-release capsules have approximately 85% of the bioavailability of immediate-release carvedilol tablets.
+For corresponding dosages [see Dosage and Administration (2)], the exposure (AUC, Cmax, trough concentration) of carvedilol as COREG CR extended-release capsules is equivalent to those of immediate-release carvedilol tablets when both are administered with food.
+The absorption of carvedilol from COREG CR is slower and more prolonged compared with the immediate-release carvedilol tablet with peak concentrations achieved approximately 5 hours after administration.
 Plasma concentrations of carvedilol increase in a dose-proportional manner over the dosage range of COREG CR 10 to 80 mg.
-Within-subject and between-subject variability for AUC and Cmax is similar for COREG CR and immediate-release carvedilol.
+Within-subject and between-subject variabilıty for AUC and Cmax is similar for COREG CR and immediate-release carvedilol.
 
-Effect of Food: Administration of COREG CR with a high-fat meal resulted in increases (~20%) in AUC and Cmax compared with COREG CR administered with a standard meal.
+Effect of Food: Admınistration of COREG CR with a high-fat meal resulted in increases (~20%) in AUC and Cmax compared with COREG CR administered with a standard meal.
 Decreases in AUC (27%) and Cmax (43%) were observed when COREG CR was administered in the fasted state compared with administration after a standard meal.
 COREG CR should be taken with food.
 
-In a trial with adult subjects, sprinkling the contents of the COREG CR on applesauce did not appear to have a significant effect on overall exposure (AUC) compared with administration of the intact capsule following a standard meal but did result in a decrease in Cmax (18%).
+In a trial with adult subjects, sprinkling the contents of the COREG CR capsule on applesauce did not appear to have a significant effect on overall exposure (AUC) compared with administration of the intact capsule following a standard meal, but did result in a decrease in Cmax (18%).
 
 Distribution
 
@@ -70,7 +70,7 @@ Based on preclinical studies, the 4'-hydroxyphenyl metabolite is approximately 1
 Compared with carvedilol, the 3 active metabolites exhibit weak vasodilating activity.
 Plasma concentrations of the active metabolites are about one-tenth of those observed for carvedilol and have pharmacokinetics similar to the parent.
 
-Carvedilol undergoes stereoselective first-pass metabolism with plasma levels of R(+)-carvedilol approximately 2 to 3 times higher than S(-)-carvedilol following oral administration of COREG CR in healthy subjects.
+Carvedilol undergoes stereoselective first-pass metabolism with plasma levels of R(+)-carvedilol approximately 2 to 3 times higher than S(-)-carvedilol following oral administration of COREG C-R in healthy subjects.
 Apparent clearance is 90 L per h and 213 L per h for R(+)- and S(-)-carvedilol, respectively.
 
 The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.
@@ -83,31 +83,21 @@ The pharmacokinetics of carvedilol do not appear to be different in poor metabol
 
 ## 12.4 Specific Populations
 
-Heart Failure
-
-Following administration of immediate-release carvedilol tablets, steady-state plasma concentrations of carvedilol and its enantiomers increased proportionally over the dose range in subjects with heart failure.
+Heart Failure: Following administration of immediate-release carvedilol tablets, steady-state plasma concentrations of carvedilol and its enantiomers increased proportionally over the dose range in subjects with heart failure.
 Compared with healthy subjects, subjects with heart failure had increased mean AUC and Cmax values for carvedilol and its enantiomers, with up to 50% to 100% higher values observed in 6 subjects with NYHA class IV heart failure.
 The mean apparent terminal elimination half-life for carvedilol was similar to that observed in healthy subjects.
 
 For corresponding dose levels [see Dosage and Administration (2)], the steady-state pharmacokinetics of carvedilol (AUC, Cmax, trough concentrations) observed after administration of COREG CR to subjects with chronic heart failure (mild, moderate, and severe) were similar to those observed after administration of immediate-release carvedilol tablets.
 
-Hypertension
+Hypertension: For corresponding dose levels [see Dosage and Administration (2)], the pharmacokinetics (AUC, Cmax, and trough concentrations) observed with administration of COREG CR were equivalent (±20%) to those observed with immediate-release carvedilol tablets following repeat dosing in subjects with essential hypertension.
 
-For corresponding dose levels [see Dosage and Administration (2)], the pharmacokinetics (AUC, Cmax, and trough concentrations) observed with administration of COREG CR were equivalent (±20%) to those observed with immediate-release carvedilol tablets following repeat dosing in subjects with essential hypertension.
+Geriatric: Plasma levels of carvedilol average about 50% higher in the elderly compared with young subjects after administration of immediate-release carvedilol.
 
-Geriatric
-
-Plasma levels of carvedilol average about 50% higher in the elderly compared with young subjects after administration of immediate-release carvedilol.
-
-Hepatic Impairment
-
-No trials have been performed with COREG CR in subjects with hepatic impairment.
+Hepatic Impairment: No trials have been performed with COREG CR in subjects with hepatic impairment.
 Compared with healthy subjects, subjects with severe liver impairment (cirrhosis) exhibit a 4- to 7-fold increase in carvedilol levels.
 Carvedilol is contraindicated in patients with severe liver impairment.
 
-Renal Impairment
-
-No trials have been performed with COREG CR in subjects with renal impairment.
+Renal Impairment: No trials have been performed with COREG CR in subjects with renal impairment.
 Although carvedilol is metabolized primarily by the liver, plasma concentrations of carvedilol have been reported to be increased in patients with renal impairment after dosing with immediate-release carvedilol.
 Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in subjects with hypertension and moderate to severe renal impairment compared with a control group of subjects with hypertension and normal renal function.
 However, the ranges of AUC values were similar for both groups.
@@ -121,35 +111,19 @@ Since carvedilol undergoes substantial oxidative metabolism, the metabolism and 
 
 The following drug interaction trials were performed with immediate-release carvedilol tablets.
 
-Amiodarone
+Amiodarone: In a pharmacokinetic trial conducted in 106 Japanese subjects with heart failure, coadministration of small loading and maintenance doses of amiodarone with carvedilol resulted in at least a 2-fold increase in the steady-state trough concentrations of S(-)-carvedilol [see Drug Interactions (7.6)].
 
-In a pharmacokinetic trial conducted in 106 Japanese subjects with heart failure, coadministration of small loading and maintenance doses of amiodarone with carvedilol resulted in at least a 2-fold increase in the steady-state trough concentrations of S(-)-carvedilol [see Drug Interactions (7.6)].
+Cimetidine: In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg per day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
 
-Cimetidine
+Digoxin: Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 subjects with hypertension [see Drug Interactions (7.4)].
 
-In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg per day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
+Glyburide: In 12 healthy subjects, combined administration of carvedilol (25 mg once daily) and a single dose of glyburide did not result in a clinically relevant pharmacokinetic interaction for either compound.
 
-Digoxin
-
-Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 subjects with hypertension [see Drug Interactions (7.4)].
-
-Glyburide
-
-In 12 healthy subjects, combined administration of carvedilol (25 mg once daily) and a single dose of glyburide did not result in a clinically relevant pharmacokinetic interaction for either compound.
-
-Hydrochlorothiazide
-
-A single oral dose of carvedilol 25 mg did not alter the pharmacokinetics of a single oral dose of hydrochlorothiazide 25 mg in 12 subjects with hypertension.
+Hydrochlorothiazide: A single oral dose of carvedilol 25 mg did not alter the pharmacokinetics of a single oral dose of hydrochlorothiazide 25 mg in 12 subjects with hypertension.
 Likewise, hydrochlorothiazide had no effect on the pharmacokinetics of carvedilol.
 
-Rifampin
+Rifampin: In a pharmacokinetic trial conducted in 8 healthy male subjects, rifampin (600 mg daily for 12 days) decreased the AUC and Cmax of carvedilol by about 70% [see Drug Interactions (7.5)].
 
-In a pharmacokinetic trial conducted in 8 healthy male subjects, rifampin (600 mg daily for 12 days) decreased the AUC and Cmax of carvedilol by about 70% [see Drug Interactions (7.5)].
+Torsemide: In a trial of 12 healthy subjects, combined oral administration of carvedilol 25 mg once daily and torsemide 5 mg once daily for 5 days did not result in any significant differences in their pharmacokinetics compared with administration of the drugs alone.
 
-Torsemide
-
-In a trial of 12 healthy subjects, combined oral administration of carvedilol 25 mg once daily and torsemide 5 mg once daily for 5 days did not result in any significant differences in their pharmacokinetics compared with administration of the drugs alone.
-
-Warfarin
-
-Carvedilol (12.5 mg twice daily) did not have an effect on the steady-state prothrombin time ratios and did not alter the pharmacokinetics of R(+)- and S(-)-warfarin following concomitant administration with warfarin in 9 healthy volunteers.
+Warfarin: Carvedilol (12.5 mg twice daily) did not have an effect on the steady-state prothrombin time ratios and did not alter the pharmacokinetics of R(+)- and S(-)-warfarin following concomitant administration with warfarin in 9 healthy volunteers.

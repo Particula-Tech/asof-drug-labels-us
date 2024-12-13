@@ -17,7 +17,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/Fetal Risk: Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section and post-partum hemorrhage).
+Disease-Associated Maternal and/or Embryo/Fetal Risk: Hypertension in pregnancy increases the maternal risk for preeclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section and post-partum hemorrhage).
 Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
 Pregnant women with hypertension should be carefully monitored and managed accordingly.
 
@@ -29,7 +29,7 @@ Data
 Animal Data: Studies performed in rats and rabbits given carvedilol during fetal organogenesis revealed increased post-implantation loss in rats at a maternally toxic dose of 300 mg per kg per day (50 times the MRHD as mg per m2) and in rabbits (in the absence of maternal toxicity) at doses of 75 mg per kg per day (25 times the MRHD as mg per m2).
 In the rats, there was also a decrease in fetal body weight at 300 mg per kg per day (50 times the MRHD as mg per m2) accompanied by an increased incidence of fetuses with delayed skeletal development.
 In rats, the no-effect level for embryo-fetal toxicity was 60 mg per kg per day (10 times the MRHD as mg per m2); in rabbits, it was 15 mg per kg per day (5 times the MRHD as mg per m2).
-In a pre- and post-natal development study in rats administered carvedilol from late gestation through lactation, increased embryo-lethality was observed at a maternally toxic dose of 200 mg per kg per day (approximately 32 times the MRHD as mg per m2), and pup mortality and delays in physical growth/development were observed at 60 mg per kg per day (10 times the MRHD as mg per m2) in the absence of maternal toxicity.
+In a pre-and post-natal development study in rats administered carvedilol from late gestation through lactation, increased embryo-lethality was observed at a maternally toxic dose of 200 mg per kg per day (approximately 32 times the MRHD as mg per m2), and pup mortality and delays in physical growth/development were observed at 60 mg per kg per day (10 times the MRHD as mg per m2) in the absence of maternal toxicity.
 The no-effect level was 12 mg per kg per day (2 times the MRHD as mg per m2).
 Carvedilol was present in fetal rat tissue.
 
@@ -55,13 +55,13 @@ Adverse reactions in this trial that occurred in greater than 10% of subjects tr
 
 The initial clinical trials of COREG CR in subjects with hypertension, heart failure, and left ventricular dysfunction following myocardial infarction did not include sufficient numbers of subjects aged 65 years or older to determine whether they respond differently from younger patients.
 
-A randomized trial (n = 405) comparing subjects with mild to severe heart failure switched to COREG CR or maintained on immediate-release carvedilol tablets included 220 subjects who were aged 65 years or older.
-In this elderly subgroup, the combined incidence of dizziness, hypotension, or syncope was 24% (18/75) in subjects switched from the highest dose of immediate-release carvedilol tablets (25 mg twice daily) to the highest dose of COREG CR (80 mg once daily) compared with 11% (4/36) in subjects maintained on immediate-release carvedilol tablets (25 mg twice daily).
-When switching from the higher doses of immediate-release carvedilol tablets to COREG CR, a lower starting dose is recommended for elderly patients [see Dosage and Administration (2.5)].
+A randomized trial (n = 405) comparing subjects with mild to severe heart failure switched to COREG CR or maintained on immediate-release carvedilol included 220 subjects who were aged 65 years or older.
+In this elderly subgroup, the combined incidence of dizziness, hypotension, or syncope was 24% (18/75) in subjects switched from the highest dose of immediate-release carvedilol (25 mg twice daily) to the highest dose of COREG CR (80 mg once daily) compared with 11% (4/36) in subjects maintained on immediate-release carvedilol (25 mg twice daily).
+When switching from the higher doses of immediate-release carvedilol to COREG CR, a lower starting dose is recommended for elderly patients [see Dosage and Administration (2.5)].
 
 The following information is available for trials with immediate-release carvedilol.
 Of the 765 subjects with heart failure randomized to carvedilol in U.S. clinical trials, 31% (235) were aged 65 years or older, and 7.3% (56) were aged 75 years or older.
-Of the 1,156 subjects randomized to carvedilol in a long-term, placebo-controlled trial in severe heart failure, 47% (547) were aged 65 years or older, and 15% (174) were aged 75 years or older.
+Of the 1,156 subjects randomized to carvedilol in a long-term, placebo-controlled trial ın severe heart failure, 47% (547) were aged 65 years or older, and 15% (174) were aged 75 years or older.
 Of 3,025 subjects receiving carvedilol in heart failure trials worldwide, 42% were aged 65 years or older.
 Of the 975 subjects with myocardial infarction randomized to carvedilol in the CAPRICORN trial, 48% (468) were aged 65 years or older, and 11% (111) were aged 75 years or older.
 Of the 2,065 hypertensive subjects in U.S. clinical trials of efficacy or safety who were treated with carvedilol, 21% (436) were aged 65 years or older.

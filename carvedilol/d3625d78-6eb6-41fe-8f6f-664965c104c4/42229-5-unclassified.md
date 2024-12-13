@@ -1,5 +1,6 @@
-Manufactured for: Waylis Therapeutics LLC Wixom, MI 48393
+COREG CR and COREG are trademarks used under license by Waylis Therapeutics LLC.
 
-October 2023
+The other brand listed is a trademark owned by or licensed to its owner and is not owned by or licensed to Waylis Therapeutics LLC.
+The maker of this brand is not affiliated with and does not endorse Waylis Therapeutics LLC or its products.
 
-PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
+Manufactured for: Waylis Therapeutics LLC Rahway, NJ 07065

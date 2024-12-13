@@ -25,32 +25,32 @@ Due to wide interindividual variability in the dose adjustment required, it is r
 Both digitalis glycosides and β-blockers slow atrioventricular conduction and decrease heart rate.
 Concomitant use can increase the risk of bradycardia.
 Digoxin concentrations are increased by about 15% when digoxin and carvedilol are administered concomitantly.
-Therefore, increased monitoring of digoxin is recommended when initiating, adjusting, or discontinuing COREG CR [see Clinical Pharmacology (12.5)].
+Therefore, increased monitoring of digoxin is recommended when initiating, adjusting, or discontinuing COREG CR [see Drug-Drug Interactions (12.5)].
 
 ## 7.5 Inducers/Inhibitors of Hepatic Metabolism
 
-Rifampin reduced plasma concentrations of carvedilol by about 70% [see Clinical Pharmacology (12.5)].
-Cimetidine increased area under the curve (AUC) by about 30% but caused no change in Cmax [see Clinical Pharmacology (12.5)].
+Rifampin reduced plasma concentrations of carvedilol by about 70% [see Drug-Drug Interactions (12.5)].
+Cimetidine increased area under the curve (AUC) by about 30% but caused no change in Cmax [see Drug-Drug Interactions (12.5)].
 
 ## 7.6 Amiodarone
 
-Amiodarone and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P-glycoprotein increased concentrations of the S(-) enantiomer of carvedilol by at least 2-fold [see Clinical Pharmacology (12.5)].
-The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with COREG CR may enhance the β–blocking activity, resulting in further slowing of the heart rate or cardiac conduction.
+Amiodarone and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P-glycoprotein increased concentrations of the S(-) enantiomer of carvedilol by at least 2-fold [see Drug-Drug Interactions (12.5)].
+The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with COREG CR may enhance the β-blocking activity, resulting in further slowing of the heart rate or cardiac conduction.
 Patients should be observed for signs of bradycardia or heart block, particularly when one agent is added to pre-existing treatment with the other.
 
 ## 7.7 Calcium Channel Blockers
 
 Conduction disturbance (rarely with hemodynamic compromise) has been observed when COREG CR is coadministered with diltiazem.
-As with other β-blockers, if COREG CR is to be administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
+As with other β-blockers, if COREG CR is administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
 
 ## 7.8 Insulin or Oral Hypoglycemics
 
-β-blockers may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
+β-blockers properties may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
 Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended [see Warnings and Precautions (5.6)].
 
 ## 7.9 Proton Pump Inhibitors
 
-There is no clinically meaningful increase in AUC and Cmax with concomitant administration of carvedilol Phosphate extended-release capsules with pantoprazole.
+There is no clinically meaningful increase in AUC and Cmax with concomitant administration of carvedilol extended-release capsules with pantoprazole.
 
 ## 7.10 Anesthesia
 
