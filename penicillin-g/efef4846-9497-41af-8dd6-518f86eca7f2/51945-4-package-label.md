@@ -6,9 +6,7 @@ Buffered
 
 Rx ONLY
 
-Pfizerpen® (penicillin G potassium, USP)
-
-For Injection
+Pfizerpen® (Penicillin G Potassium for Injection, USP)
 
 Intramuscular or Intravenous Use
 
@@ -22,9 +20,7 @@ NDC 0049-0520-22 contains 10 of NDC 0049-0520-23
 
 Buffered
 
-Pfizerpen® (penicillin G potassium, USP)
-
-For Injection
+Pfizerpen® (Penicillin G potassium for Injection, USP)
 
 5,000,000 Units* per vial (Five million units* per vial)
 
@@ -44,7 +40,7 @@ Buffered
 
 Rx ONLY
 
-Pfizerpen® (penicillin G potassium, USP)
+Pfizerpen® (Penicillin G Potassium for Injection, USP)
 
 For Intravenous Infusion Only
 
@@ -58,7 +54,7 @@ NDC 0049-0530-22
 
 Buffered
 
-Pfizerpen® (penicillin G potassium, USP)
+Pfizerpen® (Penicillin G Potassium for Injection, USP)
 
 20,000,000 Units* per vial (Twenty million units* per vial)
 
