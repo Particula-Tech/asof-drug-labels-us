@@ -6,9 +6,6 @@ Their synthetic analogs are primarily used for their potent anti-inflammatory ef
 Glucocorticoids cause profound and varied metabolic effects.
 In addition, they modify the body's immune responses to diverse stimuli.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com.
+LAB-0158-10.0
 
-LAB-0158-9.0
-
-Revised March 2024
+Revised December 2024
