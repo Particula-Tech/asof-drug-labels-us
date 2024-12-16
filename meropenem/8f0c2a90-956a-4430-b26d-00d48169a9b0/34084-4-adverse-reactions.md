@@ -4,13 +4,14 @@ The following are discussed in greater detail in other sections of labeling:
 
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
-- •Seizure Potential [see Warnings and Precautions (5.3)]
-- •Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.4)]
-- •Clostridium difficile – associated Diarrhea [see Warnings and Precautions (5.5)]
-- •Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)]
-- •Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.7)]
-- •Thrombocytopenia [see Warnings and Precautions (5.8)]
-- •Potential for Neuromotor Impairment [see Warnings and Precautions (5.9)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.3)]
+- •Seizure Potential [see Warnings and Precautions (5.4)]
+- •Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.5)]
+- •Clostridioides difficile – associated Diarrhea [see Warnings and Precautions (5.6)]
+- •Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.7)]
+- •Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.8)]
+- •Thrombocytopenia [see Warnings and Precautions (5.9)]
+- •Potential for Neuromotor Impairment [see Warnings and Precautions (5.10)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
 
@@ -54,7 +55,7 @@ Hemic/Lymphatic: anemia, hypochromic anemia, hypervolemia
 
 Metabolic/Nutritional: peripheral edema, hypoxia
 
-Nervous System: insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.3) and (5.9)]
+Nervous System: insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.4) and (5.10)]
 
 Respiratory: respiratory disorder, dyspnea, pleural effusion, asthma, cough increased, lung edema
 
@@ -82,7 +83,7 @@ Adverse events with an incidence of greater than 1%, and not listed above, inclu
 
 Patients with Renal Impairment:
 
-For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported with MERREM IV, increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
+For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported with MERREM IV, increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.10), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
 
 Pediatric Patients:
 
@@ -131,7 +132,7 @@ Laboratory changes seen in the pediatric studies, including the meningitis studi
 
 ## 6.2 Post marketing Experience
 
-The following adverse reactions have been identified during post-approval use of MERREM IV.
+The following adverse reactions have been identified during post-approval use of meropenem, including MERREM IV.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
@@ -141,3 +142,5 @@ Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopen
 Immune System Disorders: angioedema.
 
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
+
+Musculoskeletal Disorders: rhabdomyolysis.

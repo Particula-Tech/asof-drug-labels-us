@@ -20,8 +20,8 @@ The no-observed-adverse-effect-level (NOAEL) for fetal toxicity in this study wa
 Meropenem administered intravenously to pregnant Cynomolgus monkeys during organogenesis from Day 20 to 50 after mating at doses of 120, 240, and 360 mg/kg/day did not produce maternal or fetal toxicity at the NOAEL dose of 360 mg/kg/day (approximately 2.3 times the MRHD based on body surface area comparison).
 
 In a peri-postnatal study in rats described in the published literature2, intravenous meropenem was administered to dams from Gestation Day 17 until Lactation Day 21 at doses of 240, 500, and 1000 mg/kg/day.
-There were no adverse effects in the dams and no adverse effects in the first generation offspring (including developmental, behavioral, and functional assessments and reproductive parameters) except that female offspring exhibited lowered body weights which continued during gestation and nursing of the second generation offspring.
-Second generation offspring showed no meropenem-related effects.
+There were no adverse effects in the dams and no adverse effects in the first-generation offspring (including developmental, behavioral, and functional assessments and reproductive parameters) except that female offspring exhibited lowered body weights which continued during gestation and nursing of the second-generation offspring.
+Second-generation offspring showed no meropenem-related effects.
 The NOAEL value was considered to be 1000 mg/kg/day (approximately 3.2 times the MRHD based on body surface area comparisons).
 
 ## 8.2 Lactation
@@ -62,4 +62,4 @@ A pharmacokinetic study with MERREM IV in elderly patients has shown a reduction
 
 ## 8.6 Patients with Renal Impairment
 
-Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].
+Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].
