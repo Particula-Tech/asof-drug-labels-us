@@ -13,4 +13,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 Manufactured by: Italfarmaco S.p.A.
 V.le Fulvio Testi, 330 20126 Milano, Italy
 
-Revised: 7/2024 MI:OCTRIJ:RX1
+Revised: 7/2024 MI:OCTRIJ:R10
+
+PK21593
