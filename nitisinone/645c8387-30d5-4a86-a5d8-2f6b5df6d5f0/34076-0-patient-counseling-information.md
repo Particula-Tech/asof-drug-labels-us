@@ -15,4 +15,4 @@ Elevated Plasma Tyrosine Levels, Ocular Symptoms, Developmental Delay and Hyperk
 
 Distributed by: Analog Pharma Inc. Princeton, NJ, 08540 www.analogpharma.com
 
-Revision date: 04/2023
+Revision date: 06/2023
