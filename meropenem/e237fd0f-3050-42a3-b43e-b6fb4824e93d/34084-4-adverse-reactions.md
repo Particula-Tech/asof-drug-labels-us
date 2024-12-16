@@ -4,12 +4,13 @@ The following adverse reactions are discussed in greater detail in the Warnings 
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Seizure Potential [see Warnings and Precautions (5.2)]
-- Clostridioides difficile-associated Diarrhea [see Warnings and Precautions (5.3)]
-- Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.4)]
-- Thrombocytopenia [see Warnings and Precautions (5.5)]
-- Potential for Neuromotor Impairment [see Warnings and Precautions (5.6)]
-- Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.7)]
-- Overgrowth of Non-susceptible Organisms [see Warnings and Precautions (5.8)]
+- Rhabdomyolysis [see Warnings and Precautions (5.3)]
+- Clostridioides difficile-associated Diarrhea [see Warnings and Precautions (5.4)]
+- Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.5)]
+- Thrombocytopenia [see Warnings and Precautions (5.6)]
+- Potential for Neuromotor Impairment [see Warnings and Precautions (5.7)]
+- Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.8)]
+- Overgrowth of Non-susceptible Organisms [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -88,3 +89,10 @@ Skin and subcutaneous tissue disorders: pruritus, toxic epidermal necrolysis, St
 Immune system disorders: angioedema
 
 General disorders and administration site conditions: pain
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of meropenem, a component of VABOMERE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Musculoskeletal Disorders: rhabdomyolysis
