@@ -1,8 +1,14 @@
-Revised: February 2017 L103I R-1704
+Revised: February 2024 LI04I R-2402
 
 Manufactured for:
 
-BPI Labs, LLC, Freehold, NJ 07728 USA
+BPI Labs, LLC
+
+12393 Belcher Rd S, Suite 450
+
+Largo, FL 33773
+
+USA
 
 Manufactured by:
 

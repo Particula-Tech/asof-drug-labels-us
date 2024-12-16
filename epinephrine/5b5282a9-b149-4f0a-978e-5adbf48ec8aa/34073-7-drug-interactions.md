@@ -10,16 +10,12 @@ Drugs antagonizing pressor effects of epinephrine
 
 Drugs potentiating pressor effects of epinephrine
 
-- Sympathomimetics
-- β-blockers, such as propranolol
-- Tricyclic anti-depressants
-- Monoamine oxidase (MAO) inhibitors
-- Catechol-O-methyl transferase (COMT) inhibitors, such as entacapone
-- Clonidine
-- Doxapram
-- Oxytocin
+• Sympathomimetics • β-blockers, such as propranolol • Tricyclic anti-depressants • Monoamine oxidase (MAO) inhibitors • Catechol-O-methyl transferase (COMT) inhibitors, such as entacapone • Clonidine • Doxapram • Oxytocin • Drugs potentiating arrhythmogenic effects of epinephrine.
+Patients who are concomitantly receiving any of the following drugs should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.6) and Adverse Reactions (6)]. • β-blockers, such as propranolol • Cyclopropane or halogenated hydrocarbon anesthetics, such as halothane • Antihistamines • Thyroid hormones • Diuretics • Cardiac glycosides, such as digitalis glycosides • Quinidine
 
-Drugs potentiating arrhythmogenic effects of epinephrine.Patients who are concomitantly receiving any of the following drugs should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.6)and Adverse Reactions (6)].
+Drugs potentiating arrhythmogenic effects of epinephrine.
+
+Patients who are concomitantly receiving any of the following drugs should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.6)and Adverse Reactions (6)].
 
 - β-blockers, such as propranolol
 - Cyclopropane or halogenated hydrocarbon anesthetics, such as halothane
@@ -31,9 +27,7 @@ Drugs potentiating arrhythmogenic effects of epinephrine.Patients who are concom
 
 Drugs potentiating hypokalemic effects of epinephrine
 
-- Potassium depleting diuretics
-- Corticosteroids
-- Theophylline
+• Potassium depleting diuretics • Corticosteroids • Theophylline
 
 Epinephrine should not be used to counteract circulatory collapse or hypotension caused by phenothiazines, as a reversal of the pressor effects of epinephrine may result in further lowering of blood pressure.
 

@@ -7,10 +7,10 @@ The mechanism of the rise in blood pressure is 3-fold: a direct myocardial stimu
 
 ## 12.2 Pharmacodynamics
 
-Intravenous use for hypotension associated with septic shock:
+Intravenous use for hypotension associated with septic shock
 
 Following intravenous administration of epinephrine, increases in systolic blood pressure and heart rate are observed.
-Decreases in systemic vascular resistance and diastolic blood pressure are observed at low doses of epinephrine because of β 2-mediated vasodilation, but are overtaken by α 1-mediated peripheral vasoconstriction at higher doses leading to increase in diastolic blood pressure.
+Decreases in systemic vascular resistance and diastolic blood pressure are observed at low doses of epinephrine because of β2-mediated vasodilation, but are overtaken by α1-mediated peripheral vasoconstriction at higher doses leading to increase in diastolic blood pressure.
 The onset of blood pressure increase following an intravenous dose of epinephrine is < 5 minutes and the time to offset blood pressure response occurs within 20 min. Most vascular beds are constricted including renal, splanchnic, mucosal and skin.
 
 Intramuscular and subcutaneous use for anaphylaxis
@@ -42,11 +42,16 @@ The tissues with the highest contribution to removal of circulating exogenous ep
 
 Special Populations
 
+Elderly In a pharmacokinetic study of 45-minute epinephrine infusions given to healthy men aged 20 to 25 years and healthy men aged 60 to 65 years, the mean plasma metabolic clearance rate of epinephrine at steady state was greater among the older men (144.8 versus 78 mL/kg/min for a 14.3 ng/kg/min infusion).
+
+Body Weight Body weight has been found to influence epinephrine pharmacokinetics.
+Higher body weight was associated with a higher plasma epinephrine clearance and a lower concentration plateau.
+
+Special Populations
+
 Elderly
 
 In a pharmacokinetic study of 45-minute epinephrine infusions given to healthy men aged 20 to 25 years and healthy men aged 60 to 65 years, the mean plasma metabolic clearance rate of epinephrine at steady state was greater among the older men (144.8 versus 78 mL/kg/min for a 14.3 ng/kg/min infusion).
 
-Body Weight
-
-Body weight has been found to influence epinephrine pharmacokinetics.
+Body Weight Body weight has been found to influence epinephrine pharmacokinetics.
 Higher body weight was associated with a higher plasma epinephrine clearance and a lower concentration plateau.
