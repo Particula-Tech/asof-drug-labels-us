@@ -23,20 +23,20 @@ There is a possibility of increased absorption through ulcerated or inflamed ski
 
 Patients using Carac should receive the following information and instructions:
 
-1. 1.This medication is to be used as directed.
-2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
-3. 3.It is for topical use only.
-4. 4.Avoid contact with the eyes, eyelids, nostrils, and mouth.
-5. 5.Cleanse affected area and wait 10 minutes before applying Carac.
-6. 6.Wash hands immediately after applying Carac.
-7. 7.Avoid prolonged exposure to sunlight or other forms of ultraviolet irradiation during treatment, as the intensity of the reaction may be increased.
-8. 8.Most patients using Carac get skin reactions where the medicine is used.
+1. This medication is to be used as directed.
+2. This medication should not be used for any disorder other than that for which it was prescribed.
+3. It is for topical use only.
+4. Avoid contact with the eyes, eyelids, nostrils, and mouth.
+5. Cleanse affected area and wait 10 minutes before applying Carac.
+6. Wash hands immediately after applying Carac.
+7. Avoid prolonged exposure to sunlight or other forms of ultraviolet irradiation during treatment, as the intensity of the reaction may be increased.
+8. Most patients using Carac get skin reactions where the medicine is used.
    These reactions include redness, dryness, burning, pain, erosion (loss of the upper layer of skin), and swelling.
    Irritation at the application site may persist for two or more weeks after therapy is discontinued.
    Treated areas may be unsightly during and after therapy.
-9. 9.If you develop abdominal pain, bloody diarrhea, vomiting, fever, or chills while on Carac therapy, stop the medication and contact your physician and/or pharmacist.
-10. 10.Report any side effects to the physician and/or pharmacist.
-11. 11.Fluorouracil, including Carac may be fatal if ingested by pets.
+9. If you develop abdominal pain, bloody diarrhea, vomiting, fever, or chills while on Carac therapy, stop the medication and contact your physician and/or pharmacist.
+10. Report any side effects to the physician and/or pharmacist.
+11. Fluorouracil, including Carac may be fatal if ingested by pets.
     Avoid allowing pets to contact the Carac container or the skin where Carac has been applied.
     Store Carac out of reach of pets.
     Safely discard or clean any cloth or applicator that may retain Carac and avoid leaving any residues of Carac on your hands, clothing, carpeting or furniture.
@@ -52,7 +52,7 @@ Studies with the active ingredient of Carac, fluorouracil, have shown positive e
 
 Fluorouracil produced morphological transformation of cells in in vitro cell transformation assays.
 Morphological transformation was also produced in anin vitro assay by a metabolite of fluorouracil, and the transformed cells produced malignant tumors when injected into immunosuppressed syngeneic mice.
-Fluorouracil has been shown to exert mutagenic activity in yeast cells, Bacillus subtilis, and Drosophila assays.
+Fluorouracil has been shown to exert mutagenic activity in yeast cells, Bacillus subtilis, and Drosophilaassays.
 In addition, fluorouracil has produced chromosome damage at concentrations of 1.0 and 2.0 mcg/mL in an in vitro hamster fibroblast assay, was positive in a microwell mouse lymphoma assay, and was positive in in vivo micronucleus assays in rats and mice following intraperitoneal administration.
 Some patients receiving cumulative doses of 0.24 to 1.0 g of fluorouracil parenterally have shown an increase in numerical and structural chromosome aberrations in peripheral blood lymphocytes.
 

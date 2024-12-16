@@ -9,33 +9,33 @@ The contribution to efficacy or safety of individual components of the vehicle h
 ## Pharmacokinetics:
 
 A multiple-dose, randomized, open-label, parallel study was performed in 21 patients with actinic keratoses.
-Twenty patients had pharmacokinetic samples collected: 10 patients treated with Carac and 10 treated with Efudex® 5% Cream.
-Patients were treated for a maximum of 28 days with Carac, 1 g once daily in the morning; or Efudex® 5% Cream, 1 g twice daily, in the morning and evening.
+Twenty patients had pharmacokinetic samples collected: 10 patients treated with Carac and 10 treated with Efudex ®5% Cream.
+Patients were treated for a maximum of 28 days with Carac, 1 g once daily in the morning; or Efudex ®5% Cream, 1 g twice daily, in the morning and evening.
 Steady-state plasma concentrations and the amounts of fluorouracil in urine resulting from the topical application of either product were measured.
 
-Three patients who received Carac and nine patients who received Efudex® 5% Cream had measurable plasma fluorouracil levels; however, only one patient receiving Carac and six patients receiving Efudex® 5% Cream had a sufficient number of data points to calculate mean pharmacokinetic parameters.
+Three patients who received Carac and nine patients who received Efudex ®5% Cream had measurable plasma fluorouracil levels; however, only one patient receiving Carac and six patients receiving Efudex ®5% Cream had a sufficient number of data points to calculate mean pharmacokinetic parameters.
 
 Plasma Pharmacokinetic Summary
 
-| PK Parameter | Carac n=1 | Efudex® (Mean ± SD) n=6 |
+| PK Parameter | Carac n=1 | Efudex ®(Mean ± SD) n=6 |
 | --- | --- | --- |
-| Cmax | 0.77 ng/mL | 11.49 ± 8.24 ng/mL |
-| Tmax | 1.00 hr | 1.03 ± 0.028 hr |
-| AUC(0–24) | 2.80 ng∙hr/mL | 22.39 ± 7.89 ng∙hr/mL |
+| C max | 0.77 ng/mL | 11.49 ± 8.24 ng/mL |
+| T max | 1.00 hr | 1.03 ± 0.028 hr |
+| AUC (0–24) | 2.80 ng∙hr/mL | 22.39 ± 7.89 ng∙hr/mL |
 
-Five of 10 patients receiving Carac and nine of 10 patients receiving Efudex® 5% Cream had measurable urine fluorouracillevels.
+Five of 10 patients receiving Carac and nine of 10 patients receiving Efudex ®5% Cream had measurable urine fluorouracillevels.
 
 Urine Pharmacokinetic Summary
 
-| PK Parameter | Carac (Mean ± SD) (Range) n=10 | Efudex® (Mean ± SD) (Range) n=10 |
+| PK Parameter | Carac (Mean ± SD) (Range) n=10 | Efudex ®(Mean ± SD) (Range) n=10 |
 | --- | --- | --- |
 | Cum AeCumulative urinary excretion | 2.74 ± 5.22 mcg | 119.83 ± 94.80 mcg |
 | (min-max) | (0-15.02) | (0-329.87) |
 | Max excretion rate | 0.19 ± 0.52 mcg/hr | 40.27 ± 47.14 mcg/hr |
 | (min-max) | (0-1.67) | (0-164.5) |
 
-Both Carac and Efudex® 5% Cream demonstrated low measurable plasma concentrations for fluorouracil when administered under steady-state conditions.
-Cumulative urinary excretion of fluorouracil was low for Carac and for Efudex®, corresponding to 0.055% and 0.24% of the applied doses, respectively.
+Both Carac and Efudex ®5% Cream demonstrated low measurable plasma concentrations for fluorouracil when administered under steady-state conditions.
+Cumulative urinary excretion of fluorouracil was low for Carac and for Efudex ®, corresponding to 0.055% and 0.24% of the applied doses, respectively.
 
 ## Clinical Trials:
 
