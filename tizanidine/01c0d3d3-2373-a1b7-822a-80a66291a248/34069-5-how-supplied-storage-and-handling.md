@@ -1,12 +1,28 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.2 Tizanidine Tablets
+## 16.1 How Supplied
 
 Tizanidine Tablets, USP 2 mg are available for oral administration as white to off-white, round, scored tablets, imprinted “APO” over “TI-2” on one side and plain with a bisect score on the other side.
-They are supplied as follows: Bottles of 100 (NDC 60505-0251-1) Bottles of 150 (NDC 60505-0251-3) Bottles of 1000 (NDC 60505-0251-2)
+
+They are supplied as follows:
+
+Bottles of 100 (NDC 60505-0251-1)
+
+Bottles of 150 (NDC 60505-0251-3)
+
+Bottles of 1,000 (NDC 60505-0251-2)
 
 Tizanidine Tablets, USP 4 mg are available for oral administration as white to off-white, round, scored tablets, imprinted “APO” over “TI-4” on one side and plain with a quadrisect score on the other side.
-They are supplied as follows: Bottles of 100 (NDC 60505-0252-1) Bottles of 150 (NDC 60505-0252-3) Bottles of 1000 (NDC 60505-0252-2)
+
+They are supplied as follows:
+
+Bottles of 100 (NDC 60505-0252-1)
+
+Bottles of 150 (NDC 60505-0252-3)
+
+Bottles of 1,000 (NDC 60505-0252-2)
+
+## 16.2 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 

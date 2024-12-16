@@ -1,3 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-Tizanidine is contraindicated in patients taking potent inhibitors of CYP1A2, such as fluvoxamine or ciprofloxacin [see Drug Interactions (7.1, 7.2)].
+Tizanidine is contraindicated in patients:
+
+• taking strong CYP1A2 inhibitors [see Drug Interactions (7.1)].
+
+• with a history of hypersensitivity to tizanidine or the ingredients in tizanidine tablets.
+Symptoms have included anaphylaxis and angioedema [see Warnings and Precautions (5.5)].

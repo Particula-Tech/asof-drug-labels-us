@@ -1,36 +1,42 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing Information
+## 2.1 Recommended Evaluation and Testing Before and After Initiating Tizanidine
 
-Tizanidine tablets may be prescribed with or without food.
-Once the formulation has been selected and the decision to take with or without food has been made, this regimen should not be altered.
+Monitoring of aminotransferase levels is recommended at baseline and 1 month after maximum dose is achieved [see Warnings and Precautions (5.2)].
 
-Food has complex effects on tizanidine pharmacokinetics, which differ with the different formulations.
-Tizanidine capsules and tizanidine tablets are bioequivalent to each other under fasting conditions (more than 3 hours after a meal), but not under fed conditions (within 30 minutes of a meal).
-These pharmacokinetic differences may result in clinically significant differences when switching administration of tablet and capsules and when switching administration between the fed or fasted state.
-These changes may result in increased adverse events, or delayed or more rapid onset of activity, depending upon the nature of the switch.
-For this reason, the prescriber should be thoroughly familiar with the changes in kinetics associated with these different conditions [see Clinical Pharmacology (12.3)].
+## 2.2 Recommended Dosage
 
-The recommended starting dose is 2 mg.
-Because the effect of tizanidine peaks at approximately 1 to 2 hours post-dose and dissipates between 3 to 6 hours post-dose, treatment can be repeated at 6 to 8 hour intervals, as needed, to a maximum of three doses in 24 hours.
+The recommended starting dose is 2 mg by mouth every 6 to 8 hours, as needed, to a maximum of three doses in 24 hours.
 
-Dosage can be gradually increased by 2 mg to 4 mg at each dose, with 1 to 4 days between dosage increases, until a satisfactory reduction of muscle tone is achieved.
-The total daily dose should not exceed 36 mg.
+Dosage can be gradually increased every 1 to 4 days by 2 mg to 4 mg at each dose based on clinical response and tolerability.
+The maximum total daily dosage is 36 mg.
 Single doses greater than 16 mg have not been studied.
 
-## 2.2 Dosing in Patients with Renal Impairment
+There are pharmacokinetic differences when administering tizanidine between the fed or fasted state [see Clinical Pharmacology (12.3)].
+Tizanidine may be taken with or without food; however, consistent administration with respect to food is recommended to reduce variability in tizanidine plasma exposure.
 
-Tizanidine should be used with caution in patients with renal insufficiency (creatinine clearance < 25 mL/min), as clearance is reduced by more than 50%.
-In these patients, during titration, the individual doses should be reduced.
-If higher doses are required, individual doses rather than dosing frequency should be increased [see Warnings and Precautions (5.7)].
+Because of the short duration of therapeutic effect, treatment with tizanidine should be reserved for those daily activities and times when relief of spasticity is most important.
 
-## 2.3 Dosing in Patients with Hepatic Impairment
+## 2.3 Recommended Dosage in Patients with Renal Impairment
 
-Tizanidine should be used with caution in patients with any hepatic impairment.
-In these patients, during titration, the individual doses should be reduced.
-If higher doses are required, individual doses rather than dosing frequency should be increased.
-Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected [see Use in Specific Populations (8.7)].
+In patients with creatinine clearance < 25 mL/min, use lower individual doses during titration.
+If higher doses are required, the individual doses rather than dosing frequency should be increased [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.4 Drug Discontinuation
+## 2.4 Recommended Dosage in Patients with Hepatic Impairment
 
-If therapy needs to be discontinued, particularly in patients who have been receiving high doses (20 mg to 36 mg daily) for long periods (9 weeks or more) or who may be on concomitant treatment with narcotics, the dose should be decreased slowly (2 mg to 4 mg per day) to minimize the risk of withdrawal and rebound hypertension, tachycardia, and hypertonia [see Drug Abuse and Dependence (9.3)].
+In patients with hepatic impairment, use lower individual doses during titration.
+If higher doses are required, individual doses rather than dosing frequency should be increased [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+## 2.5 Discontinuation of Tizanidine Tablets
+
+When discontinuing tizanidine tablets, particularly in patients who have been receiving high doses for long periods or who may be on concomitant treatment with narcotics, decrease the dosage by 2 mg to 4 mg per day to minimize the risk of withdrawal adverse reactions[see Drug Abuse and Dependence (9.3)].
+
+## 2.6 Switching Between With/Without Food and Different Tizanidine Dosage Forms
+
+There are pharmacokinetic differences when:
+
+1) switching between administration of tizanidine tablets with or without food
+
+2) switching between dosage forms if being administered with food.
+
+If these situations occur, monitor patients for therapeutic effect or adverse reactions[see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
