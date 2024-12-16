@@ -29,7 +29,7 @@ If treatment with CAMBIA is needed for a pregnant woman between about 20 to 30 w
 
 Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in specific Populations (8.2)].
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 
 Female Fertility Advise females of reproductive potential who desire pregnancy that NSAIDs, including CAMBIA, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women [see Use in Specific Populations (8.3)].
 
@@ -48,4 +48,4 @@ U.S. Patents: 6,974,595; 7,482,377; 7,759,394; 8,097,651
 
 CAM-003-C.8
 
-©2023 Assertio Therapeutics, Inc.
+©2024 Assertio Therapeutics, Inc.

@@ -2,7 +2,7 @@
 
 See Table 2 for clinically significant drug interactions with diclofenac.
 
-Table 2: Clinically Significant Drug Interactions with diclofenac
+Table 2: Clinically Significant Drug Interactions with Diclofenac
 
 | Drugs That Interfere with Hemostasis |  |
 | --- | --- |

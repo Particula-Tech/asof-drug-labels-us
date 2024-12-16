@@ -44,6 +44,8 @@ Adverse Reactions Reported With Diclofenac and Other NSAIDs
 
 In patients taking diclofenac or other NSAIDs, the most frequently reported adverse reactions occurring in approximately 1%-10% of patients are: GI reactions (including abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers [gastric/duodenal], and vomiting), abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes, and tinnitus.
 
+Other less frequently occurring adverse reactions identified during post approval use of diclofenac and other NSAIDs include fixed drug eruption [see Warnings and Precautions (5.9)].
+
 Additional adverse reactions reported in patients taking NSAIDs include occasionally:
 
 Body as a Whole: Fever, infection, sepsis
@@ -82,6 +84,8 @@ Nervous System: Convulsions, coma, hallucinations, meningitis
 
 Respiratory System: Respiratory depression, pneumonia
 
-Skin and Appendages: Angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
+Skin and Appendages: Angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome
+
+[see Warnings and Precautions (5.9)], urticaria
 
 Special Senses: Conjunctivitis, hearing impairment
