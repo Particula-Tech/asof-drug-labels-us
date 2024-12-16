@@ -51,3 +51,21 @@ For Subcutaneous Use Only
 This product is Hyrimoz®
 
 SANDOZ
+
+## Package/Label Display Panel
+
+NDC 61314-325-20
+
+Rx only
+
+Adalimumab-adaz Injection
+
+80 mg/0.8 mL
+
+For Subcutaneous Use Only
+
+2 Single-Dose Prefilled Sensoready® Pens
+
+This product is Hyrimoz®
+
+SANDOZ
