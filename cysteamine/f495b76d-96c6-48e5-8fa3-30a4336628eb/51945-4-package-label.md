@@ -27,7 +27,7 @@ Made in India
 
 Mylan.com
 
-RMX9040B
+RMX9040B1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -64,7 +64,7 @@ Made in India
 
 Mylan.com
 
-RMX9045B
+RMX9045B1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
