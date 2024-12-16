@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 ZIPSOR (diclofenac potassium) capsule is a nonsteroidal anti-inflammatory drug, available as liquid-filled capsules of 25 mg base, equivalent to 28.3 mg potassium salt for oral administration.
 Diclofenac potassium is a white to slight yellowish crystalline powder.

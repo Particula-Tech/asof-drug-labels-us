@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -41,7 +41,7 @@ Distribution
 The apparent volume of distribution (V/F) of diclofenac potassium is 1.3 L/kg.
 
 Diclofenac is more than 99% bound to human serum proteins, primarily to albumin.
-Serum protein binding is constant over the concentration range (0.15-105 g/mL) achieved with recommended doses.
+Serum protein binding is constant over the concentration range (0.15-105 μg/mL) achieved with recommended doses.
 
 Diclofenac has been shown to cross the placental barrier in humans.
 

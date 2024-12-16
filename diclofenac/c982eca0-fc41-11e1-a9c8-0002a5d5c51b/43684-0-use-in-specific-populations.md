@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -24,7 +24,7 @@ In published animal studies, prostaglandin synthesis inhibitors have been report
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -38,7 +38,7 @@ Oligohydramnios/Neonatal Renal Impairment:
 
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest dose and shortest duration possible.
 If ZIPSOR treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
-If oligohydramnios occurs, discontinue ZIPSOR and follow up according to clinical practice (see Data)
+If oligohydramnios occurs, discontinue ZIPSOR and follow up according to clinical practice (see Data).
 
 Labor or Delivery There are no studies on the effects of ZIPSOR during labor or delivery.
 In animal studies, NSAIDS, including diclofenac, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.

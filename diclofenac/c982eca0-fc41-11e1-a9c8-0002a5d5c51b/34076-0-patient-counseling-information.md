@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
 Inform patients, families, or their caregivers of the following information before initiating therapy with ZIPSOR and periodically during the course of ongoing therapy.

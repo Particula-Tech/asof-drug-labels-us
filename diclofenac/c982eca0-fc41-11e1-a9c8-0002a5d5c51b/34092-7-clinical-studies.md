@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The efficacy of ZIPSOR in adults was demonstrated in two multicenter, randomized, double-blind, placebo- controlled, parallel arm, multiple-dose clinical trials comparing ZIPSOR 25 mg and placebo in patients with pain following bunionectomy with osteotomy.
 Once patients met the criteria for randomization (pain intensity ≥4 on a 0-10 numerical pain rating scale) they received their initial dose of study medication followed by a remedication dose when requested by the patient, and were then dosed every six hours over four days.

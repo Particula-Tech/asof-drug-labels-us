@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
 Gastrointestinal bleeding has occurred.
