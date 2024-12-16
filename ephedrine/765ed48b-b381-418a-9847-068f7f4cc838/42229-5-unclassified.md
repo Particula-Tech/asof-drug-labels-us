@@ -23,7 +23,7 @@ A decrease in uterine blood flow due to maternal hypotension may result in fetal
 Fetal/Neonatal Adverse Reactions
 
 Cases of potential metabolic acidosis in newborns at delivery with maternal ephedrine exposure have been reported in the literature.
-These reports describe umbilical artery pH of ≤7.2 at the time of delivery [see Clinical Pharmacology 12.3].
+These reports describe umbilical artery pH of ≤ 7.2 at the time of delivery [see Clinical Pharmacology 12.3].
 Monitoring of the newborn for signs and symptoms of metabolic acidosis may be required.
 Monitoring of infant’s acid-base status is warranted to ensure that an episode of acidosis is acute and reversible.
 
