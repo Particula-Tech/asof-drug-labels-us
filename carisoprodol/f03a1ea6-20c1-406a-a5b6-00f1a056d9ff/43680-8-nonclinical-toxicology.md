@@ -9,10 +9,10 @@ Long-term studies in animals have not been performed to evaluate the carcinogeni
 Mutagenesis
 
 Carisoprodol was not formally evaluated for genotoxicity.
-In published studies, carisoprodol was mutagenic in the in vitro mouse lymphoma cell assay in the absence of metabolizing enzymes, but was not mutagenic in the presence of metabolizing enzymes.
-Carisoprodol was clastogenic in the in vitro chromosomal aberration assay using Chinese hamster ovary cells with or without the presence of metabolizing enzymes.
+In published studies, carisoprodol was mutagenic in the in vitromouse lymphoma cell assay in the absence of metabolizing enzymes, but was not mutagenic in the presence of metabolizing enzymes.
+Carisoprodol was clastogenic in the in vitrochromosomal aberration assay using Chinese hamster ovary cells with or without the presence of metabolizing enzymes.
 Other types of genotoxic tests resulted in negative findings.
-Carisoprodol was not mutagenic in the Ames reverse mutation assay using S. typhimurium strains with or without metabolizing enzymes, and was not clastogenic in an in vivo mouse micronucleus assay of circulating blood cells.
+Carisoprodol was not mutagenic in the Ames reverse mutation assay using S. typhimuriumstrains with or without metabolizing enzymes, and was not clastogenic in an in vivomouse micronucleus assay of circulating blood cells.
 
 Impairment of Fertility
 

@@ -17,8 +17,8 @@ The proportion of patients who used concomitant acetaminophen, NSAIDs, tramadol,
 The results for the primary efficacy evaluations in the acute, low back pain studies are presented in Table 3.
 
 Table 3.
-Results of the Primary Efficacy EndpointsThe primary efficacy endpoints (Relief from Starting Backache and Global Impression of Change) were assessed by the patients on Study Day 3.
-These endpoints were scored on a 5-point rating scale from 0 (worst outcome) to 4 (best outcome). in Studies 1 and 2
+Results of the Primary Efficacy Endpoints The primary efficacy endpoints (Relief from Starting Backache and Global Impression of Change) were assessed by the patients on Study Day 3.
+These endpoints were scored on a 5-point rating scale from 0 (worst outcome) to 4 (best outcome).in Studies 1 and 2
 
 | Study | Parameter | Placebo | Carisoprodol Tablets 250 mg | Carisoprodol Tablets 350 mg |
 | --- | --- | --- | --- | --- |

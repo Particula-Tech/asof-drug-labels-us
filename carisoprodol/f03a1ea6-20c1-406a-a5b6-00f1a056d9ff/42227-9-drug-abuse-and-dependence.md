@@ -7,7 +7,7 @@ Carisoprodol has been subject to abuse, misuse, and criminal diversion for nonth
 
 ## 9.2 Abuse
 
-Abuse of carisoprodol poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures and other disorders [see Warnings and Precautions (5.2) and Overdosage (10)].
+Abuse of carisoprodol poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures and other disorders [see Warnings and Precautions (5.2)and Overdosage (10)].
 Patients at high risk of carisoprodol abuse may include those with prolonged use of carisoprodol, with a history of drug abuse, or those who use carisoprodol in combination with other abused drugs.
 
 Prescription drug abuse is the intentional non-therapeutic use of a drug, even once, for its rewarding psychological effects.
