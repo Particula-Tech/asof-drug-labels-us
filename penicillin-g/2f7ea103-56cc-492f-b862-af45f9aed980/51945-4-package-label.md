@@ -2,9 +2,7 @@
 
 NDC 0049-0420-05 Rx only
 
-Buffered Pfizerpen® (penicillin G potassium, USP)
-
-For Injection
+Buffered Pfizerpen® (Penicillin G Potassium for Injection, USP)
 
 5,000,000 Units* per vial (Five million units* per vial)
 
@@ -18,9 +16,7 @@ PREMIERProRx®
 
 NDC 0049-0420-10 Contains 10 of NDC 0049-0420-05 Rx only
 
-Pfizerpen® (penicillin G potassium, USP)
-
-For Injection
+Pfizerpen® (Penicillin G Potassium for Injection, USP)
 
 5,000,000 Units* per vial (Five million units* per vial)
 
@@ -32,7 +28,7 @@ PREMIERProRx®
 
 NDC 0049-0430-20 Rx only
 
-Buffered Pfizerpen® (penicillin G potassium, USP)
+Buffered Pfizerpen® (Penicillin G Potassium for Injection, USP)
 
 20,000,000 Units* per vial (Twenty million units* per vial)
 
@@ -46,7 +42,7 @@ NDC 0049-0430-20 Rx only
 
 1 Vial Buffered
 
-Pfizerpen® (penicillin G potassium, USP)
+Pfizerpen® (Penicillin G Potassium for Injection, USP)
 
 20,000,000 Units* per vial (Twenty million units* per vial)
 
