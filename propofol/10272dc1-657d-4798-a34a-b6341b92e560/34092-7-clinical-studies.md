@@ -7,14 +7,18 @@ Most patients were 3 years of age or older.
 The majority of the patients were healthy ASA-PS I or II patients.
 The range of doses in these studies are described in Tables 3 and 4.
 
-| Table 3. Pediatric Induction of Anesthesia |  |  |
-| --- | --- | --- |
-| Age Range | Induction Dose Median (range) | Injection Duration Median (range) |
-| ≥ 3 years to 16 years | 2.5 mg/kg (1 mg/kg to 3.6 mg/kg) | 20 sec (6 sec to 45 sec) |
+Table 3.
+Pediatric Induction of Anesthesia
 
-| Table 4. Pediatric Maintenance of Anesthesia |  |  |
+| Age Range | Induction Dose Median (range) | Injection Duration Median (range) |
 | --- | --- | --- |
+| ≥3 years to 16 years | 2.5 mg/kg (1 mg/kg to 3.6 mg/kg) | 20 sec (6 sec to 45 sec) |
+
+Table 4.
+Pediatric Maintenance of Anesthesia
+
 | Age Range | Maintenance Dosage (mcg/kg/min) | Duration (minutes) |
+| --- | --- | --- |
 | 2 months to 2 years | 199 (82 to 394) | 65 (12 to 282) |
 | 2 to 12 years | 188 (12 to 1,041) | 69 (23 to 374) |
 | >12 through 16 years | 161 (84 to 359) | 69 (26 to 251) |

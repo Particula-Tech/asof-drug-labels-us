@@ -1,5 +1,7 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
+Rx only
+
 NDC 23155-345-44
 
 Propofol Injectable Emulsion, USP
@@ -13,6 +15,8 @@ For Intravenous Administration
 SHAKE WELL BEFORE USING
 
 20 x 20 mL Vials for Single Patient Use Only
+
+Rx only
 
 NDC 23155-345-41
 
@@ -28,6 +32,8 @@ SHAKE WELL BEFORE USING
 
 10 x 20 mL Vials for Single Patient Use Only
 
+Rx only
+
 NDC 23155-345-31
 
 Propofol Injectable Emulsion, USP
@@ -41,6 +47,8 @@ For Intravenous Administration
 SHAKE WELL BEFORE USING
 
 20 mL Vial for Single Patient Use Only
+
+Rx only
 
 NDC 23155-345-42
 
@@ -56,6 +64,8 @@ SHAKE WELL BEFORE USING
 
 20 x 50 mL Vials for Single Patient Use Only
 
+Rx only
+
 NDC 23155-345-32
 
 Propofol Injectable Emulsion, USP
@@ -70,6 +80,8 @@ SHAKE WELL BEFORE USING
 
 50 mL Vial for Single Patient Use Only
 
+Rx only
+
 NDC 23155-345-43
 
 Propofol Injectable Emulsion, USP
@@ -83,6 +95,8 @@ For Intravenous Administration
 SHAKE WELL BEFORE USING
 
 10 x 100 mL Vials for Single Patient Use Only
+
+Rx only
 
 NDC 23155-345-33
 
