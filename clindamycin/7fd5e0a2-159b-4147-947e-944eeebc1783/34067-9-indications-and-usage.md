@@ -5,7 +5,7 @@ The mean percent reductions in lesion counts at the end of treatment in this stu
 
 | Lesions | Clindamycin Phosphate Topical Gel QD N=162 | Vehicle Gel QD N=82 |
 | --- | --- | --- |
-| Inflammatory | 51% | 40%P<0.05 |
+| Inflammatory | 51% | 40% P<0.05 |
 | Noninflammatory | 25% | 12% |
 | Total | 38% | 27% |
 
