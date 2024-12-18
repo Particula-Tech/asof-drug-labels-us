@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Bivalirudin for injection is supplied as a sterile, white to off white lyophilized cake or powder in single-dose, glass vials.
+Bivalirudin for injection, USP is supplied as a sterile, white to off white lyophilized cake or powder in single-dose, glass vials.
 Each vial contains 250 mg of bivalirudin equivalent to an average of 275 mg of bivalirudin trifluoroacetate*.
 
 *The range of bivalirudin trifluoroacetate is 270 to 280 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents.

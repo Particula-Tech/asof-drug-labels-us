@@ -1,13 +1,13 @@
 # 11 DESCRIPTION
 
-Bivalirudin for injection contains bivalirudin which is a specific and reversible direct thrombin inhibitor.
+Bivalirudin for injection, USP contains bivalirudin which is a specific and reversible direct thrombin inhibitor.
 Bivalirudin is a synthetic, 20 amino acid peptide, with the chemical name of D-phenylalanyl-L-prolyl-L-arginyl-L-prolyl-glycyl-glycyl-glycyl-glycyl-L-asparagyl-glycyl-L-aspartyl-L-phenylalanyl-L-glutamyl-L-glutamyl-L-isoleucyl-L-prolyl-L-glutamyl-L-glutamyl-L-tyrosyl-L-leucine.
 The active pharmaceutical ingredient is in the form of bivalirudin trifluoroacetate as a white to off-white powder.
 The chemical name for bivalirudin trifluoroacetate is D-phenylalanyl-L-prolyl-L-arginyl-L-prolyl-glycyl-glycyl-glycyl-glycyl-L-asparagyl-glycyl-L-aspartyl-L-phenylalanyl-L-glutamyl-L-glutamyl-L-isoleucyl-L-prolyl-L-glutamyl-L-glutamyl-L-tyrosyl-L-leucine trifluoroacetate (Figure 1).
 The molecular weight of bivalirudin is 2,180 daltons (anhydrous free base peptide).
 Figure 1: Structure formula for bivalirudin trifluoroacetate
 
-Bivalirudin for injection is supplied as a sterile, white to off white lyophilized cake or powder, in single-dose vials.
+Bivalirudin for injection, USP is supplied as a sterile, white to off white lyophilized cake or powder, in single-dose vials.
 Each vial contains 250 mg bivalirudin, equivalent to an average of 275 mg of bivalirudin trifluoroacetate*, 125 mg mannitol, and sodium hydroxide to adjust the pH to 5 to 6 (equivalent of approximately 12.5 mg sodium).
 When reconstituted with Sterile Water for Injection, the product yields a clear to opalescent, colorless to slightly yellow solution, pH 5 to 6.
 

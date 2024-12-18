@@ -21,7 +21,7 @@ Table 3: Incidences of In-hospital Endpoints in BAT Trial
 | MI | 3.3% | 4.2% |
 | 1 A composite of death or MI or clinical deterioration of cardiac origin requiring revascularization or placement of an aortic balloon pump or angiographic evidence of abrupt vessel closure. |  |  |
 
-AT-BAT Trial(NCT# 00043940) This was a single-arm open-label study in which 51 patients with heparin-induced thrombocytopenia (HIT) or heparin induced thrombocytopenia and thrombosis syndrome (HITTS) underwent PCI.
+AT-BAT Trial (NCT# 00043940) This was a single-arm open-label study in which 51 patients with heparin-induced thrombocytopenia (HIT) or heparin induced thrombocytopenia and thrombosis syndrome (HITTS) underwent PCI.
 The majority of patients achieved adequate ACT at the time of device activation and no major bleeding was reported.
 Evidence for the diagnosis of HIT/HITTS was based on a clinical history of a decrease of platelets in patients after heparin administration [new diagnosis or history of clinically suspected or objectively documented HIT/HITTS defined as either: 1) HIT: positive heparin-induced platelet aggregation (HIPA) or other functional assay where the platelet count has decreased to <100,000/mL (minimum 30% from prior to heparin), or has decreased to <150,000/mL (minimum 40% from prior to heparin), or has decreased as above within hours of receiving heparin in a patient with a recent, previous exposure to heparin; 2) HITTS: thrombocytopenia as above plus arterial or venous thrombosis diagnosed by physician examination/laboratory and/or appropriate imaging studies].
 Patients ranged in age from 48 to 89 years (median 70); weight ranged from 42 to 123 kg (median 76); 50% were male and 50% were female.
