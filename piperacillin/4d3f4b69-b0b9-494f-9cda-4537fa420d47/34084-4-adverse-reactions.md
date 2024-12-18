@@ -5,10 +5,11 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Hypersensitivity Adverse Reactions [see Warnings and Precautions (5.1)]
 - •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
 - •Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.3)]
-- •Hematologic Adverse Reactions [see Warnings and Precautions (5.4)]
-- •Central Nervous System Adverse Reactions [see Warnings and Precautions (5.5)]
-- •Nephrotoxicity in Critically ill Patients [see Warnings and Precautions (5.6)]
-- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.8)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.4)]
+- •Hematologic Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Central Nervous System Adverse Reactions [see Warnings and Precautions (5.6)]
+- •Nephrotoxicity in Critically ill Patients [see Warnings and Precautions (5.7)]
+- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -119,7 +120,7 @@ Table 7: Adverse Reactions from Piperacillin and Tazobactam Injection Plus Amino
 
 Other Trials: Nephrotoxicity
 
-In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin and tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1[see Warnings and Precautions (5.6)].
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin and tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1[see Warnings and Precautions (5.7)].
 
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
@@ -167,6 +168,8 @@ Psychiatric disorders - delirium
 Respiratory - eosinophilic pneumonia
 
 Skin and Appendages - erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative, and linear IgA bullous dermatosis.
+
+Musculoskeletal - rhabdomyolysis
 
 Post-marketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.
 
