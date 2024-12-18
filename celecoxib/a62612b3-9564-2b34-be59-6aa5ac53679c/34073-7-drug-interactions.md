@@ -4,7 +4,7 @@ See Table 3 for clinically significant drug interactions with celecoxib.
 
 Table 3: Clinically Significant Drug Interactions with Celecoxib
 
-| Drugs That Interfere with Hemostasis |  |
+| Drugs that Interfere with Hemostasis |  |
 | --- | --- |
 | Clinical Impact: | Celecoxib and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of celecoxib and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
 | Intervention: | Monitor patients with concomitant use of celecoxib capsules with anticoagulants (e.g., warfarin), antiplatelet drugs (e.g., aspirin), SSRIs, and SNRIs for signs of bleeding [see Warnings and Precautions (5.12)]. |
@@ -35,12 +35,12 @@ Table 3: Clinically Significant Drug Interactions with Celecoxib
 | Pemetrexed |  |
 | Clinical Impact: | Concomitant use of celecoxib capsules and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
 | Intervention: | During concomitant use of celecoxib capsules and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
-| CYP2C9 Inhibitors or inducers |  |
+| CYP2C9 Inhibitors or Inducers |  |
 | Clinical Impact: | Celecoxib metabolism is predominantly mediated via cytochrome P450 (CYP) 2C9 in the liver. Co­-administration of celecoxib with drugs that are known to inhibit CYP2C9 (e.g., fluconazole) may enhance the exposure and toxicity of celecoxib whereas co-administration with CYP2C9 inducers (e.g., rifampin) may lead to compromised efficacy of celecoxib. |
-| Intervention | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2C9 inhibitors or inducers [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2C9 inhibitors or inducers [see Clinical Pharmacology (12.3)]. |
 | CYP2D6 substrates |  |
 | Clinical Impact: | In vitro studies indicate that celecoxib, although not a substrate, is an inhibitor of CYP2D6. Therefore, there is a potential for an in vivo drug interaction with drugs that are metabolized by CYP2D6 (e.g. atomoxetine), and celecoxib may enhance the exposure and toxicity of these drugs. |
-| Intervention | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2D6 substrates [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Evaluate each patient's medical history when consideration is given to prescribing celecoxib. A dosage adjustment may be warranted when celecoxib is administered with CYP2D6 substrates [see Clinical Pharmacology (12.3)]. |
 | Corticosteroids |  |
 | Clinical Impact: | Concomitant use of corticosteroids with celecoxib capsules may increase the risk of GI ulceration or bleeding. |
-| Intervention | Monitor patients with concomitant use of celecoxib capsules with corticosteroids for signs of bleeding [see Warnings and Precautions (5.2)]. |
+| Intervention: | Monitor patients with concomitant use of celecoxib capsules with corticosteroids for signs of bleeding [see Warnings and Precautions (5.2)]. |

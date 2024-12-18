@@ -70,7 +70,7 @@ The following adverse reactions occurred in 0.1 % to 1.9% of patients treated wi
 | Liver and biliary: | Hepatic enzyme increased (including SGOT increased, SGPT increased) |
 | Metabolic and nutritional: | blood urea nitrogen (BUN) increased, creatine phosphokinase (CPK) increased, hypercholesterolemia, hyperglycemia, hypokalemia, NPN increased, creatinine increased, alkaline phosphatase increased, weight increased |
 | Musculoskeletal: | Arthralgia, arthrosis, myalgia, synovitis, tendinitis |
-| Platelets (bleeding or clotting): | Ecchymosis, epistaxis, thrombocythemia, |
+| Platelets (bleeding or clotting): | Ecchymosis, epistaxis, thrombocythemia |
 | Psychiatric: | Anorexia, anxiety, appetite increased, depression, nervousness, somnolence |
 | Hemic: | Anemia |
 | Respiratory: | Bronchitis, bronchospasm, bronchospasm aggravated, cough, dyspnea, laryngitis, pneumonia |
@@ -145,7 +145,7 @@ Doses up to 600 mg/day of celecoxib were studied in primary dysmenorrhea and pos
 The types of adverse events in the analgesia and dysmenorrhea studies were similar to those reported in arthritis studies.
 The only additional adverse event reported was post-dental extraction alveolar osteitis (dry socket) in the post-oral surgery pain studies.
 
-The APC and PreSAP Trials Adverse reactions from long-term, placebo- controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
+The APC and PreSAP Trials Adverse Reactions from Long-term, Placebo- controlled Polyp Prevention Studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:
@@ -178,11 +178,18 @@ The following additional adverse reactions occurred in ≥0.1% and <1% of patien
 The following adverse reactions have been identified during post approval use of celecoxib capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure
 
-| Cardiovascular: | Vasculitis, deep venous thrombosis |
-| --- | --- |
-| General: | Anaphylactoid reaction, angioedema |
-| Liver and biliary: | Liver necrosis, hepatitis, jaundice, hepatic failure |
-| Hemic and lymphatic: | Agranulocytosis, aplastic anemia, pancytopenia, leucopenia |
-| Metabolic: | Hypoglycemia, hyponatremia |
-| Nervous: | Aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage |
-| Renal: | Interstitial nephritis |
+Cardiovascular:Vasculitis, deep venous thrombosis
+
+General: Anaphylactoid reaction, angiodema
+
+Liver and biliary: Liver necrosis, hepatitis, jaundice, hepatic failure
+
+Hemic and lymphatic: Angranulocytosis, aplastic anemia, pancytopenia, leucopenia
+
+Metabolic: Hypogylcemia, hyponatremia
+
+Nervous: Aseptic menigitis, ageusia, anosmia, fatal intracraniel hemorrhage
+
+Renal: Interstitial nephritis
+
+Skin and Appendages: Erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosiphilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE)

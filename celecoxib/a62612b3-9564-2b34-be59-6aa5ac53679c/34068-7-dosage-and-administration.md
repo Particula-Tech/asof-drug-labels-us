@@ -47,4 +47,4 @@ Poor Metabolizers of CYP2C9 Substrates
 
 In adult patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin), initiate treatment with half of the lowest recommended dose.
 
-In patients with JRA who are known or suspected to be poor CYP2C9 metabolizers, consider using alternative treatments [see Use in Specific populations (8.8) and Clinical Pharmacology (12.5)].
+In patients with JRA who are known or suspected to be poor CYP2C9 metabolizers, consider using alternative treatments [see Use in Specific Populations (8.8) and Clinical Pharmaclogy (12.5)].

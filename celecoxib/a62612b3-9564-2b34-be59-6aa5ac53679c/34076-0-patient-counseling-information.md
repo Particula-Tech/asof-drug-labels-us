@@ -8,7 +8,7 @@ Cardiovascular Thrombotic Events Advise patients to be alert for the symptoms of
 Gastrointestinal Bleeding, Ulceration, and Perforation Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their health care provider.
 In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding [see Warnings and Precautions (5.2)].
 
-Hepatotoxicity Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+Hepatotoxicity Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
 If these occur, instruct patients to stop celecoxib capsules and seek immediate medical therapy [see Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
 
 Heart Failure and Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
@@ -16,7 +16,7 @@ Heart Failure and Edema Advise patients to be alert for the symptoms of congesti
 Anaphylactic Reactions Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions, including DRESS Advise patients to stop taking celecoxib capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
+Serious Skin Reactions, Including DRESS Advise patients to stop taking celecoxib capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Female Fertility Advise females of reproductive potential who desire pregnancy that NSAIDs, including celecoxib capsules, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
 
@@ -41,8 +41,3 @@ APOTEX INC. CELECOXIB CAPSULES 50 mg, 100 mg and 200 mg
 | Apotex Corp. |
 | Weston, Florida |
 | 33326 |
-
-Revised: May 2021
-
-Rev.
-11

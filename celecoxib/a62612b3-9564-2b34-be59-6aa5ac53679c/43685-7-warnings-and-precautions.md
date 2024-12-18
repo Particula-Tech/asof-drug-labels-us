@@ -47,7 +47,7 @@ Additionally, patients with advanced liver disease and/or coagulopathy are at in
 Complicated and symptomatic ulcer rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA.
 Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.7)].
 
-Strategies to Minimize the GI Risks in NSAID-treated patients:
+Strategies to Minimize the GI Risks in NSAID-treated Patients:
 
 - Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
@@ -114,7 +114,7 @@ In patients with normal renal function, these effects have been attributed to a 
 ## 5.7 Anaphylactic Reactions
 
 Celecoxib has been associated with anaphylactic reactions in patients with and without known hypersensitivity to celecoxib and in patients with aspirin sensitive asthma.
-Celecoxib capsules are sulfonamides and both NSAIDs and sulfonamides may cause allergic type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people [see Contraindications (4) and Warnings and Precautions (5.8)].
+Celecoxib capsules are sulfonamide and both NSAIDs and sulfonamides may cause allergic type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people [see Contraindications (4) and Warnings and Precautions (5.8)].
 
 Seek emergency help if any anaphylactic reaction occurs.
 
@@ -126,7 +126,7 @@ When celecoxib capsules is used in patients with preexisting asthma (without kno
 
 ## 5.9 Serious Skin Reactions
 
-Serious skin reactions have occurred following treatment with celecoxib capsules, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP).
+Serious skin reactions have occurred following treatment with celecoxib capsules, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FFDE) which may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE).
 These serious events may occur without warning and can be fatal.
 
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of celecoxib capsules at the first appearance of skin rash or any other sign of hypersensitivity.

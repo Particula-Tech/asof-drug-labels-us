@@ -20,7 +20,7 @@ Celecoxib doses of 100 mg twice daily and 200 mg twice daily were similar in eff
 Although celecoxib 100 mg twice daily and 200 mg twice daily provided similar overall effectiveness, some patients derived additional benefit from the 200 mg twice daily dose.
 Doses of 400 mg twice daily provided no additional benefit above that seen with 100 mg to 200 mg twice daily.
 
-## 14.3 Juvenile Rheumatoid Arthritis
+## 14.3 Juvenile Rheumatoid Arthritis (NCT0062925)
 
 (NCT00652925)
 
@@ -39,12 +39,12 @@ In the 12-week study, there was no difference in the extent of improvement betwe
 The ASAS 20 defines a responder as improvement from baseline of at least 20% and an absolute improvement of at least 10 mm, on a 0 mm to 100 mm scale, in at least three of the four following domains: patient global pain, Bath Ankylosing Spondylitis Functional Index, and inflammation.
 The responder analysis also demonstrated no change in the responder rates beyond 6 weeks.
 
-## 14.5 Analgesia, including Primary Dysmenorrhea
+## 14.5 Analgesia, Including Primary Dysmenorrhea
 
 In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, and primary dysmenorrhea, celecoxib relieved pain that was rated by patients as moderate to severe.
 Single doses [see Dosage and Administration (2.6)] of celecoxib provided pain relief within 60 minutes.
 
-## 14.6 Cardiovascular Outcomes Trial
+## 14.6 Cardiovascular Outcomes Trial: Prospective Randomized Evaluation of Celecoxib Capsules Integrated Safety cs. Ibuprofen or Naproxen (PRECISION: NCT00346216)
 
 : Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION; NCT00346216)
 
