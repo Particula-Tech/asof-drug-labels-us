@@ -8,7 +8,5 @@ The capsules should be protected from light, moisture and humidity, and stored a
 
 Dispense in a tight, light-resistant container as defined in USP/NF.
 
-Manufactured for: Bionpharma Inc., 600 Alexander Road, Princeton, NJ 08540, USA
-
-Rev.
-05/2020
+Manufactured for: Bionpharma Inc. Princeton, NJ 08540, USA Rev.
+12/2022
