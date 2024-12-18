@@ -6,7 +6,7 @@ EFUDEX Topical Solution consists of 2% or 5% fluorouracil on a weight/weight bas
 
 EFUDEX Cream contains 5% fluorouracil in a vanishing cream base consisting of methylparaben, polysorbate 60, propylene glycol, propylparaben, purified water, stearyl alcohol, and white petrolatum.
 
-Chemically, fluorouracil is a 5-fluoro-2,4(1H,3H)-pyrimidinedione.
+Chemically, fluorouracil is a 5-fluoro-2,4(1 H,3 H)-pyrimidinedione.
 It is a white to practically white crystalline powder which is sparingly soluble in water and slightly soluble in alcohol.
 One gram of fluorouracil is soluble in 100 mL of propylene glycol.
 The molecular weight of 5-fluorouracil is 130.08 and the structural formula is:
@@ -17,7 +17,7 @@ There is evidence that the metabolism of fluorouracil in the anabolic pathway bl
 In this manner, fluorouracil interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA).
 Since DNA and RNA are essential for cell division and growth, the effect of fluorouracil may be to create a thymine deficiency which provokes unbalanced growth and death of the cell.
 The effects of DNA and RNA deprivation are most marked on those cells which grow more rapidly and take up fluorouracil at a more rapid rate.
-The catabolic metabolism of fluorouracil results in degradation products (e.g., CO2, urea, α-fluoro-β-alanine) which are inactive.
+The catabolic metabolism of fluorouracil results in degradation products (e.g., CO 2, urea, α-fluoro-β-alanine) which are inactive.
 
 Systemic absorption studies of topically applied fluorouracil have been performed on patients with actinic keratoses using tracer amounts of 14C-labeled fluorouracil added to a 5% preparation.
 All patients had been receiving nonlabeled fluorouracil until the peak of the inflammatory reaction occurred (2 to 3 weeks), ensuring that the time of maximum absorption was used for measurement.
@@ -25,7 +25,7 @@ One gram of labeled preparation was applied to the entire face and neck and left
 Urine samples were collected.
 At the end of 3 days, the total recovery ranged between 0.48% and 0.94% with an average of 0.76%, indicating that approximately 5.98% of the topical dose was absorbed systemically.
 If applied twice daily, this would indicate systemic absorption of topical fluorouracil to be in the range of 5 to 6 mg per daily dose of 100 mg.
-In an additional study, negligible amounts of labeled material were found in plasma, urine, and expired CO2 after 3 days of treatment with topically applied 14C-labeled fluorouracil.
+In an additional study, negligible amounts of labeled material were found in plasma, urine, and expired CO 2after 3 days of treatment with topically applied 14C-labeled fluorouracil.
 
 # INDICATIONS AND USAGE:
 
@@ -48,8 +48,7 @@ One birth defect (ventricular septal defect) and cases of miscarriage have been 
 Multiple birth defects have been reported in a fetus of a patient treated with intravenous fluorouracil.
 
 Animal reproduction studies have not been conducted with EFUDEX.
-Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats, and hamsters when given at doses equivalent to the usual human intravenous dose; however, the amount of fluorouracil absorbed systemically after topical administration to actinic keratoses is minimal (see CLINICAL PHARMACOLOGY).
-Fluorouracil exhibited maximum teratogenicity when given to mice as single intraperitoneal injections of 10 to 40 mg/kg on Day 10 or 12 of gestation.
+Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats, and hamsters when given at doses equivalent to the usual human intravenous dose; however, the amount of fluorouracil absorbed systemically after topical administration to actinic keratoses is minimal (see CLINICAL PHARMACOLOGY).Fluorouracil exhibited maximum teratogenicity when given to mice as single intraperitoneal injections of 10 to 40 mg/kg on Day 10 or 12 of gestation.
 Similarly, intraperitoneal doses of 12 to 37 mg/kg given to rats between Days 9 and 12 of gestation and intramuscular doses of 3 to 9 mg/kg given to hamsters between Days 8 and 11 of gestation were teratogenic and/or embryotoxic (i.e., resulted in increased resorptions or embryolethality).
 In monkeys, divided doses of 40 mg/kg given between Days 20 and 24 of gestation were not teratogenic.
 Doses higher than 40 mg/kg resulted in abortion.
@@ -81,9 +80,9 @@ Although this case was observed with 5% fluorouracil cream, it is unknown whethe
 
 # PRECAUTIONS:
 
-General: There is a possibility of increased absorption through ulcerated or inflamed skin.
+General:There is a possibility of increased absorption through ulcerated or inflamed skin.
 
-Information for Patients: Patients should be forewarned that the reaction in the treated areas may be unsightly during therapy and, usually, for several weeks following cessation of therapy.
+Information for Patients:Patients should be forewarned that the reaction in the treated areas may be unsightly during therapy and, usually, for several weeks following cessation of therapy.
 Patients should be instructed to avoid exposure to ultraviolet rays during and immediately following treatment with EFUDEX because the intensity of the reaction may be increased.
 If EFUDEX is applied with the fingers, the hands should be washed immediately afterward.
 EFUDEX should not be applied on the eyelids or directly into the eyes, nose, or mouth because irritation may occur.
@@ -93,17 +92,17 @@ Avoid allowing pets to contact the EFUDEX container or the skin where EFUDEX has
 Store EFUDEX out of reach of pets.
 Safely discard or clean any cloth or applicator that may retain EFUDEX and avoid leaving any residues of EFUDEX on your hands, clothing, carpeting or furniture.
 
-Laboratory Tests: Solar keratoses which do not respond should be biopsied to confirm the diagnosis.
+Laboratory Tests:Solar keratoses which do not respond should be biopsied to confirm the diagnosis.
 Follow-up biopsies should be performed as indicated in the management of superficial basal cell carcinoma.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Adequate long-term studies in animals to evaluate carcinogenic potential have not been conducted with fluorouracil.
+Carcinogenesis, Mutagenesis, Impairment of Fertility:Adequate long-term studies in animals to evaluate carcinogenic potential have not been conducted with fluorouracil.
 Studies with the active ingredient of EFUDEX, 5-fluorouracil, have shown positive effects in in vitro tests for mutagenicity and on impairment of fertility.
 
 5-Fluorouracil was positive in three in vitro cell neoplastic transformation assays.
 In the C3H/10T½ clone 8 mouse embryo cell system, the resulting morphologically transformed cells formed tumors when inoculated into immunosuppressed syngeneic mice.
 
-While no evidence for mutagenic activity was observed in the Ames test (three studies), fluorouracil has been shown to be mutagenic in the survival count rec-assay with Bacillus subtilis and in the Drosophila wing-hair spot test.
-Fluorouracil produced petite mutations in Saccharomyces cerevisiae and was positive in the micronucleus test (bone marrow cells of male mice).
+While no evidence for mutagenic activity was observed in the Ames test (three studies), fluorouracil has been shown to be mutagenic in the survival count rec-assay with Bacillus subtilisand in the Drosophila wing-hair spot test.
+Fluorouracil produced petite mutations in Saccharomyces cerevisiaeand was positive in the micronucleus test (bone marrow cells of male mice).
 
 Fluorouracil was clastogenic in vitro (i.e., chromatid gaps, breaks, and exchanges) in Chinese hamster fibroblasts at concentrations of 1.0 and 2.0 mcg/mL and has been shown to increase sister chromatid exchange in vitro in human lymphocytes.
 In addition, 5-fluorouracil has been reported to produce an increase in numerical and structural chromosome aberrations in peripheral lymphocytes of patients treated with this product.
@@ -114,12 +113,12 @@ However, in studies with a strain of mouse which is sensitive to the induction o
 In female rats, fluorouracil administered intraperitoneally at doses of 25 and 50 mg/kg during the preovulatory phase of oogenesis significantly reduced the incidence of fertile matings, delayed the development of preimplantation and postimplantation embryos, increased the incidence of preimplantation lethality and induced chromosomal anomalies in these embryos.
 Single-dose intravenous and intraperitoneal injections of 5-fluorouracil have been reported to kill differentiated spermatogonia and spermatocytes (at 500 mg/kg) and to produce abnormalities in spermatids (at 50 mg/kg) in mice.
 
-Pregnancy: See CONTRAINDICATIONS.
+Pregnancy:See CONTRAINDICATIONS.
 
-Nursing Mothers: It is not known whether EFUDEX is excreted in human milk.
+Nursing Mothers:It is not known whether EFUDEX is excreted in human milk.
 Because there is some systemic absorption of fluorouracil after topical administration (see CLINICAL PHARMACOLOGY), because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue use of the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use: Safety and effectiveness in children have not been established.
+Pediatric Use:Safety and effectiveness in children have not been established.
 
 # ADVERSE REACTIONS:
 
@@ -130,17 +129,17 @@ Leukocytosis is the most frequent hematological side effect.
 
 Although a causal relationship is remote, other adverse reactions which have been reported infrequently are:
 
-Central Nervous System: Emotional upset, insomnia, irritability.
+Central Nervous System:Emotional upset, insomnia, irritability.
 
-Gastrointestinal: Medicinal taste, stomatitis.
+Gastrointestinal:Medicinal taste, stomatitis.
 
-Hematological: Eosinophilia, thrombocytopenia, toxic granulation.
+Hematological:Eosinophilia, thrombocytopenia, toxic granulation.
 
-Integumentary: Alopecia, blistering, bullous pemphigoid, discomfort, ichthyosis, scaling, suppuration, swelling, telangiectasia, tenderness, urticaria, skin rash.
+Integumentary:Alopecia, blistering, bullous pemphigoid, discomfort, ichthyosis, scaling, suppuration, swelling, telangiectasia, tenderness, urticaria, skin rash.
 
-Special Senses: Conjunctival reaction, corneal reaction, lacrimation, nasal irritation.
+Special Senses:Conjunctival reaction, corneal reaction, lacrimation, nasal irritation.
 
-Miscellaneous: Herpes simplex.
+Miscellaneous:Herpes simplex.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 and/or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
@@ -148,10 +147,10 @@ To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-32
 
 There have been no reports of overdosage with EFUDEX.
 
-The oral LD50 for the 5% topical cream was 234 mg/kg in rats and 39 mg/kg in dogs.
+The oral LD 50for the 5% topical cream was 234 mg/kg in rats and 39 mg/kg in dogs.
 These doses represented 11.7 and 1.95 mg/kg of fluorouracil, respectively.
-Studies with a 5% topical solution yielded an oral LD50 of 214 mg/kg in rats and 28.5 mg/kg in dogs, corresponding to 10.7 and 1.43 mg/kg of fluorouracil, respectively.
-The topical application of the 5% cream to rats yielded an LD50 of greater than 500 mg/kg.
+Studies with a 5% topical solution yielded an oral LD 50of 214 mg/kg in rats and 28.5 mg/kg in dogs, corresponding to 10.7 and 1.43 mg/kg of fluorouracil, respectively.
+The topical application of the 5% cream to rats yielded an LD 50of greater than 500 mg/kg.
 
 # DOSAGE AND ADMINISTRATION:
 
@@ -160,13 +159,12 @@ When EFUDEX is applied to a lesion, a response occurs with the following sequenc
 EFUDEX should be applied preferably with a nonmetal applicator or suitable glove.
 If EFUDEX is applied with the fingers, the hands should be washed immediately afterward.
 
-Actinic or Solar Keratosis: Apply cream or solution twice daily in an amount sufficient to cover the lesions.
+Actinic or Solar Keratosis:Apply cream or solution twice daily in an amount sufficient to cover the lesions.
 Medication should be continued until the inflammatory response reaches the erosion stage, at which time use of the drug should be terminated.
 The usual duration of therapy is from 2 to 4 weeks.
 Complete healing of the lesions may not be evident for 1 to 2 months following cessation of EFUDEX therapy.
 
-Superficial Basal Cell Carcinomas: Only the 5% strength is recommended.
-Apply cream or solution twice daily in an amount sufficient to cover the lesions.
+Superficial Basal Cell Carcinomas:Only the 5% strength is recommended.Apply cream or solution twice daily in an amount sufficient to cover the lesions.
 Treatment should be continued for at least 3 to 6 weeks.
 Therapy may be required for as long as 10 to 12 weeks before the lesions are obliterated.
 As in any neoplastic condition, the patient should be followed for a reasonable period of time to determine if a cure has been obtained.
