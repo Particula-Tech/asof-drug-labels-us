@@ -69,7 +69,7 @@ Keep ALKINDI SPRINKLE and all medicines out of the reach of children.
 
 ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany
 
-ALKINDI SPRINKLE® is a registered trademark of Diurnal Limited.
+ALKINDI SPRINKLE® is a registered trademark of Neurocrine UK Limited.
 
 ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740; and other patents in other countries internationally.
 
@@ -77,4 +77,4 @@ For more information, go to www.alkindisprinkle.com or call 1-833-343-2500.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2022
+Revised: 12/2024
