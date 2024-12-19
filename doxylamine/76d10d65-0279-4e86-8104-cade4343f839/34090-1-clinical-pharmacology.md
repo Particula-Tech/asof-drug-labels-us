@@ -19,13 +19,13 @@ Blood samples for pharmacokinetic analysis were collected pre-and post-dose on D
 
 Doxylamine and pyridoxine are absorbed in the gastrointestinal tract, mainly in the jejunum.
 
-The Cmax of doxylamine and pyridoxine are achieved within 7.5 and 5.5 hours, respectively (see Table 2).
+The C maxof doxylamine and pyridoxine are achieved within 7.5 and 5.5 hours, respectively (see Table 2).
 
 Table 2 – Single-Dose and Multiple-Dose Pharmacokinetics of Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets in Healthy Non-Pregnant Adult Women
 
 |  | Single Dose |  |  | Multiple Dose |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| AUC0-inf | Cmax | Tmax | AUC0-inf | Cmax | Tmax |  |
+| AUC 0-inf | C max | T max | AUC 0-inf | C max | T max |  |
 | (ng•h/mL) | (ng/mL) | (h) | (ng•h/mL) | (ng/mL) | (h) |  |
 | Doxylamine | 1280.9 ± 369.3 | 83.3 ± 20.6 | 7.2 ± 1.9 | 3721.5 ± 1318.5 | 168.6 ± 38.5 | 7.8 ± 1.6 |
 | Pyridoxine | 43.4 ± 16.5 | 32.6 ± 15.0 | 5.7 ± 1.5 | 64.5 ± 36.4 | 46.1 ± 28.3 | 5.6 ± 1.3 |
@@ -34,7 +34,7 @@ Table 2 – Single-Dose and Multiple-Dose Pharmacokinetics of Doxylamine Succina
 | Pyridoxamine | 4.1 ± 2.7 | 0.5 ± 0.7 | 5.9 ± 2.1 | 2.6 ± 0.8 | 0.5 ± 0.2 | 6.6 ± 1.4 |
 | Pyridoxamine 5'-phosphate | 5.2 ± 3.8 | 0.7 ± 0.5 | 14.8 ± 6.6 | 94.5 ± 58.0 | 2.3 ± 1.7 | 12.4 ± 11.2 |
 
-Multiple-dose administration of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets results in increased concentrations of doxylamine as well as increases in doxylamine Cmax and AUC0-last of absorption.
+Multiple-dose administration of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets results in increased concentrations of doxylamine as well as increases in doxylamine C maxand AUC 0-lastof absorption.
 The time to reach the maximum concentration is not affected by multiple doses.
 The mean accumulation index is more than 1.0 suggesting that doxylamine accumulates following multiple dosing (see Table 3).
 
@@ -43,7 +43,7 @@ The time to reach the maximum concentration is not affected by multiple doses (s
 
 Table 3 – Pharmacokinetics of Doxylamine and Pyridoxine Following Single Dose and Multiple Dose Administration of Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets to Healthy Non-Pregnant Adult Women
 
-|  |  | AUC0-last (ng•h/mL) | AUC0-inf (ng•h/mL) | Cmax (ng/mL) | Tmax (h) | T1/2el (h) |
+|  |  | AUC 0-last(ng•h/mL) | AUC 0-inf(ng•h/mL) | C max(ng/mL) | T max(h) | T 1/2el(h) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Doxylamine Mean±SD N=18 | Single | 911.4 ± 205.6 | 1280.9 ± 369.3 | 83.3 ± 20.6 | 7.2 ± 1.9 | 10.1 ± 2.1 |
 | Multiple | 3661.3 ± 1279.2 | 3721.5 ± 1318.5 | 168.6 ± 38.5 | 7.8 ± 1.6 | 11.9 ± 3.3 |  |
@@ -56,14 +56,14 @@ The administration of food delays the absorption of both doxylamine and pyridoxi
 This delay is associated with a lower peak concentration of doxylamine, but the extent of absorption is not affected (see Table 4).
 
 The effect of food on the peak concentration and the extent of absorption of the pyridoxine component is more complex because the pyridoxal, pyridoxamine, pyridoxal 5’-phosphate and pyridoxamine 5’-phosphate metabolites also contribute to the biological activity.
-Food significantly reduces the bioavailability of pyridoxine, lowering its Cmax and AUC by approximately 50% compared to fasting conditions.
-Similarly, food significantly reduces pyridoxal AUC and reduces its Cmax by 50% compared to fasting conditions.
-In contrast, food slightly increases pyridoxal 5’-phosphate Cmax and extent of absorption.
+Food significantly reduces the bioavailability of pyridoxine, lowering its C maxand AUC by approximately 50% compared to fasting conditions.
+Similarly, food significantly reduces pyridoxal AUC and reduces its C maxby 50% compared to fasting conditions.
+In contrast, food slightly increases pyridoxal 5’-phosphate C maxand extent of absorption.
 As for pyridoxamine and pyridoxamine 5’-phosphate, the rate and extent of absorption seem to decrease under fed conditions.
 
 Table 4 – Pharmacokinetics of Doxylamine and Pyridoxine Following Administration of Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets Under Fed and Fasted Conditions in Healthy Non-Pregnant Adult Women
 
-|  |  | AUC0-t (ng•h/mL) | AUC0-inf (ng•h/mL) | Cmax (ng/mL) | Tmax (h) | T1/2el (h) |
+|  |  | AUC 0-t(ng•h/mL) | AUC 0-inf(ng•h/mL) | C max(ng/mL) | T max(h) | T 1/2el(h) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Doxylamine Mean±SD N=42 | Fasted | 1407.2 ± 336.9 | 1447.9 ± 332.2 | 94.9 ± 18.4 | 5.1 ± 3.4 | 12.6 ± 3.4 |
 | Fed | 1488.0 ± 463.2 | 1579.0 ± 422.7 N=37 | 75.7 ± 16.6 | 14.9 ± 7.4 | 12.5 ± 2.9 |  |
@@ -87,9 +87,9 @@ The principal metabolites of doxylamine, N-desmethyl-doxylamine and N, N-didesme
 
 The terminal elimination half-life of doxylamine and pyridoxine are 12.5 hours and 0.5 hours, respectively (see Table 5).
 
-Table 5 – Terminal Elimination Half-Life (T1/2el) for Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets Administered as a Single Dose of Two Tablets under Fasting Conditions in Healthy Non-Pregnant Adult Women
+Table 5 – Terminal Elimination Half-Life (T 1/2el) for Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets Administered as a Single Dose of Two Tablets under Fasting Conditions in Healthy Non-Pregnant Adult Women
 
-|  | T1/2el (h) |
+|  | T 1/2el (h) |
 | --- | --- |
 | Doxylamine | 12.6 ± 3.4 |
 | Pyridoxine | 0.4 ± 0.2 |
@@ -100,8 +100,8 @@ Table 5 – Terminal Elimination Half-Life (T1/2el) for Doxylamine Succinate and
 
 Use in Specific Populations
 
-Race: No pharmacokinetic studies have been conducted related to race.
+Race:No pharmacokinetic studies have been conducted related to race.
 
-Hepatic Impairment: No pharmacokinetic studies have been conducted in hepatic impaired patients.
+Hepatic Impairment:No pharmacokinetic studies have been conducted in hepatic impaired patients.
 
-Renal Impairment: No pharmacokinetic studies have been conducted in renal impaired patients.
+Renal Impairment:No pharmacokinetic studies have been conducted in renal impaired patients.

@@ -15,7 +15,7 @@ Adverse reactions for doxylamine succinate and pyridoxine hydrochloride delayed-
 
 Table 1: Number (Percent) of Subjects with ≥ 5 Percent Adverse Reactions in a 15-Day Placebo-Controlled Study of Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets (Only Those Adverse Reactions Occurring at an Incidence ≥ 5 Percent and at a Higher Incidence with Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets than Placebo are Shown)
 
-|  | Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets (N = 133) | Placebo (n = 128) |
+|  | Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets(N = 133) | Placebo(n = 128) |
 | --- | --- | --- |
 | Somnolence | 19 (14.3%) | 15 (11.7%) |
 
