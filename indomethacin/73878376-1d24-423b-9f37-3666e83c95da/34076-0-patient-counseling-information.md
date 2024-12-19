@@ -49,8 +49,10 @@ Use of NSAIDs and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with INDOCIN until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by:Patheon Inc. Whitby, Ontario L1N 5Z5, Canada
+Manufactured by: Patheon Inc. Whitby, Ontario L1N 5Z5, Canada
 
-Distributed by:Zyla Life Sciences US Inc., Wayne, PA 19087©2019 Zyla Life Sciences US Inc. All rights reserved.
+Distributed by: Zyla Life Sciences US Inc., Wayne, PA 19087
 
-LBL# 801.02
+©2024 Zyla Life Sciences US Inc. All rights reserved.
+
+LBL# 801.03

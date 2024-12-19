@@ -116,7 +116,7 @@ As symptoms subside, the total daily dosage should be reduced to the lowest leve
 ## 8.5 Geriatric Use
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
+If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14)].
 
 Indomethacin may cause confusion or rarely, psychosis [see Adverse Reactions (6.1)]; physicians should remain alert to the possibility of such adverse effects in the elderly.
 

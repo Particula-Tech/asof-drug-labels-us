@@ -5,8 +5,6 @@ The chemical name is -(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indole-3-acetic ac
 The molecular weight is 357.8.
 Its molecular formula is C19H16ClNO4, and it has the following chemical structure.
 
-chemical structure
-
 Indomethacin is a white to yellow crystalline powder.
 It is practically insoluble in water and sparingly soluble in alcohol.
 Indomethacin has a pKa of 4.5 and is stable in neutral or slightly acidic media and decomposes in strong alkali.

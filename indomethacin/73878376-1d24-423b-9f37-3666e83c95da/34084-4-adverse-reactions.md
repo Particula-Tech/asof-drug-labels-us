@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -65,3 +65,10 @@ Hematologic: Although there have been several reports of leukemia, the supportin
 Genitourinary: Urinary frequency
 
 A rare occurrence of fulminant necrotizing fasciitis, particularly in association with Group Aβ hemolytic streptococcus, has been described in persons treated with nonsteroidal anti-inflammatory agents, including indomethacin, sometimes with fatal outcome
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of indomethacin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).
