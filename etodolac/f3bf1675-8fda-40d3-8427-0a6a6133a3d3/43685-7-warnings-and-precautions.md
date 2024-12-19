@@ -90,11 +90,14 @@ Etodolac extended-release tablets should not be given to patients with the aspir
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
-## Skin Reactions
+## Serious Skin Reactions
 
-NSAIDs, including etodolac extended-release tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including etodolac, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of etodolac extended-release tablets at the first appearance of skin rash or any other sign of hypersensitivity.
+Etodolac extended-release tablets is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 ## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -174,10 +177,8 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. Fetal Toxicity
-
-Inform pregnant women to avoid use of etodolac extended-release tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
-If treatment with etodolac extended-release tablets is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
+7. Fetal Toxicity Inform pregnant women to avoid use of etodolac extended-release tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+   If treatment with etodolac extended-release tablets is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
 
 ## Laboratory Tests
 

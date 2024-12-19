@@ -26,4 +26,4 @@ Ltd. Kfar Saba, 4410202, Israel
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-L 4/2022
+M 7/2024

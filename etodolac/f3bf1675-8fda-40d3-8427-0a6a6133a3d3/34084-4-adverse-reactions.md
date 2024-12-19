@@ -62,7 +62,7 @@ Nervous system - coma, convulsions, hallucinations, meningitis
 
 Respiratory - bronchitis, pneumonia, respiratory depression, sinusitis
 
-Skin and appendages - alopecia, exfoliative dermatitis, maculopapular rash, photosensitivity, skin peeling, Stevens-Johnson syndrome, toxic epidermal necrosis
+Skin and appendages - alopecia, exfoliative dermatitis, maculopapular rash, photosensitivity, skin peeling, Stevens-Johnson Syndrome, toxic epidermal necrosis (TEN), and fixed drug eruption (FDE) (see WARNINGS).
 
 Special senses - conjunctivitis, deafness, hearing impairment, taste perversion
 
