@@ -30,21 +30,21 @@ In the randomized trial in adult patients with newly diagnosed chronic phase CML
 After a minimum of 60 months of follow-up, the cumulative discontinuation rate was 39%.
 Among the 1618 patients with chronic phase CML, drug-related adverse reactions leading to discontinuation were reported in 329 (20.3%) patients; among the 1094 patients with advanced phase CML or Ph+ ALL, drug-related adverse reactions leading to discontinuation were reported in 191 (17.5%) patients.
 
-Adverse reactions reported in ≥10% of adult patients, and other adverse reactions of interest, in a randomized trial in patients with newly diagnosed chronic phase CML at a median follow-up of approximately 60 months are presented in Table 2.
+Adverse reactions reported in 10% of adult patients, and other adverse reactions of interest, in a randomized trial in patients with newly diagnosed chronic phase CML at a median follow-up of approximately 60 months are presented in Table 2.
 
-Adverse reactions reported in ≥10% of adult patients treated at the recommended dose of 100 mg once daily (n=165), and other adverse reactions of interest, in a randomized dose-optimization trial of patients with chronic phase CML resistant or intolerant to prior imatinib therapy at a median follow-up of approximately 84 months are presented in Table 4.
+Adverse reactions reported in 10% of adult patients treated at the recommended dose of 100 mg once daily (n=165), and other adverse reactions of interest, in a randomized dose-optimization trial of patients with chronic phase CML resistant or intolerant to prior imatinib therapy at a median follow-up of approximately 84 months are presented in Table 4.
 
 Drug-related serious adverse reactions (SARs) were reported for 16.7% of adult patients in the randomized trial of patients with newly diagnosed chronic phase CML.
-Serious adverse reactions reported in ≥5% of patients included pleural effusion (5%).
+Serious adverse reactions reported in 5% of patients included pleural effusion (5%).
 
 Drug-related SARs were reported for 26.1% of patients treated at the recommended dose of 100 mg once daily in the randomized dose-optimization trial of adult patients with chronic phase CML resistant or intolerant to prior imatinib therapy.
-Serious adverse reactions reported in ≥5% of patients included pleural effusion (10%).
+Serious adverse reactions reported in 5% of patients included pleural effusion (10%).
 
 Chronic Myeloid Leukemia (CML)
 
 Adverse reactions (excluding laboratory abnormalities) that were reported in at least 10% of adult patients are shown in Table 2 for newly diagnosed patients with chronic phase CML and Tables 4 and 6 for CML patients with resistance or intolerance to prior imatinib therapy.
 
-Table 2: Adverse Reactions Reported in ≥10% of Adult Patients with Newly Diagnosed Chronic Phase CML (Minimum of 60 Months Follow-up)
+Table 2: Adverse Reactions Reported in 10% of Adult Patients with Newly Diagnosed Chronic Phase CML (Minimum of 60 Months Follow-up)
 
 | Adverse Reaction | Percent (%) of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -74,11 +74,11 @@ Table 2: Adverse Reactions Reported in ≥10% of Adult Patients with Newly Diagn
 | Vomiting | 5 | 12 | 0 | 0 |
 | Muscle spasms | 5 | 21 | 0 | <1 |
 
-aIncludes cardiac failure acute, cardiac failure congestive, cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and left ventricular dysfunction. bIncludes erythema, erythema multiforme, rash, rash generalized, rash macular, rash papular, rash pustular, skin exfoliation, and rash vesicular. cAdverse reaction of special interest with <10% frequency. dIncludes conjunctival hemorrhage, ear hemorrhage, ecchymosis, epistaxis, eye hemorrhage, gingival bleeding, hematoma, hematuria, hemoptysis, intra-abdominal hematoma, petechiae, scleral hemorrhage, uterine hemorrhage, and vaginal hemorrhage
+a Includes cardiac failure acute, cardiac failure congestive, cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and left ventricular dysfunction. b Includes erythema, erythema multiforme, rash, rash generalized, rash macular, rash papular, rash pustular, skin exfoliation, and rash vesicular. c Adverse reaction of special interest with <10% frequency. d Includes conjunctival hemorrhage, ear hemorrhage, ecchymosis, epistaxis, eye hemorrhage, gingival bleeding, hematoma, hematuria, hemoptysis, intra-abdominal hematoma, petechiae, scleral hemorrhage, uterine hemorrhage, and vaginal hemorrhage
 
-A comparison of cumulative rates of adverse reactions reported in ≥10% of patients with minimum follow-up of 1 and 5 years in a randomized trial of newly diagnosed patients with chronic phase CML treated with dasatinib are shown in Table 3.
+A comparison of cumulative rates of adverse reactions reported in 10% of patients with minimum follow-up of 1 and 5 years in a randomized trial of newly diagnosed patients with chronic phase CML treated with dasatinib are shown in Table 3.
 
-Table 3: Adverse Reactions Reported in ≥10% of Adult Patients with Newly Diagnosed Chronic Phase CML in the Dasatinib-Treated Arm (n=258)
+Table 3: Adverse Reactions Reported in 10% of Adult Patients with Newly Diagnosed Chronic Phase CML in the Dasatinib-Treated Arm (n=258)
 
 | Adverse Reaction | Percent (%) of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -100,11 +100,11 @@ Table 3: Adverse Reactions Reported in ≥10% of Adult Patients with Newly Diagn
 | Fatigue | 8 | <1 | 11 | <1 |  |
 | Nausea | 8 | 0 | 10 | 0 |  |
 
-aIncludes cardiac failure acute, cardiac failure congestive, cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and left ventricular dysfunction. bIncludes erythema, erythema multiforme, rash, rash generalized, rash macular, rash papular, rash pustular, skin exfoliation, and rash vesicular
+a Includes cardiac failure acute, cardiac failure congestive, cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and left ventricular dysfunction. bIncludes erythema, erythema multiforme, rash, rash generalized, rash macular, rash papular, rash pustular, skin exfoliation, and rash vesicular
 
 At 60 months, there were 26 deaths in dasatinib-treated patients (10.1%) and 26 deaths in imatinib-treated patients (10.1%); 1 death in each group was assessed by the investigator as related to study therapy.
 
-Table 4: Adverse Reactions Reported in ≥10% of Adult Patients with Chronic Phase CML Resistant or Intolerant to Prior Imatinib Therapy (minimum of 84 months follow-up)
+Table 4: Adverse Reactions Reported in 10% of Adult Patients with Chronic Phase CML Resistant or Intolerant to Prior Imatinib Therapy (minimum of 84 months follow-up)
 
 | Adverse Reaction | Percent (%) of Patients |  |
 | --- | --- | --- |
@@ -134,7 +134,7 @@ Table 4: Adverse Reactions Reported in ≥10% of Adult Patients with Chronic Pha
 | Pain | 11 | 1 |
 | Constipation | 10 | 1 |
 
-aIncludes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular.
+a Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular.
 
 Cumulative rates of selected adverse reactions that were reported over time in patients treated with the 100 mg once daily recommended starting dose in a randomized dose-optimization trial of imatinib-resistant or -intolerant patients with chronic phase CML are shown in Table 5.
 
@@ -154,9 +154,9 @@ Table 5: Selected Adverse Reactions Reported in Adult Dose Optimization Trial (I
 | Hemorrhage | 11 | 1 | 11 | 1 | 12 | 1 |
 | Gastrointestinal bleeding | 2 | 1 | 2 | 1 | 2 | 1 |
 
-aRandomized dose-optimization trial results reported in the recommended starting dose of 100 mg once daily (n=165) population.
+a Randomized dose-optimization trial results reported in the recommended starting dose of 100 mg once daily (n=165) population.
 
-Table 6: Adverse Reactions Reported in ≥10% of Adult Patients with Advanced Phase CML Resistant or Intolerant to Prior Imatinib Therapy
+Table 6: Adverse Reactions Reported in 10% of Adult Patients with Advanced Phase CML Resistant or Intolerant to Prior Imatinib Therapy
 
 | Adverse Reaction | Percent (%) of Patients |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -186,7 +186,7 @@ Table 6: Adverse Reactions Reported in ≥10% of Adult Patients with Advanced Ph
 | Pyrexia | 11 | 2 | 18 | 3 | 6 | 0 |
 | Febrile neutropenia | 4 | 4 | 12 | 12 | 12 | 12 |
 
-aIncludes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. bIncludes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular.
+a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular.
 
 Adverse reactions associated with bone growth and development were reported in 5 (5.2%) of pediatric patients with chronic phase CML [see Warnings and Precautions (5.10)].
 
@@ -210,7 +210,7 @@ Table 7: CTC Grade 3/4 Laboratory Abnormalities in Adult Patients with Newly Dia
 |  | Dasatinib(n=258) | Imatinib(n=258) |
 | --- | --- | --- |
 | Percent (%) of Patients |  |  |
-| Hematology Parameters |  |  |
+| Hematology Parameters* |  |  |
 | Neutropenia | 29 | 24 |
 | Thrombocytopenia | 22 | 14 |
 | Anemia | 13 | 9 |
@@ -223,7 +223,7 @@ Table 7: CTC Grade 3/4 Laboratory Abnormalities in Adult Patients with Newly Dia
 | Elevated Bilirubin | 1 | 0 |
 | Elevated Creatinine | 1 | 1 |
 
-CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 ≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L).
+CTC grades: neutropenia (Grade 3 0.5<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 25<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 65<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >36 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >310 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >520 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.06.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.01.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.02.5 mmol/L, Grade 4 <2.5 mmol/L).
 
 Laboratory abnormalities reported in patients with CML resistant or intolerant to imatinib who received the recommended starting doses of dasatinib are shown by disease phase in Table 8.
 
@@ -246,7 +246,7 @@ Table 8: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML in Ad
 | Elevated Bilirubin | <1 | 1 | 3 | 6 |
 | Elevated Creatinine | 0 | 2 | 8 | 0 |
 
-CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L).
+CTC grades: neutropenia (Grade 3 0.5<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 325<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 65<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >36 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >310 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >520 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.06.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.01.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.02.5 mmol/L, Grade 4 <2.5 mmol/L).
 
 *Hematology parameters for 100 mg once-daily dosing in chronic phase CML reflects 60-month minimum follow-up.
 
@@ -255,60 +255,60 @@ Among adult patients with chronic phase CML with resistance or intolerance to pr
 Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ ALL) in Adults
 
 A total of 135 adult patients with Ph+ ALL were treated with dasatinib in clinical studies.
-The median duration of treatment was 3 months (range 0.03–31 months).
+The median duration of treatment was 3 months (range 0.03-31 months).
 The safety profile of patients with Ph+ ALL was similar to those with lymphoid blast phase CML.
 The most frequently reported adverse reactions included fluid retention events, such as pleural effusion (24%) and superficial edema (19%), and gastrointestinal disorders, such as diarrhea (31%), nausea (24%), and vomiting (16%).
 Hemorrhage (19%), pyrexia (17%), rash (16%), and dyspnea (16%) were also frequently reported.
-Serious adverse reactions reported in ≥5% of patients included pleural effusion (11%), gastrointestinal bleeding (7%), febrile neutropenia (6%), and infection (5%).
+Serious adverse reactions reported in 5% of patients included pleural effusion (11%), gastrointestinal bleeding (7%), febrile neutropenia (6%), and infection (5%).
 
 Additional Pooled Data from Clinical Trials
 
 The following additional adverse reactions were reported in patients in dasatinib CML clinical studies and adult patients in Ph+ ALL clinical studies at a frequency of ≥10%, 1%–<10%, 0.1%–<1%, or <0.1%.
 These adverse reactions are included based on clinical relevance.
 
-Gastrointestinal Disorders:1%–<10% – mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension, constipation, gastritis, colitis (including neutropenic colitis), oral soft tissue disorder; 0.1%–<1% – ascites, dysphagia, anal fissure, upper gastrointestinal ulcer, esophagitis, pancreatitis, gastroesophageal reflux disease; <0.1% – protein losing gastroenteropathy, ileus, acute pancreatitis, anal fistula.
+Gastrointestinal Disorders:1%<10% mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension, constipation, gastritis, colitis (including neutropenic colitis), oral soft tissue disorder; 0.1%<1% ascites, dysphagia, anal fissure, upper gastrointestinal ulcer, esophagitis, pancreatitis, gastroesophageal reflux disease; <0.1% protein losing gastroenteropathy, ileus, acute pancreatitis, anal fistula.
 
-General Disorders and Administration-Site Conditions:≥10% – peripheral edema, face edema; 1%–<10% – asthenia, chest pain, chills; 0.1%–<1% – malaise, other superficial edema, peripheral swelling; <0.1% – gait disturbance.
+General Disorders and Administration-Site Conditions:10% peripheral edema, face edema; 1%<10% asthenia, chest pain, chills; 0.1%<1% malaise, other superficial edema, peripheral swelling; <0.1% gait disturbance.
 
-Skin and Subcutaneous Tissue Disorders:1%–<10% – alopecia, acne, dry skin, hyperhidrosis, urticaria, dermatitis (including eczema); 0.1%–<1% – pigmentation disorder, skin ulcer, bullous conditions, photosensitivity, nail disorder, neutrophilic dermatosis, panniculitis, palmar-plantar erythrodysesthesia syndrome, hair disorder; <0.1% – leukocytoclastic vasculitis, skin fibrosis.
+Skin and Subcutaneous Tissue Disorders:1%<10% alopecia, acne, dry skin, hyperhidrosis, urticaria, dermatitis (including eczema); 0.1%<1% pigmentation disorder, skin ulcer, bullous conditions, photosensitivity, nail disorder, neutrophilic dermatosis, panniculitis, palmar-plantar erythrodysesthesia syndrome, hair disorder; <0.1% leukocytoclastic vasculitis, skin fibrosis.
 
-Respiratory, Thoracic, and Mediastinal Disorders:1%–<10% – lung infiltration, pneumonitis, cough; 0.1%–<1% – asthma, bronchospasm, dysphonia, pulmonary arterial hypertension; <0.1% – acute respiratory distress syndrome, pulmonary embolism.
+Respiratory, Thoracic, and Mediastinal Disorders:1%<10% lung infiltration, pneumonitis, cough; 0.1%<1% asthma, bronchospasm, dysphonia, pulmonary arterial hypertension; <0.1% acute respiratory distress syndrome, pulmonary embolism.
 
-Nervous System Disorders:1%–<10% – neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1%–<1% – amnesia, tremor, syncope, balance disorder; <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
+Nervous System Disorders:1%<10% neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1%<1% amnesia, tremor, syncope, balance disorder; <0.1% convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
 
-Blood and Lymphatic System Disorders:0.1%–<1% – lymphadenopathy, lymphopenia; <0.1% – aplasia pure red cell.
+Blood and Lymphatic System Disorders:0.1%<1% lymphadenopathy, lymphopenia; <0.1%–<1% – lymphadenopathy, lymphopenia; <0.1%– aplasia pure red cell.
 
-Musculoskeletal and Connective Tissue Disorders:1%–<10% – muscular weakness, musculoskeletal stiffness; 0.1%–<1% – rhabdomyolysis, tendonitis, muscle inflammation, osteonecrosis, arthritis; <0.1% – epiphyses delayed fusion (reported at 1%–<10% in the pediatric studies), growth retardation (reported at 1%–<10% in the pediatric studies).
+Musculoskeletal and Connective Tissue Disorders:1%<10% muscular weakness, musculoskeletal stiffness; 0.1%<1% rhabdomyolysis, tendonitis, muscle inflammation, osteonecrosis, arthritis; <0.1% epiphyses delayed fusion (reported at 1%<10% in the pediatric studies), growth retardation (reported at 1%<10% in the pediatric studies).
 
-Investigations:1%–<10% – weight increased, weight decreased; 0.1%–<1% – blood creatine phosphokinase increased, gamma-glutamyltransferase increased.
+Investigations:1%<10% - weight increased, weight decreased; 0.1%-<1% blood creatine phosphokinase increased, gamma-glutamyltransferase increased.
 
-Infections and Infestations:1%–<10% – pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection, enterocolitis infection, sepsis (including fatal outcomes [0.2%]).
+Infections and Infestations:1%-<10% - pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection, enterocolitis infection, sepsis (including fatal outcomes [0.2%]).
 
-Metabolism and Nutrition Disorders: 1%–<10% – appetite disturbances, hyperuricemia; 0.1%– <1% – hypoalbuminemia, tumor lysis syndrome, dehydration, hypercholesterolemia; <0.1% – diabetes mellitus.
+Metabolism and Nutrition Disorders: 1%-<10% appetite disturbances, hyperuricemia; 0.1%-<1% hypoalbuminemia, tumor lysis syndrome, dehydration, hypercholesterolemia; <0.1% diabetes mellitus.
 
-Cardiac Disorders: 1%–<10% – arrhythmia (including tachycardia), palpitations; 0.1%–<1% – angina pectoris, cardiomegaly, pericarditis, ventricular arrhythmia (including ventricular tachycardia), electrocardiogram T-wave abnormal, troponin increased; <0.1% – cor pulmonale, myocarditis, acute coronary syndrome, cardiac arrest, electrocardiogram PR prolongation, coronary artery disease, pleuropericarditis.
+Cardiac Disorders: 1%-<10% arrhythmia (including tachycardia), palpitations; 0.1%-<1% angina pectoris, cardiomegaly, pericarditis, ventricular arrhythmia (including ventricular tachycardia), electrocardiogram T-wave abnormal, troponin increased; <0.1% cor pulmonale, myocarditis, acute coronary syndrome, cardiac arrest, electrocardiogram PR prolongation, coronary artery disease, pleuropericarditis.
 
-Eye Disorders: 1%–<10% – visual disorder (including visual disturbance, vision blurred, and visual acuity reduced), dry eye; 0.1%–<1% – conjunctivitis, visual impairment, lacrimation increased, <0.1% – photophobia.
+Eye Disorders: 1%-<10% visual disorder (including visual disturbance, vision blurred, and visual acuity reduced), dry eye; 0.1%-<1% conjunctivitis, visual impairment, lacrimation increased, <0.1% photophobia.
 
-Vascular Disorders: 1%–<10% – flushing, hypertension; 0.1%–<1% – hypotension, thrombophlebitis, thrombosis; <0.1% – livedo reticularis, deep vein thrombosis, embolism.
+Vascular Disorders: 1%-<10% flushing, hypertension; 0.1%-<1% hypotension, thrombophlebitis, thrombosis; <0.1% livedo reticularis, deep vein thrombosis, embolism.
 
-Psychiatric Disorders: 1%–<10% – insomnia, depression; 0.1%–<1% – anxiety, affect lability, confusional state, libido decreased.
+Psychiatric Disorders: 1%-<10% insomnia, depression; 0.1%-<1% anxiety, affect lability, confusional state, libido decreased.
 
-Pregnancy, Puerperium, and Perinatal Conditions: <0.1% – abortion.
+Pregnancy, Puerperium, and Perinatal Conditions: <0.1% abortion.
 
-Reproductive System and Breast Disorders: 0.1%–<1% – gynecomastia, menstrual disorder.
+Reproductive System and Breast Disorders: 0.1%-<1% gynecomastia, menstrual disorder.
 
-Injury, Poisoning, and Procedural Complications: 1%–<10% – contusion.
+Injury, Poisoning, and Procedural Complications: 1%-<10% contusion.
 
-Ear and Labyrinth Disorders: 1%–<10% – tinnitus; 0.1%–<1% – vertigo, hearing loss.
+Ear and Labyrinth Disorders: 1%-<10% tinnitus; 0.1%-<1% vertigo, hearing loss.
 
-Hepatobiliary Disorders: 0.1%–<1% – cholestasis, cholecystitis, hepatitis.
+Hepatobiliary Disorders: 0.1%-<1% cholestasis, cholecystitis, hepatitis.
 
-Renal and Urinary Disorders: 0.1%–<1% – urinary frequency, renal failure, proteinuria; <0.1% – renal impairment.
+Renal and Urinary Disorders: 0.1%-<1% urinary frequency, renal failure, proteinuria; <0.1%-renal impairment.
 
-Immune System Disorders: 0.1%–<1% – hypersensitivity (including erythema nodosum).
+Immune System Disorders: 0.1%-<1% hypersensitivity (including erythema nodosum).
 
-Endocrine Disorders: 0.1%–<1% – hypothyroidism; <0.1% – hyperthyroidism, thyroiditis.
+Endocrine Disorders: 0.1%-<1% hypothyroidism; <0.1% - hyperthyroidism, thyroiditis.
 
 ## 6.2 Postmarketing Experience
 

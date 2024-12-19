@@ -73,7 +73,7 @@ Advise females of reproductive potential and males with female partners of repro
 ## 5.10 Effects on Growth and Development in Pediatric Patients
 
 In pediatric trials of dasatinib in chronic phase CML after at least 2 years of treatment, adverse reactions associated with bone growth and development were reported in 5 (5.2%) patients, one of which was severe in intensity (Growth Retardation Grade 3).
-These 5 cases included cases of epiphyses delayed fusion, osteopenia, growth retardation, and gynecomastia [see Adverse Reactions (6.1)].
+These 5 cases included cases of epiphyses delayed fusion, osteopenia, growth retardation, and gynecomastia [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
 Of these 5 cases, 1 case of osteopenia and 1 case of gynecomastia resolved during treatment.
 
 Monitor bone growth and development in pediatric patients.
@@ -82,7 +82,7 @@ Monitor bone growth and development in pediatric patients.
 
 PHYRAGO may cause hepatotoxicity as measured by elevations in bilirubin, aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase [see Adverse Reactions (6.1)].
 Monitor transaminases at baseline and monthly or as clinically indicated during treatment.
-Reduce dose, withhold, or permanently discontinue PHYRAGO based on severity [see Dosage and Administration (2.4)].
+Reduce dose, withhold, or permanently discontinue PHYRAGO based on severity [see Dosage and Administration (2.5)].
 When dasatinib is administered in combination with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
 Monitor hepatic function when PHYRAGO is used in combination with chemotherapy.
 

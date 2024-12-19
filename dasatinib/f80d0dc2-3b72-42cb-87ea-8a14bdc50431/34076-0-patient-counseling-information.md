@@ -80,4 +80,4 @@ Instructions for Taking PHYRAGO
 
 - Grapefruit Juice Advise patients not to drink grapefruit juice as it may increase the amount of dasatinib in their blood and therefore increase their risk of adverse reactions.
 
-Distributed by: Nanocopoeia, LLC 639 Campus Dr, New Brighton, MN 55112 PHYRAGO® is a trademark of Nanocopoeia, LLCFor patent information, please refer to www.phyrago.com/patents
+Manufactured for: Nanocopoeia, LLC 639 Campus Dr, New Brighton, MN 55112 PHYRAGO® is a trademark of Nanocopoeia, LLCFor patent information, please refer to www.phyrago.com/patents

@@ -26,8 +26,8 @@ Table 9: Efficacy Results in a Randomized Newly Diagnosed Chronic Phase CML Tria
 | Major Molecular Responseb 12 months (95% CI) P-value | 52.1% (45.9-58.3) | <0.0001 | 33.8% (28.1-39.9) |
 | 60 months (95% CI) | 76.4% (70.8-81.5) |  | 64.2% (58.1-70.1) |
 
-aConfirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. bMajor molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale.
-These are cumulative rates representing minimum follow up for the time frame specified. *Adjusted for Hasford score and indicated statistical significance at a pre-defined nominal level of significance.
+a Confirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. b Major molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale.
+These are cumulative rates representing minimum follow up for the time frame specified. * Adjusted for Hasford score and indicated statistical significance at a pre-defined nominal level of significance.
 CI = confidence interval.
 
 The confirmed CCyR within 24, 36, and 60 months for dasatinib versus imatinib arms were 80% versus 74%, 83% versus 77%, and 83% versus 79%, respectively.
@@ -140,6 +140,3 @@ In patients with myeloid blast phase CML, the median duration of MaHR was 8.1 mo
 In patients with lymphoid blast phase CML, the median duration of MaHR was 4.7 months (min-max: 3.0-9.0) and 7.9 months (min-max: 1.6-22.1) for the 140 mg once-daily group and the 70 mg twice-daily group, respectively.
 In patients with Ph+ ALL who were treated with dasatinib 140 mg once-daily, the median duration of MaHR was 4.6 months (min-max: 1.4-10.2).
 The medians of progression-free survival for patients with Ph+ ALL treated with dasatinib 140 mg once-daily and 70 mg twice-daily were 4.0 months (min- max: 0.4-11.1) and 3.1 months (min-max: 0.3-20.8), respectively.
-
-Pediatric use information is approved for Bristol-Myers Squibb Company’s SPRYCEL (dasatinib) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

@@ -21,6 +21,7 @@ An analysis of the data from five Phase 2 studies in patients (70 mg BID) and a 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of dasatinib exhibits dose proportional increases in AUC and linear elimination characteristics over the dose range of 15 mg/day (0.15 times the lowest approved recommended dose) to 240 mg/day (1.7 times the highest approved recommended dose).
+
 At 100 mg QD, the maximum concentration at steady state (Cmax) is 82.2 ng/mL (CV% 69%), area under the plasma drug concentration time curve (AUC) is 397 ng/mL*hr (CV% 55%).
 The clearance of dasatinib is found to be time-invariant.
 
@@ -42,7 +43,7 @@ Dasatinib is a P-gp substrate in vitro.
 
 Elimination
 
-TThe mean terminal half-life of PHYRAGO is 5 hours and the geometric mean (%CV) apparent clearance is 241 L/hr (54.4%).
+The mean terminal half-life of PHYRAGO is 5 hours and the geometric mean (%CV) apparent clearance is 241 L/hr (54.4%).
 
 Metabolism
 
