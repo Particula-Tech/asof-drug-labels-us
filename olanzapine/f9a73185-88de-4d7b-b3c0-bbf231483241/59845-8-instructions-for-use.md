@@ -1,4 +1,4 @@
-| Instructions to Reconstitute and Administer Single-Dose vial of Zyprexa® Relprevv® |  |  |  |  |  |  |  |  |
+| Instructions to Reconstitute and Administer Single-dose vial of Zyprexa® Relprevv® |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FOR DEEP INTRAMUSCULAR GLUTEAL INJECTION ONLY. |  |  |  |  |  |  |  |  |
 | NOT TO BE INJECTED INTRAVENOUSLY OR SUBCUTANEOUSLY. |  |  |  |  |  |  |  |  |
