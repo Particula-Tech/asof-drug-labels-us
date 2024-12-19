@@ -18,6 +18,6 @@ There was a 0.7 (95% confidence interval 0.2 to 1.2 with p-value 0.006) mean dec
 Table 6 – Change from Baseline in the Primary Endpoint, Pregnancy Unique-Quantification of Emesis (PUQE) Score at Day 15.
 (Intent-to-Treat Population with Last-Observation Carried Forward)
 
-| PUQE ScoreThe Pregnancy-Unique Quantification of Emesis and Nausea (PUQE) score incorporated the number of daily vomiting episodes, number of daily heaves, and length of daily nausea in hours, for an overall score of symptoms rated from 3 (no symptoms) to 15 (most severe). Baseline was defined as the PUQE score completed at the enrollment visit. | Doxylamine Succinate + Pyridoxine Hydrochloride | Placebo | Treatment Difference [95% Confidence Interval] |
+| PUQE Score The Pregnancy-Unique Quantification of Emesis and Nausea (PUQE) score incorporated the number of daily vomiting episodes, number of daily heaves, and length of daily nausea in hours, for an overall score of symptoms rated from 3 (no symptoms) to 15 (most severe). Baseline was defined as the PUQE score completed at the enrollment visit. | Doxylamine Succinate + Pyridoxine Hydrochloride | Placebo | Treatment Difference [95% Confidence Interval] |
 | --- | --- | --- | --- |
 | Baseline Change from baseline at Day 15 | 9.0 ± 2.1 -4.8 ± 2.7 | 8.8 ± 2.1 -3.9 ± 2.6 | -0.7 [-1.2, -0.2] |
