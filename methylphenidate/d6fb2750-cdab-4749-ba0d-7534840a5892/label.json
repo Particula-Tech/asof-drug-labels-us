@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA010187"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-273-01",
+    "66758-274-01",
+    "66758-275-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methylphenidate hydrochloride",
+      "name": "Ritalin"
+    }
+  ],
+  "setid": "d6fb2750-cdab-4749-ba0d-7534840a5892",
+  "source": "dailymed"
+}
