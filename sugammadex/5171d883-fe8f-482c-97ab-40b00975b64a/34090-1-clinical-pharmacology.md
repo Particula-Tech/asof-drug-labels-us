@@ -64,13 +64,16 @@ Population pharmacokinetic analysis indicated that, beyond the effects of a decr
 
 Pediatric Patients
 
-Sugammadex pharmacokinetic parameters were estimated in pediatric patients 2 to <17 years of age with patients enrolled into 3 age groups (2 to <6, 6 to <12 and 12 to <17 years of age) and intravenous doses of 2 or 4 mg/kg sugammadex administered for reversal of moderate or deep neuromuscular blockade, respectively.
-Both clearance and volume of distribution increase with increasing age in pediatric patients.
+The pharmacokinetics of sugammadex in pediatric patients have been evaluated in 2 clinical studies following administration of intravenous doses of 2 or 4 mg/kg sugammadex administered for reversal of moderate or deep neuromuscular blockade, respectively.
+In one study, sugammadex pharmacokinetic parameters were estimated in pediatric patients 2 to <17 years of age with patients enrolled into 3 age groups (2 to <6, 6 to <12 and 12 to <17 years of age).
+In a second study, sugammadex pharmacokinetic parameters were estimated in pediatric patients birth to <2 years of age with patients enrolled into 4 age groups (birth to 27 days, 28 days to <3 months, 3 months to <6 months and 6 months to < 2 years).
 
-Sugammadex exposure (AUC0-inf and Cmax) increased in a dose-dependent, linear manner following administration of 2 and 4 mg/kg across patients 2 to <17 years of age.
-Sugammadex exposure was approximately 40% lower in patients 2 to <6 years of age following administration of 2 or 4 mg/kg sugammadex compared to older pediatric patients (6 to <17 years) and adults; however, this difference was not clinically relevant [see Clinical Studies (14.1)].
+Sugammadex exposure (AUC0-inf and Cmax) increased in a dose-dependent, linear manner following administration of 2 or 4 mg/kg across patients birth to <17 years of age.
+Sugammadex exposure was approximately 40% lower in patients <6 years of age following administration of 2 or 4 mg/kg sugammadex compared to older pediatric patients (6 to <17 years) and adults; however, this difference was not clinically relevant [see Clinical Studies (14.1)].
 
-The observed steady-state volume of distribution of sugammadex is approximately 3 to 10 liters and clearance is approximately 38 to 95 mL/min resulting in a half-life of approximately 1-2 hours in pediatric patients 2 to <17 years of age.
+Both clearance and volume of distribution increase with increasing age in pediatric patients, whereas elimination half-life is generally similar across pediatric patients.
+As a result, the observed steady-state volume of distribution of sugammadex is approximately 3 to 10 liters and clearance is approximately 38 to 95 mL/min resulting in a half-life of approximately 1-2 hours in pediatric patients 2 to <17 years of age.
+By comparison, observed steady-state volume of distribution of sugammadex is approximately 1 to 3 liters and clearance is approximately 38 to 95 mL/min with a half-life of approximately 1-2 hours in pediatric patients birth to <2 years of age.
 
 Sex
 

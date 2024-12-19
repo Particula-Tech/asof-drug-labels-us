@@ -77,11 +77,13 @@ Table 2: Percent of Subject Exposures in Pooled Phase 1 to 3 Studies with Advers
 
 Pediatric Patients
 
+2 to <17 years of age
+
 The safety of BRIDION has been assessed in a randomized, active-controlled study of pediatric patients 2 to <17 years of age, with 242 receiving treatment with BRIDION.
 Adverse events occurring in ≥5% of pediatric patients are presented in Table 3.
 The safety profile was generally consistent with that observed in adults.
 
-Table 3: Pediatric Patients with Adverse Events Incidence ≥5% in One or More Treatment Groups Up to 7 Days Post-Treatment
+Table 3: Pediatric Patients (2 to <17 years of age) with Adverse Events Incidence ≥5% in One or More Treatment Groups Up to 7 Days Post-Treatment
 
 |  | n | (%) | n | (%) |
 | --- | --- | --- | --- | --- |
@@ -100,6 +102,34 @@ Table 3: Pediatric Patients with Adverse Events Incidence ≥5% in One or More T
 | Procedural nausea | 4 | (8) | 9 | (5) |
 | Procedural pain | 30 | (59) | 111 | (58) |
 | Procedural vomiting | 3 | (6) | 5 | (3) |
+
+Birth to <2 years of age
+
+The safety of BRIDION has been assessed in a randomized, double-blinded, active comparator-controlled study of pediatric patients from birth to <2 years of age, with 107 receiving treatment with BRIDION.
+Adverse events occurring in ≥5% of pediatric patients are presented in Table 4.
+The safety profile was generally consistent with that observed in pediatric patients from 2 to <17 years of age and adults.
+
+Table 4: Pediatric Participants (Birth to <2 Years) with Specific Adverse Events Incidence ≥ 5% in One or More Treatment Groups Up to 7 Days Post-Treatment
+
+|  | n | (%) | n | (%) |
+| --- | --- | --- | --- | --- |
+|  | Sugammadex 2 mg/kg |  | Sugammadex 4 mg/kg |  |
+| Participants in population | 44 |  | 63 |  |
+| with one or more specific adverse events | 30 | (68.2) | 43 | (68.3) |
+| with no specific adverse events | 14 | (31.8) | 20 | (31.7) |
+| Cardiac disorders | 3 | (6.8) | 0 | (0.0) |
+| Gastrointestinal disorders | 6 | (13.6) | 4 | (6.3) |
+| Vomiting | 4 | (9.1) | 1 | (1.6) |
+| General disorders and administration site conditions | 5 | (11.4) | 6 | (9.5) |
+| Pyrexia | 3 | (6.8) | 3 | (4.8) |
+| Infections and infestations | 3 | (6.8) | 0 | (0.0) |
+| Injury, poisoning and procedural complications | 19 | (43.2) | 35 | (55.6) |
+| Procedural pain | 18 | (40.9) | 34 | (54.0) |
+| Procedural vomiting | 3 | (6.8) | 1 | (1.6) |
+| Metabolism and nutrition disorders | 3 | (6.8) | 2 | (3.2) |
+| Respiratory, thoracic and mediastinal disorders | 5 | (11.4) | 3 | (4.8) |
+| Every participant is counted a single time for each applicable row and column. |  |  |  |  |
+| A system organ class or specific adverse event appears in this table only if its incidence in one or more of the columns meets the incidence criterion in the table title, after rounding. |  |  |  |  |
 
 Anaphylaxis and Hypersensitivity
 
