@@ -40,7 +40,7 @@ REYATAZ may lead to significant interaction with some drugs; therefore, advise p
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.10)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV-1, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV-1 treatment is started [see Warnings and Precautions (5.10)].
 
 ### Fat Redistribution
 
@@ -60,5 +60,4 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
-REYATAZ can also be passed to the baby in breast milk, and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
+Instruct patients with HIV-1 that the potential risks of breastfeeding include: (1) HIV-1 transmission to infants without HIV-1, (2) developing viral resistance in infants with HIV-1, and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].

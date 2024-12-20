@@ -42,13 +42,13 @@ All infants, including neonates exposed to REYATAZ in utero, should be monitored
 
 #### Human Data
 
-In Study AI424-182, REYATAZ with ritonavir (300/100 mg or 400/100 mg) coadministered with lamivudine/zidovudine (150 mg/ 300 mg, as fixed-dose product) was administered to 41 pregnant women with HIV-1 infection, during the second or third trimester.
+In Study AI424-182, REYATAZ with ritonavir (300/100 mg or 400/100 mg) coadministered with lamivudine/zidovudine (150 mg/ 300 mg, as fixed-dose product) was administered to 41 pregnant women with HIV-1, during the second or third trimester.
 Among the 39 women who completed the study, 38 women achieved an HIV-1 RNA less than 50 copies/mL at time of delivery.
 Six of 20 (30%) women on REYATAZ with ritonavir 300/100 mg and 13 of 21 (62%) women on REYATAZ with ritonavir 400/100 mg experienced hyperbilirubinemia (total bilirubin greater than or equal to 2.6 times ULN).
 There were no cases of lactic acidosis observed in clinical trial AI424-182.
 
 Atazanavir drug concentrations in fetal umbilical cord blood were approximately 12% to 19% of maternal concentrations.
-Among the 40 infants born to 40 pregnant women with HIV-1 infection, all had test results that were negative for HIV-1 DNA at the time of delivery and/or during the first 6 months postpartum.
+Among the 40 infants born to 40 pregnant women with HIV-1, all had test results that were negative for HIV-1 DNA at the time of delivery and/or during the first 6 months postpartum.
 All 40 infants received antiretroviral prophylactic treatment containing zidovudine.
 No evidence of severe hyperbilirubinemia (total bilirubin levels greater than 20 mg/dL) or acute or chronic bilirubin encephalopathy was observed among neonates in this study.
 However, 10/36 (28%) infants (6 greater than or equal to 38 weeks gestation and 4 less than 38 weeks gestation) had bilirubin levels of 4 mg/dL or greater within the first day of life.
@@ -73,16 +73,15 @@ Minimal maternal toxicity occurred at this exposure level.
 
 ### Risk Summary
 
-The Centers for Disease Control and Prevention recommend that patients with HIV-1 infection, not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 Atazanavir has been detected in human milk.
 No data are available regarding atazanavir effects on milk production.
 Atazanavir was present in the milk of lactating rats and was associated with neonatal growth retardation that reversed after weaning.
 
-Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in breastfed infants, advise women not to breastfeed.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in infants without HIV-1), (2) developing viral resistance (in infants with HIV-1), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 ## 8.4 Pediatric Use
 
-REYATAZ is indicated in combination with other antiretroviral agents for the treatment of pediatric patients with HIV-1 infection, 3 months of age and older weighing at least 5 kg.
+REYATAZ is indicated in combination with other antiretroviral agents for the treatment of pediatric patients with HIV-1, 3 months of age and older weighing at least 5 kg.
 REYATAZ is not recommended for use in pediatric patients below the age of 3 months due to the risk of kernicterus [see Indications and Usage (1)].
 All REYATAZ contraindications, warnings, and precautions apply to pediatric patients [see Contraindications (4) and Warnings and Precautions (5)].
 
@@ -98,12 +97,12 @@ In general, appropriate caution should be exercised in the administration and mo
 
 ## 8.6 Age/Gender
 
-A study of the pharmacokinetics of atazanavir was performed in young (n=29; 18-40 years) and elderly (n=30; ≥65 years) healthy subjects.
+A study of the pharmacokinetics of atazanavir was performed in young (n=29; 18-40 years) and elderly (n=30; ≥65 years) healthy participants.
 There were no clinically significant pharmacokinetic differences observed due to age or gender.
 
 ## 8.7 Impaired Renal Function
 
-REYATAZ is not recommended for use in treatment-experienced patients with HIV-1 infection, who have end-stage renal disease managed with hemodialysis [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+REYATAZ is not recommended for use in treatment-experienced patients with HIV-1, who have end-stage renal disease managed with hemodialysis [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Impaired Hepatic Function
 
