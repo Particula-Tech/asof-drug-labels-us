@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219097"
+  ],
+  "inn": "imatinib",
+  "labeler": "Shorla Oncology Inc.,",
+  "package_ndcs": [
+    "81927-201-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "imatinib oral",
+      "name": "IMKELDI"
+    }
+  ],
+  "setid": "26658bb7-9ba1-a10e-e063-6394a90a172e",
+  "source": "dailymed"
+}
