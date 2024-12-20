@@ -174,7 +174,7 @@ If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, l
 Consider ultrasound monitoring of amniotic fluid if CELEBREX treatment extends beyond 48 hours.
 Discontinue CELEBREX if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
 
-## 5.12 Hematological Toxicity
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.

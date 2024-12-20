@@ -50,11 +50,11 @@ Inform patients not to use low-dose aspirin concomitantly with CELEBREX until th
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 202X Viatris Inc.
+© 2024 Viatris Inc.
 
 CELEBREX is a registered trademark of G.D.
 Searle LLC, a Viatris Company.
 
 UPJ:CLBRXC:RX
 
-Revised: MM/YYYY
+Revised: 11/2024
