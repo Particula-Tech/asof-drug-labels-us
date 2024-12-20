@@ -8,13 +8,13 @@ Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting en
 
 Inhibition of HMG-CoA reductase by pravastatin accelerates the expression of LDL-receptors, followed by the uptake of LDL-C from blood to the liver, leading to a decrease in plasma LDL-C and total cholesterol.
 Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very-low-density lipoproteins.
-The maximum LDL-C reduction of pravastatin sodium is usually achieved by 4 weeks and is maintained after that.
+The maximum LDL-C reduction of pravastatin is usually achieved by 4 weeks and is maintained after that.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-Pravastatin sodium is administered orally in the active form.
+Pravastatin is administered orally in the active form.
 Peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration.
 Based on urinary recovery of total radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.
 While the presence of food in the gastrointestinal tract reduces area under the concentration-time curve (AUC) and Cmax by 31% and 49%, respectively, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.
@@ -26,7 +26,7 @@ Despite this decrease in systemic bioavailability, the efficacy of pravastatin a
 The coefficient of variation (CV), based on between-subject variability, was 50% to 60% for AUC.
 The geometric means of pravastatin Cmax and AUC following a 20 mg dose in the fasted state were 26.5 ng/mL and 59.8 ng*hr/mL, respectively.
 
-Steady-state AUCs, Cmax, and Cmin plasma concentrations showed no evidence of pravastatin accumulation following once or twice daily administration of pravastatin sodium tablets.
+Steady-state AUCs, Cmax, and Cmin plasma concentrations showed no evidence of pravastatin accumulation following once or twice daily administration of pravastatin tablets.
 
 Distribution
 
@@ -36,8 +36,8 @@ Elimination
 
 Metabolism
 
-The major biotransformation pathways for pravastatin are: (a) isomerization to 6-epi pravastatin and the 3α-hydroxyisomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945.
-The 3α-hydroxyisomeric metabolite (SQ 31,906) has 1/10 to 1/40 the HMG-CoA reductase inhibitory activity of the parent compound.
+The major biotransformation pathways for pravastatin are: (a) isomerization to 6-epi pravastatin and the 3α-hydroxy isomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945.
+The 3α-hydroxy isomeric metabolite (SQ 31,906) has 1/10 to 1/40 the HMG-CoA reductase inhibitory activity of the parent compound.
 Pravastatin undergoes extensive first-pass extraction in the liver (extraction ratio 0.66).
 
 Excretion

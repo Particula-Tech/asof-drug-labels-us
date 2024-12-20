@@ -1,14 +1,14 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Myopathy and Rhabdomyolysis Advise patients that pravastatin sodium may cause myopathy and rhabdomyolysis.
+Myopathy and Rhabdomyolysis Advise patients that pravastatin sodium tablets may cause myopathy and rhabdomyolysis.
 Inform patients that the risk is increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
 Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
-Hepatic Dysfunction Inform patients that pravastatin sodium may cause liver enzyme elevations and possibly liver failure.
+Hepatic Dysfunction Inform patients that pravastatin sodium tablets may cause liver enzyme elevations and possibly liver failure.
 Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
-Increases in HbA1c and Fasting Serum Glucose Levels Inform patients that increases in HbA1c and fasting serum glucose levels may occur with pravastatin sodium.
+Increases in HbA1c and Fasting Serum Glucose Levels Inform patients that increases in HbA1c and fasting serum glucose levels may occur with pravastatin sodium tablets.
 Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.4)].
 Pregnancy Advise pregnant patients and patients who may become pregnant of the potential risk to a fetus.
-Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if pravastatin sodium should be discontinued [see Use in Specific Populations (8.1)].
-Lactation Advise patients that breastfeeding is not recommended during treatment with pravastatin sodium [see Use in Specific Populations (8.2)].
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if pravastatin sodium tablets should be discontinued [see Use in Specific Populations (8.1)].
+Lactation Advise patients that breastfeeding is not recommended during treatment with pravastatin sodium tablets [see Use in Specific Populations (8.2)].
 Kaletra is a registered trademark of Abbott Laboratories.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 12/2024

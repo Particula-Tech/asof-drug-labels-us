@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Pravastatin sodium tablets USP are supplied as:
+Pravastatin sodium tablets, USP are supplied as:
 
 10 mg of pravastatin sodium: yellow, rectangular shaped with rounded edges, biconvex, uncoated tablets debossed with ‘Y’ on one side and ‘37’ on the other side.
 

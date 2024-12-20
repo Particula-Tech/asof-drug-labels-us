@@ -23,14 +23,14 @@ The recommended starting dosage is pravastatin sodium tablets 40 mg to 80 mg onc
 
 ## 2.5 Dosage and Administration Modifications Due to Drug Interactions
 
-- In patients taking a bile acid sequestrant, administer pravastatin sodium tablets at least 1 hour before or 4 hours after the bile acid sequestrant [See Drug Interactions (7.2)].
+- In patients taking a bile acid sequestrant, administer pravastatin sodium tablets at least 1 hour before or 4 hours after the bile acid sequestrant [see Drug Interactions (7.2)].
 - Concomitant use of pravastatin sodium tablets with the following drugs requires dosage modifications of pravastatin sodium tablets [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]:
 
-˚ Cyclosporine
+º Cyclosporine
 
 In patients taking cyclosporine, the recommended starting dosage is pravastatin sodium 10 mg once daily.
 The maximum recommended dosage of pravastatin sodium tablets in patients taking cyclosporine is 20 mg once daily.
 
-˚ Clarithromycin and Erythromycin
+º Clarithromycin and Erythromycin
 
 The maximum recommended dosage is pravastatin sodium tablets 40 mg once daily.
