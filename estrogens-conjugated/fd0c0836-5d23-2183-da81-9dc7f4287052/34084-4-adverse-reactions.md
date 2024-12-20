@@ -13,9 +13,9 @@ In a 1-year clinical trial that included 678 postmenopausal women treated with P
 
 TABLE 1: ALL TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY ≥ 1 PERCENT
 
-| Adverse event | (n = 340) | (n = 338) | (n = 351) |
-| --- | --- | --- | --- |
 | Body System | PREMPRO 0.625 mg/2.5 mg continuous | PREMPRO 0.625 mg/5 mg continuous | PREMPHASE 0.625 mg/5 mg sequential |
+| --- | --- | --- | --- |
+| Adverse event | (n = 340) | (n = 338) | (n = 351) |
 | Body As A Whole |  |  |  |
 | Abdominal pain | 35 (10%) | 51 (15%) | 58 (17%) |
 | Asthenia | 13 (4%) | 18 (5%) | 21 (6%) |
@@ -24,7 +24,7 @@ TABLE 1: ALL TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY ≥ 1 PERCENT
 | Flu syndrome | 1 (<1%) | 1 (<1%) | 4 (1%) |
 | Generalized edema | 12 (4%) | 12 (4%) | 8 (2%) |
 | Headache | 64 (19%) | 52 (15%) | 66 (19%) |
-| Infection | 2 (<1%) | 4 (1)% | 0 |
+| Infection | 2 (<1%) | 4 (1%) | 0 |
 | Moniliasis | 4 (1%) | 3 (<1%) | 4 (1%) |
 | Pain | 12 (4%) | 14 (4%) | 15 (4%) |
 | Pelvic pain | 11 (3%) | 13 (4%) | 16 (5%) |

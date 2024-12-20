@@ -9,9 +9,9 @@ Table 5 shows the adjusted mean number of hot flushes in the PREMPRO 0.625 mg/2.
 
 TABLE 5: SUMMARY TABULATION OF THE NUMBER OF HOT FLUSHES PER DAY – MEAN VALUES AND COMPARISONS BETWEEN THE ACTIVE TREATMENT GROUPS AND THE PLACEBO GROUP – PATIENTS WITH AT LEAST 7 MODERATE TO SEVERE FLUSHES PER DAY OR AT LEAST 50 PER WEEK AT BASELINE, LAST OBSERVATION CARRIED FORWARD (LOCF)
 
-| Time Period (week) | Baseline Mean ± SD | Observed Mean ± SD | Mean Change ± SD | p-Values vs. PlaceboThere were no statistically significant differences between the 0.625 mg/2.5 mg, 0.45 mg/1.5 mg, and 0.3 mg/1.5 mg groups at any time period. |
-| --- | --- | --- | --- | --- |
 | TreatmentIdentified by dosage (mg) of Premarin/MPA or placebo. (No. of Patients) | -------------------No. of Hot Flushes/Day----------------- |  |  |  |
+| --- | --- | --- | --- | --- |
+| Time Period (week) | Baseline Mean ± SD | Observed Mean ± SD | Mean Change ± SD | p-Values vs. PlaceboThere were no statistically significant differences between the 0.625 mg/2.5 mg, 0.45 mg/1.5 mg, and 0.3 mg/1.5 mg groups at any time period. |
 | 0.625 mg/2.5 mg (n = 34) |  |  |  |  |
 | 4 | 11.98 ± 3.54 | 3.19 ± 3.74 | -8.78 ± 4.72 | <0.001 |
 | 12 | 11.98 ± 3.54 | 1.16 ± 2.22 | -10.82 ± 4.61 | <0.001 |
@@ -35,10 +35,10 @@ In a 1-year clinical trial of 1,376 women (average age 54 ± 4.6 years) randomiz
 
 TABLE 6: INCIDENCE OF ENDOMETRIAL HYPERPLASIA AFTER ONE YEAR OF TREATMENT
 
-|  | 0.625 mg/2.5 mg | 0.625 mg/5 mg | 0.625 mg/5 mg | 0.625 mg |
-| --- | --- | --- | --- | --- |
 |  | --------------------------Groups------------------------- |  |  |  |
+| --- | --- | --- | --- | --- |
 |  | PREMPRO | PREMPRO | PREMPHASE | Premarin |
+|  | 0.625 mg/2.5 mg | 0.625 mg/5 mg | 0.625 mg/5 mg | 0.625 mg |
 | Total number of patients | 340 | 338 | 351 | 347 |
 | Number of patients with evaluable biopsies | 279 | 274 | 277 | 283 |
 | No. (%) of patients with biopsies: |  |  |  |  |
@@ -54,9 +54,9 @@ TABLE 7: INCIDENCE OF ENDOMETRIAL HYPERPLASIA/CANCERAll cases of hyperplasia/can
 AFTER ONE YEAR OF TREATMENTTwo (2) primary pathologists evaluated each endometrial biopsy.
 Where there was lack of agreement on the presence or absence of hyperplasia/cancer between the two, a third pathologist adjudicated (consensus).
 
-| Patient | Prempro 0.625 mg/2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/1.5 mg | Premarin 0.3 mg |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | -----------------------------------Groups--------------------------------- |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Patient | Prempro 0.625 mg/2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/1.5 mg | Premarin 0.3 mg |
 | Total number of patients | 331 | 348 | 331 | 338 | 327 | 326 |
 | Number of patients with evaluable biopsies | 278 | 249 | 272 | 279 | 271 | 269 |
 | No. (%) of patients with biopsies: |  |  |  |  |  |  |
@@ -66,9 +66,9 @@ TABLE 8: OSTEOPOROSIS AND METABOLIC SUBSTUDY, INCIDENCE OF ENDOMETRIAL HYPERPLAS
 AFTER TWO YEARS OF TREATMENTTwo (2) primary pathologists evaluated each endometrial biopsy.
 Where there was lack of agreement on the presence or absence of hyperplasia/cancer between the two, a third pathologist adjudicated (consensus).
 
-| Patient | Prempro 0.625 mg/2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/1.5 mg | Premarin 0.3 mg |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | -------------------------------Groups------------------------------ |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Patient | Prempro 0.625 mg/2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/1.5 mg | Premarin 0.3 mg |
 | Total number of patients | 75 | 65 | 75 | 74 | 79 | 73 |
 | Number of patients with evaluable biopsies | 62 | 55 | 69 | 67 | 75 | 63 |
 | No. (%) of patients with biopsies: |  |  |  |  |  |  |
@@ -159,9 +159,9 @@ These results reflect centrally adjudicated data after an average follow-up of 5
 TABLE 10: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
-| Event |  | Absolute Risk per 10,000 Women-Years |  |
-| --- | --- | --- | --- |
 |  | Relative Risk CE/MPA vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPA n = 8,506 | Placebo n = 8,102 |
+| --- | --- | --- | --- |
+| Event |  | Absolute Risk per 10,000 Women-Years |  |
 | CHD events | 1.23 (0.99–1.53) | 41 | 34 |
 | Non-fatal MI | 1.28 (1.00–1.63) | 31 | 25 |
 | CHD death | 1.10 (0.70–1.75) | 8 | 8 |
@@ -192,9 +192,9 @@ Results of the estrogen-alone substudy, which included 10,739 women (average 63 
 Table 11: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
-| Event |  | Absolute Risk per 10,000 Women-Years |  |
-| --- | --- | --- | --- |
 |  | Relative Risk CE vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE n = 5,310 | Placebo n = 5,429 |
+| --- | --- | --- | --- |
+| Event |  | Absolute Risk per 10,000 Women-Years |  |
 | CHD eventsResults are based on centrally adjudicated data for an average follow-up of 7.1 years. | 0.95 (0.78–1.16) | 54 | 57 |
 | Non-fatal MI | 0.91 (0.73–1.14) | 40 | 43 |
 | CHD death | 1.01 (0.71–1.43) | 16 | 16 |

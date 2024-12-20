@@ -57,17 +57,17 @@ Keep this and all medications out of the reach of children.
 
 PREMPRO 0.3 mg/1.5 mg
 
-Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc. Philadelphia, PA 19101
 
 www.PREMPRO.com
 
 Rx only
 
-PAA214159
+PAA224096
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
-LOT XXXXXXX EXP YYYY MMM
+LOT XXXXXXX EXP YYYY-MMM
 
 # PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Card Carton
 
@@ -108,17 +108,17 @@ Keep this and all medications out of the reach of children.
 
 PREMPRO 0.45 mg/1.5 mg
 
-Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc. Philadelphia, PA 19101
 
 www.PREMPRO.com
 
 Rx only
 
-PAA213718
+PAA224094
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
-LOT XXXXXXX EXP YYYY MMM
+LOT XXXXXXX EXP YYYY-MMM
 
 # PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Card Carton
 
@@ -161,17 +161,17 @@ MADE IN IRELAND
 
 PREMPRO 0.625 mg/2.5 mg
 
-Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc. Philadelphia, PA 19101
 
 Rx only
 
 www.PREMPRO.com
 
-PAA213715
+PAA224092
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
-LOT XXXXXXX EXP YYYY MMM
+LOT XXXXXXX EXP YYYY-MMM
 
 # PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Tablet Blister Card Carton
 
@@ -214,15 +214,15 @@ MADE IN IRELAND
 
 PREMPRO 0.625 mg/5 mg
 
-Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc. Philadelphia, PA 19101
 
 www.PREMPRO.com
 
-PAA213717
+PAA224000
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
-LOT XXXXXXX EXP YYYY MMM
+LOT XXXXXXX EXP YYYY-MMM
 
 # PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Tablet Blister Card Carton
 
