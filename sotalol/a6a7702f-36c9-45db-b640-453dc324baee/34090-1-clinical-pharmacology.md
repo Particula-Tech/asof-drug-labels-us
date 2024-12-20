@@ -29,8 +29,8 @@ Twenty-five children in an unblinded, multicenter trial with SVT and/or ventricu
 During steady-state, the respective average increases above baseline of the QTc interval were 2, 14, and 29 msec at the 3 dose levels.
 The respective mean maximum increases above baseline of the QTc interval were 23, 36, and 55 msec at the 3 dose levels.
 The steady-state percent increases in the RR interval were 3, 9, and 12%.
-The smallest children (BSA<0.33 m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with larger children (BSA≥0.33 m2).
-The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33 m2).
+The smallest children (BSA <0.33 m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with larger children (BSA ≥0.33 m2).
+The beta-blocking effects also tended to be greater in the smaller children (BSA <0.33 m2).
 Both the Class III and beta-blocking effects of sotalol were linearly related to the plasma concentrations.
 
 Hemodynamics
@@ -38,7 +38,7 @@ Hemodynamics
 In a study of systemic hemodynamic function measured invasively in 12 patients with a mean LV ejection fraction of 37% and ventricular tachycardia (9 sustained and 3 non-sustained), a median dose of 160 mg twice daily of Betapace produced a 28% reduction in heart rate and a 24% decrease in cardiac index at 2 hours post-dosing at steady-state.
 Concurrently, systemic vascular resistance and stroke volume showed nonsignificant increases of 25% and 8%, respectively.
 One patient was discontinued because of worsening congestive heart failure.
-Pulmonary capillary wedge pressure increased significantly from 6.4 mmHg to 11.8 mmHg in the 11 patients who completed the study.
+Pulmonary capillary wedge pressure increased significantly from 6.4 to 11.8 mmHg in the 11 patients who completed the study.
 Mean arterial pressure, mean pulmonary artery pressure and stroke work index did not significantly change.
 Exercise and isoproterenol induced tachycardia are antagonized by Betapace, and total peripheral resistance increases by a small amount.
 
@@ -70,7 +70,7 @@ Excretion
 
 Excretion of sotalol is predominantly via the kidney in the unchanged form, and therefore, lower doses are necessary in conditions of renal impairment [see Dosage and Administration (2.5)].
 The mean elimination half-life of sotalol is 12 hours.
-Dosing every 12 hours results in trough plasma concentrations that are approximately one-half of those at peak.
+Dosing every 12 hours results in trough plasma concentrations which are approximately one-half of those at peak.
 
 Specific Populations
 
@@ -80,7 +80,7 @@ After rapid absorption with peak levels occurring on average between 2 to 3 hour
 Steady-state was reached after 1 to 2 days.
 The average peak to trough concentration ratio was 2.
 Body surface area was the most important covariate and more relevant than age for the pharmacokinetics of sotalol.
-The smallest children (BSA<0.33 m2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
+The smallest children (BSA <0.33 m2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
 The intersubject variation for oral clearance was 22%.
 
 Geriatric: Age does not significantly alter the pharmacokinetics of Betapace/Betapace AF, but impaired renal function in geriatric patients can increase the terminal elimination half-life, resulting in increased drug accumulation.

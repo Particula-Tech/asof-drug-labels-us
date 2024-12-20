@@ -32,7 +32,9 @@ Doses were administered once daily in 20% of the patients because of reduced cre
 Betapace AF was shown to prolong the time to the first symptomatic, ECG-documented recurrence of AFIB/AFL, as well as to reduce the risk of such recurrences at both 6 and 12 months.
 The 120 mg dose was more effective than 80 mg, but 160 mg did not appear to have an added benefit.
 Note that these doses were given twice or once daily, depending on renal function.
-The results are shown in Figure 1,.
+The results are shown in Figure 1,Table 3, and Table 4.
+
+Figure 1: Study 1 – Time to First ECG-Documented Recurrence of Symptomatic AFIB/AFL Since Randomization
 
 Table 3: Study 1 - Patient Status at 12 Months
 
@@ -43,7 +45,10 @@ Table 3: Study 1 - Patient Status at 12 Months
 | On treatment in NSR at 12 months without recurrencea | 23% | 22% | 29% | 23% |
 | Recurrenceab | 67% | 58% | 49% | 42% |
 | D/C for AEs | 6% | 12% | 18% | 29% |
-| a Symptomatic AFIB/AFL b Efficacy endpoint of Study 1; study treatment stopped. Note that columns do not add up to 100% due to discontinuations (D/C) for “other” reasons. |  |  |  |  |
+| a Symptomatic AFIB/AFL |  |  |  |  |
+| b Efficacy endpoint of Study 1; study treatment stopped. |  |  |  |  |
+
+Note that columns do not add up to 100% due to discontinuations (D/C) for “other” reasons.
 
 Table 4: Study 1 - Median Time to Recurrence of Symptomatic AFIB/AFL and Relative Risk (vs.
 Placebo) at 12 Months
@@ -67,7 +72,7 @@ After successful cardioversion patients were randomized to receive placebo (n=11
 If the initial dose was not tolerated it was decreased to 80 mg once daily, but if it was tolerated, it was increased to 160 mg twice daily.
 During the maintenance period 67% of treated patients received a dose of 160 mg twice daily, and the remainder received doses of 80 mg once daily (17%) and 80 mg twice daily (16%).
 
-show the results of the trial.
+Tables 5 and 6 show the results of the trial.
 There was a longer time to ECG-documented recurrence of AFIB and a reduced risk of recurrence at 6 months compared to placebo.
 
 Table 5: Study 2 - Patient Status at 6 Months
@@ -78,7 +83,8 @@ Table 5: Study 2 - Patient Status at 6 Months
 | Recurrenceab | 67% | 49% |  |  |  |  |  |  |  |  |  |  |
 | D/C for AEs | 3% | 6% |  |  |  |  |  |  |  |  |  |  |
 | Death | 1% |  |  |  |  |  |  |  |  |  |  |  |
-| a Symptomatic or asymptomatic AFIB/AFL b Efficacy endpoint of Study 2; study treatment stopped. |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Symptomatic or asymptomatic AFIB/AFL |  |  |  |  |  |  |  |  |  |  |  |  |
+| b Efficacy endpoint of Study 2; study treatment stopped. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Table 6: Study 2 - Median Time to Recurrence of Symptomatic AFIB/AFL/Death and Relative Risk (vs.
 Placebo) at 6 Months
@@ -86,3 +92,5 @@ Placebo) at 6 Months
 |  | Placebo n=114 | Betapace AF n=118 | Relative Risk | P-value |
 | --- | --- | --- | --- | --- |
 | Median time to recurrence (days) | 44 | >180 | 0.55 | 0.002 |
+
+Figure 2: Study 2 – Time to First ECG-Documented Recurrence of Symptomatic AFIB/AFL/Death Since Randomization

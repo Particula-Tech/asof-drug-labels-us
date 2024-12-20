@@ -4,7 +4,7 @@
 
 Withdraw other antiarrhythmic therapy before starting Betapace/Betapace AF and monitor for a minimum of 2 to 3 plasma half-lives prior to initiating Betapace/Betapace AF therapy if the patient's clinical condition permits [see Drug Interactions (7)].
 
-Hospitalize patients being initiated or re-initiated on sotalol for at least 3 days or until steady-state drug levels are achieved, in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
+Hospitalize patients being initiated or re-initiated on sotalol for at least 3 days or until steady-state drug levels are achieved in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
 Initiate oral sotalol therapy in the presence of personnel trained in the management of serious arrhythmias.
 Perform a baseline ECG to determine the QT interval and measure and normalize serum potassium and magnesium levels before initiating therapy.
 Measure serum creatinine and calculate an estimated creatinine clearance in order to establish the appropriate dosing interval.
@@ -29,7 +29,7 @@ The recommended initial dose is 80 mg twice daily.
 This dose may be increased in increments of 80 mg per day every 3 days provided the QTc <500 msec [see Warnings and Precautions (5.1)].
 Continually monitor patients until steady state blood levels are achieved.
 Most patients will have satisfactory response with 120 mg twice daily.
-Initiation of sotalol in patients with QTc >450 msec is contraindicated [see Contraindication (4)].
+Initiation of sotalol in patients with QTc >450 msec is contraindicated [see Contraindications (4)].
 
 ## 2.4 Pediatric Dose for Ventricular Arrhythmias or AFIB/AFL
 
@@ -37,7 +37,7 @@ Use the same precautionary measures for children as you would use for adults whe
 
 For Children Aged About 2 Years and Older
 
-For children aged about 2 years and older, with normal renal function, doses normalized for body surface area are appropriate for both initial and incremental dosing.
+For children aged about 2 years and older with normal renal function, doses normalized for body surface area are appropriate for both initial and incremental dosing.
 Since the Class III potency in children is not very different from that in adults, reaching plasma concentrations that occur within the adult dose range is an appropriate guide [see Clinical Pharmacology (12.1, 12.3)].
 
 For initiation of treatment, 1.2 mg/kg three times a day (3.6 mg/kg total daily dose) is approximately equivalent to the initial 160 mg total daily dose for adults.
@@ -57,9 +57,7 @@ Use similar calculations for dose titration.
 
 Adults
 
-In any age group with decreased renal function, sotalol doses should be lowered or the intervals
-
-between doses increased.
+In any age group with decreased renal function, sotalol doses should be lowered or the intervals between doses increased.
 It will take much longer to reach steady-state with any dose and/or frequency of administration.
 Closely monitor heart rate and QTc.
 
@@ -68,7 +66,7 @@ Sotalol is partly removed by dialysis; specific advice is unavailable on dosing 
 
 Administer the initial dose of 80 mg and subsequent doses at the intervals listed in Table 1.
 
-Table 1 Dosing Intervals in Renal Impairment
+Table 1: Dosing Intervals in Renal Impairment
 
 | Creatinine Clearance mL/min | Dosing Interval (hours) |
 | --- | --- |
@@ -81,18 +79,18 @@ Table 1 Dosing Intervals in Renal Impairment
 
 Betapace/Betapace AF Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) as follows:
 
-1. 1.Measure 120 mL of Simple Syrup.
-2. 2.Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
+1. Measure 120 mL of Simple Syrup.
+2. Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
    An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-3. 3.Add five (5) Betapace/Betapace AF 120 mg tablets to the bottle.
+3. Add five (5) Betapace/Betapace AF 120 mg tablets to the bottle.
    These tablets are added intact; it is not necessary to crush the tablets.
    The addition of the tablets can also be done first.
    The tablets can also be crushed, if preferred.
    If the tablets are crushed, take care to transfer the entire quantity of tablet powder into the bottle containing the syrup.
-4. 4.Shake the bottle to wet the entire surface of the tablets.
+4. Shake the bottle to wet the entire surface of the tablets.
    If the tablets have been crushed, shake the bottle until the endpoint is achieved.
-5. 5.Allow the tablets to hydrate for at least two hours.
-6. 6.After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
+5. Allow the tablets to hydrate for at least two hours.
+6. After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
    The tablets can be allowed to hydrate overnight to simplify the disintegration process.
 
 The endpoint is achieved when a dispersion of fine particles in the syrup is obtained.

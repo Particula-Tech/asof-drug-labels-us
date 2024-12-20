@@ -77,7 +77,7 @@ Associated side effects of sotalol use in pediatric patients are those typical o
 As in adults, the Class III antiarrhythmic action of sotalol in pediatric patients is associated with a significant proarrhythmic potential for adverse effects.
 In pediatric patients, the incidence of proarrhythmic side effects of sotalol varies from 0 to 22%; however, sotalol-induced Torsade de Pointes tachycardias are observed less frequently in the pediatric population.
 
-Proarrhythmic effects of sotalol in pediatric patients included increased ventricular ectopy and exacerbation of bradycardia, the latter predominantly in patients sinus node dysfunction following surgery for congenital cardiac defects.
+Proarrhythmic effects of sotalol in pediatric patients included increased ventricular ectopy and exacerbation of bradycardia, the latter predominantly in patients with sinus node dysfunction following surgery for congenital cardiac defects.
 Bradycardia may require emergency pacemaker implantation.
 Close in-patient monitoring is recommended for several days.
 

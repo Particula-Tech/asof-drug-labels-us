@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse reactions that are clearly related to sotalol are those that are typical of its Class II (beta-blocking) and Class III (cardiac action potential duration prolongation) effects and are dose related.
+Adverse reactions that are clearly related to sotalol are those which are typical of its Class II (beta-blocking) and Class III (cardiac action potential duration prolongation) effects and are dose related.
 
 Ventricular Arrhythmias
 
@@ -28,9 +28,9 @@ The data are presented by incidence of reactions in the Betapace AF and placebo 
 
 Table 2: Incidence (%) of Common Adverse Reactions (≥ 2% in the Placebo Group and Less Frequent Than in the Betapace AF Groups) in Four Placebo-controlled Studies of Patients with AFIB/AFL
 
-| N = 282 (%) | 160-240 mg N = 153 (%) | >240-320 mg N = 122 (%) |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | Placebo | Betapace AF Total Daily Dose |  |
+| --- | --- | --- | --- |
+| N = 282 (%) | 160-240 mg N = 153 (%) | >240-320 mg N = 122 (%) |  |
 | Bradycardia | 3 | 13 | 12 |
 | Diarrhea | 2 | 5 | 6 |
 | Nausea/Vomiting | 5 | 8 | 6 |
@@ -41,7 +41,7 @@ Table 2: Incidence (%) of Common Adverse Reactions (≥ 2% in the Placebo Group 
 | Headache | 5 | 3 | 12 |
 | Dyspnea | 7 | 9 | 10 |
 
-Overall, discontinuation because of unacceptable adverse events was necessary in 17% of the patients, and occurred in 10% of patients less than two weeks after starting treatment.
+Overall, discontinuation because of unacceptable adverse events was necessary in 17% of the patients and occurred in 10% of patients less than two weeks after starting treatment.
 The most common adverse reactions leading to discontinuation of Betapace AF were: fatigue 4.6%, bradycardia 2.4%, proarrhythmia 2.2%, dyspnea 2%, and QT interval prolongation 1.4%.
 
 ## 6.2 Postmarketing Experience

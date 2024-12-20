@@ -43,7 +43,7 @@ Because coronary artery disease is common, but may be unrecognized, the abrupt d
 ## 5.6 Bronchospasm
 
 Patients with bronchospastic diseases (for example chronic bronchitis and emphysema) should not receive beta-blockers.
-If Betapace/Betapace AF is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta-2-receptors.
+If Betapace/Betapace AF is to be administered, use the smallest effective dose to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta-2-receptors.
 
 ## 5.7 Effects on Blood Sugar
 
