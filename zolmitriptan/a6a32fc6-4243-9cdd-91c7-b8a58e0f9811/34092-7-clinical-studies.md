@@ -23,14 +23,13 @@ Table 2 Percentage of Patients with Headache Response (Reduction in Headache Sev
 
 |  | Placebo | Zolmitriptan tablets 1 mg | Zolmitriptan tablets 2.5 mg | Zolmitriptan tablets 5 mg |
 | --- | --- | --- | --- | --- |
-| Study 1a | 16% (n=19) | 27% (n=22) | NA | 60%*# (n=20) |
+| Study 1a | 16% (n†=19) | 27% (n=22) | NA‡ | 60%*# (n=20) |
 | Study 2 | 19% (n=88) | NA | NA | 66%* (n=179) |
 | Study 3 | 34% (n=121) | 50%* (n=140) | 65% *# (n=260) | 67%*# (n=245) |
 | Study 4b | 44% (n=55) | NA | NA | 59%* (n=491) |
 | Study 5 | 36% (n=92) | NA | 62%* (n=178) | NA |
 
-n=number of patients randomized * p<0.05 in comparison with placebo. # p<0.05 in comparison with 1 mg. a Study 1 was the only study in which patients treated the headache in a clinic setting. b Study 4 was the only study where patients were excluded who had previously used sumatriptan.
-NA - not applicable
+† n=number of patients randomized * p<0.05 in comparison with placebo. # p<0.05 in comparison with 1 mg. a Study 1 was the only study in which patients treated the headache in a clinic setting. b Study 4 was the only study where patients were excluded who had previously used sumatriptan. ‡NA - not applicable
 
 The estimated probability of achieving an initial headache response by 4 hours following treatment in pooled Studies 2, 3, and 5 is depicted in Figure 1.
 Figure 1 Estimated Probability of Achieving Initial Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) Within 4 Hours of Treatment in Pooled Studies 2, 3, and 5*
@@ -42,7 +41,7 @@ For patients with migraine associated photophobia, phonophobia, and nausea at ba
 
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
-Figure 2 The Estimated Probability Of Patients Taking A Second Dose Or Other Medication For Migraines Over The 24 Hours Following The Initial Dose Of Study Treatment in Pooled Studies 2, 3, and 5*
+Figure 2 The Estimated Probability Of Patients Taking a Second Dose Or Other Medication For Migraines Over The 24 Hours Following The Initial Dose Of Study Treatment in Pooled Studies 2, 3, and 5*
 
 *In this Kaplan-Meier plot, patients not using additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.

@@ -1,6 +1,6 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-2.5 mg BLISTER CARTON:
+2.5mg BLISTER CARTON:
 
 NDC 59746-461-16 CADISTATM Zolmitriptan Orally Disintegrating Tablets 2.5 mg Pharmacist: Dispense the accompanying patient information leaflet to each patient.
 6 (2 x 3) Unit-Dose Tablets Rx Only
@@ -11,3 +11,5 @@ NDC 59746-461-16 CADISTATM Zolmitriptan Orally Disintegrating Tablets 2.5 mg Pha
 3 (1 x 3) Unit-Dose Tablets Rx Only
 
 5 mg BLISTER FOIL:
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL

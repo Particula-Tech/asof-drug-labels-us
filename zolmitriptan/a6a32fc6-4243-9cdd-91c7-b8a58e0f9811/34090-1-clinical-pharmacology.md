@@ -31,7 +31,7 @@ The indole acetic acid and N-oxide metabolites are inactive.
 Mean total plasma clearance is 31.5 mL/min/kg, of which one-sixth is renal clearance.
 The renal clearance is greater than the glomerular filtration rate suggesting renal tubular secretion.
 
-Special Populations Hepatic Impairment In patients with severe hepatic impairment, the mean Cmax, Tmax, and AUC0-∞of zolmitriptan were increased 1.5-fold, 2-fold (2 vs. 4 hours), and 3-fold, respectively, compared to subjects with normal hepatic function.
+Specific Populations Hepatic Impairment In patients with severe hepatic impairment, the mean Cmax, Tmax, and AUC0-∞of zolmitriptan were increased 1.5-fold, 2-fold (2 vs. 4 hours), and 3-fold, respectively, compared to subjects with normal hepatic function.
 Seven out of 27 patients experienced 20 to 80 mm Hg elevations in systolic and/or diastolic blood pressure after a 10 mg zolmitriptan dose.
 Adjust the zolmitriptan dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
@@ -44,7 +44,7 @@ Hypertensive Patients No differences in the pharmacokinetics of zolmitriptan or 
 Drug Interaction Studies All drug interaction studies were performed in healthy volunteers using a single 10 mg dose of zolmitriptan and a single dose of the other drug except where otherwise noted.
 
 MAO Inhibitors Following one week of administration of moclobemide (150 mg twice daily), a specific MAO-A inhibitor, there was an increase of about 25% in both Cmax and AUC for zolmitriptan and a 3-fold increase in the Cmax and AUC of the active N­-desmethyl metabolite of zolmitriptan.
-MAO inhibitors are contraindicated in zolmitriptan-treated patients [see Contraindications(4), Warnings and Precautions (5.7), and Drug Interactions (7.2, 7.4)].
+MAO inhibitors are contraindicated in zolmitriptan-treated patients [see Contraindications(4), Warnings and Precautions (5.7), and Drug Interactions (7.2,7.4)].
 Selegiline, a selective MAO-B inhibitor, at a dose of 10 mg/day for 1 week, had no effect on the pharmacokinetics of zolmitriptan and its metabolite.
 Cimetidine Following the administration of cimetidine, the half-life and AUC of zolmitriptan (5 mg dose), and its active metabolite, were approximately doubled [see Dosage and Administration (2.4), Drug Interactions (7.5)].
 Fluoxetine The pharmacokinetics of zolmitriptan, as well as its effect on blood pressure, were unaffected by 4 weeks of pretreatment with oral fluoxetine (20 mg/day).

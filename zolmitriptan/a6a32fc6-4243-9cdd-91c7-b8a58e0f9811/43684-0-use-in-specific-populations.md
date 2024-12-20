@@ -2,20 +2,38 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women; therefore, zolmitriptan should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-In reproductive toxicity studies in rats and rabbits, oral administration of zolmitriptan to pregnant animals resulted in embryolethality and fetal abnormalities (malformations and variations) at clinically relevant exposures.
+Risk Summary
+
+There are no adequate data on the developmental risk associated with the use of zolmitriptan in pregnant women.
+In reproductive toxicity studies in rats and rabbits, oral administration of zolmitriptan to pregnant animals resulted in embryolethality and fetal abnormalities (malformations and variations) at clinically relevant exposures (see Data).
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+The estimated rates of major birth defects (2.2% to 2.9%) and miscarriage (17%) among deliveries to women with migraine are similar to rates reported in women without migraine.
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Published data have suggested that women with migraine may be at increased risk of preeclampsia during pregnancy.
+
+Data
+
+Animal Data
+
 When zolmitriptan was administered to pregnant rats during the period of organogenesis at oral doses of 100, 400, and 1200 mg/kg/day (plasma exposures (AUCs) ≈280, 1100, and 5000 times the human AUC at the maximum recommended human dose (MRHD) of 10 mg/day), there was a dose-related increase in embryolethality.
 A no-effect dose for embryolethality was not established.
 When zolmitriptan was administered to pregnant rabbits during the period of organogenesis at oral doses of 3, 10, and 30 mg/kg/day (plasma AUCs ≈1, 11, and 42 times the human AUC at the MRHD), there were increases in embryolethality and in fetal malformations and variations.
-The no-effect dose for adverse effects on embryo-fetal development was associated with a plasma AUC similar to that in humans at the MRHD.
+The no-effect dose for adverse effects on embryofetal development was associated with a plasma AUC similar to that in humans at the MRHD.
 When female rats were given zolmitriptan during gestation, parturition, and lactation at oral doses of 25, 100, and 400 mg/kg/day (plasma AUCs ≈70, 280, and 1100 times that in human at the MRHD), an increased incidence of hydronephrosis was found in the offspring.
 The no-effect dose was associated with a plasma AUC ≈280 times that in humans at the MRHD.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactaton
 
-It is not known whether zolmitriptan is excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from zolmitriptan, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-In rats, oral dosing with zolmitriptan resulted in levels in milk up to 4 times higher than in plasma.
+Risk Summary
+
+There are no data on the presence of zolmitriptan or its metabolites in human milk, the effects on the breastfed infant, or the effects of zolmitriptan and its metabolites on milk production.
+In rats, oral dosing with zolmitriptan resulted in levels in milk up to 4 times that in maternal plasma.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for zolmitriptan and any potential adverse effects on the breastfed infant from zolmitriptan or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -38,4 +56,4 @@ The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 
 ## 8.6 Patients with Hepatic Impairment
 
 After oral zolmitriptan administration, zolmitriptan blood levels were increased in patients with moderate to severe hepatic impairment, and significant elevation in blood pressure was observed in some of these patients [see Warnings and Precautions (5.8)].
-Therefore, adjust the zolmitriptan dose and administer with caution in patients with moderate or severe hepatic impairment [seeDosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Therefore, adjust the zolmitriptan dose and administer with caution in patients with moderate or severe hepatic impairment [seeDosage and Administration (2.3)and Clinical Pharmacology (12)].
