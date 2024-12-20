@@ -98,11 +98,11 @@ Gastrointestinal Disorders: nausea, vomiting
 
 General Disorders and Administration Site Condition: aches and pain, application site irritation, chest pain, edema of face and tongue, fatigue, tolerance
 
-Immune System Disorders: anaphylaxis/anaphylactoid reactions which in rare instances were severe, hypersensitivity reactions
+Immune System Disorders: anaphylaxis
 
 Musculoskeletal and Connective Tissue Disorders: growth suppression [see Use in Specific Populations (8.4)]
 
-Nervous System Disorders: disturbance or loss of smell and/ or taste, dizziness, involuntary muscle contractions, paresthesia, parosmia
+Nervous System Disorders: disturbance or loss of smell and/or taste, dizziness, involuntary muscle contractions, paresthesia, parosmia
 
 Psychiatric Disorders: anxiety, confusion, nervousness
 

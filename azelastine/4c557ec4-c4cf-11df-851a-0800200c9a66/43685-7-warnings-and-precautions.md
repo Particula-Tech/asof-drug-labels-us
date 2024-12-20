@@ -8,7 +8,7 @@ Concurrent use of DYMISTA with alcohol or other central nervous system depressan
 
 ## 5.2 Local Nasal Effects
 
-In clinical trials of 2 to 52 weeks' duration, epistaxis was observed more frequently in patients treated with DYMISTA than those who received placebo [see Adverse Reactions (6)].
+In clinical trials of 2 to 52 weeks’ duration, epistaxis was observed more frequently in patients treated with DYMISTA than those who received placebo [see Adverse Reactions (6)].
 
 Instances of nasal ulceration and nasal septal perforation have been reported in patients following the nasal application of corticosteroids.
 There were no instances of nasal ulceration or nasal septal perforation observed in clinical trials with DYMISTA.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Dymista (azelastine hydrochloride and fluticasone propionate) nasal spray is formulated as a white, uniform metered-spray suspension for nasal administration.
+DYMISTA (azelastine hydrochloride and fluticasone propionate) nasal spray is formulated as a white, uniform metered-spray suspension for nasal administration.
 It is a fixed dose combination product containing an antihistamine (H1 receptor antagonist) and a corticosteroid as active ingredients.
 
 Azelastine hydrochloride active ingredient occurs as a white, odorless, crystalline powder with a bitter taste.
@@ -12,9 +12,9 @@ Its molecular formula is C22H24ClN3O•HCl with the following chemical structure
 
 Fluticasone propionate active ingredient is a white powder with a melting point of 273°C, a molecular weight of 500.6, and the empirical formula is C25H31F3O5S.
 It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
-Fluticasone propionate is a synthetic corticosteroid having the chemical name S-(fluoromethyl)-6α,9-difluoro-11β-17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate, and the following chemical structure:
+Fluticasone propionate is a synthetic corticosteroid having the chemical name S-(fluoromethyl)-6α,9α-difluoro-11β-17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate, and the following chemical structure:
 
-Dymista (azelastine hydrochloride and fluticasone propionate) nasal spray, 137 mcg/50 mcg contains 0.1% solution of azelastine hydrochloride and 0.037% suspension of micronized fluticasone propionate in an isotonic aqueous suspension containing glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, phenylethyl alcohol (2.5 mg/g), edetate disodium, benzalkonium chloride (0.1 mg/g), polysorbate 80, and purified water.
+DYMISTA (azelastine hydrochloride and fluticasone propionate) nasal spray, 137 mcg/50 mcg contains 0.1% solution of azelastine hydrochloride and 0.037% suspension of micronized fluticasone propionate in an isotonic aqueous suspension containing benzalkonium chloride (0.1 mg/g), carboxymethylcellulose sodium, edetate disodium, glycerin, microcrystalline cellulose, phenylethyl alcohol (2.5 mg/g), polysorbate 80, and purified water.
 It has a pH of approximately 6.0.
 
 After priming [see Dosage and Administration (2.2)], each metered spray delivers a 0.137 mL mean volume of suspension containing 137 mcg of azelastine hydrochloride (equivalent to 125 mcg of azelastine base) and 50 mcg of fluticasone propionate.

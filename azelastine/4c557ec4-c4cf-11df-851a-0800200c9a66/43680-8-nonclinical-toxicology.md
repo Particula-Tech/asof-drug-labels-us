@@ -14,7 +14,7 @@ No evidence for tumorigenicity was observed in mice at doses up to 25 mg/kg (app
 
 Azelastine hydrochloride showed no genotoxic effects in the Ames test, DNA repair test, mouse lymphoma forward mutation assay, mouse micronucleus test, or chromosomal aberration test in rat bone marrow.
 
-There were no effects on male or female fertility and reproductive in male and female rats at oral doses up to 30 mg/kg (approximately 530 times the MRHDID in adults on a mg/m2 basis).
+There were no effects on male or female fertility and reproductive performance in male and female rats at oral doses up to 30 mg/kg (approximately 530 times the MRHDID in adults on a mg/m2 basis).
 At 68.6 mg/kg (approximately 1200 times the MRHDID on a mg/m2 basis), the duration of estrous cycles was prolonged and copulatory activity and the number of pregnancies were decreased.
 The numbers of corpora lutea and implantations were decreased; however, pre-implantation loss was not increased.
 

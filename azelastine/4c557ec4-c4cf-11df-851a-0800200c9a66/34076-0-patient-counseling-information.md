@@ -25,15 +25,17 @@ Keep Spray Out of Eyes: Instruct patients to avoid spraying DYMISTA into their e
 
 Potential Drug Interactions: Advise patients that coadministration of DYMISTA and ritonavir is not recommended and to be cautious if DYMISTA is coadministered with ketoconazole [see Drug Interactions (7.2)].
 
-U.S. Patents 8,163,723; 8,168,620; 9,259,428; and 9,901,585
+U.S. Patent 8,168,620
 
 Manufactured by: Cipla Ltd. Indore SEZ, Pithampur, India M.L.
 No. 28/2/2010
 
-Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Manufactured for: MEDA Meda Pharmaceuticals Inc. Canonsburg, PA 15317 U.S.A.
 
-© 2022 Viatris Inc.
+© 2024 Viatris Inc.
 
 DYMISTA and ASTELIN are registered trademarks of Meda Pharmaceuticals Inc., a Viatris Company.
 
-Revised: 8/2022 IN-023A6-04N
+Revised: 12/2024
+
+IN-023A6-05N

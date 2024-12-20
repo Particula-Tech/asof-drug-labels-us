@@ -126,19 +126,19 @@ Step 12.
 Reprime the bottle as in Steps 1 and 2 above.
 Replace the dust cap and your DYMISTA is ready for use.
 
-This Patient Package Insert and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-U.S. Patents 8,163,723; 8,168,620; 9,259,428; and 9,901,585
+U.S. Patent 8,168,620
 
-Manufactured by: Cipla Ltd. Indore SEZ, Pithampur, India
-
-M.L.
+Manufactured by: Cipla Ltd. Indore SEZ, Pithampur, India M.L.
 No. 28/2/2010
 
-Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Manufactured for: MEDA Meda Pharmaceuticals Inc. Canonsburg, PA 15317 U.S.A.
 
-© 2022 Viatris Inc.
+© 2024 Viatris Inc.
 
 DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Viatris Company.
 
-Revised: 8/2021 IN-023A6-04N
+Revised: 12/2024
+
+IN-023A6-05N
