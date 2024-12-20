@@ -65,7 +65,7 @@ Pernicious anemia is associated with an increased incidence of carcinoma of the 
 
 ## Pregnancy
 
-Pregnancy Category C—Adequate and well-controlled studies have not been done in pregnant women.
+Pregnancy Category C-Adequate and well-controlled studies have not been done in pregnant women.
 However, Vitamin B12 is an essential vitamin and requirements are increased during pregnancy.
 Amounts of Vitamin B12 that are recommended by the Food and Nutrition Board, National Academy of Science-National Research Council for pregnant women (4 mcg daily) should be consumed during pregnancy.
 
