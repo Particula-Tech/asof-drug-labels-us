@@ -25,19 +25,6 @@ Since some of these symptoms may persist for up to 48 hours, patients must not o
 Caution is also indicated at meals on the day of administration because difficulty swallowing and choking has been reported.
 Caution should be exercised in the concomitant administration of tranquilizing agents.
 
-## Hepatotoxicity Seen with Dantrolene Sodium Capsules
-
-Dantrolene sodium has a potential for hepatotoxicity, and should not be used in conditions other than those recommended.
-Symptomatic hepatitis (fatal and non-fatal) has been reported at various dose levels of the drug.
-The incidence reported in patients taking up to 400 mg/day is much lower than in those taking doses of 800 mg or more per day.
-Even sporadic short courses of these higher dose levels within a treatment regimen markedly increased the risk of serious hepatic injury.
-Liver dysfunction as evidenced by blood chemical abnormalities alone (liver enzyme elevations) has been observed in patients exposed to dantrolene sodium for varying periods of time.
-Overt hepatitis has occurred at varying intervals after initiation of therapy, but has been most frequently observed between the third and twelfth month of therapy.
-The risk of hepatic injury appears to be greater in females, in patients over 35 years of age, and in patients taking other medication(s) in addition to dantrolene sodium.
-Dantrolene sodium should be used only in conjunction with appropriate monitoring of hepatic function including frequent determination of SGOT or SGPT.
-
-Fatal and non-fatal liver disorders of an idiosyncratic or hypersensitivity type may occur with dantrolene sodium therapy.
-
 ## Drug Interactions
 
 Dantrolene sodium is metabolized by the liver, and it is theoretically possible that its metabolism may be enhanced by drugs known to induce hepatic microsomal enzymes.
@@ -50,7 +37,7 @@ It is recommended that the combination of intravenous dantrolene sodium and calc
 
 Administration of dantrolene may potentiate vecuronium-induced neuromuscular block.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Sprague-Dawley female rats fed dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
 At the highest dose level (approximately the same as the maximum recommended daily dose on a mg/m2 basis), there was an increase in the incidence of benign hepatic lymphatic neoplasms.

@@ -12,6 +12,9 @@ The following adverse reactions are in approximate order of severity:
 
 There are rare reports of pulmonary edema developing during the treatment of malignant hyperthermia crisis in which the diluent volume and mannitol needed to deliver intravenous dantrolene possibly contributed.
 
+There have been reported cases of hepatotoxicity following the use of intravenous dantrolene products.
+Elevated liver enzymes have occurred hours to days following use of intravenous dantrolene, though many of these cases were observed in patients with comorbidities (e.g., critical illness).
+
 There have been reports of thrombophlebitis following administration of intravenous dantrolene; actual incidence figures are not available.
 Tissue necrosis secondary to extravasation has been reported.
 
@@ -20,8 +23,6 @@ There has been one case of anaphylaxis.
 
 Injection site reactions (pain, erythema, swelling), commonly due to extravasation, have been reported.
 
-None of the serious reactions occasionally reported with long-term oral dantrolene sodium use, such as hepatitis, seizures, and pleural effusion with pericarditis, have been reasonably associated with short-term Dantrolene Sodium for Injection therapy.
-
 The following events have been reported in patients receiving oral dantrolene: aplastic anemia, leukopenia, lymphocytic lymphoma, and heart failure.
 (See package insert for dantrolene sodium capsules for a complete listing of adverse reactions.)
 
@@ -29,4 +30,4 @@ The published literature has included some reports of dantrolene sodium use in p
 Dantrolene Sodium for Injection is not indicated for the treatment of NMS and patients may expire despite treatment with Dantrolene Sodium for Injection.
 
 For medical advice about adverse reactions contact your medical professional.
-To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

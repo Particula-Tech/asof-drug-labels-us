@@ -10,6 +10,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-Revised: August 2020
+Revised: December 2024
 
-PIN474-WES/3
+PIN474-WES/4

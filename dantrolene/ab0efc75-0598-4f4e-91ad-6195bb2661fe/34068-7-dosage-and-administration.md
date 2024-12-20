@@ -21,7 +21,7 @@ This dose should prevent or attenuate the development of clinical and laboratory
 Additional Dantrolene Sodium for Injection may be indicated during anesthesia and surgery because of the appearance of early clinical and/or blood gas signs of malignant hyperthermia or because of prolonged surgery (see also CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 Additional doses must be individualized.
 
-Oral Administration of Dantrolene Oral Capsules: Administer 4 to 8 mg/kg/day of oral Dantrolene Sodium in three or four divided doses for 1 or 2 days prior to surgery, with the last dose being given with a minimum of water approximately 3 to 4 hours before scheduled surgery.
+Oral Administration of Dantrolene Capsules: Administer 4 to 8 mg/kg/day of oral Dantrolene Sodium in three or four divided doses for 1 or 2 days prior to surgery, with the last dose being given with a minimum of water approximately 3 to 4 hours before scheduled surgery.
 Adjustment can usually be made within the recommended dosage range to avoid incapacitation (weakness, drowsiness, etc.) or excessive gastrointestinal irritation (nausea and/or vomiting).
 
 See also the package insert for Dantrolene Sodium Capsules, USP.
@@ -38,7 +38,7 @@ The intravenous dose of dantrolene sodium in the postoperative period must be in
 Each vial of Dantrolene Sodium for Injection should be reconstituted by adding 60 mL of sterile water for injection USP (without a bacteriostatic agent), and the vial shaken until the solution is clear.
 5% Dextrose Injection USP, 0.9% Sodium Chloride Injection USP, and other acidic solutions are not compatible with Dantrolene Sodium for Injection and should not be used.
 The contents of the vial must be protected from direct light and used within 6 hours after reconstitution.
-Store reconstituted solutions at controlled room temperature (59°F to 86°F or 15°C to 30°C).
+Store reconstituted solutions between 15°C to 30°C (59°F to 86°F).
 
 Reconstituted Dantrolene Sodium for Injection should not be transferred to large glass bottles for prophylactic infusion due to precipitate formation observed with the use of some glass bottles as reservoirs.
 
