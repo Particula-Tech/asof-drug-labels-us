@@ -92,8 +92,6 @@ Rx only
 
 GSK
 
-Once-weekly
-
 For Subcutaneous Use
 
 Contents:
@@ -105,9 +103,9 @@ Contents:
 
 Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this package.
 
-©2023 GSK group of companies or is licensor.
+©2024 GSK group of companies or is licensor.
 
 Rev.
-4/23
+8/24
 
-62000000087694
+62000000095407

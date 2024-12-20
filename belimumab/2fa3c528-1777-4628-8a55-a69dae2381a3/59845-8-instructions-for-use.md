@@ -23,14 +23,9 @@ Important Storage Information
 Important Warnings
 
 - •The prefilled syringe should be used only 1 time and then thrown away.
-  See below, “Step 6 - Throw away (dispose of) used syringe.”
-  - oDo not share your BENLYSTA prefilled syringe with other people.
-    You may give other people a serious infection or get a serious infection from them.
-  - oDo not shake the prefilled syringe.
-  - oDo not use if dropped onto a hard surface.
-  - oDo not remove the Needle Cap until right before the injection.
-  - oDo not use in children less than 18 years of age.
-    It is not known if the prefilled syringe is safe and effective in children less than 18 years of age.
+  See below, “Step 6 - Throw away (dispose of) used syringe.”○ Do not share your BENLYSTA prefilled syringe with other people.
+  You may give other people a serious infection or get a serious infection from them.○ Do not shake the prefilled syringe.○ Do not use if dropped onto a hard surface.○ Do not remove the Needle Cap until right before the injection.○ Do not use in children less than 18 years of age.
+  It is not known if the prefilled syringe is safe and effective in children less than 18 years of age.
 
 BENLYSTA Prefilled Syringe Parts
 
@@ -54,12 +49,7 @@ Gather supplies
 
 - •Remove 1 sealed tray containing a prefilled syringe from the refrigerator.
 - •Place any remaining prefilled syringes back into the refrigerator.
-- •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:
-  - oBENLYSTA Prefilled Syringe
-  - oAlcohol swab (not included)
-  - oGauze pad or cotton ball (not included)
-  - oSharps container (not included)
-- •Do not give the injection if you do not have all the supplies listed.
+- •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:○ BENLYSTA Prefilled Syringe○ Alcohol swab (not included)○ Gauze pad or cotton ball (not included)○ Sharps container (not included)
 
 Take out the prefilled syringe
 
@@ -84,9 +74,9 @@ Allow to come to room temperature
   See Figure D.
 
 - 
-  - oDo not warm the prefilled syringe in any other way.
+  - •Do not warm the prefilled syringe in any other way.
     For example, do not warm in a microwave oven, hot water, or in direct sunlight.
-  - oDo not remove the Needle Cap during this step.
+  - •Do not remove the Needle Cap during this step.
 
 Inspect BENLYSTA solution
 
@@ -166,17 +156,7 @@ See Figure L.
 
 - •Put your used syringe and sharps in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.
-- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
-  - ois made of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - ois upright and stable during use,
-  - ois leak-resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
-- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-  There may be state or local laws about how you should throw away used needles and syringes.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to: http://www.fda.gov/safesharpsdisposal.
-- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
-  Do not recycle your used sharps disposal container.
+- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:○ is made of a heavy-duty plastic,○ can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,○ is upright and stable during use,○ is leak-resistant, and○ properly labeled to warn of hazardous waste inside the container.
 
 Additional information
 
@@ -224,13 +204,8 @@ Important Storage Information
 Important Warnings
 
 - •The autoinjector should be used only 1 time and then thrown away.
-  See below, “Step 6 – Throw away (dispose of) used autoinjector.”
-  - oDo not share your BENLYSTA Autoinjector with other people.
-    You may give other people a serious infection or get a serious infection from them.
-  - oDo not shake the autoinjector.
-  - oDo not use if dropped onto a hard surface.
-  - oDo not remove the Ring Cap until right before the injection.
-  - oFor children less than 10 years of age, BENLYSTA must be given by a healthcare provider or a trained caregiver.
+  See below, “Step 6 – Throw away (dispose of) used autoinjector.”○ Do not share your BENLYSTA Autoinjector with other people.
+  You may give other people a serious infection or get a serious infection from them.○ Do not shake the autoinjector.○ Do not use if dropped onto a hard surface.○ Do not remove the Ring Cap until right before the injection.○ For children less than 10 years of age, BENLYSTA must be given by a healthcare provider or a trained caregiver.
 
 BENLYSTA Autoinjector Parts
 
@@ -250,12 +225,7 @@ Gather supplies
 
 - •Remove 1 sealed tray containing an autoinjector from the refrigerator.
 - •Place any remaining autoinjectors back into the refrigerator.
-- •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:
-  - oBENLYSTA Autoinjector
-  - oAlcohol swab (not included)
-  - oGauze pad or cotton ball (not included)
-  - oSharps container (not included)
-- •Do not give the injection if you do not have all the supplies listed.
+- •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:○ BENLYSTA Autoinjector○ Alcohol swab (not included)○ Gauze pad or cotton ball (not included)○ Sharps container (not included)
 
 Take out the autoinjector
 
@@ -280,9 +250,9 @@ Allow to come to room temperature
   See Figure D.
 
 - 
-  - oDo not warm the autoinjector in any other way.
+  - •Do not warm the autoinjector in any other way.
     For example, do not warm in a microwave oven, hot water, or in direct sunlight.
-  - oDo not remove the Ring Cap during this step.
+  - •Do not remove the Ring Cap during this step.
 
 Inspect BENLYSTA solution
 
@@ -327,10 +297,8 @@ Position the autoinjector
 
 - •Hold the autoinjector comfortably so that you can see the Inspection Window.
   It is important that you can look at the Inspection Window while giving the injection.
-  You will look at the Inspection Window to:
-  - osee that the purple indicator is moving while you are injecting.
-  - osee that the purple indicator has stopped to make sure that the dose is complete.
-    See Figure I.
+  You will look at the Inspection Window to:○ see that the purple indicator is moving while you are injecting.○ see that the purple indicator has stopped to make sure that the dose is complete.
+  See Figure I.
 
 - •Position the autoinjector straight over the injection site at a 90-degree angle.
   Make sure the Gold Needle Guard is flat on the skin.
@@ -358,8 +326,7 @@ Complete the injection
 Inspect the injection site
 
 - •There may be a small amount of blood at the injection site.
-  If needed, press a cotton ball or gauze pad on the injection site.
-  - oDo not rub the injection site
+  If needed, press a cotton ball or gauze pad on the injection site.○ Do not rub the injection site
 
 Step 6 Throw away (dispose of) used autoinjector
 
@@ -369,17 +336,7 @@ Dispose of the used autoinjector
   See Figure M.
 - •Put your used autoinjector in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) in your household trash.
-- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
-  - ois made of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - ois upright and stable during use,
-  - ois leak-resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
-- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-  There may be state or local laws about how you should throw away used needles and syringes.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to: http://www.fda.gov/safesharpsdisposal.
-- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
-  Do not recycle your used sharps disposal container.
+- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:○ is made of a heavy-duty plastic,○ can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,○ is upright and stable during use,○ is leak-resistant, and○ properly labeled to warn of hazardous waste inside the container.
 
 Additional information
 
