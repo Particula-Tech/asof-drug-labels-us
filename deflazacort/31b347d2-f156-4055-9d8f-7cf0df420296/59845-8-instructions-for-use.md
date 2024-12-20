@@ -127,9 +127,11 @@ How should I store EMFLAZA oral suspension?
 What are the ingredients in EMFLAZA oral suspension?
 Active ingredient: deflazacort Inactive ingredients: acetic acid, aluminum magnesium silicate, benzyl alcohol, carboxymethylcellulose sodium, polysorbate 80, purified water, and sorbitol.
 
-Manufactured for: PTC Therapeutics, Inc., South Plainfield, NJ 07080, U.S.A.
+Manufactured for: PTC Therapeutics, Inc., Warren, NJ 07059, U.S.A.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 EMFLAZA™ is a trademark of PTC Therapeutics, Inc.
 
-Issued: April 2019
+20EMF13891961118
+
+Revised: 06/2024

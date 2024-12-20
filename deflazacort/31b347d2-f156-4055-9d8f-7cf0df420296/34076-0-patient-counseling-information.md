@@ -46,7 +46,7 @@ Inform patients and/or caregivers that alternate therapy, dosage adjustment, and
 
 PTC Therapeutics
 
-Manufactured for: PTC Therapeutics, Inc. South Plainfield, NJ 07080 U.S.A.
+Manufactured for: PTC Therapeutics, Inc. Warren, NJ 07059 U.S.A.
 
 EMFLAZA Oral Suspension made in Spain
 
