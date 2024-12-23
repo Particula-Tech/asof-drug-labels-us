@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Topicort® (desoximetasone ointment USP) 0.05% is supplied in:
+Topicort ®(desoximetasone ointment USP) 0.05% is supplied in:
 
 15 gram tubes (NDC 51672-5263-1), 30 gram tubes (NDC 51672-5263-2), 60 gram tubes (NDC 51672-5263-3) and 100 gram tubes (NDC 51672-5263-7).
 

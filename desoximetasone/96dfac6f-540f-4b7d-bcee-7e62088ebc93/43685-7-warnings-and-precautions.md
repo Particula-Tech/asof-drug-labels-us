@@ -37,7 +37,7 @@ Clinical diagnosis of allergic contact dermatitis can be confirmed by patch test
 ## Concomitant Skin Infections
 
 Concomitant skin infections should be treated with an appropriate antimicrobial agent.
-If the infection persists, Topicort® (desoximetasone ointment USP) 0.05% should be discontinued until the infection has been adequately treated.
+If the infection persists, Topicort ®(desoximetasone ointment USP) 0.05% should be discontinued until the infection has been adequately treated.
 
 ## Information for the Patient
 
@@ -49,7 +49,7 @@ Patients using topical corticosteroids should receive the following information 
 2. Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
 3. The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
 4. Patients should report any signs of local adverse reactions, especially under occlusive dressings.
-5. Other corticosteroid-containing products should not be used with Topicort® (desoximetasone ointment USP) 0.05% without first consulting with the physician.
+5. Other corticosteroid-containing products should not be used with Topicort ®(desoximetasone ointment USP) 0.05% without first consulting with the physician.
 
 As with other corticosteroids, therapy should be discontinued when control is achieved.
 If no improvement is seen within 4 weeks, contact the physician.
@@ -76,10 +76,10 @@ Desoximetasone was nonmutagenic in the Ames test.
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
-Desoximetasone has been shown to be teratogenic and embryotoxic in mice, rats, and rabbits when given by subcutaneous or dermal routes of administration in doses 15 to 150 times the human dose of Topicort® (desoximetasone ointment USP) 0.05%.
+Desoximetasone has been shown to be teratogenic and embryotoxic in mice, rats, and rabbits when given by subcutaneous or dermal routes of administration in doses 15 to 150 times the human dose of Topicort ®(desoximetasone ointment USP) 0.05%.
 
 There are no adequate and well-controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids.
-Therefore, Topicort® (desoximetasone ointment USP) 0.05% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Therefore, Topicort ®(desoximetasone ointment USP) 0.05% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Drugs of this class should not be used extensively on pregnant patients, in large amounts, or for prolonged periods of time.
 
 ## Nursing Mothers
