@@ -6,8 +6,8 @@ NSAIDs can cause serious side effects, including:
 
 - •Increased risk of a heart attack or stroke that can lead to death.
   This risk may happen early in treatment and may increase:
-  - owith increasing doses of NSAIDs
-  - owith longer use of NSAIDs
+  - •with increasing doses of NSAIDs
+  - •with longer use of NSAIDs
 
 Do not take NSAIDs right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
 
@@ -15,9 +15,9 @@ Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider
 You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 
 - •Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
-  - oanytime during use
-  - owithout warning symptoms
-  - othat may cause death
+  - •anytime during use
+  - •without warning symptoms
+  - •that may cause death
 
 The risk of getting an ulcer or bleeding increases with:
 
@@ -114,6 +114,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0895-4.0
+LAB-0895-5.0
 
-Revised: 11/2022
+Revised: 06/2024

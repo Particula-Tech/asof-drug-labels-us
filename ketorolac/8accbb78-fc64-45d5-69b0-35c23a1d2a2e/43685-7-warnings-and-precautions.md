@@ -114,11 +114,14 @@ Use of ketorolac tromethamine may blunt the CV effects of several therapeutic ag
 Avoid the use of ketorolac tromethamine in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If ketorolac tromethamine is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
-Skin Reactions
+Serious Skin Reactions
 
-NSAIDs, including ketorolac tromethamine, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including ketorolac tromethamine, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of ketorolac tromethamine injection at the first appearance of skin rash or any other sign of hypersensitivity.
+Ketorolac tromethamine injection is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -153,7 +156,7 @@ Discontinue ketorolac tromethamine if oligohydramnios occurs and follow up accor
 
 # PRECAUTIONS
 
-General
+## General
 
 Ketorolac tromethamine cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
@@ -161,7 +164,7 @@ Patients on prolonged corticosteroid therapy should have their therapy tapered s
 
 The pharmacological activity of ketorolac tromethamine in reducing inflammation may diminish the utility of this diagnostic sign in detecting complications of presumed noninfectious, painful conditions.
 
-Hepatic Effects
+### Hepatic Effects
 
 Ketorolac tromethamine should be used with caution in patients with impaired hepatic function or a history of liver disease.
 Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including ketorolac tromethamine.
@@ -172,7 +175,7 @@ In addition, rare cases of severe hepatic reactions, including jaundice and fata
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with ketorolac tromethamine.
 If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ketorolac tromethamine should be discontinued.
 
-Hematologic Effects
+### Hematologic Effects
 
 Anemia is sometimes seen in patients receiving NSAIDs, including ketorolac tromethamine.
 This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
@@ -181,13 +184,13 @@ NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time
 Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
 Patients receiving ketorolac tromethamine who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
 
-Pre-existing Asthma
+### Pre-existing Asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin‑sensitive asthma has been associated with severe bronchospasm which can be fatal.
 Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, ketorolac tromethamine should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with pre-existing asthma.
 
-Information for Patients
+## Information for Patients
 
 Ketorolac tromethamine is a potent NSAID and may cause serious side effects such as gastrointestinal bleeding or kidney failure, which may result in hospitalization and even fatal outcome.
 
@@ -210,13 +213,13 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 7. 7.Fetal Toxicity Inform pregnant women to avoid use of ketorolac tromethamine and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
    If treatment with ketorolac tromethamine is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
 
-Laboratory Tests
+## Laboratory Tests
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
 Patients on long-term treatment with NSAIDs, should have their CBC and a chemistry profile checked periodically.
 If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash etc.) or if abnormal liver tests persist or worsen, ketorolac tromethamine should be discontinued.
 
-Drug Interactions
+## Drug Interactions
 
 Ketorolac is highly bound to human plasma protein (mean 99.2%).
 There is no evidence in animal or human studies that ketorolac tromethamine induces or inhibits hepatic enzymes capable of metabolizing itself or other drugs.
@@ -302,7 +305,7 @@ At 1590 mcg/mL and at higher concentrations, ketorolac tromethamine increased th
 
 Impairment of fertility did not occur in male or female rats at oral doses of 9 mg/kg (0.9 times the human AUC) and 16 mg/kg (1.6 times the human AUC) of ketorolac tromethamine, respectively.
 
-Pregnancy
+## Pregnancy
 
 Risk Summary
 
@@ -368,7 +371,7 @@ Methodological limitations of these postmarketing studies and reports include la
 These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
 Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
-Labor and Delivery
+## Labor and Delivery
 
 The use of ketorolac tromethamine is contraindicated in labor and delivery because, through its prostaglandin synthesis inhibitory effect, it may adversely affect fetal circulation and inhibit uterine contractions, thus increasing the risk of uterine hemorrhage (see CONTRAINDICATIONS).
 
@@ -377,7 +380,7 @@ Effects on Fertility
 The use of ketorolac tromethamine, as with any drug known to inhibit cyclooxygenase/ prostaglandin synthesis, may impair fertility and is not recommended in women attempting to conceive.
 In women who have difficulty conceiving or are undergoing investigation of infertility, withdrawal of ketorolac tromethamine should be considered.
 
-Nursing Mothers
+## Nursing Mothers
 
 Limited data from one published study that included 10 breastfeeding women 2-6 days postpartum showed low levels of ketorolac in breast milk and were undetectable (less than 5 ng/mL) in 4 of the patients.
 After a single administration of 10 mg of ketorolac tromethamine, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
@@ -387,11 +390,11 @@ Assuming a daily intake of 400-1,000 mL of human milk per day and a maternal bod
 Exercise caution when ketorolac is administered to a nursing woman.
 Available information has not shown any specific adverse events in nursing infants; however, instruct patients to contact their infant's healthcare provider if they note any adverse events.
 
-Pediatric Use
+## Pediatric Use
 
 Ketorolac tromethamine is not indicated for use in pediatric patients.
 The safety and effectiveness of ketorolac tromethamine in pediatric patients below the age of 17 years have not been established.
 
-Geriatric Use (≥65 Years of Age)
+## Geriatric Use (≥65 Years of Age)
 
 Because ketorolac tromethamine may be cleared more slowly by the elderly (see CLINICAL PHARMACOLOGY) who are also more sensitive to the dose-related adverse effects of NSAIDs (see WARNINGS – Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation), extreme caution and reduced dosages (see DOSAGE AND ADMINISTRATION) and careful clinical monitoring must be used when treating the elderly with ketorolac tromethamine.
