@@ -10,6 +10,8 @@ transdermal system
 
 4.5 mg/9 hours
 
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
+
 For Transdermal Use Only
 
 30 Transdermal Systems
@@ -19,6 +21,8 @@ Rx only
 CII
 
 Noven
+
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
 
 Contents: 30 Transdermal Systems
 
@@ -45,6 +49,8 @@ STOP
 
 Before using XELSTRYM, read the Instructions for Use to learn how to apply, remove and dispose of the patch
 
+Optional digital tools and resources available on the app by scanning the QR code
+
 For additional safety information see Medication Guide in enclosed Prescribing Information.
 
 Manufactured/Distributed by:
@@ -65,6 +71,8 @@ transdermal system
 
 9 mg/9 hours
 
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
+
 For Transdermal Use Only
 
 30 Transdermal Systems
@@ -74,6 +82,8 @@ Rx only
 CII
 
 Noven
+
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
 
 Contents: 30 Transdermal Systems
 
@@ -100,6 +110,8 @@ STOP
 
 Before using XELSTRYM, read the Instructions for Use to learn how to apply, remove and dispose of the patch
 
+Optional digital tools and resources available on the app by scanning the QR code
+
 For additional safety information see Medication Guide in enclosed Prescribing Information.
 
 Manufactured/Distributed by:
@@ -120,6 +132,8 @@ transdermal system
 
 13.5 mg/9 hours
 
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
+
 For Transdermal Use Only
 
 30 Transdermal Systems
@@ -129,6 +143,8 @@ Rx only
 CII
 
 Noven
+
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
 
 Contents: 30 Transdermal Systems
 
@@ -155,6 +171,8 @@ STOP
 
 Before using XELSTRYM, read the Instructions for Use to learn how to apply, remove and dispose of the patch
 
+Optional digital tools and resources available on the app by scanning the QR code
+
 For additional safety information see Medication Guide in enclosed Prescribing Information.
 
 Manufactured/Distributed by:
@@ -175,6 +193,8 @@ transdermal system
 
 18 mg/9 hours
 
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
+
 For Transdermal Use Only
 
 30 Transdermal Systems
@@ -184,6 +204,8 @@ Rx only
 CII
 
 Noven
+
+Pharmacist: Enclosed Medication Guide to be dispensed to each patient.
 
 Contents: 30 Transdermal Systems
 
@@ -209,6 +231,8 @@ Find out more at www.xelstrym.com
 STOP
 
 Before using XELSTRYM, read the Instructions for Use to learn how to apply, remove and dispose of the patch
+
+Optional digital tools and resources available on the app by scanning the QR code
 
 For additional safety information see Medication Guide in enclosed Prescribing Information.
 
