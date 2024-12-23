@@ -15,4 +15,4 @@
 | What are the ingredients in REVATIO?Active ingredients: sildenafil citrateInactive ingredients: REVATIO tablets: anhydrous dibasic calcium phosphate, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetinREVATIO oral suspension: citric acid anhydrous, colloidal silicon dioxide anhydrous, grape flavor, sodium benzoate, sodium citrate dihydrate, sorbitol, sucralose, titanium dioxide, and xanthan gum Distributed by:Viatris Specialty LLCMorgantown, WV 26505 U.S.A.© 2024 Viatris Inc.REVATIO is a registered trademark of Viatris Specialty LLC, a Viatris Company.UPJ:PL:RVTTOSI:R1For more information call Viatris at 1-877-446-3679 (1-877-4-INFO-RX). |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: October 2024
+Revised: December 2024

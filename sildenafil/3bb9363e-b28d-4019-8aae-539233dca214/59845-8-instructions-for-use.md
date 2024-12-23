@@ -89,4 +89,4 @@ REVATIO is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 UPJ:IFU:RVTTOSI:R1
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: October 2024
+Revised: December 2024
