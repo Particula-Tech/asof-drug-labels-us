@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA215238"
+  ],
+  "inn": "ivabradine",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-679-45",
+    "46708-679-60",
+    "46708-680-45",
+    "46708-680-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ivabradine",
+      "name": "Ivabradine"
+    }
+  ],
+  "setid": "51ac7345-3188-4382-ab1d-9120d6c88927",
+  "source": "dailymed"
+}
