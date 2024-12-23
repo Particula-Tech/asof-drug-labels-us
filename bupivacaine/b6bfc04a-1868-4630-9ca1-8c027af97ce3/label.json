@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA070552",
+    "ANDA070553"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-464-08",
+    "63323-464-38",
+    "63323-466-08",
+    "63323-466-38"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "SENSORCAINE"
+    }
+  ],
+  "setid": "b6bfc04a-1868-4630-9ca1-8c027af97ce3",
+  "source": "dailymed"
+}
