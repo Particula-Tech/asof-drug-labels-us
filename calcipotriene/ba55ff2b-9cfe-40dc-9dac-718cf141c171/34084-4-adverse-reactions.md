@@ -16,7 +16,7 @@ The percentage of subjects reporting at least one adverse event was 27.1% in the
 
 Table 1
 
-Adverse Events Reported by ≥1% of Subjects by Preferred Term
+Adverse Events Reported by ≥ 1% of Subjects by Preferred Term
 
 |  | Calcipotriene and betamethasone dipropionate ointmentN = 2448 | CalcipotrieneN = 3197 | Betamethasone dipropionateN = 1164 | VehicleN = 470 |
 | --- | --- | --- | --- | --- |
