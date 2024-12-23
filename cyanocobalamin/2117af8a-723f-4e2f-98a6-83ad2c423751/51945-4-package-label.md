@@ -11,12 +11,12 @@ Directions for Use: See Package Insert.
 
 Rx Only
 
-Product of France Mfd. by: UBI Pharma, Inc. Taiwan
+Product of France
 
 Mfd. for: Vitruvias Therapeutics Auburn, AL 36830
 
 Rev.
-04/19
+03/24
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
@@ -32,12 +32,10 @@ Product of France
 
 Rx Only
 
-Rev.
-06/18
-
-Mfd. by: UBI Pharma, Inc. Taiwan
-
 Mfd. for: Vitruvias Therapeutics Auburn, AL 36830
+
+Rev.
+03/24
 
 # PRINCIPAL DISPLAY PANEL - 30 mL Vial Box
 
@@ -53,9 +51,7 @@ Product of France
 
 Rx Only
 
-Rev.
-06/18
-
-Mfd. by: UBI Pharma, Inc. Taiwan
-
 Mfd. for: Vitruvias Therapeutics Auburn, AL 36830
+
+Rev.
+03/24
