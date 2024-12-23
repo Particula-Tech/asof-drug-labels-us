@@ -4,7 +4,7 @@
 
 Desoximetasone Topical Spray, 0.25% is a clear colorless liquid supplied in white, opaque bottles with white, opaque screw caps in the following sizes:
 
-| 30 mL50 mL100 mL (2-50 mL bottles)100 mL | (NDC 51672-1396-3) (NDC 51672-1396-4) (NDC 51672-1396-6) (NDC 51672-1396-7) |
+| 30 mL50 mL100 mL (2-50 mL bottles)100 mL | (NDC 51672-1396-3)(NDC 51672-1396-4)(NDC 51672-1396-6)(NDC 51672-1396-7) |
 | --- | --- |
 
 Store at controlled room temperature between 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F).

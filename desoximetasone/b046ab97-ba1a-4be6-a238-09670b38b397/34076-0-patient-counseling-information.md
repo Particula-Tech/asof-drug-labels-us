@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use)
+See FDA-approved patient labeling (Patient Informationand Instructions for Use)
 
 Inform patients of the following:
 
