@@ -72,7 +72,7 @@ Of the randomized patients, 40% were 60 years of age, 70% had Stage IV disease, 
 Prior to randomization to maintenance therapy, patients had received R-CHOP (75%), R-CVP (22%), or R-FCM (3%); 71% had a complete or unconfirmed complete response and 28% had a partial response.
 
 PFS was longer in patients randomized to rituximab as single agent maintenance therapy (HR: 0.54, 95% CI: 0.42, 0.70).
-The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
+The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment
 
 NHL Study 6
 

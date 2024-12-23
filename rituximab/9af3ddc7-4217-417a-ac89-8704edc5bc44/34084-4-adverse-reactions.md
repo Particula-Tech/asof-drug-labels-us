@@ -1,4 +1,4 @@
-# 5.11 Embryo-Fetal Toxicity
+# 6 ADVERSE REACTIONS
 
 The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
