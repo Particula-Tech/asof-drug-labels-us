@@ -76,4 +76,4 @@ Bottles of 2500 NDC 13668-221-31
 
 ## 16.2 Storage
 
-Store at 20° to 25°C (68° to 77°F), excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].

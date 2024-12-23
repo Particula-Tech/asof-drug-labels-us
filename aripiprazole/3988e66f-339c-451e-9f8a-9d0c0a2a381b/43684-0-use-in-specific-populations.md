@@ -38,7 +38,6 @@ Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypo
 These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
-Monitor neonates for extrapyramidal and/or withdrawal symptoms.
 
 Data
 

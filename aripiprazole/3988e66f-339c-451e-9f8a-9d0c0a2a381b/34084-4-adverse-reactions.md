@@ -461,11 +461,11 @@ Adults - Oral Administration
 
 • Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heat stroke
 
-• Investigations: frequent – blood prolactin decreased, weight decreased, infrequent – hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+• Investigations:frequent – blood prolactin decreased, weight decreased, infrequent – hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 
 • Metabolism and Nutrition Disorders:frequent – anorexia; rare – hypokalemia, hyponatremia, hypoglycemia
 
-• Musculoskeletal and Connective Tissue Disorders: infrequent – muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility de creased
+• Musculoskeletal and Connective Tissue Disorders: infrequent – muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
 
 • Nervous System Disorders: infrequent – parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients – choreoathetosis
 

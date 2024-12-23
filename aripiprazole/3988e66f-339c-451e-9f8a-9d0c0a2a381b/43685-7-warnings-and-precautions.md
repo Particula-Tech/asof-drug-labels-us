@@ -44,7 +44,7 @@ Table 5:
 | 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
 | 25 to 64 | 1 fewer case |
-| 65 | 6 fewer cases |
+| ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -140,7 +140,7 @@ Table 6: Changes in Fasting Glucose from Placebo-Controlled Monotherapy Trials i
 | --- | --- | --- | --- | --- |
 | Normal to High(<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/822 | 3.8 |  |
 | Placebo | 22/605 | 3.6 |  |  |
-| Borderline to High(≥100 mg/dL and <126mg/dL to ≥126 mg/dL | Aripiprazole | 31/176 | 17.6 |  |
+| Borderline to High(≥100 mg/dL and <126mg/dL to ≥126 mg/dL) | Aripiprazole | 31/176 | 17.6 |  |
 | Placebo | 13/142 | 9.2 |  |  |
 
 At 24 weeks, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.2 mg/dL (n=42) and +9.6 mg/dL (n=28), respectively].
@@ -318,7 +318,7 @@ Table 15: Percentage of Patients from Placebo-Controlled Monotherapy Trials in P
 | Placebo | 98 | 7 (7.1) |  |  |
 | Tourette’s Disorder‡ | Aripiprazole | 105 | 21 (20.0) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
-| * 4 to 6 weeks duration. †8 weeks duration. ‡8-10 weeks duration. |  |  |  |  |
+| * 4 to 6 weeks duration. †8 weeks duration. ‡8 to 10 weeks duration. |  |  |  |  |
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.

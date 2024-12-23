@@ -40,12 +40,14 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 Advise patients that aripiprazole may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy [see Use in Specific Populations (8.1)].
 
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8091276 Revised: January 2023
+8096013 Revised: December 2024

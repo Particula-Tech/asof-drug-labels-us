@@ -4,7 +4,7 @@ Efficacy of the oral formulations of aripiprazole was established in the followi
 
 - Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13 to 17 years) with schizophrenia [see Clinical Studies (14.1)]
 - F﻿our short-term monotherapy trials and one 6 week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10 to 17 years) with manic or mixed episodes [see Clinical Studies (14.2)]
-- One maintenance monotherapy trial and one maintenance adjunctive trial in adult patients with biopolar I disorder [see Clinical Studies (14.2)]
+- One maintenance monotherapy trial and one maintenance adjunctive trial in adult patients with bipolar I disorder [see Clinical Studies (14.2)]
 - Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see Clinical Studies (14.3)]
 - Two short-term trials in pediatric patients (ages 6 to 17 years) for the treatment of irritability associated with autistic disorder [see Clinical Studies (14.4)]
 - Two short-term trials in pediatric patients (ages 6 to 18 years) with Tourette's disorder [see Clinical Studies (14.5)]
@@ -72,7 +72,7 @@ Table 26: Schizophrenia Studies
 | Study 6(Pediatric,13 to 17 years) | Aripiprazole (10 mg/day)† | 93.6(15.7) | -26.7(1.91) | -5.5(-10.7,-0.21) |
 | Aripiprazole (30 mg/day)† | 94.0(16.1) | -28.6(1.92) | -7.4(-12.7,-2.13) |  |
 | Placebo | 94.6(15.6) | -21.2(1.93) | -- |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.* Difference (drug minus placebo) in least-squares mean change from baseline. †Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.* Difference (drug minus placebo) in least-squares mean change from baseline.†Doses statistically significantly superior to placebo. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
 
@@ -118,7 +118,7 @@ Table 27: Bipolar Studies
 | Study 2 | Aripiprazole (30/15 mg/day)† Placebo | 27.8 (5.7) 29.1 (6.9) | -8.15 (1.23) -3.35 (1.22) | -4.80 (-7.80, -1.80) -- |
 | Study 3 | Aripiprazole (15 to 30 mg/day)† Placebo | 28.5 (5.6)28.9 (5.9) | -12.64 (0.84)-9.01(0.81) | -3.63 (-5.75, -1.51)-- |
 | Study 4 | Aripiprazole (15 to 30 mg/day)† Placebo | 28.0 (5.8)28.3 (5.8) | -11.98 (0.80)-9.70 (0.83) | -2.28 (-4.44, -0.11)-- |
-| Study 5 | Aripiprazole (15 or 30 mg/day)† + Lithium/Valproate Placebo + Lithium/Valproate | 23.2 (5.7)23.0 (4.6) | -13.31 (0.50)-10.70 (0.69) | -2.62 (-4.49, -0.95)-- |
+| Study 5 | Aripiprazole (15 or 30 mg/day)† + Lithium/Valproate Placebo + Lithium/Valproate | 23.2 (5.7)23.0 (4.9) | -13.31 (0.50)-10.70 (0.69) | -2.62 (-4.29, -0.95)-- |
 | Study 6 (Pediatric, 10 to 17 years) | Aripiprazole (10 mg/day)† Aripiprazole (30 mg/day)† Placebo | 29.8 (6.5) 29.5 (6.3) 30.7 (6.8) | -14.2 (0.89) -16.5 (0.87) -8.2 (0.91) | -5.99 (-8.49, -3.50) -8.26 (-10.7, -5.77) -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |
 
@@ -178,7 +178,7 @@ Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-subtracted difference * (95%CI) |  |  |
+| Mean Baseline Score (SD) | LS Mean Change From baseline (SE) | Placebo-subtracted Difference * (95%CI) |  |  |
 | Study 1 | Aripiprazole (5 to 20 mg/day)† + Antidepressant | 25.2 (6.2) | -8.49(0.66) | -2.84(-4.53, -1.15) |
 |  | Placebo + Antidepressant | 27.0 (5.5) | -5.65(0.64) | -- |
 | Study 2 | Aripiprazole (5 to 20 mg/day)† + Antidepressant | 26.0 (6.0) | -8.78(0.63) | -3.01(-4.66, -1.37) |
@@ -200,7 +200,7 @@ The results of these trials are as follows:
 
 In one of the 8 week, placebo-controlled trials, children and adolescents with autistic disorder (n=98), aged 6 to 17 years, received daily doses of placebo or aripiprazole 2 to 15 mg/day.
 Aripiprazole, starting at 2 mg/day with increases allowed up to 15 mg/day based on clinical response, significantly improved scores on the ABC-I subscale and on the CGI-I scale compared with placebo.
-The mean daily dose of aripiprazole at the end of 8-week treatment was 8.6 mg/day (Study 1 in Table 29).
+The mean daily dose of aripiprazole at the end of 8 week treatment was 8.6 mg/day (Study 1 in Table 29).
 
 In the other 8 week, placebo-controlled trial in children and adolescents with autistic disorder (n=218), aged 6 to 17 years, three fixed doses of aripiprazole (5 mg/day, 10 mg/day, or 15 mg/day) were compared to placebo.
 Aripiprazole dosing started at 2 mg/day and was increased to 5 mg/day after one week.

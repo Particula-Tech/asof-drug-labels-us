@@ -7,8 +7,8 @@ However, the efficacy of aripiprazole in the listed indications could be mediate
 
 ## 12.2 Pharmacodynamics
 
-Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (K i=98 nM).
-Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC 50>1,000 nM).
+Aripiprazole exhibits high affinity for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha1-adrenergic and histamine H1 receptors (Ki values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
+Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1,000 nM).
 
 ## 12.3 Pharmacokinetics
 
@@ -28,11 +28,11 @@ Absorption
 
 Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 Aripiprazole can be administered with or without food.
-Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the C max or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed T max by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
+Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the C max or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean C max and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.6)].
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.6)].
 The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
 
 Distribution
@@ -58,7 +58,7 @@ Less than 1% of unchanged aripiprazole was excreted in the urine and approximate
 Drug Interaction Studies
 
 Effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5-fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+Based on simulation, a 4.5 fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
 A 3 fold increase in mean C max and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 The effect of aripiprazole on the exposures of other drugs are summarized in Figure 3.
