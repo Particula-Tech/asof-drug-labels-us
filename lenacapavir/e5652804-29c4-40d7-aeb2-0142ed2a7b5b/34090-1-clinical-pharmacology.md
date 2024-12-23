@@ -8,7 +8,7 @@ SUNLENCA is an HIV-1 antiretroviral agent [see Microbiology (12.4)].
 
 Exposure-Response
 
-In CAPELLA, oral loading doses (600 mg on Day 1 and Day 2, 300 mg on Day 8) followed by subcutaneous doses (927 mg every 6 months starting on Day 15) of SUNLENCA in heavily treatment-experienced subjects with multiclass resistant HIV-1, efficacy outcomes (change in plasma HIV-1 RNA from Day 1 to Day 14, and percentage of subjects with HIV-1 RNA less than 50 copies/mL at Week 26) were similar across the range of observed lenacapavir exposures.
+In CAPELLA, oral loading doses (600 mg on Day 1 and Day 2, 300 mg on Day 8) followed by subcutaneous doses (927 mg every 6 months starting on Day 15) of SUNLENCA in heavily treatment-experienced participants with multiclass resistant HIV-1, efficacy outcomes (change in plasma HIV-1 RNA from Day 1 to Day 14, and percentage of participants with HIV-1 RNA less than 50 copies/mL at Week 26) were similar across the range of observed lenacapavir exposures.
 
 Cardiac Electrophysiology
 
@@ -38,7 +38,7 @@ Table 6 Pharmacokinetic Properties of Lenacapavir
 | Elimination |  |  |  |
 | t1/2 |  | 10 to 12 days | 8 to 12 weeks |
 | Clearance (mean apparent clearance, L/h) |  | 55 | 4.2 |
-| % of dose of unchanged drug in plasma Dosing in mass balance studies: single dose intravenous administration of [14C] lenacapair to subjects without HIV-1 infection. |  | 69 |  |
+| % of dose of unchanged drug in plasma Dosing in mass balance studies: single dose intravenous administration of [14C] lenacapair to participants without HIV-1. |  | 69 |  |
 | Metabolism |  |  |  |
 | Metabolic pathway(s) |  | CYP3A (minor) UGT1A1 (minor) |  |
 | Excretion |  |  |  |
@@ -46,18 +46,20 @@ Table 6 Pharmacokinetic Properties of Lenacapavir
 | % of dose excreted in urine |  | <1 |  |
 | % of dose excreted in feces (% unchanged) |  | 76 (33) |  |
 
-Table 7 Lenacapavir Exposures Following Oral and Subcutaneous Administration of SUNLENCA in Heavily Treatment Experienced Subjects with HIV
+Table 7 Lenacapavir Exposures Following Oral and Subcutaneous Administration of SUNLENCA in Heavily Treatment Experienced Participants with HIV
 
 | Day 1 to end of Month 6 | Days 1 to 15 | Day 15 to end of Month 6 |  |
 | --- | --- | --- | --- |
-| Parameter Mean (%CV) | Recommended Dosing Regimen, Option 1 Predicted exposures. | Recommended Dosing Regimen, Option 2 Post hoc exposures from CAPELLA (N=62). |  |
+| Parameter Mean (%CV) | Recommended Dosing Regimen, Option 1 Predicted exposures utilizing population PK analysis. | Recommended Dosing Regimen, Option 2 |  |
 | Day 1: 600 mg (oral) + 927 mg (SC) Day 2: 600 mg (oral) | Days 1 and 2: 600 mg (oral), Day 8: 300 mg (oral), Day 15: 927 mg (SC) |  |  |
-| Cmax (ng/mL) | 97.1 (61.6) | 124.4 (85.1) | 87.3 (49.4) |
-| AUCtau (h∙ng/mL) | 234294.8 (65.1) | 25962.9 (67.8) | 251907.2 (48.2) |
-| Ctrough (ng/mL) | 29.2 (90.8) | 48.6 (52.1) | 35.1 (59.2) |
+| Cmax (ng/mL) | 101.4 (53.1) | 88.0 (72.4) | 86.5 (51.7) |
+| AUCtau (h∙ng/mL) | 242266 (46.0) | 19496 (72.6) | 239163 (47.2) |
+| Ctrough (ng/mL) | 32.5 (57.2) | 46.9 (72.3) | 32.5 (57.5) |
 | CV = coefficient of variation; NA = not applicable; SC = subcutaneous |  |  |  |
 
-The estimated exposures of lenacapavir were 43% to 100% higher in subjects with HIV-1 infection compared to subjects without HIV-1 infection.
+Lenacapavir exposures after subcutaneous administration were similar between heavily treatment experienced participants with HIV-1 and participants without HIV-1 based on population pharmacokinetics analysis.
+Lenacapavir exposures (AUCtau, Cmax and Ctrough) after oral administration were 28% to 43% higher in participants with HIV-1 who were heavily treatment experienced, compared to participants without HIV-1 based on population PK analysis.
+These differences were not considered clinically relevant.
 
 Specific Populations
 
@@ -75,7 +77,7 @@ Lenacapavir is a moderate inhibitor of CYP3A.
 Lenacapavir is an inhibitor of P-gp and BCRP but does not inhibit OATP.
 Table 9 summarizes the pharmacokinetic effects of lenacapavir on other drugs.
 
-Table 8 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg administered orally.,All interaction studies conducted in subjects without HIV-1.
+Table 8 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg administered orally.,All interaction studies conducted in participants without HIV-1.
 
 | Cmax | AUC |  |  |
 | --- | --- | --- | --- |
@@ -88,7 +90,7 @@ Table 8 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg a
 | Efavirenz (fasted) (Inducer of CYP3A [moderate] and P-gp) | 600 once daily | 0.64 (0.45, 0.92) | 0.44 (0.32, 0.59) |
 | Famotidine (2 hours before, fasted) | 40 once daily | 1.01 (0.75, 1.34) | 1.28 (1.00, 1.63) |
 
-Table 9 Effect of Lenacapavir on Other Drugs All interaction studies conducted in subjects without HIV-1.,Following 600 mg twice daily for 2 days, single 600 mg doses of lenacapavir were administered with each coadministered drug, resulting in lenacapavir exposures similar to or higher than those at the recommended dosage regimen.
+Table 9 Effect of Lenacapavir on Other Drugs All interaction studies conducted in participants without HIV-1.,Following 600 mg twice daily for 2 days, single 600 mg doses of lenacapavir were administered with each coadministered drug, resulting in lenacapavir exposures similar to or higher than those at the recommended dosage regimen.
 
 | Cmax | AUC |  |  |
 | --- | --- | --- | --- |
@@ -141,17 +143,32 @@ The M66I substitution alone or in combination conferred >3,226-fold decreased su
 
 In Clinical Trials
 
-In CAPELLA, 31% (22/72) of heavily treatment-experienced subjects met the criteria for resistance analyses through Week 52 (HIV-1 RNA ≥ 50 copies/mL at confirmed virologic failure [suboptimal virologic response at Week 4, virologic rebound, or viremia at last visit]) and were analyzed for lenacapavir resistance-associated substitution emergence.
-Lenacapavir resistance-associated capsid substitutions were found in 41% (n=9) of subjects with confirmed virologic failure who had post-baseline capsid genotypic resistance data (n=22).
-The M66I CA substitution was observed in 27% (6/22) of subjects, alone or in combination with other lenacapavir resistance-associated capsid substitutions including Q67Q/H, Q67Q/H/K/N, K70K/R, K70N/S, N74D, N74N/H, A105T, and T107A.
-The other 3 subjects with virologic failure had emergent lenacapavir resistance-associated capsid substitutions Q67K+K70H, Q67H+K70R+T107S, and Q67Q/H.
+In CAPELLA, 31% (22/72) of heavily treatment-experienced participants met the criteria for resistance analyses through Week 52 (HIV-1 RNA ≥ 50 copies/mL at confirmed virologic failure [suboptimal virologic response at Week 4, virologic rebound, or viremia at last visit]) and were analyzed for lenacapavir resistance-associated substitution emergence.
+Lenacapavir resistance-associated capsid substitutions were found in 41% (n=9) of participants with confirmed virologic failure who had post-baseline capsid genotypic resistance data (n=22).
+The M66I capsid substitution was observed in 27% (6/22) of participants, alone or in combination with other lenacapavir resistance-associated capsid substitutions including Q67Q/H, Q67Q/H/K/N, K70K/R, K70N/S, N74D, N74N/H, A105T, and T107A.
+The other 3 participants with virologic failure had emergent lenacapavir resistance-associated capsid substitutions Q67K+K70H, Q67H+K70R+T107S, and Q67Q/H.
 
 Phenotypic analyses of the confirmed virologic failure isolates with emergent lenacapavir resistance-associated substitutions showed 6- to >1428-fold decreases in lenacapavir susceptibility when compared to WT.
 
-Among the 9 subjects with virologic failure who developed lenacapavir resistance-associated substitutions in capsid, 4 received SUNLENCA in combination with a background regimen with no fully active antiretrovirals based on the baseline genotypic and/or phenotypic resistance.
+Among the 9 participants with virologic failure who developed lenacapavir resistance-associated substitutions in capsid, 4 received SUNLENCA in combination with a background regimen with no fully active antiretrovirals based on the baseline genotypic and/or phenotypic resistance.
 Therefore, given the risk of developing resistance in situations of functional monotherapy, careful consideration should be given to having active drugs in addition to SUNLENCA in the treatment regimen.
 
-Four subjects with virologic failure had emergent resistance substitutions to components of the optimized background regimen (OBR): emergent NRTI substitution M184I/V and NNRTI substitution K103N/Y with emtricitabine and doravirine plus atazanavir, bictegravir, and tenofovir alafenamide in OBR; emergent NNRTI substitution V106M from a mixture at baseline (in addition to lenacapavir resistance-associated substitutions M66I + T107A) with doravirine plus emtricitabine and ibalizumab in OBR; emergent NRTI substitutions K65R and S68N from mixtures at baseline (in addition to lenacapavir resistance-associated substitution M66I) with tenofovir alafenamide, plus emtricitabine, dolutegravir, darunavir/cobicistat, and rilpivirine in OBR; and emergent NRTI substitution K65K/R with tenofovir disoproxil fumarate plus darunavir/cobicistat, dolutegravir, and emtricitabine in OBR.
+Four participants with virologic failure had emergent resistance substitutions to components of the optimized background regimen (OBR): emergent NRTI substitution M184I/V and NNRTI substitution K103N/Y with emtricitabine and doravirine plus atazanavir, bictegravir, and tenofovir alafenamide in OBR; emergent NNRTI substitution V106M from a mixture at baseline (in addition to lenacapavir resistance-associated substitutions M66I + T107A) with doravirine plus emtricitabine and ibalizumab in OBR; emergent NRTI substitutions K65R and S68N from mixtures at baseline (in addition to lenacapavir resistance-associated substitution M66I) with tenofovir alafenamide, plus emtricitabine, dolutegravir, darunavir/cobicistat, and rilpivirine in OBR; and emergent NRTI substitution K65K/R with tenofovir disoproxil fumarate plus darunavir/cobicistat, dolutegravir, and emtricitabine in OBR.
+
+Oral Maintenance for Missed Injections
+
+Of the 57 participants who received oral maintenance, 9 participants (5 participants in Cohort 1 and 4 participants in Cohort 2) met the criteria for resistance analysis.
+Six of these 9 participants had emergent lenacapavir resistance substitutions in capsid (Q67H [n=4], K70R or N [n=2], N74D or K [n=2], T107N [n=1]) with 4.5- to 393-fold decreased lenacapavir susceptibility.
+In addition, 2 participants had emergent resistance substitutions to darunavir in their optimized background regimen.
+
+Lenacapavir Resistance with Suboptimal Adherence to Other Antiretroviral Drugs in the Regimen
+
+The development of lenacapavir-associated capsid resistance substitutions in 6 participants during the oral maintenance period was likely due to suboptimal adherence to the optimized background oral regimens that included dolutegravir and/or darunavir.
+After developing lenacapavir resistance, 5 of the 6 participants achieved HIV-1 RNA resuppression (HIV-1 RNA < 50 copies/mL) while maintaining SUNLENCA treatment.
+With the emergence of lenacapavir resistance substitutions and decreased susceptibility to lenacapavir, it is unclear how much antiviral activity lenacapavir is contributing to the resuppression of HIV-1 RNA in these 5 participants.
+
+Thus, adherence to other antiretroviral drugs in the regimen should be optimized while the patient is receiving SUNLENCA.
+During SUNLENCA treatment, if suboptimal adherence to the oral antiretroviral regimen occurs with concurrent HIV-1 RNA viral load increases (i.e., virologic failure), lenacapavir resistance should be assessed, and if detected, consideration should be given to discontinuing SUNLENCA treatment [see Dosage and Administration (2.1), Warnings and Precautions (5.2)].
 
 Cross-Resistance
 

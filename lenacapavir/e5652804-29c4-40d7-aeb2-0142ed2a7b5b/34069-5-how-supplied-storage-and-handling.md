@@ -13,8 +13,8 @@ Keep bottle tightly closed.
 
 Blister Packs
 
-- SUNLENCA 4-Tablets™ blister pack contains 4 tablets (NDC 61958-3001-1).
-- SUNLENCA 5-Tablets™ blister pack contains 5 tablets (NDC 61958-3001-2).
+- SUNLENCA 4-Tablets™ blister pack contains 4 tablets (NDC 61958-3001-1)
+- SUNLENCA 5-Tablets™ blister pack contains 5 tablets (NDC 61958-3001-2)
 
 Within the blister packs, tablets are packaged in a clear blister film sealed to a foil lidding material.
 The blister card is fitted between two paperboard cards, and packaged with silica gel desiccant in a sealed child-resistant flexible laminated pouch.
@@ -23,12 +23,21 @@ Store bottle and blister packs at 20 °C – 25 °C (68 °F – 77 °F), excursi
 
 Dispense and store only in original bottle or blister pack.
 
-SUNLENCA injection is packaged in a dosing kit (NDC 61958-3002-1) containing:
+SUNLENCA injection is packaged in one of two different injection kits containing the following:
+
+Vial access device injection kit (NDC 61958-3002-1):
 
 - 2 single-dose clear glass vials, each containing sufficient volume to allow withdrawal of 463.5 mg/1.5 mL (309 mg/mL) of lenacapavir.
   The injection solution is sterile, preservative-free, clear, and yellow with no visible particles.
   Vials are sealed with a stopper and aluminium overseal with flip-off cap.
 - 2 vial access devices, 2 disposable syringes, and 2 injection safety needles for subcutaneous injection (22-gauge, ½ inch).
+
+Withdrawal needle injection kit (NDC 61958-3005-1):
+
+- 2 single-dose clear glass vials, each containing sufficient volume to allow withdrawal of 463.5 mg/1.5 mL (309 mg/mL) of lenacapavir.
+  The injection solution is sterile, preservative-free, clear, and yellow with no visible particles.
+  Vials are sealed with a stopper and aluminium overseal with flip-off cap.
+- 2 disposable syringes, 2 withdrawal needles (18-gauge, 1.5 inch), and 2 injection safety needles for subcutaneous injection (22-gauge, ½ inch).
 
 The vial stoppers are not made with natural rubber latex.
 

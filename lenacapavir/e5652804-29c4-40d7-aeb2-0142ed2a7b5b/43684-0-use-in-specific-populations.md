@@ -31,11 +31,9 @@ Risk Summary
 It is not known whether SUNLENCA is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
 After administration to pregnant rats, lenacapavir was detected in the plasma of nursing rat pups, without effects on these nursing pups (see Data).
 
-Potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1-negative infants), (2) developing viral resistance (in HIV-1-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in infants without HIV-1), (2) developing viral resistance (in infants with HIV-1), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
-
-Animal Data
 
 Lenacapavir was detected at low levels in the plasma of nursing rat pups in the pre/postnatal development study (post-natal day 10).
 
@@ -45,7 +43,7 @@ The safety and effectiveness of SUNLENCA have not been established in pediatric 
 
 ## 8.5 Geriatric Use
 
-Clinical studies of SUNLENCA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of SUNLENCA did not include sufficient numbers of participants aged 65 and over to determine whether they respond differently from younger patients.
 
 ## 8.6 Renal Impairment
 

@@ -15,7 +15,7 @@ It is important to counsel patients that maintenance dosing by injection is requ
 Lenacapavir, a moderate CYP3A inhibitor, may increase the exposure to, and therefore potential risk of adverse reactions from, drugs primarily metabolized by CYP3A initiated within 9 months after the last subcutaneous dose of SUNLENCA [see Drug Interactions and Clinical Pharmacology (7.2, 12.3)].
 
 If SUNLENCA is discontinued, to minimize the potential risk of developing viral resistance, it is essential to initiate an alternative, fully suppressive antiretroviral regimen where possible no later than 28 weeks after the final injection of SUNLENCA.
-If virologic failure occurs during treatment, switch the patient to an alternative regimen if possible [see Dosage and Administration (2.2)].
+If virologic failure occurs during treatment, switch the patient to an alternative regimen if possible [see Dosage and Administration (2.1)].
 
 ## 5.3 Injection Site Reactions
 
@@ -24,9 +24,12 @@ If clinically significant ISRs occur, evaluate and institute appropriate therapy
 
 Manifestations of ISRs may include swelling, pain, erythema, nodule, induration, pruritus, extravasation or mass.
 Nodules and indurations at the injection site may take longer to resolve than other ISRs.
-In clinical studies, after a median follow-up of 553 days, 30% of nodules and 13% of indurations (in 10% and 1% of subjects, respectively) associated with the first injections of SUNLENCA had not fully resolved.
+In clinical studies, after a median follow-up of 553 days, 30% of nodules and 13% of indurations (in 10% and 1% of participants, respectively) associated with the first injections of SUNLENCA had not fully resolved.
 Measurements and qualitative assessments of ISRs were not routinely reported.
 Where described, the majority of the injection site nodules and indurations were palpable but not visible, and had a maximum size of approximately 1 to 4 cm [see Adverse Reactions (6.1)].
 
 The mechanism driving the persistence of injection site nodules and indurations in some patients is not fully understood, but based on available data, they may be related to the presence of the subcutaneous drug depot.
 In some patients who had a skin biopsy performed of an injection site nodule or induration, dermatopathology revealed foreign body inflammation or granulomatous response.
+
+Improper administration (intradermal injection) has been associated with serious injection site reactions, including necrosis and ulcer [see Adverse Reactions (6)].
+Ensure SUNLENCA is only administered subcutaneously in the abdomen [see Dosage and Administration (2.4)].

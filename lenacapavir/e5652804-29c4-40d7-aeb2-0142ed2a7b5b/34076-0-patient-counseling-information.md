@@ -10,12 +10,18 @@ If SUNLENCA is discontinued, advise patients that SUNLENCA may remain in the bod
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.1)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.1)].
 
 Adherence to SUNLENCA
 
 Counsel patients about the importance of continued medication adherence and scheduled visits to maintain viral suppression and to reduce risk of loss of virologic response and development of resistance.
 Advise patients to contact their healthcare provider immediately if they stop taking SUNLENCA or any other drug in their antiretroviral regimen [see Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
+
+Missed Dose
+
+Inform patients that SUNLENCA can remain in the body for up to 12 months or longer after receiving their last injection.
+Advise patients to contact their healthcare provider if they miss or plan to miss a scheduled injection visit and that oral SUNLENCA therapy may be used for up to 6 months to replace missed injections.
+Advise patients that oral dosing should be used on an interim basis only and that the maintenance injection dosage should be resumed at the earliest possible opportunity [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 Injection Site Reactions
 
@@ -29,4 +35,4 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].
+Inform individuals with HIV-1 that the potential risks of breastfeeding include: (1) HIV-1 transmission (in infants without HIV-1), (2) developing viral resistance (in infants with HIV), and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].

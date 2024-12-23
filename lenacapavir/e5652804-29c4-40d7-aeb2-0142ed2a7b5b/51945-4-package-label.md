@@ -75,3 +75,29 @@ Both 463.5 mg/1.5 mL (2 single-dose vials) must be administered to receive the 9
 For Healthcare Professional administration only.
 
 GILEAD
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 3005
+
+Rx only NDC 61958-3005-1
+
+Sunlenca® (lenacapavir) injection
+
+463.5 mg/1.5 mL (309 mg/mL)
+
+For Subcutaneous Injection
+
+Contents
+
+- 2 x 1.5 mL lenacapavir single-dose vials
+- 2 withdrawal needles (18 gauge, 1½ inch)
+- 2 syringes
+- 2 injection needles (22 gauge, ½ inch)
+- Prescribing Information
+- Instructions for Use
+- Patient Information
+
+Both 463.5 mg/1.5 mL (2 single-dose vials) must be administered to receive the 927 mg dose.
+
+For Healthcare Professional administration only.
+
+GILEAD
