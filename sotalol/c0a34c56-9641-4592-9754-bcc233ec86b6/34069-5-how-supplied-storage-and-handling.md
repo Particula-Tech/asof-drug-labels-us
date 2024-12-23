@@ -9,3 +9,12 @@ Sotalol hydrochloride tablets USP (AF), 160 mg are white, capsule-shaped tablets
 Store at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
 
 Dispense in a tight container as defined in the USP, with a child-resistant closure as required.
+
+Dispense with Patient Information available at: www.epic-pharma.com/patientinfo/Sotalol-HCl-Tablets.pdf
+
+Rev.
+08-2023-00
+
+MF121REV08/23
+
+OE1385
