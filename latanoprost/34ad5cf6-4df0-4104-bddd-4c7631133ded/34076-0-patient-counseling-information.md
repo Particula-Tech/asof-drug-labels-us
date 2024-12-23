@@ -37,7 +37,7 @@ Manufactured by:
 
 Sun Pharmaceutical Industries Limited
 
-Halol-Baroda Highway
+Halol-Baroda Highway,
 
 Halol- 389-350, Gujarat, India.
 
@@ -47,7 +47,7 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-5225835
+5XXXXXX
 
 ISS.
-06/2022
+09/2024

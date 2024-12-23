@@ -24,9 +24,9 @@ Ocular Adverse Reactions Reported by ≥ 1% of Subjects Receiving XELPROS
 | Dry eye | 13 (3%) |
 | Erythema of eyelid | 14 (3%) |
 | Foreign body sensation in eyes | 9 (2%) |
+| Eyelid edema | 7 (2%) |
 | Punctate keratitis | 6 (1%) |
 | Eyelash discoloration | 5 (1%) |
-| Eyelid edema | 7 (2%) |
 | Conjunctival edema | 5 (1%) |
 
 ## 6.2 Postmarketing Experience
@@ -39,6 +39,7 @@ The reactions, which have been chosen for inclusion due to either their seriousn
 - Nervous System Disorders: Dizziness, headache, toxic epidermal necrolysis
 - Eye Disorders: Corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
 - Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
+- Gastrointestinal Disorders: Nausea; vomiting
 - Skin and Subcutaneous Tissue Disorders: Pruritus
 - Infections and Infestations: Herpes keratitis
 - Cardiac Disorders: Angina; palpitations; angina unstable
