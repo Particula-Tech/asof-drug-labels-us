@@ -33,7 +33,7 @@ Before using Fluocinonide Cream USP, 0.1%, tell your doctor if you:
   It is not known if Fluocinonide Cream passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you use Fluocinonide Cream.
 
-Tell your doctor about all the medicine you take including prescriptions and non-prescriptions medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicine you takeincluding prescriptions and non-prescriptions medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take a corticosteroid medicine by mouth or use other products on your skin that contain corticosteroids.
 Ask your doctor or pharmacist if you are not sure.
 
@@ -42,7 +42,7 @@ Keep a list of your medicines with you to show your doctor and pharmacist when y
 
 How should I use Fluocinonide Cream USP, 0.1%?
 
-- See "What is Fluocinonide Cream USP, 0.1%?"
+- See " What is Fluocinonide Cream USP, 0.1%?"
 - Use Fluocinonide Cream exactly as your doctor tells you.
 - This medicine is for use on the skin only.
   Do not use Fluocinonide Cream in your eyes, mouth or vagina.
@@ -55,8 +55,7 @@ What are the possible side effects with Fluocinonide Cream USP, 0.1%?
 
 Fluocinonide Cream may cause side effects, including:
 
-- Symptoms of a disorder where the adrenal gland does not make enough of certain hormones (adrenal insufficiency) during treatment or after stopping treatment.
-  Your doctor may do blood tests to check you for adrenal insufficiency while you are using Fluocinonide Cream.
+- Symptoms of a disorder where the adrenal gland does not make enough of certain hormones (adrenal insufficiency) during treatment or after stopping treatment.Your doctor may do blood tests to check you for adrenal insufficiency while you are using Fluocinonide Cream.
   Tell your doctor if you have any of these symptoms of adrenal insufficiency:
   - tiredness that worsens and does not go away
   - nausea or vomiting
@@ -65,8 +64,7 @@ Fluocinonide Cream may cause side effects, including:
   - irritability and depression
   - loss of appetite
   - weight loss
-- Cushing's syndrome, when the body is exposed to too much of the hormone cortisol.
-  Your doctor may do tests to check for this.
+- Cushing's syndrome, when the body is exposed to too much of the hormone cortisol.Your doctor may do tests to check for this.
   Symptoms can include:
   - weight gain, especially around your upper back and midsection
   - slow healing of cuts, insect bites and infections
@@ -75,7 +73,7 @@ Fluocinonide Cream may cause side effects, including:
   - roundness of your face (moon face)
   - new or worsening high blood pressure
 
-The most common side effect of Fluocinonide Cream USP, 0.1%is burning of your skin treated with Fluocinonide Cream USP, 0.1%.
+The most common side effect of Fluocinonide Cream USP, 0.1%isburning of your skin treated with Fluocinonide Cream USP, 0.1%.
 
 Talk to your doctor about any side effect that bothers you or that does not go away.
 
@@ -107,8 +105,8 @@ You can also ask your pharmacist or doctor for information about Fluocinonide Cr
 
 What are the ingredients in Fluocinonide Cream USP, 0.1%?
 
-Active ingredient: fluocinonide 0.1%
+Active ingredient:fluocinonide 0.1%
 
-Inactive ingredients: carbomer 940 (carbopol 980), ceteareth-20, citric acid, diethylene glycol monoethyl ether (transcutol P), polyethylene glycol, propylene glycol, sorbitan monostearate, and trolamine.
+Inactive ingredients:carbomer 940 (carbopol 980), ceteareth-20, citric acid, diethylene glycol monoethyl ether (transcutol P), polyethylene glycol, propylene glycol, sorbitan monostearate, and trolamine.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

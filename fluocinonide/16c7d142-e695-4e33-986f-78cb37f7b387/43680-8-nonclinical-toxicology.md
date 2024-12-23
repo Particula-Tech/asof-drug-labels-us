@@ -5,8 +5,8 @@
 Long-term animal studies have not been performed to evaluate the carcinogenic potential of fluocinonide cream USP, 0.1% because of severe immunosuppression induced in a 13-week dermal rat study.
 The effects of fluocinonide on fertility have not been evaluated.
 
-Fluocinonide revealed no evidence of mutagenic or clastogenic potential based on the results of two in vitro genotoxicity tests (Ames test and chromosomal aberration assay using human lymphocytes).
-However, fluocinonide was positive for clastogenic potential when tested in the in vivo mouse micronucleus assay.
+Fluocinonide revealed no evidence of mutagenic or clastogenic potential based on the results of two in vitrogenotoxicity tests (Ames test and chromosomal aberration assay using human lymphocytes).
+However, fluocinonide was positive for clastogenic potential when tested in the in vivomouse micronucleus assay.
 
 Topical (dermal) application of 0.0003%-0.03% fluocinonide cream to rats once daily for 13 weeks resulted in a toxicity profile generally associated with long term exposure to corticosteroids including decreased skin thickness, adrenal atrophy, and severe immunosuppression.
 A NOAEL could not be determined in this study.

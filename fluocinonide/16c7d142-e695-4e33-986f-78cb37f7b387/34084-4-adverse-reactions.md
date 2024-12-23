@@ -9,7 +9,7 @@ The most commonly observed adverse reactions in these clinical trials were as fo
 
 Table 1: Most Commonly Observed Adverse Reactions (≥1%) in Adult Clinical Trials
 
-| Adverse Reaction | Fluocinonide Cream USP, 0.1%, once daily (n=216) | Fluocinonide Cream USP, 0.1%, twice daily (n=227) | Vehicle Cream, once or twice daily (n=211) |
+| Adverse Reaction | Fluocinonide Cream USP, 0.1%, once daily(n=216) | Fluocinonide Cream USP, 0.1%, twice daily(n=227) | Vehicle Cream, once or twice daily(n=211) |
 | --- | --- | --- | --- |
 | Headache | 8 (3.7%) | 9 (4.0%) | 6 (2.8%) |
 | Application Site Burning | 5 (2.3%) | 4 (1.8%) | 14 (6.6%) |
@@ -22,12 +22,12 @@ Safety in patients 12 to 17 years of age was similar to that observed in adults.
 
 The following adverse reactions have been identified during post approval use of fluocinonide cream USP, 0.1%:
 
-Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated.
+Administration Site Conditions:discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated.
 
-Immune System Disorders: hypersensitivity.
+Immune System Disorders:hypersensitivity.
 
-Nervous System Disorders: headache and dizziness.
+Nervous System Disorders:headache and dizziness.
 
-Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness.
+Skin and Subcutaneous Tissue Disorders:acne, dry skin, rash, skin exfoliation and skin tightness.
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
