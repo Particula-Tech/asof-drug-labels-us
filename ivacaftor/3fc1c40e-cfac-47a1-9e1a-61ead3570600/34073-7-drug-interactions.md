@@ -6,7 +6,7 @@ Potential for Other Drugs to Affect Lumacaftor/Ivacaftor
 
 Co-administration of lumacaftor/ivacaftor with itraconazole, a strong CYP3A inhibitor, did not impact the exposure of lumacaftor, but increased ivacaftor exposure by 4.3-fold.
 Due to the induction effect of lumacaftor on CYP3A, at steady-state, the net exposure of ivacaftor is not expected to exceed that when given in the absence of lumacaftor at a dose of 150 mg every 12 hours (the approved dose of ivacaftor monotherapy).
-Therefore, no dose adjustment is necessary when CYP3A inhibitors are initiated in patients currently taking ORKAMBI.
+Therefore, no dosage adjustment is necessary when CYP3A inhibitors are initiated in patients currently taking ORKAMBI.
 However, when initiating ORKAMBI in patients taking strong CYP3A inhibitors, reduce the ORKAMBI dosage as recommended for the first week of treatment to allow for the steady-state induction effect of lumacaftor.
 Following this period, continue with the recommended daily dose [see Dosage and Administration (2.3)].
 
@@ -15,7 +15,7 @@ Examples of strong CYP3A inhibitors include:
 - ketoconazole, itraconazole, posaconazole, and voriconazole.
 - telithromycin, clarithromycin.
 
-No dose adjustment is recommended when used with moderate or weak CYP3A inhibitors.
+No dosage adjustment is recommended when used with moderate or weak CYP3A inhibitors.
 
 ## 7.2 Inducers of CYP3A
 
@@ -23,7 +23,7 @@ Co-administration of lumacaftor/ivacaftor with rifampin, a strong CYP3A inducer,
 This may reduce the effectiveness of ORKAMBI.
 Therefore, co-administration with strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, carbamazepine, phenytoin, and St. John's wort (Hypericum perforatum), is not recommended [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
-No dose adjustment is recommended when used with moderate or weak CYP3A inducers.
+No dosage adjustment is recommended when used with moderate or weak CYP3A inducers.
 
 Potential for Lumacaftor/Ivacaftor to Affect Other Drugs
 
@@ -55,7 +55,7 @@ Monitor the serum concentration of digoxin and titrate the digoxin dose to obtai
 ## 7.6 Anti-allergics and Systemic Corticosteroids
 
 ORKAMBI may decrease the exposure of montelukast, which may reduce its efficacy.
-No dose adjustment for montelukast is recommended.
+No dosage adjustment for montelukast is recommended.
 Employ appropriate clinical monitoring, as is reasonable, when co-administered with ORKAMBI.
 
 Concomitant use of ORKAMBI may reduce the exposure and effectiveness of prednisone and methylprednisolone.
@@ -94,8 +94,8 @@ Avoid concomitant use unless the benefit outweighs the risks.
 ## 7.12 Oral Hypoglycemics
 
 Concomitant use of ORKAMBI may reduce the exposure and effectiveness of repaglinide and may alter the exposure of sulfonylurea.
-A dose adjustment may be required to obtain the desired clinical effect.
-No dose adjustment is recommended for metformin.
+A dosage adjustment may be required to obtain the desired clinical effect.
+No dosage adjustment is recommended for metformin.
 
 ## 7.13 Proton Pump Inhibitors, H2 Blockers, Antacids
 
@@ -108,7 +108,7 @@ No dose adjustment is recommended for calcium carbonate antacid.
 ORKAMBI may alter the exposure of warfarin.
 Monitor the international normalized ratio (INR) when warfarin co-administration with ORKAMBI is required.
 
-## 7.15 Concomitant Drugs That Do Not Need Dose Adjustment
+## 7.15 Concomitant Drugs That Do Not Need Dosage Adjustment
 
 No dosage adjustment of ORKAMBI or concomitant drug is recommended when ORKAMBI is given with the following: azithromycin, aztreonam, budesonide, ceftazidime, cetirizine, ciprofloxacin, colistimethate, colistin, dornase alfa, fluticasone, ipratropium, levofloxacin, pancreatin, pancrelipase, salbutamol, salmeterol, sulfamethoxazole, trimethoprim, tiotropium, and tobramycin.
 Based on the metabolism and route of elimination, ORKAMBI is not expected to impact the exposure of these drugs.

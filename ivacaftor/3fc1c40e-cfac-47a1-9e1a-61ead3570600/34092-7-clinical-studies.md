@@ -2,7 +2,7 @@
 
 Dose Ranging
 
-Dose ranging for the clinical program consisted primarily of one double-blind, placebo-controlled, multiple-cohort trial which included 97 Caucasian patients with CF (homozygous for the F508del mutation) 18 years of age and older with a screening ppFEV1 ≥40.
+Dose ranging for the clinical program consisted primarily of one double-blind, placebo-controlled, multiple-cohort trial which included 97 Caucasian patients with CF (homozygous for the F508del mutation) aged 18 years and older with a screening ppFEV1 ≥40.
 In the trial, 76 patients (homozygous for the F508del mutation) were randomized to receive lumacaftor alone at once daily doses of 200 mg, 400 mg, or 600 mg or 400 mg q12h for 28 days followed by the addition of ivacaftor 250 mg q12h and 27 patients (homozygous or heterozygous for the F508del mutation) received placebo.
 During the initial 28-day lumacaftor monotherapy period, treatment with lumacaftor demonstrated a dose-dependent decrease in ppFEV1 compared to placebo.
 Changes from Day 1 at Day 28 in ppFEV1 compared to placebo were 0.24, -1.4, -2.7, and -4.6 for the 200 mg once daily, 400 mg once daily, 600 mg once daily, and 400 mg q12h lumacaftor doses, respectively.

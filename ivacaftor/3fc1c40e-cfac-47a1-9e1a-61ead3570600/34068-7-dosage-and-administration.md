@@ -33,12 +33,12 @@ Examples of appropriate fat-containing foods include eggs, avocados, nuts, butte
 Missed Dose
 
 If a patient misses a dose and remembers the missed dose within 6 hours, the patient should take the dose with fat-containing food.
-If more than 6 hours elapsed after the usual dosing time, the patient should skip that dose and resume the normal schedule for the following dose.
+If more than 6 hours elapsed after the recommended dosing time, the patient should skip that dose and resume the normal schedule for the following dose.
 A double dose should not be taken to make up for the forgotten dose [see Clinical Pharmacology (12.3) and Patient Counseling Information (17)].
 
 ## 2.2 Dosage Adjustment for Patients with Hepatic Impairment
 
-For dose adjustment for patients with hepatic impairment, refer to Table 2.
+For dosage adjustment for patients with hepatic impairment, refer to Table 2.
 
 Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
 Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 tablet in the evening or less frequently, or 1 packet of oral granules once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Dosage and Administration (2.1), Use in Specific Populations (8.6), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
@@ -71,7 +71,7 @@ Table 2: Recommended Dosage for Patients with Hepatic Impairment
 
 ## 2.3 Dosage Adjustment for Patients Taking CYP3A Inhibitors
 
-No dose adjustment is necessary when CYP3A inhibitors are initiated in patients already taking ORKAMBI.
+No dosage adjustment is necessary when CYP3A inhibitors are initiated in patients already taking ORKAMBI.
 However, when initiating ORKAMBI in patients currently taking strong CYP3A inhibitors, reduce the ORKAMBI dosage for the first week of treatment based on age as follows [see Dosage and Administration (2.1) and Drug Interactions (7.1)]:
 
 - 1 through 5 years of age: 1 packet of granules every other day

@@ -5,7 +5,7 @@
 Worsening of liver function, including hepatic encephalopathy, in patients with advanced liver disease has been reported.
 Liver function decompensation, including liver failure leading to death, has been reported in CF patients with pre-existing cirrhosis with portal hypertension while receiving ORKAMBI.
 Use ORKAMBI with caution in patients with advanced liver disease and only if the benefits are expected to outweigh the risks.
-If ORKAMBI is used in these patients, they should be closely monitored after the initiation of treatment and the dose should be reduced [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
+If ORKAMBI is used in these patients, they should be closely monitored after the initiation of treatment and the dosage should be reduced [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
 ## 5.2 Liver-related Events
 

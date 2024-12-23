@@ -15,7 +15,7 @@ In vitro responses do not necessarily correspond to in vivo pharmacodynamic resp
 
 Sweat Chloride Evaluation
 
-Changes in sweat chloride in response to relevant doses of lumacaftor alone or in combination with ivacaftor were evaluated in a double-blind, placebo-controlled, Phase 2 clinical trial in patients with CF 18 years of age and older either homozygous or heterozygous for the F508del mutation.
+Changes in sweat chloride in response to relevant doses of lumacaftor alone or in combination with ivacaftor were evaluated in a double-blind, placebo-controlled, Phase 2 clinical trial in patients with CF aged 18 years and older either homozygous or heterozygous for the F508del mutation.
 In that trial, 10 patients (homozygous for F508del) completed dosing with lumacaftor alone 400 mg q12h for 28 days followed by the addition of ivacaftor 250 mg q12h for an additional 28 days and 25 patients (homozygous or heterozygous for F508del) completed dosing with placebo.
 The treatment difference between lumacaftor 400 mg q12h alone and placebo evaluated as mean change in sweat chloride from baseline to Day 28 compared to placebo was -8.2 mmol/L (95% CI: -14, -2).
 The treatment difference between the combination of lumacaftor 400 mg/ivacaftor 250 mg q12h and placebo evaluated as mean change in sweat chloride from baseline to Day 56 compared to placebo was -11 mmol/L (95% CI: -18, -4).

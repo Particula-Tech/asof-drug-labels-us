@@ -5,8 +5,8 @@
 Risk Summary
 
 There are limited and incomplete human data from clinical trials and postmarketing reports on use of ORKAMBI or its individual components, lumacaftor or ivacaftor, in pregnant women to inform a drug-associated risk.
-In animal reproduction studies, oral administration of lumacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 8 (rats) and 5 (rabbits) times the exposure at the maximum recommended human dose (MRHD).
-Oral administration of ivacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 7 (rats) and 45 (rabbits) times the exposure at the MRHD.
+In animal reproduction studies, oral administration of lumacaftor to pregnant rats and rabbits during organogenesis demonstrated no adverse effects on fetal development at doses that produced maternal exposures up to approximately 8 (rats) and 5 (rabbits) times the exposure at the maximum recommended human dose (MRHD).
+Oral administration of ivacaftor to pregnant rats and rabbits during organogenesis demonstrated no adverse effects on fetal development at doses that produced maternal exposures up to approximately 7 (rats) and 45 (rabbits) times the exposure at the MRHD.
 No adverse developmental effects were observed after oral administration of either lumacaftor or ivacaftor to pregnant rats from organogenesis through lactation at doses that produced maternal exposures approximately 8 and 5 times the exposures at the MRHD, respectively (see Data).
 There are no animal reproduction studies with concomitant administration of lumacaftor and ivacaftor.
 
@@ -19,16 +19,24 @@ Animal Data
 
 Lumacaftor
 
-In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 7-17, lumacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 8 times the MRHD (on an AUC basis at maternal oral doses up to 2000 mg/kg/day).
-In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 7-19, lumacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 5 times the MRHD (on an AUC basis at maternal oral doses up to 200 mg/kg/day).
-In a pre- and post-natal development study in pregnant female rats dosed from gestation day 6 through lactation day 20, lumacaftor had no effects on delivery or growth and development of offspring at exposures up to 8 times the MRHD (on an AUC basis at maternal oral doses up to 1000 mg/kg/day).
+In an embryo-fetal development (EFD) study, pregnant rats were administered lumacaftor at oral doses of 500, 1000, or 2000 mg/kg/day during the period of organogenesis from gestation days 7-17.
+Lumacaftor did not affect fetal development or survival at exposures up to 8 times the MRHD (on an AUC basis at maternal oral doses up to 2000 mg/kg/day).
+In an EFD study, pregnant rabbits were administered lumacaftor at oral doses of 50, 100, or 200 mg/kg/day during the period of organogenesis from gestation days 7-19.
+Lumacaftor did not affect fetal development or survival at exposures up to 5 times the MRHD (on an AUC basis at maternal oral doses up to 200 mg/kg/day).
+Maternal toxicity as evidenced by decreased body weight, decreased food consumption, and clinical signs was observed at 100 and 200 mg/kg/day without any adverse fetal effects.
+In a pre- and post-natal development study in pregnant female rats administered lumacaftor at 250, 500, or 1000 mg/kg/day from gestation day 6 through lactation day 20, lumacaftor had no effects on delivery or growth and development of offspring at exposures up to 8 times the MRHD (on an AUC basis at maternal oral doses up to 1000 mg/kg/day).
 Placental transfer of lumacaftor was observed in pregnant rats and rabbits.
 
 Ivacaftor
 
-In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 7-17, ivacaftor was not teratogenic and did not affect fetal survival at exposures up to 7 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 200 mg/kg/day).
-In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 7-19, ivacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 45 times the MRHD (on an ivacaftor AUC basis at maternal oral doses up to 100 mg/kg/day).
-In a pre- and post-natal development study in pregnant female rats dosed from gestation day 7 through lactation day 20, ivacaftor had no effects on delivery or growth and development of offspring at exposures up to 5 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 100 mg/kg/day).
+In an EFD study, pregnant rats were administered ivacaftor at oral doses of 50, 100, or 200 mg/kg/day during the period of organogenesis from gestation days 7-17.
+Ivacaftor did not affect fetal survival at exposures up to 7 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 200 mg/kg/day).
+Maternal toxicity (i.e., decreased mean body weight and body weight gain) was observed at 100 and 200 mg/kg/day (5 and 7 times the exposure at the MRHD, respectively) and was associated with a decrease in fetal body weights at a maternal dose of 200 mg/kg/day (7 times the MRHD).
+In an EFD study, pregnant rabbits were administered ivacaftor at oral doses of 25, 50, or 100 mg/kg/day during the period of organogenesis from gestation days 7-19.
+Ivacaftor did not affect fetal development or survival at exposures up to 45 times the MRHD (on an ivacaftor AUC basis at maternal oral doses up to 100 mg/kg/day).
+Maternal toxicity (i.e., death, decreased food consumption, decreased mean body weight and body weight gain, decreased clinical condition, abortions) was observed at doses greater than or equal to 50 mg/kg/day (approximately 15 times the MRHD).
+In a pre- and post-natal development study, pregnant rats were administered ivacaftor at oral doses of 50, 100, or 200 mg/kg/day from gestation day 7 through lactation day 20.
+Ivacaftor had no effects on delivery or growth and development of offspring at exposures up to 5 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 100 mg/kg/day).
 Decreased fetal body weights were observed at a maternally toxic dose that produced exposures 7 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at a maternal oral dose of 200 mg/kg/day).
 Placental transfer of ivacaftor was observed in pregnant rats and rabbits.
 
@@ -59,8 +67,8 @@ Hormonal contraceptives, including oral, injectable, transdermal, and implantabl
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ORKAMBI in pediatric patients one year of age and older have been established.
-Use of ORKAMBI in these age groups is supported by evidence from adequate and well-controlled studies of ORKAMBI in patients 12 years of age and older [see Clinical Studies (14) and Adverse Reactions (6.1)] with additional data as follows:
+The safety and effectiveness of ORKAMBI in pediatric patients aged one year and older have been established.
+Use of ORKAMBI in these age groups is supported by evidence from adequate and well-controlled studies of ORKAMBI in patients aged 12 years and older [see Clinical Studies (14) and Adverse Reactions (6.1)] with additional data as follows:
 
 - Extrapolation of efficacy in patients aged 12 years and older homozygous for the F508del mutation in the CFTR gene to pediatric patients aged 1 through 11 years with support from population pharmacokinetic analyses showing similar drug exposure levels in patients aged 12 years and older and in patients aged 1 through 11 years [see Clinical Pharmacology (12.3)].
 - Safety data were obtained from a 24-week, open-label, clinical trial in 58 patients aged 6 through 11 years, mean age 9 years (Trial 3) and a 24-week, placebo-controlled, clinical trial in 204 patients aged 6 through 11 years (Trial 4).
@@ -75,6 +83,8 @@ Use of ORKAMBI in these age groups is supported by evidence from adequate and we
   The safety profile in Trial 6 was similar to that in patients aged 6 years and older [see Adverse Reactions (6.1)].
 - Additional safety data were obtained from Trial 7, a 24-week, open-label, clinical trial in 46 patients aged 1 to 2 years at screening (mean age at baseline 18.1 months).
   The safety profile in Trial 7 was similar to that in patients aged 2 years and older [see Adverse Reactions (6.1)].
+- Safety was evaluated in a 96-week open-label clinical trial (Trial 8) in 52 patients (39 rolled over from Trial 7 and 13 ORKAMBI naïve) aged 1 to 2 years.
+  Adverse reactions from trial 8 were generally similar to those reported in Trial 7.
 
 The safety and effectiveness of ORKAMBI in patients with CF younger than 1 year of age have not been established.
 
@@ -93,7 +103,7 @@ Clinical trials of ORKAMBI did not include sufficient numbers of patients 65 yea
 
 ## 8.6 Hepatic Impairment
 
-No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A dose reduction to 2 tablets in the morning and 1 tablet in the evening is recommended for patients aged 6 years and older with moderate hepatic impairment (Child-Pugh Class B). A dose reduction to 1 packet of oral granules in the morning daily and 1 packet of oral granules in the evening every other day is recommended for patients aged 1 to 5 years old with moderate hepatic impairment (Child-Pugh Class B).
+No dosage adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A dose reduction to 2 tablets in the morning and 1 tablet in the evening is recommended for patients aged 6 years and older with moderate hepatic impairment (Child-Pugh Class B). A dose reduction to 1 packet of oral granules in the morning daily and 1 packet of oral granules in the evening every other day is recommended for patients aged 1 to 5 years old with moderate hepatic impairment (Child-Pugh Class B).
 
 Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
 Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 tablet in the evening or less frequently, or 1 packet of oral granules once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
@@ -101,7 +111,7 @@ Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 t
 ## 8.7 Renal Impairment
 
 ORKAMBI has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end-stage renal disease.
-No dose adjustment is necessary for patients with mild to moderate renal impairment.
+No dosage adjustment is necessary for patients with mild to moderate renal impairment.
 Caution is recommended while using ORKAMBI in patients with severe renal impairment (creatinine clearance ≤30 mL/min) or end-stage renal disease.
 
 ## 8.8 Patients with Severe Lung Dysfunction

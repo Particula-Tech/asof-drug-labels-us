@@ -52,9 +52,9 @@ Table 3: Incidence of Adverse Drug Reactions in ≥5% of ORKAMBI-Treated Patient
 The safety profile from two pediatric trials in CF patients aged 6 through 11 years who are homozygous for the F508del-CFTR mutation, a 24-week, open-label, multicenter safety trial in 58 patients (Trial 3) and a 24-week, placebo-controlled, clinical trial (Trial 4) in 204 patients (103 received lumacaftor 200 mg/ivacaftor 250 mg every 12 hours and 101 received placebo), was similar to that observed in Trials 1 and 2.
 Adverse reactions that are not listed in Table 3, and that occurred in ≥5% of lumacaftor/ivacaftor-treated patients with an incidence of ≥3% higher than placebo included: productive cough (17.5% vs 5.9%), nasal congestion (16.5% vs 7.9%), headache (12.6% vs 8.9%), abdominal pain upper (12.6% vs 6.9%), and sputum increased (10.7% vs 2.0%).
 
-In a 24-week, open-label, multicenter, study in 60 patients aged 2 through 5 years with CF who are homozygous for the F508del-CFTR mutation (Trial 6) the safety profile was similar to that observed in studies in patients aged 6 years and older [see Clinical Pharmacology (12.2)].
+In a 24-week, open-label, multicenter, study in 60 patients aged 2 through 5 years with CF who were homozygous for the F508del-CFTR mutation (Trial 6) the safety profile was similar to that observed in studies in patients aged 6 years and older [see Clinical Pharmacology (12.2)].
 
-In a 24-week, open-label, multicenter, study in 46 patients aged 1 through 2 years with CF who are homozygous for the F508del-CFTR mutation (Trial 7) the safety profile was similar to that observed in studies in patients aged 2 years and older [see Clinical Pharmacology (12.2)].
+In a 24-week, open-label, multicenter, study in 46 patients aged 1 through 2 years with CF who were homozygous for the F508del-CFTR mutation (Trial 7) the safety profile was similar to that observed in studies in patients aged 2 years and older [see Clinical Pharmacology (12.2)].
 
 Additional information on selected adverse reactions from trials is detailed below:
 
@@ -119,4 +119,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hepatobiliary: liver function decompensation including liver failure leading to death in patients with pre-existing cirrhosis with portal hypertension [see Warnings and Precautions (5.1)].
 
-Immune System Disorders: anaphylaxis, angioedema
+Immune system disorders: anaphylaxis, angioedema
