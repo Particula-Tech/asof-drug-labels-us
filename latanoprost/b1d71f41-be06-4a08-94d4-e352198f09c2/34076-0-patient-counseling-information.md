@@ -19,4 +19,4 @@ Use with Other Ophthalmic Drugs If more than 1 topical ophthalmic drug is being 
 
 Missed Dose Advise patients that if one dose is missed, treatment should continue with the next dose in the evening.
 
-U.S. Patent Nos.: 8,450,344; 8,394,826; 9,096,569; 9,415,043; 9,931,336; 9,993,470; 10,174,017; 10,532,993; 10,588,901 ROCKLATAN is a trademark of Aerie Pharmaceuticals, Inc. Manufactured for: Aerie Pharmaceuticals, Inc., Irvine, CA 92614, U.S.A.
+© 2024 Alcon Inc. U.S. Pat.: www.alconpatents.com Manufactured for: ALCON LABORATORIES, Inc., Fort Worth, Texas 76134 USA
