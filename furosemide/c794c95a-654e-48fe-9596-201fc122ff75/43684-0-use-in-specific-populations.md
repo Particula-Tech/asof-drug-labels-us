@@ -13,20 +13,20 @@ The estimated background risk for major birth defects and miscarriage for the in
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+#### Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 Pregnant women with congestive heart failure are at increased risk for pre-term birth.
 Stroke volume and heart rate increase during pregnancy, increasing cardiac output, especially during the first trimester.
 Clinical classification of heart disease may worsen with pregnancy and lead to maternal death and/or stillbirth.
-Closely monitor pregnant patients for destabilization of their heart failure.
+Closely monitor pregnant patients for destabilization of their heart failure
 
 Pregnant women with symptomatic cirrhosis generally have poor outcomes including hepatic failure, variceal hemorrhage, pre-term delivery, fetal growth restriction and maternal death.
 Outcomes are worse with coexisting esophageal varices.
 Pregnant women with cirrhosis of the liver should be carefully monitored and managed accordingly.
 
-Data
+#### Data
 
 Animal Data
 
