@@ -77,8 +77,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Data regarding use of betamethasone dipropionate gel (augmented) in pediatric patients are not available, so use of this product in patients under the age of 12 is not recommended.
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression when they are treated with topical corticosteroids.
-They are, therefore, also at greater risk of glucocorticosteroid insufficiency after withdrawal of treatment and of Cushing's syndrome while on treatment.
-Adverse effects, including striae, have been reported with inappropriate use of topical corticosteroids in infants and pediatric patients.
+They are, therefore, also at greater risk of glucocorticosteroid insufficiency after withdrawal of treatment and of Cushing's syndrome while on treatment.Adverse effects, including striae, have been reported with inappropriate use of topical corticosteroids in infants and pediatric patients.
 
 HPA axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in pediatric patients receiving topical corticosteroids.
 Manifestations of adrenal suppression in pediatric patients include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation.
