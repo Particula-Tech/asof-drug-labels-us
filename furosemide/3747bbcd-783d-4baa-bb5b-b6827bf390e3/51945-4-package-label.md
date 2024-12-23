@@ -22,7 +22,7 @@ Protect from light.
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Furosemide 2 mL Single Dose Tray Label
 
-NDC 63323-280 -16 PRX28002
+NDC 63323-280-16 PRX28002
 
 Furosemide
 

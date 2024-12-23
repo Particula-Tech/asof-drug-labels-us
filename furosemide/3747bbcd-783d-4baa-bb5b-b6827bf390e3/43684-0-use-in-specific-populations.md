@@ -13,7 +13,7 @@ The estimated background risk for major birth defects and miscarriage for the in
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
@@ -26,7 +26,7 @@ Pregnant women with symptomatic cirrhosis generally have poor outcomes including
 Outcomes are worse with coexisting esophageal varices.
 Pregnant women with cirrhosis of the liver should be carefully monitored and managed accordingly.
 
-Data
+### Data
 
 Animal Data
 

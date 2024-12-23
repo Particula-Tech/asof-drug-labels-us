@@ -14,9 +14,7 @@ Treatment in such patients is best initiated in the hospital with small doses an
 Furosemide can cause dehydration and azotemia.
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued [see Clinical Pharmacology (12.3)].
 
-Furosemide use in the first year of life, especially in patients born pre-term, may precipitate
-
-nephrocalcinosis/nephrolithiasis.
+Furosemide use in the first year of life, especially in patients born pre-term, may precipitate nephrocalcinosis/nephrolithiasis.
 Therefore renal function must be monitored and renal ultrasonography performed in this age group [see Use in Specific Populations (8.4)].
 
 ## 5.3 Ototoxicity
