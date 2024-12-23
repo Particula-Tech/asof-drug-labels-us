@@ -1,5 +1,7 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are also discussed in other sections of the labeling: • Spinal/epidural hematoma [see Boxed Warning and Warnings and Precautions (5.1)] • Increased Risk of Hemorrhage [see Warnings and Precautions (5.1)] • Thrombocytopenia [see Warnings and Precautions (5.5)]
+
 ## 6.1 Clinical Trials Experience
 
 The following serious adverse reactions are also discussed in other sections of the labeling: • Spinal/epidural hematoma [see Boxed Warning and Warnings and Precautions (5.1)] • Increased Risk of Hemorrhage [see Warnings and Precautions (5.1)] • Thrombocytopenia [see Warnings and Precautions (5.5)]

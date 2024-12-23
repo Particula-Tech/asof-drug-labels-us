@@ -9,10 +9,10 @@ The drug substance is the sodium salt.
 The average molecular weight is about 4500 daltons.
 The molecular weight distribution is:
 
-| <2000 daltons | 20% |
+| <2000 daltons | ≤20% |
 | --- | --- |
-| 2000 to 8000 daltons | 68% |
-| >8000 daltons | 18% |
+| 2000 to 8000 daltons | ≥68% |
+| >8000 daltons | ≤18% |
 
 | STRUCTURAL FORMULA |  |  |  |
 | --- | --- | --- | --- |

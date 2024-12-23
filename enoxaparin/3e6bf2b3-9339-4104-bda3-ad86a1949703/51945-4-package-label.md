@@ -24,6 +24,8 @@ Made in U.S.A.
 
 © 2018
 
+5256016P/12-22
+
 # PRINCIPAL DISPLAY PANEL: 10 x 40 mg Syringe Carton
 
 ENOXAPARIN SODIUM INJECTION
@@ -49,6 +51,8 @@ Rancho Cucamonga, CA 91730, U.S.A.
 Made in U.S.A.
 
 © 2018
+
+5256026P/12-22
 
 # PRINCIPAL DISPLAY PANEL - 10 x 60 mg Syringe Carton
 
@@ -76,6 +80,8 @@ Made in U.S.A.
 
 © 2018
 
+5256036P/12-22
+
 # PRINCIPAL DISPLAY PANEL: 10 x 80 mg Syringe Carton
 
 ENOXAPARIN SODIUM INJECTION
@@ -102,6 +108,8 @@ Made in U.S.A.
 
 © 2018
 
+5256046P/12-22
+
 # PRINCIPAL DISPLAY PANEL: 10 x 100 mg Syringe Carton
 
 ENOXAPARIN SODIUM INJECTION
@@ -125,6 +133,8 @@ AMPHASTAR PHARMACEUTICALS, INC.
 Rancho Cucamonga, CA 91730, U.S.A. Made in U.S.A.
 
 © 2018
+
+5256056N/3-18
 
 # PRINCIPAL DISPLAY PANEL: 10 x 120 mg Syringe Carton
 
@@ -151,6 +161,8 @@ Rancho Cucamonga, CA 91730, U.S.A.
 Made in U.S.A.
 
 © 2018
+
+5256066P/12-22
 
 # PRINCIPAL DISPLAY PANEL: 10 x 150 mg Syringe Carton
 
@@ -179,6 +191,8 @@ Rancho Cucamonga, CA 91730, U.S.A.
 Made in U.S.A.
 
 © 2018
+
+5256076P/12-22
 
 # PRINCIPAL DISPLAY PANEL: Multiple-Dose Vial Carton
 

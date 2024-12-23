@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Enoxaparin Sodium Injection USP is available in two concentrations (see Tables 26 and 27)
+Enoxaparin Sodium Injection USP is available in two concentrations (see Tables 26 and 27).
 
-| Dosage Unit/StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Enoxaparin Sodium Injection USP, 30 and 40 mg prefilled syringes, and 60, 80, and 100 mg graduated prefilled syringes each contain 10 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa Activity | Package Size (per carton) | Syringe Label Color | NDC# 0548- |
+| Dosage Unit/StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Enoxaparin Sodium Injection USP, 30 and 40 mg prefilled syringes, and 60, 80, and 100 mg graduated prefilled syringes each contain 10 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa Activity† | Package Size (per carton) | Syringe Label Color | NDC# 0548- |
 | --- | --- | --- | --- | --- |
 | Table 26 100 mg/mL Concentration |  |  |  |  |
 | Single-Dose Prefilled SyringesApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. 30 mg/0.3 mL | 3000 IU | 10 syringes | Medium Blue | 5601-00 |

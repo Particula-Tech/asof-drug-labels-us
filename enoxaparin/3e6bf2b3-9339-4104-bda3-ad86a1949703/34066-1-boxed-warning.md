@@ -1,6 +1,6 @@
 # WARNING: SPINAL / EPIDURAL HEMATOMAS
 
-WARNING: SPINAL / EPIDURAL HEMATOMAS Epidural or spinal hematomas may occur in patients who are anticoagulated with low molecular weight heparins (LMWH) or heparinoids and are receiving neuraxial anesthesia or undergoing spinal puncture.
+Epidural or spinal hematomas may occur in patients who are anticoagulated with low molecular weight heparins (LMWH) or heparinoids and are receiving neuraxial anesthesia or undergoing spinal puncture.
 These hematomas may result in longterm or permanent paralysis.
 Consider these risks when scheduling patients for spinal procedures.
 Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:

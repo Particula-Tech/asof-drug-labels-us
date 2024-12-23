@@ -35,17 +35,13 @@ Storing Enoxaparin Sodium Injection prefilled syringes:
 
 Parts of Enoxaparin Sodium Injection prefilled syringe:
 
-Preparing to inject Enoxaparin Sodium Injection:
-
-Step 1: Gather the following supplies for your injection (see Figure A):
+Preparing to inject Enoxaparin Sodium Injection:Step 1: Gather the following supplies for your injection (see Figure A):
 
 - 1 Enoxaparin Sodium Injection prefilled syringe
 - 1 alcohol wipe*
 - 1 cotton ball or gauze*
 - a small adhesive bandage, if needed*
-- a sharps disposal container* (see Step 13)
-
-*Items not included.
+- a sharps disposal container* (see Step 13) *Items not included.
 
 Figure A
 
@@ -67,10 +63,7 @@ Figure B
 
 Step 4: Check the Enoxaparin Sodium Injection prefilled syringe
 
-- When you receive your Enoxaparin Sodium Injection syringes, always check to see that:
-
-o you have the correct medicine and dose. o the expiration date on the prefilled syringe has not passed (see Figure C).
-
+- When you receive your Enoxaparin Sodium Injection syringes, always check to see that: o you have the correct medicine and dose. o the expiration date on the prefilled syringe has not passed (see Figure C).
 - Do not use the Enoxaparin Sodium Injection prefilled syringe if the expiration date has passed.
 
 Figure C
@@ -139,14 +132,18 @@ Push the plunger rod down slowly and steadily with your thumb until the Enoxapar
 
 Figure K
 
-Step 11: Remove the needleRemove the needle from the injection site by pulling it straight out while keeping your fingers on the plunger rod (see Figure L).
+Step 11: Remove the needle
+
+Remove the needle from the injection site by pulling it straight out while keeping your fingers on the plunger rod (see Figure L).
 
 - Do not put the needle cover back on.
 - Do not rub your skin after the injection.
 
 Figure L
 
-Step 12: Activate the safety systemOnce the syringe has been removed from the injection site, let go of the plunger and allow syringe to move up until the entire needle is guarded.
+Step 12: Activate the safety system
+
+Once the syringe has been removed from the injection site, let go of the plunger and allow syringe to move up until the entire needle is guarded.
 Keep fingers in place on flanges (see Figure M).
 
 - The safety system should only activate once the syringe has been emptied.
@@ -168,9 +165,9 @@ For more information about safe sharps disposal, and for specific information ab
 
 Figure N
 
-Amphastar Pharmaceuticals, Inc.
+Amphastar Pharmaceuticals, Inc.Rancho Cucamonga, CA 91730 U.S.A.
 
-Rancho Cucamonga, CA 91730 U.S.A. Rev.
+Rev.
 09/22 6756016B/9-22
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
