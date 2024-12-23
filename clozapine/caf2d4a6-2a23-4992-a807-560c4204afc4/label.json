@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA212923"
+  ],
+  "inn": "clozapine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-260-01",
+    "59651-261-01",
+    "59651-261-48",
+    "59651-262-01",
+    "59651-262-48",
+    "59651-263-01",
+    "59651-263-48",
+    "59651-264-01",
+    "59651-264-48"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "clozapine",
+      "name": "Clozapine"
+    }
+  ],
+  "setid": "caf2d4a6-2a23-4992-a807-560c4204afc4",
+  "source": "dailymed"
+}
