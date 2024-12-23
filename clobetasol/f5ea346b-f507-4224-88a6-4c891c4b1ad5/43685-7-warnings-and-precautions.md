@@ -2,8 +2,7 @@
 
 ## General
 
-Clobetasol propionate is a highly potent topical corticosteroid that has been shown to suppress the HPA axis at doses as low as 2 g (of ointment) per day.
-Systemic absorption of topical corticosteroids has resulted in reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients.
+Clobetasol propionate is a highly potent topical corticosteroid that has been shown to suppress the HPA axis at doses as low as 2 g (of ointment) per day.Systemic absorption of topical corticosteroids has resulted in reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients.
 
 Conditions that augment systemic absorption include the application of the more potent corticosteroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests.
@@ -51,7 +50,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 Studies in the rat following subcutaneous administration at dosage levels up to 50 mcg/kg/day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.
 
-Clobetasol propionate was nonmutagenic in 3 different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay, and the E. coli B WP2 fluctuation test.
+Clobetasol propionate was nonmutagenic in 3 different test systems: the Ames test, the Saccharomyces cerevisiaegene conversion assay, and the E. coliB WP2 fluctuation test.
 
 ## Pregnancy
 
