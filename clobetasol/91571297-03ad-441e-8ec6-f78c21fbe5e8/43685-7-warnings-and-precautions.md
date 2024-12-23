@@ -33,7 +33,7 @@ Clobetasol propionate is not recommended in patients with acne vulgaris, rosacea
 
 ## 5.3 Allergic Contact Dermatitis
 
-Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation.
+Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to healrather than noting a clinical exacerbation.
 Clinical diagnosis of allergic contact dermatitis can be confirmed with patch testing.
 If irritation develops, clobetasol propionate cream, 0.05% (emollient) should be discontinued and appropriate therapy instituted.
 

@@ -6,6 +6,6 @@ Clobetasol Propionate Cream USP, 0.05% (Emollient) is a white to off-white cream
 
 Storage and Handling
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature].
 
 Clobetasol Propionate Cream USP, 0.05% (Emollient) should not be refrigerated.

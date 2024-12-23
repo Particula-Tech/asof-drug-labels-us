@@ -8,7 +8,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 Mutagenesis
 
-Clobetasol propionate was nonmutagenic in three different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay, and the E. Coli B WP2 fluctuation test.
+Clobetasol propionate was nonmutagenic in three different test systems: the Ames test, the Saccharomyces cerevisiaegene conversion assay, and the E. ColiB WP2 fluctuation test.
 
 Impairment of Fertility
 
