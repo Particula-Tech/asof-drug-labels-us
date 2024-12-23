@@ -13,6 +13,7 @@ NDC 76329-1469-1 Stock No. 1469 (contains no preservative)
 
 2 mL single dose disposable Luer-JetTM Luer-Lock Prefilled Syringe.
 Shrink Wrapped Packages of 10.
+Needle not included
 
 NDC 76329-3369-1 Stock No. 3369 (contains no preservative)
 

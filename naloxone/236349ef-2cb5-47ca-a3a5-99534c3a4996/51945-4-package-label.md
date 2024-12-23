@@ -12,9 +12,9 @@ STOCK NO. 1469
 
 NALOXONE HYDROCHLORIDE INJ., USP
 
-(1 mg/mL)
-
 2 mg per 2 mL
+
+(1 mg/mL)
 
 FOR INTRAVENOUS, INTRAMUSCULAR
 
@@ -26,7 +26,7 @@ MIN-I-JET®
 
 2 mL single dose disposable prefilled syringe
 
-Single use, do not reuse or resterilize.
+Discard unused portion.
 
 # PRINCIPLE DISPLAY PANEL: Carton (Stock No. 3369)
 
@@ -40,9 +40,9 @@ STOCK NO. 3369
 
 NALOXONE HYDROCHLORIDE INJ., USP
 
-(1 mg/mL)
-
 2 mg per 2 mL
+
+(1 mg/mL)
 
 FOR INTRAVENOUS, INTRAMUSCULAR
 
@@ -53,5 +53,7 @@ AS AN OPIOID ANTAGONIST
 LUER-JETTM LUER-LOCK PREFILLED SYRINGE
 
 2 mL single dose disposable prefilled syringe
+
+Needle not included
 
 Discard unused portion.
