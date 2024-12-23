@@ -9,7 +9,7 @@ Inhibitors of CYP2B6 Ticlopidine and Clopidogrel: Concomitant treatment with the
 Based on clinical response, dosage adjustment of bupropion hydrochloride tablets may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
 Inducers of CYP2B6 Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
-Dosage increase of bupropion hydrochloride tablets may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)] but should not exceed the maximum recommended dose.
+Dosage increase of bupropion hydrochloride tablets may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)]but should not exceed the maximum recommended dose.
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
 If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.
@@ -53,7 +53,7 @@ Bupropion inhibits the reuptake of dopamine and norepinephrine.
 Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with bupropion hydrochloride tablets.
-Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride tablets before starting an MAOI antidepressant [see Dosage and Administration (2.4, 2.5), Contraindications (4)].
+Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride tablets before starting an MAOI antidepressant [see Dosage and Administration 2.4, 2.5), Contraindications (4)].
 
 ## 7.7 Drug-Laboratory Test Interactions
 

@@ -73,7 +73,7 @@ Patients with Left Ventricular Dysfunction: During a chronic dosing trial with b
 
 Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy trials involving subjects dosed in a range of 300 to 750 mg / day, on a 3-times-daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic trial demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects.
-These data suggest there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetics trial suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5)].
+These data suggest there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetics trial suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations8.5)].
 
 Male and Female Patients: Pooled analysis of bupropion pharmacokinetic data from 90 healthy male and 90 healthy female volunteers revealed no sex-related differences in the peak plasma concentrations of bupropion.
 The mean systemic exposure (AUC) was approximately 13% higher in male volunteers compared with female volunteers.

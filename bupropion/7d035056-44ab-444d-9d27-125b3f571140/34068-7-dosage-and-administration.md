@@ -21,7 +21,7 @@ Periodically reassess the need for maintenance treatment and the appropriate dos
 ## 2.2 Dose Adjustment in Patients with Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride tablets are 75 mg / day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations 8.7), Clinical Pharmacology (12.3)].
 
 ## 2.3 Dose Adjustment in Patients with Renal Impairment
 
