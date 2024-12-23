@@ -24,7 +24,7 @@ If there is a lack of response to clotrimazole cream, appropriate microbiologica
 
 ## Drug Interactions
 
-Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported.
+Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicanshas not been reported.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -45,10 +45,10 @@ Clotrimazole is very poorly absorbed following dermal application or intravagina
 In clinical trials, use of vaginally applied clotrimazole in pregnant women in their second and third trimesters has not been associated with ill effects.
 There are, however, no adequate and well-controlled studies in pregnant women during their first trimester of pregnancy.
 
-Studies in pregnant rats with intravaginal doses up to 100 mg/kg have revealed no evidence of harm to the fetus due to clotrimazole.
+Studies in pregnant rats with intravaginaldoses up to 100 mg/kg have revealed no evidence of harm to the fetus due to clotrimazole.
 
-High oral doses of clotrimazole in rats and mice ranging from 50 to 120 mg/kg resulted in embryotoxicity (possibly secondary to maternal toxicity), impairment of mating, decreased litter size and number of viable young and decreased pup survival to weaning.
-However, clotrimazole was not teratogenic in mice, rabbits and rats at oral doses up to 200, 180 and 100 mg/kg respectively.
+High oraldoses of clotrimazole in rats and mice ranging from 50 to 120 mg/kg resulted in embryotoxicity (possibly secondary to maternal toxicity), impairment of mating, decreased litter size and number of viable young and decreased pup survival to weaning.
+However, clotrimazole was notteratogenic in mice, rabbits and rats at oral doses up to 200, 180 and 100 mg/kg respectively.
 Oral absorption in the rats amounts to approximately 90% of the administered dose.
 
 Because animal reproductive studies are not always predictive of human response, this drug should be used only if clearly indicated during the first trimester of pregnancy.
