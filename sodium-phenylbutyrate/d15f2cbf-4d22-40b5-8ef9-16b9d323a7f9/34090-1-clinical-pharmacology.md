@@ -21,7 +21,7 @@ The mean (SD) area under the plasma concentration-time curve (AUC) of phenylbuty
 
 Effect of Food
 
-Compared to fasted condition, AUC of phenylbutyrate decreased by 40-45% and Cmax of phenylbutyrate decreased by 55%, when PHEBURANE was administered with a high-fat, high-calorie meal (total 800 to 1000 calories with approximately 150, 250, and 500-600 calories from protein, carbohydrate, and fat, respectively).
+Compared to fasted condition, AUC of phenylbutyrate decreased by 40-45% and C maxof phenylbutyrate decreased by 55%, when PHEBURANE was administered with a high-fat, high-calorie meal (total 800 to 1000 calories with approximately 150, 250, and 500-600 calories from protein, carbohydrate, and fat, respectively).
 When PHEBURANE was administered with a normal-fat, normal-calorie, low-protein meal (total 600 to 700 calories with approximately 60, 200, and 400 calories from protein, fat, and carbohydrate, respectively), AUC of phenylbutyrate decreased by 56-63% and Cmax decreased by 43-45% compared to fasted condition.
 
 Elimination

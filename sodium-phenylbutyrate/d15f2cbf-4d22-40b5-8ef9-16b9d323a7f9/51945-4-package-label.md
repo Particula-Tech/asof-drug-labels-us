@@ -2,7 +2,7 @@
 
 NDC 71770-200-10
 
-Pheburane®
+Pheburane ®
 
 (sodium phenylbutyrate) oral pellets
 
@@ -20,7 +20,7 @@ Medunik USA
 
 NDC 71770-210-10
 
-Pheburane®
+Pheburane ®
 
 (sodium phenylbutyrate) oral pellets
 

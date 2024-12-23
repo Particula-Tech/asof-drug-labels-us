@@ -3,7 +3,7 @@
 ## 5.1 Neurotoxicity of Phenylacetate
 
 Increased exposure to phenylacetate, the major metabolite of PHEBURANE, may be associated with neurotoxicity in patients with UCDs.
-In a study of adult cancer patients receiving intravenous phenylacetate, 250-300 mg/kg/day for 14 days, repeated at 4-week intervals, signs and symptoms of neurotoxicity, which were reversible upon discontinuation, were seen at plasma concentrations ≥ 3.5 mmol/L, and included somnolence, fatigue, and light headedness [see Adverse Reactions (6)].
+In a study of adult cancer patients receiving intravenous phenylacetate, 250-300 mg/kg/day for 14 days, repeated at 4-week intervals, signs and symptoms of neurotoxicity, which were reversible upon discontinuation, were seen at plasma concentrations ≥ 3.5 mmol/L, and included somnolence, fatigue, and light headedness [seeAdverse Reactions (6)].
 PHEBURANE is not approved for intravenous use or for treatment of patients with cancer.
 
 If symptoms of vomiting, nausea, headache, somnolence or confusion are present in the absence of high ammonia levels or other intercurrent illnesses, consider reducing the dose of PHEBURANE [see Dosage and Administration (2.2)].

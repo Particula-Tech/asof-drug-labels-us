@@ -1,4 +1,4 @@
-| INSTRUCTIONS FOR USE PHEBURANE® (FE bue rayne) (sodium phenylbutyrate) oral pellets |
+| INSTRUCTIONS FOR USE PHEBURANE ®(FE bue rayne) (sodium phenylbutyrate) oral pellets |
 | --- |
 
 Read this Instructions for Use before taking PHEBURANE oral pellets and each time you get a refill.
@@ -22,7 +22,7 @@ Supplies needed for measuring and taking PHEBURANE
 
 - Bottle of PHEBURANE oral pellets.
 - Calibrated dosing spoon provided with PHEBURANE.
-- A drink such as water, fruit juices or protein-free infant formulas, or soft food, such as apple sauce or carrot puree.
+- A drink such as water, fruit juices or protein-free infant formulas, orsoft food, such as apple sauce or carrot puree.
   It is not recommended to use other foods to take your dose of PHEBURANE oral pellets.
 
 Measuring PHEBURANE
@@ -82,9 +82,9 @@ If cleaning is necessary, rinse the calibrated dosing spoon with water and dry i
 
 To replace the calibrated dosing spoon, contact Medunik USA at 1-844-884-5520.
 
-Distributed by: Medunik USA, Inc. 2 Research Way, Suite 1B, Princeton, NJ 08540
+Distributed by:Medunik USA, Inc. 2 Research Way, Suite 1B, Princeton, NJ 08540
 
-PHEBURANE® is a registered trademark of Lucane Pharma.
+PHEBURANE ®is a registered trademark of Lucane Pharma.
 
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Issued: August 2023 |
 | --- | --- |

@@ -9,7 +9,7 @@ The recommended dosage of PHEBURANE (measured as sodium phenylbutyrate) for pati
 - Patients weighing less than 20kg: 450 – 600 mg/kg/day of sodium phenylbutyrate orally.
   Divide the calculated total daily dose into three to six doses.
   Administer as three to six divided doses and take with food.
-- Patients weighing greater than or equal to 20 kg: 9.9 – 13 g/m2/day of sodium phenylbutyrate orally.
+- Patients weighing greater than or equal to 20 kg: 9.9 – 13 g/m 2/day of sodium phenylbutyrate orally.
   Divide the calculated total daily dose into three to six doses.
   Administer as three to six divided doses and take with food.
 
@@ -17,7 +17,7 @@ The maximum dosage is 20 grams per day.
 Combine PHEBURANE with dietary protein restriction and, in some cases, amino acid supplementation (e.g., essential amino acids, arginine, citrulline, and protein-free calorie supplements).
 
 Measure the dose using only the calibrated spoon provided in the packaging.
-This calibrated dosing spoon directly measures PHEBURANE oral pellets as sodium phenylbutyrate [see Dosage and Administration (2.4)].
+This calibrated dosing spoon directly measures PHEBURANE oral pellets as sodium phenylbutyrate [seeDosage and Administration (2.4)].
 
 If a dose is missed, take the missed dose as soon as possible.
 There should be at least 3 hours between two doses and doses should not be doubled to make up for the missed dose.
