@@ -2,21 +2,31 @@
 
 Serious Drug Interactions
 
-Advise patients they should not take tizanidine if they are taking fluvoxamine or ciprofloxacin because of the increased risk of serious adverse reactions including severe lowering of blood pressure and sedation.
-Instruct patients to inform their physicians or pharmacists when they start or stop taking any medication because of the risks associated with interaction between tizanidine and other medicines.
+Advise patients they should not take Tizanidine if they are taking fluvoxamine or ciprofloxacin because of the increased risk of serious adverse reactions including severe lowering of blood pressure and sedation.
+Instruct patients to inform their healthcare providers when they start or stop taking any medication because of the risks associated with interaction between Tizanidine and other medicines [see Contraindications (4) and Drug Interactions (7)].
 
-Tizanidine Dosing
+Tizanidine Dosing and Administration
 
-Tell patients to take tizanidine exactly as prescribed (consistently either with or without food) and not to switch between tablets and capsules.
-Inform patients that they should not take more tizanidine than prescribed because of the risk of adverse events at single doses greater than 8 mg or total daily doses greater than 36 mg.
-Tell patients that they should not suddenly discontinue tizanidine, because rebound hypertension and tachycardia may occur.
+Tell patients to take Tizanidine exactly as prescribed (consistently either with or without food) and not to switch between tablets and capsules [see Dosage and Administration (2)].
+Inform patients that they should not take more Tizanidine than prescribed because of the risk of adverse events at single doses greater than 8 mg or total daily doses greater than 36 mg.
+Tell patients that they should not suddenly discontinue Tizanidine, because rebound hypertension and tachycardia may occur [see Warnings and Precautions (5.6)].
 
-Effects of tizanidine
+Hypotension
 
-Warn patients that they may experience hypotension and to be careful when changing from a lying or sitting to a standing position.
-Tell patients that tizanidine may cause them to become sedated or somnolent and they should be careful when performing activities that require alertness, such as driving a vehicle or operating machinery.
-Tell patients that the sedation may be additive when tizanidine is taken in conjunction with drugs (baclofen, benzodiazepines) or substances (e.g., alcohol) that act as CNS depressants.
-Remind patients that if they depend on their spasticity to sustain posture and balance in locomotion, or whenever spasticity is utilized to obtain increased function, that tizanidine decreases spasticity and caution should be used.
+Warn patients that they may experience hypotension and to be careful when changing from a lying or sitting to a standing position [see Warnings and Precautions (5.1)].
+
+Sedation
+
+Tell patients that Tizanidine may cause them to become sedated or somnolent and they should be careful when performing activities that require alertness, such as driving a vehicle or operating machinery [see Warnings and Precautions (5.3)].
+Tell patients that the sedation may be additive when Tizanidine is taken in conjunction with drugs (baclofen, benzodiazepines) or substances (e.g., alcohol) that act as CNS depressants.
+
+Remind patients that if they depend on their spasticity to sustain posture and balance in locomotion, or whenever spasticity is utilized to obtain increased function, that Tizanidine decreases spasticity and caution should be used.
+
+Hypersensitivity Reactions
+
+Inform patients of the signs and symptoms of severe allergic reactions and instruct them to discontinue Tizanidine and seek immediate medical care should these signs and symptoms occur
+
+[see Warnings and Precautions (5.5)].
 
 Manufactured by:
 
@@ -31,6 +41,6 @@ Manufactured for:
 
 East Brunswick, NJ 08816
 
-09-R-06/2024
+10-R-12/2024
 
-13015524
+13015852

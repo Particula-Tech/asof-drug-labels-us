@@ -1,27 +1,23 @@
 # 14 CLINICAL STUDIES
 
-Tizanidine's capacity to reduce increased muscle tone associated with spasticity was demonstrated in two adequate and well controlled studies in patients with multiple sclerosis or spinal cord injury (Studies 1 and 2).
+The efficacy of Tizanidine for the treatment of spasticity was demonstrated in two adequate and well-controlled studies in patients with multiple sclerosis or spinal cord injury (Studies 1 and 2).
 
 Single-Dose Study in Patients with Multiple Sclerosis with Spasticity
 
-In Study 1, patients with multiple sclerosis were randomized to receive single oral doses of drug or placebo.
-Patients and assessors were blind to treatment assignment and efforts were made to reduce the likelihood that assessors would become aware indirectly of treatment assignment (e.g., they did not provide direct care to patients and were prohibited from asking questions about side effects).
-In all, 140 patients received placebo, 8 mg or 16 mg of tizanidine.
+In Study 1, 140 patients with spasticity caused by multiple sclerosis were randomized to receive single oral doses of 8 mg or 16 mg of Tizanidine, or placebo.
+Patients and assessors were blinded to treatment assignment and efforts were made to reduce the likelihood that assessors would become aware indirectly of treatment assignment (e.g., they did not provide direct care to patients and were prohibited from asking questions about side effects).
 
-Response was assessed by physical examination; muscle tone was rated on a 5 point scale (Ashworth score), with a score of 0 used to describe normal muscle tone.
-A score of 1 indicated a slight spastic catch while a score of 2 indicated more marked muscle resistance.
-A score of 3 was used to describe considerable increase in tone, making passive movement difficult.
-A muscle immobilized by spasticity was given a score of 4.
+Response was assessed by physical examination; muscle tone was rated on a 5-point scale (Ashworth score) as follows:
+
 Spasm counts were also collected.
-
 Assessments were made at 1, 2, 3 and 6 hours after treatment.
-A statistically significant reduction of the Ashworth score for tizanidine compared to placebo was detected at 1, 2 and 3 hours after treatment.
+A statistically significant reduction of the Ashworth score for Tizanidine compared to placebo was detected at 1, 2, and 3 hours after treatment.
 Figure 2 below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.
 The greatest reduction in muscle tone was 1 to 2 hours after treatment.
-By 6 hours after treatment, muscle tone in the 8 and 16 mg tizanidine groups was indistinguishable from muscle tone in placebo treated patients.
+By 6 hours after treatment, muscle tone in the 8 mg and 16 mg Tizanidine groups was indistinguishable from muscle tone in patients who received placebo.
 Within a given patient, improvement in muscle tone was correlated with plasma concentration.
 Plasma concentrations were variable from patient to patient at a given dose.
-Although 16 mg produced a larger effect, adverse events including hypotension were more common and more severe than in the 8 mg group.
+Although 16 mg produced a larger effect, adverse reactions including hypotension were more common and more severe than in the 8 mg group.
 There were no differences in the number of spasms occurring in each group.
 
 Figure 2: Single Dose Study—Mean Change in Muscle Tone from Baseline as Measured by the Ashworth Scale ± 95% Confidence Interval (A Negative Ashworth Score Signifies an Improvement in Muscle Tone from Baseline)

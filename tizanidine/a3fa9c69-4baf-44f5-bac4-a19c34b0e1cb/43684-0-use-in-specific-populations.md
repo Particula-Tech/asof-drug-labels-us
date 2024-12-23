@@ -46,28 +46,34 @@ Oral administration of tizanidine to male and female rats resulted in adverse ef
 
 Safety and effectiveness in pediatric patients have not been established.
 
+Juvenile Animal Toxicity Data
+
+Oral administration of tizanidine (0, 1, 3, and 10 mg/kg/day) to juvenile rats from postnatal day (PND) 7 through PND 70 resulted in delayed sexual maturation in males at all doses, reduced body weight gain, delayed sexual maturation in females, and bilateral corneal crystals at the mid and high doses.
+Corneal crystals were still observed at the mid and high doses after a three-week recovery period.
+Neurobehavioral deficits were observed on a learning and memory task at the high dose.
+A no-effect dose for adverse effects on postnatal development not identified.
+
 ## 8.5 Geriatric Use
 
 Tizanidine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-Clinical studies of tizanidine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
-Cross-study comparison of pharmacokinetic data following single dose administration of 6 mg tizanidine showed that younger subjects cleared the drug four times faster than the elderly subjects.
-In elderly patients with renal insufficiency (creatinine clearance <25 mL/min), tizanidine clearance is reduced by more than 50% compared to healthy elderly subjects; this would be expected to lead to a longer duration of clinical effect.
+
+Clinical studies of Tizanidine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
+Pharmacokinetic data showed that younger subjects cleared tizanidine faster than the elderly subjects [see Clinical Pharmacology (12.3)].
+In elderly patients with renal insufficiency (creatinine clearance <25 mL/min), tizanidine clearance is reduced compared to healthy elderly subjects; this would be expected to lead to a longer duration of clinical effect.
 During titration, the individual doses should be reduced.
 If higher doses are required, individual doses rather than dosing frequency should be increased.
-Monitor elderly patients because they may have an increased risk for adverse reactions associated with tizanidine.
+Monitor elderly patients because they may have an increased risk for adverse reactions associated with Tizanidine.
 
-## 8.6 Impaired Renal Function
+## 8.6 Renal Impairment
 
-Tizanidine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-In patients with renal insufficiency (creatinine clearance < 25 mL/min), clearance was reduced by more than 50%.
-In these patients, individual doses should be reduced during titration.
-If higher doses are required, individual doses rather than dosing frequency should be increased.
-These patients should be monitored closely for the onset or increase in severity of tizanidine common adverse events (dry mouth, somnolence, asthenia and dizziness) as indicators of potential overdosage.
-[see Dosage and Administration(2.2), Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)]
+In patients with renal insufficiency (creatinine clearance < 25 mL/min), clearance of tizanidine was reduced [see Clinical Pharmacology (12.3)].
+In these patients, dosage reduction is recommended [see Dosage and Administration (2.3)].
+Because the risk of adverse reactions to Tizanidine may be greater in patients with impaired renal function, monitor these patients closely for the onset or increase in severity of common adverse reactions [see Adverse Reactions (6.1)].
 
-## 8.7 Impaired Hepatic Function
+## 8.7 Hepatic Impairment
 
+Tizanidine should be used with caution in patients with hepatic impairment.
 The influence of hepatic impairment on the pharmacokinetics of tizanidine has not been evaluated.
-Because tizanidine is extensively metabolized in the liver, hepatic impairment would be expected to have significant effects on pharmacokinetics of tizanidine.
-[see Dosing and Administration (2.3), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Because tizanidine is extensively metabolized in the liver, hepatic impairment would be expected to have significant effects on pharmacokinetics of tizanidine [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+In patients with hepatic impairment, dosage reduction is recommended [see Dosage and Administration (2.4)].
