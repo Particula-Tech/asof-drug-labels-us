@@ -1,3 +1,11 @@
+# Warnings
+
+## Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis
+
+There have been rare postmarketing reports of ursodiol-treated patients who developed enteroliths (bezoars) resulting in obstructive symptoms that required surgical intervention.
+These patients had medical conditions that predisposed them to intestinal stenosis or stasis (e.g., surgical enteroanastomoses, Crohn's disease).
+If a patient presents with obstructive gastrointestinal symptoms, hold Actigall until a clinical evaluation has been conducted.
+
 # PRECAUTIONS
 
 ## Liver Tests
@@ -28,7 +36,7 @@ Results of epidemiologic studies suggest that bile acids might be involved in th
 Ursodiol is not mutagenic in the Ames test.
 Dietary administration of lithocholic acid to chickens is reported to cause hepatic adenomatous hyperplasia.
 
-## Pregnancy Category B
+## Pregnancy
 
 Reproduction studies have been performed in rats and rabbits with ursodiol doses up to 200-fold the therapeutic dose and have revealed no evidence of impaired fertility or harm to the fetus at doses of 20- to 100-fold the human dose in rats and at 5-fold the human dose (highest dose tested) in rabbits.
 Studies employing 100- to 200-fold the human dose in rats have shown some reduction in fertility rate and litter size.

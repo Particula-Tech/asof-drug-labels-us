@@ -21,7 +21,9 @@ Age, sex, weight, degree of obesity, and serum cholesterol level are not related
 
 A nonvisualizing gallbladder by oral cholecystogram prior to the initiation of therapy is not a contraindication to ursodiol therapy (the group of patients with nonvisualizing gallbladders in the ursodiol studies had complete stone dissolution rates similar to the group of patients with visualizing gallbladders).
 However, gallbladder nonvisualization developing during ursodiol treatment predicts failure of complete stone dissolution and in such cases therapy should be discontinued.
+
 Partial stone dissolution occurring within 6 months of beginning therapy with ursodiol appears to be associated with a > 70% chance of eventual complete stone dissolution with further treatment; partial dissolution observed within 1 year of starting therapy indicates a 40% probability of complete dissolution.
+
 Stone recurrence after dissolution with ursodiol therapy was seen within 2 years in 8/27 (30%) of patients in the U.K. studies.
 Of 16 patients in the U.K. study whose stones had previously dissolved on chenodiol but later recurred, 11 had complete dissolution on ursodiol.
 Stone recurrence has been observed in up to 50% of patients within 5 years of complete stone dissolution on ursodiol therapy.
@@ -37,7 +39,7 @@ The mean weight loss for this 16-week trial was 47 lb for the placebo group, and
 
 The second trial consisted of 312 obese patients (BMI ≥ 40) who underwent rapid weight loss through gastric bypass surgery.
 The trial drug treatment period was for 6 months following this surgery.
-Results of this trial showed that gallstone formation occurred in 23% of the placebo group, while those patients on 300, 600, or 1200 mg/day of Ursodiol experienced a 9%, 1%, and 5% incidence of gallstone formation, respectively.
+Results of this trial showed that gallstone formation occurred in 23% of the placebo group, while those patients on 300, 600, or 1200 mg/day of ursodiol experienced a 9%, 1%, and 5% incidence of gallstone formation, respectively.
 The mean weight loss for this 6-month trial was 64 lb for the placebo group, and 67, 74, and 72 lb for the 300, 600, and 1200 mg/day ursodiol groups, respectively.
 
 # ALTERNATIVE THERAPIES
@@ -54,18 +56,10 @@ For patients with symptomatic gallstones, surgery offers the advantage of immedi
 About 5% of cholecystectomized patients have residual symptoms or retained common duct stones.
 The spectrum of surgical risk varies as a function of age and the presence of disease other than cholelithiasis.
 
-Mortality Rates for Cholecystectomy in the U.S.
-
-(National Halothane Study, JAMA 1966; 197:775-8)
-
-27,600 Cholecystectomies
-
-(Smoothed Rates)
-
-Deaths/1000 Operations***
-
-| Low Risk Patients* | Age (Yrs) | Cholecystectomy | Cholecystectomy Common Duct Exploration |
+| Mortality Rates for Cholecystectomy in the U.S.(National Halothane Study, JAMA 1966; 197:775-8)27,600 Cholecystectomies (Smoothed Rates) Deaths/1000 Operations*** |  |  |  |
 | --- | --- | --- | --- |
+|  | Age (Yrs) | Cholecystectomy | Cholecystectomy Common Duct Exploration |
+| Low Risk Patients* |  |  |  |
 | Women | 0-49 | .54 | 2.13 |
 |  | 50-69 | 2.80 | 10.10 |
 | Men | 0-49 | 1.04 | 4.12 |
@@ -85,3 +79,10 @@ Deaths/1000 Operations***
 Women in good health or who have only moderate systemic disease and are under 49 years of age have the lowest surgical mortality rate (0.054); men in all categories have a surgical mortality rate twice that of women.
 Common duct exploration quadruples the rates in all categories.
 The rates rise with each decade of life and increase tenfold or more in all categories with severe or extreme systemic disease.
+
+# Postmarketing Experience
+
+The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post-approval use of ursodiol.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal disorders: enteroliths (bezoars)

@@ -6,7 +6,8 @@ The following tables provide comprehensive listings of the adverse experiences r
 
 | GALLSTONE DISSOLUTION |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Ursodiol8 - 10 mg/kg/day(N=155) |  | Placebo(N=159) |  |
+|  | Ursodiol |  | Placebo |  |
+|  | 8 - 10 mg/kg/day(N=155) |  | (N=159) |  |
 |  | N | (%) | N | (%) |
 | Body as a Whole |  |  |  |  |
 | Allergy | 8 | (5.2) | 7 | (4.4) |
@@ -43,7 +44,8 @@ The following tables provide comprehensive listings of the adverse experiences r
 
 | GALLSTONE PREVENTION |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Ursodiol600 mg(N=322) |  | Placebo(N=325) |  |
+|  | Ursodiol |  | Placebo |  |
+|  | 600 mg(N=322) |  | (N=325) |  |
 |  | N | (%) | N | (%) |
 | Body as a Whole |  |  |  |  |
 | Fatigue | 25 | (7.8) | 33 | (10.2) |
