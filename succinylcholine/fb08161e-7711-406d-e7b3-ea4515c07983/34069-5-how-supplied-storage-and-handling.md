@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-QUELICIN (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
+QUELICIN™ (Succinylcholine Chloride Injection, USP) is supplied as a clear, colorless solution in the following concentrations and packages:
 
 | Unit of Sale | Concentration |
 | --- | --- |

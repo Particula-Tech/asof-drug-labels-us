@@ -10,7 +10,7 @@ SUCCINYLCHOLINE CHLORIDE INJECTION, USP
 
 WARNING: Paralyzing Agent
 
-1. QUELICIN™
+QUELICIN™
 
 WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
@@ -54,7 +54,7 @@ Hospira, Inc., Lake Forest, IL 60045 USA
 
 10 mL Single Dose Fliptop Vial-Discard Unused Portion 25 Units/NDC 0409-6970-10
 
-1. SUCCINYLCHOLINE CHLORIDE INJECTION, USP
+SUCCINYLCHOLINE CHLORIDE INJECTION, USP
 
 QUELICIN® 1,000 mg/10 mL (100 mg/mL)
 
