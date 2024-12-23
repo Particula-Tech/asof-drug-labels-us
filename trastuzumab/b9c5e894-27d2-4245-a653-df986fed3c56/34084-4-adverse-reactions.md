@@ -2,11 +2,11 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
-- Cardiomyopathy [see Warnings and Precautions (5.1)]
-- Infusion Reactions [see Warnings and Precautions (5.2)]
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.3)]
-- Pulmonary Toxicity [see Warnings and Precautions (5.4)]
-- Exacerbation of Chemotherapy-Induced Neutropenia [see Warnings and Precautions (5.5)]
+- •Cardiomyopathy [see Warnings and Precautions (5.1)]
+- •Infusion Reactions [see Warnings and Precautions (5.2)]
+- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.3)]
+- •Pulmonary Toxicity [see Warnings and Precautions (5.4)]
+- •Exacerbation of Chemotherapy-Induced Neutropenia [see Warnings and Precautions (5.5)]
 
 The most common adverse reactions in patients receiving trastuzumab products in the adjuvant and metastatic breast cancer setting are fever, nausea, vomiting, infusion reactions, diarrhea, infections, increased cough, headache, fatigue, dyspnea, rash, neutropenia, anemia, and myalgia.
 Adverse reactions requiring interruption or discontinuation of trastuzumab product treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see Dosage and Administration (2.3)].
@@ -348,11 +348,11 @@ Samples for assessment of HAHA were not collected in studies of adjuvant breast 
 The following adverse reactions have been identified during post-approval use of trastuzumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Infusion reaction [see Warnings and Precautions (5.2)]
-- Oligohydramnios or oligohydramnios sequence, including pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Warnings and Precautions (5.3)]
-- Glomerulopathy [see Adverse Reactions (6.1)]
-- Immune thrombocytopenia
-- Tumor lysis syndrome (TLS): Cases of possible TLS have been reported in patients treated with trastuzumab products.
+- •Infusion reaction [see Warnings and Precautions (5.2)]
+- •Oligohydramnios or oligohydramnios sequence, including pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Warnings and Precautions (5.3)]
+- •Glomerulopathy [see Adverse Reactions (6.1)]
+- •Immune thrombocytopenia
+- •Tumor lysis syndrome (TLS): Cases of possible TLS have been reported in patients treated with trastuzumab products.
   Patients with significant tumor burden (e.g. bulky metastases) may be at a higher risk.
   Patients could present with hyperuricemia, hyperphosphatemia, and acute renal failure which may represent possible TLS.
   Providers should consider additional monitoring and/or treatment as clinically indicated.

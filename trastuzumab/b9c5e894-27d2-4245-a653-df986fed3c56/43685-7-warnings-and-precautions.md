@@ -18,10 +18,10 @@ Cardiac Monitoring
 Conduct thorough cardiac assessment, including history, physical examination, and determination of LVEF by echocardiogram or MUGA scan.
 The following schedule is recommended:
 
-- Baseline LVEF measurement immediately prior to initiation of TRAZIMERA
-- LVEF measurements every 3 months during and upon completion of TRAZIMERA
-- Repeat LVEF measurement at 4 week intervals if TRAZIMERA is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.3)]
-- LVEF measurements every 6 months for at least 2 years following completion of TRAZIMERA as a component of adjuvant therapy.
+- •Baseline LVEF measurement immediately prior to initiation of TRAZIMERA
+- •LVEF measurements every 3 months during and upon completion of TRAZIMERA
+- •Repeat LVEF measurement at 4 week intervals if TRAZIMERA is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.3)]
+- •LVEF measurements every 6 months for at least 2 years following completion of TRAZIMERA as a component of adjuvant therapy.
 
 In Study 1, 15% (158/1031) of patients discontinued trastuzumab due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH (anthracycline, cyclophosphamide, paclitaxel, and trastuzumab) arm.
 In Study 3 (one-year trastuzumab treatment), the number of patients who discontinued trastuzumab due to cardiac toxicity at 12.6 months median duration of follow-up was 2.6% (44/1678).
