@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Epinephrine Injection USP, 1 mg/10 mL (0.1 mg/mL) is a clear colorless solution available in a single-dose Luer-Jet Luer-Lock prefilled syringe packaged in a carton.
+Epinephrine Injection USP, 1 mg/10 mL (0.1 mg/mL) is a clear colorless solution available in a single-dose Luer-Jet™ Luer-Lock prefilled syringe packaged in a carton.
 It is supplied in the following presentation.
 
 | Unit of Sale | Concentration |
