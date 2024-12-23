@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217227"
+  ],
+  "inn": "tetracaine",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-596-01",
+    "70069-597-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tetracaine hydrochloride",
+      "name": "Tetracaine Hydrochloride"
+    }
+  ],
+  "setid": "bab63a18-3069-48a1-896e-433725f1dbaf",
+  "source": "dailymed"
+}
