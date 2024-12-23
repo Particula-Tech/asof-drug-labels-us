@@ -20,16 +20,16 @@ Store at 20째 to 25째C (68째 to 77째F); excursions permitted between 15째 to 30�
 Protect from light.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Parenteral Unit Ahmedabad 382213, INDIA
+Ltd. Ahmedabad 382213, INDIA
 
 or
 
 Amneal Pharmaceuticals Pvt.
-Ltd. Parenteral Unit
+Ltd.
 
 Ahmedabad 382110, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2023-05
+11-2024-06

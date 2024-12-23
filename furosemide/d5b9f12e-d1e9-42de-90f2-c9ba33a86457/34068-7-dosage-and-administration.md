@@ -28,6 +28,7 @@ Acute Pulmonary Edema
 
 The usual initial dose of furosemide is 40 mg injected slowly intravenously (over 1 to 2 minutes).
 If a satisfactory response does not occur within 1 hour, the dose may be increased to 80 mg injected slowly intravenously (over 1 to 2 minutes).
+
 If necessary, additional therapy (e.g., digitalis, oxygen) may be administered concomitantly.
 
 Geriatric Patients
