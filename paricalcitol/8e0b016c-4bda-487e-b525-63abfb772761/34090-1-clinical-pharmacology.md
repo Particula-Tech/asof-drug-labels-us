@@ -8,12 +8,12 @@ Vitamin D and paricalcitol have been shown to reduce PTH levels by inhibiting PT
 
 ## 12.3 Pharmacokinetics
 
-Within two hours after administering paricalcitol intravenous doses ranging from 0.04 to 0.24 mcg/kg, concentrations of paricalcitol decreased rapidly; thereafter, concentrations of paricalcitol declined log-linearly.
+Within two hours after administering paricalcitol intravenous doses ranging from 0.04 mcg/kg to 0.24 mcg/kg, concentrations of paricalcitol decreased rapidly; thereafter, concentrations of paricalcitol declined log-linearly.
 No accumulation of paricalcitol was observed with three times a week dosing.
 
 Distribution
 
-Paricalcitol is extensively bound to plasma proteins (≥99.8%).
+Paricalcitol is extensively bound to plasma proteins (≥ 99.8%).
 In healthy subjects, the steady-state volume of distribution is approximately 23.8 L. The mean volume of distribution following a 0.24 mcg/kg dose of paricalcitol in CKD Stage 5 subjects requiring hemodialysis (HD) and peritoneal dialysis (PD) is between 31 and 35 L.
 
 Elimination
@@ -34,9 +34,9 @@ Excretion
 
 Paricalcitol is excreted primarily by hepatobiliary excretion.
 Approximately 63% of the radioactivity was eliminated in the feces and 19% was recovered in the urine in healthy subjects.
-In healthy subjects, the mean elimination half-life of paricalcitol is about five to seven hours over the studied dose range of 0.04 to 0.16 mcg/kg.
+In healthy subjects, the mean elimination half-life of paricalcitol is about five to seven hours over the studied dose range of 0.04 mcg/kg to 0.16 mcg/kg.
 The pharmacokinetics of paricalcitol has been studied in CKD patients requiring hemodialysis (HD) and peritoneal dialysis (PD).
-The mean elimination half-life of paricalcitol after administration of 0.24 mcg/kg paricalcitol IV bolus dose in CKD HD and PD patients is 13.9 and 15.4 hours, respectively (Table 5).
+The mean elimination half-life of paricalcitol after administration of 0.24 mcg/kg paricalcitol intravenous (IV) bolus dose in CKD HD and PD patients is 13.9 and 15.4 hours, respectively (Table 5).
 
 Table 5: Mean ± SD Paricalcitol Pharmacokinetic Parameters in CKD Patients on Dialysis Following Single 0.24 mcg/kg Intravenous Bolus Dose
 
@@ -90,4 +90,4 @@ Ketoconazole
 
 The effect of multiple doses of ketoconazole, a strong inhibitor of CYP3A administered as 200 mg BID for 5 days, on the pharmacokinetics of paricalcitol capsule has been studied in healthy subjects.
 The Cmax of paricalcitol was minimally affected, but AUC0-∞ approximately doubled in the presence of ketoconazole.
-The mean half-life of paricalcitol was 17.0 hours in the presence of ketoconazole as compared to 9.8 hours, when paricalcitol was administered alone [see Drug Interactions (7)].
+The mean half-life of paricalcitol was 17 hours in the presence of ketoconazole as compared to 9.8 hours, when paricalcitol was administered alone [see Drug Interactions (7)].

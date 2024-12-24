@@ -15,9 +15,9 @@ Advise patients to inform their physician of all medications, including prescrip
 Advise patients to also inform their physician that they are receiving paricalcitol injection if a new medication is prescribed [see Drug Interactions (7)].
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Parenteral Unit Ahmedabad 382213, INDIA
+Ltd. Ahmedabad 382213, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2019-02
+03-2024-03

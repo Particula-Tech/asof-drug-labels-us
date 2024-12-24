@@ -15,8 +15,8 @@ Table 6: Mean Changes from Baseline to Final Evaluation in intact PTH, Alkaline 
 
 |  | Group (No. of Pts.) | Baseline Mean (Range) | Mean (SE) Change From Baseline to Final Evaluation |
 | --- | --- | --- | --- |
-| intact PTH (pg/mL) | Paricalcitol (n = 40) | 783 (291 to 2076) | -379 (43.7) |
-| placebo (n = 38) | 745 (320 to 1671) | -69.6 (44.8) |  |
+| intact PTH (pg/mL) | Paricalcitol (n = 40) | 783 (291 to 2,076) | -379 (43.7) |
+| placebo (n = 38) | 745 (320 to 1,671) | -69.6 (44.8) |  |
 | Alkaline Phosphatase (U/L) | Paricalcitol (n = 31) | 150 (40 to 600) | -41.5 (10.6) |
 | placebo (n = 34) | 169 (56 to 911) | +2.6 (10.1) |  |
 | Phosphorus (mg/dL) | Paricalcitol (n = 40) | 5.8 (3.7 to 10.2) | +0.47 (0.3) |
