@@ -1,79 +1,55 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg 100 tablet text
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 43547-335-10 Rx only
+NDC 43547-335-03 Rx only
 
-Benazepril Hydrochloride Tablets USP
-
-5 mg 100 Tablets
+BenazeprilHydrochlorideTablets, USP
 
 SolcoHealthcare U.S.
 
-# PRINCIPAL DISPLAY PANEL - 5 mg 100 tablet
+Container Label - 5 mg 30 Tablets - Existing Manufacturing Site Zhejiang Huahai Xunqiao
 
-NDC 43547-335-10 Rx only
+Container Label - 5 mg 30 Tablets - Alternate Manufacturing Site Zhejiang Huahai Technology Jiangnan
 
-BenazeprilHydrochlorideTablets USP
+Container Label - 5 mg 30 Tablets - Alternate Manufacturing Site Prinston Laboratories
 
-5 mg100 Tablets
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-SolcoHealthcare U.S.
+NDC 43547-336-03 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 10 mg 100 tablet text
-
-NDC 43547-336-10 Rx only
-
-BenazeprilHydrochlorideTablets USP
-
-10 mg100 Tablets
+BenazeprilHydrochlorideTablets, USP
 
 SolcoHealthcare U.S.
 
-# PRINCIPAL DISPLAY PANEL - 10 mg 100 tablet
+Container Label - 10 mg 30 Tablets - Existing Manufacturing Site Zhejiang Huahai Xunqiao
 
-NDC 43547-336-10 Rx only
+Container Label - 10 mg 30 Tablets - Alternate Manufacturing Site Zhejiang Huahai Technology Jiangnan
 
-BenazeprilHydrochlorideTablets USP
+Container Label - 10 mg 30 Tablets - Alternate Manufacturing Site Prinston Laboratories
 
-10 mg100 Tablets
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-SolcoHealthcare U.S.
+NDC 43547-337-03 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 20 mg 100 tablet text
-
-NDC 43547-337-10 Rx only
-
-BenazeprilHydrochlorideTablets USP
-
-20 mg100 Tablets
-
-SolcoHealthcare U.S.
-
-# PRINCIPAL DISPLAY PANEL - 20 mg 100 tablet
-
-NDC 43547-337-10 Rx only
-
-BenazeprilHydrochlorideTablets USP
-
-20 mg100 Tablets
-
-Solco Healthcare U.S
-
-# PRINCIPAL DISPLAY PANEL - 40 mg 100 tablet text
-
-NDC 43547-338-10 Rx only
-
-BenazeprilHydrochlorideTablets USP
-
-40 mg100 Tablets
-
-SolcoHealthcare U.S.
-
-# PRINCIPAL DISPLAY PANEL - 40 mg 100 tablet
-
-NDC 43547-338-10 Rx only
-
-BenazeprilHydrochlorideTablets USP
-
-40 mg100 Tablets
+BenazeprilHydrochlorideTablets, USP
 
 Solco Healthcare U.S.
+
+Container Label - 20 mg 30 Tablets - Existing Manufacturing Site Zhejiang Huahai Xunqia
+
+Container Label - 20 mg 30 Tablets - Alternate Manufacturing Site Zhejiang Huahai Technology Jiangnan
+
+Container Label - 20 mg 30 Tablets - Alternate Manufacturing Site Prinston Laboratories
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 43547-338-03 Rx only
+
+BenazeprilHydrochlorideTablets, USP
+
+Solco Healthcare U.S.
+
+Container Label - 40 mg 30 Tablets - Existing Manufacturing Site Zhejiang Huahai Xunqiao
+
+Container Label - 40 mg 30 Tablets - Alternate Manufacturing Site Zhejiang Huahai Technology Jiangnan
+
+Container Label - 40 mg 30 Tablets - Alternate Manufacturing Site Prinston Laboratories

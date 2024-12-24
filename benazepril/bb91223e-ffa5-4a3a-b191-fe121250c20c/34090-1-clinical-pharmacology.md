@@ -20,8 +20,8 @@ While the mechanism through which benazepril lowers blood pressure is believed t
 
 ## 12.2 Pharmacodynamics
 
-Single and multiple doses of 10 mg or more of benazepril hydrochloride cause inhibition of plasma ACE activity by at least 80 to 90% for at least 24 hours after dosing.
-Pressor responses to exogenous angiotensin I were inhibited by 60%-90% (up to 4 hours post-dose) at the 10 mg dose.
+Single and multiple doses of 10 mg or more of benazepril hydrochloride cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
+Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to 4 hours post-dose) at the 10 mg dose.
 
 Drug Interactions
 
@@ -32,7 +32,7 @@ Benazepril, like other ACE inhibitors, has had less than additive effects with b
 
 The pharmacokinetics of benazepril are approximately dose-proportional within the dosage range of 10 to 80 mg.
 
-Following oral administration of benazepril hydrochloride, peak plasma concentrations of benazepril, and its active metabolite benazeprilat are reached within 0.5 to 1.0 hours and 1 to 2 hour, respectively.
+Following oral administration of benazepril hydrochloride, peak plasma concentrations of benazepril, and its active metabolite benazeprilat are reached within 0.5 to 1.0 hour and 1 to 2 hours, respectively.
 While the bioavailability of benazepril is not affected by food, time to peak plasma concentrations of benazeprilat is delayed to 2 to 4 hours.
 
 The serum protein binding of benazepril is about 96.7% and that of benazeprilat about 95.3%, as measured by equilibrium dialysis; on the basis of in vitro studies, the degree of protein binding should be unaffected by age, hepatic dysfunction, or concentration (over the concentration range of 0.24 to 23.6 μmol/L).
@@ -42,7 +42,7 @@ Both benazepril and benazeprilat undergo glucuronidation.
 
 Benazepril and benazeprilat are cleared predominantly by renal excretion.
 About 37% of an orally administered dose was recovered in urine as benazeprilat (20%), benazeprilat glucuronide (8%), benazepril glucuronide (4%) and as trace amounts of benazepril.
-Nonrenal (i.e., biliary) excretion accounts for approximately 11% to 12% of benazeprilat excretion..
+Nonrenal (i.e., biliary) excretion accounts for approximately 11% to 12% of benazeprilat excretion.
 The effective half-life of benazeprilat following once daily repeat oral administration of benazepril hydrochloride is 10 to 11 hours.
 Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril hydrochloride given once daily.
 
@@ -52,8 +52,8 @@ Specific Populations
 
 Renal impairment
 
-The pharmacokinetics of/ systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
-In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady-state may be delayed [see DOSAGE AND ADMINISTRATION (2)].
+The pharmacokinetics of systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance > 30 mL/min) is similar to that in patients with normal renal function.
+In patients with creatinine clearance ≤ 30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady-state may be delayed [see Dosage And Administration (2)].
 
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.

@@ -26,4 +26,4 @@ Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection,
 
 Laboratory Abnormalities:
 
-Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Adverse Reactions S (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
+Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Warnings and Precautions S (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.

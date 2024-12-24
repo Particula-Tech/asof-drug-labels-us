@@ -2,8 +2,6 @@
 
 ## 5.1 Fetal Toxicity
 
-PREGNANCY CATEGORY D
-
 Benazepril hydrochloride tablets can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -48,7 +46,7 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 ## 5.3 Impaired Renal Function
 
 Monitor renal function periodically in patients treated with benazepril hydrochloride.
-Changes in renal function, including acute renal failure, can be caused by drugs that inhibit the renin-angiotensin sytem.
+Changes in renal function, including acute renal failure, can be caused by drugs that inhibit the renin-angiotensin system.
 Patients whose renal function may depend on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction, or volume depletion) may be at particular risk of developing acute renal failure on benazepril hydrochloride.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on benazepril hydrochloride.
 

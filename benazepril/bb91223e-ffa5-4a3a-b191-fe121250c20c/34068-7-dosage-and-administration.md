@@ -34,7 +34,7 @@ Add 75 mL of Ora-Plus®* oral suspending vehicle to an amber polyethylene tereph
 Allow the suspension to stand for a minimum of 1 hour.
 After the standing time, shake the suspension for a minimum of one additional minute.
 Add 75 mL of Ora-Sweet®* oral syrup vehicle to the bottle and shake the suspension to disperse the ingredients.
-The suspension should be refrigerated at 2°to8°C (36°to46°F) and can be stored for up to 30 days in the PET bottle with a child-resistant screw-cap closure.
+The suspension should be refrigerated at 2° to 8°C (36° to 46°F) and can be stored for up to 30 days in the PET bottle with a child-resistant screw-cap closure.
 Shake the suspension before each use.
 
 *Ora-Plus® and Ora-Sweet® are registered trademarks of Paddock Laboratories, Inc. Ora Plus® contains carrageenan, citric acid, methylparaben, microcrystalline cellulose, carboxymethylcellulose sodium, potassium sorbate, simethicone, sodium phosphate monobasic, xanthan gum, and water.

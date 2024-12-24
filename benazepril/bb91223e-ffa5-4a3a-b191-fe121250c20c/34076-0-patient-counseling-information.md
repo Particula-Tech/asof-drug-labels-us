@@ -29,8 +29,12 @@ Zhejiang Huahai Pharmaceutical Co., Ltd.
 
 Xunqiao, Linhai, Zhejiang 317024, China
 
+Zhejiang Huahai Pharmaceutical Technology Co., Ltd.
+
+Jiangnan, Linhai, Zhejiang 317000, China
+
 Prinston Laboratories
 
 3241 Woodpark Blvd, Charlotte, NC 28206
 
-Revised: 07/2021
+Revised: 06/2024
