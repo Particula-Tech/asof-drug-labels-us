@@ -1,2 +1,3 @@
-Manufactured for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited, 17 Northwood House, Dublin 9, Ireland US Patent No. 6,740,341 Orapred® is a registered trademark under exclusive license to Amdipharm Limited.
+Manufactured for: Advanz Pharma (US) Corp. Bannockburn, IL 60015 US Patent No. 6,740,341 “ORAPRED® is a registered trademark of Mercury Pharma Group Limited.
+Distributed by Advanz Pharma (US) Corp. under license.”
 For inquiries call 1-877-370-1142
