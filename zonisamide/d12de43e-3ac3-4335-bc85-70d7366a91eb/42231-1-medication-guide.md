@@ -185,9 +185,11 @@ Inactive ingredients in ZONEGRAN 25 mg capsules: microcrystalline cellulose, hyd
 
 Inactive ingredients in ZONEGRAN 100 mg capsules: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and titanium dioxide, FD&C Red No. 40 and FD&C Yellow No. 6
 
-Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland
+Manufactured for: Advanz Pharma (US) Corp. Bannockburn, IL 60015
 
-ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and licensed exclusively to Amdipharm Limited.
+ZONEGRAN® is a registered trademark of Mercury Pharma Group Limited in the United States and Puerto Rico.
+Distributed by Advanz Pharma (US) Corp. under license.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: April 2020
+
+Revised: November 2023

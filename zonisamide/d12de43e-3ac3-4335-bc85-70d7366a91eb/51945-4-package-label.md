@@ -8,7 +8,7 @@ Rx only
 
 Dispense accompanying Medication Guide to each patient.
 
-Mfd. for: Concordia Pharmaceuticals
+Mfd. for:ADVANZ PHARMA
 
 PRINCIPAL DISPLAY PANEL - 100 mg Capsules
 
@@ -20,4 +20,4 @@ Rx only
 
 Dispense accompanying Medication Guide to each patient.
 
-Mfd. for: Concordia Pharmaceuticals
+Mfd. for:ADVANZ PHARMA
