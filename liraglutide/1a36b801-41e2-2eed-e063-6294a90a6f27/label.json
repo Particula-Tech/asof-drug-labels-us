@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA215503"
+  ],
+  "inn": "liraglutide",
+  "labeler": "Hybio Pharmaceutical Co., Ltd. (Pingshan Factory)",
+  "package_ndcs": [
+    "14403-3400-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "liraglutide",
+      "name": "Liraglutide"
+    }
+  ],
+  "setid": "1a36b801-41e2-2eed-e063-6294a90a6f27",
+  "source": "dailymed"
+}
