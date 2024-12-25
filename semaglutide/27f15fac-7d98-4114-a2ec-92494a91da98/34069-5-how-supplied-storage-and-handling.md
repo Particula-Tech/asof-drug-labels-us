@@ -2,13 +2,21 @@
 
 How Supplied
 
-RYBELSUS tablets are available as follows:
+RYBELSUS (formulation R1) strengths are available as follows:
 
-| Tablet Strength | Description | Package Configuration | NDC No. |
+| Tablet Strength | Description | Package Configuration | NDC Number |
 | --- | --- | --- | --- |
 | 3 mg | White to light yellow, oval shaped debossed with “3” on one side and “novo” on the other side | Bottle of 30 tablets | 0169-4303-30 |
 | 7 mg | White to light yellow, oval shaped debossed with “7” on one side and “novo” on the other side | Bottle of 30 tablets | 0169-4307-30 |
 | 14 mg | White to light yellow, oval shaped debossed with “14” on one side and “novo” on the other side | Bottle of 30 tablets | 0169-4314-30 |
+
+RYBELSUS (formulation R2) strengths are available as follows:
+
+| Tablet Strength | Description | Package Configuration | NDC Number |
+| --- | --- | --- | --- |
+| 1.5 mg | White to light yellow, round shaped debossed with “1.5” on one side and “novo” on the other side | Bottle of 30 tablets | 0169-4815-30 |
+| 4 mg | White to light yellow, round shaped debossed with “4” on one side and “novo” on the other side | Bottle of 30 tablets | 0169-4804-30 |
+| 9 mg | White to light yellow, round shaped debossed with “9” on one side and “novo” on the other side | Bottle of 30 tablets | 0169-4809-30 |
 
 Storage and Handling
 

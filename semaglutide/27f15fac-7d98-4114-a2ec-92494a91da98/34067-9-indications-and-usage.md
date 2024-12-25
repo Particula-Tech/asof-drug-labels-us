@@ -4,6 +4,4 @@ RYBELSUS is indicated as an adjunct to diet and exercise to improve glycemic con
 
 Limitations of Use
 
-- •RYBELSUS has not been studied in patients with a history of pancreatitis.
-  Consider other antidiabetic therapies in patients with a history of pancreatitis [see Warnings and Precautions (5.2)].
-- •RYBELSUS is not indicated for use in patients with type 1 diabetes mellitus.
+RYBELSUS is not indicated for use in patients with type 1 diabetes mellitus.

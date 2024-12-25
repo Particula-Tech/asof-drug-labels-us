@@ -10,4 +10,8 @@ The molecular formula is C187H291N45O59 and the molecular weight is 4113.58 g/mo
 Structural formula:
 
 Semaglutide is a white to almost white hygroscopic powder.
-Each tablet of RYBELSUS contains 3 mg, 7 mg or 14 mg of semaglutide and the following inactive ingredients: magnesium stearate, microcrystalline cellulose, povidone and salcaprozate sodium (SNAC).
+
+Each tablet of:
+
+- •RYBELSUS (formulation R1) contains 3 mg, 7 mg or 14 mg of semaglutide and the following inactive ingredients: magnesium stearate, microcrystalline cellulose, povidone and salcaprozate sodium (SNAC).
+- •RYBELSUS (formulation R2) contains 1.5 mg, 4 mg or 9 mg of semaglutide and the following inactive ingredients: SNAC and magnesium stearate.

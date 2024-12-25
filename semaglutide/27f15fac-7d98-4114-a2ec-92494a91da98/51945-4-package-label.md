@@ -2,9 +2,7 @@
 
 NDC 0169-4303-13List 430313
 
-3mg
-
-RYBELSUS®
+1. RYBELSUS® 3mg
 
 (semaglutide) Tablets
 
@@ -29,11 +27,9 @@ Open Here
 
 # PRINCIPAL DISPLAY PANEL – 7 mg
 
-NDC 0169-4307-13 List 430313
+NDC 0169-4307-13List 430313
 
-7mg
-
-RYBELSUS®
+RYBELSUS®7mg
 
 (semaglutide) Tablets
 
@@ -58,11 +54,9 @@ Open Here
 
 # PRINCIPAL DISPLAY PANEL – 14 mg
 
-NDC 0169-4314-13 List 431413
+NDC 0169-4314-13List 431413
 
-14mg
-
-RYBELSUS®
+RYBELSUS® 14mg
 
 (semaglutide) Tablets
 
@@ -87,9 +81,8 @@ Open Here
 
 # PRINCIPAL DISPLAY PANEL – 3 mg Bottle
 
-NDC 0169-4303-30List 430330
-
-RYBELSUS® 3 mg
+1. NDC 0169-4303-30List 430330
+2. RYBELSUS® 3 mg
 
 (semaglutide) Tablets
 
@@ -107,9 +100,8 @@ DISPENSE WITH MEDICATION GUIDE
 
 # PRINCIPAL DISPLAY PANEL – 7 mg Bottle
 
-NDC 0169-4307-30List 430730
-
-RYBELSUS® 7 mg
+1. NDC 0169-4307-30List 430730
+2. RYBELSUS® 7 mg
 
 (semaglutide) Tablets
 
@@ -127,9 +119,8 @@ DISPENSE WITH MEDICATION GUIDE
 
 # PRINCIPAL DISPLAY PANEL – 14 mg Bottle
 
-NDC 0169-4314-30List 431430
-
-RYBELSUS® 14 mg
+1. NDC 0169-4314-30List 431430
+2. RYBELSUS® 14 mg
 
 (semaglutide) Tablets
 
@@ -142,5 +133,68 @@ Oral use only
 Rx only
 
 DISPENSE WITH MEDICATION GUIDE
+
+30 tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1.5 mg Bottle
+
+1. NDC 0169-4815-30List 481530
+2. RYBELSUS® 1.5 mg
+
+(semaglutide) Tablets
+
+1.5 mg
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+Note to Pharmacist: Individual strengths of Rybelsus are not substitutable on a mg-to-mg basis
+
+New Formulation
+
+(Formulation R2)
+
+30 tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 4 mg Bottle
+
+1. NDC 0169-4804-30List 480430
+2. RYBELSUS® 4 mg
+
+(semaglutide) Tablets
+
+4 mg
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+Note to Pharmacist: Individual strengths of Rybelsus are not substitutable on a mg-to-mg basis
+
+New Formulation
+
+(Formulation R2)
+
+30 tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 9 mg Bottle
+
+1. NDC 0169-4809-30List 480930
+2. RYBELSUS® 9 mg
+
+(semaglutide) Tablets
+
+9 mg
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+Note to Pharmacist: Individual strengths of Rybelsus are not substitutable on a mg-to-mg basis
+
+New Formulation
+
+(Formulation R2)
 
 30 tablets
