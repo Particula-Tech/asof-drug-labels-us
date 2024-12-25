@@ -4,8 +4,6 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Administration Information
 
-Inform patients that gabapentin is taken orally with or without food.
-
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
 Prior to initiation of treatment with gabapentin, instruct patients that a rash or other signs or symptoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately [see Warnings and Precautions (5.1)].
@@ -39,12 +37,7 @@ Instruct patients to notify their physician if they become pregnant or intend to
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
-
-This product’s labeling may have been updated.
-For the most recent prescribing information, please visit www.dailymed.nlm.nih.gov.
-
-Trademarks are the property of their respective owners.
+To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
 Manufactured by:
 
@@ -56,6 +49,8 @@ Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054 Revised: November, 2021
+Parsippany, NJ 07054 Revised: October, 2024
 
-PT 1702-11
+PT 1702-12
+
+Trademarks are the property of their respective owners.

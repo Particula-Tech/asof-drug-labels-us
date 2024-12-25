@@ -44,13 +44,14 @@ Call your healthcare provider between visits as needed, especially if you are wo
 Do not stop taking gabapentin without first talking to a healthcare provider.
 
 - Stopping gabapentin suddenly can cause serious problems.
-  Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+  Stopping a seizure medicine suddenly in a person who has epilepsy can cause seizures that will not stop (status epilepticus).
 
 - Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
 2.
-Changes in behavior and thinking -Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+Changes in behavior and thinking.
+Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, changes in school performance, restlessness, and hyperactivity.
 
 3.
 Gabapentin may cause serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
@@ -85,31 +86,43 @@ A healthcare provider should examine you to decide if you should continue taking
 
 4.
 Serious breathing problems.
-Serious breathing problems can occur when gabapentin is taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
-Watch for increased sleepiness or decreased breathing when starting gabapentin or when the dose is increased.
-Get help right away if breathing problems occur.
+Serious breathing problems can happen when gabapentin is taken with other medicines (such as opioid pain medicines) that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+Call your healthcare provider or get medical help right away if you have any of the following symptoms:
+
+| feel short of breath | feel very tired | dizziness |
+| --- | --- | --- |
+| breathing slower than normal | confusion | headache |
+
+Be sure that your caregiver or family members know which symptoms may be serious so they can call your healthcare provider or get medical help if you are unable to seek treatment on your own.
+
+Your healthcare provider may lower your dose or stop your treatment with gabapentin if you have serious breathing problems.
 
 What is gabapentin?
 
 Gabapentin is a prescription medicine used to treat:
 
-- Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
-- Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
-  Who should not take gabapentin?
+- pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
+- partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
 
-Do not take gabapentin if you are allergic to gabapentin or any of the other ingredients in gabapentin.
-See the end of this Medication Guide for a complete list of ingredients in gabapentin.
+It is not known if gabapentin is safe and effective to treat:
 
-What should I tell my healthcare provider before taking gabapentin?
+- children with pain from damaged nerves from a painful rash caused by the chicken pox virus.
+- partial seizures in children under 3 years of age.
 
-Before taking gabapentin, tell your healthcare provider if you:
+Do not take gabapentin if you:
 
-- have or have had kidney problems or are on hemodialysis
+- are allergic to gabapentin or any of the other ingredients in gabapentin.
+  See the end of this Medication Guide for a complete list of ingredients in gabapentin.
 
-- have or have had depression, mood problems, or suicidal thoughts or behavior
+Before taking gabapentin, tell your healthcare provider about all of your medical conditions including if you:
 
-- have diabetes
-- have breathing problems
+- have or have had kidney problems or are on hemodialysis.
+
+- have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have a history of drug abuse.
+
+- have diabetes.
+- have breathing problems.
 
 - are pregnant or plan to become pregnant.
   It is not known if gabapentin can harm your unborn baby.
@@ -118,15 +131,19 @@ Before taking gabapentin, tell your healthcare provider if you:
 
 - Pregnancy Registry: If you become pregnant while taking gabapentin, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-  You can enroll in this registry by calling 1-888-233-2334.
+  You can enroll in this registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
 
+Especially tell your healthcare provider if you take:
+
+• any opioid pain medicine such as morphine, hydrocodone, oxycodone, or buprenorphine.
+
+• any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
 You may have a higher chance for dizziness, sleepiness, or breathing problems if these medicines are taken with gabapentin.
 
 Taking gabapentin with certain other medicines can cause side effects or affect how well they work.
@@ -141,11 +158,11 @@ How should I take gabapentin?
   Your healthcare provider will tell you how much gabapentin to take.
 
 - Do not change your dose of gabapentin without talking to your healthcare provider.
-- Take gabapentin capsules with water.
-- Gabapentin capsules can be taken with or without food.
-  If you take an antacid containing aluminium and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin.
-
-If you take too much gabapentin, call your healthcare provider or your local Poison Control Center right away at 1-800-222-1222.
+- Gabapentin can be taken with or without food.
+- Swallow gabapentin capsules whole with water.
+- If you take an antacid containing aluminum and magnesium, such as Maalox, Mylanta, Gelusil, Gaviscon, or Di-Gel, you should wait at least 2 hours before taking your next dose of gabapentin.
+- In case of overdose, get medical help or contact a live Poison Center expert right away at 1-800-222-1222.
+  Advice is also available online at poisonhelp.org.
 
 What should I avoid while taking gabapentin?
 
@@ -157,14 +174,14 @@ What should I avoid while taking gabapentin?
 
 What are the possible side effects of gabapentin?
 
-Gabapentin may cause serious side effects including:
+Gabapentin may cause serious side effects, including:
 
 See “What is the most important information I should know about gabapentin?”
 
 - problems driving while using gabapentin.
-  See “What I should avoid while taking gabapentin?”
+  See “What should I avoid while taking gabapentin?”
 
-- sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
+- sleepiness and dizziness, which could increase your chance of having an accidental injury, including falls.
 
 - The most common side effects of gabapentin include:
 
@@ -208,18 +225,14 @@ How should I store gabapentin?
 
 Keep gabapentin and all medicines out of the reach of children.
 
-General information about the safe and effective use of gabapentin
+General information about the safe and effective use of gabapentin.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use gabapentin for a condition for which it was not prescribed.
 Do not give gabapentin to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about gabapentin.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about gabapentin that was written for healthcare professionals.
-
-For more information, call 1-877-ASC-RX01 (877-272-7901).
+You can ask your pharmacist or healthcare provider for information about gabapentin that is written for health professionals.
 
 What are the ingredients in gabapentin?
 
@@ -233,11 +246,6 @@ The 300-mg capsule shell also contains: gelatin, sodium lauryl sulfate, titanium
 The 400-mg capsule shell also contains: gelatin, sodium lauryl sulfate, red iron oxide, titanium dioxide, and yellow iron oxide.
 The imprinting ink contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propyl glycol, strong ammonia solution, and titanium dioxide.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-This product’s labeling may have been updated.
-For the most recent prescribing information, please visit www.dailymed.nlm.nih.gov.
-
 Manufactured by:
 
 Alkem Laboratories Ltd.,
@@ -250,4 +258,10 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: November, 2021
+Trademarks are the property of their respective owners.
+
+For more information, call 1-877-272-7901.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: October, 2024

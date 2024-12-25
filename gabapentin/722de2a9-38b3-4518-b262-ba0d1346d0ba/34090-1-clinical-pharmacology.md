@@ -138,7 +138,7 @@ Cimetidine
 
 In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
 Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
-This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
+This decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
 
 Oral Contraceptive
