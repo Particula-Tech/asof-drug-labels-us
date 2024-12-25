@@ -46,9 +46,7 @@ Acetaminophen and Codeine Phosphate Tablets (codeine 60 mg and acetaminophen 300
 The prescriber must determine the number of tablets per dose, and the maximum number of tablets per 24 hours, based upon the above dosage guidance.
 This information should be conveyed in the prescription.
 
-Conversion from Other Opioids to Acetaminophen and Codeine Phosphate Tablets
-
-There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Conversion from Other Opioids to Acetaminophen and Codeine Phosphate Tablets There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of acetaminophen and codeine phosphate tablets.
 It is safer to underestimate a patient’s 24-hour acetaminophen and codeine phosphate tablets dosage than to overestimate the 24-hour acetaminophen and codeine phosphate tablets dosage and manage an adverse reaction due to overdose.
 
@@ -87,5 +85,5 @@ Other signs and symptoms also may develop, including irritability, anxiety, back
 If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
 In addition, evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
-When managing patients taking opioid analgesics, particularly those who have been treated an extended period of time, and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+When managing patients taking opioid analgesics, particularly those who have been treated for an extended period of time, and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic (see WARNINGS, Withdrawal and DRUG ABUSE AND DEPENDENCE).

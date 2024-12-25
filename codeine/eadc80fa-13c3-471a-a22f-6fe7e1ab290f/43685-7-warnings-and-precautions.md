@@ -30,7 +30,6 @@ Carbon dioxide (CO2) retention from opioid-induced respiratory depression can ex
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of acetaminophen and codeine phosphate tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
 
 To reduce the risk of respiratory depression, proper dosing and titration of acetaminophen and codeine phosphate tablets are essential (see DOSAGE AND ADMINISTRATION).
-
 Overestimating the acetaminophen and codeine phosphate tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Accidental ingestion of acetaminophen and codeine phosphate tablets, especially by children, can result in respiratory depression and death due to an overdose of codeine.
@@ -50,11 +49,11 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers).
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers, OVERDOSAGE, Treatment of Overdose).
 
 ## Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of acetaminophen and codeine phosphate tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of acetaminophen and codeine phosphate tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -103,6 +102,7 @@ Furthermore, children with obstructive sleep apnea who are treated with codeine 
 Because of the risk of life-threatening respiratory depression and death:
 
 - Acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
+
 - Acetaminophen and codeine phosphate tablets are contraindicated for postoperative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
 - Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression (see WARNINGS).
@@ -268,8 +268,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store acetaminophen and codeine phosphate tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see WARNINGS and DRUG ABUSE AND DEPENDENCE).
-Inform patients that leaving acetaminophen and codeine phosphate tablets unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store acetaminophen and codeine phosphate tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving acetaminophen and codeine phosphate tablets unsecured can pose a deadly risk to others in the home (see WARNINGS and DRUG ABUSE AND DEPENDENCE).
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
@@ -358,7 +358,9 @@ Driving or Operating Heavy Machinery
 
 Inform patients that acetaminophen and codeine phosphate tablets may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery and to avoid such tasks while taking this product, until they know how they will react to the medication.
 
-Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
 
 Adrenal Insufficiency
 
@@ -378,9 +380,13 @@ Advise patients how to recognize such a reaction, and if they develop signs of a
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that use of acetaminophen and codeine phosphate tablets for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated (see PRECAUTIONS, Pregnancy).
+Neonatal Opioid Withdrawal Syndrome
 
-Embryo-Fetal Toxicity Inform female patients of reproductive potential that acetaminophen and codeine phosphate tablets can cause fetal harm and to inform the prescriber of a known or suspected pregnancy (see PRECAUTIONS, Pregnancy).
+Inform female patients of reproductive potential that use of acetaminophen and codeine phosphate tablets for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated (see PRECAUTIONS, Pregnancy).
+
+Embryo-Fetal Toxicity
+
+Inform female patients of reproductive potential that acetaminophen and codeine phosphate tablets can cause fetal harm and to inform the prescriber of a known or suspected pregnancy (see PRECAUTIONS, Pregnancy).
 
 Lactation
 
@@ -595,4 +601,4 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of acetaminophen and codeine phosphate tablets slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system depression (see WARNINGS).
 
 These drugs are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
