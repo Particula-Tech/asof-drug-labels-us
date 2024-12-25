@@ -2,7 +2,7 @@
 
 NDC 0093-0263-92
 
-Fluocinonide Cream USP
+Fluocinonide Cream, USP
 
 (Emulsified Base)
 
@@ -18,7 +18,7 @@ Rx only
 
 NDC 0093-0262-92
 
-Fluocinonide Cream USP
+Fluocinonide Cream, USP
 
 0.05%
 
@@ -32,7 +32,7 @@ Rx only
 
 NDC 0093-0264-92
 
-Fluocinonide Ointment USP
+Fluocinonide Ointment, USP
 
 0.05%
 

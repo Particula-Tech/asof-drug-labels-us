@@ -12,8 +12,7 @@ If HPA axis suppression is noted, an attempt should be made to withdraw the drug
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
 
-Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity.
-(See PRECAUTIONS, Pediatric Use).
+Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (see PRECAUTIONS - Pediatric Use).
 If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
 
 As with any topical corticosteroid product, prolonged use may produce atrophy of the skin and subcutaneous tissues.
@@ -22,17 +21,24 @@ When used on intertriginous or flexor areas, or on the face, this may occur even
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
 If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled.
 
-## Information for the Patient
+## Information For The Patient
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
-   It is for external use only.
-   Avoid contact with the eyes.
-2. Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-4. Patients should report any signs of local adverse reactions especially under occlusive dressing.
-5. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
+1.
+This medication is to be used as directed by the physician.
+It is for external use only.
+Avoid contact with the eyes.
+2.
+Patients should be advised to wash their hands after each application.
+3.
+Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
+4.
+The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
+5.
+Patients should report any signs of local adverse reactions, especially under occlusive dressing.
+6.
+Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
 
 ## Laboratory Tests
 
@@ -48,11 +54,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 Studies to determine mutagenicity with prednisolone and hydrocortisone have revealed negative results.
 
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category C
+## Pregnancy Category C
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
@@ -68,11 +70,11 @@ Nevertheless, caution should be exercised when topical corticosteroids are admin
 
 ## Pediatric Use
 
-Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing's syndrome than mature patients because of a larger skin surface area to body weight ratio.
+Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced hypothalmic-pituitary-adrenal (HPA) axis suppression and Cushing's syndrome than mature patients because of a larger skin surface area to body weight ratio.
 
-Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in pediatric patients receiving topical corticosteroids.
-Manifestations of adrenal suppression in pediatric patients include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation.
+HPA axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in children receiving topical corticosteroids.
+Manifestations of adrenal suppression in children include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
-Administration of topical corticosteroids to pediatric patients should be limited to the least amount compatible with an effective therapeutic regimen.
-Chronic corticosteroid therapy may interfere with the growth and development of pediatric patients.
+Administration of topical corticosteroids to children should be limited to the least amount compatible with an effective therapeutic regimen.
+Chronic corticosteroid therapy may interfere with the growth and development of children.
