@@ -48,6 +48,8 @@ In overdoses of oxybate and with illicit use of GHB, life-threatening respirator
 Increased apnea and reduced oxygenation may occur with LUMRYZ administration.
 A significant increase in the number of central apneas and clinically significant oxygen desaturation may occur in patients with obstructive sleep apnea treated with LUMRYZ.
 
+During polysomnographic evaluation (PSG), central sleep apnea and oxygen desaturation were observed in pediatric patients with narcolepsy treated with immediate-release sodium oxybate.
+
 In adult clinical trials of LUMRYZ in patients with narcolepsy, no subjects with apnea/hypopnea indexes greater than 15 were allowed to enroll.
 
 In an adult study assessing the respiratory-depressant effects of immediate-release sodium oxybate at doses up to 9 g per night in 21 patients with narcolepsy, no dose-related changes in oxygen saturation were demonstrated in the group as a whole.
@@ -62,6 +64,7 @@ In two controlled trials assessing polysomnographic (PSG) measures in adult pati
 None of the 40 patients had a clinically significant worsening of respiratory function, as measured by apnea/hypopnea index and pulse oximetry at doses of 4.5 g to 9 g per night.
 
 Prescribers should be aware that sleep-related breathing disorders tend to be more prevalent in obese patients, in men, in postmenopausal women not on hormone replacement therapy, and among patients with narcolepsy.
+Increased central apneas and clinically relevant desaturation events have been observed with immediate-release sodium oxybate administration in adult and pediatric patients.
 
 ## 5.5 Depression and Suicidality
 
@@ -76,6 +79,8 @@ In most cases, no change in immediate-release sodium oxybate treatment was requi
 
 In a controlled trial in adults with narcolepsy administered LUMRYZ where patients were titrated from 4.5 g to 9 g per night, the incidences of depression were 0% at 4.5 g, 1% at 6 g, 1.1% at 7.5 g, and 1.3% at 9 g. In a controlled adult trial, with patients randomized to fixed doses of 3 g, 6 g, or 9 g per night immediate-release sodium oxybate or placebo, there was a single event of depression at the 3 g per night dose.
 In another adult controlled trial, with patients titrated from an initial 4.5 g per night starting dose of immediate-release sodium oxybate, the incidences of depression were 1.7%, 1.5%, 3.2%, and 3.6% for the placebo, 4.5 g, 6 g, and 9 g per night doses, respectively.
+
+In a clinical trial in pediatric patients with narcolepsy (n=104) administered immediate-release sodium oxybate, one patient experienced suicidal ideation and two patients reported depression while taking immediate-release sodium oxybate.
 
 The emergence of depression in patients treated with LUMRYZ requires careful and immediate evaluation.
 Patients with a previous history of a depressive illness and/or suicide attempt should be monitored carefully for the emergence of depressive symptoms while taking LUMRYZ.
@@ -101,20 +106,22 @@ Anxiety occurred in 5.8% of the 874 patients receiving immediate-release sodium 
 Other psychiatric reactions reported in adult clinical trials in patients with narcolepsy administered LUMRYZ included irritability, emotional disorder, panic attack, agitation, delirium, and obsessive thoughts.
 Other neuropsychiatric reactions reported in adult clinical trials in patients with narcolepsy administered immediate-release sodium oxybate and in the postmarketing setting for immediate-release sodium oxybate include hallucinations, paranoia, psychosis, aggression, and agitation.
 
+In a clinical trial in pediatric patients with narcolepsy administered immediate-release sodium oxybate, neuropsychiatric reactions, including acute psychosis, confusion, and anxiety were reported while taking immediate-release sodium oxybate.
+
 The emergence or increase in the occurrence of behavioral or psychiatric events in patients taking LUMRYZ should be carefully monitored.
 
 ## 5.7 Parasomnias
 
 Parasomnias can occur in patients taking LUMRYZ.
 
-Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 3% of 107 patients with narcolepsy treated with LUMRYZ.
+Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 3% of 107 adult patients with narcolepsy treated with LUMRYZ.
 No patients treated with LUMRYZ discontinued due to sleepwalking.
 Sleepwalking was reported in 6% of 781 patients with narcolepsy treated with immediate-release sodium oxybate in adult controlled and long-term open-label studies, with <1% of patients discontinuing due to sleepwalking.
 In controlled trials, rates of sleepwalking were similar for patients taking placebo and patients taking immediate-release sodium oxybate.
 It is unclear if some or all of the reported sleepwalking episodes correspond to true somnambulism, which is a parasomnia occurring during non-REM sleep, or to any other specific medical disorder.
 Five instances of sleepwalking with potential injury or significant injury were reported during a clinical trial of immediate-release sodium oxybate in patients with narcolepsy.
 
-Parasomnias, including sleepwalking, have been reported in the postmarketing experience with immediate-release sodium oxybate.
+Parasomnias, including sleepwalking, have been reported in a pediatric clinical trial and in postmarketing experience with immediate-release sodium oxybate.
 Therefore, episodes of sleepwalking should be fully evaluated, and appropriate interventions considered.
 
 ## 5.8 Use in Patients Sensitive to High Sodium Intake

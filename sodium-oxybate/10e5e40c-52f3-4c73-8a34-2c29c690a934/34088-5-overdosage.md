@@ -29,7 +29,7 @@ Bradycardia and hypothermia may accompany unconsciousness, as well as muscular h
 
 General symptomatic and supportive care should be instituted immediately, and gastric decontamination may be considered if co-ingestants are suspected.
 Because emesis may occur in the presence of obtundation, appropriate posture (left lateral recumbent position) and protection of the airway by intubation may be warranted.
-Although the gag reflex may be absent in deeply comatose patients, even unconscious patients may become combative to intubation, and rapid- sequence induction (without the use of sedative) should be considered.
+Although the gag reflex may be absent in deeply comatose patients, even unconscious patients may become combative to intubation, and rapid-sequence induction (without the use of sedative) should be considered.
 Vital signs and consciousness should be closely monitored.
 The bradycardia reported with GHB overdose has been responsive to atropine intravenous administration.
 No reversal of the central depressant effects of LUMRYZ can be expected from naloxone or flumazenil administration.

@@ -3,9 +3,12 @@
 ## 16.1 How Supplied
 
 LUMRYZ is a blend of white to off-white granules for extended-release oral suspension in water.
-Each carton contains either 7 or 30 packets of LUMRYZ, a mixing cup, Prescribing Information and Medication Guide, and Instructions for Use.
+LUMRYZ is supplied in cartons and a 28-day starter pack.
 
+Cartons: each carton contains either 7 or 30 packets of LUMRYZ, a mixing cup, Prescribing Information and Medication Guide, and Instructions for Use (see Table 8).
 Dose packets contain a single dose of LUMRYZ provided in 4.5 g, 6 g, 7.5 g, or 9 g doses.
+
+Table 8: LUMRYZ Carton Configurations
 
 | Strength | Package Size | NDC Number |
 | --- | --- | --- |
@@ -17,6 +20,18 @@ Dose packets contain a single dose of LUMRYZ provided in 4.5 g, 6 g, 7.5 g, or 9
 | 30 packets | NDC 13551-003-30 |  |
 | 9 g | 7 packets | NDC 13551-004-07 |
 |  | 30 packets | NDC 13551-004-30 |
+
+28-day Starter Pack: contains four 7-count cartons, each containing a mixing cup, Prescribing Information and Medication Guide, and Instructions for Use (see Table 9).
+Dose packets contain a single dose of LUMRYZ provided in 4.5 g, 6 g, or 7.5 g doses.
+
+Table 9: LUMRYZ Starter Pack Contents
+
+| 28-day Starter Pack | Strength | Package Size | NDC Number |
+| --- | --- | --- | --- |
+| Week 1 | 4.5 g | 7 packets | NDC 13551-005-01 |
+| Week 2 | 6 g | 7 packets |  |
+| Week 3 | 6 g | 7 packets |  |
+| Week 4 | 7.5 g | 7 packets |  |
 
 ## 16.2 Storage
 

@@ -40,13 +40,19 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of LUMRYZ in pediatric patients have not been established.
+LUMRYZ has not been studied in a pediatric clinical trial.
+The safety and effectiveness of LUMRYZ in the treatment of cataplexy or excessive daytime sleepiness in pediatric patients 7 years of age and older with narcolepsy is supported by evidence from a double-blind, placebo-controlled, randomized-withdrawal study of immediate-release sodium oxybate [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
+
+In the pediatric clinical trial with immediate-release sodium oxybate administration in pediatric patients 7 years of age and older with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; depression; suicidal ideation; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
+
+The safety and effectiveness of LUMRYZ have not been established in pediatric patients younger than 7 years old.
 
 Juvenile Animal Toxicity Data
 
 In a study in which sodium oxybate (0, 100, 300, or 900 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 21 through 90), mortality was observed at the two highest doses tested.
 Deaths occurred during the first week of dosing and were associated with clinical signs (including decreased activity and respiratory rate) consistent with the pharmacological effects of the drug.
 Reduced body weight gain in males and females and delayed sexual maturation in males were observed at the highest dose tested.
+The no-effect dose for adverse effects in juvenile rats is associated with plasma exposures (AUC) less than that at the maximum recommended human dose (9 g/night).
 
 ## 8.5 Geriatric Use
 

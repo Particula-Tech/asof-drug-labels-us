@@ -12,11 +12,17 @@
     "13551-003-07",
     "13551-003-30",
     "13551-004-07",
-    "13551-004-30"
+    "13551-004-30",
+    "13551-005-01"
   ],
   "products": [
     {
       "form": "FOR SUSPENSION, EXTENDED RELEASE",
+      "generic": "sodium oxybate",
+      "name": "Lumryz"
+    },
+    {
+      "form": "KIT",
       "generic": "sodium oxybate",
       "name": "Lumryz"
     }

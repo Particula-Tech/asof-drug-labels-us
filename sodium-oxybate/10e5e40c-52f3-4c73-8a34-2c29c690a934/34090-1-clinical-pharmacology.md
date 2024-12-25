@@ -9,14 +9,17 @@ It is hypothesized that the therapeutic effects of LUMRYZ on cataplexy and exces
 
 ## 12.3 Pharmacokinetics
 
+Following oral administration of LUMRYZ, the plasma levels of GHB increased dose-proportionally for Cmax and more than dose-proportionally for area under the plasma concentration-time curve (AUCinf) (respectively, 2-fold and 2.3-fold increases as total daily dose is doubled from 4.5 g to 9 g).
+
+No clinically significant difference in oxybate pharmacokinetics was observed between a single 6 g dose of LUMRYZ and two 3 g doses of immediate-release sodium oxybate administered 4 hours apart.
+
 Absorption
 
-Following oral administration of LUMRYZ, the peak plasma concentrations (Cmax) following administration of one 6 g dose was 66 mcg/mL, and the time to peak plasma concentration (Tmax) was 1.5 hours.
-Following oral administration of LUMRYZ, the plasma levels of GHB increased dose-proportionally for Cmax and more than dose-proportionally for AUC (respectively 2.0-fold and 2.3-fold increases as total daily dose is doubled from 4.5 g to 9 g).
+Following oral administration of a single 6 g dose of LUMRYZ, the peak plasma concentration (Cmax) was 66 mcg/mL and the time to peak plasma concentration (Tmax) was 1.5 hours.
 
 Effect of Food
 
-Administration of LUMRYZ immediately after a high-fat meal resulted in a mean reduction in Cmax and AUC of GHB by 33% and 14%, respectively; average Tmax increased from 0.5 hours to 1.5 hours [see Dosage and Administration (2.2)].
+Administration of LUMRYZ immediately after a high-fat meal resulted in a mean reduction in Cmax and AUC of GHB by 33% and 14%, respectively; average Tmax increased from 0.5 hours to 1.5 hours [see Dosage and Administration (2.3)].
 
 Effect of Ethanol
 
@@ -24,7 +27,7 @@ An in vitro study showed alcohol-induced dose-dumping of sodium oxybate from ext
 
 Effect of Water Temperature
 
-An in vitro dissolution study showed that LUMRYZ mixed with hot water (90°C) resulted in a dose-dumping phenomenon for the release of sodium oxybate, whereas warm water (50°C) did not significantly affect the drug release from the extended-release suspension [see Dosage and Administration (2.2)].
+An in vitro dissolution study showed that LUMRYZ mixed with hot water (90°C) resulted in a dose-dumping phenomenon for the release of sodium oxybate, whereas warm water (50°C) did not significantly affect the drug release from the extended-release suspension [see Dosage and Administration (2.3)].
 
 Distribution
 
@@ -55,6 +58,14 @@ Geriatric Patients
 
 There is limited experience with LUMRYZ in the elderly.
 Results from a pharmacokinetic study of immediate-release sodium oxybate (n=20) in another studied population indicate that the pharmacokinetic characteristics of GHB are consistent among younger (age 48 to 64 years) and older (age 65 to 75 years) adults.
+
+Pediatric Patients
+
+The pharmacokinetics of LUMRYZ has not been directly evaluated in pediatric patients.
+
+The pharmacokinetics of immediate-release sodium oxybate were evaluated in pediatric patients 7 to 17 years of age (n=29).
+The pharmacokinetic characteristics of immediate-release sodium oxybate were shown to be similar in adults and pediatric patients.
+Body weight was found to be the major intrinsic factor affecting oxybate pharmacokinetics.
 
 Male and Female Patients
 
