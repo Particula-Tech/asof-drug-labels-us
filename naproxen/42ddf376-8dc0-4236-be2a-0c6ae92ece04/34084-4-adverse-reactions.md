@@ -70,3 +70,10 @@ Adverse Reactions in a Placebo-Controlled Trial in Pediatric Patients 12 to 17 Y
 | Hot flush (i.e., hot flash[es]) | 0 | 2 | <1 | 0 |
 | Musculoskeletal |  |  |  |  |
 | Muscle tightness | 0 | 0 | 2 | 0 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of NSAIDs, such as naproxen, which is a component of TREXIMET.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+1. Skin and Appendages: exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE) [see Warnings and Precautions (5.14)].

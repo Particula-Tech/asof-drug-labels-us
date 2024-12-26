@@ -197,6 +197,8 @@ Seek emergency help if an anaphylactic reaction occurs.
 ## 5.14 Serious Skin Reactions
 
 NSAID-containing products can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of TREXIMET at the first appearance of skin rash or any other sign of hypersensitivity.
 TREXIMET is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
