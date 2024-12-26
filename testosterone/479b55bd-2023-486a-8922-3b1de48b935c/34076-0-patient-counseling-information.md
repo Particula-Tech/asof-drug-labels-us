@@ -5,7 +5,7 @@ Advise the patients to read the FDA-approved patient labeling (Medication Guide)
 Increase in Blood Pressure and Cardiovascular Risk Advise patients that TLANDO can increase blood pressure (BP) which can result in an increase in the risk of major adverse cardiovascular events (MACE), including myocardial infarction, stroke, and cardiovascular death.
 This risk is greater in patients with established cardiovascular disease or risk factors for cardiovascular disease.
 Advise patients about the importance of monitoring BP periodically while on TLANDO.
-Advise patients to report to their healthcare provider the use of concomitant prescription or nonprescription medication, including cough and cold medications which can also increase BP [see Warnings and Precautions (5.1 and 5.3)].
+Advise patients to report to their healthcare provider the use of concomitant prescription or nonprescription medication, including cough and cold medications which can also increase BP [see Warnings and Precautions (5.1and 5.3)].
 
 Polycythemia
 

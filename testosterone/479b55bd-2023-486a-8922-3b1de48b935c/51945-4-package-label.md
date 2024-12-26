@@ -2,7 +2,7 @@
 
 NDC 54436-112-20 Rx Only
 
-TLANDOTM
+TLANDO TM
 
 (testosterone undecanoate)
 

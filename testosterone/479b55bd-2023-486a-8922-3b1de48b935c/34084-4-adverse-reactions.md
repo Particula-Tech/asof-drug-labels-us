@@ -24,7 +24,7 @@ The safety of TLANDO 225 mg twice daily, without dose titration, was evaluated i
 
 In Study 18-001, an uncontrolled ambulatory blood pressure monitoring (ABPM) study, 138 hypogonadal males were treated with TLANDO 225 mg twice daily with morning and evening meals for approximately four months.
 Patients had a median age of 54 years (range 26-75), 79% were White, 18% were Black, and 2% were Asian.
-In 138 hypogonadal male patients, 70% (n=96) were obese (BMI≥30 kg/m2), 24% (n=33) reported a history of type 2 diabetes, and 48% (n=66) reported a history of hypertension.
+In 138 hypogonadal male patients, 70% (n=96) were obese (BMI≥30 kg/m 2), 24% (n=33) reported a history of type 2 diabetes, and 48% (n=66) reported a history of hypertension.
 
 Table 1 summarizes adverse reactions (>2%) reported in patients receiving TLANDO in Study 18-001.
 
@@ -42,7 +42,7 @@ Four of the 138 patients (2.9%) in Study 18-001 reported adverse reactions that 
 In Study 16-002, 95 hypogonadal males were treated with TLANDO 225 mg twice daily with morning and evening meals for approximately 24 days.
 The dose of TLANDO was not titrated.
 Patients had a median age of 56 years (range 29-74), 81% were White, 16% were Black, 2% were mixed race, and 1% were Asian; 26% were Hispanic.
-In 95 hypogonadal male patients, 70% (n=66) were obese (BMI≥30 kg/m2), 23% (n=22) reported a history of type 2 diabetes, and 50% (n=47) reported a history of hypertension.
+In 95 hypogonadal male patients, 70% (n=66) were obese (BMI≥30 kg/m 2), 23% (n=22) reported a history of type 2 diabetes, and 50% (n=47) reported a history of hypertension.
 
 Table 2 summarized adverse reactions (>2%) reported during Study 16-002 in patients receiving TLANDO.
 
@@ -86,4 +86,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Cardiovascular Disorders: myocardial infarction, stroke
 
-Vascular Disorders: Venous thromboembolism
+Vascular Disorders:Venous thromboembolism

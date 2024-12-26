@@ -28,7 +28,7 @@ Long term clinical safety trials have not been conducted to assess the cardiovas
 To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 
-TLANDO can cause BP increases that can increase the risk of MACE [see Boxed Warning and Warnings and Precautions (5.1)].
+TLANDO can cause BP increases that can increase the risk of MACE [see Boxed Warningand Warnings and Precautions (5.1)].
 Patients should be informed of this possible risk when deciding whether to use or to continue to use TLANDO.
 
 ## 5.4 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer
@@ -106,4 +106,4 @@ Free thyroid hormone concentrations remain unchanged, however, and there is no c
 Increases in serum prolactin have been reported in patients treated with TLANDO in clinical trials.
 Evaluate serum prolactin levels prior to initiating treatment with TLANDO.
 Re-evaluate serum prolactin levels 3 to 4 months after starting treatment.
-If serum prolactin remains elevated, discontinue TLANDO [see Adverse Reactions (6.1)].
+If serum prolactin remains elevated, discontinue TLANDO [s ee Adverse Reactions (6.1)].
