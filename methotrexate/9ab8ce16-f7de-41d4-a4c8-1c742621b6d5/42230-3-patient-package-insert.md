@@ -24,13 +24,12 @@ Otrexup should not be used for the treatment of cancer.
 
 Otrexup should not be used for the treatment of children with psoriasis.
 
-What is the most important information I should know about Otrexup?
+What is the most important information I should know aboutOtrexup?
 
-Otrexup can cause serious side effects that can lead to death, including:
+Otrexupcan cause serious side effects that can lead to death, including:
 
 1.
-Organ system toxicity.
-People who use methotrexate for the treatment of cancer, psoriasis, or rheumatoid arthritis, have an increased risk of death from organ toxicity.
+Organ system toxicity.People who use methotrexate for the treatment of cancer, psoriasis, or rheumatoid arthritis, have an increased risk of death from organ toxicity.
 Types of organ toxicity can include:
 
 | o gastrointestinalo bone marrowo livero immune system | o nerveo lungo kidneyso skin |
@@ -43,9 +42,7 @@ Call your doctor right away if you have any of the following symptoms of organ t
 | --- | --- |
 
 2.
-Women who are pregnant are at increased risk for death of the baby and birth defects.
-Women who are pregnant or who plan to become pregnant must not take Otrexup.
-A pregnancy test should be performed before starting Otrexup.
+Women who are pregnant are at increased risk for death of the baby and birth defects.Women who are pregnant or who plan to become pregnant must not take Otrexup.A pregnancy test should be performed before starting Otrexup.
 
 Contraception should be used by both females and males while taking Otrexup.
 Pregnancy should be avoided if either partner is receiving Otrexup:
@@ -61,7 +58,7 @@ Do not take Otrexup if you:
   See “What is the most important information I should know about Otrexup?"
 - are breastfeeding.
 - Otrexup can pass into your breast milk and may harm your baby.
-  Do not breastfeed while taking Otrexup.
+  Do notbreastfeed while taking Otrexup.
   Talk to your doctor about the best way to feed your baby if you take Otrexup.
 - have alcohol problems (alcoholism).
 - have liver problems.
@@ -74,7 +71,7 @@ Talk to your doctor before taking this medicine if you have any of these conditi
 
 What should I tell my doctor before taking Otrexup?
 
-Before you take Otrexup, tell your doctor if you have any other medical conditions.
+Before you takeOtrexup, tell your doctor if youhave any other medical conditions.
 
 Tell your doctor about all of the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -90,17 +87,17 @@ How should I take Otrexup?
 - Read the Instructions for Use that come with Otrexup.
 - Take Otrexup exactly as your doctor tells you to take it.
 - Inject Otrexup only 1 time each week.
-  Do not take Otrexup every day.
+  Do nottake Otrexup every day.
   Taking Otrexup every day may cause death from toxicity.
 - Your doctor will show you or your caregiver how to inject Otrexup.
   You should not inject Otrexup until you have been trained on the right way to use it.
 - Check Otrexup before you inject it.
   Otrexup should be yellow in color and should not have any lumps or particles in it.
 - Otrexup should be injected in the stomach (abdomen) or thigh.
-- Do not inject Otrexup within 2 inches of the belly button (navel).
-- Do not inject Otrexup in the arms or any other areas of the body.
-- Do not inject Otrexup in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
-- If you are not sure if Otrexup was injected, or if you have hard time giving the injection, do not inject another dose.
+- Do notinject Otrexup within 2 inches of the belly button (navel).
+- Do notinject Otrexup in the arms or any other areas of the body.
+- Do notinject Otrexup in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
+- If you are not sure if Otrexup was injected, or if you have hard time giving the injection, do notinject another dose.
   Call your pharmacist or doctor right away.
 - If you inject too much Otrexup, call your doctor or go to the nearest hospital emergency room right away.
 
@@ -119,15 +116,12 @@ Otrexup may cause serious side effects, including:
 
 See “What is the most important information I should know about Otrexup?"
 
-- fertility problems.
-  Methotrexate, the active ingredient in Otrexup, may affect your ability to have a baby.
+- fertility problems.Methotrexate, the active ingredient in Otrexup, may affect your ability to have a baby.
   Males may have a decreased sperm count, and females may have changes to their menstrual cycle.
   This can happen while taking Otrexup and for a short period of time after you stop.
-- certain cancers.
-  Some people who have taken methotrexate have had a certain type of cancer called Non-Hodgkin’s lymphoma and other tumors.
+- certain cancers.Some people who have taken methotrexate have had a certain type of cancer called Non-Hodgkin’s lymphoma and other tumors.
   Your doctor may tell you to stop taking Otrexup if this happens.
-- tissue and bone problems.
-  Taking Methotrexate while having radiation therapy may increase the risk of your tissue or bone not receiving enough blood.
+- tissue and bone problems.Taking Methotrexate while having radiation therapy may increase the risk of your tissue or bone not receiving enough blood.
   This may lead to death of the tissue or bone.
 
 Common side effects of Otrexup include:
@@ -145,8 +139,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I dispose of Otrexup?
 
-- Do not throw away in the household trash.
-  Put used Otrexup in a FDA-cleared sharps disposal container right away after use.
+- Do not throw away in the household trash.Put used Otrexup in a FDA-cleared sharps disposal container right away after use.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
@@ -184,9 +177,9 @@ For more information, go to www.Otrexup.com or call 1-855-Otrexup (1-855-687-398
 
 What are the ingredients in Otrexup?
 
-Active ingredient: methotrexate
+Active ingredient:methotrexate
 
-Inactive ingredients: hydrochloric acid, sodium chloride, sodium hydroxide and water for injection, USP.
+Inactive ingredients:hydrochloric acid, sodium chloride, sodium hydroxide and water for injection, USP.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 

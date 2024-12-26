@@ -81,7 +81,7 @@ However, methotrexate injectable formulations containing the preservative benzyl
 There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administrations of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
-Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2) [see Warnings and Precautions (5.1)].
+Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m 2) [see Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 

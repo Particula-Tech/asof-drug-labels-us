@@ -7,7 +7,7 @@ Monitoring of the serum methotrexate concentration is essential in determining t
 
 In cases of massive overdosage, hydration and urinary alkalinization may be necessary to prevent the precipitation of methotrexate and/or its metabolites in the renal tubules.
 Generally speaking, neither hemodialysis nor peritoneal dialysis has been shown to improve methotrexate elimination.
-However, effective clearance of methotrexate has been reported with acute, intermittent hemodialysis using a high-flux dialyzer (Wall, SM et al: Am J Kidney Dis 28 (6): 846-854, 1996).
+However, effective clearance of methotrexate has been reported with acute, intermittent hemodialysis using a high-flux dialyzer (Wall, SM et al: Am J Kidney Dis28 (6): 846-854, 1996).
 
 Accidental intrathecal overdosage may require intensive systemic support, high-dose systemic leucovorin, alkaline diuresis and rapid CSF drainage and ventriculolumbar perfusion.
 

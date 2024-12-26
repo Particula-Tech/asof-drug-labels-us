@@ -11,7 +11,7 @@ The mechanism of action in rheumatoid arthritis is unknown; it may affect immune
 
 ## 12.2 Pharmacodynamics
 
-Two reports describe in vitro methotrexate inhibition of DNA precursor uptake by stimulated mononuclear cells, and another describes in animal polyarthritis partial correction by methotrexate of spleen cell hyporesponsiveness and suppressed IL 2 production.
+Two reports describe in vitromethotrexate inhibition of DNA precursor uptake by stimulated mononuclear cells, and another describes in animal polyarthritis partial correction by methotrexate of spleen cell hyporesponsiveness and suppressed IL 2 production.
 Other laboratories, however, have been unable to demonstrate similar effects.
 Clarification of methotrexate’s effect on immune activity and its relation to rheumatoid immunopathogenesis await further studies.
 
@@ -29,8 +29,8 @@ Absorption
 
 In adults, oral absorption appears to be dose dependent.
 Peak serum levels are reached within one to two hours.
-At doses of 30 mg/m2 or less, methotrexate is generally well absorbed with a mean bioavailability of about 60%.
-The absorption of doses greater than 80 mg/m2 is significantly less, possibly due to a saturation effect.
+At doses of 30 mg/m 2or less, methotrexate is generally well absorbed with a mean bioavailability of about 60%.
+The absorption of doses greater than 80 mg/m 2is significantly less, possibly due to a saturation effect.
 
 In relative bioavailability studies in rheumatoid arthritis patients, systemic exposure of methotrexate was found to be similar between Otrexup and intramuscular or subcutaneous administration of methotrexate injection at the same doses, however systemic exposure of methotrexate was higher with Otrexup as compared to oral administration of methotrexate at the same dose.
 Bioavailability following oral dosing showed a plateau effect at doses of 15 mg and greater.
@@ -38,15 +38,15 @@ The systemic exposure of methotrexate from Otrexup at doses of 10, 15, 20, and 2
 Methotrexate systemic absorption from Otrexup was similar when administered into the abdomen or thigh.
 
 In leukemic pediatric patients, oral absorption of methotrexate also appears to be dose dependent and has been reported to vary widely (23% to 95%).
-A twenty fold difference between highest and lowest peak levels (Cmax: 0.11 to 2.3 micromolar after a 20 mg/m2 dose) has been reported.
+A twenty fold difference between highest and lowest peak levels (Cmax: 0.11 to 2.3 micromolar after a 20 mg/m 2dose) has been reported.
 
-Significant interindividual variability has also been noted in time to peak concentration (Tmax: 0.67 to 4 hrs after a 15 mg/m2 dose) and fraction of dose absorbed.
-The absorption of doses greater than 40 mg/m2 has been reported to be significantly less than that of lower doses.
+Significant interindividual variability has also been noted in time to peak concentration (Tmax: 0.67 to 4 hrs after a 15 mg/m 2dose) and fraction of dose absorbed.
+The absorption of doses greater than 40 mg/m 2has been reported to be significantly less than that of lower doses.
 Food has been shown to delay absorption and reduce peak concentration.
 Methotrexate is generally completely absorbed from parenteral routes of injection.
 After intramuscular injection, peak serum concentrations occur in 30 to 60 minutes.
 As in leukemic pediatric patients, a wide interindividual variability in the plasma concentrations of methotrexate has been reported in pediatric patients with JIA.
-Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m2/week in pediatric patients with JIA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range, 0.06 to 0.58) at 3 hours.
+Following oral administration of methotrexate in doses of 6.4 to 11.2 mg/m 2/week in pediatric patients with JIA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range, 0.06 to 0.58) at 3 hours.
 
 Distribution
 
@@ -75,10 +75,10 @@ Methotrexate is partially metabolized by intestinal flora after oral administrat
 
 Half-Life
 
-The terminal half-life reported for methotrexate is approximately three to ten hours for patients receiving treatment for psoriasis, or rheumatoid arthritis or low dose antineoplastic therapy (less than 30 mg/m2).
+The terminal half-life reported for methotrexate is approximately three to ten hours for patients receiving treatment for psoriasis, or rheumatoid arthritis or low dose antineoplastic therapy (less than 30 mg/m 2).
 For patients receiving high doses of methotrexate, the terminal half-life is eight to 15 hours.
 
-In pediatric patients receiving methotrexate for acute lymphocytic leukemia (6.3 to 30 mg/m2), or for JIA (3.75 to 26.2 mg/m2), the terminal half-life has been reported to range from 0.7 to 5.8 hours or 0.9 to 2.3 hours, respectively.
+In pediatric patients receiving methotrexate for acute lymphocytic leukemia (6.3 to 30 mg/m 2), or for JIA (3.75 to 26.2 mg/m 2), the terminal half-life has been reported to range from 0.7 to 5.8 hours or 0.9 to 2.3 hours, respectively.
 
 Excretion
 

@@ -7,9 +7,9 @@ Prepare to Use Otrexup
 - Do not remove cap (marked 1) or safety clip (marked 2) until you are ready to inject Otrexup.
 - Wash your hands well with soap and warm water.
 - Check the expiration date on the label.
-  Do not use if expired.
+  Do notuse if expired.
 - Check the seal.
-  Do not use Otrexup if the seal is broken (See Figure B).
+  Do notuse Otrexup if the seal is broken (See Figure B).
 - In addition to Otrexup, you will need the following items: 1 alcohol swab and 1 cotton ball or gauze.
 
 Check the Liquid
@@ -22,12 +22,12 @@ Check the Liquid
 Choose an Injection Site
 
 - Otrexup should be injected into the stomach (abdomen) or thigh.
-  Do not inject Otrexup within 2 inches of the belly button (navel) (See Figure D).
-- Do not inject Otrexup in the arms or any other areas of the body.
-- Do not inject Otrexup in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
+  Do notinject Otrexup within 2 inches of the belly button (navel) (See Figure D).
+- Do notinject Otrexup in the arms or any other areas of the body.
+- Do notinject Otrexup in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
 - Wipe the area with an alcohol swab.
-- Allow the skin to dry and do not touch this area again before giving Otrexup.
-  Do not fan or blow on the clean area.
+- Allow the skin to dry and do nottouch this area again before giving Otrexup.
+  Do notfan or blow on the clean area.
 
 Give your Injection
 
@@ -36,33 +36,33 @@ Step 1: Remove Cap (marked 1)
 - Twist cap marked 1 to remove (See Figure E). This will break the seal.
 - You may notice 1 or 2 drops of medicine.
   This is normal.
-- Do not touch the needle end with your hands or fingers.
+- Do nottouch the needle end with your hands or fingers.
   This could inject the medicine into your hand.
-- Do not replace the cap after it has been removed.
+- Do notreplace the cap after it has been removed.
 - After the cap is removed Otrexup must be used or disposed of safely (See step 5).
 
-STEP 2: Remove the Safety Clip (marked 2)
+STEP 2:Remove the Safety Clip (marked 2)
 
 - Flip the Safety Clip marked 2 (See Figure F).
 
 STEP 3: Inject Otrexup
 
 - Place needle end of Otrexup flat against thigh or stomach (abdomen) at a 90° and firmly push device against the injection site until fully depressed.
-  You will hear a click, hold for 3 seconds (slowly count 1,2,3) (See Figure G).
+  You will hear a click, hold for 3 seconds(slowly count 1,2,3) (See Figure G).
 
 - After counting to 3, remove Otrexup from the injection site.
   You may notice a small amount of blood or liquid at the administration site, which is normal.
 - Press a cotton ball or gauze on the area for 10 seconds.
-  Do not rub the area.
+  Do notrub the area.
 
 Step 4: Check the Viewing Window
 
 - Check the viewing window (See Figure H).
-- The viewing window will be half blocked with a red flag to show that the full dose was delivered.
+- The viewing window will be half blocked with a redflag to show that the full dose was delivered.
   (See Figure H).
 - Dispose of Otrexup in a puncture-proof disposable container (See Step 5).
 - If the viewing window is not half blocked with a red flag, call your doctor or pharmacist, or call 1-855-Otrexup (1-855-687-3987) for help.
-- Do not use another Otrexup without talking to your doctor.
+- Do notuse another Otrexup without talking to your doctor.
 
 Step 5:
 

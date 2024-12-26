@@ -31,7 +31,7 @@ Hematologic:
 
 Otrexup can suppress hematopoiesis and cause anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, and/or thrombocytopenia.
 In patients with preexisting hematopoietic impairment, Otrexup should be used with caution, if at all.
-In controlled clinical trials conducted with another formulation of methotrexate in rheumatoid arthritis (n=128), leukopenia (WBC <3000/mm3) was seen in 2 patients, thrombocytopenia (platelets <100,000/mm3) in 6 patients, and pancytopenia in 2 patients.
+In controlled clinical trials conducted with another formulation of methotrexate in rheumatoid arthritis (n=128), leukopenia (WBC <3000/mm 3) was seen in 2 patients, thrombocytopenia (platelets <100,000/mm 3) in 6 patients, and pancytopenia in 2 patients.
 
 Otrexup should be stopped immediately if there is a significant drop in blood counts.
 Patients with profound granulocytopenia and fever should be evaluated immediately and usually require parenteral broad-spectrum antibiotic therapy.
@@ -78,13 +78,13 @@ Immunization with live virus vaccines is generally not recommended.
 There have been reports of disseminated vaccinia infections after smallpox immunizations in patients receiving methotrexate therapy.
 Hypogammaglobulinemia has been reported rarely.
 
-Potentially fatal opportunistic infections, especially Pneumocystis jiroveci pneumonia, may occur with Otrexup therapy.
-When a patient presents with pulmonary symptoms, the possibility of Pneumocystis jiroveci pneumonia should be considered.
+Potentially fatal opportunistic infections, especially Pneumocystisjirovecipneumonia, may occur with Otrexup therapy.
+When a patient presents with pulmonary symptoms, the possibility of Pneumocystisjirovecipneumonia should be considered.
 
 Neurologic:
 
 There have been reports of leukoencephalopathy following intravenous administration of methotrexate to patients who have had craniospinal irradiation.
-Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2).
+Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m 2).
 Symptomatic patients were commonly noted to have leukoencephalopathy and/or microangiopathic calcifications on diagnostic imaging studies.
 Chronic leukoencephalopathy has also been reported in patients who received repeated doses of high-dose methotrexate with leucovorin rescue even without cranial irradiation.
 

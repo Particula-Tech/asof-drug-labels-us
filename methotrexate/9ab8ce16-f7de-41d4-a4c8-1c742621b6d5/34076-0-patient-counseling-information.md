@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use)
+See FDA-approved patient labeling (Patient Informationand Instructions for Use)
 
 Risk of Organ Toxicity
 
 Inform patients of the risks of organ toxicity, including gastrointestinal, hematologic, hepatic, infections, neurologic, pulmonary, renal and skin as well as possible signs and symptoms for which they should contact their healthcare provider.
-Advise patients of the need for close follow-up, including periodic laboratory tests to monitor toxicity [see Warnings and Precautions (5.1 and 5.4)].
+Advise patients of the need for close follow-up, including periodic laboratory tests to monitor toxicity [see Warnings and Precautions (5.1and 5.4)].
 
 Importance of Proper Dosing and Administration
 

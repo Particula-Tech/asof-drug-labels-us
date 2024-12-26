@@ -11,16 +11,16 @@ Use another formulation of methotrexate for alternative dosing in patients who r
 
 Recommended starting dose of methotrexate:
 
-Adult RA: 7.5 mg once weekly.
+Adult RA:7.5 mg once weekly.
 
-pJIA: 10 mg/m2 once weekly.
+pJIA:10 mg/m 2once weekly.
 
 For patients switching from oral methotrexate to Otrexup, consider any differences in bioavailability between oral and subcutaneously administered methotrexate [see Clinical Pharmacology (12.3)].
 
 Dosages may be adjusted gradually to achieve an optimal response.
 Limited experience shows a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression, at doses greater than 20 mg/wk in adults.
-Although there is experience with doses up to 30 mg/m2/wk in children, there are too few published data to assess how doses over 20 mg/m2/wk might affect the risk of serious toxicity in children.
-Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1.0 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
+Although there is experience with doses up to 30 mg/m 2/wk in children, there are too few published data to assess how doses over 20 mg/m 2/wk might affect the risk of serious toxicity in children.
+Experience does suggest, however, that children receiving 20 to 30 mg/m 2/wk (0.65 to 1.0 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
 
 Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
 
@@ -28,8 +28,7 @@ The optimal duration of therapy is unknown.
 Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
 
-The patient should be fully informed of the risks involved and should be under constant supervision of the physician.
-Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting Otrexup therapy [see Warnings and Precautions (5.4)].
+The patient should be fully informed of the risks involved and should be under constant supervision of the physician.Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting Otrexup therapy [see Warnings and Precautions (5.4)].
 Females of childbearing potential should not be started on Otrexup until pregnancy is excluded [see Contraindications (4) and Warnings and Precautions (5.2)]
 
 All schedules should be continually tailored to the individual patient.
@@ -41,7 +40,7 @@ Maximal myelosuppression usually occurs in seven to ten days.
 
 Recommended starting dose of methotrexate:
 
-Psoriasis: single weekly oral, intramuscular, subcutaneous, or intravenous doses of 10-25 mg.
+Psoriasis:single weekly oral, intramuscular, subcutaneous, or intravenous doses of 10-25 mg.
 
 For patients switching from oral methotrexate to Otrexup, consider any differences in bioavailability between oral and subcutaneously administered methotrexate [see Clinical Pharmacology (12.3)].
 
@@ -59,7 +58,7 @@ A trainer device is available for training purposes.
 Visually inspect Otrexup for particulate matter and discoloration prior to administration.
 Do not use Otrexup if the seal is broken.
 
-Handle and dispose of Otrexup consistent with recommendations for handling and disposal of cytotoxic drugs1.
+Handle and dispose of Otrexup consistent with recommendations for handling and disposal of cytotoxic drugs 1.
 
 ## 2.5 Pregnancy testing
 

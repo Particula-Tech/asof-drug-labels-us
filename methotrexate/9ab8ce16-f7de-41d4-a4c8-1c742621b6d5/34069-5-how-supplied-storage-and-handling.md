@@ -50,4 +50,5 @@ PROTECT FROM LIGHT.
 
 Handling and Disposal
 
-Handle and dispose of Otrexup consistent with recommendations for handling and disposal of cytotoxic drugs.1
+Handle and dispose of Otrexup consistent with recommendations for handling and disposal of cytotoxic drugs.
+1
