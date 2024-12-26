@@ -2,15 +2,12 @@
 
 How Supplied
 
-AUGMENTIN ES-600® amoxicillin and clavulanate potassium for oral suspension, USP
-
-600 mg/42.9 mg per 5 mL: Strawberry cream-flavored powder for oral suspension.
+AUGMENTIN ES-600 (amoxicillin and clavulanate potassium) for oral suspension is a strawberry cream-flavored powder for oral suspension.
+Following constitution, each 5 mL of oral suspension contains 600 mg of amoxicillin as the trihydrate and 42.9 mg of clavulanic acid as the potassium salt.
+Strawberry cream-flavored powder for oral suspension.
 Following constitution, each 5 mL of oral suspension contains 600 mg of amoxicillin as the trihydrate and 42.9 mg of clavulanic acid as the potassium salt (equivalent to 51.1 mg of clavulanate potassium).
 
-| NDC 81964-003-51 | 75 mL bottle |
-| --- | --- |
-| NDC 81964-003-69 | 125 mL bottle |
-| NDC 81964-003-54 | 200 mL bottle |
+AUGMENTIN ES-600 is supplied as follows: • NDC 81964-003-51 75 mL bottle • NDC 81964-003-69 125 mL bottle • NDC 81964-003-54 200 mL bottle
 
 Storage
 

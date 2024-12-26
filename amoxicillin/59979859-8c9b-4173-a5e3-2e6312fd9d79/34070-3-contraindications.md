@@ -6,4 +6,4 @@ AUGMENTIN ES-600 is contraindicated in patients with a history of serious hypers
 
 ## 4.2 Cholestatic Jaundice/Hepatic Dysfunction
 
-AUGMENTIN ES-600 is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with treatment with Amoxicillin and Clavulanate Potassium.
+AUGMENTIN ES-600 is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with treatment with amoxicillin and clavulanate potassium.

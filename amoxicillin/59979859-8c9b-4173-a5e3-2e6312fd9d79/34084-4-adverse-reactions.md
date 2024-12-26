@@ -1,11 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-The following are discussed in more detail in other sections of the labeling [see Warnings and Precautions (5)]:
+The following clinically significant adverse reactions are described elsewhere in labeling:
 
 - Anaphylactic reactions [see Warnings and Precautions (5.1)]
 - Severe Cutaneous Adverse Reactions (SCAR) [see Warnings and Precautions (5.2)]
-- Hepatic Dysfunction [see Warnings and Precautions (5.3)]
-- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.4)]
+- Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
+- Hepatic Dysfunction [see Warnings and Precautions (5.4)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.5)]
+- Skin Rash in Patients with Mononucleosis [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -24,16 +26,15 @@ Two patients in the group treated with AUGMENTIN ES-600 and one patient in the g
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following have been identified during postmarketing use of AUGMENTIN products, including AUGMENTIN ES-600.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to AUGMENTIN.
+The following adverse reactions have been identified during postmarketing use of AUGMENTIN products, including AUGMENTIN ES-600.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal: Diarrhea, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
-Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5)].
+Gastrointestinal: Drug-induced enterocolitis syndrome (DIES), diarrhe, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
+Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.5)].
 
 Immune: Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis[see Warnings and Precautions (5.1)].
 
-Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis [see Warnings and Precautions (5.2)].
+Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis [see Warnings and Precautions (5.1, 5.2, 5.6)].
 
 Liver: A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibacterials.
 Hepatic dysfunction, including increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with AUGMENTIN or AUGMENTIN ES-600.
@@ -41,7 +42,7 @@ It has been reported more commonly in the elderly, in males, or in patients on p
 The histologic findings on liver biopsy have consisted of cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.
 The hepatic dysfunction, which may be severe, is usually reversible.
-Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.3)].
+Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.4)].
 
 Renal: Interstitial nephritis and hematuria have been reported.
 Crystalluria has also been reported [see Overdosage (10)].

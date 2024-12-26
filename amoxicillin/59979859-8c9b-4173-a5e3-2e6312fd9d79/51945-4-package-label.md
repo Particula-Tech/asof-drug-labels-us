@@ -8,7 +8,7 @@ When reconstituted, each 5 mL contains: AMOXICILLIN, 600 mg as the trihydrate, a
 
 75 mL (when reconstituted)
 
-U S ANTIBIOTICS Rx only
+USANTIBIOTICS Rx only
 
 # PRINICPLE DISPLAY PANEL: Container Label - 125 mL
 
@@ -20,11 +20,13 @@ When reconstituted, each 5 mL contains: AMOXICILLIN, 600 mg as the trihydrate, a
 
 125 mL (when reconstituted)
 
-U S ANTIBIOTICS Rx only
+USANTIBIOTICS Rx only
 
 # PRINICPLE DISPLAY PANEL: Container Label - 200 mL
 
-NDC 81964-003-54 600 mg/42.9 mg per 5 mL
+NDC 81964-003-54
+
+600 mg/42.9 mg per 5 mL
 
 AUGMENTIN ES-600® amoxicillin and clavulanate potassium for oral suspension, USP
 
@@ -32,4 +34,4 @@ When reconstituted, each 5 mL contains: AMOXICILLIN, 600 mg as the trihydrate, a
 
 200 mL (when reconstituted)
 
-U S ANTIBIOTICS Rx only
+USANTIBIOTICS Rx only
