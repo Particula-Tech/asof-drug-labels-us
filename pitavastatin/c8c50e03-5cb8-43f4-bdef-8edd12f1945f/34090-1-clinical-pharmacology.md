@@ -55,23 +55,18 @@ For both patients with severe renal impairment and healthy volunteers, the mean 
 
 The effect of mild renal impairment on pitavastatin exposure has not been studied.
 
-Patients with Hepatic Impairment
-
-The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
+Patients with Hepatic Impairment The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
 Pitavastatin Cmax and AUCinf in patients with moderate hepatic impairment (Child-Pugh B disease) was 2.7-fold and 3.8-fold higher, respectively as compared to health volunteers.
 In patients with mild hepatic impairment (Child-Pugh A disease), pitavastatin Cmax and AUCinf were 30% and 60% higher as compared to healthy volunteers.
 Mean pitavastatin half-life for moderate hepatic impairment, mild hepatic impairment, and healthy were 15, 10, and 8 hours, respectively [see Contraindications (4), Warnings and Precautions (5.3)].
 
 Drug Interaction Studies
 
-Warfarin
-
-The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin 4 mg daily.
+Warfarin The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin 4 mg daily.
 
 Table 3 presents the effect of coadministered drugs on pitavastatin systemic exposure:
 
-Table 3.
-Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
+Table 3 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 | Coadministered drug | Dosage regimen | Change in AUC* | Change in C max* |
 | --- | --- | --- | --- |
@@ -95,8 +90,7 @@ Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 Table 4 presents the effect of pitavastatin coadministration on systemic exposure of other drugs:
 
-Table 4.
-Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
+Table 4 Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
 
 | Coadministered drug | Dose regimen |  | Change in AUC* | Change in C max * |
 | --- | --- | --- | --- | --- |

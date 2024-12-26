@@ -21,5 +21,3 @@ Please address medical inquiries to (medical.information@medicure.com) Tel.: 1-8
 
 This product’s label may have been updated.
 For current full prescribing information, please visit www.medicure.com
-
-Patent: www.medicure.com/zypitamag/patents

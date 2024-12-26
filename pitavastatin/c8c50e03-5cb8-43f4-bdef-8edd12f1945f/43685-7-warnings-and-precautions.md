@@ -6,6 +6,7 @@ ZYPITAMAG may cause myopathy (muscle pain, tenderness, or weakness associated wi
 Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis in patients treated with statins, including pitavastatin.
 
 Risk Factors for Myopathy Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use of certain drugs (including other lipid-lowering therapies), and higher ZYPITAMAG dosage [see Dosage and Administration (2.2), Drug Interactions (7), and Use in Specific Populations (8.5, 8.6)].
+
 Dosages of pitavastatin greater than 4 mg once daily were associated with an increased risk for severe myopathy in premarketing clinical studies.
 The maximum recommended dose of ZYPITAMAG is 4 mg once daily.
 

@@ -21,6 +21,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Data Human Data A Medicaid cohort linkage study of 1152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use -using propensity score-based methods.
 The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus.
+
 There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for confounders.
 In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
 Study limitations include reliance on physician coding to define the presence of a malformation, lack of control for certain confounders such as body mass index, use of prescription dispensing as verification for use of a statin, and a lack of information on non-live births.

@@ -6,4 +6,4 @@ Distributed by:
 
 Medicure Princeton, NJ 08540 USA
 
-PIM-ZYP-07
+PIM-ZYP-08
