@@ -67,10 +67,10 @@ Because the published safety data on neonatal outcomes involved mostly preterm i
 Animal data
 
 Reproductive studies were conducted in mice and rats at dosages of 0.5, 1.0, 2.0, and 4.0 mg/kg/day.
-Except for retarded fetal ossification at 4 mg/kg/day (0.1 times [mice] and 0.2 times [rats] the MRHD on a mg/m 2 basis, respectively) considered secondary to the decreased average fetal weights, no increase in fetal malformations was observed as compared with control groups.
-Other studies in mice reported in the literature using higher doses (5 to 15 mg/kg/day, 0.1 to 0.4 times MRHD on a mg/m 2 basis) have described maternal toxicity and death, increased fetal resorptions, and fetal malformations.
+Except for retarded fetal ossification at 4 mg/kg/day (0.1 times [mice] and 0.2 times [rats] the MRHD on a mg/m 2basis, respectively) considered secondary to the decreased average fetal weights, no increase in fetal malformations was observed as compared with control groups.
+Other studies in mice reported in the literature using higher doses (5 to 15 mg/kg/day, 0.1 to 0.4 times MRHD on a mg/m 2basis) have described maternal toxicity and death, increased fetal resorptions, and fetal malformations.
 
-In rats and mice, maternal indomethacin administration of 4.0 mg/kg/day (0.2 times and 0.1 times the MRHD on a mg/m 2 basis) during the last 3 days of gestation was associated with an increased incidence of neuronal necrosis in the diencephalon in the live-born fetuses however no increase in neuronal necrosis was observed at 2.0 mg/kg/day as compared to the control groups (0.1 times and 0.05 times the MRHD on a mg/m 2 basis).
+In rats and mice, maternal indomethacin administration of 4.0 mg/kg/day (0.2 times and 0.1 times the MRHD on a mg/m 2basis) during the last 3 days of gestation was associated with an increased incidence of neuronal necrosis in the diencephalon in the live-born fetuses however no increase in neuronal necrosis was observed at 2.0 mg/kg/day as compared to the control groups (0.1 times and 0.05 times the MRHD on a mg/m 2basis).
 Administration of 0.5 or 4.0 mg/kg/day to offspring during the first 3 days of life did not cause an increase in neuronal necrosis at either dose level.
 
 ## 8.2 Lactation

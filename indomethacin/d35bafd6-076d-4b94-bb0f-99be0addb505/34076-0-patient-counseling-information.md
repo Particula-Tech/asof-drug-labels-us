@@ -57,6 +57,6 @@ Congers, NY 10920
 
 L71085
 
-Revised: 10/2022
+Revised: 12/2024
 
 Pharmacist Print Medication Guide at: www.chartwellpharma.com/medguides

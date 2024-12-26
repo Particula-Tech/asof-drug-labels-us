@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Indomethacin Capsules are indicated for:
+Indomethacin Capsules is indicated for:
 
 - Moderate to severe rheumatoid arthritis including acute flares of chronic disease
 - Moderate to severe ankylosing spondylitis

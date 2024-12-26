@@ -43,13 +43,13 @@ The mean half-life of indomethacin is estimated to be about 4.5 hours.
 
 Specific Populations
 
-Pediatric: The pharmacokinetics of indomethacin capsules has not been investigated in pediatric patients.
+Pediatric:The pharmacokinetics of indomethacin capsules has not been investigated in pediatric patients.
 
-Race: Pharmacokinetic differences due to race have not been identified.
+Race:Pharmacokinetic differences due to race have not been identified.
 
-Hepatic Impairment: The pharmacokinetics of indomethacin capsules has not been investigated in patients with hepatic impairment.
+Hepatic Impairment:The pharmacokinetics of indomethacin capsules has not been investigated in patients with hepatic impairment.
 
-Renal Impairment: The pharmacokinetics of indomethacin capsules has not been investigated in patients with renal impairment [see Warnings and Precautions (5.6)].
+Renal Impairment:The pharmacokinetics of indomethacin capsules has not been investigated in patients with renal impairment [see Warnings and Precautions (5.6)].
 
 Drug Interaction Studies
 
