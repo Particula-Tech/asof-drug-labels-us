@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA218850"
+  ],
+  "inn": "lisdexamfetamine",
+  "labeler": "SpecGx LLC",
+  "package_ndcs": [
+    "0406-5124-01",
+    "0406-5125-01",
+    "0406-5126-01",
+    "0406-5127-01",
+    "0406-5128-01",
+    "0406-5129-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "lisdexamfetamine dimesylate",
+      "name": "Lisdexamfetamine Dimesylate"
+    }
+  ],
+  "setid": "3a79b2ab-4131-4978-99a0-0119df57d5fe",
+  "source": "dailymed"
+}
