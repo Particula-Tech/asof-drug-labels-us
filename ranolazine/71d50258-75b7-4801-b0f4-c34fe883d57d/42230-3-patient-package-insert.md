@@ -17,12 +17,12 @@ Who should not take Ranolazine extended-release tablets?
 Do not take Ranolazine extended-release tablets if:
 
 - you take any of the following medicines:
-  - for fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
-  - for infection: clarithromycin (Biaxin®)
+  - for fungus infection: ketoconazole (Nizoral ®), itraconazole (Sporanox ®, Onmel™)
+  - for infection: clarithromycin (Biaxin ®)
   - for depression: nefazodone
-  - for HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
-  - for tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
-  - for seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin125®), carbamazepine (Tegretol®)
+  - for HIV: nelfinavir (Viracept ®), ritonavir (Norvir ®), lopinavir and ritonavir (Kaletra ®), indinavir (Crixivan ®), saquinavir (Invirase ®)
+  - for tuberculosis (TB): rifampin (Rifadin ®), rifabutin (Mycobutin ®), rifapentine (Priftin ®)
+  - for seizures: phenobarbital, phenytoin (Phenytek ®, Dilantin ®, Dilantin125 ®), carbamazepine (Tegretol ®)
   - St. John's wort (Hypericum perforatum)
 - you have scarring (cirrhosis) of your liver
 
@@ -39,7 +39,7 @@ Before you take Ranolazine extended-release tablets, tell your doctor if you:
   It is not known if Ranolazine passes into your breast milk.
   You and your doctor should decide if you will breast-feed.
 
-Tell your doctor about all the medicines you take, including all prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take,including all prescription and nonprescription medicines, vitamins, and herbal supplements.
 Ranolazine extended-release tablets may affect the way other medicines work and other medicines may affect how Ranolazine extended-release tablets works.
 
 Tell your doctor if you take medicines:
@@ -135,10 +135,10 @@ Angina comes on when too little oxygen reaches your heart muscle.
 
 What are the ingredients in Ranolazine extended-release tablets?
 
-Active ingredient: Ranolazine
+Active ingredient:Ranolazine
 
 Inactive ingredients: 500 mg tablet: microcrystalline cellulose, methacrylic acid and ethyl acrylate copolymer, sodium lauryl sulfate, polysorbate 80, hypromellose, sodium hydroxide, magnesium stearate, hydroxypropyl methyl cellulose, titanium dioxide, lactose monohydrate, polyethylene glycol, triacetin, Iron oxide red, Iron oxide yellow.
-1000 mg tablet: microcrystalline cellulose, methacrylic acid and ethyl acrylate copolymer, sodium lauryl sulfate, polysorbate 80, hypromellose, sodium hydroxide, magnesium stearate, hydroxypropyl methyl cellulose, titanium dioxide, lactose monohydrate, polyethylene glycol, triacetin, Iron oxide yellow.
+1000 mg tablet:microcrystalline cellulose, methacrylic acid and ethyl acrylate copolymer, sodium lauryl sulfate, polysorbate 80, hypromellose, sodium hydroxide, magnesium stearate, hydroxypropyl methyl cellulose, titanium dioxide, lactose monohydrate, polyethylene glycol, triacetin, Iron oxide yellow.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 

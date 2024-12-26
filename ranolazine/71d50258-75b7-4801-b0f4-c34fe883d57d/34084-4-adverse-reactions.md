@@ -18,29 +18,29 @@ In open-label, long-term treatment studies, a similar adverse reaction profile w
 
 The following additional adverse reactions occurred at an incidence of 0.5 to 4.0% in patients treated with Ranolazine extended-release tablets and were more frequent than the incidence observed in placebo-treated patients:
 
-Cardiac Disorders – bradycardia, palpitations
+Cardiac Disorders– bradycardia, palpitations
 
-Ear and Labyrinth Disorders – tinnitus, vertigo
+Ear and Labyrinth Disorders– tinnitus, vertigo
 
-Eye Disorders – blurred vision
+Eye Disorders– blurred vision
 
-Gastrointestinal Disorders – abdominal pain, dry mouth, vomiting, dyspepsia
+Gastrointestinal Disorders– abdominal pain, dry mouth, vomiting, dyspepsia
 
-General Disorders and Administrative Site Adverse Events – asthenia, peripheral edema
+General Disorders and Administrative Site Adverse Events– asthenia, peripheral edema
 
-Metabolism and Nutrition Disorders – anorexia
+Metabolism and Nutrition Disorders– anorexia
 
-Nervous System Disorders – syncope (vasovagal)
+Nervous System Disorders– syncope (vasovagal)
 
-Psychiatric Disorders – confusional state
+Psychiatric Disorders– confusional state
 
-Renal and Urinary Disorders – hematuria
+Renal and Urinary Disorders– hematuria
 
-Respiratory, Thoracic, and Mediastinal Disorders – dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders– dyspnea
 
-Skin and Subcutaneous Tissue Disorders – hyperhidrosis
+Skin and Subcutaneous Tissue Disorders– hyperhidrosis
 
-Vascular Disorders – hypotension, orthostatic hypotension
+Vascular Disorders– hypotension, orthostatic hypotension
 
 Other (<0.5%) but potentially medically important adverse reactions observed more frequently with Ranolazine extended-release tablets than placebo treatment in all controlled studies included: angioedema, renal failure, eosinophilia, chromaturia, blood urea increased, hypoesthesia, paresthesia, tremor, pulmonary fibrosis, thrombocytopenia, leukopenia, and pancytopenia.
 
@@ -58,14 +58,14 @@ More marked and progressive increases in serum creatinine, associated with incre
 The following adverse reactions have been identified during postapproval use of Ranolazine extended-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Nervous System Disorders – Abnormal coordination, myoclonus, paresthesia, tremor, and other serious neurologic adverse events have been reported to occur, sometimes concurrently, in patients taking ranolazine.
+Nervous System Disorders– Abnormal coordination, myoclonus, paresthesia, tremor, and other serious neurologic adverse events have been reported to occur, sometimes concurrently, in patients taking ranolazine.
 The onset of events was often associated with an increase in ranolazine dose or exposure.
 Many patients reported symptom resolution following drug discontinuation or dose decrease.
 
-Metabolism and Nutrition Disorders – Cases of hypoglycemia have been reported in diabetic patients on antidiabetic medication.
+Metabolism and Nutrition Disorders– Cases of hypoglycemia have been reported in diabetic patients on antidiabetic medication.
 
-Psychiatric Disorders – hallucination
+Psychiatric Disorders– hallucination
 
-Renal and Urinary Disorders – dysuria, urinary retention
+Renal and Urinary Disorders– dysuria, urinary retention
 
-Skin and Subcutaneous Tissue Disorders – angioedema, pruritus, rash
+Skin and Subcutaneous Tissue Disorders– angioedema, pruritus, rash
