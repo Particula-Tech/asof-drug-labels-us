@@ -29,7 +29,7 @@ It is recommended that INR levels be monitored in patients on warfarin therapy a
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Mutagenicity tests performed in Salmonella typhimurium, Saccharomyces cerevisiae, and Schizosaccharomyces pombe indicate that levocarnitine is not mutagenic.
+Mutagenicity tests performed in Salmonella typhimurium, Saccharomyces cerevisiae,and Schizosaccharomyces pombeindicate that levocarnitine is not mutagenic.
 No long-term animal studies have been performed to evaluate the carcinogenic potential of levocarnitine.
 
 ## Pregnancy

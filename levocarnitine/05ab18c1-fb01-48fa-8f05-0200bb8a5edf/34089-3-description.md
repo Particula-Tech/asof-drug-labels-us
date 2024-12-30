@@ -9,7 +9,7 @@ The specific rotation of levocarnitine is between -29° and -32°.
 
 Its chemical structure is:
 
-Molecular formula: C7H15NO3
+Molecular formula: C 7H 15NO 3
 
 Molecular weight: 161.20
 

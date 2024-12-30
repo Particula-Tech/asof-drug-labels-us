@@ -7,11 +7,13 @@ In skeletal and cardiac muscle, fatty acids are the main substrate for energy pr
 
 Primary systemic carnitine deficiency is characterized by low concentrations of levocarnitine in plasma, RBC, and/or tissues.
 It has not been possible to determine which symptoms are due to carnitine deficiency and which are due to an underlying organic acidemia, as symptoms of both abnormalities may be expected to improve with levocarnitine.
-The literature reports that carnitine can promote the excretion of excess organic or fatty acids in patients with defects in fatty acid metabolism and/or specific organic acidopathies that bioaccumulate acyl-CoA esters.1-6
+The literature reports that carnitine can promote the excretion of excess organic or fatty acids in patients with defects in fatty acid metabolism and/or specific organic acidopathies that bioaccumulate acyl-CoA esters.
+1-6
 
 Secondary carnitine deficiency can be a consequence of inborn errors of metabolism.
 Levocarnitine may alleviate the metabolic abnormalities of patients with inborn errors that result in accumulation of toxic organic acids.
-Conditions for which this effect has been demonstrated are: glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acyl-CoA dehydrogenase deficiency.7,8 Autointoxication occurs in these patients due to the accumulation of acyl-CoA compounds that disrupt intermediary metabolism.
+Conditions for which this effect has been demonstrated are: glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acyl-CoA dehydrogenase deficiency.
+7,8Autointoxication occurs in these patients due to the accumulation of acyl-CoA compounds that disrupt intermediary metabolism.
 The subsequent hydrolysis of the acyl-CoA compound to its free acid results in acidosis which can be life-threatening.
 Levocarnitine clears the acyl-CoA compound by formation of acylcarnitine, which is quickly excreted.
 Carnitine deficiency is defined biochemically as abnormally low plasma concentrations of free carnitine, less than 20 µmol/L at one-week post term and may be associated with low tissue and/or urine concentrations.
