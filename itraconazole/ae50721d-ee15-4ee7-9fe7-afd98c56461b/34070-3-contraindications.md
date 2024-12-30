@@ -17,6 +17,6 @@ Some specific examples are listed in PRECAUTIONS: Drug Interactions.
 
 Coadministration with venetoclax is contraindicated in patients with CLL/SLL during the dose initiation and ramp-up phase of venetoclax due to the potential for an increased risk of tumor lysis syndrome.
 
-SPORANOX ® is contraindicated for patients who have shown hypersensitivity to itraconazole.
+SPORANOX ®is contraindicated for patients who have shown hypersensitivity to itraconazole.
 There is limited information regarding cross-hypersensitivity between itraconazole and other azole antifungal agents.
-Caution should be used when prescribing SPORANOX ® to patients with hypersensitivity to other azoles.
+Caution should be used when prescribing SPORANOX ®to patients with hypersensitivity to other azoles.

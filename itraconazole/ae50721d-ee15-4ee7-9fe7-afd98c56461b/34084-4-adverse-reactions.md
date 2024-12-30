@@ -2,11 +2,11 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-SPORANOX ® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
+SPORANOX ®has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-The risks and benefits of SPORANOX ® use should be reassessed.
-(See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
+The risks and benefits of SPORANOX ®use should be reassessed.
+(See WARNINGS: Hepatic Effectsand PRECAUTIONS: Hepatotoxicityand Information for Patients.)
 
 ## Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials
 
@@ -53,47 +53,47 @@ Edema, hypokalemia and menstrual disorders have been reported in clinical trials
 
 ## Adverse Events Reported from Other Clinical Trials
 
-A comparative clinical trial in patients who received intravenous itraconazole followed by SPORANOX ®Oral Solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/SPORANOX ®Oral Solution treatment arm which are not listed above in the subsection "Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials" or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
+A comparative clinical trial in patients who received intravenous itraconazole followed by SPORANOX ® Oral Solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/SPORANOX ® Oral Solution treatment arm which are not listed above in the subsection "Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials" or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
 
-In addition, the following adverse drug reactions were reported in patients who participated in SPORANOX ®Oral Solution clinical trials:
+In addition, the following adverse drug reactions were reported in patients who participated in SPORANOX ® Oral Solution clinical trials:
 
-Cardiac Disorders:cardiac failure;
+Cardiac Disorders: cardiac failure;
 
-General Disorders and Administration Site Conditions:edema;
+General Disorders and Administration Site Conditions: edema;
 
-Hepatobiliary Disorders:hepatic failure, hyperbilirubinemia;
+Hepatobiliary Disorders: hepatic failure, hyperbilirubinemia;
 
-Metabolism and Nutrition Disorders:hypokalemia;
+Metabolism and Nutrition Disorders: hypokalemia;
 
-Reproductive System and Breast Disorders:menstrual disorder
+Reproductive System and Breast Disorders: menstrual disorder
 
-The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ®Capsules and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
+The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ® Capsules and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
 
-Cardiac Disorders:left ventricular failure;
+Cardiac Disorders: left ventricular failure;
 
-Gastrointestinal Disorders:gastrointestinal disorder;
+Gastrointestinal Disorders: gastrointestinal disorder;
 
-General Disorders and Administration Site Conditions:face edema;
+General Disorders and Administration Site Conditions: face edema;
 
-Hepatobiliary Disorders:jaundice, hepatic function abnormal;
+Hepatobiliary Disorders: jaundice, hepatic function abnormal;
 
-Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, gamma-glutamyltransferase increased, urine analysis abnormal;
+Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, gamma-glutamyltransferase increased, urine analysis abnormal;
 
-Metabolism and Nutrition Disorders:hyperglycemia, hyperkalemia;
+Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia;
 
-Nervous System Disorders:somnolence;
+Nervous System Disorders: somnolence;
 
-Psychiatric Disorders:confusional state;
+Psychiatric Disorders: confusional state;
 
-Renal and Urinary Disorders:renal impairment;
+Renal and Urinary Disorders: renal impairment;
 
-Respiratory, Thoracic and Mediastinal Disorders:dysphonia;
+Respiratory, Thoracic and Mediastinal Disorders: dysphonia;
 
-Skin and Subcutaneous Tissue Disorders:rash erythematous;
+Skin and Subcutaneous Tissue Disorders: rash erythematous;
 
-Vascular Disorders:hypertension
+Vascular Disorders: hypertension
 
-In addition, the following adverse drug reaction was reported in children only who participated in SPORANOX ®Oral Solution clinical trials: mucosal inflammation.
+In addition, the following adverse drug reaction was reported in children only who participated in SPORANOX ® Oral Solution clinical trials: mucosal inflammation.
 
 ## Postmarketing Experience
 
@@ -110,7 +110,7 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
-| Cardiac Disorders: | Congestive heart failure |
+| Cardiac Disorders: | Congestive heart failure, bradycardia |
 | Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema |
 | Gastrointestinal Disorders: | Pancreatitis |
 | Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
@@ -121,7 +121,7 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | General Disorders and Administration Site Conditions: | Peripheral edema |
 | Investigations: | Blood creatine phosphokinase increased |
 
-There is limited information on the use of SPORANOX ®during pregnancy.
+There is limited information on the use of SPORANOX ® during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during postmarketing experience.
-A causal relationship with SPORANOX ®has not been established.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactionsfor more information.)
+A causal relationship with SPORANOX ® has not been established.
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)

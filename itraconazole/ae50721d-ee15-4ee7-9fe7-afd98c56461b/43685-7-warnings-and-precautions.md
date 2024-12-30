@@ -2,11 +2,11 @@
 
 ## Hepatic Effects
 
-SPORANOX ®has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
+SPORANOX ® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition, and some of these cases developed within the first week of treatment.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-Continued SPORANOX ®use or reinstitution of treatment with SPORANOX ®is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
-(See PRECAUTIONS: Information for Patientsand ADVERSE REACTIONS.)
+Continued SPORANOX ® use or reinstitution of treatment with SPORANOX ® is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS.)
 
 ## Cardiac Dysrhythmias
 
@@ -16,17 +16,17 @@ Concomitant administration of these drugs with SPORANOX ®is contraindicated.
 
 ## Cardiac Disease
 
-SPORANOX ®Oral Solution should not be used in patients with evidence of ventricular dysfunction unless the benefit clearly outweighs the risk.
-For patients with risk factors for congestive heart failure, physicians should carefully review the risks and benefits of SPORANOX ®therapy.
+SPORANOX ® Oral Solution should not be used in patients with evidence of ventricular dysfunction unless the benefit clearly outweighs the risk.
+For patients with risk factors for congestive heart failure, physicians should carefully review the risks and benefits of SPORANOX ® therapy.
 These risk factors include cardiac disease such as ischemic and valvular disease; significant pulmonary disease such as chronic obstructive pulmonary disease; and renal failure and other edematous disorders.
 Such patients should be informed of the signs and symptoms of CHF, should be treated with caution, and should be monitored for signs and symptoms of CHF during treatment.
-If signs or symptoms of CHF appear during administration of SPORANOX ®Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX ®Oral Solution administration.
+If signs or symptoms of CHF appear during administration of SPORANOX ® Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX ® Oral Solution administration.
 
 Itraconazole has been shown to have a negative inotropic effect.
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 
-SPORANOX ®has been associated with reports of congestive heart failure.
+SPORANOX ® has been associated with reports of congestive heart failure.
 In postmarketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
 
 Calcium channel blockers can have negative inotropic effects which may be additive to those of itraconazole.
@@ -35,7 +35,7 @@ Therefore, caution should be used when co-administering itraconazole and calcium
 Concomitant administration of SPORANOX ®and felodipine or nisoldipine is contraindicated.
 
 Cases of CHF, peripheral edema, and pulmonary edema have been reported in the postmarketing period among patients being treated for onychomycosis and/or systemic fungal infections.
-(See CONTRAINDICATIONS, CLINICAL PHARMACOLOGY: Special Populations, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Postmarketing Experiencefor more information.)
+(See CONTRAINDICATIONS, CLINICAL PHARMACOLOGY: Special Populations, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Postmarketing Experience for more information.)
 
 ## Pseudoaldosteronism
 
@@ -86,21 +86,21 @@ If a patient with cystic fibrosis does not respond to SPORANOX ®Oral Solution, 
 ## Hearing Loss
 
 Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (see BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactionsand PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated (see BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
 The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
 
 ## Information for Patients
 
-- Only SPORANOX ®Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
-- SPORANOX ®Oral Solution contains the excipient hydroxypropyl-β-cyclodextrin which produced adenocarcinomas in the large intestine and exocrine pancreatic adenocarcinomas in a rat carcinogenicity study.
+- Only SPORANOX ® Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
+- SPORANOX ® Oral Solution contains the excipient hydroxypropyl-β-cyclodextrin which produced adenocarcinomas in the large intestine and exocrine pancreatic adenocarcinomas in a rat carcinogenicity study.
   These findings were not observed in a similar mouse carcinogenicity study.
   The clinical relevance of these adenocarcinomas is unknown.
-  (See Carcinogenesis, Mutagenesis, and Impairment of Fertility.)
-- Taking SPORANOX ®Oral Solution under fasted conditions improves the systemic availability of itraconazole.
-  Instruct patients to take SPORANOX ®Oral Solution without food, if possible.
-- SPORANOX ®Oral Solution should not be used interchangeably with SPORANOX ®Capsules.
-- Instruct patients about the signs and symptoms of congestive heart failure, and if these signs or symptoms occur during SPORANOX ®administration, they should discontinue SPORANOX ®and contact their healthcare provider immediately.
-- Instruct patients to stop SPORANOX ®treatment immediately and contact their healthcare provider if any signs and symptoms suggestive of liver dysfunction develop.
+  (See PRECATUIONS: Carcinogenesis, Mutagenesis, and Impairment of Fertility.)
+- Taking SPORANOX ® Oral Solution under fasted conditions improves the systemic availability of itraconazole.
+  Instruct patients to take SPORANOX ® Oral Solution without food, if possible.
+- SPORANOX ® Oral Solution should not be used interchangeably with SPORANOX ® Capsules.
+- Instruct patients about the signs and symptoms of congestive heart failure, and if these signs or symptoms occur during SPORANOX ® administration, they should discontinue SPORANOX ®and contact their healthcare provider immediately.
+- Instruct patients to stop SPORANOX ® treatment immediately and contact their healthcare provider if any signs and symptoms suggestive of liver dysfunction develop.
   Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vomiting, jaundice, dark urine, or pale stools.
 - Instruct patients to contact their physician before taking any concomitant medications with itraconazole to ensure there are no potential drug interactions.
 - Instruct patients that hearing loss can occur with the use of itraconazole.
@@ -116,7 +116,7 @@ The hearing loss usually resolves when treatment is stopped, but can persist in 
 Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
 Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).
 Consequently, SPORANOX ®has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
-Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
+Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, torsade de pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
 The table below lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list.
 
@@ -278,7 +278,7 @@ These sarcomas may have been a consequence of hypercholesterolemia, which is a r
 Female rats treated with 50 mg/kg/day (1.2 times the MRHD based on body surface area comparisons) had an increased incidence of squamous cell carcinoma of the lung (2/50) as compared to the untreated group.
 Although the occurrence of squamous cell carcinoma in the lung is extremely uncommon in untreated rats, the increase in this study was not statistically significant.
 
-Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
+Itraconazole produced no mutagenic effects when assayed in DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium(6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
 
 Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (1 time the MRHD based on body surface area comparisons), even though parental toxicity was present at this dosage level.
 More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (4 times the MRHD based on body surface area comparisons).
@@ -336,19 +336,19 @@ At a dosage level of 80 mg/kg/day (2 times the MRHD based on body surface area c
 
 ## Geriatric Use
 
-Clinical studies of SPORANOX ®Oral Solution did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
-It is advised to use SPORANOX ®Oral Solution in these patients only if it is determined that the potential benefit outweighs the potential risks.
+Clinical studies of SPORANOX ® Oral Solution did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
+It is advised to use SPORANOX ® Oral Solution in these patients only if it is determined that the potential benefit outweighs the potential risks.
 In general, it is recommended that the dose selection for an elderly patient should be taken into consideration, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Transient or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (see BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactionsand PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated (see BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
 
 ## Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 The exposure of itraconazole may be lower in some patients with renal impairment.
 Caution should be exercised when itraconazole is administered in this patient population and dose adjustment may be needed.
-(See CLINICAL PHARMACOLOGY: Special Populationsand DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY: Special Populations and DOSAGE AND ADMINISTRATION.)
 
 ## Hepatic Impairment
 
@@ -359,4 +359,4 @@ It is recommended that the prolonged elimination half-life of itraconazole obser
 
 In patients with elevated or abnormal liver enzymes or active liver disease, or who have experienced liver toxicity with other drugs, treatment with SPORANOX ®is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
 It is recommended that liver function monitoring be done in patients with pre-existing hepatic function abnormalities or those who have experienced liver toxicity with other medications.
-(See CLINICAL PHARMACOLOGY: Special Populationsand DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY: Special Populations and DOSAGE AND ADMINISTRATION.)
