@@ -92,32 +92,32 @@ If you have used more medication than you have been instructed, contact your doc
 How to use the dihydroergotamine mesylate nasal spray
 
 1. 1.Use available training materials.
-2. •Read and follow the instructions in the administration instructions which are provided with the dihydroergotamine mesylate nasal spray package before attempting to use the product.
-3. •If there are any questions concerning the use of your dihydroergotamine mesylate nasal spray, ask your doctor or pharmacist, or call Hikma Pharmaceuticals USA Inc. at 1-800-962-8364 for training in the use of the spray.
-4. 2.Check the contents of the package:
-5. •8 Nasal Spray Vials
-6. •8 Nasal Sprayers
-7. •Administration Instructions
-8. •Package Insert
-9. 3.Assemble the sprayer:
+2. 2.Read and follow the instructions in the administration instructions which are provided with the dihydroergotamine mesylate nasal spray package before attempting to use the product.
+3. 3.If there are any questions concerning the use of your dihydroergotamine mesylate nasal spray, ask your doctor or pharmacist, or call Hikma Pharmaceuticals USA Inc. at 1-800-962-8364 for training in the use of the spray.
+4. 4.Check the contents of the package:
+5. 5.8 Nasal Spray Vials
+6. 6.8 Nasal Sprayers
+7. 7.Administration Instructions
+8. 8.Package Insert
+9. 9.Assemble the sprayer:
 10. Assemble your nasal sprayer only when you are ready to use it.
-11. •Lift tab to bend back blue cover.
+11. 10.Lift tab to bend back blue cover.
     In one piece, completely remove the blue cover and metal seal in a circular motion.
     Keeping the vial upright, remove rubber stopper.
     Set vial aside.
-12. •Remove plastic cover from the bottom of pump unit.
+12. 11.Remove plastic cover from the bottom of pump unit.
     Insert spray pump into vial and turn clockwise until securely fastened.
-13. 4.Using the sprayer:
-14. •Remove cap from spray unit.
+13. 12.Using the sprayer:
+14. 13.Remove cap from spray unit.
     Holding the vial upright, point nasal sprayer away from face and pump 4 times before using.
     DO NOT PUMP MORE THAN 4 TIMES.
     (Although some medication will spray out, there is enough medication in each vial to allow you to prepare your nasal spray pump properly and still receive a full treatment of dihydroergotamine mesylate.)
-15. •Spray once into each nostril.
+15. 14.Spray once into each nostril.
     Do not tilt head back or sniff through your nose while spraying or immediately after.
     Wait 15 minutes.
     Spray once again into each nostril.
-16. 5.After completing these instructions:
-17. •Carefully dispose of the nasal spray pump with the vial.
+16. 15.After completing these instructions:
+17. 16.Carefully dispose of the nasal spray pump with the vial.
 
 Important Notes:
 
@@ -129,7 +129,8 @@ Storing dihydroergotamine mesylate nasal spray
 - •Keep dihydroergotamine mesylate nasal spray away from heat and light.
 - •Do not expose dihydroergotamine mesylate nasal spray to temperatures over 77°F.
 - •Never refrigerate or freeze dihydroergotamine mesylate nasal spray.
-- •Do not keep an opened dihydroergotamine mesylate nasal spray vial for more than 8 hours.Check the expiration date printed on the vial containing medication.
+- •Do not keep an opened dihydroergotamine mesylate nasal spray vial for more than 8 hours.
+- Check the expiration date printed on the vial containing medication.
   If the expiration date has passed, do not use it.
 
 Answers to patients' questions about dihydroergotamine mesylate nasal spray

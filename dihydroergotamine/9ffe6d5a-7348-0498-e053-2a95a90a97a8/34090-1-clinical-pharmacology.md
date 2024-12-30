@@ -70,26 +70,26 @@ In all studies, patients received a regimen consisting of 0.5 mg in each nostril
 
 The percentage of patients achieving headache response 4 hours after treatment was significantly greater in patients receiving 2 mg doses of dihydroergotamine mesylate nasal spray compared to those receiving placebo in 3 of the 4 studies (see Tables 1 & 2 and Figures 1 & 2).
 
-| Table 1: Studies 1 and 2: Percentage of Patients with Headache Response* 2 and 4 Hours Following a Single Treatment of Study Medication [Dihydroergotamine Mesylate Nasal Spray or Placebo] |  |  |  |  |
+| Table Error! Hyperlink reference not valid.: Studies 1 and 2: Percentage of Patients with Headache Response* 2 and 4 Hours Following a Single Treatment of Study Medication [Dihydroergotamine Mesylate Nasal Spray or Placebo] |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | N | 2 hours | 4 hours |
 | Study 1 | Dihydroergotamine mesylatePlacebo | 10598 | 61% ‡ 23% | 70% ‡ 28% |
 | Study 2 | Dihydroergotamine mesylatePlacebo | 103102 | 47% 33% | 56% † 35% |
 
-1. * Headache response was defined as a reduction in headache severity to mild or no pain.
-   Headache response was based on pain intensity as interpreted by the patient using a four- point pain intensity scale.
-2. †p value < 0.01
-3. ‡p value < 0.001
+- * Headache response was defined as a reduction in headache severity to mild or no pain.
+  Headache response was based on pain intensity as interpreted by the patient using a four- point pain intensity scale.
+- †p value < 0.01
+- ‡p value < 0.001
 
-| Table 2: Studies 3 and 4: Percentage of Patients with Headache Response*2 and 4 hours Following a Single Treatment of Study Medication[Dihydroergotamine Mesylate Nasal Spray or Placebo] |  |  |  |  |
+| Table Error! Hyperlink reference not valid.: Studies 3 and 4: Percentage of Patients with Headache Response*2 and 4 hours Following a Single Treatment of Study Medication[Dihydroergotamine Mesylate Nasal Spray or Placebo] |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | N | 2 hours | 4 hours |
 | Study 3 | Dihydroergotamine mesylatePlacebo | 50 50 | 32% 20% | 48%† 22% |
 | Study 4 | Dihydroergotamine mesylatePlacebo | 47 50 | 30% 20% | 47% 30% |
 
-1. * Headache response was defined as a reduction in headache severity to mild or no pain.
-   Headache response was evaluated on a five-point scale that included both pain response and restoration of function for “severe” or “incapacitating” pain.
-2. † p value < 0.01
+- * Headache response was defined as a reduction in headache severity to mild or no pain.
+  Headache response was evaluated on a five-point scale that included both pain response and restoration of function for “severe” or “incapacitating” pain.
+- † p value < 0.01
 
 Comparisons of drug performance based upon results obtained in different clinical trials are never reliable.
 Because studies are conducted at different times, with different samples of patients, by different investigators, employing different criteria and/or different interpretations of the same criteria, under different conditions (dose, dosing regimen, etc.), quantitative estimates of treatment response and the timing of response may be expected to vary considerably from study to study.

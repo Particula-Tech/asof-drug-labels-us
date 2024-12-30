@@ -8,14 +8,14 @@ The chemical structure is:
 
 Dihydroergotamine mesylate nasal spray is provided for intranasal administration as a clear, colorless to light yellow aqueous solution in an amber glass vial containing:
 
-1. dihydroergotamine mesylate, USP 4 mg
-2. caffeine, anhydrous, USP 10 mg
-3. dextrose, anhydrous, USP 50 mg
-4. carbon dioxide, USP qs
-5. purified water, USP qs 1 mL
+- dihydroergotamine mesylate, USP 4 mg
+- caffeine, anhydrous, USP 10 mg
+- dextrose, anhydrous, USP 50 mg
+- carbon dioxide, USP qs
+- purified water, USP qs 1 mL
 
 Each milliliter contains
 
-1. Dihydroergotamine mesylate 4 mg
+- Dihydroergotamine mesylate 4 mg
 
 (equivalent to 3.43 mg dihydroergotamine)
