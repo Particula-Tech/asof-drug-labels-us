@@ -50,7 +50,7 @@ Prior to injection:
 | •While holding the syringe with the needle pointing upward, gently push in the plunger until the liquid is up to the top of the syringe (Figure H). There should be no air within the barrel. | Figure H. |
 | Step 3: Injecting depo-Sub Q provera 104 |  |
 | •Gently grasp and squeeze a large area of skin in the chosen injection area between the thumb and forefinger, pulling it away from the body (Figure I).•Insert the needle at a 45-degree angle so that most of the needle is in the fatty tissue.•The plastic hub of the needle should be nearly or almost touching the skin. | Figure I. |
-| Inject slowly until the syringe is empty (Figure J). •This should take about 5 to7 seconds.•It is important that the entire dose is given. | Figure J. Inject slowly (5–7 seconds) |
+| Inject slowly until the syringe is empty (Figure J). •This should take about 5 to 7 seconds.•It is important that the entire dose is given. | Figure J. Inject slowly (5–7 seconds) |
 | Step 4: Remove the Needle and Activate the Safety Shield |  |
 | •After completing the injection, remove the needle from the skin and activate the safety shield as follows: oWhile positioning the shield about 40°– 45°, and with a firm quick motion, press down against a flat surface until a click is heard or felt (Figure K).oIf uncertain that the safety shield is fully engaged, repeat this step. | Figure K. |
 | •Use a clean cotton pad to press lightly on the injection area for a few seconds (Figure L).•Do not rub the area. | Figure L. |

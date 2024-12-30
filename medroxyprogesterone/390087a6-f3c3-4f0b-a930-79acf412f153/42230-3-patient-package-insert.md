@@ -236,8 +236,8 @@ The most common side effects are:
   Weight changes beyond 2 years of use with depo-subQ provera 104 have not been studied.
   Women who used a similar birth control product for 5 years gained on average 5 pounds more than women who did not use a hormone contraceptive product.
 - •Skin reaction where you got the shot.
-  Lumps, skin dimpling, or pain are usually mild and usually don't last long.
-  Scarring is uncommon, but may happen.
+  Lumps, skin dimpling, or pain may occur.
+  Scarring and discoloration are uncommon, but may happen.
   If there is swelling or your skin gets hot, has pus or looks bruised 1 or more days after your shot, call your healthcare professional.
 
 Women using depo-subQ provera 104 for birth control or endometriosis had these less common side effects: Vaginal inflammation, vaginal thrush, abdominal pain, urinary tract infections, acne, depression, less sex drive, nausea, back pain, breast pain/tenderness, fatigue, anxiety, being irritable, dizziness, hot flushes and fluid retention.
@@ -273,4 +273,4 @@ When necessary, the pH is adjusted with sodium hydroxide or hydrochloric acid, o
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0298-10.0 Revised July 2024
+LAB-0298-11.0 Revised December 2024

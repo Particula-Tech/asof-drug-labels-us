@@ -51,8 +51,7 @@ Counsel patients with conditions that may be influenced by fluid retention to in
 
 Injection Site Reactions
 
-Counsel patients on injection site reactions.
-Advise patients that dimpling or scarring may occur in 1 out of 100 patients [see Warnings and Precautions (5.10)].
+Counsel patients that injection site reactions including site dimpling, scarring or discoloration may occur [see Warnings and Precautions (5.10)].
 
 Sexually Transmitted Infections
 

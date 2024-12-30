@@ -76,7 +76,7 @@ Specific Populations
 
 Racial Groups
 
-There were no significant differences in the pharmacokinetics and/or pharmacodynamics of MPA after subcutaneous administration of depo-subQ provera 104 in African-American, Caucasian, and Asian women
+There were no significant differences in the pharmacokinetics and/or pharmacodynamics of MPA after subcutaneous administration of depo-subQ provera 104 in African-American, Caucasian, and Asian women.
 
 Effect of Body Weight
 

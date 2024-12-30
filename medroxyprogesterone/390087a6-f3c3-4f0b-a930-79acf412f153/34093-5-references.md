@@ -1,4 +1,4 @@
-# 15. REFERENCES
+# 15 REFERENCES
 
 1. 1.Li CI, Beaber EF, Tang MCT et al. Effect of Depo-Medroxyprogesterone Acetate on Breast Cancer Risk among Women 20 to 44 years of Age.
    Cancer Research 2012; 72:2028-2035.

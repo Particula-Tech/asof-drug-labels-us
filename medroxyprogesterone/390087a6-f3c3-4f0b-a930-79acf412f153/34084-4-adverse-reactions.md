@@ -35,7 +35,7 @@ Frequently Reported Adverse Reactions in the Contraception Studies (>1%)
 | Headache | 9% |
 | Increased weight (see below) | 7% |
 | Amenorrhea | 6% |
-| Injection site reactions (such as pain/tenderness, nodule/lump, persistent atrophy/indentation/dimpling, lipodystrophy) | 6% |
+| Injection site reactions (such as pain/tenderness, nodule/lump, persistent atrophy/indentation/dimpling, lipodystrophy, discoloration) | 6% |
 | Vaginitis, including candidiasis and bacterial | 5% |
 | Abdominal pain | 4% |
 | Urinary tract infections | 4% |

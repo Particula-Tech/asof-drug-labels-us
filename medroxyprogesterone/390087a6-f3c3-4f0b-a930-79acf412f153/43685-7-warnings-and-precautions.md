@@ -95,9 +95,8 @@ Therefore, patients should be monitored for symptoms of depression and mood chan
 
 ## 5.10 Injection Site Reactions
 
-In five clinical studies of depo-subQ provera 104 involving 2325 women (282 treated for up to 6 months, 1780 treated for up to 1 year, and 263 women treated for up to 2 years), 5% of women reported injection site reactions, and 1% had persistent skin changes (small areas of induration or atrophy).
-
-In post-marketing experience, injection site reactions such as persistent atrophy of the injection site, dimpling/indentation, and injection site lump/nodule have been reported.
+In five clinical studies of depo-subQ provera 104 involving 2325 women (282 treated for up to 6 months, 1780 treated for up to 1 year, and 263 women treated for up to 2 years), 5% of women reported injection site reactions (such as pain/tenderness, nodule/lump, lipodystrophy, discoloration), and 1% had persistent atrophy/indentation/dimpling [see Adverse Reactions (6.1)].
+These injection site reactions have also been reported in post-marketing experience.
 
 ## 5.11 Bleeding Irregularities
 
