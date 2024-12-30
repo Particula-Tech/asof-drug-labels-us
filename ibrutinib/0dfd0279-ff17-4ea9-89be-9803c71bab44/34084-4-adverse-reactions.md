@@ -613,6 +613,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory disorders: interstitial lung disease
 - Metabolic and nutrition disorders: tumor lysis syndrome
 - Immune system disorders: anaphylactic shock, angioedema, urticaria
-- Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis, panniculitis, neutrophilic dermatoses
+- Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis, panniculitis, neutrophilic dermatoses, cutaneous vasculitis
 - Infections: hepatitis B reactivation
 - Nervous system disorders: peripheral neuropathy
