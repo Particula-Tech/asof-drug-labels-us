@@ -15,5 +15,3 @@ NDC 72572-571-25 Rx Only Phenylephrine Hydrochloride Inj., USP 10 mg/mL For Intr
 NDC 72572-570-01 Rx Only Phenylephrine Hydrochloride Inj., USP 100 mg/10 mL (10 mg/mL) Pharmacy Bulk Package Not for Direct Infusion For Intravenous Use Must Be Diluted Protect From Light 10 mL Vial
 
 NDC 72572-570-10 Rx Only Phenylephrine Hydrochloride Inj., USP 100 mg/10 mL (10 mg/mL) Pharmacy Bulk Package Not for Direct Infusion For Intravenous Use Must Be Diluted - Protect From Light Store in carton until time of use 10 x 10 mL vials
-
-# SERIALIZATION IMAGE
