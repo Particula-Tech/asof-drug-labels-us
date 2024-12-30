@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761338"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "CELLTRION Inc.",
+  "package_ndcs": [
+    "72606-027-01",
+    "72606-028-01",
+    "72606-029-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab",
+      "name": "STEQEYMA"
+    }
+  ],
+  "setid": "66085e17-e3f2-4196-8c81-87448e804b0c",
+  "source": "dailymed"
+}
