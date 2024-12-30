@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218492"
+  ],
+  "inn": "prucalopride",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-596-10",
+    "70954-597-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "prucalopride",
+      "name": "Prucalopride"
+    }
+  ],
+  "setid": "6d82dfbd-f171-4045-9f7a-268e189a658a",
+  "source": "dailymed"
+}
