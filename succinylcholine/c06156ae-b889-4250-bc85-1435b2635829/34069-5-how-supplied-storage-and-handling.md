@@ -4,8 +4,7 @@ QUELICIN™ (Succinylcholine Chloride Injection, USP) is supplied as a clear, co
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-6629-25 | 200 mg/10 mL |
-| Tray containing 25 Multiple-dose Fliptop Vials | (20 mg/mL) |
+| NDC 0409-6629-25Tray containing 25 Multiple-dose Fliptop Vials | 200 mg/10 mL(20 mg/mL) |
 
 Refrigeration of undiluted QUELICIN will assure full potency until expiration date.
 
