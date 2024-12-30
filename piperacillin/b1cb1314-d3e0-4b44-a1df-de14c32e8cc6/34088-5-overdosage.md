@@ -2,7 +2,7 @@
 
 There have been postmarketing reports of overdose with piperacillin and tazobactam.
 The majority of those events experienced, including nausea, vomiting, and diarrhea, have also been reported with the usual recommended dosages.
-Patients may experience neuromuscular excitability or seizures if higher than recommended doses are given intravenously (particularly in the presence of renal failure) [see Warnings and Precautions (5.5)].
+Patients may experience neuromuscular excitability or seizures if higher than recommended doses are given intravenously (particularly in the presence of renal failure) [see Warnings and Precautions (5.6)].
 
 Treatment should be supportive and symptomatic according to the patient’s clinical presentation.
 Excessive serum concentrations of either piperacillin or tazobactam may be reduced by hemodialysis.
