@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761126"
+  ],
+  "inn": "filgrastim",
+  "labeler": "Tanvex BioPharma USA, Inc.",
+  "package_ndcs": [
+    "72374-101-01",
+    "72374-101-10",
+    "72374-102-01",
+    "72374-102-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "filgrastim-txid",
+      "name": "NYPOZI"
+    }
+  ],
+  "setid": "89092bb8-6a20-e23e-e053-2a95a90aa750",
+  "source": "dailymed"
+}
