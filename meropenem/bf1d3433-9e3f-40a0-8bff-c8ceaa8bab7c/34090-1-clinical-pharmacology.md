@@ -191,8 +191,6 @@ Proteus vulgaris
 
 Serratia marcescens
 
-_______________________________
-
 Anaerobic bacteria
 
 Bacteroides ovatus
@@ -223,6 +221,6 @@ Prevotella melaninogenica
 
 Propionibacterium acnes
 
-­_____________________________
+­
 
 Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

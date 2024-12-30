@@ -15,7 +15,7 @@ The success rates for the clinically evaluable population are provided in Table 
 
 Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
 
-| Population | Meropenem n1/N2 (%) | Imipenem-cilastatin n1/N2 (%) |
+| Population | Meropenem n1/N2(%) | Imipenem-cilastatin n1/N2(%) |
 | --- | --- | --- |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
@@ -31,7 +31,7 @@ The values represent the number of patients clinically cured/number of clinicall
 
 Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 
-| MICROORGANISMS1 | Meropenem n2/N3 (%)4 | Imipenem-cilastatin n2/N3 (%)4 |
+| MICROORGANISMS1 | Meropenem n2/N3(%)4 | Imipenem-cilastatin n2/N3(%)4 |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
