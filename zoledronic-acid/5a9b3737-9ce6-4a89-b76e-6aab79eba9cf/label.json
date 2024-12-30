@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021817"
+  ],
+  "inn": "zoledronic-acid",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-155-46"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "zoledronic acid",
+      "name": "Reclast"
+    }
+  ],
+  "setid": "5a9b3737-9ce6-4a89-b76e-6aab79eba9cf",
+  "source": "dailymed"
+}

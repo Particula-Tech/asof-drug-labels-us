@@ -1,0 +1,436 @@
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Treatment of Osteoporosis in Postmenopausal Women
+
+The safety of Reclast in the treatment of postmenopausal osteoporosis was assessed in Study 1, a large, randomized, double-blind, placebo-controlled, multinational study of 7736 postmenopausal women aged 65 to 89 years with osteoporosis, diagnosed by BMD or the presence of a prevalent vertebral fracture.
+The duration of the trial was three years with 3862 patients exposed to Reclast and 3852 patients exposed to placebo administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes, for a total of three doses.
+All women received 1000 to 1500 mg of elemental calcium plus 400 to 1200 international units of vitamin D supplementation per day.
+
+The incidence of all-cause mortality was similar between groups: 3.4% in the Reclast group and 2.9% in the placebo group.
+The incidence of serious adverse events was 29.2% in the Reclast group and 30.1% in the placebo group.
+The percentage of patients who withdrew from the study due to adverse events was 5.4% and 4.8% for the Reclast and placebo groups, respectively.
+
+The safety of Reclast in the treatment of osteoporosis patients with a recent (within 90 days) low-trauma hip fracture was assessed in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint-driven study of 2127 men and women aged 50 to 95 years; 1065 patients were randomized to Reclast and 1062 patients were randomized to placebo.
+Reclast was administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
+The study continued until at least 211 patients had a confirmed clinical fracture in the study population who were followed for an average of approximately 2 years on study drug.
+Vitamin D levels were not routinely measured but a loading dose of vitamin D (50,000 to 125,000 international units orally or IM) was given to patients and they were started on 1000 to 1500 mg of elemental calcium plus 800 to 1200 international units of vitamin D supplementation per day for at least 14 days prior to the study drug infusions.
+
+The incidence of all-cause mortality was 9.6% in the Reclast group and 13.3% in the placebo group.
+The incidence of serious adverse events was 38.3% in the Reclast group and 41.3% in the placebo group.
+The percentage of patients who withdrew from the study due to adverse events was 5.3% and 4.7% for the Reclast and placebo groups, respectively.
+
+Adverse reactions reported in at least 2% of patients with osteoporosis and more frequently in the Reclast-treated patients than placebo-treated patients in either osteoporosis trial are shown below in Table 1.
+
+Table 1.
+Adverse Reactions Occurring in Greater Than or Equal to 2.0% of Patients with Osteoporosis and More Frequently Than in Placebo-Treated Patients
+
+|  | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+| System Organ Class | 5 mg IV Reclast once per year % (N = 3862) | Placebo once per year % (N = 3852) | 5 mg IV Reclast once per year % (N = 1054) | Placebo once per year % (N = 1057) |
+| Blood and the Lymphatic System Disorders |  |  |  |  |
+| Anemia | 4.4 | 3.6 | 5.3 | 5.2 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Dehydration | 0.6 | 0.6 | 2.5 | 2.3 |
+| Anorexia | 2.0 | 1.1 | 1.0 | 1.0 |
+| Nervous System Disorders |  |  |  |  |
+| Headache | 12.4 | 8.1 | 3.9 | 2.5 |
+| Dizziness | 7.6 | 6.7 | 2.0 | 4.0 |
+| Ear and Labyrinth Disorders |  |  |  |  |
+| Vertigo | 4.3 | 4.0 | 1.3 | 1.7 |
+| Cardiac Disorders |  |  |  |  |
+| Atrial fibrillation | 2.4 | 1.9 | 2.8 | 2.6 |
+| Vascular Disorders |  |  |  |  |
+| Hypertension | 12.7 | 12.4 | 6.8 | 5.4 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 8.5 | 5.2 | 4.5 | 4.5 |
+| Diarrhea | 6.0 | 5.6 | 5.2 | 4.7 |
+| Vomiting | 4.6 | 3.2 | 3.4 | 3.4 |
+| Abdominal pain upper | 4.6 | 3.1 | 0.9 | 1.5 |
+| Dyspepsia | 4.3 | 4.0 | 1.7 | 1.6 |
+| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |  |  |
+| Arthralgia | 23.8 | 20.4 | 17.9 | 18.3 |
+| Myalgia | 11.7 | 3.7 | 4.9 | 2.7 |
+| Pain in extremity | 11.3 | 9.9 | 5.9 | 4.8 |
+| Shoulder pain | 6.9 | 5.6 | 0.0 | 0.0 |
+| Bone pain | 5.8 | 2.3 | 3.2 | 1.0 |
+| Neck pain | 4.4 | 3.8 | 1.4 | 1.1 |
+| Muscle spasms | 3.7 | 3.4 | 1.5 | 1.7 |
+| Osteoarthritis | 9.1 | 9.7 | 5.7 | 4.5 |
+| Musculoskeletal pain | 0.4 | 0.3 | 3.1 | 1.2 |
+| General Disorders and Administrative-Site Conditions |  |  |  |  |
+| Pyrexia | 17.9 | 4.6 | 8.7 | 3.1 |
+| Influenza-like illness | 8.8 | 2.7 | 0.8 | 0.4 |
+| Fatigue | 5.4 | 3.5 | 2.1 | 1.2 |
+| Chills | 5.4 | 1.0 | 1.5 | 0.5 |
+| Asthenia | 5.3 | 2.9 | 3.2 | 3.0 |
+| Peripheral edema | 4.6 | 4.2 | 5.5 | 5.3 |
+| Pain | 3.3 | 1.3 | 1.5 | 0.5 |
+| Malaise | 2.0 | 1.0 | 1.1 | 0.5 |
+| Hyperthermia | 0.3 | < 0.1 | 2.3 | 0.3 |
+| Chest Pain | 1.3 | 1.1 | 2.4 | 1.8 |
+| Investigations |  |  |  |  |
+| Creatinine renal clearance decreased | 2.0 | 2.4 | 2.1 | 1.7 |
+| Abbreviation: IV, intravenous or intravenously. |  |  |  |  |
+
+Renal Impairment
+
+Treatment with intravenous bisphosphonates, including zoledronic acid, has been associated with renal impairment manifested as deterioration in renal function (i.e., increased serum creatinine) and in rare cases, acute renal failure.
+In the clinical trial for postmenopausal osteoporosis, patients with baseline creatinine clearance less than 30 mL/min (based on actual body weight), urine dipstick greater than or equal to 2+ protein or increase in serum creatinine of greater than 0.5 mg/dL during the screening visits were excluded.
+The change in creatinine clearance (measured annually prior to dosing) and the incidence of renal failure and impairment was comparable for both the Reclast and placebo treatment groups over 3 years, including patients with creatinine clearance between 30-60 mL/min at baseline.
+Overall, there was a transient increase in serum creatinine observed within 10 days of dosing in 1.8% of Reclast-treated patients versus 0.8% of placebo-treated patients which resolved without specific therapy [see Warnings and Precautions (5.3)].
+
+Acute Phase Reaction
+
+The signs and symptoms of acute phase reaction occurred in Study 1 following Reclast infusion, including fever (18%), myalgia (9%), flu-like symptoms (8%), headache (7%), and arthralgia (7%).
+The majority of these symptoms occurred within the first 3 days following the dose of Reclast and usually resolved within 3 days of onset but resolution could take up to 7-14 days.
+In Study 2, patients without a contraindication to acetaminophen were provided with a standard oral dose at the time of the IV infusion and instructed to use additional acetaminophen at home for the next 72 hours as needed.
+Reclast was associated with fewer signs and symptoms of a transient acute phase reaction in this trial: fever (7%) and arthralgia (3%).
+The incidence of these symptoms decreased with subsequent doses of Reclast.
+
+Laboratory Findings
+
+In Study 1, in women with postmenopausal osteoporosis, approximately 0.2% of patients had notable declines of serum calcium levels (less than 7.5 mg/dL) following Reclast administration.
+No symptomatic cases of hypocalcemia were observed.
+In Study 2, following pre-treatment with vitamin D, no patients had treatment emergent serum calcium levels below 7.5 mg/dL.
+
+Injection-Site Reactions
+
+In the osteoporosis trials, local reactions at the infusion site, such as itching, redness and/or pain have been reported in 0% to 0.7% of patients following the administration of Reclast and 0% to 0.5% of patients following administration of placebo.
+
+Osteonecrosis of the Jaw
+
+In the postmenopausal osteoporosis trial, Study 1, in 7736 patients, after initiation of therapy, symptoms consistent with ONJ occurred in one patient treated with placebo and one patient treated with Reclast.
+Both cases resolved after appropriate treatment [see Warnings and Precautions (5.4)].
+No reports of ONJ were reported in either treatment group in Study 2.
+
+Atrial Fibrillation
+
+In the postmenopausal osteoporosis trial, Study 1, adjudicated serious adverse events of atrial fibrillation in the zoledronic acid treatment group occurred in 1.3% of patients (50 out of 3862) compared to 0.4% (17 out of 3852) in the placebo group.
+The overall incidence of all atrial fibrillation adverse events in the zoledronic acid treatment group was reported in 2.5% of patients (96 out of 3862) in the Reclast group vs. 1.9% of patients (75 out of 3852) in the placebo group.
+Over 90% of these events in both treatment groups occurred more than a month after the infusion.
+In an ECG sub-study, ECG measurements were performed on a subset of 559 patients before and 9 to 11 days after treatment.
+There was no difference in the incidence of atrial fibrillation between treatment groups suggesting these events were not related to the acute infusions.
+In Study 2, adjudicated serious adverse events of atrial fibrillation in the zoledronic acid treatment group occurred in 1.0% of patients (11 out of 1054) compared to 1.2% (13 out of 1057) in the placebo group demonstrating no difference between treatment groups.
+
+Ocular Adverse Events
+
+Cases of iritis/uveitis/episcleritis/conjunctivitis have been reported in patients treated with bisphosphonates, including zoledronic acid.
+In the osteoporosis trials, 1 (less than 0.1%) to 9 (0.2%) patients treated with Reclast and 0 (0%) to 1 (less than 0.1%) patient treated with placebo developed iritis/uveitis/episcleritis.
+
+Prevention of Osteoporosis in Postmenopausal Women
+
+The safety of Reclast in postmenopausal women with osteopenia (low bone mass) was assessed in a 2-year randomized, multi-center, double-blind, placebo-controlled study of 581 postmenopausal women aged greater than or equal to 45 years.
+Patients were randomized to one of three treatment groups: (1) Reclast given at randomization and Month 12 (n=198); (2) Reclast given at randomization and placebo at Month 12 (n=181); and (3) placebo given at randomization and Month 12 (n=202).
+Reclast was administered as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
+All women received 500 to 1200 mg elemental calcium plus 400 to 800 international units vitamin D supplementation per day.
+
+The incidence of serious adverse events was similar for subjects given (1) Reclast at randomization and at Month 12 (10.6%), (2) Reclast at randomization and placebo given at Month 12 (9.4%), and (3) placebo at randomization and at Month 12 (11.4%).
+The percentages of patients who withdrew from the study due to adverse events were 7.1%, 7.2%, and 3.0% in the two Reclast groups and placebo group, respectively.
+Adverse reactions reported in at least 2% of patients with osteopenia and more frequently in the Reclast-treated patients than placebo-treated patients are shown in Table 2.
+
+Table 2.
+Adverse Reactions Occurring in Greater Than or Equal to 2% of Patients with Osteopenia and More Frequently Than in Placebo-Treated Patients
+
+| System Organ Class | 5 mg IV Reclast once per year % (n = 198) | 5 mg IV Reclast once % (n = 181) | Placebo once per year % (n = 202) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Metabolism and nutrition Disorders |  |  |  |  |  |  |  |  |
+| Anorexia | 2.0 | 0.6 | 0.0 |  |  |  |  |  |
+| Nervous system Disorders |  |  |  |  |  |  |  |  |
+| Headache | 14.6 | 20.4 | 11.4 |  |  |  |  |  |
+| Dizziness | 7.6 | 6.1 | 3.5 |  |  |  |  |  |
+| Hypoesthesia | 5.6 | 2.2 | 2.0 |  |  |  |  |  |
+| Ear and Labyrinth Disorders |  |  |  |  |  |  |  |  |
+| Vertigo | 2.0 | 1.7 | 1.0 |  |  |  |  |  |
+| Vascular Disorders |  |  |  |  |  |  |  |  |
+| Hypertension | 5.1 | 8.3 | 6.9 |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |
+| Nausea | 17.7 | 11.6 | 7.9 |  |  |  |  |  |
+| Diarrhea | 8.1 | 6.6 | 7.9 |  |  |  |  |  |
+| Vomiting | 7.6 | 5.0 | 4.5 |  |  |  |  |  |
+| Dyspepsia | 7.1 | 6.6 | 5.0 |  |  |  |  |  |
+| Abdominal painCombined abdominal pain, abdominal pain upper, and abdominal pain lower as one Adverse Drug Reaction (ADR). | 8.6 | 6.6 | 7.9 |  |  |  |  |  |
+| Constipation | 6.6 | 7.2 | 6.9 |  |  |  |  |  |
+| Abdominal discomfort | 2.0 | 1.1 | 0.5 |  |  |  |  |  |
+| Abdominal distension | 2.0 | 0.6 | 0.0 |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |
+| Rash | 3.0 | 2.2 | 2.5 |  |  |  |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |  |
+| Arthralgia | 27.3 | 18.8 | 19.3 |  |  |  |  |  |
+| Myalgia | 19.2 | 22.7 | 6.9 |  |  |  |  |  |
+| Back pain | 18.2 | 16.6 | 11.9 |  |  |  |  |  |
+| Pain in extremity | 11.1 | 16.0 | 9.9 |  |  |  |  |  |
+| Muscle spasms | 5.6 | 2.8 | 5.0 |  |  |  |  |  |
+| Musculoskeletal painCombined musculoskeletal pain and musculoskeletal chest pain as one ADR. | 8.1 | 7.2 | 7.9 |  |  |  |  |  |
+| Bone pain | 5.1 | 3.3 | 1.0 |  |  |  |  |  |
+| Neck pain | 5.1 | 6.6 | 5.0 |  |  |  |  |  |
+| Arthritis | 4.0 | 2.2 | 1.5 |  |  |  |  |  |
+| Joint stiffness | 3.5 | 1.1 | 2.0 |  |  |  |  |  |
+| Joint swelling | 3.0 | 0.6 | 0.0 |  |  |  |  |  |
+| Flank pain | 2.0 | 0.6 | 0.0 |  |  |  |  |  |
+| Pain in jaw | 2.0 | 3.9 | 2.5 |  |  |  |  |  |
+| General Disorders and Administration-Site Conditions |  |  |  |  |  |  |  |  |
+| Pain | 24.2 | 14.9 | 3.5 |  |  |  |  |  |
+| Pyrexia | 21.7 | 21.0 | 4.5 |  |  |  |  |  |
+| Chills | 18.2 | 18.2 | 3.0 |  |  |  |  |  |
+| Fatigue | 14.6 | 9.9 | 4.0 |  |  |  |  |  |
+| Asthenia | 6.1 | 2.8 | 1.0 |  |  |  |  |  |
+| Peripheral edema | 5.6 | 3.9 | 3.5 |  |  |  |  |  |
+| Non-cardiac chest pain | 3.5 | 7.7 | 3.0 |  |  |  |  |  |
+| Influenza-like illness | 1.5 | 3.3 | 2.0 |  |  |  |  |  |
+| Malaise | 1.0 | 2.2 | 0.5 |  |  |  |  |  |
+| Abbreviation: IV, intravenous or intravenously. |  |  |  |  |  |  |  |  |
+
+Ocular Adverse Events
+
+Cases of iritis/uveitis/episcleritis/conjunctivitis have been reported in patients treated with bisphosphonates, including zoledronic acid.
+In the osteoporosis prevention trial, 4 (1.1%) patients treated with Reclast and 0 (0%) patients treated with placebo developed iritis/uveitis.
+
+Acute Phase Reaction
+
+In patients given Reclast at randomization and placebo at Month 12, Reclast was associated with signs and symptoms of an acute phase reaction: myalgia (20.4%), fever (19.3%), chills (18.2%), pain (13.8%), headache (13.3%), fatigue (8.3%), arthralgia (6.1%), pain in extremity (3.9%), influenza-like illness (3.3%), and back pain (1.7%), which occurred within the first 3 days following the dose of Reclast.
+The majority of these symptoms were mild to moderate and resolved within 3 days of the event onset but resolution could take up to 7-14 days.
+
+Osteoporosis in Men
+
+The safety of Reclast in men with osteoporosis or osteoporosis secondary to hypogonadism was assessed in a two year randomized, multicenter, double-blind, active controlled group study of 302 men aged 25 to 86 years.
+One hundred fifty three (153) patients were exposed to Reclast administered once annually with a 5 mg dose in 100 mL infused over 15 minutes for up to a total of two doses, and 148 patients were exposed to a commercially-available oral weekly bisphosphonate (active control) for up to two years.
+All participants received 1000 mg of elemental calcium plus 800 to 1000 international units of vitamin D supplementation per day.
+
+The incidence of all-cause mortality (one in each group) and serious adverse events were similar between the Reclast and active control treatment groups.
+The percentage of patients experiencing at least one adverse event was comparable between the Reclast and active control groups, with the exception of a higher incidence of post-dose symptoms in the Reclast group that occurred within 3 days after infusion.
+The overall safety and tolerability of Reclast was similar to the active control.
+
+Adverse reactions reported in at least 2% of men with osteoporosis and more frequently in the Reclast-treated patients than the active control-treated patients and either (1) not reported in the postmenopausal osteoporosis treatment trial or (2) reported more frequently in the trial of osteoporosis in men are presented in Table 3.
+Therefore, Table 3 should be viewed in conjunction with Table 1.
+
+Table 3: Adverse Reactions Occurring in Greater Than or Equal to 2% of Men with Osteoporosis and More Frequently in the Reclast-Treated Patients Than the Active Control-Treated Patients and Either (1) Not Reported in the Postmenopausal Osteoporosis Treatment Trial or (2) Reported More Frequently in This Trial
+
+| System Organ Class | 5 mg IV Reclast once per year % (N = 153) | Active Control once weekly % (N = 148) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |
+| Headache | 15.0 | 6.1 |  |  |  |  |  |  |  |  |  |
+| Lethargy | 3.3 | 1.4 |  |  |  |  |  |  |  |  |  |
+| Eye Disorders |  |  |  |  |  |  |  |  |  |  |  |
+| Eye pain | 2.0 | 0.0 |  |  |  |  |  |  |  |  |  |
+| Cardiac Disorders |  |  |  |  |  |  |  |  |  |  |  |
+| Atrial fibrillation | 3.3 | 2.0 |  |  |  |  |  |  |  |  |  |
+| Palpitations | 2.6 | 0.0 |  |  |  |  |  |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspnea | 6.5 | 4.7 |  |  |  |  |  |  |  |  |  |
+| Abdominal painCombined abdominal pain, abdominal pain upper, and abdominal pain lower as one Adverse Drug Reaction (ADR). | 7.9 | 4.1 |  |  |  |  |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperhidrosis | 2.6 | 2.0 |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |  |  |  |  |  |  |  |  |  |
+| Myalgia | 19.6 | 6.8 |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal painCombined musculoskeletal pain and musculoskeletal chest pain as one ADR. | 12.4 | 10.8 |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal stiffness | 4.6 | 0.0 |  |  |  |  |  |  |  |  |  |
+| Renal and Urinary Disorders |  |  |  |  |  |  |  |  |  |  |  |
+| Blood creatinine increased | 2.0 | 0.7 |  |  |  |  |  |  |  |  |  |
+| General Disorders and Administrative-Site Conditions |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 17.6 | 6.1 |  |  |  |  |  |  |  |  |  |
+| Pain | 11.8 | 4.1 |  |  |  |  |  |  |  |  |  |
+| Chills | 9.8 | 2.7 |  |  |  |  |  |  |  |  |  |
+| Influenza-like illness | 9.2 | 2.0 |  |  |  |  |  |  |  |  |  |
+| Malaise | 7.2 | 0.7 |  |  |  |  |  |  |  |  |  |
+| Acute phase reaction | 3.9 | 0.0 |  |  |  |  |  |  |  |  |  |
+| Investigations |  |  |  |  |  |  |  |  |  |  |  |
+| C-reactive protein increased | 4.6 | 1.4 |  |  |  |  |  |  |  |  |  |
+| Abbreviation: IV, intravenous or intravenously. |  |  |  |  |  |  |  |  |  |  |  |
+
+Renal Impairment
+
+Creatinine clearance was measured annually prior to dosing and changes in long-term renal function over 24 months were comparable in the Reclast and active control groups [see Warnings and Precautions (5.3)].
+
+Acute Phase Reaction
+
+Reclast was associated with signs and symptoms of an acute phase reaction: myalgia (17.1%), fever (15.7%), fatigue (12.4%), arthralgia (11.1%), pain (10.5%), chills (9.8%), headache (9.8%), influenza-like illness (8.5%), malaise (5.2%), and back pain (3.3%), which occurred within the first 3 days following the dose of Reclast.
+The majority of these symptoms were mild to moderate and resolved within 3 days of the event onset but resolution could take up to 7-14 days.
+The incidence of these symptoms decreased with subsequent doses of Reclast.
+
+Atrial Fibrillation
+
+The incidence of all atrial fibrillation adverse events in the Reclast treatment group was 3.3% (5 out of 153) compared to 2.0% (3 out of 148) in the active control group.
+However, there were no patients with adjudicated serious adverse events of atrial fibrillation in the Reclast treatment group.
+
+Laboratory Findings
+
+There were no patients who had treatment emergent serum calcium levels below 7.5 mg/dL.
+
+Injection-Site Reactions
+
+There were 4 patients (2.6%) on Reclast vs. 2 patients (1.4%) on active control with local-site reactions.
+
+Osteonecrosis of the Jaw
+
+In this trial, there were no cases of ONJ [see Warnings and Precautions (5.4)].
+
+Glucocorticoid-Induced Osteoporosis
+
+The safety of Reclast in men and women in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in a randomized, multicenter, double-blind, active controlled, stratified study of 833 men, and women aged 18 to 85 years treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
+Patients were stratified according to the duration of their pre-study corticosteroid therapy: less than or equal to 3 months prior to randomization (prevention subpopulation), and greater than 3 months prior to randomization (treatment subpopulation).
+
+The duration of the trial was one year with 416 patients exposed to Reclast administered once as a single 5 mg dose in 100 mL infused over 15 minutes, and 417 patients exposed to a commercially-available oral daily bisphosphonate (active control) for one year.
+All participants received 1000 mg of elemental calcium plus 400 to 1000 international units of vitamin D supplementation per day.
+
+The incidence of all-cause mortality was similar between treatment groups: 0.9% in the Reclast group and 0.7% in the active control group.
+The incidence of serious adverse events was similar between the Reclast treatment and prevention groups, 18.4% and 18.1%, respectively, and the active control treatment and prevention groups, 19.8% and 16.0%, respectively.
+The percentage of subjects who withdrew from the study due to adverse events was 2.2% in the Reclast group vs. 1.4% in the active control group.
+The overall safety and tolerability were similar between Reclast and active control groups with the exception of a higher incidence of post-dose symptoms in the Reclast group that occurred within 3 days after infusion.
+The overall safety and tolerability profile of Reclast in glucocorticoid-induced osteoporosis was similar to the adverse events reported in the Reclast postmenopausal osteoporosis clinical trial.
+
+Adverse reactions reported in at least 2% of patients that were either not reported in the postmenopausal osteoporosis treatment trial or reported more frequently in the treatment and prevention of glucocorticoid-induced osteoporosis trial included the following: abdominal pain (Reclast 7.5%; active control 5.0%), and musculoskeletal pain (Reclast 3.1%; active control 1.7%).
+Other musculoskeletal events included back pain (Reclast 4.3%, active control 6.2%), bone pain (Reclast 3.1%, active control 2.2%), and pain in the extremity (Reclast 3.1%, active control 1.2%).
+In addition, the following adverse events occurred more frequently than in the postmenopausal osteoporosis trial: nausea (Reclast 9.6%; active control 8.4%), and dyspepsia (Reclast 5.5%; active control 4.3%).
+
+Renal Impairment
+
+Renal function measured prior to dosing and at the end of the 12-month study was comparable in the Reclast and active control groups [see Warnings and Precautions (5.3)].
+
+Acute Phase Reaction
+
+Reclast was associated with signs and symptoms of a transient acute phase reaction that was similar to that seen in the Reclast postmenopausal osteoporosis clinical trial.
+
+Atrial Fibrillation
+
+The incidence of atrial fibrillation adverse events was 0.7% (3 of 416) in the Reclast group compared to no adverse events in the active control group.
+All subjects had a prior history of atrial fibrillation and no cases were adjudicated as serious adverse events.
+One patient had atrial flutter in the active control group.
+
+Laboratory Findings
+
+There were no patients who had treatment emergent serum calcium levels below 7.5 mg/dL.
+
+Injection-Site Reactions
+
+There were no local reactions at the infusion site.
+
+Osteonecrosis of the Jaw
+
+In this trial there were no cases of ONJ [see Warnings and Precautions (5.4)].
+
+Paget’s Disease of Bone
+
+In the Paget’s disease trials, two 6-month, double-blind, comparative, multinational studies of 349 men, and women aged greater than 30 years with moderate to severe disease and with confirmed Paget’s disease of bone, 177 patients were exposed to Reclast and 172 patients exposed to risedronate.
+Reclast was administered once as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
+Risedronate was given as an oral daily dose of 30 mg for 2 months.
+
+The incidence of serious adverse events was 5.1% in the Reclast group and 6.4% in the risedronate group.
+The percentage of patients who withdrew from the study due to adverse events was 1.7% and 1.2% for the Reclast and risedronate groups, respectively.
+
+Adverse reactions occurring in at least 2% of the Paget’s patients receiving Reclast (single 5 mg intravenous infusion) or risedronate (30 mg oral daily dose for 2 months) over a 6-month study period are listed by system organ class in Table 4.
+
+Table 4.
+Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Reclast (Single 5 mg Intravenous Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-up Period
+
+| System Organ Class | 5 mg IV Reclast % (N = 177) | 30 mg/day x 2 Months risedronate % (N = 172) |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Influenza | 7 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hypocalcemia | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anorexia | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Headache | 11 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 9 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Lethargy | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Paresthesia | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspnea | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 9 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 6 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Constipation | 6 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspepsia | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal distension | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal pain | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal pain upper | 1 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rash | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Arthralgia | 9 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Bone pain | 9 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Myalgia | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Back pain | 4 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal stiffness | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| General Disorders and Administrative-Site Conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Influenza-like illness | 11 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pyrexia | 9 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 8 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rigors | 8 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pain | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Peripheral edema | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Asthenia | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abbreviation: IV, intravenous or intravenously. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Laboratory Findings
+
+In the Paget’s disease trials, early, transient decreases in serum calcium and phosphate levels were observed.
+Approximately 21% of patients had serum calcium levels less than 8.4 mg/dL 9-11 days following Reclast administration.
+
+Renal Impairment
+
+In clinical trials in Paget’s disease, there were no cases of renal deterioration following a single 5 mg 15-minute infusion [see Warnings and Precautions (5.3)].
+
+Acute Phase Reaction
+
+The signs and symptoms of acute phase reaction (influenza-like illness, pyrexia, myalgia, arthralgia, and bone pain) were reported in 25% of patients in the Reclast-treated group compared to 8% in the risedronate-treated group.
+Symptoms usually occur within the first 3 days following Reclast administration.
+The majority of these symptoms resolved within 4 days of onset.
+
+Osteonecrosis of the Jaw
+
+Osteonecrosis of the jaw has been reported with zoledronic acid [see Warnings and Precautions (5.4)].
+
+## 6.2 Post-Marketing Experience
+
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+The following adverse reactions have been identified during post approval use of Reclast:
+
+Acute Phase Reactions
+
+Fever, headache, flu-like symptoms, nausea, vomiting, diarrhea, arthralgia, and myalgia.
+Symptoms may be significant and lead to dehydration.
+
+Acute Renal Failure
+
+Acute renal failure requiring hospitalization and/or dialysis or with a fatal outcome have been rarely reported.
+Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, sepsis, gastrointestinal losses, or diuretic therapy, or 3) other risk factors, such as advanced age, or concomitant nephrotoxic drugs in the post-infusion period.
+Transient rise in serum creatinine can be correctable with intravenous fluids.
+
+Allergic Reactions
+
+Allergic reactions with intravenous zoledronic acid, including anaphylactic reaction/shock, urticaria, angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis, and bronchoconstriction have been reported.
+
+Asthma Exacerbations
+
+Asthma exacerbations have been reported.
+
+Hypocalcemia
+
+Hypocalcemia has been reported.
+
+Hypophosphatemia
+
+Hypophosphatemia has been reported.
+
+Osteonecrosis of the Jaw
+
+Osteonecrosis of the jaw has been reported.
+
+Osteonecrosis of Other Bones
+
+Cases of osteonecrosis of other bones (including femur, hip, knee, ankle, wrist and humerus) have been reported; causality has not been determined in the population treated with Reclast.
+
+Ocular Adverse Events
+
+Cases of the following events have been reported: conjunctivitis, iritis, iridocyclitis, uveitis, episcleritis, scleritis, and orbital inflammation/edema.
+
+Other
+
+Hypotension in patients with underlying risk factors has been reported.
