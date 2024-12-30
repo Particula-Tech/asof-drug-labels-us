@@ -8,6 +8,6 @@ Canagliflozin is practically insoluble in aqueous media from pH 1.1 to 12.9.
 
 INVOKANA is supplied as film-coated tablets for oral administration, containing 102 and 306 mg of canagliflozin in each tablet strength, corresponding to 100 mg and 300 mg of canagliflozin (anhydrous), respectively.
 
-Inactive ingredients of the core tablet are croscarmellose sodium, hydroxypropyl cellulose, lactose anhydrous, magnesium stearate, and microcrystalline cellulose.
+Inactive ingredients of the core tablet are croscarmellose sodium (E468), hydroxypropyl cellulose (E463), lactose anhydrous, magnesium stearate (E572), and microcrystalline cellulose (E460[i]).
 The magnesium stearate is vegetable-sourced.
-The tablets are finished with a commercially available film-coating consisting of the following excipients: polyvinyl alcohol (partially hydrolyzed), titanium dioxide, macrogol/PEG, talc, and iron oxide yellow, E172 (100 mg tablet only).
+The tablets are finished with a commercially available film-coating consisting of the following excipients: iron oxide yellow (E172) (100 mg tablet only), macrogol/PEG3350 (E1521), polyvinyl alcohol (E1203) (partially hydrolyzed), talc (E553b), and titanium dioxide (E171).

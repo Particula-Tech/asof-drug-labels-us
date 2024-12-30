@@ -14,6 +14,7 @@ Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include
 Signs and symptoms are consistent with dehydration and severe metabolic acidosis and include nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
 Blood glucose levels at presentation may be below those typically expected for diabetic ketoacidosis (e.g., less than 250 mg/dL).
 Ketoacidosis and glucosuria may persist longer than typically expected.
+
 Urinary glucose excretion persists for 3 days after discontinuing INVOKANA [see Clinical Pharmacology (12.2)]; however, there have been postmarketing reports of ketoacidosis and/or glucosuria lasting greater than 6 days and some up to 2 weeks after discontinuation of SGLT2 inhibitors.
 
 Consider ketone monitoring in patients at risk for ketoacidosis if indicated by the clinical situation.
@@ -28,7 +29,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ## 5.2 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes mellitus who had either established cardiovascular disease or were at risk for cardiovascular disease.
+An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating adult patients with type 2 diabetes mellitus who had either established cardiovascular disease or were at risk for cardiovascular disease.
 The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
 The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively [see Adverse Reactions (6.1)].
 
@@ -86,5 +87,5 @@ If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and moni
 
 ## 5.9 Bone Fracture
 
-An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using INVOKANA in the CANVAS trial [see Clinical Studies (14.2)].
+An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in adult patients using INVOKANA in the CANVAS trial [see Clinical Studies (14.3)].
 Consider factors that contribute to fracture risk prior to initiating INVOKANA [see Adverse Reactions (6.1)].

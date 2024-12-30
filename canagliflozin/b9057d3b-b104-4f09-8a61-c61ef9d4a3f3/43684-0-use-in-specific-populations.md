@@ -17,7 +17,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated Maternal and/or Embryo/Fetal Risk
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
@@ -51,7 +51,17 @@ Juvenile rats directly exposed to canagliflozin showed a risk to the developing 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of INVOKANA in pediatric patients under 18 years of age have not been established.
+The safety and effectiveness of INVOKANA as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus have been established in pediatric patients aged 10 years and older.
+
+Use of INVOKANA for this indication is supported by evidence from a 52-week double-blind, placebo-controlled trial in 171 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus and in a pediatric pharmacokinetic study [see Clinical Pharmacology (12.3)and Clinical Studies (14.2)].
+The safety profile of pediatric patients treated with INVOKANA was similar to that observed in adults with type 2 diabetes mellitus.
+
+The safety and effectiveness of INVOKANA for glycemic control in patients with type 2 diabetes have not been established in pediatric patients under 10 years of age.
+
+The safety and effectiveness of INVOKANA have not been established in pediatric patients to reduce the risk of:
+
+- major adverse cardiovascular events (cardiovascular death, nonfatal myocardial infarction and nonfatal stroke) in patients with type 2 diabetes mellitus and established cardiovascular disease (CVD).
+- end-stage kidney disease (ESKD), doubling of serum creatinine, cardiovascular (CV) death, and hospitalization for heart failure in patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria greater than 300 mg/day.
 
 ## 8.5 Geriatric Use
 
@@ -62,11 +72,11 @@ Smaller reductions in HbA 1Cwith INVOKANA relative to placebo were seen in older
 
 ## 8.6 Renal Impairment
 
-The efficacy and safety of INVOKANA for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m 2) [see Clinical Studies (14.1)].
-These patients had less overall glycemic efficacy, and patients treated with 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
+The efficacy and safety of INVOKANA for glycemic control were evaluated in a trial that included adult patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m 2) [see Clinical Studies (14.1)].
+These patients had less overall glycemic efficacy, and patients treated with 300 mg per day had increases in serum potassium, which were transient and similar by the end of the trial.
 Patients with renal impairment using INVOKANA for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.3)].
 
-Efficacy and safety studies with INVOKANA did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2[see Clinical Pharmacology (12.3)].
+Efficacy and safety trials with INVOKANA did not enroll adult patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2[see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

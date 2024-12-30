@@ -16,6 +16,6 @@ INVOKANA ®(canagliflozin) tablets are available in the strengths and packages l
 | NDC 50458-141-90 | Bottle of 90 |
 | NDC 50458-141-50 | Bottle of 500 |
 
-Storage and Handling
+Storage and Handling Keep out of reach of children.
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 20 °C to 25 °C (68 °F to 77 °F); excursions permitted between 15 °C to 30 °C (59 °F to 86 °F) [see USP Controlled Room Temperature].

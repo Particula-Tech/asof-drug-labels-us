@@ -11,7 +11,7 @@ This is believed to increase tubuloglomerular feedback and reduce intraglomerula
 
 ## 12.2 Pharmacodynamics
 
-Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in RT Gand increases in urinary glucose excretion were observed.
+Following single and multiple oral doses of canagliflozin in adult patients with type 2 diabetes, dose-dependent decreases in RT Gand increases in urinary glucose excretion were observed.
 From a starting RT Gvalue of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RT Gthroughout the 24-hour period.
 Data from single oral doses of canagliflozin in healthy volunteers indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for doses up to 300 mg once daily.
 Maximal suppression of mean RT Gover the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 trials.
@@ -22,7 +22,7 @@ In single-dose trials in healthy and type 2 diabetic patients, treatment with ca
 
 Cardiac Electrophysiology
 
-In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover trial, 60 healthy subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
+In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover trial, 60 healthy adult subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
 No meaningful changes in QTc interval were observed with either the recommended dose of 300 mg or the 1,200 mg dose.
 
 ## 12.3 Pharmacokinetics
@@ -66,12 +66,17 @@ Mean systemic clearance of canagliflozin was approximately 192 mL/min in healthy
 
 Specific Populations
 
+Pediatric Patients
+
+The pharmacokinetics and pharmacodynamics of canagliflozin were investigated in pediatric patients aged 10 years and older with type 2 diabetes mellitus.
+Oral administration of canagliflozin at 100 mg and 300 mg resulted in exposures and responses consistent with those found in adult patients.
+
 Patients with Renal Impairment
 
-A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
+A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in adult subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
 
 Renal impairment did not affect the C maxof canagliflozin.
-Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m 2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m 2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
+Compared to healthy adult subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m 2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m 2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
 
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
 The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4)and Warnings and Precautions (5.3)].
@@ -80,14 +85,14 @@ Canagliflozin was negligibly removed by hemodialysis.
 
 Patients with Hepatic Impairment
 
-Relative to subjects with normal hepatic function, the geometric mean ratios for C maxand AUC ∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate hepatic impairment) following administration of a single 300 mg dose of canagliflozin.
+Relative to adult subjects with normal hepatic function, the geometric mean ratios for C maxand AUC ∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate hepatic impairment) following administration of a single 300 mg dose of canagliflozin.
 
 These differences are not considered to be clinically meaningful.
-There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment [see Use in Specific Populations (8.7)].
+There is no clinical experience in adult patients with Child-Pugh class C (severe) hepatic impairment [see Use in Specific Populations (8.7)].
 
 Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
-Based on the population PK analysis with data collected from 1,526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
+Based on the population PK analysis with data collected from 1,526 adult subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
 
 Drug Interaction Studies
 

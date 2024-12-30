@@ -57,7 +57,7 @@ Advise patients to report immediately any signs or symptoms suggesting allergic 
 
 Bone Fracture
 
-Inform patients that bone fractures have been reported in patients taking INVOKANA.
+Inform patients that bone fractures have been reported in adult patients taking INVOKANA.
 Provide them with information on factors that may contribute to fracture risk [see Warnings and Precautions (5.9)].
 
 Pregnancy

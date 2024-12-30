@@ -8,19 +8,28 @@ In patients with volume depletion, correct this condition before initiating INVO
 
 ## 2.2 Recommended Dosage and Administration
 
-- The recommended dosage of INVOKANA is 100 mg orally once daily, taken before the first meal of the day.
+Recommended Dosage for Glycemic Control in Adults and Pediatric Patients Aged 10 Years and Older
+
+- The recommended starting dosage of INVOKANA is 100 mg orally once daily to improve glycemic control, taken before the first meal of the day.
 - For additional glycemic control, the dosage of INVOKANA may be increased to the maximum recommended dosage of 300 mg once daily.
 
-## 2.3 Recommended Dosage in Patients with Renal Impairment
+Recommended Dosage for Other Indications in Adults
 
-Table 1 provides dosage recommendations for patients with renal impairment, based on estimated glomerular filtration rate (eGFR).
+The recommended dosage of INVOKANA is 100 mg orally once daily for the following indications in adults:
 
-Table 1: Recommended Dosage in Patients with Renal Impairment
+- to reduce the risk of major adverse cardiovascular events (cardiovascular death, nonfatal myocardial infarction and nonfatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease (CVD).
+- to reduce the risk of end-stage kidney disease (ESKD), doubling of serum creatinine, cardiovascular (CV) death, and hospitalization for heart failure in adults with type 2 diabetes mellitus and diabetic nephropathy with albuminuria greater than 300 mg/day.
+
+## 2.3 Recommended Dosage in Adults and Pediatric Patients Aged 10 Years and Older with Renal Impairment
+
+Table 1 provides dosage recommendations for adults and pediatric patients aged 10 years and older with renal impairment, based on estimated glomerular filtration rate (eGFR).
+
+Table 1: Recommended Dosage in Adults and Pediatric Patients Aged 10 Years and Older with Renal Impairment
 
 | Estimated Glomerular Filtration Rate [eGFR (mL/min/1.73 m 2)] | Recommended Dosage |
 | --- | --- |
 | eGFR 30 to less than 60 | The maximum recommended dosage is 100 mg orally once daily. |
-| eGFR less than 30 | Initiation is not recommendedPatients taking INVOKANA with albuminuria greater than 300 mg/day may continue INVOKANA 100 mg once daily to reduce the risk of ESKD, doubling of serum creatinine, CV death, and hospitalization for heart failure [see Indications and Usage (1)and Use in Specific Populations (8.6)]. |
+| eGFR less than 30 | Initiation is not recommendedAdult patients taking INVOKANA with albuminuria greater than 300 mg/day may continue INVOKANA 100 mg once daily to reduce the risk of ESKD, doubling of serum creatinine, CV death, and hospitalization for heart failure [see Indications and Usage (1)and Use in Specific Populations (8.6)]. |
 
 ## 2.4 Concomitant Use with UDP-Glucuronosyl transferase (UGT) Enzyme Inducers
 
