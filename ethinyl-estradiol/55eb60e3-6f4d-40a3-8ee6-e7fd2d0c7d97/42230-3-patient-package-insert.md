@@ -257,7 +257,7 @@ This leaflet summarizes the most important information about NuvaRing.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NuvaRing that is written for health professionals.
 
-For more information on NuvaRing and the applicator for NuvaRing, go to www.nuvaring.com or call 1-844-674-3200.
+For more information on NuvaRing, go to www.nuvaring.com or call 1-844-674-3200.
 
 What are the ingredients in NuvaRing?
 

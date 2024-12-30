@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 3 Ring Pouch Carton
 
-For the Dispenser: Store refrigerated 2-8°C (36-46°F).
+For the Dispenser: Store refrigerated 2°C to 8°C (36°F to 46°F).
 
 NDC 78206-146-03
 

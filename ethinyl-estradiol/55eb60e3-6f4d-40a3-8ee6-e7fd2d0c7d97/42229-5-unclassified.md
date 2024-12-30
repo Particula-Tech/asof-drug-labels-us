@@ -8,7 +8,7 @@ For patent information: www.organon.com/our-solutions/patent/
 © 2024 Organon group of companies.
 All rights reserved.
 
-uspi-og8342a-rng-2406r005
+uspi-og8342a-rng-2412r006
 
 | Instructions for UseNuvaRing (NEW-vah-ring) (etonogestrel/ethinyl estradiol vaginal ring) |
 | --- |
@@ -89,7 +89,7 @@ Prepare NuvaRing for insertion.
 Step 4.
 Insert NuvaRing into your vagina.
 
-- Insert the folded NuvaRing into your vagina and gently push it further up into your vagina using your index finger (See Figures F and G). Alternatively, the applicator for NuvaRing (available separately) may be used to help you insert the ring [see Applicator for NuvaRing Instructions for Use].
+- Insert the folded NuvaRing into your vagina and gently push it further up into your vagina using your index finger (See Figures F and G).
 - When you insert NuvaRing it may be in different positions in your vagina, but NuvaRing does not have to be in an exact position for it to work (See Figures H and I).
 - NuvaRing may move around slightly within your vagina.
   This is normal.
@@ -174,6 +174,6 @@ For patent information: www.organon.com/our-solutions/patent/
 © 2024 Organon group of companies.
 All rights reserved.
 
-Revised: 6/2024
+Revised: 12/2024
 
-usppi-og8342a-rng-2406r004
+usppi-og8342a-rng-2412r005
