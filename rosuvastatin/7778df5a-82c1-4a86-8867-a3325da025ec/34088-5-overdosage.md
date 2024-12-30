@@ -1,5 +1,5 @@
 # 10 OVERDOSAGE
 
-There is no specific treatment in the event of overdose.
-In the event of overdose, the patient should be treated symptomatically and supportive measures instituted as required.
+No specific antidotes for rosuvastatin are known.
 Hemodialysis does not significantly enhance clearance of rosuvastatin.
+In the event of overdose, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.

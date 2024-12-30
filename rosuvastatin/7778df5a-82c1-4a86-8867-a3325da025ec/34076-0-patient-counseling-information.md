@@ -1,14 +1,25 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
-Patients should be instructed not to take 2 doses of rosuvastatin tablets within 12 hours of each other.
-Skeletal Muscle Effects Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing rosuvastatin tablets.
-Concomitant Use of Antacids When taking rosuvastatin tablets with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after rosuvastatin tablets administration.
-Embryofetal Toxicity Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment, and to inform their healthcare provider of a known or suspected pregnancy.
-[see Contraindications(4) and Use in Specific Populations (8.1,8.3)].
-Lactation Advise women not to breastfeed during treatment with rosuvastatin tablets [see Contraindications (4) and Use in Specific Populations (8.2)].
-Liver Enzymes It is recommended that liver enzyme tests be performed before the initiation of rosuvastatin tablets and if signs or symptoms of liver injury occur.
-All patients treated with rosuvastatin tablets should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+Myopathy and Rhabdomyolysis Advise patients that rosuvastatin may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over-the-counter, with their healthcare provider.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1), and Drug Interactions (7.1)].
+Hepatic Dysfunction Inform patients that rosuvastatin may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
+Increases in HbA1c and Fasting Serum Glucose Levels Inform patients that increases in HbA1c and fasting serum glucose levels may occur with rosuvastatin.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.5)].
+Pregnancy Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if rosuvastatin should be discontinued [see Use in Specific Populations (8.1)].
+Lactation Advise patients that breastfeeding during treatment with rosuvastatin is not recommended [see Use in Specific Populations (8.2)].
+Concomitant Use of Antacids When taking rosuvastatin with an aluminum and magnesium hydroxide combination antacid, administer rosuvastatin at least 2 hours before the antacid [see Drug Interactions (7.2)].
+Missed Doses If a dose is missed, advise patients not to take an extra dose.
+Just resume the usual schedule [see Dosage and Administration (2.1)].
+Manufactured by:
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar - 509 301, India.
-Revised: 10/2019
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar - 509 301, India.
+
+or
+
+By: HETEROTM Plot No. 28P1 to 36P1 & 37 to 54, Vemagal Industrial Area, Hobli Vemagal, Kolar, Karnataka - 563102, India.
+
+Revised: 11/2024
