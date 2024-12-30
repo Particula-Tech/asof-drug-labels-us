@@ -3,7 +3,7 @@
 DEFENCATH (taurolidine and heparin) CLS contains taurolidine, a thiadiazinane antimicrobial, and heparin sodium, an anti-coagulant.
 
 Taurolidine Taurolidine is an antimicrobial agent derived from the naturally occurring amino acid taurine.
-The chemical name is 4,4’-methylenebis(1,2,4-thiadiazinane)-1,1,1’,1’-tetraoxide.
+The chemical name is 4,4'-methylenebis(1,2,4-thiadiazinane)-1,1,1',1'-tetraoxide.
 The molecular weight is 284.36, and the molecular formula is C7H16N4O4S2.
 
 The structural formula of taurolidine is:
