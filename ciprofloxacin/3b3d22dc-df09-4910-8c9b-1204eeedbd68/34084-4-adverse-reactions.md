@@ -106,7 +106,7 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
-| Cardiovascular | QT prolongation Torsade de Pointes Vasculitis and ventricular arrhythmia |
+| Cardiovascular | QT prolongation Torsade de Pointes Vasculitis and ventricular arrhythmia Acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction |
 | Central Nervous System | Hypertonia Myasthenia Exacerbation of myasthenia gravis Peripheral neuropathy Polyneuropathy Twitching |
 | Eye Disorders | Nystagmus |
 | Gastrointestinal | Pseudomembranous colitis |

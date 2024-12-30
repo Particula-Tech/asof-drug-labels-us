@@ -67,7 +67,7 @@ Advise a woman to monitor the breastfed infant for loose or bloody stools and ca
 ## 8.4 Pediatric Use
 
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
-Quinolones, including ciprofloxacin tablets, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.13) and Nonclinical Toxicology (13.2)].
+Quinolones, including ciprofloxacin, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.13) and Nonclinical Toxicology (13.2)].
 
 Complicated Urinary Tract Infection and Pyelonephritis
 

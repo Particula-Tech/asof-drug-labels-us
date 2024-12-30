@@ -45,8 +45,8 @@ Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 Food
 
 When ciprofloxacin tablets are given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
-The overall absorption of ciprofloxacin, however, is not substantially affected.
-Avoid concomitant administration of ciprofloxacin with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products.
+The overall absorption of ciprofloxacin tablets, however, is not substantially affected.
+Avoid concomitant administration of ciprofloxacin with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin may be taken with a meal that contains these products.
 
 Distribution
 
@@ -106,7 +106,7 @@ Table 14 summarizes pharmacokinetic parameters in pediatric patients aged less t
 
 Table 14: Estimated AUC0–24,ss and Cmax,ss for Intravenous Treatment (1-h infusion) in Pediatric Patients Following a Multiple Dosing Regimen of 10 mg/kg, Three Times Daily
 
-| Age | AUC0-24,ss (mg h/L) | Cmax,ss (mg/L) |
+| Age | AUC0-24,ss(mg h/L) | Cmax,ss (mg/L) |
 | --- | --- | --- |
 | Less than 1 year | 30.9* | 2.8* |
 | 1 to less than 2 years | 27.8* | 3.6* |
@@ -116,7 +116,7 @@ Table 14: Estimated AUC0–24,ss and Cmax,ss for Intravenous Treatment (1-h infu
 * 3 x AUC0-8,ss
 
 These values are within the range reported for adults at therapeutic doses.
-Based on population pharmacokinetic analysis of pediatric patients with variousinfections, the predicted mean half-life in children is approximately 4 hours –5 hours, and the bioavailability of the oral suspension is approximately 60%.
+Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 hours –5 hours, and the bioavailability of the oral suspension is approximately 60%.
 
 Drug-Drug Interactions
 

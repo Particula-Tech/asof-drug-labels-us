@@ -72,9 +72,9 @@ Discontinue ciprofloxacin immediately at the first appearance of a skin rash, ja
 ## 5.7 Hypersensitivity Reactions
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving fluoroquinolone therapy, including ciprofloxacin.
-Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
+Some reactions were accompanied by cardiovascular collapse, acute myocardial ischemia with or without myocardial infarction, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Only a few patients had a history of hypersensitivity reactions.
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1)].
+Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.8 Hepatotoxicity
 
@@ -101,7 +101,7 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.11 Clostridioides difficle-Associated Diarrhea
+## 5.11 Clostridioides difficile-Associated Diarrhea
 
 Clostridioides difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -122,7 +122,7 @@ Cases of torsade de pointes have been reported during postmarketing surveillance
 Avoid ciprofloxacin in patients with known prolongation of the QT interval, risk factors for QT prolongation or torsade de pointes (for example, congenital long QT syndrome, uncorrected electrolyte imbalance, such as hypokalemia or hypomagnesemia and cardiac disease, such as heart failure, myocardial infarction, or bradycardia), and patients receiving Class IA antiarrhythmic agents (quinidine, procainamide), or Class III antiarrhythmic agents (amiodarone, sotalol), tricyclic antidepressants, macrolides, and antipsychotics.
 Elderly patients may also be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.2), Use in Specific Populations (8.5)].
 
-## 5.13 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
+## 5.13 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects inAnimals
 
 Ciprofloxacin is indicated in pediatric patients (less than 18 years of age) only for cUTI, prevention of inhalational anthrax (post exposure), and plague [see Indications and Usage (1.7, 1.8, 1.11)].
 An increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues, has been observed [see Adverse Reactions (6.1)].
@@ -156,7 +156,7 @@ Perform follow-up serologic test for syphilis three months after ciprofloxacin t
 ## 5.18 Crystalluria
 
 Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals, which is usually alkaline [see Nonclinical Toxicology (13.2)].
-Crystalluria related to ciprofloxacin have been reported only rarely in humans because human urine is usually acidic.
+Crystalluria related to ciprofloxacin has been reported only rarely in humans because human urine is usually acidic.
 Avoid alkalinity of the urine in patients receiving ciprofloxacin.
 Hydrate patients well to prevent the formation of highly concentrated urine [see Dosage and Administration (2.4)].
 

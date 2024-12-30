@@ -63,12 +63,12 @@ Inform patients of the following serious adverse reactions that have been associ
 - Lactation: For indications other than inhalational anthrax (post exposure), advise a woman that breastfeeding is not recommended during treatment with ciprofloxacin and for an additional 2 days after the last dose.
   Alternatively, a woman may pump and discard during treatment and for additional 2 days after the last dose [see Use in Specific Populations (8.2)].
 
-- Antibacterial Resistance: Inform patients that antibacterial drugs including ciprofloxacin should only be used to treat bacterial infections.
-  They do not treat viral infections (for example, the common cold).
-  When ciprofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-  Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ciprofloxacin tablets or other antibacterial drugs in the future.
+Antibacterial Resistance: Inform patients that antibacterial drugs including ciprofloxacin tablets should only be used totreat bacterial infections.
+They do not treat viral infections (for example, the common cold).
+When ciprofloxacin tabletsare prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early inthe course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing thefull course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood thatbacteria will develop resistance and will not be treatable by ciprofloxacin tablets or other antibacterial drugs in the future.
 
-- Administration Instructions: Inform patients that ciprofloxacin may be taken with or without food.
+Administration Instructions: Inform patients that ciprofloxacin may be taken with or without food.
 
 Inform patients to drink fluids liberally while taking ciprofloxacin to avoid formation of highly concentrated urine and crystal formation in the urine.
 
@@ -79,16 +79,16 @@ Advise patients that if a dose is missed, it should be taken anytime but not lat
 If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
 Double doses should not be taken to compensate for a missed dose.
 
-- Drug Interactions Oral Antidiabetic Agents: Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin, instruct them to consult their physician and that their antibacterial medicine may need to be changed.
+Drug Interactions Oral Antidiabetic Agents: Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin, instruct them to consult their physician and that their antibacterial medicine may need to be changed.
 
-- Anthrax and Plague Studies: Inform patients given ciprofloxacin for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
-  Therefore, approval for these conditions was based on efficacy studies conducted in animals.
+Anthrax and Plague Studies: Inform patients given ciprofloxacin for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
+Therefore, approval for these conditions was based on efficacy studies conducted in animals.
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Manufactured by: HIKMA Pharmaceuticals P.O.
+Manufactured by: Hikma Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
 2INCPXN-E
 
-Revised July 2024
+Revised October 2024

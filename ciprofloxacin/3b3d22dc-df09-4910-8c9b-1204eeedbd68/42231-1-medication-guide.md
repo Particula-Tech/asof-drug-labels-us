@@ -328,7 +328,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ciprofloxacin tablets?
 
-• Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+• Store at room temperature between 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Keep ciprofloxacin tablets and all medicines out of the reach of children.
 
@@ -355,7 +355,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Manufactured by: HIKMA Pharmaceuticals P.O.
+Manufactured by: Hikma Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
 Revised July 2024

@@ -45,13 +45,13 @@ Ciprofloxacin is indicated in adult patients for treatment of chronic bacterial 
 
 ## 1.10 Lower Respiratory Tract Infections
 
-Ciprofloxacin is indicated in adult patients for treatment of lower respiratory tract infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae,or Streptococcus pneumoniae.
+Ciprofloxacin is indicated in adult patients for treatment of lower respiratory tract infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or Streptococcus pneumoniae.
 
 Ciprofloxacin is not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae.
 
 Ciprofloxacin is indicated for the treatment of acute exacerbations of chronic bronchitis (AECB) caused by Moraxella catarrhalis.
 
-Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)] and for some patients AECB is self-limiting, reserve ciprofloxacin tablets for treatment of AECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)] and for some patients AECB is self-limiting, reserve ciprofloxacin for treatment of AECB in patients who have no alternative treatment options.
 
 ## 1.11 Urinary Tract Infections
 

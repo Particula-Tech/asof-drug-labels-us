@@ -2,7 +2,7 @@
 
 ## 14.1 Complicated Urinary Tract Infection and Pyelonephritis–Efficacy in Pediatric Patients
 
-Ciprofloxacin administered intravenously and/or orally were compared to a cephalosporin for treatment of cUTI and pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
+Ciprofloxacin administered intravenously and/or orally was compared to a cephalosporin for treatment of cUTI and pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
 The trial was conducted in the US, Canada, Argentina, Peru, Costa Rica, Mexico, South Africa, and Germany.
 The duration of therapy was 10 to 21 days (mean duration of treatment was 11 days with a range of 1 to 88 days).
 The primary objective of the study was to assess musculoskeletal and neurological safety.
