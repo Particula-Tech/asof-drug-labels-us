@@ -19,7 +19,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated Maternal and/or Embryo/Fetal Risk
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
@@ -78,7 +78,20 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of INVOKAMET or INVOKAMET XR in pediatric patients under 18 years of age have not been established.
+The safety and effectiveness of INVOKAMET and INVOKAMET XR as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus have been established in pediatric patients aged 10 years and older.
+
+Use of INVOKAMET and INVOKAMET XR for this indication is supported by evidence from a 52-week double-blind, placebo-controlled trial of canagliflozin in 171 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus and in a pediatric pharmacokinetic study [see Clinical Pharmacology (12.3)and Clinical Studies (14.2)].
+The safety profile of pediatric patients treated with canagliflozin was similar to that observed in adults with type 2 diabetes mellitus.
+
+The use of INVOKAMET and INVOKAMET XR for this indication is also supported by evidence from adequate and well-controlled trials of metformin HCl immediate-release tablets in adults with additional data from a controlled clinical trial using metformin HCl immediate-release tablets in pediatric patients 10 to 16 years old with type 2 diabetes mellitus, and pharmacokinetic data with metformin HCl extended-release tablets in adults [see Clinical Pharmacology (12.3)and Clinical Studies (14.1, 14.2)].
+In the clinical trial with pediatric patients receiving metformin HCl immediate-release tablets, adverse reactions with metformin HCl immediate-release tablets were similar to those described in adults [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of INVOKAMET or INVOKAMET XR for glycemic control in patients with type 2 diabetes mellitus have not been established in pediatric patients under 10 years of age.
+
+The safety and effectiveness of INVOKAMET or INVOKAMET XR have not been established in pediatric patients to reduce the risk of:
+
+- major adverse cardiovascular events (cardiovascular death, nonfatal myocardial infarction and nonfatal stroke) in patients with type 2 diabetes mellitus and established cardiovascular disease (CVD).
+- end-stage kidney disease (ESKD), doubling of serum creatinine, cardiovascular (CV) death, and hospitalization for heart failure in patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria greater than 300 mg/day.
 
 ## 8.5 Geriatric Use
 
@@ -103,11 +116,11 @@ Any dose adjustment should be based on a careful assessment of renal function [s
 
 Canagliflozin
 
-The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m 2).
-These patients had less overall glycemic efficacy, and patients treated with canagliflozin 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
+The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included adult patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m 2).
+These patients had less overall glycemic efficacy, and patients treated with canagliflozin 300 mg per day had increases in serum potassium, which were transient and similar by the end of the trial.
 Patients with renal impairment using canagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.4)].
 
-Efficacy and safety studies with canagliflozin did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2[see Clinical Pharmacology (12.3)].
+Efficacy and safety trials with canagliflozin did not enroll adult patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2[see Clinical Pharmacology (12.3)].
 
 Metformin HCl
 

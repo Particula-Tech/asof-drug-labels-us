@@ -77,7 +77,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ## 5.3 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET or INVOKAMET XR, versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
+An increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET or INVOKAMET XR, versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating adult patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
 The amputation data for CANVAS and CANVAS-R are shown in Tables 4 and 5, respectively [see Adverse Reactions (6.1)].
 
@@ -135,7 +135,7 @@ If hypersensitivity reactions occur, discontinue use of INVOKAMET or INVOKAMET X
 
 ## 5.10 Bone Fracture
 
-An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using canagliflozin in the CANVAS trial [see Clinical Studies (14.2)].
+An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in adult patients using canagliflozin in the CANVAS trial [see Clinical Studies (14.3)].
 Consider factors that contribute to fracture risk prior to initiating INVOKAMET or INVOKAMET XR [see Adverse Reactions (6.1)].
 
 ## 5.11 Vitamin B 12Levels

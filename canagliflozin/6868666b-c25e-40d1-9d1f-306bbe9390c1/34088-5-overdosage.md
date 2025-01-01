@@ -4,7 +4,7 @@ Overdose of metformin HCl has occurred, including ingestion of amounts greater t
 Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin HCl use has been established.
 Lactic acidosis has been reported in approximately 32% of metformin HCl overdose cases [see Warnings and Precautions (5.1)].
 
-In the event of an overdose with INVOKAMET or INVOKAMET XR, contact the Poison Control Center.
+In the event of an overdose with INVOKAMET or INVOKAMET XR, contact the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
 Employ the usual supportive measures (e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring, and institute supportive treatment) as dictated by the patient's clinical status.
 Canagliflozin was negligibly removed during a 4-hour hemodialysis session.
 Canagliflozin is not expected to be dialyzable by peritoneal dialysis.

@@ -15,7 +15,7 @@ Table 8: Clinically Significant Drug Interactions with INVOKAMET or INVOKAMET XR
 | Clinical Impact: | Alcohol is known to potentiate the effect of metformin HCl on lactate metabolism. |
 | Intervention: | Warn patients against excessive alcohol intake while receiving INVOKAMET or INVOKAMET XR. |
 | UGT Enzyme Inducers |  |
-| Clinical Impact: | UGT enzyme inducers decrease canagliflozin exposure which may reduce the effectiveness of INVOKAMET or NVOKAMET XR. |
+| Clinical Impact: | UGT enzyme inducers decrease canagliflozin exposure which may reduce the effectiveness of INVOKAMET or INVOKAMET XR. |
 | Intervention: | For patients with eGFR 60 mL/min/1.73 m 2or greater, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating INVOKAMET or INVOKAMET XR with a total daily dose of canagliflozin 100 mg. The total daily dose of canagliflozin may be increased to 300 mg in patients currently tolerating canagliflozin 200 mg and who require additional glycemic control. For patients with eGFR less than 60 mL/min/1.73 m 2, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating canagliflozin 100 mg [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)]. |
 | Examples: | Rifampin, phenytoin, phenobarbital, ritonavir |
 | Insulin or Insulin Secretagogues |  |

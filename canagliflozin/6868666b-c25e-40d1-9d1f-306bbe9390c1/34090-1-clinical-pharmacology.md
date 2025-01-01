@@ -21,7 +21,7 @@ With metformin therapy, insulin secretion remains unchanged while fasting insuli
 
 Canagliflozin
 
-Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in RT Gand increases in urinary glucose excretion were observed.
+Following single and multiple oral doses of canagliflozin in adult patients with type 2 diabetes, dose-dependent decreases in RT Gand increases in urinary glucose excretion were observed.
 From a starting RT Gvalue of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RT Gthroughout the 24-hour period.
 Data from single oral doses of canagliflozin in healthy volunteers indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for doses up to 300 mg once daily.
 Maximal suppression of mean RT Gover the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 trials.
@@ -32,7 +32,7 @@ In this trial, plasma glucose declined in a dose-dependent fashion within the fi
 
 Cardiac Electrophysiology
 
-In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover trial, 60 healthy subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
+In a randomized, double-blind, placebo-controlled, active-comparator, 4-way crossover trial, 60 healthy adult subjects were administered a single oral dose of canagliflozin 300 mg, canagliflozin 1,200 mg (4 times the maximum recommended dose), moxifloxacin, and placebo.
 No meaningful changes in QTc interval were observed with either the recommended dose of 300 mg or the 1,200 mg dose.
 
 ## 12.3 Pharmacokinetics
@@ -65,7 +65,7 @@ Canagliflozin
 
 The mean absolute oral bioavailability of canagliflozin is approximately 65%.
 
-Metformin
+Metformin HCl
 
 The absolute bioavailability of a metformin HCl 500 mg tablet given under fasting conditions is approximately 50% to 60%.
 Trials using single oral doses of metformin HCl 500 to 1,500 mg, and 850 to 2,550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
@@ -82,7 +82,7 @@ Canagliflozin is extensively bound to proteins in plasma (99%), mainly to albumi
 Protein binding is independent of canagliflozin plasma concentrations.
 Plasma protein binding is not meaningfully altered in patients with renal or hepatic impairment.
 
-Metformin
+Metformin HCl
 
 The apparent volume of distribution (V/F) of metformin following single oral doses of metformin HCl 850 mg immediate-release tablets averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
 Metformin partitions into erythrocytes, most likely as a function of time.
@@ -94,7 +94,7 @@ Canagliflozin
 O-glucuronidation is the major metabolic elimination pathway for canagliflozin, which is mainly glucuronidated by UGT1A9 and UGT2B4 to two inactive O-glucuronide metabolites.
 CYP3A4-mediated (oxidative) metabolism of canagliflozin is minimal (approximately 7%) in humans.
 
-Metformin
+Metformin HCl
 
 Intravenous single-dose trials in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion.
 
@@ -111,7 +111,7 @@ Renal clearance of canagliflozin 100 mg and 300 mg doses ranged from 1.30 to 1.5
 
 Mean systemic clearance of canagliflozin was approximately 192 mL/min in healthy subjects following intravenous administration.
 
-Metformin
+Metformin HCl
 
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
@@ -122,20 +122,31 @@ Specific Populations
 Trials characterizing the pharmacokinetics of canagliflozin and metformin after administration of INVOKAMET or INVOKAMET XR were not conducted in patients with renal and hepatic impairment.
 Descriptions of the individual components in this patient population are described below.
 
+Pediatric Patients
+
+Canagliflozin
+
+The pharmacokinetics and pharmacodynamics of canagliflozin were investigated in pediatric patients aged 10 years and older with type 2 diabetes mellitus.
+Oral administration of canagliflozin at 100 mg and 300 mg resulted in exposures and responses consistent with those found in adult patients.
+
+Metformin HCl
+
+After administration of a single oral metformin 500 mg immediate-release tablet with food, geometric mean metformin C maxand AUC differed less than 5% between pediatric type 2 diabetic patients (12–16 years of age) and gender-and weight-matched healthy adults (20–45 years of age), all with normal renal function.
+
 Patients with Renal Impairment
 
 Canagliflozin
 
-A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
+A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in adult subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
 
 Renal impairment did not affect the C maxof canagliflozin.
-Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m 2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m 2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
+Compared to healthy adult subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m 2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m 2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
 The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4)and Warnings and Precautions (5.4)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
-Metformin
+Metformin HCl
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4)and Warnings and Precautions (5.1)].
 
@@ -146,12 +157,12 @@ Patients with Hepatic Impairment
 
 Canagliflozin
 
-Relative to subjects with normal hepatic function, the geometric mean ratios for C maxand AUC ∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate hepatic impairment) following administration of a single 300 mg dose of canagliflozin.
+Relative to adult subjects with normal hepatic function, the geometric mean ratios for C maxand AUC ∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate hepatic impairment) following administration of a single 300 mg dose of canagliflozin.
 
 These differences are not considered to be clinically meaningful.
-There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment [see Warnings and Precautions (5.1)].
+There is no clinical experience in adult patients with Child-Pugh class C (severe) hepatic impairment [see Warnings and Precautions (5.1)].
 
-Metformin
+Metformin HCl
 
 No pharmacokinetic trials of metformin HCl tablets have been conducted in patients with hepatic insufficiency [see Warnings and Precautions (5.1)].
 
@@ -159,9 +170,9 @@ Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
 Canagliflozin
 
-Based on the population PK analysis with data collected from 1,526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
+Based on the population PK analysis with data collected from 1,526 adult subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
 
-Metformin
+Metformin HCl
 
 Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes when analyzed according to gender.
 
@@ -171,7 +182,7 @@ Canagliflozin
 
 Age had no clinically meaningful effect on the pharmacokinetics of canagliflozin based on a population pharmacokinetic analysis [see Adverse Reactions (6.1)and Use in Specific Populations (8.5)].
 
-Metformin
+Metformin HCl
 
 Limited data from controlled pharmacokinetic trials of metformin HCl tablets in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and C maxis increased, compared with healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function [see Warnings and Precautions (5.1, 5.4)and Use in Specific Populations (8.5)].
@@ -234,7 +245,7 @@ Table 10: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | INR | 1.00 (0.98; 1.03) | 1.05 (0.99; 1.12) |  |  |  |
 | QD = once daily; BID = twice daily; INR = International Normalized Ratio |  |  |  |  |  |
 
-Metformin
+Metformin HCl
 
 Table 11: Effect of Co–Administered Drugs on Plasma Metformin Systemic Exposures
 
@@ -258,7 +269,7 @@ Table 12: Effect of Metformin HCl on Co–Administered Drug Systemic Exposures
 | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered Drug Single dose unless otherwise noted | Dose of Metformin HCl | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
 | No dose adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mg AUC 0–24hr reported | 0.78 Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
+| Glyburide | 5 mg | 500 mg AUC 0–24 hr reported | 0.78 Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
