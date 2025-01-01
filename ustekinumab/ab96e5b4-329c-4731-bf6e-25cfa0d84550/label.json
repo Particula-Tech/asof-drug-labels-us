@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "BLA761285",
+    "BLA761331"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Amgen Inc",
+  "package_ndcs": [
+    "55513-055-01",
+    "55513-066-01",
+    "55513-076-01",
+    "55513-076-96",
+    "55513-089-01",
+    "55513-089-96"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab-auub",
+      "name": "WEZLANA"
+    }
+  ],
+  "setid": "ab96e5b4-329c-4731-bf6e-25cfa0d84550",
+  "source": "dailymed"
+}
