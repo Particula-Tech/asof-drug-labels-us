@@ -2,11 +2,11 @@
 
 ## Hepatic Effects
 
-SPORANOX ®has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
+SPORANOX ® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition, and some of these cases developed within the first week of treatment.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-Continued SPORANOX ®use or reinstitution of treatment with SPORANOX ®is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
-(See PRECAUTIONS: Information for Patientsand ADVERSE REACTIONS.)
+Continued SPORANOX ® use or reinstitution of treatment with SPORANOX ® is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS.)
 
 ## Cardiac Dysrhythmias
 
@@ -16,19 +16,19 @@ Concomitant administration of these drugs with SPORANOX ®is contraindicated.
 
 ## Cardiac Disease
 
-SPORANOX ®Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
-SPORANOX ®Capsules should not be used for other indications in patients with evidence of ventricular dysfunction unless the benefit clearly outweighs the risk.
+SPORANOX ® Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
+SPORANOX ® Capsules should not be used for other indications in patients with evidence of ventricular dysfunction unless the benefit clearly outweighs the risk.
 
-For patients with risk factors for congestive heart failure, physicians should carefully review the risks and benefits of SPORANOX ®therapy.
+For patients with risk factors for congestive heart failure, physicians should carefully review the risks and benefits of SPORANOX ® therapy.
 These risk factors include cardiac disease such as ischemic and valvular disease; significant pulmonary disease such as chronic obstructive pulmonary disease; and renal failure and other edematous disorders.
 Such patients should be informed of the signs and symptoms of CHF, should be treated with caution, and should be monitored for signs and symptoms of CHF during treatment.
-If signs or symptoms of CHF appear during administration of SPORANOX ®Capsules, discontinue administration.
+If signs or symptoms of CHF appear during administration of SPORANOX ® Capsules, discontinue administration.
 
 Itraconazole has been shown to have a negative inotropic effect.
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 
-SPORANOX ®has been associated with reports of congestive heart failure.
+SPORANOX ® has been associated with reports of congestive heart failure.
 In postmarketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
 
 Calcium channel blockers can have negative inotropic effects which may be additive to those of itraconazole.
@@ -37,7 +37,7 @@ Therefore, caution should be used when co-administering itraconazole and calcium
 Concomitant administration of SPORANOX ®and felodipine or nisoldipine is contraindicated.
 
 Cases of CHF, peripheral edema, and pulmonary edema have been reported in the postmarketing period among patients being treated for onychomycosis and/or systemic fungal infections.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Postmarketing Experiencefor more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Postmarketing Experience for more information.)
 
 ## Pseudoaldosteronism
 
@@ -94,7 +94,7 @@ For more information concerning the use of itraconazole in cystic fibrosis patie
 ## Hearing Loss
 
 Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactionsand PRECAUTIONS: Drug Interactions).
 The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
 
 ## Information for Patients
@@ -120,8 +120,8 @@ The hearing loss usually resolves when treatment is stopped, but can persist in 
 
 Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
 Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).
-Consequently, SPORANOX ®has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
-Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, T orsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
+Consequently, SPORANOX ® has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
+Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, torsade de pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
 Table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list.
 
@@ -129,7 +129,7 @@ Refer to the approved product labeling to become familiar with the interaction p
 
 Although many of the clinical drug interactions in Table 1 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX ®.
 
-Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentrations
+Table 1: Drug Interactions with SPORANOX ® that Affect Concomitant Drug Concentrations
 
 | Examples of Concomitant Drugs Within Class |  | Prevention or Management |
 | --- | --- | --- |
@@ -137,58 +137,58 @@ Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentr
 | Alpha Blockers |  |  |
 | Alfuzosin Silodosin Tamsulosin |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
 | Analgesics |  |  |
-| Methadone |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
-| Fentanyl |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
+| Methadone |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
+| Fentanyl |  | Not recommended during and 2 weeks after SPORANOX ® treatment. |
 | Alfentanil Buprenorphine (IV and sublingual) Oxycodone Based on clinical drug interaction information with itraconazole. Sufentanil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antiarrhythmics |  |  |
-| Disopyramide Dofetilide Dronedarone Quinidine |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
+| Disopyramide Dofetilide Dronedarone Quinidine |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
 | Digoxin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
-| Bedaquiline Based on 400 mg bedaquiline once daily for 2 weeks. |  | Concomitant SPORANOX ®not recommended for more than 2 weeks at any time during bedaquiline treatment. |
-| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX ®treatment. See also Table 2. |
+| Bedaquiline Based on 400 mg bedaquiline once daily for 2 weeks. |  | Concomitant SPORANOX ® not recommended for more than 2 weeks at any time during bedaquiline treatment. |
+| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX ® treatment. See also Table 2. |
 | Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 2. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticoagulants and Antiplatelets |  |  |
-| Ticagrelor |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
-| Apixaban Rivaroxaban Vorapaxar |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
+| Ticagrelor |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
+| Apixaban Rivaroxaban Vorapaxar |  | Not recommended during and 2 weeks after SPORANOX ® treatment. |
 | Cilostazol Dabigatran Warfarin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticonvulsants |  |  |
 | Carbamazepine |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX ®treatment. See also Table 2. |
 | Antidiabetic Drugs |  |  |
 | Repaglinide Saxagliptin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antihelminthics, Antifungals and Antiprotozoals |  |  |
-| Isavuconazonium |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
+| Isavuconazonium |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
 | Praziquantel |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Artemether-lumefantrine Quinine |  | Monitor for adverse reactions. |
 | Antimigraine Drugs |  |  |
-| Ergot alkaloids (e.g., dihydroergotamine, ergotamine) |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
+| Ergot alkaloids (e.g., dihydroergotamine, ergotamine) |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
 | Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antineoplastics |  |  |
-| Irinotecan |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
+| Irinotecan |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
 | Venetoclax |  | Contraindicated during the dose initiation and ramp-up phase in patients with CLL/SLL. Refer to the venetoclax prescribing information for dosing and safety monitoring instructions. |
-| Mobocertinib |  | Avoid use during and 2 weeks after SPORANOX ®treatment. |
-| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib Docetaxel | Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Avoid use during and 2 weeks after SPORANOX ®treatment. |
+| Mobocertinib |  | Avoid use during and 2 weeks after SPORANOX ® treatment. |
+| Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib Docetaxel | Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Avoid use during and 2 weeks after SPORANOX ® treatment. |
 | Entrectinib Pemigatinib Talazoparib |  | Refer to the entrectinib, pemigatinib and talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |
 | Glasdegib |  | Refer to the glasdegib prescribing information for safety monitoring if concomitant use cannot be avoided. |
 | Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Tretinoin (oral) Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
 | Alprazolam Aripiprazole Buspirone Cariprazine Diazepam Haloperidol | Midazolam (IV) Quetiapine Ramelteon Risperidone Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Zopiclone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
-| Lurasidone Midazolam (oral) Pimozide Triazolam |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
+| Lurasidone Midazolam (oral) Pimozide Triazolam |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
 | Antivirals |  |  |
 | Daclatasvir Indinavir Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir, see also Table 2. |
 | Cobicistat Elvitegravir (ritonavir-boosted) Ombitasvir/Paritaprevir/Ritonavir with or without Dasabuvir Ritonavir Saquinavir (unboosted) |  | Monitor for adverse reactions. See also Table 2. |
-| Elbasvir/grazoprevir |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
+| Elbasvir/grazoprevir |  | Not recommended during and 2 weeks after SPORANOX ® treatment. |
 | Glecaprevir/pibrentasvir |  | Monitor for adverse reactions. |
 | Tenofovir disoproxil fumarate |  | Monitor for adverse reactions. |
 | Beta Blockers |  |  |
 | Nadolol |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Calcium Channel Blockers |  |  |
-| Felodipine Nisoldipine |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
+| Felodipine Nisoldipine |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
 | Diltiazem Other dihydropyridines Verapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem, see also Table 2. |
 | Cardiovascular Drugs, Miscellaneous |  |  |
-| Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after SPORANOX ®treatment. |
-| Aliskiren Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after SPORANOX ®treatment. For sildenafil and tadalafil, see also Urologic Drugsbelow. |
+| Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after SPORANOX ® treatment. |
+| Aliskiren Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after SPORANOX ® treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
 | Bosentan Guanfacine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Contraceptives CYP3A4 inhibitors (including itraconazole) may increase systemic contraceptive hormone concentrations. |  |  |
 | Dienogest Ulipristal |  | Monitor for adverse reactions. |
@@ -214,9 +214,9 @@ Table 1: Drug Interactions with SPORANOX ®that Affect Concomitant Drug Concentr
 | Fesoterodine |  | Patients with moderate to severe renal or hepatic impairment: Contraindicated during and 2 weeks after SPORANOX ®treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Solifenacin |  | Patients with severe renal or moderate to severe hepatic impairment: Contraindicated during and 2 weeks after SPORANOX ®treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Darifenacin Vardenafil |  | Not recommended during and 2 weeks after SPORANOX ®treatment. |
-| Dutasteride Oxybutynin Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugsabove. |
+| Dutasteride Oxybutynin Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
 | Miscellaneous Drugs and Other Substances |  |  |
-| Colchicine |  | Patients with renal or hepatic impairment:Contraindicated during and 2 weeks after SPORANOX ®treatment. Other patients: Not recommended during and 2 weeks after SPORANOX ®treatment. |
+| Colchicine |  | Patients with renal or hepatic impairment: Contraindicated during and 2 weeks after SPORANOX ® treatment. Other patients: Not recommended during and 2 weeks after SPORANOX ® treatment. |
 | Eliglustat |  | CYP2D6 EMs EMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizerstaking a strong or moderate CYP2D6 inhibitor, CYP2D6 IMs, or CYP2D6 PMs: Contraindicated during and 2 weeks after SPORANOX ®treatment. CYP2D6 EMs not taking a strong or moderate CYP2D6 inhibitor: Monitor for adverse reactions. Eliglustat dose reduction may be necessary. |
 | Lumacaftor/Ivacaftor |  | Not recommended 2 weeks before, during, and 2 weeks after SPORANOX ®treatment. |
 | Alitretinoin (oral) Cabergoline Cannabinoids Cinacalcet Galantamine Ivacaftor |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
@@ -322,12 +322,12 @@ At a dosage level of 80 mg/kg/day (2 times the MRHD based on body surface area c
 
 ## Geriatric Use
 
-Clinical studies of SPORANOX ®Capsules did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
-It is advised to use SPORANOX ®Capsules in these patients only if it is determined that the potential benefit outweighs the potential risks.
+Clinical studies of SPORANOX ® Capsules did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
+It is advised to use SPORANOX ® Capsules in these patients only if it is determined that the potential benefit outweighs the potential risks.
 In general, it is recommended that the dose selection for an elderly patient should be taken into consideration, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Transient or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactionsand PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
 
 ## HIV-Infected Patients
 
@@ -338,7 +338,7 @@ Because hypochlorhydria has been reported in HIV-infected individuals, the absor
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 The exposure of itraconazole may be lower in some patients with renal impairment.
 Caution should be exercised when itraconazole is administered in this patient population and dose adjustment may be needed.
-(See CLINICAL PHARMACOLOGY: Special Populationsand DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY: Special Populations and DOSAGE AND ADMINISTRATION.)
 
 ## Hepatic Impairment
 
@@ -347,6 +347,6 @@ Caution should be exercised when this drug is administered in this patient popul
 It is recommended that patients with impaired hepatic function be carefully monitored when taking SPORANOX ®.
 It is recommended that the prolonged elimination half-life of itraconazole observed in the single oral dose clinical trial with itraconazole capsules in cirrhotic patients be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
 
-In patients with elevated or abnormal liver enzymes or active liver disease, or who have experienced liver toxicity with other drugs, treatment with SPORANOX ®is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
+In patients with elevated or abnormal liver enzymes or active liver disease, or who have experienced liver toxicity with other drugs, treatment with SPORANOX ® is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
 It is recommended that liver function monitoring be done in patients with pre-existing hepatic function abnormalities or those who have experienced liver toxicity with other medications.
-(See CLINICAL PHARMACOLOGY: Special Populationsand DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY: Special Populations and DOSAGE AND ADMINISTRATION.)

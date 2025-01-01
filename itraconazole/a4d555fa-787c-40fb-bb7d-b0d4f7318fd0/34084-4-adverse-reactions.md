@@ -2,11 +2,11 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-SPORANOX ®has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
+SPORANOX ® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-The risks and benefits of SPORANOX ®use should be reassessed.
-(See WARNINGS: Hepatic Effectsand PRECAUTIONS: Hepatotoxicityand Information for Patients.)
+The risks and benefits of SPORANOX ® use should be reassessed.
+(See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
 
 ## Adverse Events in the Treatment of Systemic Fungal Infections
 
@@ -92,7 +92,7 @@ The following adverse events occurred with an incidence of greater than or equal
 
 ## Adverse Events Reported from Other Clinical Trials
 
-In addition, the following adverse drug reaction was reported in patients who participated in SPORANOX ® Capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
+In addition, the following adverse drug reaction was reported in patients who participated in SPORANOX ® Capsules clinical trials: Hepatobiliary Disorders:hyperbilirubinemia.
 
 The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ® Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
 
@@ -114,7 +114,7 @@ Respiratory, Thoracic and Mediastinal Disorders: dysphonia, cough;
 
 Skin and Subcutaneous Tissue Disorders: rash erythematous, hyperhidrosis;
 
-Vascular Disorders:hypotension
+Vascular Disorders: hypotension
 
 ## Postmarketing Experience
 
@@ -130,7 +130,7 @@ Table 6: Postmarketing Reports of Adverse Drug Reactions
 | Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
-| Cardiac Disorders: | Congestive heart failure |
+| Cardiac Disorders: | Congestive heart failure, bradycardia |
 | Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema, dyspnea |
 | Gastrointestinal Disorders: | Pancreatitis, dysgeusia |
 | Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis |
@@ -144,4 +144,4 @@ Table 6: Postmarketing Reports of Adverse Drug Reactions
 There is limited information on the use of SPORANOX ®during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during postmarketing experience.
 A causal relationship with SPORANOX ®has not been established.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactionsfor more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
