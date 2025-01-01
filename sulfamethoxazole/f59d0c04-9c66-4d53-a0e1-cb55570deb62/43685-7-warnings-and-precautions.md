@@ -27,6 +27,13 @@ BACTRIM should be discontinued at the first appearance of skin rash or any sign 
 A skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis, or serious blood disorders (see PRECAUTIONSand ADVERSE REACTIONS).
 Clinical signs, such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice may be early indications of serious reactions.
 
+Hemophagocytic Lymphohistiocytosis
+
+Cases of hemophagocytic lymphohistiocytosis (HLH) have been reported in patients treated with sulfamethoxazole-trimethoprim.
+HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
+Signs and symptoms of HLH may include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver enzyme and coagulation abnormalities.
+If HLH is suspected, discontinue BACTRIM immediately and institute appropriate management.
+
 ## Streptococcal Infections and Rheumatic Fever
 
 The sulfonamides should not be used for treatment of group A β-hemolytic streptococcal infections.
@@ -110,14 +117,14 @@ Patients who are “slow acetylators” may be more prone to idiosyncratic react
 
 ## Information for Patients
 
-Hypersensitivity and Other Serious or Fatal Reactions: Advise patients to stop taking BACTRIM immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice and to contact their healthcare provider as soon as possible (see WARNINGS and ADVERSE REACTIONS).
+Hypersensitivity and Other Serious or Fatal Reactions:Advise patients to stop taking BACTRIM immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice and to contact their healthcare provider as soon as possible (see WARNINGS and ADVERSE REACTIONS).
 
-Antibacterial Resistance: Patients should be counseled that antibacterial drugs including BACTRIM (sulfamethoxazole and trimethoprim) tablets should only be used to treat bacterial infections.
+Antibacterial Resistance:Patients should be counseled that antibacterial drugs including BACTRIM (sulfamethoxazole and trimethoprim) tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When BACTRIM (sulfamethoxazole and trimethoprim) tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by BACTRIM (sulfamethoxazole and trimethoprim) tablets or other antibacterial drugs in the future.
 
-Crystalluria and Stone Formation: Advise patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
+Crystalluria and Stone Formation:Advise patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
 
 Diarrhea: Advise patients that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -173,15 +180,15 @@ Sulfamethoxazole was not carcinogenic when assessed in a 26-week tumorigenic mou
 Mutagenesis
 
 In vitroreverse mutation bacterial tests according to the standard protocol have not been performed with sulfamethoxazole and trimethoprim in combination.
-An in vitro chromosomal aberration test in human lymphocytes with sulfamethoxazole and trimethoprim was negative.
-In in vitro and in vivo tests in animal species, sulfamethoxazole and trimethoprim did not damage chromosomes.
-In vivo micronucleus assays were positive following oral administration of sulfamethoxazole and trimethoprim.
+An in vitrochromosomal aberration test in human lymphocytes with sulfamethoxazole and trimethoprim was negative.
+In in vitroand in vivotests in animal species, sulfamethoxazole and trimethoprim did not damage chromosomes.
+In vivomicronucleus assays were positive following oral administration of sulfamethoxazole and trimethoprim.
 Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities.
 
-Sulfamethoxazole alone was positive in an in vitro reverse mutation bacterial assay and in in vitro micronucleus assays using cultured human lymphocytes.
+Sulfamethoxazole alone was positive in an in vitroreverse mutation bacterial assay and in in vitromicronucleus assays using cultured human lymphocytes.
 
-Trimethoprim alone was negative in in vitro reverse mutation bacterial assays and in in vitro chromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation.
-In in vitro Comet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive.
+Trimethoprim alone was negative in in vitroreverse mutation bacterial assays and in in vitrochromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation.
+In in vitroComet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive.
 In mice following oral administration of trimethoprim, no DNA damage in Comet assays of liver, kidney, lung, spleen, or bone marrow was recorded.
 
 Impairment of Fertility

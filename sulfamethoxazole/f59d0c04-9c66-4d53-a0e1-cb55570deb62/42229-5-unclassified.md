@@ -4,7 +4,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 All trademarks are property of their respective owners.
 
-© 2024 Sun Pharmaceutical Industries, Inc.
+© 2024 Sun Pharmaceutical Industries, Inc. All rights reserved.
 
 Distributed by:
 
@@ -13,4 +13,4 @@ Sun Pharmaceutical Industries, Inc.
 Cranbury, NJ 08512
 
 Rev.
-07, July 2024
+08, December 2024
