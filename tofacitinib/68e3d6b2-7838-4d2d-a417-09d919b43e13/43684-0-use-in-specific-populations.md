@@ -4,20 +4,14 @@ All information provided in this section is applicable to XELJANZ/XELJANZ XR/XEL
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to XELJANZ/XELJANZ XR/XELJANZ Oral Solution during pregnancy.
-Patients should be encouraged to enroll in the XELJANZ/XELJANZ XR/XELJANZ Oral Solution pregnancy registry if they become pregnant.
-To enroll or obtain information from the registry, patients can call the toll free number 1-877-311-8972.
-
 Risk Summary
 
-Available data with XELJANZ/XELJANZ XR/XELJANZ Oral Solution use in pregnant women are insufficient to establish a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+The available data with XELJANZ/XELJANZ XR/XELJANZ Oral Solution from a pregnancy exposure registry that enrolled 11 exposed patients, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug‑associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
 There are risks to the mother and the fetus associated with rheumatoid arthritis and UC in pregnancy (see Clinical Considerations).
 In animal reproduction studies, fetocidal and teratogenic effects were noted when pregnant rats and rabbits received tofacitinib during the period of organogenesis at exposures multiples of 73-times and 6.3-times the maximum recommended dose of 10 mg twice daily, respectively.
 Further, in a peri- and post-natal study in rats, tofacitinib resulted in reductions in live litter size, postnatal survival, and pup body weights at exposure multiples of approximately 73-times the recommended dose of 5 mg twice daily and approximately 36 times the maximum recommended dose of 10 mg twice daily, respectively (see Data).
 
-The estimated background risks of major birth defects and miscarriage for the indicated populations are unknown.
+The background risks of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The background risks in the U.S. general population of major birth defects and miscarriages are 2 to 4% and 15 to 20% of clinically recognized pregnancies, respectively.
 
@@ -50,9 +44,9 @@ There was no effect on behavioral and learning assessments, sexual maturation or
 
 Risk Summary
 
-There are no data on the presence of tofacitinib in human milk, the effects on a breastfed infant, or the effects on milk production.
-Tofacitinib is present in the milk of lactating rats (see Data).
-When a drug is present in animal milk, it is likely that the drug will be present in human milk.
+Based on published data, tofacitinib is present in human milk.
+Data on the effects of tofacitinib on the breastfed infant is limited to a small number of cases with no reported adverse effects.
+There are no data on the effects on milk production.
 Given the serious adverse reactions seen in patients treated with XELJANZ/XELJANZ XR/XELJANZ Oral Solution, such as increased risk of serious infections, advise patients that breastfeeding is not recommended during treatment and for at least 18 hours after the last dose of XELJANZ/XELJANZ Oral Solution or 36 hours after the last dose of XELJANZ XR (approximately 6 elimination half-lives).
 
 Data

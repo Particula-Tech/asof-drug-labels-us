@@ -126,7 +126,7 @@ Do not throw away the oral dosing syringe.
 LAB-1422-2.0
 
 This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.pfizer.com
+For the most recent prescribing information, please visit www.pfizer.com.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Approved: May 2024
