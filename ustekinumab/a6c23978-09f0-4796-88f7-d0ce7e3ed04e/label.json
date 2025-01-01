@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA761285",
+    "BLA761331"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Optum Health Solutions (Ireland) Limited",
+  "package_ndcs": [
+    "84612-055-01",
+    "84612-066-01",
+    "84612-076-01",
+    "84612-089-01",
+    "84612-855-01",
+    "84612-876-01",
+    "84612-889-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab-auub",
+      "name": "WEZLANA"
+    }
+  ],
+  "setid": "a6c23978-09f0-4796-88f7-d0ce7e3ed04e",
+  "source": "dailymed"
+}
