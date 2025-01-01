@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "BLA761198"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "Bio-Thera Solutions, Ltd.",
+  "package_ndcs": [
+    "82143-001-01",
+    "82143-002-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab",
+      "name": "Avzivi"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab-tnjn",
+      "name": "Avzivi"
+    }
+  ],
+  "setid": "a3976cf9-9edb-4ca2-9375-9bcd2e32f5b4",
+  "source": "dailymed"
+}
