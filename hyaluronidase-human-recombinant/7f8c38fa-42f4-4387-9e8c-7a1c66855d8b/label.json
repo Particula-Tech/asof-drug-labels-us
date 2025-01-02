@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761381"
+  ],
+  "inn": "hyaluronidase-human-recombinant",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
+  "package_ndcs": [
+    "0003-6120-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "nivolumab and hyaluronidase-nvhy",
+      "name": "OPDIVO QVANTIG"
+    }
+  ],
+  "setid": "7f8c38fa-42f4-4387-9e8c-7a1c66855d8b",
+  "source": "dailymed"
+}
