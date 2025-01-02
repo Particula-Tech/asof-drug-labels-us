@@ -30,7 +30,7 @@ Caution should be exercised in such individuals.
 PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
 Because of its relative beta1-selectivity, however, bisoprolol may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate other antihypertensive treatment.
 Since beta1-selectivity is not absolute, the lowest possible dose of bisoprolol fumarate tablets should be used, with therapy starting at 2.5 mg.
-A beta2 agonist (bronchodilator) should be made available.
+A beta2agonist (bronchodilator) should be made available.
 
 ## Major Surgery
 
@@ -52,7 +52,7 @@ Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the sym
 
 ## Impaired Renal or Hepatic Function
 
-Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
 
@@ -90,7 +90,7 @@ Long-term studies were conducted with oral bisoprolol fumarate administered in t
 No evidence of carcinogenic potential was seen in mice dosed up to 250 mg/kg/day or rats dosed up to 125 mg/kg/day.
 On a body weight basis, these doses are 625 and 312 times, respectively, the maximum recommended human dose (MRHD) of 20 mg, (or 0.4 mg/kg/day based on a 50 kg individual); on a body surface area basis, these doses are 59 times (mice) and 64 times (rats) the MRHD.
 The mutagenic potential of bisoprolol fumarate was evaluated in the microbial mutagenicity (Ames) test, the point mutation and chromosome aberration assays in Chinese hamster V79 cells, the unscheduled DNA synthesis test, the micronucleus test in mice and the cytogenetics assay in rats.
-There was no evidence of mutagenic potential in these in vitro and in vivo assays.
+There was no evidence of mutagenic potential in these in vitroand in vivoassays.
 
 Reproduction studies in rats did not show any impairment of fertility at doses up to 150 mg/kg/day of bisoprolol fumarate, or 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
 

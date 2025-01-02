@@ -10,9 +10,9 @@ Drug effect is calculated by subtracting the placebo effect from the overall cha
 |  | Placebo | 5 mg | 10 mg | 20 mg |
 | n= | 61 | 61 | 61 | 61 |
 | Total ΔBP (mm Hg) | 5.4/3.2 | 10.4/8.0 | 11.2/10.9 | 12.8/11.9 |
-| Drug Effecta | - | 5.0/4.8 | 5.8/7.7 | 7.4/8.7 |
+| Drug Effect a | - | 5.0/4.8 | 5.8/7.7 | 7.4/8.7 |
 | Total ΔHR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
-| Drug Effecta | - | 6.7 | 8.2 | 10.8 |
+| Drug Effect a | - | 6.7 | 8.2 | 10.8 |
 | Study B |  | Bisoprolol Fumarate |  |  |
 |  | Placebo | 2.5 mg | 10 mg |  |
 | n= | 56 | 59 | 62 |  |
@@ -21,7 +21,7 @@ Drug effect is calculated by subtracting the placebo effect from the overall cha
 | Total ΔHR (bpm) | 1.6 | 3.8 | 10.7 |  |
 | Drug Effect* | - | 2.2 | 9.1 |  |
 
-a Observed total change from baseline minus placebo.
+aObserved total change from baseline minus placebo.
 
 Blood pressure responses were seen within one week of treatment and changed little thereafter.
 They were sustained for 12 weeks and for over a year in studies of longer duration.

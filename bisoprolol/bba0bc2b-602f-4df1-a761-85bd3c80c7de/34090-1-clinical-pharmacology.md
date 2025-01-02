@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-Bisoprolol fumarate is a beta1-selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range.
-Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta2-adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose.
+Bisoprolol fumarate is a beta 1-selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range.
+Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2-adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose.
 
 ## Pharmacokinetics and Metabolism
 
@@ -49,11 +49,11 @@ Effects persisted for 24 hours at doses equal to or greater than 5 mg.
 
 Electrophysiology studies in man have demonstrated that bisoprolol fumarate tablets significantly decreases heart rate, increases sinus node recovery time, prolongs AV node refractory periods, and, with rapid atrial stimulation, prolongs AV nodal conduction.
 
-Beta1-selectivity of bisoprolol fumarate tablets has been demonstrated in both animal and human studies.
-No effects at therapeutic doses on beta2-adrenoceptor density have been observed.
+Beta 1-selectivity of bisoprolol fumarate tablets has been demonstrated in both animal and human studies.
+No effects at therapeutic doses on beta 2-adrenoceptor density have been observed.
 Pulmonary function studies have been conducted in healthy volunteers, asthmatics and patients with chronic obstructive pulmonary disease (COPD).
 Doses of bisoprolol fumarate tablets ranged from 5 mg to 60 mg, atenolol from 50 mg to 200 mg, metoprolol from 100 mg to 200 mg, and propranolol from 40 mg to 80 mg.
-In some studies, slight, asymptomatic increases in airways resistance (AWR) and decreases in forced expiratory volume (FEV1) were observed with doses of bisoprolol fumarate 20 mg and higher, similar to the small increases in AWR also noted with the other cardioselective beta-blockers.
+In some studies, slight, asymptomatic increases in airways resistance (AWR) and decreases in forced expiratory volume (FEV 1) were observed with doses of bisoprolol fumarate 20 mg and higher, similar to the small increases in AWR also noted with the other cardioselective beta-blockers.
 The changes induced by beta-blockade with all agents were reversed by bronchodilator therapy.
 
 Bisoprolol fumarate tablets had minimal effect on serum lipids during antihypertensive studies.
