@@ -97,7 +97,7 @@ In the randomized phase of the trial, adverse reactions that occurred in at leas
 ﻿Juvenile Animal Data
 
 In a juvenile animal study in which lamotrigine (oral doses of 0, 5, 15, or 30 mg/kg) was administered to young rats from postnatal day 7 to 62, decreased viability and growth were seen at the highest dose tested and long-term neurobehavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
-The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m2 basis.
+The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m 2basis.
 
 ### 8.5 Geriatric Use
 

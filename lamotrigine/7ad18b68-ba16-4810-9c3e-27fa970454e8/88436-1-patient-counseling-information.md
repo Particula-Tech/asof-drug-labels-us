@@ -10,7 +10,7 @@ Hemophagocytic Lymphohistiocytosis
 
 Prior to initiation of treatment with SUBVENITE, inform patients that excessive immune activation may occur with SUBVENITE and that they should report signs or symptoms such as fever, rash, or lymphadenopathy to a healthcare provider immediately.
 
-MultiorganHypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
+Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
 Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with SUBVENITE.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
@@ -68,3 +68,5 @@ Potential Medication Errors
 
 To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of SUBVENITE, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides depictions of the SUBVENITE tablets.
+
+Dispense with Medication Guide available at: https://subvenitestarterkits.com/

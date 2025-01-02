@@ -13,11 +13,11 @@ Trial endpoints were completion of all weeks of trial treatment or meeting an es
 Criteria for escape relative to baseline were: (1) doubling of average monthly seizure count, (2) doubling of highest consecutive 2-day seizure frequency, (3) emergence of a new seizure type (defined as a seizure that did not occur during the 8-week baseline) that is more severe than seizure types that occur during study treatment, or (4) clinically significant prolongation of generalized tonic-clonic seizures.
 The primary efficacy variable was the proportion of patients in each treatment group who met escape criteria.
 
-The percentages of patients who met escape criteria were 42% (32/76) in the group receiving SUBVENITE and 69% (55/80) in the valproate group.
-The difference in the percentage of patients meeting escape criteria was statistically significant (P=0.0012) in favor of SUBVENITE.
+The percentages of patients who met escape criteria were 42% (32/76) in the group receiving lamotrigine and 69% (55/80) in the valproate group.
+The difference in the percentage of patients meeting escape criteria was statistically significant (P=0.0012) in favor of lamotrigine.
 No differences in efficacy based on age, sex, or race were detected.
 
-Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this trial was to demonstrate the effectiveness and safety of monotherapy with SUBVENITE, and cannot be interpreted to imply the superiority of SUBVENITE to an adequate dose of valproate.
+Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this trial was to demonstrate the effectiveness and safety of monotherapy with lamotrigine, and cannot be interpreted to imply the superiority of lamotrigine to an adequate dose of valproate.
 
 Adjunctive Therapy with Lamotrigine in Adults with Partial-Onset Seizures
 

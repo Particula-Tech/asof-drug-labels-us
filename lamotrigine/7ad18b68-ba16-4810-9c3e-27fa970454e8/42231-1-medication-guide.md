@@ -1,11 +1,12 @@
+Dispense with Medication Guide available at: https://subvenitestarterkits.com/
+
 MEDICATION GUIDE
 
 SUBVENITE (Sub-VE-nite) lamotrigine tablets, USP
 
 What is the most important information I should know about SUBVENITE?
 
-1.
-SUBVENITE may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+1.SUBVENITE may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with SUBVENITE, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -29,6 +30,7 @@ A healthcare provider should examine you to decide if you should continue taking
 
 2.
 Other serious reactions, including serious blood problems or liver problems.
+
 SUBVENITE can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
 You may or may not have a rash with these types of reactions.
 Call your healthcare provider right away if you have any of these symptoms:
@@ -47,7 +49,9 @@ Call your healthcare provider right away if you have any of these symptoms:
 
 3.
 In patients with known heart problems, the use of SUBVENITE may lead to a fast heart beat.
-Call your healthcare provider right away if you:• have a fast, slow, or pounding heart beat. • feel your heart skip a beat. • have shortness of breath. • have chest pain. • feel lightheaded.
+Call your healthcare provider right away if you:
+
+• have a fast, slow, or pounding heart beat. • feel your heart skip a beat. • have shortness of breath. • have chest pain. • feel lightheaded.
 
 4.
 Like other antiepileptic drugs, SUBVENITE may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
@@ -98,7 +102,8 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Meningitis has many causes other than SUBVENITE, which your doctor would check for if you developed meningitis while taking SUBVENITE.
 
-SUBVENITE can cause other serious side effects.For more information ask your healthcare provider or pharmacist.
+SUBVENITE can cause other serious side effects.
+For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled "What are the possible side effects of SUBVENITE?"
 
@@ -117,8 +122,7 @@ Immediately call your pharmacist if you receive a SUBVENITE tablet that does not
 
 What is SUBVENITE?
 
-• SUBVENITE is a prescription medicine used: o together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older. o alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older. o for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine. • It is not known if SUBVENITE is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression. • It is not known if SUBVENITE is safe or effective when used alone as the first treatment of seizures. • It is not known if SUBVENITE is safe or effective for people with mood episodes who have not already been treated with other medicines.
-SUBVENITE should not be used for acute treatment of manic or mixed mood episodes.
+• SUBVENITE is a prescription medicine used: o together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older. o alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older. o for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine. • It is not known if SUBVENITE is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression. • It is not known if SUBVENITE is safe or effective when used alone as the first treatment of seizures. • It is not known if SUBVENITE is safe or effective for people with mood episodes who have not already been treated with other medicines. • SUBVENITE should not be used for acute treatment of manic or mixed mood episodes.
 
 Do not take SUBVENITE:
 
@@ -243,7 +247,7 @@ The brands listed are trademarks of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 

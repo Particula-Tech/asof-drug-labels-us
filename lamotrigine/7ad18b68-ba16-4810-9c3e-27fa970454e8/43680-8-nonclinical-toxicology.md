@@ -8,4 +8,4 @@ The highest doses tested are less than the human dose of 400 mg/day on a body su
 Lamotrigine was negative in in vitrogene mutation (Ames and mouse lymphoma tk) assays and in clastogenicity (in vitrohuman lymphocyte and in vivorat bone marrow) assays.
 
 No evidence of impaired fertility was detected in rats given oral doses of lamotrigine up to 20 mg/kg/day.
-The highest dose tested is less than the human dose of 400 mg/day on a mg/m 2basis.
+The highest dose tested is less than the human dose of 400 mg/day on a mg/m 2 basis.

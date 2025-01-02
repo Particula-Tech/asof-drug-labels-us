@@ -205,6 +205,7 @@ Infrequent:Flushing, hot flashes, hypertension, palpitations, postural hypotensi
 Dermatological
 
 Infrequent:Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, urticaria.
+
 Rare:Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, vesiculobullous rash.
 
 Digestive System
@@ -282,7 +283,7 @@ Pancreatitis.
 
 Immunologic
 
-Lupus-like reaction, vasculitis.
+Hypogammaglobulinemia, lupus-like reaction, vasculitis.
 
 Lower Respiratory
 
