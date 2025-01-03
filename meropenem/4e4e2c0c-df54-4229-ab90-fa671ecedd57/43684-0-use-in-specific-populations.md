@@ -16,44 +16,44 @@ The no-observed-adverse-effect-level (NOAEL) for fetal toxicity in this study wa
 Meropenem administered intravenously to pregnant Cynomolgus monkeys during organogenesis from Day 20 to 50 after mating at doses of 120, 240, and 360 mg/kg/day did not produce maternal or fetal toxicity at the NOAEL dose of 360 mg/kg/day (approximately 2.3 times the MRHD based on body surface area comparison).
 
 In a peri-postnatal study in rats described in the published literature2, intravenous meropenem was administered to dams from Gestation Day 17 until Lactation Day 21 at doses of 240, 500, and 1000 mg/kg/day.
-There were no adverse effects in the dams and no adverse effects in the first generation offspring (including developmental, behavioral, and functional assessments and reproductive parameters) except that female offspring exhibited lowered body weights which continued during gestation and nursing of the second generation offspring.
-Second generation offspring showed no meropenem-related effects.
+There were no adverse effects in the dams and no adverse effects in the first-generation offspring (including developmental, behavioral, and functional assessments and reproductive parameters) except that female offspring exhibited lowered body weights which continued during gestation and nursing of the second-generation offspring.
+Second-generation offspring showed no meropenem-related effects.
 The NOAEL value was considered to be 1000 mg/kg/day (approximately 3.2 times the MRHD based on body surface area comparisons).
 
 ## 8.2 Lactation
 
 Risk Summary Meropenem has been reported to be excreted in human milk.
 No information is available on the effects of meropenem on the breast-fed child or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Meropenem for Injection, USP and any potential adverse effects on the breast-fed child from Meropenem for Injection, USP or from the underlying maternal conditions.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Meropenem for Injection and any potential adverse effects on the breast-fed child from Meropenem for Injection or from the underlying maternal conditions.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Meropenem for Injection, USP have been established for pediatric patients 3 months of age and older with complicated skin and skin structure infections and bacterial meningitis, and for pediatric patients of all ages with complicated intra-abdominal infections.
+The safety and effectiveness of Meropenem for Injection have been established for pediatric patients 3 months of age and older with complicated skin and skin structure infections and bacterial meningitis, and for pediatric patients of all ages with complicated intra-abdominal infections.
 
 Skin and Skin Structure Infections
 
-Use of Meropenem for Injection, USP in pediatric patients 3 months of age and older with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study in adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+Use of Meropenem for Injection in pediatric patients 3 months of age and older with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study in adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 
 Intra-abdominal Infections
 
-Use of Meropenem for Injection, USP in pediatric patients 3 months of age and older with intra-abdominal infections is supported by evidence from adequate and well-controlled studies in adults with additional data from pediatric pharmacokinetics studies and controlled clinical trials in pediatric patients.
-Use of Meropenem for Injection, USP in pediatric patients less than 3 months of age with intra-abdominal infections is supported by evidence from adequate and well-controlled studies in adults with additional data from a pediatric pharmacokinetic and safety study [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Use of Meropenem for Injection in pediatric patients 3 months of age and older with intra-abdominal infections is supported by evidence from adequate and well-controlled studies in adults with additional data from pediatric pharmacokinetics studies and controlled clinical trials in pediatric patients.
+Use of Meropenem for Injection in pediatric patients less than 3 months of age with intra-abdominal infections is supported by evidence from adequate and well-controlled studies in adults with additional data from a pediatric pharmacokinetic and safety study [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
 Bacterial Meningitis
 
-Use of Meropenem for Injection, USP in pediatric patients 3 months of age and older with bacterial meningitis is supported by evidence from adequate and well-controlled studies in the pediatric population [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+Use of Meropenem for Injection in pediatric patients 3 months of age and older with bacterial meningitis is supported by evidence from adequate and well-controlled studies in the pediatric population [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in clinical studies of Meropenem for Injection, USP, approximately 1100 (30%) were 65 years of age and older, while 400 (11%) were 75 years and older.
+Of the total number of subjects in clinical studies of Meropenem for Injection, approximately 1100 (30%) were 65 years of age and older, while 400 (11%) were 75 years and older.
 Additionally, in a study of 511 patients with complicated skin and skin structure infections, 93 (18%) were 65 years of age and older, while 38 (7%) were 75 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects; spontaneous reports and other reported clinical experience have not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Meropenem is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with renal impairment.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-A pharmacokinetic study with Meropenem for Injection, USP in elderly patients has shown a reduction in the plasma clearance of meropenem that correlates with age-associated reduction in creatinine clearance [see Clinical Pharmacology (12.3)].
+A pharmacokinetic study with Meropenem for Injection in elderly patients has shown a reduction in the plasma clearance of meropenem that correlates with age-associated reduction in creatinine clearance [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
-Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].
+Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].

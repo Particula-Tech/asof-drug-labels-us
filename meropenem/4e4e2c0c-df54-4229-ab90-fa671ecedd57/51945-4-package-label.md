@@ -1,7 +1,39 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 68083-146-01 For Intravenous Use Only Meropenem for Injection, USP (I.V.)
-Equivalent to 500 mg/vial meropenem Contents are Sterile Rx Only NDC 68083-146-10 For Intravenous Use Only Meropenem for Injection, USP (I.V.)
-Equivalent to 500 mg/vial meropenem 10 × 500 mgSterile Vials NDC 68083-147-01 For Intravenous Use Only Meropenem for Injection, USP (I.V.)
-Equivalent to 1 g/vial meropenem Contents are Sterile Rx Only NDC 68083-147-10 For Intravenous Use Only Meropenem for Injection, USP (I.V.)
-Equivalent to 1 g/vial meropenem 10 × 1 gSterile Vials
+Meropenem for Injection, USP
+
+Container Label - 500 mg/vial
+
+NDC 68083-146-01 Rx Only
+
+Meropenem for Injection, USP (I.V.)
+Equivalent to 500 mg/vial meropenem
+
+For Intravenous Use Only Contents are Sterile
+
+Container Carton - 500 mg/vial
+
+NDC 68083-146-10 10 × 500 mg Sterile Vials
+
+Rx only Meropenem for Injection, USP (I.V.)
+Equivalent to 500 mg/vial meropenem
+
+For Intravenous Use Only
+
+Container Label - 1 g/vial
+
+NDC 68083-147-01 Rx Only
+
+Meropenem for Injection, USP (I.V.)
+Equivalent to 1 g/vial meropenem
+
+For Intravenous Use Only Contents are Sterile
+
+Container Carton - 1 g/vial
+
+NDC 68083-147-10 10 × 1 g Sterile Vials
+
+Rx only Meropenem for Injection, USP (I.V.)
+Equivalent to 1 g/vial meropenem
+
+For Intravenous Use Only

@@ -15,7 +15,7 @@ The success rates for the clinically evaluable population are provided in Table 
 
 Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
 
-| Population | Meropenem for Injection, USP n1/N2(%) | Imipenem-cilastatin n1/N2(%) |
+| Population | Meropenem for Injection n1/N2(%) | Imipenem-cilastatin n1/N2(%) |
 | --- | --- | --- |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
@@ -25,17 +25,16 @@ Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population
 | Men | 130/148 (88) | 137/172 (80) |
 | Women | 95/113 (84) | 101/115 (88) |
 
-1. n=number of patients with satisfactory response.
+1 n=number of patients with satisfactory response.
 
-2.
-N=number of patients in the clinically evaluable population or respective subgroup within treatment groups.
+2 N=number of patients in the clinically evaluable population or respective subgroup within treatment groups.
 
 The clinical efficacy rates by pathogen are provided in Table 8.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
 Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 
-| MICROORGANISMS1 | Meropenem for Injection, USP n2/N3(%)4 | Imipenem-cilastatin n2/N3(%)4 |
+| MICROORGANISMS1 | Meropenem for Injection n2/N3(%)4 | Imipenem-cilastatin n2/N3(%)4 |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
@@ -51,10 +50,13 @@ Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 | Bacteroides fragilis | 10/11 (91) | 9/10 (90) |
 | Peptostreptococcus Species | 10/13 (77) | 14/16 (88) |
 
-1. Patients may have more than one pretreatment pathogen.
-2. n=number of patients with satisfactory response.
-3. N=number of patients in the clinically evaluable population or subgroup within treatment groups.
-4. %= Percent of satisfactory clinical response at follow-up evaluation.
+1 Patients may have more than one pretreatment pathogen.
+
+2 n=number of patients with satisfactory response.
+
+3 N=number of patients in the clinically evaluable population or subgroup within treatment groups.
+
+4 %= Percent of satisfactory clinical response at follow-up evaluation.
 
 The proportion of patients who discontinued study treatment due to an adverse event was similar for both treatment groups (meropenem, 2.5% and imipenem-cilastatin, 2.7%).
 
@@ -93,7 +95,7 @@ The values represent the number of patients clinically cured/number of clinicall
 
 Table 10: Efficacy rates by Pathogen in the Clinically Evaluable Population with Bacterial Meningitis
 
-| MICROORGANISMS | Meropenem for Injection, USP | COMPARATOR |
+| MICROORGANISMS | Meropenem for Injection | COMPARATOR |
 | --- | --- | --- |
 | S. pneumoniae | 17/24 (71) | 19/30 (63) |
 | H. influenzae (+)1 | 8/10 (80) | 6/6 (100) |

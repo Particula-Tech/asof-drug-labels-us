@@ -10,16 +10,21 @@ The percentage of time of a dosing interval that unbound plasma concentration of
 
 ## 12.3 Pharmacokinetics
 
-Plasma Concentrations At the end of a 30-minute intravenous infusion of a single dose of Meropenem for Injection, USP in healthy volunteers, mean peak plasma concentrations of meropenem are approximately 23 mcg/mL (range 14 to 26) for the 500 mg dose and 49 mcg/mL (range 39 to 58) for the 1 gram dose.
-A 5-minute intravenous bolus injection of Meropenem for Injection, USP in healthy volunteers results in mean peak plasma concentrations of approximately 45 mcg/mL (range 18 to 65) for the 500 mg dose and 112 mcg/mL (range 83 to 140) for the 1 gram dose.
+Plasma Concentrations
+
+At the end of a 30-minute intravenous infusion of a single dose of Meropenem for Injection in healthy volunteers, mean peak plasma concentrations of meropenem are approximately 23 mcg/mL (range 14 to 26) for the 500 mg dose and 49 mcg/mL (range 39 to 58) for the 1 gram dose.
+A 5-minute intravenous bolus injection of Meropenem for Injection in healthy volunteers results in mean peak plasma concentrations of approximately 45 mcg/mL (range 18 to 65) for the 500 mg dose and 112 mcg/mL (range 83 to 140) for the 1 gram dose.
 
 Following intravenous doses of 500 mg, mean plasma concentrations of meropenem usually decline to approximately 1 mcg/mL at 6 hours after administration.
 
 No accumulation of meropenem in plasma was observed with regimens using 500 mg administered every 8 hours or 1 gram administered every 6 hours in healthy volunteers with normal renal function.
 
-Distribution The plasma protein binding of meropenem is approximately 2%.
+Distribution
 
-After a single intravenous dose of Meropenem for Injection, USP, the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 hours to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in Table 5 below.
+The plasma protein binding of meropenem is approximately 2%.
+
+After a single intravenous dose of Meropenem for Injection, the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 hours to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in Table 5 below.
+
 Table 5: Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 
 | Tissue | Intravenous Dose (gram) | Number of Samples | Mean [mcg/mL or mcg/(gram)]1 | Range [mcg/mL or mcg/(gram)] |
@@ -46,15 +51,25 @@ Table 5: Meropenem Concentrations in Selected Tissues (Highest Concentrations Re
 | CSF (inflamed) | 20 mg/kg3 40 mg/kg4 | 8 5 | 1.1 (2 hours) 3.3 (3 hours) | 0.2 to 2.8 0.9 to 6.5 |
 | CSF (uninflamed) | 1 | 4 | 0.2 (2 hours) | 0.1 to 0.3 |
 
-1. at 1 hour unless otherwise noted
-2. obtained from blister fluid
-3. in pediatric patients of age 5 months to 8 years
-4. in pediatric patients of age 1 month to 15 years
+1 at 1 hour unless otherwise noted
 
-Elimination In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
-Metabolism There is one metabolite of meropenem that is microbiologically inactive.
+2 obtained from blister fluid
 
-Excretion Meropenem is primarily excreted unchanged by the kidneys.
+3 in pediatric patients of age 5 months to 8 years
+
+4 in pediatric patients of age 1 month to 15 years
+
+Elimination
+
+In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
+
+Metabolism
+
+There is one metabolite of meropenem that is microbiologically inactive.
+
+Excretion
+
+Meropenem is primarily excreted unchanged by the kidneys.
 Approximately 70% (50% to 75%) of the dose is excreted unchanged within 12 hours.
 A further 28% is recovered as the microbiologically inactive metabolite.
 Fecal elimination represents only approximately 2% of the dose.
@@ -62,17 +77,27 @@ The measured renal clearance and the effect of probenecid show that meropenem un
 
 Urinary concentrations of meropenem in excess of 10 mcg/mL are maintained for up to 5 hours after a 500 mg dose.
 
-Specific Populations Patients with Renal Impairment Pharmacokinetic studies with Meropenem for Injection, USP in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
+Specific Populations
+
+Patients with Renal Impairment
+
+Pharmacokinetic studies with Meropenem for Injection in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
 Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
-Meropenem for Injection, USP is hemodialyzable.
+Meropenem for Injection is hemodialyzable.
 However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
 
-Patients with Hepatic Impairment A pharmacokinetic study with Meropenem for Injection, USP in patients with hepatic impairment has shown no effects of liver disease on the pharmacokinetics of meropenem.
+Patients with Hepatic Impairment
 
-Geriatric Patients A pharmacokinetic study with Meropenem for Injection, USP in elderly patients with renal impairment showed a reduction in plasma clearance of meropenem that correlates with age-associated reduction in creatinine clearance.
+A pharmacokinetic study with Meropenem for Injection in patients with hepatic impairment has shown no effects of liver disease on the pharmacokinetics of meropenem.
 
-Pediatric Patients The pharmacokinetics of meropenem for injection, USP, in pediatric patients 2 years of age or older, are similar to those in adults.
+Geriatric Patients
+
+A pharmacokinetic study with Meropenem for Injection in elderly patients with renal impairment showed a reduction in plasma clearance of meropenem that correlates with age-associated reduction in creatinine clearance.
+
+Pediatric Patients
+
+The pharmacokinetics of meropenem for injection, in pediatric patients 2 years of age or older, are similar to those in adults.
 The elimination half-life for meropenem was approximately 1.5 hours in pediatric patients of age 3 months to 2 years.
 
 The pharmacokinetics of meropenem in patients less than 3 months of age receiving combination antibacterial drug therapy are given below.
@@ -89,29 +114,136 @@ Table 6: Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of 
 | T1/2 (h) | 3.82 | 2.68 | 2.33 | 1.58 | 2.68 |
 | *Values are derived from a population pharmacokinetic analysis of sparse data |  |  |  |  |  |
 
-Drug Interactions Probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem.
+Drug Interactions
+
+Probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem.
 Following administration of probenecid with meropenem, the mean systemic exposure increased 56% and the mean elimination half-life increased 38% [see Drug Interactions (7.1)].
 
 ## 12.4 Microbiology
 
-Mechanism of Action The bactericidal activity of meropenem results from the inhibition of cell wall synthesis.
+Mechanism of Action
+
+The bactericidal activity of meropenem results from the inhibition of cell wall synthesis.
 Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets.
 Meropenem binds to PBPs 2, 3 and 4 of Escherichia coli and Pseudomonas aeruginosa; and PBPs 1, 2 and 4 of Staphylococcus aureus.
 Bactericidal concentrations (defined as a 3 log10 reduction in cell counts within 12 hours to 24 hours) are typically 1 to 2 times the bacteriostatic concentrations of meropenem, with the exception of Listeria monocytogenes, against which lethal activity is not observed.
+
 Meropenem does not have in vitro activity against methicillin-resistant Staphylococcus aureus (MRSA) or methicillin-resistant Staphylococcus epidermidis (MRSE).
-Resistance There are several mechanisms of resistance to carbapenems: 1) decreased permeability of the outer membrane of gram-negative bacteria (due to diminished production of porins) causing reduced bacterial uptake, 2) reduced affinity of the target PBPs, 3) increased expression of efflux pump components, and 4) production of antibacterial drug-destroying enzymes (carbapenemases, metallo-β-lactamases).
+
+Resistance
+
+There are several mechanisms of resistance to carbapenems: 1) decreased permeability of the outer membrane of gram-negative bacteria (due to diminished production of porins) causing reduced bacterial uptake, 2) reduced affinity of the target PBPs, 3) increased expression of efflux pump components, and 4) production of antibacterial drug-destroying enzymes (carbapenemases, metallo-β-lactamases).
+
 Cross-resistance is sometimes observed with isolates resistant to other carbapenems.
-Interaction with Other Antimicrobials In vitro tests show meropenem to act synergistically with aminoglycoside antibacterial drugs against some isolates of Pseudomonas aeruginosa.
-Antimicrobial Activity Meropenem has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
-Gram-positive bacteria Enterococcus faecalis (vancomycin-susceptible isolates only) Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus agalactiae Streptococcus pneumoniae (penicillin-susceptible isolates only) Streptococcus pyogenes Viridans group streptococci
 
-Gram-negative bacteria Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Neisseria meningitidis Proteus mirabilis Pseudomonas aeruginosa
+Interaction with Other Antimicrobials
 
-Anaerobic bacteria Bacteroides fragilis Bacteroides thetaiotaomicron Peptostreptococcus species
+In vitro tests show meropenem to act synergistically with aminoglycoside antibacterial drugs against some isolates of Pseudomonas aeruginosa.
+
+Antimicrobial Activity
+
+Meropenem has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
+
+Gram-positive bacteria
+
+Enterococcus faecalis (vancomycin-susceptible isolates only)
+
+Staphylococcus aureus (methicillin-susceptible isolates only)
+
+Streptococcus agalactiae
+
+Streptococcus pneumoniae (penicillin-susceptible isolates only)
+
+Streptococcus pyogenes
+
+Viridans group streptococci
+
+Gram-negative bacteria
+
+Escherichia coli
+
+Haemophilus influenzae
+
+Klebsiella pneumoniae
+
+Neisseria meningitidis
+
+Proteus mirabilis
+
+Pseudomonas aeruginosa
+
+Anaerobic bacteria
+
+Bacteroides fragilis
+
+Bacteroides thetaiotaomicron
+
+Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for meropenem against isolates of similar genus or organism group.
 However, the efficacy of meropenem in treating clinical infections caused by these bacteria have not been established in adequate and well-controlled clinical trials.
-Gram-positive bacteria Staphylococcus epidermidis (methicillin-susceptible isolates only)
 
-Gram-negative bacteria Aeromonas hydrophila Campylobacter jejuni Citrobacter freundii Citrobacter koseri Enterobacter cloacae Hafnia alvei Klebsiella oxytoca Moraxella catarrhalis Morganella morganii Pasteurella multocida Proteus vulgaris Serratia marcescens Anaerobic bacteria Bacteroides ovatus Bacteroides uniformis Bacteroides ureolyticus Bacteroides vulgatus Clostridium difficile Clostridium perfringens Eggerthella lenta Fusobacterium species Parabacteroides distasonis Porphyromonas asaccharolytica Prevotella bivia Prevotella intermedia Prevotella melaninogenica Propionibacterium acnes Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Gram-positive bacteria
+
+Staphylococcus epidermidis (methicillin-susceptible isolates only)
+
+Gram-negative bacteria
+
+Aeromonas hydrophila
+
+Campylobacter jejuni
+
+Citrobacter freundii
+
+Citrobacter koseri
+
+Enterobacter cloacae
+
+Hafnia alvei
+
+Klebsiella oxytoca
+
+Moraxella catarrhalis
+
+Morganella morganii
+
+Pasteurella multocida
+
+Proteus vulgaris
+
+Serratia marcescens
+
+Anaerobic bacteria
+
+Bacteroides ovatus
+
+Bacteroides uniformis
+
+Bacteroides ureolyticus
+
+Bacteroides vulgatus
+
+Clostridium difficile
+
+Clostridium perfringens
+
+Eggerthella lenta
+
+Fusobacterium species
+
+Parabacteroides distasonis
+
+Porphyromonas asaccharolytica
+
+Prevotella bivia
+
+Prevotella intermedia
+
+Prevotella melaninogenica
+
+Propionibacterium acnes
+
+Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
