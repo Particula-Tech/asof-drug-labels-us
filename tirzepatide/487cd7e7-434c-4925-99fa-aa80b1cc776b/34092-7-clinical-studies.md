@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Weight Reduction and Long-term Maintenance Studies in Adults with Obesity or Overweight
+## 14.1 Weight Reduction and Long-Term Maintenance Studies in Adults with Obesity or Overweight
 
 Weight Reduction in Adults with Obesity or Overweight, with or without Type 2 Diabetes Mellitus (Study 1 and Study 2)
 
@@ -311,3 +311,101 @@ Table 7: Mean Changes in Anthropometry and Cardiometabolic Parameters After 36-W
 | f Least-squares mean from mixed model for repeated measures adjusted for baseline value and other stratification factors. |  |  |  |  |  |  |  |
 | g Baseline and randomization values are the geometric mean. |  |  |  |  |  |  |  |
 | h Observed means are shown for change from Week 0 to Week 36. Least-square means are shown for change from Week 36 to Week 88. |  |  |  |  |  |  |  |
+
+## 14.2 Obstructive Sleep Apnea Studies in Adults with Obesity
+
+Overview of Study 5 and Study 6
+
+The efficacy of ZEPBOUND for moderate to severe obstructive sleep apnea (OSA) (apnea-hypopnea index [AHI] ≥15) in patients with obesity (BMI ≥30 kg/m2) was evaluated in a master protocol clinical trial (NCT05412004) that included two randomized, double-blind, placebo-controlled trials (Study 5 and Study 6) of 52 weeks duration.
+The two trials enrolled a total of 469 adult patients.
+
+In Studies 5 and 6, patients were randomized in a 1:1 ratio to receive ZEPBOUND or placebo for 52 weeks.
+ZEPBOUND dosages were escalated over a period of up to 20 weeks to maximum tolerated dosage (MTD) of 10 mg or 15 mg subcutaneous once weekly [see Dosage and Administration (2.1, 2.2)].
+Patients with type 2 diabetes mellitus were excluded and all patients received instruction on a reduced-calorie diet and increased physical activity counseling throughout the study.
+
+Study 5 enrolled 234 adult patients with moderate to severe OSA and obesity who were unable or unwilling to use Positive Airway Pressure (PAP) therapy.
+Patients had a mean age of 48 years (range: 20 to 76 years), 67% were male, 66% were White, 20% were Asian, 8% were American Indian/Alaska Native, and 6% were Black or African American.
+A total of 42% were Hispanic or Latino ethnicity.
+
+Study 6 enrolled 235 adult patients with moderate to severe OSA and obesity who were on PAP therapy.
+Patients had a mean age of 52 years (range: 26 to 79 years), 72% were male, 73% were White, 14% were Asian, 8% were American Indian/Alaska Native, and 5% were Black or African American.
+A total of 32% were Hispanic or Latino ethnicity.
+
+Table 8 describes the baseline disease characteristics of patients in Studies 5 and 6.
+
+Table 8: Baseline Disease Characteristics of Patients with OSA and Obesity in Study 5 and Study 6
+
+|  | Study 5 (N=234) | Study 6 (N=235) |
+| --- | --- | --- |
+| Baseline AHI (events/hour), mean (SD) | 51.5 (31) | 49.5 (26.7) |
+| Moderate OSA, %a | 35.2 | 30.9 |
+| Severe OSA, %b | 63.1 | 68.2 |
+| ESS Total, mean (SD) | 10.5 (5.2) | 10 (4.6) |
+| Total Hypoxic Burden (% min/hour), mean (SD) | 208.4 (189.1) | 193 (174.6) |
+| BMI (kg/m2), mean (SD) | 39.1 (7) | 38.7 (6) |
+| Pre-diabetes, % | 65 | 56.6 |
+| Hypertension, % | 75.6 | 77.4 |
+| Cardiac disorders, % | 10.3 | 11.1 |
+| Dyslipidemia, % | 80.8 | 83.8 |
+| Abbreviations: AHI = Apnea-Hypopnea Index; BMI = body-mass index; ESS = Epworth Sleepiness Score; OSA = obstructive sleep apnea; SD = standard deviation. |  |  |
+| a Moderate OSA was defined as an AHI ≥15 – 30 events/hour on polysomnogram at baseline. |  |  |
+| b Severe OSA was defined as an AHI ≥30 events/hour on polysomnogram at baseline. |  |  |
+
+Results for Study 5 and Study 6
+
+The primary endpoint for Studies 5 and 6 was the change from baseline in the apnea-hypopnea index (AHI) at Week 52.
+Patients in Study 5 were unable or unwilling to use PAP therapy, and patients in Study 6 were on PAP therapy and instructed to suspend PAP for 7 days prior to assessment of the primary endpoint.
+The clinical studies for OSA did not evaluate the timing or appropriateness of PAP discontinuation in patients who were previously compliant with PAP therapy.
+
+In Studies 5 and 6, treatment with ZEPBOUND for 52 weeks resulted in a statistically significant reduction in AHI compared with placebo, and greater proportions of patients treated with ZEPBOUND achieved remission or mild non-symptomatic OSA compared to placebo.
+Table 9 provides the efficacy results for Studies 5 and 6.
+A reduction in AHI was observed with ZEPBOUND irrespective of age, sex, ethnicity, baseline BMI, or baseline OSA severity.
+In both Studies 5 and 6, patients treated with ZEPBOUND achieved a greater reduction in systolic blood pressure and high-sensitivity C-reactive protein levels compared to placebo.
+
+Table 9: Changes in Apnea-Hypopnea Index (AHI), Hypoxic Burden, and Body Weight at Week 52 in Study 5 and Study 6
+
+| Modified Intent-to-Treat (mITT) Populationa | Study 5 |  | Study 6 |  |
+| --- | --- | --- | --- | --- |
+| Placebo N = 120 | ZEPBOUND MTD (10 mg or 15 mg) N = 114 | Placebo N = 114 | ZEPBOUND MTD (10 mg or 15 mg) N = 119 |  |
+| AHI (events/hr) |  |  |  |  |
+| Baseline mean | 50.1 | 52.9 | 53.1 | 46.1 |
+| Change from baselineb | -5.3 | -25.3 | -5.5 | -29.3 |
+| Difference from placebob (95% CI) | -20 (-25.8, -14.2)e |  | -23.8 (-29.6, -17.9)e |  |
+| % change in AHI |  |  |  |  |
+| % change from baselineb | -3 | -50.7 | -2.5 | -58.7 |
+| % difference from placebob (95% CI) | -47.7 (-65.8, -29.6)e |  | -56.2 (-73.7, -38.7)e |  |
+| % of patients with ≥50% reduction in AHId | 19 | 61.2 | 23.3 | 72.4 |
+| % difference from placebo (95% CI) | 42.8 (30.8, 54.8)e |  | 48.6 (36.6, 60.7)e |  |
+| Remission or mild non-symptomatic OSA |  |  |  |  |
+| % of Patients with AHI <5 or AHI 5-14 and ESS≤10d | 15.9 | 42.2 | 14.3 | 50.2 |
+| % difference from placebo (95% CI) | 28.7 (18.3, 39.2)e |  | 33.2 (22.1, 44.3)e |  |
+| Sleep apnea-specific hypoxic burden (% min/h) |  |  |  |  |
+| Baseline meanf | 137.8 | 153.6 | 142.1 | 132.2 |
+| Change from baselineb | -25.1 | -95.2 | -41.7 | -103 |
+| Difference from placebob (95% CI) | -70.1 (-90.9, -49.3)c,e |  | -61.3 (-84.7, -37.9)c,e |  |
+| Body weight (kg) |  |  |  |  |
+| Baseline mean | 112.8 | 116.7 | 115.1 | 115.8 |
+| % change from baselineb | -1.6 | -17.7 | -2.3 | -19.6 |
+| % difference from placebob (95% CI) | -16.1 (-18, -14.2)e |  | -17.3 (-19.3, -15.3)e |  |
+| Abbreviations: AHI = Apnea-Hypopnea Index; ANCOVA = analysis of covariance; CI = confidence interval; ESS = Epworth Sleepiness Scale; h = hour; MTD = maximum tolerated dose; N = number of participants randomly assigned and received at least 1 dose of study drug. |  |  |  |  |
+| a Analyses were based on the modified intent-to-treat population which was defined as randomly assigned participants who were exposed to at least 1 dose of study intervention; two participants in Study 6 were randomized but did not receive study drug. |  |  |  |  |
+| b Least-squares mean from ANCOVA adjusted for baseline values and stratification factors, with multiple imputation for missing data at Week 52. |  |  |  |  |
+| c Analyzed using log transformed data. |  |  |  |  |
+| d Calculated by combining proportion of participants achieving target in imputed datasets. |  |  |  |  |
+| e p-value <0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. |  |  |  |  |
+| f Baseline value is the geometric mean. |  |  |  |  |
+
+The time course of change in AHI with ZEPBOUND and placebo from baseline through Week 52 are shown in Figure 7 for Study 5.
+Similar results were demonstrated for Study 6.
+
+Figure 7: Change from Baseline in Apnea-Hypopnea Index (AHI) Through Week 52 (Study 5)
+
+Abbreviations: AHI = Apnea-Hypopnea Index; ANCOVA = analysis of covariance; MI = multiple imputation; MTD = maximum tolerated dose.
+
+Note: Displayed results are from modified Intent-to-Treat Population.
+(1) Observed mean value from Week 0 through Week 52, and (2) least squares mean ± standard error at Week 52 from ANCOVA adjusted for baseline values and stratification factors, with multiple imputation of missing data.
+
+Sleep-Related Impairment
+
+In OSA clinical studies (Study 5 and Study 6), ZEPBOUND-treated patients showed improvement in sleep-related impairment compared to those who received placebo.
+Sleep-related impairment was assessed using the Patient-Reported Outcomes Measurement Information System® (PROMIS) Short Form Sleep-Related Impairment 8a.

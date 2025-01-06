@@ -17,6 +17,8 @@ The following serious adverse reactions are described below or elsewhere in the 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Adverse Reactions in Patients for Weight Reduction and Long-Term Maintenance
+
 Pool of Placebo-Controlled Weight Reduction Trials in Adults with Obesity or Overweight, with or without Type 2 Diabetes (Study 1 and Study 2)
 
 ZEPBOUND was evaluated for safety in a pool of two randomized, double-blind, placebo-controlled trials that included 2,519 adult patients with obesity or overweight treated with ZEPBOUND for up to 72 weeks and a 4-week off drug follow-up period (Study 1 and Study 2) [see Clinical Studies (14.1)].
@@ -32,7 +34,7 @@ Common Adverse Reactions
 Table 1 shows common adverse reactions associated with the use of ZEPBOUND in the pool of two placebo-controlled trials for weight reduction (Study 1 and Study 2).
 These adverse reactions occurred more commonly with ZEPBOUND than with placebo and occurred in at least 2% of patients treated with ZEPBOUND.
 
-Table 1: Adverse Reactions (≥2% and Greater than Placebo) in ZEPBOUND-Treated Adults with Obesity or Overweight (Study 1 and Study 2)
+Table 1: Adverse Reactions (≥2% and Greater than Placebo) in ZEPBOUND-Treated Adults with Obesity or Overweight in Weight Reduction and Long-term Maintenance Trials (Study 1 and Study 2)
 
 | Adverse Reaction | Placebo (N=958) % | ZEPBOUND 5 mg (N=630) % | ZEPBOUND 10 mg (N=948) % | ZEPBOUND 15 mg (N=941) % |
 | --- | --- | --- | --- | --- |
@@ -59,7 +61,7 @@ Table 1: Adverse Reactions (≥2% and Greater than Placebo) in ZEPBOUND-Treated 
 | e Includes asthenia, fatigue, lethargy, malaise. |  |  |  |  |
 | f Includes blood pressure decreased, hypotension, orthostatic hypotension. |  |  |  |  |
 
-In a clinical trial that included an intensive lifestyle intervention lead-in period (Study 3), 287 patients were treated with ZEPBOUND for up to 72 weeks.
+In a clinical trial for weight reduction that included an intensive lifestyle intervention lead-in period (Study 3), 287 patients were treated with ZEPBOUND for up to 72 weeks.
 In a randomized withdrawal trial (Study 4), 783 patients were treated with ZEPBOUND for up to 36 weeks, and 335 of these patients were treated for up to 88 weeks [see Clinical Studies (14.1)].
 In Study 3, 10% of ZEPBOUND-treated patients and 2% of placebo-treated patients discontinued drug due to adverse reactions.
 In Study 4, 7% of patients discontinued ZEPBOUND treatment before randomized withdrawal at Week 36 due to adverse reactions.
@@ -131,6 +133,12 @@ Amylase and Lipase Increase
 
 In a pool of Study 1 and 2, treatment with ZEPBOUND resulted in mean increases from baseline in serum pancreatic amylase concentrations of 20% to 25% and serum lipase concentrations of 28% to 35%, compared to mean increases from baseline in pancreatic amylase of 2.1% and serum lipase of 5.8% in placebo-treated patients.
 The clinical significance of elevations in amylase or lipase with ZEPBOUND is unknown in the absence of other signs and symptoms of pancreatitis.
+
+Adverse Reactions in Patients with Obstructive Sleep Apnea
+
+ZEPBOUND was evaluated in 2 randomized, double-blind, placebo-controlled trials (Study 5 and Study 6) that included a total of 467 adult patients with moderate to severe OSA and obesity [see Clinical Studies (14.2)].
+Study 5 enrolled 234 patients who were unable or unwilling to use Positive Airway Pressure (PAP) therapy and Study 6 enrolled 235 patients who were on PAP therapy.
+The adverse reactions observed with ZEPBOUND 10 mg or 15 mg administered subcutaneously once weekly were similar to those reported in the two pooled placebo controlled clinical trials for weight reduction (Study 1 and Study 2).
 
 ## 6.2 Postmarketing Experience
 

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-ZEPBOUND is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens, 1 single-dose vial, or 4 single-dose vials as follows:
+ZEPBOUND (tirzepatide) is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens, 1 single-dose vial, or 4 single-dose vials as follows:
 
 | Total Strength per Total Volume | 4 pack Pen NDC | 1 pack Vial NDC | 4 pack Vial NDC |
 | --- | --- | --- | --- |

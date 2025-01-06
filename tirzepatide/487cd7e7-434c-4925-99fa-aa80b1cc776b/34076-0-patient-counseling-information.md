@@ -65,17 +65,17 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 Administration
 
 Instruct patients how to prepare and administer the correct dose of ZEPBOUND and assess their ability to inject subcutaneously to ensure the proper administration of ZEPBOUND.
-Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.3)].
+Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.4)].
 
 Missed Doses
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 4 days after the missed dose.
 If more than 4 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
-In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.2)].
+In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.3)].
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 Copyright © 2023, 2024, Eli Lilly and Company.
 All rights reserved.
 
-ZEP-0006-USPI-20241023
+ZEP-0008-USPI-20241220

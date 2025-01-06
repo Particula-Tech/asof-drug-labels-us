@@ -28,7 +28,7 @@ The delay is largest after the first dose and this effect diminishes over time.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of tirzepatide is similar between healthy subjects and patients with overweight or obesity.
+The pharmacokinetics of tirzepatide is similar between healthy subjects, patients with overweight or obesity, and patients with OSA and obesity.
 Steady-state plasma tirzepatide concentrations were achieved following 4 weeks of once weekly administration.
 Tirzepatide exposure increases in a dose-proportional manner.
 
@@ -40,12 +40,13 @@ Similar exposure was achieved with subcutaneous administration of tirzepatide in
 
 Distribution
 
-The mean [coefficient of variation (CV)%] apparent steady-state volume of distribution of tirzepatide following subcutaneous administration in patients with overweight or obesity is approximately 9.7 L (28.5%).
+The mean [coefficient of variation (CV)%] apparent steady-state volumes of distribution of tirzepatide following subcutaneous administration in patients with overweight or obesity and patients with OSA and obesity are approximately 9.7 L (29%) and 11.8 L (37%), respectively.
 Tirzepatide is highly bound to plasma albumin (99%).
 
 Elimination
 
-The apparent population mean clearance (CV%) of tirzepatide in patients with overweight or obesity is 0.056 L/h (20.9%) with an elimination half-life of approximately 5 days.
+The apparent population mean clearance of tirzepatide in patients with overweight or obesity and patients with OSA and obesity is approximately 0.06 L/h (CV% ~ 20%).
+The elimination half-life is approximately 5-6 days in patients with overweight or obesity, and in patients with OSA and obesity.
 
 Metabolism
 
@@ -91,12 +92,18 @@ A delay in tmax of 2.5 to 4.5 hours was observed.
 ## 12.6 Immunogenicity
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the trials described below with the incidence of anti-drug antibodies in other trials.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies.
 
-During the 72-week treatment period with anti-drug antibodies (ADA) sampling in Studies 1 and 2 [see Clinical Studies (14)], 64.5% (1591/2467) of ZEPBOUND-treated patients developed anti-tirzepatide antibodies.
-In these trials, anti-tirzepatide antibody formation in 40% and 16.5% of ZEPBOUND-treated patients showed cross-reactivity to native GIP or native GLP-1, respectively.
+The incidence of anti-drug antibodies (ADA) to ZEPBOUND was evaluated in adult patients with overweight or obesity or with OSA and obesity in clinical studies lasting 52 weeks or longer.
+Anti-tirzepatide antibodies were detected in 64.5% (1591/2467) of ZEPBOUND-treated patients in weight reduction clinical studies 1 and 2, and 60.6% (137/226) of ZEPBOUND-treated patients in OSA clinical studies [see Clinical Studies (14)].
 
-Of the ZEPBOUND-treated patients, 2.8% and 2.7% developed neutralizing antibodies against tirzepatide activity on the GIP or GLP-1 receptors, respectively, and 0.8% and 0.1% developed neutralizing antibodies against native GIP or GLP-1, respectively.
+Of the ZEPBOUND-treated patients in weight reduction clinical studies 40% and 16.5% of patients developed antibodies that were cross-reactive to native GIP or native GLP-1, respectively.
 
-There was no identified clinically significant effect of anti-tirzepatide antibodies on pharmacokinetics or effectiveness of ZEPBOUND.
+Of the ZEPBOUND-treated patients in OSA clinical studies, 37.2% and 19.5% of patients developed antibodies that were cross reactive to native GIP and native GLP-1, respectively.
+
+Neutralizing antibodies against tirzepatide activity on the GIP or GLP-1 receptors and against native GIP or GLP-1 were detected in 2.8% and 2.7% and 0.8% and 0.1% respectively, of ZEPBOUND-treated patients in weight reduction clinical studies.
+
+No ZEPBOUND-treated patients in OSA studies developed neutralizing antibodies against tirzepatide activity on the GIP or GLP-1 receptors or against native GIP or native GLP-1.
+
+No clinically significant effect of anti-tirzepatide antibodies on pharmacokinetics or effectiveness of ZEPBOUND has been identified.
 More ZEPBOUND-treated patients who developed anti-tirzepatide antibodies experienced hypersensitivity reactions or injection site reactions than those who did not develop these antibodies [see Adverse Reactions (6.1)].

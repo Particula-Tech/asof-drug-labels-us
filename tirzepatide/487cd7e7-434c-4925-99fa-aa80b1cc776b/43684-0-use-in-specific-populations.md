@@ -57,9 +57,12 @@ The safety and effectiveness of ZEPBOUND have not been established in pediatric 
 
 ## 8.5 Geriatric Use
 
-In a pool of two fixed dose ZEPBOUND clinical trials (Study 1 and Study 2), 226 (9%) ZEPBOUND-treated patients were 65 years of age or older, and 13 (0.5%) ZEPBOUND-treated patients were 75 years of age or older at baseline.
+In a pool of two fixed dose ZEPBOUND clinical studies for weight reduction (Study 1 and Study 2), 226 (9%) ZEPBOUND-treated patients were 65 years of age or older, and 13 (0.5%) ZEPBOUND-treated patients were 75 years of age or older at baseline.
 
 No overall differences in safety or effectiveness of ZEPBOUND have been observed between patients 65 years of age and older and younger adult patients.
+
+ZEPBOUND clinical studies in OSA (Study 5 and Study 6) did not include sufficient numbers of patients age 65 years or older to determine whether they respond differently from younger adult patients.
+Other reported clinical experience with tirzepatide has not identified differences in responses between the elderly and younger patients.
 
 ## 8.6 Renal Impairment
 

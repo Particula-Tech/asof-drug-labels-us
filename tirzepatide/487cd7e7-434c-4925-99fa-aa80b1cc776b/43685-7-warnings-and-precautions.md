@@ -17,7 +17,8 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 ## 5.2 Severe Gastrointestinal Adverse Reactions
 
 Use of ZEPBOUND has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
-In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), severe gastrointestinal adverse reactions were reported more frequently among patients receiving ZEPBOUND (5 mg 1.7%, 10 mg 2.5%, 15 mg 3.1%) than placebo (1%).
+In a pool of two ZEPBOUND clinical trials for weight reduction (Studies 1 and 2), severe gastrointestinal adverse reactions were reported more frequently among patients receiving ZEPBOUND (5 mg 1.7%, 10 mg 2.5%, 15 mg 3.1%) than placebo (1%).
+Similar rates of severe gastrointestinal adverse reactions were observed in ZEPBOUND clinical trials for weight reduction and in ZEPBOUND clinical trials for OSA.
 
 ZEPBOUND has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and is therefore not recommended in these patients.
 
@@ -34,8 +35,9 @@ Monitor renal function in patients reporting adverse reactions to ZEPBOUND that 
 
 Treatment with ZEPBOUND and GLP-1 receptor agonists is associated with an increased occurrence of acute gallbladder disease.
 
-In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), cholelithiasis was reported in 1.1% of ZEPBOUND-treated patients and 1% of placebo-treated patients, cholecystitis was reported in 0.7% of ZEPBOUND-treated patients and 0.2% of placebo-treated patients, and cholecystectomy was reported in 0.2% of ZEPBOUND-treated patients and no placebo-treated patients.
+In a pool of two ZEPBOUND clinical trials for weight reduction (Studies 1 and 2), cholelithiasis was reported in 1.1% of ZEPBOUND-treated patients and 1% of placebo-treated patients, cholecystitis was reported in 0.7% of ZEPBOUND-treated patients and 0.2% of placebo-treated patients, and cholecystectomy was reported in 0.2% of ZEPBOUND-treated patients and no placebo-treated patients.
 Acute gallbladder events were associated with weight reduction.
+Similar rates of cholelithiasis were reported in ZEPBOUND clinical trials for weight reduction and in ZEPBOUND trials for OSA.
 If cholecystitis is suspected, gallbladder diagnostic studies and appropriate clinical follow-up are indicated.
 
 ## 5.5 Acute Pancreatitis
@@ -43,18 +45,18 @@ If cholecystitis is suspected, gallbladder diagnostic studies and appropriate cl
 Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists or tirzepatide.
 
 In clinical trials of tirzepatide for a different indication, 14 events of acute pancreatitis were confirmed by adjudication in 13 tirzepatide-treated patients (0.23 patients per 100 years of exposure) versus 3 events in 3 comparator-treated patients (0.11 patients per 100 years of exposure).
-In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), 0.2% of ZEPBOUND-treated patients had acute pancreatitis confirmed by adjudication (0.14 patients per 100 years of exposure) versus 0.2% of placebo-treated patients (0.15 patients per 100 years of exposure).
-ZEPBOUND has not been studied in patients with a prior history of pancreatitis.
-It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on ZEPBOUND.
+In a pool of two ZEPBOUND clinical trials for weight reduction (Studies 1 and 2), 0.2% of ZEPBOUND-treated patients had acute pancreatitis confirmed by adjudication (0.14 patients per 100 years of exposure) versus 0.2% of placebo-treated patients (0.15 patients per 100 years of exposure).
+The exposure-adjusted incidence rate for treatment-emergent adjudication-confirmed pancreatitis in the pooled clinical studies for OSA (Studies 5 and 6) was 0.84 patients per 100 years for ZEPBOUND and 0 for placebo-treated patients.
 
 After initiation of ZEPBOUND, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting).
 If pancreatitis is suspected, discontinue ZEPBOUND and initiate appropriate management.
-If the diagnosis of pancreatitis is confirmed, ZEPBOUND should not be restarted.
+Continuation of ZEPBOUND after a confirmed diagnosis of pancreatitis should be individually determined in the clinical judgment of a patient's health care provider.
 
 ## 5.6 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) in patients treated with tirzepatide.
-In a pool of two ZEPBOUND clinical trials (Studies 1 and 2), 0.1% of ZEPBOUND-treated patients had severe hypersensitivity reactions compared to no placebo-treated patients.
+In a pool of two ZEPBOUND clinical studies for weight reduction (Studies 1 and 2), 0.1% of ZEPBOUND-treated patients had severe hypersensitivity reactions compared to no placebo-treated patients.
+Similar rates of severe hypersensitivity reactions were observed in ZEPBOUND clinical trials for weight reduction and in ZEPBOUND trials for OSA.
 If hypersensitivity reactions occur, advise patients to promptly seek medical attention and discontinue use of ZEPBOUND.
 Do not use in patients with a previous serious hypersensitivity reaction to tirzepatide or any of the excipients in ZEPBOUND [see Contraindications (4) and Adverse Reactions (6.2)].
 
