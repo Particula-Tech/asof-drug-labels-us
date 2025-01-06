@@ -118,7 +118,7 @@ Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Fo
 | % Dose excreted in urine = 91 |  |  | % Plasma protein binding = 99 |  |  |  |  |
 | 1. Derived from PO pharmacokinetic studies in 77 normal fasted volunteers2. Derived from IM pharmacokinetic studies in 54 normal volunteers3. Derived from IV pharmacokinetic studies in 24 normal volunteers4. Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data5. Not applicable because 60 mg is only recommended as a single dose6. Time-to-peak plasma concentration7. Peak plasma concentration8. Trough plasma concentration9. Average plasma concentration10. Volume of distribution |  |  |  |  |  |  |  |
 
-Table 2: The Influence of Age, Liver, and Kidney Function on the Clearance and Terminal Half-Life of Ketorolac Tromethamine (IM1and ORAL2) in Adult Populations
+Table 2: The Influence of Age, Liver, and Kidney Function on the Clearance and Terminal Half-Life of Ketorolac Tromethamine (IM1 and ORAL2) in Adult Populations
 
 |  | Total Clearance [in L/h/kg]3 |  | Terminal Half-Life [in hours] |  |
 | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Table 2: The Influence of Age, Liver, and Kidney Function on the Clearance and T
 | (0.013 to 0.066) | (0.019 to 0.051) | (2.2 to 6.9) | (1.6 to 7.6) |  |
 | Patients With Renal ImpairmentIM (n = 25),Oral (n = 9)serum creatinine = 1.9 to 5 mg/dL,mean age (IM) = 54, range = 35 to 71mean age (Oral) = 57, range = 39 to 70 | 0.015 | 0.016 | 10.3 | 10.8 |
 | (0.005 to 0.043) | (0.007 to 0.052) | (5.9 to 19.2) | (3.4 to 18.9) |  |
-| Renal Dialysis PatientsIM and Oral (n = 9)mean age = 40, range = 27 to 63 | 0.016 | -- | 13.6 | -- |
+| Renal Dialysis Patients IM and Oral (n = 9)mean age = 40, range = 27 to 63 | 0.016 | -- | 13.6 | -- |
 | (0.003 to 0.036) | (8 to 39.1) |  |  |  |
 | 1. Estimated from 30 mg single IM doses of ketorolac tromethamine |  |  |  |  |
 | 2. Estimated from 10 mg single oral doses of ketorolac tromethamine |  |  |  |  |

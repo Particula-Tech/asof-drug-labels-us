@@ -7,7 +7,7 @@
 | Increased risk of a heart attack or stroke that can lead to death. This risk may happen early in treatment and may increase: with increasing doses of NSAIDswith longer use of NSAIDs |  |
 | Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).” |  |
 | Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to. You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack. |  |
-| Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: anytime during use without warning symptomsthat may cause death |  |
+| Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: anytime during usewithout warning symptomsthat may cause death |  |
 | The risk of getting an ulcer or bleeding increases with: |  |
 | past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
 | taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
@@ -63,7 +63,9 @@
 | If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |
 
+Manufactured In Bulgaria By: Balkanpharma Dupnitsa AD Dupnitsa 2600, Bulgaria
+
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 7/2021
+A 7/2024

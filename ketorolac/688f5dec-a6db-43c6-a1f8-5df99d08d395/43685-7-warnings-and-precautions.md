@@ -1,6 +1,6 @@
 # WARNINGS
 
-(See alsoBoxed WARNING.)
+(See also Boxed WARNING.)
 
 The total combined duration of use of ketorolac tromethamine tablets and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
 Ketorolac tromethamine tablets are not indicated for use in pediatric patients.
@@ -115,11 +115,14 @@ Use of ketorolac tromethamine may blunt the CV effects of several therapeutic ag
 Avoid the use of ketorolac tromethamine tablets in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If ketorolac tromethamine tablets are used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
-## Skin Reactions
+## Serious Skin Reactions
 
-NSAIDs, including ketorolac tromethamine, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including ketorolac tromethamine, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash, mucosal lesions, or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of ketorolac tromethamine tablets at the first appearance of skin rash or any other sign of hypersensitivity.
+Ketorolac tromethamine tablets are contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
 ## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
