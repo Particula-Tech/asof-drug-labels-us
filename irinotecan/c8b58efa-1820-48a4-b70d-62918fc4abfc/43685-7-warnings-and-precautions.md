@@ -40,9 +40,10 @@ Following recovery to Grade 1 diarrhea, resume ONIVYDE at a reduced dose [see Do
 
 ## 5.3 Interstitial Lung Disease
 
-Irinotecan HCl can cause severe and fatal interstitial lung disease (ILD).
+ONIVYDE can cause severe and fatal interstitial lung disease (ILD), including pneumonitis.
+Postmarketing cases of severe and fatal ILD have been reported with ONIVYDE.
 Risk factors include pre-existing lung disease, use of pneumotoxic medicinal products, colony stimulating factors or having previously received radiation therapy.
-Patients with risk factors should be closely monitored for respiratory symptoms before and during ONIVYDE® therapy.
+Patients with risk factors should be closely monitored for respiratory symptoms before and during ONIVYDE therapy.
 Withhold ONIVYDE in patients with new or progressive dyspnea, cough, and fever, pending diagnostic evaluation.
 Discontinue ONIVYDE in patients with a confirmed diagnosis of ILD.
 
