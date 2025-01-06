@@ -2,7 +2,7 @@
 
 Tamsulosin hydrochloride is an antagonist of alpha1A adrenoceptors in the prostate.
 
-Tamsulosin hydrochloride is (-)-(R)-5-[2-[[2-(o-Ethoxyphenoxy) ethyl]amino]propyl]-2-methoxybenzenesulfonamide, monohydrochloride.
+Tamsulosin hydrochloride is (-)-(R)-5-[2-[[2-(o-Ethoxyphenoxy)ethyl]amino]propyl]-2-methoxybenzenesulfonamide, monohydrochloride.
 Tamsulosin hydrochloride is a white crystalline powder that melts with decomposition at approximately 230°C.
 It is sparingly soluble in water and methanol, slightly soluble in glacial acetic acid and ethanol, and practically insoluble in ether.
 

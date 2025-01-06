@@ -81,8 +81,6 @@ Possible side effects of FLOMAX may include:
 - Eye problems during cataract or glaucoma surgery.
   During cataract or glaucoma surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken FLOMAX capsules.
   If you need to have cataract or glaucoma surgery, be sure to tell your surgeon if you take or have taken FLOMAX capsules.
-- Altered liver function tests: FLOMAX capsules may cause altered liver function tests.
-  If you experience any symptoms of liver injury such as fatigue, abdominal pain, jaundice, dark urine, or itching, be sure to inform your doctor.
 
 Common side effects of FLOMAX capsules may include:
 
@@ -137,9 +135,9 @@ Distributed by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 Flomax is a registered trademark of and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-© 2023.
+© 2019.
 All rights reserved.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2023
+Revised: January 2019
