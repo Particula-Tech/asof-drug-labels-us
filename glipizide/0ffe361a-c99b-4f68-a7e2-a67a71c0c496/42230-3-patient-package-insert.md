@@ -116,15 +116,16 @@ It may harm them.
 This Patient Information summarizes the most important information about glipizide extended-release tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about glipizide extended-release tablets that is written for healthcare professionals.
-For more information about glipizide extended-release tablets please call 1-(866)-562-4597
+For more information about glipizide extended-release tablets please call 1-(844)-874-7464
 
 What are the ingredients in Glipizide Extended-Release Tablets?
-Active ingredient: glipizide Inactive ingredients: polyethylene oxide, hypromellose, magnesium stearate, sodium chloride, red ferric oxide, cellulose acetate, polyethylene glycol, Opadry® blue (OY-LS-20921) (hypromellose, lactose monohydrate, titanium dioxide, triacetin and FD&C blue#2) (2.5 mg tablets) Opadry® white (YS-2-7063) (hypromellose, titanium dioxide and polyethylene glycol) (5 mg and 10 mg tablet) Opacode® Black Ink (S-1-277001) (shellac, ferrosoferric oxide, propylene glycol)
+Active ingredient: glipizide Inactive ingredients: cellulose acetate, ferrosoferric oxide, hypromellose, magnesium stearate, polyethylene glycol, polyethylene oxide, propylene glycol, red ferric oxide, shellac, sodium chloride, titanium dioxide.
+The 2.5 mg tablet also contains: FD&C blue#2, lactose monohydrate and triacetin.
 
 Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 
-Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-137127
+139859
 
-Revised: 07/2023
+Revised: 08/2024

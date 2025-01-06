@@ -12,6 +12,7 @@ However, increased pup mortality was observed in rats administered glipizide fro
 The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
 Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Poorly-controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, miscarriage, preterm delivery, stillbirth, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
