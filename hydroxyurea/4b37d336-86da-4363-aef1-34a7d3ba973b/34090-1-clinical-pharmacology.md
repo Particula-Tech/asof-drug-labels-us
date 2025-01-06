@@ -9,7 +9,7 @@ Known pharmacologic effects of XROMI that may contribute to its beneficial effec
 
 ## 12.2 Pharmacodynamics
 
-In pediatric patients treated with hydroxyurea for up to 15 months, the ratio of fetal hemoglobin to total hemoglobin was 25%, at the end of the study, representing a change from baseline increase of 9% in patients aged 6 months to <2 years.
+In pediatric patients treated with hydroxyurea for up to 15 months, the ratio of fetal hemoglobin to total hemoglobin was 25%, 23.6% and 11.2% at the end of the study, representing a change from baseline increase of 9%, 148% and 167% in patients aged 6 months to <2 years, 2 to <6 years and 6 to <18 years, respectively.
 
 ## 12.3 Pharmacokinetics
 
@@ -25,11 +25,11 @@ Elimination Metabolism Up to 60% of an oral dose undergoes conversion through sa
 
 Excretion In patients with sickle cell anemia, the mean cumulative urinary recovery of hydroxyurea was about 40% of the administered dose.
 
-Specific Populations Renal Impairment The effect of renal impairment on the pharmacokinetics of hydroxyurea was assessed in adult patients with sickle cell disease and renal impairment.
+Specific Populations Renal Impairment The effect of renal impairment on the pharmacokinetics of hydroxyurea was assessed in adult patients with sickle cell anemia and renal impairment.
 Patients with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50-80 mL/min), moderate (CrCl =30-<50 mL/min), or severe (<30 mL/min) renal impairment received a single oral dose of 15 mg/kg hydroxyurea.
 Creatinine clearance values were obtained using 24-hour urine collections.
 Patients with ESRD received two doses of 15 mg/kg separated by 7 days; the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
 The exposure to hydroxyurea (mean AUC) in patients with CrCl <60 mL/min and those with ESRD was 64% higher than in patients with normal renal function (CrCl >60 mL/min).
 [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
-Pediatric Patients The model estimated steady state exposures (AUC) in pediatric patients receiving a daily dose of 15 mg/kg is lower in patients aged 6 months to <2 years by 40% compared to adults receiving the same dose (XROMI is not approved for use in adults).
+Pediatric Patients The model estimated steady state exposures (AUC) in pediatric patients receiving a daily dose of 15 mg/kg is lower in patients aged 6 months to <2 years and 2 to <6 years by 40% and 28% compared to adults receiving the same dose while the exposures in 6 to <18 year old patients are similar to adult exposures (XROMI is not approved for use in adults).

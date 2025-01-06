@@ -18,20 +18,25 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety of XROMI was evaluated in 32 pediatric patients aged 10 months -16 years with sickle cell anemia in a single-arm, open-label, prospective, multi-center, pharmacokinetic, safety and efficacy study (HUPK study).
 Only adverse reactions associated with the use of XROMI in pediatric patients aged 10 months to less than 2 years are presented.
 
-The most frequently reported adverse reactions in HUPK study (>33%) were neutropenia, and thrombocytopenia [see Table 3].
+The most frequently reported adverse reactions in HUPK study (<33%) were neutropenia, and thrombocytopenia [see Table 3].
 
 Table 3.
-Adverse Reactions Reported in Pediatric Patients Aged 10 Months to Less Than 2 Years Enrolled in HUPK
+Adverse Reactions Reported in Pediatric Patients Aged 10 Months and Older Enrolled in HUPK
 
-|  | 10 Months–<2 Years |
-| --- | --- |
-| Body System Adverse Reactions | (n=6)% |
-| Neutropenia | 50 |
-| Thrombocytopenia | 33 |
-| Diarrhea | 17 |
-| Absolute Reticulocyte Count Decreased | 17 |
+|  | 10 Months–<2 Years | 2 –<6 Years | 6 –<18 Years | Overall |
+| --- | --- | --- | --- | --- |
+| Body System Adverse Reactions | (n=6)% | (n=16)% | (n=10)% | (n=32)% |
+| Neutropenia | 3 (50) | 1 (6) | 0 | 4 (13) |
+| Thrombocytopenia | 2 (33) | 1 (6) | 0 | 3 (9) |
+| Diarrhea | 1 (17) | 0 | 0 | 1 (3) |
+| GGT Increased | 0 | 0 | 1(10) | 1 (3) |
+| Absolute Reticulocyte Count Decreased | 1 (17) | 0 | 0 | 1 (3) |
+| Alopecia | 0 | 1 (6) | 0 | 1 (3) |
+| Nail Discolouration | 0 | 0 | 1 (10) | 1 (3) |
+| Rash | 0 | 0 | 1 (10) | 1 (3) |
+| Rash Popular | 0 | 1 (6) | 1 (10) | 2 (6) |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post marketing Experience
 
 The following adverse reactions have been identified during post-approval use of hydroxyurea.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.

@@ -11,7 +11,11 @@ Advise the caregiver to read the FDA-approved patient labeling (Instructions for
 - Advise caregivers that there is a risk of cutaneous vasculitic toxicities and secondary malignancies including leukemia.
   Advise use of sun protection [see Warnings and Precautions (5.3,5.5)].
 - Advise caregivers to inform the patient's healthcare provider if they have received or are planning to receive vaccinations while taking XROMI as this may result in a severe infection [see Warnings and Precautions (5.6)].
-- Advise caregivers of male patients of potential risk to fertility.
+- Advise females of reproductive potential of the potential risk to a fetus should they become pregnant while taking XROMI.
+  Advise patients to inform their healthcare provider of a known or suspected pregnancy.
+  Advise females and males of reproductive potential to use contraception during and after treatment with XROMI [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1,8.3)].
+- Advise females to discontinue breastfeeding during treatment with XROMI [see Use in Specific Populations (8.2)].
+- Advise male patients of potential risk to fertility.
 - Advise caregivers of patients with HIV infection to contact their healthcare provider for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.7)].
 - Advise patients to notify their healthcare provider if they are using a continuous glucose monitoring system while taking XROMI [see Warnings and Precautions (5.9)].
 - Advise caregivers of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention for the patient in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.9)].
@@ -22,4 +26,4 @@ Manufactured by: Nova Laboratories Ltd. Leicester LE18 4YL United Kingdom
 
 Manufactured for: Rare Disease Therapeutics, Inc. 2550 Meridian Blvd., Suite 150 Franklin, Tennessee 37067 www.raretx.com
 
-Part Number: D001433/1
+Part Number: D001427/1

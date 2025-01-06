@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-XROMI (hydroxyurea) is an antimetabolite available for oral use as oral solution containing 100 mg/mL hydroxyurea.
+XROMI (hydroxyurea) is available for oral use as oral solution containing 100 mg/mL hydroxyurea.
 Inactive ingredients include methyl parahydroxybenzoate, purified water, sodium hydroxide, strawberry flavor, sucralose and xanthan gum.
 Hydroxyurea is a white to off-white crystalline powder.
 It is hygroscopic and freely soluble in water, but practically insoluble in alcohol.

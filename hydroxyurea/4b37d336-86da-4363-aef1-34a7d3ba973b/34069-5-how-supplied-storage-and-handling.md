@@ -25,7 +25,6 @@ If XROMI comes into contact with skin or mucosa, it should be washed immediately
 Spillages must be wiped immediately with a damp disposable towel and discarded in a closed container, such as a plastic bag.
 The spill areas should be cleaned three times using a detergent solution followed by clean water.
 If contact with XROMI occurs in the eye(s), flush the eye(s) thoroughly with water or isotonic eyewash designated for that purpose for at least 15 minutes.
-Women who are pregnant, planning to be or breast-feeding should not handle XROMI.
 Parents / care givers should be advised to keep hydroxyurea out of the sight and reach of children.
 Accidental ingestion can be lethal for children.
 Oral dosing syringes should be rinsed and washed with cold or warm water and dried completely before the next use.
