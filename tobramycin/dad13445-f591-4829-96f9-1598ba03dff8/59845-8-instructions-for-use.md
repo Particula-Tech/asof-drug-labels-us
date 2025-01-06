@@ -94,7 +94,8 @@ How should I store TOBRAMYCIN INHALATION SOLUTION PAK?
 Keep TOBRAMYCIN INHALATION SOLUTION PAK and all medicines out of the reach of children.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Revised: DATE
+
+Revised: 08/2023
 
 Additional Information
 
@@ -106,9 +107,17 @@ TOBRAMYCIN INHALATION SOLUTION PAK: 1-877-236-7239
 
 Manufactured by:
 
-Catalent Pharma Solutions, LLC Woodstock, IL 60098
+Woodstock Sterile Solutions, Inc.
 
-Distributed by: Genericus, Inc., Glen Allen, 23060 VA
+Woodstock, IL 60098
+
+Distributed by:
+
+Genericus, Inc.,
+
+Glen Allen, 23060 VA
 
 899D9999 Rev.
-B 11/2019 © 2016-2019 PulmoFlow, Inc. All rights reserved.
+F 08/2023
+
+© 2023 PulmoFlow, Inc. All rights reserved.

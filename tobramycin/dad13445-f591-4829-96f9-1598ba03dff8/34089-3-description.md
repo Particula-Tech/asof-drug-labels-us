@@ -2,7 +2,7 @@
 
 TOBRAMYCIN INHALATION SOLUTION PAK contains tobramycin inhalation solution, USP and the PARI LC PLUS Reusable Nebulizer (PARI LC PLUS).
 Tobramycin inhalation solution is a sterile, clear, slightly yellow, non-pyrogenic, aqueous solution with the pH and salinity adjusted specifically for administration by a compressed air driven PARI LC PLUS Reusable Nebulizer.
-The chemical formula for tobramycin is C H N O and the molecular weight is 467.52.
+The chemical formula for tobramycin is C18H37N5O9 and the molecular weight is 467.52.
 Tobramycin is O-3-amino-3-deoxy-α-D-glucopyranosyl-(1→4)-O-[2,6-diamino-2,3,6-trideoxy-a-D-ribo - hexopyranosyl-(1→6)]-2-deoxy-L-streptamine.
 The structural formula for tobramycin is:
 

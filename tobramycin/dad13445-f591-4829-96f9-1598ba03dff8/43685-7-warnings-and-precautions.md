@@ -8,6 +8,8 @@ Bronchospasm that occurs during the use of tobramycin inhalation solution should
 
 ## 5.2 Ototoxicity
 
+Ototoxicity with use of Tobramycin Inhalation Solution
+
 Transient tinnitus occurred in eight tobramycin inhalation solution treated patients versus no placebo patients in the clinical studies.
 Tinnitus may be a sentinel symptom of ototoxicity, and therefore the onset of this symptom warrants further clinical investigation.
 In postmarketing experience, patients receiving tobramycin inhalation solution have reported hearing loss.
@@ -16,6 +18,13 @@ Vestibular toxicity may be manifested by vertigo, ataxia or dizziness.
 Patients with known or suspected auditory or vestibular dysfunction should be closely monitored when taking tobramycin inhalation solution.
 Monitoring might include obtaining audiometric evaluations and serum tobramycin levels.
 If ototoxicity is noted, the patient should be managed as medically appropriate, including potentially discontinuing tobramycin inhalation solution [see Adverse Reactions (6.2)].
+
+Risk of Ototoxicity Due to Mitochondrial DNA Variants
+
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
 
 ## 5.3 Nephrotoxicity
 

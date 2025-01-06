@@ -38,7 +38,17 @@ TOBRAMYCIN INHALATION SOLUTION PAK: 1-877-236-7239
 
 Manufactured by:
 
-Catalent Pharma Solutions, LLC Woodstock, IL 60098
+Woodstock Sterile Solutions, Inc.
 
-Distributed by: Genericus, Inc. Glen Allen, 23060 VA 899D9999 Rev.
-B 11/2019 © 2016-2019 Genericus, Inc. All rights reserved.
+Woodstock, IL 60098
+
+Distributed by:
+
+Genericus, Inc.
+
+Glen Allen, 23060 VA
+
+899D9999 Rev.
+F 08/2023
+
+© 2023 Genericus, Inc. All rights reserved.
