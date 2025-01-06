@@ -18,4 +18,9 @@ Hypoglycemia Inform the patient that PLAQUENIL has been associated with severe h
 Advise the patient to monitor blood sugar levels if possible and to seek medical attention if experiencing any of the signs and symptoms of hypoglycemia such as sweating, shakiness, weakness, dizziness, tachycardia, nausea, blurred vision, confusion, fainting, or loss of consciousness [see Warnings and Precautions (5.10)].
 Pregnancy Inform the patient that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to PLAQUENIL during pregnancy.
 Encourage patients to register by contacting 1-877-311-8972 [see Use in Specific Populations (8.1)].
-Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland ©2015 All rights reserved.
+Manufactured for:
+
+Advanz Pharma (US) Corp. Bannockburn, IL 60015
+
+PLAQUENIL® is a registered trademark of Mercury Pharma Group Limited.
+Distributed by Advanz Pharma (US) Corp. under license.
