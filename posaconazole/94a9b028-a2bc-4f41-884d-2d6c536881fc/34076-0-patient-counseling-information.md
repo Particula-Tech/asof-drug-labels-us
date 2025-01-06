@@ -23,7 +23,7 @@ Serious and Potentially Serious Adverse Reactions
 
 Advise patients to inform their physician immediately if they:
 
-- notice a change in heart rate or heart rhythm, or have a heart condition or circulatory disease.
+- notice a change in heart rate or heart rhythm or have a heart condition or circulatory disease.
   Posaconazole can be administered with caution to patients with potentially proarrhythmic conditions.
 - are pregnant, plan to become pregnant, or are nursing.
 - have liver disease or develop itching, nausea or vomiting, their eyes or skin turn yellow, they feel more tired than usual or feel like they have the flu.

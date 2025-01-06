@@ -10,5 +10,5 @@ Haimen Pharma Inc., No. 163, Zhuhai Rd., Binjiang Street, Haimen District, Nanto
 
 The trademarks referenced herein are owned by their respective companies.
 
-L7047C Rev.
-08/2022
+L7047D Rev.
+12/2024

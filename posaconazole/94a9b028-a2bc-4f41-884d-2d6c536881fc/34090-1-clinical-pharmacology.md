@@ -38,7 +38,7 @@ Table 20: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunte
 | Healthy Volunteers | 12 | 51,618 (25) | 2,151 (25) | 2,764 (21) | 1,785 (29) | 4 (3 to 6) | 31 (40) | 7.5 (26) |
 | Patients | 50 | 37,900 (42) | 1,580 (42) | 2,090 (38) | 1,310 (50) | 4 (1.3 to 8.3) | - | 9.39 (45) |
 
-CV = coefficient of variation expressed as a percentage (%CV); AUC0-T = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; t½ = terminal phase half-life; CL /F = Apparent total body clearance
+CV = coefficient of variation expressed as a percentage (%CV); AUC0-T = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; t½ = terminal phase half-life; CL/F = Apparent total body clearance
 
 * 300 mg twice daily on Day 1, then 300 mg once daily thereafter † Cav = time-averaged concentrations (i.e., AUC0-24 hr/24hr) ‡ Median (minimum-maximum)
 
@@ -56,7 +56,7 @@ Table 22: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Foll
 |  | Fasting Conditions |  | Fed Conditions (High Fat Meal)* |  | Fed/Fasting |
 | Cmax (ng/mL) | 14 | 935 (34) | 16 | 1,060 (25) | 1.16 (0.96, 1.41) |
 | AUC0-72hr (hr∙ng/mL) | 14 | 26,200 (28) | 16 | 38,400 (18) | 1.51 (1.33, 1.72) |
-| Tmax †(hr) | 14 | 5.00 (3.00, 8.00) | 16 | 6.00 (5.00, 24.00) | N/A |
+| Tmax†(hr) | 14 | 5.00 (3.00, 8.00) | 16 | 6.00 (5.00, 24.00) | N/A |
 
 GMR=Geometric least-squares mean ratio; CI=Confidence interval
 
@@ -68,7 +68,7 @@ Table 23: The Effect of Concomitant Medications that Affect the Gastric pH and G
 
 | Coadministered Drug | Administration Arms | Change in Cmax (ratio estimate*; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate*; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- |
-| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 meq/5 mL, 20 mL | ↑6% (1.06; 0.90 to 1.26)↑ | ↑4% (1.04; 0.90 to 1.20) |
+| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 mEq/5 mL, 20 mL | ↑6% (1.06; 0.90 to 1.26)↑ | ↑4% (1.04; 0.90 to 1.20) |
 | Ranitidine (Zantac®) (Alteration in gastric pH) | 150 mg (morning dose of 150 mg Ranitidine twice daily) | ↑4% (1.04; 0.88 to 1.23)↑ | ↓3% (0.97; 0.84 to 1.12) |
 | Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, Day -4 to 1) | ↑2% (1.02; 0.88 to 1.17)↑ | ↑5% (1.05; 0.89 to 1.24) |
 | Metoclopramide (Reglan®) (Increase in gastric motility) | 15 mg four times daily for 2 days (Day -1 and 1) | ↓14% (0.86, 0.73,1.02) | ↓7% (0.93, 0.803,1.07) |
@@ -150,9 +150,6 @@ A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three t
 Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state Cav was similar between these patients and adults (≥18 years of age).
 In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with posaconazole oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2,500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
 
-Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.’s NOXAFIL (posaconazole) delayed-release tablets.
-However, due to Merck Sharp & Dohme Corp.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 12.4 Microbiology
 
 Mechanism of Action:
@@ -166,4 +163,4 @@ The clinical significance of this finding is not known.
 
 Antimicrobial Activity: Posaconazole has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 Microorganisms: Aspergillus spp. and Candida spp.
-Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Susceptibility Testing: For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

@@ -4,7 +4,7 @@ The following serious and otherwise important adverse reactions are discussed in
 
 - Hypersensitivity [see Contraindications (4.1)]
 - Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)]
-- Hepatic Toxicity [see Warnings and Precautions (5.4)]
+- Hepatic Toxicity [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -17,7 +17,7 @@ Clinical Trial Experience with Posaconazole Delayed-Release Tablets for Prophyla
 The safety of posaconazole delayed-release tablets has been assessed in 230 patients in clinical trials.
 Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole delayed-release tablets when given as antifungal prophylaxis (Posaconazole Delayed-Release Tablet Study).
 Patients were immunocompromised with underlying conditions including hematological malignancy, neutropenia post-chemotherapy, GVHD, and post HSCT.
-This patient population was 62% male, had a mean age of 51 years (range 19 to 78 years, 17% of patients were 65 years of age), and were 93% white and 16% Hispanic.
+This patient population was 62% male, had a mean age of 51 years (range 19 to 78 years, 17% of patients were ≥65 years of age), and were 93% white and 16% Hispanic.
 Posaconazole therapy was given for a median duration of 28 days.
 Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following twice daily dosing on Day 1 in each cohort).
 Table 9 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥ 10% in Posaconazole Delayed-Release Tablet Study.
@@ -58,9 +58,6 @@ Table 9: Posaconazole Delayed-Release Tablet Study: Adverse Reactions in at Leas
 The most frequently reported adverse reactions (>25%) with posaconazole delayed-release tablets 300 mg once daily were diarrhea, pyrexia, and nausea.
 
 The most common adverse reaction leading to discontinuation of posaconazole delayed-release tablets 300 mg once daily was nausea (2%).
-
-Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.’s NOXAFIL (posaconazole) delayed-release tablets.
-However, due to Merck Sharp & Dohme Corp.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 
