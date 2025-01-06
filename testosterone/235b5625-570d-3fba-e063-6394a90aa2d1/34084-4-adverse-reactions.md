@@ -18,9 +18,9 @@ Because some of these reactions were reported voluntarily from a population of u
 Administration site reactions: Inflammation and pain at the site of intramuscular injection.
 Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions.
 Cardiovascular disorders: myocardial infarction, stroke.
-Endocrine and urogenital: Gynecomastia premature closure of bony epiphyses with termination of growth, precocious puberty.
+Endocrine and urogenital: Gynecomastia, premature closure of bony epiphyses with termination of growth, precocious puberty.
 Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.
-Gastrointestinal:Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis.
+Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis.
 Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia.
 Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia.
 Reproductive system: Excessive frequency and duration of penile erections, oligospermia, and priapism
@@ -28,4 +28,4 @@ Reproductive system: Excessive frequency and duration of penile erections, oligo
 Vascular disorders: Venous thromboembolism.
 
 Skin and appendages: Male pattern baldness, seborrhea, and acne.
-Special senses:Rare cases of central serous chorioretinopathy (CSCR).
+Special senses: Rare cases of central serous chorioretinopathy (CSCR).

@@ -81,7 +81,7 @@ Monitor serum calcium concentrations periodically in these patients.
 
 ## 5.14 Decreased Thyroxine-binding Globulin
 
-Androgens, including AZMIRO, may decrease concentrations of thyroxine-binding globulin, resulting in decreased total T 4serum levels and increased resin uptake of T 3and T 4.
+Androgens, including AZMIRO, may decrease concentrations of thyroxine-binding globulin, resulting in decreased total T 4 serum levels and increased resin uptake of T 3 and T 4.
 Free thyroid hormone levels remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
 
 ## 5.15 Increases in Prolactin

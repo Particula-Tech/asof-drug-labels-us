@@ -21,7 +21,7 @@ Individualize the dose and schedule of AZMIRO based on the patient’s age, diag
 
 Important Administration Information • The prefilled syringe should be administered as an intramuscular injection by a healthcare professional only. • The prefilled syringe should only be used to administer doses of 200 mg.
 For administration of doses other than 200 mg, use the AZMIRO single-dose vial. • AZMIRO 200 mg/mL is supplied as single-dose prefilled syringe with luer lock connector. • The prefilled syringe carton does not contain a needle.
-Obtain suitable needle separately. • Do notuse if the packaging appears to be damaged. • Do notuse the prefilled syringe if it appears to be damaged or the syringe cap is detached from the Luer lock.
+Obtain suitable needle separately. • Do not use if the packaging appears to be damaged. • Do not use the prefilled syringe if it appears to be damaged or the syringe cap is detached from the Luer lock.
 Administration Instructions Hold the syringe upright while gripping the ribbed part of the luer lock.
 Then with the other hand unscrew the syringe cap in a counter-clockwise direction (Figure A). Once the syringe cap is removed, avoid any hand contact with the tip of the glass syringe, to maintain the sterility.
 
