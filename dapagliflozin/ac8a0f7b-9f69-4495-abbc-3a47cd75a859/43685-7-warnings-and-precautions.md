@@ -90,11 +90,12 @@ Serious urinary tract infections including urosepsis and pyelonephritis requirin
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.2)].
 
-## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.5 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Insulin and insulin secretagogues (e.g., sulfonylureas) are known to cause hypoglycemia.
 XIGDUO XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with XIGDUO XR [see Drug Interactions (7)].
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
+Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.6 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
 

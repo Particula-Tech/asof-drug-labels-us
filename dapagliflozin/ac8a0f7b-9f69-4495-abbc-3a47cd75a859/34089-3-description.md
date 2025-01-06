@@ -8,17 +8,17 @@ Dapagliflozin is described chemically as D-glucitol, 1,5-anhydro-1-C-[4-chloro-3
 The empirical formula is C21H25ClO6•C3H8O2•H2O and the formula weight is 502.98.
 The structural formula is:
 
-Metformin hydrochloride
+Metformin HCl
 
-Metformin hydrochloride (N,N-dimethylimidodicarbonimidic diamide hydrochloride) is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
-Metformin hydrochloride is freely soluble in water, slightly soluble in alcohol, and is practically insoluble in acetone, ether, and chloroform.
+Metformin HCl (N,N-dimethylimidodicarbonimidic diamide HCl) is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
+Metformin HCl is freely soluble in water, slightly soluble in alcohol, and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
-The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
+The pH of a 1% aqueous solution of metformin HCl is 6.68.
 The structural formula is:
 
 XIGDUO XR
 
-XIGDUO XR is available for oral administration as tablets containing the equivalent of 2.5 mg dapagliflozin as dapagliflozin propanediol and 1,000 mg metformin hydrochloride which is equivalent to 779.86 mg metformin base (XIGDUO XR 2.5 mg/1,000 mg), 5 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin hydrochloride which is equivalent to 389.9 mg metformin base (XIGDUO XR 5 mg/500 mg), the equivalent of 5 mg dapagliflozin as dapagliflozin propanediol and 1,000 mg metformin hydrochloride which is equivalent to 779.86 mg metformin base (XIGDUO XR 5 mg/1,000 mg), the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin hydrochloride which is equivalent to 389.9 mg metformin base (XIGDUO XR 10 mg/500 mg), or the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 1,000 mg metformin hydrochloride which is equivalent to 779.86 mg metformin base (XIGDUO XR 10 mg/1,000 mg).
+XIGDUO XR is available for oral administration as tablets containing the equivalent of 2.5 mg dapagliflozin as dapagliflozin propanediol and 1,000 mg metformin HCl which is equivalent to 779.86 mg metformin base (XIGDUO XR 2.5 mg/1,000 mg), 5 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin HCl which is equivalent to 389.9 mg metformin base (XIGDUO XR 5 mg/500 mg), the equivalent of 5 mg dapagliflozin as dapagliflozin propanediol and 1,000 mg metformin HCl which is equivalent to 779.86 mg metformin base (XIGDUO XR 5 mg/1,000 mg), the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 500 mg metformin HCL which is equivalent to 389.9 mg metformin base (XIGDUO XR 10 mg/500 mg), or the equivalent of 10 mg dapagliflozin as dapagliflozin propanediol and 1,000 mg metformin HCL which is equivalent to 779.86 mg metformin base (XIGDUO XR 10 mg/1,000 mg).
 
 Each film-coated tablet of XIGDUO XR contains the following inactive ingredients: anhydrous lactose, carboxymethylcellulose sodium, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, and silicon dioxide.
 

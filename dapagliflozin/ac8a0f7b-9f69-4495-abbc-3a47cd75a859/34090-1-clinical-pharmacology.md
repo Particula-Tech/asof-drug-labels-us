@@ -135,7 +135,7 @@ Based on a population pharmacokinetic analysis, gender does not have a clinicall
 Metformin HCl
 
 Metformin pharmacokinetic parameters did not differ significantly between healthy subjects and patients with type 2 diabetes mellitus when analyzed according to gender (males=19, females=16).
-Similarly, in controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin was comparable in males and females.
+Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
 
 Racial or Ethnic Groups
 
@@ -194,7 +194,7 @@ Overall, dapagliflozin is unlikely to affect the pharmacokinetics of concurrentl
 
 Effects of Other Drugs on Metformin
 
-Table 7 shows the effect of other coadministered drugs on metformin in adults.
+Table 7 shows the effect of coadministered drugs on the pharmacokinetics of metformin in adults.
 
 Table 7: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
@@ -212,7 +212,7 @@ Table 7: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 Effects of Metformin on Other Drugs
 
-Table 8 shows the effect of metformin on other coadministered drugs in adults.
+Table 8 shows the effect of metformin on the pharmacokinetics of coadministered drugs in adults.
 
 Table 8: Effect of Metformin on Coadministered Drug Systemic Exposure
 
@@ -229,7 +229,7 @@ Table 8: Effect of Metformin on Coadministered Drug Systemic Exposure
 
 Effects of Other Drugs on Dapagliflozin
 
-Table 9 shows the effect of coadministered drugs on dapagliflozin in adults.
+Table 9 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin in adults.
 No dose adjustments are recommended for dapagliflozin.
 
 Table 9: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure

@@ -99,11 +99,9 @@ The safety and effectiveness of XIGDUO XR for glycemic control in patients with 
 
 The safety and effectiveness of XIGDUO XR have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)]:
 
-- 
-  - 
-    - •hospitalization for heart failure in patients with type 2 diabetes mellitus and established cardiovascular disease (CVD) or multiple cardiovascular (CV) risk factors.
-    - •cardiovascular death and hospitalization for heart failure in patients with heart failure (NYHA class II-IV) with reduced ejection fraction.
-    - •sustained estimated glomerular filtration rate decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
+- •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease (CVD) or multiple cardiovascular (CV) risk factors.
 
 ## 8.5 Geriatric Use
 
@@ -118,9 +116,11 @@ A total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years a
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
 In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin for glycemic control had adverse reactions of hypotension [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
-In both the DAPA-HF and DAPA-CKD trials, safety and efficacy were similar for patients aged 65 years and younger and those older than 65 in both the overall population and the patients with type 2 diabetes mellitus.
-In the DAPA‑HF trial, 2714 (57%) out of 4744 patients with heart failure with reduced ejection fraction (HFrEF) were older than 65 years.
+In the DAPA-HF, DELIVER and DAPA-CKD trials, safety and efficacy were similar for patients aged 65 years and younger and those older than 65 in both the overall population and in the patients with type 2 diabetes mellitus.
+In the DAPA HF trial, 2714 (57%) out of 4744 patients with heart failure with reduced ejection fraction (HFrEF) were older than 65 years.
 Out of 2139 patients with HFrEF and type 2 diabetes mellitus, 1211 (57%) were older than 65 years.
+In the DELIVER trial, 4759 (76%) out of 6263 patients with heart failure (LVEF >40%) were older than 65 years.
+Out of 2806 patients with LVEF >40% and type 2 diabetes mellitus, 2072 (74%) were older than 65 years.
 In the DAPA-CKD trial, 1818 (42%) out of 4304 patients with chronic kidney disease were older than 65 years.
 Out of 2906 patients with chronic kidney disease and type 2 diabetes mellitus, 1399 (48%) were older than 65 years.
 
@@ -132,7 +132,7 @@ Assess renal function more frequently in elderly patients [see Warnings and Prec
 
 ## 8.6 Renal Impairment
 
-Initiation of XIGDUO XR is not recommended in patients with an eGFR below 45 mL/min/1.73 m2 and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end‑stage renal disease or patients on dialysis [see Dosage and Administration (2.4), Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
+Initiation of XIGDUO XR is not recommended in patients with an eGFR below 45 mL/min/1.73 m2 and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or end‑stage renal disease [see Dosage and Administration (2.4), Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
 
 Dapagliflozin
 

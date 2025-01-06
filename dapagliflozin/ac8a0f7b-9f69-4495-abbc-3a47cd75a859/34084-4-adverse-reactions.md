@@ -6,7 +6,7 @@ The following important adverse reactions are described below and elsewhere in t
 - •Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - •Volume Depletion [see Warnings and Precautions (5.3)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
-- •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
+- •Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.6)]
 - •Vitamin B12 Concentrations [see Warnings and Precautions (5.7)]
 - •Genital Mycotic Infections [see Warnings and Precautions (5.8)]
@@ -17,8 +17,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials with Metformin HCl Extended-Release in Adults with Type 2 Diabetes Mellitus
 
-In placebo-controlled monotherapy trials of metformin extended-release, diarrhea and nausea/vomiting were reported in >5% of metformin-treated patients and more commonly than in placebo-treated patients (9.6% versus 2.6% for diarrhea and 6.5% versus 1.5% for nausea/vomiting).
-Diarrhea led to discontinuation of study medication in 0.6% of the patients treated with metformin extended-release.
+In placebo-controlled monotherapy trials of metformin HCl extended-release, diarrhea and nausea/vomiting were reported in >5% of metformin-treated patients and more commonly than in placebo-treated patients (9.6% versus 2.6% for diarrhea and 6.5% versus 1.5% for nausea/vomiting).
+Diarrhea led to discontinuation of study medication in 0.6% of the patients treated with metformin HCl extended-release.
 
 Clinical Trials with Dapagliflozin in Adults
 
@@ -26,40 +26,40 @@ Dapagliflozin
 
 Dapagliflozin has been evaluated in clinical trials in adult and pediatric patients 10 years of age and older with type 2 diabetes mellitus, in adult patients with heart failure, and in adult patients with chronic kidney disease.
 The overall safety profile of dapagliflozin was consistent across the studied indications.
-No new adverse reactions were identified in the DAPA-HF and DAPA-CKD trials.
+No new adverse reactions were identified in the DAPA-HF, DELIVER and DAPA-CKD trials.
 
 Pools of Placebo-Controlled Clinical Trials for Glycemic Control in Adults
 
 Pool of 8 Placebo-Controlled Adult Trials for Dapagliflozin and Metformin HCl for Glycemic Control
 
-Data from a prespecified pool of adult patients from 8 short-term, placebo-controlled trials of dapagliflozin coadministered with metformin immediate- or extended-release was used to evaluate safety.
-This pool included several add-on trials (metformin alone and in combination with a dipeptidyl peptidase-4 [DPP4] inhibitor and metformin, or insulin and metformin, 2 initial combination with metformin trials, and 2 trials of patients with CVD and type 2 diabetes mellitus who received their usual treatment [with metformin as background therapy]).
-For trials that included background therapy with and without metformin, only patients who received metformin were included in the 8-trial placebo-controlled pool.
-Across these 8 trials, 983 patients were treated once daily with dapagliflozin 10 mg and metformin, and 1185 were treated with placebo and metformin.
+Data from a prespecified pool of adult patients from 8 short-term, placebo-controlled trials of dapagliflozin coadministered with metformin HCl immediate- or extended-release was used to evaluate safety.
+This pool included several add-on trials (metformin HCl alone and in combination with a dipeptidyl peptidase-4 [DPP4] inhibitor and metformin HCl, or insulin and metformin HCl, 2 initial combination with metformin HCl trials, and 2 trials of patients with CVD and type 2 diabetes mellitus who received their usual treatment [with metformin HCl as background therapy]).
+For trials that included background therapy with and without metformin HCl, only patients who received metformin HCl were included in the 8-trial placebo-controlled pool.
+Across these 8 trials, 983 patients were treated once daily with dapagliflozin 10 mg and metformin HCl, and 1185 were treated with placebo and metformin HCl.
 These 8 trials provide a mean duration of exposure of 23 weeks.
 The mean age of the population was 57 years and 2% were older than 75 years.
 Fifty-four percent (54%) of the population was male; 88% White, 6% Asian, and 3% Black or African American.
 At baseline, the population had diabetes for an average of 8 years, mean hemoglobin A1c (HbA1c) was 8.4%, and renal function was normal or mildly impaired in 90% of patients and moderately impaired in 10% of patients.
 
-The overall incidence of adverse events for the 8-trial, short-term, placebo-controlled pool in adult patients treated with dapagliflozin 10 mg and metformin was 60.3% compared to 58.2% for the placebo and metformin group.
-Discontinuation of therapy due to adverse events in patients who received dapagliflozin 10 mg and metformin was 4% compared to 3.3% for the placebo and metformin group.
-The most commonly reported events leading to discontinuation and reported in at least 3 patients treated with dapagliflozin 10 mg and metformin were renal impairment (0.7%), increased blood creatinine (0.2%), decreased renal creatinine clearance (0.2%), and urinary tract infection (0.2%).
+The overall incidence of adverse events for the 8-trial, short-term, placebo-controlled pool in adult patients treated with dapagliflozin 10 mg and metformin HCl was 60.3% compared to 58.2% for the placebo and metformin HCl group.
+Discontinuation of therapy due to adverse events in patients who received dapagliflozin 10 mg and metformin HCl was 4% compared to 3.3% for the placebo and metformin HCl group.
+The most commonly reported events leading to discontinuation and reported in at least 3 patients treated with dapagliflozin 10 mg and metformin HCl were renal impairment (0.7%), increased blood creatinine (0.2%), decreased renal creatinine clearance (0.2%), and urinary tract infection (0.2%).
 
-Table 2 shows common adverse reactions in adults associated with the use of dapagliflozin and metformin.
-These adverse reactions were not present at baseline, occurred more commonly on dapagliflozin and metformin than on placebo, and occurred in at least 2% of patients treated with either dapagliflozin 5 mg or dapagliflozin 10 mg.
+Table 2 shows common adverse reactions in adults associated with the use of dapagliflozin and metformin HCl.
+These adverse reactions were not present at baseline, occurred more commonly on dapagliflozin and metformin HCl than on placebo, and occurred in at least 2% of patients treated with either dapagliflozin 5 mg or dapagliflozin 10 mg.
 
-Table 2: Adverse Reactions in Placebo-Controlled Trials Reported in ≥2% of Adult Patients Treated with Dapagliflozin and Metformin
+Table 2: Adverse Reactions in Placebo-Controlled Trials Reported in ≥2% of Adult Patients Treated with Dapagliflozin and Metformin HCl
 
-| Placebo and Metformin N=1185 | Dapagliflozin 5 mg and Metformin N=410 | Dapagliflozin 10 mg and Metformin N=983 |  |
+| Placebo and Metformin HCl N=1185 | Dapagliflozin 5 mg and Metformin HCl N=410 | Dapagliflozin 10 mg and Metformin HCl N=983 |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
 | Pool of 8 Placebo-Controlled Trials |  |  |  |
-| Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, genital infection, vulvovaginitis, fungal genital infection, vulvovaginal candidiasis, vulval abscess, genital candidiasis, and vaginitis bacterial. (N for females: Placebo and metformin=534, dapagliflozin 5 mg and metformin=223, dapagliflozin 10 mg and metformin=430). | 1.5 | 9.4 | 9.3 |
+| Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, genital infection, vulvovaginitis, fungal genital infection, vulvovaginal candidiasis, vulval abscess, genital candidiasis, and vaginitis bacterial. (N for females: Placebo and metformin HCl=534, dapagliflozin 5 mg and metformin HCl=223, dapagliflozin 10 mg and metformin HCl=430). | 1.5 | 9.4 | 9.3 |
 | Nasopharyngitis | 5.9 | 6.3 | 5.2 |
 | Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, pyelonephritis, urethritis, and prostatitis. | 3.6 | 6.1 | 5.5 |
 | Diarrhea | 5.6 | 5.9 | 4.2 |
 | Headache | 2.8 | 5.4 | 3.3 |
-| Male genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for males: balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection, posthitis, and balanoposthitis. (N for males: Placebo and metformin=651, dapagliflozin 5 mg and metformin=187, dapagliflozin 10 mg and metformin=553). | 0 | 4.3 | 3.6 |
+| Male genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for males: balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection, posthitis, and balanoposthitis. (N for males: Placebo and metformin HCl=651, dapagliflozin 5 mg and metformin HCl=187, dapagliflozin 10 mg and metformin HCl=553). | 0 | 4.3 | 3.6 |
 | Influenza | 2.4 | 4.1 | 2.6 |
 | Nausea | 2.0 | 3.9 | 2.6 |
 | Back pain | 3.2 | 3.4 | 2.5 |
@@ -74,7 +74,7 @@ Table 2: Adverse Reactions in Placebo-Controlled Trials Reported in ≥2% of Adu
 Pool of 12 Placebo-Controlled Adult Trials for Dapagliflozin 5 and 10 mg for Glycemic Control
 
 The data in Table 3 are derived from 12 glycemic control placebo-controlled trials in adults ranging from 12 to 24 weeks.
-In 4 trials dapagliflozin was used as monotherapy, and in 8 trials dapagliflozin was used as add-on to background antidiabetic therapy or as combination therapy with metformin [see Clinical Studies (14.1)].
+In 4 trials dapagliflozin was used as monotherapy, and in 8 trials dapagliflozin was used as add-on to background antidiabetic therapy or as combination therapy with metformin HCl [see Clinical Studies (14.1)].
 
 These data reflect exposure of 2338 adult patients to dapagliflozin with a mean exposure duration of 21 weeks.
 Patients received placebo (N=1393), dapagliflozin 5 mg (N=1145), or dapagliflozin 10 mg (N=1193) once daily.
@@ -108,7 +108,7 @@ Table 3: Adverse Reactions in Placebo-Controlled Trials of Glycemic Control Repo
 Pool of 13 Placebo-Controlled Adult Trials for Dapagliflozin 10 mg for Glycemic Control
 
 Dapagliflozin 10 mg was also evaluated in a larger glycemic control placebo-controlled trial pool in adult patients.
-This pool combined 13 placebo-controlled trials, including 3 monotherapy trials, 9 add-on to background antidiabetic therapy trials, and an initial combination with metformin trial.
+This pool combined 13 placebo-controlled trials, including 3 monotherapy trials, 9 add-on to background antidiabetic therapy trials, and an initial combination with metformin HCl trial.
 Across these 13 trials, 2360 patients were treated once daily with dapagliflozin 10 mg for a mean duration of exposure of 22 weeks.
 The mean age of the population was 59 years and 4% were older than 75 years.
 Fifty-eight percent (58%) of the population were male; 84% were White, 9% were Asian, and 3% were Black or African American.
@@ -142,10 +142,10 @@ Table 5: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were de
 
 |  | Placebo | Dapagliflozin5 mg | Dapagliflozin10 mg |
 | --- | --- | --- | --- |
-| Add-on to Metformin (24 weeks) | N=137 | N=137 | N=135 |
+| Add-on to Metformin HCl (24 weeks) | N=137 | N=137 | N=135 |
 | Severe [n (%)] | 0 | 0 | 0 |
 | Glucose < 54 mg/dL [n (%)] | 0 | 0 | 0 |
-| Add-on to DPP4 inhibitor (with or without Metformin) (24 weeks) | N=226 | – | N=225 |
+| Add-on to DPP4 inhibitor (with or without Metformin HCl) (24 weeks) | N=226 | – | N=225 |
 | Severe [n (%)] | 0 | – | 1 (0.4) |
 | Glucose < 54 mg/dL [n (%)] | 1 (0.4) | – | 1 (0.4) |
 | Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy. (24 weeks) | N=197 | N=212 | N=196 |
@@ -176,7 +176,7 @@ Ketoacidosis
 In the DECLARE trial [see Clinical Studies (14.3)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 adult patients in the dapagliflozin-treated group and in 12 out of 8569 adult patients in the placebo group.
 The events were evenly distributed over the trial period.
 
-Laboratory Tests in Adults with Type 2 Diabetes Mellitus treated with Dapagliflozin or Metformin
+Laboratory Tests in Adults with Type 2 Diabetes Mellitus treated with Dapagliflozin or Metformin HCl
 
 Dapagliflozin
 
@@ -199,6 +199,10 @@ In the pool of 13 placebo-controlled trials of glycemic control, changes from ba
 Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and dapagliflozin 10 mg groups, respectively.
 In the DECLARE trial [see Clinical Studies (14.3)], mean changes from baseline after 4 years were 0.4 mg/dL versus ‑4.1 mg/dL for total cholesterol, and ‑2.5 mg/dL versus ‑4.4 mg/dL for LDL cholesterol, in dapagliflozin 10 mg‑treated and the placebo groups, respectively.
 
+Decrease in Serum Bicarbonate
+
+In a trial of concomitant therapy of dapagliflozin 10 mg with exenatide extended release (on a background of metformin HCl) in adults, four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the dapagliflozin and exenatide extended release treatment groups [see Warning and Precautions (5.2)].
+
 Metformin HCl
 
 Vitamin B12 Concentrations
@@ -211,13 +215,13 @@ Dapagliflozin
 
 The dapagliflozin safety profile observed in the 26-week placebo-controlled clinical trial with a 26-week extension in 157 pediatric patients aged 10 years and older with type 2 diabetes mellitus was similar to that observed in adults [see Clinical Studies (14.2)].
 
-Metformin
+Metformin HCl
 
 In clinical trials with metformin HCl immediate-release tablets in pediatric patients with type 2 diabetes mellitus, the profile of adverse reactions was similar to that observed in adults.
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during post‑approval use of dapagliflozin or metformin.
+Additional adverse reactions have been identified during post‑approval use of XIGDUO XR, dapagliflozin or metformin HCl.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Dapagliflozin

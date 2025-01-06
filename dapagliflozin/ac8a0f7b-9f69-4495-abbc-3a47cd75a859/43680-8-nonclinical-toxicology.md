@@ -17,6 +17,8 @@ In rats, the highest dose was approximately 131-times (males) and 186-times (fem
 Dapagliflozin was negative in the Ames mutagenicity assay and was positive in a series of in vitro clastogenicity assays in the presence of S9 activation and at concentrations greater than or equal to 100 μg/mL.
 Dapagliflozin was negative for clastogenicity in a series of in vivo studies evaluating micronuclei or DNA repair in rats at exposure multiples greater than 2100-times the clinical dose.
 
+There was no carcinogenicity or mutagenicity signal in animal studies, suggesting that dapagliflozin does not represent a genotoxic risk to humans.
+
 Dapagliflozin had no effects on mating, fertility, or early embryonic development in treated male or female rats at exposure multiples less than or equal to 1708-times and 998-times the maximum recommended human dose in males and females, respectively.
 
 Metformin HCl
