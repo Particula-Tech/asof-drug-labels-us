@@ -26,29 +26,29 @@ In controlled clinical trials with about 80 pediatric patients and in well-monit
 
 In patients taking naproxen in clinical trials, the most frequently reported adverse experiences in approximately 1% to 10% of patients were:
 
-Gastrointestinal (GI) Experiences, including: heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis
+Gastrointestinal (GI) Experiences, including:heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis
 
-Central Nervous System: headache*, dizziness*, drowsiness*, lightheadedness, vertigo
+Central Nervous System:headache*, dizziness*, drowsiness*, lightheadedness, vertigo
 
-Dermatologic: pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura
+Dermatologic:pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura
 
-Special Senses: tinnitus*, visual disturbances, hearing disturbances
+Special Senses:tinnitus*, visual disturbances, hearing disturbances
 
-Cardiovascular: edema*, palpitations
+Cardiovascular:edema*, palpitations
 
-General: dyspnea*, thirst
+General:dyspnea*, thirst
 
 *Incidence of reported reaction between 3% and 9%.
 Those reactions occurring in less than 3% of the patients are unmarked.
 
 In patients taking NSAIDs, the following adverse experiences have also been reported in approximately 1% to 10% of patients.
 
-Gastrointestinal (GI) Experiences, including: flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
+Gastrointestinal (GI) Experiences, including:flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
 
-General: abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes
+General:abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes
 
 The following are additional adverse experiences reported in <1% of patients taking naproxen during clinical trials.
-Gastrointestinal: pancreatitis, vomiting Hepatobiliary: jaundice Hemic and Lymphatic: melena, thrombocytopenia, agranulocytosis Nervous System: inability to concentrate Dermatologic: skin rashes
+Gastrointestinal:pancreatitis, vomiting Hepatobiliary:jaundice Hemic and Lymphatic:melena, thrombocytopenia, agranulocytosis Nervous System:inability to concentrate Dermatologic:skin rashes
 
 ## 6.2 Postmarketing Experience
 
@@ -58,52 +58,52 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following are additional adverse experiences reported in <1% of patients taking naproxen during clinical trials and through postmarketing reports.
 Those adverse reactions observed through postmarketing reports are italicized.
 
-Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorders, pyrexia (chills and fever)
+Body as a Whole:anaphylactoid reactions, angioneurotic edema, menstrual disorders, pyrexia (chills and fever)
 
-Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
+Cardiovascular:congestive heart failure, vasculitis, hypertension, pulmonary edema
 
-Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
-Esophagitis, stomatitis, hematemesis, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
+Gastrointestinal:inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
+Esophagitis, stomatitis, hematemesis, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease).
 
-Hepatobiliary: abnormal liver function tests, hepatitis (some cases have been fatal)
+Hepatobiliary:abnormal liver function tests, hepatitis (some cases have been fatal)
 
-Hemic and Lymphatic: eosinophilia, leucopenia, granulocytopenia, hemolytic anemia, aplastic anemia
+Hemic and Lymphatic:eosinophilia, leucopenia, granulocytopenia, hemolytic anemia, aplastic anemia
 
-Metabolic and Nutritional: hyperglycemia, hypoglycemia
+Metabolic and Nutritional:hyperglycemia, hypoglycemia
 
-Nervous System: depression, dream abnormalities, insomnia, malaise, myalgia, muscle weakness, aseptic meningitis, cognitive dysfunction, convulsions
+Nervous System:depression, dream abnormalities, insomnia, malaise, myalgia, muscle weakness, aseptic meningitis, cognitive dysfunction, convulsions
 
-Respiratory: eosinophilic pneumonitis, asthma
+Respiratory:eosinophilic pneumonitis, asthma
 
-Dermatologic: alopecia, urticaria, toxic epidermal necrolysis, erythema multiforme, erythema nodosum, fixed drug eruption, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, photosensitive dermatitis, photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa.
+Dermatologic:alopecia, urticaria, toxic epidermal necrolysis, erythema multiforme, erythema nodosum, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, fixed drug eruption (FDE), photosensitive dermatitis, photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa.
 If skin fragility, blistering or other symptoms suggestive of pseudoporphyria occur, treatment should be discontinued and the patient monitored.
 
-Special Senses: hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema
+Special Senses:hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema
 
-Urogenital: glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
+Urogenital:glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
 
-Reproduction (female): infertility
+Reproduction (female):infertility
 
 In patients taking NSAIDs, the following adverse experiences have also been reported in <1% of patients.
 
-Body as a Whole: fever, infection, sepsis, anaphylactic reactions, appetite changes, death
+Body as a Whole:fever, infection, sepsis, anaphylactic reactions, appetite changes, death
 
-Cardiovascular: hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction
+Cardiovascular:hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction
 
-Gastrointestinal: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation
+Gastrointestinal:dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation
 
-Hepatobiliary: hepatitis, liver failure
+Hepatobiliary:hepatitis, liver failure
 
-Hemic and Lymphatic: rectal bleeding, lymphadenopathy, pancytopenia
+Hemic and Lymphatic:rectal bleeding, lymphadenopathy, pancytopenia
 
-Metabolic and Nutritional: weight changes
+Metabolic and Nutritional:weight changes
 
-Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
+Nervous System:anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
 
-Respiratory: asthma, respiratory depression, pneumonia
+Respiratory:asthma, respiratory depression, pneumonia
 
-Dermatologic: exfoliative dermatitis
+Dermatologic:exfoliative dermatitis
 
-Special Senses: blurred vision, conjunctivitis
+Special Senses:blurred vision, conjunctivitis
 
-Urogenital: cystitis, dysuria, oliguria/polyuria, proteinuria
+Urogenital:cystitis, dysuria, oliguria/polyuria, proteinuria

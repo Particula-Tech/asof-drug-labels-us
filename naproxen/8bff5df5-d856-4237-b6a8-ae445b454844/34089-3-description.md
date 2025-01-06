@@ -10,8 +10,8 @@ ANAPROX DS tablets are available as dark blue tablets containing 550 mg of napro
 
 Naproxen is a propionic acid derivative related to the arylacetic acid group of nonsteroidal anti-inflammatory drugs.
 The chemical names for naproxen and naproxen sodium are (S)-6-methoxy-α-methyl-2-naphthaleneacetic acid and (S)-6-methoxy-α-methyl-2-naphthaleneacetic acid, sodium salt, respectively.
-Naproxen has a molecular weight of 230.26 and a molecular formula of C14H14O3.
-Naproxen sodium has a molecular weight of 252.23 and a molecular formula of C14H13NaO3.
+Naproxen has a molecular weight of 230.26 and a molecular formula of C 14H 14O 3.
+Naproxen sodium has a molecular weight of 252.23 and a molecular formula of C 14H 13NaO 3.
 Naproxen and naproxen sodium have the following structures, respectively:
 
 Naproxen is an odorless, white to off-white crystalline substance.

@@ -69,7 +69,7 @@ Monitor blood pressure (BP) during the initiation of NSAID treatment and through
 
 ## 5.5 Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -115,6 +115,8 @@ When NAPROSYN Tablets, EC-NAPROSYN, or ANAPROX DS is used in patients with preex
 ## 5.9 Serious Skin Reactions
 
 NSAIDs, including naproxen, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of NAPROSYN Tablets, EC-NAPROSYN, or ANAPROX DS at the first appearance of skin rash or any other sign of hypersensitivity.
 NAPROSYN Tablets, EC-NAPROSYN, and ANAPROX DS are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].

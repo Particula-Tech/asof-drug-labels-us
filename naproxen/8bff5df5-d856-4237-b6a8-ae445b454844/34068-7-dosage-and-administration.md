@@ -5,7 +5,7 @@
 Carefully consider the potential benefits and risks of NAPROSYN Tablets, EC-NAPROSYN and ANAPROX DS and other treatment options before deciding to use NAPROSYN Tablets, EC-NAPROSYN and ANAPROX DS.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-After observing the response to initial therapy with NAPROSYN Tablets, EC-NAPROSYN or ANAPROX DS, the dose and frequency should be adjusted to suit an individual patient’s needs.
+After observing the response to initial therapy with NAPROSYN Tablets, EC-NAPROSYN or ANAPROX DS, the dose and frequency should be adjusted to suit an individual patient's needs.
 
 To maintain the integrity of the enteric coating, the EC-NAPROSYN tablet should not be broken, crushed or chewed during ingestion.
 

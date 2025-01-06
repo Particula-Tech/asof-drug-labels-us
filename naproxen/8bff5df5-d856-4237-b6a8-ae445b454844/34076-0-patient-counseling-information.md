@@ -14,7 +14,7 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
 If these occur, instruct patients to stop NAPROSYN Tablets, EC-NAPROSYN or ANAPROX DS and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
 Heart Failure and Edema
@@ -42,7 +42,7 @@ If treatment with NAPROSYN Tablets, EC-NAPROSYN, or ANAPROX DS is needed for a p
 Avoid Concomitant Use of NSAIDs
 
 Inform patients that the concomitant use of NAPROSYN Tablets, EC-NAPROSYN and ANAPROX DS with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
-Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
+Alert patients that NSAIDs may be present in "over the counter" medications for treatment of colds, fever, or insomnia.
 
 Use of NSAIDS and Low-Dose Aspirin
 

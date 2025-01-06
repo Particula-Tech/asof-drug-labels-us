@@ -79,7 +79,7 @@ Risk Summary
 
 The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NAPROSYN Tablets, EC-NAPROSYN, or ANAPROX DS and any potential adverse effects on the breastfed infant from the NAPROSYN Tablets, EC-NAPROSYN, or ANAPROX DS or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for NAPROSYN Tablets, EC-NAPROSYN, or ANAPROX DS and any potential adverse effects on the breastfed infant from the NAPROSYN Tablets, EC-NAPROSYN, or ANAPROX DS or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 

@@ -25,7 +25,7 @@ However, the interaction was more prominent after discontinuation of naproxen (w
 ## 12.3 Pharmacokinetics
 
 Naproxen and naproxen sodium are rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
-The different dosage forms of NAPROSYN are bioequivalent in terms of extent of absorption (AUC) and peak concentration (Cmax); however, the products do differ in their pattern of absorption.
+The different dosage forms of NAPROSYN are bioequivalent in terms of extent of absorption (AUC) and peak concentration (C max); however, the products do differ in their pattern of absorption.
 These differences between naproxen products are related to both the chemical form of naproxen used and its formulation.
 Even with the observed differences in pattern of absorption, the elimination half-life of naproxen is unchanged across products ranging from 12 to 17 hours.
 Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life.
@@ -40,29 +40,29 @@ The enteric polymer coating selected for EC-NAPROSYN dissolves above pH 6.
 When EC-NAPROSYN was given to fasted subjects, peak plasma levels were attained about 4 to 6 hours following the first dose (range: 2 to 12 hours).
 An in vivo study in man using radiolabeled EC-NAPROSYN tablets demonstrated that EC-NAPROSYN dissolves primarily in the small intestine rather than in the stomach, so the absorption of the drug is delayed until the stomach is emptied.
 
-When EC-NAPROSYN and NAPROSYN Tablets were given to fasted subjects (n=24) in a crossover study following 1 week of dosing, differences in time to peak plasma levels (Tmax) were observed, but there were no differences in total absorption as measured by Cmax and AUC:
+When EC-NAPROSYN and NAPROSYN Tablets were given to fasted subjects (n=24) in a crossover study following 1 week of dosing, differences in time to peak plasma levels (T max) were observed, but there were no differences in total absorption as measured by C maxand AUC:
 
-|  | EC-NAPROSYNMean value (coefficient of variation) 500 mg bid | NAPROSYN 500 mg bid |
+|  | EC-NAPROSYN Mean value (coefficient of variation) 500 mg bid | NAPROSYN 500 mg bid |
 | --- | --- | --- |
-| Cmax (µg/mL) | 94.9 (18%) | 97.4 (13%) |
-| Tmax (hours) | 4 (39%) | 1.9 (61%) |
-| AUC0–12 hr (µg·hr/mL) | 845 (20%) | 767 (15%) |
+| C max(µg/mL) | 94.9 (18%) | 97.4 (13%) |
+| T max(hours) | 4 (39%) | 1.9 (61%) |
+| AUC 0–12 hr(µg∙hr/mL) | 845 (20%) | 767 (15%) |
 
 Antacid Effects
 
-When EC-NAPROSYN was given as a single dose with antacid (54 mEq buffering capacity), the peak plasma levels of naproxen were unchanged, but the time to peak was reduced (mean Tmax fasted 5.6 hours, mean Tmax with antacid 5 hours), although not significantly [see Drug Interactions (7)].
+When EC-NAPROSYN was given as a single dose with antacid (54 mEq buffering capacity), the peak plasma levels of naproxen were unchanged, but the time to peak was reduced (mean T maxfasted 5.6 hours, mean T maxwith antacid 5 hours), although not significantly [see Drug Interactions (7)].
 
 Food Effects
 
 When EC-NAPROSYN was given as a single dose with food, peak plasma levels in most subjects were achieved in about 12 hours (range: 4 to 24 hours).
 Residence time in the small intestine until disintegration was independent of food intake.
-The presence of food prolonged the time the tablets remained in the stomach, time to first detectable serum naproxen levels, and time to maximal naproxen levels (Tmax), but did not affect peak naproxen levels (Cmax).
+The presence of food prolonged the time the tablets remained in the stomach, time to first detectable serum naproxen levels, and time to maximal naproxen levels (T max), but did not affect peak naproxen levels (C max).
 
 Distribution
 
 Naproxen has a volume of distribution of 0.16 L/kg.
 At therapeutic levels naproxen is greater than 99% albumin-bound.
-At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
+At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough C ss36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
 The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma [see Use in Specific Populations(8.2)].
 
 Elimination
@@ -77,7 +77,7 @@ Excretion
 The clearance of naproxen is 0.13 mL/min/kg.
 Approximately 95% of the naproxen from any dose is excreted in the urine, primarily as naproxen (<1%), 6-0-desmethyl naproxen (<1%) or their conjugates (66% to 92%).
 The plasma half-life of the naproxen anion in humans ranges from 12 to 17 hours.
-The corresponding half-lives of both naproxen’s metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen clearance from the plasma.
+The corresponding half-lives of both naproxen's metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen clearance from the plasma.
 Small amounts, 3% or less of the administered dose, are excreted in the feces.
 In patients with renal failure metabolites may accumulate [see Warnings and Precautions (5.6)].
 
@@ -109,6 +109,6 @@ Elimination of naproxen is decreased in patients with severe renal impairment.
 
 Drug Interaction Studies
 
-Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+Aspirin:When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
 See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
