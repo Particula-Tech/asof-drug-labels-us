@@ -52,7 +52,7 @@ This product is Hyrimoz®
 
 SANDOZ
 
-## Package/Label Display Panel
+# Principal Display Panel
 
 NDC 61314-325-20
 
