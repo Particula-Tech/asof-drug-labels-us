@@ -2,13 +2,13 @@
 
 ## General
 
-Cyclosporine Capsules USP MODIFIED are contraindicated in patients with a hypersensitivity to cyclosporine or to any of the ingredients of the formulation.
+Cyclosporine capsules, USP MODIFIED are contraindicated in patients with a hypersensitivity to cyclosporine or to any of the ingredients of the formulation.
 
 ## Rheumatoid Arthritis
 
-Rheumatoid arthritis patients with abnormal renal function, uncontrolled hypertension, or malignancies should not receive Cyclosporine Capsules USP MODIFIED.
+Rheumatoid arthritis patients with abnormal renal function, uncontrolled hypertension, or malignancies should not receive cyclosporine capsules, USP MODIFIED.
 
 ## Psoriasis
 
-Psoriasis patients who are treated with Cyclosporine Capsules USP MODIFIED should not receive concomitant PUVA or UVB therapy, methotrexate or other immunosuppressive agents, coal tar or radiation therapy.
-Psoriasis patients with abnormal renal function, uncontrolled hypertension, or malignancies should not receive Cyclosporine Capsules USP MODIFIED.
+Psoriasis patients who are treated with cyclosporine capsules, USP MODIFIED should not receive concomitant PUVA or UVB therapy, methotrexate or other immunosuppressive agents, coal tar or radiation therapy.
+Psoriasis patients with abnormal renal function, uncontrolled hypertension, or malignancies should not receive cyclosporine capsules, USP MODIFIED.

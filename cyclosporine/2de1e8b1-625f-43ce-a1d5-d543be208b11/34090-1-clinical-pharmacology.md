@@ -21,31 +21,31 @@ The disposition of cyclosporine from blood is generally biphasic, with a termina
 Following intravenous administration, the blood clearance of cyclosporine (assay: HPLC) is approximately 5 to 7 mL/min/kg in adult recipients of renal or liver allografts.
 Blood cyclosporine clearance appears to be slightly slower in cardiac transplant patients.
 
-The Cyclosporine Capsules USP MODIFIED and Cyclosporine Oral Solution USP MODIFIED are bioequivalent.
+The cyclosporine capsules, USP MODIFIED and cyclosporine oral solution, USP MODIFIED are bioequivalent.
 
 The relationship between administered dose and exposure (area under the concentration versus time curve, AUC) is linear within the therapeutic dose range.
-The intersubject variability (total, %CV) of cyclosporine exposure (AUC) when Cyclosporine Capsules USP MODIFIED or Sandimmune (Cyclosporine Capsules USP) is administered ranges from approximately 20% to 50% in renal transplant patients.
+The intersubject variability (total, %CV) of cyclosporine exposure (AUC) when cyclosporine capsules, USP MODIFIED or Sandimmune (cyclosporine capsules, USP) is administered ranges from approximately 20% to 50% in renal transplant patients.
 This intersubject variability contributes to the need for individualization of the dosing regimen for optimal therapy (see DOSAGE AND ADMINISTRATION).
-Intrasubject variability of AUC in renal transplant recipients (%CV) was 9% to 21% for Cyclosporine Capsules USP MODIFIED and 19% to 26% for Sandimmune (Cyclosporine Capsules USP).
-In the same studies, intrasubject variability of trough concentrations (%CV) was 17% to 30% for Cyclosporine Capsules USP MODIFIED and 16% to 38% for Sandimmune (Cyclosporine Capsules USP).
+Intrasubject variability of AUC in renal transplant recipients (%CV) was 9% to 21% for cyclosporine capsules, USP MODIFIED and 19% to 26% for Sandimmune (cyclosporine capsules, USP).
+In the same studies, intrasubject variability of trough concentrations (%CV) was 17% to 30% for cyclosporine capsules, USP MODIFIED and 16% to 38% for Sandimmune (cyclosporine capsules, USP).
 
 ## Absorption
 
-Cyclosporine Capsules USP MODIFIED have increased bioavailability compared to Sandimmune (Cyclosporine Capsules USP).
-The absolute bioavailability of cyclosporine administered as Sandimmune (Cyclosporine Capsules USP) is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
-The absolute bioavailability of cyclosporine administered as Cyclosporine Capsules USP MODIFIED has not been determined in adults.
-In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of Cyclosporine Capsules USP MODIFIED compared to following administration of Sandimmune (Cyclosporine Capsules USP).
-The dose normalized AUC in de novo liver transplant patients administered Cyclosporine Capsules USP MODIFIED 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune (Cyclosporine Capsules USP).
-AUC and Cmax are also increased (Cyclosporine Capsules USP MODIFIED relative to Sandimmune (Cyclosporine Capsules USP)) in heart transplant patients, but data are very limited.
-Although the AUC and Cmax values are higher on Cyclosporine Capsules USP MODIFIED relative to Sandimmune (Cyclosporine Capsules USP), the predose trough concentrations (dose-normalized) are similar for the two formulations.
+Cyclosporine capsules, USP MODIFIED have increased bioavailability compared to Sandimmune (cyclosporine capsules, USP).
+The absolute bioavailability of cyclosporine administered as Sandimmune (cyclosporine capsules, USP) is dependent on the patient population, estimated to be less than 10% in liver transplant patients and as great as 89% in some renal transplant patients.
+The absolute bioavailability of cyclosporine administered as cyclosporine capsules, USP MODIFIED has not been determined in adults.
+In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of cyclosporine capsules, USP MODIFIED compared to following administration of Sandimmune (cyclosporine capsules, USP).
+The dose normalized AUC in de novo liver transplant patients administered cyclosporine capsules, USP MODIFIED 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune (cyclosporine capsules, USP).
+AUC and Cmax are also increased (cyclosporine capsules, USP MODIFIED relative to Sandimmune (cyclosporine capsules, USP)) in heart transplant patients, but data are very limited.
+Although the AUC and Cmax values are higher on cyclosporine capsules, USP MODIFIED relative to Sandimmune (cyclosporine capsules, USP), the predose trough concentrations (dose-normalized) are similar for the two formulations.
 
-Following oral administration of Cyclosporine Capsules USP MODIFIED, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
-The administration of food with Cyclosporine Capsules USP MODIFIED decreases the cyclosporine AUC and Cmax.
-A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before Cyclosporine Capsules USP MODIFIED administration decreased the AUC by 13% and Cmax by 33%.
+Following oral administration of cyclosporine capsules, USP MODIFIED, the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
+The administration of food with cyclosporine capsules, USP MODIFIED decreases the cyclosporine AUC and Cmax.
+A high fat meal (669 kcal, 45 grams fat) consumed within one-half hour before cyclosporine capsules, USP MODIFIED administration decreased the AUC by 13% and Cmax by 33%.
 The effects of a low-fat meal (667 kcal, 15 grams fat) were similar.
 
-The effect of T-tube diversion of bile on the absorption of cyclosporine from Cyclosporine Capsules USP MODIFIED was investigated in eleven de novo liver transplant patients.
-When the patients were administered Cyclosporine Capsules USP MODIFIED with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range 55% to 68%).
+The effect of T-tube diversion of bile on the absorption of cyclosporine from cyclosporine capsules, USP MODIFIED was investigated in eleven de novo liver transplant patients.
+When the patients were administered cyclosporine capsules, USP MODIFIED with and without T-tube diversion of bile, very little difference in absorption was observed, as measured by the change in maximal cyclosporine blood concentrations from pre-dose values with the T-tube closed relative to when it was open: 6.9 ± 41% (range 55% to 68%).
 
 | Pharmacokinetic Parameters (mean ± SD) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ When the patients were administered Cyclosporine Capsules USP MODIFIED with and 
 | De novo liver transplant5 Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |  |
 | De novo rheumatoid arthritis6 (N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |  |
 | De novo psoriasis6 Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |  |
-| 1Total daily dose was divided into two doses administered every 12 hours.2AUC was measured over one dosing interval.3Trough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose.4Assay: TDx specific monoclonal fluorescence polarization immunoassay.5Assay: Cyclo-trac specific monoclonal radioimmunoassay.6Assay: INCSTAR specific monoclonal radioimmunoassay. |  |  |  |  |  |  |  |  |
+| 1Total daily dose was divided into two doses administered every 12 hours.2AUC was measured over one dosing interval.3Trough concentration was measured just prior to the morning cyclosporine, USP MODIFIED dose, approximately 12 hours after the previous dose.4Assay: TDx specific monoclonal fluorescence polarization immunoassay.5Assay: Cyclo-trac specific monoclonal radioimmunoassay.6Assay: INCSTAR specific monoclonal radioimmunoassay. |  |  |  |  |  |  |  |  |
 
 ## Distribution
 
@@ -74,8 +74,8 @@ The metabolism of cyclosporine can be altered by the coadministration of a varie
 At least 25 metabolites have been identified from human bile, feces, blood, and urine.
 The biological activity of the metabolites and their contributions to toxicity are considerably less than those of the parent compound.
 The major metabolites (M1, M9, and M4N) result from oxidation at the 1-beta, 9-gamma, and 4-N-demethylated positions, respectively.
-At steady state following the oral administration of Sandimmune (Cyclosporine Capsules USP), the mean AUCs for blood concentrations of M1, M9, and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
-Based on blood concentration data from stable renal transplant patients (13 patients administered Cyclosporine Capsules USP MODIFIED and Sandimmune (Cyclosporine Capsules USP) in a crossover study), and bile concentration data from de novo liver transplant patients (4 administered Cyclosporine Capsules USP MODIFIED, 3 administered Sandimmune (Cyclosporine Capsules USP)), the percentage of dose present as M1, M9, and M4N metabolites is similar when either Cyclosporine Capsules USP MODIFIED or Sandimmune (Cyclosporine Capsules USP) is administered.
+At steady state following the oral administration of Sandimmune (cyclosporine capsules, USP), the mean AUCs for blood concentrations of M1, M9, and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
+Based on blood concentration data from stable renal transplant patients (13 patients administered cyclosporine capsules, USP MODIFIED and Sandimmune (cyclosporine capsules, USP) in a crossover study), and bile concentration data from de novo liver transplant patients (4 administered cyclosporine capsules, USP MODIFIED, 3 administered Sandimmune (cyclosporine capsules, USP)), the percentage of dose present as M1, M9, and M4N metabolites is similar when either cyclosporine capsules, USP MODIFIED or Sandimmune (cyclosporine capsules, USP) is administered.
 
 ## Excretion
 
@@ -105,13 +105,13 @@ Since severe hepatic impairment may result in significantly increased cyclospori
 
 ### Pediatric Population
 
-Pharmacokinetic data from pediatric patients administered Cyclosporine Capsules USP MODIFIED or Sandimmune (Cyclosporine Capsules USP) are very limited.
-In 15 renal transplant patients aged 3 to 16 years, cyclosporine whole blood clearance after IV administration of Sandimmune (Cyclosporine Capsules USP) was 10.6 ± 3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
+Pharmacokinetic data from pediatric patients administered cyclosporine capsules, USP MODIFIED or Sandimmune (cyclosporine capsules, USP) are very limited.
+In 15 renal transplant patients aged 3 to 16 years, cyclosporine whole blood clearance after IV administration of Sandimmune (cyclosporine capsules, USP) was 10.6 ± 3.7 mL/min/kg (assay: Cyclo-trac specific RIA).
 In a study of 7 renal transplant patients aged 2 to 16, the cyclosporine clearance ranged from 9.8 to 15.5 mL/min/kg.
 In 9 liver transplant patients aged 0.6 to 5.6 years, clearance was 9.3 ± 5.4 mL/min/kg (assay: HPLC).
 
-In the pediatric population, Cyclosporine Capsules USP MODIFIED also demonstrate an increased bioavailability as compared to Sandimmune (Cyclosporine Capsules USP).
-In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of Cyclosporine Capsules USP MODIFIED was 43% (range 30% to 68%) and for Sandimmune (Cyclosporine Capsules USP) in the same individuals absolute bioavailability was 28% (range 17% to 42%).
+In the pediatric population, cyclosporine capsules, USP MODIFIED also demonstrate an increased bioavailability as compared to Sandimmune (cyclosporine capsules, USP).
+In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioavailability of cyclosporine capsules, USP MODIFIED was 43% (range 30% to 68%) and for Sandimmune (cyclosporine capsules, USP) in the same individuals absolute bioavailability was 28% (range 17% to 42%).
 
 | Pediatric Pharmacokinetic Parameters (mean ± SD) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -134,7 +134,7 @@ Comparison of single dose data from both normal elderly volunteers (N = 18, mean
 
 ### Rheumatoid Arthritis
 
-The effectiveness of Sandimmune (Cyclosporine Capsules USP) and Cyclosporine Capsules USP MODIFIED in the treatment of severe rheumatoid arthritis was evaluated in 5 clinical studies involving a total of 728 cyclosporine treated patients and 273 placebo treated patients.
+The effectiveness of Sandimmune (cyclosporine capsules, USP) and cyclosporine capsules, USP MODIFIED in the treatment of severe rheumatoid arthritis was evaluated in 5 clinical studies involving a total of 728 cyclosporine treated patients and 273 placebo treated patients.
 
 A summary of the results is presented for the “responder” rates per treatment group, with a responder being defined as a patient having completed the trial with a 20% improvement in the tender and the swollen joint count and a 20% improvement in 2 of 4 of investigator global, patient global, disability, and erythrocyte sedimentation rates (ESR) for the Studies 651 and 652 and 3 of 5 of investigator global, patient global, disability, visual analog pain, and ESR for Studies 2008, 654 and 302.
 
@@ -162,7 +162,7 @@ The mean cyclosporine dose at the last visit was 2.8 mg/kg/day (range: 1.3 to 4.
 See graph below.
 
 Study 302 enrolled 299 patients with severe active RA, 99% of whom were unresponsive or intolerant to at least one prior major RA drug.
-Patients were randomized to 1 of 2 treatment groups (1) Cyclosporine Capsules USP MODIFIED and (2) cyclosporine, both of which were started at 2.5 mg/kg/day and increased after 4 weeks for inefficacy in increments of 0.5 mg/kg/day to a maximum of 5 mg/kg/day and decreased at any time for toxicity.
+Patients were randomized to 1 of 2 treatment groups (1) cyclosporine capsules, USP MODIFIED and (2) cyclosporine, both of which were started at 2.5 mg/kg/day and increased after 4 weeks for inefficacy in increments of 0.5 mg/kg/day to a maximum of 5 mg/kg/day and decreased at any time for toxicity.
 Treatment duration was 24 weeks.
-The mean cyclosporine dose at the last visit was 2.91 mg/kg/day (range: 0.72 to 5.17) for Cyclosporine Capsules USP MODIFIED and 3.27 mg/kg/day (range: 0.73 to 5.68) for cyclosporine.
+The mean cyclosporine dose at the last visit was 2.91 mg/kg/day (range: 0.72 to 5.17) for cyclosporine capsules, USP MODIFIED and 3.27 mg/kg/day (range: 0.73 to 5.68) for cyclosporine.
 See graph below.

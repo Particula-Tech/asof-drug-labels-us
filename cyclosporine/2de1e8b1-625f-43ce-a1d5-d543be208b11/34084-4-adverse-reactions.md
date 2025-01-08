@@ -21,13 +21,13 @@ Although magnesium-depletion studies in normal subjects suggest that hypomagnese
 
 ### Clinical Studies
 
-In controlled studies, the nature, severity, and incidence of the adverse events that were observed in 493 transplanted patients treated with Cyclosporine Capsules USP MODIFIED were comparable with those observed in 208 transplanted patients who received Sandimmune (Cyclosporine Capsules USP) in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
+In controlled studies, the nature, severity, and incidence of the adverse events that were observed in 493 transplanted patients treated with cyclosporine capsules, USP MODIFIED were comparable with those observed in 208 transplanted patients who received Sandimmune (cyclosporine capsules, USP) in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
 
-Based on the historical experience with Sandimmune (Cyclosporine Capsules USP), the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
+Based on the historical experience with Sandimmune (cyclosporine capsules, USP), the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
 
-|  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune (Cyclosporine Capsules USP)) |  |  |
+|  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune (cyclosporine capsules, USP)) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Adverse Reactions | Sandimmune (Cyclosporine Capsules USP) (N = 227)% | Azathioprine (N = 228)% | Kidney (N = 705)% | Heart (N = 112)% | Liver (N = 75)% |
+| Body System | Adverse Reactions | Sandimmune (cyclosporine capsules, USP) (N = 227)% | Azathioprine (N = 228)% | Kidney (N = 705)% | Heart (N = 112)% | Liver (N = 75)% |
 | Genitourinary | Renal Dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular | Hypertension | 26 | 18 | 13 | 53 | 27 |
 |  | Cramps | 4 | < 1 | 2 | < 1 | 0 |
@@ -50,7 +50,7 @@ Based on the historical experience with Sandimmune (Cyclosporine Capsules USP), 
 
 Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
 
-The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (Cyclosporine Capsules USP MODIFIED), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
+The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (cyclosporine capsules, USP MODIFIED), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
 
 The following reactions occurred rarely: anxiety, chest pain, constipation, depression, hair breaking, hematuria, joint pain, lethargy, mouth sores, myocardial infarction, night sweats, pancreatitis, pruritus, swallowing difficulty, tingling, upper GI bleeding, visual disturbance, weakness, weight loss.
 
@@ -59,7 +59,7 @@ Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
 Fatal outcomes have been reported (see WARNINGS).
 
-| Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune (Cyclosporine Capsules USP) |  |  |
+| Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune (cyclosporine capsules, USP) |  |  |
 | --- | --- | --- |
 | Complication | Cyclosporine Treatment (N=227) % of Complications | Azathioprine with Steroids* (N=228) % of Complications |
 | Septicemia | 5.3 | 4.8 |
@@ -104,10 +104,10 @@ These elevations are likely to become more pronounced without dose reduction or 
 
 The following adverse events occurred in controlled clinical trials:
 
-| Cyclosporine Capsules USP MODIFIED/Sandimmune (Cyclosporine Capsules USP) Rheumatoid Arthritis Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Group |  |  |  |  |  |  |  |
+| Cyclosporine capsules, USP MODIFIED/Sandimmune (cyclosporine capsules, USP) Rheumatoid Arthritis Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Group |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Studies 651 + 652 + 2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies 651 + 652 + 2008 |
-| Body System | Preferred Term | Sandimmune† (Cyclosporine Capsules USP) (N = 269) | Sandimmune (Cyclosporine Capsules USP) (N = 155) | Methotrexate & Sandimmune (Cyclosporine Capsules USP) (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine Capsules USP MODIFIED (N = 143) | Placebo (N = 201) |
+| Body System | Preferred Term | Sandimmune† (cyclosporine capsules, USP) (N = 269) | Sandimmune (cyclosporine capsules, USP) (N = 155) | Methotrexate & Sandimmune (cyclosporine capsules, USP) (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine capsules, USP MODIFIED (N = 143) | Placebo (N = 201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
 | Body As A Whole-General Disorders |  |  |  |  |  |  |  |
@@ -274,7 +274,7 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 | Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials |  |  |  |
 | --- | --- | --- | --- |
-| Body System* | Preferred Term | Cyclosporine Capsules USP MODIFIED (N = 182) | Sandimmune (Cyclosporine Capsules USP) (N = 185) |
+| Body System* | Preferred Term | Cyclosporine capsules, USP MODIFIED (N = 182) | Sandimmune (cyclosporine capsules, USP) (N = 185) |
 | Infection or Potential Infection |  | 24.7% | 24.3% |
 |  | Influenza-Like Symptoms | 9.9% | 8.1% |
 |  | Upper Respiratory Tract Infections | 7.7% | 11.3% |

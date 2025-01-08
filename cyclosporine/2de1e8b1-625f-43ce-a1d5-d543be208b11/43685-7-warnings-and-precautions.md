@@ -4,32 +4,32 @@
 
 ## All Patients
 
-Cyclosporine, the active ingredient of Cyclosporine Capsules USP MODIFIED, can cause nephrotoxicity and hepatotoxicity.
+Cyclosporine, the active ingredient of cyclosporine capsules, USP MODIFIED, can cause nephrotoxicity and hepatotoxicity.
 The risk increases with increasing doses of cyclosporine.
-Renal dysfunction including structural kidney damage is a potential consequence of Cyclosporine Capsules USP MODIFIED and therefore renal function must be monitored during therapy.
+Renal dysfunction including structural kidney damage is a potential consequence of cyclosporine capsules, USP MODIFIED and therefore renal function must be monitored during therapy.
 Care should be taken in using cyclosporine with nephrotoxic drugs (see PRECAUTIONS).
 
-Patients receiving Cyclosporine Capsules USP MODIFIED require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
+Patients receiving cyclosporine capsules, USP MODIFIED require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
 Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can be associated with the occurrence of structural kidney damage and persistent renal dysfunction.
 
-An increase in serum creatinine and BUN may occur during Cyclosporine Capsules USP MODIFIED therapy and reflect a reduction in the glomerular filtration rate.
+An increase in serum creatinine and BUN may occur during cyclosporine capsules, USP MODIFIED therapy and reflect a reduction in the glomerular filtration rate.
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 The frequency and severity of serum creatinine elevations increase with dose and duration of cyclosporine therapy.
 These elevations are likely to become more pronounced without dose reduction or discontinuation.
 
-Because Cyclosporine Capsules USP MODIFIED are not bioequivalent to Sandimmune (Cyclosporine Capsules USP), conversion from Cyclosporine Capsules USP MODIFIED to Sandimmune (Cyclosporine Capsules USP) using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
-Conversion from Cyclosporine Capsules USP MODIFIED to Sandimmune (Cyclosporine Capsules USP) should be made with increased monitoring to avoid the potential of underdosing.
+Because cyclosporine capsules, USP MODIFIED are not bioequivalent to Sandimmune (cyclosporine capsules, USP), conversion from cyclosporine capsules, USP MODIFIED to Sandimmune (cyclosporine capsules, USP) using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
+Conversion from cyclosporine capsules, USP MODIFIED to Sandimmune (cyclosporine capsules, USP) should be made with increased monitoring to avoid the potential of underdosing.
 
 ## Kidney, Liver, and Heart Transplant
 
 ### Nephrotoxicity
 
-Cyclosporine, the active ingredient of Cyclosporine Capsules USP MODIFIED, can cause nephrotoxicity and hepatotoxicity when used in high doses.
+Cyclosporine, the active ingredient of cyclosporine capsules, USP MODIFIED, can cause nephrotoxicity and hepatotoxicity when used in high doses.
 It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
 These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
 
-Based on the historical Sandimmune (Cyclosporine Capsules USP) experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
+Based on the historical Sandimmune (cyclosporine capsules, USP) experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
 Mild nephrotoxicity was generally noted 2 to 3 months after renal transplant and consisted of an arrest in the fall of the pre-operative elevations of BUN and creatinine at a range of 35 to 45 mg/dL and 2.0 to 2.5 mg/dL, respectively.
 These elevations were often responsive to cyclosporine dosage reduction.
 
@@ -69,9 +69,9 @@ Reversibility of arteriolopathy has been reported after stopping cyclosporine or
 
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 
-In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Cyclosporine Capsules USP MODIFIED dose to excessive blood concentrations.
+In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the cyclosporine capsules, USP MODIFIED dose to excessive blood concentrations.
 
-Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering Cyclosporine Capsules USP MODIFIED with other drugs that may impair renal function (see PRECAUTIONS, Drug Interactions).
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering cyclosporine capsules, USP MODIFIED with other drugs that may impair renal function (see PRECAUTIONS, Drug Interactions).
 
 ### Thrombotic Microangiopathy
 
@@ -105,18 +105,18 @@ Transplant patients receiving cyclosporine are at increased risk for serious inf
 
 ### Serious Infections
 
-Patients receiving immunosuppressants, including Cyclosporine Capsules USP MODIFIED, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
+Patients receiving immunosuppressants, including cyclosporine capsules, USP MODIFIED, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
 These infections may lead to serious, including fatal, outcomes (see BOXED WARNING and ADVERSE REACTIONS).
 
 ### Polyoma Virus Infections
 
-Patients receiving immunosuppressants, including Cyclosporine Capsules USP MODIFIED, are at increased risk for opportunistic infections, including polyoma virus infections.
+Patients receiving immunosuppressants, including cyclosporine capsules, USP MODIFIED, are at increased risk for opportunistic infections, including polyoma virus infections.
 Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
 These include cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), and polyoma virus-associated nephropathy (PVAN), especially due to BK virus infection, which have been observed in patients receiving cyclosporine.
 PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (see ADVERSE REACTIONS, Postmarketing Experience, Kidney, Liver and Heart Transplantation).
 Patient monitoring may help detect patients at risk for PVAN.
 
-Cases of PML have been reported in patients treated with Cyclosporine Capsules USP MODIFIED.
+Cases of PML have been reported in patients treated with cyclosporine capsules, USP MODIFIED.
 PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
@@ -150,24 +150,24 @@ It is not clear whether the risk with cyclosporine is greater than that in rheum
 Five cases of lymphoma were detected: four in a survey of approximately 2,300 patients treated with cyclosporine for rheumatoid arthritis, and another case of lymphoma was reported in a clinical trial.
 Although other tumors (12 skin cancers, 24 solid tumors of diverse types, and 1 multiple myeloma) were also reported in this survey, epidemiologic analyses did not support a relationship to cyclosporine other than for malignant lymphomas.
 
-Patients should be thoroughly evaluated before and during Cyclosporine Capsules USP MODIFIED treatment for the development of malignancies.
-Moreover, use of Cyclosporine Capsules USP MODIFIED therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
+Patients should be thoroughly evaluated before and during cyclosporine capsules, USP MODIFIED treatment for the development of malignancies.
+Moreover, use of cyclosporine capsules, USP MODIFIED therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
 
 ## Psoriasis
 
 (See also BOXED WARNING for Psoriasis)
 
-Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Cyclosporine Capsules USP MODIFIED should be considered before treatment of patients with psoriasis.
-Cyclosporine, the active ingredient in Cyclosporine Capsules USP MODIFIED, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
-Patients who may be at increased risk, such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive Cyclosporine Capsules USP MODIFIED.
+Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using cyclosporine capsules, USP MODIFIED should be considered before treatment of patients with psoriasis.
+Cyclosporine, the active ingredient in cyclosporine capsules, USP MODIFIED, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
+Patients who may be at increased risk, such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive cyclosporine capsules, USP MODIFIED.
 
-Renal dysfunction is a potential consequence of Cyclosporine Capsules USP MODIFIED therefore renal function must be monitored during therapy.
+Renal dysfunction is a potential consequence of cyclosporine capsules, USP MODIFIED therefore renal function must be monitored during therapy.
 
-Patients receiving Cyclosporine Capsules USP MODIFIED require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
+Patients receiving cyclosporine capsules, USP MODIFIED require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
 Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can cause structural kidney damage and persistent renal dysfunction.
 
-An increase in serum creatinine and BUN may occur during Cyclosporine Capsules USP MODIFIED therapy and reflects a reduction in the glomerular filtration rate.
+An increase in serum creatinine and BUN may occur during cyclosporine capsules, USP MODIFIED therapy and reflects a reduction in the glomerular filtration rate.
 
 Kidney biopsies from 86 psoriasis patients treated for a mean duration of 23 months with 1.2 to 7.6 mg/kg/day of cyclosporine showed evidence of cyclosporine nephropathy in 18/86 (21%) of the patients.
 The pathology consisted of renal tubular atrophy and interstitial fibrosis.
@@ -195,13 +195,13 @@ Patients should not be treated concurrently with cyclosporine and PUVA or UVB, o
 Patients should also be warned to protect themselves appropriately when in the sun, and to avoid excessive sun exposure.
 Patients should be thoroughly evaluated before and during treatment for the presence of malignancies remembering that malignant lesions may be hidden by psoriatic plaques.
 Skin lesions not typical of psoriasis should be biopsied before starting treatment.
-Patients should be treated with Cyclosporine Capsules USP MODIFIED only after complete resolution of suspicious lesions, and only if there are no other treatment options (see Special Monitoring for Psoriasis Patients).
+Patients should be treated with cyclosporine capsules, USP MODIFIED only after complete resolution of suspicious lesions, and only if there are no other treatment options (see Special Monitoring for Psoriasis Patients).
 
 ### Special Excipients
 
 Alcohol (ethanol)
 
-The alcohol content (see DESCRIPTION) of Cyclosporine Capsules USP MODIFIED should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g., pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+The alcohol content (see DESCRIPTION) of cyclosporine capsules, USP MODIFIED should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g., pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
 For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol (see DESCRIPTION for alcohol content of each formulation).
 
 # PRECAUTIONS
@@ -210,7 +210,7 @@ For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 g
 
 ### Hypertension
 
-Cyclosporine is the active ingredient of Cyclosporine Capsules USP MODIFIED.
+Cyclosporine is the active ingredient of cyclosporine capsules, USP MODIFIED.
 Hypertension is a common side effect of cyclosporine therapy which may persist (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION for monitoring recommendations).
 Mild or moderate hypertension is encountered more frequently than severe hypertension and the incidence decreases over time.
 In recipients of kidney, liver, and heart allografts treated with cyclosporine, antihypertensive therapy may be required (see Special Monitoring of Rheumatoid Arthritis Patients and Psoriasis Patients).
@@ -225,11 +225,11 @@ During treatment with cyclosporine, vaccination may be less effective; and the u
 
 Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
 Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
-It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs (NSAIDs) and after initiation of new NSAID therapy during Cyclosporine Capsules USP MODIFIED treatment.
+It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs (NSAIDs) and after initiation of new NSAID therapy during cyclosporine capsules, USP MODIFIED treatment.
 If coadministered with methotrexate, CBC and liver function tests are recommended to be monitored monthly (see also PRECAUTIONS, General, Hypertension).
 
-In patients who are receiving cyclosporine, the dose of Cyclosporine Capsules USP MODIFIED should be decreased by 25% to 50% if hypertension occurs.
-If hypertension persists, the dose of Cyclosporine Capsules USP MODIFIED should be further reduced or blood pressure should be controlled with antihypertensive agents.
+In patients who are receiving cyclosporine, the dose of cyclosporine capsules, USP MODIFIED should be decreased by 25% to 50% if hypertension occurs.
+If hypertension persists, the dose of cyclosporine capsules, USP MODIFIED should be further reduced or blood pressure should be controlled with antihypertensive agents.
 In most cases, blood pressure has returned to baseline when cyclosporine was discontinued.
 
 In placebo-controlled trials of rheumatoid arthritis patients, systolic hypertension (defined as an occurrence of two systolic blood pressure readings > 140 mmHg) and diastolic hypertension (defined as two diastolic blood pressure readings > 90 mmHg) occurred in 33% and 19% of patients treated with cyclosporine, respectively.
@@ -238,30 +238,30 @@ The corresponding placebo rates were 22% and 8%.
 ### Special Monitoring for Psoriasis Patients
 
 Before initiating treatment, a careful dermatological and physical examination, including blood pressure measurements (on at least two occasions) should be performed.
-Since Cyclosporine Capsules USP MODIFIED are an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with Cyclosporine Capsules USP MODIFIED.
-Skin lesions not typical for psoriasis should be biopsied before starting Cyclosporine Capsules USP MODIFIED.
-Patients with malignant or premalignant changes of the skin should be treated with Cyclosporine Capsules USP MODIFIED only after appropriate treatment of such lesions and if no other treatment option exists.
+Since cyclosporine capsules, USP MODIFIED are an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with cyclosporine capsules, USP MODIFIED.
+Skin lesions not typical for psoriasis should be biopsied before starting cyclosporine capsules, USP MODIFIED.
+Patients with malignant or premalignant changes of the skin should be treated with cyclosporine capsules, USP MODIFIED only after appropriate treatment of such lesions and if no other treatment option exists.
 
 Baseline laboratories should include serum creatinine (on two occasions), BUN, CBC, serum magnesium, potassium, uric acid, and lipids.
 
-The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4.0 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of Cyclosporine Capsules USP MODIFIED is decreased when the rise in creatinine is greater than or equal to 25% above the patient's pretreatment level.
-The increase in creatinine is generally reversible upon timely decrease of the dose of Cyclosporine Capsules USP MODIFIED or its discontinuation.
+The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4.0 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of cyclosporine capsules, USP MODIFIED is decreased when the rise in creatinine is greater than or equal to 25% above the patient's pretreatment level.
+The increase in creatinine is generally reversible upon timely decrease of the dose of cyclosporine capsules, USP MODIFIED or its discontinuation.
 
 Serum creatinine and BUN should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable.
 If the serum creatinine is greater than or equal to 25% above the patient’s pretreatment level, serum creatinine should be repeated within two weeks.
-If the change in serum creatinine remains greater than or equal to 25% above baseline, Cyclosporine Capsules USP MODIFIED should be reduced by 25% to 50%.
-If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, Cyclosporine Capsules USP MODIFIED should be reduced by 25% to 50%.
-Cyclosporine Capsules USP MODIFIED should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
-It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during Cyclosporine Capsules USP MODIFIED treatment.
+If the change in serum creatinine remains greater than or equal to 25% above baseline, cyclosporine capsules, USP MODIFIED should be reduced by 25% to 50%.
+If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, cyclosporine capsules, USP MODIFIED should be reduced by 25% to 50%.
+Cyclosporine capsules, USP MODIFIED should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
+It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during cyclosporine capsules, USP MODIFIED treatment.
 
 Blood pressure should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable, or more frequently when dosage adjustments are made.
-Patients without a history of previous hypertension before initiation of treatment with Cyclosporine Capsules USP MODIFIED, should have the drug reduced by 25% to 50% if found to have sustained hypertension.
-If the patient continues to be hypertensive despite multiple reductions of Cyclosporine Capsules USP MODIFIED, then Cyclosporine Capsules USP MODIFIED should be discontinued.
-For patients with treated hypertension, before the initiation of Cyclosporine Capsules USP MODIFIED therapy, their medication should be adjusted to control hypertension while on Cyclosporine Capsules USP MODIFIED.
-Cyclosporine Capsules USP MODIFIED should be discontinued if a change in hypertension management is not effective or tolerable.
+Patients without a history of previous hypertension before initiation of treatment with cyclosporine capsules, USP MODIFIED, should have the drug reduced by 25% to 50% if found to have sustained hypertension.
+If the patient continues to be hypertensive despite multiple reductions of cyclosporine capsules, USP MODIFIED, then cyclosporine capsules, USP MODIFIED should be discontinued.
+For patients with treated hypertension, before the initiation of cyclosporine capsules, USP MODIFIED therapy, their medication should be adjusted to control hypertension while on cyclosporine capsules, USP MODIFIED.
+Cyclosporine capsules, USP MODIFIED should be discontinued if a change in hypertension management is not effective or tolerable.
 
 CBC, uric acid, potassium, lipids, and magnesium should also be monitored every 2 weeks for the first 3 months of therapy, and then monthly if the patient is stable or more frequently when dosage adjustments are made.
-Cyclosporine Capsules USP MODIFIED dosage should be reduced by 25% to 50% for any abnormality of clinical concern.
+Cyclosporine capsules, USP MODIFIED dosage should be reduced by 25% to 50% for any abnormality of clinical concern.
 
 In controlled trials of cyclosporine in psoriasis patients, cyclosporine blood concentrations did not correlate well with either improvement or with side effects such as renal dysfunction.
 
@@ -277,7 +277,7 @@ Patients should be advised that during treatment with cyclosporine, vaccination 
 
 Patients should be given careful dosage instructions.
 
-Patients should be advised to take Cyclosporine Capsules USP MODIFIED on a consistent schedule with regard to time of day and relation to meals.
+Patients should be advised to take cyclosporine capsules, USP MODIFIED on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
 
 Cyclosporine may impact the ability to drive and use machines.
@@ -308,7 +308,7 @@ If a significant impairment of renal function occurs, the dosage of the coadmini
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption, such as orlistat, should be avoided.
-Appropriate Cyclosporine Capsules USP MODIFIED dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see Blood Concentration Monitoring).
+Appropriate cyclosporine capsules, USP MODIFIED dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see Blood Concentration Monitoring).
 
 | 1. Drugs That Increase Cyclosporine Concentrations |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -506,7 +506,7 @@ However, patients receiving cyclosporine during pregnancy have underlying medica
 
 Embryo-fetal developmental (EFD) studies in rats and rabbits with cyclosporine have shown embryo-fetal toxicity at dose levels below the maximum recommended human dose (MRHD) based on body surface area (BSA).
 
-The alcohol content of Cyclosporine Capsules USP MODIFIED should be taken into account when given to pregnant women (see WARNINGS, Special Excipients).
+The alcohol content of cyclosporine capsules, USP MODIFIED should be taken into account when given to pregnant women (see WARNINGS, Special Excipients).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -554,20 +554,20 @@ Risk Summary
 Cyclosporine and its metabolites are present in human milk following oral and intravenous administration.
 Adverse effects on the breastfed infant have not been reported.
 There are no data on the effects of the drug on milk production.
-The alcohol content of Cyclosporine Capsules USP MODIFIED should be taken into account when given to lactating women (see WARNINGS, Special Excipients).
+The alcohol content of cyclosporine capsules, USP MODIFIED should be taken into account when given to lactating women (see WARNINGS, Special Excipients).
 Lactating women are encouraged to avoid additional alcohol intake during treatment.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Cyclosporine Capsules USP MODIFIED and any potential adverse effects on the breastfed infant from Cyclosporine Capsules USP MODIFIED or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for cyclosporine capsules, USP MODIFIED and any potential adverse effects on the breastfed infant from cyclosporine capsules, USP MODIFIED or from the underlying maternal condition.
 
 ## Pediatric Use
 
-Although no adequate and well-controlled studies have been completed in pediatric patients, transplant recipients as young as one year of age have received Cyclosporine Capsules USP MODIFIED with no unusual adverse effects.
-The safety and efficacy of Cyclosporine Capsules USP MODIFIED treatment in pediatric patients with juvenile rheumatoid arthritis or psoriasis below the age of 18 have not been established.
+Although no adequate and well-controlled studies have been completed in pediatric patients, transplant recipients as young as one year of age have received cyclosporine capsules, USP MODIFIED with no unusual adverse effects.
+The safety and efficacy of cyclosporine capsules, USP MODIFIED treatment in pediatric patients with juvenile rheumatoid arthritis or psoriasis below the age of 18 have not been established.
 
 ## Geriatric Use
 
 In rheumatoid arthritis clinical trials with cyclosporine, 17.5% of patients were age 65 or older.
 These patients were more likely to develop systolic hypertension on therapy, and more likely to show serum creatinine rises ≥ 50% above the baseline after 3 to 4 months of therapy.
 
-Clinical studies of Cyclosporine Capsules USP MODIFIED in transplant and psoriasis patients did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of cyclosporine capsules, USP MODIFIED in transplant and psoriasis patients did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experiences have not identified differences in response between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
