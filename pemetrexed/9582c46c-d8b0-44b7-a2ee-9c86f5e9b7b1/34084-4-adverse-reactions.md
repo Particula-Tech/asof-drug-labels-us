@@ -4,7 +4,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - Renal failure [see Warnings and Precautions (5.2)]
-- Bullous and exfoliative skin toxicity [see Warning and Precautions (5.3)]
+- Bullous and exfoliative skin toxicity [see Warnings and Precautions (5.3)]
 - Interstitial pneumonitis [see Warnings and Precautions (5.4)]
 - Radiation recall [see Warnings and Precautions (5.5)]
 
@@ -179,7 +179,7 @@ Dose delays for adverse reactions occurred in 22% of patients in the pemetrexed 
 
 Table 4 provides the frequency and severity of adverse reactions reported in ≥5% of the 333 pemetrexed-treated patients in PARAMOUNT.
 
-Table 4: Adverse ReactionsOccurring in ≥5% of Patients Receiving Pemetrexed in PARAMOUNT
+Table 4: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed in PARAMOUNT
 
 | Adverse Reactiona | Pemetrexed (N=333) |  | Placebo (N=167) |  |
 | --- | --- | --- | --- | --- |

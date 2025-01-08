@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Non-Squamous NSCLC
+## 14.1 Non-squamous NSCLC
 
 Initial Treatment in Combination with Cisplatin
 
@@ -38,7 +38,7 @@ In pre-specified analyses assessing the impact of NSCLC histology on overall sur
 These subgroup analyses are shown in Table 9 and Figures 2 and 3.
 This difference in treatment effect for pemetrexed based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in Studies JMEN and JMEI.
 
-Table 9: Overall Survival in NSCLC Histologic Subgroupsin Study JMDB
+Table 9: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
 
 | Histologic Subgroups | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -101,7 +101,7 @@ Table 11: Efficacy Results in Study JMEN by Histologic Subgroup
 | Median (months) | 15.5 | 10.3 | 4.4 | 1.8 |
 | HRa (95% CI) | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |
 | Adenocarcinoma (n=328) |  |  |  |  |
-| Median (months | 16.8 | 11.5 | 4.6 | 2.7 |
+| Median (months) | 16.8 | 11.5 | 4.6 | 2.7 |
 | HRa (95% CI) | 0.73 (0.56-0.96) |  | 0.51 (0.38-0.68) |  |
 | Large cell carcinoma (n=20) |  |  |  |  |
 | Median (months) | 8.4 | 7.9 | 4.5 | 1.5 |

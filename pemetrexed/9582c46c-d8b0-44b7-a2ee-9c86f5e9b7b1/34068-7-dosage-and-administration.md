@@ -66,37 +66,26 @@ Table 1: Recommended Dosage Modifications for Adverse Reactionsa
 | Grade 3 or 4 neurologic toxicity | Permanently discontinue |
 | Recurrent Grade 3 or 4 non-hematologic toxicity after 2 dose reductions | Permanently discontinue |
 | Severe and life-threatening Skin Toxicity [see Warnings and Precautions (5.3)] | Permanently discontinue |
-| Interstitial Pneumonitis [see Warnings and Precautions (5.4)] (5.4)] | Permanently discontinue |
+| Interstitial Pneumonitis [see Warnings and Precautions (5.4)] | Permanently discontinue |
 | a National Cancer Institute Common Toxicity Criteria for Adverse Events version 2 (NCI CTCAE v2) |  |
 
 ## 2.7 Preparation for Administration
 
-● AXTLE is a hazardous drug.
-Follow applicable special handling and disposal procedures.1
-
-● Calculate the dose of AXTLE and determine the number of vials needed.
-
-● Reconstitute AXTLE to achieve a concentration of 25 mg/mL as follows:
-
-● Reconstitute each 100-mg vial with 4.2 mL of 5% Dextrose Injection, USP (preservative-free)
-
-● Reconstitute each 500-mg vial with 20 mL of 5% Dextrose Injection, USP (preservative-free)
-
-● Do not use calcium-containing solutions for reconstitution.
-
-● Gently swirl each vial until the powder is completely dissolved.
-The resulting solution is clear and ranges in color from colorless to yellow or green-yellow.
-FURTHER DILUTION IS REQUIRED prior to administration.
-
-● Store reconstituted, preservative-free product under refrigerated conditions [2-8°C (36-46°F)] for no longer than 24 hours from the time of reconstitution.
-Discard vial after 24 hours.
-
-● Inspect reconstituted product visually for particulate matter and discoloration prior to further dilution.
-If particulate matter is observed, discard vial.
-
-● Withdraw the calculated dose of AXTLE from the vial(s) and discard vial with any unused portion.
-
-● Further dilute AXTLE with 5% Dextrose Injection, USP to achieve a total volume of 100 mL for intravenous infusion.
-
-● Store diluted, reconstituted product under refrigerated conditions [2-8°C (36-46°F)] for no more than 24 hours from the time of reconstitution.
-Discard after 24 hours.
+- AXTLE is a hazardous drug.
+  Follow applicable special handling and disposal procedures.1
+- Calculate the dose of AXTLE and determine the number of vials needed.
+- Reconstitute AXTLE to achieve a concentration of 25 mg/mL as follows:
+- Reconstitute each 100-mg vial with 4.2 mL of 5% Dextrose Injection, USP (preservative-free)
+- Reconstitute each 500-mg vial with 20 mL of 5% Dextrose Injection, USP (preservative-free)
+- Do not use calcium-containing solutions for reconstitution.
+- Gently swirl each vial until the powder is completely dissolved.
+  The resulting solution is clear and ranges in color from colorless to yellow or green-yellow.
+  FURTHER DILUTION IS REQUIRED prior to administration.
+- Store reconstituted, preservative-free product under refrigerated conditions [2-8°C (36-46°F)] for no longer than 24 hours from the time of reconstitution.
+  Discard vial after 24 hours.
+- Inspect reconstituted product visually for particulate matter and discoloration prior to further dilution.
+  If particulate matter is observed, discard vial.
+- Withdraw the calculated dose of AXTLE from the vial(s) and discard vial with any unused portion.
+- Further dilute AXTLE with 5% Dextrose Injection, USP to achieve a total volume of 100 mL for intravenous infusion.
+- Store diluted, reconstituted product under refrigerated conditions [2-8°C (36-46°F)] for no more than 24 hours from the time of reconstitution.
+  Discard after 24 hours.

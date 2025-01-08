@@ -1,6 +1,6 @@
 # SPL PATIENT PACKAGE INSERT
 
-| PATIENT INFORMATION AXTLETM (AXE-tul) (pemetrexed) for Injection for intravenous use |  |
+| PATIENT INFORMATION AXTLETM (AXE-tul) (pemetrexed) for injection for intravenous use |  |
 | --- | --- |
 | What is AXTLE? AXTLE is a prescription medicine used to treat: ● a kind of lung cancer called non-squamous non-small cell lung cancer (NSCLC). AXTLE is used: ○ as the first treatment in combination with cisplatin when your lung cancer has spread (advanced NSCLC). ○ alone as maintenance treatment after you have received 4 cycles of chemotherapy that contains platinum for first treatment of your advanced NSCLC and your cancer has not progressed. ● alone when your lung cancer has returned or spread after prior chemotherapy. AXTLE is not for use for the treatment of people with squamous cell non-small cell lung cancer. ● a kind of cancer called malignant pleural mesothelioma. This cancer affects the lining of the lungs and chest wall. AXTLE is used in combination with cisplatin as the first treatment for malignant pleural mesothelioma that cannot be removed by surgery or you are not able to have surgery. AXTLE has not been shown to be safe and effective in children. |  |
 | Do not take AXTLE: if you have had a severe allergic reaction to any medicine that contains pemetrexed. |  |
