@@ -1,6 +1,8 @@
 # HOW SUPPLIED
 
-Cyproheptadine hydrochloride tablets USP, 4 mg are supplied as white, round, compressed tablets, debossed "cor" above the bisect and "150" below the bisect and the other side is plain.
+Cyproheptadine hydrochloride tablets USP, 4 mg are supplied as white, round, compressed tablets.
+Engraved "cor" above the bisect and "150" below the bisect on one side and plain on the other side.
+
 They are supplied as follows: Bottles of 100: NDC 0115-1757-01 Bottles of 1000: NDC 0115-1757-03
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
@@ -17,4 +19,4 @@ Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 Product of Italy
 
 Rev.
-05-2019-01
+10-2024-02
