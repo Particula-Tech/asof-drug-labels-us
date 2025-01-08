@@ -15,7 +15,7 @@ The success rates for the clinically evaluable population are provided in Table 
 
 Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
 
-| Population | Meropenem for Injection, USP n 1/N 2(%) | Imipenem-cilastatin n 1/N 2(%) |
+| Population | Meropenem for Injection n 1/N 2(%) | Imipenem-cilastatin n 1/N 2(%) |
 | --- | --- | --- |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
@@ -35,7 +35,7 @@ The values represent the number of patients clinically cured/number of clinicall
 
 Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 
-| MICROORGANISMS1 | Meropenem for Injection, USP n 2/N 3(%) 4 | Imipenem-cilastatin n 2/N 3(%) 4 |
+| MICROORGANISMS1 | Meropenem for Injection n 2/N 3(%) 4 | Imipenem-cilastatin n 2/N 3(%) 4 |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus,methicillin susceptible | 82/88 (93) | 84/100 (84) |
@@ -93,7 +93,7 @@ The values represent the number of patients clinically cured/number of clinicall
 
 Table 10: Efficacy rates by Pathogen in the Clinically Evaluable Population with Bacterial Meningitis
 
-| MICROORGANISMS | Meropenem for Injection, USP | COMPARATOR |
+| MICROORGANISMS | Meropenem for Injection | COMPARATOR |
 | --- | --- | --- |
 | S. pneumoniae | 17/24 (71) | 19/30 (63) |
 | H. influenzae(+) 1 | 8/10 (80) | 6/6 (100) |
