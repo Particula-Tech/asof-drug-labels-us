@@ -6,34 +6,37 @@ APADAZ contains benzhydrocodone, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-APADAZ contains benzhydrocodone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
-APADAZ can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+APADAZ contains benzhydrocodone, a substance with a high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
-All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
-Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling its use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
-Drug-seeking behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated loss of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
-Doctor shopping (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
-Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
+Misuse and abuse of APADAZ increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
+The risk is increased with concurrent abuse of APADAZ with alcohol and/or other CNS depressants.
+Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
+In addition, abuse of opioids can occur in the absence of addiction.
 
-Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
-In addition, abuse of opioids can occur in the absence of true addiction.
+All patients treated with opioids require careful and frequent re-evaluation for signs of misuse, abuse, and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Patients at high risk of APADAZ abuse include those with a history of prolonged use of any opioid, including products containing benzhydrocodone, those with a history of drug or alcohol abuse, or those who use APADAZ in combination with other abused drugs.
 
-APADAZ, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+“Drug-seeking” behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
+“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
+APADAZ, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
+Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+Risks Specific to Abuse of APADAZ Abuse of APADAZ poses a risk of overdose and death.
+The risk is increased with concurrent use of APADAZ with alcohol and/or other CNS depressants.
 
-Risks Specific to Abuse of APADAZ APADAZ is for oral use only.
-Abuse of APADAZ poses a risk of overdose and death.
-The risk is increased with concurrent use of APADAZ with alcohol and other central nervous system depressants.
+APADAZ is approved for oral use only.
 
 With intravenous abuse, the inactive ingredients in APADAZ can result in local tissue necrosis, infection, pulmonary granulomas, embolism and death, and increased risk of endocarditis and valvular heart injury.
+
 Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
 
 Abuse Deterrent Studies In vitro and human abuse potential studies comparing APADAZ to an immediate-release hydrocodone/acetaminophen tablet control were conducted to assess the potential abuse deterrent properties of APADAZ.
@@ -50,7 +53,7 @@ Oral Clinical Abuse Potential Study
 In an oral, single-center, randomized, double-blind, active- and placebo-controlled, 7-period, crossover, human abuse potential study, 71 recreational opioid users were randomized into the Treatment Phase; 62 subjects completed the study.
 Treatment arms included APADAZ (4, 8, and 12 tablets, each containing 6.12 mg benzhydrocodone and 325 mg acetaminophen), hydrocodone/acetaminophen (4, 8 and 12 tablets, each containing 4.54 mg hydrocodone and 325 mg acetaminophen), and placebo.
 The respective dosage strengths for APADAZ and hydrocodone/acetaminophen contained equimolar amounts of hydrocodone.
-The rate (Cmax) and extent (AUClast, AUCinf) of hydrocodone exposure following APADAZ administration was comparable to that for hydrocodone/acetaminophen across all 3 dosage strengths.
+The rate (Cmax) and extent (AUC last, AUC inf) of hydrocodone exposure following APADAZ administration was comparable to that for hydrocodone/acetaminophen across all 3 dosage strengths.
 There were no statistically significant differences nor any clinically meaningful differences between APADAZ and the hydrocodone/acetaminophen control for the pre-specified primary endpoint of maximal score (Emax) for Drug Liking VAS or secondary endpoints of Emax for High VAS and Take Drug Again VAS.
 The results do not support a finding that APADAZ can be expected to deter abuse by the oral route of administration.
 
@@ -60,20 +63,21 @@ In an intranasal single-center, randomized, double-blind, double-dummy, two-part
 Five treatment arms included intranasal crushed and oral APADAZ (2 tablets, each containing 6.12 mg benzhydrocodone and 325 mg acetaminophen), intranasal crushed and oral hydrocodone/acetaminophen (2 tablets, each containing 4.54 mg hydrocodone and 325 mg acetaminophen), and intranasal placebo powder.
 The respective dosage strengths for APADAZ and hydrocodone/acetaminophen contained equimolar amounts of hydrocodone.
 
-The pharmacokinetic data showed that overall (AUClast, AUCinf, and Cmax) hydrocodone exposure was comparable between intranasal crushed APADAZ and intranasal crushed hydrocodone/acetaminophen.
-These treatments were also comparable with cumulative hydrocodone exposure at the timepoints of 4, 8, and 24 hours (AUC0-4, AUC0-8, AUC0-24).
-Over the first 2 hours post-dosing (AUC0-0.5, AUC0-1, and AUC0-2), the cumulative hydrocodone exposure was lower following intranasal APADAZ compared to intranasal hydrocodone/ acetaminophen.
+The pharmacokinetic data showed that overall (AUC last, AUC inf, and C max) hydrocodone exposure was comparable between intranasal crushed APADAZ and intranasal crushed hydrocodone/acetaminophen.
+These treatments were also comparable with cumulative hydrocodone exposure at the timepoints of 4, 8, and 24 hours (AUC 0-4, AUC 0-8, AUC 0-24).
+Over the first 2 hours post-dosing (AUC 0-0.5, AUC 0-1, and AUC 0-2), the cumulative hydrocodone exposure was lower following intranasal APADAZ compared to intranasal hydrocodone/ acetaminophen.
 
-There were numerically small but not statistically significant differences between APADAZ and the hydrocodone/acetaminophen control observed for the pre-specified primary endpoint, maximum effect on Drug Liking VAS (Emax), and the secondary endpoints of Emax for High VAS and Take Drug Again VAS.
+There were numerically small but not statistically significant differences between APADAZ and the hydrocodone/acetaminophen control observed for the pre-specified primary endpoint, maximum effect on Drug Liking VAS (Emax), and the secondary endpoints of E maxfor High VAS and Take Drug Again VAS.
 
-Table 3: Summary Statistics of Maximum Scores (Emax) on Drug Liking, High and Take Drug Again, Following Intranasal Administration of APADAZ, Hydrocodone/APAP, and Placebo
+Table 3: Summary Statistics of Maximum Scores (E max) on Drug Liking, High and Take Drug Again, Following Intranasal Administration of APADAZ, Hydrocodone/APAP, and Placebo
 
 | VAS Scale (100 point) intranasal (n=42) | APADAZ Crushed | Hydrocodone/APAP Crushed | Placebo |
 | --- | --- | --- | --- |
 | Drug Liking* Mean (SE) Median (Range) | 75.9 (2.3) 74.0 (50-100) | 79.0 (2.7) 80.0 (50-100) | 53.0 (1.2) 51.0 (50-85) |
 | High** Mean (SE) Median (Range) | 61.8 (4.6) 68.5 (0-100) | 59.1 (5.1) 67.5 (0-100) | 8.8 (3.8) 0.0 (0-100) |
 | Take Drug Again* Mean (SE) Median (Range) | 69.5 (3.9) 68.0 (0-100) | 74.5 (3.9) 81.5 (0-100) | 48.2 (2.2) 50.0 (0-100) |
-| *Bipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) **Unipolar scale (0=maximum negative response, 100=maximum positive response) |  |  |  |
+
+* Bipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) ** Unipolar scale (0=maximum negative response, 100=maximum positive response)
 
 Additional secondary analyses of Drug Liking based on area under the effect curve analyses (AUE) for the first half hour, hour, and 2 hours post-dosing, demonstrated numerically small differences between intranasal APADAZ and intranasal hydrocodone/acetaminophen.
 However, there were no differences between these two treatments with respect to the cumulative High experienced over the first 2 hours post-dosing using similar AUE analyses.
@@ -86,17 +90,21 @@ The results of the oral and intranasal human abuse potential studies do not supp
 
 ## 9.3 Dependence
 
-Both tolerance and physical dependence can develop during chronic opioid therapy.
-Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
+Both tolerance and physical dependence can develop during use of opioid therapy.
 
-Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
-Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
 
-APADAZ should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.5)].
-If APADAZ is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
-Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
+
+Do not abruptly discontinue APADAZ in a patient physically dependent on opioids.
+Rapid tapering of APADAZ in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+
+When discontinuing APADAZ, gradually taper the dosage using a patient-specific plan that considers the following: the dose of APADAZ the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
+To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
+In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.6), Warnings and Precautions (5.16)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

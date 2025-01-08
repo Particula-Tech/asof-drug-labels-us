@@ -2,16 +2,12 @@
 
 Clinical Presentation
 
-Following an acute overdosage, toxicity may result from hydrocodone or acetaminophen.
-
 Hydrocodone
 
-Acute overdose with APADAZ can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Acute overdose with hydrocodone can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 
-Acetaminophen
-
-In acute acetaminophen overdosage, dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
+Acetaminophen In acute acetaminophen overdosage, dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necrosis, hypoglycemic coma, and thrombocytopenia also occur.
 Plasma acetaminophen levels > 300 mcg/mL at 4 hours after oral ingestion were associated with hepatic damage in 90% of patients; minimal hepatic damage is anticipated if plasma levels at 4 hours are < 150 mcg/mL or < 37.5 mcg/mL at 12 hours after ingestion.
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis, and general malaise.
@@ -23,15 +19,12 @@ A single or multiple drug overdose with hydrocodone and acetaminophen is a poten
 Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
 Oxygen, intravenous fluids, vasopressors, assisted ventilation, and other supportive measures should be employed as indicated.
 
-Hydrocodone
-
-In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
+Hydrocodone In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
-Cardiac arrest or arrhythmias will require advanced life-support techniques.
+Cardiac arrest or arrhythmias will require advanced life-support measures.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to hydrocodone overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to hydrocodone overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 Because the duration of opioid reversal is expected to be less than the duration of action of hydrocodone from APADAZ, carefully monitor the patient until spontaneous respiration is reliably re-established.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.

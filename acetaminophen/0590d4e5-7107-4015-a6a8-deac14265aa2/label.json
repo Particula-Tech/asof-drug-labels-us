@@ -3,14 +3,11 @@
     "NDA208653"
   ],
   "inn": "acetaminophen",
-  "labeler": "KemPharm, Inc.",
+  "labeler": "Zevra Therapeutics, Inc.",
   "package_ndcs": [
     "70040-0145-1",
-    "70040-0145-3",
     "70040-0167-1",
-    "70040-0167-3",
-    "70040-0189-1",
-    "70040-0189-3"
+    "70040-0189-1"
   ],
   "products": [
     {

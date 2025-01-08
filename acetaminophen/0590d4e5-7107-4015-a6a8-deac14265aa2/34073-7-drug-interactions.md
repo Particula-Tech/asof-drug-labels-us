@@ -1,27 +1,25 @@
 # 7 DRUG INTERACTIONS
 
-Table 2 includes clinically significant drug interactions with APADAZ.
-
 Table 2.
-Clinically Significant Drug Interactions with APADAZ
+Clinically Significant Drug Interactions with APADAZ.
 
 | CYP3A4 and 2D6 Inhibitors |  |
 | --- | --- |
 | Clinical Impact: | The concomitant use of APADAZ and CYP3A4 inhibitors can increase the plasma concentration of hydrocodone, resulting in increased or prolonged opioid effects. These effects could be more pronounced with concomitant use of APADAZ and CYP2D6 and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of APADAZ is achieved [see Warnings and Precautions (5.5)]. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the hydrocodone plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to hydrocodone. |
-| Intervention: | If concomitant use is necessary, consider dosage reduction of APADAZ until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. If a CYP3A4 inhibitor is discontinued, consider increasing the APADAZ dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
-| Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) etc. |
+| Intervention: | If concomitant use is necessary, consider dosage reduction of APADAZ until stable drug effects are achieved. Evaluate patients at frequent intervals for respiratory depression and sedation at. If a CYP3A4 inhibitor is discontinued, consider increasing the APADAZ dosage until stable drug effects are achieved. Assess for signs of opioid withdrawal. |
+| Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir) etc. |
 | CYP3A4 Inducers |  |
 | Clinical Impact: | The concomitant use of APADAZ and CYP3A4 inducers can decrease the plasma concentration of hydrocodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to hydrocodone [see Warnings and Precautions (5.16)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the hydrocodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
-| Intervention: | If concomitant use is necessary, consider increasing the APADAZ dosage until stable drug effects are achieved [see Dosage and Administration (2)]. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider APADAZ dosage reduction and monitor for signs of respiratory depression. |
+| Intervention: | If concomitant use is necessary, consider increasing the APADAZ dosage until stable drug effects are achieved [see Dosage and Administration (2)]. Assess for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider APADAZ dosage reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation. |
 | Examples: | Rifampin, carbamazepine, phenytoin etc. |
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, increases the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Dosage and Administration (2.5), Warnings and Precautions (5.7)]. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation). If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3, 5.7)]. |
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
-| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue APADAZ if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Intervention: | If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment. Discontinue APADAZ if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e. cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.3)]. If urgent use of an opioid is necessary, use test doses and frequent titration of small doses to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression. |
 | Intervention: | The use of APADAZ is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
@@ -32,10 +30,11 @@ Clinically Significant Drug Interactions with APADAZ
 | Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Hydrocodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of APADAZ and/or the muscle relaxant as necessary. |
+| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of APADAZ and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3, 5.7)]. |
+| Examples: | Cyclobenzaprine, metaxalone |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
-| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Intervention: | Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
-| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when APADAZ is used concomitantly with anticholinergic drugs. |
+| Intervention: | Evaluate patients for signs of urinary retention or reduced gastric motility when APADAZ is used concomitantly with anticholinergic drugs. |
