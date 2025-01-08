@@ -16,7 +16,7 @@ Table 13 Trials Conducted with Emtricitabine and Tenofovir Disoproxil Fumarate f
 ## 14.2 Clinical Trial Results for Treatment of HIV-1: Study 934
 
 Data through 144 weeks are reported for Study 934, a randomized, open-label, active-controlled multicenter trial comparing FTC+TDF administered in combination with efavirenz (EFV) versus zidovudine (AZT)/lamivudine (3TC) fixed-dose combination administered in combination with EFV in 511 antiretroviral-naïve adult subjects.
-From Weeks 96 to 144 of the trial, subjects received emtricitabine and tenofovir disoproxil fumarate with EFV in place of FTC + TDF with EFV.
+From Weeks 96 to 144 of the trial, subjects received emtricitabine and tenofovir disoproxil fumarate with EFV in place of FTC+TDF with EFV.
 Subjects had a mean age of 38 years (range 18 to 80); 86% were male, 59% were Caucasian, and 23% were Black.
 The mean baseline CD4+ cell count was 245 cells/mm3 (range 2 to 1,191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56 to 6.54).
 Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of subjects had baseline viral loads >100,000 copies/mL.

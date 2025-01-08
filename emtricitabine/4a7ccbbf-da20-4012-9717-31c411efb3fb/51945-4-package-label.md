@@ -16,4 +16,6 @@ accompanying Medication
 
 Guide to each patient.
 
-Rx Only Laurus Labs
+Rx only 30 Tablets
+
+Laurus Labs

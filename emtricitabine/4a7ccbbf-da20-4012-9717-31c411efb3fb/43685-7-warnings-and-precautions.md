@@ -3,6 +3,7 @@
 ## 5.1 Severe Acute Exacerbation of Hepatitis B in Individuals with HBV Infection
 
 All individuals should be tested for the presence of chronic hepatitis B virus (HBV) before or when initiating emtricitabine and tenofovir disoproxil fumarate [see Dosage and Administration (2.1)].
+
 Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in HBV-infected individuals who have discontinued emtricitabine and tenofovir disoproxil fumarate.
 Individuals infected with HBV who discontinue emtricitabine and tenofovir disoproxil fumarate should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
 If appropriate, anti-hepatitis B therapy may be warranted, especially in individuals with advanced liver disease or cirrhosis, since posttreatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
@@ -12,9 +13,12 @@ HBV-uninfected individuals should be offered vaccination.
 
 Use emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP to reduce the risk of HIV-1 infection as part of a comprehensive prevention strategy that includes other prevention measures, including adherence to daily administration and safer sex practices, including condoms, to reduce the risk of sexually transmitted infections (STIs).
 The time from initiation of emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP to maximal protection against HIV-1 infection is unknown.
+
 Risk for HIV-1 acquisition includes behavioral, biological, or epidemiologic factors including but not limited to condomless sex, past or current STIs, self-identified HIV risk, having sexual partners of unknown HIV-1 viremic status, or sexual activity in a high prevalence area or network.
+
 Counsel individuals on the use of other prevention measures (e.g., consistent and correct condom use, knowledge of partner(s)’ HIV-1 status, including viral suppression status, regular testing for STIs that can facilitate HIV-1 transmission).
 Inform uninfected individuals about and support their efforts in reducing sexual risk behavior.
+
 Use emtricitabine and tenofovir disoproxil fumarate to reduce the risk of acquiring HIV-1 only in individuals confirmed to be HIV-negative.
 HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking only emtricitabine and tenofovir disoproxil fumarate, because emtricitabine and tenofovir disoproxil fumarate alone does not constitute a complete regimen for HIV-1 treatment [see Microbiology (12.4)]; therefore, care should be taken to minimize the risk of initiating or continuing emtricitabine and tenofovir disoproxil fumarate tablets before confirming the individual is HIV-1 negative.
 

@@ -59,7 +59,7 @@ Table 4 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 | Glycosuria (≥3+) | <1% | 1% |
 | Neutrophils (<750/mm3) | 3% | 5% |
 | Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
-| a. From Weeks 96 to 144 of the trial, subjects received emtricitabine and tenofovir disoproxil fumarate tablets with efavirenz in place of FTC + TDF with efavirenz. |  |  |
+| a. From Weeks 96 to 144 of the trial, subjects received emtricitabine and tenofovir disoproxil fumarate tablets with efavirenz in place of FTC+TDF with efavirenz. |  |  |
 
 Clinical Trials in Pediatric Subjects
 

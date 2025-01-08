@@ -6,19 +6,8 @@ Important Information for Uninfected Individuals Taking Emtricitabine and Tenofo
 
 Advise HIV-uninfected individuals about the following [see Warnings and Precautions (5.2)]:
 
-- The need to confirm that they are HIV-negative before starting to take emtricitabine and tenofovir disoproxil fumarate to reduce the risk of acquiring HIV-1.
-- That HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking emtricitabine and tenofovir disoproxil fumarate, because emtricitabine and tenofovir disoproxil fumarate alone does not constitute a complete regimen for HIV-1 treatment.
-- The importance of taking emtricitabine and tenofovir disoproxil fumarate on a regular dosing schedule and strict adherence to the recommended dosing schedule to reduce the risk of acquiring HIV-1.
-  Uninfected individuals who miss doses are at greater risk of acquiring HIV-1 than those who do not miss doses.
-- That emtricitabine and tenofovir disoproxil fumarate does not prevent other sexually acquired infections and should only be used as part of a complete prevention strategy including other prevention measures.
-- To use condoms consistently and correctly to lower the chances of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-- The importance of knowing their HIV-1 status and the HIV-1 status of their partner(s).
-- The importance of virologic suppression in their partner(s) with HIV-1.
-- The need to get tested regularly for HIV-1 (at least every 3 months, or more frequently for some individuals such as adolescents) and to ask their partner(s) to get tested as well.
-- To report any symptoms of acute HIV-1 infection (flu-like symptoms) to their healthcare provider immediately.
-- That the signs and symptoms of acute infection include fever, headache, fatigue, arthralgia, vomiting, myalgia, diarrhea, pharyngitis, rash, night sweats, and adenopathy (cervical and inguinal).
-- To get tested for other sexually transmitted infections, such as syphilis, chlamydia, and gonorrhea, that may facilitate HIV-1 transmission.
-- To assess their sexual risk behavior and get support to help reduce sexual risk behavior.
+• The need to confirm that they are HIV-negative before starting to take emtricitabine and tenofovir disoproxil fumarate to reduce the risk of acquiring HIV-1. • That HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking emtricitabine and tenofovir disoproxil fumarate, because emtricitabine and tenofovir disoproxil fumarate alone does not constitute a complete regimen for HIV-1 treatment. • The importance of taking emtricitabine and tenofovir disoproxil fumarate on a regular dosing schedule and strict adherence to the recommended dosing schedule to reduce the risk of acquiring HIV-1.
+Uninfected individuals who miss doses are at greater risk of acquiring HIV-1 than those who do not miss doses. • That emtricitabine and tenofovir disoproxil fumarate does not prevent other sexually acquired infections and should only be used as part of a complete prevention strategy including other prevention measures. • To use condoms consistently and correctly to lower the chances of sexual contact with any body fluids such as semen, vaginal secretions, or blood. • The importance of knowing their HIV-1 status and the HIV-1 status of their partner(s). • The importance of virologic suppression in their partner(s) with HIV-1. • The need to get tested regularly for HIV-1 (at least every 3 months, or more frequently for some individuals such as adolescents) and to ask their partner(s) to get tested as well. • To report any symptoms of acute HIV-1 infection (flu-like symptoms) to their healthcare provider immediately. • That the signs and symptoms of acute infection include fever, headache, fatigue, arthralgia, vomiting, myalgia, diarrhea, pharyngitis, rash, night sweats, and adenopathy (cervical and inguinal). • To get tested for other sexually transmitted infections, such as syphilis, chlamydia, and gonorrhea, that may facilitate HIV-1 transmission. • To assess their sexual risk behavior and get support to help reduce sexual risk behavior.
 
 Severe Acute Exacerbation of Hepatitis B in Patients Infected with HBV
 
