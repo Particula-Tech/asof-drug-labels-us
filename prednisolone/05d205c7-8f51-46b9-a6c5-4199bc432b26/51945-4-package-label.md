@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-637-05 prednisoLONE
+NDC 61314-637-05 Rx only prednisoLONE
 
 Acetate
 
@@ -8,4 +8,4 @@ Ophthalmic
 
 Suspension, USP
 
-1% Rx only STERILE 5 mL SANDOZ
+1% STERILE 5 mL SANDOZ

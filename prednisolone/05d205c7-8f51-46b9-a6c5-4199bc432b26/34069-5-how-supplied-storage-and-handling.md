@@ -16,8 +16,5 @@ Rx Only
 
 Distributed by Sandoz Inc. Princeton, NJ 08540
 
-T2022-18
-
-May 2022
-
-300057528-US
+Rev.
+Dec 2024
