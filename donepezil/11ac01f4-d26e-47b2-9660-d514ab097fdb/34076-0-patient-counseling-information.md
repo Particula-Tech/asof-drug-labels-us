@@ -10,9 +10,8 @@ Advise patients and caregivers that donepezil hydrochloride tablets may cause na
 
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-Manufactured by:
+By: HETERO TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
 
-HETERO TM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
-Revised: 04/2023
+Revised: 12/2024

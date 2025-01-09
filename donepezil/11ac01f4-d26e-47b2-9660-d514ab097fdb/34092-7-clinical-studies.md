@@ -32,7 +32,7 @@ Clinical trials for investigational drugs have used a variety of CIBIC formats, 
 As such, results from a CIBIC-plus reflect clinical experience from the trial or trials in which it was used and cannot be compared directly with the results of CIBIC-plus evaluations from other clinical trials.
 The CIBIC-plus used in donepezil hydrochloride trials was a semi-structured instrument that was intended to examine four major areas of patient function: General, Cognitive, Behavioral, and Activities of Daily Living.
 It represents the assessment of a skilled clinician based upon his/her observations at an interview with the patient, in combination with information supplied by a caregiver familiar with the behavior of the patient over the interval rated.
-The CIBIC-plus is scored as a seven point categorical rating, ranging from a score of 1, indicating “markedly improved,” to a score of 4, indicating “no change” to a score of 7, indicating “markedly worse.”
+The CIBIC-plus is scored as a seven-point categorical rating, ranging from a score of 1, indicating “markedly improved,” to a score of 4, indicating “no change” to a score of 7, indicating “markedly worse.”
 The CIBIC-plus has not been systematically compared directly to assessments not using information from caregivers (CIBIC) or other global methods.
 
 Thirty-Week Study
@@ -64,7 +64,7 @@ A curve for an effective treatment would be shifted to the left of the curve for
 
 Figure 2.
 Cumulative Percentage of Patients Completing 24 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
-The Percentages of Randomized Patients who Completed the Study were: Placebo 80%, 5 mg/day 85% and 10 mg/day 68%.
+The Percentages of Randomized Patients who Completed the Study were: Placebo 80%, 5 mg/day 85%, and 10 mg/day 68%.
 
 Effects on the CIBIC-plus
 
@@ -74,7 +74,7 @@ These differences were statistically significant.
 There was no statistically significant difference between the two active treatments.
 
 Figure 3.
-Frequency Distribution of CIBIC plus Scores at Week 24.
+Frequency Distribution of CIBIC-plus Scores at Week 24.
 
 Fifteen-Week Study
 
@@ -93,7 +93,7 @@ Figure 4.
 Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing the 15-week Study.
 
 Following 3 weeks of placebo washout, scores on the ADAS-cog for both the donepezil hydrochloride treatment groups increased, indicating that discontinuation of donepezil hydrochloride resulted in a loss of its treatment effect.
-The duration of this placebo washout period was not sufficient to characterize the rate of loss of the treatment effect, but, the 30-week study (see above) demonstrated that treatment effects associated with the use of donepezil hydrochloride abate within 6 weeks of treatment discontinuation.
+The duration of this placebo washout period was not sufficient to characterize the rate of loss of the treatment effect, but the 30-week study (see above) demonstrated that treatment effects associated with the use of donepezil hydrochloride abate within 6 weeks of treatment discontinuation.
 
 Figure 5 illustrates the cumulative percentages of patients from each of the three treatment groups who attained the measure of improvement in ADAS-cog score shown on the X axis.
 The same three change scores (7-point and 4-point reductions from baseline or no change in score) as selected for the 30-week study have been used for this illustration.
@@ -103,7 +103,7 @@ As observed in the 30-week study, the curves demonstrate that patients assigned 
 
 Figure 5.
 Cumulative Percentage of Patients with Specified Changes from Baseline ADAS-cog Scores.
-The Percentages of Randomized Patients Within Each Treatment Group Who Completed the Study Were: Placebo 93%, 5 mg/day 90% and 10 mg/day 82%.
+The Percentages of Randomized Patients Within Each Treatment Group Who Completed the Study Were: Placebo 93%, 5 mg/day 90%, and 10 mg/day 82%.
 
 Effects on the CIBIC-plus
 
@@ -116,9 +116,10 @@ Frequency Distribution of CIBIC-plus Scores at Week 12.
 
 In both studies, patient age, sex, and race were not found to predict the clinical outcome of donepezil hydrochloride treatment.
 
-## 14.2 Severe Alzheimer's Disease
+## 14.2 Moderate to Severe Alzheimer's Disease
 
-The effectiveness of donepezil hydrochloride in the treatment of patients with severe Alzheimer’s disease was established in studies employing dose of 10 mg/day.
+The effectiveness of donepezil hydrochloride in the treatment of patients with moderate to severe Alzheimer’s disease was established in studies employing doses of 10 mg/day and 23 mg/day.
+Results of a controlled clinical trial in moderate to severe Alzheimer’s Disease that compared donepezil hydrochloride 23 mg once daily to 10 mg once daily suggest that a 23 mg dose of donepezil hydrochloride provided additional benefit.
 
 Swedish 6 Month Study (10 mg/day)
 
@@ -187,3 +188,37 @@ The primary efficacy measures for this study were the SIB and CIBIC-plus.
 
 At 24 weeks of treatment, statistically significant treatment differences were observed between the 10 mg/day dose of donepezil and placebo on both the SIB and CIBIC-plus.
 The 5 mg/day dose of donepezil showed a statistically significant superiority to placebo on the SIB, but not on the CIBIC-plus.
+
+Study of 23 mg/day The effectiveness of donepezil hydrochloride 23 mg/day as a treatment for moderate to severe Alzheimer's disease has been demonstrated by the results of a randomized, double-blind, controlled clinical investigation in patients with moderate to severe Alzheimer's disease.
+The controlled clinical study was conducted globally in patients with probable Alzheimer's disease diagnosed by NINCDS-ADRDA and DSM-IV criteria, MMSE: range of 0 to 20.
+Patients were required to have been on a stable dose of donepezil hydrochloride 10 mg/day for at least 3 months prior to screening.
+One thousand four hundred and thirty four (1434) patients with moderate to severe Alzheimer's disease were randomized to 23 mg/day or 10 mg/day.
+The mean age of patients was 73.8 years, with a range of 47 to 90.
+Approximately 63% of patients were women, and 37% were men.
+Approximately 36% of the patients were taking memantine throughout the study.
+Study Outcome Measures The effectiveness of treatment with 23 mg/day was determined using a dual outcome assessment strategy that evaluated cognitive function using an instrument designed for more impaired patients and overall function through caregiver-rated assessment.
+The ability of 23 mg/day to improve cognitive performance was assessed with the Severe Impairment Battery (SIB).
+The SIB, a multi-item instrument, has been validated for the evaluation of cognitive function in patients with moderate to severe dementia.
+The SIB evaluates selective aspects of cognitive performance, including elements of memory, language, orientation, attention, praxis, visuospatial ability, construction, and social interaction.
+The SIB scoring range is from 0 to 100, with lower scores indicating greater cognitive impairment.
+The ability of 23 mg/day to produce an overall clinical effect was assessed using a Clinician’s Interview-Based Impression of Change that incorporated the use of caregiver information, the CIBIC-plus.
+The CIBIC-plus used in this trial was a semi-structured instrument that examines four major areas of patient function: General, Cognitive, Behavioral, and Activities of Daily Living.
+It represents the assessment of a skilled clinician based upon his/her observations at an interview with the patient, in combination with information supplied by a caregiver familiar with the behavior of the patient over the interval rated.
+The CIBIC-plus is scored as a seven-point categorical rating, ranging from a score of 1, indicating "markedly improved," to a score of 4, indicating "no change" to a score of 7, indicating "markedly worse."
+Effects on the SIB Figure 11 shows the time course for the change from baseline in SIB score for the two treatment groups over the 24 weeks of the study.
+At 24 weeks of treatment, the LS mean difference in the SIB change scores for 23 mg/day-treated patients compared to patients treated with 10 mg was 2.2 units (p = 0.0001).
+The dose of 23 mg/day was statistically significantly superior to the dose of 10 mg/day.
+Figure 11.
+Time-course of the Change from Baseline in SIB Score for Patients Completing 24 Weeks of Treatment.
+
+Figure 12 illustrates the cumulative percentages of patients from each of the two treatment groups who attained the measure of improvement in SIB score shown on the X-axis.
+While patients assigned both to 23 mg/day and to 10 mg/day have a wide range of responses, the curves show that the 23 mg-group is more likely to show a greater improvement in cognitive performance.
+When such curves are shifted to the left, this indicates a greater percentage of patients responding to treatment on the SIB.
+Figure 12.
+Cumulative Percentage of Patients Completing 24 Weeks of Double-blind Treatment with Specified Changes from Baseline SIB Scores.
+
+Effects on the CIBIC-plus Figure 13 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients at the end of 24 weeks of treatment.
+The mean difference between the 23 mg/day and 10 mg/day treatment groups was 0.06 units.
+This difference was not statistically significant.
+Figure 13.
+Frequency Distribution of CIBIC-plus Scores at Week 24.

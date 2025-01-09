@@ -6,9 +6,9 @@ Risk Summary There are no adequate data on the developmental risks associated wi
 In animal studies, developmental toxicity was not observed when donepezil was administered to pregnant rats and rabbits during organogenesis, but administration to rats during the latter part of pregnancy and throughout lactation resulted in increased stillbirths and decreased offspring survival at clinically relevant doses [see Data].
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
 The background risks of major birth defects and miscarriage for the indicated population are unknown.
-Data Animal Data Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] of 23 mg/day on a mg/m 2 basis) and 10 mg/kg/day (approximately 7 times the MRHD on a mg/m 2 basis), respectively.
+Data Animal Data Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] of 23 mg/day on a mg/m 2basis) and 10 mg/kg/day (approximately 7 times the MRHD on a mg/m 2basis), respectively.
 Oral administration of donepezil (1, 3, 10 mg/kg/day) to rats during late gestation and throughout lactation to weaning produced an increase in stillbirths and reduced offspring survival through postpartum day 4 at the highest dose.
-The no-effect dose of 3 mg/kg/day is approximately equal to the MRHD on a mg/m 2 basis.
+The no-effect dose of 3 mg/kg/day is approximately equal to the MRHD on a mg/m 2basis.
 
 ## 8.2 Lactation
 
@@ -27,3 +27,9 @@ Alzheimer’s disease is a disorder occurring primarily in individuals over 55 y
 The mean age of patients enrolled in the clinical studies with donepezil hydrochloride was 73 years; 80% of these patients were between 65 and 84 years old, and 49% of patients were at or above the age of 75.
 The efficacy and safety data presented in the clinical trials section were obtained from these patients.
 There were no clinically significant differences in most adverse reactions reported by patient groups ≥ 65 years old and < 65 years old.
+
+## 8.6 Lower Weight Individuals
+
+In the controlled clinical trial, among patients in the donepezil hydrochloride 23 mg treatment group, those patients weighing < 55 kg reported more nausea, vomiting, and decreased weight than patients weighing 55 kg or more.
+There were more withdrawals due to adverse reactions as well.
+This finding may be related to higher plasma exposure associated with lower weight.

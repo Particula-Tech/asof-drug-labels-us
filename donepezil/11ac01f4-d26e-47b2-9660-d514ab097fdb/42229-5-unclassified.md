@@ -21,7 +21,7 @@ Tell the doctor about all of your present or past health problems and conditions
 Include: • Any heart problems including problems with irregular, slow, or fast heartbeats • Asthma or lung problems • A seizure • Stomach ulcers • Difficulty passing urine • Liver or kidney problems • Trouble swallowing tablets • Present pregnancy or plans to become pregnant.
 It is not known if donepezil hydrochloride tablets can harm an unborn baby. • Present breast-feeding.
 It is not known if donepezil hydrochloride passes into breast milk.
-Talk to your doctor about the best way to feed your baby if you take Donepezil hydrochloride tablet Tell the doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
+Talk to your doctor about the best way to feed your baby if you take donepezil hydrochloride tablet Tell the doctor about all the medicines you take,including prescription and non-prescription medicines, vitamins, and herbal products.
 Donepezil hydrochloride tablets and other medicines may affect each other.
 Be particularly sure to tell the doctor if you take aspirin or medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
 There are many NSAID medicines, both prescription and non-prescription.
@@ -34,17 +34,17 @@ Keep a list of all your medicines.
 Show it to your doctor or pharmacist before you start a new medicine.
 How should you take donepezil hydrochloride tablets? • Take donepezil hydrochloride tablets exactly as prescribed by the doctor.
 Do not stop donepezil hydrochloride tablets or change the dose yourself.
-Talk with the doctor first. • Take donepezil hydrochloride tablets one time each day.
+Talk with your doctor first. • Take donepezil hydrochloride tablets one time each day.
 Donepezil hydrochloride tablets can be taken with or without food. • If you miss a dose of donepezil hydrochloride tablets, just wait.
 Take only the next dose at the usual time.
-Do not take 2 doses at the same time. • If donepezil hydrochloride tablets are missed for 7 days or more, talk with your doctor before starting again. • If you take too much donepezil hydrochloride tablets at one time, call the doctor or poison control center, or go to the emergency room right away.
+Do not take 2 doses at the same time. • If donepezil hydrochloride tablets are missed for 7 days or more, talk with your doctor before starting again. • If you take too much donepezil hydrochloride at one time, call your doctor or poison control center, or go to the emergency room right away.
 What are the possible side effects of donepezil hydrochloride tablets?
 Donepezil hydrochloride tablets may cause the following serious side effects: • slow heartbeat and fainting.
 This happens more often in people with heart problems.
-Call your doctor right away if the patient faints while taking donepezil hydrochloride tablets. • more stomach acid.
+Call your doctor right away if you feel faint or lightheaded while taking donepezil hydrochloride tablets. • more stomach acid.
 This raises the chance of ulcers and bleeding, especially when taking donepezil hydrochloride 23 mg.
 The risk is higher for people who have had ulcers, or take aspirin or other NSAIDs. • worsening of lung problems in people with asthma or other lung disease. • seizures. • difficulty passing urine.
-Call your doctor right away if the patient has: • fainting. • heartburn or stomach pain that is new or won’t go away. • nausea or vomiting, blood in the vomit, dark vomit that looks like coffee grounds. • bowel movements or stools that look like black tar. • new or worse asthma or breathing problems. • seizures. • difficulty passing urine.
+Call your doctor right awayif you have: • fainting. • heartburn or stomach pain that is new or won’t go away. • nausea or vomiting, blood in the vomit, dark vomit that looks like coffee grounds. • bowel movements or stools that look like black tar. • new or worse asthma or breathing problems. • seizures. • difficulty passing urine.
 The most common side effects of donepezil hydrochloride tablets are: • nausea • diarrhea • not sleeping well • vomiting • muscle cramps • feeling tired • not wanting to eat These side effects may get better after you take donepezil hydrochloride tablets for a while.
 This is not a complete list of side effects with donepezil hydrochloride tablets.
 For more information, ask your doctor or pharmacist.
@@ -62,9 +62,12 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about donepezil hydrochloride that is written for health professionals.
 For more information about donepezil hydrochloride tablets, call 1-866-495-1995.
 What are the ingredients in donepezil hydrochloride tablets?
-Active ingredient: donepezil hydrochloride, USP Inactive ingredients: corn starch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
+Active ingredient:donepezil hydrochloride, USP Inactive ingredients:corn starch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
 The film coating contains hypromellose, polyethylene glycol, talc and titanium dioxide.
 Additionally, the 10 mg tablet contains yellow iron oxide as a coloring agent.
 
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 Manufactured by: HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
-Revised: 04/2023
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
+
+By: HETERO TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
+
+Revised: 12/2024
