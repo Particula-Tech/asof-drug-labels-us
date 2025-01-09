@@ -34,7 +34,7 @@ Therefore, some adolescent patients were randomized to a dose that might have re
 Over half (55%) of the adolescent patients received doses of 0.01 to 0.04mg/kg.
 In studies in which systematic pharmacokinetic data were obtained, there was a strong inverse correlation between body weight and plasma guanfacine concentrations.
 
-Table 16: Fixed dose Studies
+Table 16: Fixed Dose Studies
 
 | Study Number (Age Range) | Treatment Group | Primary Efficacy Measure: ADHD-RS-IV Total Score |  |  |
 | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ Patients receiving guanfacine extended-release tablets showed statistically sign
 Study 6 (316 study) was a 12-week (for children aged 6 to 12) or 15-week (for adolescents aged 13 to 17), randomized, double-blind, parallel-group, placebo- and active-reference, dose-optimization study conducted in pediatric patients (children and adolescents aged 6 to 17 years old inclusive) (n=337) to assess the efficacy and safety of once-daily dosing (children: 1 to 4 mg/day, adolescents: 1 to 7 mg/day; optimized dose range of 0.05 to 0.12 mg/kg/day) in the treatment of ADHD.
 Guanfacine extended-release tablets were statistically superior to placebo on symptoms of ADHD in patients 6 to 17 years as measured by change from baseline in ADHD-RS-IV total scores (see Table 17).
 
-Table 17: Flexible-Dose studies
+Table 17: Flexible-Dose Studies
 
 | Study Number (Age Range) | Treatment Group | Primary Efficacy Measure: ADHD-RS-IV Total Score |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

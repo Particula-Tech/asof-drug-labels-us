@@ -39,17 +39,17 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Clinical Considerations
 
-Monitor breastfeeding infants exposed to guanfacine through feeding.
+Monitor breastfeeding infants exposed to guanfacine through breastmilk for sedation, lethargy, and poor feeding.
 
 Data
 
-Guanfacine was excreted in breast milk of lactating rats at a concentration comparable to that observed blood, but slightly less than the concentration in plasma when administered following a single oral dose 5 mg/kg.
-The concentration of drug in animal milk does not necessarily predict the concentration of drug human milk.
+Guanfacine was excreted in breast milk of lactating rats at a concentration comparable to that observed in blood, but slightly less than the concentration in plasma when administered following a single oral dose of 5 mg/kg.
+The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.
 
 ## 8.4 Pediatric Use
 
 Safety and efficacy of guanfacine extended-release tabletsin pediatric patients less than 6 years of age have not been established.
-The efficacy of guanfacine extended-release tablets was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6 to 17 who met DSM-IV ® criteria for ADHD [see ADVERSE REACTIONS (6) and CLINICAL STUDIES (14)].
+The efficacy of guanfacine extended-release tablets was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6 to 17 who met DSM-IV ® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
 
 Animal Data
 

@@ -41,11 +41,11 @@ Guanfacine extended-release tablets have significantly reduced C max (60% lower)
 Pharmacological treatment of ADHD may be needed for extended periods.
 Healthcare providers should periodically re-evaluate the long-term use of guanfacine extended-release tablets, and adjust weight-based dosage as needed.
 The majority of children and adolescents reach optimal doses in the 0.05 to 0.12 mg/kg/day range.
-Doses above 4 mg/day have not been evaluated in children (ages 6 to 12 years) and above 7 mg/day have not been evaluated in adolescents (ages 13 to 17 years) [see CLINICAL STUDIES (14)].
+Doses above 4 mg/day have not been evaluated in children (ages 6 to 12 years) and above 7 mg/day have not been evaluated in adolescents (ages 13 to 17 years) [see Clinical Studies (14)].
 
 ## 2.5 Discontinuation of Treatment
 
-Following discontinuation of guanfacine extended-release tablets, patients may experience increases in blood pressure and heart rate [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+Following discontinuation of guanfacine extended-release tablets, patients may experience increases in blood pressure and heart rate [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 Patients/caregivers should be instructed not to discontinue guanfacine extended-release tablets without consulting their health care provider.
 Monitor blood pressure and pulse when reducing the dose or discontinuing the drug.
 Taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to minimize the risk of rebound hypertension.
@@ -56,7 +56,7 @@ When reinitiating patients to the previous maintenance dose after two or more mi
 
 ## 2.7 Dosage Adjustment with Concomitant Use of Strong and Moderate CYP3A4 Inhibitors or Inducers
 
-Dosage adjustments for guanfacine extended-release tablets are recommended with concomitant use of strong and moderate CYP3A4 inhibitors (e.g., ketoconazole), or CYP3A4 inducers (e.g., carbamazepine) (Table 2) [see DRUG INTERACTIONS (7)].
+Dosage adjustments for guanfacine extended-release tablets are recommended with concomitant use of strong and moderate CYP3A4 inhibitors (e.g., ketoconazole), or CYP3A4 inducers (e.g., carbamazepine) (Table 2) [see Drug Interactions (7)].
 
 Table 2: Guanfacine Extended-Release Tablets Dosage Adjustments for Patients Taking Concomitant CYP3A4 Inhibitors or Inducers
 
