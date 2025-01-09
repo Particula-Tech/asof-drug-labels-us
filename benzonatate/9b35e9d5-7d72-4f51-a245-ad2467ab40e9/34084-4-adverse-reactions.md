@@ -2,7 +2,7 @@
 
 Potential Adverse Reactions to benzonatate capsules may include:
 
-Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule.
+Hypersensitivity reactionsincluding bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule.
 
 CNS
 
