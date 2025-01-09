@@ -1,8 +1,8 @@
 # PATIENT INFORMATION
 
-Minocycline Hydrochloride Extended-Release Tablets, USP
+Minocycline Hydrochloride (min'' oh sye' kleen hye'' droe klor' ide)
 
-(min'' oh sye' kleen hye'' droe klor' ide)
+Extended-Release Tablets, USP
 
 Read this Patient Information leaflet that comes with minocycline hydrochloride extended-release tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -197,8 +197,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
-
-Issued: August 2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2025

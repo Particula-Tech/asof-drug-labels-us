@@ -76,7 +76,11 @@ Cases of anaphylaxis, serious skin reactions (e.g., Stevens-Johnson syndrome), e
 DRESS syndrome consists of cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, and one or more of the following visceral complications such as: hepatitis, pneumonitis, nephritis, myocarditis, and pericarditis.
 Fever and lymphadenopathy may be present.
 In some cases, death has been reported.
-If this syndrome is recognized, the drug should be discontinued immediately.
+If this syndrome is recognized, minocycline hydrochloride extended-release tablets should be discontinued immediately.
+
+Fixed drug eruptions have occurred with minocycline and other tetracyclines.
+Worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption, has been observed with other tetracyclines [see ADVERSE REACTIONS (6.2)].
+If severe skin/hypersensitivity reactions occur, discontinue minocycline hydrochloride extended-release tablets immediately and institute appropriate therapy.
 
 ## 5.10 Tissue Hyperpigmentation
 

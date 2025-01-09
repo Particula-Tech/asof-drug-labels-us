@@ -26,8 +26,4 @@ See FDA-approved patient labeling (Patient Labeling) Patients taking minocycline
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
 
-Distributed by:
-
-Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Issued: August 2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2025
