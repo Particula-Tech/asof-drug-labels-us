@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Signs and symptoms:
+## Signs and Symptoms:
 
 Vomiting, muscular hypotonia, drowsiness, accommodation disorders, coma, respiratory depression and seizures.
 

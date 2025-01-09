@@ -1,23 +1,4 @@
 Rx only
 
-Dist. by:
-
-Par Pharmaceutical
-
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-9/215, Pudupakkam, Kelambakkam - 603 103.
-
-Made in India
-
-Mfg.
-Lic.
-No.: TN00002121
-
-OS2406H-01-74-02
-
-Revised: 12/2019
+Manufactured for: Endo USA Malvern, PA 19355 U.S.A. Made in India Neutral Code: TN/DRUGS/TN00002121 © 2024 Endo, Inc. or one of its affiliates.
+OS2406H-01-74-04 Revised: 11/2024
