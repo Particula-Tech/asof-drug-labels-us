@@ -7,17 +7,11 @@
   Symptoms such as weight loss, failure to thrive in infants, abdominal pain, and behavioral disturbances may be indications of digoxin toxicity.
 - Instruct the patient to monitor and record their heart rate and blood pressure daily.
 
-LANOXIN is a registered trademark of GlaxoSmithKline
+LANOXIN is a registered trademark of GlaxoSmithKline.
 
-Mfd. for: Concordia Pharmaceuticals
+Manufactured for:
 
-Distributed by:
+Advanz Pharma (US) Corp. Bannockburn, IL 60015
 
-Amdipharma Limited,
-
-17 Northwood House,
-
-Dublin 9, Ireland
-
-@2015.
-All right reserved.
+©2024.
+All rights reserved.
