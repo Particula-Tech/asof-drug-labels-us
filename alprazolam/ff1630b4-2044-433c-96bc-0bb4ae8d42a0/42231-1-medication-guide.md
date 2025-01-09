@@ -133,10 +133,20 @@ Active ingredients: alprazolam
 
 Inactive ingredients: aspartame, crospovidone, basic butylated methacrylate copolymer, magnesium stearate, mannitol, silicon dioxide, sorbitol, talc, xylitol, natural peppermint flavor, artificial vanillin flavor.
 
-Distributed by:
+Manufactured for:
 
-PAR PHARMACEUTICAL
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355 U.S.A.
+
+Made in India
+
+Neutral Code: TN/DRUGS/TN00002121
+
+© 2024 Endo, Inc. or one of its affiliates.
+
+OS110C-01-74-02
+
+Revised: 09/2024
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

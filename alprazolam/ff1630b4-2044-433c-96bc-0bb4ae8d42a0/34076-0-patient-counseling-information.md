@@ -48,10 +48,20 @@ Each 0.25 mg, 0.5 mg, 1 mg and 2 mg orally disintegrating tablet contains 2.52 m
 11.
 Lactation: Advise patients that breastfeeding is not recommended during treatment with Alprazolam orally disintegrating tablets [see Use in Specific Populations (8.2)].
 
-Dispense with Medication Guide available at: www.parpharm.com.
+Dispense with Medication Guide available at: www.endo.com.
 
-Distributed by:
+Manufactured for:
 
-PAR PHARMACEUTICAL
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355 U.S.A.
+
+Made in India
+
+Neutral Code: TN/DRUGS/TN00002121
+
+© 2024 Endo, Inc. or one of its affiliates.
+
+OS110C-01-74-02
+
+Revised: 09/2024
