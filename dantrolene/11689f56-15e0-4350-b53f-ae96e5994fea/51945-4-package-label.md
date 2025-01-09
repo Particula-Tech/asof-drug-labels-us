@@ -10,8 +10,6 @@ For oral use only PERIPHERAL SKELETAL MUSCLE RELAXANT Rx only
 
 100 Capsules
 
-PAR PHARMACEUTICAL
-
 # PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
 
 NDC 49884-363-01
@@ -24,8 +22,6 @@ For oral use only PERIPHERAL SKELETAL MUSCLE RELAXANT Rx only
 
 100 Capsules
 
-PAR PHARMACEUTICAL
-
 # PRINCIPAL DISPLAY PANEL – 100 mg Capsules Bottle Label
 
 NDC 49884-364-01
@@ -37,5 +33,3 @@ Dantrolene Sodium Capsules
 For oral use only PERIPHERAL SKELETAL MUSCLE RELAXANT Rx only
 
 100 Capsules
-
-PAR PHARMACEUTICAL

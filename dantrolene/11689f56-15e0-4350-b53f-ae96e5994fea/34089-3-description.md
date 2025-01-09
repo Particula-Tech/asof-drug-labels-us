@@ -6,6 +6,6 @@ The anhydrous salt has a molecular weight of 336.
 The hydrated salt contains approximately 15% water (3-1/2 moles) and has a molecular weight of 399.
 The structural formula for the hydrated salt is:
 
-Dantrolene sodium is supplied in capsules of 25 mg, 50 mg and 100 mg.
+Dantrolene sodium is supplied in capsules of 25 mg, 50 mg, and 100 mg.
 
 Inactive Ingredients: Each capsule contains Edible black ink, FD&C Yellow No. 6, Gelatin, Lactose, Magnesium stearate, Starch, Synthetic iron oxide red, Synthetic iron oxide yellow, Talc, and Titanium dioxide.

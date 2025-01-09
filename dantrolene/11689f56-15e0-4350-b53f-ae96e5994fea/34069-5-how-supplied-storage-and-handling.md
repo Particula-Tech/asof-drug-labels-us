@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Dantrolene sodium is available in:
 

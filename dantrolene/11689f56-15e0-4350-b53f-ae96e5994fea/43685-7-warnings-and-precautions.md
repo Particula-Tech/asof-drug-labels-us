@@ -23,11 +23,11 @@ Dantrolene sodium should be used with particular caution in females and in patie
 Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving dantrolene sodium.
 However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (see Geriatric Use subsection).
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Long-term safety of dantrolene sodium in humans has not been established.
 Chronic studies in rats, dogs, and monkeys at dosages greater than 30 mg/kg/day showed growth or weight depression and signs of hepatopathy and possible occlusion nephropathy, all of which were reversible upon cessation of treatment.
-Sprague-Dawley female rats fed dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
+Sprague-Dawley female rats fed Dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
 At the highest dose level, there was an increase in the incidence of benign lymphatic neoplasms.
 In a 30-month study at the same dose levels also in Sprague-Dawley rats, Dantrolene Sodium produced a decrease in the time of onset of mammary neoplasms.
 Female rats at the highest dose level showed an increased incidence of hepatic lymphangiomas and hepatic angiosarcomas.
@@ -38,31 +38,29 @@ Carcinogenicity in humans cannot be fully excluded, so that this possible risk o
 
 Dantrolene Sodium has produced positive results in the Ames S. Typhimurium bacterial mutagenesis assay in the presence and absence of a liver activating system.
 
-## Pregnancy
-
-### Pregnancy Category C
+### Pregnancy:
 
 Adequate animal reproduction studies have not been conducted with dantrolene sodium.
 It is also not known whether dantrolene sodium can cause fatal harm when administered to a pregnant woman or can affect reproduction capacity.
-Dantronlene sodium should be given to a pregnant woman only if clearly needed.
+Dantrolene sodium should be given to a pregnant woman only if clearly needed.
 
-## Labor and Delivery
+## Labor and Delivery:
 
 In one non-randomized open-label study, 21 term pregnant patients received prophylactic oral dantrolene sodium 100 mg per day for 2 to 10 days prior to delivery.
 Dantrolene readily crossed the placenta with maternal and fetal whole blood levels approximately equal at delivery; neonatal levels then fell approximately 50% per day for 2 days before declining sharply.
 No neonatal respiratory and neuromuscular side effects were detected at low dose.
 More data, at higher doses, are needed before more definitive conclusions can be made.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Dantrolene sodium should not be used in nursing mothers.
 
-## Usage in Pediatric Patients
+## Usage in Pediatric Patients:
 
 The long-term safety of dantrolene sodium in pediatric patients under the age of 5 years has not been established.
 Because of the possibility that adverse effects of the drug could become apparent only after many years, a benefit-risk consideration of the long-term use of dantrolene sodium is particularly important in pediatric patients.
 
-## Geriatric Use
+## Geriatric Use:
 
 Clinical studies of dantrolene sodium did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience in the literature has not identified differences in responses between the elderly and younger patients.
@@ -71,7 +69,7 @@ As with all patients receiving dantrolene sodium, it is recommended that elderly
 Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving dantrolene sodium.
 However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (for hepatotoxicity details and its management see Black Box and Warnings Sections).
 
-## Drug Interactions
+## Drug Interactions:
 
 Drowsiness may occur with dantrolene sodium therapy, and the concomitant administration of CNS depressants such as sedatives and tranquilizing agents may result in further drowsiness.
 
@@ -87,10 +85,10 @@ Administration of dantrolene sodium may potentiate vecuronium-induced neuromuscu
 # PRECAUTIONS
 
 Dantrolene sodium should be used with caution in patients with impaired pulmonary function, particularly those with obstructive pulmonary disease, and in patients with severely impaired cardiac function due to myocardial disease.
-Datrolene sodium is associated with pleural effusion with associated eosinophilia.
+Dantrolene sodium is associated with pleural effusion with associated eosinophilia.
 It should be used with caution in patients with a history of previous liver disease or dysfunction (see WARNINGS).
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be cautioned against driving a motor vehicle or participating in hazardous occupations while taking dantrolene sodium.
 Caution should be exercised in the concomitant administration of tranquilizing agents.

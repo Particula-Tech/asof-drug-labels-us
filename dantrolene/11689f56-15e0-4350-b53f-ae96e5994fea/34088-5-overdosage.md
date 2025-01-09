@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Symptoms which may occur in case of overdose include, but are not limited to, muscular weakness and alterations in the state of consciousness (e.g. lethargy, coma), vomiting, diarrhea, and crystalluria.
+Symptoms which may occur in case of overdose include, but are not limited to, muscular weakness and alterations in the state of consciousness (e.g., lethargy, coma), vomiting, diarrhea, and crystalluria.
 For acute overdose, general supportive measures should be employed along with immediate gastric lavage.
 
 Intravenous fluids should be administered in fairly large quantities to avert the possibility of crystalluria.
