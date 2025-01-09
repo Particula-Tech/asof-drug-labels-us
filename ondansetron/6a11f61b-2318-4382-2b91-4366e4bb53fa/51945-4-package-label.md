@@ -16,7 +16,7 @@ Ondansetron Injection, USP 4 mg/2 mL (2 mg/mL)
 
 Hospira
 
-PAA106371
+PAA223302
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
 
