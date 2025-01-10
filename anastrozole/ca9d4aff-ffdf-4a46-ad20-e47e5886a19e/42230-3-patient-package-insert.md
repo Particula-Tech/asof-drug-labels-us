@@ -149,7 +149,7 @@ It may harm them.
 
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about anastrozole tablets that is written for health professionals.
-For more information, call 1-800-367-3395 or go to www.bpirx.com.
+For more information, call 1-800-367-3395 or go to www.breckenridgepharma.com.
 
 What are the ingredients in anastrozole tablets?
 
@@ -166,4 +166,4 @@ Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
 XXXXXXXX
 
-Revised: 12/2023
+Revised: 10/2024
