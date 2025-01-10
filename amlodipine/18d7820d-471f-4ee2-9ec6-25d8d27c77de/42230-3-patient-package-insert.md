@@ -173,7 +173,7 @@ It may harm them.
 This patient information leaflet summarizes the most important information about EXFORGE HCT.
 If you would like more information about EXFORGE HCT, talk with your doctor.
 You can ask your doctor or pharmacist for information about EXFORGE HCT that is written for health professionals.
-For more information, go to www.EXFORGE.com or call 1-888-839-3674.
+For more information, call 1-888-669-6682.
 
 What are the ingredients in EXFORGE HCT?
 
@@ -196,4 +196,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2021-13 Revised: February 2021
+T2024-83 Revised: December 2024
