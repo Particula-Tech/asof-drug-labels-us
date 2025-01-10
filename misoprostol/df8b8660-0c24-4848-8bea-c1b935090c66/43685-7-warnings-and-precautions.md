@@ -139,7 +139,7 @@ No information is available from controlled clinical studies regarding the use o
 The renal effects of diclofenac sodium and misoprostol delayed-release tablets may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
 
 Correct volume status in dehydrated or hypovolemic patients prior to initiating diclofenac sodium and misoprostol delayed-release tablets.
-Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of delayed-release tablets [see Drug Interactions (7)].
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of diclofenac sodium and misoprostol delayed-release tablets [see Drug Interactions (7)].
 Avoid the use of diclofenac sodium and misoprostol delayed-release tablets in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
 If diclofenac sodium and misoprostol delayed-release tablets are used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
@@ -150,7 +150,7 @@ In patients with normal renal function, these effects have been attributed to a 
 
 ## 5.8 Anaphylactic Reactions
 
-Diclofenac sodium and misoprostol delayed-release tablets have been associated with anaphylactic reactions in patients with and without known hypersensitivity to the individual components of diclofenac sodium and misoprostol delayed-release tablets and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.9)].
+Diclofenac sodium and misoprostol delayed-release tablets have been associated with anaphylactic reactions in patients with and without known hypersensitivity to the individual components of diclofenac sodium and misoprostol and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.9)].
 
 Seek emergency help if an anaphylactic reaction occurs.
 
@@ -163,6 +163,8 @@ When diclofenac sodium and misoprostol delayed-release tablets are used in patie
 ## 5.10 Serious Skin Reactions
 
 NSAIDs, including diclofenac, a component of diclofenac sodium and misoprostol delayed-release tablets, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of diclofenac sodium and misoprostol delayed-release tablets at the first appearance of skin rash or any other sign of hypersensitivity.
 Diclofenac sodium and misoprostol delayed-release tablets are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
