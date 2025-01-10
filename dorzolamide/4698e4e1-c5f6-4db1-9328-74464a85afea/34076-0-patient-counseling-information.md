@@ -37,7 +37,7 @@ Manufactured by:
 
 Micro Labs Limited
 
-Bangalore – 560 099, INDIA.
+INDIA.
 
 Manufactured for:
 
@@ -45,4 +45,5 @@ Micro Labs USA Inc.
 
 Somerset, NJ 08873
 
-Rev.10/2021
+Rev.
+12/2024

@@ -16,7 +16,7 @@ Step 4.
 Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
 (See Figure D).
 
-Step 5.Turn your dorzolamide hydrochloride ophthalmic solution dispenser upside down and hold and press gently middle of the bottle with your thumb until a single drop is placed in your eye.
+Step 5.Turn your dorzolamide hydrochloride ophthalmic solution dispenser upside down and press lightly with your thumb until a single drop is placed in your eye.
 Do nottouch your eye or eyelid with the dropper tip.
 (See Figure E).
 
@@ -56,7 +56,7 @@ Manufactured by:
 
 Micro Labs Limited
 
-Bangalore – 560 099, INDIA.
+INDIA.
 
 Manufactured for:
 
@@ -64,4 +64,4 @@ Micro Labs USA Inc.
 
 Somerset, NJ 08873
 
-Rev.10/2021
+Rev.12/2024
