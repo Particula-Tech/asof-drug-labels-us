@@ -148,7 +148,7 @@ It may harm them.
 This patient information leaflet summarizes the most important information about EXFORGE.
 If you would like more information about EXFORGE, talk with your doctor.
 You can ask your doctor or pharmacist for information about EXFORGE that is written for health professionals.
-For more information go to www.EXFORGE.com or call 1-888-839-3674.
+For more information, call 1-888-669-6682.
 
 What are the ingredients in EXFORGE?
 
@@ -174,4 +174,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 ©Novartis
 
-T2020-29 Revised: March 2020
+T2024-82 Revised: December 2024
