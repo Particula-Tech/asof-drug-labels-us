@@ -175,7 +175,7 @@ It may harm them.
 This leaflet summarizes the most important information about DIOVAN HCT.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about DIOVAN HCT that is written for health professionals.
-For more information about DIOVAN HCT, go to www.DIOVAN.com or call 1-866-404-6359.
+For more information about DIOVAN HCT, go to www.DIOVAN.com or call 1-888-669-6682.
 
 What are the ingredients in DIOVAN HCT?
 
@@ -203,4 +203,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2020-121 Revised: August 2020
+T2024-85 Revised: December 2024
