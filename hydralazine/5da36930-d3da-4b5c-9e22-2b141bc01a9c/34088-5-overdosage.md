@@ -1,11 +1,11 @@
 # OVERDOSAGE
 
-Acute Toxicity: No deaths due to acute poisoning have been reported.
+Acute Toxicity:No deaths due to acute poisoning have been reported.
 Highest known dose survived: adults, 10 g orally.
-Oral LD50 in rats: 173 and 187 mg/kg.
-Signs and Symptoms: Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing.
+Oral LD 50in rats: 173 and 187 mg/kg.
+Signs and Symptoms:Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing.
 Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock.
-Treatment: There is no specific antidote.
+Treatment:There is no specific antidote.
 The gastric contents should be evacuated, taking adequate precautions against aspiration and for protection of the airway.
 An activated charcoal slurry may be instilled if conditions permit.
 These manipulations may have to be omitted or carried out after cardiovascular status has been stabilized, since they might precipitate cardiac arrhythmias or increase the depth of shock.

@@ -59,7 +59,7 @@ While long-term clinical observation has not suggested that human cancer is asso
 
 ## PREGNANCY
 
-Pregnancy Category C: Animal studies indicate that hydrALAZINE is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats.
+Pregnancy Category C:Animal studies indicate that hydrALAZINE is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats.
 Teratogenic effects observed were cleft palate and malformations of facial and cranial bones.
 There are no adequate and well-controlled studies in pregnant women.
 Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydrALAZINE should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus.
