@@ -6,7 +6,7 @@ Dosing of Levocetirizine dihydrochloride Do not exceed the recommended daily dos
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
 Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride because of the increased risk of somnolence at higher doses.
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM
 
 Hetero Labs Limited
 

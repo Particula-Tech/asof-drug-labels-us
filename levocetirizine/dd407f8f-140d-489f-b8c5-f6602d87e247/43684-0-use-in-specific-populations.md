@@ -10,20 +10,19 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 Data Animal data In embryo-fetal development studies, pregnant rats received daily doses of levocetirizine up to 200 mg/kg/day from gestation days 6 to 15 and pregnant rabbits received daily doses of levocetirizine up to 120 mg/kg/day from gestation days 6 to 18.
-Levocetirizine produced no evidence of fetal harm in rats and rabbits at doses up to 390 and 470 times the MRHD, respectively (on a mg/m2 basis with maternal oral doses of 200 and 120 mg/kg/day in rats and rabbits, respectively).
+Levocetirizine produced no evidence of fetal harm in rats and rabbits at doses up to 390 and 470 times the MRHD, respectively (on a mg/m 2basis with maternal oral doses of 200 and 120 mg/kg/day in rats and rabbits, respectively).
 No prenatal and postnatal development (PPND) studies in animals have been conducted with levocetirizine.
 In a PPND study conducted in mice, cetirizine was administered at oral doses up to 96 mg/kg/day from gestation day 15 through lactation day 21.
-Cetirizine lowered pup body weight gain during lactation at an oral dose in dams that was approximately 95 times the MRHD (on a mg/m2 basis with a maternal oral dose of 96 mg/kg/day); however, there were no effects on pup weight gain at an oral dose in dams that was approximately 25 times the MRHD (on a mg/m2 basis with a maternal oral dose of 24 mg/kg/day).
+Cetirizine lowered pup body weight gain during lactation at an oral dose in dams that was approximately 95 times the MRHD (on a mg/m 2basis with a maternal oral dose of 96 mg/kg/day); however, there were no effects on pup weight gain at an oral dose in dams that was approximately 25 times the MRHD (on a mg/m 2basis with a maternal oral dose of 24 mg/kg/day).
 In a PPND study conducted in rats, cetirizine was administered at oral doses up to 180 mg/kg/day from gestation day 17 to lactation day 22.
-Cetirizine did not have any adverse effects on rat dams or offspring development at doses up to approximately 60 times the MRHD (on a mg/m2 basis with a maternal oral dose of 30 mg/kg/day).
-Cetirizine caused excessive maternal toxicity at an oral dose in dams that was approximately 350 times the MRHD (on a mg/m2 basis with a maternal oral dose of 180 mg/kg/day).
+Cetirizine did not have any adverse effects on rat dams or offspring development at doses up to approximately 60 times the MRHD (on a mg/m 2basis with a maternal oral dose of 30 mg/kg/day).
+Cetirizine caused excessive maternal toxicity at an oral dose in dams that was approximately 350 times the MRHD (on a mg/m 2basis with a maternal oral dose of 180 mg/kg/day).
 
 ## 8.2 Lactation
 
 Risk Summary There are no data on the presence of levocetirizine in human milk, the effects on the breastfed infant, or the effects on milk production.
 However, cetirizine has been reported to be present in human breast milk.
-In mice and beagle dogs, studies indicated that cetirizine was excreted in milk [see Data].
-When a drug is present in animal milk, it is likely the drug will be present in human milk.
+In mice and beagle dogs, studies indicated that cetirizine was excreted in milk [see Data].When a drug is present in animal milk, it is likely the drug will be present in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for levocetirizine dihydrochloride and any potential adverse effects on the breastfed child from levocetirizine dihydrochloride or from the underlying maternal condition.
 Data Animal data Cetirizine was detected in the milk of mice.
 No adverse developmental effects on pups were seen when cetirizine was administered orally to dams during lactation at a dose that was approximately 25 times the MRHD in adults [see Use in Specific Populations (8.1)].

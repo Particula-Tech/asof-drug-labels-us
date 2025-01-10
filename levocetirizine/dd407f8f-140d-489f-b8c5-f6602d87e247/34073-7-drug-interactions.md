@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
-In vitro data indicate that levocetirizine is unlikely to produce pharmacokinetic interactions through inhibition or induction of liver drug-metabolizing enzymes.
-No in vivo drug-drug interaction studies have been performed with levocetirizine.
+In vitrodata indicate that levocetirizine is unlikely to produce pharmacokinetic interactions through inhibition or induction of liver drug-metabolizing enzymes.
+No in vivodrug-drug interaction studies have been performed with levocetirizine.
 Drug interaction studies have been performed with racemic cetirizine.
 
 ## 7.1 Antipyrine, Azithromycin, Cimetidine, Erythromycin, Ketoconazole, Theophylline, and Pseudoephedrine
