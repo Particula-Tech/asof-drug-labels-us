@@ -6,7 +6,7 @@ Linezolid Tablets, 600 mg are white to off white, oval shaped, bevel edged, bico
 
 20 tablets in HDPE bottle NDC 31722-749-20 30 tablets in HDPE bottle NDC 31722-749-30 100 tablets in HDPE bottle NDC 31722-749-01 Unit-dose packages of 150 (15x10) tablets NDC 31722-749-31
 
-## 16.4 Storage
+## 16.4 Storage and Handling
 
 Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
 Protect from light.
