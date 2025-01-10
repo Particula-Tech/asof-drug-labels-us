@@ -1,6 +1,6 @@
 # MEDICATION GUIDE Lacosamide (la-KOE-sa-mide) film coated tablet, for oral use, CV
 
-Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation
+Dispense with Medication Guide available at: www.breckenridgepharma.com/prescription-products/
 
 Read this Medication Guide before you start taking lacosamide tablets and each time you get a refill.
 There may be new information.
@@ -132,7 +132,7 @@ This Medication Guide summarizes the most important information about lacosamide
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about lacosamide tablets that is written for health professionals.
 
-For more information, contact Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or at www.bpirx.com.
+For more information, contact Breckenridge Pharmaceutical, Inc. at 1-800-367-3395 or at www.breckenridgepharma.com.
 
 What are the ingredients in lacosamide tablets?
 
@@ -156,4 +156,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Revised: 01/2024
+Revised: 08/2024
