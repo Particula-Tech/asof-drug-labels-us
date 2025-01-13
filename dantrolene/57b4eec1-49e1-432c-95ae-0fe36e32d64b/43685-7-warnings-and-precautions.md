@@ -22,7 +22,7 @@ Dantrium should be used with particular caution in females and in patients over 
 Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving Dantrium.
 However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (see Geriatric Use subsection).
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Long-term safety of Dantrium in humans has not been established.
 Chronic studies in rats, dogs, and monkeys at dosages greater than 30 mg/kg/day showed growth or weight depression and signs of hepatopathy and possible occlusion nephropathy, all of which were reversible upon cessation of treatment.
@@ -37,31 +37,29 @@ Carcinogenicity in humans cannot be fully excluded, so that this possible risk o
 
 Dantrolene sodium has produced positive results in the Ames S. Typhimurium bacterial mutagenesis assay in the presence and absence of a liver activating system.
 
-## Pregnancy
-
-### Pregnancy Category C
+## Pregnancy:
 
 Adequate animal reproduction studies have not been conducted with Dantrium.
 It is also not known whether Dantrium can cause fatal harm when administered to a pregnant woman or can affect reproduction capacity.
 Dantrium should be given to a pregnant woman only if clearly needed.
 
-## Labor and Delivery
+## Labor and Delivery:
 
 In one non-randomized open-label study, 21 term pregnant patients received prophylactic oral Dantrium 100 mg per day for 2 to 10 days prior to delivery.
 Dantrolene readily crossed the placenta with maternal and fetal whole blood levels approximately equal at delivery; neonatal levels then fell approximately 50% per day for 2 days before declining sharply.
 No neonatal respiratory and neuromuscular side effects were detected at low dose.
 More data, at higher doses, are needed before more definitive conclusions can be made.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Dantrium should not be used in nursing mothers.
 
-## Usage in Pediatric Patients
+## Usage in Pediatric Patients:
 
 The long-term safety of Dantrium in pediatric patients under the age of 5 years has not been established.
 Because of the possibility that adverse effects of the drug could become apparent only after many years, a benefit-risk consideration of the long-term use of Dantrium is particularly important in pediatric patients.
 
-## Geriatric Use
+## Geriatric Use:
 
 Clinical studies of Dantrium did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience in the literature has not identified differences in responses between the elderly and younger patients.
@@ -70,7 +68,7 @@ As with all patients receiving Dantrium, it is recommended that elderly patients
 Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving Dantrium.
 However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (for hepatotoxicity details and its management see Black Box and Warnings Sections).
 
-## Drug Interactions
+## Drug Interactions:
 
 Drowsiness may occur with Dantrium therapy, and the concomitant administration of CNS depressants such as sedatives and tranquilizing agents may result in further drowsiness.
 
@@ -89,7 +87,7 @@ Dantrium should be used with caution in patients with impaired pulmonary functio
 Dantrium is associated with pleural effusion with associated eosinophilia.
 It should be used with caution in patients with a history of previous liver disease or dysfunction (see WARNINGS).
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be cautioned against driving a motor vehicle or participating in hazardous occupations while taking Dantrium.
 Caution should be exercised in the concomitant administration of tranquilizing agents.

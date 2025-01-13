@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## For Use in Chronic Spasticity
+## For Use in Chronic Spasticity:
 
 Prior to the administration of Dantrium, consideration should be given to the potential response to treatment.
 A decrease in spasticity sufficient to allow a daily function not otherwise attainable should be the therapeutic goal of treatment with Dantrium.
@@ -10,14 +10,14 @@ It is important to establish a therapeutic goal (regain and maintain a specific 
 Dosage should be increased until the maximum performance compatible with the dysfunction due to underlying disease is achieved.
 No further increase in dosage is then indicated.
 
-## Usual Dosage
+## Usual Dosage:
 
 It is important that the dosage be titrated and individualized for maximum effect.
 The lowest dose compatible with optimal response is recommended.
 
 In view of the potential for liver damage in long-term Dantrium use, therapy should be stopped if benefits are not evident within 45 days.
 
-## Adults
+## Adults:
 
 The following gradual titration schedule is suggested.
 Some patients will not respond until higher daily dosage is achieved.
@@ -36,7 +36,7 @@ Therapy with a dose four times daily may be necessary for some individuals.
 Doses higher than 100 mg four times daily should not be used.
 (See Box Warning.)
 
-## Pediatric Patients
+## Pediatric Patients:
 
 The following gradual titration schedule is suggested.
 Some patients will not respond until higher daily dosage is achieved.
@@ -55,7 +55,7 @@ Therapy with a dose four times daily may be necessary for some individuals.
 Doses higher than 100 mg four times daily should not be used.
 (See Box Warning.)
 
-## For Malignant Hyperthermia
+## For Malignant Hyperthermia:
 
 Preoperatively: Administer 4 to 8 mg/kg/day of oral Dantrium in 3 or 4 divided doses for one or two days prior to surgery, with the last dose being given approximately 3 to 4 hours before scheduled surgery with a minimum of water.
 
