@@ -92,8 +92,8 @@ How should I take DUAVEE?
 - •If you take too much DUAVEE, call your healthcare provider.
   Symptoms of taking too much DUAVEE include:
 
-| nausea vomiting breast tenderness dizziness | abdominal pain feeling tired vaginal bleeding |
-| --- | --- |
+|  | onauseaovomitingobreast tendernessodizziness | oabdominal painofeeling tiredovaginal bleeding |
+| --- | --- | --- |
 
 What are the possible side effects of DUAVEE?
 
