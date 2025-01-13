@@ -303,8 +303,7 @@ Three of the relapse subjects (1 each for genotype 4, 5, and 6) had virus with e
 
 Persistence of Resistance-Associated Substitutions
 
-No data are available on the persistence of ledipasvir or sofosbuvir resistance-associated substitutions.
-NS5A resistance-associated substitutions for other NS5A inhibitors have been found to persist for >1 year in some patients.
+Certain NS5A inhibitor resistance-associated substitutions have been found to persist for >1 year in some patients.
 The long-term clinical impact of the emergence or persistence of virus containing ledipasvir or sofosbuvir resistance-associated substitutions is unknown.
 
 Effect of Baseline HCV Polymorphisms on Treatment Response
