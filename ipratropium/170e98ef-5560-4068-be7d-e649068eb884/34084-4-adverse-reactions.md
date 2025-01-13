@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Clinical Trials Experience
 
 The adverse reaction information concerning ATROVENT HFA is derived from two 12-week, double-blind, parallel-group studies and one 1-year open-label, parallel group study.
-These studies compared ATROVENT HFA Inhalation Aerosol, ATROVENT CFC Inhalation Aerosol, and placebo (in one study only) in 1010 COPD patients.
+These studies compared ATROVENT HFA Inhalation Aerosol, ATROVENT CFC Inhalation Aerosol, and placebo (in one study only) in 1,010 COPD patients.
 The following table lists the incidence of adverse reactions that occurred at a rate of greater than or equal to 3% in any ipratropium bromide group and greater than placebo in the 12-week study.
 The frequency of corresponding reactions in the 1-year open label study is included for comparison.
 

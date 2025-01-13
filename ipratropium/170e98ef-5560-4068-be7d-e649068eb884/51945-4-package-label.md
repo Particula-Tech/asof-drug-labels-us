@@ -6,7 +6,7 @@ Atrovent® HFA (ipratropium bromide HFA inhalation aerosol)
 
 17 mcg/actuation
 
-Each actuation delivers 17 mcg ipratropium bromide from the mouthpiece.
+Each actuation delivers 17 mcg ipratropium bromide (monohydrate) from the mouthpiece.
 
 Rx only
 

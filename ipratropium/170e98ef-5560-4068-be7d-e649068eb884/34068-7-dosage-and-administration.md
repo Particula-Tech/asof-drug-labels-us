@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The usual starting dose of ATROVENT HFA is two inhalations four times a day.
+The usual starting dosage of ATROVENT HFA is two inhalations four times a day.
 Patients may take additional inhalations as required; however, the total number of inhalations should not exceed 12 in 24 hours.
 
 ATROVENT HFA is a solution aerosol that does not require shaking.

@@ -18,9 +18,9 @@ Data
 Animal Data
 
 In animal reproduction studies, oral and inhalation administration of ipratropium bromide to pregnant mice, rats and rabbits during the period of organogenesis did not show evidence of fetal structural alterations.
-The ipratropium bromide dose in oral studies in mice, rats, and rabbits was up to approximately 200, 40,000, and 10,000 times, respectively, the MRHDID in adults (on a mg/m2 basis at maternal doses of 10, 1000, and 125 mg/kg/day, respectively).
+The ipratropium bromide dose in oral studies in mice, rats, and rabbits was up to approximately 200, 40,000, and 10,000 times, respectively, the MRHDID in adults (on a mg/m2 basis at maternal doses of 10, 1,000, and 125 mg/kg/day, respectively).
 The ipratropium bromide dose in inhalation studies in rats and rabbits was up to approximately 60 and 140 times, respectively, the MRHDID in adults (on a mg/m2 basis at maternal doses of 1.5 and 1.8 mg/kg/day, respectively).
-Embryotoxicity was observed as increased resorption in rats at oral doses approximately 3600 times the MRHDID in adults (on a mg/m2 basis at maternal doses of 90 mg/kg/day and above).
+Embryotoxicity was observed as increased resorption in rats at oral doses approximately 3,600 times the MRHDID in adults (on a mg/m2 basis at maternal doses of 90 mg/kg/day and above).
 This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
 
 ## 8.2 Lactation

@@ -8,7 +8,7 @@ It displays the approximate number of actuations remaining in increments of 20, 
 The ATROVENT HFA canister is to be used only with the accompanying ATROVENT HFA mouthpiece.
 This mouthpiece should not be used with other aerosol medications.
 Similarly, the canister should not be used with other mouthpieces.
-After priming, each actuation of ATROVENT HFA delivers 21 mcg of ipratropium bromide from the valve and 17 mcg from the mouthpiece.
+After priming, each actuation of ATROVENT HFA delivers 21 mcg of ipratropium bromide (monohydrate) from the valve and 17 mcg from the mouthpiece.
 Each canister has a net weight of 12.9 grams and provides sufficient medication for 200 actuations.
 The inhaler should be discarded after the labeled number of actuations has been used when the indicator displays "0".
 The amount of medication in each actuation cannot be assured after this point, even though the canister is not completely empty.

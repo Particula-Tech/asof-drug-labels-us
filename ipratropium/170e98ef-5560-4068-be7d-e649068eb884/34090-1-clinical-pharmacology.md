@@ -9,7 +9,7 @@ Anticholinergics prevent the increases in intracellular concentration of Ca++ wh
 
 Cardiovascular effects
 
-At recommended doses, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure.
+At recommended dosages, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure.
 
 Ocular effects
 

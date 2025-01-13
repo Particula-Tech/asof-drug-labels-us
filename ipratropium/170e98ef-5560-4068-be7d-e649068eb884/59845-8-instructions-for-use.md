@@ -129,8 +129,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 ATROVENT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-SPL9556B COL9554AJ092023
+COL9554BA022025
 
-Revised: October 2023
+Revised: December 2024
