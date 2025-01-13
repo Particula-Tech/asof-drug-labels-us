@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Ad vise the pati ent to r e ad the FDA-appro v ed pati ent lab eling (Pati ent Inf or mation).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
@@ -30,7 +30,7 @@ Camber Pharmaceuticals, Inc.,
 
 Piscataway, NJ 08854
 
-By:HETEROTM
+By: HETERO TM
 
 Hetero Labs Limited Unit V, Polepally,
 

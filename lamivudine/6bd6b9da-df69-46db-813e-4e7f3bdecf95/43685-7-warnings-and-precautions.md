@@ -2,20 +2,19 @@
 
 ## 5.1 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-L a ctic a cidosis and s ev e re h ep atom eg a ly with st e atosis, in cluding fat al c as es, h ave b een repo rt ed with the use of nu cl eoside an al o g u es al one or in combin ation, in cluding lamivudine tablets (HBV) and oth er anti r et rovi rals.
-A m ajo ri ty of t h ese c as es h ave b e en in wom en.
-O b esi ty and p rolong ed nu cl eoside e xposu re m ay be risk fact o rs.
-Most of th ese rep o rts h ave d es cri b ed p ati ents r e ceivi ng nu cl eoside an al o g u es for t reatm ent of H IV in f e ction, but th ere h ave b een r epo rts of l actic acidosis in p ati ents re c eiving l amivudine for h ep atitis B. C aution should be e x ercis ed wh en administ eri ng lamivudine tablets (HBV) to a ny p ati ent with kno wn risk facto rs for liv er dis eas e; ho wev er, cas es also have b een rep o rt ed in p ati ents with no kno wn risk fac to rs.
-Treatm ent with lamivudine tablets (HBV) should be susp end ed in a ny p ati ent who d ev elops clini cal or l abo rato ry findi n gs sug g estive of l actic a cid osis or p ronoun ced h e p at oto xi ci ty (whi ch m ay i n clude h ep atom eg a ly and st eatosis ev en in the abs en ce of m a rk ed t ran s amin ase el e v ations).
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including lamivudine tablets (HBV) and other antiretrovirals.
+A majority of these cases have been in women.
+Obesity and prolonged nucleoside exposure may be risk factors.
+Most of these reports have described patients receiving nucleoside analogues for treatment of HIV infection, but there have been reports of lactic acidosis in patients receiving lamivudine for hepatitis B. Caution should be exercised when administering lamivudine tablets (HBV) to any patient with known risk factors for liver disease; however, cases also have been reported in patients with no known risk factors.
+Treatment with lamivudine tablets (HBV) should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
 ## 5.2 Exacerbations of Hepatitis after Discontinuation of Treatment
 
-Clini cal and l abo rato ry evid en ce of e x acer b ations of h ep atitis h ave o c cu r red aft er dis continu ation of lamivudine tablets (HBV) (t h ese h a ve b e en p rim ari ly d et ect ed by s e rum A LT el ev ations, in addition to the re-em e r g e n ce of HBV DNA common ly obs er v ed aft er stopping t r e atm ent; s ee Table 4 for mo re in fo rm ation reg ardi ng f r equ e n cy of postt reatm ent A LT e l ev ations) [s ee Ad verse R ea ctions (6.
-1)].
-Althou gh most ev ents a pp ear to h a ve b een s el f-l imit ed, fat aliti es h ave b een rep o rt ed in some cas es.
-The cau s al rel ations hip of h ep atitis e x acerb at ion aft er dis continu ation of lamivudine tablets (HBV) h as not b een c l e a r ly es t ablish ed.
-P ati ents should be clos e ly monito red with both clin i cal and l abo r ato ry follo w -up for at l e ast s ev e r al months aft er stopping t reatm ent with lamivudine tablets (HBV).
-T h ere is insu ff i ci ent evid en ce to d e t ermine wh eth er r e-initi ation of lamivudine tablets (HBV) alt ers the cou rse of postt r eatm ent e x acerb ations of h ep atitis.
+Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine tablets (HBV) (these have been primarily detected by serum ALT elevations, in addition to the re-emergence of HBV DNA commonly observed after stopping treatment; see Table 4 for more information regarding frequency of posttreatment ALT elevations) [see Adverse Reactions (6.1)].
+Although most events appear to have been self-limited, fatalities have been reported in some cases.
+The causal relationship of hepatitis exacerbation after discontinuation of lamivudine tablets (HBV) has not been clearly established.
+Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with lamivudine tablets (HBV).
+There is insufficient evidence to determine whether re-initiation of lamivudine tablets (HBV) alters the course of posttreatment exacerbations of hepatitis.
 
 ## 5.3 Risk of HIV-1 Resistance if Lamivudine Tablets (HBV) Is Used in Patients with Unrecognized or Untreated HIV-1 Infection
 
