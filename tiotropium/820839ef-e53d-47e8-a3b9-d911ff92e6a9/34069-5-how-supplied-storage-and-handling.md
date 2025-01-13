@@ -1,11 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 SPIRIVA HANDIHALER consists of SPIRIVA capsules and the HANDIHALER device.
-SPIRIVA capsules contain 18 mcg of tiotropium and are light green, with the Boehringer Ingelheim company logo on the SPIRIVA capsule cap and "TI 01" on the SPIRIVA capsule body, or vice versa.
+SPIRIVA capsules contain 18 mcg of tiotropium (equivalent to 22.5 mcg tiotropium bromide monohydrate) and are light green, with the Boehringer Ingelheim company symbol on the SPIRIVA capsule cap and "TI 01" on the SPIRIVA capsule body, or vice versa.
 
 The HANDIHALER device is gray colored with a green piercing button.
-It is imprinted with SPIRIVA HANDIHALER (tiotropium bromide inhalation powder), the Boehringer Ingelheim company logo.
-It is also imprinted to indicate that SPIRIVA capsules should not be stored in the HANDIHALER device and that the HANDIHALER device is only to be used with SPIRIVA capsules.
+It is imprinted with SPIRIVA® HANDIHALER® (tiotropium bromide inhalation powder), and the Boehringer Ingelheim company symbol.
+It is also imprinted to indicate that SPIRIVA® capsules should not be stored in the HANDIHALER® device and that the HANDIHALER® device is only to be used with SPIRIVA® capsules.
 
 SPIRIVA capsules are packaged in an aluminum/aluminum blister card and joined along a perforated-cut line.
 SPIRIVA capsules should always be stored in the blister and only removed immediately before use.

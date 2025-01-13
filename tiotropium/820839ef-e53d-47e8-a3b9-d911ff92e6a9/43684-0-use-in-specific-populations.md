@@ -16,7 +16,7 @@ Data
 
 Animal Data
 
-In 2 separate embryo-fetal development studies, pregnant rats and rabbits received tiotropium during the period of organogenesis at doses up to approximately 790 and 8 times the MRHDID, respectively (on a mcg/m2 basis at inhalation doses of 1471 and 7 mcg/kg/day in rats and rabbits, respectively).
+In 2 separate embryo-fetal development studies, pregnant rats and rabbits received tiotropium during the period of organogenesis at doses up to approximately 790 and 8 times the MRHDID, respectively (on a mcg/m2 basis at inhalation doses of 1,471 and 7 mcg/kg/day in rats and rabbits, respectively).
 No evidence of structural abnormalities was observed in rats or rabbits.
 However, in rats, tiotropium caused fetal resorption, litter loss, decreases in the number of live pups at birth and the mean pup weights, and a delay in pup sexual maturation at tiotropium doses of approximately 40 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 78 mcg/kg/day).
 In rabbits, tiotropium caused an increase in post-implantation loss at a tiotropium dose of approximately 430 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 400 mcg/kg/day).

@@ -4,7 +4,7 @@ For oral inhalation only.
 Do not swallow SPIRIVA capsules, as the intended effects on the lungs will not be obtained.
 The contents of the SPIRIVA capsules should only be used with the HANDIHALER device [see Overdosage (10)].
 
-The recommended dose of SPIRIVA HANDIHALER is two inhalations of the powder contents of one SPIRIVA capsule, once-daily, with the HANDIHALER device [see Patient Counseling Information (17)].
+The recommended dosage of SPIRIVA HANDIHALER is two inhalations of the powder contents of one SPIRIVA capsule, once-daily, with the HANDIHALER device [see Patient Counseling Information (17)].
 Do not take more than one dose in 24 hours.
 
 For administration of SPIRIVA HANDIHALER, a SPIRIVA capsule is placed into the center chamber of the HANDIHALER device.

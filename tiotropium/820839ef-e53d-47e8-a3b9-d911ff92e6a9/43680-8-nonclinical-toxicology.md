@@ -9,4 +9,4 @@ Tiotropium bromide demonstrated no evidence of mutagenicity or clastogenicity in
 
 In rats, decreases in the number of corpora lutea and the percentage of implants were noted at inhalation tiotropium doses of 78 mcg/kg/day or greater (approximately 40 times the MRHDID on a mcg/m2 basis).
 No such effects were observed at 9 mcg/kg/day (approximately 5 times the MRHDID on a mcg/m2 basis).
-The fertility index, however, was not affected at inhalation doses up to 1689 mcg/kg/day (approximately 910 times the MRHDID on a mcg/m2 basis).
+The fertility index, however, was not affected at inhalation doses up to 1,689 mcg/kg/day (approximately 910 times the MRHDID on a mcg/m2 basis).

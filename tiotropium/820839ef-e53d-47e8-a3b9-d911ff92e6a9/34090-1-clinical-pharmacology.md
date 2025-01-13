@@ -63,7 +63,7 @@ In vitro studies using human liver microsomes showed that tiotropium in supra-th
 Excretion
 
 Intravenously administered tiotropium bromide is mainly excreted unchanged in urine (74%).
-After dry powder inhalation to COPD patients at steady state, urinary excretion was 7% (1.3mcg) of the unchanged dose over 24 hours.
+After dry powder inhalation to COPD patients at steady state, urinary excretion was 7% (1.3 mcg) of the unchanged dose over 24 hours.
 The renal clearance of tiotropium exceeds the creatinine clearance, indicating secretion into the urine.
 
 Specific Populations

@@ -13,9 +13,9 @@ Because clinical trials are conducted under widely varying conditions, the incid
 
 6-Month to 1-Year Trials
 
-The data described below reflect exposure to SPIRIVA HANDIHALER in 2663 patients.
+The data described below reflect exposure to SPIRIVA HANDIHALER in 2,663 patients.
 SPIRIVA HANDIHALER was studied in two 1-year placebo-controlled trials, two 1-year active-controlled trials, and two 6-month placebo-controlled trials in patients with COPD.
-In these trials, 1308 patients were treated with SPIRIVA HANDIHALER at the recommended dose of 18 mcg once a day.
+In these trials, 1,308 patients were treated with SPIRIVA HANDIHALER at the recommended dosage of 18 mcg once a day.
 The population had an age ranging from 39 to 87 years with 65% to 85% males, 95% Caucasian, and had COPD with a mean pre-bronchodilator forced expiratory volume in one second (FEV1) percent predicted of 39% to 43%.
 Patients with narrow-angle glaucoma, or symptomatic prostatic hypertrophy or bladder outlet obstruction were excluded from these trials.
 An additional 6-month trial conducted in a Veteran's Affairs setting is not included in this safety database because only serious adverse events were collected.
@@ -70,8 +70,8 @@ The adverse reactions and the incidence rates were similar to those seen in the 
 
 4-Year Trial
 
-The data described below reflect exposure to SPIRIVA HANDIHALER in 5992 COPD patients in a 4-year placebo-controlled trial.
-In this trial, 2986 patients were treated with SPIRIVA HANDIHALER at the recommended dose of 18 mcg once a day.
+The data described below reflect exposure to SPIRIVA HANDIHALER in 5,992 COPD patients in a 4-year placebo-controlled trial.
+In this trial, 2,986 patients were treated with SPIRIVA HANDIHALER at the recommended dosage of 18 mcg once a day.
 The population had an age range from 40 to 88 years, was 75% male, 90% Caucasian, and had COPD with a mean pre-bronchodilator FEV1 percent predicted of 40%.
 Patients with narrow-angle glaucoma, or symptomatic prostatic hypertrophy or bladder outlet obstruction were excluded from these trials.
 When the adverse reactions were analyzed with a frequency of ≥3% in the SPIRIVA HANDIHALER group where the rates in the SPIRIVA HANDIHALER group exceeded placebo by ≥1%, adverse reactions included (SPIRIVA HANDIHALER, placebo): pharyngitis (12.5%, 10.8%), sinusitis (6.5%, 5.3%), headache (5.7%, 4.5%), constipation (5.1%, 3.7%), dry mouth (5.1%, 2.7%), depression (4.4%, 3.3%), insomnia (4.4%, 3.0%), and arthralgia (4.2%, 3.1%).

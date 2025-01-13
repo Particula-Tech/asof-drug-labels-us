@@ -1,11 +1,11 @@
 # 14 CLINICAL STUDIES
 
-The SPIRIVA HANDIHALER (tiotropium bromide inhalation powder) clinical development program consisted of six Phase 3 studies in 2663 patients with COPD (1308 receiving SPIRIVA HANDIHALER): two 1-year, placebo-controlled studies, two 6-month, placebo-controlled studies and two 1-year, ipratropium-controlled studies.
+The SPIRIVA HANDIHALER (tiotropium bromide inhalation powder) clinical development program consisted of six Phase 3 studies in 2,663 patients with COPD (1,308 receiving SPIRIVA HANDIHALER): two 1-year, placebo-controlled studies, two 6-month, placebo-controlled studies and two 1-year, ipratropium-controlled studies.
 These studies enrolled patients who had a clinical diagnosis of COPD, were 40 years of age or older, had a history of smoking greater than 10 pack-years, had a forced expiratory volume in one second (FEV1) less than or equal to 60% or 65% of predicted, and a ratio of FEV1/FVC of less than or equal to 0.7.
 
 In these studies, SPIRIVA HANDIHALER, administered once-daily in the morning, provided improvement in lung function (FEV1), with peak effect occurring within 3 hours following the first dose.
 
-Two additional trials evaluated exacerbations: a 6-month, randomized, double-blind, placebo-controlled, multicenter clinical trial of 1829 COPD patients in a US Veterans Affairs setting and a 4-year, randomized, double-blind, placebo-controlled, multicenter, clinical trial of 5992 COPD patients.
+Two additional trials evaluated exacerbations: a 6-month, randomized, double-blind, placebo-controlled, multicenter clinical trial of 1,829 COPD patients in a US Veterans Affairs setting and a 4-year, randomized, double-blind, placebo-controlled, multicenter, clinical trial of 5,992 COPD patients.
 Long-term effects on lung function and other outcomes, were also evaluated in the 4-year multicenter trial.
 
 6-Month to 1-Year Effects on Lung Function
@@ -37,7 +37,7 @@ Reduction in the use of rescue short-acting beta2-agonists, as compared to place
 
 4-Year Effects on Lung Function
 
-A 4-year, randomized, double-blind, placebo-controlled, multicenter clinical trial involving 5992 COPD patients was conducted to evaluate the long-term effects of SPIRIVA HANDIHALER on disease progression (rate of decline in FEV1).
+A 4-year, randomized, double-blind, placebo-controlled, multicenter clinical trial involving 5,992 COPD patients was conducted to evaluate the long-term effects of SPIRIVA HANDIHALER on disease progression (rate of decline in FEV1).
 Patients were permitted to use all respiratory medications (including short-acting and long-acting beta-agonists, inhaled and systemic steroids, and theophyllines) other than inhaled anticholinergics.
 The patients were 40 to 88 years of age, 75% male, and 90% Caucasian with a diagnosis of COPD and a mean pre-bronchodilator FEV1 of 39% predicted (range = 9% to 76%) at study entry.
 There was no difference between the groups in either of the co-primary efficacy endpoints, yearly rate of decline in pre- and post-bronchodilator FEV1, as demonstrated by similar slopes of FEV1 decline over time (Figure 3).
@@ -53,7 +53,7 @@ Patients with ≥3 acceptable pulmonary function tests after Day 30 and non-miss
 
 Exacerbations
 
-The effect of SPIRIVA HANDIHALER on COPD exacerbations was evaluated in two clinical trials: a 4-year clinical trial described above and a 6-month clinical trial of 1829 COPD patients in a Veterans Affairs setting.
+The effect of SPIRIVA HANDIHALER on COPD exacerbations was evaluated in two clinical trials: a 4-year clinical trial described above and a 6-month clinical trial of 1,829 COPD patients in a Veterans Affairs setting.
 In the 6-month trial, COPD exacerbations were defined as a complex of respiratory symptoms (increase or new onset) of more than one of the following: cough, sputum, wheezing, dyspnea, or chest tightness with a duration of at least 3 days requiring treatment with antibiotics, systemic steroids, or hospitalization.
 The population had an age ranging from 40 to 90 years with 99% males, 91% Caucasian, and had COPD with a mean pre-bronchodilator FEV1 percent predicted of 36% (range = 8% to 93%).
 Patients were permitted to use respiratory medications (including short-acting and long-acting beta-agonists, inhaled and systemic steroids, and theophyllines) other than inhaled anticholinergics.

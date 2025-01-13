@@ -193,8 +193,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HANDIHALER® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: November 2021
+Revised: December 2024
 
-COL10494AK082021
+COL10494BL302024 SPL10495B
