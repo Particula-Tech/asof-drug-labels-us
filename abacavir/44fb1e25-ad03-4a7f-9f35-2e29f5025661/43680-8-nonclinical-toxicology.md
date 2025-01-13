@@ -7,9 +7,9 @@ Results showed an increase in the incidence of malignant and non-malignant tumor
 Malignant tumors occurred in the preputial gland of males and the clitoral gland of females of both species, and in the liver of female rats.
 In addition, non-malignant tumors also occurred in the liver and thyroid gland of female rats.
 These observations were made at systemic exposures in the range of 6 to 32 times the human exposure at the recommended dose of 600 mg.
-Mutagenicity Abacavir induced chromosomal aberrations both in the presence and absence of metabolic activation in an in vitro cytogenetic study in human lymphocytes.
+Mutagenicity Abacavir induced chromosomal aberrations both in the presence and absence of metabolic activation in an in vitrocytogenetic study in human lymphocytes.
 Abacavir was mutagenic in the absence of metabolic activation, although it was not mutagenic in the presence of metabolic activation in an L5178Y mouse lymphoma assay.
-Abacavir was clastogenic in males and not clastogenic in females in an in vivo mouse bone marrow micronucleus assay.
+Abacavir was clastogenic in males and not clastogenic in females in an in vivomouse bone marrow micronucleus assay.
 Abacavir was not mutagenic in bacterial mutagenicity assays in the presence and absence of metabolic activation.
 Impairment of Fertility Abacavir did not affect male or female fertility in rats at a dose associated with exposures (AUC) approximately 3.3 times (male) or 4.1 times (female) those in humans at the clinically recommended dose.
 
