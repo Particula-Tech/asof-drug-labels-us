@@ -10,6 +10,6 @@ NDC 42571-130-27, 2.5 mL fill in 5 mL
 
 NDC 42571-130-21, 5 mL fill in 5 mL
 
-Storage: Store at 2° to 25°C (36° to 77°F).
+Storage:Store at 2° to 25°C (36° to 77°F).
 
 After opening, travoprost ophthalmic solution USP, 0.004% (ionic buffered solution) can be used until the expiration date on the bottle.

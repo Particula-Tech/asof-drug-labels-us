@@ -9,7 +9,7 @@ The exact mechanism of action is unknown at this time.
 
 Travoprost is absorbed through the cornea and is hydrolyzed to the active free acid.
 Data from 4 multiple dose pharmacokinetic studies (totaling 107 subjects) have shown that plasma concentrations of the free acid are below 0.01 ng/mL (the quantitation limit of the assay) in two-thirds of the subjects.
-In those individuals with quantifiable plasma concentrations (N = 38), the mean plasma C max was 0.018 ± 0.007 ng/mL (ranged 0.01 to 0.052 ng/mL) and was reached within 30 minutes.
+In those individuals with quantifiable plasma concentrations (N = 38), the mean plasma C maxwas 0.018 ± 0.007 ng/mL (ranged 0.01 to 0.052 ng/mL) and was reached within 30 minutes.
 From these studies, travoprost is estimated to have a plasma half-life of 45 minutes.
 There was no difference in plasma concentrations between Days 1 and 7, indicating steady-state was reached early and that there was no significant accumulation.
 

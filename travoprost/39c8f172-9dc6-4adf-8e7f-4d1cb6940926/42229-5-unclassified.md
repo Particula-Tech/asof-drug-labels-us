@@ -2,7 +2,7 @@
 
 Travoprost Ophthalmic Solution USP, 0.004% (Ionic Buffered Solution)
 
-Before you use Travoprost Ophthalmic Solution USP, 0.004% (Ionic Buffered Solution) for the first time:
+Before you useTravoprost Ophthalmic Solution USP, 0.004% (Ionic Buffered Solution)for the first time:
 
 1.
 Check to make sure that the tamper evident ring between the bottle and the cap is not broken (See Figure A). If the tamper evident ring is broken or missing, contact your pharmacist.
