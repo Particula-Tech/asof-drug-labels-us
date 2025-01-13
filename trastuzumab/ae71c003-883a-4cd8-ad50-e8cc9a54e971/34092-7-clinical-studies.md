@@ -68,31 +68,31 @@ Among 3222 patients, the median age was 49 (range 22 to 74 years; 6% ≥ 65 year
 Disease characteristics included 54% ER+ and/or PR+ and 71% node positive.
 Prior to randomization, all patients underwent primary surgery for breast cancer.
 
-The results for DFS for the integrated analysis of NSABP B31 and NCCTG N9831, HERA, and BCIRG006 and OS results for the integrated analysis of NSABP B31, NCCTG N9831, and HERA are presented in Table 9.
+The results for DFS for the integrated analysis of NSABP B31 and NCCTG N9831, HERA, and BCIRG006 and OS results for the integrated analysis of NSABP B31 and NCCTG N9831, and HERA are presented in Table 9.
 For NSABP B31 and NCCTG N9831, the duration of DFS following a median follow-up of 2.0 years in the AC→TH arm is presented in Figure 4, and the duration of OS after a median follow-up of 8.3 years in the AC→TH arm is presented in Figure 5.
 The duration of DFS for BCIRG006 is presented in Figure 6.
 For NSABP B31 and NCCTG N9831, the OS hazard ratio was 0.64 (95% CI: 0.55, 0.74).
 At 8.3 years of median follow up [AC→TH], the survival rate was estimated to be 86.9% in the AC→TH arm and 79.4% in the AC→T arm.
 The final OS analysis results from NSABP B31 and NCCTG N9831 indicate that OS benefit by age, hormone receptor status, number of positive lymph nodes, tumor size and grade, and surgery/radiation therapy was consistent with the treatment effect in the overall population.
-In patients 50 years of age (n = 2197), the OS hazard ratio was 0.65 (95% CI: 0.52, 0.81) and in patients > 50 years of age (n = 1866), the OS hazard ratio was 0.63 (95% CI: 0.51, 0.78).
+In patients ≤ 50 years of age (n = 2197), the OS hazard ratio was 0.65 (95% CI: 0.52, 0.81) and in patients > 50 years of age (n = 1866), the OS hazard ratio was 0.63 (95% CI: 0.51, 0.78).
 In the subgroup of patients with hormone receptor-positive disease (ER-positive and/or PR-positive) (n = 2223), the hazard ratio for OS was 0.63 (95% CI: 0.51, 0.78).
 In the subgroup of patients with hormone receptor-negative disease (ER-negative and PR-negative) (n = 1830), the hazard ratio for OS was 0.64 (95% CI: 0.52, 0.80).
-In the subgroup of patients with tumor size 2 cm (n = 1604), the hazard ratio for OS was 0.52 (95% CI: 0.39, 0.71).
+In the subgroup of patients with tumor size ≤ 2 cm (n = 1604), the hazard ratio for OS was 0.52 (95% CI: 0.39, 0.71).
 In the subgroup of patients with tumor size > 2 cm (n = 2448), the hazard ratio for OS was 0.67 (95% CI: 0.56, 0.80).
 
 Table 9: Efficacy Results from Adjuvant Treatment of Breast Cancer (NSABP B31 and NCCTG N9831, HERA, and BCIRG006)
 
 |  | DFS events | DFS Hazard ratio (95% CI) p-value | Deaths (OS events) | OS Hazard ratio p-value |
 | --- | --- | --- | --- | --- |
-| NSABP B31 and NCCTG N9831NSABP B31 and NCCTG N9831 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus trastuzumab (AC→TH). |  |  |  |  |
-| AC→TH (n = 1872)Efficacy evaluable population, for the primary DFS analysis, following a median follow-up of 2.0 years in the AC→TH arm. (n = 2031)Efficacy evaluable population, for the final OS analysis, following 707 deaths (8.3 years of median follow-up in the AC→TH arm). | 133 | 0.48Hazard ratio estimated by Cox regression stratified by clinical trial, intended paclitaxel schedule, number of positive nodes, and hormone receptor status. (0.39, 0.59) p< 0.0001stratified log-rank test | 289 | 0.64 (0.55, 0.74) p< 0.0001 |
+| NSABP B31 and NCCTG N9831CI = confidence interval |  |  |  |  |
+| AC→TH (n = 1872)† (n = 2031)‡ | 133 | 0.48§ (0.39, 0.59) p< 0.0001¶ | 289 | 0.64 (0.55, 0.74) p< 0.0001 |
 | AC→T (n = 1880) (n = 2032) | 261 |  | 418 |  |
-| HERAAt definitive DFS analysis with median duration of follow-up of 12.6 months in the one-year trastuzumab treatment arm. |  |  |  |  |
-| Chemo→Trastuzumab (n = 1693) | 127 | 0.54 (0.44, 0.67) p< 0.0001log-rank test. | 31 | 0.75 p = NSNS = non-significant. |
+| HERA# |  |  |  |  |
+| Chemo→Trastuzumab (n = 1693) | 127 | 0.54 (0.44, 0.67) p< 0.0001Þ | 31 | 0.75 p = NSß |
 | Chemo→Observation (n = 1693) | 219 |  | 40 |  |
 | BCIRG006 |  |  |  |  |
-| TCH (n = 1075) | 134 | 0.67 (0.54 0.84) p=0.0006A two-sided alpha level of 0.025 for each comparison. | 56 |  |
-| AC→TH (n = 1074) | 121 | 0.60 (0.48 0.76) p< 0.0001BCIRG006 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus trastuzumab (AC→TH); docetaxel and carboplatin plus trastuzumab (TCH). | 49 |  |
+| TCH (n = 1075) | 134 | 0.67 (0.54 to 0.84) p=0.0006à | 56 |  |
+| AC→TH (n = 1074) | 121 | 0.60 (0.48 to 0.76) p< 0.0001è | 49 |  |
 | AC→T (n = 1073) | 180 |  | 80 |  |
 
 Figure 4: Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (NSABP B31 and NCCTG N9831)
@@ -107,7 +107,7 @@ The number of events in NCCTG N9831 was small with the exception of the IHC 3+/F
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
 The number of events in HERA was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH+/IHC unknown subgroups.
 
-Table 10:DFS in NCCTG N9831 and HERA for Patients with HER2 Overexpression or Amplification
+Table 10: DFS in NCCTG N9831 and HERA for Patients with HER2 Overexpression or Amplification
 
 | HER2 Assay ResultIHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. | Number of Patients | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -181,7 +181,7 @@ Trastuzumab was studied as a single agent in a multicenter, open-label, single-a
 Of 222 patients enrolled, 66% had received prior adjuvant chemotherapy, 68% had received two prior chemotherapy regimens for metastatic disease, and 25% had received prior myeloablative treatment with hematopoietic rescue.
 Patients were treated with a loading dose of 4 mg/kg IV followed by weekly doses of trastuzumab at 2 mg/kg IV.
 
-The ORR (complete response + partial response), as determined by an Independent Response Evaluation Committee, was 14%, with a 2% complete response rate and a 12% partial response rate.
+The ORR (complete response + partial response), as determined by an independent Response Evaluation Committee, was 14%, with a 2% complete response rate and a 12% partial response rate.
 Complete responses were observed only in patients with disease limited to skin and lymph nodes.
 The overall response rate in patients whose tumors tested as CTA 3+ was 18% while in those that tested as CTA 2+, it was 6%.
 

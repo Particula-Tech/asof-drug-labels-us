@@ -50,7 +50,7 @@ Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant
 | --- | --- | --- | --- | --- | --- |
 |  |  | Incidence |  |  |  |
 |  |  | NYHA I-IV |  | NYHA III-IV |  |
-| H0648g (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
+| H0648g (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
 | H0648g (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
 | H0649g | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
 

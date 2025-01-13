@@ -30,7 +30,7 @@ Population PK based simulations indicate that following discontinuation of trast
 
 Table 7: Population Predicted Cycle 1 PK Exposures (Median with 5th to 95th Percentiles) in Breast Cancer and MGC Patients
 
-| Schedule | Primary tumor type | N | Cmin (µg/mL) | Cmax (µg/mL) | AUC0-21days (µg.day/mL) |
+| Schedule | Primary tumor type | N | Cmin (mcg/mL) | Cmax (mcg/mL) | AUC0-21 days (mcg.day/mL) |
 | --- | --- | --- | --- | --- | --- |
 | 8 mg/kg + 6 mg/kg q3w | Breast cancer | 1195 | 29.4 (5.8 to 59.5) | 178 (117 to 291) | 1373 (736 to 2245) |
 | MGC | 274 | 23.1 (6.1 to 50.3) | 132 (84.2 to 225) | 1109 (588 to 1938) |  |
@@ -38,7 +38,7 @@ Table 7: Population Predicted Cycle 1 PK Exposures (Median with 5th to 95th Perc
 
 Table 8: Population Predicted Steady State PK Exposures (Median with 5th to 95th Percentiles) in Breast Cancer and MGC Patients
 
-| Schedule | Primary tumor type | N | Cmin,ssSteady-state trough serum concentration of trastuzumab (µg/mL) | Cmax,ssMaximum steady-state serum concentration of trastuzumab (µg/mL) | AUCss, 0-21 days (µg.day/mL) | Time to steady-state (week) | Total CL range at steady-state (L/day) |
+| Schedule | Primary tumor type | N | Cmin,ssSteady-state trough serum concentration of trastuzumab (mcg/mL) | Cmax,ssMaximum steady-state serum concentration of trastuzumab (mcg/mL) | AUCss, 0-21 days (mcg.day/mL) | Time to steady-state (week) | Total CL range at steady-state (L/day) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8 mg/kg + 6 mg/kg q3w | Breast cancer | 1195 | 47.4 (5 to 115) | 179 (107 to 309) | 1794 (673 to 3618) | 12 | 0.173 to 0.283 |
 | MGC | 274 | 32.9 (6.1 to 88.9) | 131 (72.5 to 251) | 1338 (557 to 2875) | 9 | 0.189 to 0.337 |  |

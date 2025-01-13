@@ -3,7 +3,7 @@
 ## 2.1 Evaluation and Testing Before Initiating HERZUMA
 
 Assess left ventricular ejection fraction (LVEF) prior to initiation of HERZUMA and at regular intervals during treatment.
-[see Boxed Warning, Dosage and Administration (2.5)].
+[see Boxed Warning, Dosage and Administration (2.5), Warnings and Precautions (5.1)].
 
 Verify the pregnancy status of females of reproductive potential prior to the initiation of HERZUMA [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
@@ -52,7 +52,7 @@ Metastatic Gastric Cancer
 
 Missed Dose
 
-If the patient has missed a dose of HERZUMA by one week or less, then the usual maintenance dose (weekly schedule: 2 mg/kg; once every three weeks schedule: 6 mg/kg) should be administered as soon as possible.
+If the patient has missed a dose of HERZUMA by one week or less, then the usual maintenance dose (weekly schedule: 2 mg/kg; once every three week schedule: 6 mg/kg) should be administered as soon as possible.
 Do not wait until the next planned cycle.
 Subsequent HERZUMA maintenance doses should be administered 7 days or 21 days later according to the weekly or once every three week schedules, respectively.
 
@@ -71,7 +71,7 @@ Infusion Reactions
 
 Cardiomyopathy
 
-[see Boxed Warning,Warnings and Precautions (5.1)]
+[see Boxed Warning, Warnings and Precautions (5.1)]
 
 Assess left ventricular ejection fraction (LVEF) prior to initiation of HERZUMA and at regular intervals during treatment.
 Withhold HERZUMA dosing for at least 4 weeks for either of the following:
