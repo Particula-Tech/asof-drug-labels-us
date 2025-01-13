@@ -12,8 +12,8 @@ Table 3: Clinically Significant Drug Interactions with SEGLUROMET
 | Alcohol |  |
 | Clinical Impact: | Potentiate the effect of metformin on lactate metabolism. |
 | Intervention: | Warn patients against excessive alcohol intake while receiving SEGLUROMET. |
-| Insulin and Insulin Secretagogues |  |
-| Clinical Impact: | The risk of hypoglycemia when ertugliflozin is used in combination with insulin and/or an insulin secretagogue. |
+| Insulin or Insulin Secretagogues |  |
+| Clinical Impact: | The risk of hypoglycemia is increased when ertugliflozin is used in combination with insulin or an insulin secretagogue. |
 | Intervention: | A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with SEGLUROMET. |
 | Drugs that Affect Glycemic Control |  |
 | Clinical Impact: | Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid. |

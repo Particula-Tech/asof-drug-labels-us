@@ -19,7 +19,7 @@ Inform patients that blood glucose may be normal even in the presence of ketoaci
 Advise patients that they may be asked to monitor ketones.
 If symptoms of ketoacidosis occur, instruct patients to discontinue SEGLUROMET and seek medical attention immediately [see Warnings and Precautions (5.2)].
 
-Amputation
+Lower Limb Amputation
 
 Inform patients of the potential for an increased risk of amputations.
 Counsel patients about the importance of routine preventative foot care.
@@ -36,9 +36,9 @@ Inform patients of the potential for urinary tract infections, which may be seri
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
 
-Hypoglycemia with Concomitant Use of Insulin and/or Insulin Secretagogue
+Hypoglycemia with Concomitant Use of Insulin or Insulin Secretagogue
 
-Inform patients that the incidence of hypoglycemia may increase when SEGLUROMET is added to insulin and/or an insulin secretagogue.
+Inform patients that the incidence of hypoglycemia may increase when SEGLUROMET is used with insulin or an insulin secretagogue.
 Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.6)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)

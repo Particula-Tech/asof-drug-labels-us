@@ -7,7 +7,7 @@ The following important adverse reactions are described elsewhere in the labelin
 - Lower Limb Amputation [see Warnings and Precautions (5.3)]
 - Volume Depletion [see Warnings and Precautions (5.4)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
+- Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.6)]
 - Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.7)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.8)]
 - Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
@@ -18,7 +18,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Ertugliflozin and Metformin Hydrochloride
 
-The incidence and type of adverse reactions in the two 26-week, placebo-controlled trials of ertugliflozin 5 mg and 15 mg added to metformin, representing a majority of data from the three 26-week, placebo-controlled trials, were similar to the adverse reactions described in Table 1.
+The incidence and type of adverse reactions in the two 26-week, placebo-controlled trials of ertugliflozin 5 mg and 15 mg added to metformin HCl, representing a majority of data from the three 26-week, placebo-controlled trials, were similar to the adverse reactions described in Table 1.
 
 Ertugliflozin
 
@@ -29,14 +29,14 @@ Ertugliflozin was used as monotherapy in one trial and as add-on therapy in two 
 These data reflect exposure of 1,029 patients to ertugliflozin with a mean exposure duration of approximately 25 weeks.
 Patients received ertugliflozin 5 mg (N=519), ertugliflozin 15 mg (N=510), or placebo (N=515) once daily.
 The mean age of the population was 57 years and 2% were older than 75 years of age.
-Fifty-three percent (53%) of the population was male and 73% were Caucasian, 15% were Asian, and 7% were Black or African American.
+Fifty-three percent (53%) of the population was male and 73% were White, 15% were Asian, and 7% were Black or African American.
 At baseline the population had diabetes for an average of 7.5 years, had a mean HbA1c of 8.1%, and 19.4% had established microvascular complications of diabetes.
 Baseline renal function (mean eGFR 88.9 mL/min/1.73 m2) was normal or mildly impaired in 97% of patients and moderately impaired in 3% of patients.
 
 Table 1 shows common adverse reactions associated with the use of ertugliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on ertugliflozin than on placebo, and occurred in at least 2% of patients treated with either ertugliflozin 5 mg or ertugliflozin 15 mg.
 
-Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with ErtugliflozinThe three placebo-controlled studies included one monotherapy trial and two add-on combination trials with metformin or with metformin and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Ertugliflozin Monotherapy or Combination Therapy
+Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with ErtugliflozinThe three placebo-controlled studies included one monotherapy trial and two add-on combination trials with metformin HCl or with metformin HCl and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Ertugliflozin Monotherapy or Combination Therapy
 
 |  | Placebo N = 515 | Ertugliflozin 5 mg N = 519 | Ertugliflozin 15 mg N = 510 |
 | --- | --- | --- | --- |
@@ -65,19 +65,25 @@ The incidence of hypoglycemia by study is shown in Table 2.
 Table 2: Incidence of OverallOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL. and SevereSevere hypoglycemic events: required assistance, lost consciousness, or experienced a seizure regardless of blood glucose.
 Hypoglycemia in Placebo-Controlled Clinical Studies in Patients with Type 2 Diabetes Mellitus
 
-| Add-on Combination Therapy with Metformin (26 weeks) | Placebo (N = 209) | Ertugliflozin 5 mg (N = 207) | Ertugliflozin 15 mg (N = 205) |
+| Add-on Combination Therapy with Metformin HCl (26 weeks) | Placebo (N = 209) | Ertugliflozin 5 mg (N = 207) | Ertugliflozin 15 mg (N = 205) |
 | --- | --- | --- | --- |
 | Overall [N (%)] | 9 (4.3) | 15 (7.2) | 16 (7.8) |
 | Severe [N (%)] | 1 (0.5) | 1 (0.5) | 0 (0.0) |
-| Add-on Combination Therapy with Metformin and Sitagliptin (26 weeks) | Placebo (N = 153) | Ertugliflozin 5 mg (N = 156) | Ertugliflozin 15 mg (N = 153) |
+| Add-on Combination Therapy with Metformin HCl and Sitagliptin (26 weeks) | Placebo (N = 153) | Ertugliflozin 5 mg (N = 156) | Ertugliflozin 15 mg (N = 153) |
 | Overall [N (%)] | 5 (3.3) | 7 (4.5) | 3 (2.0) |
 | Severe [N (%)] | 1 (0.7) | 1 (0.6) | 0 (0.0) |
-| Add-on Combination with Insulin with or without Metformin (18 weeks) | Placebo (N = 347) | Ertugliflozin 5 mg (N = 348) | Ertugliflozin 15 mg (N = 370) |
+| Add-on Combination with Insulin with or without Metformin HCl (18 weeks) | Placebo (N = 347) | Ertugliflozin 5 mg (N = 348) | Ertugliflozin 15 mg (N = 370) |
 | Overall [N (%)] | 130 (37.5) | 137 (39.4) | 144 (38.9) |
 | Severe [N (%)] | 12 (3.5) | 13 (3.7) | 19 (5.1) |
-| Add-on Combination with Metformin and a Sulfonylurea (18 weeks) | Placebo (N = 117) | Ertugliflozin 5 mg (N = 100) | Ertugliflozin 15 mg (N = 113) |
+| Add-on Combination with Metformin HCl and a Sulfonylurea (18 weeks) | Placebo (N = 117) | Ertugliflozin 5 mg (N = 100) | Ertugliflozin 15 mg (N = 113) |
 | Overall [N (%)] | 17 (14.5) | 20 (20.0) | 30 (26.5) |
 | Severe [N (%)] | 1 (0.9) | 2 (2.0) | 2 (1.8) |
+
+Lower Limb Amputation
+
+In a long-term cardiovascular outcomes study [see Clinical Studies (14.2)], in patients with type 2 diabetes mellitus and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1,000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
+
+Across seven ertugliflozin clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
 
 Genital Mycotic Infections
 
@@ -94,11 +100,11 @@ Urinary Tract Infections
 In VERTIS CV urinary tract infections (e.g., urinary tract infection, cystitis, dysuria) occurred in 10.2%, 12.2% and 12.0% of patients treated with placebo, ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
 The incidences of serious urinary tract infections were 0.8%, 0.9% and 0.4% with placebo, ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
 
-Metformin
+Metformin HCl
 
-The most common (5% or greater incidence) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea, vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
+The most common (5% or greater incidence) established adverse reactions due to initiation of metformin HCl therapy are diarrhea, nausea, vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
-In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+In controlled clinical trials of metformin HCl of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
 Laboratory Tests
 
@@ -132,10 +138,14 @@ In a clinical trial of patients with moderate renal impairment, mean changes (me
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during post approval use.
+Additional adverse reactions have been identified during post approval use of ertugliflozin, metformin HCl, both components of SEGLUROMET.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Necrotizing fasciitis of the perineum (Fournier’s Gangrene)
-- Angioedema
-- Rash
-- Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.
+Ertugliflozin
+
+- Infections: necrotizing fasciitis of the perineum (Fournier’s Gangrene)
+- Skin and Subcutaneous Tissue Disorders: angioedema, rash
+
+Metformin HCl
+
+- Hepatobiliary Disorders: cholestatic, hepatocellular, and mixed hepatocellular liver injury
