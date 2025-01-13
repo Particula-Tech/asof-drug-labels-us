@@ -3,21 +3,21 @@
 ## 14.1 Glycemic Control Trials in Patients with Type 2 Diabetes Mellitus
 
 The efficacy and safety of ertugliflozin in combination with sitagliptin have been studied in 3 multi-center, randomized, double-blind, placebo- and active comparator-controlled, clinical studies involving 1,985 patients with type 2 diabetes mellitus.
-These studies included white, Hispanic, black, Asian, and other racial and ethnic groups, and patients with an age range of 21 to 85 years.
+These studies included White, Hispanic or Latino, Black or African American, Asian, and other racial and ethnic groups, and patients with an age range of 21 to 85 years.
 
 In patients with type 2 diabetes mellitus, treatment with ertugliflozin in combination with sitagliptin reduced HbA1c compared to placebo or active comparator.
 
 In patients with type 2 diabetes mellitus treated with ertugliflozin in combination with sitagliptin, the change in HbA1c was generally similar across subgroups defined by age, sex, and race.
 
-In Combination with Sitagliptin versus Ertugliflozin Alone and Sitagliptin Alone, as Add-on to Metformin
+In Combination with Sitagliptin versus Ertugliflozin Alone and Sitagliptin Alone, as Add-on to Metformin HCl
 
-A total of 1,233 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c between 7.5% and 11%) on metformin monotherapy (≥1,500 mg/day for ≥8 weeks) participated in a randomized, double-blind, 26-week, active controlled study (NCT02099110) to evaluate the efficacy and safety of ertugliflozin 5 mg or 15 mg in combination with sitagliptin 100 mg compared to the individual components.
+A total of 1,233 patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c between 7.5% and 11%) on metformin HCl monotherapy (≥1,500 mg/day for ≥8 weeks) participated in a randomized, double-blind, 26-week, active controlled study (NCT02099110) to evaluate the efficacy and safety of ertugliflozin 5 mg or 15 mg administered orally in combination with sitagliptin 100 mg compared to the individual components.
 Patients were randomized to one of five treatment arms: ertugliflozin 5 mg, ertugliflozin 15 mg, sitagliptin 100 mg, ertugliflozin 5 mg + sitagliptin 100 mg, or ertugliflozin 15 mg + sitagliptin 100 mg.
 
 At Week 26, ertugliflozin 5 mg or 15 mg + sitagliptin 100 mg provided statistically significantly greater reductions in HbA1c compared to the individual components.
 More patients achieved an HbA1c < 7% on the combination as compared to the individual components (see Table 6 and Figure 3).
 
-Table 6: Results at Week 26 from a Factorial Study with Ertugliflozin and Sitagliptin as Add-on Combination Therapy with Metformin Compared to Individual Components AloneN includes all randomized and treated patients with a baseline measurement of the outcome variable.
+Table 6: Results at Week 26 from a Factorial Study with Ertugliflozin and Sitagliptin as Add-on Combination Therapy with Metformin HCl Compared to Individual Components AloneN includes all randomized and treated patients with a baseline measurement of the outcome variable.
 At Week 26 the primary HbA1c endpoint was missing for 13%, 10%, 11%, 11%, and 12% of patients and during the trial rescue medication was initiated by 6%, 6%, 3%, 2%, and 0% of patients randomized to sitagliptin, ertugliflozin 5 mg, ertugliflozin 15 mg, ertugliflozin 5 mg + sitagliptin, and ertugliflozin 15 mg + sitagliptin, respectively.
 Missing Week 26 measurements were imputed using multiple imputation with a mean equal to the baseline value of the patient.
 Results included measurements collected after initiation of rescue medication.
@@ -51,18 +51,18 @@ The mean baseline systolic blood pressure was 128.4 mmHg, 129.7 mmHg, 128.9 mmHg
 The mean changes from baseline to Week 26 were -0.5 mmHg, -4.0 mmHg, -3.6 mmHg, -2.8 mmHg, and -3.4 mmHg in the sitagliptin 100 mg, ertugliflozin 5 mg, ertugliflozin 15 mg, ertugliflozin 5 mg + sitagliptin 100 mg, and ertugliflozin 15 mg + sitagliptin 100 mg groups, respectively.
 The difference from sitagliptin 100 mg (95% CI) for ertugliflozin 5 mg + sitagliptin 100 mg was -2.3 mmHg (-4.3, -0.4) and for ertugliflozin 15 mg + sitagliptin 100 mg was -2.9 mmHg (-4.8, -1.0).
 
-| Figure 3: HbA1c (%) Change over Time in a Factorial Study with Ertugliflozin and Sitagliptin as Add-on Combination Therapy with Metformin Compared to Individual Components AloneData to the left of the vertical line are observed means (non-model-based) excluding values occurring post glycemic rescue. Data to the right of the vertical line represent the final Week 26 data, including all values regardless of use of glycemic rescue medication and use of study drug, with missing Week 26 values imputed using multiple imputation (26-MI) with a mean equal to the baseline value of the patient (see Table 6). |
+| Figure 3: HbA1c (%) Change over Time in a Factorial Study with Ertugliflozin and Sitagliptin as Add-on Combination Therapy with Metformin HCl Compared to Individual Components AloneData to the left of the vertical line are observed means (non-model-based) excluding values occurring post glycemic rescue. Data to the right of the vertical line represent the final Week 26 data, including all values regardless of use of glycemic rescue medication and use of study drug, with missing Week 26 values imputed using multiple imputation (26-MI) with a mean equal to the baseline value of the patient (see Table 6). |
 | --- |
 
-Ertugliflozin as Add-on Combination Therapy with Metformin and Sitagliptin
+Ertugliflozin as Add-on Combination Therapy with Metformin HCl and Sitagliptin
 
-A total of 463 patients with type 2 diabetes mellitus inadequately controlled (HbA1c between 7% and 10.5%) on metformin (≥1,500 mg/day for ≥8 weeks) and sitagliptin 100 mg once daily participated in a randomized, double-blind, multi-center, 26-week, placebo-controlled study (NCT02036515) to evaluate the efficacy and safety of ertugliflozin.
+A total of 463 patients with type 2 diabetes mellitus inadequately controlled (HbA1c between 7% and 10.5%) on metformin HCl (≥1,500 mg/day for ≥8 weeks) and sitagliptin 100 mg orally once daily participated in a randomized, double-blind, multi-center, 26-week, placebo-controlled study (NCT02036515) to evaluate the efficacy and safety of ertugliflozin.
 Patients entered a 2-week, single-blind, placebo run-in period and were randomized to placebo, ertugliflozin 5 mg, or ertugliflozin 15 mg.
 
 At Week 26, treatment with ertugliflozin at 5 mg or 15 mg daily provided statistically significant reductions in in HbA1c.
 Ertugliflozin also resulted in a higher proportion of patients achieving an HbA1c <7% compared to placebo (see Table 7).
 
-Table 7: Results at Week 26 from an Add-on Study of Ertugliflozin in Combination with Metformin and Sitagliptin in Patients with Type 2 Diabetes MellitusN includes all randomized and treated patients with a baseline measurement of the outcome variable.
+Table 7: Results at Week 26 from an Add-on Study of Ertugliflozin in Combination with Metformin HCl and Sitagliptin in Patients with Type 2 Diabetes MellitusN includes all randomized and treated patients with a baseline measurement of the outcome variable.
 At Week 26, the primary HbA1c endpoint was missing for 10%, 11%, and 7% of patients and during the trial, rescue medication was initiated by 16%, 1%, and 2% of patients randomized to placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg, respectively.
 Missing Week 26 measurements were imputed using multiple imputation with a mean equal to the baseline value of the patient.
 Results included measurements collected after initiation of rescue medication.
@@ -91,7 +91,7 @@ The difference from placebo (95% CI) for ertugliflozin 5 mg was -3.7 mmHg (-6.1,
 Initial Combination Therapy of Ertugliflozin and Sitagliptin
 
 A total of 291 patients with type 2 diabetes mellitus inadequately controlled (HbA1c between 8% and 10.5%) on diet and exercise participated in a randomized, double-blind, multi-center, placebo-controlled 26-week study (NCT02226003) to evaluate the efficacy and safety of ertugliflozin in combination with sitagliptin.
-These patients, who were not receiving any background antihyperglycemic treatment for ≥8 weeks, entered a 2-week, single-blind, placebo run-in period and were randomized to placebo, ertugliflozin 5 mg, ertugliflozin 15 mg in combination with sitagliptin (100 mg), once daily.
+These patients, who were not receiving any background antihyperglycemic treatment for ≥8 weeks, entered a 2-week, single-blind, placebo run-in period and were randomized to placebo, ertugliflozin 5 mg, or ertugliflozin 15 mg, in combination with sitagliptin (100 mg), orally once daily.
 
 At Week 26, treatment with ertugliflozin 5 mg and 15 mg in combination with sitagliptin at 100 mg daily provided statistically significant reductions in HbA1c compared to placebo.
 Ertugliflozin 5 mg and 15 mg in combination with sitagliptin at 100 mg daily also resulted in a higher proportion of patients achieving an HbA1c <7% compared with placebo (see Table 8).
@@ -127,13 +127,13 @@ The difference from placebo (95% CI) for ertugliflozin 5 mg + sitagliptin 100 mg
 The effect of ertugliflozin on cardiovascular risk in adult patients with type 2 diabetes and established atherosclerotic cardiovascular disease was evaluated in the VERTIS CV study (NCT01986881), a multicenter, multi-national, randomized, double-blind, placebo-controlled, event driven trial.
 The study compared the risk of experiencing a major adverse cardiovascular event (MACE) between ertugliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
 
-A total of 8246 patients were randomized (placebo N=2747, ertugliflozin 5 mg N=2752, ertugliflozin 15 mg N=2747) and followed for a median of 3 years.
-Approximately 88% of the study population was Caucasian, 6% Asian, and 3% Black.
+A total of 8,246 patients were randomized to placebo (N=2,747), oral once daily ertugliflozin 5 mg (N=2,752), or oral once daily ertugliflozin 15 mg (N=2,747) and followed for a median of 3 years.
+Approximately 88% of the study population was White, 6% Asian, and 3% Black or African American.
 The mean age was 64 years and approximately 70% were male.
 
 All patients in the study had inadequately controlled type 2 diabetes mellitus at baseline (HbA1c greater than or equal to 7%).
 The mean duration of type 2 diabetes mellitus was 13 years, the mean HbA1c at baseline was 8.2% and the mean eGFR was 76 mL/min/1.73 m2.
-At baseline, patients were treated with one (32%) or more (67%) antidiabetic medications including biguanides (metformin) (76%), insulin (47%), sulfonylureas (41%), DPP-4 inhibitors (11%) and GLP-1 receptor agonists (3%).
+At baseline, patients were treated with one (32%) or more (67%) antidiabetic medications including biguanides (metformin HCl) (76%), insulin (47%), sulfonylureas (41%), DPP-4 inhibitors (11%) and GLP-1 receptor agonists (3%).
 
 Almost all patients (99%) had established atherosclerotic cardiovascular disease at baseline including: a documented history of coronary artery disease (76%), cerebrovascular disease (23%) or peripheral artery disease (19%).
 Approximately 24% patients had a history of heart failure (HF).

@@ -9,7 +9,7 @@ The following important adverse reactions are described elsewhere in the labelin
 - Volume Depletion [see Warnings and Precautions (5.5)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
 - Heart Failure [see Warnings and Precautions (5.7)]
-- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.8)]
+- Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.8)]
 - Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.9)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.10)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
@@ -22,7 +22,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Ertugliflozin and Sitagliptin
 
-The safety of concomitantly administered ertugliflozin and sitagliptin has been evaluated in 990 patients with type 2 diabetes mellitus treated for 26 weeks in three studies; a factorial study of ertugliflozin 5 mg or 15 mg in combination with sitagliptin 100 mg once daily compared to the individual components, a placebo-controlled study of ertugliflozin 5 mg or 15 mg as add-on therapy to sitagliptin 100 mg and metformin once daily, and a placebo-controlled study of initial therapy with ertugliflozin 5 mg or 15 mg once daily in combination with sitagliptin 100 mg once daily [see Clinical Studies (14)].
+The safety of concomitantly administered ertugliflozin and sitagliptin has been evaluated in 990 patients with type 2 diabetes mellitus treated for 26 weeks in three studies; a factorial study of ertugliflozin 5 mg or 15 mg in combination with sitagliptin 100 mg once daily compared to the individual components, a placebo-controlled study of ertugliflozin 5 mg or 15 mg as add-on therapy to sitagliptin 100 mg and metformin HCl once daily, and a placebo-controlled study of initial therapy with ertugliflozin 5 mg or 15 mg once daily in combination with sitagliptin 100 mg once daily [see Clinical Studies (14)].
 The incidence and type of adverse reactions in these three studies were similar to the adverse reactions seen with ertugliflozin and described below in Table 1.
 
 Ertugliflozin
@@ -34,14 +34,14 @@ Ertugliflozin was used as monotherapy in one trial and as add-on therapy in two 
 These data reflect exposure of 1,029 patients to ertugliflozin with a mean exposure duration of approximately 25 weeks.
 Patients received ertugliflozin 5 mg (N=519), ertugliflozin 15 mg (N=510), or placebo (N=515) once daily.
 The mean age of the population was 57 years and 2% were older than 75 years of age.
-Fifty-three percent (53%) of the population was male and 73% were Caucasian, 15% were Asian, and 7% were Black or African American.
+Fifty-three percent (53%) of the population was male and 73% were White, 15% were Asian, and 7% were Black or African American.
 At baseline the population had diabetes for an average of 7.5 years, had a mean HbA1c of 8.1%, and 19.4% had established microvascular complications of diabetes.
 Baseline renal function (mean eGFR 88.9 mL/min/1.73 m2) was normal or mildly impaired in 97% of patients and moderately impaired in 3% of patients.
 
 Table 1 shows common adverse reactions associated with the use of ertugliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on ertugliflozin than on placebo, and occurred in at least 2% of patients treated with either ertugliflozin 5 mg or ertugliflozin 15 mg.
 
-Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with ErtugliflozinThe three placebo controlled studies included one monotherapy trial and two add-on combination trials with metformin or with metformin and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Ertugliflozin Monotherapy or Combination Therapy
+Table 1: Adverse Reactions Reported in ≥2% of Patients with Type 2 Diabetes Mellitus Treated with ErtugliflozinThe three placebo controlled studies included one monotherapy trial and two add-on combination trials with metformin HCl or with metformin HCl and sitagliptin. and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Ertugliflozin Monotherapy or Combination Therapy
 
 |  | Placebo N = 515 | Ertugliflozin 5 mg N = 519 | Ertugliflozin 15 mg N = 510 |
 | --- | --- | --- | --- |
@@ -70,16 +70,22 @@ The incidence of hypoglycemia by study is shown in Table 2.
 Table 2: Incidence of OverallOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL. and SevereSevere hypoglycemic events: required assistance, lost consciousness, or experienced a seizure regardless of blood glucose.
 Hypoglycemia in Placebo-Controlled Clinical Studies in Patients with Type 2 Diabetes Mellitus
 
-| Factorial Study with Sitagliptin as Add-on Combination Therapy with Metformin (26 weeks) |  | Ertugliflozin 5 mg + Sitagliptin (N = 243) | Ertugliflozin 15 mg + Sitagliptin (N = 244) |
+| Factorial Study with Sitagliptin as Add-on Combination Therapy with Metformin HCl (26 weeks) |  | Ertugliflozin 5 mg + Sitagliptin (N = 243) | Ertugliflozin 15 mg + Sitagliptin (N = 244) |
 | --- | --- | --- | --- |
 | Overall [N (%)] |  | 13 (5.3) | 22 (9.0) |
 | Severe [N (%)] |  | 0 (0.0) | 1 (0.4) |
-| Add-on Combination Therapy with Metformin and Sitagliptin (26 weeks) | Placebo (N = 153) | Ertugliflozin 5 mg (N = 156) | Ertugliflozin 15 mg (N = 153) |
+| Add-on Combination Therapy with Metformin HCl and Sitagliptin (26 weeks) | Placebo (N = 153) | Ertugliflozin 5 mg (N = 156) | Ertugliflozin 15 mg (N = 153) |
 | Overall [N (%)] | 5 (3.3) | 7 (4.5) | 3 (2.0) |
 | Severe [N (%)] | 1 (0.7) | 1 (0.6) | 0 (0.0) |
 | Initial Combination Therapy with Sitagliptin (26 weeks) | Placebo (N = 97) | Ertugliflozin 5 mg + Sitagliptin (N = 98) | Ertugliflozin 15 mg + Sitagliptin (N = 96) |
 | Overall [N (%)] | 1 (1.0) | 6 (6.1) | 3 (3.1) |
 | Severe [N (%)] | 0 (0.0) | 0 (0.0) | 2 (2.1) |
+
+Lower Limb Amputation
+
+In a long-term cardiovascular outcomes study [see Clinical Studies (14.2)], in patients with type 2 diabetes mellitus and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1,000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
+
+Across seven ertugliflozin clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
 
 Genital Mycotic Infections
 
@@ -99,12 +105,12 @@ The incidences of serious urinary tract infections were 0.8%, 0.9% and 0.4% with
 Sitagliptin
 
 The following additional adverse reactions have been reported in clinical studies with sitagliptin: upper respiratory tract infection, nasopharyngitis, headache, abdominal pain, nausea, diarrhea.
-In addition, in a study of sitagliptin as add-on combination therapy with metformin and rosiglitazone, peripheral edema was noted with a higher incidence than placebo.
+In addition, in a study of sitagliptin as add-on combination therapy with metformin HCl and rosiglitazone, peripheral edema was noted with a higher incidence than placebo.
 
-In a pooled analysis of the two monotherapy studies, the add-on to metformin study, and the add-on to pioglitazone study, the overall incidence of adverse reactions of hypoglycemia was 1.2% in patients treated with sitagliptin 100 mg and 0.9% in patients treated with placebo.
+In a pooled analysis of the two monotherapy studies, the add-on to metformin HCl study, and the add-on to pioglitazone study, the overall incidence of adverse reactions of hypoglycemia was 1.2% in patients treated with sitagliptin 100 mg and 0.9% in patients treated with placebo.
 In the add-on to sulfonylurea and add-on to insulin studies, hypoglycemia was also more commonly reported in patients treated with sitagliptin compared to placebo.
-In the add-on to glimepiride (+/- metformin) study, the overall incidence of hypoglycemia was 12.2% in patients treated with sitagliptin 100 mg and 1.8% in patients treated with placebo.
-In the add-on to insulin (+/- metformin) study, the overall incidence of hypoglycemia was 15.5% in patients treated with sitagliptin 100 mg and 7.8% in patients treated with placebo.
+In the add-on to glimepiride (+/- metformin HCl) study, the overall incidence of hypoglycemia was 12.2% in patients treated with sitagliptin 100 mg and 1.8% in patients treated with placebo.
+In the add-on to insulin (+/- metformin HCl) study, the overall incidence of hypoglycemia was 15.5% in patients treated with sitagliptin 100 mg and 7.8% in patients treated with placebo.
 In all studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia.
 A concurrent blood glucose measurement was not required although most (74%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
 
@@ -151,15 +157,19 @@ The clinical significance of this added increase in serum creatinine relative to
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during postapproval use.
+Additional adverse reactions have been identified during postapproval use of ertugliflozin or sitagliptin, both components of STEGLUJAN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Sitagliptin
-
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) and tubulointerstitial nephritis; severe and disabling arthralgia; bullous pemphigoid; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis; rhabdomyolysis.
 
 Ertugliflozin
 
-- Necrotizing fasciitis of the perineum (Fournier's Gangrene)
-- Angioedema
-- Rash
+- Infections: necrotizing fasciitis of the perineum (Fournier’s Gangrene)
+- Skin and Subcutaneous Tissue Disorders: angioedema, rash
+
+Sitagliptin
+
+- Skin and Subcutaneous Tissue Disorders: hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, bullous pemphigoid, exfoliative skin conditions including Stevens-Johnson syndrome, and pruritus
+- Investigations: hepatic enzyme elevations
+- Gastrointestinal Disorders: acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis, constipation, vomiting, mouth ulceration, and stomatitis
+- Renal and Urinary Disorders: worsening renal function, including acute renal failure (sometimes requiring dialysis), and tubulointerstitial nephritis
+- Musculoskeletal and Connective Tissue Disorders: severe and disabling arthralgia, myalgia, pain in extremity, back pain, and rhabdomyolysis
+- Nervous System Disorders: headache

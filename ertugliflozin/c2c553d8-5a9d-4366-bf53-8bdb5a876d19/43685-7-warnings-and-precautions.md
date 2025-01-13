@@ -35,7 +35,7 @@ It is unknown whether patients with a history of pancreatitis are at increased r
 
 ## 5.3 Lower Limb Amputation
 
-In a long-term cardiovascular outcomes study [see Clinical Studies 14.2], in patients with type 2 diabetes and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
+In a long-term cardiovascular outcomes study [see Clinical Studies (14.2)], in patients with type 2 diabetes mellitus and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
 
 Amputation of the toe and foot were most frequent (81 out of 109 patients with lower limb amputations).
 Some patients had multiple amputations, some involving both lower limbs.
@@ -45,7 +45,6 @@ Patients with amputations were more likely to be male, have higher A1C (%) at ba
 
 Across seven ertugliflozin clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
 
-Before initiating STEGLUJAN, consider factors in the patient history that may predispose them to the need for amputations, such as a history of prior amputation, peripheral vascular disease, neuropathy and diabetic foot ulcers.
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving STEGLUJAN for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue STEGLUJAN if these complications occur.
 
@@ -81,12 +80,12 @@ Consider the risks and benefits of STEGLUJAN prior to initiating treatment in pa
 Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
 If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of STEGLUJAN.
 
-## 5.8 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.8 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
-Ertugliflozin, may increase the risk of hypoglycemia when used in combination with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
-When sitagliptin, was used in combination with a sulfonylurea or with insulin, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin [see Adverse Reactions (6.1)].
-A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLUJAN.
+Ertugliflozin, may increase the risk of hypoglycemia when used in combination with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
+The risk of hypoglycemia may be lowered by a reduction in the dose of insulin or sulfonylurea (or other concomitantly administered insulin secretagogues).
+Inform patients using these medications concomitantly of this risk and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.9 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 

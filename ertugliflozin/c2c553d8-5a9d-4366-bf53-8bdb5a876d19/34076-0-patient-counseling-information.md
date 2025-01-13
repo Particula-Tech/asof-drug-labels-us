@@ -18,7 +18,7 @@ Inform patients that acute pancreatitis has been reported during use of sitaglip
 Inform patients that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Instruct patients to promptly discontinue STEGLUJAN and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
-Amputation
+Lower Limb Amputation
 
 Inform patients of the potential for an increased risk of amputations.
 Counsel patients about the importance of routine preventative foot care.
@@ -40,9 +40,9 @@ Heart Failure
 Inform patients of the signs and symptoms of heart failure.
 Instruct patients to contact their health care provider as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight or swelling of the feet [see Warnings and Precautions (5.7)].
 
-Hypoglycemia with Concomitant Use of Insulin and Insulin Secretagogue
+Hypoglycemia with Concomitant Use of Insulin or Insulin Secretagogue
 
-Inform patients that the incidence of hypoglycemia may increase when STEGLUJAN is added to insulin and/or an insulin secretagogue.
+Inform patients that the incidence of hypoglycemia may increase when STEGLUJAN is used with insulin or an insulin secretagogue.
 Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.8)].
 
 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)

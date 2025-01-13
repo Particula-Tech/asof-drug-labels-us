@@ -2,9 +2,9 @@
 
 Table 3: Clinically Significant Drug Interactions with STEGLUJAN
 
-| Insulin and Insulin Secretagogues |  |
+| Insulin or Insulin Secretagogues |  |
 | --- | --- |
-| Clinical Impact: | The risk of hypoglycemia when STEGLUJAN is used in combination with insulin and/or an insulin secretagogue. |
+| Clinical Impact: | The risk of hypoglycemia is increased when STEGLUJAN is used in combination with insulin or an insulin secretagogue. |
 | Intervention: | A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLUJAN. |
 | Lithium |  |
 | Clinical Impact: | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
