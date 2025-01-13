@@ -8,3 +8,19 @@ Philadelphia: WBSaunders Company 1992:1050–1.
 2 Stuck AE, Minder CE, Frey FJ.
 Risk of infectious complications in patients taking glucocorticoids.
 Rev Infect Dis 1989:11(6):954–63.
+
+Manufactured for:
+
+Endo USA
+
+Malvern, PA 19355 U.S.A.
+
+Made in India
+
+Neutral Code: TN/DRUGS/TN00002122
+
+© 2024 Endo, Inc. or one of its affiliates.
+
+OS4593H-01-74-03
+
+Revised: 08/2024
