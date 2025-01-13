@@ -8,6 +8,7 @@ Valganciclovir tablets should also be used with caution in patients with pre-exi
 Cytopenia may occur at any time during treatment and may worsen with continued dosing.
 Cell counts usually begin to recover within 3 to 7 days after discontinuing drug.
 In patients with severe leukopenia, neutropenia, anemia and/or thrombocytopenia, treatment with hematopoietic growth factors may be considered.
+
 Due to the frequency of neutropenia, anemia, and thrombocytopenia in patients receiving valganciclovir tablets [see Adverse Reactions (6.1)], complete blood counts with differential and platelet counts should be performed frequently, especially in infants, in patients with renal impairment, and in patients in whom ganciclovir or other nucleoside analogues have previously resulted in leukopenia, or in whom neutrophil counts are less than 1000 cells/μL at the beginning of treatment.
 Increased monitoring for cytopenias may be warranted if therapy with oral ganciclovir is changed to valganciclovir tablets, because of increased plasma concentrations of ganciclovir after valganciclovir tablets administration [see Clinical Pharmacology (12.3)].
 
@@ -36,4 +37,4 @@ Similarly, males should be advised to use condoms during and for at least 90 day
 ## 5.5 Mutagenesis and Carcinogenesis
 
 Animal data indicate that ganciclovir is mutagenic and carcinogenic.
-Valganciclovir tablets should therefore be considered a potential carcinogen in humans [see Dosage and Administration (2.7), Nonclinical Toxicology (13.1)].
+Valganciclovir tablets should therefore be considered a potential carcinogen in humans [see Dosage and Administration (2.6), Nonclinical Toxicology (13.1)].

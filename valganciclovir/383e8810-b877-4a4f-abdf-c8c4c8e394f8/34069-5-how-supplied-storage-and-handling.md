@@ -6,5 +6,5 @@ Valganciclovir tablets are supplied in:
 
 Bottles of 60 tablets NDC 31722-832-60 Blister card of 10 Unit dose tablets NDC 31722-832-31 Blister pack of 100 (10 x 10) Unit dose tablets NDC 31722-832-32
 
-Store at 25oC; excursions permitted between 15o and 30oC (59o and 86oF).
+Store at 25 oC; excursions permitted between 15 oand 30 oC (59 oand 86 oF).
 [See USP Controlled Room Temperature.]

@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term carcinogenicity studies have not been conducted with valganciclovir.
 However, upon oral administration, valganciclovir is rapidly and extensively converted to ganciclovir.
