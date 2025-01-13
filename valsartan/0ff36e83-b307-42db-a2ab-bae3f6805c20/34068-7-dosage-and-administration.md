@@ -19,7 +19,7 @@ For pediatric patients children who cannot swallow tablets, or children for whom
 Follow the suspension preparation instructions below to administer valsartan as a suspension.
 When the suspension is replaced by a tablet, the dose of valsartan may have to be increased.
 The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m 2.
 [See Pediatric Use (8.4)].
 Valsartan tablets are not recommended for patients <6 years old.
 [See Adverse Reactions (6.1), Clinical Studies (14.1)].

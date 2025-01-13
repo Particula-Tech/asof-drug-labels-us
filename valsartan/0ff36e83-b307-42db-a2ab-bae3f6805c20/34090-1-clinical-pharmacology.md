@@ -32,13 +32,13 @@ In multiple-dose studies in hypertensive patients, valsartan had no notable effe
 Absorption In healthy volunteers, valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for valsartan is about 25% (range 10% to 35%).
-The bioavailability of the suspension [see Dosage and Administration (2.2)] is 1.6 times as great as with the tablet.
-AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80 to 320 mg).
+The bioavailability of the suspension [see Dosage and Administration (2.2)]is 1.6 times as great as with the tablet.
+AUC and C maxvalues of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80 to 320 mg).
 Valsartan does not accumulate appreciably in plasma following repeated administration of 200 mg once daily.
 In heart failure patients, the average time to peak plasma concentration and elimination half-life of valsartan are similar to those observed in healthy volunteers.
 The average accumulation factor is about 1.7 in heart failure patients following repeated administration of 160 mg twice daily.
-AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose from 40 to 160 mg twice a day.
-Effect of Food With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50 %.
+AUC and C maxvalues of valsartan increase linearly and are almost proportional with increasing dose from 40 to 160 mg twice a day.
+Effect of Food With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (C max) by about 50 %.
 Valsartan can be administered with or without food.
 Distribution: The steady state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
@@ -53,13 +53,13 @@ The apparent clearance of valsartan following oral administration is approximate
 Age does not affect the apparent clearance in heart failure patients.
 Specific Populations: Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 [see Use in Specific Populations (8.5)].
-Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of Diovan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
-Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
-Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment (down to creatinine clearance of 10 mL/min).
+Pediatric:In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of Diovan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Gender:Pharmacokinetics of valsartan does not differ significantly between males and females.
+Renal Insufficiency:There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment (down to creatinine clearance of 10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis [see Use in Specific Populations (8.6)].
-Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
+Hepatic Insufficiency:On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
 Drug Interaction Studies No clinically significant pharmacokinetic interactions were observed when Diovan (valsartan) was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
 The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
 Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
-Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
+Transporters:The results from an in vitrostudy with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
 Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.

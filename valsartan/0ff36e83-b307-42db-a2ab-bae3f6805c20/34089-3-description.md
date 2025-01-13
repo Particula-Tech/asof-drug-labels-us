@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-Valsartan, USP is a nonpeptide, orally active, and specific angiotensin II receptor blocker acting on the AT1 receptor subtype.
+Valsartan, USP is a nonpeptide, orally active, and specific angiotensin II receptor blocker acting on the AT 1receptor subtype.
 Valsartan, USP is chemically described as L-valine, N-(1-oxopentyl)-N-[[2'-(1H-tetrazol-5-yl) [1,1'-biphenyl]-4-yl]methyl]-.
-Its empirical formula is C24H29N5O3, its molecular weight is 435.52, and its structural formula is
+Its empirical formula is C 24H 29N 5O 3, its molecular weight is 435.52, and its structural formula is
 
 Valsartan, USP is a white to an off-white powder.
 It is soluble in ethanol and methanol and insoluble in water.

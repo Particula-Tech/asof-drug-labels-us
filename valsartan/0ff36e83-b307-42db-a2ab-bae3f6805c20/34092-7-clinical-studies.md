@@ -45,7 +45,7 @@ At the end of the trial, patients in the valsartan group had a blood pressure th
 There were two primary end points, both assessed as time to first event: all-cause mortality and heart failure morbidity, the latter defined as all-cause mortality, sudden death with resuscitation, hospitalization for heart failure, and the need for intravenous inotropic or vasodilatory drugs for at least 4 hours.
 These results are summarized in the following table.
 
-|  | Placebo (N=2,499) | Valsartan (N=2,511) | Hazard Ratio (95% CI**) | Nominal p-value |
+|  | Placebo (N=2,499) | Valsartan (N=2,511) | Hazard Ratio (95% CI* *) | Nominal p-value |
 | --- | --- | --- | --- | --- |
 | All-cause mortality | 484 (19.4%) | 495 (19.7%) | 1.02 (0.90-1.15) | 0.8 |
 | HF morbidity | 801 (32.1%) | 723 (28.8%) | 0.87 (0.79-0.97) | 0.009 |

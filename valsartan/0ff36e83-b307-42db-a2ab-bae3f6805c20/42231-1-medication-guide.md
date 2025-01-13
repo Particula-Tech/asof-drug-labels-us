@@ -13,14 +13,13 @@ Valsartan tablets are a prescription medicine called an angiotensin receptor blo
 It is used in adults to: • lower high blood pressure (hypertension) in adults and children, 6 to 16 years of age. • treat heart failure in adults.
 In these patients, valsartan tablets may lower the need for hospitalization that happens from heart failure.
 Valsartan tablets are not for children under 6 years of age or children with certain kidney problems.
-High Blood Pressure (Hypertension).
-Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
+High Blood Pressure (Hypertension).Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 Valsartan tablet can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
-Heart Failure occurs when the heart is weak and cannot pump enough blood to your lungs and the rest of your body.
+Heart Failureoccurs when the heart is weak and cannot pump enough blood to your lungs and the rest of your body.
 Just walking or moving can make you short of breath, so you may have to rest a lot.
 What should I tell my doctor before taking valsartan tablets?
 Tell your doctor about all your medical conditions including whether you: • have any allergies.
@@ -30,7 +29,7 @@ It is not known if valsartan passes into your breast milk.
 You and your doctor should decide if you will take valsartan tablet or breast-feed, but not both.
 Talk with your doctor about the best way to feed your baby if you take valsartan tablets. • have ever had a reaction called angioedema, to another blood pressure medicine.
 Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
-Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you takeincluding prescription and nonprescription medicines, vitamins and herbal supplements.
 Especially tell your doctor if you take: • other medicines for high blood pressure or a heart problem • water pills (also called "diuretics") • potassium supplements.
 Your doctor may check the amount of potassium in your blood periodically • a salt substitute.
 Your doctor may check the amount of potassium in your blood periodically • Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen) • certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
@@ -84,5 +83,5 @@ Camber Pharmaceuticals, Inc.
 
 Piscataway, NJ 08854
 
-By: HETEROTM HETERO LABS LIMITED, Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
+By: HETERO TM HETERO LABS LIMITED, Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
 Revised: 09/ 2019

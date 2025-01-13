@@ -60,18 +60,18 @@ Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated 
 | Blood creatinine increased | 0.6% | 0.4% |
 | Rash NOS | 0.2% | 0.6% |
 
-Clinical Laboratory Test Findings Creatinine: In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
+Clinical Laboratory Test Findings Creatinine:In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
 In post myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
-Neutropenia: Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
-Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
+Neutropenia:Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
+Blood Urea Nitrogen (BUN):In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
 [see Warnings and Precautions (5.3)]
 
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been reported in postmarketing use of valsartan.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Hypersensitivity: There are rare reports of angioedema.
+Hypersensitivity:There are rare reports of angioedema.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
 Valsartan should not be re-administered to patients who have had angioedema.
-Digestive: Elevated liver enzymes and very rare reports of hepatitis.
-Musculoskeletal: Rhabdomyolysis Renal: Impaired renal function, renal failure Dermatologic: Alopecia, bullous dermatitis Blood and Lymphatic: Thrombocytopenia Vascular: Vasculitis
+Digestive:Elevated liver enzymes and very rare reports of hepatitis.
+Musculoskeletal:Rhabdomyolysis Renal:Impaired renal function, renal failure Dermatologic:Alopecia, bullous dermatitis Blood and Lymphatic:Thrombocytopenia Vascular:Vasculitis

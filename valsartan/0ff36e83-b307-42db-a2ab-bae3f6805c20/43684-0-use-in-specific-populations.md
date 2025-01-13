@@ -22,7 +22,7 @@ If oligohydramnios is observed, consider alternative drug treatment.
 Closely observe neonates with histories of in utero exposure to valsartan for hypotension, oliguria, and hyperkalemia.
 In neonates with a history of in utero exposure to valsartan, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
-Data Animal Data No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the MRHD on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
+Data Animal Data No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the MRHD on a mg/m 2basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
 In rats, oral valsartan administered at maternally toxic doses (600 mg/kg/day) during organogenesis or late gestation and lactation, resulted in decreased fetal and pup weight, pup survival and delayed developmental milestones.
 In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxicity was observed.
 
@@ -40,7 +40,7 @@ The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to
 Valsartan were generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
 Valsartan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m 2.
 There is limited clinical experience with valsartan in pediatric patients with mild to moderate hepatic impairment [See Warnings and Precautions (5.3)].
 
 ## 8.5 Geriatric Use
