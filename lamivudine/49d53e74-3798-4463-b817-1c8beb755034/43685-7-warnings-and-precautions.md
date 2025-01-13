@@ -31,7 +31,7 @@ Treatment with lamivudine should be stopped immediately if clinical signs, sympt
 ## 5.4 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including lamivudine.
-During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium aviuminfection, cytomegalovirus, Pneumocystis jiroveciipneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 Autoimmune disorders (such as Graves' disease, polymyositis, and Guilla in-Barrѐ syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment..
 
 ## 5.5 Lower Virologic Suppression Rates and Increased Risk of Viral Resistance with Oral Solution

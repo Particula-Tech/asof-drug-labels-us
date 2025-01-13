@@ -3,12 +3,10 @@
 Lamivudine (lah-MEH-vyoo-deen) Tablets
 
 What is the most important information I should know about lamivudine tablets?
-Lamivudine tablets can cause serious side effects, including: • Worsening of hepatitis B virus in people who have HIV-1 infection.
-If you have HIV-1 (Human Immunodeficiency Virus type 1) and hepatitis B virus (HBV) infection, your HBV may get worse (flare-up) if you stop taking lamivudine tablets.
+Lamivudine tablets can cause serious side effects, including: • Worsening of hepatitis B virus in people who have HIV-1 infection.If you have HIV-1 (Human Immunodeficiency Virus type 1) and hepatitis B virus (HBV) infection, your HBV may get worse (flare-up) if you stop taking lamivudine tablets.
 A ''flare-up'' is when your HBV infection suddenly returns in a worse way than before.
 Worsening liver disease can be serious and may lead to death. • Do not run out of lamivudine tablets.
-Refill your prescription or talk to your healthcare provider before your lamivudine tablets are all gone. • Do not stop lamivudine tablets without first talking to your healthcare provider. • If you stop taking lamivudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver. • Resistant Hepatitis B Virus (HBV).
-If you have HIV-1 and hepatitis B, the hepatitis B virus can change (mutate) during your treatment with lamivudine tablets and become harder to treat (resistant).
+Refill your prescription or talk to your healthcare provider before your lamivudine tablets are all gone. • Do not stop lamivudine tablets without first talking to your healthcare provider. • If you stop taking lamivudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver. • Resistant Hepatitis B Virus (HBV).If you have HIV-1 and hepatitis B, the hepatitis B virus can change (mutate) during your treatment with lamivudine tablets and become harder to treat (resistant).
 What are lamivudine tablets?
 Lamivudine tablets are a prescription medicine used together with other antiretroviral medicines to treat Human Immunodeficiency Virus (HIV-1) infection.
 HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
@@ -16,23 +14,21 @@ Lamivudine tablets (used to treat HIV-1 infection) contain a higher dose of the 
 If you have both HIV-1 and HBV, you should not use EPIVIR-HBV to treat your infections.
 The safety and effectiveness of lamivudine tablets have not been established in children under 3 months of age.
 Who should not take lamivudine tablets?
-Do not take lamivudine tablets if you are allergic to lamivudine or any of the ingredients in lamivudine tablets.
+Do not take lamivudine tabletsif you are allergic to lamivudine or any of the ingredients in lamivudine tablets.
 See the end of this Patient Information leaflet for a complete list of ingredients in lamivudine tablets.
 What should I tell my healthcare provider before taking lamivudine tablets?
 Before you take lamivudine tablets, tell your healthcare provider if you: • have or have had liver problems, including hepatitis B or C virus infection. • have kidney problems. • are pregnant or plan to become pregnant.
 Taking lamivudine tablets during pregnancy has not been associated with an increased risk of birth defects.
 Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-Pregnancy Registry.
-There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
+Pregnancy Registry.There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
 The purpose of this registry is to collect information about the health of you and your baby.
 Talk to your healthcare provider about how you can take part in this registry. • are breastfeeding or plan to breastfeed.
 Do not breastfeed if you take lamivudine tablets. • You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Some medications interact with lamivudine tablets.
 Keep a list of your medicines to show it to your healthcare provider and pharmacist when you get a new medicine.
 You can ask your healthcare provider or pharmacist for a list of medicines that interact with lamivudine tablets.
-Do not start taking a new medicine without telling your healthcare provider.
-Your healthcare provider can tell you if it is safe to take lamivudine tablets with other medicines.
+Do not start taking a new medicine without telling your healthcare provider.Your healthcare provider can tell you if it is safe to take lamivudine tablets with other medicines.
 How should I take lamivudine tablets? • Take lamivudine tablets exactly as your healthcare provider tells you to take them. • If you miss a dose of lamivudine tablets, take it as soon as you remember.
 Do not take 2 doses at the same time or take more than what your healthcare provider tells you to take. • Stay under the care of a healthcare provider during treatment with lamivudine tablets. • Lamivudine tablets may be taken with or without food. • For children 3 months and older, your healthcare provider will prescribe a dose of lamivudine tablets based on your child’s body weight. • Tell your healthcare provider if you or your child has trouble swallowing tablets.
 Lamivudine also comes as a liquid (oral solution). • Do not run out of lamivudine tablets.
@@ -42,14 +38,13 @@ When your supply starts to run low, get more from your healthcare provider or ph
 What are the possible side effects of lamivudine tablets? • Lamivudine tablets can cause serious side effects including: • See ''What is the most important information I should know about lamivudine tablets?''. • Build-up of an acid in your blood (lactic acidosis).
 Lactic acidosis can happen in some people who take lamivudine tablets.
 Lactic acidosis is a serious medical emergency that can cause death.
-Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis: o feel very weak or tired o feel cold, especially in your arms and legs o unusual (not normal) muscle pain o feel dizzy or light-headed o trouble breathing o have a fast or irregular heartbeat o stomach pain with nausea and vomiting • Serious liver problems can happen in people who take lamivudine.
+Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis: o feel very weak or tired o feel cold, especially in your arms and legs o unusual (not normal) muscle pain o feel dizzy or light-headed o trouble breathing o have a fast or irregular heartbeat o stomach pain with nausea and vomiting • Serious liver problemscan happen in people who take lamivudine.
 In some cases, these serious liver problems can lead to death.
 Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis).
 Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems: o your skin or the white part of your eyes turns yellow (jaundice) o loss of appetite for several days or longer o dark or ''tea-colored'' urine o nausea o light-colored stools (bowel movements) o pain, aching, or tenderness on the right side of your You may be more likely to get lactic acidosis or serious liver problems if you are female or very overweight (obese). • Risk of inflammation of the pancreas (pancreatitis).
 Children may be at risk for developing pancreatitis during treatment with lamivudine tablets if they: • have taken nucleoside analogue medicines in the past • have a history of pancreatitis • have other risk factors for pancreatitis
 
-Call your healthcare provider right away if your child develops signs and symptoms of pancreatitis including severe upper stomach-area pain, with or without nausea and vomiting.
-Your healthcare provider may tell you to stop giving lamivudine tablets to your child if their symptoms and blood test results show that your child may have pancreatitis. •Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV-1 medicines.
+Call your healthcare provider right away if your child develops signs and symptoms of pancreatitis including severe upper stomach-area pain, with or without nausea and vomiting.Your healthcare provider may tell you to stop giving lamivudine tablets to your child if their symptoms and blood test results show that your child may have pancreatitis. •Changes in your immune system (Immune Reconstitution Syndrome)can happen when you start taking HIV-1 medicines.
 Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
 Tell your healthcare provider right away if you start having new symptoms after you start taking lamivudine tablets.
 
@@ -67,13 +62,13 @@ It may harm them.
 You can ask your healthcare provider or pharmacist for information about lamivudine tablets that is written for health professionals.
 
 What are the ingredients in lamivudine tablets?
-Active ingredient: lamivudine USP Inactive ingredients: crospovidone, isomalt, isopropyl alcohol, magnesium stearate and methylene chloride.
+Active ingredient:lamivudine USP Inactive ingredients:crospovidone, isomalt, isopropyl alcohol, magnesium stearate and methylene chloride.
 The tablets are coated with opadry white containing hypromellose, polyethylene glycol, polysorbate 80 and titanium dioxide.
 
 For more information, call 1-866-495-1995.
 Medication Guide available at http://camberpharma.com/medication-guides
 
-Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited,Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
+Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited,Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
 The brands listed are trademarks of their respective owners and are not trademarks of the Hetero Labs Limited.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Revised: 07/2019

@@ -12,47 +12,47 @@ Results are summarized in Table 9.
 Table 9.
 Number of Subjects (%) with at Least One HIV-1 Disease Progression Event or Death
 
-| Endpoint | Current Therapy (n = 460) | Lamivudine plus Current Therapy (n = 896) | Lamivudine plus an NNRTIa plus Current Therapy (n = 460) |
+| Endpoint | Current Therapy (n = 460) | Lamivudine plus Current Therapy (n = 896) | Lamivudine plus an NNRTI aplus Current Therapy (n = 460) |
 | --- | --- | --- | --- |
 | HIV-1 progression or death Death | 90 (19.6%) 27 (5.9%) | 86 (9.6%) 23 (2.6%) | 41 (8.9%) 14 (3%) |
 
-a An investigational non-nucleoside reverse transcriptase inhibitor not approved in the United States.
-Surrogate Endpoint Trials Dual Nucleoside Analogue Trials: Principal clinical trials in the initial development of lamivudine compared lamivudine/zidovudine combinations with zidovudine monotherapy or with zidovudine plus zalcitabine.
+aAn investigational non-nucleoside reverse transcriptase inhibitor not approved in the United States.
+Surrogate Endpoint Trials Dual Nucleoside Analogue Trials:Principal clinical trials in the initial development of lamivudine compared lamivudine/zidovudine combinations with zidovudine monotherapy or with zidovudine plus zalcitabine.
 These trials demonstrated the antiviral effect of lamivudine in a 2-drug combination.
 More recent uses of lamivudine in treatment of HIV-1 infection incorporate it into multiple-drug regimens containing at least 3 antiretroviral drugs for enhanced viral suppression.
-Dose Regimen Comparison Surrogate Endpoint Trials in Therapy-Naive Adults: EPV20001 was a multicenter, double-blind, controlled trial in which subjects were randomized 1:1 to receive lamivudine 300 mg once daily or lamivudine 150 mg twice daily, in combination with zidovudine 300 mg twice daily and efavirenz 600 mg once daily.
-A total of 554 antiretroviral treatment-naive HIV-1-infected adults enrolled: male (79%), white (50%), median age of 35 years, baseline CD4+ cell counts of 69 to 1,089 cells per mm3 (median = 362 cells per mm3), and median baseline plasma HIV-1RNA of 4.66 log10 copies per mL.
+Dose Regimen Comparison Surrogate Endpoint Trials in Therapy-Naive Adults:EPV20001 was a multicenter, double-blind, controlled trial in which subjects were randomized 1:1 to receive lamivudine 300 mg once daily or lamivudine 150 mg twice daily, in combination with zidovudine 300 mg twice daily and efavirenz 600 mg once daily.
+A total of 554 antiretroviral treatment-naive HIV-1-infected adults enrolled: male (79%), white (50%), median age of 35 years, baseline CD4+ cell counts of 69 to 1,089 cells per mm 3 (median = 362 cells per mm 3), and median baseline plasma HIV-1RNA of 4.66 log10 copies per mL.
 Outcomes of treatment through 48 weeks are summarized in Figure 1 and Table 10.
 Figure 1.
-Virologic Response through Week 48, EPV20001a,b (Intent-to-Treat) a Roche AMPLICOR HIV-1 MONITOR. b Responders at each visit are subjects who had achieved and maintained HIV-1 RNA less than 400 copies per mL without discontinuation by that visit.
+Virologic Response through Week 48, EPV20001 a,b (Intent-to-Treat) a Roche AMPLICOR HIV-1 MONITOR. bResponders at each visit are subjects who had achieved and maintained HIV-1 RNA less than 400 copies per mL without discontinuation by that visit.
 Table 10.
 Outcomes of Randomized Treatment through 48 Weeks (Intent-to-Treat)
 
-| Outco me | La m ivudine 300 mg Once Daily plus RETROVIR plus Efavirenz (n = 278) | La m ivudine 150 mg Twice Daily plus RETROVIR plus Efavirenz (n = 276) |
+| Outcome | Lamivudine 300 mg Once Daily plus RETROVIR plus Efavirenz (n = 278) | Lamivudine 150 mg Twice Daily plus RETROVIR plus Efavirenz (n = 276) |
 | --- | --- | --- |
-| Respondera Virologic failureb Discontinued due to clinicalprogression Discontinued due to adverse events Discontinued due to other reasonsc | 67% 8% <1% 6% 18% | 65% 8% 0% 12% 14% |
+| Responder a Virologic failure b Discontinued due to clinicalprogression Discontinued due to adverse events Discontinued due to other reasons c | 67% 8% <1% 6% 18% | 65% 8% 0% 12% 14% |
 
-a Achieved confirmed plasma HIV-1 RNA less than 400 copies per mL and maintained through 48 weeks. b Achieved suppression but rebounded by Week 48, discontinued due to virologic failure, insufficient viral response according to the investigator, or never suppressed through Week 48. c Includes consent withdrawn, lost to follow-up, protocol violation, data outside the trial-defined schedule, and randomized but never initiated treatment.
+aAchieved confirmed plasma HIV-1 RNA less than 400 copies per mL and maintained through 48 weeks. bAchieved suppression but rebounded by Week 48, discontinued due to virologic failure, insufficient viral response according to the investigator, or never suppressed through Week 48. cIncludes consent withdrawn, lost to follow-up, protocol violation, data outside the trial-defined schedule, and randomized but never initiated treatment.
 The proportions of subjects with HIV-l RNA less than 50 copies per mL (via Roche Ultrasensitive assay) through Week 48 were 61% for subjects receiving lamivudine 300 mg once daily and 63% for subjects receiving lamivudine 150 mg twice daily.
-Median increases in CD4+ cell counts were 144 cells per mm3 at Week 48 in subjects receiving lamivudine 300 mg once daily and 146 cells per mm3 for subjects receiving lamivudine 150 mg twice daily.
+Median increases in CD4+ cell counts were 144 cells per mm 3 at Week 48 in subjects receiving lamivudine 300 mg once daily and 146 cells per mm 3for subjects receiving lamivudine 150 mg twice daily.
 
 A small, randomized, open-label pilot trial, EPV40001, was conducted in Thailand.
-A total of 159 treatment-naive adult subjects (male 32%, Asian 100%, median age 30 years, baseline median CD4+ cell count 380 cells per mm3, median plasma HIV-1 RNA 4.8 log10 copies per mL) were enrolled.
+A total of 159 treatment-naive adult subjects (male 32%, Asian 100%, median age 30 years, baseline median CD4+ cell count 380 cells per mm 3, median plasma HIV-1 RNA 4.8 log 10copies per mL) were enrolled.
 Two of the treatment arms in this trial provided a comparison between lamivudine 300 mg once daily (n = 54) and lamivudine 150 mg twice daily (n = 52), each in combination with zidovudine 300 mg twice daily and abacavir 300 mg twice daily.
-In intent-to-treat analyses of 48-week data, the proportions of subjects with HIV-1 RNA below 400 copies per mL were 61% (33 of 54) in the group randomized to once-daily lamivudine and 75% (39 of 52) in the group randomized to receive all 3 drugs twice daily; the proportions with HIV-l RNA below 50 copies per mL were 54% (29 of 54) in the once-daily lamivudine group and 67% (35 of 52) in the all-twice-daily group; and the median increases in CD4+ cell counts were 166 cells per mm3 in the once-daily lamivudine group and 216 cells per mm3 in the all-twice-daily group.
+In intent-to-treat analyses of 48-week data, the proportions of subjects with HIV-1 RNA below 400 copies per mL were 61% (33 of 54) in the group randomized to once-daily lamivudine and 75% (39 of 52) in the group randomized to receive all 3 drugs twice daily; the proportions with HIV-l RNA below 50 copies per mL were 54% (29 of 54) in the once-daily lamivudine group and 67% (35 of 52) in the all-twice-daily group; and the median increases in CD4+ cell counts were 166 cells per mm 3 in the once-daily lamivudine group and 216 cells per mm 3in the all-twice-daily group.
 
 ## 14.2 Pediatric Subjects
 
 Clinical Endpoint Trial ACTG300 was a multicenter, randomized, double-blind trial that provided for comparison of lamivudine plus RETROVIR (zidovudine) with didanosine monotherapy.
 A total of 471 symptomatic, HIV-1-infected therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects were enrolled in these 2 treatment arms.
 The median age was 2.7 years (range: 6 weeks to 14 years), 58% were female, and 86% were non-white.
-The mean baseline CD4+ cell count was 868 cells per mm3 (mean: 1,060 cells per mm3 and range: 0 to 4,650 cells per mm3 for subjects aged less than or equal to 5 years; mean: 419 cells per mm3 and range: 0 to 1,555 cells per mm3 for subjects aged over 5 years) and the mean baseline plasma HIV-1 RNA was 5 log10 copies per mL.
+The mean baseline CD4+ cell count was 868 cells per mm 3(mean: 1,060 cells per mm 3and range: 0 to 4,650 cells per mm 3for subjects aged less than or equal to 5 years; mean: 419 cells per mm 3and range: 0 to 1,555 cells per mm 3for subjects aged over 5 years) and the mean baseline plasma HIV-1 RNA was 5 log 10copies per mL.
 The median duration on trial was 10.1 months for the subjects receiving lamivudine plus RETROVIR and 9.2 months for subjects receiving didanosine monotherapy.
 Results are summarized in Table 11.
 Table 11.
 Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression or Death)
 
-| Endpoint | La m ivudine plus RETROVIR (n = 236) | Didanosine (n = 235) |
+| Endpoint | Lamivudine plus RETROVIR (n = 236) | Didanosine (n = 235) |
 | --- | --- | --- |
 | HIV-1 disease progression or death (total) Physical growth failure Central nervous system deterioration CDC Clinical Category C Death | 15 (6.4%) 7 (3%) 4 (1.7%) 2 (0.8%) 2 (0.8%) | 37 (15.7%) 6 (2.6%) 12 (5.1%) 8 (3.4%) 11 (4.7%) |
 
@@ -64,16 +64,16 @@ Virologic suppression was not a requirement for participation: at baseline for R
 The proportion of subjects with HIV-1 RNA of less than 80 copies per mL through 96 weeks is shown in Table 12.
 The differences between virologic responses in the two treatment arms were comparable across baseline characteristics for gender and age.
 Table 12.
-Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
+Virologic Outcome of Randomized Treatment at Week 96 a(ARROW Randomization 3)
 
 | Outcome | Lamivudine plus Abacavir Twice-Daily Dosing (n = 333) | Lamivudine plus Abacavir Once-Daily Dosing (n = 336) |
 | --- | --- | --- |
-| HIV-1 RNA <80 copies/mLb | 70% | 67% |
-| HIV-1 RNA ≥80 copies/mLc No virologic data | 28% | 31% |
+| HIV-1 RNA <80 copies/mL b | 70% | 67% |
+| HIV-1 RNA ≥80 copies/mL c No virologic data | 28% | 31% |
 | Discontinued due to adverse event or death | 1% | <1% |
-| Discontinued study for other reasonsd | 0% | <1% |
+| Discontinued study for other reasons d | 0% | <1% |
 | Missing data during window but on study | 1% | 1% |
 
-a Analyses were based on the last observed viral load data within the Week 96 window. b Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. c Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. d Other includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing).
+aAnalyses were based on the last observed viral load data within the Week 96 window. bPredicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. cIncludes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. dOther includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing).
 Analyses by formulation demonstrated the proportion of subjects with HIV-1 RNA of less than 80 copies per mL at randomization and Week 96 was higher in subjects who had received tablet formulations of lamivudine and abacavir (75% [458/610] and 72% [434/601]) than in those who had received solution formulation(s) (with lamivudine solution given at weight band-based doses approximating 8 mg per kg per day) at any time (52% [29/56] and 54% [30/56]), respectively [see Warnings and Precautions (5.5)].
 These differences were observed in each different age group evaluated.
