@@ -1,47 +1,54 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in other sections of the labeling: • Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)]. • Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
+The following adverse reactions are discussed in other sections of the labeling:
+
+• Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)]. • Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
 ## 6.1 Clinical Trial Experience in Adults
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-Clinical Trial Experience in Adults Compensated Liver Disease Assessment of adverse reactions is based on four studies (AI463014, AI463022, AI463026, and AI463027) in which 1720 subjects with chronic hepatitis B virus infection and compensated liver disease received double-blind treatment with entecavir tablets 0.5 mg/day (n=679), entecavir tablets 1 mg/day (n=183), or lamivudine (n=858) for up to 2 years.
-Median duration of therapy was 69 weeks for entecavir tablets-treated subjects and 63 weeks for lamivudine-treated subjects in Studies AI463022 and AI463027 and 73 weeks for entecavir tablets-treated subjects and 51 weeks for lamivudine-treated subjects in Studies AI463026 and AI463014.
-The safety profiles of entecavir tablets and lamivudine were comparable in these studies.
-The most common adverse reactions of any severity (≥3%) with at least a possible relation to study drug for entecavir tablets-treated subjects were headache, fatigue, dizziness, and nausea.
+
+Clinical Trial Experience in Adults
+
+Compensated Liver Disease
+
+Assessment of adverse reactions is based on four studies (AI463014, AI463022, AI463026, and AI463027) in which 1720 subjects with chronic hepatitis B virus infection and compensated liver disease received double-blind treatment with entecavir 0.5 mg/day (n=679), entecavir 1 mg/day (n=183), or lamivudine (n=858) for up to 2 years.
+Median duration of therapy was 69 weeks for entecavir-treated subjects and 63 weeks for lamivudine-treated subjects in Studies AI463022 and AI463027 and 73 weeks for entecavir-treated subjects and 51 weeks for lamivudine-treated subjects in Studies AI463026 and AI463014.
+The safety profiles of entecavir and lamivudine were comparable in these studies.
+
+The most common adverse reactions of any severity (≥3%) with at least a possible relation to study drug for entecavir-treated subjects were headache, fatigue, dizziness, and nausea.
 The most common adverse reactions among lamivudine-treated subjects were headache, fatigue, and dizziness.
-One percent of entecavir tablets-treated subjects in these four studies compared with 4% of lamivudine-treated subjects discontinued for adverse events or abnormal laboratory test results.
-Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which entecavir tablets were compared with lamivudine are presented in Table 3.
+One percent of entecavir-treated subjects in these four studies compared with 4% of lamivudine-treated subjects discontinued for adverse events or abnormal laboratory test results.
 
-| Table 3: |  | Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4) Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |  |
+Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which entecavir was compared with lamivudine are presented in Table 3.
+
+| Table 3: |  | Clinical Adverse Reactions aof Moderate-Severe Intensity (Grades 2–4) Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Nucleoside-Inhibitor-Naïve b |  | Lamivudine-Refractory c |  |
+| Body System/ Adverse Reaction |  | Entecavir 0.5 mg n=679 | Lamivudine 100 mg n=668 | Entecavir 1 mg n=183 | Lamivudine 100 mg n=190 |
+| Any Grade 2–4 adverse reaction a |  | 15% | 18% | 22% | 23% |
+| Gastrointestinal |  |  |  |  |  |
+| Diarrhea |  | <1% | 0 | 1% | 0 |
+| Dyspepsia |  | <1% | <1% | 1% | 0 |
+| Nausea |  | <1% | <1% | <1% | 2% |
+| Vomiting |  | <1% | <1% | <1% | 0 |
+| General |  |  |  |  |  |
+| Fatigue |  | 1% | 1% | 3% | 3% |
+| Nervous System |  |  |  |  |  |
+| Headache |  | 2% | 2% | 4% | 1% |
+| Dizziness |  | <1% | <1% | 0 | 1% |
+| Somnolence |  | <1% | <1% | 0 | 0 |
+| Psychiatric |  |  |  |  |  |
+| Insomnia | <1% |  | <1% | 0 | <1% |
+
+a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Studies AI463022 and AI463027. c Includes Study AI463026 and the entecavir 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of entecavir (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy.
+Laboratory Abnormalities Frequencies of selected treatment-emergent laboratory abnormalities reported during therapy in four clinical trials of entecavir compared with lamivudine are listed in Table 4.
+
+| Table 4: Selected Treatment-Emergent aLaboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Nucleoside-Inhibitor-Naïveb |  |  | Lamivudine-Refractoryc |  |
-|  |  | Entecavir Tablets 0.5 mg n=679 | Lamivudine 100 mg n=668 |  | Entecavir Tablets 1 mg n=183 | Lamivudine 100 mg n=190 |
-| Body System/ |  |  |  |  |  |  |
-| Adverse Reaction |  |  |  |  |  |  |
-| Any Grade 2–4 adverse reactiona |  | 15% | 18% |  | 22% | 23% |
-| Gastrointestinal |  |  |  |  |  |  |
-| Diarrhea |  | <1% |  | 0 | 1% | 0 |
-| Dyspepsia |  | <1% | <1% |  | 1% | 0 |
-| Nausea |  | <1% | <1% |  | <1% | 2% |
-| Vomiting |  | <1% | <1% |  | <1% | 0 |
-| General |  |  |  |  |  |  |
-| Fatigue |  | 1% | 1% |  | 3% | 3% |
-| Nervous System |  |  |  |  |  |  |
-| Headache |  | 2% | 2% |  | 4% | 1% |
-| Dizziness |  | <1% | <1% |  | 0 | 1% |
-| Somnolence |  | <1% | <1% |  | 0 | 0 |
-| Psychiatric |  |  |  |  |  |  |
-| Insomnia | <1% |  | <1% |  | 0 | <1% |
-
-a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Studies AI463022 and AI463027. c Includes Study AI463026 and the entecavir tablets 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of entecavir tablets (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy.
-Laboratory Abnormalities Frequencies of selected treatment-emergent laboratory abnormalities reported during therapy in four clinical trials of entecavir tablets compared with lamivudine are listed in Table 4.
-
-| Table 4: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Nucleoside-Inhibitor-Naïveb |  |  |  | Lamivudine-Refractoryc |  |
-| Test | Entecavir Tablets 0.5 mg n=679 |  | Lamivudine 100 mg n=668 |  | Entecavir Tablets 1 mg n=183 | Lamivudine 100 mg n=190 |
-| Any Grade 3–4 laboratory abnormalityd | 35% |  | 36% |  | 37% | 45% |
+|  | Nucleoside-Inhibitor-Naïve b |  |  |  | Lamivudine-Refractory c |  |
+| Test | Entecavir 0.5 mg n=679 |  | Lamivudine 100 mg n=668 |  | Entecavir 1 mg n=183 | Lamivudine 100 mg n=190 |
+| Any Grade 3–4 laboratory abnormality d | 35% |  | 36% |  | 37% | 45% |
 | ALT >10 x ULN and >2 x | 2% |  | 4% |  | 2% | 11% |
 | baseline |  |  |  |  |  |  |
 | ALT >5 x ULN | 11% |  | 16% |  | 12% | 24% |
@@ -52,65 +59,95 @@ Laboratory Abnormalities Frequencies of selected treatment-emergent laboratory a
 | Confirmed creatinine increase | 1% |  | 1% |  | 2% | 1% |
 | >0.5 mg/dL |  |  |  |  |  |  |
 | Hyperglycemia, fasting > 250 mg/dL | 2% | 1% |  | 3% |  | 1% |
-| Glycosuriae | 4% | 3% |  | 4% |  | 6% |
-| Hematuriaf | 9% | 10% |  | 9% |  | 6% |
-| Platelets <50,000/mm3 | <1% | <1% |  | <1% |  | <1% |
+| Glycosuria e | 4% | 3% |  | 4% |  | 6% |
+| Hematuria f | 9% | 10% |  | 9% |  | 6% |
+| Platelets <50,000/mm 3 | <1% | <1% |  | <1% |  | <1% |
 
-a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase >0.5 mg/dL, and ALT >10 x ULN and >2 x baseline. b Studies AI463022 and AI463027. c Includes Study AI463026 and the entecavir tablets 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of entecavir tablets (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. e Grade 3 = 3+, large, >500 mg/dL; Grade 4 = 4+, marked, severe. f Grade 3 = 3+, large; Grade 4 = >4+, marked, severe, many.
+a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 x ULN and >2 x baseline. b Studies AI463022 and AI463027. c Includes Study AI463026 and the entecavir 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of entecavir (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. e Grade 3 = 3+, large, ≥500 mg/dL; Grade 4 = 4+, marked, severe. f Grade 3 = 3+, large; Grade 4 = ≥4+, marked, severe, many.
 ULN=upper limit of normal.
 
-Among entecavir tablets-treated subjects in these studies, on-treatment ALT elevations greater than 10 times the upper limit of normal (ULN) and greater than 2 times baseline generally resolved with continued treatment.
-A majority of these exacerbations were associated with a >2 log10/mL reduction in viral load that preceded or coincided with the ALT elevation.
+Among entecavir-treated subjects in these studies, on-treatment ALT elevations greater than 10 times the upper limit of normal (ULN) and greater than 2 times baseline generally resolved with continued treatment.
+A majority of these exacerbations were associated with a ≥2 log 10/mL reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment.
-Exacerbations of Hepatitis after Discontinuation of Treatment An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject’s reference level (minimum of the baseline or last measurement at end of dosing).
+
+Exacerbations of Hepatitis After Discontinuation of Treatment An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject’s reference level (minimum of the baseline or last measurement at end of dosing).
 For all subjects who discontinued treatment (regardless of reason), Table 5 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
 In these studies, a subset of subjects was allowed to discontinue treatment at or after 52 weeks if they achieved a protocol-defined response to therapy.
-If entecavir tablets are discontinued without regard to treatment response, the rate of post-treatment flares could be higher.
+If entecavir is discontinued without regard to treatment response, the rate of post-treatment flares could be higher.
 [See Warnings and Precautions (5.1).]
 
 | Table 5: | Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in Studies AI463022, AI463027, and AI463026 |  |  |
 | --- | --- | --- | --- |
-| Subjects with ALT Elevations >10 x ULN and >2 x Referencea |  |  |  |
-|  |  | Entecavir Tablets | Lamivudine |
+| Subjects with ALT Elevations >10x ULN and >2x Reference a |  |  |  |
+|  |  | Entecavir | Lamivudine |
 | Nucleoside-inhibitor-naïve |  |  |  |
 | HBeAg-positive |  | 4/174 (2%) | 13/147 (9%) |
 | HBeAg-negative |  | 24/302 (8%) | 30/270 (11%) |
 | Lamivudine-refractory |  | 6/52 (12%) | 0/16 |
 
-a Reference is the minimum of the baseline or last measurement at end of dosing.
-Median time to off-treatment exacerbation was 23 weeks for entecavir tablets-treated subjects and 10 weeks for lamivudine-treated subjects.
-Decompensated Liver Disease Study AI463048 was a randomized, open-label study of entecavir tablets 1 mg once daily versus adefovir dipivoxil 10 mg once daily given for up to 48 weeks in adult subjects with chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher [see Clinical Studies (14.1)].
-Among the 102 subjects receiving entecavir tablets, the most common treatment-emergent adverse events of any severity, regardless of causality, occurring through Week 48 were peripheral edema (16%), ascites (15%), pyrexia (14%), hepatic encephalopathy (10%), and upper respiratory infection (10%).
+aReference is the minimum of the baseline or last measurement at end of dosing.
+Median time to off-treatment exacerbation was 23 weeks for entecavir-treated subjects and 10 weeks for lamivudine-treated subjects.
+
+Decompensated Liver Disease Study AI463048 was a randomized, open-label study of entecavir 1 mg once daily versus adefovir dipivoxil 10 mg once daily given for up to 48 weeks in adult subjects with chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher [see Clinical Studies (14.1)].
+Among the 102 subjects receiving entecavir, the most common treatment-emergent adverse events of any severity, regardless of causality, occurring through Week 48 were peripheral edema (16%), ascites (15%), pyrexia (14%), hepatic encephalopathy (10%), and upper respiratory infection (10%).
 Clinical adverse reactions not listed in Table 3 that were observed through Week 48 include blood bicarbonate decreased (2%) and renal failure (<1%).
-Eighteen of 102 (18%) subjects treated with entecavir tablets and 18/89 (20%) subjects treated with adefovir dipivoxil died during the first 48 weeks of therapy.
-The majority of deaths (11 in the entecavir tablets group and 16 in the adefovir dipivoxil group) were due to liver-related causes such as hepatic failure, hepatic encephalopathy, hepatorenal syndrome, and upper gastrointestinal hemorrhage.
-The rate of hepatocellular carcinoma (HCC) through Week 48 was 6% (6/102) for subjects treated with entecavir tablets and 8% (7/89) for subjects treated with adefovir dipivoxil.
+
+Eighteen of 102 (18%) subjects treated with entecavir and 18/89 (20%) subjects treated with adefovir dipivoxil died during the first 48 weeks of therapy.
+The majority of deaths (11 in the entecavir group and 16 in the adefovir dipivoxil group) were due to liver-related causes such as hepatic failure, hepatic encephalopathy, hepatorenal syndrome, and upper gastrointestinal hemorrhage.
+The rate of hepatocellular carcinoma (HCC) through Week 48 was 6% (6/102) for subjects treated with entecavir and 8% (7/89) for subjects treated with adefovir dipivoxil.
 Five percent of subjects in either treatment arm discontinued therapy due to an adverse event through Week 48.
+
 No subject in either treatment arm experienced an on-treatment hepatic flare (ALT >2 x baseline and >10 x ULN) through Week 48.
-Eleven of 102 (11%) subjects treated with entecavir tablets and 11/89 (13%) subjects treated with adefovir dipivoxil had a confirmed increase in serum creatinine of 0.5 mg/dL through Week 48.
-HIV/HBV Co-infected The safety profile of entecavir tablets 1 mg (n=51) in HIV/HBV co-infected subjects enrolled in Study AI463038 was similar to that of placebo (n=17) through 24 weeks of blinded treatment and similar to that seen in non-HIV infected subjects [see Warnings and Precautions (5.2)].
-Liver Transplant Recipients Among 65 subjects receiving entecavir tablets in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir tablets.
-Clinical Trial Experience in Pediatric Subjects The safety of entecavir tablets in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
-These trials provide experience in 168 HBeAg-positive subjects treated with entecavir tablets for a median duration of 72 weeks.
-The adverse reactions observed in pediatric subjects who received treatment with entecavir tablets were consistent with those observed in clinical trials of entecavir tablets in adults.
-Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability (“product taste abnormal”), nausea, diarrhea, and vomiting
+Eleven of 102 (11%) subjects treated with entecavir and 11/89 (13%) subjects treated with adefovir dipivoxil had a confirmed increase in serum creatinine of 0.5 mg/dL through Week 48.
 
-.
+HIV/HBV Co-infected
 
-## 6.2 Clinical Trial Experience in Pediatric Subjects
+The safety profile of entecavir 1 mg (n=51) in HIV/HBV co-infected subjects enrolled in Study AI463038 was similar to that of placebo (n=17) through 24 weeks of blinded treatment and similar to that seen in non-HIV infected subjects [see Warnings and Precautions (5.2)].
 
-The following adverse reactions have been reported during postmarketing use of entecavir tablets.
-Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to entecavir tablets exposure.
-Immune system disorders: Anaphylactoid reaction.
-Metabolism and nutrition disorders: Lactic acidosis.
-Hepatobiliary disorders: Increased transaminases.
-Skin and subcutaneous tissue disorders: Alopecia, rash.
+Liver Transplant Recipients
 
-## 6.3 Postmarketing Experience
+Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
+Clinical Trial Experience in Pediatric Subjects
 
-The following adverse reactions ha ve been r eported during p ost marketi ng use of entecavir tablets.
-Because t hese reactions were rep orted volunta rily from a population of unknown size, it is not possible to reliably esti mate their frequency or esta blish a causal rel ati onship to entecavir tablets exposure.
-Immune system disorders: Anaphylactoid reaction.
-Metabolism and nutrition disorders: Lactic aci dosis.
-Hepatobiliary disorders: Increased transa mina ses.
-Skin and subcutaneous tissue disorders: Alopecia, rash.
+The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
+These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
+The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
+Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability (“product taste abnormal”), nausea, diarrhea, and vomiting.
+
+## 6.2 Postmarketing Experience
+
+Data from Long-Term Observational Study Study AI463080 was a randomized, global, observational, open-label Phase 4 study to assess long-¬term risks and benefits of entecavir (0.5 mg/day or 1 mg/day) treatment as compared to other standard-of-care HBV nucleos(t)ide analogues in subjects with chronic HBV infection.
+
+A total of 12,378 patients were treated with entecavir (n=6,216) or other HBV nucleos(t)ide treatment [non-entecavir (ETV)] (n=6,162).
+Patients were evaluated at baseline and subsequently every 6 months for up to 10 years.
+The principal clinical outcome events assessed during the study were overall malignant neoplasms, liver-related HBV disease progression, HCC, non-HCC malignant neoplasms, and death.
+The study showed that entecavir was not significantly associated with an increased risk of malignant neoplasms compared to other standard-of-care HBV nucleos(t)ides, as assessed by either the composite endpoint of overall malignant neoplasms or the individual endpoint of non-HCC malignant neoplasms.
+The most commonly reported malignancy in both the entecavir and non-ETV groups was HCC followed by gastrointestinal malignancies.
+The data also showed that long-term entecavir use was not associated with a lower occurrence of HBV disease progression or a lower rate of death overall compared to other HBV nucleos(t)ides.
+The principal clinical outcome event assessments are shown in Table 6.
+
+| Table 6: Principal Analyses of Time to Adjudicated Events – Randomized Treated Subjects |  |  |  |
+| --- | --- | --- | --- |
+| Endpoint c | Number of Subjects with Events |  | Hazard Ratio [Entecavir:Non-ETV] (CI a) |
+| Entecavir N=6,216 | Non-ETV N=6,162 |  |  |
+| Primary Endpoints |  |  |  |
+| Overall malignant neoplasm | 331 | 337 | 0.93 (0.800, 1.084) |
+| Liver-related HBV disease progression | 350 | 375 | 0.89 (0.769, 1.030) |
+| Death | 238 | 264 | 0.85 (0.713, 1.012) |
+| Secondary Endpoints |  |  |  |
+| Non-HCC malignant neoplasm | 95 | 81 | 1.10 (0.817, 1.478) |
+| HCC | 240 b | 263 | 0.87 (0.727, 1.032) |
+
+Analyses were stratified by geographic region and prior HBV nucleos(t)ide experience. a95.03% CI for overall malignant neoplasm, death, and liver-related HBV disease progression; 95% CI for non-HCC malignant neoplasm and HCC. bOne subject had a pre-treatment HCC event and was excluded from the analysis. cOverall malignant neoplasm is a composite event of HCC or non-HCC malignant neoplasm.
+Liver-related HBV disease progression is a composite event of liver-related death, HCC, or non-HCC HBV disease progression.
+CI = confidence interval; N = total number of subjects.
+
+Limitations of the study included population changes over the long-term follow-up period and more frequent post-randomization treatment changes in the non-ETV group.
+In addition, the study was underpowered to demonstrate a difference in the non-HCC malignancy rate because of the lower than expected background rate.
+
+Adverse Reactions from Postmarketing Spontaneous Reports The following adverse reactions have been reported during postmarketing use of entecavir.
+Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to entecavir exposure.
+Immune system disorders:Anaphylactoid reaction.
+Metabolism and nutrition disorders:Lactic acidosis.
+Hepatobiliary disorders:Increased transaminases.
+Skin and subcutaneous tissue disorders:Alopecia, rash.
