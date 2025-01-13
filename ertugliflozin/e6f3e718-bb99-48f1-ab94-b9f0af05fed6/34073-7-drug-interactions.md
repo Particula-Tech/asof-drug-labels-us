@@ -2,9 +2,9 @@
 
 Table 3: Clinically Significant Drug Interactions with STEGLATRO
 
-| Insulin and Insulin Secretagogues |  |
+| Insulin or Insulin Secretagogues |  |
 | --- | --- |
-| Clinical Impact: | The risk of hypoglycemia when STEGLATRO is used in combination with insulin and/or an insulin secretagogue. |
+| Clinical Impact: | The risk of hypoglycemia is increased when STEGLATRO is used in combination with insulin or an insulin secretagogue. |
 | Intervention: | A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLATRO. |
 | Lithium |  |
 | Clinical Impact: | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
