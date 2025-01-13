@@ -24,7 +24,7 @@ To deliver the recommended dosage for asthma:
 | --- | --- | --- | --- |
 
 The SPIRIVA RESPIMAT cartridge for each strength has a net fill weight of 4 grams and when used with the SPIRIVA RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations after preparation for use.
-Each actuation from the SPIRIVA RESPIMAT inhaler delivers 1.25 or 2.5 mcg of tiotropium (equivalent to 1.562 or 3.124 mcg, respectively, of tiotropium bromide monohydrate) from the mouthpiece.
+Each actuation from the SPIRIVA RESPIMAT inhaler delivers 1.25 mcg or 2.5 mcg of tiotropium (equivalent to 1.562 mcg or 3.124 mcg, respectively, of tiotropium bromide monohydrate) from the mouthpiece.
 
 When the labeled number of actuations has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
 

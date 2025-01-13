@@ -19,7 +19,7 @@ Tell your doctor about all of the medicines you take, including prescription and
 SPIRIVA RESPIMAT may affect the way some medicines work and some other medicines may affect the way SPIRIVA RESPIMAT works.
 Do not use other inhaled medicines with SPIRIVA RESPIMAT without talking to your doctor.
 
-The SPIRIVA RESPIMAT inhaler has a slow moving mist that helps you inhale the medicine.
+The SPIRIVA RESPIMAT inhaler has a slow-moving mist that helps you inhale the medicine.
 
 Do not turn the clear base before inserting the cartridge.
 
@@ -139,8 +139,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and RESPIMAT® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2025 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: November 2021
+Revised: January 2025
 
-COL10534AK082021
+COL10534BA022025 SPL10536D

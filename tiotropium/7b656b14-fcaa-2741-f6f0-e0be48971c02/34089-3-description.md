@@ -12,12 +12,12 @@ The structural formula is:
 Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br ∙ H2O.
 
 The drug product, SPIRIVA RESPIMAT, is composed of a sterile, aqueous solution of tiotropium bromide filled into a 4.5 mL plastic container crimped into an aluminum cylinder (SPIRIVA RESPIMAT cartridge) for use with the SPIRIVA RESPIMAT inhaler.
-Excipients include water for injection, edetate disodium, benzalkonium chloride and hydrochloric acid.
+Excipients include benzalkonium chloride, edetate disodium, hydrochloric acid, and water for injection.
 The SPIRIVA RESPIMAT cartridge is only intended for use with the SPIRIVA RESPIMAT inhaler.
-The RESPIMAT inhaler is a hand held, pocket sized oral inhalation device that uses mechanical energy to generate a slow moving aerosol cloud of medication from a metered volume of the drug solution.
+The RESPIMAT inhaler is a hand held, pocket sized oral inhalation device that uses mechanical energy to generate a slow-moving aerosol cloud of medication from a metered volume of the drug solution.
 
 When used with the SPIRIVA RESPIMAT inhaler, each cartridge containing 4 grams of sterile aqueous solution delivers the labeled number of metered actuations after preparation for use.
-Each dose (one dose equals two actuations) from the SPIRIVA RESPIMAT inhaler delivers 2.5 mcg or 5 mcg of tiotropium in 22.1 mcL from the mouthpiece.
+Each dose (one dose equals two actuations) from the SPIRIVA RESPIMAT inhaler delivers 2.5 mcg or 5 mcg of tiotropium (equivalent to 3.124 mcg or 6.247 mcg, respectively, of tiotropium bromide monohydrate) in 22.1 mcL from the mouthpiece.
 As with all inhaled drugs, the actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between the actuation of the inhaler and inspiration through the delivery system.
 The duration of inspiration should be at least as long as the spray duration (1.5 seconds).
 

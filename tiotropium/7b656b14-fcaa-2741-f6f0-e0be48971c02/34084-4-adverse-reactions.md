@@ -15,10 +15,10 @@ Since the same active ingredient (tiotropium bromide) is administered to COPD an
 
 The SPIRIVA RESPIMAT clinical development program included ten placebo controlled clinical trials in COPD.
 Two trials were four-week cross-over trials and eight were parallel group trials.
-The parallel group trials included a three week dose-ranging trial, two 12-week trials, three 48-week trials, and two trials of 4-week and 24-week duration conducted for a different program that contained tiotropium bromide 5 mcg treatment arms.
+The parallel group trials included a three-week dose-ranging trial, two 12-week trials, three 48-week trials, and two trials of 4-week and 24-week duration conducted for a different program that contained tiotropium bromide 5 mcg treatment arms.
 The primary safety database consists of pooled data from the 7 randomized, parallel-group, double-blind, placebo-controlled studies of 4-48 weeks in treatment duration.
-These trials included 6565 adult COPD patients (75% males and 25% females) 40 years of age and older.
-Of these patients, 3282 patients were treated with SPIRIVA RESPIMAT 5 mcg and 3283 received placebo.
+These trials included 6,565 adult COPD patients (75% males and 25% females) 40 years of age and older.
+Of these patients, 3,282 patients were treated with SPIRIVA RESPIMAT 5 mcg and 3,283 received placebo.
 The SPIRIVA RESPIMAT 5 mcg group was composed mostly of Caucasians (78%) with a mean age of 65 years and a mean baseline percent predicted post-bronchodilator FEV1 of 46%.
 
 In these 7 clinical trials, 68.3% of patients exposed to SPIRIVA RESPIMAT 5 mcg reported an adverse event compared to 68.7% of patients in the placebo group.
@@ -33,7 +33,7 @@ Table 1 shows all adverse reactions that occurred with an incidence of >3% in th
 
 Table 1 Number (Percentage) of COPD Patients Exposed to SPIRIVA RESPIMAT 5 mcg with Adverse Reactions >3% (and Higher than Placebo): Pooled Data from 7 Clinical Trials with Treatment Periods Ranging between 4 and 48 Weeks in COPD Patients
 
-| Body System (Reaction)* | SPIRIVA RESPIMAT 5 mcg [n=3282] | Placebo [n=3283] |
+| Body System (Reaction)* | SPIRIVA RESPIMAT 5 mcg [n=3,282] | Placebo [n=3,283] |
 | --- | --- | --- |
 | Gastrointestinal Disorders |  |  |
 | Dry mouth | 134 (4.1) | 52 (1.6) |
@@ -55,8 +55,8 @@ Among the adverse reactions observed in the clinical trials with an incidence of
 Adult Patients
 
 SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in four placebo-controlled parallel-group trials ranging from 12 to 52 weeks of treatment duration in adult patients (aged 18 to 75 years) with asthma.
-The safety data described below are based on one 1-year, two 6-month and one 12-week randomized, double-blind, placebo-controlled trials in a total of 2849 asthma patients on background treatment of at least ICS or ICS and long-acting beta agonist (ICS/LABA).
-Of these patients, 787 were treated with SPIRIVA RESPIMAT at the recommended dose of 2.5 mcg once-daily; 59.7% were female and 47.5% were Caucasian with a mean age of 43.7 years and a mean post-bronchodilator percent predicted forced expiratory volume in 1 second (FEV1) of 90.0% at baseline.
+The safety data described below are based on one 1-year, two 6-month and one 12-week randomized, double-blind, placebo-controlled trials in a total of 2,849 asthma patients on background treatment of at least ICS or ICS and long-acting beta agonist (ICS/LABA).
+Of these patients, 787 were treated with SPIRIVA RESPIMAT at the recommended dosage of 2.5 mcg once-daily; 59.7% were female and 47.5% were Caucasian with a mean age of 43.7 years and a mean post-bronchodilator percent predicted forced expiratory volume in 1 second (FEV1) of 90.0% at baseline.
 
 Table 2 shows all adverse reactions that occurred with an incidence of >2% in the SPIRIVA RESPIMAT 2.5 mcg treatment group, and a higher incidence rate on SPIRIVA RESPIMAT 2.5 mcg than on placebo.
 
@@ -82,7 +82,7 @@ Adolescent Patients Aged 12 to 17 years
 
 SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in two placebo-controlled parallel-group trials ranging from 12 to 48 weeks of treatment duration in adolescent patients with asthma.
 The safety data described below are based on one 48-week and one 12-week double-blind, placebo-controlled trials in a total of 789 adolescent asthma patients on background treatment of at least ICS or ICS plus one or more controller.
-Of these patients, 252 were treated with SPIRIVA RESPIMAT at the recommended dose of 2.5 mcg once-daily; 63.9% were male and 95.6% were Caucasian with a mean age of 14.3 years and a mean post-bronchodilator percent predicted FEV1 of 98.3% at baseline.
+Of these patients, 252 were treated with SPIRIVA RESPIMAT at the recommended dosage of 2.5 mcg once-daily; 63.9% were male and 95.6% were Caucasian with a mean age of 14.3 years and a mean post-bronchodilator percent predicted FEV1 of 98.3% at baseline.
 The adverse reaction profile for adolescent patients with asthma was comparable to that observed in adult patients with asthma.
 
 Pediatric Patients Aged 6 to 11 years
@@ -92,7 +92,7 @@ The safety data are based on one 48-week and one 12-week double-blind, placebo-c
 Of these patients, 271 were treated with SPIRIVA RESPIMAT at the recommended dose of 2.5 mcg once-daily; 71.2% were male and 86.7% were Caucasian with a mean age of 8.9 years and a mean post-bronchodilator percent predicted FEV1 of 97.9% at baseline.
 The adverse reaction profile for pediatric patients aged 6 to 11 years with asthma was comparable to that observed in adult patients with asthma.
 
-SPIRIVA RESPIMAT 5 mcg also has been compared to placebo in seven placebo-controlled parallel-group trials ranging from 12 to 52 weeks of treatment duration in 4149 adult patients (aged 18 to 75 years) with asthma and in two placebo-controlled parallel-group trials ranging from 12 to 48 weeks of treatment duration in 789 adolescent patients (1370 adults and 264 adolescents receiving SPIRIVA RESPIMAT 5 mcg once-daily).
+SPIRIVA RESPIMAT 5 mcg also has been compared to placebo in seven placebo-controlled parallel-group trials ranging from 12 to 52 weeks of treatment duration in 4,149 adult patients (aged 18 to 75 years) with asthma and in two placebo-controlled parallel-group trials ranging from 12 to 48 weeks of treatment duration in 789 adolescent patients (1,370 adults and 264 adolescents receiving SPIRIVA RESPIMAT 5 mcg once-daily).
 The adverse reaction profile for SPIRIVA RESPIMAT 5 mcg in patients with asthma was comparable to that observed with SPIRIVA RESPIMAT 2.5 mcg in patients with asthma.
 
 ## 6.3 Postmarketing Experience

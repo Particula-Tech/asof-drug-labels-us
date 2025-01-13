@@ -5,9 +5,9 @@
 Risk Summary
 
 The limited human data with SPIRIVA RESPIMAT use during pregnancy are insufficient to inform a drug-associated risk of adverse pregnancy-related outcomes.
-There are risks to the mother and the fetus associated with poorly controlled asthma in pregnancy [see Clinical Considerations].
+There are risks to the mother and the fetus associated with poorly controlled asthma in pregnancy (see Clinical Considerations).
 Based on animal reproduction studies, no structural abnormalities were observed when tiotropium was administered by inhalation to pregnant rats and rabbits during the period of organogenesis at doses 790 and 8 times, respectively, the maximum recommended human daily inhalation dose (MRHDID).
-Increased post-implantation loss was observed in rats and rabbits administered tiotropium at maternally toxic doses 430 times and 40 times the MRHDID, respectively [see Data].
+Increased post-implantation loss was observed in rats and rabbits administered tiotropium at maternally toxic doses 430 times and 40 times the MRHDID, respectively (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
@@ -24,7 +24,7 @@ Data
 
 Animal Data
 
-In 2 separate embryo-fetal development studies, pregnant rats and rabbits received tiotropium during the period of organogenesis at doses up to approximately 790 and 8 times the maximum recommended human daily inhalation dose (MRHDID), respectively (on a mcg/m2 basis at inhalation doses of 1471 and 7 mcg/kg/day in rats and rabbits, respectively).
+In 2 separate embryo-fetal development studies, pregnant rats and rabbits received tiotropium during the period of organogenesis at doses up to approximately 790 and 8 times the maximum recommended human daily inhalation dose (MRHDID), respectively (on a mcg/m2 basis at inhalation doses of 1,471 and 7 mcg/kg/day in rats and rabbits, respectively).
 No evidence of structural abnormalities was observed in rats or rabbits.
 However, in rats, tiotropium caused fetal resorption, litter loss, decreases in the number of live pups at birth and the mean pup weights, and a delay in pup sexual maturation at tiotropium doses of approximately 40 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 78 mcg/kg/day).
 In rabbits, tiotropium caused an increase in post-implantation loss at a tiotropium dose of approximately 430 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 400 mcg/kg/day).
@@ -35,7 +35,7 @@ Such effects were not observed at approximately 5 and 95 times the MRHDID, respe
 Risk Summary
 
 There are no data on the presence of tiotropium in human milk, the effects on the breastfed infant, or the effects on milk production.
-Tiotropium is present in milk of lactating rats; however, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear [see Data].
+Tiotropium is present in milk of lactating rats; however, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear (see Data).
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SPIRIVA RESPIMAT and any potential adverse effects on the breastfed child from SPIRIVA RESPIMAT or from the underlying maternal condition.
 
 Data
@@ -71,12 +71,12 @@ Table 3 In Vitro Medication Delivery through AeroChamber Plus Flow-Vu® Valved H
 | 4.9 (6 to 12 Months) | small | 0 2 5 10 | 0.85 0.86 0.55 0.62 | 7.5-9.9 | 86-113 87-115 56-73 63-83 |
 | 8.0 (2 to 5 Years) | medium | 0 2 5 10 | 0.74 0.93 0.72 0.57 | 12.3-18.0 | 41-60 52-76 40-59 32-46 |
 | 12.0 (> 5 Years) | medium | 0 2 5 10 | 1.16 0.96 0.78 0.61 | 18.0 | 64 53 43 34 |
-| a Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2009). Body weight values correspond to the average of the 50 percentile weight for boys and girls at the ages indicated. |  |  |  |  |  |
+| a Centers for Disease Control and Prevention growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2009). Body weight values correspond to the average of the 50 percentile weight for boys and girls at the ages indicated. |  |  |  |  |  |
 | b Inhalation of SPIRIVA RESPIMAT 2.5 mcg dose (as two actuations) in a 70-kg adult without use of a valved holding chamber and mask delivers approximately 2.5 mcg, or 36 ng/kg. |  |  |  |  |  |
 
 The in vitro study data show a reduction of the absolute delivered dose through the valved holding chamber.
 However, in terms of dose per kilogram of body weight the data suggest that under all tested conditions the dose of SPIRIVA RESPIMAT delivered by the AeroChamber Plus Flow-Vu® valved holding chamber with mask will at least lead to a dosing comparable to that of adults without use of a holding chamber and mask (Table 3).
-The fine particle fraction (< 5 µm) across the flow rates used in these studies was 69-89% of the delivered dose through the valved holding chamber, consistent with the removal of the coarser fraction by the holding chamber.
+The fine particle fraction (<5 µm) across the flow rates used in these studies was 69-89% of the delivered dose through the valved holding chamber, consistent with the removal of the coarser fraction by the holding chamber.
 In contrast, the fine particle fraction for SPIRIVA RESPIMAT delivered without a holding chamber typically represents approximately 60% of the delivered dose.
 
 ## 8.5 Geriatric Use

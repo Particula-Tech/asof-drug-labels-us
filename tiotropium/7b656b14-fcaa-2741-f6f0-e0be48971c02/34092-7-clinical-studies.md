@@ -15,7 +15,7 @@ Based on these results, the 5 and 10 mcg doses were further evaluated in the con
 
 Confirmatory Trials
 
-A total of 6614 COPD patients (2801 receiving SPIRIVA RESPIMAT 5 mcg and 2798 receiving placebo) were studied in the five confirmatory trials of SPIRIVA RESPIMAT.
+A total of 6,614 COPD patients (2,801 receiving SPIRIVA RESPIMAT 5 mcg and 2,798 receiving placebo) were studied in the five confirmatory trials of SPIRIVA RESPIMAT.
 Trials 1 and 2 were 12-week, randomized, double-blind, placebo- and active- (ipratropium) controlled trials that evaluated bronchodilation.
 Trials 3-5 were 48-week, randomized, double-blind, placebo-controlled, trials that evaluated bronchodilation and effects on COPD exacerbations.
 Trials 1-4 included both the tiotropium RESPIMAT 5 mcg and 10 mcg doses, whereas Trial 5 included only the 5 mcg dose.
@@ -45,7 +45,7 @@ Table 4 Mean Change from Baseline in Trough FEV1 (L) at End of Treatment
 | Trial 2† | 90 | 84 | 0.13 (0.07, 0.18) |
 | Trial 3‡ | 326 | 296 | 0.14 (0.10, 0.18) |
 | Trial 4‡ | 324 | 307 | 0.11 (0.08, 0.15) |
-| Trial 5‡ | 1889 | 1870 | 0.10 (0.09, 0.12) |
+| Trial 5‡ | 1,889 | 1,870 | 0.10 (0.09, 0.12) |
 | † at week 12 |  |  |  |
 | ‡ at week 48 |  |  |  |
 
@@ -70,14 +70,14 @@ Long-term Active-Controlled Mortality Trial
 Survival
 
 In a pooled analysis of SPIRIVA RESPIMAT placebo-controlled clinical trials with complete vital status (mortality) follow-up, including the three 48-week trials (Trial 3, 4, and 5) and one 24-week placebo-controlled trial, 68 deaths (Incidence Rate 2.64 deaths per 100 patient years) were observed in the SPIRIVA RESPIMAT 5 mcg treatment group compared to 51 deaths (Incidence Rate 1.98 deaths per 100 patient years) in those treated with placebo.
-In a 4-year, randomized, double-blind, placebo-controlled, multicenter clinical trial of tiotropium bromide inhalation powder (SPIRIVA HandiHaler) in 5992 COPD patients a similar incidence rate of death had been observed between SPIRIVA HandiHaler and placebo treated groups.
+In a 4-year, randomized, double-blind, placebo-controlled, multicenter clinical trial of tiotropium bromide inhalation powder (SPIRIVA HandiHaler) in 5,992 COPD patients a similar incidence rate of death had been observed between SPIRIVA HandiHaler and placebo treated groups.
 
 For clarification of the observed difference in fatal events, a long-term, randomized, double-blind, double dummy, active-controlled trial with an observation period up to 3 years was conducted to evaluate the risk of all-cause mortality associated with the use of SPIRIVA RESPIMAT compared to SPIRIVA HandiHaler (Trial 6).
 The objective of this trial was to rule out a relative excess mortality risk of 25% for SPIRIVA RESPIMAT versus SPIRIVA HandiHaler.
 The primary endpoints were all-cause mortality and time to first COPD exacerbation.
 Trial 6 also included a lung function sub-study which measured trough FEV1 measured every 24 weeks for 120 weeks (461 patients receiving SPIRIVA RESPIMAT 5 mcg, 445 patients receiving SPIRIVA HandiHaler).
 
-In Trial 6, 5711 patients received SPIRIVA RESPIMAT 5 mcg and 5694 patients received SPIRIVA HandiHaler.
+In Trial 6, 5,711 patients received SPIRIVA RESPIMAT 5 mcg and 5,694 patients received SPIRIVA HandiHaler.
 All patients were followed for vital status (mortality) at the end of the trial.
 At baseline, patient characteristics were balanced between the two treatment arms.
 The mean age was 65 years and approximately 70% of subjects were male.
@@ -91,7 +91,7 @@ All-cause mortality was similar between SPIRIVA RESPIMAT 5 mcg and SPIRIVA Handi
 
 Table 5 All-cause Mortality of SPIRIVA RESPIMAT vs SPIRIVA HandiHaler (Trial 6)
 
-|  | SPIRIVA RESPIMAT 5 mcg (N = 5711) | SPIRIVA HandiHaler (N = 5694) |
+|  | SPIRIVA RESPIMAT 5 mcg (N = 5,711) | SPIRIVA HandiHaler (N = 5,694) |
 | --- | --- | --- |
 | Number (%) of Deaths | 423 (7.4) | 439 (7.7) |
 | Incidence Rate per 100 patient years | 3.22 | 3.36 |
@@ -130,13 +130,13 @@ The two dose regimen trials in adults with asthma were randomized, double-blind,
 
 12-week to 48-week Parallel-Arm Design Trials in Adults
 
-The program for persistent asthma in adult patients included one 12-week (Trial 1), two replicate 24-week (Trials 2 and 3), and two replicate 48-week (Trials 4 and 5) randomized, double-blind, placebo-controlled trials in a total of 3476 asthma patients (673 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 1128 receiving SPIRIVA RESPIMAT 5 mcg once-daily, 541 receiving salmeterol 50 mcg twice daily, and 1134 receiving placebo) on background treatment of at least ICS.
+The program for persistent asthma in adult patients included one 12-week (Trial 1), two replicate 24-week (Trials 2 and 3), and two replicate 48-week (Trials 4 and 5) randomized, double-blind, placebo-controlled trials in a total of 3,476 asthma patients (673 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 1,128 receiving SPIRIVA RESPIMAT 5 mcg once-daily, 541 receiving salmeterol 50 mcg twice daily, and 1,134 receiving placebo) on background treatment of at least ICS.
 Trial 1 evaluated three treatments: SPIRIVA RESPIMAT 2.5 mcg once-daily, SPIRIVA RESPIMAT 5 mcg once-daily, and placebo.
 Trials 2 and 3 evaluated four treatments: SPIRIVA RESPIMAT 2.5 mcg once-daily, SPIRIVA RESPIMAT 5 mcg once-daily, salmeterol 50 mcg twice daily, and placebo.
 Trials 4 and 5 evaluated two treatments: SPIRIVA RESPIMAT 5 mcg once-daily and placebo.
 All trials enrolled patients who had a diagnosis of asthma, were 18 to 75 years of age, and were not current smokers.
 Patients enrolled in Trials 4 and 5 were required to have airway obstruction that was not fully reversible (post-bronchodilator FEV1/FVC, 0.70).
-The majority of the 3476 patients in the adult asthma trials were female (60%), Caucasian (61%) or Asian (31%), and had never smoked (81%) with a mean age of 46 years.
+The majority of the 3,476 patients in the adult asthma trials were female (60%), Caucasian (61%) or Asian (31%), and had never smoked (81%) with a mean age of 46 years.
 The patient characteristics for the 12 week to 48 week trials in adult patients with asthma are summarized in Table 6.
 
 Table 6 Summary of Baseline Patient Characteristics, Adult Confirmatory Studies

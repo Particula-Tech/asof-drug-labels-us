@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-To receive the full dose of medication, SPIRIVA RESPIMAT must be administered as two inhalations once-daily.
+To receive the full dosage of medication, SPIRIVA RESPIMAT must be administered as two inhalations once-daily.
 Do not take more than one dose (2 inhalations) in 24 hours.
 
 Prior to first use, the SPIRIVA RESPIMAT cartridge is inserted into the SPIRIVA RESPIMAT inhaler and the unit is primed.
