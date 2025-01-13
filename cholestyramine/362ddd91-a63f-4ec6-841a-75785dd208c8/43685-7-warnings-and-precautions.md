@@ -1,6 +1,6 @@
 # WARNINGS
 
-PHENYLKETONURICS: CHOLESTYRAMINE for ORAL SUSPENSION USP, LIGHT CONTAINS 14.0 mg PHENYLALANINE PER 5 GRAM DOSE.
+PHENYLKETONURICS: QUESTRAN LIGHT CONTAINS 14.0 mg PHENYLALANINE PER 5 gram DOSE.
 
 # PRECAUTIONS
 
@@ -17,7 +17,7 @@ Caution should also be exercised in patients with renal insufficiency or volume 
 
 QUESTRAN may produce or worsen pre-existing constipation.
 The dosage should be increased gradually in patients to minimize the risk of developing fecal impaction.
-In patients with pre-existing constipation, the starting dose should be 1 packet or 1 scoop once daily for 5–7 days, increasing to twice daily with monitoring of constipation and of serum lipoproteins, at least twice, 4–6 weeks apart.
+In patients with pre-existing constipation, the starting dose should be 1 packet or 1 scoop once daily for 5 to 7 days, increasing to twice daily with monitoring of constipation and of serum lipoproteins, at least twice, 4 to 6 weeks apart.
 Increased fluid intake and fiber intake should be encouraged to alleviate constipation and a stool softener may occasionally be indicated.
 If the initial dose is well tolerated, the dose may be increased as needed by one dose/day (at monthly intervals) with periodic monitoring of serum lipoproteins.
 If constipation worsens or the desired therapeutic response is not achieved at one to six doses/day, combination therapy or alternate therapy should be considered.
@@ -36,7 +36,7 @@ Sipping or holding the resin suspension in the mouth for prolonged periods may l
 Serum cholesterol levels should be determined frequently during the first few months of therapy and periodically thereafter.
 Serum triglyceride levels should be measured periodically to detect whether significant changes have occurred.
 
-The LRC-CPPT showed a dose-related increase in serum triglycerides of 10.7%–17.1% in the cholestyramine-treated group, compared with an increase of 7.9%–11.7% in the placebo group.
+The LRC-CPPT showed a dose-related increase in serum triglycerides of 10.7% to 17.1% in the cholestyramine-treated group, compared with an increase of 7.9% to 11.7% in the placebo group.
 Based on the mean values and adjusting for the placebo group, the cholestyramine-treated group showed an increase of 5% over pre-entry levels the first year of the study and an increase of 4.3% the seventh year.
 
 ## Drug Interactions
@@ -50,7 +50,7 @@ Because cholestyramine binds bile acids, QUESTRAN may interfere with normal fat 
 
 SINCE QUESTRAN MAY BIND OTHER DRUGS GIVEN CONCURRENTLY, IT IS RECOMMENDED THAT PATIENTS TAKE OTHER DRUGS AT LEAST ONE HOUR BEFORE OR 4 TO 6 HOURS AFTER QUESTRAN (OR AT AS GREAT AN INTERVAL AS POSSIBLE) TO AVOID IMPEDING THEIR ABSORPTION.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In studies conducted in rats in which cholestyramine resin was used as a tool to investigate the role of various intestinal factors, such as fat, bile salts and microbial flora, in the development of intestinal tumors induced by potent carcinogens, the incidence of such tumors was observed to be greater in cholestyramine resin-treated rats than in control rats.
 
@@ -71,13 +71,13 @@ QUESTRAN is not absorbed systemically, however, it is known to interfere with ab
 ## Nursing Mothers
 
 Caution should be exercised when QUESTRAN is administered to a nursing mother.
-The possible lack of proper vitamin absorption described in the “Pregnancy” section
+The possible lack of proper vitamin absorption described in the “Pregnancy” section may have an effect on nursing infants.
 
 ## Pediatric Use
 
-Although an optimal dosage schedule has not been established, standard texts (6,7) list a usual pediatric dose of 240 mg/kg/day of anhydrous cholestyramine resin in two to three divided doses, normally not to exceed 8 gm/day with dose titration based on response and tolerance.
+Although an optimal dosage schedule has not been established, standard texts(6,7) list a usual pediatric dose of 240 mg/kg/day of anhydrous cholestyramine resin in two to three divided doses, normally not to exceed 8 gm/day with dose titration based on response and tolerance.
 
-In calculating pediatric dosages, 44.4 mg of anhydrous choleystramine resin are contained in 100 mg of QUESTRAN powder and 80 mg of anhydrous cholestyramine resin are contained in 100 mg of QUESTRAN LIGHT.
+In calculating pediatric dosages, 44.4 mg of anhydrous cholestyramine resin are contained in 100 mg of QUESTRAN powder and 80 mg of anhydrous cholestyramine resin are contained in 100 mg of QUESTRAN LIGHT.
 
 The effects of long-term administration, as well as its effect in maintaining lowered cholesterol levels in pediatric patients, are unknown.
 (Also see ADVERSE REACTIONS.)

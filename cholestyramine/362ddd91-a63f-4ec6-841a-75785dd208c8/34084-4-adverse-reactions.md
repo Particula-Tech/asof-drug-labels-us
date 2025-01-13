@@ -20,7 +20,7 @@ Gastrointestinal—GI-rectal bleeding, black stools, hemorrhoidal bleeding, blee
 
 Laboratory test changes—Liver function abnormalities.
 
-Hematologic—Prolonged prothrombin time, ecchymosis, anemia
+Hematologic—Prolonged prothrombin time, ecchymosis, anemia.
 
 Hypersensitivity—Urticaria, asthma, wheezing, shortness of breath.
 

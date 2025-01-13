@@ -7,7 +7,7 @@ Therapy with lipid-altering agents should be a component of multiple risk factor
 Treatment should begin and continue with dietary therapy specific for the type of hyperlipoproteinemia determined prior to initiation of drug therapy.
 Excess body weight may be an important factor and caloric restriction for weight normalization should be addressed prior to drug therapy in the overweight.
 
-Prior to initiating therapy with QUESTRAN, secondary causes of hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism), should be excluded, and a lipid profile performed to assess Total cholesterol, HDL-C, and triglycerides (TG).
+Prior to initiating therapy with QUESTRAN secondary causes of hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism), should be excluded, and a lipid profile performed to assess Total cholesterol, HDL-C, and triglycerides (TG).
 For individuals with TG less than 400 mg/dL (<4.5 mmol/L), LDL-C can be estimated using the following equation:
 
 LDL-C = Total cholesterol – [(TG/5) + HDL-C]
@@ -35,8 +35,8 @@ The NCEP treatment guidelines are summarized below.
 | *Coronary heart disease or peripheral vascular disease (including symptomatic carotid artery disease). |  |  |  |
 | **Other risk factors for coronary heart disease (CHD) include: age (males ≥45 years; females ≥55 years or premature menopause without estrogen replacement therapy); family history of premature CHD; current cigarette smoking; hypertension; confirmed HDL-C <35 mg/dL (<0.91 mmol/L); and diabetes mellitus. Subtract one risk factor if HDL-C is ≥60 mg/dL (≥1.6 mmol/L). |  |  |  |
 
-1) QUESTRAN monotherapy has been demonstrated to retard the rate of progression 2,3 and increase the rate of regression3 of coronary atherosclerosis.
+QUESTRAN monotherapy has been demonstrated to retard the rate of progression 2,3 and increase the rate of regression3 of coronary atherosclerosis.
 
 2) QUESTRAN is indicated for the relief of pruritus associated with partial biliary obstruction.
-QUESTRAN for oral suspension has been shown to have a variable effect on serum cholesterol in these patients.
+QUESTRAN has been shown to have a variable effect on serum cholesterol in these patients.
 Patients with primary biliary cirrhosis may exhibit an elevated cholesterol as part of their disease.
