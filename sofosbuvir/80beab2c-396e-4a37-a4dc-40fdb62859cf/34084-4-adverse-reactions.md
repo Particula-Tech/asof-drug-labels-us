@@ -109,7 +109,11 @@ Adverse Reactions in Pediatric Subjects 3 Years of Age and Older
 
 The safety assessment of SOVALDI in pediatric subjects 3 years of age and older is based on data from 106 subjects who were treated with SOVALDI plus ribavirin for 12 weeks (genotype 2 subjects) or 24 weeks (genotype 3 subjects) in a Phase 2, open-label clinical trial.
 The adverse reactions observed were consistent with those observed in clinical studies of SOVALDI plus ribavirin in adults.
-Among pediatric subjects 3 years to < 12 years of age taking SOVALDI in combination with ribavirin oral solution, decreased appetite was observed in 13% (7/54) subjects [see Clinical Studies 14.5)].
+Among pediatric subjects 3 years to < 12 years of age taking SOVALDI in combination with ribavirin oral solution, decreased appetite was observed in 13% (7/54) of subjects [see Clinical Studies 14.5)].
+
+In a 5-year follow-up study, 88 of the 106 subjects from the Phase 2 open-label clinical trial (Study 1112) were followed for a median (Q1, Q3) duration of 239 (179, 244) weeks.
+No notable effects on growth as assessed by changes from baseline through end of study were observed for height, weight, BMI percentiles, and Z-scores for any age group.
+No notable effects were observed on the development of secondary sexual characteristics of subjects as assessed by changes from baseline through end of study in Tanner pubertal stages [see Use in Specific Populations (8.4)].
 
 ## 6.2 Postmarketing Experience
 

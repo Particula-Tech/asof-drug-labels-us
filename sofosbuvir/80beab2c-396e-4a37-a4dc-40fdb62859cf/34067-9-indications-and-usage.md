@@ -2,7 +2,7 @@
 
 Adult Patients:
 
-SOVALDI is indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) infection as a component of a combination antiviral treatment regimen [see Dosage and Administration (2.2), and Clinical Studies (14)]
+SOVALDI is indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) infection as a component of a combination antiviral treatment regimen [see Dosage and Administration (2.2), and Clinical Studies (14)]:
 
 - genotype 1 or 4 infection without cirrhosis or with compensated cirrhosis for use in combination with pegylated interferon and ribavirin
 - genotype 2 or 3 infection without cirrhosis or with compensated cirrhosis for use in combination with ribavirin.

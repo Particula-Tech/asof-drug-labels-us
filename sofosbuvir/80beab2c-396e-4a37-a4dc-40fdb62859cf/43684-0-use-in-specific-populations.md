@@ -60,6 +60,10 @@ Thus, similar efficacy would be expected for pediatric patients with compensated
 The safety and efficacy of SOVALDI have not been established in pediatric patients less than 3 years of age with HCV genotype 2 or 3.
 The safety and efficacy of SOVALDI have not been established in pediatric patients with HCV genotype 1 or 4.
 
+In a 5-year follow-up study, the long-term effects of SOVALDI on pediatric growth were assessed in 88 pediatric subjects 3 years of age and older treated with SOVALDI in Study 1112.
+No notable effects on growth from baseline through end of study were observed [see Adverse Reactions (6.1)].
+All subjects who had achieved SVR12 maintained SVR through end of study.
+
 ## 8.5 Geriatric Use
 
 SOVALDI was administered to 90 subjects aged 65 and over.
