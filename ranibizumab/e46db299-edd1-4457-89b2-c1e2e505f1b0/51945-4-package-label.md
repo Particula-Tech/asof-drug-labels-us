@@ -16,7 +16,7 @@ Discard unused portion.
 
 IMPORTANT:
 
-A 5-micron sterile ﬁlter needle (19-gauge x 1-1/2 inch) is required for preparation, but not included.
+A 5-micron sterile ﬁlter needle(19-gauge x 1-1/2 inch) is required for preparation, but not included.
 
 See enclosed package insert.
 
@@ -36,4 +36,4 @@ DO NOT FREEZE.
 
 PROTECT VIAL FROM LIGHT.
 
-SAMSUNG BIOEPIS, Biogen®
+SAMSUNG BIOEPIS, Biogen ®

@@ -4,7 +4,7 @@
 
 Intravitreal injections, including those with ranibizumab products, have been associated with endophthalmitis and retinal detachments.
 Proper aseptic injection technique should always be used when administering BYOOVIZ.
-In addition, patients should be monitored following the injection to permit early treatment should an infection occur [see Dosage and Administration (2.5, 2.6) and Patient Counseling Information (17)].
+In addition, patients should be monitored following the injection to permit early treatment should an infection occur [see Dosage and Administration (2.5, 2.6)and Patient Counseling Information (17)].
 
 ## 5.2 Increases in Intraocular Pressure
 
