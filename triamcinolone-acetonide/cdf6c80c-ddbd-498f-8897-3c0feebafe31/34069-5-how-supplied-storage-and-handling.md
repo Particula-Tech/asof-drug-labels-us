@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Kenalog Spray (Triamcinolone Acetonide Topical Aerosol, USP) is a clear, colorless liquid that is practically free from visible impurities.
+Kenalog Spray (Triamcinolone Acetonide Topical Aerosol, USP)is a clear, colorless liquid that is practically free from visible impurities.
 It has an odor characteristic of ethanol.
 It is supplied as follows:
 
