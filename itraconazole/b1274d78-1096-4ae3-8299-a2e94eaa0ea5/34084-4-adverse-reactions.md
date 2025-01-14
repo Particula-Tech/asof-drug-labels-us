@@ -102,7 +102,7 @@ Vascular Disorders: hypotension
 Adverse drug reactions that have been first identified during postmarketing experience with itraconazole(all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Post-marketing Reports of Adverse Drug Reactions
+Table 6: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
@@ -111,7 +111,7 @@ Table 6: Post-marketing Reports of Adverse Drug Reactions
 | Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
-| Cardiac Disorders: | Congestive heart failure |
+| Cardiac Disorders: | Congestive heart failure, bradycardia |
 | Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema, dyspnea |
 | Gastrointestinal Disorders: | Pancreatitis, dysgeusia |
 | Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis |
