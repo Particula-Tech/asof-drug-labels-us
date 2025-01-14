@@ -9,10 +9,10 @@ This may occur during treatment or upon withdrawal of treatment of the topical c
 
 The potential for hypothalamic-pituitary adrenal (HPA) suppression with ULTRAVATE lotion was evaluated in the following studies:
 
-- •In a study of 20 adult subjects with moderate to severe plaque psoriasis involving ≥20% of their body surface area.
+- In a study of 20 adult subjects with moderate to severe plaque psoriasis involving ≥20% of their body surface area.
   ULTRAVATE lotion produced HPA axis suppression when used twice daily for two weeks in 5 out of 20 (25%) adult subjects with plaque psoriasis.
   The effects of HPA axis suppression were reversible on discontinuation of the treatment [see Clinical Pharmacology (12.2)].
-- •In another clinical study, 16 adolescent subjects (12 to less than 17 years old) with moderate to severe plaque psoriasis involving 10% or more of their body surface area applied a maximum of approximately 50 grams of ULTRAVATE lotion to affected areas twice daily for two weeks.
+- In another clinical study, 16 adolescent subjects (12 to less than 17 years old) with moderate to severe plaque psoriasis involving 10% or more of their body surface area applied a maximum of approximately 50 grams of ULTRAVATE lotion to affected areas twice daily for two weeks.
   Of the 14 subjects evaluated for HPA axis suppression, adrenal suppression occurred in 1 subject (7%) which recovered upon retest [see Clinical Pharmacology (12.2)].
 
 Because of the potential for systemic absorption, use of topical corticosteroids, including ULTRAVATE lotion, may require that patients be evaluated periodically for evidence of HPA axis suppression.
