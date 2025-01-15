@@ -17,16 +17,16 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Dispense in original container with attached prescribing information that contains the Medication Guide.
-
-Keep container tightly closed.
-
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Code No.: MH/DRUGS/25/NKD/89
-
 Mylan.com
 
-MX:4105:1C:R3
+RMX4105D3
+
+Dispense in original container with attached prescribing information that contains the Medication Guide.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/25/NKD/89
