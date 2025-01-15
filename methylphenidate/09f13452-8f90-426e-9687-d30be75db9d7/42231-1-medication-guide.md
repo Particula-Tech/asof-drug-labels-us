@@ -1,155 +1,16 @@
 # MEDICATION GUIDE
 
-Methylin® Chewable Tablets (methylphenidate HCl chewable tablets) 2.5 mg, 5 mg, and 10 mg CII
-
-Read the Medication Guide that comes with Methylin Chewable Tablets before you or your child starts taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with Methylin Chewable Tablets.
-
-| What is the most important information I should know about Methylin Chewable Tablets? The following have been reported with use of methylphenidate HCl and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Methylin Chewable Tablets. Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with Methylin Chewable Tablets. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Methylin Chewable Tablets. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Methylin Chewable Tablets, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes. Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Methylin. |
+| MEDICATION GUIDEMETHYLIN® Chewable Tablets(METH il in)(methylphenidate hydrochloride), CII |
 | --- |
-
-What Are Methylin Chewable Tablets?
-
-Methylin Chewable Tablets are a central nervous system stimulant prescription medicine.
-Methylin Chewable Tablets are tablets that are made to be chewed and swallowed.
-They are used for the treatment of Attention Deficit and Hyperactivity Disorder (ADHD).
-Methylin Chewable Tablets may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-
-Methylin Chewable Tablets should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
-
-Methylin Chewable Tablets are also used in the treatment of a sleep disorder called narcolepsy.
-
-| Methylin Chewable Tablets are a federally controlled substance (CII) because they can be abused or lead to dependence. Keep Methylin Chewable Tablets in a safe place to prevent misuse and abuse. Selling or giving away Methylin Chewable Tablets may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
-| --- |
-
-Who should not take Methylin Chewable Tablets?
-
-Methylin Chewable Tablets should not be taken if you or your child:
-
-- are very anxious, tense, or agitated
-- have an eye problem called glaucoma
-- have tics or Tourette's syndrome, or a family history of Tourette's syndrome.
-  Tics are hard to control repeated movements or sounds.
-- are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI.
-- are allergic to anything in Methylin Chewable Tablets.
-  See the end of this Medication Guide for a complete list of ingredients.
-
-Methylin Chewable Tablets should not be used in children less than 6 years old because they have not been studied in this age group.
-
-Methylin Chewable Tablets may not be right for you or your child.
-Before starting Methylin Chewable Tablets tell your or your child's doctor about all health conditions (or a family history of) including:
-
-- heart problems, heart defects, high blood pressure
-- mental problems including psychosis, mania, bipolar illness, or depression
-- tics or Tourette's syndrome
-- seizures or have had an abnormal brain wave test (EEG)
-- circulation problems in fingers and toes
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
-
-Can Methylin Chewable Tablets be taken with other medicines?
-
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
-
-Methylin Chewable Tablets and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking Methylin Chewable Tablets.
-
-Your doctor will decide whether Methylin Chewable Tablets can be taken with other medicines.
-
-Especially tell your doctor if you or your child takes:
-
-- antidepression medicines including MAOIs
-- seizure medicines
-- blood thinner medicines
-- blood pressure medicines
-- cold or allergy medicines that contain decongestants
-
-Know the medicines that you or your child takes.
-Keep a list of your medicines with you to show your doctor and pharmacist.
-
-Do not start any new medicine while taking Methylin Chewable Tablets without talking to your doctor first.
-
-How should Methylin Chewable Tablets be taken?
-
-- Take Methylin Chewable Tablets exactly as prescribed.
-  Your doctor may adjust the dose until it is right for you or your child.
-- Methylin Chewable Tablets are usually taken 2 to 3 times a day.
-- Take Methylin Chewable Tablets 30 to 45 minutes before a meal.
-
-| Chew Methylin Chewable Tablets well and swallow with at least 8 ounces (a full glass) of water or other liquid. Methylin Chewable Tablets can swell and cause choking if enough liquid is not taken with them. Get emergency medical care if you have chest pain, vomiting, or trouble swallowing, or breathing after taking a Methylin Chewable Tablet. |
-| --- |
-
-- From time to time, your doctor may stop Methylin Chewable Tablets treatment for awhile to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while you are taking Methylin Chewable Tablets.
-  Children should have their height and weight checked often while taking Methylin Chewable Tablets.
-  Methylin Chewable Tablets treatment may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much Methylin Chewable Tablets or overdoses, call your doctor or poison control center right away, or get emergency treatment.
-
-What are possible side effects of Methylin Chewable Tablets?
-
-See “What is the most important information I should know about Methylin Chewable Tablets?” for information on reported heart and mental problems.
-
-Other serious side effects include:
-
-- slowing of growth (height and weight) in children
-- seizures, mainly in patients with a history of seizures
-- eyesight changes or blurred vision
-- Painful and prolonged erections (priapism) have occurred with methylphenidate.
-  If you or your child develop priapism, seek medical help right away.
-  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
-
-Common side effects include:
-
-- nervousness
-- trouble sleeping
-- headache
-- stomach ache
-- fast heart beat
-- nausea
-- decreased appetite
-- dizziness
-- weight loss
-
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
-
-This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store Methylin Chewable Tablets?
-
-- Store Methylin Chewable Tablets in a safe place at room temperature, 68° to 77°F (20° to 25°C).
-  Protect from moisture.
-- Keep Methylin Chewable Tablets and all medicines out of the reach of children.
-
-General information about Methylin Chewable Tablets
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Methylin Chewable Tablets for a condition for which it was not prescribed.
-Do not give Methylin Chewable Tablets to other people, even if they have the same condition.
-It may harm them and it is against the law.
-
-This Medication Guide summarizes the most important information about Methylin Chewable Tablets.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Methylin Chewable Tablets that was written for healthcare professionals.
-For more information, please contact Shionogi Inc. at 1-800-849-9707 or visit the website at www.methylinrx.com.
-
-What are the ingredients in Methylin Chewable Tablets?
-
-| CAUTION PHENYLKETONURICS: Methylin Chewable Tablets contain phenylalanine. |
-| --- |
-
-Active Ingredient: methylphenidate hydrochloride USP
-
-Inactive Ingredients: aspartame, maltose, microcrystalline cellulose, guar gum, grape flavor, pregelatinized starch, and stearic acid.
+| What is the most important information I should know about Methylin Chewable Tablets?Methylin Chewable Tablets may cause serious side effects, including: Abuse, misuse, and addiction. Methylin Chewable Tablets has a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of Methylin Chewable Tablets, other methylphenidate containing medicines, and amphetamine containing medicines, can lead to overdose and death. The risk of overdose and death is increased with higher doses of Methylin Chewable Tablets or when it is used in ways that are not approved, such as snorting or injection. Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with Methylin Chewable Tablets and will monitor you or your child during treatment.Methylin Chewable Tablets may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.Do not give Methylin Chewable Tablets to anyone else. See “What is Methylin Chewable Tablets?” for more information.Keep Methylin Chewable Tablets in a safe place and properly dispose of any unused medicine. See “How should I store Methylin Chewable Tablets?” for more information.Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs. Risks for people with serious heart disease. Sudden death has happened in people who have heart defects or other serious heart disease. Your healthcare provider should check you or your child carefully for heart problems before starting and during treatment with Methylin Chewable Tablets. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.Call your healthcare provider right away or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems, such as chest pain, shortness of breath, or fainting during treatment with Methylin Chewable Tablets.Increased blood pressure and heart rate.Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with Methylin Chewable Tablets.Mental (psychiatric) problems, including: new or worse behavior or thought problemsnew or worse bipolar illnessnew psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with Methylin Chewable Tablets, especially hearing voices, seeing or believing things that are not real, or new manic symptoms. |
+| What is Methylin Chewable Tablets?Methylin Chewable Tablets is a central nervous system (CNS) stimulant prescription medicine used for the treatment of: Attention Deficit Hyperactivity Disorder (ADHD) in people 6 years of age and older. Methylin Chewable Tablets may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD. a sleep disorder called narcolepsy. It is not known if Methylin Chewable Tablets is safe and effective in children under 6 years of age.Methylin Chewable Tablets is a federally controlled substance (CII) because it contains methylphenidate that can be a target for people who abuse prescription medicines or street drugs. Keep Methylin Chewable Tablets in a safe place to protect it from theft. Never give your Methylin Chewable Tablets to anyone else, because it may cause death or harm them. Selling or giving away Methylin Chewable Tablets may harm others and is against the law. |
+| Do not take Methylin Chewable Tablets if you or your child: are allergic to methylphenidate or any of the ingredients in Methylin Chewable Tablets. See the end of this Medication Guide for a complete list of ingredients in Methylin Chewable Tablets. are taking or have stopped taking within the past 14 days, a medicine called a monoamine oxidase inhibitor (MAOI). |
+| Before taking Methylin Chewable Tablets tell your healthcare provider about all of your or your child’s medical conditions, including if you or your child: have heart problems, heart disease, heart defects, or high blood pressurehave mental problems including psychosis, mania, bipolar illness, or depression, or have a family history of suicide, bipolar illness, or depressionhave circulation problems in fingers or toeshave eye problems, including increased pressure in your eye, glaucoma, or problems with your close-up vision (farsightedness)have or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndromehave trouble swallowinghave phenylketonuria (PKU). The artificial sweetener aspartame in Methylin Chewable Tablets contains phenylalanine, which can be harmful to people with PKU.are pregnant or plan to become pregnant. It is not known if Methylin Chewable Tablets will harm your unborn baby. There is a pregnancy registry for women who are exposed to Methylin Chewable Tablets during pregnancy. The purpose of the registry is to collect information about the health of women exposed to Methylin Chewable Tablets and their baby. If you or your child becomes pregnant during treatment with Methylin Chewable Tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for ADHD Medications at 1-866-961-2388 or visit online at www.womensmentalhealth.org/research/pregnancyregistry/adhd-medications/. are breastfeeding or plan to breastfeed. Methylin passes into breast milk. Talk to your healthcare provider about the best way to feed the baby during treatment with Methylin Chewable Tablets. Tell your healthcare provider about all of the medicines that you or your child take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.Methylin Chewable Tablets and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be during treatment with Methylin Chewable Tablets. Your healthcare provider will decide whether Methylin Chewable Tablets can be taken with other medicines.Especially tell your healthcare provider if you or your child take an monoamine oxidase inhibitor (MAOI).Know the medicines that you or your child take. Keep a list of your or your child’s medicines with you to show your or your child’s healthcare provider and pharmacist when you or your child get a new medicine. Do not start any new medicine during treatment with Methylin Chewable Tablets without talking to your or your child’s healthcare provider first. |
+| How should I take Methylin Chewable Tablets? Take Methylin Chewable Tablets exactly as prescribed by your healthcare provider. Your healthcare provider may change the dose if needed.For children 6 years of age and older: Take Methylin Chewable Tablets 2 times a day, 30 to 45 minutes before breakfast and lunch. For adults: Take Methylin Chewable tablets 2 or 3 times a day, 30 to 45 minutes before a meal. If you have trouble sleeping when Methylin Chewable Tablets is taken late in the day, take your last dose before 6 p.m. Chew Methylin Chewable Tablets well and swallow with at least 8 ounces (a full glass) of water or other liquid. Do not swallow Methylin Chewable Tablets whole. If you do not take enough liquid with Methylin Chewable Tablets, this can cause you to choke. Stop taking Methylin Chewable Tablets and get medical help right away if you or your child have chest pain, vomiting, trouble swallowing, or trouble breathing after taking Methylin Chewable Tablets. If you or your child takes too much Methylin Chewable Tablets, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away. |
+| What are the possible side effects of Methylin Chewable Tablets?Methylin Chewable Tablets may cause serious side effects, including: See “What is the most important information I should know about Methylin Chewable Tablets?” Painful and prolonged erections (priapism). Priapism that may require surgery has happened in males who take products that contain methylphenidate. If you or your child develops priapism, get medical help right away.Circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon). Signs and symptoms may include: fingers or toes may feel numb, cool, or painfulfingers or toes may change color from pale, to blue, to red Tell your healthcare provider if you or your child have numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes or if you or your child have any signs of unexplained wounds appearing on fingers or toes during treatment with Methylin Chewable Tablets. Slowing of growth (height and weight) in children. Children should have their height and weight checked often during treatment with Methylin Chewable Tablets. Your healthcare provider may stop your child’s treatment with Methylin Chewable Tablets if your child is not growing or gaining weight as expected.Eye problems (increased pressure in the eye and glaucoma). Call your healthcare provider right away if you or your child develop changes in your vision or eye pain, swelling, or redness.New or worsening tics or worsening Tourette’s syndrome. Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with Methylin Chewable Tablets. The most common side effects of Methylin Chewable Tablets include: increased heart rateirregular heartbeat (palpitations)headachetrouble sleepinganxietysweatingweight lossdecreased appetitedry mouthnauseastomach (abdominal) pain These are not all possible side effects of Methylin Chewable Tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store Methylin Chewable Tablets? Store Methylin Chewable Tablets at room temperature between 68° to 77°F (20° to 25°C).Store Methylin Chewable Tablets in a safe place, like a locked cabinet.Protect Methylin Chewable Tablets from moisture.Dispose of remaining, unused, or expired Methylin Chewable Tablets by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, mix Methylin Chewable Tablets with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container such as a sealed plastic bag and throw away Methylin Chewable Tablets in the household trash. Visit ww.fda.gov/drugdisposal for additional information on disposal of unused medicines. Keep Methylin Chewable Tablets and all medicines out of the reach of children. |
+| General information about the safe and effective use of Methylin Chewable Tablets.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use Methylin Chewable Tablets for a condition for which it was not prescribed. Do not give Methylin Chewable Tablets to other people, even if they have the same symptoms. It may harm them, and it is against the law. You can ask your pharmacist or healthcare provider for information about Methylin Chewable Tablets that is written for health professionals. |
+| What are the ingredients in Methylin Chewable Tablets?Active Ingredient: methylphenidate hydrochlorideInactive Ingredients: aspartame, maltose, microcrystalline cellulose, guar gum, grape flavor, pregelatinized starch, and stearic acid.Distributed by: Shionogi Inc., Florham Park, NJ 07932Manufactured by: SpecGx LLC, Webster Groves, MO 63119 USAFor more information, you may also contact Shionogi Inc. at 1-800-849-9707 or visit the website at www.methylinrx.com. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Distributed by: Shionogi Inc. Florham Park, NJ 07932
-
-Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
-
-MCT-MG-04 L20M30 Rev 12/2013
+Revised 01/2025

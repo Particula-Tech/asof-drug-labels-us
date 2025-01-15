@@ -1,15 +1,18 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Signs and symptoms of acute overdosage, resulting principally from overstimulation of the central nervous system and from excessive sympathomimetic effects, may include the following: vomiting, agitation, tremors, hyperreflexia, muscle twitching, convulsions (may be followed by coma), euphoria, confusion, hallucinations, delirium, sweating, flushing, headache, hyperpyrexia, tachycardia, palpitations, cardiac arrhythmias, hypertension, mydriasis, dryness of mucous membranes, and rhabdomyolysis.
+Clinical Effects of Overdose
 
-Consult with a Certified Poison Control Center regarding treatment for up-to-date guidance and advice.
+Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
-Treatment consists of appropriate supportive measures.
-The patient must be protected against self-injury and against external stimuli that would aggravate overstimulation already present.
-Gastric contents may be evacuated by gastric lavage.
-In the presence of severe intoxication, use a carefully titrated dosage of a short-acting barbiturate before performing gastric lavage.
-Other measures to detoxify the gut include administration of activated charcoal and a cathartic.
+- Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension.
+  Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death.
+  Takotsubo cardiomyopathy may develop.
+- CNS effects including psychomotor agitation, confusion, and hallucinations.
+  Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
+- Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for hyperpyrexia.
+Overdose Management
 
-Efficacy of peritoneal dialysis or extracorporeal hemodialysis for methylphenidate overdosage has not been established.
+Consider the possibility of multiple drug ingestion.
+Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

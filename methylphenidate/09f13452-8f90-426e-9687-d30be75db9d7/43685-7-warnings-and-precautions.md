@@ -1,150 +1,106 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Serious Cardiovascular Events
+## 5.1 Abuse, Misuse, and Addiction
 
-### Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+Methylin has a high potential for abuse and misuse.
+The use of Methylin exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+Methylin can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2, 9.3)].
+Misuse and abuse of CNS stimulants, including Methylin, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-Children and Adolescents – Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
-Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug.
+Before prescribing Methylin, assess each patient’s risk for abuse, misuse, and addiction.
+Educate patients and their families about these risks and proper disposal of any unused drug.
+Advise patients to store Methylin in a safe place, preferably locked, and instruct patients to not give Methylin to anyone else.
+Throughout Methylin treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-Adults – Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
-Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
-Adults with such abnormalities should also generally not be treated with stimulant drugs.
+## 5.2 Risks to Patients with Serious Cardiac Disease
 
-### Hypertension and Other Cardiovascular Conditions
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were taking CNS stimulants at the recommended ADHD dosage.
 
-Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm), and individuals may have larger increases.
-While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
+Avoid Methylin use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
-### Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
+## 5.3 Increased Blood Pressure and Heart Rate
 
-Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
-Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
+CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 bpm).
+Some patients may have larger increases.
 
-## Psychiatric Adverse Events
+Monitor all Methylin-treated patients for hypertension and tachycardia.
 
-Pre-Existing Psychosis – Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+## 5.4 Psychiatric Adverse Reactions
 
-Bipolar Illness – Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
-Prior to initiating treatment with a stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+Exacerbation of Pre-Existing Psychosis
 
-Emergence of New Psychotic or Manic Symptoms – Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
-If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
+CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
-Aggression – Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
-Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of or worsening of aggressive behavior or hostility.
+Induction of a Manic Episode in Patients with Bipolar Disorder
 
-## Seizures
+CNS stimulants may induce a manic or mixed episode in patients.
+Prior to initiating Methylin treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, and depression).
 
-There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
-In the presence of seizures, the drug should be discontinued.
+New Psychotic or Manic Symptoms
 
-## Priapism
+CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients compared to 0% of placebo-treated patients.
+If such symptoms occur, consider discontinuing Methylin.
 
-Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
-Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
-Priapism has also appeared during a period of drug withdrawal (drug holidays or discontinuation): Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+## 5.5 Priapism
 
-## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate use in both adult and pediatric male patients.
+Although priapism was not reported with methylphenidate initiation, it developed after some time on methylphenidate, often subsequent to an increase in dosage.
+Priapism also occurred during a methylphenidate withdrawal (drug holidays or during discontinuation).
 
-Stimulants, including Methylin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
-Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
-Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treatment with ADHD stimulants.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+Methylin-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
-## Long-Term Suppression of Growth
+## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
 
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+CNS stimulants, such as Methylin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
+Signs and symptoms generally improved after reduction or discontinuation of the CNS stimulant.
 
-Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
-Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+Careful observation for digital changes is necessary during Methylin treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for Methylin-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
-## Visual Disturbance
+## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
-Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
+CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
-USE IN CHILDREN LESS THAN SIX YEARS OF AGE
+Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated pediatric patients over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year) had a temporary slowing in growth rate (on average, a total
 
-Methylin should not be used in children under six years, since safety and efficacy in this age group have not been established.
+of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period.
 
-# PRECAUTIONS
+Closely monitor growth (weight and height) in Methylin-treated pediatric patients.
+Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
-## General
+## 5.8 Acute Angle Closure Glaucoma
 
-Patients with an element of agitation may react adversely; discontinue therapy if necessary.
+There have been reports of angle closure glaucoma associated with methylphenidate treatment.
+Although the mechanism is not clear, Methylin-treated patients considered at risk for acute angle closure glaucoma (e.g., patients with significant hyperopia) should be evaluated by an ophthalmologist.
 
-Periodic CBC, differential, and platelet counts are advised during prolonged therapy.
+## 5.9 Increased Intraocular Pressure and Glaucoma
 
-Drug treatment is not indicated in all cases of this behavioral syndrome and should be considered only in light of the complete history and evaluation of the child.
-The decision to prescribe Methylin should depend on the physician’s assessment of the chronicity and severity of the child’s symptoms and their appropriateness for his/her age.
-Prescription should not depend solely on the presence of one or more of the behavioral characteristics.
+There have been reports of an elevation of intraocular pressure (IOP) associated with methylphenidate treatment [see Adverse Reactions (6)].
 
-When these symptoms are associated with acute stress reactions, treatment with Methylin is usually not indicated.
+Prescribe Methylin to patients with open-angle glaucoma or abnormally increased IOP only if the benefit of treatment is considered to outweigh the risk.
+Closely monitor Methylin-treated patients with a history of abnormally increased IOP or open angle glaucoma.
 
-Long-term effects of Methylin in children have not been well established.
+## 5.10 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
-## Information for Patients
+CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics.
+Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6)].
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with methylphenidate and should counsel them in its appropriate use.
-A patient Medication Guide is available for Methylin Chewable Tablets.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+Before initiating Methylin, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
+Regularly monitor Methylin-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe Methylin:
+## 5.11 Risk of Choking
 
-Choking – Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking.
-Do not take this product if you have difficulty in swallowing.
-If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention.
+Methylin Chewable Tablets may swell and block the throat or esophagus which can cause the patient to choke.
+Avoid use of Methylin Chewable Tablets in patients who have difficulty swallowing.
+Administer with at least 8 ounces of fluid [see Dosage and Administration (2.2)].
+Discontinue Methylin Chewable Tablets and seek immediate medical attention if chest pain, vomiting, difficulty in swallowing, or difficulty in breathing occur after administration.
 
-Directions – Take this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid.
-Taking this product without enough liquid may cause choking.
-See choking warning.
+## 5.12 Risks in Patients with Phenylketonuria
 
-Priapism
-
-Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
-Instruct the patient to seek immediate medical attention in the event of priapism.
-
-Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
-
-- Instruct patients beginning treatment with Methylin about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
-- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
-- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Methylin.
-- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
-
-Phenylketonurics – Phenylalanine is a component of aspartame.
+Phenylalanine can be harmful to patients with phenylketonuria (PKU).
+Methylin Chewable Tablets contain phenylalanine, a component of aspartame.
 Each 2.5 mg Methylin Chewable Tablet contains 0.42 mg of phenylalanine; each 5.0 mg Methylin Chewable Tablet contains 0.84 mg of phenylalanine and each 10.0 mg Methylin Chewable Tablet contains 1.68 mg of phenylalanine.
-
-## Drug Interactions
-
-Methylin may decrease the hypotensive effect of guanethidine.
-Use cautiously with pressor agents.
-
-Human pharmacologic studies have shown that Methylin may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (phenobarbital, diphenylhydantoin, primidone), phenylbutazone, and tricyclic drugs (imipramine, clomipramine, desipramine).
-Downward dosage adjustments of these drugs may be required when given concomitantly with Methylin.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-In a lifetime carcinogenicity study carried out in B6C3F1 mice, methylphenidate caused an increase in hepatocellular adenomas and, in males only, an increase in hepatoblastomas, at a daily dose of approximately 60 mg/kg/day.
-This dose is approximately 30 times and 2.5 times the maximum recommended human dose on a mg/kg and mg/m2 basis, respectively.
-Hepatoblastoma is a relatively rare rodent malignant tumor type.
-There was no increase in total malignant hepatic tumors.
-The mouse strain used is sensitive to the development of hepatic tumors, and the significance of these results to humans is unknown.
-
-Methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 22 times and 4 times the maximum recommended human dose on a mg/kg and mg/m2 basis, respectively.
-
-Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay or in the in vitro mouse lymphoma cell forward mutation assay.
-Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary (CHO) cells.
-The genotoxic potential of methylphenidate has not been evaluated in an in vivo assay.
-
-## Usage in Pregnancy
-
-Adequate animal reproduction studies to establish safe use of Methylin during pregnancy have not been conducted.
-However, in a recently conducted study, methylphenidate has been shown to have teratogenic effects in rabbits when given in doses of 200 mg/kg/day, which is approximately 167 times and 78 times the maximum recommended human dose on a mg/kg and a mg/m2 basis, respectively.
-In rats, teratogenic effects were not seen when the drug was given in doses of 75 mg/kg/day, which is approximately 62.5 and 13.5 times the maximum recommended human dose on a mg/kg and a mg/m2 basis, respectively.
-Therefore, until more information is available, methylphenidate should not be prescribed for women of childbearing age unless, in the opinion of the physician, the potential benefits outweigh the possible risks.
+Before prescribing Methylin Chewable Tablets to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including Methylin Chewable Tablets.

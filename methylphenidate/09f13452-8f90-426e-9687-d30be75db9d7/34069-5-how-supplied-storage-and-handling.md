@@ -1,32 +1,22 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each Methylin Chewable Tablet 2.5 mg is available as a white to cream colored, grape flavored, rounded square tablet with a convex surface, debossed with a “2.5” and “CHEW” below it on one side, and a debossed on the other side.
+How Supplied
 
-Bottles of 100.........NDC 59630-760-10
+Each Methylin Chewable Tablet 2.5 mg of methylphenidate hydrochloride is available as a white to cream colored, grape flavored, rounded square tablet with a convex surface, debossed with a “2.5” and “CHEW” below it on one side, and a debossed on the other side.
 
-Each Methylin Chewable Tablet 5 mg is available as a white to cream colored, grape flavored, rounded square tablet with a convex surface, debossed with a “5” and “CHEW” below it on one side, and a debossed on the other side.
+Bottles of 100……………….NDC 59630-760-10
 
-Bottles of 100.........NDC 59630-761-10
+Each Methylin Chewable Tablet 5 mg of methylphenidate hydrochloride is available as a white to cream colored, grape flavored, rounded square tablet with a convex surface, debossed with a “5” and “CHEW” below it on one side, and a debossed on the other side.
 
-Each Methylin Chewable Tablet 10 mg is available as a white to cream colored, grape flavored, scored rounded square tablet with a convex surface, debossed with a “10” and “CHEW” below it on one side, and a debossed on the other side.
+Bottles of 100……………….NDC 59630-761-10
 
-Bottles of 100.........NDC 59630-762-10
+Each Methylin Chewable Tablet 10 mg of methylphenidate hydrochloride is available as a white to cream colored, grape flavored, scored rounded square tablet with a convex surface, debossed with a “10” and “CHEW” below it on one side, and a debossed on the other side.
+
+Bottles of 100……………….NDC 59630-762-10
+
+Storage and Handling
 
 Protect from moisture.
 Dispense in tight container with child-resistant closure.
 
-Storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-
-Methylin is a trademark of Mallinckrodt LLC.
-
-Ritalin is a registered trademark of Novartis Corporation.
-
-Distributed by: Shionogi Inc. Florham Park, NJ 07932
-
-Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
-
-MCT-PI-04
-
-L20M18
-
-Rev 09/2016
+Store at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].

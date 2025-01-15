@@ -1,6 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Marked anxiety, tension, and agitation are contraindications to Methylin, since the drug may aggravate these symptoms.
-Methylin is contraindicated also in patients known to be hypersensitive to the drug, in patients with glaucoma, and in patients with motor tics or with a family history or diagnosis of Tourette’s syndrome.
+Methylin Chewable Tablets is contraindicated in patients:
 
-Methylin is contraindicated during treatment with monoamine oxidase inhibitors, and also within a minimum of 14 days following discontinuation of a monoamine oxidase inhibitor (hypertensive crises may result).
+- with a known hypersensitivity to methylphenidate or other components of Methylin Chewable Tablets.
+  Hypersensitivity reactions such as angioedema and anaphylactic reactions have been reported in patients treated with methylphenidate [see Adverse Reactions (6)].
+- receiving concomitant treatment with monoamine oxidase inhibitors (MAOIs), and also within 14 days following discontinuation of treatment with a MAOI, because of the risk of hypertensive crisis [see Drug Interactions (7.1)].

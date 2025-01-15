@@ -1,2 +1,32 @@
-| DRUG ABUSE AND DEPENDENCEMethylin should be given cautiously to emotionally unstable patients, such as those with a history of drug dependence or alcoholism, because such patients may increase dosage on their own initiative. Chronically abusive use can lead to marked tolerance and psychic dependence with varying degrees of abnormal behavior. Frank psychotic episodes can occur, especially with parenteral abuse. Careful supervision is required during drug withdrawal, since severe depression as well as the effects of chronic overactivity can be unmasked. Long-term follow-up may be required because of the patient’s basic personality disturbances. |
-| --- |
+# 9 DRUG ABUSE AND DEPENDENCE
+
+## 9.1 Controlled Substance
+
+Methylin Chewable Tablets contains methylphenidate, a Schedule II controlled substance.
+
+## 9.2 Abuse
+
+Methylin has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions (5.1)].
+Methylin can be diverted for non-medical use into illicit channels or distribution.
+
+Abuse is the intentional, non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+
+Misuse and abuse of methylphenidate may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain.
+Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse.
+Misuse and abuse of CNS stimulants, including Methylin, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
+
+## 9.3 Dependence
+
+Physical Dependence
+
+Methylin may produce physical dependence.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including Methylin include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
+
+Tolerance
+
+Methylin may produce tolerance.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
