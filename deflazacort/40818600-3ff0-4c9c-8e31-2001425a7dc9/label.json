@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA216720"
+  ],
+  "inn": "deflazacort",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "0832-0814-11",
+    "0832-0815-30",
+    "0832-0816-30",
+    "0832-0817-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "deflazacort",
+      "name": "Deflazacort"
+    }
+  ],
+  "setid": "40818600-3ff0-4c9c-8e31-2001425a7dc9",
+  "source": "dailymed"
+}
