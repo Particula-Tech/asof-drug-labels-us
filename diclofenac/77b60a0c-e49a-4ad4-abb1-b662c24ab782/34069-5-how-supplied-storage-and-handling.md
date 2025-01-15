@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Diclofenac potassium tablets USP, 50 mg are available as orange, round, unscored, biconvex, film-coated tablets debossed with the numbers “93” and “948” on one face of the tablet and plain on the other.
+Diclofenac potassium tablets USP, 50 mg are available as orange, round, biconvex, film-coated tablets debossed with the numbers “93” and “948” on one face of the tablet and plain on the other.
 
 Bottles of 100 (NDC 0093-0948-01) Bottles of 500 (NDC 0093-0948-05)
 
@@ -13,18 +13,10 @@ Brands listed are the trademarks of their respective owners.
 
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Manufactured In Israel By:
+Manufactured In Israel By: Teva Pharmaceutical Ind.
+Ltd. Kfar Saba, 4410202, Israel
 
-Teva Pharmaceutical Ind.
-Ltd.
-
-Kfar Saba, 4410202, Israel
-
-Manufactured For:
-
-Teva Pharmaceuticals
-
-Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-P 7/2021
+R 12/2024

@@ -63,8 +63,8 @@ Nervous System: convulsions, coma, hallucinations, meningitis
 
 Respiratory System: respiratory depression, pneumonia
 
-Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
+Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, fixed drug eruption (FDE), urticaria
 
 Special Senses: conjunctivitis, hearing impairment
 
-To report SUSPECTED ADVERSE EVENTS, contact Teva Pharmaceuticals, at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

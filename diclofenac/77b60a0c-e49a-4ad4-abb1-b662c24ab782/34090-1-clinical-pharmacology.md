@@ -23,7 +23,8 @@ Peak plasma levels are achieved approximately 1 hour in fasting normal volunteer
 Food has no significant effect on the extent of diclofenac absorption.
 However, there is usually a delay in the onset of absorption and a reduction in peak plasma levels of approximately 30%.
 
-Table 1: Pharmacokinetic Parameters for Diclofenac
+Table 1.
+Pharmacokinetic Parameters for Diclofenac
 
 | PK Parameter | Normal Healthy Adults(20 to 52 years) |  |
 | --- | --- | --- |
