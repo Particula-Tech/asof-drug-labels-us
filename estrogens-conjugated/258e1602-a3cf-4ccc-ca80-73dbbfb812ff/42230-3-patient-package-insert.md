@@ -8,6 +8,10 @@ Read this PATIENT INFORMATION before you start taking PREMARIN and read what you
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
+| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT PREMARIN (AN ESTROGEN MIXTURE)? |
+| --- |
+| •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb)•Report any unusual vaginal bleeding right away while you are using PREMARIN. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, or dementia (decline of brain function)•Using estrogen-alone may increase your chances of getting strokes or blood clots•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older•You and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN |
+
 What is PREMARIN?
 
 PREMARIN is a medicine that contains a mixture of estrogen hormones.
@@ -149,11 +153,11 @@ PREMARIN 0.3 mg, 0.45 mg, 0.625 mg, 0.9 mg, and 1.25 mg tablets also contain the
 The tablets come in different strengths and each strength tablet is a different color.
 The color ingredients are:
 
-- • 0.3 mg tablet (green color): D&C Yellow No. 10 and FD&C Blue No. 2.
-- • 0.45 mg tablet (blue color): FD&C Blue No. 2.
-- • 0.625 mg tablet (maroon color): FD&C Blue No. 2 and FD&C Red No. 40.
-- • 0.9 mg tablet (white color): D&C Red No. 30 and D&C Red No. 7.
-- • 1.25 mg tablet (yellow color): black iron oxide, D&C Yellow No. 10, and FD&C Yellow No. 6.
+- -0.3 mg tablet (green color): D&C Yellow No. 10 and FD&C Blue No. 2.
+- -0.45 mg tablet (blue color): FD&C Blue No. 2.
+- -0.625 mg tablet (maroon color): FD&C Blue No. 2 and FD&C Red No. 40.
+- -0.9 mg tablet (white color): D&C Red No. 30 and D&C Red No. 7.
+- -1.25 mg tablet (yellow color): black iron oxide, D&C Yellow No. 10, and FD&C Yellow No. 6.
 
 The appearance of these tablets is a trademark of Wyeth LLC.
 

@@ -9,9 +9,9 @@ Table 3 shows the adjusted mean number of hot flushes in the PREMARIN 0.3 mg, 0.
 
 Table 3: SUMMARY TABULATION OF THE NUMBER OF HOT FLUSHES PER DAY – MEAN VALUES AND COMPARISONS BETWEEN THE ACTIVE TREATMENT GROUPS AND THE PLACEBO GROUP: PATIENTS WITH AT LEAST 7 MODERATE TO SEVERE FLUSHES PER DAY OR AT LEAST 50 PER WEEK AT BASELINE, LAST OBSERVATION CARRIED FORWARD (LOCF)
 
-| Time Period (week) | Baseline Mean ± SD | Observed Mean ± SD | Mean Change ± SD | p-Values vs PlaceboBased on analysis of covariance with treatment as factor and baseline as covariate. |
-| --- | --- | --- | --- | --- |
 | Treatment (No. of Patients) | ---------------No. of Hot Flushes/Day--------------- |  |  |  |
+| --- | --- | --- | --- | --- |
+| Time Period (week) | Baseline Mean ± SD | Observed Mean ± SD | Mean Change ± SD | p-Values vs PlaceboBased on analysis of covariance with treatment as factor and baseline as covariate. |
 | 0.625 mg CE (n = 27) |  |  |  |  |
 | 4 | 12.29 ± 3.89 | 1.95 ± 2.77 | -10.34 ± 4.73 | <0.001 |
 | 12 | 12.29 ± 3.89 | 0.75 ± 1.82 | -11.54 ± 4.62 | <0.001 |
@@ -119,9 +119,9 @@ Results of the estrogen-alone substudy, which included 10,739 women (average 63 
 TABLE 5: RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN ALONE SUBSTUDY OF WHIAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
-|  | (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | Absolute Risk per 10,000 Women-Years |  |
-| --- | --- | --- | --- |
 | Event | Relative Risk CE vs. Placebo | CE n = 5,310 | Placebo n = 5,429 |
+| --- | --- | --- | --- |
+|  | (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | Absolute Risk per 10,000 Women-Years |  |
 | CHD eventsResults are based on centrally adjudicated data for an average follow-up of 7.1 years. | 0.95 (0.78–1.16) | 54 | 57 |
 | Non-fatal MI | 0.91 (0.73–1.14) | 40 | 43 |
 | CHD death | 1.01 (0.71–1.43) | 16 | 16 |
@@ -165,9 +165,9 @@ These results reflect centrally adjudicated data after an average follow-up of 5
 TABLE 6: RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI AT AN AVERAGE OF 5.6 YEARSAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
-| Event | (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | Absolute Risk per 10,000 Women-Years |  |
-| --- | --- | --- | --- |
 |  | Relative Risk CE/MPA vs. Placebo | CE/MPA n = 8,506 | Placebo n = 8,102 |
+| --- | --- | --- | --- |
+| Event | (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | Absolute Risk per 10,000 Women-Years |  |
 | CHD events | 1.23 (0.99–1.53) | 41 | 34 |
 | Non-fatal MI | 1.28 (1.00–1.63) | 31 | 25 |
 | CHD death | 1.10 (0.70–1.75) | 8 | 8 |

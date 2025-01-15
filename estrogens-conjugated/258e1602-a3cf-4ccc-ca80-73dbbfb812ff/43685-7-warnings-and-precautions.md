@@ -64,7 +64,7 @@ Adding a progestin to postmenopausal estrogen therapy has been shown to reduce t
 Breast Cancer
 
 The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]5[see Clinical Studies (14.5)].
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]5 [see Clinical Studies (14.5)].
 
 After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
 In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
@@ -76,7 +76,8 @@ Other prognostic factors, such as histologic subtype, grade and hormone receptor
 
 Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen‑alone therapy.
-Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
+Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
+Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
 However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
 The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms, requiring further evaluation.
