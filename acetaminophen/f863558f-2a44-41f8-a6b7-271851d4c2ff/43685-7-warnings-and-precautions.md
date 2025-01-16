@@ -141,11 +141,13 @@ When COMBOGESIC is used in patients with preexisting asthma (without known aspir
 
 COMBOGESIC contains acetaminophen and ibuprofen.
 Acetaminophen or NSAIDs, including ibuprofen, may cause serious skin adverse events such as exfoliative dermatitis, acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of COMBOGESIC at the first appearance of skin rash or any other sign of hypersensitivity.
 COMBOGESIC is contraindicated in patients with previous serious skin reactions to acetaminophen or NSAIDs [see Contraindications (4)].
 
-## 5.10 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs, such as the ibuprofen in COMBOGESIC.
 Some of these events have been fatal or life-threatening.
