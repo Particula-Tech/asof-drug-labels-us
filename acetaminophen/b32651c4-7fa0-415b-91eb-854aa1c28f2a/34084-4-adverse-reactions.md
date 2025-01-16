@@ -45,3 +45,10 @@ Table 1: Most commonly (≥2%) reported adverse reactions by organ system during
 | Skin and subcutaneous tissue disorders |  |  |  |  |
 | Swelling face | 2 | 4 | 4 | 3 |
 | Pruritus | 0.4 | 0.4 | 0.4 | 3 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of acetaminophen and ibuprofen.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).
