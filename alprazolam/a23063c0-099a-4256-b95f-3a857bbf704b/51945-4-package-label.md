@@ -8,9 +8,9 @@ Alprazolam Tablets, USP CIV
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 Tablets
+Rx only
 
-Rx Only
+100 Tablets
 
 # Principal Display Panel
 
@@ -22,9 +22,9 @@ Alprazolam Tablets, USP CIV
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 Tablets
+Rx only
 
-Rx Only
+100 Tablets
 
 # Principal Display Panel
 
@@ -36,9 +36,9 @@ Alprazolam Tablets, USP CIV
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 Tablets
+Rx only
 
-Rx Only
+100 Tablets
 
 # Principal Display Panel
 
@@ -50,6 +50,6 @@ Alprazolam Tablets, USP CIV
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 Tablets
+Rx only
 
-Rx Only
+100 Tablets
