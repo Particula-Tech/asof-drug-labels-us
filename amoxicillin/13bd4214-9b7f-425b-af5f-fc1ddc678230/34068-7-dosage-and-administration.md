@@ -1,7 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Click or tap here to enter text.
-
 ## 2.1 Important Administration Instructions
 
 To minimize the potential for gastrointestinal intolerance, amoxcillin should be taken at the start of a meal.
