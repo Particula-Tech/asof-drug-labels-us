@@ -24,7 +24,7 @@ Onychomycosis of the fingernail due to dermatophytes (tinea unguium).
 
 Prior to initiating treatment, appropriate nail specimens for laboratory testing (KOH preparation, fungal culture, or nail biopsy) should be obtained to confirm the diagnosis of onychomycosis.
 
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Postmarketing Experience for more information.)
 
 Description of Clinical Studies:
 
@@ -64,7 +64,7 @@ Twenty-one percent (21%) of the overall success group had a relapse (worsening o
 
 Onychomycosis of the fingernail:
 
-Analyses were conducted on data from a double-blind, placebo-controlled study (N=73 total; 37 given itraconazole capsules in which patients with onychomycosis of the fingernails received a 1-week course of 200 mg of itraconazole capsules b.i.d., followed by a 3-week period without itraconazole, which was followed by a second 1-week course of 200 mg of itraconazole capsules b.i.d.
+Analyses were conducted on data from a double-blind, placebo-controlled study (N=73 total; 37 given itraconazole capsules in which patients with onychomycosis of the fingernails received a 1-week course (pulse) of 200 mg of itraconazole capsules b.i.d., followed by a 3-week period without itraconazole, which was followed by a second 1-week pulse of 200 mg of itraconazole capsules b.i.d.
 Results demonstrated mycologic cure in 61% of patients.
 Fifty-six percent (56%) of patients were considered an overall success and 47% of patients demonstrated mycologic cure plus clinical cure.
 The mean time to overall success was approximately 5 months.
