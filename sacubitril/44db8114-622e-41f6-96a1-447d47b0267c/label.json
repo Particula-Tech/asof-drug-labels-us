@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA213748"
+  ],
+  "inn": "sacubitril",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-280-18",
+    "72205-280-60",
+    "72205-281-18",
+    "72205-281-60",
+    "72205-282-18",
+    "72205-282-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sacubitril and valsartan",
+      "name": "Sacubitril and Valsartan"
+    }
+  ],
+  "setid": "44db8114-622e-41f6-96a1-447d47b0267c",
+  "source": "dailymed"
+}
