@@ -9,7 +9,7 @@ Parenteral administration of digoxin should be used only when the need for rapid
 Intramuscular injection can lead to severe pain at the injection site, thus intravenous administration is preferred.
 If the drug must be administered by the intramuscular route, it should be injected deep into the muscle followed by massage.
 For adults, no more than 500 mcg of Digoxin Injection should be injected into a single site.
-For pediatric patients, see the full prescribing information for pediatric digoxin injection (not available from West-Ward) for specific recommendations.
+For pediatric patients, see the full prescribing information for pediatric digoxin injection (not available from Hikma Pharmaceuticals) for specific recommendations.
 
 Administer the dose over a period of 5 minutes or longer and avoid bolus administration to prevent systemic and coronary vasoconstriction.
 Mixing of Digoxin Injection with other drugs in the same container or simultaneous administration in the same intravenous line is not recommended.
@@ -17,8 +17,6 @@ Mixing of Digoxin Injection with other drugs in the same container or simultaneo
 Digoxin Injection can be administered undiluted or diluted with a 4-fold or greater volume of Sterile Water for Injection, 0.9% Sodium Chloride Injection, or 5% Dextrose Injection.
 The use of less than a 4-fold volume of diluent could lead to precipitation of the digoxin.
 Immediate use of the diluted product is recommended.
-
-If tuberculin syringes are used to measure very small doses do not flush with the parenteral solution after its contents are expelled into an indwelling vascular catheter to avoid overadministration of digoxin.
 
 Consider interruption or reduction in digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
