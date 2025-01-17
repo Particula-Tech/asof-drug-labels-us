@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017681"
+  ],
+  "inn": "methenamine",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-470-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "HIPREX"
+    }
+  ],
+  "setid": "2bd5883d-1a1b-d202-e063-6394a90a211a",
+  "source": "dailymed"
+}
