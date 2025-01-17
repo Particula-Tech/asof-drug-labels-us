@@ -3,12 +3,14 @@ NOT FOR OPHTHALMIC USE.
 
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Marketed by: GSMS, Inc.
+Revised: June, 2016
 
-Camarillo, CA USA 93012
+PK-1193-5 0616-5 74
 
-Revised: October, 2019
+Marketed by:
 
-PK-9176-0 110
+GSMS, Inc.
+
+Camarillo, CA 93012 USA

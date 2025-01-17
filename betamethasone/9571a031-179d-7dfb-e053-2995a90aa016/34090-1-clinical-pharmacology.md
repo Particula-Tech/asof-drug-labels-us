@@ -10,12 +10,11 @@ Betamethasone dipropionate, a corticosteroid, has been shown to have topical (de
 ## Pharmacokinetics
 
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
-(See DOSAGE AND ADMINISTRATION)
+(See DOSAGE AND ADMINISTRATION).
 
 Topical corticosteroids can be absorbed through normal intact skin.
 Inflammation and/or other disease processes in the skin increase percutaneous absorption.
-Occlusive dressings substantially increase the percutaneous absorption of topical corticosteroids.
-(See DOSAGE AND ADMINISTRATION)
+Occlusive dressings substantially increase the percutaneous absorption of topical corticosteroids (See DOSAGE AND ADMINISTRATION).
 
 Once absorbed through the skin, topical corticosteroids are handled through pharmacokinetic pathways similar to systemically administered corticosteroids.
 Corticosteroids are bound to plasma proteins in varying degrees.
@@ -23,6 +22,6 @@ Corticosteroids are metabolized primarily in the liver and are then excreted by 
 Some of the topical corticosteroids and their metabolites are also excreted into the bile.
 
 Sixty-three pediatric patients ages 1 to 12 years, with atopic dermatitis, were enrolled in an open-label, hypothalamic-pituitary-adrenal (HPA) axis safety study.
-Betamethasone dipropionate cream USP, 0.05% was applied twice daily for 2 to 3 weeks over a mean body surface area of 40% (range 35% to 90%).
-In 10 of 43 (23%) evaluable patients, adrenal suppression was indicated by either ≤ 5 mcg/dL pre-stimulation cortisol, or a cosyntropin post-stimulation cortisol ≤ 18 mcg/dL and/or an increase of < 7 mcg/dL from the baseline cortisol.
-Studies performed with betamethasone dipropionate cream USP, 0.05% indicate that it is in the medium range of potency as compared with other topical corticosteroids.
+Betamethasone dipropionate cream was applied twice daily for 2 to 3 weeks over a mean body surface area of 40% (range 35% to 90%).
+In 10 of 43 (23%) evaluable patients, adrenal suppression was indicated by either a ≤ 5 mcg/dL pre-stimulation cortisol, or a cosyntropin post-stimulation cortisol ≤ 18 mcg/dL and/or an increase of < 7 mcg/dL from the baseline cortisol.
+Studies performed with betamethasone dipropionate cream indicate that it is in the medium range of potency as compared with other topical corticosteroids.
