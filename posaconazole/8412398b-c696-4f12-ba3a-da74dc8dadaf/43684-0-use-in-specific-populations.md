@@ -60,9 +60,9 @@ Similar recommendations apply to posaconazole delayed-release tablets; however, 
 After a single oral dose of Noxafil® Oral Suspension 400 mg, the mean AUC was 43%, 27%, and 21% higher in subjects with mild (Child-Pugh Class A, N=6), moderate (Child-Pugh Class B, N=6), or severe (Child-Pugh Class C, N=6) hepatic impairment, respectively, compared to subjects with normal hepatic function (N=18).
 Compared to subjects with normal hepatic function, the mean Cmax was 1% higher, 40% higher, and 34% lower in subjects with mild, moderate, or severe hepatic impairment, respectively.
 The mean apparent oral clearance (CL/F) was reduced by 18%, 36%, and 28% in subjects with mild, moderate, or severe hepatic impairment, respectively, compared to subjects with normal hepatic function.
-The elimination half-life (t½) was 27 hours, 39 hours, 27 hours, and 43 hours in subjects with normal hepatic function and mild, moderate, or severe hepatic impairment, respectively.
+The elimination half-life (t1/2;) was 27 hours, 39 hours, 27 hours, and 43 hours in subjects with normal hepatic function and mild, moderate, or severe hepatic impairment, respectively.
 
-It is recommended that no dose adjustment of posaconazole is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.4)].
+It is recommended that no dose adjustment of posaconazole is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.5)].
 However, a specific study has not been conducted with the delayed-release tablets.
 
 ## 8.8 Gender

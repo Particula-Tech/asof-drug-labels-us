@@ -44,7 +44,7 @@ Table 33 contains the results from Noxafil® Oral Suspension Study 2.
 
 Table 33: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All Randomized Patients with Hematologic Malignancy and Prolonged Neutropenia: Noxafil® Oral Suspension Study 2
 
-|  | Posaconazole n=304 | Fluconazole n=298 |
+|  | Posaconazole n=304 | Fluconazole/Itraconazole n=298 |
 | --- | --- | --- |
 | On therapy plus 7 days |  |  |
 | Clinical Failure95% confidence interval (posaconazole-fluconazole/itraconazole) = (-22.9%, -7.8%)., Patients may have met more than one criterion defining failure. | 82 (27%) | 126 (42%) |

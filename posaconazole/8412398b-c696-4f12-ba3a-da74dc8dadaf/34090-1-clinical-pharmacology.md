@@ -37,7 +37,7 @@ Table 20: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunte
 | Volunteers |  | (25) | (25) | (21) | (29) | (3-6) | (40) | (26) |
 | Patients | 50 | 37900 | 1580 | 2090 | 1310 | 4 (1.3-8.3) | - | 9.39 |
 |  |  | (42) | (42) | (38) | (50) |  |  | (45) |
-| CV = coefficient of variation expressed as a percentage (%CV); AUC0-T = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; t½ = terminal phase half-life; CL/F = Apparent total body clearance |  |  |  |  |  |  |  |  |
+| CV = coefficient of variation expressed as a percentage (%CV); AUC0-T = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; t1/2; = terminal phase half-life; CL/F = Apparent total body clearance |  |  |  |  |  |  |  |  |
 
 Absorption:
 
@@ -62,7 +62,7 @@ Table 23: The Effect of Concomitant Medications that Affect the Gastric pH and G
 
 | Coadministered Drug | Administration Arms | Change in Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to posaconazole alone for Cmax or AUC0-last.; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- |
-| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 meq/5 mL, 20 mL | ↑6%(1.06; 0.90-1.26)↑ | ↑4%(1.04; 0.90-1.20) |
+| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 mEq/5 mL, 20 mL | ↑6%(1.06; 0.90-1.26)↑ | ↑4%(1.04; 0.90-1.20) |
 | Ranitidine (Zantac®) (Alteration in gastric pH) | 150 mg (morning dose of 150 mg Ranitidine twice daily) | ↑4%(1.04; 0.88-1.23)↑ | ↓3%(0.97; 0.84-1.12) |
 | Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, Day -4 to 1) | ↑2%(1.02; 0.88-1.17)↑ | ↑5%(1.05; 0.89-1.24) |
 | Metoclopramide (Reglan®) (Increase in gastric motility) | 15 mg four times daily for 2 days (Day -1 and 1) | ↓14%(0.86, 0.73,1.02) | ↓7%(0.93, 0.803,1.07) |
@@ -120,7 +120,7 @@ Additional clinical studies demonstrated that no clinically significant effects 
 Excretion: Following administration of Noxafil® Oral Suspension, posaconazole is predominantly eliminated in the feces (71% of the radiolabeled dose up to 120 hours) with the major component eliminated as parent drug (66% of the radiolabeled dose).
 Renal clearance is a minor elimination pathway, with 13% of the radiolabeled dose excreted in urine up to 120 hours (<0.2% of the radiolabeled dose is parent drug).
 
-Posaconazole delayed-release tablet is eliminated with a mean half-life (t½) ranging between 26 to 31 hours.
+Posaconazole delayed-release tablet is eliminated with a mean half-life (t1/2;) ranging between 26 to 31 hours.
 
 Specific Populations No clinically significant differences in the pharmacokinetics of posaconazole were observed based on age, sex, renal impairment, and indication.
 
