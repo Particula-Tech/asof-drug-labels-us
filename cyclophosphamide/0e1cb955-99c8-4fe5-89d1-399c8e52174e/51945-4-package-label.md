@@ -4,7 +4,7 @@ NDC 69097-516-07 Rx Only
 
 Cyclophosphamide
 
-Capsules
+Capsules, USP
 
 25 mg
 
@@ -22,7 +22,7 @@ NDC 69097-517-07 Rx Only
 
 Cyclophosphamide
 
-Capsules
+Capsules,USP
 
 50 mg
 

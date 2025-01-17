@@ -30,7 +30,7 @@ Embryo-Fetal Toxicity
 
 Lactation
 
-- Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of Cyclophosphamide capsules [see Use in Specific Populations (8.2)].
+- Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of cyclophosphamide Capsules [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -63,4 +63,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 02/2020
+Revised: 03/2023
