@@ -221,12 +221,11 @@ Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Pat
 
 | Adverse Reaction | n (%) | n (%) |
 | --- | --- | --- |
-|  | CUBICIN (N = 55) | Comparator (N = 26) |
+|  | CUBICIN (N = 55) | ComparatorComparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) (N = 26) |
 | Gastrointestinal disorders |  |  |
 | Vomiting | 6 (10.9) | 2 (7.7) |
 | Investigations |  |  |
 | Blood CPK increased | 4 (7.3) | 0 |
-| *Comparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) |  |  |
 
 ## 6.2 Post-Marketing Experience
 
