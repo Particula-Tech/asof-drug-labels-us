@@ -17,8 +17,8 @@ If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not direct
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
-(See ADVERSE REACTIONS.)
-If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
+Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption (See ADVERSE REACTIONS).
+If severe skin reactions occur, discontinue doxycycline hyclate immediately and institute appropriate therapy.
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline hyclate.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
