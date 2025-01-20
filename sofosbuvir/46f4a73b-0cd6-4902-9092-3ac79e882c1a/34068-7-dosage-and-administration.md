@@ -47,7 +47,7 @@ Table 2 Dosing for Pediatric Patients 3 Years and Older
 | --- | --- | --- |
 | at least 35 | one Ledipasvir and Sofosbuvir 90 mg/400 mg tablet once daily or two Ledipasvir and Sofosbuvir (HARVONI) 45 mg/200 mg tablets once daily or two 45 mg/200 mg packets of Ledipasvir and Sofosbuvir (HARVONI) oral pellets once daily | 90 mg/400 mg per day |
 | 17 to less than 35 | one Ledipasvir and Sofosbuvir (HARVONI) 45 mg/200 mg tablet once daily or one 45 mg/200 mg packet of Ledipasvir and Sofosbuvir (HARVONI) oral pellets once daily | 45 mg/200 mg per day |
-| less than17 | one 33.75 mg/150 mg packet of Ledipasvir and Sofosbuvir (HARVONI) oral pellets once daily | 33.75 mg/150 mg per day |
+| less than 17 | one 33.75 mg/150 mg packet of Ledipasvir and Sofosbuvir (HARVONI) oral pellets once daily | 33.75 mg/150 mg per day |
 
 Table 3 Recommended Dosing for Ribavirin in Combination Therapy with Ledipasvir and Sofosbuvir for Pediatric Patients 3 Years and Older
 
