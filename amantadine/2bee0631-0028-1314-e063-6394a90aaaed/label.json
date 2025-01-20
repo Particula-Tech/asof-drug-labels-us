@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA208944"
+  ],
+  "inn": "amantadine",
+  "labeler": "Supernus Pharmaceuticals",
+  "package_ndcs": [
+    "17772-085-21",
+    "17772-085-60",
+    "17772-170-21",
+    "17772-170-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "amantadine",
+      "name": "GOCOVRI"
+    }
+  ],
+  "setid": "2bee0631-0028-1314-e063-6394a90aaaed",
+  "source": "dailymed"
+}
