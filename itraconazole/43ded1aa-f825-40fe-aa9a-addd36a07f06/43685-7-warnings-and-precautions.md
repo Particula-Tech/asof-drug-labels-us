@@ -90,7 +90,7 @@ The hearing loss usually resolves when treatment is stopped, but can persist in 
 - Only itraconazole oral solution has been demonstrated effective for oral and/or esophageal candidiasis.
 - Itraconazole oral solution contains the excipient hydroxypropyl-β-cyclodextrin which produced adenocarcinomas in the large intestine and exocrine pancreatic adenocarcinomas in a rat carcinogenicity study.
   These findings were not observed in a similar mouse carcinogenicity study.
-  The clinical relevance of these adenocarcinomas is unknown (see Carcinogenesis, Mutagenesis, and Impairment of Fertility).
+  The clinical relevance of these adenocarcinomas is unknown (see PRECAUTIONS: Carcinogenesis, Mutagenesis, and Impairment of Fertility).
 - Taking itraconazole oral solution under fasted conditions improves the systemic availability of itraconazole.
   Instruct patients to take itraconazole oral solution without food, if possible.
 - Itraconazole oral solution should not be used interchangeably with itraconazole capsules.
@@ -111,7 +111,7 @@ Effect of Itraconazole on Other Drugs
 Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
 Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).
 Consequently, itraconazole has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
-Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
+Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, torsade de pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
 The table below lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list.
 

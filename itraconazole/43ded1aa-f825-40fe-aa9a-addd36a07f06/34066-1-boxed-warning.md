@@ -16,4 +16,4 @@ Drug Interactions:
 - Co-administration with venetoclax is contraindicated in patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) during the dose initiation and ramp-up phase of venetoclax (see PRECAUTIONS: Drug Interactions Section for specific examples).
 
 - Co-administration with itraconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.
-  For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia (see CONTRAINDICATIONS and WARNINGS Sections, and PRECAUTIONS: Drug Interactions Section for specific examples).
+  For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsade de pointes, a potentially fatal arrhythmia (see CONTRAINDICATIONS and WARNINGS Sections, and PRECAUTIONS: Drug Interactions Section for specific examples).
