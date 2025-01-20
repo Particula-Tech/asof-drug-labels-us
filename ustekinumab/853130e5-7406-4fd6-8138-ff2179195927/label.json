@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "BLA761379"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "65219-824-01",
+    "65219-826-26",
+    "65219-828-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab-aauz",
+      "name": "Otulfi"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "ustekinumab-aauz",
+      "name": "Otulfi"
+    }
+  ],
+  "setid": "853130e5-7406-4fd6-8138-ff2179195927",
+  "source": "dailymed"
+}
