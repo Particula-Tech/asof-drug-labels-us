@@ -100,34 +100,6 @@ Cerebral Malaria
 
 Avoid corticosteroids, including deflazacort, in patients with cerebral malaria.
 
-Varicella Zoster and Measles Viral Infections
-
-Chickenpox caused by Varicella Zoster virus and measles can have a serious or even fatal course in non-immune children or adults on corticosteroids, including deflazacort.
-In children or adults who have not had these diseases, particular care should be taken to avoid exposure.
-If a patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If a patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
-If chickenpox develops, treatment with antiviral agents may be considered.
-
-Hepatitis B Virus Reactivation
-
-Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers undergoing treatment with immunosuppressive drugs including corticosteroids.
-Reactivation can also occur in patients who appear to have resolved hepatitis B infection.
-
-Fungal Infections
-
-Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections.
-For patients on corticosteroids who develop systemic fungal infections, withdrawal of corticosteroids or reduction of the dose of corticosteroids is recommended.
-
-Amebiasis
-
-Corticosteroids may activate latent amebiasis.
-Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics, or any patient with unexplained diarrhea.
-
-Strongyloides Infestation
-
-In patients with known or suspected Strongyloides (threadworm) infestation, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
-For patients on corticosteroids who develop known or suspected Strongyloides (threadworm) infestation, withdrawal of corticosteroids or reduction of the dose of corticosteroids is recommended.
-
 ## 5.3 Alterations in Cardiovascular/Renal Function
 
 Corticosteroids, including deflazacort, can cause elevation of blood pressure, salt, and water retention, and increased excretion of potassium and calcium.
