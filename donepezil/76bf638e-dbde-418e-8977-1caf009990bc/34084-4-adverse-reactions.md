@@ -19,7 +19,7 @@ Controlled and uncontrolled trials in the United States included approximately 9
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months, and 116 patients treated for over 1 year.
 The range of patient exposure is from 1 to 1,214 days
 
-Mild to Moderate Alzheimer's Disease
+Mild to Moderate Alzheimer’s Disease
 
 Adverse Reactions Leading to Discontinuation
 
@@ -28,7 +28,7 @@ The rate of discontinuation of patients who received 7-day escalations from 5 mg
 
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients, are shown in Table 1.
 
-| Table 1. Most Common Adverse Reactions Leading to Discontinuation in Patients with Mild to Moderate Alzheimer’s Disease |  |  |  |
+| Table 1.Most Common Adverse Reactions Leading to Discontinuation in Patients with Mild to Moderate Alzheimer’s Disease |  |  |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | Placebo(n=355)% | 5 mg/dayDonepezil Hydrochloride Tablets(n=350)% | 10 mg/day Donepezil Hydrochloride Tablets(n=315)% |
 | Nausea | 1 | 1 | 3 |
@@ -39,7 +39,7 @@ Most Common Adverse Reactions
 
 The most common adverse reactions, defined as those occurring at a frequency of at least 5% in patients receiving 10 mg/day and twice the placebo rate, are largely predicted by donepezil hydrochloride tablet's cholinomimetic effects.
 These include nausea, diarrhea, insomnia, vomiting, muscle cramp, fatigue and anorexia.
-These adverse events were often transient, resolving during continued donepezil hydrochloride tablets treatment without the need for dose modification.
+These adverse reactions were often transient, resolving during continued donepezil hydrochloride tablets treatment without the need for dose modification.
 
 There is evidence to suggest that the frequency of these common adverse reactions may be affected by the rate of titration.
 An open-label study was conducted with 269 patients who received placebo in the 15- and 30-week studies.
@@ -141,7 +141,7 @@ Table 4 lists adverse reactions that occurred in at least 2% of patients in pool
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use donepezil hydrochloride tablets.
+The following adverse reactions have been identified during post-approval use of donepezil hydrochloride tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abdominal pain, agitation, aggression, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, rash, rhabdomyolysis, QTc prolongation, and torsade de pointes.

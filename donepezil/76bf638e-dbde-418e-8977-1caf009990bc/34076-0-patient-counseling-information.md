@@ -10,12 +10,14 @@ Advise patients and caregivers that donepezil hydrochloride tablets may cause na
 
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
+Dispense with Patient Information Sheet available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
-Manufactured For:
+Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920
 
-8088524 Revised July 2022
+8099427 Revised: January 2025

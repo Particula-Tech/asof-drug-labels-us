@@ -81,7 +81,7 @@ Fifteen-Week Study
 In a study of 15 weeks duration, patients were randomized to receive single daily doses of placebo or either 5 mg/day or 10 mg/day of donepezil hydrochloride tablets for 12 weeks, followed by a 3-week placebo washout period.
 As in the 30-week study, to avoid acute cholinergic effects, the 10 mg/day treatment followed an initial 7-day treatment with 5 mg/day doses.
 
-Effects on the ADAS-Cog
+Effects on the ADAS-cog
 
 Figure 4 illustrates the time course of the change from baseline in ADAS-cog scores for all three dose groups over the 15 weeks of the study.
 After 12 weeks of treatment, the differences in mean ADAS-cog change scores for the donepezil hydrochloride tablets treated patients compared to the patients on placebo were 2.7 and 3.0 points each, for the 5 and 10 mg/day donepezil hydrochloride tablets treatment groups, respectively.

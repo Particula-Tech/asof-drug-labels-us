@@ -5,25 +5,25 @@
 Risk Summary
 
 There are no adequate data on the developmental risks associated with the use of donepezil in pregnant women.
-In animal studies, developmental toxicity was not observed when donepezil was administered to pregnant rats and rabbits during organogenesis, but administration to rats during the latter part od pregnancy and throughout lactation resulted in increased stillbirths and decreased offspring survival at clinciallky relevant doses [see Data].
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clincially recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
+In animal studies, developmental toxicity was not observed when donepezil was administered to pregnant rats and rabbits during organogenesis, but administration to rats during the latter part of pregnancy and throughout lactation resulted in increased stillbirths and decreased offspring survival at clinically relevant doses [see Data].
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
 The background risks of major birth defects and miscarriage for the indicated population are unknown.
 
 Data
 
 Animal Data
 
-Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 16 times the maximum recommended human dose [MRHD] of 10 mg/day on a mg/m 2 basis) and 10 mg/kg/day (approximately 20 times the MRHD on a mg/m 2 basis), respectively.
+Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 16 times the maximum recommended human dose [MRHD] of 10 mg/day on a mg/m2 basis) and 10 mg/kg/day (approximately 20 times the MRHD on a mg/m2 basis), respectively.
 Oral administration of donepezil (1, 3, 10 mg/kg/day) to rats during late gestation and throughout lactation to weaning produced an increase in stillbirths and reduced offspring survival through postpartum day 4 at the highest dose.
-The no-effect dose of 3 mg/kg/day is approximately 3 times the MRHD on a mg/m 2 basis.
+The no-effect dose of 3 mg/kg/day is approximately 3 times the MRHD on a mg/m2 basis.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-﻿There are no data on the presence ofd donepezil or its metabolites in human milk, the effects on the breastfed infant, or on milk production.
+﻿There are no data on the presence of donepezil or its metabolites in human milk, the effects on the breastfed infant, or on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clincial need for donepezil and any potential adverse effects on the breastfed infant from donepezil or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for donepezil and any potential adverse effects on the breastfed infant from donepezil or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

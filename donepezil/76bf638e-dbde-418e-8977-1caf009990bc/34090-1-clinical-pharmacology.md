@@ -47,7 +47,7 @@ Gender and Race
 No specific pharmacokinetic study was conducted to investigate the effects of gender and race on the disposition of donepezil hydrochloride.
 However, retrospective pharmacokinetic analysis and population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer's disease indicates that gender and race (Japanese and Caucasians) did not affect the clearance of donepezil hydrochloride to an important degree.
 
-Body weight
+Body Weight
 
 There was a relationship noted between body weight and clearance.
 Over the range of body weight from 50 kg to 110 kg, clearance increased from 7.77 L/h to 14.04 L/h, with a value of 10 L/hr for 70 kg individuals.
