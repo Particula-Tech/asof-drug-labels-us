@@ -38,7 +38,7 @@ For I.V. or I.M. use.
 Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
 
 AP/DRUGS/08/2013 M.L.No.
-08/VP/AP/2013/F/G
+08/VP/AP/2013/F/R
 
 Hospira
 
