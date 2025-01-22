@@ -33,9 +33,9 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 5.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
 
-Table 5:
+Table 2:
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -132,9 +132,9 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 Adults
 
 In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
-Table 6 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
+Table 3 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
 
-Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
+Table 3: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
 
 | Fasting Glucose | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
@@ -145,18 +145,6 @@ Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials i
 
 At 24 weeks, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.2 mg/dL (n=42) and +9.6 mg/dL (n=28), respectively].
 
-The mean change in fasting glucose in adjunctive aripiprazole-treated patients with major depressive disorder (+0.7 mg/dL; median exposure 42 days; N=241) was not significantly different than in placebo-treated patients (+0.8 mg/dL; median exposure 42 days; N=246).
-Table 7 shows the proportion of adult patients with changes in fasting glucose levels from two placebo-controlled, adjunctive trials (median exposure 42 days) in patients with major depressive disorder.
-
-Table 7: Changes in Fasting Glucose From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
-
-| Fasting Glucose | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
-| --- | --- | --- | --- | --- |
-| Normal to High (<100 mg/dL to >126 mg/dL) | Aripiprazole | 2/201 | 1.0 |  |
-| Placebo | 2/204 | 1.0 |  |  |
-| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 4/34 | 11.8 |  |
-| Placebo | 3/37 | 8.1 |  |  |
-
 Pediatric Patients and Adolescents
 
 In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), the mean change in fasting glucose in aripiprazole-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
@@ -165,9 +153,9 @@ In an analysis of two placebo-controlled trials in pediatric and adolescent pati
 
 In an analysis of two placebo-controlled trials in pediatric and adolescent patients with Tourette’s disorder (6 to 18 years) with median exposure of 57 days, the mean change in fasting glucose in aripiprazole-treated patients (0.79 mg/dL; N=90) was not significantly different than in placebo-treated patients (-1.66 mg/dL; N=58).
 
-Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and pediatric bipolar patients (median exposure of 42-43 days), from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder (median exposure of 56 days), and from the two placebo-controlled trials in pediatric patients (6 to 18 year) with Tourette’s Disorder (median exposure 57 days).
+Table 4 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and pediatric bipolar patients (median exposure of 42-43 days), from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder (median exposure of 56 days), and from the two placebo-controlled trials in pediatric patients (6 to 18 year) with Tourette’s Disorder (median exposure 57 days).
 
-Table 8: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
+Table 4: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
 
 | Category Change (at least once) from Baseline | Indication | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
@@ -194,9 +182,9 @@ Analyses of patients with at least 12 or 24 weeks of exposure were limited by sm
 
 Adults
 
-Table 9 shows the proportion of adult patients, primarily from pooled schizophrenia and bipolar disorder monotherapy placebo-controlled trials, with changes in total cholesterol (pooled from 17 trials; median exposure 21 to 25 days), fasting triglycerides (pooled from eight trials; median exposure 42 days), fasting LDL cholesterol (pooled from eight trials; median exposure 39 to 45 days, except for placebo-treated patients with baseline normal fasting LDL measurements, who had median treatment exposure of 24 days) and HDL cholesterol (pooled from nine trials; median exposure 40 to 42 days).
+Table 5 shows the proportion of adult patients, primarily from pooled schizophrenia and bipolar disorder monotherapy placebo-controlled trials, with changes in total cholesterol (pooled from 17 trials; median exposure 21 to 25 days), fasting triglycerides (pooled from eight trials; median exposure 42 days), fasting LDL cholesterol (pooled from eight trials; median exposure 39 to 45 days, except for placebo-treated patients with baseline normal fasting LDL measurements, who had median treatment exposure of 24 days) and HDL cholesterol (pooled from nine trials; median exposure 40 to 42 days).
 
-Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Adults
+Table 5: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Adults
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -211,26 +199,11 @@ Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 
 In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4.0%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
 
-Table 10 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting), fasting triglycerides, fasting LDL cholesterol, and HDL cholesterol from two placebo-controlled adjunctive trials in adult patients with major depressive disorder (median exposure 42 days).
-
-Table 10: Changes in Blood Lipid Parameters From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
-
-|  | Treatment Arm | n/N | % |
-| --- | --- | --- | --- |
-| Total Cholesterol Normal to High (<200 mg/dL to >240 mg/dL) | Aripiprazole | 3/139 | 2.2 |
-| Placebo | 7/135 | 5.2 |  |
-| Fasting Triglycerides Normal to High (<150 mg/dL to >200 mg/dL) | Aripiprazole | 14/145 | 9.7 |
-| Placebo | 6/147 | 4.1 |  |
-| Fasting LDL Cholesterol Normal to High (<100 mg/dL to >160 mg/dL) | Aripiprazole | 0/54 | 0 |
-| Placebo | 0/73 | 0 |  |
-| HDL Cholesterol Normal to Low (>40 mg/dL to <40 mg/dL) | Aripiprazole | 17/318 | 5.3 |
-| Placebo | 10/286 | 3.5 |  |
-
 Pediatric Patients and Adolescents
 
-Table 11 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days) and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
+Table 6 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days) and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
 
-Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Bipolar Disorder
+Table 6: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Bipolar Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -243,9 +216,9 @@ Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy 
 
 In monotherapy trials of adolescents with schizophrenia and pediatric patients with bipolar disorder, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10.0%), respectively.
 
-Table 12 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 56 days) and HDL cholesterol (median exposure 55 to 56 days) from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder.
+Table 7 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 56 days) and HDL cholesterol (median exposure 55 to 56 days) from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder.
 
-Table 12: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
+Table 7: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -256,9 +229,9 @@ Table 12: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pe
 | HDL CholesterolNormal to Low (>40 mg/dL to <40 mg/dL) | Aripiprazole | 9/107 | 8.4 |
 | Placebo | 5/49 | 10.2 |  |
 
-Table 13 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 57 days) and HDL cholesterol (median exposure 57 days) from two placebo-controlled trials in pediatric patients (6 to 18 years) with Tourette’s Disorder.
+Table 8 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 57 days) and HDL cholesterol (median exposure 57 days) from two placebo-controlled trials in pediatric patients (6 to 18 years) with Tourette’s Disorder.
 
-Table 13: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Tourette’s Disorder
+Table 8: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Tourette’s Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -279,12 +252,9 @@ Adults
 In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
 At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was –1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
 
-In the trials adding aripiprazole to antidepressants, patients first received 8 weeks of antidepressant treatment followed by 6 weeks of adjunctive aripiprazole or placebo in addition to their ongoing antidepressant treatment.
-The mean change in body weight in patients receiving adjunctive aripiprazole was +1.7 kg (N=347) compared to +0.4 kg (N=330) in patients receiving adjunctive placebo.
+Table 9 shows the percentage of adult patients with weight gain >7% of body weight by indication.
 
-Table 14 shows the percentage of adult patients with weight gain >7% of body weight by indication.
-
-Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain >7% of Body Weight
+Table 9: Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain >7% of Body Weight
 
 | Weight gain >7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -292,10 +262,8 @@ Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patient
 | Placebo | 379 | 12 (3.2) |  |  |
 | Bipolar Mania† | Aripiprazole | 719 | 16 (2.2) |  |
 | Placebo | 598 | 16 (2.7) |  |  |
-| Major Depressive Disorder (Adjunctive Therapy)‡ | Aripiprazole | 347 | 18 (5.2) |  |
-| Placebo | 330 | 2 (0.6) |  |  |
 
-* 4 to 6 weeks duration. † 3 weeks duration. ‡ 6 weeks duration.
+* 4 to 6 weeks duration. † 3 weeks duration.
 
 Pediatric Patients and Adolescents
 
@@ -306,9 +274,9 @@ In two short-term, placebo-controlled trials in patients (6 to 17 years) with ir
 
 In two short-term, placebo-controlled trials in patients (6 to 18 years) with Tourette’s Disorder with median exposure of 57 days, the mean change in body weight in aripiprazole-treated patients was +1.5 kg (n=105) compared to +0.4 kg (n=66) in placebo-treated patients.
 
-Table 15 shows the percentage of pediatric and adolescent patients with weight gain >7% of body weight by indication.
+Table 10 shows the percentage of pediatric and adolescent patients with weight gain >7% of body weight by indication.
 
-Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain >7% of Body Weight
+Table 10: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain >7% of Body Weight
 
 | Weight gain >7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -331,6 +299,9 @@ In an open-label trial that enrolled patients from two short-term, placebo-contr
 The mean change in weight z-score was 0.26 SDs for patients receiving >9 months of treatment.
 
 When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
+
+Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
+However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.7 Pathological Gambling and Other Compulsive Behaviors
 
@@ -390,7 +361,7 @@ Appropriate care is advised when prescribing aripiprazole for patients who will 
 
 ## 5.14 Suicide
 
-The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
+The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.15 Dysphagia

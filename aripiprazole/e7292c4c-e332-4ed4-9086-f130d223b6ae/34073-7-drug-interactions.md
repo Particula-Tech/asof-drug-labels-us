@@ -2,7 +2,7 @@
 
 ## 7.1 Drugs Having Clinically Important Interactions with Aripiprazole
 
-Table 25: Clinically Important Drug Interactions with Aripiprazole:
+Table 18: Clinically Important Drug Interactions with Aripiprazole:
 
 | Concomitant Drug Name or Drug Class | Clinical Rationale | Clinical Recommendation |
 | --- | --- | --- |

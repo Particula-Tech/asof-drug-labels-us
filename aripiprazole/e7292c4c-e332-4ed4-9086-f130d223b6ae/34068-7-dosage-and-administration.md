@@ -43,15 +43,6 @@ Recommended dosing as adjunctive therapy to lithium or valproate is the same.
 Subsequent dose increases, if needed, should be administered in 5 mg/day increments.
 Aripiprazole oral solution can be given without regard to meals [see Clinical Studies (14.2)].
 
-## 2.3 Adjunctive Treatment of Major Depressive Disorder
-
-Adults
-
-The recommended starting dose for aripiprazole oral solution as adjunctive treatment for patients already taking an antidepressant is 2 to 5 mg/day.
-The recommended dosage range is 2 to 15 mg/day.
-Dosage adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see Clinical Studies (14.3)].
-Patients should be periodically reassessed to determine the continued need for maintenance treatment.
-
 ## 2.4 Irritability Associated with Autistic Disorder
 
 Pediatric Patients (6 to 17 years)
@@ -80,14 +71,17 @@ Dosage adjustments should occur gradually in increments of 5 mg/day at intervals
 
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
+Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
+However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 2.7 Dosage Adjustments for Cytochrome P450 Considerations
 
-Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 2).
+Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 1).
 When the coadministered drug is withdrawn from the combination therapy, aripiprazole oral solution dosage should then be adjusted to its original level.
 When the coadministered CYP3A4 inducer is withdrawn, aripiprazole oral solution dosage should be reduced to the original level over 1 to 2 weeks.
 Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
 
-Table 2: Dose Adjustments for Aripiprazole Oral Solution in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
+Table 1: Dose Adjustments for Aripiprazole Oral Solution in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
 
 | Factors | Dosage Adjustments for Aripiprazole Oral Solution |
 | --- | --- |
@@ -96,8 +90,6 @@ Table 2: Dose Adjustments for Aripiprazole Oral Solution in Patients who are kno
 | Strong CYP2D6 (e.g., quinidine, fluoxetine, paroxetine) or CYP3A4 inhibitors (e.g., itraconazole, clarithromycin) | Administer half of usual dose |
 | Strong CYP2D6 and CYP3A4 inhibitors | Administer a quarter of usual dose |
 | Strong CYP3A4 inducers (e.g., carbamazepine, rifampin) | Double usual dose over 1 to 2 weeks |
-
-When adjunctive aripiprazole oral solution is administered to patients with major depressive disorder, aripiprazole oral solution should be administered without dosage adjustment as specified in Dosage and Administration (2.3).
 
 ## 2.8 Dosing of Oral Solution
 

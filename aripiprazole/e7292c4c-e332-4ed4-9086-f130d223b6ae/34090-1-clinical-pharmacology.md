@@ -60,9 +60,6 @@ Figure 2: The effects of other drugs on dehydro-aripiprazole pharmacokinetics
 Effect of Other Drugs on Aripiprazole
 
 The effects of aripiprazole on the exposures of other drugs are summarized in Figure 3.
-A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 or 40 mg/day), paroxetine CR (37.5 or 50 mg/day), or sertraline (100 or 150 mg/day) dosed to steady-state.
-The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
-The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were coadministered with aripiprazole.
 
 Figure 3: The effects of aripiprazole on pharmacokinetics of other drugs
 
