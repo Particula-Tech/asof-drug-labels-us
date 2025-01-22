@@ -25,7 +25,7 @@ Ethinyl Estradiol (EE)
 
 PROPERTIES: Established Name: Segesterone Acetate Chemical Name: 16-methylene-17α-acetoxy-19-nor-pregn-4-ene-3,20-dione Molecular Formula: C23H30O4 Molecular Weight: 370.5 Physical Form: White, or yellowish white powder Solubility: Slightly soluble in n-hexane, soluble in ethyl acetate and methanol, freely soluble in acetone (USP classification) Melting Point: 173°C–177°C
 
-Established Name: Ethinyl Estradiol Chemical Name: 19-Nor-17α -pregna-1,3,5(10)-trien-20-yne-3,17-diol Molecular Formula: C20H24O2 Molecular Weight: 296.4 Physical Form: White to slightly ye lowish-white crysta line powder Solubility: Practically insoluble in water, freely soluble in alcohol, it dissolves in alkaline solution Melting Point: 181°C–185°C
+Established Name: Ethinyl Estradiol Chemical Name: 19-Nor-17α -pregna-1,3,5(10)-trien-20-yne-3,17-diol Molecular Formula: C20H24O2 Molecular Weight: 296.4 Physical Form: White to slightly yellowish-white crystalline powder Solubility: Practically insoluble in water, freely soluble in alcohol, it dissolves in alkaline solution Melting Point: 181°C–185°C
 
 The steroids diffuse out of the vaginal system with release rates that vary over time.
 Based on in vitro data, the daily release rates of SA and EE are higher during each initial 24–48 hours of use achieving a somewhat lower steady-state with continued use over the subsequent days in each cycle.

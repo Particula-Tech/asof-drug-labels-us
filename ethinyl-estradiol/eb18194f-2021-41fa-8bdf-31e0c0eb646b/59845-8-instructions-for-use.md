@@ -82,6 +82,9 @@ What else should I know about ANNOVERA?
   Do not use any vaginal lubricants that have silicone or oil in them.
   Water-based lubricants are ok to use.
   Be sure to read the ingredients on the labels carefully before you buy a vaginal lubricant.
+- First insertion of ANNOVERA must be prior to the date of expiration.
+  Discard one year after first insertion.
+  See "How should I dispose of (throw away) ANNOVERA?" below.
 - Do not take any medicines unless your healthcare provider says it is ok to take them.
   Tell your healthcare provider when you start a new medicine.
 
@@ -148,4 +151,4 @@ ANNOVERA is a registered trademark of Population Council and licensed under lice
 
 The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Revised 01/2023
+Revised 08/2024

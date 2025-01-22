@@ -10,6 +10,9 @@ Each cycle is 28 days, with 21 days in and 7 days out.
 Each ANNOVERA is individually packaged in an aluminum pouch.
 The pouch consists of a laminate from outside to inside of polyester, aluminum foil, and polyethylene.
 
+First insertion of ANNOVERA must be prior to the date of expiration.
+Discard one year after first insertions.
+
 A black compact case is provided with the drug product for storage of ANNOVERA by patients during each 7-day vaginal system-out interval.
 
 The vaginal system should be placed in the compact case after 13 cycles of use and discarded via a drug take-back option if one is available.
