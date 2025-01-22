@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209965"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Northstar Rx LLC",
+  "package_ndcs": [
+    "72603-450-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant",
+      "name": "Fosaprepitant"
+    }
+  ],
+  "setid": "bf207918-100d-4917-88b0-3433c0e72249",
+  "source": "dailymed"
+}
