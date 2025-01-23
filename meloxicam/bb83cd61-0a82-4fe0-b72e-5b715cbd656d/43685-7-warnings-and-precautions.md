@@ -124,9 +124,11 @@ When meloxicam is used in patients with preexisting asthma (without known aspiri
 ## 5.9 Serious Skin Reactions
 
 NSAIDs, including meloxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
-Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of meloxicam at the first appearance of skin rash or any other sign of hypersensitivity.
-Meloxicam is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of meloxicam tablets at the first appearance of skin rash or any other sign of hypersensitivity.
+Meloxicam tablets is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
 ## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -138,7 +140,7 @@ Sometimes symptoms of DRESS may resemble an acute viral infection.
 Eosinophilia is often present.
 Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
-If such signs or symptoms are present, discontinue meloxicam and evaluate the patient immediately
+If such signs or symptoms are present, discontinue meloxicam and evaluate the patient immediately.
 
 ## 5.11 Fetal Toxicity
 

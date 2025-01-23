@@ -23,7 +23,7 @@ The risk of getting an ulcer or bleeding increases with:
 
 | ○ past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs | ○ older age |
 | --- | --- |
-| ○ taking medicines called "corticosteroids", "anticoagulants", "SSRIs", or "SNRIs" | ○ poor health |
+| ○ taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” | ○ poor health |
 | ○ increasing doses of NSAIDs | ○ advanced liver disease |
 | ○ longer use of NSAIDs | ○ bleeding problems |
 | ○ smoking |  |
@@ -136,4 +136,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 05/2021
+Revised: 08/2024
