@@ -13,6 +13,6 @@ Formoterol fumarate dihydrate, USP is a white or almost white or slightly yellow
 Formoterol fumarate inhalation solution does not require dilution prior to administration by nebulization.
 Like all other nebulized treatments, the amount delivered to the lungs will depend on patient factors and the nebulization system used and its performance.
 
-Using the PARI-LC Plus® nebulizer (with a facemask or mouthpiece) connected to a PRONEB®Ultra compressor under in vitro conditions, the mean delivered dose from the mouthpiece was approximately 7.3 mcg (37% of label claim).
+Using the PARI-LC Plus® nebulizer (with a facemask or mouthpiece) connected to a PRONEB® Ultra compressor under in vitro conditions, the mean delivered dose from the mouthpiece was approximately 7.3 mcg (37% of label claim).
 The mean nebulizer flow rate was 4 LPM and the nebulization time was 9 minutes.
 Formoterol fumarate inhalation solution should be administered from a standard jet nebulizer at adequate flow rates via a facemask or mouthpiece.

@@ -60,18 +60,10 @@ Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
-
-United States
-
-Manufactured by:
-
-Catalent Pharma Solutions, LLC
-
-Woodstock IL 60098,
+Naples, FL 34108
 
 United States
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-Revised: October 2020
+December 2024

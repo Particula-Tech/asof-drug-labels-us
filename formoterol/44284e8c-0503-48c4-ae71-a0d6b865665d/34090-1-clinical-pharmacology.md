@@ -65,7 +65,6 @@ The effect of formoterol fumarate inhalation solution did not decrease after 12 
 Information on the pharmacokinetics of formoterol (dry powder and/or inhalation solution) in plasma and/or urine is available in healthy subjects as well as patients with chronic obstructive pulmonary disease after oral inhalation of doses at and above the therapeutic dose.
 
 Urinary excretion of unchanged formoterol was used as an indirect measure of systemic exposure.
-
 Plasma drug disposition data parallel urinary excretion, and the elimination half-lives calculated for urine and plasma are similar.
 
 Absorption

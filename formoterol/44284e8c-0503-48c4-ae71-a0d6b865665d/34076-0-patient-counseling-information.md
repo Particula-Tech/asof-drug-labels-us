@@ -41,18 +41,10 @@ Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
-Manufactured by:
-
-Catalent Pharma Solutions, LLC
-
-Woodstock IL 60098,
-
-United States
-
-October 2020
+December 2024
 
 ®The other brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
