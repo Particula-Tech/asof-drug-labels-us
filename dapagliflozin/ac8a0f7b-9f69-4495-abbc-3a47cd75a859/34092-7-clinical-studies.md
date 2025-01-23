@@ -280,7 +280,7 @@ Table 19: Treatment Effect for the Primary Composite Endpoint, its Components, a
 
 |  | Patients with events (event rate) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Efficacy Variable (time to first occurrence) | Dapagliflozin 10 mg N=2152 | Placebo N=2152 | Hazard ratio (95% CI) | p-value |
+| Efficacy Variable(time to first occurrence) | Dapagliflozin 10 mg N=2152 | Placebo N=2152 | Hazard ratio (95% CI) | p-value |
 | Composite of ≥50% sustained eGFR decline, ESKD, CV or renal death | 197 (4.6) | 312 (7.5) | 0.61 (0.51, 0.72) | <0.0001 |
 | Components of the primary composite endpoint |  |  |  |  |
 | ≥50%Sustained eGFR Decline | 112 (2.6) | 201 (4.8) | 0.53 (0.42, 0.67) |  |
