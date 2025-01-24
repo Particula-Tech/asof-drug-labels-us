@@ -19,11 +19,11 @@ Crushing or chewing ZENPEP capsules or mixing the capsule contents in foods havi
 
 Instruct the patient or caregiver of the following:
 
-- •Swallow capsules whole.
+- Swallow capsules whole.
   For patients who cannot swallow the capsules whole, the capsules can be opened, and the contents sprinkled on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas or pears).
-- •Do not crush or chew ZENPEP capsules or capsule contents.
-- •Consume sufficient liquids (juice, water, breast milk, or formula) immediately following administration of ZENPEP to ensure complete swallowing.
-- •Visually inspect the mouth of pediatric patients less than 12 months of age and of patients who are unable to swallow intact capsules to ensure no drug is retained in the mouth and irritation of the oral mucosa has not occurred [see Dosage and Administration (2.3)].
+- Do not crush or chew ZENPEP capsules or capsule contents.
+- Consume sufficient liquids (juice, water, breast milk, or formula) immediately following administration of ZENPEP to ensure complete swallowing.
+- Visually inspect the mouth of pediatric patients less than 12 months of age and of patients who are unable to swallow intact capsules to ensure no drug is retained in the mouth and irritation of the oral mucosa has not occurred [see Dosage and Administration (2.3)].
 
 ## 5.3 Hyperuricemia
 

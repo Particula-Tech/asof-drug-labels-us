@@ -1,10 +1,10 @@
-Manufactured by: Zenpep LLC 1007 US Highway 202/206, Bridgewater, NJ 08807, USA
+Manufactured by: Zenpep, LLC 1007 US Highway 202/206, Bridgewater, NJ 08807, USA
 
 US License No. 2198
 
 Manufactured for: Aimmune Therapeutics, Inc. Bridgewater, NJ 08807, USA
 
-For further information, please call Aimmune Therapeutics at 1-833-AIM2KNO (1-833-246-2566).
+For further information, please call Aimmune Therapeutics at 1-833-AIM2KNO (1-833-246-2566)
 
 ©2024 Nestlé
 

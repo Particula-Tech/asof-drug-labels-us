@@ -25,19 +25,19 @@ Administration
 
 Instruct the patient or caregiver as follows:
 
-- •Take ZENPEP with meals or snacks.
-- •Swallow capsules whole.
-- •For adult and pediatric patients who are unable to swallow intact capsules, the capsule contents may be sprinkled on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas, or pears).
-  For pediatric patients birth to 12 months of age, ZENPEP capsules can also be opened, and the capsule contents sprinkled directly into the infant’s mouth.
-- •Consume sufficient liquids (juice, water, breast milk, or formula) and visually inspect an infant’s mouth to ensure complete swallowing of ZENPEP capsules or capsule contents [see Warnings and Precautions (5.2)].
-- •Do not crush or chew ZENPEP capsules or capsule contents.
-- •Do not mix the ZENPEP capsule contents directly into a bottle of breast milk or formula.
+- Take ZENPEP with meals or snacks.
+- Swallow capsules whole.
+- For adult and pediatric patients who are unable to swallow intact capsules, the capsule contents may be sprinkled on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas, or pears).
+  For pediatric patients birth to 12 months of age, ZENPEP capsules can also be opened, and the capsule contents sprinkled directly into the infant's mouth.
+- Consume sufficient liquids (juice, water, breast milk, or formula) and visually inspect an infant's mouth to ensure complete swallowing of ZENPEP capsules or capsule contents [see Warnings and Precautions (5.2)].
+- Do not crush or chew ZENPEP capsules or capsule contents.
+- Do not mix the ZENPEP capsule contents directly into a bottle of breast milk or formula.
 
 Storage
 
 Instruct the patient or caregiver as follows:
 
-- •Keep ZENPEP in a dry place and protect from moisture and heat.
-- •After opening, keep bottle tightly closed between uses to protect from moisture.
-
-- •The desiccant packet should not be eaten or thrown away.
+- Keep ZENPEP in a dry place and protect from moisture and heat.
+- After opening, keep bottle tightly closed between uses to protect from moisture.
+- Keep the desiccant in the bottle, if present.
+  The desiccant packet should not be eaten or thrown away.

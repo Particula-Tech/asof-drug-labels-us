@@ -14,7 +14,7 @@ Coefficient of Fat Absorption Endpoint and Results
 
 The primary efficacy endpoint was the mean difference in the coefficient of fat absorption (CFA) between ZENPEP and placebo treatment.
 The CFA was determined by a 72-hour stool collection during both treatments, when both fat excretion and fat ingestion were measured.
-Each patient’s CFA during placebo treatment was used as their no-treatment CFA value.
+Each patient's CFA during placebo treatment was used as their no-treatment CFA value.
 
 Mean CFA was 88% with ZENPEP treatment compared to 63% with placebo treatment.
 The mean difference in CFA was 26 percentage points in favor of ZENPEP treatment with 95% Confidence Interval of (19, 32) and p≤0.001.

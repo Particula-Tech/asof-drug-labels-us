@@ -5,13 +5,13 @@
 ZENPEP is a mixture of enzymes including lipases, proteases, and amylases.
 ZENPEP dosing is based on lipase units.
 
-- •Use either an actual body weight or fat ingestion-based dosing scheme.
-- •Start at the lowest recommended dosage and individualize the dosage based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
+- Use either an actual body weight or fat ingestion-based dosing scheme.
+- Start at the lowest recommended dosage and individualize the dosage based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
   Changes in dosage may require an adjustment period of several days.
-- •Do not exceed 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/g fat ingested/day in adult and pediatric patients greater than 12 months of age without further investigation [see Warnings and Precautions (5.1)].
-- •The total daily dosage in adult and pediatric patients greater than 12 months of age should reflect approximately three meals plus two or three snacks per day.
+- Do not exceed 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/g fat ingested/day in adult and pediatric patients greater than 12 months of age without further investigation [see Warnings and Precautions (5.1)].
+- The total daily dosage in adult and pediatric patients greater than 12 months of age should reflect approximately three meals plus two or three snacks per day.
   With each snack, administer approximately half the prescribed ZENPEP dose for a meal.
-- •Do not substitute other pancreatic enzyme products for ZENPEP.
+- Do not substitute other pancreatic enzyme products for ZENPEP.
   When switching from another pancreatic enzyme product to ZENPEP, monitor patients for clinical symptoms of exocrine pancreatic insufficiency and titrate the dosage as needed.
 
 ## 2.2 Recommended Dosage
@@ -20,8 +20,8 @@ Adult and Pediatric Patients Greater than 12 Months of Age
 
 The recommended oral initial starting dosage is:
 
-- •500 lipase units/kg/meal for adult and pediatric patients 4 years of age and older.
-- •1,000 lipase units/kg/meal for pediatric patients greater than 12 months of age to less than 4 years of age.
+- 500 lipase units/kg/meal for adult and pediatric patients 4 years of age and older.
+- 1,000 lipase units/kg/meal for pediatric patients greater than 12 months of age to less than 4 years of age.
 
 If signs and symptoms of malabsorption persist, increase the dosage.
 Titrate to either 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or less than 4,000 lipase units/grams of fat ingested/day.
@@ -35,21 +35,21 @@ The recommended oral dosage is 3,000 lipase units per 120 mL of formula or per b
 
 Instruct adult and pediatric patients greater than 12 months of age, or their caregivers, of the following:
 
-- •Take ZENPEP during meals or snacks.
+- Take ZENPEP during meals or snacks.
   If a dose is missed, take the next dose with the next meal or snack.
-- •Swallow capsules whole.
-- •For patients who are unable to swallow intact capsules, carefully open the capsules and sprinkle the entire contents on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas, or pears).
+- Swallow capsules whole.
+- For patients who are unable to swallow intact capsules, carefully open the capsules and sprinkle the entire contents on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas, or pears).
   Consume the entire mixture immediately.
-- •Do not crush or chew ZENPEP capsules or capsule contents.
-- •Consume sufficient liquids (water or juice) to ensure complete swallowing of ZENPEP [see Warnings and Precautions (5.2)].
+- Do not crush or chew ZENPEP capsules or capsule contents.
+- Consume sufficient liquids (water or juice) to ensure complete swallowing of ZENPEP [see Warnings and Precautions (5.2)].
 
 Instruct caregivers of pediatric patients birth to 12 months of age of the following:
 
-- •Immediately prior to each breast-feeding session or each administration of 120 mL of formula, carefully open one ZENPEP capsule (containing 3,000 USP units of lipase) and administer the entire contents using one of the following two methods:
-  - oSprinkle on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas or pears) being careful not to crush the capsule contents.
+- Immediately prior to each breast-feeding session or each administration of 120 mL of formula, carefully open one ZENPEP capsule (containing 3,000 USP units of lipase) and administer the entire contents using one of the following two methods:
+  - Sprinkle on a small amount of acidic soft food with a pH of 4.5 or less (e.g., commercially available preparations of applesauce, bananas or pears) being careful not to crush the capsule contents.
     The entire mixture should be given to the infant immediately.
-  - oSprinkle the capsule contents directly into the infant’s mouth.
-- •Immediately administer additional breast milk or formula after ZENPEP to ensure complete swallowing of the capsule contents.
-- •Do not mix the ZENPEP capsule contents directly into a bottle of breast milk or formula.
-- •Do not crush ZENPEP capsule contents, and visually inspect the infant’s mouth to ensure that no drug is retained in the mouth [see Warnings and Precautions (5.2)].
-- •If a dose is missed, administer the next dose with the next feeding.
+  - Sprinkle the capsule contents directly into the infant's mouth.
+- Immediately administer additional breast milk or formula after ZENPEP to ensure complete swallowing of the capsule contents.
+- Do not mix the ZENPEP capsule contents directly into a bottle of breast milk or formula.
+- Do not crush ZENPEP capsule contents, and visually inspect the infant's mouth to ensure that no drug is retained in the mouth [see Warnings and Precautions (5.2)].
+- If a dose is missed, administer the next dose with the next feeding.

@@ -2,11 +2,11 @@
 
 The following serious or otherwise important adverse reactions are described elsewhere in the labeling:
 
-- •Fibrosing Colonopathy [see Warnings and Precautions (5.1)]
-- •Irritation of the Oral Mucosa [see Warnings and Precautions (5.2)]
-- •Hyperuricemia [see Warnings and Precautions (5.3)]
-- •Risk of Viral Transmission [see Warnings and Precautions (5.4)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Fibrosing Colonopathy [see Warnings and Precautions (5.1)]
+- Irritation of the Oral Mucosa [see Warnings and Precautions (5.2)]
+- Hyperuricemia [see Warnings and Precautions (5.3)]
+- Risk of Viral Transmission [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -39,25 +39,25 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Eye Disorders
 
-- •blurred vision
+- blurred vision
 
 Gastrointestinal Disorders
 
-- •fibrosing colonopathy and distal intestinal obstruction syndrome
-- •abdominal distension, abdominal pain, diarrhea, flatulence, constipation, and nausea
+- fibrosing colonopathy and distal intestinal obstruction syndrome
+- abdominal distension, abdominal pain, diarrhea, flatulence, constipation, and nausea
 
 Immune System Disorders
 
-- •anaphylaxis, asthma, hives and pruritis
+- anaphylaxis, asthma, hives and pruritis
 
 Investigations
 
-- •asymptomatic elevations of liver enzymes
+- asymptomatic elevations of liver enzymes
 
 Musculoskeletal System
 
-- •myalgia, muscle spasm
+- myalgia, muscle spasm
 
 Skin and Subcutaneous Tissue Disorders
 
-- •urticaria and rash
+- urticaria and rash

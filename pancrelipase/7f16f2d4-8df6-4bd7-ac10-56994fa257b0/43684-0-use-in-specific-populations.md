@@ -8,7 +8,7 @@ Published data from case reports with pancrelipase use in pregnant women have no
 Pancrelipase is minimally absorbed systematically; therefore, maternal use is not expected to result in fetal exposure to the drug.
 Animal reproduction studies have not been conducted with pancrelipase.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
@@ -18,7 +18,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 There are no data on the presence of pancrelipase in either human or animal milk, the effects on the breastfed infant or the effects on milk production.
 Pancrelipase is minimally absorbed systemically following oral administration, therefore maternal use is not expected to result in clinically relevant exposure of breastfed infants to the drug.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZENPEP and any potential adverse effects on the breastfed infant from ZENPEP or from the underlying maternal conditions.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZENPEP and any potential adverse effects on the breastfed infant from ZENPEP or from the underlying maternal conditions.
 
 ## 8.4 Pediatric Use
 
