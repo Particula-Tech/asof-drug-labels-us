@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Lopreeza (estradiol/norethindrone acetate) tablets, 1 mg/0.5 mg are available as white, round, biconvex, film-coated tablets, debossed with “ALH” on the one side and plain on the other side.
+Lopreeza (estradiol/norethindrone acetate) tablets, 1 mg/0.5 mgare available as white, round, biconvex, film-coated tablets, debossed with “ALH” on the one side and plain on the other side.
 (NDC 69238-1610-6).
 It is supplied as 28 tablets in a blister pack, one blister pack per carton.
 

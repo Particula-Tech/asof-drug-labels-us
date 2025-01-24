@@ -3,7 +3,7 @@
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)]
-- Malignant Neoplasms [see Boxed Warning, Warnings and Precautions, (5.2)]
+- Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -13,7 +13,7 @@ Adverse reactions reported with Lopreeza 1 mg/0.5 mg by investigators during cli
 
 TABLE 1
 
-ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ³ 5 PERCENT WITH LOPREEZA 1 MG/0.5 MG
+ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ≥ 5 PERCENT WITH LOPREEZA 1 MG/0.5 MG
 
 |  | Endometrial Hyperplasia Study | (12-Months) | VasomotorSymptoms Study | (3-Months) | Osteoporosis Study | (2-Years) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Adverse reactions reported with Lopreeza 0.5 mg/0.1 mg by investigators during c
 
 TABLE 2
 
-ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ³ 5 PERCENT WITH LOPREEZA 0.5 MG/0.1 MG
+ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ≥ 5 PERCENT WITH LOPREEZA 0.5 MG/0.1 MG
 
 |  | Lopreeza0.5 mg/0.1 mg | Placebo |
 | --- | --- | --- |
