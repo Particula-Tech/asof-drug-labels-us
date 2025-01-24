@@ -120,7 +120,7 @@ The hearing loss usually resolves when treatment is stopped, but can persist in 
 Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
 Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).
 Consequently, Itraconazole Capsules has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
-Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
+Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, torsade de pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
 Table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list.
 

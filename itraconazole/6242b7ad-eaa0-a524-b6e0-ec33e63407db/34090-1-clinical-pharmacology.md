@@ -41,8 +41,8 @@ Concentrations in the cerebrospinal fluid are much lower than in plasma.
 ### Metabolism
 
 Itraconazole is extensively metabolized by the liver into a large number of metabolites.
-In vitrostudies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
-The main metabolite is hydroxy-itraconazole, which has in vitroantifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
+In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
+The main metabolite is hydroxy-itraconazole, which has in vitro antifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
 
 ### Excretion
 
@@ -88,11 +88,11 @@ If signs or symptoms of congestive heart failure appear during administration of
 
 ### Mechanism of Action
 
-In vitrostudies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
+In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
 ### Antimicrobial Activity
 
-Itraconazole exhibits in vitroactivity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophytonspecies (See INDICATIONS AND USAGE: Description of Clinical Studies).
+Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE: Description of Clinical Studies).
 
 ### Susceptibility Testing Methods
 
@@ -100,16 +100,16 @@ For specific information regarding susceptibility test interpretive criteria and
 
 ### Resistance
 
-Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitroand from patients receiving prolonged therapy.
+Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 
-Itraconazole is not active against Zygomycetes(e.g., Rhizopusspp., Rhizomucorspp., Mucorspp. and Absidiaspp.), Fusariumspp., Scedosporiumspp. and Scopulariopsisspp.
+Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
 ### Cross-Resistance
 
-Several in vitrostudies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
+Several in vitro studies have reported that some fungal clinical isolates with reduced susceptibility to one azole antifungal agent may also be less susceptible to other azole derivatives.
 The finding of cross-resistance is dependent on a number of factors, including the species evaluated, its clinical history, the particular azole compounds compared, and the type of susceptibility test that is performed.
 
-Studies (both in vitroand in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
+Studies (both in vitro and in vivo) suggest that the activity of amphotericin B may be suppressed by prior azole antifungal therapy.
 As with other azoles, itraconazole inhibits the 14C-demethylation step in the synthesis of ergosterol, a cell wall component of fungi.
-Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatusinfections in mice was inhibited by ketoconazole therapy.
+Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
 The clinical significance of test results obtained in this study is unknown.

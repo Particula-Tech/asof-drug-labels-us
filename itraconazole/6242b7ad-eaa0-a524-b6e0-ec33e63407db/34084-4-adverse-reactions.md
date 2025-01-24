@@ -92,29 +92,29 @@ The following adverse events occurred with an incidence of greater than or equal
 
 ## Adverse Events Reported from Other Clinical Trials
 
-In addition, the following adverse drug reaction was reported in patients who participated in Itraconazole Capsules clinical trials: Hepatobiliary Disorders:hyperbilirubinemia.
+In addition, the following adverse drug reaction was reported in patients who participated in Itraconazole Capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
 
 The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ®Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
 
-Cardiac Disorders:cardiac failure, left ventricular failure, tachycardia;
+Cardiac Disorders: cardiac failure, left ventricular failure, tachycardia;
 
-General Disorders and Administration Site Conditions:face edema, chest pain, chills;
+General Disorders and Administration Site Conditions: face edema, chest pain, chills;
 
-Hepatobiliary Disorders:hepatic failure, jaundice;
+Hepatobiliary Disorders: hepatic failure, jaundice;
 
-Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gamma-glutamyltransferase increased, urine analysis abnormal;
+Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gamma-glutamyltransferase increased, urine analysis abnormal;
 
-Metabolism and Nutrition Disorders:hyperglycemia, hyperkalemia, hypomagnesemia;
+Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia, hypomagnesemia;
 
-Psychiatric Disorders:confusional state;
+Psychiatric Disorders: confusional state;
 
-Renal and Urinary Disorders:renal impairment;
+Renal and Urinary Disorders: renal impairment;
 
-Respiratory, Thoracic and Mediastinal Disorders:dysphonia, cough;
+Respiratory, Thoracic and Mediastinal Disorders: dysphonia, cough;
 
-Skin and Subcutaneous Tissue Disorders:rash erythematous, hyperhidrosis;
+Skin and Subcutaneous Tissue Disorders: rash erythematous, hyperhidrosis;
 
-Vascular Disorders:hypotension
+Vascular Disorders: hypotension
 
 ## Postmarketing Experience
 
@@ -130,7 +130,7 @@ Table 6: Postmarketing Reports of Adverse Drug Reactions
 | Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
-| Cardiac Disorders: | Congestive heart failure |
+| Cardiac Disorders: | Congestive heart failure, bradycardia |
 | Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema, dyspnea |
 | Gastrointestinal Disorders: | Pancreatitis, dysgeusia |
 | Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis |
