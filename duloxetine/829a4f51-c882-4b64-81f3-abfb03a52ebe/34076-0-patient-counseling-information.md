@@ -107,20 +107,16 @@ Advise breastfeeding women using duloxetine to monitor infants for sedation, poo
 Duloxetine may be associated with sedation and dizziness.
 Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine therapy does not affect their ability to engage in such activities.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
-Manufactured by:
+MADE IN INDIA
 
-Lupin Limited
-
-Goa 403722
-
-INDIA
-
-Revised: September 2023 ID#: 274620
+Revised: June 2024 ID#: 276091

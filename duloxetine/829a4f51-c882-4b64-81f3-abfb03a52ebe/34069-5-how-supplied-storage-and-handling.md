@@ -6,17 +6,17 @@ Duloxetine is available as delayed-release capsules in the following strengths, 
 
 | Features | Strengths |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | 20 mgequivalent to duloxetine base | 30 mg | 40 mg | 60 mg |
+|  | 20 mg equivalent to duloxetine base | 30 mg | 40 mg | 60 mg |
 | Body color | Green | White | White | Green |
 | Cap color | Green | Dark Blue | White | Dark Blue |
-| Cap imprint | ‘LU’ | ‘LU’ | ‘LU’ | ‘LU’ |
-| Body imprint | ‘Q01’ | ‘Q02’ | ‘H25’ | ‘Q03’ |
+| Cap imprint | 'LU' | 'LU' | 'LU' | 'LU' |
+| Body imprint | 'Q01' | 'Q02' | 'H25' | 'Q03' |
 | Capsule number | 4 | 3 | 2 | 1 |
 | Presentations and NDC Codes |  |  |  |  |
-| Bottles of 30 | 68180-294-06 | 68180-295-06 | 68180-297-06 | 68180-296-06 |
+| Bottles of 30 | Not Applicable | 68180-295-06 | 68180-297-06 | 68180-296-06 |
 | Bottles of 60 | 68180-294-07 | Not Applicable | Not Applicable | Not Applicable |
-| Bottles of 90 | 68180-294-09 | 68180-295-09 | 68180-297-09 | 68180-296-09 |
-| Bottles of 1000 | 68180-294-03 | 68180-295-03 | 68180-297-03 | 68180-296-03 |
+| Bottles of 90 | Not Applicable | 68180-295-09 | Not Applicable | 68180-296-09 |
+| Bottles of 1000 | 68180-294-03 | 68180-295-03 | Not Applicable | 68180-296-03 |
 
 ## 16.2 Storage and Handling
 
