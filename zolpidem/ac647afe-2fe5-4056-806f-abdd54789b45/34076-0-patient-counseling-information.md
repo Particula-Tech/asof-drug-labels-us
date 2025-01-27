@@ -61,11 +61,13 @@ A lactating woman may consider pumping and discarding breastmilk during treatmen
 
 The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -77,4 +79,4 @@ Goa 403 722
 
 INDIA
 
-Revised: October 2023 ID#: 274728
+Revised: June 2024 ID #: 276184

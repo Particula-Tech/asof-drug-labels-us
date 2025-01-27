@@ -155,11 +155,13 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -171,4 +173,4 @@ Goa 403 722
 
 INDIA
 
-Revised: April 2022 ID #: 270217
+Revised: June 2024 ID #: 276185
