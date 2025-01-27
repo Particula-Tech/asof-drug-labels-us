@@ -7,4 +7,4 @@ Cognitive and Visual Adverse Reactions Inform patients that glycopyrrolate may c
 Advise patients to discontinue glycopyrrolate immediately and contact their healthcare provider if symptoms develop (e.g., drowsiness or blurred vision) [see Warnings and Precautions (5.4)].
 Heat Prostration at High Environmental Temperatures Inform patients that glycopyrrolate can reduce sweating, leading to the possibility of heat exhaustion or heat stroke.
 Advise patients to avoid exposure to hot or very warm environmental temperatures [see Warnings and Precautions (5.5)].
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Manufactured by: Suven Pharmaceuticals Limited, Telangana, India M.L.No.: 24/MD/AP/2009/F/CC Revised: 10/2022 PIA74409-02
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Manufactured by: Suven Pharmaceuticals Limited, Telangana, India M.L.No.: 24/MD/AP/2009/F/CC Revised: 10/2024 PIA74409-03

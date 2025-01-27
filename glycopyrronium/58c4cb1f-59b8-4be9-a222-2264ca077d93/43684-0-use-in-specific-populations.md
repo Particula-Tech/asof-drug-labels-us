@@ -32,6 +32,5 @@ Geriatric patients 65 years of age and older may be more sensitive to the antich
 ## 8.6 Renal Impairment
 
 Glycopyrrolate is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
-
 Monitor patients with renal impairment for anticholinergic adverse reactions [see Adverse Reactions (6)].
 If anticholinergic adverse reactions occur, discontinue glycopyrrolate.
