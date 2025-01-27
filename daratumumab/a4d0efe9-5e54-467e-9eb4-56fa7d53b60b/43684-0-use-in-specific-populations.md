@@ -59,6 +59,10 @@ Additionally, refer to the lenalidomide, pomalidomide, or thalidomide labeling f
 
 Safety and effectiveness of DARZALEX in pediatric patients have not been established.
 
+The safety and effectiveness of DARZALEX in combination with chemotherapy were assessed but not established in a single open-label trial (DELPHINUS; NCT03384654) in 34 pediatric patients (2 to <17 years of age) with relapsed/refractory acute lymphoblastic leukemia or lymphoblastic lymphoma.
+No new safety signals were observed in these pediatric patients.
+The pharmacokinetic parameters in these pediatric patients were within range of values previously observed in adults with multiple myeloma given the same dose based on body weight.
+
 ## 8.5 Geriatric Use
 
 Of the 2,459 patients who received DARZALEX at the recommended dose, 38% were 65 to 74 years of age, and 15% were 75 years of age or older.
