@@ -61,7 +61,7 @@ In transplant patients, consider the risk that the reduced immunosuppression rep
 
 Azathioprine has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;1 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.2
 
-## Pregnancy: Pregnancy Category D
+## Pregnancy:
 
 Azathioprine can cause fetal harm when administered to a pregnant woman.
 Azathioprine should not be given during pregnancy without careful weighing of risk versus benefit.
@@ -70,6 +70,10 @@ This drug should not be used for treating rheumatoid arthritis in pregnant women
 
 Azathioprine is teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
 Abnormalities included skeletal malformations and visceral anomalies.2
+
+Postmarketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in women treated with azathioprine during pregnancy.
+ICP symptoms and elevated bile acid levels improved following azathioprine discontinuation.
+Discontinue Azathioprine Sodium for Injection if ICP develops in a pregnant woman.
 
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on azathioprine.
 In a detailed case report,4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
@@ -136,7 +140,7 @@ See WARNINGS section.
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category D.
+### Teratogenic Effects:
 
 See WARNINGS section.
 

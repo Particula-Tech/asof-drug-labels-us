@@ -4,6 +4,6 @@ Manufactured by: THYMOORGAN PHARMAZIE GmbH, Schiffgraben 23, 38690 Goslar, Germa
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised March 2020
+Revised May 2024
 
-127.207.003/03
+127.207.003/04
