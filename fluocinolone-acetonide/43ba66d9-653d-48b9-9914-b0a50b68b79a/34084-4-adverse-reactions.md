@@ -9,8 +9,8 @@ Adverse reactions associated with ophthalmic steroids including YUTIQ include ca
 Studies 1 and 2 were multicenter, randomized, sham injection-controlled, masked trials in which patients with non-infectious uveitis affecting the posterior segment of the eye were treated once with either YUTIQ or sham injection, and then received standard care for the duration of the study.
 Study 3 was a multicenter, randomized, masked trial in which patients with non-infectious uveitis affecting the posterior segment of the eye were all treated once with YUTIQ, administered by one of two different applicators, and then received standard care for the duration of the study.
 
-Table 1 summarizes data available from studies 1, 2 and 3 through 12 months for study eyes treated with YUTIQ (n=226) or sham injection (n=94).
-The most common ocular (study eye) and non-ocular adverse reactions are shown in Table 1 and Table 2.
+Table 1summarizes data available from studies 1, 2 and 3 through 12 months for study eyes treated with YUTIQ (n=226) or sham injection (n=94).
+The most common ocular (study eye) and non-ocular adverse reactions are shown in Table 1and Table 2.
 
 Table 1: Ocular Adverse Reactions Reported in ≥ 1% of Subject Eyes and Non-Ocular Adverse Reactions Reported in ≥ 2% of Patients
 
