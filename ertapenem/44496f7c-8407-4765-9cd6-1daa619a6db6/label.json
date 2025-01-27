@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218067"
+  ],
+  "inn": "ertapenem",
+  "labeler": "Qilu Antibiotics Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "51810-504-01",
+    "51810-504-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ertapenem sodium",
+      "name": "Ertapenem"
+    }
+  ],
+  "setid": "44496f7c-8407-4765-9cd6-1daa619a6db6",
+  "source": "dailymed"
+}
