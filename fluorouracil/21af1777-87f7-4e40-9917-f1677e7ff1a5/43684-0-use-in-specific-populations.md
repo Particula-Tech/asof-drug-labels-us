@@ -17,7 +17,7 @@ Animal Data
 
 Malformations including cleft palate, skeletal defects and deformed appendages (paws and tails) were observed when fluorouracil was administered by intraperitoneal injection to mice at doses at or above 10 mg/kg (approximately 0.06 times a human dose of 12 mg/kg on a mg/m2 basis) for 4 days during the period of organogenesis.
 Similar results were observed in hamsters administered fluorouracil intramuscularly at doses lower than those administered in commonly used clinical treatment regimens.
-In rats, administration of fluorouracil by intraperitoneal injection at doses greater than 15 mg/kg (approximately 0.2 times a human dose of 12 mg/kg on a mg/m2 basis) for a single day during organogenesis resulted in delays in growth and malformations including microanophthalmos.
+In rats, administration of fluorouracil by intraperitoneal injection at doses greater than 15 mg/kg (approximately 0.2 times a human dose of 12 mg/kg on a mg/m2 basis) for a single day during organogenesis resulted in delays in growth and malformations including micro-anophthalmos.
 In monkeys, administration of fluorouracil during organogenesis at doses approximately equal to a human dose of 12 mg/kg on a mg/m2 basis resulted in abortion; at a 50% lower dose, resorptions and decreased fetal body weights were reported.
 
 ## 8.3 Nursing Mothers

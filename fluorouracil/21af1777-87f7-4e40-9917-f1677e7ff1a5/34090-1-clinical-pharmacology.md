@@ -19,3 +19,19 @@ The remaining percentage of the administered dose is metabolized, primarily in t
 The metabolites of fluorouracil (e.g., urea and α-fluoro-ß-alanine) are excreted in the urine over 3 to 4 hours.
 
 Following bolus intravenous injection of fluorouracil, as a single agent, the elimination half-life increased with dose from 8 to 20 minutes.
+
+## 12.5 Pharmacogenomics
+
+The DPYD gene encodes the enzyme DPD, which is responsible for the catabolism of >80% of fluorouracil.
+Approximately 3-5% of White populations have partial DPD deficiency and 0.2% of White populations have complete DPD deficiency, which may be due to certain genetic no function or decreased function variants in DPYD resulting in partial to complete or near complete absence of enzyme activity.
+DPD deficiency is estimated to be more prevalent in Black or African American populations compared to White populations.
+Insufficient information is available to estimate the prevalence of DPD deficiency in other populations.
+
+Patients who are homozygous or compound heterozygous for no function DPYD variants (i.e., carry two no function DPYD variants) or are compound heterozygous for a no function DPYD variant plus a decreased function DPYD variant have complete DPD deficiency and are at increased risk for acute early-onset of toxicity and serious life-threatening, or fatal adverse reactions due to increased systemic exposure to fluorouracil.
+Partial DPD deficiency can result from the presence of either two decreased function DPYD variants or one normal function plus either a decreased function or a no function DPYD variant.
+Patients with partial DPD deficiency may also be at an increased risk for toxicity from fluorouracil.
+
+Four DPYD variants have been associated with impaired DPD activity in White populations, especially when present as homozygous or compound heterozygous variants: c.1905+1G>A (DPYD *2A), c.1679T>G (DPYD *13), c.2846A>T, and c.1129-5923C>G (Haplotype B3).
+DPYD*2A and DPYD*13 are no function variants, and c.2846A>T and c.1129-5923C>G are decreased function variants.
+The decreased function DPYD variant c.557A>G is observed in individuals of African ancestry.
+This is not a complete listing of all DPYD variants that may result in DPD deficiency [see Warnings and Precautions (5.1)].
