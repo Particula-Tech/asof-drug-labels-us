@@ -157,3 +157,30 @@ For Intravenous or Intramuscular Use.
 Discard unused portion.
 
 Hospira
+
+# PRINCIPAL DISPLAY PANEL -2 mL Vial Label PAA214189
+
+2 mL Single-Dose Vial NDC 0409-0001-01
+
+Preservative-Free Rx only
+
+Midazolam Injection, USP CIV
+
+2 mg / 2 mL (1 mg/mL) For I.V. or I.M.
+Use.
+Discard unused portion.
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL -2 mL Vial Carton PAA231146
+
+25 x 2 mL Preservative-Free
+
+NDC 0409-0001-25 Contains 25 of NDC 0409-0001-01 Single-dose Fliptop Vial Rx only
+
+Midazolam Injection, USP 2 mg /2 mL (1 mg/mL) CIV
+
+Sterile.
+For Intravenous or Intramuscular Use.
+Discard unused portion.
+
+Hospira
