@@ -7,4 +7,4 @@ Molecular Weight: 222.25
 
 Molecular Formula: C4H6N4O3S2
 
-Acetazolamide is available as oral tablets containing 125 mg and 250 mg of acetazolamide, respectively, and the following inactive ingredients: corn starch, gelatin, glycerin, lactose monohydrate, magnesium stearate, purified water, sodium starch glycolate (Potato) and talc.
+Acetazolamide is available as oral tablets containing 125 mg and 250 mg of acetazolamide, respectively, and the following inactive ingredients: corn starch, gelatin, glycerin, lactose monohydrate, magnesium stearate, sodium starch glycolate (Potato) and talc.
