@@ -4,14 +4,8 @@ Manufactured By Padagis
 
 Yeruham, Israel
 
-Distributed By
-
-Padagis
-
-Allegan, MI 49010
-
 www.padagis.com
 
-4L926RCF6
+4L926RCF7
 
-Rev 10-22
+Rev 05-24
