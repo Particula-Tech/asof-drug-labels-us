@@ -1,9 +1,11 @@
-PATIENT SUMMARY OF INFORMATION ABOUT GEODON® Capsules (ziprasidone)
+# PATIENT SUMMARY OF INFORMATION ABOUT
+
+GEODON® Capsules (ziprasidone)
 
 Information for patients taking GEODON or their caregivers
 
 This summary contains important information about GEODON.
-It is not meant to take the place of your doctor's instructions.
+It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take GEODON.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about GEODON.
 
@@ -58,11 +60,15 @@ Who should NOT take GEODON?
 Elderly patients with a diagnosis of psychosis related to dementia.
 GEODON is not approved for the treatment of these patients.
 
-Anything that can increase the chance of a heart rhythm abnormality should be avoided.
-Therefore, do not take GEODON if:
+Do not take GEODON if you:
 
-- •You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor)
-- •You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+- •take anything that can increase the chance of a heart rhythm abnormality.
+- •have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor).
+- •are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+- •are taking a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including linezolid or intravenous methylene blue.
+- •have stopped taking an MAOI in the last 14 days.
+- •are allergic to ziprasidone or any of the ingredients in GEODON.
 
 What To Tell Your Doctor Before You Start GEODON
 
@@ -98,12 +104,12 @@ How To Take GEODON
 - •It is best to take GEODON at the same time each day.
 - •GEODON may take a few weeks to work.
   It is important to be patient.
-- •Do not change your dose or stop taking your medicine without your doctor's approval.
+- •Do not change your dose or stop taking your medicine without your doctor’s approval.
 - •Remember to keep taking your capsules, even when you feel better.
 
 Possible Side Effects
 
-Because these problems could mean you're having a heart rhythm abnormality, contact your doctor IMMEDIATELY if you:
+Because these problems could mean you’re having a heart rhythm abnormality, contact your doctor IMMEDIATELY if you:
 
 - •Faint or lose consciousness
 - •Feel a change in the way that your heart beats (palpitations)
@@ -134,6 +140,11 @@ In case of an overdose, call your doctor or poison control center right away or 
 
 Other Important Safety Information
 
+A potentially life-threatening problem called serotonin syndrome can happen when you take GEODON with certain other medicines.
+See “Who should NOT take GEODON?”
+
+- •Call your healthcare provider if you have any of the following signs and symptoms of serotonin syndrome: agitation, hallucinations, coma, or other changes in mental status; racing heartbeat, high or low blood pressure; coordination problems or muscle twitching; nausea, vomiting, or diarrhea; sweating or fever; muscle rigidity.
+
 A serious condition called neuroleptic malignant syndrome (NMS) can occur with all antipsychotic medications including GEODON.
 Signs of NMS include very high fever, rigid muscles, shaking, confusion, sweating, or increased heart rate and blood pressure.
 NMS is a rare but serious side effect that could be fatal.
@@ -154,12 +165,12 @@ If this happens, be careful not to stand up too quickly, and talk to your doctor
 
 Before taking GEODON, tell your doctor if you
 
-1. 1.are pregnant or plan on becoming pregnant.
-   1. •If you become pregnant while receiving GEODON, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
-      You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
-2. 2.are breastfeeding or plan to breastfeed.
-   GEODON can pass into your breast milk.
-   Talk to your healthcare provider about the best way to feed your baby if you receive GEODON.
+- •are pregnant or plan on becoming pregnant.
+  - oIf you become pregnant while receiving GEODON, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+- •are breastfeeding or plan to breastfeed.
+  GEODON can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you receive GEODON.
 
 Because GEODON can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
 
@@ -182,13 +193,15 @@ For More Information About GEODON
 This sheet is only a summary.
 GEODON is a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about GEODON, talk with your doctor or pharmacist.
-You can also visit www.geodon.com.
 
-This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.pfizer.com
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-Distributed by Roerig Division of Pfizer Inc. New York, NY 10017
+© 2024 Viatris Inc.
 
-LAB-0272-11.0
+GEODON is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
-Revised: January 2022
+The brands listed are trademarks of their respective owners.
+
+UPJ:PL:GDNCI:RX
+
+Revised: 1/2025

@@ -2,12 +2,12 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
+### Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including GEODON, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
-Risk Summary
+### Risk Summary
 
 Neonates exposed to antipsychotic drugs, including GEODON, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to ziprasidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
@@ -21,29 +21,29 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+#### Disease-associated Maternal and/or Embryo/Fetal Risk
 
 There is risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
 Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
 
-Fetal/neonatal adverse reactions
+#### Fetal/Neonatal Adverse Reactions
 
 Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including GEODON, during the third trimester of pregnancy.
 These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
 
-Data
+### Data
 
-Human Data
+#### Human Data
 
 Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
 A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
 
-Animal Data
+#### Animal Data
 
 When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations, and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the MRHD of 200 mg/day based on mg/m2 body surface area).
 There was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
@@ -58,22 +58,22 @@ A no-effect level was not established for these effects.
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 Limited data from a published case report indicate the presence of ziprasidone in human milk.
 Although there are no reports of adverse effects on a breastfed infant exposed to ziprasidone via breast milk, there are reports of excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to other atypical antipsychotics through breast milk (see Clinical Considerations).
 There is no information on the effects of ziprasidone on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for GEODON and any potential adverse effects on the breastfed child from GEODON or from the mother's underlying condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for GEODON and any potential adverse effects on the breastfed child from GEODON or from the mother’s underlying condition.
 
-Clinical Considerations
+### Clinical Considerations
 
 Infants exposed to GEODON should be monitored for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements).
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
+### Infertility
 
-Females
+#### Females
 
 Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with GEODON may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
 
@@ -104,7 +104,7 @@ As the cyclodextrin excipient is cleared by renal filtration, ziprasidone intram
 
 ## 8.7 Hepatic Impairment
 
-As ziprasidone is cleared substantially by the liver, the presence of hepatic impairment would be expected to increase the AUC of ziprasidone; a multiple-dose study at 20 mg twice daily for 5 days in subjects (n=13) with clinically significant (Childs-Pugh Class A and B) cirrhosis revealed an increase in AUC 0–12 of 13% and 34% in Childs-Pugh Class A and B, respectively, compared to a matched control group (n=14).
+As ziprasidone is cleared substantially by the liver, the presence of hepatic impairment would be expected to increase the AUC of ziprasidone; a multiple-dose study at 20 mg twice daily for 5 days in subjects (n=13) with clinically significant (Childs-Pugh Class A and B) cirrhosis revealed an increase in AUC 0-12 of 13% and 34% in Childs-Pugh Class A and B, respectively, compared to a matched control group (n=14).
 A half-life of 7.1 hours was observed in subjects with cirrhosis compared to 4.8 hours in the control group.
 
 ## 8.8 Age and Gender Effects

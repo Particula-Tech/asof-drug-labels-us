@@ -6,16 +6,16 @@ The mechanism of action of ziprasidone in the treatment of the listed indication
 
 ## 12.2 Pharmacodynamics
 
-Ziprasidone binds with relatively high affinity to the dopamine D2 and D3, serotonin 5HT2A, 5HT2C, 5HT1A, 5HT1D, and α1-adrenergic receptors (Ki s of 4.8, 7.2, 0.4, 1.3, 3.4, 2, and 10 nM, respectively), and with moderate affinity to the histamine H1 receptor (Ki=47 nM).
+Ziprasidone binds with relatively high affinity to the dopamine D2 and D3, serotonin 5HT2A, 5HT2C, 5HT1A, 5HT1D, and α1-adrenergic receptors (Kis of 4.8, 7.2, 0.4, 1.3, 3.4, 2, and 10 nM, respectively), and with moderate affinity to the histamine H1 receptor (Ki=47 nM).
 Ziprasidone is an antagonist at the D2, 5HT2A, and 5HT1D receptors, and an agonist at the 5HT1A receptor.
 Ziprasidone inhibited synaptic reuptake of serotonin and norepinephrine.
-No appreciable affinity was exhibited for other receptor/binding sites tested, including the cholinergic muscarinic receptor (IC50 >1 µM).
+No appreciable affinity was exhibited for other receptor/binding sites tested, including the cholinergic muscarinic receptor (IC50 >1 μM).
 
 ## 12.3 Pharmacokinetics
 
-Oral Pharmacokinetics
+### Oral Pharmacokinetics
 
-Ziprasidone's activity is primarily due to the parent drug.
+Ziprasidone’s activity is primarily due to the parent drug.
 The multiple-dose pharmacokinetics of ziprasidone are dose-proportional within the proposed clinical dose range, and ziprasidone accumulation is predictable with multiple dosing.
 Elimination of ziprasidone is mainly via hepatic metabolism with a mean terminal half-life of about 7 hours within the proposed clinical dose range.
 Steady-state concentrations are achieved within one to three days of dosing.
@@ -42,7 +42,7 @@ CYP1A2 may contribute to a much lesser extent.
 Based on in vivo abundance of excretory metabolites, less than one-third of ziprasidone metabolic clearance is mediated by cytochrome P450 catalyzed oxidation and approximately two-thirds via reduction.
 There are no known clinically relevant inhibitors or inducers of aldehyde oxidase.
 
-Intramuscular Pharmacokinetics
+### Intramuscular Pharmacokinetics
 
 Systemic Bioavailability: The bioavailability of ziprasidone administered intramuscularly is 100%.
 After intramuscular administration of single doses, peak serum concentrations typically occur at approximately 60 minutes post-dose or earlier and the mean half-life (T½) ranges from two to five hours.

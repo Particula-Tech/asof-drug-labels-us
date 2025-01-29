@@ -44,7 +44,7 @@ equivalent to 20 mg/mL* of ziprasidone
 
 Sterile For Intramuscular Use Only Rx only
 
-# PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Carton
+# PRINCIPAL DISPLAY PANEL – 20 mg/mL Vial Carton
 
 NDC 0049-3920-20
 
