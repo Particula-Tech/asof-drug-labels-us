@@ -2,10 +2,10 @@
 
 ## 7.1 PDE-5-Inhibitors and sGC-Stimulators
 
-Nitroglycerin is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE-5).
+Nitroglycerin sublingual tablets are contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE-5).
 PDE-5-Inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.
 
-Nitroglycerin is contraindicated in patients who are taking soluble guanylate cyclase (sGC) stimulators.
+Nitroglycerin sublingual tablets are contraindicated in patients who are taking soluble guanylate cyclase (sGC) stimulators.
 Concomitant use can cause hypotension.
 
 The time course and dose dependence of these interactions have not been studied, and use within a few days of one another is not recommended.

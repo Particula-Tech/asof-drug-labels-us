@@ -6,8 +6,8 @@ One additional tablet may be administered every 5 minutes until relief is obtain
 No more than three tablets are recommended within a 15-minute period.
 If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, seek prompt medical attention.
 
-Nitroglycerin may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack.
+Nitroglycerin sublingual tablets may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack.
 
 For patients with xerostomia, a small sip of water prior to placing the tablet under the tongue may help maintain mucosal hydration and aid dissolution of the tablet.
 
-Administer nitroglycerin at rest, preferably in the sitting position.
+Administer nitroglycerin sublingual tablets at rest, preferably in the sitting position.

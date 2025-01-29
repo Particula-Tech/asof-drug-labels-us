@@ -23,51 +23,51 @@ Patients with elevated left ventricular filling pressures and increased systemic
 In contrast, when filling pressures and cardiac index are normal, cardiac index may be slightly reduced following nitroglycerin administration.
 
 Consistent with the symptomatic relief of angina, digital plethysmography indicates that onset of the vasodilatory effect occurs approximately 1 to 3 minutes after sublingual nitroglycerin administration and reaches a maximum by 5 minutes postdose.
-Effects persist for at least 25 minutes following nitroglycerin administration.
+Effects persist for at least 25 minutes following nitroglycerin sublingual tablets administration.
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+### Absorption
 
-Nitroglycerin is rapidly absorbed following sublingual administration of nitroglycerin tablets.
+Nitroglycerin is rapidly absorbed following sublingual administration of nitroglycerin sublingual tablets.
 Mean peak nitroglycerin plasma concentrations occur at a mean time of approximately 6 to 7 minutes postdose (Table 1).
-Maximum plasma nitroglycerin concentrations (Cmax) and area under the plasma concentration-time curves (AUC) increase dose-proportionally following 0.3 to 0.6 mg nitroglycerin.
-The absolute bioavailability of nitroglycerin from nitroglycerin tablets is approximately 40% but tends to be variable due to factors influencing drug absorption, such as sublingual hydration and mucosal metabolism.
+Maximum plasma nitroglycerin concentrations (Cmax) and area under the plasma concentration-time curves (AUC) increase dose-proportionally following 0.3 to 0.6 mg nitroglycerin sublingual tablets.
+The absolute bioavailability of nitroglycerin from nitroglycerin sublingual tablets is approximately 40% but tends to be variable due to factors influencing drug absorption, such as sublingual hydration and mucosal metabolism.
 
 Table 1
 
-| 2 × 0.3 mg Nitroglycerin Tablets | 1 × 0.6 mg Nitroglycerin Tablets |  |
-| --- | --- | --- |
 | Parameter | Mean Nitroglycerin (SD) Values |  |
+| --- | --- | --- |
+| 2 × 0.3 mg Nitroglycerin Sublingual Tablets | 1 × 0.6 mg Nitroglycerin Sublingual Tablets |  |
 | Cmax, ng/mL | 2.3 (1.7) | 2.1 (1.5) |
 | Tmax, min | 6.4 (2.5) | 7.2 (3.2) |
 | AUC(0–∞), min | 14.9 (8.2) | 14.9 (11.4) |
 | t½, min | 2.8 (1.1) | 2.6 (0.6) |
 
-Distribution
+### Distribution
 
 The volume of distribution (VArea) of nitroglycerin following intravenous administration is 3.3 L/kg.
 At plasma concentrations between 50 and 500 ng/mL, the binding of nitroglycerin to plasma proteins is approximately 60%, while that of 1,2- and 1,3-dinitroglycerin is 60% and 30%, respectively.
 
-Metabolism
+### Metabolism
 
 A liver reductase enzyme is of primary importance in the metabolism of nitroglycerin to glycerol di- and mononitrate metabolites and ultimately to glycerol and organic nitrate.
 Known sites of extrahepatic metabolism include red blood cells and vascular walls.
-In addition to nitroglycerin, 2 major metabolites 1,2- and 1,3-dinitroglycerin, are found in plasma.
+In addition to nitroglycerin, 2 major metabolites 1,2- and 1,3‑dinitroglycerin, are found in plasma.
 Mean peak 1,2- and 1,3-dinitroglycerin plasma concentrations occur at approximately 15 minutes postdose.
 The elimination half-life of 1,2- and 1,3-dinitroglycerin is 36 and 32 minutes, respectively.
-The 1,2- and 1,3-dinitroglycerin metabolites have been reported to possess approximately 2% and 10%, respectively, of the pharmacological activity of nitroglycerin.
+The 1,2- and 1,3‑dinitroglycerin metabolites have been reported to possess approximately 2% and 10%, respectively, of the pharmacological activity of nitroglycerin.
 Higher plasma concentrations of the dinitro metabolites, along with their nearly 10-fold longer elimination half-lives, may contribute significantly to the duration of pharmacologic effect.
 Glycerol mononitrate metabolites of nitroglycerin are biologically inactive.
 
-Elimination
+### Elimination
 
 Nitroglycerin plasma concentrations decrease rapidly, with a mean elimination half-life of 2 to 3 minutes.
 Half-life values range from 1.5 to 7.5 minutes.
 Clearance (13.6 L/min) greatly exceeds hepatic blood flow.
 Metabolism is the primary route of drug elimination.
 
-Drug interactions
+### Drug interactions
 
 Aspirin: Coadministration of nitroglycerin with high dose aspirin (1000 mg) results in increased exposure to nitroglycerin.
 The vasodilatory and hemodynamic effects of nitroglycerin may be enhanced by concomitant administration of nitroglycerin with high dose aspirin.
