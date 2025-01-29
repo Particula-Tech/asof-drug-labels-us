@@ -16,8 +16,8 @@ Brief exposure of Flexible Containers up to 40ºC (104ºF) does not adversely af
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised: 04/2011
+Revised: 10/2020
 
-PIN238-WES/2
+PIN238-WES/3
