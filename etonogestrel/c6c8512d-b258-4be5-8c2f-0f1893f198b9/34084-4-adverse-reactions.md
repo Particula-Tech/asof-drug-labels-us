@@ -40,7 +40,7 @@ Figure 2:
 RR = relative risk; OR = odds ratio; HR = hazard ratio.
 “ever COC” are females with current or past COC use; “never COC use” are females that never used COCs.
 
-The following adverse reactions have been identified during post-approval use of EluRyng.
+The following adverse reactions have been identified during post-approval use of etonogestrel and ethinyl estradiol vaginal ring.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: hypersensitivity reactions, including anaphylaxis and angioedema
@@ -51,7 +51,7 @@ Vascular disorders: arterial events (including arterial thromboembolism and myoc
 
 Skin and subcutaneous tissue disorders: exacerbations of hereditary and acquired angioedema, urticaria, chloasma
 
-Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using EluRyng), galactorrhea
+Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using etonogestrel and ethinyl estradiol vaginal ring), galactorrhea
 
 General disorders and administration site conditions: device breakage (including with concomitant use of intravaginal antimycotic, antibiotic, and lubricant products)
 

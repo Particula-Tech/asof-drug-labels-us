@@ -10,10 +10,10 @@ Drugs or herbal products that induce certain enzymes, including cytochrome P450 
 Some drugs or herbal products that may decrease the effectiveness of hormonal contraceptives include: phenytoin, barbiturates, carbamazepine, bosentan, felbamate, griseofulvin, oxcarbazepine, rifampicin, topiramate, rifabutin, rufinamide, aprepitant, and products containing St. John's wort.
 Interactions between CHCs and other drugs may lead to breakthrough bleeding and/or contraceptive failure.
 
-Counsel women to use an alternative non-hormonal method of contraception or a back-up method when enzyme inducers are used with EluRyng, and to continue back-up non-hormonal contraception for 28 days after discontinuing the enzyme inducer to ensure contraceptive reliability.
+Counsel women to use an alternative non-hormonal method of contraception or a back-up method when enzyme inducers are used with etonogestrel and ethinyl estradiol vaginal ring, and to continue back-up non-hormonal contraception for 28 days after discontinuing the enzyme inducer to ensure contraceptive reliability.
 
-Note: EluRyng may interfere with the correct placement and position of certain female barrier methods such as a diaphragm or female condom.
-These methods are not recommended as back-up methods with EluRyng use [see Dosage and Administration (2.5)].
+Note: etonogestrel and ethinyl estradiol vaginal ring may interfere with the correct placement and position of certain female barrier methods such as a diaphragm or female condom.
+These methods are not recommended as back-up methods with etonogestrel and ethinyl estradiol vaginal ring use [see Dosage and Administration (2.5)].
 
 The serum concentrations of etonogestrel and ethinyl estradiol were not affected by concomitant administration of oral amoxicillin or doxycycline in standard dosages during 10 days of antibiotic treatment.
 The effects of other antibiotics on etonogestrel or ethinyl estradiol concentrations have not been evaluated.
@@ -23,7 +23,7 @@ Substances increasing the plasma concentrations of CHCs
 Co-administration of atorvastatin and certain CHCs containing ethinyl estradiol increase AUC values for ethinyl estradiol by approximately 20-25%.
 Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol concentrations, possibly by inhibition of conjugation.
 Concomitant administration of strong or moderate CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase plasma estrogen and/or progestin concentrations.
-Co-administration of vaginal miconazole nitrate and EluRyng increases the serum concentrations of etonogestrel and ethinyl estradiol by up to 40% [see Clinical Pharmacology (12.3)].
+Co-administration of vaginal miconazole nitrate and etonogestrel and ethinyl estradiol vaginal ring increases the serum concentrations of etonogestrel and ethinyl estradiol by up to 40% [see Clinical Pharmacology (12.3)].
 
 Human immunodeficiency virus (HIV) / Hepatitis C Virus (HCV) protease inhibitors and non­-nucleoside reverse transcriptase inhibitors
 
@@ -41,7 +41,7 @@ Women on thyroid hormone replacement therapy may need increased doses of thyroid
 
 ## 7.3 Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation
 
-Do not co-administer EluRyng with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations.
+Do not co-administer etonogestrel and ethinyl estradiol vaginal ring with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations.
 Concomitant use with some other HCV antiviral medicinal products, such as those containing glecaprevir/pibrentasvir, may increase the risk of ALT elevations [see Warnings and Precautions (5.4)].
 
 ## 7.4 Interference with Laboratory Tests

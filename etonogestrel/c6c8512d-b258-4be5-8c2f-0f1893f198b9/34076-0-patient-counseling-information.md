@@ -30,4 +30,4 @@ Increased risk of cardiovascular events
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2024-04
+01-2025-05

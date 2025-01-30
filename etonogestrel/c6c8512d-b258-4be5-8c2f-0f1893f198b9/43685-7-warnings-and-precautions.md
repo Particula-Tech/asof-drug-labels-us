@@ -2,31 +2,31 @@
 
 ## 5.1 Thromboembolic Disorders and Other Vascular Problems
 
-Stop EluRyng use if an arterial thrombotic or venous thromboembolic event (VTE) occurs.
-Stop EluRyng use if there is unexplained loss of vision, proptosis, diplopia, papilledema, or retinal vascular lesions.
+Stop etonogestrel and ethinyl estradiol vaginal ring use if an arterial thrombotic or venous thromboembolic event (VTE) occurs.
+Stop etonogestrel and ethinyl estradiol vaginal ring use if there is unexplained loss of vision, proptosis, diplopia, papilledema, or retinal vascular lesions.
 Evaluate for retinal vein thrombosis immediately [see Adverse Reactions (6)].
 
-If feasible, stop EluRyng at least four weeks before and through two weeks after major surgery or other surgeries known to have an elevated risk of thromboembolism, and during and following prolonged immobilization.
+If feasible, stop etonogestrel and ethinyl estradiol vaginal ring at least four weeks before and through two weeks after major surgery or other surgeries known to have an elevated risk of thromboembolism, and during and following prolonged immobilization.
 
-Start EluRyng no earlier than 4 weeks after delivery, in women who are not breastfeeding.
+Start etonogestrel and ethinyl estradiol vaginal ring no earlier than 4 weeks after delivery, in women who are not breastfeeding.
 The risk of postpartum thromboembolism decreases after the third postpartum week, whereas the risk of ovulation increases after the third postpartum week.
 
 The use of CHCs increases the risk of VTE.
 Known risk factors for VTE include smoking, obesity, and family history of VTE, in addition to other factors that contraindicate use of CHCs [see Contraindications (4)].
 
-Two epidemiologic studies1, 2, 3 that assessed the risk of VTE associated with the use of EluRyng are described below.
+Two epidemiologic studies1, 2, 3 that assessed the risk of VTE associated with the use of etonogestrel and ethinyl estradiol vaginal ring are described below.
 
-In these studies, which were required or sponsored by regulatory agencies, EluRyng users had a risk of VTE similar to Combined Oral Contraceptives (COCs) users (see Table 1 for adjusted hazard ratios).
-A large prospective, observational study, the Transatlantic Active Surveillance on Cardiovascular Safety of EluRyng (TASC), investigated the risk of VTE for new users, and women who were switching to or restarting EluRyng or COCs in a population that is representative of routine clinical users.
+In these studies, which were required or sponsored by regulatory agencies, etonogestrel and ethinyl estradiol vaginal ring users had a risk of VTE similar to Combined Oral Contraceptives (COCs) users (see Table 1 for adjusted hazard ratios).
+A large prospective, observational study, the Transatlantic Active Surveillance on Cardiovascular Safety of etonogestrel and ethinyl estradiol vaginal ring (TASC), investigated the risk of VTE for new users, and women who were switching to or restarting etonogestrel and ethinyl estradiol vaginal ring or COCs in a population that is representative of routine clinical users.
 The women were followed for 24 to 48 months.
-The results showed a similar risk of VTE among EluRyng users (VTE incidence 8.3 per 10,000 WY) and women using COCs (VTE incidence 9.2 per 10,000 WY).
+The results showed a similar risk of VTE among etonogestrel and ethinyl estradiol vaginal ring users (VTE incidence 8.3 per 10,000 WY) and women using COCs (VTE incidence 9.2 per 10,000 WY).
 For women using COCs that did not contain the progestins desogestrel (DSG) or gestodene (GSD), VTE incidence was 8.9 per 10,000 WY.
 
-A retrospective cohort study using data from 4 health plans in the US (FDA-funded Study in Kaiser Permanente and Medicaid databases) showed the VTE incidence for new users of EluRyng to be 11.4 events per 10,000 WY, for new users of a levonorgestrel (LNG)-containing COC 9.2 events per 10,000 WY, and for users of other COCs available during the course of the study* 8.2 events per 10,000 WY.
+A retrospective cohort study using data from 4 health plans in the US (FDA-funded Study in Kaiser Permanente and Medicaid databases) showed the VTE incidence for new users of etonogestrel and ethinyl estradiol vaginal ring to be 11.4 events per 10,000 WY, for new users of a levonorgestrel (LNG)-containing COC 9.2 events per 10,000 WY, and for users of other COCs available during the course of the study* 8.2 events per 10,000 WY.
 
 * Includes low-dose COCs containing the following progestins: norgestimate, norethindrone, or levonorgestrel.
 
-Table 1: Estimates (Hazard Ratios) of Venous Thromboembolism Risk in Users of EluRyng Compared to Users of Combined Oral Contraceptives (COCs)
+Table 1: Estimates (Hazard Ratios) of Venous Thromboembolism Risk in Users of Etonogestrel and Ethinyl Estradiol Vaginal Ring Compared to Users of Combined Oral Contraceptives (COCs)
 
 | Epidemiologic Study (Author, Year of Publication) Population Studied | Comparator Product(s) | Hazard Ratios (HR) (95% CI) |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ Figure 1: Likelihood of Developing a VTE
 **Pregnancy data based on actual duration of pregnancy in the reference studies.
 Based on a model assumption that pregnancy duration is nine months, the rate is 7 to 27 per 10,000 WY.
 
-Several epidemiology studies indicate that third generation oral contraceptives, including those containing desogestrel (etonogestrel, the progestin in EluRyng, is the biologically active metabolite of desogestrel), may be associated with a higher risk of VTE than oral contraceptives containing other progestins.
+Several epidemiology studies indicate that third generation oral contraceptives, including those containing desogestrel (etonogestrel, the progestin in etonogestrel and ethinyl estradiol vaginal ring, is the biologically active metabolite of desogestrel), may be associated with a higher risk of VTE than oral contraceptives containing other progestins.
 Some of these studies indicate an approximate two-fold increased risk.
 However, data from other studies have not shown this two-fold increase in risk.
 
@@ -67,26 +67,26 @@ Use of CHCs also increases the risk of arterial thromboses such as strokes and m
 CHCs have been shown to increase both the relative and attributable risks of cerebrovascular events (thrombotic and hemorrhagic strokes).
 In general, the risk is greatest among older (>35 years of age), hypertensive women who also smoke.
 
-Use EluRyng with caution in women with cardiovascular disease risk factors.
+Use etonogestrel and ethinyl estradiol vaginal ring with caution in women with cardiovascular disease risk factors.
 
 ## 5.2 Toxic Shock Syndrome (TSS)
 
-Cases of TSS have been reported by EluRyng users.
-TSS has been associated with tampons and certain barrier contraceptives, and, in some cases the EluRyng users were also using tampons.
-A causal relationship between the use of EluRyng and TSS has not been established.
+Cases of TSS have been reported by etonogestrel and ethinyl estradiol vaginal ring users.
+TSS has been associated with tampons and certain barrier contraceptives, and, in some cases the etonogestrel and ethinyl estradiol vaginal ring users were also using tampons.
+A causal relationship between the use of etonogestrel and ethinyl estradiol vaginal ring and TSS has not been established.
 If a patient exhibits signs or symptoms of TSS, consider the possibility of this diagnosis and initiate appropriate medical evaluation and treatment.
 
 ## 5.3 Liver Disease
 
 Impaired Liver Function
 
-Do not use EluRyng in women with liver disease such as acute viral hepatitis or severe (decompensated) cirrhosis of the liver [see Contraindications (4)].
+Do not use etonogestrel and ethinyl estradiol vaginal ring in women with liver disease such as acute viral hepatitis or severe (decompensated) cirrhosis of the liver [see Contraindications (4)].
 Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal and CHC causation has been excluded [see Use in Specific Populations (8.6)].
-Discontinue EluRyng use if jaundice develops.
+Discontinue etonogestrel and ethinyl estradiol vaginal ring use if jaundice develops.
 
 Liver Tumors
 
-EluRyng is contraindicated in women with benign and malignant liver tumors [see Contraindications (4)].
+etonogestrel and ethinyl estradiol vaginal ring is contraindicated in women with benign and malignant liver tumors [see Contraindications (4)].
 Hepatic adenomas are associated with CHC use.
 An estimate of the attributable risk is 3.3 cases per 100,000 CHC users.
 Rupture of hepatic adenomas may cause death through intra-abdominal hemorrhage.
@@ -96,33 +96,32 @@ However, the attributable risk of liver cancers in CHC users is less than one ca
 
 ## 5.4 Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
 
-CHCs, such as EluRyng, are contraindicated for use with Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir (with or without dasabuvir) [see Contraindications (4)].
-Discontinue EluRyng prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir (with or without dasabuvir).
-EluRyng can be restarted approximately 2 weeks following completion of treatment with this hepatitis C combination drug regimen.
+CHCs, such as etonogestrel and ethinyl estradiol vaginal ring, are contraindicated for use with Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir (with or without dasabuvir) [see Contraindications (4)].
+Discontinue etonogestrel and ethinyl estradiol vaginal ring prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir (with or without dasabuvir). etonogestrel and ethinyl estradiol vaginal ring can be restarted approximately 2 weeks following completion of treatment with this hepatitis C combination drug regimen.
 
 During clinical trials with some HCV combination drug regimens, ALT elevations were observed in women using ethinyl estradiol containing medications [see Drug Interactions (7)].
 For example, the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with and without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
 
 ## 5.5 High Blood Pressure
 
-EluRyng is contraindicated in women with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
-For women with well-controlled hypertension, monitor blood pressure and stop EluRyng use if blood pressure rises significantly.
+Etonogestrel and ethinyl estradiol vaginal ring is contraindicated in women with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
+For women with well-controlled hypertension, monitor blood pressure and stop etonogestrel and ethinyl estradiol vaginal ring use if blood pressure rises significantly.
 
 An increase in blood pressure has been reported in women using CHCs and this increase is more likely in older women and with extended duration of use.
 The incidence of hypertension increases with increasing concentrations of progestin.
 
 ## 5.6 Hypersensitivity Reactions
 
-Hypersensitivity reactions of anaphylaxis and angioedema have been reported during use of EluRyng.
-If anaphylaxis and/or angioedema is suspected, EluRyng should be discontinued and appropriate treatment administered [see Contraindications (4)].
+Hypersensitivity reactions of anaphylaxis and angioedema have been reported during use of etonogestrel and ethinyl estradiol vaginal ring.
+If anaphylaxis and/or angioedema is suspected, etonogestrel and ethinyl estradiol vaginal ring should be discontinued and appropriate treatment administered [see Contraindications (4)].
 
 ## 5.7 Vaginal Use
 
-EluRyng may not be suitable for women with conditions that make the vagina more susceptible to vaginal irritation or ulceration.
-Vaginal/cervical erosion or ulceration in women using EluRyng has been reported.
+Etonogestrel and ethinyl estradiol vaginal ring may not be suitable for women with conditions that make the vagina more susceptible to vaginal irritation or ulceration.
+Vaginal/cervical erosion or ulceration in women using etonogestrel and ethinyl estradiol vaginal ring has been reported.
 In some cases, the ring adhered to vaginal tissue, necessitating removal by a healthcare provider and in some instances (i.e., when the tissue had grown over the ring), removal was achieved by cutting the ring without incising the overlying vaginal tissue.
 
-Some women are aware of the ring on occasion during the 21 days of use or during intercourse, and sexual partners may feel EluRyng in the vagina.
+Some women are aware of the ring on occasion during the 21 days of use or during intercourse, and sexual partners may feel etonogestrel and ethinyl estradiol vaginal ring in the vagina.
 
 ## 5.8 Gallbladder Disease
 
@@ -134,7 +133,7 @@ Women with a history of pregnancy-related cholestasis may be at an increased ris
 
 ## 5.9 Carbohydrate and Lipid Metabolic Effects
 
-Carefully monitor prediabetic and diabetic women who are using EluRyng.
+Carefully monitor prediabetic and diabetic women who are using etonogestrel and ethinyl estradiol vaginal ring.
 CHCs may decrease glucose tolerance.
 
 Consider alternative contraception for women with uncontrolled dyslipidemia.
@@ -144,9 +143,9 @@ Women with hypertriglyceridemia, or a family history thereof, may be at an incre
 
 ## 5.10 Headache
 
-If a woman using EluRyng develops new headaches that are recurrent, persistent, or severe, evaluate the cause and discontinue EluRyng if indicated.
+If a woman using etonogestrel and ethinyl estradiol vaginal ring develops new headaches that are recurrent, persistent, or severe, evaluate the cause and discontinue etonogestrel and ethinyl estradiol vaginal ring if indicated.
 
-Consider discontinuation of EluRyng in the case of an increased frequency or severity of migraine during CHC use (which may be prodromal of a cerebrovascular event) [see Contraindications (4)].
+Consider discontinuation of etonogestrel and ethinyl estradiol vaginal ring in the case of an increased frequency or severity of migraine during CHC use (which may be prodromal of a cerebrovascular event) [see Contraindications (4)].
 
 ## 5.11 Bleeding Irregularities and Amenorrhea
 
@@ -165,7 +164,7 @@ Amenorrhea and Oligomenorrhea
 If scheduled (withdrawal) bleeding does not occur, consider the possibility of pregnancy.
 If the patient has not adhered to the prescribed dosing schedule, consider the possibility of pregnancy at the time of the first missed period and take appropriate diagnostic measures.
 
-Occasional missed periods may occur with the appropriate use of EluRyng.
+Occasional missed periods may occur with the appropriate use of etonogestrel and ethinyl estradiol vaginal ring.
 In the clinical studies, the percent of women who did not have withdrawal bleeding in a given cycle ranged from 0.3% to 3.8%.
 
 If the patient has adhered to the prescribed regimen and misses two consecutive periods, rule out pregnancy.
@@ -174,18 +173,18 @@ Some women may experience amenorrhea or oligomenorrhea after discontinuing CHC u
 
 ## 5.12 Inadvertent Urinary Bladder Insertion
 
-There have been reports of inadvertent insertions of EluRyng into the urinary bladder, which required cystoscopic removal.
-Assess for ring insertion into the urinary bladder in EluRyng users who present with persistent urinary symptoms and are unable to locate the ring.
+There have been reports of inadvertent insertions of etonogestrel and ethinyl estradiol vaginal ring into the urinary bladder, which required cystoscopic removal.
+Assess for ring insertion into the urinary bladder in etonogestrel and ethinyl estradiol vaginal ring users who present with persistent urinary symptoms and are unable to locate the ring.
 
 ## 5.13 Depression
 
-Carefully observe women with a history of depression and discontinue EluRyng use if depression recurs to a serious degree.
+Carefully observe women with a history of depression and discontinue etonogestrel and ethinyl estradiol vaginal ring use if depression recurs to a serious degree.
 
 ## 5.14 Malignant Neoplasms
 
 Breast Cancer
 
-EluRyng is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally-sensitive [see Contraindications (4)].
+Etonogestrel and ethinyl estradiol vaginal ring is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally-sensitive [see Contraindications (4)].
 
 Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
 Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
@@ -203,7 +202,7 @@ The dose of replacement thyroid hormones or cortisol therapy may need to be incr
 
 ## 5.16 Monitoring
 
-A woman who is using EluRyng should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
+A woman who is using etonogestrel and ethinyl estradiol vaginal ring should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
 ## 5.17 Hereditary Angioedema
 
@@ -212,4 +211,4 @@ In women with hereditary angioedema, exogenous estrogens may induce or exacerbat
 ## 5.18 Chloasma
 
 Chloasma may occasionally occur, especially in women with a history of chloasma gravidarum.
-Women with a tendency to chloasma should avoid exposure to the sun or ultraviolet radiation while using EluRyng.
+Women with a tendency to chloasma should avoid exposure to the sun or ultraviolet radiation while using etonogestrel and ethinyl estradiol vaginal ring.

@@ -4,13 +4,13 @@
 
 Risk Summary
 
-EluRyng is contraindicated during pregnancy because there is no need for pregnancy prevention in a woman who is already pregnant.
+etonogestrel and ethinyl estradiol vaginal ring is contraindicated during pregnancy because there is no need for pregnancy prevention in a woman who is already pregnant.
 Epidemiologic studies and meta-analyses have not shown an increased risk of genital or non-genital birth defects (including cardiac anomalies and limb-reduction defects) following maternal exposure to low dose CHCs prior to conception or during early pregnancy.
 No adverse developmental outcomes were observed in pregnant rats and rabbits with the administration of etonogestrel during organogenesis at doses approximately 300 times the anticipated daily vaginal human dose (~0.002 mg/kg/day).
 
 No adverse developmental outcomes were observed in pregnant rats and rabbits with the co-administration of the combination desogestrel/ethinyl estradiol during organogenesis at desogestrel/ethinyl estradiol doses at least 2/5 times, respectively, the anticipated daily vaginal human dose (~0.002 desogestrel/0.00025 ethinyl estradiol mg/kg/day).
 
-Discontinue EluRyng use if pregnancy is confirmed.
+Discontinue etonogestrel and ethinyl estradiol vaginal ring use if pregnancy is confirmed.
 
 Data
 
@@ -32,24 +32,24 @@ CHCs can reduce milk production in breastfeeding mothers.
 This is less likely to occur once breastfeeding is well-established; however, it can occur at any time in some women.
 
 When possible, advise the nursing mother to use non-estrogen-containing contraception until she has completely weaned her child.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for EluRyng and any potential adverse effects on the breastfed child from EluRyng or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for etonogestrel and ethinyl estradiol vaginal ring and any potential adverse effects on the breastfed child from etonogestrel and ethinyl estradiol vaginal ring or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of EluRyng have been established in women of reproductive age.
+Safety and efficacy of etonogestrel and ethinyl estradiol vaginal ring have been established in women of reproductive age.
 Efficacy is expected to be the same for postpubertal adolescents under the age of 18 and for users 18 years and older.
 Use of this product before menarche is not indicated.
 
 ## 8.5 Geriatric Use
 
-EluRyng has not been studied in postmenopausal women and is not indicated in this population.
+Etonogestrel and ethinyl estradiol vaginal ring has not been studied in postmenopausal women and is not indicated in this population.
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of EluRyng has not been studied.
+The effect of hepatic impairment on the pharmacokinetics of etonogestrel and ethinyl estradiol vaginal ring has not been studied.
 Steroid hormones may be poorly metabolized in patients with impaired liver function.
 Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 ## 8.7 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of EluRyng has not been studied.
+The effect of renal impairment on the pharmacokinetics of etonogestrel and ethinyl estradiol vaginal ring has not been studied.
