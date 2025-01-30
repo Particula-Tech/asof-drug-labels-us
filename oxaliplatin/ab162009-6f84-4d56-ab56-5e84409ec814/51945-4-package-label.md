@@ -14,13 +14,15 @@ Caution: Cytotoxic Agent
 
 FOR INRAVENOUS USE ONLY
 
-SINGLE-DOSE VIAL
+SINGLE-DOSE VIAL ONLY
 
 Sterile Aqueous Solution
 
 Preservative Free
 
 Rx only
+
+SANDOZ
 
 # PRINCIPAL DISPLAY PANEL - 100 MG VIAL
 
@@ -38,10 +40,12 @@ Caution: Cytotoxic Agent
 
 FOR INRAVENOUS USE ONLY
 
-SINGLE-DOSE VIAL
+SINGLE-DOSE VIAL ONLY
 
 Sterile Aqueous Solution
 
 Preservative Free
 
 Rx only
+
+SANDOZ
