@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA210852"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-119-01",
+    "83831-120-02",
+    "83831-121-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cyclophosphamide",
+      "name": "Frindovyx"
+    }
+  ],
+  "setid": "5ad8ea65-4c98-487a-9c8d-df778765ec5e",
+  "source": "dailymed"
+}
