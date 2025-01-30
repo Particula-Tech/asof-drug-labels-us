@@ -8,6 +8,6 @@ Manufactured by:
 
 Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised December 2019
+Revised January 2025
 
-462-306-05
+462-306-06
