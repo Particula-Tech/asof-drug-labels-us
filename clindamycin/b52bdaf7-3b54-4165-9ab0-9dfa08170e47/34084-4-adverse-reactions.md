@@ -73,7 +73,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 In the post-marketing period, there have been case reports of pseudomembranous colitis with the use of clindamycin phosphate vaginal cream.
 
-## Other clindamycin formulations
+## Other clindamycin formulations:
 
 Clindamycin vaginal cream affords minimal peak serum levels and systemic exposure (AUCs) of clindamycin compared to 100 mg oral clindamycin dosing.
 Although these lower levels of exposure are less likely to produce the common reactions seen with oral clindamycin, the possibility of these and other reactions cannot be excluded presently.

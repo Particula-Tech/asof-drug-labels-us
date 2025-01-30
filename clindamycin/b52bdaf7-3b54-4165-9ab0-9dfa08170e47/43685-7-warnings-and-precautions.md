@@ -31,7 +31,7 @@ In 7.2% of the patients, vaginitis was recorded.
 Candida albicans, as reported here, includes the terms: vaginal moniliasis and moniliasis (body as a whole).
 Vaginitis includes the terms: vulvovaginal disorder, vulvovaginitis, vaginal discharge, trichomonal vaginitis, and vaginitis.
 
-## Information for the Patient
+## Information for the Patient:
 
 The patient should be instructed not to engage in vaginal intercourse, or use other vaginal products (such as tampons or douches) during treatment with this product.
 
