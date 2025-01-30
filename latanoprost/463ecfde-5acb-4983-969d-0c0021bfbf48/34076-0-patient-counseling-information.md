@@ -18,7 +18,7 @@ Serious damage to the eye and subsequent loss of vision may result from using co
 
 When to Seek Physician Advice
 
-Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
+Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of the multiple-dose container.
 
 Contact Lens Use
 
@@ -33,3 +33,9 @@ Advise patients that if more than one topical ophthalmic drug is being used, the
 If a Dose is Missed
 
 Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
+
+GREENSTONE® BRAND Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2024 Viatris Inc.
+
+GST:LATA:R1

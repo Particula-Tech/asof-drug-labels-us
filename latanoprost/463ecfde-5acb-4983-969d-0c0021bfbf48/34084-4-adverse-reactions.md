@@ -17,11 +17,11 @@ Patients received 50 mcg/mL latanoprost ophthalmic solution once daily or 5 mg/m
 The patient population studied had a mean age of 65±10 years.
 Seven percent of patients withdrew before the 6-month endpoint.
 
-Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% of Patients Receiving Latanoprost
+Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5-15% of Patients Receiving Latanoprost
 
-| Symptom/Finding | Latanoprost (n=460) | Timolol (n=369) |
+| Symptom/Finding | Adverse Reactions (Incidence (%)) |  |
 | --- | --- | --- |
-|  | Adverse Reactions (incidence (%)) |  |
+| Latanoprost (n=460) | Timolol (n=369) |  |
 | Foreign body sensation | 13 | 8 |
 | Punctate keratitis | 10 | 9 |
 | Stinging | 9 | 12 |
@@ -29,15 +29,15 @@ Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% 
 | Blurred vision | 8 | 8 |
 | Itching | 8 | 8 |
 | Burning | 7 | 8 |
-| Increased pigmentation of the Iris | 7 | 0 |
+| Increased pigmentation of the iris | 7 | 0 |
 
 Less than 1% of the patients treated with latanoprost ophthalmic solution required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
-Table 2: Adverse Reactions That Were Reported in 1–5% of Patients Receiving Latanoprost
+Table 2: Adverse Reactions That Were Reported in 1-5% of Patients Receiving Latanoprost
 
-|  | Latanoprost (n=460) | Timolol (n=369) |
+|  | Adverse Reactions (Incidence (%)) |  |
 | --- | --- | --- |
-|  | Adverse Reactions (incidence (%)) |  |
+| Latanoprost (n=460) | Timolol (n=369) |  |
 | Ocular Events/Signs and Symptoms |  |  |
 | Excessive tearing | 4 | 6 |
 | Eyelid discomfort/pain | 4 | 2 |
@@ -64,6 +64,8 @@ Nervous System Disorders: Dizziness; headache; toxic epidermal necrolysis
 Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
 
 Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
+
+Gastrointestinal Disorders: Nausea; vomiting
 
 Skin and Subcutaneous Tissue Disorders: Pruritus
 

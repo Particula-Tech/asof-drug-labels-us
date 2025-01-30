@@ -9,29 +9,29 @@ The higher the level of IOP, the greater the likelihood of optic nerve damage an
 
 ## 12.2 Pharmacodynamics
 
-Reduction of the IOP in man starts about 3–4 hours after administration and maximum effect is reached after 8–12 hours.
+Reduction of the IOP in man starts about 3-4 hours after administration and maximum effect is reached after 8-12 hours.
 IOP reduction is present for at least 24 hours.
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+### Absorption
 
 Latanoprost is absorbed through the cornea where the isopropyl ester prodrug is hydrolyzed to the acid form to become biologically active.
 
-Distribution
+### Distribution
 
-The distribution volume in humans is 0.16 ± 0.02 L/kg.
+The distribution volume in humans is 0.16±0.02 L/kg.
 The acid of latanoprost can be measured in aqueous humor during the first 4 hours, and in plasma only during the first hour after local administration.
-Studies in man indicate that the peak concentration in the aqueous humor is reached about two hours after topical administration.
+Studies in man indicate that the peak concentration in the aqueous humor is reached about 2 hours after topical administration.
 
-Elimination
+### Elimination
 
-Metabolism
+#### Metabolism
 
 Latanoprost, an isopropyl ester prodrug, is hydrolyzed by esterases in the cornea to the biologically active acid.
 The active acid of latanoprost reaching the systemic circulation is primarily metabolized by the liver to the 1,2-dinor and 1,2,3,4-tetranor metabolites via fatty acid β-oxidation.
 
-Excretion
+#### Excretion
 
 The elimination of the acid of latanoprost from human plasma is rapid (t1/2 = 17 min) after both IV and topical administration.
 Systemic clearance is approximately 7 mL/min/kg.

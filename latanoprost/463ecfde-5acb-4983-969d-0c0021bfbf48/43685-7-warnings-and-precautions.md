@@ -4,7 +4,7 @@
 
 Latanoprost ophthalmic solution has been reported to cause changes to pigmented tissues.
 The most frequently reported changes have been increased pigmentation of the iris, periorbital tissue (eyelid), and eyelashes.
-Pigmentation is expected to increase as long as latanoprost ophthalmic solution is administered.
+Pigmentation is expected to increase as long as latanoprost is administered.
 
 The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
 After discontinuation of latanoprost, pigmentation of the iris is likely to be permanent, while pigmentation of the periorbital tissue and eyelash changes have been reported to be reversible in some patients.
