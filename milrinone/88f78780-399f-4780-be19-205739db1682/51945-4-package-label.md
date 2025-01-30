@@ -80,60 +80,6 @@ Preservative Free
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0143-9719-01 Rx only
-
-Single Dose Flexible Container
-
-Milrinone Lactate
-
-in 5% Dextrose Injection
-
-20 mg per 100 mL
-
-(200 mcg/mL)
-
-Sterile, Nonpyrogenic
-
-NDC 0143-9719-01 TO OPEN-TEAR AT NOTCH Rx only
-
-Milrinone Lactate
-
-in 5% Dextrose Injection
-
-20 mg per 100 mL (200 mcg/mL)
-
-Single Dose Flexible Container Sterile Nonpyrogenic
-
-# PRINCIPAL DISPLAY PANEL
-
-NDC 0143-9718-01 Rx only
-
-Single Dose Flexible Container
-
-Milrinone Lactate
-
-in 5% Dextrose Injection
-
-40 mg per 200 mL
-
-(200 mcg/mL)
-
-Sterile, Nonpyrogenic
-
-NDC 0143-9718-01 TO OPEN-TEAR AT NOTCH Rx only
-
-Milrinone Lactate
-
-in 5% Dextrose Injection
-
-40 mg per 200 mL
-
-(200 mcg/mL)
-
-Single Dose Flexible Container Sterile Nonpyrogenic
-
-# PRINCIPAL DISPLAY PANEL
-
 NDC 0143-9710-01 Rx only
 
 Milrinone
@@ -177,5 +123,3 @@ For Intravenous use ONLY
 Preservative Free
 
 25 x 10 mL Single Dose Vials
-
-# SERIALIZATION IMAGE
