@@ -1,7 +1,7 @@
 # CONTRAINDICATIONS
 
 Congestive Heart Failure: Itraconazole oral solution should not be administered to patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF except for the treatment of life-threatening or other serious infections.
-(See BOXED WARNING, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations.)
+(See BOXED WARNING, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populations.)
 Drug Interactions: Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole.
 Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.
 In addition, coadministration with colchicine, fesoterodine, and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and coadministration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors.

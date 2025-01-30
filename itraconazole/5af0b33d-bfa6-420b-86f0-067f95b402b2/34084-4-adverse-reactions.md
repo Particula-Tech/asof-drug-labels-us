@@ -41,28 +41,29 @@ Edema, hypokalemia and menstrual disorders have been reported in clinical trials
 
 Adverse Events Reported from Other Clinical Trials
 
-A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials” or listed below as post-marketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
+A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials” or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
 In addition, the following adverse drug reactions were reported in patients who participated in itraconazole oral solution clinical trials:
 
 Cardiac Disorders:cardiac failure;
 
 General Disorders and Administration Site Conditions:edema; Hepatobiliary Disorders:hepatic failure, hyperbilirubinemia; Metabolism and Nutrition Disorders:hypokalemia; Reproductive System and Breast Disorders:menstrual disorder The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of itraconazole capsules and itraconazole IV excluding the adverse reaction term “Injection site inflammation” which is specific to the injection route of administration: Cardiac Disorders:left ventricular failure; Gastrointestinal Disorders:gastrointestinal disorder; General Disorders and Administration Site Conditions:face edema; Hepatobiliary Disorders:jaundice, hepatic function abnormal; Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, gamma-glutamyltransferase increased, urine analysis abnormal; Metabolism and Nutrition Disorders:hyperglycemia, hyperkalemia; Nervous System Disorders:somnolence; Psychiatric Disorders:confusional state; Renal and Urinary Disorders:renal impairment; Respiratory, Thoracic and Mediastinal Disorders:dysphonia; Skin and Subcutaneous Tissue Disorders:rash erythematous; Vascular Disorders:hypertension In addition, the following adverse drug reaction was reported in children only who participated in itraconazole oral solution clinical trials: mucosal inflammation.
 
-Post-marketing Experience
+Postmarketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 4 below.
+Adverse drug reactions that have been first identified during postmarketing experience with itraconazole (all formulations) are listed in Table 4 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 4: Post-marketing Reports of Adverse Drug Reactions
+Table 4: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
 | Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
+| Endocrine Disorders: | Pseudoaldosteronism |
 | Metabolism and Nutrition Disorders: | Hypertriglyceridemia |
 | Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
-| Cardiac Disorders: | Congestive heart failure |
+| Cardiac Disorders: | Congestive heart failure, bradycardia |
 | Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema |
 | Gastrointestinal Disorders: | Pancreatitis |
 | Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
@@ -74,6 +75,6 @@ Table 4: Post-marketing Reports of Adverse Drug Reactions
 | Investigations: | Blood creatine phosphokinase increased |
 
 There is limited information on the use of itraconazole during pregnancy.
-Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
+Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during postmarketing experience.
 A causal relationship with itraconazole has not been established.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
