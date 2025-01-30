@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "ANDA205426"
+    "ANDA205426",
+    "ANDA217640"
   ],
   "inn": "everolimus",
   "labeler": "Breckenridge Pharmaceutical, Inc.",
@@ -16,11 +17,22 @@
     "51991-823-99",
     "51991-824-28",
     "51991-824-33",
-    "51991-824-99"
+    "51991-824-99",
+    "51991-990-28",
+    "51991-990-99",
+    "51991-991-28",
+    "51991-991-99",
+    "51991-992-28",
+    "51991-992-99"
   ],
   "products": [
     {
       "form": "TABLET",
+      "generic": "everolimus",
+      "name": "Everolimus"
+    },
+    {
+      "form": "TABLET, FOR SUSPENSION",
       "generic": "everolimus",
       "name": "Everolimus"
     }

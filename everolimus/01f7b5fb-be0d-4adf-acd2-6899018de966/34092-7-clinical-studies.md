@@ -45,9 +45,7 @@ The major efficacy outcome was PFS evaluated by RECIST.
 After documented radiological progression, patients randomized to placebo could receive open-label everolimus tablets.
 Other outcome measures included ORR, response duration, and OS.
 
-Patients were randomized 1:1 to receive either everolimus tablets 10 mg once daily (n = 207) or placebo (n = 203).
-
-Demographics were well balanced (median age 58 years, 55% male, 79% White).
+Patients were randomized 1:1 to receive either everolimus tablets 10 mg once daily (n = 207) or placebo (n = 203).Demographics were well balanced (median age 58 years, 55% male, 79% White).
 Of the 203 patients randomized to BSC, 172 patients (85%) received everolimus tablets following documented radiologic progression.
 
 The trial demonstrated a statistically significant improvement in PFS (Table 21 and Figure 2).
@@ -66,7 +64,6 @@ Table 21: Progression-Free Survival Results in PNET in RADIANT-3
 Figure 2: Kaplan-Meier Curves for Progression-Free Survival by Investigator Radiological Review in PNET in RADIANT-3
 
 Investigator-determined response rate was 4.8% in the everolimus tablets arm and there were no complete responses.
-
 Overall Survival (OS) was not statistically significantly different between arms [HR = 0.94 (95% CI 0.73, 1.20); p = 0.30].
 
 NET of Gastrointestinal (GI) or Lung Origin
@@ -80,19 +77,20 @@ Additional efficacy outcome measures were OS and ORR.
 A total of 302 patients were randomized, 205 to the everolimus tablets arm and 97 to the placebo arm.
 The median age was 63 years (22 to 86 years); 47% were male; 76% were White; 74% had WHO performance status of 0 and 26% had WHO performance status of 1.
 The most common primary sites of tumor were lung (30%), ileum (24%), and rectum (13%).
+
 The study demonstrated a statistically significant improvement in PFS per independent radiological review (Table 22 and Figure 3).
 The final OS analysis did not show a statistically significant difference between those patients who received everolimus tablets or placebo (HR = 0.90 [95% CI: 0.66, 1.24]).
 
 Table 22: Progression-Free Survival in Neuroendocrine Tumors of Gastrointestinal or Lung Origin in RADIANT-4
 
-|  | EVEROLIMUS TABLETS N = 205 | Placebo N = 97 |
+|  | Everolimus Tablets N = 205 | Placebo N = 97 |
 | --- | --- | --- |
 | Progression-Free Survival |  |  |
 | Number of Events | 113 (55%) | 65 (67%) |
 | Progressive Disease | 104 (51%) | 60 (62%) |
 | Death | 9 (4%) | 5 (5%) |
 | Median PFS in months (95% CI) | 11.0 (9.2, 13.3) | 3.9 (3.6, 7.4) |
-| Hazard Ratio (95% CI)Hazard ratio is obtained from the stratified Cox model. | 0.48 (0.35,0.67) |  |
+| Hazard Ratio (95% CI)Hazard ratio is obtained from the stratified Cox model. | 0.48 (0.35, 0.67) |  |
 | p-valuep-value is obtained from the stratified log-rank test. | < 0.001 |  |
 | Overall Response Rate | 2% | 1% |
 
@@ -126,7 +124,7 @@ Table 23: Progression-Free Survival and Objective Response Rate by Central Radio
 
 |  | Everolimus Tablets N = 277 | Placebo N = 139 | Hazard Ratio (95% CI) | p-valueLog-rank test stratified by prognostic score. |
 | --- | --- | --- | --- | --- |
-| Median Progression-free Survival (95% CI) | 4.9 months (4.0, 5.5) | 1.9 months (1.8, 1.9) | 0.33 (0.25, 0.43) | <0.0001 |
+| Median Progression-free Survival (95% CI) | 4.9 months (4.0, 5.5) | 1.9 months (1.8, 1.9) | 0.33 (0.25, 0.43) | < 0.0001 |
 | Objective Response Rate | 2% | 0% | n/aNot applicable. | n/a |
 
 Figure 4: Kaplan-Meier Curves for Progression-Free Survival in RCC in RECORD-1
@@ -159,10 +157,10 @@ The time to angiomyolipoma progression was statistically significantly longer in
 
 Table 24: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in EXIST-2
 
-|  | Everolimus Tablets N = 79 | Placebo N = 39 | p-value |
+|  | Everolimus Tablets N=79 | Placebo N=39 | p-value |
 | --- | --- | --- | --- |
-| Primary Analysis |  |  |  |
-| Angiomyolipoma response ratePer independent central radiology review - (%) | 41.8 | 0 | < 0.0001 |
+| Primary analysis |  |  |  |
+| Angiomyolipoma response ratePer independent central radiology review. – (%) | 41.8 | 0 | < 0.0001 |
 | 95% CI | (30.8, 53.4) | (0.0, 9.0) |  |
 
 Skin lesion response rates were assessed by local investigators for 77 patients in the everolimus tablets arm and 37 patients in the placebo arm who presented with skin lesions at study entry.
@@ -208,10 +206,10 @@ No patient in either treatment arm required surgical intervention.
 
 Table 25: Subependymal Giant Cell Astrocytoma Response Rate in TSC-Associated SEGA in EXIST-1
 
-|  | Everolimus Tablets N = 78 | Placebo N = 39 | p-value |
+|  | Everolimus Tablets N=78 | Placebo N=39 | p-value |
 | --- | --- | --- | --- |
-| Primary Analysis |  |  |  |
-| SEGA response ratePer independent central radiology review – (%) | 35 | 0 | < 0.0001 |
+| Primary analysis |  |  |  |
+| SEGA response ratePer independent central radiology review. - (%) | 35 | 0 | < 0.0001 |
 | 95% CI | 24, 46 | 0, 9 |  |
 
 Patients randomized to placebo were permitted to receive everolimus tablets at the time of SEGA progression or after the primary analysis, whichever occurred first.

@@ -28,7 +28,7 @@ Advise patients of the risk of developing kidney failure and the need to monitor
 
 Risk of Impaired Wound Healing
 
-Advise patients that everolimus tablets may impair wound healing.
+Advise patients that everolimus tablets/everolimus tablets for oral suspension may impair wound healing.
 Advise patients to inform their healthcare provider of any planned surgical procedure [see Warnings and Precautions (5.7)].
 
 Geriatric Patients
@@ -43,7 +43,7 @@ Myelosuppression
 
 Advise patients of the risk of myelosuppression and the need to monitor CBCs periodically during therapy [see Warnings and Precautions (5.10)].
 
-Risk of Infection or Reduced Immune Response with Vaccination
+Risk of Infection or Reduced Immune Response With Vaccination
 
 Advise patients to avoid the use of live vaccines and close contact with those who have received live vaccines [see Warnings and Precautions (5.11)].
 
@@ -56,12 +56,12 @@ Advise males with female partners of reproductive potential to use effective con
 
 Radiation Sensitization and Radiation Recall
 
-Radiation sensitization and recall can occur in patients treated with radiation prior to, during, or subsequent to everolimus tablets treatment.
+Radiation sensitization and recall can occur in patients treated with radiation prior to, during, or subsequent to everolimus tablets/everolimus tablets for oral suspension treatment.
 Advise patients to inform their healthcare provider if they have had or are planning to receive radiation therapy [see Warnings and Precautions (5.12)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with everolimus tablets and for 2 weeks after the last dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during treatment with everolimus tablets/everolimus tablets for oral suspension and for 2 weeks after the last dose [see Use in Specific Populations (8.2)].
 
 Infertility
 

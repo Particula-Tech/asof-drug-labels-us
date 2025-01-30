@@ -44,6 +44,8 @@ In patients with TSC-associated SEGA, everolimus Cmin was approximately dose-pro
 Effect of Food: In healthy subjects, a high-fat meal (containing approximately 1000 calories and 55 grams of fat) reduced systemic exposure to everolimus tablets 10 mg (as measured by AUC) by 22% and the peak blood concentration Cmax by 54%.
 Light-fat meals (containing approximately 500 calories and 20 grams of fat) reduced AUC by 32% and Cmax by 42%.
 
+In healthy subjects who received 9 mg of everolimus tablets for oral suspension, high-fat meals (containing approximately 1000 calories and 55 grams of fat) reduced everolimus AUC by 12% and Cmax by 60% and low-fat meals (containing approximately 500 calories and 20 grams of fat) reduced everolimus AUC by 30% and Cmax by 50%.
+
 Relative Bioavailability: The AUCinf of everolimus was equivalent between everolimus tablets for oral suspension and everolimus tablets; the Cmax of everolimus in the everolimus tablets for oral suspension dosage form was 20% to 36% lower than that of everolimus tablets.
 The predicted trough concentrations at steady-state were similar after daily administration.
 
@@ -78,15 +80,15 @@ In another study, the average AUC of everolimus in subjects with moderate hepati
 Pediatric Patients: In patients with TSC-associated SEGA, the mean Cmin values normalized to mg/m2 dose in pediatric patients (< 18 years of age) were lower than those observed in adults, suggesting that everolimus clearance adjusted to BSA was higher in pediatric patients as compared to adults.
 
 Race or Ethnicity: Based on a cross-study comparison, Japanese patients had on average exposures that were higher than non-Japanese patients receiving the same dose.
-Oral clearance (CL/F) is on average 20% higher in Black patients than in White patients.
+Oral clearance (CL/F) is on average 20% higher in black patients than in white patients.
 
 Drug Interaction Studies
 
 Effect of CYP3A4 and P-glycoprotein (P-gp) Inhibitors on Everolimus: Everolimus exposure increased when everolimus tablets were coadministered with:
 
-- ketoconazole (a P-gp and strong CYP3A4 inhibitor) - Cmax and AUC increased by 3.9- and 15-fold, respectively.
-- erythromycin (a P-gp and moderate CYP3A4 inhibitor) - Cmax and AUC increased by 2- and 4.4-fold, respectively.
-- verapamil (a P-gp and moderate CYP3A4 inhibitor) - Cmax and AUC increased by 2.3- and 3.5-fold, respectively.
+- ketoconazole (a P-gp and strong CYP3A4 inhibitor) - Cmax and AUC increased by 3.9 - and 15 - fold, respectively.
+- erythromycin (a P-gp and moderate CYP3A4 inhibitor) - Cmax and AUC increased by 2 - and 4.4 - fold, respectively.
+- verapamil (a P-gp and moderate CYP3A4 inhibitor) - Cmax and AUC increased by 2.3 - and 3.5 - fold, respectively.
 
 Effect of CYP3A4 and P-gp Inducers on Everolimus: The coadministration of everolimus tablets with rifampin, a P-gp and strong inducer of CYP3A4, decreased everolimus AUC by 63% and Cmax by 58% compared to everolimus tablets alone [see Dosage and Administration (2.12)].
 

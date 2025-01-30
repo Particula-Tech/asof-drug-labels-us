@@ -22,4 +22,4 @@ Everolimus tablets are indicated for the treatment of adult patients with renal 
 
 ## 1.5 Tuberous Sclerosis Complex (TSC)-Associated Subependymal Giant Cell Astrocytoma (SEGA)
 
-Everolimus tablets are indicated in adult and pediatric patients aged 1 year and older with TSC for the treatment of SEGA that requires therapeutic intervention but cannot be curatively resected.
+Everolimus tablets and Everolimus tablets for oral suspension are indicated in adult and pediatric patients aged 1 year and older with TSC for the treatment of SEGA that requires therapeutic intervention but cannot be curatively resected.
