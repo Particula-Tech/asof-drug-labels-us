@@ -14,7 +14,9 @@ Monotherapy and In Combination with Lenalidomide (D-Rd) or Pomalidomide (D-Pd) a
 The DARZALEX dosing schedule in Table 1 is for combination therapy (4-week cycle regimens) and monotherapy as follows:
 
 - combination therapy with lenalidomide and low-dose dexamethasone for newly diagnosed patients ineligible for autologous stem cell transplant (ASCT) and in patients with relapsed/refractory multiple myeloma
+
 - combination therapy with pomalidomide and low-dose dexamethasone for patients with relapsed/refractory multiple myeloma
+
 - monotherapy for patients with relapsed/refractory multiple myeloma.
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
@@ -76,7 +78,7 @@ Table 4: DARZALEX Dosing Schedule With Bortezomib and Dexamethasone (3-Week Cycl
 | Weeks 10 to 24 First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
 | Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
-For dosing instructions of combination agents administered with DARZALEX seeClinical Studies (14.2)and manufacturer's prescribing information.
+For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.2)and manufacturer's prescribing information.
 
 In Combination with Carfilzomib and Dexamethasone (DKd)
 
@@ -124,11 +126,15 @@ Pre-infusion Medication
 Administer the following pre-infusion medications 1 hour to 3 hours before every DARZALEX infusion:
 
 - Corticosteroid (long- or intermediate-acting)
-  - Monotherapy: Administer methylprednisolone 100 mg (or equivalent) intravenously.
-    Following the second infusion, consider reducing the dose to 60 mg (or equivalent) administered either orally or intravenously.
-    In Combination: Administer dexamethasone 20 mg (or equivalent) orally or intravenously.
-    When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX infusion days [see Clinical Studies (14)].
-    Do not administer background regimen-specific corticosteroids (e.g. prednisone) on DARZALEX infusion days when patients have received dexamethasone (or equivalent) as a pre-medication.
+
+Monotherapy:
+
+Administer methylprednisolone 100 mg (or equivalent) intravenously.
+Following the second infusion, consider reducing the dose to 60 mg (or equivalent) administered either orally or intravenously.
+In Combination: Administer dexamethasone 20 mg (or equivalent) orally or intravenously.
+When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX infusion days [see Clinical Studies (14)].
+Do not administer background regimen-specific corticosteroids (e.g. prednisone) on DARZALEX infusion days when patients have received dexamethasone (or equivalent) as a pre-medication.
+
 - Acetaminophen 650 mg to 1,000 mg orally
 - Diphenhydramine 25 mg to 50 mg (or equivalent) orally or intravenously.
 
