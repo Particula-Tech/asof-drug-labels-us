@@ -24,8 +24,6 @@ For Intravenous and Subcutaneous Use Only
 
 One 10 mL Multiple-Dose Vial
 
-A
-
 NDC 69918-899-01
 
 DESMOPRESSIN ACETATE INJECTION
