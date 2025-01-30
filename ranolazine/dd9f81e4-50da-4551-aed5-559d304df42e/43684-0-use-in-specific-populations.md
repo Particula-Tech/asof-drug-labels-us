@@ -22,8 +22,7 @@ No adverse fetal effects were observed in either species exposed (AUC) to ranola
 Risk Summary
 
 There are no data on the presence of ranolazine in human milk, the effects on the breastfed infant, or the effects on milk production.
-However, ranolazine is present in rat milk [see Use in Specific Populations (8.1)].
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ranolazine and any potential adverse effects on the breastfed infant from ranolazine or from the underlying maternal condition.
+However, ranolazine is present in rat milk [see Use in Specific Populations (8.1)].The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ranolazine and any potential adverse effects on the breastfed infant from ranolazine or from the underlying maternal condition.
 
 Adult female rats were administered ranolazine orally from gestation day 6 through postnatal day 20.
 No adverse effects on pup development, behavior, or reproduction parameters were observed at a maternal dosage level of 60 mg/kg/day (equal to the MHRD based on AUC).
@@ -44,16 +43,15 @@ In general, dose selection for an elderly patient should usually start at the lo
 ## 8.6 Use in Patients with Hepatic Impairment
 
 ASPRUZYO Sprinkle is contraindicated in patients with liver cirrhosis.
-In a study of cirrhotic patients, the Cmax of ranolazine was increased 30% in cirrhotic patients with mild (Child‑ Pugh Class A) hepatic impairment but increased 80% in cirrhotic patients with moderate (Child-Pugh Class B) hepatic impairment compared to patients without hepatic impairment.
+In a study of cirrhotic patients, the C maxof ranolazine was increased 30% in cirrhotic patients with mild (Child‑ Pugh Class A) hepatic impairment but increased 80% in cirrhotic patients with moderate (Child-Pugh Class B) hepatic impairment compared to patients without hepatic impairment.
 This increase was not enough to account for the 200% increase in QT prolongation seen in cirrhotic patients with mild to moderate hepatic impairment [see Clinical Pharmacology (12.2)].
 
 ## 8.7 Use in Patients with Renal Impairment
 
 A pharmacokinetic study of ranolazine in subjects with severe renal impairment (CrCL< 30 mL/min) was stopped when 2 of 4 subjects developed acute renal failure after receiving ranolazine 500 mg twice daily for 5 days (lead-in phase) followed by 1000 mg twice a day (1 dose in one subject and 11 doses in the other).
 Increases in creatinine, BUN, and potassium were observed in 3 subjects during the 500 mg lead-in phase.
-One subject required hemodialysis, while the other 2 subjects improved upon drug discontinuation [see Warnings and Precautions (5.2)].
-Monitor renal function periodically in patients with moderate to severe renal impairment.
+One subject required hemodialysis, while the other 2 subjects improved upon drug discontinuation [see Warnings and Precautions (5.2)].Monitor renal function periodically in patients with moderate to severe renal impairment.
 Discontinue ASPRUZYO Sprinkle if acute renal failure develops.
 
-In a separate study, Cmax was increased between 40% and 50% in patients with mild, moderate, or severe renal impairment compared to patients with no renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
+In a separate study, C maxwas increased between 40% and 50% in patients with mild, moderate, or severe renal impairment compared to patients with no renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
 The pharmacokinetics of ranolazine has not been assessed in patients on dialysis.

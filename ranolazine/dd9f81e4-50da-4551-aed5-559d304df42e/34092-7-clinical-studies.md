@@ -15,9 +15,9 @@ Table 2 Exercise Treadmill Results (CARISA)
 | --- | --- | --- |
 | Study | CARISA (N = 791) |  |
 | Ranolazine Twice-daily Dose | 750 mg | 1000 mg |
-| Exercise Duration Trough Peak | 24a34b | 24 a26 a |
-| Time to Angina Trough Peak | 30 a38 b | 26 a38 b |
-| Time to 1 mm ST-Segment Depression Trough Peak | 2041 b | 2135b |
+| Exercise DurationTroughPeak | 24 a34 b | 24 a26 a |
+| Time to AnginaTroughPeak | 30 a38 b | 26 a38 b |
+| Time to 1 mm ST-SegmentDepressionTroughPeak | 2041 b | 2135 b |
 
 1. a p-value ≤ 0.05 b p-value ≤ 0.005
 
@@ -25,14 +25,14 @@ The effects of ranolazine on angina frequency and nitroglycerin use are shown in
 
 Table 3 Angina Frequency and Nitroglycerin Use (CARISA)
 
-|  |  | Placebo | Ranolazine 750 mga | Ranolazine 1000 mga |
+|  |  | Placebo | Ranolazine 750 mg a | Ranolazine 1000 mg a |
 | --- | --- | --- | --- | --- |
 | Angina Frequency (attacks/week) | N | 258 | 272 | 261 |
 | Mean | 3.3 | 2.5 | 2.1 |  |
-| P-value vs placebo | - | 0.006 | <0.001 |  |
-| Nitroglycerin Use (doses/week) | N | 252 | 262 | 244 |
+| P-valuevs placebo | - | 0.006 | <0.001 |  |
+| Nitroglycerin Use(doses/week) | N | 252 | 262 | 244 |
 | Mean | 3.1 | 2.1 | 1.8 |  |
-| P-value vs placebo | - | 0.016 | <0.001 |  |
+| P-valuevs placebo | - | 0.016 | <0.001 |  |
 
 1. a Twice daily
 
@@ -49,7 +49,7 @@ These treatment effects appeared consistent across age and use of long-acting ni
 
 Table 4 Angina Frequency and Nitroglycerin Use (ERICA)
 
-|  |  | Placebo | Ranolazinea |
+|  |  | Placebo | Ranolazine a |
 | --- | --- | --- | --- |
 | Angina Frequency(attacks/week) | N | 281 | 277 |
 | Mean | 4.3 | 3.3 |  |
@@ -73,4 +73,4 @@ There were insufficient numbers of non-Caucasian patients to allow for analyses 
 ## 14.2 Lack of Benefit in Acute Coronary Syndrome
 
 In a large (n = 6560) placebo-controlled trial (MERLIN-TIMI 36) in patients with acute coronary syndrome, there was no benefit shown on outcome measures.
-However, the study is somewhat reassuring regarding proarrhythmic risks, as ventricular arrhythmias were less common on ranolazine [see Clinical Pharmacology (12.2)], and there was no difference between ranolazine and placebo in the risk of all-cause mortality (relative risk ranolazine: placebo 0.99 with an upper 95% confidence limit of 1.22).
+However, the study is somewhat reassuring regarding proarrhythmic risks, as ventricular arrhythmias were less common on ranolazine [see Clinical Pharmacology (12.2)],and there was no difference between ranolazine and placebo in the risk of all-cause mortality (relative risk ranolazine: placebo 0.99 with an upper 95% confidence limit of 1.22).

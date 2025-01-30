@@ -18,29 +18,29 @@ In open-label, long-term treatment studies, a similar adverse reaction profile w
 
 The following additional adverse reactions occurred at an incidence of 0.5 to 4.0% in patients treated with ranolazine and were more frequent than the incidence observed in placebo-treated patients:
 
-Cardiac Disorders- bradycardia, palpitations
+Cardiac Disorders-bradycardia, palpitations
 
-Ear and Labyrinth Disorders- tinnitus, vertigo
+Ear and Labyrinth Disorders-tinnitus, vertigo
 
-Eye Disorders- blurred vision
+Eye Disorders-blurred vision
 
-Gastrointestinal Disorders- abdominal pain, dry mouth, vomiting, dyspepsia
+Gastrointestinal Disorders-abdominal pain, dry mouth, vomiting, dyspepsia
 
-General Disorders and Administrative Site Adverse Events- asthenia, peripheral edema
+General Disorders and Administrative Site Adverse Events-asthenia, peripheral edema
 
-Metabolism and Nutrition Disorders- anorexia
+Metabolism and Nutrition Disorders-anorexia
 
-Nervous System Disorders- syncope (vasovagal)
+Nervous System Disorders-syncope (vasovagal)
 
-Psychiatric Disorders- confusional state
+Psychiatric Disorders-confusional state
 
-Renal and Urinary Disorders- hematuria
+Renal and Urinary Disorders-hematuria
 
-Respiratory, Thoracic, and Mediastinal Disorders- dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders-dyspnea
 
-Skin and Subcutaneous Tissue Disorders- hyperhidrosis
+Skin and Subcutaneous Tissue Disorders-hyperhidrosis
 
-Vascular Disorders- hypotension, orthostatic hypotension
+Vascular Disorders-hypotension, orthostatic hypotension
 
 Other (< 0.5%) but potentially medically important adverse reactions observed more frequently with ranolazine than placebo treatment in all controlled studies included: angioedema, renal failure, eosinophilia, chromaturia, blood urea increased, hypoesthesia, paresthesia, tremor, pulmonary fibrosis, thrombocytopenia, leukopenia, and pancytopenia.
 

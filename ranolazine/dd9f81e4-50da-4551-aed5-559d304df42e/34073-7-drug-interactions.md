@@ -21,8 +21,8 @@ Concomitant use of ASPRUZYO Sprinkle with CYP3A inducers such as rifampin, rifab
 
 Alcohol
 
-An in-vitro dissolution study was conducted to evaluate the impact of alcohol on extended-release characteristics of ASPRUZYO Sprinkle.
-The in-vitro study showed that alcohol causes a rapid release of ranolazine from ASPRUZYO Sprinkle that may increase the risk of adverse events associated with ASPRUZYO Sprinkle.
+An in-vitrodissolution study was conducted to evaluate the impact of alcohol on extended-release characteristics of ASPRUZYO Sprinkle.
+The in-vitrostudy showed that alcohol causes a rapid release of ranolazine from ASPRUZYO Sprinkle that may increase the risk of adverse events associated with ASPRUZYO Sprinkle.
 Patients should not consume alcohol when taking ASPRUZYO Sprinkle [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Effects of Ranolazine on Other Drugs
