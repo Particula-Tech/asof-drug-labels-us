@@ -47,4 +47,4 @@ Administration Instruct patients:
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-J 12/2024
+I 5/2024
