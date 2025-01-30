@@ -71,9 +71,6 @@ Dosage adjustments should occur gradually in increments of 5 mg/day at intervals
 
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
-Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
-
 ## 2.7 Dosage Adjustments for Cytochrome P450 Considerations
 
 Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 1).

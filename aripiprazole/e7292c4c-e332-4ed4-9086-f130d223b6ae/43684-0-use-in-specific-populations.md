@@ -115,9 +115,6 @@ Tourette’s Disorder
 Safety and effectiveness of aripiprazole in pediatric patients with Tourette’s Disorder were established in one 8-week (aged 7 to 17) and one 10-week trial (aged 6 to 18) in 194 pediatric patients [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Clinical Studies (14.5)].
 Maintenance efficacy in pediatric patients has not been systematically evaluated.
 
-Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
-
 Juvenile Animal Studies
 
 Aripiprazole in juvenile rats caused mortality, CNS clinical signs, impaired memory and learning, and delayed sexual maturation when administered at oral doses of 10, 20, 40 mg/kg/day from weaning (21 days old) through maturity (80 days old).
@@ -137,7 +134,7 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 No dosage adjustment is recommended for elderly patients [see Boxed Warning, Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
-Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were >65 years old and 799 (6%) were >75 years old.
+Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
 Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or another indication did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see Boxed Warning and Warnings and Precautions (5.1)].

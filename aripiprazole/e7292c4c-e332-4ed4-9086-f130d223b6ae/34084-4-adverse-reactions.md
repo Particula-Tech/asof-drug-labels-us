@@ -20,9 +20,9 @@ The following are adverse reactions discussed in more detail in other sections o
 - Suicide [see Warnings and Precautions (5.14)]
 - Dysphagia [see Warnings and Precautions (5.15)]
 
-The most common adverse reactions in adult patients in clinical trials (>10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
+The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
-The most common adverse reactions in the pediatric clinical trials (>10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
+The most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
 
 Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, Dementia of the Alzheimer’s type, Parkinson’s disease, and alcoholism, and who had approximately 7619 patient-years of exposure to oral aripiprazole.
 A total of 3390 patients were treated with oral aripiprazole for at least 180 days and 1933 patients treated with oral aripiprazole had at least 1 year of exposure.
@@ -31,9 +31,6 @@ Aripiprazole has been evaluated for safety in 1,686 patients (6 to 18 years) who
 A total of 959 pediatric patients were treated with oral aripiprazole for at least 180 days and 556 pediatric patients treated with oral aripiprazole had at least 1 year of exposure.
 
 The conditions and duration of treatment with aripiprazole included (in overlapping categories) double-blind, comparative and noncomparative open-label studies, inpatient and outpatient studies, fixed- and flexible-dose studies, and short- and longer-term exposure.
-
-Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.1 Clinical Trials Experience
 
@@ -66,7 +63,7 @@ Table 11: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 Less Common Adverse Reactions in Adults
 
-Table 12 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with aripiprazole (doses >2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo in the combined dataset.
+Table 12 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo in the combined dataset.
 
 Table 12: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral Aripiprazole
 
@@ -249,7 +246,7 @@ Table 16: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 | Fatigue | 8 | 0 |
 | Increased Appetite | 7 | 1 |
 
-Less Common Adverse Reactions in Pediatric Patients (6 to 18 years) with Schizophrenia, Bipolar Mania, Autistic Disorder, or Tourette's Disorder Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, up to 8 weeks in autistic disorder, and up to 10 weeks in Tourette's disorder), including only those reactions that occurred in 2% or more of pediatric patients treated with aripiprazole (doses >2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo.
+Less Common Adverse Reactions in Pediatric Patients (6 to 18 years) with Schizophrenia, Bipolar Mania, Autistic Disorder, or Tourette's Disorder Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, up to 8 weeks in autistic disorder, and up to 10 weeks in Tourette's disorder), including only those reactions that occurred in 2% or more of pediatric patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo.
 
 Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral Aripiprazole
 
@@ -430,9 +427,6 @@ Nervous System Disorders: infrequent – sleep talking
 Renal and Urinary Disorders: frequent – enuresis
 
 Skin and Subcutaneous Tissue Disorders: infrequent – hirsutism
-
-Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
