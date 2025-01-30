@@ -6,7 +6,7 @@
 
 Peak plasma concentrations of itraconazole are reached within 2 to 5 hours following oral administration.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with C maxvalues of 0.5 μg/mL, 1.1 μg/mL and 2.0 μg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
+Steady-state concentrations are generally reached within about 15 days, with C max values of 0.5 μg/mL, 1.1 μg/mL and 2.0 μg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
@@ -66,23 +66,23 @@ After a single intravenous dose, the mean terminal half-lives of itraconazole in
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 Data are not available in renally impaired patients during long-term use of itraconazole.
 Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.
-(See PRECAUTIONSand DOSAGE AND ADMINISTRATION.)
+(See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
 #### Hepatic Impairment
 
 Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100 mg dose of itraconazole as capsule.
-A statistically significant reduction in mean C max(47%) and a twofold increase in the elimination half-life (37±17 hours vs. 16±5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+A statistically significant reduction in mean C max (47%) and a twofold increase in the elimination half-life (37±17 hours vs. 16±5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
-(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactionsand DOSAGE AND ADMINISTRATION.)
+(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
 #### Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of Itraconazole Capsules, itraconazole should be discontinued.
-(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactionsand ADVERSE REACTIONS: Postmarketing Experiencefor more information.)
+(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Postmarketing Experience for more information.)
 
 ## MICROBIOLOGY
 

@@ -6,7 +6,7 @@ Itraconazole has been associated with rare cases of serious hepatotoxicity, incl
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
 The risks and benefits of itraconazole use should be reassessed.
-(See WARNINGS: Hepatic Effectsand PRECAUTIONS: Hepatotoxicityand Information for Patients.)
+(See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
 
 ## Adverse Events in the Treatment of Systemic Fungal Infections
 
@@ -94,7 +94,7 @@ The following adverse events occurred with an incidence of greater than or equal
 
 In addition, the following adverse drug reaction was reported in patients who participated in Itraconazole Capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
 
-The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ®Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
+The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ® Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
 
 Cardiac Disorders: cardiac failure, left ventricular failure, tachycardia;
 

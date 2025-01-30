@@ -10,7 +10,7 @@ Itraconazole Capsules should not be administered for the treatment of onychomyco
 Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole.
 Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.
 In addition, coadministration with colchicine, fesoterodine and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and coadministration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors.
-(See PRECAUTIONS: Drug InteractionsSection for specific examples.)
+(See PRECAUTIONS: Drug Interactions Section for specific examples.)
 This increase in drug concentrations caused by coadministration with itraconazole may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsade de pointes, a potentially fatal arrhythmia.
 Some specific examples are listed in PRECAUTIONS: Drug Interactions.
