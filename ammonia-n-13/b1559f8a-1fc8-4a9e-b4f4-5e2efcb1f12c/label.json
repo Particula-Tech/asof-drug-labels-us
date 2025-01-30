@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204510"
+  ],
+  "inn": "ammonia-n-13",
+  "labeler": "PETNET Solutions, Inc.",
+  "package_ndcs": [
+    "40028-514-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ammonia n-13",
+      "name": "Ammonia N 13"
+    }
+  ],
+  "setid": "b1559f8a-1fc8-4a9e-b4f4-5e2efcb1f12c",
+  "source": "dailymed"
+}
