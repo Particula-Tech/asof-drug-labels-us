@@ -20,7 +20,7 @@ Tachycardia and hypotension (including orthostatic hypotension) have also been r
 In controlled trials, elderly patients with dementia-related psychosis treated with some antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for HALDOL decanoate, other antipsychotics, or other patient populations.
-HALDOL decanoate should be used with caution in patients with risk factors for cerebrobascular adverse reactions.
+HALDOL decanoate should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
 ## Tardive Dyskinesia
 
@@ -143,9 +143,9 @@ The risks of using haloperidol in combination with other drugs have been evaluat
 Since QTc interval-prolongation has been observed during HALDOL treatment, caution is advised when prescribing to a patient with QT-prolongation conditions or to patients receiving medications known to prolong the QTc-interval (see WARNINGS, Cardiovascular Effects).
 Examples include (but are not limited to): Class 1A antiarrhythmics (e.g., procainamide, quinidine, disopyramide); Class 3 antiarrhythmics (e.g., amiodarone, sotalol); and other drugs such as citalopram, erythromycin, levofloxacin, methadone, and ziprasidone.
 
-Caution is advised when HALDOL decanoate is used in combination with drugs known to cause electrolyte imbalance (e.g., diuretics or corticosteroids) because hypokalemia, hypomagnesmia, and hypocalcemia are risk factors for QT prolongation.
+Caution is advised when HALDOL decanoate is used in combination with drugs known to cause electrolyte imbalance (e.g., diuretics or corticosteroids) because hypokalemia, hypomagnesemia, and hypocalcemia are risk factors for QT prolongation.
 
-As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiods, and alcohol.
+As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opioids, and alcohol.
 
 ### Pharmacokinetic Interactions
 
@@ -154,7 +154,8 @@ As with other antipsychotic agents, it should be noted that haloperidol may be c
 Haloperidol is metabolized by several routes.
 The major pathways are glucuronidation and ketone reduction.
 The cytochrome P450 enzyme system is also involved, particularly CYP3A4 and, to a lesser extent, CYP2D6.
-Inhibition of these routes of metabolism by another drug or a decrease in CYP2D6 enzyme may result in increased haloperidol concentrations The effect of CYP3A4 inhibition and of decreased CYP2D6 enzyme may be additive.
+Inhibition of these routes of metabolism by another drug or a decrease in CYP2D6 enzyme may result in increased haloperidol concentrations.
+The effect of CYP3A4 inhibition and of decreased CYP2D6 enzyme may be additive.
 
 The haloperidol plasma concentrations increased when a CYP3A4 and/or CYP2D6 inhibitor was coadministered with haloperidol.
 Examples include:
@@ -209,7 +210,7 @@ Tissue culture experiments indicate that approximately one-third of human breast
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
-Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## Usage in Pregnancy
 
