@@ -43,5 +43,11 @@ Advise patients to inform their health care providers of any changes to their cu
 
 Pregnancy
 
-Advise patients that ABILIFY ASIMTUFII may cause extrapyramidal and/or withdrawal symptoms in a neonate and to notify their healthcare provider with a known or suspected pregnancy.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ABILIFY ASIMTUFII.
+Advise patients that ABILIFY ASIMTUFII may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ABILIFY ASIMTUFII during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+ABILIFY ASIMTUFII use during pregnancy may affect milk supply.
+Advise the lactating patient to discuss any plans for breastfeeding with their healthcare provider, and to monitor the breastfed infant for dehydration and lack of appropriate weight gain [see Use in Specific Populations (8.2)].

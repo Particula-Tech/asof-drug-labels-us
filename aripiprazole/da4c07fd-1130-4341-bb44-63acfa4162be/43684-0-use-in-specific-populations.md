@@ -4,22 +4,30 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including aripiprazole, during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ABILIFY ASIMTUFII, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
 Neonates exposed to antipsychotic drugs, including ABILIFY ASIMTUFII, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms (see Clinical Considerations).
-There are insufficient data with ABILIFY ASIMTUFII use in pregnant women to inform a drug-associated risk.
+Overall available data from published epidemiologic studies of pregnant women exposed to aripiprazole have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal outcomes.
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ABILIFY ASIMTUFII, during pregnancy (see Clinical Considerations).
+Aripiprazole exposure during pregnancy may decrease milk supply in the post-partum period [see Use in Specific Populations (8.2)].
+
 In animal reproduction studies, oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 11 times, respectively, the maximum recommended human oral dose (MRHD) produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
 Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the oral MRHD produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
-Consider the benefits and risks of ABILIFY ASIMTUFII and possible risks to the fetus when prescribing ABILIFY ASIMTUFII to a pregnant woman.
-Advise pregnant women of potential fetal risk.
 
 The background risk of major birth defects and miscarriage for the indicated population are unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+There is a risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
+It is not known if this is a direct result of the illness or other comorbid factors.
 
 Fetal/Neonatal Adverse Reactions
 
@@ -62,8 +70,12 @@ There were no effects on postnatal behavioral and reproductive development.
 
 Risk Summary
 
-Aripiprazole is present in human breast milk; however, there are insufficient data to assess the amount in human milk, the effects on the breastfed infant, or the effects on milk production.
-The development and health benefits of breastfeeding should be considered along with the mother's clinical need for ABILIFY ASIMTUFII and any potential adverse effects on the breastfed infant from ABILIFY ASIMTUFII or from the underlying maternal condition.
+Aripiprazole is present in human breast milk.
+Based on published case reports and pharmacovigilance reports, aripiprazole exposure during pregnancy and/or the postpartum period may lead to clinically relevant decreases in milk supply which may be reversible with discontinuation of the drug.
+There are also reports of aripiprazole exposure during pregnancy and no maternal milk supply in the post-partum period.
+Effects on milk supply may be mediated through decreases in prolactin levels, which have been observed [see Adverse Reactions (6.1)].
+Monitor the breastfed infant for dehydration and lack of appropriate weight gain.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ABILIFY ASIMTUFII and any potential adverse effects on the breastfed infant from ABILIFY ASIMTUFII or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

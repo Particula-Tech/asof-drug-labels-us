@@ -149,7 +149,7 @@ The following is a list of additional adverse reactions that have been reported 
 - Hepatobiliary Disorders: hepatitis, jaundice
 - Immune System Disorders: hypersensitivity
 - Injury, Poisoning, and Procedural Complications: heat stroke
-- Investigations: blood bilirubin increased, blood creatinine increased, blood glucose increased, blood lactate dehydrogenase increased, blood prolactin increased, blood urea increased, glycosylated hemoglobin increased
+- Investigations: blood prolactin decreased, blood bilirubin increased, blood creatinine increased, blood glucose increased, blood lactate dehydrogenase increased, blood prolactin increased, blood urea increased, glycosylated hemoglobin increased
 - Metabolism and Nutrition Disorders: anorexia, diabetic ketoacidosis, hyponatremia, hypoglycemia, polydipsia
 - Musculoskeletal and Connective Tissue Disorders: mobility decreased, muscle rigidity, muscle tightness, muscular weakness, musculoskeletal stiffness, pain in extremity, muscle spasms
 - Nervous System Disorders: akinesia, choreoathetosis, coordination abnormal, hypokinesia, hypotonia, myoclonus, speech disorder
@@ -162,4 +162,4 @@ The following is a list of additional adverse reactions that have been reported 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of aripiprazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), blood glucose fluctuation, drug reaction with eosinophilia and systemic symptoms (DRESS), hiccups, pathological gambling.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), blood glucose fluctuation, drug reaction with eosinophilia and systemic symptoms (DRESS), hiccups, pathological gambling, and fecal incontinence.
