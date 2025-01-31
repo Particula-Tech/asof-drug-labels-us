@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Labetalol HCl in Sodium Chloride Injection, Labetalol HCl in Dextrose Injection and Labetalol Hydrochloride Injection, USP contain labetalol HCl an adrenergic receptor blocking agent that has both selective alpha1-adrenergic and nonselective beta-adrenergic receptor blocking actions in a single substance.
+Labetalol HCl in Sodium Chloride Injection, Labetalol HCl in Dextrose Injection and Labetalol Hydrochloride Injection, USP contain labetalol HCl an adrenergic receptor blocking agent that has both selective alpha1-adrenergic and nonselective beta-adrenergic receptor blocking actions.
 Labetalol hydrochloride (HCl) is a racemate chemically designated as 5-[1-Hydroxy-2-[(1-methyl-3-phenylpropyl)amino]ethyl]-salicylamide monohydrochloride and it has the following structural formula:
 
 Labetalol HCl is a white or off-white crystalline powder, soluble in water.
@@ -8,13 +8,13 @@ Labetalol HCl has the molecular formula C19H24N2O3•HCl and a molecular weight 
 It has two asymmetric centers and therefore exists as a molecular complex of two diastereoisomeric pairs.
 
 Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are two preservative-free, ready- to use formulations of labetalol.
-Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are clear, colorless to light yellow, aqueous, sterile, isotonic solution for intravenous injection.
+Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are clear, colorless to pale yellow, aqueous, sterile, isotonic solution for intravenous injection.
 
 Each milliliter of Labetalol HCl in Sodium Chloride Injection contains 1 mg of labetalol HCl, 7.2 mg sodium chloride, 9 mg of anhydrous dextrose, 0.02 mg of edetate disodium; and citric acid monohydrate and sodium hydroxide, as necessary, to bring the solution into the pH range of 3.5 to 4.5.
 
 Each milliliter of Labetalol HCl in Dextrose Injection contains 1 mg of labetalol HCl, 45 mg of anhydrous dextrose, 0.02 mg of edetate disodium; and citric acid monohydrate and sodium hydroxide, as necessary, to bring the solution into the pH range of 3.5 to 4.5.
 
-Labetalol Hydrochloride Injection in a prefilled syringe is a preservative-free, ready-to use formulation of labetalol.
-Labetalol Hydrochloride Injection is a clear, colorless to light yellow, aqueous, sterile, isotonic solution for intravenous injection.
+Labetalol Hydrochloride Injection prefilled syringe and vial are two preservative-free, ready-to use formulations of labetalol.
+Labetalol Hydrochloride Injection is a clear, colorless to pale yellow, aqueous, sterile, isotonic solution for intravenous injection.
 
-Each milliliter of the Labetalol Hydrochloride Injection, USP 2 mL prefilled syringe contains labetalol hydrochloride 5 mg; anhydrous dextrose 45 mg; edetate disodium 0.1 mg; citric acid monohydrate and sodium hydroxide as necessary to bring the pH into a range of 3.0 to 4.5.
+Each milliliter of Labetalol Hydrochloride Injection, USP, contains 5 mg of labetalol HCI, 45 mg of anhydrous dextrose, 0.1 mg of edetate disodium, and citric acid monohydrate and sodium hydroxide, as necessary, to bring the solution into the pH range of 3.0 to 4.5.

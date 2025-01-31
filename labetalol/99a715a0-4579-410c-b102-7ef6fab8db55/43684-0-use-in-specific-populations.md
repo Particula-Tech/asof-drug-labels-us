@@ -29,7 +29,8 @@ Data
 
 Human Data
 
-Data from published interventional and observational studies did not demonstrate an association between major congenital malformations and the use of labetalol in pregnancy, however, most studies reported the maternal use of intravenous labetalol occurring after 20 weeks gestation.The published literature has reported inconsistent findings of intrauterine growth retardation, preterm birth and perinatal mortality with maternal use of labetalol during pregnancy; however, these studies have methodological limitations hindering interpretation.
+Data from published interventional and observational studies did not demonstrate an association between major congenital malformations and the use of labetalol in pregnancy, however, most studies reported the maternal use of intravenous labetalol occurring after 20 weeks gestation.
+The published literature has reported inconsistent findings of intrauterine growth retardation, preterm birth and perinatal mortality with maternal use of labetalol during pregnancy; however, these studies have methodological limitations hindering interpretation.
 These studies cannot definitively establish the absence of risk during pregnancy.
 
 Animal Data

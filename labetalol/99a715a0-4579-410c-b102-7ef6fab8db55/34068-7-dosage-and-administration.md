@@ -13,24 +13,25 @@ Do not add any additional medications to the bag.
 
 Once infusion has started, discard any remaining at 24 hours.
 
-Labetalol HCl Injection in a prefilled syringe:
+Labetalol HCl Injection in a prefilled syringe or vial:
 
-Labetalol HCl Injection, USP, in a prefilled syringe is a ready-to-use solution that does not require further dilution.
-The prefilled syringe is intended for single dose.
+Labetalol HCl Injection, USP, in a prefilled syringe or vial are ready-to-use solutions that do not require further dilution.
+The prefilled syringe and vial are intended for single dose.
 Discard any unused portion.
 
 ## 2.2 Recommended Dosage
 
-Choose intravenous administration by slow continuous infusion or repeated injection.
-The usual intravenous dose is in the range of 50 to 200 mg, but the safety of doses above 300 mg has not been established.
+Labetalol HCI can be administered by slow continuous intravenous infusion or repeated intravenous injection.
 Once supine diastolic blood pressure has begun to rise, transition to oral labetalol HCl.
 
-Slow Continuous Infusion: Initiate at 2 mg/minute.
+Slow Continuous Intravenous Infusion: Initiate at 2 mg/minute.
 Monitor blood pressure and adjust the dosage and duration of infusion accordingly.
 
 Repeated Intravenous Injection: Administer 0.25 mg/kg up to 20 mg over 2 minutes.
-Administer 20 to 80 mg over 2 minutes at 10-minute intervals until a desired supine blood pressure is achieved.
+Administer 20 mg to 80 mg over 2 minutes at 10-minute intervals until a desired supine blood pressure is achieved.
 The maximum effect usually occurs within 5 minutes of each injection.
+
+The safety of doses above 300 mg has not been established.
 
 ## 2.3 Instructions for Use of Labetalol HCl Injection Prefilled Syringe
 

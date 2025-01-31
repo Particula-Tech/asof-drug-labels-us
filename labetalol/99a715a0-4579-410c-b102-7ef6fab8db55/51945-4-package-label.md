@@ -22,4 +22,36 @@ NDC 0143-9366-01 Rx only 200 mL Labetalol Hydrochloride in 5% Dextrose Injection
 
 NDC 0143-9366-01 Rx only 200 mL Labetalol Hydrochloride in 5% Dextrose Injection 200 mg per 200 mL (1 mg/mL) For Intravenous Infusion Ready to Use Sterile, nonpyrogenic Single-Dose Flexible Container
 
-# REPRESENTATIVE SERIALIZATION IMAGE
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0143-9183-01Rx only
+
+Labetalol HCI Injection, USP
+
+20 mg per 4 mL
+
+(5 mg/mL)
+
+For Intravenous Use ONLY
+
+Preservative-Free
+
+4 mL Single-Dose Vial
+
+Discard unused portion
+
+NDC 0143-9183-10 Rx only
+
+Labetalol HCI Injection, USP
+
+20 mg per 4 mL
+
+(5 mg/mL)
+
+For Intravenous Use ONLY
+
+Preservative-Free
+
+10 X 4 mL Single-Dose Vials
+
+Discard unused portion

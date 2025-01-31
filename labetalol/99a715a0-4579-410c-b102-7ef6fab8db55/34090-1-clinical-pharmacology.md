@@ -14,9 +14,9 @@ Some patients required cumulative doses of up to 3.25 mg/kg.
 The maximal effect of each dose level occurred within 5 minutes.
 Following discontinuation of intravenous treatment with labetalol HCl, the blood pressure rose gradually and progressively, approaching pretreatment baseline values within an average of 16 to 18 hours in the majority of patients.
 
-Similar results were obtained in the treatment of patients with severe hypertension who required urgent blood pressure reduction with an initial dose of 20 mg (which corresponds to 0.25 mg/kg for an 80 kg patient) followed by additional doses of either 40 or 80 mg at 10 minute intervals to achieve the desired effect, or up to a cumulative dose of 300 mg.
+Similar results were obtained in the treatment of patients with severe hypertension who required urgent blood pressure reduction with an initial dose of 20 mg (which corresponds to 0.25 mg/kg for an 80 kg patient) followed by additional doses of either 40 mg or 80 mg at 10 minute intervals to achieve the desired effect, or up to a cumulative dose of 300 mg.
 
-Labetalol HCl administered as a continuous intravenous infusion, with a mean dose of 136 mg (27 to 300 mg) over a period of 2 to 3 hours (mean of 2 hours and 39 minutes), lowered the blood pressure by an average of 60/35 mmHg.
+Labetalol HCl administered as a continuous intravenous infusion, with a mean dose of 136 mg (27 mg to 300 mg) over a period of 2 to 3 hours (mean of 2 hours and 39 minutes), lowered the blood pressure by an average of 60/35 mmHg.
 
 ## 12.3 Pharmacokinetics
 

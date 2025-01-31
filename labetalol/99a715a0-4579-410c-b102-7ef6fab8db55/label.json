@@ -5,6 +5,8 @@
   "inn": "labetalol",
   "labeler": "Hikma Pharmaceuticals USA Inc.",
   "package_ndcs": [
+    "0143-9183-01",
+    "0143-9183-10",
     "0143-9363-01",
     "0143-9363-10",
     "0143-9364-01",
@@ -24,6 +26,11 @@
       "form": "INJECTION",
       "generic": "labetalol hydrochloride",
       "name": "Labetalol HCl in Sodium Chloride"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol Hydrochloride"
     }
   ],
   "setid": "99a715a0-4579-410c-b102-7ef6fab8db55",
