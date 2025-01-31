@@ -9,7 +9,7 @@ Encourage patients to register by contacting 1-877-311-8972.
 
 Risk Summary
 
-Prolonged clinical experience over decades of use and available data from published epidemiologic and clinical studies with SOVUNA use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal, or fetal outcomes (see Data).
+Prolonged clinical experience over decades of use and available data from published epidemiologic and clinical studies with hydroxychloroquine use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal, or fetal outcomes (see Data).
 There are risks to the mother and fetus associated with untreated or increased disease activity from malaria, rheumatoid arthritis, and systemic lupus erythematosus in pregnancy (see Clinical Considerations).
 Animal reproduction studies were not conducted with hydroxychloroquine.
 

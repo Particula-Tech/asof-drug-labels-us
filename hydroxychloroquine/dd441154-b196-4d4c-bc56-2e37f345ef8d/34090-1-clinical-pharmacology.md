@@ -16,11 +16,11 @@ The exposure-response relationship and time course of pharmacodynamic response f
 
 ## 12.3 Pharmacokinetics
 
-Following oral administration, the whole blood concentration of hydroxychloroquine at steady state is dose proportional over a dose range from 200 mg daily to 400 mg daily of SOVUNA in rheumatoid arthritis and lupus patients.
+Following oral administration, the whole blood concentration of hydroxychloroquine at steady state is dose proportional over a dose range from 200 mg daily to 400 mg daily of hydroxychloroquine in rheumatoid arthritis and lupus patients.
 
 Absorption
 
-Following a single 200 mg oral dose of SOVUNA to healthy male volunteers, whole blood hydroxychloroquine Cmax was 129.6 ng/mL (plasma Cmax was 50.3 ng/mL) with Tmax of 3.3 hours (plasma Tmax 3.7 hours).
+Following a single 200 mg oral dose of hydroxychloroquine to healthy male volunteers, whole blood hydroxychloroquine Cmax was 129.6 ng/mL (plasma Cmax was 50.3 ng/mL) with Tmax of 3.3 hours (plasma Tmax 3.7 hours).
 Peak blood concentrations of metabolites were observed at the same time as peak levels of hydroxychloroquine.
 Mean absolute oral bioavailability is 79% (SD: 12%) in fasting conditions.
 
@@ -31,7 +31,7 @@ In patients with rheumatoid arthritis, there was large variability as to the fra
 
 Distribution
 
-SOVUNA is extensively distributed to tissues and has a large volume of distribution.
+Hydroxychloroquine is extensively distributed to tissues and has a large volume of distribution.
 Approximately 50% of hydroxychloroquine is bound to plasma proteins.
 
 Metabolism
@@ -41,7 +41,7 @@ In vitro, hydroxychloroquine is metabolized mainly by CYP2C8, CYP3A4 and CYP2D6 
 
 Elimination / Excretion
 
-Renal clearance in patients with rheumatoid arthritis treated with SOVUNA for at least 6 months was similar to that in single dose studies in healthy volunteers, suggesting that no change in clearance occurred with chronic dosing.
+Renal clearance in patients with rheumatoid arthritis treated with hydroxychloroquine for at least 6 months was similar to that in single dose studies in healthy volunteers, suggesting that no change in clearance occurred with chronic dosing.
 Renal clearance of unchanged hydroxychloroquine was approximately 16% to 30% of the dose after oral and IV administration.
 Results following a single oral dose of a 200 mg tablet demonstrated a half-life of hydroxychloroquine about 40 days in whole blood.
 Following chronic oral administration of hydroxychloroquine, the absorption half-life of hydroxychloroquine was approximately 3 to 4 hours and the terminal half-life ranged from 40 to 50 days in whole blood.
