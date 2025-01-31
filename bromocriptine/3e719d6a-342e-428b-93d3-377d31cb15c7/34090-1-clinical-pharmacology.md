@@ -27,7 +27,7 @@ When administered orally, approximately 65-95% of the CYCLOSET dose of bromocrip
 Due to extensive first-pass metabolism, approximately 7% of the dose reaches the systemic circulation.
 Under fasting conditions the time to maximum plasma concentration is 53 minutes.
 In contrast, following a standard high-fat meal, the time to maximum plasma concentration is increased to approximately 90-120 minutes.
-Also, the relative bioavailability of CYCLOSET is increased under fed as compared to fasting conditions by an average of approximately 55-65% (increase in AUC inf).
+Also, the relative bioavailability of CYCLOSET is increased under fed as compared to fasting conditions by an average of approximately 55-65% (increase in AUCinf).
 
 Distribution
 
@@ -79,11 +79,11 @@ Drug Interactions
 
 In Vitro Assessment
 
-Although bromocriptine is a competitive inhibitor of CYP3A4, in vivo drug interaction potential is low because the inhibitory potency for CYP3A4 is approximately 10,000-fold higher than the maximum plasma levels reached in vivo (C maxof approximately 80-125 pg/mL) following a 4.8 mg oral dose of CYCLOSET.
+Although bromocriptine is a competitive inhibitor of CYP3A4, in vivo drug interaction potential is low because the inhibitory potency for CYP3A4 is approximately 10,000-fold higher than the maximum plasma levels reached in vivo (Cmaxof approximately 80-125 pg/mL) following a 4.8 mg oral dose of CYCLOSET.
 
 Agents inducing CYP3A4 activity such as rifampin or dexamethasone would be expected to decrease CYCLOSET plasma levels.
 There was no significant in vitro inhibition of other major CYP450 enzymes (1A2, 2C9/19, 2D6) by bromocriptine.
 
 In Vivo Assessment
 
-The concomitant use of macrolide antibiotics such as erythromycin (250 mg four times a day), a known inhibitor of CYP3A4, along with bromocriptine (5 mg) was shown to increase the AUC (2.8-fold) and C max(4.6-fold) of bromocriptine [see Dosage and Administration (2.3), Drug Interactions (7)].
+The concomitant use of macrolide antibiotics such as erythromycin (250 mg four times a day), a known inhibitor of CYP3A4, along with bromocriptine (5 mg) was shown to increase the AUC (2.8-fold) and Cmax(4.6-fold) of bromocriptine[seeDosage and Administration (2.3),Drug Interactions (7)].

@@ -2,7 +2,7 @@
 
 NDC 68012-258-21
 
-CYCLOSET ® bromocriptine mesylate tablets
+CYCLOSET® bromocriptine mesylate tablets
 
 0.8 mg
 
