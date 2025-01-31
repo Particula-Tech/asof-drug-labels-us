@@ -44,7 +44,6 @@ Rx only
 
 1. A087386 (62000000087386) Rev.
    4/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -92,7 +91,6 @@ Rx only
 
 1. A086833 (62000000086833) Rev.
    4/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -140,7 +138,6 @@ Rx only
 
 1. A0868332 (62000000086832) Rev.
    4/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -185,7 +182,6 @@ Made in India
 ©2023 GSK group of companies or its licensor
 
 1. 546716-02 Rev.6/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -235,7 +231,6 @@ Made in India
 
 1. 546714-02 Rev.
    6/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -285,7 +280,6 @@ Made in India
 
 1. 546718-02 Rev.
    6/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -334,9 +328,7 @@ Rx only
 
 - Rev.
   2/23
-
-1. A086205 (62000000086205)
-2. 
+- A086205 (62000000086205)
 
 PRINCIPAL DISPLAY PANEL
 
@@ -385,9 +377,7 @@ Rx only
 
 - Rev.
   2/23
-
-1. A086204 (62000000086204)
-2. 
+- A086204 (62000000086204)
 
 PRINCIPAL DISPLAY PANEL
 
@@ -474,7 +464,6 @@ Made in India
 
 1. 547954-02 Rev.
    6/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -512,7 +501,6 @@ Made in India
 
 1. 547955-02 Rev.
    6/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -550,7 +538,6 @@ Made in India
 
 1. 547956-02 Rev.
    6/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -588,7 +575,6 @@ Made in India
 
 1. 547957-02 Rev.
    6/23
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
