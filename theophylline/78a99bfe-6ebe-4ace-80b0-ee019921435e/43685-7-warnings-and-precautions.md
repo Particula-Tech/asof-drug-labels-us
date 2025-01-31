@@ -129,7 +129,7 @@ The drugs listed in Table III have either been documented not to interact with t
 The listing of drugs in Tables II and III are current as of February 9, 1995.
 New interactions are continuously being reported for theophylline, especially with new chemical entities.
 The clinician should not assume that a drug does not interact with theophylline if it is not listed in Table II.
-Before addition of a newly available drug in a patient receiving theophylline, the package insert of the new drug and/or the medical literature should be consulted to determine if an interaction between the new drug and theophylline has been reported
+Before addition of a newly available drug in a patient receiving theophylline, the package insert of the new drug and/or the medical literature should be consulted to determine if an interaction between the new drug and theophylline has been reported.
 
 ### Table II. Clinically significant drug interactions with theophylline*.
 
@@ -159,7 +159,7 @@ Before addition of a newly available drug in a patient receiving theophylline, t
 | Lorazepam | Similar to diazepam. | Similar to diazepam. |
 | Methotrexate (MTX) | Decreases theophylline clearance. | 20% increase after low dose MTX, higher dose MTX may have a greater effect. |
 | Mexiletine | Similar to disulfiram. | 80% increase |
-| Midazolam | Similar to diazepam. | Similar to diazepam |
+| Midazolam | Similar to diazepam. | Similar to diazepam. |
 | Moricizine | Increases theophylline clearance. | 25% decrease |
 | Pancuronium | Theophylline may antagonize non-depolarizing neuromuscular blocking effects; possibly due to phosphodiesterase inhibition. | Larger dose of pancuronium may be required to achieve neuromuscular blockade. |
 | Pentoxifylline | Decreases theophylline clearance. | 30% increase |
@@ -170,7 +170,7 @@ Before addition of a newly available drug in a patient receiving theophylline, t
 | Rifampin | Increases theophylline clearance by increasing cytochrome P450 1A2 and 3A3 activity. | 20 to 40% decrease |
 | Sulfinpyrazone | Increases theophylline clearance by increasing demethylation and hydroxylation. Decreases renal clearance of theophylline. | 20% decrease |
 | Tacrine | Similar to cimetidine, also increases renal clearance of theophylline. | 90% increase |
-| Thiabendazole | Decreases theophylline clearance. | 60% increase |
+| Thiabendazole | Decreases theophylline clearance. | 190% increase |
 | Ticlopidine | Decreases theophylline clearance. | 60% increase |
 | Troleandomycin | Similar to erythromycin. | 33 to 100% increase depending on troleandomycin dose. |
 | Verapamil | Similar to disulfiram. | 20% increase |

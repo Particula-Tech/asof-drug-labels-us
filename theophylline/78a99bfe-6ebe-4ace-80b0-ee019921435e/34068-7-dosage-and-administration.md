@@ -27,7 +27,7 @@ In general, these recommendations should serve as the upper limit for dosage adj
 
 ### Table V. Dosing initiation and titration (as anhydrous theophylline).*
 
-Infants < 1 year old.
+A. Infants < 1 year old.
 
 1. Initial Dosage.
    1. Premature Neonates:

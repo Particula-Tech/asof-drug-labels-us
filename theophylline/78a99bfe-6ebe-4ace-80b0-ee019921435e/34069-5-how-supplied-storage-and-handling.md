@@ -10,9 +10,11 @@ Store at 20˚ to 25˚C (68˚ to 77˚F); excursions permitted from 15˚ to 30˚C 
 
 Dispense in tight (USP), child resistant containers.
 
-Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852 www.trispharma.com
+Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
+
+For: Cranbury Pharmaceuticals, LLC Monmouth Junction, NJ 08852
 
 LB8063 Rev.
-02
+03
 
-01/2020
+08/2024
