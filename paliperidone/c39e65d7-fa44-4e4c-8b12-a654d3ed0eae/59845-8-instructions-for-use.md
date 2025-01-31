@@ -8,12 +8,12 @@ INVEGA TRINZA ® paliperidone palmitate extended-release injectable suspension
 
 For intramuscular injection only.
 
-Do notadminister by any other route.
+Do not administer by any other route.
 
 Important
 
 INVEGA TRINZA should be administered by a healthcare professional as a single injection.
-DO NOTdivide dose into multiple injections.
+DO NOT divide dose into multiple injections.
 
 INVEGA TRINZA is intended for intramuscular use only.
 Inject slowly, deep into the muscle taking care to avoid injection into a blood vessel.
@@ -29,7 +29,7 @@ Preparation
 Peel off tab label from the syringe and place in patient record.
 
 INVEGA TRINZA requires longer and more vigorous shaking than INVEGA SUSTENNA (1-month paliperidone palmitate extended-release injectable suspension).
-Shake the syringe vigorously, with the syringe tip pointing up, for at least 15 seconds within 5 minutes prior to administration(see Step 2).
+Shake the syringe vigorously, with the syringe tip pointing up, for at least 15 seconds within 5 minutes prior to administration (see Step 2).
 
 Thin Wall Safety Needle Selection
 
@@ -81,7 +81,7 @@ Remove needle sheath
 
 Pull the needle sheath away from the needle in a straight motion.
 
-Do nottwist the sheath, as this may loosen the needle from the syringe.
+Do not twist the sheath, as this may loosen the needle from the syringe.
 
 Remove air bubbles
 
@@ -93,7 +93,7 @@ Remove air by pressing the plunger rod upward carefully until a drop of liquid c
 
 Inject dose
 
-Slowly inject the entire contents of the syringeintramuscularly, deep into the selected deltoid or gluteal muscle.
+Slowly inject the entire contents of the syringe intramuscularly, deep into the selected deltoid or gluteal muscle.
 
 Do not administer by any other route.
 

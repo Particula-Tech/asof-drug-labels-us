@@ -190,7 +190,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 In a long-term maintenance trial of INVEGA TRINZA, elevations of prolactin to above the reference range (>13.13 ng/mL in males and >26.72 ng/mL in females) relative to open-label baseline at any time during the double-blind phase were noted in a higher percentage of males in the INVEGA TRINZA group than in the placebo group (46% vs. 25%) and in a higher percentage of females in the INVEGA TRINZA group than in the placebo group (32% vs. 15%).
 During the double-blind phase, 1 female (2.4%) in the INVEGA TRINZA group experienced an adverse reaction of amenorrhea, while no potentially prolactin-related adverse reactions were noted among females in the placebo group.

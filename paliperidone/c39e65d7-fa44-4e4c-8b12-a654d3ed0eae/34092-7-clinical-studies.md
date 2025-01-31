@@ -8,7 +8,7 @@ Specifically:
 
 - For patients entering the study who were already being treated with the 1-month paliperidone palmitate extended-release injectable suspension, their dosing remained unchanged.
   Patients who were currently receiving the 39 mg dose of 1-month paliperidone palmitate were not eligible to enroll in the study.
-- Patients entering the study who were being treated with 25 mg, 37.5 mg, or 50 mg of RISPERDAL CONSTA ®(risperidone long-acting injection) were switched to 78 mg, 117 mg, or 156 mg, respectively, of the 1-month paliperidone palmitate administered in the deltoid muscle.
+- Patients entering the study who were being treated with 25 mg, 37.5 mg, or 50 mg of RISPERDAL CONSTA (risperidone long-acting injection) were switched to 78 mg, 117 mg, or 156 mg, respectively, of the 1-month paliperidone palmitate administered in the deltoid muscle.
 - Patients entering the study who were being treated with any other LAI product were switched to 234 mg of the 1-month paliperidone palmitate administered in the deltoid muscle.
 
 This study consisted of the following three treatment periods:

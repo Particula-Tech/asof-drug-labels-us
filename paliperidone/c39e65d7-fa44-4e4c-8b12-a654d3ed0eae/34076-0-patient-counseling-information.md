@@ -67,4 +67,4 @@ The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 INVEGA TRINZA (paliperidone palmitate) Extended-Release Injectable Suspension
 
-INVEGA SUSTENNA ®, RISPERDAL ®, and RISPERDAL CONSTA ®are trademarks of Janssen Pharmaceuticals, Inc.
+INVEGA SUSTENNA, RISPERDAL, and RISPERDAL CONSTA are trademarks of Janssen Pharmaceuticals, Inc.
