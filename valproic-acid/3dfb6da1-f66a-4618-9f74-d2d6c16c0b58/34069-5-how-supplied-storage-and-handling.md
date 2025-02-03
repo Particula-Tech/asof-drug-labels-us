@@ -1,14 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Valproate Sodium Injection is a clear, colorless solution supplied as:
+Valproate Sodium Injection, equivalent to 100 mg of valproic acid per mL, is a clear, colorless solution supplied as:
 
-| Product Code | Unit of Sale | Strength | Each |
+| Manufacturer Product Number | Unit of Sale | Strength | Each Unit |
 | --- | --- | --- | --- |
-| PRX439405 | NDC 63323-494-16 Unit of 10 | 500 mg per 5 mL (100 mg per mL) | NDC 63323-494-41 5 mL Single-dose Vial |
+| PRX439405 | NDC 63323-494-16 Available in trays of 10 vials. | 500 mg per 5 mL (100 mg per mL) | NDC 63323-494-41 5 mL Single-dose Vial |
 
-Available in packages of 10.
-
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 
 Preservative Free.
 Unused portion of container should be discarded.

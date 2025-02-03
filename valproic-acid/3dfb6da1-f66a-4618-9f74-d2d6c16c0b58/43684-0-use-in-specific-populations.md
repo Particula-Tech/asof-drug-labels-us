@@ -20,7 +20,7 @@ This risk is dose-dependent; however, a threshold dose below which no risk exist
 In utero exposure to valproate may also result in hearing impairment or hearing loss.
 Valproate polytherapy with other AEDs has been associated with an increased frequency of congenital malformations compared with AED monotherapy.
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
-The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other antiseizure monotherapies [see Warnings and Precautions (5.2) and Data (Human)].
+The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.2) and Data (Human)].
 
 Epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores and a higher risk of neurodevelopmental disorders compared to children exposed to either another AED in utero or to no AEDs in utero [see Warnings and Precautions (5.3) and Data (Human)].
 
@@ -60,7 +60,7 @@ Fatal cases of hepatic failure in infants exposed to valproate in utero have als
 
 Hypoglycemia has been reported in neonates whose mothers have taken valproate during pregnancy.
 
-Data
+### Data
 
 Human
 
@@ -79,7 +79,7 @@ Published epidemiological studies have indicated that children exposed to valpro
 The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
 94-101]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105–110]), carbamazepine (105 [95% C.I.
-102– 108]) and phenytoin (108 [95% C.I.
+102–108]) and phenytoin (108 [95% C.I.
 104–112]).
 It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
 Because the women in this study were exposed to AEDs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed [see Warnings and Precautions (5.3)].
@@ -95,9 +95,9 @@ Other
 
 There are published case reports of fatal hepatic failure in offspring of women who used valproate during pregnancy.
 
-Animal
+### Animal
 
-In developmental toxicity studies conducted in mice, rats, rabbits, and monkeys, increased rates of fetal structural abnormalities, intrauterine growth retardation, and embryo-fetal death occurred following administration of valproate to pregnant animals during organogenesis at clinically relevant doses (calculated on a body surface area [mg/m2] basis).
+In developmental toxicity studies conducted in mice, rats, rabbits, and monkeys, increased rates of fetal structural abnormalities, intrauterine growth retardation, and embryo- fetal death occurred following administration of valproate to pregnant animals during organogenesis at clinically relevant doses (calculated on a body surface area [mg/m2] basis).
 Valproate induced malformations of multiple organ systems, including skeletal, cardiac, and urogenital defects.
 In mice, in addition to other malformations, fetal neural tube defects have been reported following valproate administration during critical periods of organogenesis, and the teratogenic response correlated with peak maternal drug levels.
 Behavioral abnormalities (including cognitive, locomotor, and social interaction deficits) and brain histopathological changes have also been reported in mice and rat offspring exposed prenatally to clinically relevant doses of valproate.
@@ -185,7 +185,7 @@ No patients above the age of 65 years were enrolled in double-blind prospective 
 In a case review study of 583 patients, 72 patients (12%) were greater than 65 years of age.
 A higher percentage of patients above 65 years of age reported accidental injury, infection, pain, somnolence, and tremor.
 Discontinuation of valproate was occasionally associated with the latter two events.
-It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
+It is not clear whether these events indicate additional risk or whether they result from pre- existing medical illness and concomitant medication use among these patients.
 
 A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.13)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.2)].

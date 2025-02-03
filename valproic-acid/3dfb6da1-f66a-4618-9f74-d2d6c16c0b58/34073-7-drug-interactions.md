@@ -43,7 +43,7 @@ A decrease in valproate dosage may be necessary when felbamate therapy is initia
 Rifampin
 
 A study involving the administration of a single dose of valproate (7 mg/kg) 36 hours after 5 nights of daily dosing with rifampin (600 mg) revealed a 40% increase in the oral clearance of valproate.
-Valproate dosage adjustment may be necessary when it is coadministered with rifampin.
+Valproate dosage adjustment may be necessary when it is co-administered with rifampin.
 
 Drugs for which either no interaction or a likely clinically unimportant interaction has been observed
 
@@ -165,7 +165,7 @@ Valproate had no effect on any of the pharmacokinetic parameters of acetaminophe
 
 Clozapine
 
-In psychotic patients (n = 11), no interaction was observed when valproate was coadministered with clozapine.
+In psychotic patients (n = 11), no interaction was observed when valproate was co-administered with clozapine.
 
 Lithium
 

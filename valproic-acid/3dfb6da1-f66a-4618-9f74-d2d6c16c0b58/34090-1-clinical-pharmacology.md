@@ -36,7 +36,7 @@ The AUC and Cmax resulting from administration of IV valproate 500 mg as a singl
 
 Patients maintained on valproic acid doses of 750 mg to 4,250 mg daily (given in divided doses every 6 hours) as oral divalproex sodium alone (n = 24) or with another stabilized antiepileptic drug [carbamazepine (n = 15), phenytoin (n = 11), or phenobarbital (n = 1)], showed comparable plasma levels for valproic acid when switching from oral divalproex sodium to IV valproate (1-hour infusion).
 
-Eleven healthy volunteers were given single infusions of 1,000 mg IV valproate over 5, 10, 30, and 60 minutes in a 4‑period crossover study.
+Eleven healthy volunteers were given single infusions of 1,000 mg IV valproate over 5, 10, 30, and 60 minutes in a 4-period crossover study.
 Total valproate concentrations were measured; unbound concentrations were not measured.
 After the 5 minute infusions (mean rate of 2.8 mg/kg/min), mean Cmax was 145 ± 32 mcg/mL, while after the 60 minute infusions, mean Cmax was 115 ± 8 mcg/mL.
 Ninety to 120 minutes after infusion initiation, total valproate concentrations were similar for all 4 rates of infusion.
@@ -92,7 +92,6 @@ Over the age of 10 years, children have pharmacokinetic parameters that approxim
 Elderly
 
 The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years).
-
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
 Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.2)].
 

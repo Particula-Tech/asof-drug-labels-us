@@ -2,15 +2,15 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Hepatic failure [see Warnings and Precautions (5.1)]
-- Birth defects [see Warnings and Precautions (5.2)]
-- Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
-- Pancreatitis [see Warnings and Precautions (5.5)]
-- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.8, 5.9)]
-- Bleeding and other hematopoietic disorders [see Warnings and Precautions (5.7)]
-- Hypothermia [see Warnings and Precautions (5.10)]
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see Warnings and Precautions (5.11)]
-- Somnolence in the elderly [see Warnings and Precautions (5.13)]
+- •Hepatic failure [see Warnings and Precautions (5.1)]
+- •Birth defects [see Warnings and Precautions (5.2)]
+- •Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
+- •Pancreatitis [see Warnings and Precautions (5.5)]
+- •Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.8, 5.9)]
+- •Bleeding and other hematopoietic disorders [see Warnings and Precautions (5.7)]
+- •Hypothermia [see Warnings and Precautions (5.10)]
+- •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see Warnings and Precautions (5.11)]
+- •Somnolence in the elderly [see Warnings and Precautions (5.13)]
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -80,7 +80,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 2.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with Divalproex Sodium During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
-| Body System/Reaction | Divalproex Sodium (n = 77) % | Placebo (n = 70) % |
+| Body System/Reaction | Divalproex Sodium % (n = 77) | Placebo % (n = 70) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
@@ -120,7 +120,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 Table 3.
 Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
 
-| Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
+| Body System/Reaction | High Dose % (n = 131) | Low Dose % (n = 134) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia Digestive System | 21 | 10 |
@@ -149,7 +149,8 @@ Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the C
 | Special Senses |  |  |
 | Amblyopia/Blurred Vision | 8 | 4 |
 | Tinnitus | 7 | 1 |
-| 1Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |  |  |
+
+1 Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group.
 
 The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
 

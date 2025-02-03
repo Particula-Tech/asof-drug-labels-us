@@ -30,7 +30,7 @@ Most of the reported cases of liver failure in patients with these syndromes hav
 
 POLG-related disorders should be suspected in patients with a family history or suggestive symptoms of a POLG-related disorder, including but not limited to unexplained encephalopathy, refractory epilepsy (focal, myoclonic), status epilepticus at presentation, developmental delays, psychomotor regression, axonal sensorimotor neuropathy, myopathy cerebellar ataxia, ophthalmoplegia, or complicated migraine with occipital aura.
 POLG mutation testing should be performed in accordance with current clinical practice for the diagnostic evaluation of such disorders.
-The A467T and W748S mutations are present in approximately 2/3 of patients with autosomal recessive POLG-related disorders.
+The A467T and W748S mutations are present in approximately 2/3 of patients with autosomal recessive POLG- related disorders.
 
 In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, valproate should only be used after other anticonvulsants have failed.
 This older group of patients should be closely monitored during treatment with valproate for the development of acute liver injury with regular clinical assessments and serum liver test monitoring.
@@ -98,8 +98,7 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 ## 5.7 Bleeding and Other Hematopoietic Disorders
 
 Valproate is associated with dose-related thrombocytopenia.
-In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
-
+In a clinical trial of divalproex sodium as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
 In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
@@ -168,12 +167,12 @@ Dose reductions or discontinuation of valproate should be considered in patients
 
 ## 5.14 Post-traumatic Seizures
 
-A study was conducted to evaluate the effect of IV valproate in the prevention of posttraumatic seizures in patients with acute head injuries.
+A study was conducted to evaluate the effect of IV valproate in the prevention of post-traumatic seizures in patients with acute head injuries.
 Patients were randomly assigned to receive either IV valproate given for one week (followed by oral valproate products for either one or six months per random treatment assignment) or IV phenytoin given for one week (followed by placebo).
 In this study, the incidence of death was found to be higher in the two groups assigned to valproate treatment compared to the rate in those assigned to the IV phenytoin treatment group (13% vs. 8.5%, respectively).
 Many of these patients were critically ill with multiple and/or severe injuries, and evaluation of the causes of death did not suggest any specific drug-related causation.
 Further, in the absence of a concurrent placebo control during the initial week of intravenous therapy, it is impossible to determine if the mortality rate in the patients treated with valproate was greater or less than that expected in a similar group not treated with valproate, or whether the rate seen in the IV phenytoin treated patients was lower than would be expected.
-Nonetheless, until further information is available, it seems prudent not to use valproate sodium in patients with acute head trauma for the prophylaxis of posttraumatic seizures.
+Nonetheless, until further information is available, it seems prudent not to use valproate sodium in patients with acute head trauma for the prophylaxis of post-traumatic seizures.
 
 ## 5.15 Monitoring: Drug Plasma Concentration
 

@@ -111,9 +111,9 @@ Compatibility and Stability
 
 Valproate sodium injection was found to be physically compatible and chemically stable in the following parenteral solutions for at least 24 hours when stored in glass or polyvinyl chloride (PVC) bags at controlled room temperature 20° to 25°C (68° to 77°F).
 
-- dextrose (5%) injection, USP
-- sodium chloride (0.9%) injection, USP
-- lactated ringer's injection, USP
+- •dextrose (5%) injection, USP
+- •sodium chloride (0.9%) injection, USP
+- •lactated ringer's injection, USP
 
 ## 2.3 Dosing in Patients Taking Rufinamide
 
