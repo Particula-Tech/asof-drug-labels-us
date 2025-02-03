@@ -54,7 +54,7 @@ There was wide inter-patient variability in the sublingual absorption of bupreno
 Both Cmax and AUC of buprenorphine increased in a linear fashion with the increase in dose (in the range of 4 mg to 16 mg), although the increase was not directly dose-proportional.
 
 Table 4.
-Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine after the sublingual administration of Buprenorphine Sublingual Tablets
+Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine after the Sublingual Administration of Buprenorphine Sublingual Tablets
 
 | Dose | Analyte | Mean SD | Cmax (ng/mL) | Tmax (h) | AUCinf (h•ng/mL) | t1/2 (h) |
 | --- | --- | --- | --- | --- | --- | --- |

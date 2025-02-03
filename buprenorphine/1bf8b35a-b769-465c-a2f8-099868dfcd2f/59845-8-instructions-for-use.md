@@ -1,6 +1,4 @@
-# Instructions for Use
-
-INSTRUCTIONS FOR USE Buprenorphine (bue” pre nor’ feen) Sublingual Tablets CIII Rx Only
+INSTRUCTIONS FOR USE Buprenorphine (bue” pre nor’ feen) Sublingual Tablets CIII Rx only
 
 This “Instructions for Use” contains information on how to correctly take Buprenorphine Sublingual Tablets.
 
@@ -45,6 +43,6 @@ If you need help with disposal of Buprenorphine Sublingual Tablets, call Hikma P
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000231/13 Revised September 2023
+C50000231/13 Revised January 2025
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.

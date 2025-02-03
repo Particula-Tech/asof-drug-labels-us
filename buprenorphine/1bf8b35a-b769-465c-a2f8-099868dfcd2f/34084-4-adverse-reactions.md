@@ -29,7 +29,7 @@ Adverse Events ≥5% by Body System and Treatment Group in a 4-week Study
 
 |  | N (%) | N (%) |
 | --- | --- | --- |
-| Body System / Adverse Event (COSTART Terminology) | Buprenorphine Sublingual Tablets 16mg/day N=103 | Placebo N=107 |
+| Body System / Adverse Event (COSTART Terminology) | Buprenorphine Sublingual Tablets 16 mg/day N=103 | Placebo N=107 |
 | Body as a Whole |  |  |
 | Asthenia | 5 (4.9%) | 7 (6.5%) |
 | Chills | 8 (7.8%) | 8 (7.5%) |
@@ -59,7 +59,7 @@ Table 2 shows adverse events reported by at least 5% of subjects in any dose gro
 Table 2.
 Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
 
-| Body System /Adverse Event (COSTART Terminology) |  |  | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |
+| Body System / Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Very Low (N=184) | Low (N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |

@@ -26,6 +26,7 @@ Instruct patients to read the Medication Guide each time Buprenorphine Sublingua
 - Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
 - Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
   Repeat administration may be necessary, particularly for overdose involving Buprenorphine Sublingual Tablets, because naloxone is often not effective at the doses available for patient access [Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
+- 
 - If naloxone is prescribed, also advise patients and caregivers:
 - oHow to treat with naloxone in the event of an opioid overdose
 - oTo tell family and friends about their naloxone and to keep it in a place where family and friends can easily access it in an emergency
@@ -71,4 +72,4 @@ Berkeley Heights, NJ 07922
 
 C50000231/13
 
-Revised September 2023
+Revised January 2025
