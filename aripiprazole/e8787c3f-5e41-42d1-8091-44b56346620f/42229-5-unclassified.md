@@ -6,4 +6,4 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 2
 
 ABILIFY MYCITE® and MYCITE® are registered trademarks of Otsuka Pharmaceutical Co., Ltd.
 
-©2023, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
+©2025, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

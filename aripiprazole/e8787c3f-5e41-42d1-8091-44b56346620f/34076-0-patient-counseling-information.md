@@ -76,5 +76,11 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 Pregnancy
 
-Advise patients that ABILIFY MYCITE may cause extrapyramidal and/or withdrawal symptoms in a neonate and to notify their healthcare provider with a known or suspected pregnancy.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ABILIFY MYCITE.
+Advise patients that ABILIFY MYCITE may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder).
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ABILIFY MYCITE during pregnancy [see Use In Specific Populations (8.1)].
+
+Lactation
+
+ABILIFY MYCITE use during pregnancy may affect milk supply.
+Advise the lactating patient to discuss any plans for breastfeeding with their healthcare provider, and to monitor the breastfed infant for dehydration and lack of appropriate weight gain [see Use in Specific Populations (8.2)].
