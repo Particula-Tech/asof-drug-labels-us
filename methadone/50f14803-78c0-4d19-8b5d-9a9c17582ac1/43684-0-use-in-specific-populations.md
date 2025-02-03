@@ -134,15 +134,15 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of Methadone Hydrochloride Tablets slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.10)].
 
 Methadone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 Methadone pharmacokinetics have not been extensively evaluated in patients with hepatic insufficiency.
 Methadone is metabolized by hepatic pathways; therefore, patients with liver impairment may be at risk of increased systemic exposure to methadone after multiple dosing.
-Start these patients on lower doses and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
+Start these patients on lower doses and titrate slowly while regularly evaluating for signs of respiratory and central nervous system depression.
 
 ## 8.7 Renal Impairment
 
 Methadone pharmacokinetics have not been extensively evaluated in patients with renal insufficiency.
-Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
+Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while regularly evaluating for signs of respiratory and central nervous system depression.

@@ -4,7 +4,7 @@ Because the use of Methadone Hydrochloride Tablets exposes patients and other us
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of Methadone Hydrochloride Tablets, especially during initiation or following a dose increase.
+Serious, life-threatening, or fatal respiratory depression may occur with use of Methadone Hydrochloride Tablets, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of Methadone Hydrochloride Tablets are essential [see Warnings and Precautions (5.2)].
 
 Accidental Ingestion

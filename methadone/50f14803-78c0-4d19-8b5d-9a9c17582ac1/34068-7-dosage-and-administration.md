@@ -62,7 +62,8 @@ Initiate the dosing regimen for each patient individually, taking into account t
 Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Methadone Hydrochloride Tablets.
 Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 
-Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic: Initiate treatment with Methadone Hydrochloride Tablets with 2.5 mg orally every 8 to 12 hours.
+Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic: Initiate treatment with Methadone Hydrochloride Tablets with 2.5 mg orally every 8 to 12 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
+Titrate the dose based upon the individual patient’s response to their initial dose of Methadone Hydrochloride Tablets.
 
 Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets: When Methadone Hydrochloride Tablets therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 
@@ -75,7 +76,7 @@ Consider the following when using the information in Table 1:
 
 - •This is not a table of equianalgesic doses.
 - •The conversion factors in this table are only for the conversion from another oral opioid analgesic to Methadone Hydrochloride Tablets.
-- •The table cannot be used to convert from Methadone Hydrochloride Tablets to another opioid.
+- •The table cannot be used to convert from Methadone Hydrochloride Tabletsto another opioid.
   Doing so will result in an overestimation of the dose of the new opioid and may result in fatal overdose.
 
 Table 1: Conversion Factors to Methadone Hydrochloride Tablets

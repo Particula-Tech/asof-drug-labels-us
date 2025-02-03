@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Methadone Hydrochloride Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving Methadone Hydrochloride Tablets unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Methadone Hydrochloride Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving Methadone Hydrochloride Tablets unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Methadone Hydrochloride Tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -124,4 +124,4 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000962/05 Revised October 2023
+C50000962/05 Revised January 2024
