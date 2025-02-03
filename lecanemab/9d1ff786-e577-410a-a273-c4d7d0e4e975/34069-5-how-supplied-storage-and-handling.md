@@ -2,12 +2,14 @@
 
 ## 16.1 How Supplied
 
-LEQEMBI (lecanemab-irmb) injection is a preservative-free, sterile, clear to opalescent, and colorless to pale yellow solution.
-LEQEMBI is supplied one vial per carton as follows:
+LEQEMBI (lecanemab-irmb) injection is a sterile, preservative-free, clear to opalescent, and colorless to pale yellow solution supplied in the following strengths:
 
-500 mg/5 mL (100 mg/mL) single-dose vial (with white flip cap) – NDC 62856-215-01
+| Strength | Pack Size | NDC |
+| --- | --- | --- |
+| 500 mg/5 mL (100 mg/mL) | Carton of 1 single-dose vial | 62856-215-01 |
+| 200 mg/2 mL (100 mg/mL | Carton of 1 single-dose vial | 62856-212-01 |
 
-200 mg/2 mL (100 mg/mL) single-dose vial (with dark grey flip cap) – NDC 62856-212-01
+Each glass vial is closed with a stopper and flip cap.
 
 ## 16.2 Storage and Handling
 

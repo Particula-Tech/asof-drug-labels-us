@@ -11,9 +11,9 @@ LEQEMBI reduces amyloid beta plaques, as evaluated in Study 1 and Study 2 [see C
 Effect of LEQEMBI on Amyloid Beta Pathology
 
 The effect of LEQEMBI on amyloid beta plaque levels in the brain was evaluated using Positron Emission Tomography (PET) imaging.
-The PET signal was quantified using both the Standard Uptake Value Ratio (SUVR) and Centiloid scale to estimate levels of amyloid beta plaque in composites of brain areas expected to be widely affected by Alzheimer’s disease pathology (frontal, parietal, lateral temporal, sensorimotor, and anterior and posterior cingulate cortices), compared to a brain region expected to be spared of such pathology (cerebellum).
+The PET signal was quantified using both the standard uptake value ratio (SUVR) and Centiloid scale to estimate levels of amyloid beta plaque in composites of brain areas expected to be widely affected by Alzheimer’s disease pathology (frontal, parietal, lateral temporal, sensorimotor, and anterior and posterior cingulate cortices), compared to a brain region expected to be spared of such pathology (cerebellum).
 
-LEQEMBI reduced amyloid beta plaque in a dose- and time-dependent manner in the dose-ranging study (Study 1) and in a time-dependent manner in single-dosing regimen study (Study 2) compared with placebo [see Clinical Studies (14)].
+LEQEMBI reduced amyloid beta plaque in a dose- and time-dependent manner in the dose-ranging study (Study 1) and in a time-dependent manner in single-dosing regimen study (Study 2) compared to placebo [see Clinical Studies (14)].
 
 In Study 1, treatment with LEQEMBI 10 mg/kg every two weeks reduced amyloid beta plaque levels in the brain, producing reductions in PET SUVR compared to placebo at both Weeks 53 and 79 (P<0.0001).
 The magnitude of the reduction was time- and dose-dependent.
@@ -21,12 +21,17 @@ The magnitude of the reduction was time- and dose-dependent.
 During an off-treatment period in Study 1 (range from 9 to 59 months; mean of 24 months), SUVR and Centiloid values began to increase with a mean rate of increase of 2.6 Centiloids/year, however, treatment difference relative to placebo at the end of the double-blind, placebo-controlled period in Study 1 was maintained.
 
 In Study 2, treatment with LEQEMBI 10 mg/kg every two weeks reduced amyloid beta plaque levels in the brain, producing reductions compared to placebo starting at Week 13 and continuing through Week 79 (P<0.0001).
+After Week 79 of treatment with LEQEMBI 10 mg/kg every two weeks, 67% of patients had amyloid levels less than 30 Centiloids as measured by PET.
+Patients who did not have reduction of amyloid plaques to these levels at Week 79 tended to have higher amyloid PET levels at baseline.
+The percentage of patients achieving amyloid levels less than 30 Centiloids after continuous treatment with LEQEMBI 10 mg/kg every two weeks is predicted to increase over time.
+After Week 79, it is predicted that reducing the frequency of 10 mg/kg to once every 4 weeks will also continue the reduction in amyloid beta plaque levels.
 
 An increase in plasma Aβ42/40 ratio (Table 6) and CSF Aβ[1-42] was observed with LEQEMBI 10 mg/kg every two weeks dosing compared to placebo.
 
 Effect of LEQEMBI on Tau Pathophysiology
 
 A reduction in plasma p-tau181 (Table 6), CSF p-tau181, and CSF t-tau was observed with LEQEMBI 10 mg/kg every two weeks compared to placebo.
+Exposure-response modeling predicts that transitioning to a dose of 10 mg/kg every 4 weeks after 18 months of treatment with 10 mg/kg every two weeks dosing regimen will maintain the reduction in plasma p-tau181.
 
 Table 6: Effect of LEQEMBI on Plasma Aβ42/40 and Plasma p-tau181 in Study 1 and Study 2
 
@@ -60,6 +65,9 @@ Higher exposures to lecanemab-irmb were also associated with greater increase in
 
 Steady-state concentrations of lecanemab-irmb were reached after 6 weeks of 10 mg/kg administered every 2 weeks and systemic accumulation was 1.4-fold.
 The peak concentration (Cmax) and area under the plasma concentration versus time curve (AUC) of lecanemab-irmb increased dose proportionally in the dose range of 0.3 to 15 mg/kg following single dose.
+
+In patients receiving 10 mg/kg once every 2 weeks, the average (± standard deviation) steady state concentration is estimated to be 148 (±50) mcg/mL.
+In patients receiving 10 mg/kg once every 4 weeks, the average (± standard deviation) steady-state concentration is estimated to be 71.2 (±20) mcg/mL.
 
 Distribution
 

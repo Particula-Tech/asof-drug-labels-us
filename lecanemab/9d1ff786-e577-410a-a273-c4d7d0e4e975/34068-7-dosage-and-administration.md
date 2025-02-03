@@ -6,7 +6,10 @@ Confirm the presence of amyloid beta pathology prior to initiating treatment [se
 
 ## 2.2Dosing Instructions
 
-The recommended dosage of LEQEMBI is 10 mg/kg that must be diluted then administered as an intravenous infusion over approximately one hour, once every two weeks.
+The recommended initial dosing regimen of LEQEMBI is 10 mg/kg once every 2 weeks administered as an intravenous infusion over approximately one hour.
+After 18 months, the regimen of 10 mg/kg once every two weeks may be continued, or a transition to the maintenance dosing regimen of 10 mg/kg once every 4 weeks may be considered [see Clinical Pharmacology (12.2)].
+
+LEQEMBI must be diluted before administration [see Dosage and Administration (2.4)].
 
 If an infusion is missed, administer the next dose as soon as possible.
 
@@ -35,16 +38,10 @@ Table 1: Dosing Recommendations for Patients with ARIA-E
 | Mild | May continue dosing based on clinical judgment | Suspend dosing3 |  |
 | Moderate or Severe | Suspend dosing3 |  |  |
 
-1 Clinical Symptom Severity Categories:
-
-Mild: discomfort noticed, but no disruption of normal daily activity.
-
+1 Clinical Symptom Severity Categories: Mild: discomfort noticed, but no disruption of normal daily activity.
 Moderate: discomfort sufficient to reduce or affect normal daily activity.
-
 Severe: incapacitating, with inability to work or to perform normal daily activity.
-
 2 See Table 3 for MRI radiographic severity [Warnings and Precautions (5.1)].
-
 3 Suspend until MRI demonstrates radiographic resolution and symptoms, if present, resolve; consider a follow-up MRI to assess for resolution 2 to 4 months after initial identification.
 Resumption of dosing should be guided by clinical judgment.
 
@@ -69,7 +66,9 @@ Table 2: Dosing Recommendations for Patients with ARIA-H
 In patients who develop intracerebral hemorrhage greater than 1 cm in diameter during treatment with LEQEMBI, suspend dosing until MRI demonstrates radiographic stabilization and symptoms, if present, resolve.
 Use clinical judgment in considering whether to continue treatment after radiographic stabilization and resolution of symptoms or permanently discontinue LEQEMBI.
 
-## 2.4 Dilution Instructions
+## 2.4Preparation and Administration of LEQEMBI for Intravenous Infusion
+
+Dilution
 
 - Prior to administration, LEQEMBI must be diluted in 250 mL of 0.9% Sodium Chloride Injection, USP.
 - Use aseptic technique when preparing the LEQEMBI diluted solution for intravenous infusion.
@@ -89,7 +88,7 @@ Use clinical judgment in considering whether to continue treatment after radiogr
   If not administered immediately, store LEQEMBI refrigerated at 2°C to 8°C (36°F to 46°F) for up to 4 hours, or at room temperature up to 30°C (86°F) for up to 4 hours.
   Do not freeze.
 
-## 2.5 Administration Instructions
+Administration
 
 - Visually inspect the LEQEMBI diluted solution for particles or discoloration prior to administration.
   Do not use if it is discolored, opaque, or foreign particles are seen.

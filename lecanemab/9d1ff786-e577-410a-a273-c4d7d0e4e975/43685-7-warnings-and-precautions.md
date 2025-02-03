@@ -7,7 +7,8 @@ ARIA can occur spontaneously in patients with Alzheimer’s disease, particularl
 ARIA-H associated with monoclonal antibodies directed against aggregated forms of beta amyloid generally occurs in association with an occurrence of ARIA-E.
 ARIA-H of any cause and ARIA-E can occur together.
 
-ARIA usually occurs early in treatment and is usually asymptomatic, although serious and life-threatening events, including seizure and status epilepticus, rarely can occur.
+ARIA usually occurs early in treatment and is usually asymptomatic, although serious and life-threatening events, including seizure and status epilepticus, can occur.
+ARIA can be fatal.
 When present, reported symptoms associated with ARIA may include headache, confusion, visual changes, dizziness, nausea, and gait difficulty.
 Focal neurologic deficits may also occur.
 Symptoms associated with ARIA usually resolve over time.
@@ -24,7 +25,7 @@ Similar findings were observed in Study 1.
 
 Including asymptomatic radiographic events, ARIA was observed in 21% (191/898) of patients treated with LEQEMBI, compared to 9% (84/897) of patients on placebo in Study 2.
 
-ARIA-E was observed in 13% (113/898) of patients treated with LEQEMBI, compared to 2% (15/897) of patients on placebo.
+In Study 2, ARIA-E was observed in 13% (113/898) of patients treated with LEQEMBI, compared to 2% (15/897) of patients on placebo.
 ARIA-H was observed in 17% (152/898) of patients treated with LEQEMBI, compared to 9% (80/897) of patients on placebo.
 There was no increase in isolated ARIA-H (i.e., ARIA-H in patients who did not also experience ARIA-E) for LEQEMBI compared to placebo.
 
@@ -38,6 +39,7 @@ Risk Factors for ARIA and Intracerebral Hemorrhage
 ApoE ε4 Carrier Status
 
 The risk of ARIA, including symptomatic and serious ARIA, is increased in apolipoprotein E ε4 (ApoE ε4) homozygotes.
+
 Approximately 15% of Alzheimer’s disease patients are ApoE ε4 homozygotes.
 In Study 2, 16% (141/898) of patients in the LEQEMBI arm were ApoE ε4 homozygotes, 53% (479/898) were heterozygotes, and 31% (278/898) were noncarriers.
 The incidence of ARIA was higher in ApoE ε4 homozygotes (45% on LEQEMBI vs. 22% on placebo) than in heterozygotes (19% on LEQEMBI vs 9% on placebo) and noncarriers (13% on LEQEMBI vs 4% on placebo).
@@ -87,7 +89,7 @@ Table 3: ARIA MRI Classification Criteria
 | ARIA-H microhemorrhage | ≤ 4 new incident microhemorrhages | 5 to 9 new incident microhemorrhages | 10 or more new incident microhemorrhages |
 | ARIA-H superficial siderosis | 1 focal area of superficial siderosis | 2 focal areas of superficial siderosis | > 2 areas of superficial siderosis |
 
-The majority of ARIA-E radiographic events occurred early in treatment (within the first 7 doses), although ARIA can occur at any time and patients can have more than 1 episode.
+In Study 2, the majority of ARIA-E radiographic events occurred early in treatment (within the first 7 doses), although ARIA can occur at any time and patients can have more than 1 episode.
 The maximum radiographic severity of ARIA-E in patients treated with LEQEMBI was mild in 4% (37/898) of patients, moderate in 7% (66/898) of patients, and severe in 1% (9/898) of patients.
 Resolution on MRI occurred in 52% of ARIA-E patients by 12 weeks, 81% by 17 weeks, and 100% overall after detection.
 The maximum radiographic severity of ARIA-H microhemorrhage in patients treated with LEQEMBI was mild in 9% (79/898), moderate in 2% (19/898), and severe in 3% (28/898) of patients; superficial siderosis was mild in 4% (38/898), moderate in 1% (8/898), and severe in 0.4% (4/898).

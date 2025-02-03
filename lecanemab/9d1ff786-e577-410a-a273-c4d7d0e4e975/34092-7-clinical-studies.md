@@ -4,7 +4,8 @@ The efficacy of LEQEMBI was evaluated in two double-blind, placebo-controlled, p
 In both studies, patients were enrolled with a Clinical Dementia Rating (CDR) global score of 0.5 or 1.0 and a Memory Box score of 0.5 or greater.
 All patients had a Mini-Mental State Examination (MMSE) score of ≥22 and ≤30, and had objective impairment in episodic memory as indicated by at least 1 standard deviation below age-adjusted mean in the Wechsler-Memory Scale-IV Logical Memory II (subscale) (WMS-IV LMII).
 Patients were enrolled with or without concomitant approved therapies (cholinesterase inhibitors and the N-methyl-D-aspartate antagonist memantine) for Alzheimer’s disease.
-Patients in each study could enroll in an optional long-term extension.
+The dosage of 10 mg/kg once every 2 weeks was assessed in the 18-month placebo-controlled portions of Study 1 and Study 2 and continued in the optional long-term extension in each study.
+Transitioning to 10 mg/kg once every 4 weeks after 18 months of dosing is supported by pharmacokinetic and pharmacodynamic modeling using observed data [see Clinical Pharmacology (12.2)]; however, there are limited data to assess the long-term clinical benefit of transitioning to the dosing regimen of 10 mg/kg once every 4 weeks [see Dosage and Administration (2.2)].
 
 Study 1
 
@@ -38,7 +39,7 @@ The primary endpoint was change from baseline on a weighted composite score cons
 LEQEMBI had a 64% likelihood of 25% or greater slowing of progression on the primary endpoint relative to placebo at Week 53, which did not meet the prespecified success criterion of 80%.
 
 Key secondary efficacy endpoints included the change from baseline in amyloid PET SUVR composite at Week 79 and change from baseline in the CDR-SB and ADAS-Cog14 at Week 79.
-Results for clinical assessments showed less change from baseline in CDR-SB and ADAS-Cog14 scores at Week 79 in the LEQEMBI group than in patients on placebo (CDR-SB: -0.40 [26%], 90% CI [-0.82, 0.03]; ADAS-Cog14: -2.31 [47%], 90% CI [-3.91, -0.72].
+Results for clinical assessments showed less change from baseline in CDR-SB and ADAS-Cog14 scores at Week 79 in the LEQEMBI group than in patients on placebo (CDR-SB: -0.40 [26%], 90% CI [-0.82, 0.03]; ADAS-Cog14: -2.31 [47%], 90% CI [-3.91, -0.72]).
 
 After the 79-week double-blind, placebo-controlled period of Study 1, patients could enroll in an open-label extension period for up to 260 weeks, which was initiated after a gap period (range 9 to 59 months; mean 24 months) off treatment.
 

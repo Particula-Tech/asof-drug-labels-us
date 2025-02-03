@@ -9,6 +9,7 @@ ARIA most commonly presents as a temporary swelling in areas of the brain that u
 Some people may also have small spots of bleeding in or on the surface of the brain.
 Inform patients that most people with swelling in areas of the brain do not experience symptoms; however, some people may experience symptoms such as headache, confusion, dizziness, vision changes, nausea, aphasia, weakness, or seizure.
 Instruct patients to notify their healthcare provider if these symptoms occur.
+Inform patients that serious symptoms of ARIA may occur and that ARIA can be fatal.
 Inform patients that events of intracerebral hemorrhage greater than 1 cm in diameter have been reported infrequently in patients taking LEQEMBI, and that the use of antithrombotic or thrombolytic medications while taking LEQEMBI may increase the risk of bleeding in the brain.
 Notify patients that their healthcare provider will perform MRI scans to monitor for ARIA [see Warnings and Precautions (5.1)].
 
@@ -37,4 +38,4 @@ Manufactured by: Eisai Inc. Nutley, NJ 07110 U.S. License No. 1862
 
 LEQEMBI® is a registered trademark of Eisai R&D Management Co., Ltd.
 
-© 2024 Eisai Inc. and Biogen
+© 2025 Eisai Inc. and Biogen
