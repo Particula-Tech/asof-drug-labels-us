@@ -469,4 +469,4 @@ Additional adverse reactions observed in the pediatric population are listed bel
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of ABILIFY.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), blood glucose fluctuation, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hiccups, oculogyric crisis, and pathological gambling.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), blood glucose fluctuation, drug reaction with eosinophilia and systemic symptoms (DRESS), hiccups, oculogyric crisis, pathological gambling, and fecal incontinence.
