@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA215813"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-128-02",
+    "83831-129-08",
+    "83831-130-16"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel",
+      "name": "DOCIVYX"
+    }
+  ],
+  "setid": "baf89fc6-f9bd-433b-988f-77762ec9ad39",
+  "source": "dailymed"
+}
