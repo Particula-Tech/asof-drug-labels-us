@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA074529"
+  ],
+  "inn": "etoposide",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-175-05",
+    "71288-176-25",
+    "71288-177-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "etoposide",
+      "name": "Etoposide"
+    }
+  ],
+  "setid": "50491106-dddd-4efd-bd83-060e7947a244",
+  "source": "dailymed"
+}
