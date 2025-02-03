@@ -36,7 +36,7 @@ When restarting CLOZARIL in patients who have had even a brief interruption in t
 This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
 If one day’s dosing has been missed, resume treatment at 40% to 50% of the established dose.
 If two days dosing have been missed, resume dose at approximately 25% of the established dosage.
-For longer interruptions, re-initiate at a dosage of 12.5 mg once daily or twice daily.
+For longer interruptions, re‑initiate at a dosage of 12.5 mg once daily or twice daily.
 If these dosages are well-tolerated, the dosage may be increased to the previous dosage more quickly than recommended for initial treatment.
 
 ## 2.6 Dosage Adjustments with Concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
