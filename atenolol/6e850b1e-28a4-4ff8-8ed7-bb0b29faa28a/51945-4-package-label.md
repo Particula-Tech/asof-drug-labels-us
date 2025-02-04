@@ -1,0 +1,35 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 25 mg
+
+NDC 24979-244-07
+
+Rx Only
+
+TENORMIN® (atenolol)
+
+25 mg tablets
+
+90 Tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 50 mg
+
+NDC 24979-245-07
+
+Rx Only
+
+TENORMIN® (atenolol)
+
+50 mg tablets
+
+90 Tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY - 100 mg
+
+NDC 24979-246-07
+
+Rx Only
+
+TENORMIN® (atenolol)
+
+100 mg tablets
+
+90 Tablets

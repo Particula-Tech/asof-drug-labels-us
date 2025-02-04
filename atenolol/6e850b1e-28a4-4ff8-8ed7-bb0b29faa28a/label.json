@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018240"
+  ],
+  "inn": "atenolol",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "24979-244-07",
+    "24979-245-07",
+    "24979-246-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atenolol",
+      "name": "TENORMIN"
+    }
+  ],
+  "setid": "6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a",
+  "source": "dailymed"
+}
