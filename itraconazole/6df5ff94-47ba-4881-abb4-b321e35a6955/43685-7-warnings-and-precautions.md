@@ -74,7 +74,7 @@ Advise patients that if they experience these events, they should not drive or u
 
 ## DRUG INTERACTIONS
 
-Effect of Itraconazole Capsules on Other Drugs Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
+Effect of Itraconazole Capsules on Other DrugsItraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
 Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).
 Consequently, itraconazole has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
 Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
@@ -84,7 +84,9 @@ Refer to the approved product labeling to become familiar with the interaction p
 Although many of the clinical drug interactions in Table 1 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole.
 Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concentrations
 
-*CYP3A4 inhibitors (including itraconazole) may increase systemic contraceptive hormone concentrations. a Based on clinical drug interaction information with itraconazole. b Based on 400 mg bedaquiline once daily for 2 weeks. c EMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizers Effect of Other Drugs on Itraconazole Itraconazole is mainly metabolized through CYP3A4.
+*CYP3A4 inhibitors (including itraconazole) may increase systemic contraceptive hormone concentrations.
+
+a Based on clinical drug interaction information with itraconazole. b Based on 400 mg bedaquiline once daily for 2 weeks. c EMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizers Effect of Other Drugs on Itraconazole Itraconazole is mainly metabolized through CYP3A4.
 Other substances that either share this metabolic pathway or modify CYP3A4 activity may influence the pharmacokinetics of itraconazole.
 Some concomitant drugs have the potential to interact with itraconazole resulting in either increased or sometimes decreased concentrations of itraconazole.
 Increased concentrations may increase the risk of adverse reactions associated with itraconazole.
@@ -95,6 +97,7 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 Table 2: Drug Interactions with Other Drugs that Affect Itraconazole Concentrations
 
 a Based on clinical drug interaction information with itraconazole.
+
 Pediatric Population Interaction studies have only been performed in adults.
 
 ## CARCINOGENESIS & MUTAGENESIS & IMPAIRMENT OF FERTILITY
