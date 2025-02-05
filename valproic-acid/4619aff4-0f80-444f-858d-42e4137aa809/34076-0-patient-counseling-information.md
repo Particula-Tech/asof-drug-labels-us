@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Hepatotoxicity
 
@@ -51,8 +51,8 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-©1989-2024 AbbVie Inc.
+©1989-2025 AbbVie Inc.
 
-Revised: March 2024
+Revised: January 2025
 
-20084852
+20091023
