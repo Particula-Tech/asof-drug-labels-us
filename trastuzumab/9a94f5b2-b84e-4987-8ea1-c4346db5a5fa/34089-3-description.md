@@ -11,5 +11,5 @@ Each multiple-dose vial of KANJINTI delivers 420 mg trastuzumab-anns, 381.8 mg �
 Reconstitution with 20 mL of the appropriate diluent (BWFI or SWFI) yields a solution containing 21 mg/mL trastuzumab-anns that delivers 20 mL (420 mg trastuzumab-anns), at a pH of approximately 6.
 If KANJINTI is reconstituted with SWFI without preservative, the reconstituted solution is considered single-dose.
 
-Each single-dose vial of KANJINTI delivers 150 mg trastuzumab-anns, 136.2 mg α,α-trehalose dihydrate, 3.4 mg L-histidine HCL monohydrate, 2.2 mg L-histidine, and 0.6 mg polysorbate 20.
-Reconstitution with 7.4 mL of sterile water for injection (SWFI) yields a solution containing 21 mg/mL trastuzumab-anns that delivers 7.15 mL (150 mg trastuzumab-anns), at a pH of approximately 6.
+Each single-dose vial of KANJINTI delivers 150 mg trastuzumab-anns, 136.2 mg α,α-trehalose dihydrate, 3.4 mg L-histidine HCl monohydrate, 2.2 mg L-histidine, and 0.6 mg polysorbate 20.
+Reconstitution with 7.4 mL of Sterile Water for Injection (SWFI) yields a solution containing 21 mg/mL trastuzumab-anns that delivers 7.15 mL (150 mg trastuzumab-anns), at a pH of approximately 6.
