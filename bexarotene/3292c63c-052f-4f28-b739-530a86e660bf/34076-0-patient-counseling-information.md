@@ -55,7 +55,7 @@ Administration Instructions
 
 Advise patients to take bexarotene capsules with a meal [see Dosage and Administration (2)].
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
-Iss.
-5/2021
+Rev.
+A 2/2024

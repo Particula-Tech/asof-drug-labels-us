@@ -11,4 +11,4 @@ It is insoluble in water and slightly soluble in vegetable oils and ethanol, USP
 Each bexarotene capsule contains 75 mg of bexarotene for oral administration.
 It also contains the following inactive ingredients: butylated hydroxyanisole, polyethylene glycol 400, polysorbate 20, and povidone K30.
 The capsule shell contains gelatin, glycerin, sorbitol, and titanium dioxide.
-The imprinting ink contains black iron oxide, polyvinyl acetate phthalate, and propylene glycol.
+The imprinting ink contains black iron oxide, propylene glycol, and may also contain hypromellose 2910, and polyvinyl acetate phthalate.

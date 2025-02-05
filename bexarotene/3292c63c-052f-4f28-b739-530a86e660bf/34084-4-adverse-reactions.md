@@ -113,8 +113,7 @@ Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at
 | --- | --- | --- | --- | --- |
 |  | 300 (N=84) |  | >300 (N=53) |  |
 |  | Mod Sev | Severe | Mod Sev | Severe |
-| Body System |  |  |  |  |
-| Adverse Event1,2 | N (%) | N (%) | N (%) | N (%) |
+| Body System Adverse Event1,2 | N (%) | N (%) | N (%) | N (%) |
 | BODY AS A WHOLE |  |  |  |  |
 | Asthenia | 1 (1) | 0 (0) | 11 (21) | 0 (0) |
 | Headache | 3 (4) | 0 (0) | 5 (9) | 1 (2) |
