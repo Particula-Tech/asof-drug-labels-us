@@ -332,11 +332,6 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-____________
-
-1Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.
-
 Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline.
 Shifts in total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.Includes SEROQUEL and SEROQUEL XR data.
 
@@ -367,8 +362,8 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
+As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.16 Potential for Cognitive and Motor Impairment
 
