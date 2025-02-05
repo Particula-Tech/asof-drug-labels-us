@@ -1,3 +1,5 @@
+# Medication Guide
+
 | MEDICATION GUIDESEROQUEL XR (SER-oh-kwell X-R)(quetiapine)Extended-Release Tablets |
 | --- |
 | Read this Medication Guide before you start taking SEROQUEL XR and each time you get a refill. There may be new information. This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment. What is the most important information I should know about SEROQUEL XR? SEROQUEL XR may cause serious side effects, including: 1.risk of death in the elderly with dementia: Medicines like SEROQUEL XR can increase the risk of death in elderly people who have memory loss (dementia). SEROQUEL XR is not for treating psychosis in the elderly with dementia.2.risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions). |
