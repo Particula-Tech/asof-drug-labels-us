@@ -261,7 +261,7 @@ Urogenital System: Metrorrhagia.
 The following adverse reactions have been identified during post approval use of Depakote.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, and Stevens-Johnson syndrome.
+Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, Stevens-Johnson syndrome, and hyperpigmentation.
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 

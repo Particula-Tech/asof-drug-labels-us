@@ -55,8 +55,8 @@ AbbVie LTD, Barceloneta, PR 00617
 
 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
 
-©2000-2024 AbbVie Inc.
+©2000-2025 AbbVie Inc.
 
-Revised: March 2024
+Revised: January 2025
 
-20084850
+20091021
