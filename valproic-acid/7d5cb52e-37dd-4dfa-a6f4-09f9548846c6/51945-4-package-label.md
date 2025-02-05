@@ -25,7 +25,7 @@ Store at 20º to 25ºC (68º to 77ºF).
 
 USUAL DOSAGE: See Package Insert for prescribing information.
 
-X06575850322 R03/22
+X06575850524 R05/24
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Cup Label
 
