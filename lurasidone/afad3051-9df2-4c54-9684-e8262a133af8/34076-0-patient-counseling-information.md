@@ -54,14 +54,10 @@ Advise patients that LATUDA may cause extrapyramidal and/or withdrawal symptoms 
 Advise patients to notify their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to LATUDA during pregnancy [see Use in Specific Populations (8.1)].
 
-SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
+Sumitomo Pharma Manufactured for: Sumitomo Pharma America, Inc. Marlborough, MA 01752 USA
 
 For Customer Service, call 1-888-394-7377.
 For Medical Information, call 1-800-739-0565.
 To report suspected adverse reactions, call 1-877-737-7226.
 
-10092-03
-
-LATUDA is a registered trademark of Sumitomo Pharma Co. Ltd. Sunovion Pharmaceuticals Inc. is a U.S. subsidiary of Sumitomo Pharma Co. Ltd.
-
-© 2019 Sunovion Pharmaceuticals Inc.
+LATUDA is a registered trademark of Sumitomo Pharma Co. Ltd. Sumitomo Pharma America, Inc. is a U.S. subsidiary of Sumitomo Pharma Co. Ltd. ©2025 Sumitomo Pharma America, Inc.

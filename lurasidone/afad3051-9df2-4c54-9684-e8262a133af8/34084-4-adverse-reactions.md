@@ -92,9 +92,9 @@ Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Pati
 
 Table 20: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Adult Short-term Monotherapy Bipolar Depression Study
 
-|  | Percentage of Patients Reporting Reaction |  |  |  |  |  |
+| Body System or Organ Class Dictionary-derived Term | Placebo (N=168) (%) | LATUDA 20-60 mg/day (N=164) (%) |  | LATUDA 80-120 mg/day (N=167) (%) |  | All LATUDA (N=331) (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body System or Organ Class Dictionary-derived Term | Placebo (N=168) (%) | LATUDA 20-60 mg/day (N=164) (%) |  | LATUDA 80-120 mg/day (N=167) (%) |  | All LATUDA(N=331) (%) |
+|  | Percentage of Patients Reporting Reaction |  |  |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |
 | Nausea | 8 | 10 | 17 |  | 14 |  |
 | Dry Mouth | 4 | 6 | 4 |  | 5 |  |
@@ -135,29 +135,29 @@ Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Pati
 
 Table 21: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Adult Short-term Adjunctive Therapy Bipolar Depression Studies
 
-|  | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| Body System or Organ Class Dictionary-derived Term | Placebo (N=334) (%) | LATUDA 20 to 120 mg/day (N=360) (%) |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 10 | 14 |
-| Vomiting | 1 | 4 |
-| General Disorders |  |  |
-| Fatigue | 1 | 3 |
-| Infections and Infestations |  |  |
-| Nasopharyngitis | 2 | 4 |
-| Investigations |  |  |
-| Weight Increased | <1 | 3 |
-| Metabolism and Nutrition Disorders |  |  |
-| Increased Appetite | 1 | 3 |
-| Nervous System Disorders |  |  |
-| Extrapyramidal Symptoms* | 9 | 14 |
-| Somnolence** | 5 | 11 |
-| Akathisia | 5 | 11 |
-| Psychiatric Disorders |  |  |
-| Restlessness | <1 | 4 |
-| Note: Figures rounded to the nearest integer |  |  |
-| *Extrapyramidal symptoms include adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, glabellar reflex abnormal, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus |  |  |
-| ** Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence |  |  |
+| Body System or Organ Class Dictionary-derived Term |  | Placebo (N=334) (%) |  | LATUDA 20 to 120 mg/day (N=360) (%) |
+| --- | --- | --- | --- | --- |
+|  |  | Percentage of Patients Reporting Reaction |  |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea |  | 10 |  | 14 |
+| Vomiting |  | 1 |  | 4 |
+| General Disorders |  |  |  |  |
+| Fatigue |  | 1 |  | 3 |
+| Infections and Infestations |  |  |  |  |
+| Nasopharyngitis |  | 2 |  | 4 |
+| Investigations |  |  |  |  |
+| Weight Increased |  | <1 |  | 3 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Increased Appetite |  | 1 |  | 3 |
+| Nervous System Disorders |  |  |  |  |
+| Extrapyramidal Symptoms* |  | 9 |  | 14 |
+| Somnolence** |  | 5 |  | 11 |
+| Akathisia |  | 5 |  | 11 |
+| Psychiatric Disorders |  |  |  |  |
+| Restlessness |  | <1 |  | 4 |
+| Note: Figures rounded to the nearest integer |  |  |  |  |
+| *Extrapyramidal symptoms include adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, glabellar reflex abnormal, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus |  |  |  |  |
+| ** Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence |  |  |  |  |
 
 Adolescents
 
@@ -173,9 +173,9 @@ Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Pati
 
 Table 22: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Adolescent Short-term Schizophrenia Study
 
-|  | Percentage of Patients Reporting Reaction |  |  |  |
-| --- | --- | --- | --- | --- |
 | Body System or Organ Class Dictionary-derived Term | Placebo (N=112) | LATUDA 40 mg/day (N=110) | LATUDA 80 mg/day (N=104) | All LATUDA (N=214) |
+| --- | --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Reaction |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |
 | Nausea | 3 | 13 | 14 | 14 |
 | Vomiting | 2 | 8 | 6 | 8 |
@@ -209,33 +209,33 @@ Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Pati
 
 Table 23: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the 6-Week Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
-|  | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| Body System or Organ Class Dictionary-derived Term | Placebo (N=172) | LATUDA 20 to 80 mg/day (N=175) |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 6 | 16 |
-| Vomiting | 4 | 6 |
-| Abdominal Pain Upper | 2 | 3 |
-| Diarrhea | 2 | 3 |
-| Abdominal Pain | 1 | 3 |
-| General Disorders And Administration Site Conditions |  |  |
-| Fatigue | 2 | 3 |
-| Investigations |  |  |
-| Weight Increased | 2 | 7 |
-| Metabolism and Nutrition Disorders |  |  |
-| Decreased Appetite | 2 | 4 |
-| Nervous System Disorders |  |  |
-| Somnolence* | 6 | 11 |
-| Extrapyramidal symptoms** | 5 | 6 |
-| Dizziness | 5 | 6 |
-| Psychiatric Disorders |  |  |
-| Insomnia | 2 | 5 |
-| Abnormal Dreams | 2 | 2 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Oropharyngeal Pain | 2 | 2 |
-| Note: Figures rounded to the nearest integer |  |  |
-| *Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence |  |  |
-| **EPS includes adverse event terms: akathisia, cogwheel rigidity, dyskinesia, dystonia, hyperkinesia, joint stiffness, muscle rigidity, muscle spasms, musculoskeletal stiffness, oculogyric crisis, parkinsonism, tardive dyskinesia, and tremor |  |  |
+| Body System or Organ Class Dictionary-derived Term |  | Placebo (N=172) |  | LATUDA 20 to 80 mg/day (N=175) |
+| --- | --- | --- | --- | --- |
+|  |  | Percentage of Patients Reporting Reaction |  |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea |  | 6 |  | 16 |
+| Vomiting |  | 4 |  | 6 |
+| Abdominal Pain Upper |  | 2 |  | 3 |
+| Diarrhea |  | 2 |  | 3 |
+| Abdominal Pain |  | 1 |  | 3 |
+| General Disorders And Administration Site Conditions |  |  |  |  |
+| Fatigue |  | 2 |  | 3 |
+| Investigations |  |  |  |  |
+| Weight Increased |  | 2 |  | 7 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased Appetite |  | 2 |  | 4 |
+| Nervous System Disorders |  |  |  |  |
+| Somnolence* |  | 6 |  | 11 |
+| Extrapyramidal symptoms** |  | 5 |  | 6 |
+| Dizziness |  | 5 |  | 6 |
+| Psychiatric Disorders |  |  |  |  |
+| Insomnia |  | 2 |  | 5 |
+| Abnormal Dreams |  | 2 |  | 2 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Oropharyngeal Pain |  | 2 |  | 2 |
+| Note: Figures rounded to the nearest integer |  |  |  |  |
+| *Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence |  |  |  |  |
+| **EPS includes adverse event terms: akathisia, cogwheel rigidity, dyskinesia, dystonia, hyperkinesia, joint stiffness, muscle rigidity, muscle spasms, musculoskeletal stiffness, oculogyric crisis, parkinsonism, tardive dyskinesia, and tremor |  |  |  |  |
 
 Extrapyramidal Symptoms
 
@@ -249,11 +249,11 @@ Incidence of EPS by dose is provided in Table 24.
 
 Table 24: Incidence of EPS Compared to Placebo in Adult Schizophrenia Studies
 
-|  |  |  | LATUDA |  |  |  |
+| All EPS events, excluding Akathisia/Restlessness | 6 | 6 | 11 | 12 | 22 | 13 |
 | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | LATUDA |  |  |  |
 | Adverse Event Term | Placebo (N=708) (%) | 20 mg/day (N=71) (%) | 40 mg/day (N=487) (%) | 80 mg/day (N=538) (%) | 120 mg/day (N=291) (%) | 160 mg/day (N=121) (%) |
 | All EPS events | 9 | 10 | 21 | 23 | 39 | 20 |
-| All EPS events, excluding Akathisia/Restlessness | 6 | 6 | 11 | 12 | 22 | 13 |
 | Akathisia | 3 | 6 | 11 | 12 | 22 | 7 |
 | Dystonia* | <1 | 0 | 4 | 5 | 7 | 2 |
 | Parkinsonism** | 5 | 6 | 9 | 8 | 17 | 11 |
@@ -269,11 +269,11 @@ Incidence of EPS by dose is provided in Table 25.
 
 Table 25: Incidence of EPS Compared to Placebo in the Adolescent Schizophrenia Study
 
-|  |  | LATUDA |  |
+| All EPS events, excluding Akathisia/Restlessness | 4 | 7 | 7 |
 | --- | --- | --- | --- |
+|  |  | LATUDA |  |
 | Adverse Event Term | Placebo (N=112) (%) | 40 mg/day (N=110) (%) | 80 mg/day (N=104) (%) |
 | All EPS events | 5 | 14 | 14 |
-| All EPS events, excluding Akathisia/Restlessness | 4 | 7 | 7 |
 | Akathisia | 2 | 9 | 9 |
 | Parkinsonism** | <1 | 4 | 0 |
 | Dyskinesia | <1 | <1 | 1 |
@@ -294,11 +294,11 @@ Incidence of EPS by dose groups is provided in Table 26.
 
 Table 26: Incidence of EPS Compared to Placebo in the Adult Monotherapy Bipolar Depression Study
 
-|  |  |  | LATUDA |  |
+| All EPS events, excluding Akathisia/Restlessness | 2 |  | 5 | 9 |
 | --- | --- | --- | --- | --- |
+|  |  |  | LATUDA |  |
 | Adverse Event Term | Placebo (N=168) (%) |  | 20 to 60 mg/day (N=164) (%) | 80 to 120 mg/day (N=167) (%) |
 | All EPS events | 5 |  | 12 | 20 |
-| All EPS events, excluding Akathisia/Restlessness | 2 |  | 5 | 9 |
 | Akathisia | 2 |  | 8 | 11 |
 | Dystonia* | 0 |  | 0 | 2 |
 | Parkinsonism** | 2 |  | 5 | 8 |
@@ -315,10 +315,10 @@ Incidence of EPS is provided in Table 27.
 
 Table 27: Incidence of EPS Compared to Placebo in the Adult Adjunctive Therapy Bipolar Depression Studies
 
-| Adverse Event Term | Placebo (N=334) (%) | LATUDA 20 to 120 mg/day (N=360) (%) |
-| --- | --- | --- |
-| All EPS events | 13 | 24 |
 | All EPS events, excluding Akathisia/Restlessness | 9 | 14 |
+| --- | --- | --- |
+| Adverse Event Term | Placebo (N=334) (%) | LATUDA 20 to 120 mg/day (N=360) (%) |
+| All EPS events | 13 | 24 |
 | Akathisia | 5 | 11 |
 | Dystonia* | <1 | 1 |
 | Parkinsonism** | 8 | 13 |
@@ -336,10 +336,10 @@ Incidence of EPS by dose is provided in Table 28.
 
 Table 28: Incidence of EPS Compared to Placebo in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
-| Adverse Event Term | Placebo (N=172) (%) | LATUDA 20 to 80 mg/day (N=175) (%) |
-| --- | --- | --- |
-| All EPS events* | 5 | 6 |
 | All EPS events, excluding Akathisia/Restlessness | 4 | 3 |
+| --- | --- | --- |
+| Adverse Event Term | Placebo (N=172) (%) | LATUDA 20 to 80 mg/day (N=175) (%) |
+| All EPS events* | 5 | 6 |
 | Akathisia | 4 | 3 |
 | Parkinsonism** | <1 | <1 |
 | Dystonia*** | 1 | <1 |
@@ -360,7 +360,7 @@ The percentage of patients who shifted from normal to abnormal was greater in LA
 
 Adolescents
 
-The mean change from baseline for LATUDA- treated patients with adolescent schizophrenia for the SAS, BAS and AIMS was comparable to placebo-treated patients.
+The mean change from baseline for LATUDA-treated patients with adolescent schizophrenia for the SAS, BAS and AIMS was comparable to placebo-treated patients.
 The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients and placebo for the BAS (LATUDA, 7.0%; placebo, 1.8%), the SAS (LATUDA, 8.3%; placebo, 2.7%) and the AIMS (LATUDA, 2.8%; placebo, 0.9%).
 
 Bipolar Depression
@@ -379,7 +379,7 @@ The percentage of patients who shifted from normal to abnormal was greater in LA
 
 Pediatric Patients (10 to 17 years)
 
-The mean change from baseline for LATUDA- treated pediatric patients 10 to 17 years with bipolar depression for the SAS, BAS and AIMS was comparable to placebo-treated patients.
+The mean change from baseline for LATUDA-treated pediatric patients 10 to 17 years with bipolar depression for the SAS, BAS and AIMS was comparable to placebo-treated patients.
 The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients and placebo for the BAS (LATUDA, 4.6%; placebo, 2.4%), the SAS (LATUDA, 0.6%; placebo, 0%) and was the same for the AIMS (LATUDA, 0%; placebo, 0%).
 
 Dystonia

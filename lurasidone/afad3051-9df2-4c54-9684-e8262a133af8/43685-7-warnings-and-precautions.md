@@ -95,12 +95,12 @@ Pooled data from short-term, placebo-controlled schizophrenia studies are presen
 
 Table 3: Change in Fasting Glucose in Adult Schizophrenia Studies
 
-|  |  |  | LATUDA |  |  |  |
+|  | n=680 | n=71 | n=478 | n=508 | n=283 | n=113 |
 | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | LATUDA |  |  |  |
 |  | Placebo | 20 mg/day | 40 mg/day | 80 mg/day | 120 mg/day | 160 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |  |  |  |  |
-|  | n=680 | n=71 | n=478 | n=508 | n=283 | n=113 |
-| Serum Glucose | -0.0 | -0.6 | +2.6 | -0.4 | +2.5 | + 2.5 |
+| Serum Glucose | -0.0 | -0.6 | +2.6 | -0.4 | +2.5 | +2.5 |
 | Proportion of Patients with Shifts to ≥ 126 mg/dL |  |  |  |  |  |  |
 | Serum Glucose (≥ 126 mg/dL) | 8.3% (52/628) | 11.7% (7/60) | 12.7% (57/449) | 6.8% (32/472) | 10.0% (26/260) | 5.6% (6/108) |
 
@@ -121,10 +121,10 @@ Data from the adult short-term, flexible-dose, placebo-controlled monotherapy bi
 
 Table 4: Change in Fasting Glucose in the Adult Monotherapy Bipolar Depression Study
 
-|  |  | LATUDA |  |
-| --- | --- | --- | --- |
-|  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |  |
+| --- | --- | --- | --- |
+|  |  | LATUDA |  |
+|  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |
 |  | n=148 | n=140 | n=143 |
 | Serum Glucose | +1.8 | -0.8 | +1.8 |
 | Proportion of Patients with Shifts to ≥ 126 mg/dL |  |  |  |
@@ -139,10 +139,10 @@ Data from the adult short-term, flexible-dosed, placebo-controlled adjunctive th
 
 Table 5: Change in Fasting Glucose in the Adult Adjunctive Therapy Bipolar Depression Studies
 
-|  |  | LATUDA |
-| --- | --- | --- |
-|  | Placebo | 20 to 120 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |
+| --- | --- | --- |
+|  |  | LATUDA |
+|  | Placebo | 20 to 120 mg/day |
 |  | n=302 | n=319 |
 | Serum Glucose | -0.9 | +1.2 |
 | Proportion of Patients with Shifts to ≥ 126 mg/dL |  |  |
@@ -172,11 +172,11 @@ Pooled data from short-term, placebo-controlled schizophrenia studies are presen
 
 Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
 
-|  |  |  | LATUDA |  |  |  |
+|  | n=660 | n=71 | n=466 | n=499 | n=268 | n=115 |
 | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | LATUDA |  |  |  |
 |  | Placebo | 20 mg/day | 40 mg/day | 80 mg/day | 120 mg/day | 160 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |  |  |  |  |
-|  | n=660 | n=71 | n=466 | n=499 | n=268 | n=115 |
 | Total Cholesterol | -5.8 | -12.3 | -5.7 | -6.2 | -3.8 | -6.9 |
 | Triglycerides | -13.4 | -29.1 | -5.1 | -13.0 | -3.1 | -10.6 |
 | Proportion of Patients with Shifts |  |  |  |  |  |  |
@@ -199,10 +199,10 @@ Data from the adult short-term, flexible-dosed, placebo-controlled, monotherapy 
 
 Table 7: Change in Fasting Lipids in the Adult Monotherapy Bipolar Depression Study
 
-|  |  | LATUDA |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |  |
 | Mean Change from Baseline (mg/dL) |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | LATUDA |  |  |
+|  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |  |
 |  | n=147 | n=140 |  | n=144 |
 | Total cholesterol | -3.2 | +1.2 |  | -4.6 |
 | Triglycerides | +6.0 | +5.6 |  | +0.4 |
@@ -219,10 +219,10 @@ Data from the adult short-term, flexible-dosed, placebo-controlled, adjunctive t
 
 Table 8: Change in Fasting Lipids in the Adult Adjunctive Therapy Bipolar Depression Studies
 
-|  |  | LATUDA |
-| --- | --- | --- |
-|  | Placebo | 20 to 120 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |
+| --- | --- | --- |
+|  |  | LATUDA |
+|  | Placebo | 20 to 120 mg/day |
 |  | n=303 | n=321 |
 | Total cholesterol | -2.9 | -3.1 |
 | Triglycerides | -4.6 | +4.6 |
@@ -273,9 +273,9 @@ The proportion of patients with a ≥7% increase in body weight (at Endpoint) wa
 
 Table 10: Mean Change in Weight (kg) from Baseline in the Adolescent Schizophrenia Study
 
-|  | Placebo (n=111) | LATUDA |  |
-| --- | --- | --- | --- |
 | 40 mg/day (n=109) | 80 mg/day (n=104) |  |  |
+| --- | --- | --- | --- |
+|  | Placebo (n=111) | LATUDA |  |
 | All Patients | +0.2 | +0.3 | +0.7 |
 
 Bipolar Depression
@@ -290,9 +290,9 @@ The proportion of patients with a ≥7% increase in body weight (at Endpoint) wa
 
 Table 11: Mean Change in Weight (kg) from Baseline in the Adult Monotherapy Bipolar Depression Study
 
-|  |  | LATUDA |  |  |
-| --- | --- | --- | --- | --- |
 |  | Placebo (n=151) | 20 to 60 mg/day (n=143) | 80 to 120 mg/day (n=147) |  |
+| --- | --- | --- | --- | --- |
+|  |  | LATUDA |  |  |
 | All Patients | -0.04 | +0.56 |  | +0.02 |
 | Patients were randomized to flexibly dosed LATUDA 20 to 60 mg/day, LATUDA 80 to 120 mg/day, or placebo |  |  |  |  |
 
@@ -306,9 +306,9 @@ The proportion of patients with a ≥7% increase in body weight (at Endpoint) wa
 
 Table 12: Mean Change in Weight (kg) from Baseline in the Adult Adjunctive Therapy Bipolar Depression Studies
 
-|  |  | LATUDA |
-| --- | --- | --- |
 |  | Placebo (n=307) | 20 to 120 mg/day (n=327) |
+| --- | --- | --- |
+|  |  | LATUDA |
 | All Patients | +0.16 | +0.11 |
 | Patients were randomized to flexibly dosed LATUDA 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
 
@@ -322,9 +322,9 @@ The proportion of patients with a ≥7% increase in body weight (at Endpoint) wa
 
 Table 13: Mean Change in Weight (kg) from Baseline in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
-|  |  | LATUDA |
-| --- | --- | --- |
 |  | Placebo (n=170) | 20 to 80 mg/day (n=175) |
+| --- | --- | --- |
+|  |  | LATUDA |
 | All Patients | +0.5 | +0.7 |
 
 Pediatric Patients (6 to 17 years)
@@ -346,7 +346,7 @@ Long-standing hyperprolactinemia, when associated with hypogonadism, may lead to
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a carcinogenicity study conducted with lurasidone in rats and mice [see Nonclinical Toxicology (13)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Schizophrenia
 
@@ -401,9 +401,9 @@ Median changes for prolactin by dose range are shown in Table 16.
 
 Table 16: Median Change in Prolactin (ng/mL) from Baseline in the Adult Monotherapy Bipolar Depression Study
 
-|  |  | LATUDA |  |  |
-| --- | --- | --- | --- | --- |
 |  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |  |
+| --- | --- | --- | --- | --- |
+|  |  | LATUDA |  |  |
 | All Patients | +0.3 (n=147) | +1.7 (n=140) |  | +3.5 (n=144) |
 | Females | 0.0 (n=82) | +1.8 (n=78) |  | +5.3 (n=88) |
 | Males | +0.4 (n=65) | +1.2 (n=62) |  | +1.9 (n=56) |
@@ -423,9 +423,9 @@ Median changes for prolactin across the dose range are shown in Table 17.
 
 Table 17: Median Change in Prolactin (ng/mL) from Baseline in the Adult Adjunctive Therapy Bipolar Depression Studies
 
-|  |  | LATUDA |
-| --- | --- | --- |
 |  | Placebo | 20 to 120 mg/day |
+| --- | --- | --- |
+|  |  | LATUDA |
 | All Patients | 0.0 (n=301) | +2.8 (n=321) |
 | Females | +0.4 (n=156) | +3.2 (n=162) |
 | Males | -0.1 (n=145) | +2.4 (n=159) |
@@ -445,9 +445,9 @@ Median changes for prolactin are shown in Table 18.
 
 Table 18: Median Change in Prolactin (ng/mL) from Baseline in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
-|  |  | LATUDA |
-| --- | --- | --- |
 |  | Placebo | 20 to 80 mg/day |
+| --- | --- | --- |
+|  |  | LATUDA |
 | All Patients | +0.50 (n=157) | +1.10 (n=165) |
 | Females | +0.55 (n=78) | +2.50 (n=83) |
 | Males | +0.50 (n=79) | +0.85 (n=82) |

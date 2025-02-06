@@ -45,7 +45,7 @@ Administration with food increases the AUC approximately 2-fold and increases th
 In the clinical studies, LATUDA was administered with food [see Clinical Pharmacology (12.3)].
 
 The effectiveness of LATUDA for longer-term use, that is, for more than 6 weeks, has not been established in controlled studies.
-Therefore, the physician who elects to use LATUDA for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.1 and 2.2)].
+Therefore, the physician who elects to use LATUDA for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.1and 2.2)].
 
 ## 2.4 Dose Modifications for Renal Impairment
 
