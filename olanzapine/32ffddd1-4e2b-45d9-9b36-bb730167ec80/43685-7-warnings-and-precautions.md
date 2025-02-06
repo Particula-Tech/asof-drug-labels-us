@@ -165,7 +165,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously-detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 In the 4-week placebo-controlled trial, shifts from normal to high prolactin values (>30 ng/mL for females; >20 ng/mL for males) occurred in 41.4% of females and 32.9% of males treated with LYBALVI, in 56.1% of females and 37.1% of males treated with olanzapine, and in 10% of females and 4.8% of males treated with placebo [see Use in Specific Populations (8.3)].
 

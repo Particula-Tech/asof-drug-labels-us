@@ -137,6 +137,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - diabetic coma, diabetic ketoacidosis
 - discontinuation reaction (diaphoresis, nausea or vomiting)
 - Drug reaction with eosinophilia and systemic symptoms (DRESS)
+- fecal incontinence
 - hyperlipidemia (random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported)
 - neutropenia
 - pancreatitis
@@ -145,5 +146,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - restless legs syndrome
 - rhabdomyolysis
 - salivary hypersecretion
+- somnambulism
 - stutteringStuttering was only studied in oral and long acting injection (LAI) formulations.
 - venous thromboembolic events (including pulmonary embolism and deep venous thrombosis)
