@@ -2,12 +2,16 @@
 
 NDC 82260-361-05
 
-Loteprednol Etabonate Ophthalmic Suspension, 0.2% Sterile FOR TOPICAL OPHTHALMIC USE ONLY Rx only
+Loteprednol Etabonate Ophthalmic Suspension, 0.2% Sterile FOR TOPICAL OPHTHALMIC USE ONLY
+
+EYE IMAGE
+
+Rx only
 
 5 mL
 
 BAUSCH + LOMB
 
-9610702
+9610703
 
 MA35307
