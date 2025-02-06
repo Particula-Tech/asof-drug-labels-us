@@ -6,6 +6,7 @@ Fluoroquinolones, including ciprofloxacin, have been associated with disabling a
 Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
 These reactions can occur within hours to weeks after starting ciprofloxacin tablets.
 Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
+
 Discontinue ciprofloxacin tablets immediately at the first signs or symptoms of any serious adverse reaction.
 In addition, avoid the use of fluoroquinolones, including ciprofloxacin, in patients who have experienced any of these serious adverse reactions associated with fluoroquinolones.
 
@@ -65,9 +66,9 @@ Discontinue ciprofloxacin tablets immediately at the first appearance of a skin 
 ## 5.7 Hypersensitivity Reactions
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving fluoroquinolone therapy, including ciprofloxacin.
-Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
+Some reactions were accompanied by cardiovascular collapse, acute myocardial ischemia with or without myocardial infarction, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Only a few patients had a history of hypersensitivity reactions.
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1)].
+Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.8 Hepatotoxicity
 

@@ -2,7 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-Serious Adverse ReactionsAdvise patients to stop taking ciprofloxacin tablets if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
+Serious Adverse Reactions
+
+Advise patients to stop taking ciprofloxacin tablets if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
 Inform patients of the following serious adverse reactions that have been associated with ciprofloxacin tablets or other fluoroquinolone use:
 
 - Disabling and potentially irreversible serious adverse reactions that may occur together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of ciprofloxacin tablets and may occur together in the same patient.
@@ -81,9 +83,11 @@ Rx only
 
 Distributed by:
 
-Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+Rising Pharma Holdings, Inc.
 
-137849
+East Brunswick, NJ 08816
 
-Revised: Oct.
-2023 Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf
+140571
+
+Revised: Jan.
+2025 Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf

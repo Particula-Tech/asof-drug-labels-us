@@ -263,8 +263,7 @@ These can be signs of a serious reaction to ciprofloxacin tablets (a liver probl
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   CDAD can happen 2 or more months after you have finished your antibacterial medicine.
-- Serious heart rhythm changes (QT prolongation and torsade de pointes).
-  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you faint.
+- Serious heart rhythm changes (QT prolongation and torsade de pointes).Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you faint.
   Ciprofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this event are higher in people:
@@ -329,7 +328,7 @@ Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
 For more information, call 1-844-874-7464.
 
-137849
+140583
 
-Revised: Oct.
-2023
+Revised: Jan.
+2025

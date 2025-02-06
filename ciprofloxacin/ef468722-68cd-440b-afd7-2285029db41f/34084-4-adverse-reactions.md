@@ -27,7 +27,7 @@ Adult Patients
 During clinical investigations with oral and parenteral ciprofloxacin, 49,038 patients received courses of the drug.
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
-Table 8: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
+Table 8: Medically Important Adverse Reactions That Occurred in less than 1% of Ciprofloxacin Patients
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
@@ -105,7 +105,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 | Table 10: Postmarketing Reports of Adverse Drug Reactions |  |
 | --- | --- |
 | System Organ Class | Adverse Reactions |
-| Cardiovascular | QT prolongation Torsade de Pointes Vasculitis and ventricular arrhythmia |
+| Cardiovascular | QT prolongation Torsade de Pointes Vasculitis and ventricular arrhythmiaAcute myocardial ischemia with or without myocardial infarction occuring as part of an allergic reaction |
 | Central Nervous System | Hypertonia Myasthenia Exacerbation of myasthenia gravis Peripheral neuropathy Polyneuropathy Twitching |
 | Eye Disorders | Nystagmus |
 | Gastrointestinal | Pseudomembranous colitis |
@@ -121,6 +121,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 ## 6.3 Adverse Laboratory Changes
 
 Changes in laboratory parameters while on ciprofloxacin are listed below: Hepatic–Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+
 Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
+
 Renal–Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

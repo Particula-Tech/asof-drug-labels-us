@@ -55,6 +55,7 @@ Urinary Tract Infections in Adults Ciprofloxacin is indicated in adult patients 
 Acute Uncomplicated Cystitis Ciprofloxacin is indicated in adult female patients for treatment of acute uncomplicated cystitis caused by Escherichia coli or Staphylococcus saprophyticus.
 Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)] and for some patients acute uncomplicated cystitis is self-limiting, reserve ciprofloxacin tablets for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
 Complicated Urinary Tract Infection and Pyelonephritis in Pediatric Patients Ciprofloxacin is indicated in pediatric patients aged one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Use in Specific Populations (8.4)].
+
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues.
 Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.13), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 

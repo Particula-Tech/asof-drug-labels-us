@@ -82,12 +82,6 @@ Efficacy studies of ciprofloxacin could not be conducted in humans with pneumoni
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
 The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.3)].
 
-## 8.6 Renal Impairment
-
-Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
-These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
-Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
-
 ## 8.5 Geriatric Use
 
 Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin.
@@ -95,7 +89,9 @@ This risk is further increased in patients receiving concomitant corticosteroid 
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing ciprofloxacin to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential adverse reaction and advised to discontinue ciprofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
+
 Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
+
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin-treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
@@ -104,6 +100,12 @@ However, since some older individuals experience reduced renal function by virtu
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ciprofloxacin with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].
+
+## 8.6 Renal Impairment
+
+Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
+These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
+Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
