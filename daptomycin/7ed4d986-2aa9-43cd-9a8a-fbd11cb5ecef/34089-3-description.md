@@ -6,15 +6,15 @@ The chemical structure is:
 
 The empirical formula is C72H101N17O26; the molecular weight is 1620.67.
 
-Daptomycin in Sodium Chloride Injection is a single-dose frozen, premixed, iso-osmotic, sterile, nonpyrogenic solution containing either 350 milligrams or 500 milligrams of daptomycin, per 50 mL GALAXY container (PL 2040 Plastic); or 700 milligrams or 1,000 milligrams daptomycin, per 100 mL GALAXY container (PL 2040 Plastic).
-Daptomycin in Sodium Chloride Injection must be a clear, slightly yellow solution.
-Sodium Chloride, USP (0.9%) has been added to adjust osmolality.
+Daptomycin in Sodium Chloride Injection is a single-dose frozen, premixed, iso-osmotic, sterile, nonpyrogenic solution.
+Daptomycin in Sodium Chloride Injection must be clear, slightly yellow solution.
+Each milliliter contains either 7 milligrams or 10 milligrams of daptomycin, 0.55 milligrams Dibasic Sodium Phosphate, USP and 0.435 milligrams Monobasic Sodium Phosphate, USP as buffer agents, and 9 milligrams Sodium Chloride, USP as a tonicity agenty.
 The approximate osmolality is 320 mOsmol/kg.
-Monobasic Sodium Phosphate, USP and Dibasic Sodium Phosphate, USP were added as buffer agents and the pH may have been adjusted with Hydrochloric Acid, NF and/or Sodium Hydroxide, NF.
-Water for Injection, USP is added as drug vehicle.
+The pH may have been adjusted with Hydrochloric Acid, NF and/or Sodium Hydroxide, NF.
+Water for Injection, USP is added as solvent.
 Contains no preservative.
 The solution is intended for intravenous use after thawing to room temperature.
 
-This GALAXY container (PL 2040 Plastic) is fabricated from a specially designed multilayer plastic (PL 2040).
+This GALAXY container is fabricated from a specially designed multilayer plastic.
 Solutions are in contact with the polyethylene layer of this container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.
 However, the suitability of the plastic has been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies.
