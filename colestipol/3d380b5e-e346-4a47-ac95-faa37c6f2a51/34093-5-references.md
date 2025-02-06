@@ -35,9 +35,9 @@
 
 Rx only
 
-Manufactured by: Bora Pharmaceutical Laboratories Inc. Jhunan, Taiwan
+Manufactured by: Bora Pharmaceutical Laboratories Inc. Zhunan, Taiwan
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-LA-3097-01 Rev.
-11/2022
+LA-3097-02 Rev.
+08/2024
