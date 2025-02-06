@@ -76,7 +76,7 @@ Table 4: Recommended Dosage of Atazanavir Capsules and Ritonavir in Pregnant Pat
 
 For patients with renal impairment, including those with severe renal impairment who are not managed with hemodialysis, no dose adjustment is required for atazanavir capsules.
 Treatment-naive patients with end-stage renal disease managed with hemodialysis should receive atazanavir capsules 300 mg with ritonavir 100 mg.
-Atazanavir capsules are not recommended in treatment-experienced patients with HIV-1 infection who have end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.7)].
+Atazanavir capsules are not recommended in treatment-experienced patients with HIV-1 who have end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.7)].
 
 ## 2.8 Dosage Adjustments in Patients with Hepatic Impairment
 

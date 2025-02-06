@@ -26,7 +26,7 @@ Discontinuation of atazanavir may be necessary as part of the medical management
 Drug Interactions
 
 Atazanavir may lead to significant interaction with some drugs; therefore, advise patients to report the use of any other prescription, nonprescription medication, or herbal products, particularly St. John’s wort, to their healthcare provider prior to use [see Contraindications (4), Warnings and Precautions (5.7)].
-Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.10)].
+Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV-1, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV-1 treatment is started [see Warnings and Precautions (5.10)].
 
 Fat Redistribution
 
@@ -43,7 +43,5 @@ Pregnancy
 
 Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in pregnant patients exposed to atazanavir during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry [see Use in Specific Populations (8.1)].
-Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
-Atazanavir can also be passed to the baby in breast milk, and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2024
+Lactation Instruct patients with HIV-1 that the potential risks of breastfeeding include: (1) HIV-1 transmission to infants without HIV-1, (2) developing viral resistance in infants with HIV-1, and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2025
