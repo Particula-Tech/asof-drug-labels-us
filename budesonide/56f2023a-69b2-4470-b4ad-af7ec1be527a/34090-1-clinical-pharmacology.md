@@ -113,7 +113,7 @@ Co-administration of cimetidine resulted in a 52% and 31% increase in the budeso
 
 Effect of Budesonide on Other Drugs
 
-Budesonide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP2D6 in vitro.
-Budesonide is not an inducer of CYP3A4, CYP1A2 or CYP2B6 at clinically relevant concentrations.
+Budesonide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6 in vitro.
+Budesonide is not an inducer of CYP3A4, CYP1A2, or CYP2B6 at clinically relevant concentrations.
 
 In vitro, budesonide is not a significant inhibitor of P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, or OCT2 at clinically relevant concentrations.

@@ -51,15 +51,16 @@ Throw away (discard) the empty EOHILIA packet in the household trash.
 
 For more information, go to www.EOHILIA.com or call 1-877-TAKEDA-7 (1-877-825-3327).
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-EOHILIA and the EOHILIA Logo are trademarks of ViroPharma Biologics LLC.
+EOHILIA and are trademarks of ViroPharma Biologics LLC.
 
-TAKEDA and the TAKEDA Logo are registered trademarks of Takeda Pharmaceutical Company Limited.
+TAKEDA and are registered trademarks of Takeda Pharmaceutical Company Limited.
 
-©2024 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+©2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 5/2024
 
-EOH357 R2
+Revised: 1/2025
+
+EOH357 R4

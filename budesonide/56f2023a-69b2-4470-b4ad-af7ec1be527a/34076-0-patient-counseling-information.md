@@ -55,12 +55,12 @@ Distributed by:
 
 Takeda Pharmaceuticals America, Inc.
 
-Lexington, MA 02421
+Cambridge, MA 02142
 
-EOHILIA and the EOHILIA Logo are trademarks of ViroPharma Biologics LLC.
+EOHILIA and are trademarks of ViroPharma Biologics LLC.
 
-TAKEDA and the TAKEDA Logo are registered trademarks of Takeda Pharmaceutical Company Limited.
+TAKEDA and are registered trademarks of Takeda Pharmaceutical Company Limited.
 
-© 2024 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+©2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
-EOH357 R2
+EOH357 R4
