@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219141"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-522-10"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "hydrochlorothiazide",
+      "name": "INZIRQO"
+    }
+  ],
+  "setid": "41aaea48-6c1b-42c8-a96f-5923d49dc934",
+  "source": "dailymed"
+}
