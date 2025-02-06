@@ -8,13 +8,13 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-INVEGA HAFYERA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.2)].
+INVEGA HAFYERA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 No studies have been conducted with oral paliperidone, the 1-month paliperidone palmitate extended-release injectable suspension, the 3-month paliperidone extended-release injectable suspension or INVEGA HAFYERA in elderly patients with dementia.
-These medications are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)].
+These medications are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -31,7 +31,7 @@ Paliperidone causes a modest increase in the corrected QT (QTc) interval.
 The use of paliperidone should be avoided in combination with other drugs that are known to prolong QTc including Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval.
 Paliperidone should also be avoided in patients with congenital long QT syndrome and in patients with a history of cardiac arrhythmias.
 
-Certain circumstances may increase the risk of the occurrence of Torsades de pointesand/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
+Certain circumstances may increase the risk of the occurrence of Torsades de pointes and/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
 
 The effects of paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter Thorough QT study with oral paliperidone in adult patients, and in four fixed-dose efficacy studies and one maintenance study of the 1-month paliperidone palmitate injectable product.
 
@@ -166,7 +166,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Median prolactin levels remained relatively stable throughout the open-label and double-blind phases in male subjects, whereas in female subjects, median prolactin levels increased.
 During the double-blind phase, median prolactin levels continued to increase after dosing in both the INVEGA HAFYERA and PP3M groups, returning to baseline level at Month 6 and at Month 12 (end of double-blind phase).

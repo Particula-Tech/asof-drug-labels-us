@@ -13,7 +13,7 @@ Important
 | --- | --- |
 
 INVEGA HAFYERA must be administered by a healthcare professional as a single injection.
-Do notdivide dose into multiple injections.
+Do not divide dose into multiple injections.
 INVEGA HAFYERA is intended for gluteal intramuscular use only.
 Inject slowly, deep into the muscle taking care to avoid injection into a blood vessel.
 
@@ -43,7 +43,7 @@ Check suspension for solid product
 
 |  | Uniform, thick and milky whiteIt is normal to see air bubbles | Solid product on sides and top of syringeUneven mixThin liquid |
 | --- | --- | --- |
-|  |  | Product may clog.Shake syringe with the syringe tip cap pointing up VERY FAST for at least 15 seconds, rest, then shake again for 15 seconds. |
+|  |  | Product may clog. Shake syringe with the syringe tip cap pointing up VERY FAST for at least 15 seconds, rest, then shake again for 15 seconds. |
 
 Open needle pouch Peel off the pouch cover.
 Place pouch with the needle inside on a clean surface.
@@ -54,21 +54,22 @@ Attach the safety needle to the syringe using a gentle twisting motion to avoid 
 Always check for signs of damage or leakage prior to administration.
 
 Pull back plunger Hold the syringe upright.
-Gently pull back the plunger to clear the syringe tip of any solid product.This will make pressing the plunger easier during the injection.
+Gently pull back the plunger to clear the syringe tip of any solid product.
+This will make pressing the plunger easier during the injection.
 Remove air bubbles Press the plunger carefully until a drop of liquid comes out of the needle tip.
 
 1. Slowly inject entire content and confirm
 
-|  | Select and clean a gluteal injection site Wipe the gluteal site with an alcohol swab and allow it to dry. Do not touch,fan or blow on the injection site after you have cleaned it. |
+|  | Select and clean a gluteal injection site Wipe the gluteal site with an alcohol swab and allow it to dry. Do not touch, fan or blow on the injection site after you have cleaned it. |
 | --- | --- |
-|  | Remove needle sheath Pull the needle sheath away from the needle in a straight motion. Do nottwist the sheath, as this may loosen the needle from the syringe. |
+|  | Remove needle sheath Pull the needle sheath away from the needle in a straight motion. Do not twist the sheath, as this may loosen the needle from the syringe. |
 |  | Slowly inject and confirm Use slow, firm, consistent pressure to press the plunger completely. This should take approximately 30 seconds. Continue to press the plunger if you feel resistance. This is normal. While the needle is in the gluteal muscle, confirm that the entire content of the syringe has been injected. Remove needle from the muscle. |
 
 1. After the injection
 
 |  | Secure needle After the injection is complete, use your thumb or a flat surface to secure the needle in the safety device. The needle is secure when you hear a "click" sound. |
 | --- | --- |
-|  | Dispose of properly and check injection site Dispose of the syringe in an approved sharps container. There may be a small amount of blood or liquid at the injection site. Hold pressure over the skin with a cotton ball or gauze pad until any bleeding stops. Do notrub the injection site. If needed, cover injection site with a bandage. |
+|  | Dispose of properly and check injection site Dispose of the syringe in an approved sharps container. There may be a small amount of blood or liquid at the injection site. Hold pressure over the skin with a cotton ball or gauze pad until any bleeding stops. Do not rub the injection site. If needed, cover injection site with a bandage. |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Revised: 9/2024 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560

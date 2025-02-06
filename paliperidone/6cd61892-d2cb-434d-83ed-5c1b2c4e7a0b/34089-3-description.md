@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-INVEGA HAFYERA ®contains a racemic mixture of (+)- and (-)- paliperidone palmitate.
+INVEGA HAFYERA ® contains a racemic mixture of (+)- and (-)- paliperidone palmitate.
 Paliperidone palmitate is an atypical antipsychotic belonging to the chemical class of benzisoxazole derivatives.
 The chemical name is (9 RS)-3-[2-[4-(6-Fluoro-1,2-benzisoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-4-oxo-6,7,8,9-tetrahydro-4 H-pyrido[1,2- a]pyrimadin-9-yl hexadecanoate.
-Its molecular formula is C 39H 57FN 4O 4and its molecular weight is 664.89.
+Its molecular formula is C 39H 57FN 4O 4 and its molecular weight is 664.89.
 The structural formula is:
 
 Paliperidone palmitate is very slightly soluble in ethanol and methanol, practically insoluble in polyethylene glycol 400 and propylene glycol, and slightly soluble in ethyl acetate.

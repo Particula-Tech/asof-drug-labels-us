@@ -125,7 +125,7 @@ Incomplete Administration
 
 | Administer every 6 months | INVEGA HAFYERA (paliperidone palmitate) Shake syringe with the syringe tip cap pointing up VERY FAST for at least 15 seconds, rest briefly, then shake again for 15 seconds. For Gluteal Intramuscular injection only. |
 | --- | --- |
-| Preparation | INVEGA HAFYERA requires longer and faster shakingthan once-a-month paliperidone palmitate extended-release injectable suspension (e.g., INVEGA SUSTENNA). INVEGA HAFYERA must be administered by a healthcare professional as a single injection. Do not divide dose into multiple injections. INVEGA HAFYERA is intended for gluteal intramuscular use only. Inject slowly, deep into the muscle taking care to avoid injection into a blood vessel. |
+| Preparation | INVEGA HAFYERA requires longer and faster shaking than once-a-month paliperidone palmitate extended-release injectable suspension (e.g., INVEGA SUSTENNA). INVEGA HAFYERA must be administered by a healthcare professional as a single injection. Do not divide dose into multiple injections. INVEGA HAFYERA is intended for gluteal intramuscular use only. Inject slowly, deep into the muscle taking care to avoid injection into a blood vessel. |
 | Dosing | Administer INVEGA HAFYERA once every 6 months. |
 | Thin Wall Safety Needle | Thin wall safety needle is designed to be used with INVEGA HAFYERA. Therefore, it is important to only use the needle provided in the INVEGA HAFYERA suspension kit. |
 | Dose pack contents Prefilled Syringe |  |
@@ -143,7 +143,7 @@ Incomplete Administration
 | --- | --- | --- | --- |
 | Remove syringe tip cap and attach needle | Hold the syringe with the tip cap pointing up. Twist and pull off the cap. Attach the safety needle to the syringe using a gentle twisting motion to avoid needle hub cracks or damage. Always check for signs of damage or leakage prior to administration. |  |  |
 
-| Pull back plunger Hold the syringe upright. Gently pull back the plunger to clear the syringe tip of any solid product.This will make pressing the plunger easier during the injection. |  |
+| Pull back plunger Hold the syringe upright. Gently pull back the plunger to clear the syringe tip of any solid product. This will make pressing the plunger easier during the injection. |  |
 | --- | --- |
 | Remove air bubbles Press the plunger carefully until a drop of liquid comes out of the needle tip. |  |
 | 2. Slowly inject entire content and confirm |  |
