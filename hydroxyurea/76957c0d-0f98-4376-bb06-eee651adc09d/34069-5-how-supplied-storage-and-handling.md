@@ -7,8 +7,8 @@ Each bottle containing SIKLOS 100 mg tablets or SIKLOS 1000 mg tablets is suppli
 
 SIKLOS is supplied in the following strengths:
 
-- - 100 mg off-white, capsule-shaped, film-coated, functionally scored tablet with scoring on both sides which can be divided into two equal parts, each part is debossed with "H" on one side.
-- - 1,000 mg off-white, capsule-shaped, film-coated, functionally triple-scored tablet with scoring on both sides which can be divided into four equal parts, each part is debossed with "T" on one side.
+- 100 mg off-white, capsule-shaped, film-coated, functionally scored tablet with scoring on both sides which can be divided into two equal parts, each part is debossed with "H" on one side.
+- 1,000 mg off-white, capsule-shaped, film-coated, functionally triple-scored tablet with scoring on both sides which can be divided into four equal parts, each part is debossed with "T" on one side.
 
 |  | Bottles of 30 | Bottles of 60 |
 | --- | --- | --- |

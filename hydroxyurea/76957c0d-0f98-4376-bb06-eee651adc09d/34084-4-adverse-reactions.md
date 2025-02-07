@@ -114,7 +114,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Blood and lymphatic system disorders: macrocytosis, hemolytic anemia in patients who are treated with hydroxyurea for myeloproliferative disorders.
-- Gastrointestinal disorders: vomiting, gastrointestinal ulcer, severe hypomagnesemia
-- Hepatobiliary disorders: elevation of hepatic enzymes
-- Skin and subcutaneous tissue disorders: skin reactions (oral, ungula and cutaneous pigmentation), oral mucositis, rash, melanonychia,
+- Gastrointestinal disorders:vomiting, gastrointestinal ulcer, severe hypomagnesemia
+- Hepatobiliary disorders:elevation of hepatic enzymes
+- Skin and subcutaneous tissue disorders:skin reactions (oral, ungula and cutaneous pigmentation), oral mucositis, rash, melanonychia,
 - Reproductive system and breast disorders: oligospermia, azoospermia, amenorrhea

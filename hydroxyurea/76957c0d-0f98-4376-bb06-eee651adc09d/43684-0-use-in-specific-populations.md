@@ -7,7 +7,7 @@ Risk Summary
 SIKLOS can cause fetal harm based on findings from animal studies and the drug's mechanism of action [see Clinical Pharmacology (12.1)].
 There are no studies with the use of SIKLOS in pregnant women, and limited available data on SIKLOS use during pregnancy are insufficient to inform drug-associated risks.
 Drugs which affect DNA synthesis, such as hydroxyurea, may be potential mutagenic agents.
-In animal reproduction studies, administration of hydroxyurea to pregnant rats and rabbits during organogenesis produced embryotoxic and teratogenic effects at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis.
+In animal reproduction studies, administration of hydroxyurea to pregnant rats and rabbits during organogenesis produced embryotoxic and teratogenic effects at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m 2basis.
 In rats and rabbits, fetal malformations were observed with partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, and missing lumbar vertebrae.
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays (see Data).
 Advise pregnant women of the potential risk to a fetus (see Clinical Considerations).
@@ -39,11 +39,11 @@ Among the 13 cases with known evolution, 5 pregnancies had no adverse developmen
 
 Animal Data
 
-Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models, including mice, hamsters, cats, miniature swine, dogs, and monkeys at doses within 1-fold of the human dose given on a mg/m2 basis.
-Hydroxyurea is embryotoxic and causes fetal malformations (partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae) at 180 mg/kg/day (about 0.8 times the maximum recommended human daily dose on a mg/m2 basis) in rats and at 30 mg/kg/day (about 0.3 times the maximum recommended human daily dose on a mg/m2 basis) in rabbits.
+Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models, including mice, hamsters, cats, miniature swine, dogs, and monkeys at doses within 1-fold of the human dose given on a mg/m 2basis.
+Hydroxyurea is embryotoxic and causes fetal malformations (partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae) at 180 mg/kg/day (about 0.8 times the maximum recommended human daily dose on a mg/m 2basis) in rats and at 30 mg/kg/day (about 0.3 times the maximum recommended human daily dose on a mg/m 2basis) in rabbits.
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays.
 Hydroxyurea crosses the placenta.
-Single doses of ≥375 mg/kg (about 1.7 times the maximum recommended human daily dose on a mg/m2 basis) to rats caused growth retardation and impaired learning ability.
+Single doses of ≥375 mg/kg (about 1.7 times the maximum recommended human daily dose on a mg/m 2basis) to rats caused growth retardation and impaired learning ability.
 
 ## 8.2 Lactation
 
@@ -78,7 +78,7 @@ Males
 
 Based on findings in animals and humans, male fertility may be compromised by treatment with SIKLOS.
 Azoospermia or oligospermia, sometimes reversible, has been observed in men.
-Before the start of therapy, inform male patients about the possibility of sperm conservation [see Adverse Reactions (6) and Nonclinical Toxicology (13.1)].
+Before the start of therapy, inform male patients about the possibility of sperm conservation [see Adverse Reactions (6)and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -95,7 +95,7 @@ The safety and effectiveness of SIKLOS have not been established in pediatric pa
 ## 8.6 Renal Impairment
 
 The exposure to SIKLOS is higher in patients with creatinine clearance of less than 60 mL/min.
-Reduce dosage and closely monitor the hematologic parameters when SIKLOS is to be administered to these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Reduce dosage and closely monitor the hematologic parameters when SIKLOS is to be administered to these patients [see Dosage and Administration (2.2)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

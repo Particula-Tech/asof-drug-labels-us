@@ -13,7 +13,7 @@ Among pediatric patients not previously treated with hydroxyurea prior to enroll
 
 Table 4: Comparison of SCD Events in the First Year of Treatment with SIKLOS with SCD Events in the 12 Months Prior to Enrollment – ESCORT HU Trial (N=141) in Pediatric Patients
 
-| In the 12 months prior to enrolment | After 12 months of Siklos® treatment | Change |  |
+| In the 12 months prior to enrolment | After 12 months of Siklos ®treatment | Change |  |
 | --- | --- | --- | --- |
 | SCD events | Patients under 18 years old previously not treated with hydroxyurea with at least 12 months follow-up data available for clinical efficacy (N=141) |  |  |
 | Number of patients with at least one vaso-occlusive episode (in 120 evaluable patients) |  |  |  |
@@ -48,7 +48,7 @@ Table 5 provides the efficacy results for ESCORT-HU.
 
 Table 5: Comparison of SCD Events in the First Year of Treatment with SIKLOS with SCD Events in the 12 Months Prior to Enrollment – ESCORT HU Trial (N=370) in Adult Patients
 
-| In the 12 months prior to enrolment | After 12 months of Siklos® treatment | Change |  |
+| In the 12 months prior to enrolment | After 12 months of Siklos ®treatment | Change |  |
 | --- | --- | --- | --- |
 | SCD events | Adult Patients previously not treated with hydroxyurea with at least 12 months follow-up data available for clinical efficacy (N=369) |  |  |
 | Number of patients with at least one vaso-occlusive episode (in 367 evaluable patients) |  |  |  |

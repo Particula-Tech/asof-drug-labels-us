@@ -52,7 +52,7 @@ Patients with normal renal function (creatinine clearance [CrCl] >80 mL/min), mi
 Creatinine clearance values were obtained using 24-hour urine collections.
 Patients with ESRD received two doses of 15 mg/kg separated by 7 days; the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
 The exposure to hydroxyurea (mean AUC) in patients with CrCl <60 mL/min and those with ESRD was 64% higher than in patients with normal renal function (CrCl >60 mL/min).
-Reduce the dose of SIKLOS when it is administered to patients with creatinine clearance of <60 mL/min or with ESRD following hemodialysis [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Reduce the dose of SIKLOS when it is administered to patients with creatinine clearance of <60 mL/min or with ESRD following hemodialysis [see Dosage and Administration (2.2)and Use in Specific Populations (8.6)].
 
 Patients with Hepatic impairment
 
