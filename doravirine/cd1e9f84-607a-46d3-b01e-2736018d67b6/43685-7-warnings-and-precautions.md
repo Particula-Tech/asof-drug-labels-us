@@ -56,7 +56,9 @@ Total body BMD gain was less in the TDF-treated pediatric participants living wi
 Similar trends were observed in chronic HBV-infected pediatric participants 2 years to less than 18 years of age.
 In all pediatric trials, normal skeletal growth (height) was not affected for the duration of the clinical trials.
 
-The effects of TDF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
+The effects of TDF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in adults and pediatric participants 2 years and older are unknown.
+The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients, and in particular, the effects of long-duration exposure in younger children are unknown.
+
 Assessment of BMD should be considered for adult and pediatric patients living with HIV who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial in all patients.
 If bone abnormalities are suspected, then appropriate consultation should be obtained.

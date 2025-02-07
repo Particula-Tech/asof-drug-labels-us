@@ -4,7 +4,7 @@ For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2018-2024 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+Copyright © 2018-2025 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
 All rights reserved.
 
-uspi-mk1439a-t-2411r007
+uspi-mk1439a-t-2501r008
