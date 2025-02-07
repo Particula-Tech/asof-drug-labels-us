@@ -17,4 +17,4 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 This cream contains mineral oil that may weaken latex or rubber products such as condoms or vaginal contraceptive diaphragms.
 Therefore, the use of such barrier contraceptives is not recommended concurrently or for 5 days following treatment with Clindesse.
-During this time period, condoms may not be reliable for preventing pregnancy or for protecting against transmission of HIV and other sexually transmitted diseases.
+During this time period, condoms may not be reliable for preventing pregnancy or for protecting against transmission of HIV and other sexually transmitted diseases [see Use in Specific Populations (8.3)].

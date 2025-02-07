@@ -1,155 +1,18 @@
 # Patient Information
 
-Patient Information
+| PATIENT INFORMATIONClindesse (clin-DESS)(clindamycin phosphate)Vaginal Cream, 2% |
+| --- |
+| Important Information: Clindesse is for intravaginal use only. Do not use in the eyes, mouth, or on your skin. |
+| What is Clindesse?• Clindesse vaginal cream is a prescription medicine used to treat bacterial vaginal infections in women who are not pregnant.• It is not known if Clindesse is safe and effective in females who have not yet reached puberty. |
+| Do not use Clindesse if you:• are allergic to clindamycin or other lincosamide antibiotic medicines or are allergic to any of the ingredients in Clindesse. See the end of this leaflet for a complete list of ingredients in Clindesse.• have had bowel problems such as: ◦ inflammation of your intestines (enteritis) ◦ inflammation of your colon (colitis) ◦ diarrhea due to a Clostridioides difficile-associated diarrhea (CDAD) |
+| Before using Clindesse, tell your healthcare provider about all of your medical conditions, including if you:• are pregnant or plan to become pregnant. It is not known if Clindesse will harm your unborn baby. Tell your healthcare provider if you become pregnant during treatment with Clindesse.• are breastfeeding or plan to breastfeed. The amount of Clindesse which passes into your breast milk is low and is not expected to harm your baby. Talk with your healthcare provider about the best way to feed your baby while using Clindesse.Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |
+| How should I use Clindesse?• Use Clindesse exactly as your healthcare provider tells you to use it.• Use 1 filled applicator of Clindesse in the vagina at any time of the day.• Do not use any medicine from the tube or applicator more than 1 time. Clindesse is for 1 time (single-use) only.• Do not use Clindesse in the eyes, mouth, or on your skin. If you accidently get Clindesse in your eyes rinse your eyes with cool tap water right away and call your healthcare provider.• See the Instructions for Use at the end of this Patient Information leaflet for more information about how to fill the applicator and use Clindesse. |
+| What should I avoid while using Clindesse?After you insert Clindesse:• Do not have vaginal sex or use vaginal products (such as tampons or douches) during your treatment.• Do not use barrier contraceptive products during your treatment or for 5 days after your treatment. ◦ Barrier contraceptives include condoms or contraceptive diaphragms used for birth control or to protect yourself against Human Immunodeficiency Virus (HIV) or other sexually transmitted diseases (STDs). ◦ Clindesse contains mineral oil that may weaken latex or rubber products in condoms or vaginal contraceptive diaphragms. ◦ Condoms or vaginal contraceptive diaphragms may not work as well for preventing pregnancy, or for protecting against HIV and other STDs. |
+| What are the possible side effects of Clindesse?Clindesse may cause serious side effects, including diarrhea. One type of diarrhea is caused by an infection in your intestines called Clostridioides difficile-associated diarrhea (CDAD), which may range in severity from mild diarrhea to colitis that can lead to death. If you have diarrhea after you use Clindesse, call your healthcare provider.The most common side effects of Clindesse include:• fungal infection in your vagina that may require treatment with an antifungal medicine.• headache• back pain• constipation• urinary tract infectionTell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all of the possible side effects of Clindesse. For more information, ask your healthcare provider or pharmacist.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store Clindesse?• Store Clindesse between 68°F to 77°F (20°C to 25°C).Keep Clindesse and all medicines out of the reach of children. |
+| General information about the safe and effective use of Clindesse.Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet. Do not use Clindesse for a condition for which it was not prescribed. Do not give Clindesse to other people, even if they have the same symptoms you have. It may harm them.You can ask your pharmacist or healthcare provider for information about Clindesse that is written for health professionals. |
+| What are the ingredients in Clindesse?Active ingredient: clindamycin phosphateInactive ingredients: edetate disodium, glycerol monoisostearate, lecithin, methylparaben, microcrystalline wax, mineral oil, polyglyceryl-3-oleate, propylparaben, purified water, silicon dioxide and sorbitol solution.For more information, go to www.clindesse.com or call 1-866-634-9120 |
 
-Clindesse (clin-DESS)
+This Patient Information has been approved by the U.S. Food and Drug Administration
 
-(clindamycin phosphate)
-
-Vaginal Cream, 2%
-
-For vaginal use only.
-
-Do not put Clindesse in your eyes, mouth, or on your skin.
-
-Read this patient information before you start using Clindesse.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-
-What is Clindesse?
-
-Clindesse is a vaginal cream medicine used to treat bacterial vaginal infections in women who are not pregnant.
-
-It is not known if Clindesse is safe and effective in pregnant women.
-
-It is not known if Clindesse is safe and effective in females who have not yet reached puberty.
-
-Who should not use Clindesse?
-
-Do not use Clindesse if you:
-
-- •have had an allergic reaction to clindamycin or other lincosamide antibiotic medicines or are allergic to any of the ingredients in Clindesse.
-  See the end of this leaflet for a complete list of ingredients in Clindesse.
-- •have had bowel problems such as:
-  - ∘inflammation of your intestines (enteritis)
-  - ∘inflammation of your colon (colitis)
-  - ∘diarrhea due to a Clostridioides difficile infection (CDAD)
-
-Talk to your healthcare provider before using this medicine if you have any of these conditions.
-
-What should I tell my healthcare provider before using Clindesse?
-
-Before you use Clindesse, tell your healthcare provider if you:
-
-- •are pregnant or plan to become pregnant.
-  It is not known if Clindesse will harm your unborn baby.
-- •are breastfeeding or plan to breastfeed.
-  It is not known if Clindesse passes into your breast milk.
-  You and your healthcare provider should decide if you will take Clindesse or breast feed.
-
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
-Clindesse may affect how other medicines work, and other medicines may affect how Clindesse works.
-
-Know the medicines you take.
-Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
-
-How should I use Clindesse?
-
-- •Use Clindesse exactly as your healthcare provider tells you.
-- •Insert Clindesse in the vagina one time.
-  See the “Patient Instructions for Use” at the end of this leaflet.
-- •Insert all of the Clindesse cream into your vagina.
-- •Do not use Clindesse after the expiration date on the package.
-- •Do not get Clindesse in your eyes.
-  If you accidently get Clindesse in your eyes rinse your eyes with cool tap water right away and call your healthcare provider.
-
-What should I avoid while using Clindesse?
-
-After you insert Clindesse you should:
-
-- •not have vaginal intercourse or use of other vaginal products (such as tampons or douches) for at least 7 days.
-- •not use barrier contraceptive products for 5 days.
-  Barrier contraceptives include condoms or contraceptive diaphragms used for birth control or to protect yourself against HIV or other sexually transmitted diseases.
-  Clindesse contains mineral oil that may weaken latex or rubber products such as condoms or vaginal contraceptive diaphragms.
-
-What are the possible side effects of Clindesse?
-
-Clindesse may cause serious side effects, including diarrhea.
-One type of diarrhea is caused by an infection in your intestines called Clostridioides difficile-associated diarrhea (CDAD).
-If you have diarrhea after you use Clindesse, call your healthcare provider.
-
-The most common side effects of Clindesse include:
-
-- •fungal infection in your vagina.
-  You may need to take an anti-fungal medicine if you get a fungal infection.
-- •headache
-- •back pain
-- •constipation
-- •urinary tract infection
-
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-
-These are not all of the possible side effects of Clindesse.
-For more information, ask your healthcare provider or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store Clindesse?
-
-- •Store Clindesse at 68°F to 77°F (20°C to 25°C).
-- •Keep Clindesse and all medicines out of the reach of children.
-
-General information about the safe and effective use of Clindesse.
-
-Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
-Do not use Clindesse for a condition for which it was not prescribed.
-Do not give Clindesse to other people, even if they have the same symptoms you have.
-It may harm them.
-
-This leaflet summarizes the most important information about Clindesse.
-If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about Clindesse that is written for health professionals.
-
-For more information, go to www.clindesse.com or call 1-866-634-9120
-
-What are the ingredients in Clindesse?
-
-Active ingredient: clindamycin phosphate
-
-Inactive ingredients: edetate disodium, glycerol monoisostearate, lecithin, methylparaben, microcrystalline wax, mineral oil, polyglyceryl-3-oleate, propylparaben, purified water, silicon dioxide and sorbitol solution
-
-Patient Instructions for Use
-
-For vaginal use only.
-
-Do not put Clindesse in your eyes, mouth, or on your skin.
-
-It is important that you read and follow these directions on how to use Clindesse vaginal cream properly.
-
-Clindesse comes in a single-dose, pre-filled, disposable applicator that gives you a certain amount of clindamycin cream to be inserted into your vagina.
-
-Step 1.
-Prepare the applicator.
-
-- •Peel back the protective foil and remove the pre-filled applicator.
-  Do not remove the tip.
-  The applicator is made to be used with the tip in place.
-  Do not use the applicator if the tip has been removed (see Figure 1).
-
-- •Activate the plunger before you use it.
-  To activate the plunger, pull the ring back to fully extend the plunger while you firmly hold the applicator (see Figure 2).
-
-Step 2.
-Insert the applicator.
-
-- •Gently insert the applicator into your vagina as far as it will comfortably go (see Figure 3).
-
-Step 3.
-Apply the cream.
-
-Push the plunger in until all of the cream goes into your vagina (see Figures 4 and 5).
-
-Step 4.
-Remove the empty applicator from your vagina and throw it away in the trash.
+01/2025

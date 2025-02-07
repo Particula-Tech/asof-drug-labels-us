@@ -18,7 +18,7 @@ Adverse reactions occurring in ≥2% of patients receiving Clindesse in the plac
 Table 1.
 Adverse Reactions Occurring in ≥2% of Clindesse-Treated Patients and at a Higher Rate than Placebo-Treated Patients
 
-| Adverse Event | Clindesse N=85 n (%) | Placebo N=85 n (%) |
+| Adverse Reactions | Clindesse N=85 n (%) | Placebo N=85 n (%) |
 | --- | --- | --- |
 | Vaginosis fungal NOS* | 12 (14) | 7 (8) |
 | Headache NOS | 6 (7) | 2 (2) |
@@ -43,7 +43,7 @@ NOS = not otherwise specified
 
 ## 6.2 Other Clindamycin Formulations
 
-Clindesse affords minimal peak serum levels and systemic exposure (AUCs) of clindamycin compared to an oral or intravenous dose of clindamycin [see Clinical Pharmacology (12.1)].
+Clindesse affords minimal peak serum levels and systemic exposure (AUCs) of clindamycin compared to an oral or intravenous dose of clindamycin [see Clinical Pharmacology (12.3)].
 Data from well-controlled trials directly comparing clindamycin administered orally to clindamycin administered vaginally are not available.
 
 The following additional adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of clindamycin:
