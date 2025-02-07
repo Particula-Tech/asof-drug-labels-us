@@ -1,8 +1,8 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosing
 
-For the treatment of postoperative inflammation in patients who have undergone cataract extraction, one drop of bromfenac ophthalmic solution should be applied to the affected eye(s) once daily beginning 1 day prior to cataract surgery, continued on the day of surgery, and through the first 14 days of the postoperative period.
+For the treatment of postoperative inflammation in patients who have undergone cataract extraction, one drop of bromfenac ophthalmic solution should be applied to the affected eye once daily beginning 1 day prior to cataract surgery, continued on the day of surgery, and through the first 14 days of the postoperative period.
 
 ## 2.2 Use with Other Topical Ophthalmic Medications
 

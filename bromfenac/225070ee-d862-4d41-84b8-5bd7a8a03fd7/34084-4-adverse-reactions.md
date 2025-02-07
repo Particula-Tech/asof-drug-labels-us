@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trail Experience
+## 6.1 Clinical Trial Experience
 
 The most commonly reported adverse experiences reported following use of bromfenac after cataract surgery include: abnormal sensation in eye, conjunctival hyperemia, eye irritation (including burning/stinging), eye pain, eye pruritus, eye redness, headache, and iritis.
 These events were reported in 2-7% of patients.

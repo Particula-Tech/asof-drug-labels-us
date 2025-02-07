@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Ocular inflammation and pain following cataract surgery
+## 14.1 Ocular Inflammation and Pain Following Cataract Surgery
 
 Clinical efficacy was evaluated in three randomized, double-masked, placebo controlled trials in which subjects requiring cataract surgery were assigned to Bromfenac ophthalmic solution or placebo.
 Patients were dosed with one drop per eye starting the day before surgery and continuing for 14 days.

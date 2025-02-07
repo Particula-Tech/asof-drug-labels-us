@@ -6,7 +6,8 @@ Bromfenac sodium is designated chemically as sodium 2-amino-3-(4-bromobenzoyl) p
 The structural structure for bromfenac sodium is:
 
 Bromfenac sodium is a yellow to orange crystalline powder.
-The molecular weight of bromfenac sodium is 383.16.
+The molecular weight of bromfenac sodium is 383.17.
 Bromfenac ophthalmic solution is supplied as a sterile aqueous 0.09% solution, with a pH of 8.3.
 The osmolality of bromfenac ophthalmic solution is approximately 300 mOsmol/kg.
-Each mL of bromfenac ophthalmic solution contains: Active: bromfenac sodium hydrate 0.1035% Preservative: benzalkonium chloride (0.05 mg/mL) Inactives: boric acid, disodium edetate (0.2 mg/mL), polysorbate 80 (1.5 mg/mL), povidone K-30 (20 mg/mL), sodium borate, and sodium sulfite anhydrous (2 mg/mL). sodium hydroxide may be used to adjust pH and water for injection USP.
+Each mL of bromfenac ophthalmic solution contains: Active: bromfenac sodium hydrate 0.1035% Preservative: benzalkonium chloride (0.05 mg/mL) Inactives: boric acid, disodium edetate (0.2 mg/mL), polysorbate 80 (1.5 mg/mL), povidone K-30 (20 mg/mL), sodium borate, and sodium sulfite anhydrous (2 mg/mL).
+Sodium hydroxide may be used to adjust pH and water for injection USP.
