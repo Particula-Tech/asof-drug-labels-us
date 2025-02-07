@@ -90,7 +90,7 @@ Before starting ZYPREXA, tell your doctor if you have or had:
 - high cholesterol or triglyceride levels in your blood
 - liver problems
 - low or high blood pressure
-- strokes or “mini-strokes” also called transient ischemic attacks (TIAs)
+- strokes or "mini-strokes" also called transient ischemic attacks (TIAs)
 - Alzheimer's disease
 - narrow-angle glaucoma
 - enlarged prostate in men
@@ -148,8 +148,8 @@ What are the possible side effects of ZYPREXA?
 
 Serious side effects may happen when you take ZYPREXA, including:
 
-- See “What is the most important information I should know about ZYPREXA?”, which describes the increased risk of death in elderly people with dementia-related psychosis and the risks of high blood sugar, high cholesterol and triglyceride levels, and weight gain.
-- Increased incidence of stroke or “mini-strokes” called transient ischemic attacks (TIAs) in elderly people with dementia-related psychosis (elderly people who have lost touch with reality due to confusion and memory loss).
+- See "What is the most important information I should know about ZYPREXA?", which describes the increased risk of death in elderly people with dementia-related psychosis and the risks of high blood sugar, high cholesterol and triglyceride levels, and weight gain.
+- Increased incidence of stroke or "mini-strokes" called transient ischemic attacks (TIAs) in elderly people with dementia-related psychosis (elderly people who have lost touch with reality due to confusion and memory loss).
   ZYPREXA is not approved for these patients.
 - Neuroleptic Malignant Syndrome (NMS):NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including ZYPREXA.
   NMS can cause death and must be treated in a hospital.

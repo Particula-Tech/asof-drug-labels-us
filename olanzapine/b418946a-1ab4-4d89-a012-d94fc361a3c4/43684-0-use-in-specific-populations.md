@@ -60,7 +60,7 @@ Olanzapine is present in human milk.
 There are reports of excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to olanzapine through breast milk (see Clinical Considerations).
 There is no information on the effects of olanzapine on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZYPREXA and any potential adverse effects on the breastfed child from ZYPREXA or from the mother’s underlying condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZYPREXA and any potential adverse effects on the breastfed child from ZYPREXA or from the mother's underlying condition.
 
 Clinical Considerations
 
