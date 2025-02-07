@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 The carcinogenic potential of formoterol fumarate has been evaluated in 2-year drinking water and dietary studies in both rats and mice.
 In rats, the incidence of ovarian leiomyomas was increased at doses of 15,000 mcg/kg and above in the drinking water study and at 20,000 mcg/kg in the dietary study (AUC exposure approximately 2,300 times human exposure at the maximum recommended daily inhalation dose), but not at dietary doses up to 5,000 mcg/kg (AUC exposure approximately 570 times human exposure at the maximum recommended daily inhalation dose).
@@ -13,7 +13,7 @@ Increases in leiomyomas of the rodent female genital tract have been similarly d
 Formoterol fumarate was not mutagenic or clastogenic in the following tests: mutagenicity tests in bacterial and mammalian cells, chromosomal analyses in mammalian cells, unscheduled DNA synthesis repair tests in rat hepatocytes and human fibroblasts, transformation assay in mammalian fibroblasts and micronucleus tests in mice and rats.
 Reproduction studies in rats revealed no impairment of fertility at oral doses up to 3,000 mcg/kg (approximately 730 times the maximum recommended daily inhalation powder dose in humans on a mcg/m2 basis).
 
-## 13.2 Animal Phramcology
+## 13.2 Animal Pharmacology
 
 Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
 The clinical significance of these findings is unknown [see DRUG INTERACTIONS, Xanthine Derivatives, Steroids, or Diuretics (7.2)].

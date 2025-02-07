@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 The recommended dose of formoterol fumarate inhalation solution is one 20 mcg unit-dose vial administered twice daily (morning and evening) by nebulization.
 A total daily dose greater than 40 mcg is not recommended.
