@@ -76,7 +76,7 @@ ZYPREXA RELPREVV must be suspended using only the diluent supplied in the conven
 It is recommended that gloves are used when reconstituting, as ZYPREXA RELPREVV may be irritating to the skin.
 Flush with water if contact is made with skin.
 
-See additional insert entitled “Instructions to Reconstitute and Administer ZYPREXA RELPREVV” (included) for more information regarding the safe and effective use of the Hypodermic Needle-Pro syringe and needle.
+See additional insert entitled "Instructions to Reconstitute and Administer ZYPREXA RELPREVV" (included) for more information regarding the safe and effective use of the Hypodermic Needle-Pro syringe and needle.
 
 Step 2: Determining Reconstitution Volume
 

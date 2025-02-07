@@ -33,7 +33,7 @@ Hyperglycemia and Diabetes Mellitus
 
 Patients should be advised of the potential risk of hyperglycemia-related adverse reactions related to ZYPREXA RELPREVV.
 Patients should be monitored regularly for worsening of glucose control.
-Patients who have diabetes should follow their doctor’s instructions about how often to check their blood sugar while taking ZYPREXA RELPREVV [see Warnings and Precautions (5.7)].
+Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking ZYPREXA RELPREVV [see Warnings and Precautions (5.7)].
 
 Dyslipidemia
 

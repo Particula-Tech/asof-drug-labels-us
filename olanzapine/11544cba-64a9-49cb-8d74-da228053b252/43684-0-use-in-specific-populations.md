@@ -59,7 +59,7 @@ Olanzapine pamoate is present in human milk.
 There are reports of excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to olanzapine pamoate through breast milk (see Clinical Considerations).
 There is no information on the effects of olanzapine pamoate on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZYPREXA RELPREVV and any potential adverse effects on the breastfed child from ZYPREXA RELPREVV or from the mother’s underlying condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZYPREXA RELPREVV and any potential adverse effects on the breastfed child from ZYPREXA RELPREVV or from the mother's underlying condition.
 
 Clinical Considerations
 
