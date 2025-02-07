@@ -23,7 +23,7 @@ Atropine also may lessen the degree of partial heart block when vagal activity i
 In some patients with complete heart block, the idioventricular rate may be accelerated by atropine; in others, the rate is stabilized.
 Occasionally a large dose may cause atrioventricular (A-V) block and nodal rhythm.
 
-Atropine Sulfate Injection, USP in clinical doses counteracts the peripheral dilatation and abrupt decrease in blood pressure produced by choline esters.
+Atropine Sulfate Injection in clinical doses counteracts the peripheral dilatation and abrupt decrease in blood pressure produced by choline esters.
 However, when given by itself, atropine does not exert a striking or uniform effect on blood vessels or blood pressure.
 Systemic doses slightly raise systolic and lower diastolic pressures and can produce significant postural hypotension.
 Such doses also slightly increase cardiac output and decrease central venous pressure.
