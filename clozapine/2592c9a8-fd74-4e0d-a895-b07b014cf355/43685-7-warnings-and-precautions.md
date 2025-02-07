@@ -29,13 +29,13 @@ Table 2: VERSACLOZ Treatment Recommendations Based on Absolute Neutrophil Count 
 
 | ANC Level | VERSACLOZ Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal range (≥1500/µL) | •Initiate treatment•If treatment interrupted:•<30 days, continue monitoring as before•≥30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
-|  | •Discontinuation for reasons other than neutropenia | •See Section 2.4 |
-| Mild Neutropenia (1000 to 1499/µL)* | •Continue treatment | •Three times weekly until ANC ≥1500/µL•Once ANC ≥1500/µL, return to patient's last “Normal Range” ANC monitoring interval** |
-| Moderate Neutropenia (500 to 999/µL)* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Resume treatment once ANC ≥1000/µL | •Daily until ANC ≥1000/µL, then•Three times weekly until ANC ≥1500/µL•Once ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient's last “Normal Range” ANC monitoring interval** |
-| Severe Neutropenia (less than 500/µL)* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥1000/µL, then•Three times weekly until ANC ≥1500/µL•If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/µL |
+| Normal range (≥1500/µL) | • Initiate treatment• If treatment interrupted: -<30 days, continue monitoring as before -≥30 days, monitor as if new patient | • Weekly from initiation to 6 months• Every 2 weeks from 6 to 12 months• Monthly after 12 months |
+|  | • Discontinuation for reasons other than neutropenia | • See Section 2.4 |
+| Mild Neutropenia (1000 to 1499/µL)* | • Continue treatment | • Three times weekly until ANC ≥1500/µL• Once ANC ≥1500/µL, return to patient's last “Normal Range” ANC monitoring interval** |
+| Moderate Neutropenia (500 to 999/µL)* | • Recommend hematology consultation• Interrupt treatment for suspected clozapine-induced neutropenia• Resume treatment once ANC ≥1000/µL | • Daily until ANC ≥1000/µL, then• Three times weekly until ANC ≥1500/µL• Once ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient's last “Normal Range” ANC monitoring interval** |
+| Severe Neutropenia (less than 500/µL)* | • Recommend hematology consultation• Interrupt treatment for suspected clozapine-induced neutropenia• Do not rechallenge unless prescriber determines benefits outweigh risks | • Daily until ANC ≥1000/µL, then• Three times weekly until ANC ≥1500/µL• If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/µL |
 
-* Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate
+* Confirm all initialreports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate
 
 VERSACLOZ Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
@@ -54,17 +54,20 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); VERSACLOZ Treatment Reco
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range (Established ANC baseline ≥1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted:•<30 days, continue monitoring as before•≥30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
-|  | •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |
-| BEN Neutropenia (500 to 999/µL)* | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥1000/µL or ≥patient's known baseline•Once ANC ≥1000/µL or at patient's known baseline, check ANC weekly for 4 weeks, then return to patient's last “Normal BEN Range” ANC monitoring interval** |
-| BEN Severe Neutropenia (less than 500/µL)* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥500/µL, then•Three times weekly until ANC ≥patient's baseline•If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient's baseline |
+| Normal BEN Range (Established ANC baseline ≥1000/µL) | • Obtain at least two baseline ANC levels before initiating treatment• If treatment interrupted: - <30 days, continue monitoring as before - ≥30 days, monitor as if new patient | • Weekly from initiation to 6 months• Every 2 weeks from 6 to 12 months• Monthly after 12 months |
+|  | • Discontinuation of treatment for reasons other than neutropenia | • See Section 2.4 |
+| BEN Neutropenia (500 to 999/µL)* | • Recommend hematology consultation• Continue treatment | • Three times weekly until ANC ≥1000/µL or ≥patient's known baseline• Once ANC ≥1000/µL or at patient's known baseline, check ANC weekly for 4 weeks, then return to patient's last “Normal BEN Range” ANC monitoring interval** |
+| BEN Severe Neutropenia (less than 500/µL)* | • Recommend hematology consultation• Interrupt treatment for suspected clozapine-induced neutropenia• Do not rechallenge unless prescriber determines benefits outweigh risks | • Daily until ANC ≥500/µL, then• Three times weekly until ANC ≥patient's baseline• If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient's baseline |
 
 * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate
 
 General Guidelines for Management of All Patients with Fever or with Neutropenia
 
-•Fever: Interrupt VERSACLOZ as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
-Fever is often the first sign of neutropenic infection.•ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.•Consider hematology consultation.•See Neuroleptic Malignant Syndrome (NMS) and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+- Fever: Interrupt VERSACLOZ as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
+  Fever is often the first sign of neutropenic infection.
+- ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
+- Consider hematology consultation.
+- See Neuroleptic Malignant Syndrome (NMS) and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
 Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
@@ -87,11 +90,11 @@ VERSACLOZ is only available through a restricted program under a REMS called the
 
 Notable requirements of the Clozapine REMS Program include:
 
-- •Healthcare professionals who prescribe VERSACLOZ must be certified with the program by enrolling and completing training.
-- •Patients who receive VERSACLOZ must be enrolled in the program and comply with the ANC testing and monitoring requirements.
-- •Pharmacies dispensing VERSACLOZ must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive VERSACLOZ.
+- Healthcare professionals who prescribe VERSACLOZ must be certified with the program by enrolling and completing training.
+- Patients who receive VERSACLOZ must be enrolled in the program and comply with the ANC testing and monitoring requirements.
+- Pharmacies dispensing VERSACLOZ must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive VERSACLOZ.
 
-Further information is available at www.clozapinerems.com or 1-844-267-8678.
+Further information is available at www.clozapinerems.comor 1-844-267-8678.
 
 ## 5.3 Orthostatic Hypotension, Bradycardia, and Syncope
 
@@ -126,24 +129,18 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering VERSACLOZ to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with VERSACLOZ use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.6 Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
+## 5.6 Myocarditis, Pericarditis, Cardiomyopathy and Mitral Valve Incompetence
 
-Myocarditis and cardiomyopathy have occurred with the use of clozapine.
+Myocarditis, pericarditis, and cardiomyopathy have occurred with the use of clozapine.
 These reactions can be fatal.
-Discontinue VERSACLOZ and obtain a cardiac evaluation upon suspicion of myocarditis or cardiomyopathy.
-Generally, patients with a history of clozapine-associated myocarditis or cardiomyopathy should not be rechallenged with VERSACLOZ.
-However, if the benefit of VERSACLOZ treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with VERSACLOZ in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
+Discontinue VERSACLOZ and obtain a cardiac evaluation upon suspicion of myocarditis, pericarditis, or cardiomyopathy.
+Generally, patients with a history of clozapine-associated myocarditis, pericarditis, or cardiomyopathy should not be rechallenged with VERSACLOZ.
+However, if the benefit of VERSACLOZ treatment is judged to outweigh the potential risks of recurrence, the clinician may consider rechallenge with VERSACLOZ in consultation with a cardiologist.
 
-Consider the possibility of myocarditis or cardiomyopathy in patients receiving VERSACLOZ who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first two months of clozapine treatment.
-Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
-However, myocarditis and cardiomyopathy can occur at any period during treatment with VERSACLOZ.
-It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
-Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
-Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
+Myocarditis and pericarditis most frequently present within the first two months of clozapine treatment.
+Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis or pericarditis and usually after 8 weeks of treatment.
+However, myocarditis, pericarditis, and cardiomyopathy can occur at any period during treatment with VERSACLOZ.
 In patients who are diagnosed with cardiomyopathy while taking clozapine mitral valve incompetence has been reported.
-These cases reported either mild or moderate mitral regurgitation on two-dimensional echocardiography.
-In patients with suspected cardiomyopathy, consider a 2D-echo Doppler examination to identify mitral valve incompetence.
 
 ## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
@@ -159,9 +156,10 @@ VERSACLOZ is not approved for the treatment of patients with dementia-related ps
 
 Severe gastrointestinal adverse reactions have occurred with the use of VERSACLOZ, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, oerforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk for severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16),Drug Interactions (7.1)].
+
 Prior to initiating VERSACLOZ, screen for constipation and treat as necessary.
 Subjective symptoms of constipation may not accurately reflect the degree of gastrointestinal hypomotility in VERSACLOZ treated patients.
 Therefore, reassess bowel function frequently with careful attention to any changes in the frequency or character of bowel movements, as well as signs and symptoms of complications of hypomotility (e.g., nausea, vomiting, abdominal distension, abdominal pain).
@@ -200,7 +198,7 @@ If patients experience symptoms consistent with Torsades de Pointes or other arr
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of VERSACLOZ.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmic (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
 VERSACLOZ is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Concomitant treatment with inhibitors of these enzymes can increase the concentration of VERSACLOZ [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Concomitant treatment with inhibitors of these enzymes can increase the concentration of VERSACLOZ [see Drug Interactions (7.1)and Clinical Pharmacology (12.3)].
 
 Hypokalemia and hypomagnesemia increase the risk of QT prolongation.
 Hypokalemia can result from diuretic therapy, diarrhea, and other causes.
@@ -272,7 +270,7 @@ Table 6: Categorical Changes in Lipid Concentrations in Studies in Adult Subject
 
 | Laboratory Parameter | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol (random or fasting) | Increase by ≥40 mg/dL | Clozapine | 334 | 111 (33) |
+| Total Cholesterol (random or fasting) | Increase by ≥ 40 mg/dL | Clozapine | 334 | 111 (33) |
 | Chlorpromazine | 185 | 46 (25) |  |  |
 | Normal (<200 mg/dL) to High (≥240 mg/dL) | Clozapine | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
@@ -334,7 +332,7 @@ NMS has occurred with clozapine monotherapy and with concomitant CNS-active medi
 
 ## 5.13 Hepatotoxicity
 
-Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine[see Adverse Reactions (6.2)].
+Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine [seeAdverse Reactions (6.2)].
 Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
 Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
 
@@ -356,7 +354,7 @@ Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapin
 ## 5.16 Anticholinergic Toxicity
 
 VERSACLOZ has potent anticholinergic effects.
-Treatment with VERSACLOZ can result in CNS and peripheral anticholinergic toxicity, especially at higher dosages or in overdose situations [see Overdosage (10)].Use with caution in patients with a current diagnosis or prior history of constipation, urinary retention, clinically significant prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+Treatment with VERSACLOZ can result in CNS and peripheral anticholinergic toxicity, especially at higher dosages or in overdose situations [seeOverdosage (10)].Use with caution in patients with a current diagnosis or prior history of constipation, urinary retention, clinically significant prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
 When possible, avoid concomitant use with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
 
 ## 5.17 Interference with Cognitive and Motor Performance

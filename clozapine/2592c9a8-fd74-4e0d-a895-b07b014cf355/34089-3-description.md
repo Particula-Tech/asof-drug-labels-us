@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-VERSACLOZ, an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine.
+VERSACLOZ, an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-chloro-11-(4-methyl-1-piperazinyl)-5 H-dibenzo[b,e][1,4]diazepine.
 
 The is:
 

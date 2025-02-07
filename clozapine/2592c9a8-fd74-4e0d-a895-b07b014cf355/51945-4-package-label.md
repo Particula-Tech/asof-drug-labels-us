@@ -2,7 +2,7 @@
 
 Rx Only
 
-Versacloz®
+Versacloz ®
 
 (clozapine) Oral Suspension
 

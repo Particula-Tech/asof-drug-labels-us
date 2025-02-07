@@ -12,7 +12,7 @@ The starting dose is 12.5 mg once daily or twice daily.
 The total daily dose can be increased in increments of 25 mg to 50 mg per day, if well-tolerated, to achieve a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of 2 weeks.
 Subsequently, the dose can be increased once weekly or twice weekly, in increments of up to 100 mg.
 The maximum dose is 900 mg per day.
-To minimize the risk of orthostatic hypotension, bradycardia, and syncope, it is necessary to use this low starting dose, gradual titration schedule, and divided dosages [see Warnings and Precautions (5.3)].
+To minimize the risk of orthostatic hypotension, bradycardia, and syncope, it is necessary to use this low starting dose, gradual titration schedule, and divided dosages [seeWarnings and Precautions (5.3)].
 
 ## 2.3 Important Administration Instructions
 
@@ -36,11 +36,11 @@ Generally, patients responding to VERSACLOZ should continue maintenance treatmen
 
 Method of treatment discontinuation will vary depending on the patient's last ANC:
 
-- •See Tables 2 or 3 for appropriate ANC monitoring based on the level of neutropenia if abrupt treatment discontinuation is necessary because of moderate to severe neutropenia.
-- •Reduce the dose gradually over a period of 1 to 2 weeks if termination of VERSACLOZ therapy is planned and there is no evidence of moderate to severe neutropenia.
-- •For abrupt clozapine discontinuation for a reason unrelated to neutropenia, continuation of the existing ANC monitoring is recommended for general population patients until their ANC is ≥1500/µL and for BEN patients until their ANC is ≥1000/µL or above their baseline.
-- •Additional ANC monitoring is required for any patient reporting onset of fever (temperature of 38.5°C or 101.3°F, or greater) during the 2 weeks after discontinuation [see Warnings and Precautions (5.1)].
-- •Monitor all patients carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
+- See Tables 2 or 3 for appropriate ANC monitoring based on the level of neutropenia if abrupt treatment discontinuation is necessary because of moderate to severe neutropenia.
+- Reduce the dose gradually over a period of 1 to 2 weeks if termination of VERSACLOZ therapy is planned and there is no evidence of moderate to severe neutropenia.
+- For abrupt clozapine discontinuation for a reason unrelated to neutropenia, continuation of the existing ANC monitoring is recommended for general population patients until their ANC is ≥1500/µL and for BEN patients until their ANC is ≥1000/µL or above their baseline.
+- Additional ANC monitoring is required for any patient reporting onset of fever (temperature of 38.5°C or 101.3°F, or greater) during the 2 weeks after discontinuation [see Warnings and Precautions (5.1)].
+- Monitor all patients carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
 
 ## 2.6 Re-Initiation of Treatment
 
@@ -49,7 +49,7 @@ This is necessary to minimize the risk of hypotension, bradycardia, and syncope 
 If one day’s dosing has been missed, resume treatment at 40% to 50% of the established dose.
 If two days dosing has been missed, resume dosage at approximately 25% of the established dosage.
 For longer interruptions, re-initiate with a dosage of 12.5 mg once daily or twice daily.
-If these dosages are well tolerated, the dosages may be increased to the previous dosage more quickly than recommended for initial treatment.
+If these dosages are well tolerated, the dosage may be increased to the previous dosage more quickly than recommended for initial treatment.
 
 ## 2.7 Dosage Adjustments with Concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 
