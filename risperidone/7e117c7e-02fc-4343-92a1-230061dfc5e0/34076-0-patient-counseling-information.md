@@ -2,7 +2,7 @@
 
 Advise patients using RISPERDAL oral solution to read the FDA-approved patient labeling (Instructions for Use) for RISPERDAL oral solution.
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe RISPERDAL®.
+Physicians are advised to discuss the following issues with patients for whom they prescribe RISPERDAL.
 
 Neuroleptic Malignant Syndrome (NMS)
 
@@ -23,22 +23,22 @@ Educate patients about the risk of orthostatic hypotension and syncope, particul
 
 Leukopenia/Neutropenia
 
-Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia they should have their CBC monitored while taking RISPERDAL® [see Warnings and Precautions (5.9)].
+Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia they should have their CBC monitored while taking RISPERDAL [see Warnings and Precautions (5.9)].
 
 Hyperprolactinemia
 
-Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of RISPERDAL®.
+Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of RISPERDAL.
 Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males.
-[See Warnings and Precautions (5.6)].
+[see Warnings and Precautions (5.6)].
 
 Interference with Cognitive and Motor Performance
 
-Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle until they are reasonably certain that RISPERDAL® therapy does not affect them adversely [see Warnings and Precautions (5.10)].
+Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle until they are reasonably certain that RISPERDAL therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
 Priapism
 
 Advise patients of the possibility of painful or prolonged penile erections (priapism).
-Instruct the patient to seek immediate medical attention in the event of priapism [Warnings and Precautions (5.13)].
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.13)].
 
 Heat Exposure and Dehydration
 
@@ -46,9 +46,9 @@ Counsel patients regarding appropriate care in avoiding overheating and dehydrat
 
 Phenylketonurics
 
-Inform patients with Phenylketonuria and caregivers that RISPERDAL® M-TAB® Orally Disintegrating Tablets contain phenylalanine.
+Inform patients with Phenylketonuria and caregivers that RISPERDAL M-TAB Orally Disintegrating Tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
-Each 4 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.14 mg phenylalanine [see Warnings and Precautions (5.15)].
+Each 4 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.14 mg phenylalanine [see Warnings and Precautions (5.15)].
 
 Concomitant Medication
 
@@ -56,19 +56,19 @@ Advise patients to inform their healthcare providers if they are taking, or plan
 
 Alcohol
 
-Advise patients to avoid alcohol while taking RISPERDAL® [see Drug Interactions (7.2)].
+Advise patients to avoid alcohol while taking RISPERDAL [see Drug Interactions (7.2)].
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with RISPERDAL®.
-Advise patients that RISPERDAL® may cause extrapyramidal and/or withdrawal symptoms in a neonate.
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to RISPERDAL® during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with RISPERDAL.
+Advise patients that RISPERDAL may cause extrapyramidal and/or withdrawal symptoms in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to RISPERDAL during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise breastfeeding women using RISPERDAL® to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Advise breastfeeding women using RISPERDAL to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise females of reproductive potential that RISPERDAL® may impair fertility due to an increase in serum prolactin levels.
+Advise females of reproductive potential that RISPERDAL may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].

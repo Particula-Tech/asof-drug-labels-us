@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-RISPERDAL® (risperidone) Tablets
+RISPERDAL ®(risperidone) Tablets
 
-RISPERDAL® (risperidone) Tablets are imprinted "JANSSEN" on one side and either "Ris 0.5", "R1", "R2", "R3", or "R4" according to their respective strengths.
+RISPERDAL ®(risperidone) Tablets are imprinted "JANSSEN "on one side and either "Ris 0.5", "R1", "R2", "R3", or "R4" according to their respective strengths.
 
 0.5 mg red-brown, capsule-shaped tablets: bottles of 60 NDC 50458-302-06, bottles of 500 NDC 50458-302-50, and hospital unit dose blister packs of 100 NDC 50458-302-01.
 
@@ -16,15 +16,15 @@ RISPERDAL® (risperidone) Tablets are imprinted "JANSSEN" on one side and either
 
 4 mg green, capsule-shaped tablets: bottles of 60 NDC 50458-350-06 and hospital unit dose blister packs of 100 NDC 50458-350-01.
 
-RISPERDAL® (risperidone) Oral Solution
+RISPERDAL ®(risperidone) Oral Solution
 
-RISPERDAL® (risperidone) 1 mg/mL Oral Solution (NDC 50458-305-03) is supplied in 30 mL bottles with a calibrated (in milliliters) oral dosing syringe.
+RISPERDAL ®(risperidone) 1 mg/mL Oral Solution (NDC 50458-305-03) is supplied in 30 mL bottles with a calibrated (in milliliters) oral dosing syringe.
 The minimum calibrated volume is 0.25 mL, while the maximum calibrated volume is 3 mL.
 
-RISPERDAL® M-TAB® (risperidone) Orally Disintegrating Tablets
+RISPERDAL ®M-TAB ®(risperidone) Orally Disintegrating Tablets
 
-RISPERDAL® M-TAB® (risperidone) Orally Disintegrating Tablets are etched on one side with "R0.5", "R1", "R2", "R3", or "R4" according to their respective strengths.
-RISPERDAL® M-TAB® Orally Disintegrating Tablets 0.5 mg, 1 mg, and 2 mg are packaged in blister packs of 4 (2 × 2) tablets.
+RISPERDAL ®M-TAB ®(risperidone) Orally Disintegrating Tablets are etched on one side with "R0.5", "R1", "R2", "R3", or "R4" according to their respective strengths.
+RISPERDAL M-TAB Orally Disintegrating Tablets 0.5 mg, 1 mg, and 2 mg are packaged in blister packs of 4 (2 × 2) tablets.
 Orally Disintegrating Tablets 3 mg and 4 mg are packaged in a child-resistant pouch containing a blister with 1 tablet.
 
 0.5 mg light coral, round, biconvex tablets: 7 blister packages (4 tablets each) per box, NDC 50458-395-28, and long-term care blister packaging of 30 tablets NDC 50458-395-30.
@@ -39,12 +39,12 @@ Orally Disintegrating Tablets 3 mg and 4 mg are packaged in a child-resistant po
 
 ## 16.2 Storage and Handling
 
-RISPERDAL® Tablets should be stored at controlled room temperature 15°–25°C (59°–77°F).
+RISPERDAL Tablets should be stored at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 Protect from light and moisture.
 
-RISPERDAL® 1 mg/mL Oral Solution should be stored at controlled room temperature 15°–25°C (59°–77°F).
+RISPERDAL 1 mg/mL Oral Solution should be stored at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 Protect from light and freezing.
 
-RISPERDAL® M-TAB® Orally Disintegrating Tablets should be stored at controlled room temperature 15°–25°C (59°–77°F).
+RISPERDAL M-TAB Orally Disintegrating Tablets should be stored at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 
 Keep out of reach of children.

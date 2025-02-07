@@ -9,17 +9,17 @@ Although the causes of death were varied, most of the deaths appeared to be eith
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 
-In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus RISPERDAL® when compared to patients treated with RISPERDAL® alone or with placebo plus furosemide.
+In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus RISPERDAL when compared to patients treated with RISPERDAL alone or with placebo plus furosemide.
 No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
 
-RISPERDAL® (risperidone) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
+RISPERDAL (risperidone) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73–97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
-RISPERDAL® is not approved for the treatment of patients with dementia-related psychosis.
-[see Boxed Warning and Warnings and Precautions (5.1)].
+RISPERDAL is not approved for the treatment of patients with dementia-related psychosis.
+[seeBoxed WarningandWarnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -27,7 +27,7 @@ Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has b
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 
-If NMS is suspected, immediately discontinue RISPERDAL® and provide symptomatic treatment and monitoring.
+If NMS is suspected, immediately discontinue RISPERDAL and provide symptomatic treatment and monitoring.
 
 ## 5.4 Tardive Dyskinesia
 
@@ -43,13 +43,13 @@ Tardive dyskinesia may remit, partially or completely, if antipsychotic treatmen
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, possibly masking the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
-Given these considerations, RISPERDAL® should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Given these considerations, RISPERDAL should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
 Periodically reassess the need for continued treatment.
 
-If signs and symptoms of tardive dyskinesia appear in a patient on RISPERDAL®, drug discontinuation should be considered.
-However, some patients may require treatment with RISPERDAL® despite the presence of the syndrome.
+If signs and symptoms of tardive dyskinesia appear in a patient on RISPERDAL, drug discontinuation should be considered.
+However, some patients may require treatment with RISPERDAL despite the presence of the syndrome.
 
 ## 5.5 Metabolic Changes
 
@@ -59,17 +59,17 @@ While all of the drugs in the class have been shown to produce some metabolic ch
 
 Hyperglycemia and Diabetes Mellitus
 
-Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics including RISPERDAL®.
+Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics including RISPERDAL.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
 Precise risk estimates for hyperglycemia-related adverse events in patients treated with atypical antipsychotics are not available.
 
-Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics, including RISPERDAL®, should be monitored regularly for worsening of glucose control.
-Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including RISPERDAL®, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
-Any patient treated with atypical antipsychotics, including RISPERDAL®, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
-Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including RISPERDAL®, should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic, including RISPERDAL®, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of RISPERDAL®.
+Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics, including RISPERDAL, should be monitored regularly for worsening of glucose control.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including RISPERDAL, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+Any patient treated with atypical antipsychotics, including RISPERDAL, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
+Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including RISPERDAL, should undergo fasting blood glucose testing.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic, including RISPERDAL, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of RISPERDAL.
 
 Pooled data from three double-blind, placebo-controlled schizophrenia studies and four double-blind, placebo-controlled bipolar monotherapy studies are presented in Table 2.
 
@@ -78,14 +78,14 @@ Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or 
 
 |  | Placebo | 1–8 mg/day | >8–16 mg/day |
 | --- | --- | --- | --- |
-|  |  | RISPERDAL® |  |
+|  |  | RISPERDAL |  |
 |  | Mean change from baseline (mg/dL) |  |  |
 |  | n=555 | n=748 | n=164 |
 | Serum Glucose | -1.4 | 0.8 | 0.6 |
 |  | Proportion of patients with shifts |  |  |
 | Serum Glucose (<140 mg/dL to ≥200 mg/dL) | 0.6% (3/525) | 0.4% (3/702) | 0% (0/158) |
 
-In longer-term, controlled and uncontrolled studies, RISPERDAL® was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n=151) and +4.1 mg/dL at Week 48 (n=50).
+In longer-term, controlled and uncontrolled studies, RISPERDAL was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n=151) and +4.1 mg/dL at Week 48 (n=50).
 
 Data from the placebo-controlled 3- to 6-week study in children and adolescents with schizophrenia (13–17 years of age), bipolar mania (10–17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 3.
 
@@ -94,14 +94,14 @@ Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dos
 
 |  | Placebo | 0.5–6 mg/day |
 | --- | --- | --- |
-|  |  | RISPERDAL® |
+|  |  | RISPERDAL |
 |  | Mean change from baseline (mg/dL) |  |
 |  | n=76 | n=135 |
 | Serum Glucose | -1.3 | 2.6 |
 |  | Proportion of patients with shifts |  |
 | Serum Glucose (<100 mg/dL to ≥126 mg/dL) | 0% (0/64) | 0.8% (1/120) |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, RISPERDAL® was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
+In longer-term, uncontrolled, open-label extension pediatric studies, RISPERDAL was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
 
 Dyslipidemia
 
@@ -114,7 +114,7 @@ Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or F
 
 |  | Placebo | 1–8 mg/day | >8–16 mg/day |
 | --- | --- | --- | --- |
-|  |  | RISPERDAL® |  |
+|  |  | RISPERDAL |  |
 |  | Mean change from baseline (mg/dL) |  |  |
 | Cholesterol | n=559 | n=742 | n=156 |
 | Change from baseline | 0.6 | 6.9 | 1.8 |
@@ -125,7 +125,7 @@ Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or F
 |  | (10/368) | (22/516) | (6/96) |
 | Triglycerides (<500 mg/dL to ≥500 mg/dL) | 1.1% (2/180) | 2.7% (8/301) | 2.5% (3/121) |
 
-In longer-term, controlled and uncontrolled studies, RISPERDAL® was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
+In longer-term, controlled and uncontrolled studies, RISPERDAL was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
 
 Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13–17 years of age), bipolar mania (10–17 years of age), or autistic disorder (5–17 years of age) are presented in Table 5.
 
@@ -134,7 +134,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose
 
 |  | Placebo | 0.5–6 mg/day |
 | --- | --- | --- |
-|  |  | RISPERDAL® |
+|  |  | RISPERDAL |
 |  | Mean change from baseline (mg/dL) |  |
 | Cholesterol | n=74 | n=133 |
 | Change from baseline | 0.3 | -0.3 |
@@ -150,7 +150,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose
 | HDL (≥40 mg/dL to <40 mg/dL) | 0% (0/19) | 10% (2/20) |
 | Triglycerides (<150 mg/dL to ≥200 mg/dL) | 1.5% (1/65) | 7.1% (8/113) |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, RISPERDAL® was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
+In longer-term, uncontrolled, open-label extension pediatric studies, RISPERDAL was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
 
 Weight Gain
 
@@ -164,46 +164,46 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain i
 
 |  | Placebo (n=597) | 1–8 mg/day (n=769) | >8–16 mg/day (n=158) |
 | --- | --- | --- | --- |
-|  |  | RISPERDAL® |  |
+|  |  | RISPERDAL |  |
 | Weight (kg) |  |  |  |
 | Change from baseline | -0.3 | 0.7 | 2.2 |
 | Weight Gain |  |  |  |
 | ≥7% increase from baseline | 2.9% | 8.7% | 20.9% |
 
-In longer-term, controlled and uncontrolled studies, RISPERDAL® was associated with a mean change in weight of +4.3 kg at Week 24 (n=395) and +5.3 kg at Week 48 (n=203).
+In longer-term, controlled and uncontrolled studies, RISPERDAL was associated with a mean change in weight of +4.3 kg at Week 24 (n=395) and +5.3 kg at Week 48 (n=203).
 
 Data on mean changes in body weight and the proportion of subjects meeting the criterion of ≥7% gain in body weight from nine placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13–17 years of age), bipolar mania (10–17 years of age), autistic disorder (5–17 years of age), or other psychiatric disorders (5–17 years of age) are presented in Table 7.
 
 Table 7.
 Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥7% Gain in Body Weight From Nine Placebo-Controlled, 3- to 8-Week, Fixed-Dose Studies in Children and Adolescents With Schizophrenia (13–17 Years of Age), Bipolar Mania (10–17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5–17 Years of Age)
 
-|  | Placebo (n=375) | RISPERDAL® 0.5–6 mg/day (n=448) |
+|  | Placebo (n=375) | RISPERDAL 0.5–6 mg/day (n=448) |
 | --- | --- | --- |
 | Weight (kg) |  |  |
 | Change from baseline | 0.6 | 2.0 |
 | Weight Gain |  |  |
 | ≥7% increase from baseline | 6.9% | 32.6% |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, RISPERDAL® was associated with a mean change in weight of +5.5 kg at Week 24 (n=748) and +8.0 kg at Week 48 (n=242).
+In longer-term, uncontrolled, open-label extension pediatric studies, RISPERDAL was associated with a mean change in weight of +5.5 kg at Week 24 (n=748) and +8.0 kg at Week 48 (n=242).
 
 In a long-term, open-label extension study in adolescent patients with schizophrenia, weight increase was reported as a treatment-emergent adverse event in 14% of patients.
-In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was observed after 8 months of RISPERDAL® treatment.
+In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was observed after 8 months of RISPERDAL treatment.
 The majority of that increase was observed within the first 6 months.
 The average percentiles at baseline and 8 months, respectively, were 56 and 72 for weight, 55 and 58 for height, and 51 and 71 for body mass index.
 
-In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of RISPERDAL® treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
-The majority of that increase occurred within the first 6 months of exposure to RISPERDAL®.
+In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of RISPERDAL treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
+The majority of that increase occurred within the first 6 months of exposure to RISPERDAL.
 The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
 
-In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the RISPERDAL® groups than the placebo group, but not dose related (1.90 kg in the RISPERDAL® 0.5–2.5 mg group, 1.44 kg in the RISPERDAL® 3–6 mg group, and 0.65 kg in the placebo group).
+In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the RISPERDAL groups than the placebo group, but not dose related (1.90 kg in the RISPERDAL 0.5–2.5 mg group, 1.44 kg in the RISPERDAL 3–6 mg group, and 0.65 kg in the placebo group).
 A similar trend was observed in the mean change from baseline in body mass index.
 
-When treating pediatric patients with RISPERDAL® for any indication, weight gain should be assessed against that expected with normal growth.
+When treating pediatric patients with RISPERDAL for any indication, weight gain should be assessed against that expected with normal growth.
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D2 receptors, RISPERDAL® elevates prolactin levels and the elevation persists during chronic administration.
-RISPERDAL® is associated with higher levels of prolactin elevation than other antipsychotic agents.
+As with other drugs that antagonize dopamine D 2receptors, RISPERDAL elevates prolactin levels and the elevation persists during chronic administration.
+RISPERDAL is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
@@ -211,54 +211,54 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [seeNonclinical Toxicology (13.1)].
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.7 Orthostatic Hypotension
 
-RISPERDAL® may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
-Syncope was reported in 0.2% (6/2607) of RISPERDAL®-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1, 2.4)].
+RISPERDAL may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
+Syncope was reported in 0.2% (6/2607) of RISPERDAL-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [seeDosage and Administration (2.1, 2.4)].
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
-RISPERDAL® should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia, and in the elderly and patients with renal or hepatic impairment.
+RISPERDAL should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia, and in the elderly and patients with renal or hepatic impairment.
 Monitoring of orthostatic vital signs should be considered if hypotension occurs.
-Clinically significant hypotension has been observed with concomitant use of RISPERDAL® and antihypertensive medication.
+Clinically significant hypotension has been observed with concomitant use of RISPERDAL and antihypertensive medication.
 
 ## 5.8 Falls
 
-Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including RISPERDAL®, which may lead to falls and, consequently, fractures or other fall-related injuries.
+Somnolence, postural hypotension, motor and sensory instability have been reported with the use of antipsychotics, including RISPERDAL, which may lead to falls and, consequently, fractures or other fall-related injuries.
 For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
-Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including RISPERDAL®.
+Class Effect:In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including RISPERDAL.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of RISPERDAL® should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of RISPERDAL should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue RISPERDAL® and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue RISPERDAL and have their WBC followed until recovery.
 
 ## 5.10 Potential for Cognitive and Motor Impairment
 
-Somnolence was a commonly reported adverse reaction associated with RISPERDAL® treatment, especially when ascertained by direct questioning of patients.
-This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (RISPERDAL® 16 mg/day) reported somnolence compared to 16% of placebo patients.
-Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of RISPERDAL® 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
-Since RISPERDAL® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that RISPERDAL® therapy does not affect them adversely.
+Somnolence was a commonly reported adverse reaction associated with RISPERDAL treatment, especially when ascertained by direct questioning of patients.
+This adverse reaction is dose-related, and in a study utilizing a checklist to detect adverse events, 41% of the high-dose patients (RISPERDAL 16 mg/day) reported somnolence compared to 16% of placebo patients.
+Direct questioning is more sensitive for detecting adverse events than spontaneous reporting, by which 8% of RISPERDAL 16 mg/day patients and 1% of placebo patients reported somnolence as an adverse reaction.
+Since RISPERDAL has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that RISPERDAL therapy does not affect them adversely.
 
 ## 5.11 Seizures
 
-During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2607) of RISPERDAL®-treated patients, two in association with hyponatremia.
-RISPERDAL® should be used cautiously in patients with a history of seizures.
+During premarketing testing in adult patients with schizophrenia, seizures occurred in 0.3% (9/2607) of RISPERDAL-treated patients, two in association with hyponatremia.
+RISPERDAL should be used cautiously in patients with a history of seizures.
 
 ## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
-RISPERDAL® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
-[see Boxed Warning and Warnings and Precautions (5.1)].
+RISPERDAL and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
+[seeBoxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.13 Priapism
 
@@ -268,11 +268,11 @@ Severe priapism may require surgical intervention.
 ## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
-Both hyperthermia and hypothermia have been reported in association with oral RISPERDAL® use.
+Both hyperthermia and hypothermia have been reported in association with oral RISPERDAL use.
 Caution is advised when prescribing for patients who will be exposed to temperature extremes.
 
 ## 5.15 Patients with Phenylketonuria
 
-Inform patients that RISPERDAL® M-TAB® Orally Disintegrating Tablets contain phenylalanine.
+Inform patients that RISPERDAL M-TAB Orally Disintegrating Tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
-Each 4 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL® M-TAB® Orally Disintegrating Tablet contains 0.14 mg phenylalanine.
+Each 4 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg RISPERDAL M-TAB Orally Disintegrating Tablet contains 0.14 mg phenylalanine.

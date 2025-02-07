@@ -1,12 +1,12 @@
 PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
 
-NDC 50458-302-06
+NDC50458-302-06
 
 RISPERDAL® (risperiDONE) TABLETS
 
 0.5 mg
 
-Each tablet contains: Risperidone 0.5 mg
+Each tablet contains:Risperidone 0.5 mg
 
 Keep out of reach of children.
 
@@ -16,13 +16,13 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 1 mg Bottle Label
 
-NDC 50458-300-06
+NDC50458-300-06
 
 RISPERDAL® (risperiDONE) TABLETS
 
 1 mg
 
-Each tablet contains: Risperidone 1 mg
+Each tablet contains:Risperidone 1 mg
 
 Keep out of reach of children.
 
@@ -32,13 +32,13 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 2 mg Bottle Label
 
-NDC 50458-320-06
+NDC50458-320-06
 
 RISPERDAL® (risperiDONE) TABLETS
 
 2 mg
 
-Each tablet contains: Risperidone 2 mg
+Each tablet contains:Risperidone 2 mg
 
 Keep out of reach of children.
 
@@ -54,7 +54,7 @@ RISPERDAL® (risperiDONE) TABLETS
 
 3 mg
 
-Each tablet contains: Risperidone 3 mg
+Each tablet contains:Risperidone 3 mg
 
 Keep out of reach of children.
 
@@ -70,7 +70,7 @@ RISPERDAL® (risperiDONE) TABLETS
 
 4 mg
 
-Each tablet contains: Risperidone 4 mg
+Each tablet contains:Risperidone 4 mg
 
 Keep out of reach of children.
 
@@ -126,11 +126,11 @@ NDC 50458-335-28
 
 Risperdal®M-TAB® risperiDONE Orally Disintegrating Tablets
 
-Phenylketonurics: Contains 0.63 mg phenylalanine (a component of aspartame) per 3 mg tablet Each tablet contains: 3 mg risperidone
+Phenylketonurics:Contains 0.63 mg phenylalanine (a component of aspartame) per 3 mg tablet Each tablet contains:3 mg risperidone
 
 Rx only
 
-Dosage: For information or use, see accompanying full Prescribing Information.
+Dosage:For information or use, see accompanying full Prescribing Information.
 
 Product of Ireland
 
@@ -146,11 +146,11 @@ NDC 50458-355-28
 
 Risperdal®M-TAB® risperiDONE Orally Disintegrating Tablets
 
-Phenylketonurics: Contains 0.84 mg phenylalanine (a component of aspartame) per 4 mg tablet Each tablet contains: 4 mg risperidone
+Phenylketonurics:Contains 0.84 mg phenylalanine (a component of aspartame) per 4 mg tablet Each tablet contains:4 mg risperidone
 
 Rx only
 
-Dosage: For information or use, see accompanying full Prescribing Information.
+Dosage:For information or use, see accompanying full Prescribing Information.
 
 Product of Ireland
 
@@ -162,7 +162,7 @@ janssen
 
 PRINCIPAL DISPLAY PANEL - 30 mL Bottle Carton
 
-NDC 50458-305-03 30 mL
+NDC50458-305-03 30 mL
 
 RISPERDAL® (risperiDONE) ORAL SOLUTION
 
