@@ -12,11 +12,10 @@ Rx only
 
 Distributed by:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
 Code 613B00
 
-Rev.
-06/17
+R10/2024
