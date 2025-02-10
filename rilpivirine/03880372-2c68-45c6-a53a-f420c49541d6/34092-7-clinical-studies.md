@@ -47,7 +47,7 @@ Table 14: Demographic and Baseline Disease Characteristics of Antiretroviral Tre
 Week 96 efficacy outcomes for subjects treated with EDURANT 25 mg once daily from the pooled analysis are shown in Table 15.
 The incidence of virologic failure was higher in the EDURANT arm than the efavirenz arm at Week 96.
 Virologic failures and discontinuations due to adverse events mostly occurred in the first 48 weeks of treatment.
-Regardless of HIV-1 RNA at the start of therapy, more EDURANT treated subjects with CD4+ cell count less than 200 cells/mm 3experienced virologic failure compared to EDURANT treated subjects with CD4+ cell count greater than or equal to 200 cells/mm 3.
+Regardless of HIV-1 RNA at the start of therapy, more EDURANT treated subjects with CD4+ cell count less than 200 cells/mm 3 experienced virologic failure compared to EDURANT treated subjects with CD4+ cell count greater than or equal to 200 cells/mm 3.
 
 Table 15: Virologic Outcome of Randomized Treatment of Studies TMC278-C209 and TMC278-C215 (Pooled Data) at Week 96
 
@@ -74,7 +74,7 @@ Table 15: Virologic Outcome of Randomized Treatment of Studies TMC278-C209 and T
 | N=total number of subjects per treatment group; BR=background regimen. |  |  |
 | Note: Analysis was based on the last observed viral load data within the Week 96 window (Week 90–103), respectively. |  |  |
 
-At Week 96, the mean CD4+ cell count increase from baseline was 228 cells/mm 3for EDURANT-treated subjects and 219 cells/mm 3for efavirenz-treated subjects in the pooled analysis of the TMC278-C209 and TMC278-C215 trials.
+At Week 96, the mean CD4+ cell count increase from baseline was 228 cells/mm 3 for EDURANT-treated subjects and 219 cells/mm 3 for efavirenz-treated subjects in the pooled analysis of the TMC278-C209 and TMC278-C215 trials.
 
 Study TMC278-C204 was a randomized, active-controlled, Phase 2b trial in antiretroviral treatment-naïve HIV-1-infected adult subjects consisting of 2 parts: an initial 96 weeks, partially-blinded dose-finding part [EDURANT doses blinded] followed by a long-term, open-label part.
 After Week 96, subjects randomized to one of the 3 doses of EDURANT were switched to EDURANT 25 mg once daily.

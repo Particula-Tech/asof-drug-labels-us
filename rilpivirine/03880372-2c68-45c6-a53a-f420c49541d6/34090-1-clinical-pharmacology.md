@@ -51,7 +51,7 @@ The distribution of rilpivirine into compartments other than plasma (e.g., cereb
 
 Metabolism
 
-In vitroexperiments indicate that rilpivirine primarily undergoes oxidative metabolism mediated by the cytochrome P450 (CYP) 3A system.
+In vitro experiments indicate that rilpivirine primarily undergoes oxidative metabolism mediated by the cytochrome P450 (CYP) 3A system.
 
 Elimination
 
@@ -69,9 +69,9 @@ However, the exposure during pregnancy was not significantly different from expo
 Based on the exposure-response relationship for rilpivirine, this decrease is not considered clinically relevant in patients who are virollogically suppressed.
 The protein binding of rilpivirine was similar (>99%) during the second trimester, third trimester, and postpartum.
 
-Table 8: Pharmacokinetic Results of Total Rilpivirine After Administration of Rilpivirine 25 mg Once Daily as Part of an Antiretroviral Regimen, During the 2 ndTrimester of Pregnancy, the 3 rdTrimester of Pregnancy and Postpartum
+Table 8: Pharmacokinetic Results of Total Rilpivirine After Administration of Rilpivirine 25 mg Once Daily as Part of an Antiretroviral Regimen, During the 2 nd Trimester of Pregnancy, the 3 rd Trimester of Pregnancy and Postpartum
 
-| Pharmacokinetics of total rilpivirine (mean ± SD, t max: median [range]) | Postpartum (6–12 Weeks) (n=11) | 2 ndTrimester of pregnancy (n=15) | 3 rdTrimester of pregnancy (n=13) |
+| Pharmacokinetics of total rilpivirine (mean ± SD, t max: median [range]) | Postpartum (6–12 Weeks) (n=11) | 2 nd Trimester of pregnancy (n=15) | 3 rd Trimester of pregnancy (n=13) |
 | --- | --- | --- | --- |
 | C 0h, ng/mL | 111±69.2 | 65.0±23.9 | 63.5±26.2 |
 | C min, ng/mL | 84.0±58.8 | 54.3±25.8 | 52.9±24.4 |

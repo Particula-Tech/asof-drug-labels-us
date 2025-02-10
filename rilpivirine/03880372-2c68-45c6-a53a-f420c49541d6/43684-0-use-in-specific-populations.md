@@ -85,7 +85,7 @@ TMC278-C213 was a single arm, open-label, Phase 2 trial in antiretroviral treatm
 Trial TMC278HTX2002
 
 The safety, tolerability, antiviral activity and pharmacokinetics of EDURANT and EDURANT PED weight-adjusted doses 25, 15 and 12.5 mg daily was evaluated in a single-arm, open-label Phase 2 trial in 26 HIV-1 infected pediatric subjects 2 to less than 12 years of age and weighing at least 16 kg.
-Trial TMC278HTX2002 supports the safety and effectiveness of EDURANT and EDURANT PED in treatment-naïve HIV-1 infected pediatric patients 2 to less than 6 years of age [see Adverse Reactions (6.1)and Clinical Pharmacology (12.3)].
+Trial TMC278HTX2002 supports the safety and effectiveness of EDURANT and EDURANT PED in treatment-naïve HIV-1 infected pediatric patients 2 to less than 6 years of age [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 MOCHA Trial (NCT03497676)
 

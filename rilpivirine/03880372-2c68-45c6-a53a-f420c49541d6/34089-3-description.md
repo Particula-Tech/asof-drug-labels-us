@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-EDURANT ®(rilpivirine) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1).
+EDURANT ® (rilpivirine) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1).
 
 The chemical name for rilpivirine hydrochloride is 4-[[4-[[4-[(E)-2-cyanoethenyl]-2,6-dimethylphenyl]amino]-2-pyrimidinyl]amino]benzonitrile monohydrochloride.
 Its molecular formula is C 22H 18N 6∙ HCl and its molecular weight is 402.88.

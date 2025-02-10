@@ -42,7 +42,7 @@ The concomitant use of EDURANT or EDURANT PED and other drugs may result in pote
 - Loss of therapeutic effect of EDURANT or EDURANT PED and possible development of resistance.
 
 In healthy subjects, 75 mg once daily and 300 mg once daily (3 times and 12 times the dose in EDURANT) have been shown to prolong the QTc interval of the electrocardiogram.
-Consider alternatives to EDURANT or EDURANT PED when coadministered with a drug that is known to have a risk of torsade de pointes [see Drug Interactions (7)and Clinical Pharmacology (12.2)].
+Consider alternatives to EDURANT or EDURANT PED when coadministered with a drug that is known to have a risk of torsade de pointes [see Drug Interactions (7) and Clinical Pharmacology (12.2)].
 
 See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during EDURANT or EDURANT PED therapy and review concomitant medications during therapy.
