@@ -1,0 +1,41 @@
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
+
+NDC 51991-053-01
+
+Oxcarbazepine Tablets, USP
+
+150 mg
+
+PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
+
+Rx only 100 Tablets
+
+breckenridge A Towa Company
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Tablet Bottle Label
+
+NDC 51991-054-01
+
+Oxcarbazepine Tablets, USP
+
+300 mg
+
+PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
+
+Rx only 100 Tablets
+
+breckenridge A Towa Company
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
+
+NDC 51991-055-01
+
+Oxcarbazepine Tablets, USP
+
+600 mg
+
+PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
+
+Rx only 100 Tablets
+
+breckenridge A Towa Company

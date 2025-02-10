@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA078069"
+  ],
+  "inn": "oxcarbazepine",
+  "labeler": "Breckenridge Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "51991-053-01",
+    "51991-053-05",
+    "51991-054-01",
+    "51991-054-05",
+    "51991-055-01",
+    "51991-055-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "oxcarbazepine",
+      "name": "OXCARBAZEPINE"
+    }
+  ],
+  "setid": "54fb494e-bce4-442d-954a-757f9851e81e",
+  "source": "dailymed"
+}
