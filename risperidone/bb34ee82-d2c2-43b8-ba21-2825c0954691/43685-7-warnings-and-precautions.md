@@ -132,7 +132,7 @@ In an uncontrolled, longer-term, open-label study, RISPERDAL CONSTA was associat
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D 2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D 2receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
 Risperidone is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -142,7 +142,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.7 Orthostatic Hypotension
 
@@ -211,12 +211,11 @@ RISPERDAL CONSTA produced renal tubular tumors (adenoma, adenocarcinoma) and adr
 In addition, RISPERDAL CONSTA produced an increase in a marker of cellular proliferation in renal tissue in males in the 1-year toxicity study and in renal tumor-bearing males in the 2-year carcinogenicity study at 40 mg/kg administered IM every 2 weeks.
 (Cellular proliferation was not measured at the low dose or in females in either study.)
 
-The effect dose for osteodystrophy and the tumor findings is 8 times the IM maximum recommended human dose (MRHD) (50 mg) on a mg/m 2 basis and is associated with a plasma exposure (AUC) 2 times the expected plasma exposure (AUC) at the IM MRHD.
-The no-effect dose for these findings was 5 mg/kg (equal to the IM MRHD on a mg/m 2 basis).
+The effect dose for osteodystrophy and the tumor findings is 8 times the IM maximum recommended human dose (MRHD) (50 mg) on a mg/m 2basis and is associated with a plasma exposure (AUC) 2 times the expected plasma exposure (AUC) at the IM MRHD.
+The no-effect dose for these findings was 5 mg/kg (equal to the IM MRHD on a mg/m 2basis).
 Plasma exposure (AUC) at the no-effect dose was one third the expected plasma exposure (AUC) at the IM MRHD.
 
-Neither the renal or adrenal tumors, nor osteodystrophy, were seen in studies of orally administered risperidone.
-Osteodystrophy was not observed in dogs at doses up to 14 times (based on AUC) the IM MRHD in a 1-year toxicity study.
+Neither the renal or adrenal tumors, nor osteodystrophy, were seen in studies of orally administered risperidone.Osteodystrophy was not observed in dogs at doses up to 14 times (based on AUC) the IM MRHD in a 1-year toxicity study.
 
 The renal tubular and adrenomedullary tumors in male rats and other tumor findings are described in more detail in Section 13.1 (Carcinogenicity, Mutagenesis, Impairment of Fertility).
 

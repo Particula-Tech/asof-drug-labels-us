@@ -9,8 +9,8 @@ Antagonism at receptors other than D 2and 5HT 2may explain some of the other eff
 
 ## 12.2 Pharmacodynamics
 
-Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT 2), dopamine Type 2 (D 2), α1 and α2 adrenergic, and H 1 histaminergic receptors.
-Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT 1C, 5HT 1D, and 5HT 1A receptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D 1 and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10 -5 M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
+Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT 2), dopamine Type 2 (D 2), α1 and α2 adrenergic, and H 1histaminergic receptors.
+Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT 1C, 5HT 1D, and 5HT 1Areceptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D 1and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10 -5M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
 
 ## 12.3 Pharmacokinetics
 

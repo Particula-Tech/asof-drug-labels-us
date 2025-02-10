@@ -60,7 +60,7 @@ Drug interactions that reduce the metabolism of risperidone to 9-hydroxyrisperid
 Analysis of clinical studies involving a modest number of poor metabolizers (n≅70 patients) does not suggest that poor and extensive metabolizers have different rates of adverse effects.
 No comparison of effectiveness in the two groups has been made.
 
-In vitro studies showed that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
+In vitrostudies showed that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
 
 Fluoxetine and Paroxetine
 
@@ -94,6 +94,6 @@ The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
 
 ## 7.14 Drugs Metabolized by CYP 2D6
 
-In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
+In vitrostudies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
 Therefore, RISPERDAL CONSTA is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
 In drug interaction studies, oral RISPERDAL did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.

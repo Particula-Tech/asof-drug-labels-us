@@ -156,85 +156,85 @@ Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperi
 The following additional adverse reactions occurred in < 2% of the RISPERDAL CONSTA-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in < 2% of the RISPERDAL CONSTA-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in < 4% of the RISPERDAL CONSTA-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
 The following also includes additional adverse reactions reported at any frequency in RISPERDAL CONSTA-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active controlled and open-label studies in schizophrenia and bipolar disorder.
 
-Blood and lymphatic system disorders: anemia, neutropenia
+Blood and lymphatic system disorders:anemia, neutropenia
 
-Cardiac disorders: tachycardia, atrioventricular block first degree, palpitations, sinus bradycardia, bundle branch block left, bradycardia, sinus tachycardia, bundle branch block right
+Cardiac disorders:tachycardia, atrioventricular block first degree, palpitations, sinus bradycardia, bundle branch block left, bradycardia, sinus tachycardia, bundle branch block right
 
-Ear and labyrinth disorders: ear pain, vertigo
+Ear and labyrinth disorders:ear pain, vertigo
 
-Endocrine disorders: hyperprolactinemia
+Endocrine disorders:hyperprolactinemia
 
-Eye disorders: conjunctivitis, visual acuity reduced
+Eye disorders:conjunctivitis, visual acuity reduced
 
-Gastrointestinal disorders: diarrhea, vomiting, abdominal pain upper, abdominal pain, stomach discomfort, gastritis
+Gastrointestinal disorders:diarrhea, vomiting, abdominal pain upper, abdominal pain, stomach discomfort, gastritis
 
-General disorders and administration site conditions: injection site pain, chest discomfort, chest pain, influenza like illness, sluggishness, malaise, induration, injection site induration, injection site swelling, injection site reaction, face edema
+General disorders and administration site conditions:injection site pain, chest discomfort, chest pain, influenza like illness, sluggishness, malaise, induration, injection site induration, injection site swelling, injection site reaction, face edema
 
-Immune system disorders: hypersensitivity
+Immune system disorders:hypersensitivity
 
-Infections and infestations: nasopharyngitis, influenza, bronchitis, urinary tract infection, rhinitis, respiratory tract infection, ear infection, pneumonia, lower respiratory tract infection, pharyngitis, sinusitis, viral infection, infection, localized infection, cystitis, gastroenteritis, subcutaneous abscess
+Infections and infestations:nasopharyngitis, influenza, bronchitis, urinary tract infection, rhinitis, respiratory tract infection, ear infection, pneumonia, lower respiratory tract infection, pharyngitis, sinusitis, viral infection, infection, localized infection, cystitis, gastroenteritis, subcutaneous abscess
 
-Injury and poisoning: fall, procedural pain
+Injury and poisoning:fall, procedural pain
 
-Investigations: blood prolactin increased, alanine aminotransferase increased, electrocardiogram abnormal, gamma-glutamyl transferase increased, blood glucose increased, hepatic enzyme increased, aspartate aminotransferase increased, electrocardiogram QT prolonged, glucose urine present
+Investigations:blood prolactin increased, alanine aminotransferase increased, electrocardiogram abnormal, gamma-glutamyl transferase increased, blood glucose increased, hepatic enzyme increased, aspartate aminotransferase increased, electrocardiogram QT prolonged, glucose urine present
 
-Metabolism and nutritional disorders: anorexia, hyperglycemia
+Metabolism and nutritional disorders:anorexia, hyperglycemia
 
-Musculoskeletal, connective tissue and bone disorders: posture abnormal, myalgia, back pain, buttock pain, muscular weakness, neck pain, musculoskeletal chest pain
+Musculoskeletal, connective tissue and bone disorders:posture abnormal, myalgia, back pain, buttock pain, muscular weakness, neck pain, musculoskeletal chest pain
 
-Nervous system disorders: coordination abnormal, dystonia, tardive dyskinesia, drooling, paresthesia, dizziness postural, convulsion, akinesia, hypokinesia, dysarthria
+Nervous system disorders:coordination abnormal, dystonia, tardive dyskinesia, drooling, paresthesia, dizziness postural, convulsion, akinesia, hypokinesia, dysarthria
 
-Psychiatric disorders: insomnia, agitation, anxiety, sleep disorder, depression, initial insomnia, libido decreased, nervousness
+Psychiatric disorders:insomnia, agitation, anxiety, sleep disorder, depression, initial insomnia, libido decreased, nervousness
 
-Renal and urinary disorders: urinary incontinence
+Renal and urinary disorders:urinary incontinence
 
-Reproductive system and breast disorders: galactorrhea, oligomenorrhea, erectile dysfunction, sexual dysfunction, ejaculation disorder, gynecomastia, breast discomfort, menstruation irregular, menstruation delayed, menstrual disorder, ejaculation delayed
+Reproductive system and breast disorders:galactorrhea, oligomenorrhea, erectile dysfunction, sexual dysfunction, ejaculation disorder, gynecomastia, breast discomfort, menstruation irregular, menstruation delayed, menstrual disorder, ejaculation delayed
 
-Respiratory, thoracic and mediastinal disorders: nasal congestion, pharyngolaryngeal pain, dyspnea, rhinorrhea
+Respiratory, thoracic and mediastinal disorders:nasal congestion, pharyngolaryngeal pain, dyspnea, rhinorrhea
 
-Skin and subcutaneous tissue disorders: rash, eczema, pruritus generalized, pruritus
+Skin and subcutaneous tissue disorders:rash, eczema, pruritus generalized, pruritus
 
-Vascular disorders: hypotension, orthostatic hypotension
+Vascular disorders:hypotension, orthostatic hypotension
 
 Additional Adverse Reactions Reported with Oral RISPERDAL
 
 The following is a list of additional adverse reactions that have been reported during the clinical trial evaluation of oral RISPERDAL, regardless of frequency of occurrence:
 
-Blood and Lymphatic Disorders: granulocytopenia
+Blood and Lymphatic Disorders:granulocytopenia
 
-Cardiac Disorders: atrioventricular block
+Cardiac Disorders:atrioventricular block
 
-Ear and Labyrinth Disorders: tinnitus
+Ear and Labyrinth Disorders:tinnitus
 
-Eye Disorders: ocular hyperemia, eye discharge, eye rolling, eyelid edema, eye swelling, eyelid margin crusting, dry eye, lacrimation increased, photophobia, glaucoma
+Eye Disorders:ocular hyperemia, eye discharge, eye rolling, eyelid edema, eye swelling, eyelid margin crusting, dry eye, lacrimation increased, photophobia, glaucoma
 
-Gastrointestinal Disorders: abdominal pain upper, dysphagia, fecaloma, abdominal discomfort, fecal incontinence, lip swelling, cheilitis, aptyalism
+Gastrointestinal Disorders:abdominal pain upper, dysphagia, fecaloma, abdominal discomfort, fecal incontinence, lip swelling, cheilitis, aptyalism
 
-General Disorders: thirst, feeling abnormal, gait disturbance, pitting edema, edema, chills, discomfort, generalized edema, drug withdrawal syndrome, peripheral coldness
+General Disorders:thirst, feeling abnormal, gait disturbance, pitting edema, edema, chills, discomfort, generalized edema, drug withdrawal syndrome, peripheral coldness
 
-Immune System Disorders: drug hypersensitivity
+Immune System Disorders:drug hypersensitivity
 
-Infections and Infestations: tonsillitis, eye infection, cellulitis, otitis media, onychomycosis, acarodermatitis, bronchopneumonia, respiratory tract infection, tracheobronchitis, otitis media chronic
+Infections and Infestations:tonsillitis, eye infection, cellulitis, otitis media, onychomycosis, acarodermatitis, bronchopneumonia, respiratory tract infection, tracheobronchitis, otitis media chronic
 
-Investigations: body temperature increased, heart rate increased, eosinophil count increased, white blood cell count decreased, hemoglobin decreased, blood creatine phosphokinase increased, hematocrit decreased, body temperature decreased, blood pressure decreased, transaminases increased
+Investigations:body temperature increased, heart rate increased, eosinophil count increased, white blood cell count decreased, hemoglobin decreased, blood creatine phosphokinase increased, hematocrit decreased, body temperature decreased, blood pressure decreased, transaminases increased
 
-Metabolism and Nutrition Disorders: polydipsia
+Metabolism and Nutrition Disorders:polydipsia
 
-Musculoskeletal, Connective Tissue, and Bone Disorders: joint swelling, joint stiffness, rhabdomyolysis, torticollis
+Musculoskeletal, Connective Tissue, and Bone Disorders:joint swelling, joint stiffness, rhabdomyolysis, torticollis
 
-Nervous System Disorders: hypertonia, balance disorder, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypokinesia, parkinsonian rest tremor, transient ischemic attack, cerebrovascular accident, masked facies, speech disorder, loss of consciousness, muscle contractions involuntary, akinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma, head titubation
+Nervous System Disorders:hypertonia, balance disorder, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypokinesia, parkinsonian rest tremor, transient ischemic attack, cerebrovascular accident, masked facies, speech disorder, loss of consciousness, muscle contractions involuntary, akinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma, head titubation
 
-Psychiatric Disorders: blunted affect, confusional state, middle insomnia, listlessness, anorgasmia
+Psychiatric Disorders:blunted affect, confusional state, middle insomnia, listlessness, anorgasmia
 
-Renal and Urinary Disorders: enuresis, dysuria, pollakiuria
+Renal and Urinary Disorders:enuresis, dysuria, pollakiuria
 
-Reproductive System and Breast Disorders: vaginal discharge, retrograde ejaculation, ejaculation disorder, ejaculation failure, breast enlargement
+Reproductive System and Breast Disorders:vaginal discharge, retrograde ejaculation, ejaculation disorder, ejaculation failure, breast enlargement
 
-Respiratory, Thoracic, and Mediastinal Disorders: epistaxis, wheezing, pneumonia aspiration, dysphonia, productive cough, pulmonary congestion, respiratory tract congestion, rales, respiratory disorder, hyperventilation, nasal edema
+Respiratory, Thoracic, and Mediastinal Disorders:epistaxis, wheezing, pneumonia aspiration, dysphonia, productive cough, pulmonary congestion, respiratory tract congestion, rales, respiratory disorder, hyperventilation, nasal edema
 
-Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesion, skin disorder, rash erythematous, rash papular, hyperkeratosis, dandruff, seborrheic dermatitis, rash generalized, rash maculopapular
+Skin and Subcutaneous Tissue Disorders:erythema, skin discoloration, skin lesion, skin disorder, rash erythematous, rash papular, hyperkeratosis, dandruff, seborrheic dermatitis, rash generalized, rash maculopapular
 
-Vascular Disorders: flushing
+Vascular Disorders:flushing
 
 Discontinuations Due to Adverse Reactions
 
@@ -262,7 +262,7 @@ The median change from baseline to endpoint in total ESRS score showed no worsen
 
 Dystonia
 
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Class Effect:Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
