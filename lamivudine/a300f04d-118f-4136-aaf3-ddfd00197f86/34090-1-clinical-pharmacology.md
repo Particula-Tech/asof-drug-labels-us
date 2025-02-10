@@ -179,24 +179,24 @@ No effect on the pharmacokinetic parameters of the following coadministered drug
 Table 6.
 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of TDF
 
-| Coadministered Drug | Dose of Coadministered Drug (mg) | % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ↔; NA = Not Applicable(90% CI) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Cmax | AUC |  | Cmin |  |  |
-| Abacavir | 300 once | ↑ 12(↓ 1 to ↑ 26) | ↔ |  | NA |
-| AtazanavirReyataz (atazanavir) Prescribing Information. | 400 once daily × 14 days | ↓ 21(↓ 27 to ↓ 14) | ↓ 25(↓ 30 to ↓ 19) |  | ↓ 40(↓ 48 to ↓ 32) |
-| Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | ↓ 28(↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone.(↓ 42 to ↓ 3) |  | ↓ 23(↓ 46 to ↑ 10) |
-| DarunavirPrezista (darunavir) Prescribing Information. | Darunavir/Ritonavir 300/100 once daily | ↑ 16(↓ 6 to ↑ 42) | ↑ 21(↓ 5 to ↑ 54) |  | ↑ 24(↓ 10 to ↑ 69) |
-| DidanosineVidex® EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with VIREAD® and a light meal373 kcal, 8.2 g fat | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions.(↓ 32 to ↓ 7) | ↔ |  | NA |
-| Emtricitabine | 200 once daily × 7 days | ↔ | ↔ | ↑ 20(↑ 12 to ↑ 29) |  |
-| Entecavir | 1 mg once daily × 10 days | ↔ | ↑ 13(↑ 11 to ↑ 15) | ↔ |  |
-| Indinavir | 800 three times daily × 7 days | ↓ 11(↓ 30 to ↑ 12) | ↔ | ↔ |  |
-| Lamivudine | 150 twice daily × 7 days | ↓ 24(↓ 34 to ↓ 12) | ↔ | ↔ |  |
-| LopinavirRitonavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | ↔ ↔ | ↔↔ | ↔↔ |  |
-| Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | ↑ 22(↑ 6 to ↑ 41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered.(↑ 12 to ↑ 48) | ↑ 47(↑ 23 to ↑ 76) |  |
-| Ritonavir | ↔ | ↔ | ↑ 23(↑ 3 to ↑ 46) |  |  |
-| Tacrolimus | 0.05 mg/kg twice daily × 7 days | ↔ | ↔ | ↔ |  |
-| TipranavirAptivus (tipranavir) Prescribing Information. | Tipranavir/Ritonavir 500/100 twice daily | ↓ 17(↓ 26 to ↓ 6) | ↓ 18(↓ 25 to ↓ 9) | ↓ 21(↓ 30 to ↓ 10) |  |
-| Tipranavir/Ritonavir 750/200 twice daily (23 doses) | ↓ 11(↓ 16 to ↓ 4) | ↓ 9(↓ 15 to ↓ 3) | ↓ 12(↓ 22 to 0) |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ↔; NA = Not Applicable(90% CI) |  |  |
+| --- | --- | --- | --- | --- |
+| Cmax | AUC | Cmin |  |  |
+| Abacavir | 300 once | ↑ 12(↓ 1 to ↑ 26) | ↔ | NA |
+| AtazanavirReyataz (atazanavir) Prescribing Information. | 400 once daily × 14 days | ↓ 21(↓ 27 to ↓ 14) | ↓ 25(↓ 30 to ↓ 19) | ↓ 40(↓ 48 to ↓ 32) |
+| Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | ↓ 28(↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone.(↓ 42 to ↓ 3) | ↓ 23(↓ 46 to ↑ 10) |
+| DarunavirPrezista (darunavir) Prescribing Information. | Darunavir/Ritonavir 300/100 once daily | ↑ 16(↓ 6 to ↑ 42) | ↑ 21(↓ 5 to ↑ 54) | ↑ 24(↓ 10 to ↑ 69) |
+| DidanosineVidex® EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with VIREAD® and a light meal373 kcal, 8.2 g fat | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions.(↓ 32 to ↓ 7) | ↔ | NA |
+| Emtricitabine | 200 once daily × 7 days | ↔ | ↔ | ↑ 20(↑ 12 to ↑ 29) |
+| Entecavir | 1 mg once daily × 10 days | ↔ | ↑ 13(↑ 11 to ↑ 15) | ↔ |
+| Indinavir | 800 three times daily × 7 days | ↓ 11(↓ 30 to ↑ 12) | ↔ | ↔ |
+| Lamivudine | 150 twice daily × 7 days | ↓ 24(↓ 34 to ↓ 12) | ↔ | ↔ |
+| LopinavirRitonavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | ↔ ↔ | ↔↔ | ↔↔ |
+| Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | ↑ 22(↑ 6 to ↑ 41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered.(↑ 12 to ↑ 48) | ↑ 47(↑ 23 to ↑ 76) |
+| Ritonavir | ↔ | ↔ | ↑ 23(↑ 3 to ↑ 46) |  |
+| Tacrolimus | 0.05 mg/kg twice daily × 7 days | ↔ | ↔ | ↔ |
+| TipranavirAptivus (tipranavir) Prescribing Information. | Tipranavir/Ritonavir 500/100 twice daily | ↓ 17(↓ 26 to ↓ 6) | ↓ 18(↓ 25 to ↓ 9) | ↓ 21(↓ 30 to ↓ 10) |
+| Tipranavir/Ritonavir 750/200 twice daily (23 doses) | ↓ 11(↓ 16 to ↓ 4) | ↓ 9(↓ 15 to ↓ 3) | ↓ 12(↓ 22 to 0) |  |
 
 ## 12.4 Microbiology
 
