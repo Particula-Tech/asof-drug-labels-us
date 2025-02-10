@@ -53,7 +53,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In lactating rats, semaglutide was detected in milk at levels 3-12 fold lower than in maternal plasma.
+In lactating rats, semaglutide was detected in milk at levels 3- to 12- fold lower than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -61,19 +61,19 @@ Discontinue OZEMPIC in women at least 2 months before a planned pregnancy due to
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of OZEMPIC have not been established in pediatric patients (younger than 18 years).
+Safety and efficacy of OZEMPIC have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
 In the pool of placebo- and active-controlled glycemic control trials, 744 (23.6%) OZEMPIC-treated patients were 65 years of age and over and 102 OZEMPIC-treated patients (3.2%) patients were 75 years of age and over.
-In SUSTAIN 6, the cardiovascular outcome trial, 788 (48.0%) OZEMPIC-treated patients were 65 years of age and over and 157 OZEMPIC-treated patients (9.6%) patients were 75 years of age and over.
+In SUSTAIN 6, the cardiovascular outcome trial, 788 (48%) OZEMPIC-treated patients were 65 years of age and over and 157 OZEMPIC-treated patients (9.6%) patients were 75 years of age and over.
 
 No overall differences in safety or efficacy were detected between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
 No dose adjustment of OZEMPIC is recommended for patients with renal impairment.
-In subjects with renal impairment including end-stage renal disease (ESRD), no clinically relevant change in semaglutide pharmacokinetics (PK) was observed [see Clinical Pharmacology (12.3)].
+In subjects with renal impairment including kidney failure, no clinically relevant change in semaglutide pharmacokinetics (PK) was observed [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

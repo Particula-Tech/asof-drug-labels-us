@@ -11,19 +11,17 @@ OZEMPIC is contraindicated in patients with a personal or family history of MTC 
 Counsel patients regarding the potential risk for MTC with the use of OZEMPIC and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
 
 Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with OZEMPIC.
-Such monitoring may increase the risk of unnecessary procedures, due to the low test specificity for serum calcitonin and a high background incidence of thyroid disease.
+Such monitoring may increase the risk of unnecessary procedures, due to the low-test specificity for serum calcitonin and a high background incidence of thyroid disease.
 Significantly elevated serum calcitonin value may indicate MTC and patients with MTC usually have calcitonin values >50 ng/L.
 If serum calcitonin is measured and found to be elevated, the patient should be further evaluated.
 Patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.
 
-## 5.2 Pancreatitis
+## 5.2 Acute Pancreatitis
 
-In glycemic control trials, acute pancreatitis was confirmed by adjudication in 7 OZEMPIC-treated patients (0.3 cases per 100 patient years) versus 3 in comparator-treated patients (0.2 cases per 100 patient years).
-One case of chronic pancreatitis was confirmed in an OZEMPIC-treated patient.
-In a 2-year trial, acute pancreatitis was confirmed by adjudication in 8 OZEMPIC-treated patients (0.27 cases per 100 patient years) and 10 placebo-treated patients (0.33 cases per 100 patient years), both on a background of standard of care.
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including semaglutide [see Adverse Reactions (6.1)].
 
 After initiation of OZEMPIC, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
-If pancreatitis is suspected, OZEMPIC should be discontinued and appropriate management initiated; if confirmed, OZEMPIC should not be restarted.
+If pancreatitis is suspected, discontinue OZEMPIC and initiate appropriate management.
 
 ## 5.3 Diabetic Retinopathy Complications
 
@@ -41,35 +39,41 @@ Pen-sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.5 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin
 
-Patients receiving OZEMPIC in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia, including severe hypoglycemia [see Adverse Reactions (6.1) and Drug Interactions (7)].
+Patients receiving OZEMPIC in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia, including severe hypoglycemia [see Adverse Reactions (6.1), Drug Interactions (7)].
 
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogue) or insulin.
 Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.6 Acute Kidney Injury
+## 5.6 Acute Kidney Injury Due to Volume Depletion
 
-There have been postmarketing reports of acute kidney injury and worsening of chronic renal failure, which may sometimes require hemodialysis, in patients treated with GLP-1 receptor agonists.
-Some of these events have been reported in patients without known underlying renal disease.
-A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
-Monitor renal function when initiating or escalating doses of OZEMPIC in patients reporting severe adverse gastrointestinal reactions.
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with semaglutide.
+The majority of the reported events occurred in patients who experienced gastrointestinal reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
+Monitor renal function in patients reporting adverse reactions to OZEMPIC that could lead to volume depletion, especially during dosage initiation and escalation of OZEMPIC.
 
-## 5.7 Hypersensitivity Reactions
+## 5.7 Severe Gastrointestinal Adverse Reactions
+
+Use of OZEMPIC has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
+In OZEMPIC clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving OZEMPIC (0.5 mg 0.4%, 1 mg 0.8%) than placebo (0%).
+
+OZEMPIC is not recommended in patients with severe gastroparesis.
+
+## 5.8 Hypersensitivity Reactions
 
 Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported in patients treated with OZEMPIC.
 If hypersensitivity reactions occur, discontinue use of OZEMPIC; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity to OZEMPIC [see Contraindications (4) and Adverse Reactions (6.3)].
+Do not use in patients with a previous hypersensitivity to OZEMPIC [see Contraindications (4), Adverse Reactions (6.2)].
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema or anaphylaxis with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to anaphylaxis with OZEMPIC.
 
-## 5.8 Acute Gallbladder Disease
+## 5.9 Acute Gallbladder Disease
 
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
 In placebo-controlled trials, cholelithiasis was reported in 1.5% and 0.4% of patients-treated with OZEMPIC 0.5 mg and 1 mg, respectively.
 Cholelithiasis was not reported in placebo-treated patients.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 
-## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 OZEMPIC delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.

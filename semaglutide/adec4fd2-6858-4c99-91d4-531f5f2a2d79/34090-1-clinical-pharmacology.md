@@ -14,6 +14,8 @@ Semaglutide reduces blood glucose through a mechanism where it stimulates insuli
 Thus, when blood glucose is high, insulin secretion is stimulated, and glucagon secretion is inhibited.
 The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase.
 
+The mechanism of kidney-related risk reduction has not been established.
+
 ## 12.2 Pharmacodynamics
 
 Semaglutide lowers fasting and postprandial blood glucose and reduces body weight.
@@ -25,7 +27,7 @@ Semaglutide reduces fasting and postprandial glucose concentrations.
 In patients with type 2 diabetes, treatment with semaglutide 1 mg resulted in reductions in glucose in terms of absolute change from baseline and relative reduction compared to placebo of 29 mg/dL (22%) for fasting glucose, 74 mg/dL (36%) for 2-hour postprandial glucose, and 30 mg/dL (22%) for mean 24-hour glucose concentration (see Figure 1).
 
 Figure 1.
-Mean 24-hour plasma glucose profiles (standardized meals) in patients with type 2 diabetes before (baseline) and after 12 weeks of treatment with semaglutide or placebo
+Mean 24-hour Plasma Glucose Profiles (standardized meals) in Patients with Type 2 Diabetes before (Baseline) and after 12 Weeks of Treatment with Semaglutide or Placebo
 
 Insulin Secretion
 
@@ -34,7 +36,7 @@ Both first-and second-phase insulin secretion are increased in patients with typ
 Glucagon Secretion
 
 Semaglutide lowers the fasting and postprandial glucagon concentrations.
-In patients with type 2 diabetes, treatment with semaglutide resulted in the following relative reductions in glucagon compared to placebo, fasting glucagon (8%), postprandial glucagon response (14-15%), and mean 24 hour glucagon concentration (12%).
+In patients with type 2 diabetes, treatment with semaglutide resulted in the following relative reductions in glucagon compared to placebo, fasting glucagon (8%), postprandial glucagon response (14 to 15%), and mean 24-hour glucagon concentration (12%).
 
 Glucose dependent insulin and glucagon secretion
 
@@ -42,7 +44,7 @@ Semaglutide lowers high blood glucose concentrations by stimulating insulin secr
 With semaglutide, the insulin secretion rate in patients with type 2 diabetes was similar to that of healthy subjects (see Figure 2).
 
 Figure 2.
-Mean insulin secretion rate versus glucose concentration in patients with type 2 diabetes during graded glucose infusion before (baseline) and after 12 weeks of treatment with semaglutide or placebo and in untreated healthy subjects
+Mean Insulin Secretion Rate Versus Glucose Concentration in Patients with Type 2 Diabetes during Graded Glucose Infusion before (Baseline) and after 12 Weeks of Treatment with Semaglutide or Placebo and in Untreated Healthy Subjects
 
 During induced hypoglycemia, semaglutide did not alter the counter regulatory responses of increased glucagon compared to placebo and did not impair the decrease of C-peptide in patients with type 2 diabetes.
 
@@ -65,8 +67,8 @@ Maximum concentration of semaglutide is reached 1 to 3 days post dose.
 Similar exposure is achieved with subcutaneous administration of semaglutide in the abdomen, thigh, or upper arm.
 
 In patients with type 2 diabetes, semaglutide exposure increases in a dose-proportional manner for once-weekly doses of 0.5 mg, 1 mg and 2 mg.
-Steady-state exposure is achieved following 4-5 weeks of once-weekly administration.
-In patients with type 2 diabetes, the mean population-PK estimated steady-state concentrations following once weekly subcutaneous administration of 0.5 mg and 1 mg semaglutide were approximately 65.0 ng/mL and 123.0 ng/mL, respectively.
+Steady-state exposure is achieved following 4 to 5 weeks of once-weekly administration.
+In patients with type 2 diabetes, the mean population-PK estimated steady-state concentrations following once weekly subcutaneous administration of 0.5 mg and 1 mg semaglutide were approximately 65 ng/mL and 123 ng/mL, respectively.
 In the trial comparing semaglutide 1 mg and 2 mg, the mean steady state concentrations were 111.1 ng/mL and 222.1 ng/mL, respectively.
 
 Distribution
@@ -92,14 +94,14 @@ Specific Populations
 
 Based on a population pharmacokinetic analysis, age, sex, race, and ethnicity, and renal impairment do not have a clinically meaningful effect on the pharmacokinetics of semaglutide.
 The exposure of semaglutide decreases with an increase in body weight.
-However, semaglutide doses of 0.5 mg and 1 mg provide adequate systemic exposure over the body weight range of 40-198 kg evaluated in the clinical trials.
+However, semaglutide doses of 0.5 mg and 1 mg provide adequate systemic exposure over the body weight range of 40 to 198 kg evaluated in the clinical trials.
 The effects of intrinsic factors on the pharmacokinetics of semaglutide are shown in Figure 3.
 
 Figure 3.
-Impact of intrinsic factors on semaglutide exposure
+Impact of Intrinsic Factors on Semaglutide Exposure
 
 Patients with Renal impairment - Renal impairment does not impact the pharmacokinetics of semaglutide in a clinically relevant manner.
-This was shown in a study with a single dose of 0.5 mg semaglutide in patients with different degrees of renal impairment (mild, moderate, severe, ESRD) compared with subjects with normal renal function.
+This was shown in a study with a single dose of 0.5 mg semaglutide in patients with different degrees of renal impairment (mild, moderate, severe, or kidney failure) compared with subjects with normal renal function.
 This was also shown for subjects with both type 2 diabetes and renal impairment based on data from clinical studies (Figure 3).
 
 Patients with Hepatic impairment - Hepatic impairment does not have any impact on the exposure of semaglutide.
@@ -118,7 +120,7 @@ No clinically relevant drug-drug interaction with semaglutide (Figure 4) was obs
 In a separate study, no apparent effect on the rate of gastric emptying was observed with semaglutide 2.4 mg.
 
 Figure 4.
-Impact of semaglutide on the exposure of co-administered oral medications
+Impact of Semaglutide on the Exposure of Co-administered Oral Medications
 
 Relative exposure in terms of AUC and Cmax for each medication when given with semaglutide compared to without semaglutide.
 Metformin and oral contraceptive drug (ethinylestradiol/levonorgestrel) were assessed at steady state.
@@ -127,3 +129,12 @@ Warfarin (S-warfarin/R-warfarin), digoxin and atorvastatin were assessed after a
 Abbreviations: AUC: area under the curve.
 Cmax: maximum concentration.
 CI: confidence interval.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies (ADAs) in the studies described below with the incidence of ADAs in other studies, including those of semaglutide or of other semaglutide products.
+
+Across the placebo- and active-controlled glycemic control trials, 32 out of 3,150 (1%) OZEMPIC-treated patients developed ADAs to the active ingredient in OZEMPIC (i.e., semaglutide).
+Of the 32 semaglutide- treated patients that developed semaglutide ADAs, 19 patients (0.6% of the overall population) developed antibodies cross-reacting with native GLP-1.
+The in vitro neutralizing activity of the antibodies is uncertain at this time.

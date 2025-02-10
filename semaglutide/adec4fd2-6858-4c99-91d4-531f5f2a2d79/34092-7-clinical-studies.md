@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Overview of Clinical Studies
+## 14.1 Glycemic Control Trials in Adults with Type 2 Diabetes Mellitus
 
 OZEMPIC has been studied as monotherapy and in combination with metformin, metformin and sulfonylureas, metformin and/or thiazolidinedione, and basal insulin in patients with type 2 diabetes mellitus.
 The efficacy of OZEMPIC was compared with placebo, sitagliptin, exenatide extended-release (ER), and insulin glargine.
@@ -12,7 +12,7 @@ In patients with type 2 diabetes mellitus, OZEMPIC produced clinically relevant 
 
 The efficacy of OZEMPIC was not impacted by age, gender, race, ethnicity, BMI at baseline, body weight (kg) at baseline, diabetes duration and level of renal function impairment.
 
-## 14.2 Monotherapy Use of OZEMPIC in Patients with Type 2 Diabetes Mellitus
+Monotherapy Use of OZEMPIC in Adults with Type 2 Diabetes Mellitus
 
 In a 30-week double-blind trial (NCT02054897), 388 patients with type 2 diabetes mellitus inadequately controlled with diet and exercise were randomized to OZEMPIC 0.5 mg or OZEMPIC 1 mg once weekly or placebo.
 Patients had a mean age of 54 years and 54% were men.
@@ -24,11 +24,11 @@ Monotherapy with OZEMPIC 0.5 mg and 1 mg once weekly for 30 weeks resulted in a 
 Table 3.
 Results at Week 30 in a Trial of OZEMPIC as Monotherapy in Adult Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise
 
-|  | Placebo | OZEMPIC0.5 mg | OZEMPIC1 mg |
+|  | Placebo | OZEMPIC 0.5 mg | OZEMPIC 1 mg |
 | --- | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 129 | 128 | 130 |
 | HbA1c (%) |  |  |  |
-| Baseline (mean) | 8.0 | 8.1 | 8.1 |
+| Baseline (mean) | 8 | 8.1 | 8.1 |
 | Change at week 30b | -0.1 | -1.4 | -1.6 |
 | Difference from placebob [95% CI] |  | -1.2 [-1.5, -0.9]c | -1.4 [-1.7, -1.1]c |
 | Patients (%) achieving HbA1c <7% | 28 | 73 | 70 |
@@ -36,19 +36,17 @@ Results at Week 30 in a Trial of OZEMPIC as Monotherapy in Adult Patients with T
 | Baseline (mean) | 174 | 174 | 179 |
 | Change at week 30b | -15 | -41 | -44 |
 
-aThe intent-to-treat population includes all randomized and exposed patients.
-At week 30 the primary HbA1c endpoint was missing for 10%, 7% and 7% of patients and during the trial rescue medication was initiated by 20%, 5% and 4% of patients randomized to placebo, OZEMPIC 0.5 mg and OZEMPIC 1 mg, respectively.
-Missing data were imputed using multiple imputation based on retrieved dropouts.
-
-bIntent-to-treat analysis using ANCOVA adjusted for baseline value and country.
-
-cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+1. a The intent-to-treat population includes all randomized and exposed patients.
+   At week 30 the primary HbA1c endpoint was missing for 10%, 7% and 7% of patients and during the trial rescue medication was initiated by 20%, 5% and 4% of patients randomized to placebo, OZEMPIC 0.5 mg and OZEMPIC 1 mg, respectively.
+   Missing data were imputed using multiple imputation based on retrieved dropouts.
+2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and country.
+3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 89.1 kg, 89.8 kg, 96.9 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
 The mean changes from baseline to week 30 were -1.2 kg, -3.8 kg and -4.7 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
 The difference from placebo (95% CI) for OZEMPIC 0.5 mg was -2.6 kg (-3.8, -1.5), and for OZEMPIC 1 mg was -3.5 kg (-4.8, -2.2).
 
-## 14.3 Combination Therapy Use of OZEMPIC in Patients with Type 2 Diabetes Mellitus
+Combination Therapy Use of OZEMPIC in Adults with Type 2 Diabetes Mellitus
 
 Combination with metformin and/or thiazolidinediones
 
@@ -66,7 +64,7 @@ Results at Week 56 in a Trial of OZEMPIC Compared to Sitagliptin in Adult Patien
 | --- | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 409 | 409 | 407 |
 | HbA1c (%) |  |  |  |
-| Baseline (mean) | 8.0 | 8.0 | 8.2 |
+| Baseline (mean) | 8 | 8 | 8.2 |
 | Change at week 56b | -1.3 | -1.5 | -0.7 |
 | Difference from sitagliptinb [95% CI] | -0.6 [-0.7, -0.4]c | -0.8[-0.9, -0.6]c |  |
 | Patients (%) achieving HbA1c <7% | 66 | 73 | 40 |
@@ -74,20 +72,18 @@ Results at Week 56 in a Trial of OZEMPIC Compared to Sitagliptin in Adult Patien
 | Baseline (mean) | 168 | 167 | 173 |
 | Change at week 56b | -35 | -43 | -23 |
 
-aThe intent-to-treat population includes all randomized and exposed patients.
-At week 56 the primary HbA1c endpoint was missing for 7%, 5% and 6% of patients and during the trial rescue medication was initiated by 5%, 2% and 19% of patients randomized to OZEMPIC 0.5 mg, OZEMPIC 1 mg and sitagliptin, respectively.
-Missing data were imputed using multiple imputation based on retrieved dropouts.
-
-bIntent-to-treat analysis using ANCOVA adjusted for baseline value and country.
-
-cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+1. a The intent-to-treat population includes all randomized and exposed patients.
+   At week 56 the primary HbA1c endpoint was missing for 7%, 5% and 6% of patients and during the trial rescue medication was initiated by 5%, 2% and 19% of patients randomized to OZEMPIC 0.5 mg, OZEMPIC 1 mg and sitagliptin, respectively.
+   Missing data were imputed using multiple imputation based on retrieved dropouts.
+2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and country.
+3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 89.9 kg, 89.2 kg, 89.3 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and sitagliptin arms, respectively.
 The mean changes from baseline to week 56 were -4.2 kg, -5.5 kg, and -1.7 kg for the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and sitagliptin arms, respectively.
 The difference from sitagliptin (95% CI) for OZEMPIC 0.5 mg was -2.5 kg (-3.2, -1.8), and for OZEMPIC 1 mg was -3.8 kg (-4.5, -3.1).
 
 Figure 5.
-Mean HbA1c (%) over time - baseline to week 56
+Mean HbA1c (%) Over Time - Baseline to Week 56
 
 Combination with metformin or metformin with sulfonylurea
 
@@ -101,7 +97,7 @@ Treatment with OZEMPIC 1 mg once weekly for 56 weeks resulted in a statistically
 Table 5.
 Results at Week 56 in a Trial of OZEMPIC Compared to Exenatide 2 mg Once Weekly in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with Sulfonylurea
 
-|  | OZEMPIC1 mg | Exenatide ER 2 mg |
+|  | OZEMPIC 1 mg | Exenatide ER 2 mg |
 | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 404 | 405 |
 | HbA1c (%) |  |  |
@@ -113,16 +109,14 @@ Results at Week 56 in a Trial of OZEMPIC Compared to Exenatide 2 mg Once Weekly 
 | Baseline (mean) | 191 | 188 |
 | Change at week 56b | -44 | -34 |
 
-aThe intent-to-treat population includes all randomized and exposed patients.
-At week 56 the primary HbA1c endpoint was missing for 9% and 11% of patients and during the trial rescue medication was initiated by 5% and 10% of patients randomized to OZEMPIC 1 mg and exenatide ER 2 mg, respectively.
-Missing data were imputed using multiple imputation based on retrieved dropouts.
-
-bIntent-to-treat analysis using ANCOVA adjusted for baseline value and country.
-
-cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+1. a The intent-to-treat population includes all randomized and exposed patients.
+   At week 56 the primary HbA1c endpoint was missing for 9% and 11% of patients and during the trial rescue medication was initiated by 5% and 10% of patients randomized to OZEMPIC 1 mg and exenatide ER 2 mg, respectively.
+   Missing data were imputed using multiple imputation based on retrieved dropouts.
+2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and country.
+3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 96.2 kg and 95.4 kg in the OZEMPIC 1 mg and exenatide ER arms, respectively.
-The mean changes from baseline to week 56 were -4.8 kg and -2.0 kg in the OZEMPIC 1 mg and exenatide ER arms, respectively.
+The mean changes from baseline to week 56 were -4.8 kg and -2 kg in the OZEMPIC 1 mg and exenatide ER arms, respectively.
 The difference from exenatide ER (95% CI) for OZEMPIC 1 mg was -2.9 kg (-3.6, -2.1).
 
 Combination with metformin or metformin with sulfonylurea
@@ -142,40 +136,34 @@ Treatment with OZEMPIC 0.5 mg and 1 mg once weekly for 30 weeks resulted in a st
 Table 6.
 Results at Week 30 in a Trial of OZEMPIC Compared to Insulin Glargine in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with Sulfonylurea
 
-|  | OZEMPIC0.5 mg | OZEMPIC1 mg | Insulin Glargine |
+|  | OZEMPIC 0.5 mg | OZEMPIC 1 mg | Insulin Glargine |
 | --- | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 362 | 360 | 360 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.1 | 8.2 | 8.1 |
 | Change at week 30b | -1.2 | -1.5 | -0.9 |
-| Difference from insulin glargineb [95% CI] | -0.3 [-0.5, -0.1]c | -0.6[-0.8, -0.4]c |  |
+| Difference from insulin glargineb [95% CI] | -0.3 [-0.5, -0.1]c | -0.6 [-0.8, -0.4]c |  |
 | Patients (%) achieving HbA1c <7% | 55 | 66 | 40 |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 172 | 179 | 174 |
 | Change at week 30b | -35 | -46 | -37 |
 
-aThe intent-to-treat population includes all randomized and exposed patients.
-At week 30 the primary HbA1c endpoint was missing for 8%, 6% and 6% of patients and during the trial rescue medication was initiated by 4%, 3% and 1% of patients randomized to OZEMPIC 0.5 mg, OZEMPIC 1 mg and insulin glargine, respectively.
-Missing data were imputed using multiple imputation based on retrieved dropouts.
-
-bIntent-to-treat analysis using ANCOVA adjusted for baseline value, country and stratification factors.
-
-cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
-
-The mean baseline body weight was 93.7 kg, 94.0 kg, 92.6 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
-The mean changes from baseline to week 30 were -3.2 kg, -4.7 kg and 0.9 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
-The difference from insulin glargine (95% CI) for OZEMPIC 0.5 mg was -4.1 kg (-4.9, -3.3) and for OZEMPIC 1 mg was -5.6 kg (-6.4, -4.8).
-
-Combination with metformin or metformin with sulfonylurea
-
-In a 40-week, double-blind trial (NCT03989232), 961 patients with type 2 diabetes currently treated with metformin with or without sulfonylurea treatment were randomized to OZEMPIC 2 mg or OZEMPIC 1 mg once weekly.
-Patients had a mean age of 58.0 years and 58.6% were men.
-The mean duration of type 2 diabetes was 9.5 years and the mean BMI was 34.6 kg/m2.
-At randomization, 53.3% of patients were treated with sulfonylurea and metformin.
-Overall, 88.1% were White, 4.5% were Black or African American, and 7.2% were Asian; 11.6% identified as Hispanic or Latino ethnicity.
-Treatment with OZEMPIC 2 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with OZEMPIC 1 mg (see Table 7).
-
-Patients were stratified by region (Japan/outside Japan) at randomization.
+1. a The intent-to-treat population includes all randomized and exposed patients.
+   At week 30 the primary HbA1c endpoint was missing for 8%, 6% and 6% of patients and during the trial rescue medication was initiated by 4%, 3% and 1% of patients randomized to OZEMPIC 0.5 mg, OZEMPIC 1 mg and insulin glargine, respectively.
+   Missing data were imputed using multiple imputation based on retrieved dropouts.
+2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value, country and stratification factors.
+3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+4. The mean baseline body weight was 93.7 kg, 94 kg, 92.6 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
+   The mean changes from baseline to week 30 were -3.2 kg, -4.7 kg and 0.9 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
+   The difference from insulin glargine (95% CI) for OZEMPIC 0.5 mg was -4.1 kg (-4.9, -3.3) and for OZEMPIC 1 mg was -5.6 kg (-6.4, -4.8).
+5. Combination with metformin or metformin with sulfonylurea
+6. In a 40-week, double-blind trial (NCT03989232), 961 patients with type 2 diabetes currently treated with metformin with or without sulfonylurea treatment were randomized to OZEMPIC 2 mg or OZEMPIC 1 mg once weekly.
+   Patients had a mean age of 58 years and 58.6% were men.
+   The mean duration of type 2 diabetes was 9.5 years and the mean BMI was 34.6 kg/m2.
+   At randomization, 53.3% of patients were treated with sulfonylurea and metformin.
+   Overall, 88.1% were White, 4.5% were Black or African American, and 7.2% were Asian; 11.6% identified as Hispanic or Latino ethnicity.
+   Treatment with OZEMPIC 2 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with OZEMPIC 1 mg (see Table 7).
+   Patients were stratified by region (Japan/outside Japan) at randomization.
 
 Table 7.
 Results at Week 40 in a Trial of OZEMPIC 2 mg Compared to OZEMPIC 1 mg in Adult Patients with Type 2 Diabetes Mellitus in Combination With Metformin or Metformin with Sulfonylurea
@@ -186,20 +174,18 @@ Results at Week 40 in a Trial of OZEMPIC 2 mg Compared to OZEMPIC 1 mg in Adult 
 | HbA1c (%) |  |  |
 | Baseline (mean) | 8.8 | 8.9 |
 | Change at week 40b | -1.9 | -2.1 |
-| Difference from OZEMPIC 1 mg [95% CI] |  | -0.2[-0.31; -0.04]c |
+| Difference from OZEMPIC 1 mg [95% CI] |  | -0.2 [-0.31; -0.04]c |
 | Patients (%) achieving HbA1c <7%a | 56 | 64 |
 | FPG (mg/dL) |  |  |
 | Baseline (mean) | 196 | 193 |
 | Change at week 40b | -55 | -59 |
 
-a The intent-to-treat population includes all randomized subjects.
-At week 40 the primary HbA1c endpoint was missing for 3% and 5% of patients randomized to OZEMPIC 1 mg and OZEMPIC 2 mg, respectively.
-Missing data were imputed using multiple imputation based on retrieved dropouts.
-For calculation of proportions, imputed values are dichotomized and the denominator is the number of all randomized subjects.
-
-b Intent-to-treat analysis using ANCOVA adjusted for baseline value and stratification factor.
-
-c p<0.01 (2-sided) for superiority, adjusted for multiplicity.
+1. a The intent-to-treat population includes all randomized subjects.
+   At week 40 the primary HbA1c endpoint was missing for 3% and 5% of patients randomized to OZEMPIC 1 mg and OZEMPIC 2 mg, respectively.
+   Missing data were imputed using multiple imputation based on retrieved dropouts.
+   For calculation of proportions, imputed values are dichotomized and the denominator is the number of all randomized subjects.
+2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and stratification factor.
+3. c p<0.01 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 98.6 kg and 100.1 kg in the OZEMPIC 1 mg and OZEMPIC 2 mg arms, respectively.
 The mean changes from baseline to week 40 were -5.6 kg and -6.4 kg in the OZEMPIC 1 mg and OZEMPIC 2 mg arms, respectively.
@@ -208,7 +194,7 @@ The difference between treatment arms in body weight change from baseline at wee
 Combination with basal insulin
 
 In a 30-week, double-blind trial (NCT02305381), 397 patients with type 2 diabetes mellitus inadequately controlled with basal insulin, with or without metformin, were randomized to OZEMPIC 0.5 mg once weekly, OZEMPIC 1 mg once weekly, or placebo.
-Patients with HbA1c ≤ 8.0% at screening reduced their insulin dose by 20% at start of the trial to reduce the risk of hypoglycemia.
+Patients with HbA1c ≤8.0% at screening reduced their insulin dose by 20% at start of the trial to reduce the risk of hypoglycemia.
 Patients had a mean age of 59 years and 56% were men.
 The mean duration of type 2 diabetes was 13 years, and the mean BMI was 32 kg/m2.
 Overall, 78% were White, 5% were Black or African American, and 17% were Asian; 12% identified as Hispanic or Latino ethnicity.
@@ -218,31 +204,29 @@ Treatment with OZEMPIC resulted in a statistically significant reduction in HbA1
 Table 8.
 Results at Week 30 in a Trial of OZEMPIC in Adult Patients with Type 2 Diabetes Mellitus in Combination with Basal Insulin with or without Metformin
 
-|  | Placebo | OZEMPIC0.5 mg | OZEMPIC1 mg |
+|  | Placebo | OZEMPIC 0.5 mg | OZEMPIC 1 mg |
 | --- | --- | --- | --- |
 | Intent-to-Treat (ITT) Population (N)a | 133 | 132 | 131 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.4 | 8.4 | 8.3 |
 | Change at week 30b | -0.2 | -1.3 | -1.7 |
-| Difference from placebob [95% CI] |  | -1.1 [-1.4, -0.8]c | -1.6[-1.8, -1.3]c |
+| Difference from placebob [95% CI] |  | -1.1 [-1.4, -0.8]c | -1.6 [-1.8, -1.3]c |
 | Patients (%) achieving HbA1c <7% | 13 | 56 | 73 |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 154 | 161 | 153 |
 | Change at week 30b | -8 | -28 | -39 |
 
-aThe intent-to-treat population includes all randomized and exposed patients.
-At week 30 the primary HbA1c endpoint was missing for 7%, 5% and 5% of patients and during the trial rescue medication was initiated by 14%, 2% and 1% of patients randomized to placebo, OZEMPIC 0.5 mg and OZEMPIC 1 mg, respectively.
-Missing data were imputed using multiple imputation based on retrieved dropouts.
-
-bIntent-to-treat analysis using ANCOVA adjusted for baseline value, country and stratification factors.
-
-cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+1. a The intent-to-treat population includes all randomized and exposed patients.
+   At week 30 the primary HbA1c endpoint was missing for 7%, 5% and 5% of patients and during the trial rescue medication was initiated by 14%, 2% and 1% of patients randomized to placebo, OZEMPIC 0.5 mg and OZEMPIC 1 mg, respectively.
+   Missing data were imputed using multiple imputation based on retrieved dropouts.
+2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value, country and stratification factors.
+3. c p<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 89.9 kg, 92.7 kg, and 92.5 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
-The mean changes from baseline to week 30 were -1.2 kg, -3.5 kg, and ‑6.0 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
+The mean changes from baseline to week 30 were -1.2 kg, -3.5 kg, and -6 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
 The difference from placebo (95% CI) for OZEMPIC 0.5 mg was -2.2 kg (-3.4, -1.1), and for OZEMPIC 1 mg was -4.7 kg (-5.8, -3.6).
 
-## 14.4 Cardiovascular Outcomes Trial of OZEMPIC in Patients with Type 2 Diabetes Mellitus and Cardiovascular Disease
+## 14.2 Cardiovascular Outcomes Trial of OZEMPIC in Adults with Type 2 Diabetes Mellitus and Cardiovascular Disease
 
 SUSTAIN 6 (NCT01720446) was a multi-center, multi-national, placebo-controlled, double-blind cardiovascular outcomes trial.
 In this trial, 3,297 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to OZEMPIC (0.5 mg or 1 mg) once weekly or placebo for a minimum observation time of 2 years.
@@ -263,7 +247,9 @@ The statistical analysis plan pre specified that the 0.5 mg and 1 mg doses would
 Type-1 error was controlled across multiple tests using a hierarchical testing strategy.
 
 OZEMPIC significantly reduced the occurrence of MACE.
-The estimated hazard ratio for time to first MACE was 0.74 (95% CI: 0.58, 0.95).
+The estimated hazard ratio for time to first MACE
+
+was 0.74 (95% CI: 0.58, 0.95).
 Refer to Figure 6 and Table 9.
 
 Figure 6.
@@ -274,9 +260,9 @@ The treatment effect for the primary composite endpoint and its components in th
 Table 9.
 Treatment Effect for MACE and its Components, Median Study Observation Time of 2.1 Years
 
-|  | PlaceboN=1649 (%) | OZEMPICN=1648 (%) | Hazard ratio vs Placebo(95% CI)a |
+|  | Placebo N=1649 (%) | OZEMPIC N=1648 (%) | Hazard ratio vs Placebo (95% CI)a |
 | --- | --- | --- | --- |
-| Composite of cardiovascular death, non-fatalmyocardial infarction, non-fatalstroke (time to first occurrence) | 146 (8.9) | 108 (6.6) | 0.74 (0.58, 0.95) |
+| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence) | 146 (8.9) | 108 (6.6) | 0.74 (0.58, 0.95) |
 | Non-fatal Myocardial Infarction | 64 (3.9) | 47 (2.9) | 0.74 (0.51, 1.08) |
 | Non-fatal Stroke | 44 (2.7) | 27 (1.6) | 0.61 (0.38, 0.99) |
 | Cardiovascular Death | 46 (2.8) | 44 (2.7) | 0.98 (0.65, 1.48) |
@@ -284,3 +270,67 @@ Treatment Effect for MACE and its Components, Median Study Observation Time of 2
 | Fatal or Non-fatal Stroke | 46 (2.8) | 30 (1.8) | 0.65 (0.41, 1.03) |
 
 a Cox-proportional hazards models with treatment as factor and stratified by evidence of cardiovascular disease, insulin treatment and renal impairment.
+
+## 14.3 Kidney Outcomes Trial of OZEMPIC in Adults with Type 2 Diabetes Mellitus and Chronic Kidney Disease
+
+FLOW (NCT03819153) was a randomized, double-blind, placebo-controlled, event driven trial in adults with type 2 diabetes mellitus and chronic kidney disease (eGFR 25 to 75 mL/min/1.73 m2 with urine albumin-to- creatinine ratio [UACR] >100 mg/g and <5000 mg/g).
+All patients needed to have an HbA1c ≤10% at screening and be receiving standard of care background therapy, including a maximum tolerated labeled dose of a renin- angiotensin-aldosterone system (RAAS) blocking agent including an angiotensin converting enzyme (ACE) inhibitor or an angiotensin II receptor blocker (ARB), unless such treatment was contraindicated or not tolerated.
+The trial excluded patients with congenital or hereditary kidney diseases including polycystic kidney disease, autoimmune kidney diseases including glomerulonephritis or congenital urinary tract malformations.
+
+A total of 3,533 patients were randomized to receive OZEMPIC 1 mg once weekly or placebo and were followed for a median of 41 months.
+The mean age of the study population was 67 years, and 70% of patients were male.
+Approximately 66% of the trial population was White, 24% Asian, and 5% Black or African American.
+At baseline, the mean eGFR was 47 mL/min/1.73m2, with 11% of patients having an eGFR <30 mL/min/1.73m2.
+Median baseline UACR was 568 mg/g with 69% of patients with a UACR >300 mg/g.
+At baseline, 95% of patients were treated with an ACE inhibitor or ARB, 16% were on sodium-glucose cotransporter 2 (SGLT2) inhibitors, 76% were on a statin, and 50% were on an antiplatelet agent.
+
+OZEMPIC was superior to placebo in reducing the incidence of the primary composite endpoint of a sustained decline in eGFR of ≥50%, sustained eGFR <15 mL/min/1.73 m2, chronic renal replacement therapy, renal death, CV death (HR 0.76 [95% CI 0.66, 0.88], p=0.0003) as shown in Table 10 and Figure 7.
+The treatment effect reflected a reduction in a sustained decline in eGFR of ≥50%, progression to kidney failure and CV death.
+There were few renal deaths during the trial.
+
+OZEMPIC also reduced the annual rate of change in eGFR (Figure 9), the incidence of a composite cardiovascular endpoint, consisting of non-fatal myocardial infarction (MI), non-fatal stroke, and cardiovascular death, and the incidence of all-cause death (Table 10 and Figure 8).
+
+The treatment effect on the primary composite endpoint was generally consistent across the pre-specified subgroups examined, including age, biological sex, eGFR and UACR.
+The treatment benefit on the primary composite endpoint was not evident in patients taking SGLT2 inhibitors at baseline, but there were few events in these patients.
+
+Table 10: Analyses of the Primary and Secondary Endpoints and their Individual Components in FLOW Trial
+
+|  | Placebo N=1766 (%) | OZEMPIC 1 mg N=1767 (%) | Hazard ratio vs placebo (95% CI)1 | p-value2 |
+| --- | --- | --- | --- | --- |
+|  | Number of Patients (%) |  |  |  |
+| Composite Endpoint (≥ 50% sustained eGFR decline, sustained eGFR < 15 mL/min/1.73 m2, chronic renal replacement therapy, or renal or cardiovascular death (time to first occurrence)3 | 410 (23.2) | 331 (18.7) | 0.76 (0.66, 0.88) | 0.0003 |
+| ≥ 50% sustained eGFR decline3 | 213 (12.1) | 165 (9.3) | 0.73 (0.59, 0.89) |  |
+| Sustained eGFR <15mL/min/1.73 m2 3 | 110 (6.2) | 92 (5.2) | 0.80 (0.61, 1.06) |  |
+| Chronic renal replacement therapy | 100 (5.7) | 87 (4.9) | 0.84 (0.63, 1.12) |  |
+| Renal death | 5 (0.3) | 5 (0.3) | 0.97 (0.27, 3.49) |  |
+| Cardiovascular death | 169 (9.6) | 123 (7.0) | 0.71 (0.56, 0.89) |  |
+| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence) | 254 (14.4) | 212 (12.0) | 0.82 (0.68, 0.98) | 0.0289 |
+| All-cause death | 279 (15.8) | 227 (12.8) | 0.80 (0.67, 0.95) | 0.0104 |
+
+1 Cox proportional hazards model with treatment as factor and stratified by baseline use of SGLT2-inhibitor at baseline (yes or no).
+
+2 Two-sided p-value for the test of no difference.
+The significance level was 0.03224.
+
+3 Sustained was defined as having 2 consecutive measurements ≥28 days apart fulfilling the criteria.
+
+Figure 7.
+Cumulative Incidence: Time to First Occurrence of the Primary Composite Endpoint - Sustained Decline in eGFR ≥50%, Sustained eGFR<15 mL/min/1.73m2, Chronic Renal Replacement Therapy, Renal Death or CV Death
+
+Cumulative incidence estimates are based on time from randomization to first composite renal event with non-CV and non-renal death modelled as competing risk.
+The x-axis is truncated at 52 months where approximately 5% of the population was in the trial.
+
+Sustained was defined as having 2 consecutive measurements ≥28 days apart fulfilling the criteria.
+
+Figure 8.
+Cumulative incidence: Time to First Occurrence of MACE in FLOW Trial
+
+1. Cumulative incidence estimates are based on time from randomization to first EAC-confirmed MACE with non-CV death modelled as competing risk.
+   The x-axis is truncated at 52 months where approximately 5% of the population was in the trial.
+
+Figure 9.
+Observed Mean Plot: eGFR (mL/min/1.73m2) by Week in FLOW Trial
+
+1. Observed data from the in-trial period until week 104.
+   Error bars are +/- 1.96 *standard error of the mean eGFR, which was calculated using the CKD-EPI 2009 formula.
+2. CKD-EPI: Chronic Kidney Disease Epidemiology Collaboration, eGFR: estimated glomerular filtration rate.

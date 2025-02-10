@@ -2,7 +2,7 @@
 
 How Supplied
 
-Injection: clear, colorless solution of 0.68 mg/mL, 1.34 mg/mL or 2.68 mg/mL of semaglutide available in pre-filled, disposable, single-patient-use pens in the following packaging configurations:
+Injection: clear, colorless solution of 0.68 mg/mL, 1.34 mg/mL or 2.68 mg/mL of semaglutide available in prefilled, disposable, single-patient-use pens in the following packaging configurations:
 
 | Dose per Injection | Use For | Total Strength per Total Volume | Doses per Pen | Carton Contents | NDC |
 | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,7 @@ An OZEMPIC pen must never be shared between patients, even if the needle is chan
 
 Recommended Storage
 
-Prior to first use, OZEMPIC should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 10).
+Prior to first use, OZEMPIC should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze OZEMPIC and do not use OZEMPIC if it has been frozen.
 
@@ -29,10 +29,7 @@ OZEMPIC should be protected from excessive heat and sunlight.
 Always remove and safely discard the needle after each injection and store the OZEMPIC pen without an injection needle attached.
 Always use a new needle for each injection.
 
-The storage conditions are summarized in Table 10:
-
-1. Table 10.
-   Recommended Storage Conditions for the OZEMPIC Pen
+Recommended Storage Conditions for the OZEMPIC Pen
 
 | Prior to first use | After first use |  |
 | --- | --- | --- |

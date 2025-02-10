@@ -5,12 +5,12 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 Risk of Thyroid C-cell Tumors
 
 Inform patients that semaglutide causes thyroid C-cell tumors in rodents and that the human relevance of this finding has not been determined.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning, Warnings and Precautions (5.1)].
 
-Pancreatitis
+Acute Pancreatitis
 
-Inform patients of the potential risk for pancreatitis.
-Instruct patients to discontinue OZEMPIC promptly and contact their physician if pancreatitis is suspected (severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting) [see Warnings and Precautions (5.2)].
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Instruct patients to discontinue OZEMPIC promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Diabetic Retinopathy Complications
 
@@ -25,25 +25,31 @@ Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin
 Inform patients that the risk of hypoglycemia is increased when OZEMPIC is used with an insulin secretagogue (such as a sulfonylurea) or insulin.
 Educate patients on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.5)].
 
-Acute Kidney Injury
+Acute Kidney Injury Due to Volume Depletion
 
-Advise patients treated with OZEMPIC of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
-Inform patients of the potential risk for worsening renal function and explain the associated signs and symptoms of renal impairment, as well as the possibility of dialysis as a medical intervention if acute kidney injury occurs [see Warnings and Precautions (5.6)].
+Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal adverse reactions.
+Advise patients to take precautions to avoid fluid depletion.
+Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.6)].
+
+Severe Gastrointestinal Adverse Reactions
+
+Inform patients of the potential risk of severe gastrointestinal adverse reactions.
+Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions (5.7)]
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of OZEMPIC.
-Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking OZEMPIC and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.7)].
+Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking OZEMPIC and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.8)].
 
 Acute Gallbladder Disease
 
 Inform patients of the potential risk for cholelithiasis or cholecystitis.
-Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.8)].
+Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.9)].
 
 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 Inform patients that OZEMPIC may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
-Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking OZEMPIC [see Warnings and Precautions (5.9)].
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking OZEMPIC [see Warnings and Precautions (5.10)].
 
 Pregnancy
 
@@ -54,7 +60,7 @@ Missed doses
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 5 days after the missed dose.
 If more than 5 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
-In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.2)].
+In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.1)].
 
 Manufactured by:
 
@@ -74,10 +80,10 @@ Plainsboro, NJ 08536
 
 1-888-693-6742
 
-Version: 10
+Version: 11
 
 OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2024 Novo Nordisk
+© 2025 Novo Nordisk

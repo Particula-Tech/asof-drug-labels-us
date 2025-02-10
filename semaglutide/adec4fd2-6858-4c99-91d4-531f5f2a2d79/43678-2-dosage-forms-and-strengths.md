@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: clear, colorless solution available in 3 pre-filled, disposable, single-patient-use pens:
+Injection: clear, colorless solution available in 3 prefilled, disposable, single-patient-use pens:
 
 | Dose per Injection | Total Strength per Total Volume | Strength per mL |
 | --- | --- | --- |

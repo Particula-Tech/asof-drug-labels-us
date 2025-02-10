@@ -8,7 +8,7 @@ A statistically significant increase in thyroid C-cell adenomas and a numerical 
 1. In a 2-year carcinogenicity study in Sprague Dawley rats, subcutaneous doses of 0.0025, 0.01, 0.025 and 0.1 mg/kg/day were administered (below quantification, 0.2-, 0.5-, and 3-fold the exposure at the MRHD).
    A statistically significant increase in thyroid C-cell adenomas was observed in males and females at all dose levels, and a statistically significant increase in thyroid C-cell carcinomas was observed in males at ≥0.01 mg/kg/day, at clinically relevant exposures.
 
-Human relevance of thyroid C-cell tumors in rats is unknown and could not be determined by clinical studies or nonclinical studies [see Boxed Warning and Warnings and Precautions (5.1)].
+Human relevance of thyroid C-cell tumors in rats is unknown and could not be determined by clinical studies or nonclinical studies [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Semaglutide was not mutagenic or clastogenic in a standard battery of genotoxicity tests (bacterial mutagenicity (Ames), human lymphocyte chromosome aberration, rat bone marrow micronucleus).
 

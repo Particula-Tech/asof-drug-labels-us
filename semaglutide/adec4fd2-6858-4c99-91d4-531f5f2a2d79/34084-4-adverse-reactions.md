@@ -3,13 +3,14 @@
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
 - •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
-- •Pancreatitis [see Warnings and Precautions (5.2)]
+- •Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - •Diabetic Retinopathy Complications [see Warnings and Precautions (5.3)]
 - •Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.5)]
-- •Acute Kidney Injury [see Warnings and Precautions (5.6)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- •Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
-- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions [(5.9)]
+- •Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.6)]
+- •Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.7)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- •Acute Gallbladder Disease [see Warnings and Precautions (5.9)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -48,14 +49,17 @@ Adverse Reactions in Placebo-Controlled Trials Reported in ≥5% of OZEMPIC-Trea
 | Adverse Reaction | Placebo(N=262)% | OZEMPIC 0.5 mg(N=260)% | OZEMPIC 1 mg(N=261)% |
 | --- | --- | --- | --- |
 | Nausea | 6.1 | 15.8 | 20.3 |
-| Vomiting | 2.3 | 5.0 | 9.2 |
+| Vomiting | 2.3 | 5 | 9.2 |
 | Diarrhea | 1.9 | 8.5 | 8.8 |
 | Abdominal pain | 4.6 | 7.3 | 5.7 |
-| Constipation | 1.5 | 5.0 | 3.1 |
+| Constipation | 1.5 | 5 | 3.1 |
 
 In the pool of placebo- and active-controlled trials and in the 2-year cardiovascular outcomes trial, the types and frequency of common adverse reactions, excluding hypoglycemia, were similar to those listed in Table 1.
 
 In a clinical trial with 959 patients treated with OZEMPIC 1 mg or OZEMPIC 2 mg once weekly as add-on to metformin with or without sulfonylurea treatment for 40 weeks, no new safety signals were identified.
+
+In the FLOW trial [see Clinical Studies 14.3] in patients with type 2 diabetes mellitus and chronic kidney disease, safety data collection was limited to serious adverse events and selected predefined categories of adverse events regardless of seriousness.
+There were no new serious or severe adverse reactions identified in this trial.
 
 Gastrointestinal Adverse Reactions
 
@@ -63,7 +67,7 @@ In the pool of placebo-controlled trials, gastrointestinal adverse reactions occ
 The majority of reports of nausea, vomiting, and/or diarrhea occurred during dose escalation.
 More patients receiving OZEMPIC 0.5 mg (3.1%) and OZEMPIC 1 mg (3.8%) discontinued treatment due to gastrointestinal adverse reactions than patients receiving placebo (0.4%).
 
-In the trial with OZEMPIC 1 mg and 2 mg, gastrointestinal adverse reactions occurred more frequently among patients receiving OZEMPIC 2 mg (34.0%) vs OZEMPIC 1 mg (30.8%).
+In the trial with OZEMPIC 1 mg and 2 mg, gastrointestinal adverse reactions occurred more frequently among patients receiving OZEMPIC 2 mg (34%) vs OZEMPIC 1 mg (30.8%).
 
 1. In addition to the reactions in Table 1, the following gastrointestinal adverse reactions with a frequency of <5% were associated with OZEMPIC (frequencies listed, respectively, as: placebo; 0.5 mg; 1 mg): dyspepsia (1.9%, 3.5%, 2.7%), eructation (0%, 2.7%, 1.1%), flatulence (0.8%, 0.4%, 1.5%), gastroesophageal reflux disease (0%, 1.9%, 1.5%), and gastritis (0.8%, 0.8%, 0.4%).
 
@@ -90,7 +94,7 @@ Hypoglycemia Adverse Reactions in Placebo-Controlled Trials in Patients with Typ
 | Severe† or Blood Glucose Confirmed Symptomatic (≤56 mg/dL glucose threshold) | 5.3% | 8.3% | 10.7% |
 | † “Severe” hypoglycemia adverse reactions are episodes requiring the assistance of another person. |  |  |  |
 
-Hypoglycemia was more frequent when OZEMPIC was used in combination with a sulfonylurea [see Warnings and Precautions (5.5) and Clinical Studies (14)].
+Hypoglycemia was more frequent when OZEMPIC was used in combination with a sulfonylurea [see Warnings and Precautions (5.5), Clinical Studies (14)].
 Severe hypoglycemia occurred in 0.8% and 1.2% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
 Documented symptomatic hypoglycemia occurred in 17.3% and 24.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
 Severe or blood glucose confirmed symptomatic hypoglycemia occurred in 6.5% and 10.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
@@ -103,6 +107,10 @@ Increases in Amylase and Lipase
 
 In placebo-controlled trials, patients exposed to OZEMPIC had a mean increase from baseline in amylase of 13% and lipase of 22%.
 These changes were not observed in placebo-treated patients.
+
+Acute Pancreatitis
+
+In glycemic control trials, acute pancreatitis was confirmed by adjudication in 7 OZEMPIC-treated patients (0.3 cases per 100 patient years) versus 3 in comparator-treated patients (0.2 cases per 100 patient years).
 
 Cholelithiasis
 
@@ -118,18 +126,7 @@ Fatigue, Dysgeusia and Dizziness
 
 Other adverse reactions with a frequency of >0.4% were associated with OZEMPIC include fatigue, dysgeusia and dizziness.
 
-## 6.2 Immunogenicity
-
-Consistent with the potentially immunogenic properties of protein and peptide pharmaceuticals, patients treated with OZEMPIC may develop anti-semaglutide antibodies.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, the incidence of antibodies to semaglutide in the studies described below cannot be directly compared with the incidence of antibodies in other studies or to other products.
-
-Across the placebo- and active-controlled glycemic control trials, 32 (1.0%) OZEMPIC-treated patients developed anti-drug antibodies (ADAs) to the active ingredient in OZEMPIC (i.e., semaglutide).
-Of the 32 semaglutide-treated patients that developed semaglutide ADAs, 19 patients (0.6% of the overall population) developed antibodies cross-reacting with native GLP-1.
-The in vitro neutralizing activity of the antibodies is uncertain at this time.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of OZEMPIC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -140,4 +137,8 @@ Hypersensitivity: anaphylaxis, angioedema, rash, urticaria.
 
 Hepatobiliary: cholecystitis, cholecystectomy
 
+Neurologic: dysesthesia
+
 Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
+
+Skin and Subcutaneous Tissue: alopecia.
