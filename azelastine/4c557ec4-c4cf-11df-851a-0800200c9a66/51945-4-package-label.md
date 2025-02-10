@@ -62,13 +62,15 @@ Repriming (only if you have not used Dymista for 14 or more days): 1 spray or un
 
 FOR NASAL USE ONLY
 
-Manufactured by: Cipla Ltd., Indore SEZ, Pithampur, India M.L.
+Manufactured by: Cipla Ltd., Indore SEZ, Pithampur, India
+
+M.L.
 No. 28/2/2010
 
-For: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
+For: Meda Pharmaceuticals Inc. Canonsburg, PA 15317 U.S.A.
 
-© 2022 Viatris Inc.
+© 2024 Viatris Inc.
 
-UC-023A6-03N
+UC-023A6-04N
 
-U.S. Patents 8,163,723; 8,168,620; 9,259,428; 9,901,585
+U.S. Patent 8,168,620
